@@ -1,5 +1,0 @@
-basepath  = "."
-
-[[paths]]
-reference = "en/**"
-l10n = "{locale}/**"
