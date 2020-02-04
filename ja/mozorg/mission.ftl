@@ -2,24 +2,37 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/mission/
 
-mission-were-building-a-better-internet = 私たちは、より良いインターネットを築き上げています
-mission-our-mission-is-to-ensure-the-internet = 私たちのミッションは、インターネットが世界的な公共資源で、開かれた、誰にでもアクセス可能なものであるよう見守っていくことです。インターネットでは本当に人々が第一に考えられ、個人個人が経験を積み、力を持ち、安全性や自立性を保証されるべきです。
+私たちは、より良いインターネットを築き上げています
+
+mission-our-mission-is-to-ensure-the-internet = 私たちの使命は、インターネットが世界的な公共資源であり、すべての人がアクセスできるようにすることです。個人が自分の経験を形作り、力を与えられ、安全で独立した、本当に人々を第一に考えるインターネット。
+
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
-mission-our-mission-is-to-promote-openness = 私たちのミッションは、インターネット上のオープン性と革新、機会を促進することです。
-mission-at-mozilla-were-a-global-community = Mozilla は、インターネットを活性化させアクセスしやすい環境を実現し、世界中の人々が情報を活用してウェブの創造に貢献できることを目指すグローバルなコミュニティです。研究者、思想家、エンジニアが共に活動しています。
-mission-we-believe-this-act-of-human-collaboration = 人々がこのようにオープンなプラットフォーム全体にわたって協力し合う活動は、個人の成長と私たちみんなの未来にとって不可欠であると Mozilla は考えています。
+私たちのミッションは、インターネット上のオープン性と革新、機会を促進することです。
+
+Mozilla は、インターネットを活性化させアクセスしやすい環境を実現し、世界中の人々が情報を活用してウェブの創造に貢献できることを目指すグローバルなコミュニティです。研究者、思想家、エンジニアが共に活動しています。
+
+人々がこのようにオープンなプラットフォーム全体にわたって協力し合う活動は、個人の成長と私たちみんなの未来にとって不可欠であると Mozilla は考えています。
+
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = 私たちのミッションを遂行するガイドとなる価値観や指針について知るには、<a href="{ $url }">Mozilla マニフェスト</a> をご覧ください。
-mission-watch-the-video-above-to-learn-more = Mozilla とは何か、ウェブをどのようにより良くしているかを知るためには、この動画をご覧ください。
-mission-get-involved = コミュニティ
-mission-volunteer-opportunities-in-a-number = Mozilla の活動を支えているのは世界中にいるコミュニティです。
-mission-history = 歴史
-mission-where-we-come-from-and-how-we-got = Mozilla プロジェクトのストーリー。
-mission-forums = フォーラム
-mission-topics-include-support-products = サポート、製品、技術に関するトピック。
-mission-governance = ガバナンス
-mission-our-structure-organization-and-the = 組織の説明、方針について。
+私たちのミッションを遂行するガイドとなる価値観や指針について知るには、<a href="%(url)s">Mozilla マニフェスト</a> をご覧ください。
+
+Mozilla とは何か、ウェブをどのようにより良くしているかを知るためには、この動画をご覧ください。
+
+参加しよう
+
+Mozilla の活動を支えているのは世界中にいるコミュニティです。
+
+歴史
+
+Mozilla プロジェクトのストーリー。
+
+フォーラム
+
+サポート、製品、技術に関するトピック。
+
+ガバナンス
+
+組織の説明、方針について。
