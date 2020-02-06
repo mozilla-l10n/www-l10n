@@ -4,35 +4,35 @@
 
 ### URL: https://www-dev.allizom.org/mission/
 
-私たちは、より良いインターネットを築き上げています
+mission-were-building-a-better-internet = 私たちは、より良いインターネットを築き上げています
 
-mission-our-mission-is-to-ensure-the-internet = 私たちの使命は、インターネットが世界的な公共資源であり、すべての人がアクセスできるようにすることです。個人が自分の経験を形作り、力を与えられ、安全で独立した、本当に人々を第一に考えるインターネット。
+mission-our-mission-is-to-ensure-the-internet = Our mission is to ensure the Internet is a global public resource, open and accessible to all.An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
-私たちのミッションは、インターネット上のオープン性と革新、機会を促進することです。
+mission-our-mission-is-to-promote-openness = 私たちのミッションは、インターネット上のオープン性と革新、機会を促進することです。
 
-Mozilla は、インターネットを活性化させアクセスしやすい環境を実現し、世界中の人々が情報を活用してウェブの創造に貢献できることを目指すグローバルなコミュニティです。研究者、思想家、エンジニアが共に活動しています。
+mission-at-mozilla-were-a-global-community = Mozilla は、インターネットを活性化させアクセスしやすい環境を実現し、世界中の人々が情報を活用してウェブの創造に貢献できることを目指すグローバルなコミュニティです。研究者、思想家、エンジニアが共に活動しています。
 
-人々がこのようにオープンなプラットフォーム全体にわたって協力し合う活動は、個人の成長と私たちみんなの未来にとって不可欠であると Mozilla は考えています。
+mission-we-believe-this-act-of-human-collaboration = 人々がこのようにオープンなプラットフォーム全体にわたって協力し合う活動は、個人の成長と私たちみんなの未来にとって不可欠であると Mozilla は考えています。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-私たちのミッションを遂行するガイドとなる価値観や指針について知るには、<a href="%(url)s">Mozilla マニフェスト</a> をご覧ください。
+mission-read-the-mozilla-manifesto-to-learn = Read the <a href="{ $url }">Mozilla Manifesto</a> to learn even more about the values and principles that guide the pursuit of our mission.
 
-Mozilla とは何か、ウェブをどのようにより良くしているかを知るためには、この動画をご覧ください。
+mission-watch-the-video-above-to-learn-more = Mozilla とは何か、ウェブをどのようにより良くしているかを知るためには、この動画をご覧ください。
 
-参加しよう
+mission-get-involved = 参加しよう
 
-Mozilla の活動を支えているのは世界中にいるコミュニティです。
+mission-volunteer-opportunities-in-a-number = Mozilla の活動を支えているのは世界中にいるコミュニティです。
 
-歴史
+mission-history = 歴史
 
-Mozilla プロジェクトのストーリー。
+mission-where-we-come-from-and-how-we-got = Mozilla プロジェクトのストーリー。
 
-フォーラム
+mission-forums = フォーラム
 
-サポート、製品、技術に関するトピック。
+mission-topics-include-support-products = サポート、製品、技術に関するトピック。
 
-ガバナンス
+mission-governance = ガバナンス
 
-組織の説明、方針について。
+mission-our-structure-organization-and-the = 組織の説明、方針について。
