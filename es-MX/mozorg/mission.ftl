@@ -4,35 +4,35 @@
 
 ### URL: https://www-dev.allizom.org/mission/
 
-Estamos construyendo un mejor Internet
+mission-were-building-a-better-internet = Estamos construyendo un mejor Internet
 
-mission-our-mission-is-to-ensure-the-internet = Nuestra misión es garantizar que Internet sea un recurso público global, abierto y accesible para todos. Un Internet que realmente pone a las personas en primer lugar, donde las personas pueden dar forma a su propia experiencia y están empoderadas, seguras e independientes.
+mission-our-mission-is-to-ensure-the-internet = Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
-Nuestra misión es promover la apertura, la innovación y la oportunidad en la web.
+mission-our-mission-is-to-promote-openness = Nuestra misión es promover la apertura, la innovación y la oportunidad en la web.
 
-En Mozilla, somos una comunidad global de tecnólogos, pensadores y constructores que trabajamos juntos para mantener vivo y accesible a Internet, así, la gente en todo el mundo puede ser informada, a los contribuyentes y creadores de la Web
+mission-at-mozilla-were-a-global-community = En Mozilla, somos una comunidad global de tecnólogos, pensadores y constructores que trabajamos juntos para mantener vivo y accesible a Internet, así, la gente en todo el mundo puede ser informada, a los contribuyentes y creadores de la Web
 
-Creemos que este acto de colaboración humana a través de una plataforma abierta es esencial para el crecimiento individual y de nuestro futuro colectivo.
+mission-we-believe-this-act-of-human-collaboration = Creemos que este acto de colaboración humana a través de una plataforma abierta es esencial para el crecimiento individual y de nuestro futuro colectivo.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-Lee el <a href="%(url)s">Manifiesto de Mozilla</a> para obtener más detalles sobre los valores y principios que guían la búsqueda de nuestra misión.
+mission-read-the-mozilla-manifesto-to-learn = Read the <a href="{ $url }">Mozilla Manifesto</a> to learn even more about the values and principles that guide the pursuit of our mission.
 
-Ve el video para aprender más acerca de quiénes somos, de dónde venimos y cómo lo estamos haciendo la mejor web para ti.
+mission-watch-the-video-above-to-learn-more = Ve el video para aprender más acerca de quiénes somos, de dónde venimos y cómo lo estamos haciendo la mejor web para ti.
 
-Involúcrate
+mission-get-involved = Involúcrate
 
-Oportunidades de voluntariado en un número de diferentes áreas
+mission-volunteer-opportunities-in-a-number = Oportunidades de voluntariado en un número de diferentes áreas
 
-Historia
+mission-history = Historia
 
-De dónde venimos y cómo llegamos a donde estamos
+mission-where-we-come-from-and-how-we-got = De dónde venimos y cómo llegamos a donde estamos
 
-Foros
+mission-forums = Foros
 
-Los temas incluyen soporte, productos y tecnologías
+mission-topics-include-support-products = Los temas incluyen soporte, productos y tecnologías
 
-Gobernanza
+mission-governance = Gobernanza
 
-Nuestra estructura, la organización y la comunidad más amplia de Mozilla
+mission-our-structure-organization-and-the = Nuestra estructura, la organización y la comunidad más amplia de Mozilla
