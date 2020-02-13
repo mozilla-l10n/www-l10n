@@ -6,7 +6,6 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = Emaomp o sevel un internet gwelloc'h
-mission-our-mission-is-to-ensure-the-internet = Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Da vountañ war digoridigezh, neveziñ ha troioù war ar web e talv hor c'hefridi.
 mission-at-mozilla-were-a-global-community = E stal Mozilla ez eus ur gumuniezh vedel gant tud ar c'halvezouriezhoù, tud a soñj ha tud a sav a-gevred da lakaat an internet da chom bev hag aes da dizhout a-benn ma yay an dud eus ar bed a-bezh da dud a gemer perzh enni ha tud a grou evit ar web.
