@@ -6,7 +6,6 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = Min ngoni ko e ƴellitde Enternet
-mission-our-mission-is-to-ensure-the-internet = Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Darnde amen ko ƴellitde udditaare, kesamaagu & fartaŋŋe e Geese.
 mission-at-mozilla-were-a-global-community = Ɗoo e Mozilla ko min harbiyaŋkooɓe huuɓnuɓe, miijiyaŋkooɓe e tafooɓe, gollidooɓe ngam Enternet laatoo wuurde e heɓaade, haa yimɓe winndere ndee kala mbaawa wontude tafooɓe e humpitiiɓe geɗe Geese.

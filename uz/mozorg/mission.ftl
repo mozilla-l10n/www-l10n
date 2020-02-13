@@ -6,7 +6,6 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = Biz eng zo‘r internetni tuzamiz
-mission-our-mission-is-to-ensure-the-internet = Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Bizning vazifamiz - ochiqlikni rivojlantirish, innovatsiya va internetning imkoniyatlarini rivojlantirishdir.
 mission-at-mozilla-were-a-global-community = Biz Mozilla korporatsiyasida ishlaydigan xalqaro texnolog, faylasuflar va tuzuvchilar jamoasi hisoblanamiz. Biz internetni jonli bo‘lishi va butun dunyodagi internet tuzuvchilari, hissa qo‘shuvchilari ijod qilishini osonlashtirish uchun ishlaymiz.

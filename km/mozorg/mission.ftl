@@ -6,7 +6,6 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = យើង​កំពុង​បង្កើត​អ៊ីនធឺណិត​ឲ្យ​ល្អ​ប្រសើរ
-mission-our-mission-is-to-ensure-the-internet = Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = បេសកកម្ម​របស់​យើង​​ដើម្បី​ជំរុញ​ភាព​បើក​ចំហ, ការ​ច្នៃ​ប្រឌិត & ឱកាស​នៅ​លើ​បណ្ដាញ។
 mission-at-mozilla-were-a-global-community = នៅ​ Mozilla យើង​គឺ​ជា​សហគមន៍​​អ្នក​បច្ចេកវិទ្យា​ អ្នក​គិត និង​អ្នក​ស្ថាបនា​សកល​មួយ​​ដែល​ធ្វើ​ការ​រួមគ្នា​ដើម្បី​ធ្វើ​ឲ្យ​អ៊ីនធឺណិត​មាន​ជីវិត និង​អាច​ចូល​ដំណើរការ​បាន​ ដូច្នេះ​​មនុស្ស​នៅ​ពាសពេញ​ពិភពលោក​អាច​ទទួល​បាន​ព័ត៌មាន​​អំពី​អ្នក​ចូលរួម​ចំណែក និង​អ្នក​បង្កើត​បណ្ដាញ។
