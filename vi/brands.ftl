@@ -6,4 +6,4 @@
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
 
 -brand-name-firefox = Firefox
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser = Trình duyệt Firefox
