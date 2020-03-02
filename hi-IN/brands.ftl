@@ -7,3 +7,4 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-browser = Firefox ब्राउज़र
+-brand-name-chrome = Chrome
