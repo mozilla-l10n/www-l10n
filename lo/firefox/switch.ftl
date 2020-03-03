@@ -5,10 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-let-firefox-do-the-rest = ໃຫ້ Firefox ຈັດການໃຫ້.
+switch-let-firefox-do-the-rest = ໃຫ້ { -brand-name-firefox } ຈັດການໃຫ້.
+switch-switch-to-firefox = ປ່ຽນເປັນ { -brand-name-firefox }
 switch-download-and-switch = ດາວໂຫຼດ ແລະ ປັບປ່ຽນ
 switch-share-to-facebook = ແບ່ງປັນໄປຍັງ Facebook
 switch-send-a-tweet = ສົ່ງທະວີດ
-switch-switch-to-firefox = ປ່ຽນເປັນ Firefox
 switch-hey = ເຮ້,
 switch-send-an-email = ສົ່ງ email

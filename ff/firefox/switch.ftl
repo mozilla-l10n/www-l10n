@@ -5,14 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Ummo e Chrome paya e Firefox e hojomaaji seeɗa tan
-switch-select-what-to-take = Suɓo ko ƴettataa e Chrome.
-switch-let-firefox-do-the-rest = Ɗal Firefox waɗa ko heddii koo.
+switch-switch-from-chrome = Ummo e { -brand-name-chrome } paya e { -brand-name-firefox } e hojomaaji seeɗa tan
+switch-select-what-to-take = Suɓo ko ƴettataa e { -brand-name-chrome }.
+switch-let-firefox-do-the-rest = Ɗal { -brand-name-firefox } waɗa ko heddii koo.
+switch-share-with-your-friends = Hollu sehilaaɓe maa hol no faatirtee e { -brand-name-firefox }
+switch-switch-to-firefox = Faatu e { -brand-name-firefox }
+switch-still-not-convinced = A jaɓaani haa jooni ko faatude e { -brand-name-firefox } ina weeɓi?
 switch-download-and-switch = Aawto tee waylu
-switch-share-with-your-friends = Hollu sehilaaɓe maa hol no faatirtee e Firefox
 switch-share-to-facebook = Lollin e Facebook
-switch-switch-to-firefox = Faatu e Firefox
 switch-hey = Hee,
 switch-check-it-out = Ƴeewto ɗum kaalanaami ko miijiɗaa:
 switch-send-an-email = Neldu iimeel
-switch-still-not-convinced = A jaɓaani haa jooni ko faatude e Firefox ina weeɓi?

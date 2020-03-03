@@ -5,21 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Pśejźćo wót Chrome do Firefox w běgu mało minutow
-switch-switching-to-firefox-is-fast = Móžośo malsnje k Firefox pśejś, jo lažko a bźez rizika, dokulaž Firefox waše cytańske znamjenja, awtowudopołnjenja, gronidła a nastajenja z Chrome importěrujo.
-switch-switching-to-firefox-page-description = Móžośo malsnje k Firefox pśejś, jo lažko a bźez rizika. Firefox waše cytańske znamjenja, awtowudopołnjenja, gronidła a nastajenja z Chrome importěrujo.
-switch-select-what-to-take = Wubjeŕśo, což cośo z Chrome pśewześ.
-switch-let-firefox-do-the-rest = Dajśo Firefox zbytk cyniś.
+switch-switch-from-chrome = Pśejźćo wót { -brand-name-chrome } do { -brand-name-firefox } w běgu mało minutow
+switch-switching-to-firefox-is-fast = Móžośo malsnje k { -brand-name-firefox } pśejś, jo lažko a bźez rizika, dokulaž { -brand-name-firefox } waše cytańske znamjenja, awtowudopołnjenja, gronidła a nastajenja z { -brand-name-chrome } importěrujo.
+switch-switching-to-firefox-page-description = Móžośo malsnje k { -brand-name-firefox } pśejś, jo lažko a bźez rizika. { -brand-name-firefox } waše cytańske znamjenja, awtowudopołnjenja, gronidła a nastajenja z { -brand-name-chrome } importěrujo.
+switch-select-what-to-take = Wubjeŕśo, což cośo z { -brand-name-chrome } pśewześ.
+switch-let-firefox-do-the-rest = Dajśo { -brand-name-firefox } zbytk cyniś.
+switch-use-firefox-and-still-chrome = Móžośo { -brand-name-firefox } wužywaś a weto maśo hyšći { -brand-name-chrome }. { -brand-name-chrome } se za žednym nałogom njezměnijo.
+switch-share-with-your-friends = Źělśo ze swójimi pśijaśelami, kak k { -brand-name-firefox } pśejźośo
+switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } wam zmóžnja, napšawdu malsnje wót { -brand-name-chrome } pśejś. Wopytajśo!
+switch-switch-to-firefox = K { -brand-name-firefox } pśejś
+switch-firefox-makes-switching-fast-email = { -brand-name-firefox } wam zmóžnja, napšawdu malsnje wót { -brand-name-chrome } pśejś. Spódoba se mě wjelgin, a wy měł jen teke wopytaś.
+switch-still-not-convinced = Njejsćo hyšći pśeznanjony, až jo lažko, k { -brand-name-firefox } pśejś?
 switch-enjoy-the-web-faster = Wjaselśo se malsnemu internetoju, zarědowanemu za was.
 switch-download-and-switch = Ześěgnuś a pśejś
-switch-use-firefox-and-still-chrome = Móžośo Firefox wužywaś a weto maśo hyšći Chrome. Chrome se za žednym nałogom njezměnijo.
-switch-share-with-your-friends = Źělśo ze swójimi pśijaśelami, kak k Firefox pśejźośo
 switch-share-to-facebook = Z Facebook źěliś
-switch-firefox-makes-switching-fast-tweet = 🔥 Firefox wam zmóžnja, napšawdu malsnje wót Chrome pśejś. Wopytajśo!
 switch-send-a-tweet = Tweet pósłaś
-switch-switch-to-firefox = K Firefox pśejś
 switch-hey = Hej,
-switch-firefox-makes-switching-fast-email = Firefox wam zmóžnja, napšawdu malsnje wót Chrome pśejś. Spódoba se mě wjelgin, a wy měł jen teke wopytaś.
 switch-check-it-out = Pśeznańśo se a dajśo mě k swójo měnjenje k wěsći:
 switch-send-an-email = Mejlku pósłaś
-switch-still-not-convinced = Njejsćo hyšći pśeznanjony, až jo lažko, k Firefox pśejś?
