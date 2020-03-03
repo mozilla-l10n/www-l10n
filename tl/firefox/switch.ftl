@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-switch-to-firefox = Lumipat sa { -brand-name-firefox }
 switch-send-a-tweet = Magsend ng tweet
-switch-switch-to-firefox = Lumipat sa Firefox
 switch-hey = Hey,
 switch-send-an-email = Magpadala ng email

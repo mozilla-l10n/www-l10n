@@ -5,21 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Przejdź z Chrome na Firefoksa w kilka minut
-switch-switching-to-firefox-is-fast = Przejście na Firefoksa jest szybkie, łatwe i bez ryzyka, ponieważ Firefox importuje zakładki, dane formularzy, hasła i preferencje z Chrome.
-switch-switching-to-firefox-page-description = Przejście na Firefoksa jest szybkie, łatwe i bez ryzyka. Firefox importuje zakładki, dane formularzy, hasła i preferencje z Chrome.
-switch-select-what-to-take = Wybierz, co zabrać z Chrome.
-switch-let-firefox-do-the-rest = Firefox załatwi resztę.
+switch-switch-from-chrome = Przejdź z { -brand-name-chrome } na Firefoksa w kilka minut
+switch-switching-to-firefox-is-fast = Przejście na Firefoksa jest szybkie, łatwe i bez ryzyka, ponieważ { -brand-name-firefox } importuje zakładki, dane formularzy, hasła i preferencje z { -brand-name-chrome }.
+switch-switching-to-firefox-page-description = Przejście na Firefoksa jest szybkie, łatwe i bez ryzyka. { -brand-name-firefox } importuje zakładki, dane formularzy, hasła i preferencje z { -brand-name-chrome }.
+switch-select-what-to-take = Wybierz, co zabrać z { -brand-name-chrome }.
+switch-let-firefox-do-the-rest = { -brand-name-firefox } załatwi resztę.
+switch-use-firefox-and-still-chrome = Możesz używać Firefoksa i nadal mieć { -brand-name-chrome }. { -brand-name-chrome } na komputerze w ogóle się nie zmieni.
+switch-share-with-your-friends = Podziel się ze znajomymi, jak przejść na Firefoksa
+switch-firefox-makes-switching-fast-tweet = 🔥 Przejście z { -brand-name-chrome } na Firefoksa jest superszybkie. Ty też spróbuj!
+switch-switch-to-firefox = Przejdź na Firefoksa
+switch-firefox-makes-switching-fast-email = Przejście z { -brand-name-chrome } na Firefoksa jest superszybkie. Ja bardzo lubię Firefoksa, Ty też spróbuj.
+switch-still-not-convinced = Nadal nie wierzysz, że przejście na Firefoksa jest łatwe?
 switch-enjoy-the-web-faster = Przeglądaj szybciej, nie musząc nic konfigurować.
 switch-download-and-switch = Pobierz i przejdź
-switch-use-firefox-and-still-chrome = Możesz używać Firefoksa i nadal mieć Chrome. Chrome na komputerze w ogóle się nie zmieni.
-switch-share-with-your-friends = Podziel się ze znajomymi, jak przejść na Firefoksa
 switch-share-to-facebook = Udostępnij na Facebooku
-switch-firefox-makes-switching-fast-tweet = 🔥 Przejście z Chrome na Firefoksa jest superszybkie. Ty też spróbuj!
 switch-send-a-tweet = Wyślij tweet
-switch-switch-to-firefox = Przejdź na Firefoksa
 switch-hey = Hej,
-switch-firefox-makes-switching-fast-email = Przejście z Chrome na Firefoksa jest superszybkie. Ja bardzo lubię Firefoksa, Ty też spróbuj.
 switch-check-it-out = Wypróbuj i daj mi znać, jak poszło:
 switch-send-an-email = Wyślij e-mail
-switch-still-not-convinced = Nadal nie wierzysz, że przejście na Firefoksa jest łatwe?

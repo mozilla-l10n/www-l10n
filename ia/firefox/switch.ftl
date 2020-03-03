@@ -5,21 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Passa a Firefox ab Chrome in justo poc minutas
-switch-switching-to-firefox-is-fast = Passar a Firefox es rapide, facile e secur, perque Firefox importa tu marcapaginas, datos de completion automatic, contrasignos e preferentias de Chrome.
-switch-switching-to-firefox-page-description = Passar a Firefox es veloce, facile e secur. Firefox importa tu marcapaginas, datos de compilation automatic, contrasignos e preferentias de Chrome.
-switch-select-what-to-take = Eliger lo que prender ab Chrome.
-switch-let-firefox-do-the-rest = Lassa a Firefox facer le resto.
+switch-switch-from-chrome = Passa a { -brand-name-firefox } ab { -brand-name-chrome } in justo poc minutas
+switch-switching-to-firefox-is-fast = Passar a { -brand-name-firefox } es rapide, facile e secur, perque { -brand-name-firefox } importa tu marcapaginas, datos de completion automatic, contrasignos e preferentias de { -brand-name-chrome }.
+switch-switching-to-firefox-page-description = Passar a { -brand-name-firefox } es veloce, facile e secur. { -brand-name-firefox } importa tu marcapaginas, datos de compilation automatic, contrasignos e preferentias de { -brand-name-chrome }.
+switch-select-what-to-take = Eliger lo que prender ab { -brand-name-chrome }.
+switch-let-firefox-do-the-rest = Lassa a { -brand-name-firefox } facer le resto.
+switch-use-firefox-and-still-chrome = Tu pote usar { -brand-name-firefox } e haber ancora { -brand-name-chrome }. { -brand-name-chrome } non sera cambiate sur tu machina de un bit.
+switch-share-with-your-friends = Comparti con tu amicos como passar a { -brand-name-firefox }
+switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } rende le passage ab { -brand-name-chrome } realmente rapide. Prova lo!
+switch-switch-to-firefox = Passa a { -brand-name-firefox }
+switch-firefox-makes-switching-fast-email = { -brand-name-firefox } rende le passage ab { -brand-name-chrome } realmente rapide. Io lo ama multo, e tu deberea lo provar.
+switch-still-not-convinced = Non es tu ancora convincite que passar a { -brand-name-firefox } es facile?
 switch-enjoy-the-web-faster = Gaude le web plus veloce, tote configurate pro te.
 switch-download-and-switch = Discarga Firefox e passa a illo
-switch-use-firefox-and-still-chrome = Tu pote usar Firefox e haber ancora Chrome. Chrome non sera cambiate sur tu machina de un bit.
-switch-share-with-your-friends = Comparti con tu amicos como passar a Firefox
 switch-share-to-facebook = Comparti lo in Facebook
-switch-firefox-makes-switching-fast-tweet = 🔥 Firefox rende le passage ab Chrome realmente rapide. Prova lo!
 switch-send-a-tweet = Invia un tweet
-switch-switch-to-firefox = Passa a Firefox
 switch-hey = Ei,
-switch-firefox-makes-switching-fast-email = Firefox rende le passage ab Chrome realmente rapide. Io lo ama multo, e tu deberea lo provar.
 switch-check-it-out = Prova lo e face me saper que tu pensa re illo:
 switch-send-an-email = Invia un email
-switch-still-not-convinced = Non es tu ancora convincite que passar a Firefox es facile?

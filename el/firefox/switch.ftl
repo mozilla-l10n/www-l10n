@@ -5,21 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Μετάβαση από το Chrome στο Firefox σε λίγα λεπτά
-switch-switching-to-firefox-is-fast = Η μετάβαση στο Firefox είναι απλή, γρήγορη και ακίνδυνη, επειδή το Firefox εισάγει σελιδοδείκτες, δεδομένα αυτόματης συμπλήρωσης, κωδικούς πρόσβασης και προτιμήσεις από το Chrome.
-switch-switching-to-firefox-page-description = Η μετάβαση είναι απλή, γρήγορη και ακίνδυνη. Το Firefox εισάγει σελιδοδείκτες, δεδομένα αυτόματης συμπλήρωσης, κωδικούς πρόσβασης και προτιμήσεις από το Chrome.
-switch-select-what-to-take = Επιλέξτε τι θέλετε από το Chrome.
-switch-let-firefox-do-the-rest = Αφήστε τα υπόλοιπα στο Firefox.
+switch-switch-from-chrome = Μετάβαση από το { -brand-name-chrome } στο { -brand-name-firefox } σε λίγα λεπτά
+switch-switching-to-firefox-is-fast = Η μετάβαση στο { -brand-name-firefox } είναι απλή, γρήγορη και ακίνδυνη, επειδή το { -brand-name-firefox } εισάγει σελιδοδείκτες, δεδομένα αυτόματης συμπλήρωσης, κωδικούς πρόσβασης και προτιμήσεις από το { -brand-name-chrome }.
+switch-switching-to-firefox-page-description = Η μετάβαση είναι απλή, γρήγορη και ακίνδυνη. Το { -brand-name-firefox } εισάγει σελιδοδείκτες, δεδομένα αυτόματης συμπλήρωσης, κωδικούς πρόσβασης και προτιμήσεις από το { -brand-name-chrome }.
+switch-select-what-to-take = Επιλέξτε τι θέλετε από το { -brand-name-chrome }.
+switch-let-firefox-do-the-rest = Αφήστε τα υπόλοιπα στο { -brand-name-firefox }.
+switch-use-firefox-and-still-chrome = Μπορείτε να χρησιμοποιήστε το { -brand-name-firefox } και να έχετε ακόμη το { -brand-name-chrome }, χωρίς να αλλάξει καθόλου.
+switch-share-with-your-friends = Μοιραστείτε με τους φίλους σας τον τρόπο μετάβασης στο { -brand-name-firefox }
+switch-firefox-makes-switching-fast-tweet = 🔥 Το { -brand-name-firefox } κάνει αστραπιαία τη μετάβαση από το { -brand-name-chrome }. Δοκιμάστε το!
+switch-switch-to-firefox = Μετάβαση στο { -brand-name-firefox }
+switch-firefox-makes-switching-fast-email = Το { -brand-name-firefox } κάνει τη μετάβαση από το { -brand-name-chrome } πολύ γρήγορα. Μου αρέσει πολύ και πρέπει να το δοκιμάσετε.
+switch-still-not-convinced = Δεν έχετε πειστεί ακόμη ότι η μετάβαση στο { -brand-name-firefox } είναι εύκολη;
 switch-enjoy-the-web-faster = Περιηγηθείτε ταχύτερα με τα δεδομένα σας.
 switch-download-and-switch = Λήψη και μετάβαση
-switch-use-firefox-and-still-chrome = Μπορείτε να χρησιμοποιήστε το Firefox και να έχετε ακόμη το Chrome, χωρίς να αλλάξει καθόλου.
-switch-share-with-your-friends = Μοιραστείτε με τους φίλους σας τον τρόπο μετάβασης στο Firefox
 switch-share-to-facebook = Κοινοποίηση στο Facebook
-switch-firefox-makes-switching-fast-tweet = 🔥 Το Firefox κάνει αστραπιαία τη μετάβαση από το Chrome. Δοκιμάστε το!
 switch-send-a-tweet = Αποστολή tweet
-switch-switch-to-firefox = Μετάβαση στο Firefox
 switch-hey = Γεια,
-switch-firefox-makes-switching-fast-email = Το Firefox κάνει τη μετάβαση από το Chrome πολύ γρήγορα. Μου αρέσει πολύ και πρέπει να το δοκιμάσετε.
 switch-check-it-out = Δείτε το και πείτε μου την άποψή σας:
 switch-send-an-email = Αποστολή email
-switch-still-not-convinced = Δεν έχετε πειστεί ακόμη ότι η μετάβαση στο Firefox είναι εύκολη;

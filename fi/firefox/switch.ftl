@@ -5,21 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Vaihda Chromesta Firefoxiin vain muutamassa minuutissa
-switch-switching-to-firefox-is-fast = Firefoxiin vaihtaminen on nopeaa, helppoa ja riskitöntä. Firefox tuo Chromesta kirjanmerkkisi, automaattisen täytön tietosi, salasanasi ja asetuksesi.
-switch-switching-to-firefox-page-description = Firefoxiin vaihtaminen on nopeaa, helppoa ja riskitöntä. Firefox tuo Chromesta kirjanmerkkisi, automaattisen täytön tietosi, salasanasi ja asetuksesi.
-switch-select-what-to-take = Valitse Chromesta tuotavat tiedot.
-switch-let-firefox-do-the-rest = Anna Firefoxin tehdä loput.
+switch-switch-from-chrome = Vaihda { -brand-name-chrome }sta { -brand-name-firefox }iin vain muutamassa minuutissa
+switch-switching-to-firefox-is-fast = { -brand-name-firefox }iin vaihtaminen on nopeaa, helppoa ja riskitöntä. { -brand-name-firefox } tuo { -brand-name-chrome }sta kirjanmerkkisi, automaattisen täytön tietosi, salasanasi ja asetuksesi.
+switch-switching-to-firefox-page-description = { -brand-name-firefox }iin vaihtaminen on nopeaa, helppoa ja riskitöntä. { -brand-name-firefox } tuo { -brand-name-chrome }sta kirjanmerkkisi, automaattisen täytön tietosi, salasanasi ja asetuksesi.
+switch-select-what-to-take = Valitse { -brand-name-chrome }sta tuotavat tiedot.
+switch-let-firefox-do-the-rest = Anna { -brand-name-firefox }in tehdä loput.
+switch-use-firefox-and-still-chrome = Voit käyttää { -brand-name-firefox }ia ja säilyttää { -brand-name-chrome }n. { -brand-name-firefox }in asentaminen ei muuta { -brand-name-chrome }a mitenkään.
+switch-share-with-your-friends = Kerro myös kavereillesi, kuinka { -brand-name-firefox }iin vaihtaminen tapahtuu
+switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } tekee { -brand-name-chrome }sta vaihtamisen todella nopeaksi. Kokeile!
+switch-switch-to-firefox = Vaihda { -brand-name-firefox }iin
+switch-firefox-makes-switching-fast-email = { -brand-name-firefox } tekee { -brand-name-chrome }sta vaihtamisen todella nopeaksi. Pidän siitä todella ja sinunkin pitäisi kokeilla sitä.
+switch-still-not-convinced = Etkö vieläkään ole vakuuttunut, että { -brand-name-firefox }iin vaihtaminen on helppoa?
 switch-enjoy-the-web-faster = Nauti nopeammasta selailusta.
 switch-download-and-switch = Lataa ja vaihda
-switch-use-firefox-and-still-chrome = Voit käyttää Firefoxia ja säilyttää Chromen. Firefoxin asentaminen ei muuta Chromea mitenkään.
-switch-share-with-your-friends = Kerro myös kavereillesi, kuinka Firefoxiin vaihtaminen tapahtuu
 switch-share-to-facebook = Jaa Facebookissa
-switch-firefox-makes-switching-fast-tweet = 🔥 Firefox tekee Chromesta vaihtamisen todella nopeaksi. Kokeile!
 switch-send-a-tweet = Twiittaa
-switch-switch-to-firefox = Vaihda Firefoxiin
 switch-hey = Terve,
-switch-firefox-makes-switching-fast-email = Firefox tekee Chromesta vaihtamisen todella nopeaksi. Pidän siitä todella ja sinunkin pitäisi kokeilla sitä.
 switch-check-it-out = Kokeile sitä ja kerro, mitä mieltä olet:
 switch-send-an-email = Lähetä sähköposti
-switch-still-not-convinced = Etkö vieläkään ole vakuuttunut, että Firefoxiin vaihtaminen on helppoa?

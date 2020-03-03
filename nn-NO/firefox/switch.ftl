@@ -5,21 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Byt frå Chrome til Firefox på berre nokre få minutt
-switch-switching-to-firefox-is-fast = Bytet til Firefox er raskt, enkelt og risikofritt, fordi Firefox importerer bokmerka dine autofyll, passord og innstillingar frå Chrome.
-switch-switching-to-firefox-page-description = Byte til Firefox er raskt, enkelt og risikofritt. Firefox importerer bokmerka dine, autofyll, passord og innstillingar frå Chrome.
-switch-select-what-to-take = Vel kva du vil ta med deg frå Chrome.
-switch-let-firefox-do-the-rest = La Firefox gjere resten.
+switch-switch-from-chrome = Byt frå { -brand-name-chrome } til { -brand-name-firefox } på berre nokre få minutt
+switch-switching-to-firefox-is-fast = Bytet til { -brand-name-firefox } er raskt, enkelt og risikofritt, fordi { -brand-name-firefox } importerer bokmerka dine autofyll, passord og innstillingar frå { -brand-name-chrome }.
+switch-switching-to-firefox-page-description = Byte til { -brand-name-firefox } er raskt, enkelt og risikofritt. { -brand-name-firefox } importerer bokmerka dine, autofyll, passord og innstillingar frå { -brand-name-chrome }.
+switch-select-what-to-take = Vel kva du vil ta med deg frå { -brand-name-chrome }.
+switch-let-firefox-do-the-rest = La { -brand-name-firefox } gjere resten.
+switch-use-firefox-and-still-chrome = Du kan bruke { -brand-name-firefox } og framleis ha { -brand-name-chrome }. { -brand-name-chrome } vil ikkje bli endra på datamaskina di.
+switch-share-with-your-friends = Del med vennane dine korleis du byter til { -brand-name-firefox }
+switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } gjer det raskt og enkelt å byte frå { -brand-name-chrome }. Prøv det!
+switch-switch-to-firefox = Byt til { -brand-name-firefox }
+switch-firefox-makes-switching-fast-email = { -brand-name-firefox } gjer det raskt og enkelt å byte frå { -brand-name-chrome }. Eg synest det er supert, og du burde prøve det.
+switch-still-not-convinced = Er du enno ikkje overtydd om at bytet til { -brand-name-firefox } er enkelt?
 switch-enjoy-the-web-faster = Nyt ei raskare surfeoppleving.
 switch-download-and-switch = Last ned og byt
-switch-use-firefox-and-still-chrome = Du kan bruke Firefox og framleis ha Chrome. Chrome vil ikkje bli endra på datamaskina di.
-switch-share-with-your-friends = Del med vennane dine korleis du byter til Firefox
 switch-share-to-facebook = Del på Facebook
-switch-firefox-makes-switching-fast-tweet = 🔥 Firefox gjer det raskt og enkelt å byte frå Chrome. Prøv det!
 switch-send-a-tweet = Send ein tweet
-switch-switch-to-firefox = Byt til Firefox
 switch-hey = Hei,
-switch-firefox-makes-switching-fast-email = Firefox gjer det raskt og enkelt å byte frå Chrome. Eg synest det er supert, og du burde prøve det.
 switch-check-it-out = Prøv det, og fortel meg kva du synest:
 switch-send-an-email = Send ein e-post
-switch-still-not-convinced = Er du enno ikkje overtydd om at bytet til Firefox er enkelt?

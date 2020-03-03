@@ -5,21 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
-switch-switch-from-chrome = Váltson Chrome-ról Firefoxra néhány perc alatt
-switch-switching-to-firefox-is-fast = A Firefoxra váltás gyors, könnyű és kockázatmentes, mert a Firefox importálja a könyvjelzőit, űrlapkitöltéseit, jelszavait és beállításait a Chrome-ból.
-switch-switching-to-firefox-page-description = A Firefoxra váltás gyors, könnyű és kockázatmentes. A Firefox importálja a könyvjelzőit, űrlapkitöltéseit, jelszavait és beállításait a Chrome-ból.
-switch-select-what-to-take = Válassza ki, hogy mit hoz át a Chrome-ból.
-switch-let-firefox-do-the-rest = A többit bízza a Firefoxra.
+switch-switch-from-chrome = Váltson { -brand-name-chrome }-ról { -brand-name-firefox }ra néhány perc alatt
+switch-switching-to-firefox-is-fast = A { -brand-name-firefox }ra váltás gyors, könnyű és kockázatmentes, mert a { -brand-name-firefox } importálja a könyvjelzőit, űrlapkitöltéseit, jelszavait és beállításait a { -brand-name-chrome }-ból.
+switch-switching-to-firefox-page-description = A { -brand-name-firefox }ra váltás gyors, könnyű és kockázatmentes. A { -brand-name-firefox } importálja a könyvjelzőit, űrlapkitöltéseit, jelszavait és beállításait a { -brand-name-chrome }-ból.
+switch-select-what-to-take = Válassza ki, hogy mit hoz át a { -brand-name-chrome }-ból.
+switch-let-firefox-do-the-rest = A többit bízza a { -brand-name-firefox }ra.
+switch-use-firefox-and-still-chrome = Használhatja a { -brand-name-firefox }ot a { -brand-name-chrome } megtartása mellett is. A { -brand-name-chrome } semmiben sem fog megváltozni a gépén.
+switch-share-with-your-friends = Ossza meg barátaival, hogyan tudnak { -brand-name-firefox }ra váltani
+switch-firefox-makes-switching-fast-tweet = 🔥 A { -brand-name-firefox } nagyon gyorssá teszi a váltást a { -brand-name-chrome }-ról. Próbáld ki!
+switch-switch-to-firefox = Válts { -brand-name-firefox }ra
+switch-firefox-makes-switching-fast-email = A { -brand-name-firefox } nagyon gyorssá teszi a váltást a { -brand-name-chrome }-ról. Nagyon tetszik, próbáld ki te is.
+switch-still-not-convinced = Még mindig nincs meggyőződve arról, hogy könnyű a { -brand-name-firefox }ra váltás?
 switch-enjoy-the-web-faster = Élvezze a gyorsabb webet, előre beállítva.
 switch-download-and-switch = Letöltés és váltás
-switch-use-firefox-and-still-chrome = Használhatja a Firefoxot a Chrome megtartása mellett is. A Chrome semmiben sem fog megváltozni a gépén.
-switch-share-with-your-friends = Ossza meg barátaival, hogyan tudnak Firefoxra váltani
 switch-share-to-facebook = Megosztás Facebookon
-switch-firefox-makes-switching-fast-tweet = 🔥 A Firefox nagyon gyorssá teszi a váltást a Chrome-ról. Próbáld ki!
 switch-send-a-tweet = Tweet küldése
-switch-switch-to-firefox = Válts Firefoxra
 switch-hey = Szia!
-switch-firefox-makes-switching-fast-email = A Firefox nagyon gyorssá teszi a váltást a Chrome-ról. Nagyon tetszik, próbáld ki te is.
 switch-check-it-out = Nézd meg te is, és mondd el mit gondolsz:
 switch-send-an-email = E-mail küldése
-switch-still-not-convinced = Még mindig nincs meggyőződve arról, hogy könnyű a Firefoxra váltás?
