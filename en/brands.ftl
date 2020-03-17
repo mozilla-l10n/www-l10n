@@ -51,12 +51,14 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
+-brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
+-brand-name-sync = Sync
 
 ## Pocket
 
@@ -114,4 +116,3 @@
 ## Google products
 
 -brand-name-youtube = YouTube
-
