@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Aawto jooni
 download-button-free-download = Gaawtol Alla meho
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Kaɓirɗi Jaaɓduɗi
 download-button-whats-new = Ko Hesɗi e Firefox
 download-button-systems-languages = Juɓɓe &amp; Ɗemɗe
 download-button-recommended = Basiyaaɗi
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } nattii haŋkadi yaltinde kesɗitine suturo wonande { -brand-name-firefox } e { -brand-name-windows } { -brand-name-xp } walla { -brand-name-vista }</a>, kono haa jooni aɗa waawi aawtaade yamre sakkitiinde nde 32 bitere les ɗoo.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Tiiɗno rew e <a href="{ $url }">ɗee tinndinooje</a> ngam aafde { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Yuɓɓo maa ɗooftaaki <a href="{ $url }">ɓaɗɗiiɗe</a> ngam dognude { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } mo Dinndeeje e Ɗemɗe Goɗɗe
 download-button-update-your-firefox = Hesɗitin { -brand-name-firefox } maa

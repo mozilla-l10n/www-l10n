@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Luchdaidh a-nuas an-dràsta
 download-button-free-download = Luchdadh a-nuas an-asgaidh
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,7 +12,11 @@ download-button-supported-devices = Uidheaman ris a bheil taic
 download-button-whats-new = Na tha ùr
 download-button-systems-languages = Siostaman ⁊ cànain
 download-button-recommended = Molta
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Lean ris <a href="{ $url }">an stiùireadh seo</a> gus { -brand-name-firefox } a stàladh.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Chan eil <a href="{ $url }">comasan</a> gu leòr aig an t-siostam agad 's chan urrainn dha { -brand-name-firefox } a ruith.
 download-button-firefox-other-platforms = { -brand-name-firefox } airson ùrlaran ⁊ cànain eile
 download-button-update-your-firefox = Ùraich am { -brand-name-firefox } agad

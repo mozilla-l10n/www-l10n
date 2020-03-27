@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Jetzt herunterladen
 download-button-free-download = Kostenloser Download
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Unterstützte Geräte
 download-button-whats-new = Was ist neu
 download-button-systems-languages = Systeme &amp; Sprachen
 download-button-recommended = Empfohlen
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } bietet für { -brand-name-firefox } unter { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } keine Sicherheitsupdates mehr an</a>, aber Sie können hier weiterhin die letzte 32-Bit-Version für { -brand-name-windows } herunterladen.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Bitte folge <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Dein System erfüllt nicht alle <a href="{ $url }">Voraussetzungen</a>, um { -brand-name-firefox } auszuführen.
 download-button-firefox-other-platforms = { -brand-name-firefox } für andere Plattformen & Sprachen
 download-button-update-your-firefox = Aktualisiere bitte { -brand-name-firefox }

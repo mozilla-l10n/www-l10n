@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = ڈائونلوڈ کریں
 download-button-free-download = مفت ڈاؤنلوڈ
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = معاونت شدہ آلات
 download-button-whats-new = نیا کیا ہے
 download-button-systems-languages = سسٹم &amp; زبانیں
 download-button-recommended = سفارش کردہ
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }"> { -brand-name-mozilla } { -brand-name-firefox } کے لئے { -brand-name-windows } { -brand-name-xp } یا { -brand-name-vista } کے لئے اپڈیٹ فراہہم نہیں کرتا </a>، لیکن آپ اب بھی ذیل میں سے { -brand-name-windows } 32-bit ورژن ڈاؤن لوڈ کرسکتے ہیں۔
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox } تنصب کرنے کے لئے براہ مہربانی <a href="{ $url }">ان ہدایتوں</a> پر عمل کریں۔
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = آپ کا سسٹم { -brand-name-firefox } کو چلانے کی <a href="{ $url }">ضروریات</a> کو پوری نہیں کرتا۔
 download-button-firefox-other-platforms = دیگر پلیٹ فارم اور زبانوں کے لئے { -brand-name-firefox }
 download-button-update-your-firefox = آپ { -brand-name-firefox } کو اپ ڈیٹ کریں

@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Laai nou af
 download-button-free-download = Laai gratis af
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -7,7 +11,11 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Ondersteunde toestelle
 download-button-whats-new = Wat’s nuut?
 download-button-systems-languages = Stelsels en tale
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Volg gerus <a href="{ $url }">dié instruksies</a> om { -brand-name-firefox } te installeer.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = U stelsel voldoen nie aan die <a href="{ $url }">vereistes</a> vir { -brand-name-firefox } nie.
 download-button-firefox-other-platforms = { -brand-name-firefox } vir ander platforms en tale
 download-button-update-your-firefox = Werk { -brand-name-firefox } by

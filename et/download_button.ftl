@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Laadi kohe alla
 download-button-free-download = Tasuta allalaadimine
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Toetatud seadmed
 download-button-whats-new = Uuendused
 download-button-systems-languages = Süsteemid ja keeled
 download-button-recommended = Soovitatud
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } ei väljasta enam turvauuendusi { -brand-name-firefox }ile { -brand-name-windows } { -brand-name-xp } või { -brand-name-vista } platvormil</a>, kuid allpool saad siiski laadida alla viimase 32-bitise versiooni { -brand-name-windows }ile.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox }i paigaldamiseks järgi <a href="{ $url }">neid juhtnööre</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Sinu süsteem ei vasta { -brand-name-firefox }i <a href="{ $url }">nõuetele</a>.
 download-button-firefox-other-platforms = { -brand-name-firefox } teistele platvormidele ja keeltele
 download-button-update-your-firefox = Uuenda { -brand-name-firefox }i

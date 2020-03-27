@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Yebbi
 download-button-free-download = Yebbi gu amul-fay
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,7 +12,11 @@ download-button-supported-devices = Jumtukaay yim nangu
 download-button-whats-new = Bees-bees
 download-button-systems-languages = Noste aki làkk
 download-button-recommended = Yiñ digle
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Toppal <a href="{ $url }">yii tektal</a> ngir samp { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Sa noste amul <a href="{ $url }">càkkutéef</a> yim laaj ngir doxal { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } ngir yeneen joyaluwaay aki làkk
 download-button-update-your-firefox = Yeesal sa { -brand-name-firefox }

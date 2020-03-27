@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Zumandi sohõ
 download-button-free-download = Forba zumandi
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -7,6 +11,8 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Jinay gaakašinantey
 download-button-whats-new = Haya tejey
 download-button-systems-languages = Dabariɲaŋey &amp; šenney
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = War dabariɲaŋoo ši tenji nda <a href="{ $url }">waažibandiyaney</a> ka { -brand-name-firefox } dirandi.
 download-button-firefox-other-platforms = { -brand-name-firefox } goydaari nda šenni taney se
 download-button-update-your-firefox = War { -brand-name-firefox } taagandi

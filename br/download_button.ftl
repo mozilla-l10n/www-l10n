@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Pellgargañ diouzhtu
 download-button-free-download = Pellgargadur digoust
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Trevnadoù skoret
 download-button-whats-new = Petra zo nevez
 download-button-systems-languages = Reizhiadoù ha yezhoù
 download-button-recommended = Erbedet
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } na bourchas ket a hizivadennoù diogelroez evit { -brand-name-firefox } war { -brand-name-windows } { -brand-name-xp } pe { -brand-name-vista }</a>, met gallout a ri pellgargañ an handelv { -brand-name-windows } 32-bit diwezhañ dindan.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Heulit ar <a href="{ $url }">sturadurioù-mañ</a> evit staliañ { -brand-name-firefox } mar plij.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = <a href="{ $url }">Elfennoù azgoulennet</a> evit erounit { -brand-name-firefox } a ra diouer d'ho reizhiad.
 download-button-firefox-other-platforms = { -brand-name-firefox } evit savennoù & yezhoù all
 download-button-update-your-firefox = Hizivaat ho { -brand-name-firefox }

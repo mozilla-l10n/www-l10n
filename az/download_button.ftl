@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = İndi endir
 download-button-free-download = Pulsuz Endir
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Dəstəklənən Cihazlar
 download-button-whats-new = Yeniliklər
 download-button-systems-languages = Sistemlər və Dillər
 download-button-recommended = Məsləhət görülən
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } artıq { -brand-name-windows } { -brand-name-xp } və { -brand-name-vista } üçün { -brand-name-firefox }-a təhlükəsizlik yeniləmələri buraxmır</a>, amma siz hələ də sonuncu { -brand-name-windows } 32-bit versiyanı aşağıda endirə bilərsiz.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Lütfən { -brand-name-firefox } qurmaq üçün <a href="{ $url }">bu qaydaları</a> izləyin.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Sizin sisteminiz { -brand-name-firefox }-u işlətmək üçün <a href="{ $url }">lazımi tələblərə</a> cavab vermir.
 download-button-firefox-other-platforms = Digər Platform və Dillər üçün { -brand-name-firefox }
 download-button-update-your-firefox = { -brand-name-firefox }-unuzu Yeniləyin

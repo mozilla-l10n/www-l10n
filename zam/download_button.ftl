@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = b-lày nál
 download-button-free-download = B-lày
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,6 +12,8 @@ download-button-supported-devices = Yib ták tób lú
 download-button-whats-new = Ko kûb
 download-button-systems-languages = Yíb &ner diiste
 download-button-recommended = wì
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Yíb ná lú ná gé nút <a href="{ $url }">kó lí ché</a> { -brand-name-firefox } .
 download-button-firefox-other-platforms = blá { -brand-name-firefox } &lént tá thíb dizh ner yíb
 download-button-update-your-firefox = Lí kúb { -brand-name-firefox }

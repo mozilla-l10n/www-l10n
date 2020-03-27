@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = இப்பொழுதே பதிவிறக்கு
 download-button-free-download = இலவச பதிவிறக்கம்
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,7 +12,11 @@ download-button-supported-devices = ஆதரிக்கப்படும் �
 download-button-whats-new = புதியவைகள்
 download-button-systems-languages = கணினிகள் &amp; மொழிகள்
 download-button-recommended = பரிந்துரைக்கப்பட்டது
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = பயர்பாக்சை நிறுவுவதற்கு தயவுசெய்து <a href="{ $url }">இந்த வழிமுறைகளைப்</a> பின்பற்றவும்.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = பயர்பாக்சை இயக்க வேண்டிய <a href="{ $url }">தேவைகளை</a> உங்கள் கணினி பூர்த்தி செய்யவில்லை.
 download-button-firefox-other-platforms = பிற இயக்குதளங்களுக்கும், மொழிகளுக்குமான பயர்பாஃசு
 download-button-update-your-firefox = உங்கள் { -brand-name-firefox }ஐப் புதுப்பிக்க

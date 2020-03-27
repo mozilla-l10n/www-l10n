@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = הורדה כעת
 download-button-free-download = הורדה בחינם
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = מכשירים נתמכים
 download-button-whats-new = מה חדש
 download-button-systems-languages = מערכות הפעלה ושפות
 download-button-recommended = מומלצת
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } אינה מספקת יותר עדכוני אבטחה עבור { -brand-name-firefox } על { -brand-name-windows } { -brand-name-xp } או { -brand-name-vista }</a>, אך עדיין ניתן להוריד את גרסת 32 סיביות האחרונה המופיעה למטה.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = נא לעקוב אחר <a href="{ $url }">ההנחיות האלו</a> כדי להתקין את { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = מערכת ההפעלה שברשותך אינה עונה על <a href="{ $url }">הדרישות</a> כדי להריץ את { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } עבור פלטפורמות ושפות אחרות
 download-button-update-your-firefox = עידכון { -brand-name-firefox }

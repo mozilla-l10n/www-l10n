@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = ดาวน์โหลดทันที
 download-button-free-download = ดาวน์โหลดฟรี
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = อุปกรณ์ที่รองร�
 download-button-whats-new = มีอะไรใหม่
 download-button-systems-languages = ระบบและภาษา
 download-button-recommended = แนะนำ
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } ไม่ปล่อยแพตซ์อัปเดตความปลอดภัยให้ { -brand-name-firefox } บน { -brand-name-windows } { -brand-name-xp } หรือ { -brand-name-vista } แล้ว</a> แต่คุณยังสามารถดาวน์โหลดเวอร์ชั่นสุดท้ายสำหรับ { -brand-name-windows } แบบ 32 บิตได้ข้างล่าง
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = โปรดทำตาม<a href="{ $url }">คำแนะนำนี้</a>เพื่อติดตั้ง { -brand-name-firefox }
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = ระบบของคุณไม่ตรงกับ<a href="{ $url }">ความต้องการ</a>ที่ให้ { -brand-name-firefox } ใช้งานได้
 download-button-firefox-other-platforms = { -brand-name-firefox } สำหรับแพลตฟอร์มและภาษาอื่น
 download-button-update-your-firefox = อัปเดต { -brand-name-firefox } ของคุณ

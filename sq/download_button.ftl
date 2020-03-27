@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Shkarkojeni tani
 download-button-free-download = Shkarkim Falas
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Pajisje të Mbuluara
 download-button-whats-new = Ç’ka të Re
 download-button-systems-languages = Sisteme &amp; Gjuhë
 download-button-recommended = I këshilluar
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } nuk ofron më përditësime sigurie për { -brand-name-firefox }-in nën { -brand-name-windows } { -brand-name-xp } ose { -brand-name-vista }</a>, por mundeni të shkarkoni versionin përfundimtar për { -brand-name-windows } 32-bit më poshtë.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Që të instaloni { -brand-name-firefox }-in, ju lutemi, ndiqni <a href="{ $url }">këto udhëzime</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Sistemi juaj nuk i plotëson <a href="{ $url }">domosdoshmëritë</a> për xhirimin e { -brand-name-firefox }-it.
 download-button-firefox-other-platforms = { -brand-name-firefox } për Platforma & Gjuhë të Tjera
 download-button-update-your-firefox = Përditësoni { -brand-name-firefox }-in

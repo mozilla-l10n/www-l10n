@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Изтеглете сега
 download-button-free-download = Свободно изтегляне
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Поддържани устройства
 download-button-whats-new = Новото в това издание
 download-button-systems-languages = Системи и езици
 download-button-recommended = Препоръчано
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } вече не доставя обновявания за безопасност за { -brand-name-firefox } на { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }</a>, но все още можете да изтеглите по-долу окончателната версия за 32-битов { -brand-name-windows }.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Моля, следвайте <a href="{ $url }">тези инструкции</a>, за да инсталирате { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Вашата система не покрива <a href="{ $url }">изискванията</a> за инсталация на { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } за други платформи и езици
 download-button-update-your-firefox = Обновете Вашия { -brand-name-firefox }

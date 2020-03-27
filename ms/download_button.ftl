@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Muat turun sekarang
 download-button-free-download = Muat turun Percuma
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Peranti yang Disokong
 download-button-whats-new = Yang Terbaru
 download-button-systems-languages = Sistem &amp; Bahasa
 download-button-recommended = Disyorkan
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } tidak lagi menyediakan kemas kini keselamatan untuk { -brand-name-firefox } { -brand-name-windows } { -brand-name-xp } atau { -brand-name-vista }</a>, tapi anda masih boleh muat turun versi akhir { -brand-name-windows } 32-bit di bawah.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Sila izinkan <a href="{ $url }">arahan ini</a> untuk memasang { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Sistem anda tidak memenuhi <a href="{ $url }">keperluan</a> untuk melancarkan { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } untuk Platform & Bahasa Lain
 download-button-update-your-firefox = Kemaskini { -brand-name-firefox } anda

@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Қазір жүктеп алу
 download-button-free-download = Тегін жүктеп алу
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,7 +12,11 @@ download-button-supported-devices = Қолдауы бар құрылғылар
 download-button-whats-new = Не жаңалық
 download-button-systems-languages = Жүйелер және тілдер
 download-button-recommended = Ұсынылатын
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox } қолданбасын орнату үшін <a href="{ $url }">осы нұсқаманы</a> қолданыңыз.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Жүйеңіз { -brand-name-firefox } қолданбасын жөнелту үшін керек <a href="{ $url }">талаптарға</a> сай келмейді.
 download-button-firefox-other-platforms = Басқа платформалар және тілдер үшін { -brand-name-firefox }
 download-button-update-your-firefox = { -brand-name-firefox } қолданбасын жаңартыңыз

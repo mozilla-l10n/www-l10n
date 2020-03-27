@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = ഇപ്പോൾ ഡൌണ്‍ലോഡ് ചെയ്യുക
 download-button-free-download = സൗജന്യ ഡൗണ്‍ലോഡ്
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = പിന്തുണയ്ക്കുന�
 download-button-whats-new = പുതിയതെന്തെല്ലാം
 download-button-systems-languages = സിസ്റ്റങ്ങളും ഭാഷകളും
 download-button-recommended = ശുപാർശ ചെയ്തത്
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">വിൻഡോസ് { -brand-name-xp } അല്ലെങ്കിൽ { -brand-name-vista } ൽ ഫയർഫോക്സിനായി മോസില്ല ഇനി സുരക്ഷ അപ്ഡേറ്റുകൾ നൽകില്ല</a>, എങ്കിലും നിങ്ങൾക്ക് ഇപ്പോഴും അവസാന വിൻഡോസ് 32-ബിറ്റ് പതിപ്പ് താഴെ നിന്നും ഡൌൺലോഡ് ചെയ്യാം.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതിന് ദയവായി <a href="{ $url }">ഈ നിര്‍ദ്ദേശങ്ങള്‍</a> പിന്‍തുടരുക.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = ഫയര്‍ഫോക്സ് പ്രവര്‍ത്തിപ്പിയ്ക്കുന്നതിനു് മതിയായ <a href="{ $url }">ആവശ്യതകള്‍</a> നിങ്ങളുടെ സിസ്റ്റത്തില്‍ ലഭ്യമല്ല.
 download-button-firefox-other-platforms = മറ്റു പ്ലാറ്റ്ഫോമുകളിലും ഭാഷകളിലുമുള്ള ഫയർഫോക്സ്
 download-button-update-your-firefox = നിങ്ങളുടെ ഫയര്‍ഫോക്സ് പുതുക്കൂ

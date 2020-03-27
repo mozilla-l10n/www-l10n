@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = ಈಗ ಡೌನ್‌ಲೋಡ್ ಮಾಡು
 download-button-free-download = ಉಚಿತ ಡೌನ್‌ಲೋಡು
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,7 +12,11 @@ download-button-supported-devices = ಬೆಂಬಲಿತ ಸಾಧನಗಳು
 download-button-whats-new = ಹೊಸತು ಏನಿದೆ
 download-button-systems-languages = ವ್ಯವಸ್ಥೆಗಳು &amp; ಭಾಷೆಗಳು
 download-button-recommended = ಶಿಫಾರಸು ಮಾಡಿದವು
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox } ಅನುಸ್ಥಾಪಿಸಲು ದಯವಿಟ್ಟು <a href="{ $url }">ಈ ಸೂಚನೆಗಳನ್ನು</a> ಅನುಸರಿಸಿ.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = ನಿಮ್ಮ ಗಣಕ ವ್ಯವಸ್ಥೆ { -brand-name-firefox } ನಿರ್ವಹಿಸಲು ಬೇಕಿರುವ <a href="{ $url }"> ಸವಲತ್ತುಗಳನ್ನು</a> ಹೊಂದಿಲ್ಲ.
 download-button-firefox-other-platforms = { -brand-name-firefox } ಇತರೆ ಪ್ಲಾಟ್‍‍‍ಫಾರ್ಮ್‍‍ಗಳಿಗೆ & ಭಾಷೆಗಳಿಗೆ
 download-button-update-your-firefox = ನಿಮ್ಮ { -brand-name-firefox } ಕಾಲೋಚಿತವಾಗಿಸು

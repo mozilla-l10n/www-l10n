@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Khuphela ngoku
 download-button-free-download = Khuphela Simahla
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -7,7 +11,11 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Izixhobo Ezixhaswayo
 download-button-whats-new = Yintoni Entsha
 download-button-systems-languages = Iinkqubo &amp; Iilwimi
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Nceda ulandele<a href="{ $url }">le miyalelo</a> ukuze ufakele i{ -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Inkqubo yakho ayihambelani neemfuno ze-<a href="{ $url }">zokusebenzisa</a> i{ -brand-name-firefox }.
 download-button-firefox-other-platforms = I{ -brand-name-firefox } Yamanye Amaqonga Neelwimi
 download-button-update-your-firefox = Hlaziya i{ -brand-name-firefox } yakho

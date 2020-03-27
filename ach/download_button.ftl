@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Gam kombedi
 download-button-free-download = Kwanyo me Nono
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Jami tic ma Kicwako te
 download-button-whats-new = Ngo Manyen
 download-button-systems-languages = Nyonyo &amp; Leb
 download-button-recommended = Kicwako
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } dong pe miyo ngec manyen pi ber bedo pa { -brand-name-firefox } ii { -brand-name-windows } { -brand-name-xp } onyo { -brand-name-vista }</a>, ento pud itwero gamo kite me { -brand-name-windows } 32-bit ma tye piny ni.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Tim ber i lub <a href="{ $url }">yoo magi</a> me keto { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Nyonyo mamegi pe rwate ki <a href="{ $url }">jami ma mite</a> me tic ki { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } pi Nyonyo ki Leb mukene
 download-button-update-your-firefox = Ket ngec manyen i { -brand-name-firefox } ni

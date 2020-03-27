@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Parsisiųskite dabar
 download-button-free-download = Parsisiųskite
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Palaikomi įrenginiai
 download-button-whats-new = Naujovės
 download-button-systems-languages = Operacinės sistemos ir kalbos
 download-button-recommended = Rekomenduojamos
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">„{ -brand-name-mozilla }“ nebeteikia saugumo naujinimų „{ -brand-name-firefox }“ naršyklei „{ -brand-name-windows } { -brand-name-xp }“ ir „{ -brand-name-vista }“ sistemose</a>, tačiau žemiau jūs vis dar galite parsisiųsti paskutinę 32 bitų laidą.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = „{ -brand-name-firefox }“ galite įdiegti, vadovaudamiesi <a href="{ $url }">šia instrukcija</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Jūsų sistema netenkina „{ -brand-name-firefox }“ naršyklės <a href="{ $url }">reikalavimų</a>.
 download-button-firefox-other-platforms = „{ -brand-name-firefox }“ kitoms platformoms ir kalboms
 download-button-update-your-firefox = Atnaujinkite savo „{ -brand-name-firefox }“ naršyklę

@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = نزّل الآن
 download-button-free-download = تحميل مجّاني
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = الأجهزة المدعومة
 download-button-whats-new = ما الجديد
 download-button-systems-languages = أنظمة ولغات
 download-button-recommended = يُنصح به
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">لم تعد موزيلا تقدّم التحديثات الأمنية لمتصّفح فَيَرفُكس على وِندوز إكس‌پي أو ڤيستا</a>، مع ذلك تستطيع تنزيل إصدار وِندوز 32 بتّة الأخيرة من الأسفل.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = رجاءً اتّبع  <a href="{ $url }">هذه التّعليمات</a> لتنصيب فَيَرفُكس.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = لا يملك جهازك <a href="{ $url }">المواصفات الدنيا</a> لتشغيل فَيَرفُكس.
 download-button-firefox-other-platforms = فَيَرفُكس بلغات وعلى منصّات أخرى.
 download-button-update-your-firefox = قم بتحديث { -brand-name-firefox }

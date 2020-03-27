@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = I-download ngayon na
 download-button-free-download = Libreng Download
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Mga Suportadong Devices
 download-button-whats-new = Anong Bago
 download-button-systems-languages = Mga Sistema &amp; Wika
 download-button-recommended = Inererekumenda
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">Hindi na naglalabas ang { -brand-name-mozilla } ng mga security updates para sa { -brand-name-firefox } sa { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }</a>, pero maaari mo pa ring i-download ang pinakahuling bersyon para sa { -brand-name-windows } 32-bit sa ibaba ng page na ito.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Pakisundan ang mga <a href="{ $url }">alituntunin</a> para mag-install ng { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Hindi abot ng iyong sistema ang <a href="{ $url }">requirements</a> para mapagana ang { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } para sa Ibang Platform at Wika
 download-button-update-your-firefox = I-update ang iyong { -brand-name-firefox }

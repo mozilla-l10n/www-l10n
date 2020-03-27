@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Něnto ześěgnuś
 download-button-free-download = Dermotne ześěgnjenje
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Pódpěrane rědy
 download-button-whats-new = Nowe funkcije a změny
 download-button-systems-languages = Systemy a rěcy
 download-button-recommended = Dopórucony
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } wěstotne aktualizacije za { -brand-name-firefox } na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } wěcej k dispoziciji njestaja</a>, ale móžośo hyšći dołojce 32-bitowu kóńcnu wersiju { -brand-name-windows } ześěgnuś.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Pšosym slědujśo <a href="{ $url }">toś tym instrukcijam</a> za instalěrowanje { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Waš system njewótpowědujo <a href="{ $url }">pominanjam</a>, aby { -brand-name-firefox } funkcioněrował.
 download-button-firefox-other-platforms = { -brand-name-firefox } za druge platformy a rěcy
 download-button-update-your-firefox = Zaktualizěrujśo swój { -brand-name-firefox }

@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Emboguejy ko'ág̃a
 download-button-free-download = Ñemboguejy reigua
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Mba'e'oka heseguáva
 download-button-whats-new = Mba'epyahu
 download-button-systems-languages = Apopyvusu ha Ñe'ẽnguéra
 download-button-recommended = Jeroviapyrãva
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } nombohekopyahuvéima tekorosã { -brand-name-firefox } peg̃uarã { -brand-name-windows } { -brand-name-xp } térã { -brand-name-vista }-pe</a>, hákatu emboguejykuaa gueteri { -brand-name-windows } 32 bits orekóva ko'ág̃a guive.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Ejapomína <a href="{ $url }">ko'ã mba'e</a> emohendávo { -brand-name-firefox } mohendahápe.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Nde apopyvusu ndoguerekopái <a href="{ $url }">tekotevẽmby</a> eipuru hag̃ua { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } ambue plataforma ha ñe'ẽme g̃uarã
 download-button-update-your-firefox = Embohekopyahu { -brand-name-firefox }

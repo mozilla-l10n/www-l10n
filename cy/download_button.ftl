@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Llwytho'i lawr nawr
 download-button-free-download = Llwytho i Lawr am ddim
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Dyfeisiau Cymeradwy
 download-button-whats-new = Be sy'n Newydd
 download-button-systems-languages = Systemau ac Ieithoedd
 download-button-recommended = Cymeradwy
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">Nid yw { -brand-name-mozilla }'n darparu diweddariadau diogelwch ar gyfer { -brand-name-firefox } ar { -brand-name-windows } { -brand-name-xp } neu { -brand-name-vista }</a>, ond gallwch dal i lwytho i lawr y fersiwn { -brand-name-windows } 32 did olaf isod.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a> er mwyn gosod { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Nid yw eich system yn cyrraedd <a href="{ $url }">y gofynion</a> i redeg { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } ar gyfer Platfformau ac Ieithoedd Eraill
 download-button-update-your-firefox = Diweddarwchu eich { -brand-name-firefox }

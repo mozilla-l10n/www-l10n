@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Letöltés most
 download-button-free-download = Ingyenes letöltés
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Támogatott eszközök
 download-button-whats-new = Újdonságok
 download-button-systems-languages = Nyelvek és operációs rendszerek
 download-button-recommended = Ajánlott
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">A { -brand-name-mozilla } többé nem biztosít biztonsági frissítéseket a { -brand-name-firefox }hoz { -brand-name-windows } { -brand-name-xp }-n vagy Vistán</a>, de lent még mindig letöltheti a végső 32 bites windowsos változatot.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = A { -brand-name-firefox } telepítéséhez kövesse <a href="{ $url }">ezeket az utasításokat</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Az Ön által használt rendszer nem teljesíti a { -brand-name-firefox } futtatásához szükséges <a href="{ $url }">követelményeket</a>.
 download-button-firefox-other-platforms = { -brand-name-firefox } más platformokhoz és nyelvekhez
 download-button-update-your-firefox = Frissítse { -brand-name-firefox }át

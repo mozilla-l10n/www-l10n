@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Íoslódáil anois
 download-button-free-download = Íoslódáil Saor in Aisce
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -7,7 +11,11 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Gléasanna
 download-button-whats-new = Gnéithe Nua
 download-button-systems-languages = Córais &amp; Teangacha
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = <a href="{ $url }">Na treoracha</a> le leanúint chun { -brand-name-firefox } a shuiteáil.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Ní chomhlíonann do chóras <a href="{ $url }">na riachtanais</a> chun { -brand-name-firefox } a úsáid.
 download-button-firefox-other-platforms = { -brand-name-firefox } d'Ardáin Eile agus do Theangacha Eile
 download-button-update-your-firefox = Nuashonraigh { -brand-name-firefox }

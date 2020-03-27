@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Sader tura
 download-button-free-download = Sader baṭel
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Ibenkan yettusefraken
 download-button-whats-new = Amaynut
 download-button-systems-languages = Inagrawen d tutlayin
 download-button-recommended = Ihul
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } dayen ur d-yettak ara ileqman n tɣellist i { -brand-name-firefox } ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }</a>, maca tzemreḍ ad tkemleḍ asider n leqqem aneggaru n { -brand-name-windows } 32-ibiten ddaw-agi.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Ma ulac aɣilif ḍfer <a href="{ $url }">tinaḍin-agi</a> akken ad tesbeddeḍ { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Anagraw-ik ur igbir ara<a href="{ $url }">ayen iwulmen</a> i useddu n { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } i yinagrawen & Tutlayin-nniḍen
 download-button-update-your-firefox = Leqqem { -brand-name-firefox }-inek

@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = K’ad choideesht’eeł nisin.
 download-button-free-download = T’áá jíík’ehgo níłch’ih bee ’ééhoziní bits’ą́ą́dóó choot’eehígíí ’át’é.
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -7,6 +11,8 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Béésh ’atsiniltłish biyi’jį’ nizhónígo nidaalnish dooleełígíí
 download-button-whats-new = Ha’át’íí ’Ániid ’ádaalyaa
 download-button-systems-languages = bee ’ałch’é ’ál’íní &amṕ; Saad bee yá’áti’í
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Béésh łichíi’ii t’áá bí nitsíkeesí ’éí { -brand-name-firefox } yiyoołwoł dooleełígíí <a href="{ $url }">doo bá bíighah da</a> lá.
 download-button-firefox-other-platforms = { -brand-name-firefox } ’éí platforms dóó saad bee yá’áti’ ’ał’ąą ’ádaat’éhígíí bá ’ádaalyaaígíí
 download-button-update-your-firefox = { -brand-name-firefox } t’áá ’ániidí ’ánídeeshdlííł nisin.

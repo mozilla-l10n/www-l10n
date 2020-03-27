@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-free-download = Kipakuzi cha bure
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -6,6 +10,8 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Vifaa vinavyoweza kutumika
 download-button-whats-new = Ni nini kipya
 download-button-systems-languages = Mifumo &amp; Lugha
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Mfumo wako hauto shelezi <a href="{ $url }">mahitaji </a> ili kutumia { -brand-name-firefox }.
 download-button-update-your-firefox = Sasisha { -brand-name-firefox } yako
 download-button-get-firefox-android = Pata { -brand-name-firefox } ya { -brand-name-android }

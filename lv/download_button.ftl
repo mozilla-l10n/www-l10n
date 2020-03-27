@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Lejupielādēt tagad
 download-button-free-download = Bezmaksas lejupielāde
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -7,6 +11,8 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Atbalstītās ierīces
 download-button-whats-new = Kas jauns?
 download-button-systems-languages = Sistēmas un valodas
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Jūsu sistēma neatbilst minimālajām <a href="{ $url }">prasībām</a>, lai darbinātu { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } citām platformām un valodām
 download-button-update-your-firefox = Atjauniniet savu { -brand-name-firefox }

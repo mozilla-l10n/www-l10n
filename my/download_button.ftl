@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = ယခုပင် ဆွဲယူပါ
 download-button-free-download = အခမဲ့ဒေါင်းလုဒ်
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = အထောက်အပံ့ပေး ပ�
 download-button-whats-new = ဘာအသစ်ထွက်။
 download-button-systems-languages = စနစ်များ &amp; ဘာသာစကားများ
 download-button-recommended = အကြံပြုထားသော
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">မိုဇီလာ မှာ ဝင်းဒိုး { -brand-name-xp } နှင့် { -brand-name-vista } အတွက် ဆက်လက်ထောက်ပံ့မပေးထား တော့ပါ။</a> သို့သော် နောက်ဆုံး ဝင်းဒိုး 32 ဘစ်ဗားရှင်းကို အောက်တွင် ဒေါင်းလုဒ်ရယူနိုင်ပါသည်။
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = မီးမြေခွေးကို ထည့်သွင်းအသုံးပြုရန် ကျေးဇူးပြု၍ <a href="{ $url }">ဒီ လုပ်ဆောင်ချက်များ</a>အတိုင်း လိုက်နာဆောင်ရွက်ပါ။
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = သင့် ကွန်ပျူတာစနစ်သည် { -brand-name-firefox } အသုံးပြရန် <a href="{ $url }">လိုအပ်ချက်များ</a> နှင့်မပြည့်စုံပါ
 download-button-firefox-other-platforms = အခြားစနစ်များနှင့် ဘာသာစကားများအတွက် မီးမြေခွေး
 download-button-update-your-firefox = သင့် မီးမြေခွေးကို အဆင့်မြင့်ပါ

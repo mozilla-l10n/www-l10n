@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = ჩამოტვირთვა
 download-button-free-download = უფასო ჩამოტვირთვა
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = მხარდაჭერილი მო�
 download-button-whats-new = რა სიახლეებია
 download-button-systems-languages = სისტემები და ენები
 download-button-recommended = სასურველი
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } აღარ უზრუნველყოფს უსაფრთხოების განახლებებს { -brand-name-firefox }-ისთვის { -brand-name-windows } { -brand-name-xp }-ისა და { -brand-name-vista }-ზე</a>, მაგრამ მაინც შეგიძლიათ ჩამოტვირთოთ საბოლოო ვერსია 32-ბიტიანი { -brand-name-windows }-სისტემისთვის ქვემოთ.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = გთხოვთ, { -brand-name-firefox }-ის დასაყენებლად მიჰყვეთ <a href="{ $url }">ამ მითითებებს</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = თქვენი სისტემა ვერ აკმაყოფილებს { -brand-name-firefox } ბრაუზერის <a href="{ $url }">მოთხოვნებს</a>.
 download-button-firefox-other-platforms = { -brand-name-firefox } სხვა პლატფორმებსა და ენებზე
 download-button-update-your-firefox = განაახლეთ თქვენი { -brand-name-firefox }

@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Ներբեռնել
 download-button-free-download = Ազատ բեռնումներ
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -8,8 +12,14 @@ download-button-supported-devices = Աջակցող սարքերը
 download-button-whats-new = Ինչն է նոր
 download-button-systems-languages = Համակարգեր և լեզուներ
 download-button-recommended = Հանձնարարելի
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla }-ն այլևս չի տրամադրում անվտանգության արդիացումներ { -brand-name-firefox }-ի համար { -brand-name-windows } { -brand-name-xp } կամ { -brand-name-vista }-ում</a>, բայց դեռ կարող եք ներբեռնել { -brand-name-windows } 32-բիթ տարբերակը:
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox }-ը տեղադրելու համար հետևեք <a href="{ $url }">այս հրահանգներին</a>:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Ձեր համակարգը չի համապատասխանում { -brand-name-firefox }-ի <a href="{ $url }">պահանջներին</a>։
 download-button-firefox-other-platforms = { -brand-name-firefox }-ը այլ հարթակների համար և այլ լեզուներով
 download-button-update-your-firefox = Թարմացրել { -brand-name-firefox }-ը

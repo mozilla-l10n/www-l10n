@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-free-download = Слободно преземање
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -7,6 +11,8 @@ download-button-supported-devices = Поддржани уреди
 download-button-whats-new = Што е ново
 download-button-systems-languages = Системи и јазици
 download-button-recommended = Препорачани
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Вашиот систем не ги исполнува <a href="{ $url }">критериумите</a> за стартување на { -brand-name-firefox }.
 download-button-update-your-firefox = Надградете го { -brand-name-firefox }
 download-button-get-firefox-android = Земи го { -brand-name-firefox } за { -brand-name-android }

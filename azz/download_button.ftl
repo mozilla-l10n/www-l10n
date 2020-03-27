@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 download-button-download-now = Yekitsin xikontemoui
 download-button-free-download = Xikontemoui uan amo moneki tikonixtauas
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -7,8 +11,14 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Teposmej dispositivos tein tionuelis tikontatekiujtis
 download-button-whats-new = Tein yankuik
 download-button-systems-languages = Sistemas uan tepostajtolismej
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } amo kitemakasya yankuikej versiones tein yekyetokej ika { -brand-name-firefox } itech { -brand-name-windows } { -brand-name-xp } oso { -brand-name-vista }</a>, sayoj ke xa uelis tiktemos itamian version { -brand-name-windows } ika 32-bits satepan.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Xikonchiua <a href="{ $url }">nejin tanauatilmej</a> uan ijkon tikontalilis Fiefox motepos.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Mosistema amo kipia <a href="{ $url }">tein moneki</a> uan ijkon { -brand-name-firefox } amo uelis tekitis.
 download-button-firefox-other-platforms = { -brand-name-firefox } tein tionuelis tikontatekiujtis ika oksekin plataformas uan tepostajtolismej
 download-button-update-your-firefox = Xikonyankuili mo{ -brand-name-firefox }
