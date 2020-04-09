@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>النسخة الليلية من
 download-button-firefox-android = <span>فَيَرفُكس</span> لأندرويد
 download-button-firefox-ios = <span>فيرفكس</span> لآي أو إس
 download-button-firefox-privacy = خصوصية { -brand-name-firefox }
+download-button-download = نزّل

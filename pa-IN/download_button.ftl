@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = ਐਂਡਰਾਈਡ ਲਈ <span>ਫ
 download-button-firefox-android = ਐਂਡਰਾਇਡ ਲਈ <span>ਫਾਇਰਫਾਕਸ</span>
 download-button-firefox-ios = <span>ਫਾਇਰਫਾਕਸ</span> { -brand-name-ios } ਲਈ
 download-button-firefox-privacy = ਫਾਇਰਫਾਕਸ ਪਰਦੇਦਾਰੀ
+download-button-download = ਡਾਊਨਲੋਡ

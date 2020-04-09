@@ -33,3 +33,4 @@ download-button-firefox-nightly-android = <span>i{ -brand-name-firefox-nightly }
 download-button-firefox-android = <span>i{ -brand-name-firefox }</span> kwi-{ -brand-name-android }
 download-button-firefox-ios = <span>i{ -brand-name-firefox }</span> kwi-{ -brand-name-ios }
 download-button-firefox-privacy = Ukuba yiMfihlelo kwe{ -brand-name-firefox }
+download-button-download = Khuphela

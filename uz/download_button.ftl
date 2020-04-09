@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = { -brand-name-android } uchun <span>{ 
 download-button-firefox-android = { -brand-name-android } uchun <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } uchun <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } Maxfiylik
+download-button-download = Yuklab olish

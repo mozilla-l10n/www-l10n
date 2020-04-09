@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = Beta માટે <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } માટે
 download-button-firefox-privacy = { -brand-name-firefox } ગોપનીયતા
+download-button-download = ડાઉનલોડ

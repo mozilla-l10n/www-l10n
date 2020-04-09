@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> „{ -brand-name-android }“ įrenginiams
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> „{ -brand-name-ios }“ įrenginiams
 download-button-firefox-privacy = „{ -brand-name-firefox }“ privatumas
+download-button-download = Parsisiųsti

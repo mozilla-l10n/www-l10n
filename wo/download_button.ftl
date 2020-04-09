@@ -34,3 +34,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> ngir { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> ngir { -brand-name-ios }
 download-button-firefox-privacy = Xibaari sutura ci { -brand-name-firefox }
+download-button-download = Yebbi

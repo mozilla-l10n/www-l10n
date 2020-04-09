@@ -33,3 +33,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> per { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per Android
 download-button-firefox-privacy = Politica de confidencialitat de { -brand-name-firefox }
+download-button-download = Telecargament

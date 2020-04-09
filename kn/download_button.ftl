@@ -34,3 +34,4 @@ download-button-firefox-nightly-android = <span>Firefox ನೈಟ್ಲಿ</span
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> ಆಂಡ್ರಾಯ್ಡ್‌ಗಾಗಿ
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } ಗಾಗಿ
 download-button-firefox-privacy = { -brand-name-firefox } ಗೌಪ್ಯತೆ
+download-button-download = ಡೌನ್‌ಲೋಡ್

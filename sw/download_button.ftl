@@ -20,3 +20,4 @@ download-button-download-firefox = Daunlodi { -brand-name-firefox }
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> ya { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> ya { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> ya { -brand-name-android }
+download-button-download = Pakua

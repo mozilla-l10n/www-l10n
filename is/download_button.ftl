@@ -34,3 +34,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> fyrir { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> fyrir { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox } friðhelgi
+download-button-download = Niðurhal

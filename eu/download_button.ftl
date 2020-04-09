@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android }erako
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios }erako
 download-button-firefox-privacy = { -brand-name-firefox }en pribatutasuna
+download-button-download = Deskargatu

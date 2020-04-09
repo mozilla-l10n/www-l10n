@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>فایرفاکس نایتلی</s
 download-button-firefox-android = <span>فایرفاکس</span> برای اندروید
 download-button-firefox-ios = <span>فایرفاکس</span> برای { -brand-name-ios }
 download-button-firefox-privacy = حریم شخصی فایرفاکس
+download-button-download = دریافت
