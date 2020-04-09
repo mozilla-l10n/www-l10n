@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> mo { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> mo { -brand-name-ios }
 download-button-firefox-privacy = Suturo { -brand-name-firefox }
+download-button-download = Aawto

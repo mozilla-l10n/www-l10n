@@ -29,3 +29,4 @@ download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</s
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android } ierīcēm
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } ierīcēm
 download-button-firefox-privacy = { -brand-name-firefox } Privātums
+download-button-download = Lejupielādēt

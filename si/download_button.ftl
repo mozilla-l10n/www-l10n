@@ -34,3 +34,4 @@ download-button-firefox-nightly-android = { -brand-name-android } සදහා <
 download-button-firefox-android = { -brand-name-android } සදඟහා <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } සඳහා <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } පුද්ගලිකත්වය
+download-button-download = බාගත කරන්න

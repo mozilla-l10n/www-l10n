@@ -17,3 +17,4 @@ download-button-please-follow-these = { -brand-name-firefox }'nı qurmaq içün 
 download-button-firefox-other-platforms = Diger Platformalar & Tiller içün { -brand-name-firefox }
 download-button-download-firefox = { -brand-name-firefox }'nı Endir
 download-button-firefox-privacy = { -brand-name-firefox } Husisiyat
+download-button-download = Endir

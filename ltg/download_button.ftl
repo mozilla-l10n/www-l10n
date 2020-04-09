@@ -30,3 +30,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> deļ { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> deļ { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox } privātums
+download-button-download = Nūlōdēt

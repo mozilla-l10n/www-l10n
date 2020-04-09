@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = { -brand-name-android } için <span>{ 
 download-button-firefox-android = { -brand-name-android } için <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } için <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox }’ta gizlilik
+download-button-download = İndir

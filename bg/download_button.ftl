@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> за { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> за { -brand-name-ios }
 download-button-firefox-privacy = Поверителност на { -brand-name-firefox }
+download-button-download = Изтегляне

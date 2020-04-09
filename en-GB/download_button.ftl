@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> for { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> for { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox } Privacy
+download-button-download = Download

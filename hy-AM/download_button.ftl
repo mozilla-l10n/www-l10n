@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }-ը</span> { -brand-name-android }-ի համար
 download-button-firefox-ios = <span>{ -brand-name-firefox }-ը</span> { -brand-name-ios }-ի համար
 download-button-firefox-privacy = { -brand-name-firefox }-ի գաղտնիությունը
+download-button-download = Բեռնել

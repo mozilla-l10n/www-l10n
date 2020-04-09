@@ -29,3 +29,4 @@ download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</s
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android } se
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } se
 download-button-firefox-privacy = { -brand-name-firefox } sutura
+download-button-download = Zumandi

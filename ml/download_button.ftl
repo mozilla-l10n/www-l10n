@@ -37,3 +37,4 @@ download-button-firefox-nightly-android = ആന്‍ഡ്രോയിഡി�
 download-button-firefox-android = ആന്‍ഡ്രോയിഡിനുള്ള  <span>ഫയര്‍ഫോക്സ്</span>
 download-button-firefox-ios = { -brand-name-ios } നുള്ള <span>ഫയര്‍ഫോക്സ്</span>
 download-button-firefox-privacy = ഫയര്‍ഫോക്സ് സ്വകാര്യത
+download-button-download = ഡൗണ്‍ലോഡ്

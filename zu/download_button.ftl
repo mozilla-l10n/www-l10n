@@ -11,3 +11,4 @@ download-button-supported-devices = Amdivayisi Esekiwe
 download-button-whats-new = Yini entsha
 download-button-get-firefox-android = Thola i-{ -brand-name-firefox } ye-{ -brand-name-android }
 download-button-download-firefox = Dawuniloda i-{ -brand-name-firefox }
+download-button-download = Dawuniloda
