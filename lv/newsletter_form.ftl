@@ -11,6 +11,10 @@ newsletter-form-get-firefox-news = Saņemiet { -brand-name-firefox } ziņas
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Esmu ar mieru lai mozilla apietos ar manam datnēm kā noteiks šajā <a href="{ $url }">Privātuma Politikā</a>
 newsletter-form-we-will-only-send = Mēs sūtīsim tikai ar { -brand-name-mozilla } saistītu informāciju.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Jūs
+newsletter-form-get-firefox-tips = Iegūstiet { -brand-name-firefox } ieteikumus, triki, jaunumi un vairāk
+newsletter-form-keep-up-with = Sekojiet visiem<br> { -brand-name-firefox } jaunumiem.
+newsletter-form-get-mozilla-updates = Piesakies { -brand-name-mozilla } jaunumiem
 newsletter-form-available-languages = Pieejamās valodas
 newsletter-form-select-country = Izvēlieties valsti
 newsletter-form-sign-me-up = Pierakstiet mani

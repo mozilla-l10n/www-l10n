@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = { -brand-name-firefox } వార్తలన
 newsletter-form-im-okay-with-mozilla = ఈ <a href="{ $url }">గోప్యతా నోటీసు</a>లో వివరించిన విధంగా { -brand-name-mozilla } నా సమాచార నిర్వహణ ఒప్పుకుంటున్నాను
 newsletter-form-we-will-only-send = మేము మీకు { -brand-name-mozilla } కు-సంబంధిత సమాచారాన్ని మాత్రమే పంపిస్తాము.
 newsletter-form-if-you-havent-previously = మీరు గతంలో ఒక { -brand-name-mozilla } సంబంధిత వార్తాలేఖ ఒక చందా ధ్రువీకరించారు ఉండకపోతే మీరు అలా కలిగి ఉండవచ్చు. మీ ఇన్బాక్స్ లేదా మానుండి ఇమెయిల్ కోసం స్పామ్ వడపోత తనిఖీ చేయండి.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + మీరు
+newsletter-form-get-firefox-tips = { -brand-name-firefox } చిట్కాలు, ట్రిక్స్, వార్తలు మరియు మరిన్ని పొందండి
+newsletter-form-keep-up-with = అన్ని { -brand-name-firefox } విషయాలూ<br> ఎప్పటికప్పుడే తెలుసుకోండి.
+newsletter-form-get-mozilla-updates = { -brand-name-mozilla } విశేషాలను తెలుసుకోండి
 newsletter-form-available-languages = అందుబాటులో ఉన్న భాషలు
 newsletter-form-select-country = దేశాన్ని ఎంచుకోండి
 newsletter-form-sign-me-up = నన్ను చేర్చుకోండి

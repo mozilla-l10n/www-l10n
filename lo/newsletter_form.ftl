@@ -11,6 +11,9 @@ newsletter-form-get-firefox-news = ຮັບຂ່າວຈາກ { -brand-name-
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = ຂ້ອຍອະນຸຍາດໃຫ້ { -brand-name-mozilla } ຮອງຮັບຂໍ້ມູນຂອງຂ້ອຍຕາມທີ່ໄດ້ຮ່າງໄວ້ຢູ່ໃນ <a href="{ $url }">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a>
 newsletter-form-we-will-only-send = ພວກເຮົາຈະສົ່ງສະເພາະຂໍ້ມູນຂ່າວສານທີ່ກ່ຽວຂ້ອງກັບ { -brand-name-mozilla } ເທົ່ານັ້ນ.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ເຈົ້າ
+newsletter-form-keep-up-with = ຮັກສາໄວ້ກັບ <br> { -brand-name-firefox } ທຸກຢ່າງ.
+newsletter-form-get-mozilla-updates = ຮັບອັບເດດ { -brand-name-mozilla }
 newsletter-form-available-languages = ພາສາທີ່ມີຢູ່
 newsletter-form-select-country = ເລືອກປະເທດ
 newsletter-form-sign-me-up = ລົງທະບຽນ

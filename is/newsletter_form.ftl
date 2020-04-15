@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Gerast áskrifandi að { -brand-name-firefox 
 newsletter-form-im-okay-with-mozilla = Ég er sáttur við að { -brand-name-mozilla } meðhöndli mínar upplýsingar eins og útskýrt er <a href="{ $url }">þessum skilmálum</a>
 newsletter-form-we-will-only-send = Við sendum aðeins upplýsingar sem tengjast { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Ef þú hefur ekki þegar staðfest áskrift að { -brand-name-mozilla } tengdu fréttabréfi gætirðu þurft að staðfesta. Athugaðu hvort póstur sé frá okkur í innhólfinu eða í ruslpóst möppunni.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Þú
+newsletter-form-get-firefox-tips = Fáðu { -brand-name-firefox } ábendingar, snjallræði, fréttir og fleira
+newsletter-form-keep-up-with = Vertu vakandi fyrir<br> öllu sem tengist { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Ná í { -brand-name-mozilla } uppfærslur
 newsletter-form-available-languages = Tiltæk tungumál
 newsletter-form-select-country = Veldu land
 newsletter-form-sign-me-up = Skráðu mig

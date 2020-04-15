@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Ricevi novaĵojn de { -brand-name-firefox }
 newsletter-form-im-okay-with-mozilla = Mi akceptas kiel { -brand-name-mozilla } traktas mian informon, laŭ la priskribo de <a href="{ $url }">tiu ĉi noto pri privateco</a>
 newsletter-form-we-will-only-send = Ni nur sendos al vi informon pri  { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Se vi antaŭe ne konfirmis abonon al bulteno de { -brand-name-mozilla }, vi eble devos tion fari. Bonvolu kontroli ĉu estas mesaĝo nia en via enirkesto aŭ trudmesaĝujo.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + vi
+newsletter-form-get-firefox-tips = Por { -brand-name-firefox } ricevi konsiletojn, trukojn, novaĵon kaj pli
+newsletter-form-keep-up-with = Ĉiam la lastaj novaĵoj<br> pri { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Ricevi novaĵojn de { -brand-name-mozilla }
 newsletter-form-available-languages = Haveblaj lingvoj
 newsletter-form-select-country = Elektu landon
 newsletter-form-sign-me-up = Aboni min

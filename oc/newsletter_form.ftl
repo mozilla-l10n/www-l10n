@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Recebètz nòstra letra mesadièra
 newsletter-form-im-okay-with-mozilla = Accepti que { -brand-name-mozilla } utilize mas informacions per acontentar aquesta <a href="{ $url }">Politica de confidencialitat</a>
 newsletter-form-we-will-only-send = Vos mandarem pas que d'informacions a prepaus { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = S'avètz pas jamai confirmat èsser marcat a una letra d'informacion ligada a { -brand-name-mozilla } benlèu que vos cal far aquò. Mercés de verificar vòstra messatjariá o vòstre repertòri de corrièls indesirables.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Vos
+newsletter-form-get-firefox-tips = Recebre las actualitats, astúcias e mai de { -brand-name-firefox }
+newsletter-form-keep-up-with = Tenètz-vos al fial<br> de l'actualitat de { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Las nòvas de { -brand-name-mozilla }
 newsletter-form-available-languages = Lengas disponiblas
 newsletter-form-select-country = Seleccionatz vòstre país
 newsletter-form-sign-me-up = Inscrivètz-me

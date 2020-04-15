@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = { -brand-name-firefox } სიახლეე
 newsletter-form-im-okay-with-mozilla = თანახმა ვარ, რომ { -brand-name-mozilla }-მ ჩემი მონაცემები გამოიყენოს, <a href="{ $url }">პირადულობის დაცვის დებულების</a> შესაბამისად
 newsletter-form-we-will-only-send = მიიღებთ მხოლოდ { -brand-name-mozilla }-სთან დაკავშირებულ ინფორმაციას.
 newsletter-form-if-you-havent-previously = თუ ჯერ არ დაგიმოწმებიათ { -brand-name-mozilla }-ს საინფორმაციო ცნობების გამოწერა, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან სპამის საქაღალდეში.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + თქვენ
+newsletter-form-get-firefox-tips = გაეცანით { -brand-name-firefox }-სთან დაკავშირებულ რჩევებს, მითითებებს, სიახლეებს და ა. შ.
+newsletter-form-keep-up-with = არ ჩამორჩეთ<br> { -brand-name-firefox }-თან დაკავშირებულ სიახლეებს.
+newsletter-form-get-mozilla-updates = გაეცანით { -brand-name-mozilla }-ს სიახლეებს
 newsletter-form-available-languages = ხელმისაწვდომი ენები
 newsletter-form-select-country = ქვეყნის არჩევა
 newsletter-form-sign-me-up = გამოწერა

@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Ejapyhy marandu { -brand-name-firefox }-gui
 newsletter-form-im-okay-with-mozilla = Amoneĩ { -brand-name-mozilla }-pe ohechávo che marandu oĩháicha <a href="{ $url }">ko haipy ñemigua</a>
 newsletter-form-we-will-only-send = Ore roguerahauka marandu { -brand-name-mozilla } rehegua añónte.
 newsletter-form-if-you-havent-previously = Neremoneĩriramo upe mboyve peteĩ ñemboheraguapy marandu’i rendápe { -brand-name-mozilla } ndive ejapova’erã. Eheka ñanduti veve ore mba’évape ñanduti veve g̃uahẽháme térã spam mboguahápe.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> ha nde
+newsletter-form-get-firefox-tips = Og̃uahẽ ñe’ẽporã ha marandu { -brand-name-firefox } rehegua
+newsletter-form-keep-up-with = Eikuaapáke<br> oikóva guive { -brand-name-firefox } ryepýpe.
+newsletter-form-get-mozilla-updates = Ejapyhy ñembohekopyahu { -brand-name-mozilla }-gui
 newsletter-form-available-languages = Ñe'ẽnguéra eipurukuaáva
 newsletter-form-select-country = Eiporavo tetã
 newsletter-form-sign-me-up = Che añemboheraguapyse
