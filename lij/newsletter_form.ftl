@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Riçeivi e notiçie in sce { -brand-name-fire
 newsletter-form-im-okay-with-mozilla = Son d'acòrdio che { -brand-name-mozilla } o gestisca e mæ informaçioin comme spiegou inte <a href="{ $url }">sto Avîzo de Privacy</a>
 newsletter-form-we-will-only-send = Niatri te mandiæmo solo informaçioin relative a { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Se primma no ti æ confermou l'abonamento a-a newsletter in sce { -brand-name-mozilla }-related ti doviesci fâlo. Amîa ben inta teu pòsta in intrâ ò into spam se no ti gh'æ ina email da niâtri.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ti
+newsletter-form-get-firefox-tips = Piggite conseggi, mastrussi, notiçie e âtro in sce { -brand-name-firefox }
+newsletter-form-keep-up-with = Stanni in contatto<br> co-e cöse de { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Piggite i agiornamenti de { -brand-name-mozilla }
 newsletter-form-available-languages = Lengoe
 newsletter-form-select-country = Seleçionn-a o paize
 newsletter-form-sign-me-up = Registrime

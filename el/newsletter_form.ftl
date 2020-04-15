@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Λάβετε τα νέα του { -brand-name
 newsletter-form-im-okay-with-mozilla = Δέχομαι ότι το ίδρυμα { -brand-name-mozilla } μπορεί να διαχειριστεί τις πληροφορίες μου όπως εξηγεί σ' αυτή την <a href="{ $url }">πολιτική απορρήτου</a>
 newsletter-form-we-will-only-send = Θα σάς στέλνουμε μόνο πληροφορίες σχετικές με τη { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Αν δεν έχετε επιβεβαιώσει προηγουμένως μια συνδρομή σε ένα newsletter του { -brand-name-mozilla }, ίσως πρέπει να το κάνετε. Παρακαλώ ελέγξτε τα εισερχόμενά σας ή το φάκελο ανεπιθύμητων για ένα email από εμάς.
+newsletter-form-firefox-and-you = <span>Το { -brand-name-firefox }</span> + Εσείς
+newsletter-form-get-firefox-tips = Λάβετε συμβουλές, κόλπα, ειδήσεις και πολλά άλλα για το { -brand-name-firefox }
+newsletter-form-keep-up-with = Μη χάσετε <br> τα νέα του { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Λάβετε ενημερώσεις από το έργο { -brand-name-mozilla }
 newsletter-form-available-languages = Διαθέσιμες γλώσσες
 newsletter-form-select-country = Επιλογή χώρας
 newsletter-form-sign-me-up = Εγγραφή

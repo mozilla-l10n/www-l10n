@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Primaj novosti o { -brand-name-firefox }u
 newsletter-form-im-okay-with-mozilla = Slažem se da { -brand-name-mozilla } upravlja ovim informacijama, kao što je objašnjeno u <a href="{ $url }">politici privatnosti</a>
 newsletter-form-we-will-only-send = Šaljemo isključivo informacije vezane uz Mozillu.
 newsletter-form-if-you-havent-previously = Ako još nisi potvrdio/la prijavu na neki Mozillin bilten, možda ćeš to morati uraditi. Potraži našu e-poruku u svojoj ulaznoj pošti ili filtru za neželjenu poštu.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> i ti
+newsletter-form-get-firefox-tips = Primaj { -brand-name-firefox } savjete, trikove, vijesti i više
+newsletter-form-keep-up-with = Prati<br> sve { -brand-name-firefox } vijesti.
+newsletter-form-get-mozilla-updates = Primaj Mozilline novosti
 newsletter-form-available-languages = Dostupni jezici
 newsletter-form-select-country = Odaberi državu
 newsletter-form-sign-me-up = Pretplati me

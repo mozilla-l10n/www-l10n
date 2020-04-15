@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Faigh nuacht faoi { -brand-name-firefox }
 newsletter-form-im-okay-with-mozilla = Tá cead ag { -brand-name-mozilla } mo chuid sonraí pearsanta a úsáid mar a mhínítear <a href="{ $url }">sa bPolasaí Príobháideachta seo</a>
 newsletter-form-we-will-only-send = Ní sheolfaimid duit ach eolas a bhaineann le { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Murar dheimhnigh tú do shíntiús le nuachtlitir { -brand-name-mozilla } roimhe seo, seans gur gá duit é sin a dhéanamh anois. Coinnigh súil ar do bhosca isteach nó d'fhillteán turscair le haghaidh teachtaireacht ríomhphoist uainn.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> agus Tusa
+newsletter-form-get-firefox-tips = Leideanna { -brand-name-firefox }, cleasa, nuacht, agus tuilleadh
+newsletter-form-keep-up-with = Bí ar an eolas<br> faoi { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Faigh nuacht ó Mhozilla
 newsletter-form-available-languages = Teangacha
 newsletter-form-select-country = Roghnaigh tír
 newsletter-form-sign-me-up = Ba mhaith liom clárú

@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Tilaa { -brand-name-firefox }-uutiset
 newsletter-form-im-okay-with-mozilla = Minulle sopii, että { -brand-name-mozilla } käsittelee tietojani <a href="{ $url }">tietosuojaselosteen</a> mukaisesti
 newsletter-form-we-will-only-send = Lähetämme vain { -brand-name-mozilla }an liittyviä tietoja.
 newsletter-form-if-you-havent-previously = Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut { -brand-name-mozilla }an liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + sinä
+newsletter-form-get-firefox-tips = Saa { -brand-name-firefox }-vinkkejä, -niksejä, -uutisia ynnä muuta
+newsletter-form-keep-up-with = Pysy ajan tasalla<br> { -brand-name-firefox }-jutuista.
+newsletter-form-get-mozilla-updates = Tilaa { -brand-name-mozilla }-tiedotteet
 newsletter-form-available-languages = Valitse kieli
 newsletter-form-select-country = Valitse maa
 newsletter-form-sign-me-up = Tilaa

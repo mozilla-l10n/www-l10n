@@ -7,6 +7,7 @@ newsletter-form-format = Формат
 newsletter-form-text = Текст
 newsletter-form-get-firefox-news = Претплатете се на вести за { -brand-name-firefox }
 newsletter-form-we-will-only-send = Ќе Ви испраќаме само информации што се поврзани со { -brand-name-mozilla }.
+newsletter-form-get-mozilla-updates = Добивај известувања за { -brand-name-mozilla }
 newsletter-form-available-languages = Достапни јазици
 newsletter-form-select-country = Одберете земја
 newsletter-form-sign-me-up = Претплати ме

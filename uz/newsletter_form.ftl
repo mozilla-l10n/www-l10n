@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = { -brand-name-firefox } yangiliklaridan xabar
 newsletter-form-im-okay-with-mozilla = <a href="{ $url }">Maxfiylik siyosati</a>da tushuntirilganidek ma’lumotlarimdan foydalanishlariga roziman
 newsletter-form-we-will-only-send = Biz sizga faqatgina "{ -brand-name-mozilla }"ga aloqador ma’lumotlarni jo‘natib turamiz.
 newsletter-form-if-you-havent-previously = Ilgari { -brand-name-mozilla }ga aloqador obunani tasdiqlamagan bo‘lsangiz, shunda davom etishingiz mumkin. E-pochtangizdagi "Kiruvchi xatlar" yoki "Spam" jildini tekshirib ko‘ring.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Siz
+newsletter-form-get-firefox-tips = { -brand-name-firefox } bo‘yicha maslahatlar, ko‘rsatmalar va yordam olish
+newsletter-form-keep-up-with = { -brand-name-firefox }ning barcha <br> narsalarini saqlab qo‘yishingiz mumkin
+newsletter-form-get-mozilla-updates = { -brand-name-mozilla } yangiliklarini olib turing
 newsletter-form-available-languages = Mavjud tillar
 newsletter-form-select-country = Davlatni tanlang
 newsletter-form-sign-me-up = Obuna bo‘lish

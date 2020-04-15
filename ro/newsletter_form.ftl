@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Abonează-te la știri despre { -brand-name-f
 newsletter-form-im-okay-with-mozilla = Sunt de acord ca { -brand-name-mozilla } să îmi gestioneze informațiile, conform explicațiilor din <a href="{ $url }">această Declarație de confidențialitate</a>
 newsletter-form-we-will-only-send = Îți vom trimite numai informații legate de { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Dacă nu ai confirmat anterior o abonare la un buletin informativ despre { -brand-name-mozilla }, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru a găsi e-mailul de la noi.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + tu
+newsletter-form-get-firefox-tips = Obține ponturi, trucuri, știri și multe altele
+newsletter-form-keep-up-with = Fii la curent<br> cu noutățile din { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Obține actualizări de la { -brand-name-mozilla }
 newsletter-form-available-languages = Limbi disponibile
 newsletter-form-select-country = Selectează țara
 newsletter-form-sign-me-up = Abonează-mă

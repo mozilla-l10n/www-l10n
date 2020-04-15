@@ -12,6 +12,10 @@ newsletter-form-get-firefox-news = Få nyheiter om { -brand-name-firefox }
 newsletter-form-im-okay-with-mozilla = Eg godkjenner at { -brand-name-mozilla } handterer informasjon om meg som forklart i denne <a href="{ $url }">personvernernpraksisen</a>
 newsletter-form-we-will-only-send = Vi vil berre sende deg { -brand-name-mozilla }-relatert informasjon.
 newsletter-form-if-you-havent-previously = Om du ikkje tidlegare har stadfesta eit abonnement på eit { -brand-name-mozilla }-relatert nyheitsbrev, må du kanskje gjere det no. Sjå etter ein e-post frå oss i innboksen din eller i søppelpostfilteret ditt.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + deg
+newsletter-form-get-firefox-tips = Få { -brand-name-firefox }-tips, triks, nyheiter og mykje meir
+newsletter-form-keep-up-with = Alt om<br> { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Få { -brand-name-mozilla }-oppdateringar
 newsletter-form-available-languages = Tilgjengelege språk
 newsletter-form-select-country = Vel land
 newsletter-form-sign-me-up = Abonner
