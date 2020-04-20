@@ -11,3 +11,11 @@ firefox-all-need-help = ಸಹಾಯ ಬೇಕೆ?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ಸಹಾಯ ಪಡೆ
 firefox-all-browser = ಬ್ರೌಸರ್:
+firefox-all-product-firefox = { -brand-name-firefox }
+firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
+firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
+firefox-all-product-firefox-nightly = { -brand-name-firefox-nightly }
+firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release }
+firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
+firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
+firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }

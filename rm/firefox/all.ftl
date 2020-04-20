@@ -17,3 +17,11 @@ firefox-all-language = Lingua:
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Telechargia il navigatur Firefox per rumantsch (u passa 90 autras linguas)
 firefox-all-firefox-privacy-notice = Las directivas da { -brand-name-firefox } per la protecziun da datas
+firefox-all-product-firefox = { -brand-name-firefox }
+firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
+firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
+firefox-all-product-firefox-nightly = { -brand-name-firefox-nightly }
+firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release }
+firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
+firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
+firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
