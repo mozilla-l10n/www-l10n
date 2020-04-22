@@ -46,7 +46,6 @@ navigation-products = Jami ma kati
 navigation-mozilla = { -brand-name-mozilla }
 navigation-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-mozilla-corporation = { -brand-name-mozilla-corporation }
-navigation-mozilla = { -brand-name-mozilla }
 navigation-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-firefox-beta = { -brand-name-firefox-beta }
 navigation-firefox-nightly = { -brand-name-firefox-nightly }
