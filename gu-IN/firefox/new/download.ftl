@@ -28,4 +28,3 @@ firefox-new-just-download-the-browser = માત્ર બ્રાઉઝર �
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } બ્રાઉઝર કરતાં વધુ છે.
 firefox-new-its-privacy-and-peace-of = તે મોબાઇલ પર પણ, <strong>ગોપનીયતા અને માનસિક શાંતિ</strong> છે.
-firefox-new-download-in-another-language = બીજી ભાષામાં ડાઉનલોડ કરો

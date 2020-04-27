@@ -28,4 +28,3 @@ firefox-new-just-download-the-browser = শুধু ব্রাউজারট
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ব্রাউজারের চেয়ে বেশি।
-firefox-new-download-in-another-language = অন্য ভাষাতে ডাউনলোড করুন

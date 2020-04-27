@@ -10,7 +10,7 @@ firefox-new-download-mozilla-firefox = { -brand-name-mozilla } { -brand-name-fir
 firefox-new-download-the-fastest-firefox = اب تک کا سب سے تیز { -brand-name-firefox } ڈاؤن لوڈ کریں
 firefox-new-automatic-privacy-is-here = خودکار رازداری یہاں ہے۔  2000 سے زائد ٹریکروں کو روکنے کے لئے { -brand-name-firefox }  ڈاؤن لوڈ کریں۔
 firefox-new-get-the-latest-firefox = جدید ترین { -brand-name-firefox } براؤزر حاصل کریں۔
-firefox-new-firefox-lockwise-makes-secure = <strong> { -brand-name-firefox } Lockwise</ strong> آپ کے پاس ورڈز کو { -brand-name-firefox } میں محفوظ کرتا ہے جو آپ کے تمام آلات پر دستیاب ہے۔
+firefox-new-firefox-lockwise-makes-secure = <strong> { -brand-name-firefox-lockwise }</ strong> آپ کے پاس ورڈز کو { -brand-name-firefox } میں محفوظ کرتا ہے جو آپ کے تمام آلات پر دستیاب ہے۔
 firefox-new-firefox-monitor-alerts = <strong> { -brand-name-firefox-monitor }</ strong> آپ کو متنبہ کرتا ہے اگر ہمیں معلوم ہے کہ آپ کی معلومات کسی اور کمپنی کے ڈیٹا کی خلاف ورزی کا حصہ ہے۔
 firefox-new-join-firefox = { -brand-name-firefox } میں شامل ہوں
 # span's below are for visual formatting and line break.
@@ -44,4 +44,3 @@ firefox-new-your-firefox-new-should-begin = آپ کا ڈاؤن لوڈ خودبخ
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
 firefox-new-its-privacy-and-peace-of = یہ بھی ، موبائل پر <strong> رازداری اور ذہنی سکون </ strong> ہے۔
 firefox-new-its-a-community-that-believes = یہ <strong> ایک کمیونٹی </ strong> ہے جو یقین رکھتی ہے کہ ٹیکنالوجی بہتر کرسکتی ہے۔
-firefox-new-download-in-another-language = ایک اور زبان میں ڈائونلوڈ کریں

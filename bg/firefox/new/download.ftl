@@ -16,4 +16,3 @@ firefox-new-download-in-another-language = Изтеглете на друг ез
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Използвате несигурна, остаряла операционна система <a href="{ $url }">, която вече не се поддържа от { -brand-name-firefox }</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } е повече от мрежов четец.
-firefox-new-download-in-another-language = Изтеглете на друг език

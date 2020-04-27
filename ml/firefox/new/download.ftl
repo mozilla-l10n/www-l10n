@@ -14,4 +14,3 @@ firefox-new-need-help = സഹായം ആവശ്യമുണ്ടോ?
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
-firefox-new-download-in-another-language = മറ്റൊരു ഭാഷയിൽ ഡൌൺലോഡ് ചെയ്യുക

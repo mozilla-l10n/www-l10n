@@ -10,7 +10,7 @@ firefox-new-download-mozilla-firefox = Gam { -brand-name-mozilla } { -brand-name
 firefox-new-download-the-fastest-firefox = Gam { -brand-name-firefox } ma pud dong dwir loyo
 firefox-new-get-the-latest-firefox = Gam layeny me { -brand-name-firefox } ma nyen loyo.
 firefox-new-join-firefox = Dony iyie { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> weko mung me donyo ma igwoko i { -brand-name-firefox } bedo tye i nyonyo mamegi weng.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> weko mung me donyo ma igwoko i { -brand-name-firefox } bedo tye i nyonyo mamegi weng.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Gam { -brand-name-firefox } <br>pi { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Gam { -brand-name-firefox } <br>pi { -brand-name-mac }
@@ -36,4 +36,3 @@ firefox-new-just-download-the-browser = Gam mere Layeny ne
 firefox-new-your-firefox-new-should-begin = Gam mamegi myero ocake pire kene. Pe otiyo? <a id="{ $id }" href="{ $fallback_url }">Tem gamo doki</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } pe obedo layeny keken.
 firefox-new-its-everything-you-need-to = Obedo gin ducu ma myero ingee ikom <strong>gwokke iwiyamo</strong>.
-firefox-new-download-in-another-language = Gam i leb mukene

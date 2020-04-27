@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Tải trang nhanh hơn, sử dụn
 firefox-new-automatic-privacy-is-here = Quyền riêng tư được bật tự động ở đây. Tải { -brand-name-firefox } để chặn hơn 2000 trình theo dõi.
 firefox-new-get-the-latest-firefox = Tải trình duyệt { -brand-name-firefox } mới nhất.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } cho bạn thấy có bao nhiêu trình theo dõi thu thập dữ liệu bị chặn với <strong>Trình bảo vệ theo dõi nâng cao</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> tạo những mật khẩu bạn lưu trên { -brand-name-firefox } một cách an toàn và sẵn sàng trên tất cả các thiết bị của bạn.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> tạo những mật khẩu bạn lưu trên { -brand-name-firefox } một cách an toàn và sẵn sàng trên tất cả các thiết bị của bạn.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> cảnh báo cho bạn nếu chúng tôi biết thông tin của bạn là một phần của việc vi phạm dữ liệu của một công ty khác.
 firefox-new-join-firefox = Tham gia { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> cung cấp mật khẩu bạn lưu trong { -brand-name-firefox } trên tất cả các thiết bị của bạn.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> cung cấp mật khẩu bạn lưu trong { -brand-name-firefox } trên tất cả các thiết bị của bạn.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Tải xuống { -brand-name-firefox } <br>cho { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Tải xuống { -brand-name-firefox } <br>cho { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Nó cũng là <strong>quyền riêng tư 
 firefox-new-its-a-family-of-products = Đó là một <strong>nhóm các sản phẩm</strong> đối xử với dữ liệu cá nhân của bạn một cách tôn trọng.
 firefox-new-its-everything-you-need-to = Đó là tất cả mọi thứ bạn cần biết về việc <strong>giữ an toàn trực tuyến</strong>.
 firefox-new-its-a-community-that-believes = Đó là <strong>một cộng đồng</strong> tin rằng công nghệ có thể làm tốt hơn.
-firefox-new-download-in-another-language = Tải xuống với ngôn ngữ khác

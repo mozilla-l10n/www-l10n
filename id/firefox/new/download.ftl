@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Memuat laman lebih cepat, mengguna
 firefox-new-automatic-privacy-is-here = Privasi otomatis ada di sini. Unduh { -brand-name-firefox } untuk memblokir lebih dari 2000 pelacak.
 firefox-new-get-the-latest-firefox = Dapatkan peramban { -brand-name-firefox } terbaru.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } memberi tahu Anda berapa banyak pelacak pengumpul data yang diblokir dengan <strong>Perlindungan Pelacakan yang Ditingkatkan</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> menjadikan kata sandi yang Anda simpan di { -brand-name-firefox } aman dan tersedia di semua peranti Anda.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> menjadikan kata sandi yang Anda simpan di { -brand-name-firefox } aman dan tersedia di semua peranti Anda.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> memberi tahu Anda saat kami tahu bahwa informasi Anda termasuk bagian dari pembobolan data perusahaan lain.
 firefox-new-join-firefox = Gabung { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> membuat kata sandi yang Anda simpan di { -brand-name-firefox } tersedia di semua perangkat Anda.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> membuat kata sandi yang Anda simpan di { -brand-name-firefox } tersedia di semua perangkat Anda.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Unduh { -brand-name-firefox } <br>untuk { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Unduh { -brand-name-firefox } <br>untuk { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Kami pun utamakan <strong>privasi dan ket
 firefox-new-its-a-family-of-products = Inilah <strong>jajaran produk</strong> yang menangani data pribadi Anda dengan hormat.
 firefox-new-its-everything-you-need-to = Inilah semua yang perlu Anda ketahui agar <strong>tetap aman saat daring</strong>.
 firefox-new-its-a-community-that-believes = Inilah <strong>sebuah komunitas</strong> yang percaya teknologi dapat berbuat lebih baik.
-firefox-new-download-in-another-language = Unduh dalam bahasa lain

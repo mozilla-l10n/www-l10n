@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Strony so spěšnišo začitaja, m
 firefox-new-automatic-privacy-is-here = Tu je awtomatiska priwatnosć. Sćehńće { -brand-name-firefox }, zo byšće přez 2000 přesćěhowakow blokował.
 firefox-new-get-the-latest-firefox = Wobstarajće sej najnowši wobhladowak { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } pokazuje, kelko daty hromadźacych přesćěhowakow so z <strong>polěpšenym slědowanskim škitom</strong> blokuje.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> hesła, kotrež w { -brand-name-firefox } składujeće, wěste čini a staja je na wšěch wašich gratach k dispoziciji.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> hesła, kotrež w { -brand-name-firefox } składujeće, wěste čini a staja je na wšěch wašich gratach k dispoziciji.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> was warnuje, jeli wěmy, zo waše informacije su dźěl datoweje dźěry druheho předewzaća.
 firefox-new-join-firefox = Přidružće so k { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> hesła, kotrež w { -brand-name-firefox } składujeće, na wšěch wašich gratach k dispoziciji staja.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> hesła, kotrež w { -brand-name-firefox } składujeće, na wšěch wašich gratach k dispoziciji staja.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-firefox } <br>za { -brand-name-windows } sćahnyć
 firefox-new-download-firefox-for-macos = { -brand-name-firefox } <br>za { -brand-name-mac } sćahnyć
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = To je tež <strong>priwatnosć a dušiny 
 firefox-new-its-a-family-of-products = Je <strong>produktowa swójba</strong>, kotraž z wašimi wosobinskimi datami z respektom wobchadźa.
 firefox-new-its-everything-you-need-to = To je wšitko, štož dyrbiće wědźeć, zo byšće <strong>online wěsty wostał</strong>.
 firefox-new-its-a-community-that-believes = Je <strong>zhromadźenstwo</strong>, kotrež wěri, zo technologija móže dobre činić.
-firefox-new-download-in-another-language = W druhej rěči sćahnyć

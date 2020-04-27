@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Ngarkim më i shpejtë faqesh, pë
 firefox-new-automatic-privacy-is-here = Privatësia automatike mbërriti. Shkarkoni { -brand-name-firefox }-in, që të bllokoni mbi 2000 gjurmues.
 firefox-new-get-the-latest-firefox = Merrni shfletuesin më të ri { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox }-i ju shfaq sa gjurmues grumbullimi të dhënash janë bllokuar përmes <strong>Mbrojtjes së Thelluar Kundër Gjurmimit</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> i bën fjalëkalimet që ruani në { -brand-name-firefox } të siguruar dhe të përdorshëm që nga krejt pajisjet tuaja.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> i bën fjalëkalimet që ruani në { -brand-name-firefox } të siguruar dhe të përdorshëm që nga krejt pajisjet tuaja.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> ju sinjalizon, nëse dimë se të dhënat tuaja janë pjesë e një tjetër cenimi të dhënash të shoqërisë.
 firefox-new-join-firefox = Bëhuni pjesë e { -brand-name-firefox }-it
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> i bën fjalëkalimet që ruani në { -brand-name-firefox } të përdorshëm që nga krejt pajisjet tuaja.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> i bën fjalëkalimet që ruani në { -brand-name-firefox } të përdorshëm që nga krejt pajisjet tuaja.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Shkarkojeni { -brand-name-firefox }-in <br>për { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Shkarkojeni { -brand-name-firefox }-in <br>për { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Është gjithashtu <strong>privatësi dhe
 firefox-new-its-a-family-of-products = Është një <strong>familje produktesh</strong> që i trajton me respekt të dhënat tuaja personale.
 firefox-new-its-everything-you-need-to = Është gjithçka ju duhet të dini rreth <strong>të qenët i parrezikuar në internet</strong>.
 firefox-new-its-a-community-that-believes = Është <strong>një bashkësi</strong> që beson se teknologjia mund të bëjë gjëra më të mira.
-firefox-new-download-in-another-language = Shkarkojeni në një gjuhë tjetër

@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Cargamento paginas plus rapide, mi
 firefox-new-automatic-privacy-is-here = Protection automatic de tu vita private. Discarga { -brand-name-firefox } pro blocar plus de 2000 traciatores.
 firefox-new-get-the-latest-firefox = Installa le ultime Navigator { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } te monstra quante collectores de datos personal es blocate con le <strong>protection antitraciamento reinfortiate</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> te permitte usar le contrasignos memorisate in { -brand-name-firefox } sur tote tu apparatos in tote securitate.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> te permitte usar le contrasignos memorisate in { -brand-name-firefox } sur tote tu apparatos in tote securitate.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> te alerta si nos apprende que tu informationes personal ha essite compromittite in un violation de datos de un altere interprisa.
 firefox-new-join-firefox = Junge te a { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> rende le contrasignos que tu salva in { -brand-name-firefox }, disponibile sur tote tu apparatos.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> rende le contrasignos que tu salva in { -brand-name-firefox }, disponibile sur tote tu apparatos.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Discarga { -brand-name-firefox } <br>pro { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Discarga { -brand-name-firefox } <br>pro { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Es <strong>vita private e tranquillitate<
 firefox-new-its-a-family-of-products = Es un <strong>familia de productos</strong> que tracta tu datos personal con respecto.
 firefox-new-its-everything-you-need-to = Es tote lo que tu debe saper sur <strong>mantener te secur in linea</strong>.
 firefox-new-its-a-community-that-believes = Es <strong>un communitate</strong> que crede que le technologia pote facer melio.
-firefox-new-download-in-another-language = Discargar lo in un altere lingua

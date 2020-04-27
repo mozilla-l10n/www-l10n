@@ -11,7 +11,7 @@ firefox-new-download-the-fastest-firefox = Deskargatu inoiz izan den { -brand-na
 firefox-new-faster-page-loading-less-memory = Orrien karga bizkorragoa, memoria-erabilera txikiagoa eta eginbidez betea, hemen da { -brand-name-firefox } berria.
 firefox-new-get-the-latest-firefox = Eskuratu { -brand-name-firefox } nabigatzailearen azkena.
 firefox-new-join-firefox = Batu { -brand-name-firefox }era
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong>-ek nabigatzailean gordetzen dituzun pasahitzak gailu guztietan eskuragarri egiten ditu.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong>-ek nabigatzailean gordetzen dituzun pasahitzak gailu guztietan eskuragarri egiten ditu.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Deskargatu { -brand-name-firefox } <br>{ -brand-name-windows }erako
 firefox-new-download-firefox-for-macos = Deskargatu { -brand-name-firefox } <br>{ -brand-name-mac }erako
@@ -47,4 +47,3 @@ firefox-new-its-privacy-and-peace-of = <strong>Pribatutasuna eta lasaitasuna</st
 firefox-new-its-a-family-of-products = Zure datu pertsonalak errespetuz erabiltzen dituen <strong>produktu-familia</strong> da.
 firefox-new-its-everything-you-need-to = <strong>Online babesturik egoteko</strong> jakin behar duzun guztia da.
 firefox-new-its-a-community-that-believes = Teknologia hobetu daitekeela sinisten duen <strong>komunitatea</strong> da.
-firefox-new-download-in-another-language = Deskargatu beste hizkuntza batean

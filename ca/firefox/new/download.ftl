@@ -44,4 +44,3 @@ firefox-new-its-privacy-and-peace-of = També és <strong>privadesa i tranquil·
 firefox-new-its-a-family-of-products = És una <strong>família de productes</strong> que tracta amb respecte les vostres dades personals.
 firefox-new-its-everything-you-need-to = És tot allò que us cal saber per <strong>garantir la vostra seguretat a la xarxa</strong>.
 firefox-new-its-a-community-that-believes = És una <strong>comunitat</strong> convençuda que la tecnologia pot ser millor.
-firefox-new-download-in-another-language = Baixeu-lo en una altra llengua

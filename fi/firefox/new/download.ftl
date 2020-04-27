@@ -11,10 +11,10 @@ firefox-new-faster-page-loading-less-memory = Nopeampi sivujen latausaika, piene
 firefox-new-automatic-privacy-is-here = Automaattinen yksityisyys on täällä. Estä yli 2000 jäljittäjää lataamalla { -brand-name-firefox }.
 firefox-new-get-the-latest-firefox = Hanki uusin { -brand-name-firefox }-selain.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } näyttää, kuinka monta tietoja keräävää seurainta on estetty <strong>Tehostetulla seurannan suojauksella</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> tekee { -brand-name-firefox }issa tallentamasi salasanat turvallisiksi ja tuo ne käyttöösi kaikilla laitteillasi.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> tekee { -brand-name-firefox }issa tallentamasi salasanat turvallisiksi ja tuo ne käyttöösi kaikilla laitteillasi.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> varoittaa sinua, jos huomaamme että tietosi ovat osa toisen yrityksen tietosuojavuotoa.
 firefox-new-join-firefox = Liity { -brand-name-firefox }iin
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> tuo { -brand-name-firefox }issa tallentamasi salasanat käyttöösi kaikilla laitteillasi.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> tuo { -brand-name-firefox }issa tallentamasi salasanat käyttöösi kaikilla laitteillasi.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Lataa { -brand-name-firefox } <br>{ -brand-name-windows }ille
 firefox-new-download-firefox-for-macos = Lataa { -brand-name-firefox } <br>{ -brand-name-mac }:lle
@@ -42,4 +42,3 @@ firefox-new-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Latauksen tulisi pian käynnistyä automaattisesti. Ongelmia? <a id="{ $id }" href="{ $fallback_url }">Yritä ladata uudelleen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
-firefox-new-download-in-another-language = Lataa toisella kielellä

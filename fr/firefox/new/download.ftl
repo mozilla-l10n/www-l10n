@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Un chargement des pages plus rapid
 firefox-new-automatic-privacy-is-here = Le respect de votre vie privée, par défaut. Téléchargez { -brand-name-firefox } pour bloquer plus de 2 000 traqueurs.
 firefox-new-get-the-latest-firefox = Téléchargez la dernière version de { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } vous montre combien de traqueurs de collecte de données sont bloqués avec la <strong>protection renforcée contre le pistage</strong>.
-firefox-new-firefox-lockwise-makes-secure = Avec <strong>{ -brand-name-firefox } Lockwise</strong>, les mots de passe que vous enregistrez dans { -brand-name-firefox } sont disponibles et en sécurité sur tous vos appareils.
+firefox-new-firefox-lockwise-makes-secure = Avec <strong>{ -brand-name-firefox-lockwise }</strong>, les mots de passe que vous enregistrez dans { -brand-name-firefox } sont disponibles et en sécurité sur tous vos appareils.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> vous avertit si nous savons que vos informations sont compromises dans une fuite de données d’une autre entreprise.
 firefox-new-join-firefox = Rejoignez { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = Avec <strong>{ -brand-name-firefox } Lockwise</strong>, les mots de passe que vous enregistrez dans { -brand-name-firefox } le sont sur tous vos appareils.
+firefox-new-firefox-lockwise-makes = Avec <strong>{ -brand-name-firefox-lockwise }</strong>, les mots de passe que vous enregistrez dans { -brand-name-firefox } le sont sur tous vos appareils.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Télécharger { -brand-name-firefox } <br>pour { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Télécharger { -brand-name-firefox } <br>pour { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = C’est la <strong>confidentialité et la
 firefox-new-its-a-family-of-products = C’est <strong>une famille de produits</strong> qui respectent vos données personnelles.
 firefox-new-its-everything-you-need-to = C’est tout ce qu’il faut savoir pour <strong>garantir votre sécurité en ligne</strong>.
 firefox-new-its-a-community-that-believes = C’est <strong>une communauté</strong> convaincue que la technologie peut faire mieux.
-firefox-new-download-in-another-language = Télécharger dans une autre langue

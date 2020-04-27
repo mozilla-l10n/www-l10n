@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Raskere sidelasting, mindre minneb
 firefox-new-automatic-privacy-is-here = Automatisk personvern er her. Last ned { -brand-name-firefox } for å blokkere over 2000 sporere.
 firefox-new-get-the-latest-firefox = Få den nyeste { -brand-name-firefox }-nettleseren.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } viser deg hvor mange datainnsamlingssporere som er blokkert med <strong>utvidet sporingsbeskyttelse</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> gjør passordene du lagrer i { -brand-name-firefox } sikre og tilgjengelige på alle enhetene dine.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> gjør passordene du lagrer i { -brand-name-firefox } sikre og tilgjengelige på alle enhetene dine.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> varsler deg hvis vi vet at informasjonen din er en del av et annet selskaps datalekkasje.
 firefox-new-join-firefox = Bli en del av { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> gjør passordene du lagrer i { -brand-name-firefox } tilgjengelige på alle enhetene dine.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> gjør passordene du lagrer i { -brand-name-firefox } tilgjengelige på alle enhetene dine.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Last ned { -brand-name-firefox } <br>for { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Last ned { -brand-name-firefox } <br>for { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Det er <strong>personvern og sikkerhet</s
 firefox-new-its-a-family-of-products = Det er en <strong>familie av produkter</strong> som behandler personopplysningene dine med respekt.
 firefox-new-its-everything-you-need-to = Det er alt du trenger å vite om <strong>å være trygg på nettet</strong>.
 firefox-new-its-a-community-that-believes = Det er <strong>et fellesskap</strong> som tror at teknologi kan gjøre det bedre.
-firefox-new-download-in-another-language = Last ned på et annet språk

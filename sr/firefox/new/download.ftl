@@ -11,7 +11,7 @@ firefox-new-download-the-fastest-firefox = Преузмите најбржи { -
 firefox-new-faster-page-loading-less-memory = Нови { -brand-name-firefox } је овде уз брже учитавање страница, мању потрошњу меморије и натрпан многим корисним функцијама.
 firefox-new-get-the-latest-firefox = Преузмите најновију верзију { -brand-name-firefox } прегледача.
 firefox-new-join-firefox = Придружите се { -brand-name-firefox }-у
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> омогућава да лозинке које сачувате у { -brand-name-firefox }-у буду доступне на свим вашим уређајима.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> омогућава да лозинке које сачувате у { -brand-name-firefox }-у буду доступне на свим вашим уређајима.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Преузмите { -brand-name-firefox } <br>за { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Преузмите { -brand-name-firefox } <br>за { -brand-name-mac }
@@ -47,4 +47,3 @@ firefox-new-its-privacy-and-peace-of = То је <strong>приватност и
 firefox-new-its-a-family-of-products = То је <strong>породица производа</strong> која поштује ваше личне податке.
 firefox-new-its-everything-you-need-to = То је све што треба да знате да бисте <strong>остали безбедни на мрежи</strong>.
 firefox-new-its-a-community-that-believes = То је <strong>заједница</strong> која верује да технологија може боље.
-firefox-new-download-in-another-language = Преузмите на другом језику

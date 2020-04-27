@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Carregamento de páginas mais ráp
 firefox-new-automatic-privacy-is-here = Privacidade automática é aqui. Baixe o { -brand-name-firefox } para bloquear mais de 2000 rastreadores.
 firefox-new-get-the-latest-firefox = Instale o mais recente navegador { -brand-name-firefox }
 firefox-new-firefox-shows-you-how-many = O { -brand-name-firefox } mostra quantos rastreadores de coleta de dados foram bloqueados pela <strong>proteção aprimorada contra rastreamento</strong>.
-firefox-new-firefox-lockwise-makes-secure = O <strong>{ -brand-name-firefox } Lockwise</strong> protege e disponibiliza em todos os seus dispositivos as senhas que você salva no { -brand-name-firefox }.
+firefox-new-firefox-lockwise-makes-secure = O <strong>{ -brand-name-firefox-lockwise }</strong> protege e disponibiliza em todos os seus dispositivos as senhas que você salva no { -brand-name-firefox }.
 firefox-new-firefox-monitor-alerts = O <strong>{ -brand-name-firefox-monitor }</strong> alerta você se soubermos que suas informações estão em um vazamento de dados de alguma empresa.
 firefox-new-join-firefox = Junte-se ao { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = O <strong>{ -brand-name-firefox } Lockwise</strong> disponibiliza em todos os seus dispositivos as senhas que você salva no { -brand-name-firefox }.
+firefox-new-firefox-lockwise-makes = O <strong>{ -brand-name-firefox-lockwise }</strong> disponibiliza em todos os seus dispositivos as senhas que você salva no { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Baixe o { -brand-name-firefox } <br>para { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Baixe o { -brand-name-firefox } <br>para { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = É <strong>privacidade e paz de espírito
 firefox-new-its-a-family-of-products = É uma <strong>família de produtos</strong> que trata seus dados pessoais com respeito.
 firefox-new-its-everything-you-need-to = É tudo o que você precisa saber sobre como <strong>ficar seguro online</strong>.
 firefox-new-its-a-community-that-believes = É uma <strong>comunidade</strong> que acredita que tecnologia pode fazer melhor.
-firefox-new-download-in-another-language = Baixe em outro idioma

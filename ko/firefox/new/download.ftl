@@ -29,4 +29,3 @@ firefox-new-advanced-install-options-heading = 고급 설치 옵션 및 다른 �
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = 자동으로 다운로드가 시작됩니다. 잘 안되나요? <a id="{ $id }" href="{ $fallback_url }">다시 시도해 보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 이상입니다.
-firefox-new-download-in-another-language = 다른 언어로 다운로드

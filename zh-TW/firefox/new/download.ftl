@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = 全新 { -brand-name-firefox } 來
 firefox-new-automatic-privacy-is-here = 自動隱私保護來了。下載 { -brand-name-firefox } 即可封鎖超過 2000 組追蹤器。
 firefox-new-get-the-latest-firefox = 下載最新的 { -brand-name-firefox } 瀏覽器
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } 會告訴您<strong>加強型追蹤保護</strong>功能封鎖了多少會收集資料的追蹤器。
-firefox-new-firefox-lockwise-makes-secure = 透過 <strong>{ -brand-name-firefox } Lockwise</strong>，於您的各種裝置中安全地使用儲存在 { -brand-name-firefox } 的密碼。
+firefox-new-firefox-lockwise-makes-secure = 透過 <strong>{ -brand-name-firefox-lockwise }</strong>，於您的各種裝置中安全地使用儲存在 { -brand-name-firefox } 的密碼。
 firefox-new-firefox-monitor-alerts = 若 <strong>{ -brand-name-firefox-monitor }</strong> 發現您的個人資訊出現在其他企業的資料外洩事件時，我們會通知您。
 firefox-new-join-firefox = 加入 { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = 透過 <strong>{ -brand-name-firefox } Lockwise</strong>，於您的各種裝置中使用儲存在 { -brand-name-firefox } 的密碼。
+firefox-new-firefox-lockwise-makes = 透過 <strong>{ -brand-name-firefox-lockwise }</strong>，於您的各種裝置中使用儲存在 { -brand-name-firefox } 的密碼。
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = 下載 { -brand-name-firefox } <br>for { -brand-name-windows }
 firefox-new-download-firefox-for-macos = 下載 { -brand-name-firefox } <br>for { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = 在行動裝置上也<strong>保護您的
 firefox-new-its-a-family-of-products = 有<strong>一系列</strong>尊重、保護您個人資料的產品。
 firefox-new-its-everything-you-need-to = <strong>保護線上安全</strong>看這裡就對了。
 firefox-new-its-a-community-that-believes = <strong>整個技術社群相信</strong>，可以用技術作好事。
-firefox-new-download-in-another-language = 下載其他語言版本

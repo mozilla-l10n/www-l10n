@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = გვერდების მე
 firefox-new-automatic-privacy-is-here = პირადულობის თავისთავადი დაცვით. ჩამოტვირთეთ { -brand-name-firefox } და შეზღუდეთ 2000-ზე მეტი მეთვალყურე.
 firefox-new-get-the-latest-firefox = გადმოწერეთ უახლესი { -brand-name-firefox }-ბრაუზერი.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } გაჩვენებთ მონაცემების რამდენი აღმრიცხავი მეთვალყურე შეიზღუდა <strong>თვალთვალის გაძლიერებული დაცვით</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> პაროლებს, რომლებიც { -brand-name-firefox }-შია შენახული, იცავს და ხელმისაწვდომს ხდის ყველა თქვენს მოწყობილობაზე.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> პაროლებს, რომლებიც { -brand-name-firefox }-შია შენახული, იცავს და ხელმისაწვდომს ხდის ყველა თქვენს მოწყობილობაზე.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> შეგატყობინებთ, როცა თქვენი ინფორმაცია, რომელიმე კომპანიიდან მიტაცებულ მონაცემებში აღმოჩნდება.
 firefox-new-join-firefox = შემოუერთდით { -brand-name-firefox }-ს
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> პაროლებს, რომლებიც { -brand-name-firefox }-შია შენახული, ხელმისაწვდომს გახდის ყველა თქვენს მოწყობილობაზე.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> პაროლებს, რომლებიც { -brand-name-firefox }-შია შენახული, ხელმისაწვდომს გახდის ყველა თქვენს მოწყობილობაზე.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-windows }-ზე
 firefox-new-download-firefox-for-macos = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-mac }-ზე
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = იგი <strong>პირადულ�
 firefox-new-its-a-family-of-products = იგი <strong>პროდუქტების ნაკრებია,</strong> რომელიც ღირსეულად ეპყრობა თქვენს პირად მონაცემებს.
 firefox-new-its-everything-you-need-to = იგი ყველაფერია, რაც უნდა იცოდეთ, <strong>ინტერნეტით უსაფრთხო სარგებლობაზე</strong>.
 firefox-new-its-a-community-that-believes = იგი იმ <strong>ერთობის</strong> ნაწილია, რომელსაც მიაჩნია, რომ ტექნოლოგიები მეტად უკეთესი შეიძლება იყოს.
-firefox-new-download-in-another-language = ჩამოტვირთვა სხვა ენაზე

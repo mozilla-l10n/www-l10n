@@ -11,7 +11,7 @@ firefox-new-download-the-fastest-firefox = Λήψη του πιο γρήγορο
 firefox-new-faster-page-loading-less-memory = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } είναι εδώ.
 firefox-new-get-the-latest-firefox = Αποκτήστε το πιο πρόσφατο { -brand-name-firefox }.
 firefox-new-join-firefox = Γίνετε μέλος του { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = Το <strong>{ -brand-name-firefox } Lockwise</strong> κάνει διαθέσιμους σε όλες σας τις συσκευές τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox }.
+firefox-new-firefox-lockwise-makes = Το <strong>{ -brand-name-firefox-lockwise }</strong> κάνει διαθέσιμους σε όλες σας τις συσκευές τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Λήψη του { -brand-name-firefox } <br>για { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Λήψη του { -brand-name-firefox } <br>για { -brand-name-mac }
@@ -44,4 +44,3 @@ firefox-new-its-privacy-and-peace-of = Είναι η <strong>σιγουριά γ
 firefox-new-its-a-family-of-products = Είναι μια <strong>οικογένεια προϊόντων</strong> που χειρίζεται τα προσωπικά σας δεδομένα με σεβασμό.
 firefox-new-its-everything-you-need-to = Είναι όλα όσα πρέπει να γνωρίζετε για να <strong>προστατευτείτε στο διαδίκτυο</strong>.
 firefox-new-its-a-community-that-believes = Είναι μια <strong>κοινότητα</strong> που πιστεύει ότι η τεχνολογία μπορεί να κάνει καλύτερα πράγματα.
-firefox-new-download-in-another-language = Λήψη σε άλλη γλώσσα

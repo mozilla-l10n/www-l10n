@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Ri rusamajib'exik ri aninäq ruxaq
 firefox-new-automatic-privacy-is-here = Wawe' k'o ri yonil ichinanem. Taqasaj ri { -brand-name-firefox } richin ye'aq'ät 2000 ojqanela'.
 firefox-new-get-the-latest-firefox = Taqasaj ri ruk'isib'äl { -brand-name-firefox } okik'amaya'l.
 firefox-new-firefox-shows-you-how-many = Ri { -brand-name-firefox } nuk'üt chawäch jarupe' ojqanela' yekimöl taq tzij yeq'at rik'in <strong>Ruchajixik Utzilan Ojqanem</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> nub'än chi ri ewan taq tzij e'ayakon pa { -brand-name-firefox } e ütz chuqa' e tz'etel pa ronojel ri taq awokisab'al.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> nub'än chi ri ewan taq tzij e'ayakon pa { -brand-name-firefox } e ütz chuqa' e tz'etel pa ronojel ri taq awokisab'al.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> nuya' rutzijol chawe we ri awetamab'al k'o pa jun rutz'ilanem rutzij jun ajk'aymoloj.
 firefox-new-join-firefox = Tatunu' awi' rik'in { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> nuya' pan aq'a' ri ewan taq tzij e'ayakon pa { -brand-name-firefox } pa ronojel ri taq okisab'äl.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> nuya' pan aq'a' ri ewan taq tzij e'ayakon pa { -brand-name-firefox } pa ronojel ri taq okisab'äl.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Taqasaj { -brand-name-firefox } <br>richin { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Taqasaj { -brand-name-firefox } <br>richin { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Chuqa' nuya' <strong>ichinanem chuqa' uxl
 firefox-new-its-a-family-of-products = Jun <strong>ach'ala'il chi tikojil</strong> ri nikikamelaj ri awetamab'al.
 firefox-new-its-everything-you-need-to = Ja ronojel ri' k'o chi awetaman richin <strong>nachajij ri ajikomal pa k'amab'ey</strong>.
 firefox-new-its-a-community-that-believes = Jun <strong>tinamït</strong> ri nunimaj chi tikirel nutziläx ri na'ob'äl.
-firefox-new-download-in-another-language = Tiqasäx pa jun chik ch'ab'äl

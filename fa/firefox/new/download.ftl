@@ -36,4 +36,3 @@ firefox-new-youre-using-an-insecure-outdated = شما از یک سیستم عا�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = بارگیری شما باید به زودی شروع شود. شروع نشد؟ <a id="{ $id }" href="{ $fallback_url }">دوباره تلاش کنید</a>.
 firefox-new-firefox-is-more-than-a-browser = فایرفاکس بیشتر از یک مرورگر است.
-firefox-new-download-in-another-language = دریافت به زبان‌های دیگر

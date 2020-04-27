@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Snabbare sidladdning, mindre minne
 firefox-new-automatic-privacy-is-here = Automatisk integritet är här. Ladda ner { -brand-name-firefox } för att blockera över 2000 spårare.
 firefox-new-get-the-latest-firefox = Hämta den senaste { -brand-name-firefox }-webbläsaren.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } visar hur många datainsamlingsspårare som är blockerade med <strong>Förbättrat spårningsskydd</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> gör lösenorden du sparar i { -brand-name-firefox } säkra och tillgängliga på alla dina enheter.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> gör lösenorden du sparar i { -brand-name-firefox } säkra och tillgängliga på alla dina enheter.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> varnar dig om vi vet att din information är en del av ett annat företags dataintrång.
 firefox-new-join-firefox = Bli en del av { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> gör lösenorden du sparar i { -brand-name-firefox } tillgängliga på alla dina enheter.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> gör lösenorden du sparar i { -brand-name-firefox } tillgängliga på alla dina enheter.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Hämta { -brand-name-firefox } <br>för { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Hämta { -brand-name-firefox } <br>för { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Det är <strong>integritet och säkerhet<
 firefox-new-its-a-family-of-products = Det är en <strong>familj med produkter</strong> som behandlar dina personuppgifter med respekt.
 firefox-new-its-everything-you-need-to = Det är allt du behöver veta om <strong>att vara säker på nätet</strong>.
 firefox-new-its-a-community-that-believes = Det är <strong>en gemenskap</strong> som tror att teknik kan göra saker bättre.
-firefox-new-download-in-another-language = Hämta på ett annat språk

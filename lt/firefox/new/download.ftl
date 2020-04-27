@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Spartesnis tinklalapių įkėlimas
 firefox-new-automatic-privacy-is-here = Automatinis privatumas jau čia. Parsisiųskite „{ -brand-name-firefox }“ ir blokuokite daugiau kaip 2000 seklių.
 firefox-new-get-the-latest-firefox = Parsisiųskite naujausią „{ -brand-name-firefox }“ naršyklę.
 firefox-new-firefox-shows-you-how-many = „{ -brand-name-firefox }“ jums praneša, kiek duomenis renkančių stebėjimo elementų <strong>išplėstinė apsauga nuo stebėjimo</strong> užblokuoja.
-firefox-new-firefox-lockwise-makes-secure = <strong>„{ -brand-name-firefox } Lockwise“</strong> dėka „{ -brand-name-firefox }“ naršyklėje įrašytus slaptažodžius galite saugiai pasiekti bet kuriame savo įrenginyje.
+firefox-new-firefox-lockwise-makes-secure = <strong>„{ -brand-name-firefox-lockwise }“</strong> dėka „{ -brand-name-firefox }“ naršyklėje įrašytus slaptažodžius galite saugiai pasiekti bet kuriame savo įrenginyje.
 firefox-new-firefox-monitor-alerts = Naudodamiesi <strong>„{ -brand-name-firefox-monitor }“</strong>, būsite informuoti, jei sužinotume apie jūsų asmeninių duomenų nutekinimą iš kitų įmonių.
 firefox-new-join-firefox = Prisijunkite prie „{ -brand-name-firefox }“
-firefox-new-firefox-lockwise-makes = <strong>„{ -brand-name-firefox } Lockwise“</strong> pagalba „{ -brand-name-firefox }“ naršyklėje įsimintus slaptažodžius pasieksite visuose savo įrenginiuose.
+firefox-new-firefox-lockwise-makes = <strong>„{ -brand-name-firefox-lockwise }“</strong> pagalba „{ -brand-name-firefox }“ naršyklėje įsimintus slaptažodžius pasieksite visuose savo įrenginiuose.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Parsisiųskite „{ -brand-name-firefox }“ <br>„{ -brand-name-windows }“ kompiuteriams
 firefox-new-download-firefox-for-macos = Parsisiųskite „{ -brand-name-firefox }“ <br>„{ -brand-name-mac }“ kompiuteriams
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Tai – ir <strong>privatumas bei ramybė
 firefox-new-its-a-family-of-products = Tai – <strong>produktų šeima</strong>, gerbianti jūsų duomenų privatumą.
 firefox-new-its-everything-you-need-to = Tai – visos žinios, reikalingos norint <strong>internete išlikti saugiems</strong>.
 firefox-new-its-a-community-that-believes = Tai – <strong>bendruomenė</strong>, žinanti, jog technologijos gali būti geresnės.
-firefox-new-download-in-another-language = Parsisiųsti kita kalba

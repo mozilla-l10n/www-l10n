@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Flugger siden lade, minder ûnthâ
 firefox-new-automatic-privacy-is-here = Automatyske privacy is hjir. Download { -brand-name-firefox } om mear as 2000 trackers te blokkearjen.
 firefox-new-get-the-latest-firefox = Download de nijste { -brand-name-firefox }-browser.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } toant jo hoefolle trackers foar gegevenssammeling blokkearre binne mei <strong>Ferbettere beskerming tsjin folgjen</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> soarget derfoar dat de wachtwurden dy't jo yn { -brand-name-firefox } bewarje, feilich en beskikber binne op al jo apparaten.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> soarget derfoar dat de wachtwurden dy't jo yn { -brand-name-firefox } bewarje, feilich en beskikber binne op al jo apparaten.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> warskôget jo as wy ûntdekke dat jo gegevens foarkomme yn in datalek fan in oar bedriuw.
 firefox-new-join-firefox = Doch mei mei { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> soarget derfoar dat de wachtwurden dy't jo yn { -brand-name-firefox } bewarje, beskikber binne op al jo apparaten.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> soarget derfoar dat de wachtwurden dy't jo yn { -brand-name-firefox } bewarje, beskikber binne op al jo apparaten.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Download { -brand-name-firefox } <br>foar { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Download { -brand-name-firefox } <br>foar { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = It is <strong>privacy en rêstjaand</stro
 firefox-new-its-a-family-of-products = It is in <strong>produktfamylje</strong> dy't jo persoanlike gegevens mei respekt behannelje.
 firefox-new-its-everything-you-need-to = It is alles wat jo witte moatte oer <strong>feilich online bliuwe</strong>.
 firefox-new-its-a-community-that-believes = It is <strong>in mienskip</strong> dy't leauwt dat technology better funksjonearje kin.
-firefox-new-download-in-another-language = Download yn in oare taal

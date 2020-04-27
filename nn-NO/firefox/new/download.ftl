@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Raskare sidelasting, mindre minneb
 firefox-new-automatic-privacy-is-here = Automatisk personvern er her. Last ned { -brand-name-firefox } for å blokkere over 2000 sporfølgjarar.
 firefox-new-get-the-latest-firefox = Last ned siste versjon av nettlesaren { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } viser deg kor mange datainnsamlings-sporfølgjarar som er blokkerte med <strong>utvida sporingsvern</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> gjer passorda du lagrar i { -brand-name-firefox } sikre og tilgjengelege på alle einingane dine.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> gjer passorda du lagrar i { -brand-name-firefox } sikre og tilgjengelege på alle einingane dine.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> varslar deg dersom vi veit at informasjonen din er ein del av ein datalekkasje i eit anna selskap.
 firefox-new-join-firefox = Ver med { -brand-name-firefox } på ferda
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> gjer passorda du lagrar i { -brand-name-firefox } tilgjengelege på alle einingane dine.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> gjer passorda du lagrar i { -brand-name-firefox } tilgjengelege på alle einingane dine.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Last ned { -brand-name-firefox } <br>for { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Last ned { -brand-name-firefox } <br>for { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Det er <strong>personvern og sikkerheit</
 firefox-new-its-a-family-of-products = Det er ein <strong>produktfamilie</strong> som behandlar personopplysningane dine med respekt.
 firefox-new-its-everything-you-need-to = Det er alt du treng å vite om <strong>å vere trygg på nettet</strong>.
 firefox-new-its-a-community-that-believes = Det er <strong>eit fellesskap</strong> som trur at teknologi kan gjere det betre.
-firefox-new-download-in-another-language = Last ned på eit anna språk

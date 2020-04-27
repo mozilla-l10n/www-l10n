@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Швидше завантажен�
 firefox-new-automatic-privacy-is-here = Автоматизована приватність вже тут. Завантажте { -brand-name-firefox }, щоб блокувати понад 2000 елементів стеження.
 firefox-new-get-the-latest-firefox = Отримайте найновіший браузер { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } відображає кількість елементів стеження, які заблоковано за допомогою функції <strong>Розширеного захисту від стеження</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> захищає паролі, які ви зберігаєте в { -brand-name-firefox }, і робить їх доступними на всіх пристроях.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> захищає паролі, які ви зберігаєте в { -brand-name-firefox }, і робить їх доступними на всіх пристроях.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> сповіщає вас, коли ваша інформація з'являється серед відомих витоків даних інших компаній внаслідок їх зламу.
 firefox-new-join-firefox = Приєднайтеся до { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> робить паролі, які ви зберегли у { -brand-name-firefox }, доступними на всіх ваших пристроях.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> робить паролі, які ви зберегли у { -brand-name-firefox }, доступними на всіх ваших пристроях.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Завантажити { -brand-name-firefox } <br>для { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Завантажити { -brand-name-firefox } <br>для { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Це також <strong>конфіден�
 firefox-new-its-a-family-of-products = Це <strong>продукти</strong>, які ставляться до ваших особистих даних з повагою.
 firefox-new-its-everything-you-need-to = Це все, що потрібно знати про <strong>безпеку в Інтернеті</strong>.
 firefox-new-its-a-community-that-believes = Це <strong>спільнота</strong>, яка вважає, що технологія може бути кращою.
-firefox-new-download-in-another-language = Завантажити іншою мовою

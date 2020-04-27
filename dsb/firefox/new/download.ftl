@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Boki se malsnjej zacytaju, mjenjej
 firefox-new-automatic-privacy-is-here = How jo awtomatiska priwatnosć. Ześěgniśo Fireofx, aby wěcej ako 2000 pśeslědowakow blokěrował.
 firefox-new-get-the-latest-firefox = Wobstarajśo se nejnowšy wobglědowak { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } pokazujo, kak wjele daty gromaźecych pśeslědowakow se z <strong>pólěpšonym slědowańskim šćitom</strong> blokěrujo.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> gronidła, kótarež w { -brand-name-firefox } składujośo, wěste cyni a na wšych wašych rědach k dispoziciji staja.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> gronidła, kótarež w { -brand-name-firefox } składujośo, wěste cyni a na wšych wašych rědach k dispoziciji staja.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> was warnujo, jolic wěmy, až waše informacije su źěl datoweje źěry drugego pśedewześa.
 firefox-new-join-firefox = Pśizamkniśo se k { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> gronidła, kótarež w { -brand-name-firefox } składujośo, na wšych wašych rědach k dispoziciji staja.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> gronidła, kótarež w { -brand-name-firefox } składujośo, na wšych wašych rědach k dispoziciji staja.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Ześěgniśo { -brand-name-firefox } <br>za { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Ześěgniśo { -brand-name-firefox } <br>za { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = To jo teke <strong>priwatnosć a dušyny 
 firefox-new-its-a-family-of-products = Jo <strong>produktowa swójźba</strong>, kótaraž z wašymi wósobinskimi datami z respektom wobchada.
 firefox-new-its-everything-you-need-to = To jo wšykno, což musyśo wěźeś, aby <strong>online wěsty wóstał</strong>.
 firefox-new-its-a-community-that-believes = Jo <strong>zgromaźeństwo</strong>, kótarež wěri, až technologija móžo dobre cyniś.
-firefox-new-download-in-another-language = W drugej rěcy ześěgnuś

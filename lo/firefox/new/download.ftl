@@ -23,4 +23,3 @@ firefox-new-just-download-the-browser = ພຽງແຕ່ດາວໂຫລດ�
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ເປັນຫຼາຍກວ່າບຣາວເຊີ.
-firefox-new-download-in-another-language = ດາວໂຫລດເປັນພາສາອື່ນ

@@ -10,9 +10,9 @@ firefox-new-download-the-fastest-firefox = نزِّل أسرع { -brand-name-fir
 firefox-new-faster-page-loading-less-memory = تحميل الصفحات بات أسرع، واستخدام الذاكرة قل، هذا عدا المزايا المضمنة. لقد وصل متصفح { -brand-name-firefox } الجديد.
 firefox-new-automatic-privacy-is-here = الخصوصية التلقائية مشمولة. نزّل { -brand-name-firefox } لحجب ما يزيد على ألفي متعقّب.
 firefox-new-get-the-latest-firefox = نزّل آخر إصدارة من متصفّح { -brand-name-firefox }.
-firefox-new-firefox-lockwise-makes-secure = يحافظ <strong>{ -brand-name-firefox } Lockwise</strong> على كلمات السر التي تحفظها في فَيَرفُكس آمنة ويُتيحها لك على كل جهاز تملك.
+firefox-new-firefox-lockwise-makes-secure = يحافظ <strong>{ -brand-name-firefox-lockwise }</strong> على كلمات السر التي تحفظها في فَيَرفُكس آمنة ويُتيحها لك على كل جهاز تملك.
 firefox-new-join-firefox = انضم إلى { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = يُتيح لك <strong>{ -brand-name-firefox } Lockwise</strong> كلمات السر التي تحفظها في فَيَرفُكس على كل جهاز تملك.
+firefox-new-firefox-lockwise-makes = يُتيح لك <strong>{ -brand-name-firefox-lockwise }</strong> كلمات السر التي تحفظها في فَيَرفُكس على كل جهاز تملك.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = نزّل فَيَرفُكس<br>لنظام وِندوز
 firefox-new-download-firefox-for-macos = نزّل فَيَرفُكس <br>لنظام آي‎أوإس
@@ -38,4 +38,3 @@ firefox-new-youre-using-an-insecure-outdated = أنت تستخدم نظام تش
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = سيبدأ التنزيل تلقائيًا خلال ثوان من الآن. إن لم يحدث ذلك، <a id="{ $id }" href="{ $fallback_url }">جرّب معاودة التنزيل من هنا</a>.
 firefox-new-firefox-is-more-than-a-browser = فَيَرفُكس ليس متصفّحًا فقط، بل أكثر من ذلك.
-firefox-new-download-in-another-language = نزِّله بلغة أخرى

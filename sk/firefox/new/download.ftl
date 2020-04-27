@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Rýchlejšie načítavanie stráno
 firefox-new-automatic-privacy-is-here = Automatické súkromie je tu. Prevezmite si { -brand-name-firefox }, ktorý pre vás zablokuje viac ako 2 000 sledovacích prvkov.
 firefox-new-get-the-latest-firefox = Nainštalujte si najnovší { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } vám ukáže, aké sledovacie prvky jeho <strong>rozšírená ochrana pred sledovaním</strong> blokuje.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> vám heslá bezpečne uložené vo { -brand-name-firefox }e sprístupní na všetkých vašich zariadeniach.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> vám heslá bezpečne uložené vo { -brand-name-firefox }e sprístupní na všetkých vašich zariadeniach.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> vás upozorní v prípade, ži zistíme, že vaše dáta boli súčasťou nejakého úniku.
 firefox-new-join-firefox = Prihláste sa do { -brand-name-firefox }u
-firefox-new-firefox-lockwise-makes = Vďaka <strong>{ -brand-name-firefox } Lockwise</strong> máte svoje heslá k dispozícii na všetkých svojich zariadeniach.
+firefox-new-firefox-lockwise-makes = Vďaka <strong>{ -brand-name-firefox-lockwise }</strong> máte svoje heslá k dispozícii na všetkých svojich zariadeniach.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Prevziať { -brand-name-firefox } <br>pre { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Prevziať { -brand-name-firefox } <br>pre { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Je to <strong>súkromie</strong> na vašo
 firefox-new-its-a-family-of-products = Je to <strong>rad produktov</strong>, ktoré majú rešpekt k vašim údajom.
 firefox-new-its-everything-you-need-to = Je to všetko, čo potrebujete vedieť o tom, ako <strong>zostať v bezpečí na internete</strong>.
 firefox-new-its-a-community-that-believes = Je to <strong>komunita</strong>, ktorá verí, že technológia má na viac.
-firefox-new-download-in-another-language = Prevziať v inom jazyku

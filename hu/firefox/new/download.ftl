@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Gyorsabb oldalbetöltés, kisebb m
 firefox-new-automatic-privacy-is-here = Az automatikus adatvédelem megérkezett. Töltse le a { -brand-name-firefox }ot, és blokkoljon több mint 2000 nyomkövetőt.
 firefox-new-get-the-latest-firefox = Töltse le a legújabb { -brand-name-firefox } böngészőt.
 firefox-new-firefox-shows-you-how-many = A { -brand-name-firefox } megmutatja, hogy hány adatgyűjtő nyomkövetőt blokkolt a <strong>továbbfejlesztett nyomkövetés elleni védelem</strong> segítségével.
-firefox-new-firefox-lockwise-makes-secure = A <strong>{ -brand-name-firefox } Lockwise</strong> lehetővé teszi, hogy az összes eszközén biztonságosan elérje a { -brand-name-firefox }ban mentett jelszavait.
+firefox-new-firefox-lockwise-makes-secure = A <strong>{ -brand-name-firefox-lockwise }</strong> lehetővé teszi, hogy az összes eszközén biztonságosan elérje a { -brand-name-firefox }ban mentett jelszavait.
 firefox-new-firefox-monitor-alerts = A <strong>{ -brand-name-firefox-monitor }</strong> értesíti, ha az adatai egy másik cég adatsértésében jelennek meg.
 firefox-new-join-firefox = Csatlakozzon a { -brand-name-firefox }hoz
-firefox-new-firefox-lockwise-makes = A <strong>{ -brand-name-firefox } Lockwise</strong> lehetővé teszi, hogy az összes eszközén elérje a { -brand-name-firefox }ban mentett jelszavait.
+firefox-new-firefox-lockwise-makes = A <strong>{ -brand-name-firefox-lockwise }</strong> lehetővé teszi, hogy az összes eszközén elérje a { -brand-name-firefox }ban mentett jelszavait.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = A { -brand-name-firefox } letöltése <br>{ -brand-name-windows }ra
 firefox-new-download-firefox-for-macos = A { -brand-name-firefox } letöltése <br>{ -brand-name-mac }-re
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = <strong>Adatvédelem és nyugalom</strong
 firefox-new-its-a-family-of-products = Ez egy <strong>termékcsalád</strong>, amely tiszteletben tartja a személyes adatait.
 firefox-new-its-everything-you-need-to = Minden, amit tudnia kell a <strong>online biztonságról</strong>.
 firefox-new-its-a-community-that-believes = Ez egy <strong>közösség</strong>, amely úgy véli, hogy a technológia jobbra képes.
-firefox-new-download-in-another-language = Töltse le egy másik nyelven

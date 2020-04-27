@@ -11,7 +11,7 @@ firefox-new-download-the-fastest-firefox = Hent den hurtigste { -brand-name-fire
 firefox-new-faster-page-loading-less-memory = Hurtigere indlæsning af sider, mindre brug af hukommelse og proppet med nye funktioner - Den nye { -brand-name-firefox } er her.
 firefox-new-get-the-latest-firefox = Få den nyeste version af { -brand-name-firefox }
 firefox-new-join-firefox = Slut dig til { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = Med <strong>{ -brand-name-firefox } Lockwise</strong> kan du tage dine adgangskoder med dig i { -brand-name-firefox } på alle dine enheder.
+firefox-new-firefox-lockwise-makes = Med <strong>{ -brand-name-firefox-lockwise }</strong> kan du tage dine adgangskoder med dig i { -brand-name-firefox } på alle dine enheder.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Hent { -brand-name-firefox } <br>til { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Hent { -brand-name-firefox } <br>til { -brand-name-mac }
@@ -47,4 +47,3 @@ firefox-new-its-privacy-and-peace-of = Det er <strong>beskyttelse af privatlivet
 firefox-new-its-a-family-of-products = Det er <strong>en familie af produkter</strong>, der behandler dine personlige data med respekt.
 firefox-new-its-everything-you-need-to = Det er alt, du har brug for at vide om at <strong>være sikker på nettet</strong>.
 firefox-new-its-a-community-that-believes = Det er <strong>et fællesskab</strong>, der tror på at teknik kan forbedre verden.
-firefox-new-download-in-another-language = Hent på et andet sprog

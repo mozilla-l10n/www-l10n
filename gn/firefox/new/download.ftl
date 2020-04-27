@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Kuatiarogue ñemyanyhẽ pya’eve
 firefox-new-automatic-privacy-is-here = Ñemigua ijeheguíva oĩ ápe. Emboguejy { -brand-name-firefox } ejoko hag̃ua 2000 tapykuehoha.
 firefox-new-get-the-latest-firefox = Eguereko { -brand-name-firefox } kundaha ipyahuvéva.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } ohechauka mboy mba’ekuaarã mbyatyha rapykuehohápa ojejoko <strong>Tapykuehoha ñemo’ã tuichavéva</strong> ndive.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> ombojuruja ne ñe’ẽñemi eñongatúva { -brand-name-firefox }-pe eipurukuaa opaite mba’e’okápe.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> ombojuruja ne ñe’ẽñemi eñongatúva { -brand-name-firefox }-pe eipurukuaa opaite mba’e’okápe.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> ne atõi oikuaárõ ne marandu ha’éramo mba’ekuaarã ñembyai ambue mba’apohaguasu pegua.
 firefox-new-join-firefox = Ejuaju { -brand-name-firefox } rehe
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> rupive ne ñe’ẽñemi ñongatupyre { -brand-name-firefox } pegua eipurukuaa opaite ne mba’e’okápe.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> rupive ne ñe’ẽñemi ñongatupyre { -brand-name-firefox } pegua eipurukuaa opaite ne mba’e’okápe.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Emboguejy { -brand-name-firefox } <br>{ -brand-name-windows } peg̃uarã
 firefox-new-download-firefox-for-macos = Emboguejy { -brand-name-firefox } <br>{ -brand-name-mac } peg̃uarã
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Avei <strong>ñemigua ha py’aguapy</str
 firefox-new-its-a-family-of-products = Ha’e peteĩ <strong>apopyre aty</strong> omomba’éva nemba’etéva.
 firefox-new-its-everything-you-need-to = Ha’e eikotevẽva eikuaa <strong>eikundaha tekorosãme</strong> rehegua.
 firefox-new-its-a-community-that-believes = Ha’e <strong>peteĩ tekoha</strong> ogueroviáva tembipurupyahu ikatuha ojapo porãve.
-firefox-new-download-in-another-language = Emboguejy ambue ñe’ẽme

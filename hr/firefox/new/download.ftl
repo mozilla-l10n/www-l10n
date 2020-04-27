@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Brže učitavanje stranica, manja 
 firefox-new-automatic-privacy-is-here = Automatska privatnost je stigla. Preuzmi { -brand-name-firefox } i blokiraj više od 2000 programa za praćenje.
 firefox-new-get-the-latest-firefox = Preuzmi najnoviji { -brand-name-firefox } preglednik.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } prikazuje koliko je programa za prikupljanje podataka blokirano pomoću <strong>poboljšane zaštite od praćenja</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> čini lozinke koje spremaš u { -brand-name-firefox }u sigurnima i dostupnima na svim tvojim uređajima.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> čini lozinke koje spremaš u { -brand-name-firefox }u sigurnima i dostupnima na svim tvojim uređajima.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> te upozorava, ako saznamo da su tvoje informacije dio curenja podataka jednog drugog poduzeća.
 firefox-new-join-firefox = Pridruži se { -brand-name-firefox }u
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> omogućuje dostupnost lozinki koje spremaš u { -brand-name-firefox }u na svim tvojim uređajima.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> omogućuje dostupnost lozinki koje spremaš u { -brand-name-firefox }u na svim tvojim uređajima.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Preuzmi { -brand-name-firefox } <br>za { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Preuzmi { -brand-name-firefox } <br>za { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = To je <strong>privatnost i bezbrižnost</
 firefox-new-its-a-family-of-products = To je <strong>porodica proizvoda</strong> koja poštuje tvoje osobne podatke.
 firefox-new-its-everything-you-need-to = To je sve što trebaš znati o <strong>sigurnosti na internetu</strong>.
 firefox-new-its-a-community-that-believes = To je <strong>zajednica</strong> koja vjeruje da tehnologija može bolje.
-firefox-new-download-in-another-language = Preuzmi na drugom jeziku

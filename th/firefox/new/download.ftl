@@ -11,7 +11,7 @@ firefox-new-download-the-fastest-firefox = ดาวน์โหลด { -brand-
 firefox-new-faster-page-loading-less-memory = การโหลดหน้าที่เร็วขึ้น, ใช้หน่วยความจำน้อยลง และเต็มไปด้วยคุณลักษณะ { -brand-name-firefox } ใหม่อยู่ที่นี่
 firefox-new-get-the-latest-firefox = รับเบราว์เซอร์ { -brand-name-firefox } ล่าสุด
 firefox-new-join-firefox = ร่วมกับ { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> ทำให้รหัสผ่านที่คุณบันทึกใน { -brand-name-firefox } ใช้งานได้กับทุกอุปกรณ์ของคุณ
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> ทำให้รหัสผ่านที่คุณบันทึกใน { -brand-name-firefox } ใช้งานได้กับทุกอุปกรณ์ของคุณ
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = ดาวน์โหลด { -brand-name-firefox } <br>สำหรับ { -brand-name-windows }
 firefox-new-download-firefox-for-macos = ดาวน์โหลด { -brand-name-firefox } <br>สำหรับ { -brand-name-mac }
@@ -43,4 +43,3 @@ firefox-new-youre-using-an-insecure-outdated = คุณกำลังใช้
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = จะเริ่มดาวน์โหลดอัตโนมัติ ถ้าหากดาวน์โหลดไม่ได้ <a id="{ $id }" href="{ $fallback_url }">ลองดาวน์โหลดใหม่อีกครั้ง</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } เป็นมากกว่าเบราว์เซอร์
-firefox-new-download-in-another-language = ดาวน์โหลดในภาษาอื่น

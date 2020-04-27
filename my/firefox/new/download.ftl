@@ -11,7 +11,7 @@ firefox-new-download-the-fastest-firefox = လျင်မြန်သော { -
 firefox-new-faster-page-loading-less-memory = စာမျက်နှာမြန်ဆန်စွာတက်ခြင်း၊မန်မိုရီအသုံးပြုမှုနည်းခြင်းအစရှိသောအစွမ်းများပေးနိုင်သော { -brand-name-firefox }အသစ်ဒီမှာယူပါ
 firefox-new-get-the-latest-firefox = နောက်ဆုံးပေါ် { -brand-name-firefox }ဘရောက်ဇာကို ရယူပါ။
 firefox-new-join-firefox = { -brand-name-firefox } ကို ချိတ်ဆက်ပါ။
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> သည် { -brand-name-firefox } တွင် သိမ်းထားသည့် စကားဝှက်များကို သင့်ကိရိယာအားလုံးပေါ်တွင် ရှိနေစေသည်။
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> သည် { -brand-name-firefox } တွင် သိမ်းထားသည့် စကားဝှက်များကို သင့်ကိရိယာအားလုံးပေါ်တွင် ရှိနေစေသည်။
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = အန်းဒရွိုက်အတွက်<br>{ -brand-name-firefox }ကို ဆွဲယူပါ
 firefox-new-download-firefox-for-macos = iOSအတွက် <br>{ -brand-name-firefox }ကို ဆွဲယူပါ
@@ -46,4 +46,3 @@ firefox-new-its-privacy-and-peace-of = ၎င်းသည် မိုဘို�
 firefox-new-its-a-family-of-products = ၎င်းသည် သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များကိုလေးစားကာကွယ်သည်<strong> မိသားစုထုတ်ကုန်များ </strong> ဖြစ်သည်။
 firefox-new-its-everything-you-need-to = <strong> အွန်လိုင်းတွင်လုံခြုံစွာနေရန် </strong> နှင့်ပတ်သက်ပြီးသင်သိထားသင့်သမျှ။
 firefox-new-its-a-community-that-believes = ၎င်းသည် နည်းပညာသည်ပိုမိုကောင်းမွန်မည်ဟုယုံကြည်သည့် <strong> အသိုင်းအဝိုင်း </strong>ဖြစ်သည်။
-firefox-new-download-in-another-language = အခြားဘာသာစကားဖြင့်ဆွဲယူပါ။

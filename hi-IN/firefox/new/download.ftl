@@ -9,7 +9,7 @@ firefox-new-download-firefox = { -brand-name-firefox } डाउनलोड क
 firefox-new-download-the-fastest-firefox = अब तक का सबसे तेज { -brand-name-firefox } डाउनलोड करें
 firefox-new-get-the-latest-firefox = नवीनतम { -brand-name-firefox } ब्राउज़र प्राप्त करें।
 firefox-new-join-firefox = { -brand-name-firefox } में शामिल हों
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> { -brand-name-firefox } में आपके द्वारा सहेजे गए पासवर्ड को आपके सभी उपकरणों पर उपलब्ध कराता है।
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> { -brand-name-firefox } में आपके द्वारा सहेजे गए पासवर्ड को आपके सभी उपकरणों पर उपलब्ध कराता है।
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } के लिए <br>{ -brand-name-firefox } डाउनलोड करें
 firefox-new-download-firefox-for-macos = { -brand-name-mac } के लिए <br>{ -brand-name-firefox } डाउनलोड करें
@@ -36,4 +36,3 @@ firefox-new-just-download-the-browser = बस ब्राउज़र डा�
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } एक ब्राउज़र से ज़्यादा है।
 firefox-new-its-privacy-and-peace-of = <strong>गोपनीयता और मन की शांति</strong> मोबाइल पर, भी है।
-firefox-new-download-in-another-language = किसी अन्य भाषा में डाउनलोड करें

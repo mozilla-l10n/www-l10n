@@ -7,7 +7,7 @@
 
 firefox-new-download-firefox = Nādunïnj { -brand-name-firefox }
 firefox-new-join-firefox = Natū gi'iaj sunt ngà { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> â'nïn ginun nej da'nga' huì na'nḯn sà't riña { -brand-name-firefox } riña daran' nej si agâ't.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> â'nïn ginun nej da'nga' huì na'nḯn sà't riña { -brand-name-firefox } riña daran' nej si agâ't.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Nādunïnj { -brand-name-firefox } <br>guendâ { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Nādunïnj { -brand-name-firefox } <br>guendâ { -brand-name-mac }

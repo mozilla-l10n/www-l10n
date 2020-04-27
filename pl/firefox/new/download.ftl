@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Szybsze wczytywanie stron, mniejsz
 firefox-new-automatic-privacy-is-here = Automatyczna prywatność jest już dostępna. Pobierz Firefoksa, aby blokować ponad 2000 elementów śledzących.
 firefox-new-get-the-latest-firefox = Pobierz najnowszego Firefoksa.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } pokazuje, jak wiele zbierających dane elementów śledzących jest blokowanych za pomocą <strong>wzmocnionej ochrony przed śledzeniem</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> umożliwia bezpieczne korzystanie z haseł zachowanych w Firefoksie na wszystkich urządzeniach.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> umożliwia bezpieczne korzystanie z haseł zachowanych w Firefoksie na wszystkich urządzeniach.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> powiadamia Cię, kiedy dowiemy się, że Twoje dane są częścią wycieku z innej firmy.
 firefox-new-join-firefox = Dołącz do Firefoksa
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> umożliwia korzystanie z haseł zachowanych w Firefoksie na wszystkich urządzeniach.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> umożliwia korzystanie z haseł zachowanych w Firefoksie na wszystkich urządzeniach.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Pobierz Firefoksa <br>na { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Pobierz Firefoksa <br>na { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = To także <strong>prywatność i koniec 
 firefox-new-its-a-family-of-products = To <strong>rodzina produktów</strong>, która szanuje Twoje prywatne dane.
 firefox-new-its-everything-you-need-to = To wszystko, co musisz wiedzieć o <strong>bezpiecznym korzystaniu z Internetu</strong>.
 firefox-new-its-a-community-that-believes = To <strong>społeczność</strong> wierząca, że komputery mogą być lepsze.
-firefox-new-download-in-another-language = Pobierz w innym języku

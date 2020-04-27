@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Asali n yisebtar arurad ugar, asud
 firefox-new-automatic-privacy-is-here = Tabaḍnit tawurmant tewweḍ-d. Sader { -brand-name-firefox } i usewḥel n wugar n 2000 n yineḍfaṛen.
 firefox-new-get-the-latest-firefox = Awi lqem aneggaru n { -brand-name-firefox }
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } yeskan-d acḥal n yineḍfaṛen i ileqḍen isefka i iweḥlen s <strong>Ummesten n Uḍfaṛ Yennernan</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> yettarra awalen-ik uffiren i tesseklaseḍ deg { -brand-name-firefox } d iɣelsanen daɣen ad ilin deg yibenkan-ik meṛṛa.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> yettarra awalen-ik uffiren i tesseklaseḍ deg { -brand-name-firefox } d iɣelsanen daɣen ad ilin deg yibenkan-ik meṛṛa.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> ad k-id-yelɣu ticki neẓra talɣut-ik ma tella deg trewla n yisefka n tkebbanit-nniḍen.
 firefox-new-join-firefox = Ddu ɣer { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> yettarra awalen-ik uffiren i tesseklaseḍ deg { -brand-name-firefox } llan deg yal ibenk.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> yettarra awalen-ik uffiren i tesseklaseḍ deg { -brand-name-firefox } llan deg yal ibenk.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Sider { -brand-name-firefox } <br> i { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Sider { -brand-name-firefox } <br> i { -brand-name-mac }i
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = D <strong> tabaḍnit akked lehna</strong
 firefox-new-its-a-family-of-products = D <strong>tawacult n yifarisen</strong> i yettqadaṛen isefka-ik udmawanen.
 firefox-new-its-everything-you-need-to = D ayen kan i ilaqen ad tissineḍ akken <strong>ad temneḍ taɣellist-ik srid</strong>.
 firefox-new-its-a-community-that-believes = D <strong>tarbaɛt</strong> yumnen d akken tatiknulujit tezmer ad teg xir n waya.
-firefox-new-download-in-another-language = Sider s tutlayt-nniḍen

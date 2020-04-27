@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Faster page loading, less memory u
 firefox-new-automatic-privacy-is-here = Automatic privacy is here. Download { -brand-name-firefox } to block over 2000 trackers.
 firefox-new-get-the-latest-firefox = Get the latest { -brand-name-firefox } browser.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } shows you how many data-collecting trackers are blocked with <strong>Enhanced Tracking Protection</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> makes the passwords you save in { -brand-name-firefox } secure and available on all your devices.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> makes the passwords you save in { -brand-name-firefox } secure and available on all your devices.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> alerts you if we know your information is a part of another company’s data breach.
 firefox-new-join-firefox = Join { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> makes the passwords you save in { -brand-name-firefox } available on all your devices.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> makes the passwords you save in { -brand-name-firefox } available on all your devices.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Download { -brand-name-firefox } <br>for { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Download { -brand-name-firefox } <br>for { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = It’s <strong>privacy and peace of mind<
 firefox-new-its-a-family-of-products = It’s a <strong>family of products</strong> that treat your personal data with respect.
 firefox-new-its-everything-you-need-to = It’s everything you need to know about <strong>staying safe online</strong>.
 firefox-new-its-a-community-that-believes = It’s <strong>a community</strong> that believes tech can do better.
-firefox-new-download-in-another-language = Download in another language

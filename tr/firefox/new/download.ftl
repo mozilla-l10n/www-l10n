@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Daha hızlı açılan sayfalar, da
 firefox-new-automatic-privacy-is-here = Otomatik gizlilik karşınızda. 2000’den fazla takipçiyi engellemek için { -brand-name-firefox }’u indirin.
 firefox-new-get-the-latest-firefox = En yeni { -brand-name-firefox } tarayıcısını indirin.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox }, <strong>Gelişmiş İzlenme Koruması</strong> sayesinde veri toplayan kaç takipçinin engellendiğini gösterir.
-firefox-new-firefox-lockwise-makes-secure = <strong> { -brand-name-firefox } Lockwise</strong> ile { -brand-name-firefox }’a kaydettiğiniz parolaları güvenle tüm cihazlarınızda kullanılabilirsiniz.
+firefox-new-firefox-lockwise-makes-secure = <strong> { -brand-name-firefox-lockwise }</strong> ile { -brand-name-firefox }’a kaydettiğiniz parolaları güvenle tüm cihazlarınızda kullanılabilirsiniz.
 firefox-new-firefox-monitor-alerts = Bilgileriniz başka bir şirketin yaşadığı veri ihlali kapsamında ele geçirilirse <strong>{ -brand-name-firefox-monitor }</strong> size haber verir.
 firefox-new-join-firefox = { -brand-name-firefox }’a katılın
-firefox-new-firefox-lockwise-makes = <strong> { -brand-name-firefox } Lockwise</strong> ile { -brand-name-firefox }’a kaydettiğiniz parolaları tüm cihazlarınızda kullanılabilirsiniz.
+firefox-new-firefox-lockwise-makes = <strong> { -brand-name-firefox-lockwise }</strong> ile { -brand-name-firefox }’a kaydettiğiniz parolaları tüm cihazlarınızda kullanılabilirsiniz.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } için <br>{ -brand-name-firefox }’u indir
 firefox-new-download-firefox-for-macos = { -brand-name-mac } için <br>{ -brand-name-firefox }’u indir
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Mobil cihazınızda da <strong>gizlilik v
 firefox-new-its-a-family-of-products = Kişisel verilerinize saygı gösteren bir <strong>ürün ailesi</strong>.
 firefox-new-its-everything-you-need-to = <strong>İnternette güvende kalmak</strong> ile ilgili bilmek istediğiniz her şey.
 firefox-new-its-a-community-that-believes = Teknolojinin daha iyisini yapabileceğine inanan <strong>bir camia</strong>.
-firefox-new-download-in-another-language = Başka bir dilde indir

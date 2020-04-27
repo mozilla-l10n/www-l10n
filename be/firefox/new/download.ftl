@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Хутчэйшая загрузк�
 firefox-new-automatic-privacy-is-here = Аўтаматычная прыватнасць ужо тут. Сцягніце { -brand-name-firefox }, каб блакаваць больш за 2000 трэкераў.
 firefox-new-get-the-latest-firefox = Атрымайце апошнюю версію браўзера { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } паказвае, колькі трэкераў па зборы дадзеных заблакавана <strong>ўзмоцненай аховай ад сачэння</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> робіць паролі, якія вы захавалі ў { -brand-name-firefox }, бяспечнымі і даступнымі на ўсіх вашых прыладах.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> робіць паролі, якія вы захавалі ў { -brand-name-firefox }, бяспечнымі і даступнымі на ўсіх вашых прыладах.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> апавяшчае, калі становіцца вядома, што ваша інфармацыя з'яўляецца часткай уцечкі звестак іншай кампаніі.
 firefox-new-join-firefox = Далучайцеся да { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> робіць паролі, якія вы захавалі ў { -brand-name-firefox }, даступнымі на ўсіх вашых прыладах.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> робіць паролі, якія вы захавалі ў { -brand-name-firefox }, даступнымі на ўсіх вашых прыладах.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Сцягнуць { -brand-name-firefox } <br>для { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Сцягнуць { -brand-name-firefox } <br>для { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Гэта <strong>прыватнасць �
 firefox-new-its-a-family-of-products = Гэта <strong>сямейства прадуктаў</strong>, якія ставяцца да вашых асабістых дадзеных з павагай.
 firefox-new-its-everything-you-need-to = Гэта ўсё, што трэба ведаць, каб <strong>заставацца ў бяспецы ў сеціве</strong>.
 firefox-new-its-a-community-that-believes = Гэта <strong>супольнасць</strong>, якая лічыць, што тэхналогія можа зрабіць лепш.
-firefox-new-download-in-another-language = Сцягнуць на іншай мове

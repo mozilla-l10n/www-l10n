@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Încărcare mai rapidă a paginilo
 firefox-new-automatic-privacy-is-here = A sosit confidențialitatea automată. Descarcă { -brand-name-firefox } ca să blochezi peste 2000 de elemente de urmărire.
 firefox-new-get-the-latest-firefox = Obține cea mai nouă versiune a browserului { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } îți arată câte elemente de urmărire colectoare de date sunt blocate cu <strong>protecția sporită împotriva urmăririi</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox } Lockwise</strong> securizează parolele salvate în { -brand-name-firefox } și le face disponibile pe toate dispozitivele tale.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> securizează parolele salvate în { -brand-name-firefox } și le face disponibile pe toate dispozitivele tale.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> te alertează dacă știm că informațiile tale sunt incluse într-o breșă de date a unei alte companii.
 firefox-new-join-firefox = Alătură-te { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox } Lockwise</strong> face parolele salvate în { -brand-name-firefox } disponibile pe toate dispozitivele tale.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> face parolele salvate în { -brand-name-firefox } disponibile pe toate dispozitivele tale.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Descarcă { -brand-name-firefox } <br>pentru { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Descarcă { -brand-name-firefox } <br>pentru { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Este <strong>confidențialitate și lini�
 firefox-new-its-a-family-of-products = Este o <strong>familie de produse</strong> care îți tratează cu respect datele personale.
 firefox-new-its-everything-you-need-to = E tot ce trebuie să știi despre <strong>siguranța online</strong>.
 firefox-new-its-a-community-that-believes = Este o <strong>comunitate</strong> care crede că tehnologia se poate comporta mai bine.
-firefox-new-download-in-another-language = Descarcă în altă limbă

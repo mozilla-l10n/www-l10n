@@ -12,10 +12,10 @@ firefox-new-faster-page-loading-less-memory = Llwytho tudalennau cynt, llai o dd
 firefox-new-automatic-privacy-is-here = Mae preifatrwydd awtomatig yma. Llwythwch { -brand-name-firefox } i lawr i rwystro dros 2000 o dracwyr.
 firefox-new-get-the-latest-firefox = Defnyddiwch y porwr { -brand-name-firefox } diweddaraf.
 firefox-new-firefox-shows-you-how-many = Mae { -brand-name-firefox } yn dangos i chi faint o dracwyr casglu data sydd wedi'u rhwystro â <strong>Diogelwch Tracio Gwell</strong>.
-firefox-new-firefox-lockwise-makes-secure = Mae <strong>{ -brand-name-firefox } Lockwise</strong> yn gwneud y cyfrineiriau rydych chi'n eu cadw yn { -brand-name-firefox } yn ddiogel ac ar gael ar eich holl ddyfeisiau.
+firefox-new-firefox-lockwise-makes-secure = Mae <strong>{ -brand-name-firefox-lockwise }</strong> yn gwneud y cyfrineiriau rydych chi'n eu cadw yn { -brand-name-firefox } yn ddiogel ac ar gael ar eich holl ddyfeisiau.
 firefox-new-firefox-monitor-alerts = Mae <strong>{ -brand-name-firefox-monitor }</strong> yn eich rhybuddio os ydym yn gwybod bod eich manylion yn rhan o dor-data cwmni arall.
 firefox-new-join-firefox = Ymunwch â { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = Mae <strong>{ -brand-name-firefox } Lockwise</strong> yn gwneud y cyfrineiriau rydych chi'n eu cadw yn { -brand-name-firefox } ar gael ar eich holl ddyfeisiau.
+firefox-new-firefox-lockwise-makes = Mae <strong>{ -brand-name-firefox-lockwise }</strong> yn gwneud y cyfrineiriau rydych chi'n eu cadw yn { -brand-name-firefox } ar gael ar eich holl ddyfeisiau.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Llwytho i Lawr { -brand-name-firefox } <br>ar gyfer { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Llwytho i Lawr { -brand-name-firefox } <br>ar gyfer { -brand-name-mac }
@@ -54,4 +54,3 @@ firefox-new-its-privacy-and-peace-of = Mae'n <strong>preifatrwydd a thawelwch me
 firefox-new-its-a-family-of-products = Mae'n <strong>casgliad o gynnyrch</strong> sy'n trin eich data personol â pharch.
 firefox-new-its-everything-you-need-to = Mae popeth y mae angen i chi ei wybod am <strong>gadw'n ddiogel ar-lein</strong>.
 firefox-new-its-a-community-that-believes = Mae'n <strong>cymuned</strong> sy'n credu y gall technoleg wneud yn well.
-firefox-new-download-in-another-language = Llwytho i lawr mewn iaith arall
