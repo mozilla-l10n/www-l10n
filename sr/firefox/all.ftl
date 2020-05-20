@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = 32-битна инсталација
 firefox-all-download-the-firefox = Преузмите Firefox прегледач на српском и више од 90 других језика
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Сви заслужују приступ интернету, а ваш језик никада не би требао бити препрека. Зато је уз помоћ преданих волонтера из целог света, Firefox прегледач је доступан на више од 90 језика.
-firefox-all-choose-which-firefox = Изаберите језичку верзију Firefox претраживача коју желите да преузмете
+firefox-all-choose-which-firefox = Изаберите језичку верзију Firefox прегледача коју желите да преузмете
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } политика приватности
 firefox-all-learn-about-firefox = Сазнајте више о { -brand-name-firefox } прегледачима
 firefox-all-the-standard-firefox = Стандардни { -brand-name-firefox } прегледач — брз и приватан. Ако нисте сигурни који { -brand-name-firefox } да изаберете, онда изаберите овај.
