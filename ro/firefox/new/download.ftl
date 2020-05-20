@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = Descarcă { -brand-name-firefox }
-firefox-new-download-mozilla-firefox = Descarcă { -brand-name-mozilla } { -brand-name-firefox }, un browser web gratuit. { -brand-name-firefox } este creat de o organizație globală nonprofit dedicată misiunii de a da oamenilor controlul online. Obține { -brand-name-firefox } pentru { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } și { -brand-name-ios } astăzi!
+firefox-new-download-mozilla-firefox = Descarcă { -brand-name-mozilla } { -brand-name-firefox }, un browser web gratuit. { -brand-name-firefox } este creat de o organizație nonprofit globală, dedicată misiunii de a da oamenilor controlul online. Descarcă { -brand-name-firefox } pentru { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } și { -brand-name-ios } astăzi!
 firefox-new-download-the-fastest-firefox = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 firefox-new-faster-page-loading-less-memory = Încărcare mai rapidă a paginilor, mai puțină memorie utilizată și prevăzut cu funcții, noul { -brand-name-firefox } este aici.
 firefox-new-automatic-privacy-is-here = A sosit confidențialitatea automată. Descarcă { -brand-name-firefox } ca să blochezi peste 2000 de elemente de urmărire.
