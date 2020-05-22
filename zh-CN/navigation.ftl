@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = 下载 { -brand-name-firefox }
-navigation-get-a-firefox-account = 获取 Firefox 账户
-navigation-firefox-browser-for-desktop = Firefox 浏览器桌面版
+navigation-get-a-firefox-account = 获取 { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } 浏览器桌面版
 navigation-get-the-browser-that-respects = 让您在 { -brand-name-windows }、{ -brand-name-mac } 或 { -brand-name-linux } 上网时更隐私。
-navigation-firefox-browser-for-mobile = Firefox 浏览器移动版
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } 浏览器移动版
 navigation-take-speed-privacy-and = 带上速度、隐私和心安。提供 { -brand-name-android } 与 { -brand-name-ios } 版本。
 navigation-download-for-ios = 下载 { -brand-name-ios } 版
 navigation-download-for-android = 下载 { -brand-name-android } 版
 navigation-ios-support = { -brand-name-ios } 版技术支持
 navigation-android-support = { -brand-name-android } 版技术支持
-navigation-firefox-browser-for-enterprise = Firefox 浏览器企业版
-navigation-strap-on-your-goggles = 戴上您的 VR 眼镜，使用 Firefox VR 浏览器进入沉浸式网络体验。
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } 浏览器企业版
+navigation-strap-on-your-goggles = 戴上您的 VR 眼镜，使用 { -brand-name-firefox-browser } VR 浏览器进入沉浸式网络体验。
 navigation-firefox-for-fire-tv = { -brand-name-firefox } for { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = 使用您的 { -brand-name-amazon } { -brand-name-fire-tv } 观看视频、浏览网页。
 navigation-firefox-browsers-put = 一直以来，{ -brand-name-firefox } 浏览器都将您的隐私放在首位。
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = 随身携带 { -brand-name-firefox } 和 {
 navigation-get-firefox = 下载 { -brand-name-firefox }
 navigation-get-firefox-focus = 下载 { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } 扩展
-navigation-your-firefox-account = 您的 Firefox 账户
+navigation-your-firefox-account = 您的 { -brand-name-firefox-account }
 navigation-make-the-most-of-your = 在每台设备上都能充分发挥 { -brand-name-firefox } 的强大体验。
 navigation-learn-how-to-customize = 了解如何打造出专属你的 { -brand-name-firefox }。
 navigation-experience-augmented = 使用 { -brand-name-firefox } 体验增强现实（AR）和虚拟现实（VR）。
