@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = Mohendaha 64-bit
 firefox-all-choose-a-64-bit-installer = Eiporavo ñemohendaha 64-bit ne mohendahápe g̃uarã orekóva procesador 64-bit avei, ome’ẽ hetave RAM tembiaporape ha’eñóva, eñembosarái hag̃ua ha ambue tembipuru’i imbaretéva.
 firefox-all-32-bit-installers = Mohendaha 32-bit
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Emboguejy Firefox kundaha inglés (EE.UU.) guápe ha hetave 90 ñe’ẽme
+firefox-all-download-the-firefox = Emboguejy { -brand-name-firefox-browser } guaraníme (GN) ha avei hetaiteve 90 ñe’ẽme oĩva
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe: ne ñe’ẽ ndaha’éiva’erã jokoha. Upévare, opaite pytyvõharakuéra arapygua ndive, rojapo Firefox kundaha ojepurukuaa hag̃ua hetave 90 ñe’ẽme.
-firefox-all-choose-which-firefox = Eiporavo mba’e Firefox kundahápa emboguejýta ne ñe’ẽme
-firefox-all-firefox-privacy-notice = Marandu ñemiguáva
+firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõharakuéra arapygua ndive — rojapo { -brand-name-firefox-browser } ojepurukuaa hag̃ua hetave 90 ñe’ẽme.
+firefox-all-choose-which-firefox = Eiporavo mba’e { -brand-name-firefox-browser } emboguejýta ne ñe’ẽme
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } Marandu ñemigua
 firefox-all-learn-about-firefox = Eikuaáke { -brand-name-firefox } kundaha rehegua
 firefox-all-the-standard-firefox = { -brand-name-firefox } ypykue kundaha — ipya’e ha iñemi. Ndereikuaáirõ mba’e { -brand-name-firefox } eiporavóta, eiporavo kóva.
 firefox-all-get-a-sneak-peek-at = Ema’ẽ umi { -brand-name-firefox } kundaha ipyahuvéva rehe osẽ mboyve opavavépe g̃uarã.
 firefox-all-test-your-sites-against = Eipuru tenda emoñondivévo umi { -brand-name-firefox } kundaha osẽtava DevTools ndive, imbarete ha hekohu’ũva hendýva ijypykue rupi.
 firefox-all-count-on-stability-and = Ereko tekopyta ha ndahasýi ipuru ko { -brand-name-firefox } kundaha ndive heñóiva mba’apohaguasúpe g̃uarã.
-firefox-all-windows-installers-for = Umi Windows ñemohendaha hetápe g̃uarãva nombohasýiva ñemboheko, ñemyasãi ha Firefox kundaháre ñangareko.
+firefox-all-windows-installers-for = Umi Windows ñemohendaha hetápe g̃uarãva nombohasýiva ñemboheko, ñemyasãi ha { -brand-name-firefox-browser } ñangareko.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Eiporavo ñemohendaha 32-bit ne mohendahápe g̃uarã orekóva procesador 32-bit térã mohendaha itujavévape g̃uarã térã ikangyvéva. <a href="{ $url }">Ndereikuaáiramo</a> eipurútapa 64-bit térã 32-bit, ro’e ndéve eipuru hag̃ua 32-bit.
