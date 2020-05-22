@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64 位安装程序
 firefox-all-choose-a-64-bit-installer = 为 64 位处理器的计算机选择 64 位安装程序，这样单个程序可以分配到更多内存——对于游戏或其他配置要求高的应用程序尤为重要。
 firefox-all-32-bit-installers = 32 位安装程序
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = 下载 Firefox 浏览器，这里有简体中文及其他 90 多种语言版本供您选择
+firefox-all-download-the-firefox = 下载 { -brand-name-firefox-browser } 浏览器，这里有简体中文及其他 90 多种语言版本供您选择
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = 每个人都有访问互联网的权利，您的语言绝不应该成为障碍。在全球志愿者的不懈努力下，我们让 Firefox 浏览器拥有了超过 90 种语言版本。
-firefox-all-choose-which-firefox = 选择您想要下载的 Firefox 浏览器语言版本
+firefox-all-everyone-deserves-access = 每个人都有访问互联网的权利，您的语言绝不应该成为障碍。在全球志愿者的不懈努力下，我们让 { -brand-name-firefox-browser } 浏览器拥有了超过 90 种语言版本。
+firefox-all-choose-which-firefox = 选择您想要下载的 { -brand-name-firefox-browser } 浏览器语言版本
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } 隐私声明
 firefox-all-learn-about-firefox = 进一步了解 { -brand-name-firefox } 浏览器
 firefox-all-the-standard-firefox = 标准版 { -brand-name-firefox } 浏览器：速度快，又保护隐私。若您不确定应该选择哪款 { -brand-name-firefox }，请选择此项。
 firefox-all-get-a-sneak-peek-at = 在 { -brand-name-firefox } 浏览器正式发行前，抢先试用最新版本中的功能。
 firefox-all-test-your-sites-against = 即将发行的 { -brand-name-firefox } 浏览器中默认启用强大而灵活的开发者工具，可使用此版本来测试您的网站。
 firefox-all-count-on-stability-and = 若需要稳定度和易用性，请使用此企业版 { -brand-name-firefox } 浏览器。
-firefox-all-windows-installers-for = 适用于企业 IT 的 Windows 安装程序，可简化 Firefox 浏览器的配置、部署和管理。
+firefox-all-windows-installers-for = 适用于企业 IT 的 Windows 安装程序，可简化 { -brand-name-firefox-browser } 浏览器的配置、部署和管理。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 为 32 位处理器的——或者较旧或性能较弱的计算机，选择 32 位安装程序，<a href="{ $url }">若您不确定</a>是选择 64 位还是 32 位安装程序，我们建议您下载后者。
