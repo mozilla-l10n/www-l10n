@@ -3,16 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } letöltése
-navigation-get-a-firefox-account = Firefox fiók beszerzése
-navigation-firefox-browser-for-desktop = Firefox böngésző asztali számítógépre
-navigation-get-the-browser-that-respects = Szerezze be a böngészőt, amely automatikusan tiszteletben tartja a magánszféráját. { -brand-name-windows }on, maxOS-en vagy { -brand-name-linux }on.
-navigation-firefox-browser-for-mobile = Firefox böngésző mobilra
+navigation-get-a-firefox-account = { -brand-name-firefox-account } beszerzése
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } asztali számítógépre
+navigation-get-the-browser-that-respects = Szerezze be a böngészőt, amely automatikusan tiszteletben tartja a magánszféráját. { -brand-name-windows }on, { -brand-name-mac }en vagy { -brand-name-linux }on.
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobilra
 navigation-take-speed-privacy-and = Vigye magával a sebességet, az adatvédelmet és a nyugalmat. { -brand-name-android }on és { -brand-name-ios }-en.
 navigation-download-for-ios = Letöltés { -brand-name-ios }-re
 navigation-download-for-android = Letöltés { -brand-name-android }ra
 navigation-ios-support = { -brand-name-ios } támogatás
 navigation-android-support = { -brand-name-android } támogatás
-navigation-firefox-browser-for-enterprise = Firefox böngésző vállalatok számára
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } vállalatok számára
 navigation-strap-on-your-goggles = Vegye fel a szemüvegét, és lépjen be a magával ragadó webbe a { -brand-name-firefox-browser } for VR segítségével.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }-re
 navigation-watch-videos-and-browse = Nézzen videókat és böngésszen az interneten az { -brand-name-amazon } { -brand-name-fire-tv }-n.

@@ -14,7 +14,7 @@ download-button-systems-languages = Nyelvek és operációs rendszerek
 download-button-recommended = Ajánlott
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">A { -brand-name-mozilla } többé nem biztosít biztonsági frissítéseket a { -brand-name-firefox }hoz { -brand-name-windows } { -brand-name-xp }-n vagy Vistán</a>, de lent még mindig letöltheti a végső 32 bites windowsos változatot.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">A { -brand-name-mozilla } többé nem biztosít biztonsági frissítéseket a { -brand-name-firefox }hoz { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } esetén</a>, de lent még mindig letöltheti a végső 32 bites windowsos változatot.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = A { -brand-name-firefox } telepítéséhez kövesse <a href="{ $url }">ezeket az utasításokat</a>.
