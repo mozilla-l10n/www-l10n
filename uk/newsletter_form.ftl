@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Будь ласка, введіть дійсну адресу електронної пошти
+newsletter-form-you-must-agree-to = Ви повинні погодитися з повідомленням про приватність
+newsletter-form-your-email-address = Ваша адреса електронної пошти
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = Виберіть країну чи регіон
 newsletter-form-your-email-here = АДРЕСА Е-ПОШТИ
 newsletter-form-format = Формат
 newsletter-form-html = HTML
