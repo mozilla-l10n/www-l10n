@@ -18,6 +18,10 @@ newsletter-form-get-firefox-news = { -brand-name-firefox }. Der Newsletter. Das 
 newsletter-form-im-okay-with-mozilla = Ich bin einverstanden, dass { -brand-name-mozilla } meine Daten wie in <a href="{ $url }">diesem Datenschutzhinweis</a> angegeben verwendet
 newsletter-form-we-will-only-send = Wir schicken dir nur Informationen mit Bezug zu { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Wenn Sie bisher noch kein Abonnement eines { -brand-name-mozilla }-Newsletters bestätigt haben, müssen Sie dies vielleicht jetzt tun. Sehen Sie bitte in Ihrem Posteingang oder Ihrem Spam-Filter nach einer E-Mail von uns.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }{ -brand-name-firefox } + Du
+newsletter-form-get-firefox-tips = Erfahren Sie Tipps, Tricks, Neuigkeiten und mehr über { -brand-name-firefox }.
+newsletter-form-keep-up-with = Erfahren Sie Neuigkeiten<br> über { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Erfahren Sie Neuigkeiten von { -brand-name-mozilla }
 newsletter-form-available-languages = Verfügbare Sprachen
 newsletter-form-select-country = Land auswählen
 newsletter-form-sign-me-up = Abonnieren

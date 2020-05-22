@@ -17,7 +17,7 @@ firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</st
 firefox-new-join-firefox = Komm zu { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> hat deine gespeicherten Passwörter immer und auf allen deinen Geräten für dich parat.
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = { -brand-name-firefox } <br>für Window herunterladen
+firefox-new-download-firefox-for-windows = { -brand-name-firefox } <br>für { -brand-name-windows } herunterladen
 firefox-new-download-firefox-for-macos = { -brand-name-firefox } <br>für { -brand-name-mac } herunterladen
 firefox-new-download-firefox-for-linux = { -brand-name-firefox } <br>für { -brand-name-linux } herunterladen
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
