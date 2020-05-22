@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } ડાઉનલોડ કરો
-navigation-get-a-firefox-account = Firefox એકાઉન્ટ મેળવો
+navigation-get-a-firefox-account = { -brand-name-firefox-account } મેળવો
 navigation-ios-support = { -brand-name-ios } સમર્થન
 navigation-android-support = { -brand-name-android } સમર્થન
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } માટે { -brand-name-firefox }
@@ -14,7 +14,7 @@ navigation-take-firefox-and-firefox = { -brand-name-firefox } અને { -brand
 navigation-get-firefox = { -brand-name-firefox } મેળવો
 navigation-get-firefox-focus = { -brand-name-firefox-focus } મેળવો
 navigation-android-extensions = { -brand-name-android } એક્સ્ટેન્શન્સ
-navigation-your-firefox-account = તમારું Firefox એકાઉન્ટ
+navigation-your-firefox-account = તમારું { -brand-name-firefox-account }
 navigation-make-the-most-of-your = દરેક ઉપકરણ પર, તમારા { -brand-name-firefox } નો અનુભવ બહોળા પ્રમાણમાં કરો.
 navigation-learn-how-to-customize = { -brand-name-firefox } કેવી રીતે કાર્ય કરે છે તેમાં કેવી રીતે વિવિધતા લાવવી તે શીખો.
 navigation-experience-augmented = { -brand-name-firefox } સાથે વિસ્તૃત અને વર્ચ્યુઅલ રિયાલિટીનો અનુભવ કરો.
