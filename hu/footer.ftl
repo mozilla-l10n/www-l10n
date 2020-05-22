@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Webhely adatvédelmi nyilatkozata
 footer-websites-cookies = Sütik
 footer-websites-legal = Jogi információk
 footer-language = Nyelv
+footer-go = Ugrás
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

@@ -17,7 +17,11 @@ newsletter-form-get-firefox-news = { -brand-name-firefox } hírek
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Elfogadom, hogy a { -brand-name-mozilla } az <a href="{ $url }">adatvédelmi nyilatkozatnak</a> megfelelően kezelje az adataimat
 newsletter-form-we-will-only-send = Csak a { -brand-name-mozilla } szervezettel kapcsolatos információt fogunk küldeni.
-newsletter-form-if-you-havent-previously = Ha korábban nem erősítette meg a Mozillához kapcsolódó hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
+newsletter-form-if-you-havent-previously = Ha korábban nem erősítette meg a { -brand-name-mozilla }-hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ön
+newsletter-form-get-firefox-tips = { -brand-name-firefox } tippek, trükkök, hírek és továbbiak
+newsletter-form-keep-up-with = Maradjon naprakész<br>mindennel, ami { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Kapjon { -brand-name-mozilla }-híreket
 newsletter-form-available-languages = Elérhető nyelvek
 newsletter-form-select-country = Válasszon országot
 newsletter-form-sign-me-up = Feliratkozás

@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = A { -brand-name-firefox }ra vált
 switch-select-what-to-take = Válassza ki, hogy mit hoz át a { -brand-name-chrome }-ból.
 switch-let-firefox-do-the-rest = A többit bízza a { -brand-name-firefox }ra.
 switch-use-firefox-and-still-chrome = Használhatja a { -brand-name-firefox }ot a { -brand-name-chrome } megtartása mellett is. A { -brand-name-chrome } semmiben sem fog megváltozni a gépén.
+switch-spread-the-word = Terjessze a híreket a { -brand-name-firefox }ról, és segítsen, hogy az ismerősei búcsút intsenek a { -brand-name-chrome }-nak.
 switch-share-with-your-friends = Ossza meg barátaival, hogyan tudnak { -brand-name-firefox }ra váltani
 switch-firefox-makes-switching-fast-tweet = 🔥 A { -brand-name-firefox } nagyon gyorssá teszi a váltást a { -brand-name-chrome }-ról. Próbáld ki!
 switch-switch-to-firefox = Válts { -brand-name-firefox }ra
