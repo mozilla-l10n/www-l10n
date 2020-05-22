@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Aviso de privacidad del sitio web
 footer-websites-cookies = Cookies
 footer-websites-legal = Legales
 footer-language = Idioma
+footer-go = Vamos
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
