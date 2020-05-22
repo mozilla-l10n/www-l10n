@@ -6,16 +6,16 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = { -brand-name-firefox } herunterladen
-firefox-new-download-mozilla-firefox = Download { -brand-name-mozilla } { -brand-name-firefox }, den kostenlosen Browser für { -brand-name-windows }, Mac, { -brand-name-linux }, { -brand-name-android } und { -brand-name-ios }. { -brand-name-firefox } wird von { -brand-name-mozilla } entwickelt – der Non-Profit-Organisation, die sich für deine Online-Rechte stark macht.
+firefox-new-download-mozilla-firefox = Hol dir { -brand-name-mozilla } { -brand-name-firefox }, den kostenlosen Browser für { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } und { -brand-name-ios }. { -brand-name-firefox } wird von { -brand-name-mozilla } entwickelt – der Non-Profit-Organisation, die sich für deine Online-Rechte stark macht.
 firefox-new-download-the-fastest-firefox = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten herunterladen
 firefox-new-faster-page-loading-less-memory = Der neue { -brand-name-firefox }: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
 firefox-new-automatic-privacy-is-here = Hier gibt es automatische Privatsphäre. Lade { -brand-name-firefox } herunter, um über 2&thinsp;000 Tracker zu blockieren.
 firefox-new-get-the-latest-firefox = Hol dir den neuesten { -brand-name-firefox } Browser.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } zeigt an, wie viele Datenerfassungs-Tracker durch den <strong>verbesserten Schutz vor Aktivitätenverfolgung</strong> blockiert werden.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> hat deine gespeicherten Passwörter immer und auf allen deinen Geräten für dich parat und schützt sie.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> hat deine in { -brand-name-firefox } gespeicherten Passwörter immer und auf allen deinen Geräten für dich parat und schützt sie.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> warnt dich, wenn wir wissen, dass deine Daten vom Datenleck eines anderen Unternehmens betroffen sind.
 firefox-new-join-firefox = Komm zu { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> hat deine gespeicherten Passwörter immer und auf allen deinen Geräten für dich parat.
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> hat deine in { -brand-name-firefox } gespeicherten Passwörter immer und auf allen deinen Geräten für dich parat.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-firefox } <br>für { -brand-name-windows } herunterladen
 firefox-new-download-firefox-for-macos = { -brand-name-firefox } <br>für { -brand-name-mac } herunterladen

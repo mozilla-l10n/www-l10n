@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } herunterladen
-navigation-get-a-firefox-account = Firefox-Konto erstellen
+navigation-get-a-firefox-account = Hol Dir ein { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } für Desktop
 navigation-get-the-browser-that-respects = Hol dir den Browser, der deine Privatsphäre ganz automatisch respektiert. Für { -brand-name-windows }, { -brand-name-mac } oder { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } für Mobilgeräte
@@ -28,14 +28,14 @@ navigation-the-non-profit-behind = Die Non-Profit-Organisation hinter { -brand-n
 navigation-learn-how-firefox-treats = So behandelt { -brand-name-firefox } deine Daten mit Respekt.
 navigation-mozilla-careers = Karriere bei { -brand-name-mozilla }
 navigation-approach-your-career = Gehe deine Karriere zielstrebig an. Finde wertvolle Arbeit bei { -brand-name-mozilla }.
-navigation-close-firefox-menu = Menüpunkt schließen
-navigation-get-the-browser-that-gives = Der Desktop-Browser, der unter { -brand-name-windows }, MacOS oder { -brand-name-linux } mehr leistet.
-navigation-take-firefox-and-firefox = Unterwegs mit { -brand-name-firefox } und { -brand-name-firefox } Klar – für { -brand-name-android } und { -brand-name-ios }.
+navigation-close-firefox-menu = { -brand-name-firefox }-Menü schließen
+navigation-get-the-browser-that-gives = Der Desktop-Browser, der unter { -brand-name-windows }, { -brand-name-mac } oder { -brand-name-linux } mehr leistet.
+navigation-take-firefox-and-firefox = Unterwegs mit { -brand-name-firefox } und { -brand-name-firefox-focus } – für { -brand-name-android } und { -brand-name-ios }.
 navigation-get-firefox = Hol dir { -brand-name-firefox }
-navigation-get-firefox-focus = Hol dir Firefox Klar
+navigation-get-firefox-focus = Hol dir { -brand-name-firefox-focus }
 navigation-android-extensions = Add-ons für { -brand-name-android }
-navigation-your-firefox-account = Dein Firefox-Konto
-navigation-make-the-most-of-your = Hol das Beste aus deinem Browser heraus – auf jedem Gerät.
+navigation-your-firefox-account = Dein { -brand-name-firefox-account }
+navigation-make-the-most-of-your = Hol das Beste aus deinem { -brand-name-firefox } heraus – auf jedem Gerät.
 navigation-learn-how-to-customize = So kannst du { -brand-name-firefox } an deine Bedürfnisse anpassen.
 navigation-experience-augmented = Tauche mit { -brand-name-firefox } in die virtuelle und erweiterte Realität ein.
 navigation-meet-people-in-experimental = Leute treffen – in experimentellen Mixed Reality Chatrooms mit { -brand-name-firefox }.
