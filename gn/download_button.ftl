@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android } peg̃uarã
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } peg̃uarã
 download-button-firefox-privacy = { -brand-name-firefox } mba'eñemi
+download-button-firefox-privacy-notice = { -brand-name-firefox } Marandu’i Ñemigua
 download-button-download = Mboguejy

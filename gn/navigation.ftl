@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Emboguejy { -brand-name-firefox }
-navigation-get-a-firefox-account = Eguereko Firefox mba’ete
-navigation-firefox-browser-for-desktop = Firefox kundahára mesa ári g̃uarã
+navigation-get-a-firefox-account = Eguereko { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } mesa arigua
 navigation-get-the-browser-that-respects = Eguereko kundaha omomba’éva ne ñemigua ijehegui. { -brand-name-windows }, { -brand-name-mac } térã { -brand-name-linux }-pe.
-navigation-firefox-browser-for-mobile = Firefox kundahára pumbyrýpe g̃uarã
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pumbyrygua
 navigation-take-speed-privacy-and = Egueraha ipya’éva, ñenigua ha py’aguapy nendive. { -brand-name-android } ha { -brand-name-ios }-pe.
 navigation-download-for-ios = Emboguejy { -brand-name-ios } peg̃uarã
 navigation-download-for-android = Emboguejy { -brand-name-android } peg̃uarã
 navigation-ios-support = { -brand-name-ios } Pytyvõha
 navigation-android-support = { -brand-name-android } Pytyvõha
-navigation-firefox-browser-for-enterprise = Firefox kundahára mba'apohaguasúpe g̃uarã
-navigation-strap-on-your-goggles = Emoĩ tesamo’ãha ha eike ñanduti ñapymigua Firefox kundaha ndive ñandutigua rechahápe g̃uarã.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } mba’apohaguasugua
+navigation-strap-on-your-goggles = Emoĩ tesamo’ãha ha eike ñanduti ñapymigua { -brand-name-firefox-browser } ndive VR rupive.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv } peg̃uarã
 navigation-watch-videos-and-browse = Ehecha ta’angamýi ha eikundaha ñandutípe ne { -brand-name-amazon } { -brand-name-fire-tv } rupive.
 navigation-firefox-browsers-put = { -brand-name-firefox } kundahára omotenonde tekorosã, ha opa ára ojapo.
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Egueraha { -brand-name-firefox } ha { -bra
 navigation-get-firefox = Eguerekóke { -brand-name-firefox }
 navigation-get-firefox-focus = Eguerekóke { -brand-name-firefox-focus }
 navigation-android-extensions = Jepysokue { -brand-name-android } peg̃uarã
-navigation-your-firefox-account = Ne mba'ete Firefox pegua
+navigation-your-firefox-account = Nde { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Ehecharamóke tuichaháicha nde jehasakue { -brand-name-firefox } ndive opaite mba’e’okápe.
 navigation-learn-how-to-customize = Eikuaáke mba’éichapa omba’apo { -brand-name-firefox }.
 navigation-experience-augmented = Ehechakuaa pe oikóva tuichapyre ha ñandutiguáva { -brand-name-firefox } ndive.
