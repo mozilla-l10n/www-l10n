@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Ñekundaha
 footer-websites-cookies = Kookie
 footer-websites-legal = Añetegua
 footer-language = Ñe'ẽ
+footer-go = Ho
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
