@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Hämta { -brand-name-firefox }
-navigation-get-a-firefox-account = Skapa ett Firefox-konto
+navigation-get-a-firefox-account = Skapa ett { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } för datorer
 navigation-get-the-browser-that-respects = Hämta webbläsaren som respekterar din integritet automatiskt. För { -brand-name-windows }, { -brand-name-mac } eller { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } för mobiler
@@ -29,12 +29,12 @@ navigation-learn-how-firefox-treats = Lär dig hur { -brand-name-firefox } behan
 navigation-mozilla-careers = Karriär hos { -brand-name-mozilla }
 navigation-approach-your-career = Närma din karriär med en känsla av syfte. Hitta värdefullt arbete på { -brand-name-mozilla }.
 navigation-close-firefox-menu = Stäng meny { -brand-name-firefox }
-navigation-get-the-browser-that-gives = Hämta webbläsaren som ger dig mer kraft på { -brand-name-windows }, MacOS eller { -brand-name-linux }.
+navigation-get-the-browser-that-gives = Hämta webbläsaren som ger dig mer kraft på { -brand-name-windows }, { -brand-name-mac } eller { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Ta { -brand-name-firefox } och { -brand-name-firefox-focus } med dig. För { -brand-name-android } och { -brand-name-ios }.
 navigation-get-firefox = Hämta { -brand-name-firefox }
 navigation-get-firefox-focus = Hämta { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-utökningar
-navigation-your-firefox-account = Ditt Firefox-konto
+navigation-your-firefox-account = Ditt { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Få ut det mest möjliga av din { -brand-name-firefox }-upplevelse, på alla enheter.
 navigation-learn-how-to-customize = Lär dig hur du kan anpassa { -brand-name-firefox }.
 navigation-experience-augmented = Upplev förstärkt och virtuell verklighet med { -brand-name-firefox }.

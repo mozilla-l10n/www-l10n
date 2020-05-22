@@ -36,5 +36,6 @@ download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</s
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> för { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> för { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> för { -brand-name-ios }
-download-button-firefox-privacy = Sekretess { -brand-name-firefox }
+download-button-firefox-privacy = { -brand-name-firefox } sekretess
+download-button-firefox-privacy-notice = { -brand-name-firefox }sekretesspolicy
 download-button-download = Hämta
