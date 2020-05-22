@@ -32,7 +32,7 @@ firefox-all-the-standard-firefox = Standard { -brand-name-firefox }-webbläsare 
 firefox-all-get-a-sneak-peek-at = Ta en smygtitt på de senaste { -brand-name-firefox }-webbläsarfunktionerna innan de släpps.
 firefox-all-test-your-sites-against = Testa dina webbplatser mot snart utgivna { -brand-name-firefox }-webbläsarfunktioner med kraftfulla, flexibla DevTools som är aktiverade som standard.
 firefox-all-count-on-stability-and = Räkna med stabilitet och användarvänlighet med denna { -brand-name-firefox }-webbläsare byggd för företag.
-firefox-all-windows-installers-for = Windows installerare för företags IT miljöer som förenklar konfigurationen, distributionen och hanteringen av Firefox webbläsaren.
+firefox-all-windows-installers-for = Windows installerare för företags IT miljöer som förenklar konfigurationen, distributionen och hanteringen av { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Välj ett 32-bitars installationsprogram för datorer med 32-bitars processorer - eller för äldre eller mindre kraftfulla datorer. <a href="{ $url }">Om du inte är säker</a> om du vill välja ett 64-bitars eller 32-bitars installationsprogram rekommenderar vi att du väljer 32-bitars.

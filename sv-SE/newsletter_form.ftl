@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Ange en giltig e-postadress.
+newsletter-form-you-must-agree-to = Du måste godkänna sekretesspolicyn.
+newsletter-form-your-email-address = Din e-postadress
 newsletter-form-your-email-here = Skriv din e-postadress här
 newsletter-form-format = Format
 newsletter-form-html = HTML
