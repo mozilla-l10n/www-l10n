@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64-битна инсталација
 firefox-all-choose-a-64-bit-installer = Изаберите 64-битни инсталациони програм за рачунаре с 64-битним процесорима, који омогућавају доделу више меморије појединим програмима — посебно важно за игре или друге захтевне апликације.
 firefox-all-32-bit-installers = 32-битна инсталација
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Преузмите Firefox прегледач на српском и више од 90 других језика
+firefox-all-download-the-firefox = Преузмите { -brand-name-firefox-browser } на српском и више од 90 других језика
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Сви заслужују приступ интернету, а ваш језик никада не би требао бити препрека. Зато је уз помоћ преданих волонтера из целог света, Firefox прегледач је доступан на више од 90 језика.
-firefox-all-choose-which-firefox = Изаберите језичку верзију Firefox прегледача коју желите да преузмете
+firefox-all-everyone-deserves-access = Сви заслужују приступ интернету, а ваш језик никада не би требао бити препрека. Зато је уз помоћ преданих волонтера из целог света, { -brand-name-firefox-browser } је доступан на више од 90 језика.
+firefox-all-choose-which-firefox = Изаберите { -brand-name-firefox-browser } верзију коју желите да преузмете на свом језику
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } политика приватности
 firefox-all-learn-about-firefox = Сазнајте више о { -brand-name-firefox } прегледачима
 firefox-all-the-standard-firefox = Стандардни { -brand-name-firefox } прегледач — брз и приватан. Ако нисте сигурни који { -brand-name-firefox } да изаберете, онда изаберите овај.
 firefox-all-get-a-sneak-peek-at = Завирите у најновије функције { -brand-name-firefox } прегледача пре него што буду објављене.
 firefox-all-test-your-sites-against = Тестирајте ваше странице на надолазаће функције { -brand-name-firefox } прегледача његовим моћним и флексибилним програмерским алаткама (DevTools), које су подразумевано активиране.
 firefox-all-count-on-stability-and = Можете да рачунате на стабилност и једноставност коришћења уз { -brand-name-firefox } прегледач намењеног предузећима.
-firefox-all-windows-installers-for = Windows инсталациони програми за корпоративна IT одељења који поједностављују конфигурацију, употребу и управљање Firefox прегледачем.
+firefox-all-windows-installers-for = Windows инсталациони програми за корпоративна IT одељења који поједностављују конфигурацију, употребу и управљање { -brand-name-firefox-browser } прегледачем.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Изаберите 32-битни инсталациони програм за рачунаре с 32-битним процесорима — или за старије или слабије рачунаре. <a href="{ $url }">Ако нисте сигурни</a> да ли да изаберете 64-битну и 32-битну, препоручујемо да ипак преузмете 32-битну инсталацију.
