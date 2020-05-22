@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64-розрядні інсталятори
 firefox-all-choose-a-64-bit-installer = Оберіть 64-бітну версію для комп'ютерів з 64-розрядними процесорами, що дозволяють їм резервувати більше оперативної пам'яті для окремих програм — особливо важливо для ігор та вимогливих програм.
 firefox-all-32-bit-installers = 32-розрядні інсталятори
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Завантажте браузер Firefox англійською (США) та понад 90 іншими мовами
+firefox-all-download-the-firefox = Завантажте { -brand-name-firefox-browser } англійською (США) та понад 90 іншими мовами
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Кожен заслуговує доступу до інтернету — ваша мова ніколи не повинна бути обмеженням. Ось чому завдяки допомозі відданих волонтерів у всьому світі ми зробили браузер Firefox доступним понад 90 мовами.
-firefox-all-choose-which-firefox = Оберіть і завантажте браузер Firefox вашою мовою
+firefox-all-everyone-deserves-access = Кожен заслуговує доступу до інтернету — ваша мова ніколи не повинна бути обмеженням. Ось чому завдяки допомозі відданих волонтерів у всьому світі ми зробили { -brand-name-firefox-browser } доступним понад 90 мовами.
+firefox-all-choose-which-firefox = Оберіть і завантажте { -brand-name-firefox-browser } вашою мовою
 firefox-all-firefox-privacy-notice = Повідомлення про приватність { -brand-name-firefox }
 firefox-all-learn-about-firefox = Дізнайтеся про браузери { -brand-name-firefox }
 firefox-all-the-standard-firefox = Стандартний браузер { -brand-name-firefox } — швидкий і приватний. Якщо ви не впевнені, який { -brand-name-firefox } вибрати, оберіть цей.
 firefox-all-get-a-sneak-peek-at = Ознайомтеся з новими функціями браузера { -brand-name-firefox }, перш ніж вони будуть випущені.
 firefox-all-test-your-sites-against = Тестуйте свої сайти на сумісність з функціями браузера { -brand-name-firefox }, які стануть доступними в його наступних версіях, за допомогою інтегрованих потужних та гнучких інструментів розробника.
 firefox-all-count-on-stability-and = Розраховуйте на стабільність та простоту версії { -brand-name-firefox } для корпоративного користування.
-firefox-all-windows-installers-for = Інсталятори Windows для корпоративних ІТ, що спрощують конфігурацію, розгортання та управління браузером Firefox.
+firefox-all-windows-installers-for = Інсталятори Windows для корпоративних ІТ, що спрощують конфігурацію, розгортання та управління { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Оберіть 32-бітну версію для комп'ютерів з 32-розрядними процесорами, або для старіших, не таких потужних комп'ютерів. <a href="{ $url }">Якщо ви не впевнені</a>, яку версію обрати, ми рекомендуємо 32-бітну версію.
