@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Преузмите { -brand-name-firefox }
-navigation-get-a-firefox-account = Направите Firefox налог
+navigation-get-a-firefox-account = Направите { -brand-name-firefox-account }
 navigation-ios-support = { -brand-name-ios } подршка
-navigation-android-support = Андроид подршка
+navigation-android-support = { -brand-name-android } подршка
 navigation-firefox-for-fire-tv = { -brand-name-firefox } за { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Гледајте видео записе и сурфајте интернетом путем { -brand-name-amazon } { -brand-name-fire-tv }-а.
 navigation-close-firefox-menu = Затвори { -brand-name-firefox } мени
 navigation-get-the-browser-that-gives = Преузмите моћни прегледач за { -brand-name-windows }, { -brand-name-mac } или { -brand-name-linux }.
-navigation-take-firefox-and-firefox = Понесите { -brand-name-firefox } и { -brand-name-firefox-focus } са собом. За Андроид и { -brand-name-ios }.
+navigation-take-firefox-and-firefox = Понесите { -brand-name-firefox } и { -brand-name-firefox-focus } са собом. За { -brand-name-android } и { -brand-name-ios }.
 navigation-get-firefox = Преузмите { -brand-name-firefox }
 navigation-get-firefox-focus = Преузмите { -brand-name-firefox-focus }
-navigation-android-extensions = Проширења за Андроид
-navigation-your-firefox-account = Ваш Firefox налог
+navigation-android-extensions = { -brand-name-android } проширења
+navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Извуците максимум из вашег { -brand-name-firefox } доживљаја на било ком уређају.
 navigation-learn-how-to-customize = Сазнајте како прилагодити { -brand-name-firefox }.
 navigation-experience-augmented = Доживите проширене и виртуалне стварности уз { -brand-name-firefox }.
