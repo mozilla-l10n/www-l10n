@@ -16,7 +16,7 @@ newsletter-form-get-firefox-news = { -brand-name-firefox } hírek
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Elfogadom, hogy a { -brand-name-mozilla } az <a href="{ $url }">adatvédelmi nyilatkozatnak</a> megfelelően kezelje az adataimat
-newsletter-form-we-will-only-send = Csak a Mozillával kapcsolatos információt fogunk küldeni.
+newsletter-form-we-will-only-send = Csak a { -brand-name-mozilla } szervezettel kapcsolatos információt fogunk küldeni.
 newsletter-form-if-you-havent-previously = Ha korábban nem erősítette meg a Mozillához kapcsolódó hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
 newsletter-form-available-languages = Elérhető nyelvek
 newsletter-form-select-country = Válasszon országot
