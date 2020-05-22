@@ -46,6 +46,7 @@ footer-websites-privacy-notice = 隐私
 footer-websites-cookies = Cookie
 footer-websites-legal = 法律
 footer-language = 语言
+footer-go = 前往
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

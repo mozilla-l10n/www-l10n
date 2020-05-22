@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = 从 { -brand-name-chrome } 等其
 switch-select-what-to-take = 选择从 { -brand-name-chrome } 导入哪些信息。
 switch-let-firefox-do-the-rest = 剩下就交给 { -brand-name-firefox }。
 switch-use-firefox-and-still-chrome = 迁移数据到 { -brand-name-firefox } 后，电脑上的 { -brand-name-chrome } 仍会原原本本存在。
+switch-spread-the-word = 向身边人宣传推广 { -brand-name-firefox }，让更多人对 { -brand-name-chrome } 说再见。
 switch-share-with-your-friends = 跟朋友分享迁移到 { -brand-name-firefox } 的体验吧
 switch-firefox-makes-switching-fast-tweet = 🔥 感觉 { -brand-name-firefox } 蛮好用的，从 { -brand-name-chrome } 迁移到 { -brand-name-firefox } 也超级简单。推荐大家试试！
 switch-switch-to-firefox = 试试 { -brand-name-firefox } 吧

@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = 请输入有效的电子邮件地址
+newsletter-form-you-must-agree-to = 您必须同意隐私声明
+newsletter-form-your-email-address = 您的电子邮件地址
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = 选择国家或地区
 newsletter-form-your-email-here = 在这里输入您的电子邮件地址
 newsletter-form-format = 格式
 newsletter-form-html = HTML
