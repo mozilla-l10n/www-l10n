@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Přechod na { -brand-name-firefox
 switch-select-what-to-take = Vyberte, co si chcete z { -brand-name-chrome(case: "gen") } odnést.
 switch-let-firefox-do-the-rest = Nechte { -brand-name-firefox(case: "acc") } udělat zbytek.
 switch-use-firefox-and-still-chrome = Můžete používat { -brand-name-firefox(case: "acc") } i { -brand-name-chrome(case: "acc") }. Vašeho nastavení { -brand-name-chrome(case: "gen") } se ani nedotkneme.
+switch-spread-the-word = Propagujte { -brand-name-firefox(case: "acc") } a pomozte svým přátelům rozloučit se s { -brand-name-chrome(case: "ins") }.
 switch-share-with-your-friends = Podělte se se svými přáteli, jak jste přešli na { -brand-name-firefox(case: "acc") }
 switch-firefox-makes-switching-fast-tweet = 🔥 Přejít z { -brand-name-chrome(case: "gen") } na { -brand-name-firefox(case: "acc") } je fakt rychlé! Zkuste to!
 switch-switch-to-firefox = Přejdi taky na { -brand-name-firefox(case: "acc") }
