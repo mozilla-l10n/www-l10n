@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Lütfen geçerli bir e-posta adresi yazın
+newsletter-form-you-must-agree-to = Gizlilik bildirimini kabul etmelisiniz
+newsletter-form-your-email-address = E-posta adresiniz
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = kullanici@example.com
+newsletter-form-select-country-or-region = Ülkenizi seçin
 newsletter-form-your-email-here = E-POSTA ADRESİNİZ
 newsletter-form-format = Biçim
 newsletter-form-html = HTML
