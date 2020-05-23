@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Skriv inn en gyldig e-postadresse
+newsletter-form-you-must-agree-to = Du må godta personvernbestemmelsen
 newsletter-form-your-email-address = Din e-postadresse
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = dittnavn@eksempel.no
