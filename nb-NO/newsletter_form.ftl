@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Skriv inn en gyldig e-postadresse
+newsletter-form-your-email-address = Din e-postadresse
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = dittnavn@eksempel.no
+newsletter-form-select-country-or-region = Velg land eller region
 newsletter-form-your-email-here = DIN EPOSTADRESSE HER
 newsletter-form-format = Format
 newsletter-form-html = HTML
