@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -20,12 +22,42 @@
 
 ## Firefox browsers
 
--brand-name-firefox = Firefox
+-brand-name-firefox =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefoxu
+        [dat] Firefoxu
+        [acc] Firefox
+        [voc] Firefoxe
+        [loc] Firefoxu
+        [ins] Firefoxem
+    }
+    .gender = masculine
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
 -brand-name-firefox-developer-edition = Firefox Developer Edition
--brand-name-firefox-enterprise = Firefox Enterprise
--brand-name-firefox-esr = Firefox ESR
+-brand-name-firefox-enterprise =
+    { $case ->
+       *[nom] Firefox pro firmy
+        [gen] Firefoxu pro firmy
+        [dat] Firefoxu pro firmy
+        [acc] Firefox pro firmy
+        [voc] Firefoxe pro firmy
+        [loc] Firefoxu pro firmy
+        [ins] Firefoxem pro firmy
+    }
+    .gender = masculine
+-brand-name-firefox-esr =
+    { $case ->
+       *[nom] Firefox ESR
+        [gen] Firefoxu ESR
+        [dat] Firefoxu ESR
+        [acc] Firefox ESR
+        [voc] Firefoxe ESR
+        [loc] Firefoxu ESR
+        [ins] Firefoxem ESR
+    }
+    .gender = masculine
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
 -brand-name-firefox-lite = Firefox Lite
@@ -49,18 +81,68 @@
 
 ## Firefox products
 
--brand-name-facebook-container = Facebook Container
+-brand-name-facebook-container =
+    { $case ->
+       *[nom] Facebook Container
+        [gen] Facebook Containeru
+        [dat] Facebook Containeru
+        [acc] Facebook Container
+        [voc] Facebook Containere
+        [loc] Facebook Containeru
+        [ins] Facebook Containerem
+    }
+    .gender = masculine
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-monitor = Firefox Monitor
+-brand-name-firefox-lockwise =
+    { $case ->
+       *[nom] Firefox Lockwise
+        [gen] Firefoxu Lockwise
+        [dat] Firefoxu Lockwise
+        [acc] Firefox Lockwise
+        [voc] Firefoxe Lockwise
+        [loc] Firefoxu Lockwise
+        [ins] Firefoxem Lockwise
+    }
+    .gender = masculine
+-brand-name-firefox-monitor =
+    { $case ->
+       *[nom] Firefox Monitor
+        [gen] Firefox Monitoru
+        [dat] Firefox Monitoru
+        [acc] Firefox Monitor
+        [voc] Firefox Monitore
+        [loc] Firefox Monitoru
+        [ins] Firefox Monitorem
+    }
+    .gender = masculine
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
+-brand-name-lockwise =
+    { $case ->
+       *[nom] Lockwise
+        [gen] Lockwisu
+        [dat] Lockwisu
+        [acc] Lockwise
+        [voc] Lockwise
+        [loc] Lockwisu
+        [ins] Lockwisem
+    }
+    .gender = masculine
+-brand-name-monitor =
+    { $case ->
+       *[nom] Monitor
+        [gen] Monitoru
+        [dat] Monitoru
+        [acc] Monitor
+        [voc] Monitore
+        [loc] Monitoru
+        [ins] Monitorem
+    }
+    .gender = masculine
 -brand-name-send = Send
 -brand-name-sync = Sync
 
