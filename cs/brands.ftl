@@ -15,7 +15,17 @@
 -brand-name-facebook = Facebook
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
--brand-name-mozilla = Mozilla
+-brand-name-mozilla =
+    { $case ->
+       *[nom] Mozilla
+        [gen] Mozilly
+        [dat] Mozille
+        [acc] Mozillu
+        [voc] Mozillo
+        [loc] Mozille
+        [ins] Mozillou
+    }
+    .gender = feminine
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-twitter = Twitter
@@ -34,7 +44,44 @@
     }
     .gender = masculine
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Prohlížeč Firefox
+                [lower] prohlížeč Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Prohlížeče Firefox
+                [lower] prohlížeče Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Prohlížeči Firefox
+                [lower] prohlížeči Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Prohlížeč Firefox
+                [lower] prohlížeč Firefox
+            }
+        [voc]
+            { $capitalization ->
+               *[upper] Prohlížeči Firefox
+                [lower] prohlížeči Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Prohlížeči Firefox
+                [lower] prohlížeči Firefox
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Prohlížečem Firefox
+                [lower] prohlížečem Firefox
+            }
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise =
     { $case ->
@@ -92,8 +139,82 @@
         [ins] Facebook Containerem
     }
     .gender = masculine
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-account =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Účet Firefoxu
+                [lower] účet Firefoxu
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Účtu Firefoxu
+                [lower] účtu Firefoxu
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Účtu Firefoxu
+                [lower] účtu Firefoxu
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Účet Firefoxu
+                [lower] účet Firefoxu
+            }
+        [voc]
+            { $capitalization ->
+               *[upper] Účte Firefoxu
+                [lower] účte Firefoxu
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Účtu Firefoxu
+                [lower] účtu Firefoxu
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Účtem Firefoxu
+                [lower] účtem Firefoxu
+            }
+    }
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Účet Firefoxu
+                [lower] účet Firefoxu
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Účtu Firefoxu
+                [lower] účtu Firefoxu
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Účtu Firefoxu
+                [lower] účtu Firefoxu
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Účet Firefoxu
+                [lower] účet Firefoxu
+            }
+        [voc]
+            { $capitalization ->
+               *[upper] Účte Firefoxu
+                [lower] účte Firefoxu
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Účtu Firefoxu
+                [lower] účtu Firefoxu
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Účtem Firefoxu
+                [lower] účtem Firefoxu
+            }
+    }
 -brand-name-firefox-lockwise =
     { $case ->
        *[nom] Firefox Lockwise
@@ -116,8 +237,27 @@
         [ins] Firefox Monitorem
     }
     .gender = masculine
--brand-name-firefox-send = Firefox Send
--brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-send =
+    { $case ->
+       *[nom] Firefox Send
+        [gen] Firefoxu Send
+        [dat] Firefoxu Send
+        [acc] Firefox Send
+        [voc] Firefoxe Send
+        [loc] Firefoxu Send
+        [ins] Firefoxem Send
+    }
+    .gender = masculine
+-brand-name-firefox-sync =
+    { $case ->
+       *[nom] Firefox Sync
+        [gen] Firefox Syncu
+        [dat] Firefox Syncu
+        [acc] Firefox Sync
+        [voc] Firefox Syncu
+        [loc] Firefox Syncu
+        [ins] Firefox Syncem
+    }
 
 ## Firefox products (short names)
 
@@ -144,11 +284,30 @@
     }
     .gender = masculine
 -brand-name-send = Send
--brand-name-sync = Sync
+-brand-name-sync =
+    { $case ->
+       *[nom] Sync
+        [gen] Syncu
+        [dat] Syncu
+        [acc] Sync
+        [voc] Syncu
+        [loc] Syncu
+        [ins] Syncem
+    }
 
 ## Pocket
 
--brand-name-pocket = Pocket
+-brand-name-pocket =
+    { $case ->
+       *[nom] Pocket
+        [gen] Pocketu
+        [dat] Pocketu
+        [acc] Pocket
+        [voc] Pocket
+        [loc] Pocketu
+        [ins] Pocketem
+    }
+    .gender = masculine
 
 ## Mozilla projects
 

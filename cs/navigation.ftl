@@ -4,9 +4,9 @@
 
 navigation-download-firefox = Stáhnout { -brand-name-firefox }
 navigation-get-a-firefox-account = Vytvořte si účet Firefoxu
-navigation-firefox-browser-for-desktop = Prohlížeč Firefox pro počítače
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(capitalization: "upper") } pro počítače
 navigation-get-the-browser-that-respects = Používejte prohlížeč, který respektuje vaše soukromí. Dostupný pro { -brand-name-windows }, { -brand-name-mac } i { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Prohlížeč Firefox pro mobily
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(capitalization: "upper") } pro mobily
 navigation-take-speed-privacy-and = Vezměte si rychlost, soukromí a klid mysli s sebou. V systému { -brand-name-android } a { -brand-name-ios }.
 navigation-download-for-ios = Stáhnout pro { -brand-name-ios }
 navigation-download-for-android = Stáhnout pro { -brand-name-android }
