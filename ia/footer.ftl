@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Aviso de confidentialitate del sito web
 footer-websites-cookies = Cookies
 footer-websites-legal = Legal
 footer-language = Lingua
+footer-go = Ir
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
