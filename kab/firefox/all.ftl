@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = Imsebdaden 32 n yibiten
 firefox-all-download-the-firefox = Sader iminig Firefox s Teqbaylit (Tamurt n Yiqbayliyen) akked wugar n 90 n tutlayin-nniḍen
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Meṛṛa imdanen uklalen ad kecmen ɣer Internet — ur issefka ara ad tili tutlayt-ik d aɛewwiq. Ɣef waya, s tallelt n yiwiziwen deg umaḍal meṛṛa, iminig Firefox yella deg wugar n 90 n tutlayin.
-firefox-all-choose-which-firefox = Fren anwa iminig Firefox i tebɣiḍ ad tessadreḍ deg tutlayt-ik
+firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } ara d-tsidreḍ deg tutlayt-ik
 firefox-all-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lmed ugar ɣef yiminigen { -brand-name-firefox }
 firefox-all-the-standard-firefox = Iminig n tziɣet { -brand-name-firefox } — d arurad u diɣ d aɣelsan. Ma yella ur tessineḍ ara ad tferneḍ, awi wagi.
