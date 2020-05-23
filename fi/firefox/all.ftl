@@ -22,10 +22,10 @@ firefox-all-64-bit-installers = 64-bittiset asennusohjelmat
 firefox-all-choose-a-64-bit-installer = Valitse 64-bittinen asennusohjelma tietokoneelle, jossa on 64-bittinen prosessori, jonka avulla se voi jakaa enemmän keskusmuistia yksittäiselle ohjelmalle – erityisen tärkeää peleille ja muille tehoa vaativille sovelluksille.
 firefox-all-32-bit-installers = 32-bittiset asennusohjelmat
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Lataa Firefox-selain englanniksi (USA) tai yli 90 muulla kielellä
+firefox-all-download-the-firefox = Lataa { -brand-name-firefox-browser } englanniksi (USA) tai yli 90 muulla kielellä
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Kaikki ansaitsevat pääsyn Internetiin - kielesi ei tulisi koskaan olla este. Siksi tarjoamme yhdessä maailmanlaajuisen, sitoutuneen avustajayhteisömme kanssa Firefox-selaimen saataville yli 90 kielellä.
-firefox-all-choose-which-firefox = Valitse haluamasi Firefox-selain haluamallasi kielellä
+firefox-all-choose-which-firefox = Valitse haluamasi { -brand-name-firefox-browser } haluamallasi kielellä
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }in tietosuojaseloste
 firefox-all-learn-about-firefox = Lue lisää { -brand-name-firefox }-selaimista
 firefox-all-the-standard-firefox = Tavallinen { -brand-name-firefox }-selain - nopea ja yksityinen. Jos et ole varma, minkä { -brand-name-firefox }in valitset, valitse tämä.

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Lataa { -brand-name-firefox }
-navigation-get-a-firefox-account = Hanki Firefox-tili
+navigation-get-a-firefox-account = Hanki { -brand-name-firefox-account }
 navigation-download-for-ios = Lataa { -brand-name-ios }:ille
 navigation-download-for-android = Lataa { -brand-name-android }ille
 navigation-ios-support = { -brand-name-ios }-tuki
@@ -17,7 +17,7 @@ navigation-take-firefox-and-firefox = Ota { -brand-name-firefox } ja { -brand-na
 navigation-get-firefox = Lataa { -brand-name-firefox }
 navigation-get-firefox-focus = Lataa { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-laajennukset
-navigation-your-firefox-account = Firefox-tilisi
+navigation-your-firefox-account = Oma { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Ota kaikki irti { -brand-name-firefox }-kokemuksestasi, jokaisella laitteella.
 navigation-learn-how-to-customize = Opi, kuinka voit muokata { -brand-name-firefox }in toimintaa.
 navigation-experience-augmented = Koe laajennettu ja virtuaalinen todellisuus { -brand-name-firefox }in avulla.
