@@ -17,7 +17,7 @@ download-button-recommended = Doporučeno
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } už nevydává bezpečnostní aktualizace { -brand-name-firefox }u pro { -brand-name-windows } { -brand-name-xp } a { -brand-name-vista }</a>, nicméně níže si stále můžete stáhnout finální verzi pro 32-bitové { -brand-name-windows }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Pro instalaci { -brand-name-firefox }u prosím <a href="{ $url }">postupujte podle těchto pokynů</a>.
+download-button-please-follow-these = Pro instalaci { -brand-name-firefox(case: "gen") } prosím <a href="{ $url }">postupujte podle těchto pokynů</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Váš systém nesplňuje <a href="{ $url }">požadavky</a> pro běh { -brand-name-firefox }u.

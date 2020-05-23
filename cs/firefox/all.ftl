@@ -30,7 +30,7 @@ firefox-all-firefox-privacy-notice = Zásady ochrany osobních údajů
 firefox-all-learn-about-firefox = Bližší informace o prohlížečích { -brand-name-firefox }
 firefox-all-the-standard-firefox = Běžný prohlížeč { -brand-name-firefox }. Je rychlý a zaměřený na soukromí. Pokud si nejste jisti, který { -brand-name-firefox } vybrat, zvolte tento.
 firefox-all-get-a-sneak-peek-at = Prohlédněte si nejnovější funkce prohlížeče { -brand-name-firefox } před vydáním jeho finální verze.
-firefox-all-test-your-sites-against = Otestujte své stránky s ohledem na připravované nové funkce prohlížeče { -brand-name-firefox } pomocí výkonných a flexibilních nástrojů pro vývojáře, které jsou ve výchozím nastavení zapnuté.
+firefox-all-test-your-sites-against = Otestujte své stránky s ohledem na připravované nové funkce { -brand-name-firefox(case: "gen") } pomocí výkonných a flexibilních nástrojů pro vývojáře, které jsou ve výchozím nastavení zapnuté.
 firefox-all-count-on-stability-and = Spolehněte se na stabilitu a snadné používání tohoto prohlížeče { -brand-name-firefox } vytvořeného pro firmy.
 firefox-all-windows-installers-for = Instalátory systému Windows pro podnikové IT, které zjednodušují konfiguraci, nasazení a správu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
 # Variables:
