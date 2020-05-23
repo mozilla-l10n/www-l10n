@@ -14,7 +14,7 @@ download-button-systems-languages = Sistemler ve diller
 download-button-recommended = Önerilen
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri yayımlamıyor</a> ama son çıkan { -brand-name-windows } 32 bit sürümünü aşağıdan indirebilirsiniz.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için { -brand-name-firefox } güvenlik güncellemeleri yayımlamıyor</a> ama son çıkan { -brand-name-windows } 32 bit sürümünü aşağıdan indirebilirsiniz.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox }’u yüklemek için lütfen <a href="{ $url }">bu yönergeleri</a> izle.
@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = { -brand-name-android } için <span>{ 
 download-button-firefox-android = { -brand-name-android } için <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } için <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox }’ta gizlilik
+download-button-firefox-privacy-notice = { -brand-name-firefox } Gizlilik Bildirimi
 download-button-download = İndir

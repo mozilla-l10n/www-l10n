@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox }’u indir
-navigation-get-a-firefox-account = Firefox Hesabı açın
+navigation-get-a-firefox-account = { -brand-name-firefox-account } açın
 navigation-firefox-browser-for-desktop = Bilgisayarlar için { -brand-name-firefox-browser }
 navigation-get-the-browser-that-respects = Gizliliğinize siz istemeden saygı gösteren tarayıcıyı kullanın. { -brand-name-windows }, { -brand-name-mac } or { -brand-name-linux }’ta.
 navigation-firefox-browser-for-mobile = Mobil Cihazlar için { -brand-name-firefox-browser }
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = { -brand-name-firefox }’u ve { -brand-na
 navigation-get-firefox = { -brand-name-firefox }’u indirin
 navigation-get-firefox-focus = { -brand-name-firefox-focus }’u indirin
 navigation-android-extensions = { -brand-name-android } eklentileri
-navigation-your-firefox-account = Firefox Hesabınız
+navigation-your-firefox-account = { -brand-name-firefox-account }nız
 navigation-make-the-most-of-your = Her cihazda { -brand-name-firefox }’tan en iyi şekilde yararlanın.
 navigation-learn-how-to-customize = { -brand-name-firefox }’unuzu kişiselleştirmeyi öğrenin.
 navigation-experience-augmented = Artırılmış ve sanal gerçekliği { -brand-name-firefox }’la yaşayın.

@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Web sitesi gizlilik bildirimi
 footer-websites-cookies = Çerezler
 footer-websites-legal = Yasal
 footer-language = Dil
+footer-go = Git
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
