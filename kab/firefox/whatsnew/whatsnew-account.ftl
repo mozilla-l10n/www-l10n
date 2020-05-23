@@ -8,4 +8,6 @@
 
 ## Required
 
+whatsnew-account-main-headline = Ur tesriḍ ara amiḍan. Maca nesḥassef ma yella ur tewwiḍ ara yiwen.
+whatsnew-account-main-lead-in = Iminig { -brand-name-firefox } ileqqeḍ drus n yisefka fell-ak armi ur nesri ara ula d imayl-ik. Maca ticki tesqedceḍ-t i tmerna { -brand-name-firefox } n umiḍan, nezmer ad nsemɣer ammesten n tudert-ik tabadnit srid.
 whatsnew-account-main-button = Kcem
