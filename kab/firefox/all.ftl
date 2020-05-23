@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = Imsebdaden 64 n yibiten
 firefox-all-choose-a-64-bit-installer = Fren amsebdad 64 n yibiten i yiselkimen s usasfar 64 n yibiten, ayen ara yeǧǧen tiḥeṛṛit n wayen ilaqen n tkatut RAM i yal ahil — d ayen ilaqen ladɣa i wuraren akked yisnasen yettlaẓen takatut.
 firefox-all-32-bit-installers = Imsebdaden 32 n yibiten
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Sader iminig Firefox s Teqbaylit (Tamurt n Yiqbayliyen) akked wugar n 90 n tutlayin-nniḍen
+firefox-all-download-the-firefox = Sider { -brand-name-firefox-browser } s teglizit (US) d wugarn 90 tutlayin-nniḍen
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Meṛṛa imdanen uklalen ad kecmen ɣer Internet — ur issefka ara ad tili tutlayt-ik d aɛewwiq. Ɣef waya, s tallelt n yiwiziwen deg umaḍal meṛṛa, iminig Firefox yella deg wugar n 90 n tutlayin.
 firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } ara d-tsidreḍ deg tutlayt-ik
