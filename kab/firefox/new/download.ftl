@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = Sider { -brand-name-firefox }
-firefox-new-download-mozilla-firefox = Sader { -brand-name-mozilla } { -brand-name-firefox }, iminig Web ilellli. { -brand-name-firefox } tesnulfat-id terbaɛt tamaḍalant ur yettnadin ara idrimen, i yesseḥbibiren akken iseqdacen ad ẓren ayen iḍerrun srid. Awi { -brand-name-firefox } i windows, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } akked { -brand-name-ios } seg ass-a!
+firefox-new-download-mozilla-firefox = Sader { -brand-name-mozilla } { -brand-name-firefox }, iminig Web ilellli. { -brand-name-firefox } tesnulfat-id terbaɛt tamaḍlant unettnadi ara ɣef tedrimt, yettwag i usenqed n yimdanen srid. Awi-d{ -brand-name-firefox } i { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } d { -brand-name-ios } ass-a!
 firefox-new-download-the-fastest-firefox = Sider lqem arurad { -brand-name-firefox }
 firefox-new-faster-page-loading-less-memory = Asali n yisebtar arurad ugar, asuder n tkatut yenɣes, d ddeqs n tmahilin, { -brand-name-firefox } amaynut yewweḍ-d.
 firefox-new-automatic-privacy-is-here = Tabaḍnit tawurmant tewweḍ-d. Sader { -brand-name-firefox } i usewḥel n wugar n 2000 n yineḍfaṛen.
