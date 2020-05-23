@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Tuɣalin ar { -brand-name-firefox
 switch-select-what-to-take = Fren ayen ara tawiḍ si { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = { -brand-name-firefox } ad yexdem ayen i d-yeggran.
 switch-use-firefox-and-still-chrome = Tzemreḍ ad tesqedceḍ { -brand-name-firefox }ɣas ma teǧǧiḍ { -brand-name-chrome }. Asebeddi n ur yettbeddil ara.
+switch-spread-the-word = Mmeslay ɣef { -brand-name-firefox } rnu mudd tallalt i yimdanen i tḥemmleḍ ad inin ar tufat i { -brand-name-chrome }.
 switch-share-with-your-friends = Bḍu d yimdukal-ik amek i ttuɣalen ar { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 D arurad nezzeh ticki teddiḍ si { -brand-name-chrome } ar { -brand-name-firefox }, yessefk ad tɛerḍeḍ !
 switch-switch-to-firefox = Beddel ɣer { -brand-name-firefox }
