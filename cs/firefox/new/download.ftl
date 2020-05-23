@@ -22,7 +22,7 @@ firefox-new-download-firefox-for-macos = Stáhnout { -brand-name-firefox(case: "
 firefox-new-download-firefox-for-linux = Stáhnout { -brand-name-firefox(case: "acc") } <br>pro { -brand-name-linux(case: "acc") }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-new-youve-already-got-the-browser = Prohlížeč už máte. { -brand-name-firefox } ale umí ještě více.
-firefox-new-watch-for-hackers-with = Hlídejte hackery pomocí { -brand-name-firefox-monitor }u, chraňte hesla pomocí { -brand-name-firefox-lockwise } a nejen to.
+firefox-new-watch-for-hackers-with = Hlídejte hackery pomocí { -brand-name-firefox-monitor(case: "gen") }, chraňte hesla pomocí { -brand-name-firefox-lockwise(case: "case") } a nejen to.
 firefox-new-get-more-from-firefox = Využívejte { -brand-name-firefox(case: "acc") } naplno
 firefox-new-free-web-browser = Webový prohlížeč zdarma
 firefox-new-and-start-getting-the-respect = A dočkáte se zaslouženého respektu s naší rodinou produktů, v nichž je ochrana soukromí na prvním místě.
