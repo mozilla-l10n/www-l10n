@@ -26,7 +26,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } i { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } i { -brand-name-android }
-footer-visit-mozilla-corporations = Rzu ɣer <a { $moco_link }>tesbeddit Mozilla</a>, tasbeddit tayemmat n <a { $mofo_link }>tkebbanit Mozilla</a>.
 footer-portions-of-this-content = Kra n yeḥricen n ugbur-a d ©1998–{ $current_year } sɣur imttekkiyen n mozilla.org. Agbur yella ddaw n <a rel="license" href="{ $url }">turagt { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Takebbanit

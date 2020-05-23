@@ -32,7 +32,7 @@ firefox-all-the-standard-firefox = Iminig n tziɣet { -brand-name-firefox } — 
 firefox-all-get-a-sneak-peek-at = Ger tiṭ ɣer tmahilin tineggura n { -brand-name-firefox } uqbel ad d-ffɣent.
 firefox-all-test-your-sites-against = Sekyed asmel-ik s tmahilin i d-iteddun n yiminig { -brand-name-firefox } s useqdec n yifecka n tneflit iremden s wudem amezwer.
 firefox-all-count-on-stability-and = Ttkel ɣef urkad d sshala n useqdec s yiminig-a { -brand-name-firefox } yettwabna i tkebbanit.
-firefox-all-windows-installers-for = Imsebdaden Windows i yimeẓla isenselkamen n tkebbaniyin i yissefsisen tawila, asbeddi akked usefrek n yiminig Firefox.
+firefox-all-windows-installers-for = Imsebdaden Windows i yimeẓla isenselkamen n tkebbaniyin i yissefsisen tawila, asbeddi akked usefrek n { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Fren amsebdad 32 n yibiten i yiselkimen iteddun s usasfar 32 n yibiten — neɣ i yisilkimen iqbuṛen neɣ wid ur neǧhid ara. <a href="{ $url }">Ma yella ur teẓriḍ ara anwa lqem </a> gar umsebdad 64 n yibiten neɣ 32 n yibiten, ad k-nwelleh ad tesbeddeḍ Firefox 32 n yibiten.

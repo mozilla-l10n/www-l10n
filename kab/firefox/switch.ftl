@@ -15,7 +15,6 @@ switch-spread-the-word = Mmeslay ɣef { -brand-name-firefox } rnu mudd tallalt i
 switch-share-with-your-friends = Bḍu d yimdukal-ik amek i ttuɣalen ar { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 D arurad nezzeh ticki teddiḍ si { -brand-name-chrome } ar { -brand-name-firefox }, yessefk ad tɛerḍeḍ !
 switch-switch-to-firefox = Beddel ɣer { -brand-name-firefox }
-switch-firefox-makes-switching-fast-email = Tuɣalin si chrome ar { -brand-name-firefox }, D ayen fessusen, d arurad.
 switch-still-not-convinced = Ur tumineḍ ara d akken tuɣalin ar { -brand-name-firefox } fessus nezzeh ?
 switch-enjoy-the-web-faster = Zhu s web arurad, yal taɣawsa tbedd i kečč.
 switch-download-and-switch = Sider sakin beddel
