@@ -4,15 +4,15 @@
 
 navigation-download-firefox = Sider { -brand-name-firefox }
 navigation-get-a-firefox-account = Awi-d { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = Iminig Firefox i uselkim
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } i uselkim
 navigation-get-the-browser-that-respects = Awi iminig i yettqadaṛen tudert-ik tabaḍnit s wudem awurman. Deg { -brand-name-windows }, { -brand-name-mac }, neɣ { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Iminig Firefox i uziraz
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } i uziraz
 navigation-take-speed-privacy-and = Awi yid-k arured, tabaḍnit akked talwit. Deg { -brand-name-android } akked { -brand-name-ios }.
 navigation-download-for-ios = Sader i { -brand-name-ios }
 navigation-download-for-android = Sader i { -brand-name-android }
 navigation-ios-support = Tallelt { -brand-name-ios }
 navigation-android-support = Tallelt { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Iminig Firefox i tkebbanit
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } i tkebbanit
 navigation-strap-on-your-goggles = Ers asawaḍ-ik daɣen kcem ɣef web udhim s yiming Firefox i tilawt tuhlist.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } i { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Wali tividyutin daɣen inig deg Internet s { -brand-name-amazon } { -brand-name-fire-tv }.
