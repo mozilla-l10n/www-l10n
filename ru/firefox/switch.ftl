@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Перейти на { -brand-name
 switch-select-what-to-take = Выберите, что импортировать из { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Пусть { -brand-name-firefox } сделает всё остальное.
 switch-use-firefox-and-still-chrome = Вы можете использовать { -brand-name-firefox } и оставить { -brand-name-chrome }. { -brand-name-chrome } на вашем устройстве никак не изменится.
+switch-spread-the-word = Расскажите о { -brand-name-firefox } и помогите другим попрощаться с { -brand-name-chrome }.
 switch-share-with-your-friends = Поделитесь со своими друзьями, как перейти на { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } делает переход с { -brand-name-chrome } действительно быстрым. Попробуй!
 switch-switch-to-firefox = Перейти на { -brand-name-firefox }

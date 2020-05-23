@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Загрузить { -brand-name-firefox }
-navigation-get-a-firefox-account = Создать аккаунт Firefox
-navigation-firefox-browser-for-desktop = Браузер Firefox для компьютеров
+navigation-get-a-firefox-account = Создать { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } для компьютеров
 navigation-get-the-browser-that-respects = Загрузите браузер, который уважает вашу приватность из коробки. На { -brand-name-windows }, { -brand-name-mac } или { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Браузер Firefox для мобильных
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } для мобильных
 navigation-take-speed-privacy-and = Возьмите скорость, приватность и душевное спокойствие с собой. На { -brand-name-android } и { -brand-name-ios }.
 navigation-download-for-ios = Загрузить для { -brand-name-ios }
 navigation-download-for-android = Загрузить для { -brand-name-android }
 navigation-ios-support = Поддержка { -brand-name-ios }
 navigation-android-support = Поддержка { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Корпоративный браузер Firefox
-navigation-strap-on-your-goggles = Наденьте очки и погрузитесь в захватывающий мир с браузером Firefox для виртуальной реальности.
+navigation-firefox-browser-for-enterprise = Корпоративный { -brand-name-firefox-browser }
+navigation-strap-on-your-goggles = Наденьте очки и погрузитесь в захватывающий мир с браузером { -brand-name-firefox-browser } для виртуальной реальности.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Смотрите видео и сёрфите по Интернету на вашем { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Браузеры { -brand-name-firefox } ставят вашу приватность на первое место — сейчас и всегда.
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Возьмите { -brand-name-firefox } �
 navigation-get-firefox = Загрузить { -brand-name-firefox }
 navigation-get-firefox-focus = Загрузить { -brand-name-firefox-focus }
 navigation-android-extensions = Расширения для { -brand-name-android }
-navigation-your-firefox-account = Ваш Аккаунт Firefox
+navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Получите максимальную отдачу от { -brand-name-firefox } на любом устройстве.
 navigation-learn-how-to-customize = Узнайте, как настроить работу { -brand-name-firefox }.
 navigation-experience-augmented = Испытайте дополненную и виртуальную реальность с { -brand-name-firefox }.

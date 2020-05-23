@@ -18,6 +18,10 @@ newsletter-form-get-firefox-news = Получайте новости { -brand-na
 newsletter-form-im-okay-with-mozilla = Я соглашаюсь с тем, как { -brand-name-mozilla } обращается с моей информацией, согласно <a href="{ $url }">этому Уведомлению о конфиденциальности</a>
 newsletter-form-we-will-only-send = Мы будем посылать вам только информацию, относящуюся к { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Если вы ранее не подтверждали подписку на новостную рассылку { -brand-name-mozilla }, вам, возможно, придется сделать это. Пожалуйста, проверьте свой почтовый ящик или спам-фильтр, чтобы посмотреть, не пришло ли от нас письмо.
+newsletter-form-firefox-and-you = <span> { -brand-name-firefox } </ span> + Вы
+newsletter-form-get-firefox-tips = Получайте советы, хитрости и новости { -brand-name-firefox } и даже больше
+newsletter-form-keep-up-with = Будьте в курсе всего,<br> что относится к { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Получайте новости { -brand-name-mozilla }
 newsletter-form-available-languages = Доступные языки
 newsletter-form-select-country = Выберите страну
 newsletter-form-sign-me-up = Подписаться

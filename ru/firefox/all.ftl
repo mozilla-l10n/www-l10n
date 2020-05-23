@@ -24,15 +24,15 @@ firefox-all-32-bit-installers = 32-битные установщики
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Загрузите браузер Firefox на русском и более чем на 90 других языках
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Любой человек имеет право на доступ в Интернет — язык никогда не должен становиться барьером. Вот почему — с помощью преданных волонтёров по всему миру — мы делаем браузер Firefox доступным на более чем 90 языках.
-firefox-all-choose-which-firefox = Выберите, какой Firefox загрузить на вашем языке
+firefox-all-everyone-deserves-access = Любой человек имеет право на доступ в Интернет — язык никогда не должен становиться барьером. Вот почему — с помощью преданных волонтёров по всему миру — мы делаем браузер { -brand-name-firefox-browser } доступным на более чем 90 языках.
+firefox-all-choose-which-firefox = Выберите, какой { -brand-name-firefox-browser } загрузить на вашем языке
 firefox-all-firefox-privacy-notice = Уведомление о конфиденциальности { -brand-name-firefox }
 firefox-all-learn-about-firefox = Узнайте о браузерах { -brand-name-firefox }
 firefox-all-the-standard-firefox = Стандартный браузер { -brand-name-firefox } — быстрый и приватный. Если вы не уверены, какой { -brand-name-firefox } выбрать, выберите этот.
 firefox-all-get-a-sneak-peek-at = Знакомьтесь с последними функциями { -brand-name-firefox } до их выхода.
 firefox-all-test-your-sites-against = Тестируйте свои сайты на совместимость с функциями браузера { -brand-name-firefox }, которые скоро будут выпущены, с помощью мощных и гибких инструментов разработчика, которые включены по умолчанию.
 firefox-all-count-on-stability-and = Доверьтесь стабильности и простоте использования этого корпоративного { -brand-name-firefox }.
-firefox-all-windows-installers-for = Windows-установщики для организаций, которые упростят настройку, развёртывание и управление браузером Firefox.
+firefox-all-windows-installers-for = Windows-установщики для организаций, которые упростят настройку, развёртывание и управление браузером { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Выберите 32-битный установщик для компьютеров с 32-разрядными процессорами или для старых и менее мощных компьютеров. <a href="{ $url }">Если вы не уверены</a>, выбрать ли 64-битный или 32-битный установщик, мы рекомендуем использовать 32-разрядную версию.
