@@ -331,7 +331,17 @@
 ## Other browsers
 
 -brand-name-brave = Brave
--brand-name-chrome = Chrome
+-brand-name-chrome =
+    { $case ->
+       *[nom] Chrome
+        [gen] Chromu
+        [dat] Chromu
+        [acc] Chrome
+        [voc] Chrome
+        [loc] Chromu
+        [ins] Chromem
+    }
+    .gender = masculine
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera

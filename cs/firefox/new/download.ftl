@@ -15,7 +15,7 @@ firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } vám ukáže, j
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> vám hesla, bezpečně uložená ve { -brand-name-firefox }u, zpřístupní na všech vašich zařízeních.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> vás upozorní, kdykoliv zjistíme, že vaše data byla součástí nějakého úniku.
 firefox-new-join-firefox = Přihlaste se k { -brand-name-firefox }u
-firefox-new-firefox-lockwise-makes = Díky <strong>{ -brand-name-firefox }u Lockwise</strong> máte svoje hesla k dispozici na všech svých zařízeních.
+firefox-new-firefox-lockwise-makes = Díky <strong>{ -brand-name-firefox-lockwise(case: "dat") }</strong> máte svoje hesla k dispozici na všech svých zařízeních s { -brand-name-firefox(case: "ins") }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Stáhnout { -brand-name-firefox } <br>pro { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Stáhnout { -brand-name-firefox } <br>pro { -brand-name-mac }

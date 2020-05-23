@@ -16,8 +16,8 @@ newsletter-form-get-firefox-news = Dostávat novinky o { -brand-name-firefox }u
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Souhlasím s tím, aby { -brand-name-mozilla } zpracovávala mé informace tak, jak je popsáno v <a href="{ $url }">zásadách ochrany osobních údajů</a>
-newsletter-form-we-will-only-send = Budeme vám posílat pouze informace související s Mozillou.
-newsletter-form-if-you-havent-previously = Pokud jste dříve nepotvrdili odběr zpravodaje Mozilly, budete tak muset učinit nyní. Podívejte se prosím do vaší e-mailové schránky a případně i nevyžádané pošty, jestli tam není e-mail od nás.
+newsletter-form-we-will-only-send = Budeme vám posílat pouze informace související s { -brand-name-mozilla(case: "ins") }.
+newsletter-form-if-you-havent-previously = Pokud jste dříve nepotvrdili odběr zpravodaje { -brand-name-mozilla(case: "gen") }, budete tak muset učinit nyní. Podívejte se prosím do vaší e-mailové schránky a případně i nevyžádané pošty, jestli tam není e-mail od nás.
 newsletter-form-available-languages = Dostupné jazyky
 newsletter-form-select-country = Vyberte zemi
 newsletter-form-sign-me-up = Přihlásit
