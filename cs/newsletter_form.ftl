@@ -12,7 +12,7 @@ newsletter-form-your-email-here = VÁŠ EMAIL ZDE
 newsletter-form-format = Formát
 newsletter-form-html = HTML
 newsletter-form-text = Text
-newsletter-form-get-firefox-news = Dostávat novinky o { -brand-name-firefox }u
+newsletter-form-get-firefox-news = Dostávat novinky o { -brand-name-firefox(case: "loc") }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Souhlasím s tím, aby { -brand-name-mozilla } zpracovávala mé informace tak, jak je popsáno v <a href="{ $url }">zásadách ochrany osobních údajů</a>

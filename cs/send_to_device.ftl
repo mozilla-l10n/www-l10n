@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-send-to-device-send-firefox = Zašlete si { -brand-name-firefox } na svůj telefon nebo tablet
+send-to-device-send-firefox = Zašlete si { -brand-name-firefox(case: "acc") } na svůj telefon nebo tablet
 send-to-device-your-download-link = Váš odkaz ke stažení byl odeslán.
 send-to-device-sorry-we-cant-send = Je nám líto, na toto číslo bohužel nemůžeme SMS zprávu odeslat.
 send-to-device-sorry-this-number = Omlouváme se. Toto číslo není platné. Zadejte prosím U.S. telefonní číslo.

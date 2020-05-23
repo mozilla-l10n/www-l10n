@@ -5,25 +5,25 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-firefox-new-download-firefox = Stáhnout { -brand-name-firefox }
-firefox-new-download-mozilla-firefox = Stáhněte si svobodný webový prohlížeč { -brand-name-mozilla } { -brand-name-firefox }. Je vyvíjen neziskovou organizací s cílem dát kontrolu nad internetem do vašich rukou. Stáhněte si { -brand-name-firefox } pro { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } nebo { -brand-name-ios }!
-firefox-new-download-the-fastest-firefox = Stáhněte si ten nejrychlejší { -brand-name-firefox }
+firefox-new-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }
+firefox-new-download-mozilla-firefox = Stáhněte si svobodný webový prohlížeč { -brand-name-mozilla } { -brand-name-firefox }. Je vyvíjen neziskovou organizací s cílem dát kontrolu nad internetem do vašich rukou. Stáhněte si { -brand-name-firefox(case: "acc") } pro { -brand-name-windows(case: "acc") }, { -brand-name-mac(case: "acc") }, { -brand-name-linux(case: "acc") }, { -brand-name-android(case: "acc") } nebo { -brand-name-ios(case: "acc") }!
+firefox-new-download-the-fastest-firefox = Stáhněte si ten nejrychlejší { -brand-name-firefox(case: "acc") }
 firefox-new-faster-page-loading-less-memory = Rychlejší načítání stránek, menší spotřeba paměti a plno funkcí - je tu nový { -brand-name-firefox }.
-firefox-new-automatic-privacy-is-here = Automatické soukromí je tady. Stáhněte si { -brand-name-firefox }, který pro vás zablokuje více než 2000 sledovacích prvků.
-firefox-new-get-the-latest-firefox = Získejte nejnovější { -brand-name-firefox }.
+firefox-new-automatic-privacy-is-here = Automatické soukromí je tady. Stáhněte si { -brand-name-firefox(case: "acc") }, který pro vás zablokuje více než 2000 sledovacích prvků.
+firefox-new-get-the-latest-firefox = Získejte nejnovější { -brand-name-firefox(case: "acc") }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } vám ukáže, jaké sledovací prvky jeho <strong>rozšířené ochrany proti sledování</strong> blokuje.
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> vám hesla, bezpečně uložená ve { -brand-name-firefox(case: "loc") }, zpřístupní na všech vašich zařízeních.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> vás upozorní, kdykoliv zjistíme, že vaše data byla součástí nějakého úniku.
-firefox-new-join-firefox = Přihlaste se k { -brand-name-firefox }u
+firefox-new-join-firefox = Přihlaste se k { -brand-name-firefox(case: "dat") }
 firefox-new-firefox-lockwise-makes = Díky <strong>{ -brand-name-firefox-lockwise(case: "dat") }</strong> máte svoje hesla k dispozici na všech svých zařízeních s { -brand-name-firefox(case: "ins") }.
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Stáhnout { -brand-name-firefox } <br>pro { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Stáhnout { -brand-name-firefox } <br>pro { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Stáhnout { -brand-name-firefox } <br>pro { -brand-name-linux }
+firefox-new-download-firefox-for-windows = Stáhnout { -brand-name-firefox(case: "acc") } <br>pro { -brand-name-windows(case: "acc") }
+firefox-new-download-firefox-for-macos = Stáhnout { -brand-name-firefox(case: "acc") } <br>pro { -brand-name-mac(case: "acc") }
+firefox-new-download-firefox-for-linux = Stáhnout { -brand-name-firefox(case: "acc") } <br>pro { -brand-name-linux(case: "acc") }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-new-youve-already-got-the-browser = Prohlížeč už máte. { -brand-name-firefox } ale umí ještě více.
 firefox-new-watch-for-hackers-with = Hlídejte hackery pomocí { -brand-name-firefox-monitor }u, chraňte hesla pomocí { -brand-name-firefox-lockwise } a nejen to.
-firefox-new-get-more-from-firefox = Využívejte { -brand-name-firefox } naplno
+firefox-new-get-more-from-firefox = Využívejte { -brand-name-firefox(case: "acc") } naplno
 firefox-new-free-web-browser = Webový prohlížeč zdarma
 firefox-new-and-start-getting-the-respect = A dočkáte se zaslouženého respektu s naší rodinou produktů, v nichž je ochrana soukromí na prvním místě.
 firefox-new-advanced-install-options = Pokročilé možnosti instalace a další platformy
