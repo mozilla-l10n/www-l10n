@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Tasertit-nneɣ tabadnit n usmel
 footer-websites-cookies = Inagan n tuqqna
 footer-websites-legal = Usḍif
 footer-language = Tutlayt
+footer-go = Bdu
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Ma ulac aɣilif, sekcem tansa imayl tameɣtut
+newsletter-form-you-must-agree-to = YEssefk ad tqebleḍ tasertit tabaḍnit
+newsletter-form-your-email-address = Tansa-inek imayl
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = Fren tamnaḍt neγ tamurt
 newsletter-form-your-email-here = IMAYL-INEK DA
 newsletter-form-format = Amasal
 newsletter-form-html = HTML
