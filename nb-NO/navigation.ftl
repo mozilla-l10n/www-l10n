@@ -3,16 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Last ned { -brand-name-firefox }
-navigation-get-a-firefox-account = Få en Firefox-konto
-navigation-firefox-browser-for-desktop = Nettleseren Firefox for datamaskiner
+navigation-get-a-firefox-account = Få en { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } for datamaskiner
 navigation-get-the-browser-that-respects = Få nettleseren som respekterer personvernet ditt automatisk. På { -brand-name-windows }, { -brand-name-mac } eller { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Nettleseren Firefox for mobil
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } for mobil
 navigation-take-speed-privacy-and = Ta med deg hastighet, personvern og ro i sinnet. På { -brand-name-android } og { -brand-name-ios }.
 navigation-download-for-ios = Last ned for { -brand-name-ios }
 navigation-download-for-android = Last ned for { -brand-name-android }
 navigation-ios-support = { -brand-name-ios }-brukerstøtte
 navigation-android-support = { -brand-name-android }-brukerstøtte
-navigation-firefox-browser-for-enterprise = Firefox nettleser for virksomheter
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } for virksomheter
 navigation-strap-on-your-goggles = Spenn på hodesettet og gå inn på det fordypende nettet med { -brand-name-firefox-browser } for VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } for { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Se på videoer og surf på nettet på din { -brand-name-amazon } { -brand-name-fire-tv }.
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Ta { -brand-name-firefox } og { -brand-nam
 navigation-get-firefox = Last ned { -brand-name-firefox }
 navigation-get-firefox-focus = Last ned { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-utvidelser
-navigation-your-firefox-account = Din Firefox-konto
+navigation-your-firefox-account = Din { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Få mest mulig ut av { -brand-name-firefox } på alle enhetene dine.
 navigation-learn-how-to-customize = Les, hvordan du kan tilpasse { -brand-name-firefox }.
 navigation-experience-augmented = Opplev utivdet og virtuell virkelighet med { -brand-name-firefox }.

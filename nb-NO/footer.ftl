@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Nettstedets personvernbestemmelser
 footer-websites-cookies = Infokapsler
 footer-websites-legal = Juridisk
 footer-language = Språk
+footer-go = Gå
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
