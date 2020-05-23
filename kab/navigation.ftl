@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Sider { -brand-name-firefox }
-navigation-get-a-firefox-account = Rnu amiḍan Firefox
+navigation-get-a-firefox-account = Awi-d { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = Iminig Firefox i uselkim
 navigation-get-the-browser-that-respects = Awi iminig i yettqadaṛen tudert-ik tabaḍnit s wudem awurman. Deg { -brand-name-windows }, { -brand-name-mac }, neɣ { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = Iminig Firefox i uziraz

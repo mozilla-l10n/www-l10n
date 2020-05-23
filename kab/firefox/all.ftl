@@ -31,7 +31,7 @@ firefox-all-learn-about-firefox = Lmed ugar ɣef yiminigen { -brand-name-firefox
 firefox-all-the-standard-firefox = Iminig n tziɣet { -brand-name-firefox } — d arurad u diɣ d aɣelsan. Ma yella ur tessineḍ ara ad tferneḍ, awi wagi.
 firefox-all-get-a-sneak-peek-at = Ger tiṭ ɣer tmahilin tineggura n { -brand-name-firefox } uqbel ad d-ffɣent.
 firefox-all-test-your-sites-against = Sekyed asmel-ik s tmahilin i d-iteddun n yiminig { -brand-name-firefox } s useqdec n yifecka n tneflit iremden s wudem amezwer.
-firefox-all-count-on-stability-and = Tzermreḍ ad tettekleḍ ɣef urkad akked tefses n useqdec n yiminig yemmugen i tkebbanit.
+firefox-all-count-on-stability-and = Ttkel ɣef urkad d sshala n useqdec s yiminig-a { -brand-name-firefox } yettwabna i tkebbanit.
 firefox-all-windows-installers-for = Imsebdaden Windows i yimeẓla isenselkamen n tkebbaniyin i yissefsisen tawila, asbeddi akked usefrek n yiminig Firefox.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
