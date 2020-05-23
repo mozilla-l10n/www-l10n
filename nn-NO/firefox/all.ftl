@@ -24,7 +24,7 @@ firefox-all-32-bit-installers = 32-bit installerar
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser } på engelsk (USA) og meir enn 90 andre språk
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Alle fortener å ha tilgang til internett – språket ditt skal aldri vere ei hindring. Derfor gjer vi Firefox-nettlesaren tilgjengeleg på meir enn 90 språk med hjelp frå engasjerte frivillige rundt om i verda.
+firefox-all-everyone-deserves-access = Alle fortener å ha tilgang til internett – språket ditt skal aldri vere ei hindring. Difor gjer vi nettlesaren { -brand-name-firefox-browser } tilgjengeleg på meir enn 90 språk.
 firefox-all-choose-which-firefox = Vel kva for { -brand-name-firefox-browser }-nettlesar du vil laste ned på ditt språk
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } personvernmerknad
 firefox-all-learn-about-firefox = Les meir om { -brand-name-firefox }-nettlesarar
@@ -32,7 +32,7 @@ firefox-all-the-standard-firefox = Standard { -brand-name-firefox }-nettlesar �
 firefox-all-get-a-sneak-peek-at = Ta ein sniktitt på dei siste funksjonane i { -brand-name-firefox }-nettlesaren før dei vert offisielt lanserte.
 firefox-all-test-your-sites-against = Test nettstadane dine opp mot komande funskjonar i { -brand-name-firefox }, med dei avanserte og fleksible utviklarverktøya våre som er aktiverte som standard.
 firefox-all-count-on-stability-and = Denne versjonen av { -brand-name-firefox } er utvikla for verksemder og har fokus på stabilitet og brukarvennlegheit.
-firefox-all-windows-installers-for = Windows-installasjonsprogramr for IT-miljø i bedrifter som forenklar konfigurasjonen, distribusjonen og handteringa av Firefox-nettlesaren.
+firefox-all-windows-installers-for = Windows-installasjonsprogram for IT-miljø i bedrifter som forenklar konfigurasjonen, distribusjonen og handteringa av { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Vel eit 32-bit installasjonsprogram for datamaskiner med 32-bit prosessorar — eller til eldre, mindre kraftfulle datamaskiner. <a href="{ $url }">Viss du ikkje er sikker på</a> , om du skal velje eit 64-bit- eller et 32-bit-installasjonsprogram, anbefalar vi, at du vel 32-bit.
