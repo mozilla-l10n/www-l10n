@@ -106,7 +106,17 @@
     }
     .gender = masculine
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
--brand-name-firefox-focus = Firefox Focus
+-brand-name-firefox-focus =
+    { $case ->
+       *[nom] Firefox Focus
+        [gen] Firefoxu Focus
+        [dat] Firefoxu Focus
+        [acc] Firefox Focus
+        [voc] Firefoxe Focus
+        [loc] Firefoxu Focus
+        [ins] Firefoxem Focus
+    }
+    .gender = masculine
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
@@ -349,11 +359,41 @@
 
 ## Platforms
 
--brand-name-android = Android
+-brand-name-android =
+    { $case ->
+       *[nom] Android
+        [gen] Androidu
+        [dat] Androidu
+        [acc] Android
+        [voc] Androide
+        [loc] Androidu
+        [ins] Androidem
+    }
+    .gender = masculine
 -brand-name-ios = iOS
--brand-name-linux = Linux
+-brand-name-linux =
+    { $case ->
+       *[nom] Linux
+        [gen] Linuxu
+        [dat] Linuxu
+        [acc] Linux
+        [voc] Linuxi
+        [loc] Linuxu
+        [ins] Linuxem
+    }
+    .gender = masculine
 -brand-name-mac = macOS
--brand-name-windows = Windows
+-brand-name-windows =
+    { $case ->
+       *[nom] Windows
+        [gen] Windowsu
+        [dat] Windowsu
+        [acc] Wundows
+        [voc] Windows
+        [loc] Windowsu
+        [ins] Wundowsem
+    }
+    .gender = masculine
 -brand-name-xp = XP
 -brand-name-vista = Vista
 
