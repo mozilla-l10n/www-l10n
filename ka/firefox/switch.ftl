@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = { -brand-name-firefox }-ზე �
 switch-select-what-to-take = შეარჩიეთ, თუ რისი წამოღება გინდათ { -brand-name-chrome }-იდან.
 switch-let-firefox-do-the-rest = დაელოდეთ, სანამ { -brand-name-firefox } გააკეთებს თავის საქმეს.
 switch-use-firefox-and-still-chrome = { -brand-name-firefox }-ზე გადმოსვლის შემთხვევაშიც შეგიძლიათ დაიტოვოთ { -brand-name-chrome }. { -brand-name-chrome } შენარჩუნდება ისეთივე, როგორიც არის.
+switch-spread-the-word = გაავრცელეთ { -brand-name-firefox }, მოუყევით მასზე თქვენს საყვარელ ადამიანებს და დაეხმარეთ ადვილად მიატოვონ { -brand-name-chrome }.
 switch-share-with-your-friends = გაუზიარეთ თქვენს მეგობრებს, თუ როგორ უნდა გადმოვიდნენ { -brand-name-firefox }-ზე
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } საშუალებას გაძლევთ გადმოხვიდეთ { -brand-name-chrome }-იდან უსწრაფესად. სცადეთ ახლავე!
 switch-switch-to-firefox = { -brand-name-firefox }-ზე გამოსვლა
