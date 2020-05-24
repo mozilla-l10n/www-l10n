@@ -22,9 +22,9 @@ firefox-all-64-bit-installers = 64-битные установщики
 firefox-all-choose-a-64-bit-installer = Выберите 64-битный установщик для компьютеров с 64-разрядными процессорами, которые позволяют им выделять больше оперативной памяти отдельным программам, что особенно важно для игр и других требовательных приложений.
 firefox-all-32-bit-installers = 32-битные установщики
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Загрузите браузер Firefox на русском и более чем на 90 других языках
+firefox-all-download-the-firefox = Загрузите { -brand-name-firefox-browser } на русском и более чем на 90 других языках
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Любой человек имеет право на доступ в Интернет — язык никогда не должен становиться барьером. Вот почему — с помощью преданных волонтёров по всему миру — мы делаем браузер { -brand-name-firefox-browser } доступным на более чем 90 языках.
+firefox-all-everyone-deserves-access = Любой человек имеет право на доступ в Интернет — язык никогда не должен становиться барьером. Вот почему — с помощью преданных волонтёров по всему миру — мы делаем { -brand-name-firefox-browser } доступным на более чем 90 языках.
 firefox-all-choose-which-firefox = Выберите, какой { -brand-name-firefox-browser } загрузить на вашем языке
 firefox-all-firefox-privacy-notice = Уведомление о конфиденциальности { -brand-name-firefox }
 firefox-all-learn-about-firefox = Узнайте о браузерах { -brand-name-firefox }
