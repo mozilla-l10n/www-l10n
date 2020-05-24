@@ -22,10 +22,10 @@ firefox-all-64-bit-installers = 64-ბიტიანის დასაყე�
 firefox-all-choose-a-64-bit-installer = აირჩიეთ 64-ბიტიანის დასაყენებელი, 64-ბიტიანი პროცესორების მქონე კომპიუტერისთვის, რომელიც საშუალებას აძლევს ცალკეულ პროგრამებს, გამოიყენოს მეტი ოპერატიული — განსაკუთრებით მნიშვნელოვანია თამაშებსა და სხვა დამხმარე პროგრამებთან სამუშაოდ.
 firefox-all-32-bit-installers = 32-ბიტიანის დასაყენებელი
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = ჩამოტვირთეთ Firefox-ბრაუზერი ქართულად და კიდევ 90-ზე მეტ ენაზე
+firefox-all-download-the-firefox = ჩამოტვირთეთ { -brand-name-firefox-browser } ქართულად და კიდევ 90-ზე მეტ ენაზე
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ყველა ადამიანის უფლებაა, ჰქონდეს ინტერნეტთან წვდომა — ენა არ უნდა წარმოადგენდეს დაბრკოლებას. სწორედ ამიტომ — ცალკეული მოხალისეების დახმარებით მთელი მსოფლიოდან — ჩვენ შევძელით, რომ Firefox-ბრაუზერი ხელმისაწვდომი ყოფილიყო 90-ზე მეტ ენაზე.
-firefox-all-choose-which-firefox = აირჩიეთ, თუ რომელი Firefox-ბრაუზერი გსურთ ჩამოტვირთოთ თქვენს ენაზე
+firefox-all-everyone-deserves-access = ყველა ადამიანის უფლებაა, ჰქონდეს ინტერნეტთან წვდომა — ენა არ უნდა წარმოადგენდეს დაბრკოლებას. სწორედ ამიტომ — ცალკეული მოხალისეების დახმარებით მთელი მსოფლიოდან — ჩვენ შევძელით, რომ { -brand-name-firefox-browser } ხელმისაწვდომი ყოფილიყო 90-ზე მეტ ენაზე.
+firefox-all-choose-which-firefox = აირჩიეთ, რომელი { -brand-name-firefox-browser } გსურთ ჩამოტვირთოთ თქვენს ენაზე
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }-ის პირადი მონაცემების დაცვის განაცხადი
 firefox-all-learn-about-firefox = უკეთ გაეცანით { -brand-name-firefox }-ბრაუზერებს
 firefox-all-the-standard-firefox = ჩვეულებრივი { -brand-name-firefox }-ბრაუზერი – სწრაფი და პირადი. თუ ზუსტად არ იცით, რომელი { -brand-name-firefox } უნდა აირჩიოთ, ეს აირჩიეთ.
