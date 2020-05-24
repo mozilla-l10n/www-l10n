@@ -22,20 +22,20 @@ download-button-please-follow-these = נא לעקוב אחר <a href="{ $url }">
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = מערכת ההפעלה שברשותך אינה עונה על <a href="{ $url }">הדרישות</a> כדי להריץ את { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } עבור פלטפורמות ושפות אחרות
-download-button-update-your-firefox = עידכון { -brand-name-firefox }
+download-button-update-your-firefox = עדכון ה־{ -brand-name-firefox } שלך
 download-button-get-firefox-android = קבלת { -brand-name-firefox } עבור { -brand-name-android }
 download-button-get-firefox-ios = קבלת { -brand-name-firefox } עבור { -brand-name-ios }
 download-button-google-play = הורדה מ־{ -brand-name-google-play }
-download-button-free-google-play = הורדה מ־{ -brand-name-google-play }
-download-button-app-store = הורדה מה־{ -brand-name-app-store }
+download-button-free-google-play = הורדה בחינם מ־{ -brand-name-google-play }
+download-button-app-store = הורדה בחינם מה־{ -brand-name-app-store }
 download-button-download-app-store = הורדה מה־{ -brand-name-app-store }
 download-button-download-firefox = הורדת { -brand-name-firefox }
 download-button-your-system-may = מערכת ההפעלה שברשותך אולי אינה עונה על הדרישות של { -brand-name-firefox }, אבל באפשרותך לנסות את אחת מהגרסאות האלו:
-download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> עבור { -brand-name-android }
-download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> עבור { -brand-name-android }
+download-button-firefox-beta-android = ‏<span>{ -brand-name-firefox-beta }</span> עבור { -brand-name-android }
+download-button-firefox-aurora-android = ‏<span>{ -brand-name-firefox-aurora }</span> עבור { -brand-name-android }
 download-button-firefox-nightly-android = ‏<span>{ -brand-name-firefox-nightly }</span> עבור { -brand-name-android }
-download-button-firefox-android = <span>{ -brand-name-firefox }</span> עבור { -brand-name-android }
-download-button-firefox-ios = <span>{ -brand-name-firefox }</span> עבור { -brand-name-ios }
+download-button-firefox-android = ‏<span>{ -brand-name-firefox }</span> עבור { -brand-name-android }
+download-button-firefox-ios = ‏<span>{ -brand-name-firefox }</span> עבור { -brand-name-ios }
 download-button-firefox-privacy = פרטיות { -brand-name-firefox }
 download-button-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
 download-button-download = הורדה
