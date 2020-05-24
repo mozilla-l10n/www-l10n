@@ -26,7 +26,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } para { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } para { -brand-name-android }
-footer-visit-mozilla-corporations = Visita la empresa matriz sin ánimo de lucro de la <a { $moco_link }>Corporación Mozilla</a>, la <a { $mofo_link }>Fundación Mozilla</a>.
+footer-visit-mozilla-corporations = Visita la empresa matriz sin ánimo de lucro de la <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, la <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Algunos contenidos están protegidos por los derechos de autor ©2019–{ $current_year } de determinados colaboradores en mozilla.org. El resto de contenidos está disponible bajo una licencia <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Empresa
@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Política de privacidad del sitio web
 footer-websites-cookies = Cookies
 footer-websites-legal = Legal
 footer-language = Idioma
+footer-go = Ir
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

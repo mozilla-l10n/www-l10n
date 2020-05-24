@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Elige un instalador de 64 bits para ordenadores con procesadores de 64 bits, ya que ello les permite asignar más RAM a programas individuales. Esto es importante sobre todo para juegos y otras aplicaciones exigentes.
 firefox-all-32-bit-installers = Instaladores de 32 bits
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Descarga el navegador de Firefox en español (ES) y en más de 90 idiomas.
+firefox-all-download-the-firefox = Descarga el navegador { -brand-name-firefox-browser } en español (España) y en más de 90 idiomas.
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Todo el mundo merece tener acceso a Internet, y el idioma nunca debería ser una barrera. Por eso, con la ayuda de voluntarios dedicados en todo el mundo, el navegador de Firefox está disponible en más de 90 idiomas.
-firefox-all-choose-which-firefox = Elige qué navegador de Firefox quieres descargar en tu idioma
+firefox-all-everyone-deserves-access = Todo el mundo merece tener acceso a Internet, y tu idioma nunca debería ser una barrera. Por eso, con la ayuda de voluntarios de todo el mundo, el navegador { -brand-name-firefox-browser } está disponible en más de 90 idiomas.
+firefox-all-choose-which-firefox = Elige qué navegador { -brand-name-firefox-browser } quieres descargar en tu idioma
 firefox-all-firefox-privacy-notice = Aviso de privacidad de { -brand-name-firefox }
 firefox-all-learn-about-firefox = Descubre más sobre los navegadores de { -brand-name-firefox }
 firefox-all-the-standard-firefox = El navegador estándar de { -brand-name-firefox }, rápido y privado. Si no estás seguro sobre qué { -brand-name-firefox } elegir, escoge este.
 firefox-all-get-a-sneak-peek-at = Echa un vistazo a las últimas funciones del navegador { -brand-name-firefox } antes de su lanzamiento.
 firefox-all-test-your-sites-against = Comprueba si tus páginas son compatibles con las características del navegador { -brand-name-firefox } que se lanzará próximamente, con DevTools potentes y flexibles activadas de forma predeterminada.
 firefox-all-count-on-stability-and = Cuenta con la estabilidad y la facilidad de uso de este navegador { -brand-name-firefox } creado para la empresa.
-firefox-all-windows-installers-for = Instaladores de Windows para TI corporativa que simplifican la configuración, la implantación y la gestión del navegador de Firefox.
+firefox-all-windows-installers-for = Instaladores de Windows para entornos corporativos que simplifican la configuración, la implantación y la gestión del navegador { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Elige un instalador de 32 bits para ordenadores con procesadores de 32 bits o para dispositivos más antiguos o menos potentes. <a href="{ $url }">Si no tienes claro</a> si debes elegir un instalador de 64 bits o de 32 bits, te recomendamos que elijas el de 32 bits.

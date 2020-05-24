@@ -3,16 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descargar { -brand-name-firefox }
-navigation-get-a-firefox-account = Consigue una cuenta de Firefox
-navigation-firefox-browser-for-desktop = Navegador Firefox para escritorio
+navigation-get-a-firefox-account = Consigue una { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } para escritorio
 navigation-get-the-browser-that-respects = Consigue el navegador que respeta tu privacidad de forma automática. Para { -brand-name-windows }, { -brand-name-mac } o { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Navegador Firefox para móvil
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para móvil
 navigation-take-speed-privacy-and = Lleva la velocidad, la privacidad y la tranquilidad vayas donde vayas. Para { -brand-name-android } y { -brand-name-ios }.
 navigation-download-for-ios = Descargar para { -brand-name-ios }
 navigation-download-for-android = Descargar para { -brand-name-android }
 navigation-ios-support = Ayuda para { -brand-name-ios }
 navigation-android-support = Ayuda para { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Navegador Firefox para empresas
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } para empresas
 navigation-strap-on-your-goggles = Ponte las gafas de realidad virtual y adéntrate de lleno en la web inmersiva con el navegador Firefox para VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Mira vídeos y navega por Internet en tu { -brand-name-amazon } { -brand-name-fire-tv }.
