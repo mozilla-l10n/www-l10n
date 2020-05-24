@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64-bitni namestitveni programi
 firefox-all-choose-a-64-bit-installer = Izberite 64-bitni namestitveni program za računalnike s 64-bitnim procesorjem, ki omogoča dodelitev več pomnilnika posameznim programom – zlasti pomembno za igre in druge zahtevne aplikacije.
 firefox-all-32-bit-installers = 32-bitni namestitveni programi
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Prenesite brskalnik Firefox v slovenščini in več kot 90 drugih jezikih
+firefox-all-download-the-firefox = Prenesite brskalnik { -brand-name-firefox-browser } v slovenščini in več kot 90 drugih jezikih
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo Firefox v preko 90 jezikih.
-firefox-all-choose-which-firefox = Izberite, kateri brskalnik Firefox želite prenesti v svojem jeziku
+firefox-all-everyone-deserves-access = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox-browser } v preko 90 jezikih.
+firefox-all-choose-which-firefox = Izberite, kateri brskalnik { -brand-name-firefox-browser } želite prenesti v svojem jeziku
 firefox-all-firefox-privacy-notice = Obvestilo o zasebnosti za { -brand-name-firefox }
 firefox-all-learn-about-firefox = Več o brskalnikih { -brand-name-firefox }
 firefox-all-the-standard-firefox = Standardni brskalnik { -brand-name-firefox } – hiter in zaseben. Če niste prepričani, kateri { -brand-name-firefox } izbrati, izberite tega.
 firefox-all-get-a-sneak-peek-at = Pokukajte med novosti najnovejšega { -brand-name-firefox }a, še preden jih izdamo.
 firefox-all-test-your-sites-against = Preizkusite svoje spletne strani z novimi možnostmi brskalnika { -brand-name-firefox }, ki bodo kmalu izdane, z zmogljivimi in prilagodljivimi razvojnimi orodji, ki so privzeto vklopljene.
 firefox-all-count-on-stability-and = Pričakujte stabilnost in enostavnost uporabe z brskalnikom { -brand-name-firefox }, ki je ustvarjen za podjetja.
-firefox-all-windows-installers-for = Namestitveni programi za sistem Windows, ki v podjetniških okoljih poenostavljajo namestitev in upravljanje brskalnika Firefox.
+firefox-all-windows-installers-for = Namestitveni programi za sistem Windows, ki v podjetniških okoljih poenostavljajo namestitev in upravljanje brskalnika { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Izberite 32-bitni namestitveni program za računalnike z 32-bitnimi procesorji – ali za starejše oziroma manj zmogljive računalnike. <a href="{ $url }">Če niste prepričani</a>, ali bi izbrali 64-bitni ali 32-bitni program, vam priporočamo slednjega.

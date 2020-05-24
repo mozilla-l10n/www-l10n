@@ -9,4 +9,5 @@
 ## Required
 
 whatsnew-account-main-headline = Račun ni obvezen. Morda pa bi ga želeli.
+whatsnew-account-main-lead-in = Brskalnik { -brand-name-firefox } zbira tako malo podatkov o vas, da vašega e-poštnega naslova sploh ne potrebujemo. Ko pa ga uporabite za ustvarjanje { -brand-name-firefox } Računa, lahko zaščitimo zasebnost vašega spletnega življenja.
 whatsnew-account-main-button = Prijava
