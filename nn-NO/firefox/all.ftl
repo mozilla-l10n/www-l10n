@@ -21,8 +21,6 @@ firefox-all-the-pre-alpha-version = Pre-alfa-versjonen for røynde brukarar som 
 firefox-all-64-bit-installers = 64-bit installerar
 firefox-all-choose-a-64-bit-installer = Vel eit 64-bit installasjonsprogram for datamaskiner med 64-bit prosessorar, noko som gjer at datamaskina kan fordele meir RAM til einskilde program - særskild viktig for spel og andre krevjande program.
 firefox-all-32-bit-installers = 32-bit installerar
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser } på engelsk (USA) og meir enn 90 andre språk
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Alle fortener å ha tilgang til internett – språket ditt skal aldri vere ei hindring. Difor gjer vi nettlesaren { -brand-name-firefox-browser } tilgjengeleg på meir enn 90 språk.
 firefox-all-choose-which-firefox = Vel kva for { -brand-name-firefox-browser }-nettlesar du vil laste ned på ditt språk
