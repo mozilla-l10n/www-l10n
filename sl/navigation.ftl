@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Prenesite { -brand-name-firefox }
-navigation-get-a-firefox-account = Ustvarite Firefox Račun
-navigation-firefox-browser-for-desktop = Brskalnik Firefox za namizja
+navigation-get-a-firefox-account = Ustvarite { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = Brskalnik { -brand-name-firefox-browser } za namizja
 navigation-get-the-browser-that-respects = Prenesite brskalnik, ki samodejno spoštuje vašo zasebnost. Za { -brand-name-windows }, { -brand-name-mac } ali { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Brskalnik Firefox za mobilne naprave
+navigation-firefox-browser-for-mobile = Brskalnik { -brand-name-firefox-browser } za mobilne naprave
 navigation-take-speed-privacy-and = Vzemite s seboj hitrost, zasebnost in brezskrbnost. Za { -brand-name-android } in { -brand-name-ios }.
 navigation-download-for-ios = Prenesite za { -brand-name-ios }
 navigation-download-for-android = Prenesite za { -brand-name-android }
 navigation-ios-support = Podpora za { -brand-name-ios }
 navigation-android-support = Podpora za { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Brskalnik Firefox za podjetja
-navigation-strap-on-your-goggles = Nadenite si očala in stopite v potopni splet z brskalnikom Firefox za VR.
+navigation-firefox-browser-for-enterprise = Brskalnik { -brand-name-firefox-browser } za podjetja
+navigation-strap-on-your-goggles = Nadenite si očala in stopite v potopni splet z brskalnikom { -brand-name-firefox-browser } za VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Oglejte si videoposnetke in brskajte po internetu na { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Brskalniki { -brand-name-firefox } na prvo mesto postavljajo vašo zasebnost – kot vedno.
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Vzemite { -brand-name-firefox } in { -bran
 navigation-get-firefox = Prenesite { -brand-name-firefox }
 navigation-get-firefox-focus = Prenesite { -brand-name-firefox-focus }
 navigation-android-extensions = Razširitve za { -brand-name-android }
-navigation-your-firefox-account = Vaš Firefox Račun
+navigation-your-firefox-account = Vaš { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Izkoristite doživetje { -brand-name-firefox }a na vseh napravah.
 navigation-learn-how-to-customize = Spoznajte, kako si lahko prilagodite { -brand-name-firefox }.
 navigation-experience-augmented = Doživite razširjeno in navidezno resničnost s { -brand-name-firefox }om.

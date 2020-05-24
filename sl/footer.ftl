@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Obvestilo o zasebnosti te strani
 footer-websites-cookies = Piškotki
 footer-websites-legal = Pravno obvestilo
 footer-language = Jezik
+footer-go = Pojdi
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
