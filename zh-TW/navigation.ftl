@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = 下載 { -brand-name-firefox }
-navigation-get-a-firefox-account = 註冊 Firefox 帳號
+navigation-get-a-firefox-account = 註冊 { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser }桌面版
 navigation-get-the-browser-that-respects = 下載隨時都尊重您隱私的瀏覽器，提供 { -brand-name-windows }、{ -brand-name-mac } 與 { -brand-name-linux } 版本。
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser }行動版
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = 隨身攜帶適用於 { -brand-name-androi
 navigation-get-firefox = 下載 { -brand-name-firefox }
 navigation-get-firefox-focus = 下載 { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } 擴充套件
-navigation-your-firefox-account = 您的 Firefox 帳號
+navigation-your-firefox-account = 您的 { -brand-name-firefox-account }
 navigation-make-the-most-of-your = 在每台裝置上都能充分發揮 { -brand-name-firefox } 的強大體驗。
 navigation-learn-how-to-customize = 了解如何自訂您的 { -brand-name-firefox }。
 navigation-experience-augmented = 使用 { -brand-name-firefox } 體驗擴增與虛擬實境。
