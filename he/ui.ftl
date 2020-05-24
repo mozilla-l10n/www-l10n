@@ -5,18 +5,18 @@
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
 
-ui-back-to-home-page = דף בית
-ui-return-to-top = חזור למעלה
+ui-back-to-home-page = חזרה לדף הבית
+ui-return-to-top = חזרה למעלה
 ui-close = סגירה
-ui-previous = קודם
+ui-previous = הקודם
 ui-next = הבא
-ui-watch-the-video = צפה בסרטון
+ui-watch-the-video = צפייה בסרטון
 ui-replay = להציג שוב
 ui-share = שיתוף
 ui-menu = תפריט
-ui-please-turn-on-javascript = בבקשה להפעיל JavaScript כדי לצפות כראוי בתוכן של דף זה.
-ui-show-more = להציג עוד
-ui-show-less = להציג פחות
+ui-please-turn-on-javascript = נא להפעיל JavaScript כדי להציג את דף זה כראוי.
+ui-show-more = הצגת עוד
+ui-show-less = הצגת פחות
 ui-show-all = הצגת הכל
-ui-hide-all = להסתיר הכול
+ui-hide-all = הסתרת הכל
 ui-learn-more = מידע נוסף
