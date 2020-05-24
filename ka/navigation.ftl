@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
-navigation-get-a-firefox-account = შექმენით Firefox-ანგარიში
-navigation-firefox-browser-for-desktop = Firefox-ბრაუზერი კომპიუტერისთვის
+navigation-get-a-firefox-account = შექმენით { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } კომპიუტერისთვის
 navigation-get-the-browser-that-respects = ისარგებლეთ ბრაუზერით, რომელიც პატივს სცემს თქვენს პირად მონაცემებს. { -brand-name-windows }, { -brand-name-mac } ან { -brand-name-linux }-სისტემაზე.
-navigation-firefox-browser-for-mobile = Firefox-ბრაუზერი მობილურისთვის
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } მობილურისთვის
 navigation-take-speed-privacy-and = მიიღეთ მეტი სიჩქარე, მონაცემების უსაფრთხოება და სიმშვიდე. { -brand-name-android }-სა და { -brand-name-ios }-ზე.
 navigation-download-for-ios = ჩამოტვირთეთ { -brand-name-ios }-ზე
 navigation-download-for-android = ჩამოტვირთეთ { -brand-name-android }-ზე
 navigation-ios-support = მხარდაჭერა { -brand-name-ios }-ზე
 navigation-android-support = მხარდაჭერა { -brand-name-android }-ზე
-navigation-firefox-browser-for-enterprise = Firefox-ბრაუზერი დაწესებულებებისთვის
-navigation-strap-on-your-goggles = მოირგეთ სათვალეები და შეაბიჯეთ ვებსამყაროში ჩასაძირად, გამოიყენეთ VR-ისთვის განკუთვნილი Firefox-ბრაუზერი.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } დაწესებულებებისთვის
+navigation-strap-on-your-goggles = მოირგეთ სათვალეები და შეაბიჯეთ ვებსამყაროში ჩასაძირად, გამოიყენეთ VR-ისთვის განკუთვნილი { -brand-name-firefox-browser }.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } - { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = უყურეთ ვიდეოებს და იმოგზაურეთ ინტერნეტში თქვენი { -brand-name-amazon } { -brand-name-fire-tv }-ით.
 navigation-firefox-browsers-put = { -brand-name-firefox }-ბრაუზერი ყველაფერზე წინ, თქვენს პირადულობას აყენებს — და მუდამ ასე იქნება.
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = თან წაიყოლეთ { -bran
 navigation-get-firefox = გადმოწერეთ { -brand-name-firefox }
 navigation-get-firefox-focus = გადმოწერეთ { -brand-name-firefox-focus }
 navigation-android-extensions = გაფართოებები { -brand-name-android }-ზე
-navigation-your-firefox-account = თქვენი Firefox-ანგარიში
+navigation-your-firefox-account = თქვენი { -brand-name-firefox-account }
 navigation-make-the-most-of-your = სრულყოფილად გამოიყენეთ { -brand-name-firefox }, ყველა თქვენს მოწყობილობაზე.
 navigation-learn-how-to-customize = გაეცანით, { -brand-name-firefox }-ის უკეთ მორგების ხერხებს.
 navigation-experience-augmented = გამოცადეთ დამატებითი და წარმოსახვითი სინამდვილე { -brand-name-firefox }-ით.
