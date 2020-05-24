@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android }ille
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios }:lle
 download-button-firefox-privacy = { -brand-name-firefox }in tietosuoja
+download-button-firefox-privacy-notice = { -brand-name-firefox }-tietosuojaseloste
 download-button-download = Lataa
