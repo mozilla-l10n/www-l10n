@@ -60,8 +60,24 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox-tili
--brand-name-firefox-accounts = Firefox-tilit
+-brand-name-firefox-account =
+    { $case ->
+       *[nominative] Firefox-tili
+        [adessive] Firefox-tilillä
+        [allative] Firefox-tilille
+        [genitive] Firefox-tilin
+        [illative] Firefox-tiliin
+        [partitive] Firefox-tiliä
+    }
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nominative] Firefox-tilit
+        [adessive] Firefox-tileillä
+        [allative] Firefox-tileille
+        [genitive] Firefox-tilien
+        [illative] Firefox-tileihin
+        [partitive] Firefox-tilejä
+    }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send

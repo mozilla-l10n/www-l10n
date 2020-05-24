@@ -24,7 +24,7 @@ firefox-all-32-bit-installers = 32-bittiset asennusohjelmat
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Lataa { -brand-name-firefox-browser } englanniksi (USA) tai yli 90 muulla kielellä
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Kaikki ansaitsevat pääsyn Internetiin - kielesi ei tulisi koskaan olla este. Siksi tarjoamme yhdessä maailmanlaajuisen, sitoutuneen avustajayhteisömme kanssa Firefox-selaimen saataville yli 90 kielellä.
+firefox-all-everyone-deserves-access = Kaikki ansaitsevat pääsyn Internetiin - kielesi ei tulisi koskaan olla este. Siksi tarjoamme yhdessä maailmanlaajuisen, sitoutuneen avustajayhteisömme kanssa { -brand-name-firefox-browser(case: "genitive") } saataville yli 90 kielellä.
 firefox-all-choose-which-firefox = Valitse haluamasi { -brand-name-firefox-browser } haluamallasi kielellä
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }in tietosuojaseloste
 firefox-all-learn-about-firefox = Lue lisää { -brand-name-firefox }-selaimista
@@ -32,7 +32,7 @@ firefox-all-the-standard-firefox = Tavallinen { -brand-name-firefox }-selain - n
 firefox-all-get-a-sneak-peek-at = Tutustu viimeisimpiin { -brand-name-firefox }-selaimen ominaisuuksiin ennen niiden julkaisua.
 firefox-all-test-your-sites-against = Testaa sivustosi pian julkaistavan { -brand-name-firefox }-selaimen ominaisuuksilla tehokkaiden ja joustavien DevTools-työkalujen avulla, jotka ovat oletusarvoisesti käytössä.
 firefox-all-count-on-stability-and = Luota vakauteen ja helppokäyttöisyyteen tämän yrityksiä varten rakennetun { -brand-name-firefox }-selaimen avulla.
-firefox-all-windows-installers-for = Yritystietokoneiden Windows-asennukset, jotka yksinkertaistavat Firefox-selaimen määritystä, käyttöönottoa ja hallintaa.
+firefox-all-windows-installers-for = Yritystietokoneiden Windows-asennukset, jotka yksinkertaistavat { -brand-name-firefox-browser(case: "genitive") } määritystä, käyttöönottoa ja hallintaa.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Valitse 32-bittinen asennusohjelma tietokoneelle, jossa on 32-bittinen prosessori – tai vanhemmalle tai vähemmän tehokkaalle tietokoneelle. <a href="{ $url }">Jos et ole varma</a>, pitäisikö valita 64- vai 32-bittinen asennusohjelma, suosittelemme valitsemaan 32-bittisen.
