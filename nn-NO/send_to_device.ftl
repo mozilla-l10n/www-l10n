@@ -17,5 +17,5 @@ send-to-device-sms-service-available-to-us = SMS-tenesta er berre tilgjengeleg f
 send-to-device-intended-recipient-email-sms = Den tiltenkte mottakaren av e-posten eller SMS-en må ha samtykka.
 send-to-device-intended-recipient-email = Den tiltenkte mottakaren av e-posten må ha samtykka.
 send-to-device-check-your-device-email-sms = Sjekk om du har fått eit e-brev eller ei tekstmelding på eininga di!
-send-to-device-check-your-device-email = Sjekk om du har fått eit e-brev på eininga di!
+send-to-device-check-your-device-email = Sjekk om du har fått ein e-post på eininga di!
 send-to-device-send-to-another = Send til ei anna eining
