@@ -4,15 +4,15 @@
 
 navigation-download-firefox = Загрузить { -brand-name-firefox }
 navigation-get-a-firefox-account = Создать { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } для компьютеров
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(case: "nominative_uppercase") } для компьютеров
 navigation-get-the-browser-that-respects = Загрузите браузер, который уважает вашу приватность из коробки. На { -brand-name-windows }, { -brand-name-mac } или { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } для мобильных
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(case: "nominative_uppercase") } для мобильных
 navigation-take-speed-privacy-and = Возьмите скорость, приватность и душевное спокойствие с собой. На { -brand-name-android } и { -brand-name-ios }.
 navigation-download-for-ios = Загрузить для { -brand-name-ios }
 navigation-download-for-android = Загрузить для { -brand-name-android }
 navigation-ios-support = Поддержка { -brand-name-ios }
 navigation-android-support = Поддержка { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Корпоративный { -brand-name-firefox-browser }
+navigation-firefox-browser-for-enterprise = Корпоративный { -brand-name-firefox-browser(case: "nominative") }
 navigation-strap-on-your-goggles = Наденьте очки и погрузитесь в захватывающий мир с браузером { -brand-name-firefox-browser } для виртуальной реальности.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Смотрите видео и сёрфите по Интернету на вашем { -brand-name-amazon } { -brand-name-fire-tv }.
