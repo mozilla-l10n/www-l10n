@@ -4,7 +4,7 @@
 
 send-to-device-send-firefox = שליחת { -brand-name-firefox } אל הטלפון או מחשב הלוח שלך
 send-to-device-your-download-link = קישור ההורדה נשלח.
-send-to-device-sorry-we-cant-send = אין לנו אפשרות לשלוח מסרונים למספר טלפון זה.
+send-to-device-sorry-we-cant-send = מצטערים, אין באפשרותנו לשלוח מסרונים למספר טלפון זה.
 send-to-device-sorry-this-number = אנו מצטערים. מספר הטלפון שהוזן אינו נראה כמו מספר טלפון תקני בארה״ב.
 send-to-device-please-enter-an-email = נא להזין כתובת דוא״ל.
 send-to-device-an-error-occured = אירעה שגיאה במערכת. נא לנסות שנית מאוחר יותר.

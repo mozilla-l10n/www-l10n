@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = נא להכניס כתובת דוא״ל חוקית
+newsletter-form-you-must-agree-to = עליך להסכים להצהרת הפרטיות
+newsletter-form-your-email-address = כתובת הדוא״ל שלך
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = בחירת מדינה או אזור
 newsletter-form-your-email-here = כתובת הדואר האלקטרוני שלך כאן
 newsletter-form-format = תבנית
 newsletter-form-html = HTML
@@ -17,7 +23,7 @@ newsletter-form-get-firefox-tips = קבלת טיפים וטריקים, חדשו�
 newsletter-form-keep-up-with = הישארו מעודכנים<br>עם { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = קבלת עדכונים מ־{ -brand-name-mozilla }
 newsletter-form-available-languages = שפות זמינות
-newsletter-form-select-country = נא לבחור מדינה
+newsletter-form-select-country = בחירת מדינה
 newsletter-form-sign-me-up = רישמו אותי
-newsletter-form-sign-up-now = הרשמה
+newsletter-form-sign-up-now = הרשמה כעת
 newsletter-form-thanks = תודה!
