@@ -8,4 +8,5 @@
 
 ## Required
 
+whatsnew-account-main-headline = Ingen konto påkravd. Men du vil kanskje ha ein.
 whatsnew-account-main-button = Logg inn
