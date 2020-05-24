@@ -46,6 +46,7 @@ footer-websites-privacy-notice = საიტის პირადი მონ
 footer-websites-cookies = ფუნთუშები
 footer-websites-legal = სამართლებრივი საკითხები
 footer-language = ენა
+footer-go = წინ
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

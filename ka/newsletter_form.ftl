@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = გთხოვთ მიუთითოთ ელფოსტის მართებული მისამართი.
+newsletter-form-you-must-agree-to = უნდა დაეთანხმოთ გამოყენების პირობებს
+newsletter-form-your-email-address = თქვენი ელფოსტის მისამართი
 newsletter-form-your-email-here = თქვენი ელფოსტა
 newsletter-form-format = ფორმატი
 newsletter-form-html = HTML
