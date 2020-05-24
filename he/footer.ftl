@@ -23,7 +23,7 @@ footer-developers = מפתחים
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
-footer-nightly-for-android = { -brand-name-nightly } ל־{ -brand-name-android }
+footer-nightly-for-android = ‏{ -brand-name-nightly } עבור { -brand-name-android }
 footer-beta-for-android = ‏{ -brand-name-beta } עבור { -brand-name-android }
 footer-portions-of-this-content = הזכויות של חלקים מתוכן זה שמורות ©1998–{ $current_year } לתורמים של mozilla.org. התוכן זמין תחת <a rel="license" href="{ $url }">רישיון { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
