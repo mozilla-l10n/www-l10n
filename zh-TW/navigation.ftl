@@ -4,15 +4,15 @@
 
 navigation-download-firefox = 下載 { -brand-name-firefox }
 navigation-get-a-firefox-account = 註冊 Firefox 帳號
-navigation-firefox-browser-for-desktop = Firefox 瀏覽器桌面版
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser }桌面版
 navigation-get-the-browser-that-respects = 下載隨時都尊重您隱私的瀏覽器，提供 { -brand-name-windows }、{ -brand-name-mac } 與 { -brand-name-linux } 版本。
-navigation-firefox-browser-for-mobile = Firefox 瀏覽器行動版
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser }行動版
 navigation-take-speed-privacy-and = 帶上速度、隱私與平靜的心靈。提供 { -brand-name-android } 與 { -brand-name-ios } 版本。
 navigation-download-for-ios = 下載 { -brand-name-ios } 版
 navigation-download-for-android = 下載 { -brand-name-android } 版
 navigation-ios-support = { -brand-name-ios } 技術支援
 navigation-android-support = { -brand-name-android } 技術支援
-navigation-firefox-browser-for-enterprise = Firefox 瀏覽器企業版
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser }企業版
 navigation-strap-on-your-goggles = 戴上您的 VR 眼鏡，使用 { -brand-name-firefox-browser } for VR 進入沉浸式網頁體驗。
 navigation-firefox-for-fire-tv = { -brand-name-firefox } for { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = 使用您的 { -brand-name-amazon } { -brand-name-fire-tv } 觀賞影片、瀏覽網頁。
