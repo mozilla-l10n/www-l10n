@@ -24,7 +24,15 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox-selain
+-brand-name-firefox-browser =
+    { $case ->
+       *[nominative] Firefox-selain
+        [ablative] Firefox-selaimelta
+        [elative] Firefox-selaimesta
+        [genitive] Firefox-selaimen
+        [illative] Firefox-selaimeen
+        [inessive] Firefox-selaimessa
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
