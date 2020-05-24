@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navigation-download-firefox = הורדת { -brand-name-firefox }
+navigation-get-a-firefox-account = קבלת { -brand-name-firefox-account }
 navigation-release-notes = הערות שחרור
 navigation-features = תכונות
 navigation-products = מוצרים

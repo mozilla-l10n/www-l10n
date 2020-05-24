@@ -9,6 +9,10 @@ firefox-new-download-firefox = הורדת { -brand-name-firefox }
 firefox-new-faster-page-loading-less-memory = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, ה־{ -brand-name-firefox } החדש כאן.
 firefox-new-automatic-privacy-is-here = פרטיות אוטומטית כבר כאן. ניתן להוריד את { -brand-name-firefox } כדי לחסום יותר מ־2,000 רכיבי מעקב.
 firefox-new-join-firefox = הצטרפות ל־{ -brand-name-firefox }
+# span's below are for visual formatting and line break.
+firefox-new-download-firefox-for-windows = הורדת { -brand-name-firefox } <br>עבור { -brand-name-windows }
+firefox-new-download-firefox-for-macos = הורדת { -brand-name-firefox } <br>עבור { -brand-name-mac }
+firefox-new-download-firefox-for-linux = הורדת { -brand-name-firefox } <br>עבור { -brand-name-linux }
 firefox-new-free-web-browser = דפדפן אינטרנט חינמי
 firefox-new-advanced-install-options = אפשרויות התקנה מתקדמות ופלטפורמות אחרות
 firefox-new-download-in-another-language = הורדה בשפה אחרת
