@@ -5,13 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-check-the-system-requirements = בדיקת דרישות המערכת
+firefox-all-release-notes = הערות שחרור
 firefox-all-source-code = קוד מקור
+firefox-all-need-help = זקוקים לעזרה?
+firefox-all-which-browser-would = איזה דפדפן ברצונך להוריד?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = קבלת עזרה
 firefox-all-browser = דפדפן:
 firefox-all-platform = סביבה:
 firefox-all-language = שפה:
 firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
+firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-name-firefox }
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
