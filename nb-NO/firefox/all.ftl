@@ -22,9 +22,9 @@ firefox-all-64-bit-installers = 64-bit installerer
 firefox-all-choose-a-64-bit-installer = Vel et 64-bit installasjonsprogrammer for datamaskiner med 64-bits prosessorer, noe som gjør at datamaskinen kan fordele mer RAM til enkelte programmer - spesielt viktig for spill og andre krevende program.
 firefox-all-32-bit-installers = 32-bit installerer
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Last ned Firefox-nettleseren på norsk (bokmål) og mer enn 90 andre språk
+firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }-nettleseren på norsk (bokmål) og mer enn 90 andre språk
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Alle fortjener å ha tilgang til internett – språket ditt skal aldri være en hindring. Derfor gjør vi Firefox-nettleseren tilgjengelig på mer enn 90 språk med hjelp fra engasjerte frivillige rundt om i verdenen.
+firefox-all-everyone-deserves-access = Alle fortjener å ha tilgang til internett — språket ditt skal aldri være en hindring. Derfor gjør vi { -brand-name-firefox-browser }-nettleseren tilgjengelig på mer enn 90 språk med hjelp fra engasjerte frivillige rundt om i verdenen.
 firefox-all-choose-which-firefox = Velg hvilken Firefox-nettleser du vil laste ned på ditt språk
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } personvernbestemmelser
 firefox-all-learn-about-firefox = Les mer om { -brand-name-firefox }-nettlesere
