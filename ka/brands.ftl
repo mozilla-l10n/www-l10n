@@ -53,7 +53,11 @@
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-account = Firefox-ანგარიში
--brand-name-firefox-accounts = Firefox-ანგარიშები
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nom] Firefox-ანგარიშები
+        [dat] Firefox-ანგარიშებ
+    }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
