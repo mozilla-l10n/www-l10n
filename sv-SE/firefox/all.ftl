@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = 64-bitars installerare
 firefox-all-choose-a-64-bit-installer = Välj ett 64-bitars installationsprogram för datorer med 64-bitars processorer, vilket gör det möjligt för dem att fördela mer RAM till enskilda program - särskilt viktigt för spel och andra krävande applikationer.
 firefox-all-32-bit-installers = 32-bitars installerare
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Ladda ner webbläsaren { -brand-name-firefox-browser } på engelska (USA) och mer än 90 andra språk
+firefox-all-download-the-firefox = Ladda ner webbläsaren { -brand-name-firefox-browser } på svenska och mer än 90 andra språk
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Alla förtjänar tillgång till internet — ditt språk ska aldrig vara ett hinder. Det är därför — med hjälp av dedikerade volontärer världen över — gör vi webbläsaren { -brand-name-firefox-browser } tillgänglig på mer än 90 språk.
 firefox-all-choose-which-firefox = Välj vilken { -brand-name-firefox-browser }-webbläsare du vill ladda ner på ditt språk
