@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Eva hag̃ua { -brand-name-firefox
 switch-select-what-to-take = Embosa’y eipotáva { -brand-name-chrome }-gui.
 switch-let-firefox-do-the-rest = Eheja { -brand-name-firefox } tojapo hembýva guive.
 switch-use-firefox-and-still-chrome = Ikatu eipuru { -brand-name-firefox } ha eguereko avei { -brand-name-chrome }. { -brand-name-chrome } oĩta upépe jepiveguáicha.
+switch-spread-the-word = Oñe’ẽ { -brand-name-firefox } rehe ha oipytyvõ nde rapicha oikotevẽva opoi hag̃ua { -brand-name-chrome }-gui.
 switch-share-with-your-friends = Emombe’u ne angirũnguérape mba’éichapa ováta { -brand-name-firefox } ndive
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } ndive ipya’eve { -brand-name-chrome }-gui ñemoambue. ¡Eha’ãmína!
 switch-switch-to-firefox = { -brand-name-firefox }-pe ndive jeho
