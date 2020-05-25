@@ -26,7 +26,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } para { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } para { -brand-name-android }
-footer-visit-mozilla-corporations = Visite a <a { $mofo_link }>Fundação Mozilla</a>, entidade sem fins lucrativos, matriz da <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
+footer-visit-mozilla-corporations = Visite a <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, entidade sem fins lucrativos, matriz da <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-portions-of-this-content = Trechos deste conteúdo possuem direitos reservados ©1998–{ $current_year } por colaboradores individuais da mozilla.org. Conteúdo disponível sob uma licença <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Empresa
