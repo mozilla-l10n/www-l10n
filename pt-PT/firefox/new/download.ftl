@@ -13,7 +13,7 @@ firefox-new-automatic-privacy-is-here = A privacidade automática está aqui. Tr
 firefox-new-get-the-latest-firefox = Obtenha o navegador { -brand-name-firefox } mais recente.
 firefox-new-firefox-shows-you-how-many = O { -brand-name-firefox } mostra quantos rastreadores de recolha de informação foram bloqueados com a <strong>Proteção melhorada contra a monitorização</strong>.
 firefox-new-firefox-lockwise-makes-secure = O <strong>{ -brand-name-firefox-lockwise }</strong> torna as palavras-passe que guarda no { -brand-name-firefox } seguras e disponíveis em todos os seus dispositivos.
-firefox-new-firefox-monitor-alerts = O <strong>{ -brand-name-firefox-monitor }</strong> avisa-o se soubermos que os seus dados fazem parte de uma falha de segurança de dados de outra empresa.
+firefox-new-firefox-monitor-alerts = O <strong>{ -brand-name-firefox-monitor }</strong> avisa-o se soubermos que os seus dados fazem parte de uma violação de dados de outra empresa.
 firefox-new-join-firefox = Junte-se ao { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = O <strong>{ -brand-name-firefox-lockwise }</strong> torna as palavras-passe que guarda no { -brand-name-firefox } disponíveis em todos os seus dispositivos.
 # span's below are for visual formatting and line break.
@@ -32,7 +32,7 @@ firefox-new-fix-a-problem = Corrigir um problema
 firefox-new-need-help = Precisa de ajuda?
 firefox-new-see-whats-being-blocked = Veja o que está a ser bloqueado
 firefox-new-make-your-passwords-portable = Torne as suas palavras-passe portáveis
-firefox-new-watch-for-data-breaches = Tenha atenção às falhas de segurança de dados
+firefox-new-watch-for-data-breaches = Tenha atenção às violações de dados
 firefox-new-connect-to-a-whole-family = Ligue-se a toda uma família de produtos de respeito, mais todo o conhecimento que precisa para se proteger online.
 firefox-new-passwords-made-portable = Palavras-passe portáteis
 firefox-new-protect-your-privacy = Proteja a sua privacidade
