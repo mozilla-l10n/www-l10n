@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } ześěgnuś
-navigation-get-a-firefox-account = Konto Firefox załožyś
+navigation-get-a-firefox-account = Wobstarajśo se { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } za Desktop
 navigation-get-the-browser-that-respects = Wobstarajśo se wobglědowak, kótaryž wašu priwatnosć awtomatiski respektěrujo. Na { -brand-name-windows }, { -brand-name-mac } abo { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne rědy
@@ -30,11 +30,11 @@ navigation-mozilla-careers = Kariera pla { -brand-name-mozilla }
 navigation-approach-your-career = Dajśo se do swójeje kariery zaměrnje. Namakajśo gódnotne źěło pla { -brand-name-mozilla }.
 navigation-close-firefox-menu = Meni { -brand-name-firefox } zacyniś
 navigation-get-the-browser-that-gives = Wobstarajśo se wobglědowak, kótaryž wam wěcej wugbaśa na { -brand-name-windows }, { -brand-name-mac } abo { -brand-name-linux } dajo.
-navigation-take-firefox-and-firefox = Wzejśo { -brand-name-firefox } a { -brand-name-firefox } Klar sobu. Za { -brand-name-android } a { -brand-name-ios }.
+navigation-take-firefox-and-firefox = Wzejśo { -brand-name-firefox } a { -brand-name-firefox-focus } sobu. Za { -brand-name-android } a { -brand-name-ios }.
 navigation-get-firefox = Wobstarajśo se { -brand-name-firefox }
-navigation-get-firefox-focus = Wobstarajśo se Firefox Klar
+navigation-get-firefox-focus = Wobstarajśo se { -brand-name-firefox-focus }
 navigation-android-extensions = Rozšyrjenja { -brand-name-android }
-navigation-your-firefox-account = Wašo konto Firefox
+navigation-your-firefox-account = Wašo { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Wuwónoźćo nejlěpše z dožywjenja { -brand-name-firefox }, na kuždem rěźe.
 navigation-learn-how-to-customize = Zgóńśo, kak móžośo swój { -brand-name-firefox } pśiměriś.
 navigation-experience-augmented = Dožywśo z { -brand-name-firefox } rozšyrjonu a wirtuelnu realitu.
