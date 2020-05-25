@@ -18,6 +18,10 @@ newsletter-form-get-firefox-news = Ontvang { -brand-name-firefox }-nieuws
 newsletter-form-im-okay-with-mozilla = Ik ga akkoord met het gebruik van mijn gegevens door { -brand-name-mozilla }, zoals uitgelegd in <a href="{ $url }">deze privacyverklaring</a>
 newsletter-form-we-will-only-send = We sturen u alleen { -brand-name-mozilla }-gerelateerde informatie.
 newsletter-form-if-you-havent-previously = Als u nog niet eerder een inschrijving voor een { -brand-name-mozilla }-gerelateerde nieuwsbrief hebt bevestigd, dient u dit mogelijk te doen. Controleer uw Postvak IN of uw spamfilter voor een e-mail van ons.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + u
+newsletter-form-get-firefox-tips = Ontvang tips, trucs, nieuws en meer over { -brand-name-firefox }
+newsletter-form-keep-up-with = Blijf op de hoogte van<br> alles over { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Ontvang updates van { -brand-name-mozilla }
 newsletter-form-available-languages = Beschikbare talen
 newsletter-form-select-country = Land selecteren
 newsletter-form-sign-me-up = Inschrijven

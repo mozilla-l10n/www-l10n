@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Overstappen naar { -brand-name-fi
 switch-select-what-to-take = Selecteer wat u uit { -brand-name-chrome } wilt overnemen.
 switch-let-firefox-do-the-rest = Laat { -brand-name-firefox } de rest doen.
 switch-use-firefox-and-still-chrome = U kunt { -brand-name-firefox } gebruiken en { -brand-name-chrome } behouden. { -brand-name-chrome } op uw machine blijft hetzelfde.
+switch-spread-the-word = Vertel anderen over { -brand-name-firefox } en help uw favoriete personen afscheid te nemen van { -brand-name-chrome }.
 switch-share-with-your-friends = Deel met vrienden hoe u naar { -brand-name-firefox } kunt overstappen
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } maakt overstappen vanaf { -brand-name-chrome } echt snel. Probeer het zelf!
 switch-switch-to-firefox = Overstappen naar { -brand-name-firefox }
