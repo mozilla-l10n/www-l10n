@@ -27,7 +27,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } { -brand-name-nightly } 版
 footer-beta-for-android = { -brand-name-android } { -brand-name-beta } 版
 footer-visit-mozilla-corporations = 歡迎造訪 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的非營利母公司，<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
-footer-portions-of-this-content = 本頁的部分內容著作權為 ©1998–{ $current_year } 由個別 mozilla.org 貢獻者所有，使用 <a rel="license" href="{ $url }">{ -brand-name-creative-commons } 授權條款</a>授權大眾使用。
+footer-portions-of-this-content = 本頁的部分內容著作權為 ©1998–{ $current_year } 由個別 mozilla.org 貢獻者所有，使用<a rel="license" href="{ $url }">{ -brand-name-creative-commons } 授權條款</a>授權大眾使用。
 footer-mozilla = { -brand-name-mozilla }
 footer-company = 公司
 footer-about = 關於我們
