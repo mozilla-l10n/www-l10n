@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Discargar { -brand-name-firefox }
-navigation-get-a-firefox-account = Obtener un conto Firefox
-navigation-firefox-browser-for-desktop = Navigator Firefox pro scriptorio
+navigation-get-a-firefox-account = Obtener un { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pro scriptorio
 navigation-get-the-browser-that-respects = Installa le navigator que respecta automaticamente tu confidentialitate. Sur { -brand-name-windows }, { -brand-name-mac } o { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Navigator Firefox pro mobile
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pro mobile
 navigation-take-speed-privacy-and = Porta con te velocitate, confidentialitate e pace del mente. Sur { -brand-name-android } e { -brand-name-ios }.
 navigation-download-for-ios = Discargar pro { -brand-name-ios }
 navigation-download-for-android = Discargar pro { -brand-name-android }
 navigation-ios-support = Supporto de { -brand-name-ios }
 navigation-android-support = Assistentia { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Navigator Firefox pro interprisas
-navigation-strap-on-your-goggles = Liga tu berillos e entra in le web immersive per le navigator Firefox pro realitate virtual.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } pro interprisas
+navigation-strap-on-your-goggles = Liga tu berillos e entra in le web immersive per { -brand-name-firefox-browser } pro realitate virtual.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } pro { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Observa videos e naviga in internet sur tu { -brand-name-fire-tv } { -brand-name-amazon }.
 navigation-firefox-browsers-put = Le navigatores { -brand-name-firefox } antepone tu discretion desde sempre.
-navigation-take-the-passwords-youve = Vide si tu informationes personal ha essite revelate online e inscribe te al futuro avisos de violation.
+navigation-take-the-passwords-youve = Porta tu contrasignos con te in { -brand-name-firefox } ubique.
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } es tote un familia de productos concipite pro mantener te plus secur e plus intelligente in linea.
 navigation-join-firefox = Junge te a { -brand-name-firefox }
 navigation-access-all-of-firefox = Obtene le avantages de cata producto { -brand-name-firefox } per un singule accesso.
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Porta { -brand-name-firefox } e { -brand-n
 navigation-get-firefox = Discarga { -brand-name-firefox }
 navigation-get-firefox-focus = Discarga { -brand-name-firefox-focus }
 navigation-android-extensions = Le extensiones de { -brand-name-android }
-navigation-your-firefox-account = Tu conto de Firefox
+navigation-your-firefox-account = Tu { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Tira le maxime avantage de { -brand-name-firefox }, inter tote le apparatos.
 navigation-learn-how-to-customize = Apprende a personalisar le functionamento de { -brand-name-firefox }.
 navigation-experience-augmented = Experientia augmentate e realitate virtual con { -brand-name-firefox }.
