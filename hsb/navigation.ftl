@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } sćahnyć
-navigation-get-a-firefox-account = Konto Firefox załožić
+navigation-get-a-firefox-account = Wobstarajće sej { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } za Desktop
 navigation-get-the-browser-that-respects = Wobstarajće sej wobhladowak, kotryž wašu priwatnosć awtomatisce respektuje. Na { -brand-name-windows }, { -brand-name-mac } abo { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne graty
@@ -30,11 +30,11 @@ navigation-mozilla-careers = Karjera pola { -brand-name-mozilla }
 navigation-approach-your-career = Přimńće swoju karjeru zaměrnje. Namakajće hódnotne dźěło pola { -brand-name-mozilla }.
 navigation-close-firefox-menu = Meni { -brand-name-firefox } začinić
 navigation-get-the-browser-that-gives = Wobstarajće sej wobhladowak, kotryž wam wjace wukona na { -brand-name-windows }, { -brand-name-mac } abo { -brand-name-linux } da.
-navigation-take-firefox-and-firefox = Wzmiće { -brand-name-firefox } a { -brand-name-firefox } Klar sobu. Za { -brand-name-android } a { -brand-name-ios }.
+navigation-take-firefox-and-firefox = Wzmiće { -brand-name-firefox } a { -brand-name-firefox-focus } sobu. Za { -brand-name-android } a { -brand-name-ios }.
 navigation-get-firefox = Wobstarajće sej { -brand-name-firefox }
-navigation-get-firefox-focus = Wobstarajće sej Firefox Klar
+navigation-get-firefox-focus = Wobstarajće sej { -brand-name-firefox-focus }
 navigation-android-extensions = Rozšěrjenja { -brand-name-android }
-navigation-your-firefox-account = Waše konto Firefox
+navigation-your-firefox-account = Waše { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Wućehńće najlěpše z dožiwjenja { -brand-name-firefox }, na kóždym graće.
 navigation-learn-how-to-customize = Zhońće, kak móžeće swój { -brand-name-firefox } přiměrić.
 navigation-experience-augmented = Dožiwće z { -brand-name-firefox } rozšěrjenu a wirtuelnu realitu.

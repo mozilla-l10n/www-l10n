@@ -32,7 +32,7 @@ firefox-all-the-standard-firefox = Standardny wobhladowak { -brand-name-firefox 
 firefox-all-get-a-sneak-peek-at = Pohladajće na najnowše funkcije wobhladowaka { -brand-name-firefox }, prjedy hač so wozjewja.
 firefox-all-test-your-sites-against = Testujće planowane funkcije wobhladowaka { -brand-name-firefox } noweho wozjewjenja z mócnymi, fleksibelnymi wuwiwarskimi nastrojemi, kotrež su zmóžnjene po standardźe.
 firefox-all-count-on-stability-and = Spušćće so na stabilnosć a lochke wužiwanje z tutym wobhladowakom { -brand-name-firefox } za předewzaća.
-firefox-all-windows-installers-for = Instalowaki Windows za IT předewzaćow, kotrež konfiguraciju, přewostajenje a rjadowanje wobhladowaka Firefox wosnadnjeja.
+firefox-all-windows-installers-for = Instalowaki Windows za IT předewzaćow, kotrež konfiguraciju, přewostajenje a rjadowanje { -brand-name-firefox-browser } wosnadnjeja.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wubjerće 32-bitowy instalowanski program za ličaki z 32-bitowymi procesorami - abo za starše abo mjenje wukonliwe ličaki. <a href="{ $url }">Jeli sej wěsty njejsće</a>, hač maće 64-bitowy abo 32-bitowy instalowanski program wubrać, poručamy wam 32-bitowy instalowanski program wubrać.
