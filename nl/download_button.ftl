@@ -9,7 +9,7 @@ download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Ondersteunde apparaten
-download-button-whats-new = Wat is nieuw
+download-button-whats-new = Wat is er nieuw
 download-button-systems-languages = Systemen &amp; talen
 download-button-recommended = Aanbevolen
 # Variables:
