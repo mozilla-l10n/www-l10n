@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Escolha um instalador de 64 bits para computadores com processadores de 64 bits, que permitem alocar mais memória RAM para cada programa — particularmente importante para jogos e outras aplicações exigentes.
 firefox-all-32-bit-installers = Instaladores de 32 bits
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Baixe o Navegador Firefox em inglês (US) e mais de 90 outros idiomas
+firefox-all-download-the-firefox = Baixe o { -brand-name-firefox-browser } em inglês (US) e mais de 90 outros idiomas
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Todos merecem ter acesso à internet — seu idioma nunca deve ser um impedimento. É por isso que, com a ajuda de voluntários dedicados no mundo todo, disponibilizamos o Navegador Firefox em mais de 90 idiomas.
 firefox-all-choose-which-firefox = Escolha qual Navegador Firefox baixar em seu idioma
