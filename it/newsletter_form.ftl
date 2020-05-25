@@ -18,6 +18,7 @@ newsletter-form-get-firefox-news = Ricevi le ultime notizie relative a { -brand-
 newsletter-form-im-okay-with-mozilla = Acconsento al trattamento di queste informazioni secondo quanto indicato nell’<a href="{ $url }">informativa sulla privacy</a>
 newsletter-form-we-will-only-send = Ti invieremo solo notizie relative a { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Potrebbe essere necessario confermare l’iscrizione se non sei già iscritto a una newsletter { -brand-name-mozilla }. Verifica se c’è un nostro messaggio nella posta in arrivo o nello spam.
+newsletter-form-get-mozilla-updates = Ricevi aggiornamenti su { -brand-name-mozilla }
 newsletter-form-available-languages = Lingue disponibili
 newsletter-form-select-country = Scegli la nazione
 newsletter-form-sign-me-up = Iscrivimi
