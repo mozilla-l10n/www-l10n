@@ -4,15 +4,15 @@
 
 navigation-download-firefox = Scarica { -brand-name-firefox }
 navigation-get-a-firefox-account = Registra un { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = Browser Firefox per desktop
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(capitalization: "uppercase") } per desktop
 navigation-get-the-browser-that-respects = Usa il browser che rispetta la tua privacy in automatico. Per { -brand-name-windows }, { -brand-name-mac } e { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Browser Firefox per mobile
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(capitalization: "uppercase") } per mobile
 navigation-take-speed-privacy-and = Porta velocità, privacy e serenità sempre con te. Per { -brand-name-android } e { -brand-name-ios }.
 navigation-download-for-ios = Scarica per { -brand-name-ios }
 navigation-download-for-android = Scarica per { -brand-name-android }
 navigation-ios-support = Assistenza { -brand-name-ios }
 navigation-android-support = Assistenza { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Browser Firefox per le aziende
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(capitalization: "uppercase") } per le aziende
 navigation-strap-on-your-goggles = Indossa il visore VR e tuffati in un nuovo Web immersivo con il { -brand-name-firefox-browser } per realtà virtuale.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } per { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Guarda i video e naviga in Internet sulla tua { -brand-name-fire-tv } { -brand-name-amazon }.

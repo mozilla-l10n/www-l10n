@@ -22,9 +22,9 @@ firefox-all-64-bit-installers = Programmi di installazione a 64-bit
 firefox-all-choose-a-64-bit-installer = Per computer con processori a 64-bit, scegli un programma di installazione a 64-bit, per avere più spazio in RAM allocabile per i programmi individuali (particolarmente rilevante per chi utilizza giochi e altre applicazioni intensive).
 firefox-all-32-bit-installers = Programmi di installazione a 32-bit
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Scarica il browser Firefox in italiano e più di altre 90 lingue
+firefox-all-download-the-firefox = Scarica il { -brand-name-firefox-browser } in italiano e più di altre 90 lingue
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Tutti meritiamo l’accesso a Internet senza barriere linguistiche. Per questo, grazie all’aiuto di volontari da tutto il mondo, rendiamo il browser Firefox disponibile in più di 90 lingue.
+firefox-all-everyone-deserves-access = Tutti meritiamo l’accesso a Internet senza barriere linguistiche. Per questo, grazie all’aiuto di volontari da tutto il mondo, rendiamo il { -brand-name-firefox-browser } disponibile in più di 90 lingue.
 firefox-all-choose-which-firefox = Scegli quale { -brand-name-firefox-browser } scaricare nella tua lingua
 firefox-all-firefox-privacy-notice = Informativa sulla privacy di { -brand-name-firefox }
 firefox-all-learn-about-firefox = Ulteriori informazioni sui browser { -brand-name-firefox }

@@ -27,7 +27,7 @@
 -brand-name-firefox-browser =
     { $capitalization ->
        *[lowercase] browser Firefox
-        [uppercase] Broser Firefox
+        [uppercase] Browser Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
