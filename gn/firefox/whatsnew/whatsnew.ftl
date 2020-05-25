@@ -9,3 +9,6 @@ whatsnew-page-title = Mba’épa ipyahumíva { -brand-name-firefox }-pe - Tekoñ
 whatsnew-page-description = Eñemohatã apoharaguasu rovake ohepyme’ẽ ne mba’ekuaarã mbohapyhávape. Eiko nde jehegui ha tekorosãme ñandutípe tembipurupyahu ndeykeregua ndive.
 whatsnew-up-to-date-notification = ¡Ipoãitépa! Eipuruhína { -brand-name-firefox-browser } ipyahuvéva.
 whatsnew-out-of-date-notification = Eipurukuaa { -brand-name-firefox-browser } ipyahuvéva. Eñepyrũjey hekopyahu hag̃ua.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes = Emoñe’ẽ <a href="{ $url }">Jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.
