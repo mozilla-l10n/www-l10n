@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Passare a { -brand-name-firefox }
 switch-select-what-to-take = Seleziona cosa vuoi importare da { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = { -brand-name-firefox } farà il resto.
 switch-use-firefox-and-still-chrome = { -brand-name-firefox } e { -brand-name-chrome } possono coesistere sullo stesso dispositivo. L’importazione non eliminerà i tuoi dati da { -brand-name-chrome }.
+switch-spread-the-word = Spargi la voce su { -brand-name-firefox } e aiuta amici e conoscenti a dire addio a { -brand-name-chrome }.
 switch-share-with-your-friends = Condividi con i tuoi amici le istruzioni per passare a { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 Passare da { -brand-name-chrome } a { -brand-name-firefox } è davvero veloce. Provaci.
 switch-switch-to-firefox = Passa a { -brand-name-firefox }
