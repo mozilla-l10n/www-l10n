@@ -22,10 +22,10 @@ firefox-all-64-bit-installers = 64-bitowe instalowaki
 firefox-all-choose-a-64-bit-installer = Wubjerće 64-bitowy instalowanski program za ličaki z 64-bitowymi procesorami, kotryž jim dowoluje, wjace RAM připokazać - wosebje wažne za hry a druhe naročne nałoženja.
 firefox-all-32-bit-installers = 32-bitowe instalowaki
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Sćehńće wobhladowak Firefox w hornjoserbšćinje a wjace hač 90 druhich rěčach
+firefox-all-download-the-firefox = Sćehńće wobhladowak { -brand-name-firefox-browser } w hornjoserbšćinje a wjace hač 90 druhich rěčach
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Kóždy sej přistup na internet zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta wobhladowak Firefox we wjace hač 90 rěčach k dispoziciji.
-firefox-all-choose-which-firefox = Wubjerće wobhladowak Firefox, kotryž chceće w swojej rěči sćahnyć
+firefox-all-everyone-deserves-access = Kóždy sej přistup na internet zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta { -brand-name-firefox-browser } we wjace hač 90 rěčach k dispoziciji.
+firefox-all-choose-which-firefox = Wubjerće { -brand-name-firefox-browser }, kotryž chceće w swojej rěči sćahnyć
 firefox-all-firefox-privacy-notice = Pokazki priwatnosće { -brand-name-firefox }
 firefox-all-learn-about-firefox = Zhońće wjace wo wobhladowakach { -brand-name-firefox }
 firefox-all-the-standard-firefox = Standardny wobhladowak { -brand-name-firefox } - spěšny a priwatny. Jeli sej wěsty njejsće, kotry { -brand-name-firefox } maće wubrać, wubjerće tutón { -brand-name-firefox }.
