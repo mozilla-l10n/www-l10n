@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Pšawidła priwatnosći websedła
 footer-websites-cookies = Cookieje
 footer-websites-legal = Pšawniske
 footer-language = Rěc
+footer-go = Start
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
