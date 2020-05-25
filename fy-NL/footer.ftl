@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Privacyferklearring foar website
 footer-websites-cookies = Cookies
 footer-websites-legal = Juridysk
 footer-language = Taal
+footer-go = Gean
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

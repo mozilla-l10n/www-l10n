@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Fier in jildich e-mailadres yn
+newsletter-form-you-must-agree-to = Jo moatte akkoard gean mei de privacyferklearring
+newsletter-form-your-email-address = Jo e-mailadres
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = jonamme@example.com
+newsletter-form-select-country-or-region = Selektearje lân of regio
 newsletter-form-your-email-here = JO E-MAILADRES
 newsletter-form-format = Formaat
 newsletter-form-html = HTML

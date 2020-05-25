@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Switche nei { -brand-name-firefox
 switch-select-what-to-take = Kies wat jo oernimme wolle fan { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Lit { -brand-name-firefox } de rest dwaan.
 switch-use-firefox-and-still-chrome = Jo kinne { -brand-name-firefox } brûke en { -brand-name-chrome } behâlde. { -brand-name-chrome } sil hielendal net wizigje op jo systeem.
+switch-spread-the-word = Fertel oaren oer { -brand-name-firefox } en help jo favorite persoanen ôfskied te nimmen fan { -brand-name-chrome }.
 switch-share-with-your-friends = Diel it switchen nei { -brand-name-firefox } mei jo freonen
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } makket switchen fan { -brand-name-chrome } hiel fluch. Probearje it ris!
 switch-switch-to-firefox = Switch nei { -brand-name-firefox }
