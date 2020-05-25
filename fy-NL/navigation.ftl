@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } downloade
-navigation-get-a-firefox-account = Meitsje in Firefox-account oan
+navigation-get-a-firefox-account = Meitsje in { -brand-name-firefox-account } oan
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } foar buro-pc
 navigation-get-the-browser-that-respects = Brûk de browser dy't jo privacy automatysk respektearret. Te krijen foar { -brand-name-windows }, { -brand-name-mac } of { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } foar mobyl
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Nim { -brand-name-firefox } en { -brand-na
 navigation-get-firefox = { -brand-name-firefox } downloade
 navigation-get-firefox-focus = { -brand-name-firefox-focus } downloade
 navigation-android-extensions = { -brand-name-android }-útwreidingen
-navigation-your-firefox-account = Jo Firefox-account
+navigation-your-firefox-account = Jo { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Helje it measte út jo { -brand-name-firefox }-ûnderfining, op alle apparaten.
 navigation-learn-how-to-customize = Lês hoe't jo de manier wêrop { -brand-name-firefox } wurket oanpasse kinne.
 navigation-experience-augmented = Belibje tafoege en firtuele realiteit mei { -brand-name-firefox }.

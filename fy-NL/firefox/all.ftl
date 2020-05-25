@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64-bits-ynstallaasjeprogramma’s
 firefox-all-choose-a-64-bit-installer = Kies in 64-bits-ynstallaasjeprogramma foar kompjûters mei 64-bits prosessors, wêrmei't se mear RAM oan yndividuele programma’s tawize kinne – mei namme wichtich foar spullen en oare sinnige tapassingen.
 firefox-all-32-bit-installers = 32-bits-ynstallaasjeprogramma’s
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Download de Firefox-browser yn it Frysk en yn mear as 90 oare talen
+firefox-all-download-the-firefox = Download de { -brand-name-firefox-browser } yn it Frysk en yn mear as 90 oare talen
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – de Firefox-browser beskikber yn mear as 90 talen.
-firefox-all-choose-which-firefox = Kies de Firefox-browser dy't jo yn jo taal downloade wolle
+firefox-all-everyone-deserves-access = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – de { -brand-name-firefox-browser } beskikber yn mear as 90 talen.
+firefox-all-choose-which-firefox = Kies de { -brand-name-firefox-browser } dy't jo yn jo taal downloade wolle
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }-privacyferklearring
 firefox-all-learn-about-firefox = Mear ynformaasje oer { -brand-name-firefox }-browsers
 firefox-all-the-standard-firefox = De standert { -brand-name-firefox }-browser - fluch en privee. As jo net wis binne hokker { -brand-name-firefox } jo wolle, kies dit.
 firefox-all-get-a-sneak-peek-at = Besjoch in foarpriuwke fan de nijste { -brand-name-firefox }-browserfunksjes eardat dizze útjûn wurde.
 firefox-all-test-your-sites-against = Test jo websites tsjin ynkoarten te ferskinen { -brand-name-firefox }-browserfunksjes mei krêftige, fleksibele DevTools dy't standert ynskeakele binne.
 firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei dizze { -brand-name-firefox }-browser dy't boud is foar bedriuwen.
-firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy't de konfiguraasje, ymplemintaasje en it behear fan de Firefox-browser ferienfâldigje.
+firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy't de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Kies in 32-bits-ynstallaasjeprogramma foar kompjûters mei 32-bits prosessors of foar âldere of minder krêftige kompjûters. <a href="{ $url }">As jo net wis binne</a> oft jo in 64-bits- of 32-bits-ynstallaasjeprogramma brûke wolle, riede wy jo oan om 32-bits te brûken.
