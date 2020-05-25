@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Móžeće spěšnje k { -brand-na
 switch-select-what-to-take = Wubjerće, štož chceće z { -brand-name-chrome } přewzać.
 switch-let-firefox-do-the-rest = Dajće { -brand-name-firefox } zbytk činić.
 switch-use-firefox-and-still-chrome = Móžeće { -brand-name-firefox } wužiwać a najebać to maće hišće { -brand-name-chrome }. { -brand-name-chrome } so na žane wašnje njezměni.
+switch-spread-the-word = Zeznajomće { -brand-name-firefox } a pomhajće swojim znatym, so z { -brand-name-chrome } rozžohnować.
 switch-share-with-your-friends = Dźělće ze swojimi přećelemi, kak k { -brand-name-firefox } přeńdźeće
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } wam zmóžnja, woprawdźe spěšnje wot { -brand-name-chrome } přeńć. Spytajće!
 switch-switch-to-firefox = K { -brand-name-firefox } přeńć
