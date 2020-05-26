@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Rhowch gyfeiriad e-bost dilys.
+newsletter-form-you-must-agree-to = Rhaid i chi gytuno i'r hysbysiad preifatrwydd
+newsletter-form-your-email-address = Eich cyfeiriad e-bost
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = eichenw@example.com
+newsletter-form-select-country-or-region = Dewiswch wlad neu ardal
 newsletter-form-your-email-here = EICH E-BOST YMA
 newsletter-form-format = Fformat
 newsletter-form-html = HTML

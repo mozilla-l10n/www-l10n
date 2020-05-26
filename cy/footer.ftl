@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Hysbysiad Preifatrwydd Gwefan
 footer-websites-cookies = Cwcis
 footer-websites-legal = Cyfreithiol
 footer-language = Iaith
+footer-go = Mynd
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

@@ -10,3 +10,4 @@
 
 whatsnew-account-main-headline = Does dim rhaid cael cyfrif. Ond efallai y byddwch chi eisiau un.
 whatsnew-account-main-lead-in = Mae'r porwr { -brand-name-firefox } yn casglu cyn lleied o ddata amdanoch chi, nid ydym hyd yn oed angen eich cyfeiriad e-bost. Ond pan fyddwch chi'n ei ddefnyddio i greu cyfrif { -brand-name-firefox }, gallwn ddiogelu eich preifatrwydd ar draws mwy o'ch bywyd ar-lein.
+whatsnew-account-main-button = Mewngofnodi
