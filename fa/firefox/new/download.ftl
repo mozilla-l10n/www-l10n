@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-firefox-new-download-firefox = دریافت فایرفاکس
+firefox-new-download-firefox = دریافت { -brand-name-firefox }
 firefox-new-download-mozilla-firefox = موزیلا فایرفاکس، یک مرورگر آزاد را دریافت کنید. فایرفاکس توسط یک موسسه غیرانتفاعی جهانی که افراد را در کنترل زندگی برخط خود قرار می‌دهند، ساخته شده است. امروز فایرفاکس را برای ویندوز، { -brand-name-mac }، لینوکس، اندروید و { -brand-name-ios } دریافت کنید!
 firefox-new-download-the-fastest-firefox = سریع‌ترین فایرفاکس را دریافت کنید
 firefox-new-faster-page-loading-less-memory = بارگیری سریع‌تر صفحات، استفاده کمتر از حافظه و مملو از امکانات جدید، فایرفاکس جدید اینجاست.
