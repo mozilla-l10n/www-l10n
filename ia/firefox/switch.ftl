@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Passar a { -brand-name-firefox } 
 switch-select-what-to-take = Eliger lo que prender ab { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Lassa a { -brand-name-firefox } facer le resto.
 switch-use-firefox-and-still-chrome = Tu pote usar { -brand-name-firefox } e haber ancora { -brand-name-chrome }. { -brand-name-chrome } non sera cambiate sur tu machina de un bit.
+switch-spread-the-word = Propaganda { -brand-name-firefox } e adjuta tu amicos abandonar { -brand-name-chrome }.
 switch-share-with-your-friends = Comparti con tu amicos como passar a { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } rende le passage ab { -brand-name-chrome } realmente rapide. Prova lo!
 switch-switch-to-firefox = Passa a { -brand-name-firefox }
