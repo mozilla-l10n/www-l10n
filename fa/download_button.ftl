@@ -17,10 +17,10 @@ download-button-recommended = پیشنهاد شده
 download-button-mozilla-no-longer-provides = <a href="{ $url }">موزیلا دیگر به‌روزرسانی‌ای برای فایرفاکس در ویندوز { -brand-name-xp } یا ویستا ارائه نمی‌کند</a>، ولی شما هم‌چنان می‌توانید نسخه نهایی ۳۲بیتی برای ویندوز را در زیر دریافت کنید.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = لطفا <a href="{ $url }">این دستور العمل‌ها</a> را برای نصب فایرفاکس دنبال کنید.
+download-button-please-follow-these = لطفا <a href="{ $url }">این دستور العمل‌ها</a> را برای نصب { -brand-name-firefox } دنبال کنید.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = سیستم شما حاوی <a href="{ $url }">پیش‌نیازهای لازم</a> برای اجرای فایرفاکس نیست.
+download-button-your-system-does-not = سیستم شما حداقل‌های <a href="{ $url }"> مورد نیاز</a> برای اجرای { -brand-name-firefox } را ندارد.
 download-button-firefox-other-platforms = { -brand-name-firefox } برای سایر سکو‌ها و زبان‌ها
 download-button-update-your-firefox = به‌روز رسانی { -brand-name-firefox }
 download-button-get-firefox-android = دریافت { -brand-name-firefox } برای { -brand-name-android }
