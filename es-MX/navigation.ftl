@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descargar { -brand-name-firefox }
-navigation-get-a-firefox-account = Crear una cuenta Firefox
-navigation-firefox-browser-for-desktop = Navegador Firefox para escritorio
+navigation-get-a-firefox-account = Consigue una { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } para escritorio
 navigation-get-the-browser-that-respects = Consigue el navegador que respeta tu privacidad de forma automática. Para { -brand-name-windows }, { -brand-name-mac } o { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Navegador Firefox para celular
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para dispositivos móviles
 navigation-take-speed-privacy-and = Lleva la velocidad, la privacidad y la tranquilidad vayas donde vayas. Para { -brand-name-android } y { -brand-name-ios }.
 navigation-download-for-ios = Descarga para { -brand-name-ios }
 navigation-download-for-android = Descarga para { -brand-name-android }
 navigation-ios-support = Soporte para { -brand-name-ios }
 navigation-android-support = Soporte para { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Navegador Firefox para empresas
-navigation-strap-on-your-goggles = Ponte las gafas de realidad virtual y adéntrate de lleno en la web inmersiva con el navegador Firefox para VR.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } para empresas
+navigation-strap-on-your-goggles = Ponte las gafas de realidad virtual y adéntrate de lleno en la web inmersiva con { -brand-name-firefox-browser } para realidad virtual.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Mira videos y navega por Internet en tu { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Los navegadores { -brand-name-firefox } priorizan tu privacidad, siempre lo han hecho.
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Lleva { -brand-name-firefox } y { -brand-n
 navigation-get-firefox = Obtener { -brand-name-firefox }
 navigation-get-firefox-focus = Obtener { -brand-name-firefox-focus }
 navigation-android-extensions = Extensiones de { -brand-name-android }
-navigation-your-firefox-account = Tu cuenta de Firefox
+navigation-your-firefox-account = Tu { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aprovecha al máximo tu experiencia con { -brand-name-firefox }, en todos los dispositivos.
 navigation-learn-how-to-customize = Aprende cómo personalizar la forma en que funciona { -brand-name-firefox }.
 navigation-experience-augmented = Experimenta la realidad aumentada y virtual con { -brand-name-firefox }.
