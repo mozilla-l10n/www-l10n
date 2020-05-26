@@ -21,10 +21,10 @@ download-button-please-follow-these = لطفا <a href="{ $url }">این دست�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = سیستم شما حاوی <a href="{ $url }">پیش‌نیازهای لازم</a> برای اجرای فایرفاکس نیست.
-download-button-firefox-other-platforms = فایرفاکس برای سایر سکو‌ها و زبان‌ها
-download-button-update-your-firefox = به‌روز رسانی فایرفاکس
-download-button-get-firefox-android = دریافت فایرفاکس برای اندروید
-download-button-get-firefox-ios = دریافت فایرفاکس برای { -brand-name-ios }
+download-button-firefox-other-platforms = { -brand-name-firefox } برای سایر سکو‌ها و زبان‌ها
+download-button-update-your-firefox = به‌روز رسانی { -brand-name-firefox }
+download-button-get-firefox-android = دریافت { -brand-name-firefox } برای { -brand-name-android }
+download-button-get-firefox-ios = دریافت { -brand-name-firefox } برای { -brand-name-ios }
 download-button-google-play = از گوگل پلی دریافت کنید
 download-button-free-google-play = آن را رایگان از گوگل پلی دریافت کنید
 download-button-app-store = از «فروشگاه برنامه» به رایگان دریافت کنید

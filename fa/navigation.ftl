@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-download-firefox = دریافت فایرفاکس
-navigation-get-a-firefox-account = یک حساب فایرفاکس باز کنید
+navigation-download-firefox = دریافت { -brand-name-firefox }
+navigation-get-a-firefox-account = یک حساب { -brand-name-firefox-account } باز کنید
 navigation-ios-support = پشتیبانی { -brand-name-ios }
-navigation-android-support = پیشتیبانی اندروید
+navigation-android-support = پیشتیبانی { -brand-name-android }
 navigation-firefox-for-fire-tv = { -brand-name-firefox } برای { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = روی { -brand-name-amazon } { -brand-name-fire-tv } خود ویدئو ببینید و در اینترنت گشت و گذار کنید.
-navigation-close-firefox-menu = منوی فایرفاکس را ببندید
+navigation-close-firefox-menu = منوی { -brand-name-firefox } را ببندید
 navigation-get-the-browser-that-gives = مرورگری را دریافت کنید که روی ویندوز، مک‌اوس یا لینوکس قدرت بیشتری به شما می‌دهد.
 navigation-take-firefox-and-firefox = فایرفاکس و فایرفاکس Focus را همراه خود داشته باشید. برای اندروید و { -brand-name-ios }.
 navigation-get-firefox = دریافت فایرفاکس

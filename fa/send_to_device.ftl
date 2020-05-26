@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-send-to-device-send-firefox = ارسال فایرفاکس بر روی تلفن همراه خود یا تبلت
+send-to-device-send-firefox = ارسال { -brand-name-firefox } بر روی تلفن همراه خود یا تبلت
 send-to-device-your-download-link = پیوند دریافت شما ارسال شد.
 send-to-device-sorry-we-cant-send = متاسفیم، نمی‌توانیم به این شماره تلفن SMS ارسال کنیم.
 send-to-device-sorry-this-number = متاسفانه. این شما معتبر نمی‌باشد. لطفا یک شماره تلفن آمریکا وارد کنید.
