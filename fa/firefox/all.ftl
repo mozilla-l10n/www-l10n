@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = نصاب‌های ۶۴ بیتی
 firefox-all-choose-a-64-bit-installer = برای رایانه‌هایی که دارای پردازنده‌های ۶۴ بیتی هستند، یک نصاب ۶۴ بیتی را انتخاب کنید، که به آنها امکان می دهد RAM بیشتری را به برنامه‌ها اختصاص دهند - مخصوصاً برای بازی‌ها و سایر برنامه‌ها.
 firefox-all-32-bit-installers = نصاب‌های ۳۲ بیتی
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = مرورگر Firefox را به زبان انگلیسی (ایالات متحده) و بیش از ۹۰ زبان دیگر دریافت کنید
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } را به زبان انگلیسی (ایالات متحده) و بیش از ۹۰ زبان دیگر دریافت کنید
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = همه سزاوار دسترسی به اینترنت هستند - زبان شما هرگز نباید مانعی باشد. به همین دلیل - با کمک داوطلبانی در سراسر جهان - مرورگر Firefox را در بیش از ۹۰ زبان در دسترس قرار می‌دهیم.
 firefox-all-choose-which-firefox = انتخاب کنید کدام مرورگر Firefox را برای زبان خود می‌خواهید
