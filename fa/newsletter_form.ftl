@@ -6,7 +6,7 @@ newsletter-form-your-email-here = پست‌الکترونیکی شما در ای
 newsletter-form-format = قالب
 newsletter-form-html = HTML
 newsletter-form-text = متن
-newsletter-form-get-firefox-news = دریافت اخبار فایرفاکس
+newsletter-form-get-firefox-news = دریافت اخبار { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = من با اینکه موزیلا اطلاعاتم را بر اساس موارد شرح داده شده در <a href="{ $url }">نکات حریم‌خصوصی</a> استفاده کند مشکلی ندارم
