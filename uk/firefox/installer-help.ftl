@@ -16,3 +16,7 @@ installer-help-action-choose = Виберіть завантаження зни�
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Отримуйте найновіше. Автоматизована приватність вже тут. Завантажте { -brand-name-firefox-browser }, щоб блокувати понад { $trackers } елементів стеження.
+installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
