@@ -9,5 +9,5 @@
 ## Required
 
 whatsnew-account-main-headline = Ingen konto kreves. Men du vil kanskje ha en.
-whatsnew-account-main-lead-in = { -brand-name-firefox }-nettleseren samler inn så lite data om deg at vi ikke engang trenger din e-postadresse. Men når du bruker denne til å opprette en { -brand-name-firefox }-konto, kan vi beskytte personvernet ditt på alle produktene våre.
+whatsnew-account-main-lead-in = { -brand-name-firefox }-nettleseren samler inn så lite data om deg at vi ikke engang trenger din e-postadresse. Men når du bruker den til å opprette en { -brand-name-firefox }-konto, kan vi ta vare på personvernet ditt på alle produktene våre.
 whatsnew-account-main-button = Logg inn
