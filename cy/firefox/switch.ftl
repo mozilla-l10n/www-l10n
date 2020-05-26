@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Mae newid o { -brand-name-firefox
 switch-select-what-to-take = Dewis beth i'w gymryd o { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Gadewch i { -brand-name-firefox } wneud y gweddill.
 switch-use-firefox-and-still-chrome = Gallwch ddefnyddio { -brand-name-firefox } a dal cael { -brand-name-chrome }. Bydd { -brand-name-chrome } ddim yn newid dim ar eich peiriant.
+switch-spread-the-word = Rhannwch y gair am { -brand-name-firefox } a helpwch eich hoff bobl i ffarwelio â { -brand-name-chrome }.
 switch-share-with-your-friends = Rhannwch gyda'ch ffrindiau sut i newid i { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = Mae 🔥 { -brand-name-firefox } yn gwneud newid i { -brand-name-chrome } yn beth sydyn. Rhowch gynnig arno!
 switch-switch-to-firefox = Newid i { -brand-name-firefox }
