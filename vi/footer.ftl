@@ -26,7 +26,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } dành cho { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } dành cho { -brand-name-android }
-footer-visit-mozilla-corporations = Truy cập tổ chức phi lợi nhuận của <a { $moco_link }>tập đoàn Mozilla</a>, <a { $mofo_link }>tổ chức Mozilla</a>.
+footer-visit-mozilla-corporations = Truy cập công ty con phi lợi nhuận của <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Các phần nội dung trong trang này được giữ bản quyền ©1998–{ $current_year } bởi những người đóng góp cho mozilla.org. Nội dung được phát hành với <a rel="license" href="{ $url }">giấy phép { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Công ty
@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Thông báo bảo mật trang web
 footer-websites-cookies = Cookie
 footer-websites-legal = Thông tin pháp lý
 footer-language = Ngôn ngữ
+footer-go = Đi
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

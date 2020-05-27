@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Chuyển sang { -brand-name-firef
 switch-select-what-to-take = Chọn những gì cần lấy từ { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Hãy để { -brand-name-firefox } làm phần còn lại.
 switch-use-firefox-and-still-chrome = Bạn có thể sử dụng { -brand-name-firefox } và vẫn có { -brand-name-chrome }. { -brand-name-chrome } sẽ không thay đổi trên máy của bạn.
+switch-spread-the-word = Truyền bá về { -brand-name-firefox } và giúp những người yêu thích của bạn nói lời tạm biệt với { -brand-name-chrome }.
 switch-share-with-your-friends = Chia sẻ với bạn bè của bạn cách chuyển sang { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } giúp chuyển đổi từ { -brand-name-chrome } thực sự nhanh chóng. Hãy thử nó!
 switch-switch-to-firefox = Chuyển sang { -brand-name-firefox }

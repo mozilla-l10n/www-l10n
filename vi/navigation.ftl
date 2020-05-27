@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Tải xuống { -brand-name-firefox }
-navigation-get-a-firefox-account = Tạo một tài khoản Firefox
-navigation-firefox-browser-for-desktop = Trình duyệt Firefox dành cho máy tính để bàn
+navigation-get-a-firefox-account = Tạo một { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } dành cho máy tính để bàn
 navigation-get-the-browser-that-respects = Nhận trình duyệt tôn trọng quyền riêng tư của bạn tự động. Trên { -brand-name-windows }, { -brand-name-mac } hoặc { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Trình duyệt Firefox dành cho thiết bị di động
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } dành cho di động
 navigation-take-speed-privacy-and = Nhanh chóng, riêng tư và yên tâm với bạn. Trên { -brand-name-android } và { -brand-name-ios }.
 navigation-download-for-ios = Tải xuống cho { -brand-name-ios }
 navigation-download-for-android = Tải xuống cho { -brand-name-android }
 navigation-ios-support = Hỗ trợ trên { -brand-name-ios }
 navigation-android-support = Hỗ trợ trên { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Trình duyệt Firefox dành cho doanh nghiệp
-navigation-strap-on-your-goggles = Đeo kính và bước vào web nhập vai với trình duyệt Firefox dành cho VR.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } dành cho doanh nghiệp
+navigation-strap-on-your-goggles = Đeo thiết bị của bạn và bước vào web nhập vai với { -brand-name-firefox-browser } dành cho thực tế ảo.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } cho { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Xem video và duyệt internet trên { -brand-name-amazon } { -brand-name-fire-tv } của bạn.
 navigation-firefox-browsers-put = Các trình duyệt { -brand-name-firefox } đặt quyền riêng tư của bạn lên hàng đầu — và luôn luôn có.

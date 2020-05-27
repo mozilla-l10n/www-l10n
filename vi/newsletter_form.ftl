@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Vui lòng nhập một địa chỉ email hợp lệ
+newsletter-form-you-must-agree-to = Bạn phải đồng ý với thông báo bảo mật
+newsletter-form-your-email-address = Địa chỉ email của bạn
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = Chọn quốc gia hoặc khu vực
 newsletter-form-your-email-here = NHẬP EMAIL CỦA BẠN TẠI ĐÂY
 newsletter-form-format = Định dạng
 newsletter-form-html = HTML
