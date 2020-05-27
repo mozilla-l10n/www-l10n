@@ -10,6 +10,7 @@ navigation-download-for-ios = Lataa { -brand-name-ios }:ille
 navigation-download-for-android = Lataa { -brand-name-android }ille
 navigation-ios-support = { -brand-name-ios }-tuki
 navigation-android-support = { -brand-name-android }-tuki
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } yrityksille
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }:lle
 navigation-watch-videos-and-browse = Katso videoita ja selaa internetiä { -brand-name-amazon } { -brand-name-fire-tv }:llä.
 navigation-firefox-blog = { -brand-name-firefox }-blogi
