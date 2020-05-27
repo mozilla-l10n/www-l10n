@@ -24,3 +24,8 @@ installer-help-firefox-beta-desc = Test hast frijjûne funksjes yn de meast stab
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Bou, test, skeal en doch mear mei de iennige browser dy't makke is foar ûntwikkelers.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Sjoch ris nei ús webbrowser fan de folgjende generaasje en help ús er de bêst mooglike browser fan te meitsjen.
+installer-help-need-help = Help nedich mei ynstallearjen?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = As jo noch hieltyd help nedich hawwe by it ynstallearjen, <a href="{ $url }">lês dan de hantlieding yn ús seksje Stipe.</a>
