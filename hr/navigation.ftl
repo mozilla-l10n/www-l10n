@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Preuzmi { -brand-name-firefox }
-navigation-get-a-firefox-account = Otvori Firefox račun
-navigation-firefox-browser-for-desktop = Firefox preglednik za desktop računalo
+navigation-get-a-firefox-account = Otvori { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } za stolna računala
 navigation-get-the-browser-that-respects = Preuzmi preglednik koji automatski poštuje tvoju privatnost. Za sustave { -brand-name-windows }, { -brand-name-mac } ili { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = Firefox preglednik za mobilne uređaje
 navigation-take-speed-privacy-and = Ponesi sa sobom brzinu, privatnost i mir. Za { -brand-name-android } i { -brand-name-ios } sustave.

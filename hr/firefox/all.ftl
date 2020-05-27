@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = 64-bitni instalacijski programi
 firefox-all-choose-a-64-bit-installer = Odaberi 64-bitni instalacijski program za računala s 64-bitnim procesorima, koji će im omogućiti dodijeliti više RAM-a pojedinim programima – naročito važno za igre i ostale zahtjevne aplikacije.
 firefox-all-32-bit-installers = 32-bitni instalacijski programi
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Preuzmi Firefox preglednik na engleskom (američkom) i na više od 90 drugih jezika
+firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Svatko zaslužuje pristup internetu – jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo Firefox preglednik na više od 90 jezika.
 firefox-all-choose-which-firefox = Odaberi koji Firefox preglednik želiš preuzeti na svom jeziku
