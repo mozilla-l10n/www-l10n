@@ -22,3 +22,6 @@ installer-help-firefox-release-desc = Obtén lo última La privacidad automátic
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Prueba funciones casi listas para ser lanzadas en la compilación de prueba más estable.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = Crea, prueba, escala y más con el único navegador creado para desarrolladores.
+installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-need-help = ¿Necesitas ayuda para instalar?
