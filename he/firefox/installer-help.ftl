@@ -19,3 +19,7 @@ installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-nam
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = הציצו בדפדפן הדור הבא שלנו, ועזרו לנו להפוך אותו לדפדפן הטוב ביותר שיש.
+installer-help-need-help = זקוקים לעזרה בהתקנה?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = אם עדיין יש לך צורך בעזרה בהתקנה, <a href="{ $url }">נא לקרוא את המדריך בדף התמיכה שלנו.</a>
