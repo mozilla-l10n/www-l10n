@@ -14,3 +14,7 @@ installer-help-action-choose = Fren asider ddaw.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Awi-d aneggaru. Tabaḍnit tawurmant tewweḍ-d. Sader { -brand-name-firefox-browser } i usewḥel n yimakaren { $trackers }.
+installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
