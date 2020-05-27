@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> cho { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> cho { -brand-name-ios }
 download-button-firefox-privacy = Quyền riêng tư trên { -brand-name-firefox }
+download-button-firefox-privacy-notice = Thông báo bảo mật { -brand-name-firefox }
 download-button-download = Tải xuống

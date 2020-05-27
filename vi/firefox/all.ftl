@@ -21,8 +21,6 @@ firefox-all-the-pre-alpha-version = Phiên bản pre-alpha dành cho người d�
 firefox-all-64-bit-installers = Trình cài đặt 64-bit
 firefox-all-choose-a-64-bit-installer = Chọn trình cài đặt 64-bit cho máy tính có bộ xử lý 64-bit, cho phép chúng phân bổ thêm RAM cho các chương trình riêng lẻ — đặc biệt quan trọng đối với các trò chơi và các ứng dụng đòi hỏi khắt khe khác.
 firefox-all-32-bit-installers = Trình cài đặt 32-bit
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Tải xuống trình duyệt Firefox bằng tiếng Anh (Hoa Kỳ) và hơn 90 ngôn ngữ khác
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Mọi người đều xứng đáng truy cập internet — ngôn ngữ của bạn không bao giờ là rào cản. Đó là lý do tại sao — với sự giúp đỡ của các tình nguyện viên tận tâm trên toàn thế giới — chúng tôi cung cấp Trình duyệt Firefox với hơn 90 ngôn ngữ.
 firefox-all-choose-which-firefox = Chọn trình duyệt Firefox nào để tải xuống bằng ngôn ngữ của bạn
