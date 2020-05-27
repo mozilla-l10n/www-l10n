@@ -8,7 +8,7 @@
 
 ## Required
 
-installer-help-page-title = 您的下載已中斷
+installer-help-page-title = 下載時發生連線問題
 installer-help-main-tagline = 有時會發生這種情況，讓我們試試用不同方式下載。
 installer-help-action-channel = 這種下載方式應該會比較正常。
 installer-help-action-choose = 從下方選擇要下載的版本。
