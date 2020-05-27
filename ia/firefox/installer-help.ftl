@@ -9,6 +9,7 @@
 ## Required
 
 installer-help-page-title = Tu discargamento era interrumpite
+installer-help-main-tagline = Isto eveni, aliquando. Que nos prova alco differente.
 
 ##
 
@@ -18,3 +19,6 @@ installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -bran
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Reguarda nostre proxime generation de navigator del Web, e adjuta nos a render lo le optime navigator que pote esser.
 installer-help-need-help = Desira tu auxilio pro installar?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Si tu besonia ancora de adjuta pro lo installar, <a href="{ $url }">lege le exercitation in nostre section Supporto.</a>
