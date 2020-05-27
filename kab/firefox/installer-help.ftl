@@ -9,6 +9,7 @@
 ## Required
 
 installer-help-page-title = Asader-inek yeḥbes
+installer-help-main-tagline = Tḍerru-d tikwal. Yya ad neɛreḍ ayen yemgaraden.
 installer-help-action-choose = Fren asider ddaw.
 
 ##
@@ -21,3 +22,7 @@ installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-nam
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Rnu, sekyed daɣen ales s useqdec n yiminig-a kan yettwafeṣlen i yineflayen.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-need-help = Tebɣiḍ tallelt n usbeddi?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Ma mazal tesriḍ tallelt n usbeddi, <a href="{ $url }">ɣeṛ atuṭuryal deg tgezmi-nneɣ n tallelt. </a>
