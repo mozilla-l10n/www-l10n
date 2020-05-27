@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = הורדת { -brand-name-firefox }
-navigation-get-a-firefox-account = קבלת { -brand-name-firefox-account }
+navigation-get-a-firefox-account = קבלת { -brand-name-firefox-account(case: "a") }
 navigation-firefox-browser-for-desktop = ‏{ -brand-name-firefox-browser } למחשבים שולחניים
 navigation-firefox-browser-for-mobile = ‏{ -brand-name-firefox-browser } לנייד
 navigation-download-for-ios = הורדה עבור { -brand-name-ios }
@@ -16,7 +16,7 @@ navigation-firefox-blog = הבלוג של { -brand-name-firefox }
 navigation-get-firefox = קבלת { -brand-name-firefox }
 navigation-get-firefox-focus = קבלת { -brand-name-firefox-focus }
 navigation-android-extensions = הרחבות ל־{ -brand-name-android }
-navigation-your-firefox-account = ה־{ -brand-name-firefox-account } שלך
+navigation-your-firefox-account = { -brand-name-firefox-account(case: "the") } שלך
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = ‏{ -brand-name-firefox }, נבנה רק עבור מפתחים.
 navigation-menu = תפריט
