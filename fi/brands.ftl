@@ -22,7 +22,15 @@
 
 ## Firefox browsers
 
--brand-name-firefox = Firefox
+-brand-name-firefox =
+    { $case ->
+       *[nominative] Firefox
+        [ablative] Firefoxilta
+        [elative] Firefoxista
+        [genitive] Firefoxin
+        [illative] Firefoxiin
+        [inessive] Firefoxissa
+    }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->

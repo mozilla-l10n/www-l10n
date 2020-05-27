@@ -4,6 +4,8 @@
 
 navigation-download-firefox = Lataa { -brand-name-firefox }
 navigation-get-a-firefox-account = Hanki { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } tietokoneille
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobiililaitteille
 navigation-download-for-ios = Lataa { -brand-name-ios }:ille
 navigation-download-for-android = Lataa { -brand-name-android }ille
 navigation-ios-support = { -brand-name-ios }-tuki
