@@ -15,3 +15,4 @@ installer-help-page-title = Vaš prenos je bil prekinjen
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 installer-help-firefox-beta-desc = Preskusite funkcije pred izdajo v najstabilnejši predizdajni različici.
 installer-help-firefox-developer-desc = Ustvarjajte, testirajte, pregledujte in več z edinim brskalnikom, ustvarjenim posebej za razvijalce.
+installer-help-need-help = Potrebujete pomoč pri namestitvi?
