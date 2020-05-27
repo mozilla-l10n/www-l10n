@@ -10,6 +10,7 @@
 
 installer-help-page-title = Asader-inek yeḥbes
 installer-help-main-tagline = Tḍerru-d tikwal. Yya ad neɛreḍ ayen yemgaraden.
+installer-help-action-channel = Asader-a ilaq ad iddu
 installer-help-action-choose = Fren asider ddaw.
 
 ##
