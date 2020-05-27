@@ -4,10 +4,15 @@
 
 navigation-download-firefox = دریافت { -brand-name-firefox }
 navigation-get-a-firefox-account = یک حساب { -brand-name-firefox-account } باز کنید
+navigation-download-for-ios = دریافت برای { -brand-name-ios }
+navigation-download-for-android = دریافت برای { -brand-name-android }
 navigation-ios-support = پشتیبانی { -brand-name-ios }
 navigation-android-support = پیشتیبانی { -brand-name-android }
 navigation-firefox-for-fire-tv = { -brand-name-firefox } برای { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = روی { -brand-name-amazon } { -brand-name-fire-tv } خود ویدئو ببینید و در اینترنت گشت و گذار کنید.
+navigation-join-firefox = به { -brand-name-firefox } بپیوندید
+navigation-firefox-blog = بلاگ { -brand-name-firefox }
+navigation-mozilla-careers = شغل‌های { -brand-name-mozilla }
 navigation-close-firefox-menu = منوی { -brand-name-firefox } را ببندید
 navigation-get-the-browser-that-gives = مرورگری را دریافت کنید که روی { -brand-name-windows }، { -brand-name-mac } یا { -brand-name-linux } قدرت بیشتری به شما می‌دهد.
 navigation-take-firefox-and-firefox = { -brand-name-firefox } و { -brand-name-firefox-focus } را همراه خود داشته باشید. برای { -brand-name-android } و { -brand-name-ios }.
@@ -28,6 +33,7 @@ navigation-mozilla-open-source-support = پشتیبانی منبع باز { -bra
 navigation-mozilla-manifesto = مرامنامه { -brand-name-mozilla }
 navigation-menu = منو
 navigation-check-out-the-benefits = مزایای اینکار را بررسی کنید
+navigation-browsers = مرورگرها
 navigation-download = دریافت
 navigation-extensions = افزونه‌ها
 navigation-support = پشتیبانی

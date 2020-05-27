@@ -12,3 +12,6 @@ installer-help-page-title = دریافت شما دچار وقفه شد
 
 ##
 
+installer-help-firefox-release-title = { -brand-name-firefox-browser }
+installer-help-firefox-beta-title = { -brand-name-firefox-browser }{ -brand-name-beta }
+installer-help-need-help = برای نصب نیاز به کمک دارید؟
