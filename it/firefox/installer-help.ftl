@@ -11,7 +11,3 @@
 
 ##
 
-installer-help-firefox-release-title = { -brand-name-firefox-browser(capitalization: "uppercase") }
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Ricevi le ultime novità. La privacy automatica è qui. Scarica il { -brand-name-firefox-browser } per bloccare più di { $trackers } elementi traccianti.
