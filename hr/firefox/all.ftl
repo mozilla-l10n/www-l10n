@@ -24,15 +24,15 @@ firefox-all-32-bit-installers = 32-bitni instalacijski programi
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Svatko zaslužuje pristup internetu – jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo Firefox preglednik na više od 90 jezika.
-firefox-all-choose-which-firefox = Odaberi koji Firefox preglednik želiš preuzeti na svom jeziku
+firefox-all-everyone-deserves-access = Svatko zaslužuje pristup internetu – jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox-browser } na više od 90 jezika.
+firefox-all-choose-which-firefox = Odaberi { -brand-name-firefox-browser } koji želiš preuzeti na svom jeziku
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } obavijest o privatnosti
 firefox-all-learn-about-firefox = Saznaj više o { -brand-name-firefox } preglednicima
 firefox-all-the-standard-firefox = Standardni { -brand-name-firefox } preglednik – brz i privatan. Ako ne znaš koji { -brand-name-firefox } odabrati, odaberi ovaj.
 firefox-all-get-a-sneak-peek-at = Pogledaj najnovije funkcije { -brand-name-firefox } preglednika prije nego što se objave.
 firefox-all-test-your-sites-against = Testiraj svoje web stranice na funkcije { -brand-name-firefox } preglednika koje će se uskoro izdati s moćnim, fleksibilnim alatima za programere, koji su standardno uključeni.
 firefox-all-count-on-stability-and = Računaj na stabilnost i jednostavnost upotrebe s ovim { -brand-name-firefox } preglednikom, koji je izgrađen za poduzeća.
-firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT koji pojednostavljuju konfiguriranje, upotrebu i upravljanje preglednikom Firefox.
+firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT, koji pojednostavljuju konfiguriranje, upotrebu i upravljanje preglednikom { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Odaberi 32-bitni instalacijski program za računala s 32-bitnim procesorima – ili za starija ili manje snažna računala. <a href="{ $url }">Ako ne znaš</a> da li odabrati 64-bitnog ili 32-bitnog instalatera, preporučamo 32-bitnim.
