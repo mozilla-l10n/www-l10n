@@ -9,10 +9,14 @@
 ## Required
 
 installer-help-page-title = Vaš prenos je bil prekinjen
+installer-help-main-tagline = Včasih se kaj zalomi. Poskusite nekaj drugega.
+installer-help-action-channel = Ta prenos bi moral bolje delovati za vas.
+installer-help-action-choose = Spodaj izberite prenos.
 
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 installer-help-firefox-beta-desc = Preskusite funkcije pred izdajo v najstabilnejši predizdajni različici.
 installer-help-firefox-developer-desc = Ustvarjajte, testirajte, pregledujte in več z edinim brskalnikom, ustvarjenim posebej za razvijalce.
+installer-help-firefox-nightly-desc = Pokukajte v naslednjo generacijo našega spletnega brskalnika in nam ga pomagajte izboljšati do popolnosti.
 installer-help-need-help = Potrebujete pomoč pri namestitvi?
