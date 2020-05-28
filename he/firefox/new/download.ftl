@@ -18,6 +18,7 @@ firefox-new-advanced-install-options = אפשרויות התקנה מתקדמו�
 firefox-new-download-in-another-language = הורדה בשפה אחרת
 firefox-new-fix-a-problem = תיקון בעיות
 firefox-new-need-help = זקוקים לעזרה?
+firefox-new-watch-for-data-breaches = קבלת התרעות על דליפות נתונים
 firefox-new-passwords-made-portable = ססמאות הולכות אתך
 firefox-new-protect-your-privacy = הגנה על הפרטיות שלך
 firefox-new-private-browsing-clears = <strong>גלישה פרטית</strong> מנקה את ההיסטוריה שלך כדי לשמור עליה בסוד מכל מי שמשתמש במחשב שלך.
