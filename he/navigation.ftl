@@ -13,6 +13,7 @@ navigation-ios-support = תמיכה ב־{ -brand-name-ios }
 navigation-android-support = תמיכה ב־{ -brand-name-android }
 navigation-firefox-browser-for-enterprise = ‏{ -brand-name-firefox-browser } לארגונים
 navigation-firefox-for-fire-tv = ‏{ -brand-name-firefox } עבור { -brand-name-fire-tv }
+navigation-watch-videos-and-browse = צפייה בסרטונים וגלישה ברשת ב־{ -brand-name-amazon } { -brand-name-fire-tv } שלך.
 navigation-join-firefox = הצטרפות ל־{ -brand-name-firefox }
 navigation-firefox-blog = הבלוג של { -brand-name-firefox }
 navigation-get-firefox = קבלת { -brand-name-firefox }
