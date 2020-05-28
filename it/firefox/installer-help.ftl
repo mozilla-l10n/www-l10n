@@ -11,11 +11,21 @@
 installer-help-page-title = Il download è stato interrotto
 installer-help-main-tagline = A volte succede. Vuoi provare qualcosa di diverso?
 installer-help-action-channel = Questo download dovrebbe funzionare meglio per le tue esigenze.
+installer-help-action-choose = Scegli qui sotto il browser che vuoi installare.
 
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Ottieni l’ultima versione disponibile. Privacy in automatico, tutto incluso. Scarica il { -brand-name-firefox-browser } per bloccare più di { $trackers } elementi traccianti.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-beta }
+installer-help-firefox-beta-desc = Prova in anteprima le nuove funzioni, utilizzando la più stabile delle versioni preliminari.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = Sviluppa, collauda, adatta il tuo software a schermi di diverse dimensioni e molto altro ancora nell’unico browser realizzato appositamente per gli sviluppatori.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Dai un’occhiata alla prossima generazione del nostro browser e aiutaci a renderlo il miglior prodotto possibile.
 installer-help-need-help = Ti serve aiuto per l’installazione?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Se hai ancora bisogno di aiuto per l’installazione, <a href="{ $url }">consulta la guida sul nostro sito di supporto.</a>
