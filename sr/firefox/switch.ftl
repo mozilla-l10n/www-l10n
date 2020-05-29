@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Пребацивање на { -br
 switch-select-what-to-take = Изаберите шта преносите из { -brand-name-chrome }-a.
 switch-let-firefox-do-the-rest = Пустите { -brand-name-firefox } да уради остало.
 switch-use-firefox-and-still-chrome = Можете користити { -brand-name-firefox } и притом имати { -brand-name-chrome } и даље. { -brand-name-chrome } ће остати исти какав је и био.
+switch-spread-the-word = Ширите реч о { -brand-name-firefox }-а и помозите својим најмилијима да се опросте од { -brand-name-chrome }-а.
 switch-share-with-your-friends = Поделите са пријатељима како да се пребаце на { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 Пребацивање са { -brand-name-firefox }-а на { -brand-name-chrome } је веома брзо. Покушајте!
 switch-switch-to-firefox = Пребаци се на { -brand-name-firefox }
