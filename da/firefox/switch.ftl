@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Det er hurtigt, nemt og risikofri
 switch-select-what-to-take = Vælg, hvad du vil have med fra { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Lad { -brand-name-firefox } gøre resten.
 switch-use-firefox-and-still-chrome = Du kan bruge { -brand-name-firefox } og stadig have { -brand-name-chrome }. { -brand-name-firefox } og { -brand-name-chrome } fungerer uafhængigt af hinanden, og de generer ikke hinanden.
+switch-spread-the-word = Spred budskabet om { -brand-name-firefox }, og hjælp dine bekendte med at sige farvel til { -brand-name-chrome }.
 switch-share-with-your-friends = Del med dine venner, hvordan man skifter til { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } gør det hurtigt at skifte fra { -brand-name-chrome }. Prøv det!
 switch-switch-to-firefox = Skift til { -brand-name-firefox }

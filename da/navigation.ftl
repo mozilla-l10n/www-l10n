@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Hent { -brand-name-firefox }
-navigation-get-a-firefox-account = Få en Firefox-konto
+navigation-get-a-firefox-account = Få en { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } til computer
 navigation-get-the-browser-that-respects = Hent den browser, der automatisk beskytter dit privatliv. Til { -brand-name-windows }, { -brand-name-mac } og { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } til mobilen
@@ -29,12 +29,12 @@ navigation-learn-how-firefox-treats = Læs hvordan { -brand-name-firefox } behan
 navigation-mozilla-careers = Karriere hos { -brand-name-mozilla }
 navigation-approach-your-career = Få en karriere med et højere formål. Find værdigt arbejde hos { -brand-name-mozilla }.
 navigation-close-firefox-menu = Luk { -brand-name-firefox }-menuen
-navigation-get-the-browser-that-gives = Hent den browser, der giver dig flere kræfter i { -brand-name-windows }, MacOS og { -brand-name-linux }.
+navigation-get-the-browser-that-gives = Hent den browser, der giver dig flere kræfter i { -brand-name-windows }, { -brand-name-mac } og { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Tag { -brand-name-firefox } og { -brand-name-firefox-focus } med dig. Til { -brand-name-android } og { -brand-name-ios }.
 navigation-get-firefox = Hent { -brand-name-firefox }
 navigation-get-firefox-focus = Hent { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-udvidelser
-navigation-your-firefox-account = Din Firefox-konto
+navigation-your-firefox-account = Din { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Få mest muligt ud af { -brand-name-firefox } - på alle dine enheder.
 navigation-learn-how-to-customize = Læs, hvordan du tilpasser { -brand-name-firefox }.
 navigation-experience-augmented = Oplev augmented- og virtual reality med { -brand-name-firefox }.

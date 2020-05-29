@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Privatlivspolitik
 footer-websites-cookies = Cookies
 footer-websites-legal = Juridisk
 footer-language = Sprog
+footer-go = Skift
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

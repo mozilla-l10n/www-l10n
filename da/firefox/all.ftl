@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64-bit-installationsprogrammer
 firefox-all-choose-a-64-bit-installer = Vælg et 64-bit-installeringsprogram til computere med 64-bit-processorer. Det giver computeren mulighed for at allokere mere RAM til individuelle programmer - hvilket især er vigtigt for spil og andre krævende programmer.
 firefox-all-32-bit-installers = 32-bit-installationsprogrammer
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Hent Firefox-browseren på dansk (da) eller ét af mere end 90 andre sprog
+firefox-all-download-the-firefox = Hent { -brand-name-firefox-browser } på dansk (da) eller ét af mere end 90 andre sprog
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at Firefox findes på mere end 90 forskellige sprog.
-firefox-all-choose-which-firefox = Vælg hvilken Firefox-browser, du vil hente på dit sprog
-firefox-all-firefox-privacy-notice = Privatlivspolitik
+firefox-all-everyone-deserves-access = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox-browser } findes på mere end 90 forskellige sprog.
+firefox-all-choose-which-firefox = Vælg hvilken { -brand-name-firefox-browser }, du vil hente på dit sprog
+firefox-all-firefox-privacy-notice = Privatlivspolitik for { -brand-name-firefox }
 firefox-all-learn-about-firefox = Læs om { -brand-name-firefox }-browsere
 firefox-all-the-standard-firefox = Den normale { -brand-name-firefox }-browser — hurtig og privat. Hvis du ikke er sikker på, hvilken { -brand-name-firefox } du skal vælge, så vælg denne.
 firefox-all-get-a-sneak-peek-at = Få et smugkig på de nyeste { -brand-name-firefox }-funktioner inden de bliver udgivet.
 firefox-all-test-your-sites-against = Test dine websteder i forhold til kommende funktioner i { -brand-name-firefox } med vores avancerede og fleksible Udviklerværktøj, der er aktiveret som standard.
 firefox-all-count-on-stability-and = Denne version af { -brand-name-firefox } er udviklet til virksomheder og har fokus på stabilitet og brugervenlighed.
-firefox-all-windows-installers-for = Windows-installationsprogrammer til IT-miljøer hos virksomheder gør opsætning, udrulning og håndtering af Firefox-browseren simplere.
+firefox-all-windows-installers-for = Windows-installationsprogrammer til IT-miljøer hos virksomheder gør opsætning, udrulning og håndtering af { -brand-name-firefox-browser } simplere.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Vælg et 32-bit-installationsprogram til computere med 32-bit-processorer — eller til ældre, mindre kraftfulde computere. <a href="{ $url }">Hvis du ikke er sikker på</a> , om du skal vælge et 64-bit- eller et 32-bit-installationsprogram, anbefaler vi, at du vælger 32-bit.
