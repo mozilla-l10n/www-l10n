@@ -9,3 +9,6 @@ whatsnew-page-title = Шта је ново у { -brand-name-firefox } - више
 whatsnew-page-description = Супротставите се индустрији која продаје ваше податке трећим странама. Останите виспрени и заштићени уз технологију која се бори за вас.
 whatsnew-up-to-date-notification = Честитамо! Користите најновију { -brand-name-firefox-browser } верзију.
 whatsnew-out-of-date-notification = Доступан је новији { -brand-name-firefox-browser }. Поново покрените да бисте ажурирали.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes = Прочитајте <a href="{ $url }">белешке о издању</a> да сазнате шта има ново у вашем { -brand-name-firefox } прегледачу.
