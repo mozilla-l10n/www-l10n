@@ -10,6 +10,7 @@
 
 installer-help-page-title = Ojejoko ñemboguejy
 installer-help-main-tagline = Oiko jepivoi péicha. Ikatu jajapo ambue mba’e.
+installer-help-action-choose = Eiporavo mboguejy yvy gotyoguágui.
 
 ##
 
