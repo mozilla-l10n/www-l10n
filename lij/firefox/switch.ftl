@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-switch-from-chrome = Passa da { -brand-name-chrome } a { -brand-name-firefox } in solo quarche menuto
+switch-switch-to-firefox = Passa a { -brand-name-firefox }
 switch-enjoy-the-web-faster = Demoite co-a ræ veloce e scistemâ pròpio pe ti.
 switch-download-and-switch = Scarega e passa a Firefox
 switch-share-to-facebook = Condividdi into Facebook
