@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = المُثبّتات 64 بتّة
 firefox-all-choose-a-64-bit-installer = اختر مُثبّت 64 بتّة للحواسيب التي لها مُعالجات تعمل بـ64 بتّة، فتتيح للحاسوب تخصيص ذاكرة أكثر لكلّ برامج. يهمّ هذا خصوصًا الألعاب وغيرها من تطبيقات شرهة الاستهلاك.
 firefox-all-32-bit-installers = المُثبّتات 32 بتّة
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = نزّل متصفّح Firefox بالعربية وبأكثر من 90 لغة أخرى
+firefox-all-download-the-firefox = نزّل متصفّح { -brand-name-firefox-browser } بالعربية وبأكثر من 90 لغة أخرى
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = يملك الجميع حقّ الوصول إلى الإنترنت، ويجب ألا تكون لغتك عائقًا أبدًا. لهذا السبب وبمساعدة المتطوعين المخلصين حول العالم، نُقدّم متصفّح Firefox بأكثر من 90 لغة.
-firefox-all-choose-which-firefox = اختر أيّ نسخة من متصفّح Firefox تريد تنزيله بلغتك
+firefox-all-everyone-deserves-access = يملك الجميع حقّ الوصول إلى الإنترنت، ويجب ألا تكون لغتك عائقًا أبدًا. لهذا السبب وبمساعدة المتطوعين المخلصين حول العالم، نُقدّم متصفّح { -brand-name-firefox-browser } بأكثر من 90 لغة.
+firefox-all-choose-which-firefox = اختر أيّ نسخة من متصفّح { -brand-name-firefox-browser } تريد تنزيله بلغتك
 firefox-all-firefox-privacy-notice = بيان { -brand-name-firefox } للخصوصية
 firefox-all-learn-about-firefox = اعرف المزيد عن متصفّحات { -brand-name-firefox }
 firefox-all-the-standard-firefox = متصفّح { -brand-name-firefox } العادي: سريع ويحمي الخصوصية. لو لم تكن تدري أيّ نسخة تختار، فاختر هذه.
 firefox-all-get-a-sneak-peek-at = اعرف الآتي من مزايا متصفح { -brand-name-firefox } في لمحة عين قبل أن تصدر حتى.
-firefox-all-test-your-sites-against = اختبِر مواقعك باستعمال متصفّح فَيَرفُكس الذي سيصدر عمّا قريب حاملًا أدوات المطوّرين الفعالة والمرنة، وهي مشغّلة مبدئيًا.
-firefox-all-count-on-stability-and = اعتمد على هذه النسخة من المتصفح لو أردت الاستقرار وسهولة الاستعمال، للمؤسّسات.
-firefox-all-windows-installers-for = مُثبّتات أنظمة وِندوز لمهندسي المعلوماتية داخل الشركات، فتسهّل عملية ضبط متصفّح فَيَرفُكس ونشره وإدارته.
+firefox-all-test-your-sites-against = اختبِر مواقعك باستعمال متصفّح { -brand-name-firefox } الذي سيصدر عمّا قريب حاملًا أدوات المطوّرين الفعالة والمرنة، وهي مشغّلة مبدئيًا.
+firefox-all-count-on-stability-and = اعتمد على هذه النسخة من متصفّح { -brand-name-firefox } لو أردت الاستقرار وسهولة الاستعمال، للمؤسّسات.
+firefox-all-windows-installers-for = مُثبّتات أنظمة وِندوز لمهندسي المعلوماتية داخل الشركات، فتسهّل عملية ضبط متصفّح { -brand-name-firefox-browser } ونشره وإدارته.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = اختر مُثبّت 32 بتّة للحواسيب التي لها مُعالجات تعمل بـ32 بتّة، وهي الحواسيب القديمة أو الأقل قوّة. <a href="{ $url }">لو احترت</a> في الاختيار بين المُثبّتين 32 و64 بتّة، فننصحك بأن تجرّب 32 بتّة.

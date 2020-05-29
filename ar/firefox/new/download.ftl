@@ -10,13 +10,13 @@ firefox-new-download-the-fastest-firefox = نزِّل أسرع { -brand-name-fir
 firefox-new-faster-page-loading-less-memory = تحميل الصفحات بات أسرع، واستخدام الذاكرة قل، هذا عدا المزايا المضمنة. لقد وصل متصفح { -brand-name-firefox } الجديد.
 firefox-new-automatic-privacy-is-here = الخصوصية التلقائية مشمولة. نزّل { -brand-name-firefox } لحجب ما يزيد على ألفي متعقّب.
 firefox-new-get-the-latest-firefox = نزّل آخر إصدارة من متصفّح { -brand-name-firefox }.
-firefox-new-firefox-lockwise-makes-secure = يحافظ <strong>{ -brand-name-firefox-lockwise }</strong> على كلمات السر التي تحفظها في فَيَرفُكس آمنة ويُتيحها لك على كل جهاز تملك.
+firefox-new-firefox-lockwise-makes-secure = يحافظ <strong>{ -brand-name-firefox-lockwise }</strong> على كلمات السر التي تحفظها في { -brand-name-firefox } آمنة ويُتيحها لك على كل جهاز تملك.
 firefox-new-join-firefox = انضم إلى { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = يُتيح لك <strong>{ -brand-name-firefox-lockwise }</strong> كلمات السر التي تحفظها في فَيَرفُكس على كل جهاز تملك.
+firefox-new-firefox-lockwise-makes = يُتيح لك <strong>{ -brand-name-firefox-lockwise }</strong> كلمات السر التي تحفظها في { -brand-name-firefox } على كل جهاز تملك.
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = نزّل فَيَرفُكس<br>لنظام وِندوز
-firefox-new-download-firefox-for-macos = نزّل فَيَرفُكس <br>لنظام آي‎أوإس
-firefox-new-download-firefox-for-linux = نزّل فَيَرفُكس<br>لأنظمة لينكس
+firefox-new-download-firefox-for-windows = نزّل { -brand-name-firefox }<br>لنظام { -brand-name-windows }
+firefox-new-download-firefox-for-macos = نزّل { -brand-name-firefox }<br>لنظام { -brand-name-mac }
+firefox-new-download-firefox-for-linux = نزّل { -brand-name-firefox }<br>لأنظمة { -brand-name-linux }
 firefox-new-free-web-browser = مُتصفّح وِب مجاني
 firefox-new-advanced-install-options = خيارات التثبيت المتقدمة و منصات أخرى
 firefox-new-download-in-another-language = نزِّله بلغة أخرى
@@ -32,7 +32,7 @@ firefox-new-private-browsing-clears = يمسح <strong>التصفح الخاص</
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = أنت تستخدم نظام تشغيل غير آمن وقديم <a href="{ $url }">لم يعد فَيَرفُكس يدعمه</a>.
+firefox-new-youre-using-an-insecure-outdated = أنت تستخدم نظام تشغيل غير آمن وقديم <a href="{ $url }">لم يعد { -brand-name-firefox } يدعمه</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

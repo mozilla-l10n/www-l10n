@@ -17,24 +17,24 @@ download-button-recommended = يُنصح به
 download-button-mozilla-no-longer-provides = <a href="{ $url }">لم تعد موزيلا تقدّم التحديثات الأمنية لمتصّفح فَيَرفُكس على وِندوز إكس‌پي أو ڤيستا</a>، مع ذلك تستطيع تنزيل إصدار وِندوز 32 بتّة الأخيرة من الأسفل.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = رجاءً اتّبع  <a href="{ $url }">هذه التّعليمات</a> لتنصيب فَيَرفُكس.
+download-button-please-follow-these = رجاءً اتّبع  <a href="{ $url }">هذه التّعليمات</a> لتثبيت { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = لا يملك جهازك <a href="{ $url }">المواصفات الدنيا</a> لتشغيل فَيَرفُكس.
-download-button-firefox-other-platforms = فَيَرفُكس بلغات وعلى منصّات أخرى.
+download-button-your-system-does-not = لا يملك جهازك <a href="{ $url }">المواصفات الدنيا</a> لتشغيل { -brand-name-firefox }.
+download-button-firefox-other-platforms = متصفّح { -brand-name-firefox } بلغات وعلى منصّات أخرى.
 download-button-update-your-firefox = قم بتحديث { -brand-name-firefox }
-download-button-get-firefox-android = احصل على فَيَرفُكس لأندرويد
-download-button-get-firefox-ios = احصل على فَيَرفُكس لآي أو إس
-download-button-google-play = احصل عليه من متجر جوجل
-download-button-free-google-play = حمّله مجانًا من متجر جوجل
-download-button-app-store = احصل عليه مجاناً من متجر أبل
-download-button-download-app-store = نزّله من متجر أبل
-download-button-download-firefox = نزّل فَيَرفُكس
-download-button-your-system-may = جهازك قد لا يتوفّر على المُواصفات اللازمة لتشغيل فَيَرفُكس. لكن قد ترغب في تجربة أحد هذه الإصدارات:
-download-button-firefox-beta-android = <span>فَيَرفُكس بيتا</span> لأندرويد
-download-button-firefox-aurora-android = <span>فَيَرفُكس أورورا</span> لأندرويد
-download-button-firefox-nightly-android = <span>النسخة الليلية من فَيَرفُكس</span> على أندرويد
-download-button-firefox-android = <span>فَيَرفُكس</span> لأندرويد
-download-button-firefox-ios = <span>فيرفكس</span> لآي أو إس
+download-button-get-firefox-android = نزّل { -brand-name-firefox } لنظام { -brand-name-android }
+download-button-get-firefox-ios = نزّل { -brand-name-firefox } لنظام { -brand-name-ios }
+download-button-google-play = نزّله من { -brand-name-google-play }
+download-button-free-google-play = نزّله مجانًا من { -brand-name-google-play }
+download-button-app-store = نزّله مجانًا من { -brand-name-app-store }
+download-button-download-app-store = نزّله من { -brand-name-app-store }
+download-button-download-firefox = نزّل { -brand-name-firefox }
+download-button-your-system-may = جهازك قد لا يتوفّر على المُواصفات اللازمة لتشغيل { -brand-name-firefox }. لكن قد ترغب في تجربة أحد هذه الإصدارات:
+download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> لنظام { -brand-name-android }
+download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> لنظام { -brand-name-android }
+download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> لنظام { -brand-name-android }
+download-button-firefox-android = <span>{ -brand-name-firefox }</span> لنظام { -brand-name-android }
+download-button-firefox-ios = <span>{ -brand-name-firefox }</span> لنظام { -brand-name-ios }
 download-button-firefox-privacy = خصوصية { -brand-name-firefox }
 download-button-download = نزّل
