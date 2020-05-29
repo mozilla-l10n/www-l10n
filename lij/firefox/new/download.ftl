@@ -45,6 +45,10 @@ firefox-new-just-download-the-browser = Basta che ti scareghi o navagatô
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Ti deuvi un scistema òperativo inseguo e  vegio ch'o  <a href="{ $url }">no l'é ciù soportou da { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-firefox-new-should-begin = O teu descaregamento o dovieiva iniçiâ in outomatico. O no vâ? <a id="{ $id }" href="{ $fallback_url }">Preuva torna chi</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } o l'é ciù de 'n navegatô.
 firefox-new-its-privacy-and-peace-of = <strong>Privacy e tranquilitæ</strong> in sci dispoxitivi mòbili, ascì.
 firefox-new-its-a-family-of-products = Ina <strong>famiggia de produti</strong> che rispeita i teu dæti personâ.
