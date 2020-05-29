@@ -5,4 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-enjoy-the-web-faster = Demoite co-a ræ veloce e scistemâ pròpio pe ti.
+switch-download-and-switch = Scarega e passa a Firefox
+switch-share-to-facebook = Condividdi into Facebook
+switch-send-a-tweet = Manda un tweet
+switch-hey = Saluo,
 switch-check-it-out = Amialo 'n pö e famme savei cöse ti ne pensi:
+switch-send-an-email = Manda 'na email

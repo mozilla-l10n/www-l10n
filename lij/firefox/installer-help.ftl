@@ -16,3 +16,7 @@ installer-help-action-choose = Çerni un descaregamento chi sotta.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Piggite l'urtima verscion. Privacy aotomatica. Scarega o { -brand-name-firefox-browser } pe blocâ ciù de { $trackers } de traciatoî.
+installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }

@@ -2,10 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-get-a-firefox-account = Fatte 'n conto Firefox
+navigation-download-firefox = Descarega { -brand-name-firefox }
+navigation-get-a-firefox-account = Fatte 'n conto { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pe desktop
 navigation-get-the-browser-that-respects = Deuvia o navegatô ch'o rispêta a teu privacy in aotomatico. In sce { -brand-name-windows }, { -brand-name-mac } ò { -brand-name-linux }.
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pe telefonin
+navigation-ios-support = Ascistensa { -brand-name-ios }
+navigation-android-support = Ascistensa { -brand-name-android }
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } pe-e aziende
 navigation-access-all-of-firefox = Gestisci tutti i produti { -brand-name-firefox } co-in solo acesso pe avei o megio da ògnidun.
-navigation-read-about-new-firefox = Lezi e neuve fonçionalitæ e i conseggi pe sta a-o seguo quande ti ê in linea.
+navigation-firefox-blog = Blòg de { -brand-name-firefox }
+navigation-read-about-new-firefox = Lezi e neuve fonçionalitæ de { -brand-name-firefox } e i conseggi pe sta a-o seguo quande ti ê in linea.
 navigation-get-the-browser-that-gives = Deuvia o navegatô che te dâ ciù poéi in sce { -brand-name-windows }, { -brand-name-mac } ò { -brand-name-linux }.
 navigation-get-firefox = Scarega { -brand-name-firefox }
 navigation-get-firefox-focus = Scarega { -brand-name-firefox-focus }
