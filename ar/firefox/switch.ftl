@@ -13,9 +13,9 @@ switch-let-firefox-do-the-rest = اترك الباقي على { -brand-name-fire
 switch-use-firefox-and-still-chrome = بإمكانك استخدام فَيَرفُكس والحِفاظ على كروم دون أي تغيير.
 switch-share-with-your-friends = شارِك مع أصدقائك طريقة الانتقال إلى { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 يسمح لك { -brand-name-firefox } بالانتقال من { -brand-name-chrome } بشكل سريع. جّربه الآن.
-switch-switch-to-firefox = انتقل إلى فَيَرفُكس
-switch-firefox-makes-switching-fast-email = يجعل فَيَرفُكس الانتقال من كروم شربة ماء. أحبّ هذا المتصفح، وأظن أن عليك تجريبه.
-switch-still-not-convinced = لست مُقتنعًا بعد بأن الانتقال إلى فَيَرفُكس سهل؟
+switch-switch-to-firefox = انتقل إلى { -brand-name-firefox }
+switch-firefox-makes-switching-fast-email = يجعل { -brand-name-firefox } الانتقال من { -brand-name-chrome } شربة ماء. أحبّ هذا المتصفح، وأظن أن عليك تجريبه.
+switch-still-not-convinced = لست مُقتنعًا بعد بأن الانتقال إلى { -brand-name-firefox } سهل؟
 switch-enjoy-the-web-faster = استمتع بتجربة استخدامك لمُتصفّح سريع، أُعِدّ من أجلك.
 switch-download-and-switch = حمّل وانتقل
 switch-share-to-facebook = شارِك على فيسبوك

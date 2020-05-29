@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = نزّل { -brand-name-firefox }
-navigation-get-a-firefox-account = سجّل حساب Firefox
-navigation-firefox-browser-for-mobile = متصفّح Firefox للمحمول
-navigation-download-for-ios = نزّل لنظام آي‌أوإس
-navigation-download-for-android = نزّل لنظام أندرويد
-navigation-ios-support = دعم آي‌أوإس
-navigation-android-support = دعم أنرويد
+navigation-get-a-firefox-account = سجّل { -brand-name-firefox-account }
+navigation-firefox-browser-for-mobile = متصفّح { -brand-name-firefox-browser } للمحمول
+navigation-download-for-ios = نزّل لنظام { -brand-name-ios }
+navigation-download-for-android = نزّل لنظام { -brand-name-android }
+navigation-ios-support = دعم { -brand-name-ios }
+navigation-android-support = دعم { -brand-name-android }
 navigation-join-firefox = انضم إلى { -brand-name-firefox }
 navigation-firefox-blog = مدونة { -brand-name-firefox }
 navigation-mozilla-careers = الوظائف في { -brand-name-mozilla }
 navigation-close-firefox-menu = أغلِق قائمة { -brand-name-firefox }
-navigation-get-the-browser-that-gives = نزّل المتصفح الذي يمنحك أقصى طاقة، لأنظمة وندوز وماك‌أوإس ولينكس.
+navigation-get-the-browser-that-gives = نزّل المتصفح الذي يمنحك أقصى طاقة، لأنظمة { -brand-name-windows } و{ -brand-name-mac } و{ -brand-name-linux }.
 navigation-get-firefox = نزِّل { -brand-name-firefox }
 navigation-get-firefox-focus = نزّل { -brand-name-firefox-focus }
-navigation-android-extensions = امتدادات أندرويد
+navigation-android-extensions = امتدادات { -brand-name-android }
 navigation-your-firefox-account = حسابك في Firefox
 navigation-learn-how-to-customize = تعرف على كيفية تخصيص طريقة عمل { -brand-name-firefox }.
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR

@@ -6,16 +6,16 @@ newsletter-form-your-email-here = بريدك هنا
 newsletter-form-format = التنسيق
 newsletter-form-html = HTML
 newsletter-form-text = نص
-newsletter-form-get-firefox-news = اشترك بأخبار فَيَرفُكس
+newsletter-form-get-firefox-news = اشترك بأخبار { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = أنا موافق على طريقة تعامل موزيلا مع بياناتي كما هو موضح في <a href="{ $url }">سياسة الخصوصية</a>
-newsletter-form-we-will-only-send = سنرسل لك معلومات متعلقة بموزيلا فقط.
-newsletter-form-if-you-havent-previously = إذا لم يسبق لك تأكيد اشتراكك في إحدى نشرات موزيلا البريدية فقد تحتاج للقيام بذلك. فضلًا تحقق من وصول الرّسالة التي أرسلناها إلى بريدك (تحقّق من مُجلّد البريد المُزعج أيضًا).
+newsletter-form-im-okay-with-mozilla = أنا موافق على طريقة تعامل { -brand-name-mozilla } مع بياناتي كما هو موضح في <a href="{ $url }">سياسة الخصوصية</a>
+newsletter-form-we-will-only-send = سنرسل لك معلومات متعلقة { -brand-name-mozilla } فقط.
+newsletter-form-if-you-havent-previously = إن لم يسبق لك تأكيد اشتراكك في إحدى نشرات { -brand-name-mozilla } البريدية فقد تحتاج فعل ذلك. رجاءً افحص صندوق الوارد لديك أو مرشّح السخام بحثا عن الرسالة التي أرسلناها.
 newsletter-form-firefox-and-you = <span>فيَرفُكس</span> + أنت
-newsletter-form-get-firefox-tips = احصل على أفكار، وحِيَل حول استخدام فيَرفُكس، أخبار والمزيد
-newsletter-form-keep-up-with = ابقَ على اطّلاع<br> بكل ما له علاقة بفَيَرفُكس.
-newsletter-form-get-mozilla-updates = احصل على تحديثات موزيلا
+newsletter-form-get-firefox-tips = احصل على أفكار، وحِيَل حول استخدام { -brand-name-firefox }، أخبار والمزيد
+newsletter-form-keep-up-with = ابقَ على اطّلاع<br> بكل ما له علاقة بمتصفّح { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = احصل على تحديثات { -brand-name-mozilla }
 newsletter-form-available-languages = اللغات المُتاحة
 newsletter-form-select-country = اختر الدولة
 newsletter-form-sign-me-up = اشترك

@@ -23,7 +23,7 @@ footer-developers = المطوّرون
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
-footer-portions-of-this-content = حقوق بعض هذا المحتوى محفوظة لمساهمي Mozilla‏ ©1998–{ $current_year }. المحتوى منشور تحت <a rel="license" href="{ $url }">رخصة المشاع الإبداعي</a>.
+footer-portions-of-this-content = حقوق بعض هذا المحتوى محفوظة لمساهمي Mozilla‏ ©1998–{ $current_year }. المحتوى منشور تحت <a rel="license" href="{ $url }">رخصة { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = الشركة
 footer-about = تعرّف على موزيلا

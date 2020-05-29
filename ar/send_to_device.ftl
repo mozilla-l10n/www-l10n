@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-send-to-device-send-firefox = أرسل فَيَرفُكس إلى هاتفك الذكي أو جهازك اللوحي
+send-to-device-send-firefox = أرسل { -brand-name-firefox } إلى هاتفك الذكي أو جهازك اللوحي
 send-to-device-your-download-link = تم إرسال رابط التحميل الخاص بك.
 send-to-device-sorry-we-cant-send = للأسف لا يُمكننا إرسال رسالة نصّية قصيرة إلى هذا الرّقم.
 send-to-device-sorry-this-number = عفواً، هذا الرقم غير صحيح، يرجى إدخال رقم هاتف بالولايات المتحدة.
