@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Byte til { -brand-name-firefox } 
 switch-select-what-to-take = Vel kva du vil ta med deg frå { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = La { -brand-name-firefox } gjere resten.
 switch-use-firefox-and-still-chrome = Du kan bruke { -brand-name-firefox } og framleis ha { -brand-name-chrome }. { -brand-name-chrome } vil ikkje bli endra på datamaskina di.
+switch-spread-the-word = Fortel alle om { -brand-name-firefox } og hjelp kompisane dine med å seie farvel til { -brand-name-chrome }.
 switch-share-with-your-friends = Del med vennane dine korleis du byter til { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } gjer det raskt og enkelt å byte frå { -brand-name-chrome }. Prøv det!
 switch-switch-to-firefox = Byt til { -brand-name-firefox }
