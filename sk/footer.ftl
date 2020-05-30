@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Zásady ochrany súkromia webovej stránky
 footer-websites-cookies = Cookies
 footer-websites-legal = Právne informácie
 footer-language = Jazyk
+footer-go = Prejsť
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

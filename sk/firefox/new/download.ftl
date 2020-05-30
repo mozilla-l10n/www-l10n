@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = Prevziať { -brand-name-firefox }
-firefox-new-download-mozilla-firefox = Prevezmite si Mozillu { -brand-name-firefox }, voľne dostupný webový prehliadač. { -brand-name-firefox } je vyvíjaný neziskovou organizáciou, ktorej cieľom je dať ľudom kontrolu nad internetom. Prevezmite si { -brand-name-firefox } pre { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }!
+firefox-new-download-mozilla-firefox = Prevezmite si prehliadač { -brand-name-mozilla } { -brand-name-firefox }, voľne dostupný webový prehliadač. { -brand-name-firefox } je vyvíjaný neziskovou organizáciou, ktorej cieľom je dať ľudom kontrolu nad internetom. Prevezmite si { -brand-name-firefox } pre { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }!
 firefox-new-download-the-fastest-firefox = Prevezmite si ten najrýchlejší { -brand-name-firefox } vôbec
 firefox-new-faster-page-loading-less-memory = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } je tu.
 firefox-new-automatic-privacy-is-here = Automatické súkromie je tu. Prevezmite si { -brand-name-firefox }, ktorý pre vás zablokuje viac ako 2 000 sledovacích prvkov.
@@ -15,7 +15,7 @@ firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } vám ukáže, a
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> vám heslá bezpečne uložené vo { -brand-name-firefox }e sprístupní na všetkých vašich zariadeniach.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> vás upozorní v prípade, ži zistíme, že vaše dáta boli súčasťou nejakého úniku.
 firefox-new-join-firefox = Prihláste sa do { -brand-name-firefox }u
-firefox-new-firefox-lockwise-makes = Vďaka <strong>{ -brand-name-firefox-lockwise }</strong> máte svoje heslá k dispozícii na všetkých svojich zariadeniach.
+firefox-new-firefox-lockwise-makes = Vďaka <strong>{ -brand-name-firefox-lockwise(case: "dat") }</strong> máte svoje heslá k dispozícii na všetkých svojich zariadeniach s { -brand-name-firefox(case: "ins") }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Prevziať { -brand-name-firefox } <br>pre { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Prevziať { -brand-name-firefox } <br>pre { -brand-name-mac }

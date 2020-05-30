@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Zadajte platnú e-mailovú adresu
+newsletter-form-you-must-agree-to = Musíte súhlasiť zo zásadami ochrany súkromia.
+newsletter-form-your-email-address = Vaša e-mailová adresa
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = vasa_adresa@example.com
+newsletter-form-select-country-or-region = Vyberte krajinu alebo oblasť
 newsletter-form-your-email-here = VAŠA E-MAILOVÁ ADRESA
 newsletter-form-format = Formát
 newsletter-form-html = HTML
