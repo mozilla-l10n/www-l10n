@@ -47,21 +47,15 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
--brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
 -brand-name-send = Send
 -brand-name-sync = Sync
 
 ## Pocket
 
--brand-name-pocket = Pocket
 
 ## Mozilla projects
 
@@ -85,7 +79,6 @@
 ## Other browsers
 
 -brand-name-brave = Brave
--brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
@@ -93,11 +86,8 @@
 
 ## Platforms
 
--brand-name-android = Android
 -brand-name-ios = iOS
--brand-name-linux = Linux
 -brand-name-mac = macOS
--brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
 
