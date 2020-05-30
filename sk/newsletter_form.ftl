@@ -16,12 +16,12 @@ newsletter-form-get-firefox-news = Získajte novinky o { -brand-name-firefox }e
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Beriem na vedomie, že { -brand-name-mozilla } spracuje tieto údaje v súlade so <a href="{ $url }">zásadami ochrany súkromia</a>
-newsletter-form-we-will-only-send = Zasielať Vám budeme len informácie týkajúce sa Mozilly.
-newsletter-form-if-you-havent-previously = Ak ste v minulosti nepotvrdili odber noviniek Mozilly, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.
+newsletter-form-we-will-only-send = Zasielať Vám budeme len informácie týkajúce sa { -brand-name-mozilla(case: "gen") }.
+newsletter-form-if-you-havent-previously = Ak ste v minulosti nepotvrdili odber noviniek { -brand-name-mozilla(case: "gen") }, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> a Vy
 newsletter-form-get-firefox-tips = Získajte tipy, triky a novinky o { -brand-name-firefox }e
 newsletter-form-keep-up-with = Zostaňte v spojení<br> s { -brand-name-firefox }om.
-newsletter-form-get-mozilla-updates = Získajte novinky o Mozille
+newsletter-form-get-mozilla-updates = Získajte novinky o { -brand-name-mozilla(case: "loc") }
 newsletter-form-available-languages = Dostupné jazyky
 newsletter-form-select-country = Zvoľte krajinu
 newsletter-form-sign-me-up = Prihlásiť sa
