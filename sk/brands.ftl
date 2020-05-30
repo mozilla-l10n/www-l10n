@@ -23,7 +23,6 @@
 
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
--brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
 
@@ -40,14 +39,9 @@
 
 ## Firefox browsers (legacy)
 
--brand-name-firefox-aurora = Firefox Aurora
 
 ## Firefox products
 
--brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-monitor = Firefox Monitor
 
 ## Firefox products (short names)
 
