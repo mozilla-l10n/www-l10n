@@ -27,6 +27,7 @@ firefox-new-need-help = Tarvitsetko apua?
 firefox-new-see-whats-being-blocked = Katso mitä estetään
 firefox-new-make-your-passwords-portable = Ota salasanat mukaasi
 firefox-new-watch-for-data-breaches = Tarkkaile tietovuotoja
+firefox-new-passwords-made-portable = Salasanat on tehty kulkemaan mukana
 firefox-new-protect-your-privacy = Suojaa yksityisyyttäsi
 firefox-new-private-browsing-clears = <strong>Yksityinen selaus</strong> tyhjentää selaushistoriasi, jotta se ei päädy muiden samaa tietokonetta käyttävien tietoon.
 firefox-new-advanced-install-options-heading = Edistyneet asennusvalinnat ja muut alustat
