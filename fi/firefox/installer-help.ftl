@@ -10,6 +10,22 @@
 
 installer-help-page-title = Latauksesi keskeytyi
 installer-help-main-tagline = Sitä tapahtuu joskus. Kokeillaan jotain muuta.
+installer-help-action-channel = Tämän latauksen pitäisi toimia paremmin kohdallasi.
+installer-help-action-choose = Valitse lataus alapuolelta.
 
 ##
 
+installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Hanki uusin. Yksityisyys sisältyy automaattisesti. Lataa { -brand-name-firefox-browser } estääksesi yli { $trackers } seurainta.
+installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-desc = Testaa pian julkaistavia ominaisuuksia vakaimmassa julkaisua edeltävässä koontiversiossa.
+installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = Rakenna, testaa, skaalaa ja tee paljon muuta ainoalla kehittäjille suunnatulla selaimella.
+installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Kurkkaa seuraavan sukupolven selaimeen, ja auta meitä tekemään siitä paras mahdollinen selain.
+installer-help-need-help = Tarvitsetko apua asennukseen?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Jos tarvitset vielä apua asennuksen kanssa, <a href="{ $url }">lue opas tukiosiosta.</a>

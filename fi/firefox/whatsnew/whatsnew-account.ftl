@@ -9,4 +9,5 @@
 ## Required
 
 whatsnew-account-main-headline = Tiliä ei vaadita. Mutta saatat haluta sellaisen.
+whatsnew-account-main-lead-in = { -brand-name-firefox }-selain kerää niin vähän tietoa sinusta, ettemme vaadi edes sähköpostiosoitettasi tietoomme. Jos käytät sähköpostiosoitetta luodaksesi { -brand-name-firefox }-tilin, voimme suojata yksityisyyttäsi verkossa aiempaa paremmin.
 whatsnew-account-main-button = Kirjaudu sisään
