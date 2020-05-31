@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Taq Rutzijol Richinanem Ajk'amaya'l Ruxaq
 footer-websites-cookies = Taq kaxlanwey
 footer-websites-legal = Taqanel rutzijol
 footer-language = Ch'ab'äl
+footer-go = Jo'
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

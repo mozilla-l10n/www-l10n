@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Titz'ib'äx jun okel rochochib'äl taqoya'l.
+newsletter-form-you-must-agree-to = K'atzinel nak'ül ri ichinan rutzijol.
+newsletter-form-your-email-address = Rochochib'al ataqoya'l
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = Ticha' Amaq' o k'ojlib'äl
 newsletter-form-your-email-here = ATAQOYA'L WAWE'
 newsletter-form-format = B'anikil
 newsletter-form-html = HTML

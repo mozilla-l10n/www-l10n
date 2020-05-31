@@ -13,3 +13,8 @@ installer-help-page-title = Xq'at ri aqasanik
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+installer-help-firefox-beta-desc = Tatojtob'ej taq b'anikil pa ruwi'-toq-nelesäx rik'in ri ütz chuwäch ri ruwäch ri xtelesäx pe.
+installer-help-firefox-developer-title = { -brand-name-firefox-browser }{ -brand-name-developer-edition }
+installer-help-firefox-developer-desc = Tinuk', tojtob'enïk, xakb'äl chuqa' ch'aqa' chik rik'in ri yonil chi tz'aqät okik'amaya'l kuma ri ajb'anonela'.
+installer-help-firefox-nightly-title = { -brand-name-firefox-browser }{ -brand-name-nightly }
+installer-help-need-help = ¿La nawajo' ato'ik rik'in ri qasanïk?
