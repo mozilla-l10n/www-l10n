@@ -56,7 +56,7 @@
 -brand-name-firefox-accounts =
     { $case ->
        *[nom] Firefox-ანგარიშები
-        [dat] Firefox-ანგარიშებ
+        [add] Firefox-ანგარიშებთან
     }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
