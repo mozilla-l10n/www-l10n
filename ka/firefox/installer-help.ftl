@@ -20,3 +20,12 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = გადმოწერეთ უახლესი. პირადულობის თავისთავადი დაცვით. ჩამოტვირთეთ { -brand-name-firefox-browser } და შეზღუდეთ { $trackers }-ზე მეტი მეთვალყურე.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-desc = გამოცადეთ უახლესი შესაძლებლობები წინასწარი გამოშვებების ყველაზე მდგრად ანაწყობზე.
+installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = შეიმუშავეთ, შეამოწმეთ, გამოიკვლიეთ და ა. შ. ერთადერთი ბრაუზერით, რომელიც შექმნილია საგანგებოდ შემმუშავებლებისთვის.
+installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = თვალი შეავლეთ ჩვენს ახალი თაობის ბრაუზერს და დაგვეხმარეთ, მის საუკეთესოდ ქცევაში.
+installer-help-need-help = გესაჭიროებათ დახმარება დაყენებისას?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = თუ კვლავ საჭიროებთ დამხარებას, <a href="{ $url }">გაეცანით სახელმძღვანელოს ჩვენს მხარდაჭერის გვერდზე.</a>
