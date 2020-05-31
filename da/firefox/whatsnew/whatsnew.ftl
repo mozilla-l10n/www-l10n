@@ -11,4 +11,4 @@ whatsnew-up-to-date-notification = Tillykke! Du benytter den seneste version af 
 whatsnew-out-of-date-notification = En endnu nyere { -brand-name-firefox-browser } er tilgængelig. Genstart for at opdatere.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Læs <a href="{ $url }">udgivelsesnoterne</a> for at lære mere om nyhederne i din { -brand-name-firefox }.
+whatsnew-release-notes = Læs <a href="{ $url }">udgivelsesnoterne</a> for at lære mere om nyhederne i din { -brand-name-firefox }-browser.
