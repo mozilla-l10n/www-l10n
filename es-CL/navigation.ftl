@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Bajar { -brand-name-firefox }
-navigation-get-a-firefox-account = Obtener una cuenta de Firefox
+navigation-get-a-firefox-account = Obtener una { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } para escritorio
 navigation-get-the-browser-that-respects = Obtén el navegador que respeta tu privacidad de forma automática. En { -brand-name-windows }, { -brand-name-mac } o { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para móviles
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Lleva { -brand-name-firefox } y { -brand-n
 navigation-get-firefox = Obtener { -brand-name-firefox }
 navigation-get-firefox-focus = Obtener { -brand-name-firefox-focus }
 navigation-android-extensions = Extensiones para { -brand-name-android }
-navigation-your-firefox-account = Tu cuenta de Firefox
+navigation-your-firefox-account = Tu { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aprovecha al máximo tu experiencia con { -brand-name-firefox } en todos los dispositivos.
 navigation-learn-how-to-customize = Aprende cómo personalizar la forma en que { -brand-name-firefox } funciona.
 navigation-experience-augmented = Experimenta la realidad aumentada y virtual con { -brand-name-firefox }.
