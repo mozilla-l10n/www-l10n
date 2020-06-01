@@ -388,10 +388,10 @@
        *[nom] Windows
         [gen] Windowsu
         [dat] Windowsu
-        [acc] Wundows
+        [acc] Windows
         [voc] Windows
         [loc] Windowsu
-        [ins] Wundowsem
+        [ins] Windowsem
     }
     .gender = masculine
 -brand-name-xp = XP
