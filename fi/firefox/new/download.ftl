@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = Lataa { -brand-name-firefox }
+firefox-new-download-mozilla-firefox = Lataa { -brand-name-mozilla } { -brand-name-firefox }, vapaa ja ilmainen verkkoselain. { -brand-name-firefox } on tehty maailmanlaajuisen, voittoa tavoittelemattoman yhteisön toimesta päämääränä tarjota yksilölle mahdollisuus hallita tekemisiään verkossa. Hanki { -brand-name-firefox } { -brand-name-windows }ille, { -brand-name-mac }:lle, { -brand-name-linux }ille, { -brand-name-android }ille ja { -brand-name-ios }:lle tänään!
 firefox-new-download-the-fastest-firefox = Lataa nopein { -brand-name-firefox } koskaan
 firefox-new-faster-page-loading-less-memory = Nopeampi sivujen latausaika, pienempi keskusmuistin käyttö ja runsaat ominaisuudet – uusi { -brand-name-firefox } on täällä.
 firefox-new-automatic-privacy-is-here = Automaattinen yksityisyys on täällä. Estä yli 2000 jäljittäjää lataamalla { -brand-name-firefox }.
@@ -19,6 +20,9 @@ firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</s
 firefox-new-download-firefox-for-windows = Lataa { -brand-name-firefox } <br>{ -brand-name-windows }ille
 firefox-new-download-firefox-for-macos = Lataa { -brand-name-firefox } <br>{ -brand-name-mac }:lle
 firefox-new-download-firefox-for-linux = Lataa { -brand-name-firefox } <br>{ -brand-name-linux }ille
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-new-youve-already-got-the-browser = Sinulla on jo selain. Katso mitä muuta { -brand-name-firefox } tarjoaa.
+firefox-new-watch-for-hackers-with = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa salasanasi { -brand-name-firefox-lockwise }llä ja paljon muuta.
 firefox-new-free-web-browser = Avoin verkkoselain
 firefox-new-advanced-install-options = Edistyneet asennusvalinnat ja muut alustat
 firefox-new-download-in-another-language = Lataa toisella kielellä
