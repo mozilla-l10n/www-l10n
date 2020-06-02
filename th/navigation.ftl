@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = ดาวน์โหลด { -brand-name-firefox }
-navigation-get-a-firefox-account = รับบัญชี Firefox
-navigation-firefox-browser-for-desktop = เบราว์เซอร์ Firefox สำหรับเดสก์ท็อป
-navigation-firefox-browser-for-mobile = เบราว์เซอร์ Firefox สำหรับมือถือ
+navigation-get-a-firefox-account = รับ{ -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } สำหรับเดสก์ท็อป
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } สำหรับมือถือ
 navigation-download-for-ios = ดาวน์โหลดสำหรับ { -brand-name-ios }
 navigation-download-for-android = ดาวน์โหลดสำหรับ { -brand-name-android }
 navigation-ios-support = การสนับสนุนสำหรับ { -brand-name-ios }
 navigation-android-support = การสนับสนุนสำหรับ { -brand-name-android }
-navigation-firefox-browser-for-enterprise = เบราว์เซอร์ Firefox สำหรับองค์กร
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } สำหรับองค์กร
 navigation-firefox-for-fire-tv = { -brand-name-firefox } สำหรับ { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = ดูวิดีโอและเรียกดูอินเทอร์เน็ตบน { -brand-name-amazon } { -brand-name-fire-tv } ของคุณ
 navigation-join-firefox = เข้าร่วม { -brand-name-firefox }
@@ -40,8 +40,11 @@ navigation-download = ดาวน์โหลด
 navigation-extensions = ส่วนขยาย
 navigation-support = การสนับสนุน
 navigation-privacy = ความเป็นส่วนตัว
+navigation-close-products-menu = ปิดเมนู “ผลิตภัณฑ์”
+navigation-security-tips = เคล็ดลับความปลอดภัย
 navigation-sign-up = ลงทะเบียน
 navigation-join = เข้าร่วม
+navigation-close-join-menu = ปิดเมนู “เข้าร่วม”
 navigation-sign-in = ลงชื่อเข้า
 navigation-about = เกี่ยวกับ
 navigation-close-about-menu = ปิดเมนูเกี่ยวกับ

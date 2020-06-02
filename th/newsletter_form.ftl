@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = โปรดป้อนที่อยู่อีเมลที่ถูกต้อง
+newsletter-form-you-must-agree-to = คุณต้องยอมรับประกาศความเป็นส่วนตัว
+newsletter-form-your-email-address = ที่อยู่อีเมลของคุณ
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = เลือกประเทศหรือภูมิภาค
 newsletter-form-your-email-here = อีเมลของคุณที่นี่
 newsletter-form-format = รูปแบบ
 newsletter-form-html = HTML
