@@ -25,5 +25,5 @@ newsletter-form-get-mozilla-updates = Obter atualizações da { -brand-name-mozi
 newsletter-form-available-languages = Idiomas disponíveis
 newsletter-form-select-country = Selecione o país
 newsletter-form-sign-me-up = Registe-me
-newsletter-form-sign-up-now = Registar agora
+newsletter-form-sign-up-now = Subscrever agora
 newsletter-form-thanks = Obrigado!
