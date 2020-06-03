@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = ‏{ -brand-name-firefox } - הגנה על החיים המקוונים שלך באמצעות מוצרים שדואגים קודם כל לפרטיות שלך.
 firefox-home-the-browser-is-just = הדפדפן הוא רק ההתחלה
 firefox-home-meet-our-family-of = הכירו את משפחת המוצרים שלנו
 firefox-home-learn-more-about-lockwise = מידע נוסף על { -brand-name-lockwise }
