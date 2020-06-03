@@ -26,3 +26,6 @@ installer-help-firefox-developer-desc = Emoheñói, eipuru ha hetave ko kundahá
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Ema’ẽmi ore ñanduti kundahára tenonderãgua rehe ha orepytyvõ iporãve hag̃ua opavavetégui.
 installer-help-need-help = ¿Eikotevẽ pytyvõ emohenda hag̃ua?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Eikotevẽrõ pytyvõ emohenda hag̃ua, <a href="{ $url }">emoñe’ẽ pe kuaaukaha ore Pytyvõha vorépe.</a>
