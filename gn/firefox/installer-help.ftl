@@ -24,4 +24,5 @@ installer-help-firefox-beta-desc = Eipuru tembiapoite noĩriva gueteri ojepuru h
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Emoheñói, eipuru ha hetave ko kundahára oñemoheñóiva ñangakohakuérape g̃uarã.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Ema’ẽmi ore ñanduti kundahára tenonderãgua rehe ha orepytyvõ iporãve hag̃ua opavavetégui.
 installer-help-need-help = ¿Eikotevẽ pytyvõ emohenda hag̃ua?
