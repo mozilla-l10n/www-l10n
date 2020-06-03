@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = Rojaporoína Ñanduti iporãvéva
-mission-our-mission-is-to-ensure-the-internet = Ñanduti ha’eva'erã tapichakuéra rembipuruete, peteĩteĩva ikatuhápe omba’apo ha ohechauka ikatupyry, oguerekohápe tekorasã ha jeheguiete.
+mission-our-mission-is-to-ensure-the-internet = Ñanduti ha’eva’erã tapichakuéra rembipuruete, peteĩteĩva ikatuhápe omba’apo ha ohechauka ikatupyry, oguerekohápe tekorasã ha jeheguiete.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Ore rembipota ha'e juruja ñemoherakuã, ñembopyahu ha pa'ũ Ñandutípe.
 mission-at-mozilla-were-a-global-community = Mozilla ha'e atyguasu tembipurupyahuguáva, akãngetahára ha mboguatahára romba'apóva Ñanduti oikove ha ijeike hasy'ỹ hag̃ua, opavave ñandekuéra pytyvõhára momarandupyréva ha Ñanduti moheñoihára.
