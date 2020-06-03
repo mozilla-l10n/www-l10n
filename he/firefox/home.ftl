@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = הדפדפן הוא רק ההתחלה
+firefox-home-meet-our-family-of = הכירו את משפחת המוצרים שלנו
 firefox-home-learn-more-about-lockwise = מידע נוסף על { -brand-name-lockwise }
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = קבלו את <strong>הכבוד</strong> שמגיע לכם
+firefox-home-every-single-firefox = כל אחד ממוצרי { -brand-name-firefox } מכבד את הבטחתנו בנוגע לנתונים אישיים: <strong>לקחת פחות. להגן בקפידה. ללא סודות.</strong>
 firefox-home-learn-more-about-pocket = מידע נוסף על { -brand-name-pocket }
 firefox-home-learn-more-about-joining = מידע נוסף על הצטרפות ל־{ -brand-name-firefox }
 firefox-home-get-the-facebook-container = קבלת ההרחבה { -brand-name-facebook-container }
