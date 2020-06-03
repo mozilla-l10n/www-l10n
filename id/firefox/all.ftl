@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = Penginstal 64-bit
 firefox-all-choose-a-64-bit-installer = Pilih penginstal 64-bit untuk komputer dengan prosesor 64-bit, yang memungkinkan komputer mengalokasikan lebih banyak RAM untuk tiap-tiap program — penting terutama untuk permainan dan aplikasi lain yang membutuhkannya.
 firefox-all-32-bit-installers = Penginstal 32-bit
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Unduh Peramban Firefox dalam Bahasa Inggris (AS) dan lebih dari 90 bahasa lainnya
+firefox-all-download-the-firefox = Unduh { -brand-name-firefox-browser } dalam Bahasa Inggris (AS) dan lebih dari 90 bahasa lainnya
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Semua orang berhak mengakses internet — bahasa Anda seharusnya tidak menjadi penghalang. Itulah sebabnya — dengan bantuan sukarelawan yang berdedikasi di seluruh dunia — kami menyediakan Peramban Firefox dalam lebih dari 90 bahasa.
-firefox-all-choose-which-firefox = Pilih peramban Firefox mana yang akan diunduh dalam bahasa Anda
+firefox-all-everyone-deserves-access = Semua orang berhak mengakses internet — bahasa Anda seharusnya tidak menjadi penghalang. Itulah sebabnya — dengan bantuan sukarelawan yang berdedikasi di seluruh dunia — kami menyediakan { -brand-name-firefox-browser } dalam lebih dari 90 bahasa.
+firefox-all-choose-which-firefox = Pilih { -brand-name-firefox-browser } mana yang akan diunduh dalam bahasa Anda
 firefox-all-firefox-privacy-notice = Kebijakan Privasi { -brand-name-firefox }
 firefox-all-learn-about-firefox = Pelajari tentang peramban { -brand-name-firefox }
 firefox-all-the-standard-firefox = Peramban { -brand-name-firefox } standar — cepat dan pribadi. Jika ragu memilih { -brand-name-firefox } yang mana, pilih ini saja.
 firefox-all-get-a-sneak-peek-at = Intip fitur peramban { -brand-name-firefox } terbaru sebelum dirilis.
 firefox-all-test-your-sites-against = Uji situs Anda terhadap fitur peramban { -brand-name-firefox } yang akan segera dirilis dengan DevTools yang kuat dan fleksibel yang diaktifkan secara bawaan.
 firefox-all-count-on-stability-and = Andalkan stabilitas dan kemudahan penggunaan dengan peramban { -brand-name-firefox } yang diciptakan untuk perusahaan.
-firefox-all-windows-installers-for = Penginstal Windows untuk TI perusahaan yang menyederhanakan konfigurasi, penyebaran, dan pengelolaan Peramban Firefox.
+firefox-all-windows-installers-for = Penginstal Windows untuk TI perusahaan yang menyederhanakan konfigurasi, penyebaran, dan pengelolaan { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Pilih penginstal 32-bit untuk komputer dengan prosesor 32-bit — atau untuk komputer lama atau lemah. <a href="{ $url }">Jika ragu</a> memilih pemasang 64-bit atau 32-bit, kami sarankan Anda memilih yang 32-bit.
