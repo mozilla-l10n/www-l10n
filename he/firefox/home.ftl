@@ -12,8 +12,14 @@ firefox-home-learn-more-about-lockwise = מידע נוסף על { -brand-name-lo
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = קבלו את <strong>הכבוד</strong> שמגיע לכם
 firefox-home-every-single-firefox = כל אחד ממוצרי { -brand-name-firefox } מכבד את הבטחתנו בנוגע לנתונים אישיים: <strong>לקחת פחות. להגן בקפידה. ללא סודות.</strong>
+firefox-home-share-large-files-without = שיתוף קבצים גדולים ללא עיניים חטטניות
+firefox-home-start-sending-files = שליחת קבצים באופן מאובטח
 firefox-home-learn-more-about-pocket = מידע נוסף על { -brand-name-pocket }
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = התחברות אחת. כל המכשירים שלך. משפחה של מוצרים שמכבדים את <strong>הפרטיות</strong> שלך.
+firefox-home-join-firefox = הצטרפות ל־{ -brand-name-firefox }
 firefox-home-learn-more-about-joining = מידע נוסף על הצטרפות ל־{ -brand-name-firefox }
+firefox-home-get-the-browser-extension = קבלת הרחבת הדפדפן
 firefox-home-get-the-facebook-container = קבלת ההרחבה { -brand-name-facebook-container }
 firefox-home-download-the-browser = הורדת הדפדפן
 firefox-home-download-the-app = הורדת היישומון
