@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Cserélje a kattintásvadász cikkeket minős
 firefox-home-learn-more-about-pocket = Tudjon meg többet a { -brand-name-pocket }ről
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Egy bejelentkezés. Az összes eszközén. Egy termékcsalád, amely tiszteletben tartja az <strong>adatvédelmét</strong>.
+firefox-home-join-firefox = Csatlakozzon a { -brand-name-firefox }hoz
 firefox-home-learn-more-about-joining = Tudjon meg többet a { -brand-name-firefox }hoz csatlakozásról
 firefox-home-get-the-browser-extension = Szerezze be a böngészőkiegészítőt
 firefox-home-get-the-facebook-container = Szerezze be a { -brand-name-facebook-container } kiegészítőt
