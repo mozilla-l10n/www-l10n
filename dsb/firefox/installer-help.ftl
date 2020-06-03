@@ -9,12 +9,16 @@
 ## Required
 
 installer-help-page-title = Wašo ześěgnjenje jo se pśetergnuło
+installer-help-main-tagline = To se wótergi stawa. Wopytajmy něco druge.
 installer-help-action-channel = Toś to ześěgnjenje měło za was lěpje funkcioněrowaś.
 installer-help-action-choose = Wubjeŕśo dołojce ześěgnjenje.
 
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Wobstarajśo se nejnowšy. How jo awtomatiska priwatnosć. Ześěgniśo { -brand-name-firefox-browser }, aby pśez { $trackers } pśeslědowakow blokěrował.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testujśo funkcije, kótarež maju se wózjawiś, w nejstabilnjejšej pśedwersiji.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
