@@ -18,6 +18,10 @@ newsletter-form-get-firefox-news = Dapatkan berita { -brand-name-firefox }
 newsletter-form-im-okay-with-mozilla = Saya menyetujui { -brand-name-mozilla } untuk menangani data tentang saya seperti yang dijelaskan dalam <a href="{ $url }">Kebijakan Privasi ini</a>
 newsletter-form-we-will-only-send = Kami hanya akan mengirimkan informasi terkait { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Jika Anda sebelumnya belum pernah mengonfirmasi berlangganan salah satu nawala terkait { -brand-name-mozilla }, Anda mungkin harus melakukannya. Silakan cek surel dari kami di kotak atau filter spam Anda.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Anda
+newsletter-form-get-firefox-tips = Dapatkan kiat, trik, berita, dan segala tentang { -brand-name-firefox }
+newsletter-form-keep-up-with = Ikuti selalu perkembangan<br> segala sesuatu tentang { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Dapatkan informasi terkini tentang { -brand-name-mozilla }
 newsletter-form-available-languages = Bahasa yang Tersedia
 newsletter-form-select-country = Pilih negara
 newsletter-form-sign-me-up = Daftarkan saya

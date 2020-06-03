@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Pemberitahuan Privasi Situs
 footer-websites-cookies = Kuki
 footer-websites-legal = Legal
 footer-language = Bahasa
+footer-go = Mulai
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

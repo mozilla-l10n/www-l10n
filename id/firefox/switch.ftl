@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Beralih ke { -brand-name-firefox 
 switch-select-what-to-take = Pilih yang ingin diimpor dari { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Biarkan { -brand-name-firefox } melakukan selebihnya.
 switch-use-firefox-and-still-chrome = Anda dapat menggunakan { -brand-name-firefox } dan masih memiliki { -brand-name-chrome }. { -brand-name-chrome } tidak akan berubah sedikit pun pada mesin Anda.
+switch-spread-the-word = Sebarkan kabar tentang { -brand-name-firefox } dan bantu orang favorit Anda mengucapkan selamat tinggal pada { -brand-name-chrome }.
 switch-share-with-your-friends = Bagikan dengan teman-teman Anda caranya beralih ke { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } membuat beralih dari { -brand-name-chrome } benar-benar cepat. Cobalah!
 switch-switch-to-firefox = Beralih ke { -brand-name-firefox }
