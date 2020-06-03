@@ -24,4 +24,8 @@ installer-help-firefox-beta-desc = Testujće funkcije, kotrež maja so wozjewić
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Wuwiwajće, testujće, přiměrće a wjace za jenički wobhladowak, kotryž je so za wuwiwarjow wuwił.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Pohladńće na naš webwobhladowak přichodneje generacije a pomhajće nam, jón k najlěpšemu wobhladowakej činił.
 installer-help-need-help = Trjebaće pomoc za instalaciju?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Jeli hišće pomoc za instalowanje trjebaće, <a href="{ $url }">čitajće nawod w našim wotrězku pomocy.</a>
