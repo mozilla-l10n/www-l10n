@@ -25,3 +25,6 @@ installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -bran
 installer-help-firefox-developer-desc = Wuwijajśo, testujśo, pśiměŕśo a wěcej za jadnučki wobglědowak, kótaryž jo se wuwił za wuwijarje.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-need-help = Trjebaśo pomoc za isntalaciju?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Jolic hyšći pomoc za instalěrowanje trjebaśo, <a href="{ $url }">cytajśo rozpokazanje w našom wótrězku pomocy.</a>

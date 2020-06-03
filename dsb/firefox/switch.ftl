@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Móžośo malsnje k { -brand-name
 switch-select-what-to-take = Wubjeŕśo, což cośo z { -brand-name-chrome } pśewześ.
 switch-let-firefox-do-the-rest = Dajśo { -brand-name-firefox } zbytk cyniś.
 switch-use-firefox-and-still-chrome = Móžośo { -brand-name-firefox } wužywaś a weto maśo hyšći { -brand-name-chrome }. { -brand-name-chrome } se za žednym nałogom njezměnijo.
+switch-spread-the-word = Wucyńśo { -brand-name-firefox } znaty a pomagajśo swójim znatym, se z { -brand-name-chrome } rozžognowaś.
 switch-share-with-your-friends = Źělśo ze swójimi pśijaśelami, kak k { -brand-name-firefox } pśejźośo
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } wam zmóžnja, napšawdu malsnje wót { -brand-name-chrome } pśejś. Wopytajśo!
 switch-switch-to-firefox = K { -brand-name-firefox } pśejś
