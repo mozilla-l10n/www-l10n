@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Clickbait’i bırakın, kaliteli içeriğe b
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } hakkında bilgi alın
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Tüm cihazlarınızda tek hesap. <strong>Gizliliğinize</strong> saygı duyan bir ürün ailesi.
+firefox-home-join-firefox = { -brand-name-firefox }’a katılın
 firefox-home-learn-more-about-joining = { -brand-name-firefox }’a katılma hakkında bilgi alın
 firefox-home-get-the-browser-extension = Tarayıcı eklentisini yükleyin
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } eklentisini yükleyin
