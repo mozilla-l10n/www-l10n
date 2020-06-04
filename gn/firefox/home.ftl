@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Emoambue clickbait tetepy oikóva rehe
 firefox-home-learn-more-about-pocket = Eikuaave { -brand-name-pocket } rehegua
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Tembiapo ñepyrũ. Opaite ne mba’e’oka. Apopyre aty omomba’éva nde <strong>rekorosã</strong>.
+firefox-home-join-firefox = Ejuaju { -brand-name-firefox } rehe
 firefox-home-learn-more-about-joining = Eikuaave mba’éichapa ejuajúta { -brand-name-firefox } ndive
 firefox-home-get-the-browser-extension = Eguereko kundaha jepysokue
 firefox-home-get-the-facebook-container = Eguereko { -brand-name-facebook-container } jepysokue
