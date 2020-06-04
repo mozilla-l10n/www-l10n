@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Cyfnewidiwch benawdau brith am gynnwys o safo
 firefox-home-learn-more-about-pocket = Dysgu rhagor am { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Un mewngofnod. Eich holl ddyfeisiau. Teulu o gynnyrch sy'n parchu eich <strong>preifatrwydd</strong>.
+firefox-home-join-firefox = Ymunwch â { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Dysgu rhagor am ymuno â { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Estyn estyniad y porwr
 firefox-home-get-the-facebook-container = Estynnwch yr estyniad { -brand-name-facebook-container }
