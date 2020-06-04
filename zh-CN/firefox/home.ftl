@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = 拒绝内容农场，要看有品质的内容
 firefox-home-learn-more-about-pocket = 详细了解 { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = 一个账户，处处可用。<br>还有尊重您<strong>隐私</strong>的一系列产品。
+firefox-home-join-firefox = 加入 { -brand-name-firefox } 的队列
 firefox-home-learn-more-about-joining = 详细了解如何加入 { -brand-name-firefox } 的行列
 firefox-home-get-the-browser-extension = 获取浏览器扩展
 firefox-home-get-the-facebook-container = 获取 { -brand-name-facebook-container } 扩展
