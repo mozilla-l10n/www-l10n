@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Jo móžnosć, wašu priwatnosć šćitaś. Pśiźćo k { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Wobstarajśo se konto Firefox - Źaržćo swóje daty priwatne, wěste a synchronizěrowane
+firefox-accounts-get-a-firefox-account = Wobstarajśo se konto { -brand-name-firefox-account } - Źaržćo swóje daty priwatne, wěste a synchronizěrowane
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Wobarajśo se pśeśiwo industriji, kótaraž waše daty tśeśim póbitowarjam pśedawa. Buźćo mudry a wěsty online z technologiju, kótaraž za was wójujo.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Synchronizěrujśo swóje gronidła, cytańske znamjenja a rejtariki wěsće pśez wšykne swóje rědy. Wobstarajśo se nowe konto Firefox - Jadno pśizjawjenje - wugbaśe a priwatnosć wšuźi.
+firefox-accounts-securely-sync-your = Synchronizěrujśo swóje gronidła, cytańske znamjenja a rejtariki wěsće pśez wšykne swóje rědy. Wobstarajśo se něnto konto { -brand-name-firefox-account } - Jadno pśizjawjenje - wugbaśe a priwatnosć wšuźi.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Jo móžnosć, wašu priwatnosć šćitaś. <span>Pśiźćo k { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
