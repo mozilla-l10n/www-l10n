@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Megvédheti a magánszféráját. Csatlakozzon a { -brand-name-firefox }hoz.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Szerezzen egy Firefox-fiókot – Tartsa az adatait bizalmasan, biztonságban és szinkronban
+firefox-accounts-get-a-firefox-account = Szerezzen egy { -brand-name-firefox-account }ot – Tartsa az adatait bizalmasan, biztonságban és szinkronban
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Foglaljon állást egy olyan iparággal szemben, amely harmadik feleknek értékesíti az adatait. Maradjon okos, és maradjon biztonságban egy olyan technológiával, amely Önért harcol.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Szinkronizálja biztonságosan a jelszavait, könyvjelzőit és lapjait az összes eszközén. Szerezzen egy Firefox fiókot most – Egy bejelentkezés – Teljesítmény és adatvédelem mindenhol.
+firefox-accounts-securely-sync-your = Szinkronizálja biztonságosan a jelszavait, könyvjelzőit és lapjait az összes eszközén. Szerezzen egy { -brand-name-firefox-account }ot most – Egy bejelentkezés – Teljesítmény és adatvédelem mindenhol.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Megvédheti a magánszféráját. <span>Csatlakozzon a { -brand-name-firefox }hoz.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
