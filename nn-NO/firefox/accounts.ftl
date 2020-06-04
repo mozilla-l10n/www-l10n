@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Det finst ein måte å ta vare på personvernet ditt på. Bli ein del av { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Lag ein Firefox-konto – Hald dine data private, trygge og synkroniserte
+firefox-accounts-get-a-firefox-account = Lag ein { -brand-name-firefox-account } – Hald dine data private, trygge og synkroniserte
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Ta kampen opp mot ein bransje som sel dine data til andre. Ver fornuftig og sikker på nettet med teknologi som kjempar for deg.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Synkroniser passord, bokmerke og faner mellom einingane dine. Få ein Firefox-konto no - Ei innlogging - Styrke og personvern overalt.
+firefox-accounts-securely-sync-your = Synkroniser passord, bokmerke og faner mellom einingane dine. Få ein { -brand-name-firefox-account } no - Ei innlogging - Styrke og personvern overalt.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Det finst ein måte å ta vare på personvernet ditt. <span>Bli ein del av { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
