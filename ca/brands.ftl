@@ -54,6 +54,7 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-account = Compte del Firefox
 -brand-name-firefox-accounts = Comptes del Firefox
+-brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
@@ -61,6 +62,7 @@
 
 ## Firefox products (short names)
 
+-brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
