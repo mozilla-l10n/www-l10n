@@ -39,6 +39,7 @@ navigation-privacy = פרטיות
 navigation-close-products-menu = סגירת תפריט המוצרים
 navigation-see-breaches = הצגת דליפות
 navigation-security-tips = עצות אבטחה
+navigation-share-large-files-safely = שיתוף קבצים גדולים בבטחה, עם קישורים שמבצעים "השמדה אוטומטית".
 navigation-sign-up = הרשמה
 navigation-connected-and-protected = להיות מחובר ומוגן
 navigation-join = הצטרפות
