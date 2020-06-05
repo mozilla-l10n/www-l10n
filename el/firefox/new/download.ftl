@@ -23,6 +23,7 @@ firefox-new-advanced-install-options = Προηγμένες επιλογές ε�
 firefox-new-download-in-another-language = Λήψη σε άλλη γλώσσα
 firefox-new-fix-a-problem = Διόρθωση προβλήματος
 firefox-new-need-help = Χρειάζεστε βοήθεια;
+firefox-new-see-whats-being-blocked = Δείτε τι έχει αποκλειστεί
 firefox-new-connect-to-a-whole-family = Συνδεθείτε σε μια ολόκληρη οικογένεια προϊόντων που σας σέβονται και αποκτήστε όλη τη γνώση που χρειάζεστε για να προστατευτείτε στο διαδίκτυο.
 firefox-new-passwords-made-portable = Οι κωδικοί πρόσβασης έγιναν φορητοί
 firefox-new-protect-your-privacy = Προστασία απορρήτου

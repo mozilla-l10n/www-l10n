@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-you-must-agree-to = Πρέπει να συμφωνήσετε με τη σημείωση απορρήτου
+newsletter-form-your-email-address = Η διεύθυνση email σας
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = Επιλέξτε χώρα ή περιοχή
 newsletter-form-your-email-here = ΤΟ EMAIL ΣΑΣ ΕΔΩ
 newsletter-form-format = Μορφή
 newsletter-form-html = HTML

@@ -4,10 +4,13 @@
 
 navigation-download-firefox = Λήψη του { -brand-name-firefox }
 navigation-get-a-firefox-account = Αποκτήστε ένα { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } για υπολογιστές
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } για κινητές συσκευές
 navigation-download-for-ios = Λήψη για { -brand-name-ios }
 navigation-download-for-android = Λήψη για { -brand-name-android }
 navigation-ios-support = Υποστήριξη { -brand-name-ios }
 navigation-android-support = Υποστήριξη { -brand-name-android }
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } για επιχειρήσεις
 navigation-firefox-for-fire-tv = { -brand-name-firefox } για { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Παρακολουθήστε βίντεο και περιηγηθείτε στο διαδίκτυο από την { -brand-name-amazon } { -brand-name-fire-tv } σας.
 navigation-firefox-blog = { -brand-name-firefox } Blog
@@ -36,6 +39,9 @@ navigation-download = Λήψη
 navigation-extensions = Επεκτάσεις
 navigation-support = Υποστήριξη
 navigation-privacy = Απόρρητο
+navigation-check-for-breaches = Έλεγχος για παραβιάσεις
+navigation-see-breaches = Προβολή παραβιάσεων
+navigation-security-tips = Συμβουλές ασφαλείας
 navigation-sign-up = Εγγραφή
 navigation-join = Συμμετοχή
 navigation-sign-in = Σύνδεση
