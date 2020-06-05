@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = 加入 { -brand-name-firefox }，了解保護您的隱私的方法。
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = 註冊 Firefox 帳號 - 保持資料隱私、安全、同步
+firefox-accounts-get-a-firefox-account = 註冊 { -brand-name-firefox-account } - 保持資料隱私、安全、同步
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = 採取行動，反對產業中將您的資料賣給第三方的行為。使用為您而戰的技術，在網路上確保聰明與安全。
 # Old HTML page description
-firefox-accounts-securely-sync-your = 安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 Firefox 帳號: 一次登入，隨處都有強大威力與隱私保護功能。
+firefox-accounts-securely-sync-your = 安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 { -brand-name-firefox-account }: 一次登入，隨處都有強大威力與隱私保護功能。
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = <span>加入 { -brand-name-firefox }</span>，了解保護您的隱私的方法。
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
