@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = 捍卫隐私不是幻想。加入 { -brand-name-firefox } 一同抗争。
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = 注册 Firefox 账户 - 保障数据私密、安全，随身带着走
+firefox-accounts-get-a-firefox-account = 注册 { -brand-name-firefox-account } - 保障数据私密、安全，随身带着走
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = 站出来，反对售卖您个人隐私的灰色产业链。使用我们为您而战的技术，安全明智地上网冲浪。
 # Old HTML page description
-firefox-accounts-securely-sync-your = 安全地在不同设备间同步您的密码、书签与标签页。注册 Firefox 账号 — 一次登录，强大威力与隐私保护随身相伴。
+firefox-accounts-securely-sync-your = 安全地在不同设备间同步您的密码、书签与标签页。注册 { -brand-name-firefox-account } — 一次登录，强大威力与隐私保护随身相伴。
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = 捍卫隐私不是幻想。<span>加入 { -brand-name-firefox } 一同抗争。</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
