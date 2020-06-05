@@ -16,8 +16,12 @@ installer-help-action-choose = Choisissez un téléchargement ci-dessous.
 ##
 
 installer-help-firefox-beta-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-beta }
+installer-help-firefox-beta-desc = Testez les fonctionnalités sur le point d’être publiées en utilisant la préversion la plus stable.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Créez, testez et itérez grâce au seul navigateur spécialement conçu pour les développeurs.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Jetez un œil à notre navigateur web de nouvelle génération et aidez-nous à en faire le meilleur navigateur possible.
 installer-help-need-help = Besoin d’assistance pour l’installation ?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Si vous avez encore besoin d’aide pour l’installation, <a href="{ $url }">consultez le tutoriel dans notre section Assistance.</a>
