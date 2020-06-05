@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Λήψη του { -brand-name-firefox }
-navigation-get-a-firefox-account = Απόκτηση λογαριασμού Firefox
+navigation-get-a-firefox-account = Αποκτήστε ένα { -brand-name-firefox-account }
 navigation-download-for-ios = Λήψη για { -brand-name-ios }
 navigation-download-for-android = Λήψη για { -brand-name-android }
 navigation-ios-support = Υποστήριξη { -brand-name-ios }
@@ -18,7 +18,7 @@ navigation-take-firefox-and-firefox = Πάρτε το { -brand-name-firefox } κ
 navigation-get-firefox = Λήψη του { -brand-name-firefox }
 navigation-get-firefox-focus = Λήψη του { -brand-name-firefox-focus }
 navigation-android-extensions = Επεκτάσεις { -brand-name-android }
-navigation-your-firefox-account = Ο Λογαριασμός Firefox σας
+navigation-your-firefox-account = Ο { -brand-name-firefox-account } σας
 navigation-make-the-most-of-your = Αξιοποιήστε πλήρως το { -brand-name-firefox }, σε κάθε συσκευή σας.
 navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσετε τον τρόπο λειτουργίας του { -brand-name-firefox }.
 navigation-experience-augmented = Ζήστε την επαυξημένη και εικονική πραγματικότητα με το { -brand-name-firefox }.
@@ -37,6 +37,9 @@ navigation-extensions = Επεκτάσεις
 navigation-support = Υποστήριξη
 navigation-privacy = Απόρρητο
 navigation-sign-up = Εγγραφή
+navigation-join = Συμμετοχή
+navigation-sign-in = Σύνδεση
+navigation-benefits = Οφέλη
 navigation-about = Πληροφορίες
 navigation-close-about-menu = Κλείσιμο μενού πληροφοριών
 navigation-meet-the-technology-company = Γνωρίστε την τεχνολογική εταιρεία που έχει ως προτεραιότητα τους ανθρώπους, όχι το κέρδος.

@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Υπάρχει τρόπος να προστατέψετε το απόρρητό σας. Συμμετάσχετε στο { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Αποκτήστε ένα λογαριασμό Firefox – Διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
+firefox-accounts-get-a-firefox-account = Αποκτήστε ένα { -brand-name-firefox-account } – Προστασία και συγχρονισμός δεδομένων
 # Old HTML page description
 firefox-accounts-securely-sync-your = Συγχρονίστε με ασφάλεια τους κωδικούς πρόσβασης, τους σελιδοδείκτες και τις καρτέλες σας με όλες τις συσκευές σας. Αποκτήστε τώρα ένα λογαριασμό Firefox – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
