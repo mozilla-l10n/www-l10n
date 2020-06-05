@@ -9,21 +9,22 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } – buďte na intern
 firefox-home-firefox-is-more-than = { -brand-name-firefox } je víc než jen prohlížeč. Přečtěte si více o produktech { -brand-name-firefox }, které s vašimi údaji zacházejí s respektem a jsou navrhnuty tak, aby chránily vaše soukromí kdekoliv na internetu.
 firefox-home-the-browser-is-just = Prohlížeč je jen začátek
 firefox-home-meet-our-family-of = Seznamte se s naší rodinou produktů
-firefox-home-get-trackers-off = Zbavte se více než 2000 sledovacích prvků – včetně { -brand-name-facebook }u
+firefox-home-get-trackers-off = Zbavte se více než 2000 sledovacích prvků – včetně { -brand-name-facebook(case: "gen") }
 firefox-home-know-when-hackers-strike = Buďte informování o útocích hackerů – a buďte stále o krok před nimi
 firefox-home-start-getting-breach = Nechte si zasílat upozornění na úniky dat
 firefox-home-keep-your-passwords = Mějte svá hesla v bezpečí na každém zařízení
-firefox-home-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise }
+firefox-home-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: "loc") }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Dočkejte se zaslouženého <strong>respektu</strong>
 firefox-home-every-single-firefox = Každý z produktů rodiny { -brand-name-firefox } ctí náš slib ohledně osobních údajů: <strong>Brát méně. Uchovávat v bezpečí. Žádná tajemství.</strong>
 firefox-home-share-large-files-without = Sdílejte velké soubory bez toho, aby vám někdo koukal přes rameno
 firefox-home-start-sending-files = Začněte posílat soubory bezpečně
 firefox-home-trade-clickbait-for = Vyměňte „bombastické“ titulky za kvalitní obsah
-firefox-home-learn-more-about-pocket = Zjistěte více o službě { -brand-name-pocket }
+firefox-home-learn-more-about-pocket = Zjistěte více o { -brand-name-pocket(case: "loc") }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Jedno přihlášení. Všechna vaše zařízení. Rodina produktů, které respektují vaše <strong>soukromí</strong>.
-firefox-home-learn-more-about-joining = Zjistěte více o přihlášení k { -brand-name-firefox }u
+firefox-home-join-firefox = Přihlaste se k { -brand-name-firefox(case: "dat") }
+firefox-home-learn-more-about-joining = Zjistěte více o přihlášení k { -brand-name-firefox(case: "dat") }
 firefox-home-get-the-browser-extension = Stáhněte si rozšíření do prohlížeče
 firefox-home-get-the-facebook-container = Stáhněte si rozšíření { -brand-name-facebook-container }
 firefox-home-download-the-browser = Stáhnout prohlížeč

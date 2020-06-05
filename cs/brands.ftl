@@ -12,7 +12,17 @@
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
--brand-name-facebook = Facebook
+-brand-name-facebook =
+    { $case ->
+       *[nom] Facebook
+        [gen] Facebooku
+        [dat] Facebooku
+        [acc] Facebook
+        [voc] Facebook
+        [loc] Facebooku
+        [ins] Facebookem
+    }
+    .gender = masculine
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
