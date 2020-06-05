@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Mba’éichapa emo’ãta ne ñemigua. Eipuru { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Ejapo ne mba’eterã Firefox-pe – Eguereko mba’ekuaarã ñemíme, tekorosã ha ñembojuehépe
+firefox-accounts-get-a-firefox-account = Egueru { -brand-name-firefox-account } – Ereko mba’ekuaarã ñemi, tekorosã ha mbojuehépe
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Eñemohatã apoharaguasu ohepyme’ẽ ne mba’ekuaarã mbohapyhávape. Eiko nde jehegui ha tekorosãme ñandutípe tembipurupyahu oĩva nde ykére ndive.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Embojuehe ñe’ẽñemi, techaukaha ha tendayke tekorosãme opa mba’e’okápe. Emoheñói mba’ete Firefox ndive – Emoñepyrũ tembiapo peteĩjey – Pokatu ha tekorosãme opa hendápe.
+firefox-accounts-securely-sync-your = Embojuehe ñe’ẽñemi, techaukaha ha tendayke tekorosãme opa mba’e’okápe. Ereko { -brand-name-firefox-account }: emoñepyrũ tembiapo peteĩjey ha ome’ẽta pokatu ha ñemi opa hendápe.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Mba’éichapa emo’ãkuaa ñemigua. <span>Ejuaju { -brand-name-firefox } ndive.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
@@ -20,7 +20,7 @@ firefox-accounts-take-your-stand-against = Emboyke pe apohaguasu ndejapóva apop
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Eikéma <br>{ -brand-name-firefox }-pe. <br><span>Eipuru { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Ehecha ejapópara’e mba’ekuaarã ñembogua ñandutípe.
-firefox-accounts-sign-in-to-monitor = Emoñepyrũ tembiapo mba'erechahápe
+firefox-accounts-sign-in-to-monitor = Emoñepyrũ tembiapo { -brand-name-monitor }pe
 firefox-accounts-join-firefox = Ejuaju { -brand-name-firefox } rehe
 firefox-accounts-enter-your-email-address = Emoĩ ñanduti veve kundaharape eñepyrũ hag̃ua.
 firefox-accounts-already-have-an-account = ¿Eguerekóma ne mba’ete?
