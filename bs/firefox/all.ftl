@@ -23,6 +23,13 @@ firefox-all-choose-a-64-bit-installer = Odaberi 64-bitni instalacijski program z
 firefox-all-32-bit-installers = 32-bitni instalacijski programi
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = Svako zaslužuje pristup internetu — jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox-browser } na više od 90 jezika.
+firefox-all-choose-which-firefox = Odaberi { -brand-name-firefox-browser } koji želiš preuzeti na svom jeziku
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } obavijest o privatnosti
+firefox-all-learn-about-firefox = Saznaj više o { -brand-name-firefox } browserima
+firefox-all-the-standard-firefox = Standardni { -brand-name-firefox } browser — brz i privatan. Ako ne znaš koji { -brand-name-firefox } odabrati, odaberi ovaj.
+firefox-all-get-a-sneak-peek-at = Pogledaj najnovije funkcije { -brand-name-firefox } browsera prije nego što se objave.
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
