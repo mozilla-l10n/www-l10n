@@ -5,6 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-check-the-system-requirements = Provjeri uslove sistema
+firefox-all-release-notes = Napomene o izdanju
+firefox-all-source-code = Izvorni kȏd
+firefox-all-need-help = Trebaš pomoć?
+firefox-all-which-browser-would = Koji pretraživač želiš preuzeti?
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Zatraži pomoć
+firefox-all-you-are-about-to-download = Spremate se preuzeti:
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
