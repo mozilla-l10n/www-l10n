@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Πρόκειται να κάνετε λ�
 firefox-all-browser = Πρόγραμμα περιήγησης:
 firefox-all-platform = Πλατφόρμα:
 firefox-all-language = Γλώσσα:
+firefox-all-sorry-we-couldnt-find = Λυπούμαστε, αλλά δεν ήταν δυνατή η εύρεση της λήψης που ψάχνετε. Δοκιμάστε ξανά ή επιλέξτε μια λήψη από την παρακάτω λίστα.
 firefox-all-64-bit-installers = Προγράμματα εγκατάστασης 64-bit
 firefox-all-choose-a-64-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 64-bit για υπολογιστές με επεξεργαστές 64-bit, οι οποίοι επιτρέπουν την ανάθεση περισσότερης RAM σε κάθε πρόγραμμα - πολύ σημαντικό για παιχνίδια και άλλες απαιτητικές εφαρμογές.
 firefox-all-32-bit-installers = Προγράμματα εγκατάστασης 32-bit
@@ -26,6 +27,8 @@ firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση 
 firefox-all-choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε να αποκτήσετε στη γλώσσα σας
 firefox-all-firefox-privacy-notice = Σημείωση απορρήτου { -brand-name-firefox }
 firefox-all-learn-about-firefox = Μάθετε για τα προγράμματα περιήγησης { -brand-name-firefox }
+firefox-all-the-standard-firefox = Το τυπικό πρόγραμμα περιήγησης { -brand-name-firefox } — γρήγορο και ιδιωτικό. Αν δεν ξέρετε ποια έκδοση του { -brand-name-firefox } χρειάζεστε, επιλέξτε αυτή.
+firefox-all-get-a-sneak-peek-at = Ρίξτε μια ματιά στις νέες λειτουργίες του { -brand-name-firefox } πριν κυκλοφορήσουν.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 32-bit για υπολογιστές με επεξεργαστές 32-bit — ή για πιο παλιούς/αδύναμους υπολογιστές. <a href="{ $url }">Αν δεν ξέρετε σίγουρα</a> ποιο πρόγραμμα εγκατάστασης να επιλέξετε, προτείνουμε την έκδοση 32-bit.
