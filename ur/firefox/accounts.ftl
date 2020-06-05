@@ -7,20 +7,14 @@
 
 # HTML page title
 firefox-accounts-there-is-a-way-to = آپ کی رازداری کو بچانے کا ایک طریقہ ہے۔ { -brand-name-firefox } میں شامل ہوں۔
-# Old HTML page title
-firefox-accounts-get-a-firefox-account = ایکFirefox اکاؤنٹ حاصل کریں - اپنے ڈیٹا کو نجی، محفوظ اور مطابقت پذیر رکھیں
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = ایسی صنعت کے خلاف اپنا موقف اپنائیں جو تیسرے فریقوں کو آپ کا ڈیٹا بیچ رہی ہو۔ آپ کے لئے لڑنے والی ٹکنالوجی کے ساتھ ہوشیار اور محفوظ آن لائن رہیں۔
-# Old HTML page description
-firefox-accounts-securely-sync-your = اپنے پاسورڈز، بک مارکس اور ٹیبز محفوظ طریقے سے اپنے تمام آلات میں مطابقت پذیر کریں۔ ابھی Firefox اکاؤنٹ حاصل کریں۔ ہر طرف کے لیے ایک لاگ-ان - طاقت اور رازداری۔
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = آپ کی رازداری کو بچانے کا ایک طریقہ ہے۔ <span> { -brand-name-firefox } میں شامل ہوں۔ </ span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = ایسی صنعت کے خلاف اپنا موقف اپنائیں جو آپ کو مصنوع بنا رہی ہو۔
-# The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = آپ نے { -brand-name-firefox } میں <br> سائن ان کیا ہے۔ <br> <span> اب { -brand-name-firefox }مانیٹر آزمائیں۔ </ span>
 firefox-accounts-see-if-youve-been = دیکھیں کہ کیا آپ آن لائن ڈیٹا کی خلاف ورزی میں ملوث ہیں۔
-firefox-accounts-sign-in-to-monitor = مانیٹر میں سائن ان کریں
+firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } میں سائن ان کریں
 firefox-accounts-join-firefox = { -brand-name-firefox } میں شامل ہوں
 firefox-accounts-enter-your-email-address = شروع کرنے کے لئے اپنا ای میل ایڈریس درج کریں۔
 firefox-accounts-already-have-an-account = کیا پہلے سے ہی ایک اکاؤنٹ ہے؟

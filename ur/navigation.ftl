@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کریں
-navigation-get-a-firefox-account = ایک Firefox اکاؤنٹ حاصل کریں
-navigation-firefox-browser-for-desktop = Firefox براؤزر برائے ڈیسک ٹاپ
-navigation-firefox-browser-for-mobile = Firefox براؤزر برائےموبائل
+navigation-get-a-firefox-account = { -brand-name-firefox-account } حاصل کریں
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } ڈیسک ٹاپ کے لئے
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } موبائل کے لئے
 navigation-download-for-ios = { -brand-name-ios } کے لیے ڈائونلوڈ کریں
 navigation-download-for-android = { -brand-name-android } کے لئے ڈاؤن لوڈ کریں
 navigation-ios-support = { -brand-name-ios } معاونت
 navigation-android-support = { -brand-name-android } کا تعاون
-navigation-firefox-browser-for-enterprise = Firefox براؤزر برائے انٹرپرائز
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } انٹرپرائز کے لئے
 navigation-firefox-for-fire-tv = { -brand-name-firefox } برائے { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = اپنے { -brand-name-amazon } { -brand-name-fire-tv } پر ویڈیوز دیکھیں اور انٹرنیٹ براؤز کریں۔
 navigation-firefox-browsers-put = { -brand-name-firefox } براؤزر آپ کی رازداری کو پہلے - اور ہمیشہ رکھتے ہیں۔
@@ -27,7 +27,7 @@ navigation-take-firefox-and-firefox = { -brand-name-firefox } اور  { -brand-n
 navigation-get-firefox = { -brand-name-firefox } حاصل کریں
 navigation-get-firefox-focus = { -brand-name-firefox-focus } حاصل کریں
 navigation-android-extensions = { -brand-name-android } توسیعات
-navigation-your-firefox-account = آپ کا Firefox اکاؤنٹ
+navigation-your-firefox-account = آپ کا { -brand-name-firefox-account }
 navigation-learn-how-to-customize = { -brand-name-firefox } کیسے کام کرتا ہے آپ اسکو کوتخصیص کرنے کا طریقہ جانیں
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }، جو صرف ڈویلپرز کے لئے بنایا گیا ہے۔
