@@ -231,6 +231,7 @@
                 [lower] účtom Firefox
             }
     }
+-brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise =
     { $case ->
        *[nom] Firefox Lockwise
@@ -273,6 +274,7 @@
 
 ## Firefox products (short names)
 
+-brand-name-devtools = DevTools
 -brand-name-lockwise =
     { $case ->
        *[nom] Lockwise
