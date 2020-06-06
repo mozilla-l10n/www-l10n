@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Contenuti di qualità, non trappole acchiappa
 firefox-home-learn-more-about-pocket = Scopri di più su { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Un solo accesso da tutti i tuoi dispositivi. Un famiglia di prodotti che rispettano la tua <strong>privacy</strong>.
+firefox-home-join-firefox = Entra in { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Scopri come entrare in { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Installa le estensioni del browser
 firefox-home-get-the-facebook-container = Installa l’estensione { -brand-name-facebook-container }

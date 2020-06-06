@@ -5,18 +5,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+firefox-accounts-there-is-a-way-to = Esiste un modo per proteggere la tua privacy. Entra in { -brand-name-firefox }.
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = Registra un account Firefox: mantieni i tuoi dati privati, sicuri e sincronizzati.
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Prendi una posizione contro un’industria che vende i tuoi dati a terze parti. Scegli la tecnologia che si batte per te per un’esperienza online sicura e consapevole.
 # Old HTML page description
 firefox-accounts-securely-sync-your = Sincronizza in sicurezza password, segnalibri e schede su tutti i tuoi dispositivi. Registra subito un account Firefox: un unico accesso, libertà e privacy ovunque.
+# The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
+firefox-accounts-there-is-a-way-to-protect = Esiste un modo per proteggere la tua privacy. <span>Entra in { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Prendi una posizione contro un’industria per cui sei tu il prodotto da vendere.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Hai effettuato l’accesso<br>a { -brand-name-firefox }.<br><span>Ora prova { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Controlla se sei stato coinvolto in una violazione di dati online.
 firefox-accounts-sign-in-to-monitor = Accedi a { -brand-name-monitor }
+firefox-accounts-join-firefox = Entra in { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Per iniziare inserisci il tuo indirizzo email.
 firefox-accounts-already-have-an-account = Hai già un account?
 firefox-accounts-sign-in = Accedi
