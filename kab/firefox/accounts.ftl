@@ -6,15 +6,15 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = Yella wamek ar tettummesten tudert-ik tabaḍnit. Ddu ɣer firefox.
+firefox-accounts-there-is-a-way-to = Yella wamek ar tettummesten tudert-ik tabaḍnit. Ddu ɣer { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Awi amiḍan Firefox – Eǧǧ isefka-ik d usligen, d iɣelsanen, mtawin
+firefox-accounts-get-a-firefox-account = Awi amiḍan { -brand-name-firefox-account } – Eǧǧ isefka-ik d usligen, d iɣelsanen, mtawin
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Ekk mgal n temguri i yeznuzayen isefka-ik i wiyaḍ. Srid, ḍmen taɣellist-ik s useqdec n tetiknulujit yettennaɣen fell-ak.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Mtawi awalen-ik uffiren, ticraḍ-ik n yisebtar akked yiccaren-ik ɣef yisuga-ik meṛṛa. Rnu amiḍan Firefox tura – Yiwet n tuqqna – ad ak-teḍmen tazmert akked tbaḍnit deg yal amḍiq.
+firefox-accounts-securely-sync-your = Mtawi awalen-ik uffiren, ticraḍ-ik n yisebtar akked yiccaren-ik ɣef yisuga-ik meṛṛa. Rnu amiḍan { -brand-name-firefox-account } tura – Yiwet n tuqqna – ad ak-teḍmen tazmert akked tbaḍnit deg yal amḍiq.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = Yella wamek ar tettummesten tudert-ik tabaḍnit. <span>Ddu ɣer firefox.</span>
+firefox-accounts-there-is-a-way-to-protect = Yella wamek ar tettummesten tudert-ik tabaḍnit. <span>Ddu ɣer { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Ili-k d nned i temguri i k-yettwalin d afaris.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.

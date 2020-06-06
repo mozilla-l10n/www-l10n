@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Imagraden s tɣara meqqren xir n tfextin n us
 firefox-home-learn-more-about-pocket = Issin ugar ɣef { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Yiwen n umiḍan. I yibenkan-ik meṛṛa. Tawacult n yifarisen yettqadaṛen <strong>tabaḍnit</strong>-ik.
+firefox-home-join-firefox = Ddu ɣer { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Issin ugar ɣef wamek ara tedduḍ ɣer { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Awi asiɣzef n yiminig
 firefox-home-get-the-facebook-container = Awi asiɣzef { -brand-name-facebook-container }
