@@ -19,7 +19,6 @@ navigation-watch-videos-and-browse = Guarda i video e naviga in Internet sulla t
 navigation-firefox-browsers-put = I browser { -brand-name-firefox } mettono la tua privacy al primo posto, da sempre.
 navigation-take-the-passwords-youve = Porta le password salvate in { -brand-name-firefox } sempre con te.
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } è un’intera famiglia di prodotti progettata per offrirti un’esperienza online più sicura e consapevole.
-navigation-join-firefox = Unisciti a { -brand-name-firefox }
 navigation-access-all-of-firefox = Gestisci tutti i prodotti { -brand-name-firefox } da un unico accesso per ottenere il massimo da ciascuno.
 navigation-meet-the-firefox-family = Scopri la famiglia di prodotti { -brand-name-firefox }
 navigation-firefox-blog = Blog di { -brand-name-firefox }

@@ -14,7 +14,6 @@ firefox-new-get-the-latest-firefox = Installa la nuova versione del browser { -b
 firefox-new-firefox-shows-you-how-many = Ora puoi visualizzare in { -brand-name-firefox } il numero di elementi traccianti bloccati dalla <strong>Protezione antitracciamento avanzata</strong>.
 firefox-new-firefox-lockwise-makes-secure = Con <strong>{ -brand-name-firefox-lockwise }</strong> le password che salvi in { -brand-name-firefox } sono al sicuro e disponibili su tutti i tuoi dispositivi.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> ti avvisa se rileva che le tue informazioni sono state coinvolte in una violazione di dati.
-firefox-new-join-firefox = Entra a far parte di { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> mette a disposizione le password che salvi in { -brand-name-firefox } su tutti i tuoi dispositivi.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Scarica { -brand-name-firefox } <br>per { -brand-name-windows }
