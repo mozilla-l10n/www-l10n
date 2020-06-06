@@ -22,7 +22,7 @@ download-button-please-follow-these = Tab'ana' utzil ke'awoqaj <a href="{ $url }
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Man nutaqej ta ri aq'inoj ri <a href="{ $url }">taq ajowab'äl</a> richin nijikilib'ëx { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } kichin ch'aqa' chik taq nuk'uche'el chuqa' taq ch'ab'äl
-download-button-update-your-firefox = Tak'exa' ruwäch ri Afirefox
+download-button-update-your-firefox = Tak'exa' ruwäch { -brand-name-firefox }
 download-button-get-firefox-android = Tak'ulu' { -brand-name-firefox } richin { -brand-name-android }
 download-button-get-firefox-ios = Tichinäx { -brand-name-firefox } richin { -brand-name-ios }
 download-button-google-play = Tawichinaj chi sipanïk pa { -brand-name-google-play }

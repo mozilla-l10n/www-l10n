@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = K'o jun rub'anikil richin nachajij ri awichinanem. Tatunu' awi' rik'in ri { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Tik'ul jun Rub'i' Rutaqoya'l Firefox – Kejike' chuqa' kexime' ri ichinan taq atzij
+firefox-accounts-get-a-firefox-account = Tik'ul { -brand-name-firefox-account } – Kejike' chuqa' kexime' ri ichinan taq atzij
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Tapab'a' awi' chuwäch jun ajk'ayij moloj yeruk'ayij ri atzij chi ke aj rox winäq. Kak'oje' ütz chuqa' pa koloj pa jun k'a'm rik'in jun runa'ob'al ri yatruchajij.
 # Old HTML page description
