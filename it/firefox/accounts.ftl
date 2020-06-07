@@ -7,12 +7,8 @@
 
 # HTML page title
 firefox-accounts-there-is-a-way-to = Esiste un modo per proteggere la tua privacy. Entra in { -brand-name-firefox }.
-# Old HTML page title
-firefox-accounts-get-a-firefox-account = Registra un account Firefox: mantieni i tuoi dati privati, sicuri e sincronizzati.
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Prendi una posizione contro un’industria che vende i tuoi dati a terze parti. Scegli la tecnologia che si batte per te per un’esperienza online sicura e consapevole.
-# Old HTML page description
-firefox-accounts-securely-sync-your = Sincronizza in sicurezza password, segnalibri e schede su tutti i tuoi dispositivi. Registra subito un account Firefox: un unico accesso, libertà e privacy ovunque.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Esiste un modo per proteggere la tua privacy. <span>Entra in { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
