@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -23,10 +25,10 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
--brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-developer-edition = Firefox Edición para Desarrolladores
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
--brand-name-firefox-extended-support-release = Firefox Extended Support Release
+-brand-name-firefox-extended-support-release = Firefox Version con soporte extendido
 -brand-name-firefox-focus = Firefox Focus
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
