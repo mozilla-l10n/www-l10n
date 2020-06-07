@@ -5,6 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-release-notes = Шығарылым ескертпесі
+firefox-all-source-code = Бастапқы коды
+firefox-all-need-help = Көмек керек пе?
+firefox-all-which-browser-would = Сіз қай браузерді жүктеп алғыңыз келеді?
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Көмек алу
+firefox-all-browser = Браузер:
+firefox-all-platform = Платформа:
+firefox-all-language = Тіл:
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }

@@ -34,4 +34,5 @@ download-button-firefox-nightly-android = { -brand-name-android } үшін <span
 download-button-firefox-android = { -brand-name-android } үшін <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } үшін <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } жекелігі
+download-button-firefox-privacy-notice = { -brand-name-firefox } жекелік ескертуі
 download-button-download = Жүктеп алу
