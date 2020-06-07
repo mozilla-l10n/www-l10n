@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Gizliliğinizi korumanın bir yolu var. { -brand-name-firefox }’a katılın.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Firefox Hesabı açın – Verileriniz gizlilik ve güven içinde eşitlensin
+firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } açın – Verileriniz gizlilik ve güven içinde eşitlensin
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Verilerini üçüncü şahıslara satan bir sektöre karşı tavrını koy. Senin için savaşan teknolojiyi kullan, internette güvende kal.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Parolalarını, yer imlerini ve sekmelerini tüm cihazların arasında güvenle eşitle. Firefox Hesabını hemen aç: tek hesap, her yerde güç ve gizlilik.
+firefox-accounts-securely-sync-your = Parolalarını, yer imlerini ve sekmelerini tüm cihazların arasında güvenle eşitle. Hemen { -brand-name-firefox-account } aç: tek hesap, her yerde güç ve gizlilik.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Gizliliğini korumanın bir yolu var. <span>{ -brand-name-firefox }’a katıl.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
