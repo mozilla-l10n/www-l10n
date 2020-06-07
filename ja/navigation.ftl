@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } をダウンロード
-navigation-get-a-firefox-account = Firefox アカウントを取得
-navigation-firefox-browser-for-desktop = デスクトップ版 Firefox ブラウザー
-navigation-firefox-browser-for-mobile = モバイル版 Fiefox ブラウザー
+navigation-get-a-firefox-account = { -brand-name-firefox-account }を取得
+navigation-firefox-browser-for-desktop = デスクトップ版 { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = モバイル版 { -brand-name-firefox-browser }
 navigation-download-for-ios = { -brand-name-ios } 版をダウンロード
 navigation-download-for-android = { -brand-name-android } 版をダウンロード
 navigation-ios-support = { -brand-name-ios } 版のサポート
 navigation-android-support = { -brand-name-android } 版のサポート
-navigation-firefox-browser-for-enterprise = 企業向け Firefox ブラウザー
+navigation-firefox-browser-for-enterprise = 企業向け { -brand-name-firefox-browser }
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } 版 { -brand-name-firefox }
 navigation-watch-videos-and-browse = { -brand-name-amazon } { -brand-name-fire-tv } で動画鑑賞やインターネットのブラウジングができます。
 navigation-take-the-passwords-youve = { -brand-name-firefox } に保存したパスワードをどこにでも持ち運びましょう。
@@ -22,7 +22,7 @@ navigation-take-firefox-and-firefox = { -brand-name-firefox } と { -brand-name-
 navigation-get-firefox = { -brand-name-firefox } をダウンロード
 navigation-get-firefox-focus = { -brand-name-firefox-focus } をダウンロード
 navigation-android-extensions = { -brand-name-android } 版の拡張機能
-navigation-your-firefox-account = あなたの Firefox アカウント
+navigation-your-firefox-account = あなたの { -brand-name-firefox-account }
 navigation-make-the-most-of-your = お持ちのすべての端末で { -brand-name-firefox } の経験を最大限に活かしてください。
 navigation-learn-how-to-customize = { -brand-name-firefox } の動作をカスタマイズする方法を学びましょう。
 navigation-experience-augmented = { -brand-name-firefox } で拡張仮想現実を体験してください。
@@ -39,6 +39,7 @@ navigation-download = ダウンロード
 navigation-extensions = 拡張機能
 navigation-support = サポート
 navigation-privacy = プライバシー
+navigation-security-tips = セキュリティの秘訣
 navigation-sign-up = 登録
 navigation-join = 参加
 navigation-sign-in = ログイン
