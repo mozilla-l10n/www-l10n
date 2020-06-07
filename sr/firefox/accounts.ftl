@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Постоји начин да заштитите вашу приватност. Придружите се { -brand-name-firefox }-у.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Направите Firefox налог – чувајте ваше податке приватним, сигурним и синхронизованим
+firefox-accounts-get-a-firefox-account = Направите { -brand-name-firefox-account } – чувајте ваше податке приватним, сигурним и синхронизованим
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Супротставите се индустрији која продаје ваше податке трећим странама. Останите виспрени и заштићени уз технологију која се бори за вас.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Безбедно синхронизујте ваше лозинке, обележиваче и језичке на свим уређајима. Направите Firefox налог – једна пријава – моћ и приватност свуда.
+firefox-accounts-securely-sync-your = Безбедно синхронизујте ваше лозинке, обележиваче и језичке на свим уређајима. Направите { -brand-name-firefox-account } – једна пријава – моћ и приватност свуда.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Постоји начин да заштитите вашу приватност. <span>Придружите се { -brand-name-firefox }-у.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

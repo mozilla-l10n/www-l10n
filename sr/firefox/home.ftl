@@ -16,13 +16,14 @@ firefox-home-keep-your-passwords = Држите лозинке сигурним 
 firefox-home-learn-more-about-lockwise = Сазнајте више о { -brand-name-lockwise }-у
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Добијте <strong>поштовање</strong> које заслужујете
-firefox-home-every-single-firefox = Све што радимо поштује наше обећање о личним подацима: <strong>узми мање података, добро их чувај и без икаквих тајни</strong>.
+firefox-home-every-single-firefox = Сваки { -brand-name-firefox } производ поштује наше обећање о личним подацима: <strong>узми мање података, нуди више заштите и не скривај ништа</strong>.
 firefox-home-share-large-files-without = Делите велике датотеке без знатижељних очију.
 firefox-home-start-sending-files = Почните да безбедно шаљете датотеке
 firefox-home-trade-clickbait-for = Замените кликбејт квалитетним садржајем
 firefox-home-learn-more-about-pocket = Сазнајте више о { -brand-name-pocket }-у
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Једна пријава. Сви ваши уређаји. Породица производа који поштују вашу <strong>приватност</strong>.
+firefox-home-join-firefox = Придружите се { -brand-name-firefox }-у
 firefox-home-learn-more-about-joining = Сазнајте више о придруживању { -brand-name-firefox }-у
 firefox-home-get-the-browser-extension = Преузмите проширења за прегледач
 firefox-home-get-the-facebook-container = Преузмите { -brand-name-facebook-container } проширење
