@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Baixa el { -brand-name-firefox }
-navigation-get-a-firefox-account = Crea un compte del Firefox
+navigation-get-a-firefox-account = Crea un { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = Navegador { -brand-name-firefox-browser } per a l'escriptori
 navigation-get-the-browser-that-respects = Utilitzeu el navegador que respecta la vostra privadesa automàticament. En el { -brand-name-windows }, { -brand-name-mac } o { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = Navegador { -brand-name-firefox-browser } per al mòbil
@@ -11,7 +11,7 @@ navigation-take-speed-privacy-and = Porteu sempre a sobre la velocitat, la priva
 navigation-download-for-ios = Baixa'l per a l'{ -brand-name-ios }
 navigation-download-for-android = Baixa'l per a l'{ -brand-name-android }
 navigation-ios-support = Assistència per a l'{ -brand-name-ios }
-navigation-android-support = Assistència per a l'Adroid
+navigation-android-support = Assistència per al { -brand-name-android }
 navigation-firefox-browser-for-enterprise = Navegador { -brand-name-firefox-browser } per a les empreses
 navigation-strap-on-your-goggles = Poseu-vos les ulleres i descobriu el web immersiu amb el navegador { -brand-name-firefox-browser } per a realitat virtual.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } per al { -brand-name-fire-tv }
@@ -29,12 +29,12 @@ navigation-learn-how-firefox-treats = Vegeu com el { -brand-name-firefox } tract
 navigation-mozilla-careers = Oportunitats laborals a { -brand-name-mozilla }
 navigation-approach-your-career = Trieu una carrera professional que doni sentit a la vida. Trobeu una feina digna a { -brand-name-mozilla }.
 navigation-close-firefox-menu = Tanca el menú { -brand-name-firefox }
-navigation-get-the-browser-that-gives = Utilitzeu el navegador que us dóna tot el control en { -brand-name-windows }, MacOS o { -brand-name-linux }.
+navigation-get-the-browser-that-gives = Utilitzeu el navegador que us dóna tot el control en el { -brand-name-windows }, { -brand-name-mac } o { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Porteu sempre a sobre el { -brand-name-firefox } i el { -brand-name-firefox-focus }. Per a l'{ -brand-name-android } i l'{ -brand-name-ios }.
 navigation-get-firefox = Baixa el { -brand-name-firefox }
 navigation-get-firefox-focus = Baixa el { -brand-name-firefox-focus }
 navigation-android-extensions = Extensions de l'{ -brand-name-android }
-navigation-your-firefox-account = El vostre compte del Firefox
+navigation-your-firefox-account = El vostre { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aprofiteu al màxim la vostra experiència amb el { -brand-name-firefox } en tots els dispositius.
 navigation-learn-how-to-customize = Apreneu a personalitzar el funcionament del { -brand-name-firefox }.
 navigation-experience-augmented = Proveu la realitat augmentada i virtual amb el { -brand-name-firefox }.

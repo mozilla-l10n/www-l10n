@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+firefox-accounts-there-is-a-way-to = Hi ha una manera de protegir la vostra privadesa. Uniu-vos al { -brand-name-firefox }.
+firefox-accounts-sign-in-to-monitor = Inicieu la sessió al { -brand-name-monitor }
+firefox-accounts-join-firefox = Uniu-vos al { -brand-name-firefox }
+firefox-accounts-enter-your-email-address = Introduïu la vostra adreça electrònica per començar.
+firefox-accounts-already-have-an-account = Ja teniu un compte?
+firefox-accounts-sign-in = Inicia la sessió
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
