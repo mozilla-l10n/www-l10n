@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = 64-bit yakonela'
 firefox-all-choose-a-64-bit-installer = Tacha' jun 64-bit yakonel kichin taq kematz'ib' rik'in 64-bit xenab'ab'äl. Re re' nuya' q'ij chawe naya' mas RAM chi re jujun taq solkema', ri k'atzinel chi ke taq etz'anem chuqa' ch'aqa' chik taq chokoy e k'o.
 firefox-all-32-bit-installers = 32-bit yakonela'
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Taqasaj ri Rokik'amaya'l Firefox pa Kaqchikel (cak) chuqa' 90 chik taq ch'ab'äl
+firefox-all-download-the-firefox = Taqasaj ri { -brand-name-firefox-browser } pa Q'anchi' (US) chuqa' 90 chik taq ch'ab'äl
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Konojel ütz ye'ok pa k'amaya'l — man ta niq'aton ri ach'ab'äl. Ruma ri' — rik'in kito'ik to'onela' chi jun ri ruwach'ulew — qelesan pe rokisaxik ri Firefox Okik'amaya'l pa 90 taq ch'ab'äl.
 firefox-all-choose-which-firefox = Tacha' achike Firefox Okik'amaya'l nawajo' naqasaj pan ach'ab'äl

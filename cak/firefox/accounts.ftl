@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Tik'ul { -brand-name-firefox-account } 
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Tapab'a' awi' chuwäch jun ajk'ayij moloj yeruk'ayij ri atzij chi ke aj rox winäq. Kak'oje' ütz chuqa' pa koloj pa jun k'a'm rik'in jun runa'ob'al ri yatruchajij.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Jikïl ke'axima' konojel ri ewan taq atzij, taq yaketal chuqa' taq ruwi' pa ronojel okisab'äl. Tak'ulu' jun Rub'i' Ataqoya'l richin Firefox – Xa jun rutikirib'axik molojri'ïl – Uchuq'ab'il chuqa' ichinanem pa ronojel k'ojlib'äl.
+firefox-accounts-securely-sync-your = Jikïl ke'axima' konojel ri ewan taq atzij, taq yaketal chuqa' taq ruwi' pa ronojel okisab'äl. Tak'ulu' jun { -brand-name-firefox-account } wakami – Xa jun rutikirib'axik molojri'ïl – nuya' awuchuq'a' chuqa' awichinanem pa ronojel k'ojlib'äl.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = K'o jun rub'anikil richin nachajij ri awichinanem. <span>Tatunu' awi' rik'in ri { -brand-name-firefox }</span>.
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
