@@ -31,9 +31,26 @@ firefox-accounts-get-technology-that = Ձեռք բերեք տեխնոլոգիա,
 firefox-accounts-travel-the-internet = Ճանապարհորդեք ինտերնետով պաշտպանությամբ՝յուրաքանչյուր սարքի միջոցով։
 firefox-accounts-keep-your-passwords = Ձեր գաղտնաբառերը պահեք պաշտպանված և դյուրակիր:
 firefox-accounts-get-a-lookout-for = Հետևեք տվյալների խախտումներին:
+firefox-accounts-share-large-files = Համօգտագործեք մեծ ֆայլերը հետաքրքրասերներից
+firefox-accounts-get-it-all-on-every = Ստացեք դրանք բոլոր սարքերում, առանց կախվածություն ունենալու որևէ օպերացիոն համակարգից:
+firefox-accounts-and-get-it-all-on = Եվ ստացեք այդ ամենը բոլոր սարքերում, առանց կախվածություն ունենալու որևէ օպերացիոն համակարգից:
+firefox-accounts-get-the-respect-you = Վայելեք հարգանք, որին արժանի եք
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
+firefox-accounts-youll-always-get-the = Դուք մեզանից միայն ճշմարտությունը կլսեք: Այն ամենը, ինչ մենք անում ենք հիմնված է մեր <a href="{ $promise }">Անձնակն տվյալների խոստման</a> վրա:
+# Line breaks for visual formatting.
+firefox-accounts-take-less-keep-it = Հավաքել ավելի քիչ:<br> Անվտանգ պահել:<br> Ոչ մի գաղտնիք:
+firefox-accounts-get-the-knowledge = Ստացեք Ձեզ անվտանգ պահելու գիտելիքներ:
+firefox-accounts-learn-everything-you = Իմացեք այն ամենը, ինչ պետք է իմանաք (բայց դեռ չգիտեք) խելացի և անվտանգ լինելու մասին առցանց՝ աշխարհի որոշ առաջատար մասնագետներից:
+firefox-accounts-and-be-part-of-protecting = Եվ եղեք ապագա սերունդների համար համացանցը պաշտպաններից մեկը:
+firefox-accounts-help-us-build-a-better = Օգնե՛ք մեզ կառուցել ավելի լավ { -brand-name-firefox } բոլորի համար:
+firefox-accounts-get-into-the-open = Զգացեք բաց աղբյուրի ոգին՝ թեստավորելով գալիք ծրագրերը:
+# "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
+firefox-accounts-help-us-keep-big-tech = Օգնե՛ք մեզ զսպել տեխնոլոգիական գիգանտներին:
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
+firefox-accounts-we-support-communities = Մենք աջակցում ենք համայնքների ամբողջ աշխարհում, ովքեր կանգնած են ավելի առողջ համացանցի դիրքերում: Տվե՛ք ձեր ձայնը այդ պայքարի համար:
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
