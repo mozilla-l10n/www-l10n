@@ -15,6 +15,10 @@ installer-help-action-choose = Choisissez un téléchargement ci-dessous.
 
 ##
 
+installer-help-firefox-release-title = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Obtenez la dernière version. Le respect de votre vie privée, par défaut. Téléchargez le { -brand-name-firefox-browser } pour bloquer plus de { $trackers } traqueurs.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testez les fonctionnalités sur le point d’être publiées en utilisant la préversion la plus stable.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
