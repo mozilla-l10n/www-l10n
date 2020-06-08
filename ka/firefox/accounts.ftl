@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = გზა, თქვენი პირადულობის დასაცავად. შემოუერთდით { -brand-name-firefox }-ს.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = შექმენით Firefox-ანგარიში – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
+firefox-accounts-get-a-firefox-account = შექმენით { -brand-name-firefox-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = წინ აღუდექით კომპანიებს, რომლებიც ყიდიან თქვენს მონაცემებს სხვებზე. მოხერხებულად და უსაფრთხოდ გამოიყენეთ ინტერნეტი ტექნოლოგიით, რომელიც თქვენთვის იბრძვის.
 # Old HTML page description
-firefox-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით Firefox-ანგარიში ახლავე – მხოლოდ ერთი შესვლა – მძლავრი შესაძლებლობები და პირადულობა ყველგან.
+firefox-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-firefox-account } ახლავე – მხოლოდ ერთი შესვლა – მძლავრი შესაძლებლობები და პირადულობა ყველგან.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = გზა, თქვენი პირადულობის დასაცავად. <span>შემოუერთდით { -brand-name-firefox }-ს.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
