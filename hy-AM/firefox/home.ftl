@@ -17,7 +17,7 @@ firefox-home-learn-more-about-lockwise = ԻՄացեք ավելին { -brand-name
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Արժանացեք այն <strong>հարգանքին</strong>, որին արժանի եք
 firefox-home-every-single-firefox = { -brand-name-firefox }-ի յուրաքանչյուր ծրագիր հարգում է մեր Անձնական տվյալների խոստումը. <strong>Ավելի քիչը վերցրու, մնա՛ ապահով: Ոչ մի գաղտնիք:</strong>
-firefox-home-share-large-files-without = Համօգտագործեք մեծ ֆայլերը առանց հետաքրքրասերների
+firefox-home-share-large-files-without = Ապահով համօգտագործեք մեծ ֆայլեր:
 firefox-home-start-sending-files = Սկսեք ֆայլեր ուղարկել անվտանգ
 firefox-home-trade-clickbait-for = Քլիքբեյթերը փոխանակեք որակյալ բովանդակությամբ
 firefox-home-learn-more-about-pocket = Իմացեք ավելին { -brand-name-pocket }-ի մասին
