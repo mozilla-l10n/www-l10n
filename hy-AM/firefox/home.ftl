@@ -21,6 +21,10 @@ firefox-home-share-large-files-without = Համօգտագործեք մեծ ֆա�
 firefox-home-start-sending-files = Սկսեք ֆայլեր ուղարկել անվտանգ
 firefox-home-trade-clickbait-for = Քլիքբեյթերը փոխանակեք որակյալ բովանդակությամբ
 firefox-home-learn-more-about-pocket = Իմացեք ավելին { -brand-name-pocket }-ի մասին
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = Մեկ մուտքագրում: Ձեր բոլոր սարքերը: Ծրագրերի ընտանքի, որը հարգում է ձեր <strong>անձնականը</strong>:
+firefox-home-join-firefox = Միացե՛ք { -brand-name-firefox }-ին
+firefox-home-learn-more-about-joining = Իմացեք ավելին { -brand-name-firefox }-ին միանալու մասին
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
