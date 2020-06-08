@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Անցումը { -brand-name-fire
 switch-select-what-to-take = Ընտրեք, թե ինչը վերցնել { -brand-name-chrome }-ից:
 switch-let-firefox-do-the-rest = Մնացածը կանի { -brand-name-firefox }-ը:
 switch-use-firefox-and-still-chrome = Կարող եք օգտագործել { -brand-name-firefox }-ը և դեռ ունենալ { -brand-name-chrome }-ը:
+switch-spread-the-word = Տարածեք աշխարհում { -brand-name-firefox }-ի մասին և օգնեք Ձեզ մոտ մարդկանց հրաժեշտ տալ { -brand-name-chrome }-ին:
 switch-share-with-your-friends = Կիսվեք ընկերների հետ, թե ինչպես անցնել { -brand-name-firefox }-ի:
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox }-ը շատ հեշտ է դարձնում անցումը { -brand-name-chrome }-ից: Փորձե՛ք:
 switch-switch-to-firefox = Անցնել { -brand-name-firefox }-ի
