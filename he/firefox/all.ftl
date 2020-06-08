@@ -22,6 +22,13 @@ firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-
 firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-name-firefox }
 firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגיל - מהיר ופרטי. אם הינך בהתלבטות באיזה { -brand-name-firefox } לבחור, מומלץ לבחור בזה.
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = הורדת { $product_label } עבור { $platform } ב־{ $locale }
+firefox-all-which-version = באיזו גרסה ברצונך לבחור?
+firefox-all-select-your-preferred-language = בחירת השפה המועדפת עליך
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }

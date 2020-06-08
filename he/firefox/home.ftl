@@ -8,6 +8,7 @@
 firefox-home-firefox-protect-your = ‏{ -brand-name-firefox } - הגנה על החיים המקוונים שלך באמצעות מוצרים שדואגים קודם כל לפרטיות שלך.
 firefox-home-the-browser-is-just = הדפדפן הוא רק ההתחלה
 firefox-home-meet-our-family-of = הכירו את משפחת המוצרים שלנו
+firefox-home-keep-your-passwords = שמרו על הססמאות שלכם בכל מכשיר
 firefox-home-learn-more-about-lockwise = מידע נוסף על { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = קבלו את <strong>הכבוד</strong> שמגיע לכם
