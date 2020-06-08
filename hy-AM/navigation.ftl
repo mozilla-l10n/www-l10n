@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Ներբեռնել { -brand-name-firefox }-ը
-navigation-get-a-firefox-account = Ստացեք { -brand-name-firefox-account }-ը
+navigation-get-a-firefox-account = Ստացեք { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser }-ը դեսքթոփի համար
 navigation-get-the-browser-that-respects = Ստացեք զննարկիչ, որը ինքնաբար հարգում է ձեր գաղտնիությունը՝ { -brand-name-windows }-ում, { -brand-name-mac }-ում և { -brand-name-linux }-ում:
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser }-ը բջջայինի համար

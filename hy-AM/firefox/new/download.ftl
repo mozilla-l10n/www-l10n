@@ -48,7 +48,7 @@ firefox-new-youre-using-an-insecure-outdated = Դուք օգտագործում �
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-firefox-new-should-begin = Ներբեռնումը շուտով կսպսվի: Չի՞ սկսվել: <a id="{ $id }" href="{ $fallback_url }">Կրկին փորձեք</a>:
+firefox-new-your-firefox-new-should-begin = Ներբեռնումը շուտով կսկսվի: Չի՞ սկսվել: <a id="{ $id }" href="{ $fallback_url }">Կրկին փորձեք</a>:
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավելին է, քան զննարկիչը:
 firefox-new-its-privacy-and-peace-of = Դա նաև բջջայինի մեջ <strong>գաղտնիություն և մտքի խաղաղություն</strong> է:
 firefox-new-its-a-family-of-products = Այն <strong>ծրագրերի ընտանիք է</strong>, որը հարգանքով է վերաբերվում ձեր անձնական տվյալներին:
