@@ -19,9 +19,17 @@ firefox-all-language = Լեզու․
 firefox-all-sorry-we-couldnt-find = Ներեցեք, մենք չկարողացանք գտնել ձեր փնտրած ներբեռնումը: Խնդրում ենք կրկին փորձել կամ ընտրեք ներբեռնումը ստրև ցուցակից:
 firefox-all-the-pre-alpha-version = Նախանախնական տարբերակ հզոր օգտատերերի համար, ովքեր սիրում են որսալ վթարներ և թեստավորել նոր յուրահատկություններ:
 firefox-all-64-bit-installers = 64-բիթանոց տեղադրիչներ
+firefox-all-choose-a-64-bit-installer = Ընտրեք 64 բիթային տեղակայիչ 64 բիթային մշակիչներով համակարգիների համար: Այն հնարավորություն է տալիս բաշխել ավելի շատ RAM անհատական ծրագրերի համար, ինչը մասնավորապես կարևոր է խաղերի և պահանջված այլ ծրագրերի համար:
 firefox-all-32-bit-installers = 32-բիթանոց տեղադրիչներ
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox = Ներբեռնեք { -brand-name-firefox-browser }-ը անգլերեն (US) և ավելի քան 90 այլ լեզուներով:
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = Բոլորն արժանի են մուտք ունենալ համացանց և ձեր լեզուն երբեք չպետք է դառնա խոչընդոտ: Ահա թե ինչու, ամբողջ աշխարհի նվիրված կամավորների օգնությամբ, մենք հա,սանելի ենք դարձրել { -brand-name-firefox-browser }-ը ավելի քան 90 լեզուներով:
+firefox-all-choose-which-firefox = Ընտրեք, թե որ { -brand-name-firefox-browser }-ը ներբեռնել ձեր լեզվով:
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }֊ի գաղտնիության ծանուցում
 firefox-all-learn-about-firefox = Իմացեք ավելին { -brand-name-firefox }֊ի դիտարկիչների մասին
+firefox-all-the-standard-firefox = Ստանդարտ { -brand-name-firefox } զննարկիչը արագ է և մասնավոր:  Եթե համոզված չեք, որ { -brand-name-firefox }-ը ընտրել, ապա ընտրեք սա:
+firefox-all-get-a-sneak-peek-at = Ծանոթացեք { -brand-name-firefox }-ի ամենավերջին նորամուծություններին մինչև դրանց թողարկումը:
 firefox-all-msi-installers = MSI տեղադրիչներ
 firefox-all-which-version = Ո՞ր տարբերակն եք ցանկանում:
 firefox-all-select-your-preferred-installer = Ընտրեք ձեր նախընտրած տեղադրիչը
