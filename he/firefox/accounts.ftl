@@ -23,12 +23,16 @@ firefox-accounts-travel-the-internet = לטייל ברחבי הרשת עם הג�
 firefox-accounts-get-a-lookout-for = קבלת התרעות על דליפות נתונים.
 firefox-accounts-share-large-files = שיתוף קבצים גדולים ללא עיניים חטטניות.
 firefox-accounts-get-the-respect-you = קבלו את הכבוד שמגיע לכם.
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
+firefox-accounts-youll-always-get-the = תמיד תקבלו מאיתנו את האמת. כל מה שאנחנו עושים ומייצרים מכבד את <a href="{ $promise }">הבטחתנו בנוגע לנתונים אישיים</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = לקחת פחות.<br> להגן בקפידה.<br> ללא סודות.
 firefox-accounts-help-us-build-a-better = עזרו לנו לבנות { -brand-name-firefox } טוב יותר עבור כולם.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
+firefox-accounts-we-support-communities = אנו תומכים בקהילות בכל רחבי העולם שדוגלות באינטרנט בריא יותר. כדאי להוסיף את קולך למאבק.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
