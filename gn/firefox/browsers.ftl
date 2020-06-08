@@ -18,10 +18,10 @@ firefox-browsers-mobile = Pumbyry popegua
 firefox-browsers-take-the-same-level-of-privacy = Egueraha nendive ñemigua, avei ne ñe’ẽñemi, jehekaha rembiasakue, tendayke ijurujáva ha hetave, opaite ehohápe.
 firefox-browsers-download-for-mobile = Emboguejy pumbyrýpe g̃uarã
 firefox-browsers-send-me-a-link = Embou chéve juajuha
-firefox-browsers-enterprise = Mba’apohaguasu
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Eguerúke mba’ekuaarã ñemo’ã ijojaha’ỹva oipytyvõkuaátava ne mba’apohaguasúpe.
-firefox-browsers-enterprise-packages = Mba’erenda mba’apohaguasu rehegua
-firefox-browsers-reality = Añetegua
+firefox-browsers-enterprise-packages = { -brand-name-enterprise } mba’renda
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Ehecha pukuve mokõi tendaguasúgui ha evy’a tetepy pypeguáva opaite ñanduti peguápe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Emoheñói tenda ha emboha’eve nde ayvu { -brand-name-firefox } ndive <strong>{ -brand-name-devtools }</strong>
