@@ -20,7 +20,7 @@ firefox-all-language = Nânj a'min':
 firefox-all-download-the-firefox = Nādunïnj Firefox a'min si nuguàn' ra'ñan'an (US) nī a'ngô 90 nuguan' huāa
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Dañù da’ui gā internet riña daran’ nê’ — sê ‘ngō sa rañu’ūnj un huin ‘ngō nânj a’min’. Yi’ì dan — mà ‘ngō yi’nïn’ nìko nej duguî’ rugûñu’ūnj nachrûn da’ huā ngè ganikàj gan’ānj riña yumiguìi — yi’ì dan nī ga’ue narì’t gachîn doj riña 90 nânj an ‘iaj sun ngà nej sa nana’ui’ nikāj Firefox.
-firefox-all-choose-which-firefox = Naguī ahuin sa nana’ui’ nikāj Firefox da’ nadunïnjt ngà sinuguàn’t
+firefox-all-choose-which-firefox = Naguī ahuin sa nana’ui’ { -brand-name-firefox-browser } da’ nadunïnjt ngà sinuguàn’t
 firefox-all-firefox-privacy-notice = Nuguan’ huì nikāj { -brand-name-firefox }
 firefox-all-learn-about-firefox = Gahuin chrūn doj rayi’î nej sa nana’ui’ nikāj { -brand-name-firefox }
 # Variables:

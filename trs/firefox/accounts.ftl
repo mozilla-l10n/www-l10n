@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Hua daj gadadut ma'ant. Gi'iaj sun 'ngà { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Girī 'ngō si kuedât ngà Firefox – Dunâj gīnu huì nej si datût, gā yitïn nī gā nuguan'ànj
+firefox-accounts-get-a-firefox-account = Girī 'ngō { -brand-name-firefox-account } – Dunâj gīnu huì nej si datût, gā yitïn nī gā nuguan'ànj
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Nākaj man'ânt riña nej sa du'uèj sa huā rayi'ît riña a'ngô nej si. Gā hue'ê nī gā nìn gachē nu riña nej sa gurugui' da' dugumîn niñā sò'.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Nitāj sa gi'iaj yi'ì sisī nagi'iaj nuguan'ànt nej da'nga' huì, nej markadô nī nej rakïj ñanj nikājt riña daran' nej si agâ't. Girī 'ngō si kuendât riña Firefox hìaj – 'ngō riña ayi'ìt sesiûn – Gā nùkua nī gā huì yìtïn.
+firefox-accounts-securely-sync-your = Nitāj sa gi'iaj yi'ì sisī nagi'iaj nuguan'ànt nej da'nga' huì, nej markadô nī nej rakïj ñanj nikājt riña daran' nej si agâ't. Girī 'ngō { -brand-name-firefox-account } hìaj – 'ngō riña ayi'ìt sesiûn – Gā nùkua nī gā huì yìtïn.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Huā 'ngō sa gi'iaj gā nì gachēt. <span>nakāj dugui' ngà { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

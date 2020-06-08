@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Dugumîn man sò ngà nej rasūn rij da' gachē nu 'ngo rïnt
+firefox-home-learn-more-about-lockwise = Gahuin chrūn doj rayi'î { -brand-name-lockwise }
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
