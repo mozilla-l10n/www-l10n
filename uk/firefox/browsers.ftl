@@ -18,9 +18,9 @@ firefox-browsers-mobile = Для мобільного
 firefox-browsers-take-the-same-level-of-privacy = Отримайте такий самий рівень приватності — плюс свої паролі, історію пошуку, відкриті вкладки та інші дані — з собою всюди.
 firefox-browsers-download-for-mobile = Завантажити для мобільного
 firefox-browsers-send-me-a-link = Надіслати мені посилання
-firefox-browsers-enterprise = Для компаній
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Отримайте неперевершений захист даних з циклами підтримки, розроблених відповідно до потреб вашої компанії.
-firefox-browsers-enterprise-packages = Версії для компаній
+firefox-browsers-enterprise-packages = Версії { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Вийдіть за межі двох вимірів та насолодіться найкращим реалістичним вмістом з усього Інтернету.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
