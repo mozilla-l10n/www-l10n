@@ -21,11 +21,11 @@ firefox-browsers-send-me-a-link = M’envoyer un lien
 firefox-browsers-enterprise = Entreprise
 firefox-browsers-get-unmatched-data-protection = Bénéficiez d’une protection incomparable de vos données avec des phases de soutien adaptées aux besoins de votre entreprise.
 firefox-browsers-enterprise-packages = Offres entreprises
-firefox-browsers-reality = Réalité
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Regardez au-delà de la réalité, et profitez du meilleur contenu immersif accessible partout sur le Web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Créez des sites et perfectionnez votre code avec les <strong>outils</strong> de développement de { -brand-name-firefox }
-firefox-browsers-learn-more-about-devtools = En savoir plus sur les outils de développement
+firefox-browsers-build-sites-and-refine-your = Créez des sites et perfectionnez votre code avec les { -brand-name-devtools } de { -brand-name-firefox }
+firefox-browsers-learn-more-about-devtools = En savoir plus sur les { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Rejoignez { -brand-name-firefox } et tirez le meilleur de chaque produit — sur chacun de vos appareils.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

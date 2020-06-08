@@ -66,7 +66,11 @@
        *[lowercase] comptes Firefox
         [uppercase] Comptes Firefox
     }
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-devtools =
+    { $capitalization ->
+       *[lowercase] outils de développement de Firefox
+        [uppercase] Outils de développement de Firefox
+    }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
@@ -74,7 +78,11 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
+-brand-name-devtools =
+    { $capitalization ->
+       *[lowercase] outils de développement
+        [uppercase] Outils de développement
+    }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
