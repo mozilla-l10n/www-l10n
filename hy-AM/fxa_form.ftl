@@ -2,5 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-form-enter-your-email = <strong>Նշեք ձեր էլ. փոստը</strong>՝ { -brand-name-firefox-accounts } մուտք ունենալու համար:
+# Variables:
+#   $url1 (url) - link to https://accounts.firefox.com/legal/terms
+#   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
+fxa-form-by-proceeding = Շարունակելով, դուք համաձայնվում եք <a href="{ $url1 }">Ծառայության պայմաններին</a> և <a href="{ $url2 }">Գաղտնիության ծանուցմանը</a>:
+fxa-form-email-address = Էլ. փոստի հասցե
+fxa-form-continue = Շարունակել
 fxa-form-create-account = Ստեղծել հաշիվ
 fxa-form-get-the-app = Ստանալ հավելվածը

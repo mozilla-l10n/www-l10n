@@ -9,3 +9,6 @@ whatsnew-page-title = Ինչն է նոր { -brand-name-firefox }-ով՝ առավ
 whatsnew-page-description = Դեմ դուրս եկեք այն ոլորտի, որը վաճառում է ձեր տվյալները երրորդ կողմերին: Առցանց եղե՛ք խելացի և ապահով՝ տեխնոլոգիայով, որը պայքարում է Ձեզ համար:
 whatsnew-up-to-date-notification = Շնորհավոր: Դուք օգտագործում եք { -brand-name-firefox-browser }-ի վերջին տարբերակը:
 whatsnew-out-of-date-notification = { -brand-name-firefox-browser }-ի նոր տարբերակն է մատչելի: Վերամեկնարկեք՝ թարմացնելու համար:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes = Կարդացե՛ք <a href="{ $url }">Թողարկմա նշումները</a>՝ ավելին իմանալու համար, թե ինչն է նոր { -brand-name-firefox }-ում:
