@@ -18,14 +18,14 @@ firefox-browsers-mobile = Mobilny rěd
 firefox-browsers-take-the-same-level-of-privacy = Wzejśo jadnučki schojźeńk priwatnosći - plus swóje gronidła, pytańsku historiju, wócynjone rejtariki a wěcej - sobu, źožkuli źiśo.
 firefox-browsers-download-for-mobile = Za mobilny rěd ześěgnuś
 firefox-browsers-send-me-a-link = Sćelśo mě wótkaz
-firefox-browsers-enterprise = Pśedewześe
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Wobstarajśo se njedosěgnjony šćit datow z pódpěrowańskimi cyklusami, kótarež su na pótrjeby wašogo pśedewześa wusměrjone.
-firefox-browsers-enterprise-packages = Pśedewześowe pakety
-firefox-browsers-reality = Realita
+firefox-browsers-enterprise-packages = Pakety { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Pśekšacćo dwě dimensiji a wužywajśo nejlěpše imersiwne wośimjeśe z cełego weba.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Napórajśo sedła a pólěpšćo swój kod z { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
-firefox-browsers-learn-more-about-devtools = Zgóńśo wěcej wó wuwijarskich rědach
+firefox-browsers-learn-more-about-devtools = Dalšne informacije wó { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Wužywajśo { -brand-name-firefox } a wuwónoźćo nejwěcej z kuždeho produkta - na kuždem rěźe.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
