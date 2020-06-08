@@ -15,8 +15,13 @@ firefox-all-get-help = קבלת עזרה
 firefox-all-browser = דפדפן:
 firefox-all-platform = סביבה:
 firefox-all-language = שפה:
+firefox-all-sorry-we-couldnt-find = מצטערים, לא הצלחנו להוריד את מה שחיפשת. נא לנסות שוב, או לבחור הורדה מהרשימה שלהלן.
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את { -brand-name-firefox-browser } לזמין בלמעלה מ־90 שפות.
 firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
 firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-name-firefox }
+firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגיל - מהיר ופרטי. אם הינך בהתלבטות באיזה { -brand-name-firefox } לבחור, מומלץ לבחור בזה.
+firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
