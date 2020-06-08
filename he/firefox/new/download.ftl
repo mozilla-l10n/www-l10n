@@ -10,11 +10,16 @@ firefox-new-download-the-fastest-firefox = הורדת { -brand-name-firefox } ה
 firefox-new-faster-page-loading-less-memory = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, ה־{ -brand-name-firefox } החדש כאן.
 firefox-new-automatic-privacy-is-here = פרטיות אוטומטית כבר כאן. ניתן להוריד את { -brand-name-firefox } כדי לחסום יותר מ־2,000 רכיבי מעקב.
 firefox-new-get-the-latest-firefox = קבלו את הדפדפן { -brand-name-firefox } העדכני ביותר.
+firefox-new-firefox-shows-you-how-many = ־{ -brand-name-firefox } מציג לך כמה רכיבי מעקב שאוספים נתונים נחסמו בעזרת <strong>הגנת המעקב המתקדמת</strong>.
+firefox-new-firefox-lockwise-makes-secure = ‏<strong>{ -brand-name-firefox-lockwise }</strong> מאבטח את הססמאות הנשמרות ב־{ -brand-name-firefox } והופך אותן לזמינות בכל המכשירים שלך.
+firefox-new-firefox-monitor-alerts = ‏<strong>{ -brand-name-firefox-monitor }</strong> מתריע בפניך אם אנחנו יודעים שהמידע שלך הוא חלק מדליפת נתונים של חברה אחרת.
 firefox-new-join-firefox = הצטרפות ל־{ -brand-name-firefox }
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = הורדת { -brand-name-firefox } <br>עבור { -brand-name-windows }
 firefox-new-download-firefox-for-macos = הורדת { -brand-name-firefox } <br>עבור { -brand-name-mac }
 firefox-new-download-firefox-for-linux = הורדת { -brand-name-firefox } <br>עבור { -brand-name-linux }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-new-youve-already-got-the-browser = קיבלת כבר את הדפדפן. עכשיו ניתן לקבל אפילו יותר מ־{ -brand-name-firefox }.
 firefox-new-free-web-browser = דפדפן אינטרנט חינמי
 firefox-new-advanced-install-options = אפשרויות התקנה מתקדמות ופלטפורמות אחרות
 firefox-new-download-in-another-language = הורדה בשפה אחרת
