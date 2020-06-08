@@ -32,7 +32,7 @@ firefox-accounts-travel-the-internet = Eikundaha ñandutípe ñemo’ãme opaite
 firefox-accounts-keep-your-passwords = Eguereko ne ñe’ẽñemi ñemo’ãme ha eraha nendive.
 firefox-accounts-get-a-lookout-for = Ehechakuaáke ára ha ára mba’ekuaarã ñemboguáre.
 firefox-accounts-share-large-files = Emoherakuã marandurenda tuicháva oñema’ẽ’ỹre hese.
-firefox-accounts-get-it-all-on-every = Eguerekopa opaite mba’e’okápe, eñeñapytĩ’ỹre avave apopyvusu oku'évare.
+firefox-accounts-get-it-all-on-every = Eguerekopa opaite mba’e’okápe, eñeñapytĩ’ỹre avave apopyvusu oku’évare.
 firefox-accounts-and-get-it-all-on = Eguerekopa peteĩteĩva mba’e’okágui, eñeñapytĩ’ỹre mavave apopyvusu oku’éva rehe.
 firefox-accounts-get-the-respect-you = Eguerekóta poyhu emereséva.
 # Variables:

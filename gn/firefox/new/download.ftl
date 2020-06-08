@@ -44,7 +44,7 @@ firefox-new-just-download-the-browser = Emboguejynteva’erã ko kundaha
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Eipupuruhína apopyvusu oku'éva hetekorosã’ỹva ha avei hekopyahu’ỹva <a href="{ $url }">ndoguerekovéimava { -brand-name-firefox } pytyvõ</a>.
+firefox-new-youre-using-an-insecure-outdated = Eipupuruhína apopyvusu oku’éva hetekorosã’ỹva ha avei hekopyahu’ỹva <a href="{ $url }">ndoguerekovéimava { -brand-name-firefox } pytyvõ</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

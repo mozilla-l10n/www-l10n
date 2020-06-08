@@ -8,6 +8,6 @@ fxa-form-enter-your-email = <strong>Emoinge ne ñandutiveve</strong> eikekuaa ha
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
 fxa-form-by-proceeding = Eku’ejeývo, emoneĩma umi <a href="{ $url1 }">Mba'epytyvõrã ñemboguata</a> y <a href="{ $url2 }">Temiñemi purureko</a>.
 fxa-form-email-address = Ñanduti veve kundaharape
-fxa-form-continue = Eku'ejey
+fxa-form-continue = Eku’ejey
 fxa-form-create-account = Emoheñói mba’ete
 fxa-form-get-the-app = Egueru tembipuru’i
