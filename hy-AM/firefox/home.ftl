@@ -5,6 +5,22 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = { -brand-name-firefox }՝ պաշտպանում է ձեր առցանց կյանքը առաջնային գաղտնիության ծրագրերով
+firefox-home-firefox-is-more-than = { -brand-name-firefox }-ը ավելի է, քան զննարկիչը: Իմացեք ավելին { -brand-name-firefox }-ի ծրագրերի մասին, որոնք հարգանքով են վերաբերում ձեր տվյալներին և կառուցված են գաղտնիության համար, որտեղ էլ որ լինեք առցանց:
+firefox-home-the-browser-is-just = Զննարկիչը միայն սկիզբն է
+firefox-home-meet-our-family-of = Նայե՛ք ծրագրերի մեր ընտանիքը
+firefox-home-get-trackers-off = Ազատվեք 2,000 + հետագծիչներից, ներառյալ՝ { -brand-name-facebook }-ը
+firefox-home-know-when-hackers-strike = Տեղեկացված եղեք հակերների  հարձակման մասին և մեկ քայլ առաջ կլինեք
+firefox-home-start-getting-breach = Խախտումների մասին զեկույցներ ստացեք
+firefox-home-keep-your-passwords = Պահեք ձեր գաղտնաբառերը անվտանգ յուրաքանչյուր սարքում
+firefox-home-learn-more-about-lockwise = ԻՄացեք ավելին { -brand-name-lockwise }-ի մասին
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = Արժանացեք այն <strong>հարգանքին</strong>, որին արժանի եք
+firefox-home-every-single-firefox = { -brand-name-firefox }-ի յուրաքանչյուր ծրագիր հարգում է մեր Անձնական տվյալների խոստումը. <strong>Ավելի քիչը վերցրու, մնա՛ ապահով: Ոչ մի գաղտնիք:</strong>
+firefox-home-share-large-files-without = Համօգտագործեք մեծ ֆայլերը առանց հետաքրքրասերների
+firefox-home-start-sending-files = Սկսեք ֆայլեր ուղարկել անվտանգ
+firefox-home-trade-clickbait-for = Քլիքբեյթերը փոխանակեք որակյալ բովանդակությամբ
+firefox-home-learn-more-about-pocket = Իմացեք ավելին { -brand-name-pocket }-ի մասին
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
