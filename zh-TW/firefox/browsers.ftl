@@ -18,10 +18,10 @@ firefox-browsers-mobile = 行動版
 firefox-browsers-take-the-same-level-of-privacy = 無論身在何方，都有相同等級的隱私保護。密碼、搜尋紀錄、開啟分頁等資料也能隨身帶著走。
 firefox-browsers-download-for-mobile = 下載行動版
 firefox-browsers-send-me-a-link = 寄送鏈結給我
-firefox-browsers-enterprise = 企業版
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = 以您的企業需求量身打造產品支援週期，以獲得無以倫比的資料保護功能。
-firefox-browsers-enterprise-packages = 企業部署套件
-firefox-browsers-reality = 虛擬實境
+firefox-browsers-enterprise-packages = { -brand-name-enterprise }部署套件
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = 跳出平面，享受網路上最佳的沉浸式內容體驗。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = 使用 { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> 開發網站並調整程式碼
