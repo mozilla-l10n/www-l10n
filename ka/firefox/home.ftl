@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = ჩაანაცვლეთ სატყ�
 firefox-home-learn-more-about-pocket = უკეთ გაიცანით { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = მხოლოდ ერთი შესვლა. ყველა თქვენს მოწყობილობაზე. პროდუქტების ნაკრები, რომლებიც პატივს სცემს თქვენს <strong>პირადულობას</strong>.
+firefox-home-join-firefox = შემოგვიერთდით – { -brand-name-firefox }
 firefox-home-learn-more-about-joining = იხილეთ ვრცლად, როგორ შემოუერთდეთ { -brand-name-firefox }-ს
 firefox-home-get-the-browser-extension = გადმოწერეთ ბრაუზერის გაფართოება
 firefox-home-get-the-facebook-container = გადმოწერეთ { -brand-name-facebook-container } გაფართოება
