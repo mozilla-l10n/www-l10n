@@ -9,6 +9,9 @@
 ## Required
 
 installer-help-page-title = Vaše stahování bylo přerušeno
+installer-help-main-tagline = To se někdy stává. Zkusme něco jiného.
+installer-help-action-channel = Toto stahování by vám mělo fungovat lépe.
+installer-help-action-choose = Vyberte si níže, co chcete stáhnout.
 
 ##
 
@@ -21,4 +24,8 @@ installer-help-firefox-beta-desc = Zkoušejte připravované funkce před jejich
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Vyvíjejte, testujte a experimentujte s jediným prohlížečem speciálně pro vývojáře.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Nahlédněte do budoucnosti našeho webového prohlížeče a pomozte nám z něj udělat ten nejlepší na světě.
 installer-help-need-help = Potřebujete pomoc s instalací?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Pokud stále potřebujete pomoc s instalací, <a href="{ $url }">přečtěte si návod v naší nápovědě</a>.
