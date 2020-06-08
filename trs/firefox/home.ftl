@@ -7,6 +7,8 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Dugumîn man sò ngà nej rasūn rij da' gachē nu 'ngo rïnt
 firefox-home-learn-more-about-lockwise = Gahuin chrūn doj rayi'î { -brand-name-lockwise }
+firefox-home-learn-more-about-pocket = Gahuin chrūn doj rayi'î { -brand-name-pocket }
+firefox-home-join-firefox = Natū gi'iaj sunt ngà { -brand-name-firefox }
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
