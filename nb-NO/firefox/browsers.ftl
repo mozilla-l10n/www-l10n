@@ -20,6 +20,7 @@ firefox-browsers-send-me-a-link = Send meg en lenke
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = { -brand-name-enterprise }-pakker
 firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-go-beyond-two-dimensions-and = Gå utover to dimensjoner og nyt det beste oppslukende innholdet fra hele nettet.
 firefox-browsers-learn-more-about-devtools = Les mer om { -brand-name-devtools }
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
