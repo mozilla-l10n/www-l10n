@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Ձեր գաղտնիությունը պաշտպանելու միջոց կա: Միացեք{ -brand-name-firefox }-ին:
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Ստացեք Firefox հաշիվ ֊ ձեր տվյալները պահեք մասնավոր, անվտանգ և համաժամեցված
+firefox-accounts-get-a-firefox-account = Ստացեք { -brand-name-firefox-account } և պահեք ձեր տվյալները մասնավոր, անվտանգ և համաժամեցված
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Դեմ դուրս եկեք այն ոլորտի, որը վաճառում է ձեր տվյալները երրորդ կողմերին: Առցանց եղե՛ք խելացի և ապահով՝ տեխնոլոգիայով, որը պայքարում է Ձեզ համար:
 # Old HTML page description

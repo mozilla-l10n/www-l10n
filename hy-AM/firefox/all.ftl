@@ -30,6 +30,17 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox }֊ի գաղտնիո�
 firefox-all-learn-about-firefox = Իմացեք ավելին { -brand-name-firefox }֊ի դիտարկիչների մասին
 firefox-all-the-standard-firefox = Ստանդարտ { -brand-name-firefox } զննարկիչը արագ է և մասնավոր:  Եթե համոզված չեք, որ { -brand-name-firefox }-ը ընտրել, ապա ընտրեք սա:
 firefox-all-get-a-sneak-peek-at = Ծանոթացեք { -brand-name-firefox }-ի ամենավերջին նորամուծություններին մինչև դրանց թողարկումը:
+firefox-all-test-your-sites-against = Փորձարկեք ձեր կայքերը { -brand-name-firefox } զննարկիչի գործառույթների հետ համատեղելիության հետ՝ հզոր, ճկուն DevTools-ով, որը միացված է սկզբնադիր:
+firefox-all-count-on-stability-and = Վստահեք ձեռնարկատիրության համար կառուցված { -brand-name-firefox }-ի կայունությանը և դյուրին օգտագործմանը:
+firefox-all-windows-installers-for = Windows-ի տեղակայիչներ կորպորատիվ ՏՏ-ի համար, որոնք պարզեցնում են { -brand-name-firefox-browser }-ի կազմաձևումը, գործադրումը և կառավարումը:
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Ընտրեք 32 բիթային տեղադրիչ 32 բիթային մշակիչներով կամ ավելի հին կամ քիչ հզորությամբ համակարգիչների համար: <a href="{ $url }">Եթե համոզված չեք,</a> թե որը՝ ընտրել՝ 64, թե 32 բիթային, ապա խորհուրդ ենք տալիս ընտրել 32 բիթայինը:
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Ներբեռնել { $product_label }-ը { $platform }-ի համար { $locale }-ով
 firefox-all-msi-installers = MSI տեղադրիչներ
 firefox-all-which-version = Ո՞ր տարբերակն եք ցանկանում:
 firefox-all-select-your-preferred-installer = Ընտրեք ձեր նախընտրած տեղադրիչը
