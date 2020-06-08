@@ -18,9 +18,9 @@ firefox-browsers-mobile = Firefox für Mobilgeräte
 firefox-browsers-take-the-same-level-of-privacy = Privat unterwegs: Hol dir das Datenschutzniveau vom Desktop – samt Passwörter, Suchchronik, offener Tabs  und mehr – auch auf dein Smartphone.
 firefox-browsers-download-for-mobile = Für Mobilgeräte downloaden
 firefox-browsers-send-me-a-link = Link an mich senden
-firefox-browsers-enterprise = Firefox für Unternehmen
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Hol dir unübertroffenen Datenschutz mit Support-Zyklen, die auf die Anforderungen deines Unternehmens zugeschnitten sind.
-firefox-browsers-enterprise-packages = Pakete für Unternehmen
+firefox-browsers-enterprise-packages = Pakete für { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Geh über zwei Dimensionen hinaus und genieße die besten immersiven Inhalte aus dem Internet.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
