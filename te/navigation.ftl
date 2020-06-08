@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox }ను దింపుకోండి
-navigation-get-a-firefox-account = Firefox ఖాతా పొందండి
+navigation-get-a-firefox-account = { -brand-name-firefox-account } పొందండి
 navigation-get-firefox = { -brand-name-firefox }ను పొందండి
-navigation-your-firefox-account = మీ Firefox ఖాతా
+navigation-your-firefox-account = మీ { -brand-name-firefox-account }
 navigation-menu = మెనూ
 navigation-download = దింపుకోండి
 navigation-extensions = పొడగింతలు
