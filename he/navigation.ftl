@@ -22,6 +22,7 @@ navigation-firefox-blog = הבלוג של { -brand-name-firefox }
 navigation-read-about-new-firefox = קראו על תכונות { -brand-name-firefox } חדשות, וקבלו עצות על כיצד להישאר בטוחים ברשת.
 navigation-the-non-profit-behind = העמותה ללא מטרות רווח העומדת מאחורי { -brand-name-firefox } נלחמת למען אינטרנט בריא לכולם.
 navigation-learn-how-firefox-treats = מידע על האופן שבו { -brand-name-firefox } מתייחס לנתונים שלך בכבוד.
+navigation-close-firefox-menu = סגירת תפריט { -brand-name-firefox }
 navigation-get-firefox = קבלת { -brand-name-firefox }
 navigation-get-firefox-focus = קבלת { -brand-name-firefox-focus }
 navigation-android-extensions = הרחבות ל־{ -brand-name-android }

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
 
+whatsnew-page-title = מה חדש ב־{ -brand-name-firefox } - יותר פרטיות, יותר הגנות.
+whatsnew-out-of-date-notification = זמינה גרסה חדשה יותר של { -brand-name-firefox-browser }. יש להפעיל מחדש כדי לעדכן.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = ניתן לקרוא את <a href="{ $url }">הערות השחרור</a> כדי לקבל מידע נוסף על מה שחדש בדפדפן ה־{ -brand-name-firefox } שלך.

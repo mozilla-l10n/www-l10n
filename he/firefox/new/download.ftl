@@ -20,6 +20,7 @@ firefox-new-download-firefox-for-macos = הורדת { -brand-name-firefox } <br>
 firefox-new-download-firefox-for-linux = הורדת { -brand-name-firefox } <br>עבור { -brand-name-linux }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-new-youve-already-got-the-browser = קיבלת כבר את הדפדפן. עכשיו ניתן לקבל אפילו יותר מ־{ -brand-name-firefox }.
+firefox-new-get-more-from-firefox = קבלו עוד מ־{ -brand-name-firefox }
 firefox-new-free-web-browser = דפדפן אינטרנט חינמי
 firefox-new-advanced-install-options = אפשרויות התקנה מתקדמות ופלטפורמות אחרות
 firefox-new-download-in-another-language = הורדה בשפה אחרת
