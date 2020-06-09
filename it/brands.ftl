@@ -42,7 +42,11 @@
 
 -brand-name-beta = Beta
 -brand-name-developer-edition = Developer Edition
--brand-name-enterprise = Enterprise
+-brand-name-enterprise =
+    { $role ->
+       *[standalone] Aziende
+        [adjective] aziendali
+    }
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-lite = Lite
