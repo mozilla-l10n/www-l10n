@@ -18,13 +18,13 @@ firefox-browsers-mobile = Mobil
 firefox-browsers-take-the-same-level-of-privacy = Tag beskyttelse af dit privatliv, adgangskoder, søgehistorik og åbne faneblade med dig, uanset hvor du er.
 firefox-browsers-download-for-mobile = Hent til mobil
 firefox-browsers-send-me-a-link = Send mig et link
-firefox-browsers-enterprise = For virksomheder
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Få enestående data-beskyttelse med support-perioder, der svarer til din virksomheds behov.
-firefox-browsers-enterprise-packages = Virksomheds-pakker
+firefox-browsers-enterprise-packages = { -brand-name-enterprise }-pakker
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Gå et skridt længere med oplevelser i 3-D.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Byg websteder og gør din kode endnu bedre med <strong>{ -brand-name-devtools }</strong>
+firefox-browsers-build-sites-and-refine-your = Byg websteder og gør din kode endnu bedre med { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Læs mere om { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Slut dig til { -brand-name-firefox } og få mest muligt ud af alle produkterne - på tværs af enheder.
 # Variables:
