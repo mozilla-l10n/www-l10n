@@ -18,9 +18,9 @@ firefox-browsers-mobile = Mobile
 firefox-browsers-take-the-same-level-of-privacy = Gardez le même niveau de protection de votre vie privée, ainsi que vos mots de passe, historique, onglets ouverts, etc — toujours avec vous, peu importe où vous êtes.
 firefox-browsers-download-for-mobile = Télécharger pour mobile
 firefox-browsers-send-me-a-link = M’envoyer un lien
-firefox-browsers-enterprise = Entreprise
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Bénéficiez d’une protection incomparable de vos données avec des phases de soutien adaptées aux besoins de votre entreprise.
-firefox-browsers-enterprise-packages = Offres entreprises
+firefox-browsers-enterprise-packages = Offres { -brand-name-enterprise(role: "plural-lower") }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Regardez au-delà de la réalité, et profitez du meilleur contenu immersif accessible partout sur le Web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
