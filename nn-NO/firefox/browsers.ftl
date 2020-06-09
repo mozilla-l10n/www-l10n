@@ -15,6 +15,7 @@ firefox-browsers-desktop = Datamaskin
 firefox-browsers-seriously-private-browsing = Seriøs privat surfing. { -brand-name-firefox } blokkerer automatisk over 2000 sporfølgjarar frå å samle informasjon om det du gjer på nettet.
 firefox-browsers-download-for-desktop = Last ned for datamaskin
 firefox-browsers-mobile = Mobil
+firefox-browsers-take-the-same-level-of-privacy = Ta same nivå av personvern-sikring — pluss passord, søkjehistorikk og opne faner — med deg uansett kvar du er.
 firefox-browsers-download-for-mobile = Last ned for mobil
 firefox-browsers-send-me-a-link = Send meg ei lenke
 firefox-browsers-enterprise = { -brand-name-enterprise }
