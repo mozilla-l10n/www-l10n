@@ -18,10 +18,18 @@ firefox-browsers-mobile = Mobil
 firefox-browsers-download-for-mobile = Last ned for mobil
 firefox-browsers-send-me-a-link = Send meg en lenke
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = Få enestående databeskyttelse med support-perioder tilpasset etter virksomhetens behov.
 firefox-browsers-enterprise-packages = { -brand-name-enterprise }-pakker
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Gå utover to dimensjoner og nyt det beste oppslukende innholdet fra hele nettet.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-build-sites-and-refine-your = Bygg nettsteder og gjør koden din ennå bedre med { -brand-name-firefox }<strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Les mer om { -brand-name-devtools }
+firefox-browsers-join-firefox-and-get-the-most = Bli med i { -brand-name-firefox } og få mest mulig ut av hvert produkt — på alle enheter.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign = Har du allerede en konto? <a { $fxa_attr }>Logg inn</a> eller <a { $accounts_attr }>les mer</a> om å bli med i Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
