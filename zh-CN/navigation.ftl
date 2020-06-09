@@ -4,15 +4,15 @@
 
 navigation-download-firefox = 下载 { -brand-name-firefox }
 navigation-get-a-firefox-account = 获取 { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } 浏览器桌面版
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser }桌面版
 navigation-get-the-browser-that-respects = 让您在 { -brand-name-windows }、{ -brand-name-mac } 或 { -brand-name-linux } 上网时更隐私。
-navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } 浏览器移动版
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser }移动版
 navigation-take-speed-privacy-and = 带上速度、隐私和心安。提供 { -brand-name-android } 与 { -brand-name-ios } 版本。
 navigation-download-for-ios = 下载 { -brand-name-ios } 版
 navigation-download-for-android = 下载 { -brand-name-android } 版
 navigation-ios-support = { -brand-name-ios } 版技术支持
 navigation-android-support = { -brand-name-android } 版技术支持
-navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } 浏览器企业版
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser }企业版
 navigation-strap-on-your-goggles = 戴上您的 VR 眼镜，使用 { -brand-name-firefox-browser } VR 浏览器进入沉浸式网络体验。
 navigation-firefox-for-fire-tv = { -brand-name-firefox } for { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = 使用您的 { -brand-name-amazon } { -brand-name-fire-tv } 观看视频、浏览网页。
