@@ -18,6 +18,7 @@ firefox-browsers-mobile = Mobil
 firefox-browsers-download-for-mobile = Last ned for mobil
 firefox-browsers-send-me-a-link = Send meg ei lenke
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = Få eineståande datavern med support-periodar tilpassa etter behovet til verksemda.
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = Les meir om { -brand-name-devtools }
 firefox-browsers-android = { -brand-name-android }
