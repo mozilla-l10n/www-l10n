@@ -33,3 +33,8 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Oppdag det beste innhaldet på nettet — lagre det og sjå det når og kvar du vil.
 firefox-products-get-pocket = Hent { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Les meir om { -brand-name-pocket }
+firefox-products-join-firefox-and-get-the-most = Ver med i { -brand-name-firefox } og få mest mogleg ut av kvart produkt — på alle einingar.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = Har du allereie ein konto? <a { $fxa_attr }>Logg inn</a> eller <a { $accounts_attr }>les meir</a> om å bli med i { -brand-name-firefox }.
