@@ -18,14 +18,14 @@ firefox-browsers-mobile = Mobile
 firefox-browsers-take-the-same-level-of-privacy = Porta con te lo stesso livello di privacy, oltre a password, cronologia delle ricerche, schede aperte e altro ancora, ovunque tu vada.
 firefox-browsers-download-for-mobile = Scaricalo per dispositivo mobile
 firefox-browsers-send-me-a-link = Inviami il link
-firefox-browsers-enterprise = { -brand-name-enterprise }Aziende
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Scopri una protezione dati incomparabile, con cicli di assistenza su misura per le esigenze della tua azienda.
-firefox-browsers-enterprise-packages = Pacchetti aziendali
+firefox-browsers-enterprise-packages = Pacchetti { -brand-name-enterprise(role: "adj-plural") }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Avventurati oltre le due dimensioni e scopri i migliori contenuti immersivi del Web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Realizza siti web e perfeziona il codice con gli <strong>strumenti</strong> di sviluppo di { -brand-name-firefox }
-firefox-browsers-learn-more-about-devtools = Maggiori informazioni sugli strumenti di sviluppo
+firefox-browsers-build-sites-and-refine-your = Realizza siti web e perfeziona il codice con gli <strong>{ -brand-name-devtools(type: "ita-lowercase") }</strong> di { -brand-name-firefox }
+firefox-browsers-learn-more-about-devtools = Maggiori informazioni sugli { -brand-name-devtools(type: "ita-lowercase") }
 firefox-browsers-join-firefox-and-get-the-most = Unisciti a { -brand-name-firefox } per sfruttare al massimo ogni prodotto, su tutti i tuoi dispositivi.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

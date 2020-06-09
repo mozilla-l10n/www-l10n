@@ -45,7 +45,8 @@
 -brand-name-enterprise =
     { $role ->
        *[standalone] Aziende
-        [adjective] aziendali
+        [adj-plural] aziendali
+        [adj-singular] aziendale
     }
 -brand-name-esr = ESR
 -brand-name-focus = Focus
@@ -74,7 +75,12 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
+-brand-name-devtools =
+    { $type ->
+       *[eng] DevTools
+        [ita-lowercase] strumenti di sviluppo
+        [ita-uppercase] Strumenti di sviluppo
+    }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
