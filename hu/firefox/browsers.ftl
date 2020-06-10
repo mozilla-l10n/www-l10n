@@ -8,7 +8,7 @@
 # HTML page title
 firefox-browsers-get-the-browsers-that-put = Szerezze be a böngészőket, melyek az adatvédelmet helyezik előtérbe – ahogy mindig is tették
 # HTML page description
-firefox-browsers-get-the-privacy-you-deserve = Szerezze meg a megérdemelt adatvédelmet. A továbbfejlesztett követésvédelem automatikus minden egyes { -brand-name-firefox } böngészőben.
+firefox-browsers-get-the-privacy-you-deserve = Szerezze meg a megérdemelt adatvédelmet. A fokozott követés elleni védelem automatikus minden egyes { -brand-name-firefox } böngészőben.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Kapja meg azokat a <strong>böngészőket</strong>, melyek az adatvédelmet helyezik előtérbe – ahogy mindig is.
 firefox-browsers-desktop = Asztali
