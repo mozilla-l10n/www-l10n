@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-desktop = Жұмыс үстелі
+firefox-home-browsers = Браузерлер
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }

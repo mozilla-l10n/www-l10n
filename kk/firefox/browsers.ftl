@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
+firefox-browsers-download-for-desktop = Жүктеу немесе жүктеп алу
+firefox-browsers-mobile = Мобильді
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
