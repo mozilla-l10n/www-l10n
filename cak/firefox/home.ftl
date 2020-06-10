@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Tajala' clickbait rik'in utziläj rupam
 firefox-home-learn-more-about-pocket = Tetamäx ch'aqa' chik chi rij { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Jun tikirisanïk molojri'ïl. Ronojel ri awokisab'al. Jun ach'ala'il taq tikojil nikikamelaj ri <strong>awichinanem</strong>.
+firefox-home-join-firefox = Tatunu' awi' rik'in { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Tawetamaj ch'aqa' chik pa ruwi' ri natun awi' pa { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Tik'ul ri ruk'amal okik'amaya'l
 firefox-home-get-the-facebook-container = Tik'ul ri ruk'amal Ruk'wayöl Facebook

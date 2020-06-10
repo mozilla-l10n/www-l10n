@@ -9,6 +9,7 @@
 ## Required
 
 installer-help-page-title = Xq'at ri aqasanik
+installer-help-main-tagline = Jutaqil nik'ulwachitäj ri'. Tiqatojtob'ej jun chik rub'eyal.
 
 ##
 
