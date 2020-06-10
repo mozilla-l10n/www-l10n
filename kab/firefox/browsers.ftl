@@ -18,10 +18,10 @@ firefox-browsers-mobile = Aziraz
 firefox-browsers-take-the-same-level-of-privacy = Awi aswir-nni n tbaḍnit s timmad-is — akked wawalen-ik uffiren, azray n unadi, iccaren yeldin d wayen-nniḍen — yid-k, sekra wanida teddiḍ.
 firefox-browsers-download-for-mobile = Sader i uziraz
 firefox-browsers-send-me-a-link = Azen-iyi-d aseɣwen
-firefox-browsers-enterprise = Takebbanit
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Awi ammesten n yisefka ur imṣadan ara akked twala yettwafeṣlen akken ad ternu ɣef wayen teḥwaǧ tkebbanit-ik.
-firefox-browsers-enterprise-packages = Ikemmusen i tkebbanit
-firefox-browsers-reality = Tilawt
+firefox-browsers-enterprise-packages = Ikemmusen { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Ddu akkin i snat n tsektiwin tfaṛseḍ agbur yufraren asdukklan deg web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Bnu ismal rnu seggem tangalt-ik akked { -brand-name-firefox } <strong> { -brand-name-devtools } </strong>
