@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Llwytho { -brand-name-firefox } i Lawr
-navigation-get-a-firefox-account = Creu Cyfrif Firefox
+navigation-get-a-firefox-account = Creu { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } ar gyfer y Bwrdd Gwaith
 navigation-get-the-browser-that-respects = Defnyddiwch y porwr sy'n parchu'ch preifatrwydd yn awtomatig. Ar { -brand-name-windows }, { -brand-name-mac } neu { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } ar gyfer y Symudol

@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Mae ffordd o ddiogelu eich preifatrwydd. Ymunwch â { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Defnyddiwch Gyfrif Firefox - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
+firefox-accounts-get-a-firefox-account = Defnyddiwch { -brand-name-firefox-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich data i drydydd partïon. Byddwch yn graff a diogel ar-lein gyda thechnoleg sydd o'ch plaid.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar draws eich holl ddyfeisiau. Defnyddiwch Gyfrif Firefox nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
+firefox-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar draws eich holl ddyfeisiau. Defnyddiwch { -brand-name-firefox-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Mae yna ffordd o ddiogelu eich preifatrwydd. <span>Ymunwch â { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

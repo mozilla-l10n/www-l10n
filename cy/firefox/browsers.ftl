@@ -18,10 +18,10 @@ firefox-browsers-mobile = Symudol
 firefox-browsers-take-the-same-level-of-privacy = Ewch â'r un lefel o breifatrwydd - ynghyd â'ch cyfrineiriau, hanes chwilio, tabiau agored a mwy - gyda chi ble bynnag yr ewch.
 firefox-browsers-download-for-mobile = Llwytho i lawr ar gyfer iOS
 firefox-browsers-send-me-a-link = Anfonwch ddolen ata i
-firefox-browsers-enterprise = Menter
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Sicrhewch ddiogelwch data digymar gyda chylchoedd cymorth wedi'u teilwra i weddu i anghenion eich cwmni.
-firefox-browsers-enterprise-packages = Pecynnau menter
-firefox-browsers-reality = Realiti
+firefox-browsers-enterprise-packages = Pecynnau { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Ewch y tu hwnt i ddau ddimensiwn a mwynhewch y cynnwys trochi gorau o bob cwr o'r we.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Adeiladwch wefannau a mireinio'ch cod gyda <strong>{ -brand-name-devtools }</strong> { -brand-name-firefox }

@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = Gosodwyr 64-did
 firefox-all-choose-a-64-bit-installer = Dewiswch osodwr 64-did ar gyfer cyfrifiaduron â phroseswyr 64-did, sy'n eu galluogi i ddyrannu mwy o RAM i raglenni unigol - yn arbennig o bwysig ar gyfer gemau a rhaglenni heriol eraill.
 firefox-all-32-bit-installers = Gosodwyr 32-did
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Llwythwch y Porwr Firefox Cymraeg i Lawr neu mewn mwy na 90 o ieithoedd eraill
+firefox-all-download-the-firefox = Llwythwch y { -brand-name-firefox-browser } Cymraeg i Lawr neu mewn mwy na 90 o ieithoedd eraill
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'r un iaith fod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu'r Porwr Firefox mewn mwy na 90 o ieithoedd.
-firefox-all-choose-which-firefox = Dewiswch pa Borwr Firefox i'w lwytho i lawr yn eich iaith
+firefox-all-everyone-deserves-access = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'r un iaith fod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu { -brand-name-firefox-browser } mewn mwy na 90 o ieithoedd.
+firefox-all-choose-which-firefox = Dewiswch pa { -brand-name-firefox-browser } i'w lwytho i lawr yn eich iaith
 firefox-all-firefox-privacy-notice = Hysbysiad Preifatrwydd { -brand-name-firefox }
 firefox-all-learn-about-firefox = Dysgwch am borwyr { -brand-name-firefox }
 firefox-all-the-standard-firefox = Y porwr { -brand-name-firefox } safonol - yn gyflym ac yn breifat. Os nad ydych yn siŵr pa { -brand-name-firefox } i ddewis, dewiswch hwn.
 firefox-all-get-a-sneak-peek-at = Cael golwg ar nodweddion y porwr { -brand-name-firefox } diweddaraf cyn iddyn nhw gael eu rhyddhau.
 firefox-all-test-your-sites-against = Profwch eich gwefannau yn erbyn nodweddion i'w ryddhau'n fuan y porwr { -brand-name-firefox } gyda DevTools pwerus, hyblyg sydd ar gael drwy ragosodiad.
 firefox-all-count-on-stability-and = Gallwch ddibynnu ar sefydlogrwydd a rhwyddineb defnydd gyda'r porwr { -brand-name-firefox } hwn wedi'i adeiladu ar gyfer menter.
-firefox-all-windows-installers-for = Gosodwyr Windows ar gyfer TG corfforaethol sy'n symleiddio'r ffurfweddiad, darpariaeth a rheoli'r Porwr Firefox.
+firefox-all-windows-installers-for = Gosodwyr Windows ar gyfer TG corfforaethol sy'n symleiddio'r ffurfweddiad, darpariaeth a rheoli'r { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Dewiswch osodwr 32-did ar gyfer cyfrifiaduron gyda phroseswyr 32-did - neu ar gyfer cyfrifiaduron hŷn neu lai pwerus. <a href="{ $url }">Os nad ydych yn siŵr</a> a ydych am ddewis gosodwr 64-did neu 32-did, rydym yn argymell eich bod yn mynd am y 32-did.
