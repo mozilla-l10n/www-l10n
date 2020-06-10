@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = I dat ina via per proteger tia sfera privata. Dovra { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Va per in conto da Firefox – guarda che tias datas restian privatas, segiras e sincronisadas
+firefox-accounts-get-a-firefox-account = Va per in { -brand-name-firefox-account } – guarda che tias datas restian privatas, segiras e sincronisadas
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Ta defenda cunter ina industria che venda tias datas a terzas partidas. Fa diever da tecnologias che ta correspundan e ta protegian online.
 # Old HTML page description
