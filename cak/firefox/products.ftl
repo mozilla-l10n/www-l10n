@@ -9,7 +9,10 @@
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } man choj ta jun okik'amaya'l
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Jun jalajöj tikojil, ri enuk'un richin ye'ojqäx na'owinäq taq na'oj chuqa' richin yalan nachajij awi' pa k'amab'ey.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } jun <strong>man choj ta</strong> chi okik'amaya'l
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-see-if-your-personal-information = Tanik'oj we ri awetamab'al nilitäj pa jun kitz'ilanem ajmoloj taq tzij chuqa' tatz'ib'aj awi' richin ye'ak'ül rutzijol taq k'ayewal ri chwa'q kab'ij.
 firefox-products-check-for-breaches = Ke'akanoj taq tz'ilanem
 firefox-products-sign-up-for-breach-alerts = Tatz'ib'aj awi' richin ye'ak'ül kitzijol k'ayewal
 firefox-products-firefox-browsers = { -brand-name-firefox } okik'amaya'l
