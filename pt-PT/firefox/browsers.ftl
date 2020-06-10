@@ -18,10 +18,10 @@ firefox-browsers-mobile = Móvel
 firefox-browsers-take-the-same-level-of-privacy = Leve o mesmo nível de privacidade — mais as suas palavras-passe, histórico de transferências, separadores abertos, etc. — consigo onde quer que vá.
 firefox-browsers-download-for-mobile = Transferir para dispositivo móvel
 firefox-browsers-send-me-a-link = Enviar uma ligação
-firefox-browsers-enterprise = Empresas
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Obtenha proteção de dados inigualável com ciclos de suporte dimensionados para se adaptar às necessidades da sua empresa.
-firefox-browsers-enterprise-packages = Pacotes empresariais
-firefox-browsers-reality = Realidade
+firefox-browsers-enterprise-packages = Pacotes { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Vá para além das duas dimensões e desfrute do melhor conteúdo imersivo da Internet.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Crie sites e refine o seu código com as { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
