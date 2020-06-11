@@ -24,15 +24,15 @@ firefox-all-32-bit-installers = 32-bit yakonela'
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Taqasaj ri { -brand-name-firefox-browser } pa Q'anchi' (US) chuqa' 90 chik taq ch'ab'äl
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Konojel ütz ye'ok pa k'amaya'l — man ta niq'aton ri ach'ab'äl. Ruma ri' — rik'in kito'ik to'onela' chi jun ri ruwach'ulew — qelesan pe rokisaxik ri Firefox Okik'amaya'l pa 90 taq ch'ab'äl.
-firefox-all-choose-which-firefox = Tacha' achike Firefox Okik'amaya'l nawajo' naqasaj pan ach'ab'äl
+firefox-all-everyone-deserves-access = Konojel ütz ye'ok pa k'amaya'l — man ta niq'aton ri ach'ab'äl. Ruma ri' — rik'in kito'ik to'onela' chi jun ri ruwach'ulew — qelesan pe rokisaxik ri { -brand-name-firefox-browser } pa 90 taq ch'ab'äl.
+firefox-all-choose-which-firefox = Tacha' achike { -brand-name-firefox-browser } nawajo' naqasaj pan ach'ab'äl
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } Ichinan Rutzijol
 firefox-all-learn-about-firefox = Tetamäx ch'aqa' chik chi kij ri { -brand-name-firefox } taq okik'amaya'l
 firefox-all-the-standard-firefox = Ri pa rub'eyal { -brand-name-firefox } okik'amaya'l — aninäq chuqa' ichinan. We man at jikïl achike chi { -brand-name-firefox } nacha', tacha' re re'.
 firefox-all-get-a-sneak-peek-at = Ke'atz'eta' ri ruk'isib'äl taq rusamaj ri { -brand-name-firefox } okik'amaya'l chuwäch xtel rutzijol.
 firefox-all-test-your-sites-against = Tanik'oj chi nuk'äm ri' ri taq ruxaq rik'in ri rub'anikil { -brand-name-firefox } okik'amaya'l, ri xtel yan pe, rik'in ri nïm ruchuq'a' chuqa' jalel DevTools tzijon wi pe.
 firefox-all-count-on-stability-and = Tak'owisaj ak'u'x rik'in ri raxnaqil chuqa' man k'ayew ta rokisaxik re { -brand-name-firefox } okik'amaya'l re', nuk'un kichin taq ajk'aymoloj.
-firefox-all-windows-installers-for = Ri Windows yakonela' kichin TI ajk'aymolojil nikich'utinisaj ri runuk'ulem, rurik'ik chuqa' ri runuk'samaj ri Firefox Okik'amaya'l.
+firefox-all-windows-installers-for = Ri Windows yakonela' kichin TI ajk'aymolojil nikich'utinisaj ri runuk'ulem, rurik'ik chuqa' ri runuk'samaj ri { -brand-name-firefox-browser }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tacha' jun 32-bit yakonel kichin kematz'ib' rik'in 32-bit xenab'ab'äl — o ojer taq samajib'äl o man kan ta k'o kuchuq'a'. <a href="{ $url }">We man awetaman ta</a> we nacha' chi kikojol 64-bit o 32-bit yakonel, niqachilab'ej chi tacha' ri 32-bit.

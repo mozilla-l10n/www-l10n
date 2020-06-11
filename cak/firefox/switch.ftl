@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Ri jaloj pa { -brand-name-firefox
 switch-select-what-to-take = Ticha' achike nichap el pa { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Tiya' q'ij chi re ri { -brand-name-firefox } nub'än ri ch'aqa' chik.
 switch-use-firefox-and-still-chrome = Yatikïr nawokisaj { -brand-name-firefox } chuqa' k'o awik'in ri { -brand-name-chrome }. Ri { -brand-name-chrome } majun b'it xtijalwachitäj chi re.
+switch-spread-the-word = Tasik'ij el rij ri { -brand-name-firefox } chuqa' ke'ato' ri awachib'il richin nikib'ij kan yojch'o chik chi re { -brand-name-chrome }.
 switch-share-with-your-friends = Takomonij kik'in ri awachib'il ri rub'eyal najäl rik'in ri { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } nub'än chi nijal ri { -brand-name-chrome } anin nib'anatäj. ¡Tatojtob'ej!
 switch-switch-to-firefox = Tijal rik'in { -brand-name-firefox }

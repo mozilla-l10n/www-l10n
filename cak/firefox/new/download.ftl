@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = Taqasaj { -brand-name-firefox }
-firefox-new-download-mozilla-firefox = Taqasaj { -brand-name-mozilla } { -brand-name-firefox }, jun sipan okik'amaya'l. { -brand-name-firefox } nuk'un ruma jun ajronojel moloj ri majun ch'akoj rutzeqelib'en, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Wakami tak'ulu' { -brand-name-firefox } richin { -brand-name-windows } MacOS, { -brand-name-linux }, { -brand-name-android } chuqa' { -brand-name-ios }!
+firefox-new-download-mozilla-firefox = Taqasaj { -brand-name-mozilla } { -brand-name-firefox }, jun jaqäl chuqa' sipan Ajk'amaya'l okik'amaya'l. { -brand-name-firefox } nuk'un ruma jun ajronojel moloj ri majun ch'akoj rutzeqelib'en, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Wakami tak'ulu' { -brand-name-firefox } richin { -brand-name-windows } { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } chuqa' { -brand-name-ios }!
 firefox-new-download-the-fastest-firefox = Tiqasäx ri { -brand-name-firefox }, ri yalan aninäq majub'ey titz'et
 firefox-new-faster-page-loading-less-memory = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox }.
 firefox-new-automatic-privacy-is-here = Wawe' k'o ri yonil ichinanem. Taqasaj ri { -brand-name-firefox } richin ye'aq'ät 2000 ojqanela'.
