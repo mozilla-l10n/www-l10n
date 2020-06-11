@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Taqasaj { -brand-name-firefox }
-navigation-get-a-firefox-account = Tik'ul jun Rub'i' Rutaqoya'l Firefox
-navigation-firefox-browser-for-desktop = Firefox Okik'amaya'l richin Kematz'ib'ab'äl
+navigation-get-a-firefox-account = Tik'ul jun { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } richin Kematz'ib'
 navigation-get-the-browser-that-respects = Tak'ulu' ri okik'amaya'l pa ruyonil nukamelaj ri awichinanem. Richin { -brand-name-windows }, { -brand-name-mac } o { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Firefox Okik'amaya'l richin Oyonib'äl
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } richin Oyonib'äl
 navigation-take-speed-privacy-and = Tak'waj ri aninem, ichinanem chuqa' ri uxlanem k'u'x xab'akuchi' yab'e. Richin { -brand-name-android } chuqa' { -brand-name-ios }.
 navigation-download-for-ios = Tiqasäx richin { -brand-name-ios }
 navigation-download-for-android = Tiqasäx richin { -brand-name-android }
