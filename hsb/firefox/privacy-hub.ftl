@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Slubjenje priwatnosće { -brand-name-firefox }
 # Sub navigation title
 firefox-privacy-privacy = Priwatnosć
 # Sub navigation link
@@ -12,6 +14,7 @@ firefox-privacy-our-promise = Naše slubjenje
 # Sub navigation link
 firefox-privacy-our-products = Naše produkty
 firefox-privacy-hub-take-less = Mjenje hromadźić
+firefox-privacy-hub-we-make-a-point-of-knowing = Je naša zasada, mjenje wo was wědźeć
 firefox-privacy-hub-keep-it-safe = Wěsće wobchować
 firefox-privacy-hub-no-secrets = Žane potajnstwa
 firefox-privacy-hub-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?

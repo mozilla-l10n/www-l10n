@@ -14,6 +14,7 @@ lockwise-install-for-firefox = Za { -brand-name-firefox } instalować
 lockwise-open-in-firefox = W { -brand-name-firefox } wočinić
 lockwise-only-in-the-firefox-browser = Jenož w { -brand-name-firefox-browser }
 lockwise-your-privacy-comes-first = Priwatnosć ma najwyšu prioritu.
+lockwise-we-keep-your-data-safe = Dźeržimy waše daty wěste a njepředamy je ženje.
 lockwise-support = Pomoc
 lockwise-your-privacy = Waša priwatnosć
 lockwise-github = { -brand-name-github }
