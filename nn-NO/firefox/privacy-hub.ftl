@@ -11,6 +11,7 @@ firefox-privacy-privacy = Personvern
 firefox-privacy-our-promise = Løftet vårt
 # Sub navigation link
 firefox-privacy-our-products = Produkta våre
+firefox-privacy-hub-all-tech-companies-collect = Alle teknologiselskaper samlar inn data for å forbedtre produkta sine. Men det treng ikkje å inkludere så mykje av den personlege informasjonen din. Dei einaste dataa vi ønsjker er dei dataa som tenar deg til slutt. Vi spør oss sjølve: trenge vi dette eigentleg? Kva treng vi det til? Og når kan vi slette det?
 firefox-privacy-hub-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 firefox-privacy-hub-learn-more-about-our-mission = Les meir om oppdraget vårt
 firefox-privacy-hub-learn-about-our-products = Les meir om produkta våre
