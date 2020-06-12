@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+firefox-accounts-there-is-a-way-to = راهی برای محافظت از حریم خصوصی شما وجود دارد. به { -brand-name-firefox } بپیوندید.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
