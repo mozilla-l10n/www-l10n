@@ -36,6 +36,7 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } besk
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>beskyttar</strong> personvernet ditt i kvart produkt.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Over 2000 sporarar blokkerte — automatisk
+firefox-privacy-hub-see-what-firefox-has-blocked = Sjå kva { -brand-name-firefox } har blokkert for deg
 firefox-privacy-hub-update-your-firefox-browser = Oppdater { -brand-name-firefox }-nettlesaren din
 firefox-privacy-hub-invisible-to-the-top-trackers = Usynleg for dei største sporarane
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
