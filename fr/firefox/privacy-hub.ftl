@@ -42,7 +42,7 @@ firefox-privacy-hub-learn-about-our-products = En savoir plus sur nos produits
 firefox-privacy-hub-firefox-privacy-by-the = Le respect de la vie privée selon { -brand-name-firefox }, produit par produit
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protège votre vie privée dans chacun de ses produits.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protège</strong> votre vie privée dans chacun de ses produits
-firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Plus de 2 000 traqueurs bloqués automatiquement
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Le pistage en ligne est devenu un fléau : les entreprises traquent vos moindres clics et chacun de vos achats afin de recueillir des données qui servent à prédire votre comportement. Nous pensons que c’est une violation de votre vie privée. C’est pour cette raison que les navigateurs { -brand-name-firefox } pour ordinateur et mobile disposent d’une protection renforcée contre le pistage, activée par défaut.
@@ -57,7 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Découvrez les quatre catégo
 firefox-privacy-hub-always-in-your-control = Gardez le contrôle
 firefox-privacy-hub-want-to-customize-what = Vous souhaitez choisir vous-même ce qui doit être bloqué ? Pas de souci, vos paramètres sont à portée de clic.
 firefox-privacy-hub-protection-beyond-tracking = Une protection au-delà du pistage
-firefox-privacy-hub-if-you-have-a-firefox-account = Si vous disposez d’un compte Firefox, vous pouvez également voir comment nous vous aidons à protéger vos informations personnelles et vos mots de passe.
+firefox-privacy-hub-if-you-have-a-firefox-account = Si vous disposez d’un { -brand-name-firefox-account }, vous pouvez également voir comment nous vous aidons à protéger vos informations personnelles et vos mots de passe.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Plus de { $trackers } de traqueurs bloqués chaque jour pour l’ensemble des utilisateurs de { -brand-name-firefox } dans le monde entier
@@ -73,9 +73,9 @@ firefox-privacy-hub-send-a-file = Envoyer un fichier
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recommande du contenu de grande qualité sélectionné avec soin, sans recueillir votre historique de navigation ni partager vos informations personnelles avec les annonceurs.
 firefox-privacy-hub-get-pocket = Installer { -brand-name-pocket }
-firefox-privacy-hub-your-firefox-account = Votre compte Firefox
-firefox-privacy-hub-all-the-information-synced = Toutes les informations synchronisées via votre compte Firefox, de l’historique de navigation aux mots de passe, sont chiffrées. Votre mot de passe de compte est la seule clé.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Emportez vos mots de passe et vos marque-pages partout avec vous avec un compte Firefox.
+firefox-privacy-hub-your-firefox-account = Votre { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Toutes les informations synchronisées via votre { -brand-name-firefox-account }, de l’historique de navigation aux mots de passe, sont chiffrées. Votre mot de passe de compte est la seule clé.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Emportez vos mots de passe et vos marque-pages partout avec vous avec un { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
