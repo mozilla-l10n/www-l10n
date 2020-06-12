@@ -27,12 +27,34 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Nos empenhamos em proteger 
 firefox-privacy-hub-data-security-is-complicated = Segurança de dados é complicada — pelo menos deveria ser. É por isso que tomamos medidas adicionais para classificar os dados que temos, mantemos regras de como armazenamos e protegemos cada tipo de informação e nunca paramos na iteração de nossos processos. Priorizamos sua privacidade. Investimos nisso. Temos compromisso com isso. Até ensinamos outras empresas como fazer.
 firefox-privacy-hub-no-secrets = Sem segredos
 firefox-privacy-hub-youll-always-know-where-you = Você sempre sabe em que situação está conosco
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Aqui não há agenda oculta. Nosso negócio não depende de abusar secretamente de sua confiança. Nosso <a href="{ $privacy }">Aviso de privacidade</a> é realmente legível. Qualquer pessoa no mundo pode participar de nossas <a href="{ $meetings }">reuniões semanais da empresa</a>. Se quiser investigar cada elemento de dado que coletamos, nosso código é aberto. Nós também.
+firefox-privacy-hub-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Porque colocamos as pessoas em primeiro lugar. De fato, somos sustentados por uma <a href="{ $foundation }">entidade sem fins lucrativos</a>. Desde o primeiro dia, nossa missão é proteger a internet e todos os que nela estão.
 firefox-privacy-hub-learn-more-about-our-mission = Saiba mais sobre nossa missão
+firefox-privacy-hub-your-privacy-by-the-product = Respeito à sua privacidade em cada um de nossos produtos
+firefox-privacy-hub-firefox-products-work-differently = Os produtos { -brand-name-firefox } funcionam diferente, porque foram projetados em primeiro lugar para proteger sua privacidade.
 firefox-privacy-hub-learn-about-our-products = Conheça nossos produtos
+firefox-privacy-hub-firefox-privacy-by-the = Privacidade no { -brand-name-firefox }, em todos os produtos
 firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } protege sua privacidade em todos os produtos.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firefox } <strong>protege</strong> sua privacidade em todos os produtos.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Mais de 2.000 rastreadores bloqueados — automaticamente
+firefox-privacy-hub-see-what-firefox-has-blocked = Veja o que o { -brand-name-firefox } bloqueou para você
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Obtenha proteção aprimorada contra rastreamento
+firefox-privacy-hub-download-the-firefox-browser = Baixe o navegador { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Atualize seu navegador { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Invisível para os principais rastreadores
+firefox-privacy-hub-meet-four-of-the-most-common = Conheça quatro das categorias mais comuns de rastreadores — que não vão te encontrar.
+firefox-privacy-hub-always-in-your-control = Sempre sob seu controle
+firefox-privacy-hub-want-to-customize-what = Quer personalizar o que é bloqueado? Suas configurações estão a apenas um clique de distância.
+firefox-privacy-hub-protection-beyond-tracking = Proteção além do rastreamento
+firefox-privacy-hub-if-you-have-a-firefox-account = Se você tem uma { -brand-name-firefox-account }, também pode ver como estamos te ajudando a proteger suas senhas e informações pessoais.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Saiba mais sobre o { -brand-name-lockwise }
