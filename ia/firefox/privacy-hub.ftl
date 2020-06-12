@@ -32,6 +32,12 @@ firefox-privacy-hub-youll-always-know-where-you = Nos essera sempre transparente
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Il ha nulle agenda celate hic. Nostre negotios non depende de abusar secretemente de tu fide. Nostre <a href="{ $privacy }">Aviso de confidentialitate</a> es realmente legibile. Quicunque in le mundo pote esser presente a nostre <a href="{ $incontros }"> incontros septimanal del compania</a>. Si tu desira excavar in cata puncto de datos que nos collige, nostre codice es aperte. E assi es nos.
 firefox-privacy-hub-why-trust-firefox = Perque fider in { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Perque nos pone primo le personas. De facto, nos es supportate per un <a <t0/>href="{ $fundation }">organisation non-lucrative</a>. De facto, nos es supportate per un <a <t0/>href="{ $fundation }">organisation non-lucrative</a>. Desde le prime die, il ha essite nostre mission proteger internet e totes sur illo.
+firefox-privacy-hub-learn-more-about-our-mission = Saper plus re nostre mission
+firefox-privacy-hub-your-privacy-by-the-product = Tu confidentialitate, per producto
+firefox-privacy-hub-firefox-products-work-differently = Le productos { -brand-name-firefox } functiona differente, perque illos es designate primo pro proteger tu confidentialitate.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
