@@ -26,6 +26,7 @@ firefox-privacy-hub-keep-it-safe = Manter seguro
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Nos empenhamos em proteger suas informações pessoais
 firefox-privacy-hub-data-security-is-complicated = Segurança de dados é complicada — pelo menos deveria ser. É por isso que tomamos medidas adicionais para classificar os dados que temos, mantemos regras de como armazenamos e protegemos cada tipo de informação e nunca paramos na iteração de nossos processos. Priorizamos sua privacidade. Investimos nisso. Temos compromisso com isso. Até ensinamos outras empresas como fazer.
 firefox-privacy-hub-no-secrets = Sem segredos
+firefox-privacy-hub-youll-always-know-where-you = Você sempre sabe em que situação está conosco
 firefox-privacy-hub-learn-more-about-our-mission = Saiba mais sobre nossa missão
 firefox-privacy-hub-learn-about-our-products = Conheça nossos produtos
 firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } protege sua privacidade em todos os produtos.
