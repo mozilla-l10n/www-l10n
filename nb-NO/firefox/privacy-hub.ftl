@@ -60,6 +60,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Hvis du har en { -brand-name
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Mer enn { $trackers } sporere blokkerte hver dag for { -brand-name-firefox }-brukere over hele verden
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Når du oppgir e-postadressen din i { -brand-name-firefox-monitor }, glemmer vi den umiddelbart etter at vi har søkt etter et treff i kjente datalekkasjer — med mindre du godkjenner oss til å fortsette å se etter nye lekkasjer på dine personlige opplysninger.
 firefox-privacy-hub-check-for-breaches = Se etter datalekkasjer
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Passordene og legitimasjonene du lagrer i { -brand-name-firefox-lockwise } er kryptert på alle enhetene dine, så ikke engang vi kan se dem.
@@ -68,6 +69,7 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Vi kan ikke se navnene eller innholdet på de store filene du deler via { -brand-name-firefox-send } fordi de er kryptert med ende-til-ende-kryptering — du velger hvem som vil se hva du sender, og du kan til og med angi en utløpsdato og passord.
 firefox-privacy-hub-send-a-file = Send en fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } anbefaler høykvalitetsartikler, satt sammen av mennesker uten å samle inn surfehistorikken din eller dele din personlige informasjon med annonsører.
 firefox-privacy-hub-get-pocket = Hent { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Din { -brand-name-firefox-account }
 firefox-privacy-hub-all-the-information-synced = All informasjonen som er synkronisert gjennom { -brand-name-firefox-account } — fra nettleserhistorikk til passord — er kryptert. Og passordet ditt er den eneste nøkkelen.
