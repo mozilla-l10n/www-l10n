@@ -5,8 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Promissa de confidentialitate de { -brand-name-firefox }
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } prende minus datos, mantene los secur e con nulle secretos.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = Le productos { -brand-name-firefox } es designate pro proteger tu <strong>confidentialitate</strong>
 # Sub navigation title
 firefox-privacy-privacy = Confidentialitate
+# Sub navigation link
+firefox-privacy-our-promise = Nostre promissa
 # Sub navigation link
 firefox-privacy-our-products = Nostre productos
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
