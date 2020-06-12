@@ -5,8 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
+# HTML page title
+lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — gerenciador de senhas — tenha suas senhas em qualquer lugar
+# HTML page description
+lockwise-firefox-lockwise-lets-you = O { -brand-name-firefox-lockwise } permite acessar com segurança as senhas salvas no { -brand-name-firefox } em qualquer lugar — mesmo fora do navegador. Possui criptografia de 256 bits e reconhecimento de rosto ou toque.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
-lockwise-try-lockwise-now = Experimente o { -brand-name-lockwise } agora
+lockwise-take-your-passwords-everywhere = Tenha suas senhas em qualquer lugar
+lockwise-securely-access-the-passwords = Acesse com segurança as senhas que você salvou no { -brand-name-firefox } em qualquer lugar — mesmo fora do navegador.
+lockwise-try-lockwise-now = Experimente agora o { -brand-name-lockwise }
+lockwise-install-for-firefox = Instale no { -brand-name-firefox }
 lockwise-open-in-firefox = Abrir no { -brand-name-firefox }
 lockwise-your-privacy-comes-first = Sua privacidade em primeiro lugar.
 lockwise-we-keep-your-data-safe = Mantemos seus dados em segurança, nunca serão vendidos.

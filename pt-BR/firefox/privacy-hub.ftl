@@ -78,3 +78,6 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Leve sua privacidade e seu
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
 firefox-privacy-hub-already-have-an-account = Já tem uma conta? <a { $sign_in } class="{ $class_name }">Entre</a> ou <a href="{ $learn_more }">saiba mais</a> sobre o { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Leia o <a href="{ $url }">Aviso de privacidade</a> de nossos produtos
