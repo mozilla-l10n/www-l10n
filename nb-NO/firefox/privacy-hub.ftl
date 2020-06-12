@@ -36,12 +36,14 @@ firefox-privacy-hub-why-trust-firefox = Hvorfor skal du stole på { -brand-name-
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Fordi vi setter mennesker først. Faktisk er vi støttet av en <a href="{ $foundation }">ideel organisasjon</a>. Fra første dag har det vært vårt oppdrag å beskytte nette og alle som bruker det.
 firefox-privacy-hub-learn-more-about-our-mission = Les mer om oppdraget vårt
+firefox-privacy-hub-your-privacy-by-the-product = Personvern i hvert produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-produkter fungerer annerledes — fordi de er utviklet for å beskytte personvernet ditt først.
 firefox-privacy-hub-learn-about-our-products = Les mer om produktene våre
+firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } personvern i hvert produkt
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } beskytter personvernet ditt i hvert produkt.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>beskytter</strong> personvernet ditt i hvert produkt.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
-firefox-privacy-hub-2000-trackers-blocked-automatically = Over 2000 sporere blokkert — automatisk
+firefox-privacy-hub-2000-trackers-blocked-automatically = Over 2000 sporere blokkerte — automatisk
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Sporing har blitt en epidemi på nettet: selskaper følger hvert trekk, klikk og kjøp, samler inn data for å forutsi og påvirke hva du vil gjøre videre. Vi tror det er en grov invasjon av personvernet ditt. Det er derfor { -brand-name-firefox }-nettlesere for mobil og datamaskiner har utvidet sporingsbeskyttelse på som standard.
 firefox-privacy-hub-if-you-want-to-see-what = Hvis du vil se hva { -brand-name-firefox } blokkerer for deg, kan du gå til denne siden i { -brand-name-firefox }-nettleser for datamaskiner.
@@ -79,3 +81,6 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Ta med personvernet ditt o
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
 firefox-privacy-hub-already-have-an-account = Har du allerede en konto? <a { $sign_in } class="{ $class_name }">Logg inn</a> eller <a href="{ $learn_more }">les mer</a> om å bli med i { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Les <a href="{ $url }">personvernbestemmelser</a> for våre produkter
