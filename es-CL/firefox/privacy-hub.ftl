@@ -27,6 +27,9 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } prot
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protege</strong> tu privacidad en cada producto.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Más de 2.000 rastreadores bloqueados — automáticamente
+firefox-privacy-hub-see-what-firefox-has-blocked = Mira lo que { -brand-name-firefox } ha bloqueado por ti
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Obtén la protección de seguimiento mejorada
 firefox-privacy-hub-download-the-firefox-browser = Bajar el navegador { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Actualiza tu navegador { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Invisible para los mejores rastreadores
