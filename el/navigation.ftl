@@ -36,6 +36,7 @@ navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Sup
 navigation-mozilla-manifesto = Μανιφέστο της { -brand-name-mozilla }
 navigation-menu = Μενού
 navigation-check-out-the-benefits = Δείτε τα οφέλη
+navigation-browsers = Προγράμματα περιήγησης
 navigation-download = Λήψη
 navigation-extensions = Επεκτάσεις
 navigation-support = Υποστήριξη
