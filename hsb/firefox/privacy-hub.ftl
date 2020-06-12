@@ -22,11 +22,14 @@ firefox-privacy-hub-firefox-privacy-by-the = Priwatnosć { -brand-name-firefox }
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } wašu priwatnosć w kóždym produkće škita.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } wašu priwatnosć w kóždym produkće <strong>škita</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Přez 2.000 přesćěhowakow zablokowane – awtomatisce
 firefox-privacy-hub-see-what-firefox-has-blocked = Hladajće, štož { -brand-name-firefox } za was blokuje
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Polěpšeny slědowanski škit wobstarać
 firefox-privacy-hub-download-the-firefox-browser = Wobhladowak { -brand-name-firefox } sćahnyć
 firefox-privacy-hub-update-your-firefox-browser = Zaktualizujće swój wobhladowak { -brand-name-firefox }
+firefox-privacy-hub-always-in-your-control = Maće přeco kontrolu
+firefox-privacy-hub-protection-beyond-tracking = Wjace hač slědowanski škit
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Za dźěrami přepruwować
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
