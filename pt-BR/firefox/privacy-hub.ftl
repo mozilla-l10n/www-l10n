@@ -13,6 +13,7 @@ firefox-privacy-hub-firefox-products-are-designed = Os produtos { -brand-name-fi
 firefox-privacy-privacy = Privacidade
 # Sub navigation link
 firefox-privacy-our-products = Nossos produtos
+firefox-privacy-hub-you-should-be-able-to-decide = Você deve poder decidir quem vê suas informações pessoais. Não apenas entre seus amigos, mas também cada anunciante e empresa na internet, inclusive nós.
 firefox-privacy-hub-take-less = Coletar menos
 firefox-privacy-hub-keep-it-safe = Manter seguro
 firefox-privacy-hub-no-secrets = Sem segredos
@@ -26,3 +27,6 @@ firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Saiba mais sobre o { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Instale o { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = Sua { -brand-name-firefox-account }
