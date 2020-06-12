@@ -22,7 +22,15 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Insistimos en saber menos detal
 firefox-privacy-hub-keep-it-safe = Mantenerla segura
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Nos esforzamos para proteger tu información personal
 firefox-privacy-hub-no-secrets = Sin secretos
+firefox-privacy-hub-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Porque colocamos a las personas primero. De hecho, estamos respaldados por una <a href="{ $foundation }">fundación sin fines de lucro</a>. Desde el primer día, ha sido nuestra misión proteger al internet y a todos en el.
+firefox-privacy-hub-learn-more-about-our-mission = Aprender más sobre nuestra misión
+firefox-privacy-hub-your-privacy-by-the-product = Tu privacidad, producto a producto
+firefox-privacy-hub-firefox-products-work-differently = Los productos de { -brand-name-firefox } funcionan de forma distinta — porque están diseñados para proteger tu privacidad en primer lugar.
 firefox-privacy-hub-learn-about-our-products = Aprende sobre nuestros productos
+firefox-privacy-hub-firefox-privacy-by-the = Privacidad de { -brand-name-firefox }, producto a producto
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protege tu privacidad en cada producto.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protege</strong> tu privacidad en cada producto.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
@@ -48,3 +56,6 @@ firefox-privacy-hub-send-a-file = Enviar un archivo
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Obtener { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Tu { -brand-name-firefox-account }
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Lea la <a href="{ $url }">política de privacidad</a> para nuestros productos

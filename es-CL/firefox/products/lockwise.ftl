@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
+# HTML page title
+lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — administrador de contraseñas — lleva tus contraseñas a todas partes
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Lleva tus contraseñas a todas partes
+lockwise-securely-access-the-passwords = Accede de forma segura a contraseñas que has guardado en { -brand-name-firefox } desde cualquier parte — incluso fuera del navegador.
 lockwise-try-lockwise-now = Prueba { -brand-name-lockwise } ahora
 lockwise-install-for-firefox = Instalar para { -brand-name-firefox }
 lockwise-open-in-firefox = Abrir en { -brand-name-firefox }
