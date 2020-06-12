@@ -9,6 +9,8 @@
 ## Required
 
 installer-help-page-title = Η λήψη σας διακόπηκε
+installer-help-main-tagline = Αυτό συμβαίνει μερικές φορές. Ας δοκιμάσουμε κάτι διαφορετικό.
+installer-help-action-channel = Αυτή η λήψη θα είναι καλύτερη για εσάς.
 installer-help-action-choose = Επιλέξτε μια λήψη παρακάτω.
 
 ##

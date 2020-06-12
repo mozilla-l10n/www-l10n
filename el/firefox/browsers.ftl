@@ -9,6 +9,7 @@ firefox-browsers-desktop = Υπολογιστές
 firefox-browsers-download-for-desktop = Λήψη για υπολογιστή
 firefox-browsers-mobile = Κινητές συσκευές
 firefox-browsers-download-for-mobile = Λήψη για κινητή συσκευή
+firefox-browsers-send-me-a-link = Αποστολή συνδέσμου
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } πακέτα
 firefox-browsers-reality = { -brand-name-reality }

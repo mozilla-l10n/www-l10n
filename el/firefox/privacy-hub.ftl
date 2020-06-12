@@ -17,7 +17,13 @@ firefox-privacy-privacy = Απόρρητο
 firefox-privacy-our-promise = Η υπόσχεσή μας
 # Sub navigation link
 firefox-privacy-our-products = Τα προϊόντα μας
+firefox-privacy-hub-no-secrets = Χωρίς μυστικά
+firefox-privacy-hub-why-trust-firefox = Για να εμπιστευτώ το { -brand-name-firefox };
+firefox-privacy-hub-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
+firefox-privacy-hub-learn-about-our-products = Μάθετε για τα προϊόντα μας
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000+ αποκλεισμένοι ιχνηλάτες — αυτόματα
+firefox-privacy-hub-download-the-firefox-browser = Λήψη του προγράμματος περιήγησης { -brand-name-firefox }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
@@ -26,3 +32,11 @@ firefox-privacy-hub-send-a-file = Αποστολή αρχείου
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Λήψη { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ο { -brand-name-firefox-account } σας
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Έχετε ήδη λογαριασμό; <a { $sign_in } class="{ $class_name }">Συνδεθείτε</a> ή <a href="{ $learn_more }">μάθετε περισσότερα</a> σχετικά με τη συμμετοχή στο { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Διαβάστε τη <a href="{ $url }">Σημείωση απορρήτου</a> για τα προϊόντα μας
