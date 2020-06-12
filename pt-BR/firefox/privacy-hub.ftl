@@ -68,5 +68,13 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Não podemos ver o nome nem o conteúdo dos arquivos grandes que você compartilha através do { -brand-name-firefox-send } porque são criptografados de ponta a ponta — você escolhe quem consegue ver o que envia e pode até definir uma data de validade e uma senha.
 firefox-privacy-hub-send-a-file = Enviar um arquivo
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda artigos de alta qualidade com curadoria humana, sem coletar seu histórico de navegação nem compartilhar suas informações pessoais com anunciantes.
 firefox-privacy-hub-get-pocket = Instale o { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Sua { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Todas as informações sincronizadas através de sua { -brand-name-firefox-account } são criptografadas, desde o histórico de navegação até as senhas. A única chave de acesso é a senha da sua conta.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Leve sua privacidade e seus favoritos para qualquer lugar com uma { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Já tem uma conta? <a { $sign_in } class="{ $class_name }">Entre</a> ou <a href="{ $learn_more }">saiba mais</a> sobre o { -brand-name-firefox }.
