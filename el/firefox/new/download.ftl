@@ -13,6 +13,7 @@ firefox-new-automatic-privacy-is-here = Το αυτόματο απόρρητο �
 firefox-new-get-the-latest-firefox = Αποκτήστε το πιο πρόσφατο { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = Το { -brand-name-firefox } σας εμφανίζει πόσοι ιχνηλάτες συλλογής δεδομένων αποκλείονται με την <strong>Ενισχυμένη προστασία από καταγραφή</strong>.
 firefox-new-firefox-lockwise-makes-secure = Το <strong>{ -brand-name-firefox-lockwise }</strong> συγχρονίζει με ασφάλεια τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox } σε όλες τις συσκευές σας.
+firefox-new-firefox-monitor-alerts = Το <strong>{ -brand-name-firefox-monitor }</strong> σας ενημερώνει αν οι πληροφορίες σας διαρρεύσουν εξαιτίας της παραβίασης δεδομένων κάποιας εταιρίας.
 firefox-new-join-firefox = Γίνετε μέλος του { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = Το <strong>{ -brand-name-firefox-lockwise }</strong> κάνει διαθέσιμους σε όλες σας τις συσκευές τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
@@ -21,6 +22,7 @@ firefox-new-download-firefox-for-macos = Λήψη του { -brand-name-firefox }
 firefox-new-download-firefox-for-linux = Λήψη του { -brand-name-firefox } <br>για { -brand-name-linux }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-new-youve-already-got-the-browser = Έχετε ήδη το πρόγραμμα περιήγησης. Ωφεληθείτε ακόμη περισσότερο από το { -brand-name-firefox }.
+firefox-new-watch-for-hackers-with = Παρακολουθήστε τους χάκερ με το { -brand-name-firefox-monitor }, προστατεύστε κωδικούς πρόσβασης με το { -brand-name-firefox-lockwise } και πολλά άλλα.
 firefox-new-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-new-free-web-browser = Δωρεάν πρόγραμμα περιήγησης ιστού
 firefox-new-and-start-getting-the-respect = Και ξεκινήστε να λαμβάνετε το σεβασμό που αξίζετε με την οικογένεια των προϊόντων μας.
@@ -30,6 +32,7 @@ firefox-new-fix-a-problem = Διόρθωση προβλήματος
 firefox-new-need-help = Χρειάζεστε βοήθεια;
 firefox-new-see-whats-being-blocked = Δείτε τι έχει αποκλειστεί
 firefox-new-make-your-passwords-portable = Κάντε τους κωδικούς πρόσβασής σας φορητούς
+firefox-new-watch-for-data-breaches = Ενημερωθείτε για παραβιάσεις δεδομένων
 firefox-new-connect-to-a-whole-family = Συνδεθείτε σε μια ολόκληρη οικογένεια προϊόντων που σας σέβονται και αποκτήστε όλη τη γνώση που χρειάζεστε για να προστατευτείτε στο διαδίκτυο.
 firefox-new-passwords-made-portable = Οι κωδικοί πρόσβασης έγιναν φορητοί
 firefox-new-protect-your-privacy = Προστασία απορρήτου
