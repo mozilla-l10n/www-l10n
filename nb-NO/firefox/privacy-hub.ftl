@@ -8,7 +8,7 @@
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } personvernløfte
 # HTML page description
-firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } tar mindre data, holder det trygt og uten hemmeligheter.
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } lagrer færre data, lagrer det trygt og uten hemmeligheter.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox }-produkter er utviklet for å beskytte <strong>personvernet</strong> ditt
 # Sub navigation title
