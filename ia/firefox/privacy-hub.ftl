@@ -17,6 +17,10 @@ firefox-privacy-privacy = Confidentialitate
 firefox-privacy-our-promise = Nostre promissa
 # Sub navigation link
 firefox-privacy-our-products = Nostre productos
+firefox-privacy-hub-you-should-be-able-to-decide = Tu debe poter decider qui vide tu informationes personal. Non solo inter tu amicos, ma con cata annunciator publicitari e compania sur internet, anque nos.
+firefox-privacy-hub-thats-why-everything-we-make = Ecce perque toto lo que nos produce e face honora nostre Promissa re datos personal
+firefox-privacy-hub-take-less = Prender minus
+firefox-privacy-hub-we-make-a-point-of-knowing = Nos face un puncto de honor a saper minus re te
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
