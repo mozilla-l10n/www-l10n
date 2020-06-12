@@ -9,8 +9,12 @@
 ## Required
 
 installer-help-page-title = Сіздің жүктемеңіз үзілді
+installer-help-main-tagline = Бұл кейде болады. Басқа нәрсе жасап көрейік.
+installer-help-action-channel = Бұл жүктеме сізге жақсырақ жұмыс істеуі керек.
+installer-help-action-choose = Төменде жүктеуді таңдаңыз.
 
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-need-help = Орнату жөнінде көмек керек пе?

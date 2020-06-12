@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/products/
 
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-desktop = Дербес компьютер
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
+firefox-products-see-all-browsers = Барлық браузерлерді қарау
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-pocket = { -brand-name-pocket }

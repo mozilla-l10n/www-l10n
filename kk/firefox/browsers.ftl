@@ -27,6 +27,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Екі өлшемнен асып
 firefox-browsers-build-sites-and-refine-your = { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> көмегімен сайттарды жасап, кодыңызды әзірлеңіз
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } туралы көбірек білу
 firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } ішіне қосылып, әр өнімнен көбірек алыңыз — әр құрылғыда.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign = Тіркелгіңіз бар ма? <a { $fxa_attr }>Кіріңіз</a> немесе Firefox-қа қосылу туралы <a { $accounts_attr }>көбірек білңіз</a>.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

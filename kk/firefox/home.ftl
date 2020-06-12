@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } туралы көбірек білу
+firefox-home-get-the-browser-extension = Браузер кеңейтуін алыңыз
+firefox-home-get-the-facebook-container = { -brand-name-facebook-container } кеңейтуін алу
+firefox-home-download-the-browser = Браузерді жүктеп алу
+firefox-home-download-the-app = Қолданбаны жүктеп алу
 firefox-home-desktop = Жұмыс үстелі
 firefox-home-browsers = Браузерлер
 firefox-home-android = { -brand-name-android }

@@ -2,6 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navigation-download-for-ios = { -brand-name-ios } үшін жүктеп алу
+navigation-download-for-android = { -brand-name-android } үшін жүктеп алу
+navigation-ios-support = { -brand-name-ios } қолдауы
+navigation-android-support = { -brand-name-android } қолдауы
+navigation-firefox-browser-for-enterprise = Өнеркәсіп үшін { -brand-name-firefox-browser }
+navigation-mozilla-careers = { -brand-name-mozilla } мансаптары
+navigation-close-firefox-menu = { -brand-name-firefox } мәзірін жабу
+navigation-get-firefox = { -brand-name-firefox } алу
+navigation-get-firefox-focus = { -brand-name-firefox-focus } алу
+navigation-android-extensions = { -brand-name-android } кеңейтулері
+navigation-your-firefox-account = Сіздің { -brand-name-firefox-account }
+navigation-mozilla-manifesto = { -brand-name-mozilla } Манифесті
+navigation-menu = Мәзір
+navigation-check-out-the-benefits = Артықшылықтарын тексеру
+navigation-browsers = Браузерлер
+navigation-close-browsers-menu = Браузерлер мәзірін жабу
+navigation-download = Жүктеп алу
+navigation-extensions = Кеңейтулер
+navigation-support = Қолдау
+navigation-privacy = Жекелік
 navigation-release-notes = Шығарылым ескертпесі
 navigation-features = Мүмкіндіктері
 navigation-products = Өнімдер
