@@ -18,10 +18,10 @@ firefox-browsers-mobile = Di động
 firefox-browsers-take-the-same-level-of-privacy = Mang cùng mức độ riêng tư — cộng với mật khẩu, lịch sử tìm kiếm, các thẻ đang mở và hơn thế nữa — bên bạn mọi lúc mọi nơi.
 firefox-browsers-download-for-mobile = Tải xuống cho thiết bị di động
 firefox-browsers-send-me-a-link = Gửi cho tôi liên kết
-firefox-browsers-enterprise = Doanh nghiệp
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Nhận bảo vệ dữ liệu chưa từng có với các chu kỳ hỗ trợ phù hợp với nhu cầu của công ty bạn.
-firefox-browsers-enterprise-packages = Gói dành cho doanh nghiệp
-firefox-browsers-reality = Thực tế ảo
+firefox-browsers-enterprise-packages = Gói { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Vượt ra ngoài hai chiều và tận hưởng nội dung nhập vai tốt nhất từ khắp nơi trên web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Xây dựng trang web và tinh chỉnh mã của bạn với { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>

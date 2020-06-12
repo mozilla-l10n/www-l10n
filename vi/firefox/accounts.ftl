@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Đây là một cách để bảo vệ sự riêng tư của bạn. Tham gia { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Tạo một tài khoản Firefox – Giữ dữ liệu của bạn riêng tư, an toàn và đồng bộ hóa
+firefox-accounts-get-a-firefox-account = Tạo một { -brand-name-firefox-account } - Giữ dữ liệu của bạn riêng tư, an toàn và đồng bộ hóa
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Hãy chống lại hành vi bán thông tin của bạn cho các bên thứ ba. Luôn thông minh và an toàn trực tuyến với công nghệ chiến đấu bên bạn.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Đồng bộ hóa mật khẩu, dấu trang và thẻ của bạn một cách an toàn trên tất cả các thiết bị của bạn. Tạo tài khoản Firefox ngay bây giờ - Đăng nhập một lần - Hiệu suất và sự riêng tư ở khắp mọi nơi.
+firefox-accounts-securely-sync-your = Đồng bộ hóa mật khẩu, dấu trang và thẻ của bạn một cách an toàn trên tất cả các thiết bị của bạn. Tạo { -brand-name-firefox-account } ngay bây giờ - Đăng nhập một lần - Hiệu suất và sự riêng tư ở khắp mọi nơi.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Đây là một cách để bảo vệ sự riêng tư của bạn. <span>Tham gia { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
