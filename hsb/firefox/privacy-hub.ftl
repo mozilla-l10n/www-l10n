@@ -8,6 +8,8 @@
 # Sub navigation title
 firefox-privacy-privacy = Priwatnosć
 # Sub navigation link
+firefox-privacy-our-promise = Naše slubjenje
+# Sub navigation link
 firefox-privacy-our-products = Naše produkty
 firefox-privacy-hub-learn-more-about-our-mission = Dalše informacije wo našej misiji
 firefox-privacy-hub-learn-about-our-products = Zhońće wjace wo našich produktach
@@ -23,3 +25,5 @@ firefox-privacy-hub-learn-more-about-lockwise = Dalše informacije wo { -brand-n
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Dataju pósłać
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstarać
+firefox-privacy-hub-your-firefox-account = Waše { -brand-name-firefox-account }
