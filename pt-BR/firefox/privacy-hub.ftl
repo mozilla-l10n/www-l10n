@@ -21,6 +21,7 @@ firefox-privacy-hub-you-should-be-able-to-decide = Você deve poder decidir quem
 firefox-privacy-hub-thats-why-everything-we-make = É por isso que tudo o que produzimos e fazemos honra nosso compromisso de como lidar com dados pessoais
 firefox-privacy-hub-take-less = Coletar menos
 firefox-privacy-hub-we-make-a-point-of-knowing = Fazemos questão de saber menos sobre você
+firefox-privacy-hub-all-tech-companies-collect = Todas as empresas de tecnologia coletam dados para melhorar seus produtos. Mas não precisa incluir tantas informações pessoais suas. Os únicos dados que queremos são os que no final servem para você. Nos perguntamos: precisamos mesmo disso? Para quê? Quando podemos excluir?
 firefox-privacy-hub-keep-it-safe = Manter seguro
 firefox-privacy-hub-no-secrets = Sem segredos
 firefox-privacy-hub-learn-more-about-our-mission = Saiba mais sobre nossa missão
