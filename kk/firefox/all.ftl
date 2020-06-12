@@ -19,6 +19,9 @@ firefox-all-32-bit-installers = 32-биттік орнатқыштар
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = { -brand-name-firefox-browser } өнімін қазақ және басқа 90-нан астам тілде жүктеп алыңыз
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } жекелік ескертуі
+firefox-all-learn-about-firefox = { -brand-name-firefox } браузерлері туралы біліңіз
+firefox-all-msi-installers = MSI орнатқыштары
+firefox-all-which-version = Сіз қай нұсқаны қалайсыз?
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
