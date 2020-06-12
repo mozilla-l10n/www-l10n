@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Η μετάβαση είναι α
 switch-select-what-to-take = Επιλέξτε τι θέλετε από το { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Αφήστε τα υπόλοιπα στο { -brand-name-firefox }.
 switch-use-firefox-and-still-chrome = Μπορείτε να χρησιμοποιήστε το { -brand-name-firefox } και να έχετε ακόμη το { -brand-name-chrome }, χωρίς να αλλάξει καθόλου.
+switch-spread-the-word = Μιλήστε για το { -brand-name-firefox } και βοηθήστε τα αγαπημένα σας πρόσωπα να αποχαιρετήσουν το { -brand-name-chrome }.
 switch-share-with-your-friends = Μοιραστείτε με τους φίλους σας τον τρόπο μετάβασης στο { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 Το { -brand-name-firefox } κάνει αστραπιαία τη μετάβαση από το { -brand-name-chrome }. Δοκιμάστε το!
 switch-switch-to-firefox = Μετάβαση στο { -brand-name-firefox }

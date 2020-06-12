@@ -8,6 +8,7 @@
 
 ## Required
 
+installer-help-page-title = Η λήψη σας διακόπηκε
 installer-help-action-choose = Επιλέξτε μια λήψη παρακάτω.
 
 ##

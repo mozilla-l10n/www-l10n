@@ -9,13 +9,18 @@ firefox-new-download-firefox = Λήψη του { -brand-name-firefox }
 firefox-new-download-mozilla-firefox = Κάντε λήψη του { -brand-name-mozilla } { -brand-name-firefox }, ενός δωρεάν προγράμματος περιήγησης ιστού. Το { -brand-name-firefox } δημιουργήθηκε από ένα παγκόσμιο, μη κερδοσκοπικό οργανισμό έτσι, ώστε να έχει ο χρήστης τον έλεγχο της ψηφιακής του ζωής. Αποκτήστε σήμερα το { -brand-name-firefox } για { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } και { -brand-name-ios }!
 firefox-new-download-the-fastest-firefox = Λήψη του πιο γρήγορου { -brand-name-firefox }
 firefox-new-faster-page-loading-less-memory = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } είναι εδώ.
+firefox-new-automatic-privacy-is-here = Το αυτόματο απόρρητο είναι εδώ. Κάντε λήψη του { -brand-name-firefox } για να αποκλείσετε περισσότερους από 2000 ιχνηλάτες.
 firefox-new-get-the-latest-firefox = Αποκτήστε το πιο πρόσφατο { -brand-name-firefox }.
+firefox-new-firefox-shows-you-how-many = Το { -brand-name-firefox } σας εμφανίζει πόσοι ιχνηλάτες συλλογής δεδομένων αποκλείονται με την <strong>Ενισχυμένη προστασία από καταγραφή</strong>.
+firefox-new-firefox-lockwise-makes-secure = Το <strong>{ -brand-name-firefox-lockwise }</strong> συγχρονίζει με ασφάλεια τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox } σε όλες τις συσκευές σας.
 firefox-new-join-firefox = Γίνετε μέλος του { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = Το <strong>{ -brand-name-firefox-lockwise }</strong> κάνει διαθέσιμους σε όλες σας τις συσκευές τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Λήψη του { -brand-name-firefox } <br>για { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Λήψη του { -brand-name-firefox } <br>για { -brand-name-mac }
 firefox-new-download-firefox-for-linux = Λήψη του { -brand-name-firefox } <br>για { -brand-name-linux }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-new-youve-already-got-the-browser = Έχετε ήδη το πρόγραμμα περιήγησης. Ωφεληθείτε ακόμη περισσότερο από το { -brand-name-firefox }.
 firefox-new-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-new-free-web-browser = Δωρεάν πρόγραμμα περιήγησης ιστού
 firefox-new-and-start-getting-the-respect = Και ξεκινήστε να λαμβάνετε το σεβασμό που αξίζετε με την οικογένεια των προϊόντων μας.
@@ -24,6 +29,7 @@ firefox-new-download-in-another-language = Λήψη σε άλλη γλώσσα
 firefox-new-fix-a-problem = Διόρθωση προβλήματος
 firefox-new-need-help = Χρειάζεστε βοήθεια;
 firefox-new-see-whats-being-blocked = Δείτε τι έχει αποκλειστεί
+firefox-new-make-your-passwords-portable = Κάντε τους κωδικούς πρόσβασής σας φορητούς
 firefox-new-connect-to-a-whole-family = Συνδεθείτε σε μια ολόκληρη οικογένεια προϊόντων που σας σέβονται και αποκτήστε όλη τη γνώση που χρειάζεστε για να προστατευτείτε στο διαδίκτυο.
 firefox-new-passwords-made-portable = Οι κωδικοί πρόσβασης έγιναν φορητοί
 firefox-new-protect-your-privacy = Προστασία απορρήτου

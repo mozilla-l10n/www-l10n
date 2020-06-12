@@ -9,6 +9,7 @@ firefox-home-the-browser-is-just = Το πρόγραμμα περιήγησης 
 firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια των προϊόντων μας
 firefox-home-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
 firefox-home-learn-more-about-pocket = Μάθετε περισσότερα για το { -brand-name-pocket }
+firefox-home-join-firefox = Γίνετε μέλος του { -brand-name-firefox }
 firefox-home-get-the-facebook-container = Λήψη επέκτασης { -brand-name-facebook-container }
 firefox-home-download-the-browser = Λήψη προγράμματος περιήγησης
 firefox-home-download-the-app = Λήψη της εφαρμογής

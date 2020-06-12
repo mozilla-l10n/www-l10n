@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-is-more-than-a-browser-emphasis = Το { -brand-name-firefox } είναι <strong>κάτι παραπάνω</strong> από ένα πρόγραμμα περιήγησης
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
