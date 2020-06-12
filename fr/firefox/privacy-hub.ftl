@@ -60,7 +60,7 @@ firefox-privacy-hub-protection-beyond-tracking = Une protection au-delà du pist
 firefox-privacy-hub-if-you-have-a-firefox-account = Si vous disposez d’un compte Firefox, vous pouvez également voir comment nous vous aidons à protéger vos informations personnelles et vos mots de passe.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Plus de { $trackers } de traqueurs bloqués chaque jour pour l’ensemble des utilisateurs de Firefox dans le monde entier
+firefox-privacy-hub-more-than-s-trackers-blocked = Plus de { $trackers } de traqueurs bloqués chaque jour pour l’ensemble des utilisateurs de { -brand-name-firefox } dans le monde entier
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Quand vous saisissez votre adresse électronique dans { -brand-name-firefox-monitor }, nous l’oublions immédiatement après avoir vérifié si elle figure dans une fuite de donnée connue. Sauf si vous nous autorisez à vous informer en cas de nouvelles fuites vous concernant.
 firefox-privacy-hub-check-for-breaches = Vérifier les fuites de données

@@ -34,7 +34,7 @@ firefox-privacy-hub-theres-no-hidden-agenda-here = There’s no hidden agenda he
 firefox-privacy-hub-why-trust-firefox = Why trust { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-firefox-privacy-hub-because-we-put-people-first = Because we put people first. In fact, we’re backed by a <a href="{ $foundation }">non-profit</a>. From day one, it’s been our mission to protect the internet and everyone on it
+firefox-privacy-hub-because-we-put-people-first = Because we put people first. In fact, we’re backed by a <a href="{ $foundation }">non-profit</a>. From day one, it’s been our mission to protect the internet and everyone on it.
 firefox-privacy-hub-learn-more-about-our-mission = Learn more about our mission
 firefox-privacy-hub-your-privacy-by-the-product = Your privacy, by the product
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } products work differently — because they’re designed to protect your privacy first.
@@ -60,7 +60,7 @@ firefox-privacy-hub-protection-beyond-tracking = Protection beyond tracking
 firefox-privacy-hub-if-you-have-a-firefox-account = If you have a { -brand-name-firefox-account }, you can also see how we’re helping you protect your personal info and passwords.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = More than { $trackers } trackers blocked each day for Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = More than { $trackers } trackers blocked each day for { -brand-name-firefox } users worldwide
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = When you enter your email address in { -brand-name-firefox-monitor }, we forget it immediately after we’ve checked for a match in known data breaches — unless you authorize us to continue monitoring new breaches for your personal information.
 firefox-privacy-hub-check-for-breaches = Check for breaches
