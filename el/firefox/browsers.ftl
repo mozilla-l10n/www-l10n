@@ -7,7 +7,7 @@
 
 firefox-browsers-download-for-desktop = Λήψη για υπολογιστή
 firefox-browsers-download-for-mobile = Λήψη για κινητή συσκευή
-firefox-browsers-enterprise-packages = Πακέτα επιχειρήσεων
+firefox-browsers-enterprise-packages = { -brand-name-enterprise } πακέτα
 firefox-browsers-learn-more-about-devtools = Μάθετε περισσότερα για το { -brand-name-devtools }
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
