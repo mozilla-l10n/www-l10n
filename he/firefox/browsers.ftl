@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 firefox-browsers-send-me-a-link = שלחו לי קישור
-firefox-browsers-enterprise = ארגוני
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = מידע נוסף על { -brand-name-devtools }
 firefox-browsers-android = { -brand-name-android }
