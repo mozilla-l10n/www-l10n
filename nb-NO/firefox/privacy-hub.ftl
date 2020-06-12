@@ -15,8 +15,20 @@ firefox-privacy-hub-you-should-be-able-to-decide = Du skal kunne bestemme hvem s
 firefox-privacy-hub-thats-why-everything-we-make = Det er grunnen til at alt vi lager og gjør, respekterer vårt løfte om personopplysninger
 firefox-privacy-hub-take-less = Ta mindre
 firefox-privacy-hub-we-make-a-point-of-knowing = Vi gjør et poeng ut av å vite mindre om deg
-firefox-privacy-hub-all-tech-companies-collect = Alle teknologiselskaper samler inn data for å forbedre produktene sine. Men det trenger ikke å inkludere så mye av din personlige informasjon. De eneste data vi ønsker er de data som tjener deg til slutt. Vi spør oss selv: trenger vi dette egentlig? Hva trenger vi det til? Og når kan vi slette den?
+firefox-privacy-hub-all-tech-companies-collect = Alle teknologiselskaper samler inn data for å forbedre produktene sine. Men det trenger ikke å inkludere så mye av din personlige informasjon. De eneste data vi ønsker er de dataene som tjener deg til slutt. Vi spør oss selv: trenger vi dette egentlig? Hva trenger vi det til? Og når kan vi slette den?
 firefox-privacy-hub-keep-it-safe = Hold det trygt
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Vi gjør det vanskelige arbeidet med å beskytte din personlige informasjon
+firefox-privacy-hub-no-secrets = Ingen hemmeligheter
+firefox-privacy-hub-youll-always-know-where-you = Du vil alltid vite hvor du står hos oss
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Det er ingen skjult agenda her. Virksomheten vår er ikke avhengig av å misbruke tilliten din i hemmelighet. <a href="{ $privacy }">Personvernerklæringen</a> er faktisk lesbar. Alle i verden kan delta på <a href="{ $meetings }">ukentlige firmamøter</a>. Hvis du vil grave i hvert datapunkt vi samler inn, er koden vår åpen. Og det er vi også.
+firefox-privacy-hub-why-trust-firefox = Hvorfor skal du stole på { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Fordi vi setter mennesker først. Faktisk er vi støttet av en <a href="{ $foundation }">ideel organisasjon</a>. Fra første dag har det vært vårt oppdrag å beskytte nette og alle som bruker det.
+firefox-privacy-hub-learn-more-about-our-mission = Les mer om oppdraget vårt
 firefox-privacy-hub-learn-more-about-lockwise = Les mer om { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Send en fil
