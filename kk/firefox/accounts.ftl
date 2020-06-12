@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 firefox-accounts-sign-in = Кіру
+firefox-accounts-meet-our-family-of = Біздің жекелікке арналған өнімдеріміздің отбасымен таныс болыңыз
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

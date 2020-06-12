@@ -5,7 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = Браузер - бұл тек бастамасы
+firefox-home-meet-our-family-of = Біздің өнімдеріміздің отбасымен таныс болыңыз
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } туралы көбірек білу
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = Бір логин. Барлық құрылғыларыңыз. Сіздің <strong>жекелігіңізді</strong> құрметтейтін өнімдер отбасы.
 firefox-home-get-the-browser-extension = Браузер кеңейтуін алыңыз
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } кеңейтуін алу
 firefox-home-download-the-browser = Браузерді жүктеп алу
