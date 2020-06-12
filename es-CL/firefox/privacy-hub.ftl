@@ -28,3 +28,20 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Más de 2.000 rastreadores bloqueados — automáticamente
 firefox-privacy-hub-download-the-firefox-browser = Bajar el navegador { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Actualiza tu navegador { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Invisible para los mejores rastreadores
+firefox-privacy-hub-meet-four-of-the-most-common = Conoce cuatro de las categorías más comunes de rastreadores — quienes no te podrán conocer.
+firefox-privacy-hub-always-in-your-control = Siempre bajo tu control
+firefox-privacy-hub-want-to-customize-what = ¿Quieres personalizar lo que se bloquea? Tus ajustes están a solo un clic de distancia.
+firefox-privacy-hub-protection-beyond-tracking = Protección más allá del rastreo
+firefox-privacy-hub-if-you-have-a-firefox-account = Si tienes una { -brand-name-firefox-account }, también puede ver cómo te estamos ayudando a proteger tu información personal y tus contraseñas.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Más de { $trackers } rastreadores bloqueados cada día para usuarios de { -brand-name-firefox } en todo el mundo
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-learn-more-about-lockwise = Aprender más sobre { -brand-name-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-send-a-file = Enviar un archivo
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Obtener { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = Tu { -brand-name-firefox-account }
