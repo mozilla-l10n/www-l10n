@@ -38,4 +38,18 @@ firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Over 2000 sporarar blokkerte — automatisk
 firefox-privacy-hub-update-your-firefox-browser = Oppdater { -brand-name-firefox }-nettlesaren din
 firefox-privacy-hub-invisible-to-the-top-trackers = Usynleg for dei største sporarane
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-check-for-breaches = Sjå etter datalekkasjar
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-learn-more-about-lockwise = Les meir om { -brand-name-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-send-a-file = Send ei fil
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Hent { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = Din { -brand-name-firefox-account }
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Ta med personvernet ditt og bokmerka dine overalt med ein { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Har du allereie ein konto? <a { $sign_in } class="{ $class_name }">Logg inn</a> eller <a href="{ $learn_more }">les meir</a> om å bli med i { -brand-name-firefox }.
