@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Жарамды эл. пошта адресін енгізіңіз.
+newsletter-form-you-must-agree-to = Жекелік ескертуіне келісуіңіз керек
+newsletter-form-your-email-address = Эл. пошта адресіңіз
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = Елді немесе аймақты таңдау
 newsletter-form-your-email-here = ЭЛ. ПОШТА АДРЕСІҢІЗ
 newsletter-form-format = Пішім
 newsletter-form-html = HTML
