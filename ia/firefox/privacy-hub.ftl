@@ -27,6 +27,11 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Nos lo face, le dur labor p
 firefox-privacy-hub-data-security-is-complicated = Le securitate del datos es complicate, e tal debe restar. Ecce perque nos prende le mesuras extra pro classificar le datos que nos ha, mantener regulas pro nostre modo de immagazinage, proteger cata typo e jammais cessar iterar sur nostre processos. Nos investi in illo. Nos es dedicate a illo. Nos mesmo insenia a altere companias como facer lo.
 firefox-privacy-hub-no-secrets = Nulle secretos.
 firefox-privacy-hub-youll-always-know-where-you = Nos essera sempre transparente con te
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Il ha nulle agenda celate hic. Nostre negotios non depende de abusar secretemente de tu fide. Nostre <a href="{ $privacy }">Aviso de confidentialitate</a> es realmente legibile. Quicunque in le mundo pote esser presente a nostre <a href="{ $incontros }"> incontros septimanal del compania</a>. Si tu desira excavar in cata puncto de datos que nos collige, nostre codice es aperte. E assi es nos.
+firefox-privacy-hub-why-trust-firefox = Perque fider in { -brand-name-firefox }?
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
