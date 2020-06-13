@@ -55,9 +55,14 @@ firefox-privacy-hub-always-in-your-control = 總能自行掌控
 firefox-privacy-hub-want-to-customize-what = 想要調整要封鎖的內容嗎？點一下就能更改設定。
 firefox-privacy-hub-protection-beyond-tracking = 不只保護您不受追蹤
 firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-firefox-account }，還可以看到我們如何幫助您保護個人資訊與密碼。
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = 每天都為全球的 { -brand-name-firefox } 使用者封鎖超過 { $trackers } 組追蹤器。
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = 當您把 E-Mail 信箱輸入到 { -brand-name-firefox-monitor }，我們會檢查是否有相關的資料外洩事件，然後自動忘記您輸入的內容。除非您授權我們持續為您監控資料外洩事件，不然不會保留。
 firefox-privacy-hub-check-for-breaches = 檢查是否有外洩事件
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = 儲存在 { -brand-name-firefox-lockwise } 的帳號密碼，在您的每一台裝置上都有完整加密，就算是我們也解不出來。
 firefox-privacy-hub-learn-more-about-lockwise = 了解 { -brand-name-lockwise } 的更多資訊
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = 分享檔案
