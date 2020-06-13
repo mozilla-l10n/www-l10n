@@ -24,8 +24,16 @@ firefox-privacy-hub-we-make-a-point-of-knowing = 我們希望知道您越少的�
 firefox-privacy-hub-all-tech-companies-collect = 所有科技公司為了改善產品都會收集各種資料，但不需要包含這麼多關於您的個人資訊。我們只收集對您有用的資料就夠了。我們也時常問自己: 真的需要這些資料嗎？這些資料用來做什麼？什麼時候可以刪除這些資料？
 firefox-privacy-hub-keep-it-safe = 確保資料安全
 firefox-privacy-hub-we-do-the-hard-work-to-protect = 我們非常努力地保護您的個人資訊
+firefox-privacy-hub-data-security-is-complicated = 資料安全相當複雜。也因為如此，我們採取各種方式，對收集到的資料進行分類、針對不同資料維護不同的儲存、保護規則。這個過程會持續改進，永不停止。我們將您的隱私權視為最重要的事情，並且投資與承諾於保護隱私，甚至還教其他公司如何做這些事。
 firefox-privacy-hub-no-secrets = 絕不偷偷來
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = 這裡沒有不成文的規定。我們的營運並不依賴於偷偷濫用您對我們的信任。我們的<a href="{ $privacy }">隱私權公告</a>好讀易懂；世上的每一個人都能參與我們的<a href="{ $meetings }">公司內部週會</a>。若您想了解我們收集的每一個資料點，程式碼是開放的，我們也是。
 firefox-privacy-hub-why-trust-firefox = 憑什麼相信 { -brand-name-firefox }？
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = 因為我們把人們放在第一位。實際上，我們是由<a href="{ $foundation }">非營利組織</a>在背後全力相挺。自成立第一天起，我們的企業使命就是要保護網際網路環境與上面的每個人。
 firefox-privacy-hub-learn-more-about-our-mission = 更加了解我們的使命
 firefox-privacy-hub-learn-about-our-products = 了解我們的產品
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
