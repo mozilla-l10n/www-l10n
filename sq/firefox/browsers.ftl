@@ -18,14 +18,14 @@ firefox-browsers-mobile = Celular
 firefox-browsers-take-the-same-level-of-privacy = Merrni me vete të njëjtën shkallë privatësie — plus fjalëkalimet tuaj, historik kërkimesh, skeda të hapura, etj — kudo që shkoni.
 firefox-browsers-download-for-mobile = Shkarkojeni për Celular
 firefox-browsers-send-me-a-link = Dërgomëni një lidhje
-firefox-browsers-enterprise = Ndërmarrje
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Merrni mbrojtje të pashoqe të dhënash me cikle asistence të formuar për të plotësuar nevojat e shoqërisë tuaj.
-firefox-browsers-enterprise-packages = Paketa ndërmarrjeje
-firefox-browsers-reality = Realitet
+firefox-browsers-enterprise-packages = Paketa { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Shkoni tej dy përmasave dhe shijoni lëndën më të mirë trepërmasore nga anembanë internetit.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Ndërtoni sajte dhe përimtoni kodin tuaj me <strong>Mjete Zhvilluesi</strong> { -brand-name-firefox }
-firefox-browsers-learn-more-about-devtools = Mësoni më tepër rreth Mjeteve të Zhvilluesit
+firefox-browsers-build-sites-and-refine-your = Ndërtoni sajte dhe përimtoni kodin tuaj me { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
+firefox-browsers-learn-more-about-devtools = Mësoni më tepër rreth { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Bëhuni pjesë e { -brand-name-firefox }-it dhe përfitoni maksimumin nga çdo produkt — nëpër çdo pajisje.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

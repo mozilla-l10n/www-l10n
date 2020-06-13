@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Ka një rrugë për të mbrojtur privatësinë tuaj. Bëhuni pjesë e { -brand-name-firefox }-it.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Merrni një Llogari Firefox - Mbajini të dhënat tuaja private, të sigurta dhe të njëkohësuara
+firefox-accounts-get-a-firefox-account = Merrni një { -brand-name-firefox-account } - Mbajini të dhënat tuaja private, të sigurta dhe të njëkohësuara
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Ngrini zërin kundër një industrie që po ua shet të dhënat tuaja palëve të treta. Jini i mençur dhe i parrezik në internet, me teknologji që ndeshen për ju.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Njëkohësi në mënyrë të siguruar fjalëkalimet tuaj, faqerojtësit dhe skedat, nëpër krejt pajisjet. Merrni që tani një Llogari Firefox – Një palë kredenciale hyrjeje – Pushtet dhe privatësi kudo.
+firefox-accounts-securely-sync-your = Njëkohësi në mënyrë të siguruar fjalëkalimet tuaj, faqerojtësit dhe skedat, nëpër krejt pajisjet. Merrni që tani një { -brand-name-firefox-account } – Një palë kredenciale hyrjeje – Pushtet dhe privatësi kudo.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Ka një rrugë për të mbrojtur privatësinë tuaj. <span>Bëhuni pjesë e { -brand-name-firefox }-it</span>.
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
