@@ -35,14 +35,26 @@ firefox-privacy-hub-why-trust-firefox = 憑什麼相信 { -brand-name-firefox }�
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = 因為我們把人們放在第一位。實際上，我們是由<a href="{ $foundation }">非營利組織</a>在背後全力相挺。自成立第一天起，我們的企業使命就是要保護網際網路環境與上面的每個人。
 firefox-privacy-hub-learn-more-about-our-mission = 更加了解我們的使命
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } 有各種功能的產品 — 最重要的是他們都設計來保護您的隱私。
 firefox-privacy-hub-learn-about-our-products = 了解我們的產品
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } 在每套產品中都保護您的隱私權。
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } 在每套產品中都<strong>保護</strong>您的隱私權。
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 自動封鎖超過 2,000 組追蹤器
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = 「追蹤」已經是一種線上流行病: 企業會追蹤您的操作、滑鼠點擊、購買行為，收集各種資料，然後預測並且影響您的一舉一動。我們覺得這個風氣嚴重地侵犯了您的隱私，這也是為什麼 { -brand-name-firefox } 行動版與桌面版瀏覽器都內建並預設開啟「加強型追蹤保護」功能。
+firefox-privacy-hub-if-you-want-to-see-what = 若您想知道 { -brand-name-firefox } 幫您封鎖了哪些東西，請用 { -brand-name-firefox } 桌面版瀏覽器開啟此網頁。
+firefox-privacy-hub-see-what-firefox-has-blocked = 看看 { -brand-name-firefox } 為您封鎖了哪些東西。
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = 獲得加強型追蹤保護
 firefox-privacy-hub-download-the-firefox-browser = 下載 { -brand-name-firefox } 瀏覽器
 firefox-privacy-hub-update-your-firefox-browser = 更新您的 { -brand-name-firefox } 瀏覽器
+firefox-privacy-hub-invisible-to-the-top-trackers = 對熱門追蹤器隱形
+firefox-privacy-hub-meet-four-of-the-most-common = 瞭解四種最常見的追蹤器 — 雖然它們見不到您。
+firefox-privacy-hub-always-in-your-control = 總能自行掌控
+firefox-privacy-hub-want-to-customize-what = 想要調整要封鎖的內容嗎？點一下就能更改設定。
 firefox-privacy-hub-protection-beyond-tracking = 不只保護您不受追蹤
+firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-firefox-account }，還可以看到我們如何幫助您保護個人資訊與密碼。
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = 檢查是否有外洩事件
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
