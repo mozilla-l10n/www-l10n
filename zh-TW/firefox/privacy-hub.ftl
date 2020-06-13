@@ -68,5 +68,13 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = 我們看不到您使用 { -brand-name-firefox-send } 分享的檔案檔名與內容，因為它們在傳輸過程，從端到端都會加密起來。只有您可以決定誰能看到分享的內容，而且還可以設定失效日跟密碼。
 firefox-privacy-hub-send-a-file = 分享檔案
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } 不收集您的上網紀錄或將您的個人資訊賣給廣告業者，就推薦真人精選的高品質文章給您。
 firefox-privacy-hub-get-pocket = 取得 { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = 所有透過 { -brand-name-firefox-account } 同步的資訊（從上網紀錄到網站密碼）都經完整加密，只有您自己知道的密碼才能解開。
+firefox-privacy-hub-take-your-privacy-and-bookmarks = 使用 { -brand-name-firefox-account }，將您的私人資料與書籤隨身帶著走。
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = 已經有帳號了嗎？<a { $sign_in } class="{ $class_name }">登入</a>或了解加入 { -brand-name-firefox } 的<a href="{ $learn_more }">更多資訊</a>。
