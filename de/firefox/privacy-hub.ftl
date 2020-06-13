@@ -39,7 +39,7 @@ firefox-privacy-hub-learn-more-about-our-mission = Weitere Infos zu unserer Miss
 firefox-privacy-hub-your-privacy-by-the-product = Privatsphäre in jedem Produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-Produkte funktionieren anders – weil sie von Grund auf so entwickelt werden, dass sie deine Privatsphäre schützen.
 firefox-privacy-hub-learn-about-our-products = Mehr über unsere Produkten erfahren
-firefox-privacy-hub-firefox-privacy-by-the = Privatsphäre in jedem Produkt
+firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } Privatsphäre in jedem Produkt
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } schützt deine Privatsphäre in jedem Produkt.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>schützt</strong> deine Privatsphäre in jedem Produkt
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
@@ -57,7 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Das sind die vier häufigsten
 firefox-privacy-hub-always-in-your-control = Du hast die Kontrolle
 firefox-privacy-hub-want-to-customize-what = Du willst selbst entscheiden, was blockiert wird? Deine Einstellungen sind nur einen Klick entfernt.
 firefox-privacy-hub-protection-beyond-tracking = Mehr als nur Tracking-Schutz
-firefox-privacy-hub-if-you-have-a-firefox-account = Wenn du ein Firefox-Konto hast, kannst du nun auch sehen, wie wir dir dabei helfen, deine persönlichen Daten und Passwörter zu schützen.
+firefox-privacy-hub-if-you-have-a-firefox-account = Wenn du ein { -brand-name-firefox-account } hast, kannst du nun auch sehen, wie wir dir dabei helfen, deine persönlichen Daten und Passwörter zu schützen.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Wir blocken jeden Tag weltweit mehr als { $trackers } Tracker für Menschen, die { -brand-name-firefox } nutzen.
@@ -73,9 +73,9 @@ firefox-privacy-hub-send-a-file = Datei senden
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } empfiehlt dir qualitativ hochwertige und von Menschen kuratierte Artikel, ohne dafür deine Surf-Chronik zu erfassen oder deine persönlichen Daten an Werbetreibende weiterzugeben.
 firefox-privacy-hub-get-pocket = Hol dir { -brand-name-pocket }
-firefox-privacy-hub-your-firefox-account = Dein Firefox-Konto
-firefox-privacy-hub-all-the-information-synced = Alle Daten, die du über dein Firefox-Konto synchronisierst – von der Surf-Chronik bis zu den Passwörtern – werden verschlüsselt. Dein Konto-Passwort ist der einzige Schlüssel.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Nimm Privatsphäre und Lesezeichen überall mit hin – mit deinem Firefox-Konto.
+firefox-privacy-hub-your-firefox-account = Dein { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Alle Daten, die du über dein { -brand-name-firefox-account } synchronisierst – von der Surf-Chronik bis zu den Passwörtern – werden verschlüsselt. Dein Konto-Passwort ist der einzige Schlüssel.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Nimm Privatsphäre und Lesezeichen überall mit hin – mit deinem { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
