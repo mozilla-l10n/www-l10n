@@ -78,3 +78,6 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = 使用 { -brand-name-firef
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
 firefox-privacy-hub-already-have-an-account = 已經有帳號了嗎？<a { $sign_in } class="{ $class_name }">登入</a>或了解加入 { -brand-name-firefox } 的<a href="{ $learn_more }">更多資訊</a>。
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = 了解我們各項產品的<a href="{ $url }">隱私權公告</a>
