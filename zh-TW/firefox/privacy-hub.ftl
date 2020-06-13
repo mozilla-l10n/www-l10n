@@ -65,6 +65,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = 儲存在 { -brand-name-firefox-lockwise } 的帳號密碼，在您的每一台裝置上都有完整加密，就算是我們也解不出來。
 firefox-privacy-hub-learn-more-about-lockwise = 了解 { -brand-name-lockwise } 的更多資訊
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = 我們看不到您使用 { -brand-name-firefox-send } 分享的檔案檔名與內容，因為它們在傳輸過程，從端到端都會加密起來。只有您可以決定誰能看到分享的內容，而且還可以設定失效日跟密碼。
 firefox-privacy-hub-send-a-file = 分享檔案
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = 取得 { -brand-name-pocket }
