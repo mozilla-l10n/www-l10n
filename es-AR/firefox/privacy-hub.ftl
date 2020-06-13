@@ -50,3 +50,19 @@ firefox-privacy-hub-if-you-want-to-see-what = Si querés ver qué es lo que { -b
 firefox-privacy-hub-see-what-firefox-has-blocked = MIrá lo que { -brand-name-firefox } bloqueó para vos
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Obtené la Protección de rastreo aumentada
+firefox-privacy-hub-download-the-firefox-browser = Descargá el navegador { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Actualizá tu navegador { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Invisible para los mejores rastreadores
+firefox-privacy-hub-meet-four-of-the-most-common = Conocé cuatro de las categorías más comunes de rastreadores que no te van a conocer.
+firefox-privacy-hub-always-in-your-control = Siempre bajo tu control
+firefox-privacy-hub-want-to-customize-what = ¿Querés personalizar lo que se bloquea? Tu configuración está a solo un clic de distancia.
+firefox-privacy-hub-protection-beyond-tracking = Protección más allá del rastreo
+firefox-privacy-hub-if-you-have-a-firefox-account = Si tenés una { -brand-name-firefox-account }, también podés ver cómo te ayudamos a proteger tu información personal y tus contraseñas.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Más de { $trackers } rastreadores bloqueados cada día para usuarios de { -brand-name-firefox } en todo el mundo
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Cuando ingresás tu dirección de correo electrónico en { -brand-name-firefox-monitor }, la olvidamos inmediatamente después de haber verificado una coincidencia en las violaciones de datos conocidas, a menos que nos autorices a continuar monitoreando nuevas violaciones de tu información personal.
+firefox-privacy-hub-check-for-breaches = Verificá si hay violaciones
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Las contraseñas y credenciales que guardes en { -brand-name-firefox-lockwise } están encriptadas en todos tus dispositivos, por lo que ni siquiera nosotros podemos verlas.
