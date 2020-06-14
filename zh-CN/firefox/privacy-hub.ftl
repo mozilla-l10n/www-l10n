@@ -21,3 +21,15 @@ firefox-privacy-hub-take-less = 索取更少
 firefox-privacy-hub-keep-it-safe = 确保安全
 firefox-privacy-hub-we-do-the-hard-work-to-protect = 我们会努力保护您的个人信息
 firefox-privacy-hub-no-secrets = 绝不隐瞒
+firefox-privacy-hub-learn-about-our-products = 了解我们的产品
+firefox-privacy-hub-2000-trackers-blocked-automatically = 自动拦截超过 2,000 种跟踪器
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = 获得增强型跟踪保护
+firefox-privacy-hub-download-the-firefox-browser = 下载 { -brand-name-firefox } 浏览器
+firefox-privacy-hub-update-your-firefox-browser = 更新您的 { -brand-name-firefox } 浏览器
+firefox-privacy-hub-always-in-your-control = 始终由您掌控
+firefox-privacy-hub-check-for-breaches = 检查是否有外泄事件
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-get-pocket = 获取 { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
