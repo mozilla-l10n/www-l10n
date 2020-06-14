@@ -27,6 +27,9 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Vi gjer det vanskelege arbe
 firefox-privacy-hub-no-secrets = Ingen hemmelegheiter
 firefox-privacy-hub-youll-always-know-where-you = Du vil alltid vite kvar du står hos oss
 firefox-privacy-hub-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Fordi vi set menneske først. Faktisk er vi støtta av ein <a href="{ $foundation }">ideel organisasjon</a>. Frå første dag har det vore oppdraget vårt å beskytte nettet og alle som brukar det.
 firefox-privacy-hub-learn-more-about-our-mission = Les meir om oppdraget vårt
 firefox-privacy-hub-your-privacy-by-the-product = Personvern i kvart produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-produkt fungerer annleis — fordi dei er utvikla for å ta vare på personvernet ditt først.
