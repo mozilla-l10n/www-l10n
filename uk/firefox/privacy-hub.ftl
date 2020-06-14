@@ -81,3 +81,6 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Отримуйте сво�
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
 firefox-privacy-hub-already-have-an-account = Вже маєте обліковий запис? <a { $sign_in } class="{ $class_name }">Увійдіть</a> або <a href="{ $learn_more }">дізнайтеся більше</a> про те, як приєднатися до { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Прочитайте <a href="{ $url }">Повідомлення про приватність</a> для наших продуктів
