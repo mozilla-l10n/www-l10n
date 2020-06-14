@@ -57,7 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Te presentamos a cuatro de la
 firefox-privacy-hub-always-in-your-control = Tú siempre tienes el control
 firefox-privacy-hub-want-to-customize-what = ¿Quieres personalizar qué elementos se bloquean? Puedes cambiar tu configuración con tan solo un clic.
 firefox-privacy-hub-protection-beyond-tracking = Protección más allá del rastreo
-firefox-privacy-hub-if-you-have-a-firefox-account = Si tienes una cuenta de Firefox, también puedes consultar cómo te ayudamos a proteger tus contraseñas y tus datos personales.
+firefox-privacy-hub-if-you-have-a-firefox-account = Si tienes una { -brand-name-firefox-account }, también puedes ver cómo te estamos ayudando a proteger tu información personal y tus contraseñas.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Más de { $trackers } rastreadores bloqueados cada día para usuarios de { -brand-name-firefox } de todo el mundo
@@ -73,9 +73,9 @@ firefox-privacy-hub-send-a-file = Envía un archivo
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recomienda artículos de gran calidad y seleccionados por personas de carne y hueso sin recopilar los datos de tu historial de navegación ni compartir tu información personal con las empresas de publicidad.
 firefox-privacy-hub-get-pocket = Obtén { -brand-name-pocket }
-firefox-privacy-hub-your-firefox-account = Tu cuenta de Firefox
-firefox-privacy-hub-all-the-information-synced = Toda la información sincronizada mediante tu cuenta de Firefox (desde el historial de navegación a las contraseñas) está cifrada. Y la contraseña de tu cuenta es la única clave para acceder a ella.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Lleva tu privacidad y tus marcadores siempre contigo, vayas donde vayas, con una cuenta de Firefox.
+firefox-privacy-hub-your-firefox-account = Tu { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Toda la información sincronizada mediante tu { -brand-name-firefox-account } (desde el historial de navegación a las contraseñas) está cifrada. Y la contraseña de tu cuenta es la única clave para acceder a ella.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Lleva tu privacidad y tus marcadores siempre contigo, vayas donde vayas, con una { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
