@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
+# HTML page title
+lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — passordhandterar — ta passorda dine med overalt
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Ta med deg passorda dine overalt
 lockwise-try-lockwise-now = Prøv { -brand-name-lockwise } no

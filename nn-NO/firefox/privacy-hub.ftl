@@ -46,6 +46,7 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Få utvida sporingsvern
 firefox-privacy-hub-download-the-firefox-browser = Last ned { -brand-name-firefox }-nettlesaren
 firefox-privacy-hub-update-your-firefox-browser = Oppdater { -brand-name-firefox }-nettlesaren din
 firefox-privacy-hub-invisible-to-the-top-trackers = Usynleg for dei største sporarane
+firefox-privacy-hub-always-in-your-control = Du har kontroll
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Sjå etter datalekkasjar
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -61,3 +62,6 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Ta med personvernet ditt o
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
 firefox-privacy-hub-already-have-an-account = Har du allereie ein konto? <a { $sign_in } class="{ $class_name }">Logg inn</a> eller <a href="{ $learn_more }">les meir</a> om å bli med i { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Les <a href="{ $url }">personvernerklæringa</a> for produkta våre
