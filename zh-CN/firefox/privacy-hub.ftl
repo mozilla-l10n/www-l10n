@@ -21,7 +21,9 @@ firefox-privacy-hub-take-less = 索取更少
 firefox-privacy-hub-keep-it-safe = 确保安全
 firefox-privacy-hub-we-do-the-hard-work-to-protect = 我们会努力保护您的个人信息
 firefox-privacy-hub-no-secrets = 绝不隐瞒
+firefox-privacy-hub-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 firefox-privacy-hub-learn-about-our-products = 了解我们的产品
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 自动拦截超过 2,000 种跟踪器
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = 获得增强型跟踪保护
