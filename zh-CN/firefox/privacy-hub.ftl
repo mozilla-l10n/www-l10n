@@ -17,3 +17,7 @@ firefox-privacy-privacy = 隐私
 firefox-privacy-our-promise = 我们的承诺
 # Sub navigation link
 firefox-privacy-our-products = 我们的产品
+firefox-privacy-hub-take-less = 索取更少
+firefox-privacy-hub-keep-it-safe = 确保安全
+firefox-privacy-hub-we-do-the-hard-work-to-protect = 我们会努力保护您的个人信息
+firefox-privacy-hub-no-secrets = 绝不隐瞒
