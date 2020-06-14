@@ -39,6 +39,7 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } besk
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>beskyttar</strong> personvernet ditt i kvart produkt.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Over 2000 sporarar blokkerte — automatisk
+firefox-privacy-hub-if-you-want-to-see-what = Dersom du vil sjå kva { -brand-name-firefox } blokkerer for deg, kan du gå til denne sida i { -brand-name-firefox }-nettlesaren din for datamaskiner.
 firefox-privacy-hub-see-what-firefox-has-blocked = Sjå kva { -brand-name-firefox } har blokkert for deg
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Få utvida sporingsvern
