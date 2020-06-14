@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = 我們正在打造更好的網際網路
-mission-our-mission-is-to-ensure-the-internet = 我們的使命是確保網際網路為全球公用資源，並對所有人保持開放並易於取用。網際網路真正以人為本，個人可以塑造屬於自己的體驗，並擁有權力、安全和獨立。
+mission-our-mission-is-to-ensure-the-internet = 我們的使命是確保網際網路成為全球的公共資源，任何人都能隨意使用。我們希望讓網際網路成為以大眾優先，每個人都被充分賦權，能安全而獨立地打造出獨特的體驗。
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = 我們的使命是推廣開放、創新與網路上的機會。
 mission-at-mozilla-were-a-global-community = Mozilla 是一個由技術人、思想家與建設者所組成的社群，致力於保持網際網路的生態，讓所有人都可以使用，也讓世界上的所有人都可以成為見多識廣的網路貢獻者與創造者。
