@@ -35,3 +35,11 @@ firefox-privacy-hub-why-trust-firefox = Porquê confiar no { -brand-name-firefox
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Porque colocamos as pessoas em primeiro lugar. De facto, somos apoiados por uma <a href="{ $foundation }">sem fins lucrativos</a>. Desde o primeiro dia, a nossa missão é proteger a Internet e todos os que dela fazem parte.
+firefox-privacy-hub-learn-more-about-our-mission = Saber mais sobre a nossa missão
+firefox-privacy-hub-your-privacy-by-the-product = A sua privacidade, pelo produto
+firefox-privacy-hub-firefox-products-work-differently = Os produtos { -brand-name-firefox } funcionam de maneira diferente porque foram projetados para, antes de tudo, proteger a sua privacidade .
+firefox-privacy-hub-learn-about-our-products = Saber mais sobre os nossos produtos
+firefox-privacy-hub-firefox-privacy-by-the = Privacidade do { -brand-name-firefox }, pelo produto
+firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } protege a sua privacidade em todos os produtos.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firefox } <strong>protege</strong> a sua privacidade em todos os produtos
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
