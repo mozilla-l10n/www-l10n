@@ -47,6 +47,7 @@ firefox-privacy-hub-2000-trackers-blocked-automatically = Plus de 2000 traciator
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Traciamento ha devenite epidemic online: companias seque cata movimento, clic e compra, e colliger datos pro predicer e influentiar lo que tu facera postea. Nos pensa que isto es un brute invasion de tu confidentialitate. Ecce perque le navigatores { -brand-name-firefox } mobile e scriptorio ha predefinite le Protection traciamento augmentate.
 firefox-privacy-hub-if-you-want-to-see-what = Si tu desira vider cosa { -brand-name-firefox } bloca pro te, visita iste pagina sur tu navigator pro computatores { -brand-name-firefox }.
+firefox-privacy-hub-see-what-firefox-has-blocked = Vide cosa { -brand-name-firefox } ha blocate pro te
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
