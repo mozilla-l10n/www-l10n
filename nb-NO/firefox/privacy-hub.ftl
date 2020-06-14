@@ -34,7 +34,7 @@ firefox-privacy-hub-theres-no-hidden-agenda-here = Det er ingen skjult agenda he
 firefox-privacy-hub-why-trust-firefox = Hvorfor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-firefox-privacy-hub-because-we-put-people-first = Fordi vi setter mennesker først. Faktisk er vi støttet av en <a href="{ $foundation }">ideel organisasjon</a>. Fra første dag har det vært vårt oppdrag å beskytte nette og alle som bruker det.
+firefox-privacy-hub-because-we-put-people-first = Fordi vi setter mennesker først. Faktisk er vi støttet av en <a href="{ $foundation }">ideel organisasjon</a>. Fra første dag har det vært vårt oppdrag å beskytte nettet og alle som bruker det.
 firefox-privacy-hub-learn-more-about-our-mission = Les mer om oppdraget vårt
 firefox-privacy-hub-your-privacy-by-the-product = Personvern i hvert produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-produkter fungerer annerledes — fordi de er utviklet for å beskytte personvernet ditt først.
