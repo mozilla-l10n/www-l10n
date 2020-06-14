@@ -55,7 +55,15 @@ firefox-privacy-hub-update-your-firefox-browser = Actualisa tu navigator { -bran
 firefox-privacy-hub-invisible-to-the-top-trackers = Invisibile al principal traciatores
 firefox-privacy-hub-meet-four-of-the-most-common = Ecce quatro del major parte del commun categorias de traciatores , proque non incontra te.
 firefox-privacy-hub-always-in-your-control = Sempre in tu controlo
+firefox-privacy-hub-want-to-customize-what = Vole tu personalisar cosa tener blocate? Tu parametros es a portata de clic.
+firefox-privacy-hub-protection-beyond-tracking = Protection ultra le traciamento
+firefox-privacy-hub-if-you-have-a-firefox-account = Si tu ha un { -brand-name-firefox-account }, tu pote alsi vider nostre modo de adjutar te a proteger tu informationes personal e contrasignos.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Plus de { $traciatores } traciatores blocate cata die pro le usatores de { -brand-name-firefox } in tote le mundo
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Quando tu insere tu adresse email in { -brand-name-firefox-monitor }, no lo oblida immediatemente post que nos ha verificate pro un concordantia in note violationes de datos, a minus que tu autorisa nos pro continuar le surveliantia de nove violationes pro tu informationes personal.
+firefox-privacy-hub-check-for-breaches = Verificar si il ha violationes
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Inviar un file
