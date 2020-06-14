@@ -18,7 +18,7 @@
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
--brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mozilla-foundation = Mozilla 基金会
 -brand-name-twitter = Twitter
 
 ## Firefox browsers
