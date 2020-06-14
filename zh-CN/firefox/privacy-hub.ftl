@@ -25,6 +25,8 @@ firefox-privacy-hub-no-secrets = 绝不隐瞒
 firefox-privacy-hub-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 firefox-privacy-hub-learn-more-about-our-mission = 进一步了解我们的使命
 firefox-privacy-hub-learn-about-our-products = 了解我们的产品
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } 的所有产品都保护您的隐私。
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } 的所有产品都<strong>保护</strong>您的隐私
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 自动拦截超过 2,000 种跟踪器
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -40,8 +42,10 @@ firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-fire
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } 每天为全球用户拦截超过 { $trackers } 个跟踪器
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = 检查是否有外泄事件
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-learn-more-about-lockwise = 进一步了解 { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = 分享文件
 firefox-privacy-hub-pocket = { -brand-name-pocket }
