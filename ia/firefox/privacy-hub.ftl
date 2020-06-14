@@ -74,4 +74,13 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recommenda articulos de alte-qualitate, curate per homines sin colliger tu chronologia de navigation o compartir tu informationes personal con le publicitarios.
 firefox-privacy-hub-get-pocket = Installar { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Tu { -brand-name-firefox-account }
-firefox-privacy-hub-all-the-information-synced = Tote le informationes synchronisate per tu { -brand-name-firefox-account }, ab le chronologia de navigation al contrasignos, es cifrate.
+firefox-privacy-hub-all-the-information-synced = Tote le informationes synchronisate per tu { -brand-name-firefox-account }, ab le chronologia de navigation al contrasignos, es cifrate. E tu contrasigno del conto es le sol clave.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Porta tu confidentialitate e marcapaginas ubique con un { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Ha tu jam un conto? <a { $sign_in } class="{ $class_name }">Accede</a> o <a href="{ $learn_more }">sape plus</a> re junger se a { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Lege le <a href="{ $url }">Aviso de confidentialitate</a> pro nostre productos
