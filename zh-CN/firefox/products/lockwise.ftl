@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
+lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-support = 用户支持
 lockwise-your-privacy = 您的隐私
 lockwise-github = { -brand-name-github }

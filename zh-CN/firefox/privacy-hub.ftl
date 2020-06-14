@@ -32,9 +32,18 @@ firefox-privacy-hub-get-enhanced-tracking-protection = 获得增强型跟踪保�
 firefox-privacy-hub-download-the-firefox-browser = 下载 { -brand-name-firefox } 浏览器
 firefox-privacy-hub-update-your-firefox-browser = 更新您的 { -brand-name-firefox } 浏览器
 firefox-privacy-hub-invisible-to-the-top-trackers = 对常见跟踪器隐形
+firefox-privacy-hub-meet-four-of-the-most-common = 认识四种最常见的跟踪器——您不会再见到它们了。
 firefox-privacy-hub-always-in-your-control = 始终由您掌控
+firefox-privacy-hub-want-to-customize-what = 想要调整要拦截的内容吗？点一下就能更改。
+firefox-privacy-hub-protection-beyond-tracking = 不止保护您不受跟踪
+firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-firefox-account }，还可以看到我们如何帮助您保护个人信息和密码。
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } 每天为全球用户拦截超过 { $trackers } 个跟踪器
 firefox-privacy-hub-check-for-breaches = 检查是否有外泄事件
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-send-a-file = 分享文件
+firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = 获取 { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
