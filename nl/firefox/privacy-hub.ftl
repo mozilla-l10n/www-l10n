@@ -12,6 +12,7 @@ firefox-privacy-our-promise = Onze belofte
 # Sub navigation link
 firefox-privacy-our-products = Onze producten
 firefox-privacy-hub-learn-more-about-our-mission = Meer info over onze missie
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Controleren op datalekken
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Meer info over { -brand-name-lockwise }
