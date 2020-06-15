@@ -5,8 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } oñehe’ã ne ñemiguáre
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } oñongatu’ive mba’ekuaarã, omo’ã ha ndorekói mba’eve kañýme.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = Opa { -brand-name-firefox } apopyre ojejapo omo’ã hag̃ua ne <strong>ñemigua</strong>
 # Sub navigation title
 firefox-privacy-privacy = Ñemigua
+# Sub navigation link
+firefox-privacy-our-promise = Ore ñe’ẽme’ẽ
 # Sub navigation link
 firefox-privacy-our-products = Ore apopyre
 firefox-privacy-hub-take-less = Emokõ’ve
