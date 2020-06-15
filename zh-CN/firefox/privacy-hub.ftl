@@ -17,9 +17,10 @@ firefox-privacy-privacy = 隐私
 firefox-privacy-our-promise = 我们的承诺
 # Sub navigation link
 firefox-privacy-our-products = 我们的产品
-firefox-privacy-hub-thats-why-everything-we-make = 这就是是我们的所作所为，均须遵守我们的「个人数据承诺」的原因
+firefox-privacy-hub-thats-why-everything-we-make = 这就是我们的所作所为，均须遵守我们的“个人数据承诺”的原因
 firefox-privacy-hub-take-less = 索取更少
 firefox-privacy-hub-we-make-a-point-of-knowing = 我们希望知道您越少的数据越好
+firefox-privacy-hub-all-tech-companies-collect = 所有科技公司为了改善产品都会收集各种数据，但大可不必包含如此多的您的个人信息。我们只收集为众人提供和改进产品所需的数据。我们时常扪心自问：真的需要这些数据吗？需要这些数据做什么？什么时候可以删除这些数据？
 firefox-privacy-hub-keep-it-safe = 确保安全
 firefox-privacy-hub-we-do-the-hard-work-to-protect = 我们会努力保护您的个人信息
 firefox-privacy-hub-data-security-is-complicated = 数据安全十分复杂。正因如此，我们采取各种方式，对收集到的数据进行分类，针对不同的数据维护不同的存储、保护规则。这个过程会不断改进，永无止境。我们以保护您的隐私为己任，并对此持续进行投入，坚持不懈。我们也倡导其他公司亦能如此。
