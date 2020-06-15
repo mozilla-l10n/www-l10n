@@ -25,6 +25,7 @@ firefox-privacy-hub-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-f
 firefox-privacy-hub-learn-more-about-our-mission = Eñemomaranduve ore rembipotáre
 firefox-privacy-hub-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
 firefox-privacy-hub-learn-about-our-products = Eñemomaranduve ore apopyrére
+firefox-privacy-hub-always-in-your-control = Ereko ñangarekoha tapiaite
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
