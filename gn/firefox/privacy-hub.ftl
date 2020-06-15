@@ -28,6 +28,7 @@ firefox-privacy-hub-learn-about-our-products = Eñemomaranduve ore apopyrére
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-learn-more-about-lockwise = Maranduve { -brand-name-lockwise } rehegua
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Emondo marandurenda
 firefox-privacy-hub-pocket = { -brand-name-pocket }
