@@ -11,6 +11,11 @@ firefox-privacy-privacy = Sekretess
 firefox-privacy-our-promise = Vårat löfte
 # Sub navigation link
 firefox-privacy-our-products = Våra produkter
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Skicka en fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Hämta { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = Ditt { -brand-name-firefox-account }
