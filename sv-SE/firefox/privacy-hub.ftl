@@ -24,6 +24,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Lösenord och inloggningsuppgifter du sparar i { -brand-name-firefox-lockwise } är krypterade på alla dina enheter, så inte ens vi kan se dem.
 firefox-privacy-hub-learn-more-about-lockwise = Läs mer om { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Vi kan inte se namnet på eller innehållet i de stora filer du delar via { -brand-name-firefox-send } eftersom de är krypterade från enhet till enhet — du väljer vem som ser vad du skickar, och du kan till och med ställa in ett utgångsdatum och lösenord.
 firefox-privacy-hub-send-a-file = Skicka en fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Hämta { -brand-name-pocket }
