@@ -17,4 +17,6 @@ firefox-privacy-hub-no-secrets = Nessun segreto
 firefox-privacy-hub-youll-always-know-where-you = Potrai sempre fare affidamento sulla nostra trasparenza
 firefox-privacy-hub-why-trust-firefox = Perché fidarsi di { -brand-name-firefox }?
 firefox-privacy-hub-learn-more-about-our-mission = Ulteriori informazioni sulla nostra missione
+firefox-privacy-hub-your-privacy-by-the-product = La tua privacy in ogni prodotto
+firefox-privacy-hub-firefox-products-work-differently = I prodotti { -brand-name-firefox } funzionano in modo diverso, perché sono progettati per proteggere innanzitutto la tua privacy.
 firefox-privacy-hub-learn-about-our-products = Scopri i nostri prodotti
