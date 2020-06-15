@@ -4,7 +4,7 @@
 
 navigation-download-firefox = { -brand-name-firefox } жүктеп алу
 navigation-get-a-firefox-account = { -brand-name-firefox-account } алу
-navigation-firefox-browser-for-desktop = Дербек компьютер үшін { -brand-name-firefox-browser }
+navigation-firefox-browser-for-desktop = Дербес компьютер үшін { -brand-name-firefox-browser }
 navigation-download-for-ios = { -brand-name-ios } үшін жүктеп алу
 navigation-download-for-android = { -brand-name-android } үшін жүктеп алу
 navigation-ios-support = { -brand-name-ios } қолдауы
