@@ -8,6 +8,9 @@
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Vigye magával a jelszavait bárhová
 lockwise-try-lockwise-now = Próbálja ki most a { -brand-name-lockwise }-t
+lockwise-open-in-firefox = Megnyitás a { -brand-name-firefox }ban
 lockwise-256-bit-encryption-protects = A 256 bites titkosítás védi a szinkronizálás során
+lockwise-your-privacy-comes-first = Adatvédelem mindenek előtt.
 lockwise-support = Támogatás
+lockwise-your-privacy = Adatvédelem
 lockwise-github = { -brand-name-github }

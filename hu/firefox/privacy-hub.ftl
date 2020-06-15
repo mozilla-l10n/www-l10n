@@ -7,6 +7,10 @@
 
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = A { -brand-name-firefox } adatvédelmi ígéret
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = A { -brand-name-firefox } kevesebb adatot kér, és biztonságban tartja azokat, titkok nélkül.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = A { -brand-name-firefox }-termékeket az Ön <strong>magánszférájának</strong> védelmére tervezték
 # Sub navigation title
 firefox-privacy-privacy = Adatvédelem
 # Sub navigation link
