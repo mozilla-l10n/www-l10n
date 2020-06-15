@@ -53,6 +53,7 @@ firefox-privacy-hub-protection-beyond-tracking = Vern utover sporing
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Sjå etter datalekkasjar
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Passorda og legitimasjonane du lagrar i { -brand-name-firefox-lockwise } er kryptert på alle einingane dine, så ikkje eingong vi kan sjå dei.
 firefox-privacy-hub-learn-more-about-lockwise = Les meir om { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Send ei fil
