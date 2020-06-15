@@ -39,7 +39,7 @@ firefox-accounts-get-the-respect-you = Receba o respeito que merece.
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Irá sempre saber a verdade a partir de nós. Tudo o que fazemos honra a nossa <a href="{ $promise }">Promessa de Dados Pessoais</a>:
 # Line breaks for visual formatting.
-firefox-accounts-take-less-keep-it = Recolher menos.<br> Mantê-los seguros.<br> Sem segredos.
+firefox-accounts-take-less-keep-it = Recolher menos.<br> Manter seguro.<br> Sem segredos.
 firefox-accounts-get-the-knowledge = Obtenha o conhecimento para se manter seguro.
 firefox-accounts-learn-everything-you = Saiba tudo o que precisa de saber (mas ainda não) acerca de como se manter esperto(a) e seguro(a) online, de alguns dos maiores especialistas do mundo.
 firefox-accounts-and-be-part-of-protecting = E faça parte da proteção da internet para as gerações futuras.
