@@ -19,3 +19,5 @@ firefox-privacy-our-promise = Ein Addewid
 firefox-privacy-our-products = Ein Cynnyrch
 firefox-privacy-hub-you-should-be-able-to-decide = Dylech allu penderfynu pwy sy'n gweld eich manylion personol. Nid yn unig ymhlith eich ffrindiau, ond gyda phob hysbysebwr a chwmni ar y rhyngrwyd - gan gynnwys ni.
 firefox-privacy-hub-thats-why-everything-we-make = Dyna pam mae popeth rydyn ni'n ei greu a'i wneud yn anrhydeddu ein Addewid Data Personol
+firefox-privacy-hub-take-less = Cymryd Llai
+firefox-privacy-hub-we-make-a-point-of-knowing = Rydym yn gwneud pwynt o wybod llai amdanoch chi
