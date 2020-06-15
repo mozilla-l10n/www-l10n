@@ -13,3 +13,4 @@ firefox-privacy-our-promise = Vårat löfte
 firefox-privacy-our-products = Våra produkter
 firefox-privacy-hub-send-a-file = Skicka en fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Hämta { -brand-name-pocket }
