@@ -16,7 +16,16 @@ installer-help-action-choose = Επιλέξτε μια λήψη παρακάτω
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Αποκτήστε την πιο πρόσφατη έκδοση. Το αυτόματο απόρρητο είναι εδώ. Κάντε λήψη του { -brand-name-firefox-browser } για να αποκλείσετε πάνω από { $trackers } ιχνηλάτες.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-desc = Δοκιμάστε τις έτοιμες προς έκδοση λειτουργίες στην πιο σταθερή έκδοση πριν την τελική.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = Ανάπτυξη, δοκιμή και πολλά άλλα με το μόνο πρόγραμμα περιήγησης για προγραμματιστές.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Ρίξτε μια ματιά στο πρόγραμμα περιήγησης της επόμενης γενιάς και βοηθήστε μας να το κάνουμε το καλύτερο δυνατό πρόγραμμα περιήγησης.
 installer-help-need-help = Χρειάζεστε βοήθεια με την εγκατάσταση;
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Αν χρειάζεστε ακόμη βοήθεια με την εγκατάσταση, <a href="{ $url }">διαβάστε τον οδηγό στην ενότητα Υποστήριξη.</a>
