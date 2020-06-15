@@ -21,6 +21,7 @@ firefox-privacy-hub-take-less = 索取更少
 firefox-privacy-hub-we-make-a-point-of-knowing = 我们希望知道您越少的数据越好
 firefox-privacy-hub-keep-it-safe = 确保安全
 firefox-privacy-hub-we-do-the-hard-work-to-protect = 我们会努力保护您的个人信息
+firefox-privacy-hub-data-security-is-complicated = 数据安全十分复杂。正因如此，我们采取各种方式，对收集到的数据进行分类，针对不同的数据维护不同的存储、保护规则。这个过程会不断改进，永无止境。我们以保护您的隐私为己任，并对此持续进行投入，坚持不懈。我们也倡导其他公司亦能如此。
 firefox-privacy-hub-no-secrets = 绝不隐瞒
 firefox-privacy-hub-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 firefox-privacy-hub-learn-more-about-our-mission = 进一步了解我们的使命
@@ -51,3 +52,6 @@ firefox-privacy-hub-send-a-file = 分享文件
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = 获取 { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = 请阅读我们产品的<a href="{ $url }">隐私声明</a>
