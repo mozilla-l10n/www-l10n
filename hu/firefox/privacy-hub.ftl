@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = A { -brand-name-firefox } adatvédelmi ígéret
 # Sub navigation title
 firefox-privacy-privacy = Adatvédelem
 # Sub navigation link
