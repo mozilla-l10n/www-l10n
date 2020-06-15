@@ -13,6 +13,9 @@ firefox-privacy-hub-firefox-products-are-designed = I prodotti { -brand-name-fir
 firefox-privacy-privacy = Privacy
 # Sub navigation link
 firefox-privacy-our-products = I nostri prodotti
+firefox-privacy-hub-you-should-be-able-to-decide = Dovresti essere tu a decidere chi può visualizzare le tue informazioni personali. Non solo tra i tuoi amici, ma con tutti gli inserzionisti e le aziende su Internet, inclusa la nostra.
+firefox-privacy-hub-take-less = Raccogliamo meno dati
+firefox-privacy-hub-we-make-a-point-of-knowing = Insistiamo nel volerne sapere di meno su di te
 firefox-privacy-hub-no-secrets = Nessun segreto
 firefox-privacy-hub-youll-always-know-where-you = Potrai sempre fare affidamento sulla nostra trasparenza
 firefox-privacy-hub-why-trust-firefox = Perché fidarsi di { -brand-name-firefox }?
