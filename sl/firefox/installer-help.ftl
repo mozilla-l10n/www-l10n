@@ -16,6 +16,9 @@ installer-help-action-choose = Spodaj izberite prenos.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Prejmite najnovejše. Samodejna zasebnost je tu. Prenesite { -brand-name-firefox-browser } in zavrnite več kot { $trackers } sledilcev.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Preskusite funkcije pred izdajo v najstabilnejši predizdajni različici.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -23,3 +26,6 @@ installer-help-firefox-developer-desc = Ustvarjajte, testirajte, pregledujte in 
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Pokukajte v naslednjo generacijo našega spletnega brskalnika in nam ga pomagajte izboljšati do popolnosti.
 installer-help-need-help = Potrebujete pomoč pri namestitvi?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Če še vedno potrebujete pomoč pri namestitvi, <a href="{ $url }">preberite vodnik na našem oddelku za podporo</a>.
