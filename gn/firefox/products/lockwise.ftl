@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
+lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-try-lockwise-now = Eipuru { -brand-name-lockwise } ko’ág̃a
 lockwise-support = Pytyvõha
 lockwise-your-privacy = Ne ñemigua
