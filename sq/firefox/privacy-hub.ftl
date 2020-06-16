@@ -44,3 +44,15 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox }-i mb
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>mbron</strong> privatësinë tuaj në çdo produkt
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Mbi 2000 gjurmues të bllokuar — automatikisht
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Gjurmimi është bërë një epidemi në internet: shoqëritë ndjekin çdo lëvizje, klik dhe blerje, duke grumbulluar të dhëna me qëllim parashikimin dhe ndikimin mbi çka do të bëni më pas. Mendojmë se kjo është një shkelje neveritëse e privatësisë tuaj. Kjo është arsyeja ose shfletuesit { -brand-name-firefox } për celular dhe desktop kanë, si parazgjedhje, Mbrojtje të Thelluar Nga Gjurmimi.
+firefox-privacy-hub-if-you-want-to-see-what = Nëse doni të shihni se ç’bllokon për ju { -brand-name-firefox }, vizitoni këtë faqe në shfletuesin tuaj { -brand-name-firefox }.
+firefox-privacy-hub-see-what-firefox-has-blocked = Shihni se ç’ka bllokuar { -brand-name-firefox } për ju
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Merrni Mbrojtje të Thelluar Nga Gjurmimi
+firefox-privacy-hub-download-the-firefox-browser = Shkarkoni shfletuesin { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Përditësoni shfletuesin tuaj { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Të padukshëm për gjurmuesit kryesorë
+firefox-privacy-hub-meet-four-of-the-most-common = Njihuni me kategoritë më të rëndomta të gjurmuesve — që s’do t’ju njohin ju.
+firefox-privacy-hub-always-in-your-control = Përherë nën kontrollin tuaj
+firefox-privacy-hub-want-to-customize-what = Dëshironi të përshtatni ç’bllokohet? Rregullimet tuaja janë një klik larg nga kjo.
