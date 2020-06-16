@@ -58,3 +58,11 @@ firefox-privacy-hub-always-in-your-control = Drwy'r amser o dan eich rheolaeth
 firefox-privacy-hub-want-to-customize-what = Eisiau cyfaddasu'r hyn sy'n cael ei rwystro? Dim ond un clic i ffwrdd mae eich gosodiadau.
 firefox-privacy-hub-protection-beyond-tracking = Diogelwch y tu hwnt i dracio
 firefox-privacy-hub-if-you-have-a-firefox-account = Os oes gennych { -brand-name-firefox-account }, gallwch chi hefyd weld sut rydyn ni'n eich helpu chi i ddiogelu eich manylion personol a'ch cyfrineiriau.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Mae mwy na  { $trackers } o dracwyr yn cael eu rhwystro bob dydd ar gyfer defnyddwyr  { -brand-name-firefox } ledled y byd
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Pan fyddwch yn nodi'ch cyfeiriad e-bost yn { -brand-name-firefox-monitor }, rydym yn ei anghofio yn syth ar ôl i ni edrych am gyfatebiaeth mewn tor-data hysbys - oni bai eich bod yn ein hawdurdodi i barhau i fonitro tor-data newydd ar gyfer eich gwybodaeth bersonol.
+firefox-privacy-hub-check-for-breaches = Gwiriwch am dor-data
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Mae'r cyfrineiriau a'r manylion rydych chi'n eu cadw yn { -brand-name-firefox-lockwise } wedi'u hamgryptio ar eich holl ddyfeisiau, felly nid ydym ni hyd yn oed yn gallu eu gweld.
