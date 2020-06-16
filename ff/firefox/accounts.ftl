@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Ina woodi no ndeenirtaa suturo maa. Jeye e { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Heɓ Konte Firefox – Kisnaa, cuuraa, ndanndaa keɓe maa
+firefox-accounts-get-a-firefox-account = Heɓ { -brand-name-firefox-account } – Kisnaa, cuuraa, ndanndaa keɓe maa
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Haɓo mɓaylaandi njeeyoori keɓe maa yimɓe woɓɓe. Ƴoƴ kadi kisaa e ceŋogol maa e ballal karallaagal gonngal e haɓeede sabu maa.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Yahdin pinle maa, maantore kam e tabbe maa nder masiŋon maa fof e kisal. Heɓ konte Firefox jooni–Ceŋogol gootol–Semmbe e suturo kala nokku.
+firefox-accounts-securely-sync-your = Yahdin pinle maa, maantore kam e tabbe maa nder masiŋon maa fof e kisal. Heɓ { -brand-name-firefox-account } jooni–Ceŋogol gootol–Semmbe e suturo kala nokku.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Ina woodi no ndeenirtaa suturo maa. <span> Jeye e { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
