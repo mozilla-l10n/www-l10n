@@ -39,3 +39,22 @@ firefox-privacy-hub-learn-more-about-our-mission = Dysgu rhagor am ein cenhadaet
 firefox-privacy-hub-your-privacy-by-the-product = Eich preifatrwydd, yn ôl y cynnyrch
 firefox-privacy-hub-firefox-products-work-differently = Mae cynnyrch { -brand-name-firefox } yn gweithio'n wahanol - oherwydd eu bod wedi'u cynllunio i roi blaenoriaeth i ddiogelu eich preifatrwydd.
 firefox-privacy-hub-learn-about-our-products = Dysgu am ein cynnyrch
+firefox-privacy-hub-firefox-privacy-by-the = Preifatrwydd { -brand-name-firefox }, yn ôl y cynnyrch
+firefox-privacy-hub-firefox-protects-your-privacy = Mae { -brand-name-firefox } yn diogelu eich preifatrwydd ym mhob cynnyrch.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = Mae { -brand-name-firefox } yn <strong>diogelu</strong> eich preifatrwydd ym mhob cynnyrch
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ o dracwyr wedi'u rhwystro - yn awtomatig
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Mae tracio wedi dod yn epidemig ar-lein: mae cwmnïau'n dilyn pob symudiad, clicio a phrynu, gan gasglu data i ragfynegi a dylanwadu ar yr hyn y byddwch chi'n ei wneud nesaf. Credwn fod hynny'n oresgyniad dybryd o'ch preifatrwydd. Dyna pam mae Diogelwch Uwch Rhag Tracio  porwyr symudol a bwrdd gwaith { -brand-name-firefo } ymlaen yn rhagosodedig.
+firefox-privacy-hub-if-you-want-to-see-what = Os hoffech chi weld beth mae { -brand-name-firefox } yn ei rwystro drosoch chi, ewch i'r dudalen hon ar eich porwr bwrdd gwaith { -brand-name-firefox }.
+firefox-privacy-hub-see-what-firefox-has-blocked = Gweld beth mae { -brand-name-firefox } wedi'i rwystro ar eich cyfer chi
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Defnyddiwch Diogelwch Uwch Rhag Tracio
+firefox-privacy-hub-download-the-firefox-browser = Llwytho { -brand-name-firefox } i Lawr
+firefox-privacy-hub-update-your-firefox-browser = Diweddarwch eich porwr { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Yn anweledig i'r prif dracwyr
+firefox-privacy-hub-meet-four-of-the-most-common = Dyma bedwar o'r categorïau mwyaf cyffredin o dracwyr - fydd ddim yn cwrdd â chi.
+firefox-privacy-hub-always-in-your-control = Drwy'r amser o dan eich rheolaeth
+firefox-privacy-hub-want-to-customize-what = Eisiau cyfaddasu'r hyn sy'n cael ei rwystro? Dim ond un clic i ffwrdd mae eich gosodiadau.
+firefox-privacy-hub-protection-beyond-tracking = Diogelwch y tu hwnt i dracio
+firefox-privacy-hub-if-you-have-a-firefox-account = Os oes gennych { -brand-name-firefox-account }, gallwch chi hefyd weld sut rydyn ni'n eich helpu chi i ddiogelu eich manylion personol a'ch cyfrineiriau.
