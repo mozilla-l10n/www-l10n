@@ -41,3 +41,6 @@ firefox-privacy-hub-firefox-products-work-differently = Produktet { -brand-name-
 firefox-privacy-hub-learn-about-our-products = Mësoni rreth produkteve tona
 firefox-privacy-hub-firefox-privacy-by-the = Privatësi { -brand-name-firefox }, nga produkti
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox }-i mbron privatësinë tuaj në çdo produkt.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>mbron</strong> privatësinë tuaj në çdo produkt
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Mbi 2000 gjurmues të bllokuar — automatikisht
