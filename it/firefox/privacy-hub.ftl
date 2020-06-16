@@ -66,5 +66,10 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } consiglia articoli di alta qualità curati da persone in carne e ossa, non raccoglie dati sulla cronologia di navigazione e non condivide le informazioni personali con gli inserzionisti.
 firefox-privacy-hub-get-pocket = Ottieni { -brand-name-pocket }
 # Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Hai già un account? <a { $sign_in } class="{ $class_name }">Accedi</a> o <a href="{ $learn_more }">scopri di più</a> su come entrare in { -brand-name-firefox }.
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Leggi l’<a href="{ $url }">Informativa sulla privacy</a> per i nostri prodotti
