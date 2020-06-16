@@ -19,8 +19,8 @@ firefox-all-sorry-we-couldnt-find = Njaafoɗaa, min ndonkii yiytude gaawtagol ng
 firefox-all-64-bit-installers = Gaafirɗe 64-bit
 firefox-all-32-bit-installers = Gaafirɗe 32-bit
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Aawto wanngorde Firefox ndee e Engeleere (Amerik) e ko ɓuri ɗemɗe 90 goɗɗe
-firefox-all-choose-which-firefox = Labo hol Wanngorde Firefox aawtoto-ɗaa e ɗemngal maa
+firefox-all-download-the-firefox = Aawto wanngorde{ -brand-name-firefox-browser } ndee e Engeleere (Amerik) e ko ɓuri ɗemɗe 90 goɗɗe
+firefox-all-choose-which-firefox = Labo hol { -brand-name-firefox-browser } aawtoto-ɗaa e ɗemngal maa
 firefox-all-firefox-privacy-notice = Tinndinoore Suturo { -brand-name-firefox }
 firefox-all-learn-about-firefox = Ɓeydu humpito baɗte wanngorde { -brand-name-firefox }
 firefox-all-the-standard-firefox = Wanngorde { -brand-name-firefox } aadannde ndee — yaawnde e suriinde.So a yananaaka hol { -brand-name-firefox } cuɓoto-ɗaa, suɓo mo.

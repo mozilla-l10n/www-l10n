@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-get-a-firefox-account = Heɓ Konte Firefox
+navigation-get-a-firefox-account = Heɓ { -brand-name-firefox-account }
 navigation-firefox-built-just-for = { -brand-name-firefox }, alaa baɗanaaɗo so wonaa topayɓe.
 navigation-check-out-the-benefits = Yiy nafoore mum
 navigation-projects = Eɓɓooje

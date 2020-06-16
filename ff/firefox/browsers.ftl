@@ -16,10 +16,10 @@ firefox-browsers-download-for-desktop = Aawto ngam Ordinateer
 firefox-browsers-mobile = Cinndel
 firefox-browsers-download-for-mobile = Aawto ngam Cinndel
 firefox-browsers-send-me-a-link = Neldam jokkol
-firefox-browsers-enterprise = Gollorde
-firefox-browsers-reality = Goonga
+firefox-browsers-enterprise = { -brand-name-enterprise }Gollorde
+firefox-browsers-reality = { -brand-name-reality }Goonga
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Mah lowe kadi ƴellitaa kod maa e { -brand-name-firefox }.
+firefox-browsers-build-sites-and-refine-your = Mah lowe kadi ƴellitaa kod maa e { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Ɓeydu humpito baɗte { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Tawtu { -brand-name-firefox } ngam heɓde ɓuri moƴƴude e topirde kala — e nder masiŋel kala.
 # Variables:
