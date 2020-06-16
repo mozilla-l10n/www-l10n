@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Shkarkoni { -brand-name-firefox }-in
-navigation-get-a-firefox-account = Merrni një Llogari Firefox
+navigation-get-a-firefox-account = Merrni një { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } për Desktop
 navigation-get-the-browser-that-respects = Merrni shfletuesin që respekton vetvetiu privatësinë tuaj. Në { -brand-name-windows }, { -brand-name-mac } ose { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } për Celular
@@ -34,7 +34,7 @@ navigation-take-firefox-and-firefox = Merreni { -brand-name-firefox }-in dhe { -
 navigation-get-firefox = Merrni { -brand-name-firefox }-in
 navigation-get-firefox-focus = Merrni { -brand-name-firefox-focus }
 navigation-android-extensions = Zgjerime për { -brand-name-android }
-navigation-your-firefox-account = Llogaria juaj Firefox
+navigation-your-firefox-account = { -brand-name-firefox-account } e juaj
 navigation-make-the-most-of-your = Përfitoni maksimumin nga puna juaj me { -brand-name-firefox }, nga çdo pajisje.
 navigation-learn-how-to-customize = Mësoni se si të përshtatni mënyrën se si funksionon { -brand-name-firefox }-i.
 navigation-experience-augmented = Shijoni me { -brand-name-firefox }-in realitet të zgjeruar dhe virtual.

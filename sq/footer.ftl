@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Njoftim Privatësie Sajti
 footer-websites-cookies = Cookies
 footer-websites-legal = Ligjore
 footer-language = Gjuhë
+footer-go = Shko
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
