@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = Braktisni karrema klikimi për hir lënde cil
 firefox-home-learn-more-about-pocket = Mësoni më tepër mbi { -brand-name-pocket }-in
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Një palë kredenciale hyrjesh. Krejt pajisjet tuaja. Një familje produktesh që respekton <strong>privatësinë</strong> tuaj.
+firefox-home-join-firefox = Bëhuni pjesë e { -brand-name-firefox }-it
 firefox-home-learn-more-about-joining = Mësoni më tepër rreth si të bëheni pjesë e { -brand-name-firefox }-it
 firefox-home-get-the-browser-extension = Merrni zgjerimin e shfletuesit
 firefox-home-get-the-facebook-container = Merrni zgjerimin { -brand-name-facebook-container }

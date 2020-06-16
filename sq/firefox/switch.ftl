@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = Kalimi në { -brand-name-firefox 
 switch-select-what-to-take = Përzgjidhni ç’të merret nga { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Lërjani { -brand-name-firefox }-in të bëjë ç’mbetet për t’u bërë.
 switch-use-firefox-and-still-chrome = Mund të përdorni { -brand-name-firefox }-in dhe të keni ende { -brand-name-chrome }-in. { -brand-name-chrome }-i nuk do të ndryshojë një grimë në makinën tuaj.
+switch-spread-the-word = Përhapni fjalën rreth { -brand-name-firefox } dhe ndihmoni personat që keni për zemër t’i japin lamtumirën { -brand-name-chrome }.
 switch-share-with-your-friends = Tregojuni miqve tuaj se si të hidhen në { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox }-i e bën kalimin nga { -brand-name-chrome }-i përnjëmend të shpejtë. Provojeni!
 switch-switch-to-firefox = Hidhuni në { -brand-name-firefox }
