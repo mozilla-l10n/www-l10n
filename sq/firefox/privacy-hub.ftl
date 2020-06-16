@@ -74,3 +74,13 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekomandon artikuj të cilësisë së lartë, në përkujdesje nga njerëz realë, pa grumbulluar historikun tuaj të shfletimeve apo ndarë të dhënat tuaja personal me reklamues.
 firefox-privacy-hub-get-pocket = Merreni { -brand-name-pocket }-in
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } e juaj
+firefox-privacy-hub-all-the-information-synced = Krejt të dhënat e njëkohësuara përmes { -brand-name-firefox-account } tuaj — nga historik shfletimi te fjalëkalimet — janë të fshehtëzuara. Dhe fjalëkalimi juaj i llogarisë është i vetmi kyç.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Merrni privatësinë dhe fjalëkalimet tuaj me vete kudo, me një { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Keni tashmë një llogari? <a { $sign_in } class="{ $class_name }">Hyni</a> ose <a href="{ $learn_more }">mësoni më tepër</a> rreth pjesëmarrjes në { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Lexoni <a href="{ $url }">Shënimin mbi Privatësinë</a> për produktet tanë
