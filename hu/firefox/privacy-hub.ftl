@@ -17,11 +17,20 @@ firefox-privacy-privacy = Adatvédelem
 firefox-privacy-our-promise = Az ígéretünk
 # Sub navigation link
 firefox-privacy-our-products = Termékeink
+firefox-privacy-hub-you-should-be-able-to-decide = Önnek kell eldöntenie, hogy ki láthatja a személyes adatait. Nem csak a barátainál, hanem minden hirdető és az interneten működő cég esetén – köztünk minket is.
+firefox-privacy-hub-thats-why-everything-we-make = Ezért minden amit készítünk és teszünk betartja a személyes adatokról szóló ígéretünket.
 firefox-privacy-hub-take-less = Gyűjtsünk kevesebbet
+firefox-privacy-hub-we-make-a-point-of-knowing = Fontosnak tartjuk, hogy kevesebbet tudjunk Önről
+firefox-privacy-hub-all-tech-companies-collect = Minden techvállalat adatot gyűjt termékei fejlesztése érdekében. De ehhez nem szükséges annyi személyes adat. Csak olyan adatokat szeretnénk, melyek végül Önt szolgálják. Azt kérdezzük magunktól: valóban szükségünk van erre? Miért van rá szükség? És mikor törölhetjük?
 firefox-privacy-hub-keep-it-safe = Tartsuk biztonságban
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Kemény munkát végzünk személyes adatainak védelme érdekében
+firefox-privacy-hub-data-security-is-complicated = Az adatbiztonság bonyolult – vagy legalábbis annak kellene lennie. Ezért teszünk további lépéseket a meglévő adatok besorolására, szabályokat állítunk fel az egyes típusok tárolásáról és védelméről, és soha nem hagyjuk abba az iterálást a folyamatokon. Az adatvédelmet prioritásként kezeljük. Beruházunk bele. Elkötelezettek vagyunk iránta. És más cégeket is megtanítunk erre.
 firefox-privacy-hub-no-secrets = Nincsenek titkok
 firefox-privacy-hub-youll-always-know-where-you = Mindig tudni fogja, hogy hol áll velünk
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Itt nincsenek rejtett célok. Vállalkozásunk nem arra épít, hogy titokban visszaéljen bizalmával. <a href="{ $privacy }">Adatvédelmi nyilatkozatuk</a> tényleg olvasható. A világon mindenki részt vehet a <a href="{ $meetings }">heti vállalati üléseinken</a>. Ha minden általunk gyűjtött adatpontba belemélyedne, a kódunk nyílt. És mi is azok vagyunk.
 firefox-privacy-hub-why-trust-firefox = Miért bízzon a { -brand-name-firefox }ban?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -36,6 +45,7 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = A { -brand-name-firef
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Több mint 2000 nyomkövető blokkolva – automatikusan
 firefox-privacy-hub-if-you-want-to-see-what = Ha szeretné látni, hogy a { -brand-name-firefox } mit blokkol, akkor keresse fel ezt az oldalt az asztali { -brand-name-firefox } böngészőjében.
+firefox-privacy-hub-see-what-firefox-has-blocked = Nézze meg, mit blokkolt Önnél a { -brand-name-firefox }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Szerezze be a fokozott követés elleni védelmet
 firefox-privacy-hub-download-the-firefox-browser = Töltse le a { -brand-name-firefox } böngészőt
@@ -69,3 +79,6 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Vigye mindenhová magánsz
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
 firefox-privacy-hub-already-have-an-account = Már van fiókja? <a { $sign_in } class="{ $class_name }">Jelentkezzen be</a>, vagy <a href="{ $learn_more }">tudjon meg többet</a> a { -brand-name-firefox }hoz csatlakozásról.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Olvassa el a termékeink <a href="{ $url }">Adatvédelmi nyilatkozatát</a>
