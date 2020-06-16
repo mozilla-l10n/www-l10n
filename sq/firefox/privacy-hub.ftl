@@ -56,3 +56,4 @@ firefox-privacy-hub-invisible-to-the-top-trackers = Të padukshëm për gjurmues
 firefox-privacy-hub-meet-four-of-the-most-common = Njihuni me kategoritë më të rëndomta të gjurmuesve — që s’do t’ju njohin ju.
 firefox-privacy-hub-always-in-your-control = Përherë nën kontrollin tuaj
 firefox-privacy-hub-want-to-customize-what = Dëshironi të përshtatni ç’bllokohet? Rregullimet tuaja janë një klik larg nga kjo.
+firefox-privacy-hub-protection-beyond-tracking = Mbrojtje përtej gjurmimit
