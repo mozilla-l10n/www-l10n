@@ -22,6 +22,7 @@ firefox-privacy-hub-why-trust-firefox = Varför lita på { -brand-name-firefox }
 firefox-privacy-hub-learn-about-our-products = Läs mer om våra produkter
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ spårare blockerade — automatiskt
+firefox-privacy-hub-see-what-firefox-has-blocked = Se vad { -brand-name-firefox } har blockerat för dig
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Få Förbättrat spårningsskydd
 firefox-privacy-hub-download-the-firefox-browser = Ladda ner { -brand-name-firefox } webbläsaren
@@ -29,6 +30,7 @@ firefox-privacy-hub-update-your-firefox-browser = Uppdatera din { -brand-name-fi
 firefox-privacy-hub-always-in-your-control = Alltid under din kontroll
 firefox-privacy-hub-protection-beyond-tracking = Skydd utöver spårning
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-check-for-breaches = Sök efter dataintrång
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Lösenord och inloggningsuppgifter du sparar i { -brand-name-firefox-lockwise } är krypterade på alla dina enheter, så inte ens vi kan se dem.
 firefox-privacy-hub-learn-more-about-lockwise = Läs mer om { -brand-name-lockwise }
