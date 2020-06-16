@@ -41,14 +41,19 @@ firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } 
 firefox-privacy-hub-learn-about-our-products = Läs mer om våra produkter
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } sekretess i alla produkter
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } skyddar din integritet i varje produkt.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>skyddar</strong> din integritet i varje produkt
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ spårare blockerade — automatiskt
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Spårning har blivit en epidemi online: företag följer varje rörelse, klick och köp, samlar in data för att förutsäga och påverka vad du ska göra här näst. Vi tror att det är en grov invasion av din integritet. Det är därför{ -brand-name-firefox } mobila och stationära webbläsare har ett förbättrat spårningsskydd på som standard.
+firefox-privacy-hub-if-you-want-to-see-what = Om du vill se vad { -brand-name-firefox } blockerar för dig, besök den här sidan i din stationära { -brand-name-firefox } webbläsare.
 firefox-privacy-hub-see-what-firefox-has-blocked = Se vad { -brand-name-firefox } har blockerat för dig
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Få Förbättrat spårningsskydd
 firefox-privacy-hub-download-the-firefox-browser = Ladda ner { -brand-name-firefox } webbläsaren
 firefox-privacy-hub-update-your-firefox-browser = Uppdatera din { -brand-name-firefox } webbläsare
-firefox-privacy-hub-invisible-to-the-top-trackers = Osynlig för de bästa av spårare
+firefox-privacy-hub-invisible-to-the-top-trackers = Osynlig för de bästa spårarna
+firefox-privacy-hub-meet-four-of-the-most-common = Möt fyra av de vanligaste kategorierna av spårare — som inte kommer att träffa dig.
 firefox-privacy-hub-always-in-your-control = Alltid under din kontroll
 firefox-privacy-hub-protection-beyond-tracking = Skydd utöver spårning
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
