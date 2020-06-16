@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
+# HTML page title
+lockwise-firefox-lockwise-password = Ñe’ẽñemi mongu’eha ndive { -brand-name-firefox-lockwise } erahakuaa ñe’ẽñemi nendive
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Egueraha ne ñe’ẽñemi nendive
 lockwise-try-lockwise-now = Eipuru { -brand-name-lockwise } ko’ág̃a
