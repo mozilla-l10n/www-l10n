@@ -28,7 +28,7 @@ firefox-products-send-a-file = ایک فائل بھیجیں
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = ویب پر بہترین مواد دریافت کریں - اور جہاں اور جب چاہیں استعمال کریں۔
 firefox-products-get-pocket = { -brand-name-pocket } حاصل کریں
-firefox-products-learn-more-about-pocket = Pocke کہ بارے میں مزید سیکھیں
+firefox-products-learn-more-about-pocket = { -brand-name-pocket } کہ بارے میں مزید سیکھیں
 firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } میں شامل ہوں اور ہر آلے میں ہر مصنوعات سے زیادہ سے زیادہ فائدہ اٹھائیں۔
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
