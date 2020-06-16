@@ -27,8 +27,20 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Vi gör det hårda arbetet 
 firefox-privacy-hub-data-security-is-complicated = Datasäkerhet är komplicerat - eller det borde åtminstone vara det. Därför tar vi de extra stegen för att klassificera de uppgifter vi har, upprätthåller regler för hur vi lagrar och skyddar varje typ och slutar aldrig att upprepa våra processer. Vi prioriterar din integritet. Vi investerar i det och är engagerade i det. Vi lär till och med andra företag hur man gör det.
 firefox-privacy-hub-no-secrets = Inga hemligheter
 firefox-privacy-hub-youll-always-know-where-you = Du kommer alltid att veta var du står hos oss
-firefox-privacy-hub-why-trust-firefox = Varför lita på { -brand-name-firefox }?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Det finns ingen dold agenda här. Vår verksamhet är inte beroende av att i hemlighet missbruka ditt förtroende. Vår <a href="{ $privacy }">sekretesspolicy</a> är faktiskt läsbar. Vem som helst i världen kan delta i våra<a href="{ $meetings }">veckovisa företagsmöten</a>. Om du vill gräva i varje datapunkt vi samlar in är vår kod öppen. Och det är vi också.
+firefox-privacy-hub-why-trust-firefox = Varför ska du lita på { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = För att vi sätter människor först. Vi stöds faktiskt av en <a href="{ $foundation }">ideell organisation</a>. Från första dagen har det varit vårt uppdrag att skydda internet och alla som använder det.
+firefox-privacy-hub-learn-more-about-our-mission = Lär dig mer om vårt uppdrag
+firefox-privacy-hub-your-privacy-by-the-product = Sekretess i varje produkt
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } produkter fungerar annorlunda — eftersom de är utformade för att skydda din integritet först.
 firefox-privacy-hub-learn-about-our-products = Läs mer om våra produkter
+firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } sekretess i alla produkter
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } skyddar din integritet i varje produkt.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ spårare blockerade — automatiskt
 firefox-privacy-hub-see-what-firefox-has-blocked = Se vad { -brand-name-firefox } har blockerat för dig
@@ -36,6 +48,7 @@ firefox-privacy-hub-see-what-firefox-has-blocked = Se vad { -brand-name-firefox 
 firefox-privacy-hub-get-enhanced-tracking-protection = Få Förbättrat spårningsskydd
 firefox-privacy-hub-download-the-firefox-browser = Ladda ner { -brand-name-firefox } webbläsaren
 firefox-privacy-hub-update-your-firefox-browser = Uppdatera din { -brand-name-firefox } webbläsare
+firefox-privacy-hub-invisible-to-the-top-trackers = Osynlig för de bästa av spårare
 firefox-privacy-hub-always-in-your-control = Alltid under din kontroll
 firefox-privacy-hub-protection-beyond-tracking = Skydd utöver spårning
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
