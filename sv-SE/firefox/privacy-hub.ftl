@@ -7,17 +7,26 @@
 
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } Sekretesslöfte
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } lagrar mindre data, håller det säkert och utan hemligheter.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox }-produkter är utformade för att skydda din <strong>integritet</strong>
 # Sub navigation title
 firefox-privacy-privacy = Sekretess
 # Sub navigation link
-firefox-privacy-our-promise = Vårat löfte
+firefox-privacy-our-promise = Vårt löfte
 # Sub navigation link
 firefox-privacy-our-products = Våra produkter
 firefox-privacy-hub-you-should-be-able-to-decide = Du ska kunna bestämma vem som ser din personliga information. Inte bara bland dina vänner, utan med alla annonsörer och företag på internet — inklusive oss.
+firefox-privacy-hub-thats-why-everything-we-make = Det är därför allt vi gör är baserat på vårt löfte om din personliga information.
+firefox-privacy-hub-take-less = Samla mindre
+firefox-privacy-hub-we-make-a-point-of-knowing = Vi värdesätter att veta mindre om dig.
+firefox-privacy-hub-all-tech-companies-collect = Alla tekniska företag samlar in data för att förbättra sina produkter. Men det behöver inte inkludera så mycket av din personliga information. Den enda informationen vi vill ha är de data som tjänar dig i slutändan. Vi frågar oss: behöver vi faktiskt detta? Vad behöver vi det för? Och när kan vi ta bort det?
 firefox-privacy-hub-keep-it-safe = Förvara den säkert
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Vi gör det hårda arbetet för att skydda din personliga information
+firefox-privacy-hub-data-security-is-complicated = Datasäkerhet är komplicerat - eller det borde åtminstone vara det. Därför tar vi de extra stegen för att klassificera de uppgifter vi har, upprätthåller regler för hur vi lagrar och skyddar varje typ och slutar aldrig att upprepa våra processer. Vi prioriterar din integritet. Vi investerar i det och är engagerade i det. Vi lär till och med andra företag hur man gör det.
 firefox-privacy-hub-no-secrets = Inga hemligheter
+firefox-privacy-hub-youll-always-know-where-you = Du kommer alltid att veta var du står hos oss
 firefox-privacy-hub-why-trust-firefox = Varför lita på { -brand-name-firefox }?
 firefox-privacy-hub-learn-about-our-products = Läs mer om våra produkter
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
