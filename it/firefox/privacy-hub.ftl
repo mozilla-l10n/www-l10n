@@ -44,11 +44,15 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } prot
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protegge</strong> la tua privacy in ogni prodotto
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Più di 2.000 elementi bloccati… automaticamente
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Il tracciamento è diventato una vera e propria epidemia online: le aziende seguono ogni tua mossa, clic e acquisto, raccogliendo dati per prevedere e influenzare le tue prossime mosse. Secondo noi, questa è una grave invasione della tua privacy. Per questo motivo i browser mobili e desktop { -brand-name-firefox } hanno la protezione antitracciamento avanzata attiva per impostazione predefinita.
+firefox-privacy-hub-if-you-want-to-see-what = Per vedere gli elementi bloccati da { -brand-name-firefox }, visita questa pagina sul tuo browser { -brand-name-firefox } desktop.
 firefox-privacy-hub-see-what-firefox-has-blocked = Scopri gli elementi bloccati da { -brand-name-firefox } per la tua protezione
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Ottieni la Protezione antitracciamento avanzata
 firefox-privacy-hub-download-the-firefox-browser = Scarica il browser { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Aggiorna il tuo browser { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Invisibile ai principali elementi traccianti
 firefox-privacy-hub-meet-four-of-the-most-common = Ti presentiamo quattro delle categorie più comuni di elementi traccianti. Ora puoi dirgli addio.
 firefox-privacy-hub-always-in-your-control = Sempre sotto il tuo controllo
 firefox-privacy-hub-want-to-customize-what = Vuoi personalizzare gli elementi da bloccare? Le impostazioni sono a portata di clic.
