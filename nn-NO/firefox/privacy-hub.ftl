@@ -50,6 +50,10 @@ firefox-privacy-hub-meet-four-of-the-most-common = Dette er dei fire vanlegaste 
 firefox-privacy-hub-always-in-your-control = Du har kontroll
 firefox-privacy-hub-want-to-customize-what = Vil du tilpasse det som blir blokkert? Innstillingane er berre eitt klikk unna.
 firefox-privacy-hub-protection-beyond-tracking = Vern utover sporing
+firefox-privacy-hub-if-you-have-a-firefox-account = Dersom du har ein { -brand-name-firefox-account }, kan du også sjå korleis vi hjelper deg med å verne om den personlege informasjonen din og passorda dine.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Meir enn { $trackers } sporarar blokkerte kvar dag for { -brand-name-firefox }-brukarar over heile verda
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Sjå etter datalekkasjar
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
