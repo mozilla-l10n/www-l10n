@@ -57,3 +57,18 @@ firefox-privacy-hub-meet-four-of-the-most-common = Njihuni me kategoritë më t�
 firefox-privacy-hub-always-in-your-control = Përherë nën kontrollin tuaj
 firefox-privacy-hub-want-to-customize-what = Dëshironi të përshtatni ç’bllokohet? Rregullimet tuaja janë një klik larg nga kjo.
 firefox-privacy-hub-protection-beyond-tracking = Mbrojtje përtej gjurmimit
+firefox-privacy-hub-if-you-have-a-firefox-account = Nëse keni një { -brand-name-firefox-account }, mundeni edhe të shihni se si ju ndihmojmë të mbroni të dhënat tuaja personale dhe fjalëkalimet tuaj.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Më tepër se { $trackers } gjurmues të bllokuar çdo ditë për përdorues të { -brand-name-firefox }-it anembanë botës
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Kur jepni një adresë email në { -brand-name-firefox-monitor }, e harrojmë menjëherë pasi të kemi kërkuar për ndonjë përputhje në shkelje të ditura të dhënash — veç në na autorizofshi të vazhdojmë të mbikëqyrim cenime të reja për të dhënat tuaja personale.
+firefox-privacy-hub-check-for-breaches = Kontrolloni për cenime
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Fjalëkalimet dhe kredencialet që ruani në { -brand-name-firefox-lockwise } janë të fshehtëzuar në krejt pajisjet tuaja, kështu që as ne vetë nuk mundemi t’i shohim.
+firefox-privacy-hub-learn-more-about-lockwise = Mësoni më tepër rreth { -brand-name-lockwise }-it
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = S’i shohim dot emrat apo lëndën e kartelave të mëdha që ndani me të tjerët përmes { -brand-name-firefox-send }, ngaqë janë të fshehtëzuara skaj-më-skaj — mund të zgjidhni cilët mund të shohin ç’dërgoni, dhe mundeni madje të caktoni një datë skadimi dhe fjalëkalim.
+firefox-privacy-hub-send-a-file = Dërgoni një kartelë
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekomandon artikuj të cilësisë së lartë, në përkujdesje nga njerëz realë, pa grumbulluar historikun tuaj të shfletimeve apo ndarë të dhënat tuaja personal me reklamues.
