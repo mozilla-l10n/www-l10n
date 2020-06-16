@@ -35,3 +35,9 @@ firefox-privacy-hub-why-trust-firefox = Pse të besohet { -brand-name-firefox }-
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Ngaqë së pari vëmë njerëzit. Në fakt, pas krahëve kemi një <a href="{ $foundation }">ent jofitimprurës</a>. Që ditën e parë, ka qenë misioni ynë të mbrojmë internetin dhe këdo në të.
+firefox-privacy-hub-learn-more-about-our-mission = Mësoni më tepër rreth misionit tonë
+firefox-privacy-hub-your-privacy-by-the-product = Privatësia juaj, nga produkti
+firefox-privacy-hub-firefox-products-work-differently = Produktet { -brand-name-firefox } funksionojnë ndryshe — ngaqë janë konceptuar për të mbrojtur privatësinë tuaj së pari.
+firefox-privacy-hub-learn-about-our-products = Mësoni rreth produkteve tona
+firefox-privacy-hub-firefox-privacy-by-the = Privatësi { -brand-name-firefox }, nga produkti
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox }-i mbron privatësinë tuaj në çdo produkt.
