@@ -50,6 +50,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Ti presentiamo quattro delle 
 firefox-privacy-hub-always-in-your-control = Sempre sotto il tuo controllo
 firefox-privacy-hub-want-to-customize-what = Vuoi personalizzare gli elementi da bloccare? Le impostazioni sono a portata di clic.
 firefox-privacy-hub-protection-beyond-tracking = Protezione dal tracciamento… e non solo
+firefox-privacy-hub-if-you-have-a-firefox-account = Se disponi di un { -brand-name-firefox-account }, puoi anche monitorare come proteggiamo le tue informazioni personali e le password.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Più di { $trackers } elementi traccianti bloccati ogni giorno in tutto il mondo per gli utenti di { -brand-name-firefox }
@@ -65,6 +66,9 @@ firefox-privacy-hub-send-a-file = Invia un file
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } consiglia articoli di alta qualità curati da persone in carne e ossa, non raccoglie dati sulla cronologia di navigazione e non condivide le informazioni personali con gli inserzionisti.
 firefox-privacy-hub-get-pocket = Ottieni { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = Il tuo { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Tutte le informazioni sincronizzate tramite il tuo { -brand-name-firefox-account }, dalla cronologia del browser alle password, sono crittate. L’unica chiave per accedervi sono le credenziali del tuo account.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Porta la tua privacy e i tuoi segnalibri ovunque con un { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
