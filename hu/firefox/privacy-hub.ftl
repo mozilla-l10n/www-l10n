@@ -24,7 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Fontosnak tartjuk, hogy keveseb
 firefox-privacy-hub-all-tech-companies-collect = Minden techvállalat adatot gyűjt termékei fejlesztése érdekében. De ehhez nem szükséges annyi személyes adat. Csak olyan adatokat szeretnénk, melyek végül Önt szolgálják. Azt kérdezzük magunktól: valóban szükségünk van erre? Miért van rá szükség? És mikor törölhetjük?
 firefox-privacy-hub-keep-it-safe = Tartsuk biztonságban
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Kemény munkát végzünk személyes adatainak védelme érdekében
-firefox-privacy-hub-data-security-is-complicated = Az adatbiztonság bonyolult – vagy legalábbis annak kellene lennie. Ezért teszünk további lépéseket a meglévő adatok besorolására, szabályokat állítunk fel az egyes típusok tárolásáról és védelméről, és soha nem hagyjuk abba az iterálást a folyamatokon. Az adatvédelmet prioritásként kezeljük. Beruházunk bele. Elkötelezettek vagyunk iránta. És más cégeket is megtanítunk erre.
+firefox-privacy-hub-data-security-is-complicated = Az adatbiztonság összetett– vagy legalábbis annak kellene lennie. Ezért teszünk további lépéseket a meglévő adatok besorolására, szabályokat állítunk fel az egyes típusok tárolásáról és védelméről, és soha nem hagyjuk abba a folyamatok iterálását. Az adatvédelmet prioritásként kezeljük. Ebbe fektetünk. Elkötelezettek vagyunk iránta. És más cégeket is megtanítunk erre.
 firefox-privacy-hub-no-secrets = Nincsenek titkok
 firefox-privacy-hub-youll-always-know-where-you = Mindig tudni fogja, hogy hol áll velünk
 # Variables:
@@ -44,6 +44,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = A { -brand-name-firefox } mi
 firefox-privacy-hub-firefox-protects-your-privacy-strong = A { -brand-name-firefox } minden terméknél <strong>megvédi</strong> a magánszféráját.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Több mint 2000 nyomkövető blokkolva – automatikusan
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = A követés online járvánnyá vált: a cégek minden lépést, kattintást és vásárlást követnek, adatgyűjtést végeznek, hogy előrejelezzék és befolyásolják a következő lépéseit. Úgy gondoljuk, hogy ez a magánszféra durva megsértése. A { -brand-name-firefox } mobil- és asztali böngészők ezért alapértelmezetten fokozott nyomkövetés elleni védelemmel rendelkeznek.
 firefox-privacy-hub-if-you-want-to-see-what = Ha szeretné látni, hogy a { -brand-name-firefox } mit blokkol, akkor keresse fel ezt az oldalt az asztali { -brand-name-firefox } böngészőjében.
 firefox-privacy-hub-see-what-firefox-has-blocked = Nézze meg, mit blokkolt Önnél a { -brand-name-firefox }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
