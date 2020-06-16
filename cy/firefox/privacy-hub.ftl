@@ -31,3 +31,10 @@ firefox-privacy-hub-youll-always-know-where-you = Byddwch bob amser yn gwybod bl
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Does dim agenda gudd yma. Nid yw ein busnes yn dibynnu ar gamddefnyddio eich ymddiriedolaeth yn gyfrinachol. Mae ein <a href="{ $privacy }">Hysbysiad Preifatrwydd</a> yn ddarllenadwy! Gall unrhyw un yn y byd fynychu ein cyfarfodydd cwmni wythnosol <a href="{ $meetings }">. Os ydych chi am fynd ar ôl pob pwynt data rydym yn ei gasglu, mae ein cod ar agor. Ac felly ninnau hefyd.
+firefox-privacy-hub-why-trust-firefox = Pam ymddiried yn { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Oherwydd ein bod ni'n rhoi pobl yn gyntaf. Mewn gwirionedd, mae <a href="{ $foundation }"> dim-er-elw </a> yn gefn inni. O'r diwrnod cyntaf, ein cenhadaeth oedd amddiffyn y rhyngrwyd a phawb arno.
+firefox-privacy-hub-learn-more-about-our-mission = Dysgu rhagor am ein cenhadaeth
+firefox-privacy-hub-your-privacy-by-the-product = Eich preifatrwydd, yn ôl y cynnyrch
+firefox-privacy-hub-firefox-products-work-differently = Mae cynnyrch { -brand-name-firefox } yn gweithio'n wahanol - oherwydd eu bod wedi'u cynllunio i roi blaenoriaeth i ddiogelu eich preifatrwydd.
