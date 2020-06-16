@@ -24,7 +24,7 @@ download-button-your-system-does-not = Sistemi juaj nuk i plotëson <a href="{ $
 download-button-firefox-other-platforms = { -brand-name-firefox } për Platforma & Gjuhë të Tjera
 download-button-update-your-firefox = Përditësoni { -brand-name-firefox }-in
 download-button-get-firefox-android = Merrni { -brand-name-firefox }-in për { -brand-name-android }
-download-button-get-firefox-ios = Merreni për { -brand-name-ios }
+download-button-get-firefox-ios = Merrni { -brand-name-firefox } për { -brand-name-ios }
 download-button-google-play = Merreni te { -brand-name-google-play }
 download-button-free-google-play = Merreni falas te { -brand-name-google-play }
 download-button-app-store = Merreni falas te { -brand-name-app-store }
@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> për { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> për { -brand-name-ios }
 download-button-firefox-privacy = Privatësia Në { -brand-name-firefox }
+download-button-firefox-privacy-notice = Shënim { -brand-name-firefox } Mbi Privatësinë
 download-button-download = Shkarkoje
