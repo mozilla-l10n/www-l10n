@@ -32,6 +32,9 @@ firefox-privacy-hub-youll-always-know-where-you = Potrai sempre fare affidamento
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Non abbiamo secondi fini nascosti. Non abusiamo segretamente della tua fiducia per guadagnarci sopra. La nostra <a href="{ $privacy }">Informativa sulla privacy</a> è scritta per essere comprensibile. Chiunque nel mondo può assistere alle nostre <a href="{ $meetings }">riunioni aziendali settimanali</a>. Se desideri esaminare un qualsiasi nostro punto di raccolta dati, il nostro codice è aperto. E lo siamo anche noi.
 firefox-privacy-hub-why-trust-firefox = Perché fidarsi di { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Perché mettiamo al primo posto le persone. Non per niente, siamo sostenuti da un’<a href="{ $foundation }">organizzazione senza fini di lucro</a>. Fin dal primo giorno, la nostra missione è stata quella di proteggere Internet e tutti coloro che lo utilizzano.
 firefox-privacy-hub-learn-more-about-our-mission = Ulteriori informazioni sulla nostra missione
 firefox-privacy-hub-your-privacy-by-the-product = La tua privacy in ogni prodotto
 firefox-privacy-hub-firefox-products-work-differently = I prodotti { -brand-name-firefox } funzionano in modo diverso, perché sono progettati per proteggere innanzitutto la tua privacy.
