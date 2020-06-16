@@ -7,6 +7,8 @@
 
 # HTML page title
 lockwise-firefox-lockwise-password = Ñe’ẽñemi mongu’eha ndive { -brand-name-firefox-lockwise } erahakuaa ñe’ẽñemi nendive
+# HTML page description
+lockwise-firefox-lockwise-lets-you = { -brand-name-firefox-lockwise } omoneĩta eikekuaa hag̃ua tekorosãme ñe’ẽñemi eñongatúvape { -brand-name-firefox } rupi oimeraẽva tenda, avei kundaháragui okápe. Oreko papapy 256 bits ha Face/Touch ID.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Egueraha ne ñe’ẽñemi nendive
 lockwise-try-lockwise-now = Eipuru { -brand-name-lockwise } ko’ág̃a
