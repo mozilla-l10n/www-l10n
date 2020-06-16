@@ -36,21 +36,34 @@ firefox-privacy-hub-learn-more-about-our-mission = Ulteriori informazioni sulla 
 firefox-privacy-hub-your-privacy-by-the-product = La tua privacy in ogni prodotto
 firefox-privacy-hub-firefox-products-work-differently = I prodotti { -brand-name-firefox } funzionano in modo diverso, perché sono progettati per proteggere innanzitutto la tua privacy.
 firefox-privacy-hub-learn-about-our-products = Scopri i nostri prodotti
+firefox-privacy-hub-firefox-privacy-by-the = La privacy di { -brand-name-firefox }, in ogni prodotto
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protegge la tua privacy in ogni prodotto.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protegge</strong> la tua privacy in ogni prodotto
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Più di 2.000 elementi bloccati… automaticamente
+firefox-privacy-hub-see-what-firefox-has-blocked = Scopri gli elementi bloccati da { -brand-name-firefox } per la tua protezione
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Ottieni la Protezione antitracciamento avanzata
 firefox-privacy-hub-download-the-firefox-browser = Scarica il browser { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Aggiorna il tuo browser { -brand-name-firefox }
+firefox-privacy-hub-meet-four-of-the-most-common = Ti presentiamo quattro delle categorie più comuni di elementi traccianti. Ora puoi dirgli addio.
 firefox-privacy-hub-always-in-your-control = Sempre sotto il tuo controllo
+firefox-privacy-hub-want-to-customize-what = Vuoi personalizzare gli elementi da bloccare? Le impostazioni sono a portata di clic.
+firefox-privacy-hub-protection-beyond-tracking = Protezione dal tracciamento… e non solo
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Più di { $trackers } elementi traccianti bloccati ogni giorno in tutto il mondo per gli utenti di { -brand-name-firefox }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Quando inserisci il tuo indirizzo email in { -brand-name-firefox-monitor }, viene rimosso subito dopo averne verificato l’eventuale coinvolgimento in violazioni di dati conosciute, a meno che non ci autorizzi a monitorare nuove violazioni delle tue informazioni personali.
 firefox-privacy-hub-check-for-breaches = Cerca nelle violazioni
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Le password e le credenziali salvate in { -brand-name-firefox-lockwise } sono crittate su tutti i tuoi dispositivi: nemmeno noi possiamo vederle.
 firefox-privacy-hub-learn-more-about-lockwise = Ulteriori informazioni su { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Grazie alla crittografia end-to-end, neanche noi possiamo vedere i nomi o il contenuto dei file di grandi dimensioni che condividi tramite { -brand-name-firefox-send }: sei tu a scegliere chi può vedere ciò che invii e puoi persino impostare data di scadenza e password.
 firefox-privacy-hub-send-a-file = Invia un file
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } consiglia articoli di alta qualità curati da persone in carne e ossa, non raccoglie dati sulla cronologia di navigazione e non condivide le informazioni personali con gli inserzionisti.
 firefox-privacy-hub-get-pocket = Ottieni { -brand-name-pocket }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
