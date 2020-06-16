@@ -20,6 +20,7 @@ firefox-privacy-our-products = Τα προϊόντα μας
 firefox-privacy-hub-no-secrets = Χωρίς μυστικά
 firefox-privacy-hub-why-trust-firefox = Για να εμπιστευτώ το { -brand-name-firefox };
 firefox-privacy-hub-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
+firefox-privacy-hub-your-privacy-by-the-product = Το απόρρητό σας, ανά προϊόν
 firefox-privacy-hub-learn-about-our-products = Μάθετε για τα προϊόντα μας
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000+ αποκλεισμένοι ιχνηλάτες — αυτόματα
