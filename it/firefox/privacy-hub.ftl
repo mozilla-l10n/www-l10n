@@ -31,3 +31,9 @@ firefox-privacy-hub-learn-more-about-our-mission = Ulteriori informazioni sulla 
 firefox-privacy-hub-your-privacy-by-the-product = La tua privacy in ogni prodotto
 firefox-privacy-hub-firefox-products-work-differently = I prodotti { -brand-name-firefox } funzionano in modo diverso, perché sono progettati per proteggere innanzitutto la tua privacy.
 firefox-privacy-hub-learn-about-our-products = Scopri i nostri prodotti
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Ottieni la Protezione antitracciamento avanzata
+firefox-privacy-hub-download-the-firefox-browser = Scarica il browser { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Aggiorna il tuo browser { -brand-name-firefox }
+firefox-privacy-hub-always-in-your-control = Sempre sotto il tuo controllo
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
