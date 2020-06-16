@@ -27,3 +27,11 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Punën e zorshme për të m
 firefox-privacy-hub-data-security-is-complicated = Siguria e të dhënave është e komplikuar — ose, të paktën e tillë duhet të jetë. Që është edhe arsyeja pse ndërmarrin hapa ekstra për kufizim hyrjeje në të dhënat që kemi, mirëmbajmë rregulla se si i depozitojmë dhe mbrojmë çdo lloj, dhe s’reshtim kurrë së rikthyeri proceseve tona. I japim përparësi privatësisë tuaj. Investojmë për të. I jemi përkushtuar asaj. Madje u mësojmë edhe shoqërive të tjera se si ta bëjnë edhe ato.
 firefox-privacy-hub-no-secrets = Pa të fshehta
 firefox-privacy-hub-youll-always-know-where-you = Do ta dini përherë se ku jeni me ne
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = S’ka plane të fshehta këtu. Biznesi ynë s’varet nga abuzimi ynë në fshehtësi i mirëbesimit tuaj. <a href="{ $privacy }">Shënimi ynë i Privatësisë</a> është në fakt i lexueshëm. Cilido në botë mund të marrë pjesë në <a href="{ $meetings }">mbledhjet tona të përjavshme të shoqërisë</a>. Nëse doni të rrëmoni në çdo të dhënë që grumbullojmë, kodi ynë është i hapur. Dhe kështu jemi edhe ne.
+firefox-privacy-hub-why-trust-firefox = Pse të besohet { -brand-name-firefox }-i?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Ngaqë së pari vëmë njerëzit. Në fakt, pas krahëve kemi një <a href="{ $foundation }">ent jofitimprurës</a>. Që ditën e parë, ka qenë misioni ynë të mbrojmë internetin dhe këdo në të.
