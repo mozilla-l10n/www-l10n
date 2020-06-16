@@ -72,3 +72,5 @@ firefox-privacy-hub-we-cant-see-the-names-or = S’i shohim dot emrat apo lënd�
 firefox-privacy-hub-send-a-file = Dërgoni një kartelë
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekomandon artikuj të cilësisë së lartë, në përkujdesje nga njerëz realë, pa grumbulluar historikun tuaj të shfletimeve apo ndarë të dhënat tuaja personal me reklamues.
+firefox-privacy-hub-get-pocket = Merreni { -brand-name-pocket }-in
+firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } e juaj
