@@ -45,6 +45,7 @@ firefox-privacy-hub-download-the-firefox-browser = Scarica il browser { -brand-n
 firefox-privacy-hub-update-your-firefox-browser = Aggiorna il tuo browser { -brand-name-firefox }
 firefox-privacy-hub-always-in-your-control = Sempre sotto il tuo controllo
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-check-for-breaches = Cerca nelle violazioni
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Ulteriori informazioni su { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
