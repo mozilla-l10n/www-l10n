@@ -17,6 +17,7 @@ firefox-privacy-privacy = 隐私
 firefox-privacy-our-promise = 我们的承诺
 # Sub navigation link
 firefox-privacy-our-products = 我们的产品
+firefox-privacy-hub-you-should-be-able-to-decide = 您有权决定谁可以看到您的个人信息。不只是在朋友之间，而且包括互联网上的每一个广告商和公司（包括我们在内）。
 firefox-privacy-hub-thats-why-everything-we-make = 这就是我们的所作所为，均须遵守我们的“个人数据承诺”的原因
 firefox-privacy-hub-take-less = 索取更少
 firefox-privacy-hub-we-make-a-point-of-knowing = 我们希望知道您越少的数据越好
@@ -30,6 +31,9 @@ firefox-privacy-hub-no-secrets = 绝不隐瞒
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = 这里没有不成文的规定。我们的运营并不依赖于暗中滥用您对我们的信任。我们的<a href="{ $privacy }">隐私声明</a>通俗易懂；任何人都能参与我们的<a href="{ $meetings }">公司内部周会</a>。若您想了解我们收集的每一个数据点，代码是公开的的，我们也是。
 firefox-privacy-hub-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = 因为我们以人为本。实际上，我们一直由<a href="{ $foundation }">非营利组织</a>鼎力相挺。自成立第一天起，我们的使命就是守护互联网及其上的每个人。
 firefox-privacy-hub-learn-more-about-our-mission = 进一步了解我们的使命
 firefox-privacy-hub-learn-about-our-products = 了解我们的产品
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } 隐私，用产品说话
