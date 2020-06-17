@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# Sub navigation title
+firefox-privacy-privacy = Tabaḍnit
 firefox-privacy-hub-update-your-firefox-browser = Leqqem iminig-inek { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Ur d-yettban ara i yineḍfaren ifazen
 firefox-privacy-hub-protection-beyond-tracking = Ammesten yekka nnig uḍfar
