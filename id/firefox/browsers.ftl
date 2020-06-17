@@ -20,8 +20,8 @@ firefox-browsers-download-for-mobile = Unduh untuk Seluler
 firefox-browsers-send-me-a-link = Kirimkan tautannya
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Dapatkan perlindungan data yang tak tertandingi dengan siklus dukungan yang disesuaikan dengan kebutuhan perusahaan Anda.
-firefox-browsers-enterprise-packages = Paket enterprise
-firefox-browsers-reality = Realita
+firefox-browsers-enterprise-packages = Paket { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Melampaui dua dimensi dan menikmati konten imersif terbaik dari seluruh web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Bangun situs dan perbaiki kode Anda dengan { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
