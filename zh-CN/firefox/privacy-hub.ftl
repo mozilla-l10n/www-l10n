@@ -44,6 +44,10 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 自动拦截超过 2,000 种跟踪器
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = “跟踪”已是一种网络顽疾：商业公司会跟踪您的操作、鼠标点击、购买活动，收集各种数据，以借此预测和影响您的一举一动。我们认为这是对您隐私的严重侵犯，因此默认情况下，{ -brand-name-firefox } 移动版与桌面版浏览器便开启“增强型跟踪保护”。
+firefox-privacy-hub-if-you-want-to-see-what = 若您想知道 { -brand-name-firefox } 帮您拦截了哪些东西，请用 { -brand-name-firefox } 桌面版浏览器打开此网页。
+firefox-privacy-hub-see-what-firefox-has-blocked = 看看 { -brand-name-firefox } 为您拦截了哪些东西
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = 获得增强型跟踪保护
 firefox-privacy-hub-download-the-firefox-browser = 下载 { -brand-name-firefox } 浏览器
 firefox-privacy-hub-update-your-firefox-browser = 更新您的 { -brand-name-firefox } 浏览器
@@ -57,6 +61,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-fire
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } 每天为全球用户拦截超过 { $trackers } 个跟踪器
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = 当您把电子邮件地址输入到 { -brand-name-firefox-monitor } 时，我们会检查是否有已知数据外泄事件，尔后自动将其忘记——除非您授权我们继续为您监控新的数据外泄事件。
 firefox-privacy-hub-check-for-breaches = 检查是否有外泄事件
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = 存放在 { -brand-name-firefox-lockwise } 的账户密码，在您的每一台设备上都经过加密，就算是我们也无法破解。
@@ -67,6 +72,8 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } 向您推荐人工精选的高质量文章，但并不会收集您的浏览历史或将您的个人信息售卖给广告商。
 firefox-privacy-hub-get-pocket = 获取 { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = 所有通过 { -brand-name-firefox-account } 同步的信息（从浏览历史到网站密码）都经过加密，只有您自己知道的密码才能“破译”。
+firefox-privacy-hub-take-your-privacy-and-bookmarks = 使用 { -brand-name-firefox-account }，将您的个人数据与书签随身携带。
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
