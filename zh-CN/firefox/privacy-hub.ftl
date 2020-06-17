@@ -26,6 +26,7 @@ firefox-privacy-hub-keep-it-safe = 确保安全
 firefox-privacy-hub-we-do-the-hard-work-to-protect = 我们会努力保护您的个人信息
 firefox-privacy-hub-data-security-is-complicated = 数据安全十分复杂。正因如此，我们采取各种方式，对收集到的数据进行分类，针对不同的数据维护不同的存储、保护规则。这个过程会不断改进，永无止境。我们以保护您的隐私为己任，并对此持续进行投入，坚持不懈。我们也倡导其他公司亦能如此。
 firefox-privacy-hub-no-secrets = 绝不隐瞒
+firefox-privacy-hub-youll-always-know-where-you = 我们的一切，公开透明
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
