@@ -4,6 +4,10 @@
 
 newsletter-form-please-enter-a-valid = ਆਪਣਾ ਜਾਇਜ਼ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਦਿਉ ਜੀ
 newsletter-form-you-must-agree-to = ਤੁਸੀਂ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨਾਲ ਸਹਿਮਤ ਹੋਣੇ ਚਾਹੀਦੇ ਹੋ
+newsletter-form-your-email-address = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = ਦੇਸ਼ ਜਾਂ ਖਿੱਤਾ ਚੁਣੋ
 newsletter-form-your-email-here = ਤੁਹਾਡਾ ਈਮੇਲ ਇੱਥੇ
 newsletter-form-format = ਫਾਰਮੈਟ
 newsletter-form-html = HTML
