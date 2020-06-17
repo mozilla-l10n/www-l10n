@@ -18,6 +18,7 @@ firefox-privacy-our-promise = Onze belofte
 # Sub navigation link
 firefox-privacy-our-products = Onze producten
 firefox-privacy-hub-you-should-be-able-to-decide = U zou moeten kunnen beslissen wie uw persoonlijke gegevens te zien krijgt. Niet alleen onder uw vrienden, maar bij elke adverteerder en elk bedrijf op internet – ook bij ons.
+firefox-privacy-hub-thats-why-everything-we-make = Daarom respecteert alles wat we maken en doen onze belofte over persoonlijke gegevens
 firefox-privacy-hub-take-less = Neem minder
 firefox-privacy-hub-we-make-a-point-of-knowing = We maken er een punt van dat we minder van u weten
 firefox-privacy-hub-all-tech-companies-collect = Alle technologiebedrijven verzamelen gegevens om hun producten te verbeteren. Maar ze hoeven niet zoveel van uw persoonlijke gegevens te bevatten. De enige gegevens die we willen zijn de gegevens die u uiteindelijk tot nut zijn. We vragen ons af: hebben we dit echt nodig? Waar hebben we het voor nodig? En wanneer kunnen we het verwijderen?
@@ -70,5 +71,16 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = We kunnen de namen of inhoud van de grote bestanden die u via { -brand-name-firefox-send } deelt niet zien, omdat ze end-to-end worden versleuteld – u kiest wie ziet wat u verstuurt en u kunt zelfs een vervaldatum en een wachtwoord instellen.
 firefox-privacy-hub-send-a-file = Een bestand verzenden
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } beveelt hoogwaardige, door mensen beheerde artikelen aan zonder uw surfgeschiedenis te verzamelen of uw persoonlijke gegevens met adverteerders te delen.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } gebruiken
 firefox-privacy-hub-your-firefox-account = Uw { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Alle informatie die wordt gesynchroniseerd via uw { -brand-name-firefox-account } – van navigatiegeschiedenis tot wachtwoorden – wordt versleuteld. En uw accountwachtwoord is de enige sleutel.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Neem uw privacy en bladwijzers overal mee naartoe met een { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Hebt u al een account? <a { $sign_in } ="{ $class_name }">Meld u aan</a> of <a href="{ $learn_more }">lees meer</a> over meedoen met { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Lees de <a href="{ $url }">Privacyverklaring</a> voor onze producten
