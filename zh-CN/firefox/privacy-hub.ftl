@@ -35,6 +35,8 @@ firefox-privacy-hub-why-trust-firefox = 凭什么相信 { -brand-name-firefox }�
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = 因为我们以人为本。实际上，我们一直由<a href="{ $foundation }">非营利组织</a>鼎力相挺。自成立第一天起，我们的使命就是守护互联网及其上的每个人。
 firefox-privacy-hub-learn-more-about-our-mission = 进一步了解我们的使命
+firefox-privacy-hub-your-privacy-by-the-product = 您的隐私，我们来守护
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } 的产品不一般 —— 保护您的隐私是其首先设计宗旨。
 firefox-privacy-hub-learn-about-our-products = 了解我们的产品
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } 隐私，用产品说话
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } 的所有产品都保护您的隐私。
