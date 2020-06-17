@@ -13,6 +13,7 @@ firefox-new-automatic-privacy-is-here = ਆਟੋਮੈਟਿਕ ਪਰਦੇਦ
 firefox-new-get-the-latest-firefox = ਨਵਾਂ ਨਕੋਰ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਲਵੋ।
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } ਤੁਹਾਨੂੰ ਦਿਖਾਉਂਦਾ ਹੈ ਕਿ <strong>ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ</strong> ਨਾਲ ਕਿੰਨੇ ਡਾਟਾ-ਇਕੱਤਰ ਕਰਨ ਵਾਲੇ ਟਰੈਕਰਾਂ ਉਤੇ ਪਾਬੰਦੀ ਲਾਈ ਜਾ ਰਹੀ ਹੈ।
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਮੌਜੂਦਾ { -brand-name-firefox } ਰਾਹੀਂ ਤੁਹਾਨੂੰ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਤੇ ਉਪਲੱਬਧ ਬਣਾਉਂਦਾ ਹੈ।
+firefox-new-firefox-monitor-alerts = ਜੇ ਸਾਨੂੰ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਦਾ ਕਿਸੇ ਹੋਰ ਕੰਪਨੀ ਦੇ ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਦੇ ਹਿੱਸੇ ਵਿੱਚ ਪਤਾ ਲੱਗਦਾ ਹੈ ਤਾਂ <strong>{ -brand-name-firefox-monitor }</strong> ਤੁਹਾਨੂੰ ਚੌਕਸ ਕਰਦਾ ਹੈ।
 firefox-new-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਮੌਜੂਦਾ { -brand-name-firefox } ਰਾਹੀਂ ਤੁਹਾਨੂੰ ਪਾਸਵਰਡ ਸੰਭਾਲਣੇ ਸੰਭਵ ਬਣਾਉਂਦਾ ਹੈ।
 # span's below are for visual formatting and line break.

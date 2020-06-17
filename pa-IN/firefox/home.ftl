@@ -12,6 +12,7 @@ firefox-home-know-when-hackers-strike = ਜਾਣੋ ਕਿ ਕਦੋਂ ਹੈ�
 firefox-home-keep-your-passwords = ਹਰੇਕ ਡਿਵਾਇਸ ਉਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
+firefox-home-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
 firefox-home-learn-more-about-joining = { -brand-name-firefox } ਨਾਲ ਜੁੜਨ ਲਈ ਹੋਰ ਜਾਣੋ
 firefox-home-get-the-browser-extension = ਬਰਾਊਜ਼ਰ ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ਇਕਸਟੈਕਸ਼ਨ ਲਵੋ
