@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = ਆਪਣਾ ਜਾਇਜ਼ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਦਿਉ ਜੀ
+newsletter-form-you-must-agree-to = ਤੁਸੀਂ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨਾਲ ਸਹਿਮਤ ਹੋਣੇ ਚਾਹੀਦੇ ਹੋ
 newsletter-form-your-email-here = ਤੁਹਾਡਾ ਈਮੇਲ ਇੱਥੇ
 newsletter-form-format = ਫਾਰਮੈਟ
 newsletter-form-html = HTML

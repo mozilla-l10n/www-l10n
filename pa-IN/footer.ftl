@@ -46,6 +46,7 @@ footer-websites-privacy-notice = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰ�
 footer-websites-cookies = ਕੂਕੀਜ਼
 footer-websites-legal = ਕਨੂੰਨੀ
 footer-language = ਭਾਸ਼ਾ
+footer-go = ਜਾਓ
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
