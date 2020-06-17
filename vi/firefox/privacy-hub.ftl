@@ -27,3 +27,28 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Chúng tôi làm việc ch�
 firefox-privacy-hub-data-security-is-complicated = Bảo mật dữ liệu rất phức tạp — hoặc ít nhất là nó phải như vậy. Đó là lý do tại sao chúng tôi thực hiện các bước bổ sung để phân loại dữ liệu chúng tôi có, duy trì các quy tắc về cách chúng tôi lưu trữ và bảo vệ từng loại và không bao giờ ngừng lặp lại trên các quy trình của chúng tôi. Chúng tôi ưu tiên sự riêng tư của bạn. Chúng tôi đầu tư vào nó. Chúng tôi cam kết với nó. Chúng tôi thậm chí còn dạy các công ty khác cách làm điều đó.
 firefox-privacy-hub-no-secrets = Không có bí mật
 firefox-privacy-hub-youll-always-know-where-you = Bạn sẽ luôn biết bạn đang đứng cùng chúng tôi ở đâu
+firefox-privacy-hub-why-trust-firefox = Tại sao tin tưởng { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Bởi vì chúng tôi đặt mọi người lên hàng đầu. Trên thực tế, chúng tôi đã được hỗ trợ bởi một <a href="{ $foundation }">phi lợi nhuận</a>. Ngay từ ngày đầu, nó đã là nhiệm vụ của chúng tôi để bảo vệ internet và mọi người trên đó.
+firefox-privacy-hub-learn-more-about-our-mission = Tìm hiểu thêm về sứ mệnh của chúng tôi
+firefox-privacy-hub-your-privacy-by-the-product = Sự riêng tư của bạn, bởi sản phẩm
+firefox-privacy-hub-firefox-products-work-differently = Các sản phẩm { -brand-name-firefox } hoạt động khác nhau — vì chúng được thiết kế để bảo vệ quyền riêng tư của bạn trước tiên.
+firefox-privacy-hub-learn-about-our-products = Tìm hiểu về các sản phẩm của chúng tôi
+firefox-privacy-hub-firefox-privacy-by-the = Quyền riêng tư { -brand-name-firefox }, bởi sản phẩm
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } bảo vệ quyền riêng tư của bạn trong mọi sản phẩm.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>bảo vệ</strong> quyền riêng tư của bạn trong mọi sản phẩm
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Hơn 2.000 trình theo dõi bị chặn — tự động
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Theo dõi đã trở thành một dịch bệnh trực tuyến: các công ty theo dõi mọi di chuyển, nhấp và mua, thu thập dữ liệu để dự đoán và ảnh hưởng đến những gì bạn sẽ làm tiếp theo. Chúng tôi nghĩ rằng, một cuộc xâm lược thô thiển về quyền riêng tư của bạn. Đó là lý do tại sao { -brand-name-firefox } trình duyệt trên thiết bị di động và máy tính để bàn có tính năng Bảo vệ theo dõi nâng cao theo mặc định.
+firefox-privacy-hub-if-you-want-to-see-what = Nếu bạn muốn xem { -brand-name-firefox } đang chặn gì cho bạn, hãy truy cập trang này trên trình duyệt máy tính để bàn { -brand-name-firefox } của bạn.
+firefox-privacy-hub-see-what-firefox-has-blocked = Xem những gì { -brand-name-firefox } đã chặn cho bạn
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Nhận trình chống theo dõi nâng cao
+firefox-privacy-hub-download-the-firefox-browser = Tải xuống trình duyệt { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Cập nhật { -brand-name-firefox } của bạn
+firefox-privacy-hub-invisible-to-the-top-trackers = Vô hình để theo dõi hàng đầu
+firefox-privacy-hub-meet-four-of-the-most-common = Gặp bốn trong số những trình theo dõi phổ biến nhất — sẽ không gặp bạn.
+firefox-privacy-hub-always-in-your-control = Luôn trong tầm kiểm soát của bạn
+firefox-privacy-hub-want-to-customize-what = Bạn muốn tùy chỉnh những gì bị chặn? Cài đặt của bạn chỉ là một cú nhấn chuột.
