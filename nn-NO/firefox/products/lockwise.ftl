@@ -9,6 +9,7 @@
 lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — passordhandterar — ta passorda dine med overalt
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Ta med deg passorda dine overalt
+lockwise-securely-access-the-passwords = Få trygg tilgang til passorda du har lagra i { -brand-name-firefox } fra å kvar som helst — sjølv utanfor nettlesaren.
 lockwise-try-lockwise-now = Prøv { -brand-name-lockwise } no
 lockwise-install-for-firefox = Installer for { -brand-name-firefox }
 lockwise-open-in-firefox = Opne i { -brand-name-firefox }
