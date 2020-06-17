@@ -65,6 +65,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } tilrår høgkvalitetsartiklar, sett saman av menneske utan å samle inn surfehistorikken din eller dele den personlege informasjonen din med annonsørar.
 firefox-privacy-hub-get-pocket = Hent { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Din { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = All informasjon som er synkronisert gjennom { -brand-name-firefox-account } — frå nettlesarhistorikk til passord — er kryptert. Og passordet ditt er den einaste nøkkelen.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Ta med personvernet ditt og bokmerka dine overalt med ein { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
