@@ -2,30 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-download-firefox = ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
-navigation-get-a-firefox-account = ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਲਵੋ
-navigation-firefox-browser-for-desktop = ਡੈਸਕਟਾਪ ਲਈ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ
-navigation-firefox-browser-for-mobile = ਮੋਬਾਈਲ ਲਈ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ
+navigation-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
+navigation-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ
+navigation-firefox-browser-for-desktop = ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = ਮੋਬਾਈਲ ਲਈ { -brand-name-firefox-browser }
 navigation-download-for-ios = { -brand-name-ios } ਲਈ ਡਾਉਨਲੋਡ ਕਰੋ
-navigation-download-for-android = ਐਂਡਰਾਇਡ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ
+navigation-download-for-android = { -brand-name-android } ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ
 navigation-ios-support = { -brand-name-ios } ਸਹਿਯੋਗ
-navigation-android-support = ਐਂਡਰਾਇਡ ਸਹਿਯੋਗ
+navigation-android-support = { -brand-name-android } ਸਹਿਯੋਗ
 navigation-firefox-browser-for-enterprise = ਇੰਟਰਪਰਾਈਜ਼ ਲਈ { -brand-name-firefox-browser }
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } ਲਈ { -brand-name-firefox }
-navigation-join-firefox = ਫਾਇਰਫਾਕਸ ਦਾ ਹਿੱਸਾ ਬਣੋ
+navigation-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
 navigation-meet-the-firefox-family = { -brand-name-firefox } ਸਮੂਹ ਨੂੰ ਮਿਲੋ
 navigation-firefox-blog = { -brand-name-firefox } ਬਲੌਗ
 navigation-mozilla-careers = { -brand-name-mozilla } ਕੈਰੀਅਰ
-navigation-close-firefox-menu = ਫਾਇਰਫਾਕਸ ਮੇਨੂ ਬੰਦ ਕਰੋ
-navigation-get-firefox = ਫਾਇਰਫਾਕਸ ਲਵੋ
-navigation-get-firefox-focus = ਫਾਇਰਫਾਕਸ ਫੋਕਸ ਲਵੋ
-navigation-android-extensions = ਐਂਡਰਾਇਡ ਇਕਸਟੈਨਸ਼ਨਾਂ
-navigation-your-firefox-account = ਤੁਹਾਡਾ ਫਾਇਰਫਾਕਸ ਖਾਤਾ
-navigation-mozilla-webvr = ਮੋਜ਼ੀਲਾ WebVR
-navigation-firefox-built-just-for = ਫਾਇਰਫਾਕਸ, ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ।
-navigation-firefox-playground = ਫਾਇਰਫਾਕਸ ਮੈਦਾਨ
+navigation-close-firefox-menu = { -brand-name-firefox } ਮੇਨੂ ਬੰਦ ਕਰੋ
+navigation-get-firefox = { -brand-name-firefox } ਲਵੋ
+navigation-get-firefox-focus = { -brand-name-firefox-focus } ਫੋਕਸ ਲਵੋ
+navigation-android-extensions = { -brand-name-android } ਇਕਸਟੈਨਸ਼ਨਾਂ
+navigation-your-firefox-account = ਤੁਹਾਡਾ { -brand-name-firefox-account }
+navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-firefox-built-just-for = { -brand-name-firefox }, ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ।
+navigation-firefox-playground = { -brand-name-firefox } ਮੈਦਾਨ
 navigation-mozilla-open-source-support = { -brand-name-mozilla } ਆਜ਼ਾਦ ਸਰੋਤ ਸਹਿਯੋਗ (MOSS)
-navigation-mozilla-manifesto = ਮੋਜ਼ੀਲਾ ਮੈਨੀਫਿਸਟੋ
+navigation-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 navigation-menu = ਮੇਨੂ
 navigation-check-out-the-benefits = ਫਾਇਦੇ ਵੇਖੋ
 navigation-browsers = ਬਰਾਊਜ਼ਰ
