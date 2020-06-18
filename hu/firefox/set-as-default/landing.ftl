@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = A { -brand-name-firefox } alapértelmezett böngészővé tétele
+# HTML page description
+set-as-default-landing-choose-the-browser = Válassza azt a böngészőt, amely megvédi a magánszféráját. Állítsa be alapértelmezett böngészőként a { -brand-name-firefox }ot.
 set-as-default-landing-make-sure-youre-protected = Ha fellép az internetre, győződjön meg róla, hogy védve van-e
 set-as-default-landing-thanks-for-using-the = Köszönjük, hogy a legújabb { -brand-name-firefox } böngészőt használja. Amikor a { -brand-name-firefox }ot választja, egy jobb internetet támogat, saját maga és mindenki más számára. Most pedig tegye meg a következő lépést a saját védelme érdekében.
 set-as-default-landing-choose-automatic-privacy = Válassza az automatikus adatvédelmet
