@@ -15,7 +15,7 @@ newsletter-form-text = מלל
 newsletter-form-get-firefox-news = קבלת חדשות { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = מקובלת עלי הדרך בה { -brand-name-mozilla } מטפלת במידע שלי כמוסבר ב<a href="{ $url }">הצהרת פרטיות זו</a>
+newsletter-form-im-okay-with-mozilla = מקובלת עלי הדרך בה { -brand-name-mozilla } מטפלת במידע שלי כפי שמוסבר ב<a href="{ $url }">הצהרת פרטיות</a> זו
 newsletter-form-we-will-only-send = אנו נשלח אליך רק מידע שקשור ל־{ -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = אם לא אישרת בעבר הרשמה לניוזלטרים של { -brand-name-mozilla }, יהיה עליך לעשות זאת. נא לבדוק את תיבת הדואר הנכנס או את מסנני דואר הזבל כדי לאתר את הודעת הדואר האלקטרוני ששלחנו.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> ואתם
