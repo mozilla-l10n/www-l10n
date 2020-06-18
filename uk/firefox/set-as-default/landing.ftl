@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Зробити { -brand-name-firefox } типовим браузером
+# HTML page description
+set-as-default-landing-choose-the-browser = Виберіть браузер, який захищає вашу приватність. Встановіть { -brand-name-firefox } типовим браузером.
 set-as-default-landing-make-sure-youre-protected = Переконайтеся, що ви захищені щоразу, коли ви перебуваєте в Інтернеті
 set-as-default-landing-thanks-for-using-the = Дякуємо за використання найновішого браузера { -brand-name-firefox }. Обираючи { -brand-name-firefox }, ви підтримуєте кращий Інтернет для себе та всіх інших. Тепер зробіть наступний крок для свого захисту.
 set-as-default-landing-choose-automatic-privacy = Оберіть автоматичну приватність
