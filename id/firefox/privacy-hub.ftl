@@ -17,3 +17,5 @@ firefox-privacy-privacy = Privasi
 firefox-privacy-our-promise = Janji Kami
 # Sub navigation link
 firefox-privacy-our-products = Produk Kami
+firefox-privacy-hub-send-a-file = Kirim berkas
+firefox-privacy-hub-pocket = { -brand-name-pocket }
