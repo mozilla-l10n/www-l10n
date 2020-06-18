@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
+# HTML page title
+lockwise-firefox-lockwise-password = ‏{ -brand-name-firefox-lockwise } — מנהל ססמאות — לקחת את הססמאות שלך לכל מקום
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-install-for-firefox = התקנה עבור { -brand-name-firefox }
 lockwise-open-in-firefox = פתיחה ב־{ -brand-name-firefox }

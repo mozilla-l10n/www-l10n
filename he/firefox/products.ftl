@@ -10,6 +10,7 @@ firefox-products-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } ה�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = ‏{ -brand-name-firefox } הוא <strong>יותר</strong> מדפדפן
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-sign-up-for-breach-alerts = הרשמה להתרעות על דליפות
 firefox-products-firefox-browsers = דפדפני { -brand-name-firefox }
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
