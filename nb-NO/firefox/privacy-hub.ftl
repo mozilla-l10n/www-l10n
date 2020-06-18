@@ -62,7 +62,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Hvis du har en { -brand-name
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Mer enn { $trackers } sporere blokkerte hver dag for { -brand-name-firefox }-brukere over hele verden
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Når du oppgir e-postadressen din i { -brand-name-firefox-monitor }, glemmer vi den umiddelbart etter at vi har søkt etter et treff i kjente datalekkasjer — med mindre du godkjenner oss til å fortsette å se etter nye lekkasjer på dine personlige opplysninger.
+firefox-privacy-hub-when-you-enter-your-email = Når du oppgir e-postadressen din i { -brand-name-firefox-monitor }, glemmer vi den umiddelbart etter at vi har søkt etter et treff i kjente datalekkasjer — med mindre du godkjenner oss til å fortsette å se etter nye lekkasjer av dine personlige opplysninger.
 firefox-privacy-hub-check-for-breaches = Se etter datalekkasjer
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Passordene og legitimasjonene du lagrer i { -brand-name-firefox-lockwise } er kryptert på alle enhetene dine, så ikke engang vi kan se dem.
