@@ -17,5 +17,8 @@ firefox-privacy-privacy = Privasi
 firefox-privacy-our-promise = Janji Kami
 # Sub navigation link
 firefox-privacy-our-products = Produk Kami
+firefox-privacy-hub-you-should-be-able-to-decide = Anda harus dapat menentukan siapa yang dapat melihat informasi pribadi Anda. Tidak hanya di antara teman-teman Anda, namun dengan setiap pengiklan dan perusahaan di Internet — termasuk kami.
+firefox-privacy-hub-thats-why-everything-we-make = Itulah mengapa setiap hal yang kami buat dan lakukan menghormati Janji Data Pribadi kami.
+firefox-privacy-hub-take-less = Ambil Sedikit
 firefox-privacy-hub-send-a-file = Kirim berkas
 firefox-privacy-hub-pocket = { -brand-name-pocket }
