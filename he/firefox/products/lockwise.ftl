@@ -8,6 +8,8 @@
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-install-for-firefox = התקנה עבור { -brand-name-firefox }
 lockwise-open-in-firefox = פתיחה ב־{ -brand-name-firefox }
+lockwise-256-bit-encryption-protects = הצפנה ב־256 סיביות מגנה עליך בזמן הסנכרון
+lockwise-your-privacy-comes-first = הפרטיות שלך קודמת לכל.
 lockwise-support = תמיכה
 lockwise-your-privacy = הפרטיות שלך
 lockwise-github = { -brand-name-github }

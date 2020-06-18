@@ -13,3 +13,4 @@ firefox-privacy-privacy = פרטיות
 firefox-privacy-our-promise = ההבטחה שלנו
 # Sub navigation link
 firefox-privacy-our-products = המוצרים שלנו
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
