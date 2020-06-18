@@ -1,0 +1,20 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/set-as-default/
+
+# HTML page title
+set-as-default-landing-make-firefox-your-default = Nastavite { -brand-name-firefox } kot privzeti brskalnik
+set-as-default-landing-make-sure-youre-protected = Bodite zaščiteni vedno, ko ste na spletu
+set-as-default-landing-thanks-for-using-the = Hvala, ker uporabljate najnovejši brskalnik { -brand-name-firefox }. Ko izberete { -brand-name-firefox }, podpirate boljši splet zase in tudi ostale uporabnike. Naredite naslednji korak pri svoji zaščiti.
+set-as-default-landing-choose-automatic-privacy = Izberite samodejno zasebnost
+set-as-default-landing-companies-keep-finding = Podjetja vedno znova iščejo načine, kako bi se dokopala do vaših osebnih podatkov. { -brand-name-firefox } je brskalnik s poslanstvom iskanja novih načinov, da vas zaščiti.
+set-as-default-landing-choose-freedom-on-every = Izberite svobodo na vsaki napravi
+set-as-default-landing-firefox-is-fast-and = { -brand-name-firefox } je hiter in varen v sistemih { -brand-name-windows }, { -brand-name-ios }, { -brand-name-android } in { -brand-name-linux }. Zaslužite si, da v brskalniku in napravah vi sprejemate odločitve in ne drugi namesto vas.
+set-as-default-landing-choose-corporate-independence = Izberite neodvisnost od korporacij
+set-as-default-landing-firefox-is-the-only = { -brand-name-firefox } je edini veliki neodvisen brskalnik. { -brand-name-chrome }, { -brand-name-edge } in { -brand-name-brave } vsi temeljijo na kodi Googla, kar daje Googlu še več nadzora nad internetom.
+set-as-default-landing-the-internet-keeps = Internet vedno znova išče načine, kako bi se dokopal do vaših osebnih podatkov. { -brand-name-firefox } je edini brskalnik s poslanstvom iskanja novih načinov, da vas zaščiti.
+set-as-default-landing-firefox-is-fast-no-interest = { -brand-name-firefox } je hiter in varen na sistemih { -brand-name-windows }, { -brand-name-ios }, { -brand-name-android } in { -brand-name-linux }. Naš interes ni, da bi vam omejili ali ponastavili vaše možnosti.
+set-as-default-landing-firefox-is-the-only-major = { -brand-name-firefox } je edini veliki neodvisen brskalnik. { -brand-name-chrome }, { -brand-name-edge } in { -brand-name-brave } vsi temeljijo na kodi Googla, največjega oglaševalskega omrežja na svetu.
