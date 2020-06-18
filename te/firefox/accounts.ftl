@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } లోనికి ప్రవేశించండి
+firefox-accounts-join-firefox = { -brand-name-firefox }లో చేరండి
 firefox-accounts-already-have-an-account = ఇప్పటికే ఖాతా ఉందా?
 firefox-accounts-sign-in = ప్రవేశించండి
 
