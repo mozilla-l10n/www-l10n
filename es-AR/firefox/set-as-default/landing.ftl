@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Hacé que { -brand-name-firefox } sea tu navegador predeterminado
+# HTML page description
+set-as-default-landing-choose-the-browser = Elegí el navegador que protege tu privacidad. Establecé { -brand-name-firefox } como tu navegador predeterminado.
 set-as-default-landing-make-sure-youre-protected = Asegurate de estar protegido cada vez que te conectás
 set-as-default-landing-thanks-for-using-the = Gracias por usar la versión más reciente de { -brand-name-firefox }. Cuando elegís { -brand-name-firefox } ayudás a que la web sea mejor para vos y para todos. Ahora, el siguiente paso para protegerte.
 set-as-default-landing-choose-automatic-privacy = Elegí la privacidad automática
