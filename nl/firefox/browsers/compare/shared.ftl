@@ -38,6 +38,7 @@ compare-shared-utility-strong = <strong>Bruikbaarheid</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabiliteit</strong>
 compare-shared-overall-assessment = Algemene beoordeling
+compare-shared-the-comparisons-made-here = De hier gemaakte vergelijkingen zijn in de volgende browserversies uitgevoerd:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -45,4 +46,9 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-download-firefox = { -brand-name-firefox } downloaden
+compare-shared-download-the-app = De app downloaden
+compare-shared-desktop = Desktop
+compare-shared-brand-name-android = { -brand-name-android }
+compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Browsers vergelijken
