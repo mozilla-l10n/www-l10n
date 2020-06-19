@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-index-six-of-the-best-browsers-fallback = Enam dari peramban terbaik dalam perbandingan langsung
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Pembandingan langsung dengan tujuh peramban terbaik
+compare-index-six-of-the-best-browsers-fallback = Pembandingan langsung dengan enam peramban terbaik
 # Sub-headline
-compare-index-privacy-utility-portability = Pribadi. Utilitas. Portabilitas.
+compare-index-privacy-utility-portability = Privasi. Utilitas. Portabilitas.
 # HTML page description
 compare-index-a-great-internet-browser-should = Peramban internet yang hebat harus memiliki fungsionalitas yang Anda butuhkan, portabilitas di seluruh perangkat dan privasi yang layak Anda dapatkan.
 compare-index-which-browser-is-best-at-keeping = Peramban mana yang paling baik menjaga kerahasiaan konten?

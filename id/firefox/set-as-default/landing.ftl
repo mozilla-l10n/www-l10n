@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Jadikan { -brand-name-firefox } sebagai peramban baku Anda
+# HTML page description
+set-as-default-landing-choose-the-browser = Pilih peramban yang melindungi privasi Anda. Jadikan { -brand-name-firefox } sebagai peramban baku Anda.
 set-as-default-landing-make-sure-youre-protected = Pastikan Anda terlindungi, setiap kali Anda berselancar
 set-as-default-landing-thanks-for-using-the = Terima kasih telah menggunakan peramban { -brand-name-firefox } terbaru. Ketika Anda memilih { -brand-name-firefox }, Anda mendukung web yang lebih baik untuk Anda dan semua orang. Sekarang ambil langkah selanjutnya untuk melindungi diri sendiri.
 set-as-default-landing-choose-automatic-privacy = Pilih privasi otomatis
