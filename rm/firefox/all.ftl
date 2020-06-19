@@ -15,7 +15,7 @@ firefox-all-browser = Navigatur:
 firefox-all-platform = Plattafurma:
 firefox-all-language = Lingua:
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Telechargia il navigatur Firefox per rumantsch (u passa 90 autras linguas)
+firefox-all-download-the-firefox = Telechargia il navigatur { -brand-name-firefox-browser } per rumantsch (u passa 90 autras linguas)
 firefox-all-firefox-privacy-notice = Las directivas da { -brand-name-firefox } per la protecziun da datas
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }

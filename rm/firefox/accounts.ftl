@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Va per in { -brand-name-firefox-account
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Ta defenda cunter ina industria che venda tias datas a terzas partidas. Fa diever da tecnologias che ta correspundan e ta protegian online.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Sincronisescha tes pleds-clav, segnapaginas e tabs a moda segira tranter tut tes apparats. Va ussa per in conto da Firefox: ina annunzia – prestaziun e protecziun da datas dapertut.
+firefox-accounts-securely-sync-your = Sincronisescha tes pleds-clav, segnapaginas e tabs a moda segira tranter tut tes apparats. Va ussa per in { -brand-name-firefox-account }: ina annunzia – prestaziun e protecziun da datas dapertut.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = I dat ina via per proteger tia sfera privata. <span>Dovra { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

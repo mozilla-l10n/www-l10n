@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Telechargiar { -brand-name-firefox }
-navigation-get-a-firefox-account = Ir per in conto da Firefox
+navigation-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
 navigation-ios-support = Agid per { -brand-name-ios }
 navigation-android-support = Agid per { -brand-name-android }
 navigation-firefox-for-fire-tv = { -brand-name-firefox } per { -brand-name-fire-tv }
@@ -15,7 +15,7 @@ navigation-take-firefox-and-firefox = Prenda { -brand-name-firefox } e { -brand-
 navigation-get-firefox = Ir per { -brand-name-firefox }
 navigation-get-firefox-focus = Ir per { -brand-name-firefox-focus }
 navigation-android-extensions = Extensiuns per { -brand-name-android }
-navigation-your-firefox-account = Tes conto da Firefox
+navigation-your-firefox-account = Tes { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Profitescha tant sco pussaivel da tia experientscha cun { -brand-name-firefox }, sin mintga apparat.
 navigation-learn-how-to-customize = Vegnir a savair co persunalisar il funcziunament da { -brand-name-firefox }.
 navigation-experience-augmented = Emprova la realitad augmentada e virtuala cun { -brand-name-firefox }.
