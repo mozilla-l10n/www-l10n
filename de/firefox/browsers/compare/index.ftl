@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Sieben der besten Browser im direkten Vergleich
 compare-index-six-of-the-best-browsers-fallback = Sechs der besten Browser im direkten Vergleich
 # Sub-headline
 compare-index-privacy-utility-portability = Privatsphäre. Funktionalität. Portabilität.
@@ -12,6 +14,7 @@ compare-index-privacy-utility-portability = Privatsphäre. Funktionalität. Port
 compare-index-a-great-internet-browser-should = Ein guter Internet-Browser sollte alle Funktionen haben, die du benötigst, portabel sein und auf allen deinen Geräten wie Smartphone und Tablet schnell und sicher laufen und dir ein hohen Maß an Privatsphäre bieten können.
 compare-index-which-browser-is-best-at-keeping = Mit welchem Browser bleibt Persönliches privat?
 compare-index-its-not-unreasonable-to-expect = Ein Mindestmaß an Datenschutz und Privatsphäre erwarten wir einfach von den Produkten, die wir regelmäßig online nutzen. Von einem Browser, mit dem wir nahezu jeden Tag durchs Web browsen erst Recht. Deshalb sollte ein Browser mindestens einen “Privaten Modus” bieten, der unsere Chronik und den Suchverlauf automatisch löscht, sodass andere Benutzer desselben Computers keinen Zugriff darauf haben. Damit können die meisten Browser und auch alle sechs der hier miteinander verglichenen schon einmal punkten.
+compare-index-its-not-unreasonable-to-expect-fallback = Ein Mindestmaß an Datenschutz und Privatsphäre erwarten wir einfach von den Produkten, die wir regelmäßig online nutzen. Von einem Browser, mit dem wir nahezu jeden Tag durchs Web browsen erst Recht. Deshalb sollte ein Browser mindestens einen „Privaten Modus“ bieten, der unsere Chronik und den Suchverlauf automatisch löscht, sodass andere Benutzer desselben Computers keinen Zugriff darauf haben. Damit können die meisten Browser und auch alle sechs der hier miteinander verglichenen schon einmal punkten.
 compare-index-what-you-do-online-literally = Was du online so machst, geht nur dich etwas an und niemanden sonst.
 compare-index-another-browser-feature-fallback = Was Nutzern aber ebenso einfach gemacht werden sollte, ist es, Webseiten und Unternehmen auch im normalen Modus daran zu hindern, ihre Nase in unsere Daten zu stecken. Tracking-Cookies von Drittanbietern werden bei { -brand-name-firefox } und { -brand-name-safari } standardmäßig geblockt und setzen neugierige Werbe-Tracker einfach vor die Tür. Hier kannst du also selbst entscheiden, was du mit anderen teilen möchtest.
 compare-index-using-a-browser-that-blocks = Ein Browser, der Tracker von Drittanbietern blockiert, läuft meist auch gleich viel schneller. Bei den meisten Trackern handelt es sich um Scripte, die auf etlichen Webseiten im Hintergrund ausgeführt werden. Man kann sie nicht sehen, aber spüren, wie sie die Geschwindigkeit des Browsers abbremsen. Es lohnt sich also zu vergleichen, welcher Browser was blockt. Seit dem Update auf Version 67 lassen sich in { -brand-name-firefox } auch Fingerprinting und Krypto-Mining blockieren. Gerade heimliches Krypto-Mining kann oft dazu führen, das der eigene Rechner plötzlich heißt läuft oder der Akku ungewohnt schnell den Geist aufgibt.
