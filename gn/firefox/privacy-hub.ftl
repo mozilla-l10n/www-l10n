@@ -26,6 +26,16 @@ firefox-privacy-hub-learn-more-about-our-mission = Eñemomaranduve ore rembipot�
 firefox-privacy-hub-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
 firefox-privacy-hub-learn-about-our-products = Eñemomaranduve ore apopyrére
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } ñemigua, apopyre oĩháicha
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } omo’ã ne ñemigua apopyre peteĩteĩvape.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>omo’ã</strong> ne ñemigua opaite apopyrépe
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Hetave 2,000 tapykuehohágui ojejokóma ijehegui
+firefox-privacy-hub-see-what-firefox-has-blocked = Eporandu mba’épa ojoko { -brand-name-firefox } nde rehehápe
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Erekóke tapykueho mo’ãha iporãvéva
+firefox-privacy-hub-download-the-firefox-browser = Emboguejy kundahára { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Embohekopyahu ne kundahára { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Ndohechamo’ãi umi tapykuehoha
 firefox-privacy-hub-always-in-your-control = Ereko ñangarekoha tapiaite
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai
