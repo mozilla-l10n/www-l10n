@@ -29,12 +29,12 @@ compare-shared-syncs-with-mobile = Synkroniserer med mobil
 compare-shared-password-management = Passordbehandling
 compare-shared-master-password = Hovedpassord
 compare-shared-security-and-privacy = Sikkerhet og personvern
-compare-shared-utility = Verktøy
+compare-shared-utility = Nytte
 compare-shared-portability = Portabilitet
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Sikkerhet og <strong>personvern</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Verktøy</strong>
+compare-shared-utility-strong = <strong>Nytte</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilitet</strong>
 compare-shared-overall-assessment = Helhetsvurdering
