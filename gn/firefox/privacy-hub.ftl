@@ -41,6 +41,9 @@ firefox-privacy-hub-meet-four-of-the-most-common = Rohechaukáta irundy tapykueh
 firefox-privacy-hub-always-in-your-control = Ereko ñangarekoha tapiaite
 firefox-privacy-hub-want-to-customize-what = ¿Embohérase pe mba’epuru ejokoséva? Ikatu emoambue ñemboheko peteĩ jekutúpe.
 firefox-privacy-hub-protection-beyond-tracking = Ñemo’ã amo gotyove jehapykuehógui
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Hetave { $trackers } tapykuehoha jokopyre ko’ẽreíre { -brand-name-firefox } puruhárape g̃uarã
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -50,3 +53,7 @@ firefox-privacy-hub-send-a-file = Emondo marandurenda
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Ereko { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Nde { -brand-name-firefox-account }
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Eraha ne ñemigua ha techaukaha opaite hendápe { -brand-name-firefox-account } ndive.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Emoñe’ẽ <a href="{ $url }">Ñemigua marandu</a> ore apopyre rehegua
