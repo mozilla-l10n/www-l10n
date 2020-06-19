@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -22,8 +24,28 @@
     }
     .gender = masculine
 -brand-name-github = GitHub
--brand-name-google = Google
--brand-name-microsoft = Microsoft
+-brand-name-google =
+    { $case ->
+       *[nom] Google
+        [gen] Googlu
+        [dat] Googlu
+        [acc] Google
+        [voc] Google
+        [loc] Googlu
+        [ins] Googlem
+    }
+    .gender = masculine
+-brand-name-microsoft =
+    { $case ->
+       *[nom] Microsoft
+        [gen] Microsoftu
+        [dat] Microsoftu
+        [acc] Microsoft
+        [voc] Microsofte
+        [loc] Microsoftu
+        [ins] Microsoftem
+    }
+    .gender = masculine
 -brand-name-mozilla =
     { $case ->
        *[nom] Mozilla
@@ -351,7 +373,17 @@
 
 ## Other browsers
 
--brand-name-brave = Brave
+-brand-name-brave =
+    { $case ->
+       *[nom] Brave
+        [gen] Bravu
+        [dat] Bravu
+        [acc] Brave
+        [voc] Brave
+        [loc] Bravu
+        [ins] Bravem
+    }
+    .gender = masculine
 -brand-name-chrome =
     { $case ->
        *[nom] Chrome
@@ -363,9 +395,39 @@
         [ins] Chromem
     }
     .gender = masculine
--brand-name-edge = Edge
--brand-name-ie = Internet Explorer
--brand-name-opera = Opera
+-brand-name-edge =
+    { $case ->
+       *[nom] Edge
+        [gen] Edge
+        [dat] Edgi
+        [acc] Edge
+        [voc] Edgi
+        [loc] Edgi
+        [ins] Edgem
+    }
+    .gender = masculine
+-brand-name-ie =
+    { $case ->
+       *[nom] Internet Explorer
+        [gen] Internet Exploreru
+        [dat] Internet Exploreru
+        [acc] Internet Explorer
+        [voc] Internet Explorer
+        [loc] Internet Exploreru
+        [ins] Internet Explorerem
+    }
+    .gender = masculine
+-brand-name-opera =
+    { $case ->
+       *[nom] Opera
+        [gen] Opery
+        [dat] Opeře
+        [acc] Operu
+        [voc] Opero
+        [loc] Opeře
+        [ins] Operou
+    }
+    .gender = feminine
 -brand-name-safari = Safari
 
 ## Platforms
