@@ -13,6 +13,7 @@ lockwise-try-lockwise-now = Něnto { -brand-name-lockwise } wopytowaś
 lockwise-install-for-firefox = Za { -brand-name-firefox } instalěrowaś
 lockwise-open-in-firefox = W { -brand-name-firefox } wócyniś
 lockwise-only-in-the-firefox-browser = Jano w { -brand-name-firefox-browser }
+lockwise-256-bit-encryption-protects = 256-bitowe koděrowanje was pśi synchronizěrowanju šćita
 lockwise-your-privacy-comes-first = Priwatnosć ma nejwušu prioritu.
 lockwise-we-keep-your-data-safe = Źaržymy waše daty wěste a njepśedajomy je nigda.
 lockwise-support = Pomoc
