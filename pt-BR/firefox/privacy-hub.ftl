@@ -49,7 +49,7 @@ firefox-privacy-hub-tracking-has-become-an = Rastreamento tornou-se uma epidemia
 firefox-privacy-hub-if-you-want-to-see-what = Se quiser ver o que o { -brand-name-firefox } está bloqueando para você, visite esta página no navegador { -brand-name-firefox } no computador.
 firefox-privacy-hub-see-what-firefox-has-blocked = Veja o que o { -brand-name-firefox } bloqueou para você
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-get-enhanced-tracking-protection = Obtenha proteção aprimorada contra rastreamento
+firefox-privacy-hub-get-enhanced-tracking-protection = Tenha proteção aprimorada contra rastreamento
 firefox-privacy-hub-download-the-firefox-browser = Baixe o navegador { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Atualize seu navegador { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Invisível para os principais rastreadores

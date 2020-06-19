@@ -9,3 +9,6 @@
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } ou { -brand-name-brave }: qual é o melhor navegador para você?
 # HTML page description
 compare-brave-compare-brave-to-the-firefox = Compare o { -brand-name-brave } com o { -brand-name-firefox-browser } para descobrir qual é o melhor navegador para você em termos de privacidade, utilidade e portabilidade.
+# Main title
+compare-brave-comparing-firefox-browser = Comparação entre { -brand-name-firefox-browser } e { -brand-name-brave }
+compare-brave-when-comparing-the-two-browsers = Ao comparar os dois navegadores, tanto o { -brand-name-firefox } como o { -brand-name-brave } oferecem um nível sofisticado de privacidade e segurança por padrão, disponível automaticamente desde a primeira vez que são usados.
