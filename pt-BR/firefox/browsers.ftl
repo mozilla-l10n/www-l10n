@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
-firefox-browsers-get-the-browsers-that-put = Obtenha os navegadores que colocam sua privacidade em primeiro lugar — como sempre o fizeram
+firefox-browsers-get-the-browsers-that-put = Use os navegadores que colocam sua privacidade em primeiro lugar, como sempre fizeram
 # HTML page description
-firefox-browsers-get-the-privacy-you-deserve = Obtenha a privacidade que você merece. A proteção aprimorada contra rastreamento é automática em todos os navegadores { -brand-name-firefox }.
+firefox-browsers-get-the-privacy-you-deserve = Tenha a privacidade que você merece. A proteção aprimorada contra rastreamento é automática em todos os navegadores { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Obtenha os <strong>navegadores</strong> que colocam sua privacidade em primeiro lugar — como sempre o fizeram
+firefox-browsers-get-the-browsers-strong = Use os <strong>navegadores</strong> que colocam sua privacidade em primeiro lugar, como sempre fizeram
 firefox-browsers-desktop = Computador
 firefox-browsers-seriously-private-browsing = Navegação realmente privativa. O { -brand-name-firefox } bloqueia automaticamente mais de 2000 rastreadores, impedindo que coletem informações sobre o que você faz online.
 firefox-browsers-download-for-desktop = Baixar para computador
@@ -19,7 +19,7 @@ firefox-browsers-take-the-same-level-of-privacy = Tenha o mesmo nível de privac
 firefox-browsers-download-for-mobile = Baixar para celular
 firefox-browsers-send-me-a-link = Me envie um link
 firefox-browsers-enterprise = { -brand-name-enterprise }
-firefox-browsers-get-unmatched-data-protection = Obtenha proteção de dados incomparável, com ciclos de suporte sob medida para atender às necessidades da sua empresa.
+firefox-browsers-get-unmatched-data-protection = Tenha proteção de dados incomparável, com ciclos de suporte sob medida para atender às necessidades da sua empresa.
 firefox-browsers-enterprise-packages = Pacotes { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Vá além de duas dimensões e aproveite o melhor conteúdo imersivo de toda a web.
