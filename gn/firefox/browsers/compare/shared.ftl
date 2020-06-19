@@ -39,6 +39,7 @@ compare-shared-utility-strong = <strong>Jepurúva</strong>
 compare-shared-portability-strong = <strong>Jeguerahakuaa</strong>
 compare-shared-overall-assessment = Ñeha’ã tuichaháicha
 compare-shared-the-comparisons-made-here = Umi moñondive oñembohekopyre ápe ojejapo umi kundahára oñehesa’ỹijóva pa’ũme:
+compare-shared-this-page-updated-semi-quarterly = Kutiarogue hekopyahu 45 ára haguépe osẽ hag̃ua tembiapo ipyahuvévape ndohechaukáiva mbohekopyahu ipaháva.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
