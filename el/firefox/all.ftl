@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = Προγράμματα εγκατάστασης 
 firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Αγγλικά (ΗΠΑ) και σε περισσότερες από 90 άλλες γλώσσες
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση στο διαδίκτυο — η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Γι' αυτό — με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο — διαθέτουμε το { -brand-name-firefox-browser } σε πάνω από 90 γλώσσες.
-firefox-all-choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε να αποκτήσετε στη γλώσσα σας
+firefox-all-choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε στη γλώσσα σας
 firefox-all-firefox-privacy-notice = Σημείωση απορρήτου { -brand-name-firefox }
 firefox-all-learn-about-firefox = Μάθετε για τα προγράμματα περιήγησης { -brand-name-firefox }
 firefox-all-the-standard-firefox = Το τυπικό πρόγραμμα περιήγησης { -brand-name-firefox } — γρήγορο και ιδιωτικό. Αν δεν ξέρετε ποια έκδοση του { -brand-name-firefox } χρειάζεστε, επιλέξτε αυτή.
