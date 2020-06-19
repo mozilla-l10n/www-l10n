@@ -13,5 +13,10 @@ compare-brave-compare-brave-to-the-firefox = Sammenlign { -brand-name-brave } me
 compare-brave-comparing-firefox-browser = Sammenligning av { -brand-name-firefox-browser } med { -brand-name-brave }
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Akkurat som { -brand-name-firefox }-nettleseren, er { -brand-name-brave }-nettleseren gratis, åpen kildekode og fokusert på å beskytte brukernes personvern. { -brand-name-brave } er en relativt nykommer i verden av nettlesere: produsenten, { -brand-name-brave } Software, debuterte først nettleseren i januar 2016. I denne artikkelen sammenligner vi { -brand-name-firefox }-nettleser med { -brand-name-brave }-nettleser i tre kategorier: personvern, nytte og portabilitet.
+# To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
+# Variables:
+#   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
+#   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
+compare-brave-the-brave-browser-like-so = Nettleseren { -brand-name-brave } er, som så mange andre, bygget på den åpene kildekoden til { -brand-name-chromium } utviklet av { -brand-name-google }. Åpen kildekode betyr at hvem som helst kan bruke kildekoden og utvikle noe for å lage det de vil - som netleserene <a { $opera }> { -brand-name-opera }</a> og <a { $edge }>{ -brand-name-edge }</a>. Men det betyr ikke at alle { -brand-name-chromium }-baserte nettlesere er like eller i seg selv er åpen kildekode.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } har også nylig fått muligheten til å synkronisere data på tvers av de fleste populære operativsystemer og enheter, i tillegg til den ekstra muligheten for å synkronisere dine Basic Attention Tokens.
