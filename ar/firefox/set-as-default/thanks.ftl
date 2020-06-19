@@ -8,7 +8,7 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = شكرًا لك على اختيارك { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = تم! ضُبط متصفّحك المبدئي ليكون { -brand-name-firefox }.
-set-as-default-thanks-looks-like-youre-using-a = نرى أنّك تستعمل متصفّحًا آخر الآن. تثبّت من اكتمال تنزيلك فَيَرفُكس على جهازك.
+set-as-default-thanks-looks-like-youre-using-a = نرى أنّك تستعمل متصفّحًا آخر الآن. تثبّت من اكتمال تنزيلك { -brand-name-firefox } على جهازك.
 set-as-default-thanks-having-trouble-setting-your = أتواجه مشكلة في ضبط متصفّحك المبدئي؟
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
