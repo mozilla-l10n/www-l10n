@@ -9,6 +9,7 @@
 lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } – zastojnik gronidłow — gronidła wšuźi sobu wześ
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Wzejśo swóje gronidła wšuźi sobu
+lockwise-securely-access-the-passwords = Mějśo wšuźi wěsty pśistup ku gronidłam, kótarež sćo składł w { -brand-name-firefox } – samo zwenka wobglědowaka.
 lockwise-try-lockwise-now = Něnto { -brand-name-lockwise } wopytowaś
 lockwise-install-for-firefox = Za { -brand-name-firefox } instalěrowaś
 lockwise-open-in-firefox = W { -brand-name-firefox } wócyniś
