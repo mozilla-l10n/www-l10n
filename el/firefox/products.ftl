@@ -10,9 +10,9 @@ firefox-products-firefox-is-more-than-a-browser = Το { -brand-name-firefox } �
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σας προστατεύουν στο διαδίκτυο.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = Το { -brand-name-firefox } είναι <strong>κάτι παραπάνω</strong> από ένα πρόγραμμα περιήγησης
+firefox-products-firefox-is-more-than-a-browser-emphasis = Το { -brand-name-firefox } είναι κάτι <strong>παραπάνω</strong> από περιηγητής
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-products-see-if-your-personal-information = Δείτε αν οι προσωπικές σας πληροφορίες έχουν παραβιαστεί λόγω διαρροής εταιρικών δεδομένων και εγγραφείτε για μελλοντικές ειδοποιήσεις.
+firefox-products-see-if-your-personal-information = Δείτε αν οι προσωπικές σας πληροφορίες έχουν παραβιαστεί λόγω διαρροής εταιρικών δεδομένων και εγγραφείτε για ειδοποιήσεις.
 firefox-products-check-for-breaches = Έλεγχος για παραβιάσεις
 firefox-products-sign-up-for-breach-alerts = Εγγραφή για ειδοποιήσεις παραβιάσεων
 firefox-products-firefox-browsers = Προγράμματα περιήγησης { -brand-name-firefox }

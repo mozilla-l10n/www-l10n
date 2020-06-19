@@ -30,6 +30,7 @@ firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000+ αποκλεισμένοι ιχνηλάτες — αυτόματα
 firefox-privacy-hub-download-the-firefox-browser = Λήψη του προγράμματος περιήγησης { -brand-name-firefox }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-check-for-breaches = Έλεγχος για παραβιάσεις
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
