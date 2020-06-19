@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-learn-more-about-lockwise = Научете повече за { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Получете <strong>уважението</strong>, което заслужавате
 firefox-home-share-large-files-without = Споделяйте големи файлове далече от любопитни очи
+firefox-home-learn-more-about-pocket = Научете повече за { -brand-name-pocket }
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }

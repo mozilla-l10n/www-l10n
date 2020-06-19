@@ -15,7 +15,7 @@ newsletter-form-get-firefox-news = Получавайте новини за { -b
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Съгласен съм { -brand-name-mozilla } да разполага с данните ми, както е обяснено в <a href="{ $url }">тази Политика за личните данни</a>
-newsletter-form-we-will-only-send = Ще ви изпращаме само информация, свързана с Мozilla.
+newsletter-form-we-will-only-send = Ще ви изпращаме само информация, свързана с { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Ако преди не сте потвърждавали абонамент за бюлетин на { -brand-name-mozilla } ще трябва да го направите сега. Моля, проверете входящата или папката с нежелана поща за писмо от нас.
 newsletter-form-available-languages = Изберете език
 newsletter-form-select-country = Изберете държава
