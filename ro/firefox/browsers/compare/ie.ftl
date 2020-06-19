@@ -22,4 +22,5 @@ compare-ie-alarmingly-4-to-5-of-all-desktop-fallback = În mod alarmant, între 
 # Variables:
 #   $attrs (string) - link to /firefox/download/thanks/ with additional attributes for analytics
 # "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.
+# "firing up" is slang for starting an engine, and here means starting a web browser. Alternative: "starting up"
 compare-ie-our-opinion-is-just-to-go-with = Opinia noastră este să folosiți un browser privat, de încredere, cu un palmares de furnizare a unei experiențe excelente pe diverse dispozitive. Într-o comparație cap la cap, chiar nu există concurență. { -brand-name-firefox } iese pe departe învingător în toate categoriile de evaluare. Dacă ești acasă la bunica și lansezi { -brand-name-ie }, poate îi faci o favoare și îi <a { $attrs }>descarci { -brand-name-firefox }</a>.
