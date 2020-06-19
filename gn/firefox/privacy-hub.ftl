@@ -37,6 +37,7 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Erekóke tapykueho mo’�
 firefox-privacy-hub-download-the-firefox-browser = Emboguejy kundahára { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Embohekopyahu ne kundahára { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Ndohechamo’ãi umi tapykuehoha
+firefox-privacy-hub-meet-four-of-the-most-common = Rohechaukáta irundy tapykuehoha ojekuaavéva, ani hag̃ua ejuhu araka’eve.
 firefox-privacy-hub-always-in-your-control = Ereko ñangarekoha tapiaite
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai
