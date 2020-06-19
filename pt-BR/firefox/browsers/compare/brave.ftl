@@ -13,4 +13,9 @@ compare-brave-compare-brave-to-the-firefox = Compare o { -brand-name-brave } com
 compare-brave-comparing-firefox-browser = Comparação entre { -brand-name-firefox-browser } e { -brand-name-brave }
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Assim como o navegador { -brand-name-firefox }, o navegador { -brand-name-brave } é gratuito, de código aberto e com foco na proteção da privacidade dos usuários. O { -brand-name-brave } é relativamente novo no mundo dos navegadores: seu criador, { -brand-name-brave } Software, estreou o navegador em janeiro de 2016. Neste artigo, compararemos nosso navegador { -brand-name-firefox } com o navegador { -brand-name-brave } em três categorias: privacidade, utilidade e portabilidade.
+# To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
+# Variables:
+#   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
+#   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
+compare-brave-the-brave-browser-like-so = O navegador { -brand-name-brave }, como muitos outros, é feito com base no { -brand-name-chromium }, código aberto do { -brand-name-google }. Código aberto significa que qualquer um pode pegar carona no código-fonte para criar o que quiser — como os navegadores <a { $opera }>{ -brand-name-opera }</a> e <a { $edge }>{ -brand-name-edge }</a>. Mas isso não significa que todos os navegadores baseados no { -brand-name-chromium } são iguais ou são de código aberto.
 compare-brave-when-comparing-the-two-browsers = Ao comparar os dois navegadores, tanto o { -brand-name-firefox } como o { -brand-name-brave } oferecem um nível sofisticado de privacidade e segurança por padrão, disponível automaticamente desde a primeira vez que são usados.
