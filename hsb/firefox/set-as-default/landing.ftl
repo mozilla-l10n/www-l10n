@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } k wašemu standardnemu wobhladowakej činić
+# HTML page description
+set-as-default-landing-choose-the-browser = Wubjerće wobhladowak, kotryž waš priwatnosć škita. Nastajće { -brand-name-firefox } jako swój standardny wobhladowak.
 set-as-default-landing-make-sure-youre-protected = Dźiwajće na to, zo sće škitany, kóždy raz, hdyž do interneta dźeće
 set-as-default-landing-thanks-for-using-the = Wulki dźak, zo najnowši wobhladowak { -brand-name-firefox } wužiwaće. Hdyž { -brand-name-firefox } wužiwaće, podpěrujeće lěpši web za sebje a wšěch druhich. Nětko móžeće so škitać.
 set-as-default-landing-choose-automatic-privacy = Awtomatisku priwatnosć wubrać

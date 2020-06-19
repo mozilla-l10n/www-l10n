@@ -9,10 +9,12 @@
 lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — zrjadowak hesłow — hesła wšudźe sobu wzać
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Wzmiće swoje hesła wšudźe sobu
+lockwise-securely-access-the-passwords = Mějće wšudźe wěsty přistup k hesłam, kotrež sće w { -brand-name-firefox } składował – samo zwonka wobhladowaka.
 lockwise-try-lockwise-now = Nětko { -brand-name-lockwise } wupruwować
 lockwise-install-for-firefox = Za { -brand-name-firefox } instalować
 lockwise-open-in-firefox = W { -brand-name-firefox } wočinić
 lockwise-only-in-the-firefox-browser = Jenož w { -brand-name-firefox-browser }
+lockwise-256-bit-encryption-protects = 256-bitowe zaklučowanje was při synchronizowanju škita
 lockwise-your-privacy-comes-first = Priwatnosć ma najwyšu prioritu.
 lockwise-we-keep-your-data-safe = Dźeržimy waše daty wěste a njepředamy je ženje.
 lockwise-support = Pomoc
