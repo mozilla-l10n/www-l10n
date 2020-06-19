@@ -14,7 +14,7 @@ firefox-new-get-the-latest-firefox = Αποκτήστε το πιο πρόσφα
 firefox-new-firefox-shows-you-how-many = Το { -brand-name-firefox } σας εμφανίζει πόσοι ιχνηλάτες συλλογής δεδομένων αποκλείονται με την <strong>Ενισχυμένη προστασία από καταγραφή</strong>.
 firefox-new-firefox-lockwise-makes-secure = Το <strong>{ -brand-name-firefox-lockwise }</strong> συγχρονίζει με ασφάλεια τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox } σε όλες τις συσκευές σας.
 firefox-new-firefox-monitor-alerts = Το <strong>{ -brand-name-firefox-monitor }</strong> σας ενημερώνει αν οι πληροφορίες σας διαρρεύσουν εξαιτίας της παραβίασης δεδομένων κάποιας εταιρίας.
-firefox-new-join-firefox = Γίνετε μέλος του { -brand-name-firefox }
+firefox-new-join-firefox = Σύνδεση στο { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = Το <strong>{ -brand-name-firefox-lockwise }</strong> κάνει διαθέσιμους σε όλες σας τις συσκευές τους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Λήψη του { -brand-name-firefox } <br>για { -brand-name-windows }

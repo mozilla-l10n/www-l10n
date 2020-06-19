@@ -9,10 +9,12 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Προστατευ
 firefox-home-the-browser-is-just = Το πρόγραμμα περιήγησης είναι μόνο η αρχή
 firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια των προϊόντων μας
 firefox-home-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
+firefox-home-share-large-files-without = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές
+firefox-home-start-sending-files = Έναρξη ασφαλούς αποστολής αρχείων
 firefox-home-learn-more-about-pocket = Μάθετε περισσότερα για το { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Μία σύνδεση. Για όλες τις συσκευές σας. Μια οικογένεια προϊόντων που σέβεται το <strong>απόρρητό</strong> σας.
-firefox-home-join-firefox = Γίνετε μέλος του { -brand-name-firefox }
+firefox-home-join-firefox = Σύνδεση στο { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Μάθετε περισσότερα σχετικά με τη συμμετοχή στο { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Λήψη επέκτασης προγράμματος περιήγησης
 firefox-home-get-the-facebook-container = Λήψη επέκτασης { -brand-name-facebook-container }

@@ -9,7 +9,7 @@
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Ευχαριστούμε που επιλέξατε το { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = Επιτυχία! Το προεπιλεγμένο πρόγραμμα περιήγησής σας έχει οριστεί σε { -brand-name-firefox }.
 set-as-default-thanks-download-the-app = Λήψη εφαρμογής
-set-as-default-thanks-join-firefox = Γίνετε μέλος του { -brand-name-firefox }
+set-as-default-thanks-join-firefox = Σύνδεση στο { -brand-name-firefox }
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Απόκτηση λογαριασμού
 set-as-default-thanks-having-trouble = Αντιμετωπίζετε πρόβλημα;
