@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = يمكنك حماية خصوصيتك، طبعا. انضم إلى { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = سجّل حساب Firefox – أبقِ بياناتك مُزامنة وآمنة وخاصة
+firefox-accounts-get-a-firefox-account = سجّل حساب { -brand-name-firefox-account } – أبقِ بياناتك مُزامنة وآمنة وخاصة
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = اتخذ موقفنا ضد صناعة تبيع بياناتك إلى أطراف ثالثة. تصرف بذكاء وحافظ على أمانك عبر الإنترنت بفضل تكنولوجيا تُحارب من أجلك.
 # Old HTML page description
-firefox-accounts-securely-sync-your = زامِن بأمان كلّ من كلمات السر والعلامات والألسنة على مُختلف أجهزتك. احصل على حساب Firefox الآن. حساب واحد. قوّة وخصوصية على جميع أجهزتك.
+firefox-accounts-securely-sync-your = زامِن بأمان كلّ من كلمات السر والعلامات والألسنة على مُختلف أجهزتك. احصل على حساب { -brand-name-firefox-account } الآن. حساب واحد. قوّة وخصوصية على جميع أجهزتك.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = يمكنك حماية خصوصيتك، طبعا. <span>انضم إلى { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

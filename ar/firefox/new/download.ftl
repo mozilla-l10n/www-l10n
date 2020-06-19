@@ -37,4 +37,4 @@ firefox-new-youre-using-an-insecure-outdated = أنت تستخدم نظام تش
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = سيبدأ التنزيل تلقائيًا خلال ثوان من الآن. إن لم يحدث ذلك، <a id="{ $id }" href="{ $fallback_url }">جرّب معاودة التنزيل من هنا</a>.
-firefox-new-firefox-is-more-than-a-browser = فَيَرفُكس ليس متصفّحًا فقط، بل أكثر من ذلك.
+firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } ليس متصفّحًا فقط، بل أكثر من ذلك.

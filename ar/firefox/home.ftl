@@ -7,7 +7,7 @@
 
 firefox-home-firefox-protect-your = ‏{ -brand-name-firefox }: احمِ حياتك على الإنترنت باستعمال منتجات تضع الخصوصية، أولوية
 firefox-home-the-browser-is-just = ما المتصفّح إلا البداية
-firefox-home-get-trackers-off = امنع ما يزيد على ٢٠٠٠ متعقّب من تعقّبك، ومنها فيسبوك
+firefox-home-get-trackers-off = امنع ما يزيد على ٢٠٠٠ متعقّب من تعقّبك، ومنها { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = اعرف بضربات المخترقين،<br>وتقدّم عليهم بخطوة
 firefox-home-start-getting-breach = ابدأ باستلام التقارير عن التسريبات
 firefox-home-keep-your-passwords = حافظ على كلمات سرك آمنة على كل الأجهزة
