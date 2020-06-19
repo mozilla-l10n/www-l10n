@@ -42,3 +42,8 @@ firefox-privacy-hub-send-a-file = Dataju pósłać
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstarać
 firefox-privacy-hub-your-firefox-account = Waše { -brand-name-firefox-account }
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Maće hižo konto? <a { $sign_in } class="{ $class_name }">Přizjewće so</a> abo <a href="{ $learn_more }">zhońće wjace</a> wo wužiwanju { -brand-name-firefox }.
