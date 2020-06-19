@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } contra { -brand-name-brave }: qual es le melior navigator pro te?
+# Main title
+compare-brave-comparing-firefox-browser = Comparation inter { -brand-name-firefox-browser } e { -brand-name-brave }
