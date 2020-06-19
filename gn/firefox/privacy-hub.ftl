@@ -21,6 +21,7 @@ firefox-privacy-hub-take-less = Emokõ’ve
 firefox-privacy-hub-keep-it-safe = Eñemo’ãke
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Roñeha’ãmbaite romo’ã hag̃ua ne maranduete
 firefox-privacy-hub-no-secrets = Kañymby’ỹre
+firefox-privacy-hub-youll-always-know-where-you = Ejerovia tapiáke ore reko resakãre
 firefox-privacy-hub-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 firefox-privacy-hub-learn-more-about-our-mission = Eñemomaranduve ore rembipotáre
 firefox-privacy-hub-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
