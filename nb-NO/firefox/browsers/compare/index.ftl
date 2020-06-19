@@ -15,6 +15,7 @@ compare-index-a-great-internet-browser-should = En god nettleser skal ha funksjo
 compare-index-which-browser-is-best-at-keeping = Hvilken nettleser er best på å holde ting konfidensielt?
 compare-index-what-you-do-online-literally = Det du gjør på nettet handler bare om deg og ingen andre.
 compare-index-another-browser-feature-that = En annen nettleserfunksjon som bør være gitt, er muligheten til å forhindre nettsteder og selskaper i å spore data om surfing og netthandel — selv i vanlig nettlesingsmodus.
+compare-index-another-browser-feature-fallback = En annen nettleserfunksjon som bør være gitt, er muligheten til å forhindre nettsteder og selskaper i å spore data om surfing og netthandel — selv i vanlig nettlesingsmodus. Men det er faktisk ikke tilfelle: faktisk, de eneste nettleserne som blokkerer tredjeparts infokapsler som standard, er { -brand-name-firefox } og { -brand-name-safari }.
 compare-index-what-has-your-browser-done = Hva har nettleseren din gjort for deg i det siste?
 compare-index-how-well-does-your-browser = Hvor bra fungerer nettleseren din på tvers av enhetene dine?
 compare-index-conclusion = Konklusjon:
