@@ -8,7 +8,7 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } porno { -brand-name-brave }: Kotry je lěpši wobhladowak za was?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Přirunajće { -brand-name-brave } z { -brand-name-firefox-browser }, zo byšće won namakał, kotry je lěpši wpbhladowak za was nastupajo priwatnosć, wužitnosć a portabelnosć.
+compare-brave-compare-brave-to-the-firefox = Přirunajće { -brand-name-brave } z { -brand-name-firefox-browser }, zo byšće won namakał, kotry je lěpši wobhladowak za was nastupajo priwatnosć, wužitnosć a portabelnosć.
 # Main title
 compare-brave-comparing-firefox-browser = Přirunanje { -brand-name-firefox-browser } z { -brand-name-brave }
 # "Brave Software" is a brand name.
