@@ -24,13 +24,13 @@ compare-edge-your-privacy-protections-shows = 您的<a { $attrs }>隐私保护</
 # "InPrivate" is a brand name.
 compare-edge-in-firefox-private-browsing = { -brand-name-firefox } 的隐私浏览模式在您关闭对话后会自动清除浏览信息，包括密码、cookie 和浏览历史，不会留下任何痕迹。而 { -brand-name-edge } 即使在其隐私模式（叫做“InPrivate”）实际上也会记录浏览历史，因此，不管您是用普通模式还是用 InPrivate 模式上网，重现您的完整浏览历史都是比较容易的事情。
 compare-edge-both-browsers-are-relatively = 两款浏览器在数据加密方面相当。然而，如果网络隐私和透明度对您来说很重要，那么 { -brand-name-firefox } 显然是一个更好的选择。
-compare-edge-firefox-is-a-fast-and-open = { -brand-name-firefox } 是一款快速的开源浏览器，这意味着用户可以通过各种方式定制他们的浏览体验。{ -brand-name-firefox } 还允许用户通过应用不同的主题和工具栏配置来定制 UI。我们的浏览器一直都是开源的，在众多忠实开发者的共同努力下，我们建立了一套丰富多彩的附加组件和浏览器扩展库。
+compare-edge-firefox-is-a-fast-and-open-fallback = { -brand-name-firefox } 是一款快速的开源浏览器，这意味着用户可以通过各种方式定制他们的浏览体验。{ -brand-name-firefox } 还允许用户通过应用不同的主题和工具栏配置来定制 UI。我们的浏览器一直都是开源的，在众多忠实开发者的共同努力下，我们建立了一套丰富多彩的附加组件和浏览器扩展库。
 compare-edge-since-edge-has-moved-to-the = 由于 { -brand-name-edge } 已迁移至 CPU 密集型的 { -brand-name-chromium } 平台，因此可以预期它运行的速度会变慢，特别是同时运行多个程序时。好的一方面是获得了庞大的扩展库，以及相当不错的 UI 自定义水平，这在 { -brand-name-edge } 迁移到 { -brand-name-chromium } 之前是不存在的。
 compare-edge-edge-has-some-nice-ui-features = { -brand-name-edge } 有一些很不错的 UI 功能，如标签页预览，如果您打开了很多标签页，可助您快速找到所需页面。另一项与标签页相关的实用功能是，您可以将任何当前未用但不想关闭的活跃标签页暂时“搁置”。
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 compare-edge-firefox-features-a-scrolling = { -brand-name-firefox } 有一个滚动标签页的功能，它保持标签页信息可见并能够水平滚动，而不是将其缩小到仅显示图标的大小。同样，只要您打开新标签，我们的<a { $attrs }> { -brand-name-pocket } 功能</a>就会为您推荐相关的文章和内容。另外，使用 { -brand-name-pocket }，您还可以一键保存文章、视频和其他内容，方便后续阅读。
-compare-edge-firefox-and-edge-both-offer = { -brand-name-firefox } 和 { -brand-name-edge } 均提供了出色的阅读模式。使用 { -brand-name-firefox }，您只需点击地址栏中的小图标，浏览器就会删除所有不必要的元素，为您呈现一篇干净的文章。在 { -brand-name-edge } 中，您只需点击“书”图标，即可获得一个干净易读的 UI。
+compare-edge-firefox-and-edge-both-offer-fallback = { -brand-name-firefox } 和 { -brand-name-edge } 均提供了出色的阅读模式。使用 { -brand-name-firefox }，您只需点击地址栏中的小图标，浏览器就会删除所有不必要的元素，为您呈现一篇干净的文章。在 { -brand-name-edge } 中，您只需点击“书”图标，即可获得一个干净易读的 UI。
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
 compare-edge-firefox-also-includes-lots = { -brand-name-firefox } 默认还包含许多便捷的内置功能，例如<a { $attrs }>增强型跟踪保护</a>、内置截图工具、大文件发送功能等等。
