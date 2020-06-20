@@ -23,6 +23,7 @@ firefox-privacy-hub-take-less = Mjenje hromadźić
 firefox-privacy-hub-we-make-a-point-of-knowing = Je naša zasada, mjenje wo was wědźeć
 firefox-privacy-hub-all-tech-companies-collect = Wšě tech-předewzaća daty hromadźa, zo bychu swoje produkty polěpšili. Ale za to njetrjebaja wjele z wašich wosobinskich informacijow. Jeničke daty, kotrež chcemy, su daty, kotrež na kóncu wam słuža. Prašamy so sebje: Trjebaće to poprawom? Za čo je trjebamy? A hdy móžemy je zhašeć?
 firefox-privacy-hub-keep-it-safe = Wěsće wobchować
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Prócujemy so jara, zo bychmy waše wosobinske nformacije škitali
 firefox-privacy-hub-no-secrets = Žane potajnstwa
 firefox-privacy-hub-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
 firefox-privacy-hub-learn-more-about-our-mission = Dalše informacije wo našej misiji
