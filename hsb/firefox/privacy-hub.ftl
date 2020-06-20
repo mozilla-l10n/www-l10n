@@ -32,8 +32,12 @@ firefox-privacy-hub-youll-always-know-where-you = Budźeće přeco wědźeć, na
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Nimamy žane schowane wotpohlady. Naš wobchod wot toho njewotwisuje, wašu dowěru znjewužiwać. Naša <a href="{ $privacy }">zdźělenka priwatnosće</a> je woprawdźe čitajomna. Kóždy na swěće móže so na našich <a href="{ $meetings }">tydźenskich předewzaćelskich zetkanjach</a> wobdźělić. A jeli chceće so do datow zanurić, kotrež hromadźimy – naš kod je zjawny. Kaž my tež.
 firefox-privacy-hub-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Dokelž ludźi na prěnje městno stajamy. Woprawdźe, nas <a href="{ $foundation }">powšitkownosći wužitna organizacija</a> podpěruje. Wot prěnjeho dnja je naša misija było, internet a kóždeho w nim škitać.
 firefox-privacy-hub-learn-more-about-our-mission = Dalše informacije wo našej misiji
 firefox-privacy-hub-your-privacy-by-the-product = Waš priwatnosć, w kóždym produkće
+firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox } hinak funguja – dokelž so wuwiwaja, zo bychu najprjedy wašu priwatnosć škitali.
 firefox-privacy-hub-learn-about-our-products = Zhońće wjace wo našich produktach
 firefox-privacy-hub-firefox-privacy-by-the = Priwatnosć { -brand-name-firefox }, w kóždym produkće
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } wašu priwatnosć w kóždym produkće škita.
