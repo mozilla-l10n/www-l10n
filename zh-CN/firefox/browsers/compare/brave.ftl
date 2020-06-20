@@ -18,4 +18,4 @@ compare-brave-just-like-the-firefox-browser = 就像 { -brand-name-firefox } 浏
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
 #   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
 compare-brave-the-brave-browser-like-so = { -brand-name-brave } 浏览器与许多其他浏览器一样，都是基于 { -brand-name-google } 的 { -brand-name-chromium } 开源代码构建的。开放源代码意味着任何人都可以使用其源代码并在其上构建所需的任何内容，例如 <a { $opera }>{ -brand-name-opera }</a> 和 <a { $edge }>{ -brand-name-edge }</a> 浏览器。但这并不意味着所有基于 { -brand-name-chromium } 的浏览器都是相同的，也不意味着它们本身也是开源的。
-compare-brave-when-comparing-the-two-browsers = 比较这两种浏览器，{ -brand-name-firefox } 和 { -brand-name-brave } 都在默认情况下便提供高等级的私密性和安全性，开箱即用。
+compare-brave-when-comparing-the-two-browsers = 比较这两款浏览器，{ -brand-name-firefox } 和 { -brand-name-brave } 都在默认情况下便提供高等级的私密性和安全性，开箱即用。
