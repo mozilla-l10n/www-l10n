@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = ‏{ -brand-name-firefox } לעומת { -brand-name-brave }: מי הדפדפן הטוב יותר עבורך?
+# Main title
+compare-brave-comparing-firefox-browser = השוואה בין { -brand-name-firefox-browser } ל־{ -brand-name-brave }
