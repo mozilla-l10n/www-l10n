@@ -15,14 +15,14 @@ firefox-browsers-desktop = Computador
 firefox-browsers-seriously-private-browsing = Navegação realmente privativa. O { -brand-name-firefox } bloqueia automaticamente mais de 2000 rastreadores, impedindo que coletem informações sobre o que você faz online.
 firefox-browsers-download-for-desktop = Baixar para computador
 firefox-browsers-mobile = Celular
-firefox-browsers-take-the-same-level-of-privacy = Tenha o mesmo nível de privacidade — além de suas senhas, histórico de pesquisa, abas abertas e muito mais — com você, onde quer que vá.
+firefox-browsers-take-the-same-level-of-privacy = Tenha com você, onde quer que vá, o mesmo nível de privacidade, além de suas senhas, histórico de pesquisa, abas abertas e muito mais.
 firefox-browsers-download-for-mobile = Baixar para celular
 firefox-browsers-send-me-a-link = Me envie um link
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Tenha proteção de dados incomparável, com ciclos de suporte sob medida para atender às necessidades da sua empresa.
 firefox-browsers-enterprise-packages = Pacotes { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
-firefox-browsers-go-beyond-two-dimensions-and = Vá além de duas dimensões e aproveite o melhor conteúdo imersivo de toda a web.
+firefox-browsers-go-beyond-two-dimensions-and = Rompa a barreira de duas dimensões e aproveite o melhor conteúdo imersivo de toda a web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Crie sites e refine seu código com o { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Saiba mais sobre o { -brand-name-devtools }

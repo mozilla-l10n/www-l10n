@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -42,7 +44,7 @@
 -brand-name-focus = Focus
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
--brand-name-reality = Reality
+-brand-name-reality = Realidade virtual
 
 ## Firefox browsers (legacy)
 
