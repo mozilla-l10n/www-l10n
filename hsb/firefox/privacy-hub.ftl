@@ -18,8 +18,10 @@ firefox-privacy-our-promise = Naše slubjenje
 # Sub navigation link
 firefox-privacy-our-products = Naše produkty
 firefox-privacy-hub-you-should-be-able-to-decide = Wy měł sam rozsudźić móc, štó waše wosobinske informacije widźi. To nic jenož wašich přećelow nastupa, ale tež kóždeho wabjerja a předewzaće w interneće – tež nas.
+firefox-privacy-hub-thats-why-everything-we-make = Tohodla wšitko, štož činimy, na našim slubjenju za waše wosobinske daty bazuje
 firefox-privacy-hub-take-less = Mjenje hromadźić
 firefox-privacy-hub-we-make-a-point-of-knowing = Je naša zasada, mjenje wo was wědźeć
+firefox-privacy-hub-all-tech-companies-collect = Wšě tech-předewzaća daty hromadźa, zo bychu swoje produkty polěpšili. Ale za to njetrjebaja wjele z wašich wosobinskich informacijow. Jeničke daty, kotrež chcemy, su daty, kotrež na kóncu wam słuža. Prašamy so sebje: Trjebaće to poprawom? Za čo je trjebamy? A hdy móžemy je zhašeć?
 firefox-privacy-hub-keep-it-safe = Wěsće wobchować
 firefox-privacy-hub-no-secrets = Žane potajnstwa
 firefox-privacy-hub-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
