@@ -16,4 +16,13 @@ set-as-default-thanks-heres-everything-you-need-android = הנה כל מה שצ�
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = הנה כל מה שצריך לדעת לגבי הגדרת דפדפן ברירת המחדל שלך <a href="{ $ios }">במכשירי iOS</a>.
 set-as-default-thanks-get-firefox-for-mobile = קבלת { -brand-name-firefox } לנייד
+set-as-default-thanks-travel-the-internet-with = לטייל ברחבי הרשת עם הגנה בכל המכשירים שלך.
+set-as-default-thanks-download-the-app = הורדת היישומון
 set-as-default-thanks-join-firefox = הצטרפות ל־{ -brand-name-firefox }
+# Account here refers to a Firefox Account
+set-as-default-thanks-get-an-account = קבלת חשבון
+set-as-default-thanks-having-trouble = נתקלת בבעיות?
+# Variables:
+#   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
+#   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
+set-as-default-thanks-heres-everything-you-need-android-desktop = הנה כל מה שצריך לדעת לגבי הגדרת דפדפן ברירת המחדל שלך <a href="{ $android }">במכשירי Android</a> או <a href="{ $desktop }">במחשבים שולחניים</a>.
