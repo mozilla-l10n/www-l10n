@@ -13,3 +13,8 @@ compare-brave-compare-brave-to-the-firefox = Comparara { -brand-name-brave } a {
 compare-brave-comparing-firefox-browser = Comparation inter { -brand-name-firefox-browser } e { -brand-name-brave }
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Justo como le navigator { -brand-name-firefox }, le navigator { -brand-name-brave } es gratis, open-source e focalisate re como proteger usatores’ confidentialitate. { -brand-name-brave } es un relative nove arrivate al mundo del navigatores: su productor, { -brand-name-brave } Software, debutava primo le navigator in januario 2016. In iste articulo nos comparara nostre navigator { -brand-name-firefox } con le navigator { -brand-name-brave } re tres categorias: confidentialitate, utilitate e portabilitate.
+# To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
+# Variables:
+#   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
+#   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
+compare-brave-the-brave-browser-like-so = Le navigator { -brand-name-brave }, como tante alteres, es construite sur le codice open-source { -brand-name-chromium } per { -brand-name-google }. Open source significa que totes pote usar le codification fonte e combinar lo pro producer qualcunque cosa illes vole, como le navigatores <a { $opera }>{ -brand-name-opera }</a> e <a { $edge }>{ -brand-name-edge }</a>. Ma isto non significa que tote le navigatores basate sur { -brand-name-chromium } es equal o illos mesme es open-source.
