@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Rende { -brand-name-firefox } tu navigator ordinari
+# HTML page description
+set-as-default-landing-choose-the-browser = Elige le navigator que protege tu confidentialitate. Configura { -brand-name-firefox } como tu navigator predefinite.
 set-as-default-landing-make-sure-youre-protected = Assecura te de esser protegite cata vice que tu va in linea
 set-as-default-landing-thanks-for-using-the = Gratias pro usar le ultime navigator { -brand-name-firefox }. Con tu election de { -brand-name-firefox }, tu appoia un web melior pro te e pro tote le mundo. Prende ora le proxime passo pro proteger te.
 set-as-default-landing-choose-automatic-privacy = Opta pro confidentialitate
