@@ -19,6 +19,7 @@ set-as-default-thanks-get-firefox-for-mobile = קבלת { -brand-name-firefox } 
 set-as-default-thanks-travel-the-internet-with = לטייל ברחבי הרשת עם הגנה בכל המכשירים שלך.
 set-as-default-thanks-download-the-app = הורדת היישומון
 set-as-default-thanks-join-firefox = הצטרפות ל־{ -brand-name-firefox }
+set-as-default-thanks-sign-up-for-a-free-account = ניתן להירשם לחשבון בחינם ולסנכרן את כל הססמאות, היסטוריית הגלישה וההעדפות שלך בכל המכשירים שלך.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = קבלת חשבון
 set-as-default-thanks-having-trouble = נתקלת בבעיות?
