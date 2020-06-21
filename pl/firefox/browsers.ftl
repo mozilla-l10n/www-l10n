@@ -18,15 +18,15 @@ firefox-browsers-mobile = Na telefon
 firefox-browsers-take-the-same-level-of-privacy = Zabierz ze sobą ten sam poziom prywatności — plus swoje hasła, historię wyszukiwania, otwarte karty i nie tylko — gdziekolwiek jesteś.
 firefox-browsers-download-for-mobile = Pobierz na telefon
 firefox-browsers-send-me-a-link = Wyślij mi odnośnik
-firefox-browsers-enterprise = Dla firm
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Korzystaj z niezrównanej ochrony danych oraz cyklów wydawniczych dopasowanych do potrzeb Twojej firmy.
-firefox-browsers-enterprise-packages = Pakiety dla firm
+firefox-browsers-enterprise-packages = Pakiety { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Wyjdź poza dwa wymiary i ciesz się najlepszymi treściami 3D z całej sieci.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Buduj strony i udoskonalaj swój kod za pomocą Narzędzi dla <strong>programistów</strong> Firefoksa
-firefox-browsers-learn-more-about-devtools = Więcej informacji o Narzędziach dla programistów
-firefox-browsers-join-firefox-and-get-the-most = Dołącz do Firefoksa i maksymalnie wykorzystaj każdy produkt — na każdym urządzeniu.
+firefox-browsers-build-sites-and-refine-your = Buduj strony i udoskonalaj swój kod za pomocą na { -brand-name-devtools(case: "gen") } { -brand-name-firefox(case: "gen") }
+firefox-browsers-learn-more-about-devtools = Więcej informacji o { -brand-name-devtools(case: "loc") }
+firefox-browsers-join-firefox-and-get-the-most = Dołącz do { -brand-name-firefox(case: "gen") } i maksymalnie wykorzystaj każdy produkt — na każdym urządzeniu.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
