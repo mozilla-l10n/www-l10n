@@ -24,7 +24,7 @@ firefox-products-see-all-browsers = Zobacz wszystkie przeglądarki
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-products-keep-your-passwords-safe-and = Zabezpiecz swoje hasła i używaj ich na wszystkich synchronizowanych urządzeniach.
 firefox-products-download-lockwise = Pobierz { -brand-name-lockwise }
-firefox-products-open-in-firefox = Otwórz w Firefoksie
+firefox-products-open-in-firefox = Otwórz w { -brand-name-firefox(case: "loc") }
 firefox-products-learn-more-about-lockwise = Więcej informacji o { -brand-name-lockwise }
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Bezpiecznie wysyłaj duże pliki i prywatne dokumenty — aż do 2,5 GB.
@@ -33,8 +33,8 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Odkrywaj najlepsze rzeczy w sieci — i wracaj do nich gdzie chcesz, kiedy chcesz.
 firefox-products-get-pocket = Pobierz { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Więcej informacji o { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Dołącz do Firefoksa i maksymalnie wykorzystaj każdy produkt — na każdym urządzeniu.
+firefox-products-join-firefox-and-get-the-most = Dołącz do { -brand-name-firefox(case: "gen") } i maksymalnie wykorzystaj każdy produkt — na każdym urządzeniu.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Masz już konto? <a { $fxa_attr }>Zaloguj się</a> lub <a { $accounts_attr }>przeczytaj</a> o dołączaniu do Firefoksa.
+firefox-products-already-have-an-account-sign = Masz już konto? <a { $fxa_attr }>Zaloguj się</a> lub <a { $accounts_attr }>przeczytaj</a> o dołączaniu do { -brand-name-firefox(case: "gen") }.
