@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-send-to-device-send-firefox = Prześlij Firefoksa na swój telefon lub tablet
+send-to-device-send-firefox = Prześlij { -brand-name-firefox(case: "acc") } na swój telefon lub tablet
 send-to-device-your-download-link = Wysłano odnośnik pobierania.
 send-to-device-sorry-we-cant-send = Przepraszamy. Nie możemy wysłać wiadomości SMS na ten numer.
 send-to-device-sorry-this-number = Przepraszamy. Ten numer jest nieprawidłowy. Proszę podać numer telefonu w Stanach Zjednoczonych.

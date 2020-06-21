@@ -18,8 +18,12 @@ newsletter-form-get-firefox-news = Otrzymuj wiadomości o { -brand-name-firefox
 newsletter-form-im-okay-with-mozilla = Pozwalam { -brand-name-mozilla(case: "dat") } wykorzystywać te informacje w sposób opisany w <a href="{ $url }">zasadach ochrony prywatności</a>
 newsletter-form-we-will-only-send = Przesyłane będą wyłącznie informacje związane z { -brand-name-mozilla(case: "ins") }.
 newsletter-form-if-you-havent-previously = Jeśli jeszcze nigdy nie potwierdzono subskrypcji biuletynu { -brand-name-mozilla(case: "gen") }, to możesz musieć to zrobić. Sprawdź, czy w skrzynce pocztowej lub spamie jest wiadomość od nas.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> i Ty
+newsletter-form-get-firefox-tips = Porady, wskazówki i wiadomości ze świata { -brand-name-firefox(case: "gen") }
+newsletter-form-keep-up-with = Wszystko<br> o { -brand-name-firefox(case: "loc") }.
+newsletter-form-get-mozilla-updates = Bądź na bieżąco z { -brand-name-mozilla(case: "ins") }
 newsletter-form-available-languages = Dostępne języki
-newsletter-form-select-country = Wybór państwa
+newsletter-form-select-country = Wybierz państwo
 newsletter-form-sign-me-up = Zapisz się
 newsletter-form-sign-up-now = Zapisz się
 newsletter-form-thanks = Dziękujemy!
