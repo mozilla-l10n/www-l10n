@@ -2,28 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-download-firefox = Pobierz Firefoksa
-navigation-get-a-firefox-account = Utwórz konto Firefoksa
-navigation-firefox-browser-for-desktop = Przeglądarka Firefox na komputery
+navigation-download-firefox = Pobierz { -brand-name-firefox(case: "acc") }
+navigation-get-a-firefox-account = Utwórz { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } na komputery
 navigation-get-the-browser-that-respects = Pobierz przeglądarkę, która z automatu szanuje Twoją prywatność. W systemach { -brand-name-windows }, { -brand-name-mac } lub { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Przeglądarka Firefox na telefon
-navigation-take-speed-privacy-and = Miej szybkość, prywatność i spokój ducha zawsze przy sobie. Na { -brand-name-android }a i { -brand-name-ios }.
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } na telefon
+navigation-take-speed-privacy-and = Miej szybkość, prywatność i spokój ducha zawsze przy sobie. Na { -brand-name-android(case: "acc") } i { -brand-name-ios }.
 navigation-download-for-ios = Pobierz na { -brand-name-ios }
-navigation-download-for-android = Pobierz na { -brand-name-android }a
+navigation-download-for-android = Pobierz na { -brand-name-android(case: "acc") }
 navigation-ios-support = Wsparcie dla { -brand-name-ios }
-navigation-android-support = Wsparcie dla { -brand-name-android }a
-navigation-firefox-browser-for-enterprise = Przeglądarka Firefox dla firm
-navigation-strap-on-your-goggles = Załóż okulary i zanurz się w sieci za pomocą przeglądarki Firefox dla rzeczywistości wirtualnej.
+navigation-android-support = Wsparcie dla { -brand-name-android(case: "gen") }
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } dla firm
+navigation-strap-on-your-goggles = Załóż okulary i zanurz się w sieci za pomocą { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } dla rzeczywistości wirtualnej.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } dla { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Oglądaj filmy i przeglądaj Internet na telewizorze { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Przeglądarki { -brand-name-firefox } stawiają Twoją prywatność na pierwszym miejscu — od zawsze i na zawsze.
-navigation-take-the-passwords-youve = Miej hasła zachowane w Firefoksie zawsze przy sobie.
+navigation-take-the-passwords-youve = Miej hasła zachowane w { -brand-name-firefox(case: "loc") } zawsze przy sobie.
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } to cała rodzina produktów zaprojektowanych z myślą o Twoim bezpieczeństwie w Internecie.
-navigation-join-firefox = Dołącz do Firefoksa
+navigation-join-firefox = Dołącz do { -brand-name-firefox(case: "gen") }
 navigation-access-all-of-firefox = Miej dostęp do wszystkiego, co { -brand-name-firefox } oferuje za pomocą jednego logowania — i wyciągnij więcej z każdego naszego produktu.
-navigation-meet-the-firefox-family = Poznaj rodzinę Firefoksa
-navigation-firefox-blog = Blog Firefoksa
-navigation-read-about-new-firefox = Przeczytaj o nowych funkcjach Firefoksa i uzyskaj wskazówki, jak zachować bezpieczeństwo w Internecie.
+navigation-meet-the-firefox-family = Poznaj rodzinę { -brand-name-firefox(case: "gen") }
+navigation-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
+navigation-read-about-new-firefox = Przeczytaj o nowych funkcjach { -brand-name-firefox(case: "gen") } i uzyskaj wskazówki, jak zachować bezpieczeństwo w Internecie.
 navigation-the-non-profit-behind = Organizacja non-profit stojąca za Firefoksem walczy o zdrowy Internet dla wszystkich.
 navigation-learn-how-firefox-treats = Dowiedz się, jak { -brand-name-firefox } traktuje Twoje dane z szacunkiem.
 navigation-mozilla-careers = Praca w Mozilli
