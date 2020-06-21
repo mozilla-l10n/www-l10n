@@ -5,7 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-index-six-of-the-best-browsers-fallback = Sex av de bästa webbläsarna i en jämförelse
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Sju av de bästa webbläsarna i direkt jämförelse
+compare-index-six-of-the-best-browsers-fallback = Sex av de bästa webbläsarna i direkt jämförelse
 # Sub-headline
 compare-index-privacy-utility-portability = Integritet. Användbarhet. Portabilitet.
 # HTML page description
