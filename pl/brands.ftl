@@ -9,10 +9,34 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
--brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
--brand-name-facebook = Facebook
+-brand-name-amazon =
+    { $case ->
+       *[nom] Amazon
+        [gen] Amazona
+        [dat] Amazonowi
+        [acc] Amazona
+        [ins] Amazonem
+        [loc] Amazonie
+    }
+-brand-name-apple =
+    { $case ->
+       *[nom] Apple
+        [gen] Apple’a
+        [dat] Apple’owi
+        [acc] Apple’a
+        [ins] Applem
+        [loc] Apple’u
+    }
+-brand-name-creative-commons = Creative Commons
+-brand-name-facebook =
+    { $case ->
+       *[nom] Facebook
+        [gen] Facebooka
+        [dat] Facebookowi
+        [acc] Facebooka
+        [ins] Facebookiem
+        [loc] Facebooku
+    }
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
@@ -27,7 +51,15 @@
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-twitter = Twitter
+-brand-name-twitter =
+    { $case ->
+       *[nom] Twitter
+        [gen] Twittera
+        [dat] Twitterowi
+        [acc] Twittera
+        [ins] Twitterem
+        [loc] Twitterze
+    }
 
 ## Firefox browsers
 
