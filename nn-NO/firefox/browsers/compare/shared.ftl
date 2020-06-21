@@ -9,6 +9,14 @@
 compare-shared-yes = Ja
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Nei
+compare-shared-private-browsing-mode = Privat nettlesingsmodus
+compare-shared-blocks-third-party-tracking = Blokkerer tredjeparts sporingsinfokapslar
+compare-shared-blocks-cryptomining-scripts = Blokkerer kryptomineringsskript
+compare-shared-blocks-social-trackers = Blokkerer sosiale media-sporarar
+compare-shared-autoplay-blocking = Blokkering av automatisk avspeling
+compare-shared-tab-browsing = Nettlesing med faner
+compare-shared-bookmark-manager = Bokmerkehandterar
+compare-shared-automatically-fills-out-forms = Fyller ut skjemaer automatisk
 compare-shared-text-to-speech = Tekst til tale
 compare-shared-reader-mode = Lesemodus
 compare-shared-spell-checking = Stavekontroll

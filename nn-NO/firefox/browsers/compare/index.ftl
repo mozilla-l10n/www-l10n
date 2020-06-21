@@ -5,12 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Sju av dei beste nettlesarane i direkte samanlikning
 compare-index-six-of-the-best-browsers-fallback = Seks av dei beste nettlesarane i direkte samanlikning
 # Sub-headline
 compare-index-privacy-utility-portability = Personvern. Nytte. Portabilitet.
 # HTML page description
 compare-index-a-great-internet-browser-should = Ein god nettlesar bør ha funksjonaliteten du treng, portabilitet mellom einingar og det personvernet du fortener.
 compare-index-which-browser-is-best-at-keeping = Kva for nettlesar er best på å halde ting konfidensielle?
+compare-index-what-you-do-online-literally = Det du gjer på nettet handlar berre om deg og ingen andre.
+compare-index-what-has-your-browser-done = Kva har nettlesaren din gjort for deg i det siste?
 compare-index-how-well-does-your-browser = Kor bra fungerer nettlesaren din på ulike einingar?
 compare-index-conclusion = Konklusjon:
 compare-index-and-the-winner-is = Og vinnaren er…
