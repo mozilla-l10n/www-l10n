@@ -339,15 +339,111 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
--brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-sync =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Synchronizacja Firefoksa
+                [lower] synchronizacja Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Synchronizacji Firefoksa
+                [lower] synchronizacji Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Synchronizacji Firefoksa
+                [lower] synchronizacji Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Synchronizację Firefoksa
+                [lower] synchronizację Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Synchronizacją Firefoksa
+                [lower] synchronizacją Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Synchronizacji Firefoksa
+                [lower] synchronizacji Firefoksa
+            }
+    }
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
+-brand-name-devtools =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Narzędzia dla programistów
+                [lower] narzędzia dla programistów
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Narzędzi dla programistów
+                [lower] narzędzi dla programistów
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Narzędziom dla programistów
+                [lower] narzędziom dla programistów
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Narzędzia dla programistów
+                [lower] narzędzia dla programistów
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Narzędziami dla programistów
+                [lower] narzędziami dla programistów
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Narzędziach dla programistów
+                [lower] narzędziach dla programistów
+            }
+    }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
--brand-name-sync = Sync
+-brand-name-sync =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Synchronizacja
+                [lower] synchronizacja
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Synchronizacji
+                [lower] synchronizacji
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Synchronizacji
+                [lower] synchronizacji
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Synchronizację
+                [lower] synchronizację
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Synchronizacją
+                [lower] synchronizacją
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Synchronizacji
+                [lower] synchronizacji
+            }
+    }
 
 ## Pocket
 
@@ -355,37 +451,117 @@
 
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
+-brand-name-bugzilla =
+    { $case ->
+       *[nom] Bugzilla
+        [gen] Bugzilli
+        [dat] Bugzilli
+        [acc] Bugzillę
+        [ins] Bugzillą
+        [loc] Bugzilli
+    }
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mdn-web-docs = MDN Web Docs
--brand-name-thunderbird = Thunderbird
+-brand-name-mdn-web-docs =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Dokumentacja MDN
+                [lower] dokumentacja MDN
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Dokumentacji MDN
+                [lower] dokumentacji MDN
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Dokumentacji MDN
+                [lower] dokumentacji MDN
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Dokumentację MDN
+                [lower] dokumentację MDN
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Dokumentacją MDN
+                [lower] dokumentacją MDN
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Dokumentacji MDN
+                [lower] dokumentacji MDN
+            }
+    }
+-brand-name-thunderbird =
+    { $case ->
+       *[nom] Thunderbird
+        [gen] Thunderbirda
+        [dat] Thunderbirdowi
+        [acc] Thunderbirda
+        [ins] Thunderbirdem
+        [loc] Thunderbirdzie
+    }
 
 ## Mozilla projects (short names)
 
--brand-name-common-voice = Common Voice
+-brand-name-common-voice = Common Voice
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-web-assembly = Web Assembly
+-brand-name-web-assembly = WebAssembly
 
 ## Other browsers
 
 -brand-name-brave = Brave
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
--brand-name-ie = Internet Explorer
--brand-name-opera = Opera
+-brand-name-ie =
+    { $case ->
+       *[nom] Internet Explorer
+        [gen] Internet Explorera
+        [dat] Internet Explorerowi
+        [acc] Internet Explorera
+        [ins] Internet Explorerem
+        [loc] Internet Explorerze
+    }
+-brand-name-opera =
+    { $case ->
+       *[nom] Opera
+        [gen] Opery
+        [dat] Operze
+        [acc] Operę
+        [ins] Operą
+        [loc] Operze
+    }
 -brand-name-safari = Safari
 
 ## Platforms
 
--brand-name-android = Android
+-brand-name-android =
+    { $case ->
+       *[nom] Android
+        [gen] Androida
+        [dat] Androidowi
+        [acc] Androida
+        [ins] Androidem
+        [loc] Androidzie
+    }
 -brand-name-ios = iOS
--brand-name-linux = Linux
+-brand-name-linux =
+    { $case ->
+       *[nom] Linux
+        [gen] Linuksa
+        [dat] Linuksowi
+        [acc] Linuksa
+        [ins] Linuksem
+        [loc] Linuksie
+    }
 -brand-name-mac = macOS
 -brand-name-windows = Windows
 -brand-name-xp = XP
@@ -393,7 +569,7 @@
 
 ## Apple products
 
--brand-name-app-store = App Store
+-brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
 
