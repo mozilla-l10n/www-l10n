@@ -570,8 +570,24 @@
 ## Apple products
 
 -brand-name-app-store = App Store
--brand-name-ipad = iPad
--brand-name-iphone = iPhone
+-brand-name-ipad =
+    { $case ->
+       *[nom] iPad
+        [gen] iPada
+        [dat] iPadowi
+        [acc] iPada
+        [ins] iPadem
+        [loc] iPadzie
+    }
+-brand-name-iphone =
+    { $case ->
+       *[nom] iPhone
+        [gen] iPhone’a
+        [dat] iPhone’owi
+        [acc] iPhone’a
+        [ins] iPhone’em
+        [loc] iPhonie
+    }
 
 ## Amazon products
 
