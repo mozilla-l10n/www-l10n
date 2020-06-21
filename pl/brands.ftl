@@ -24,7 +24,7 @@
         [gen] Apple’a
         [dat] Apple’owi
         [acc] Apple’a
-        [ins] Applem
+        [ins] Apple’em
         [loc] Apple’u
     }
 -brand-name-creative-commons = Creative Commons
@@ -52,7 +52,7 @@
         [gen] Google’a
         [dat] Google’owi
         [acc] Google’a
-        [ins] Googlem
+        [ins] Google’em
         [loc] Google’u
     }
 -brand-name-microsoft =
@@ -591,14 +591,22 @@
 
 ## Amazon products
 
--brand-name-fire-tv = Fire TV
+-brand-name-fire-tv = Fire TV
 
 ## Facebook products
 
--brand-name-instagram = Instagram
+-brand-name-instagram =
+    { $case ->
+       *[nom] Instagram
+        [gen] Instagrama
+        [dat] Instagramowi
+        [acc] Instagrama
+        [ins] Instagramem
+        [loc] Instagramie
+    }
 
 ## Google products
 
 -brand-name-chromium = Chromium
--brand-name-google-play = Google Play
+-brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
