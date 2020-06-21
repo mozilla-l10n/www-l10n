@@ -6,22 +6,22 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = Jest sposób na ochronę swojej prywatności. Dołącz do Firefoksa.
+firefox-accounts-there-is-a-way-to = Jest sposób na ochronę swojej prywatności. Dołącz do { -brand-name-firefox(case: "gen") }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Załóż konto Firefoksa — Twoje dane będą prywatne, bezpieczne i zsynchronizowane
+firefox-accounts-get-a-firefox-account = Załóż { -brand-name-firefox-account(case: "acc", capitalization: "lower") } — Twoje dane będą prywatne, bezpieczne i zsynchronizowane
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Przeciwstaw się branży, która sprzedaje Twoje dane stronom trzecim. Mądrze i bezpiecznie przeglądaj Internet dzięki technologii, która walczy o Ciebie.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Bezpiecznie synchronizuj hasła, zakładki i karty na wszystkich urządzeniach. Załóż konto Firefoksa już teraz — jedno logowanie — prywatność w każdym miejscu.
+firefox-accounts-securely-sync-your = Bezpiecznie synchronizuj hasła, zakładki i karty na wszystkich urządzeniach. Załóż { -brand-name-firefox-account(case: "acc", capitalization: "lower") } już teraz — jedno logowanie — prywatność w każdym miejscu.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = Jest sposób na ochronę swojej prywatności. <span>Dołącz do Firefoksa.</span>
+firefox-accounts-there-is-a-way-to-protect = Jest sposób na ochronę swojej prywatności. <span>Dołącz do { -brand-name-firefox(case: "gen") }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Przeciwstaw się branży, dla której Ty jesteś towarem.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = Zalogowano <br>w Firefoksie. <br><span>Teraz wypróbuj { -brand-name-firefox-monitor }.</span>
+firefox-accounts-youre-signed-in-to = Zalogowano <br>w { -brand-name-firefox(case: "loc") }. <br><span>Teraz wypróbuj { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Sprawdź, czy Twoje dane gdzieś wyciekły.
 firefox-accounts-sign-in-to-monitor = Zaloguj się w serwisie { -brand-name-monitor }
-firefox-accounts-join-firefox = Dołącz do Firefoksa
+firefox-accounts-join-firefox = Dołącz do { -brand-name-firefox(case: "gen") }
 firefox-accounts-enter-your-email-address = Wpisz swój adres e-mail, aby zacząć.
 firefox-accounts-already-have-an-account = Masz już konto?
 firefox-accounts-sign-in = Zaloguj się
@@ -43,7 +43,7 @@ firefox-accounts-take-less-keep-it = Zachowujemy mniej,<br> pilnujemy ich bezpie
 firefox-accounts-get-the-knowledge = Zdobądź wiedzę, jak zachować bezpieczeństwo.
 firefox-accounts-learn-everything-you = Dowiedz się wszystkiego, co musisz wiedzieć (ale jeszcze nie wiesz), aby mądrze i bezpiecznie przeglądać Internet, od czołowych ekspertów świata.
 firefox-accounts-and-be-part-of-protecting = Bądź częścią ruchu chroniącego Internet dla przyszłych pokoleń.
-firefox-accounts-help-us-build-a-better = Pomóż nam budować lepszego Firefoksa dla wszystkich.
+firefox-accounts-help-us-build-a-better = Pomóż nam budować lepszego { -brand-name-firefox(case: "acc") } dla wszystkich.
 firefox-accounts-get-into-the-open = Poczuj ducha open source, testując nadchodzące produkty.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Pomóż nam mieć oko na wielkie korporacje.
