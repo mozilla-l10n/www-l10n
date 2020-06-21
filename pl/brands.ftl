@@ -192,8 +192,24 @@
         [ins] Firefoksem Lite
         [loc] Firefoksie Lite
     }
--brand-name-firefox-nightly = Firefox Nightly
--brand-name-firefox-reality = Firefox Reality
+-brand-name-firefox-nightly =
+    { $case ->
+       *[nom] Firefox Nightly
+        [gen] Firefoksa Nightly
+        [dat] Firefoksowi Nightly
+        [acc] Firefoksa Nightly
+        [ins] Firefoksem Nightly
+        [loc] Firefoksie Nightly
+    }
+-brand-name-firefox-reality =
+    { $case ->
+       *[nom] Firefox Reality
+        [gen] Firefoksa Reality
+        [dat] Firefoksowi Reality
+        [acc] Firefoksa Reality
+        [ins] Firefoksem Reality
+        [loc] Firefoksie Reality
+    }
 
 ## Firefox browsers (short names)
 
@@ -208,14 +224,118 @@
 
 ## Firefox browsers (legacy)
 
--brand-name-firefox-aurora = Firefox Aurora
+-brand-name-firefox-aurora =
+    { $case ->
+       *[nom] Firefox Aurora
+        [gen] Firefoksa Aurora
+        [dat] Firefoksowi Aurora
+        [acc] Firefoksa Aurora
+        [ins] Firefoksem Aurora
+        [loc] Firefoksie Aurora
+    }
 
 ## Firefox products
 
--brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-facebook-container = Facebook Container
+-brand-name-firefox-account =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Konto Firefoksa
+                [lower] konto Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Konta Firefoksa
+                [lower] konta Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Kontu Firefoksa
+                [lower] kontu Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Konto Firefoksa
+                [lower] konto Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Kontem Firefoksa
+                [lower] kontem Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Koncie Firefoksa
+                [lower] koncie Firefoksa
+            }
+    }
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Konta Firefoksa
+                [lower] konta Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Kont Firefoksa
+                [lower] kont Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Kontom Firefoksa
+                [lower] kontom Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Konta Firefoksa
+                [lower] konta Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Kontami Firefoksa
+                [lower] kontami Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Kontach Firefoksa
+                [lower] kontach Firefoksa
+            }
+    }
+-brand-name-firefox-devtools =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Narzędzia dla programistów Firefoksa
+                [lower] narzędzia dla programistów Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Narzędzi dla programistów Firefoksa
+                [lower] narzędzi dla programistów Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Narzędziom dla programistów Firefoksa
+                [lower] narzędziom dla programistów Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Narzędzia dla programistów Firefoksa
+                [lower] narzędzia dla programistów Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Narzędziami dla programistów Firefoksa
+                [lower] narzędziami dla programistów Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Narzędziach dla programistów Firefoksa
+                [lower] narzędziach dla programistów Firefoksa
+            }
+    }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
