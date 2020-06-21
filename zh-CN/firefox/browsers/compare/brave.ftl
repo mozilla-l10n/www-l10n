@@ -18,5 +18,6 @@ compare-brave-just-like-the-firefox-browser = 就像 { -brand-name-firefox } 浏
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
 #   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
 compare-brave-the-brave-browser-like-so = { -brand-name-brave } 浏览器与许多其他浏览器一样，都是基于 { -brand-name-google } 的 { -brand-name-chromium } 开源代码构建的。开放源代码意味着任何人都可以使用其源代码并在其上构建所需的任何内容，例如 <a { $opera }>{ -brand-name-opera }</a> 和 <a { $edge }>{ -brand-name-edge }</a> 浏览器。但这并不意味着所有基于 { -brand-name-chromium } 的浏览器都是相同的，也不意味着它们本身也是开源的。
+compare-brave-brave-differentiates-itself = { -brand-name-brave } 与其他 { -brand-name-chromium } 内核浏览器不同的是，它的“卖点”是关注用户隐私，比如默认情况下便拦截跟踪器、脚本和广告。因此，当您使用 { -brand-name-brave } 浏览器时，网站的广告区域会显示为空白。在某些情况下，页面会无法正确加载，您需要暂时使用其他浏览器或将“Shields Up”设置改为“Shields Down”，也就是关闭隐私与安全保护功能。
 compare-brave-the-ability-to-sync-your-passwords = 同步功能在 { -brand-name-firefox } 已经使用了许多年，它可以让您在所有设备和操作系统上同步密码、扩展、表单数据，附加组件和其他首选项。同步数据也是加密的，没有人可以从外部访问这些数据。
 compare-brave-when-comparing-the-two-browsers = 比较这两款浏览器，{ -brand-name-firefox } 和 { -brand-name-brave } 都在默认情况下便提供高等级的私密性和安全性，开箱即用。
