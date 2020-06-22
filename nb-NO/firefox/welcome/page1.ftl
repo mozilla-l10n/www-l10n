@@ -23,5 +23,5 @@ welcome-page1-stay-in-the-know = Følg med
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
 #   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
-welcome-page1-were-you-one-of-many = Var du en av 100 985 047 invitert til <a href="{ $evite_breach }">Evite datalekkasje-«festen»</a>?
+welcome-page1-were-you-one-of-many = Var du en av de 100 985 047 inviterte til <a href="{ $evite_breach }">Evite datalekkasje-«festen»</a>?
 welcome-page1-why-am-i-seeing-this = Hvorfor ser jeg dette?
