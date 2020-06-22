@@ -13,7 +13,7 @@ compare-opera-compare-opera-to-the-firefox = Параўнайце { -brand-name-
 compare-opera-comparing-firefox-browser = Параўнанне браўзера Firefox з { -brand-name-opera }
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Палітыка прыватнасці</a> Firefox вельмі празрыста апісвае, якую асабістую інфармацыю мы збіраем з адзінай мэтай — даць вам больш кантролю над інфармацыяй, якой вы дзеліцеся ў Інтэрнэце.
+compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Палітыка прыватнасці</a> { -brand-name-firefox } вельмі празрыста апісвае, якую асабістую інфармацыю мы збіраем з адзінай мэтай — даць вам больш кантролю над інфармацыяй, якой вы дзеліцеся ў Інтэрнэце.
 compare-opera-as-far-as-actual-privacy-protections = Што тычыцца рэальнай абароны прыватнасці ў браўзеры { -brand-name-opera }, ён прапануе надзейны прыватны рэжым, які дазваляе вам карыстацца Інтэрнэтам без сачэння з боку браўзера. У звычайным рэжыме аглядання вы таксама можаце адключыць некаторыя функцыі збору звестак, пакапаўшыся ў наладах, каб уключыць блакаванне рэкламы і наладзіць іншыя функцыі бяспекі.
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics

@@ -13,7 +13,7 @@ compare-opera-compare-opera-to-the-firefox = Pśirownajśo { -brand-name-opera }
 compare-opera-comparing-firefox-browser = Pśirownanje mjazy { -brand-name-firefox-browser } a { -brand-name-opera }
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Pšawidła priwatnosći</a> Firefox su wjelgin transparentne nastupajucy to, kótare wósobinske informacije gromaźimy, z jadnučkim kóńcnym zaměrom, wam wěcej kontrole nad informacijami daś, kótarež online źěliśo.
+compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Pšawidła priwatnosći</a> { -brand-name-firefox } su wjelgin transparentne nastupajucy to, kótare wósobinske informacije gromaźimy, z jadnučkim kóńcnym zaměrom, wam wěcej kontrole nad informacijami daś, kótarež online źěliśo.
 # Variables:
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
 compare-opera-we-also-offer-an-additional = Póbitujomy teke pśidatnu, ale eksperimentelnu wersiju swójogo mobilnego nałoženja { -brand-name-firefox }, <a { $attrs }>{ -brand-name-firefox } Preview</a>, kótarež se na malsnosć a wěstotu koncentrěrujo.

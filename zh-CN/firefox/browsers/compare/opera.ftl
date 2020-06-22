@@ -11,16 +11,16 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } 与 { -brand-n
 compare-opera-compare-opera-to-the-firefox = 将 { -brand-name-opera } 与 Firefox 浏览器进行比较，以确定哪款浏览器更适合您。
 # Main title
 compare-opera-comparing-firefox-browser = Firefox 浏览器与 { -brand-name-opera } 之间的比较
-compare-opera-operas-privacy-policy-lacks = Opera 的隐私政策在解释其收集哪些类型的信息以及如何在某些部分收集账户持有者的姓名、IP 地址和搜索词时缺乏具体说明。最令人困惑和不安的是关于国际数据传输的部分：没有解释将您的数据在国际范围内传输的时间、频率及原因。
+compare-opera-operas-privacy-policy-lacks-fallback = { -brand-name-opera } 的隐私政策在解释其收集哪些类型的信息以及如何在某些部分收集账户持有者的姓名、IP 地址和搜索词时缺乏具体说明。最令人困惑和不安的是关于国际数据传输的部分：没有解释将您的数据在国际范围内传输的时间、频率及原因。
 compare-opera-the-firefox-browser-and-opera = { -brand-name-opera } 是为数不多的与 { -brand-name-firefox } 浏览器一样推出很久，且仍在频繁更新的浏览器。尽管 { -brand-name-opera } 的用户使用率还未达到 { -brand-name-firefox } 或 { -brand-name-google } { -brand-name-chrome } 的水平，但 { -brand-name-opera } 长时间以来依然维持有一群稳定和忠诚的用户。在这篇评比中，我们将 { -brand-name-firefox } 浏览器与 { -brand-name-opera } 浏览器在安全、隐私、实用和跨平台方面比较，以确定哪款浏览器更适合您。
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-opera-firefoxs-privacy-policy-is = Firefox 的<a { $attrs }>隐私政策</a>在描述我们收集哪些个人信息时非常透明，最终目的就是让您对自己的网络数据掌有更大的控制权。
+compare-opera-firefoxs-privacy-policy-is = { -brand-name-firefox } 的<a { $attrs }>隐私政策</a>在描述我们收集哪些个人信息时非常透明，最终目的就是让您对自己的网络数据掌有更大的控制权。
 compare-opera-as-far-as-actual-privacy-protections = 至于 { -brand-name-opera } 浏览器中的隐私保护，它确实提供了强大的“隐身”模式，让您在不被浏览器跟踪活动的情况下上网冲浪。同时在正常浏览模式下，您也可以花点工夫设置启用广告拦截程序，并调整其他安全功能来关闭一些数据收集功能。
 # Variables:
 #   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
 compare-opera-with-the-latest-version-of = 在最新版本的 { -brand-name-firefox } 中，<a { $attrs }>增强型跟踪保护</a>在正常浏览模式下即默认处于启用状态，省心省力。通过增强型跟踪保护，{ -brand-name-firefox } 可以主动拦截成千上万试图跟踪您的第三方网络跟踪器。系统会为您生成个性化的保护报告，该报告显示了当您浏览网络时，{ -brand-name-firefox } 所拦截的第三方 Cookie、社交媒体跟踪器、数字指纹跟踪程序和加密货币挖矿程序的频次。
-compare-opera-we-make-firefox-for-people = 我们为重视个人隐私和安全的人们构建 { -brand-name-firefox }，这就是为什么我们只收集很少的用户信息，并对我们如何使用该信息完全透明的原因。从隐私的角度来说很难知道 Opera 的运营模式。尽管附有强大的隐私功能，但它们本身如何收集和分享您的数据却是个谜。{ -brand-name-firefox } 郑重承诺在保护您的隐私方面，言行保持一致。
+compare-opera-we-make-firefox-for-people = 我们为重视个人隐私和安全的人们构建 { -brand-name-firefox }，这就是为什么我们只收集很少的用户信息，并对我们如何使用该信息完全透明的原因。从隐私的角度来说很难知道 { -brand-name-opera } 的运营模式。尽管附有强大的隐私功能，但它们本身如何收集和分享您的数据却是个谜。{ -brand-name-firefox } 郑重承诺在保护您的隐私方面，言行保持一致。
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-opera-theres-no-debate-that-opera = 毫无疑问，{ -brand-name-opera } 是一款功能强大的浏览器，拥有简洁的用户界面和强大的自定义选项。由于 { -brand-name-opera } 是基于 { -brand-name-chromium } 构建的，因此可以使用大多数的 { -brand-name-google } { -brand-name-chrome } 浏览器扩展。{ -brand-name-firefox } 也提供了一个大型<a { $attrs }>扩展库</a>，但没有 { -brand-name-chrome } 那么庞大。
