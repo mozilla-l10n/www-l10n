@@ -14,4 +14,9 @@ welcome-page1-youre-on-track-to-stay-protected = Você está no caminho certo pa
 welcome-page1-youve-got-the-web-browser = Você já tem o navegador web que protege sua privacidade — agora é hora de ter um vigia contra hackers.
 welcome-page1-check-your-breach-report = Verifique seu relatório de vazamento de dados
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = O { -brand-name-firefox-monitor } mostra se suas informações foram expostas em um vazamento de dados conhecido e te alerta caso isso aconteça no futuro.
 welcome-page1-stay-ahead-of-hackers = Esteja à frente dos hackers
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Encontre formas de proteger suas informações com as <a href="{ $security_tips }">Dicas de segurança do { -brand-name-monitor }</a>.
+welcome-page1-stay-in-the-know = Mantenha-se informado
