@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Gwnewch { -brand-name-firefox } yn borwr rhagosodedig i chi
+# HTML page description
+set-as-default-landing-choose-the-browser = Dewiswch y porwr sy'n diogelu'ch preifatrwydd. Gosodwch { -brand-name-firefox } fel eich porwr rhagosodedig.
 set-as-default-landing-make-sure-youre-protected = Gwnewch yn siŵr eich bod yn cael eich diogelu, bob tro rydych yn mynd ar-lein
 set-as-default-landing-thanks-for-using-the = Diolch am ddefnyddio'r porwr { -brand-name-firefox } diweddaraf. Pan ddewiswch { -brand-name-firefox }, rydych yn cefnogi gwe well i chi a phawb arall. Nawr, cymrwch y cam nesaf i ddiogelu eich hun.
 set-as-default-landing-choose-automatic-privacy = Dewiswch breifatrwydd awtomatig
