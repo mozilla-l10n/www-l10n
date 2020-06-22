@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = A hét legjobb böngésző közvetlen összehasonlítása
 compare-index-six-of-the-best-browsers-fallback = A hat legjobb böngésző közvetlen összehasonlítása
 # Sub-headline
 compare-index-privacy-utility-portability = Adatvédelem. Segédeszközök. Hordozhatóság.
