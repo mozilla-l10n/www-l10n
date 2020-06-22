@@ -7,3 +7,4 @@
 
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = Hald deg eit steg framom hackarar
+welcome-page1-why-am-i-seeing-this = Kvifor ser eg dette?
