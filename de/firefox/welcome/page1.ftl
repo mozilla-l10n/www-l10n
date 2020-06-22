@@ -18,7 +18,7 @@ welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } zeigt 
 welcome-page1-stay-ahead-of-hackers = Sei Hackern einen Schritt voraus
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
-welcome-page1-find-ways-to-protect-your = Schütze deine persönlichen Daten. <a href="{ $security_tips }">Wir sagen dir wie</a>.
+welcome-page1-find-ways-to-protect-your = Schütze deine persönlichen Daten. <a href="{ $security_tips }">{ -brand-name-monitor } sagt dir wie</a>.
 welcome-page1-stay-in-the-know = Bleib auf dem Laufenden
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
