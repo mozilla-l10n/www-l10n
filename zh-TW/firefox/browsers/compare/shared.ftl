@@ -39,6 +39,7 @@ compare-shared-utility-strong = <strong>實用性</strong>
 compare-shared-portability-strong = <strong>可攜帶性</strong>
 compare-shared-overall-assessment = 總體評價
 compare-shared-the-comparisons-made-here = 本頁根據下列版本的瀏覽器發行版本進行評比:
+compare-shared-this-page-updated-semi-quarterly = 此頁面當中的資料每半年更新兩次，可能不會隨時根據各瀏覽器最新版本更新。
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
