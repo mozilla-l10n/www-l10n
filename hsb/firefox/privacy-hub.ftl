@@ -50,10 +50,16 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Polěpšeny slědowanski 
 firefox-privacy-hub-download-the-firefox-browser = Wobhladowak { -brand-name-firefox } sćahnyć
 firefox-privacy-hub-update-your-firefox-browser = Zaktualizujće swój wobhladowak { -brand-name-firefox }
 firefox-privacy-hub-always-in-your-control = Maće přeco kontrolu
+firefox-privacy-hub-want-to-customize-what = Chceće rozsudźić, štož ma so blokować? Waše nastajenja su jenož jedne kliknjenje zdalene.
 firefox-privacy-hub-protection-beyond-tracking = Wjace hač slědowanski škit
+firefox-privacy-hub-if-you-have-a-firefox-account = Jeli maće { -brand-name-firefox-account }, móžeće tež widźeć, kak pomhamy wam, waše wosobinske informacije a hesła škitać.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Blokuje so přez { $trackers } přesćěhowakow kóždy dźeń za wužiwarjow { -brand-name-firefox } na cyłym swěće
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Za dźěrami přepruwować
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Hesła a přizjewjenske daty, kotrež w { -brand-name-firefox-lockwise } składujeće, so na wšěch wašich gratach zaklučuja, samo my njemóžemy je widźeć.
 firefox-privacy-hub-learn-more-about-lockwise = Dalše informacije wo { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Dataju pósłać
