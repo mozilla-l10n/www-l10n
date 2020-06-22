@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = Plus de un navigator, { -brand-name-firefox-monitor } es tu alertas pro le piratas informatic
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = Attinge le grado successive pro proteger tu confidentialitate online con le familia de productos { -brand-name-firefox }.
+welcome-page1-stay-ahead-of-hackers-check = Supera le piratas informatic. Controla pro violationes de datos con { -brand-name-firefox-monitor }.
 welcome-page1-check-your-breach-report = Controla tu Reporto de violationes
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = Supera le piratas informatic
