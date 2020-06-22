@@ -22,5 +22,12 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } 与其他 { -b
 # "Basic Attention Token" and "BAT" are brand names. "a.k.a." is an abbreviation of "also known as".
 compare-brave-the-internet-as-a-whole-is = 整个互联网很大程度上是通过展示广告来获利的，这使得你想看的内容是免费的。{ -brand-name-brave } 试图通过鼓励用户选择使用 { -brand-name-brave } 自己的奖励系统（实际上是它自己的广告平台）来颠覆这种模式。用户开启此选项后后，{ -brand-name-brave } 将显示他们的所谓“尊重隐私的广告”，您可以查看这些广告并获取他们称为 BAT 的基本注意力代币。如上所述，{ -brand-name-brave } 用户可以选择将 BAT 用于支持他们喜欢的网站或个人贡献者，而网站或贡献者又可以将 BAT 转换为真金白银。
 compare-brave-whether-this-sounds-complicated = 这听起来有点复杂，又或许是个好主意，可能取决于您对在互联网上展示广告的容忍程度。大多数互联网用户都知道，优质内容是需要付费的，而且他们也理解通过广告获利的行为。
+# "Basic Attention Token" is a brand name.
+compare-brave-the-bottom-line-is-that-even = 最关键的是，尽管 { -brand-name-brave } 的 BAT 收入模型对于许多用户而言可能过于复杂，但总体来看  { -brand-name-brave } 和 { -brand-name-firefox } 浏览器还是都为用户享有安全私密的浏览体验提供了多种方法。
+compare-brave-what-might-surprise-some-new = 可能让一些 { -brand-name-brave } 新用户惊喜的是，其浏览器页面加载很快。加载快的原因是，当所有广告被屏蔽时，页面加载速度就会更快。加载较少的内容，当然所需的时间更少。
+compare-brave-in-terms-of-actual-precious = 就实际耗费的宝贵内存而言，{ -brand-name-brave } 浏览器比 { -brand-name-firefox } 重得多。 { -brand-name-brave } 预先加载各种功能和“附加组件”，这会让它使用更多的内存。另一方面，{ -brand-name-firefox } 允许您决定加载哪些附加组件和扩展。
+compare-brave-brave-also-supports-the-huge = { -brand-name-brave } 也支持 { -brand-name-google } { -brand-name-chrome } 网络商店中庞大的扩展库，并提供了多种浏览器内置功能，例如前面讲到的 { -brand-name-brave } 奖励计划，并支持在浏览器中进行 torrent 下载。
 compare-brave-the-ability-to-sync-your-passwords = 同步功能在 { -brand-name-firefox } 已经使用了许多年，它可以让您在所有设备和操作系统上同步密码、扩展、表单数据，附加组件和其他首选项。同步数据也是加密的，没有人可以从外部访问这些数据。
 compare-brave-when-comparing-the-two-browsers = 比较这两款浏览器，{ -brand-name-firefox } 和 { -brand-name-brave } 都在默认情况下便提供高等级的私密性和安全性，开箱即用。
+compare-brave-overall-brave-is-a-fast-and = 总的来说，{ -brand-name-brave } 是一款对加密货币用户有特殊吸引力的高速安全浏览器。对于绝大多数网络公民来说，{ -brand-name-firefox } 也是一种更好、更简单的上网解决方案。
+compare-brave-braves-advertising-replacement = { -brand-name-brave } 的广告替换想法与当前的付费广告展示和付费搜索模式有所不同。但是，一些繁忙的互联网用户可能不想过多地参与网站微支付的管理，他们的时间和精力还要用在其他地方。
