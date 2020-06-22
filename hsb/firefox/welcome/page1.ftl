@@ -5,10 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = Wjace hač wobhladowak - { -brand-name-firefox-monitor } so za hackerami rozhladuje
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = Čińće přichodnu kročel, zo byšće swoju priwatnosć ze swójbu produktow { -brand-name-firefox } online škitał.
 welcome-page1-youre-on-track-to-stay-protected = Postupujeće prawje, zo byšće wěsty wostał
+welcome-page1-youve-got-the-web-browser = Maće wobhladowak, kotryž wašu priwatnosć škita – je nětko čas, so za hackerami rozhladować.
 welcome-page1-check-your-breach-report = Rozprawu wo datowej dźěrje přepruwować
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } wam pokazuje, hač waše informacije su w znatej datowej dźěrje a warnuje was, jeli so to w přichodźe stawa.
 welcome-page1-stay-ahead-of-hackers = Budźće přez hackerow
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Pytajće z <a href="{ $security_tips }">{ -brand-name-monitor } wěstotnymi pokiwami</a> za móžnosćemi, waše informacije škitać.
 welcome-page1-stay-in-the-know = Wostańće na běžnym
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
