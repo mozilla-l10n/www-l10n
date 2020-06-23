@@ -15,6 +15,9 @@ welcome-page1-youve-got-the-web-browser = Du har allereie nettlesaren som tek va
 welcome-page1-check-your-breach-report = Sjå datalekkasjerapporten din
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = Hald deg eit steg framom hackarar
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Finn måtar å ta vare på informasjonen din med <a href="{ $security_tips }">{ -brand-name-monitor } tryggingstips</a>.
 welcome-page1-stay-in-the-know = Følg med
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
