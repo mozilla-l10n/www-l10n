@@ -15,7 +15,7 @@ mission-we-believe-this-act-of-human-collaboration = Vjerujemo da je ovaj čin s
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Pročitajte <a href="{ $url }">Mozilla manifest</a> i saznajte više informacija o našim vrijednostima i principima koji vode našu misiju.
 mission-watch-the-video-above-to-learn-more = Pogledajte iznad prikazani video i saznajte tko smo, otkuda smo i kako Web činimo boljim za vas.
-mission-get-involved = Uključite se
+mission-get-involved = Uključi se
 mission-volunteer-opportunities-in-a-number = Volonterske prilike u raznim područjima
 mission-history = Povijest
 mission-where-we-come-from-and-how-we-got = Otkud dolazimo i kako smo stigli gdje se trenutno nalazimo
