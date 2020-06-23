@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Otvori { -brand-name-firefox-account } 
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Protivi se industriji koja prodaje tvoje podatke trećim stranama. Koristi pametnu i sigurnu tehnologiju koja se bori za tebe.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Sigurno sinkroniziraj svoje lozinke, zabilješke i kartice diljem tvojih uređaja. Otvori Firefox račun sada – jedna prijava – moć i privatnost svugdje.
+firefox-accounts-securely-sync-your = Sigurno sinkroniziraj svoje lozinke, zabilješke i kartice diljem tvojih uređaja. Otvori { -brand-name-firefox-account } račun sada – jedna prijava – moć i privatnost svugdje.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Postoji način kako zaštititi vlastitu privatnost. <span>Pridruži se { -brand-name-firefox }u.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
