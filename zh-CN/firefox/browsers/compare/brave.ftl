@@ -28,6 +28,8 @@ compare-brave-what-might-surprise-some-new = 可能让一些 { -brand-name-brave
 compare-brave-in-terms-of-actual-precious = 就实际耗费的宝贵内存而言，{ -brand-name-brave } 浏览器比 { -brand-name-firefox } 重得多。 { -brand-name-brave } 预先加载各种功能和“附加组件”，这会让它使用更多的内存。另一方面，{ -brand-name-firefox } 允许您决定加载哪些附加组件和扩展。
 compare-brave-brave-also-supports-the-huge = { -brand-name-brave } 也支持 { -brand-name-google } { -brand-name-chrome } 网络商店中庞大的扩展库，并提供了多种浏览器内置功能，例如前面讲到的 { -brand-name-brave } 奖励计划，并支持在浏览器中进行 torrent 下载。
 compare-brave-the-ability-to-sync-your-passwords = 同步功能在 { -brand-name-firefox } 已经使用了许多年，它可以让您在所有设备和操作系统上同步密码、扩展、表单数据，附加组件和其他首选项。同步数据也是加密的，没有人可以从外部访问这些数据。
+# "Basic Attention Token" is a brand name.
+compare-brave-brave-also-recently-gained = { -brand-name-brave } 最近也获得了跨大多数流行操作系统和设备同步数据的能力，并增加了同步基本注意力代币（BAT）的功能。
 compare-brave-when-comparing-the-two-browsers = 比较这两款浏览器，{ -brand-name-firefox } 和 { -brand-name-brave } 都在默认情况下便提供高等级的私密性和安全性，开箱即用。
 compare-brave-overall-brave-is-a-fast-and = 总的来说，{ -brand-name-brave } 是一款对加密货币用户有特殊吸引力的高速安全浏览器。对于绝大多数网络公民来说，{ -brand-name-firefox } 也是一种更好、更简单的上网解决方案。
 compare-brave-braves-advertising-replacement = { -brand-name-brave } 的广告替换想法与当前的付费广告展示和付费搜索模式有所不同。但是，一些繁忙的互联网用户可能不想过多地参与网站微支付的管理，他们的时间和精力还要用在其他地方。

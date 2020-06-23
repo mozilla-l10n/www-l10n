@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = 不止于浏览器，{ -brand-name-firefox-monitor } 更为您防范黑客
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = 使用 { -brand-name-firefox } 系列产品，全方位保护您的网络隐私。
+welcome-page1-stay-ahead-of-hackers-check = 先发制人防止黑客攻击。到 { -brand-name-firefox-monitor } 检查是否有数据外泄事件。
 welcome-page1-youre-on-track-to-stay-protected = 保持下去，就能继续获得保护
 welcome-page1-youve-got-the-web-browser = 您已经拥有可以保护隐私的浏览器，现在更该先发制人防止黑客攻击。
 welcome-page1-check-your-breach-report = 检查您的数据外泄报告
