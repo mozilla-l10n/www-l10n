@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
 # HTML page title
-compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } чи { -brand-name-brave }: Який браузер краще для вас?
+compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } чи { -brand-name-brave }: Який з браузерів краще для вас?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Порівняйте { -brand-name-brave } та { -brand-name-firefox-browser } та визначте, який з них краще для вас з погляду приватності, зручності та доступності.
+compare-brave-compare-brave-to-the-firefox = Порівняйте { -brand-name-brave } та { -brand-name-firefox-browser }, щоб визначитися, який з них краще для вас з погляду приватності, зручності та доступності.
 # Main title
 compare-brave-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser } та { -brand-name-brave }
 # "Brave Software" is a brand name.
