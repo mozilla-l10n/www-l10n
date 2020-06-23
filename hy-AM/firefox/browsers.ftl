@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
-firefox-browsers-get-the-browsers-that-put = Ձեռք բերեք այն զննարկիչները, որոնք առաջնային են համարում ձեր գաղտնիությունը և միշտ ունեն
+firefox-browsers-get-the-browsers-that-put = Ստացեք այն զննարկիչները, որոնք առաջնային են համարում ձեր գաղտնիությունը
 # HTML page description
 firefox-browsers-get-the-privacy-you-deserve = Ձեռք բերեք Ձեզ արժանի գաղտնիությունը: Ընդլայնված Հետագծման պաշտպանությունն ինքնաշխատ է { -brand-name-firefox }-ի յուրաքանչյուր զննարկիչում:
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

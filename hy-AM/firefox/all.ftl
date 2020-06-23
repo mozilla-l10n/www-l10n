@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = 32-բիթանոց տեղադրիչներ
 firefox-all-download-the-firefox = Ներբեռնեք { -brand-name-firefox-browser }-ը անգլերեն (US) և ավելի քան 90 այլ լեզուներով:
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Բոլորն արժանի են մուտք ունենալ համացանց և ձեր լեզուն երբեք չպետք է դառնա խոչընդոտ: Ահա թե ինչու, ամբողջ աշխարհի նվիրված կամավորների օգնությամբ, մենք հա,սանելի ենք դարձրել { -brand-name-firefox-browser }-ը ավելի քան 90 լեզուներով:
-firefox-all-choose-which-firefox = Ընտրեք, թե որ { -brand-name-firefox-browser }-ը ներբեռնել ձեր լեզվով:
+firefox-all-choose-which-firefox = Ընտրեք, թե որ { -brand-name-firefox-browser }-ը ներբեռնեք ձեր լեզվով:
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }֊ի գաղտնիության ծանուցում
 firefox-all-learn-about-firefox = Իմացեք ավելին { -brand-name-firefox }֊ի դիտարկիչների մասին
 firefox-all-the-standard-firefox = Ստանդարտ { -brand-name-firefox } զննարկիչը արագ է և մասնավոր:  Եթե համոզված չեք, որ { -brand-name-firefox }-ը ընտրել, ապա ընտրեք սա:
