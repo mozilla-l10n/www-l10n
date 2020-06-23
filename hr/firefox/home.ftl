@@ -11,14 +11,14 @@ firefox-home-the-browser-is-just = Preglednik je tek početak
 firefox-home-meet-our-family-of = Upoznaj našu porodicu proizvoda
 firefox-home-get-trackers-off = Onemogućite praćenje 2,000+ pratitelja — uključujući { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Znaj kad hakeri napadnu – i ostani uvijek korak ispred
-firefox-home-start-getting-breach = Započnite dobivati izvješća o curenju podataka
+firefox-home-start-getting-breach = Počni dobivati izvještaje o curenju podataka
 firefox-home-keep-your-passwords = Čuvaj svoje lozinke sigurno na svim uređajima
 firefox-home-learn-more-about-lockwise = Saznaj više o { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Dobij <strong>poštovanje</strong> koje zaslužuješ
 firefox-home-every-single-firefox = Svi { -brand-name-firefox } proizvodi poštuju naše obećanje o osobnim podacima: <strong>Uzmi što manje podataka. Drži ih sigurnima. Bez tajni.</strong>
 firefox-home-share-large-files-without = Dijelite velike datoteke bez znatiželjnih očiju
-firefox-home-start-sending-files = Započnite sigurno slati datoteke
+firefox-home-start-sending-files = Počni slati datoteke na siguran način
 firefox-home-trade-clickbait-for = Zamijenite clickbait za kvalitetan sadržaj
 firefox-home-learn-more-about-pocket = Saznaj više o { -brand-name-pocket }u
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
