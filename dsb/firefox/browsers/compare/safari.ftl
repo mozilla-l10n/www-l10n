@@ -10,4 +10,4 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } w pśirownan
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } jo pśedinstalěrowany wobglědowak na { -brand-name-mac } a { -brand-name-iphone }. Pśirownajśo { -brand-name-safari } z { -brand-name-firefox-browser }, aby zwěsćił, kótary jo lěpšy wobglědowak za was.
 # Main title.
-compare-safari-comparing-firefox-browser = Pśirownanje mjazy { -brand-name-firefox-browser } a Apple Safari
+compare-safari-comparing-firefox-browser = Pśirownanje mjazy { -brand-name-firefox-browser } a { -brand-name-apple } { -brand-name-safari }
