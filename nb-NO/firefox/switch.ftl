@@ -8,6 +8,7 @@
 switch-switch-from-chrome = Bytt fra { -brand-name-chrome } til { -brand-name-firefox } på bare noen få minutt
 switch-switching-to-firefox-is-fast-updated = Det er rakst, enkelt og risikofritt å bytte til { -brand-name-firefox }, fordi { -brand-name-firefox } importerer dine bokmerker, passord og innstillinger fra { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Det er rakst, enkelt og risikofritt å bytte til { -brand-name-firefox }, fordi { -brand-name-firefox } importerer dine bokmerker, autofyll, passord og innstillinger fra { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Det er rakst, enkelt og risikofritt å bytte til { -brand-name-firefox }. { -brand-name-firefox } importerer dine bokmerker, passord og innstillinger fra { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Det er rakst, enkelt og risikofritt å bytte til { -brand-name-firefox }. { -brand-name-firefox } importerer dine bokmerker, autofyll, passord og innstillinger fra { -brand-name-chrome }.
 switch-select-what-to-take = Velg hva du vil ha med fra { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = La { -brand-name-firefox } gjøre resten.
