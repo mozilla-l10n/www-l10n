@@ -7,6 +7,7 @@
 
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = Hald deg eit steg framom hackarar
+welcome-page1-stay-in-the-know = Følg med
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
 #   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
