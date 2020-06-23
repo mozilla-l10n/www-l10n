@@ -13,3 +13,8 @@ compare-brave-compare-brave-to-the-firefox = Samanlikn { -brand-name-brave } med
 compare-brave-comparing-firefox-browser = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-brave }
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Akkurat som { -brand-name-firefox }-nettlesaren, er { -brand-name-brave }-nettlesaren gratis, open kjeldekode og fokusert på å ta vare på personvernet til brukarane. { -brand-name-brave } er ein relativ nykomar i verda av nettlesarar: produsenten, { -brand-name-brave } Software, debuterte først med nettlesaren i januar 2016. I denne artikkelen samanliknar vi { -brand-name-firefox }-nettlesaren med { -brand-name-brave }-nettlesaren i tre kategoriar: personvern, nytte og portabilitet.
+# To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
+# Variables:
+#   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
+#   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
+compare-brave-the-brave-browser-like-so = Nettlesaren { -brand-name-brave } er, som så mange andre, bygd på den opne kjeldekoden til { -brand-name-chromium } utvikla av { -brand-name-google }. Open kjeldekode betyr at kven som helst kan bruke kjeldekoden og utvikle noko for å lage det dei vil - som netlesarane <a { $opera }> { -brand-name-opera }</a> og <a { $edge }>{ -brand-name-edge }</a>. Men det betyr ikkje at alle { -brand-name-chromium }-baserte nettlesarar er like eller i seg sjølv er open kjeldekode.
