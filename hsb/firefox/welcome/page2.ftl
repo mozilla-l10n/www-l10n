@@ -9,3 +9,7 @@
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } - składujće nowinki, wideja, stawiznički a wjace
 welcome-page2-your-time-online-is-worth = Waš čas online je škitanja hódny
 welcome-page2-activate-pocket = { -brand-name-pocket } aktiwizować
+welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-save-content-from-everywhere = Składujće wobsah wot wšudźe
+welcome-page2-discover-new-stories = Wotkryjće nowe stawiznički
+welcome-page2-why-am-i-seeing-this = Čehodla so to pokazuje?
