@@ -8,9 +8,9 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } contra { -brand-name-ie }: qual es le melior navigator pro te?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Compara { -brand-name-ie } con le navigator Firefox pro discoperir qual es le melior navigator pro te.
+compare-ie-compare-internet-explorer-to = Compara { -brand-name-ie } con { -brand-name-firefox-browser } pro discoperir qual es le melior navigator pro te.
 # Main title
-compare-ie-comparing-firefox-browser-with = Comparation inter le navigator Firefox e { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Comparation inter le navigator { -brand-name-firefox-browser } e { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Ben que { -brand-name-ie } es ancora pre-installate sur le major parte del computatores personal con { -brand-name-windows }, { -brand-name-microsoft } prefererea clarmente tu usa lor navigator { -brand-name-edge }, que es le predefinite quando tu compra.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } discontinuava su marca de fabrica { -brand-name-ie } plure annos retro, in favor de su navigator actualisate { -brand-name-edge } pro { -brand-name-windows } 10. Totevia, le lente adoption de { -brand-name-edge } lassava spatio al superviventia de { -brand-name-ie }, principalmente pro rationes de compatibilitate con negotios.
 compare-ie-here-well-compare-our-firefox = Hic nos comparara nostre navigator { -brand-name-firefox } con { -brand-name-ie } in terminos de securitate, utilitate, e portabilitate. Nos te adjutara a comprender le differentias inter un moderne navigator como { -brand-name-firefox } que adhere al standardos web, e le navigator que tu pote usar pro exigentias de negotios o per vetere habitos dur a morir.
