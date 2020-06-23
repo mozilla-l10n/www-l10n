@@ -14,6 +14,7 @@ welcome-page1-youre-on-track-to-stay-protected = Du er på rett veg til meir sik
 welcome-page1-youve-got-the-web-browser = Du har allereie nettlesaren som tek vare på personvernet ditt. Neste steg: Hald eit auge med datalekkasjar og hackarar.
 welcome-page1-check-your-breach-report = Sjå datalekkasjerapporten din
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } viser deg om informasjonen din har blitt leken i ein kjend datalekkasje, og varslar deg i tilfelle det skulle skje i framtida.
 welcome-page1-stay-ahead-of-hackers = Hald deg eit steg framom hackarar
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

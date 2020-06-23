@@ -11,5 +11,6 @@ welcome-page2-your-time-online-is-worth = Tida di på nettet er verd å beskytte
 welcome-page2-discover-and-save-stories = Oppdag og lagre artiklar i { -brand-name-pocket } — og kom tilbake til dei når du har tid.
 welcome-page2-activate-pocket = Aktiver { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-pocket-is-built-right-into = { -brand-name-pocket } er innebygd i { -brand-name-firefox }, slik at du enkelt kan lagre artiklar mens du finn dei, og deretter lese dei seinare på kva som helst eining
 welcome-page2-discover-new-stories = Oppdag nye artiklar
 welcome-page2-why-am-i-seeing-this = Kvifor ser eg dette?
