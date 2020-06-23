@@ -8,9 +8,9 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } versus { -brand-name-chrome }: Qual é melhor?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = Comparamos o Mozilla Firefox com o Google Chrome em termos de privacidade, utilidade e portabilidade
+compare-chrome-we-compare-mozilla-firefox = Comparamos o { -brand-name-mozilla } { -brand-name-firefox } com o { -brand-name-google } { -brand-name-chrome } em termos de privacidade, utilidade e portabilidade
 # Main title.
-compare-chrome-comparing-firefox-browser = Comparação entre o Navegador Firefox e o Google Chrome
+compare-chrome-comparing-firefox-browser = Comparação entre o { -brand-name-firefox-browser } e o { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = No { -brand-name-firefox }, temos um enorme número de usuários dedicados que apreciam nossa firme dedicação à privacidade online. Por exemplo, a versão mais recente do { -brand-name-firefox } inclui um recurso chamado Proteção Aprimorada Contra Rastreamento, que é ativado por padrão para todos os usuários no mundo todo. Esta proteção bloqueia mais de 2000 rastreadores, incluindo rastreadores de mídias sociais de empresas como { -brand-name-facebook }, { -brand-name-twitter } e LinkedIn. Ela também tem um recurso integrado chamado <a { $attrs }>{ -brand-name-firefox-monitor }</a> que notifica você automaticamente caso sua senha tenha sido exposta ou precisa ser alterada. Além dessas proteções, o modo de Navegação Privativa do { -brand-name-firefox } exclui automaticamente suas informações de navegação, como histórico e cookies, sem deixar rastros após o término da sessão.
