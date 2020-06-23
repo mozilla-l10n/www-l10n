@@ -46,6 +46,7 @@ compare-edge-with-internet-explorer-fallback = { -brand-name-microsoft } hat aus
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-edge-firefox-has-been-available = { -brand-name-firefox } ist seit jeher für alle Betriebssysteme verfügbar: für { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac } und { -brand-name-linux }. Wie man es von einem modernen Browser erwarten können sollte, kannst du dich bei { -brand-name-firefox } mit einem <a { $attrs }></a>kostenlosen Account</a> einloggen und deine Daten auf allen Geräten synchronisieren, z.B. Passwörter, Suchverlauf, Bookmarks und offene Tabs. Du kannst also deine Daten über alle deine Geräte hinweg synchronisieren.
+compare-edge-edge-also-allows-you-to-connect = Bei { -brand-name-edge } kannst du dich auch mit deinem dazugehörigen { -brand-name-microsoft } Account anmelden und deine Favoriten, Chronik und Passwörter zwischen Computer und { -brand-name-ios }- oder { -brand-name-android }-Geräten synchronisieren.
 compare-edge-edge-also-allows-you-to-fallback = Bei { -brand-name-edge } kannst du dich auch mit deinem dazugehörigen { -brand-name-microsoft } Account anmelden und deine Favoriten, Chronik und Passwörter zwischen Computer und { -brand-name-ios }- oder { -brand-name-android }-Geräten synchronisieren. Allerdings werden ein paar { -brand-name-android }-Tablets nicht unterstützt.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
