@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Yalnızca iki dakikada { -brand-name-chrome }’dan { -brand-name-firefox }’a geç
+switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox }’a geçmek hızlı, kolay ve risksiz; çünkü { -brand-name-firefox }, { -brand-name-chrome }’daki yer imlerini, parolaları ve tercihleri kendiliğinden aktarıyor.
 switch-switching-to-firefox-is-fast = { -brand-name-firefox }’a geçmek hızlı, kolay ve risksiz; çünkü { -brand-name-firefox }, { -brand-name-chrome }’daki yer imlerini, otomatik form doldurmalarını, parolalarını ve tercihlerini kendiliğinden aktarıyor.
+switch-switching-to-firefox-page-description-updated = { -brand-name-firefox }’a geçmek hızlı, kolay ve risksiz. { -brand-name-firefox }, { -brand-name-chrome }’daki yer imlerini, parolaları ve tercihleri kendiliğinden aktarıyor.
 switch-switching-to-firefox-page-description = { -brand-name-firefox }’a geçmek hızlı, kolay ve risksiz. { -brand-name-firefox }, { -brand-name-chrome }’daki yer imlerini, otomatik form doldurmalarını, parolalarını ve tercihlerini kendiliğinden aktarıyor.
 switch-select-what-to-take = { -brand-name-chrome }’dan neleri taşımak istediğini seç.
 switch-let-firefox-do-the-rest = Gerisini { -brand-name-firefox } halletsin.
