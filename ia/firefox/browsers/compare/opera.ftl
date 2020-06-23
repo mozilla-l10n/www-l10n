@@ -8,9 +8,9 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } contra { -brand-name-opera }: qual es le melior navigator pro te?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Compara { -brand-name-opera } con Firefox pro discoperir qual es le melior navigator pro te.
+compare-opera-compare-opera-to-the-firefox = Compara { -brand-name-opera } con { -brand-name-firefox-browser } pro discoperir qual es le melior navigator pro te.
 # Main title
-compare-opera-comparing-firefox-browser = Comparation inter le navigator Firefox e { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Comparation inter { -brand-name-firefox-browser } e { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks-fallback = Le politica de confidentialitate de { -brand-name-opera } non specifica ben qual typos de informationes illes collige e como: in alcun sectiones, illes dice colliger nomines de detentores de contos, adresses IP e terminos de recerca. Le section del transferentias international de datos pare confuse e preoccupante; quando, quanto sovente e perque illes debe transferer tu datos internationalmente non es explicate.
 compare-opera-the-firefox-browser-and-opera = Le navigator { -brand-name-firefox } e { -brand-name-opera } es duo del primissime navigatores sur le scena que ancora publica frequente actualisationes. Ben que { -brand-name-opera } non ha attingite identic nivello de utilisation que { -brand-name-firefox } o { -brand-name-google } { -brand-name-chrome }, illo ha mantenite un base relativemente stabile e fidel per un longe periodo de tempore. In iste revision, nos comparara le navigator { -brand-name-opera } con nostre Navigator { -brand-name-firefox } in terminos de securitate e confidentialitate, utilitate e portabilitate, pro te adjutar a eliger qual navigator pote esser le melior pro tu exigentias.
 # Variables:
