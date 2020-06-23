@@ -8,4 +8,4 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand-name-safari }: Který prohlížeč je pro vás lepší?
 # Main title.
-compare-safari-comparing-firefox-browser = Porovnání prohlížeče Firefox se Safari od Applu
+compare-safari-comparing-firefox-browser = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } se { -brand-name-safari(case: "ins") } od { -brand-name-apple(case: "gen") }
