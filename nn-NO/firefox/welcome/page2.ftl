@@ -12,5 +12,7 @@ welcome-page2-discover-and-save-stories = Oppdag og lagre artiklar i { -brand-na
 welcome-page2-activate-pocket = Aktiver { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-pocket-is-built-right-into = { -brand-name-pocket } er innebygd i { -brand-name-firefox }, slik at du enkelt kan lagre artiklar mens du finn dei, og deretter lese dei seinare på kva som helst eining
+welcome-page2-grab-articles-videos-and-links = Ta artiklar, videoar og lenker frå kva som helst nettstad ved å klikke på { -brand-name-pocket }-ikonet i verktøylinja til nettlesaren.
 welcome-page2-discover-new-stories = Oppdag nye artiklar
+welcome-page2-pocket-shows-recommended-stories = { -brand-name-pocket } viser tilrådde artiklar kvar gong du opnar ei ny fane. Lagre dei som interesserer deg.
 welcome-page2-why-am-i-seeing-this = Kvifor ser eg dette?

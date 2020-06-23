@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Byt frå { -brand-name-chrome } til { -brand-name-firefox } på berre nokre få minutt
+switch-switching-to-firefox-is-fast-updated = Det er rakst, enkelt og risikofritt å byte til { -brand-name-firefox }, fordi { -brand-name-firefox } importerer bokmerka, passorda og innstillingane dine frå { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Bytet til { -brand-name-firefox } er raskt, enkelt og risikofritt, fordi { -brand-name-firefox } importerer bokmerka dine autofyll, passord og innstillingar frå { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Det er rakst, enkelt og risikofritt å byte til { -brand-name-firefox }. { -brand-name-firefox } importerer bokmerka, passorda og innstillingane dine frå { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Byte til { -brand-name-firefox } er raskt, enkelt og risikofritt. { -brand-name-firefox } importerer bokmerka dine, autofyll, passord og innstillingar frå { -brand-name-chrome }.
 switch-select-what-to-take = Vel kva du vil ta med deg frå { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = La { -brand-name-firefox } gjere resten.
