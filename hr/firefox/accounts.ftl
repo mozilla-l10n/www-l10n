@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Postoji način kako zaštititi vlastitu privatnost. Pridruži se { -brand-name-firefox }u.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Otvori { -brand-name-firefox-account } račun – čuvaj svoje podatke privatno, sigurno i sinkronizirano
+firefox-accounts-get-a-firefox-account = Nabavi { -brand-name-firefox-account } – čuvaj svoje podatke privatno, sigurno i sinkronizirano
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Protivi se industriji koja prodaje tvoje podatke trećim stranama. Koristi pametnu i sigurnu tehnologiju koja se bori za tebe.
 # Old HTML page description
