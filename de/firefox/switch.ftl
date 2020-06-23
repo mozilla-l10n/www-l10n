@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = So schnell und so einfach: Der Wechsel von { -brand-name-chrome } zu { -brand-name-firefox }
+switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox } importiert Ihre Lesezeichen, Passwörter und Einstellungen aus { -brand-name-chrome }. So geht der Umstieg schnell, einfach und problemlos.
 switch-switching-to-firefox-is-fast = In nur wenigen Minuten importiert { -brand-name-firefox } Deine Lesezeichen, Autovervollständigungen, Passwörter und Einstellungen aus { -brand-name-chrome }. Automatisch und stressfrei.
+switch-switching-to-firefox-page-description-updated = { -brand-name-firefox } importiert Ihre Lesezeichen, Passwörter und Einstellungen aus { -brand-name-chrome }. So geht der Umstieg schnell, einfach und problemlos.
 switch-switching-to-firefox-page-description = In nur wenigen Minuten importiert { -brand-name-firefox } Deine Lesezeichen, Autovervollständigungen, Passwörter und Einstellungen aus { -brand-name-chrome }. Automatisch und stressfrei.
 switch-select-what-to-take = Wähle aus, was von { -brand-name-chrome } importiert werden soll.
 switch-let-firefox-do-the-rest = Lass { -brand-name-firefox } den ganzen Umzug für Dich erledigen.

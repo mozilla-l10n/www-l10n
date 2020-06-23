@@ -2,5 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-banner-firefox-mobile-get-android-title = Hol Dir den { -brand-name-firefox }-Browser für { -brand-name-android }
-banner-firefox-mobile-get-ios-title = Hol Dir den { -brand-name-firefox }-Browser für { -brand-name-ios }
+banner-firefox-mobile-get-android-title = Holen Sie sich den den { -brand-name-firefox }-Browser für { -brand-name-android }
+banner-firefox-mobile-get-ios-title = Holen Sie sich den den { -brand-name-firefox }-Browser für { -brand-name-ios }
