@@ -10,4 +10,4 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } porno { -bra
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } je předinstalowany wobhladowak na { -brand-name-mac } a { -brand-name-iphone }. Přirunajće { -brand-name-safari } z { -brand-name-firefox-browser }, zo byšće zwěsćił, kotry je lěpši wobhladowak za was.
 # Main title.
-compare-safari-comparing-firefox-browser = Přirunanje mjez { -brand-name-firefox-browser } a Apple Safari
+compare-safari-comparing-firefox-browser = Přirunanje mjez { -brand-name-firefox-browser } a { -brand-name-apple } { -brand-name-safari }

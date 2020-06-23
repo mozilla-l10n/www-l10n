@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Přeńdźće wot { -brand-name-chrome } do { -brand-name-firefox } wob mało mjeńšin
+switch-switching-to-firefox-is-fast-updated = Móžeće spěšnje k { -brand-name-firefox } přeńć, je lochko a bjez rizika, dokelž { -brand-name-firefox } waše zapołožki, hesła a nastajenja z { -brand-name-chrome } importuje.
 switch-switching-to-firefox-is-fast = Móžeće spěšnje k { -brand-name-firefox } přeńć, je lochko a bjez rizika, dokelž { -brand-name-firefox } waše zapołožki, awtowudospołnjenja, hesła a nastajenja z { -brand-name-chrome } importuje.
+switch-switching-to-firefox-page-description-updated = Móžeće spěšnje k { -brand-name-firefox } přeńć, je lochko a bjez rizika. { -brand-name-firefox } waše zapołožki, hesła a nastajenja z { -brand-name-chrome } importuje.
 switch-switching-to-firefox-page-description = Móžeće spěšnje k { -brand-name-firefox } přeńć, je lochko a bjez rizika. { -brand-name-firefox } waše zapołožki, awtowudospołnjenja, hesła a nastajenja z { -brand-name-chrome } importuje.
 switch-select-what-to-take = Wubjerće, štož chceće z { -brand-name-chrome } přewzać.
 switch-let-firefox-do-the-rest = Dajće { -brand-name-firefox } zbytk činić.
