@@ -17,3 +17,7 @@ compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox-browser } og
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Personvernerklæringa</a> for { -brand-name-firefox } beskriv veldig ope kva for personopplysninger vi samlar inn. Det einaste sluttmålet er å gi deg meir kontroll over informasjonen du deler på nettet.
+# Variables:
+#   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
+compare-opera-we-also-offer-an-additional = Vi tilbyr også ein ekstra, om enn eksperimentell versjon av { -brand-name-firefox }-mobilappen vår, <a { $attrs }>{ -brand-name-firefox } Preview</a>, som fokuserer på fart og sikkerheit.
+compare-opera-most-major-browsers-these = Dei fleste store nettlesarar i desse dagar, med unntak av { -brand-name-safari }, fungerer saumlaust på tvers av plattformer og nettlesarar. { -brand-name-opera } og { -brand-name-firefox } er ikkje noko unntak med begge nettlesarane som gir framifrå portabilitet på alle einingar.
