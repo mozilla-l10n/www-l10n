@@ -10,7 +10,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vagy { -bran
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = A { -brand-name-safari } az előretelepített böngésző { -brand-name-mac }en és { -brand-name-iphone }-on. Hasonlítsa össze a { -brand-name-safari }t a { -brand-name-firefox-browser }vel, hogy megtudja melyik a jobb böngésző az Ön számára.
 # Main title.
-compare-safari-comparing-firefox-browser = A Firefox böngésző és az Apple Safari összehasonlítása
+compare-safari-comparing-firefox-browser = A { -brand-name-firefox-browser } és az { -brand-name-apple } { -brand-name-safari } összehasonlítása
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Ha Ön Mac-et vagy { -brand-name-iphone }-t használ, akkor valószínűleg ismeri a { -brand-name-safari } böngészőt. A tény, hogy a { -brand-name-safari } az előre telepített alapértelmezett böngésző az { -brand-name-apple } termékek felhasználói számára, határozottan előny, ám a { -brand-name-firefox }nak megvannak a maga hasznos szolgáltatásai, amelyek vonzó alternatívává teszik. Itt megvizsgáljuk a mi böngészőnk és a { -brand-name-safari } közötti főbb különbségeket az adatvédelem, a hasznos funkciók és az eszközök közötti hordozhatóság szempontjából.
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
