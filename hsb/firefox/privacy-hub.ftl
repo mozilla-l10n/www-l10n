@@ -77,4 +77,4 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Wzmiće swoju priwatnosć 
 firefox-privacy-hub-already-have-an-account = Maće hižo konto? <a { $sign_in } class="{ $class_name }">Přizjewće so</a> abo <a href="{ $learn_more }">zhońće wjace</a> wo wužiwanju { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-read-the-privacy-notice-for = Čitajće <a href="{ $url }">rozłoženje wó škiće datow</a> za naše produkty
+firefox-privacy-hub-read-the-privacy-notice-for = Čitajće <a href="{ $url }">rozłoženje wo škiće datow</a> za naše produkty
