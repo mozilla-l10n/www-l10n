@@ -31,3 +31,13 @@ compare-brave-there-are-a-few-of-braves = A { -brand-name-brave }-ben van néhá
 # "Basic Attention Token" is a brand name.
 compare-brave-the-bottom-line-is-that-even = A lényeg az, hogy noha a { -brand-name-brave } bevételi modellje a Basic Attention Tokennel sok felhasználónak túl bonyolult lehet, összességében a { -brand-name-brave } és a { -brand-name-firefox } böngészők számos lehetőséget kínálnak a biztonságos és privát böngészés élvezetéhez.
 compare-brave-brave-also-supports-the-huge = A { -brand-name-brave } is támogatja a { -brand-name-google } { -brand-name-chrome } webáruházban elérhető hatalmas kiegészítő-könyvtárat, és különféle böngészőn belüli funkciókat kínál, mint például a fent említett { -brand-name-brave } Rewards program, és támogatja a böngészőn belüli torrentletöltést.
+compare-brave-the-ability-to-sync-your-passwords = A jelszavak, kiegészítők és más beállítások eszközök és operációs rendszerek közti szinkronizálásának lehetősége már évek óta elérhető a { -brand-name-firefox }ban. A szinkronizált adatok titkosítottak is, így Önön kívül senki más nem férhet hozzájuk.
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives = A { -brand-name-firefox } böngésző arra is lehetőséget biztosít, hogy a felhasználók ingyenes <a { $accounts }>{ -brand-name-firefox-account }ot</a> regisztráljanak. A { -brand-name-firefox }-fiók az eszközök közti szinkronizáció kulcsa, továbbá olyan termékekhez is használható, mint a <a { $monitor }>{ -brand-name-firefox-monitor }</a>, amely figyeli az e-mail címeit, és értesíti ha az információi kiszivárogtak egy ismert <a { $breaches }>adatsértésben</a>.
+# "Basic Attention Token" is a brand name.
+compare-brave-brave-also-recently-gained = Mostanában a { -brand-name-brave } is képes lett az operációs rendszerek és eszközök közti szinkronizációra, azzal kiegészítve, hogy a Basic Attention Tokenek is szinkronizálásra kerülnek.
+compare-brave-when-comparing-the-two-browsers = A két böngészőt összehasonlítva, mind a { -brand-name-firefox }, mind a { -brand-name-brave } komoly adatvédelmet és biztonságot nyújtanak alapértelmezés szerint, automatikusan az első megnyitásuktól kezdve.
+compare-brave-overall-brave-is-a-fast-and = Összességében elmondható, hogy a { -brand-name-brave } gyors és biztonságos böngésző, amely különösen vonzó lesz a kriptovaluta felhasználók számára. Az internetes polgárok túlnyomó többsége számára azonban a { -brand-name-firefox } jobb és egyszerűbb megoldás marad.

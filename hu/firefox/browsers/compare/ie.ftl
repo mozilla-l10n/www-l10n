@@ -8,4 +8,4 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vagy { -brand-name-ie }: Melyik a jobb böngésző az Ön számára?
 # Main title
-compare-ie-comparing-firefox-browser-with = A Firefox böngésző és a { -brand-name-microsoft } { -brand-name-ie } összehasonlítása
+compare-ie-comparing-firefox-browser-with = A { -brand-name-firefox-browser } és a { -brand-name-microsoft } { -brand-name-ie } összehasonlítása
