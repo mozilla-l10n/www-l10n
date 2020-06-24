@@ -8,9 +8,9 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } mot { -brand-name-ie }: Vilken är den bättre webbläsaren för dig?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Jämför { -brand-name-ie } med Firefox webbläsare för att ta reda på vilken som är den bästa webbläsaren för dig.
+compare-ie-compare-internet-explorer-to = Jämför { -brand-name-ie } med { -brand-name-firefox-browser } för att ta reda på vilken som är den bästa webbläsaren för dig.
 # Main title
-compare-ie-comparing-firefox-browser-with = Jämför Firefox webbläsare med { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Jämför { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Medan { -brand-name-microsoft }s { -brand-name-ie } fortfarande är förinstallerat på de flesta { -brand-name-windows }-baserade datorer, klart är att { -brand-name-microsoft } föredrar att du använder deras { -brand-name-edge }-webbläsare, som är inställd som standard när du köper.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } slutade med sitt { -brand-name-ie }-varumärke för flera år sedan, till förmån för den uppdaterade { -brand-name-edge }-webbläsaren för { -brand-name-windows } 10. Tyvärr växte { -brand-name-edge }s popularitet långsamt, vilket gav utrymme för { -brand-name-ie } att leva vidare, främst på grund av kompatibilitet med affärsapplikationer.
 compare-ie-here-well-compare-our-firefox = Här jämför vi vår { -brand-name-firefox } webbläsare med { -brand-name-ie } när det gäller säkerhet, verktyg och portabilitet. Vi hjälper dig att förstå skillnaderna mellan hur en modern webbläsare som { -brand-name-firefox } som följer webbstandarder jämfört med en webbläsare du kanske använder för affärsändamål eller av gamla vanor.

@@ -8,9 +8,9 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } mot { -brand-name-safari }: Vilken är den bättre webbläsaren för dig?
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } är den förinstallerade webbläsaren på { -brand-name-mac } och { -brand-name-iphone }. Jämför { -brand-name-safari } med Firefox för att ta reda på vilken som är den bästa webbläsaren för dig.
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } är den förinstallerade webbläsaren på { -brand-name-mac } och { -brand-name-iphone }. Jämför { -brand-name-safari } med { -brand-name-firefox-browser } för att ta reda på vilken som är den bästa webbläsaren för dig.
 # Main title.
-compare-safari-comparing-firefox-browser = Jämför Firefox webbläsare med Apple Safari
+compare-safari-comparing-firefox-browser = Jämför { -brand-name-firefox-browser } med { -brand-name-apple } { -brand-name-safari }
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Om du använder en Mac eller har en { -brand-name-iphone } känner du antagligen till webbläsaren { -brand-name-safari }. Det faktum att den är förinstallerad som standardwebbläsare för användare av { -brand-name-apple }-produkter ger den definitivt en fördel, men { -brand-name-firefox } har sin egen uppsättning användbara funktioner som gör den till ett attraktivt alternativ. Här undersöker vi de viktigaste skillnaderna mellan vår webbläsare och { -brand-name-safari } när det gäller sekretess, verktyg och flyttbarhet mellan enheter.
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".

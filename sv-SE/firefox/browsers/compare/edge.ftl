@@ -8,11 +8,11 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } mot { -brand-name-microsoft } { -brand-name-edge }: Vilken är den bättre webbläsaren för dig?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Jämför { -brand-name-microsoft } { -brand-name-edge } med Firefox webbläsare för att ta reda på vilken som är den bästa webbläsaren för dig.
+compare-edge-compare-microsoft-edge-to-the = Jämför { -brand-name-microsoft } { -brand-name-edge } med { -brand-name-firefox-browser } för att ta reda på vilken som är den bästa webbläsaren för dig.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Jämför Firefox webbläsare med { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Jämför { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced = Med { -brand-name-windows } 10 introducerade { -brand-name-microsoft } sin { -brand-name-edge }-webbläsare för att tävla med { -brand-name-firefox } och { -brand-name-chrome }, vilket gör den till förinstallerad webbläsare på miljontals sålda datorer. Trots det var användarna långsamma att anta den och { -brand-name-microsoft } meddelade så småningom planer på att gör en omstart av { -brand-name-edge } som en { -brand-name-chromium }-baserad webbläsare ({ -brand-name-chromium } är naturligtvis { -brand-name-google }s öppna källkodsprojekt).
-compare-edge-here-well-compare-our-firefox = Här jämför vi vår Firefox webbläsare med den chromium-baserade { -brand-name-microsoft } { -brand-name-edge } när det gäller sekretess, verktyg och portabilitet, för att hjälpa dig att få en bättre förståelse för vilken webbläsare som bäst passar dina behov och önskemål.
+compare-edge-here-well-compare-our-firefox = Här jämför vi vår { -brand-name-firefox-browser } med den chromium-baserade { -brand-name-microsoft } { -brand-name-edge } när det gäller sekretess, verktyg och portabilitet, för att hjälpa dig att få en bättre förståelse för vilken webbläsare som bäst passar dina behov och önskemål.
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } är integrerad i { -brand-name-windows } 10-plattformen och körs i en sandlådemiljö, vilket innebär att den isolerar program och förhindrar skadliga program från att spionera på din dator. Den har en inbyggd SmartScreen som skannar webbplatser du besöker och blockerar misstänkta webbplatser. För att förbättra sekretess kan { -brand-name-edge } använda biometri eller en PIN-kod med { -brand-name-windows } Hello istället för lösenord för online-autentisering.
 # Variables:

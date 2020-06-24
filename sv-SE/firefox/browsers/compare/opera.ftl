@@ -8,9 +8,9 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } mot { -brand-name-opera }: Vilken är den bättre webbläsaren för dig?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Jämför { -brand-name-opera } med Firefox webbläsare för att ta reda på vilken som är den bästa webbläsaren för dig.
+compare-opera-compare-opera-to-the-firefox = Jämför { -brand-name-opera } med { -brand-name-firefox-browser } för att ta reda på vilken som är den bästa webbläsaren för dig.
 # Main title
-compare-opera-comparing-firefox-browser = Jämför Firefox webbläsare med { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Jämför { -brand-name-firefox-browser } med { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks-fallback = { -brand-name-opera }s sekretesspolicy saknar viss specificitet i sin förklaring av vilka typer av information den samlar in och hur de i vissa avsnitt säger att de samlar in namn på kontoinnehavare, IP-adresser och söktermer. Det som verkar förvirrande och oroande är avsnittet om internationella dataöverföringar; när, hur ofta och varför de behöver överföra dina data internationellt förklaras inte.
 compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox } webbläsare och { -brand-name-opera } är två av de tidigaste webbläsarna på scenen som fortfarande släpper frekventa uppdateringar. Även om { -brand-name-opera } inte har nått samma nivå av användaranvändning som { -brand-name-firefox } eller { -brand-name-google } { -brand-name-chrome }, har den upprätthållit en relativt stabil och lojal bas under en lång tid. I den här recensionen kommer vi att jämföra { -brand-name-opera }-webbläsaren med vår { -brand-name-firefox }-webbläsare när det gäller säkerhet och integritet, verktyg och portabilitet för att hjälpa dig välja vilken webbläsare som passar dig bäst.
 # Variables:
