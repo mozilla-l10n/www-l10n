@@ -55,6 +55,10 @@ firefox-privacy-hub-meet-four-of-the-most-common = To su styri nejcesćejše kat
 firefox-privacy-hub-always-in-your-control = Maśo pśecej kontrolu
 firefox-privacy-hub-want-to-customize-what = Cośo rozsuźiś, což ma se blokěrowaś? Waše nastajenja su jano jadno kliknjenje zdalone.
 firefox-privacy-hub-protection-beyond-tracking = Wěcej ako slědowański šćit
+firefox-privacy-hub-if-you-have-a-firefox-account = Jolic maśo { -brand-name-firefox-account }, móžośo teke wiźeś, kak wam pomagamy, waše wósobinske informacije a gronidła šćitaś.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Blokěrujo se pśez { $trackers } pśeslědowakow kuždy źeń za wužywarje { -brand-name-firefox } na cełem swěśe
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Za źěrami pytaś
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
