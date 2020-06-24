@@ -8,7 +8,7 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Takk for at du valde { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = Vellykka! { -brand-name-firefox } er vald som standard nettlesar.
-set-as-default-thanks-looks-like-youre-using-a = Det ser ut som om du brukar ei annan nettleser akkurat no. Forsikre deg om at du har lasta ned { -brand-name-firefox } på eininga di.
+set-as-default-thanks-looks-like-youre-using-a = Det ser ut som om du brukar ei annan nettlesar akkurat no. Forsikre deg om at du har lasta ned { -brand-name-firefox } på eininga di.
 # When a visitor sees this message a system dialog will also open on screen.
 set-as-default-thanks-youre-almost-done-just-change = Du er nesten ferdig. No skal du berre endre standard nettlesar til { -brand-name-firefox }, i innstillingspanelet på skjermen.
 set-as-default-thanks-having-trouble-setting-your = Har du probleme med å velje standard nettlesar?
