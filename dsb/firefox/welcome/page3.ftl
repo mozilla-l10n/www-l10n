@@ -8,7 +8,8 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Wobstarajśo se konto, kótarež wašu priwatnosć šćita. Pśiźćo k { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Žedno konto trěbne. Ale cośo snaź take.
-welcome-page3-the-firefox-browser-collects = Wobglědowak { -brand-name-firefox } tak mało datow wó was gromaźi, njetrjebamy daniž wašu e-mailowu adresu. Ale, gaž ju wužywaśo, aby konto { -brand-name-firefox } załožył, móžomy wašu priwatnosć pśez wašo cełe žywjenje online šćitaś.
+welcome-page3-the-firefox-browser-collects = Wobglědowak { -brand-name-firefox } tak mało datow wó was gromaźi, njetrjebamy daniž wašu e-mailowu adresu. Ale, gaž ju wužywaśo, aby konto { -brand-name-firefox-account } załožył, móžomy wašu priwatnosć pśez wašo cełe žywjenje online šćitaś.
+welcome-page3-sign-in = Pśizjawiś
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Dajśo nanejmjenje pśedewześe za datami pytaś, město aby je roznosył.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } - składujśo nowosći, wideo, tšojeńka a wěcej
 welcome-page2-your-time-online-is-worth = Waš cas online jo šćitanja gódny
+welcome-page2-discover-and-save-stories = Namakajśo a składujśo tšojeńka w { -brand-name-pocket } – a woglědajśo se je, gaž maśo chylu.
 welcome-page2-activate-pocket = { -brand-name-pocket } aktiwěrowaś
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-save-content-from-everywhere = Składujśo wopśimjeśe wót wšuźi
