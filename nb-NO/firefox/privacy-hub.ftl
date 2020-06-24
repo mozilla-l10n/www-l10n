@@ -24,7 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Vi gjør et poeng ut av å vite
 firefox-privacy-hub-all-tech-companies-collect = Alle teknologiselskaper samler inn data for å forbedre produktene sine. Men det trenger ikke å inkludere så mye av den personlige informasjon din. De eneste dataene vi ønsker er de dataene som tjener deg til slutt. Vi spør oss selv: trenger vi egentlig dette? Hva trenger vi det til? Og når kan vi slette den?
 firefox-privacy-hub-keep-it-safe = Hold det trygt
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Vi gjør det vanskelige arbeidet med å beskytte din personlige informasjon
-firefox-privacy-hub-data-security-is-complicated = Datasikkerhet er komplisert — eller i det minste skal det være. Derfor tar vi de ekstra trinnene for å klassifisere dataene vi har, opprettholder regler for hvordan vi lagrer og beskytter hver type data, og aldri slutter å iterere på prosessene våre. Vi prioriterer personvernet ditt. Vi investerer i det. Vi er opptatt av det. Vi lærer selv andre selskaper hvordan de skal gjør det.
+firefox-privacy-hub-data-security-is-complicated = Datasikkerhet er komplisert — eller i det minste skal det være det. Derfor tar vi de ekstra trinnene for å klassifisere dataene vi har, opprettholder regler for hvordan vi lagrer og beskytter hver type data, og slutter aldri å gjenta prosessene våre. Vi prioriterer personvernet ditt. Vi investerer i det. Vi er opptatt av det. Vi lærer selv andre selskaper hvordan de skal gjøre det.
 firefox-privacy-hub-no-secrets = Ingen hemmeligheter
 firefox-privacy-hub-youll-always-know-where-you = Du vil alltid vite hvor du står hos oss
 # Variables:
