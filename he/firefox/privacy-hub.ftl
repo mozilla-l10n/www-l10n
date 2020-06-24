@@ -21,7 +21,17 @@ firefox-privacy-hub-firefox-protects-your-privacy = ‏{ -brand-name-firefox } �
 firefox-privacy-hub-firefox-protects-your-privacy-strong = ‏{ -brand-name-firefox } <strong>מגן</strong> על הפרטיות שלך בכל מוצר
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = למעלה מ־2,000 רכיבי מעקב חסומים — באופן אוטומטי
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = מעקב הפך למגיפה מקוונת: חברות עוקבות אחר כל מהלך, לחיצה ורכישה, אוספות נתונים כדי לחזות ולהשפיע על הצעד הבא שלך. אנו חושבים שזוהי פלישה גסה לפרטיות שלך. מסיבה זו הגנת המעקב המתקדמת מופעלת באופן אוטומטי בדפדפן { -brand-name-firefox } לנייד ולמחשבים שולחניים.
+firefox-privacy-hub-if-you-want-to-see-what = אם ברצונך לראות מה { -brand-name-firefox } חוסם עבורך, ניתן לבקר בדף זה בדפדפן ה־{ -brand-name-firefox } שלך למחשבים שולחניים.
+firefox-privacy-hub-see-what-firefox-has-blocked = הצגת הפריטים ש־{ -brand-name-firefox } חסם עבורך
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = קבלת הגנת מעקב מתקדמת
 firefox-privacy-hub-download-the-firefox-browser = הורדת הדפדפן { -brand-name-firefox }
+firefox-privacy-hub-always-in-your-control = תמיד בשליטה שלך
+firefox-privacy-hub-want-to-customize-what = רוצה להתאים אישית את מה שנחסם? ההגדרות שלך נמצאות במרחק לחיצה.
+firefox-privacy-hub-protection-beyond-tracking = הגנה מעבר למעקב
+firefox-privacy-hub-if-you-have-a-firefox-account = אם יש לך { -brand-name-firefox-account(case: "a") }, ניתן גם לראות כיצד אנו עוזרים לך להגן על המידע האישי והססמאות שלך.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = יותר מ־{ $trackers } רכיבי מעקב נחסמים בכל יום עבור משתמשי { -brand-name-firefox } ברחבי העולם.
