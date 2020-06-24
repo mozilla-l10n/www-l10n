@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Перейдіть з { -brand-name-chrome } на { -brand-name-firefox } за лічені хвилини
+switch-switching-to-firefox-is-fast-updated = Перехід на { -brand-name-firefox } швидкий, легкий і безпечний, адже { -brand-name-firefox } імпортує з { -brand-name-chrome } ваші закладки, паролі та налаштування.
 switch-switching-to-firefox-is-fast = Перехід на { -brand-name-firefox } швидкий, легкий і безпечний, тому що { -brand-name-firefox } імпортує з { -brand-name-chrome } ваші закладки, дані автозаповнення, паролі та налаштування.
+switch-switching-to-firefox-page-description-updated = Перехід на { -brand-name-firefox } швидкий, легкий і безпечний. { -brand-name-firefox } імпортує з { -brand-name-chrome } ваші закладки, паролі та налаштування.
 switch-switching-to-firefox-page-description = Перехід на { -brand-name-firefox } швидкий, легкий і безпечний. { -brand-name-firefox } імпортує з { -brand-name-chrome } ваші закладки, дані автозаповнення, паролі та налаштування.
 switch-select-what-to-take = Оберіть, що взяти з { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Дозвольте { -brand-name-firefox } зробити решту.

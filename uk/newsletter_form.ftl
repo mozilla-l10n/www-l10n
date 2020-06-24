@@ -17,6 +17,7 @@ newsletter-form-get-firefox-news = Отримувати новини { -brand-na
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Я погоджуюсь з тим, як { -brand-name-mozilla } поводиться з моїми даними згідно з <a href="{ $url }">цим повідомленням про приватність</a>
 newsletter-form-we-will-only-send = Ми будемо надсилати вам лише інформацію, яка стосується { -brand-name-mozilla }.
+newsletter-form-we-will-only-send-firefox = Ми надсилатимемо вам лише інформацію, яка стосується { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Якщо ви раніше не підтвердили підписку на новини від { -brand-name-mozilla }, то вам, можливо, доведеться це зробити. Будь ласка, пошукайте наше повідомлення серед вхідних або небажаних листів.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ви
 newsletter-form-get-firefox-tips = Отримуйте поради, підказки та новини про { -brand-name-firefox }
