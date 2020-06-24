@@ -26,6 +26,7 @@ firefox-privacy-hub-keep-it-safe = 確保資料安全
 firefox-privacy-hub-we-do-the-hard-work-to-protect = 我們非常努力地保護您的個人資訊
 firefox-privacy-hub-data-security-is-complicated = 資料安全相當複雜。也因為如此，我們採取各種方式，對收集到的資料進行分類、針對不同資料維護不同的儲存、保護規則。這個過程會持續改進，永不停止。我們將您的隱私權視為最重要的事情，並且投資與承諾於保護隱私，甚至還教其他公司如何做這些事。
 firefox-privacy-hub-no-secrets = 絕不偷偷來
+firefox-privacy-hub-youll-always-know-where-you = 讓您隨時掌握全局
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
@@ -35,8 +36,10 @@ firefox-privacy-hub-why-trust-firefox = 憑什麼相信 { -brand-name-firefox }�
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = 因為我們把人們放在第一位。實際上，我們是由<a href="{ $foundation }">非營利組織</a>在背後全力相挺。自成立第一天起，我們的企業使命就是要保護網際網路環境與上面的每個人。
 firefox-privacy-hub-learn-more-about-our-mission = 更加了解我們的使命
+firefox-privacy-hub-your-privacy-by-the-product = 各種保護您隱私權的產品
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } 有各種功能的產品 — 最重要的是他們都設計來保護您的隱私。
 firefox-privacy-hub-learn-about-our-products = 了解我們的產品
+firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } 各種保護隱私權的產品
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } 在每套產品中都保護您的隱私權。
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } 在每套產品中都<strong>保護</strong>您的隱私權。
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
