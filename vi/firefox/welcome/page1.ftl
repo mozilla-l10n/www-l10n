@@ -19,6 +19,7 @@ welcome-page1-stay-ahead-of-hackers = Đi trước tin tặc
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
 welcome-page1-find-ways-to-protect-your = Tìm cách bảo vệ thông tin của bạn với <a href="{ $security_tips }">mẹo bảo mật { -brand-name-monitor }</a>.
+welcome-page1-stay-in-the-know = Nhận thông tin trực tiếp
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
 #   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
