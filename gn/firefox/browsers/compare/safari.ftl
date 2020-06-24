@@ -10,7 +10,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } térã { -br
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } ha’e kundahára hendaypýva { -brand-name-mac } ha { -brand-name-iphone }-pe. Ore romoñondive Mozilla Firefox { -brand-name-safari } ndive eikuaa hag̃ua mávapa pe kundahára iporãvéva.
 # Main title.
-compare-safari-comparing-firefox-browser = Romoñondivehína Firefox ha Safari Apple-gua kundahára
+compare-safari-comparing-firefox-browser = Romoñondive { -brand-name-firefox-browser } { -brand-name-apple } { -brand-name-safari } ndive
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Eipurúrõ Mac térã ereko { -brand-name-iphone }, eikuaa porã mba’éichapa ojepuru kundahára { -brand-name-safari }. Pe mba’e oumavoi henyhẽmbyre kundahára ijypykuévarõ opaite puruhára { -brand-name-apple } apopyre katuete ome’ẽ mba’eporã, hákatu { -brand-name-firefox } oreko imba’eteéva tembiapoite aty ojapóva chugui jepurukuaa. Ko’ápe jaikuaáta mba’épepa ojuavy ore kundahára ha { -brand-name-safari } ñemigua, jepuru ha ijeku’ekuaa mba’e’oka pa’ũme.
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
