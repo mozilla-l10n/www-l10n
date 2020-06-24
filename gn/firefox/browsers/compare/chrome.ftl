@@ -10,7 +10,7 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs { -brand-
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = Ore romoñondive Mozilla Firefox Google Chrome ndive ñemigua, jepurukue ha iñemongu’épe
 # Main title.
-compare-chrome-comparing-firefox-browser = Romoñondivehína Firefox ha Google Chrome kundahára
+compare-chrome-comparing-firefox-browser = Romoñondive { -brand-name-firefox-browser } { -brand-name-google } { -brand-name-chrome } ndive
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox }-pe, roguereko heta puruhára omba’apóva ohayhu añetéva ore rembiapo ñemiguarã ñandutípe. Techapyrãramo, { -brand-name-firefox } rembiapokue ipyahuvéva oguereko tembiapoite hérava ñemo’ã tapykueho iporãvéva (ETP, inglés ñe’ẽme) hendýva ijypykue rupi opaite puruhárape arapy tuichakue jave. ETP ojoko hetave 2.000 tapykuehoha, oikehápe tapykuehoha tekohagua { -brand-name-facebook }, { -brand-name-twitter } ha LinkedIn ichagua. Avei oguereko peteĩchagua jehe’apyre hérava <a { $attrs }{ -brand-name-firefox-monitor }</a> nemomarandúva ijehegui ne ñe’ẽñemi ojekuaáramo térã oikotevẽramo ñembohekopyahu. Avei ko’ã ñemo’ã, mba’éichapa eikundaha ñemi { -brand-name-firefox } ndive ha ombogue ijeheguiete marandu neikundaha rapykuere, tembiasakue ha kookie, oheja’ỹre tapykuere opa rire tembiapo.

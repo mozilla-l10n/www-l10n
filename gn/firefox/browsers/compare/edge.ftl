@@ -8,9 +8,9 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } térã { -brand-name-microsoft } { -brand-name-edge }: ¿mávapa pe oikoporãvéva?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Ore romoñondive Mozilla Firefox { -brand-name-microsoft } { -brand-name-edge } ndive roikuaa hag̃ua máva pe kundahára oikoporãvéva.
+compare-edge-compare-microsoft-edge-to-the = Romoñondive { -brand-name-microsoft } { -brand-name-edge } rehe { -brand-name-firefox-browser } roikuaa hag̃ua máva pe kundahára oikoporãvéva.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Romoñondivehína Firefox ha { -brand-name-microsoft } { -brand-name-edge } kundahára
+compare-edge-comparing-firefox-browser-with = Romoñondive { -brand-name-firefox-browser } { -brand-name-microsoft } { -brand-name-edge } ndive
 compare-edge-with-windows-10-microsoft-introduced = { -brand-name-windows } 10 ndive, { -brand-name-microsoft } ohechauka ikundahára { -brand-name-edge } oñorairõtava { -brand-name-firefox } ha { -brand-name-chrome } ndive, ojapóvo chugui kundahára ijypykuéva oñemohendáva hetai mohendahápe. Péicharõ jepe, umi puruhára hasýpe oipuru ha { -brand-name-microsoft } ipahápe he’i mba’éichapa onohẽjeýta { -brand-name-edge } { -brand-name-chromium } kundaháraramo ({ -brand-name-chromium }, ha’e, apopyrã kundahára ijayvu jurujáva { -brand-name-google } mba'éva).
 compare-edge-here-well-compare-our-firefox = Ápe rombojovakéta ore kundahára Firefox { -brand-name-microsoft } { -brand-name-edge } ndive { -brand-name-chromium } he’iháicha ñemigua rupive, iporãngue ha ijeku’ekuaa, ne pytyvõkuaáva ehesa’ỹijo porãve hag̃ua mba’e kundahára ouporãve ndéve ha eguerohoryvéva.
 # "SmartScreen" and "Windows Hello" are brand names.

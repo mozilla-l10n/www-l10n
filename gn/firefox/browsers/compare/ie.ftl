@@ -10,7 +10,7 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } térã { -bran
 # HTML page description
 compare-ie-compare-internet-explorer-to = Ore romoñondive Mozilla Firefox ha Opera roikuaa hag̃ua máva pe kundahára oikoporãvéva.
 # Main title
-compare-ie-comparing-firefox-browser-with = Romoñondivehína Firefox ha { -brand-name-ie } kundahára
+compare-ie-comparing-firefox-browser-with = Romoñondive { -brand-name-firefox-browser } { -brand-name-microsoft } { -brand-name-ie } ndive
 compare-ie-while-microsofts-internet-explorer = Jahecháma { -brand-name-ie } { -brand-name-microsoft } mba’éva oumaha henyhẽmbyre opavave nunga mohendahápe { -brand-name-windows } ndive, péicha { -brand-name-microsoft } oipota eipuru ikundahára { -brand-name-edge }, oñembohekóva ijypykuévaramo.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } ojoko { -brand-name-ie } jepuru aréma, kóva ome’ẽ ikundahára { -brand-name-edge }-pe hekopyahúva { -brand-name-windows } 10-pe. Upéicharõ jepe, ojepuru’ívo { -brand-name-edge } ome’ẽ pa’ũ { -brand-name-ie } ojepurumemejey hag̃ua, kóva hetave oiko ojokupytyve rupi ñemurãnguéra ndive.
 compare-ie-here-well-compare-our-firefox = Ko’ápe ñamoñondivéta { -brand-name-firefox } ha { -brand-name-ie } ndive tekorosã, ijepuru ha avei ijeku’ekuaápe. Roipytyvõta eikumbykuaa hag̃ua mba’eichitépa iñambue peteĩ kundahára ipyahúva { -brand-name-firefox } ichagua, oipurúva he’iháicha ñanduti, kundahára ikatúva oipuru tembiapohápe téra jepokuaaguirei.
