@@ -8,6 +8,6 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie }: Který je pro vás lepší?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Porovnejte { -brand-name-ie } s Firefoxem a zjistěte, který z těchto prohlížečů vám bude více vyhovovat.
+compare-ie-compare-internet-explorer-to = Porovnejte { -brand-name-ie(case: "acc") } s { -brand-name-firefox-browser(case: "ins", capitalization: "lower") } a zjistěte, který z těchto prohlížečů vám bude více vyhovovat.
 # Main title
-compare-ie-comparing-firefox-browser-with = Porovnání prohlížeče Firefox s { -brand-name-microsoft } { -brand-name-ie }em
+compare-ie-comparing-firefox-browser-with = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-ie(case: "ins") } od { -brand-name-microsoft(case: "gen") }
