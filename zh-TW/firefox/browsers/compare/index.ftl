@@ -13,7 +13,8 @@ compare-index-privacy-utility-portability = 隱私、實用、可攜帶。
 # HTML page description
 compare-index-a-great-internet-browser-should = 一套出色的瀏覽器，應該具備您需要的功能、在各種裝置都能使用，並且保護隱私。
 compare-index-which-browser-is-best-at-keeping = 哪套瀏覽器最能保護您的機密資訊？
-compare-index-its-not-unreasonable-to-expect = 用高標準要求日常上網工具的資料與隱私權保護機制相當正常。以最低標準來說，一套瀏覽器應該要提供能夠自動清除上網與搜尋紀錄的「隱私瀏覽模式」，這樣同一台電腦上的其他使用者才不會看到您的紀錄。以這一項來說，六套瀏覽器都同燈同分。
+compare-index-its-not-unreasonable-to-expect = 用高標準要求日常上網工具的資料與隱私權保護機制相當正常。以最低標準來說，一套瀏覽器應該要提供能夠自動清除上網與搜尋紀錄的「隱私瀏覽模式」，這樣同一台電腦上的其他使用者才不會看到您的紀錄。以這一項來說，七套瀏覽器都同燈同分。
+compare-index-its-not-unreasonable-to-expect-fallback = 用高標準要求日常上網工具的資料與隱私權保護機制相當正常。以最低標準來說，一套瀏覽器應該要提供能夠自動清除上網與搜尋紀錄的「隱私瀏覽模式」，這樣同一台電腦上的其他使用者才不會看到您的紀錄。以這一項來說，六套瀏覽器都同燈同分。
 compare-index-what-you-do-online-literally = 無論您在線上做了什麼都不是別人的事，<br>別人也不該拿您的上網行為來做生意。
 compare-index-another-browser-feature-fallback = 另一個瀏覽器該有的功能是: 在一般上網模式中，就該防止網站或其他公司追蹤您的上網或購物資料。但並不是每套瀏覽器都有這個功能，僅有 { -brand-name-firefox } 與 { -brand-name-safari } 預設就封鎖來自第三方的追蹤 cookie。
 compare-index-using-a-browser-that-blocks = 瀏覽器自動封鎖來自第三方的追蹤器不只是為了保護隱私，還能讓瀏覽器運作得更快。大部分追蹤器都是在網站背景中默默運作的指令碼，您看不到它們但可以感覺到它們正在拖慢瀏覽器的運作。自 { -brand-name-firefox } 67 版起，也會自動封鎖「數位指紋追蹤程式」與「加密貨幣採礦程式」。若您沒聽過過加密貨幣採礦程式是什麼，以下是它們影響您上網體驗的例子: 也許您曾經遇到過電腦風扇突然大轉、溫度變高，或是電池更快沒電，就有可能是網站在您的電腦背景中偷偷挖礦的副作用。
