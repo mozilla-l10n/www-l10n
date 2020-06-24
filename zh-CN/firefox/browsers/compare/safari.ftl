@@ -35,6 +35,10 @@ compare-safari-like-safari-firefox-encourages = 与 { -brand-name-safari } 一�
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for = 另外，当您创建 { -brand-name-firefox } 账户后，就可以访问其内部集成的一些特色服务，例如 <a { $pocket }>{ -brand-name-pocket }</a> 和 <a { $send }>{ -brand-name-send }</a>，它们都直接集成在浏览器中。轻轻一点 { -brand-name-firefox } 的 { -brand-name-pocket } 按钮，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。使用{ -brand-name-send }，您可以端到端使用多种加密分享大文件，更提供文件链接过期时间、下载次数以及提取码等多重安全控制手段，更多一层保护。
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
 compare-safari-also-when-you-sign-up-for-fallback = 另外，当您创建 { -brand-name-firefox } 账户后，就可以访问其内部集成的一些特色服务，例如 Screenshot、<a { $pocket }>{ -brand-name-pocket }</a> 和 <a { $send }>{ -brand-name-send }</a>，它们都直接集成在浏览器中。Screenshot 是 { -brand-name-firefox } 浏览器内置的一项功能，它允许您复制或下载网页截图。保存屏幕截图时，您还可以选择其保存路径，而不会将桌面打乱。{ -brand-name-firefox } 地址栏中的 { -brand-name-pocket } 按钮，轻轻一点，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。使用 { -brand-name-send }，您可以端到端加密地分享大文件，更提供文件链接过期时间、下载次数以及提取码等多重安全控制手段，更多一层保护。
 # "iCloud" is a brand name.
