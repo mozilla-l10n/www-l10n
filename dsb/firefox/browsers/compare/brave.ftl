@@ -11,3 +11,5 @@ compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } w pśirownanju
 compare-brave-compare-brave-to-the-firefox = Pśirownajśo { -brand-name-brave } z { -brand-name-firefox-browser }, aby wuslěźił, kótary jo lěpšy wobglědowak za was nastupajucy priwatnosć, wužytnosć a portabelnosć.
 # Main title
 compare-brave-comparing-firefox-browser = Pśirownanje { -brand-name-firefox-browser } z { -brand-name-brave }
+# "Brave Software" is a brand name.
+compare-brave-just-like-the-firefox-browser = Rowno tak ako wobglědowak { -brand-name-firefox } jo wobglědowak { -brand-name-brave } dermotny, wótwórjonego žrědła a na šćit priwatnosći wužywarjow wusměrjony. { -brand-name-brave } jo relatiwny nowack w swěśe wobglědowakow: Jogo zgótowjaŕ, { -brand-name-brave } Software, jo pśedstajił wobglědowak prědny raz w januarje 2016. W toś tom nastawku buźomy swój wobglědowak { -brand-name-firefox } z wobglědowakom { -brand-name-brave } w tśich kategorijach pśirownowaś: priwatnosć, wužytnosć a portabelnosć.
