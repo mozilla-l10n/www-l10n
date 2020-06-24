@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Przejdź z { -brand-name-chrome } na { -brand-name-firefox(case: "acc") } w kilka minut
+switch-switching-to-firefox-is-fast-updated = Przejście na { -brand-name-firefox(case: "acc") } jest szybkie, łatwe i bez ryzyka, ponieważ { -brand-name-firefox } importuje zakładki, hasła i preferencje z { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Przejście na { -brand-name-firefox(case: "acc") } jest szybkie, łatwe i bez ryzyka, ponieważ { -brand-name-firefox } importuje zakładki, dane formularzy, hasła i preferencje z { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Przejście na { -brand-name-firefox(case: "acc") } jest szybkie, łatwe i bez ryzyka. { -brand-name-firefox } importuje zakładki, hasła i preferencje z { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Przejście na { -brand-name-firefox(case: "acc") } jest szybkie, łatwe i bez ryzyka. { -brand-name-firefox } importuje zakładki, dane formularzy, hasła i preferencje z { -brand-name-chrome }.
 switch-select-what-to-take = Wybierz, co zabrać z { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = { -brand-name-firefox } załatwi resztę.
@@ -19,7 +21,7 @@ switch-firefox-makes-switching-fast-email = Przejście z { -brand-name-chrome }
 switch-still-not-convinced = Nadal nie wierzysz, że przejście na { -brand-name-firefox(case: "acc") } jest łatwe?
 switch-enjoy-the-web-faster = Przeglądaj szybciej, nie musząc nic konfigurować.
 switch-download-and-switch = Pobierz i przejdź
-switch-share-to-facebook = Udostępnij na Facebooku
+switch-share-to-facebook = Udostępnij na { -brand-name-facebook(case: "loc") }
 switch-send-a-tweet = Wyślij tweet
 switch-hey = Hej,
 switch-check-it-out = Wypróbuj i daj mi znać, jak poszło:
