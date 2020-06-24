@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+welcome-page1-youve-got-the-web-browser = Maśo wobglědowak, kótaryž wašu priwatnosć šćita – jo něnto cas, se za hackerami rozglědowaś.
 welcome-page1-check-your-breach-report = Rozpšawu wó datowej źěrje woglědaś
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } wam pokazujo, lěc waše informacije su w znatej datowej źěrje a warnujo was, jolic se to w pśichoźe stawa.
