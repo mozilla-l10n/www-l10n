@@ -17,6 +17,7 @@ newsletter-form-get-firefox-news = Wobstarajśo se nowosći { -brand-name-firefo
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Som z tym wobjadny, kak { -brand-name-mozilla } wobchada pó <a href="{ $url }">toś tych pšawidłach priwatnosći</a> z mójimi informacijami
 newsletter-form-we-will-only-send = Pósćelomy wam jano informacije nastupajucy { -brand-name-mozilla }.
+newsletter-form-we-will-only-send-firefox = Pósćelomy wam jano informacije nastupajucy { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Jolic hyšći njejsćo abonement powěsćowego lista { -brand-name-mozilla } wobkšuśił, musyśo to něnto cyniś. Pšosym glědajśo do dochada posta abo papjernika za mejlku wót nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Wy
 newsletter-form-get-firefox-tips = Wobstarajśo se tipy, triki, nowosći a wěcej za { -brand-name-firefox }
