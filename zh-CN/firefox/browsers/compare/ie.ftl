@@ -22,6 +22,7 @@ compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } 早已�
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $privacy (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-ie-so-whats-the-solution-if-your-fallback = 那么，如果您的公司运行只是在 { -brand-name-ie } 上运行过时的应用程序/软件，有什么好的解决方案呢？我们为您个人提供的最佳建议是：不要把工作和娱乐混为一谈。简而言之就是，下载并使用像 { -brand-name-firefox } 这样更安全的浏览器。然后，当您需要检查自己的个人邮件或网上购物时，便可以切换到更安全的浏览器。最重要的是，若 { -brand-name-microsoft } 警告人们不要使用 { -brand-name-ie }，就请不要使用它。即使您（或您的公司）很难摆脱一些历史遗留问题，但您的网络隐私和安全去不值得拿去冒险。我们的 { -brand-name-firefox } 拥有诸多安全和隐私功能，如我们的 <a { $lockwise }>{ -brand-name-lockwise }</a> 密码管理器 、隐私浏览和其他很多让您的网络浏览更安全的附加组件。此外，我们的<a { $privacy }>隐私政策</a>很直白：我们告诉您我们了解您什么，以及我们收集这些信息的原因。所有的这些显然都超出了 { -brand-name-ie } 所提供的功能，甚至也超过了 { -brand-name-google } { -brand-name-chrome } 和 { -brand-name-microsoft } { -brand-name-edge } 等其他现代浏览器所能提供的。
+compare-ie-alarmingly-4-to-5-of-all-desktop = 令人担忧的是，直到 2019 年，仍有 4 - 5% 的桌面网络流量来自 { -brand-name-ie }。看似不多，但事实上，这意味着有数以百万计的人正忍受着，诸如加载渲染缓慢、页面显示异常等糟糕的互联网体验——还有上面已经论述过的安全问题。
 compare-ie-alarmingly-4-to-5-of-all-desktop-fallback = 令人担忧的是，仍有 4 - 5% 的桌面网络流量来自 { -brand-name-ie }。看似不多，但事实上，这意味着有数以百万计的人正忍受着，诸如加载渲染缓慢、页面显示异常等糟糕的互联网体验——还有上面已经论述过的安全问题。
 compare-ie-really-the-only-reasons-to-use = 确实，使用 { -brand-name-ie } 的唯一原因多半是开发者需要在较旧的浏览器上测试其网站是否工作正常，或公司尚有仅兼容于 { -brand-name-ie } 浏览器的关键业务应用程序。
 # Variables:
