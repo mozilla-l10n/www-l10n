@@ -10,7 +10,7 @@ welcome-page1-more-than-a-browser-firefox = Wjace hač wobhladowak - { -brand-na
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Čińće přichodnu kročel, zo byšće swoju priwatnosć ze swójbu produktow { -brand-name-firefox } online škitał.
 welcome-page1-stay-ahead-of-hackers-check = Wostańće wo nós dale. Pytajće za datowym dźěrami z { -brand-name-firefox-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Postupujeće prawje, zo byšće wěsty wostał
+welcome-page1-youre-on-track-to-stay-protected = Sće na prawym puću, zo byšće škitany wostał
 welcome-page1-youve-got-the-web-browser = Maće wobhladowak, kotryž wašu priwatnosć škita – je nětko čas, so za hackerami rozhladować.
 welcome-page1-check-your-breach-report = Rozprawu wo datowej dźěrje přepruwować
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
