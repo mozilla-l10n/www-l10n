@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Đặt { -brand-name-firefox } thành trình duyệt mặc định của bạn
+# HTML page description
+set-as-default-landing-choose-the-browser = Chọn trình duyệt bảo vệ sự riêng tư của bạn. Đặt { -brand-name-firefox } làm trình duyệt mặc định của bạn.
 set-as-default-landing-make-sure-youre-protected = Hãy chắc chắn rằng bạn được bảo vệ, mỗi khi bạn trực tuyến
 set-as-default-landing-thanks-for-using-the = Cảm ơn bạn đã sử dụng trình duyệt { -brand-name-firefox } mới nhất. Khi bạn chọn { -brand-name-firefox }, bạn hỗ trợ một trang web tốt hơn cho bạn và mọi người khác. Bây giờ hãy thực hiện bước tiếp theo để bảo vệ chính mình.
 set-as-default-landing-choose-automatic-privacy = Chọn quyền riêng tư tự động

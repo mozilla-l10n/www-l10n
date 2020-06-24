@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Chuyển từ { -brand-name-chrome } sang { -brand-name-firefox } chỉ trong vài phút
+switch-switching-to-firefox-is-fast-updated = Chuyển đổi sang { -brand-name-firefox } nhanh chóng, dễ dàng và không có rủi ro, vì { -brand-name-firefox } nhập dấu trang, mật khẩu và tùy chọn của bạn từ { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Chuyển đổi sang { -brand-name-firefox } nhanh chóng, dễ dàng và không có rủi ro, vì { -brand-name-firefox } nhập dấu trang, tự động điền, mật khẩu và tùy chọn của bạn từ { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Chuyển sang { -brand-name-firefox } nhanh chóng, dễ dàng và không có rủi ro. { -brand-name-firefox } nhập dấu trang, mật khẩu và tùy chọn của bạn từ { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Chuyển sang { -brand-name-firefox } nhanh chóng, dễ dàng và không có rủi ro. { -brand-name-firefox } nhập dấu trang, tự động điền, mật khẩu và tùy chọn của bạn từ { -brand-name-chrome }.
 switch-select-what-to-take = Chọn những gì cần lấy từ { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Hãy để { -brand-name-firefox } làm phần còn lại.
