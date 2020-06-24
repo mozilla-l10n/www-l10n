@@ -7,3 +7,7 @@
 
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } mot { -brand-name-chrome }: Kva for ein er best?
+# HTML page description
+compare-chrome-we-compare-mozilla-firefox = Vi samanliknar { -brand-name-mozilla } { -brand-name-firefox } med { -brand-name-google } { -brand-name-chrome } når det gjeld personvern, nytte og portabilitet
+# Main title.
+compare-chrome-comparing-firefox-browser = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-google }{ -brand-name-chrome }
