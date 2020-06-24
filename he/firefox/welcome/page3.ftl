@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
+welcome-page3-no-account-required-but-you = אין צורך בחשבון. אבל אולי יתחשק לך באחד כזה.
+welcome-page3-sign-in = כניסה
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
 welcome-page3-facebook-container = { -brand-name-facebook-container }
 welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-firefox-send = { -brand-name-firefox-send }
+welcome-page3-why-am-i-seeing-this = למה אני רואה את זה?
