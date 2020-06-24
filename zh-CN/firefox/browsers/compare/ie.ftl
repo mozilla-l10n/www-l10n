@@ -8,7 +8,7 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } 与 { -brand-name-ie }：哪款浏览器更适合您？
 # HTML page description
-compare-ie-compare-internet-explorer-to = 将 { -brand-name-ie } 与 Firefox 浏览器进行比较，以确定哪款浏览器更适合您。
+compare-ie-compare-internet-explorer-to = 将 { -brand-name-ie } 与 { -brand-name-firefox-browser } 浏览器进行比较，以确定哪款浏览器更适合您。
 # Main title
 compare-ie-comparing-firefox-browser-with = Firefox 浏览器与 { -brand-name-microsoft } { -brand-name-ie } 之间的比较
 compare-ie-while-microsofts-internet-explorer = 尽管大多数 { -brand-name-windows } 系统 PC 上仍预装了 { -brand-name-microsoft } { -brand-name-ie }，但显然 { -brand-name-microsoft } 更希望您使用其 { -brand-name-edge } 浏览器，该浏览器在出厂时被设置为默认浏览器。
