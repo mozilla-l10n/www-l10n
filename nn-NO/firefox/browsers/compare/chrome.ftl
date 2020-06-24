@@ -12,3 +12,4 @@ compare-chrome-we-compare-mozilla-firefox = Vi samanliknar { -brand-name-mozilla
 # Main title.
 compare-chrome-comparing-firefox-browser = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-google }{ -brand-name-chrome }
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } har også ein synkroniseringsfunksjon for å sjå siste opna faner, nettlesarhistorikk og bokmerke på alle einingane dine.
+compare-chrome-for-practical-purposes-theres = For praktiske formål er det openbert ingenting som hindrar deg i å bruke begge nettlesarane — { -brand-name-firefox } for dei augneblinkane der personvern verkeleg er viktig og { -brand-name-chrome } dersom du framleis investerer i { -brand-name-google }-økosystemet. Likevel, med fleire og fleire inngrep i personopplysningane våre, kan { -brand-name-firefox } vise seg å vere det rette valet på lang sikt for dei av oss som verdset å ta vare på personvernet vårt på nettet.
