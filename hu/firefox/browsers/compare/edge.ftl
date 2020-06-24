@@ -8,6 +8,6 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vagy { -brand-name-microsoft } { -brand-name-edge }: Melyik a jobb böngésző az Ön számára?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Hasonlítsa össze a { -brand-name-microsoft } { -brand-name-edge }-et a Firefox böngészővel, hogy megtudja melyik a jobb böngésző az Ön számára.
+compare-edge-compare-microsoft-edge-to-the = Hasonlítsa össze a { -brand-name-microsoft } { -brand-name-edge }-et a { -brand-name-firefox-browser }vel, hogy megtudja melyik a jobb böngésző az Ön számára.
 # Main title.
-compare-edge-comparing-firefox-browser-with = A Firefox böngésző és a { -brand-name-microsoft } { -brand-name-edge } összehasonlítása
+compare-edge-comparing-firefox-browser-with = A { -brand-name-firefox-browser } és a { -brand-name-microsoft } { -brand-name-edge } összehasonlítása

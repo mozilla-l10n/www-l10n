@@ -29,12 +29,12 @@ compare-shared-syncs-with-mobile = Szinkronizálás a mobiljával
 compare-shared-password-management = Jelszókezelés
 compare-shared-master-password = Mesterjelszó
 compare-shared-security-and-privacy = Biztonság és adatvédelem
-compare-shared-utility = Használhatóság
+compare-shared-utility = Hasznos funkciók
 compare-shared-portability = Hordozhatóság
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Biztonság és <strong>adatvédelem</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Használhatóság</strong>
+compare-shared-utility-strong = <strong>Hasznos funkciók</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Hordozhatóság</strong>
 compare-shared-overall-assessment = Átfogó értékelés
