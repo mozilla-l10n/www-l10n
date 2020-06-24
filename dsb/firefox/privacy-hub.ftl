@@ -62,6 +62,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Blokěrujo se pśez { $tracke
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Za źěrami pytaś
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Gronidła a pśizjawjeńske daty, kótarež w { -brand-name-firefox-lockwise } składujośo, se na wšych wašych rědach koděruju, samo my njamóžomy je wiźeś.
 firefox-privacy-hub-learn-more-about-lockwise = Dalšne informacije wó { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Dataju pósłaś
