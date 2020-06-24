@@ -7,12 +7,17 @@
 
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = Zlubjenje priwatnosći { -brand-name-firefox }
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } mjenjej datow składujo, wobchowujo je wěsće a bźez pótajmstwow.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = Produkty { -brand-name-firefox } se wuwijaju, aby wašu <strong>priwatnosć</strong> šćitali
 # Sub navigation title
 firefox-privacy-privacy = Priwatnosć
 # Sub navigation link
 firefox-privacy-our-promise = Našo zlubjenje
 # Sub navigation link
 firefox-privacy-our-products = Naše produkty
+firefox-privacy-hub-you-should-be-able-to-decide = Wy měł sam rozsuźiś móc, chto waše wósobinske informacije wiźi. To nic jano waše pśijaśele nastupa, ale teke kuždego wabjarja a pśedewześe w interneśo – teke nas.
 firefox-privacy-hub-take-less = Mjenjej gromaźiś
 firefox-privacy-hub-we-make-a-point-of-knowing = Jo naša zasada, mjenjej wó was wěźeś
 firefox-privacy-hub-keep-it-safe = Wěsće wobchowaś

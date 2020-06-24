@@ -39,6 +39,7 @@ compare-shared-utility-strong = <strong>Wužytnosć</strong>
 compare-shared-portability-strong = <strong>Portabelnosć</strong>
 compare-shared-overall-assessment = Cełkowny pósudk
 compare-shared-the-comparisons-made-here = How pśewjeźone pśirownanja su se za wersije wobglědowakow takle cynili:
+compare-shared-this-page-updated-semi-quarterly = Toś ten bok se běrtyllětnje aktualizěrujo, aby nejnowše wersioněrowanje wótbłyšćowaś a njepokažo pśecej nejnowše aktualizacije.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
