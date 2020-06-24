@@ -11,3 +11,4 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } mot { -brand
 compare-chrome-we-compare-mozilla-firefox = Vi samanliknar { -brand-name-mozilla } { -brand-name-firefox } med { -brand-name-google } { -brand-name-chrome } når det gjeld personvern, nytte og portabilitet
 # Main title.
 compare-chrome-comparing-firefox-browser = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-google }{ -brand-name-chrome }
+compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } har også ein synkroniseringsfunksjon for å sjå siste opna faner, nettlesarhistorikk og bokmerke på alle einingane dine.
