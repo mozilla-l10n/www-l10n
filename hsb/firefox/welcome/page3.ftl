@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Wobstarajće sej konto, kotrež wašu priwatnosć škita. Přińdźće k { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Žane konto trěbne. Ale chceće snano tajke.
 welcome-page3-the-firefox-browser-collects = Wobhladowak { -brand-name-firefox } tak mało datow wo was hromadźi, njetrjebamy ani wašu e-mejlowu adresu. Ale, hdyž ju wužiwaće, zo byšće konto { -brand-name-firefox-account } załožił, móžemy wašu priwatnosć přez waše cyłe žiwjenje online škitać.
+welcome-page3-sign-in = Přizjewić
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Dajće najmjeńša předewzaće za datami pytać, město zo byšće je roznjesł.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

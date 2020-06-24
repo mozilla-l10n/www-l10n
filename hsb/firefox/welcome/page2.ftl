@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } - składujće nowinki, wideja, stawiznički a wjace
 welcome-page2-your-time-online-is-worth = Waš čas online je škitanja hódny
+welcome-page2-discover-and-save-stories = Wotkryjće a składujće stawiznički w { -brand-name-pocket } – a wobhladajće sej je, hdyž maće chwilu.
 welcome-page2-activate-pocket = { -brand-name-pocket } aktiwizować
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-save-content-from-everywhere = Składujće wobsah wot wšudźe
