@@ -8,9 +8,9 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } với { -brand-name-opera }: Trình duyệt nào tốt hơn cho bạn?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = So sánh { -brand-name-opera } với trình duyệt Firefox để tìm ra trình duyệt nào tốt nhất cho bạn.
+compare-opera-compare-opera-to-the-firefox = So sánh { -brand-name-opera } với { -brand-name-firefox-browser } để tìm ra trình duyệt nào tốt nhất cho bạn.
 # Main title
-compare-opera-comparing-firefox-browser = So sánh trình duyệt Firefox với { -brand-name-opera }
+compare-opera-comparing-firefox-browser = So sánh { -brand-name-firefox-browser } với { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks = Chính sách bảo mật của { -brand-name-opera } thiếu một số tính cụ thể trong phần giải thích về loại thông tin mà nó thu thập và cách thức. Trong một số phần nhất định, họ nói rằng họ thu thập tên của chủ tài khoản, địa chỉ IP và cụm từ tìm kiếm. Điều có vẻ khó hiểu và rắc rối là phần về chuyển dữ liệu quốc tế; khi nào, tần suất và lý do họ cần chuyển dữ liệu của bạn ra quốc tế thì không thấy giải thích.
 compare-opera-operas-privacy-policy-lacks-fallback = Chính sách bảo mật của { -brand-name-opera } thiếu hướng dẫn cụ thể khi giải thích loại thông tin nào họ thu thập và cách thức thu thập tên, địa chỉ IP và cụm từ tìm kiếm của chủ tài khoản trong các phần nhất định. Phần khó hiểu và đáng lo ngại nhất là về việc truyền dữ liệu quốc tế: không có lời giải thích về thời điểm, tần suất và lý do dữ liệu của bạn được truyền đi quốc tế.
 compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox } Browser và { -brand-name-opera } là hai trong số những trình duyệt đầu tiên trên hiện trường vẫn phát hành các bản cập nhật thường xuyên. Mặc dù { -brand-name-opera } chưa đạt được mức độ chấp nhận của người dùng như { -brand-name-firefox } hay { -brand-name-google } { -brand-name-chrome }, nhưng nó vẫn duy trì một cơ sở tương đối ổn định và trung thành trong một thời gian dài. Trong bài đánh giá này, chúng tôi sẽ so sánh trình duyệt { -brand-name-opera } với trình duyệt { -brand-name-firefox } của chúng tôi về bảo mật và quyền riêng tư, tiện ích và tính di động để giúp bạn chọn trình duyệt nào phù hợp nhất với bạn.

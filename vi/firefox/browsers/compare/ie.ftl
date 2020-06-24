@@ -8,15 +8,15 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } với { -brand-name-ie }: Trình duyệt nào tốt hơn cho bạn?
 # HTML page description
-compare-ie-compare-internet-explorer-to = So sánh { -brand-name-ie } với trình duyệt Firefox để tìm ra trình duyệt nào tốt hơn cho bạn.
+compare-ie-compare-internet-explorer-to = So sánh { -brand-name-ie } với { -brand-name-firefox-browser } để tìm ra trình duyệt nào tốt hơn cho bạn.
 # Main title
-compare-ie-comparing-firefox-browser-with = So sánh trình duyệt Firefox với { -brand-name-microsoft } { -brand-name-ie }
-compare-ie-while-microsofts-internet-explorer = Mặc dù { -brand-name-ie } của { -brand-name-microsoft } vẫn được cài đặt sẵn trên hầu hết các PC chạy { -brand-name-windows }, nhưng rõ ràng { -brand-name-microsoft } muốn bạn sử dụng trình duyệt { -brand-name-edge } của họ, được đặt làm mặc định khi bạn mua.
+compare-ie-comparing-firefox-browser-with = So sánh { -brand-name-firefox-browser } với { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = Mặc dù { -brand-name-ie } { -brand-name-microsoft } vẫn được cài đặt sẵn trên hầu hết các PC chạy Windows, rõ ràng { -brand-name-microsoft } muốn bạn sử dụng trình duyệt { -brand-name-edge } của họ, được đặt làm mặc định khi bạn mua.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } đã dừng hỗ trợ { -brand-name-ie } của mình vài năm trước, để tập trung cập nhật trình duyệt { -brand-name-edge } cho { -brand-name-windows } 10. Tuy nhiên, việc cập nhật chậm { -brand-name-edge } làm cho { -brand-name-ie } chưa thể bị loại bỏ, chủ yếu là vì lý do tương thích kinh doanh.
-compare-ie-here-well-compare-our-firefox = Ở đây, chúng tôi sẽ so sánh trình duyệt { -brand-name-firefox } với { -brand-name-ie } về bảo mật, tiện ích và tính di động. Chúng tôi sẽ giúp bạn hiểu được sự khác biệt giữa cách một trình duyệt hiện đại như { -brand-name-firefox } tuân thủ các tiêu chuẩn web so sánh với trình duyệt bạn có thể đang sử dụng cho mục đích kinh doanh hoặc từ những thói quen cũ.
+compare-ie-here-well-compare-our-firefox = Ở đây chúng tôi sẽ so sánh { -brand-name-firefox-browser } với { -brand-name-ie } về mặt bảo mật, tiện ích và tính di động. Chúng tôi sẽ giúp bạn hiểu sự khác biệt giữa trình duyệt hiện đại như { -brand-name-firefox } tuân thủ các tiêu chuẩn web so sánh với trình duyệt bạn có thể đang sử dụng cho mục đích kinh doanh hoặc từ những thói quen cũ không thể bỏ.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = Nếu bạn chưa chuyển từ sử dụng { -brand-name-ie }, chỉ riêng yếu tố rủi ro bảo mật là đủ để thuyết phục bạn. <a { $attrs }>Giám đốc bảo mật của Microsoft đã cảnh báo</a> hàng triệu người tiếp tục sử dụng { -brand-name-ie } làm trình duyệt web chính của họ rằng họ đang đặt mình vào “trò chơi nguy hiểm.”
+compare-ie-if-you-havent-moved-on-from-using = Nếu bạn chỉ muốn sử dụng { -brand-name-ie }, chỉ riêng yếu tố rủi ro bảo mật đã đủ để thuyết phục bạn. <a { $attrs }>Giám đốc an ninh của chính của { -brand-name-microsoft } đã cảnh báo</a> hàng triệu người tiếp tục sử dụng { -brand-name-ie } là trình duyệt web chính của họ mà họ đang đặt mình vào “nguy hiểm.”
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } không còn hỗ trợ cho { -brand-name-ie } nữa, điều đó có nghĩa là sẽ có mối lo ngại về bảo mật. { -brand-name-microsoft } công khai thừa nhận thực tế là một vài lỗ hổng đang tồn tại trong mọi phiên bản của { -brand-name-ie }.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
