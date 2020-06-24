@@ -8,11 +8,11 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } kontra { -brand-name-brave }: melyik a jobb böngésző az Ön számára?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Hasonlítsa össze a { -brand-name-brave }-et a { -brand-name-firefox-browser }rel, hogy megtudja, melyik a jobb böngésző az Ön számára az adatvédelem, a használhatóság és a hordozhatóság szempontjából.
+compare-brave-compare-brave-to-the-firefox = Hasonlítsa össze a { -brand-name-brave }-et a { -brand-name-firefox-browser }rel, hogy megtudja, melyik a jobb böngésző az Ön számára az adatvédelem, a hasznos funkciók és a hordozhatóság szempontjából.
 # Main title
 compare-brave-comparing-firefox-browser = A { -brand-name-firefox-browser } és a { -brand-name-brave } összehasonlítása
 # "Brave Software" is a brand name.
-compare-brave-just-like-the-firefox-browser = Csak úgy, mint a { -brand-name-firefox } böngésző, a { -brand-name-brave } böngésző szabad, nyílt forrású, és a felhasználók magánéletének védelmére koncentrál. A { -brand-name-brave } viszonylag új a böngészők terén: készítője, a { -brand-name-brave } Software először 2016 januárjában mutatta be a böngészőt. Ebben a cikkben összehasonlítjuk a { -brand-name-firefox } böngészőnket a { -brand-name-brave } böngészővel három kategóriában: adatvédelem, használhatóság és hordozhatóság.
+compare-brave-just-like-the-firefox-browser = Csak úgy, mint a { -brand-name-firefox } böngésző, a { -brand-name-brave } böngésző szabad, nyílt forrású, és a felhasználók magánéletének védelmére koncentrál. A { -brand-name-brave } viszonylag új a böngészők terén: készítője, a { -brand-name-brave } Software először 2016 januárjában mutatta be a böngészőt. Ebben a cikkben összehasonlítjuk a { -brand-name-firefox } böngészőnket a { -brand-name-brave } böngészővel három kategóriában: adatvédelem, hasznos funkciók és hordozhatóság.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
 # Variables:
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
