@@ -18,3 +18,4 @@ compare-brave-just-like-the-firefox-browser = 與 { -brand-name-firefox } 瀏覽
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
 #   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
 compare-brave-the-brave-browser-like-so = { -brand-name-brave } 瀏覽器與其他瀏覽器類似，使用由 { -brand-name-google } 推出的開放原始碼 { -brand-name-chromium } 程式碼打造。開放原始碼的意思就是每個人都能站在站在巨人的肩膀上，使用他人撰寫的原始碼來打造自己想要的東西 — <a { $opera }>{ -brand-name-opera }</a> 與 <a { $edge }>{ -brand-name-edge }</a> 也是如此。但這不代表所有使用 { -brand-name-chromium } 技術的瀏覽器都相同，或本身也都開放原始碼。
+compare-brave-brave-differentiates-itself = { -brand-name-brave } 與其他 { -brand-name-chromium } 瀏覽器最大的不同之處是專注於使用者的隱私權 — 特別是預設就會封鎖追蹤器、指令碼、廣告等內容。所以當您使用 { -brand-name-brave } 瀏覽器時，網站中用來顯示廣告的版位就會開天窗。某些情況下，會無法正確載入頁面，然後就要使用其他瀏覽器，或是將「Shields Up」更改為「Shields Down」，關閉隱私權與安全性保護功能。
