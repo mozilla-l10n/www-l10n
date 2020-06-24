@@ -12,7 +12,7 @@ compare-brave-compare-brave-to-the-firefox = Přirunajće { -brand-name-brave } 
 # Main title
 compare-brave-comparing-firefox-browser = Přirunanje { -brand-name-firefox-browser } z { -brand-name-brave }
 # "Brave Software" is a brand name.
-compare-brave-just-like-the-firefox-browser = Runje tak kaž wobhladowak { -brand-name-firefox } je wobhladowak { -brand-name-brave } darmotny, wotewrjeneho žórła a na škit priwatnosće wužiwarjow wusměrjeny. { -brand-name-brave } je relatiwny nowačk w swěće wobhladowakow: Jeho zhotowjer, { -brand-name-brave } Software, je wobhladowak prěni raz w januarje 2016 předstajił. W tutym nastawku budźemy swój wobhladowak { -brand-name-firefox } z wobhladowakom { -brand-name-brave } w třoch kategorijach přinunować: priwatnosć, wužitnosć a portabelnosć.
+compare-brave-just-like-the-firefox-browser = Runje tak kaž wobhladowak { -brand-name-firefox } je wobhladowak { -brand-name-brave } darmotny, wotewrjeneho žórła a na škit priwatnosće wužiwarjow wusměrjeny. { -brand-name-brave } je relatiwny nowačk w swěće wobhladowakow: Jeho zhotowjer, { -brand-name-brave } Software, je wobhladowak prěni raz w januarje 2016 předstajił. W tutym nastawku budźemy swój wobhladowak { -brand-name-firefox } z wobhladowakom { -brand-name-brave } w třoch kategorijach přirunować: priwatnosć, wužitnosć a portabelnosć.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
 # Variables:
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
