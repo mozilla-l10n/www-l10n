@@ -7,3 +7,5 @@
 
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } mot { -brand-name-microsoft } { -brand-name-edge }: Kva for ein er den beste nettlesaren for deg?
+# Main title.
+compare-edge-comparing-firefox-browser-with = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-edge }
