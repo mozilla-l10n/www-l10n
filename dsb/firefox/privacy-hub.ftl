@@ -27,21 +27,33 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Procujomy se kradu, aby wa�
 firefox-privacy-hub-data-security-is-complicated = Datowa wěstota je komplicěrowana – abo měła nanejmjenjej byś. Togodla cynimy pśidatne kšace, aby daty, kótarež mamy, klasificěrowali, pšawidła za składowanje a šćitanje kuždego typa doźaržali a wóspjetujomy to za naše procese pśecej zasej. Waša priwatnosć ma za nas prioritu. Inwestěrujomy do njeje. Smy jej zawězane. Pokazujomy samo drugim předewześam, kak muse to cyniś.
 firefox-privacy-hub-no-secrets = Žedne pótajmnosći
 firefox-privacy-hub-youll-always-know-where-you = Buźośo pśecej wěźeś, na comž sćo.
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Namamy žedne schowane wótglědy. Naš wobchod wót togo njewótwisujo, wašu dowěru znjewužywaś. Našo <a href="{ $privacy }">wuzjawjenje wó škiśe datow</a> jo napšawdu cytajobna. Kuždy na swěśe móžo se na našych <a href="{ $meetings }">tyźeńskich pśedewześaŕskich zmakanjach</a> wobźěliś. A jolic cośo se do datow macnuś, kótarež gromaźimy – naš kod jo zjawny. Ako my teke.
 firefox-privacy-hub-why-trust-firefox = Cogodla { -brand-name-firefox } dowěriś?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Dokulaž luźi na prědne městno stajamy. Napšawdu, nas <a href="{ $foundation }">za wš wužytna organizacija</a> pódpěra. Wót prědnego dnja jo naša misija było, internet a kuždego w nim šćitaś.
 firefox-privacy-hub-learn-more-about-our-mission = Dalšne informacije wó našej misiji
 firefox-privacy-hub-your-privacy-by-the-product = Waš priwatnosć, w kuždem produkśe
+firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox } hynac funkcioněruju – dokulaž se wuwijaju, aby nejpjerwjej wašu priwatnosć šćitali.
 firefox-privacy-hub-learn-about-our-products = Zgóńśo wěcej wó našych produktach
 firefox-privacy-hub-firefox-privacy-by-the = Priwatnosć { -brand-name-firefox }, w kuždem produkśe
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } wašu priwatnosć w kuždem produkśe šćita.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } wašu priwatnosć w kuždem produkśe <strong>šćita</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Wušej 2.000 pśeslědowakow zablokěrowane – awtomatiski
+firefox-privacy-hub-if-you-want-to-see-what = Jolic cośo wiźeś, což { -brand-name-firefox } za was blokěruoe, woglědajśo se k toś tomu bokoju na swójom desktopowem wobglědowaku { -brand-name-firefox }.
 firefox-privacy-hub-see-what-firefox-has-blocked = Glědajśo, což { -brand-name-firefox } za was blokěrujo
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Pólěpšony slědowański šćit wobstaraś
 firefox-privacy-hub-download-the-firefox-browser = Wobglědowak { -brand-name-firefox } ześěgnuś
 firefox-privacy-hub-update-your-firefox-browser = Aktualizěrujśo swój wobglědowak { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Njewidobny za głowne pśeslědowaki
+firefox-privacy-hub-meet-four-of-the-most-common = To su styri nejcesćejše kategorije pśeslědowakow – kótarež wam něnto wěcej njeslěduju.
 firefox-privacy-hub-always-in-your-control = Maśo pśecej kontrolu
+firefox-privacy-hub-want-to-customize-what = Cośo rozsuźiś, což ma se blokěrowaś? Waše nastajenja su jano jadno kliknjenje zdalone.
 firefox-privacy-hub-protection-beyond-tracking = Wěcej ako slědowański šćit
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Za źěrami pytaś
