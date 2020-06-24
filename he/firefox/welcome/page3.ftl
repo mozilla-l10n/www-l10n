@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
 welcome-page3-no-account-required-but-you = אין צורך בחשבון. אבל אולי יתחשק לך באחד כזה.
+welcome-page3-the-firefox-browser-collects = הדפדפן { -brand-name-firefox } אוסף כל כך מעט נתונים אודותיך, אנו אפילו לא דורשים את כתובת הדוא״ל שלך. אך כשמשתמשים בו כדי ליצור { -brand-name-firefox-account(case: "a") }, אנו יכולים להגן על הפרטיות שלך בחלק גדול יותר מהחיים המקוונים שלך.
 welcome-page3-sign-in = כניסה
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
