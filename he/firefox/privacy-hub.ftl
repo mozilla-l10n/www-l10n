@@ -36,6 +36,8 @@ firefox-privacy-hub-if-you-have-a-firefox-account = אם יש לך { -brand-name
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = יותר מ־{ $trackers } רכיבי מעקב נחסמים בכל יום עבור משתמשי { -brand-name-firefox } ברחבי העולם.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = כאשר כתובת הדוא״ל שלך מוכנסת ב־{ -brand-name-firefox-monitor }, אנו שוכחים ממנה מיד לאחר שבדקנו אחר התאמה בדליפות נתונים מוכרות — אלא אם כן נקבל ממך הרשאה להמשיך לנטר לעקוב אחר דליפות חדשות של המידע האישי שלך.
+firefox-privacy-hub-check-for-breaches = חיפוש אחר דליפות
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = הססמאות ופרטי הגישה שלך הנשמרים ב־{ -brand-name-firefox-lockwise } מוצפנים בכל המכשירים שלך, כך שאפילו לנו אין אפשרות לראות אותם.
 firefox-privacy-hub-learn-more-about-lockwise = מידע נוסף על { -brand-name-lockwise }
@@ -45,6 +47,7 @@ firefox-privacy-hub-send-a-file = שליחת קובץ
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = קבלת { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account(case: "the") } שלך
+firefox-privacy-hub-all-the-information-synced = כל המידע המסונכרן באמצעות { -brand-name-firefox-account(case: "the") } שלך — מהיסטוריית הדפדפן ועד לססמאות — מוצפן. וססמת החשבון שלך היא המפתח היחיד.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = <a href="{ $url }">הצהרת הפרטיות</a> עבור המוצרים שלנו
