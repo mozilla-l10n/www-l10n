@@ -22,19 +22,19 @@ compare-shared-text-to-speech = Szöveg beszéddé alakítása
 compare-shared-reader-mode = Olvasó mód
 compare-shared-spell-checking = Helyesírás-ellenőrzés
 compare-shared-web-extensionsadd-ons = Kiegészítők
-compare-shared-in-browser-screenshot-tool = Böngészőn belüli képernyőkép eszköz
+compare-shared-in-browser-screenshot-tool = Böngészőn belüli képernyőkép-eszköz
 compare-shared-os-availability = OS elérhetőség
 compare-shared-mobile-os-availability = Mobil OS elérhetőség
 compare-shared-syncs-with-mobile = Szinkronizálás a mobiljával
 compare-shared-password-management = Jelszókezelés
 compare-shared-master-password = Mesterjelszó
 compare-shared-security-and-privacy = Biztonság és adatvédelem
-compare-shared-utility = Segédeszközök
+compare-shared-utility = Használhatóság
 compare-shared-portability = Hordozhatóság
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Biztonság és <strong>adatvédelem</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Segédeszközök</strong>
+compare-shared-utility-strong = <strong>Használhatóság</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Hordozhatóság</strong>
 compare-shared-overall-assessment = Átfogó értékelés
