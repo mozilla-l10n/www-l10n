@@ -8,6 +8,8 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = תודה שבחרת ב־{ -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = הצלחה! הדפדפן ברירת המחדל שלך מוגדר כ־{ -brand-name-firefox }.
+# When a visitor sees this message a system dialog will also open on screen.
+set-as-default-thanks-youre-almost-done-just-change = כמעט סיימת. רק נשאר לשנות את דפדפן ברירת המחדל שלך ל־{ -brand-name-firefox } בחלונית ההגדרות במסך שלך.
 set-as-default-thanks-having-trouble-setting-your = מתקשה להגדיר את דפדפן ברירת המחדל שלך?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android

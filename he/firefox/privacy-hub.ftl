@@ -13,7 +13,14 @@ firefox-privacy-privacy = פרטיות
 firefox-privacy-our-promise = ההבטחה שלנו
 # Sub navigation link
 firefox-privacy-our-products = המוצרים שלנו
+firefox-privacy-hub-no-secrets = ללא סודות
+firefox-privacy-hub-why-trust-firefox = למה שאסמוך על { -brand-name-firefox }?
+firefox-privacy-hub-learn-more-about-our-mission = מידע נוסף על המשימה שלנו
+firefox-privacy-hub-learn-about-our-products = מידע נוסף על המוצרים שלנו
+firefox-privacy-hub-firefox-protects-your-privacy = ‏{ -brand-name-firefox } מגן על הפרטיות שלך בכל מוצר.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = ‏{ -brand-name-firefox } <strong>מגן</strong> על הפרטיות שלך בכל מוצר
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = למעלה מ־2,000 רכיבי מעקב חסומים — באופן אוטומטי
 firefox-privacy-hub-download-the-firefox-browser = הורדת הדפדפן { -brand-name-firefox }
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
