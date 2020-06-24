@@ -8,6 +8,6 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand-name-safari }: 哪套瀏覽器更適合您？
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } 是 { -brand-name-mac } 與 { -brand-name-iphone } 上的內建瀏覽器。在此比較 { -brand-name-safari } 與 Firefox，看看哪套瀏覽器更適合您。
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } 是 { -brand-name-mac } 與 { -brand-name-iphone } 上的內建瀏覽器。在此比較 { -brand-name-safari } 與 { -brand-name-firefox-browser }，看看哪套瀏覽器更適合您。
 # Main title.
-compare-safari-comparing-firefox-browser = 比較 Firefox 瀏覽器與 Apple Safari
+compare-safari-comparing-firefox-browser = 比較 { -brand-name-firefox-browser }與 { -brand-name-apple } { -brand-name-safari }
