@@ -10,13 +10,13 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } 与 { -brand-n
 # HTML page description
 compare-ie-compare-internet-explorer-to = 将 { -brand-name-ie } 与 { -brand-name-firefox-browser } 浏览器进行比较，以确定哪款浏览器更适合您。
 # Main title
-compare-ie-comparing-firefox-browser-with = Firefox 浏览器与 { -brand-name-microsoft } { -brand-name-ie } 之间的比较
+compare-ie-comparing-firefox-browser-with = { -brand-name-firefox-browser } 浏览器与 { -brand-name-microsoft } { -brand-name-ie } 的比较
 compare-ie-while-microsofts-internet-explorer = 尽管大多数 { -brand-name-windows } 系统 PC 上仍预装了 { -brand-name-microsoft } { -brand-name-ie }，但显然 { -brand-name-microsoft } 更希望您使用其 { -brand-name-edge } 浏览器，该浏览器在出厂时被设置为默认浏览器。
-compare-ie-microsoft-discontinued-its-internet = 几年前，微软终止了其 { -brand-name-ie } 品牌，取而代之的是现代化的 { -brand-name-windows } 10 { -brand-name-edge } 浏览器。然而，由于业务兼容性的原因，{ -brand-name-edge } 的缓慢推进为 { -brand-name-ie } 创造了生存空间。
-compare-ie-here-well-compare-our-firefox = 在此，我们将 { -brand-name-firefox } 浏览器与 { -brand-name-ie } 在安全、实用、跨平台方面进行比较。帮助您了解遵循 Web 标准的现代浏览器，与为了商业目的或因历史原因不得不用的浏览器之间有什么区别。
+compare-ie-microsoft-discontinued-its-internet = 几年前，{ -brand-name-microsoft } 终止了其 { -brand-name-ie } 品牌，取而代之的是现代化的 { -brand-name-windows } 10 { -brand-name-edge } 浏览器。然而，由于业务兼容性的原因，{ -brand-name-edge } 的缓慢推进为 { -brand-name-ie } 留下了生存空间。
+compare-ie-here-well-compare-our-firefox = 在此，我们将 { -brand-name-firefox-browser } 浏览器与 { -brand-name-ie } 在安全、实用、跨平台方面进行比较。帮助您了解像 { -brand-name-firefox } 这样的遵循 Web 标准的现代浏览器，与为了商业目的或因历史原因不得不用的浏览器之间有什么区别。
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = 如果您还没有停止使用 { -brand-name-ie }，那么仅凭安全风险因素就足以说服您。<a { $attrs }>Microsoft 安全主管警告称</a>，数百万继续使用 { -brand-name-ie } 作为默认浏览器的用户，正处于“危险之中”。
+compare-ie-if-you-havent-moved-on-from-using = 如果您还没有停止使用 { -brand-name-ie }，那么仅凭安全风险因素就足以说服您。<a { $attrs }>{ -brand-name-microsoft } 安全主管警告称</a>，数百万继续使用 { -brand-name-ie } 作为默认浏览器的用户，正处于“危险之中”。
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } 早已停止对 { -brand-name-ie } 的开发支持，这意味将出现大量安全问题。 { -brand-name-microsoft } 曾公开承认，几乎每个版本的 { -brand-name-ie } 都存在漏洞。
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -31,7 +31,7 @@ compare-ie-on-the-other-end-of-the-spectrum-fallback = 另一方面，{ -brand-n
 # "sunset" here means Microsoft is officially ending production of Internet Explorer. Alternative: "retire"
 compare-ie-as-microsoft-has-made-the-move = 由于 { -brand-name-microsoft } 已淘汰 { -brand-name-ie } 浏览器，因此它不再支持 { -brand-name-ios } 的任何版本，也不会支持 { -brand-name-android }。这意味着，除非您运行的是 Windows 系统笔记本电脑或台式机，否则您将无法访问书签、浏览历史、保存的密码以及其他现代浏览器在设备之间同步的信息。
 compare-ie-firefox-works-on-any-platform = { -brand-name-firefox } 能够在任何平台上运行，包括 { -brand-name-windows }、{ -brand-name-mac }、{ -brand-name-linux }、{ -brand-name-android } 和 { -brand-name-ios }。这也意味着您可以跨平台同步所有信息。因此，若您在 { -brand-name-windows } 系统笔记本电脑上进行浏览，则可在 { -brand-name-iphone } 或 { -brand-name-android } 设备上无缝浏览。这种便利性应该成为任何现代 Web 浏览器的标配，但 { -brand-name-ie } 却极度缺乏。
-compare-ie-there-was-a-time-not-so-long = 许久前，{ -brand-name-ie } 是世界上最流行、应用最广泛的浏览器。但时代变了，技术也变了，但不幸的是，{ -brand-name-ie } 却几乎没有变。微软自己也公开恳求用户停止使用 { -brand-name-ie }，转而使用新的 { -brand-name-chromium } 内核 { -brand-name-edge } 浏览器。
+compare-ie-there-was-a-time-not-so-long = 许久前，{ -brand-name-ie } 是世界上最流行、应用最广泛的浏览器。但时代变了，技术也变了，但不幸的是，{ -brand-name-ie } 却几乎没有变。{ -brand-name-microsoft } 自己也公开恳求用户停止使用 { -brand-name-ie }，转而使用新的 { -brand-name-chromium } 内核 { -brand-name-edge } 浏览器。
 # Variables:
 #   $attrs (string) - link to /firefox/download/thanks/ with additional attributes for analytics
 # "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.

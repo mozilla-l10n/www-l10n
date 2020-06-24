@@ -8,11 +8,11 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } 与 { -brand-name-opera }：哪款浏览器更适合您？
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = 将 { -brand-name-opera } 与 Firefox 浏览器进行比较，以确定哪款浏览器更适合您。
+compare-opera-compare-opera-to-the-firefox = 将 { -brand-name-opera } 与 { -brand-name-firefox-browser } 浏览器进行比较，以确定哪款浏览器更适合您。
 # Main title
-compare-opera-comparing-firefox-browser = Firefox 浏览器与 { -brand-name-opera } 之间的比较
+compare-opera-comparing-firefox-browser = { -brand-name-firefox-browser } 浏览器与 { -brand-name-opera } 之间的比较
 compare-opera-operas-privacy-policy-lacks-fallback = { -brand-name-opera } 的隐私政策在解释其收集哪些类型的信息以及如何在某些部分收集账户持有者的姓名、IP 地址和搜索词时缺乏具体说明。最令人困惑和不安的是关于国际数据传输的部分：没有解释将您的数据在国际范围内传输的时间、频率及原因。
-compare-opera-the-firefox-browser-and-opera = { -brand-name-opera } 是为数不多的与 { -brand-name-firefox } 浏览器一样推出很久，且仍在频繁更新的浏览器。尽管 { -brand-name-opera } 的用户使用率还未达到 { -brand-name-firefox } 或 { -brand-name-google } { -brand-name-chrome } 的水平，但 { -brand-name-opera } 长时间以来依然维持有一群稳定和忠诚的用户。在这篇评比中，我们将 { -brand-name-firefox } 浏览器与 { -brand-name-opera } 浏览器在安全、隐私、实用和跨平台方面比较，以确定哪款浏览器更适合您。
+compare-opera-the-firefox-browser-and-opera = { -brand-name-opera } 是为数不多的与 { -brand-name-firefox-browser } 浏览器一样推出很久，且仍在频繁更新的浏览器。尽管 { -brand-name-opera } 的用户使用率还未达到 { -brand-name-firefox } 或 { -brand-name-google } { -brand-name-chrome } 的水平，但 { -brand-name-opera } 长时间以来依然维持有一群稳定和忠诚的用户。在这篇评比中，我们将 { -brand-name-firefox } 浏览器与 { -brand-name-opera } 浏览器在安全、隐私、实用和跨平台方面比较，以确定哪款浏览器更适合您。
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = { -brand-name-firefox } 的<a { $attrs }>隐私政策</a>在描述我们收集哪些个人信息时非常透明，最终目的就是让您对自己的网络数据掌有更大的控制权。
