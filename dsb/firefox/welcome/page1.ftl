@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = Wěcej ako wobglědowak - { -brand-name-firefox-monitor } se za hackerami rozglědujo
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = Cyńśo pśiducy kšac, aby swóju priwatnosć ze swójźbu produktow { -brand-name-firefox } online šćitał.
+welcome-page1-stay-ahead-of-hackers-check = Wóstańśo wó kusack pśed hackerami. Pytajśo za datowym źěrami z { -brand-name-firefox-monitor }.
 welcome-page1-youve-got-the-web-browser = Maśo wobglědowak, kótaryž wašu priwatnosć šćita – jo něnto cas, se za hackerami rozglědowaś.
 welcome-page1-check-your-breach-report = Rozpšawu wó datowej źěrje woglědaś
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }

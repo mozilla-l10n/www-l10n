@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Pśejźćo wót { -brand-name-chrome } do { -brand-name-firefox } w běgu mało minutow
+switch-switching-to-firefox-is-fast-updated = Móžośo malsnje k { -brand-name-firefox } pśejś, jo lažko a bźez rizika, dokulaž { -brand-name-firefox } waše cytańske znamjenja, gronidła a nastajenja z { -brand-name-chrome } importěrujo.
 switch-switching-to-firefox-is-fast = Móžośo malsnje k { -brand-name-firefox } pśejś, jo lažko a bźez rizika, dokulaž { -brand-name-firefox } waše cytańske znamjenja, awtowudopołnjenja, gronidła a nastajenja z { -brand-name-chrome } importěrujo.
+switch-switching-to-firefox-page-description-updated = Móžośo malsnje k { -brand-name-firefox } pśejś, jo lažko a bźez rizika. { -brand-name-firefox } waše cytańske znamjenja, gronidła a nastajenja z { -brand-name-chrome } importěrujo.
 switch-switching-to-firefox-page-description = Móžośo malsnje k { -brand-name-firefox } pśejś, jo lažko a bźez rizika. { -brand-name-firefox } waše cytańske znamjenja, awtowudopołnjenja, gronidła a nastajenja z { -brand-name-chrome } importěrujo.
 switch-select-what-to-take = Wubjeŕśo, což cośo z { -brand-name-chrome } pśewześ.
 switch-let-firefox-do-the-rest = Dajśo { -brand-name-firefox } zbytk cyniś.

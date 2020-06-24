@@ -15,6 +15,7 @@ lockwise-install-for-firefox = Za { -brand-name-firefox } instalěrowaś
 lockwise-open-in-firefox = W { -brand-name-firefox } wócyniś
 lockwise-only-in-the-firefox-browser = Jano w { -brand-name-firefox-browser }
 lockwise-256-bit-encryption-protects = 256-bitowe koděrowanje was pśi synchronizěrowanju šćita
+lockwise-get-to-your-passwords-securely = Dostańśo se wěsće k swójim gronidłam z Face ID abo Touch ID
 lockwise-your-privacy-comes-first = Priwatnosć ma nejwušu prioritu.
 lockwise-we-keep-your-data-safe = Źaržymy waše daty wěste a njepśedajomy je nigda.
 lockwise-support = Pomoc
