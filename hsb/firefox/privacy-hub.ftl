@@ -30,7 +30,7 @@ firefox-privacy-hub-youll-always-know-where-you = Budźeće přeco wědźeć, na
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Nimamy žane schowane wotpohlady. Naš wobchod wot toho njewotwisuje, wašu dowěru znjewužiwać. Naše <a href="{ $privacy }">rozłoženje wo škiće datow</a> je woprawdźe čitajomna. Kóždy na swěće móže so na našich <a href="{ $meetings }">tydźenskich předewzaćelskich zetkanjach</a> wobdźělić. A jeli chceće so do datow zanurić, kotrež hromadźimy – naš kod je zjawny. Kaž my tež.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Nimamy žane schowane wotpohlady. Naš wobchod wot toho njewotwisuje, wašu dowěru znjewužiwać. Naše <a href="{ $privacy }">rozłoženje wo škiće datow</a> je woprawdźe čitajomne. Kóždy na swěće móže so na našich <a href="{ $meetings }">tydźenskich předewzaćelskich zetkanjach</a> wobdźělić. A jeli chceće so do datow zanurić, kotrež hromadźimy – naš kod je zjawny. Kaž my tež.
 firefox-privacy-hub-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
