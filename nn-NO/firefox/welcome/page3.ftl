@@ -8,7 +8,8 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Få ein gratis konto som beskyttar privatlivet ditt. Bruk { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Ingen konto påpkravd. Men du vil kanskje ha ein.
-welcome-page3-the-firefox-browser-collects = { -brand-name-firefox }-nettlesaren samler inn så lite data om deg, at vi ikkje eingong treng e-postadressa di. Men når du brukar den til å opprette ein { -brand-name-firefox }-konto, kan vi ta vare på personvernet ditt på alle produkta våre.
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox }-nettlesaren samlar inn så lite data om deg, at vi ikkje eingong treng e-postadressa di. Men når du brukar den til å opprette ein { -brand-name-firefox-account }, kan vi ta vare på personvernet ditt på alle produkta våre.
+welcome-page3-sign-in = Logg inn
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Få minst eitt selskap til å passe på dataa dine, i staden for å leke dei.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
