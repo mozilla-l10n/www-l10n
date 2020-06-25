@@ -10,3 +10,5 @@ lockwise-try-lockwise-now = { -brand-name-lockwise } ابھی آزمائیں
 lockwise-install-for-firefox = { -brand-name-firefox } انسٹال کریں
 lockwise-open-in-firefox = { -brand-name-firefox } میں کھولیں
 lockwise-only-in-the-firefox-browser = صرف { -brand-name-firefox-browser } میں
+lockwise-support = سپورٹ
+lockwise-github = { -brand-name-github }
