@@ -6,4 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # Main title.
-compare-chrome-comparing-firefox-browser = Rujunamaxik Firefox Okik'amaya'l rik'in Google Chrome
+compare-chrome-comparing-firefox-browser = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-google } { -brand-name-chrome }
