@@ -8,7 +8,8 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Maak de gratis account aan die uw privacy beschermt. Doe mee met { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Geen account vereist. Maar misschien wilt u er een.
-welcome-page3-the-firefox-browser-collects = De { -brand-name-firefox }-browser verzamelt zo weinig gegevens over u dat we zelfs uw e-mailadres niet nodig hebben. Maar wanneer u het gebruikt om een { -brand-name-firefox }-account aan te maken, dan kunnen we uw privacy in een groter deel van uw onlineleven beschermen.
+welcome-page3-the-firefox-browser-collects = De { -brand-name-firefox }-browser verzamelt zo weinig gegevens over u dat we zelfs uw e-mailadres niet nodig hebben. Maar wanneer u het gebruikt om een { -brand-name-firefox-account } aan te maken, dan kunnen we uw privacy in een groter deel van uw onlineleven beschermen.
+welcome-page3-sign-in = Aanmelden
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Zorg dat ten minste één bedrijf op uw gegevens let in plaats van deze te lekken.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
