@@ -10,7 +10,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } 与 { -brand
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } 是 { -brand-name-mac } 和 { -brand-name-iphone } 上的预装浏览器。比较 { -brand-name-safari } 和 { -brand-name-firefox-browser } 浏览器，以确定哪款浏览器更适合您。
 # Main title.
-compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser } 浏览器与 { -brand-name-apple } { -brand-name-safari } 之间的比较
+compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser }与 { -brand-name-apple } { -brand-name-safari } 之间的比较
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = 如果您使用过 Mac 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari } 网络浏览器。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者。在此，我们将探讨我们的浏览器与 { -brand-name-safari } 在隐私、实用和跨平台方面的主要区别。
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
@@ -41,6 +41,10 @@ compare-safari-also-when-you-sign-up-for = 另外，当您创建 { -brand-name-f
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
 compare-safari-also-when-you-sign-up-for-fallback = 另外，当您创建 { -brand-name-firefox } 账户后，就可以访问其内部集成的一些特色服务，例如 Screenshot、<a { $pocket }>{ -brand-name-pocket }</a> 和 <a { $send }>{ -brand-name-send }</a>，它们都直接集成在浏览器中。Screenshot 是 { -brand-name-firefox } 浏览器内置的一项功能，它允许您复制或下载网页截图。保存屏幕截图时，您还可以选择其保存路径，而不会将桌面打乱。{ -brand-name-firefox } 地址栏中的 { -brand-name-pocket } 按钮，轻轻一点，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。使用 { -brand-name-send }，您可以端到端加密地分享大文件，更提供文件链接过期时间、下载次数以及提取码等多重安全控制手段，更多一层保护。
+# Variables:
+#   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
+# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
+compare-safari-screenshots-is-another-popular = <a { $attrs }>屏幕截图</a>是 { -brand-name-firefox } 浏览器中内置的另一个流行功能，可让您轻松捕获屏幕图像。截屏时，您可以选择复制文件或选择存放到文件夹，而不会弄乱桌面。
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = 从桌面浏览器切换到移动浏览器时，{ -brand-name-firefox } 和 { -brand-name-safari } 均可提供无缝的体验，反之亦然。对于 { -brand-name-safari } 而言，其主要优势之一是其连续性特性。它能将您的书签、标签页、历史记录和更多内容同步到 iCloud，以便在所有设备上都可用。这意味着您可以在 { -brand-name-iphone } 上打开的标签页，只需点击一下即可将其显示在 { -brand-name-mac } 笔记本电脑上。
 compare-safari-both-browsers-have-a-lot = 两款浏览器的功能有许多重叠的部分，但各自也有一些特色功能。例如，您经常使用 { -brand-name-firefox } 的屏幕截图功能，突然没有了它，一定会觉得不习惯。但如果您只是在寻找一款用于浏览和购物的快速、私密的浏览器，而您一直在使用 { -brand-name-safari } 的原因，只因为它是计算机上预装的默认浏览器，那我们强烈建议您试试 { -brand-name-firefox }。最终，您会发现哪一款更符合您的需求。
