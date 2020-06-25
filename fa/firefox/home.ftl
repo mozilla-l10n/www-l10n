@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-download-the-browser = دریافت مرورگر
+firefox-home-download-the-app = دریافت اپ
+firefox-home-desktop = رومیزی
+firefox-home-browsers = مرورگرها
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
