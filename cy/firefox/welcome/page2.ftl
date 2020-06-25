@@ -15,5 +15,5 @@ welcome-page2-pocket-is-built-right-into = Mae { -brand-name-pocket } wedi'i ymg
 welcome-page2-save-content-from-everywhere = Cadw cynnwys o bobman
 welcome-page2-grab-articles-videos-and-links = Cipiwch erthyglau, fideos, a dolenni o unrhyw wefan trwy glicio ar yr eicon { -brand-name-pocket } ym mar offer eich porwr.
 welcome-page2-discover-new-stories = Darganfod straeon newydd
-welcome-page2-pocket-shows-recommended-stories = Mae{ -brand-name-pocket } yn dangos straeon cymeradwy bob tro y byddwch chi'n agor tab newydd. Cadwch y rhai sydd o ddiddordeb i chi.
+welcome-page2-pocket-shows-recommended-stories = Mae { -brand-name-pocket } yn dangos straeon cymeradwy bob tro y byddwch chi'n agor tab newydd. Cadwch y rhai sydd o ddiddordeb i chi.
 welcome-page2-why-am-i-seeing-this = Pam ydw i'n gweld hyn?
