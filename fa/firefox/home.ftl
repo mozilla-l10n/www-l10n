@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-share-large-files-without = پرونده‌های بزرگ را بدون نگاه‌های کنجکاو ارسال کنید
+firefox-home-start-sending-files = با خیال راحت ارسال امن پرونده‌ها را شروع کنید
+firefox-home-learn-more-about-pocket = درباره { -brand-name-pocket } بیشتر بدانید
+firefox-home-join-firefox = به { -brand-name-firefox } بپیوندید
+firefox-home-learn-more-about-joining = درباره پیوستن به { -brand-name-firefox } بیشتر بدانید
+firefox-home-get-the-browser-extension = برنامه افزودنیِ مرورگر را دریافت کنید
+firefox-home-get-the-facebook-container = برنامهٔ افزودنیِ { -brand-name-facebook-container } را دریافت کنید
 firefox-home-download-the-browser = دریافت مرورگر
 firefox-home-download-the-app = دریافت اپ
 firefox-home-desktop = رومیزی
