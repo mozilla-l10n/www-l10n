@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Nastavite { -brand-name-firefox } kot privzeti brskalnik
+# HTML page description
+set-as-default-landing-choose-the-browser = Izberite brskalnik, ki ščiti vašo zasebnost. Nastavite { -brand-name-firefox } kot privzeti brskalnik.
 set-as-default-landing-make-sure-youre-protected = Bodite zaščiteni vedno, ko ste na spletu
 set-as-default-landing-thanks-for-using-the = Hvala, ker uporabljate najnovejši brskalnik { -brand-name-firefox }. Ko izberete { -brand-name-firefox }, podpirate boljši splet zase in tudi ostale uporabnike. Naredite naslednji korak pri svoji zaščiti.
 set-as-default-landing-choose-automatic-privacy = Izberite samodejno zasebnost
