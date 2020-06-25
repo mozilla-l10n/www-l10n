@@ -41,6 +41,11 @@ compare-brave-in-terms-of-actual-precious = 就实际耗费的宝贵内存而言
 compare-brave-customization-of-ui-elements = 自定义 UI 元素和主题多年来一直是 { -brand-name-firefox } 用户最喜欢的功能，而且我们热心的开发者社区已经建立了一个庞大的开源<a { $addons }>附加组件和扩展库</a>，支持更多的定制和功能。下载 { -brand-name-firefox }，同时得到强大的<a { $screenshot }>截屏工具</a>、无障碍功能以及内置的 <a { $pocket }>{ -brand-name-pocket }</a>——供您快速保存文章，随时随地阅读。
 compare-brave-brave-also-supports-the-huge = { -brand-name-brave } 也支持 { -brand-name-google } { -brand-name-chrome } 网络商店中庞大的扩展库，并提供了多种浏览器内置功能，例如前面讲到的 { -brand-name-brave } 奖励计划，并支持在浏览器中进行 torrent 下载。
 compare-brave-the-ability-to-sync-your-passwords = 同步功能在 { -brand-name-firefox } 已经使用了许多年，它可以让您在所有设备和操作系统上同步密码、扩展、表单数据，附加组件和其他首选项。同步数据也是加密的，没有人可以从外部访问这些数据。
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } 浏览器的用户还可以免费注册 <a { $accounts }>{ -brand-name-firefox-account }</a>。拥有 { -brand-name-firefox } 账户是解锁跨设备同步的关键；此外，您还能获益于诸如 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等其他增强功能。它会持续监控您的电子邮件地址，并在该邮件地址涉及任何已知的<a { $breaches }>数据外泄事件</a>时向您发出警报。
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } 最近也获得了跨大多数流行操作系统和设备同步数据的能力，并增加了同步基本注意力代币（BAT）的功能。
 compare-brave-when-comparing-the-two-browsers = 比较这两款浏览器，{ -brand-name-firefox } 和 { -brand-name-brave } 都在默认情况下便提供高等级的私密性和安全性，开箱即用。
