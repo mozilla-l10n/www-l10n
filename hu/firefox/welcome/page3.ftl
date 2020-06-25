@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Szerezze meg az ingyenes fiókot, amely megvédi a magánszféráját. Csatlakozzon a { -brand-name-firefox }hoz.
 welcome-page3-no-account-required-but-you = Nincs szüksége fiókra. De lehet, hogy szeretne egyet.
-welcome-page3-the-firefox-browser-collects = A { -brand-name-firefox } böngésző olyan kevés adatot gyűjt Önről, hogy még az e-mail címére sincs szükségünk. De ha { -brand-name-firefox }-fiókot hoz létre, akkor jobban megvédhetjük az adatait az online életében.
+welcome-page3-the-firefox-browser-collects = A { -brand-name-firefox } böngésző olyan kevés adatot gyűjt Önről, hogy még az e-mail címére sincs szükségünk. De ha { -brand-name-firefox-account }ot hoz létre, akkor jobban megvédhetjük a magánszféráját az online életében.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Legalább egy társaság vigyázzon az adataira, ahelyett, hogy kiszivárogtatná azokat.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
