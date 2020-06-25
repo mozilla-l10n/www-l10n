@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = 只要幾分鐘，即可從 { -brand-name-chrome } 切換到 { -brand-name-firefox }
+switch-switching-to-firefox-is-fast-updated = 切換到 { -brand-name-firefox } 很快、很簡單，而且沒有風險。{ -brand-name-firefox } 可自動從您的 { -brand-name-chrome } 匯入書籤、密碼、偏好設定等資料。
 switch-switching-to-firefox-is-fast = 切換到 { -brand-name-firefox } 很快、很簡單，而且沒有風險。{ -brand-name-firefox } 可自動從您的 { -brand-name-chrome } 匯入書籤、表單填寫資料、密碼、偏好設定等資料。
+switch-switching-to-firefox-page-description-updated = 切換到 { -brand-name-firefox } 很快、很簡單，而且沒有風險。{ -brand-name-firefox } 可自動從您的 { -brand-name-chrome } 匯入書籤、密碼、偏好設定等資料。
 switch-switching-to-firefox-page-description = 切換到 { -brand-name-firefox } 很快、很簡單，而且沒有風險。{ -brand-name-firefox } 可自動從您的 { -brand-name-chrome } 匯入書籤、表單填寫資料、密碼、偏好設定等資料。
 switch-select-what-to-take = 選擇要從 { -brand-name-chrome } 匯入哪些資料。
 switch-let-firefox-do-the-rest = 剩下就交給 { -brand-name-firefox }。

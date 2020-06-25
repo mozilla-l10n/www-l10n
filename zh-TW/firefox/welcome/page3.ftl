@@ -8,7 +8,8 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = 註冊能保護您隱私的免費帳號，加入 { -brand-name-firefox }。
 welcome-page3-no-account-required-but-you = 不必註冊帳號也能使用，但您可能會想要註冊。
-welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } 瀏覽器只會收集關於您很少的資料，甚至不需要輸入 E-Mail 信箱也能使用。但註冊 { -brand-name-firefox } 帳號後，我們就可以保護您上網時的隱私。
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } 瀏覽器只會收集關於您很少的資料，甚至不需要輸入 E-Mail 信箱也能使用。但註冊 { -brand-name-firefox-account } 後，我們就可以保護您上網時的隱私。
+welcome-page3-sign-in = 登入
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = 至少要有間會保護您資料的公司，而不是洩漏資料。
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
