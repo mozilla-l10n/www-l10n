@@ -62,11 +62,13 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Jeli maće { -brand-name-fir
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Blokuje so přez { $trackers } přesćěhowakow kóždy dźeń za wužiwarjow { -brand-name-firefox } na cyłym swěće
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Hdyž swoju e-mejlowu adresu w { -brand-name-firefox-monitor } zapodawaće, pytamy, hač je w znatych datowych dźěrach a zabudźemy ju hnydom zaso – chibazo awtorizujeće nas, so tež w nowych datowych dźěrach za wašimi wosobinskimi datami rozhladować.
 firefox-privacy-hub-check-for-breaches = Za dźěrami přepruwować
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Hesła a přizjewjenske daty, kotrež w { -brand-name-firefox-lockwise } składujeće, so na wšěch wašich gratach zaklučuja, samo my njemóžemy je widźeć.
 firefox-privacy-hub-learn-more-about-lockwise = Dalše informacije wo { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Njemóžemy mjena abo wobsah wulkich datajow, kotrež přez { -brand-name-firefox-send } dźěliće, dokelž su zaklučowane kónc do kónca – wy rozsudźeće, štó widźi, štož sćeleće, a móžeće samo datum spadnjenja a hesło nastajić.
 firefox-privacy-hub-send-a-file = Dataju pósłać
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstarać
