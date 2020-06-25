@@ -13,3 +13,6 @@ compare-brave-compare-brave-to-the-firefox = Emoñondive { -brand-name-brave } h
 compare-brave-comparing-firefox-browser = Emoñondive { -brand-name-firefox-browser } { -brand-name-brave } ndive
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Pe kundaháraicha avei { -brand-name-firefox }, kundahára { -brand-name-brave } ha’e reigua, ijayvu juruja ha omba’apóva omo’ã hag̃ua puruhára ñenigua. { -brand-name-brave } ipyahu gueteri kundaharaháicha arapýpe: imoheñoihára, pe software { -brand-name-brave }, ohechauka ñepyrũ jasyteĩ ary 2016 jave. Ko jehaipyrépe romoñendivéta ore { -brand-name-firefox } kundahára { -brand-name-brave } ndive mbohapyjey: hekoñemi, puruporã ha jeku’ekuaápe.
+# "Basic Attention Token" is a brand name.
+compare-brave-brave-also-recently-gained = { -brand-name-brave } avei og̃uahẽramo pe mba’ekuaarã ñembojuehekuaápe umi opopyvusu oku’éva ojekuaavévape, avei ombojuehekuaa umi tokens ojepurukuaáva.
+compare-brave-when-comparing-the-two-browsers = Ñamoñondivévo mokõivéva kundahára, péicha { -brand-name-firefox } ha avei { -brand-name-brave } ome’ẽkuaa ambuéva ñemigua ha tekorosã ijypykue rupi, eipurukuaáva eike ñepyrũete guive.
