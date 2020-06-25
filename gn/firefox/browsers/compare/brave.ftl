@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-name-brave }: ¿Máva pe kundahára iporãvéva ndéve g̃uarã?
+# HTML page description
+compare-brave-compare-brave-to-the-firefox = Emoñondive { -brand-name-brave } ha { -brand-name-firefox-browser } eikuaa hag̃ua mávapa pe kundahára oikovéva hekoñemi, puruporã ha jeku’ekuaápe.
 # Main title
 compare-brave-comparing-firefox-browser = Emoñondive { -brand-name-firefox-browser } { -brand-name-brave } ndive
