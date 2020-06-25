@@ -8,15 +8,15 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } térã { -brand-name-ie }: ¿máva pe kundahára oikoporãvéva?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Ore romoñondive Mozilla Firefox ha Opera roikuaa hag̃ua máva pe kundahára oikoporãvéva.
+compare-ie-compare-internet-explorer-to = Ore romoñondive { -brand-name-ie } ha { -brand-name-firefox-browser } roikuaa hag̃ua máva pe kundahára oikoporãvéva.
 # Main title
 compare-ie-comparing-firefox-browser-with = Romoñondive { -brand-name-firefox-browser } { -brand-name-microsoft } { -brand-name-ie } ndive
 compare-ie-while-microsofts-internet-explorer = Jahecháma { -brand-name-microsoft }’s { -brand-name-ie } mba’éva oumaha henyhẽmbyre opavave nunga mohendahápe { -brand-name-microsoft } ndive, péicha { -brand-name-microsoft } oipota eipuru ikundahára { -brand-name-edge }, oñembohekóva ijypykuérõ.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } ojoko { -brand-name-ie } jepuru aréma, kóva ome’ẽ ikundahára { -brand-name-edge }-pe hekopyahúva { -brand-name-windows } 10-pe. Upéicharõ jepe, ojepuru’ívo { -brand-name-edge } ome’ẽ pa’ũ { -brand-name-ie } ojepurumemejey hag̃ua, kóva hetave oiko ojokupytyve rupi ñemurãnguéra ndive.
-compare-ie-here-well-compare-our-firefox = Ko’ápe ñamoñondivéta { -brand-name-firefox } ha { -brand-name-ie } ndive tekorosã, ijepuru ha avei ijeku’ekuaápe. Roipytyvõta eikumbykuaa hag̃ua mba’eichitépa iñambue peteĩ kundahára ipyahúva { -brand-name-firefox } ichagua, oipurúva he’iháicha ñanduti, kundahára ikatúva oipuru tembiapohápe téra jepokuaaguirei.
+compare-ie-here-well-compare-our-firefox = Ko’ápe ñamoñondivéta { -brand-name-firefox-browser } ha { -brand-name-ie } ndive tekorosã, ijepuru ha avei ijeku’ekuaápe. Roipytyvõta eikumbykuaa hag̃ua mba’eichitépa iñambue peteĩ kundahára ipyahúva { -brand-name-firefox } ichagua, oipurúva he’iháicha ñanduti, kundahára ikatúva oipuru tembiapohápe téra jepokuaaguirei.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = Eipurúramo gueteri { -brand-name-ie }, tekorosã añoite ikatúma nemboguerovia ko’ãva rehegua. <a { $attrs }>Pe myakãhára Microsoft pegua he’imavoi</a> hetaiterei tapicha oipurúramo gueteri pe { -brand-name-ie } iñanduti kundahára tuichavévaramo ikatutaha ojehu chupekuéra “mba’evai”.
+compare-ie-if-you-havent-moved-on-from-using = Eipurúramo gueteri { -brand-name-ie }, tekorosã añoite ikatúma nemboguerovia ko’ãva rehegua. <a { $attrs }>{ -brand-name-microsoft }’s pe myakãhára Microsoft pegua he’imavoi</a> hetaiterei tapicha oipurúramo gueteri pe { -brand-name-ie } iñanduti kundahára tuichavévaramo ikatutaha ojehu chupekuéra “mba’evai”.
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } ohejáma { -brand-name-ie } ñemboguata, he’iséva ojehúva tenonderã umi apañuãi guasu tekorosã rehegua tuichaiterei. { -brand-name-microsoft } he’imavoi opa hendápe oñembyaikuaaha oimeraẽvaichagua apopyre { -brand-name-ie } rehegua.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics

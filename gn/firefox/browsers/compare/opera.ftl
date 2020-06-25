@@ -8,11 +8,11 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs { -brand-name-opera }: ¿máva pe kundahára oikoporãvéva?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Ore romoñondive Mozilla Firefox { -brand-name-opera } ndive roikuaa hag̃ua máva pe kundahára oikoporãvéva.
+compare-opera-compare-opera-to-the-firefox = Ore romoñondive { -brand-name-opera } ha { -brand-name-firefox-browser } ndive roikuaa hag̃ua máva kundahára oikoporãvéva.
 # Main title
 compare-opera-comparing-firefox-browser = Romoñondive { -brand-name-firefox-browser } { -brand-name-opera } ndive
 compare-opera-operas-privacy-policy-lacks-fallback = { -brand-name-opera } purureko ñemigua ndoguerekói ñehesa’ỹijo mba’eichaitegua marandu ombyaty ha mba’éichapa, peteĩva vorépe, he’i ombyatyha mba’ete jára réra, IP kundaharape ha jeheka purureko. Pe ha’etéva ojekuaaporã’ỹva ha nembopy’atytýiva ha’e pe vore mba’ekuaarã tetãambueguáva ñembohasa; noñemyesakãiva araka’épa, py’ỹingue ha mba’érepa oñekotevẽ mba’ekuaarã tetãambueguáva ñembohasa.
-compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox } ha { -brand-name-opera } ha’e mokõi ñepyrũguáva kundahára ha ko’ág̃a peve ombohekopyahu gueteri. Péicha { -brand-name-opera } ndohupytýi puruhára hetakue { -brand-name-firefox } térã { -brand-name-google } { -brand-name-chrome }-pe, upéicharamo jepe oguereko heta tapicha oipurúva ha heta árama ha are guivéma. Ko jehechajeýpe, romoñondivéta pe kundahára { -brand-name-opera } ore kundahára { -brand-name-firefox } ndive tekorosã ha ñemiguápe, ijepuru ha ijeku’ekuaápe nepytyvõ hag̃ua eiporavokuévo mba’ete kundahárapa pe iporãvéva ndéve g̃uarã.
+compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox-browser } ha { -brand-name-opera } ha’e mokõi ñepyrũguáva kundahára ha ko’ág̃a peve ombohekopyahu gueteri. Péicha { -brand-name-opera } ndohupytýi puruhára hetakue { -brand-name-firefox } térã { -brand-name-google } { -brand-name-chrome }-pe, upéicharamo jepe oguereko heta tapicha oipurúva ha heta árama ha are guivéma. Ko jehechajeýpe, romoñondivéta pe kundahára { -brand-name-opera } ore kundahára { -brand-name-firefox } ndive tekorosã ha ñemiguápe, ijepuru ha ijeku’ekuaápe nepytyvõ hag̃ua eiporavokuévo mba’ete kundahárapa pe iporãvéva ndéve g̃uarã.
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = Ko <a { $attrs }>temiñemi purureko</a> { -brand-name-firefox } mba’éva hesakã ohechaukávo umi marandu mba’etéva pe ohupytyséva tenondeve ha’éva pe marandu emoherakuãva ñandutípe jehechameme.
