@@ -11,3 +11,5 @@ compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-n
 compare-brave-compare-brave-to-the-firefox = Emoñondive { -brand-name-brave } ha { -brand-name-firefox-browser } eikuaa hag̃ua mávapa pe kundahára oikovéva hekoñemi, puruporã ha jeku’ekuaápe.
 # Main title
 compare-brave-comparing-firefox-browser = Emoñondive { -brand-name-firefox-browser } { -brand-name-brave } ndive
+# "Brave Software" is a brand name.
+compare-brave-just-like-the-firefox-browser = Pe kundaháraicha avei { -brand-name-firefox }, kundahára { -brand-name-brave } ha’e reigua, ijayvu juruja ha omba’apóva omo’ã hag̃ua puruhára ñenigua. { -brand-name-brave } ipyahu gueteri kundaharaháicha arapýpe: imoheñoihára, pe software { -brand-name-brave }, ohechauka ñepyrũ jasyteĩ ary 2016 jave. Ko jehaipyrépe romoñendivéta ore { -brand-name-firefox } kundahára { -brand-name-brave } ndive mbohapyjey: hekoñemi, puruporã ha jeku’ekuaápe.
