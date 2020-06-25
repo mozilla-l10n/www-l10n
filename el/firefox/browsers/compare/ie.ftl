@@ -8,4 +8,4 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
 # Main title
-compare-ie-comparing-firefox-browser-with = Σύγκριση του Firefox με το { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-microsoft } { -brand-name-ie }

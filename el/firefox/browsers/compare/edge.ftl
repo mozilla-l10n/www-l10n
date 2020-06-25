@@ -8,4 +8,4 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vs. { -brand-name-microsoft } { -brand-name-edge }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
 # Main title.
-compare-edge-comparing-firefox-browser-with = Σύγκριση του Firefox με το { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-microsoft } { -brand-name-edge }

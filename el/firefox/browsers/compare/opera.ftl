@@ -8,4 +8,4 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs. { -brand-name-opera }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
 # Main title
-compare-opera-comparing-firefox-browser = Σύγκριση του Firefox με το { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-opera }

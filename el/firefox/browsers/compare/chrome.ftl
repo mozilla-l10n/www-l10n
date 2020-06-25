@@ -8,4 +8,4 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: Ποιο είναι καλύτερο;
 # Main title.
-compare-chrome-comparing-firefox-browser = Σύγκριση του Firefox με το Google Chrome
+compare-chrome-comparing-firefox-browser = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-google } { -brand-name-chrome }

@@ -8,4 +8,4 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand-name-safari }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
 # Main title.
-compare-safari-comparing-firefox-browser = Σύγκριση του Firefox με το Apple Safari
+compare-safari-comparing-firefox-browser = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-apple } { -brand-name-safari }
