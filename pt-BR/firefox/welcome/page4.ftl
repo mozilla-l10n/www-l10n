@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Instale o Navegador Firefox em seu celular { -brand-name-ios } ou { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Instale o { -brand-name-firefox-browser } em seu celular { -brand-name-ios } ou { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Carteira. Chaves. Celular. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Leve a privacidade com você em qualquer dispositivo - e deixe os rastreadores de dados para trás.
 welcome-page4-get-the-firefox-app = Instale o { -brand-name-firefox } no celular
