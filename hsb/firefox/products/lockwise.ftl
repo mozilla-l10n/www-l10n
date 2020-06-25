@@ -7,6 +7,8 @@
 
 # HTML page title
 lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — zrjadowak hesłow — hesła wšudźe sobu wzać
+# HTML page description
+lockwise-firefox-lockwise-lets-you = { -brand-name-firefox-lockwise } wam wěsty přistup k hesłam zmóžnja, kotrež sće w { -brand-name-firefox } něhdźe składował – samo zwonka wobhladowaka. Podpěruje 256-bitowe zaklučowanje a Face/Touch ID.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Wzmiće swoje hesła wšudźe sobu
 lockwise-securely-access-the-passwords = Mějće wšudźe wěsty přistup k hesłam, kotrež sće w { -brand-name-firefox } składował – samo zwonka wobhladowaka.

@@ -74,6 +74,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } nastawki wysokeje kwality doporuča, kotrež ludźo hladaja, bjeztoho zo by wašu přehladowansku historiju zwěsćił abo waše wosobinske informacije z wabjerjemi dźělił.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstarać
 firefox-privacy-hub-your-firefox-account = Waše { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Wšě informacije, kotrež so z wašim { -brand-name-firefox-account } synchronizuja – wot wobhladowaka do hesłow – su zaklučowane. A hesło wašeho konta je jenički kluč.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Wzmiće swoju priwatnosć a zapołožki z { -brand-name-firefox-account } wšudźe sobu.
 # Variables:
 #   $signin (string) - anchor link url and attributes
