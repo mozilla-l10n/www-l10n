@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Töltse le a Firefox böngészőt a mobiljára { -brand-name-ios }-en és { -brand-name-android }on
+welcome-page4-download-the-firefox-browser = Töltse le a { -brand-name-firefox-browser }t a mobiljára { -brand-name-ios }-en és { -brand-name-android }on
 welcome-page4-wallet-keys-phone-firefox = Pénztárca. Kulcsok. Telefon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Vigye magával az adatvédelmet minden eszközén – és hagyja le a nyomkövetőket.
 welcome-page4-get-the-firefox-app = Szerezze be a { -brand-name-firefox } alkalmazást
