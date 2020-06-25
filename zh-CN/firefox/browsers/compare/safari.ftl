@@ -8,7 +8,7 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } 与 { -brand-name-safari }：哪款浏览器更适合您？
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } 是 { -brand-name-mac } 和 { -brand-name-iphone } 上的预装浏览器。比较 { -brand-name-safari } 和 { -brand-name-firefox-browser } 浏览器，以确定哪款浏览器更适合您。
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } 是 { -brand-name-mac } 和 { -brand-name-iphone } 上的预装浏览器。比较 { -brand-name-safari } 和 { -brand-name-firefox-browser }，以确定哪款浏览器更适合您。
 # Main title.
 compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser }与 { -brand-name-apple } { -brand-name-safari } 之间的比较
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".

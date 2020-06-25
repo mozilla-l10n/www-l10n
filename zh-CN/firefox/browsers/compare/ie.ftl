@@ -13,7 +13,7 @@ compare-ie-compare-internet-explorer-to = 将 { -brand-name-ie } 与 { -brand-na
 compare-ie-comparing-firefox-browser-with = { -brand-name-firefox-browser }与 { -brand-name-microsoft } { -brand-name-ie } 的比较
 compare-ie-while-microsofts-internet-explorer = 尽管大多数 Windows 系统 PC 上仍预装了 { -brand-name-microsoft } { -brand-name-ie }，但显然 { -brand-name-microsoft } 更希望您使用其 { -brand-name-edge } 浏览器，该浏览器在出厂时被设置为默认浏览器。
 compare-ie-microsoft-discontinued-its-internet = 几年前，{ -brand-name-microsoft } 终止了其 { -brand-name-ie } 品牌，取而代之的是现代化的 { -brand-name-windows } 10 { -brand-name-edge } 浏览器。然而，由于业务兼容性的原因，{ -brand-name-edge } 的缓慢推进为 { -brand-name-ie } 留下了生存空间。
-compare-ie-here-well-compare-our-firefox = 在此，我们将 { -brand-name-firefox-browser } 浏览器与 { -brand-name-ie } 在安全、实用、跨平台方面进行比较。帮助您了解像 { -brand-name-firefox } 这样的遵循 Web 标准的现代浏览器，与为了商业目的或因历史原因不得不用的浏览器之间有什么区别。
+compare-ie-here-well-compare-our-firefox = 在此，我们将 { -brand-name-firefox-browser }与 { -brand-name-ie } 在安全、实用、跨平台方面进行比较。帮助您了解像 { -brand-name-firefox } 这样的遵循 Web 标准的现代浏览器，与为了商业目的或因历史原因不得不用的浏览器之间有什么区别。
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
 compare-ie-if-you-havent-moved-on-from-using = 如果您还没有停止使用 { -brand-name-ie }，那么仅凭安全风险因素就足以说服您。<a { $attrs }>{ -brand-name-microsoft } 安全主管警告称</a>，数百万继续使用 { -brand-name-ie } 作为默认浏览器的用户，正处于“危险之中”。
