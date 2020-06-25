@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Last ned Firefox-nettlesaren på mobilen din for { -brand-name-ios } og { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Last ned { -brand-name-firefox-browser }en på mobilen din for { -brand-name-ios } og { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Lommebok. Nøklar. Telefon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Ta personvernet med deg på alle einingane dine — og la datasporfølgjarane vere att.
 welcome-page4-get-the-firefox-app = Hent { -brand-name-firefox }-appen
