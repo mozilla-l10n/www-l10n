@@ -71,8 +71,10 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Njamóžomy mjenja abo wopśimjeśe wjelikich datajow, kótarež pśez { -brand-name-firefox-send } źěliśo, dokulaž su skoděrowane kóńc do kóńca – wy rozsuźujośo, chto wiźi, což sćelośo, a móžośo samo datum spadnjenja a gronidło nastajiś.
 firefox-privacy-hub-send-a-file = Dataju pósłaś
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } nastawki wusokeje kwality dopórucujo, kótarež luźe wótwarduju, bźeztogo aby wašu pśeglědowańsku historiju zwěsćił abo waše wósobinske informacije z wabjarjami źělił.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstaraś
 firefox-privacy-hub-your-firefox-account = Wašo { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Wšykne informacije, kótarež se z wašym { -brand-name-firefox-account } synchronizěruju – wót wobglědowaka do gronidłow – su skoděrowane. A gronidło wašogo konta jo jadnučki kluc.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Wzejśo swóju priwatnosć a cytańske znamjenja z { -brand-name-firefox-account } wšuźi sobu.
 # Variables:
 #   $signin (string) - anchor link url and attributes
