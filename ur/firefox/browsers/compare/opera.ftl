@@ -7,13 +7,6 @@
 
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-opera }: آپ کے لئے بہتر براؤزر کونسا ہے؟
-# HTML page description
-compare-opera-compare-opera-to-the-firefox = { -brand-name-opera } کا موازنہ Firefox براؤزر سے کریں تاکہ معلوم کیا جا سکے کہ آپ کے لئے کون سا بہتر براؤزر ہے۔
-# Main title
-compare-opera-comparing-firefox-browser = Firefox  براؤزر کا { -brand-name-opera } سے موازنہ کرنا
-# Variables:
-#   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
-compare-opera-theres-no-debate-that-opera = اس میں کوئی بحث نہیں ہے کہ { -brand-name-opera } ایک فیچر سے بھر پور براؤزر ہے جس میں صاف صارف انٹرفیس اور حسب ضرورت مضبوط اختیارات ہیں۔ چونکہ { -brand-name-opera }  کرومیم پر بنایا گیا ہے ، لہذا یہ { -brand-name-google } { -brand-name-chrome }کی بیشتر وسیع ایکسٹینشن لائبریری سے فائدہ اٹھا سکتا ہے۔ { -brand-name-firefox }میں ایک بڑی <a { $attrs }> براؤز کرنے کے لئے ایکسٹینشن لائبریری </a> بھی موجود ہے ، لیکن یہ کروم جتنی بڑی نہیں ہے۔
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 # "Facebook Messenger" is a brand name.

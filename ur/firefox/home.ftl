@@ -17,6 +17,7 @@ firefox-home-get-the-respect-you = <strong>عزت</strong> حاصل کریں ج�
 firefox-home-share-large-files-without = بڑی فائلوں کو کھوجی آنکھوں کے دیکھے بغیر شیئر کریں
 firefox-home-start-sending-files = مسلوں کو بحفاظت بھیجنا شروع کریں
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } کہ بارے میں مزید سیکھیں
+firefox-home-join-firefox = { -brand-name-firefox } میں شامل ہوں
 firefox-home-learn-more-about-joining = { -brand-name-firefox } میں شامل ہونے کے متعلق مزید سیکھیں
 firefox-home-get-the-browser-extension = براؤزر کی ایکسٹینشن حاصل کریں
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ایکسٹینشن حاصل کریں

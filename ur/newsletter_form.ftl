@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = برائے مہربانی سہی ای میل ایڈریس ڈالیں
+newsletter-form-your-email-address = آپ کا ای میل ایڈریس
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = ملک یا خطے کا انتخاب کریں
 newsletter-form-your-email-here = آپ کی ای میل ادھر آئے گی
 newsletter-form-format = وضع
 newsletter-form-html = HTML
