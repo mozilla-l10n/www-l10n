@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Skaffa ett gratis konto som skyddar din integritet. Bli en del av { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Inget konto krävs. Men du kan vilja skaffa ett.
 welcome-page3-the-firefox-browser-collects = Webbläsaren { -brand-name-firefox } samlar in så lite data som möjligt om dig, vi behöver inte ens din e-postadress. Men när du använder den för att skapa ett { -brand-name-firefox }-konto kan vi skydda din integritet på alla våra produkter.
+welcome-page3-sign-in = Logga in
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Låt minst ett företag skydda dina data istället för att avslöja dem.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
