@@ -7,6 +7,8 @@
 
 # HTML page title
 lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } – zastojnik gronidłow — gronidła wšuźi sobu wześ
+# HTML page description
+lockwise-firefox-lockwise-lets-you = { -brand-name-firefox-lockwise } wam wěsty pśistup ku gronidłam zmóžnja, kótarež sćo něźi składł w { -brand-name-firefox } – samo zwenka wobglědowaka. Pódpěra 256-bitowe skoděrowanje a Face/Touch ID.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Wzejśo swóje gronidła wšuźi sobu
 lockwise-securely-access-the-passwords = Mějśo wšuźi wěsty pśistup ku gronidłam, kótarež sćo składł w { -brand-name-firefox } – samo zwenka wobglědowaka.
