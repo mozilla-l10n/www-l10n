@@ -1,0 +1,27 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/welcome/4/
+
+# HTML page title
+welcome-page4-download-the-firefox-browser = Pobierz przeglądarkę Firefox na telefon z { -brand-name-ios } i { -brand-name-android }em
+welcome-page4-wallet-keys-phone-firefox = Portfel. Klucze. Telefon. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-take-privacy-with-you-on-every = Ciesz się prywatnością na każdym urządzeniu — i pożegnaj się z elementami śledzącymi.
+welcome-page4-get-the-firefox-app = Pobierz Firefoksa
+welcome-page4-get-firefox-on-your-phone = Pobierz Firefoksa na telefon
+welcome-page4-send-the-download-link-right = Wyślij odnośnik do pobrania na swój telefon lub e-mail.
+welcome-page4-download-firefox-for-your = Pobierz Firefoksa na telefon i tablet.
+welcome-page4-firefox-private-safe-browser = „{ -brand-name-firefox }: szybka i prywatna przeglądarka” na { -brand-name-ios } i { -brand-name-android }zie.
+# "off your trail" is an expression for not being followed around.
+welcome-page4-get-data-trackers-off-your = Zmyl tropicieli
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+welcome-page4-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem <a href="{ $privacy }">blokuje ponad 2000 elementów</a> próbujących prześladować Cię w sieci.
+# "Leave no trace" is an expression for leaving nothing behind.
+welcome-page4-leave-no-trace = Nie zostawiaj śladów
+welcome-page4-automatically-clear-your-history = Automatycznie usuwaj historię i ciasteczka za pomocą trybu prywatnego.
+welcome-page4-take-it-all-with-you = Miej wszystko przy sobie
+welcome-page4-dont-walk-out-the-door-without = Nie wychodź z domu bez swoich zakładek, kart, notatek i haseł.
+welcome-page4-why-am-i-seeing-this = Dlaczego to widzę?
