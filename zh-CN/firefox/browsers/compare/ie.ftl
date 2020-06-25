@@ -36,7 +36,7 @@ compare-ie-on-the-other-end-of-the-spectrum-fallback = 另一方面，{ -brand-n
 # "sunset" here means Microsoft is officially ending production of Internet Explorer. Alternative: "retire"
 compare-ie-as-microsoft-has-made-the-move = 由于 { -brand-name-microsoft } 已淘汰 { -brand-name-ie } 浏览器，因此它不再支持 { -brand-name-ios } 的任何版本，也不会支持 { -brand-name-android }。这意味着，除非您运行的是 Windows 系统笔记本电脑或台式机，否则您将无法访问书签、浏览历史、保存的密码以及其他现代浏览器在设备之间同步的信息。
 compare-ie-firefox-works-on-any-platform = { -brand-name-firefox } 能够在任何平台上运行，包括 { -brand-name-windows }、{ -brand-name-mac }、{ -brand-name-linux }、{ -brand-name-android } 和 { -brand-name-ios }。这也意味着您可以跨平台同步所有信息。因此，若您在 { -brand-name-windows } 系统笔记本电脑上进行浏览，则可在 { -brand-name-iphone } 或 { -brand-name-android } 设备上无缝浏览。这种便利性应该成为任何现代 Web 浏览器的标配，但 { -brand-name-ie } 却极度缺乏。
-compare-ie-there-was-a-time-not-so-long = 许久前，{ -brand-name-ie } 是世界上最流行、应用最广泛的浏览器。但时代变了，技术也变了，但不幸的是，{ -brand-name-ie } 却几乎没有变。{ -brand-name-microsoft } 自己也公开恳求用户停止使用 { -brand-name-ie }，转而使用新的 { -brand-name-chromium } 内核 { -brand-name-edge } 浏览器。
+compare-ie-there-was-a-time-not-so-long = 许久前，{ -brand-name-ie } 是世界上最流行、应用最广泛的浏览器。时代变了，技术也变了，但不幸的是，{ -brand-name-ie } 却几乎没有变。{ -brand-name-microsoft } 自己也公开恳求用户停止使用 { -brand-name-ie }，转而使用新的 { -brand-name-chromium } 内核 { -brand-name-edge } 浏览器。
 # Variables:
 #   $attrs (string) - link to /firefox/download/thanks/ with additional attributes for analytics
 # "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.

@@ -15,6 +15,9 @@ compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } 与 {
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = 有大量的 { -brand-name-firefox } 忠实用户感谢我们对保护网络隐私所做的贡献。例如，最新版 { -brand-name-firefox } 包含一个称为“增强型追踪保护（ETP）”的功能，默认为全球所有用户开启。ETP 会拦截超过 2000 种跟踪器，其中包括 { -brand-name-facebook }、{ -brand-name-twitter }、LinkedIn 等网站的社交媒体跟踪器。还整合了一个名为 <a { $attrs }>{ -brand-name-firefox-monitor }</a> 的功能，可在网站密码外泄或需要更新时自动通知您。除了这些保护，{ -brand-name-firefox } 的隐私浏览模式也会自动清除浏览历史、Cookie 等信息，让上网不留痕迹。
 # Variables:
+#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+compare-chrome-at-firefox-we-have-a-huge-fallback = 有大量的 { -brand-name-firefox } 忠实用户感谢我们对保护网络隐私所做的贡献。例如，最新版 { -brand-name-firefox } 包含一个称为“增强型追踪保护（ETP）”的功能，默认为全球所有用户开启。ETP 会拦截超过 2000 种跟踪器，其中包括 { -brand-name-facebook }、{ -brand-name-twitter }、LinkedIn 等网站的社交媒体跟踪器。还整合了一个名为 <a { $attrs }>{ -brand-name-firefox-monitor }</a> 的功能，可在网站密码外泄或需要更新时自动通知您。除了这些保护，{ -brand-name-firefox } 的隐私浏览模式也会自动清除浏览历史、Cookie 等信息，让上网不留痕迹。
+# Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = 我们最近还在最新的<a { $attrs }>隐私声明</a>中重申了我们对用户数据保密和透明的承诺，其中指出：“在 Mozilla，我们认为隐私对于健康的互联网至关重要。”
 compare-chrome-google-chrome-is-by-all-accounts = 总体来说，{ -brand-name-google } { -brand-name-chrome } 是一款安全的浏览器。通过诸如 { -brand-name-google } Safe Browsing 等功能，若用户尝试前往危险站点或下载危险文件，则会显示无法忽视的警告来帮助保护用户。
