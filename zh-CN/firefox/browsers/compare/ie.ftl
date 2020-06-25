@@ -19,6 +19,9 @@ compare-ie-here-well-compare-our-firefox = 在此，我们将 { -brand-name-fire
 compare-ie-if-you-havent-moved-on-from-using = 如果您还没有停止使用 { -brand-name-ie }，那么仅凭安全风险因素就足以说服您。<a { $attrs }>{ -brand-name-microsoft } 安全主管警告称</a>，数百万继续使用 { -brand-name-ie } 作为默认浏览器的用户，正处于“危险之中”。
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } 早已停止对 { -brand-name-ie } 的开发支持，这意味将出现大量安全问题。 { -brand-name-microsoft } 曾公开承认，几乎每个版本的 { -brand-name-ie } 都存在漏洞。
 # Variables:
+#   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
+compare-ie-so-whats-the-solution-if-your = 那么，如果您的公司运行只是在 Internet Explorer 上运行过时的应用程序，有什么好的解决方案呢？我们的最佳建议是：不要把工作和娱乐混为一谈。我们强烈推荐您安装适用于 { -brand-name-windows } 的<a { $attrs }>旧版浏览器支持扩展</a>。通过该扩展，用户可以自动在 { -brand-name-ie } 中打开一组预定义的 URL，并在导航到其他域名时切换回 { -brand-name-firefox }。
+# Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $privacy (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-ie-so-whats-the-solution-if-your-fallback = 那么，如果您的公司运行只是在 { -brand-name-ie } 上运行过时的应用程序/软件，有什么好的解决方案呢？我们为您个人提供的最佳建议是：不要把工作和娱乐混为一谈。简而言之就是，下载并使用像 { -brand-name-firefox } 这样更安全的浏览器。然后，当您需要检查自己的个人邮件或网上购物时，便可以切换到更安全的浏览器。最重要的是，若 { -brand-name-microsoft } 警告人们不要使用 { -brand-name-ie }，就请不要使用它。即使您（或您的公司）很难摆脱一些历史遗留问题，但您的网络隐私和安全去不值得拿去冒险。我们的 { -brand-name-firefox } 拥有诸多安全和隐私功能，如我们的 <a { $lockwise }>{ -brand-name-lockwise }</a> 密码管理器 、隐私浏览和其他很多让您的网络浏览更安全的附加组件。此外，我们的<a { $privacy }>隐私政策</a>很直白：我们告诉您我们了解您什么，以及我们收集这些信息的原因。所有的这些显然都超出了 { -brand-name-ie } 所提供的功能，甚至也超过了 { -brand-name-google } { -brand-name-chrome } 和 { -brand-name-microsoft } { -brand-name-edge } 等其他现代浏览器所能提供的。
