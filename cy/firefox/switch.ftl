@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Newidiwch o { -brand-name-chrome } i { -brand-name-firefox } mewn ychydig funudau
+switch-switching-to-firefox-is-fast-updated = Mae newid i { -brand-name-firefox } yn sydyn, hawdd a diogel, bydd { -brand-name-firefox } yn mewnforio eich nodau tudalen, awto lenwi, cyfrineiriau a dewisiadau o { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Mae newid o { -brand-name-firefox } yn sydyn, hawdd a diogel, bydd { -brand-name-firefox } yn mewnforio eich nodau tudalen, awto lenwi, cyfrineiriau a dewisiadau o { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Mae newid i { -brand-name-firefox } yn sydyn, hawdd a diogel, bydd { -brand-name-firefox } yn mewnforio eich nodau tudalen, awto lenwi, cyfrineiriau a dewisiadau o { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Mae newid o { -brand-name-firefox } yn sydyn, hawdd a diogel. Bydd { -brand-name-firefox } yn mewnforio eich nodau tudalen, awto lenwi, cyfrineiriau a dewisiadau o { -brand-name-chrome }.
 switch-select-what-to-take = Dewis beth i'w gymryd o { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Gadewch i { -brand-name-firefox } wneud y gweddill.

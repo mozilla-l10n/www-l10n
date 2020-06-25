@@ -17,6 +17,7 @@ newsletter-form-get-firefox-news = Derbyn newyddion { -brand-name-firefox }
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Rwy'n fodlon i { -brand-name-mozilla } drin fy manylion fel mae'n cael ei esbonio yn y <a href="{ $url }">Datganiad Preifatrwydd hwn</a>
 newsletter-form-we-will-only-send = Dim ond gwybodaeth am { -brand-name-mozilla } fyddwn ni'n anfon atoch.
+newsletter-form-we-will-only-send-firefox = Dim ond gwybodaeth am { -brand-name-mozilla } fyddwn ni'n anfon atoch.
 newsletter-form-if-you-havent-previously = Os nad ydych eisoes wedi cadarnhau tanysgrifiad i gylchlythyr y perthyn i { -brand-name-mozilla }, rhaid i chi wneud hynny nawr. Gwiriwch eich blwch i mewn neu eich hidl sbam am e-bost gennym ni.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Chi
 newsletter-form-get-firefox-tips = Cewch gynghorion, triciau, newyddion{ -brand-name-firefox } a rhagor

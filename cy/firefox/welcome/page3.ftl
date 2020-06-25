@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Mynnwch y cyfrif am ddim sy'n amddiffyn eich preifatrwydd. Ymunwch â { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Does dim rhaid cael cyfrif. Ond efallai y byddwch chi eisiau un.
 welcome-page3-the-firefox-browser-collects = Mae porwr { -brand-name-firefox } yn casglu cyn lleied o ddata amdanoch chi, nid ydym hyd yn oed angen eich cyfeiriad e-bost. Ond pan fyddwch chi'n ei ddefnyddio i greu cyfrif { -brand-name-firefox }, gallwn ddiogelu eich preifatrwydd ar draws mwy o'ch bywyd ar-lein.
+welcome-page3-sign-in = Mewngofnodi
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Sicrhewch fod o leiaf un cwmni'n gofalu am eich data, yn lle ei ollwng.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
