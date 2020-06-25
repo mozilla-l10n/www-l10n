@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = { -brand-name-android } के लि�
 download-button-firefox-android = { -brand-name-android } के लिए <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } के लिए <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } गोपनीयता
+download-button-firefox-privacy-notice = { -brand-name-firefox } गोपनीयता सूचना
 download-button-download = डाउनलोड करें
