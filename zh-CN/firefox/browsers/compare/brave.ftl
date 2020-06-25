@@ -22,6 +22,9 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } 与其他 { -b
 # "Basic Attention Token" and "BAT" are brand names. "a.k.a." is an abbreviation of "also known as".
 compare-brave-the-internet-as-a-whole-is = 整个互联网很大程度上是通过展示广告来获利的，这使得你想看的内容是免费的。{ -brand-name-brave } 试图通过鼓励用户选择使用 { -brand-name-brave } 自己的奖励系统（实际上是它自己的广告平台）来颠覆这种模式。用户开启此选项后后，{ -brand-name-brave } 将显示他们的所谓“尊重隐私的广告”，您可以查看这些广告并获取他们称为 BAT 的基本注意力代币。如上所述，{ -brand-name-brave } 用户可以选择将 BAT 用于支持他们喜欢的网站或个人贡献者，而网站或贡献者又可以将 BAT 兑换为真金白银。
 compare-brave-whether-this-sounds-complicated = 这听起来有点复杂，又或许是个好主意，可能取决于您对在互联网上展示广告的容忍程度。大多数互联网用户都知道，优质内容是需要付费的，而且他们也理解通过广告获利的行为。
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+compare-brave-on-the-other-side-of-the-coin = 另一方面，对于 { -brand-name-firefox } 浏览器，我们偏向将事情简单化。  { -brand-name-firefox } 默认会阻止许多第三方跟踪器、挖矿程序和指纹跟踪器。不在“隐私浏览模式”时，{ -brand-name-firefox } 不会阻止广告的展示。就是这么简单，除非您安装了 <a { $attrs }>一款广告屏蔽扩展</a>。
 # "Basic Attention Token" is a brand name.
 compare-brave-the-bottom-line-is-that-even = 最关键的是，尽管 { -brand-name-brave } 的 BAT 收入模型对于许多用户而言可能过于复杂，但总体来看  { -brand-name-brave } 和 { -brand-name-firefox } 浏览器还是都为用户享有安全私密的浏览体验提供了多种方法。
 compare-brave-what-might-surprise-some-new = 可能让一些 { -brand-name-brave } 新用户惊喜的是，其浏览器页面加载很快。加载快的原因是，当所有广告被屏蔽时，页面加载速度就会更快。加载较少的内容，当然所需的时间更少。
