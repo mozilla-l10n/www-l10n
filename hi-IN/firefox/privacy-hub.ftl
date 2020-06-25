@@ -9,4 +9,12 @@
 firefox-privacy-privacy = गोपनीयता
 # Sub navigation link
 firefox-privacy-our-promise = हमारा वादा
+firefox-privacy-hub-learn-more-about-our-mission = हमारे मिशन के बारे में अधिक जानें
 firefox-privacy-hub-learn-about-our-products = हमारे उत्पादों के बारे में जानें
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } हर उत्पाद में आपकी गोपनीयता की रक्षा करता है।
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } हर उत्पाद में आपकी गोपनीयता की <strong>रक्षा</strong> करता है।
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = उन्नत ट्रैकिंग सुरक्षा पाएं
+firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } ब्राउज़र डाउनलोड करें
+firefox-privacy-hub-update-your-firefox-browser = अपना { -brand-name-firefox } ब्राउज़र अपडेट करें
