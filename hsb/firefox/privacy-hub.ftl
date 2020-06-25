@@ -44,6 +44,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } waš
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } wašu priwatnosć w kóždym produkće <strong>škita</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Přez 2.000 přesćěhowakow zablokowane – awtomatisce
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Slědowanje online je nětko epidemija: Předewzaća kóždemu pohibej slěduja a hromadźa daty, zo bychu předpowědźili a wobwliwowali, štož budźeće jako přichodne činić. Myslimy sej, zo to je ćežke zranjenje wašeje priwatnosće. Tohodla je polěpšeny slědowanski škit za wobhladowaki { -brand-name-firefox } na mobilnych gratach a desktopje po standardźe zaktiwizowany.
 firefox-privacy-hub-if-you-want-to-see-what = Jeli chceće widźeć, štož { -brand-name-firefox } za was blokuje, wopytajće tutu stronu na swojim desktopowym wobhladowaku { -brand-name-firefox }.
 firefox-privacy-hub-see-what-firefox-has-blocked = Hladajće, štož { -brand-name-firefox } za was blokuje
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
