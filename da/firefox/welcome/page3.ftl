@@ -8,7 +8,8 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Få en gratis konto, der beskytter dit privatliv. Slut dig til { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = En konto er ikke påkrævet. Men måske vil du have en alligevel.
-welcome-page3-the-firefox-browser-collects = { -brand-name-firefox }-browseren indsamler så lidt data om dig, at vi ikke engang beder om din mailadresse. Men hvis du bruger din mailadresse til at oprette en { -brand-name-firefox }-konto, så kan vi beskytte dit privatliv for en større del af dit liv online.
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox }-browseren indsamler så lidt data om dig, at vi ikke engang beder om din mailadresse. Men hvis du bruger din mailadresse til at oprette en { -brand-name-firefox-account }, så kan vi beskytte dit privatliv for en større del af dit liv online.
+welcome-page3-sign-in = Log ind
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Få mindst én virksomhed til at passe på dine data fremfor at lække dem.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
