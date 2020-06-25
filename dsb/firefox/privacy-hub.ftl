@@ -30,7 +30,7 @@ firefox-privacy-hub-youll-always-know-where-you = Buźośo pśecej wěźeś, na 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Namamy žedne schowane wótglědy. Naš wobchod wót togo njewótwisujo, wašu dowěru znjewužywaś. Našo <a href="{ $privacy }">wuzjawjenje wó škiśe datow</a> jo napšawdu cytajobna. Kuždy na swěśe móžo se na našych <a href="{ $meetings }">tyźeńskich pśedewześaŕskich zmakanjach</a> wobźěliś. A jolic cośo se do datow macnuś, kótarež gromaźimy – naš kod jo zjawny. Ako my teke.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Namamy žedne schowane wótglědy. Naš wobchod wót togo njewótwisujo, wašu dowěru znjewužywaś. Našo <a href="{ $privacy }">wuzjawjenje wó šćiśe datow</a> jo napšawdu cytajobna. Kuždy na swěśe móžo se na našych <a href="{ $meetings }">tyźeńskich pśedewześaŕskich zmakanjach</a> wobźěliś. A jolic cośo se do datow macnuś, kótarež gromaźimy – naš kod jo zjawny. Ako my teke.
 firefox-privacy-hub-why-trust-firefox = Cogodla { -brand-name-firefox } dowěriś?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -44,6 +44,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } waš
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } wašu priwatnosć w kuždem produkśe <strong>šćita</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Wušej 2.000 pśeslědowakow zablokěrowane – awtomatiski
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Slědowanje online jo něnto epidemija: Pśedewześa kuždemu pógiboju slěduju a gromaźe daty, aby pśedpowěźeli a wobwliwowali, což buźośo ako psiduce cyniś. Myslimy se, až to jo śěžke pśekśiwjenje wašeje priwatnosći. Togodla jo pólěpšony slědowański šćit za wobglědowaki { -brand-name-firefox } na mobilnych rědach a desktopje pó standarźe zaktiwěrowany.
 firefox-privacy-hub-if-you-want-to-see-what = Jolic cośo wiźeś, což { -brand-name-firefox } za was blokěruoe, woglědajśo se k toś tomu bokoju na swójom desktopowem wobglědowaku { -brand-name-firefox }.
 firefox-privacy-hub-see-what-firefox-has-blocked = Glědajśo, což { -brand-name-firefox } za was blokěrujo
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -60,11 +62,13 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Jolic maśo { -brand-name-fi
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Blokěrujo se pśez { $trackers } pśeslědowakow kuždy źeń za wužywarje { -brand-name-firefox } na cełem swěśe
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Gaž swóju e-mailowu adresu w { -brand-name-firefox-monitor } zapódawaśo, pytamy, lěc jo w znatych datowych źěrach a zabydnjośo ju ned zasej – snaźkuli awtorizěrujośo nas, se teke w nowych datowych źěrach za wašymi wósobinskimi datami rozglědowaś.
 firefox-privacy-hub-check-for-breaches = Za źěrami pytaś
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Gronidła a pśizjawjeńske daty, kótarež w { -brand-name-firefox-lockwise } składujośo, se na wšych wašych rědach koděruju, samo my njamóžomy je wiźeś.
 firefox-privacy-hub-learn-more-about-lockwise = Dalšne informacije wó { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Njamóžomy mjenja abo wopśimjeśe wjelikich datajow, kótarež pśez { -brand-name-firefox-send } źěliśo, dokulaž su skoděrowane kóńc do kóńca – wy rozsuźujośo, chto wiźi, což sćelośo, a móžośo samo datum spadnjenja a gronidło nastajiś.
 firefox-privacy-hub-send-a-file = Dataju pósłaś
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstaraś
@@ -77,4 +81,4 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Wzejśo swóju priwatnosć
 firefox-privacy-hub-already-have-an-account = Maśo južo konto? <a { $sign_in } class="{ $class_name }">Pśizjawśo se</a> abo <a href="{ $learn_more }">góńśo wěcej</a> wó wužywanju { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-read-the-privacy-notice-for = Cytajśo <a href="{ $url }">wuzjawjenje wó škiśe datow</a> za naše produkty
+firefox-privacy-hub-read-the-privacy-notice-for = Cytajśo <a href="{ $url }">wuzjawjenje wó šćiśe datow</a> za naše produkty
