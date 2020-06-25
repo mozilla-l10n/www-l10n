@@ -18,6 +18,7 @@ firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } بر�
 firefox-privacy-hub-update-your-firefox-browser = اپنے { -brand-name-firefox } براؤزر کو اپ ڈیٹ کریں
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } کے بارے میں مزید جانیں
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = ایک فائل بھیجیں
 firefox-privacy-hub-pocket = { -brand-name-pocket }
