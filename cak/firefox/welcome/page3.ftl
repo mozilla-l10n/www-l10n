@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Tak'ulu' ri sipan rub'i' taqoya'l, ri nuchajij ri awichinanem. Tatunu' awi' rik'in ri { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Man k'atzinel ta rub'i' taqoya'l. Po rik'in jub'a' nawajo' jun.
-welcome-page3-the-firefox-browser-collects = Ri { -brand-name-firefox } okik'amaya'l man numöl ta ri awetamab'al, akuchi' man nik'atzin ta chi re ri rochochib'al ataqoya'l. Xa xe chi toq nawokisaj richin natz'ük jun rub'i' ataqoya'l richin { -brand-name-firefox }, yojtikïr niqachajij ri awichinanem pa jun nïm ruq'ijul ak'aslem pa k'amab'ey.
+welcome-page3-the-firefox-browser-collects = Ri { -brand-name-firefox } okik'amaya'l man numöl ta ri awetamab'al, akuchi' man nik'atzin ta chi re ri rochochib'al ataqoya'l. Xa xe chi toq nawokisaj richin natz'ük jun rub'i' ataqoya'l richin { -brand-name-firefox-account }, yojtikïr niqachajij ri awichinanem pa jun nïm ruq'ijul ak'aslem pa k'amab'ey.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Tab'ana' chi xa jun ajk'aymoloj nukanoj ri atzij, pa ruk'exel chi nikichayuj.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
