@@ -6,4 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
 
 # Main title
-compare-ie-comparing-firefox-browser-with = Primerjava brskalnika Firefox in { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Primerjava brskalnikov { -brand-name-firefox-browser } in { -brand-name-microsoft } { -brand-name-ie }
