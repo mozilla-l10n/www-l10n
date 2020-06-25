@@ -71,6 +71,7 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Njemóžemy mjena abo wobsah wulkich datajow, kotrež přez { -brand-name-firefox-send } dźěliće, dokelž su zaklučowane kónc do kónca – wy rozsudźeće, štó widźi, štož sćeleće, a móžeće samo datum spadnjenja a hesło nastajić.
 firefox-privacy-hub-send-a-file = Dataju pósłać
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } nastawki wysokeje kwality doporuča, kotrež ludźo hladaja, bjeztoho zo by wašu přehladowansku historiju zwěsćił abo waše wosobinske informacije z wabjerjemi dźělił.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstarać
 firefox-privacy-hub-your-firefox-account = Waše { -brand-name-firefox-account }
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Wzmiće swoju priwatnosć a zapołožki z { -brand-name-firefox-account } wšudźe sobu.
