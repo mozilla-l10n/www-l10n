@@ -16,6 +16,7 @@ firefox-home-trade-clickbait-for = गुणवत्ता सामग्र�
 firefox-home-learn-more-about-pocket = पॉकेट के बारे में और जानें
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = एक लॉगिन। आपके सभी उपकरण। उत्पादों का एक परिवार जो आपके <strong>गोपनीयता</strong> का सम्मान करता है।
+firefox-home-join-firefox = { -brand-name-firefox } से जुड़ें
 firefox-home-learn-more-about-joining = { -brand-name-firefox } में शामिल होने के बारे में और जानें
 firefox-home-get-the-browser-extension = ब्राउज़र एक्सटेंशन प्राप्त करें
 firefox-home-get-the-facebook-container = फेसबुक कंटेनर एक्सटेंशन प्राप्त करें
