@@ -11,7 +11,7 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } 与 { -br
 compare-edge-compare-microsoft-edge-to-the = 将 { -brand-name-microsoft } { -brand-name-edge } 与 { -brand-name-firefox-browser }进行比较，以确定哪款浏览器更适合您。
 # Main title.
 compare-edge-comparing-firefox-browser-with = { -brand-name-firefox-browser }与 { -brand-name-microsoft } { -brand-name-edge } 的比较
-compare-edge-with-windows-10-microsoft-introduced = 在 { -brand-name-windows } 10 中，{ -brand-name-microsoft } 推出了其 { -brand-name-edge } 浏览器以与 { -brand-name-firefox } 和 { -brand-name-chrome } 竞争，并成为预装在其所售 PC 上的默认浏览器。即便如此，还是用者寥寥。最终，微软宣布计划将推出基于 { -brand-name-chromium } 的“新 { -brand-name-edge } 浏览器”（{ -brand-name-chromium } 即为 { -brand-name-google } 的开源浏览器项目）。
+compare-edge-with-windows-10-microsoft-introduced = 在 { -brand-name-windows } 10 中，{ -brand-name-microsoft } 推出了 { -brand-name-edge } 浏览器以与 { -brand-name-firefox } 和 { -brand-name-chrome } 竞争，并成为预装在大多数 PC 上的默认浏览器。即便如此，还是用者寥寥。最终，微软宣布计划将推出基于 { -brand-name-chromium } 的“新 { -brand-name-edge } 浏览器”（{ -brand-name-chromium } 即为 { -brand-name-google } 的开源浏览器项目）。
 compare-edge-here-well-compare-our-firefox = 在此，我们将 { -brand-name-firefox-browser }与基于 { -brand-name-chromium } 的 { -brand-name-microsoft } { -brand-name-edge } 在隐私、实用和跨平台方面进行比较，以便您更好地了解哪款浏览器更符合自身需求与偏好。
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } 已集成至 { -brand-name-windows } 10 平台，并在沙盒环境中运行，这意味着它可以隔离程序并防止恶意程序在您的计算机上进行间谍活动。它内置有 SmartScreen 筛选器，可以扫描您访问的网站的信誉，以阻止可疑网站。为了增强隐私性，{ -brand-name-edge } 还允许您使用 { -brand-name-windows } Hello 中的生物识别手段或 PIN 码代替用于网络身份验证的密码。
