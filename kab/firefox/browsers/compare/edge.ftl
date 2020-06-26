@@ -10,7 +10,7 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } mgal { -b
 # HTML page description.
 compare-edge-compare-microsoft-edge-to-the = Serwes { -brand-name-microsoft } { -brand-name-edge } ɣer Firefox akken ad d-tafeḍ anwa iminig i ifazen ɣur-m/k.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Aserwes gar yiminig Firefox d { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Aserwes { -brand-name-firefox-browser } wd { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced = Akked { -brand-name-windows }10, { -brand-name-microsoft } yessenked-d iminig-is { -brand-name-edge } akken ad yemyezwar akked { -brand-name-firefox } d { -brand-name-chrome } s usbeddi-ines seg tazwara d iminig amezwer deg yimelyan n PCs yettwasenzen. Ɣas akken, iseqdacen ur uzzilen ara ad t-sqedcen, ɣer taggara, iberreḥ-d { -brand-name-microsoft } s lebɣi-s ad iɛawed aserreḥ n { -brand-name-edge } am yiminig i yebnan ɣef { -brand-name-chromium } ({ -brand-name-chromium } d asenfar n uɣbalu yeldin n { -brand-name-google })
 compare-edge-here-well-compare-our-firefox = Da ad nesserwes gar yiminig-nneɣ Firefox akked { -brand-name-microsoft } { -brand-name-edge } i yebnan ɣef { -brand-name-chromium } deg wayen yerzan tabaḍnit, tixxutert d uɛebbi akken ad k-nɛiwen ad tegzuḍ akken iwata anwa iminig i ilaqen aḥwiǧi-inek d yismenyifen-ik.
 # "SmartScreen" and "Windows Hello" are brand names.
