@@ -8,9 +8,9 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } mgal { -brand-name-chrome }: anwa axir?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = Nserwas Mozilla Firefox akked Google Chrome deg tbaḍnit, nfeɛ akked tnerfadit
+compare-chrome-we-compare-mozilla-firefox = Nserwes { -brand-name-mozilla } { -brand-name-firefox } d { -brand-name-google } { -brand-name-chrome } deg wayen yeεnan tabaḍnit, tixxutert d wawway.
 # Main title.
-compare-chrome-comparing-firefox-browser = Aserwes gar { -brand-name-firefox-browser } akked Google Chrome
+compare-chrome-comparing-firefox-browser = Aserwes { -brand-name-firefox-browser } akked { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = Di { -brand-name-firefox }, nesɛa amḍan d amqqeran n iseqdacen iḥemmlen ayen nxeddem ɣef usnerni n tbaḍnit srid. Amedya, lqem aneggaru n { -brand-name-firefox } yegber tamahilt s yisem n Ammesten mgal aḍfaṛ yettwaseǧehden (ETP), yermed s wudem amezwer i akk iseqdacen deg umaḍal. ETP yessewḥal ugar n 2,000 ineḍfaren, ula d ineḍfaṛen n iẓeḍwa imettanen am { -brand-name-facebook }, { -brand-name-twitter }, akked LinkedIn. Yesɛa daɣen tamahilt tusliɣt s yisem <a { $attrs }>{ -brand-name-firefox-monitor }</a> ara k-id issawḍen isalli s wudem awurman ma yella awal-ik uffir tḥuza-t trewla n yisefka neɣ ma yesra ad yettusnifel. Rnu ɣer ummesten-agi, Askar n tunigin tusligt n { -brand-name-firefox } ad yekkes s wudem awurman talɣut-ik n tunigin am umazray akked inagan n tuqqna, ur d-ittaǧa tigert si lǧeṛṛa-k mi tfukeḍ tiɣimit-ik.

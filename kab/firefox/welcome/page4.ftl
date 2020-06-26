@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Sader iminig Firefox ɣef uziraz-ik deg { -brand-name-ios } akked { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Sader-d { -brand-name-firefox-browser } ɣef uziraz-ik.im i { -brand-name-ios } d { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Sselfa. Tisura. Tiliɣri. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Awi tabaḍnit yid-k deg yal ibenk — daɣen eǧǧ ineḍfaṛen n yisefka deffir-k.
 welcome-page4-get-the-firefox-app = Awi asnas { -brand-name-firefox }
