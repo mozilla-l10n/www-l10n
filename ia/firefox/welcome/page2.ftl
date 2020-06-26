@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/2/
 
+welcome-page2-activate-pocket = Activar { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-discover-new-stories = Discoperi nove historias
+welcome-page2-why-am-i-seeing-this = Proque vide io isto?

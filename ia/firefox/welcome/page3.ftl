@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Obtene le conto gratuite que protege tu vita private. Junge te a { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Un conto non es necessari, ma pote esser desirabile.
 welcome-page3-the-firefox-browser-collects = Le navigator { -brand-name-firefox } collige si poc datos sur te que nos non require mesmo tu adresse de e-mail. Ma quando tu lo usa pro crear un { -brand-name-firefox-account }, nos pote extender nostre protection del confidentialitate ultra tu vita in linea.
+welcome-page3-sign-in = Aperir session
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Finalmente, un interprisa que protege tu datos, in loco de perder e divulgar los.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
