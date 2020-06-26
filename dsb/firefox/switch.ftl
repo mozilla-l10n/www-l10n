@@ -22,6 +22,7 @@ switch-still-not-convinced = Njejsćo hyšći pśeznanjony, až jo lažko, k { -
 switch-enjoy-the-web-faster = Wjaselśo se malsnemu internetoju, zarědowanemu za was.
 switch-download-and-switch = Ześěgnuś a pśejś
 switch-share-to-facebook = Z Facebook źěliś
+switch-share-to-facebook-updated = Na { -brand-name-facebook } źěliś
 switch-send-a-tweet = Tweet pósłaś
 switch-hey = Hej,
 switch-check-it-out = Pśeznańśo se a dajśo mě k swójo měnjenje k wěsći:
