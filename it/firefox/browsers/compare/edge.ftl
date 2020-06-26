@@ -8,9 +8,9 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } o { -brand-name-microsoft } { -brand-name-edge }: qual è il browser migliore per te?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Confronta { -brand-name-microsoft } { -brand-name-edge } con Firefox per scoprire qual è il miglior browser per te.
+compare-edge-compare-microsoft-edge-to-the = Confronta { -brand-name-microsoft } { -brand-name-edge } con il { -brand-name-firefox-browser } per scoprire qual è il miglior browser per te.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Confronto del browser Firefox con { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Confronto del { -brand-name-firefox-browser } con { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced = Con { -brand-name-windows } 10, { -brand-name-microsoft } ha presentato il suo browser { -brand-name-edge } per competere con { -brand-name-firefox } e { -brand-name-chrome }, rendendolo il browser preinstallato per impostazione predefinita su milioni di PC venduti. Tuttavia, gli utenti sono stati riluttanti ad adottarlo e { -brand-name-microsoft } infine ha annunciato piani per rilanciare { -brand-name-edge } come browser basato su { -brand-name-chromium }, il progetto di browser open source di { -brand-name-google }.
 compare-edge-here-well-compare-our-firefox = Di seguito confronteremo il nostro { -brand-name-firefox-browser } con la versione { -brand-name-chromium } di { -brand-name-microsoft } { -brand-name-edge } in termini di privacy, utilità e portabilità, per aiutarti a decidere quale browser si adatti meglio alle tue esigenze e preferenze.
 # "SmartScreen" and "Windows Hello" are brand names.
