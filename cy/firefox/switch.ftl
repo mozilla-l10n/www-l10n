@@ -22,6 +22,7 @@ switch-still-not-convinced = Dal ddim yn siŵr os yw newid i { -brand-name-firef
 switch-enjoy-the-web-faster = Mwynhewch y we cynt, yn barod i chi.
 switch-download-and-switch = Llwytho i lawr a newid
 switch-share-to-facebook = Rhannu i Facebook
+switch-share-to-facebook-updated = Rhannwch i { -brand-name-facebook }
 switch-send-a-tweet = Anfon trydar
 switch-hey = Hei,
 switch-check-it-out = Rhowch gynnig arno a gadewch i mi wybod:
