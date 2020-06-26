@@ -33,7 +33,7 @@ firefox-accounts-help-us-build-a-better = עזרו לנו לבנות { -brand-na
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-we-support-communities = אנו תומכים בקהילות בכל רחבי העולם שדוגלות באינטרנט בריא יותר. כדאי להוסיף את קולך למאבק.
-firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
