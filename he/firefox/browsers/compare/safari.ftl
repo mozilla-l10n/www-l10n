@@ -8,4 +8,4 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = ‏{ -brand-name-firefox } לעומת { -brand-name-safari }: מי הדפדפן הטוב יותר עבורך?
 # Main title.
-compare-safari-comparing-firefox-browser = השוואה בין { -brand-name-firefox-browser } ל־{ -brand-name-apple } { -brand-name-safari }
+compare-safari-comparing-firefox-browser = השוואה בין ה{ -brand-name-firefox-browser(case: "a") } ל־{ -brand-name-apple } { -brand-name-safari }

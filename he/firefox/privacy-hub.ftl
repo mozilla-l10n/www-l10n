@@ -19,7 +19,7 @@ firefox-privacy-hub-learn-more-about-our-mission = מידע נוסף על המש
 firefox-privacy-hub-learn-about-our-products = מידע נוסף על המוצרים שלנו
 firefox-privacy-hub-firefox-protects-your-privacy = ‏{ -brand-name-firefox } מגן על הפרטיות שלך בכל מוצר.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = ‏{ -brand-name-firefox } <strong>מגן</strong> על הפרטיות שלך בכל מוצר
-firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-privacy-hub-2000-trackers-blocked-automatically = למעלה מ־2,000 רכיבי מעקב חסומים — באופן אוטומטי
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = מעקב הפך למגיפה מקוונת: חברות עוקבות אחר כל מהלך, לחיצה ורכישה, אוספות נתונים כדי לחזות ולהשפיע על הצעד הבא שלך. אנו חושבים שזוהי פלישה גסה לפרטיות שלך. מסיבה זו הגנת המעקב המתקדמת מופעלת באופן אוטומטי בדפדפן { -brand-name-firefox } לנייד ולמחשבים שולחניים.

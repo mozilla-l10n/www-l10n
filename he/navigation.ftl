@@ -4,15 +4,15 @@
 
 navigation-download-firefox = הורדת { -brand-name-firefox }
 navigation-get-a-firefox-account = קבלת { -brand-name-firefox-account(case: "a") }
-navigation-firefox-browser-for-desktop = ‏{ -brand-name-firefox-browser } למחשבים שולחניים
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(case: "a") } למחשבים שולחניים
 navigation-get-the-browser-that-respects = קבלת הדפדפן שמכבד את הפרטיות שלך באופן אוטומטי. ב־{ -brand-name-windows }, ‏{ -brand-name-mac } או { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = ‏{ -brand-name-firefox-browser } לנייד
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(case: "a") } לנייד
 navigation-take-speed-privacy-and = קחו אתכם לדרך מהירות, פרטיות ושקט נפשי. ב־{ -brand-name-android } ו־{ -brand-name-ios }.
 navigation-download-for-ios = הורדה עבור { -brand-name-ios }
 navigation-download-for-android = הורדה עבור { -brand-name-android }
 navigation-ios-support = תמיכה ב־{ -brand-name-ios }
 navigation-android-support = תמיכה ב־{ -brand-name-android }
-navigation-firefox-browser-for-enterprise = ‏{ -brand-name-firefox-browser } לארגונים
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(case: "a") } לארגונים
 navigation-firefox-for-fire-tv = ‏{ -brand-name-firefox } עבור { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = צפייה בסרטונים וגלישה ברשת ב־{ -brand-name-amazon } { -brand-name-fire-tv } שלך.
 navigation-take-the-passwords-youve = קחו איתכם את הססמאות ששמרתם ב־{ -brand-name-firefox } לכל מקום.

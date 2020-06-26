@@ -8,4 +8,4 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = ‏{ -brand-name-firefox } לעומת { -brand-name-ie }: מי הדפדפן הטוב יותר עבורך?
 # Main title
-compare-ie-comparing-firefox-browser-with = השוואה בין { -brand-name-firefox-browser } ל־{ -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = השוואה בין ה{ -brand-name-firefox-browser(case: "a") } ל־{ -brand-name-microsoft } { -brand-name-ie }

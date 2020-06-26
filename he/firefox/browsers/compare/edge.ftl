@@ -8,4 +8,4 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = ‏{ -brand-name-firefox } לעומת { -brand-name-microsoft } { -brand-name-edge }: מי הדפדפן הטוב יותר עבורך?
 # Main title.
-compare-edge-comparing-firefox-browser-with = השוואה בין { -brand-name-firefox-browser } ל־{ -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = השוואה בין ה{ -brand-name-firefox-browser(case: "a") } ל־{ -brand-name-microsoft } { -brand-name-edge }
