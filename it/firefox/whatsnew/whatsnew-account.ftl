@@ -8,6 +8,6 @@
 
 ## Required
 
-whatsnew-account-main-headline = Non richiediamo un account. Ma magari ne vorresti uno.
+whatsnew-account-main-headline = L’account non è obbligatorio, ma potresti apprezzarlo.
 whatsnew-account-main-lead-in = Il browser { -brand-name-firefox } raccoglie così pochi dati su di te da rendere superfluo sapere il tuo indirizzo email. Ma quando lo userai per creare un account { -brand-name-firefox }, proteggeremo la tua privacy per tutta la tua esperienza di navigazione.
 whatsnew-account-main-button = Accedi
