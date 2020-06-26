@@ -9,6 +9,7 @@
 ## Required
 
 installer-help-page-title = آپ کے ڈاؤن لوڈ میں خلل پڑا ہے
+installer-help-action-channel = یہ ڈاؤن لوڈ آپ کے لئے بہتر کام کرے گا۔
 
 ##
 
