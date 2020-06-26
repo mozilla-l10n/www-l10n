@@ -25,14 +25,14 @@ firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-products-keep-your-passwords-safe-and = Uchovávejte svá hesla v bezpečí a mějte k nim přístup ze všech svých zařízení.
 firefox-products-download-lockwise = Stáhnout { -brand-name-lockwise(case: "acc") }
 firefox-products-open-in-firefox = Otevřít ve { -brand-name-firefox(case: "loc") }
-firefox-products-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: " loc") }
+firefox-products-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: "loc") }
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Posílejte velké soubory a citlivé dokumenty bezpečně, až do velikosti 2,5 GB.
 firefox-products-send-a-file = Poslat soubor
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Objevujte nejlepší obsah dostupný na webu a přečtěte si ho kdekoliv a kdykoliv chcete.
 firefox-products-get-pocket = Získejte { -brand-name-pocket(case: "acc") }
-firefox-products-learn-more-about-pocket = Zjistěte více o službě { -brand-name-pocket(case: "loc") }
+firefox-products-learn-more-about-pocket = Zjistěte více o { -brand-name-pocket(case: "loc") }
 firefox-products-join-firefox-and-get-the-most = Přihlaste se k { -brand-name-firefox(case: "dat") } a využívejte naše produkty na maximum — na všech zařízeních.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
