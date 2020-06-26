@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = 在您的 { -brand-name-ios } 或 { -brand-name-android } 行動裝置下載 Firefox 瀏覽器
+welcome-page4-download-the-firefox-browser = 在您的 { -brand-name-ios } 或 { -brand-name-android } 行動裝置下載 { -brand-name-firefox-browser }
 welcome-page4-wallet-keys-phone-firefox = 出門前別忘了手機、錢包、鑰匙，還有 <strong>{ -brand-name-firefox }</strong>。
 welcome-page4-take-privacy-with-you-on-every = 把密碼放到您的每一台裝置上隨身攜帶，並且把資料追蹤器拋到九霄雲外。
 welcome-page4-get-the-firefox-app = 下載 { -brand-name-firefox }
