@@ -11,4 +11,6 @@ welcome-page4-wallet-keys-phone-firefox = ארנק. מפתחות. טלפון. <s
 welcome-page4-take-privacy-with-you-on-every = קחו עמכם פרטיות לכל מכשיר — והשאירו מאחור את רכיבי מעקב הנתונים.
 welcome-page4-get-the-firefox-app = קבלת היישומון { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = קבלת { -brand-name-firefox } לטלפון שלך
+welcome-page4-send-the-download-link-right = שליחת קישור ההורדה ישירות לטלפון או הדוא״ל שלך.
+welcome-page4-download-firefox-for-your = הורדת { -brand-name-firefox } לטלפון החכם למחשב הלוח שלך.
 welcome-page4-why-am-i-seeing-this = למה אני רואה את זה?
