@@ -20,5 +20,5 @@ welcome-page5-with-256-bit-encryption-your = With 256-bit encryption, your passw
 welcome-page5-no-more-making-up-new-passwords = No more making up new passwords
 welcome-page5-lockwise-will-recommend-new = { -brand-name-lockwise } will recommend new, strong passwords whenever you set up a new login.
 welcome-page5-help-during-a-breach = Help during a breach
-welcome-page5-lockwise-will-let-you-know = { -brand-name-lockwise } will let you know if your saved logins have been part of a corporate data breach, so you can change them asap.
+welcome-page5-lockwise-will-let-you-know = { -brand-name-lockwise } will let you know if your saved logins have been part of a corporate data breach, so you can change them ASAP.
 welcome-page5-why-am-i-seeing-this = Why am I seeing this?
