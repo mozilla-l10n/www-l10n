@@ -22,6 +22,7 @@ switch-still-not-convinced = Hmmmmm, noch nicht ganz sicher? Zu { -brand-name-fi
 switch-enjoy-the-web-faster = Freue Dich über ein schnelleres Surf-Erlebnis.
 switch-download-and-switch = Firefox herunterladen und wechseln
 switch-share-to-facebook = Via Facebook
+switch-share-to-facebook-updated = Auf { -brand-name-facebook } teilen
 switch-send-a-tweet = Via Twitter
 switch-hey = Hallöchen,
 switch-check-it-out = Überzeuge Dich selbst.
