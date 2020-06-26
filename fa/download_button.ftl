@@ -14,7 +14,7 @@ download-button-systems-languages = سیستم‌ها و زبان‌ها
 download-button-recommended = پیشنهاد شده
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">موزیلا دیگر به‌روزرسانی‌ای برای فایرفاکس در ویندوز { -brand-name-xp } یا ویستا ارائه نمی‌کند</a>، ولی شما هم‌چنان می‌توانید نسخه نهایی ۳۲بیتی برای ویندوز را در زیر دریافت کنید.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } دیگر به‌روزرسانی‌ای برای { -brand-name-firefox } در { -brand-name-windows } { -brand-name-xp } یا { -brand-name-vista } ارائه نمی‌کند</a>، ولی شما همچنان می‌توانید آخرین نسخه ۳۲بیتی برای ویندوز را در زیر دریافت کنید.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = لطفا <a href="{ $url }">این دستور العمل‌ها</a> را برای نصب { -brand-name-firefox } دنبال کنید.
