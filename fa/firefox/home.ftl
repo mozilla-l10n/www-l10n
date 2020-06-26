@@ -19,6 +19,7 @@ firefox-home-get-the-respect-you = <strong>احترامی</strong> که لایق
 firefox-home-every-single-firefox = یک یکِ محصولات { -brand-name-firefox } به وعدهٔ حریم خصوصی ما احترام می‌گذارند: <strong>دریافت اطلاعات کمتر. ذخیرهٔ امن. بدون پنهان‌کاری.</strong>
 firefox-home-share-large-files-without = پرونده‌های بزرگ را بدون نگاه‌های کنجکاو ارسال کنید
 firefox-home-start-sending-files = با خیال راحت ارسال امن پرونده‌ها را شروع کنید
+firefox-home-trade-clickbait-for = clickbaitها را با محتوای با کیفیت جایگزین کنید
 firefox-home-learn-more-about-pocket = درباره { -brand-name-pocket } بیشتر بدانید
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = یک ورود. برای تمام دستگاه‌هایتان. خانواده‌ای از محصولات که به <strong>حریم‌خصوصی</strong> شما احترام می‌گذارند.
