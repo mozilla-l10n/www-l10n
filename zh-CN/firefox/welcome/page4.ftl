@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = 下载 Firefox 浏览器到 { -brand-name-ios } 或 { -brand-name-android } 终端
+welcome-page4-download-the-firefox-browser = 下载 { -brand-name-firefox-browser }到 { -brand-name-ios } 或 { -brand-name-android } 终端
 welcome-page4-wallet-keys-phone-firefox = 钱包、钥匙、手机、<strong>{ -brand-name-firefox }</strong>。
 welcome-page4-take-privacy-with-you-on-every = 在每台设备上都能得到隐私保护，甩掉数据跟踪器。
 welcome-page4-get-the-firefox-app = 获取 { -brand-name-firefox } 应用
