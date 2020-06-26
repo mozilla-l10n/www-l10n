@@ -22,6 +22,7 @@ switch-still-not-convinced = Er du ennå ikke overbevist om at det er enkelt å 
 switch-enjoy-the-web-faster = Nyt en raskere surfeopplevelse.
 switch-download-and-switch = Last ned og bytt
 switch-share-to-facebook = Del på Facebook
+switch-share-to-facebook-updated = Del til { -brand-name-facebook }
 switch-send-a-tweet = Send en tweet
 switch-hey = Hei,
 switch-check-it-out = Prøv det, og forteller meg hva du synes:
