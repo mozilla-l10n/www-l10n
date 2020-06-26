@@ -8,7 +8,7 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } mgal { -brand-name-ie }: Anwa iminig i ifazen ɣer ɣur-k?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Serwes { -brand-name-ie } d Firefox akken ad d-tafeḍ anwa iminig i ifazen deg-sen ɣur-k.
+compare-ie-compare-internet-explorer-to = Serwes { -brand-name-ie } ɣer { -brand-name-firefox-browser } Akken ad twaliḍ anwa iminig i ifazen ɣer ɣur-k/m.
 # Main title
 compare-ie-comparing-firefox-browser-with = Aserwes gar { -brand-name-firefox-browser } akked { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Imi iminig internet n { -brand-name-microsoft } yettas-d yettwasebded deg tazwara deg tugget n PCs yebnan ɣef { -brand-name-windows }, iban dakken { -brand-name-microsoft } yesmenyif ad tesqedceḍ iminig-is { -brand-name-edge }, i yemmugen d iminig amezwer mi ara tesɣeḍ.

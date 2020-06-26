@@ -10,4 +10,4 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } mgal { -bran
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } d iminig yettwasbedden s wudem amezwer ɣef { -brand-name-mac } akked { -brand-name-iphone }. Semyif { -brand-name-safari } akked Firefox akkend ad d-taffeḍ anwi iminig ifazen ɣer-m/k.
 # Main title.
-compare-safari-comparing-firefox-browser = Aserwes gar { -brand-name-firefox-browser } akked Apple Safari
+compare-safari-comparing-firefox-browser = Aserwes gar { -brand-name-firefox-browser } d { -brand-name-apple } { -brand-name-safari }

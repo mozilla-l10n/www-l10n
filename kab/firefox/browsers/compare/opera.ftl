@@ -8,7 +8,7 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } mgal { -brand-name-opera }: Anwi iminig i ifazen ɣer-wen?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Serwes { -brand-name-opera } d Firefox akken ad d-tafeḍ anwi iminig i ifazen deg-sen ɣur-k.
+compare-opera-compare-opera-to-the-firefox = Serwes { -brand-name-opera } ɣer { -brand-name-firefox-browser } akken ad twaliḍ anwa iminig i ifazen ɣer ɣur-k/m.
 # Main title
 compare-opera-comparing-firefox-browser = Aserwes gar { -brand-name-firefox-browser } akked { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks-fallback = Tasertit n tbaḍnit n { -brand-name-opera } ur tesɛi ara tulmisin n usegzi n wanaw n talɣut i d-ileqqeḍ d wamek, di kra n tgezmin, yenna-d ilqeḍ-d ula d ismawen n bab n yimiḍanen, tansiwin n IP d tewtilin n unadi. Ayen yessewhamen yerna yessexleɛ, d tagzemt yeɛnan tuzzna tagreɣlant n yisefka; melmi, acḥal n tikkal daɣen ayɣer i sran ad aznen isefka-inek s wudem agreɣlan ur d-tetettwasegza ara.
