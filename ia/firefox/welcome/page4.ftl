@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Discarga le navigator Firefox sur tu mobile pro { -brand-name-ios } e { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Discarga le { -brand-name-firefox-browser } pro { -brand-name-ios } e { -brand-name-android } sur tu apparato mobile
 welcome-page4-wallet-keys-phone-firefox = Bursa. Claves. Telephono. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Porta le vita private con te sur omne apparato. Lassa retro le spias que tracia tu datos.
 welcome-page4-get-the-firefox-app = Obtene { -brand-name-firefox }
