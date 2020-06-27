@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Passa a { -brand-name-firefox } ab { -brand-name-chrome } in justo poc minutas
+switch-switching-to-firefox-is-fast-updated = Passar a { -brand-name-firefox } es rapide, facile e secur, perque { -brand-name-firefox } importa tu marcapaginas, contrasignos e preferentias ab { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Passar a { -brand-name-firefox } es rapide, facile e secur, perque { -brand-name-firefox } importa tu marcapaginas, datos de completion automatic, contrasignos e preferentias de { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Passar a { -brand-name-firefox } es veloce, facile e secur. { -brand-name-firefox } importa tu marcapaginas, contrasignos e preferentias ab { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Passar a { -brand-name-firefox } es veloce, facile e secur. { -brand-name-firefox } importa tu marcapaginas, datos de compilation automatic, contrasignos e preferentias de { -brand-name-chrome }.
 switch-select-what-to-take = Eliger lo que prender ab { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Lassa a { -brand-name-firefox } facer le resto.
