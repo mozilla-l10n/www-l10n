@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-download-and-switch = Жүктеп алу және ауысу
-switch-share-to-facebook = Facebook-те бөлісу
+switch-share-to-facebook = Facebook арқылы бөлісу
 switch-send-a-tweet = Твит жіберу
 switch-hey = Сәлем,
 switch-check-it-out = Мұны тексеріп, өз ойларыңызды айтыңыз:
