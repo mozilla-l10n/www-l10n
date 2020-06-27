@@ -8,7 +8,7 @@
 # HTML page title
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } k wašomu standardnemu wobglědowakej cyniś
 # HTML page description
-set-as-default-landing-choose-the-browser = Wubjeŕśo wobglědowak, kótaryž waš priwatnosć šćita. Nastajśo { -brand-name-firefox } ako swój standardny wobglědowak.
+set-as-default-landing-choose-the-browser = Wubjeŕśo wobglědowak, kótaryž wašu priwatnosć šćita. Nastajśo { -brand-name-firefox } ako swój standardny wobglědowak.
 set-as-default-landing-make-sure-youre-protected = Źiwajśo na to, až sćo šćitany, kuždy raz, gaž do interneta źiśo
 set-as-default-landing-thanks-for-using-the = Wjeliki źěk, až nejnowšy wobglědowak { -brand-name-firefox } wužywaśo. Gaž { -brand-name-firefox } wužywaśo, pódpěraśo lěpšy web za sebje a wšych drugich. Něnto móžośo se šćitaś.
 set-as-default-landing-choose-automatic-privacy = Awtomatisku priwatnosć wubraś

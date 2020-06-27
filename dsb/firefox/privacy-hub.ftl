@@ -36,7 +36,7 @@ firefox-privacy-hub-why-trust-firefox = Cogodla { -brand-name-firefox } dowěri�
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Dokulaž luźi na prědne městno stajamy. Napšawdu, nas <a href="{ $foundation }">za wš wužytna organizacija</a> pódpěra. Wót prědnego dnja jo naša misija było, internet a kuždego w nim šćitaś.
 firefox-privacy-hub-learn-more-about-our-mission = Dalšne informacije wó našej misiji
-firefox-privacy-hub-your-privacy-by-the-product = Waš priwatnosć, w kuždem produkśe
+firefox-privacy-hub-your-privacy-by-the-product = Waša priwatnosć, w kuždem produkśe
 firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox } hynac funkcioněruju – dokulaž se wuwijaju, aby nejpjerwjej wašu priwatnosć šćitali.
 firefox-privacy-hub-learn-about-our-products = Zgóńśo wěcej wó našych produktach
 firefox-privacy-hub-firefox-privacy-by-the = Priwatnosć { -brand-name-firefox }, w kuždem produkśe
