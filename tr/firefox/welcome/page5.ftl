@@ -20,5 +20,5 @@ welcome-page5-with-256-bit-encryption-your = 256 bit şifreleme ile parolaların
 welcome-page5-no-more-making-up-new-passwords = Artık yeni parola düşünmek yok
 welcome-page5-lockwise-will-recommend-new = Yeni bir hesap açarken { -brand-name-lockwise } size yeni ve güçlü parolalar önerir.
 welcome-page5-help-during-a-breach = İhlal desteği
-welcome-page5-lockwise-will-let-you-know = Kayıtlı hesaplarınız bir veri ihlali kapsamında ele geçirilirse Firefox size haber verir. Böylece o parolayı hemen değiştirebilirsiniz.
+welcome-page5-lockwise-will-let-you-know = Kayıtlı hesaplarınız bir veri ihlali kapsamında ele geçirilirse { -brand-name-lockwise } size haber verir. Böylece o parolayı hemen değiştirebilirsiniz.
 welcome-page5-why-am-i-seeing-this = Bunu neden görüyorum?

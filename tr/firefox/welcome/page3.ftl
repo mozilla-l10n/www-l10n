@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Gizliliğinizi koruyan ücretsiz hesabınızı açın. { -brand-name-firefox }’a katılın.
 welcome-page3-no-account-required-but-you = Hesap açmak size kalmış.
-welcome-page3-the-firefox-browser-collects = { -brand-name-firefox }, hakkınızda çok az veri toplar. E-posta adresinizi bile istemeyiz. Ancak { -brand-name-firefox } hesabı açarsanız çevrimiçi yaşamınızda gizliliğinizi daha iyi koruyabiliriz.
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox }, hakkınızda çok az veri toplar. E-posta adresinizi bile istemeyiz. Ancak { -brand-name-firefox-account } açarsanız çevrimiçi yaşamınızda gizliliğinizi daha iyi koruyabiliriz.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Verilerinizi sızdıran şirketlerden haberiniz olsun.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
