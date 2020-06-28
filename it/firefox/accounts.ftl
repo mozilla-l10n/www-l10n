@@ -10,7 +10,7 @@ firefox-accounts-there-is-a-way-to = Esiste un modo per proteggere la tua privac
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = Registra un { -brand-name-firefox-account }: mantieni i tuoi dati privati, sicuri e sincronizzati.
 # HTML page description
-firefox-accounts-take-your-stand-stay-smart = Prendi una posizione contro un’industria che vende i tuoi dati a terze parti. Scegli la tecnologia che si batte per te per un’esperienza online sicura e consapevole.
+firefox-accounts-take-your-stand-stay-smart = Prendi posizione contro un’industria che guadagna sulla vendita dei tuoi dati a terze parti. Naviga in modo intelligente e sicuro con una tecnologia che si batte per i tuoi interessi.
 # Old HTML page description
 firefox-accounts-securely-sync-your = Sincronizza in sicurezza password, segnalibri e schede su tutti i tuoi dispositivi. Registra subito un { -brand-name-firefox-account }: un unico accesso, libertà e privacy ovunque.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
