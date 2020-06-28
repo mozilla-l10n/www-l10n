@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# HTML page title
+firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } एक ब्राउज़र कहीं अधिक है
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } एक ब्राउज़र से कहीं <strong>अधिक</strong> है
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-firefox-browsers = { -brand-name-firefox } ब्राउज़र
 firefox-products-desktop = डेस्कटॉप

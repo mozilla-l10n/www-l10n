@@ -19,6 +19,7 @@ switch-still-not-convinced = अभी भी आश्वस्त नहीं
 switch-enjoy-the-web-faster = वेब का तेजी से आनंद ले, सब आपके लिए ही सेटअप किया गया.
 switch-download-and-switch = डाउनलोड करें और बदले
 switch-share-to-facebook = Facebook पर साझा करें
+switch-share-to-facebook-updated = { -brand-name-facebook } पर साझा करें
 switch-send-a-tweet = एक ट्वीट भेंजे
 switch-hey = सुनो,
 switch-check-it-out = इसे देखे और मुझे बतायें आप क्या सोंचते हैं:

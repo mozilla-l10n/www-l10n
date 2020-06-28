@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
+lockwise-take-your-passwords-everywhere = हर जगह अपना पासवर्ड लेकर चलें
 lockwise-try-lockwise-now = { -brand-name-lockwise } अभी आज़माएं
 lockwise-install-for-firefox = { -brand-name-firefox } के लिए इंस्टॉल करें
 lockwise-open-in-firefox = { -brand-name-firefox } में खोलें

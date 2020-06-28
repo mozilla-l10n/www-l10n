@@ -13,6 +13,7 @@ firefox-privacy-privacy = गोपनीयता
 firefox-privacy-our-promise = हमारा वादा
 # Sub navigation link
 firefox-privacy-our-products = हमारे उत्पाद
+firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } पर भरोसा क्यों करें?
 firefox-privacy-hub-learn-more-about-our-mission = हमारे मिशन के बारे में अधिक जानें
 firefox-privacy-hub-learn-about-our-products = हमारे उत्पादों के बारे में जानें
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } हर उत्पाद में आपकी गोपनीयता की रक्षा करता है।
@@ -30,3 +31,6 @@ firefox-privacy-hub-send-a-file = एक फाइल भेजें
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } प्राप्त करें
 firefox-privacy-hub-your-firefox-account = आपका { -brand-name-firefox-account }
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = हमारे उत्पादों के लिए <a href="{ $url }">गोपनीयता सूचना</a> को पढ़ें

@@ -7,6 +7,7 @@
 
 welcome-page3-no-account-required-but-you = खाते की आवश्यकता नहीं है। लेकिन हो सकता है आप एक चाहते हों।
 welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } ब्राउज़र आपके बारे में बहुत कम डेटा एकत्र करता है, हमें आपके ईमेल पते की भी आवश्यकता नहीं है। लेकिन जब आप इसका उपयोग { -brand-name-firefox } खाता बनाने के लिए करते हैं, तो हम आपके ऑनलाइन जीवन में आपकी गोपनीयता की रक्षा कर सकते हैं।
+welcome-page3-sign-in = साइन इन
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = कम से कम एक कंपनी चुनें जो आपके डेटा की तलाश कर रही है, बजाय इसे लीक करने के।
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
