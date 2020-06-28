@@ -20,6 +20,7 @@ switch-still-not-convinced = Fortfarande inte övertygad om att byte till { -bra
 switch-enjoy-the-web-faster = Njut av en snabbare surfupplevelse.
 switch-download-and-switch = Ladda ner och byt
 switch-share-to-facebook = Dela till Facebook
+switch-share-to-facebook-updated = Dela till { -brand-name-facebook }
 switch-send-a-tweet = Skicka en tweet
 switch-hey = Hej,
 switch-check-it-out = Testa och låt mig veta vad du tycker:

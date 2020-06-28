@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-why-am-i-seeing-this = Varför ser jag detta?
