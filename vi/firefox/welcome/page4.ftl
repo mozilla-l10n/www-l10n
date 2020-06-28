@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Tải xuống trình duyệt Firefox trên điện thoại di động cho { -brand-name-ios } và { -brand-name-android } của bạn
+welcome-page4-download-the-firefox-browser = Tải xuống { -brand-name-firefox-browser } trên điện thoại của bạn dành cho { -brand-name-ios } và { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Ví tiền. Chìa khóa. Điện thoại. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Giữ quyền riêng tư với bạn trên mọi thiết bị — và quên đi bộ theo dõi dữ liệu.
 welcome-page4-get-the-firefox-app = Tải ứng dụng { -brand-name-firefox }

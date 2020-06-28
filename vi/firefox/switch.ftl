@@ -22,6 +22,7 @@ switch-still-not-convinced = Vẫn không tin rằng chuyển sang { -brand-name
 switch-enjoy-the-web-faster = Truy cập web nhanh hơn, tất cả đã thiết lập cho bạn.
 switch-download-and-switch = Tải xuống và chuyển đổi
 switch-share-to-facebook = Chia sẻ lên Facebook
+switch-share-to-facebook-updated = Chia sẻ lên { -brand-name-facebook }
 switch-send-a-tweet = Gửi một tweet
 switch-hey = Này,
 switch-check-it-out = Kiểm tra nó và cho tôi biết những gì bạn nghĩ:
