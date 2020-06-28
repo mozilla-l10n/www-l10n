@@ -8,6 +8,7 @@
 switch-switch-from-chrome = Cambiá de { -brand-name-chrome } a { -brand-name-firefox } en solo unos minutos
 switch-switching-to-firefox-is-fast-updated = Cambiarse a { -brand-name-firefox } es rápido, sencillo y sin riesgos, porque { -brand-name-firefox } importa tus marcadores, contraseñas y otras preferencias de { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Cambiarse a { -brand-name-firefox } es rápido, sencillo y sin riesgos, porque { -brand-name-firefox } importa tus marcadores, autocompletado, contraseñas y otras preferencias de { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Cambiarse a { -brand-name-firefox } es rápido, sencillo y sin riesgos, porque { -brand-name-firefox } importa tus marcadores, contraseñas y otras preferencias de { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Cambiarse a { -brand-name-firefox } es rápido, sencillo y sin riesgos. { -brand-name-firefox } importa tus marcadores, autocompletado, contraseñas y otras preferencias de { -brand-name-chrome }.
 switch-select-what-to-take = Seleccioná lo que querés tomar de { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Dejá que { -brand-name-firefox } se encargue del resto.
@@ -21,6 +22,7 @@ switch-still-not-convinced = ¿Aún no crees que cambiarse a { -brand-name-firef
 switch-enjoy-the-web-faster = Disfrutá de una web más rápida, lista para vos.
 switch-download-and-switch = Descargar y cambiar
 switch-share-to-facebook = Compartir en Facebook
+switch-share-to-facebook-updated = Compartir en { -brand-name-facebook }
 switch-send-a-tweet = Enviar un twit
 switch-hey = Hola,
 switch-check-it-out = Probalo y contame lo que pensás:
