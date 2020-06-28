@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } ali { -brand-name-brave }: Kateri je boljši brskalnik za vas?
+# Main title
+compare-brave-comparing-firefox-browser = Primerjava brskalnikov { -brand-name-firefox-browser } in { -brand-name-brave }
