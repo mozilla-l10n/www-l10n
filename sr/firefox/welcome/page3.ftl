@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Направите бесплатан налог који штити вашу приватност. Придружите се { -brand-name-firefox }-у.
 welcome-page3-no-account-required-but-you = Налог није обавезан, али ћете вероватно хтети један.
-welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } прегледач прикупља толико мало ваших података, да чак не захтевамо вашу е-адресу. Али када је искористите за прављење { -brand-name-firefox } налога, можемо проширити заштиту ваше приватности на интернету.
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } прегледач прикупља толико мало ваших података, да чак не захтевамо вашу е-адресу. Али када је искористите за прављење { -brand-name-firefox-account }, можемо проширити заштиту ваше приватности на интернету.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Рачунајте бар на једну компанију да штити ваше податке уместо да их открива.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

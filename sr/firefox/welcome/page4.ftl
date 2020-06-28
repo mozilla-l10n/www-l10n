@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Преузмите Firefox прегледач на ваш мобилни уређај за { -brand-name-ios } и { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Преузмите { -brand-name-firefox-browser } на ваш мобилни уређај за { -brand-name-ios } и { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Новчаник. Кључеви. Телефон. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Понесите приватност са собом на свим вашим уређајима — и оставите трагаче у прашини.
 welcome-page4-get-the-firefox-app = Преузмите { -brand-name-firefox } апликацију
