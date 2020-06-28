@@ -40,6 +40,7 @@ compare-edge-with-internet-explorer-fallback = Con { -brand-name-ie }, { -brand-
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-edge-firefox-has-been-available = { -brand-name-firefox } estuvo disponible para { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac } y { -brand-name-linux } durante años. Y como era de esperar con cualquier navegador moderno, { -brand-name-firefox } le permite iniciar sesión con una <a { $attrs }> cuenta gratuita </a> y sincronizar datos como contraseñas, historial de navegación, marcadores y pestañas abiertas entre su computadora, tableta y teléfono. También le permite sincronizar entre plataformas.
+compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } también te permite conectar tu cuenta { -brand-name-microsoft } asociada e iniciar sesión para sincronizar tus favoritos, historial, contraseñas y más entre tu computadora y dispositivos { -brand-name-ios } o { -brand-name-android }.
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } también le permite conectar su cuenta { -brand-name-microsoft } asociada e iniciar sesión para sincronizar sus favoritos, historial, contraseñas y más entre su computadora y dispositivos { -brand-name-ios } o { -brand-name-android }, aunque algunas tabletas { -brand-name-android } no son compatibles en la actualidad.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
