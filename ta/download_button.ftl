@@ -20,7 +20,7 @@ download-button-please-follow-these = { -brand-name-firefox } பயர்பா
 download-button-your-system-does-not = { -brand-name-firefox } இயக்க வேண்டிய <a href="{ $url }">தேவைகளை</a> உங்கள் கணினி பூர்த்தி செய்யவில்லை.
 download-button-firefox-other-platforms = பிற இயக்குதளங்களுக்கும், மொழிகளுக்குமான பயர்பாக்சு({ -brand-name-firefox })
 download-button-update-your-firefox = உங்கள் { -brand-name-firefox }ஐப் புதுப்பிக்க
-download-button-get-firefox-android = ஆண்ட்ராய்டு ({ -brand-name-android }) இயங்குதளத்திற்கான பயர்பாக்சைப் ({ -brand-name-android }) பெறுங்கள்
+download-button-get-firefox-android = ஆண்ட்ராய்டுக்கான ({ -brand-name-android }) பயர்பாக்சைப் ({ -brand-name-android }) பெறுங்கள்
 download-button-get-firefox-ios = { -brand-name-ios } இயங்குதளத்திற்கான பயர்பாக்சைப்({ -brand-name-firefox }) பெறவும்
 download-button-google-play = { -brand-name-google-play } கடையில் இலவசமாகப் பெறுங்கள்
 download-button-free-google-play = { -brand-name-google-play } வில் இதை இலவசமாகப் பெறுக
