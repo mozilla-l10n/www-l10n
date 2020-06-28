@@ -26,6 +26,7 @@ compare-shared-utility = उपयोगिता
 compare-shared-security-and-privacy-strong = सुरक्षा और <strong>गोपनीयता</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>उपयोगिता</strong>
+compare-shared-overall-assessment = संपूर्ण विश्लेषण
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

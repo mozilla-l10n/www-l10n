@@ -5,10 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox } उत्पादों को आपकी <strong>गोपनीयता</strong> की सुरक्षा के लिए डिज़ाइन किया गया है
 # Sub navigation title
 firefox-privacy-privacy = गोपनीयता
 # Sub navigation link
 firefox-privacy-our-promise = हमारा वादा
+# Sub navigation link
+firefox-privacy-our-products = हमारे उत्पाद
 firefox-privacy-hub-learn-more-about-our-mission = हमारे मिशन के बारे में अधिक जानें
 firefox-privacy-hub-learn-about-our-products = हमारे उत्पादों के बारे में जानें
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } हर उत्पाद में आपकी गोपनीयता की रक्षा करता है।
