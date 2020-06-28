@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = कृपया एक वैध ईमेल पता दर्ज करें।
+newsletter-form-you-must-agree-to = आपको गोपनीयता सूचना से सहमत होना चाहिए
+newsletter-form-your-email-address = आपका ईमेल पता
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = देश या क्षेत्र चुनें

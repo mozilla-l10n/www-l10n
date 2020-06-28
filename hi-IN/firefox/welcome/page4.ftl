@@ -13,4 +13,5 @@ welcome-page4-send-the-download-link-right = डाउनलोड लिंक 
 welcome-page4-download-firefox-for-your = अपने स्मार्टफोन और टैबलेट के लिए { -brand-name-firefox } डाउनलोड करें।
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = कोई निशान न छोड़े
+welcome-page4-automatically-clear-your-history = निजी ब्राउज़िंग मोड के साथ अपने इतिहास और कुकीज़ को स्वचालित रूप से मिटाएं।
 welcome-page4-why-am-i-seeing-this = मैं यह क्यों देख रहा हूं?
