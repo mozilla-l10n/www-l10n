@@ -22,6 +22,7 @@ switch-still-not-convinced = 還不覺得很簡單就能切換到 { -brand-name-
 switch-enjoy-the-web-faster = 一切自動搞定，享受更快上網。
 switch-download-and-switch = 下載並切換
 switch-share-to-facebook = 分享到 Facebook
+switch-share-to-facebook-updated = 分享到 { -brand-name-facebook }
 switch-send-a-tweet = 發送 Tweet 推文
 switch-hey = 嘿！
 switch-check-it-out = 體驗一下，然後告訴我你覺得怎樣吧:
