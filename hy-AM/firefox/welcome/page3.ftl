@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Ստացե՛ք անվճար հաշիվ, որը պաշտպանում է ձեր գաղտնությունը: Միացեք { -brand-name-firefox }-ին:
 welcome-page3-no-account-required-but-you = Հաշիվ չի պահանջվում: Բայց գուցե ցանկանաք մեկը:
-welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } զննարկիչը հավաքում է ձեր մասին այնքան քիչ տվյալներ, որ մենք անգամ չենք պահանջում ձեր էլ. փոստի հասցեն: Բայց երբ այն օգտագործում եք { -brand-name-firefox } հաշիվ ստեղծելու համար, մենք կարող ենք պաշտպանել ձեր գաղտնիությունը ձեր առցանց գործունեության ժամանակ ավելի շատ:
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } զննարկիչը հավաքում է ձեր մասին այնքան քիչ տվյալներ, որ մենք անգամ չենք պահանջում ձեր էլ. փոստի հասցեն: Բայց երբ այն օգտագործում եք { -brand-name-firefox-account } հաշիվ ստեղծելու համար, մենք կարող ենք պաշտպանել ձեր գաղտնիությունը ձեր առցանց գործունեության ժամանակ ավելի շատ:
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Կա առնվազն մեկ ընկերություն, որը նայում է ձեր տվյալները, դրանք արտահոսքի փոխարեն:
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
