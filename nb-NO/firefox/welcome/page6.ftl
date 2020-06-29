@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page6-make-firefox-your-default = Gjør { -brand-name-firefox } til din standardnettleser
 welcome-page6-make-sure-youre-protected = Forsikre deg om at du er beskyttet, hver gang du går på nettet
-welcome-page6-when-you-choose-firefox-you = Når du velger { -brand-name-firefox } støtter du et bedre internett - både for deg selv og alle andre. Ta neste steg for å beskytte deg selv.
+welcome-page6-when-you-choose-firefox-you = Ved å velge { -brand-name-firefox } støtter du et bedre internett - for deg selv og andre. Ta neste steg for å beskytte deg selv.
 welcome-page6-get-the-firefox-app = Hent { -brand-name-firefox }-appen
 welcome-page6-get-firefox-on-your-phone = Få { -brand-name-firefox } på telefonen
 welcome-page6-scan-the-qr-code-to-get-started = Skann QR-koden for å komme i gang
