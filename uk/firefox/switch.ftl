@@ -22,6 +22,7 @@ switch-still-not-convinced = Все ще не вірите, що перейти 
 switch-enjoy-the-web-faster = Користуйтесь інтернетом швидше. Все готово для цього.
 switch-download-and-switch = Завантажити і перейти
 switch-share-to-facebook = Поширити на Facebook
+switch-share-to-facebook-updated = Поділитися в { -brand-name-facebook }
 switch-send-a-tweet = Відправити твіт
 switch-hey = Гей,
 switch-check-it-out = Спробуй і розкажи мені про свої враження:
