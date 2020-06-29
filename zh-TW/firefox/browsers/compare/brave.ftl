@@ -25,3 +25,10 @@ compare-brave-whether-this-sounds-complicated = 這聽起來究竟是個好點�
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = 在金錢的另一面，{ -brand-name-firefox } 瀏覽器想把事情簡單化。{ -brand-name-firefox } 預設就會擋下許多第三方追蹤器、加密貨幣採礦程式與數位指紋追蹤器，不讓它們追蹤您。但是當 { -brand-name-firefox } 不在隱私瀏覽模式當中時，就不會封鎖廣告展示。也就是說，必須要安裝<a { $attrs }>任一套能夠封鎖廣告的擴充套件</a>才會隱藏廣告。
+# Variables:
+#   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
+#   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
+#   $privacy (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-brave-there-are-a-few-of-braves = { -brand-name-brave } 有一些安全性功能值得強調，例如它可自動將網站連線升級為 HTTPS 連線（{ -brand-name-firefox } 需要安裝<a { $extension }>擴充套件</a>才能做到）。{ -brand-name-brave } 與 { -brand-name-firefox } 都內建<a { $lockwise }>密碼管理員</a>，並可以隨時確認相關安全性統計資訊。{ -brand-name-brave } 可在開啟新分頁時顯示封鎖的追蹤器數量；在 { -brand-name-firefox } 則是可以點擊網址列當中的盾牌來開啟<a { $privacy }>隱私權報告</a>，了解類似的資訊。
+# "Basic Attention Token" is a brand name.
+compare-brave-the-bottom-line-is-that-even = 重要的是，就算對許多人來說 { -brand-name-brave } 的 Basic Attention Token 商業模式可能太過複雜，但 { -brand-name-brave } 與 { -brand-name-firefox } 瀏覽器都提供了各種能保持安全而有隱私的上網體驗。
