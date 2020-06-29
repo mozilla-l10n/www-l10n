@@ -46,6 +46,7 @@ compare-edge-with-internet-explorer-fallback = Con { -brand-name-ie }, { -brand-
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-edge-firefox-has-been-available = { -brand-name-firefox } ha essite disponibile sur { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac } e { -brand-name-linux } pro annos. E como tu te expectarea con ulle moderne navigator, { -brand-name-firefox } te pone in grado de acceder con un <a { $attrs }>conto gratuite</a> e synchronisar datos tal como contrasignos, chronologia de exploration, marcapaginas e schedas aperte inter tu computator, tabletta e telephono. Illo te permitte tamben de synchronisar inter differente systemas operative.
+compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } alsi te permitte de connecter tu conto { -brand-name-microsoft } associate e acceder pro synchronisar tu favoritos, chronologia, contrasignos e altero ancora, inter tu computator e apparatos { -brand-name-ios } o { -brand-name-android }.
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } alsi te permitte de connecter tu conto { -brand-name-microsoft } associate e acceder pro synchronisar tu favoritos, chronologia, contrasignos e altero ancora, inter tu computator e apparatos { -brand-name-ios } o { -brand-name-android }, ben que alcun tablettas { -brand-name-android } non es actualmente supportate.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
