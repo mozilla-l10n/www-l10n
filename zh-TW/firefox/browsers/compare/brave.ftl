@@ -32,3 +32,5 @@ compare-brave-on-the-other-side-of-the-coin = 在金錢的另一面，{ -brand-n
 compare-brave-there-are-a-few-of-braves = { -brand-name-brave } 有一些安全性功能值得強調，例如它可自動將網站連線升級為 HTTPS 連線（{ -brand-name-firefox } 需要安裝<a { $extension }>擴充套件</a>才能做到）。{ -brand-name-brave } 與 { -brand-name-firefox } 都內建<a { $lockwise }>密碼管理員</a>，並可以隨時確認相關安全性統計資訊。{ -brand-name-brave } 可在開啟新分頁時顯示封鎖的追蹤器數量；在 { -brand-name-firefox } 則是可以點擊網址列當中的盾牌來開啟<a { $privacy }>隱私權報告</a>，了解類似的資訊。
 # "Basic Attention Token" is a brand name.
 compare-brave-the-bottom-line-is-that-even = 重要的是，就算對許多人來說 { -brand-name-brave } 的 Basic Attention Token 商業模式可能太過複雜，但 { -brand-name-brave } 與 { -brand-name-firefox } 瀏覽器都提供了各種能保持安全而有隱私的上網體驗。
+compare-brave-what-might-surprise-some-new = 有一些 { -brand-name-brave } 新使用者會驚艷於網頁載入速度。能夠這麼快是因為廣告都被擋掉了，要載入的東西變少，自然更快。
+compare-brave-in-terms-of-actual-precious = 提到寶貴的 RAM 用量，{ -brand-name-brave } 就比 { -brand-name-firefox } 重得多。{ -brand-name-brave } 內建了許多功能與「附加元件」，會增加 RAM 使用量。但 { -brand-name-firefox } 則讓您自行決定要安裝開啟哪些附加元件與擴充套件。
