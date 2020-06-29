@@ -12,8 +12,13 @@ firefox-privacy-privacy = Tabaḍnit
 # Sub navigation link
 firefox-privacy-our-products = Ifarisen-nneɣ
 firefox-privacy-hub-take-less = Ddam cwiṭ
+firefox-privacy-hub-we-make-a-point-of-knowing = Nettmuqul ad nissin cwiṭ kan fell-ak/am
+firefox-privacy-hub-keep-it-safe = Ḥrez-it
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Nxeddem akk tazmert-nneɣ akken ad neḥrez talɣut-ik/im tudmawant
 firefox-privacy-hub-no-secrets = Ulav tibaḍniyen
+firefox-privacy-hub-why-trust-firefox = Ayɣer ara tgeḍ laman deg { -brand-name-firefox }?
 firefox-privacy-hub-learn-more-about-our-mission = Ɣer ugar ɣef tuɣdaḍt-nneɣ
+firefox-privacy-hub-your-privacy-by-the-product = Aqader n tudert tabaḍnit-ik/im deg yal afaris
 firefox-privacy-hub-update-your-firefox-browser = Leqqem iminig-inek { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Ur d-yettban ara i yineḍfaren ifazen
 firefox-privacy-hub-protection-beyond-tracking = Ammesten yekka nnig uḍfar
