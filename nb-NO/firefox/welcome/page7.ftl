@@ -8,6 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Gjør det vanskeligere for { -brand-name-facebook } å spore deg
 page7-its-okay-to-like-facebook = Det er greit å like { -brand-name-facebook }
+page7-get-facebook-container = Få { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Det fungerer på Instagram
 page7-that-sneaky-little-button = Den lumske, lille knappen
