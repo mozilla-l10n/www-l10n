@@ -2,15 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
--brand-name-facebook = Facebook
+-brand-name-facebook =
+    { $case ->
+       *[nom] Facebook
+        [gen] Facebooku
+        [dat] Facebooku
+        [acc] Facebook
+        [loc] Facebooku
+        [ins] Facebookom
+    }
+    .gender = masculine
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft

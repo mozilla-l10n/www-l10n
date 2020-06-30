@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Prejdite z { -brand-name-chrome(case: "gen") } na { -brand-name-firefox(case: "acc") } za pár minút
+switch-switching-to-firefox-is-fast-updated = Prechod na { -brand-name-firefox(case: "acc") } je rýchly, jednoduchý a bez rizika. { -brand-name-firefox } totižto importuje vaše záložky, heslá a nastavenia z { -brand-name-chrome(case: "gen") }.
 switch-switching-to-firefox-is-fast = Prechod na { -brand-name-firefox(case: "acc") } je rýchly, jednoduchý a bez rizika. { -brand-name-firefox } totižto importuje vaše záložky, automatické vypĺňanie, heslá a nastavenia z { -brand-name-chrome(case: "gen") }.
+switch-switching-to-firefox-page-description-updated = Prechod na { -brand-name-firefox(case: "acc") } je rýchly, jednoduchý a bez rizika. { -brand-name-firefox } totižto importuje vaše záložky, heslá a nastavenia z { -brand-name-chrome(case: "gen") }.
 switch-switching-to-firefox-page-description = Prechod na { -brand-name-firefox(case: "acc") } je rýchly, jednoduchý a bez rizika. { -brand-name-firefox } totižto importuje vaše záložky, automatické vypĺňanie, heslá a nastavenia z { -brand-name-chrome(case: "gen") }.
 switch-select-what-to-take = Vyberte si to, čo si chcete z { -brand-name-chrome(case: "gen") } vziať.
 switch-let-firefox-do-the-rest = Nechajte { -brand-name-firefox } urobiť zvyšok.
@@ -20,6 +22,7 @@ switch-still-not-convinced = Stále nie ste presvedčení, že prechod na { -bra
 switch-enjoy-the-web-faster = Užite si rýchlejší web.
 switch-download-and-switch = Prevziať a prejsť
 switch-share-to-facebook = Zdieľajte to na Facebooku
+switch-share-to-facebook-updated = Zdieľať na { -brand-name-facebook(case: "loc") }
 switch-send-a-tweet = Odošlite tweet
 switch-hey = Zdravím,
 switch-check-it-out = Vyskúšajte ho a povedzte mi váš názor:
