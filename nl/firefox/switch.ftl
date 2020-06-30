@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Stap over van { -brand-name-chrome } naar { -brand-name-firefox } in slechts enkele minuten
+switch-switching-to-firefox-is-fast-updated = Overstappen naar { -brand-name-firefox } is snel, makkelijk en zonder risico, omdat { -brand-name-firefox } uw bladwijzers, wachtwoorden en voorkeuren vanuit { -brand-name-chrome } importeert.
 switch-switching-to-firefox-is-fast = Overstappen naar { -brand-name-firefox } is snel, makkelijk en zonder risico, omdat { -brand-name-firefox } uw bladwijzers, automatisch in te voeren gegevens, wachtwoorden en voorkeuren vanuit { -brand-name-chrome } importeert.
+switch-switching-to-firefox-page-description-updated = Overstappen naar { -brand-name-firefox } is snel, makkelijk en zonder risico. { -brand-name-firefox } importeert uw bladwijzers, wachtwoorden en voorkeuren vanuit { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Overstappen naar { -brand-name-firefox } is snel, makkelijk en zonder risico. { -brand-name-firefox } importeert uw bladwijzers, automatisch in te voeren gegevens, wachtwoorden en voorkeuren vanuit { -brand-name-chrome }.
 switch-select-what-to-take = Selecteer wat u uit { -brand-name-chrome } wilt overnemen.
 switch-let-firefox-do-the-rest = Laat { -brand-name-firefox } de rest doen.
@@ -20,6 +22,7 @@ switch-still-not-convinced = Nog niet overtuigd dat overstappen naar { -brand-na
 switch-enjoy-the-web-faster = Geniet sneller van het web, voor u ingesteld.
 switch-download-and-switch = Downloaden en overstappen
 switch-share-to-facebook = Delen via Facebook
+switch-share-to-facebook-updated = Delen met { -brand-name-facebook }
 switch-send-a-tweet = Een tweet verzenden
 switch-hey = Hee,
 switch-check-it-out = Bekijk het zelf en laat me weten wat je ervan vindt:
