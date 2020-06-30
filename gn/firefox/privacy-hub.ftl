@@ -50,6 +50,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Erekóramo { -brand-name-fir
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Hetave { $trackers } tapykuehoha jokopyre ko’ẽreíre { -brand-name-firefox } puruhárape g̃uarã
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Ehaívo ne ñanduti veve kundaharape { -brand-name-firefox-monitor }-pe, ore resaráima sapy’aitépe rohechajeývo oĩpa mba’ekuaarã ñembyai ojekuaáva, neremoneĩri mba’éramo rohechajeývo ñembyai ipyahúva ne maranduete rehegua.
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Umi ñe’ẽñemi ha terachaukaha eñongatúva { -brand-name-firefox-lockwise }-pe ipapapy opaite ne mba’e’okápe, péicha ndaikatúi ore avei rohecha.
@@ -60,6 +61,11 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Ereko { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Nde { -brand-name-firefox-account }
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Eraha ne ñemigua ha techaukaha opaite hendápe { -brand-name-firefox-account } ndive.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = ¿Erekóma mba’ete? <a { $sign_in } class="{ $class_name }">Eñepyrũ tembiapo</a> térã <a href="{ $learn_more }">ehechave</a> mba’éicha ejuajúta { -brand-name-firefox } rehe.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Emoñe’ẽ <a href="{ $url }">Ñemigua marandu</a> ore apopyre rehegua
