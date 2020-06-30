@@ -15,7 +15,7 @@ compare-ie-microsoft-discontinued-its-internet = Ddeqs n yiseggasen aya i yeǧǧ
 compare-ie-here-well-compare-our-firefox = Dagi, ad nserwes gar yiminig-nneɣ { -brand-name-firefox-browser } d { -brand-name-ie } deg wayen yeɛnan taɣellist, tanfa d uɛebbi. Ad ak-nɛiwen ad tegzuḍ amgired yellan gar yiminig atrar am { -brand-name-firefox } i yettqadaren ilugan n Web d yiminig-nniḍen i tesseqdaceḍ i yiswan n usedri neɣ si tannumi i tuɣeḍ ur tezmireḍ ara ad teǧǧeḍ d umatu.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = Ma yella ur teǧǧiḍ ara asexdem n { -brand-name-ie }, ala amihi n tɣellist i d imigi ara ak-isqenɛen. <a { $attrs }>Imḍebbar  n tɣellist n Microsoft iɛeggen-d</a> D imelyan n yimdanen i mazal sseqdacen { -brand-name-ie } d iminig n Web agejdan, ttarran iman-nsen deg yimihi.
+compare-ie-if-you-havent-moved-on-from-using = Ma yella teǧǧiḍ aseqdec n { -brand-name-ie }, ala imihi n tɣellist i d imigi ara ak-yesqenεen. Imḍebbar n tɣellist <a { $attrs }>{ -brand-name-microsoft }iεeggen-d ɣef waya</a> d imelyan n yimdanen mazal ttkemmilen deg useqdec n { -brand-name-ie } d iminig n web agejdan, ttarran iman-nsen deg yimihi meqqren.
 compare-ie-microsoft-is-no-longer-supporting = Misrosoft ur issefrak ara tinefliyin timaynutin i { -brand-name-ie }, ayen yebɣan ad d-yini uguren n tɣellist zgan llan. { -brand-name-microsoft } yesteɛṛef ɛinani lexṣaṣ yella s umata deg yileqman akken ma llan  n { -brand-name-ie }.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
