@@ -8,14 +8,14 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Rende plus difficile a { -brand-name-facebook } traciar te
 page7-its-okay-to-like-facebook = Te place { -brand-name-facebook }? Nulle problema.
-page7-if-you-still-kinda-like-facebook = Si te place ancora { -brand-name-facebook } ma non te fide de illes, alora prova le extension { -brand-name-facebook } Container per { -brand-name-firefox } e rende plus ardue pro illos traciar te circum le Web.
+page7-if-you-still-kinda-like-facebook = Si te place ancora { -brand-name-facebook } ma non te fide de illes, alora prova le extension { -brand-name-facebook-container } per { -brand-name-firefox } e rende plus ardue pro illos traciar te circum le Web.
 page7-get-facebook-container = Installa { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Functiona anque sur Instagram
 page7-facebook-container-also-works = { -brand-name-facebook-container } alsi functiona sur altere sitos gerite per { -brand-name-facebook } como { -brand-name-instagram }, { -brand-name-facebook-messenger } e { -brand-name-workplace }.
 page7-make-them-unfollow-you = Impedi a illo de sequer te
 page7-that-sneaky-little-button = Ille perfide micre button
-page7-those-innocent-looking-f-buttons = Ille buttones “F” de { -brand-name-facebook } de apparentia si innocue tracia tu activitate sur le Web anque se non tu non ha un conto. { -brand-name-facebook } Container blocar los pro te.
+page7-those-innocent-looking-f-buttons = Ille buttones “F” de { -brand-name-facebook } de apparentia si innocue tracia tu activitate sur le Web anque se non tu non ha un conto. { -brand-name-facebook-container } blocar los pro te.
 page7-stay-ahead-of-hackers = Supera le piratas informatic
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } te pone in grado de discoperir lo que le piratas informatic pote jam saper re te e te adjuta a star un grado ante illes.
 page7-get-firefox-monitor = Installa { -brand-name-firefox-monitor }

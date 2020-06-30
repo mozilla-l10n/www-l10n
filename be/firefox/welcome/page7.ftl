@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Зрабіце, каб { -brand-name-facebook } было цяжэй асочваць вас
 page7-its-okay-to-like-facebook = Добра, калі вам падабаецца { -brand-name-facebook }
-page7-if-you-still-kinda-like-facebook = Калі вам ўсё яшчэ падабаецца { -brand-name-facebook }, але вы не давяраеце ім, паспрабуйце пашырэнне { -brand-name-facebook } Container ад { -brand-name-firefox } і зрабіце больш цяжкім для іх асочванне вас у Інтэрнэце.
+page7-if-you-still-kinda-like-facebook = Калі вам ўсё яшчэ падабаецца { -brand-name-facebook }, але вы не давяраеце ім, паспрабуйце пашырэнне { -brand-name-facebook-container } ад { -brand-name-firefox } і зрабіце больш цяжкім для іх асочванне вас у Інтэрнэце.
 page7-get-facebook-container = Атрымаць { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Гэта працуе ў Instagram

@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Mach es { -brand-name-facebook } schwerer, dich online zu tracken
 page7-its-okay-to-like-facebook = { -brand-name-facebook }: Ja. Tracking: NEIN!
-page7-if-you-still-kinda-like-facebook = Wenn du dich nicht von { -brand-name-facebook } trennen kannst, aber der Sache auch einfach nicht mehr traust, hol dir den { -brand-name-facebook } Container. Damit machst du es { -brand-name-facebook } schwerer, dich durchs Web zu tracken.
+page7-if-you-still-kinda-like-facebook = Wenn du dich nicht von { -brand-name-facebook } trennen kannst, aber der Sache auch einfach nicht mehr traust, hol dir den { -brand-name-facebook-container }. Damit machst du es { -brand-name-facebook } schwerer, dich durchs Web zu tracken.
 page7-get-facebook-container = Facebook-Container hinzufügen
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Auch für Instagram

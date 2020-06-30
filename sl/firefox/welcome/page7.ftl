@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Otežite sledenje { -brand-name-facebook }u
 page7-its-okay-to-like-facebook = Ni narobe, če vam je { -brand-name-facebook } všeč
-page7-if-you-still-kinda-like-facebook = Če vam je { -brand-name-facebook } še vedno všeč, vendar mu ne zaupate, preizkusite { -brand-name-firefox }ovo razširitev { -brand-name-facebook } Container in { -brand-name-facebook }u otežite sledenje vaši spletni dejavnosti.
+page7-if-you-still-kinda-like-facebook = Če vam je { -brand-name-facebook } še vedno všeč, vendar mu ne zaupate, preizkusite { -brand-name-firefox }ovo razširitev { -brand-name-facebook-container } in { -brand-name-facebook }u otežite sledenje vaši spletni dejavnosti.
 page7-get-facebook-container = Prenesite { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Deluje tudi z Instagramom
