@@ -15,3 +15,11 @@ welcome-page1-youve-got-the-web-browser = Eguereko pe ñanduti kundahára omo’
 welcome-page1-check-your-breach-report = Ehecha marandu ñembyaigua
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = Eikotapia mba’evaiapoha renonderã
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Ehecha mba’éicha emo’ãta ne marandu <a href="{ $security_tips }">{ -brand-name-monitor } Ñe’ẽporã tekorosãrã</a> ndive.
+welcome-page1-stay-in-the-know = Eñemomarandu tapia
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = ¿Reime umi 100,985,047 tapicha oñepepirũva <a href="{ $evite_breach }">“Jevy’a” emboyke hag̃ua mba’ekuaarã ñembyai</a>?
