@@ -10,7 +10,7 @@ download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span>
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Mba'e'oka heseguáva
 download-button-whats-new = Mba'epyahu
-download-button-systems-languages = Apopyvusu ha Ñe'ẽnguéra
+download-button-systems-languages = Apopyvusu ha Ñe’ẽnguéra
 download-button-recommended = Jeroviapyrãva
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -21,7 +21,7 @@ download-button-please-follow-these = Ejapomína <a href="{ $url }">ko'ã mba'e<
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Nde apopyvusu ndoguerekopái <a href="{ $url }">tekotevẽmby</a> eipuru hag̃ua { -brand-name-firefox }.
-download-button-firefox-other-platforms = { -brand-name-firefox } ambue plataforma ha ñe'ẽme g̃uarã
+download-button-firefox-other-platforms = { -brand-name-firefox } ambue plataforma ha ñe’ẽme g̃uarã
 download-button-update-your-firefox = Embohekopyahu { -brand-name-firefox }
 download-button-get-firefox-android = Eguereko { -brand-name-firefox } { -brand-name-android } peg̃uarã
 download-button-get-firefox-ios = Eguereko { -brand-name-firefox } { -brand-name-ios } peg̃uarã

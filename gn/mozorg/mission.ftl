@@ -13,7 +13,7 @@ mission-at-mozilla-were-a-global-community = Mozilla ha'e atyguasu tembipurupyah
 mission-we-believe-this-act-of-human-collaboration = Roguerovia ko tembiapo pytyvõrã ijurujáva rehegua rupi iporãiterei omombarete hag̃ua tapicha peteĩ teĩme ha opavave renonderã.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Emoñe'ẽ <a href="{ $url }">Manifesto Mozilla</a> embopypuku hag̃ua tekokatu ombohapéva ore rembipota ñemoañete.
+mission-read-the-mozilla-manifesto-to-learn = Emoñe’ẽ <a href="{ $url }">Manifesto Mozilla</a> embopypuku hag̃ua tekokatu ombohapéva ore rembipota ñemoañete.
 mission-watch-the-video-above-to-learn-more = Ehecha ta’angamýi eikuaa hag̃ua mávapa ore, moõgui roju ha mba’éichapa romoakãrapu’ã Ñanduti iporãvéva ndéve g̃uarã.
 mission-get-involved = Eike pype
 mission-volunteer-opportunities-in-a-number = Pa'ũ oipytyvõsévape g̃uarã heta tendápe

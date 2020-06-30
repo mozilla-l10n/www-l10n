@@ -16,6 +16,6 @@ send-to-device-sms-service-available-in-select = Mba’epuru SMS oĩma ndahetái
 send-to-device-sms-service-available-to-us = SMS mba'epytyvõrã oipurukuaa umi pumbyry papapy E.E.U.U. pegua año SMS &amp; mba'ekuaarã pya'ekue ikatu oipuru.
 send-to-device-intended-recipient-email-sms = Ñanduti veve g̃uahẽha térã SMS omoneĩmanera'e.
 send-to-device-intended-recipient-email = Ñanduti veve g̃uahẽha omoneĩmanera'e.
-send-to-device-check-your-device-email-sms = Ehechajey pe mba'e'oka ñanduti veve rupi térã ñe'ẽ veve!
+send-to-device-check-your-device-email-sms = Ehechajey pe mba’e’oka ñanduti veve rupi térã ñe’ẽ veve!
 send-to-device-check-your-device-email = Ehechajey pe mba'e'oka ñanduti veve rupi!
 send-to-device-send-to-another = Emondo ambue mba'e'okápe
