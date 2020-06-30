@@ -11,7 +11,6 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } mgal { -brand-
 compare-ie-compare-internet-explorer-to = Serwes { -brand-name-ie } ɣer { -brand-name-firefox-browser } Akken ad twaliḍ anwa iminig i ifazen ɣer ɣur-k/m.
 # Main title
 compare-ie-comparing-firefox-browser-with = Aserwes gar { -brand-name-firefox-browser } akked { -brand-name-microsoft } { -brand-name-ie }
-compare-ie-while-microsofts-internet-explorer = Imi iminig internet n { -brand-name-microsoft } yettas-d yettwasebded deg tazwara deg tugget n PCs yebnan ɣef { -brand-name-windows }, iban dakken { -brand-name-microsoft } yesmenyif ad tesqedceḍ iminig-is { -brand-name-edge }, i yemmugen d iminig amezwer mi ara tesɣeḍ.
 compare-ie-microsoft-discontinued-its-internet = Ddeqs n yiseggasen aya i yeǧǧa { -brand-name-microsoft } ticreḍt-ines { -brand-name-ie }, ɣef laǧalt n yiminig-ines { -brand-name-edge } i yettwaleqqmen i { -brand-name-windows } 10. Ɣas akken, aseqdec ẓẓayen n { -brand-name-edge } yesnulfa-d taxxamt i Internet Explore, aṭas aṭas ɣef ssebbat n umṣada n yimahilen.
 compare-ie-here-well-compare-our-firefox = Dagi, ad nserwes gar yiminig-nneɣ { -brand-name-firefox } d { -brand-name-ie } deg wayen yeɛnan taɣellist, tanfa d uɛebbi. Ad ak-nɛiwen ad tegzuḍ amgired yellan gar yiminig atrar am { -brand-name-firefox } i yettqadaren ilugan n Web d yiminig-nniḍen i tesseqdaceḍ i yiswan n usedri neɣ si tannumi i tuɣeḍ ur tezmireḍ ara ad teǧǧeḍ d umatu.
 # Variables:
