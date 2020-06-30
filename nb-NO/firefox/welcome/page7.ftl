@@ -12,4 +12,6 @@ page7-its-okay-to-like-facebook = Det er greit å like { -brand-name-facebook }
 page7-do-it-for-the-gram = Det fungerer på Instagram
 page7-that-sneaky-little-button = Den lumske, lille knappen
 page7-stay-ahead-of-hackers = Hold deg et steg foran hackere
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } lar deg finne ut hva hackere allerede vet om deg, og hjelper deg å ligge et skritt foran dem. (Og det er gratis.)
+page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } lar deg finne ut hva hackere allerede vet om deg, og hjelper deg å ligge et skritt foran dem. (Det er forresten gratis).
+page7-get-firefox-monitor = Få { -brand-name-firefox-monitor }
+page7-why-am-i-seeing-this = Hvorfor ser jeg dette?
