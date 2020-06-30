@@ -9,10 +9,10 @@
 welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise }: administrador de contraseñas, lleva tus contraseñas a todas partes
 welcome-page5-theres-an-easier-way-to-deal = Hay una manera más fácil de lidiar con tus contraseñas
 welcome-page5-let-firefox-save-them-for = Dejá que { -brand-name-firefox } los guarde por vos. Luego usá { -brand-name-firefox-lockwise } para acceder de manera segura a tus contraseñas en todas tus aplicaciones, en todos tus dispositivos.
-welcome-page5-get-the-lockwise-app = Conseguí la aplicación Lockbox
+welcome-page5-get-the-lockwise-app = Conseguí la aplicación { -brand-name-lockwise }
 welcome-page5-get-firefox-lockwise-on-your = Obtené { -brand-name-firefox-lockwise } en tu teléfono
 welcome-page5-send-the-download-link-right = Mandá el enlace de descarga directamente a tu teléfono o correo electrónico.
-welcome-page5-download-firefox-lockwise = Descargá Firefox para tu teléfono inteligente y tableta.
+welcome-page5-download-firefox-lockwise = Descargá { -brand-name-firefox-lockwise } para tu teléfono inteligente y tableta.
 welcome-page5-scan-this-qr-code = Escanear este código QR
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
 welcome-page5-sync-up-safely = Sincronizá de forma segura
