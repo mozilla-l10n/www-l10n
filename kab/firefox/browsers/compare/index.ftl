@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Sebɛa n yiminigen yufraren deg userwes usrid
 compare-index-six-of-the-best-browsers-fallback = Aserwes srid gar 6 n yiminigen ufrinen
 # Sub-headline
 compare-index-privacy-utility-portability = Tabaḍnit. Lfayda. Tawwayt.
