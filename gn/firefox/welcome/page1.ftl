@@ -14,3 +14,4 @@ welcome-page1-youre-on-track-to-stay-protected = Eguata tape porãre ne rekoros�
 welcome-page1-youve-got-the-web-browser = Eguereko pe ñanduti kundahára omo’ã añetéva ne ñemigua. Ko’ág̃a eñemo’ãke mba’evaiapohágui.
 welcome-page1-check-your-breach-report = Ehecha marandu ñembyaigua
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-stay-ahead-of-hackers = Eikotapia mba’evaiapoha renonderã

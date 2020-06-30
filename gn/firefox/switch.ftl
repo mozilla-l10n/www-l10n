@@ -21,6 +21,7 @@ switch-still-not-convinced = ¿Na’írã gueteri erovia ehóramo { -brand-name-
 switch-enjoy-the-web-faster = Eipuru vy’ápe peteĩ ñanduti ipya’éva, ndéve g̃uarã oikopyre.
 switch-download-and-switch = Emboguejy ha emoambue
 switch-share-to-facebook = Emoherakuã Facebook-pe
+switch-share-to-facebook-updated = Emoherakuã { -brand-name-facebook }-pe
 switch-send-a-tweet = Emondo peteĩ tui
 switch-hey = Mba'éichapa,
 switch-check-it-out = Eipuru ha emombe’u chéve mba’épa ehechakuaa:
