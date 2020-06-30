@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Nastavte si { -brand-name-firefox } ako predvolený prehliadač
+# HTML page description
+set-as-default-landing-choose-the-browser = Vyberte si prehliadač, ktorý chráni vaše súkromie. Nastavte si { -brand-name-firefox } ako svoj predvolený prehliadač.
 set-as-default-landing-make-sure-youre-protected = Uistite sa, že ste chránení, zakaždým, keď sa pripojíte k internetu
 set-as-default-landing-thanks-for-using-the = Ďakujeme, že používate najnovší prehliadač { -brand-name-firefox }. Používaním { -brand-name-firefox }u podporujete lepší web pre vás a všetkých ostatných. Teraz urobte ďalší krok, aby ste sa chránili.
 set-as-default-landing-choose-automatic-privacy = Vyberte si automatické súkromie
@@ -17,4 +19,4 @@ set-as-default-landing-choose-corporate-independence = Vyberte si nezávislosť
 set-as-default-landing-firefox-is-the-only = { -brand-name-firefox } je jediný popredný nezávislý prehliadač. { -brand-name-chrome }, { -brand-name-edge } a { -brand-name-brave } používajú kód Googlu, vďaka čomu má { -brand-name-google } ešte väčšiu kontrolu nad internetom.
 set-as-default-landing-the-internet-keeps = Internet neustále hľadá nové spôsoby, ako zbierať vaše osobné údaje. { -brand-name-firefox } je prehliadač, ktorý neustále hľadá nové spôsoby, ako vás chrániť.
 set-as-default-landing-firefox-is-fast-no-interest = { -brand-name-firefox } je rýchly a bezpečný na { -brand-name-windows }e, { -brand-name-ios }, { -brand-name-android }e, { -brand-name-linux }e… Neobmedzujeme vás vo výbere zariadenia.
-set-as-default-landing-firefox-is-the-only-major = { -brand-name-firefox } je jediný popredný nezávislý prehliadač. { -brand-name-chrome }, { -brand-name-edge } a { -brand-name-brave } používajú kód Googlu, najväčšej reklamnej siete na svete.
+set-as-default-landing-firefox-is-the-only-major = { -brand-name-firefox } je jediný popredný nezávislý prehliadač. { -brand-name-chrome }, { -brand-name-edge } a { -brand-name-brave } používajú kód spoločnosti { -brand-name-google }, najväčšej reklamnej siete na svete.
