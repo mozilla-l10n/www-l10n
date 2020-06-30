@@ -9,8 +9,18 @@
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } versus { -brand-name-ie }: welke browser is het beste voor u?
 # HTML page description
 compare-ie-compare-internet-explorer-to = Vergelijk { -brand-name-ie } met { -brand-name-firefox-browser } om te ontdekken welke browser het beste voor u is.
+# Main title
+compare-ie-comparing-firefox-browser-with = { -brand-name-firefox-browser }-browser vergelijken met { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = { -brand-name-ie } wordt nog steeds meegeleverd met de meeste Windows-pc’s, maar { -brand-name-microsoft } heeft duidelijk liever dat u { -brand-name-edge } gebruikt. { -brand-name-edge } is op nieuwe pc’s ingesteld als standaardbrowser.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } heeft een paar jaar geleden voor { -brand-name-windows } 10 de nieuwe browser { -brand-name-edge } geïntroduceerd als vervanging voor { -brand-name-ie }. Door het beperkte succes van { -brand-name-edge } wordt { -brand-name-ie } echter nog altijd gebruikt, vooral in verband met compatibiliteit in zakelijke toepassingen.
+compare-ie-here-well-compare-our-firefox = We vergelijken hier { -brand-name-firefox-browser } met { -brand-name-ie } op de vlakken veiligheid, bruikbaarheid en portabiliteit. We leggen uit hoe een moderne browser als { -brand-name-firefox }, die zich houdt aan webstandaarden, verschilt van de browser die u misschien gebruikt op kantoor of uit gewoonte.
+# Variables:
+#   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
+compare-ie-if-you-havent-moved-on-from-using = Als u { -brand-name-ie } nog niet vaarwel hebt gezegd, dan zou alleen al het veiligheidsrisico reden genoeg moeten zijn. <a { $attrs }>{ -brand-name-microsoft }s eigen hoofd van beveiliging heeft gewaarschuwd</a> dat de miljoenen mensen die { -brand-name-ie } blijven gebruiken zichzelf in ‘gevaar’ brengen.
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } ondersteunt geen nieuwe ontwikkelingen meer voor { -brand-name-ie }. Daardoor zijn veiligheidsproblemen aan de orde van de dag. { -brand-name-microsoft } geeft openlijk toe dat elke versie van { -brand-name-ie } kwetsbaar is.
+# Variables:
+#   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
+compare-ie-so-whats-the-solution-if-your = Dus wat is de oplossing als uw bedrijf verouderde apps gebruikt die alleen in { -brand-name-ie } werken? Ons beste advies is om zaken niet met plezier te combineren. We raden het gebruik van de < { $attrs }>Legacy Browser Support-extensie</a> voor { -brand-name-windows } aan. Met deze extensie kunnen gebruikers een voorgedefinieerde set van URL’s in { -brand-name-ie } openen en bij het navigeren naar een ander domein terugschakelen naar { -brand-name-firefox }.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $privacy (string) - link to /privacy/firefox/ with additional attributes for analytics
