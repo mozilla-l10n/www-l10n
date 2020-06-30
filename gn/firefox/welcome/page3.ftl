@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Eguereko mba’ete reigua omo’ãva ne ñemigua. Eipuru { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Nereikotevẽi mba’ete. Hákatu ikatu reipota.
 welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } kundahára ombyaty michĩmi marandu nde rehegua ha noroikotevẽima ne ñanduti veve kundaharape. Hákatu eipurúvo emoheñói hag̃ua { -brand-name-firefox-account }, ikatu romo’ã ne ñemigua ne ñeikundaha pukukue.
+welcome-page3-sign-in = Eñepyrũ tembiapo
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Ejapo peteĩ mba’apohaguasu jepe ohekávo ne mba’ekuaarã, oñembyairangue.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

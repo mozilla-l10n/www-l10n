@@ -23,3 +23,4 @@ welcome-page1-stay-in-the-know = Eñemomarandu tapia
 # Variables:
 #   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
 welcome-page1-were-you-one-of-many = ¿Reime umi 100,985,047 tapicha oñepepirũva <a href="{ $evite_breach }">“Jevy’a” emboyke hag̃ua mba’ekuaarã ñembyai</a>?
+welcome-page1-why-am-i-seeing-this = ¿Mba’ére ahecha kóva?

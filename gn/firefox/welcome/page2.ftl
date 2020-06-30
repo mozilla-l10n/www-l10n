@@ -8,3 +8,6 @@
 welcome-page2-your-time-online-is-worth = Emohekorosãsépa nde aravo ñandutípe
 welcome-page2-activate-pocket = Emyandy { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-save-content-from-everywhere = Eñongatu tetepy oparupigua
+welcome-page2-discover-new-stories = Eikuaa tembiasakue pyahu
+welcome-page2-why-am-i-seeing-this = ¿Mba’ére ahecha kóva?
