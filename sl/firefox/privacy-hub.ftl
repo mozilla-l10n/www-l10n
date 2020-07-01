@@ -24,11 +24,17 @@ firefox-privacy-hub-no-secrets = Brez skrivnosti
 firefox-privacy-hub-why-trust-firefox = Zakaj zaupati { -brand-name-firefox }u?
 firefox-privacy-hub-learn-more-about-our-mission = Spoznajte naše poslanstvo
 firefox-privacy-hub-learn-about-our-products = Spoznajte naše izdelke
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ščiti vašo zasebnost v vsakem izdelku.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ščiti</strong> vašo zasebnost v vsakem izdelku
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Več kot 2000 zavrnjenih sledilcev – samodejno
+firefox-privacy-hub-if-you-want-to-see-what = Če želite videti, kaj je { -brand-name-firefox } zavrnil za vas, obiščite to stran v brskalniku { -brand-name-firefox } za namizja.
+firefox-privacy-hub-see-what-firefox-has-blocked = Poglejte, kaj je { -brand-name-firefox } zavrnil za vas
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Uporabite izboljšano zaščito pred sledenjem
 firefox-privacy-hub-download-the-firefox-browser = Prenesite brskalnik { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Posodobite svoj brskalnik { -brand-name-firefox }
+firefox-privacy-hub-if-you-have-a-firefox-account = Če imate { -brand-name-firefox-account }, si lahko ogledate tudi, kako vam pomagamo zaščititi vaše osebne podatke in gesla.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Preverite kraje podatkov
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
