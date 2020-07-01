@@ -11,7 +11,7 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } tsjinoer { -br
 compare-ie-compare-internet-explorer-to = Fergelykje { -brand-name-ie } mei { -brand-name-firefox-browser } om te ûntdekken hokker browser de bêste foar jo is.
 # Main title
 compare-ie-comparing-firefox-browser-with = { -brand-name-firefox-browser } fergelykje mei { -brand-name-microsoft } { -brand-name-ie }
-compare-ie-while-microsofts-internet-explorer = { -brand-name-ie } wurdt noch hieltyd meilevere mei de measte { -brand-name-windows }-pc’s, mar { -brand-name-microsoft } hat dúdlik leaver dat jo { -brand-name-edge } brûke. { -brand-name-edge } is op nije pc’s ynsteld as standertbrowser.
+compare-ie-while-microsofts-internet-explorer = { -brand-name-ie } wurdt noch hieltyd meilevere mei de measte Windows-pc’s, mar { -brand-name-microsoft } hat dúdlik leaver dat jo { -brand-name-edge } brûke. { -brand-name-edge } is op nije pc’s ynsteld as standertbrowser.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } hat in pear jier lyn foar { -brand-name-windows } 10 de nije browser { -brand-name-edge } yntrodusearre as ferfanging foar { -brand-name-ie }. Troch it beheinde sukses fan { -brand-name-edge } wurdt { -brand-name-ie } echter noch altyd brûkt, foaral yn ferbân mei kompatibiliteit yn saaklike tapassingen.
 compare-ie-here-well-compare-our-firefox = Wy fergelykje hjir { -brand-name-firefox-browser } mei { -brand-name-ie } op de flakken feilichheid, brûkberheid en portabiliteit. Wy lizze út hoe't in moderne browser as { -brand-name-firefox }, dy't harren hâldt oan webstanderts, ferskilt fan de browser dy't jo miskien brûke op kantoar of út gewoante.
 # Variables:
