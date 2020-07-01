@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = { -brand-name-android } 版 <span>{ -b
 download-button-firefox-android = { -brand-name-android } 版 <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } 版 <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } プライバシー
+download-button-firefox-privacy-notice = { -brand-name-firefox } のプライバシー通知
 download-button-download = ダウンロード

@@ -19,6 +19,9 @@ firefox-all-language = 言語:
 firefox-all-sorry-we-couldnt-find = お探しのダウンロードが見つかりませんでした。もう一度試すか、下のリストからダウンロードを選択してください。
 firefox-all-64-bit-installers = 64 ビットインストーラー
 firefox-all-32-bit-installers = 32 ビットインストーラー
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } を日本語および他の 90 以上の言語でダウンロードする
+firefox-all-choose-which-firefox = あなたの言語の { -brand-name-firefox-browser } を選んでダウンロードしてください
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } のプライバシー通知
 firefox-all-learn-about-firefox = { -brand-name-firefox } ブラウザーの詳細はこちら
 # Variables:
