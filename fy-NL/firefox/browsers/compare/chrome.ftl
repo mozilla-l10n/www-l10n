@@ -8,9 +8,9 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: Hokker is better?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = Wy fergelykje Mozilla Firefox mei Google Chrome op it mêd fan privacy, brûkberheid en portabiliteit
+compare-chrome-we-compare-mozilla-firefox = Wy fergelykje { -brand-name-mozilla } { -brand-name-firefox } mei { -brand-name-google } { -brand-name-chrome } op it mêd fan privacy, brûkberheid en portabiliteit
 # Main title.
-compare-chrome-comparing-firefox-browser = Firefox-browser fergelykje mei Google Chrome
+compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } fergelykje mei { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = By { -brand-name-firefox } hawwe wy in grut oantal tawijde brûkers dy't ús koersfêste tawijing oan online privacy wurdearje. De nijste ferzje fan { -brand-name-firefox } befettet bygelyks in funksje mei de namme Ferbettere Befeiliging tsjin folgjen (FBF), dy't standert ynskeakele is foar alle brûkers wrâldwiid. FBF blokkearret mear as 2000 trackers, wêrûnder sosjale trackers fan bedriuwen lykas { -brand-name-facebook }, { -brand-name-twitter } en LinkedIn. It hat ek in yntegrearre funksje neamd <a { $attrs }>{ -brand-name-firefox-monitor }</a>, dy't jo automatysk op de hichte stelt as jo wachtwurd lekt is of bywurke wurde moat. Neist dizze befeiligingen smyt de priveenavigaasjemodus fan { -brand-name-firefox } automatysk jo navigaasjegegevens fuort, lykas skiednis en cookies, sûnder spoaren efter te litten neidat jo jo sesje beëinige hawwe.
