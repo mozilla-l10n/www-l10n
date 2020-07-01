@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Meitsje de fergeze account oan dy't jo privacy beskermet. Doch mei mei { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Gjin account fereaske. Mar miskien wolle jo der ien.
-welcome-page3-the-firefox-browser-collects = De { -brand-name-firefox }-browser sammelet sa min gegevens oer jo dat wy sels jo e-mailadres net nedich hawwe. Mar wannear't jo it brûke om in { -brand-name-firefox }-account oan te meitsjen, dan kinne wy jo privacy yn in grutter part fan jo onlinelibben beskermje.
+welcome-page3-the-firefox-browser-collects = De { -brand-name-firefox }-browser sammelet sa min gegevens oer jo dat wy sels jo e-mailadres net nedich hawwe. Mar wannear't jo it brûke om in { -brand-name-firefox-account } oan te meitsjen, dan kinne wy jo privacy yn in grutter part fan jo onlinelibben beskermje.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Soargje dat op syn minst ien bedriuw op jo gegevens let yn stee fan dizze te lekken.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
