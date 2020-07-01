@@ -36,6 +36,7 @@ firefox-privacy-hub-download-the-firefox-browser = Prenesite brskalnik { -brand-
 firefox-privacy-hub-update-your-firefox-browser = Posodobite svoj brskalnik { -brand-name-firefox }
 firefox-privacy-hub-if-you-have-a-firefox-account = Če imate { -brand-name-firefox-account }, si lahko ogledate tudi, kako vam pomagamo zaščititi vaše osebne podatke in gesla.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Ko v { -brand-name-firefox-monitor } vnesete svoj e-poštni naslov, ga pozabimo takoj, ko preverimo, ali se ujema z znanimi krajami podatkov – razen če nas pooblastite, da nadaljujemo s spremljanjem novih kraj vaših osebnih podatkov.
 firefox-privacy-hub-check-for-breaches = Preverite kraje podatkov
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Več o { -brand-name-lockwise }u
