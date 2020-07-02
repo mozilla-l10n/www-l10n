@@ -12,7 +12,7 @@ firefox-browsers-get-the-privacy-you-deserve = Få det trygge personvernet du fo
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Få <strong>nettlesarar</strong> som set personvernet ditt først — og som alltid har gjort det
 firefox-browsers-desktop = Datamaskin
-firefox-browsers-seriously-private-browsing = Seriøs privat surfing. { -brand-name-firefox } blokkerer automatisk over 2000 sporfølgjarar frå å samle informasjon om det du gjer på nettet.
+firefox-browsers-seriously-private-browsing = Seriøs privat surfing. { -brand-name-firefox } blokkerer automatisk over 2000 sporarar frå å samle informasjon om det du gjer på nettet.
 firefox-browsers-download-for-desktop = Last ned for datamaskin
 firefox-browsers-mobile = Mobil
 firefox-browsers-take-the-same-level-of-privacy = Ta same nivå av personvern-sikring — pluss passord, søkjehistorikk og opne faner — med deg uansett kvar du er.

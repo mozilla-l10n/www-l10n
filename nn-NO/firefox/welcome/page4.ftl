@@ -18,7 +18,7 @@ welcome-page4-firefox-private-safe-browser = «{ -brand-name-firefox }: Privat, 
 welcome-page4-get-data-trackers-off-your = Få bort datasporfølgjarane
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
-welcome-page4-enhanced-tracking-protection = Utvida sporingsvern <a href="{ $privacy }">hindrar 2000+ sporfølgjarar</a> frå å følgje deg rundt på nettet.
+welcome-page4-enhanced-tracking-protection = Utvida sporingsvern <a href="{ $privacy }">hindrar 2000+ sporarar</a> frå å følgje deg rundt på nettet.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Etterlat ingen spor
 welcome-page4-automatically-clear-your-history = Tøm historikken og infokapslane automatisk med privat nettlesingsmodus.
