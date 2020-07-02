@@ -20,6 +20,6 @@ mission-volunteer-opportunities-in-a-number = Pa'ũ oipytyvõsévape g̃uarã he
 mission-history = Tembiasakue
 mission-where-we-come-from-and-how-we-got = Moõguipa roju ha mba'éichapa rog̃uahẽ ko roimehápe
 mission-forums = Ñomongetajere
-mission-topics-include-support-products = Umi mbo'epyrã ogueroike pytyvõ, apopyre ha tembipurupyahu
+mission-topics-include-support-products = Umi mbo’epyrã ogueroike pytyvõ, apopyre ha tembipurupyahu
 mission-governance = Sãmbyhyrã
 mission-our-structure-organization-and-the = Ore mba'etee, atyguasu ha apaite Mozilla atyguáva
