@@ -35,8 +35,8 @@ firefox-channel-nightly-blog = { -brand-name-nightly } 博客
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } 版本是不稳定的测试和开发平台。默认情况下，开发者版本会向 { -brand-name-mozilla } 发送数据，有时数据也会发送给我们的合作伙伴，以帮助我们处理问题与测试一些新点子。<a href="{ $link }">了解会回传哪些数据</a>。
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } 版会自动发送反馈到 { -brand-name-mozilla }。
 firefox-channel-try-new-browser-features = 体验预览版浏览器中的新功能 | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-desktop = 在下列预发布版本中可体验到最新的浏览器功能：Firefox 开发者版、{ -brand-name-firefox-beta } 与 { -brand-name-firefox-nightly }。立即下载！
-firefox-channel-download-and-test-the-latest-desktop = 下载和测试 { -brand-name-firefox } 桌面版在 开发者版、{ -brand-name-beta } 版和 { -brand-name-nightly } 版中的新功能。
+firefox-channel-experience-cutting-edge-desktop = 在下列预发布版本中可体验到最新的浏览器功能：{ -brand-name-firefox-developer-edition }、{ -brand-name-firefox-beta } 与 { -brand-name-firefox-nightly }。立即下载！
+firefox-channel-download-and-test-the-latest-desktop = 下载和测试 { -brand-name-firefox } 桌面版在 { -brand-name-developer-edition }、{ -brand-name-beta } 版和 { -brand-name-nightly } 版中的新功能。
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = 在最稳定的预览版本中测试即将发布的功能。
 firefox-channel-release-notes = 发行说明
