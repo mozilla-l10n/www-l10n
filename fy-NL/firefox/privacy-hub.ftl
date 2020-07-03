@@ -39,6 +39,10 @@ firefox-privacy-hub-see-what-firefox-has-blocked = Besjen wat { -brand-name-fire
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Untfang Ferbettere beskerming tsjin folgjen
 firefox-privacy-hub-download-the-firefox-browser = Download de { -brand-name-firefox }-browser
+firefox-privacy-hub-update-your-firefox-browser = Wurkje jo { -brand-name-firefox }-browser by
+firefox-privacy-hub-invisible-to-the-top-trackers = Unsichtber foar de toptrackers
+firefox-privacy-hub-meet-four-of-the-most-common = Kom yn de kunde mei fjouwer fan de meast foarkommende kategoryen trackers – dy't net mei jo yn de kunde komme sille.
+firefox-privacy-hub-always-in-your-control = Altyd yn kontrôle
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } brûke
 firefox-privacy-hub-your-firefox-account = Jo { -brand-name-firefox-account }
