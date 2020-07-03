@@ -20,6 +20,7 @@ switch-still-not-convinced = Noch net oertsjûge dat switchen nei { -brand-name-
 switch-enjoy-the-web-faster = Genietsje fan in flugger ynternet, foar jo.
 switch-download-and-switch = Download en switch
 switch-share-to-facebook = Diel op Facebook
+switch-share-to-facebook-updated = Diele mei { -brand-name-facebook }
 switch-send-a-tweet = Stjoer in tweet
 switch-hey = Hoi,
 switch-check-it-out = Probearje it ris en lit my witte watsto der fan fynst:
