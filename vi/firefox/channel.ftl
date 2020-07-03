@@ -35,8 +35,8 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = Hàng đêm là một nền tảng phát triển và thử nghiệm không ổn định. Theo mặc định, { -brand-name-nightly } gửi dữ liệu đến { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý các vấn đề và thử các ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } tự động gửi phản hồi cho { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Thử các tính năng duyệt web mới ở các phiên bản tiền phát hành | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-desktop = Trải nghiệm các tính năng tân tiến của trình duyệt trong các phiên bản tiền phát hành: Firefox dành cho nhà phát triển, { -brand-name-firefox-beta } và { -brand-name-firefox-nightly }. Cài đặt ngay!
-firefox-channel-download-and-test-the-latest-desktop = Tải và thử nghiệm các tính năng mới nhất của { -brand-name-firefox } dành cho máy tính bàn với các bản dựng dành cho nhà phát triển, { -brand-name-beta } và { -brand-name-nightly }.
+firefox-channel-experience-cutting-edge-desktop = Trải nghiệm các tính năng trình duyệt tiên tiến trong các phiên bản tiền phát hành: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } và { -brand-name-firefox-nightly }. Tải xuống ngay!
+firefox-channel-download-and-test-the-latest-desktop = Tải xuống và thử { -brand-name-firefox } dành cho máy tính để bàn với tính năng mới nhất với { -brand-name-developer-edition }, { -brand-name-beta } và { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Kiểm tra các tính năng sắp phát hành trong bản xây dựng trước bản phát hành ổn định.
 firefox-channel-release-notes = Ghi chú của bản phát hành
@@ -44,8 +44,8 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Xây dựng, kiểm tra, mở rộng và nhiều hơn nữa với trình duyệt được xây dựng dành cho nhà phát triển.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = Phiên bản dành cho nhà phát triển là một nền tảng phát triển và thử nghiệm không ổn định. Theo mặc định, Phiên bản dành cho nhà phát triển gửi dữ liệu đến { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý các vấn đề và thử các ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
-firefox-channel-firefox-developer-edition = Firefox dành cho nhà phát triển tự động gửi các phản hồi đến { -brand-name-mozilla }.
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } là một nền tảng thử nghiệm và phát triển không ổn định. Theo mặc định, { -brand-name-developer-edition } gửi dữ liệu đến { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý các vấn đề và thử ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } tự động gửi phản hồi tới { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Hãy lướt qua trình duyệt web thế hệ tiếp theo của chúng tôi, và giúp chúng tôi xây dựng một trình duyệt tốt nhất có thể: thử dùng { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Kiểm tra tính năng mới hàng ngày (hay… đêm). Hãy vui vẻ nếu có lỗi xảy ra.
