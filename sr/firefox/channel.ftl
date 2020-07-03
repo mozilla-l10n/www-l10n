@@ -16,14 +16,14 @@ firefox-channel-tips-for-filing-a-bug = Савети за пријављивањ
 firefox-channel-try-new-features-in-a-pre = Испробајте нове могућности у бета верзији { -brand-name-android } прегледача | { -brand-name-firefox }
 firefox-channel-download-and-test-future = Преузмите и тестирајте будућа издања { -brand-name-firefox }-а за десктоп, { -brand-name-android } или { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Искусите нове могућности у тест верзијама прегледача за { -brand-name-android }: { -brand-name-firefox-beta } и { -brand-name-firefox-nightly }. Инсталирајте их одмах!
-firefox-channel-experience-cutting-edge-android = Искусите нове могућности у бета верзијама прегледача за { -brand-name-android }: Firefox beta, { -brand-name-firefox-aurora } и { -brand-name-firefox-nightly }. Инсталирајте их сада!
+firefox-channel-experience-cutting-edge-android = Искусите нове могућности у бета верзијама прегледача за { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } и { -brand-name-firefox-nightly }. Инсталирајте сада!
 firefox-channel-download-and-test-the-latest-android = Преузмите и тестирајте најновије функционалности { -brand-name-firefox }-а за { -brand-name-android } са { -brand-name-aurora }, { -brand-name-beta } и { -brand-name-nightly } издањима.
 firefox-channel-try-the-latest-android-features = Испробајте последње { -brand-name-android } могућности пре него што буду објављене остатку света.
 firefox-channel-all-languages-and-platforms = Сви језици и платформе
 firefox-channel-all-languages-and-builds = Сви језици и издања
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = Бета је нестабилна платформа за тестирање и развој. Уобичајено, Бета шаље податке { -brand-name-mozilla }-и — а понекад и нашим партнерима — како би нам помогли да решимо проблеме и испробамо идеје. <a href="{ $link }">Сазнајте шта је дељено</a>.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } је нестабилна платформа за тестирање и развој. Уобичајено, { -brand-name-beta } шаље податке { -brand-name-mozilla }-и — а понекад и нашим партнерима — како би нам помогли да решимо проблеме и испробамо идеје. <a href="{ $link }">Сазнајте шта је дељено</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } аутоматски шаље повратне информације { -brand-name-mozilla }-и.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
@@ -51,7 +51,7 @@ firefox-channel-get-a-sneak-peek-at-our = Завирите у наш веб пр
 firefox-channel-test-brand-new-features = Тестирајте нове могућности свакога дана (или... ноћи). Уживајте на сопствену одговорност.
 firefox-channel-try-new-features-in-a-pre-release = Испробајте нове могућности у бета верзији { -brand-name-ios } прегледача | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Искусите нове могућности у бета верзији прегледача за { -brand-name-ios } уз { -brand-name-apple }-ов { -brand-name-test-flight } програм. Инсталирајте сада!
-firefox-channel-test-beta-versions-of-firefox-ios-long = Тестирајте бета верзије { -brand-name-firefox }-а за IOS са { -brand-name-apple }-овим Testflight програмом и помозите нам да направимо мобилни прегледач за { -brand-name-iphone }, { -brand-name-iphone } и iPod су још бољим.
+firefox-channel-test-beta-versions-of-firefox-ios-long = Тестирајте бета верзије { -brand-name-firefox }-а за { -brand-name-ios } са { -brand-name-apple }-овим { -brand-name-test-flight } програмом и помозите нам да направимо мобилни прегледач за { -brand-name-iphone }, { -brand-name-ipad } и iPod touch још бољим.
 firefox-channel-test-flight = { -brand-name-test-flight }
-firefox-channel-test-beta-versions-of-firefox-ios = Тестирајте бета верзије { -brand-name-firefox }-a за IOS са { -brand-name-apple }-овим { -brand-name-test-flight } програмом.
+firefox-channel-test-beta-versions-of-firefox-ios = Тестирајте бета верзије { -brand-name-firefox }-a за { -brand-name-ios } са { -brand-name-apple }-овим { -brand-name-test-flight } програмом.
 firefox-channel-sign-up-now = Пријавите се сада
