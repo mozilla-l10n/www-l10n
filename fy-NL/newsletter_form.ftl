@@ -17,6 +17,7 @@ newsletter-form-get-firefox-news = Krij { -brand-name-firefox }-nijs
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ik gean akkoard mei hoe't { -brand-name-mozilla } omgiet mei myn ynformaasje as útlein yn <a href="{ $url }">dit Privacybelied</a>
 newsletter-form-we-will-only-send = Wy sille jo allinnich { -brand-name-mozilla }-relatearre ynformaasje stjoere.
+newsletter-form-we-will-only-send-firefox = Wy stjoere allinnich { -brand-name-firefox }-relatearre ynformaasje.
 newsletter-form-if-you-havent-previously = As jo noch net earder in ynskriuwing foar in { -brand-name-mozilla }-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + jo
 newsletter-form-get-firefox-tips = Untfang tips, trúks, nijs en mear oer { -brand-name-firefox }

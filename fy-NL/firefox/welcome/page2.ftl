@@ -9,3 +9,5 @@
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } – Bewarje nijs, fideo's, ferhalen en mear
 welcome-page2-activate-pocket = { -brand-name-pocket } aktivearje
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-discover-new-stories = Untdek nije ferhalen
+welcome-page2-why-am-i-seeing-this = Wêrom sjoch ik dit?
