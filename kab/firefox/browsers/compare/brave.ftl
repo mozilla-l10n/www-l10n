@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
+# HTML page title
+compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } mgal { -brand-name-brave }: Anwa iminig i ifazen ɣer ɣur-k?
 # Main title
 compare-brave-comparing-firefox-browser = Aserwes n { -brand-name-firefox-browser } ɣer { -brand-name-brave }
