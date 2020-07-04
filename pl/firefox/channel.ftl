@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
 firefox-channel-desktop = Na komputery
-firefox-channel-android = Na { -brand-name-android }a
+firefox-channel-android = Na { -brand-name-android(case: "acc") }
 firefox-channel-ios = Na { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Przetestuj przyszłość
 firefox-channel-be-among-the-first-to-explore = Testuj i sprawdzaj wydania rozwojowe Firefoksa na komputery, { -brand-name-android }a i { -brand-name-ios }.

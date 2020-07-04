@@ -233,6 +233,15 @@
         [ins] Firefoksem Aurora
         [loc] Firefoksie Aurora
     }
+-brand-name-aurora =
+    { $case ->
+       *[nom] Aurora
+        [gen] Aurory
+        [dat] Aurorze
+        [acc] Aurorę
+        [ins] Aurorą
+        [loc] Aurorze
+    }
 
 ## Firefox products
 
@@ -588,6 +597,7 @@
         [ins] iPhone’em
         [loc] iPhonie
     }
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -595,6 +605,7 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram =
     { $case ->
        *[nom] Instagram
@@ -604,6 +615,16 @@
         [ins] Instagramem
         [loc] Instagramie
     }
+-brand-name-messenger =
+    { $case ->
+       *[nom] Messenger
+        [gen] Messengera
+        [dat] Messengerowi
+        [acc] Messengera
+        [ins] Messengerem
+        [loc] Messengerze
+    }
+-brand-name-workplace = Workplace
 
 ## Google products
 
