@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } をダウンロード
-navigation-get-a-firefox-account = { -brand-name-firefox-account }を取得
+navigation-get-a-firefox-account = { -brand-name-firefox-account } を取得
 navigation-firefox-browser-for-desktop = デスクトップ版 { -brand-name-firefox-browser }
 navigation-firefox-browser-for-mobile = モバイル版 { -brand-name-firefox-browser }
 navigation-download-for-ios = { -brand-name-ios } 版をダウンロード
