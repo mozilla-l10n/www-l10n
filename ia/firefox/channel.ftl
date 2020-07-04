@@ -16,7 +16,7 @@ firefox-channel-tips-for-filing-a-bug = Consilios pro un bon reporto de error
 firefox-channel-try-new-features-in-a-pre = Proba le ultime functionalitates in un edition preliminar del navigator { -brand-name-android } | { -brand-name-firefox }
 firefox-channel-download-and-test-future = Discarga le futur editiones de { -brand-name-firefox } pro scriptorio, { -brand-name-android } e { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Experimenta le functionalitates le plus innovative in un version preliminar del navigator pro { -brand-name-android }: { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Installa los ora!
-firefox-channel-experience-cutting-edge-android = Experimenta le functionalitates le plus innovative in un version preliminar del navigator pro { -brand-name-android }: { -brand-name-firefox-beta }, FIrefox Aurora e { -brand-name-firefox-nightly }. Installa los ora!
+firefox-channel-experience-cutting-edge-android = Experimenta le functionalitates vias breve in un version preliminar del navigator pro { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }. Installa ora!
 firefox-channel-download-and-test-the-latest-android = Discarga e testa le plus nove functionalitates de { -brand-name-firefox } pro { -brand-name-android } con le versiones { -brand-name-aurora }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Essaya le plus nove functionalitates de { -brand-name-android }, ante que illes es presentate al resto del mundo.
 firefox-channel-all-languages-and-platforms = Tote le linguas e le platteformas
@@ -28,7 +28,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } invia 
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Invia nos tu commentarios</a> pro adjutar nos a perfectionar le efficientia e functionalitate in un ambiente stabile.
-firefox-channel-check-out-new-android-features = Reguarda le nove functionalitates in lor phases le plus initial. Gaude te a tu proprie risco.
+firefox-channel-check-out-new-android-features = Reguarda le nove functionalitates de { -brand-name-android } in lor phases le plus initial. Gaude a tu proprie risco.
 firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
