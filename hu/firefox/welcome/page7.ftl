@@ -9,7 +9,7 @@
 page7-make-it-harder-for-facebook = Nehezítse meg, hogy a { -brand-name-facebook } nyomon kövesse
 page7-its-okay-to-like-facebook = Rendben van, ha tetszik Önnek a { -brand-name-facebook }
 page7-if-you-still-kinda-like-facebook = Ha továbbra is kedveli a { -brand-name-facebook }ot, de nem bízik bennük, próbálja ki a { -brand-name-firefox } által készített { -brand-name-facebook-container } kiegészítőt, és tegye nehezebbé számukra, hogy nyomon kövessék a weben.
-page7-get-facebook-container = Facebook konténer beszerzése
+page7-get-facebook-container = { -brand-name-facebook-container } beszerzése
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Az Instagramra is működik
 page7-facebook-container-also-works = A { -brand-name-facebook-container } más, a { -brand-name-facebook }hoz tartozó oldalakon is működik, mint például az { -brand-name-instagram }, a { -brand-name-facebook-messenger } és a { -brand-name-workplace }.
