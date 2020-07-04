@@ -45,13 +45,13 @@ firefox-channel-build-test-scale-and-more = Buduj i testuj z jedyną przegląd
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } to niestabilna wersja do testowania i rozwoju. Domyślnie wersja { -brand-name-developer-edition } wysyła dane do { -brand-name-mozilla(case: "gen") } — i czasami naszych partnerów — aby pomóc nam naprawiać problemy i wypróbowywać nowe pomysły. <a href="{ $link }">Przeczytaj informacje o tym, co jest udostępniane</a>.
-firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automatycznie przesyła statystyki użytkownika do Mozilli.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automatycznie przesyła statystyki użytkownika do { -brand-name-mozilla(case: "gen") }.
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = Zobacz zapowiedź następnej generacji naszej przeglądarki i pomóż nam uczynić możliwie najlepszą przeglądarką — wypróbuj Firefoksa Nightly.
+firefox-channel-get-a-sneak-peek-at-our = Zobacz zapowiedź następnej generacji naszej przeglądarki i pomóż nam uczynić możliwie najlepszą przeglądarką — wypróbuj { -brand-name-firefox-nightly(case: "acc") }.
 firefox-channel-test-brand-new-features = Codziennie (lub conocnie…) testuj najnowsze funkcje, ale na własne ryzyko.
 firefox-channel-try-new-features-in-a-pre-release = Wypróbuj nowe funkcje przeglądarki na { -brand-name-ios } w wersji rozwojowej | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Przetestuj najnowocześniejsze funkcje przeglądarki na { -brand-name-ios } dzięki { -brand-name-apple } { -brand-name-test-flight }. Zainstaluj teraz!
-firefox-channel-test-beta-versions-of-firefox-ios-long = Testuj wersje beta Firefoksa na { -brand-name-ios } poprzez program { -brand-name-test-flight } od { -brand-name-apple } i pomagaj ulepszać naszą przeglądarkę dla { -brand-name-iphone }’a, { -brand-name-ipad }a i iPoda touch.
+firefox-channel-test-beta-versions-of-firefox-ios-long = Testuj wersje beta { -brand-name-firefox(case: "gen") } na { -brand-name-ios } poprzez program { -brand-name-test-flight } od { -brand-name-apple } i pomagaj ulepszać naszą przeglądarkę dla { -brand-name-iphone(case: "gen") }, { -brand-name-ipad(case: "gen") } i iPoda touch.
 firefox-channel-test-flight = { -brand-name-test-flight }
-firefox-channel-test-beta-versions-of-firefox-ios = Testuj wersje beta Firefoksa na { -brand-name-ios } poprzez program { -brand-name-test-flight } od { -brand-name-apple }.
+firefox-channel-test-beta-versions-of-firefox-ios = Testuj wersje beta { -brand-name-firefox(case: "gen") } na { -brand-name-ios } poprzez program { -brand-name-test-flight } od { -brand-name-apple }.
 firefox-channel-sign-up-now = Zapisz się
