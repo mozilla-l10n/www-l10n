@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-join-firefox = { -brand-name-firefox } に参加
+firefox-home-get-the-browser-extension = ブラウザー拡張機能を入手
+firefox-home-get-the-facebook-container = { -brand-name-facebook-container } 拡張機能を入手
+firefox-home-download-the-browser = ブラウザーをダウンロード
+firefox-home-download-the-app = アプリをダウンロード
+firefox-home-desktop = デスクトップ
 firefox-home-browsers = ブラウザー
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
