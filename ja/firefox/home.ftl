@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-start-getting-breach = データ侵害に関するレポートを入手
 firefox-home-join-firefox = { -brand-name-firefox } に参加
 firefox-home-get-the-browser-extension = ブラウザー拡張機能を入手
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } 拡張機能を入手
