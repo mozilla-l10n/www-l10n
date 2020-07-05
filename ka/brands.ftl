@@ -23,7 +23,16 @@
 
 ## Firefox browsers
 
--brand-name-firefox = Firefox
+-brand-name-firefox =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefox-ის
+        [dat] Firefox-ს
+        [ben] Firefox-ისთვის
+        [loc] Firefox-ზე
+        [ine] Firefox-ში
+        [add] Firefox-თან
+    }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
@@ -33,6 +42,7 @@
         [ben] Firefox-ბრაუზერისთვის
         [loc] Firefox-ბრაუზერზე
         [ine] Firefox-ბრაუზერში
+        [add] Firefox-ბრაუზერთან
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -62,7 +72,16 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox-ანგარიში
+-brand-name-firefox-account =
+    { $case ->
+       *[nom] Firefox-ანგარიში
+        [gen] Firefox-ანგარიშის
+        [dat] Firefox-ანგარიშს
+        [ben] Firefox-ანგარიშისთვის
+        [loc] Firefox-ანგარიშზე
+        [ine] Firefox-ანგარიშში
+        [add] Firefox-ანგარიშთან
+    }
 -brand-name-firefox-accounts =
     { $case ->
        *[nom] Firefox-ანგარიშები
