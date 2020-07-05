@@ -22,7 +22,7 @@ set-as-default-thanks-youre-all-set = ყველაფერი გამა�
 set-as-default-thanks-get-firefox-for-mobile = გადმოწერეთ { -brand-name-firefox } მობილურისთვის
 set-as-default-thanks-travel-the-internet-with = იმოგზაურეთ ინტერნეტში უსაფრთხოდ, ნებისმიერი მოწყობილობით.
 set-as-default-thanks-download-the-app = ჩამოტვირთეთ აპლიკაცია
-set-as-default-thanks-join-firefox = შემოუერთდით { -brand-name-firefox }-ს
+set-as-default-thanks-join-firefox = შემოუერთდით { -brand-name-firefox(case: "dat") }
 set-as-default-thanks-sign-up-for-a-free-account = შექმენით უფასო ანგარიში და დაასინქრონეთ თქვენი პაროლები, ისტორია და პარამეტრები, მოწყობილობებს შორის.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = ანგარიშის შექმნა

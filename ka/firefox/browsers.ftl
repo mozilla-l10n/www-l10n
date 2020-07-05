@@ -26,7 +26,7 @@ firefox-browsers-go-beyond-two-dimensions-and = გადადგით ნა�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = საიტების ასაგებად და კოდის გასაუმჯობესებლად გამოიყენეთ { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = გაიცანით უკეთ { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = შემოუერთდით { -brand-name-firefox }-ს და სრულყოფილად გამოიყენეთ ყველა პროდუქტი — თითოეულ მოწყობილობაზე.
+firefox-browsers-join-firefox-and-get-the-most = შემოუერთდით { -brand-name-firefox(case: "dat") } და სრულყოფილად გამოიყენეთ ყველა პროდუქტი — თითოეულ მოწყობილობაზე.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

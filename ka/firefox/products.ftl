@@ -33,8 +33,8 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = აღმოაჩინეთ საუკეთესო მასალები ვებსივრცეში — და გამოიყენეთ როცა მოგესურვებათ და სადაც მოგესურვებათ.
 firefox-products-get-pocket = გამოიყენეთ { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = უკეთ გაიცანით { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = შემოუერთდით { -brand-name-firefox }-ს და სრულყოფილად გამოიყენეთ ყველა პროდუქტი — თითოეულ მოწყობილობაზე.
+firefox-products-join-firefox-and-get-the-most = შემოუერთდით { -brand-name-firefox(case: "dat") } და სრულყოფილად გამოიყენეთ ყველა პროდუქტი — თითოეულ მოწყობილობაზე.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = უკვე გაქვთ ანგარიში? <a { $fxa_attr }>შედით</a> ან <a { $accounts_attr }>იხილეთ ვრცლად,</a> როგორ შემოუერთდეთ { -brand-name-firefox }-ს.
+firefox-products-already-have-an-account-sign = უკვე გაქვთ ანგარიში? <a { $fxa_attr }>შედით</a> ან <a { $accounts_attr }>იხილეთ ვრცლად,</a> როგორ შემოუერთდეთ { -brand-name-firefox(case: "dat") }.
