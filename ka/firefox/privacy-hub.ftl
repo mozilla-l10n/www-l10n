@@ -44,3 +44,21 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ი�
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>იცავს</strong> თქვენს პირადულობას თითოეულ პროდუქტში
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ მეთვალყურე იზღუდება — თავისთავად
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = თვალის დევნებამ სრულიად მოიცვა ინტერნეტი: კომპანიები აღრიცხავენ თითოეულ მოქმედებას, დაწკაპებასა და შესყიდვას, რომ გამოიცნონ და ზემოქმედება მოახდინონ თქვენს ყოველ მომდევნო ნაბიჯზე. ჩვენ კი მიგვაჩნია, რომ ეს უხეში ხელყოფაა თქვენი პირადი სივრცის. სწორედ ამიტომაცაა { -brand-name-firefox }-ბრაუზერები მობილურზე და კომპიუტერზეც აღჭურვილი თვალთვალისგან გაძლიერებული დაცვით.
+firefox-privacy-hub-if-you-want-to-see-what = თუ გსურთ ნახოთ რას ზღუდავს { -brand-name-firefox } თქვენთვის, ეწვიეთ ამ გვერდს თქვენს { -brand-name-firefox }-ბრაუზერში კომპიუტერზე.
+firefox-privacy-hub-see-what-firefox-has-blocked = იხილოთ რას ზღუდავს { -brand-name-firefox } თქვენთვის
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = ისარგებლეთ თვალთვალისგან გაძლიერებული დაცვით
+firefox-privacy-hub-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox }-ბრაუზერი
+firefox-privacy-hub-update-your-firefox-browser = განაახლეთ თქვენი { -brand-name-firefox }-ბრაუზერი
+firefox-privacy-hub-invisible-to-the-top-trackers = უხილავი ცნობილი მეთვალყურეებისთვის
+firefox-privacy-hub-meet-four-of-the-most-common = გაიცანით ოთხი ყველაზე გავრცელებული სახეობის მეთვალყურე — რომლებსაც არ უნდა გადაეყაროთ.
+firefox-privacy-hub-always-in-your-control = მუდამ თქვენი მართვის ქვეშ
+firefox-privacy-hub-want-to-customize-what = გსურთ აირჩიოთ რა შეიზღუდოს? ყველა პარამეტრს ერთი წკაპით შეცვლით.
+firefox-privacy-hub-protection-beyond-tracking = დაცვა, თვალთვალის მიღმაც
+firefox-privacy-hub-if-you-have-a-firefox-account = თუ გაქვთ { -brand-name-firefox-account }, შეგიძლიათ ნახოთ, როგორ გეხმარებით პირადი ინფორმაციისა და პაროლების უსაფრთხოდ შენახვაში.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = არანაკლებ { $trackers } მეთვალყურეს ზღუდავს ყოველდღიურად { -brand-name-firefox } მომხმარებლებისთვის მსოფლიოში
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
