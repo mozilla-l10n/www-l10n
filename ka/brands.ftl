@@ -114,7 +114,12 @@
         [loc] Android-ზე
         [ben] Android-ისთვის
     }
--brand-name-ios = iOS
+-brand-name-ios =
+    { $case ->
+       *[nom] iOS
+        [loc] iOS-ზე
+        [ben] iOS-ისთვის
+    }
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-windows = Windows
