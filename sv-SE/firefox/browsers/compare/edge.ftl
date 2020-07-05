@@ -40,6 +40,7 @@ compare-edge-with-internet-explorer-fallback = Med { -brand-name-ie } lärde { -
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-edge-firefox-has-been-available = { -brand-name-firefox } har funnits till { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac } och { -brand-name-linux } i flera år. Och som du kan förvänta dig med alla moderna webbläsare låter { -brand-name-firefox } dig logga in med ett <a { $attrs }>gratis konto</a> och synkronisera data som lösenord, surfhistorik, bokmärken och öppna flikar mellan din dator, surfplatta och telefon. Det låter dig också synkronisera mellan plattformar.
+compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } låter dig också ansluta ditt associerade { -brand-name-microsoft }-konto och logga in för att synkronisera dina favoriter, historik, lösenord och mer mellan din dator och { -brand-name-ios }- eller { -brand-name-android }-enheter.
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } låter dig också ansluta ditt associerade { -brand-name-microsoft }-konto och logga in för att synkronisera dina favoriter, historik, lösenord och mer mellan din dator och { -brand-name-ios }- eller { -brand-name-android }-enheter, även om vissa { -brand-name-android }-surfplattor för närvarande inte stöds.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
