@@ -62,7 +62,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = თუ გაქვთ { -br
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = არანაკლებ { $trackers } მეთვალყურეს ზღუდავს ყოველდღიურად { -brand-name-firefox } მომხმარებლებისთვის მსოფლიოში
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = როცა შეგყავთ ელფოსტა { -brand-name-firefox-monitor }-ში, ჩვენ ვამოწმებთ ცნობილი მიტაცებებისას გამჟღავნებულ მონაცემებში და დაუყოვნებლივ ვივიწყებთ — ხოლო თუ დაგვრთავთ ნებას, შეგვიძლია განვაგრძოთ გადამოწმება თქვენი პირადი ინფორმაციის უსაფრთხოების, მიტაცებების ახალი შემთხვევების დროსაც.
+firefox-privacy-hub-when-you-enter-your-email = როცა შეგყავთ ელფოსტა { -brand-name-firefox-monitor }-ში, ჩვენ ვამოწმებთ მას ცნობილი მიტაცებებისას გამჟღავნებულ მონაცემებში და დაუყოვნებლივ ვივიწყებთ — ხოლო თუ დაგვრთავთ ნებას, შეგვიძლია განვაგრძოთ გადამოწმება თქვენი პირადი ინფორმაციის უსაფრთხოების, მიტაცებების ახალი შემთხვევების დროსაც.
 firefox-privacy-hub-check-for-breaches = გაეცანით მიტაცების შემთხვევებს
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = პაროლები და ანგარიშები, რომლებსაც ინახავს { -brand-name-firefox-lockwise } დაშიფრულია ყველა თქვენს მოწყობილობაზე, ასე რომ ჩვენთვისაც არაა ხილული.
