@@ -53,5 +53,5 @@ firefox-channel-try-new-features-in-a-pre-release = Tatojtob'ej k'ak'a' taq sama
 firefox-channel-experience-cutting-edge-features-ios = Tatojtob'ej ri nima'q taq b'anikil pa jun rokik'amaya'l { -brand-name-ios } nelesäx yan pe rik'in ri { -brand-name-test-flight }i rucholkema' { -brand-name-apple }’s. ¡Tiyak wakami!
 firefox-channel-test-beta-versions-of-firefox-ios-long = Ke'atojtob'ej ri taq ruwäch beta richin { -brand-name-firefox } richin { -brand-name-ios } rik'in ri nuk'samaj { -brand-name-test-flight } richin { -brand-name-apple }’s ke ri' nato' ri ajoyonib'äl qokik'amaya'l richin { -brand-name-iphone }, { -brand-name-ipad } chuqa' iPod touch ütz nub'än.
 firefox-channel-test-flight = { -brand-name-test-flight }
-firefox-channel-test-beta-versions-of-firefox-ios = Ke'atojtob'ej ri taq ruwäch beta richin { -brand-name-firefox } richin { -brand-name-ios } rik'in ri runuk'samaj TestFlignt richin { -brand-name-apple }.
+firefox-channel-test-beta-versions-of-firefox-ios = Ke'atojtob'ej ri beta taq ruwäch richin { -brand-name-firefox } richin { -brand-name-ios } rik'in { -brand-name-apple }’s { -brand-name-test-flight } cholkema'.
 firefox-channel-sign-up-now = Tatz'ib'aj awi' wakami
