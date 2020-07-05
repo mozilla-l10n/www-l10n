@@ -25,7 +25,15 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox-ბრაუზერი
+-brand-name-firefox-browser =
+    { $case ->
+       *[nom] Firefox-ბრაუზერი
+        [gen] Firefox-ბრაუზერის
+        [dat] Firefox-ბრაუზერს
+        [ben] Firefox-ბრაუზერისთვის
+        [loc] Firefox-ბრაუზერზე
+        [ine] Firefox-ბრაუზერში
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
