@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } — პირადულობის დაცვის პირობა
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } აღრიცხავს ნაკლებს და ინახავს უსაფრთხოდ, ფარული ზრახვების გარეშე.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox }-პროდუქტები განკუთვნილი თქვენი <strong>პირადულობის</strong> დასაცავად
 # Sub navigation title
@@ -20,7 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = ჩვენ ვცდილო
 firefox-privacy-hub-all-tech-companies-collect = ყველა ტექკომპანია აგროვებს მონაცემებს, პროდუქტების გასაუმჯობესებლად. მაგრამ ამისთვის არაა საჭირო ყველანაირი პირადი მონაცემი. ჩვენ მხოლოდ ის ინფორმაცია გვჭირდება, რაც არსებითად გამოგადგებათ. მუდამ ვეკითხებით საკუთარ თავს: ნამდვილად გვჭირდება? რისთვის გვჭირდება? და როდის შეგვიძლია წავშალოთ?
 firefox-privacy-hub-keep-it-safe = უსაფრთხოდ შენახვა
 firefox-privacy-hub-we-do-the-hard-work-to-protect = ჩვენ ძალისხმევას არ ვიშურებთ თქვენი პირადი ინფორმაციის დასაცავად
-firefox-privacy-hub-data-security-is-complicated = მონაცემთა უსაფრთხოების დაცვა მეტად რთულია — ყოველ შემთხვევაში, უნდა იყოს. სწორედ ამიტომ, ჩვენ დამატებით ნაბიჯებს ვდგამთ ჩვენ ხელთ არსებული მონაცემების სახეობებად დაყოფისთვის, ვიცავთ წესებს, თითოეული მათგანის შენახვისა და უსაფრთხოებისთვის და არასდროს ვწყვეტთ ამაზე მუშაობას. ჩვენთვის უმთავრესია თქვენი პირადულობა. მასში ვაბანდებთ მთელ ძალისხმევას და მუდამ მისი ერთგულნი ვართ. ჩვენ სხვა კომპანიებსაც კი ვასწავლით, როგორ აკეთონ ეს ყველაფერი.
+firefox-privacy-hub-data-security-is-complicated = მონაცემთა უსაფრთხოების დაცვა მეტად რთულია — ყოველ შემთხვევაში, უნდა იყოს. სწორედ ამიტომ, ჩვენ დამატებით ნაბიჯებს ვდგამთ ჩვენს ხელთ არსებული მონაცემების სახეობებად დაყოფისთვის, ვიცავთ წესებს, თითოეული მათგანის შენახვისა და უსაფრთხოებისთვის და არასდროს ვწყვეტთ ამაზე მუშაობას. ჩვენთვის უმთავრესია თქვენი პირადულობა. მასში ვაბანდებთ მთელ ძალისხმევას და მუდამ მისი ერთგულნი ვართ. ჩვენ სხვა კომპანიებსაც კი ვასწავლით, როგორ აკეთონ ეს ყველაფერი.
 firefox-privacy-hub-no-secrets = არანაირი საიდუმლოება
 firefox-privacy-hub-youll-always-know-where-you = ყოველთვის შეგეძლებათ დაგვეყრდნოთ
 # Variables:
@@ -36,3 +40,7 @@ firefox-privacy-hub-your-privacy-by-the-product = თქვენი პირ�
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-პროდუქტები მუშაობს განსხვავებულად — ვინაიდან, ისინი განკუთვნილია პირველ რიგში, თქვენი პირადულობის დაცვისთვის.
 firefox-privacy-hub-learn-about-our-products = ვრცლად, ჩვენს პროდუქტებზე
 firefox-privacy-hub-firefox-privacy-by-the = პირადულობა { -brand-name-firefox }-პროდუქტებში
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } იცავს თქვენს პირადულობას თითოეულ პროდუქტში.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>იცავს</strong> თქვენს პირადულობას თითოეულ პროდუქტში
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ მეთვალყურე იზღუდება — თავისთავად
