@@ -19,3 +19,4 @@ lockwise-your-privacy-comes-first = თქვენი პირადულო�
 lockwise-we-keep-your-data-safe = ჩვენ უსაფრთხოდ ვინახავთ თქვენს მონაცემებს და არასდროს ვყიდით.
 lockwise-support = მხარდაჭერა
 lockwise-your-privacy = თქვენი პირადი მონაცემების დაცვა
+lockwise-github = { -brand-name-github }
