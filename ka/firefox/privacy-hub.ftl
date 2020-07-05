@@ -47,7 +47,7 @@ firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ მეთვა
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = თვალის დევნებამ სრულიად მოიცვა ინტერნეტი: კომპანიები აღრიცხავენ თითოეულ მოქმედებას, დაწკაპებასა და შესყიდვას, რომ გამოიცნონ და ზემოქმედება მოახდინონ თქვენს ყოველ მომდევნო ნაბიჯზე. ჩვენ კი მიგვაჩნია, რომ ეს უხეში ხელყოფაა თქვენი პირადი სივრცის. სწორედ ამიტომაცაა { -brand-name-firefox }-ბრაუზერები მობილურზე და კომპიუტერზეც აღჭურვილი თვალთვალისგან გაძლიერებული დაცვით.
 firefox-privacy-hub-if-you-want-to-see-what = თუ გსურთ ნახოთ რას ზღუდავს { -brand-name-firefox } თქვენთვის, ეწვიეთ ამ გვერდს თქვენს { -brand-name-firefox }-ბრაუზერში კომპიუტერზე.
-firefox-privacy-hub-see-what-firefox-has-blocked = იხილოთ რას ზღუდავს { -brand-name-firefox } თქვენთვის
+firefox-privacy-hub-see-what-firefox-has-blocked = იხილეთ რას ზღუდავს { -brand-name-firefox } თქვენთვის
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = ისარგებლეთ თვალთვალისგან გაძლიერებული დაცვით
 firefox-privacy-hub-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox }-ბრაუზერი
@@ -71,3 +71,16 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = ჩვენ ვერ ვიხილავთ სახელსა შიგთავსს იმ დიდი ფაილებისას, რომელთა გაზიარებისთვისაც { -brand-name-firefox-send } გამოიყენება, ვინაიდან ისინი გამჭოლად იშიფრება — თავად ირჩევთ ვინ შეძლოს გაგზავნილის ხილვა და ასევე, შეგიძლიათ დაუყენოთ ვადის გასვლის თარიღი და პაროლი.
 firefox-privacy-hub-send-a-file = გაგზავნეთ ფაილი
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } გთავაზობთ მაღალი ხარისხის, ადამიანების ზედამხედველობით შერჩეულ სტატიებს, თქვენი მონახულებული გვერდების ისტორიის აღრიცხვისა და პირადი მონაცემების სარეკლამოებისთვის განდობის გარეშე.
+firefox-privacy-hub-get-pocket = გამოიყენეთ { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = თქვენი { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = ყველ მონაცემები, რომელსაც ასინქრონებს { -brand-name-firefox-account } — მონახულებული გვერდებისა და პაროლების ჩათვლით — დაშიფრულია. მისი ერთადერთი გასაღები კი თქვენ მიერ შედგენილი პაროლია.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = წაიყოლეთ პირადი მონაცემები და სანიშნები ყველგან, სადაც { -brand-name-firefox-account } გამოიყენება.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = უკვე გაქვთ ანგარიში? <a { $sign_in } class="{ $class_name }">შედით</a> ან <a href="{ $learn_more }">იხილეთ ვრცლად</a>, როგორ შემოუერთდეთ { -brand-name-firefox }-ს.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = გაეცანით <a href="{ $url }">პირადულობის განაცხადს</a> ჩვენი პროდუქტებისთვის
