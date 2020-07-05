@@ -62,3 +62,12 @@ firefox-privacy-hub-if-you-have-a-firefox-account = თუ გაქვთ { -br
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = არანაკლებ { $trackers } მეთვალყურეს ზღუდავს ყოველდღიურად { -brand-name-firefox } მომხმარებლებისთვის მსოფლიოში
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = როცა შეგყავთ ელფოსტა { -brand-name-firefox-monitor }-ში, ჩვენ ვამოწმებთ ცნობილი მიტაცებებისას გამჟღავნებულ მონაცემებში და დაუყოვნებლივ ვივიწყებთ — ხოლო თუ დაგვრთავთ ნებას, შეგვიძლია განვაგრძოთ გადამოწმება თქვენი პირადი ინფორმაციის უსაფრთხოების, მიტაცებების ახალი შემთხვევების დროსაც.
+firefox-privacy-hub-check-for-breaches = გაეცანით მიტაცების შემთხვევებს
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = პაროლები და ანგარიშები, რომლებსაც ინახავს { -brand-name-firefox-lockwise } დაშიფრულია ყველა თქვენს მოწყობილობაზე, ასე რომ ჩვენთვისაც არაა ხილული.
+firefox-privacy-hub-learn-more-about-lockwise = გაიცანით უკეთ { -brand-name-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = ჩვენ ვერ ვიხილავთ სახელსა შიგთავსს იმ დიდი ფაილებისას, რომელთა გაზიარებისთვისაც { -brand-name-firefox-send } გამოიყენება, ვინაიდან ისინი გამჭოლად იშიფრება — თავად ირჩევთ ვინ შეძლოს გაგზავნილის ხილვა და ასევე, შეგიძლიათ დაუყენოთ ვადის გასვლის თარიღი და პაროლი.
+firefox-privacy-hub-send-a-file = გაგზავნეთ ფაილი
+firefox-privacy-hub-pocket = { -brand-name-pocket }
