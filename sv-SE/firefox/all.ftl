@@ -18,9 +18,9 @@ firefox-all-platform = Plattform:
 firefox-all-language = Språk:
 firefox-all-sorry-we-couldnt-find = Tyvärr kunde vi inte hitta den nedladdning du letar efter. Vänligen försök igen, eller välj en nedladdning från listan nedan.
 firefox-all-the-pre-alpha-version = Pre-alpha-versionen för mer erfarna användare som gillar att jaga kraschar och testa nya funktioner medans dom blir programmerade.
-firefox-all-64-bit-installers = 64-bitars installerare
+firefox-all-64-bit-installers = 64-bitars installationsprogram
 firefox-all-choose-a-64-bit-installer = Välj ett 64-bitars installationsprogram för datorer med 64-bitars processorer, vilket gör det möjligt för dem att fördela mer RAM till enskilda program - särskilt viktigt för spel och andra krävande applikationer.
-firefox-all-32-bit-installers = 32-bitars installerare
+firefox-all-32-bit-installers = 32-bitars installationsprogram
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Ladda ner webbläsaren { -brand-name-firefox-browser } på svenska och mer än 90 andra språk
 # HTML page description, also used as the introductory text.
@@ -33,7 +33,7 @@ firefox-all-get-a-sneak-peek-at = Ta en smygtitt på de senaste { -brand-name-fi
 firefox-all-test-your-sites-against = Testa dina webbplatser mot snart utgivna { -brand-name-firefox }-webbläsarfunktioner med kraftfulla, flexibla DevTools som är aktiverade som standard.
 firefox-all-count-on-stability-and = Räkna med stabilitet och användarvänlighet med denna { -brand-name-firefox }-webbläsare byggd för företag.
 firefox-all-windows-installers-for = Windows installerare för företags IT miljöer som förenklar konfigurationen, distributionen och hanteringen av { -brand-name-firefox-browser }.
-firefox-all-arm64-installers = ARM64/AArch64-installationsprogram
+firefox-all-arm64-installers = ARM64/AArch64 installationsprogram
 firefox-all-arm64-installers-optimized = ARM64/AArch64-installationsprogram optimerat för Snapdragon-drivna { -brand-name-windows }-datorer.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -43,7 +43,7 @@ firefox-all-choose-a-32-bit-installer = Välj ett 32-bitars installationsprogram
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
 firefox-all-download-product-for = Ladda ner { $product_label } för { $platform } på { $locale }
-firefox-all-msi-installers = MSI installerare
+firefox-all-msi-installers = MSI installationsprogram
 firefox-all-which-version = Vilken version vill du ha?
 firefox-all-select-your-preferred-installer = Välj önskat installationsprogram
 firefox-all-select-your-preferred-language = Välj ditt önskade språk
