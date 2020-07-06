@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
 # HTML page title
-welcome-page3-get-the-free-account-that = შექმენით უფასო ანგარიში, რომელიც დაიცავს თქვენს პირადულობას. შემოუერთდით { -brand-name-firefox(case: "dat") }.
+welcome-page3-get-the-free-account-that = შექმენით უფასო ანგარიში, რომელიც დაიცავს თქვენს პირადულობას. შემოუერთდით { -brand-name-firefox }-ს.
 welcome-page3-no-account-required-but-you = ანგარიში არაა აუცილებელი. მაგრამ შეიძლება გამოგადგეთ.
 welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } იმდენად მცირე მონაცემებს აღრიცხავს თქვენ შესახებ, რომ ელფოსტის მისამართის მითითებაც არ გჭირდებათ. მაგრამ { -brand-name-firefox-account(case: "gen") } შექმნით, შეგვეძლება თქვენი პირადი მონაცემები, მთელ ინტერნეტში დავიცვათ.
 welcome-page3-sign-in = შესვლა

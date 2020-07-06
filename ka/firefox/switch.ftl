@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = გადმოდით { -brand-name-chrome }-იდან { -brand-name-firefox }-ზე, რამდენიმე წუთში
-switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox(case: "loc") } გადასვლა სწრაფი, მარტივი და უსაფრთხოა, ვინაიდან { -brand-name-firefox } გადმოიტანს ყველა თქვენს სანიშნს, პაროლსა თუ პარამეტრს, { -brand-name-chrome }-იდან.
-switch-switching-to-firefox-is-fast = { -brand-name-firefox(case: "loc") } გადმოსვლა შესაძლებელია უსწრაფესად, მარტივად და უდანაკარგოდ, რადგან { -brand-name-firefox(case: "loc") } სრულად გადმოვა თქვენი სანიშნები, შევსებული ველების მონაცემები, პაროლები და პარამეტრები { -brand-name-chrome }-იდან.
+switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox }-ზე გადასვლა სწრაფი, მარტივი და უსაფრთხოა, ვინაიდან { -brand-name-firefox } გადმოიტანს ყველა თქვენს სანიშნს, პაროლსა თუ პარამეტრს, { -brand-name-chrome }-იდან.
+switch-switching-to-firefox-is-fast = { -brand-name-firefox }-ზე გადმოსვლა შესაძლებელია უსწრაფესად, მარტივად და უდანაკარგოდ, რადგან { -brand-name-firefox }-ზე სრულად გადმოვა თქვენი სანიშნები, შევსებული ველების მონაცემები, პაროლები და პარამეტრები { -brand-name-chrome }-იდან.
 switch-switching-to-firefox-page-description = { -brand-name-firefox }-ზე გადმოსვლა შესაძლებელია უსწრაფესად, მარტივად და უდანაკარგოდ. { -brand-name-firefox }-ზე სრულად გადმოვა თქვენი სანიშნები, შევსებული ველების მონაცემები, პაროლები და პარამეტრები { -brand-name-chrome }-იდან.
 switch-select-what-to-take = შეარჩიეთ, თუ რისი წამოღება გინდათ { -brand-name-chrome }-იდან.
 switch-let-firefox-do-the-rest = დაელოდეთ, სანამ { -brand-name-firefox } გააკეთებს თავის საქმეს.

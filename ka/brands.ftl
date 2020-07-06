@@ -23,16 +23,7 @@
 
 ## Firefox browsers
 
--brand-name-firefox =
-    { $case ->
-       *[nom] Firefox
-        [gen] Firefox-ის
-        [dat] Firefox-ს
-        [ben] Firefox-ისთვის
-        [loc] Firefox-ზე
-        [ine] Firefox-ში
-        [add] Firefox-თან
-    }
+-brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
