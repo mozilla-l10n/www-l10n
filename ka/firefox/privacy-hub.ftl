@@ -74,8 +74,8 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } გთავაზობთ მაღალი ხარისხის, ადამიანების ზედამხედველობით შერჩეულ სტატიებს, თქვენი მონახულებული გვერდების ისტორიის აღრიცხვისა და პირადი მონაცემების სარეკლამოებისთვის განდობის გარეშე.
 firefox-privacy-hub-get-pocket = გამოიყენეთ { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = თქვენი { -brand-name-firefox-account }
-firefox-privacy-hub-all-the-information-synced = ყველა მონაცემი, რომელსაც ასინქრონებს { -brand-name-firefox-account } — მონახულებული გვერდებისა და პაროლების ჩათვლით — დაშიფრულია. მისი ერთადერთი გასაღები კი თქვენ მიერ შედგენილი პაროლია.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = წაიყოლეთ პირადი მონაცემები და სანიშნები ყველგან, სადაც { -brand-name-firefox-account } გამოიყენება.
+firefox-privacy-hub-all-the-information-synced = ყველა მონაცემი, რომელსაც ასინქრონებთ { -brand-name-firefox-account(case: "adj") } — მონახულებული გვერდებისა და პაროლების ჩათვლით — დაშიფრულია. მისი ერთადერთი გასაღები კი თქვენ მიერ შედგენილი პაროლია.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = წაიყოლეთ პირადი მონაცემები და სანიშნები ყველგან, სადაც { -brand-name-firefox-account(case: "dat") } იყენებთ.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

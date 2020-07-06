@@ -81,6 +81,7 @@
         [loc] Firefox-ანგარიშზე
         [ine] Firefox-ანგარიშში
         [add] Firefox-ანგარიშთან
+        [adj] Firefox-ანგარიშით
     }
 -brand-name-firefox-accounts =
     { $case ->
