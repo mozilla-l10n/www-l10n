@@ -80,7 +80,7 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = წაიყოლეთ �
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account = უკვე გაქვთ ანგარიში? <a { $sign_in } class="{ $class_name }">შედით</a> ან <a href="{ $learn_more }">იხილეთ ვრცლად</a>, როგორ შემოუერთდეთ { -brand-name-firefox(case: "dat") }.
+firefox-privacy-hub-already-have-an-account = უკვე გაქვთ ანგარიში? <a { $sign_in } class="{ $class_name }">შედით</a> ან <a href="{ $learn_more }">იხილეთ ვრცლად</a>, როგორ შემოუერთდეთ { -brand-name-firefox }-ს.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = გაეცანით <a href="{ $url }">პირადულობის განაცხადს</a> ჩვენი პროდუქტებისთვის

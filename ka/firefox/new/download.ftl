@@ -14,7 +14,7 @@ firefox-new-get-the-latest-firefox = გადმოწერეთ უახლ
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } გაჩვენებთ მონაცემების რამდენი აღმრიცხავი მეთვალყურე შეიზღუდა <strong>თვალთვალის გაძლიერებული დაცვით</strong>.
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> პაროლებს, რომლებიც { -brand-name-firefox }-შია შენახული, იცავს და ხელმისაწვდომს ხდის ყველა თქვენს მოწყობილობაზე.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> შეგატყობინებთ, როცა თქვენი ინფორმაცია, რომელიმე კომპანიიდან მიტაცებულ მონაცემებში აღმოჩნდება.
-firefox-new-join-firefox = შემოუერთდით { -brand-name-firefox(case: "dat") }
+firefox-new-join-firefox = შემოუერთდით { -brand-name-firefox }-ს
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> პაროლებს, რომლებიც { -brand-name-firefox }-შია შენახული, ხელმისაწვდომს გახდის ყველა თქვენს მოწყობილობაზე.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-windows }-ზე

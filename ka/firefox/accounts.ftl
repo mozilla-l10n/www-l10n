@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = გზა, თქვენი პირადულობის დასაცავად. შემოუერთდით { -brand-name-firefox(case: "dat") }.
+firefox-accounts-there-is-a-way-to = გზა, თქვენი პირადულობის დასაცავად. შემოუერთდით { -brand-name-firefox }-ს.
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = შექმენით { -brand-name-firefox-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
 # HTML page description
@@ -14,14 +14,14 @@ firefox-accounts-take-your-stand-stay-smart = წინ აღუდექით
 # Old HTML page description
 firefox-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-firefox-account } ახლავე – მხოლოდ ერთი შესვლა – მძლავრი შესაძლებლობები და პირადულობა ყველგან.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = გზა, თქვენი პირადულობის დასაცავად. <span>შემოუერთდით { -brand-name-firefox(case: "dat") }.</span>
+firefox-accounts-there-is-a-way-to-protect = გზა, თქვენი პირადულობის დასაცავად. <span>შემოუერთდით { -brand-name-firefox }-ს.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = წინ აღუდექით კომპანიებს და აჩვენეთ, რომ არ ხართ მათი პროდუქტის ნაწილი.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = თქვენ უკვე შესული ხართ <br>{ -brand-name-firefox }-ში. <br><span>ახლა კი გამოცადეთ { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = გაარკვიეთ, თქვენი ანგარიშიც არის თუ არა, მიტაცებულ მონაცემებში.
 firefox-accounts-sign-in-to-monitor = შედით { -brand-name-monitor }-ის ანგარიშზე
-firefox-accounts-join-firefox = შემოუერთდით { -brand-name-firefox(case: "dat") }
+firefox-accounts-join-firefox = შემოუერთდით { -brand-name-firefox }-ს
 firefox-accounts-enter-your-email-address = შეიყვანეთ თქვენი ელფოსტა დასაწყებად.
 firefox-accounts-already-have-an-account = უკვე გაქვთ ანგარიში?
 firefox-accounts-sign-in = შესვლა
