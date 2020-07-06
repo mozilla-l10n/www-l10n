@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Hãy xem qua các tính năng mới nhất c�
 firefox-all-test-your-sites-against = Kiểm tra các trang web của bạn với các tính năng trình duyệt { -brand-name-firefox } sắp được phát hành với DevTools mạnh mẽ, linh hoạt được bật theo mặc định.
 firefox-all-count-on-stability-and = Dựa vào tính ổn định và dễ sử dụng với trình duyệt { -brand-name-firefox } này được xây dựng cho doanh nghiệp.
 firefox-all-windows-installers-for = Trình cài đặt Windows cho CNTT doanh nghiệp giúp đơn giản hóa việc cấu hình, triển khai và quản lý { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = Trình cài đặt ARM64/AArch64
+firefox-all-arm64-installers-optimized = Trình cài đặt ARM64/AArch64 được tối ưu hóa cho PC { -brand-name-windows } sử dụng vi xử lý Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Chọn trình cài đặt 32-bit cho máy tính có bộ xử lý 32-bit - hoặc cho máy tính cũ hoặc yếu hơn. <a href="{ $url }">Nếu bạn không chắc chắn</a> nên chọn trình cài đặt 64-bit hay 32-bit, chúng tôi khuyên bạn nên chọn 32-bit.
