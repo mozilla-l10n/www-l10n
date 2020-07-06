@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64-bit installasjonsprogrammer
 firefox-all-choose-a-64-bit-installer = Velg et 64-bit installasjonsprogram for datamaskiner med 64-bits prosessorer, noe som gjør at datamaskinen kan fordele mer RAM til enkelte programmer — spesielt viktig for spill og andre krevende program.
 firefox-all-32-bit-installers = 32-bit installasjonsprogrammer
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }-nettleseren på norsk (bokmål) og mer enn 90 andre språk
+firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }en på norsk (bokmål) og mer enn 90 andre språk
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Alle fortjener å ha tilgang til internett — språket ditt skal aldri være en hindring. Derfor gjør vi { -brand-name-firefox-browser }en tilgjengelig på mer enn 90 språk med hjelp fra engasjerte frivillige rundt om i verdenen.
-firefox-all-choose-which-firefox = Velg hvilken { -brand-name-firefox-browser }-nettleser du vil laste ned på ditt språk
+firefox-all-choose-which-firefox = Velg hvilken { -brand-name-firefox-browser } du vil laste ned på ditt språk
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } personvernbestemmelser
 firefox-all-learn-about-firefox = Les mer om { -brand-name-firefox }-nettlesere
 firefox-all-the-standard-firefox = Standard { -brand-name-firefox }-nettleser — rask og privat. Hvis du ikke er sikker på hvilke { -brand-name-firefox } du skal velge, så velger du denne.
 firefox-all-get-a-sneak-peek-at = Ta en sniktitt på de siste funksjonene i { -brand-name-firefox }-nettleseren før de blir offisielt lansert.
 firefox-all-test-your-sites-against = Test nettstedene dine opp mot kommende funksjoner i { -brand-name-firefox }, med den avanserte og fleksible utviklerverktøyene våre som er aktivert som standard.
 firefox-all-count-on-stability-and = Denne versjonen av { -brand-name-firefox } er utviklet for virksomheter og har fokus på stabilitet og brukervennlighet.
-firefox-all-windows-installers-for = Windows-installasjonsprogrammer for IT-miljø i bedrifter som forenkler konfigurasjonen, distribusjonen og håndtering av { -brand-name-firefox-browser }-nettleseren.
+firefox-all-windows-installers-for = Windows-installasjonsprogrammer for IT-miljø i bedrifter som forenkler konfigurasjonen, distribusjonen og håndtering av { -brand-name-firefox-browser }en.
 firefox-all-arm64-installers = ARM64/AArch64-installasjonsprogrammer
 firefox-all-arm64-installers-optimized = ARM64/AArch64-installasjonsprogrammer som er optimalisert for { -brand-name-windows }-datamaskiner drevet av Snapdragon.
 # Variables:
