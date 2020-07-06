@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Erhalte schon vor der Veröffentlichung Infos 
 firefox-all-test-your-sites-against = Teste deine Websites mit leistungsstarken, flexiblen Entwicklerwerkzeugen, die standardmäßig aktiviert sind, auf die bald veröffentlichten { -brand-name-firefox }-Browserfunktionen.
 firefox-all-count-on-stability-and = Erhalte Stabilität und Benutzerfreundlichkeit mit diesem { -brand-name-firefox }-Browser für Unternehmen.
 firefox-all-windows-installers-for = Windows-Installationsprogramme für die Unternehmens-IT, die die Konfiguration, Bereitstellung und Verwaltung des { -brand-name-firefox-browser }-Browsers vereinfachen.
+firefox-all-arm64-installers = ARM64/AArch64-Installationsprogramme
+firefox-all-arm64-installers-optimized = ARM64/AArch64-Installationsprogramme, die für Snapdragon-fähige { -brand-name-windows }-PCs optimiert sind.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wähle ein 32-Bit-Installationsprogramm für Computer mit 32-Bit-Prozessoren – oder für ältere oder weniger leistungsstarke Computer. <a href="{ $url }"> Wenn du nicht sicher bist, </a> ob du ein 64-Bit- oder ein 32-Bit-Installationsprogramm auswählen solltest, empfehlen wir dir, 32-Bit zu verwenden.
