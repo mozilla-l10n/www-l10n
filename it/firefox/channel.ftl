@@ -51,7 +51,6 @@ firefox-channel-get-a-sneak-peek-at-our = Dai un’occhiata alla prossima genera
 firefox-channel-test-brand-new-features = Con Nightly puoi provare ogni giorno (… o notte) le ultimissime funzioni di Firefox. Utilizzalo a tuo rischio e pericolo.
 firefox-channel-try-new-features-in-a-pre-release = { -brand-name-firefox } | Prova nuove funzioni in una versione preliminare del browser per { -brand-name-ios }
 firefox-channel-experience-cutting-edge-features-ios = Sperimenta funzioni all’avanguardia in una versione preliminare del browser per { -brand-name-ios } utilizzando il servizio { -brand-name-test-flight } di { -brand-name-apple }. Installalo subito!
-firefox-channel-test-beta-versions-of-firefox-ios-long = Prova le versioni beta di { -brand-name-firefox } per { -brand-name-ios } tramite il programma Test Flight di { -brand-name-apple } e aiutaci a migliorare ulteriormente il nostro browser mobile per { -brand-name-iphone }, { -brand-name-ipad } e iPod touch.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Prova le versioni beta di { -brand-name-firefox } per { -brand-name-ios } tramite il programma { -brand-name-test-flight } di { -brand-name-apple }.
 firefox-channel-sign-up-now = Registrati subito
