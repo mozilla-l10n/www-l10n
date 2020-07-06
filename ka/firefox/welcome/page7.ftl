@@ -7,8 +7,8 @@
 
 # HTML page title
 page7-make-it-harder-for-facebook = გაურთულეთ { -brand-name-facebook }-ს თქვენზე თვალის დევნება
-page7-its-okay-to-like-facebook = კარგია თუ { -brand-name-facebook } მოგწონთ
-page7-if-you-still-kinda-like-facebook = ხოლო თუ მოგწონთ { -brand-name-facebook } მაგრამ არ ენდობით, მაშინ სცადეთ { -brand-name-facebook-container } გაფართოება { -brand-name-firefox }-ზე და გაურთულეთ მათ თქვენი თვალთვალი ინტერნეტში.
+page7-its-okay-to-like-facebook = არა უშავს თუ მოგწონთ { -brand-name-facebook }
+page7-if-you-still-kinda-like-facebook = ხოლო თუ ისე რა მოგწონთ { -brand-name-facebook } მაგრამ არ ენდობით, მაშინ სცადეთ { -brand-name-facebook-container } გაფართოება { -brand-name-firefox }-ზე და გაურთულეთ მათ თქვენი თვალთვალი ინტერნეტში.
 page7-get-facebook-container = გადმოწერეთ { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = გამოდგება ინსტაზეც
