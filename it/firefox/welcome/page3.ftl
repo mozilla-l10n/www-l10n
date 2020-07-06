@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Prova l’account gratuito che protegge la tua privacy. Entra in { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = L’account non è obbligatorio, ma potresti apprezzarlo.
 welcome-page3-the-firefox-browser-collects = Il browser { -brand-name-firefox } raccoglie dati utente minimi: non chiediamo neanche il tuo indirizzo di posta elettronica. Ma quando lo usi per creare un { -brand-name-firefox-account }, ci permetti di proteggere la tua privacy ben oltre l’attività online.
+welcome-page3-sign-in = Accedi
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Puoi contare almeno su una organizzazione per custodire i tuoi dati e non lasciarli trapelare.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
