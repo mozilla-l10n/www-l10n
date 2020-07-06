@@ -28,7 +28,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ავ
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">გამოგვეხმაურეთ</a> წარმადობასა და ფუნქციონალში ბოლო შტრიხების შესატანად მდგრად ვერსიაში.
-firefox-channel-check-out-new-android-features = შეამოწმეთ { -brand-name-android }-ზე ახალი შესაძლებლობები, ადრეულ სტადიებზე. სარგებლობისას ზიანზე, პასუხისმგებელი თავად იქნებით.
+firefox-channel-check-out-new-android-features = გამოცადეთ { -brand-name-android }-ის ახალი შესაძლებლობები, ადრეულ საფეხურზე. ისარგებლეთ საკუთარი პასუხისმგებლობით ზიანზე.
 firefox-channel-nightly-blog = { -brand-name-nightly } სვეტი (ბლოგი)
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
@@ -48,7 +48,7 @@ firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ა�
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ავტომატურად უგზავნის მონაცემებს { -brand-name-mozilla }-ს.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = თვალი შეავლეთ ჩვენს ახალი თაობის ბრაუზერს და დაგვეხმარეთ მის საუკეთესოდ ქცევაში: გამოცადეთ { -brand-name-firefox-nightly }.
-firefox-channel-test-brand-new-features = გამოცადეთ უახლესი შესაძლებლობები ყოველდღიურად (ანდა… ღამღამობით). სარგებლობისას ზიანზე, პასუხისმგებელი თავად იქნებით.
+firefox-channel-test-brand-new-features = გამოცადეთ უახლესი შესაძლებლობები ყოველდღიურად (ანდა… ღამღამობით). ისარგებლეთ საკუთარი პასუხისმგებლობით ზიანზე.
 firefox-channel-try-new-features-in-a-pre-release = გამოცადეთ ბრაუზერის ახალი შესაძლებლობები { -brand-name-ios }-ზე, წინასწარ გამოშვებაში | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = გამოცადეთ მოწინავე სიახლეები ბრაუზერის წინასწარ გამოშვებებში { -brand-name-ios }-ზე, { -brand-name-apple }-ის { -brand-name-test-flight } საცდელი პროგრამით. დააყენეთ ახლავე!
 firefox-channel-test-beta-versions-of-firefox-ios-long = გამოცადეთ { -brand-name-firefox }-ის beta ვერსიები { -brand-name-ios }-ზე { -brand-name-apple }-ის { -brand-name-test-flight } საცდელი პროგრამით და დაგვეხმარეთ მობილური ბრაუზერის სრულყოფაში { -brand-name-iphone }-ზე, { -brand-name-ipad }-სა და iPod touch-ზე.
