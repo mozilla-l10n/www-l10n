@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Póglědniśo na nejnowše funkcije wobglědow
 firefox-all-test-your-sites-against = Testujśo planowane funkcije wobglědowaka { -brand-name-firefox } nowego wózjawjenja z mócnymi, fleksibelnymi wuwijarskimi rědami, kótarež su zmóžnjone pó standarźe.
 firefox-all-count-on-stability-and = Spušććo se na stabilnosć a lažke wužywanje z toś tym wobglědowakom { -brand-name-firefox } za pśedewześa.
 firefox-all-windows-installers-for = Instalěrowaki Windows za IT pśedewześow, kótarež konfiguraciju, pśewóstajenje a zastojanje { -brand-name-firefox-browser } wólažcuju.
+firefox-all-arm64-installers = Instalěrowaki ta ARM64/AArch64
+firefox-all-arm64-installers-optimized = Instalěrowaki ARM64/AArch64, kótarež su za licadła { -brand-name-windows } optiměrowane, kótarež Snapdragon pódpěraju.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wubjeŕśo 32-bitowy instalěrowański program za licadła z 32-bitowymi procesorami - abo za starše abo mjenjej wugbałe licadła. <a href="{ $url }">Jolic se wěsty njejsćo</a>, lěc maśo 64-bitowy abo 32-bitowy instalěrowański program wubraś, pórucujomy wam 32-bitowy instalěrowański program wubraś.
