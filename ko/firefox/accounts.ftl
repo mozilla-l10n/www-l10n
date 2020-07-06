@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = 개인 정보를 보호하는 방법이 있습니다. { -brand-name-firefox }와 함께 하세요.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Firefox 계정을 만드세요 – 데이터를 안전하게 보호하고 동기화된 상태로 유지하세요
+firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } 다운로드 – 안전한 개인 정보 보호 및 동기화
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = 제 3자에게 당신의 데이터를 판매하는 산업에 대항하세요. 당신과 함께 싸우는 기술로 똑똑하고 안전하게 온라인 생활을 지속할 수 있습니다.
 # Old HTML page description
-firefox-accounts-securely-sync-your = 여러분의 모든 기기에서 암호, 북마크 및 탭을 안전하게 동기화합니다. 지금 Firefox 계정을 만드세요. 단 한 번의 로그인으로 어디에서든 강력하고 안전합니다.
+firefox-accounts-securely-sync-your = 모든 기기에서 암호, 북마크 및 탭을 안전하게 동기화 할 수 있습니다. 이제 { -brand-name-firefox-account }을 통해 어디서나 한 번의 로그인으로 개인 정보를 관리하실 수 있습니다.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = 개인 정보를 보호할 방법이 있습니다. <span>{ -brand-name-firefox }와 함께 하세요.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
