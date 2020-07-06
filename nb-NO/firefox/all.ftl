@@ -19,7 +19,7 @@ firefox-all-language = Språk:
 firefox-all-sorry-we-couldnt-find = Dessverre fant vi ikke nedlastingen du leter etter. Prøv igjen, eller velg en nedlasting fra listen nedenfor.
 firefox-all-the-pre-alpha-version = Pre-alfa-versjonen for mer erfarne brukere som liker å hjelpe til med å finne feil og teste nye funksjoner mens de blir programmert.
 firefox-all-64-bit-installers = 64-bit installasjonsprogrammer
-firefox-all-choose-a-64-bit-installer = Vel et 64-bit installasjonsprogrammer for datamaskiner med 64-bits prosessorer, noe som gjør at datamaskinen kan fordele mer RAM til enkelte programmer - spesielt viktig for spill og andre krevende program.
+firefox-all-choose-a-64-bit-installer = Velg et 64-bit installasjonsprogram for datamaskiner med 64-bits prosessorer, noe som gjør at datamaskinen kan fordele mer RAM til enkelte programmer — spesielt viktig for spill og andre krevende program.
 firefox-all-32-bit-installers = 32-bit installasjonsprogrammer
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }-nettleseren på norsk (bokmål) og mer enn 90 andre språk
@@ -37,7 +37,7 @@ firefox-all-arm64-installers = ARM64/AArch64-installasjonsprogrammer
 firefox-all-arm64-installers-optimized = ARM64/AArch64-installasjonsprogrammer som er optimalisert for { -brand-name-windows }-datamaskiner drevet av Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Velg et 32-bit installasjonsprogrammer for datamaskiner med 32-bits prosessorer — eller til eldre, mindre kraftfulle datamaskiner. <a href="{ $url }">Hvis du ikke er sikker på</a> om du skal velge et 64-bit- eller et 32-bit-installasjonsprogram, anbefaler vi, at du velger 32-bit.
+firefox-all-choose-a-32-bit-installer = Velg et 32-bit installasjonsprogram for datamaskiner med 32-bits prosessorer — eller til eldre, mindre kraftfulle datamaskiner. <a href="{ $url }">Hvis du ikke er sikker på</a> om du skal velge et 64-bit- eller et 32-bit-installasjonsprogram, anbefaler vi, at du velger 32-bit.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
