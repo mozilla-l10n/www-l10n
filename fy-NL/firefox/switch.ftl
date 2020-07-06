@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Wikselje yn in pear minuten fan { -brand-name-chrome } nei { -brand-name-firefox }
+switch-switching-to-firefox-is-fast-updated = Oerstappe nei { -brand-name-firefox } is fluch, maklik en sûnder risiko, omdat { -brand-name-firefox } jo blêdwizers, wachtwurden en foarkarren fan { -brand-name-chrome } út ymportearret.
 switch-switching-to-firefox-is-fast = Switche nei { -brand-name-firefox } is fluch, maklik en sûnder risiko, omdat { -brand-name-firefox } jo blêdwizers, formuliergegevens, wachtwurden en foarkarren fan { -brand-name-chrome } ymportearret.
 switch-switching-to-firefox-page-description = Switche nei { -brand-name-firefox } is fluch, maklik en sûnder risiko. { -brand-name-firefox } ymportearret jo blêdwizers, formuliergegevens, wachtwurden en foarkarren fan { -brand-name-chrome }.
 switch-select-what-to-take = Kies wat jo oernimme wolle fan { -brand-name-chrome }.

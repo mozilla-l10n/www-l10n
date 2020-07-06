@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } jo standertbrowser meitsje
+# HTML page description
+set-as-default-landing-choose-the-browser = Kies de browser dy't jo privacy beskermet. Stel { -brand-name-firefox } yn as jo standertbrowser.
 set-as-default-landing-make-sure-youre-protected = Soargje derfoar dat jo beskerme wurde, elke kear as jo online gean
 set-as-default-landing-thanks-for-using-the = Tank foar it gebrûk fan de nijste { -brand-name-firefox }-browser. Wannear jo { -brand-name-firefox } kieze, stypje jo in better ynternet foar jo en elkenien. Nim no de folgjende stap om josels te beskermjen.
 set-as-default-landing-choose-automatic-privacy = Kies foar automatyske privacy
