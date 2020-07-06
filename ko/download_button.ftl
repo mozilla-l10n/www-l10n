@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = { -brand-name-android }용 <span>{ -br
 download-button-firefox-android = { -brand-name-android }용 <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios }용 <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } 개인 정보 정책
+download-button-firefox-privacy-notice = { -brand-name-firefox } 개인정보 고지
 download-button-download = 다운로드
