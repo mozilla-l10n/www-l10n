@@ -24,7 +24,7 @@ firefox-all-32-bit-installers = 32-bit installasjonsprogrammer
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }-nettleseren på norsk (bokmål) og mer enn 90 andre språk
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Alle fortjener å ha tilgang til internett — språket ditt skal aldri være en hindring. Derfor gjør vi { -brand-name-firefox-browser }-nettleseren tilgjengelig på mer enn 90 språk med hjelp fra engasjerte frivillige rundt om i verdenen.
+firefox-all-everyone-deserves-access = Alle fortjener å ha tilgang til internett — språket ditt skal aldri være en hindring. Derfor gjør vi { -brand-name-firefox-browser }en tilgjengelig på mer enn 90 språk med hjelp fra engasjerte frivillige rundt om i verdenen.
 firefox-all-choose-which-firefox = Velg hvilken { -brand-name-firefox-browser }-nettleser du vil laste ned på ditt språk
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } personvernbestemmelser
 firefox-all-learn-about-firefox = Les mer om { -brand-name-firefox }-nettlesere
