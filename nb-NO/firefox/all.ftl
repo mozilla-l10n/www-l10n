@@ -18,9 +18,9 @@ firefox-all-platform = Plattform:
 firefox-all-language = Språk:
 firefox-all-sorry-we-couldnt-find = Dessverre fant vi ikke nedlastingen du leter etter. Prøv igjen, eller velg en nedlasting fra listen nedenfor.
 firefox-all-the-pre-alpha-version = Pre-alfa-versjonen for mer erfarne brukere som liker å hjelpe til med å finne feil og teste nye funksjoner mens de blir programmert.
-firefox-all-64-bit-installers = 64-bit installerer
+firefox-all-64-bit-installers = 64-bit installasjonsprogrammer
 firefox-all-choose-a-64-bit-installer = Vel et 64-bit installasjonsprogrammer for datamaskiner med 64-bits prosessorer, noe som gjør at datamaskinen kan fordele mer RAM til enkelte programmer - spesielt viktig for spill og andre krevende program.
-firefox-all-32-bit-installers = 32-bit installerer
+firefox-all-32-bit-installers = 32-bit installasjonsprogrammer
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }-nettleseren på norsk (bokmål) og mer enn 90 andre språk
 # HTML page description, also used as the introductory text.
@@ -43,7 +43,7 @@ firefox-all-choose-a-32-bit-installer = Velg et 32-bit installasjonsprogrammer f
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
 firefox-all-download-product-for = Last ned { $product_label } for { $platform } på { $locale }
-firefox-all-msi-installers = MSI-installerer
+firefox-all-msi-installers = MSI-installasjonsprogrammer
 firefox-all-which-version = Hvilken versjon vil du ha?
 firefox-all-select-your-preferred-installer = Velg ønsket installasjonsprogram
 firefox-all-select-your-preferred-language = Velg ønsket språk
