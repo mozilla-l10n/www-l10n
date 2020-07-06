@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Pohladajće na najnowše funkcije wobhladowaka
 firefox-all-test-your-sites-against = Testujće planowane funkcije wobhladowaka { -brand-name-firefox } noweho wozjewjenja z mócnymi, fleksibelnymi wuwiwarskimi nastrojemi, kotrež su zmóžnjene po standardźe.
 firefox-all-count-on-stability-and = Spušćće so na stabilnosć a lochke wužiwanje z tutym wobhladowakom { -brand-name-firefox } za předewzaća.
 firefox-all-windows-installers-for = Instalowaki Windows za IT předewzaćow, kotrež konfiguraciju, přewostajenje a rjadowanje { -brand-name-firefox-browser } wosnadnjeja.
+firefox-all-arm64-installers = Instalowaki ta ARM64/AArch64
+firefox-all-arm64-installers-optimized = Instalowaki ARM64/AArch64, kotrež su za ličaki { -brand-name-windows } optimowane, kotrež Snapdragon podpěruja.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wubjerće 32-bitowy instalowanski program za ličaki z 32-bitowymi procesorami - abo za starše abo mjenje wukonliwe ličaki. <a href="{ $url }">Jeli sej wěsty njejsće</a>, hač maće 64-bitowy abo 32-bitowy instalowanski program wubrać, poručamy wam 32-bitowy instalowanski program wubrać.
