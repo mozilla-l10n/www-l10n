@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = 在 { -brand-name-firefox } 瀏覽器正式發
 firefox-all-test-your-sites-against = 使用這套即將發行的 { -brand-name-firefox } 瀏覽器當中強大而靈活的開發者工具，來測試您的網站。
 firefox-all-count-on-stability-and = 若需要穩定度與易用性，請使用這套為企業打造 { -brand-name-firefox } 瀏覽器。
 firefox-all-windows-installers-for = Windows Installer 安裝程式可讓企業的 IT 部門簡化 { -brand-name-firefox-browser }的設定、佈署與管理過程。
+firefox-all-arm64-installers = ARM64/AArch64 安裝程式
+firefox-all-arm64-installers-optimized = 針對使用 Snapdragon 處理器的 { -brand-name-windows } PC 最佳化的 ARM64/AArch64 安裝程式。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 若電腦使用的是 32 位元處理器，請選擇 32 位元版本安裝程式。一般為較舊或較低階的電腦適用。<a href="{ $url }">若您不確定該挑 64 或 32 位元安裝程式</a>，建議您先選 32 位元版本。
