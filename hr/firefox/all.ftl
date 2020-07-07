@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Pogledaj najnovije funkcije { -brand-name-fire
 firefox-all-test-your-sites-against = Testiraj svoje web stranice na funkcije { -brand-name-firefox } preglednika koje će se uskoro izdati s moćnim, fleksibilnim alatima za programere, koji su standardno uključeni.
 firefox-all-count-on-stability-and = Računaj na stabilnost i jednostavnost upotrebe s ovim { -brand-name-firefox } preglednikom, koji je izgrađen za poduzeća.
 firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT, koji pojednostavljuju konfiguriranje, upotrebu i upravljanje preglednikom { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = ARM64/AArch64 instaleri
+firefox-all-arm64-installers-optimized = ARM64/AArch64 instaleri optimirani za Snapdragon-pogonjene { -brand-name-windows } PC-ove.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Odaberi 32-bitni instalacijski program za računala s 32-bitnim procesorima – ili za starija ili manje snažna računala. <a href="{ $url }">Ako ne znaš</a> da li odabrati 64-bitnog ili 32-bitnog instalatera, preporučamo 32-bitnim.
