@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Otvori besplatan račun koji štiti tvoju privatnost. Pridruži se { -brand-name-firefox }u.
 welcome-page3-no-account-required-but-you = Račun nije obavezan. Ali ćete vjerojatno htjeti jedan.
-welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } preglednik prikuplja vrlo malo podataka o tebi, čak niti ne zahtijevamo tvoju e-adresu. Ali ako je koristiš za otvaranje { -brand-name-firefox } računa, možemo zaštititi tvoju privatnost na internetu još bolje.
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } preglednik prikuplja vrlo malo podataka o tebi, čak niti ne zahtijevamo tvoju e-adresu. Ali ako je koristiš za otvaranje { -brand-name-firefox-account } računa, možemo zaštititi tvoju privatnost na internetu još bolje.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Neka barem jedno poduzeće pazi na tvoje podatke, umjesto da cure okolo.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
