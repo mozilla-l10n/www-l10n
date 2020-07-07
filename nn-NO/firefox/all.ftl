@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Ta ein sniktitt på dei siste funksjonane i { 
 firefox-all-test-your-sites-against = Test nettstadane dine opp mot komande funskjonar i { -brand-name-firefox }, med dei avanserte og fleksible utviklarverktøya våre som er aktiverte som standard.
 firefox-all-count-on-stability-and = Denne versjonen av { -brand-name-firefox } er utvikla for verksemder og har fokus på stabilitet og brukarvennlegheit.
 firefox-all-windows-installers-for = Windows-installasjonsprogram for IT-miljø i bedrifter som forenklar konfigurasjonen, distribusjonen og handteringa av { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = ARM64/AArch64-installasjonsprogram
+firefox-all-arm64-installers-optimized = ARM64/AArch64-installasjonsprogram som er optimaliserte for { -brand-name-windows }-datamaskiner driven av Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Vel eit 32-bit installasjonsprogram for datamaskiner med 32-bit prosessorar — eller til eldre, mindre kraftfulle datamaskiner. <a href="{ $url }">Viss du ikkje er sikker på</a> , om du skal velje eit 64-bit- eller et 32-bit-installasjonsprogram, anbefalar vi, at du vel 32-bit.
