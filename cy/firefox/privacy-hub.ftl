@@ -45,7 +45,7 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = Mae { -brand-name-fir
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ o dracwyr wedi'u rhwystro - yn awtomatig
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-tracking-has-become-an = Mae tracio wedi dod yn epidemig ar-lein: mae cwmnïau'n dilyn pob symudiad, clicio a phrynu, gan gasglu data i ragfynegi a dylanwadu ar yr hyn y byddwch chi'n ei wneud nesaf. Credwn fod hynny'n ymyrraeth dybryd o'ch preifatrwydd. Dyna pam mae Diogelwch Uwch Rhag Tracio porwyr symudol a bwrdd gwaith { -brand-name-firefo } ymlaen yn rhagosodedig.
+firefox-privacy-hub-tracking-has-become-an = Mae tracio wedi dod yn epidemig ar-lein: mae cwmnïau'n dilyn pob symudiad, clicio a phrynu, gan gasglu data i ragfynegi a dylanwadu ar yr hyn y byddwch chi'n ei wneud nesaf. Credwn fod hynny'n ymyrraeth dybryd o'ch preifatrwydd. Dyna pam mae Diogelwch Uwch Rhag Tracio porwyr symudol a bwrdd gwaith { -brand-name-firefox } ymlaen yn rhagosodedig.
 firefox-privacy-hub-if-you-want-to-see-what = Os hoffech chi weld beth mae { -brand-name-firefox } yn ei rwystro drosoch chi, ewch i'r dudalen hon ar eich porwr bwrdd gwaith { -brand-name-firefox }.
 firefox-privacy-hub-see-what-firefox-has-blocked = Gweld beth mae { -brand-name-firefox } wedi'i rwystro ar eich cyfer chi
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -75,7 +75,7 @@ firefox-privacy-hub-pocket-recommends-high = Mae { -brand-name-pocket } yn argym
 firefox-privacy-hub-get-pocket = Estyn { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Eich { -brand-name-firefox-account }
 firefox-privacy-hub-all-the-information-synced = Mae'r holl fanylion sy'n cael eu cydweddu trwy eich { -brand-name-firefox-account } - o hanes porwr i gyfrineiriau - wedi'i hamgryptio. A chyfrinair eich cyfrif yw'r unig allwedd.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Ewch a'ch preifatrwydd a'ch nodau tudalen i bobman gyda chyfrif { -brand-name-firefox- }.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Ewch a'ch preifatrwydd a'ch nodau tudalen i bobman gyda chyfrif { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

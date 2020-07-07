@@ -29,11 +29,11 @@ firefox-channel-firefox-beta-automatically = Mae { -brand-name-firefox-beta } yn
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Anfonwch adborth</a> fel bo modd i ni wella perfformiad a swyddogaethau mewn amgylchedd sefydlog.
 firefox-channel-check-out-new-android-features = Archwilio ar nodweddion newydd { -brand-name-android } yn ystod eu camau cyntaf. Mwynhewch ar eich menter eich hun.
-firefox-channel-nightly-blog = Blog Nosweithiol
+firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = Mae { -brand-name-nightly } yn blatfform profi a datblygu ansad. Drwy ragosodiad mae { -brand-name-nightly }'n anfon data i { -brand-name-mozilla } — ac weithiau i'n partneriaid — i'n cynorthwyo i drin problemau a phrofi syniadau. <a href="{ $link }">Gweld beth sy'n caei ei rannu</a>.
-firefox-channel-firefox-nightly-automatically = Mae Firefox Developer Edition yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
+firefox-channel-firefox-nightly-automatically = Mae { -brand-name-firefox-nightly } yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Profwch Nodweddion Blaengar mewn Porwr cyn ei Ryddhau | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Profwch nodweddion blaengar mewn fersiynnau cyn eu ryddhau: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Llwythwch nhw lawr nawr!
 firefox-channel-download-and-test-the-latest-desktop = Llwythwch i lawr a phrofi nodweddion y { -brand-name-firefox } Bwrdd Gwaith diweddaraf gydag fersiynau { -brand-name-developer-edition }, { -brand-name-beta } a { -brand-name-nightly }.
@@ -51,7 +51,7 @@ firefox-channel-get-a-sneak-peek-at-our = Cymrwch gip olwg ar y genhedlaeth nesa
 firefox-channel-test-brand-new-features = Profwch nodweddion newydd sbon yn ddyddiol ( neu…y nosweithiol). Mwynhewch ar eich menter eich hun.
 firefox-channel-try-new-features-in-a-pre-release = Profwch Nodweddion Newydd mewn Porwr { -brand-name-ios } Cyn ei Ryddhau | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Profwch nodweddion blaengar mewn porwr { -brand-name-ios } cyn ei ryddhau | Firefox drwy raglen { -brand-name-test-flight } { -brand-name-apple }. Gosodwch e nawr!
-firefox-channel-test-beta-versions-of-firefox-ios-long = Profwch fersiynau Beta o { -brand-name-firefox } { -brand-name-ios } drwy raglen Test Flight { -brand-name-apple } a chynorthwyo i wneud ein porwr symudol ar gyfer yr { -brand-name-iphone }, { -brand-name-ipad } a iPod Touch hyd yn oed yn well.
+firefox-channel-test-beta-versions-of-firefox-ios-long = Profwch fersiynau beta o { -brand-name-firefox } { -brand-name-ios } drwy { -brand-name-test-flight } { -brand-name-apple } a'n cynorthwyo i wneud ein porwr symudol ar gyfer yr { -brand-name-iphone }, { -brand-name-ipad } ac iPod Touch hyd yn oed yn well.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Profi'r fersiwn beta o { -brand-name-firefox } ar gyfer { -brand-name-ios } drwy rhaglen { -brand-name-test-flight } { -brand-name-apple }.
 firefox-channel-sign-up-now = Cofrestrwch nawr
