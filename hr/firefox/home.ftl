@@ -17,9 +17,9 @@ firefox-home-learn-more-about-lockwise = Saznaj više o { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Dobij <strong>poštovanje</strong> koje zaslužuješ
 firefox-home-every-single-firefox = Svi { -brand-name-firefox } proizvodi poštuju naše obećanje o osobnim podacima: <strong>Uzmi što manje podataka. Drži ih sigurnima. Bez tajni.</strong>
-firefox-home-share-large-files-without = Dijelite velike datoteke bez znatiželjnih očiju
+firefox-home-share-large-files-without = Dijeli velike datoteke bez znatiželjnih očiju
 firefox-home-start-sending-files = Počni slati datoteke na siguran način
-firefox-home-trade-clickbait-for = Zamijenite clickbait za kvalitetan sadržaj
+firefox-home-trade-clickbait-for = Zamijeni mamce kvalitetnim sadržajem.
 firefox-home-learn-more-about-pocket = Saznaj više o { -brand-name-pocket }u
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Jedna prijava. Svi tvoji uređaji. Porodica proizvoda koji poštuju tvoju <strong>privatnost</strong>.
