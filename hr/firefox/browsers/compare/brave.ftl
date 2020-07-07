@@ -8,6 +8,6 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } kontra { -brand-name-brave }: koji je preglednik bolji za tebe?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Usporedi { -brand-name-brave } s { -brand-name-firefox-browser } i utvrdi koji je preglednik bolji za tebe u smislu privatnosti, korisnosti i prenosivosti.
+compare-brave-compare-brave-to-the-firefox = Usporedi { -brand-name-brave } i { -brand-name-firefox-browser } te utvrdi koji je preglednik bolji za tebe u smislu privatnosti, korisnosti i prenosivosti.
 # Main title
 compare-brave-comparing-firefox-browser = Usporedba: { -brand-name-firefox-browser } kontra { -brand-name-brave }

@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # HTML page title.
-compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } protiv { -brand-name-microsoft } { -brand-name-edge }a: koji je preglednik bolji za tebe?
+compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } kontra { -brand-name-microsoft } { -brand-name-edge }: koji je preglednik bolji za tebe?
+# HTML page description.
+compare-edge-compare-microsoft-edge-to-the = Usporedi { -brand-name-microsoft } { -brand-name-edge } i { -brand-name-firefox-browser } te utvrdi koji je preglednik bolji za tebe.
 # Main title.
 compare-edge-comparing-firefox-browser-with = Usporedba: { -brand-name-firefox-browser } kontra { -brand-name-microsoft } { -brand-name-edge }
