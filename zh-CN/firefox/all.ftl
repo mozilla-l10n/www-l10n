@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = 在 { -brand-name-firefox } 浏览器正式发
 firefox-all-test-your-sites-against = 即将发行的 { -brand-name-firefox } 浏览器中默认启用强大而灵活的开发者工具，可使用此版本来测试您的网站。
 firefox-all-count-on-stability-and = 若需要稳定度和易用性，请使用此企业版 { -brand-name-firefox } 浏览器。
 firefox-all-windows-installers-for = 适用于企业 IT 的 Windows 安装程序，可简化 { -brand-name-firefox-browser } 浏览器的配置、部署和管理。
+firefox-all-arm64-installers = ARM64/AArch64 安装程序
+firefox-all-arm64-installers-optimized = 针对高通骁龙™平台 { -brand-name-windows } PC 优化的 ARM64/AArch64 安装程序。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 为 32 位处理器的——或者较旧或性能较弱的计算机，选择 32 位安装程序，<a href="{ $url }">若您不确定</a>是选择 64 位还是 32 位安装程序，我们建议您下载后者。
