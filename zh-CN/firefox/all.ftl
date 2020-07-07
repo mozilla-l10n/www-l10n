@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = 64 位安装程序
 firefox-all-choose-a-64-bit-installer = 为 64 位处理器的计算机选择 64 位安装程序，这样单个程序可以分配到更多内存——对于游戏或其他配置要求高的应用程序尤为重要。
 firefox-all-32-bit-installers = 32 位安装程序
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = 下载 { -brand-name-firefox-browser } 浏览器，这里有简体中文及其他 90 多种语言版本供您选择
+firefox-all-download-the-firefox = 下载 { -brand-name-firefox-browser }，这里有简体中文及其他 90 多种语言版本供您选择
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = 每个人都有访问互联网的权利，您的语言绝不应该成为障碍。在全球志愿者的不懈努力下，我们让 { -brand-name-firefox-browser } 浏览器拥有了超过 90 种语言版本。
 firefox-all-choose-which-firefox = 选择您想要下载的 { -brand-name-firefox-browser } 浏览器语言版本
