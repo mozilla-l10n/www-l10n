@@ -24,7 +24,7 @@ firefox-all-32-bit-installers = Imsebdaden 32 n yibiten
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Sider { -brand-name-firefox-browser } s teglizit (US) d wugarn 90 tutlayin-nniḍen
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Meṛṛa imdanen uklalen ad kecmen ɣer Internet — tutlayt-ik ur ilaq ara ad tili d aɛewwiq. Ɣef waya, s tallalt n yiwiziwen deg umaḍal meṛṛa, ad nerr { -brand-name-firefox-browser } yella deg wugar n 90 n tutlayin.
+firefox-all-everyone-deserves-access = Meṛṛa imdanen uklalen ad kecmen ɣer Internet — tutlayt-ik/im ur ilaq ara ad tili d aɛewwiq. Ɣef waya — s tallalt n yiwiziwen deg umaḍal meṛṛa — ad nerr { -brand-name-firefox-browser } yella deg wugar n 90 n tutlayin.
 firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } ara d-tsidreḍ deg tutlayt-ik
 firefox-all-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lmed ugar ɣef yiminigen { -brand-name-firefox }
