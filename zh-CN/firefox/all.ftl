@@ -24,7 +24,7 @@ firefox-all-32-bit-installers = 32 位安装程序
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = 下载 { -brand-name-firefox-browser }，这里有简体中文及其他 90 多种语言版本供您选择
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = 每个人都有访问互联网的权利，您的语言绝不应该成为障碍。在全球志愿者的不懈努力下，我们让 { -brand-name-firefox-browser } 浏览器拥有了超过 90 种语言版本。
+firefox-all-everyone-deserves-access = 每个人都有访问互联网的权利，您的语言绝不应该成为障碍。在全球志愿者的不懈努力下，我们让 { -brand-name-firefox-browser }拥有了超过 90 种语言版本。
 firefox-all-choose-which-firefox = 选择您想要下载的 { -brand-name-firefox-browser } 浏览器语言版本
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } 隐私声明
 firefox-all-learn-about-firefox = 进一步了解 { -brand-name-firefox } 浏览器
