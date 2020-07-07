@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox }, { -brand-name-safari }'ye karşı: Hangisi sizin için daha iyi tarayıcı?
+# Main title.
+compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser } ile { -brand-name-apple } { -brand-name-safari } karşılaştırması

@@ -41,18 +41,24 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000’den fazla izleyiciyi otomatik olarak engelliyoruz
 firefox-privacy-hub-see-what-firefox-has-blocked = { -brand-name-firefox }’un sizin için neleri engellediğini görün
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Gelişmiş İzlenme Koruması’nı edinin
 firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } tarayıcısını indirin
 firefox-privacy-hub-update-your-firefox-browser = { -brand-name-firefox } tarayıcınızı güncelleyin
 firefox-privacy-hub-always-in-your-control = Her zaman kontrolünüz altında
 firefox-privacy-hub-protection-beyond-tracking = İzlemenin ötesinde koruma
+firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account } hesabınız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = İhlalleri kontrol edin
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-send-a-file = Dosya gönderin
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket }, gezinti geçmişinizi toplamadan veya kişisel bilgilerinizi reklamverenlerle paylaşmadan yüksek kaliteli, insanlar tarafından seçilmiş makaleler önerir.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket }’ı edinin
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account }nız
+firefox-privacy-hub-all-the-information-synced = Tarayıcı geçmişinden parolalara kadar { -brand-name-firefox-account } ile eşitlenen tüm bilgiler şifrelenir. Tek anahtar da hesap parolanızdır.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = { -brand-name-firefox-account } ile gizliliğinizi ve yer imlerinizi her yere götürün.
 # Variables:
 #   $signin (string) - anchor link url and attributes
