@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Cael golwg ar nodweddion y porwr { -brand-name
 firefox-all-test-your-sites-against = Profwch eich gwefannau yn erbyn nodweddion i'w ryddhau'n fuan y porwr { -brand-name-firefox } gyda DevTools pwerus, hyblyg sydd ar gael drwy ragosodiad.
 firefox-all-count-on-stability-and = Gallwch ddibynnu ar sefydlogrwydd a rhwyddineb defnydd gyda'r porwr { -brand-name-firefox } hwn wedi'i adeiladu ar gyfer menter.
 firefox-all-windows-installers-for = Gosodwyr Windows ar gyfer TG corfforaethol sy'n symleiddio'r ffurfweddiad, darpariaeth a rheoli'r { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = Gosodwyr ARM64/AArch64
+firefox-all-arm64-installers-optimized = Gosodwyr ARM64/AArch64 wedi'u hoptimeiddio ar gyfer cyfrifiaduron personol { -brand-name-windows } wedi'u pweru gan Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Dewiswch osodwr 32-did ar gyfer cyfrifiaduron gyda phroseswyr 32-did - neu ar gyfer cyfrifiaduron hŷn neu lai pwerus. <a href="{ $url }">Os nad ydych yn siŵr</a> a ydych am ddewis gosodwr 64-did neu 32-did, rydym yn argymell eich bod yn mynd am y 32-did.
