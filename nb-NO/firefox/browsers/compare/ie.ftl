@@ -8,7 +8,7 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } mot { -brand-name-ie }: Hvilken er den beste nettleseren for deg?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Sammenlign { -brand-name-ie } med { -brand-name-firefox-browser } for å finne ut hvilken som er den bedre nettleseren for deg.
+compare-ie-compare-internet-explorer-to = Sammenlign { -brand-name-ie } med { -brand-name-firefox-browser } for å finne ut hvilken som er den beste nettleseren for deg.
 # Main title
 compare-ie-comparing-firefox-browser-with = Sammenligning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Mens { -brand-name-microsoft } sin { -brand-name-ie } fremdeles kommer forhåndsinstallert på de fleste Windows-baserte PC-er, vil { -brand-name-microsoft } tydelig foretrekke at du bruker { -brand-name-edge }-nettleseren, som er angitt som standard når du kjøper.
