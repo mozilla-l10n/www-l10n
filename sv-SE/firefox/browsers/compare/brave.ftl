@@ -12,4 +12,9 @@ compare-brave-compare-brave-to-the-firefox = Jämför { -brand-name-brave } med 
 # Main title
 compare-brave-comparing-firefox-browser = Jämför { -brand-name-firefox-browser } med { -brand-name-brave }
 # "Brave Software" is a brand name.
-compare-brave-just-like-the-firefox-browser = Precis som webbläsaren { -brand-name-firefox } är webbläsaren { -brand-name-brave } gratis, öppen källkod och fokuserad på att skydda användarnas integritet. { -brand-name-brave } är en relativt nykomling i webbläsarnas värld: dess tillverkare, { -brand-name-brave } Software, debuterade med första webbläsaren i januari 2016. I den här artikeln jämför vi vår { -brand-name-firefox } webbläsare med webbläsaren { -brand-name-brave } i tre kategorier: sekretess, verktyg och portabilitet.
+compare-brave-just-like-the-firefox-browser = Precis som webbläsaren { -brand-name-firefox } är webbläsaren { -brand-name-brave } gratis, öppen källkod och fokuserad på att skydda användarnas integritet. { -brand-name-brave } är en relativt nykomling i webbläsarnas värld: dess tillverkare { -brand-name-brave } Software, debuterade med första webbläsaren i januari 2016. I den här artikeln jämför vi vår { -brand-name-firefox } webbläsare med webbläsaren { -brand-name-brave } i tre kategorier: sekretess, verktyg och portabilitet.
+# To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
+# Variables:
+#   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
+#   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
+compare-brave-the-brave-browser-like-so = Webbläsaren { -brand-name-brave } är som så många andra, byggd med { -brand-name-chromium } öppna källkod från { -brand-name-google }. Open source innebär att vem som helst kan använda källkoden och bygga vad de vill — som  <a { $opera }>{ -brand-name-opera }</a> och <a { $edge }>{ -brand-name-edge }</a> webbläsare. Men det betyder inte att alla { -brand-name-chromium }-baserade webbläsare är lika eller själva är öppen källkod.
