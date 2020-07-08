@@ -16,3 +16,7 @@ welcome-page8-see-whats-blocked = הצגת הפריטים שנחסמים
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-go-to-monitor = מעבר אל { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
+welcome-page8-share-large-files = שיתוף קבצים גדולים עם הצפנה מקצה לקצה, באמצעות קישור שפג באופן אוטומטי.
+welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-add-facebook-container = הוספת { -brand-name-facebook-container }
+welcome-page8-why-am-i = למה אני רואה את זה?
