@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = En yeni { -brand-name-firefox } özelliklerini
 firefox-all-test-your-sites-against = Hem güçlü ve esnek geliştirici araçlarımızla sitelerinizi test edin hem de yakında çıkacak { -brand-name-firefox } özelliklerini deneyin.
 firefox-all-count-on-stability-and = { -brand-name-firefox } tarayıcısının kurumlara yönelik sürümünde güvenilirlik ve kullanım kolaylığı bir arada.
 firefox-all-windows-installers-for = Kurumsal BT departmanları için { -brand-name-firefox-browser }nın yapılandırmasını, dağıtımını ve yönetimini basitleştiren Windows yükleyicileri.
+firefox-all-arm64-installers = ARM64/AArch64 yükleyiciler
+firefox-all-arm64-installers-optimized = ARM64/AArch64 yükleyiciler Snapdragon destekli { -brand-name-windows } bilgisayarlar için optimize edilmiştir.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bit işlemcili bilgisayarlar veya eski ve zayıf bilgisayarlar için 32 bit yükleyiciyi seçin. 64 bit mi yoksa 32 bit mi seçmeniz gerektiğinden <a href="{ $url }">emin değilseniz</a> 32 biti seçmenizi öneririz.
