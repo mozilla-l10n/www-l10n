@@ -24,3 +24,4 @@ welcome-page8-try-send = Experimente o { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Mantenha-se conectado às pessoas com quem você não pode estar na vida real e impeça que o { -brand-name-facebook } siga você online.
 welcome-page8-add-facebook-container = Instale o { -brand-name-facebook-container }
+welcome-page8-why-am-i = Porque estou vendo isso?
