@@ -39,6 +39,7 @@ compare-shared-utility-strong = <strong>Hasznos funkciók</strong>
 compare-shared-portability-strong = <strong>Hordozhatóság</strong>
 compare-shared-overall-assessment = Átfogó értékelés
 compare-shared-the-comparisons-made-here = Az itt végzett összehasonlítás a következő böngészőkiadásokkal készült:
+compare-shared-this-page-updated-semi-quarterly = Ez az oldal negyedévente kétszer frissül, hogy tükrözze a legfrissebb verziót, és nem mindig tükrözi a legfrissebb frissítéseket.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

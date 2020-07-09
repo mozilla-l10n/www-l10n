@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Váltson { -brand-name-chrome }-ról { -brand-name-firefox }ra néhány perc alatt
+switch-switching-to-firefox-is-fast-updated = A { -brand-name-firefox }ra váltás gyors, könnyű és kockázatmentes, mert a { -brand-name-firefox } importálja a könyvjelzőit, jelszavait és beállításait a { -brand-name-chrome }-ból.
 switch-switching-to-firefox-is-fast = A { -brand-name-firefox }ra váltás gyors, könnyű és kockázatmentes, mert a { -brand-name-firefox } importálja a könyvjelzőit, űrlapkitöltéseit, jelszavait és beállításait a { -brand-name-chrome }-ból.
+switch-switching-to-firefox-page-description-updated = A { -brand-name-firefox }ra váltás gyors, könnyű és kockázatmentes. A { -brand-name-firefox } importálja a könyvjelzőit, jelszavait és beállításait a { -brand-name-chrome }-ból.
 switch-switching-to-firefox-page-description = A { -brand-name-firefox }ra váltás gyors, könnyű és kockázatmentes. A { -brand-name-firefox } importálja a könyvjelzőit, űrlapkitöltéseit, jelszavait és beállításait a { -brand-name-chrome }-ból.
 switch-select-what-to-take = Válassza ki, hogy mit hoz át a { -brand-name-chrome }-ból.
 switch-let-firefox-do-the-rest = A többit bízza a { -brand-name-firefox }ra.
@@ -20,6 +22,7 @@ switch-still-not-convinced = Még mindig nincs meggyőződve arról, hogy könny
 switch-enjoy-the-web-faster = Élvezze a gyorsabb webet, előre beállítva.
 switch-download-and-switch = Letöltés és váltás
 switch-share-to-facebook = Megosztás Facebookon
+switch-share-to-facebook-updated = Megosztás { -brand-name-facebook }on
 switch-send-a-tweet = Tweet küldése
 switch-hey = Szia!
 switch-check-it-out = Nézd meg te is, és mondd el mit gondolsz:
