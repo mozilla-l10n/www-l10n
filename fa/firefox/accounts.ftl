@@ -9,6 +9,12 @@
 firefox-accounts-there-is-a-way-to = راهی برای محافظت از حریم خصوصی شما وجود دارد. به { -brand-name-firefox } بپیوندید.
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = یک { -brand-name-firefox-account } بسازید – داده‌های خود را خصوصی، ایمن و همگام‌‌سازی شده نگاه دارید
+# Old HTML page description
+firefox-accounts-securely-sync-your = گذرواژه‌ها، نشانک‌ها و زبانه‌های خود را به صورت امن روی تمام دستگاه‌هایتان همگام‌سازی کنید. هم‌اکنون یک { -brand-name-firefox-account } ایجاد کنید – یک ورود به سیستم – قدرت و حریم خصوصی در همه جا.
+# The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
+firefox-accounts-there-is-a-way-to-protect = راهی برای محافظت از حریم خصوصی شما وجود دارد. <span>به { -brand-name-firefox } بپیوندید.</span>
+# This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
+firefox-accounts-take-your-stand-against = در مقابل صنعتی که شما را تبدیل به کالا می‌کند، بایستید.
 firefox-accounts-join-firefox = به { -brand-name-firefox } بپیوندید
 firefox-accounts-enter-your-email-address = برای شروع، آدرس پست الکترونیکی خود را وارد کنید.
 firefox-accounts-already-have-an-account = پیش از این حساب داشته‌اید؟
