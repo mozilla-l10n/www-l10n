@@ -15,10 +15,14 @@ firefox-accounts-securely-sync-your = گذرواژه‌ها، نشانک‌ها 
 firefox-accounts-there-is-a-way-to-protect = راهی برای محافظت از حریم خصوصی شما وجود دارد. <span>به { -brand-name-firefox } بپیوندید.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = در مقابل صنعتی که شما را تبدیل به کالا می‌کند، بایستید.
+firefox-accounts-sign-in-to-monitor = ورود به { -brand-name-monitor }
 firefox-accounts-join-firefox = به { -brand-name-firefox } بپیوندید
 firefox-accounts-enter-your-email-address = برای شروع، آدرس پست الکترونیکی خود را وارد کنید.
 firefox-accounts-already-have-an-account = پیش از این حساب داشته‌اید؟
 firefox-accounts-sign-in = ورود
+firefox-accounts-keep-your-passwords = گذرواژه‌های خود را امن و قابل حمل نگهداری کنید.
+firefox-accounts-get-a-lookout-for = از نشت اطلاعات مطلع شوید.
+firefox-accounts-share-large-files = پرونده‌های بزرگ را بدون نگاه‌های کنجکاو ارسال کنید.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
