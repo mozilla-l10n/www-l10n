@@ -7,10 +7,14 @@
 
 # HTML page title
 welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } protegge la tua privacy automaticamente
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+welcome-page8-your-privacy-respected = Rispettiamo la tua privacy <strong>automaticamente</strong>
+welcome-page8-firefox-automatically-protects = { -brand-name-firefox } protegge la tua privacy automaticamente, così sei libero di vivere la tua vita in ogni sessione online.
 welcome-page8-view-your-protection-report = Visualizza il tuo rapporto sulla protezione
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Protezione antitracciamento avanzata
 welcome-page8-automatically-block-sites = Impedisci automaticamente ai siti di seguire le tue attività in Internet.
+welcome-page8-see-whats-blocked = Controlla gli elementi bloccati
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Verifica se sei stato coinvolto in violazioni di dati online conosciute e prendi le contromisure per risolverle.
 welcome-page8-go-to-monitor = Vai a { -brand-name-monitor }
