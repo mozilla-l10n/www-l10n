@@ -8,6 +8,6 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } против { -brand-name-ie }: Какой браузер лучше всего вам подходит?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Сравним { -brand-name-ie } с браузером Firefox, чтобы узнать, какой браузер лучше всего для вас подходит.
+compare-ie-compare-internet-explorer-to = Сравним { -brand-name-ie } с { -brand-name-firefox-browser(case: "instrumental") }, чтобы узнать, какой браузер лучше всего для вас подходит.
 # Main title
-compare-ie-comparing-firefox-browser-with = Сравнение браузера Firefox с { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Сравнение { -brand-name-firefox-browser(case: "genitive") } с { -brand-name-microsoft } { -brand-name-ie }

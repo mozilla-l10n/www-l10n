@@ -8,6 +8,6 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } против { -brand-name-microsoft } { -brand-name-edge }: Какой браузер лучше всего вам подходит?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Сравним { -brand-name-microsoft } { -brand-name-edge } с браузером Firefox, чтобы узнать, какой браузер лучше всего для вас подходит.
+compare-edge-compare-microsoft-edge-to-the = Сравним { -brand-name-microsoft } { -brand-name-edge } с { -brand-name-firefox-browser(case: "instrumental") }, чтобы узнать, какой браузер лучше всего для вас подходит.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Сравнение браузера Firefox с { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Сравнение { -brand-name-firefox-browser(case: "genitive") } с { -brand-name-microsoft } { -brand-name-edge }
