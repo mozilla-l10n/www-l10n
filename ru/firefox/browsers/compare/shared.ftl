@@ -38,6 +38,7 @@ compare-shared-utility-strong = <strong>Удобство</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Переносимость</strong>
 compare-shared-overall-assessment = Общая оценка
+compare-shared-the-comparisons-made-here = Приведённые здесь сравнения были выполнены в следующих версиях браузеров:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -45,4 +46,5 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-download-firefox = Загрузить { -brand-name-firefox }
 compare-shared-compare-browsers = Сравнение браузеров

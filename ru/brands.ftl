@@ -30,6 +30,7 @@
        *[nominative] браузер Firefox
         [nominative_uppercase] Браузер Firefox
         [genitive] браузера Firefox
+        [prepositional] браузере Firefox
         [instrumental] браузером Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
