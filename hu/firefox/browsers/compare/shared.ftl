@@ -38,6 +38,7 @@ compare-shared-utility-strong = <strong>Hasznos funkciók</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Hordozhatóság</strong>
 compare-shared-overall-assessment = Átfogó értékelés
+compare-shared-the-comparisons-made-here = Az itt végzett összehasonlítás a következő böngészőkiadásokkal készült:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

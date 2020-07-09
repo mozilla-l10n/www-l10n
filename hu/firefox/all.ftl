@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Kapjon betekintést a legfrissebb { -brand-nam
 firefox-all-test-your-sites-against = Tesztelje a weboldalait a hamarosan kiadásra kerülő { -brand-name-firefox } böngészőfunkciókkal és a hatékony, rugalmas fejlesztői eszközökkel, melyek alapértelmezetten be vannak kapcsolva.
 firefox-all-count-on-stability-and = Stabilitásra és könnyű használatra számíthat ezzel a kifejezetten vállalatok számára készült { -brand-name-firefox } böngészővel.
 firefox-all-windows-installers-for = Windowsos telepítők a vállalati informatikai részlegek számára, melyek egyszerűsítik a { -brand-name-firefox-browser } böngésző beállítását, telepítését és kezelését.
+firefox-all-arm64-installers = ARM64/AArch64 telepítők
+firefox-all-arm64-installers-optimized = ARM64 / AArch64 telepítők Snapdragon-alapú { -brand-name-windows }t futtató számítógépekre optimalizálva.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bites processzorral rendelkező számítógépekre válassza a 32 bites telepítőt – régebbi vagy kevésbé erős számítógépekhez. <a href="{ $url }">Ha nem biztos benne</a> hogy a 64 vagy a 32 bites telepítőt válassza, akkor a 32 bitest javasoljuk.
