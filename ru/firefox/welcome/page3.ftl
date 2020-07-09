@@ -8,13 +8,14 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Создайте бесплатный аккаунт, чтобы защитить свою приватность. Присоединяйтесь к { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Аккаунт не обязателен. Но вы можете захотеть создать его.
-welcome-page3-the-firefox-browser-collects = Браузер { -brand-name-firefox } собирает о вас так мало данных, что нам даже не требуется ваш адрес электронной почты. Но если вы используете его для создания Аккаунта { -brand-name-firefox }, мы сможем лучше защитить вашу приватность при вашем пребывании в Интернете.
+welcome-page3-the-firefox-browser-collects = Браузер { -brand-name-firefox } собирает о вас так мало данных, что нам даже не требуется ваш адрес электронной почты. Но если вы используете его для создания { -brand-name-firefox-account(case: "genitive") }, мы сможем лучше защитить вашу приватность при вашем пребывании в Интернете.
+welcome-page3-sign-in = Войти
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = По крайней мере одна компания всегда настороже ваших данных, вместо того, чтобы их разглашать.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
 welcome-page3-never-forget-reset-or-travel = Никогда не забывайте, сбрасывайте или выходите из дома без ваших паролей снова.
 welcome-page3-facebook-container = { -brand-name-facebook-container }
-welcome-page3-get-a-container-to-keep-facebook = Заключите Фейсбук в контейнер, чтобы он не лез не в своё дело.
+welcome-page3-get-a-container-to-keep-facebook = Заключите { -brand-name-facebook } в контейнер, чтобы он не лез не в своё дело.
 welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-trade-clickbait-and-fake-news = Обменяйте кликбейты и фальшивые новости на качественный контент.
 welcome-page3-firefox-send = { -brand-name-firefox-send }
