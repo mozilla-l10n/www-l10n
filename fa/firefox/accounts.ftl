@@ -10,6 +10,9 @@ firefox-accounts-there-is-a-way-to = راهی برای محافظت از حری�
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = یک { -brand-name-firefox-account } بسازید – داده‌های خود را خصوصی، ایمن و همگام‌‌سازی شده نگاه دارید
 firefox-accounts-join-firefox = به { -brand-name-firefox } بپیوندید
+firefox-accounts-enter-your-email-address = برای شروع، آدرس پست الکترونیکی خود را وارد کنید.
+firefox-accounts-already-have-an-account = پیش از این حساب داشته‌اید؟
+firefox-accounts-sign-in = ورود
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
