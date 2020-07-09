@@ -16,6 +16,7 @@ welcome-page8-enhanced-tracking-protection = Protection renforcée contre le pis
 welcome-page8-automatically-block-sites = Empêchez automatiquement les sites de vous pister sur Internet.
 welcome-page8-see-whats-blocked = Voir ce qui est bloqué
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page8-see-what-youve-been = Vérifiez si une fuite de données connue vous implique et prenez les bonnes mesures pour régler le problème.
 welcome-page8-go-to-monitor = Utiliser { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Partagez des fichiers volumineux avec un chiffrement de bout en bout, en utilisant un lien qui expire automatiquement.
