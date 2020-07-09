@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Перейдите с { -brand-name-chrome } на { -brand-name-firefox } всего за несколько минут
+switch-switching-to-firefox-is-fast-updated = Перейти на { -brand-name-firefox } — быстро, просто и без рисков, так как { -brand-name-firefox } импортирует ваши закладки, пароли и настройки из { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Перейти на { -brand-name-firefox } — быстро, просто и без рисков, так как { -brand-name-firefox } импортирует ваши закладки, данные автозаполнения, пароли и настройки из { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Перейти на { -brand-name-firefox } — быстро, просто и без рисков. { -brand-name-firefox } импортирует ваши закладки, пароли и настройки из { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Перейти на { -brand-name-firefox } — быстро, просто и без рисков. { -brand-name-firefox } импортирует ваши закладки, данные автозаполнения, пароли и настройки из { -brand-name-chrome }.
 switch-select-what-to-take = Выберите, что импортировать из { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Пусть { -brand-name-firefox } сделает всё остальное.
@@ -20,6 +22,7 @@ switch-still-not-convinced = Всё ещё не верите, что перей�
 switch-enjoy-the-web-faster = Наслаждайтесь быстрым Интернетом, для этого всё готово.
 switch-download-and-switch = Загрузить и перейти
 switch-share-to-facebook = Поделиться на Фейсбуке
+switch-share-to-facebook-updated = Поделиться в { -brand-name-facebook }
 switch-send-a-tweet = Отправить твит
 switch-hey = Привет,
 switch-check-it-out = Попробуй и расскажи, что думаешь:
