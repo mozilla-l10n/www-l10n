@@ -21,5 +21,6 @@ welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Del store filer med ende-til-ende-kryptering, med en lenke som utløper automatisk.
 welcome-page8-try-send = Prøv { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-stay-connected = Hold kontakten med de som er langt borte i det virkelige liv og hindre at { -brand-name-facebook } sporer deg.
 welcome-page8-add-facebook-container = Legg til { -brand-name-facebook-container }
 welcome-page8-why-am-i = Hvorfor ser jeg dette?
