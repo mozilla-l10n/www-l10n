@@ -38,6 +38,7 @@ compare-shared-utility-strong = <strong>Utilité</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilité</strong>
 compare-shared-overall-assessment = Évaluation globale
+compare-shared-this-page-updated-semi-quarterly = Cette page est mise à jour semi-trimestriellement pour refléter les dernières versions et peut ne pas toujours refléter les dernières mises à jour.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -46,3 +47,9 @@ compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
 compare-shared-download-firefox = Télécharger { -brand-name-firefox }
+compare-shared-download-firefox-browser = Télécharger { -brand-name-firefox-browser }
+compare-shared-download-the-app = Télécharger l'application
+compare-shared-desktop = Bureau
+compare-shared-brand-name-android = { -brand-name-android }
+compare-shared-brand-name-ios = { -brand-name-ios }
+compare-shared-compare-browsers = Comparer les navigateurs
