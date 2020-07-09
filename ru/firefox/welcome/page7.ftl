@@ -6,13 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
 # HTML page title
-page7-make-it-harder-for-facebook = Усложните отслеживание вас Фейсбуком
-page7-its-okay-to-like-facebook = Это нормально, если вам нравится Фейсбук
-page7-if-you-still-kinda-like-facebook = Если вы по-прежнему любите Фейсбук, но не доверяете ему, попробуйте расширение Фейсбук-контейнер от команды { -brand-name-firefox } и усложните социальной сети отслеживание ваших действий в Интернете.
-page7-get-facebook-container = Загрузить Фейсбук-контейнер
+page7-make-it-harder-for-facebook = Усложните отслеживание вас { -brand-name-facebook }
+page7-its-okay-to-like-facebook = Это нормально, если вам нравится { -brand-name-facebook }
+page7-if-you-still-kinda-like-facebook = Если вам по-прежнему нравится { -brand-name-facebook }, но вы ему не доверяете, попробуйте расширение { -brand-name-facebook-container } от команды { -brand-name-firefox } и усложните социальной сети отслеживание ваших действий в Интернете.
+page7-get-facebook-container = Получить { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Работает и в Инстаграме
-page7-facebook-container-also-works = Фейсбук-контейнер также работает на других принадлежащих Фейсбуку сайтах, например, Инстаграм, { -brand-name-facebook-messenger } и { -brand-name-workplace }.
+page7-facebook-container-also-works = { -brand-name-facebook-container } также работает на других принадлежащих { -brand-name-facebook } сайтах, например, { -brand-name-instagram }, { -brand-name-facebook-messenger } и { -brand-name-workplace }.
 page7-make-them-unfollow-you = Избавьтесь от их отслеживания
 page7-that-sneaky-little-button = Эта хитрая маленькая кнопка
 page7-those-innocent-looking-f-buttons = Эти невинные на первый взгляд кнопки «F» от { -brand-name-facebook } отслеживают вашу активность в Интернете, даже если у вас нет аккаунта в Фейсбуке. Фейсбук-контейнер блокирует их.
