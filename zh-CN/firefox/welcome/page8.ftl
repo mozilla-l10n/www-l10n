@@ -13,6 +13,10 @@ welcome-page8-firefox-automatically-protects = { -brand-name-firefox } 会自动
 welcome-page8-view-your-protection-report = 查看您的保护报告
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = 增强型跟踪保护
+welcome-page8-automatically-block-sites = 自动阻止网站对您的跟踪。
+welcome-page8-see-whats-blocked = 看看拦截了什么
+welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page8-see-what-youve-been = 看看您是否身处已知的网上数据外泄数据事件，并采取行动，妥善处置。
 welcome-page8-go-to-monitor = 前往 { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = 端到端加密地分享大文件，链接到期自焚。
