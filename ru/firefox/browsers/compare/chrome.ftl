@@ -8,7 +8,7 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } против { -brand-name-chrome }: Кто лучше?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = Мы сравним Mozilla Firefox с Google Chrome с точки зрения приватности, удобства и переносимости
+compare-chrome-we-compare-mozilla-firefox = Мы сравним { -brand-name-mozilla }{ -brand-name-firefox } с { -brand-name-google }{ -brand-name-chrome } с точки зрения приватности, удобства и переносимости
 # Main title.
 compare-chrome-comparing-firefox-browser = Сравнение браузера Firefox с Google Chrome
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.

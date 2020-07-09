@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Знакомьтесь с последними
 firefox-all-test-your-sites-against = Тестируйте свои сайты на совместимость с функциями браузера { -brand-name-firefox }, которые скоро будут выпущены, с помощью мощных и гибких инструментов разработчика, которые включены по умолчанию.
 firefox-all-count-on-stability-and = Доверьтесь стабильности и простоте использования этого корпоративного { -brand-name-firefox }.
 firefox-all-windows-installers-for = Windows-установщики для организаций, которые упростят настройку, развёртывание и управление { -brand-name-firefox-browser(case: "instrumental") }.
+firefox-all-arm64-installers = Установщики ARM64/AArch64
+firefox-all-arm64-installers-optimized = Установщики ARM64 / AArch64 оптимизированные для { -brand-name-windows } ПК на базе Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Выберите 32-битный установщик для компьютеров с 32-разрядными процессорами или для старых и менее мощных компьютеров. <a href="{ $url }">Если вы не уверены</a>, выбрать ли 64-битный или 32-битный установщик, мы рекомендуем использовать 32-разрядную версию.
