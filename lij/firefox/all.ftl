@@ -32,6 +32,11 @@ firefox-all-get-a-sneak-peek-at = Preuva in anteprimma e urtime fonçioin do nav
 firefox-all-test-your-sites-against = Fanni di test a-e fonçioin che saian fito rilasciæ into navegatô { -brand-name-firefox } graçie a-i nòstri potenti e flescibili Strumenti do svilupatô.
 firefox-all-count-on-stability-and = O megio de sto navegatô { -brand-name-firefox } o l'é a stabilitæ e façilitæ d'uzo, tutto creou pe-e aziende.
 firefox-all-windows-installers-for = I instalatoî pe Windows into anbito IT aziendale rendan ciù façile a configuraçion, sviluppo e gestion do { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = Programmi de instalaçion ARM64/AArch64
+firefox-all-arm64-installers-optimized = Programmi de instalaçion ARM64/AArch64 otimizæ pe PC con procesoî Snapdragon.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Pe computer con procesoî a 32-bit, ciù vegi ò pöco potenti, çerni un programma de instalaçion a 32-bit. <a href="{ $url }">Se no t'ê seguo</a> de quæ verscion pigiâ, te consegemmo quella a 32-bit.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
