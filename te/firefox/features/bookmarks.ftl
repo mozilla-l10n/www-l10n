@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox విహారిణి: మీరు వెళ్ళిన చోటికల్లా మీ ఇష్టాంశాలు
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: మీరు వెళ్ళిన చోటికల్లా మీ ఇష్టాంశాలు
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = మీ బుక్మార్క్లు ను సులభంగా సంచయం నిర్వహించండి మరియు పరికరం నుండి చరం మీ అన్ని పరికరాల్లో వాటిని ప్రాప్యత చేయండి.
 features-bookmarks-better-bookmarks = మంచి ఇష్టాంశాలు
