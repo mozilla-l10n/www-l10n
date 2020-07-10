@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Wobhladowak Firefox: Lěpše zapołožki wšudźe, hdźež sće
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Lěpše zapołožki wšudźe, hdźež sće
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Rjadujće swoje zapołožki lochko w rjadowaku a mějće přistup na nje přez wšě graty, wot desktopa do mobilneho grata.
 features-bookmarks-better-bookmarks = Lěpše zapołožki
@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Wužiwajće swoju zapołožku po pu�
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Wužiwajće swoje fawority po puću. Wužiwajće { -brand-name-firefox-sync }, zo byšće přez wšě graty přistup na swoje zapołoki měł, wot desktopa do mobilneho grata. Abo spytajće <a href="{ $url }">{ -brand-name-pocket }</a>, zo byšće nastawk abo stronu online składował a so pozdźiśo wróćił - samo bjez interneta.
+features-bookmarks-customize-that-bookmark = Tu zapołožku přiměrić
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Zaběrajće so nadrobnje z tej zapołožku
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Zaběrajće so dokładnje z kóždym <a href="{ $url }">přidatkom</a> z funkciju zrjadowaka zapołožkow, kotryž wam do mozow zajědźe, wot strony połneje z fotami wobrazowki přez bóčnicu za spěšne přepinanje hač do schowanych priwatnych zapołožkow.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
