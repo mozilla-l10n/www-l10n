@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Bay cùng với các đánh dấu tr
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Giữ những trang bạn yêu thích ở bên bạn mọi nơi. Sử dụng { -brand-name-firefox-sync } để truy cập vào các trang đánh dấu của bạn trên mọi thiết bị, từ máy tính để bàn cho đến điện thoại di động. Hoặc thử dùng <a href="{ $url }">{ -brand-name-pocket }</a> để lưu các bài viết hay các trang trực tuyến và truy cập sau – ngay cả khi không có internet.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Dành thời gian với các trang đánh dấu đó
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

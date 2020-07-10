@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Вземете отметките с
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Ако използвате { -brand-name-firefox-sync }, можете да имате достъп до вашите отметки от всяко устройство-компютър, лаптоп или мобилно устройство. Или използвайте <a href="{ $url }">{ -brand-name-pocket }</a>, за да запазите статия или страница, която искате да посетите по-късно, дори и без достъп до интернет.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Отделете време на отметките
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

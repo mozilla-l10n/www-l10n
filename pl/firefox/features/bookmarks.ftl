@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Teleportacja zakładek
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Wszystkie ulubione zakładki zawsze z Tobą. Użyj usługi { -brand-name-firefox-sync }, aby synchronizować zakładki między wszystkimi urządzeniami. Wypróbuj <a href="{ $url }">{ -brand-name-pocket }</a>, aby zachować artykuł lub stronę na później — nawet bez dostępu do Internetu.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Zabawa z zakładkami
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

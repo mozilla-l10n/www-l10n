@@ -15,5 +15,6 @@ features-bookmarks-dont-agonize-lovers-of = Бетбелгілерге құма�
 features-bookmarks-file-that-bookmark = Бұл бетбелгіні сақтаңыз
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Бетбелгілеріңізбен бірге жылжыңыз
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Бетбелгілеріңізбен бірге уақыт өткізіңіз

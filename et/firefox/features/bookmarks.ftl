@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Järjehoidjate kaasa võtmine
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Võta järjehoidjad endaga kaasa. { -brand-name-firefox-sync }i kasutades pääsed järjehoidjatele ligi kõigis oma seadmetes, alates töölaualt kuni telefonini. Või proovi mis tahes võrguartikli või veebilehe salvestamiseks <a href="{ $url }">{ -brand-name-pocket }it</a> ja naase selle juurde hiljem – isegi internetiühenduseta.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Järjehoidjate sättimine
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

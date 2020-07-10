@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Kunportu tiun legosignon
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Kunportu viajn legosignojn ĉien. Uzu Speguladon de Firefox por aliri viajn legosignojn en ĉiuj viaj aparatoj, ĉu komputilaj ĉu poŝaj. Aŭ provu <a href="{ $url }">{ -brand-name-pocket }</a> por konservi iun ajn artikolon aŭ paĝon retan kaj poste reiru al ĝi, eĉ sen retaliro.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Pasigu pli da tempo kun tiu legosigno
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

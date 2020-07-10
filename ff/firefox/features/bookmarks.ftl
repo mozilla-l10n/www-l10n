@@ -15,5 +15,6 @@ features-bookmarks-dont-agonize-lovers-of = Woto mbaɗdee e wonki, yiɗbe Maanto
 features-bookmarks-file-that-bookmark = Neldu ndee maantorde
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Diwdu e ndee maantorde
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Futz e ndee maantore

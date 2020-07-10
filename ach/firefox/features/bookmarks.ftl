@@ -17,5 +17,6 @@ features-bookmarks-fly-with-that-bookmark = Tuk ki alamabuk man
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Wot ki jami ma imaro loyo. Tii ki { -brand-name-firefox-sync } me nongo alamabuk mamegi i nyonyo mamegi weng, cake ki i desktop wa i nyonyo me cing. Onyo tem <a href="{ $url }">{ -brand-name-pocket }</a> me gwoko gin acoya mo keken ma iwiyamo, onyo potbuk ka idwog iyie lacen - kadi intanet pe tye.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Cwal kare ni ki alamabuk meno

@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Tereho pe techaukaha ndive
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Egueraha erohoryvéva nendive. Eipuru { -brand-name-firefox-sync } eike hag̃ua nde rechaukahápe opaite ne mba’e’oka guive, mesa arigua térã pumbyrygáva rupi. Térã eipuru <a href="{ $url }">{ -brand-name-pocket }</a> eñongatu hag̃ua oimeraẽva jahaipy térã kuatiarogue, ha ejevy jevy upéi, ikatuhína eike’ỹre ñandutípe.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Ema’ẽte pe techaukaha rehe
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

@@ -11,5 +11,6 @@ features-bookmarks-better-bookmarks = Mas maayos na bookmarks
 features-bookmarks-dont-agonize-lovers-of = Sa mga mahilig magbookmark, huwag nang malungkot. Mag-organize gamit ang { -brand-name-firefox }.
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = I-file ang bookmark
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Makipag-bonding sa bookmark na yan

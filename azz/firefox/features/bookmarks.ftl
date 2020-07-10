@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Xionpatani ika nejin neskayot marcad
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Xikonkui tein tikonteluelita ijkuak tikonnekis. Xikontatekiujti { -brand-name-firefox-sync } uan xionkalakis kampa moneskayouan marcadores itech nochin moteposuan, kemej tein tajkuilouapal oso tein se uelis mouikas. Oso xikontatekiujti <a href="{ $url }">{ -brand-name-pocket }</a> uan ijkon tikoneuas tein yeski tamachtilis tein moajsi itech Internet, oso página web uan satepan tionuelis tionmokepas, maski amo ika Internet.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Amo xiontonalpoloua ika nejin neskayot marcador
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

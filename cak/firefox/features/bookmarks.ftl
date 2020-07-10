@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Kaxik'an rik'in la yaketal la'
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Ke'ak'waj ri taq awajowab'al richin yaxik'an. Tawokisaj { -brand-name-firefox-sync } richin yatok pa ri taq ayaketal e k'o pa konojel taq awokisaxel, rik'in kematz'ib'ab'äl pa oyonib'äl. Chuqa' tatojtob'ej <a href="{ $url }">{ -brand-name-pocket }</a> richin nayäk xab'achike rutzijol na'oj pa k'amab'ey chuqa' ruxaq k'amaya'l richin ye'atzolij pe pa jun chik ti mej – achi'el chuqa' toq manäq ak'amaya'l.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Futz rik'in la yaketal la'
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

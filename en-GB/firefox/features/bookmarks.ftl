@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Fly with that bookmark
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Take your favourites on the fly. Use { -brand-name-firefox-sync } to access your bookmarks across all your devices, from desktop to mobile. Or try <a href="{ $url }">{ -brand-name-pocket }</a> to save any online article, or page and come back to later – even without internet.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Spend time with that bookmark
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

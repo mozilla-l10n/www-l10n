@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Afeg yid-sent
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Awi yid-k tansiwin i tḥemmleḍ. S { -brand-name-firefox-sync } ad tkecmeḍ ɣer tecraḍ n isebtar seg isuga-k, seg uselkim-ik ɣer uselkim aziraz. Tzemreḍ daɣen ad tɛerḍeḍ <a href="{ $url }">{ -brand-name-pocket }</a> akken ad teskelseḍ imagraden neɣ isebtar srid sakin ad ten-teɣreḍ ticki ɣas s war tuqqna Internet.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Err-itent akken tebɣiḍ
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

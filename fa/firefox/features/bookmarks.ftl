@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = با نشانک‌گذاری پرو�
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = موارد مورد علاقه خود را روی هوا دریافت کنید. با همگام‌ سازی فایرفاکس برای دسترسی به نشانک‌ها بر روی تمامی دستگاه‌ها شما از رومیزی تا تلفن‌همراه. یا امتحان کردن <a href="{ $url }">{ -brand-name-pocket }</a> برای ذخیره سازی هر گونه نوشتار،‌صفحه آنلاین برای بازگشت مجدد به آن در آینده– حتی بدون اینترنت.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Futz با نشانه‌گذاری
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

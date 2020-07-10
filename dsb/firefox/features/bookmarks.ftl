@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Wužywajśo swójo cytańske znamje 
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Wužywajśo swóje fawority pó droze. Wužywajśo { -brand-name-firefox-sync }, aby pśez wše rědy pśistup k swójim cytańskim znamjenjam měł, wót desktopa do mobilnego rěda. Abo wopytajśo <a href="{ $url }">{ -brand-name-pocket }</a>, aby nastawk abo bok online składował a se pózdźej wrośił - samo bźez interneta.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Zaběrajśo se nadrobnje z tym cytańskim znamjenim
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

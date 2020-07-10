@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Guīj danè’ garan’ ruhuât ng�
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Ni’iāj nej sa nihià’ ruhuât ngà aché nunt. Garasun { -brand-name-firefox-sync } da’ ga’ue gatūt riña nū nej marcador ‘iát riña daran’ nej si agâ’t, asîj riña aga’ sikà’ ràa nda riña si telefonot. Si nitāj nī garasun <a href="{ $url }">{ -brand-name-pocket }</a> da’ na’nïnj sà’t nej ñanj gahiat riña línea nī ruhuât nadunïnjt, da’ ga’ue ni’iājt ne’ rukù doj – nùnj si tāj Internet hua.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Garasun nichrà’ marcador dan
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

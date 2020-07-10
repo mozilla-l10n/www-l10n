@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = पुस्तचिह्न क�
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = अपने पसंद किये हुए को उड़ान पर ले जाएँ. Firefox सिंक का उपयोग करें अपने सभी उपकरणों पर पुस्तचिन्हों को एक्सेस करने के लिये, डेस्कटॉप से लेकर मोबाइल तक. अथवा जाँचें <a href="{ $url }">{ -brand-name-pocket }</a> किसी भी ऑनलाइन लेख, या पृष्ठ को सहेजने के लिये और फिर पुनः पीछे वापस आ जाएँ – यहाँ तक कि बिना इंटरनेट के.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = पुस्तचिह्न के साथ उड़ान भरें
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.

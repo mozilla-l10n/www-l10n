@@ -14,5 +14,6 @@ features-bookmarks-better-bookmarks = మంచి ఇష్టాంశాల�
 features-bookmarks-file-that-bookmark = ఆ ఫైలు బుక్మార్క్లు
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = ఆ బుక్మార్క్లు తో ఎగురు
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = ఆ ఇష్టాంశంతోనే గడపండి

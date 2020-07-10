@@ -21,8 +21,10 @@ features-bookmarks-fly-with-that-bookmark = Layari tandabuku berkenaan
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Dapatkan kegemaran anda dengan mudah. Gunakan { -brand-name-firefox-sync } untuk mengakses tandabuku anda dalam semua peranti anda, daripada deaktop hingga ke telefon bimbit. Atau cuba <a href="{ $url }">{ -brand-name-pocket }</a> untuk menyimpan apa jua artikel atau halaman dalam talian serta dapatkannya semula - walau tanpa internet.
+# Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Luangkan masa bersama tandabuku berkenaan
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
