@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Браузер Firefox: Використовуйте менше пам'яті, отримайте більшу швидкість
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Використовуйте менше пам'яті, отримайте більшу швидкість
 # HTML page description
 features-memory-is-your-computer-slow-your = Ваш комп'ютер працює повільно? Ймовірно, ваш браузер використовує занадто багато пам'яті. Перейдіть на { -brand-name-firefox }, щоб покращити швидкодію.
 features-memory-less-memory-usage-than-chrome = Використовує менше пам'яті, ніж { -brand-name-chrome }
