@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } - გადაინახეთ ახალი ამბები, ვიდეოები, ისტორიები და სხვა
 welcome-page2-your-time-online-is-worth = ინტერნეტში გატარებული დრო მოსაფრთხილებელია
-welcome-page2-discover-and-save-stories = აღმოაჩინეთ და შეინახეთ საინტერესო ამბები { -brand-name-pocket }-ში — შემდეგ კი დაუბრუნდით, როცა დრო გექნებათ.
+welcome-page2-discover-and-save-stories = აღმოაჩინეთ და შეინახეთ საინტერესო ამბები { -brand-name-pocket }-ში — შემდეგ კი დაუბრუნდით, როცა გეცლებათ.
 welcome-page2-activate-pocket = ჩართეთ { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-pocket-is-built-right-into = { -brand-name-pocket } ჩაშენებულია პირდაპირ { -brand-name-firefox }-ში, ასე რომ მარტივად შეგიძლიათ გადაინახოთ სტატიები მოძიებისთანავე, შემდეგ კი წაიკითხოთ ნებისმიერ მოწყობილობაზე.
