@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebelde con
 features-independent-firefox-is-independent = { -brand-name-firefox } ye independiente y una parte de la organización en ensin ánimu de llucru { -brand-name-mozilla } la cual llucha polos tos drechos en llinia, mantién controlaos los poderes corporativos y fai qu'internet seya accesible pa tol mundu y en tolos llaos.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Ensin compromisos
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } ta fechu por una organización ensin ánimu de llucru. Esto quier dicir que podemos facer coses qu'otros nun puen, como crear productos y carauterístiques nuevos ensin azorramplar. Nós defendemos el to drechu a la privacidá con ferramientes como Restolar en privao con Proteición de rastrexu que van acullá de lo qu'ufren { -brand-name-google } { -brand-name-chrome } y { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Lo que ves ye lo qu'hai
 features-independent-we-believe-the-internet = Creyemos qu'internet ye pa la xente, non pal porgüeyu. A diferencia d'otres compañes, nun vendemos l'accesu a los tos datos. <em>Yes</em> el que controla quién ve'l to historial y guetes de restolar. Escoyeta, eso ye de lo que trata un internet sano.
 features-independent-a-browser-on-a-mission = Un restolador nuna misión

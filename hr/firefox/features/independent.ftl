@@ -13,9 +13,8 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Buntovnik s
 features-independent-firefox-is-independent = { -brand-name-firefox } je neovisan i dio je neprofitne organizacije koja se bori za tvoja internetska prava i omogućuje internet svima i svugdje.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Bez ograničenja
-features-independent-firefox-is-built-by = { -brand-name-firefox } izrađuje neprofitna organizacija. To znači da možemo raditi stvari koje drugi ne mogu, kao što je izrada novih proizvoda bez prikrivenih namjera. Mi podržavamo tvoje pravo na privatnost s alatima kao što je privatno pregledavanje sa zaštitom od praćenja.
 # Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } gradi neprofitna organizacija. To znači da možemo raditi stvari koje drugi ne mogu, na primjer možemo graditi nove proizvode i funkcije bez skrivenih planova. Mi podržavamo tvoje pravo na privatnost s alatima kao što su privatno pregledavanje i zaštita od praćenja, koji su bolji od onoga što nude { -brand-name-google } { -brand-name-chrome } i { -brand-name-microsoft } { -brand-name-edge }.
+features-independent-firefox-is-built-by = { -brand-name-firefox } izrađuje neprofitna organizacija. To znači da možemo raditi stvari koje drugi ne mogu, kao što je izrada novih proizvoda bez prikrivenih namjera. Mi podržavamo tvoje pravo na privatnost s alatima kao što je privatno pregledavanje sa zaštitom od praćenja.
 features-independent-what-you-see-is-what = Ono što vidite je ono što i dobite
 features-independent-we-believe-the-internet = Mi vjerujemo da je internet za ljude, a ne za profit. Za razliku od drugih poduzeća, mi ne prodajemo tvoje podatke. <em>Ti</em> odlučuješ tko će vidjeti tvoje pretrage i povijest pregledavanja. Izbor – to je ono, što zdrav internet predstavlja!
 features-independent-a-browser-on-a-mission = Preglednik s misijom

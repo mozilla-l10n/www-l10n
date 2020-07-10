@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Ribelle pe 
 features-independent-firefox-is-independent = { -brand-name-firefox } o l'é indipendente e parte de l'òrganizaçion sensa fin de goagno { -brand-name-mozilla }, ch'a conbatte pe i teu diritti in linia e còntrolla cöse fan e corporaçioin pinn-e de palanche pe mantegnî l'internet acesibile a tutti e inte tutti i pòsti.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Nisciun segondo fin
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } o l'é fæto da 'na òrganizaçion sensa fin de goagno. Questo o veu dî che niatri poemmo fâ quello che i atri no peuan, comme creâ produti e fonçioin sensa raxoin ascoze. Niatri semmo canpioin de privacy con strumenti comme a Navegaçion Privâ che te dâ ben ben de ciù de quello che te dâ { -brand-name-google } { -brand-name-chrome } ò { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Quello che ti veddi o l'é quello che ti piggi
 features-independent-we-believe-the-internet = Niatri credemmo che internet o segge pe-a gente e no pe-o goagno. Diversamente da atre òrganizaçioin, niatri no vendemmo l'acesso a-i teu dæti. <em>Ti</em> te deciddi chi peu amiâ a teu stöia de navegaçion e de riçerche. Çernia — ecco cöse l'é a salute de l'Internet!
 features-independent-a-browser-on-a-mission = 'N navegatô co-ina miscion

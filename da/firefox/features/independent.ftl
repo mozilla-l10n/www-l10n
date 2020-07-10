@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Ungt blod m
 features-independent-firefox-is-independent = { -brand-name-firefox } er uafhængig og en del af nonprofit-organisationen { -brand-name-mozilla }, som kæmper for dine rettigheder på internettet, udfordrer de store firmaer og gør internettet tilgængelig for alle mennesker, alle steder.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Ingen skjulte bindinger
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } er udviklet af en nonprofit-organisation. Det betyder, at vi kan gøre ting, som de andre ikke kan, for eksempel udvikle nye produkter og funktioner uden en skjult dagsorden. Vi kæmper for din ret til beskyttelse af privatlivet med værktøjer som privat browsing med sporingsbeskyttelse, der giver dig bedre beskyttelse, end du finder i { -brand-name-chrome } og { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Det du ser, er det du får
 features-independent-we-believe-the-internet = Vi tror på, at internettet er til mennesker, ikke til at skabe profit. I modsætning til andre firmaer sælger vi ikke adgang til dine data. <em>Du</em> styrer, hvem der kan se din søge- og browser-historik. Selvbestemmelse — det er essensen i et frit internet!
 features-independent-a-browser-on-a-mission = En browser med en mission

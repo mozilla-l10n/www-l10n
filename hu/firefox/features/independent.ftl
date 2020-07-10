@@ -13,9 +13,8 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: lázadó, a
 features-independent-firefox-is-independent = A { -brand-name-firefox } független, és a nonprofit { -brand-name-mozilla } része, amely az online jogaiért küzd, ellenőrzés alatt tartja a vállalatbirodalmakat, és mindenki számára elérhető teszi az internetet, mindenhol.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Korlátozások nélkül
-features-independent-firefox-is-built-by = A { -brand-name-firefox }ot egy nonprofit szervezet készíti. Ez azt jelenti, hogy olyanokat is megtehetünk, amit mások nem, például olyan új termékeket készítünk, amelyeknek nincs rejtett céljuk. Védjük a magánszférájához való jogát, olyan eszközökkel mint a követésvédelemmel ellátott Privát böngészés.
 # Obsolete string
-features-independent-firefox-is-built-by-old = A { -brand-name-firefox }ot egy nonprofit szervezet készíti. Ez azt jelenti, hogy olyanokat is megtehetünk, amit mások nem, például olyan új termékeket készítünk, amelyeknek nincs rejtett céljuk. Védjük a magánszférájához való jogát, olyan eszközökkel mint a követésvédelemmel ellátott Privát böngészés, amely többet kínál, mint a { -brand-name-google } { -brand-name-chrome } vagy a { -brand-name-microsoft } { -brand-name-edge }.
+features-independent-firefox-is-built-by = A { -brand-name-firefox }ot egy nonprofit szervezet készíti. Ez azt jelenti, hogy olyanokat is megtehetünk, amit mások nem, például olyan új termékeket készítünk, amelyeknek nincs rejtett céljuk. Védjük a magánszférájához való jogát, olyan eszközökkel mint a követésvédelemmel ellátott Privát böngészés.
 features-independent-what-you-see-is-what = Azt látja, amit kap
 features-independent-we-believe-the-internet = Hisszük, hogy az Internet az emberekért van, nem pedig a haszonért. Eltérően más cégektől, mi nem adunk el hozzáférést a személyes adataihoz. <em>Ön</em> rendelkezik afelett, hogy ki látja a keresési és böngészési előzményeit. Választás – ez az, amiről az egészséges Internet szól!
 features-independent-a-browser-on-a-mission = Egy böngésző küldetéssel

@@ -13,9 +13,8 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebel ze za
 features-independent-firefox-is-independent = { -brand-name-firefox } jo njewótwisny a źěl za wše wužytnego { -brand-name-mozilla }, kótaryž za waše pšawa online wójujo, źaržy móc pśedewześow w granicach a cyni internet wšuźi pśistupny za kuždego.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Žedne znamuškowe rjeśazki pśipowjesnjone
-features-independent-firefox-is-built-by = { -brand-name-firefox } jo se wót za wše wužytneje organizacije wuwił. To groni, až móžomy wěcy gótowaś, kótarež druge njamógu gótowaś, na pśikład nowe produkty a funkcije bźez schowanego dnjownego pórěda wuwijaś. Zašćitujomy wašo pšawo na priwatnosć z rědami ako priwatnym modusom ze slědowańskim šćitom.
 # Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } jo se wót za wše wužytneje organizacije wuwił. To groni, až móžomy wěcy gótowaś, kótarež druge njamógu gótowaś, na pśikład nowe produkty a funkcije bźez schowanego dnjownego pórěda wuwijaś. Zašćitujomy wašo pšawo na priwatnosć z rědami ako priwatnym modusom ze slědowańskim šćitom, kótarež to pśewušuju, což { -brand-name-google } { -brand-name-chrome } a { -brand-name-microsoft } { -brand-name-edge } póbitujotej.
+features-independent-firefox-is-built-by = { -brand-name-firefox } jo se wót za wše wužytneje organizacije wuwił. To groni, až móžomy wěcy gótowaś, kótarež druge njamógu gótowaś, na pśikład nowe produkty a funkcije bźez schowanego dnjownego pórěda wuwijaś. Zašćitujomy wašo pšawo na priwatnosć z rědami ako priwatnym modusom ze slědowańskim šćitom.
 features-independent-what-you-see-is-what = Dostanjośo, což wiźiśo
 features-independent-we-believe-the-internet = Wěrimy, až internet jo za luźe, nic za komericelne zaměry. Na rozdźěl wót drugich pśedewześow, njepśedawamy pśistup k wašym datam. <em>Wy maśo</em> kontrolu nad tym, chtož wašu pytańsku a pśeglědowańsku historiju wiźi. Wólba - jo to, wó což pla strowego interneta źo!
 features-independent-a-browser-on-a-mission = Wobglědowak na misiji

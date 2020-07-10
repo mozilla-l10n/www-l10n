@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = „{ -brand-name-firefox }“ – ti
 features-independent-firefox-is-independent = „{ -brand-name-firefox }“ naršyklė yra nepriklausoma. Ją vysto pelno nesiekianti „Mozillos“ bendrija, kovojanti už jūsų privatumą ir teises internete, padedanti sutvardyti korporacijų galias ir prisidedanti prie interneto kaip visiems ir visur prieinamo ištekliaus gyvavimo.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Jokių papildomų sąlygų
-# Obsolete string
-features-independent-firefox-is-built-by-old = „{ -brand-name-firefox }“ kurdami, nesiekiame pelno. Tai suteikia mums laisvę daryti tai, ko negali kiti – pavyzdžiui, kurti naujus produktus ir funkcijas, neturint slaptų užmojų. Mes kovojame už jūsų teisę į privatumą, kurdami tokias priemones, kaip pavyzdžiui privačiojo naršymo su apsauga nuo stebėjimo veilksena – dar galingesnė, nei panašios „{ -brand-name-google } { -brand-name-chrome }“ ir „{ -brand-name-microsoft } { -brand-name-edge }“ funkcijos.
 features-independent-what-you-see-is-what = Gaunate tik tai, ką matote
 features-independent-we-believe-the-internet = Mes tikime, jog internetas skirtas visų pirma žmonėms, o ne pelnui. Priešingai nei kai kurios kitos kompanijos, mes niekam neparduodame prieigos prie jūsų duomenų. <em>Jūs patys</em> galite valdyti, kas mato, ką naršote ar ko ieškote. Galimybė rinktis – tai būtina sveiko interneto sąlyga.
 features-independent-a-browser-on-a-mission = Naršyklė su misija

@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Aatteelline
 features-independent-firefox-is-independent = { -brand-name-firefox } on itsenäinen ja osa voittoa tavoittelematonta { -brand-name-mozilla }a, joka taistelee verkko-oikeuksiesi puolesta, pitää kurissa suuryritysten vallan ja tuo Internetin kaikkien ulottuville - kaikkialla.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Ei sitoumuksia
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox }ia rakennetaan vapaaehtoisvoimin. Tämä tarkoittaa sitä, että me voimme tehdä asioita joita muut eivät voi, esimerkiksi kehittää uusia tuotteita ja ominaisuuksia ilman taka-ajatuksia. Me taistelemme oikeudestasi yksityisyyteen sellaisilla työkaluilla kuin Yksityinen selaus ja Seurannan suojaus, joiden toiminta menee paljon pidemmälle, kuin mitä { -brand-name-google } { -brand-name-chrome }lla ja { -brand-name-microsoft } { -brand-name-edge }llä on tarjota.
 features-independent-what-you-see-is-what = Saat mitä näet
 features-independent-we-believe-the-internet = Uskomme, että Internet on ihmisiä varten, ei tuottoja varten. Muista toimijoista poiketen me emme myy tietojasi. <em>Sinä</em> päätät siitä, kuka näkee haku- ja selaushistoriasi. Valinta — siitä oikeudenmukaisessa Internetissä on kyse!
 features-independent-a-browser-on-a-mission = Selain, jolla on missio

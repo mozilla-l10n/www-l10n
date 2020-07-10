@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }. un rebelde 
 features-independent-firefox-is-independent = { -brand-name-firefox } é un navegador independente, que está desenvolvido por { -brand-name-mozilla }, unha organización sen ánimo de lucro que loita polos seus dereitos dixitais, mantén baixo control aos poderes corporativos e fai que Internet sexa accesíbel para todos, en calquera lugar.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Sen condicións
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } creouno unha organización sen ánimo de lucro. Isto significa que podemos facer o que outros non poden permitirse, como construír novos produtos e funcións sen agachar nada. Defendemos o seu dereito a privacidade con ferramentas como a navegación privada con protección contra o seguimento, que van máis alá do que ofrece { -brand-name-google } { -brand-name-chrome } ou { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = O que ve é o que hai
 features-independent-we-believe-the-internet = Cremos que Internet é para todos e non para o beneficio. A diferencia doutras compañías, non vendemos o acceso aos seus datos. É <em>VOSTEDE</em> o que controla quen ve o seu historial de busca e navegación. Darlle a opción é o que significa para nos unha Internet saudábel!
 features-independent-a-browser-on-a-mission = Un navegador cunha misión

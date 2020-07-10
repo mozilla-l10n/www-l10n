@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: rebel per i
 features-independent-firefox-is-independent = { -brand-name-firefox } è independent ed è in program da l'organisaziun senza profit { -brand-name-mozilla } che defenda tes dretgs en la rait, controllescha la pussanza da concerns e renda l'internet accessibel per in e scadin, dapertut.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Nus essan independents
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } è programmà dad ina organisaziun senza profit. Perquai po Mozilla far quai che auters na pon betg: p.ex. sviluppar novs products e funcziuns senza intenziuns zuppadas. E perquai ta porscha tranter auter il modus privat da { -brand-name-firefox } dapli protecziun cunter il fastizar che quai che { -brand-name-google } { -brand-name-chrome } u { -brand-name-microsoft } { -brand-name-edge } offreschan.
 features-independent-what-you-see-is-what = Senza trics, senza engion
 features-independent-we-believe-the-internet = Nus essan da l'avis che l'internet saja per la glieud, betg per il profit. Cuntrari ad autras firmas na vendain nus betg l'access a tias datas. <em>Ti</em> pos decider schebain insatgi vesa tias tschertgas u tia cronologia da tschertga. Tias datas, tia decisiun — quai è per nus l'internet liber e da sauna raschun.
 features-independent-a-browser-on-a-mission = In navigatur cun principis

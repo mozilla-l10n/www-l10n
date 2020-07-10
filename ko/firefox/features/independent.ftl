@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: 이유 있�
 features-independent-firefox-is-independent = { -brand-name-firefox }는 독립적이며, 여러분의 온라인 권리를 위해 싸우는 비영리 { -brand-name-mozilla } 활동의 일부로서 대기업의 권한을 견제하며, 모든 사람들이 인터넷에 접근할 수 있도록합니다.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = 댓가 없는 공헌
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox }는 비영리 단체입니다. 즉, 정해진 사양 없이 사용자의 피드백에 따라 새로운 제품과 기능을 구축하는 것으로 다른 사람들이 할 수 없는 일을 할 수 있다는 뜻입니다. { -brand-name-google }은 { -brand-name-chrome }과 { -brand-name-microsoft } { -brand-name-edge }가 제공하는 것 이상으로 추적 보호 기능이 포함된 개인 정보 보호 브라우징과 같은 도구로 개인 정보 보호 권리를 보호합니다.
 features-independent-what-you-see-is-what = 보는 것이 얻는 것
 features-independent-we-believe-the-internet = 우리는 인터넷이 상업적 이익이 아니라 사람을 위한 것이라고 믿습니다. 다른 회사와 달리 여러분의 데이터를 판매하지 않습니다. 검색 및 인터넷 사용 기록을 볼 수있는 사람을 <em>오로지 여러분</em> 뿐입니다. 지금 선택하시면, 건강한 인터넷이 됩니다!
 features-independent-a-browser-on-a-mission = 브라우저 사명

@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: kausadun er
 features-independent-firefox-is-independent = { -brand-name-firefox } independentea da, eta irabazi-asmorik gabeko { -brand-name-mozilla }ren parte, zeinak borrokatzen baitu zure lineako eskubideen aurka, korporazioen indarrari muga jarriz eta Internet guztiontzat eskuragarri eginez, edonon.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Loturarik gabe
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } irabazi-asmorik gabeko batek sortua da. Honek esan nahi du beste batzuek egin ezin dutena egin dezakegula, hala nola agenda ezkuturik gabe produktu eta eginbide berriak garatu. Pribatutasunerako zure eskubidearen alde borrokatzen dugu hainbat tresnarekin: adibidez jarraipenaren aurkako babesdun nabigazio pribatua, zeina { -brand-name-google } { -brand-name-chrome } eta { -brand-name-microsoft } { -brand-name-edge }-ek eskainitakotik haratago doan.
 features-independent-what-you-see-is-what = Ikusten duzuna da eskuratzen duzuna
 features-independent-we-believe-the-internet = Internet jendearentzat dela uste dugu, ez etekinak lortzeko. Beste konpainiek ez bezala, guk ez ditugu zure datuak saltzen. <em>Zeuk</em> kontrolatzen duzu nork ikusten duen zure bilaketa- eta nabigazio-historia. Aukera — hori da Internet osasuntsuaren funtsa!
 features-independent-a-browser-on-a-mission = Misiodun nabigatzailea

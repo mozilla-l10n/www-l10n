@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebelde con
 features-independent-firefox-is-independent = { -brand-name-firefox } ye independient, y un programa de { -brand-name-mozilla }, una organización sin animo de lucro, que luito per los tuyos dreitos en linia, cosira los poders corporativos y fa internet accesible pa totz, en qualsequier puesto.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = No i hai garra cadena adchunta
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } ye feito per una organización sin animo de lucro. Esto quiere decir que podemos fer cosas que atros no puedes, como fer nuevos productos y funcionalidatz sin una achenda amagada. La nuestra prioridat ye lo tuyo dreito a la privacidat, con ferramientas como Navegación privada u Protección contra seguimiento, que van dillá d'o que ofreixen { -brand-name-google } { -brand-name-chrome } y { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Lo que veyes que lo que obtiens
 features-independent-we-believe-the-internet = Creyemos que Internet ye pa la chent, no pa fer negocio. A diferencia d'atras interpresas, no vendemos l'acceso a los tuyos datos. <em>Tu</em> tiens lo control sobre quí veye lo tuyos historial de busqueda y navegación. Poder decidir, ixo ye lo que pa nusatros significa un Internet sano!
 features-independent-a-browser-on-a-mission = Un navegador en una misión

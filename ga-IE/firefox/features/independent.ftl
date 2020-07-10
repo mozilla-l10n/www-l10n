@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: An Brabhsá
 features-independent-firefox-is-independent = Tá { -brand-name-firefox } neamhspleách agus tá sé forbartha faoi scáth { -brand-name-mozilla }, eagraíocht neamhbhrabúis a throideann ar son do cheart ar líne, a choinníonn srian ar na mórchomhlachtaí corparáideacha, agus a chuireann an tIdirlíon ar fáil do gach uile dhuine i ngach uile áit.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Brabhsáil gan choinníollacha
-# Obsolete string
-features-independent-firefox-is-built-by-old = Tá { -brand-name-firefox } forbartha ag eagraíocht neamhbhrabúis. Ciallaíonn sé sin gur féidir linn táirgí agus gnéithe nua a thógáil gan aidhmeanna folaigh. Seasaimid ar son cheart an phríobháideachais le huirlisí éagsúla, mar shampla Brabhsáil Phríobháideach agus Cosaint ar Lorgaireacht, uirlisí atá i bhfad Éireann níos fearr ná na cinn atá ar fáil in { -brand-name-google } { -brand-name-chrome } nó { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Faigheann tú a bhfeiceann tú
 features-independent-we-believe-the-internet = Creidimid gur chóir don Idirlíon a bheith dírithe ar dhaoine seachas ar bhrabús. Ní dhíolaimid do chuid sonraí pearsanta mar a dhéanann comhlachtaí eile. <em>Tusa amháin</em> atá i gceannas ar do stair bhrabhsála agus do stair chuardaigh. Rogha — is é sin bun is barr Idirlíon sláintiúil!
 features-independent-a-browser-on-a-mission = Brabhsálaí ar mhisean

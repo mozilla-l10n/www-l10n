@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: eesmärgiga
 features-independent-firefox-is-independent = { -brand-name-firefox } on sõltumatu ning osa mittetulunduslikust { -brand-name-mozilla }st, mis võitleb sinu õiguste eest internetis, hoiab korporatiivseid huvisid kontrolli all ja muudab interneti ligipääsetavaks kõigile igal pool.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Tingimusteta
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox }i arendab mittetulunduslik organisatsioon. See tähendab, et saame teha asju, mida teised endale lubada ei saa, näiteks ehitada uusi tooteid ja võimalusi peidetud tagamõtteta. Võitleme sinu õiguse eest privaatsusele vahenditega nagu privaatne veebilehitsemine jälitamisvastase kaitsega, mis pakub enamat kui { -brand-name-google } { -brand-name-chrome } ja { -brand-name-microsoft } { -brand-name-edge } võimaldavad.
 features-independent-what-you-see-is-what = Nii nagu paistab, nii ka on
 features-independent-we-believe-the-internet = Usume, et internet on inimeste jaoks, mitte kasumi teenimiseks. Erinevalt teistest firmadest ei müü me ligipääsu sinu andmetele. <em>Sina</em> otsustad, kes su otsingu- ja veebilehitsemisajalugu näeb. Valikuvabadus — see ongi terve interneti tuum!
 features-independent-a-browser-on-a-mission = Missiooniga brauser

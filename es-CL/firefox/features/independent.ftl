@@ -13,9 +13,8 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebelde con
 features-independent-firefox-is-independent = { -brand-name-firefox } es independiente y parte de { -brand-name-mozilla }, organización sin fines de lucro que lucha por tus derechos en línea, mantiene los poderes corporativos en su lugar y hace Internet accesible para todos, en todas partes.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Sin compromisos
-features-independent-firefox-is-built-by = { -brand-name-firefox } es desarrollado por una organización sin fines de lucro. Eso significa que podemos hacer cosas que otros no pueden, como construir nuevos productos sin una agenda oculta. Luchamos por tu derecho a privacidad con herramientas como la navegación privada con protección de seguimiento.
 # Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } es desarrollado por una organización sin fines de lucro. Eso significa que podemos hacer cosas que otros no pueden, como construir nuevos productos sin una agenda oculta. Luchamos por tu derecho a privacidad con herramientas como la navegación privada con protección de seguimiento, que va más allá de lo que { -brand-name-google } { -brand-name-chrome } y { -brand-name-microsoft } { -brand-name-edge } ofrecen.
+features-independent-firefox-is-built-by = { -brand-name-firefox } es desarrollado por una organización sin fines de lucro. Eso significa que podemos hacer cosas que otros no pueden, como construir nuevos productos sin una agenda oculta. Luchamos por tu derecho a privacidad con herramientas como la navegación privada con protección de seguimiento.
 features-independent-what-you-see-is-what = Lo que ves es lo que recibes
 features-independent-we-believe-the-internet = Creemos que Internet es para la gente, no para lucrar. A diferencia de otras compañías, no vendemos el acceso a tus datos. <em>Tu estás</em> al control sobre quien ve tu historial de búsqueda y navegación. Elige — ¡de eso se trata un Internet saludable!
 features-independent-a-browser-on-a-mission = Un navegador en una misión

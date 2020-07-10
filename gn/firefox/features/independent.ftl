@@ -13,9 +13,8 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Oñemoaña 
 features-independent-firefox-is-independent = { -brand-name-firefox } ijehegui ha omoheñói { -brand-name-mozilla }, atyguasu reiguáva oñangarekóva nde derécho rehe ñandutípe, oma’ẽag̃ui ambue atyguasu rehe ha ojapo ñandutígui opavavépe g̃uarã, opaite hendápe.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Oñe’ẽme’ẽ’ỹre
-features-independent-firefox-is-built-by = { -brand-name-firefox } omoheñói peteĩ atyguasu viru’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapokuaa’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembipiru kundahára ñemigua rapykuere mo’ãha ndive.
 # Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } omoheñói peteĩ atyguasu arapyguáva viru’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ikatu’ỹva ojapo, ñemoha’anga pyahu ha tembiapoite heko kañy’ỹva. Romo’ã tapia nde derécho ñemiguáva tembipiru kundaha ñemigua tapykuere mo'ãha ndive, oikovéva umi ome’ẽva { -brand-name-google } { -brand-name-chrome } ha { -brand-name-microsoft } { -brand-name-edge }-gui.
+features-independent-firefox-is-built-by = { -brand-name-firefox } omoheñói peteĩ atyguasu viru’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapokuaa’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembipiru kundahára ñemigua rapykuere mo’ãha ndive.
 features-independent-what-you-see-is-what = Eguerekóta ehecháva
 features-independent-we-believe-the-internet = Roguerovia ñanduti ha’eha opavavépe g̃uarã, ndaha’éi virurã añogua. Ojapo’ỹva ambue atyguasu, norohepyme’ẽi nde mba’ekuaarã. <em>Ndete</em> ema’ẽta mávapa ohecha nde jeheka ha ne kundaha rembiasakue. ¡Jeporavo, kóva hína ha’e ñanduti hesãiva!
 features-independent-a-browser-on-a-mission = Peteĩ kundaha tembipotápe

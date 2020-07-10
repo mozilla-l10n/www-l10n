@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Επανα�
 features-independent-firefox-is-independent = Ο { -brand-name-firefox } είναι ανεξάρτητος και κομμάτι του μη κερδοσκοπικού ιδρύματος { -brand-name-mozilla }, το οποίο αγωνίζεται για τα ψηφιακά σας δικαιώματα, κρατά τη δύναμη των εταιρειών υπό έλεγχο και κάνει το Διαδίκτυο προσιτό σε οποιονδήποτε, οπουδήποτε.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Χωρίς καμία δέσμευση
-# Obsolete string
-features-independent-firefox-is-built-by-old = Ο { -brand-name-firefox } χτίζεται από ένα μη κερδοσκοπικό ίδρυμα. Αυτό σημαίνει ότι μπορούμε να κάνουμε πράγματα που οι άλλοι δεν μπορούν, όπως το να δημιουργούμε καινούρια προϊόντα και λειτουργίες χωρίς κρυφή ατζέντα. Προασπίζουμε το δικαίωμα σας στην ιδιωτικότητα με εργαλεία όπως η Ιδιωτική Περιήγηση με Προστασία Δεδομένων Περιήγησης, όπου είναι πέραν αυτών που προσφέρουν ο { -brand-name-google } { -brand-name-chrome } και ο { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Αυτό που βλέπετε είναι αυτό που λαμβάνετε
 features-independent-we-believe-the-internet = Πιστεύουμε ότι το Διαδίκτυο είναι για τους ανθρώπους, όχι για το κέρδος. Αντίθετα με άλλες εταιρίες, δεν πωλούμε πρόσβαση στα προσωπικά σας δεδομένα. <em>Εσείς</em> έχετε τον έλεγχο για το ποιος βλέπει το ιστορικό της αναζήτησης και της περιήγησης σας. Επιλογή — αυτό καθιστά το Διαδίκτυο υγιές!
 features-independent-a-browser-on-a-mission = Ένα πρόγραμμα περιήγησης με μία αποστολή

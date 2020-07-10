@@ -13,8 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: motivasiyal
 features-independent-firefox-is-independent = { -brand-name-firefox } müstəqildir və qeyri-kommersial { -brand-name-mozilla }-nin bir hissəsidir, onlayn hüquqlarınız üçün mübarizə edir, korporotiv gücləri nəzarətdə tutur və interneti hər yerdə, hər kəs üçün əlçatan edir.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Yalansız
-# Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } qeyri-kommersial tərəfindən yaradılıb. Bu da gizli planlar olmadan yeni məhsul və özəlliklər yaratmaq kimi digərlərinin edə bilmədiklərini etmə imkanı verir. { -brand-name-google } { -brand-name-chrome } və { -brand-name-microsoft } { -brand-name-edge }-in təklif etdiklərinin çox daha irəlisində məxfilik hüququnuzu qoruyan İzləmə Qorumalı Məxfi Səyahət kimi alətləri inşa edirik.
 features-independent-what-you-see-is-what = Nə görürsünüzsə, onu da əldə edirsiz
 features-independent-we-believe-the-internet = İnternetin şirkətlər üçün yox, insanlar üçün olduğuna inanırıq. Digər şirkətlərdən fərqli olaraq məlumatlarınızı satmırıq. Axtarış və səyahət tarixçənizi kimin görəcəyi ancaq <em>Sizin</em> idarənizdədir. Seçim — sağlam internet üçün mütləqdir!
 features-independent-a-browser-on-a-mission = Missiyası olan bir səyyah

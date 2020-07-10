@@ -13,9 +13,8 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: מרד מו
 features-independent-firefox-is-independent = { -brand-name-firefox } הוא עצמאי וחלק מהקרן ללא מטרות רווח { -brand-name-mozilla }, שנאבקת על הזכויות המקוונות שלך, מרסנת את כוח התאגידים ומסייעת להנגיש את האינטרנט לכל אחד, בכל מקום.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = בלי אותיות קטנות
-features-independent-firefox-is-built-by = { -brand-name-firefox } נבנה על־ידי עמותה ללא מטרות רווח. משמעות הדבר היא שאנחנו יכולים לעשות דברים שלאחרים אין אפשרות לעשות, כמו לפתח מוצרים חדשים ותכונות ללא כוונות נסתרות. אנו מציבים בחזית את הזכות שלך לפרטיות עם כלים כמו גלישה פרטית עם הגנת מעקב.
 # Obsolete string
-features-independent-firefox-is-built-by-old = { -brand-name-firefox } נבנה על ידי עמותה ללא מטרות רווח. משמעות הדבר היא שאנחנו יכולים לעשות דברים שלאחרים אין אפשרות לעשות, כמו לפתח מוצרים חדשים ותכונות ללא כוונות נסתרות. אנו מציבים בחזית את הזכות שלך לפרטיות עם כלים כמו גלישה פרטית עם הגנת מעקב, שמספקים יותר בהשוואה למה שיש ל־{ -brand-name-google } { -brand-name-chrome } ול־{ -brand-name-microsoft } { -brand-name-edge } להציע.
+features-independent-firefox-is-built-by = { -brand-name-firefox } נבנה על־ידי עמותה ללא מטרות רווח. משמעות הדבר היא שאנחנו יכולים לעשות דברים שלאחרים אין אפשרות לעשות, כמו לפתח מוצרים חדשים ותכונות ללא כוונות נסתרות. אנו מציבים בחזית את הזכות שלך לפרטיות עם כלים כמו גלישה פרטית עם הגנת מעקב.
 features-independent-what-you-see-is-what = מה שמופיע זה מה שיש
 features-independent-we-believe-the-internet = אנו מאמינים שהאינטרנט נועד לטובת האנשים ולא למטרות רווח. שלא כמו חברות אחרות, אנחנו לא מוכרים גישה למידע שלך. <em>לך</em> יש את השליטה בגופים שיכולים לגשת להיסטוריית הגלישה שלך. בחירה - חלק מהותי באינטרנט בריא!
 features-independent-a-browser-on-a-mission = דפדפן עם מטרה
