@@ -14,7 +14,7 @@ download-button-systems-languages = Sistemas operativos y luengas
 download-button-recommended = Recomendau
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } ya no ofreix actualizacions de seguranza pa lo firefox en { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }</a>, pero puet seguir baixando la versión final pa { -brand-name-windows } de 32 bits aquí baixo.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } ya no ofreix actualizacions de seguranza pa lo { -brand-name-firefox } en { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }</a>, pero puet seguir baixando la versión final pa { -brand-name-windows } de 32 bits aquí baixo.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Siga <a href="{ $url }">estas instruccions</a> pa instalar { -brand-name-firefox }.
@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> pa { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> ta { -brand-name-ios }
 download-button-firefox-privacy = Privacidat d'o { -brand-name-firefox }
+download-button-firefox-privacy-notice = Aviso de privacidat de { -brand-name-firefox }
 download-button-download = Baixa-te-lo
