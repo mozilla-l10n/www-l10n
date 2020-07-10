@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Webbläsaren Firefox: Mindre minnesförbrukning, högre hastighet
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Mindre minnesförbrukning, högre hastighet
 # HTML page description
 features-memory-is-your-computer-slow-your = Är din dator långsam? Din webbläsare kanske använder för mycket minne. Byt till { -brand-name-firefox } idag för snabbare surf.
 features-memory-less-memory-usage-than-chrome = Mindre minneförbrukning än { -brand-name-chrome }
