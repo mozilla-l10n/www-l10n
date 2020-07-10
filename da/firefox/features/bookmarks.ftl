@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Bedre bogmærker uanset hvor du er
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Bedre bogmærker uanset hvor du er
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Sortér nemt dine bogmærker i mapper og få adgang til dem fra alle dine enheder, fra computer til mobil.
 features-bookmarks-better-bookmarks = Bedre bogmærker
