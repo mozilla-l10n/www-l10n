@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navigation-download-firefox = Descargar { -brand-name-firefox }
 navigation-release-notes = Notas de lanzamiento
 navigation-features = Caracteristicas
 navigation-products = Productos
