@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox-browser: betere bladwijzers, waar u ook bent
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: betere bladwijzers, waar u ook bent
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Orden uw bladwijzers eenvoudig in mappen en benader ze op al uw apparaten, van desktop tot mobiel.
 features-bookmarks-better-bookmarks = Betere bladwijzers
