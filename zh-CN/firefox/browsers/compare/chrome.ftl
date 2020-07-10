@@ -25,7 +25,7 @@ compare-chrome-google-chrome-is-by-all-accounts = 总体来说，{ -brand-name-g
 compare-chrome-ultimately-its-up-to-you = 归根结底，像搜索历史、购物记录等数据，是否分享，以及分享多少，决定权在您。但包括您的大多数人，可能都在网上搜索过一些希望保密的内容。
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.
 compare-chrome-fast-forward-to-today-the = 时至今日，浏览器的竞争格局已然发生变化，许多人开始质疑其在线数据（如：浏览历史、密码和其他敏感信息）的状况。自 2008 年 { -brand-name-chrome } 推出以来，情况发生了很大变化。在 { -brand-name-firefox }，我们一直在努力重新设计浏览器界面，为用户提供越来越多的隐私保护和性能增强，以及诸多便捷的浏览器工具。
-compare-chrome-and-so-here-we-are-the-browser = 新的风暴已经出现，浏览器之争再次升级，是时候重新评估和比较 { -brand-name-firefox-browser } 浏览器与 { -brand-name-google } { -brand-name-chrome } 了。
+compare-chrome-and-so-here-we-are-the-browser = 新的风暴已经出现，浏览器之争再次升级，是时候重新评估和比较 { -brand-name-firefox-browser }与 { -brand-name-google } { -brand-name-chrome } 了。
 compare-chrome-in-2008-google-introduced = 2008 年，{ -brand-name-google } 推出了 { -brand-name-chrome }，它作为浏览器技术创新的影响力立竿见影。它加载网站更快、非网页元素占用屏幕空间更少、并提供了一个毋庸置疑的简洁用户界面。
 compare-chrome-in-fact-both-chrome-and-firefox = 实际上，{ -brand-name-chrome } 和 { -brand-name-firefox } 都拥有严格的安全性。两者都包含一种叫做“沙盒（Sandboxing）”的机制，它可以将浏览器的进程隔开，从而使诸如有害网站等不会感染你笔记本电脑或其他设备的其他部分。
 # "Beside the point" means that a subject might be worth noting, but isn't the main focus (the point) of the discussion. Alternative: "but that's not the real issue."
