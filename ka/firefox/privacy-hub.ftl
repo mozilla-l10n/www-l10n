@@ -34,7 +34,7 @@ firefox-privacy-hub-theres-no-hidden-agenda-here = არანაირი ფ�
 firefox-privacy-hub-why-trust-firefox = რატომაა სანდო { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-firefox-privacy-hub-because-we-put-people-first = იმიტომ, რომ ჩვენ ხალხს ვაყენებთ ყველაფერზე წინ. ჩვენ ზურგს გვიმაგრებს <a href="{ $foundation }">არამომგებიანი დაწესებულება</a>. დაარსების დღიდან, ჩვენი მიზანი ინტერნეტის და მისი მონაწილეების დაცვაა.
+firefox-privacy-hub-because-we-put-people-first = იმიტომ, რომ ჩვენ ხალხს ვაყენებთ ყველაფერზე წინ. ჩვენ ზურგს გვიმაგრებს <a href="{ $foundation }">არამომგებიანი დაწესებულება</a>. დაარსების დღიდან, ჩვენი მიზანი ინტერნეტისა და მისი მონაწილეების დაცვაა.
 firefox-privacy-hub-learn-more-about-our-mission = ვრცლად, ჩვენი მიზნების შესახებ
 firefox-privacy-hub-your-privacy-by-the-product = თქვენი პირადულობა, სხვადასხვა პროდუქტებით
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-პროდუქტები მუშაობს განსხვავებულად — ვინაიდან, ისინი განკუთვნილია პირველ რიგში, თქვენი პირადულობის დაცვისთვის.
