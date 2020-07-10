@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Wobglědowak Firefox: Mjenjej składa wužywaś, wěcej malsnosći dostaś
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Mjenjej składa wužywaś, wěcej malsnosći dostaś
 # HTML page description
 features-memory-is-your-computer-slow-your = Jo wašo licadło pomałe? Waš wobglědowak snaź pśewjele składa wužywa. Pśejźćo źinsa k { -brand-name-firefox } za wěcej malsnosći.
 features-memory-less-memory-usage-than-chrome = Mjenjej składowego wužyśa ako { -brand-name-chrome }
