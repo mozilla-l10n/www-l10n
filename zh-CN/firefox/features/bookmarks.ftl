@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox 浏览器，您的书签，始终相伴
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }：您的书签，始终相伴
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = 轻松管理您的书签，并将它们在您的桌面设备与移动设备间同步。
 features-bookmarks-better-bookmarks = 更好的书签
