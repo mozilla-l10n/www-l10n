@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Браузер Firefox: Покращені закладки завжди з вами
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Найкращі закладки завжди з вами
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Легко організуйте свої закладки в теки і отримуйте до них доступ з усіх пристроїв, від комп'ютерів до мобільних.
 features-bookmarks-better-bookmarks = Кращі закладки
@@ -20,7 +20,7 @@ features-bookmarks-fly-with-that-bookmark = Будьте завжди зі св�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Візьміть свої закладки з собою. Використовуйте синхронізацію Firefox, щоб отримувати доступ до своїх закладок з усіх пристроїв, від комп'ютерів до мобільних. Або спробуйте <a href="{ $url }">{ -brand-name-pocket }</a>, щоб зберігати будь-які статті або сторінки, і повернутися до них пізніше – навіть без Інтернету.
+features-bookmarks-take-your-favorites-on = Візьміть свої закладки з собою. Використовуйте { -brand-name-firefox-sync }, щоб отримувати доступ до своїх закладок з усіх пристроїв, від комп'ютерів до мобільних. Або спробуйте <a href="{ $url }">{ -brand-name-pocket }</a>, щоб зберігати будь-які статті або сторінки, і повернутися до них пізніше – навіть без Інтернету.
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Проводьте час з закладками
