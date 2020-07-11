@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Webbläsare Firefox: Snabb, enkel lösenordshanterare
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Snabb, enkel lösenordshanterare
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } lösenordshanterare sparar alla dina lösenord på ett ställe så att du automatiskt kan logga in på webbplatser eller hämta sparade lösenord.
 # Hero title
@@ -19,9 +19,9 @@ password-manager-forget-the-reset = Glöm återställning av lösenord. { -brand
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Lösenordsninja
-password-manager-no-more-try-again = Inga fler "försök igen" medan du försöker logga in på webbplatser. Logga in på ditt Firefox-konto på din smartphone och dina lösenord kommer att vara tillgängliga. Dina inloggningsuppgifter kommer helt enkelt visas bara sådär.
+password-manager-no-more-try-again = Inga fler "försök igen" medan du försöker logga in på webbplatser. Logga in på ditt { -brand-name-firefox-account } på din mobil och dina lösenord kommer att vara tillgängliga. Dina inloggningsuppgifter kommer helt enkelt visas bara sådär.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Lösenordsmästare
 # Obsolete string
 # Variables:
