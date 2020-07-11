@@ -16,10 +16,12 @@ password-manager-password-hero = Lösenordshjälte
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Glöm återställning av lösenord. { -brand-name-firefox } lösenordshanterare sparar alla dina lösenord så att du kan logga in automatiskt, eller hitta sparade lösenord enkelt. För extra säkerhet, ge din dator ett <a href="{ $url }">huvudlösenord</a>.
+password-manager-password-magician = Lösenordstrollkarl
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Lösenordsninja
 password-manager-no-more-try-again = Inga fler "försök igen" medan du försöker logga in på webbplatser. Logga in på ditt { -brand-name-firefox-account } på din mobil och dina lösenord kommer att vara tillgängliga. Dina inloggningsuppgifter kommer helt enkelt visas bara sådär.
+password-manager-password-champion = Lösenordsmästare
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Lösenordsmästare
