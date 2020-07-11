@@ -7,3 +7,7 @@
 
 # HTML page title
 features-index-protect-your-privacy-and-browse = Beskytt personvernet ditt og surf raskere med funksjoner i { -brand-name-firefox }
+# HTML page description
+features-index-youre-in-control-with-firefoxs = Du har kontrollen med { -brand-name-firefox } sine lettvinte funksjoner som beskytter ditt privatliv og surfehastigheter.
+# Hero title
+features-index-firefox-features = { -brand-name-firefox }-funksjoner
