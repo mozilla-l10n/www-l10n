@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Brskalnik Firefox: porabite manj pomnilnika, brskajte hitreje
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: porabite manj pomnilnika, brskajte hitreje
 # HTML page description
 features-memory-is-your-computer-slow-your = Je vaš računalnik počasen? Vaš brskalnik morda porablja preveč pomnilnika. Preklopite na { -brand-name-firefox } še danes in brskajte hitreje.
-features-memory-less-memory-usage-than-chrome = Manjša poraba pomnilnika kot v Chromu
+features-memory-less-memory-usage-than-chrome = Manjša poraba pomnilnika kot v brskalniku { -brand-name-chrome }
 features-memory-if-your-web-browser-uses = Če vaš spletni brskalnik porablja preveč pomnilnika, preklopite na { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Pohitrite svoj računalnik
 features-memory-every-computer-program-you = Vsak zagnan računalniški program za delovanje porablja nekaj pomnilnika. Kadar ga je v uporabi preveč, lahko vaš sistem postane počaaaaasen. { -brand-name-firefox } poskuša najti ravnotežje — uporabljati dovolj pomnilnika, da brskanje teče gladko, in ga obenem pustiti prostega dovolj, da vaš računalnik ostane odziven.
