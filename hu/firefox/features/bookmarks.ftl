@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox böngésző: jobb könyvjelzők, akárhol is jár
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: jobb könyvjelzők, akárhol is jár
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Szervezze könnyedén mappákba a könyvjelzőit, és érje el őket az összes eszközén, az asztali gépétől a mobiljáig.
 features-bookmarks-better-bookmarks = Jobb könyvjelzők
@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Vigye magával a könyvjelzőit
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Vigye magával a kedvenceit. Használja a { -brand-name-firefox-sync }et hogy az összes eszközén elérje a könyvjelzőit, az asztali gépétől a mobiljáig. Vagy próbálja ki a <a href="{ $url }">{ -brand-name-pocket }et</a> és mentse le bármelyik online cikket vagy lapot, és térjen vissza később – akár internet nélkül is.
+features-bookmarks-customize-that-bookmark = Szabja testre a könyvjelzőt
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Szöszöljön a könyvjelzőkkel
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Próbáljon ki minden könyvjelzőkezelő <a href="{ $url }">kiegészítőt</a>, amire csak gondol, kezdve a teljes oldalas pillanatképekkel, a gyorsváltós oldalsávokon át, a kulcsra zárt privát könyvjelzőkig.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox böngésző: gyors, könnyű jelszókezelő
+password-manager-firefox-browser = { -brand-name-firefox-browser }: gyors, könnyű jelszókezelő
 # HTML page description
 password-manager-firefox-password = A { -brand-name-firefox } jelszókezelő egy helyre menti az összes jelszavát, így automatikusan bejelentkezhet a helyekre, vagy lekérheti a tárolt jelszavakat.
 # Hero title
@@ -19,9 +19,9 @@ password-manager-forget-the-reset = Felejtse el a helyreállítást. A { -brand-
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Jelszó nindzsa
-password-manager-no-more-try-again = Nincs több „próbálja újra”, amikor el szeretne jutni valahová. Jelentkezzen be a Firefox fiókjába a telefonján, és a jelszavai Önnel mennek. A bejelentkezési adatai meg fognak jelenni, csak úgy.
+password-manager-no-more-try-again = Nincs több „próbálja újra”, amikor el szeretne jutni valahová. Jelentkezzen be a { -brand-name-firefox-account }jába a telefonján, és a jelszavai Önnel mennek. A bejelentkezési adatai meg fognak jelenni, csak úgy.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Jelszó mester
 # Obsolete string
 # Variables:

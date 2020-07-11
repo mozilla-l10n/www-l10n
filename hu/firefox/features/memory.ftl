@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox böngésző: használjon kevesebb memóriát, kapjon nagyobb sebességet
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: használjon kevesebb memóriát, kapjon nagyobb sebességet
 # HTML page description
 features-memory-is-your-computer-slow-your = Lassú a számítógépe? A böngészője lehet hogy túl sok memóriát használ. Váltson { -brand-name-firefox }ra még ma a nagyobb sebességért.
 features-memory-less-memory-usage-than-chrome = Kisebb memóriahasználat mint a { -brand-name-chrome }-nál
