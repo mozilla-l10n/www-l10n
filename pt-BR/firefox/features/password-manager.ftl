@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Deixe o "Esqueci a senha" para lá. O Gerenc
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja das senhas
-password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto você está tentando chegar em algum lugar. Entre na sua Conta Firefox no seu telefone e suas senhas estarão com você. Seus dados de acesso aparecerão, simples assim.
+password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto está tentando chegar em algum lugar. Entre na sua { -brand-name-firefox-account } no seu celular e suas senhas estarão com você. Seus detalhes de contas simplesmente aparecem, simples assim.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mestre das senhas
