@@ -12,6 +12,7 @@ features-index-youre-in-control-with-firefoxs = Maće kontrolu nad lochko wužiw
 # Hero title
 features-index-firefox-features = Funkcije { -brand-name-firefox }
 features-index-see-all = Wšě rozšěrjenja pokazać
+features-index-give-your-browser = Dajće swojemu wobhladowakej požadane zwonkowne z tysacami rozdźělnych drastow.
 features-index-get-an-account = Wobstarajće sej { -brand-name-firefox-account }
 features-index-from-the-company = Wot předewzaća, kotrež ludźi před profit staja
 features-index-open-source-minds = Wotewrjena softwara. Wotewrjene mysle.
