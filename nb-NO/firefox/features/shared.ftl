@@ -8,6 +8,7 @@
 features-shared-a-better-internet-experience = En bedre internettopplevelse
 features-shared-browse-faster = Surf raskere
 features-shared-your-favorite-extensions = Dine favorittutvidelser
+features-shared-balanced-memory = Balansert minne
 features-shared-more-powerful-private-browsing = Kraftigere privat nettlesing
 features-shared-ad-tracker-blocking = Blokkering av annonsesporere
 features-shared-password-manager = Passordbehandling
