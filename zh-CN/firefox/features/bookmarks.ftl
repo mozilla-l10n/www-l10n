@@ -21,6 +21,7 @@ features-bookmarks-fly-with-that-bookmark = 书签随身
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = 书签随身带着走！使用 { -brand-name-firefox-sync }即可在您的所有设备之间同步您的书签，无论它是桌面设备或移动设备。您还可以尝试用 <a href="{ $url }">{ -brand-name-pocket }</a> 来保存网上文章、页面以便稍后阅读，它还支持离线阅读。
+features-bookmarks-customize-that-bookmark = 定制您的书签
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = 百变书签

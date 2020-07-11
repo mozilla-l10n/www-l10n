@@ -12,4 +12,11 @@ features-index-youre-in-control-with-firefoxs = 您可以使用 { -brand-name-fi
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } 特色
 features-index-see-all = 浏览所有扩展
+features-index-get-an-account = 获取 { -brand-name-firefox-account }
+features-index-choose-independence = 独立自主
 features-index-read-our-privacy-policy = 阅读我们的隐私政策
+features-index-private-by-default = 隐私为先
+features-index-enhanced-tracking = 增强型跟踪保护
+features-index-we-dont-sell-access-to-your = 我们永远不会贩卖您的上网数据。
+features-index-firefox-vs = { -brand-name-firefox } vs. 其他浏览器
+features-index-compare-browsers = 比较浏览器

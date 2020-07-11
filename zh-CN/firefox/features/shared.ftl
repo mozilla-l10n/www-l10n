@@ -7,3 +7,4 @@
 
 features-shared-browse-faster = 浏览更快
 features-shared-password-manager = 密码管理器
+brand-name-firefox = { -brand-name-firefox }
