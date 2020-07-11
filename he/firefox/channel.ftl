@@ -27,12 +27,15 @@ firefox-channel-check-out-new-android-features = בדקו תכונות חדשו�
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 firefox-channel-try-new-browser-features = התנסות בתכונות חדשות במהדורות טרום הפצה | { -brand-name-firefox }
-firefox-channel-download-and-test-the-latest-desktop = הורדה ובדיקת התכונות החדישות ביותר של { -brand-name-firefox } לשולחן העבודה, במהדורת המפתחים, { -brand-name-beta } ובגרסאות { -brand-name-nightly }.
+firefox-channel-download-and-test-the-latest-desktop = הורדה ובדיקת התכונות החדישות ביותר של { -brand-name-firefox } לשולחן העבודה, ב{ -brand-name-developer-edition(case: "the") }, { -brand-name-beta } ובגרסאות { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = בחינת התכונות בגרסה שעומדת לצאת, עם בניית הקדם הפצה היציבה ביותר.
 firefox-channel-release-notes = הערות שחרור
-firefox-channel-developer-edition = { -brand-name-developer-edition }
+firefox-channel-developer-edition = { -brand-name-developer-edition(case: "a") }
 firefox-channel-build-test-scale-and-more = לבנות, לבדוק, להתפתח ועוד, עם הדפדפן היחיד שנבנה רק עבור מפתחים.
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition(case: "the") } היא פלטפורמת פיתוח ובדיקה שאינה יציבה. כברירת מחדל, { -brand-name-developer-edition(case: "the") } שולחת נתונים אל { -brand-name-mozilla } — ולעיתים גם לשותפים שלנו — כדי לסייע לנו לטפל בבעיות ולנסות רעיונות חדשים. <a href="{ $link }">מידע נוסף על מה שמשותף</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-test-brand-new-features = בדקו תכונות חדשניות באופן יומי (או… לילי). ההנאה על אחריותכם בלבד.
