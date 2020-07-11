@@ -22,6 +22,9 @@ password-manager-password-magician = Lösenordstrollkarl
 password-manager-password-ninja = Lösenordsninja
 password-manager-no-more-try-again = Inga fler "försök igen" medan du försöker logga in på webbplatser. Logga in på ditt { -brand-name-firefox-account } på din mobil och dina lösenord kommer att vara tillgängliga. Dina inloggningsuppgifter kommer helt enkelt visas bara sådär.
 password-manager-password-champion = Lösenordsmästare
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Få guld i säkerhet med { -brand-name-firefox }:s stora utbud av <a href="{ $addons }">tillägg</a> för lösenordshantering. Välj en befintlig favorit eller hitta en ännu bättre genom expertvärderingar och recensioner.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Lösenordsmästare
