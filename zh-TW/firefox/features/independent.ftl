@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = { -brand-name-firefox } 是一套�
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = 沒有任何條件
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } 是由非營利組織所打造，這代表我們可以做更多別人不能做的事情，像是打造新產品與功能，而當中不包含其他意圖。我們更為了保護您的隱私權而打造含有追蹤保護功能的隱私瀏覽工具。
+features-independent-firefox-is-built-by = { -brand-name-firefox } 是由非營利組織所打造，這代表我們可以做更多別人不能做的事情，像是打造新產品與功能，而當中不包含其他意圖。我們更為了保護您的隱私權而打造含有追蹤保護功能的隱私瀏覽工具，這是 { -brand-name-google } { -brand-name-chrome } 與 { -brand-name-microsoft }{ -brand-name-edge } 都沒有提供的。
 features-independent-what-you-see-is-what = 所見即所得
 features-independent-we-believe-the-internet = 我們相信網際網路是由所有人所共有，而不是為了利益而競逐的場合。我們與其他公司不同，不會將您的資料的存取權拿來販售。<em>只有您</em>可控制誰能看到您的搜尋與上網紀錄。「有所選擇」就是一個健康的網路生態最重要的事情！
 features-independent-a-browser-on-a-mission = 有使命的瀏覽器

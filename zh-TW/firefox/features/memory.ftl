@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox 瀏覽器: 記憶體使用更少、速度更快
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: 記憶體使用更少、速度更快
 # HTML page description
 features-memory-is-your-computer-slow-your = 電腦慢慢的嗎？您的瀏覽器可能用了太多記憶體。快來使用 { -brand-name-firefox } 讓您找回應有的速度。
 features-memory-less-memory-usage-than-chrome = 比 { -brand-name-chrome } 還少的記憶體使用量
