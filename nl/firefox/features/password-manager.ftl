@@ -20,6 +20,9 @@ password-manager-forget-the-reset = Vergeet opnieuw instellen. De wacht&shy;woor
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Wachtwoordninja
 password-manager-no-more-try-again = Niet meer ‘opnieuw proberen’ terwijl u ergens probeert te komen. Meld u aan bij uw{ -brand-name-firefox-account } op uw telefoon, en uw wachtwoorden komen met u mee. Uw aanmeldingsgegevens worden gewoon vanzelf zichtbaar.
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Verdien uw gouden medaille in beveiliging met { -brand-name-firefox }’ ruime aanbod aan <a href="{ $addons }">add-ons</a> voor wachtwoordbeheer. Kies een bestaande favoriete of vind een aankomende via waarderingen en beoordelingen van experts.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Wachtwoordkampioen
