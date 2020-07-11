@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Rukanob'al Firefox: Tawokisaj jub'a' tzatzq'ob'äl, yalan aninäq
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Tawokisaj jub'a' ruchuq'a' rujolom, yalan aninäq
 # HTML page description
 features-memory-is-your-computer-slow-your = ¿La eqal nisamäj ri akematz'ib'? Jik chi ri akanob'al k'ïy tzatzq'ob'äl nrokisaj. Tachapa' rokisaxik { -brand-name-firefox } wakami richin anin tisamäj.
 features-memory-less-memory-usage-than-chrome = Nrokisaj jub'a' tzatzq'ob'äl chuwäch ri { -brand-name-chrome }

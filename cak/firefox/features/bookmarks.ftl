@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox Kanob'äl: Utziläj taq yaketal xab'akuchi' yab'e
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Jeb'ël taq yaketal xab'akuchi' yab'e
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Man k'ayew ta richin ye'anuk'uk'ej ri taq ayaketal pa jun molyakb'äl chuqa' ri yatok chi kipam pa konojel ri taq owokisaxel rik'in ri kematz'ib'ab'älpa oyonib'äl.
 features-bookmarks-better-bookmarks = Ütziläj taq yaketal
