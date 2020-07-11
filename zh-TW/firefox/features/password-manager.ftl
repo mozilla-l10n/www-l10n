@@ -22,6 +22,9 @@ password-manager-password-magician = 密碼魔術師
 password-manager-password-ninja = 密碼忍者
 password-manager-no-more-try-again = 上網時，不用再一直「重試登入」了。只要在手機上登入 { -brand-name-firefox-account }，登入時就會自動填好登入框中所需的資訊，將密碼隨身帶著走。
 password-manager-password-champion = 密碼達人
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = 使用 { -brand-name-firefox } 的各種密碼管理員<a href="{ $addons }">附加元件</a>，來為安全性加上第二道保障。您可直接選用您已常用的套件，或是透過專業社群的評分與評論多方嘗試，找到一套最適合您的。
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = 密碼達人
