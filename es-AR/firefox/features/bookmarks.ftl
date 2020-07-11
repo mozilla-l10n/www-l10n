@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Navegador Firefox: Los mejores marcadores dondequiera que vayas
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Los mejores marcadores dondequiera que vayas
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organizá fácilmente tus marcadores en carpetas y accedé a ellos a través de todos tus dispositivos, desde tu PC o tu dispositivo móvil.
 features-bookmarks-better-bookmarks = Mejores marcadores
