@@ -13,8 +13,9 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebel z win
 features-independent-firefox-is-independent = { -brand-name-firefox } je njewotwisny a dźěl powšitkownosći wužitneho { -brand-name-mozilla }, kotryž za waše prawa online wojuje, dźerži komercielne mocy w mjezach a čini internet wšudźe přistupny za kóždeho.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Žane znamješkowe rjećazki připowjesnjene
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } bu wot powšitkownosći wužitneje organizacije wuwity. To rěka, zo móžemy wěcy činić, kotrež druzy njemóža činić, na přikład nowe produkty a funkcije bjez schowaneho dnjoweho porjada wuwiwać. Zakitujemy waše prawo na priwatnosć z nastrojemi kaž priwatnym modusom ze slědowanskim škitom.
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } bu wot powšitkownosći wužitneje organizacije wuwity. To rěka, zo móžemy wěcy činić, kotrež druzy njemóža činić, na přikład nowe produkty a funkcije bjez schowaneho dnjoweho porjada wuwiwać. Zakitujemy waše prawo na priwatnosć z nastrojemi kaž priwatnym modusom ze slědowanskim škitom.
+features-independent-firefox-is-built-by = { -brand-name-firefox } bu wot powšitkownosći wužitneje organizacije wuwity. To rěka, zo móžemy wěcy činić, kotrež druzy njemóža činić, na přikład nowe produkty a funkcije bjez schowaneho dnjoweho porjada wuwiwać. Zakitujemy waše prawo na priwatnosć z nastrojemi kaž priwatnym modusom ze slědowanskim škitom, kotrež to přesahuja, štož { -brand-name-google } { -brand-name-chrome } a { -brand-name-microsoft } { -brand-name-edge } poskićetej.
 features-independent-what-you-see-is-what = Dóstanjeće, štož widźiće
 features-independent-we-believe-the-internet = Wěrimy, zo internet je za ludźi, nic za komericelne zaměry. Na rozdźěl wot druhich předewzaćow, njepředawamy přistup na waše daty. <em>Wy maće</em> kontrolu nad tym, štóž wašu pytansku a přehladowansku historiju widźi. Wólba - je to, wo čož pola stroweho interneta dźe!
 features-independent-a-browser-on-a-mission = Wobhladowak na misiji

@@ -6,22 +6,24 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Wobhladowak Firefox: spěšne, lochke rjadowanje hesłow
+password-manager-firefox-browser = { -brand-name-firefox-browser }: spěšne, lochke rjadowanje hesłow
 # HTML page description
 password-manager-firefox-password = Zrjadowak hesłow { -brand-name-firefox } waše hesła na jednym městnje składuje, zo byšće móhł so awtomatisce pola sydłow přizjewić abo składowane hesła wotwołać.
 # Hero title
 password-manager-password-manager = Myto Zrjadowak hesłow dopušćene
-password-manager-give-up-the-memory = Zalutujće sej dołhe hłowułamanje ze zrjadowakom hesłow.
+password-manager-give-up-the-memory = Njezabywajće hesła ze zrjadowakom hesłow { -brand-name-firefox }.
 password-manager-password-hero = Rjek hesłow
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Zabudźće wróćostajenje. Zrjadowak hesłow { -brand-name-firefox } waše hesła składuje, zo byšće so awtomatisce přizjewił abo składowane hesła lochko namakał. Zo byšće maksimalnu wěstotu dóstał, dajće swojemu ličakej <a href="{ $url }">hłowne hesło</a>.
+password-manager-password-magician = Hesłowy kuzłar
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Profi hesłow
-password-manager-no-more-try-again = Žadyn "nowy pospyt" wjace, hdyž so něhdźe přizjewjeće. Přizjewće so pola swojeho konta Firefox na swojim telefonje a wozmiće swoje hesła sobu. Waše přizjewjenske daty so prosće jewja.
+password-manager-no-more-try-again = Žadyn "nowy pospyt" wjace, hdyž so něhdźe přizjewjeće. Přizjewće so pola swojeho { -brand-name-firefox-account } na swojim telefonje a wzmiće swoje hesła sobu. Waše přizjewjenske daty so prosće jewja.
+password-manager-password-champion = Hesłowy mišter
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mištr hesłow
 # Obsolete string
 # Variables:
