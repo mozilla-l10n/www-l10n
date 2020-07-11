@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox Tarayıcı: Daha az bellek tüketimi, daha fazla hız
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Daha az bellek tüketimi, daha fazla hız
 # HTML page description
 features-memory-is-your-computer-slow-your = Bilgisayarın yavaş mı? Tarayıcın çok fazla bellek kullanıyor olabilir. Daha fazla hız için { -brand-name-firefox }’a geçebilirsin.
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome }’dan daha az bellek kullanımı
