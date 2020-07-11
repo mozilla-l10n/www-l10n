@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox-browser: snelle, makkelijke wachtwoordenbeheerder
+password-manager-firefox-browser = { -brand-name-firefox-browser }: snelle, makkelijke wachtwoordenbeheerder
 # HTML page description
 password-manager-firefox-password = De wachtwoordenbeheerder van { -brand-name-firefox } bewaart al uw wachtwoorden op één plek, zodat u zich automatisch bij websites kunt aanmelden of opgeslagen wachtwoorden kunt ophalen.
 # Hero title
@@ -19,9 +19,9 @@ password-manager-forget-the-reset = Vergeet opnieuw instellen. De wacht&shy;woor
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Wachtwoordninja
-password-manager-no-more-try-again = Niet meer ‘opnieuw proberen’ terwijl u ergens probeert te komen. Meld u aan bij uw Firefox-account op uw telefoon, en uw wachtwoorden komen met u mee. Uw aanmeldingsgegevens worden gewoon vanzelf zichtbaar.
+password-manager-no-more-try-again = Niet meer ‘opnieuw proberen’ terwijl u ergens probeert te komen. Meld u aan bij uw{ -brand-name-firefox-account } op uw telefoon, en uw wachtwoorden komen met u mee. Uw aanmeldingsgegevens worden gewoon vanzelf zichtbaar.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Wachtwoordkampioen
 # Obsolete string
 # Variables:

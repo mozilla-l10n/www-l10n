@@ -13,8 +13,9 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: rebel met e
 features-independent-firefox-is-independent = { -brand-name-firefox } is onafhankelijk en een onderdeel van de non-profitorganisatie { -brand-name-mozilla }, die voor uw online rechten vecht, zakelijke grootmachten in bedwang houdt en het internet voor iedereen en overal toegankelijk maakt.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Vrijblijvend
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } wordt gebouwd door een non-profitorganisatie. Dat houdt in dat we dingen kunnen doen die anderen niet kunnen, zoals nieuwe producten en functies bouwen zonder verborgen agenda. We verdedigen uw recht op privacy met hulpmiddelen zoals Privénavigatie met Bescherming tegen volgen.
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } wordt gebouwd door een non-profitorganisatie. Dat houdt in dat we dingen kunnen doen die anderen niet kunnen, zoals nieuwe producten en functies bouwen zonder verborgen agenda. We verdedigen uw recht op privacy met hulpmiddelen zoals Privénavigatie met Bescherming tegen volgen.
+features-independent-firefox-is-built-by = { -brand-name-firefox } wordt gebouwd door een non-profitorganisatie. Dat houdt in dat we dingen kunnen doen die anderen niet kunnen, zoals nieuwe producten en functies bouwen zonder verborgen agenda. We verdedigen uw recht op privacy met hulpmiddelen zoals Privénavigatie met Bescherming tegen volgen, die verder gaan dan wat { -brand-name-google } { -brand-name-chrome } en { -brand-name-microsoft } { -brand-name-edge } bieden.
 features-independent-what-you-see-is-what = Wat u ziet is wat u krijgt
 features-independent-we-believe-the-internet = We vinden dat het internet er is voor mensen, niet voor winst. In tegenstelling tot andere bedrijven verkopen we geen toegang tot uw gegevens. <em>U bent</em> de baas over wie uw zoek- en surfgeschiedenis ziet. Keuze – daar gaat het om bij een gezond internet!
 features-independent-a-browser-on-a-mission = Een browser op missie
