@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Quên đặt lại. Trình quản lý mật 
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Thánh mật khẩu
-password-manager-no-more-try-again = Không còn xuất hiện “thử lại” trong khi bạn đang cố gắng truy cập vào đâu đó. Đăng nhập vào tài khoản Firefox của bạn trên điện thoại, và những mật khẩu của bạn sẽ đi theo bạn. Chi tiết về việc đăng nhập của bạn sẽ chỉ xuất hiện, giống như vậy.
+password-manager-no-more-try-again = Không có nhiều hơn “thử lại” trong khi bạn đang cố gắng để có được một nơi nào đó. Đăng nhập vào { -brand-name-firefox-account } của bạn trên điện thoại của bạn và mật khẩu của bạn đi kèm với bạn. Chi tiết đăng nhập của bạn sẽ đơn giản xuất hiện, giống như vậy.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mật khẩu chính
