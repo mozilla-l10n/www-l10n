@@ -22,6 +22,9 @@ password-manager-password-magician = Hesłowy kuzłar
 password-manager-password-ninja = Profi hesłow
 password-manager-no-more-try-again = Žadyn "nowy pospyt" wjace, hdyž so něhdźe přizjewjeće. Přizjewće so pola swojeho { -brand-name-firefox-account } na swojim telefonje a wzmiće swoje hesła sobu. Waše přizjewjenske daty so prosće jewja.
 password-manager-password-champion = Hesłowy mišter
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Zasłužće sej swoju złotu wěstotnu medalju z wjele <a href="{ $addons }">přidatkami</a> za zrjadowak hesłow { -brand-name-firefox }. Wubjerće swój najlubši abo pytajće nowy na zakładźe pohódnoćenjow a posudkow zhromadźenstwa.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mištr hesłow
