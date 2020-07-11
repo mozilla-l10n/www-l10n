@@ -23,6 +23,7 @@ features-index-read-our-privacy-policy = 閱讀我們的隱私權保護政策
 features-index-private-by-default = 預設就保護隱私
 features-index-enhanced-tracking = 加強型追蹤保護
 features-index-we-dont-sell-access-to-your = 我們不會販賣您的上網資料，沒有例外。
+features-index-get-firefox-for-privacy = 下載 { -brand-name-firefox }，獲得最佳隱私保護
 features-index-firefox-vs = { -brand-name-firefox } vs. 其他瀏覽器
 features-index-compare-browsers = 比較瀏覽器
 features-index-see-themes = 看熱門佈景主題
