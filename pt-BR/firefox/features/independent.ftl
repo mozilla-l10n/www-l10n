@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = O { -brand-name-firefox } é indep
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Sem esperar nada em troca
 # Obsolete string
-features-independent-firefox-is-built-by = O { -brand-name-firefox } é feito por uma organização sem fins lucrativos. Significa que podemos fazer coisas que outros não podem, como criar novos produtos e funcionalidades sem intenções ocultas. Defendemos seu direito à privacidade com ferramentas como a navegação privativa com proteção contra rastreamento.
+features-independent-firefox-is-built-by = O { -brand-name-firefox } é feito por uma organização sem fins lucrativos. Significa que podemos fazer coisas que outros não podem, como criar novos produtos e funcionalidades sem intenções ocultas. Defendemos seu direito à privacidade com ferramentas como a navegação privativa com proteção contra rastreamento, o que vai além do que { -brand-name-google } { -brand-name-chrome } e { -brand-name-microsoft } { -brand-name-edge } oferecem.
 features-independent-what-you-see-is-what = O que você vê é o que você tem
 features-independent-we-believe-the-internet = Nós acreditamos que a Internet é para as pessoas, sem lucros. Diferentemente de outras empresas, nós não vendemos acesso aos seus dados. <em>Você</em> tem o controle de quem vê suas pesquisas e histórico de navegação. Escolha — isso é o que a saúde da Internet representa!
 features-independent-a-browser-on-a-mission = Um navegador com uma missão

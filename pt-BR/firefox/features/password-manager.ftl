@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Navegador Firefox: Gerenciador de Senhas rápido e fácil
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Gerenciador de senhas rápido e fácil
 # HTML page description
 password-manager-firefox-password = O Gerenciador de Senhas do { -brand-name-firefox } salva todas as suas senhas em um só lugar para que você possa acessar automaticamente sites ou recuperar senhas salvas.
 # Hero title
@@ -21,7 +21,7 @@ password-manager-forget-the-reset = Deixe o "Esqueci a senha" para lá. O Gerenc
 password-manager-password-ninja = Ninja das senhas
 password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto você está tentando chegar em algum lugar. Entre na sua Conta Firefox no seu telefone e suas senhas estarão com você. Seus dados de acesso aparecerão, simples assim.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mestre das senhas
 # Obsolete string
 # Variables:
