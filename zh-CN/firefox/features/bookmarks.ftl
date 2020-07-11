@@ -24,6 +24,9 @@ features-bookmarks-take-your-favorites-on = 书签随身带着走！使用 { -br
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = 百变书签
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = 众多书签相关的<a href="{ $url }">附加组件</a>是您的最佳伴侣，从整页截图到快速切换侧栏，我们的功能无所不包。
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
