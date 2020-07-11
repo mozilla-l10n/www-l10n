@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox 浏览器：快速、方便的密码管理器
+password-manager-firefox-browser = { -brand-name-firefox-browser }：快速、方便的密码管理器
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } 的密码管理器可助您将密码集中存储，以便自动登录网站或检索已保存的密码。
 # Hero title
@@ -19,9 +19,9 @@ password-manager-forget-the-reset = 告别密码重置。使用 { -brand-name-fi
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = 密码忍者
-password-manager-no-more-try-again = 告别“再试一次”。用您的手机登录 Firefox 账号，随身携带您的密码。您的登录信息可直接出现。
+password-manager-no-more-try-again = 告别“再试一次”。用您的手机登录 { -brand-name-firefox-account }，随身携带您的密码。您的登录信息可直接出现。
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = 密码大师
 # Obsolete string
 # Variables:
