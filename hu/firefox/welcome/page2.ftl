@@ -13,5 +13,7 @@ welcome-page2-activate-pocket = Aktiválja a { -brand-name-pocket }et
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-pocket-is-built-right-into = A { -brand-name-pocket } közvetlenül a { -brand-name-firefox }ba van építve, így könnyen elmentheti a történeteket, amikor megtalálja azokat, majd később elolvashatja bármely eszközön.
 welcome-page2-save-content-from-everywhere = Tartalom mentése bárhonnan
+welcome-page2-grab-articles-videos-and-links = Fogjon meg cikkeket, videókat és hivatkozásokat bármely weboldalról a böngésző eszköztárán található { -brand-name-pocket } ikonra kattintással.
 welcome-page2-discover-new-stories = Fedezzen fel új történeteket
+welcome-page2-pocket-shows-recommended-stories = A { -brand-name-pocket } új lap megnyitásakor ajánlott történeteket jelenít meg. Mentse el azokat, amelyek érdeklik.
 welcome-page2-why-am-i-seeing-this = Miért látom ezt?
