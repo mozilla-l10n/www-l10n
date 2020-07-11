@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = דפדפן Firefox: סימניות טובות יותר בכל מקום
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser(case: "a") }: סימניות טובות יותר בכל מקום
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = ניתן לארגן בקלות את הסימניות שלך בתיקיות ולגשת אליהן דרך מגוון ההתקנים שלך, החל ממחשב שולחני וכלה בנייד.
 features-bookmarks-better-bookmarks = סימניות טובות יותר

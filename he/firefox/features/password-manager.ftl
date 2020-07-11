@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = דפדפן Firefox: מנהל ססמאות מהיר ופשוט
+password-manager-firefox-browser = { -brand-name-firefox-browser(case: "a") }: מנהל ססמאות מהיר ופשוט
 # HTML page description
 password-manager-firefox-password = מנהל הססמאות של { -brand-name-firefox } שומר את כל הססמאות במקום אחר כדי לאפשר לך להיכנס לכל אתר או לקבל ססמאות שמורות.
 # Hero title
@@ -19,9 +19,9 @@ password-manager-forget-the-reset = לא צריך עוד לאפס. מנהל הס
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = נינג׳ה עם ססמאות
-password-manager-no-more-try-again = לא עוד „נא לנסות שוב” בעת ניסיון גישה למקום כלשהו. עליך פשוט להיכנס לחשבון ה־Firefox בטלפון שלך והססמאות שלך הולכות אתך לכל מקום. פרטי הכניסה שלך פשוט יופיעו, בלי שום מאמץ.
+password-manager-no-more-try-again = לא עוד „נא לנסות שוב” בעת ניסיון גישה למקום כלשהו. עליך פשוט להיכנס ל{ -brand-name-firefox-account(case: "the") } בטלפון שלך והססמאות שלך הולכות אתך לכל מקום. פרטי הכניסה שלך פשוט יופיעו, בלי שום מאמץ.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = אלוף עם ססמאות
 # Obsolete string
 # Variables:

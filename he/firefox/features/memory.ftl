@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = דפדפן Firefox: פחות זיכרון, יותר ביצועים
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser(case: "a") }: פחות זיכרון, יותר ביצועים
 # HTML page description
 features-memory-is-your-computer-slow-your = המחשב שלך אטי? יכול להיות שהדפדפן שלך משתמש ביותר מדי זיכרון. ניתן לעבור ל־{ -brand-name-firefox } עוד היום כדי לקבל מהירות גבוהה יותר.
 features-memory-less-memory-usage-than-chrome = פחות ניצולת זיכרון מאשר { -brand-name-chrome }
