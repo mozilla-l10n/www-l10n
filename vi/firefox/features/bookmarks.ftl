@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Trình duyệt Firefox: Lưu các đánh dấu trang tốt hơn bất cứ nơi nào bạn đến
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Đánh dấu trang tốt hơn ở mọi nơi bạn đi
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Dễ dàng sắp xếp các đánh dấu trang của bạn vào các thư mục và truy cập chúng trên mọi thiết bị của bạn, từ máy bàn đến điện thoại di động.
 features-bookmarks-better-bookmarks = Đánh dấu trang tốt hơn

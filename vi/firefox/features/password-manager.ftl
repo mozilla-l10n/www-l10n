@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Trình duyệt Firefox: Quản lý Mật khẩu Nhanh gọn, Dễ dàng
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Trình quản lý mật khẩu nhanh, dễ dàng
 # HTML page description
 password-manager-firefox-password = Trình quảng lý mật khẩu { -brand-name-firefox } lưu tất cả các mật khẩu của bạn tại một chỗ do đó bạn có thể tự động đăng nhập vào các trang web, hoặc lấy ra các mật khẩu đã lưu.
 # Hero title
@@ -21,7 +21,7 @@ password-manager-forget-the-reset = Quên đặt lại. Trình quản lý mật 
 password-manager-password-ninja = Thánh mật khẩu
 password-manager-no-more-try-again = Không còn xuất hiện “thử lại” trong khi bạn đang cố gắng truy cập vào đâu đó. Đăng nhập vào tài khoản Firefox của bạn trên điện thoại, và những mật khẩu của bạn sẽ đi theo bạn. Chi tiết về việc đăng nhập của bạn sẽ chỉ xuất hiện, giống như vậy.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mật khẩu chính
 # Obsolete string
 # Variables:

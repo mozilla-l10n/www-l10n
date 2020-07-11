@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Trình duyệt Firefox: Sử dụng ít bộ nhớ hơn, tốc độ nhanh hơn
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Sử dụng ít bộ nhớ hơn, tốc độ nhanh hơn
 # HTML page description
 features-memory-is-your-computer-slow-your = Máy tính của bạn chậm? Có thể do trình duyệt của bạn ngốn quá nhiều bộ nhớ. Hãy chuyển sang { -brand-name-firefox } ngay hôm nay để tăng tốc độ máy tính.
 features-memory-less-memory-usage-than-chrome = Tiêu tốn ít bộ nhớ hơn { -brand-name-chrome }
