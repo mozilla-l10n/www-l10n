@@ -16,10 +16,15 @@ password-manager-password-hero = Passord-helt
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Glem nullstilling av passord. { -brand-name-firefox } passordbehandling lagrer alle passordene dine slik at du kan logge inn automatisk, eller finne lagrede passord enkelt. For ekstra sikkerhet, gi datamaskinen ett <a href="{ $url }">hovedpassord</a>.
+password-manager-password-magician = Passord-tryllekunstner
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Passord-ninja
 password-manager-no-more-try-again = Ikke noe mer «prøv igjen» mens du prøver å logge inn på ett nettsted. Logg deg på { -brand-name-firefox-account }en på telefonen, og passordene dine kommer med deg. Dine innloggingsdetaljer vil dukke opp, helt enkelt.
+password-manager-password-champion = Passordmester
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Tjen sikkerhetsgullmedaljen med { -brand-name-firefox } sitt store utvalg av <a href="{ $addons }">tillegg</a> for passordbenhandling. Velg en eksisterende favoritt, eller finn en ennå bedre gjennom fellesskapets vurderinger og omtaler
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Passord-mester
