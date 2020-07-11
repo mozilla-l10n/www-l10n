@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = 自訂那筆書籤
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = 花點時間整理書籤
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = 使用各種書籤管理員<a href="{ $url }">附加元件</a>來實踐您一絲不苟的精神。不論是為頁面拍照、快速切換側邊欄，或是隱私書籤套件，來把書籤鎖得牢牢的。
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
