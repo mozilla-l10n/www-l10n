@@ -41,7 +41,13 @@ compare-brave-in-terms-of-actual-precious = 提到寶貴的 RAM 用量，{ -bran
 compare-brave-customization-of-ui-elements = 一直以來，介面元素的高可自訂性與佈景主題都是 { -brand-name-firefox } 使用者的最愛，而我們活躍的開發者社群也建立了<a { $addons }>大量的</a>開放原始碼附加元件與擴充套件，可以在瀏覽器中微調或加入更多功能。隨 { -brand-name-firefox } 內建的功能，包含威力強大的 <a { $screenshot }>畫面擷圖工具</a>、易用性功能，還整合了 <a { $pocket }>{ -brand-name-pocket }</a> — 一套讓使用者能快速儲存文章，之後再於任何裝置上閱讀的工具。
 compare-brave-brave-also-supports-the-huge = { -brand-name-brave } 也支援 { -brand-name-google } { -brand-name-chrome } 線上應用程式商店的各種擴充套件，並提供一系列瀏覽器內建功能，諸如先前提到的 { -brand-name-brave } Rewards 計畫，以及在瀏覽器中直接下載 BT 的功能。
 compare-brave-the-ability-to-sync-your-passwords = 在不同裝置與與作業系統間同步密碼、擴充套件、表單資料、附加元件與其他偏好設定的功能，在 { -brand-name-firefox } 已經推出許多年了。同步資料也是加密的，沒有人可以從外部存取。
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } 也讓使用者能夠免費註冊 <a { $accounts }>{ -brand-name-firefox-account }</a>。註冊 { -brand-name-firefox } 帳號後，就能夠在不同裝置間同步資料，還有能夠主動為您監控電子郵件地址，當您的資料出現在<a { $breaches }>資料外洩事件</a>時通知您的 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等服務。
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } 最近推出了在熱門作業系統與裝置間同步資料，與同步 Basic Attention Token 代幣的功能。
 compare-brave-when-comparing-the-two-browsers = 比較 { -brand-name-firefox } 與 { -brand-name-brave } 兩套瀏覽器，它們預設都提供完整的隱私權與安全性設定，從首次使用就開始受到保護。
+compare-brave-overall-brave-is-a-fast-and = 整體而言，{ -brand-name-brave } 是一套又快又安全的瀏覽器，更吸引加密貨幣使用者。但對於絕大多數的網友來說，{ -brand-name-firefox } 還是一套更好、更簡單易用的解決方案。
 compare-brave-braves-advertising-replacement = { -brand-name-brave } 的「蓋台廣告」概念，扭轉了目前的付費廣告置入與搜尋的商業模式。但某些忙碌的網際網路使用者可能不想浪費時間與精力來管理各種對網站的小額付款。
