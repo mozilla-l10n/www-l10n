@@ -18,6 +18,7 @@ features-index-see-all = 瀏覽所有擴充套件
 features-index-give-your-browser = 為您的瀏覽器妝點數以千計的佈景主題。
 features-index-important-stuff = 在您的任何裝置，需要重要資料（搜尋紀錄、網站密碼、開啟的分頁）時，就能馬上出現。
 features-index-get-an-account = 註冊 { -brand-name-firefox-account }
+features-index-use-the-bookmark = 使用書籤星號圖示，讓書籤保持整齊有序，還可以快速加入自訂名稱與資料夾。
 features-index-from-the-company = 來自一家以人為本的公司
 features-index-private-browsing-mode = 隱私瀏覽模式會在結束時，自動清除 Cookie 資料與瀏覽紀錄。
 features-index-firefox-automatically = { -brand-name-firefox } 會自動封鎖超過 2000 組在各網站跟蹤您的廣告追蹤器。
