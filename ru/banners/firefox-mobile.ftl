@@ -2,5 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-banner-firefox-mobile-get-android-title = Получите браузер { -brand-name-firefox }, разработанный для { -brand-name-android }
-banner-firefox-mobile-get-ios-title = Получите браузер { -brand-name-firefox }, разработанный для { -brand-name-ios }
+banner-firefox-mobile-get-android-title = Загрузите браузер { -brand-name-firefox }, разработанный для { -brand-name-android }
+banner-firefox-mobile-get-ios-title = Загрузите браузер { -brand-name-firefox }, разработанный для { -brand-name-ios }

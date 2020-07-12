@@ -83,7 +83,12 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
+-brand-name-devtools =
+    { $case ->
+       *[nominative] Инструменты разработчика
+        [prepositional] Инструментах разработчика
+        [instrumental] Инструментами разработчика
+    }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
