@@ -8,7 +8,7 @@
 features-shared-a-better-internet-experience = 更好的上网体验
 features-shared-browse-faster = 浏览更快
 features-shared-your-favorite-extensions = 您最喜爱的扩展
-features-shared-balanced-memory = 合理的内存占用
+features-shared-balanced-memory = 合理的内存用量
 features-shared-more-powerful-private-browsing = 更强大的隐私浏览模式
 features-shared-ad-tracker-blocking = 拦截广告跟踪器
 features-shared-password-manager = 密码管理器
