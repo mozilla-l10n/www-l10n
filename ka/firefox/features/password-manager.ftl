@@ -21,6 +21,10 @@ password-manager-password-magician = პაროლების ჯადოქ
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = პაროლების ნინძა
 password-manager-no-more-try-again = აღარავითარი „სცადეთ ხელახლა“ შეტყობინებები, საიტებზე შესვლისას. შედით საკუთარ { -brand-name-firefox-account(case: "ine") } თქვენს ტელეფონზე და ყველა პაროლი თან გამოგყვებათ. ანგარიშის მონაცემები, პირდაპირ თქვენთან გაჩნდება.
+password-manager-password-champion = პაროლების ოსტატი
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = მიიღეთ უსაფრთხოებაში ოქროს მედალი { -brand-name-firefox }-ის ფართოდ წარმოდგენილი პაროლების მმართველი <a href="{ $addons }">დამატებების</a> გამოყენებით. მონახეთ უკვე არსებულ რჩეულებში, ან მოიძიეთ კიდევ უფრო უკეთესი, მცოდნეების შეფასებებისა და მიმოხილვების საფუძველზე.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = პაროლების ოსტატი
