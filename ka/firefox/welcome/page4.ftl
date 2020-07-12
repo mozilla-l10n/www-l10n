@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = ჩამოტვირთეთ Firefox-ბრაუზერი თქვენს მობილურზე { -brand-name-ios }-ისა და { -brand-name-android }-ისთვის
+welcome-page4-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox-browser } თქვენს მობილურზე { -brand-name-ios }-ისა და { -brand-name-android }-ისთვის
 welcome-page4-wallet-keys-phone-firefox = საფულე. გასაღებები. ტელეფონი. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = წაიყოლეთ პირადულობა ნებისმიერ მოწყობილობაზე — და დაიცავით მონაცემები მეთვალყურეებისგან შორს.
 welcome-page4-get-the-firefox-app = გადმოწერეთ { -brand-name-firefox }

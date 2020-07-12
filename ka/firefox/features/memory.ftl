@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox-ბრაუზერი: მეხსიერების ნაკლები მოხმარება და მეტი სიჩქარე
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: მეხსიერების ნაკლები მოხმარება, მეტი სიჩქარე
 # HTML page description
 features-memory-is-your-computer-slow-your = თქვენი კომპიუტერი ნელა მუშაობს? ამას შესაძლოა, ბრაუზერის მიერ, მეხსიერების დიდი მოხმარება იწვევდეს. გადმოდით { -brand-name-firefox }-ზე დღესვე, მუშაობის ასაჩქარებლად.
 features-memory-less-memory-usage-than-chrome = იყენებს ნაკლებ მეხსიერებას, ვიდრე { -brand-name-chrome }
