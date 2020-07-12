@@ -13,3 +13,6 @@ features-shared-more-powerful-private-browsing = მეტად მძლავ
 features-shared-ad-tracker-blocking = სარეკლამო მეთვალყურეების არიდება
 features-shared-password-manager = პაროლების მმართველი
 features-shared-customize-your-browser = თქვენზე მორგებული ბრაუზერი
+features-shared-sync-between-devices = მოწყობილობების დასინქრონება
+features-shared-better-bookmarks = გაუმჯობესებული სანიშნები
+brand-name-firefox = { -brand-name-firefox }

@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = თვალი შეავლეთ ჩვ�
 firefox-all-test-your-sites-against = გამოცადეთ საიტები ახლო მომავალში გამოსაშვები { -brand-name-firefox }-ბრაუზერის შესაძლებლობებთან მიმართებით, მძლავრი და მოქნილი DevTools-ით, რომელიც თან მოყვება.
 firefox-all-count-on-stability-and = განკუთვნილი მდგრადობისა და მოხერხებულად გამოყენებისთვის, { -brand-name-firefox }-ბრაუზერი საგანგებოდ დაწესებულებებისთვის.
 firefox-all-windows-installers-for = Windows-ზე დასაყენებლად დაწესებულებებისთვის, სადაც გამარტივებულად შეიძლება განთავსდეს, მოეწყოს და იმართოს { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = ARM64/AArch64 დასაყენებელი
+firefox-all-arm64-installers-optimized = ARM64/AArch64 დასაყენებელი ფაილები განკუთვნილია Snapdragon-ით აღჭურვილი { -brand-name-windows }-PC სისტემებისთვის.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = აირჩიეთ 32-ბიტიანის დასაყენებელი, 32-ბიტიანი პროცესორის მქონე კომპიუტერისთვის — ან მოძველებული და სუსტი კომპიუტერისთვის. <a href="{ $url }">თუ ზუსტად არ იცით,</a> რომელი უნდა აირჩიოთ 64-ბიტიანსა და 32-ბიტიანს შორის, მაშინ გირჩევთ 32-ბიტიანს.
