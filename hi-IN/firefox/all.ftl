@@ -26,6 +26,7 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox } गोपनीय�
 firefox-all-learn-about-firefox = { -brand-name-firefox } ब्राउज़रों के बारे में जानें
 firefox-all-the-standard-firefox = मानक { -brand-name-firefox } ब्राउज़र — तेज और निजी। अगर आप सुनिश्चित नहीं हैं कि कौन सा { -brand-name-firefox } चुनना है, तो इसे चुनें।
 firefox-all-get-a-sneak-peek-at = रिलीज़ होने से पहले नवीनतम { -brand-name-firefox } ब्राउज़र सुविधाओं पर चुपके से नज़र डालें।
+firefox-all-arm64-installers = ARM64/AAr6464 इंस्टॉलर
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
