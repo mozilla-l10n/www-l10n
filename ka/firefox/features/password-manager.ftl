@@ -6,22 +6,23 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox-ბრაუზერი: პაროლების სწრაფი და მარტივი მართვა
+password-manager-firefox-browser = { -brand-name-firefox-browser }: პაროლების სწრაფი და მარტივი მართვა
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox }-ის პაროლების მმართველი ინახავს თქვენს ყველა პაროლს ერთ ადგილას, ასე რომ, საიტებზე შესვლა და პაროლების მოძიება ხდება ავტომატურად.
 # Hero title
 password-manager-password-manager = პაროლების მმართველი – თამაში დახურულია
-password-manager-give-up-the-memory = შეეშვით მახსოვრობის გასავარჯიშებელ თამაშებს და გამოიყენეთ პაროლების მმართველი.
+password-manager-give-up-the-memory = შეეშვით მახსოვრობის გასავარჯიშებელ თამაშებს და გამოიყენეთ { -brand-name-firefox }-ის პაროლების მმართველი.
 password-manager-password-hero = პაროლების გმირი
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = დაივიწყეთ ანგარიშების აღდგენა. { -brand-name-firefox } პაროლების მმართველი შეინახავს ყველა თქვენს პაროლს და შეგეძლებათ საიტებზე ავტომატური შესვლა, ან საჭირო პაროლის მარტივად მონახვა. დამატებითი უსაფრთხოებისთვის, მიანიჭეთ კომპიუტერს <a href="{ $url }">მთავარი პაროლი</a>.
+password-manager-password-magician = პაროლების ჯადოქარი
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = პაროლების ნინძა
-password-manager-no-more-try-again = აღარავითარი „სცადეთ ხელახლა“ შეტყობინებები, საიტებზე შესვლისას. გამოიყენეთ Firefox-ანგარიში თქვენს ტელეფონზე და თქვენი პაროლები თან გამოგყვებათ. ყველა ანგარიშის მონაცემები, პირდაპირ თქვენთან გაჩნდება.
+password-manager-no-more-try-again = აღარავითარი „სცადეთ ხელახლა“ შეტყობინებები, საიტებზე შესვლისას. შედით საკუთარ { -brand-name-firefox-account(case: "ine") } თქვენს ტელეფონზე და ყველა პაროლი თან გამოგყვებათ. ანგარიშის მონაცემები, პირდაპირ თქვენთან გაჩნდება.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = პაროლების ოსტატი
 # Obsolete string
 # Variables:
