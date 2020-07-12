@@ -41,6 +41,7 @@ features-index-enhanced-tracking = 加強型追蹤保護
 features-index-we-dont-sell-access-to-your = 我們不會販賣您的上網資料，沒有例外。
 features-index-get-firefox-for-privacy = 下載 { -brand-name-firefox }，獲得最佳隱私保護
 features-index-firefox-vs = { -brand-name-firefox } vs. 其他瀏覽器
+features-index-stack-up = 看看 { -brand-name-firefox } 與其他知名瀏覽器有什麼不同。
 features-index-compare-browsers = 比較瀏覽器
 features-index-see-themes = 看熱門佈景主題
 features-index-download-latest = 下載最新版的 { -brand-name-firefox }
