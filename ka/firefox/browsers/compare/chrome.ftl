@@ -8,9 +8,9 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } თუ { -brand-name-chrome }: რომელია უკეთესი?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = ჩვენ ვადარებთ Mozilla Firefox-სა და Google Chrome-ს უსაფრთხოების, მოხერხებულობისა და მოქნილობის კუთხით
+compare-chrome-we-compare-mozilla-firefox = ჩვენ ვადარებთ { -brand-name-mozilla } { -brand-name-firefox }-სა და { -brand-name-google } { -brand-name-chrome }-ს უსაფრთხოების, მოხერხებულობისა და მოქნილობის კუთხით
 # Main title.
-compare-chrome-comparing-firefox-browser = Firefox-ბრაუზერის შედარება Google Chrome-თან
+compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser(case: "gen") } შედარება { -brand-name-google } { -brand-name-chrome }-თან
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox }-ის გუნდს დიდი ოდენობით ერთგული მომხმარებელი გვყავს, რომელიც აფასებს ჩვენს მტკიცე მიდგომას ინტერნეტში პირადი მონაცემების უსაფრთხოებისადმი. მაგალითად, უახლესი ვერსიის { -brand-name-firefox } შეიცავს შესაძლებლობას სახელწოდებით თვალთვალისგან გაძლიერებული დაცვა (ETP), რომელიც ნაგულისხმევად ჩართულია მომხმარებლებისათვის მთელ მსოფლიოში. ETP ზღუდავს 2,000 მეთვალყურეს, მათ შორის სოც. ქსელებისას, როგორიცაა { -brand-name-facebook }, { -brand-name-twitter } და LinkedIn. მას ასევე გააჩნია ჩაშენებული ფუნქცია დასახელებით <a { $attrs }>{ -brand-name-firefox-monitor }</a>, რომელიც ავტომატურად გაცნობებთ, თუ თქვენი პაროლი აღმოჩნდება მიტაცებულ მონაცემებში და საჭიროებს განახლებას. გარდა დაცვის ამ საშუალებებისა, { -brand-name-firefox }-ს გააჩნია პირადი თვალიერების რეჟიმი, რომელიც თავისთავად შლის მონახულებული გვერდების ინფორმაციას, მათს ისტორიასა და ფუნთუშებს, შედეგად არ ტოვებს კვალს საქმიანობის დასრულების შემდეგ.

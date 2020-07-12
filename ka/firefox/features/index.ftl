@@ -41,3 +41,7 @@ features-index-enhanced-tracking = თვალთვალისგან გ�
 features-index-we-dont-sell-access-to-your = ჩვენ არ ვყიდით თქვენს პირად მონაცემებს. წერტილი.
 features-index-get-firefox-for-privacy = გადმოწერეთ { -brand-name-firefox } პირადულობისთვის
 features-index-firefox-vs = { -brand-name-firefox } თუ სხვა ბრაუზერები
+features-index-stack-up = იხილეთ, თუ რითია გამორჩეული { -brand-name-firefox } სხვა ბრაუზერებისგან.
+features-index-compare-browsers = ბრაუზერების შედარება
+features-index-see-themes = იხილეთ, რჩეული თემები
+features-index-download-latest = ჩამოტვირთეთ უახლესი { -brand-name-firefox }
