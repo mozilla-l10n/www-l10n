@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
 
+# HTML page title
+welcome-page6-make-firefox-your-default = { -brand-name-firefox } को अपना तयशुदा ब्राउज़र बनाएं
 welcome-page6-get-the-firefox-app = { -brand-name-firefox } ऐप प्राप्त करें
 welcome-page6-get-firefox-on-your-phone = अपने फोन पर { -brand-name-firefox } पाएं
 welcome-page6-scan-the-qr-code-to-get-started = शुरू करने के लिए QR कोड को स्कैन करें

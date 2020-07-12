@@ -16,12 +16,14 @@ password-manager-password-hero = पासवर्ड नायक
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = रीसेट को भूल जाएँ. { -brand-name-firefox } पासवर्ड प्रबंधक आपके सभी पासवर्डों को रखता है ताकि आप अपने आप लॉग इन कर सकें, या सहेजे गए पासवर्डों को आसानी से पा सकें. सुपर सुरक्षा के लिए, अपने कंप्यूटर को एक <a href="{ $url }">मास्टर पासवर्ड</a>दें.
+password-manager-password-magician = पासवर्ड जादूगर
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = पासवर्ड निंजा
 password-manager-no-more-try-again = जब आप कहीं न कहीं पाने की कोशिश कर रहे हैं, तब "पुनः प्रयास करें" और नहीं. अपने फोन पर अपने Firefox खाते में लॉग इन करें, और आपके पासवर्ड आपके साथ आते हैं. आपका लॉगिन विवरण बस वैसे ही प्रकट होगा.
+password-manager-password-champion = पासवर्ड चैंपियन
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = पासवर्ड मास्टर
 # Obsolete string
 # Variables:

@@ -8,6 +8,8 @@
 
 ## Required
 
+installer-help-main-tagline = ऐसा कभी-कभी होता है। चलिए कुछ अलग करने की कोशिश करें।
+installer-help-action-channel = यह डाउनलोड आपके लिए बेहतर काम करना चाहिए।
 
 ##
 

@@ -7,3 +7,5 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } को अपना तयशुदा ब्राउज़र बनाएं
+# HTML page description
+set-as-default-landing-choose-the-browser = वह ब्राउज़र चुनें जो आपकी गोपनीयता की रक्षा करे। { -brand-name-firefox } को अपने तयशुदा ब्राउज़र के रूप में सेट करें।
