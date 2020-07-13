@@ -24,8 +24,8 @@ firefox-browsers-enterprise-packages = Пакеты { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Выйдите за пределы двух измерений и насладитесь лучшими увлекательными статьями со всего Интернета.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Создавайте сайты и дорабатывайте свой код с { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
-firefox-browsers-learn-more-about-devtools = Узнайте больше о { -brand-name-devtools }
+firefox-browsers-build-sites-and-refine-your = Создавайте сайты и дорабатывайте свой код с <strong>{ -brand-name-devtools(case: "instrumental") }</strong> { -brand-name-firefox }
+firefox-browsers-learn-more-about-devtools = Узнайте больше о { -brand-name-devtools(case: "prepositional") }
 firefox-browsers-join-firefox-and-get-the-most = Присоединитесь к { -brand-name-firefox } и получите максимальную отдачу от каждого продукта — на любом устройстве.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

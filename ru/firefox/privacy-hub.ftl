@@ -26,3 +26,8 @@ firefox-privacy-hub-send-a-file = Отправить файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Получить { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account(case: "nominative") }
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Уже есть аккаунт? <a { $sign_in } class="{ $class_name }">Войдите</a> или <a href="{ $learn_more }">узнайте больше</a> о присоединении к { -brand-name-firefox }.

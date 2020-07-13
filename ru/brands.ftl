@@ -12,7 +12,7 @@
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
--brand-name-facebook = Facebook
+-brand-name-facebook = Фейсбук
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
@@ -24,7 +24,7 @@
 ## Firefox browsers
 
 -brand-name-firefox = Firefox
--brand-name-firefox-beta = Firefox Beta
+-brand-name-firefox-beta = Firefox Бета
 -brand-name-firefox-browser =
     { $case ->
        *[nominative] браузер Firefox
@@ -44,7 +44,7 @@
 
 ## Firefox browsers (short names)
 
--brand-name-beta = Beta
+-brand-name-beta = Бета
 -brand-name-developer-edition = Developer Edition
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
@@ -60,7 +60,7 @@
 
 ## Firefox products
 
--brand-name-facebook-container = Facebook Container
+-brand-name-facebook-container = Фейсбук-контейнер
 -brand-name-firefox-account =
     { $case ->
        *[nominative] аккаунт Firefox
