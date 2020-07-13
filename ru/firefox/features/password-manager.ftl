@@ -20,6 +20,9 @@ password-manager-forget-the-reset = Забудьте о сбросах паро�
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ниндзя паролей
 password-manager-no-more-try-again = Никаких "попробовать снова", когда вы пытаетесь куда-то попасть. Войдите в свой { -brand-name-firefox-account(case: "nominative_uppercase") } на вашем телефоне и ваши пароли пойдут вместе с вами. Ваши учётные данные просто появятся, вот так.
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Заработайте свою золотую медаль по безопасности с огромным массивом <a href="{ $addons }">менеджеров паролей для { -brand-name-firefox }</a>. Выберите текущего фаворита, или найдите будущего лидера по рейтингам и отзывам экспертного сообщества.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Мастер паролей

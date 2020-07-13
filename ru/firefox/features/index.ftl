@@ -23,5 +23,7 @@ features-index-opted-in-to-privacy-so-you = Приватность включе�
 features-index-read-our-privacy-policy = Прочитайте нашу политику приватности
 features-index-private-by-default = Приватный по умолчанию
 features-index-enhanced-tracking = Улучшенная защита от отслеживания
+features-index-we-dont-sell-access-to-your = Мы не продаём ваши онлайн-данные. Точка.
 features-index-firefox-vs = { -brand-name-firefox } против других браузеров
 features-index-compare-browsers = Сравнение браузеров
+features-index-download-latest = Загрузите последнюю версию { -brand-name-firefox }

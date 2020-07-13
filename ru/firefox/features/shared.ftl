@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-browse-faster = Ускорение веб-серфинга
 features-shared-your-favorite-extensions = Ваши любимые расширения
 features-shared-more-powerful-private-browsing = Больше мощи с приватным просмотром
 features-shared-ad-tracker-blocking = Блокировка рекламных трекеров

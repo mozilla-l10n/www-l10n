@@ -15,8 +15,11 @@ firefox-privacy-hub-why-trust-firefox = Почему { -brand-name-firefox } м�
 firefox-privacy-hub-learn-more-about-our-mission = Узнайте больше о нашей миссии
 firefox-privacy-hub-learn-about-our-products = Узнайте о наших продуктах
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Получите улучшенную защиту от отслеживания
 firefox-privacy-hub-download-the-firefox-browser = Загрузить браузер { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Обновить свой браузер { -brand-name-firefox }
+firefox-privacy-hub-always-in-your-control = Всегда под вашим контролем
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Проверить на утечки
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
