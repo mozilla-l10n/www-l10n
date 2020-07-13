@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox విహారిణి: వేగవంతమైన మరియు సులభమైన సంకేతపద నిర్వాహకం
+password-manager-firefox-browser = { -brand-name-firefox-browser }: వేగవంతమైన, తేలికైన సంకేతపద నిర్వహణ
 # HTML page description
-password-manager-firefox-password = ఫైర్ఫాక్స్ పాస్వర్డ్ మేనేజర్ మీ పాస్వర్డ్లను అన్నింటినీ ఒకే స్థలంలో సేవ్ చేస్తుంది, కాబట్టి మీరు ఆటోమేటిక్గా సైట్లకు లాగిన్ కావచ్చు లేదా సేవ్ చేయబడిన పాస్వర్డ్లు తిరిగి పొందవచ్చు.
+password-manager-firefox-password = { -brand-name-firefox } సంకేతపద నిర్వహణ మీ సంకేతపదాలన్నింటినీ ఒకే చోట భద్రపరుస్తుంది, కాబట్టి మీరు సైట్లలోనికి ఆటోమెటిగ్గా ప్రవేశించవచ్చు లేదా భద్రపరిచిన సంకేతపదాలను తేలిగ్గా పొందవచ్చు.
 password-manager-password-hero = పాస్వర్డ్ హీరో
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
@@ -17,5 +17,5 @@ password-manager-forget-the-reset = రీసెట్ను మర్చిప�
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = పాస్వర్డ్ నింజా
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = పాస్వర్డ్ మాస్టర్
