@@ -49,6 +49,7 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
 
 ## Firefox products
 
@@ -116,6 +117,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -126,6 +128,7 @@
 -brand-name-facebook-messenger = Facebook メッセンジャー
 -brand-name-instagram = Instagram
 -brand-name-messenger = メッセンジャー
+-brand-name-workplace = Workplace
 
 ## Google products
 

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox ブラウザー: 少ないメモリーでより高速に
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: 少ないメモリーでより高速に
 # HTML page description
 features-memory-is-your-computer-slow-your = パソコンの動作が遅くなっていませんか？ お使いのブラウザーがメモリーを使い過ぎているのかもしれません。今すぐ { -brand-name-firefox } へ乗り換えて、高速化を実現。
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome } より少ない<br>メモリー使用量

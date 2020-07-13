@@ -11,6 +11,7 @@ switch-switching-to-firefox-page-description = { -brand-name-firefox } への乗
 switch-select-what-to-take = 何を { -brand-name-chrome } から取り込むか選びましょう。
 switch-let-firefox-do-the-rest = 後は { -brand-name-firefox } におまかせ。
 switch-use-firefox-and-still-chrome = { -brand-name-firefox } と { -brand-name-chrome } は共存できます。お使いのパソコン上の { -brand-name-chrome } は何も変わりません。
+switch-spread-the-word = { -brand-name-firefox } に関する情報を広めて、お気に入りの人が { -brand-name-chrome } に別れを告げるのを手伝いましょう。
 switch-share-with-your-friends = { -brand-name-firefox } へ乗り換える方法を友達と共有しよう
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } は { -brand-name-chrome } から素早く乗り換えられます。試してみて！
 switch-switch-to-firefox = { -brand-name-firefox } へ乗り換えよう

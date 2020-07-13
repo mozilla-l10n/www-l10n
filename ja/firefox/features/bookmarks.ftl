@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox ブラウザー: どこへ行くときもより便利なブックマークを
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: どこへ行くときもより便利なブックマークを
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = ブックマークをフォルダーごとに簡単に整理したり、パソコンからスマホまで、手持ちのあらゆる端末からアクセスしたりできます。
 features-bookmarks-better-bookmarks = より便利なブックマーク
