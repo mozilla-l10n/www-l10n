@@ -20,8 +20,9 @@ password-manager-forget-the-reset = Pozabite ponastavitev. { -brand-name-firefox
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Mojster gesel
 password-manager-no-more-try-again = Nič več “poskusite znova”, ko želite nekam priti. Prijavite se v svoj Firefox Račun na telefonu in vsa vaša gesla bodo z vami. Vaši podatki za prijavo se bodo preprosto prikazali.
+password-manager-password-champion = Prvak gesel
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Gospodar gesel
 # Obsolete string
 # Variables:

@@ -16,7 +16,7 @@ firefox-home-keep-your-passwords = Ohranite gesla varna na vseh napravah
 firefox-home-learn-more-about-lockwise = Več o { -brand-name-lockwise }u
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Prejmite <strong>spoštovanje</strong>, ki si ga zaslužite
-firefox-home-every-single-firefox = Vsak izdelek { -brand-name-firefox } je v skladu našo obljubo o osebnih podatkih: <strong>Vzemi manj. Ohrani varnost. Brez skrivnosti.</strong>
+firefox-home-every-single-firefox = Vsak izdelek { -brand-name-firefox } je v skladu našo zavezo o osebnih podatkih: <strong>Vzemi manj. Ohrani varnost. Brez skrivnosti.</strong>
 firefox-home-share-large-files-without = Delite velike datoteke brez radovednih oči
 firefox-home-start-sending-files = Začnite varno pošiljati datoteke
 firefox-home-trade-clickbait-for = Zamenjajte vabe za klike s kakovostno vsebino

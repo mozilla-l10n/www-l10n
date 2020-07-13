@@ -10,6 +10,7 @@ lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } – upravi
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Vzemite gesla s seboj
 lockwise-securely-access-the-passwords = Varno dostopajte do gesel, shranjenih v { -brand-name-firefox }u kjerkoli – tudi izven brskalnika.
+lockwise-open-in-firefox = Odpri v { -brand-name-firefox }u
 lockwise-only-in-the-firefox-browser = Samo v { -brand-name-firefox-browser }u
 lockwise-your-privacy-comes-first = Vaša zasebnost je na prvem mestu
 lockwise-support = Podpora

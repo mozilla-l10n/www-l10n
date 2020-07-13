@@ -17,12 +17,22 @@ firefox-privacy-privacy = Zasebnost
 firefox-privacy-our-promise = Naša obljuba
 # Sub navigation link
 firefox-privacy-our-products = Naši izdelki
+firefox-privacy-hub-you-should-be-able-to-decide = Odločitev, kdo vidi vaše osebne podatke bi morala biti vaša. Ne le med vašimi prijatelji, ampak z vsakim oglaševalcem in podjetjem na internetu – vključno z nami.
+firefox-privacy-hub-thats-why-everything-we-make = Zato vse, kar delamo, spoštuje našo zavezo o osebnih podatkih.
 firefox-privacy-hub-take-less = Vzemi manj
+firefox-privacy-hub-we-make-a-point-of-knowing = Zavzemamo se, da o vas vemo čim manj
 firefox-privacy-hub-keep-it-safe = Ohrani varnost
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Trudimo se, da zaščitimo vaše osebne podatke
+firefox-privacy-hub-data-security-is-complicated = Varnost podatkov je zapletena – vsaj morala bi biti. Zato izvajamo dodatne korake za razvrščanje podatkov, ki jih imamo, ohranjamo pravila za shranjevanje in zaščito posameznih vrst in nikoli ne prenehamo ponavljati svojih procesov. Prednost dajemo vaši zasebnosti. V njo vlagamo. Temu smo zavezani. Druga podjetja celo učimo, kako to storiti.
 firefox-privacy-hub-no-secrets = Brez skrivnosti
+firefox-privacy-hub-youll-always-know-where-you = Naše karte so vedno odprte
 firefox-privacy-hub-why-trust-firefox = Zakaj zaupati { -brand-name-firefox }u?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Ker na prvo mesto postavljamo ljudi. Pravzaprav nas podpira <a href="{ $foundation }">neprofitna fundacija</a>. Od prvega dne je naša naloga, da zaščitimo internet in vse njegove uporabnike.
 firefox-privacy-hub-learn-more-about-our-mission = Spoznajte naše poslanstvo
+firefox-privacy-hub-your-privacy-by-the-product = Vaša zasebnost v vseh izdelkih
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }ovi izdelki delujejo drugače – saj so zasnovani tako, da v prvi vrsti ščitijo vašo zasebnost.
 firefox-privacy-hub-learn-about-our-products = Spoznajte naše izdelke
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ščiti vašo zasebnost v vsakem izdelku.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ščiti</strong> vašo zasebnost v vsakem izdelku
