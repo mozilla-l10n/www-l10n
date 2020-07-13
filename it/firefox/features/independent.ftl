@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: l’idealis
 features-independent-firefox-is-independent = { -brand-name-firefox } è un browser indipendente nonché parte integrante dell’organizzazione senza fini di lucro { -brand-name-mozilla }, che si batte per i diritti degli utenti online, vigila sugli abusi di potere delle grandi società e mira a rendere Internet accessibile a tutti, ovunque.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Senza secondi fini
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } è realizzato da un’organizzazione senza fini di lucro. Ciò significa che siamo liberi di fare cose che altri non si possono permettere, come creare nuovi prodotti e funzionalità senza motivazioni nascoste. Difendiamo il tuo diritto alla privacy con strumenti quali la Navigazione anonima con protezione antitracciamento.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } è realizzato da un’organizzazione senza fini di lucro. Ciò significa che siamo liberi di fare cose che altri non si possono permettere, come creare nuovi prodotti e funzionalità senza motivazioni nascoste. Difendiamo il tuo diritto alla privacy con strumenti quali la Navigazione anonima con protezione antitracciamento.
 features-independent-what-you-see-is-what = Non c'è trucco, non c'è inganno
