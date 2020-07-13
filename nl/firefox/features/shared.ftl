@@ -8,6 +8,7 @@
 features-shared-a-better-internet-experience = Een betere internetervaring
 features-shared-browse-faster = Surf sneller
 features-shared-your-favorite-extensions = Uw favoriete extensies
+features-shared-balanced-memory = Evenwichtig geheugen
 features-shared-more-powerful-private-browsing = Krachtigere Privénavigatie
 features-shared-ad-tracker-blocking = Blokkeren van advertentietrackers
 features-shared-password-manager = Wachtwoordenbeheerder

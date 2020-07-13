@@ -16,10 +16,12 @@ password-manager-password-hero = Wachtwoordheld
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Vergeet opnieuw instellen. De wacht&shy;woorden&shy;beheerder van { -brand-name-firefox } bewaart al uw wachtwoorden, zodat u zich automatisch kunt aanmelden of eenvoudig opgeslagen wachtwoorden kunt vinden. Voor extreme beveiliging kunt u { -brand-name-firefox } een <a href="{ $url }">hoofdwachtwoord</a> geven.
+password-manager-password-magician = Wachtwoordtovenaar
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Wachtwoordninja
 password-manager-no-more-try-again = Niet meer ‘opnieuw proberen’ terwijl u ergens probeert te komen. Meld u aan bij uw{ -brand-name-firefox-account } op uw telefoon, en uw wachtwoorden komen met u mee. Uw aanmeldingsgegevens worden gewoon vanzelf zichtbaar.
+password-manager-password-champion = Wachtwoordkampioen
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Verdien uw gouden medaille in beveiliging met { -brand-name-firefox }’ ruime aanbod aan <a href="{ $addons }">add-ons</a> voor wachtwoordbeheer. Kies een bestaande favoriete of vind een aankomende via waarderingen en beoordelingen van experts.
