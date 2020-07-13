@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Браузер Firefox: Лучшие закладки, куда бы вы не собрались
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser(case: "nominative_uppercase") }: Лучшие закладки, куда бы вы не собрались
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Легко организуйте свои закладки в папки и получайте к ним доступ со всех устройств, от компьютеров до мобильных.
 features-bookmarks-better-bookmarks = Лучшие закладки
@@ -20,10 +20,14 @@ features-bookmarks-fly-with-that-bookmark = Двигайтесь вместе с
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Возьмите свои закладки с собой. Используйте синхронизацию Firefox, чтобы получать доступ к вашим закладкам со всех ваших устройств, от компьютеров до мобильных. Или попробуйте <a href="{ $url }">{ -brand-name-pocket }</a>, чтобы сохранить любые статьи или страницы и вернуться к ним позже – даже без Интернета.
+features-bookmarks-take-your-favorites-on = Возьмите свои закладки с собой. Используйте { -brand-name-firefox-sync }, чтобы получать доступ к вашим закладкам со всех ваших устройств, от компьютеров до мобильных. Или попробуйте <a href="{ $url }">{ -brand-name-pocket }</a>, чтобы сохранить любые статьи или страницы и вернуться к ним позже – даже без Интернета.
+features-bookmarks-customize-that-bookmark = Настройте эту закладку
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Проводите время с закладками
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Тренируйте свою точность с <a href="{ $url }">дополнением менеджером закладок</a>, любого вида, от полной страницы скриншотов до быстро переключающихся панелей с хорошо скрытыми приватными закладками.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

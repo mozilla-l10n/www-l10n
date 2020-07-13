@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Браузер Firefox: Быстрый и лёгкий менеджер паролей
+password-manager-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }: Быстрый и лёгкий менеджер паролей
 # HTML page description
 password-manager-firefox-password = Менеджер паролей { -brand-name-firefox } сохраняет все ваши пароли в одном месте, так что вы можете автоматически входить на сайты или увидеть сохранённые пароли.
 # Hero title
@@ -19,9 +19,9 @@ password-manager-forget-the-reset = Забудьте о сбросах паро�
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ниндзя паролей
-password-manager-no-more-try-again = Никаких "попробовать снова", когда вы пытаетесь куда-то попасть. Войдите в свой Аккаунт Firefox на вашем телефоне и ваши пароли пойдут вместе с вами. Ваши учётные данные просто появятся, вот так.
+password-manager-no-more-try-again = Никаких "попробовать снова", когда вы пытаетесь куда-то попасть. Войдите в свой { -brand-name-firefox-account(case: "nominative_uppercase") } на вашем телефоне и ваши пароли пойдут вместе с вами. Ваши учётные данные просто появятся, вот так.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Мастер паролей
 # Obsolete string
 # Variables:
