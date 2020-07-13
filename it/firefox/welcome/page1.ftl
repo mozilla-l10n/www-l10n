@@ -7,3 +7,5 @@
 
 welcome-page1-check-your-breach-report = Controlla il tuo rapporto sulle violazioni
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-stay-ahead-of-hackers = Un passo avanti agli hacker
+welcome-page1-why-am-i-seeing-this = Perché viene visualizzato questo messaggio?
