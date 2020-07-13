@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Pozabite ponastavitev. { -brand-name-firefox
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Mojster gesel
-password-manager-no-more-try-again = Nič več “poskusite znova”, ko želite nekam priti. Prijavite se v svoj Firefox Račun na telefonu in vsa vaša gesla bodo z vami. Vaši podatki za prijavo se bodo preprosto prikazali.
+password-manager-no-more-try-again = Nič več “poskusite znova”, ko želite nekam priti. Prijavite se v svoj { -brand-name-firefox-account } na telefonu in vsa vaša gesla bodo z vami. Vaši podatki za prijavo se bodo preprosto prikazali.
 password-manager-password-champion = Prvak gesel
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
@@ -28,4 +28,4 @@ password-manager-password-master = Gospodar gesel
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Dodatno zaščitite svoja gesla s širokim izborom <a href="{ $addons }">dodatkov</a> za upravitelja gesel. Izberite enega od priljubljenih ali si s pomočjo ocen izkušenih uporabnikov poiščite še boljšega zase.
+password-manager-earn-your-second = Dodatno zaščitite svoja gesla s širokim izborom { -brand-name-firefox }ovih <a href="{ $addons }">dodatkov</a> za upravljanje gesel. Izberite enega od priljubljenih ali si s pomočjo ocen izkušenih uporabnikov poiščite še boljšega zase.
