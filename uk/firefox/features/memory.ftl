@@ -8,7 +8,7 @@
 # HTML page title
 features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Використовуйте менше пам'яті, отримайте більшу швидкість
 # HTML page description
-features-memory-is-your-computer-slow-your = Ваш комп'ютер працює повільно? Ймовірно, ваш браузер використовує занадто багато пам'яті. Перейдіть на { -brand-name-firefox }, щоб покращити швидкодію.
+features-memory-is-your-computer-slow-your = Ваш комп'ютер працює повільно? Ймовірно, ваш браузер використовує занадто багато пам'яті. Перейдіть на { -brand-name-firefox }, щоб поліпшити швидкодію.
 features-memory-less-memory-usage-than-chrome = Використовує менше пам'яті, ніж { -brand-name-chrome }
 features-memory-if-your-web-browser-uses = Якщо ваш веб-браузер використовує занадто багато пам'яті, перейдіть на { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Прискорте свій комп'ютер

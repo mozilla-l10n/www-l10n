@@ -14,5 +14,5 @@ features-shared-ad-tracker-blocking = Блокування рекламного 
 features-shared-password-manager = Менеджер паролів
 features-shared-customize-your-browser = Налаштуйте свій браузер
 features-shared-sync-between-devices = Синхронізація між пристроями
-features-shared-better-bookmarks = Покращені закладки
+features-shared-better-bookmarks = Поліпшені закладки
 brand-name-firefox = { -brand-name-firefox }

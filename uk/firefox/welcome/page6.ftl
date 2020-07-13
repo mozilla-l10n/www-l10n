@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page6-make-firefox-your-default = Зробити { -brand-name-firefox } типовим браузером
 welcome-page6-make-sure-youre-protected = Переконайтеся, що ви захищені щоразу, коли ви перебуваєте в Інтернеті
-welcome-page6-when-you-choose-firefox-you = Вибираючи { -brand-name-firefox }, ви підтримуєте покращення Інтернету для себе та всіх інших. Тепер зробіть наступний крок для свого захисту.
+welcome-page6-when-you-choose-firefox-you = Вибираючи { -brand-name-firefox }, ви підтримуєте поліпшення Інтернету для себе та всіх інших. Тепер зробіть наступний крок для свого захисту.
 welcome-page6-get-the-firefox-app = Отримати { -brand-name-firefox }
 welcome-page6-get-firefox-on-your-phone = Встановіть { -brand-name-firefox } на свій телефон
 welcome-page6-scan-the-qr-code-to-get-started = Скануйте QR-код, щоб почати завантаження
