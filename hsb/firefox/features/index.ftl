@@ -34,6 +34,7 @@ features-index-enhanced-tracking = Polěpšeny slědowanski škit
 features-index-we-dont-sell-access-to-your = Přistup na waše daty online njepředawamy. Dypk.
 features-index-get-firefox-for-privacy = Wobstarajće sej { -brand-name-firefox } za priwatnosć
 features-index-firefox-vs = { -brand-name-firefox } porno druhim wobhladowakam
+features-index-stack-up = Hlejće, kak je { -brand-name-firefox } přirunajo z druhimi woblubowanymi wobhladowakami.
 features-index-compare-browsers = Wobhladowaki přirunać
 features-index-see-themes = Woblubowane drasty pokazać
 features-index-download-latest = Sćehńće najnowši { -brand-name-firefox }
