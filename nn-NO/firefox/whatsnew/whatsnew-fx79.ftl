@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
+# HTML page title
+whatsnew79-page-title = Kva er nytt i { -brand-name-firefox }
 whatsnew79-take-less-keep-it-safe = Samle inn mindre. Oppbevar det trygt. Ingen hemmeligheitar. Vi misbrukear ikkje tilliten din for å tene pengar.
