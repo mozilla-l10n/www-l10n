@@ -22,6 +22,7 @@ whatsnew79-download-the-firefox = הורדת הדפדפן { -brand-name-firefox 
 whatsnew79-read-our-privacy-promise = קריאת הבטחת הפרטיות שלנו
 # CTA link
 whatsnew79-read-more = מידע נוסף
+whatsnew79-keep-facebook-contained = לשמור את { -brand-name-facebook } בבידוד
 whatsnew79-get-the-power-to-prevent = קבלו את הכוח למנוע מ־{ -brand-name-facebook } ו־{ -brand-name-instagram } לעקוב אחריך ברשת.
 # CTA link
 whatsnew79-add-facebook-container = הוספת { -brand-name-facebook-container }
