@@ -13,6 +13,9 @@ download-button-whats-new = புதியவைகள்
 download-button-systems-languages = கணினிகள் &amp; மொழிகள்
 download-button-recommended = பரிந்துரைக்கப்பட்டது
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+download-button-mozilla-no-longer-provides = <a href="{ $url }"> பயர்பாக்சிற்கான ({ -brand-name-firefox }) பாதுகாப்பு மென்பொருள் மேம்பாடுகளை மொசில்லா ({ -brand-name-mozilla }) விண்டோசு ({ -brand-name-windows }) { -brand-name-xp } அல்லது ({ -brand-name-vista }) போன்ற இயங்குதளங்களுக்குத் தராது ஆனால் விண்டோசு  ({ -brand-name-windows })  32-பிட்டின் கடைசி பதிப்பைக் கீழுள்ள தொடுப்பிலிருந்து பதிவிறக்க முடியும்.
+# Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox } பயர்பாக்சை நிறுவுவதற்கு தயவுசெய்து <a href="{ $url }">இந்த வழிமுறைகளைப்</a> பின்பற்றவும்.
 # Variables:
