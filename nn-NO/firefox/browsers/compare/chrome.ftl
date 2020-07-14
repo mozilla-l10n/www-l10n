@@ -11,6 +11,9 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } mot { -brand
 compare-chrome-we-compare-mozilla-firefox = Vi samanliknar { -brand-name-mozilla } { -brand-name-firefox } med { -brand-name-google } { -brand-name-chrome } når det gjeld personvern, nytte og portabilitet
 # Main title.
 compare-chrome-comparing-firefox-browser = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-google }{ -brand-name-chrome }
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated = Vi har nyleg omarbeidd engasjement vårt for personvern og openheit når det gjeld brukardata i den siste <a { $attrs }>personvernerklæringa</a> vår som seier: «Hjå Mozilla meiner vi at personvern er grunnleggjande for eit sunt internett.»
 compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome } er i det heile ein sikker nettlesar, med funksjonar som { -brand-name-google } Safe Browsing, som hjelper til med å beskytte brukarar ved å informere dei med ei tydeleg åtvaring når dei prøver å navigere til farlege nettstadar eller laste ned farlege filer.
 compare-chrome-and-so-here-we-are-the-browser = Og så her er vi, nettlesarkrigen eskalerer nok ein gong, og det er på tide å revurdere og samanlikne { -brand-name-firefox-browser } mot { -brand-name-google } { -brand-name-chrome }.
 compare-chrome-in-2008-google-introduced = I 2008 introduserte { -brand-name-google } { -brand-name-chrome } og innverknaden av den med omsyn til nyskapande nettlesarteknologi vart omgåande merkbar. Han lasta nettstadar raskare, tok opp minimal skjermplass og tilbydde eit minimalistisk og unekteleg enkelt brukargrensesnitt.

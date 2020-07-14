@@ -17,6 +17,7 @@ compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox-browser } og
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Personvernerklæringa</a> for { -brand-name-firefox } beskriv veldig ope kva for personopplysninger vi samlar inn. Det einaste sluttmålet er å gi deg meir kontroll over informasjonen du deler på nettet.
+compare-opera-as-far-as-actual-privacy-protections = Når det gjeld den faktiske sikringa av personvernet i nettlesaren { -brand-name-opera }, tilbyr han ein robust privat modus som lar deg surfe på Internett utan at nettlesaren sporar aktiviteten din. Sjølv i normal surfemodus kan du deaktivere enkelte datainnsamlingsfunksjonar ved å endre innstillingane for å aktivere annonseblokkeringa og tilpasse andre sikkerheitsfunksjonar.
 # Variables:
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
 compare-opera-we-also-offer-an-additional = Vi tilbyr også ein ekstra, om enn eksperimentell versjon av { -brand-name-firefox }-mobilappen vår, <a { $attrs }>{ -brand-name-firefox } Preview</a>, som fokuserer på fart og sikkerheit.
