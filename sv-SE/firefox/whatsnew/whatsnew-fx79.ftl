@@ -13,6 +13,8 @@ whatsnew79-secure-your-connection = Säkra din anslutning
 # CTA link
 whatsnew79-get-started = Kom igång
 whatsnew79-get-more-control-over = Få mer kontroll över spårare
+# CTA link
+whatsnew79-see-your-report = Se din rapport
 whatsnew79-update-your-firefox = Uppdatera din { -brand-name-firefox } webbläsare
 whatsnew79-download-the-firefox = Ladda ner { -brand-name-firefox } webbläsaren
 # CTA link
