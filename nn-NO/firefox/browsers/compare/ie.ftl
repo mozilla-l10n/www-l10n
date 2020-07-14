@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } mot { -brand-name-ie }: Kva for ein er den beste nettlesaren for deg?
+# HTML page description
+compare-ie-compare-internet-explorer-to = Samanlikn { -brand-name-ie } med { -brand-name-firefox-browser } for å finne ut kva for ein som er den beste nettlesaren for deg.
 # Main title
 compare-ie-comparing-firefox-browser-with = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-ie }
