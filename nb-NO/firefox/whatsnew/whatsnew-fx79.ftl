@@ -11,7 +11,7 @@ whatsnew79-page-title = Hva er nytt i { -brand-name-firefox }
 whatsnew79-main-title = Beskytt dine personlige data fra andre – inkludert oss
 whatsnew79-main-intro = Internett skal være et trygt sted for alle. Det er grunnen til at { -brand-name-firefox } ikke sporer deg rundt på nettet, og forhindrer også at tredjeparter gjør det.
 # Main CTA button
-whatsnew79-primary-cta = Gjør { -brand-name-firefox } som standard
+whatsnew79-primary-cta = Velg { -brand-name-firefox } som standard
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Hent { -brand-name-firefox }-appen
 whatsnew79-secure-your-connection = Sikre tilkoblingen din
@@ -19,7 +19,7 @@ whatsnew79-with-one-tap-mozilla-vpn = { -brand-name-mozilla-vpn } krypterer forb
 # CTA link
 whatsnew79-get-started = Kom i gang
 whatsnew79-get-more-control-over = Få mer kontroll over spore
-whatsnew79-firefox-blocks-more = { -brand-name-firefox } blokkerer flere annonsører og sporere fra å spore deg rundt på nettet, enn noen gang før.
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } blokkerer flere annonsører og sporere enn noen gang før fra å spore deg rundt på nettet.
 # CTA link
 whatsnew79-see-your-report = Se rapporten din
 whatsnew79-update-your-firefox = Oppdater din { -brand-name-firefox }-nettleser
