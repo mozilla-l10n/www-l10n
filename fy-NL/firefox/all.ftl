@@ -34,6 +34,7 @@ firefox-all-test-your-sites-against = Test jo websites tsjin ynkoarten te ferski
 firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei dizze { -brand-name-firefox }-browser dy't boud is foar bedriuwen.
 firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy't de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 firefox-all-arm64-installers = ARM/AArch64-ynstallaasjeprogramma’s
+firefox-all-arm64-installers-optimized = ARM64/AArch64-ynstallaasjeprogramma’s optimalisearre foar Snapdragon-oandreaune { -brand-name-windows }-pc’s.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Kies in 32-bits-ynstallaasjeprogramma foar kompjûters mei 32-bits prosessors of foar âldere of minder krêftige kompjûters. <a href="{ $url }">As jo net wis binne</a> oft jo in 64-bits- of 32-bits-ynstallaasjeprogramma brûke wolle, riede wy jo oan om 32-bits te brûken.
