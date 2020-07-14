@@ -15,6 +15,7 @@ whatsnew79-primary-cta = Vel { -brand-name-firefox } som standard
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Hent { -brand-name-firefox }-appen
 whatsnew79-secure-your-connection = Sikre tilkoplinga di
+whatsnew79-with-one-tap-mozilla-vpn = { -brand-name-mozilla-vpn } krypterer sambandet ditt med berre eitt trykk, og beskyttar aktivitetane dine på alle nettverk frå hackarar og andre nysgjerrige personar.
 # CTA link
 whatsnew79-get-started = Kom i gang
 whatsnew79-get-more-control-over = Få meir kontroll over sporarar
