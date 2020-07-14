@@ -14,6 +14,7 @@ whatsnew79-main-intro = Das Internet sollte ein sicherer Ort für alle sein. Des
 whatsnew79-primary-cta = { -brand-name-firefox } als Standardbrowser festlegen
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Hol dir die { -brand-name-firefox } App
+whatsnew79-secure-your-connection = Sichere Deine Verbindung
 # CTA link
 whatsnew79-get-started = Erste Schritte
 whatsnew79-get-more-control-over = Mehr Kontrolle in Sachen Werbe-Tracking
