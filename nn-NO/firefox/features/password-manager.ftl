@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Gløym nullstilling av passord. { -brand-nam
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Passord-ninja
-password-manager-no-more-try-again = Ikkje meir «prøv igjen» medan du prøver å logge inn på ein nettstad. Logg deg på Firefox-kontoen på telefonen, og passorda dine følgjer med deg. Innloggingsdetaljane dine vil, heilt enkelt, dukke opp.
+password-manager-no-more-try-again = Ikkje meir «prøv igjen» medan du prøver å logge inn på ein nettstad. Logg deg på { -brand-name-firefox-account }en på telefonen, og passorda dine følgjer med deg. Innloggingsdetaljane dine vil, heilt enkelt, dukke opp.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Passord-meister
