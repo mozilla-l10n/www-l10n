@@ -29,6 +29,7 @@ whatsnew79-take-less-keep-it-safe = ნაკლები აღრიცხვ�
 # CTA link
 whatsnew79-read-more = იხილეთ ვრცლად
 whatsnew79-keep-facebook-contained = გამიჯნეთ { -brand-name-facebook } სათავსით
+whatsnew79-get-the-power-to-prevent = დაიხმარეთ მძლავრი საშუალება, რომ { -brand-name-facebook } და { -brand-name-instagram } ვეღარ დაგედევნონ ვებსივრცეში სათვალთვალოდ.
 # CTA link
 whatsnew79-add-facebook-container = დაამატეთ { -brand-name-facebook-container }
 # Modal title
