@@ -27,6 +27,10 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Vi gjer det vanskelege arbe
 firefox-privacy-hub-data-security-is-complicated = Datasikkerheit er komplisert — eller i det minste skal det vere det. Derfor tar vi dei ekstra stega for å klassifisere dataa vi har, held fast på reglar for korleis vi lagrar og tek vare på kvar type data, og sluttar aldri å gjenta prosessane våre. Vi prioriterer personvernet ditt. Vi investerer i det. Vi er opptatt av det. Vi lærer sjølv andre selskap korleis dei skal gjere det.
 firefox-privacy-hub-no-secrets = Ingen hemmelegheiter
 firefox-privacy-hub-youll-always-know-where-you = Du vil alltid vite kvar du står hos oss
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Det er ingen skjult agenda her. Verksemda vår er ikkje avhengig av å misbruke tilliten din i hemmelegheit. <a href="{ $privacy }">Personvernerklæringa</a> er faktisk lesbar. Alle i verda kan delta på <a href="{ $meetings }">firmamøte kvar veke</a>. Dersom du vil grave i kvartrt datapunkt vi samlar inn, er koden vår open. Og det er vi også.
 firefox-privacy-hub-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -40,6 +44,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } besk
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>beskyttar</strong> personvernet ditt i kvart produkt.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Over 2000 sporarar blokkerte — automatisk
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Sporing har blitt ein epidemi på nettet: selskap følgjer kvart trekk, klikk og kjøp, samlar inn data for å føreseie og påverke kva du skal gjere vidare. Vi trur det er ein grov invasjon av personvernet ditt. Det er derfor { -brand-name-firefox }-nettlesarar for mobil og datamaskiner har utvida sporingsbesvern på som standard.
 firefox-privacy-hub-if-you-want-to-see-what = Dersom du vil sjå kva { -brand-name-firefox } blokkerer for deg, kan du gå til denne sida i { -brand-name-firefox }-nettlesaren din for datamaskiner.
 firefox-privacy-hub-see-what-firefox-has-blocked = Sjå kva { -brand-name-firefox } har blokkert for deg
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -62,6 +68,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Passorda og legitimasjonane du lagrar i { -brand-name-firefox-lockwise } er kryptert på alle einingane dine, så ikkje eingong vi kan sjå dei.
 firefox-privacy-hub-learn-more-about-lockwise = Les meir om { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Vi kan ikkje sjå namna eller innhaldet på dei store filene du deler via { -brand-name-firefox-send } fordi dei er krypterte med ende-til-ende-kryptering — du vel kven som skal sjå kva du sender, og du kan til og med spesifisere utløpsdato og passord.
 firefox-privacy-hub-send-a-file = Send ei fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } tilrår høgkvalitetsartiklar, sett saman av menneske utan å samle inn surfehistorikken din eller dele den personlege informasjonen din med annonsørar.

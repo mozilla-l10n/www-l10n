@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: opprørar m
 features-independent-firefox-is-independent = { -brand-name-firefox } er uavhengig, og ein del av den ideelle organisasjonen { -brand-name-mozilla }, som kjempar for dine rettar på nettet, held styr på kommersielle verksemder, og gjer Internett tilgjengeleg for alle, overalt.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Ingen forpliktingar
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } er utvikla av ein ideell organisasjon. Det betyr at vi kan gjere ting som andre ikkje kan, til dømes å byggje nye produkt og funksjonar utan ein skjult agenda. Vår prioritet er din rett til eit privatliv med verktøy som privat nettlesing med sporingsvern.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } er utvikla av ein ideell organisasjon. Det betyr at vi kan gjere ting som andre ikkje kan, til dømes å byggje nye produkt og funksjonar utan ein skjult agenda. Vår prioritet er din rett til eit privatliv med verktøy som privat nettlesing med sporingsbesvern, som går utover det som vert tilbydd av { -brand-name-google } { -brand-name-chrome } og { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Det du ser er det du får
