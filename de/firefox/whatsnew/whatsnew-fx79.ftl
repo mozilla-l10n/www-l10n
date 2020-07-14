@@ -15,6 +15,7 @@ whatsnew79-primary-cta = { -brand-name-firefox } als Standardbrowser festlegen
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Hol dir die { -brand-name-firefox } App
 whatsnew79-secure-your-connection = Sichere Deine Verbindung
+whatsnew79-with-one-tap-mozilla-vpn = { -brand-name-mozilla-vpn } verschlüsselt mit nur einem Fingertipp Deine Verbindung und schützt so deine Aktivitäten in jedem Netzwerk vor Hackern und anderen Neugierigen.
 # CTA link
 whatsnew79-get-started = Erste Schritte
 whatsnew79-get-more-control-over = Mehr Kontrolle in Sachen Werbe-Tracking
@@ -22,10 +23,17 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } blockt mehr Werbetreibe
 # CTA link
 whatsnew79-see-your-report = Bericht anschauen
 whatsnew79-update-your-firefox = Aktualisiere deinen { -brand-name-firefox }-Browser
+whatsnew79-download-the-firefox = { -brand-name-firefox } Browser herunterladen
+whatsnew79-read-our-privacy-promise = Lies unser Datenschutzversprechen
+whatsnew79-take-less-keep-it-safe = Weniger Datenerfassung. Sicherheit. Keine Geheimnisse. Wir missbrauchen Dein Vertrauen nicht, um Geld zu verdienen.
+# CTA link
+whatsnew79-read-more = Mehr erfahren
 whatsnew79-keep-facebook-contained = { -brand-name-facebook }-Tracker abschotten
 whatsnew79-get-the-power-to-prevent = Halte { -brand-name-facebook } und { -brand-name-instagram } davon ab, dir durch Web zu folgen
 # CTA link
 whatsnew79-add-facebook-container = { -brand-name-facebook-container } hinzufügen
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Hol dir { -brand-name-firefox } aufs Smartphone
 whatsnew79-scan-the-qr-code = Scanne den QR-Code und leg los
 # Accessible text replacement for a QR code image
 whatsnew79-qr-code-to-scan = QR-Code zum Scannen für { -brand-name-firefox }
