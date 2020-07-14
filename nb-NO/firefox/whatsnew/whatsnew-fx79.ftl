@@ -19,5 +19,15 @@ whatsnew79-get-more-control-over = Få mer kontroll over spore
 whatsnew79-see-your-report = Se rapporten din
 whatsnew79-update-your-firefox = Oppdater din { -brand-name-firefox }-nettleser
 whatsnew79-download-the-firefox = Last ned { -brand-name-firefox }-nettleseren
+whatsnew79-take-less-keep-it-safe = Samle inn mindre. Oppbevar det sikkert. Ingen hemmeligheter. Vi misbruker ikke din tillit for å tjene penger.
 # CTA link
 whatsnew79-read-more = Les mer
+whatsnew79-keep-facebook-contained = Hold { -brand-name-facebook } isolert
+whatsnew79-get-the-power-to-prevent = Stopp { -brand-name-facebook } og { -brand-name-instagram } fra å spore deg rundt på nettet
+# CTA link
+whatsnew79-add-facebook-container = Legg til { -brand-name-facebook-container }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Få { -brand-name-firefox } på telefonen
+whatsnew79-scan-the-qr-code = Skann QR-koden for å komme i gang
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = QR-kode for å laste ned { -brand-name-firefox }
