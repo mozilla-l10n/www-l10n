@@ -8,15 +8,15 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie }: qual é o melhor navegador para si?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Compare o { -brand-name-ie } com o navegador Firefox para descobrir qual é o melhor navegador para si.
+compare-ie-compare-internet-explorer-to = Compare o { -brand-name-ie } com o { -brand-name-firefox-browser } para descobrir qual é o melhor navegador para si.
 # Main title
-compare-ie-comparing-firefox-browser-with = Comparando o navegador Firefox com o { -brand-name-microsoft } { -brand-name-ie }
-compare-ie-while-microsofts-internet-explorer = Apesar do { -brand-name-ie } da { -brand-name-microsoft } ainda vir pré-instalado na maioria dos PCs com { -brand-name-windows }, a { -brand-name-microsoft } claramente prefere que utilize o navegador { -brand-name-edge }, que é definido como padrão aquando da compra.
+compare-ie-comparing-firefox-browser-with = A comparar o { -brand-name-firefox-browser } com o { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = Apesar do { -brand-name-ie } da { -brand-name-microsoft } ainda vir pré-instalado na maioria dos PCs baseados em Windows, a { -brand-name-microsoft } claramente prefere que utilize o navegador { -brand-name-edge }, que é definido como padrão aquando da compra.
 compare-ie-microsoft-discontinued-its-internet = A { -brand-name-microsoft } descontinuou a sua marca { -brand-name-ie } há vários anos, a favor do seu novo navegador { -brand-name-edge } para { -brand-name-windows } 10. No entanto, a lenta adoção do { -brand-name-edge } criou um espaço para o { -brand-name-ie } permanecer, principalmente por questões de compatibilidade empresarial.
-compare-ie-here-well-compare-our-firefox = Aqui, iremos comparar o nosso navegador { -brand-name-firefox } com o { -brand-name-ie } em termos de segurança, utilidade e portabilidade. Iremos ajudá-lo a perceber as diferenças entre um navegador moderno, como o { -brand-name-firefox }, que segue os padrões da Internet, comparativamente ao navegador que pode estar a utilizar por questões empresariais ou por hábitos antigos que perduram no tempo.
+compare-ie-here-well-compare-our-firefox = Aqui, iremos comparar o nosso { -brand-name-firefox-browser } com o { -brand-name-ie } em termos de segurança, utilidade e portabilidade. Iremos ajudá-lo a perceber as diferenças entre um navegador moderno, como o { -brand-name-firefox }, que segue os padrões da Internet, comparativamente ao navegador que pode estar a utilizar por questões empresariais ou por hábitos antigos que perduram no tempo.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = Se não deixou de utilizar o { -brand-name-ie }, apenas o fator de risco de segurança deve ser suficiente para o convencer. <a { $attrs }>O próprio responsável de segurança da Microsoft alertou</a> para o facto de milhões de pessoas, que continuam a utilizar o { -brand-name-ie } como o navegador de Internet principal, se estarem a colocar em "risco".
+compare-ie-if-you-havent-moved-on-from-using = Se não deixou de utilizar o { -brand-name-ie }, apenas o fator de risco de segurança deve ser suficiente para o convencer. <a { $attrs }>O próprio responsável de segurança da { -brand-name-microsoft } alertou</a> para o facto de milhões de pessoas, que continuam a utilizar o { -brand-name-ie } como o seu navegador de Internet principal, se estarem a colocar em "risco".
 compare-ie-microsoft-is-no-longer-supporting = A { -brand-name-microsoft } já não está a assegurar o desenvolvimento de novas funcionalidades para o { -brand-name-ie }, o que significa que as preocupações com a segurança são enormes. A { -brand-name-microsoft } reconhece abertamente o facto de existirem vulnerabilidades em basicamente todas as versões do { -brand-name-ie }.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
