@@ -14,6 +14,7 @@ firefox-enterprise-get-firefox-for-your-enterprise = Last ned { -brand-name-fire
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Last ned <a href="{ $url }">{ -brand-name-firefox-extended-support-release } eller Rapid Release</a> nettlesar for omfattande datasikkerheit og datsikring.
+firefox-enterprise-unmatched-data-protection = Makelaus datasikring med utgivingar som vert gtt ut i ein rytme som passar deg.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox }-nettlesaren er open kjeldekode og tilbyr utvida sporingssikring — ein del av det mangeårige engasjement vårt for datasikring.
 firefox-enterprise-your-data-stays-your-business = Dine data blir verande hos deg
