@@ -8,11 +8,11 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vs. { -brand-name-microsoft } { -brand-name-edge }: qual é o melhor navegador para si?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Compare o { -brand-name-microsoft } { -brand-name-edge } com o navegador Firefox para descobrir qual é o melhor navegador para si.
+compare-edge-compare-microsoft-edge-to-the = Compare o { -brand-name-microsoft } { -brand-name-edge } com o navegador { -brand-name-firefox-browser } para descobrir qual é o melhor navegador para si.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Comparando o navegador Firefox com o { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = A comparar o navegador { -brand-name-firefox-browser } com o { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced = Com o { -brand-name-windows } 10, a { -brand-name-microsoft } lançou o seu navegador { -brand-name-edge } para competir com o { -brand-name-firefox } e o { -brand-name-chrome }, tornando-o o navegador predefinido e pré-instalado em milhões de PC vendidos. Mesmo assim, os utilizadores demoraram a adotá-lo e a { -brand-name-microsoft } finalmente anunciou planos de relançar o { -brand-name-edge } como um navegador baseado no { -brand-name-chromium } (o { -brand-name-chromium } é o projeto de navegador de código aberto do { -brand-name-google }).
-compare-edge-here-well-compare-our-firefox = Aqui, iremos comparar o nosso navegador Firefox com o { -brand-name-microsoft } { -brand-name-edge } baseado no { -brand-name-chromium } em termos de privacidade, utilidade e portabilidade, para o ajudar a entender melhor qual é o navegador que melhor se adapta às suas necessidades e preferências.
+compare-edge-here-well-compare-our-firefox = Aqui, iremos comparar o nosso navegador { -brand-name-firefox-browser } com o { -brand-name-microsoft } { -brand-name-edge } baseado no { -brand-name-chromium } em termos de privacidade, utilidade e portabilidade, para o ajudar a entender melhor qual é o navegador que melhor se adapta às suas necessidades e preferências.
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = O { -brand-name-edge } está integrado na plataforma { -brand-name-windows } 10 e é executado num ambiente sandbox, o que significa que isola programas e evita que programas maliciosos espiem o seu computador. Ele possui um SmartScreen incorporado que verifica a reputação dos sites visitados e bloqueia sites suspeitos. Para melhorar a privacidade, o { -brand-name-edge } permite usar biometria ou um PIN com o { -brand-name-windows } Hello em vez de palavras-passe, para autenticação na Internet.
 # Variables:
