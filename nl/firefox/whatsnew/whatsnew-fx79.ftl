@@ -9,6 +9,9 @@
 whatsnew79-page-title = Wat is er nieuw in { -brand-name-firefox }
 # Main title
 whatsnew79-main-title = Houd uw gegevens privé voor iedereen – ook voor ons
+whatsnew79-main-intro = Het internet zou voor iedereen een veilige plek moeten zijn. Daarom volgt { -brand-name-firefox } u niet online en blokkeert ook dat anderen u volgen.
+# Main CTA button
+whatsnew79-primary-cta = Maak { -brand-name-firefox } uw standaard
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = { -brand-name-firefox } downloaden
 whatsnew79-secure-your-connection = Beveilig uw verbinding
