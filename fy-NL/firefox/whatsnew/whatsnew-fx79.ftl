@@ -25,3 +25,11 @@ whatsnew79-take-less-keep-it-safe = Nim minder. Hâld it feilich. Gjin geheimen.
 # CTA link
 whatsnew79-read-more = Mear ynfo
 whatsnew79-keep-facebook-contained = Hâld { -brand-name-facebook } ûnder kontrôle
+whatsnew79-get-the-power-to-prevent = Krij de krêft om foar te kommen dat { -brand-name-facebook } en { -brand-name-instagram } jo folgje op ynternet.
+# CTA link
+whatsnew79-add-facebook-container = Foegje { -brand-name-facebook-container } ta
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Download { -brand-name-firefox } op jo telefoan
+whatsnew79-scan-the-qr-code = Scan de QR-koade om te begjinnen
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = Te scannen QR-koade foar { -brand-name-firefox }
