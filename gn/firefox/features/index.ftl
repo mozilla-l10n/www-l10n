@@ -21,3 +21,7 @@ features-index-enhanced-tracking = Tapykueho mo’ãha iporãvéva
 features-index-we-dont-sell-access-to-your = Norohepyme’ẽi ne mba’ekuaarã ñandutiguávape jeike. Kyta.
 features-index-get-firefox-for-privacy = Ereko { -brand-name-firefox } ñemíme g̃uarã
 features-index-firefox-vs = { -brand-name-firefox } ambue kundahára renondépe
+features-index-stack-up = Mba’éichapa { -brand-name-firefox } oñemoñondive ambue otros kundahára ndive.
+features-index-compare-browsers = Emoñondive kundahára
+features-index-see-themes = Ehecha téma iporãvéva
+features-index-download-latest = Emboguejy { -brand-name-firefox } apopyre ipyahuvéva
