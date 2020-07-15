@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Pas dy blêdwizer oan
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Belibje dy blêdwizer
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Oefen jo presise mei elke <a href="{ $url }">add-on</a> foar blêdwizerbehear dy't jo betinke kinne, fan momintopnamen fan folsleine siden oant fluch omskeakelbere sidebalken en fêstsette priveeblêdwizers.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
