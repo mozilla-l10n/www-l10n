@@ -18,4 +18,4 @@ features-fast-get-all-the-tabs-without-lags = Wszystkie karty, zero spowolnienia
 features-fast-multi-tasking-with-multiple = Jednoczesne korzystanie z wielu kart stało się łatwiejsze. { -brand-name-firefox } obsługuje teraz wiele procesów, utrzymując świeżość otwartych kart i przeładowując strony szybciej niż dotychczas. Zmniejszyliśmy opóźnienia o 86%, ułatwiając szybkie przeglądanie.
 features-fast-level-up-browser-gameplay = Gry w przeglądarce na wyższym poziomie
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
-features-fast-we-led-the-tech-to-run-3d-games = Byliśmy pionierami gier 3D w przeglądarce, a teraz skupiliśmy się na wyższej wydajności. Nasza przeglądarka zmniejsza opóźnienia, poprawia ping i optymalizuje rozgrywkę przez szybsze, zwinniejsze przeglądanie.
+features-fast-we-led-the-tech-to-run-3d-games = Byliśmy pionierami gier 3D w przeglądarce, a teraz skupiliśmy się na wyższej wydajności { -brand-name-firefox(case: "gen") }. Nasza przeglądarka zmniejsza opóźnienia, poprawia ping i optymalizuje rozgrywkę przez szybsze, zwinniejsze przeglądanie.
