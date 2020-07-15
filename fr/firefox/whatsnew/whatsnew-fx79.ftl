@@ -7,6 +7,8 @@
 
 # HTML page title
 whatsnew79-page-title = Ce qui est nouveau sur { -brand-name-firefox }
+# Main title
+whatsnew79-main-title = Préservez vos données rien que pour vous et loin de tout le monde — même de nous
 whatsnew79-main-intro = Internet devrait être un endroit sûr pour tout le monde. Et c’est pour ça que { -brand-name-firefox } ne vous traque pas en ligne et empêche également les autres de le faire.
 # Main CTA button
 whatsnew79-primary-cta = Définissez { -brand-name-firefox } comme votre navigateur par défaut
@@ -22,6 +24,8 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } n’a jamais bloqué au
 whatsnew79-see-your-report = Consultez votre rapport
 whatsnew79-update-your-firefox = Mettre à jour votre navigateur { -brand-name-firefox }
 whatsnew79-download-the-firefox = Télécharger le navigateur { -brand-name-firefox }
+whatsnew79-read-our-privacy-promise = Lisez notre engagement pour le respect de la vie privée
+whatsnew79-take-less-keep-it-safe = Moins d’informations. Plus de protection. Pas de secrets. Nous ne dépendons pas de l’abus de votre confiance.
 # CTA link
 whatsnew79-read-more = En savoir plus
 whatsnew79-keep-facebook-contained = Maintenez { -brand-name-facebook } à distance
