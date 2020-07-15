@@ -15,14 +15,17 @@ whatsnew79-primary-cta = Maak { -brand-name-firefox } uw standaard
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = { -brand-name-firefox } downloaden
 whatsnew79-secure-your-connection = Beveilig uw verbinding
+whatsnew79-with-one-tap-mozilla-vpn = Met een tik versleutelt { -brand-name-mozilla-vpn } uw verbinding, om uw online activiteiten privé te houden op elk netwerk – veilig tegen hackers en andere nieuwsgierige blikken.
 # CTA link
 whatsnew79-get-started = Aan de slag
 whatsnew79-get-more-control-over = Krijg meer controle over trackers
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } houdt volgen door meer adverteerders en trackers dan ooit tevoren tegen.
 # CTA link
 whatsnew79-see-your-report = Uw rapport bekijken
 whatsnew79-update-your-firefox = Werk uw { -brand-name-firefox }-browser bij
 whatsnew79-download-the-firefox = Download de { -brand-name-firefox }-browser
 whatsnew79-read-our-privacy-promise = Lees onze privacybelofte
+whatsnew79-take-less-keep-it-safe = Neem minder. Hou het veilig. Geen geheimen. Ons bedrijf is niet afhankelijk van het stiekem misbruiken van uw vertrouwen.
 # CTA link
 whatsnew79-read-more = Meer info
 # CTA link
