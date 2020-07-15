@@ -22,6 +22,9 @@ password-manager-password-magician = Adgangskode-magiker
 password-manager-password-ninja = Adgangskode-ninja
 password-manager-no-more-try-again = Ikke flere “Prøv igen”-beskeder, når du forsøger at komme ind på en side. Log på din { -brand-name-firefox-account } på din telefon, så følger dit brugernavn og din adgangskode med helt af sig selv.
 password-manager-password-champion = Adgangskode-mester
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Få guldmedalje i sikkerhed med det store udvalg af adgangskode-<a href="{ $addons }">tilføjelser</a> til { -brand-name-firefox }. Vælg din yndlingsudvidelse - eller brug vurderinger og anmeldelser fra vores netværk af eksperter til at finde en endnu bedre.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Adgangskode-mester
