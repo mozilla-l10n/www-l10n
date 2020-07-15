@@ -24,6 +24,7 @@ features-index-private-browsing-mode = Priwatny modus plackowe daty a wašu hist
 features-index-firefox-automatically = { -brand-name-firefox } awtomatisce tomu zadźěwa, zo přez 2000 wabjenskich přesćěhowakow wam po interneće slěduje.
 features-index-access-all-passwords = { -brand-name-firefox-lockwise } wam wšě hesła spřistupnja, kotrež sće w { -brand-name-firefox } składował – a je darmotny.
 features-index-just-enough = { -brand-name-firefox } runje dosć składa wužiwa, zo by dožiwjenje bjez ćežow wutworił, zo by waš ličak hišće móhł tež dalše nadawki  činić.
+features-index-use-less-memory = { -brand-name-firefox } mjenje składa hač { -brand-name-chrome } přetrjebuje, zo bychu waše druhe programy dale z najwyšej spěšnosću běželi.
 features-index-open-source-minds = Wotewrjena softwara. Wotewrjene mysle.
 features-index-mozilla-creates = { -brand-name-mozilla } wukonliwu webtechnologiju za kóždeho wuwiwa.
 features-index-see-what-makes-us-different = Hladajće, štož nas rozeznawa

@@ -7,11 +7,18 @@
 
 # HTML page title
 whatsnew79-page-title = Nowe funkcije a změny w { -brand-name-firefox }
+# Main title
+whatsnew79-main-title = Škitajće swoje wosobinske daty před druhimi – tež před nami
+whatsnew79-main-intro = Internet měł wěste městno za wšěch być. Tohodla { -brand-name-firefox } wam online njeslěduje a wotdźeržuje druhich wot toho, wam slědować.
+# Main CTA button
+whatsnew79-primary-cta = { -brand-name-firefox } jako standardny wobhladowak postajić
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Nałoženje { -brand-name-firefox } wobstarać
 whatsnew79-secure-your-connection = Zawěsćće swój zwisk
+whatsnew79-with-one-tap-mozilla-vpn = Z jednym podótkom { -brand-name-mozilla-vpn } waš zwisk zaklučuje, zo by wašu aktiwitu online w kóždej syći priwatnu dźeržał – wěstu před hackerami a druhimi wćipnymi pohladami.
 # CTA link
 whatsnew79-get-started = Prěnje kroki
+whatsnew79-get-more-control-over = Wjace kontrole nad přesćěhowakami
 # CTA link
 whatsnew79-see-your-report = Hlejće swoju rozprawu
 whatsnew79-update-your-firefox = Zaktualizujće swój wobhladowak { -brand-name-firefox }
