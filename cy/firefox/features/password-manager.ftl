@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Y Porwr Firefox: Rheolwr Cyfrineiriau Cyflym a Hawdd
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Rheolwr Cyfrineiriau Cyflym a Hawdd
 # HTML page description
 password-manager-firefox-password = Mae Rheolwr Cyfrineiriau { -brand-name-firefox } yn cadw eich cyfrineiriau i gyd mewn un man fel bod modd i chi fewngofnodi'n awtomatig i wefannau neu adfer cyfrineiriau wedi eu cadw.
 # Hero title
@@ -19,9 +19,9 @@ password-manager-forget-the-reset = Anghofiwch ailosod cyfrineiriau. Mae Rheolwr
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Pencampwr cyfrineiriau
-password-manager-no-more-try-again = Dim mwy o “trio eto” wrth geisio mynd i rywle. Mewngofnodwch i'ch Cyfrif Firefox ar eich ffôn a bydd unrhyw gyfrinair yn eich dilyn. Bydd eich manylion mewngofnodi yn ymddangos, fel hud.
+password-manager-no-more-try-again = Dim mwy o “geisio eto” wrth geisio mynd i rywle. Mewngofnodwch i'ch { -brand-name-firefox-account } ar eich ffôn a bydd unrhyw gyfrinair yn eich dilyn. Bydd eich manylion mewngofnodi yn ymddangos yn ddi-lol
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Prif gyfrinair
 # Obsolete string
 # Variables:

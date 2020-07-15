@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Y Porwr Firefox: Defnyddio llai o gof a chael mwy o gyflymder
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Defnyddio llai o gof a chael mwy o gyflymder
 # HTML page description
 features-memory-is-your-computer-slow-your = A yw eich cyfrifiadur yn araf? Efallai bod eich porwr yn defnyddio gormod o gof. Newidiwch i { -brand-name-firefox } heddiw am fwy o gyflymder.
 features-memory-less-memory-usage-than-chrome = Llai o ddefnydd o gof na { -brand-name-chrome }

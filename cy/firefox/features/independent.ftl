@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = Mae { -brand-name-firefox } yn ann
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Dim amodau
 # Obsolete string
-features-independent-firefox-is-built-by = Mae { -brand-name-firefox } yn cael ei adeiladu gan gorff dim-er-elw. Mae hynny'n golygu y gallwn wneud pethau nad oes mod i eraill eu gwneud, fel adeiladu cynnyrch a nodweddion newydd heb agenda gudd. Rydym yn hyrwyddo eich hawl i breifatrwydd gydag offer fel Pori Preifat gyda Diogelwch rhag Tracio.
+features-independent-firefox-is-built-by = Mae { -brand-name-firefox } yn cael ei adeiladu gan gorff dim-er-elw. Mae hynny'n golygu y gallwn wneud pethau nad oes mod i eraill eu gwneud, fel adeiladu cynnyrch a nodweddion newydd heb agenda gudd. Rydym yn hyrwyddo eich hawl i breifatrwydd gydag offer fel Pori Preifat gyda Diogelwch rhag Tracio sy'n mynd tu hwnt i beth mae { -brand-name-google } { -brand-name-chrome } a { -brand-name-microsoft }{ -brand-name-edge } yn ei gynnig.
 features-independent-what-you-see-is-what = Beth welwch yw beth gewch chi
 features-independent-we-believe-the-internet = Rydym yn credu fod y Rhyngrwyd ar gyfer pobl nid elw. Y wahanol i gwmnïau eraill fyddwn ni ddim yn gwerthu mynediad i'ch data. <em>Chi</em> sy'n rheoli pwy sy'n gweld eich hanes chwilio a phori. Dewis — dyna beth yw Rhyngrwyd iach!
 features-independent-a-browser-on-a-mission = Porwr ar genhadaeth
