@@ -13,7 +13,7 @@ firefox-enterprise-downloads = Letöltések
 firefox-enterprise-get-firefox-for-your-enterprise = Szerezze be a { -brand-name-firefox }ot vállalata számára
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Szerezze be a <a href="{ $url }">{ -brand-name-firefox-extended-support-release } vagy gyors kiadású</a> böngészőt az átfogó adatbiztonságért és adatvédelemért.
+firefox-enterprise-get-the-firefox-extended-support = Szerezze be a <a href="{ $url }">{ -brand-name-firefoxextended-support-release }t vagy a gyors kiadású</a> böngészőt az átfogó adatbiztonságért és adatvédelemért.
 firefox-enterprise-unmatched-data-protection = Páratlan adatvédelem – az Önnek megfelelő kiadási ütem mellett
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = A { -brand-name-firefox } böngésző nyílt forráskódú és továbbfejlesztett követésvédelmet kínál – az adatvédelem iránti hosszú távú elkötelezettségünk részeként.
