@@ -18,7 +18,7 @@ whatsnew79-secure-your-connection = Zabezpiecz swoje połączenie
 whatsnew79-with-one-tap-mozilla-vpn = Jednym stuknięciem { -brand-name-mozilla-vpn } zaszyfrowuje Twoje połączenie, aby Twoje działania w Internecie były prywatne w każdej sieci — schowane przed hakerami i innymi wścibskimi oczami.
 # CTA link
 whatsnew79-get-started = Zacznij teraz
-whatsnew79-get-more-control-over = Przejmij kontrolę nad elementami śledzącymi
+whatsnew79-get-more-control-over = Przejmij kontrolę nad elementami śledzącymi
 whatsnew79-firefox-blocks-more = { -brand-name-firefox } blokuje więcej reklamodawców i elementów śledzących Cię niż kiedykolwiek wcześniej.
 # CTA link
 whatsnew79-see-your-report = Wyświetl mój raport
