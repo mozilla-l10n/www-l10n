@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# Hero title
+features-index-firefox-features = { -brand-name-firefox } rembiapoite
+features-index-see-all = Ehecha opaite jepysokue
 features-index-open-source-minds = Ayvu ijurujáva. Temiandu ijurujáva.
 features-index-mozilla-creates = { -brand-name-mozilla } omoheñói ñanduti rembipurupyahu imbaretéva opavavépe g̃uarã.
 features-index-see-what-makes-us-different = Ehechamína mba’épa oremoambuéva
