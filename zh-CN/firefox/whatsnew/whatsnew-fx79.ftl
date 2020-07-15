@@ -7,8 +7,14 @@
 
 # HTML page title
 whatsnew79-page-title = { -brand-name-firefox } 的新变化
+# Main CTA button
+whatsnew79-primary-cta = 将 { -brand-name-firefox } 设为默认浏览器
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = 获取 { -brand-name-firefox } 应用
+whatsnew79-secure-your-connection = 安全地连接
+# CTA link
+whatsnew79-get-started = 开始使用
+whatsnew79-get-more-control-over = 更能控制跟踪器
 # CTA link
 whatsnew79-see-your-report = 查看您的报告
 whatsnew79-update-your-firefox = 更新您的 { -brand-name-firefox } 浏览器
