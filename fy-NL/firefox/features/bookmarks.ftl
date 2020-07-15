@@ -21,6 +21,7 @@ features-bookmarks-fly-with-that-bookmark = Ferpleats jo mei dy blêdwizer
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Nim jo favoriten mei jo mei. Brûk { -brand-name-firefox-sync } om jo blêdwizers op al jo apparaten te benaderjen, fan desktop oant mobyl. Of probearje <a href="{ $url }">{ -brand-name-pocket }</a> om in online artikel of side te bewarjen en letter te besjen – sels sûnder ynternet.
+features-bookmarks-customize-that-bookmark = Pas dy blêdwizer oan
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Belibje dy blêdwizer

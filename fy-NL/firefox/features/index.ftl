@@ -5,6 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Beskermje jo privacy en surf flugger mei { -brand-name-firefox }-funksjes
+# HTML page description
+features-index-youre-in-control-with-firefoxs = Jo hawwe de kontrôle mei { -brand-name-firefox }’ ienfâldich te brûken funksjes dy't jo privacy en surffaasjes beskermje.
+# Hero title
+features-index-firefox-features = { -brand-name-firefox }-funksjes
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } is de flugge, ljochtgewicht, op privacy rjochte browser dy't wurket op al jo apparaten.
 features-index-open-source-minds = Iepenboarne. Iepen geasten.
 features-index-mozilla-creates = { -brand-name-mozilla } makket krêftige webtechnology foar elkenien.
 features-index-see-what-makes-us-different = Besjoch wat ús oars makket
