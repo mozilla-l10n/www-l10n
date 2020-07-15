@@ -16,12 +16,14 @@ password-manager-password-hero = Ñe'ẽñemi ñangarekohaite
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ani nemandu’a ñepyrũjey rehe. Pe { -brand-name-firefox } ñe'ẽñemi ñangarekohára oñongatu opaite ñe'ẽñemi emoñepyrũ hag̃ua tembiapo ndejehegui térã ejuhu reiete hag̃ua ne ñe'ẽñemi ñongatupyre. Hekorosãve hag̃ua embojuaju <a href="{ $url }">ñe'ẽñemi ha’etéva</a> ne mohendahápe.
+password-manager-password-magician = Ñe’ẽñemi ikatupyrýva
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ñe'ẽñemi oikoitevéva
 password-manager-no-more-try-again = Anive “Eha’ã pyahujey” ejapótavo peteĩ mba’e. Emoñepyrũ tembiapo Firefox mba’ete pumbyry peguáva ha eguerekóta ne ñe'ẽñemi. Umi mba’emimi tembiapo ñepyrũ rehegua ojekuaáta.
+password-manager-password-champion = Ñe’ẽñemi ha’evéva
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Ñe'ẽñemi mbo’ehára
 # Obsolete string
 # Variables:
