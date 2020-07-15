@@ -22,6 +22,9 @@ password-manager-password-magician = Wachtwurdtsjoender
 password-manager-password-ninja = Wachtwurdninja
 password-manager-no-more-try-again = Net mear ‘opnij probearje’ wylst jo earne probearje te kommen. Meld jo oan by jo { -brand-name-firefox-account } op jo telefoan, en jo wachtwurden komme mei jo mei. Jo oanmeldingsgegevens wurde gewoan fansels sichtber.
 password-manager-password-champion = Wachtwurdkampioen
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Fertsjinje jo gouden medalje yn befeiliging mei it romme oanbod oan <a href="{ $addons }">Add-ons</a> foar wachtwurdbehear fan { -brand-name-firefox }. Kies ien fan de favoriten of sykje in nijen ien troch de beoardielingen fan eksperts en de mienskip.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Wachtwurdkampioen
