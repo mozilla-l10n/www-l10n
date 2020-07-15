@@ -19,6 +19,7 @@ whatsnew79-with-one-tap-mozilla-vpn = Z jednym podótkom { -brand-name-mozilla-v
 # CTA link
 whatsnew79-get-started = Prěnje kroki
 whatsnew79-get-more-control-over = Wjace kontrole nad přesćěhowakami
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } wjace wabjerjow a přesćěhowakow tomu zadźěwa, zo wam slěduja, hač hdy prjedy.
 # CTA link
 whatsnew79-see-your-report = Hlejće swoju rozprawu
 whatsnew79-update-your-firefox = Zaktualizujće swój wobhladowak { -brand-name-firefox }
