@@ -25,3 +25,10 @@ whatsnew79-see-your-report = Wyświetl mój raport
 whatsnew79-update-your-firefox = Uaktualnij przeglądarkę { -brand-name-firefox }
 whatsnew79-download-the-firefox = Pobierz przeglądarkę { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = Poznaj naszą obietnicę prywatności
+whatsnew79-take-less-keep-it-safe = Zachowujemy mniej danych, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic. Nasza działalność nie opiera się na potajemnym nadużywaniu Twojego zaufania.
+# CTA link
+whatsnew79-read-more = Więcej informacji
+whatsnew79-keep-facebook-contained = Odgrodź { -brand-name-facebook(case: "acc") }
+whatsnew79-get-the-power-to-prevent = Nie pozwól, aby { -brand-name-facebook } i { -brand-name-instagram } chodzili za Tobą w Internecie.
+# CTA link
+whatsnew79-add-facebook-container = Zainstaluj { -brand-name-facebook-container }
