@@ -36,4 +36,4 @@ whatsnew79-add-facebook-container = Додати { -brand-name-facebook-containe
 whatsnew79-get-firefox-on-your-phone = Отримати { -brand-name-firefox } на своєму телефоні
 whatsnew79-scan-the-qr-code = Скануйте QR-код, щоб почати завантаження
 # Accessible text replacement for a QR code image
-whatsnew79-qr-code-to-scan = Сканування QR-коду для отримання { -brand-name-firefox }
+whatsnew79-qr-code-to-scan = Сканувати QR-код для отримання { -brand-name-firefox }
