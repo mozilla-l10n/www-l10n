@@ -16,6 +16,12 @@ whatsnew79-secure-your-connection = Sécurisez votre connexion
 whatsnew79-with-one-tap-mozilla-vpn = En un seul clic, { -brand-name-mozilla-vpn } chiffre votre connexion pour que votre activité en ligne reste privée sur n’importe quel réseau, à l’abri des pirates et autres regards indiscrets.
 # CTA link
 whatsnew79-get-started = Lancez-vous
+whatsnew79-get-more-control-over = Obtenez plus de contrôle sur les traqueurs
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } n’a jamais bloqué autant d’annonceurs et de traqueurs pour vous.
+# CTA link
+whatsnew79-see-your-report = Consultez votre rapport
+whatsnew79-update-your-firefox = Mettre à jour votre navigateur { -brand-name-firefox }
+whatsnew79-download-the-firefox = Télécharger le navigateur { -brand-name-firefox }
 # CTA link
 whatsnew79-read-more = En savoir plus
 whatsnew79-keep-facebook-contained = Maintenez { -brand-name-facebook } à distance
