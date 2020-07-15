@@ -15,8 +15,11 @@ whatsnew79-primary-cta = { -brand-name-firefox }’u varsayılan yap
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = { -brand-name-firefox } uygulamasını indir
 whatsnew79-secure-your-connection = Bağlantınızı koruyun
+whatsnew79-with-one-tap-mozilla-vpn = { -brand-name-mozilla-vpn }, çevrimiçi etkinliklerinizi gizli tutmak için tek dokunuşla bağlantınızı şifreler. Böylece bilgisayar korsanlarından ve diğer meraklı gözlerden korunursunuz.
 # CTA link
 whatsnew79-get-started = Başlayın
+whatsnew79-get-more-control-over = Takipçiler üzerinde daha fazla kontrol
+whatsnew79-firefox-blocks-more = { -brand-name-firefox }, reklamcıların ve takip kodlarının sizi takip etmesini eskisinden de fazla engelleiyor.
 # CTA link
 whatsnew79-see-your-report = Raporumu göster
 whatsnew79-update-your-firefox = { -brand-name-firefox } tarayıcınızı güncelleyin
@@ -26,6 +29,7 @@ whatsnew79-take-less-keep-it-safe = Daha az veri topla. Güvenle sakla. Sır tut
 # CTA link
 whatsnew79-read-more = Devamını oku
 whatsnew79-keep-facebook-contained = { -brand-name-facebook }’u kafese atın
+whatsnew79-get-the-power-to-prevent = { -brand-name-facebook } ve { -brand-name-instagram } internette yaptıklarınızı izleyemesin.
 # CTA link
 whatsnew79-add-facebook-container = { -brand-name-facebook-container }’ı ekle
 # Modal title
