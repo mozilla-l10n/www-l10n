@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
+# HTML page title
+whatsnew79-page-title = Vad är nytt med { -brand-name-firefox }
 # Main CTA button
 whatsnew79-primary-cta = Gör { -brand-name-firefox } Standard
 # Fallback CTA button, shown if Firefox is already a user's default browser
@@ -17,6 +19,7 @@ whatsnew79-get-more-control-over = Få mer kontroll över spårare
 whatsnew79-see-your-report = Se din rapport
 whatsnew79-update-your-firefox = Uppdatera din { -brand-name-firefox } webbläsare
 whatsnew79-download-the-firefox = Ladda ner { -brand-name-firefox } webbläsaren
+whatsnew79-read-our-privacy-promise = Läs vår integritetslöfte
 # CTA link
 whatsnew79-read-more = Läs mer
 # CTA link
