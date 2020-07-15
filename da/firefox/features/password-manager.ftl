@@ -16,10 +16,12 @@ password-manager-password-hero = Adgangskode-helt
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Glem alt om at nulstille. Adgangskode-håndteringen i { -brand-name-firefox } gemmer alle dine adgangskoder, så du kan logge ind automatisk eller nemt finde gemte adgangskoder. Og for at gøre det ekstra sikkert kan du give din computer en <a href="{ $url }">hovedadgangskode</a>.
+password-manager-password-magician = Adgangskode-magiker
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Adgangskode-ninja
 password-manager-no-more-try-again = Ikke flere “Prøv igen”-beskeder, når du forsøger at komme ind på en side. Log på din { -brand-name-firefox-account } på din telefon, så følger dit brugernavn og din adgangskode med helt af sig selv.
+password-manager-password-champion = Adgangskode-mester
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Adgangskode-mester
