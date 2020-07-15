@@ -6,10 +6,20 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Last ned { -brand-name-firefox } for verksemda di med { -brand-name-esr } og Rapid Release
+firefox-enterprise-get-unmatched-data-protection = Få makelaust datasikring og ein utgivingsfrekvens som passar deg med { -brand-name-firefox } for virksomheter. Last ned { -brand-name-esr } og Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Oversyn
 firefox-enterprise-downloads = Nedlastingar
 firefox-enterprise-get-firefox-for-your-enterprise = Last ned { -brand-name-firefox } for verksemda di
+# Variables:
+#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = Last ned <a href="{ $url }">{ -brand-name-firefox-extended-support-release } eller Rapid Release</a> nettlesar for omfattande datasikkerheit og datsikring.
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox }-nettlesaren er open kjeldekode og tilbyr utvida sporingssikring — ein del av det mangeårige engasjement vårt for datasikring.
+firefox-enterprise-your-data-stays-your-business = Dine data blir verande hos deg
+firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og korleis du vil
+firefox-enterprise-with-install-packages-and = Med installasjonspakkar og ei omfattande samling av gruppepolicyar og funksjonar, er distribusjonen raskare og meir fleksibel enn nokon gong — både i { -brand-name-windows }- og { -brand-name-mac }-miljø.
+firefox-enterprise-choose-your-release-cadence = Vel utgivingsfrekvensen din
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-nedlastingar
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
