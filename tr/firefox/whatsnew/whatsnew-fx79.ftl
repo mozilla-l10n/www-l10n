@@ -19,7 +19,7 @@ whatsnew79-with-one-tap-mozilla-vpn = { -brand-name-mozilla-vpn }, çevrimiçi e
 # CTA link
 whatsnew79-get-started = Başlayın
 whatsnew79-get-more-control-over = Takipçiler üzerinde daha fazla kontrol
-whatsnew79-firefox-blocks-more = { -brand-name-firefox }, reklamcıların ve takip kodlarının sizi takip etmesini eskisinden de fazla engelleiyor.
+whatsnew79-firefox-blocks-more = { -brand-name-firefox }, reklamcıların ve takip kodlarının sizi takip etmesini eskisinden de fazla engelliyor.
 # CTA link
 whatsnew79-see-your-report = Raporumu göster
 whatsnew79-update-your-firefox = { -brand-name-firefox } tarayıcınızı güncelleyin
