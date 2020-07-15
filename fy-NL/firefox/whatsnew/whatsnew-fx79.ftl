@@ -9,9 +9,13 @@
 whatsnew79-page-title = Wat is der nij yn { -brand-name-firefox }
 # Main title
 whatsnew79-main-title = Hâld jo gegevens privee foar elkenien – ek foar ús
+whatsnew79-main-intro = It ynternet soe foar elkenien in feilich plak wêze moatte. Dêrom folget { -brand-name-firefox } jo net online en blokkearret ek dat oaren jo folgje.
+# Main CTA button
+whatsnew79-primary-cta = Meitsje { -brand-name-firefox } jo standert
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = { -brand-name-firefox } downloade
 whatsnew79-secure-your-connection = Befeiligje jo ferbining
+whatsnew79-with-one-tap-mozilla-vpn = Mei ien tik fersiferlt { -brand-name-mozilla-vpn } jo ferbining, om jo online aktiviteiten privee te hâlden op elk netwurk – feilich tsjin hackers en oare nijsgjirrige blikken.
 # CTA link
 whatsnew79-get-started = Oan de slach
 whatsnew79-get-more-control-over = Krij mear kontrôle oer trackers

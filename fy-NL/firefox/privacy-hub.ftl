@@ -62,13 +62,19 @@ firefox-privacy-hub-if-you-have-a-firefox-account = As jo in { -brand-name-firef
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Deistich wurde wrâldwiid mear as { $trackers } trackers foar { -brand-name-firefox }-brûkers blokkearre.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Wannear't jo jo e-mailadres ynfiere yn { -brand-name-firefox-monitor }, ferjitte wy it daliks neidat wy kontrolearre hawwe op in oerienkomst yn bekende datalekken – útsein as jo ús tastimming jaan om kontrolearje te bliuwen op nije datalekken fan jo persoanlike gegevens.
+firefox-privacy-hub-check-for-breaches = Kontrolearje op datalekken
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = De wachtwurden en oanmeldgegevens dy't jo bewarje yn { -brand-name-firefox-lockwise } wurde op al jo apparaten fersifere, dus sels wy kinne se net sjen.
 firefox-privacy-hub-learn-more-about-lockwise = Mear ynfo oer { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = We kinne de nammen of ynhâld fan de grutte bestannen dy't jo fia { -brand-name-firefox-send } diele net sjen, omdat se end-to-end fersifere wurde – jo kieze wa't sjocht wat jo ferstjoere en jo kinne sels in ferrindatum en in wachtwurd ynstelle.
 firefox-privacy-hub-send-a-file = In bestân ferstjoere
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekommandearret heechweardige, troch minsken behearde artikelen oan sûnder jo sneupskiednis te sammeljen of jo persoanlike gegevens mei advertearders te dielen.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } brûke
 firefox-privacy-hub-your-firefox-account = Jo { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Alle ynformaasje dy't syngronisearre wurdt fia jo { -brand-name-firefox-account } – fan navigaasjeskiednis oant wachtwurden – wurdt fersifere. En jo accountwachtwurd is de iennige kaai.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Nim jo privacy en blêdwizers oeral mei hinne mei in { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes

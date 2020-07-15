@@ -13,7 +13,10 @@ welcome-page8-firefox-automatically-protects = { -brand-name-firefox } beskermet
 welcome-page8-view-your-protection-report = Jo beskermingsrapport besjen
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Ferbettere beskerming tsjin folgjen
+welcome-page8-automatically-block-sites = Blokkearje automatysk dat websites jo folgje op it ynternet.
+welcome-page8-see-whats-blocked = Besjoch wat der blokkearre wurdt
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page8-see-what-youve-been = Untdek oft jo troffen binne troch bekende online datalekken en ûndernim aksje om se op te lossen.
 welcome-page8-go-to-monitor = Nei { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Diel grutte bestannen mei end-to-end fersifering, fia in keppeling dy't automatysk ferrint.
