@@ -13,3 +13,6 @@ features-shared-more-powerful-private-browsing = Kundahára ñemigua imbaretevé
 features-shared-ad-tracker-blocking = Ñemurã jejoko jehekaha ndive
 features-shared-password-manager = Ñe’ẽñemi ñangarekohára
 features-shared-customize-your-browser = Emomba’ete ne kundahára
+features-shared-sync-between-devices = Embojuehe mba’e’oka
+features-shared-better-bookmarks = Techaukaha iporãvéva
+brand-name-firefox = { -brand-name-firefox }
