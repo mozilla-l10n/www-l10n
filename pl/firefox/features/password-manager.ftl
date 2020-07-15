@@ -16,11 +16,15 @@ password-manager-password-hero = Hasłowe superbohaterstwo
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Zapomnij o zapominaniu haseł. Menedżer haseł { -brand-name-firefox(case: "gen") } zachowuje wszystkie Twoje hasła, umożliwiając szybkie automatyczne logowanie lub odnajdowanie zachowanych haseł. Dodatkowe bezpieczeństwo Twoich danych zapewnia <a href="{ $url }">hasło główne</a>.
-password-manager-password-magician = Hasłowy magik
+password-manager-password-magician = Hasłowa magia
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Hasłowe ninjutsu
 password-manager-no-more-try-again = Koniec komunikatów „spróbuj ponownie”, kiedy próbujesz się zalogować. Zaloguj się na { -brand-name-firefox-account(case: "loc", capitalization: "lower") } na swoim telefonie, a Twoje hasła podążą za tobą. Pojawią się dokładnie wtedy, kiedy ich potrzebujesz.
+password-manager-password-champion = Hasłowe mistrzostwo
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Zdobądź złoty medal bezpieczeństwa dzięki szerokiej gamie <a href="{ $addons }">dodatków</a> do menedżera haseł { -brand-name-firefox(case: "gen") }. Wybierz znane i lubiane rozwiązania lub rozszerz horyzonty dzięki ocenom i recenzjom społeczności użytkowników.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Hasłowe mistrzostwo
@@ -28,4 +32,4 @@ password-manager-password-master = Hasłowe mistrzostwo
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Zdobądź drugi czarny pas bezpieczeństwa dzięki szerokiej gamie <a href="{ $addons }">dodatków</a> do menedżera haseł Firefoksa. Wybierz znane i lubiane rozwiązania lub rozszerz horyzonty dzięki ocenom i recenzjom społeczności użytkowników.
+password-manager-earn-your-second = Zdobądź drugi czarny pas bezpieczeństwa dzięki szerokiej gamie <a href="{ $addons }">dodatków</a> do menedżera haseł { -brand-name-firefox(case: "gen") }. Wybierz znane i lubiane rozwiązania lub rozszerz horyzonty dzięki ocenom i recenzjom społeczności użytkowników.
