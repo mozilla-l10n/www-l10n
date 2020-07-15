@@ -28,6 +28,8 @@ whatsnew79-read-our-privacy-promise = Lees onze privacybelofte
 whatsnew79-take-less-keep-it-safe = Neem minder. Hou het veilig. Geen geheimen. Ons bedrijf is niet afhankelijk van het stiekem misbruiken van uw vertrouwen.
 # CTA link
 whatsnew79-read-more = Meer info
+whatsnew79-keep-facebook-contained = Houd { -brand-name-facebook } onder controle
+whatsnew79-get-the-power-to-prevent = Krijg de kracht om te voorkomen dat { -brand-name-facebook } en { -brand-name-instagram } u volgen op internet.
 # CTA link
 whatsnew79-add-facebook-container = Voeg { -brand-name-facebook-container } toe
 # Modal title
