@@ -12,7 +12,7 @@ features-memory-is-your-computer-slow-your = Czy twój komputer jest zbyt wolny?
 features-memory-less-memory-usage-than-chrome = Mniejsze zużycie pamięci niż { -brand-name-chrome }
 features-memory-if-your-web-browser-uses = Jeśli Twoja przeglądarka zużywa za dużo pamięci, przejdź na { -brand-name-firefox(case: "acc") }.
 features-memory-speed-up-your-computer = Przyspiesz swój komputer
-features-memory-every-computer-program-you = Każdy uruchomiony program na komputerze zużywa część dostępnej pamięci. Jeśli jej zużycie jest zbyt wielkie, Twój komputer zwoooooooooooolni. { -brand-name-firefox } oferuje równowagę — zużywa dość pamięci, aby umożliwić wygodne przeglądanie, pozostawiając mnóstwo wolnej pamięci dla reszty potrzeb Twojego komputera.
+features-memory-every-computer-program-you = Każdy uruchomiony program na komputerze zużywa część dostępnej pamięci. Jeśli jej zużycie jest zbyt wielkie, Twój komputer zwoooooooooooolni. { -brand-name-firefox } oferuje równowagę — używa dość pamięci, aby umożliwić wygodne przeglądanie, pozostawiając mnóstwo wolnej pamięci dla reszty potrzeb Twojego komputera.
 features-memory-stop-running-out-of-memory = Koniec z problemami z pamięcią (komputera)
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/

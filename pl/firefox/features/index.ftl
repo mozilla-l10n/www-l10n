@@ -13,3 +13,14 @@ features-index-youre-in-control-with-firefoxs = Masz pełną kontrolę nad prywa
 features-index-firefox-features = Możliwości { -brand-name-firefox(case: "gen") }
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } to szybka, lekka i prywatna przeglądarka działająca na wszystkich Twoich urządzeniach.
+features-index-add-powerful-functions = Dodaj zaawansowane funkcje, przydatne gadżety, a nawet trochę zabawy do swojej przeglądarki { -brand-name-firefox }.
+features-index-see-all = Zobacz wszystkie rozszerzenia
+features-index-give-your-browser = Nadaj przeglądarce odpowiedni wygląd dzięki tysiącom różnych motywów.
+features-index-important-stuff = Upewnij się, że wszystkie ważne rzeczy — wyszukiwania w Internecie, hasła, otwarte karty — są tam, gdzie ich potrzebujesz na każdym urządzeniu.
+features-index-get-an-account = Utwórz { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
+features-index-use-the-bookmark = Używaj ikony gwiazdki, aby zachować porządek i szybko zmieniać nazwy i dodawać foldery.
+features-index-from-the-company = Od firmy, która stawia ludzi przed zyskiem
+features-index-private-browsing-mode = Tryb prywatny usuwa ciasteczka i historię przeglądania przy każdym zamknięciu.
+features-index-firefox-automatically = { -brand-name-firefox } automatycznie blokuje ponad 2000 reklam śledzących Cię w Internecie.
+features-index-access-all-passwords = { -brand-name-firefox-lockwise } daje Ci dostęp do wszystkich haseł zachowanych w { -brand-name-firefox(case: "loc") } — i jest za darmo.
+features-index-just-enough = { -brand-name-firefox } używa tylko tyle pamięci, aby zapewnić wygodne przeglądanie, dzięki czemu komputer może błyskawicznie realizować inne zadania.
