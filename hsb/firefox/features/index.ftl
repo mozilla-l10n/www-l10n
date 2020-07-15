@@ -11,9 +11,14 @@ features-index-protect-your-privacy-and-browse = Škitajće swoju priwatnosć a 
 features-index-youre-in-control-with-firefoxs = Maće kontrolu nad lochko wužiwajomnymi funkcijemi { -brand-name-firefox }, kotrež wašu priwatnosć škitaja a nad spěšnosću přehladowanja.
 # Hero title
 features-index-firefox-features = Funkcije { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } je spěšny, lochki wobhladowak z fokusom na priwatnosć, kotryž na wšěch wašich gratach funguje.
+features-index-add-powerful-functions = Přidajće swojemu wobhladowakej { -brand-name-firefox } mócne funkcije, wužitne funkcije a samo trochu wjesela.
 features-index-see-all = Wšě rozšěrjenja pokazać
 features-index-give-your-browser = Dajće swojemu wobhladowakej požadane zwonkowne z tysacami rozdźělnych drastow.
+features-index-important-stuff = Zawěsćće, zo so wšě waše wažne daty – internetne pytanja, hesła, wočinjene rajtarki – tam jewja, hdźež je na kóždym graće trjebaće.
 features-index-get-an-account = Wobstarajće sej { -brand-name-firefox-account }
+features-index-use-the-bookmark = Wužiwajće hwěžku zapołožkow, zo byšće organizowany wostał a přidajće spěšnje swójske mjena a rjadowaki.
 features-index-from-the-company = Wot předewzaća, kotrež ludźi před profit staja
 features-index-private-browsing-mode = Priwatny modus plackowe daty a wašu historiju přehladowanja zhašaa, kóždy raz, hdyž jón začinjeće.
 features-index-firefox-automatically = { -brand-name-firefox } awtomatisce tomu zadźěwa, zo přez 2000 wabjenskich přesćěhowakow wam po interneće slěduje.
