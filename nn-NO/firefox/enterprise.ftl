@@ -20,6 +20,7 @@ firefox-enterprise-your-data-stays-your-business = Dine data blir verande hos de
 firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og korleis du vil
 firefox-enterprise-with-install-packages-and = Med installasjonspakkar og ei omfattande samling av gruppepolicyar og funksjonar, er distribusjonen raskare og meir fleksibel enn nokon gong — både i { -brand-name-windows }- og { -brand-name-mac }-miljø.
 firefox-enterprise-choose-your-release-cadence = Vel utgivingsfrekvensen din
+firefox-enterprise-get-rapid-releases-to-make = Få raske utgivingar for å sikre at du får dei nyaste funksjonene raskare, eller bruk utvida for å sikre ei superstabil oppleving.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-nedlastingar
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
