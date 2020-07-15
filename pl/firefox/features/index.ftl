@@ -24,3 +24,7 @@ features-index-private-browsing-mode = Tryb prywatny usuwa ciasteczka i histori
 features-index-firefox-automatically = { -brand-name-firefox } automatycznie blokuje ponad 2000 reklam śledzących Cię w Internecie.
 features-index-access-all-passwords = { -brand-name-firefox-lockwise } daje Ci dostęp do wszystkich haseł zachowanych w { -brand-name-firefox(case: "loc") } — i jest za darmo.
 features-index-just-enough = { -brand-name-firefox } używa tylko tyle pamięci, aby zapewnić wygodne przeglądanie, dzięki czemu komputer może błyskawicznie realizować inne zadania.
+features-index-use-less-memory = { -brand-name-firefox } używa mniej pamięci niż { -brand-name-chrome }, więc pozostałe programy mogą działać pełną parą.
+features-index-open-source-minds = Otwarte źródło. Otwarte umysły.
+features-index-mozilla-creates = { -brand-name-mozilla } tworzy potężne technologie internetowe dla każdego.
+features-index-see-what-makes-us-different = Zobacz, co nas wyróżnia
