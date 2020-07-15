@@ -42,3 +42,6 @@ firefox-enterprise-documentation-and-community = Dokumentasjon og støtte frå f
 firefox-enterprise-sample-plist-for-configuration = Døme <a href="{ $url }">plist-fil for konfigurasjonsprofil</a>
 firefox-enterprise-pkg-installer = PKG-installasjonsprogram
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = Last ned { -brand-name-firefox-esr } eller Rapid Release på <br><a href="{ $firefox_all }">eit anna språk eller for ei anna plattform.</a>
