@@ -27,7 +27,7 @@ firefox-enterprise-windows-64-bit = { -brand-name-windows } (64‑bitowy)
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Wybierz, co pobrać
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = Przeglądarka { -brand-name-firefox } – instalator MSI
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – instalator MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – instalator MSI
 firefox-enterprise-support = Pomoc
@@ -45,4 +45,4 @@ firefox-enterprise-pkg-installer = Instalator PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32‑bitowy)
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
-firefox-enterprise-download-firefox-esr-or-rapid = Pobierz Firefoksa ESR lub Rapid Release dla<br> <a href="{ $firefox_all }">innego języka lub systemu</a>.
+firefox-enterprise-download-firefox-esr-or-rapid = Pobierz { -brand-name-firefox-esr(case: "acc") } lub Rapid Release dla<br> <a href="{ $firefox_all }">innego języka lub systemu</a>.
