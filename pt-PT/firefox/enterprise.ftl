@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Obtenha o { -brand-name-firefox } para a sua empresa com { -brand-name-esr } e Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Obtenha uma proteção de dados incomparável com a cadência de lançamento adequada para si, com o { -brand-name-firefox } para empresas. Transfira { -brand-name-esr } e Rapid Release.
-firefox-enterprise-enterprise = Empresa
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Visão geral
 firefox-enterprise-downloads = Transferências
 firefox-enterprise-get-firefox-for-your-enterprise = Obter o { -brand-name-firefox } para a sua empresa
@@ -22,12 +22,12 @@ firefox-enterprise-deploy-when-and-how-you-want = Distribua quando e como quiser
 firefox-enterprise-with-install-packages-and = Com pacotes de instalação e uma ampla expansão de políticas e funcionalidades de grupo, a distribuição é mais rápida e flexível do que nunca — e muito fácil em ambientes { -brand-name-windows } e { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Escolha a sua cadência de lançamento
 firefox-enterprise-get-rapid-releases-to-make = Obtenha lançamentos rápidos para garantir que obtêm as funcionalidades mais recentes com mais rapidez, ou escolha estendido para garantir uma experiência super estável.
-firefox-enterprise-enterprise-downloads = Transferências para empresas
+firefox-enterprise-enterprise-downloads = Transferências para o { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Selecione a sua transferência
-firefox-enterprise-firefox-browser = Navegador { -brand-name-firefox }
-firefox-enterprise-firefox-browser-msi-installer = Navegador { -brand-name-firefox } - Instalador MSI
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Instalador MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Instalador MSI
 firefox-enterprise-support = Apoio

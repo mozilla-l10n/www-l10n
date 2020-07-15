@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Navegador Firefox: Rápido, gestor fácil de palavras-passe
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Gestor de palavras-passe, fácil e rápido
 # HTML page description
 password-manager-firefox-password = O Gestor de palavras-passe do { -brand-name-firefox } guarda todas as suas palavras-passe num único lugar para que possa iniciar sessão automaticamente em sites, ou recuperar palavras-passe guardadas.
 # Hero title
@@ -19,12 +19,12 @@ password-manager-forget-the-reset = Esqueça a reposição. O Gestor de palavras
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja de palavras-passe
-password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto está a tentar chegar a algum lugar. Inicie sessão na sua Conta Firefox no seu telemóvel, e as suas palavras-passe vêm consigo. Os seus detalhes de início de sessão irão simplesmente aparecer, assim mesmo.
+password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto está a tentar chegar a algum sítio. Inicie sessão na sua { -brand-name-firefox-account } no seu telemóvel e as suas palavras-passe vêm consigo. Os seus detalhes de início de sessão irão simplesmente aparecer, sem ser necessário mais nada.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mestre de palavras-passe
 # Obsolete string
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Ganhe o seu segundo cinturão preto de segurança com a vasta gama de <a href="{ $addons }">extras</a> gestores de palavras-passe. Escolha um favorito existente ou encontre um de nível acima através de avaliações e análises de especialistas.
+password-manager-earn-your-second = Ganhe o seu segundo cinturão preto de segurança com a vasta gama de <a href="{ $addons }">extras</a> para gestão de palavras-passe do { -brand-name-firefox }. Escolha um favorito existente ou encontre um de próximo nível através de avaliações e análises de especialistas.
