@@ -16,10 +16,12 @@ password-manager-password-hero = Wachtwurdheld
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ferjit opnij ynstellen. De wachtwurdenbehearder fan { -brand-name-firefox } bewarret al jo wachtwurden, sadat jo jo automatysk oanmelde kinne of ienfâldich bewarre wachtwurden fine kinne. Foar ekstreme befeiliging kinne jo jo kompjûter in <a href="{ $url }">haadwachtwurd</a> jaan.
+password-manager-password-magician = Wachtwurdtsjoender
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Wachtwurdninja
 password-manager-no-more-try-again = Net mear ‘opnij probearje’ wylst jo earne probearje te kommen. Meld jo oan by jo { -brand-name-firefox-account } op jo telefoan, en jo wachtwurden komme mei jo mei. Jo oanmeldingsgegevens wurde gewoan fansels sichtber.
+password-manager-password-champion = Wachtwurdkampioen
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Wachtwurdkampioen
