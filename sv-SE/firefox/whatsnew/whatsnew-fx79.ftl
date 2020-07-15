@@ -28,6 +28,7 @@ whatsnew79-read-our-privacy-promise = Läs vår integritetslöfte
 whatsnew79-take-less-keep-it-safe = Ta mindre. Håll det säkert. Inga hemligheter. Vår affärsmodell är inte beroende på att i hemlighet missbruka ditt förtroende.
 # CTA link
 whatsnew79-read-more = Läs mer
+whatsnew79-keep-facebook-contained = Behåll { -brand-name-facebook } begränsad.
 whatsnew79-get-the-power-to-prevent = Få möjligheten att att hindra { -brand-name-facebook } och { -brand-name-instagram } från att spåra dig online.
 # CTA link
 whatsnew79-add-facebook-container = Lägg till { -brand-name-facebook-container }
