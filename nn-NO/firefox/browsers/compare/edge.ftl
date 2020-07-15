@@ -11,6 +11,7 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } mot { -br
 compare-edge-compare-microsoft-edge-to-the = Samanlikn { -brand-name-microsoft } { -brand-name-edge } med { -brand-name-firefox-browser } for å finne ut kva for ein som er den beste nettlesaren for deg.
 # Main title.
 compare-edge-comparing-firefox-browser-with = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-with-windows-10-microsoft-introduced = Med { -brand-name-windows } 10 introduserte { -brand-name-microsoft } sin { -brand-name-edge }-nettlesar for å konkurrere med { -brand-name-firefox } og { -brand-name-chrome } noko som gjer han til standardnettlesar førehandsinstallert på millionar av selde PC-ar. Trass i dette, var brukarane trege til å ta han i bruk og { -brand-name-microsoft } kunngjorde til slutt planear om å relansere { -brand-name-edge } som ein { -brand-name-chromium }-basert nettlesar (der { -brand-name-chromium } sjølvsagt er { -brand-name-google } sit nettlesarprosjekt basert på open kjeldekode).
 compare-edge-here-well-compare-our-firefox = Her samanliknar vi { -brand-name-firefox-browser } med den { -brand-name-chromium }-baserte { -brand-name-microsoft } { -brand-name-edge } når det gjeld personvern, nytte og portabilitet, for å hjelpe deg med å få ei betre forståing av kva for ein nettleser som passar best til dine behov og preferansar.
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
