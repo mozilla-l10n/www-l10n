@@ -8,3 +8,8 @@
 features-shared-a-better-internet-experience = Tembiapo iporãvéva ñandutípe
 features-shared-browse-faster = Eikundaha pya’eve
 features-shared-your-favorite-extensions = Ne moĩmbaha ehayhuvéva
+features-shared-balanced-memory = Mandu’arenda ijojáva
+features-shared-more-powerful-private-browsing = Kundahára ñemigua imbaretevéva
+features-shared-ad-tracker-blocking = Ñemurã jejoko jehekaha ndive
+features-shared-password-manager = Ñe’ẽñemi ñangarekohára
+features-shared-customize-your-browser = Emomba’ete ne kundahára

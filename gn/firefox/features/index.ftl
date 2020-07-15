@@ -8,6 +8,8 @@
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } rembiapoite
 features-index-see-all = Ehecha opaite jepysokue
+features-index-give-your-browser = Eme’ẽ ne kundahárape eipotaháicha hetaiterei téma iñambuéva.
+features-index-get-an-account = Eguereko { -brand-name-firefox-account }
 features-index-open-source-minds = Ayvu ijurujáva. Temiandu ijurujáva.
 features-index-mozilla-creates = { -brand-name-mozilla } omoheñói ñanduti rembipurupyahu imbaretéva opavavépe g̃uarã.
 features-index-see-what-makes-us-different = Ehechamína mba’épa oremoambuéva
