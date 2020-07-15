@@ -18,3 +18,4 @@ features-index-opted-in-to-privacy-so-you = Ñemigua poravorã eikundaha hag̃ua
 features-index-read-our-privacy-policy = Emoñe’ẽ ore rekoñemi purureko
 features-index-private-by-default = Hekoñemi ijypykue rupi
 features-index-enhanced-tracking = Tapykueho mo’ãha iporãvéva
+features-index-we-dont-sell-access-to-your = Norohepyme’ẽi ne mba’ekuaarã ñandutiguávape jeike. Kyta.
