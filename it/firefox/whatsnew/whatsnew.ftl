@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
 
-whatsnew-page-title = Ecco le novità di{ -brand-name-firefox } - Più privacy e più protezioni.
+whatsnew-page-title = Ecco le novità di { -brand-name-firefox } - Più privacy e più protezioni.
 whatsnew-page-description = Prendi posizione contro un’industria che guadagna sulla vendita dei tuoi dati a terze parti. Naviga in modo intelligente e sicuro con una tecnologia che si batte per i tuoi interessi.
 whatsnew-up-to-date-notification = Congratulazioni Stai utilizzando la versione più recente di { -brand-name-firefox-browser }.
 whatsnew-out-of-date-notification = La versione più recente di { -brand-name-firefox-browser } è disponibile. Riavvia per aggiornare.
