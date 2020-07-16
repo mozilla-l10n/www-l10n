@@ -25,6 +25,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } hrez
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ḥrez</strong> tudert-ik·im tabaḍnit deg yal afaris
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ n yineḍfaren ttusweḥlen — s wudem awurman
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Aḍfar srid yuɣal d aṭṭan: tikebbaniyin ṭṭafarent yal ambiwel, ttsitint rnant ttaɣent, leqqḍent isefka akken ad ẓrent rnu ad zedderzent ayen ara txedmeḍ ɣer sdat. Akken nettwali, tagi d takerḍa meqqren n tbaḍnit-ik·im. Γef waya iminigen { -brand-name-firefox } n uziraz d tnarit deg-sen ammesten n tudert tabaḍnit iǧehden yettwarmeden s wudem amezwer.
 firefox-privacy-hub-see-what-firefox-has-blocked = Wali acu { -brand-name-firefox } i ak/am-isewḥel
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Faṛes ammesten mgal aḍfar yettwasǧehden
