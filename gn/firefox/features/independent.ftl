@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = { -brand-name-firefox } ijehegui h
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Oñe’ẽme’ẽ’ỹre
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } omoheñói peteĩ atyguasu viru’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapokuaa’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembipiru kundahára ñemigua rapykuere mo’ãha ndive.
+features-independent-firefox-is-built-by = { -brand-name-firefox } omoheñói peteĩ atyguasu viru’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapokuaa’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembipiru kundahára ñemigua rapykuere mo’ãha ome’ẽkuaáva { -brand-name-google } { -brand-name-chrome } ha { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Eguerekóta ehecháva
 features-independent-we-believe-the-internet = Roguerovia ñanduti ha’eha opavavépe g̃uarã, ndaha’éi virurã añogua. Ojapo’ỹva ambue atyguasu, norohepyme’ẽi nde mba’ekuaarã. <em>Ndete</em> ema’ẽta mávapa ohecha nde jeheka ha ne kundaha rembiasakue. ¡Jeporavo, kóva hína ha’e ñanduti hesãiva!
 features-independent-a-browser-on-a-mission = Peteĩ kundaha tembipotápe

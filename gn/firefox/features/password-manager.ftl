@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox kundaha: Ñe'ẽñemi ñangarekoha hasy’ỹ ha ipya’éva
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Ñe’ẽñemi ñangarekoha hasy’ỹ ha ipya’éva
 # HTML page description
 password-manager-firefox-password = Pe { -brand-name-firefox } ñe'ẽñemi ñangarekohára oñongatu opaite ñe'ẽñemi peteĩ tendápe eñepyrũ hag̃ua ne rembiapo umi ñandutirenda ijeheguitáva térã oguerujey ñe'ẽñemi ñongatupyre.
 # Hero title
@@ -20,7 +20,7 @@ password-manager-password-magician = Ñe’ẽñemi ikatupyrýva
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ñe'ẽñemi oikoitevéva
-password-manager-no-more-try-again = Anive “Eha’ã pyahujey” ejapótavo peteĩ mba’e. Emoñepyrũ tembiapo Firefox mba’ete pumbyry peguáva ha eguerekóta ne ñe'ẽñemi. Umi mba’emimi tembiapo ñepyrũ rehegua ojekuaáta.
+password-manager-no-more-try-again = Anive “eha’ã pyahujey” ejapótavo peteĩ mba’e. Emoñepyrũ tembiapo { -brand-name-firefox-account } pumbyry peguávape, ha eguerekóta ne ñe’ẽñemi sapy'aitépe. Umi terachaukaha ehecháta pya’eterei ne renondépe.
 password-manager-password-champion = Ñe’ẽñemi ha’evéva
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject

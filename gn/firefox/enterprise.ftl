@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Ereko { -brand-name-firefox } ne mba’apohaguasúpe { -brand-name-esr } ha Rapid Release ndive
 firefox-enterprise-get-unmatched-data-protection = Ereko mba’ekuaarã ñemo’ã ijojaha’ỹva mbohekopyahu meme eikotevẽva { -brand-name-firefox } ndive mba’apohaguasúpe g̃uarã. Emboguejy { -brand-name-esr } ha Rapid Release.
-firefox-enterprise-enterprise = Mba’apohaguasu
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Jehechapa
 firefox-enterprise-downloads = Ñemboguejy
 firefox-enterprise-get-firefox-for-your-enterprise = Ereko { -brand-name-firefox } ne mba’apohaguasúpe g̃uarã
@@ -22,12 +22,12 @@ firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháich
 firefox-enterprise-with-install-packages-and = Ñemohenda hetaguáva ha avei peteĩ purureko iñasãiva ha tembiapoite atyguáva, pe ñemoinge ipya’eve ha hu’ũ araka’eve oĩ’ỹvaicha — ha ndahasyiete { -brand-name-windows } ha { -brand-name-mac } jerére.
 firefox-enterprise-choose-your-release-cadence = Eiporavo mba’éicha emombóta
 firefox-enterprise-get-rapid-releases-to-make = Ereko Rapid Release eguerukuaa hag̃ua tembiapoite ipyahuvéva ha ipya’éva, térã ESR emba’apokuaa hag̃ua nde eipotaháicha.
-firefox-enterprise-enterprise-downloads = Mba’apogua ñemboguejy
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ñemboguejy
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Eiporavo ne ñemboguejy
-firefox-enterprise-firefox-browser = { -brand-name-firefox } kundahára
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox } kundahára - MSI mohendaha
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI mohendaha
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI mohendaha
 firefox-enterprise-support = Pytyvõha

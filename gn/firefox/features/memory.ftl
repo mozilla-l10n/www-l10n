@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox kundaha: eipuru mandu’arenda michĩve, embopya’eve
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Eipuru mandu’arenda michĩve, embopya’eve
 # HTML page description
 features-memory-is-your-computer-slow-your = ¿Ne mohendaha imbegue? Ne kundaha ikatu hína oipurueterei mandu’arenda. Eipuru { -brand-name-firefox } ipya’eve hag̃ua ndéve.
 features-memory-less-memory-usage-than-chrome = Oipuru sa’ive mandu’arenda { -brand-name-chrome }-gui

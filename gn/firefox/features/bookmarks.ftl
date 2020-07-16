@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox kundaha: Techaukaha iporãvéva rehohápe
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Techaukaha iporãvéva rehohápe
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Embyaty hasy’ỹ hag̃uáicha ne rechaukaha ñongatuhápe ha eike opaite ne mba’e’oka rupive, nde PC térã ne pumbyry popegua guive.
 features-bookmarks-better-bookmarks = Techaukaha iporãvéva
