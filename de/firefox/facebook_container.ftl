@@ -6,13 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } für { -brand-name-firefox } | Verbirgt vor { -brand-name-facebook }, welche Websites Sie besuchen.
-facebook-container-millions-of-people-around = Besser digital leben – mit { -brand-name-firefox }. Und der Facebook Container Erweiterung. Damit was außerhalb von Facebook passiert auch außerhalb von Facebook bleibt. Jetzt downloaden!
+facebook-container-millions-of-people-around = Millionen von Menschen auf der ganzen Welt vertrauen dem { -brand-name-firefox }-Internet-Browser auf { -brand-name-android }, { -brand-name-ios } und Desktop-Computern. Schnell. Privat. Jetzt herunterladen!
 facebook-container-facebook-well-contained-keep = Pack { -brand-name-facebook } in den Container. Für mehr Privatleben außerhalb des sozialen Netzwerks.
 facebook-container-get-the-facebook-container = Jetzt { -brand-name-facebook-container } Erweiterung downloaden
-facebook-container-download-firefox-and-get-the = Jetzt { -brand-name-facebook-container } Erweiterung downloaden
+facebook-container-download-firefox-and-get-the = Laden Sie { -brand-name-firefox } herunter und holen Sie sich die Erweiterung { -brand-name-facebook-container }
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ist für Mobilgeräte nicht verfügbar.
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Wie wärs mit <strong>Firefox Klar</strong>? Dein Browser mit Privatsphäre-Schutz. Für { -brand-name-android } und { -brand-name-ios }.
+facebook-container-try-firefox-focus-the-privacy = Wie wärs mit <strong>{ -brand-name-firefox-focus }</strong>? Dein Browser mit Privatsphäre-Schutz. Für { -brand-name-android } und { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Schön befreiend
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
