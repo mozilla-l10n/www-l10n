@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/products/
 
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-desktop = Burev
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Roit ur chomlec'h postel talvoudek mar plij
 newsletter-form-your-email-here = HO POSTEL AMAÑ
 newsletter-form-format = Mentrezh
 newsletter-form-html = HTML
