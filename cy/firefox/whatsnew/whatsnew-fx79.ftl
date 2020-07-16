@@ -24,3 +24,14 @@ whatsnew79-firefox-blocks-more = Mae { -brand-name-firefox } yn rhwystro mwy o h
 whatsnew79-see-your-report = Gweler eich Adroddiad
 whatsnew79-update-your-firefox = Diweddarwch eich porwr { -brand-name-firefox }
 whatsnew79-download-the-firefox = Llwythwch y porwr { -brand-name-firefox } i lawr
+whatsnew79-read-our-privacy-promise = Darllenwch ein Addewid Preifatrwydd
+whatsnew79-take-less-keep-it-safe = Cymryd llai. Ei gadw'n ddiogel. Dim cyfrinachau. Nid yw ein busnes yn dibynnu ar gam-drin yn dawel fach eich ymddiriedaeth.
+# CTA link
+whatsnew79-read-more = Darllen Rhagor
+whatsnew79-keep-facebook-contained = Cyfyngu { -brand-name-facebook }
+whatsnew79-get-the-power-to-prevent = Sicrhewch y grym i atal { -brand-name-facebook } a { -brand-name-instagram } rhag eich tracio o amgylch y we.
+# CTA link
+whatsnew79-add-facebook-container = Ychwanegu { -brand-name-facebook-container }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Gosod { -brand-name-firefox } ar eich Ffôn
+whatsnew79-scan-the-qr-code = Sganiwch y cod QR i gychwyn arni
