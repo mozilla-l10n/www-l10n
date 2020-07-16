@@ -5,5 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
+# HTML page title
+whatsnew79-page-title = ¿Mba’e oĩ ipyahúva { -brand-name-firefox } ndive?
+whatsnew79-secure-your-connection = Emohekorosã nde jeike
 # CTA link
 whatsnew79-read-more = Emoñe’ẽve
