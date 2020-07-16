@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Download { -brand-name-firefox } voor uw onderneming met { -brand-name-esr } en Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Verkrijg ongeëvenaarde gegevensbescherming op de uitgavefrequentie die bij u past met { -brand-name-firefox } voor ondernemingen. Download { -brand-name-esr } en Rapid Release.
-firefox-enterprise-enterprise = Ondernemingen
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Overzicht
 firefox-enterprise-downloads = Downloads
 firefox-enterprise-get-firefox-for-your-enterprise = Download { -brand-name-firefox } voor uw onderneming
@@ -22,12 +22,12 @@ firefox-enterprise-deploy-when-and-how-you-want = Implementeer wanneer en hoe u 
 firefox-enterprise-with-install-packages-and = Met installatiepakketten en een breed aanbod van groepsbeleid en -functies is de implementatie sneller en flexibeler dan ooit – en een fluitje van een cent in { -brand-name-windows }- en { -brand-name-mac }-omgevingen.
 firefox-enterprise-choose-your-release-cadence = Kies uw uitgavefrequentie
 firefox-enterprise-get-rapid-releases-to-make = Download snelle uitgaven om er zeker van te zijn dat u de nieuwste functies sneller ontvangt, of kies voor uitgebreid voor een superstabiele ervaring.
-firefox-enterprise-enterprise-downloads = Downloads voor ondernemingen
+firefox-enterprise-enterprise-downloads = Downloads voor { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bits
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Selecteer uw download
-firefox-enterprise-firefox-browser = { -brand-name-firefox }-browser
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox }-browser – MSI-installatieprogramma
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI-installatieprogramma
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI-installatieprogramma
 firefox-enterprise-support = Ondersteuning
