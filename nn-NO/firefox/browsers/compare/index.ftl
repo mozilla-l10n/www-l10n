@@ -13,6 +13,7 @@ compare-index-privacy-utility-portability = Personvern. Nytte. Portabilitet.
 # HTML page description
 compare-index-a-great-internet-browser-should = Ein god nettlesar bør ha funksjonaliteten du treng, portabilitet mellom einingar og det personvernet du fortener.
 compare-index-which-browser-is-best-at-keeping = Kva for nettlesar er best på å halde ting konfidensielle?
+compare-index-its-not-unreasonable-to-expect = Det er ikkje urimeleg å forvente eit høgt nivå av datasikring og personvern frå produkta vi regelmessig brukar for å kome på nettet. Som eit minimum bør ein nettlesar tilby ein versjon av «privat nettlesingsmodus» som automatisk slettar historikken og søkjehistorikken slik at andre brukarar på same datamaskin ikkje får tilgang til den. På dette området får alle sju nettlesarane poeng.
 compare-index-what-you-do-online-literally = Det du gjer på nettet handlar berre om deg og ingen andre.
 compare-index-another-browser-feature-that = Ein annan naturleg nettlesarfunksjon bør vere moglegheita til å hindre nettstadar og selskap i å spore data om surfing og netthandel — sjølv i vanleg nettlesingsmodus.
 compare-index-what-has-your-browser-done = Kva har nettlesaren din gjort for deg i det siste?
