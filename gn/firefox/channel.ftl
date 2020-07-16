@@ -27,7 +27,7 @@ firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ha’e jehech
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } omondo marandu ijehegui { -brand-name-mozilla }-pe.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
-firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Eremi oréve ne remimo'ã</a> eipytyvõ hag̃ua ñemoĩporã reko paha oikoite ha omba'apoha jeregua rekopytápe.
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Eremi oréve ne remimo’ã</a> eipytyvõ hag̃ua ñemoĩporã reko paha oikoite ha omba’apoha jeregua rekopytápe.
 firefox-channel-check-out-new-android-features = Ehechajey mba’e pyahu { -brand-name-android } pegua ojejaporamovépe. Eipuru nde kyhyjepópe.
 firefox-channel-nightly-blog = { -brand-name-nightly } reheguaite
 # Variables:

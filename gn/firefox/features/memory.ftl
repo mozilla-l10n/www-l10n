@@ -21,4 +21,4 @@ features-memory-browse-faster-privately = Eikundaha pya’eve ha ñemiguávape
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
 # "Decluttering" means reducing clutter
-features-memory-explore-the-web-faster-with = Ehapykueho ñanduti pya’eve <a href="{ $url }">{ -brand-name-firefox } kundaha ñemigua ndive</a>. { -brand-name-firefox } ñemigua reko oguereko tapykuere mo'ãha ojokóva ñemurã. Umi tenda ñemohendapyre henehẽ pya’eve.
+features-memory-explore-the-web-faster-with = Ehapykueho ñanduti pya’eve <a href="{ $url }">{ -brand-name-firefox } kundaha ñemigua ndive</a>. { -brand-name-firefox } ñemigua reko oguereko tapykuere mo’ãha ojokóva ñemurã. Umi tenda ñemohendapyre henehẽ pya’eve.
