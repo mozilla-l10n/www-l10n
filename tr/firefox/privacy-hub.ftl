@@ -40,6 +40,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } her 
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } her üründe gizliliğinizi <strong>korur</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000’den fazla izleyiciyi otomatik olarak engelliyoruz
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = İzleme çevrimiçi bir salgın haline geldi: şirketler her hareketi, tıklamayı ve satın alma işlemini takip ediyor, bir sonraki adımda ne yapacağınızı tahmin etmek ve etkilemek için veri topluyor. Bunun gizliliğinize büyük bir saldırı olduğunu düşünüyoruz. Bu nedenle { -brand-name-firefox } mobil ve masaüstü tarayıcılarında varsayılan olarak Gelişmiş İzlenme Koruması vardır.
 firefox-privacy-hub-if-you-want-to-see-what = { -brand-name-firefox }’un neleri engellediğini görmek isterseniz masaüstü { -brand-name-firefox } tarayıcınızda bu sayfayı ziyaret edin.
 firefox-privacy-hub-see-what-firefox-has-blocked = { -brand-name-firefox }’un sizin için neleri engellediğini görün
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
