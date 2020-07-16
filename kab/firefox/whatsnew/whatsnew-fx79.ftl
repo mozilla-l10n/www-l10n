@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
+# HTML page title
+whatsnew79-page-title = D acu n umaynut d { -brand-name-firefox }
 # CTA link
 whatsnew79-add-facebook-container = Rnu { -brand-name-facebook-container }
 # Modal title
