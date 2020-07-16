@@ -23,6 +23,7 @@ whatsnew79-get-more-control-over = Awi ugar n usenqed ɣef yineḍfaren
 whatsnew79-see-your-report = Wali aneqqis-ik·im
 whatsnew79-update-your-firefox = Leqqem iminig-inek·inem { -brand-name-firefox }
 whatsnew79-download-the-firefox = Sider iminig { -brand-name-firefox }
+whatsnew79-read-our-privacy-promise = Γer lweεd-nneɣ ɣef uqader n tudert tabaḍnit
 # CTA link
 whatsnew79-read-more = Issin ugar
 # CTA link
