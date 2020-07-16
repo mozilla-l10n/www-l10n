@@ -25,9 +25,11 @@ whatsnew79-see-your-report = Glejśo swóju rozpšawu
 whatsnew79-update-your-firefox = Aktualizěrujśo swój wobglědowak { -brand-name-firefox }
 whatsnew79-download-the-firefox = Wobglědowak { -brand-name-firefox } ześěgnuś
 whatsnew79-read-our-privacy-promise = Cytajśo našo zlubjenje priwatnosći
+whatsnew79-take-less-keep-it-safe = Gromaźimy mjenjej. Źaržymy to wěste. Njamamy žedne pótajmstwa. My wašu dowěru kšajźu njeznjewužywamy.
 # CTA link
 whatsnew79-read-more = Dalšne informacije
 whatsnew79-keep-facebook-contained = Źaržćo { -brand-name-facebook } pód kontrolu
+whatsnew79-get-the-power-to-prevent = Zajźujśo tomu, až { -brand-name-facebook } a { -brand-name-instagram } wam pó webje slědujotej.
 # CTA link
 whatsnew79-add-facebook-container = { -brand-name-facebook-container } pśidaś
 # Modal title
