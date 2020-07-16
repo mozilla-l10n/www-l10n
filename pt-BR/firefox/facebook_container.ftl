@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = Contêiner { -brand-name-facebook } para o { -brand-name-firefox } | Previne o { -brand-name-facebook } de ver quais sites você visita.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } para o { -brand-name-firefox } | Impede que o { -brand-name-facebook } veja quais sites você visita.
 facebook-container-millions-of-people-around = Milhões de pessoas ao redor do mundo confiam no { -brand-name-firefox } para { -brand-name-android }, { -brand-name-ios } e desktop. Rápido. Privativo. Baixe agora!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Controlado. Mantenha o resto da sua vida para você mesmo.
 facebook-container-get-the-facebook-container = Instale a extensão { -brand-name-facebook-container }
