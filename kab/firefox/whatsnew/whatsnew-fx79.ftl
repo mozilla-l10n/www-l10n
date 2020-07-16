@@ -18,6 +18,13 @@ whatsnew79-secure-your-connection = Err tuqqna-ik·im d taɣelsant
 whatsnew79-with-one-tap-mozilla-vpn = S yiwennusiti kan, { -brand-name-mozilla-vpn } ad iwgelhen tuqqna-ik·im akken armud-inek·inem srid ad teqqim d tusligt ɣef yal azeṭṭa — d aɣelsan mgal ineḍfaren d yir wallen tuffirin.
 # CTA link
 whatsnew79-get-started = Aha ad bdu
+whatsnew79-get-more-control-over = Awi ugar n usenqed ɣef yineḍfaren
+# CTA link
+whatsnew79-see-your-report = Wali aneqqis-ik·im
+whatsnew79-update-your-firefox = Leqqem iminig-inek·inem { -brand-name-firefox }
+whatsnew79-download-the-firefox = Sider iminig { -brand-name-firefox }
+# CTA link
+whatsnew79-read-more = Issin ugar
 # CTA link
 whatsnew79-add-facebook-container = Rnu { -brand-name-facebook-container }
 # Modal title
