@@ -40,17 +40,24 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } her 
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } her üründe gizliliğinizi <strong>korur</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000’den fazla izleyiciyi otomatik olarak engelliyoruz
+firefox-privacy-hub-if-you-want-to-see-what = { -brand-name-firefox }’un neleri engellediğini görmek isterseniz masaüstü { -brand-name-firefox } tarayıcınızda bu sayfayı ziyaret edin.
 firefox-privacy-hub-see-what-firefox-has-blocked = { -brand-name-firefox }’un sizin için neleri engellediğini görün
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Gelişmiş İzlenme Koruması’nı edinin
 firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } tarayıcısını indirin
 firefox-privacy-hub-update-your-firefox-browser = { -brand-name-firefox } tarayıcınızı güncelleyin
+firefox-privacy-hub-meet-four-of-the-most-common = Sizi takip edemeyecek dört takipçi kategorisiyle tanışın.
 firefox-privacy-hub-always-in-your-control = Her zaman kontrolünüz altında
+firefox-privacy-hub-want-to-customize-what = Engellenenleri özelleştirmek mi istiyorsunuz? Ayarlarınız yalnızca bir tık uzağınızda.
 firefox-privacy-hub-protection-beyond-tracking = İzlemenin ötesinde koruma
 firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account } hesabınız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } kullanıcıları için her gün en az { $trackers } takipçiyi engelliyoruz
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = İhlalleri kontrol edin
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = { -brand-name-firefox-lockwise }’a kaydettiğiniz parolalar ve hesap bilgileri tüm cihazlarınızda şifrelenir, böylece onları biz bile göremeyiz.
 firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Dosya gönderin
