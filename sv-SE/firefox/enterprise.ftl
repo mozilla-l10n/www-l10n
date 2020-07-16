@@ -13,7 +13,7 @@ firefox-enterprise-downloads = Hämtningar
 firefox-enterprise-get-firefox-for-your-enterprise = Hämta { -brand-name-firefox } till ditt företag
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Hämta webbläsaren <a href="{ $url }">Firefox Extended Support eller tidig utgåva</a> för omfattande datasäkerhet och dataskydd.
+firefox-enterprise-get-the-firefox-extended-support = Hämta <a href="{ $url }"> { -brand-name-firefox-extended-support-release } eller tidig utgåva<</a> webbläsaren för omfattande datasäkerhet och dataskydd.
 firefox-enterprise-unmatched-data-protection = Få ett oöverträffat dataskydd — med utgåvor som släpps i en rytm som passar din organisation.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Webbläsaren { -brand-name-firefox } har öppen källkod och ger ett förbättrat spårningsskydd — allt är en del av vårt långvariga engagemang för dataskydd.
