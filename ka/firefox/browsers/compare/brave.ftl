@@ -25,3 +25,8 @@ compare-brave-whether-this-sounds-complicated = ეს ზედმეტი ს
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = მეორე მხრივ, { -brand-name-firefox }-ბრაუზერში, ჩვენ ვამჯობინებთ ყველაფერი გაცილებით მარტივად იყოს. { -brand-name-firefox } ზღუდავს გარეშე მხარის უმეტეს მეთვალყურეს, კრიპტოგამომმუშავებელს და მომხმარებლის ამომცნობს ნაგულისხმევად. თუმცაღა, { -brand-name-firefox }, პირადი ფანჯრების მიღმა, არ კრძალავს რეკლამების გამოჩენას. ასე იქნება, თუ არ დაამატებთ <a { $attrs }>შესაბამისი დანიშნულების რომელიმე ამგვარ გაფართოებას</a>.
+# Variables:
+#   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
+#   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
+#   $privacy (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-brave-there-are-a-few-of-braves = უსაფრთხოების რამდენიმე აღსანიშნავი შესაძლებლობითაცაა აღჭურვილი { -brand-name-brave }, ასეთია თუნდაც HTTPS-კავშირზე ავტომატური გადასვლა (რომელსაც, აგრეთვე გთავაზობთ { -brand-name-firefox } <a { $extension }>გაფართოების</a> მეშვეობით). { -brand-name-brave } და { -brand-name-firefox } ორივე სთავაზობს მომხმარებელს <a { $lockwise }>პაროლების ჩაშენებულ მმართველს</a> და დაცვის მაჩვენებლების შემოწმების საშუალებას. { -brand-name-brave } ანახებს სტატისტიკას შეზღუდული მეთვალყურებისას ყოველი ახალი ჩანართის გახსნისას. { -brand-name-firefox } კი ამ მონაცემებს ათავსებს <a { $privacy }>პირადულობის დაცვის ანგარიშის</a> გვერდზე, რომელთან წვდომაც ნებისმიერ დროს შეიძლება ფარის ნიშანზე დაჭერით, მისამართების ველში.
