@@ -9,6 +9,15 @@
 whatsnew79-page-title = D acu n umaynut d { -brand-name-firefox }
 # Main title
 whatsnew79-main-title = Ḥrez isefka-inek·inem uslige ɣef yal yiwen – ula fell-aɣ nekkni
+whatsnew79-main-intro = Internet ilaq ad tili d adeg aɣelsan i medden akk. Γef waya { -brand-name-firefox } ur ak·akem-yeṭṭafar ara srid yerna isseḥbas ula d wiyaḍ ur ak·akem-ṭṭafaren ara.
+# Main CTA button
+whatsnew79-primary-cta = Err { -brand-name-firefox } d amezwer
+# Fallback CTA button, shown if Firefox is already a user's default browser
+whatsnew79-fallback-cta = Awi asnas { -brand-name-firefox }
+whatsnew79-secure-your-connection = Err tuqqna-ik·im d taɣelsant
+whatsnew79-with-one-tap-mozilla-vpn = S yiwennusiti kan, { -brand-name-mozilla-vpn } ad iwgelhen tuqqna-ik·im akken armud-inek·inem srid ad teqqim d tusligt ɣef yal azeṭṭa — d aɣelsan mgal ineḍfaren d yir wallen tuffirin.
+# CTA link
+whatsnew79-get-started = Aha ad bdu
 # CTA link
 whatsnew79-add-facebook-container = Rnu { -brand-name-facebook-container }
 # Modal title
