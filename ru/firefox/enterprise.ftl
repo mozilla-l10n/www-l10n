@@ -7,13 +7,13 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Загрузите { -brand-name-firefox } { -brand-name-esr } или версию с регулярными выпусками для вашей организации
 firefox-enterprise-get-unmatched-data-protection = Получите непревзойдённую защиту данных с периодичностью обновлений, которая наиболее подходит вашему корпоративному { -brand-name-firefox }. Загрузите { -brand-name-esr } или версию с регулярными выпусками.
-firefox-enterprise-enterprise = Для организаций
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Обзор
 firefox-enterprise-downloads = Загрузки
 firefox-enterprise-get-firefox-for-your-enterprise = Загрузите { -brand-name-firefox } для вашей организации
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Загрузите браузер <a href="{ $url }">Firefox с длительной поддержкой или регулярными выпусками</a> для комплексной безопасности и защиты данных.
+firefox-enterprise-get-the-firefox-extended-support = Загрузите браузер <a href="{ $url }">{ -brand-name-firefox-extended-support-release } или Регулярный выпуск</a> для комплексной безопасности и защиты данных.
 firefox-enterprise-unmatched-data-protection = Непревзойдённая защита данных — с периодичностью обновлений, которая наиболее вам подходит
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } — браузер с открытым исходным кодом и улучшенной защитой от отслеживания — все это является частью нашей давней приверженности защите данных.
@@ -22,14 +22,14 @@ firefox-enterprise-deploy-when-and-how-you-want = Разворачивайте, 
 firefox-enterprise-with-install-packages-and = С помощью установочных пакетов и расширенных групповых политик и функций, развёртывание проходит быстрее и гибче, чем когда-либо раньше — и невероятно легко в { -brand-name-windows } и { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Выберите вашу частоту обновлений
 firefox-enterprise-get-rapid-releases-to-make = Получайте регулярные выпуски и новейшие функции быстрее, или выберите выпуск с длительной поддержкой для обеспечения максимально стабильной работы.
-firefox-enterprise-enterprise-downloads = Корпоративные загрузки
+firefox-enterprise-enterprise-downloads = Загрузки { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = 64-битная { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Выберите ваш выпуск
-firefox-enterprise-firefox-browser = Браузер { -brand-name-firefox }
-firefox-enterprise-firefox-browser-msi-installer = Браузер { -brand-name-firefox } - MSI установщик
-firefox-enterprise-firefox-extended-support-release = Firefox с длительной поддержкой ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = Firefox с длительной поддержкой ({ -brand-name-esr }) - MSI установщик
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser(case: "nominative_uppercase") } - MSI установщик
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI установщик
 firefox-enterprise-support = Поддержка
 firefox-enterprise-msi-installers = MSI установщики
 firefox-enterprise-legacy-browser-support = Поддержка устаревших браузеров
