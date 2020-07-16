@@ -12,7 +12,7 @@ facebook-container-get-the-facebook-container = Wobstarajśo se rozšyrjenje { -
 facebook-container-download-firefox-and-get-the = Ześěgniśo { -brand-name-firefox } a wobstarajśo se rozšyrjenje { -brand-name-facebook-container }
 facebook-container-the-facebook-container-extension = Rozšyrjenje { -brand-name-facebook-container } njejo k dispoziciji za mobilne rědy.
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Wužywajśo <strong>Firefox Klar</strong>, wobglědowak priwatnosći za { -brand-name-android } a { -brand-name-ios }.
+facebook-container-try-firefox-focus-the-privacy = Wužywajśo <strong>{ -brand-name-firefox-focus }</strong>, wobglědowak priwatnosći za { -brand-name-android } a { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Wotpokazanje pód wašymi wuměnjenjami
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

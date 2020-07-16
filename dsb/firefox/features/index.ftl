@@ -11,6 +11,8 @@ features-index-protect-your-privacy-and-browse = Šćitajśo swóju priwatnosć 
 features-index-youre-in-control-with-firefoxs = Maśo kontrolu nad lažko wužywajobnymi funkcijami { -brand-name-firefox }, kótarež wašu priwatnosć šćitaju a nad malsnosću pśeglědowanja.
 # Hero title
 features-index-firefox-features = Funkcije { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } jo malsny, lažki wobhlědowak z fokusom na priwatnosć, kótaryž na wšych wašych rědach funkcioněrujo.
 features-index-see-all = Wšykne rozšyrjenja pokazaś
 features-index-give-your-browser = Dajśo swójomu wobglědowakoju pominane wuglědanje z tysacami rozdźělnych drastwow.
 features-index-get-an-account = Wobstarajśo se { -brand-name-firefox-account }
