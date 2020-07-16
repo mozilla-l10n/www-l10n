@@ -21,7 +21,7 @@ whatsnew79-get-started = Cychwyn Arni
 whatsnew79-get-more-control-over = Cael mwy o reolaeth dros dracwyr
 whatsnew79-firefox-blocks-more = Mae { -brand-name-firefox } yn rhwystro mwy o hysbysebwyr a thracwyr rhag eich dilyn o gwmpas nag erioed o'r blaen.
 # CTA link
-whatsnew79-see-your-report = Gweler eich Adroddiad
+whatsnew79-see-your-report = Gweld eich Adroddiad
 whatsnew79-update-your-firefox = Diweddarwch eich porwr { -brand-name-firefox }
 whatsnew79-download-the-firefox = Llwythwch y porwr { -brand-name-firefox } i lawr
 whatsnew79-read-our-privacy-promise = Darllenwch ein Addewid Preifatrwydd
