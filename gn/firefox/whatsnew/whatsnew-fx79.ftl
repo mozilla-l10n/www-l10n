@@ -7,6 +7,15 @@
 
 # HTML page title
 whatsnew79-page-title = ¿Mba’e oĩ ipyahúva { -brand-name-firefox } ndive?
+# Fallback CTA button, shown if Firefox is already a user's default browser
+whatsnew79-fallback-cta = Ereko { -brand-name-firefox } rembipuru’i
 whatsnew79-secure-your-connection = Emohekorosã nde jeike
+# CTA link
+whatsnew79-get-started = Eñepyrũ
+whatsnew79-get-more-control-over = Ema’ẽag̃ui tapykuehoháre
+# CTA link
+whatsnew79-see-your-report = Ehecha ne Marandu’i
+whatsnew79-update-your-firefox = Embohekopyahu ne kundahára { -brand-name-firefox }
+whatsnew79-download-the-firefox = Emboguejy ne kundahára { -brand-name-firefox }
 # CTA link
 whatsnew79-read-more = Emoñe’ẽve
