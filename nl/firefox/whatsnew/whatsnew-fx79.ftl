@@ -19,7 +19,7 @@ whatsnew79-with-one-tap-mozilla-vpn = Met een tik versleutelt { -brand-name-mozi
 # CTA link
 whatsnew79-get-started = Aan de slag
 whatsnew79-get-more-control-over = Krijg meer controle over trackers
-whatsnew79-firefox-blocks-more = { -brand-name-firefox } houdt volgen door meer adverteerders en trackers dan ooit tevoren tegen.
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } houdt volgen door meer adverteerders en trackers dan ooit tegen.
 # CTA link
 whatsnew79-see-your-report = Uw rapport bekijken
 whatsnew79-update-your-firefox = Werk uw { -brand-name-firefox }-browser bij
