@@ -5,19 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-enterprise = Kurumsal
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Genel Bakış
 firefox-enterprise-downloads = İndirmeler
 firefox-enterprise-get-firefox-for-your-enterprise = İşletmeniz için { -brand-name-firefox }'u edinin
 firefox-enterprise-deploy-when-and-how-you-want = İstediğiniz zaman, istediğiniz şekilde dağıtın
-firefox-enterprise-enterprise-downloads = Kurumsal indirmeler
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } indirmeleri
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = İndirmenizi seçin
-firefox-enterprise-firefox-browser = { -brand-name-firefox } tarayıcısı
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox } tarayıcısı - MSI yükleyici
-firefox-enterprise-firefox-extended-support-release = Firefox Genişletilmiş Destek Sürümü ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = Firefox Genişletilmiş Destek Sürümü ({ -brand-name-esr }) - MSI yükleyici
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI yükleyici
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI yükleyici
 firefox-enterprise-support = Destek
 firefox-enterprise-msi-installers = MSI yükleyiciler
 firefox-enterprise-legacy-browser-support = Eski tarayıcı desteği
