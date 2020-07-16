@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox браузері: Жылдам, оңай парольдер басқарушысы
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Жылдам, оңай парольдер басқарушысы
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } парольдер басқарушысы сіз сайттарға автоматты түрде кіре алатындай, немесе сақталған парольдерді көре алатындай, барлық парольдеріңізді бір жерде сақтайды.
 # Hero title
@@ -17,5 +17,5 @@ password-manager-password-hero = Парольдер батыры
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Парольдер ниндзясы
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Парольдер шебері

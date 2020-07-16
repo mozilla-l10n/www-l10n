@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox браузері: азырақ жадыны қолданып, көбірек жылдамдықты алу
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: азырақ жадыны қолданып, көбірек жылдамдықты алу
 # HTML page description
 features-memory-is-your-computer-slow-your = Компьютеріңіз баяу ма? Браузеріңіз тым көп жады қолдануы мүмкін. Көбірек жылдамдық үшін бүгін-ақ { -brand-name-firefox } браузеріне көшіңіз.
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome } браузерінен азырақ жады қолданады

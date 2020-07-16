@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox браузері: жақсырақ бетбелгілер, қайда барсаңыз да
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: жақсырақ бетбелгілер, қайда барсаңыз да
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Бетбелгілеріңізді оңай түрде бумаларға реттеп, оларға жұмыс үстелі және мобильді құрылғыларыңыздан қатынаңыз.
 features-bookmarks-better-bookmarks = Жақсырақ бетбелгілер
