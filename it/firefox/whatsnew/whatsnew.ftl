@@ -11,4 +11,4 @@ whatsnew-up-to-date-notification = Congratulazioni Stai utilizzando la versione 
 whatsnew-out-of-date-notification = La versione più recente di { -brand-name-firefox-browser } è disponibile. Riavvia per aggiornare.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Leggi le<a href="{ $url }">note della versione</a> per scoprire tutte le novità del tuo browser{ -brand-name-firefox }.
+whatsnew-release-notes = Leggi le <a href="{ $url }">note della versione</a> per scoprire tutte le novità del tuo browser { -brand-name-firefox }.
