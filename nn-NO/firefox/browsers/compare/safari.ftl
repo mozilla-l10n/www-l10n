@@ -33,6 +33,10 @@ compare-safari-in-addition-to-the-regular = I tillegg til det vanlege settet med
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Som { -brand-name-safari }, oppfordrar { -brand-name-firefox } det entusiastiske utviklarmiljøet til å lage <a { $attrs }>tillegg og utvidingar</a> til nettlesaren. Og sidan plattforma vår er open kjeldekode, er det eit stort utval som tilbyr ei rekkje funksjonar.
 # Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for = Når du registrerer deg for ein { -brand-name-firefox }-konto, får du tilgang til unike tenester som <a { $pocket }>{ -brand-name-pocket }</a> og <a { $send }>{ -brand-name-send }</a> som vert integrert direkte i nettlesaren. { -brand-name-pocket }-knappen  for { -brand-name-firefox } lèt deg lagre nettsider og videoar på { -brand-name-pocket } med berre eitt klikk, slik at du kan lese ein rein, distraheringsfri versjon når og kvar du vil — også når du er fråkopla. Med { -brand-name-send } kan du dele store filer med ende-til-ende-kryptering med ei rekkje sikkerheitskontrollar, til dømes moglegheita til å spesifisere når ei fillenke skal gå ut, kor mange nedlastingar, og om du vil, leggje til eit valfritt passord for ekstra sikkerheit.
+# Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
 compare-safari-screenshots-is-another-popular = <a >Screenshots</a> er ein annan populær funksjon innebygd i { -brand-name-firefox }-nettlesaren, slik at du enkelt kan ta eit bilde av skjermen. Når du tar eit skjermbilde, kan du velje å kopiere fila eller velje kva for ei mappe du vil lagre henne i, i staden for å rote til på skrivebordet.
