@@ -12,14 +12,17 @@ whatsnew79-main-intro = האינטרנט צריך להיות מקום בטוח �
 whatsnew79-primary-cta = הגדרת { -brand-name-firefox } כברירת מחדל
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = קבלת היישומון { -brand-name-firefox }
+whatsnew79-with-one-tap-mozilla-vpn = בלחיצה אחת, החיבור שלך יוצפן על־ידי { -brand-name-mozilla-vpn } כדי שהפעילות המקוונת תהיה לעיניך בלבד, בכל רשת שהיא, הרחק מידיהם ומעיניהם של גורמים זדוניים.
 # CTA link
 whatsnew79-get-started = תחילת עבודה
 whatsnew79-get-more-control-over = קבלת שליטה מרובה יותר על רכיבי מעקב
+whatsnew79-firefox-blocks-more = ‏{ -brand-name-firefox } מגן עליך מפני מעקב של חברות ורכיבי פרסום יותר מאי פעם.
 # CTA link
 whatsnew79-see-your-report = הצגת הדוח שלך
 whatsnew79-update-your-firefox = עדכון דפדפן ה־{ -brand-name-firefox } שלך
 whatsnew79-download-the-firefox = הורדת הדפדפן { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = קריאת הבטחת הפרטיות שלנו
+whatsnew79-take-less-keep-it-safe = לוקחים פחות. מגנים בקפידה. ללא סודות. העסקים שלנו לא תלויים בניצול חשאי של האמון שלך.
 # CTA link
 whatsnew79-read-more = מידע נוסף
 whatsnew79-keep-facebook-contained = לשמור את { -brand-name-facebook } בבידוד
