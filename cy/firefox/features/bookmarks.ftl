@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Symud gyda'r nod tudalen
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Ewch â'ch ffefrynnau gyda chi wrth deithio. Defnyddiwch { -brand-name-firefox-sync } i gael mynediad i'ch nodau tudalen ar draws eich holl dyfeisiadau, o'r bwrdd gwaith i'r symudol. Neu defnyddiwch <a href="{ $url }">{ -brand-name-pocket }</a> i gadw unrhyw erthygl ar-lein neu dudalen a dod nôl ati yn nes ymlaen - heb y Rhyngrwyd hyd yn oed.
+features-bookmarks-customize-that-bookmark = Cyfaddaswch y nod tudalen hwnnw
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Chwarae gyda nodau tudalen
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Arferwch eich manylder gyda phob <a href="%(url)s">ychwanegyn</a> rheoli nodau tudalen, fedrwch feddwl amdano, o luniau sgrin tudalen llawn i fariau ochr newid cyflym i nodau tudalen preifat wedi eu cloi'n dynn.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

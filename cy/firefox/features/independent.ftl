@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebel gydag
 features-independent-firefox-is-independent = Mae { -brand-name-firefox } yn annibynnol ac yn rhan o { -brand-name-mozilla } dim-er-elw, sy'n ymgyrchu dros eich hawliau ar-lein, cadw grymoedd corfforaethau y eu lle ac yn gwneud y Rhyngrwyd yn agored ar gyfer pawb, ymhob man.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Dim amodau
+features-independent-firefox-is-built-by-v2 = Mae { -brand-name-firefox } yn cael ei adeiladu gan gorff dim-er-elw. Mae hynny'n golygu y gallwn wneud pethau nad oes mod i eraill eu gwneud, fel adeiladu cynnyrch a nodweddion newydd heb agenda gudd. Rydym yn hyrwyddo eich hawl i breifatrwydd gydag offer fel Pori Preifat gyda Diogelwch rhag Tracio.
 # Obsolete string
 features-independent-firefox-is-built-by = Mae { -brand-name-firefox } yn cael ei adeiladu gan gorff dim-er-elw. Mae hynny'n golygu y gallwn wneud pethau nad oes mod i eraill eu gwneud, fel adeiladu cynnyrch a nodweddion newydd heb agenda gudd. Rydym yn hyrwyddo eich hawl i breifatrwydd gydag offer fel Pori Preifat gyda Diogelwch rhag Tracio sy'n mynd tu hwnt i beth mae { -brand-name-google } { -brand-name-chrome } a { -brand-name-microsoft }{ -brand-name-edge } yn ei gynnig.
 features-independent-what-you-see-is-what = Beth welwch yw beth gewch chi

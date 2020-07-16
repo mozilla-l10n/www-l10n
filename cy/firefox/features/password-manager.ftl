@@ -16,10 +16,12 @@ password-manager-password-hero = Arwr cyfrineiriau
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Anghofiwch ailosod cyfrineiriau. Mae Rheolwr Cyfrineiriau { -brand-name-firefox } yn cadw eich holl gyfrineiriau fel bod modd i chi fewngofnodi'n awtomatig neu ganfod cyfrineiriau wedi eu cadw'n hawdd. Am ddiogelwch uwch, rhowch <a href="{ $url }">brif gyfrinair</a> i'ch cyfrifiadur.
+password-manager-password-magician = Dewin cyfrineiriau
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Pencampwr cyfrineiriau
 password-manager-no-more-try-again = Dim mwy o “geisio eto” wrth geisio mynd i rywle. Mewngofnodwch i'ch { -brand-name-firefox-account } ar eich ffôn a bydd unrhyw gyfrinair yn eich dilyn. Bydd eich manylion mewngofnodi yn ymddangos yn ddi-lol
+password-manager-password-champion = Pencampwr cyfrineiriau
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Prif gyfrinair

@@ -35,3 +35,5 @@ whatsnew79-add-facebook-container = Ychwanegu { -brand-name-facebook-container }
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Gosod { -brand-name-firefox } ar eich Ffôn
 whatsnew79-scan-the-qr-code = Sganiwch y cod QR i gychwyn arni
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = Y cod QR i'w sganio i gael { -brand-name-firefox }

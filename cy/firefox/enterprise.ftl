@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Mynnwch { -brand-name-firefox } ar gyfer eich menter gydag { -brand-name-esr } a Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Cewch ddiogelwch data heb ei ail gydag amlder ryddhau sy'n addas i chi gyda { -brand-name-firefox } ar gyfer menter. Llwythwch i lawr { -brand-name-esr } a Rapid Release.
-firefox-enterprise-enterprise = Menter
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Trosolwg
 firefox-enterprise-downloads = Pecynnau
 firefox-enterprise-get-firefox-for-your-enterprise = { -brand-name-firefox } ar gyfer Menter
@@ -22,12 +22,12 @@ firefox-enterprise-deploy-when-and-how-you-want = Darparu bryd a sut bynnag sy'n
 firefox-enterprise-with-install-packages-and = Gyda phecynnau gosod a dewis eang o bolisïau a nodweddion grŵp, mae'r ddarpariaeth yn gynt ac yn fwy hyblyg nag erioed - mae'n arbennig o rwydd mewn amgylcheddau { -brand-name-windows } a { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Dewis eich llwybr ryddhau
 firefox-enterprise-get-rapid-releases-to-make = Defnyddiwch lwybr ryddhau cyflym er mwyn cael y nodweddion diweddaraf yn gynt, neu lwybr estynedig i sicrhau profiad mwy sefydlog.
-firefox-enterprise-enterprise-downloads = Pecynnau Menter
+firefox-enterprise-enterprise-downloads = Pecynnau { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-did
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Dewis...
-firefox-enterprise-firefox-browser = { -brand-name-firefox } Browser
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox } Browser - gosodwr MSI
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - gosodwr MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - gosodwr MSI
 firefox-enterprise-support = Cefnogaeth
