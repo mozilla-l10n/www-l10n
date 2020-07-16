@@ -7,6 +7,8 @@
 
 # HTML page title
 whatsnew79-page-title = D acu n umaynut d { -brand-name-firefox }
+# Main title
+whatsnew79-main-title = Ḥrez isefka-inek·inem uslige ɣef yal yiwen – ula fell-aɣ nekkni
 # CTA link
 whatsnew79-add-facebook-container = Rnu { -brand-name-facebook-container }
 # Modal title
