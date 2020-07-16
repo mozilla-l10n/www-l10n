@@ -19,12 +19,18 @@ firefox-channel-download-and-test-the-latest-android = הורדה ובדיקה �
 firefox-channel-try-the-latest-android-features = בדקו את התכונות החדישות ביותר עבור { -brand-name-android }, לפני שהן מופצות לעולם.
 firefox-channel-all-languages-and-platforms = כל השפות והפלטפורמות
 firefox-channel-all-languages-and-builds = כל השפות והבניות
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-beta-is-an-unstable-testing = ‏{ -brand-name-beta } היא פלטפורמת פיתוח ובדיקה שאינה יציבה. כברירת מחדל, { -brand-name-beta } שולחת נתונים אל { -brand-name-mozilla } — ולעיתים גם לשותפים שלנו — כדי לסייע לנו לטפל בבעיות ולנסות רעיונות חדשים. <a href="{ $link }">מידע נוסף על מה שמשותף</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">שלחו אלינו משוב</a> ועזרו לנו להשלים את ההתאמות הסופיות הנדרשות לפונקציונליות והביצועים בסביבה היציבה.
 firefox-channel-check-out-new-android-features = בדקו תכונות חדשות בגרסת הדפדפן ל־{ -brand-name-android } לפני כולם. ההנאה על אחריותכם בלבד.
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-nightly-is-an-unstable-testing = ‏‏{ -brand-name-nightly } היא פלטפורמת פיתוח ובדיקה שאינה יציבה. כברירת מחדל, { -brand-name-nightly } שולחת נתונים אל { -brand-name-mozilla } — ולעיתים גם לשותפים שלנו — כדי לסייע לנו לטפל בבעיות ולנסות רעיונות חדשים. <a href="{ $link }">מידע נוסף על מה שמשותף</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 firefox-channel-try-new-browser-features = התנסות בתכונות חדשות במהדורות טרום הפצה | { -brand-name-firefox }
 firefox-channel-download-and-test-the-latest-desktop = הורדה ובדיקת התכונות החדישות ביותר של { -brand-name-firefox } לשולחן העבודה, ב{ -brand-name-developer-edition(case: "the") }, { -brand-name-beta } ובגרסאות { -brand-name-nightly }.

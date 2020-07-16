@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise = { -brand-name-enterprise }
+firefox-enterprise-downloads = הורדות
+firefox-enterprise-get-firefox-for-your-enterprise = קבלת { -brand-name-firefox } לארגון שלך
+firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
 firefox-enterprise-macos = { -brand-name-mac }
