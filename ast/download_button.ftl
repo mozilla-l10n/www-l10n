@@ -17,7 +17,7 @@ download-button-recommended = Aconséyase
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } yá nun forne anovamientos de seguranza pa { -brand-name-firefox } en { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }</a> pero entá pues baxar la versión final de 32-bits.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Sigui <a href="{ $url }">estes instrucciones</a> pa instalar { -brand-name-firefox }.
+download-button-please-follow-these = Sigui <a href="{ $url }">estes instrucciones</a> pa instalar { -brand-name-firefox }, por favor.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = El to sistema nun cumple colos <a href="{ $url }">requirimientos</a> pa executar { -brand-name-firefox }.
