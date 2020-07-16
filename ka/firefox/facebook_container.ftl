@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook } სათავსი { -brand-name-firefox }-ისთვის | გვერდების მონახულებისას, { -brand-name-facebook }-ის მიერ თვალთვალის არიდება.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } { -brand-name-firefox }-ისთვის | არ მისცეთ { -brand-name-facebook }-ს საშუალება ნახოს, რომელ საიტებს ეწვევით.
 facebook-container-millions-of-people-around = მილიონობით ადამიანი მთელი მსოფლიოდან ენდობა { -brand-name-firefox } ბრაუზერებს { -brand-name-android }, { -brand-name-ios } და კომპიუტერულ სისტემებზე. სწრაფი. დაცული. ჩამოტვირთეთ ახლავე!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. სრულად გამიჯნული. დატოვეთ თქვენი დანარჩენი ცხოვრება პირადი.
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } გაფართოების გადმოწერა
