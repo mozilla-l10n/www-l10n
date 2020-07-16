@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/5/
 
+welcome-page5-scan-this-qr-code = C’hwilerviñ ar boneg QR mañ
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
+welcome-page5-why-am-i-seeing-this = Perak e welan an dra-mañ ?

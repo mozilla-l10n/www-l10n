@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Roit ur chomlec'h postel talvoudek mar plij
+newsletter-form-your-email-address = Ho chomlec'h postel
 newsletter-form-your-email-here = HO POSTEL AMAÑ
 newsletter-form-format = Mentrezh
 newsletter-form-html = HTML

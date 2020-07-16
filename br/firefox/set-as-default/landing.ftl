@@ -2,7 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-form-email-address = Chomlec'h postel
-fxa-form-continue = Kenderc'hel
-fxa-form-create-account = Krouiñ ur gont
-fxa-form-get-the-app = Kaout an arload
+
+### URL: https://www-dev.allizom.org/firefox/set-as-default/
+
+# HTML page title
+set-as-default-landing-make-firefox-your-default = Lakaat { -brand-name-firefox } da vezañ ho merdeer dre ziouer
