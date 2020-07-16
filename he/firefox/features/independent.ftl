@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: מרד מו
 features-independent-firefox-is-independent = { -brand-name-firefox } הוא עצמאי וחלק מהקרן ללא מטרות רווח { -brand-name-mozilla }, שנאבקת על הזכויות המקוונות שלך, מרסנת את כוח התאגידים ומסייעת להנגיש את האינטרנט לכל אחד, בכל מקום.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = בלי אותיות קטנות
+features-independent-firefox-is-built-by-v2 = ‏{ -brand-name-firefox } נבנה על־ידי עמותה ללא מטרות רווח. משמעות הדבר היא שאנחנו יכולים לעשות דברים שלאחרים אין אפשרות לעשות, כמו לפתח מוצרים חדשים ותכונות ללא כוונות נסתרות. אנו מציבים בחזית את הזכות שלך לפרטיות עם כלים כמו גלישה פרטית עם הגנת מעקב.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } נבנה על־ידי עמותה ללא מטרות רווח. משמעות הדבר היא שאנחנו יכולים לעשות דברים שלאחרים אין אפשרות לעשות, כמו לפתח מוצרים חדשים ותכונות ללא כוונות נסתרות. אנו מציבים בחזית את הזכות שלך לפרטיות עם כלים כמו גלישה פרטית עם הגנת מעקב.
 features-independent-what-you-see-is-what = מה שמופיע זה מה שיש
