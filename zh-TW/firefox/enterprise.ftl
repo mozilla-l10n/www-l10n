@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = 為您的企業取得 { -brand-name-firefox } { -brand-name-esr } 或快速發行版本
 firefox-enterprise-get-unmatched-data-protection = 透過符合您的企業需求的更新步調，獲得無與倫比的資料保護。下載 { -brand-name-firefox } { -brand-name-esr } 或快速發行版本。
-firefox-enterprise-enterprise = 企業版
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = 概觀
 firefox-enterprise-downloads = 下載
 firefox-enterprise-get-firefox-for-your-enterprise = 下載 { -brand-name-firefox } 企業版
@@ -22,12 +22,12 @@ firefox-enterprise-deploy-when-and-how-you-want = 要佈署，再佈署，用您
 firefox-enterprise-with-install-packages-and = 透過安裝套件與一系列的群組原則與功能，在 { -brand-name-windows } 與 { -brand-name-mac } 都能輕鬆進行佈署，比以往更快、更靈活。
 firefox-enterprise-choose-your-release-cadence = 跟著您的更新步調走
 firefox-enterprise-get-rapid-releases-to-make = 安裝快速發行版本，讓您更快能用到最新功能；或使用 ESR 長期支援版本，確保能有穩定的使用體驗。
-firefox-enterprise-enterprise-downloads = 企業版下載項目
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } 下載項目
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 位元
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = 選擇下載版本
-firefox-enterprise-firefox-browser = { -brand-name-firefox } 瀏覽器
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox } 瀏覽器 - MSI 安裝程式
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI 安裝程式
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI 安裝程式
 firefox-enterprise-support = 技術支援
