@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Gwell nodau tudalen ymhob man
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Nodau tudalen gwell ymhob man
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Trefnwch eich nodau tudalen i ffolderi yn hawdd a chael mynediad iddyn nhw ar draws pob dyfais, o'r bwrdd gwaith i'r symudol.
 features-bookmarks-better-bookmarks = Nodau tudalen gwell
