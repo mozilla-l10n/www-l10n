@@ -13,10 +13,17 @@ features-index-youre-in-control-with-firefoxs = Maśo kontrolu nad lažko wužyw
 features-index-firefox-features = Funkcije { -brand-name-firefox }
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } jo malsny, lažki wobhlědowak z fokusom na priwatnosć, kótaryž na wšych wašych rědach funkcioněrujo.
+features-index-add-powerful-functions = Pśidajśo swójomu wobglědowakoju { -brand-name-firefox } mócne funkcije, wužytne funkcije a samo pitśku wjasela.
 features-index-see-all = Wšykne rozšyrjenja pokazaś
 features-index-give-your-browser = Dajśo swójomu wobglědowakoju pominane wuglědanje z tysacami rozdźělnych drastwow.
+features-index-important-stuff = Zawěsććo, až se wšykne waše wažne daty – internetne pytanja, gronidła, wócynjone rejtariki – tam pokazuju, źož je na kuždem rěźe trjebaśo.
 features-index-get-an-account = Wobstarajśo se { -brand-name-firefox-account }
+features-index-use-the-bookmark = Wužywajśo gwězdku cytańskich znamjenjow, aby organizěrowany wóstał a pśidajśo malsnje swójske mjenja a zarědniki.
 features-index-from-the-company = Wót pśedewześa, kótarež luźi pśed profit staja
+features-index-private-browsing-mode = Priwatny modus cookiejowe daty a wašu historiju pśeglědowanja wulašujo, kuždy raz, gaž jen zacynjaśo.
+features-index-firefox-automatically = { -brand-name-firefox } awtomatiski tomu zajźujo, až wušej 2000 wabjeńskich pśeslědowakow wam pó interneśe slědujo.
+features-index-access-all-passwords = { -brand-name-firefox-lockwise } wam wšykne gronidła pśistupni, kótarež sćo składł w { -brand-name-firefox } – a jo dermotny.
+features-index-just-enough = { -brand-name-firefox } rowno dosć składa wužywa, aby dožywjenje bźez śěžow napórał, aby wašo licadło hyšći mógał teke dalšne nadawki  cyniś.
 features-index-open-source-minds = Wótewórjona softwara. Wótwórjone mysli.
 features-index-mozilla-creates = { -brand-name-mozilla } wugbału webtechnologiju za kuždego wuwija.
 features-index-see-what-makes-us-different = Glědajśo, což nas rozeznawa
