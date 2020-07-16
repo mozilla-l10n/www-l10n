@@ -28,7 +28,7 @@ whatsnew79-read-our-privacy-promise = Darllenwch ein Addewid Preifatrwydd
 whatsnew79-take-less-keep-it-safe = Cymryd llai. Ei gadw'n ddiogel. Dim cyfrinachau. Nid yw ein busnes yn dibynnu ar gam-drin yn dawel fach eich ymddiriedaeth.
 # CTA link
 whatsnew79-read-more = Darllen Rhagor
-whatsnew79-keep-facebook-contained = Cyfyngu { -brand-name-facebook }
+whatsnew79-keep-facebook-contained = Cyfyngu ar { -brand-name-facebook }
 whatsnew79-get-the-power-to-prevent = Sicrhewch y grym i atal { -brand-name-facebook } a { -brand-name-instagram } rhag eich tracio o amgylch y we.
 # CTA link
 whatsnew79-add-facebook-container = Ychwanegu { -brand-name-facebook-container }
