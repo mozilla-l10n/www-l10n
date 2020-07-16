@@ -4,7 +4,7 @@
 
 send-to-device-send-firefox = Unvia { -brand-name-firefox } al to teléfonu intelixente o tableta
 send-to-device-your-download-link = Unvióse l'enllaz de descarga.
-send-to-device-sorry-we-cant-send = Perdón, nun podemos unviar mensaxes SMS a esti númberu telefónicu.
+send-to-device-sorry-we-cant-send = Perdona pero nun podemos unviar mensaxes SMS a esti númberu telefónicu.
 send-to-device-sorry-this-number = Perdón, esti númberu nun ye válidu. Introduz un númberu de teléfonu d'EE.XX, por favor.
 send-to-device-please-enter-an-email = Introduz una direición de corréu, por favor.
 send-to-device-an-error-occured = Asocedió un fallu nel nuesu sistema. Volvi tentalo más sero, por favor.

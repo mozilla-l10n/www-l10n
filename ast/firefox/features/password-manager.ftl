@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Restolador Firefox: Xestor de contraseñes rápidu y cenciellu
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Xestor de contraseñes rápidu y cenciellu
 # HTML page description
 password-manager-firefox-password = El xestor de contraseñes de { -brand-name-firefox } guarda toles tos contraseñes nun llugar pa qu'asina pueas aniciar automáticamente sesión nos sitios, o recuperar les contraseñes guardaes.
 # Hero title
@@ -21,7 +21,7 @@ password-manager-forget-the-reset = Escaezte del «Escaecí la contraseña». El
 password-manager-password-ninja = Ninja de les contraseñes
 password-manager-no-more-try-again = Acabóse'l «volvi tentalo» mentanto tentes d'acceder a dalgún sitiu. Anicia sesión na to cuenta de Firefox nel teléfonu y les contraseñes dirán contigo. Los tos detalles d'aniciu de sesión apaecerán nun abrir y zarrar de güeyos.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Maestru de les contraseñes
 # Obsolete string
 # Variables:
