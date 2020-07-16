@@ -10,6 +10,7 @@ features-index-choose-independence = Fren timunent
 features-index-read-our-privacy-policy = Ɣeṛ tasertit-nneɣ n tbaḍnit
 features-index-get-firefox-for-privacy = Awi { -brand-name-firefox } i tudert tabaḍnit
 features-index-firefox-vs = { -brand-name-firefox } mgal iminigen-nniḍen
+features-index-stack-up = Wali amek { -brand-name-firefox } i d-iban sdat n yiminigen-nniḍen yettwassnen.
 features-index-compare-browsers = Serwes gar yiminigen
 features-index-see-themes = Wali isental imezwura
 features-index-download-latest = Sader { -brand-name-firefox }
