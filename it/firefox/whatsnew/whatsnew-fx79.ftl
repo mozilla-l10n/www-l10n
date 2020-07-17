@@ -28,6 +28,7 @@ whatsnew79-take-less-keep-it-safe = Raccogliamo meno dati. Li manteniamo al sicu
 # CTA link
 whatsnew79-read-more = Ulteriori informazioni
 whatsnew79-keep-facebook-contained = Contieni il tracciamento di { -brand-name-facebook }
+whatsnew79-get-the-power-to-prevent = Impedisci a { -brand-name-facebook } e a { -brand-name-instagram } di seguirti sul Web.
 # CTA link
 whatsnew79-add-facebook-container = Aggiungi { -brand-name-facebook-container }
 # Modal title
