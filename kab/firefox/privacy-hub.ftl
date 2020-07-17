@@ -47,6 +47,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Awalen uffiren d yinekcam n tuqqna i teskelseḍ deg { -brand-name-firefox-lockwise } ttwawgelhen deg meṛṛa ibenkan-inek·inem, ula d nekkni ur nezmir ara ad ten-nwali.
 firefox-privacy-hub-learn-more-about-lockwise = Issin ugar ɣef { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Ur nezmir ara ad nwali ismawen neɣ igburen n yifuyla imeqqranen i tbeṭṭuḍ ɣef { -brand-name-firefox-send } acku ttwawgelhen seg yixef ɣer yixef — d kečč·kemm ara ifernen win ara iwalin acu i tettazneḍ, syen tzemreḍ daɣen ad tesbaduḍ azemz ideg ara yemmet d wawal uffir.
 firefox-privacy-hub-send-a-file = Azen afaylu
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Awi-d { -brand-name-pocket }
