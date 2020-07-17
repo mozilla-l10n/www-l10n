@@ -11,6 +11,7 @@ whatsnew79-page-title = Novità di { -brand-name-firefox }
 whatsnew79-primary-cta = Rendi { -brand-name-firefox } predefinito
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Scarica l’app { -brand-name-firefox }
+whatsnew79-secure-your-connection = Proteggi la tua connessione
 whatsnew79-with-one-tap-mozilla-vpn = Con un semplice tocco, { -brand-name-mozilla-vpn } critta la tua connessione per mantenere privata la tua attività online su qualsiasi rete, al riparo dagli hacker e da altri occhi indiscreti.
 # CTA link
 whatsnew79-get-started = Per iniziare
