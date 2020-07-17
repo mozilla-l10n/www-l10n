@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Prenesite { -brand-name-firefox } za svoje podjetje z različicama { -brand-name-esr } in Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Zagotovite si neprekosljivo zaščito podatkov s posodobitvenim ciklom, ki ustreza vam, s { -brand-name-firefox }om za podjetja. Prenesite { -brand-name-esr } in Rapid Release.
-firefox-enterprise-enterprise = Podjetja
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Pregled
 firefox-enterprise-downloads = Prenosi
 firefox-enterprise-get-firefox-for-your-enterprise = Prenesite { -brand-name-firefox } za svoje podjetje
@@ -24,7 +24,7 @@ firefox-enterprise-get-rapid-releases-to-make = Prejemajte hitrejše izdaje, da 
 firefox-enterprise-enterprise-downloads = Prenosi za podjetja
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Izberite svoj prenos
-firefox-enterprise-firefox-browser = Brskalnik { -brand-name-firefox }
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = Brskalnik { -brand-name-firefox } – namestitveni program MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – namestitveni program MSI

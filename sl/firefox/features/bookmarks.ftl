@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Brskalnik Firefox: boljši zaznamki, kamorkoli greste
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: boljši zaznamki, kamorkoli greste
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Preprosto organizirajte zaznamke v mapo in dostopajte do njih na vseh svojih napravah, od računalnika do mobilnika.
 features-bookmarks-better-bookmarks = Boljši zaznamki
