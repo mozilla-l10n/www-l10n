@@ -7,6 +7,8 @@
 
 # HTML page title
 whatsnew79-page-title = ¿Mba’e oĩ ipyahúva { -brand-name-firefox } ndive?
+# Main CTA button
+whatsnew79-primary-cta = Ejapo { -brand-name-firefox } ypykuévarõ
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Ereko { -brand-name-firefox } rembipuru’i
 whatsnew79-secure-your-connection = Emohekorosã nde jeike
@@ -20,6 +22,7 @@ whatsnew79-download-the-firefox = Emboguejy ne kundahára { -brand-name-firefox 
 whatsnew79-read-our-privacy-promise = Emoñe’ẽ ore marandu’i ñemigua
 # CTA link
 whatsnew79-read-more = Emoñe’ẽve
+whatsnew79-keep-facebook-contained = Ereko { -brand-name-facebook } tetepýrõ
 # CTA link
 whatsnew79-add-facebook-container = Embojuaju { -brand-name-facebook-container }
 # Modal title
