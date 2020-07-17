@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Pobierz przeglądarkę Firefox na telefon z { -brand-name-ios } i { -brand-name-android }em
+firefox-mobile-download-the-firefox-browser = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na telefon z { -brand-name-ios } i { -brand-name-android(case: "ins") }
 firefox-mobile-firefox-browser-for-mobile = Przeglądarka Firefox na telefon domyślnie blokuje ponad 2000 elementów śledzących, zapewniając prywatność, na jaką zasługujesz i szybkość, jakiej potrzebujesz w prywatnej przeglądarce mobilnej.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
