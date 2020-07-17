@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } dla Firefoksa | Powstrzymaj { -brand-name-facebook }a przed śledzeniem odwiedzanych stron.
-facebook-container-millions-of-people-around = Miliony użytkowników na całym świecie zaufało przeglądarce { -brand-name-firefox } na { -brand-name-android }zie, { -brand-name-ios } i komputerach. Szybka. Dyskretna. Pobierz ją teraz!
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } dla { -brand-name-firefox(case: "gen") } | Powstrzymaj { -brand-name-facebook(case: "acc") } przed śledzeniem odwiedzanych przez Ciebie stron.
+facebook-container-millions-of-people-around = Miliony użytkowników na całym świecie zaufało przeglądarce { -brand-name-firefox } na { -brand-name-android(case: "loc") }, { -brand-name-ios } i komputerach. Szybka. Dyskretna. Pobierz ją teraz!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pod kontrolą. Zatrzymaj resztę swojego życia dla siebie.
 facebook-container-get-the-facebook-container = Zainstaluj rozszerzenie { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Pobierz Firefoksa i zainstaluj rozszerzenie { -brand-name-facebook-container }
