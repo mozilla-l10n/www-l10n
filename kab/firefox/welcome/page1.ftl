@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+welcome-page1-stay-in-the-know = Ur ɣeffel ara ɣef yisallen
 welcome-page1-why-am-i-seeing-this = Acuɣer i ttwaliɣ aya?
