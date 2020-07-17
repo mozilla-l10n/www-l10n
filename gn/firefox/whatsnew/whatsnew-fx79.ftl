@@ -27,3 +27,5 @@ whatsnew79-keep-facebook-contained = Ereko { -brand-name-facebook } tetepýrõ
 whatsnew79-add-facebook-container = Embojuaju { -brand-name-facebook-container }
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Ereko { -brand-name-firefox } ne pumbyrýpe
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = QR ayvu eheka hag̃ua { -brand-name-firefox }
