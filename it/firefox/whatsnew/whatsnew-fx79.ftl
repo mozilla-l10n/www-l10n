@@ -7,6 +7,9 @@
 
 # HTML page title
 whatsnew79-page-title = Novità di { -brand-name-firefox }
+# Main title
+whatsnew79-main-title = Proteggi la tua privacy da chiunque, inclusi noi
+whatsnew79-main-intro = Internet dovrebbe essere un luogo sicuro per tutti. Ecco perché { -brand-name-firefox } non solo non ti segue nelle tua attività online, ma impedisce ad altri di farlo.
 # Main CTA button
 whatsnew79-primary-cta = Rendi { -brand-name-firefox } predefinito
 # Fallback CTA button, shown if Firefox is already a user's default browser
@@ -15,10 +18,13 @@ whatsnew79-secure-your-connection = Proteggi la tua connessione
 whatsnew79-with-one-tap-mozilla-vpn = Con un semplice tocco, { -brand-name-mozilla-vpn } critta la tua connessione per mantenere privata la tua attività online su qualsiasi rete, al riparo dagli hacker e da altri occhi indiscreti.
 # CTA link
 whatsnew79-get-started = Per iniziare
+whatsnew79-get-more-control-over = Tieni sotto controllo gli elementi traccianti
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } impedisce a un numero sempre crescente di inserzionisti ed elementi traccianti di seguire le tue attività.
 # CTA link
 whatsnew79-see-your-report = Visualizza il tuo rapporto personalizzato
 whatsnew79-update-your-firefox = Aggiorna il tuo browser { -brand-name-firefox }
 whatsnew79-download-the-firefox = Scarica il browser { -brand-name-firefox }
+whatsnew79-take-less-keep-it-safe = Raccogliamo meno dati. Li manteniamo al sicuro. Nessun segreto. Non abusiamo di nascosto della tua fiducia per guadagnarci sopra.
 # CTA link
 whatsnew79-read-more = Ulteriori informazioni
 whatsnew79-keep-facebook-contained = Contieni il tracciamento di { -brand-name-facebook }
