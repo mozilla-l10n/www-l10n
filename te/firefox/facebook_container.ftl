@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-get-the-facebook-container = ఫేస్‌బుక్ కంటెయినర్ పొడగింతను పొందండి
-facebook-container-the-facebook-container-extension = ఫేస్‌బుక్ కంటెయినర్ పొడగింత మొబైలు పరికరాలకు అందుబాటులో లేదు.
+facebook-container-get-the-facebook-container = { -brand-name-facebook-container } పొడగింతను పొందండి
+facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } పొడగింత మొబైలు పరికరాలకు అందుబాటులో లేదు.
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox }, { -brand-name-mozilla } గురించి
 facebook-container-browse-freely-with-firefox = నేడే { -brand-name-firefox }తో స్వేచ్ఛగా విహరించండి.
