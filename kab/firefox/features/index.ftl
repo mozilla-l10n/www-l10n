@@ -13,6 +13,7 @@ features-index-youre-in-control-with-firefoxs = Tesselḥayeḍ timahilin i iseh
 features-index-firefox-features = Timahilin n { -brand-name-firefox }
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } d arurad, d afessad, ireṣṣa ɣef uqader n tudert tabaḍnit ara iteddun ɣef meṛṛa ibenkan-ik·im.
+features-index-add-powerful-functions = Rnu tiwuriwin iǧehden, timahilin ara teḥwiǧeḍ, ula d cwiṭ n zzhu i yiminig-ikịm { -brand-name-firefox }.
 features-index-see-all = Wali meṛṛa iseɣzaf
 features-index-give-your-browser = Efk-as udem i tebɣiḍ i yiminig-ik·im  d luluf n yisental yemgaraden.
 features-index-important-stuff = Γas kkes aɣilif, meṛṛa tiɣawsiwin-ik·im yesεan azal — inadiyen ɣef internet, awalen uffiren, accaren yeldin — ttbanen-d yal tikkelt mi ara tent-teḥwiǧeḍ eg yal ibenk.
