@@ -25,4 +25,4 @@ facebook-container-about-firefox-and-mozilla = Over { -brand-name-firefox } en {
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
 facebook-container-were-backed-by-mozilla-the = We worden gesteund door <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, de organisatie zonder winstoogmerk die mensen boven winst stelt, zodat iedereen online meer zeggenschap heeft. We hebben deze extensie gemaakt omdat we vinden dat u over makkelijk te gebruiken hulpmiddelen voor het beheren van uw privacy en beveiliging zou moeten beschikken.
-facebook-container-browse-freely-with-firefox = Browse nu vrij met { -brand-name-firefox }.
+facebook-container-browse-freely-with-firefox = Surf nu vrijuit met { -brand-name-firefox }.
