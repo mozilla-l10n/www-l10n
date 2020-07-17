@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
+# HTML page title
+whatsnew79-page-title = Qual novas re { -brand-name-firefox }
+# Main title
+whatsnew79-main-title = Mantene tu datos reservate ab totes, anque ab nos
 # CTA link
 whatsnew79-get-started = Comenciar
 whatsnew79-update-your-firefox = Actualisa tu navigator { -brand-name-firefox }
