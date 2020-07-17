@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Emoñondive umi pokõi kundahára iporãvéva
 compare-index-six-of-the-best-browsers-fallback = Emoñondive umi 6 kundahára iporãvéva
 # Sub-headline
 compare-index-privacy-utility-portability = Ñemigua. Jepurúva. Jeguerahakuaa.
