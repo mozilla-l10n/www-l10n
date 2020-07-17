@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Installa { -brand-name-firefox } pro tu interprisa con { -brand-name-esr } e actualisation rapide.
 firefox-enterprise-get-unmatched-data-protection = Protection de datos incomparabile al frequentia de promotion apte a tu exigentias con { -brand-name-firefox } pro interprisas.  Discarga { -brand-name-esr } con promotion frequente.
-firefox-enterprise-enterprise = Interprisa
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Panorama
 firefox-enterprise-downloads = Discargamentos
 firefox-enterprise-get-firefox-for-your-enterprise = Installa { -brand-name-firefox } pro tu interprisa
