@@ -27,6 +27,10 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Nxeddem akk tazmert-nneɣ a
 firefox-privacy-hub-data-security-is-complicated = Taɣellist n yisefka d tamsalt ur neshil ara — neɣ xeṛsum ilaq ad yili. Γef waya i ntegg imecwaṛen-nniḍen akken ad nsemyizwer isefka i nesεa, s uqader n yilugan n uklas d ummesten n yal anaw, ur nḥebbes ɣef uεiwed n yikalan-nneɣ. Nzewwir deg tudert-ik·im tabaḍnit. Nxeddem akk ayen yellan fell-aɣ i waya. Neṭṭef deg-s. Nselmad ula d tikebbaniyin-nniḍen amek ara xedment ayagi.
 firefox-privacy-hub-no-secrets = Ulav tibaḍniyen
 firefox-privacy-hub-youll-always-know-where-you = Ad tezreḍ yal tikkelt anida telliḍ yid-neɣ
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Ulac tasmektayt yeffren dagi. Amahil-nneɣ ur yebdid ara ɣef lexdeε n lman i tgiḍ deg-neɣ. <a href="{ $privacy }">tasertit-nneɣ tabaḍnit</a> tettban-d. Yal yiwen deg umaḍal yezmer ad yeḥder <a href="{ $meetings }">timliliyin n tkebbanit-nneɣ n yal dduṛt</a>. Ma tebɣiḍ ad tnadiḍ deg yal tazmilt n yisefka i d-nelqeḍ, tangalt-nneɣ teldi. Ula d nekkni.
 firefox-privacy-hub-why-trust-firefox = Ayɣer ara tgeḍ laman deg { -brand-name-firefox }?
 firefox-privacy-hub-learn-more-about-our-mission = Ɣer ugar ɣef tuɣdaḍt-nneɣ
 firefox-privacy-hub-your-privacy-by-the-product = Aqader n tudert tabaḍnit-ik/im deg yal afaris
