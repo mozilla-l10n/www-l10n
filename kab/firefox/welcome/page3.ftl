@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Rnu amiḍan baṭel i ummesten n tudert-ik tusligt. Ddu ɣer { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Ur tesriḍ ara amiḍan. Maca nesḥissef ma yella ur tewwiḍ ara yiwen.
 welcome-page3-the-firefox-browser-collects = Iminig { -brand-name-firefox } ileqqeḍ kra n yisefka fell-ak/am, ur nesri ara ad nẓer ula d tansa-ik/im n yimayl. Maca mi ara t-tesqedceḍ i tmerna n umiḍan { -brand-name-firefox-account }, nezmer ad nesnerni ammesten n tudert-ik/im tabaḍnit ɣef umur meqqren n tudert-ik/im srid.
+welcome-page3-sign-in = Kcem
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Ttkel ar tagara ɣef yiwet n tkebbanit i yemmestanen isefka-ik deg umḍiq n usuffeɣ-nsen.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

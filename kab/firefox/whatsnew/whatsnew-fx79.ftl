@@ -25,8 +25,11 @@ whatsnew79-see-your-report = Wali aneqqis-ik·im
 whatsnew79-update-your-firefox = Leqqem iminig-inek·inem { -brand-name-firefox }
 whatsnew79-download-the-firefox = Sider iminig { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = Γer lweεd-nneɣ ɣef uqader n tudert tabaḍnit
+whatsnew79-take-less-keep-it-safe = Awi cwiṭ. Ḥrez-it. Ulac tuffra. Amahil-nneɣ ur yebdid ara ɣef lexdeε n laman i tgiḍ deg-neɣ.
 # CTA link
 whatsnew79-read-more = Issin ugar
+whatsnew79-keep-facebook-contained = Ṭṭef { -brand-name-facebook } yettwagebren
+whatsnew79-get-the-power-to-prevent = Awi tazmert akken ad tesḥebseḍ { -brand-name-facebook } d { -brand-name-instagram } ur ak·akem-ṭṭafaren deg web.
 # CTA link
 whatsnew79-add-facebook-container = Rnu { -brand-name-facebook-container }
 # Modal title
