@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Télécharger le navigateur Firefox pour mobile sur { -brand-name-ios } et { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = Le navigateur Firefox bloque plus de 2 000 traqueurs par défaut, vous offrant ainsi le respect que vous méritez et toute la rapidité dont vous avez besoin sur un navigateur mobile.
+firefox-mobile-download-the-firefox-browser = Télécharger le { -brand-name-firefox-browser } pour mobile sur { -brand-name-ios } et { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = Le { -brand-name-firefox-browser } bloque plus de 2 000 traqueurs par défaut, vous offrant ainsi le respect que vous méritez et toute la rapidité dont vous avez besoin sur un navigateur mobile.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Téléchargez le navigateur conçu pour vous, pas pour les annonceurs publicitaires
