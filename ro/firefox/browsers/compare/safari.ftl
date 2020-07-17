@@ -8,6 +8,6 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand-name-safari }: Care este mai bun pentru tine?
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } este browserul preinstalat pe { -brand-name-mac } și { -brand-name-iphone }. Compară { -brand-name-safari } și Firefox ca să afli care este mai bun pentru tine.
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } este browserul preinstalat pe { -brand-name-mac } și { -brand-name-iphone }. Compară { -brand-name-safari } și { -brand-name-firefox-browser } ca să afli care este mai bun pentru tine.
 # Main title.
-compare-safari-comparing-firefox-browser = Comparație între Firefox și Apple Safari
+compare-safari-comparing-firefox-browser = Comparație între { -brand-name-firefox-browser } și { -brand-name-apple } { -brand-name-safari }

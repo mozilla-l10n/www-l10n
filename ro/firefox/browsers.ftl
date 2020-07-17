@@ -21,7 +21,7 @@ firefox-browsers-send-me-a-link = Trimite-mi un link
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Obține o protecție neegalată a datelor cu cicluri de suport concepute pentru nevoile firmei tale.
 firefox-browsers-enterprise-packages = Pachete { -brand-name-enterprise }
-firefox-browsers-reality = Realitate
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Mergi dincolo de bidimensional și bucură-te de cel mai bun conținut de imersiune de pe web.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Construiești site-uri și rafinezi coduri cu { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
