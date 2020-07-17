@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Iminig Firefox: Seqdec drus n tkatut, ugar n urured
+features-memory-firefox-browser-use-less = S { -brand-name-firefox-browser } : drus n useqdec n tkatut, ugar n urured
 # HTML page description
 features-memory-is-your-computer-slow-your = Aselkim-ik ẓẓay? Ahat iminig-ik isseqdac ddeqs n tkatut. Ddu ɣer { -brand-name-firefox } si tura i ugar n urured.
 features-memory-less-memory-usage-than-chrome = Drus n useqdec n tkatut ɣef { -brand-name-chrome }
