@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = { -brand-name-firefox } este indep
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Nicio obligație
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } este realizat de o organizație nonprofit. Înseamnă că putem face lucruri pe care alții nu le pot face, cum ar fi construirea produse și funcționalități noi fără o agendă ascunsă. Apărăm dreptul la confidențialitate cu instrumente precum navigarea privată cu protecție împotriva urmăririi.
+features-independent-firefox-is-built-by = { -brand-name-firefox } este realizat de o organizație nonprofit. Înseamnă că putem face lucruri pe care alții nu le pot face, cum ar fi construirea produse și funcționalități noi fără o agendă ascunsă. Apărăm dreptul la confidențialitate cu instrumente precum navigarea privată cu protecție împotriva urmăririi, care merg mult mai departe decât { -brand-name-google } { -brand-name-chrome } și { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Cu toate la vedere, tu decizi
 features-independent-we-believe-the-internet = Credem că Internetul este pentru oameni, nu pentru profit. Spre deosebire de alte companii, nu vindem accesul la datele tale. <em>Tu controlezi</em> cine îți vede istoricul de căutări și de navigare. Alegerea este cuvântul-cheie într-un internet sănătos!
 features-independent-a-browser-on-a-mission = Un browser cu o misiune

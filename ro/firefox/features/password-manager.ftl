@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Browserul Firefox: Manager de parole rapid și ușor
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Manager de parole rapid și ușor
 # HTML page description
 password-manager-firefox-password = Managerul de parole { -brand-name-firefox } îți salvează toate parolele într-un singur loc ca să te poți autentifica automat pe site-uri sau ca să regăsești parole salvate.
 # Hero title
@@ -19,12 +19,12 @@ password-manager-forget-the-reset = Uită de resetare. Managerul de parole { -br
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja parolelor
-password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Autentifică-te pe telefon în contul Firefox și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
+password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Autentifică-te pe telefon în { -brand-name-firefox-account } și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Stăpânul parolelor
 # Obsolete string
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Câștigă a doua centură neagră în securitate cu numărul mare de <a href="{ $addons }">suplimente</a> pentru gestiunea parolelor. Alege unul favorit sau găsește altul mai avansat cu ajutorul recenziilor și evaluărilor făcute de utilizatorii experți din comunitate.
+password-manager-earn-your-second = Câștigă a doua centură neagră în securitate cu numărul mare de <a href="{ $addons }">suplimente</a> pentru gestiunea parolelor din { -brand-name-firefox }. Alege unul favorit sau găsește altul mai avansat cu ajutorul recenziilor și evaluărilor făcute de utilizatorii experți din comunitate.

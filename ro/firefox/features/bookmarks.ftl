@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Browserul Firefox: Marcaje mai bune oriunde ai merge
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Marcaje mai bune oriunde ai merge
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organizează ușor marcajele într-un dosar și accesează-le de pe toate dispozitivele desktop și mobile.
 features-bookmarks-better-bookmarks = Marcaje mai bune

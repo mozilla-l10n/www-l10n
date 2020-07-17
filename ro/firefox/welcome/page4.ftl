@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Descarcă browserul Firefox pe mobil pentru { -brand-name-ios } și { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Descarcă { -brand-name-firefox-browser } pe mobil pentru { -brand-name-ios } și { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Portofel. Chei. Telefon. <Strong>{ -brand-name-firefox }.</ Strong>
 welcome-page4-take-privacy-with-you-on-every = Iei cu tine confidențialitatea pe fiecare dispozitiv și lași elementele de urmărire în urmă.
 welcome-page4-get-the-firefox-app = Obține aplicația { -brand-name-firefox }

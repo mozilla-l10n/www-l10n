@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Browserul Firefox: mai puțină memorie ocupată, viteză mai mare
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Mai puțină memorie ocupată, viteză mai mare
 # HTML page description
 features-memory-is-your-computer-slow-your = Calculatorul pare lent? E posibil ca browserul să folosească prea multă memorie. Treci pe { -brand-name-firefox } chiar azi pentru o viteză mai mare.
 features-memory-less-memory-usage-than-chrome = Ocupă mai puțină memorie decât { -brand-name-chrome }
