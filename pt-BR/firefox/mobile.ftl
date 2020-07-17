@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Instale o Navegador Firefox em seu celular { -brand-name-ios } ou { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = O Navegador Firefox para dispositivos móveis bloqueia por padrão mais de 2000 rastreadores, lhe dando a privacidade que merece e a velocidade que precisa em um navegador móvel privativo.
+firefox-mobile-download-the-firefox-browser = Instale o { -brand-name-firefox-browser } em seu celular { -brand-name-ios } ou { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = O { -brand-name-firefox-browser } para dispositivos móveis bloqueia por padrão mais de 2000 rastreadores, lhe dando a privacidade que merece e a velocidade que precisa em um navegador móvel privativo.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Instale o navegador móvel feito para você, não para anunciantes
