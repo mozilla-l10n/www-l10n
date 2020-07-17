@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Iminig Firefox: Ticraḍ ifazen anda ma teddiḍ
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Ticraḍ ifazen anda ma teddiḍ
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Suddes s wudem fessusen ticraḍ-ik n isebtar deg ukaram sakin ad tizmireḍ ad tkecmeḍ ɣur-sent seg isuga-k, seg uselkim-ik ɣer tiliɣri-ik tazirazt.
 features-bookmarks-better-bookmarks = Ticraḍ ifazen

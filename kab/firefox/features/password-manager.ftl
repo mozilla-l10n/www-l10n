@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Iminig Firefox: amsefrak n wawalen uffiren afessas, arurad
+password-manager-firefox-browser = { -brand-name-firefox-browser }: amsefrak n wawalen uffiren afessas, arurad
 # HTML page description
-password-manager-firefox-password = Amsefrak n wawalen uffiren isseklas akk awalen-ik uffiren deg yiwen n umḍiq: ad tizmireḍ ihi ad teqqneḍ s wudem awurman ɣer yismal-ik ifazen neɣ ad tafeḍ awalen-ik uffiren.
+password-manager-firefox-password = Amsefrak n wawalen uffiren { -brand-name-firefox } isseklas akk awalen-ik uffiren deg yiwen n umḍiq ayen ara ak·akem-yeǧǧen ad teqqneḍ s wudem awurman ɣer yismal, neɣ ad tafeḍ awalen-ik uffiren yettwaskelsen.
 # Hero title
 password-manager-password-manager = Amsefrak n wawalen uffiren: lḥir yettwag !
 password-manager-give-up-the-memory = Serreḥ i tkatut-ik tudmawant s umsefrak n wawalen uffiren n { -brand-name-firefox }.
@@ -21,7 +21,7 @@ password-manager-forget-the-reset = Ttu tulsa n "ttuɣ awal uffir". Amsefrak n w
 password-manager-password-ninja = Awal uffir ninja
 password-manager-no-more-try-again = Ifuk "ɛreḍ tikelt-nniḍen" ticki tettaɛraḍeḍ ad tawḍeḍ isebtar. Ticki tkecmeḍ s umiḍan-ik Firefox ar uziraz-ik, awalen-ik uffiren ad ilin heggan. Isulayen-ik ad ilin, akken kan teqqneḍ
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Agejdan n wawal uffir
 # Obsolete string
 # Variables:

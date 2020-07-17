@@ -9,8 +9,8 @@ facebook-container-facebook-container-for-firefox = { -brand-name-facebook-conta
 facebook-container-millions-of-people-around = Imelyan n yemdanen deg umaḍal mudden taflest i yiminigen Web { -brand-name-firefox } ɣef { -brand-name-android }, { -brand-name-ios } akked iselkimen n tnarit. D arurad. D uslig. Sader tura!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } si tama, ayen i d-yeqqimen si tmeddurt-ik tumḍint si tama-nniḍen n talast, di tlelli.
 facebook-container-get-the-facebook-container = Awi asiɣzef { -brand-name-facebook-container }
-facebook-container-download-firefox-and-get-the = Sader { -brand-name-firefox } sakin awi asiqzef Facebook container
-facebook-container-the-facebook-container-extension = Asiɣzef Facebook container ulac-it deg ibenkan izirazen.
+facebook-container-download-firefox-and-get-the = Sader { -brand-name-firefox } sakin awi aseɣzaf { -brand-name-facebook-container }
+facebook-container-the-facebook-container-extension = Asiɣzef { -brand-name-facebook-container } ulac-it deg ibenkan izirazen.
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Ɛreḍ<strong>{ -brand-name-firefox-focus }</strong>, iminig uslig i { -brand-name-android } d { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Ɣur-k azref ad tiniḍ ala
