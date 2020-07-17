@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Ttu tulsa n "ttuɣ awal uffir". Amsefrak n w
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Awal uffir ninja
-password-manager-no-more-try-again = Ifuk "ɛreḍ tikelt-nniḍen" ticki tettaɛraḍeḍ ad tawḍeḍ isebtar. Ticki tkecmeḍ s umiḍan-ik Firefox ar uziraz-ik, awalen-ik uffiren ad ilin heggan. Isulayen-ik ad ilin, akken kan teqqneḍ
+password-manager-no-more-try-again = Ifukk "ɛreḍ tikelt-nniḍen" ticki tettaɛraḍeḍ ad tawḍeḍ isebtar. Anekcum ɣer { -brand-name-firefox-account }-ik·im deg uziraz-ik·im, awalen-ik:im uffiren ad ilin yid-k·m. Talqayt n yinekcam-ik·im ad d-banen s sshala, akka.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Agejdan n wawal uffir
