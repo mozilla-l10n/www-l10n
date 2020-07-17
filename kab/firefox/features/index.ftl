@@ -23,6 +23,7 @@ features-index-from-the-company = Seg tkebbanit yettaken azal i yimdanen qbel rr
 features-index-private-browsing-mode = Asker n tunigin tusligt yettekkes isefka n yinagan n tuqqna d umazray n tunigin yal tikkelt mi ara t-tmedleḍ.
 features-index-firefox-automatically = { -brand-name-firefox } yessewḥal s wudem awurman ugar n 2000 n yineḍfaren i ak·akem-yeṭṭafaren deg internet.
 features-index-access-all-passwords = { -brand-name-firefox-lockwise } ad ak·akem-yeǧǧ ad tkecmeḍ ɣer meṛṛa awalen-ik·im uffir i teskelseḍ deg { -brand-name-firefox } — yerna d ilelli.
+features-index-just-enough = { -brand-name-firefox } iseqdac takatut ilaqen kan i tmerna n tarmit lewwaɣen akken aselkim-inek!inem ad yeqqim yeldi i twuriwin-nniḍen.
 features-index-use-less-memory = { -brand-name-firefox } iseqac drus n tkatut ɣef { -brand-name-chrome }, ihi ahilen-inek·inem zemren ad qqimen sselkamen s urured afellay.
 features-index-open-source-minds = Aɣbalu yeldin. Allaɣen yeldin.
 features-index-mozilla-creates = { -brand-name-mozilla } irennu tatiknulujit n web iǧehden i yal yiwen.
