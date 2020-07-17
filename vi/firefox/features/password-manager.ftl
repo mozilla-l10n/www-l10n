@@ -20,6 +20,9 @@ password-manager-forget-the-reset = Quên đặt lại. Trình quản lý mật 
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Thánh mật khẩu
 password-manager-no-more-try-again = Không có nhiều hơn “thử lại” trong khi bạn đang cố gắng để có được một nơi nào đó. Đăng nhập vào { -brand-name-firefox-account } của bạn trên điện thoại của bạn và mật khẩu của bạn đi kèm với bạn. Chi tiết đăng nhập của bạn sẽ đơn giản xuất hiện, giống như vậy.
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Bạn có thể có được lớp bảo vệ thứ hai với vô số <a href="{ $addons }">tiện ích</a> quản lý mật khẩu của { -brand-name-firefox }. Chọn một tiện ích theo sự yêu thích hoặc thông qua các đánh giá và bình luận của cộng đồng.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Mật khẩu chính
