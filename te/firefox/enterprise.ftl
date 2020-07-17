@@ -5,4 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise = { -brand-name-enterprise }
+firefox-enterprise-overview = అవలోకనం
+firefox-enterprise-downloads = దింపుకోళ్ళు
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } దింపుకోళ్ళు
+firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-బిట్
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-select-your-download = మీ దింపుకోలును ఎంచుకోండి
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-support = తోడ్పాటు

@@ -4,7 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = గోప్యత
-footer-desktop = రంగస్థలం
+footer-desktop = డెస్క్‌టాప్
 footer-mobile = మొబైల్
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
