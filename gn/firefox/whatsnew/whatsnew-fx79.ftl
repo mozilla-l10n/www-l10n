@@ -23,9 +23,11 @@ whatsnew79-read-our-privacy-promise = Emoñe’ẽ ore marandu’i ñemigua
 # CTA link
 whatsnew79-read-more = Emoñe’ẽve
 whatsnew79-keep-facebook-contained = Ereko { -brand-name-facebook } tetepýrõ
+whatsnew79-get-the-power-to-prevent = Ereko pokatu emboykekuaa hag̃ua { -brand-name-facebook } ha { -brand-name-instagram } nderapykuehóvo ñandutípe.
 # CTA link
 whatsnew79-add-facebook-container = Embojuaju { -brand-name-facebook-container }
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Ereko { -brand-name-firefox } ne pumbyrýpe
+whatsnew79-scan-the-qr-code = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
 # Accessible text replacement for a QR code image
 whatsnew79-qr-code-to-scan = QR ayvu eheka hag̃ua { -brand-name-firefox }

@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Emboguejy Firefox kundahára ne pumbyry { -brand-name-ios } ha { -brand-name-android } peg̃uarã
-firefox-mobile-firefox-browser-for-mobile = Firefox kundahára pumbyrygua ojoko hetave 2000 tapykuehohágui ijehegui, nemoñemi añetévo ha pya’ekue eikotevẽva kundahára pumbyryguápe g̃uarã.
+firefox-mobile-download-the-firefox-browser = Emboguejy { -brand-name-firefox-browser } ne pumbyry { -brand-name-ios } ha { -brand-name-android } peg̃uarã
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pumbyrygua ojoko hetave 2000 tapykuehohágui ijehegui, nemoñemi añetévo ha pya’ekue eikotevẽva kundahára pumbyryguápe g̃uarã.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Emohenda kundahára pumbyryguáva ndéve g̃uarãva, ñemurã’ỹre
