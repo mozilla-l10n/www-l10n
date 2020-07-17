@@ -24,6 +24,7 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } impedisce a un numero s
 whatsnew79-see-your-report = Visualizza il tuo rapporto personalizzato
 whatsnew79-update-your-firefox = Aggiorna il tuo browser { -brand-name-firefox }
 whatsnew79-download-the-firefox = Scarica il browser { -brand-name-firefox }
+whatsnew79-read-our-privacy-promise = Leggi per intero il nostro impegno per la privacy
 whatsnew79-take-less-keep-it-safe = Raccogliamo meno dati. Li manteniamo al sicuro. Nessun segreto. Non abusiamo di nascosto della tua fiducia per guadagnarci sopra.
 # CTA link
 whatsnew79-read-more = Ulteriori informazioni
