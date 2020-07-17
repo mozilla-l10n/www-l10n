@@ -21,6 +21,7 @@ firefox-privacy-hub-you-should-be-able-to-decide = Ilaq-ak·am ad tferneḍ anwa
 firefox-privacy-hub-thats-why-everything-we-make = Γef waya ayen akk i nxeddem d wayen i ntegg irennu azal i lεehd-nneɣ n yisefka udmawanen
 firefox-privacy-hub-take-less = Ddam cwiṭ
 firefox-privacy-hub-we-make-a-point-of-knowing = Nettmuqul ad nissin cwiṭ kan fell-ak/am
+firefox-privacy-hub-all-tech-companies-collect = Akk tikebbaniyin n tetiknuluǧit leqqḍent isefka akken ad snernint ifarisen-nsent. Maca ur ḥwaǧent ara ad glunt s umur meqqren n talɣut-inek·inem tumawant. Isefka i nebɣa ala wid iseg ara tesnefεeḍ taggara. Nesteqsay iman-nneq: Neḥwaǧ dɣa ayagi? I wacu i t-neḥwaǧ? Melmi i nezmer ad t-nekkes?
 firefox-privacy-hub-keep-it-safe = Ḥrez-it
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Nxeddem akk tazmert-nneɣ akken ad neḥrez talɣut-ik/im tudmawant
 firefox-privacy-hub-no-secrets = Ulav tibaḍniyen
