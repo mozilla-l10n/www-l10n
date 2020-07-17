@@ -17,6 +17,7 @@ firefox-privacy-privacy = Tabaḍnit
 firefox-privacy-our-promise = Lεehd-nneɣ
 # Sub navigation link
 firefox-privacy-our-products = Ifarisen-nneɣ
+firefox-privacy-hub-you-should-be-able-to-decide = Ilaq-ak·am ad tferneḍ anwa ara iwalin talɣut-ik·im tudmawant. Mačči d yimeddukkal-ik·im kan, ula d yimberrḥen n udellel d tkebbaniyin srid — rnu ula d ayla-nneɣ.
 firefox-privacy-hub-take-less = Ddam cwiṭ
 firefox-privacy-hub-we-make-a-point-of-knowing = Nettmuqul ad nissin cwiṭ kan fell-ak/am
 firefox-privacy-hub-keep-it-safe = Ḥrez-it
@@ -50,8 +51,10 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Ur nezmir ara ad nwali ismawen neɣ igburen n yifuyla imeqqranen i tbeṭṭuḍ ɣef { -brand-name-firefox-send } acku ttwawgelhen seg yixef ɣer yixef — d kečč·kemm ara ifernen win ara iwalin acu i tettazneḍ, syen tzemreḍ daɣen ad tesbaduḍ azemz ideg ara yemmet d wawal uffir.
 firefox-privacy-hub-send-a-file = Azen afaylu
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } iwelleh ɣer imagraden n tɣara wlayen, i ṣeggmen yimdanen war ma leqqḍen amazray-inek·inem n tunigin, d war beṭṭu n talɣut-inek·inem tudmawant d yimberrḥen.
 firefox-privacy-hub-get-pocket = Awi-d { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } inek
+firefox-privacy-hub-all-the-information-synced = Akk talɣut yemtawan d umiḍan-ik·im { -brand-name-firefox-account } — seg umazray-inek·inem n tunigin ɣer wawalen uffiren — yettwawgelhen. D awal uffir n umiḍan-inek·inem kan i d tasarut tasuft.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Awi yid-k·m tabaḍnit-ik·im d ticraḍ n yisebtar anida teddiḍ s { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
