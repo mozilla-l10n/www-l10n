@@ -8,11 +8,11 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vs. { -brand-name-microsoft } { -brand-name-edge }: Care este cel mai bun browser pentru tine?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Compară { -brand-name-microsoft } { -brand-name-edge } cu Firefox și află care este cel mai bun browser pentru tine.
+compare-edge-compare-microsoft-edge-to-the = Compară { -brand-name-microsoft } { -brand-name-edge } cu { -brand-name-firefox-browser } și află care este cel mai bun browser pentru tine.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Comparație între Firefox și { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Comparație între { -brand-name-firefox-browser } și { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced = Cu { -brand-name-windows } 10, { -brand-name-microsoft } a introdus browserul propriu { -brand-name-edge }, drept concurent la { -brand-name-firefox } și { -brand-name-chrome }, făcându-l browserul implicit preinstalat pe milioane de calculatoare vândute. Chiar și așa, utilizatorii nu l-au adoptat repede, iar { -brand-name-microsoft } a anunțat în cele din urmă planuri de a relansa { -brand-name-edge } ca browser bazat pe { -brand-name-chromium } ({ -brand-name-chromium } fiind, desigur, proiectul { -brand-name-google } de browser cu sursă deschisă).
-compare-edge-here-well-compare-our-firefox = Aici vom compara browserul nostru Firefox cu { -brand-name-microsoft } { -brand-name-edge } bazat pe { -brand-name-chromium } în ceea ce privește confidențialitatea, utilitatea și portabilitatea, pentru a te ajuta să înțelegi mai bine ce browser se potrivește mai bine nevoilor și preferințelor tale.
+compare-edge-here-well-compare-our-firefox = Aici vom compara browserul nostru { -brand-name-firefox-browser } cu { -brand-name-microsoft } { -brand-name-edge } bazat pe { -brand-name-chromium } în ceea ce privește confidențialitatea, utilitatea și portabilitatea, pentru a te ajuta să înțelegi mai bine ce browser se potrivește mai bine nevoilor și preferințelor tale.
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } este integrat în platforma { -brand-name-windows } 10 și rulează într-un mediu de tip sandbox, ceea ce înseamnă că izolează programele și împiedică programele malițioase să te spioneze pe calculator. Are un SmartScreen încorporat care scanează reputația site-urilor pe care intri și le blochează pe cele suspecte. Pentru a îmbunătăți confidențialitatea, { -brand-name-edge } îți permite să utilizezi pentru autentificare online biometria sau un cod PIN cu { -brand-name-windows } Hello în loc de parole.
 # Variables:
