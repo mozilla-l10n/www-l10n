@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Err { -brand-name-firefox } d iminig-ik amezwer
+# HTML page description
+set-as-default-landing-choose-the-browser = Fren iminig ara yemmestnen tudert-ik·im tabaḍnit. Sbadu { -brand-name-firefox } d iminig-ik·im amezwer.
 set-as-default-landing-make-sure-youre-protected = Ḍmen ammesten-ik, yal mi ara teqqneḍ
 set-as-default-landing-thanks-for-using-the = Tanemmirt ɣef useqdec n yiminig aneggaru { -brand-name-firefox }. Mi ara tferneḍ { -brand-name-firefox }, tmuddeḍ afus i uzeṭṭa igerrzen i kečč akked wiyaḍ. Tura ɛeddi ɣer usurif i d-itteddun deg ummesten-ik.
 set-as-default-landing-choose-automatic-privacy = Fren tabaḍnit tawurmant

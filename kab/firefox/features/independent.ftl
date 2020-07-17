@@ -13,8 +13,9 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox } : Aɣewway 
 features-independent-firefox-is-independent = { -brand-name-firefox } d ilelli, d aseɣzan n { -brand-name-mozilla }, takebbanit ur yettnadin ara tadrimt, yesseḥbibiren ɣef yizerfan-ik umḍinen, tekka-d mgal iɣawasen n tkebbaniyin timeqqranin udiɣ tettarra Internet ihegga i yal yiwen deg yal amḍiq.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Ulac asluɣu n lxaṭer
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } tesnulfa-t-id tuddsa ur yettnadin ara idrimen. Ayagi yemmal-d d akken nezmer ad nexdem ayen ur zmiren wiyaḍ, am uheggi n yifarisen akked tmahilin imaynuten war ma neffer aqeddic-nneɣ. Tazwart-nneɣ d azref-ik n tbaḍnit, s yifecka am tunigin tusligt, ammesten mgal aḍfaṛ.
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } tesnulfa-t-id tuddsa ur yettnadin ara idrimen. Ayagi yemmal-d d akken nezmer ad nexdem ayen ur zmiren wiyaḍ, am uheggi n yifarisen akked tmahilin imaynuten war ma neffer aqeddic-nneɣ. Tazwart-nneɣ d azref-ik n tbaḍnit, s yifecka am tunigin tusligt, ammesten mgal aḍfaṛ.
+features-independent-firefox-is-built-by = { -brand-name-firefox } tesnulfa-t-id tuddsa ur nettnadi ara ɣef tedrimt. Ayagi yemmal-d, nezmer ad nexdem ayen iwumi ur zmiren wiyaḍ, am usnulfu n yifarisen d tmahilin imaynuten war ma neffer leqdic-nneɣ. Tazwart-nneɣ, d azref-ik·im n tbaḍnit s yifecka am tunigin tusligt, ammesten mgal aḍfar, d ayen iεeddan ayen i d-summren { -brand-name-google } { -brand-name-chrome } d { -brand-name-microsoft } { -brand-name-edge } offer.
 features-independent-what-you-see-is-what = Ayen tettwalid d ayen ara d-tawiḍ
 features-independent-we-believe-the-internet = Numen d akken Internet yettwag i yimdanen, mačči i ubaɣur. Ayen i ɣ-yessemgaraden d tkebbaniyin-nniḍen, ur neznuzu ara anekcum ɣer yisefka-k. d <em>KEČČ</em> i d aqerru ɣef wid ara iwalin amazray-ik n unadi neɣ n tunigin. Ad ak-nefk azref ad tferneḍ — d wa i d Internet uzmir!
 features-independent-a-browser-on-a-mission = Iminig s wazal
