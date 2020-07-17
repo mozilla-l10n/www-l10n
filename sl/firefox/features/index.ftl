@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Značilnosti { -brand-name-firefox }a – zaščitite svojo zasebnost in brskajte hitreje
 # HTML page description
 features-index-youre-in-control-with-firefoxs = { -brand-name-firefox } vam omogoča nadzor s preprostimi možnostmi za zaščito zasebnosti in za hitro brskanje.
 # Hero title

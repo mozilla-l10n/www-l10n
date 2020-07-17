@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: upornik z r
 features-independent-firefox-is-independent = { -brand-name-firefox } je neodvisen in del neprofitne organizacije { -brand-name-mozilla }, ki se bori za vaše pravice na spletu, drži moči korporacij v šahu in dela internet dostopen vsakomur, povsod.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Brez omejitev
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } razvija neprofitna organizacija. To pomeni, da si lahko privoščimo stvari, ki si jih drugi ne morejo, na primer razvijati nove izdelke in funkcije brez skritih nečednosti. Zavzemamo se za vaše pravice do zasebnosti in v ta namen razvijamo orodja, kot je zasebno brskanje z zaščito pred sledenjem.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } razvija neprofitna organizacija. To pomeni, da si lahko privoščimo stvari, ki si jih drugi ne morejo, na primer razvijati nove izdelke in funkcije brez skritih nečednosti. Zavzemamo se za vaše pravice do zasebnosti in v ta namen razvijamo orodja, kot je zasebno brskanje z zaščito pred sledenjem.
 features-independent-what-you-see-is-what = Kar vidite, tudi dobite

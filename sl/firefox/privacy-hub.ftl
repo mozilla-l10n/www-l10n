@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
 # HTML page title
-firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox }ova obljuba o zasebnosti
+firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox }ova zaveza o zasebnosti
 # HTML page description
 firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } zbira manj podatkov, jih hrani na varnem in ničesar ne skriva pred vami.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -14,11 +14,11 @@ firefox-privacy-hub-firefox-products-are-designed = Izdelki { -brand-name-firefo
 # Sub navigation title
 firefox-privacy-privacy = Zasebnost
 # Sub navigation link
-firefox-privacy-our-promise = Naša obljuba
+firefox-privacy-our-promise = Naša zaveza
 # Sub navigation link
 firefox-privacy-our-products = Naši izdelki
 firefox-privacy-hub-you-should-be-able-to-decide = Odločitev, kdo vidi vaše osebne podatke bi morala biti vaša. Ne le med vašimi prijatelji, ampak z vsakim oglaševalcem in podjetjem na internetu – vključno z nami.
-firefox-privacy-hub-thats-why-everything-we-make = Zato vse, kar delamo, spoštuje našo zavezo o osebnih podatkih.
+firefox-privacy-hub-thats-why-everything-we-make = Zato vse, kar delamo, spoštuje našo zavezo o osebnih podatkih
 firefox-privacy-hub-take-less = Vzemi manj
 firefox-privacy-hub-we-make-a-point-of-knowing = Zavzemamo se, da o vas vemo čim manj
 firefox-privacy-hub-keep-it-safe = Ohrani varnost
