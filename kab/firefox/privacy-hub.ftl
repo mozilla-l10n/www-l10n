@@ -5,10 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Lεehd { -brand-name-firefox } n uqader n tudert tabaḍnit
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } awi drus n yisefka, eǧǧ-iten d tiɣelsanin s war tuffra.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox } ifarisen ttufeṣṣlen akken ad ḥerzen <strong>tabaḍnit-ik/im</strong>
 # Sub navigation title
 firefox-privacy-privacy = Tabaḍnit
+# Sub navigation link
+firefox-privacy-our-promise = Lεehd-nneɣ
 # Sub navigation link
 firefox-privacy-our-products = Ifarisen-nneɣ
 firefox-privacy-hub-take-less = Ddam cwiṭ
