@@ -5,7 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Mmesten tudert-ik·im tabaḍnit, tinigeḍ zzerb s tmahilin { -brand-name-firefox }
+# Hero title
+features-index-firefox-features = Timahilin n { -brand-name-firefox }
+features-index-see-all = Wali meṛṛa iseɣzaf
+features-index-get-an-account = Awi { -brand-name-firefox-account }
 features-index-open-source-minds = Aɣbalu yeldin. Allaɣen yeldin.
+features-index-see-what-makes-us-different = Wali acuɣer ur yelli yiwen am nekkni
 features-index-choose-independence = Fren timunent
 features-index-read-our-privacy-policy = Ɣeṛ tasertit-nneɣ n tbaḍnit
 features-index-get-firefox-for-privacy = Awi { -brand-name-firefox } i tudert tabaḍnit
