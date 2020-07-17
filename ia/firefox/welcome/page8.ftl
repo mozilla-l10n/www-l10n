@@ -5,9 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+welcome-page8-enhanced-tracking-protection = Protection antitraciamento reinfortiate
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Vide si tu ha essite involvite in un note violation de datos online e prende action pro resolver los.
 welcome-page8-firefox-send = { -brand-name-firefox-send }
+welcome-page8-share-large-files = Comparti files de grande dimension con cryptographia end-to-end per un ligamine con expiration automatic.
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-add-facebook-container = Adde { -brand-name-facebook-container }
 welcome-page8-why-am-i = Proque vide io isto?

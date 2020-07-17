@@ -6,3 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-browse-faster = Naviga plus rapidemente
+features-shared-password-manager = Gestor de contrasigno
+features-shared-customize-your-browser = Personalisa tu navigator
+features-shared-sync-between-devices = Synchronisar inter apparatos
+features-shared-better-bookmarks = Melior marcapaginas
+brand-name-firefox = { -brand-name-firefox }
