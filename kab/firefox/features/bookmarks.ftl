@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Err ticraḍ-ik·im d tudmawanin
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Err-itent akken tebɣiḍ
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Aɣ tannumi d yal amsefrak n tecraḍ n yisebtar <a href="{ $url }">izegrar</a> wuɣur i tzemreḍ ad txemmeḍ, seg tuṭṭfiwin tiččuranin n usebter ɣer ufeggag agalis i isehlen i ubeddel syen ɣer tecraḍ n yisebtar tusligin i isekkṛen.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
