@@ -24,8 +24,12 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } bloca, plus que mais an
 whatsnew79-see-your-report = Vide tu reporto
 whatsnew79-update-your-firefox = Actualisa tu navigator { -brand-name-firefox }
 whatsnew79-download-the-firefox = Discarga le navigator { -brand-name-firefox }
+whatsnew79-read-our-privacy-promise = Lege nostre promissa de confidentialitate
+whatsnew79-take-less-keep-it-safe = Prender minus. Mantener los secur. Nulle secretos. Nostre negotios non depende de abusar secretemente de tu fide.
 # CTA link
 whatsnew79-read-more = Lege plus
+whatsnew79-keep-facebook-contained = Mitiga le traciamento de { -brand-name-facebook }
+whatsnew79-get-the-power-to-prevent = Installa le potentia pro impedir a { -brand-name-facebook } e a { -brand-name-instagram } de traciar te circum le Web.
 # CTA link
 whatsnew79-add-facebook-container = Adde { -brand-name-facebook-container }
 # Modal title
