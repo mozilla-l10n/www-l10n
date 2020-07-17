@@ -19,6 +19,7 @@ whatsnew79-with-one-tap-mozilla-vpn = S yiwennusiti kan, { -brand-name-mozilla-v
 # CTA link
 whatsnew79-get-started = Aha ad bdu
 whatsnew79-get-more-control-over = Awi ugar n usenqed ɣef yineḍfaren
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } yessewḥal ugar n yimberraḥen d yineḍfaren i ak·akem-yeṭṭafaren ɣef wakken yella uqbel.
 # CTA link
 whatsnew79-see-your-report = Wali aneqqis-ik·im
 whatsnew79-update-your-firefox = Leqqem iminig-inek·inem { -brand-name-firefox }
