@@ -16,7 +16,7 @@ facebook-container-try-firefox-focus-the-privacy = Eipuru <strong>{ -brand-name-
 facebook-container-opt-out-on-your-terms = Eñemo’ã nemba’ete guýpe
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } ikatu ohapykueho ne rembiapo ñanduti pegua ha ombojuaju nde reko { -brand-name-facebook } pegua ndive. Ko’ãva tuichaitereíramo ndéve g̃uarã, pe <a href="{ $fbcontainer }">"Firefox Container" jepysokue</a> omoha’eño nde reko peteĩ tendayke jokoha okayguávape, ombohasyve hag̃ua Firefox-pe nde rapykuehóvo { -brand-name-facebook }-pe nereiméirõ.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } ikatu ohapykueho ne rembiapo ñanduti pegua ha ombojuaju nde reko { -brand-name-facebook } pegua ndive. Ko’ãva tuichaitereíramo ndéve g̃uarã, pe { -brand-name-facebook-container } jepysokue</a> omoha’eño nde reko peteĩ tendayke jokoha okayguávape, ombohasyve hag̃ua { -brand-name-facebook } nde rapykuehóvo { -brand-name-facebook }-pe nereiméirõ.
 facebook-container-install-and-contain = Emboguejy ha ema’ẽag̃ui
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
