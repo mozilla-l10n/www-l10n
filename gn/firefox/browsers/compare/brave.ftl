@@ -16,3 +16,4 @@ compare-brave-just-like-the-firefox-browser = Pe kundaháraicha avei { -brand-na
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } avei og̃uahẽramo pe mba’ekuaarã ñembojuehekuaápe umi opopyvusu oku’éva ojekuaavévape, avei ombojuehekuaa umi tokens ojepurukuaáva.
 compare-brave-when-comparing-the-two-browsers = Ñamoñondivévo mokõivéva kundahára, péicha { -brand-name-firefox } ha avei { -brand-name-brave } ome’ẽkuaa ambuéva ñemigua ha tekorosã ijypykue rupi, eipurukuaáva eike ñepyrũete guive.
+compare-brave-overall-brave-is-a-fast-and = Tuichaháicha, { -brand-name-brave } ha’e kundahára ipya’e ha hekorosãva orekóva jehayhu umi criptomoneda puruháragui. Hákatu opavave tapicha Ñanduti puruhárape, { -brand-name-firefox } ha’e gueteri iporãve ha ndahasýiva ijepuru.

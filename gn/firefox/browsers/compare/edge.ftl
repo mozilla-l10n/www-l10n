@@ -40,6 +40,7 @@ compare-edge-with-internet-explorer-fallback = { -brand-name-ie } ndive, { -bran
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-edge-firefox-has-been-available = { -brand-name-firefox } ojepurukuaa { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac } ha { -brand-name-linux } ndive heta ary. Ha eha’arõháicha oimeraẽva kundahára pyahúpe, { -brand-name-firefox } omoneĩ emoñepyrũvo tembiapo <a { $attrs }>mba’ete reigua</a> ndive ha embojuehe mba’ekuaarã ha’éva ñe’ẽñemi, kundaha rembiasakue, techaukaha ha tendayke juruja mohendaha, tabléta ha pumbyry pa’ũme. Omoneĩ ndéve ñembojuehe plataforma ndive.
+compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } omoneĩ embojuajúvo mba’ete { -brand-name-microsoft } pegua ojuajúva ha eñepyrũ tembiapo embojuehe hag̃ua erohoryvéva, tembiasakue, ñe’ẽñemi ha hetave ne mohendaha ha { -brand-name-ios } térã { -brand-name-android } mba’e’okápe.
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } avei omoneĩ embojuajúvo mba’ete { -brand-name-microsoft } pegua ojuajúva ha eñepyrũ tembiapo embojuehe hag̃ua erohoryvéva, tembiasakue, ñe’ẽñemi ha hetave ne mohendaha ha mba’e’oka { -brand-name-ios } térã { -brand-name-android }, oĩ heta tabléta { -brand-name-android } ndojokupytýiva ko’ág̃a rupi.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
