@@ -24,6 +24,9 @@ features-bookmarks-take-your-favorites-on = Porta sempre tu favoritos con te. Us
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Prende un tempore con ille marcapaginas
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Practica tu precision con omne <a href="{ $url }">additivo</a> de gestion de marcapaginas que tu pote imaginar, desde instantaneos de tote le pagina, usque barras lateral de cambiamento rapide pro marcapaginas private.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

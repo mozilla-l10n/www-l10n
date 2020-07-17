@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: rebelle con
 features-independent-firefox-is-independent = { -brand-name-firefox } es independente e un parte de { -brand-name-mozilla }, un organisation sin fines de lucro que lucta pro tu derectos in linea, controla le abusos del poteres corporative e rende Internet accessibile a omnes, ubique.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Sin compromissos
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } es producite per un organisation non-lucrative. Illo pote realisar lo que le altere unos non pote, como producer nove productos e functionalitates sin fines occulte. Nos defende tu derectos al confidentialitate con utensiles qual Navigation anonyme con protection del traciamento.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } es producite per un organisation non-lucrative. Illo pote realisar lo que le altere unos non pote, como producer nove productos e functionalitates sin fines occulte. Nos defende tu derectos al confidentialitate con utensiles qual Navigation anonyme con protection del traciamento.
 features-independent-what-you-see-is-what = Illo que tu vide es illo que de facto es
