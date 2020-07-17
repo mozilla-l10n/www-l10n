@@ -39,6 +39,7 @@ compare-shared-utility-strong = <strong>Tixxutert</strong>
 compare-shared-portability-strong = <strong>Aɛebbi</strong>
 compare-shared-overall-assessment = Aktazal amatu
 compare-shared-the-comparisons-made-here = Iserwas yettwaxedmen da mmugen am wid yettwaxedmen gar yileqman n yileqman n yiminig, akka:
+compare-shared-this-page-updated-semi-quarterly = Asebter-a yettwaleqqam yal tlata wagguren akken ad d-iban deg yileqman ineggura, akken yezmer daɣen ur d-ttbanen ara yileqman ineggura.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
