@@ -44,9 +44,19 @@ firefox-privacy-hub-protection-beyond-tracking = Ammesten yekka nnig uḍfar
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Senqed tirewliwin n yisefka
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Awalen uffiren d yinekcam n tuqqna i teskelseḍ deg { -brand-name-firefox-lockwise } ttwawgelhen deg meṛṛa ibenkan-inek·inem, ula d nekkni ur nezmir ara ad ten-nwali.
 firefox-privacy-hub-learn-more-about-lockwise = Issin ugar ɣef { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Azen afaylu
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Awi-d { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } inek
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Awi yid-k·m tabaḍnit-ik·im d ticraḍ n yisebtar anida teddiḍ s { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Γur-k·m yakan amiḍan? a { $sign_in } class="{ $class_name }">qqen</a> neɣ <a href="{ $learn_more }">issin ugar</a> ɣef uttekki deg { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Γer <a href="{ $url }">tasertit n tbaḍnit</a> n yifarisen-nneɣ
