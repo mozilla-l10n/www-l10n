@@ -16,10 +16,15 @@ password-manager-password-hero = Asebgar n wawalen uffiren
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ttu tulsa n "ttuɣ awal uffir". Amsefrak n wawalen uffiren n { -brand-name-firefox } ad yeḥrez akk awalen-ik uffiren ihi ad tizmireḍ ad teqqneḍ s wudem awurmanneɣ ad tafeḍ awalen-ik uffiren. Ugar n tɣellist, fren <a href="{ $url }">awal uffiren agejdan</a> akken ad tɛasseḍ akk awalen. uffiren.
+password-manager-password-magician = Aseḥḥar n wawal uffir
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Awal uffir ninja
 password-manager-no-more-try-again = Ifukk "ɛreḍ tikelt-nniḍen" ticki tettaɛraḍeḍ ad tawḍeḍ isebtar. Anekcum ɣer { -brand-name-firefox-account }-ik·im deg uziraz-ik·im, awalen-ik:im uffiren ad ilin yid-k·m. Talqayt n yinekcam-ik·im ad d-banen s sshala, akka.
+password-manager-password-champion = Asaḍ n wawal uffir
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Rbeḥ cciεa-inek·inem n ureɣ n tɣellist s uswir εlayen n umsefrak { -brand-name-firefox } n umsefrak n wawalen uffiren <a href="{ $addons }">n yizegrar</a>. Fren Win yellan neɣ nadi aswir-nniden gar wid yettwaszemlen neɣ yettwaceggren sɣur iseqdacen.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Agejdan n wawal uffir
