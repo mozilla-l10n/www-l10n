@@ -10,11 +10,11 @@ features-independent-firefox-a-different = { -brand-name-firefox }, другач
 # HTML page description
 features-independent-browse-the-internet = Сурфујте интернетом као што би и требало… слободно, безбедно и приступачно свима. Декларишите своју интернет независност.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Бунтовник са разлогом
-features-independent-firefox-is-independent = { -brand-name-firefox } је независан и део непрофитне организације која се бори за ваша интернет права и омогућава интернет доступним свима и свуда.
+features-independent-firefox-is-independent = { -brand-name-firefox } је независан и део непрофитне организације { -brand-name-mozilla }, која се бори за ваша интернет права и омогућава интернет доступним свима и свуда.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Нема стрингова
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } је направила непрофитна организација. То значи да можемо учинити оно што други себи не могу приуштити, попут развоја нових производа и функција без тајног плана акције. Наш приоритет је ваше право на приватност, уз алате као што су приватно прегледање и заштита од праћења.
+features-independent-firefox-is-built-by = { -brand-name-firefox } је направила непрофитна организација. То значи да можемо учинити оно што други себи не могу приуштити, попут развоја нових производа и функција без тајног плана акције. Наш приоритет је ваше право на приватност, уз алате као што су приватно прегледање и заштита од праћења, који су бољи од онога што нуде { -brand-name-google } { -brand-name-chrome } и { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Оно што видите је оно што и добијате
 features-independent-we-believe-the-internet = Ми верујемо да је интернет за људе, не за профит. За разлику од других компанија ми не продајемо ваше податке. <em>Ви</em> управљате њима и ко ће видети вашу историју прегледања и претраге. Избор — то је оно што здрав интернет представља!
 features-independent-a-browser-on-a-mission = Прегледач на мисији
