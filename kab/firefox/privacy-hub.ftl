@@ -18,6 +18,7 @@ firefox-privacy-our-promise = Lεehd-nneɣ
 # Sub navigation link
 firefox-privacy-our-products = Ifarisen-nneɣ
 firefox-privacy-hub-you-should-be-able-to-decide = Ilaq-ak·am ad tferneḍ anwa ara iwalin talɣut-ik·im tudmawant. Mačči d yimeddukkal-ik·im kan, ula d yimberrḥen n udellel d tkebbaniyin srid — rnu ula d ayla-nneɣ.
+firefox-privacy-hub-thats-why-everything-we-make = Γef waya ayen akk i nxeddem d wayen i ntegg irennu azal i lεehd-nneɣ n yisefka udmawanen
 firefox-privacy-hub-take-less = Ddam cwiṭ
 firefox-privacy-hub-we-make-a-point-of-knowing = Nettmuqul ad nissin cwiṭ kan fell-ak/am
 firefox-privacy-hub-keep-it-safe = Ḥrez-it
