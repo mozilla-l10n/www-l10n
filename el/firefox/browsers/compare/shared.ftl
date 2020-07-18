@@ -11,6 +11,7 @@ compare-shared-yes = Ναι
 compare-shared-no = Όχι
 compare-shared-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
 compare-shared-blocks-third-party-tracking = Φραγή cookies καταγραφής τρίτων
+compare-shared-blocks-cryptomining-scripts = Αποκλείει σενάρια εξόρυξης κρυπτονομισμάτων
 compare-shared-blocks-social-trackers = Φραγή κοινωνικών ιχνηλατών
 compare-shared-autoplay-blocking = Φραγή αυτόματης αναπαραγωγής
 compare-shared-tab-browsing = Περιήγηση με καρτέλες
