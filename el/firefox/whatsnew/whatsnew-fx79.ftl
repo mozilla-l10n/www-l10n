@@ -9,6 +9,7 @@
 whatsnew79-page-title = Τι νέο υπάρχει στο { -brand-name-firefox }
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Αποκτήστε την εφαρμογή { -brand-name-firefox }
+whatsnew79-with-one-tap-mozilla-vpn = Με ένα πάτημα, το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεσή σας για να πραγματικά ιδιωτική δραστηριότητα σε κάθε δίκτυο — μακριά από hackers και αδιάκριτα βλέμματα.
 # CTA link
 whatsnew79-get-started = Ξεκινήστε
 whatsnew79-download-the-firefox = Λήψη του προγράμματος περιήγησης { -brand-name-firefox }

@@ -8,6 +8,7 @@
 features-index-see-all = Προβολή όλων των επεκτάσεων
 features-index-get-an-account = Αποκτήστε ένα { -brand-name-firefox-account }
 features-index-choose-independence = Επιλέξτε την ανεξαρτησία
+features-index-firefox-vs = { -brand-name-firefox } vs. άλλων προγραμμάτων περιήγησης
 features-index-compare-browsers = Σύγκριση προγρογραμμάτων περιήγησης
 features-index-see-themes = Προβολή κορυφαίων θεμάτων
 features-index-download-latest = Λήψη του πιο πρόσφατου { -brand-name-firefox }
