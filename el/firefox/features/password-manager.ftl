@@ -29,4 +29,4 @@ password-manager-password-master = Αρχηγός των κωδικών πρόσ
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Κερδίστε την δεύτερη σας μαύρη ζώνη για την ασφάλεια μέσα από ένα ευρύ φάσμα <a href="{ $addons }">πρόσθετων</a> για την διαχείριση κωδικών. Βρείτε το αγαπημένο σας πρόσθετο ή κάποιο άλλο μέσα από τις βαθμολογίες και τις αξιολογήσεις της κοινότητας.
+password-manager-earn-your-second = Κερδίστε τη δεύτερη μαύρη ζώνη ασφαλείας σας με την τεράστια ποικιλία <a href="{ $addons }">προσθέτων</a> διαχείρισης κωδικών πρόσβασης του { -brand-name-firefox }. Επιλέξτε ένα αγαπημένο πρόσθετο ή βρείτε ακόμη πιο προηγμένες επιλογές μέσω των αξιολογήσεων και των βαθμολογιών της κοινότητας.
