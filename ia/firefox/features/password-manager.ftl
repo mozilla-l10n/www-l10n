@@ -20,7 +20,7 @@ password-manager-password-magician = Contrasigno magic
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja del contrasignos
-password-manager-no-more-try-again = Finite tote le tentativas tediose de attinger un pagina. Aperi session a tu conto Firefox sur tu telephono, e tu contrasignos veni con te. Tu detalios de authentication apparera simplemente, como per magia.
+password-manager-no-more-try-again = Finite tote le tentativas tediose de attinger un pagina. Accede tu { -brand-name-firefox-account } sur tu telephono e tu contrasignos veni con tu. Tu credentiales detaliate apparera simplemente, como per magia.
 password-manager-password-champion = Contrasigno defendente
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
