@@ -8,11 +8,13 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } mgal { -brand-name-safari }: Anwa iminig i ifazen ɣer-wen?
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } d iminig yettwasbedden s wudem amezwer ɣef { -brand-name-mac } akked { -brand-name-iphone }. Semyif { -brand-name-safari } akked Firefox akkend ad d-taffeḍ anwi iminig ifazen ɣer-m/k.
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } d iminig yettwasbedden s wudem amezwer ɣef { -brand-name-mac } d { -brand-name-iphone }. Serwes gar { -brand-name-safari } d { -brand-name-firefox-browser } akken ad d-twaliḍ anwa iminig ifazen ɣur-k·m.
 # Main title.
 compare-safari-comparing-firefox-browser = Aserwes gar { -brand-name-firefox-browser } d { -brand-name-apple } { -brand-name-safari }
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Ma yella tseqdaceḍ Mac neɣ tesεiḍ { -brand-name-iphone }, ahat tessneḍ iminig web { -brand-name-safari }. Imi yebded d iminig amezwer i yiseqdacen n ufaris { -brand-name-apple } yefka-as azal seg tazwara, maca { -brand-name-firefox } ɣur-s timahilin-ines netta timesbaɣurin i t-yerran yesεa azal ugar. Ad d-nesnirem dagi imgerraden igejdanen yellan gar yiminig-nneɣ d { -brand-name-safari } seg tama n tewtilin n tbaḍnit, tixxutert d wawway gar yibenkan.
+# A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
+compare-safari-privacy-has-become-a-white = Aɣbel n tudert tabaḍnit yuɣal d asentel agejdan i tkebbaniyin titiknulujiyin, seg wakken i d-ttafent d luluf n yimdanen yettḥulfun hcicit mgal kra n temsal am trewliwin n yisefka, d yineḍfaren d yimakaren. Maca mi ara tuɣaleḍ ɣer yifecka imiranen i sseqdacen yimdanen i tunigin gar yismal web, wissen ma d-ttmeslayen neɣ gan kra n tigawin ara iḥerzen isefka-inek·inem?
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/facebook-container/ with additional attributes for analytics
 # "WebMD" is a brand name.
