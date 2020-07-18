@@ -23,7 +23,7 @@ firefox-mobile-stop-companies-from-following = Impedi al interprisas de sequer t
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-firefox-mobile-stay-off-their-radar-with = Resta foras de lor radar con le <a href="{ $url }">protection contra le traciamento</a>
+firefox-mobile-stay-off-their-radar-with = Resta foras de lor radar con <a href="{ $url }">{ -brand-name-firefox } Protection contra le traciamento</a>
 firefox-mobile-discover-products-that-keep = Discoperi le productos que te protege
 firefox-mobile-sync-your-history-passwords = Synchronisa tu chronologia, contrasignos e marcapaginas. Invia schedas inter tote tu apparatos.
 firefox-mobile-android-only = { -brand-name-android } solmente
