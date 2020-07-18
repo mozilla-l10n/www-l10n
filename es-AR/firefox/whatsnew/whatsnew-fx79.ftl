@@ -12,6 +12,8 @@ whatsnew79-main-title = Mantené tus datos privados, incluso de nosotros
 whatsnew79-main-intro = Internet debería ser un lugar seguro para todos. Es por eso que { -brand-name-firefox } no te sigue en línea y evita que otros también te sigan.
 # Main CTA button
 whatsnew79-primary-cta = Hacer { -brand-name-firefox } predeterminado
+# Fallback CTA button, shown if Firefox is already a user's default browser
+whatsnew79-fallback-cta = Obtené la aplicación { -brand-name-firefox }
 whatsnew79-secure-your-connection = Asegurá tu conexión
 whatsnew79-with-one-tap-mozilla-vpn = Con un toque, { -brand-name-mozilla-vpn } cifra tu conexión para mantener tu actividad en línea privada en cualquier red, a salvo de piratas informáticosy otras miradas indiscretas.
 # CTA link
