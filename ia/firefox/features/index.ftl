@@ -9,6 +9,8 @@
 features-index-protect-your-privacy-and-browse = Protege tu confidentialitate e naviga plus velocemente con le functionalitates de { -brand-name-firefox }
 # HTML page description
 features-index-youre-in-control-with-firefoxs = Tu es in controlo con le functionalitate de { -brand-name-firefox } facile a usar, que protege tu confidentialitate e le velocitate de tu navigation.
+# Hero title
+features-index-firefox-features = Functionalitates de { -brand-name-firefox }
 features-index-see-all = Vider tote le extensiones
 features-index-get-an-account = Obtener un { -brand-name-firefox-account }
 features-index-see-what-makes-us-different = Discoperi cosa rende nos differente
