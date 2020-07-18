@@ -35,7 +35,7 @@ firefox-channel-nightly-blog = Ablug { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } d anagraw n usekyed akked d tneflit ur yerkiden ara. Di tazwara, { -brand-name-nightly } yettazen isefka i { -brand-name-mozilla } — Tikwal i yimendiden-nneɣ — akken ad ɣ-d-yefk afus ad nefru uguren neɣ ad neɛreḍ tiktiwin-nniḍen, <a href="{ $link }"> Issin ayen yettwabḍan</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } yettazen tikti s wudem awurman i { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Ɛreḍ timahilin timaynutin deg yileqman uzwiren | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-desktop = Sekyed isnulfuyen ineggura s yileqman-nneɣ uzwiren: { -brand-name-firefox-developer-edition }, Firefo Beta akked { -brand-name-firefox-nightly }. Sader-iten-id tura!
+firefox-channel-experience-cutting-edge-desktop = Sekyed isnulfuyen ineggura s yileqman uzwiren: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } d { -brand-name-firefox-nightly }. Sider tura!
 firefox-channel-download-and-test-the-latest-desktop = Sader daɣen sekyed timahilin tineggura n { -brand-name-firefox } i uselkim s yileqman n { -brand-name-developer-edition }, { -brand-name-beta } akked { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Sekyed timahilin ara d-yeffɣen akka kra n wakud s useqdec n warid urkid.
