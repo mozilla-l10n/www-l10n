@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Navigator Firefox: un gestor de contrasignos facile e veloce
+password-manager-firefox-browser = { -brand-name-firefox-browser }: un gestor de contrasignos facile e veloce
 # HTML page description
 password-manager-firefox-password = Le gestor de contrasignos de { -brand-name-firefox } salva tote tu contrasignos in un sol loco, assi tu pote automaticamente authenticar te al sitos, o recuperar le contrasignos salvate.
 # Hero title
