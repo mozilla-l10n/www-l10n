@@ -19,6 +19,7 @@ features-index-give-your-browser = Da a tu navigator le apparentia que tu desira
 features-index-important-stuff = Verifica que tote tu substantias importante: recercas internet, contrasignos, schedas aperte,  appare ubi te besonia illos sur cata dispositivo.
 features-index-get-an-account = Obtener un { -brand-name-firefox-account }
 features-index-use-the-bookmark = Usa le icone stella del marcapagina pro star organisate e adder facilemente nomines personalisate e plicas.
+features-index-from-the-company = De un compania que antepone personas al profito
 features-index-see-what-makes-us-different = Discoperi cosa rende nos differente
 features-index-opted-in-to-privacy-so-you = Votate a tu confidentialitate, assi tu pote navigar liberemente.
 features-index-read-our-privacy-policy = Lege nostre politica de confidentialitate
