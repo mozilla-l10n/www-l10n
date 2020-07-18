@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-browse-faster = Naviga plus rapidemente
+features-shared-ad-tracker-blocking = Bloco del publicitate traciante
 features-shared-password-manager = Gestor de contrasigno
 features-shared-customize-your-browser = Personalisa tu navigator
 features-shared-sync-between-devices = Synchronisar inter apparatos
