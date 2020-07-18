@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Sader iminig Firefox ɣef uziraz-ik deg { -brand-name-ios } akked { -brand-name-android }
+firefox-mobile-download-the-firefox-browser = Sider { -brand-name-firefox-browser } ɣef uziraz-ik·im i { -brand-name-ios } d { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = Iminif Firefox i uziraz yessewḥal ugar n 2000 n yineḍfaṛen s wudem amezwer, d ayen ara k-imudden aqadeṛ i tuklaleḍ akked urured i tesriḍ deg yiminig aziraz uslig.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
