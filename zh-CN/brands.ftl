@@ -26,7 +26,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox 浏览器
--brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-developer-edition = Firefox 开发者版
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
@@ -38,7 +38,7 @@
 ## Firefox browsers (short names)
 
 -brand-name-beta = Beta
--brand-name-developer-edition = Developer Edition
+-brand-name-developer-edition = 开发者版
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
