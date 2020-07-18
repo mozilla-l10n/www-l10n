@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Загрузите браузер Firefox для { -brand-name-ios } и { -brand-name-android } на свой мобильный
-firefox-mobile-firefox-browser-for-mobile = Браузер Firefox для мобильных устройств блокирует более 2000 трекеров по умолчанию, предоставляя вам приватность, которую вы заслуживаете, и скорость, необходимую для приватного мобильного браузера.
+firefox-mobile-download-the-firefox-browser = Загрузите { -brand-name-firefox-browser(case: "nominative") } для { -brand-name-ios } и { -brand-name-android } на свой мобильный
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser(case: "nominative_uppercase") } для мобильных устройств блокирует более 2000 трекеров по умолчанию, предоставляя вам приватность, которую вы заслуживаете, и скорость, необходимую для приватного мобильного браузера.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Загрузите мобильный браузер, созданный для вас, а не для рекламодателей
@@ -30,7 +30,7 @@ firefox-mobile-android-only = Только для { -brand-name-android }
 firefox-mobile-make-android-your-own = Сделайте { -brand-name-android } своим
 # Variables:
 #   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Настройте свой мобильный браузер { -brand-name-firefox } с помощью <a href="{ $url }">расширений</a>, чтобы блокировать рекламу, управлять паролями, запретить Фейсбуку отслеживать вас и многое другое.
+firefox-mobile-customize-your-firefox-mobile = Настройте свой мобильный браузер { -brand-name-firefox } с помощью <a href="{ $url }">расширений</a>, чтобы блокировать рекламу, управлять паролями, запретить { -brand-name-facebook } отслеживать вас и многое другое.
 firefox-mobile-find-it-fast-with-a-smart = Ищите быстро с умной поисковой строкой
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } предсказывает ваши желания благодаря умным поисковым предложениям и быстрому доступу к сайтам, которые вы посещаете чаще всего.
 firefox-mobile-the-privacy-you-deserve-the = Приватность, которую вы заслуживаете. Скорость, которая вам необходима.
