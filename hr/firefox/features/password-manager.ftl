@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Zaboravi resetiranje. { -brand-name-firefox 
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Čarobnjak za lozinke
-password-manager-no-more-try-again = Nema više „pokušaj ponovo” dok pokušavaš nekamo doći. Prijavi se na svoj Firefox račun na svom mobitelu i tvoje lozinke idu s tobom. Detalji tvoje prijave će se pojaviti sami od sebe.
+password-manager-no-more-try-again = Nema više „pokušaj ponovo” dok pokušavaš nekamo doći. Prijavi se na svoj { -brand-name-firefox-account } račun na svom mobitelu i tvoje lozinke idu s tobom. Detalji tvoje prijave će se jednostavno pojaviti.
 # Obsolete string
 # A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Majstor za lozinke

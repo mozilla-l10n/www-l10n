@@ -10,7 +10,7 @@ features-independent-firefox-a-different = { -brand-name-firefox }, drukčiji pr
 # HTML page description
 features-independent-browse-the-internet = Pretraži internet onako kako je mišljeno … slobodno, sigurno i pristupačno svima. Objavi svoju internet neovisnost.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Buntovnik s razlogom
-features-independent-firefox-is-independent = { -brand-name-firefox } je neovisan i dio je neprofitne organizacije koja se bori za tvoja internetska prava i omogućuje internet svima i svugdje.
+features-independent-firefox-is-independent = { -brand-name-firefox } je neovisan i dio je neprofitne organizacije { -brand-name-mozilla }, koja se bori za tvoja internetska prava i omogućava internet svima i svugdje.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Bez ograničenja
 # Obsolete string
@@ -20,4 +20,4 @@ features-independent-we-believe-the-internet = Mi vjerujemo da je internet za lj
 features-independent-a-browser-on-a-mission = Preglednik s misijom
 features-independent-in-addition-to-fighting = Pored toga što se borimo za tvoja internetska prava, također držimo moći korporacija pod kontrolom dok održavamo dobre internetske prakse sa saveznicima širom svijeta. Kad izabereš { -brand-name-firefox }, { -brand-name-firefox } bira i tebe.
 # Obsolete string
-features-independent-firefox-is-a-browser = { -brand-name-firefox } je preglednik sa savješću. Kao dio tehnologije neprofitne Mozille, mi se borimo za tvoja internetska prava, pomažemo u edukaciji i napredovanju država s principima zdravog interneta. Tako da kad izabereš { -brand-name-firefox }, { -brand-name-firefox } bira i tebe.
+features-independent-firefox-is-a-browser = { -brand-name-firefox } je preglednik sa savješću. Kao dio tehnologije neprofitne organizacije { -brand-name-mozilla }, borimo se za tvoja internetska prava, pomažemo u edukaciji i napredovanju država s principima zdravog interneta. Stoga, kad odabereš { -brand-name-firefox }, biramo i tebe.
