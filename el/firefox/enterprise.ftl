@@ -5,4 +5,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise = { -brand-name-enterprise }
+firefox-enterprise-overview = Επισκόπηση
+firefox-enterprise-downloads = Λήψεις
+firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
+firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-select-your-download = Επιλέξτε τη λήψη σας
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Πρόγραμμα εγκατάστασης MSI
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Πρόγραμμα εγκατάστασης MSI
+firefox-enterprise-support = Υποστήριξη
+firefox-enterprise-msi-installers = Προγράμματα εγκατάστασης MSI
+firefox-enterprise-admx-templates = Πρότυπα ADMX
+firefox-enterprise-deployment-guide = Οδηγός ανάπτυξης
+firefox-enterprise-policy-documentation = Τεκμηρίωση πολιτικής
+firefox-enterprise-release-notes = Σημειώσεις έκδοσης
+firefox-enterprise-documentation-and-community = Τεκμηρίωση και υποστήριξη κοινότητας
+firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης PKG
+firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
