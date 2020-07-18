@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Πρόγραμμα περιήγησης Firefox: Γρήγορη, εύκολη διαχείριση κωδικών πρόσβασης
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Γρήγορη, εύκολη διαχείριση κωδικών πρόσβασης
 # HTML page description
 password-manager-firefox-password = Ο Διαχειριστής Κωδικών του { -brand-name-firefox } αποθηκεύει όλους τους κωδικούς πρόσβασης σας σε ένα μέρος κι έτσι μπορείτε να συνδέεστε σε ιστοσελίδες αυτόματα, ή να ανακτάτε αποθηκευμένους κωδικούς.
 # Hero title
@@ -16,12 +16,14 @@ password-manager-password-hero = Ήρωας των κωδικών πρόσβασ
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ξεχάστε την επαναφορά. Η Διαχείριση Κωδικών του { -brand-name-firefox } διατηρεί όλους σας τους κωδικούς ούτως ώστε να μπορείτε να συνδέεστε αυτόματα, ή να τους βρίσκετε εύκολα. Για μέγιστη προστασία, δημιουργήστε στον υπολογιστή σας ένα <a href="{ $url }">κύριο κωδικό πρόσβασης</a>.
+password-manager-password-magician = Μάγος των κωδικών πρόσβασης
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Νίντζα των κωδικών πρόσβασης
 password-manager-no-more-try-again = Όχι άλλο πια «προσπαθήστε ξανά» στην προσπάθειά σας να συνδεθείτε κάπου. Συνδέοντας το τηλέφωνό σας με τον λογαριασμό Firefox, οι κωδικοί σας έρχονται μαζί σας. Οι λεπτομέρειες της σύνδεσής σας θα εμφανιστούν έτσι απλά.
+password-manager-password-champion = Πρωταθλητής των κωδικών πρόσβασης
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Αρχηγός των κωδικών πρόσβασης
 # Obsolete string
 # Variables:

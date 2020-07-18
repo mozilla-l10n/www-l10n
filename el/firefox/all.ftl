@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Ρίξτε μια ματιά στις νέες
 firefox-all-test-your-sites-against = Δοκιμάστε στις ιστοσελίδες σας τις επερχόμενες λειτουργίες του προγράμματος περιήγησης { -brand-name-firefox } με ισχυρά, ευέλικτα DevTools που είναι ενεργοποιημένα από προεπιλογή.
 firefox-all-count-on-stability-and = Βασιστείτε στη σταθερότητα και την ευκολία χρήσης του προγράμματος περιήγησης { -brand-name-firefox } που έχει σχεδιαστεί για επιχειρήσεις.
 firefox-all-windows-installers-for = Προγράμματα εγκατάστασης για Windows για τα εταιρικά τμήματα πληροφορικής που απλοποιούν τη ρύθμιση παραμέτρων, την ανάπτυξη και τη διαχείριση του { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = Προγράμματα εγκατάστασης ARM64/AArch64
+firefox-all-arm64-installers-optimized = Προγράμματα εγκατάστασης ARM64/AArch64, βελτιστοποιημένα για { -brand-name-windows } υπολογιστές με Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 32-bit για υπολογιστές με επεξεργαστές 32-bit — ή για πιο παλιούς/αδύναμους υπολογιστές. <a href="{ $url }">Αν δεν ξέρετε σίγουρα</a> ποιο πρόγραμμα εγκατάστασης να επιλέξετε, προτείνουμε την έκδοση 32-bit.
