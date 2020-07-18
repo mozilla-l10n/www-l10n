@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Sewḥel { -brand-name-facebook } sef uḍfar
 page7-its-okay-to-like-facebook = { -brand-name-facebook } : Ih. Aḍfar: uhu
-page7-if-you-still-kinda-like-facebook = Ma mazal tḥemmleḍ { -brand-name-facebook } maca ur ten-tumineḍ ara, ihi ɛreḍ asiɣzef n  umagbar n { -brand-name-facebook } sɣur { -brand-name-firefox } rnu sewɛer-asen nezzeh ad k-ḍefren deg web.
+page7-if-you-still-kinda-like-facebook = Ma mazal tebɣiḍ ad tesxedmeḍ { -brand-name-facebook } maca ur ten-tumineḍ ara, εreḍ ihi aseɣzaf { -brand-name-facebook-container } n { -brand-name-firefox } syen sewεer-asen nezzeh ad ak·akem-ḍefren deg web.
 page7-get-facebook-container = Awi { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Xdem-it i Instagram
