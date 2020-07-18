@@ -17,6 +17,8 @@ firefox-privacy-privacy = Απόρρητο
 firefox-privacy-our-promise = Η υπόσχεσή μας
 # Sub navigation link
 firefox-privacy-our-products = Τα προϊόντα μας
+firefox-privacy-hub-take-less = Λιγότερα δεδομένα
+firefox-privacy-hub-keep-it-safe = Προστασία χρήστη
 firefox-privacy-hub-no-secrets = Χωρίς μυστικά
 firefox-privacy-hub-why-trust-firefox = Για να εμπιστευτώ το { -brand-name-firefox };
 firefox-privacy-hub-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
@@ -40,6 +42,7 @@ firefox-privacy-hub-send-a-file = Αποστολή αρχείου
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Λήψη { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ο { -brand-name-firefox-account } σας
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Πάρτε το απόρρητο και τους σελιδοδείκτες σας παντού με ένα { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

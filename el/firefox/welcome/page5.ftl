@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/5/
 
+welcome-page5-scan-this-qr-code = Σαρώστε αυτό τον κωδικό QR
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }

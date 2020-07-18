@@ -9,8 +9,12 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Προστατευ
 firefox-home-the-browser-is-just = Το πρόγραμμα περιήγησης είναι μόνο η αρχή
 firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια των προϊόντων μας
 firefox-home-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = Αποκτήστε το <strong>σεβασμό</strong> που σας αξίζει
+firefox-home-every-single-firefox = Κάθε προϊόν { -brand-name-firefox } τιμά την υπόσχεσή μας για τα προσωπικά δεδομένα: <strong>Λιγότερα δεδομένα. Προστασία χρήστη. Χωρίς μυστικά.</strong>
 firefox-home-share-large-files-without = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές
 firefox-home-start-sending-files = Έναρξη ασφαλούς αποστολής αρχείων
+firefox-home-trade-clickbait-for = Ανταλλάξτε τα clickbait με ποιοτικό περιεχόμενο
 firefox-home-learn-more-about-pocket = Μάθετε περισσότερα για το { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Μία σύνδεση. Για όλες τις συσκευές σας. Μια οικογένεια προϊόντων που σέβεται το <strong>απόρρητό</strong> σας.

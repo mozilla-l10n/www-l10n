@@ -25,6 +25,8 @@ firefox-accounts-get-technology-that = Αποκτήστε την τεχνολο�
 firefox-accounts-travel-the-internet = Ταξιδέψτε στο διαδίκτυο με προστασία, σε κάθε συσκευή.
 firefox-accounts-share-large-files = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές.
 firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό που σας αξίζει.
+# Line breaks for visual formatting.
+firefox-accounts-take-less-keep-it = Λιγότερα δεδομένα.<br> Προστασία χρήστη.<br> Χωρίς μυστικά.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

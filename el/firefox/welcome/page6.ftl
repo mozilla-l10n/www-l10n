@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
 
+welcome-page6-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
+welcome-page6-qr-code-to-scan-for-firefox = Κωδικός QR για το { -brand-name-firefox }
 welcome-page6-choose-automatic-privacy = Επιλέξτε το αυτόματο απόρρητο
 welcome-page6-why-am-i-seeing-this = Γιατί το βλέπω αυτό;
