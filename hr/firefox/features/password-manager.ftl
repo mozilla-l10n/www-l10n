@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox preglednik: brz, jednostavan upravljač lozinki
+password-manager-firefox-browser = { -brand-name-firefox-browser }: brzo, jednostavno upravljanje lozinkama
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } upravljač lozinki čuva sve tvoje lozinke na jednom mjestu tako da se možeš automatski prijavljivati na stranice ili dohvatiti spremljene lozinke.
 # Hero title
@@ -21,7 +21,7 @@ password-manager-forget-the-reset = Zaboravi resetiranje. { -brand-name-firefox 
 password-manager-password-ninja = Čarobnjak za lozinke
 password-manager-no-more-try-again = Nema više „pokušaj ponovo” dok pokušavaš nekamo doći. Prijavi se na svoj Firefox račun na svom mobitelu i tvoje lozinke idu s tobom. Detalji tvoje prijave će se pojaviti sami od sebe.
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Majstor za lozinke
 # Obsolete string
 # Variables:

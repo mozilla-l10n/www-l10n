@@ -21,7 +21,7 @@ facebook-container-install-and-contain = Instaliraj i ograniči
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-installing-the-extension-is = <a href="{ $fbcontainer }">Proširenje</a> se lako instalira, a kad se aktivira, { -brand-name-facebook } će se otvarati u plavoj kartici svaki put kad ga koristiš. Koristi i uživaj u { -brand-name-facebook }u na uobičajen način. { -brand-name-facebook } će i dalje tebi moći slati oglase i preporuke na njihovoj stranici, ali će mu biti mnogo teže prikupljati podatke o tvojim radnjama <strong>izvan { -brand-name-facebook }a</strong>, kako bi ti na osnovi toga slali oglase i druge ciljane poruke.
-facebook-container-about-firefox-and-mozilla = O { -brand-name-firefox }u i Mozilli
+facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } i { -brand-name-mozilla } informacije
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
 facebook-container-were-backed-by-mozilla-the = Podržani smo od <a href="{ $mozilla }">Mozille</a>, neprofitne organizacije koja stavlja ljude ispred profita kako bi svima dala više moći na Internetu. Stvorili smo ovaj dodatak iz razloga što vjerujemo da trebaš alate koji se lako koriste i koji će ti pomoći upravljati vlastitom privatnošću i sigurnošću.

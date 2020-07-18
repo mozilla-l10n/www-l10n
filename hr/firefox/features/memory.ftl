@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox preglednik: koristi manje memorije, radi brže
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: koristi manje memorije, radi brže
 # HTML page description
 features-memory-is-your-computer-slow-your = Tvoje računalo sporo radi? Možda tvoj preglednik koristi previše memorije. Prebaci se na brzi { -brand-name-firefox } još danas.
 features-memory-less-memory-usage-than-chrome = Koristi manje memorije nego { -brand-name-chrome }

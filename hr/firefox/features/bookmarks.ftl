@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox: Bolje zabilješke gdje god idete
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Bolje zabilješke svejedno kamo ideš
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Jednostavno organiziraj svoje zabilješke u mape i pristupi im na svim uređajima, od računala do mobitela.
 features-bookmarks-better-bookmarks = Bolje zabilješke
