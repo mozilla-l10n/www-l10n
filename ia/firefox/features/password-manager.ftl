@@ -16,12 +16,14 @@ password-manager-password-hero = Le heroe del contrasignos
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Oblida le restabilir. Le Gestor de contrasigno de { -brand-name-firefox } mantene tote tu contrasignos assi tu pote authenticar te automaticamente, o trovar facilemente le contrasignos salvate. Pro super securitate, da a tu computator un <a href="{ $url }">contrasigno maestro</a>.
+password-manager-password-magician = Contrasigno magic
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja del contrasignos
 password-manager-no-more-try-again = Finite tote le tentativas tediose de attinger un pagina. Aperi session a tu conto Firefox sur tu telephono, e tu contrasignos veni con te. Tu detalios de authentication apparera simplemente, como per magia.
+password-manager-password-champion = Contrasigno defendente
 # Obsolete string
-# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+# A way of saying this password manager is really good at what is does master here = mastery of subject
 password-manager-password-master = Contrasigno maestro
 # Obsolete string
 # Variables:

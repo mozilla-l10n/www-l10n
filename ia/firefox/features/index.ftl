@@ -41,3 +41,7 @@ features-index-enhanced-tracking = Protection contra-traciamento reinfortiate
 features-index-we-dont-sell-access-to-your = Nos non vende le datos personal del usatores! Puncto.
 features-index-get-firefox-for-privacy = Installa { -brand-name-firefox } pro le confidentialitate
 features-index-firefox-vs = { -brand-name-firefox } contra altere navigatores
+features-index-stack-up = Vide como { -brand-name-firefox } sta supra le altere navigatores popular.
+features-index-compare-browsers = Comparar navigatores web
+features-index-see-themes = Vide le themas plus amate
+features-index-download-latest = Discarga le ultime { -brand-name-firefox }
