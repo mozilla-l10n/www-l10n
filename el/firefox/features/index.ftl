@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-index-see-all = Προβολή όλων των επεκτάσεων
+features-index-get-an-account = Αποκτήστε ένα { -brand-name-firefox-account }
 features-index-choose-independence = Επιλέξτε την ανεξαρτησία
 features-index-compare-browsers = Σύγκριση προγρογραμμάτων περιήγησης
 features-index-see-themes = Προβολή κορυφαίων θεμάτων
