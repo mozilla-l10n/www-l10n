@@ -8,6 +8,8 @@
 features-shared-a-better-internet-experience = Un melior experientia de Internet
 features-shared-browse-faster = Naviga plus rapidemente
 features-shared-your-favorite-extensions = Tu extensiones favorite
+features-shared-balanced-memory = Uso equilibrate del memoria
+features-shared-more-powerful-private-browsing = Navigation anonyme plus potente
 features-shared-ad-tracker-blocking = Bloco del publicitate traciante
 features-shared-password-manager = Gestor de contrasigno
 features-shared-customize-your-browser = Personalisa tu navigator
