@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Πρόγραμμα περιήγησης Firefox: Καλύτεροι σελιδοδείκτες όπου κι αν πάτε
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Καλύτεροι σελιδοδείκτες όπου κι αν πάτε
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Οργανώστε εύκολα τους σελιδοδείκτες σας σε φακέλους και αποκτήστε πρόσβαση από όλες τις συσκευές σας, από τον υπολογιστή μέχρι και το κινητό.
 features-bookmarks-better-bookmarks = Καλύτεροι σελιδοδείκτες
@@ -21,6 +21,7 @@ features-bookmarks-fly-with-that-bookmark = Πάρτε μαζί σας τους 
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Πάρτε τα αγαπημένα σας μαζί σας. Χρησιμοποιήστε το { -brand-name-firefox-sync } για να αποκτήσετε πρόσβαση στους σελιδοδείκτες σας από όλες σας τις συσκευές, από τον υπολογιστή μέχρι το κινητό. Ή δοκιμάστε το <a href="{ $url }">{ -brand-name-pocket }</a> για να αποθηκεύσετε οποιοδήποτε διαδικτυακό άρθρο ή σελίδα και να επιστρέψετε ξανά αργότερα – ακόμη και χωρίς σύνδεση στο διαδίκτυο.
+features-bookmarks-customize-that-bookmark = Προσαρμόστε αυτό το σελιδοδείκτη
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Ασχοληθείτε τους σελιδοδείκτες σας

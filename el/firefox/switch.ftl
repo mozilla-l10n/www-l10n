@@ -20,6 +20,7 @@ switch-still-not-convinced = Δεν έχετε πειστεί ακόμη ότι 
 switch-enjoy-the-web-faster = Περιηγηθείτε ταχύτερα με τα δεδομένα σας.
 switch-download-and-switch = Λήψη και μετάβαση
 switch-share-to-facebook = Κοινοποίηση στο Facebook
+switch-share-to-facebook-updated = Κοινοποίηση στο { -brand-name-facebook }
 switch-send-a-tweet = Αποστολή tweet
 switch-hey = Γεια,
 switch-check-it-out = Δείτε το και πείτε μου την άποψή σας:
