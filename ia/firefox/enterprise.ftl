@@ -13,7 +13,7 @@ firefox-enterprise-downloads = Discargamentos
 firefox-enterprise-get-firefox-for-your-enterprise = Installa { -brand-name-firefox } pro tu interprisa
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Installa le navigator <a href="{ $url }">Firefox version supporto extendite, o actualisation rapide,</a> pro securitate e protection de datos complete.
+firefox-enterprise-get-the-firefox-extended-support = Installa le navigator <a href="{ $url }">{ -brand-name-firefox-extended-support-release } o version rapide</a> pro le complete securitate e protection de datos.
 firefox-enterprise-unmatched-data-protection = Protection de datos incomparabile, al cadentia de emission que te servi
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Le navigator { -brand-name-firefox } es open-source e offere le Protection de traciamento meliorate, toto fructo de nostre dedication de longe data al protection de datos.
@@ -22,7 +22,7 @@ firefox-enterprise-deploy-when-and-how-you-want = Distribue lo quando e como tu 
 firefox-enterprise-with-install-packages-and = Con le pacchettos de installation e un large expansion de criterios e functionalitates de gruppo, le distribution es plus veloce e plus flexibile que mais, e un joculo in le ambientes { -brand-name-windows } e { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Selige tu frequentia de promotion
 firefox-enterprise-get-rapid-releases-to-make = Installa le version con actualisationes frequente pro obtener plus rapidemente le ultime functionalitates, o illo extendite pro contar sur un version super stabile.
-firefox-enterprise-enterprise-downloads = Discargas de interprisas
+firefox-enterprise-enterprise-downloads = Discargamentos de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Selige tu discargamento
