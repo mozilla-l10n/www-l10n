@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Navigator Firefox: le melior marcapaginas te accompania ubicunque tu va
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: le melior marcapaginas ubique tu va
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organisa facilemente tu marcapaginas in dossiers e accede a illos sur tote tu apparatos, tanto computatores como mobiles.
 features-bookmarks-better-bookmarks = Melior marcapaginas
