@@ -24,5 +24,5 @@ facebook-container-installing-the-extension-is = <a href="{ $fbcontainer }">Pro�
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } i { -brand-name-mozilla } informacije
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Podržani smo od <a href="{ $mozilla }">Mozille</a>, neprofitne organizacije koja stavlja ljude ispred profita kako bi svima dala više moći na Internetu. Stvorili smo ovaj dodatak iz razloga što vjerujemo da trebaš alate koji se lako koriste i koji će ti pomoći upravljati vlastitom privatnošću i sigurnošću.
+facebook-container-were-backed-by-mozilla-the = Podržava nas <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, neprofitna organizacija koja stavlja ljude ispred profita i svima daje više moći na internetu. Stvorili smo ovaj dodatak, jer vjerujemo da trebaš jednostavne alate koji će ti pomoći upravljati vlastitom privatnošću i sigurnošću.
 facebook-container-browse-freely-with-firefox = Slobodno surfaj s { -brand-name-firefox }om danas.
