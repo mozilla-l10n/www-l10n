@@ -5,15 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Skaffa { -brand-name-firefox } för ditt företag med { -brand-name-esr } och tidig utgåva
-firefox-enterprise-get-unmatched-data-protection = Få oöverträffat dataskydd med utgåvor som släpps i en rytm som passar dig med { -brand-name-firefox } för företag. Ladda ner { -brand-name-esr } och tidig utgåva.
+firefox-enterprise-get-firefox-for-your-enterprise-with = Skaffa { -brand-name-firefox } för ditt företag med { -brand-name-esr } och Rapid Release
+firefox-enterprise-get-unmatched-data-protection = Få oöverträffat dataskydd med utgåvor som släpps i en rytm som passar dig med { -brand-name-firefox } för företag. Ladda ner { -brand-name-esr } och Rapis Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Översikt
 firefox-enterprise-downloads = Hämtningar
 firefox-enterprise-get-firefox-for-your-enterprise = Hämta { -brand-name-firefox } till ditt företag
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Hämta <a href="{ $url }"> { -brand-name-firefox-extended-support-release } eller tidig utgåva<</a> webbläsaren för omfattande datasäkerhet och dataskydd.
+firefox-enterprise-get-the-firefox-extended-support = Hämta webbläsaren<a href="{ $url }">{ -brand-name-firefox-extended-support-release } eller Rapid Release</a> för omfattande datasäkerhet och dataskydd.
 firefox-enterprise-unmatched-data-protection = Få ett oöverträffat dataskydd — med utgåvor som släpps i en rytm som passar din organisation.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Webbläsaren { -brand-name-firefox } har öppen källkod och ger ett förbättrat spårningsskydd — allt är en del av vårt långvariga engagemang för dataskydd.
@@ -31,7 +31,7 @@ firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI-installationsprogram
 firefox-enterprise-support = Hjälp
-firefox-enterprise-msi-installers = MSI-installatörer
+firefox-enterprise-msi-installers = MSI-installationsprogram
 firefox-enterprise-legacy-browser-support = Support för äldre webbläsare
 firefox-enterprise-admx-templates = ADMX-mallar
 firefox-enterprise-deployment-guide = Driftsättningsguide
@@ -45,4 +45,4 @@ firefox-enterprise-pkg-installer = PKG-installationsprogram
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bitars
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
-firefox-enterprise-download-firefox-esr-or-rapid = Hämta { -brand-name-firefox-esr } eller tidig version för<br> <a href="{ $firefox_all }">ett annat språk eller plattform.</a>
+firefox-enterprise-download-firefox-esr-or-rapid = Hämta { -brand-name-firefox-esr } eller Rapid Release för<br> <a href="{ $firefox_all }">ett annat språk eller plattform.</a>
