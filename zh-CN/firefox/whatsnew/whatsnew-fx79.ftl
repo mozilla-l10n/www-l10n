@@ -9,7 +9,7 @@
 whatsnew79-page-title = { -brand-name-firefox } 的新变化
 # Main title
 whatsnew79-main-title = 任何人（包括我们）都看不到您的隐私数据
-whatsnew79-main-intro = 互联网应当是让每个人都能感到安全的地方，这也是为何 { -brand-name-firefox } 自己不会，也尽力防止其他人在网上跟踪您。
+whatsnew79-main-intro = 互联网应当是让每个人都能感到安全的地方，这也是 { -brand-name-firefox } 不会在网上跟踪您，并竭力阻止其他方跟踪的原因。
 # Main CTA button
 whatsnew79-primary-cta = 将 { -brand-name-firefox } 设为默认浏览器
 # Fallback CTA button, shown if Firefox is already a user's default browser
