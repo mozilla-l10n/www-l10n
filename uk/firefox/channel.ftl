@@ -47,7 +47,7 @@ firefox-channel-build-test-scale-and-more = Створюйте, випробов
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } - це нестабільна платформа для тестування й розробки. Типово, { -brand-name-developer-edition } надсилає дані в { -brand-name-mozilla } — й іноді нашим партнерам — для допомоги з вирішенням проблем і випробування ідей. <a href="{ $link }">Дізнайтеся, яка інформація надсилається</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } автоматично надсилає дані в { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = Погляньте на наш веб-браузер нового покоління і допоможіть нам зробити його найкращим з усіх: спробуйте { -brand-name-firefox-nightly }.
+firefox-channel-get-a-sneak-peek-at-our = Погляньте на наш браузер нового покоління і допоможіть нам зробити його найкращим з усіх: спробуйте { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Випробовуйте найновіші можливості щодня (або… щоночі). Отримуйте задоволення ризикуючи.
 firefox-channel-try-new-features-in-a-pre-release = Спробуйте нові функції в тестовій версії браузера для { -brand-name-ios } | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Спробуйте найновіші функції в тестовій версії браузера для { -brand-name-ios }, скориставшись програмою { -brand-name-apple } { -brand-name-test-flight }. Встановіть зараз!

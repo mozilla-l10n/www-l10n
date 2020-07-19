@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } для { -brand-name-firefox } | Не дозволяйте { -brand-name-facebook } бачити, які сайти ви відвідуєте.
-facebook-container-millions-of-people-around = Мільйони людей у всьому світі довіряють веб-браузеру { -brand-name-firefox } на { -brand-name-android }, { -brand-name-ios } та комп'ютерах. Швидкий. Приватний. Завантажте зараз!
+facebook-container-millions-of-people-around = Мільйони людей у всьому світі довіряють браузеру { -brand-name-firefox } на { -brand-name-android }, { -brand-name-ios } та комп'ютерах. Швидкий. Приватний. Завантажте зараз!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Надійно вкладено в контейнер. Тримайте все інше подалі від нього.
 facebook-container-get-the-facebook-container = Отримайте розширення { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Завантажте { -brand-name-firefox } та встановіть розширення { -brand-name-facebook-container }

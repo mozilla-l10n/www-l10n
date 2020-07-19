@@ -10,7 +10,7 @@ features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Ви
 # HTML page description
 features-memory-is-your-computer-slow-your = Ваш комп'ютер працює повільно? Ймовірно, ваш браузер використовує занадто багато пам'яті. Перейдіть на { -brand-name-firefox }, щоб поліпшити швидкодію.
 features-memory-less-memory-usage-than-chrome = Використовує менше пам'яті, ніж { -brand-name-chrome }
-features-memory-if-your-web-browser-uses = Якщо ваш веб-браузер використовує занадто багато пам'яті, перейдіть на { -brand-name-firefox }.
+features-memory-if-your-web-browser-uses = Якщо ваш браузер використовує занадто багато пам'яті, перейдіть на { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Прискорте свій комп'ютер
 features-memory-every-computer-program-you = Кожна програма на комп'ютері споживає певний обсяг пам'яті. Коли її використовується занадто багато, ваша система може працювати поооовіііільнооо. Метою { -brand-name-firefox } є баланс — використовувати достатній обсяг пам'яті для спокійної роботи в Інтернеті, і при цьому залишати велику кількість вільної пам'яті для належної роботи комп'ютера.
 features-memory-stop-running-out-of-memory = Забудьте про недостатній обсяг пам'яті
@@ -21,4 +21,4 @@ features-memory-browse-faster-privately = Працюйте швидше, з бі
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
 # "Decluttering" means reducing clutter
-features-memory-explore-the-web-faster-with = Користуйтеся Інтернетом швидше з <a href="{ $url }">Приватним переглядом у { -brand-name-firefox }</a>. Тільки режим приватного перегляду { -brand-name-firefox } має захист від стеження, що блокує завантаження реклами й стороннього вмісту. Видалення непотребу з веб-сторінок означає, що вони можуть завантажуватися швидше.
+features-memory-explore-the-web-faster-with = Користуйтеся Інтернетом швидше з <a href="{ $url }">Приватним переглядом у { -brand-name-firefox }</a>. Тільки режим приватного перегляду { -brand-name-firefox } має захист від стеження, що блокує завантаження реклами й стороннього вмісту. Видалення непотребу з вебсторінок означає, що вони можуть завантажуватися швидше.
