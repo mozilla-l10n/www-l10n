@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-firefox }ov vsebnik za { -brand-name-facebook } | Preprečite { -brand-name-facebook }u ogled spletnih strani, ki jih obiskujete.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } za { -brand-name-firefox } | Preprečite { -brand-name-facebook }u ogled spletnih strani, ki jih obiskujete.
 facebook-container-millions-of-people-around = Milijoni ljudi širom sveta zaupajo { -brand-name-firefox }u na namizjih, napravah { -brand-name-android } in { -brand-name-ios }. Je hiter in zaseben. Prenesite ga zdaj!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Temeljito obrzdan. Zadržite preostanek svojega življenja zase.
 facebook-container-get-the-facebook-container = Prenesite razširitev { -brand-name-facebook-container }
@@ -16,7 +16,7 @@ facebook-container-try-firefox-focus-the-privacy = Preskusite <strong>{ -brand-n
 facebook-container-opt-out-on-your-terms = Pravico imate reči ne sledenju
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } lahko sledi skoraj vsej vaši dejavnosti na spletu ter jo poveže z vašo identiteto na { -brand-name-facebook }u. Če je to za vas preveč, lahko <a href="{ $fbcontainer }">vsebnik za { -brand-name-facebook }</a> vašo osebnost na { -brand-name-facebook }u izolira v ločen vsebniški zavihek, kar { -brand-name-facebook }u oteži, da bi vam sledil na spletu zunaj { -brand-name-facebook }a.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } lahko sledi skoraj vsej vaši dejavnosti na spletu ter jo poveže z vašo identiteto na { -brand-name-facebook }u. Če je to za vas preveč, lahko <a href="{ $fbcontainer }">razširitev { -brand-name-facebook-container }</a> vašo osebnost na { -brand-name-facebook }u izolira v ločen vsebniški zavihek, kar { -brand-name-facebook }u oteži, da bi vam sledil na spletu zunaj { -brand-name-facebook }a.
 facebook-container-install-and-contain = Namestite in prevzemite nadzor
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
