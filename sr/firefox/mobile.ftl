@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Преузмите Firefox прегледач на ваш мобилни уређај за { -brand-name-ios } и { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = Firefox прегледач блокира више од 2000 програма за праћење, пружајући вам приватност коју заслужујете и брзину која вам је потребна на приватном мобилном прегледачу.
+firefox-mobile-download-the-firefox-browser = Преузмите { -brand-name-firefox-browser } на ваш мобилни уређај за { -brand-name-ios } и { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } блокира више од 2000 програма за праћење, пружајући вам приватност коју заслужујете и брзину која вам је потребна на приватном мобилном прегледачу.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Набавите мобилни прегледач направљен за вас, а не за оглашаваче
