@@ -5,18 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook } konténer a { -brand-name-firefox }hoz | Akadályozza meg, hogy a { -brand-name-facebook } lássa milyen webhelyeket keres fel.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } a { -brand-name-firefox }hoz | Akadályozza meg, hogy a { -brand-name-facebook } lássa milyen webhelyeket keres fel.
 facebook-container-millions-of-people-around = Szerte a világon milliók bíznak meg a { -brand-name-firefox } webböngészőben { -brand-name-android }on, { -brand-name-ios }-en és asztali rendszereken. Gyors. Biztonságos. Töltse le most!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Elkülönítve. Tartsa meg az élete többi részét saját magának.
 facebook-container-get-the-facebook-container = Szerezze be a { -brand-name-facebook-container } kiegészítőt
-facebook-container-download-firefox-and-get-the = Töltse le a { -brand-name-firefox }ot, és szerezze be a Facebook konténer kiterjesztést
-facebook-container-the-facebook-container-extension = A Facebook konténer kiterjesztés mobileszközökön nem érhető el.
+facebook-container-download-firefox-and-get-the = Töltse le a { -brand-name-firefox }ot, és szerezze be a { -brand-name-facebook-container } kiegészítőt
+facebook-container-the-facebook-container-extension = A { -brand-name-facebook-container } kiterjesztés mobileszközökön nem érhető el.
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Próbálja ki a <strong>{ -brand-name-firefox-focus }t</strong>, a privát böngészőt { -brand-name-android }ra és { -brand-name-ios }-re.
 facebook-container-opt-out-on-your-terms = Kiszállás a saját szabályai szerint
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = A { -brand-name-facebook } szinte a teljes webes tevékenységét képes követni, és ezt hozzá is köti a { -brand-name-facebook } személyazonosságához. Ha ez túl sok Önnek, akkor a <a href="{ $fbcontainer }">{ -brand-name-facebook } konténer kiterjesztés</a> elkülöníti a személyazonosságát egy külön konténerlapon, így nehezebb a { -brand-name-facebook }nak követnie Önt a weben, a { -brand-name-facebook }on kívül.
+facebook-container-facebook-can-track-almost = A { -brand-name-facebook } szinte a teljes webes tevékenységét képes követni, és ezt hozzá is köti a { -brand-name-facebook } személyazonosságához. Ha ez túl sok Önnek, akkor a <a href="{ $fbcontainer }">{ -brand-name-facebook-container } kiegészítő</a> elkülöníti a személyazonosságát egy külön konténerlapon, így nehezebb a { -brand-name-facebook }nak követnie Önt a weben, a { -brand-name-facebook }on kívül.
 facebook-container-install-and-contain = Telepítés és elkülönítés
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

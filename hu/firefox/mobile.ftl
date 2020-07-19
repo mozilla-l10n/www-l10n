@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Töltse le a Firefox böngészőt a mobiljára { -brand-name-ios }-en és { -brand-name-android }on
-firefox-mobile-firefox-browser-for-mobile = A mobilos Firefox böngésző alapértelmezés szerint több mint 2000 nyomkövetőt blokkol, biztosítva az Önnek járó adatvédelmet és a szükséges sebességet egy privát mobil böngészőben.
+firefox-mobile-download-the-firefox-browser = Töltse le a { -brand-name-firefox-browser }t a mobiljára { -brand-name-ios }-en és { -brand-name-android }on
+firefox-mobile-firefox-browser-for-mobile = A mobilos { -brand-name-firefox-browser } alapértelmezés szerint több mint 2000 nyomkövetőt blokkol, biztosítva az Önnek járó adatvédelmet és a szükséges sebességet egy privát mobil böngészőben.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Szerezze be a mobil böngészőt, amelyet Önnek készítettünk, és nem a hirdetőknek
