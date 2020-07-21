@@ -14,4 +14,8 @@ nightly-whatsnew-every-4-to-5-weeks = ყოველ 4–5 კვირაშ�
 # Obsolete
 nightly-whatsnew-every-6-to-8-weeks = ყოველ 6–8 კვირაში, გამოდის ახალი სრული { -brand-name-firefox } და შესაბამისად { -brand-name-nightly }-ვერსიაც იმატებს.
 nightly-whatsnew-this-is-a-good = აქვე, ვისარგებლებთ შემთხვევით და მადლობას მოგახსენებთ, რომ გვეხმარებით გავაუმჯობესოთ { -brand-name-firefox } და მოგაწვდით სასურველი მასალებზე, სასაუბრო არხებისა და სიახლეების გვერდების ბმულებს, სადაც უკეთ განიხილება { -brand-name-nightly }.
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to = იმისთვის, რომ არ გამოგრჩეთ ის სიახლეები, რომელთაც გთავაზობთ { -brand-name-nightly } და მისი ერთობა, კარგი იქნება გაეცნოთ ჩვენს <a href="{ $blog }">სვეტს</a> და გამოგვყვეთ <a href="{ $twitter }">{ -brand-name-twitter }</a>-ზე!
 nightly-whatsnew-go-community = გაუმარჯოს ჩვენს ერთობას!
