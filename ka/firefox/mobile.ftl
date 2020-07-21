@@ -36,4 +36,4 @@ firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } წი�
 firefox-mobile-the-privacy-you-deserve-the = პირადულობა, რომელსაც იმსახურებთ. სიჩქარე, რომელიც გჭირდებათ.
 firefox-mobile-get-firefox-for-mobile = გადმოწერეთ { -brand-name-firefox } მობილურისთვის
 firefox-mobile-send-a-download-link-to-your = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
-firefox-mobile-scan-the-qr-code-to-get-started = QR-კოდის წაკითხვა, დასაწყებად
+firefox-mobile-scan-the-qr-code-to-get-started = წააკითხეთ QR-კოდი, დასაწყებად

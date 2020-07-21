@@ -36,4 +36,4 @@ whatsnew79-add-facebook-container = დაამატეთ { -brand-name-faceb
 whatsnew79-get-firefox-on-your-phone = გადმოწერეთ { -brand-name-firefox } თქვენს ტელეფონზე
 whatsnew79-scan-the-qr-code = წააკითხეთ QR-კოდი დასაწყებად
 # Accessible text replacement for a QR code image
-whatsnew79-qr-code-to-scan = QR-კოდის წაკითხვა { -brand-name-firefox }-ისთვის
+whatsnew79-qr-code-to-scan = წააკითხეთ QR-კოდი, { -brand-name-firefox } რომ ჩამოიტვირთოს
