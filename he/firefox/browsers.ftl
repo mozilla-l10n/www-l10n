@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
+# HTML page description
+firefox-browsers-get-the-privacy-you-deserve = קבלת הפרטיות שמגיעה לך. הגנת המעקב המתקדמת מופעלת באופן אוטומטי בכל דפדפן { -brand-name-firefox }.
+firefox-browsers-seriously-private-browsing = גלישה פרטית ברצינות. { -brand-name-firefox } חוסם באופן אוטומטי למעלה מ־2,000 רכיבי מעקב מקוונים ולא מאפשר להם לאסוף מידע על הפעילויות שלך ברשת.
+firefox-browsers-download-for-desktop = הורדה לשולחן העבודה
+firefox-browsers-mobile = נייד
+firefox-browsers-download-for-mobile = הורדה לנייד
 firefox-browsers-send-me-a-link = שלחו לי קישור
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }

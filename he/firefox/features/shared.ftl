@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = חווית אינטרנט טובה יותר
+features-shared-more-firefox-features = תכונות נוספות של הדפדפן { -brand-name-firefox }
 features-shared-browse-faster = גלישה מהירה יותר
 features-shared-your-favorite-extensions = ההרחבות המועדפות עליך
 features-shared-balanced-memory = זיכרון מאוזן
