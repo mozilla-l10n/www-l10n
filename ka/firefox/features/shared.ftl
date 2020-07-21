@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = ინტერნეტით უკეთ სარგებლობა
+features-shared-more-firefox-features = { -brand-name-firefox }-ბრაუზერის მეტი შესაძლებლობები
 features-shared-browse-faster = გვერდების სწრაფი მოძიება
 features-shared-your-favorite-extensions = თქვენი რჩეული გაფართოებები
 features-shared-balanced-memory = წონასწორული მეხსიერება
