@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = { -brand-name-facebook }’un sizi izlemesini zorlaştırın
 page7-its-okay-to-like-facebook = Belki de { -brand-name-facebook }’u seviyorsunuzdur
-page7-if-you-still-kinda-like-facebook = Hâlâ { -brand-name-facebook }’tan hoşlanıyorsanız ama ona güvenmiyorsanız { -brand-name-firefox }’un { -brand-name-facebook-container } eklentisini deneyin. Bu eklentiyle { -brand-name-facebook }'un sizi izlemesini zorlaştırıyoruz.
+page7-if-you-still-kinda-like-facebook = Hâlâ { -brand-name-facebook }’tan hoşlanıyorsanız ama ona güvenmiyorsanız { -brand-name-firefox }’un { -brand-name-facebook-container } eklentisini deneyin. Bu eklentiyle { -brand-name-facebook }’un sizi izlemesini zorlaştırıyoruz.
 page7-get-facebook-container = { -brand-name-facebook-container }’ı yükleyin
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Instagram’la da çalışır
