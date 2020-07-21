@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page6-make-firefox-your-default = { -brand-name-firefox }'u varsayılan tarayıcınız yapın
-welcome-page6-make-sure-youre-protected = İnternete her bağlandığınızda korunduğunuzdan emin olun
+welcome-page6-make-sure-youre-protected = İnternete her bağlandığınızda sizi koruyoruz
 welcome-page6-when-you-choose-firefox-you = { -brand-name-firefox }’u seçtiğinizde herkes için daha iyi bir web’i desteklemiş oluyorsunuz. Şimdi kendinizi korumak için bir sonraki adımı atın.
 welcome-page6-get-the-firefox-app = { -brand-name-firefox } uygulamasını indir
 welcome-page6-get-firefox-on-your-phone = { -brand-name-firefox }’u telefonunuza yükleyin
