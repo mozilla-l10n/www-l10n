@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Daha iyi bir internet deneyimi
+features-shared-more-firefox-features = Diğer { -brand-name-firefox } tarayıcı özellikleri
 features-shared-browse-faster = Daha hızlı gezinti
 features-shared-your-favorite-extensions = En sevdiğiniz eklentiler
 features-shared-balanced-memory = Dengeli bellek tüketimi
