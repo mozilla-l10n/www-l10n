@@ -19,7 +19,7 @@ firefox-home-get-the-respect-you = Få <strong>respekten</strong> du fortener
 firefox-home-every-single-firefox = Kvart { -brand-name-firefox }-produkt overheld lovnaden vår om private data i alt vi gjer: <strong>Samle inn mindre. Oppbevar dei trygt. Ingen hemmelegheiter.</strong>
 firefox-home-share-large-files-without = Del store filer utan nysgjerrige auge
 firefox-home-start-sending-files = Begynn å sende filer trygt
-firefox-home-trade-clickbait-for = Byt ut «clickbait» med kvalitetsinnhald
+firefox-home-trade-clickbait-for = Byt ut klikkfang (clickbait) med kvalitetsinnhald
 firefox-home-learn-more-about-pocket = Les meir om { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Éi innlogging. På alle einingane dine. Ein produktfamilie som tek vare på <strong>personvernet</strong> ditt.
