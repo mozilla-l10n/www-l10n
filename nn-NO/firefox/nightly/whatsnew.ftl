@@ -10,6 +10,7 @@
 nightly-whatsnew-youve-just-been = Du har nettopp oppgradert til { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } er oppdatert.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-4-to-5-weeks = Ein ny hovudversjon kjem kvar 4. til 5. veke av { -brand-name-firefox } og versjonsnummeret for { -brand-name-nightly } vil som følgje av det stige.
 # Obsolete
 nightly-whatsnew-every-6-to-8-weeks = Det kjem ein heilt ny { -brand-name-firefox } kvar 6. til 8. veke, og som resultat av det vert òg { -brand-name-nightly } fornya.
 nightly-whatsnew-this-is-a-good = Det høver godt her å takke { -brand-name-nightly }-brukarane som hjelper oss med å forbetre { -brand-name-firefox }, og samstundes minne om dokumentasjon-, kommunikasjonskanalar og nyheitsnettsider dedikerte til { -brand-name-nightly }.
