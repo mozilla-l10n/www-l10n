@@ -116,5 +116,15 @@ locales = [
 ]
 
 [[paths]]
+    reference = "en/firefox/nightly/whatsnew.ftl"
+    l10n = "{locale}/firefox/nightly/whatsnew.ftl"
+    locales = [
+        "bn", "bs", "cak", "cs", "cy", "de", "dsb", "en-CA", "en-GB", "eo",
+        "es-CL", "es-ES", "es-MX", "fr", "fy-NL", "ga-IE", "gl", "hi-IN",
+        "hsb", "ia", "ja", "kab", "kk", "ko", "nl", "nn-NO", "pl", "pt-PT",
+        "pt-BR", "ro", "ru", "sk", "sl", "sq", "uk", "zh-CN", "zh-TW",
+    ]
+
+[[paths]]
     reference = "en/**/*.ftl"
     l10n = "{locale}/**/*.ftl"
