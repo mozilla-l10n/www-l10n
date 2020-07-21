@@ -21,4 +21,7 @@ nightly-whatsnew-if-you-want-to = იმისთვის, რომ არ გ
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = გსურთ გამოცადოთ ის ჩაშენებული შესაძლებლობები, რომლებითაც აღჭურვილია { -brand-name-nightly }, მაგრამ ჯერ მიუწვდომელია სხვა { -brand-name-firefox }-არხებზე? მაშინ გადახედეთ <a href="{ $mdn }">საცდელი შესაძლებლობების</a> გვერდს საიტზე <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = ამჩნევთ უეცარ გათიშვებს? გაურკვეველ მოქმედებებს? ვებსაიტებთან თავსებადობის გაუარესებას? მოხარულნი ვიქნებით, თუ მოგვახსენებთ საიტზე <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a>, რომ ეს ყველაფერი ავირიდოთ საბოლოო გამოშვებაში (ურიგო არ იქნება, თუ დაამატებთ აღნიშვნას <em>{ -brand-name-nightly }-community</em>, ხარვეზების მოხსენებისას)!
 nightly-whatsnew-go-community = გაუმარჯოს ჩვენს ერთობას!
