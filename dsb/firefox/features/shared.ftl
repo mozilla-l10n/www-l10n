@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Lěpše internetne dožywjenje
+features-shared-more-firefox-features = Dalšne funkcije wobglědowaka { -brand-name-firefox }
 features-shared-browse-faster = Malsnjej pśeglědowaś
 features-shared-your-favorite-extensions = Waše nejlubše rozšyrjenja
 features-shared-balanced-memory = Wurownany skład
