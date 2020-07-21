@@ -18,4 +18,7 @@ nightly-whatsnew-this-is-a-good = აქვე, ვისარგებლე�
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = იმისთვის, რომ არ გამოგრჩეთ ის სიახლეები, რომელთაც გთავაზობთ { -brand-name-nightly } და მისი ერთობა, კარგი იქნება გაეცნოთ ჩვენს <a href="{ $blog }">სვეტს</a> და გამოგვყვეთ <a href="{ $twitter }">{ -brand-name-twitter }</a>-ზე!
+# Variables:
+#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
+nightly-whatsnew-want-to-know-which = გსურთ გამოცადოთ ის ჩაშენებული შესაძლებლობები, რომლებითაც აღჭურვილია { -brand-name-nightly }, მაგრამ ჯერ მიუწვდომელია სხვა { -brand-name-firefox }-არხებზე? მაშინ გადახედეთ <a href="{ $mdn }">საცდელი შესაძლებლობების</a> გვერდს საიტზე <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 nightly-whatsnew-go-community = გაუმარჯოს ჩვენს ერთობას!
