@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = 更好的上网体验
+features-shared-more-firefox-features = { -brand-name-firefox } 浏览器的更多特色
 features-shared-browse-faster = 浏览更快
 features-shared-your-favorite-extensions = 您最喜爱的扩展
 features-shared-balanced-memory = 平衡的内存占用
