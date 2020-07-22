@@ -20,7 +20,7 @@ firefox-accounts-take-your-stand-against = Tome uma atitude contra uma indústri
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Você acessou sua<br>Conta { -brand-name-firefox }.<br><span>Agora experimente o { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Veja se você foi vítima de um vazamento de dados online.
-firefox-accounts-sign-in-to-monitor = Entre no { -brand-name-monitor }
+firefox-accounts-sign-in-to-monitor = Acesse o { -brand-name-monitor }
 firefox-accounts-join-firefox = Junte-se ao { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Digite seu endereço de e-mail para começar.
 firefox-accounts-already-have-an-account = Já tem uma conta?
