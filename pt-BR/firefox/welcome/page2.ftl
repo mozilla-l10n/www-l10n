@@ -16,4 +16,4 @@ welcome-page2-save-content-from-everywhere = Salve conteúdo de qualquer lugar
 welcome-page2-grab-articles-videos-and-links = Colete artigos, vídeos e links de qualquer site clicando no ícone do { -brand-name-pocket } na barra de ferramentas do navegador.
 welcome-page2-discover-new-stories = Descubra novas histórias
 welcome-page2-pocket-shows-recommended-stories = O { -brand-name-pocket } mostra histórias recomendadas toda vez que você abre uma nova aba. Salve as que lhe interessam.
-welcome-page2-why-am-i-seeing-this = Porque estou vendo isso?
+welcome-page2-why-am-i-seeing-this = Por que isso apareceu?
