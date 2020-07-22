@@ -80,6 +80,7 @@
     { $case ->
        *[a] כלי פיתוח
         [the] כלי הפיתוח
+        [unchanged] DevTools
     }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
