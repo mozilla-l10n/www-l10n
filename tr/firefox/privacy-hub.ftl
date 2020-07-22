@@ -21,9 +21,10 @@ firefox-privacy-hub-you-should-be-able-to-decide = Kişisel bilgilerinizi kimin 
 firefox-privacy-hub-thats-why-everything-we-make = Bu yüzden, yaptığımız ve oluşturduğumuz her şeyde Kişisel Veri Sözümüzü tutmaya ant içtik
 firefox-privacy-hub-take-less = Daha az veri topla
 firefox-privacy-hub-we-make-a-point-of-knowing = Hakkınızda daha az şey bilmek istiyoruz
-firefox-privacy-hub-all-tech-companies-collect = Tüm teknoloji şirketleri ürünlerini geliştirmek için veri topluyor. Ama bu verilerin çok fazla kişisel bilgi içermesine gerek yok. Bizim istediğimiz tek veri, sonunda size hizmet eden veri. Kendimize şunu soruyoruz: Bu veriye gerçekten ihtiyacımız var mı? Ne için ihtiyacımız var? Ve ne zaman silebiliriz?
+firefox-privacy-hub-all-tech-companies-collect = Tüm teknoloji şirketleri ürünlerini geliştirmek için veri topluyor, ama bu verilerin çok fazla kişisel bilgi içermesine gerek yok. Bizim istediğimiz tek veri, sonunda size hizmet eden veri. Kendimize şunu soruyoruz: Bu veriye gerçekten ihtiyacımız var mı? Ne için ihtiyacımız var? Ve onu ne zaman silebiliriz?
 firefox-privacy-hub-keep-it-safe = Güvenle sakla
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Kişisel bilgilerinizi korumak için çok çalışıyoruz
+firefox-privacy-hub-data-security-is-complicated = Veri güvenliği karmaşık bir iş. Öyle olmak da zorunda. Bu nedenle, elimizdeki verileri sınıflandırmak, her veri türünü kaydetme ve korumayla ilgili kurallar belirlemek için ekstra adımlar atıyor, süreçlerimizi iyileştirmeyi hiç bırakmıyoruz. Gizliliğinize öncelik veriyoruz. Gizliliğinize yatırım yapıyoruz. Gizliliğinizden asla vazgeçmiyoruz. Hatta başka şirketlere de doğru yolu gösteriyoruz.
 firefox-privacy-hub-no-secrets = Sır tutma
 firefox-privacy-hub-youll-always-know-where-you = Bizimleyken içiniz hep rahat olmalı
 # Variables:
