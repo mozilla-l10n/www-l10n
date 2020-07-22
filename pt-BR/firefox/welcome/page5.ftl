@@ -21,4 +21,4 @@ welcome-page5-no-more-making-up-new-passwords = Chega de inventar novas senhas
 welcome-page5-lockwise-will-recommend-new = O { -brand-name-lockwise } recomenda senhas únicas e fortes sempre que você configurar uma nova conta de acesso.
 welcome-page5-help-during-a-breach = Ajuda durante um vazamento
 welcome-page5-lockwise-will-let-you-know = O { -brand-name-lockwise } lhe informa caso suas contas salvas estejam em um vazamento de dados corporativos, para que você possa alterá-las o mais rápido possível.
-welcome-page5-why-am-i-seeing-this = Por que estou vendo isso?
+welcome-page5-why-am-i-seeing-this = Por que isso apareceu?

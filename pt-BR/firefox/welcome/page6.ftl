@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page6-make-firefox-your-default = Torne o { -brand-name-firefox } seu navegador padrão
-welcome-page6-make-sure-youre-protected = Certifique-se de estar protegido sempre que ficar online
+welcome-page6-make-sure-youre-protected = Certifique-se de estar protegido sempre que estiver online
 welcome-page6-when-you-choose-firefox-you = Ao escolher o { -brand-name-firefox }, você apoia uma web melhor para você e para todos. Agora dê o próximo passo para se proteger.
 welcome-page6-get-the-firefox-app = Instale o { -brand-name-firefox } no celular
 welcome-page6-get-firefox-on-your-phone = Instale o { -brand-name-firefox } no seu celular

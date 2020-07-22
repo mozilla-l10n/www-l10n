@@ -20,4 +20,4 @@ welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-trade-clickbait-and-fake-news = Troque caça-cliques e notícias falsas por conteúdo de qualidade.
 welcome-page3-firefox-send = { -brand-name-firefox-send }
 welcome-page3-send-huge-files-to-anyone = Envie arquivos enormes para quem quiser, com links autodestrutivos.
-welcome-page3-why-am-i-seeing-this = Por que estou vendo isso?
+welcome-page3-why-am-i-seeing-this = Por que isso apareceu?

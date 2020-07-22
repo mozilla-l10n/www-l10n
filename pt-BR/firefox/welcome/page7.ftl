@@ -19,4 +19,4 @@ page7-those-innocent-looking-f-buttons = Aqueles botões "F" de aparência inoce
 page7-stay-ahead-of-hackers = Esteja à frente dos hackers
 page7-firefox-monitor-lets-you-find = O { -brand-name-firefox-monitor } permite descobrir o que os hackers podem já saber sobre você e lhe ajuda a estar um passo à frente (e é gratuito).
 page7-get-firefox-monitor = Use o { -brand-name-firefox-monitor }
-page7-why-am-i-seeing-this = Por que estou vendo isso?
+page7-why-am-i-seeing-this = Por que isso apareceu?
