@@ -12,7 +12,7 @@ welcome-page8-your-privacy-respected = Tu privacidad respetada <strong> automát
 welcome-page8-firefox-automatically-protects = { -brand-name-firefox } protege automáticamente tu privacidad, para que puedas vivir tu vida cada vez que te conectás.
 welcome-page8-view-your-protection-report = Mirá tu informe de protección
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-welcome-page8-enhanced-tracking-protection = Protección de rastreo mejorada
+welcome-page8-enhanced-tracking-protection = Protección de rastreo aumentada
 welcome-page8-automatically-block-sites = Bloquea automáticamente los sitios para que no te sigan por Internet.
 welcome-page8-see-whats-blocked = Mirá lo que está bloqueado
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
