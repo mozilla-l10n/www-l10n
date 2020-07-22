@@ -19,7 +19,7 @@ firefox-all-language = Iaith:
 firefox-all-sorry-we-couldnt-find = Ymddiheuriadau, nid oedd modd canfod y llwyth rydych yn chwilio amdano. Ceisiwch eto neu ddewis llwyth o'r rhestr isod.
 firefox-all-the-pre-alpha-version = Y fersiwn cyn-alffa ar gyfer defnyddwyr blaengar sy'n hoffi chwilio am chwaliadau a phrofi nodweddion newydd wrth iddyn nhw gael eu codio.
 firefox-all-64-bit-installers = Gosodwyr 64-did
-firefox-all-choose-a-64-bit-installer = Dewiswch osodwr 64-did ar gyfer cyfrifiaduron â phroseswyr 64-did, sy'n eu galluogi i ddyrannu mwy o RAM i raglenni unigol - yn arbennig o bwysig ar gyfer gemau a rhaglenni heriol eraill.
+firefox-all-choose-a-64-bit-installer = Dewiswch osodwr 64-did ar gyfer cyfrifiaduron â phrosesydd 64-did, sy'n eu galluogi i ddyrannu mwy o RAM i raglenni unigol - yn arbennig o bwysig ar gyfer gemau a rhaglenni heriol eraill.
 firefox-all-32-bit-installers = Gosodwyr 32-did
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Llwythwch y { -brand-name-firefox-browser } Cymraeg i Lawr neu mewn mwy na 90 o ieithoedd eraill

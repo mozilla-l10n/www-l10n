@@ -14,7 +14,7 @@ download-button-systems-languages = Systemau ac Ieithoedd
 download-button-recommended = Cymeradwy
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">Nid yw { -brand-name-mozilla }'n darparu diweddariadau diogelwch ar gyfer { -brand-name-firefox } ar { -brand-name-windows } { -brand-name-xp } neu { -brand-name-vista }</a>, ond gallwch dal i lwytho i lawr y fersiwn { -brand-name-windows } 32 did olaf isod.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">Nid yw { -brand-name-mozilla } yn darparu diweddariadau diogelwch ar gyfer { -brand-name-firefox } ar { -brand-name-windows } { -brand-name-xp } neu { -brand-name-vista }</a>, ond gallwch dal i lwytho i lawr y fersiwn { -brand-name-windows } 32 did olaf isod.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a> er mwyn gosod { -brand-name-firefox }.
