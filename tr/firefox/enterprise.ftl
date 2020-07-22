@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-firefox }'un işletmelere özel { -brand-name-esr } veya Hızlı Sürüm'ünü indirin
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Genel Bakış
 firefox-enterprise-downloads = İndirmeler
