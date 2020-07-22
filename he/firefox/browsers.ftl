@@ -16,7 +16,7 @@ firefox-browsers-send-me-a-link = שלחו לי קישור
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = חבילות של { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
-firefox-browsers-learn-more-about-devtools = מידע נוסף על { -brand-name-devtools }
+firefox-browsers-learn-more-about-devtools = מידע נוסף על { -brand-name-devtools(case: "the") }
 firefox-browsers-join-firefox-and-get-the-most = הצטרפו ל־{ -brand-name-firefox } והפיקו את המיטב מכל מוצר — בכל מכשיר.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
