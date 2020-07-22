@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Tải xuống trình duyệt Firefox trên điện thoại di động cho { -brand-name-ios } và { -brand-name-android } của bạn
-firefox-mobile-firefox-browser-for-mobile = Trình duyệt Firefox cho thiết bị di động chặn hơn 2000 trình theo dõi theo mặc định, mang lại cho bạn sự riêng tư mà bạn xứng đáng và tốc độ bạn cần trong một trình duyệt di động riêng tư.
+firefox-mobile-download-the-firefox-browser = Tải xuống { -brand-name-firefox-browser } trên điện thoại của bạn dành cho { -brand-name-ios } và { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } dành cho thiết bị di động theo mặc định chặn hơn 2000 trình theo dõi, mang lại cho bạn sự riêng tư mà bạn xứng đáng và tốc độ bạn cần trong một trình duyệt di động riêng tư.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Nhận trình duyệt di động được xây dựng cho bạn, không phải để quảng cáo
@@ -27,7 +27,7 @@ firefox-mobile-stay-off-their-radar-with = Tránh xa radar của họ bằng <a 
 firefox-mobile-discover-products-that-keep = Khám phá các sản phẩm giữ cho bạn an toàn
 firefox-mobile-sync-your-history-passwords = Đồng bộ hóa lịch sử, mật khẩu và dấu trang của bạn. Gửi các thẻ trên tất cả các thiết bị của bạn.
 firefox-mobile-android-only = Chỉ dành cho { -brand-name-android }
-firefox-mobile-make-android-your-own = Biến nó thành của riêng bạn
+firefox-mobile-make-android-your-own = Biến { -brand-name-android } thành của riêng bạn
 # Variables:
 #   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-mobile-customize-your-firefox-mobile = Tùy chỉnh trình duyệt di động { -brand-name-firefox } của bạn với <a href="{ $url }">tiện ích mở rộng</a> để chặn quảng cáo, quản lý mật khẩu, ngăn { -brand-name-facebook } theo dõi bạn và hơn thế nữa.
