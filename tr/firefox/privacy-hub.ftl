@@ -32,6 +32,9 @@ firefox-privacy-hub-youll-always-know-where-you = Bizimleyken içiniz hep rahat 
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Gizli saklı işler çevirmiyoruz. Güveninizi suistimal ederek para kazanan bir şirket değiliz. <a href="{ $privacy }">Gizlilik Bildirimi</a>’mizi insanların okuyabileceği şekilde yazdık. Dünyadaki herkes <a href="{ $meetings }">haftalık şirket toplantılarımıza</a> katılabiliyor. Topladığımız şeyleri incelemek isterseniz kodlarımız açık. Biz de kodlarımız kadar açığız.
 firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox }’a neden güvenmelisiniz?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Çünkü bizde önce insan gelir. Arkamızda <a href="{ $foundation }">kâr amacı gütmeyen bir vakıf</a> var. İlk günden beri misyonumuz, interneti ve internetteki herkesi korumak.
 firefox-privacy-hub-learn-more-about-our-mission = Misyonumuz hakkında bilgi alın
 firefox-privacy-hub-your-privacy-by-the-product = Her üründe gizlilik
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } ürünleri ötekilere benzemez, biz ürünlerimizi gizliliğinizi koruyacak şekilde tasarladık.
@@ -49,6 +52,7 @@ firefox-privacy-hub-see-what-firefox-has-blocked = { -brand-name-firefox }’un 
 firefox-privacy-hub-get-enhanced-tracking-protection = Gelişmiş İzlenme Koruması’nı edinin
 firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } tarayıcısını indirin
 firefox-privacy-hub-update-your-firefox-browser = { -brand-name-firefox } tarayıcınızı güncelleyin
+firefox-privacy-hub-invisible-to-the-top-trackers = Takipçiler bizi göremez
 firefox-privacy-hub-meet-four-of-the-most-common = Sizi takip edemeyecek dört takipçi kategorisiyle tanışın.
 firefox-privacy-hub-always-in-your-control = Her zaman kontrolünüz altında
 firefox-privacy-hub-want-to-customize-what = Engellenenleri özelleştirmek mi istiyorsunuz? Ayarlarınız yalnızca bir tık uzağınızda.
@@ -58,11 +62,13 @@ firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-accoun
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } kullanıcıları için her gün en az { $trackers } takipçiyi engelliyoruz
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = E-posta adresinizi { -brand-name-firefox-monitor }'e girdiğinizde, bilinen veri ihlallerini kontrol ettikten sonra e-posta adresinizi anında siliyoruz. Sadece yeni ihlalleri takip etmemize izin verirseniz e-posta adresinizi saklıyoruz.
 firefox-privacy-hub-check-for-breaches = İhlalleri kontrol edin
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = { -brand-name-firefox-lockwise }’a kaydettiğiniz parolalar ve hesap bilgileri tüm cihazlarınızda şifrelenir, böylece onları biz bile göremeyiz.
 firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = { -brand-name-firefox-send } ile paylaştığınız dosyaların adlarını veya içeriklerini göremiyoruz çünkü dosyalarınızı uçtan uca şifreli. Dosyalarınızı kimin göreceğini siz seçiyorsunuz. Son kullanma tarihi ve parola da belirleyebilirsiniz.
 firefox-privacy-hub-send-a-file = Dosya gönderin
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket }, gezinti geçmişinizi toplamadan veya kişisel bilgilerinizi reklamverenlerle paylaşmadan yüksek kaliteli, insanlar tarafından seçilmiş makaleler önerir.
