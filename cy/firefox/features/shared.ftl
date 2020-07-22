@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Gwell profiad o'r rhyngrwyd
+features-shared-more-firefox-features = Rhagor o nodweddion porwr { -brand-name-firefox }
 features-shared-browse-faster = Pori'n gynt
 features-shared-your-favorite-extensions = Eich hoff estyniadau
 features-shared-balanced-memory = Cof cytbwys

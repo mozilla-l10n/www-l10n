@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Defnyddiwch y Porwr Firefox ar eich Symudol ar gyfer { -brand-name-ios } ac { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = Mae Porwr Firefox ar gyfer Symudol yn rhwystro dros 2000 o dracwyr drwy ragosodiad, gan roi'r preifatrwydd rydych chi'n ei haeddu a'r cyflymder sydd ei angen arnoch chi mewn porwr symudol preifat.
+firefox-mobile-download-the-firefox-browser = Defnyddiwch { -brand-name-firefox-browser } ar eich dyfais Symudol { -brand-name-ios } ac { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = Mae { -brand-name-firefox-browser } Symudol yn rhwystro dros 2000 o dracwyr drwy ragosodiad, gan roi'r preifatrwydd rydych chi'n ei haeddu a'r cyflymder sydd ei angen arnoch chi mewn porwr symudol preifat.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Defnyddiwch y porwr symudol grëwyd i chi, nid hysbysebwyr
