@@ -23,6 +23,7 @@ firefox-home-trade-clickbait-for = 낚시기사를 양질의 컨텐츠로 대체
 firefox-home-learn-more-about-pocket = { -brand-name-pocket }에 대해 더 알아보기
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = 한 번의 로그인. 모든 기기에서. <strong>개인정보</strong>를 존중하는 제품군입니다.
+firefox-home-join-firefox = { -brand-name-firefox } 가입하기
 firefox-home-learn-more-about-joining = { -brand-name-firefox }에 가입하는 방법에 대해 자세히 알아보기
 firefox-home-get-the-browser-extension = 브라우저 확장 기능 얻기
 firefox-home-get-the-facebook-container = Firefox 컨테이너 확장 기능 받기
