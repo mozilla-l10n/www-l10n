@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Trải nghiệm internet tốt hơn
+features-shared-more-firefox-features = Các tính năng khác của trình duyệt { -brand-name-firefox }
 features-shared-browse-faster = Duyệt web nhanh hơn
 features-shared-your-favorite-extensions = Tiện ích mở rộng yêu thích của bạn
 features-shared-balanced-memory = Cân bằng bộ nhớ
