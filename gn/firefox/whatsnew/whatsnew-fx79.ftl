@@ -7,6 +7,8 @@
 
 # HTML page title
 whatsnew79-page-title = ¿Mba’e oĩ ipyahúva { -brand-name-firefox } ndive?
+# Main title
+whatsnew79-main-title = Eguereko ne mba’ekuaarã ñemihápe – orehegui avei
 # Main CTA button
 whatsnew79-primary-cta = Ejapo { -brand-name-firefox } ypykuévarõ
 # Fallback CTA button, shown if Firefox is already a user's default browser

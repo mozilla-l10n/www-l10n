@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Tembiapo iporãvéva ñandutípe
+features-shared-more-firefox-features = Kundahára { -brand-name-firefox } rembiapoiteve
 features-shared-browse-faster = Eikundaha pya’eve
 features-shared-your-favorite-extensions = Ne moĩmbaha ehayhuvéva
 features-shared-balanced-memory = Mandu’arenda ijojáva
