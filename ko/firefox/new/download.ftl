@@ -6,15 +6,26 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = { -brand-name-firefox } 다운로드
+firefox-new-download-mozilla-firefox = 무료 웹 브라우저 { -brand-name-mozilla } { -brand-name-firefox }를 다운 받으세요. { -brand-name-firefox }는 온라인을 개인이 제어할 수 있게 하는 세계적인 비영리 단체에서 만들었습니다. { -brand-name-windows } 용이나 { -brand-name-mac } 용, { -brand-name-linux } 용, { -brand-name-android } 용, { -brand-name-ios } 용 { -brand-name-firefox }를 지금 받으세요!
 firefox-new-download-the-fastest-firefox = 이제까지 가장 빠른 { -brand-name-firefox } 다운로드
-firefox-new-get-the-latest-firefox = { -brand-name-firefox } 최신 버전 받기.
+firefox-new-faster-page-loading-less-memory = 더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 { -brand-name-firefox }가 여기에 있습니다.
+firefox-new-automatic-privacy-is-here = 자동 개인정보 보호가 여기 있습니다. { -brand-name-firefox }를 다운로드하여 2000개가 넘는 트래커를 차단하십시오.
+firefox-new-get-the-latest-firefox = 최신 { -brand-name-firefox }를 받으세요.
+firefox-new-firefox-shows-you-how-many = { -brand-name-firefox }는 <strong>향상된 추적 보호</ strong>를 통해 몇 개의 데이터 수집 추적기가 차단되었는지 보여줍니다.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong>는 사용자가 { -brand-name-firefox }에 저장한 비밀번호를 사용자의 모든 디바이스에서 안전하게 사용할 수 있게 해 줍니다.
+firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</ strong>는 사용자의 정보가 다른 회사의 데이터 유출에 포함되었는를 알게 되면 알림을 보냅니다.
 firefox-new-join-firefox = { -brand-name-firefox } 가입
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong>는 사용자가 { -brand-name-firefox }에 저장한 비밀번호를 사용자의 모든 기기에서 사용할 수 있게 해 줍니다.
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = 윈도우용 <br>{ -brand-name-firefox } 다운로드
-firefox-new-download-firefox-for-macos = { -brand-name-mac }용 <br>{ -brand-name-firefox } 다운로드
-firefox-new-download-firefox-for-linux = 리눅스용 <br>{ -brand-name-firefox } 다운로드
-firefox-new-get-more-from-firefox = { -brand-name-firefox }에서 더 많은 것을 얻으십시오
-firefox-new-free-web-browser = 자유로운 웹 브라우저
+firefox-new-download-firefox-for-windows = { -brand-name-windows } 용 <br>{ -brand-name-firefox } 다운로드
+firefox-new-download-firefox-for-macos = { -brand-name-mac } 용 <br>{ -brand-name-firefox } 다운로드
+firefox-new-download-firefox-for-linux = { -brand-name-linux } 용 <br>{ -brand-name-firefox } 다운로드
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-new-youve-already-got-the-browser = 이미 브라우저가 있습니다. 이제 { -brand-name-firefox }에서 더 많은 것을 얻어보세요.
+firefox-new-watch-for-hackers-with = { -brand-name-firefox-monitor }로 해커를 감시하고 { -brand-name-firefox-lockwise }로 비밀번호를 보호하세요.
+firefox-new-get-more-from-firefox = { -brand-name-firefox }에서 더 많은 것을 얻으세요
+firefox-new-free-web-browser = 무료 웹 브라우저
+firefox-new-and-start-getting-the-respect = 또한 개인 정보 보호를 우선시 하는 제품을 사용해서 사용자의 가치를 존중합니다.
 firefox-new-advanced-install-options = 고급 설치 옵션 및 다른 플랫폼
 firefox-new-download-in-another-language = 다른 언어로 다운로드
 firefox-new-fix-a-problem = 문제 해결하기
