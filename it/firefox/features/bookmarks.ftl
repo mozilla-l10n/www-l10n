@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
+# HTML page title
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser(capitalization: "uppercase") }: segnalibri migliorati, ovunque ti trovi
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organizza facilmente i segnalibri in cartelle per accedervi su tutti i tuoi dispositivi, dal computer allo smartphone.
 features-bookmarks-better-bookmarks = Segnalibri all’ennesima potenza
@@ -23,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Personalizza quel segnalibro
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Gestiscili come vuoi tu
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Sperimenta una gestione più raffinata dei segnalibri grazie ai <a href="{ $url }">componenti aggiuntivi</a> a loro dedicati: cattura screenshot dell’intera pagina, utilizza barre laterali per un accesso più rapido, oppure conservali al riparo da sguardi indesiderati.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
