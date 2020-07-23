@@ -5,8 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Proteggi la privacy e naviga più velocemente grazie alle funzioni integrate in { -brand-name-firefox }
+# HTML page description
+features-index-youre-in-control-with-firefoxs = Mantieni il controllo grazie agli strumenti integrati in { -brand-name-firefox }, proteggi la tua privacy e naviga alla massima velocità.
 # Hero title
 features-index-firefox-features = Caratteristiche di { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } è il browser veloce, leggero e incentrato sulla privacy che funziona su tutti i tuoi dispositivi.
 features-index-see-all = Visualizza tutte le estensioni
 features-index-get-an-account = Registra un { -brand-name-firefox-account }
 features-index-open-source-minds = Codice aperto. Menti aperte.

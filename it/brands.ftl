@@ -46,6 +46,7 @@
 -brand-name-enterprise =
     { $role ->
        *[standalone] Aziende
+        [standalone-lowercase] aziende
         [adj-plural] aziendali
         [adj-singular] aziendale
     }
