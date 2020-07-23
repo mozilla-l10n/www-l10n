@@ -24,7 +24,7 @@ compare-brave-the-internet-as-a-whole-is = Internett som helhet betales i stor g
 compare-brave-whether-this-sounds-complicated = Om dette høres komplisert ut eller som en god idé, avhenger sannsynligvis av foraktnivået ditt for annonsering på Internett. De fleste Internett-brukere forstår at godt innhold koster penger, og er i orden med at pengene kommer fra reklame.
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
-compare-brave-on-the-other-side-of-the-coin = På den andre siden, med { -brand-name-firefox }-nettleseren, foretrekker vi å holde ting enkelt. { -brand-name-firefox } blokkerer mange tredjepartssporere, kryptominere og fingerprint-sporere fra å følge deg som standard. Imidlertid velger { -brand-name-firefox }, utenfor privat nettlesingsmodus, ikke å blokkere annonser fra å vises. Det vil si med mindre du installerer <a { $attrs }>en av utvidelsene som er spesielt designet for dette formålet</a>.
+compare-brave-on-the-other-side-of-the-coin = På den andre siden, med { -brand-name-firefox }-nettleseren, foretrekker vi å holde ting enkelt. { -brand-name-firefox } blokkerer mange tredjepartssporere, kryptoutvinnere og fingerprint-sporere fra å følge deg som standard. Imidlertid velger { -brand-name-firefox }, utenfor privat nettlesingsmodus, ikke å blokkere annonser fra å vises. Det vil si med mindre du installerer <a { $attrs }>en av utvidelsene som er spesielt designet for dette formålet</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
