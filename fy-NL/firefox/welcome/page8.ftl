@@ -22,6 +22,6 @@ welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Diel grutte bestannen mei end-to-end fersifering, fia in keppeling dy't automatysk ferrint.
 welcome-page8-try-send = Probearje { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
-welcome-page8-stay-connected = Bliuw yn kontakt mei de minsken dy't jo yn it echte leven net sjen kinne, en foarkom dat { -brand-name-facebook } jo online folget.
+welcome-page8-stay-connected = Bliuw yn kontakt mei de minsken dy't jo yn it echte libben net sjen kinne, en foarkom dat { -brand-name-facebook } jo online folget.
 welcome-page8-add-facebook-container = Foegje { -brand-name-facebook-container } ta
 welcome-page8-why-am-i = Wêrom sjoch ik dit?
