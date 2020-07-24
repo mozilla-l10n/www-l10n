@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } 다운로드
-navigation-get-a-firefox-account = Firefox 계정 생성
-navigation-firefox-browser-for-desktop = 데스크톱용 Firefox 브라우저
+navigation-get-a-firefox-account = { -brand-name-firefox-account } 생성
+navigation-firefox-browser-for-desktop = 데스크톱용 { -brand-name-firefox-browser }
 navigation-firefox-browser-for-mobile = 모바일용 Firefox 브라우저
 navigation-download-for-ios = { -brand-name-ios }용 다운로드
 navigation-download-for-android = { -brand-name-android }용 다운로드
