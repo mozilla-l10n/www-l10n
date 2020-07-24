@@ -26,5 +26,5 @@ newsletter-form-get-mozilla-updates = Ejapyhy ñembohekopyahu { -brand-name-mozi
 newsletter-form-available-languages = Ñe’ẽnguéra eipurukuaáva
 newsletter-form-select-country = Eiporavo tetã
 newsletter-form-sign-me-up = Che añemboheraguapyse
-newsletter-form-sign-up-now = Eñemboheraguapy ko'ág̃a
+newsletter-form-sign-up-now = Eñemboheraguapy ko’ág̃a
 newsletter-form-thanks = ¡Aguyje!

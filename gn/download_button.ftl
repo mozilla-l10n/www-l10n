@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-download-button-download-now = Emboguejy ko'ág̃a
+download-button-download-now = Emboguejy ko’ág̃a
 download-button-free-download = Ñemboguejy reigua
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -14,10 +14,10 @@ download-button-systems-languages = Apopyvusu ha Ñe’ẽnguéra
 download-button-recommended = Jeroviapyrãva
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } nombohekopyahuvéima tekorosã { -brand-name-firefox } peg̃uarã { -brand-name-windows } { -brand-name-xp } térã { -brand-name-vista }-pe</a>, hákatu emboguejykuaa gueteri { -brand-name-windows } 32 bits orekóva ko'ág̃a guive.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } nombohekopyahuvéima tekorosã { -brand-name-firefox } peg̃uarã { -brand-name-windows } { -brand-name-xp } térã { -brand-name-vista }-pe</a>, hákatu emboguejykuaa gueteri { -brand-name-windows } 32 bits orekóva ko’ág̃a guive.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Ejapomína <a href="{ $url }">ko'ã mba'e</a> emohendávo { -brand-name-firefox } mohendahápe.
+download-button-please-follow-these = Ejapomína <a href="{ $url }">ko’ã mba'e</a> emohendávo { -brand-name-firefox } mohendahápe.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Nde apopyvusu ndoguerekopái <a href="{ $url }">tekotevẽmby</a> eipuru hag̃ua { -brand-name-firefox }.
