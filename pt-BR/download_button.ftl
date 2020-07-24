@@ -38,4 +38,4 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> para { -b
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> para { -brand-name-ios }
 download-button-firefox-privacy = Privacidade do { -brand-name-firefox }
 download-button-firefox-privacy-notice = Aviso de privacidade do { -brand-name-firefox }
-download-button-download = Baixe
+download-button-download = Baixar
