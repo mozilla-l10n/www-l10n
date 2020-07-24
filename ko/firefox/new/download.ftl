@@ -37,6 +37,7 @@ firefox-new-passwords-made-portable = 휴대용 비밀번호
 firefox-new-protect-your-privacy = 개인정보 보호
 firefox-new-private-browsing-clears = <strong>사생활 보호 모드</strong>는 방문 기록을 지우므로 컴퓨터를 사용하는 다른 사람들로부터 정보를 보호 할 수 있습니다.
 firefox-new-advanced-install-options-heading = 고급 설치 옵션 및 다른 플랫폼
+firefox-new-just-download-the-browser = 브라우저 다운로드
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
