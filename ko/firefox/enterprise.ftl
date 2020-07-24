@@ -17,5 +17,6 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-support = 지원
 firefox-enterprise-msi-installers = MSI 설치 프로그램
 firefox-enterprise-admx-templates = ADMX 템플릿
+firefox-enterprise-deployment-guide = 배포 안내서
 firefox-enterprise-pkg-installer = PKG 설치 프로그램
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32비트
