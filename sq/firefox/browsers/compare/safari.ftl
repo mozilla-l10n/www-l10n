@@ -10,7 +10,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } është shfletuesi i para-instaluar në { -brand-name-mac } dhe { -brand-name-iphone }. Krahasoni { -brand-name-safari }-n me { -brand-name-firefox-browser } që të zbuloni se cili është shfletuesi më i mirë për ju.
 # Main title.
-compare-safari-comparing-firefox-browser = Krahasim i { -brand-name-firefox-browser }-it me Apple Safari-in
+compare-safari-comparing-firefox-browser = Krahasim i { -brand-name-firefox-browser }-it me { -brand-name-apple } { -brand-name-safari }-n
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Nëse përdorni një Mac ose keni një { -brand-name-iphone }, ka gjasa që ta njihni shfletuesin { -brand-name-safari }. Fakti që është i instaluar paraprakisht si shfletuesi parazgjedhje për përdorues produktesh i jep përfundimisht një përparësi që në fillim, por { -brand-name-firefox }-i ka grupin e vet të veçorive të dobishme që e bëjnë një alternativë tërheqëse. Këtu do të eksplorojmë dallimet kryesore mes shfletuesit tonë dhe { -brand-name-safari }-it, për sa i takon privatësisë, veçorive dhe bartjes nga një pajisje në një tjetër.
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
