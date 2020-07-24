@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Προσαρμόστε αυτό τ�
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Ασχοληθείτε τους σελιδοδείκτες σας
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Απολαύστε εξαιρετική διαχείριση σελιδοδεικτών με πολυάριθμα <a href="{ $url }">πρόσθετα</a>· από ολοσέλιδα στιγμιότυπα οθόνης μέχρι πλευρικές γραμμές και ιδιωτική φύλαξη σελιδοδεικτών.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

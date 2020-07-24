@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Μετάβαση από το { -brand-name-chrome } στο { -brand-name-firefox } σε λίγα λεπτά
+switch-switching-to-firefox-is-fast-updated = Η μετάβαση στο { -brand-name-firefox } είναι απλή, γρήγορη και ακίνδυνη, επειδή το { -brand-name-firefox } εισάγει σελιδοδείκτες, κωδικούς πρόσβασης και προτιμήσεις από το { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Η μετάβαση στο { -brand-name-firefox } είναι απλή, γρήγορη και ακίνδυνη, επειδή το { -brand-name-firefox } εισάγει σελιδοδείκτες, δεδομένα αυτόματης συμπλήρωσης, κωδικούς πρόσβασης και προτιμήσεις από το { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Η μετάβαση στο { -brand-name-firefox } είναι απλή, γρήγορη και ακίνδυνη. Το { -brand-name-firefox } εισάγει σελιδοδείκτες, κωδικούς πρόσβασης και προτιμήσεις από το { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Η μετάβαση είναι απλή, γρήγορη και ακίνδυνη. Το { -brand-name-firefox } εισάγει σελιδοδείκτες, δεδομένα αυτόματης συμπλήρωσης, κωδικούς πρόσβασης και προτιμήσεις από το { -brand-name-chrome }.
 switch-select-what-to-take = Επιλέξτε τι θέλετε από το { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Αφήστε τα υπόλοιπα στο { -brand-name-firefox }.
