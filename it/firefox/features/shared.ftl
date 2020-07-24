@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Un’esperienza di navigazione migliore
+features-shared-more-firefox-features = Ulteriori funzioni del browser { -brand-name-firefox }
 features-shared-browse-faster = Naviga più velocemente
 features-shared-your-favorite-extensions = Le tue estensioni preferite
 features-shared-balanced-memory = Il giusto equilibrio di memoria
