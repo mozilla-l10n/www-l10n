@@ -26,7 +26,7 @@ password-manager-password-champion = Campeão de senhas
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Ganhe sua medalha de ouro de segurança com o vasto conjunto de <a href="{ $addons }">extensões</a> de gerenciamento de senhas do { -brand-name-firefox }. Escolha uma preferida existente ou encontre uma de nível superior por meio de avaliações e revisões de especialistas da comunidade.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mestre das senhas
 # Obsolete string
 # Variables:
