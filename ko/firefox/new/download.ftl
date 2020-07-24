@@ -33,6 +33,7 @@ firefox-new-need-help = 도움이 필요한가요?
 firefox-new-see-whats-being-blocked = 차단된 요소 확인하기
 firefox-new-make-your-passwords-portable = 비밀번호를 손쉽게 사용하세요
 firefox-new-watch-for-data-breaches = 데이터 유출 감시
+firefox-new-connect-to-a-whole-family = 모든 가족과 함께 믿을 수 있는 제품을 사용하고 온라인에서 스스로를 지킬 수 있는 방법을 알아보세요.
 firefox-new-passwords-made-portable = 휴대용 비밀번호
 firefox-new-protect-your-privacy = 개인정보 보호
 firefox-new-private-browsing-clears = <strong>사생활 보호 모드</strong>는 방문 기록을 지우므로 컴퓨터를 사용하는 다른 사람들로부터 정보를 보호 할 수 있습니다.
@@ -42,7 +43,14 @@ firefox-new-just-download-the-browser = 브라우저 다운로드
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox }가 더이상 지원하지 않는</a> 안전하지 않고 오래된 운영체제를 사용하고 있습니다.
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = 자동으로 다운로드가 시작됩니다. 잘 안되나요? <a id="{ $id }" href="{ $fallback_url }">다시 시도해 보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 이상입니다.
+firefox-new-its-privacy-and-peace-of = 모바일에서도 <strong>개인 정보를 보호하여 안심</strong> 할 수 있습니다.
+firefox-new-its-a-family-of-products = 귀하의 개인 데이터를 존중하는 <strong>제품군</strong>입니다.
+firefox-new-its-everything-you-need-to = <strong>안전한 온라인 상태 유지</strong>에 대해 알아야 할 모든 것입니다.
+firefox-new-its-a-community-that-believes = <strong>커뮤니티</strong>는 기술이 더 진보할 것이라 믿고 있습니다.
