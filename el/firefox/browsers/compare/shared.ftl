@@ -39,6 +39,7 @@ compare-shared-utility-strong = <strong>Χρησιμότητα</strong>
 compare-shared-portability-strong = <strong>Φορητότητα</strong>
 compare-shared-overall-assessment = Συνολική αξιολόγηση
 compare-shared-the-comparisons-made-here = Οι παρούσες συγκρίσεις έγιναν μεταξύ των εξής εκδόσεων του προγράμματος περιήγησης:
+compare-shared-this-page-updated-semi-quarterly = Αυτή η σελίδα ενημερώνεται κάθε έξι εβδομάδες για να εμφανίζει την τελευταία έκδοση και ενδέχεται να μην περιέχει τις πιο πρόσφατες ενημερώσεις.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

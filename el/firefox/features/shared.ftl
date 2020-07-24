@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Μια καλύτερη εμπειρία στο διαδίκτυο
+features-shared-more-firefox-features = Περισσότερες λειτουργίες του προγράμματος περιήγησης { -brand-name-firefox }
 features-shared-browse-faster = Ταχύτερη περιήγηση
 features-shared-your-favorite-extensions = Οι αγαπημένες σας επεκτάσεις
 features-shared-balanced-memory = Ισορροπημένη μνήμη
