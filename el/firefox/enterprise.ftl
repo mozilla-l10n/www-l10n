@@ -18,6 +18,7 @@ firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-exte
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Πρόγραμμα εγκατάστασης MSI
 firefox-enterprise-support = Υποστήριξη
 firefox-enterprise-msi-installers = Προγράμματα εγκατάστασης MSI
+firefox-enterprise-legacy-browser-support = Υποστήριξη παλαιών προγραμμάτων περιήγησης
 firefox-enterprise-admx-templates = Πρότυπα ADMX
 firefox-enterprise-deployment-guide = Οδηγός ανάπτυξης
 firefox-enterprise-policy-documentation = Τεκμηρίωση πολιτικής
@@ -25,3 +26,6 @@ firefox-enterprise-release-notes = Σημειώσεις έκδοσης
 firefox-enterprise-documentation-and-community = Τεκμηρίωση και υποστήριξη κοινότητας
 firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = Λήψη του { -brand-name-firefox-esr } ή της ταχείας έκδοσης για<br> <a href="{ $firefox_all }">άλλη γλώσσα ή πλατφόρμα.</a>

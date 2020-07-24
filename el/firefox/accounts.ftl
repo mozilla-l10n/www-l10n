@@ -15,6 +15,8 @@ firefox-accounts-take-your-stand-stay-smart = Αντισταθείτε σε μι
 firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε ένα { -brand-name-firefox-account } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Υπάρχει τρόπος να προστατέψετε το απόρρητό σας. <span>Συμμετάσχετε στο { -brand-name-firefox }.</span>
+# This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
+firefox-accounts-take-your-stand-against = Αντισταθείτε σε μια βιομηχανία που βλέπει εσάς ως το προϊόν.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Έχετε συνδεθεί <br>στο { -brand-name-firefox }. <br><span>Δοκιμάστε το { -brand-name-firefox-monitor }.</span>
 firefox-accounts-sign-in-to-monitor = Σύνδεση στο { -brand-name-monitor }
