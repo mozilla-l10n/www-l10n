@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = 모바일 기기에 { -brand-name-ios } 및 { -brand-name-android }용 Firefox 브라우저를 다운로드하세요
+welcome-page4-download-the-firefox-browser = 모바일 기기에 { -brand-name-ios } 및 { -brand-name-android } 용 { -brand-name-firefox-browser }를 다운로드하세요
 welcome-page4-wallet-keys-phone-firefox = 지갑. 열쇠. 휴대폰. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = 모든 기기에서 개인 정보를 보호하세요 — 데이터 추적기에서 벗어나세요.
 welcome-page4-get-the-firefox-app = { -brand-name-firefox } 앱 설치
