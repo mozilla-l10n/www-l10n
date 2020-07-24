@@ -10,7 +10,7 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-n
 # HTML page description
 compare-ie-compare-internet-explorer-to = Krahasoni { -brand-name-ie }-in me { -brand-name-firefox-browser } për të gjetur se cili është shfletuesi më i mirë për ju.
 # Main title
-compare-ie-comparing-firefox-browser-with = Krahasim i { -brand-name-firefox-browser }-it me { -brand-name-ie }-in
+compare-ie-comparing-firefox-browser-with = Krahasim i { -brand-name-firefox-browser }-it me { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Teksa { -brand-name-ie }-i i { -brand-name-microsoft }-it ende vjen i parainstaluar në shumicën e PC-ve me bazë { -brand-name-windows }, { -brand-name-microsoft }-i qartazi do të parapëlqente që ju të përdornit shfletuesin e tyre { -brand-name-edge }, i cili është vendosur si parazgjedhje kur blini.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft }-i e ndali prodhimin e markës { -brand-name-ie } disa vite më parë, në favor të shfletuesit të vet të përditësuar { -brand-name-edge } për { -brand-name-windows } 10. Por adoptimi i ngadaltë i { -brand-name-edge }-it la vend që { -brand-name-ie } të vazhdojë të ekzistojë, kryesisht për arsye përputhshmërie për bizneset.
 compare-ie-here-well-compare-our-firefox = Këtu do të krahasojmë { -brand-name-firefox } Browser-in tonë me { -brand-name-ie }-in për sa u takon sigurisë, veçorive dhe bartjes. Do t’ju ndihmojmë të kuptoni dallimet mes një shfletuesi modern si { -brand-name-firefox }-i, që pajtohet me standardet web dhe shfletuesit që mund të jeni duke e përdorur për biznesin ose për hatër huqesh të vjetra që vdesin me zor.
