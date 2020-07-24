@@ -9,6 +9,8 @@
 firefox-accounts-there-is-a-way-to = Υπάρχει τρόπος να προστατέψετε το απόρρητό σας. Συμμετάσχετε στο { -brand-name-firefox }.
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = Αποκτήστε ένα { -brand-name-firefox-account } – Προστασία και συγχρονισμός δεδομένων
+# HTML page description
+firefox-accounts-take-your-stand-stay-smart = Αντισταθείτε σε μια βιομηχανία που πουλά τα δεδομένα σας σε τρίτους. Παραμείνετε ασφαλείς στο διαδίκτυο με την τεχνολογία που μάχεται για εσάς.
 # Old HTML page description
 firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε ένα { -brand-name-firefox-account } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
@@ -27,6 +29,7 @@ firefox-accounts-share-large-files = Μοιραστείτε μεγάλα αρχ�
 firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό που σας αξίζει.
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Λιγότερα δεδομένα.<br> Προστασία χρήστη.<br> Χωρίς μυστικά.
+firefox-accounts-help-us-build-a-better = Βοηθήστε μας να βελτιώσουμε το { -brand-name-firefox } για όλους.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
