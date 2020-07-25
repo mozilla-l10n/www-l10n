@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Navegador Firefox: Administrador de contraseñas rápido y sencillo
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Administrador de contraseñas rápido y sencillo
 # HTML page description
 password-manager-firefox-password = El administrador de contraseñas de { -brand-name-firefox } guarda todas tus contraseñas en un solo lugar para que puedas conectarte automáticamente a sitios, o recuperar las contraseñas guardadas.
 # Hero title
@@ -20,7 +20,7 @@ password-manager-password-magician = Mago de las contraseñas
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja de las contraseñas
-password-manager-no-more-try-again = No más “vuelva a intentarlo” cuando intentes llegar a alguna parte. Conéctate a tu cuenta de Firefox en tu teléfono, y tus contraseñas irán contigo. Tus detalles de conexión simplemente aparecerán, así de fácil.
+password-manager-no-more-try-again = No más “vuelva a intentarlo” cuando intentes llegar a alguna parte. Conéctate a tu { -brand-name-firefox-account } en tu teléfono, y tus contraseñas irán contigo. Tus detalles de conexión simplemente aparecerán, así de fácil.
 password-manager-password-champion = Campeón de las contraseñas
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
