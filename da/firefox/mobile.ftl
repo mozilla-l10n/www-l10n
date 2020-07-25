@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Hent Firefox-browseren til din mobil ({ -brand-name-ios } og { -brand-name-android })
-firefox-mobile-firefox-browser-for-mobile = Firefox-browseren til mobil blokerer som standard mere end 2000 sporings-mekanismer, så du kan få den beskyttelse af dit privatliv, du fortjener - og den hastighed, du har brug for.
+firefox-mobile-download-the-firefox-browser = Hent { -brand-name-firefox-browser } til din mobil ({ -brand-name-ios } og { -brand-name-android })
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } til mobil blokerer som standard mere end 2000 sporings-mekanismer, så du kan få den beskyttelse af dit privatliv, du fortjener - og den hastighed, du har brug for.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Få mobil-browseren, der er udviklet til dig - ikke til annoncører
@@ -23,7 +23,7 @@ firefox-mobile-stop-companies-from-following = Undgå at virksomheder følger di
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-firefox-mobile-stay-off-their-radar-with = Flyv under deres radar med <a href="{ $url }">Beskyttelse mod sporing</a>
+firefox-mobile-stay-off-their-radar-with = Flyv under deres radar med <a href="{ $url }">{ -brand-name-firefox }' Beskyttelse mod sporing</a>
 firefox-mobile-discover-products-that-keep = Opdag produkter, der beskytter dig
 firefox-mobile-sync-your-history-passwords = Synkroniser din historik, dine adgangskode og dine bogmærker. Del faneblade på tværs af dine enheder.
 firefox-mobile-android-only = Kun til { -brand-name-android }
