@@ -38,6 +38,7 @@ compare-shared-utility-strong = <strong>Utilidad</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilidad</strong>
 compare-shared-overall-assessment = Evaluación general
+compare-shared-the-comparisons-made-here = Las comparaciones realizadas aquí se realizaron en las versiones finales disponibles para usuarios comunes de los navegadores de la siguiente forma:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

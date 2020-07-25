@@ -17,6 +17,7 @@ firefox-privacy-privacy = Privacidad
 firefox-privacy-our-promise = Nuestra promesa
 # Sub navigation link
 firefox-privacy-our-products = Nuestros productos
+firefox-privacy-hub-you-should-be-able-to-decide = Deberías poder decidir quién ve tu información personal. No solo entre tus amigos, sino con todos los anunciantes y empresas en Internet, incluidos nosotros.
 firefox-privacy-hub-take-less = Recolectar menos
 firefox-privacy-hub-we-make-a-point-of-knowing = Insistimos en saber menos detalles sobre ti
 firefox-privacy-hub-keep-it-safe = Mantenerla segura

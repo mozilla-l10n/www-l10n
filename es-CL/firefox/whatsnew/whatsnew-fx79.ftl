@@ -14,6 +14,8 @@ whatsnew79-primary-cta = Predeterminar { -brand-name-firefox }
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Obtén la aplicación de { -brand-name-firefox }
 whatsnew79-secure-your-connection = Asegura tu conexión
+# CTA link
+whatsnew79-get-started = Empezar
 whatsnew79-get-more-control-over = Obtén más control sobre los rastreadores
 # CTA link
 whatsnew79-see-your-report = Mira tu reporte
