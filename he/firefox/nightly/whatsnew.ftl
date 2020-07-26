@@ -21,3 +21,4 @@ nightly-whatsnew-if-you-want-to = אם ברצונך לדעת מה קורה סב�
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = רוצה לדעת אילו תכונות אפשר לנסות ב־{ -brand-name-nightly } שלא ניתן לראות עדיין בערוצי { -brand-name-firefox } אחרים? בדף <a href="{ $mdn }">Experimental Features</a> שב־<abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr> ניתן לקבל מידע נוסף.
+nightly-whatsnew-go-community = כל הכבוד לקהילה!
