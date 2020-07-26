@@ -26,7 +26,7 @@ firefox-all-download-the-firefox = Descarcă { -brand-name-firefox-browser } în
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Toți merită acces la internet — limba nu ar trebui să fie niciodată o barieră. De aceea — cu ajutorul voluntarilor dedicați din întreaga lume — facem { -brand-name-firefox-browser } disponibil în peste 90 de limbi.
 firefox-all-choose-which-firefox = Alege ce { -brand-name-firefox-browser } să descarci în limba ta
-firefox-all-firefox-privacy-notice = Declarație de confidențialitate { -brand-name-firefox }
+firefox-all-firefox-privacy-notice = Notificare privind confidențialitatea { -brand-name-firefox }
 firefox-all-learn-about-firefox = Află despre browserele { -brand-name-firefox }
 firefox-all-the-standard-firefox = Browserul standard { -brand-name-firefox } — rapid și privat. Dacă nu ești sigur ce { -brand-name-firefox } să alegi, alege-l pe acesta.
 firefox-all-get-a-sneak-peek-at = Aruncă o privire la cele mai recente funcții ale browserului { -brand-name-firefox } înainte de a fi lansate.
