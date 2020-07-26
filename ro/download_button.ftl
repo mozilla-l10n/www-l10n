@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> pentru { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pentru { -brand-name-ios }
 download-button-firefox-privacy = Politica de confidențialitate { -brand-name-firefox }
+download-button-firefox-privacy-notice = Declarație de confidențialitate { -brand-name-firefox }
 download-button-download = Descarcă
