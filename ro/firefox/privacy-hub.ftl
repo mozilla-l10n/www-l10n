@@ -7,4 +7,4 @@
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-read-the-privacy-notice-for = Citește <a href="{ $url }"Declarația de confidențialte</a> pentru produsele noastre
+firefox-privacy-hub-read-the-privacy-notice-for = Citește <a href="{ $url }">Notificarea privind confidențialitatea</a> pentru produsele noastre
