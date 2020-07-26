@@ -18,7 +18,7 @@ firefox-accounts-there-is-a-way-to-protect = Il ha un maniera de proteger tu vit
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Prende position contra un industria pro le qual tu es le producto a vender.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = Tu ha aperite <br>session a { -brand-name-firefox }. <br><span>Ora prova { -brand-name-firefox-monitor }.</span>
+firefox-accounts-youre-signed-in-to = Tu ha aperite <br>session in { -brand-name-firefox }. <br><span>Ora prova { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Vide si tu ha essite implicate in un violation de datos online.
 firefox-accounts-sign-in-to-monitor = Aperir session a { -brand-name-monitor }
 firefox-accounts-join-firefox = Junge te a { -brand-name-firefox }
