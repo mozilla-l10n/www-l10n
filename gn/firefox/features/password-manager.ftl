@@ -20,10 +20,10 @@ password-manager-password-magician = Ñe’ẽñemi ikatupyrýva
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ñe'ẽñemi oikoitevéva
-password-manager-no-more-try-again = Anive “eha’ã pyahujey” ejapótavo peteĩ mba’e. Emoñepyrũ tembiapo { -brand-name-firefox-account } pumbyry peguávape, ha eguerekóta ne ñe’ẽñemi sapy'aitépe. Umi terachaukaha ehecháta pya’eterei ne renondépe.
+password-manager-no-more-try-again = Anive “eha’ã pyahujey” ejapótavo peteĩ mba’e. Emoñepyrũ tembiapo { -brand-name-firefox-account } pumbyry peguávape, ha eguerekóta ne ñe’ẽñemi sapy’aitépe. Umi terachaukaha ehecháta pya’eterei ne renondépe.
 password-manager-password-champion = Ñe’ẽñemi ha’evéva
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Ñe'ẽñemi mbo’ehára
 # Obsolete string
 # Variables:
