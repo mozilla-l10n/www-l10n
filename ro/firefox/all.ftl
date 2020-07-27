@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Aruncă o privire la cele mai recente funcții
 firefox-all-test-your-sites-against = Testează comportamentul site-urilor tale în raport cu funcțiile browserului { -brand-name-firefox } ce vor fi lansate în curând cu unelte puternice, flexibile și implicit active pentru dezvoltatori.
 firefox-all-count-on-stability-and = Contează pe stabilitatea și ușurința la utilizare cu acest browser { -brand-name-firefox } creat pentru întreprinderi.
 firefox-all-windows-installers-for = Programe de instalare Windows pentru departamentele IT ale întreprinderilor, care fac mai simple configurarea, lansarea și gestionarea { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = Instalatoare ARM64/AArch64
+firefox-all-arm64-installers-optimized = Instalatoare ARM64/AArch64 optimizate pentru calculatoare { -brand-name-windows } cu Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Alege un program de instalare pe 32 de biți pentru calculatoarele cu procesoare pe 32 de biți — sau pentru calculatoare mai vechi sau mai slabe. <a href="{ $url }">Dacă nu știi sigur</a>ce program de instalare să alegi, pe 64 sau pe 32 biți, îți recomandăm să mergi pe 32 biți.

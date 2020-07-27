@@ -130,6 +130,7 @@
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
 -brand-name-messenger = Messenger
+-brand-name-workplace = Workplace
 
 ## Google products
 
