@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } захищає вашу приватність автоматично
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-welcome-page8-your-privacy-respected = Дотримання вашої приватності <strong>автоматично</strong>
+welcome-page8-your-privacy-respected = <strong>Автоматичне</strong> дотримання вашої приватності
 welcome-page8-firefox-automatically-protects = { -brand-name-firefox } автоматично захищає вашу приватність, тож ви вільні жити своїм життям за кожного входу до Мережі.
 welcome-page8-view-your-protection-report = Переглянути звіт про ваш захист
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized

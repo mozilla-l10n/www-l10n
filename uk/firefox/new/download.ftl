@@ -14,7 +14,7 @@ firefox-new-get-the-latest-firefox = Отримайте найновіший б�
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } відображає кількість елементів стеження, які заблоковано за допомогою функції <strong>Розширеного захисту від стеження</strong>.
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> захищає паролі, які ви зберігаєте в { -brand-name-firefox }, і робить їх доступними на всіх пристроях.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> сповіщає вас, коли ваша інформація з'являється серед відомих витоків даних інших компаній внаслідок їх зламу.
-firefox-new-join-firefox = Приєднайтеся до { -brand-name-firefox }
+firefox-new-join-firefox = Приєднуйтеся до { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> робить паролі, які ви зберегли у { -brand-name-firefox }, доступними на всіх ваших пристроях.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Завантажити { -brand-name-firefox } <br>для { -brand-name-windows }
