@@ -8,8 +8,8 @@
 # HTML page title
 welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } ad yemmesten tudert-ik·im tabaḍnit s wudem awurman
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-welcome-page8-your-privacy-respected = Tudert-ik·im tabaḍnit tettuqader s <strong>s wudem awurman</strong>
-welcome-page8-firefox-automatically-protects = { -brand-name-firefox } ad yemmesten tudeert-ik·im tabaḍnit s wudem awurman, ihi aql-ak-akem d (t)ilelli(t) ad tidireḍ tudert-ik·im yal mi ara teqqneḍ.
+welcome-page8-your-privacy-respected = Tudert-ik·im tabaḍnit tettuqader s <strong>wudem awurman</strong>
+welcome-page8-firefox-automatically-protects = { -brand-name-firefox } ad yemmesten tudeert-ik·im tabaḍnit s wudem awurman, ihi aql-ak·akem d (t)ilelli(t) ad tidireḍ tudert-ik·im yal mi ara teqqneḍ.
 welcome-page8-view-your-protection-report = Wali aneqqis-ik·im n ummesten
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Ammesten mgal aḍfa yettwasǧehden
