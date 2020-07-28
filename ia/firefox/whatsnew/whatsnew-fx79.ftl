@@ -8,7 +8,7 @@
 # HTML page title
 whatsnew79-page-title = Qual novas re { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = Mantene tu datos reservate ab totes, anque ab nos
+whatsnew79-main-title = Mantene tu datos private ab totes, incluse nos
 whatsnew79-main-intro = Internet debe esser un loco secur pro totes. Ecce perque { -brand-name-firefox } non seque tu navigation in le Web e stoppa anque le alteres de sequer te.
 # Main CTA button
 whatsnew79-primary-cta = Rende { -brand-name-firefox } predefinite
