@@ -34,6 +34,6 @@ whatsnew79-get-the-power-to-prevent = Installa le potentia pro impedir a { -bran
 whatsnew79-add-facebook-container = Adde { -brand-name-facebook-container }
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Installa { -brand-name-firefox } sur tu telephono
-whatsnew79-scan-the-qr-code = Scande le codice QR pro comenciar
+whatsnew79-scan-the-qr-code = Scanna le codice QR pro comenciar
 # Accessible text replacement for a QR code image
-whatsnew79-qr-code-to-scan = Codice QR a scander pro { -brand-name-firefox }
+whatsnew79-qr-code-to-scan = Codice QR a scannar pro { -brand-name-firefox }
