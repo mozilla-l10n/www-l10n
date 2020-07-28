@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Notificarea privind confidențialitatea site-ul
 footer-websites-cookies = Cookie-uri
 footer-websites-legal = Mențiuni legale
 footer-language = Limbă
+footer-go = Mergi
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
