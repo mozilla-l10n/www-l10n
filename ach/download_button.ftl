@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> pi { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pi { -brand-name-ios }
 download-button-firefox-privacy = Mung me { -brand-name-firefox }
+download-button-firefox-privacy-notice = Ngec me Mung pa { -brand-name-firefox }
 download-button-download = Kwany
