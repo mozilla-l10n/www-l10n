@@ -13,8 +13,9 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox } - rebel s po
 features-independent-firefox-is-independent = { -brand-name-firefox } je nezávislý a je súčasťou neziskovej organizácie { -brand-name-mozilla }, ktorá bojuje za vaše online práva, udržiava korporácie pod kontrolou a sprístupňuje internet všetkým a všade.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Bez záväzkov
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } vytvorila nezisková organizácia. Znamená to, že môžeme robiť veci, ktoré iní nemôžu. Napríklad tvoriť nové produkty a funkcie bez skrytého motívu. Právo na súkromie hrá u nás veľkú rolu - vyvinuli sme nástroje ako napríklad súkromné prehliadanie s ochranou pred sledovaním.
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } vytvorila nezisková organizácia. Znamená to, že môžeme robiť veci, ktoré iní nemôžu. Napríklad tvoriť nové produkty a funkcie bez skrytého motívu. Právo na súkromie hrá u nás veľkú rolu - vyvinuli sme nástroje ako napríklad súkromné prehliadanie s ochranou pred sledovaním.
+features-independent-firefox-is-built-by = { -brand-name-firefox } vytvorila nezisková organizácia. Znamená to, že môžeme robiť veci, ktoré iní nemôžu. Napríklad tvoriť nové produkty a funkcie bez skrytého motívu. Právo na súkromie hrá u nás veľkú rolu - vyvinuli sme nástroje ako napríklad súkromné prehliadanie s ochranou pred sledovaním, ktoré predčia riešenia, ktoré ponúka { -brand-name-google } { -brand-name-chrome } či { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Dostanete to, čo vidíte
 features-independent-we-believe-the-internet = Veríme, že internet je pre ľudí, nie pre zisk. Na rozdiel od iných spoločností nepredávame prístup k vašim údajom. <em>Vy</em> máte kontrolu nad tým, kto uvidí vašu históriu vyhľadávania a prehliadania. Voľba — to je princíp zdravého internetu!
 features-independent-a-browser-on-a-mission = Prehliadač na misii
