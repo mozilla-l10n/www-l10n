@@ -10,9 +10,8 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs. { -brand-n
 # HTML page description
 compare-opera-compare-opera-to-the-firefox = Compara { -brand-name-opera } con el { -brand-name-firefox-browser } para descubrir cuál es el mejor navegador para ti.
 # Main title
-compare-opera-comparing-firefox-browser = Comparación de Firefox con { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Comparación de { -brand-name-firefox-browser } con { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks-fallback = La política de privacidad de { -brand-name-opera } carece de cierta especificidad en su explicación de qué tipo de información recopila y cómo, en ciertas secciones, dice que recopilan nombres de titulares de cuentas, direcciones IP y términos de búsqueda. Lo que parece confuso y preocupante es la sección sobre transferencias internacionales de datos; no está explicado cuándo, con qué frecuencia y por qué necesitan transferir sus datos internacionalmente.
-compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox } y { -brand-name-opera } son dos de los primeros navegadores que existieron y que aún lanzan actualizaciones frecuentes. Si bien { -brand-name-opera } no ha alcanzado el mismo nivel de adopción de usuarios que { -brand-name-firefox } o { -brand-name-google } { -brand-name-chrome }, ha mantenido una base relativamente estable y leal durante un periodo prolongado de tiempo. En esta revisión, compararemos el navegador { -brand-name-opera } con nuestro navegador { -brand-name-firefox } en términos de seguridad y privacidad, utilidad y portabilidad para ayudarte a elegir qué navegador puede ser el más adecuado para ti.
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = La <a { $attrs }>política de privacidad</a> de { -brand-name-firefox } es muy transparente al describir qué información personal recopilamos con el único objetivo final de darte un mayor control sobre la información que compartes en línea.
