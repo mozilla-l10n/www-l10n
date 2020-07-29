@@ -8,7 +8,7 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vs. { -brand-name-microsoft } { -brand-name-edge }: ¿Cuál es el mejor navegador para ti?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Compara { -brand-name-microsoft } { -brand-name-edge } con Firefox para descubrir cuál es el mejor navegador para ti.
+compare-edge-compare-microsoft-edge-to-the = Compara { -brand-name-microsoft } { -brand-name-edge } con  { -brand-name-firefox-browser } para descubrir cuál es el mejor navegador para ti.
 # Main title.
 compare-edge-comparing-firefox-browser-with = Comparación de Firefox con { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced = Con { -brand-name-windows } 10, { -brand-name-microsoft } presentó su navegador { -brand-name-edge } para competir con { -brand-name-firefox } y { -brand-name-chrome }, convirtiéndolo en el navegador predeterminado preinstalado en millones de ordenadores vendidos. Aun así, los usuarios tardaron en adoptarlo y { -brand-name-microsoft } finalmente anunció planes para relanzar { -brand-name-edge } como un navegador basado en { -brand-name-chromium } ({ -brand-name-chromium }, por supuesto, es el proyecto de navegador de código abierto de { -brand-name-google }).
