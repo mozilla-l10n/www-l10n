@@ -15,3 +15,7 @@ firefox-new-advanced-install-options = 高度なインストールオプショ�
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-firefox-new-should-begin = ダウンロードは自動的に始まります。もし始まらない場合は <a id="{ $id }" href="{ $fallback_url }">再度ダウンロードしてみてください</a>。
