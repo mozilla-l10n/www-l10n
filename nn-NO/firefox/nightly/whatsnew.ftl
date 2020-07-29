@@ -23,5 +23,5 @@ nightly-whatsnew-if-you-want-to = Les du <a href="{ $blog }">bloggen</a> vår og
 nightly-whatsnew-want-to-know-which = Vil du vite kva for funksjonar du kan teste i { -brand-name-nightly }, og som ikkje er tilgjengelege i dei andre { -brand-name-firefox }-kanalane? Sjekk ut „<a href="{ $mdn }">Experimental Features</a>”-sida på <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Opplever du krasj? Uventa oppførsel? Webkompatiblitetsregresjonar? Det vil vere kjempeflott om dei vert rapporterte til <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> slik at dei ikkje kjem med i den endelege utgåva (ekstra karma om du legg til <em>{ -brand-name-nightly }-community</em>-nykelord til feilrapportane dine!
+nightly-whatsnew-do-you-experience = Opplever du krasj? Uventa oppførsel? Nye problem med nettkompatibilitet? Det vil vere kjempeflott om du vil vere med på å rapportere dei til <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> slik at dei ikkje kjem med i den endelege utgåva (ekstra karma om du legg til <em>{ -brand-name-nightly }-community</em>-nøkkelord til feilrapportane dine!
 nightly-whatsnew-go-community = Beste helsingar frå oss i fellesskapet!
