@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Preuzmi { -brand-name-firefox } za tvoje poduzeće s { -brand-name-esr } i Brzo izdanje
+firefox-enterprise-get-unmatched-data-protection = Preuzmi { -brand-name-firefox } za poduzeća, za neusporedivu zaštitu podataka u koracima preuzimanja izdanja koji tebi odgovaraju. Preuzmi { -brand-name-esr } i Brzo izdanje.
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Preuzmi <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ili Brzo izdanje</a> za cjelovitu sigurnost podataka i zaštitu podataka.
