@@ -23,7 +23,7 @@ download-button-please-follow-these = Tim ber i lub <a href="{ $url }">yoo magi<
 download-button-your-system-does-not = Nyonyo mamegi pe rwate ki <a href="{ $url }">jami ma mite</a> me tic ki { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } pi Nyonyo ki Leb mukene
 download-button-update-your-firefox = Ket ngec manyen i { -brand-name-firefox } ni
-download-button-get-firefox-android = Nong { -brand-name-firefox } pi Anroid
+download-button-get-firefox-android = Nong { -brand-name-firefox } pi { -brand-name-android }
 download-button-get-firefox-ios = Nong { -brand-name-firefox } pi { -brand-name-ios }
 download-button-google-play = Nong i { -brand-name-google-play }
 download-button-free-google-play = Nong me nono i { -brand-name-google-play }
