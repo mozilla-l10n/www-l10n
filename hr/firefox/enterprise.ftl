@@ -8,7 +8,7 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Preuzmi { -brand-name-firefox } za tvoje poduzeće s { -brand-name-esr } i Brzo izdanje
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Preuzmi <a href="{ $url }">{ -brand-name-firefox-Extended-support-release } ili Brzo izdanje</a> za cjelovitu sigurnost podataka i zaštitu podataka.
+firefox-enterprise-get-the-firefox-extended-support = Preuzmi <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ili Brzo izdanje</a> za cjelovitu sigurnost podataka i zaštitu podataka.
 firefox-enterprise-get-rapid-releases-to-make = Preuzmi brza izdanja za brže dobivanje najnovijih funkcija ili proširi, za osiguravanje super stabilnog iskustva.
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
