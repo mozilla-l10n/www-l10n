@@ -13,7 +13,7 @@ whatsnew79-main-intro = A internet deve ser um lugar seguro para todos. É por i
 # Main CTA button
 whatsnew79-primary-cta = Torne o { -brand-name-firefox } padrão
 # Fallback CTA button, shown if Firefox is already a user's default browser
-whatsnew79-fallback-cta = Instale o aplicativo { -brand-name-firefox }
+whatsnew79-fallback-cta = Instale o { -brand-name-firefox } no celular
 whatsnew79-secure-your-connection = Proteja seu conexão
 whatsnew79-with-one-tap-mozilla-vpn = Com um toque, { -brand-name-mozilla-vpn } criptografa sua conexão e mantém sua atividade online privativa em qualquer rede — protegida de hackers e outros olhares curiosos.
 # CTA link
