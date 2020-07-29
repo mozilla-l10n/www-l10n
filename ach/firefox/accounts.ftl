@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Tye yoo me gwoko mung mamegi. Dony iyie { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Nong Akaunt me Firefox – Gwok data ni i mung, maber ki ma kiribo
+firefox-accounts-get-a-firefox-account = Nong { -brand-name-firefox-account } – Gwok data ni i mung, maber ki ma kiribo
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Tye yoo me gwoko mung mamegi. <span>Dony iyie { -brand-name-firefox }.</span>
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.

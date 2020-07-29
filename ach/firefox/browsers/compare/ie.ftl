@@ -8,6 +8,6 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } ki. { -brand-name-ie }: Mene ma inongo obedo layeny maber loyo?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Po Internt Explorer ki Layeny me Firefox me niang mene ma obedo layeny maber pi yin.
+compare-ie-compare-internet-explorer-to = Po { -brand-name-ie } ki { -brand-name-firefox-browser } me niang mene ma obedo layeny maber pi yin.
 # Main title
-compare-ie-comparing-firefox-browser-with = Poro Layeny me Firefox ki { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Poro { -brand-name-firefox-browser } ki { -brand-name-microsoft } { -brand-name-ie }

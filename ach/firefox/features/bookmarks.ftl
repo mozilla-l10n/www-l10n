@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox Layeny: Alamabuk ma ber kabedo weng kama icito iye
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Alamabuk ma ber kabedo weng kama icito iye
 features-bookmarks-better-bookmarks = Alamabuk maber
 features-bookmarks-dont-agonize-lovers-of = Pe ocane, jo ma maro keto alamabuk. Yub ki { -brand-name-firefox }.
 # File means to save (that bookmark).

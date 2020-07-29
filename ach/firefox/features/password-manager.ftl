@@ -6,5 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Layeny me Firefox: Dwir, Loyo mung me donyo mayot
-password-manager-no-more-try-again = Dong “tem doki” pe tye ma kun nongo itye ka cito ka moni. Dony iyie Akaunt mamegi me Firefox i cim mamegi, ci mung me donyo ni bino kwedi. Ngec me donyo iyie ni bino mayot, mere kumeno.
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Dwir, Loyo mung me donyo mayot
+password-manager-no-more-try-again = Dong “tem doki” pe tye ma kun nongo itye ka cito ka moni. Dony iyie { -brand-name-firefox-account } i cim mamegi, ci mung me donyo ni bino kwedi. Ngec me donyo iyie ni bino mayot, mere kumeno.

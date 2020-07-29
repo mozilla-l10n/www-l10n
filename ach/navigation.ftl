@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Gam { -brand-name-firefox }
-navigation-get-a-firefox-account = Nong Akaunt me Firefox
+navigation-get-a-firefox-account = Nong { -brand-name-firefox-account }
 navigation-download-for-ios = Gam pi { -brand-name-ios }
 navigation-download-for-android = Gam pi { -brand-name-android }
 navigation-ios-support = Kony me { -brand-name-ios }
@@ -16,7 +16,7 @@ navigation-take-firefox-and-firefox = Cwal { -brand-name-firefox } ki { -brand-n
 navigation-get-firefox = Nong { -brand-name-firefox }
 navigation-get-firefox-focus = Nong { -brand-name-firefox-focus }
 navigation-android-extensions = Lamed me { -brand-name-android }
-navigation-your-firefox-account = Akaunt me Firefox mamegi
+navigation-your-firefox-account = { -brand-name-firefox-account } mamegi
 navigation-learn-how-to-customize = Pwony kit me yubu kit ma { -brand-name-firefox } tyo kwede.
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-check-out-the-benefits = Nen ber ne

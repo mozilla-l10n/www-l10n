@@ -17,10 +17,10 @@ firefox-all-platform = Nyonyo:
 firefox-all-language = Leb:
 firefox-all-sorry-we-couldnt-find = Timwa kica, pe watwero nongo gam ma itye ka yenyo ne ni. Tim ber item doki, onyo yer gam ki i kin jami ma piny ni.
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Gam Layeny me Firefox i Leb muno ki i leb mukene ma kato 90
+firefox-all-download-the-firefox = Gam { -brand-name-firefox-browser } i Leb muno ki i leb mukene ma kato 90
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Omyero ki dano weng me nongo intanet — leb mamegi pe myero obed lageng. Pi meno — ki kony pa lumi kony ma gi odyere ki i but wilobo — wa weko Layeny me Firefox bedo tye i leb makato 90.
-firefox-all-choose-which-firefox = Yer Layeny me Firefox mene me agama i leb mamegi
+firefox-all-everyone-deserves-access = Omyero ki dano weng me nongo intanet — leb mamegi pe myero obed lageng. Pi meno — ki kony pa lumi kony ma gi odyere ki i but wilobo — wa weko { -brand-name-firefox-browser } bedo tye i leb makato 90.
+firefox-all-choose-which-firefox = Yer { -brand-name-firefox-browser } mene me agama i leb mamegi
 firefox-all-firefox-privacy-notice = Ngec me Mung pa { -brand-name-firefox }
 firefox-all-learn-about-firefox = Nong ngec ikom layeny me { -brand-name-firefox }
 # Variables:

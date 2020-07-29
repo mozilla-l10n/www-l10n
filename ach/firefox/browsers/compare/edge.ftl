@@ -8,6 +8,6 @@
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } ki. { -brand-name-microsoft } { -brand-name-edge }: Mene ma inongo obedo layeny maber loyo?
 # HTML page description.
-compare-edge-compare-microsoft-edge-to-the = Po { -brand-name-microsoft } { -brand-name-edge } ki Layeny me Firefox me niang mene ma obedo layeny maber pi yin.
+compare-edge-compare-microsoft-edge-to-the = Po { -brand-name-microsoft } { -brand-name-edge } ki { -brand-name-firefox-browser } me niang mene ma obedo layeny maber pi yin.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Poro Layeny me Firefox ki { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Poro { -brand-name-firefox-browser } ki { -brand-name-microsoft } { -brand-name-edge }

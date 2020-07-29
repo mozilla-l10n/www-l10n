@@ -8,6 +8,6 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } ki. { -brand-name-opera }: Mene ma inongo obedo layeny maber loyo?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Po { -brand-name-opera } ki Layeny me Firefox me niang mene ma obedo layeny maber pi yin.
+compare-opera-compare-opera-to-the-firefox = Po { -brand-name-opera } ki { -brand-name-firefox-browser } me niang mene ma obedo layeny maber pi yin.
 # Main title
-compare-opera-comparing-firefox-browser = Poro Layeny me Firefox ki { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Poro { -brand-name-firefox-browser } ki { -brand-name-opera }
