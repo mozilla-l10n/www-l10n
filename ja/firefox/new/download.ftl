@@ -10,8 +10,20 @@ firefox-new-download-mozilla-firefox = 無料で使えるブラウザー { -bran
 firefox-new-download-the-fastest-firefox = 史上最速の { -brand-name-firefox } をダウンロード
 firefox-new-faster-page-loading-less-memory = ページ読み込みの高速化、メモリー使用量の削減、さらに豊富な機能を兼ね備えた、まったく新しい { -brand-name-firefox }、誕生。
 firefox-new-get-the-latest-firefox = { -brand-name-firefox } の最新版を入手
+firefox-new-join-firefox = { -brand-name-firefox } に参加する
+# span's below are for visual formatting and line break.
+firefox-new-download-firefox-for-windows = { -brand-name-windows } 版 <br>{ -brand-name-firefox } をダウンロード
+firefox-new-download-firefox-for-macos = { -brand-name-mac } 版 <br>{ -brand-name-firefox } をダウンロード
+firefox-new-download-firefox-for-linux = { -brand-name-linux } 版 <br>{ -brand-name-firefox } をダウンロード
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-new-youve-already-got-the-browser = 既にブラウザーを取得しています。{ -brand-name-firefox } をさらに活用しましょう。
 firefox-new-free-web-browser = 無料ウェブブラウザー
 firefox-new-advanced-install-options = 高度なインストールオプションと他の OS 版
+firefox-new-download-in-another-language = 他の言語でダウンロード
+firefox-new-fix-a-problem = 問題を修正する
+firefox-new-make-your-passwords-portable = パスワードを持ち運ぶ
+firefox-new-protect-your-privacy = プライバシーを保護する
+firefox-new-advanced-install-options-heading = 高度なインストールオプションと他の OS 版
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
