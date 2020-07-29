@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
