@@ -20,7 +20,7 @@ firefox-accounts-take-your-stand-against = Ia atitudine împotriva unei industri
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Ești autentificat <br>în { -brand-name-firefox }. <br><span>Încearcă acum { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Vezi dacă ai fost implicat(ă) într-o încălcare online a securității datelor.
-firefox-accounts-sign-in-to-monitor = Autentificare în { -brand-name-monitor }
+firefox-accounts-sign-in-to-monitor = Autentifică-te în { -brand-name-monitor }
 firefox-accounts-join-firefox = Alătură-te { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Introdu adresa de e-mail pentru a începe.
 firefox-accounts-already-have-an-account = Ai deja un cont?
