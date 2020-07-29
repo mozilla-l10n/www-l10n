@@ -22,10 +22,10 @@ firefox-all-64-bit-installers = 64 bit yükleyiciler
 firefox-all-choose-a-64-bit-installer = 64 bit işlemcili bilgisayarlar için 64 bit yükleyiciyi seçin. 64 bit işlemcili bilgisayarlar programlara daha fazla RAM ayrılabilmesini sağlar. Bu, özellikle oyunlar ve belleği yoğun kullanan uygulamalar için önemlidir.
 firefox-all-32-bit-installers = 32 bit yükleyiciler
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser }’ı Türkçe veya 90 farklı dilde indirin
+firefox-all-download-the-firefox = { -brand-name-firefox-browser }nı Türkçe veya 90 farklı dilde indirin
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox-browser }’ı gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
-firefox-all-choose-which-firefox = Hangi { -brand-name-firefox-browser }’ı hangi dilde indirmek istediğiniz seçin
+firefox-all-everyone-deserves-access = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox-browser }nı gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
+firefox-all-choose-which-firefox = Hangi { -brand-name-firefox-browser }nı hangi dilde indirmek istediğinizi seçin
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } Gizlilik Bildirimi
 firefox-all-learn-about-firefox = { -brand-name-firefox } tarayıcıları hakkında bilgi alın
 firefox-all-the-standard-firefox = Standart { -brand-name-firefox } tarayıcısı: hızlı ve gizlilik yanlısı. Hangi { -brand-name-firefox }’u seçeceğinizi bilmiyorsanız bunu seçin.
