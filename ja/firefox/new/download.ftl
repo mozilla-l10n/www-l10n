@@ -11,6 +11,7 @@ firefox-new-download-the-fastest-firefox = 史上最速の { -brand-name-firefox
 firefox-new-faster-page-loading-less-memory = ページ読み込みの高速化、メモリー使用量の削減、さらに豊富な機能を兼ね備えた、まったく新しい { -brand-name-firefox }、誕生。
 firefox-new-get-the-latest-firefox = { -brand-name-firefox } の最新版を入手
 firefox-new-join-firefox = { -brand-name-firefox } に参加する
+firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> でパスワードを { -brand-name-firefox } に保存してすべての端末で利用できます。
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } 版 <br>{ -brand-name-firefox } をダウンロード
 firefox-new-download-firefox-for-macos = { -brand-name-mac } 版 <br>{ -brand-name-firefox } をダウンロード
