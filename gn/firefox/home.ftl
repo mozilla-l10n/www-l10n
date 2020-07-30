@@ -12,7 +12,7 @@ firefox-home-meet-our-family-of = Eikuaa ore apopyre ñemigua aty.
 firefox-home-get-trackers-off = Hetave 2,000 tapykuehoha osẽ nde rapégui — { -brand-name-facebook } avei
 firefox-home-know-when-hackers-strike = Eikuaa mba’evaiapoha jeju — eime chugui tenondeve
 firefox-home-start-getting-breach = Og̃uahẽta ndéve marandu ñembyai rehegua
-firefox-home-keep-your-passwords = Emohekorosã ne ñe’ẽñemi peteĩteĩva mba’e'okápe
+firefox-home-keep-your-passwords = Emohekorosã ne ñe’ẽñemi peteĩteĩva mba’e’okápe
 firefox-home-learn-more-about-lockwise = Eikuaave { -brand-name-lockwise } rehegua
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Eguereko <strong>poyhu</strong> eipotáva
