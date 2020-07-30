@@ -8,8 +8,8 @@ download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
-download-button-supported-devices = Mba'e'oka heseguáva
-download-button-whats-new = Mba'epyahu
+download-button-supported-devices = Mba’e’oka heseguáva
+download-button-whats-new = Mba’epyahu
 download-button-systems-languages = Apopyvusu ha Ñe’ẽnguéra
 download-button-recommended = Jeroviapyrãva
 # Variables:
@@ -17,7 +17,7 @@ download-button-recommended = Jeroviapyrãva
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } nombohekopyahuvéima tekorosã { -brand-name-firefox } peg̃uarã { -brand-name-windows } { -brand-name-xp } térã { -brand-name-vista }-pe</a>, hákatu emboguejykuaa gueteri { -brand-name-windows } 32 bits orekóva ko’ág̃a guive.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Ejapomína <a href="{ $url }">ko’ã mba'e</a> emohendávo { -brand-name-firefox } mohendahápe.
+download-button-please-follow-these = Ejapomína <a href="{ $url }">ko’ã mba’e</a> emohendávo { -brand-name-firefox } mohendahápe.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Nde apopyvusu ndoguerekopái <a href="{ $url }">tekotevẽmby</a> eipuru hag̃ua { -brand-name-firefox }.
@@ -36,6 +36,6 @@ download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</s
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> { -brand-name-android } peg̃uarã
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android } peg̃uarã
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } peg̃uarã
-download-button-firefox-privacy = { -brand-name-firefox } mba'eñemi
+download-button-firefox-privacy = { -brand-name-firefox } Mba’eñemi
 download-button-firefox-privacy-notice = { -brand-name-firefox } Marandu’i Ñemigua
 download-button-download = Mboguejy

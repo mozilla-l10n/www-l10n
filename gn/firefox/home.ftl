@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-home-firefox-protect-your = { -brand-name-firefox }: omo’ã nde jeike ñandutípe apopyre omomba'éva ñemigua
+firefox-home-firefox-protect-your = { -brand-name-firefox }: omo’ã nde jeike ñandutípe apopyre omomba’éva ñemigua
 firefox-home-firefox-is-more-than = { -brand-name-firefox } ndaha’éi kundaha año. Eikuaave { -brand-name-firefox } apopyre rehegua oikuaáva ne mba’ekuaarã poyhúpe ha ojejapo eikekuévo ñandutípe nde rekoñemi hag̃ua.
 firefox-home-the-browser-is-just = Ko kundaha ñepyrũrãnte
 firefox-home-meet-our-family-of = Eikuaa ore apopyre ñemigua aty.

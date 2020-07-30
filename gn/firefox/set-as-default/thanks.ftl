@@ -25,7 +25,7 @@ set-as-default-thanks-download-the-app = Emboguejy tembipuru’i
 set-as-default-thanks-join-firefox = Ejuaju { -brand-name-firefox } rehe
 set-as-default-thanks-sign-up-for-a-free-account = Eñemboheraguapy ereko hag̃ua mba’ete reíva ha embojuehe ñe’ẽñemíre, kundaha rembiasakue ha eguerohoryvéva opaite ne mba’e’okápe.
 # Account here refers to a Firefox Account
-set-as-default-thanks-get-an-account = Emoheñói peteĩ mba'ete
+set-as-default-thanks-get-an-account = Emoheñói peteĩ mba’ete
 set-as-default-thanks-having-trouble = ¿Eguerekópa apañuãi?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android

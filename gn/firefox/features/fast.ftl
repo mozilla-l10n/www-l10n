@@ -13,7 +13,7 @@ features-fast-firefox-is-now-faster-and-leaner = Ko’ág̃a { -brand-name-firef
 features-fast-weve-been-working-out-so-you = Romba’apo hína eipuru porãve hag̃ua nde aravo.
 features-fast-use-less-memory = Oipuru sa’ive mandu’arenda
 # A "computer hog" here means software that consumes a lot of memory and resources
-features-fast-no-one-likes-a-computer-hog = ¡Avave ndoipotái peteĩ kundaha ikarúva! { -brand-name-firefox } ha’e kundaha ojapóva tekotevẽkuete. Oipuru sa’ivégui RAM { -brand-name-chrome }-gui, ambue ne rembiaporape ikatu omba'apo gueteri pya’eterei.
+features-fast-no-one-likes-a-computer-hog = ¡Avave ndoipotái peteĩ kundaha ikarúva! { -brand-name-firefox } ha’e kundaha ojapóva tekotevẽkuete. Oipuru sa’ivégui RAM { -brand-name-chrome }-gui, ambue ne rembiaporape ikatu omba’apo gueteri pya’eterei.
 features-fast-get-all-the-tabs-without-lags = Eguereko tendayke pya’e
 features-fast-multi-tasking-with-multiple = Ndahasyive ñamba’apo ojojapa heta tendayke ndive. { -brand-name-firefox } ha’e ko’ág̃a kundaha hembiapo hetáva, he’iséva ne tendaykekuéra heko ro’ysã ha ndahi’aremo’ãi henyhẽ hag̃ua. 86% sa’ve eipurúta aravo, emoambue pya’e tendayke pa’ũme térã eikeve ambuépe.
 features-fast-level-up-browser-gameplay = Rombopya’e ñembosarái kundahakuérape

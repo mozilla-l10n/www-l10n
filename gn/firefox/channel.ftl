@@ -5,19 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
-firefox-channel-desktop = Mba'erechaha
+firefox-channel-desktop = Mba’erechaha
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Eikundaha pe ikatuha rupi hasyve.
 firefox-channel-be-among-the-first-to-explore = Eñeha’ã eipuru nde raẽte { -brand-name-firefox } mesa arigua osẽtava hína, { -brand-name-android } ha { -brand-name-ios }.
-firefox-channel-see-something-that-isnt-working = ¿Ehecháramo mba'e noĩporãiva? Oremomarandumína.
+firefox-channel-see-something-that-isnt-working = ¿Ehecháramo mba’e noĩporãiva? Oremomarandumína.
 firefox-channel-file-a-bug-now = Eñongatu peteĩ jejavy ko’ág̃a
 firefox-channel-tips-for-filing-a-bug = Ñe’ẽporã eñongatu hag̃ua peteĩ jejavy
 firefox-channel-try-new-features-in-a-pre = Eipurumína umi tembiapoite pyahu peteĩchagua kundaha { -brand-name-android } | { -brand-name-firefox } rehegua
 firefox-channel-download-and-test-future = Emboguejy ha eipurumi rembiapokue pyahu { -brand-name-firefox } mesa arigua, { -brand-name-android } ha { -brand-name-ios } rehegua.
 firefox-channel-experience-cutting-edge-android-updated = Ehechakuaa umi kundaha rembiapoite ipyahúva { -brand-name-android } rehegua oipurukuaa’ỹre opavave: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Emboguejýna!
 firefox-channel-experience-cutting-edge-android = Ehechakuaa umi kundaha rembiapoite ipyahúva { -brand-name-android } rehegua ko’ã purupyrã reheve: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } y { -brand-name-firefox-nightly }. ¡Emboguejýna!
-firefox-channel-download-and-test-the-latest-android = Emboguejy ha eipuru umi mba'eta ipyahuvéva { -brand-name-firefox } mba'éva { -brand-name-android }-pe g̃uarãva, { -brand-name-aurora }, { -brand-name-beta } ha { -brand-name-nightly } rehegua.
+firefox-channel-download-and-test-the-latest-android = Emboguejy ha eipuru umi mba’eta ipyahuvéva { -brand-name-firefox } mba’éva { -brand-name-android }-pe g̃uarãva, { -brand-name-aurora }, { -brand-name-beta } ha { -brand-name-nightly } rehegua.
 firefox-channel-try-the-latest-android-features = Eipuru umi tembiapokue ipyahuetéva { -brand-name-android } pegua ojepurukuaa mboyve arapy tuichakue jave.
 firefox-channel-all-languages-and-platforms = Opavavete ñe’ẽ ha jehechaukaha
 firefox-channel-all-languages-and-builds = Oĩvéva ñe’ẽ ha peteĩchaguáva
@@ -41,7 +41,7 @@ firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Eipurumína tembiapoitekue noĩriva gueteri ojepuru hag̃uáicha noñemohu’ãi rupi.
 firefox-channel-release-notes = Jehaipy rehegua
 firefox-channel-developer-edition = { -brand-name-developer-edition }
-firefox-channel-build-test-scale-and-more = Emoheñói, eipuru ha hetave mba'e ko kundaha ijojaha’ỹva heñóiva mboguatahárape g̃uarã.
+firefox-channel-build-test-scale-and-more = Emoheñói, eipuru ha hetave mba’e ko kundaha ijojaha’ỹva heñóiva mboguatahárape g̃uarã.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ha’e jehechaukaha oikoporã’ỹva gueteri. Ijypykue rupi, Beta omondo mba’ekuaarã { -brand-name-mozilla }-pe — ha avei orendiveguápe — oipytyvõ hag̃ua apañuãi ñembohapépe ha iñamindu’úpe. <a href="{ $link }">Moherakuãngue jekuaa</a>.
