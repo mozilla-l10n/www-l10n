@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = { -brand-name-ios } および { -brand-name-android } 向けのモバイル版 Firefox ブラウザーをダウンロード
+firefox-mobile-download-the-firefox-browser = { -brand-name-ios } および { -brand-name-android } 向けのモバイル版 { -brand-name-firefox-browser } をダウンロード
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } Mobile を入手

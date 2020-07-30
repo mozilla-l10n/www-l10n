@@ -25,16 +25,27 @@ firefox-new-youve-already-got-the-browser = 既にブラウザーを取得して
 firefox-new-watch-for-hackers-with = { -brand-name-firefox-monitor } でハッカーに注意し、{ -brand-name-firefox-lockwise } や他の機能でパスワードを保護しましょう。
 firefox-new-get-more-from-firefox = { -brand-name-firefox } をさらに活用する
 firefox-new-free-web-browser = 無料ウェブブラウザー
+firefox-new-and-start-getting-the-respect = そして、ユーザーを尊重する私たちの製品ファミリーはプライバシーを第一に考えています。
 firefox-new-advanced-install-options = 高度なインストールオプションと他の OS 版
 firefox-new-download-in-another-language = 他の言語でダウンロード
 firefox-new-fix-a-problem = 問題を修正する
+firefox-new-need-help = サポートが必要ですか？
+firefox-new-see-whats-being-blocked = ブロックされたトラッカーを確認する
 firefox-new-make-your-passwords-portable = パスワードを持ち運ぶ
+firefox-new-watch-for-data-breaches = データ侵害を監視する
+firefox-new-passwords-made-portable = パスワードを持ち運ぶ
 firefox-new-protect-your-privacy = プライバシーを保護する
+firefox-new-private-browsing-clears = <strong>プライベートブラウジング</strong> でブラウジング履歴を消去して、コンピューターを使用する他の人から秘密を守れます。
 firefox-new-advanced-install-options-heading = 高度なインストールオプションと他の OS 版
+firefox-new-just-download-the-browser = ブラウザーをダウンロードしましょう
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox } のサポートが終了した</a> 安全でない古い OS を使用しています。
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = ダウンロードは自動的に始まります。もし始まらない場合は <a id="{ $id }" href="{ $fallback_url }">再度ダウンロードしてみてください</a>。
+firefox-new-its-a-family-of-products = 個人情報を尊重する <strong>製品群</strong> です。
