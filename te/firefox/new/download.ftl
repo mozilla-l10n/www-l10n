@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-free-web-browser = స్వేచ్ఛా జాల విహారిణి
+firefox-new-download-in-another-language = మరొక భాషలో దించుకోండి
 firefox-new-need-help = సహాయం కావాలా?
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
