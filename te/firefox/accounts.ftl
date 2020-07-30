@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+firefox-accounts-there-is-a-way-to = మీ అంతరంగికతను కాపాడుకోడానికి ఓ మార్గం ఉంది. { -brand-name-firefox }తో చేరండి.
 firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } లోనికి ప్రవేశించండి
 firefox-accounts-join-firefox = { -brand-name-firefox }లో చేరండి
 firefox-accounts-enter-your-email-address = మొదలుపెట్టడానికి మీ ఈమెయిలు చిరునామా ఇవ్వండి.

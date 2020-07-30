@@ -34,4 +34,5 @@ download-button-firefox-nightly-android = { -brand-name-android } కోసం <
 download-button-firefox-android = { -brand-name-android } కోసం <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } కోసం <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } గోప్యత
+download-button-firefox-privacy-notice = { -brand-name-firefox } గోప్యతా నోటీసు
 download-button-download = దించుకోండి
