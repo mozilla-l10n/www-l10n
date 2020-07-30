@@ -11,7 +11,17 @@ welcome-page1-more-than-a-browser-firefox = Më shumë se një shfletues - { -br
 welcome-page1-take-the-next-step-to-protect = Hidhni hapin pasues në mbrojtjen e privatësisë tuaj internetore me familjen e produkteve { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check = Jini paara hacker-ave. Kontrolloni me { -brand-name-firefox-monitor } për cenime të dhënash.
 welcome-page1-youre-on-track-to-stay-protected = Jeni në rrugën e duhur për të qenë të mbrojtur
+welcome-page1-youve-got-the-web-browser = Morët shfletuesin që mbron privatësinë tuaj — tani erdhi koha të merrni një roje kundër hacker-ave.
+welcome-page1-check-your-breach-report = Kontrolloni Raportin Tuaj të Cenimeve
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } ju shfaq nëse kanë rrjedhur të dhëna tuajat gjatë një cenimi të ditur të dhënash, dhe ju sinjalizon në rast se ndodh në të ardhmen.
 welcome-page1-stay-ahead-of-hackers = Jini një hap para hacker-ave
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Gjeni rrugë për të mbrojtur të dhënat tuaja me <a href="{ $security_tips }">Ndihmëza Sigurie { -brand-name-monitor }</a>.
 welcome-page1-stay-in-the-know = Jini brenda gjërave
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Qetë një nga 100985047 të ftuarit te <a href="{ $evite_breach }">Evite data breach “party”</a>?
 welcome-page1-why-am-i-seeing-this = Pse më del kjo?
