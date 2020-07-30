@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Bëjeni { -brand-name-firefox }-in shfletuesin tuaj parazgjedhje
+# HTML page description
+set-as-default-landing-choose-the-browser = Zgjidhni shfletuesin që mbron privatësinë tuaj. Caktojeni { -brand-name-firefox }si shfletuesin tuaj parazgjedhje.
 set-as-default-landing-make-sure-youre-protected = Sigurohuni se jeni të mbrojtur, sa herë që jeni në internet
 set-as-default-landing-thanks-for-using-the = Faleminderit që përdorni shfletuesin më të ri { -brand-name-firefox }. Kur zgjidhni { -brand-name-firefox }-in, përkrahni një internet më të mirë për ju dhe këdo tjetër. Tani ndërmerrni hapin tjetër, atë të mbrojtjes së vetes.
 set-as-default-landing-choose-automatic-privacy = Zgjidhni privatësi të vetvetishme
