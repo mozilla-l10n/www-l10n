@@ -8,7 +8,7 @@
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
 nightly-whatsnew-youve-just-been = Sapo jeni përmirësuar me { -brand-name-firefox-nightly } { $version }!
-nightly-whatsnew-your-firefox-nightly = Firefox-i juaj Nightly është përditësuar.
+nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } juaj është përditësuar.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Çdo 4 deri në 5 javë hidhet në qarkullim një version i ri i rëndësishëm i { -brand-name-firefox }-it dhe, si rrjedhojë, rritet edhe numri i versionit për { -brand-name-nightly }-n.
 # Obsolete

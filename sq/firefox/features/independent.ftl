@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = { -brand-name-firefox }-i është 
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Pa kleçka
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox }-i është krijuar nga një organizëm jofitimprurës. Kjo do të thotë se bëjmë gjëra që të tjerët s’i bëjnë dot, fjala vjen, krijim produktesh dhe veçorish të reja pa plane të fshehta. Jemi të parët në mbrojtje të të drejtave tuaja për privatësi, me mjete të tilla si Shfletim Privat dhe Mbrojtje Nga Gjurmimet.
+features-independent-firefox-is-built-by = { -brand-name-firefox }-i është krijuar nga një ent jofitimprurës. Kjo do të thotë se bëjmë gjëra që të tjerët s’i bëjnë dot, fjala vjen, krijim produktesh dhe veçorish të reja, pa plane të fshehta. Jemi të parët në mbrojtje të të drejtave tuaja për privatësi, me mjete të tilla si Shfletim Privat dhe Mbrojtje Nga Gjurmimet, të cilat shkojnë më tej se ç’ofrohet nga { -brand-name-google } { -brand-name-chrome } dhe { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Çka shihni, atë merrni
 features-independent-we-believe-the-internet = Ne besojmë se Interneti është për njerëzit, jo për fitime. Ndryshe nga kompani të tjera, nuk shesim hyrje te të dhënat tuaja. Kontrollin se cilët i shohin kërkimet tuaja dhe historikun tuaj të shfletimit e keni <em>ju</em>. Zgjedhje — ja ç’do të thotë Internet i shëndetshëm!
 features-independent-a-browser-on-a-mission = Shfletues me një mision

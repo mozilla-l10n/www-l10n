@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
 firefox-mobile-download-the-firefox-browser = Shkarkoni në Celularin tuaj  { -brand-name-firefox-browser } për { -brand-name-ios } dhe { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = Shfletuesi Firefox për Celular bllokon, si parazgjedhje, mbi 2000 gjurmues, duke ju dhënë privatësinë që meritoni dhe shpejtësinë që keni nevojë në një shfletues privat për celular.
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } për Celular bllokon, si parazgjedhje, mbi 2000 gjurmues, duke ju dhënë privatësinë që meritoni dhe shpejtësinë që keni nevojë në një shfletues privat për celular.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Merrni shfletuesin për celular të krijuar për ju, jo për industrinë e reklamave

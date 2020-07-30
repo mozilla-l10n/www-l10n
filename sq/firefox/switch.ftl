@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Kaloni nga { -brand-name-chrome } te { -brand-name-firefox } në vetëm pak minuta
+switch-switching-to-firefox-is-fast-updated = Kalimi në { -brand-name-firefox } është i shpejtë, i lehtë dhe pa rreziqe, ngaqë { -brand-name-firefox }-i importon nga { -brand-name-chrome } faqerojtësit tuaj, fjalëkalime dhe parapëlqime.
 switch-switching-to-firefox-is-fast = Kalimi në { -brand-name-firefox } është i shpejtë, i lehtë dhe pa rreziqe, ngaqë { -brand-name-firefox }-i importon nga { -brand-name-chrome } faqerojtësit tuaj, vetëplotësime fushash, fjalëkalime dhe parapëlqime.
+switch-switching-to-firefox-page-description-updated = Kalimi në { -brand-name-firefox } është i shpejtë, i lehtë dhe pa rreziqe. { -brand-name-firefox }-i importon nga { -brand-name-chrome } faqerojtësit tuaj, fjalëkalime dhe parapëlqime.
 switch-switching-to-firefox-page-description = Kalimi në { -brand-name-firefox } është i shpejtë, i lehtë dhe pa rreziqe. { -brand-name-firefox }-i importon nga { -brand-name-chrome } faqerojtësit tuaj, vetëplotësime fushash, fjalëkalime dhe parapëlqime.
 switch-select-what-to-take = Përzgjidhni ç’të merret nga { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Lërjani { -brand-name-firefox }-in të bëjë ç’mbetet për t’u bërë.
@@ -20,6 +22,7 @@ switch-still-not-convinced = Ende s’ju mbushet mendja që kalimi në { -brand-
 switch-enjoy-the-web-faster = Shijoni web-in më të shpejtë, rregulluar në gjithçka për ju.
 switch-download-and-switch = Shkarkojeni dhe kaloni në të
 switch-share-to-facebook = Ndajeni me ta në Facebook
+switch-share-to-facebook-updated = Ndajeni me të tjerë në { -brand-name-facebook }
 switch-send-a-tweet = Dërgoni një <em>tweet</em>
 switch-hey = Tungjatjeta,
 switch-check-it-out = Shiheni dhe më thoni se ç’mendoni:
