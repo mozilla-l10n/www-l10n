@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 firefox-browsers-desktop = డెస్క్‌టాప్
+firefox-browsers-send-me-a-link = నాకు లంకెను పంపించు
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-android = { -brand-name-android }

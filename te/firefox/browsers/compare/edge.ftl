@@ -6,4 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # HTML page title.
-compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } వర్సెస్ { -brand-name-microsoft } { -brand-name-edge }: మీరు మెరుగైన విహారిణి ఏది?
+compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } వర్సెస్ { -brand-name-microsoft } { -brand-name-edge }: మీకు మెరుగైన విహారిణి ఏది?

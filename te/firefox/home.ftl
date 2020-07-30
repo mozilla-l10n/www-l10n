@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-keep-your-passwords = ప్రతీ పరికరంలోను మీ సంకేతపదాలను భద్రంగా ఉంచుకోండి
+firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } గురించి ఇంకా తెలుసుకోండి
+firefox-home-desktop = డెస్క్‌టాప్
+firefox-home-browsers = విహారిణులు
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
