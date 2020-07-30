@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebel me nj
 features-independent-firefox-is-independent = { -brand-name-firefox }-i është i pavarur dhe pjesë e organizmit jofitimprurës { -brand-name-mozilla }, që lufton për të drejtat tuaja internetore, mban nën kontroll pushtetin e korporatave dhe e bën Internetin të përdorshëm nga cilido, kudo.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Pa kleçka
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox }-i është krijuar nga një ent jofitimprurës. Kjo do të thotë se bëjmë gjëra që të tjerët s’i bëjnë dot, fjala vjen, krijim produktesh dhe veçorish të reja pa plane të fshehta. Jemi të parët në mbrojtje të të drejtave tuaja për privatësi, me mjete të tilla si Shfletim Privat dhe Mbrojtje Nga Gjurmimet.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox }-i është krijuar nga një ent jofitimprurës. Kjo do të thotë se bëjmë gjëra që të tjerët s’i bëjnë dot, fjala vjen, krijim produktesh dhe veçorish të reja, pa plane të fshehta. Jemi të parët në mbrojtje të të drejtave tuaja për privatësi, me mjete të tilla si Shfletim Privat dhe Mbrojtje Nga Gjurmimet, të cilat shkojnë më tej se ç’ofrohet nga { -brand-name-google } { -brand-name-chrome } dhe { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Çka shihni, atë merrni

@@ -8,7 +8,7 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: Cili është më i mirë?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = Le krahasojmë Mozilla Firefox-in me Google Chrome-in për sa i takon privatësisë, veçorive dhe të qenët i bartshëm
+compare-chrome-we-compare-mozilla-firefox = Le të krahasojmë { -brand-name-mozilla } { -brand-name-firefox } me { -brand-name-google } { -brand-name-chrome }, për sa i takon privatësisë, veçorive dhe të qenët i bartshëm
 # Main title.
 compare-chrome-comparing-firefox-browser = Krahasim i { -brand-name-firefox-browser }-it me Google Chrome-in
 # Variables:
