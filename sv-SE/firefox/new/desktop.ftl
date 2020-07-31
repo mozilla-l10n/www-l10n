@@ -37,6 +37,8 @@ firefox-desktop-download-see-your-report = Visa din säkerhetsrapport
 firefox-desktop-download-for-everyone = { -brand-name-firefox } är för alla
 firefox-desktop-download-review-system-req = Granska systemkraven
 firefox-desktop-download-all-your-devices = Lägg till { -brand-name-firefox } på alla dina enheter
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Gör <strong>allt</strong> med { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Sök smartare, snabbare
 firefox-desktop-download-search-from-address = Sök från adressfältet
 firefox-desktop-download-search-engine-options = Val av sökmotor
