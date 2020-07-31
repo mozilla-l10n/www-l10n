@@ -14,7 +14,10 @@ firefox-desktop-download-meta-desc = Obtené { -brand-name-firefox }, un navegad
 firefox-desktop-download-og-title = Descargá el { -brand-name-firefox } más rápido de la historia
 firefox-desktop-download-og-desc = Carga más rápida de páginas, menor uso de memoria y lleno de funciones, acá está el nuevo { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Obtené el navegador que protege lo que es importante
+firefox-desktop-download-get-the-browser = Obtené el navegador que protege lo importante
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador super veloz que no te vende.
+firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
