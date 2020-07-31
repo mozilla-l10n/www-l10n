@@ -108,6 +108,25 @@ firefox-desktop-download-sync-your-devices = Synchronisieren Sie Ihre Geräte.
 firefox-desktop-download-screenshots = Bildschirmfotos
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Verbesserter Tracking-Schutz
+firefox-desktop-download-from-watching-a = Vom Anschauen eines Web-Tutorials bis zum Beobachten Ihres Lieblingsteams folgt Ihnen Ihr Video beim Multitasking.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Holen Sie sich { -brand-name-firefox-browser } für <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Holen Sie sich { -brand-name-firefox-browser } für <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Laden Sie den mobilen Browser { -brand-name-firefox } herunter, um alle Ihre Geräte automatisch zu schützen.
+firefox-desktop-download-learn-about-the = Hier finden Sie weitere Informationen zu { -brand-name-firefox } für Desktop
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Von Sicherheit über Nachrichten bis hin zu Spielen gibt es eine <a { $attrs }>Erweiterung für alle</a>. Installieren Sie Erweiterungen, bis Ihr Browser Ihre Wünsche erfüllt.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wurde von <a { $attrs }>{ -brand-name-mozilla }</a> als schnellere, privatere Alternative zu Browsern wie { -brand-name-ie } und jetzt { -brand-name-chrome } entwickelt. Unser Unternehmen mit einer Mission und unsere Freiwilligengemeinschaft stellen Ihre Privatsphäre auch heute noch über alles.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Während das Internet wächst und sich ändert, konzentriert sich { -brand-name-firefox } weiterhin auf Ihr Recht auf Privatsphäre – wir nennen es das <a { $attrs }>Versprechen für persönliche Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. { -brand-name-firefox } schützt Ihre Daten, Ihre Webaktivität und Ihr Online-Leben.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ist auf allen Ihren Geräten verfügbar. Nehmen Sie Ihre Tabs, die Chronik und die Lesezeichen mit. Sie benötigen lediglich ein <a { $attrs }>{ -brand-name-firefox }-Konto</a>.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
