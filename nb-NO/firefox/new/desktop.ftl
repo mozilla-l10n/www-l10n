@@ -60,6 +60,7 @@ firefox-desktop-download-dark-mode = Mørk modus
 firefox-desktop-download-library-of-extensions = Bibliotek med utvidelser
 firefox-desktop-download-adjust-search-bar = Juster søkelinjens innstillinger
 firefox-desktop-download-extensions-for-every = Utvidelser for alle interesser
+firefox-desktop-download-tweak-your-settings = Finjuster innstillingene dine
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kommer først
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behold alle favorittfunksjonene dine i nettleseren — og <strong>oppdag</strong> nye.
