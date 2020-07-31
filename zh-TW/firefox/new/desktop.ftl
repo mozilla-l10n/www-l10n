@@ -33,6 +33,7 @@ firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-see-your-report = 檢視您的保護報告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-review-system-req = 確認系統需求
+firefox-desktop-download-all-your-devices = 將 { -brand-name-firefox } 安裝到您所有的裝置上
 firefox-desktop-download-search-smarter = 搜尋更聰明、更快
 firefox-desktop-download-search-from-address = 從網址列進行搜尋
 firefox-desktop-download-search-engine-options = 搜尋引擎選項
@@ -76,6 +77,44 @@ firefox-desktop-download-make-firefox-your = 讓 <strong>{ -brand-name-firefox }
 firefox-desktop-download-extensions-for-every = 各種用途的擴充套件
 firefox-desktop-download-change-up-your = 調整外面
 firefox-desktop-download-tweak-your-settings = 調整設定
+firefox-desktop-download-challenging-the-status = 從 1998 年起就挑戰現況
+firefox-desktop-download-your-privacy-comes = 將您的隱私擺在第一位
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >下載此瀏覽器擴充套件</a>，防止 { -brand-name-facebook } 及 { -brand-name-instagram } 在網路上追蹤您。
+firefox-desktop-download-sync-your-devices = 同步您的裝置
+firefox-desktop-download-screenshots = 畫面擷圖
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = 加強型追蹤保護（ETP）
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-learn-about-the = 了解各種 { -brand-name-firefox } 桌面版瀏覽器的相關資訊
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = 安裝好 { -brand-name-firefox } 了嗎？接下來註冊帳號，讓 { -brand-name-firefox } 火力全開！
+firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-lockwise } 保護密碼，以及更多功能。
+firefox-desktop-download-get-more-from-firefox = 取得更完整的 { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = 只要下載瀏覽器
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = 快完成了！
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = 接下來完成<strong>安裝</strong> { -brand-name-firefox }。
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = 接下來<strong>執行</strong>剛下載的安裝程式。
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = 接下來<strong>開啟</strong>剛下載的檔案。
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = 遇到問題嗎？<a { $attrs }>獲得安裝協助</a>。
+firefox-desktop-download-in-another-language = 下載其他語言或其他平台版本。
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用的是 <a href="{ $url }">{ -brand-name-firefox } 已停止支援</a>，也不安全的過時作業系統。
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = 將自動開始下載，若沒有的話請<a id="{ $id }" href="{ $fallback_url }">點擊此處再試一次。</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器。
