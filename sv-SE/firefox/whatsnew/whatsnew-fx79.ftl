@@ -8,8 +8,7 @@
 # HTML page title
 whatsnew79-page-title = Vad är nytt med { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = Behåll din data privat för alla – inklusive oss
-whatsnew79-main-intro = Internet bör vara en säker plats för alla. Det är därför inte { -brand-name-firefox } spårar dig online och stoppar andra från att spåra dig med.
+whatsnew79-main-title = Skydda dina personuppgifter från andra – inklusive från oss
 # Main CTA button
 whatsnew79-primary-cta = Gör { -brand-name-firefox } till standard
 # Fallback CTA button, shown if Firefox is already a user's default browser
@@ -19,7 +18,7 @@ whatsnew79-with-one-tap-mozilla-vpn = Med ett klick, { -brand-name-mozilla-vpn }
 # CTA link
 whatsnew79-get-started = Kom igång
 whatsnew79-get-more-control-over = Få mer kontroll över spårare
-whatsnew79-firefox-blocks-more = { -brand-name-firefox } blockerar fler annonsörer och spårare från att att följa dig än någonsin tidigare.
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } blockerar fler annonsörer och spårare från att följa dig än någonsin tidigare.
 # CTA link
 whatsnew79-see-your-report = Se din rapport
 whatsnew79-update-your-firefox = Uppdatera din { -brand-name-firefox }-webbläsare
