@@ -61,6 +61,10 @@ firefox-desktop-download-library-of-extensions = Bibliotek med utvidelser
 firefox-desktop-download-adjust-search-bar = Juster søkelinjens innstillinger
 firefox-desktop-download-extensions-for-every = Utvidelser for alle interesser
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kommer først
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Behold alle favorittfunksjonene dine i nettleseren — og <strong>oppdag</strong> nye.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Alle favorittverktøyene dine fra { -brand-name-google } (som Gmail og Docs) fungerer sømløst i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synkroniser enhetene dine
 firefox-desktop-download-screenshots = Skjermbilder
@@ -76,7 +80,7 @@ firefox-desktop-download-just-download-the-browser = Bare last ned nettleseren
 
 firefox-desktop-download-almost-there = Nesten ferdig!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-else = Fullfør nå <strong>installasjonen</strong> av { -brand-name-firefox }.
+firefox-desktop-download-now-else = Fullfør <strong>installasjonen</strong> av { -brand-name-firefox } nå.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = Nå kan du <strong>kjøre</strong> det nettopp nedlastede installasjonsprogrammet.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
