@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } sćahnyć
-navigation-get-a-firefox-account = Wobstarajće sej { -brand-name-firefox-account }
+navigation-get-a-firefox-account = Wobstarajće sej konto Firefox
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } za Desktop
 navigation-get-the-browser-that-respects = Wobstarajće sej wobhladowak, kotryž wašu priwatnosć awtomatisce respektuje. Na { -brand-name-windows }, { -brand-name-mac } abo { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne graty
