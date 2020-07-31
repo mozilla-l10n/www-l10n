@@ -8,6 +8,11 @@
 firefox-desktop-download-og-title = Last ned den raskeste { -brand-name-firefox } noensinne
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Nedlastingsalternativer og andre språk
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukerstøtte
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Gjør hva du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvåker</strong> deg ikke.
+firefox-desktop-download-how-firefox-compares = Hvordan { -brand-name-firefox } sammenlignes med andre nettlesere
+firefox-desktop-download-how-we-compare = Hvordan vi sammenligner med andre nettlesere
 firefox-desktop-download-compare-firefox-to = Sammenlign { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -43,6 +48,17 @@ firefox-desktop-download-picture-in-picture = Bilde-i-bilde
 firefox-desktop-download-share-links = Del lenker
 firefox-desktop-download-protect-your-privacy = Beskytt ditt personvern
 firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapsler
+firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnere
+firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
+firefox-desktop-download-built-in-password = Innebygd passordbehandling
+firefox-desktop-download-clear-history = Tøm historikk
+firefox-desktop-download-form-autofill = Autoutfylling av skjema
+firefox-desktop-download-automatic-updates = Automatiske oppdateringer
+firefox-desktop-download-customize-your-browser = Tilpass nettleseren din
+firefox-desktop-download-themes = Tema
+firefox-desktop-download-dark-mode = Mørk modus
+firefox-desktop-download-library-of-extensions = Bibliotek med utvidelser
+firefox-desktop-download-adjust-search-bar = Juster søkelinjens innstillinger
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
