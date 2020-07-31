@@ -21,7 +21,7 @@ firefox-desktop-download-yes = Ja
 firefox-desktop-download-no = Nei
 firefox-desktop-download-blocks-third-party = Blokkerer tredjeparts sporingsinfokapsler
 firefox-desktop-download-autoplay-blocking = Blokkering av automatisk avspilling
-firefox-desktop-download-blocks-social-trackers = Blokkerer sosiale media-sporere
+firefox-desktop-download-blocks-social-trackers = Blokkerer alle sosiale media-sporere
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = OS-tilgjengelighet
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettleseren
