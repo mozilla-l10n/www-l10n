@@ -46,10 +46,13 @@ firefox-desktop-download-smart-search-suggestions = Smarta sökförslag
 firefox-desktop-download-boost-your = Öka din produktivitet
 firefox-desktop-download-works-with-google = Fungerar med { -brand-name-google } produkter
 firefox-desktop-download-built-in-screenshot = Inbyggt skärmdumpverktyg
+firefox-desktop-download-bookmarks-manager = Bokmärkeshanterare
 firefox-desktop-download-sync-across-devices = Synkronisering mellan enheter
 firefox-desktop-download-reader-mode = Läsläge
 firefox-desktop-download-spell-check = Stavningskontroll
 firefox-desktop-download-stream-share-play = Strömma, dela och spela
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Blockera automatisk uppspelning av video och ljud
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Bild-i-bild
 firefox-desktop-download-share-links = Dela länkar
