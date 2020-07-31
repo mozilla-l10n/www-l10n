@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = הורדת { -brand-name-firefox }
-firefox-new-download-the-fastest-firefox = הורדת { -brand-name-firefox } המהיר ביותר אי פעם
+firefox-new-download-the-fastest-firefox = הורדת ה־{ -brand-name-firefox } המהיר ביותר אי פעם
 firefox-new-faster-page-loading-less-memory = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, ה־{ -brand-name-firefox } החדש כאן.
 firefox-new-automatic-privacy-is-here = פרטיות אוטומטית כבר כאן. ניתן להוריד את { -brand-name-firefox } כדי לחסום יותר מ־2,000 רכיבי מעקב.
 firefox-new-get-the-latest-firefox = קבלו את הדפדפן { -brand-name-firefox } העדכני ביותר.
