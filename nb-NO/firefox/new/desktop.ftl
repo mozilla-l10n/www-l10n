@@ -20,6 +20,28 @@ firefox-desktop-download-os-availability = OS-tilgjengelighet
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettleseren
 firefox-desktop-download-master-password = Hovedpassord
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
+firefox-desktop-download-available-in-over = Tilgjengelig på over 90 språk og kompatible med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer uansett hva du bruker eller hvor du er. Forsikre deg om at operativsystemet ditt er oppdatert for den beste opplevelsen.
+firefox-desktop-download-review-system-req = Gjennomgå systemkravene
+firefox-desktop-download-search-smarter = Søk smartere, raskere
+firefox-desktop-download-search-from-address = Søk fra adresselinjen
+firefox-desktop-download-search-engine-options = Innstillinger for søkemotor
+firefox-desktop-download-smart-search-suggestions = Smarte søkeforslag
+firefox-desktop-download-bookmark-history = Bokmerke, historikk og åpen fane i resultater
+firefox-desktop-download-boost-your = Øk produktiviteten
+firefox-desktop-download-works-with-google = Fungerer med { -brand-name-google }-produkter
+firefox-desktop-download-bookmarks-manager = Bokmerkebehandler
+firefox-desktop-download-sync-across-devices = Synk på tvers av enheter
+firefox-desktop-download-reader-mode = Lesemodus
+firefox-desktop-download-spell-check = Stavekontroll
+firefox-desktop-download-pinned-tabs = Festede faner
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Blokker automatisk avspilling av video og lyd
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Bilde-i-bilde
+firefox-desktop-download-share-links = Del lenker
+firefox-desktop-download-protect-your-privacy = Beskytt ditt personvern
+firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapsler
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mer enn en nettleser.
