@@ -74,20 +74,42 @@ firefox-desktop-download-tweak-your-settings = Justera dina inställningar
 firefox-desktop-download-your-privacy-comes = Din integritet kommer först
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behåll alla dina favoritfunktioner i webbläsaren — och <strong>upptäck</ strong> nya.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Alla dina favorit { -brand-name-google } verktyg (som Gmail och Docs) fungerar sömlöst i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synkronisera dina enheter
 firefox-desktop-download-screenshots = Skärmdumpar
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hämta { -brand-name-firefox-browser } för <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Hämta { -brand-name-firefox-browser } för <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Ladda ner { -brand-name-firefox } mobil webbläsaren för automatiskt skydd på alla dina enheter.
+firefox-desktop-download-learn-about-the = Lär dig mer om skrivbords webbläsaren { -brand-name-firefox } nedan
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Från säkerhet till nyheter till spel finns det ett <a { $attrs }> tillägg för alla </a>. Lägg till så många du vill tills din webbläsare känns helt rätt.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } är tillgängligt på alla dina enheter; ta med dig dina flikar, historik och bokmärken. Allt du behöver är ett <a{ $attrs }>{ -brand-name-firefox } konto</a>.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Frågor? <a{ $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig
+firefox-desktop-download-watch-for-hackers-with = Akta dig för hackare med { -brand-name-firefox-monitor }, skydda lösenord med { -brand-name-firefox-lockwise } och mer.
 firefox-desktop-download-get-more-from-firefox = Hämta mer från { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Nästan där!
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Har du problem? <a { $attrs }>Få hjälp med din installation</a>.
 firefox-desktop-download-in-another-language = Ladda ner på ett annat språk eller för ett annat operativsystem.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Du använder ett osäkert, föråldrat operativsystem <a href="{ $url }"> som inte längre stöds av { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Din nedladdning bör starta automatiskt. Fungerade det inte? <a id="{ $id }" href="{ $fallback_url }">Försök att ladda ner igen.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } är mer än en webbläsare.

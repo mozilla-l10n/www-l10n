@@ -9,6 +9,7 @@
 whatsnew79-page-title = Vad är nytt med { -brand-name-firefox }
 # Main title
 whatsnew79-main-title = Skydda dina personuppgifter från andra – inklusive från oss
+whatsnew79-main-intro = Internet bör vara en säker plats for alla. Det är därför inte { -brand-name-firefox } spårar dig online och stoppar andra från att spåra dig med.
 # Main CTA button
 whatsnew79-primary-cta = Gör { -brand-name-firefox } till standard
 # Fallback CTA button, shown if Firefox is already a user's default browser
