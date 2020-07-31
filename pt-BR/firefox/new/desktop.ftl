@@ -101,6 +101,17 @@ firefox-desktop-download-enhanced-tracking-protection = Proteção aprimorada co
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Baixe o navegador móvel { -brand-name-firefox } para ter proteção automática em todos os seus dispositivos.
+firefox-desktop-download-get-more-from-firefox = Obtenha mais do { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Apenas baixe o navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Quase lá!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Agora termine <strong>instalando</strong> o { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Agora <strong>execute</strong> o instalador que acabou de baixar.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Agora <strong>abra</strong> o arquivo que acabou de baixar.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é mais que um navegador.
