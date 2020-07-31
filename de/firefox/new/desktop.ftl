@@ -127,6 +127,39 @@ firefox-desktop-download-as-the-internet = Während das Internet wächst und sic
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ist auf allen Ihren Geräten verfügbar. Nehmen Sie Ihre Tabs, die Chronik und die Lesezeichen mit. Sie benötigen lediglich ein <a { $attrs }>{ -brand-name-firefox }-Konto</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Mit unserem direkt im Browser integrierten <a { $attrs }>Bildschirmfoto</a>-Werkzeug können Sie online ein hochauflösendes Bild von allem erstellen
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } verhindert automatisch, <a { $attrs }>dass viele Tracker von Drittanbietern</a> Ihre Webaktivität sammeln und verkaufen.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Haben Sie Fragen? Die <a { $attrs } >{ -brand-name-mozilla }-Hilfe</a> steht Ihnen zur Verfügung.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Den Browser haben Sie schon. Holen Sie sich jetzt noch mehr von { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Halten Sie mit { -brand-name-firefox-monitor } nach Hackern Ausschau, schützen Sie Passwörter mit { -brand-name-firefox-lockwise } und mehr.
+firefox-desktop-download-get-more-from-firefox = Holen Sie sich mehr von { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Laden Sie einfach den Browser herunter
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Fast geschafft!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Schließen Sie jetzt die <strong>Installation</strong> von { -brand-name-firefox } ab.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Jetzt können Sie das gerade heruntergeladene Installationsprogramm <strong>ausführen</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Jetzt können Sie die gerade heruntergeladene Datei <strong>öffnen</strong>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Haben Sie Probleme? <a { $attrs } >Holen Sie sich Hilfe bei der Installation</a>.
+firefox-desktop-download-in-another-language = In einer anderen Sprache oder für ein anderes Betriebssystem herunterladen.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Sie verwenden ein unsicheres, veraltetes Betriebssystem, <a href="{ $url }">das von { -brand-name-firefox } nicht mehr unterstützt wird</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Ihr Download startet automatisch. Klappt nicht? <a id="{ $id }" href="{ $fallback_url }">Starten Sie den Download erneut</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ist mehr als ein Browser.
