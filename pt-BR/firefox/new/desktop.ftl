@@ -15,6 +15,27 @@ firefox-desktop-download-og-title = Baixe o { -brand-name-firefox }, rápido com
 firefox-desktop-download-og-desc = Carregamento de páginas mais rápido, menos uso de memória e repleto de recursos, aqui está o novo { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Instale o navegador que protege o que é importante
+firefox-desktop-download-browser-support = Suporte do { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = O que quer que você faça online.<br>O { -brand-name-firefox-browser } <strong>não está</strong> vigiando.
+firefox-desktop-download-how-firefox-compares = Como o { -brand-name-firefox } se compara a outros navegadores
+firefox-desktop-download-how-we-compare = Como nos comparamos com outros navegadores
+firefox-desktop-download-compare-firefox-to = Comparar o { -brand-name-firefox } com:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Sim
+firefox-desktop-download-no = Não
+firefox-desktop-download-blocks-third-party = Bloqueia cookies de rastreamento de terceiros
+firefox-desktop-download-autoplay-blocking = Bloqueio de reprodução automática
+firefox-desktop-download-blocks-social-trackers = Bloqueia rastreadores de mídias sociais
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Disponibilidade em sistemas operacionais
+firefox-desktop-download-in-browser-screenshot = Ferramenta integrada de captura de tela
+firefox-desktop-download-master-password = Senha mestra
+firefox-desktop-download-we-block-the-ad = Nós bloqueamos rastreadores de anúncios. Você explora a internet mais rápido.
+firefox-desktop-download-see-your-report = Veja seu relatório de proteção
+firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
