@@ -5,11 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Baja { -brand-name-firefox-browser } — Rápido, privado y gratuito — de { -brand-name-mozilla }
 firefox-desktop-download-og-title = Descarga el { -brand-name-firefox } más rápido a la fecha
 firefox-desktop-download-og-desc = Carga de páginas más rápida, menos uso de memoria y lleno de funcionalidades, el nuevo { -brand-name-firefox } está aquí.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtén el navegador que protege lo que es importante
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
+firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browser }
+firefox-desktop-download-how-firefox-compares = Cómo se compara { -brand-name-firefox } con otros navegadores
+firefox-desktop-download-how-we-compare = Cómo nos comparamos con otros navegadores
+firefox-desktop-download-compare-firefox-to = Compara { -brand-name-firefox } con:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
