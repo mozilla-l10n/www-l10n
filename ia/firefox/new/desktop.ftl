@@ -37,6 +37,24 @@ firefox-desktop-download-automatic-updates = Actualisationes automatic
 firefox-desktop-download-customize-your-browser = Personalisa tu navigator
 firefox-desktop-download-themes = Themas
 firefox-desktop-download-dark-mode = Modo obscur
+firefox-desktop-download-your-privacy-comes = Primo tu confidentialitate.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synchronisa tu apparatos
+firefox-desktop-download-screenshots = Capturas de schermo
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Reguarda te del hackers con { -brand-name-firefox-monitor }, protege tu contrasignos con { -brand-name-firefox-lockwise } e altero ancora.
+firefox-desktop-download-get-more-from-firefox = Recipe plus per { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Discarga le navigator
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Tu usa un systema operative non secur, obsolete <a href="{ $url }">non plus supportate per { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Le discargamento deberea comenciar automaticamente. Non functiona? <a id="{ $id }" href="{ $fallback_url }">Tenta discargar lo de novo.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es plus que un navigator.
