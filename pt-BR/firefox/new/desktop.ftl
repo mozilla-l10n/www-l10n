@@ -49,6 +49,13 @@ firefox-desktop-download-smart-search-suggestions = Sugestões de pesquisa intel
 firefox-desktop-download-bookmark-history = Favoritos, histórico e abas abertas nos resultados
 firefox-desktop-download-boost-your = Aumente sua produtividade
 firefox-desktop-download-works-with-google = Funciona com produtos { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Ferramenta integrada de captura de tela
+firefox-desktop-download-bookmarks-manager = Gerenciador de favoritos
+firefox-desktop-download-autosuggest-urls = URLs de sugestão automática
+firefox-desktop-download-sync-across-devices = Sincronização entre dispositivos
+firefox-desktop-download-reader-mode = Modo leitor
+firefox-desktop-download-spell-check = Correção ortográfica
+firefox-desktop-download-pinned-tabs = Abas fixas
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
