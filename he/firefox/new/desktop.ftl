@@ -30,6 +30,8 @@ firefox-desktop-download-master-password = ססמה ראשית
 firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלך
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
 firefox-desktop-download-review-system-req = בדיקת דרישות המערכת
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = לעשות <strong>הכל</strong> עם { -brand-name-firefox }
 firefox-desktop-download-search-smarter = חיפוש חכם יותר, מהיר יותר
 firefox-desktop-download-search-from-address = חיפוש משורת הכתובת
 firefox-desktop-download-search-engine-options = אפשרויות מנוע חיפוש
@@ -79,6 +81,9 @@ firefox-desktop-download-enhanced-tracking-protection = הגנת מעקב מתק
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-desktop-download-get-firefox-android = קבלת ה{ -brand-name-firefox-browser(case: "a") } עבור <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = קבלת ה{ -brand-name-firefox-browser(case: "a") } עבור <strong>{ -brand-name-ios }</strong>
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = שאלות? <a { $attrs }>בתמיכה של { -brand-name-mozilla }</a> יכולים לעזור.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = קיבלת כבר את הדפדפן. עכשיו ניתן לקבל אפילו יותר מ־{ -brand-name-firefox }.
 firefox-desktop-download-get-more-from-firefox = קבלו עוד מ־{ -brand-name-firefox }

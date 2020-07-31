@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 # HTML page title
-features-index-protect-your-privacy-and-browse = ניתן להגן על הפרטיות שלך ולגלוש מהר יותר עם התכונות של { -brand-name-firefox }
+features-index-protect-your-privacy-and-browse = הגנה על הפרטיות שלך וגלישה מהירה יותר עם התכונות של { -brand-name-firefox }
 # HTML page description
 features-index-youre-in-control-with-firefoxs = השליטה בידיך עם התכונות הנוחות של { -brand-name-firefox } שמגנות על הפרטיות ועל מהירות הגלישה שלך.
 # Hero title
