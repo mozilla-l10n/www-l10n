@@ -20,7 +20,14 @@ firefox-desktop-download-yes = Ja
 firefox-desktop-download-no = Nei
 firefox-desktop-download-blocks-third-party = Blokkerer tredjeparts sporingsinfokapslar
 firefox-desktop-download-autoplay-blocking = Blokkering av automatisk avspeling
+firefox-desktop-download-blocks-social-trackers = Blokkerer sosiale mediesporarar
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = OS-tilgjengelegheit
+firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettlesaren
 firefox-desktop-download-master-password = Hovudpassord
+firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
+firefox-desktop-download-see-your-report = Sjå tryggingsrapporten din
+firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-spell-check = Stavekontroll
 firefox-desktop-download-pinned-tabs = Festa faner
 firefox-desktop-download-themes = Tema
