@@ -59,7 +59,25 @@ firefox-desktop-download-themes = Tema
 firefox-desktop-download-dark-mode = Mørk modus
 firefox-desktop-download-library-of-extensions = Bibliotek med utvidelser
 firefox-desktop-download-adjust-search-bar = Juster søkelinjens innstillinger
+firefox-desktop-download-extensions-for-every = Utvidelser for alle interesser
+firefox-desktop-download-your-privacy-comes = Personvernet ditt kommer først
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synkroniser enhetene dine
+firefox-desktop-download-screenshots = Skjermbilder
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Utvidet sporingsbeskyttelse (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-in-another-language = Last ned på et annet språk eller for et annet operativsystem.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Du bruker et usikkert, foreldet operativsystem, <a href="{ $url }">som ikke lenger støttes av { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Nedlastingen din bør starte automatisk. Fungerte det ikke? <a id="{ $id }" href="{ $fallback_url }">Prøv å laste ned på nytt.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mer enn en nettleser.
