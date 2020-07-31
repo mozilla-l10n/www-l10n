@@ -60,6 +60,28 @@ firefox-desktop-download-automatic-updates = עדכונים אוטומטיים
 firefox-desktop-download-customize-your-browser = התאמת הדפדפן שלך לטעמך
 firefox-desktop-download-themes = ערכות נושא
 firefox-desktop-download-dark-mode = מצב כהה
+firefox-desktop-download-library-of-extensions = ספרייה של הרחבות
+firefox-desktop-download-adjust-search-bar = התאמה אישית של הגדרות שורת החיפוש
+firefox-desktop-download-change-new-tab = שינוי פריסת דף הלשונית החדשה
+firefox-desktop-download-extensions-for-every = הרחבות לכל מטרה
+firefox-desktop-download-change-up-your = שינוי המראה שלך
+firefox-desktop-download-your-privacy-comes = הפרטיות שלך קודמת לכל
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = כל הכלים של { -brand-name-google } המועדפים עליך (כמו Gmail ו־Docs) עובדים בצורה חלקה ב{ -brand-name-firefox-browser(case: "a") }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >הורידו את הרחבת הדפדפן הזו</a> כדי למנוע מ־{ -brand-name-facebook } (ו־{ -brand-name-instagram }) לעקוב אחריך ברשת.
+firefox-desktop-download-sync-your-devices = סנכרון ההתקנים שלך
+firefox-desktop-download-screenshots = צילומי מסך
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = הגנת מעקב מתקדמת
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "a") }
+firefox-desktop-download-get-firefox-android = קבלת ה{ -brand-name-firefox-browser(case: "a") } עבור <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = קבלת ה{ -brand-name-firefox-browser(case: "a") } עבור <strong>{ -brand-name-ios }</strong>
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = קיבלת כבר את הדפדפן. עכשיו ניתן לקבל אפילו יותר מ־{ -brand-name-firefox }.
+firefox-desktop-download-get-more-from-firefox = קבלו עוד מ־{ -brand-name-firefox }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
