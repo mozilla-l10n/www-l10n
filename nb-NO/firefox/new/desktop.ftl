@@ -61,6 +61,7 @@ firefox-desktop-download-library-of-extensions = Bibliotek med utvidelser
 firefox-desktop-download-adjust-search-bar = Juster søkelinjens innstillinger
 firefox-desktop-download-extensions-for-every = Utvidelser for alle interesser
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingene dine
+firefox-desktop-download-theres-no-need = Du trenger ikke å nøye deg med ett valg. Endre ny fane-siden, søkefeltet, bokmerker og mer for å utforske nettet slik du ønsker.
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kommer først
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behold alle favorittfunksjonene dine i nettleseren — og <strong>oppdag</strong> nye.
@@ -74,6 +75,9 @@ firefox-desktop-download-enhanced-tracking-protection = Utvidet sporingsbeskytte
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Ta et høyoppløselig bilde av hva som helst på nettet med vårt <a { $attrs }>skjermbilde</a>-verktøy som er bygget rett i nettleseren
 firefox-desktop-download-get-more-from-firefox = Få mer ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bare last ned nettleseren
 
