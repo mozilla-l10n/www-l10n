@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } herunterladen
-navigation-get-a-firefox-account = Hol Dir ein { -brand-name-firefox-account }
+navigation-get-a-firefox-account = Hol Dir einen { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } für Desktop
 navigation-get-the-browser-that-respects = Hol dir den Browser, der deine Privatsphäre ganz automatisch respektiert. Für { -brand-name-windows }, { -brand-name-mac } oder { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } für Mobilgeräte
