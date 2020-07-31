@@ -5,14 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-og-title = Last ned den raskaste { -brand-name-firefox } nokon gong
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Nedlastingsalternativ og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukarstøtte
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Gjer det du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvakar</strong> deg ikkje.
+firefox-desktop-download-how-firefox-compares = Korleis { -brand-name-firefox } vert samanlikna med andre nettlesarar
+firefox-desktop-download-compare-firefox-to = Samanlikn { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ja
 firefox-desktop-download-no = Nei
+firefox-desktop-download-blocks-third-party = Blokkerer tredjeparts sporingsinfokapslar
 firefox-desktop-download-autoplay-blocking = Blokkering av automatisk avspeling
 firefox-desktop-download-master-password = Hovudpassord
 firefox-desktop-download-spell-check = Stavekontroll
