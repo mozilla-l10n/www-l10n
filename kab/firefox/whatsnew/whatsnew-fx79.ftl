@@ -8,7 +8,7 @@
 # HTML page title
 whatsnew79-page-title = D acu n umaynut d { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = Ḥrez isefka-inek·inem uslige ɣef yal yiwen – ula fell-aɣ nekkni
+whatsnew79-main-title = Ḥrez isefka-inek·inem usligen ɣef yal yiwen – ula fell-aɣ nekkni
 whatsnew79-main-intro = Internet ilaq ad tili d adeg aɣelsan i medden akk. Γef waya { -brand-name-firefox } ur ak·akem-yeṭṭafar ara srid yerna isseḥbas ula d wiyaḍ ur ak·akem-ṭṭafaren ara.
 # Main CTA button
 whatsnew79-primary-cta = Err { -brand-name-firefox } d amezwer
