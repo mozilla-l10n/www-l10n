@@ -50,6 +50,54 @@ firefox-desktop-download-curated-content-on = Contenido curado en las pestañas 
 firefox-desktop-download-share-links = Compartir enlaces
 firefox-desktop-download-protect-your-privacy = Protege tu privacidad
 firefox-desktop-download-third-party-cookie = Bloqueo de cookies de terceros
+firefox-desktop-download-fingerprinter-blocking = Bloqueo de creadores de huellas (fingerprinters)
+firefox-desktop-download-cryptominer-blocking = Bloqueo de criptomineros
+firefox-desktop-download-private-browsing-mode = Modo de navegación privada
+firefox-desktop-download-individual-protections-report = Informe de protecciones individuales
+firefox-desktop-download-secure-your-personal = Asegura tu información personal
+firefox-desktop-download-breached-website-alerts = Alertas de sitios web vulnerados
+firefox-desktop-download-built-in-password = Administrador de contraseñas integrado
+firefox-desktop-download-clear-history = Limpiar historial
+firefox-desktop-download-form-autofill = Autocompletado de formularios
+firefox-desktop-download-automatic-updates = Actualizaciones automáticas
+firefox-desktop-download-customize-your-browser = Personaliza tu navegador
+firefox-desktop-download-themes = Temas
+firefox-desktop-download-dark-mode = Modo oscuro
+firefox-desktop-download-library-of-extensions = Biblioteca de extensiones
+firefox-desktop-download-adjust-search-bar = Ajusta la configuración de la barra de búsqueda
+firefox-desktop-download-change-new-tab = Cambia el diseño de las pestañas nuevas
+firefox-desktop-download-make-firefox-your = Haz <strong>{ -brand-name-firefox }</strong> tuyo
+firefox-desktop-download-extensions-for-every = Extensiones para todos los intereses.
+firefox-desktop-download-change-up-your = Cambia tu aspecto
+firefox-desktop-download-tweak-your-settings = Realiza tus ajustes
+firefox-desktop-download-your-privacy-comes = Tu privacidad es lo primero
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Sincroniza tus dispositivos
+firefox-desktop-download-screenshots = Capturas de pantalla
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protección de seguimiento mejorada (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Obtén { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Obtén { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-learn-about-the = Aprende sobre el navegador de escritorio { -brand-name-firefox }
+firefox-desktop-download-get-more-from-firefox = Sácale el jugo a { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Solo baja el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ¡Casi listos!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Ahora finaliza <strong>instalando</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Ahora <strong>corre</strong> el instalador que acabas de descargar.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Ahora <strong>abre</strong> el archivo que acabas de descargar.
+firefox-desktop-download-in-another-language = Descargar en otro idioma o para otro sistema operativo.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Estás usando un sistema operativo inseguro y desactualizado <a href="{ $url }">que ya no tiene soporte por parte de { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Tu descarga debiera empezar automáticamente. ¿No funcionó? <a id="{ $id }" href="{ $fallback_url }">Intenta bajarlo nuevamente</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.
