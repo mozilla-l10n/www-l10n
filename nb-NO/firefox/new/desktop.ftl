@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-og-title = Last ned den raskeste { -brand-name-firefox } noensinne
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Nedlastingsalternativer og andre språk
 firefox-desktop-download-compare-firefox-to = Sammenlign { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
