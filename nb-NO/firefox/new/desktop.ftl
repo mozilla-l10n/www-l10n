@@ -69,6 +69,7 @@ firefox-desktop-download-enhanced-tracking-protection = Utvidet sporingsbeskytte
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-more-from-firefox = Få mer ut av { -brand-name-firefox }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
