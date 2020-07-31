@@ -7,6 +7,8 @@
 
 # HTML page title
 lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — administrador de contraseñas — lleva tus contraseñas a todas partes
+# HTML page description
+lockwise-firefox-lockwise-lets-you = { -brand-name-firefox-lockwise } te permite acceder de forma segura a las contraseñas que guardaste en { -brand-name-firefox } desde cualquier lugar, incluso desde fuera del navegador. Cuenta con cifrado de 256 bits y Face/Touch ID.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Lleva tus contraseñas a todas partes
 lockwise-securely-access-the-passwords = Accede de forma segura a contraseñas que has guardado en { -brand-name-firefox } desde cualquier parte — incluso fuera del navegador.
