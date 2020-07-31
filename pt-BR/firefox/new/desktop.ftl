@@ -80,6 +80,27 @@ firefox-desktop-download-dark-mode = Modo escuro
 firefox-desktop-download-library-of-extensions = Biblioteca de extensões
 firefox-desktop-download-adjust-search-bar = Ajustes na configuração da barra de pesquisa
 firefox-desktop-download-change-new-tab = Alterar a disposição de nova aba
+firefox-desktop-download-make-firefox-your = Deixar o <strong>{ -brand-name-firefox }</strong> do seu jeito
+firefox-desktop-download-extensions-for-every = Extensões para todos os interesses
+firefox-desktop-download-change-up-your = Alterar sua aparência
+firefox-desktop-download-tweak-your-settings = Ajustar suas configurações
+firefox-desktop-download-theres-no-need = Não precisa ficar acomodado. Altere a página de nova aba, barra de pesquisa, favoritos e muito mais para explorar a internet do jeito que quiser.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Feito pela organização <strong>sem</strong> fins lucrativos que coloca as pessoas em primeiro lugar
+firefox-desktop-download-challenging-the-status = Desafiando o status quo desde 1998
+firefox-desktop-download-your-privacy-comes = Sua privacidade em primeiro lugar
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Mantenha todos os seus recursos preferidos de navegador — e <strong>descubra</strong> novos.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Todas as suas ferramentas preferidas do { -brand-name-google } (como Gmail e Docs) funcionam perfeitamente no { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Sincronizar seus dispositivos
+firefox-desktop-download-screenshots = Capturar telas
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Proteção aprimorada contra rastreamento
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
