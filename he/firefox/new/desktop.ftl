@@ -85,3 +85,22 @@ firefox-desktop-download-get-more-from-firefox = קבלו עוד מ־{ -brand-na
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = כמעט סיימנו!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = רק נשאר להשלים את <strong>ההתקנה</strong> של { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = רק נשאר </strong>להריץ</strong> את קובץ ההתקנה שהורד.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = רק נשאר <strong>לפתוח</strong> את הקובץ שהורד.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = נתקלת בבעיות? <a { $attrs }>ניתן לקבל עזרה עם ההתקנה</a>.
+firefox-desktop-download-in-another-language = הורדה בשפה אחרת או עבור מערכת הפעלה אחרת.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = מערכת ההפעלה המשמשת אותך אינה מאובטחת ואינה בתוקף, לפיכך <a href="{ $url }">אינה נתמכת עוד על־ידי { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>
+firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } הוא יותר מדפדפן.

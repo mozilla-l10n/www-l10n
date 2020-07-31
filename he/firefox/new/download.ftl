@@ -36,7 +36,7 @@ firefox-new-advanced-install-options-heading = אפשרויות התקנה מת�
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = מערכת ההפעלה המשמשת אותך אינה מאובטחת ואינה בתוקף, לפיכך <a href="{ $url }">אינה נתמכת עוד על ידי { -brand-name-firefox }</a>.
+firefox-new-youre-using-an-insecure-outdated = מערכת ההפעלה המשמשת אותך אינה מאובטחת ואינה בתוקף, לפיכך <a href="{ $url }">אינה נתמכת עוד על־ידי { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
