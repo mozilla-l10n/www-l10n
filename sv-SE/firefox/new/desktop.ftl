@@ -11,9 +11,13 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Hämta { -brand-name-firefox-browser } — Snabb, privat & gratis — från { -brand-name-mozilla }
 firefox-desktop-download-og-title = Ladda ner den snabbaste { -brand-name-firefox } någonsin
+firefox-desktop-download-og-desc = Snabbare sidladdning, mindre minnesanvändning och fullproppad med funktioner, den nya { -brand-name-firefox } är här.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Skaffa webbläsaren som skyddar det som är viktigt
+firefox-desktop-download-download-options = Nedladdningsalternativ och andra språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Gör vad du gör online. <br> { -brand-name-firefox-browser } <strong>tittar inte</strong>.
 firefox-desktop-download-how-firefox-compares = Hur { -brand-name-firefox } jämförs med andra webbläsare
 firefox-desktop-download-compare-firefox-to = Jämför { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -22,6 +26,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ja
 firefox-desktop-download-no = Nej
 firefox-desktop-download-blocks-third-party = Blockerar spårningskakor från tredje part
+firefox-desktop-download-autoplay-blocking = Autoplay-blockering
 firefox-desktop-download-blocks-social-trackers = Blockerar sociala spårare
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = OS tillgänglighet
@@ -31,8 +36,10 @@ firefox-desktop-download-we-block-the-ad = Vi blockerar annonsspårarna. Du utfo
 firefox-desktop-download-see-your-report = Visa din säkerhetsrapport
 firefox-desktop-download-for-everyone = { -brand-name-firefox } är för alla
 firefox-desktop-download-review-system-req = Granska systemkraven
+firefox-desktop-download-all-your-devices = Lägg till { -brand-name-firefox } på alla dina enheter
 firefox-desktop-download-search-smarter = Sök smartare, snabbare
 firefox-desktop-download-search-from-address = Sök från adressfältet
+firefox-desktop-download-search-engine-options = Val av sökmotor
 firefox-desktop-download-smart-search-suggestions = Smarta sökförslag
 firefox-desktop-download-boost-your = Öka din produktivitet
 firefox-desktop-download-works-with-google = Fungerar med { -brand-name-google } produkter
@@ -60,9 +67,15 @@ firefox-desktop-download-customize-your-browser = Anpassa din webbläsare
 firefox-desktop-download-themes = Teman
 firefox-desktop-download-dark-mode = Mörkt läge
 firefox-desktop-download-library-of-extensions = Bibliotek med tillägg
+firefox-desktop-download-make-firefox-your = Gör <strong>{ -brand-name-firefox }</strong> din egen
 firefox-desktop-download-extensions-for-every = Tillägg för varje intresse
+firefox-desktop-download-change-up-your = Förändra ditt utseende
+firefox-desktop-download-tweak-your-settings = Justera dina inställningar
 firefox-desktop-download-your-privacy-comes = Din integritet kommer först
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Behåll alla dina favoritfunktioner i webbläsaren — och <strong>upptäck</ strong> nya.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synkronisera dina enheter
 firefox-desktop-download-screenshots = Skärmdumpar
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hämta { -brand-name-firefox-browser } för <strong>{ -brand-name-android }</strong>
@@ -74,4 +87,7 @@ firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
 
 firefox-desktop-download-almost-there = Nästan där!
 firefox-desktop-download-in-another-language = Ladda ner på ett annat språk eller för ett annat operativsystem.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Du använder ett osäkert, föråldrat operativsystem <a href="{ $url }"> som inte längre stöds av { -brand-name-firefox }</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } är mer än en webbläsare.
