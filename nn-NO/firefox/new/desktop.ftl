@@ -28,6 +28,7 @@ firefox-desktop-download-master-password = Hovudpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
 firefox-desktop-download-see-your-report = Sjå tryggingsrapporten din
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
+firefox-desktop-download-review-system-req = Gå gjennom systemkrava
 firefox-desktop-download-all-your-devices = Legg til { -brand-name-firefox } på alle einingane dine
 firefox-desktop-download-search-smarter = Søk smartare, raskare
 firefox-desktop-download-search-from-address = Søk frå adresselinja
@@ -51,13 +52,46 @@ firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokaps
 firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnarar
 firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
 firefox-desktop-download-built-in-password = Innebygd passordhandtering
+firefox-desktop-download-clear-history = Tøm historikk
+firefox-desktop-download-form-autofill = Autoutfylling av skjema
+firefox-desktop-download-automatic-updates = Automatiske oppdateringar
+firefox-desktop-download-customize-your-browser = Tilpass nettlesaren din
 firefox-desktop-download-themes = Tema
 firefox-desktop-download-dark-mode = Mørk modus
+firefox-desktop-download-library-of-extensions = Bibliotek med utvidingar
+firefox-desktop-download-adjust-search-bar = Juster søkelinje-innstillingane
+firefox-desktop-download-extensions-for-every = Utvidingar for alle interesser
+firefox-desktop-download-tweak-your-settings = JUster innstillingane dine
+firefox-desktop-download-your-privacy-comes = Personvernet ditt kjem først
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synkroniser einingane dine
 firefox-desktop-download-screenshots = Skjermbilde
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Utvida sporingsvern (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-more-from-firefox = Få meir ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Berre last ned nettlesaren
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Nesten ferdig!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Fullfør <strong>installasjonen</strong> av { -brand-name-firefox } no.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = No kan du <strong>køyre</strong> installasjonsprogrammet du nettopp lasta ned.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = No kan du <strong>opne</strong> den nedlasta fila.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Har problem? <a { $attrs }>Få hjelp med installasjonen</a>.
+firefox-desktop-download-in-another-language = Last ned på eit anna språk eller for eit anna operativsystem.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Du brukar eit utrygt, forelda operativsystem, <a href="{ $url }">som ikkje lenger er støtta av { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Nedlastinga di bør starte automatisk. Fungerte det ikkje? <a id="{ $id }" href="{ $fallback_url }">Prøv å laste ned på nytt.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meir enn ein nettlesar.
