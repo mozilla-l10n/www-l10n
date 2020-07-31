@@ -31,6 +31,7 @@ firefox-desktop-download-blocks-social-trackers = Bloquea los rastreadores socia
 firefox-desktop-download-os-availability = Disponibilidad para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla en el navegador
 firefox-desktop-download-master-password = Contraseña primaria
+firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por ello, exploras internet más rápido.
 firefox-desktop-download-see-your-report = Mira tu reporte de protección
 firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
 firefox-desktop-download-review-system-req = Revisar los requisitos del sistema
@@ -81,6 +82,9 @@ firefox-desktop-download-change-up-your = Cambia tu aspecto
 firefox-desktop-download-tweak-your-settings = Realiza tus ajustes
 firefox-desktop-download-your-privacy-comes = Tu privacidad es lo primero
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Descarga esta extensión del navegador</a> para hacer que { -brand-name-facebook } (y { -brand-name-instagram }) dejen de seguirte por la web.
 firefox-desktop-download-sync-your-devices = Sincroniza tus dispositivos
 firefox-desktop-download-screenshots = Capturas de pantalla
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -88,7 +92,11 @@ firefox-desktop-download-enhanced-tracking-protection = Protección de seguimien
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obtén { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtén { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Baja el navegador móvil { -brand-name-firefox } para una protección automática en todos tus dispositivos.
 firefox-desktop-download-learn-about-the = Aprende sobre el navegador de escritorio { -brand-name-firefox }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Ya tienes el navegador { -brand-name-firefox }. Ahora obtén aún más de { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Presta atención a los hackers con { -brand-name-firefox-monitor }, protege las contraseñas con { -brand-name-firefox-lockwise } y más.
 firefox-desktop-download-get-more-from-firefox = Sácale el jugo a { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Solo baja el navegador
 
