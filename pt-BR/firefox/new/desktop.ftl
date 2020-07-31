@@ -61,11 +61,13 @@ firefox-desktop-download-block-autoplay-of = Bloqueio de reprodução automátic
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-curated-content-on = Conteúdo selecionado na nova aba
+firefox-desktop-download-share-links = Compartilhar links
 firefox-desktop-download-protect-your-privacy = Protege sua privacidade
 firefox-desktop-download-third-party-cookie = Bloqueio de cookies de terceiros
 firefox-desktop-download-fingerprinter-blocking = Bloqueio de fingerprinter (rastreador de identidade digital)
 firefox-desktop-download-cryptominer-blocking = Bloqueio de criptomineração
 firefox-desktop-download-private-browsing-mode = Modo de navegação privativa
+firefox-desktop-download-individual-protections-report = Relatório individual de proteções
 firefox-desktop-download-secure-your-personal = Proteja suas informações pessoais
 firefox-desktop-download-breached-website-alerts = Alertas de sites com vazamento de dados
 firefox-desktop-download-built-in-password = Gerenciador de senhas integrado
@@ -76,6 +78,8 @@ firefox-desktop-download-customize-your-browser = Personalize seu navegador
 firefox-desktop-download-themes = Temas
 firefox-desktop-download-dark-mode = Modo escuro
 firefox-desktop-download-library-of-extensions = Biblioteca de extensões
+firefox-desktop-download-adjust-search-bar = Ajustes na configuração da barra de pesquisa
+firefox-desktop-download-change-new-tab = Alterar a disposição de nova aba
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
