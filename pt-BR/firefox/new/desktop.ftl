@@ -56,6 +56,26 @@ firefox-desktop-download-sync-across-devices = Sincronização entre dispositivo
 firefox-desktop-download-reader-mode = Modo leitor
 firefox-desktop-download-spell-check = Correção ortográfica
 firefox-desktop-download-pinned-tabs = Abas fixas
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Bloqueio de reprodução automática de vídeo e áudio
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-curated-content-on = Conteúdo selecionado na nova aba
+firefox-desktop-download-protect-your-privacy = Protege sua privacidade
+firefox-desktop-download-third-party-cookie = Bloqueio de cookies de terceiros
+firefox-desktop-download-fingerprinter-blocking = Bloqueio de fingerprinter (rastreador de identidade digital)
+firefox-desktop-download-cryptominer-blocking = Bloqueio de criptomineração
+firefox-desktop-download-private-browsing-mode = Modo de navegação privativa
+firefox-desktop-download-secure-your-personal = Proteja suas informações pessoais
+firefox-desktop-download-breached-website-alerts = Alertas de sites com vazamento de dados
+firefox-desktop-download-built-in-password = Gerenciador de senhas integrado
+firefox-desktop-download-clear-history = Limpar histórico
+firefox-desktop-download-form-autofill = Preenchimento automático de formulários
+firefox-desktop-download-automatic-updates = Atualizações automáticas
+firefox-desktop-download-customize-your-browser = Personalize seu navegador
+firefox-desktop-download-themes = Temas
+firefox-desktop-download-dark-mode = Modo escuro
+firefox-desktop-download-library-of-extensions = Biblioteca de extensões
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
