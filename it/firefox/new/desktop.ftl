@@ -7,6 +7,55 @@
 
 firefox-desktop-download-og-title = Scarica la versione di { -brand-name-firefox } più veloce di sempre
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-desktop-download-browser-support = Supporto { -brand-name-firefox-browser }
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Sì
+firefox-desktop-download-no = No
+firefox-desktop-download-blocks-third-party = Blocca cookie traccianti di terze parti
+firefox-desktop-download-autoplay-blocking = Blocco della riproduzione automatica
+firefox-desktop-download-blocks-social-trackers = Blocca traccianti social
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Disponibile sui maggiori sistemi operativi
+firefox-desktop-download-in-browser-screenshot = Strumento di istantanea schermo integrato
+firefox-desktop-download-master-password = Password principale
+firefox-desktop-download-see-your-report = Visualizza il tuo rapporto sulla protezione
+firefox-desktop-download-for-everyone = { -brand-name-firefox } è per tutti
+firefox-desktop-download-review-system-req = Verifica i requisiti di sistema
+firefox-desktop-download-all-your-devices = Installa { -brand-name-firefox } su tutti i tuoi dispositivi
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Fai <strong>tutto</strong> questo con { -brand-name-firefox }
+firefox-desktop-download-search-from-address = Cerca dalla barra degli indirizzi
+firefox-desktop-download-search-engine-options = Più opzioni per il motore di ricerca
+firefox-desktop-download-smart-search-suggestions = Suggerimenti di ricerca intelligenti
+firefox-desktop-download-bookmark-history = Segnalibri, cronologia e schede aperte nei risultati
+firefox-desktop-download-works-with-google = Funziona con i prodotti { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Strumento integrato per gli screenshot
+firefox-desktop-download-bookmarks-manager = Gestione segnalibri
+firefox-desktop-download-autosuggest-urls = Suggerimento automatico degli URL
+firefox-desktop-download-sync-across-devices = Sincronizzazione tra più dispositivi
+firefox-desktop-download-reader-mode = Modalità lettura
+firefox-desktop-download-spell-check = Controllo ortografico
+firefox-desktop-download-pinned-tabs = Schede appuntate
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Blocco della riproduzione automatica di video e audio
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-share-links = Condividi link
+firefox-desktop-download-protect-your-privacy = Proteggi la tua privacy
+firefox-desktop-download-third-party-cookie = Blocco dei cookie di terze parti
+firefox-desktop-download-fingerprinter-blocking = Blocco dei fingerprinter
+firefox-desktop-download-cryptominer-blocking = Blocco dei cryptominer
+firefox-desktop-download-private-browsing-mode = Modalità di navigazione anonima
+firefox-desktop-download-secure-your-personal = Proteggi le tue informazioni personali
+firefox-desktop-download-breached-website-alerts = Avvisi per i siti web violati
+firefox-desktop-download-built-in-password = Gestione password integrata
+firefox-desktop-download-form-autofill = Compilazione automatica dei moduli
+firefox-desktop-download-automatic-updates = Aggiornamenti automatici
+firefox-desktop-download-customize-your-browser = Personalizza il browser
+firefox-desktop-download-themes = Temi
+firefox-desktop-download-dark-mode = Modalità scura
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
