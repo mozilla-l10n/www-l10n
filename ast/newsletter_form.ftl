@@ -2,11 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = correu-de-to@exemplu.com
 newsletter-form-your-email-here = EL TO CORRÉU EQUÍ
 newsletter-form-format = Formatu
 newsletter-form-html = HTML
 newsletter-form-text = Testu
-newsletter-form-get-firefox-news = Consigui les anuncies de { -brand-name-firefox }
+newsletter-form-get-firefox-news = Consigui les noticies de { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Toi acordies con que { -brand-name-mozilla } remane la mio información como se desplica <a href="{ $url }">nesta noticia de privacidá</a>
