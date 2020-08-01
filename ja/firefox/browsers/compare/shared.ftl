@@ -23,6 +23,8 @@ compare-shared-reader-mode = リーダーモード
 compare-shared-spell-checking = スペルチェック
 compare-shared-web-extensionsadd-ons = ウェブ拡張機能/アドオン
 compare-shared-in-browser-screenshot-tool = ブラウザー内のスクリーンショットツール
+compare-shared-os-availability = 利用可能な OS
+compare-shared-mobile-os-availability = 利用可能なモバイル OS
 compare-shared-syncs-with-mobile = モバイル端末と同期
 compare-shared-password-management = パスワード管理
 compare-shared-master-password = マスターパスワード
@@ -36,6 +38,8 @@ compare-shared-utility-strong = <strong>ユーティリティ</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>携帯性</ strong>
 compare-shared-overall-assessment = 総合評価
+compare-shared-the-comparisons-made-here = ここで比較に用いている各ブラウザーのリリースバージョンは次の通りです:
+compare-shared-this-page-updated-semi-quarterly = このページは四半期に 2 回、最新バージョンを反映するために更新しています。常に最新のバージョンを反映しているとは限りません。
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

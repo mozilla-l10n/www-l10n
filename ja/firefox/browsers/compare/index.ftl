@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Sub-headline
+compare-index-privacy-utility-portability = プライバシー、ユーティリティ、ポータビリティ。
 compare-index-conclusion = まとめ:
