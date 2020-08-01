@@ -15,6 +15,8 @@ firefox-desktop-download-og-title = Baixe o { -brand-name-firefox }, rápido com
 firefox-desktop-download-og-desc = Carregamento de páginas mais rápido, menos uso de memória e repleto de recursos, aqui está o novo { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Instale o navegador que protege o que é importante
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem acesso escondido para anunciantes. Apenas um navegador extremamente rápido que não vende você como produto.
 firefox-desktop-download-browser-support = Suporte do { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = O que quer que você faça online.<br>O { -brand-name-firefox-browser } <strong>não está</strong> vigiando.
@@ -114,4 +116,12 @@ firefox-desktop-download-now-else = Agora termine <strong>instalando</strong> o 
 firefox-desktop-download-now-windows = Agora <strong>execute</strong> o instalador que acabou de baixar.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Agora <strong>abra</strong> o arquivo que acabou de baixar.
+firefox-desktop-download-in-another-language = Baixe em outro idioma ou para outro sistema operacional.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Você está usando um sistema operacional desatualizado e inseguro, <a href="{ $url }">não mais suportado pelo { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Seu download deve começar automaticamente. Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente baixar novamente</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é mais que um navegador.
