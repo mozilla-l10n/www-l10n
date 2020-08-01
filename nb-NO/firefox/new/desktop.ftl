@@ -13,6 +13,8 @@ firefox-desktop-download-meta-title = Last ned { -brand-name-firefox-browser } f
 firefox-desktop-download-og-title = Last ned den raskeste { -brand-name-firefox } noensinne
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Få nettleseren som beskytter det som er viktig
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Ingen lyssky personvernregler eller bakdører for annonsører. Bare en lynrask nettleser som ikke selger dine data.
 firefox-desktop-download-download-options = Nedlastingsalternativer og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukerstøtte
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -35,6 +37,7 @@ firefox-desktop-download-master-password = Hovedpassord
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-available-in-over = Tilgjengelig på over 90 språk og kompatible med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer uansett hva du bruker eller hvor du er. Forsikre deg om at operativsystemet ditt er oppdatert for den beste opplevelsen.
 firefox-desktop-download-review-system-req = Gjennomgå systemkravene
+firefox-desktop-download-all-your-devices = Leg til { -brand-name-firefox } på alle enhetene dine
 firefox-desktop-download-search-smarter = Søk smartere, raskere
 firefox-desktop-download-search-from-address = Søk fra adresselinjen
 firefox-desktop-download-search-engine-options = Innstillinger for søkemotor
