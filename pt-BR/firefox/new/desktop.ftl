@@ -17,10 +17,12 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Instale o navegador que protege o que é importante
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem acesso escondido para anunciantes. Apenas um navegador extremamente rápido que não vende você como produto.
+firefox-desktop-download-download-options = Opções e outros idiomas de download
 firefox-desktop-download-browser-support = Suporte do { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = O que quer que você faça online.<br>O { -brand-name-firefox-browser } <strong>não está</strong> vigiando.
 firefox-desktop-download-how-firefox-compares = Como o { -brand-name-firefox } se compara a outros navegadores
+firefox-desktop-download-get-all-the-speed = Tenha toda a velocidade e ferramentas sem nenhuma invasão de privacidade. O { -brand-name-firefox-browser } coleta tão poucos dados sobre você, que não precisamos nem do seu endereço de e-mail para baixar. Isso porque, diferente de outros navegadores, não temos interesse financeiro em te seguir pela web.
 firefox-desktop-download-how-we-compare = Como nos comparamos com outros navegadores
 firefox-desktop-download-compare-firefox-to = Comparar o { -brand-name-firefox } com:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -36,6 +38,7 @@ firefox-desktop-download-os-availability = Disponibilidade em sistemas operacion
 firefox-desktop-download-in-browser-screenshot = Ferramenta integrada de captura de tela
 firefox-desktop-download-master-password = Senha mestra
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos rastreadores de anúncios. Você explora a internet mais rápido.
+firefox-desktop-download-ads-are-distracting = Anúncios distraem a atenção e tornam mais lento carregar páginas web, enquanto seus rastreadores vigiam cada movimento que você faz online. O { -brand-name-firefox-browser } bloqueia a maioria dos rastreadores automaticamente, então não precisa se aprofundar nas suas configurações de segurança.
 firefox-desktop-download-see-your-report = Veja seu relatório de proteção
 firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
 firefox-desktop-download-available-in-over = Disponível em mais de 90 idiomas e compatível com máquinas { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, o { -brand-name-firefox } funciona, não importa o que esteja usando nem onde você está. Verifique se seu sistema operacional está atualizado para que você tenha a melhor experiência de uso.
@@ -58,6 +61,7 @@ firefox-desktop-download-sync-across-devices = Sincronização entre dispositivo
 firefox-desktop-download-reader-mode = Modo leitor
 firefox-desktop-download-spell-check = Correção ortográfica
 firefox-desktop-download-pinned-tabs = Abas fixas
+firefox-desktop-download-stream-share-play = Transmita, compartilhe e reproduza
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Bloqueio de reprodução automática de vídeo e áudio
 # Picture-in-Picture is a feature names and so is capitalized in English
