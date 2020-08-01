@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Restolador Firefox: Los meyores marcadores ande vaigas
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Los meyores marcadores ande vaigas
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organiza fácilmente los tos marcadores y accedi a ellos dende otros preseos de to, del escritoriu al móvil.
 features-bookmarks-better-bookmarks = Marcadores meyores
@@ -14,7 +14,7 @@ features-bookmarks-dont-agonize-lovers-of = Nun agonizar, amantes de los marcado
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Archiva marcadores
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = Ten ordenaos los tos favoritos col iconu de la estrellla, que te dexa amestar aína nomes personalizaos y carpetes. Dempués accedi a la barra de direiciones p'asegurate de qu'enxamás pierdes de vista los enllaces que más quies.
+features-bookmarks-get-your-faves-all-sorted = Ten ordenaos los tos favoritos col iconu de la estrellla que te dexa amestar aína nomes personalizaos y carpetes. Dempués accedi a la barra de direiciones p'asegurate de qu'enxamás pierdes de vista los enllaces que más quies.
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Los marcadores síguente
 # Variables:
