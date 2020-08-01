@@ -13,7 +13,7 @@ features-index-youre-in-control-with-firefoxs = Tú estas al control con las car
 features-index-firefox-features = Funcionalidades de { -brand-name-firefox }
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } es el navegador rápido, ligero y centrado en la privacidad que funciona en todos tus dispositivos.
-features-index-add-powerful-functions = Agregá poderosas y útiles funciones e incluso un poco de diversión a tu navegador { -brand-name-firefox }.
+features-index-add-powerful-functions = Agrega poderosas y útiles funciones e incluso un poco de diversión a tu navegador { -brand-name-firefox }.
 features-index-see-all = Ver todas las extensiones
 features-index-give-your-browser = Dale a tu navegador el aspecto que quieres con miles de temas diferentes.
 features-index-important-stuff = Asegúrate de que todas tus cosas importantes — búsquedas en Internet, contraseñas, pestañas abiertas — aparezcan donde las necesitas en cada dispositivo.

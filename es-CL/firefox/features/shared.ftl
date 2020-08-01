@@ -9,6 +9,7 @@ features-shared-a-better-internet-experience = Una mejor experiencia en internet
 features-shared-more-firefox-features = Más funcionalidades del navegador { -brand-name-firefox }
 features-shared-browse-faster = Navega más rápido
 features-shared-your-favorite-extensions = Tus extensiones favoritas
+features-shared-balanced-memory = Balance de memoria
 features-shared-more-powerful-private-browsing = Navegación privada más potente
 features-shared-ad-tracker-blocking = Bloqueo de rastreadores de publicidad
 features-shared-password-manager = Administrador de contraseñas

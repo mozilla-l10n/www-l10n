@@ -14,6 +14,8 @@ firefox-desktop-download-og-title = Descarga el { -brand-name-firefox } más rá
 firefox-desktop-download-og-desc = Carga de páginas más rápida, menos uso de memoria y lleno de funcionalidades, el nuevo { -brand-name-firefox } está aquí.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtén el navegador que protege lo que es importante
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador súper rápido que no te vende.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browser }
 firefox-desktop-download-how-firefox-compares = Cómo se compara { -brand-name-firefox } con otros navegadores
@@ -80,6 +82,7 @@ firefox-desktop-download-make-firefox-your = Haz <strong>{ -brand-name-firefox }
 firefox-desktop-download-extensions-for-every = Extensiones para todos los intereses.
 firefox-desktop-download-change-up-your = Cambia tu aspecto
 firefox-desktop-download-tweak-your-settings = Realiza tus ajustes
+firefox-desktop-download-challenging-the-status = Desafiando el status quo desde 1998
 firefox-desktop-download-your-privacy-comes = Tu privacidad es lo primero
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
