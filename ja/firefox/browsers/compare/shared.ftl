@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Used as an accessible label for a "yes" icon (a green check mark)
+compare-shared-yes = あり
+# Used as an accessible label for a "no" icon (a gray bar)
+compare-shared-no = なし
 compare-shared-private-browsing-mode = プライベートブラウジングモード
 compare-shared-blocks-third-party-tracking = サードパーティの追跡 Cookie をブロック
 compare-shared-blocks-cryptomining-scripts = 暗号通貨マイニングのスクリプトをブロック
