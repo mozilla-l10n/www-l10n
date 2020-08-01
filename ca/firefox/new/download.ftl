@@ -33,10 +33,12 @@ firefox-new-need-help = Necessiteu ajuda?
 firefox-new-see-whats-being-blocked = Vegeu tot allò què s'està blocant
 firefox-new-make-your-passwords-portable = Feu que les contrasenyes siguin portàtils
 firefox-new-watch-for-data-breaches = Compte amb les filtracions de dades
+firefox-new-connect-to-a-whole-family = Connecteu-vos a tota una família de productes respectuosos i obteniu tota la informació que necessiteu per protegir-vos a la xarxa.
 firefox-new-passwords-made-portable = Contrasenyes portàtils
 firefox-new-protect-your-privacy = Protegiu la vostra privadesa
 firefox-new-private-browsing-clears = La <strong>navegació privada</strong> esborra el vostre historial per tal que ningú més que utilitzi l'ordinador pugui tenir-hi accés.
 firefox-new-advanced-install-options-heading = Opcions avançades d'instal·lació i altres plataformes
+firefox-new-just-download-the-browser = Simplement, baixeu el navegador
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
