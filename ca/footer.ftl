@@ -46,6 +46,7 @@ footer-websites-privacy-notice = Avís de privadesa del lloc web
 footer-websites-cookies = Galetes
 footer-websites-legal = Avisos legals
 footer-language = Llengua
+footer-go = Vés-hi
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
