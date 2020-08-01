@@ -16,12 +16,14 @@ password-manager-password-hero = Herói de palavras-passe
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Esqueça a reposição. O Gestor de palavras-passe do { -brand-name-firefox } mantém todas as suas palavras-passe para que possa iniciar sessão automaticamente, ou encontrar facilmente palavras-passe guardadas. Para super segurança, dê ao seu computador uma <a href="{ $url }">palavra-passe mestra</a>.
+password-manager-password-magician = Mágico de palavras-passe
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja de palavras-passe
 password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto está a tentar chegar a algum sítio. Inicie sessão na sua { -brand-name-firefox-account } no seu telemóvel e as suas palavras-passe vêm consigo. Os seus detalhes de início de sessão irão simplesmente aparecer, sem ser necessário mais nada.
+password-manager-password-champion = Campeão de palavras-passe
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mestre de palavras-passe
 # Obsolete string
 # Variables:
