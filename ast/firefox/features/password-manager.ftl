@@ -17,7 +17,7 @@ password-manager-forget-the-reset = Escaezte del «Escaecí la contraseña». El
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja de les contraseñes
-password-manager-no-more-try-again = Acabóse'l «volvi tentalo» mentanto tentes d'acceder a dalgún sitiu. Anicia sesión na to cuenta de Firefox nel teléfonu y les contraseñes dirán contigo. Los tos detalles d'aniciu de sesión apaecerán nun abrir y zarrar de güeyos.
+password-manager-no-more-try-again = Acabóse'l «volvi tentalo» mentanto tentes d'acceder dayures. Anicia sesión na to cuenta de { -brand-name-firefox-account } nel teléfonu y les contraseñes van dir contigo. Los tos detalles d'aniciu de sesión van apaecer nun abrir y zarrar de güeyos.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Maestru de les contraseñes
@@ -25,4 +25,4 @@ password-manager-password-master = Maestru de les contraseñes
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Gana'l to cintu prietu de seguranza cola gama amplia de <a href="{ $addons }">complementos</a> xestores de contraseñes. Escueyi'l to favoritu o alcuentra ún pente les reseñes y valoraciones de la comunidá.
+password-manager-earn-your-second = Gana'l to cintu prietu de seguranza cola gama amplia de <a href="{ $addons }">complementos</a> xestores de contraseñes pa { -brand-name-firefox }. Escueyi'l to favoritu o alcuentra unu pente les reseñes y valoraciones de la comunidá.
