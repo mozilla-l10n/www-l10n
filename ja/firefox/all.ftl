@@ -24,6 +24,8 @@ firefox-all-download-the-firefox = { -brand-name-firefox-browser } を日本語�
 firefox-all-choose-which-firefox = あなたの言語の { -brand-name-firefox-browser } を選んでダウンロードしてください
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } のプライバシー通知
 firefox-all-learn-about-firefox = { -brand-name-firefox } ブラウザーの詳細はこちら
+firefox-all-arm64-installers = ARM64/AArch64 インストーラー
+firefox-all-arm64-installers-optimized = Snapdragon 搭載の { -brand-name-windows } PC 用に最適化された ARM64/AArch64 インストーラー。
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
