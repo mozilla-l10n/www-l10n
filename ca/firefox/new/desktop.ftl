@@ -31,6 +31,11 @@ firefox-desktop-download-in-browser-screenshot = Eina de captura de pantalla int
 firefox-desktop-download-master-password = Contrasenya mestra
 firefox-desktop-download-we-block-the-ad = Bloquem els elements de seguiment de publicitat. Navegareu més ràpidament per Internet.
 firefox-desktop-download-ads-are-distracting = Els anuncis distreuen i fan que les pàgines web es carreguin més lentament i alhora els seus elements de seguiment vigilen tots els moviments que feu a la xarxa. El { -brand-name-firefox-browser } bloca la majoria dels elements de seguiment automàticament, així no cal que us endinseu en els paràmetres de seguretat.
+firefox-desktop-download-see-your-report = Vegeu el vostre informe de protecció
+firefox-desktop-download-for-everyone = El { -brand-name-firefox } és per a tothom
+firefox-desktop-download-available-in-over = Disponible en més de 90 llengües i compatible amb màquines  { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, el { -brand-name-firefox } funciona a tot arreu. Assegureu-vos que teniu el sistema operatiu actualitzat per obtenir la millor experiència.
+firefox-desktop-download-review-system-req = Comproveu els requisits del sistema
+firefox-desktop-download-all-your-devices = Intal·leu el { -brand-name-firefox } en tots els dispositius
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
