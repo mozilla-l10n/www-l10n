@@ -42,6 +42,8 @@ firefox-desktop-download-your-privacy-comes = Primo tu confidentialitate.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synchronisa tu apparatos
 firefox-desktop-download-screenshots = Capturas de schermo
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protection antitraciamento reinfortiate (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
