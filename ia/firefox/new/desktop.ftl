@@ -16,7 +16,7 @@ firefox-desktop-download-og-desc = Cargamento paginas plus rapide, minor uso de 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Installa le navigator que protege lo que es importante
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Nulle criterios de confidentialitate umbrose o portas occulte pro favorir le publicitarios.
+firefox-desktop-download-no-shady = Nulle criterios de confidentialitate umbrose o portas occulte pro favorir le publicitarios. Justo un veloce, fulminee navigator que non te vende via.
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
