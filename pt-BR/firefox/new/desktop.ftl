@@ -114,6 +114,13 @@ firefox-desktop-download-get-firefox-android = Instale o { -brand-name-firefox-b
 firefox-desktop-download-get-firefox-ios = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Baixe o navegador móvel { -brand-name-firefox } para ter proteção automática em todos os seus dispositivos.
 firefox-desktop-download-learn-about-the = Saiba mais abaixo sobre o navegador { -brand-name-firefox } de computador
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De segurança a notícias e jogos, há <a { $attrs }>extensões para todos</a>. Adicione quantas quiser até seu navegador ficar do seu jeito.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi criado pela <a { $attrs }>{ -brand-name-mozilla }</a> como uma alternativa mais rápida e privativa a navegadores como o { -brand-name-ie } e agora o { -brand-name-chrome }. Hoje, nossa empresa e comunidade de voluntários, motivados por uma missão, continuam a colocar sua privacidade acima de tudo.
 firefox-desktop-download-get-more-from-firefox = Obtenha mais do { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Apenas baixe o navegador
 
