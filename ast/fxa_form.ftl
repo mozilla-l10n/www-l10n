@@ -2,5 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-form-create-account = Crear cuenta
+fxa-form-create-account = Crear una cuenta
 fxa-form-get-the-app = Consigui l'aplicación
