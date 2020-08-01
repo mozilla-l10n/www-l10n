@@ -15,6 +15,8 @@ firefox-desktop-download-og-title = Tải ngay { -brand-name-firefox } nhanh hơ
 firefox-desktop-download-og-desc = Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, { -brand-name-firefox } mới có ở đây.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Tải trình duyệt bảo vệ những gì quan trọng
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
 firefox-desktop-download-download-options = Tùy chọn tải xuống và các ngôn ngữ khác
 firefox-desktop-download-browser-support = Hỗ trợ { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -64,6 +66,7 @@ firefox-desktop-download-stream-share-play = Stream, chia sẻ và phát
 firefox-desktop-download-block-autoplay-of = Chặn tự động phát video và âm thanh
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Hình trong hình
+firefox-desktop-download-curated-content-on = Hiển thị nội dung nổi bật trong thẻ mới
 firefox-desktop-download-share-links = Chia sẻ liên kết
 firefox-desktop-download-protect-your-privacy = Bảo vệ sự riêng tư của bạn
 firefox-desktop-download-third-party-cookie = Chặn cookie của bên thứ ba
@@ -91,12 +94,72 @@ firefox-desktop-download-tweak-your-settings = Tinh chỉnh cài đặt của b�
 firefox-desktop-download-theres-no-need = Không có nhu cầu giải quyết. Thay đổi trang thẻ mới, thanh tìm kiếm, dấu trang và nhiều thứ khác để khám phá internet theo cách bạn muốn.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Được hỗ trợ bởi <strong>phi lợi nhuận</strong> đặt mọi người lên hàng đầu
+firefox-desktop-download-challenging-the-status = Thách thức hiện trạng từ năm 1998
 firefox-desktop-download-your-privacy-comes = Quyền riêng tư của bạn là trên hết
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Giữ tất cả các tính năng trình duyệt yêu thích của bạn — và <strong>khám phá</strong> những tính năng mới.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Tất cả các công cụ { -brand-name-google } yêu thích của bạn (như Gmail và Docs) hoạt động hoàn hảo trong { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Tải xuống tiện ích mở rộng này</a> để dừng { -brand-name-facebook } (và { -brand-name-instagram }) từ việc theo dõi bạn trên web.
+firefox-desktop-download-sync-your-devices = Đồng bộ các thiết bị của bạn
+firefox-desktop-download-screenshots = Ảnh chụp màn hình
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Trình chống theo dõi nâng cao (ETP)
+firefox-desktop-download-from-watching-a = Từ việc xem hướng dẫn trên web đến theo dõi đội bóng yêu thích của bạn, video của bạn sẽ theo bạn trong khi bạn đa nhiệm.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Tải { -brand-name-firefox-browser } dành cho <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Tải { -brand-name-firefox-browser } dành cho <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Tải xuống trình duyệt di động { -brand-name-firefox } để bảo vệ tự động trên tất cả các thiết bị của bạn.
+firefox-desktop-download-learn-about-the = Tìm hiểu về trình duyệt máy tính để bàn { -brand-name-firefox } bên dưới
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Từ bảo mật đến tin tức đến chơi game, có một <a { $attrs }>tiện ích mở rộng cho mọi người</a>. Thêm nhiều như bạn muốn cho đến khi trình duyệt của bạn vừa ý với bạn.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } được tạo bởi <a { $attrs }>{ -brand-name-mozilla }</a> dưới dạng thay thế nhanh hơn, riêng tư hơn cho các trình duyệt như { -brand-name-ie }, và bây giờ { -brand-name-chrome }. Hôm nay, công ty và cộng đồng tình nguyện điều hành nhiệm vụ của chúng tôi tiếp tục đặt quyền riêng tư của bạn lên trên tất cả.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn  — chúng tôi gọi đó là <a { $attrs }>Lời hứa dữ liệu cá nhân</a>: Lấy ít hơn. Giữ nó an toàn. Không có bí mật. Dữ liệu của bạn, hoạt động web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } khả dụng trên tất cả các thiết bị của bạn; mang theo các thẻ, lịch sử và dấu trang của bạn với bạn. Tất cả những gì bạn cần là một <a { $attrs }>tài khoản { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Lấy hình ảnh có độ phân giải cao của mọi thứ trực tuyến bằng công cụ <a { $attrs }>ảnh chụp màn hình</a> của chúng tôi được xây dựng ngay trong trình duyệt
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } tự động <a { $attrs }>chặn nhiều trình theo dõi của bên thứ ba</a> thu thập và bán hoạt động web của bạn.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Có câu hỏi? <a { $attrs }>Hỗ trợ { -brand-name-mozilla }</a> sẽ giúp ích cho bạn.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Bạn đã có trình duyệt. Bây giờ nhận được nhiều hơn từ { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Theo dõi các tin tặc với { -brand-name-firefox-monitor }, bảo vệ mật khẩu với { -brand-name-firefox-lockwise } và hơn thế nữa.
+firefox-desktop-download-get-more-from-firefox = Nhận thêm từ { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Chỉ cần tải xuống trình duyệt
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Sắp xong rồi!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Bây giờ kết thúc <strong>cài đặt</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Bây giờ <strong>chạy</strong> trình cài đặt vừa được tải xuống.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Bây giờ <strong>mở</strong> tập tin vừa được tải xuống.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Gặp sự cố? <a { $attrs }>Nhận trợ giúp với cài đặt của bạn</a>.
+firefox-desktop-download-in-another-language = Tải xuống bằng ngôn ngữ khác hoặc cho hệ điều hành khác.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Bạn đang sử dụng một hệ điều hành đã lỗi thời, không an toàn và <a href="{ $url }">không còn được { -brand-name-firefox } hỗ trợ nữa</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Việc tải xuống sẽ diễn ra tự động. Nếu không, hãy <a id="{ $id }" href="{ $fallback_url }">nhấp vào đây.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } không chỉ là một trình duyệt.
