@@ -11,7 +11,7 @@ firefox-new-download-the-fastest-firefox = 史上最速の { -brand-name-firefox
 firefox-new-faster-page-loading-less-memory = ページ読み込みの高速化、メモリー使用量の削減、さらに豊富な機能を兼ね備えた、まったく新しい { -brand-name-firefox }、誕生。
 firefox-new-automatic-privacy-is-here = 自動でプライバシーを保護します。2000 以上のトラッカーをブロックする { -brand-name-firefox } をダウンロードしましょう。
 firefox-new-get-the-latest-firefox = { -brand-name-firefox } の最新版を入手
-firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } の<strong>強化型トラッキング防止</strong>機能が、数多くのデータ取集トラッカーをブロックしていることを示します。
+firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } の<strong>強化型トラッキング防止</strong>機能が、数多くのデータ収集トラッカーをブロックしていることを示します。
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> が、あなたのパスワードを { -brand-name-firefox } に安全に保管します。これはすべての端末で利用可能です。
 firefox-new-firefox-monitor-alerts = 他の企業のデータ侵害にあなたの情報が含まれていた場合に、<strong>{ -brand-name-firefox-monitor }</strong> が警告します。
 firefox-new-join-firefox = { -brand-name-firefox } に参加する
@@ -27,7 +27,7 @@ firefox-new-get-more-from-firefox = { -brand-name-firefox } をさらに活用�
 firefox-new-free-web-browser = 無料ウェブブラウザー
 firefox-new-and-start-getting-the-respect = そして、ユーザーを尊重する私たちの製品ファミリーはプライバシーを第一に考えています。
 firefox-new-advanced-install-options = 高度なインストールオプションと他の OS 版
-firefox-new-download-in-another-language = 他の言語でダウンロード
+firefox-new-download-in-another-language = 他の言語版をダウンロード
 firefox-new-fix-a-problem = 問題を修正する
 firefox-new-need-help = サポートが必要ですか？
 firefox-new-see-whats-being-blocked = ブロックされたトラッカーを確認する
@@ -48,4 +48,6 @@ firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = ダウンロードは自動的に始まります。もし始まらない場合は <a id="{ $id }" href="{ $fallback_url }">再度ダウンロードしてみてください</a>。
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } はブラウザーの枠にとらわれません。
+firefox-new-its-privacy-and-peace-of = モバイルでも <strong>プライバシーを保護し、安全に</strong> お使いいただけます。
 firefox-new-its-a-family-of-products = 個人情報を尊重する <strong>製品群</strong> です。
