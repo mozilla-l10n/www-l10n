@@ -12,19 +12,27 @@ firefox-new-faster-page-loading-less-memory = El nou { -brand-name-firefox } ja 
 firefox-new-automatic-privacy-is-here = La privadesa automàtica ja és aquí. Baixeu el { -brand-name-firefox } per blocar més de 2000 elements de seguiment.
 firefox-new-get-the-latest-firefox = Obteniu l'última versió del navegador { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = El { -brand-name-firefox } us mostra quants elements de seguiment de recollida de dades s'han blocat amb la <strong>Protecció contra el seguiment millorada</strong>.
+firefox-new-firefox-lockwise-makes-secure = El <strong>{ -brand-name-firefox-lockwise }</strong> protegeix les contrasenyes que deseu en el { -brand-name-firefox } i fa que estiguin disponibles en tots els vostres dispositius.
+firefox-new-firefox-monitor-alerts = El <strong>{ -brand-name-firefox-monitor }</strong> us avisa si detectem que la vostra informació s'ha vist afectada per alguna de les filtracions de dates d'altres empreses.
 firefox-new-join-firefox = Uniu-vos al { -brand-name-firefox }
+firefox-new-firefox-lockwise-makes = El <strong>{ -brand-name-firefox-lockwise }</strong> fa que les contrasenyes que deseu en el { -brand-name-firefox } estiguin disponibles en tots els vostres dispositius.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Baixa el { -brand-name-firefox }<br>per al { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Baixa el { -brand-name-firefox }<br>per al { -brand-name-mac }
 firefox-new-download-firefox-for-linux = Baixa el { -brand-name-firefox }<br>per al { -brand-name-linux }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-new-youve-already-got-the-browser = Ja teniu el navegador. Ara traieu encara més profit del { -brand-name-firefox }.
+firefox-new-watch-for-hackers-with = Estigueu a l'aguait dels furoners amb el { -brand-name-firefox-monitor }, protegiu les contrasenyes amb el { -brand-name-firefox-lockwise } i molt més.
+firefox-new-get-more-from-firefox = Traieu més profit del { -brand-name-firefox }
 firefox-new-free-web-browser = Navegador web gratuït
+firefox-new-and-start-getting-the-respect = I comenceu a aconseguir el respecte que us mereixeu amb la nostra família de productes que posen la privadesa per sobre de tot.
 firefox-new-advanced-install-options = Opcions avançades d'instal·lació i altres plataformes
 firefox-new-download-in-another-language = Baixeu-lo en una altra llengua
+firefox-new-fix-a-problem = Solucioneu un problema
 firefox-new-need-help = Necessiteu ajuda?
 firefox-new-see-whats-being-blocked = Vegeu tot allò què s'està blocant
 firefox-new-make-your-passwords-portable = Feu que les contrasenyes siguin portàtils
+firefox-new-watch-for-data-breaches = Compte amb les filtracions de dades
 firefox-new-passwords-made-portable = Contrasenyes portàtils
 firefox-new-protect-your-privacy = Protegiu la vostra privadesa
 firefox-new-private-browsing-clears = La <strong>navegació privada</strong> esborra el vostre historial per tal que ningú més que utilitzi l'ordinador pugui tenir-hi accés.
