@@ -19,6 +19,10 @@ firefox-desktop-download-get-the-browser = Installa le navigator que protege lo 
 firefox-desktop-download-no-shady = Nulle criterios de confidentialitate umbrose o portas occulte pro favorir le publicitarios. Justo un veloce, fulminee navigator que non te vende via.
 firefox-desktop-download-download-options = Discarga optiones e altere linguas
 firefox-desktop-download-browser-support = Supporto de { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Face lo que tu face online.<br> { -brand-name-firefox-browser } <strong>non sta</strong> spiar.
+firefox-desktop-download-how-firefox-compares = Como { -brand-name-firefox } se compara a altere navigatores
+firefox-desktop-download-get-all-the-speed = Obtene tote le velocitate e applicationes con nulle invasiones de vita private. { -brand-name-firefox-browser } collige assi poc datos re te que nos, pro discargar lo, non require ni minus tu adresse email.
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
