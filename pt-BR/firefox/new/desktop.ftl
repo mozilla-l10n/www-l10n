@@ -130,6 +130,15 @@ firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Obtenha uma imagem de alta resolução de qualquer coisa online com nossa ferramenta de <a { $attrs }>captura de tela</a> integrada diretamente no navegador
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } automaticamente <a { $attrs }>bloqueia muitos rastreadores de terceiros</a>, impedindo-os de coletar e vender sua atividade na web.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Dúvidas? O <a { $attrs }>suporte da { -brand-name-mozilla }</a> pode ajudar.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Você já tem o navegador. Agora obtenha ainda mais do { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Fique atento a hackers com o { -brand-name-firefox-monitor }, proteja senhas com o { -brand-name-firefox-lockwise } e muito mais.
 firefox-desktop-download-get-more-from-firefox = Obtenha mais do { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Apenas baixe o navegador
 
@@ -142,6 +151,9 @@ firefox-desktop-download-now-else = Agora termine <strong>instalando</strong> o 
 firefox-desktop-download-now-windows = Agora <strong>execute</strong> o instalador que acabou de baixar.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Agora <strong>abra</strong> o arquivo que acabou de baixar.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Está com problemas? <a { $attrs }>Obtenha ajuda para sua instalação</a>.
 firefox-desktop-download-in-another-language = Baixe em outro idioma ou para outro sistema operacional.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
