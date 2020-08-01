@@ -89,6 +89,7 @@ firefox-desktop-download-change-new-tab = Alterar a disposição de nova aba
 firefox-desktop-download-make-firefox-your = Deixar o <strong>{ -brand-name-firefox }</strong> do seu jeito
 firefox-desktop-download-extensions-for-every = Extensões para todos os interesses
 firefox-desktop-download-change-up-your = Alterar sua aparência
+firefox-desktop-download-go-from-light = Mude do modo claro para escuro, dependendo do seu humor ou preferência, ou anime as coisas com um tema personalizado (talvez unicórnio de arco-íris).
 firefox-desktop-download-tweak-your-settings = Ajustar suas configurações
 firefox-desktop-download-theres-no-need = Não precisa ficar acomodado. Altere a página de nova aba, barra de pesquisa, favoritos e muito mais para explorar a internet do jeito que quiser.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -100,6 +101,9 @@ firefox-desktop-download-keep-all-your = Mantenha todos os seus recursos preferi
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Todas as suas ferramentas preferidas do { -brand-name-google } (como Gmail e Docs) funcionam perfeitamente no { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Baixe esta extensão do navegador</a> para impedir que o { -brand-name-facebook } e o { -brand-name-instagram } rastreiem você pela web.
 firefox-desktop-download-sync-your-devices = Sincronizar seus dispositivos
 firefox-desktop-download-screenshots = Capturar telas
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
