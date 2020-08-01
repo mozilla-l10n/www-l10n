@@ -78,6 +78,9 @@ firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browse
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta et høyoppløselig bilde av hva som helst på nettet med vårt <a { $attrs }>skjermbilde</a>-verktøy som er bygget rett i nettleseren
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokkerer automatisk <a { $attrs }>mange tredjeparts-sporere</a> fra å samle inn og selge nettaktiviteten din.
 firefox-desktop-download-get-more-from-firefox = Få mer ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bare last ned nettleseren
 
