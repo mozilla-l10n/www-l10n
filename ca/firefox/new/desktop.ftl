@@ -36,6 +36,23 @@ firefox-desktop-download-for-everyone = El { -brand-name-firefox } és per a tot
 firefox-desktop-download-available-in-over = Disponible en més de 90 llengües i compatible amb màquines  { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, el { -brand-name-firefox } funciona a tot arreu. Assegureu-vos que teniu el sistema operatiu actualitzat per obtenir la millor experiència.
 firefox-desktop-download-review-system-req = Comproveu els requisits del sistema
 firefox-desktop-download-all-your-devices = Intal·leu el { -brand-name-firefox } en tots els dispositius
+firefox-desktop-download-take-your-privacy = Conserveu la vostra privadesa arreu. Els { -brand-name-firefox-browsers } per a l'{ -brand-name-ios } i { -brand-name-android } tenen els mateixos paràmetres estrictes de privadesa per blocar els elements de seguiment i que no us facin seguiment, estigueu on estigueu.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Feu-ho <strong>tot</strong> amb el { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Cerques més intel·ligents i més ràpides
+firefox-desktop-download-search-from-address = Cerca des de la barra d'adreces
+firefox-desktop-download-search-engine-options = Opcions del motor de cerca
+firefox-desktop-download-smart-search-suggestions = Suggeriments de cerca intel·ligents
+firefox-desktop-download-bookmark-history = Les adreces d'interès, l'historial i les pestanyes obertes s'inclouen en els resultats
+firefox-desktop-download-boost-your = Augmenteu la productivitat
+firefox-desktop-download-works-with-google = Funciona amb els productes de { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Eina de captura de pantalla integrada
+firefox-desktop-download-bookmarks-manager = Gestor d'adreces d'interès
+firefox-desktop-download-autosuggest-urls = Suggeriment automàtic dels URL
+firefox-desktop-download-sync-across-devices = Sincronització entre dispositius
+firefox-desktop-download-reader-mode = Mode de lectura
+firefox-desktop-download-spell-check = Corrector ortogràfic
+firefox-desktop-download-pinned-tabs = Pestanyes fixes
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
