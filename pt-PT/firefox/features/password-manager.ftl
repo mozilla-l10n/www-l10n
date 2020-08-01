@@ -22,6 +22,9 @@ password-manager-password-magician = Mágico de palavras-passe
 password-manager-password-ninja = Ninja de palavras-passe
 password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto está a tentar chegar a algum sítio. Inicie sessão na sua { -brand-name-firefox-account } no seu telemóvel e as suas palavras-passe vêm consigo. Os seus detalhes de início de sessão irão simplesmente aparecer, sem ser necessário mais nada.
 password-manager-password-champion = Campeão de palavras-passe
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Ganhe a sua medalha de ouro de segurança com a vasta gama de <a href="{ $addons }">extras</a> para gestão de palavras-passe do { -brand-name-firefox }. Escolha um dos favoritos existentes ou encontre outro de nível mais avançado através das avaliações e análises de especialistas.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mestre de palavras-passe
