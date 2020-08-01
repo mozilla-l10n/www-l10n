@@ -56,6 +56,13 @@ firefox-desktop-download-automatic-updates = Aggiornamenti automatici
 firefox-desktop-download-customize-your-browser = Personalizza il browser
 firefox-desktop-download-themes = Temi
 firefox-desktop-download-dark-mode = Modalità scura
+firefox-desktop-download-make-firefox-your = Rendi <strong>{ -brand-name-firefox }</strong> veramente tuo
+firefox-desktop-download-change-up-your = Cambia look
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Sostenuto da un’organizzazione <strong>non-profit</strong> che mette al primo posto le persone
+firefox-desktop-download-challenging-the-status = Una sfida allo status quo dal 1998
+firefox-desktop-download-your-privacy-comes = La tua privacy prima di tutto
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
