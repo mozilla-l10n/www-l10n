@@ -8,6 +8,7 @@
 firefox-desktop-download-og-title = Scarica la versione di { -brand-name-firefox } più veloce di sempre
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-desktop-download-browser-support = Supporto { -brand-name-firefox-browser }
+firefox-desktop-download-compare-firefox-to = Confronta { -brand-name-firefox } con:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -30,6 +31,7 @@ firefox-desktop-download-search-from-address = Cerca dalla barra degli indirizzi
 firefox-desktop-download-search-engine-options = Più opzioni per il motore di ricerca
 firefox-desktop-download-smart-search-suggestions = Suggerimenti di ricerca intelligenti
 firefox-desktop-download-bookmark-history = Segnalibri, cronologia e schede aperte nei risultati
+firefox-desktop-download-boost-your = Aumenta la tua produttività
 firefox-desktop-download-works-with-google = Funziona con i prodotti { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Strumento integrato per gli screenshot
 firefox-desktop-download-bookmarks-manager = Gestione segnalibri
@@ -38,6 +40,7 @@ firefox-desktop-download-sync-across-devices = Sincronizzazione tra più disposi
 firefox-desktop-download-reader-mode = Modalità lettura
 firefox-desktop-download-spell-check = Controllo ortografico
 firefox-desktop-download-pinned-tabs = Schede appuntate
+firefox-desktop-download-stream-share-play = Riproduci in streaming, condividi e gioca
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Blocco della riproduzione automatica di video e audio
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -58,11 +61,20 @@ firefox-desktop-download-themes = Temi
 firefox-desktop-download-dark-mode = Modalità scura
 firefox-desktop-download-make-firefox-your = Rendi <strong>{ -brand-name-firefox }</strong> veramente tuo
 firefox-desktop-download-change-up-your = Cambia look
+firefox-desktop-download-tweak-your-settings = Modifica le tue impostazioni
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Sostenuto da un’organizzazione <strong>non-profit</strong> che mette al primo posto le persone
 firefox-desktop-download-challenging-the-status = Una sfida allo status quo dal 1998
 firefox-desktop-download-your-privacy-comes = La tua privacy prima di tutto
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Sincronizza i tuoi dispositivi
+firefox-desktop-download-screenshots = Screenshot
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protezione antitracciamento avanzata
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
