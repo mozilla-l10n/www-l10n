@@ -21,6 +21,7 @@ firefox-desktop-download-os-availability = Disponibilitate pro systemas operativ
 firefox-desktop-download-in-browser-screenshot = Utensile de captura de schermo in le navigator
 firefox-desktop-download-master-password = Contrasigno maestro
 firefox-desktop-download-see-your-report = Vide tu reporto de protection
+firefox-desktop-download-review-system-req = Verifica le requisitos del systema
 firefox-desktop-download-search-engine-options = Optiones de motor de recerca
 firefox-desktop-download-bookmarks-manager = Gestor de marcapaginas
 firefox-desktop-download-sync-across-devices = Synchronisar inter apparatos
