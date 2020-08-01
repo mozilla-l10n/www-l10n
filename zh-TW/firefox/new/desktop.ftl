@@ -13,8 +13,13 @@ firefox-desktop-download-meta-title = 下載 { -brand-name-firefox-browser } —
 firefox-desktop-download-og-title = 下載有史以來最快的 { -brand-name-firefox }
 firefox-desktop-download-og-desc = 全新 { -brand-name-firefox } 來了！頁面載入更快、記憶體用量更少，還有更多不同功能。
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽器
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
 firefox-desktop-download-download-options = 下載其他平台與語言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 技術支援
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 與其他瀏覽器比較
 firefox-desktop-download-how-we-compare = 我們與其他瀏覽器的差別
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 與下列瀏覽器:
@@ -34,6 +39,8 @@ firefox-desktop-download-see-your-report = 檢視您的保護報告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-review-system-req = 確認系統需求
 firefox-desktop-download-all-your-devices = 將 { -brand-name-firefox } 安裝到您所有的裝置上
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = { -brand-name-firefox } <strong>都能使用</strong>
 firefox-desktop-download-search-smarter = 搜尋更聰明、更快
 firefox-desktop-download-search-from-address = 從網址列進行搜尋
 firefox-desktop-download-search-engine-options = 搜尋引擎選項
