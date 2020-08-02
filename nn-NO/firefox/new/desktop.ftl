@@ -66,6 +66,7 @@ firefox-desktop-download-curated-content-on = Samla innhald på ny fane
 firefox-desktop-download-share-links = Del lenker
 firefox-desktop-download-protect-your-privacy = Ta vare på personvernet ditt
 firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapslar
+firefox-desktop-download-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
 firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnarar
 firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
 firefox-desktop-download-secure-your-personal = Sikre den personlege informasjonen din
@@ -78,11 +79,15 @@ firefox-desktop-download-themes = Tema
 firefox-desktop-download-dark-mode = Mørk modus
 firefox-desktop-download-library-of-extensions = Bibliotek med utvidingar
 firefox-desktop-download-adjust-search-bar = Juster søkelinjeinnstillingane
+firefox-desktop-download-change-new-tab = Endre ny fane-oppsettet
 firefox-desktop-download-make-firefox-your = Gjer <strong>{ -brand-name-firefox }</strong> til din eigen
 firefox-desktop-download-extensions-for-every = Utvidingar for alle interesser
 firefox-desktop-download-change-up-your = Endre utsjånad
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingane dine
+firefox-desktop-download-theres-no-need = Du trenger ikkje å nøye deg med eitt val. Endre ny fane-sida, søkefeltet, bokmerke og meir for å utforske nettet slik du ønskjer.
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kjem først
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Behald alle favorittfunksjonane dine i nettlesaren — og <strong>oppdag</strong> nye med.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Alle favorittverktøya dine frå { -brand-name-google } (som Gmail og Docs) fungerer saumlaust i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
