@@ -65,6 +65,7 @@ firefox-desktop-download-protect-your-privacy = Ta vare på personvernet ditt
 firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapslar
 firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnarar
 firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
+firefox-desktop-download-secure-your-personal = Sikre den personlege informasjonen din
 firefox-desktop-download-built-in-password = Innebygd passordhandtering
 firefox-desktop-download-clear-history = Tøm historikk
 firefox-desktop-download-form-autofill = Autoutfylling av skjema
@@ -74,7 +75,9 @@ firefox-desktop-download-themes = Tema
 firefox-desktop-download-dark-mode = Mørk modus
 firefox-desktop-download-library-of-extensions = Bibliotek med utvidingar
 firefox-desktop-download-adjust-search-bar = Juster søkelinjeinnstillingane
+firefox-desktop-download-make-firefox-your = Gjer <strong>{ -brand-name-firefox }</strong> til din eigen
 firefox-desktop-download-extensions-for-every = Utvidingar for alle interesser
+firefox-desktop-download-change-up-your = Endre utsjånad
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingane dine
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kjem først
 # Gmail and Docs are product names and should not be translated
@@ -87,6 +90,7 @@ firefox-desktop-download-enhanced-tracking-protection = Utvida sporingsvern (ETP
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-learn-about-the = Les meir om { -brand-name-firefox } for datamaskiner nedanfor
 firefox-desktop-download-get-more-from-firefox = Få meir ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Berre last ned nettlesaren
 
