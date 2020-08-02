@@ -89,6 +89,34 @@ firefox-desktop-download-change-new-tab = Canvieu la disposició de les pestanye
 firefox-desktop-download-make-firefox-your = Feu que el <strong>{ -brand-name-firefox }</strong> sigui realment vostre
 firefox-desktop-download-extensions-for-every = Extensions per a tots els gustos
 firefox-desktop-download-change-up-your = Canvieu d'aspecte
+firefox-desktop-download-go-from-light = Passeu del mode clar al mode fosc segons el vostre estat d'ànim o preferència, o feu-lo lluir amb un tema personalitzat («unicorn en arc de Sant Martí», per exemple).
+firefox-desktop-download-tweak-your-settings = Ajusteu els vostres paràmetres
+firefox-desktop-download-theres-no-need = No cal conformar-se. Canvieu la pàgina de pestanya nova, la barra de cerca, les adreces d'interès i molt més per navegar per Internet com vulgueu.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Amb el suport de l'<strong>organització sense ànim de lucre</strong> que posa les persones per davant
+firefox-desktop-download-challenging-the-status = Desafiant l'status quo des de 1998
+firefox-desktop-download-your-privacy-comes = La vostra privadesa per sobre de tot
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Conserveu totes les funcions preferides del vostre navegador i <strong>descobriu-ne</strong> de noves.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Totes les vostres eines preferides de { -brand-name-google } (com ara el Gmail i Docs) funcionen perfectament en el { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Baixeu aquesta extensió del navegador</a> per tal que el { -brand-name-facebook } (i l'{ -brand-name-instagram }) us facin el seguiment mentre navegueu.
+firefox-desktop-download-sync-your-devices = Sincronitzeu els vostres dispositius
+firefox-desktop-download-screenshots = Captures de pantalla
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protecció contra el seguiment millorada
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-learn-about-the = A continuació trobareu més informació sobre el navegador d'escriptori { -brand-name-firefox }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Ja teniu el navegador. Ara traieu encara més profit del { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Estigueu a l'aguait dels furoners amb el { -brand-name-firefox-monitor }, protegiu les contrasenyes amb el { -brand-name-firefox-lockwise } i molt més.
+firefox-desktop-download-get-more-from-firefox = Traieu més profit del { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Simplement, baixeu el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Gairebé hem acabat!
+firefox-new-firefox-is-more-than-a-browser = El { -brand-name-firefox } és més que un navegador.
