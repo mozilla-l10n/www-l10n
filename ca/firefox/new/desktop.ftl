@@ -84,6 +84,11 @@ firefox-desktop-download-customize-your-browser = Personalitzeu el navegador
 firefox-desktop-download-themes = Temes
 firefox-desktop-download-dark-mode = Mode fosc
 firefox-desktop-download-library-of-extensions = Biblioteca d'extensions
+firefox-desktop-download-adjust-search-bar = Ajusteu els paràmetres de la barra de cerca
+firefox-desktop-download-change-new-tab = Canvieu la disposició de les pestanyes noves
+firefox-desktop-download-make-firefox-your = Feu que el <strong>{ -brand-name-firefox }</strong> sigui realment vostre
+firefox-desktop-download-extensions-for-every = Extensions per a tots els gustos
+firefox-desktop-download-change-up-your = Canvieu d'aspecte
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
