@@ -89,6 +89,11 @@ firefox-desktop-download-change-new-tab = Cambia mappa del nove schedas
 firefox-desktop-download-make-firefox-your = Personalisa tu <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Extensiones pro tote le interesses
 firefox-desktop-download-change-up-your = Cambia tu apparentia
+firefox-desktop-download-go-from-light = Passa ab modo clar a modo obscur secundo tu humor o preferentias o reaviva objectos con un thema personalisate (unicornio del iride, forsan).
+firefox-desktop-download-tweak-your-settings = Pincia tu parametros
+firefox-desktop-download-theres-no-need = Il ha nulle besonio de contentar se. Cambia le apparentia de nove schedas, barra de recerca, marcapaginas e altero ancora pro explorar internet in le maniera que tu desira.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Supportate per le <strong>organisation non-lucrative</strong> que antepone le personas
 firefox-desktop-download-your-privacy-comes = Primo tu confidentialitate.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synchronisa tu apparatos
