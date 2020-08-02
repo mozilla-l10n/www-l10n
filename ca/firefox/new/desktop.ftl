@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Baixeu el { -brand-name-firefox-browser } —ràpid, privat, gratuït— de { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Instal·leu el { -brand-name-firefox }, un navegador web gratuït que té el suport de { -brand-name-mozilla }, l'organització sense ànim de lucre que defensa la salut d'Internet i la vostra privadesa. Disponible per al { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
 firefox-desktop-download-og-title = Baixeu el { -brand-name-firefox } més ràpid que mai
 firefox-desktop-download-og-desc = El nou { -brand-name-firefox } ja és aquí: carrega les pàgines més ràpid, consumeix menys memòria i està farcit de noves funcions.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -20,6 +21,7 @@ firefox-desktop-download-download-options = Opcions de baixada i altres idiomes
 firefox-desktop-download-browser-support = Assistència del { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Feu allò que vulgueu a la xarxa.<br>El { -brand-name-firefox-browser } <strong>no us espia</strong>.
+firefox-desktop-download-how-firefox-compares = Compareu el { -brand-name-firefox } amb altres navegadors
 firefox-desktop-download-how-we-compare = Com fem la comparació amb altres navegadors
 firefox-desktop-download-compare-firefox-to = Compareu el { -brand-name-firefox } amb:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
