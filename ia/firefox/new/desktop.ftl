@@ -94,13 +94,24 @@ firefox-desktop-download-tweak-your-settings = Pincia tu parametros
 firefox-desktop-download-theres-no-need = Il ha nulle besonio de contentar se. Cambia le apparentia de nove schedas, barra de recerca, marcapaginas e altero ancora pro explorar internet in le maniera que tu desira.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Supportate per le <strong>organisation non-lucrative</strong> que antepone le personas
+firefox-desktop-download-challenging-the-status = Defiante le stato quo desde 1998
 firefox-desktop-download-your-privacy-comes = Primo tu confidentialitate.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Mantene tote tu favorite functionalitates del navigator  e <strong>discoperi</strong> illos nove.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Tote tu favorite applicationes de { -brand-name-google } (como Gmail e Docs) functiona perfectemente in le { -brand-name-firefox-browser }
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Discarga iste extension del navigator</a> pro cessar { -brand-name-facebook } (e { -brand-name-instagram }) de traciar te circum le Web.
 firefox-desktop-download-sync-your-devices = Synchronisa tu apparatos
 firefox-desktop-download-screenshots = Capturas de schermo
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protection antitraciamento reinfortiate (ETP)
+firefox-desktop-download-from-watching-a = De observar un exercitation web a mantenente un oculo sur tu favorite equipa, tu video te seque <t0/>durante tu multitask.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Obtene { -brand-name-firefox-browser } pro <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Obtene { -brand-name-firefox-browser } pro <strong>{ -brand-name-ios }</strong>
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Reguarda te del hackers con { -brand-name-firefox-monitor }, protege tu contrasignos con { -brand-name-firefox-lockwise } e altero ancora.
