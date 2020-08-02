@@ -17,7 +17,7 @@ firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = חבילות של { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = בניית אתרים ושיפור הקוד שלך עם { -brand-name-firefox }<strong> { -brand-name-devtools(case: "unchanged") }</strong>
+firefox-browsers-build-sites-and-refine-your = בניית אתרים ושיפור הקוד שלך עם { -brand-name-firefox } <strong>{ -brand-name-devtools(case: "unchanged") }</strong>
 firefox-browsers-learn-more-about-devtools = מידע נוסף על { -brand-name-devtools(case: "the") }
 firefox-browsers-join-firefox-and-get-the-most = הצטרפו ל־{ -brand-name-firefox } והפיקו את המיטב מכל מוצר — בכל מכשיר.
 # Variables:
