@@ -130,6 +130,9 @@ firefox-desktop-download-firefox-is-available = El { -brand-name-firefox } està
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Captureu una imatge d'alta resolució de qualsevol cosa del Web amb l'eina de <a { $attrs }>captura de pantalla</a> integrada en el navegador
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = El { -brand-name-firefox } automàticament <a { $attrs }>bloca molts elements de seguiment d'altres empreses</a> per impedir que recopilin i venguin les dades de la vostra activitat a Internet.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ja teniu el navegador. Ara traieu encara més profit del { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Estigueu a l'aguait dels furoners amb el { -brand-name-firefox-monitor }, protegiu les contrasenyes amb el { -brand-name-firefox-lockwise } i molt més.
