@@ -14,6 +14,8 @@ firefox-desktop-download-og-title = Last ned den raskaste { -brand-name-firefox 
 firefox-desktop-download-og-desc = Raskare sidelasting, mindre minnebruk og fullstappa med funksjonarr, nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Få nettlesaren som tek vare på det som er viktig
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Ingen lyssky personvernreglar eller bakdører for annonsørar. Berre ein lynrask nettlesar som ikkje sel dataa dine.
 firefox-desktop-download-download-options = Nedlastingsalternativ og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukarstøtte
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -36,6 +38,7 @@ firefox-desktop-download-master-password = Hovudpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
 firefox-desktop-download-see-your-report = Sjå tryggingsrapporten din
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
+firefox-desktop-download-available-in-over = Tilgjengeleg på over 90 språk og kompatibel med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer same kva du brukar eller kvar du er. Forsikre deg om at operativsystemet ditt er oppdatert for best oppleving.
 firefox-desktop-download-review-system-req = Gå gjennom systemkrava
 firefox-desktop-download-all-your-devices = Legg til { -brand-name-firefox } på alle einingane dine
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
