@@ -4,6 +4,8 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = プライバシー
+footer-press = プレスリリース
+footer-brand-standards = ブランド標準
 footer-browsers = ブラウザー
 footer-desktop = デスクトップ
 footer-mobile = モバイル
@@ -24,12 +26,17 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } 版 { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } 版 { -brand-name-beta }
+footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> の非営利の親会社である <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> にアクセスしてください。
 footer-mozilla = { -brand-name-mozilla }
+footer-company = 企業情報
 footer-about = 組織概要
 footer-press-center = プレスセンター
 footer-careers = 採用情報
+footer-test-new-features = 新機能を試す
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = ツール
+footer-resources = リソース
+footer-contact = お問い合わせ
 footer-product-help = 製品ヘルプ
 footer-support = サポート
 footer-community-participation-guidelines = コミュニティ参加ガイドライン
