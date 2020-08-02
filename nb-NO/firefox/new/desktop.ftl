@@ -34,10 +34,14 @@ firefox-desktop-download-blocks-social-trackers = Blokkerer alle sosiale media-s
 firefox-desktop-download-os-availability = OS-tilgjengelighet
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettleseren
 firefox-desktop-download-master-password = Hovedpassord
+firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporere. Du utforsker internett raskere.
+firefox-desktop-download-see-your-report = Se beskyttelsesrapporten din
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-available-in-over = Tilgjengelig på over 90 språk og kompatibel med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer uansett hva du bruker eller hvor du er. Forsikre deg om at operativsystemet ditt er oppdatert for den beste opplevelsen.
 firefox-desktop-download-review-system-req = Gjennomgå systemkravene
 firefox-desktop-download-all-your-devices = Leg til { -brand-name-firefox } på alle enhetene dine
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Gjør <strong>alt</strong> med { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Søk smartere, raskere
 firefox-desktop-download-search-from-address = Søk fra adresselinjen
 firefox-desktop-download-search-engine-options = Innstillinger for søkemotor
@@ -54,6 +58,7 @@ firefox-desktop-download-pinned-tabs = Festede faner
 firefox-desktop-download-block-autoplay-of = Blokker automatisk avspilling av video og lyd
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Bilde-i-bilde
+firefox-desktop-download-curated-content-on = Samlet innhold på ny fane-siden
 firefox-desktop-download-share-links = Del lenker
 firefox-desktop-download-protect-your-privacy = Beskytt ditt personvern
 firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapsler
@@ -86,7 +91,7 @@ firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-br
 firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Ta et høyoppløselig bilde av hva som helst på nettet med vårt <a { $attrs }>skjermbilde</a>-verktøy som er bygget rett i nettleseren
+firefox-desktop-download-grab-a-high = Ta et bilde med høyoppløselig av hva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettleseren
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokkerer automatisk <a { $attrs }>mange tredjeparts-sporere</a> fra å samle inn og selge nettaktiviteten din.
