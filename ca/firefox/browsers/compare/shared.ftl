@@ -29,12 +29,12 @@ compare-shared-syncs-with-mobile = Se sincronitza amb el mòbil
 compare-shared-password-management = Gestió de contrasenyes
 compare-shared-master-password = Contrasenya mestra
 compare-shared-security-and-privacy = Seguretat i privadesa
-compare-shared-utility = Utilitat
+compare-shared-utility = Funcionalitat
 compare-shared-portability = Portabilitat
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Seguretat i <strong>privadesa</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Utilitat</strong>
+compare-shared-utility-strong = <strong>Funcionalitat</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilitat</strong>
 compare-shared-overall-assessment = Avaluació general
@@ -48,3 +48,8 @@ compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
 compare-shared-download-firefox = Baixa el { -brand-name-firefox }
 compare-shared-download-firefox-browser = Baixa el { -brand-name-firefox-browser }
+compare-shared-download-the-app = Baixa l'aplicació
+compare-shared-desktop = Escriptori
+compare-shared-brand-name-android = { -brand-name-android }
+compare-shared-brand-name-ios = { -brand-name-ios }
+compare-shared-compare-browsers = Compareu els navegadors
