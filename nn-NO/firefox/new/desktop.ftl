@@ -11,6 +11,7 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Last ned { -brand-name-firefox-browser } frå { -brand-name-mozilla } — rask, privat og gratis
 firefox-desktop-download-og-title = Last ned den raskaste { -brand-name-firefox } nokon gong
+firefox-desktop-download-og-desc = Raskare sidelasting, mindre minnebruk og fullstappa med funksjonarr, nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Få nettlesaren som tek vare på det som er viktig
 firefox-desktop-download-download-options = Nedlastingsalternativ og andre språk
@@ -18,6 +19,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } bruka
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Gjer det du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvakar</strong> deg ikkje.
 firefox-desktop-download-how-firefox-compares = Korleis { -brand-name-firefox } vert samanlikna med andre nettlesarar
+firefox-desktop-download-how-we-compare = Korleis vi samanliknar med andre nettlesarar
 firefox-desktop-download-compare-firefox-to = Samanlikn { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -36,6 +38,8 @@ firefox-desktop-download-see-your-report = Sjå tryggingsrapporten din
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-review-system-req = Gå gjennom systemkrava
 firefox-desktop-download-all-your-devices = Legg til { -brand-name-firefox } på alle einingane dine
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Ger <strong>alt</strong> med { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Søk smartare, raskare
 firefox-desktop-download-search-from-address = Søk frå adresselinja
 firefox-desktop-download-search-engine-options = Innstillingar for søkjemotor
@@ -43,11 +47,14 @@ firefox-desktop-download-smart-search-suggestions = Smarte søkjeforslag
 firefox-desktop-download-bookmark-history = Bokmerke, historikk og open fane i resultat
 firefox-desktop-download-boost-your = Auk produktiviteten
 firefox-desktop-download-works-with-google = Fungerer med { -brand-name-google }-produkt
+firefox-desktop-download-built-in-screenshot = Innebygd skjermbildeverktøy
 firefox-desktop-download-bookmarks-manager = Bokmerkehandterar
+firefox-desktop-download-autosuggest-urls = Føreslå URL-ar automatisk
 firefox-desktop-download-sync-across-devices = Synk på tvers av einingar
 firefox-desktop-download-reader-mode = Lesemodus
 firefox-desktop-download-spell-check = Stavekontroll
 firefox-desktop-download-pinned-tabs = Festa faner
+firefox-desktop-download-stream-share-play = Strøym, del og spel
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Blokker automatisk avspeling av video og lyd
 # Picture-in-Picture is a feature names and so is capitalized in English
