@@ -27,6 +27,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } 版 { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } 版 { -brand-name-beta }
 footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> の非営利の親会社である <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> にアクセスしてください。
+footer-portions-of-this-content = ©1998–{ $current_year } コンテンツの一部は個々の mozilla.org への貢献者によるものです。コンテンツは <a rel="license" href="{ $url }">{ -brand-name-creative-commons } ライセンス</a> に基づき利用可能です。
 footer-mozilla = { -brand-name-mozilla }
 footer-company = 企業情報
 footer-about = 組織概要
@@ -39,6 +40,7 @@ footer-resources = リソース
 footer-contact = お問い合わせ
 footer-product-help = 製品ヘルプ
 footer-support = サポート
+footer-file-a-bug = バグを報告
 footer-community-participation-guidelines = コミュニティ参加ガイドライン
 footer-websites-privacy-notice = ウェブサイトのプライバシー通知
 footer-websites-cookies = Cookie
