@@ -36,17 +36,20 @@ firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ye una 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } unvia automáticamente información a { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Prueba les carauterístiques nueves del restolador nes versiones de prellanzamientu | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Esperimenta les carauterístiques más nueves nes versiones de prellanzamientu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Báxales agora!
-firefox-channel-download-and-test-the-latest-desktop = Baxa y prueba lo cabero de { -brand-name-firefox } pa escritoriu coles versiones { -brand-name-developer-edition }, { -brand-name-beta } y { -brand-name-nightly }.
+firefox-channel-download-and-test-the-latest-desktop = Baxa y prueba lo último de { -brand-name-firefox } pa escritoriu coles versiones { -brand-name-developer-edition }, { -brand-name-beta } y { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
-firefox-channel-test-about-to-be-released = Prueba carauterístiques por llanzar na versión más estable de pre-llanzamientu.
+firefox-channel-test-about-to-be-released = Prueba carauterístiques por llanzar na versión más estable de prellanzamientu.
 firefox-channel-release-notes = Notes de llazamientu
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Constrúi, prueba, escala y más col únicu restolador fechu pa desendolcadores.
-firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } unvia información de mou automáticu a { -brand-name-mozilla }.
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ye una plataforma de desendolcu y pruebes. Por defeutu, { -brand-name-developer-edition } unvia datos a { -brand-name-mozilla }, y a vegaes a los nuesos socios, p'ayudanos a remanar los problemes y probar idees. <a href="{ $link }">Sabi lo que se comparte</a>.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } unvia automáticamente información a { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = Écha-y un güeyu al nuesu restolador de la próxima xeneración y ayúdamos a facelu lo meyor que se puea. Prueba { -brand-name-firefox-nightly }.
+firefox-channel-get-a-sneak-peek-at-our = Écha-y un güeyu al futuru del nuesu restolador y ayúdamos a convertilu nel meyor. Prueba { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Prueba carauterístiques nueves caldía (o… pela nueche). Esfruta sol to propiu riesgu.
-firefox-channel-try-new-features-in-a-pre-release = Prueba les carauterístiques nueves na versión de pre-llanzamientu del restolador pa { -brand-name-ios } | { -brand-name-firefox }
+firefox-channel-try-new-features-in-a-pre-release = Prueba les carauterístiques nueves na versión de prellanzamientu del restolador pa { -brand-name-ios } | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Esperimenta les carauterístiques más nueves nuna versión pre-llanzamientu del restolador pa { -brand-name-ios } pente'l programa { -brand-name-test-flight } d'{ -brand-name-apple }. ¡Instalálu agora!
 firefox-channel-test-beta-versions-of-firefox-ios-long = Prueba les versiones beta pa { -brand-name-ios } pente'l programa { -brand-name-test-flight } d'{ -brand-name-apple } y ayúdamos a facer el nuesu restolador pa { -brand-name-iphone }, { -brand-name-ipad } y iPod touch tovía meyor.
 firefox-channel-test-flight = { -brand-name-test-flight }
