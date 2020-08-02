@@ -90,7 +90,12 @@ firefox-desktop-download-enhanced-tracking-protection = Utvida sporingsvern (ETP
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Last ned { -brand-name-firefox }-mobilnettlesar for automatisk vern på alle einingane dine.
 firefox-desktop-download-learn-about-the = Les meir om { -brand-name-firefox } for datamaskiner nedanfor
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Frå sikkerheit til nyheiter til spel, finst det eit <a { $attrs }> tillegg for alle </a>. Legg til så mange du vil, til nettlesaren fungerer som du vil.
 firefox-desktop-download-get-more-from-firefox = Få meir ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Berre last ned nettlesaren
 
