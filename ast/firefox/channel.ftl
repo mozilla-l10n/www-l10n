@@ -35,7 +35,7 @@ firefox-channel-nightly-blog = Blogue de { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ye una plataforma de desendolcu y pruebes inestable. Por defeutu, { -brand-name-nightly } unvia datos a { -brand-name-mozilla }, y a vegaes a los nuesos socios, p'ayudanos a remanar los problemes y probar idees.<a href="{ $link }"> Sabi lo que se comparte</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } unvia automáticamente información a { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Prueba les carauterístiques nueves del restolador nes versiones de prellanzamientu | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-desktop = Esperimenta les carauterístiques más nueves nes versiones de pre-llanzamientu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Instálales agora!
+firefox-channel-experience-cutting-edge-desktop = Esperimenta les carauterístiques más nueves nes versiones de prellanzamientu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Báxales agora!
 firefox-channel-download-and-test-the-latest-desktop = Baxa y prueba lo cabero de { -brand-name-firefox } pa escritoriu coles versiones { -brand-name-developer-edition }, { -brand-name-beta } y { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Prueba carauterístiques por llanzar na versión más estable de pre-llanzamientu.
