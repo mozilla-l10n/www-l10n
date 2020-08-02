@@ -23,7 +23,7 @@ firefox-desktop-download-browser-support = Assistència del { -brand-name-firefo
 firefox-desktop-download-do-what-you-do = Feu allò que vulgueu a la xarxa.<br>El { -brand-name-firefox-browser } <strong>no us espia</strong>.
 firefox-desktop-download-how-firefox-compares = Compareu el { -brand-name-firefox } amb altres navegadors
 firefox-desktop-download-get-all-the-speed = Obteniu tota la velocitat i totes les eines sense cap invasió a la vostra privadesa. El { -brand-name-firefox-browser } recull tan poques dades vostres que ni tan sols demanem una adreça electrònica per baixar-lo. Això és perquè, a diferència d'altres navegadors, no tenim cap interès econòmic en seguir-vos mentre navegueu.
-firefox-desktop-download-how-we-compare = Com fem la comparació amb altres navegadors
+firefox-desktop-download-how-we-compare = Vegeu la comparació amb altres navegadors
 firefox-desktop-download-compare-firefox-to = Compareu el { -brand-name-firefox } amb:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -108,8 +108,28 @@ firefox-desktop-download-sync-your-devices = Sincronitzeu els vostres dispositiu
 firefox-desktop-download-screenshots = Captures de pantalla
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protecció contra el seguiment millorada
+firefox-desktop-download-from-watching-a = Des de veure un tutorial web fins a donar un cop d'ull al vostre equip preferit: el vídeo us segueix mentre feu multitasca.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Baixeu el { -brand-name-firefox-browser } per a l'<strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Baixeu el { -brand-name-firefox-browser } per a l'<strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Baixeu el navegador mòbil { -brand-name-firefox } i gaudiu d'una protecció automàtica en tots els vostres dispositius.
 firefox-desktop-download-learn-about-the = A continuació trobareu més informació sobre el navegador d'escriptori { -brand-name-firefox }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De seguretat, de notícies o de jocs: hi ha una <a { $attrs }>extensió per a cadascú</a>. Afegiu-ne tantes com vulgueu fins que us sentiu a gust amb el navegador.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = El { -brand-name-firefox } està creat per <a { $attrs }>{ -brand-name-mozilla }</a> com una alternativa més ràpida i privada a navegadors com el { -brand-name-ie }, i ara el { -brand-name-chrome }. Avui, la nostra empresa guiada per una missió i la comunitat de voluntaris continuen posant la vostra privadesa per sobre de tot.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = A mesura que Internet creix i canvia, el { -brand-name-firefox } continua centrant-se en el vostre dret a la privadesa (l'anomenem  <a { $attrs }>Promesa sobre les dades personals</a>): recollir menys dades, mantenir-les segures i sense secrets. Les vostres dades, la vostra activitat al Web i la vostra vida digital estan protegides amb el { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = El { -brand-name-firefox } està disponible en tots els dispositius; accediu a les vostres pestanyes, a l'historial i a les adreces d'interès des de qualsevol lloc. Només necessiteu un <a { $attrs }>compte del { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Captureu una imatge d'alta resolució de qualsevol cosa del Web amb l'eina de <a { $attrs }>captura de pantalla</a> integrada en el navegador
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ja teniu el navegador. Ara traieu encara més profit del { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Estigueu a l'aguait dels furoners amb el { -brand-name-firefox-monitor }, protegiu les contrasenyes amb el { -brand-name-firefox-lockwise } i molt més.
