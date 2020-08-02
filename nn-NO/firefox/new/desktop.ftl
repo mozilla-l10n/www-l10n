@@ -42,7 +42,7 @@ firefox-desktop-download-available-in-over = Tilgjengeleg på over 90 språk og 
 firefox-desktop-download-review-system-req = Gå gjennom systemkrava
 firefox-desktop-download-all-your-devices = Legg til { -brand-name-firefox } på alle einingane dine
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-it-all = Ger <strong>alt</strong> med { -brand-name-firefox }
+firefox-desktop-download-do-it-all = Gjer <strong>alt</strong> med { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Søk smartare, raskare
 firefox-desktop-download-search-from-address = Søk frå adresselinja
 firefox-desktop-download-search-engine-options = Innstillingar for søkjemotor
@@ -52,7 +52,7 @@ firefox-desktop-download-boost-your = Auk produktiviteten
 firefox-desktop-download-works-with-google = Fungerer med { -brand-name-google }-produkt
 firefox-desktop-download-built-in-screenshot = Innebygd skjermbildeverktøy
 firefox-desktop-download-bookmarks-manager = Bokmerkehandterar
-firefox-desktop-download-autosuggest-urls = Føreslå URL-ar automatisk
+firefox-desktop-download-autosuggest-urls = Føreslå nettadresser automatisk
 firefox-desktop-download-sync-across-devices = Synk på tvers av einingar
 firefox-desktop-download-reader-mode = Lesemodus
 firefox-desktop-download-spell-check = Stavekontroll
@@ -106,7 +106,7 @@ firefox-desktop-download-learn-about-the = Les meir om { -brand-name-firefox } f
 firefox-desktop-download-from-security-to = Frå sikkerheit til nyheiter til spel, finst det eit <a { $attrs }> tillegg for alle </a>. Legg til så mange du vil, til nettlesaren fungerer som du vil.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Ta eit bilde med høg oppløying av kva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøy vårt som er innebygd i nettlesaren
+firefox-desktop-download-grab-a-high = Ta eit bilde med høg oppløying av kva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettlesaren
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokkerer automatisk <a { $attrs }>mange tredjeparts-sporarar</a> frå å samle inn og selje nettaktiviteten din.
