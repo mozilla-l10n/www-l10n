@@ -49,11 +49,14 @@ firefox-desktop-download-smart-search-suggestions = Smarte søkeforslag
 firefox-desktop-download-bookmark-history = Bokmerke, historikk og åpen fane i resultater
 firefox-desktop-download-boost-your = Øk produktiviteten
 firefox-desktop-download-works-with-google = Fungerer med { -brand-name-google }-produkter
+firefox-desktop-download-built-in-screenshot = Innebygd skjermbildeverktøy
 firefox-desktop-download-bookmarks-manager = Bokmerkebehandler
+firefox-desktop-download-autosuggest-urls = Foreslå nettadresser automatisk
 firefox-desktop-download-sync-across-devices = Synk på tvers av enheter
 firefox-desktop-download-reader-mode = Lesemodus
 firefox-desktop-download-spell-check = Stavekontroll
 firefox-desktop-download-pinned-tabs = Festede faner
+firefox-desktop-download-stream-share-play = Strøm, del og spill
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Blokker automatisk avspilling av video og lyd
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -73,7 +76,9 @@ firefox-desktop-download-themes = Tema
 firefox-desktop-download-dark-mode = Mørk modus
 firefox-desktop-download-library-of-extensions = Bibliotek med utvidelser
 firefox-desktop-download-adjust-search-bar = Juster søkelinjens innstillinger
+firefox-desktop-download-make-firefox-your = Gjør <strong>{ -brand-name-firefox }</strong> til din egen
 firefox-desktop-download-extensions-for-every = Utvidelser for alle interesser
+firefox-desktop-download-change-up-your = Endre utseendet
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingene dine
 firefox-desktop-download-theres-no-need = Du trenger ikke å nøye deg med ett valg. Endre ny fane-siden, søkefeltet, bokmerker og mer for å utforske nettet slik du ønsker.
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kommer først
