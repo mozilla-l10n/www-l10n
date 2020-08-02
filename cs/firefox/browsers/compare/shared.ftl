@@ -29,16 +29,17 @@ compare-shared-syncs-with-mobile = Synchronizace s mobilem
 compare-shared-password-management = Správce hesel
 compare-shared-master-password = Hlavní heslo
 compare-shared-security-and-privacy = Zabezpečení a soukromí
-compare-shared-utility = Použitelnost
+compare-shared-utility = Funkcionalita
 compare-shared-portability = Přenositelnost
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Zabezpečení a <strong>soukromí</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Použitelnost</strong>
+compare-shared-utility-strong = <strong>Funkcionalita</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Přenositelnost</strong>
 compare-shared-overall-assessment = Celkové hodnocení
 compare-shared-the-comparisons-made-here = Při porovnávání jsme vycházeli z následujících verzí prohlížečů:
+compare-shared-this-page-updated-semi-quarterly = Tato stránka se aktualizuje jednou za měsíc a půl, aby zohledňovala nejnovější verze a nemusí vždy zohledňovat nejnovější vydané aktualizace.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

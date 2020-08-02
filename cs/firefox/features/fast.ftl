@@ -18,4 +18,4 @@ features-fast-get-all-the-tabs-without-lags = Panely bez záseků
 features-fast-multi-tasking-with-multiple = Používání více panelů je teď jednodušší. { -brand-name-firefox } teď má více procesů, to znamená, že už otevírání jednotlivých panelů nebude trvat věčnost. Snížili jsme počet zasekávání o 86%, takže můžete mít otevřených panelů ještě více.
 features-fast-level-up-browser-gameplay = Hry v prohlížeči na úplně jiné úrovni
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
-features-fast-we-led-the-tech-to-run-3d-games = Dovedli jsme technologie pro 3D hry téměř k dokonalé rychlosti, takže jsou teď internetové hry ve { -brand-name-firefox }u mnohem rychlejší. Náš výkoný prohlížeč snižuje prodlevy, zrychluje odezvu a vůbec je optimalizovaný pro rychlejší hraní i prohlížení.
+features-fast-we-led-the-tech-to-run-3d-games = Dovedli jsme technologie pro 3D hry téměř k dokonalé rychlosti, takže jsou teď internetové hry ve { -brand-name-firefox(case: "loc") } mnohem rychlejší. Náš výkoný prohlížeč snižuje prodlevy, zrychluje odezvu a vůbec je optimalizovaný pro rychlejší hraní i prohlížení.

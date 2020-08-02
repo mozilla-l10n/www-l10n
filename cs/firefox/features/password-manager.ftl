@@ -8,14 +8,14 @@
 # HTML page title
 password-manager-firefox-browser = { -brand-name-firefox-browser }: rychlý a jednoduchý správce hesel
 # HTML page description
-password-manager-firefox-password = Správce hesel ve { -brand-name-firefox }u ukládá všechna vaše hesla na jednom místě, abyste se mohli automaticky přihlásit nebo jednoduše obnovit svá zapomenutá hesla.
+password-manager-firefox-password = Správce hesel ve { -brand-name-firefox(case: "loc") } ukládá všechna vaše hesla na jednom místě, abyste se mohli automaticky přihlásit nebo jednoduše obnovit svá zapomenutá hesla.
 # Hero title
 password-manager-password-manager = Úspěch odemčen - Správce hesel
 password-manager-give-up-the-memory = Se správcem hesel ve { -brand-name-firefox(case: "loc") } už nemusíte lovit hesla ve své paměti.
 password-manager-password-hero = Hrdina hesel
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
-password-manager-forget-the-reset = Rozlučte se s obnovováním hesla. Správce přihlášení ve { -brand-name-firefox }u si všechna vaše hesla zapamatuje, takže se můžete přihlašovat automaticky a snadno najít svá uložená hesla. Pro extra zabezpečení můžete na svém počítači nastavit <a href="{ $url }">hlavní heslo</a>.
+password-manager-forget-the-reset = Rozlučte se s obnovováním hesla. Správce hesel ve { -brand-name-firefox(case: "loc") } si všechna vaše hesla zapamatuje, takže se můžete přihlašovat automaticky a snadno najít svá uložená hesla. Pro extra zabezpečení můžete na svém počítači nastavit <a href="{ $url }">hlavní heslo</a>.
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja hesel

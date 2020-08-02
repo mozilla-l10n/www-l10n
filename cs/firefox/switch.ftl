@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Přejděte z { -brand-name-chrome(case: "gen") } na { -brand-name-firefox(case: "acc") } během pár minut
+switch-switching-to-firefox-is-fast-updated = Přechod na { -brand-name-firefox(case: "acc") } je rychlý, snadný a bez rizika, protože { -brand-name-firefox } dokáže z { -brand-name-chrome(case: "gen") } automaticky importovat vaše záložky, hesla i nastavení.
 switch-switching-to-firefox-is-fast = Přechod na { -brand-name-firefox(case: "acc") } je rychlý, snadný a bez rizika, protože { -brand-name-firefox } dokáže z { -brand-name-chrome(case: "gen") } automaticky importovat vaše záložky, hesla i automatické vyplňování formulářů.
+switch-switching-to-firefox-page-description-updated = Přechod na { -brand-name-firefox(case: "acc") } je rychlý, snadný a bez rizika. { -brand-name-firefox } dokáže z { -brand-name-chrome(case: "gen") } automaticky importovat vaše záložky, hesla i nastavení.
 switch-switching-to-firefox-page-description = Přechod na { -brand-name-firefox(case: "acc") } je rychlý, snadný a bez rizika. { -brand-name-firefox } dokáže z { -brand-name-chrome(case: "gen") } automaticky importovat vaše záložky, hesla i automatické vyplňování formulářů.
 switch-select-what-to-take = Vyberte, co si chcete z { -brand-name-chrome(case: "gen") } odnést.
 switch-let-firefox-do-the-rest = Nechte { -brand-name-firefox(case: "acc") } udělat zbytek.

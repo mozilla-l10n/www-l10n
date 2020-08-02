@@ -23,7 +23,17 @@
         [ins] Facebookem
     }
     .gender = masculine
--brand-name-github = GitHub
+-brand-name-github =
+    { $case ->
+       *[nom] GitHub
+        [gen] GitHubu
+        [dat] GitHubu
+        [acc] GitHub
+        [voc] GitHube
+        [loc] GitHubu
+        [ins] GitHubem
+    }
+    .gender = masculine
 -brand-name-google =
     { $case ->
        *[nom] Google
@@ -59,7 +69,17 @@
     .gender = feminine
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-twitter = Twitter
+-brand-name-twitter =
+    { $case ->
+       *[nom] Twitter
+        [gen] Twitteru
+        [dat] Twitteru
+        [acc] Twitter
+        [voc] Twittere
+        [loc] Twitteru
+        [ins] Twitterem
+    }
+    .gender = masculine
 
 ## Firefox browsers
 
@@ -74,7 +94,17 @@
         [ins] Firefoxem
     }
     .gender = masculine
--brand-name-firefox-beta = Firefox Beta
+-brand-name-firefox-beta =
+    { $case ->
+       *[nom] Firefox Beta
+        [gen] Firefoxu Beta
+        [dat] Firefoxu Beta
+        [acc] Firefox Beta
+        [voc] Firefoxe Beta
+        [loc] Firefoxu Beta
+        [ins] Firefoxem Beta
+    }
+    .gender = masculine
 -brand-name-firefox-browser =
     { $case ->
        *[nom]
@@ -166,6 +196,7 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
 
 ## Firefox products
 
@@ -359,7 +390,17 @@
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-thunderbird = Thunderbird
+-brand-name-thunderbird =
+    { $case ->
+       *[nom] Thunderbird
+        [gen] Thunderbirdu
+        [dat] Thunderbirdu
+        [acc] Thunderbird
+        [voc] Thunderbirde
+        [loc] Thunderbirdu
+        [ins] Thunderbirdem
+    }
+    .gender = masculine
 
 ## Mozilla projects (short names)
 
@@ -483,10 +524,30 @@
 
 ## Facebook products
 
--brand-name-instagram = Instagram
+-brand-name-instagram =
+    { $case ->
+       *[nom] Instagram
+        [gen] Instagramu
+        [dat] Instagramu
+        [acc] Instagram
+        [voc] Instagrame
+        [loc] Instagramu
+        [ins] Instagramem
+    }
+    .gender = masculine
 
 ## Google products
 
--brand-name-chromium = Chromium
+-brand-name-chromium =
+    { $case ->
+       *[nom] Chromium
+        [gen] Chromia
+        [dat] Chromiu
+        [acc] Chromium
+        [voc] Chromium
+        [loc] Chromiu
+        [ins] Chromiem
+    }
+    .gender = neuter
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube

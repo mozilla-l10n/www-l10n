@@ -10,10 +10,10 @@ features-private-browsing-private-browser = Anonymní prohlížení s extra ochr
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } chrání vaše soukromí na internetu a blokuje prvky, které se vás snaží sledovat.
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Větší ochrana. Méně starostí.
-features-private-browsing-were-obsessed-with = Ochranou vašeho soukromí jsme posedlí. Proto je anonymní prohlížení ve { -brand-name-firefox }u silnější než konkurence.
+features-private-browsing-were-obsessed-with = Ochranou vašeho soukromí jsme posedlí. Proto je anonymní prohlížení ve { -brand-name-firefox(case: "loc") } silnější než konkurence.
 features-private-browsing-browse-without = Prohlížejte beze stop
-features-private-browsing-sharing-is-caring = O sdílení byste měli rozhodovat vy sami. Anonymní prohlížení ve { -brand-name-firefox }u automaticky smaže z počítače vaše online informace jako hesla, cookies a historii. Takže po jeho zavření nezanecháte žádné stopy.
+features-private-browsing-sharing-is-caring = O sdílení byste měli rozhodovat vy sami. Anonymní prohlížení ve { -brand-name-firefox(case: "loc") } automaticky smaže z počítače vaše online informace jako hesla, cookies a historii. Takže po jeho zavření nezanecháte žádné stopy.
 features-private-browsing-catch-those-hidden = Načapejte skryté sledovací prvky
-features-private-browsing-some-websites-and = Některé webové stránky a reklamy obsahují skryté sledovací prvky a sbírají o vás data i potom, co jste šli někam dál. Jen anonymní prohlížení ve { -brand-name-firefox }u je dokáže automaticky blokovat.
+features-private-browsing-some-websites-and = Některé webové stránky a reklamy obsahují skryté sledovací prvky a sbírají o vás data i potom, co jste šli někam dál. Jen anonymní prohlížení ve { -brand-name-firefox(case: "loc") } je dokáže automaticky blokovat.
 features-private-browsing-shake-off-tracking = Zbavte se zátěže
-features-private-browsing-not-only-do-trackers = Sledovací prvky nejen že sbírají data, ale také zpomalují prohlížení. Jenom anonymní prohlížení ve { -brand-name-firefox }u blokuje reklamy se skrytým sledováním, takže můžete odhodit zátěž a volně prohlížet.
+features-private-browsing-not-only-do-trackers = Sledovací prvky nejen že sbírají data, ale také zpomalují prohlížení. Jenom anonymní prohlížení ve { -brand-name-firefox(case: "loc") } blokuje reklamy se skrytým sledováním, takže můžete odhodit zátěž a volně prohlížet.

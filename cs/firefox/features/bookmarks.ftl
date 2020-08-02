@@ -20,7 +20,7 @@ features-bookmarks-fly-with-that-bookmark = Vezměte si záložku s sebou do sv�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Vezměte si své záložky s sebou. Díky službě { -brand-name-firefox-sync } můžete přistupovat k záložkám na všech svých zařízeních - od počítače po telefon. Nebo vyzkoušejte <a href="{ $url }">{ -brand-name-pocket }</a> a uložte si do něj články nebo stránky, které si chcete přečíst později - klidně i bez připojení k internetu.
+features-bookmarks-take-your-favorites-on = Vezměte si své záložky s sebou. Díky službě { -brand-name-firefox-sync } můžete přistupovat k záložkám na všech svých zařízeních - od počítače po telefon. Nebo vyzkoušejte <a href="{ $url }">{ -brand-name-pocket(case: "acc") }</a> a uložte si do něj články nebo stránky, které si chcete přečíst později - klidně i bez připojení k internetu.
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Vypilujte je k dokonalosti

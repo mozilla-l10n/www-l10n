@@ -8,11 +8,11 @@
 # HTML page title
 welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise } - Správce hesel, který vám zpřístupní hesla, kdekoliv potřebujete
 welcome-page5-theres-an-easier-way-to-deal = Nejsnazší způsob, jak zacházet se svými hesly
-welcome-page5-let-firefox-save-them-for = Nechte { -brand-name-firefox } ukládat vaše hesla. Poté použijte { -brand-name-firefox-lockwise } a přistupujte k nim bezpečně z jakékoliv aplikace na jakémkoliv zařízení.
+welcome-page5-let-firefox-save-them-for = Nechte { -brand-name-firefox(case: "acc") } ukládat vaše hesla. Poté použijte { -brand-name-firefox-lockwise(case: "acc") } a přistupujte k nim bezpečně z jakékoliv aplikace na jakémkoliv zařízení.
 welcome-page5-get-the-lockwise-app = Získat aplikaci { -brand-name-lockwise }
-welcome-page5-get-firefox-lockwise-on-your = Získat { -brand-name-firefox-lockwise } pro váš telefon
+welcome-page5-get-firefox-lockwise-on-your = Získat { -brand-name-firefox-lockwise(case: "acc") } pro váš telefon
 welcome-page5-send-the-download-link-right = Poslat odkaz ke stažení do vašeho telefonu nebo e-mailem.
-welcome-page5-download-firefox-lockwise = Stáhněte si { -brand-name-firefox-lockwise } do svého telefonu a tabletu.
+welcome-page5-download-firefox-lockwise = Stáhněte si { -brand-name-firefox-lockwise(case: "acc") } do svého telefonu a tabletu.
 welcome-page5-scan-this-qr-code = Naskenujte tento QR kód
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
 welcome-page5-sync-up-safely = Bezpečná synchronizace
