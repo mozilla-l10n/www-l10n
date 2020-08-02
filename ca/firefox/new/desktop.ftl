@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = Assistència del { -brand-name-firefo
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Feu allò que vulgueu a la xarxa.<br>El { -brand-name-firefox-browser } <strong>no us espia</strong>.
 firefox-desktop-download-how-firefox-compares = Compareu el { -brand-name-firefox } amb altres navegadors
+firefox-desktop-download-get-all-the-speed = Obteniu tota la velocitat i totes les eines sense cap invasió a la vostra privadesa. El { -brand-name-firefox-browser } recull tan poques dades vostres que ni tan sols demanem una adreça electrònica per baixar-lo. Això és perquè, a diferència d'altres navegadors, no tenim cap interès econòmic en seguir-vos mentre navegueu.
 firefox-desktop-download-how-we-compare = Com fem la comparació amb altres navegadors
 firefox-desktop-download-compare-firefox-to = Compareu el { -brand-name-firefox } amb:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -60,6 +61,7 @@ firefox-desktop-download-sync-across-devices = Sincronització entre dispositius
 firefox-desktop-download-reader-mode = Mode de lectura
 firefox-desktop-download-spell-check = Corrector ortogràfic
 firefox-desktop-download-pinned-tabs = Pestanyes fixes
+firefox-desktop-download-stream-share-play = Transmeteu en temps real, reproduïu i compartiu-ho
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
