@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Stáhněte si Firefox do svého telefonu s { -brand-name-ios } nebo { -brand-name-android }em
+welcome-page4-download-the-firefox-browser = Stáhněte si { -brand-name-firefox-browser(case: "acc") } do svého telefonu s { -brand-name-ios(case: "ins") } nebo { -brand-name-android(case: "ins") }
 welcome-page4-wallet-keys-phone-firefox = Peněženka. Klíče. Hodinky. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Soukromí na každém vašem zařízení — a žádné sledovací prvky.
 welcome-page4-get-the-firefox-app = Získat { -brand-name-firefox }

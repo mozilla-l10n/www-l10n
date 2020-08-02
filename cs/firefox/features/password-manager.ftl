@@ -6,12 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Prohlížeč Firefox: rychlý a jednoduchý správce hesel
+password-manager-firefox-browser = { -brand-name-firefox-browser }: rychlý a jednoduchý správce hesel
 # HTML page description
 password-manager-firefox-password = Správce hesel ve { -brand-name-firefox }u ukládá všechna vaše hesla na jednom místě, abyste se mohli automaticky přihlásit nebo jednoduše obnovit svá zapomenutá hesla.
 # Hero title
 password-manager-password-manager = Úspěch odemčen - Správce hesel
-password-manager-give-up-the-memory = Se správcem hesel už nemusíte lovit hesla ve své paměti.
+password-manager-give-up-the-memory = Se správcem hesel ve { -brand-name-firefox(case: "loc") } už nemusíte lovit hesla ve své paměti.
 password-manager-password-hero = Hrdina hesel
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Rozlučte se s obnovováním hesla. Správce
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja hesel
-password-manager-no-more-try-again = Už žádné „zkuste to znovu“. Přihlaste se se svým účtem Firefoxu na svém telefonu a vaše hesla půjdou všude s vámi. Vaše přihlašovací údaje se objeví jako lusknutím prstu.
+password-manager-no-more-try-again = Už žádné „zkuste to znovu“. Přihlaste se se svým { -brand-name-firefox-account(case: "ins", capitalization: "lower") } na svém telefonu a vaše hesla půjdou všude s vámi. Vaše přihlašovací údaje se objeví jako lusknutím prstu.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Pán hesel
@@ -27,4 +27,4 @@ password-manager-password-master = Pán hesel
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Zvyšte úroveň svého zabezpečení s některým ze široké nabídky <a href="{ $addons }">doplňků</a> pro správu hesel. Vyberte si jeden z nejoblíbenějších nebo si vyberte na základě hodnocení a recenzí zkušených členů komunity.
+password-manager-earn-your-second = Zvyšte úroveň svého zabezpečení s některým ze široké nabídky <a href="{ $addons }">doplňků</a> pro správu hesel ve { -brand-name-firefox(case: "loc") }. Vyberte si jeden z nejoblíbenějších nebo si vyberte na základě hodnocení a recenzí zkušených členů komunity.

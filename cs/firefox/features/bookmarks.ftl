@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Prohlížeč Firefox: Lepší záložky kamkoli se vydáte
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Lepší záložky kamkoli se vydáte
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Jednoduše zorganizujte své záložky do složek a přistupujte k nim napříč svými zařízeními - od počítače až po telefony.
 features-bookmarks-better-bookmarks = Lepší záložky

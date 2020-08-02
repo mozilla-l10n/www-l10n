@@ -23,17 +23,17 @@ firefox-channel-all-languages-and-platforms = Všechny jazyky a platformy
 firefox-channel-all-languages-and-builds = Všechny jazyky a verze
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta }verze jsou určené pro testování a vývoj a nemusí být stabilní. Za účelem řešení problémů, testování betaverze ve výchozím stavu odesílají data Mozille a někdy i našim partnerům. <a href="{ $link }">Sdílená data jsou popsána zde</a>.
-firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } automaticky odesílá zpětnou vazbu Mozille.
+firefox-channel-beta-is-an-unstable-testing = Verze { -brand-name-beta(case: "gen") } jsou určené pro testování a vývoj a nemusí být stabilní. Za účelem řešení problémů, testování betaverze ve výchozím stavu odesílají data { -brand-name-mozilla(case: "dat") } a někdy i našim partnerům. <a href="{ $link }">Sdílená data jsou popsána zde</a>.
+firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } automaticky odesílá zpětnou vazbu { -brand-name-mozilla(case: "dat") }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Zašlete nám zpětnou vazbu</a> a pomozte nám zlepšit rychlost i funkcionalitu ve finálních verzích Firefoxu.
 firefox-channel-check-out-new-android-features = Podívejte se na nové funkce pro { -brand-name-android } v jejich nejranější fázi. Zážitek na vlastní nebezpečí.
-firefox-channel-nightly-blog = Blog Nighly
+firefox-channel-nightly-blog = Blog { -brand-name-nightly(case: "gen") }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } verze jsou určené pro testování a vývoj a nemusí být stabilní. Ve výchozím stavu { -brand-name-nightly } odesílá data Mozille a někdy i našim partnerům, za účelem řešení problémů a testování. <a href="{ $link }">Sdílená data jsou popsána zda</a>.
-firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } automaticky odesílá zpětnou vazbu Mozille.
+firefox-channel-nightly-is-an-unstable-testing = Verze { -brand-name-nightly(case: "gen") } jsou určené pro testování a vývoj a nemusí být stabilní. Ve výchozím stavu { -brand-name-nightly } odesílá data { -brand-name-mozilla(case: "dat") } a někdy i našim partnerům, za účelem řešení problémů a testování. <a href="{ $link }">Sdílená data jsou popsána zda</a>.
+firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } automaticky odesílá zpětnou vazbu { -brand-name-mozilla(case: "dat") }.
 firefox-channel-try-new-browser-features = Vyzkoušejte nové funkce prohlížeče ještě v nefinální verzi | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Vyzkoušejte nejnovější funkce ještě než se dostanou do finální verze: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Stáhněte si ho hned teď!
 firefox-channel-download-and-test-the-latest-desktop = Stáhněte a vyzkoušejte nejnovější funkce { -brand-name-firefox }u pro počítač s verzemi { -brand-name-developer-edition }, { -brand-name-beta } a nebo { -brand-name-nightly }.
@@ -44,8 +44,8 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Vyvíjejte, testujte a experimentujte s jediným prohlížečem speciálně pro vývojáře.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je určená pro testování a vývoj a nemusí být stabilní. Ve výchozím stavu tato edice odesílá data Mozille a někdy i našim partnerům, za účelem řešení problémů a testování. <a href="{ $link }">Sdílená data jsou popsána zda</a>.
-firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automaticky odesílá zpětnou vazbu Mozille.
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je určená pro testování a vývoj a nemusí být stabilní. Ve výchozím stavu tato edice odesílá data { -brand-name-mozilla(case: "dat") } a někdy i našim partnerům, za účelem řešení problémů a testování. <a href="{ $link }">Sdílená data jsou popsána zda</a>.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automaticky odesílá zpětnou vazbu { -brand-name-mozilla(case: "dat") }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Podívejte se, jak bude vypadat další generace našeho prohlížeče a pomozte nám ho ještě vylepšit: vyzkoušejte { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Zkoušejte zcela nové funkce každý den (nebo i noc). Zážitek na vlastní nebezpečí.
