@@ -93,7 +93,7 @@ firefox-desktop-download-go-from-light = Passeu del mode clar al mode fosc segon
 firefox-desktop-download-tweak-your-settings = Ajusteu els vostres paràmetres
 firefox-desktop-download-theres-no-need = No cal conformar-se. Canvieu la pàgina de pestanya nova, la barra de cerca, les adreces d'interès i molt més per navegar per Internet com vulgueu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Amb el suport de l'<strong>organització sense ànim de lucre</strong> que posa les persones per davant
+firefox-desktop-download-backed-by-the = Amb el suport de l'organització <strong>sense ànim de lucre</strong> que posa les persones per davant
 firefox-desktop-download-challenging-the-status = Desafiant l'status quo des de 1998
 firefox-desktop-download-your-privacy-comes = La vostra privadesa per sobre de tot
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
