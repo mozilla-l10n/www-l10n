@@ -145,4 +145,21 @@ firefox-desktop-download-just-download-the-browser = Simplement, baixeu el naveg
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Gairebé hem acabat!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Ara acabeu d'<strong>instal·lar</strong> el { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Ara <strong>executeu</strong> l'instal·lador que s'ha baixat.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Ara <strong>obriu</strong> l'instal·lador que s'ha baixat.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Teniu problemes? <a { $attrs }>Obteniu ajuda per a la instal·lació</a>.
+firefox-desktop-download-in-another-language = Baixeu la versió per a una altra llengua o sistema operatiu.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = El sistema operatiu que utilitzeu és insegur, obsolet i <a href="{ $url }">ja no és compatible amb el { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = La baixada s'iniciarà automàticament. No funciona? <a id="{ $id }" href="{ $fallback_url }">Proveu de baixar-lo de nou</a>.
 firefox-new-firefox-is-more-than-a-browser = El { -brand-name-firefox } és més que un navegador.
