@@ -112,6 +112,12 @@ firefox-desktop-download-from-watching-a = De observar un exercitation web a man
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obtene { -brand-name-firefox-browser } pro <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtene { -brand-name-firefox-browser } pro <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Discarga le mobile navigator { -brand-name-firefox } pro automatic protection sur tote tu apparatos.
+firefox-desktop-download-learn-about-the = Apprende re le navigator pro computatores { -brand-name-firefox } infra
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De securitate a novas pro jocar, il ha un <a { $attrs }>extension pro totes</a>. Adde tanto como tu desira usque tu navigator es justo.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Reguarda te del hackers con { -brand-name-firefox-monitor }, protege tu contrasignos con { -brand-name-firefox-lockwise } e altero ancora.
