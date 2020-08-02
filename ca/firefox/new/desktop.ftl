@@ -5,10 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Baixeu el { -brand-name-firefox-browser } —ràpid, privat, gratuït— de { -brand-name-mozilla }
 firefox-desktop-download-og-title = Baixeu el { -brand-name-firefox } més ràpid que mai
 firefox-desktop-download-og-desc = El nou { -brand-name-firefox } ja és aquí: carrega les pàgines més ràpid, consumeix menys memòria i està farcit de noves funcions.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Obteniu el navegador que protegeix allò que és important
+firefox-desktop-download-get-the-browser = Trieu el navegador que protegeix allò que és important
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Sense polítiques de privadesa tèrboles ni portes del darrere per als anunciants. Tan sols un navegador extremadament ràpid que no vendrà les vostres dades.
 firefox-desktop-download-download-options = Opcions de baixada i altres idiomes
