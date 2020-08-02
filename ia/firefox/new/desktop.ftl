@@ -76,6 +76,7 @@ firefox-desktop-download-private-browsing-mode = Modo de navigation private
 firefox-desktop-download-individual-protections-report = Reporta protectiones individual
 firefox-desktop-download-secure-your-personal = Mantene secur tu informationes personal
 firefox-desktop-download-breached-website-alerts = Avisa pro violation de sitos web
+firefox-desktop-download-built-in-password = Gestor de contrasignos integrate
 firefox-desktop-download-clear-history = Clarar le chronologia
 firefox-desktop-download-automatic-updates = Actualisationes automatic
 firefox-desktop-download-customize-your-browser = Personalisa tu navigator
