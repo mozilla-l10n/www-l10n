@@ -35,6 +35,7 @@ firefox-desktop-download-blocks-social-trackers = 封鎖社交追蹤器
 firefox-desktop-download-os-availability = 不同作業系統皆有提供
 firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
 firefox-desktop-download-master-password = 主控密碼
+firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
 firefox-desktop-download-see-your-report = 檢視您的保護報告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-review-system-req = 確認系統需求
