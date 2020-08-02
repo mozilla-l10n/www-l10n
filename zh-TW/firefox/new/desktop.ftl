@@ -101,6 +101,9 @@ firefox-desktop-download-get-firefox-ios = 下載 { -brand-name-firefox-browser 
 firefox-desktop-download-learn-about-the = 了解各種 { -brand-name-firefox } 桌面版瀏覽器的相關資訊
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自動<a { $attrs }>封鎖許多在不同網站間收集並出售您的上網行為的第三方追蹤器</a>。
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 有問題嗎？<a { $attrs }>{ -brand-name-mozilla } support</a> 能幫上忙。
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 安裝好 { -brand-name-firefox } 了嗎？接下來註冊帳號，讓 { -brand-name-firefox } 火力全開！
