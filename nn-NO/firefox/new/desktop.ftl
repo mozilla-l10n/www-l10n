@@ -59,6 +59,7 @@ firefox-desktop-download-stream-share-play = Strøym, del og spel
 firefox-desktop-download-block-autoplay-of = Blokker automatisk avspeling av video og lyd
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Bilde-i-bilde
+firefox-desktop-download-curated-content-on = Samla innhald på ny fane
 firefox-desktop-download-share-links = Del lenker
 firefox-desktop-download-protect-your-privacy = Ta vare på personvernet ditt
 firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapslar
@@ -72,10 +73,12 @@ firefox-desktop-download-customize-your-browser = Tilpass nettlesaren din
 firefox-desktop-download-themes = Tema
 firefox-desktop-download-dark-mode = Mørk modus
 firefox-desktop-download-library-of-extensions = Bibliotek med utvidingar
-firefox-desktop-download-adjust-search-bar = Juster søkelinje-innstillingane
+firefox-desktop-download-adjust-search-bar = Juster søkelinjeinnstillingane
 firefox-desktop-download-extensions-for-every = Utvidingar for alle interesser
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingane dine
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kjem først
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Alle favorittverktøya dine frå { -brand-name-google } (som Gmail og Docs) fungerer saumlaust i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synkroniser einingane dine
 firefox-desktop-download-screenshots = Skjermbilde
