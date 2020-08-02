@@ -61,7 +61,29 @@ firefox-desktop-download-sync-across-devices = Sincronització entre dispositius
 firefox-desktop-download-reader-mode = Mode de lectura
 firefox-desktop-download-spell-check = Corrector ortogràfic
 firefox-desktop-download-pinned-tabs = Pestanyes fixes
-firefox-desktop-download-stream-share-play = Transmeteu en temps real, reproduïu i compartiu-ho
+firefox-desktop-download-stream-share-play = Transmeteu, reproduïu i compartiu-ho
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Bloqueu la reproducció automàtica d'àudio i vídeo
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Imatge sobre imatge
+firefox-desktop-download-curated-content-on = Contingut seleccionat en les pestanyes noves
+firefox-desktop-download-share-links = Compartiu enllaços
+firefox-desktop-download-protect-your-privacy = Protegiu la vostra privadesa
+firefox-desktop-download-third-party-cookie = Bloqueig de galetes de tercers
+firefox-desktop-download-fingerprinter-blocking = Bloqueig de generadors d'empremtes digitals
+firefox-desktop-download-cryptominer-blocking = Bloqueig de miners de criptomonedes
+firefox-desktop-download-private-browsing-mode = Mode de navegació privada
+firefox-desktop-download-individual-protections-report = Informe de proteccions individualitzat
+firefox-desktop-download-secure-your-personal = Protegiu les vostres dades personals
+firefox-desktop-download-breached-website-alerts = Alertes de filtracions de dades de llocs web
+firefox-desktop-download-built-in-password = Gestor de contrasenyes integrat
+firefox-desktop-download-clear-history = Buideu l'historial
+firefox-desktop-download-form-autofill = Emplenament automàtic de formularis
+firefox-desktop-download-automatic-updates = Actualitzacions automàtiques
+firefox-desktop-download-customize-your-browser = Personalitzeu el navegador
+firefox-desktop-download-themes = Temes
+firefox-desktop-download-dark-mode = Mode fosc
+firefox-desktop-download-library-of-extensions = Biblioteca d'extensions
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
