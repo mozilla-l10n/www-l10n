@@ -7,12 +7,15 @@
 
 # HTML page title
 features-index-protect-your-privacy-and-browse = Proteja a sua privacidade e navegue mais rápido com as funcionalidades do { -brand-name-firefox }
+# HTML page description
+features-index-youre-in-control-with-firefoxs = Você está em controlo com as funcionalidades de utilização simples do { -brand-name-firefox } que protegem a sua privacidade e velocidade de navegação.
 # Hero title
 features-index-firefox-features = Funcionalidades do { -brand-name-firefox }
 # Hero description
 features-index-firefox-is-fast = O { -brand-name-firefox } é o navegador rápido e leve, focado na privacidade, que funciona em todos os seus dispositivos.
 features-index-add-powerful-functions = Adicione funções poderosas, funcionalidades úteis e até um pouco de diversão ao seu { -brand-name-firefox }.
 features-index-see-all = Ver todas as extensões
+features-index-give-your-browser = Com milhares de temas diferentes, dê ao seu navegador a aparência que quiser.
 features-index-open-source-minds = Código aberto. Mentes abertas.
 features-index-mozilla-creates = A { -brand-name-mozilla } cria tecnologias poderosas para a Internet para todos.
 features-index-see-what-makes-us-different = Veja o que nos faz ser diferentes
