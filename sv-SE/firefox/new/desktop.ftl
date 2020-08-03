@@ -108,21 +108,36 @@ firefox-desktop-download-sync-your-devices = Synkronisera dina enheter
 firefox-desktop-download-screenshots = Skärmdumpar
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Förbättrat spårningsskydd (ETP)
+firefox-desktop-download-from-watching-a = Från att titta på en webbstudie till att hålla ett öga på ditt favoritlag, följer din video dig medan du multitaskar.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hämta { -brand-name-firefox-browser } för <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Hämta { -brand-name-firefox-browser } för <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Ladda ner { -brand-name-firefox } mobil webbläsaren för automatiskt skydd på alla dina enheter.
-firefox-desktop-download-learn-about-the = Lär dig mer om skrivbords webbläsaren { -brand-name-firefox } nedan
+firefox-desktop-download-learn-about-the = Lär dig mer om skrivbordswebbläsaren { -brand-name-firefox } nedan
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = Från säkerhet till nyheter till spel finns det ett <a { $attrs }> tillägg för alla </a>. Lägg till så många du vill tills din webbläsare känns helt rätt.
+firefox-desktop-download-from-security-to = Från säkerhet till nyheter till spel finns det ett <a { $attrs }>tillägg för alla</a>. Lägg till så många du vill tills din webbläsare känns helt rätt.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } skapades av <a { $attrs }>{ -brand-name-mozilla }</a> som en snabbare, mer privat alternativ till webbläsare som { -brand-name-ie } och nu { -brand-name-chrome }. Idag fortsätter vårt uppdragsdrivna företag och vår volontärgrupp att sätta din integritet framför allt annat.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Eftersom internet växer och förändras fortsätter { -brand-name-firefox } att fokusera på din rätt till integritet  — vi kallar det <a { $attrs }>Löfte om personlig data</a>: Ta mindre. Förvara det säkert. Inga hemligheter. Dina data, din webbaktivitet, ditt liv online är skyddat med { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } är tillgängligt på alla dina enheter; ta med dig dina flikar, historik och bokmärken. Allt du behöver är ett <a{ $attrs }>{ -brand-name-firefox } konto</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } är tillgängligt på alla dina enheter; ta med dig dina flikar, historik och bokmärken. Allt du behöver är ett <a{ $attrs }>{ -brand-name-firefox }-konto</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Ta en högupplöst bild av allt online med vårt <a { $attrs }>skärmdumpsverktyg</a> inbyggt i webbläsaren
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blockerar automatiskt många tredjepartsspårare</a> från att samla in och sälja din webbaktivitet.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Frågor? <a { $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Du har redan webbläsaren. Få ut ännu mer från { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Akta dig för hackare med { -brand-name-firefox-monitor }, skydda lösenord med { -brand-name-firefox-lockwise } och mer.
 firefox-desktop-download-get-more-from-firefox = Hämta mer från { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
@@ -130,6 +145,10 @@ firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Nästan där!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Slutför nu <strong>installationen</strong> av { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Kör</strong> nu installationsprogrammet som just laddade ner.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Har du problem? <a { $attrs }>Få hjälp med din installation</a>.
