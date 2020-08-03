@@ -35,6 +35,7 @@ firefox-desktop-download-os-availability = Elérhetőség különböző operáci
 firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
 firefox-desktop-download-master-password = Mesterjelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
+firefox-desktop-download-ads-are-distracting = A reklámok elvonják a figyelmet, és lassabbá teszik a weboldalak betöltését, miközben a nyomkövetőik minden online mozdulatát követik. A { -brand-name-firefox-browser } automatikusan blokkolja a legtöbb követőt, így nem kell beleásnia magát a biztonsági beállításokba.
 firefox-desktop-download-see-your-report = Nézze meg a védelmi jelentését
 firefox-desktop-download-for-everyone = { -brand-name-firefox } mindenki számára
 firefox-desktop-download-available-in-over = Több mint 90 nyelven elérhető, és kompatibilis a { -brand-name-windows }, { -brand-name-mac-short } és { -brand-name-linux } rendszerű gépekkel, a { -brand-name-firefox } működik, nem számít hogy használ és hol van. A legjobb élmény érdekében győződjön meg arról, hogy az operációs rendszere naprakész legyen.
