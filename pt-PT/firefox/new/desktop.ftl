@@ -61,7 +61,7 @@ firefox-desktop-download-sync-across-devices = Sincronização entre dispositivo
 firefox-desktop-download-reader-mode = Modo de leitura
 firefox-desktop-download-spell-check = Verificação ortográfica
 firefox-desktop-download-pinned-tabs = Fixar separadores
-firefox-desktop-download-stream-share-play = Transmita, partilhe e reproduza
+firefox-desktop-download-stream-share-play = Transmitir, partilhar e reproduzir
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Bloquear a reprodução automática de vídeo e de áudio
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -69,6 +69,37 @@ firefox-desktop-download-picture-in-picture = Vídeo em janela flutuante
 firefox-desktop-download-curated-content-on = Conteúdo selecionado num novo separador
 firefox-desktop-download-share-links = Partilhar ligações
 firefox-desktop-download-protect-your-privacy = Proteger a sua privacidade
+firefox-desktop-download-third-party-cookie = Bloqueio de cookies de terceiros
+firefox-desktop-download-fingerprinter-blocking = Bloqueio de identificadores digitais
+firefox-desktop-download-cryptominer-blocking = Bloqueio de cripto-mineradores
+firefox-desktop-download-private-browsing-mode = Modo de navegação privada
+firefox-desktop-download-individual-protections-report = Relatório individualizado de proteções
+firefox-desktop-download-secure-your-personal = Proteção das suas informações pessoais
+firefox-desktop-download-breached-website-alerts = Alertas de sites com fugas de dados
+firefox-desktop-download-built-in-password = Gestor incorporado de palavras-passe
+firefox-desktop-download-clear-history = Limpar histórico
+firefox-desktop-download-form-autofill = Preenchimento automático de formulários
+firefox-desktop-download-automatic-updates = Atualizações automáticas
+firefox-desktop-download-customize-your-browser = Personalizar o seu navegador
+firefox-desktop-download-themes = Temas
+firefox-desktop-download-dark-mode = Modo escuro
+firefox-desktop-download-library-of-extensions = Biblioteca de extensões
+firefox-desktop-download-adjust-search-bar = Ajustar as configurações da barra de pesquisa
+firefox-desktop-download-change-new-tab = Alterar o layout do novo separador
+firefox-desktop-download-make-firefox-your = Torne o <strong>{ -brand-name-firefox }</strong> seu
+firefox-desktop-download-extensions-for-every = Extensões para todos os interesses
+firefox-desktop-download-change-up-your = Mude a sua aparência
+firefox-desktop-download-go-from-light = Mude do modo claro para o modo escuro, dependendo do seu estado de espírito ou preferência, ou dê vida a um tema personalizado (talvez um unicórnio num arco-íris).
+firefox-desktop-download-tweak-your-settings = Ajuste as suas definições
+firefox-desktop-download-theres-no-need = Não há necessidade de se acomodar. Altere a página de novo separador, barra de pesquisa, marcadores e muito mais, para explorar a Internet da maneira que quiser.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Apoiado pela <strong>organização sem fins lucrativos</strong> que coloca as pessoas em primeiro lugar
+firefox-desktop-download-challenging-the-status = Desafiando o status quo desde 1998
+firefox-desktop-download-your-privacy-comes = A sua privacidade está em primeiro lugar
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Mantenha todas as suas funcionalidades favoritas do navegador - e <strong>descubra</strong> coisas novas.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Todas as suas ferramentas favoritas da { -brand-name-google } (como o Gmail e o Docs) funcionam perfeitamente no { -brand-name-firefox-browser }.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
