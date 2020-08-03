@@ -10,14 +10,17 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Hämta { -brand-name-firefox-browser } — Snabb, privat & gratis — från { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Skaffa { -brand-name-firefox }, en gratis webbläsare som drivs av { -brand-name-mozilla }, en ideell organisation som främjar hälsa och integritet på webben. Tillgänglig nu på { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } och { -brand-name-ios }.
 firefox-desktop-download-og-title = Ladda ner den snabbaste { -brand-name-firefox } någonsin
 firefox-desktop-download-og-desc = Snabbare sidladdning, mindre minnesanvändning och fullproppad med funktioner, den nya { -brand-name-firefox } är här.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Skaffa webbläsaren som skyddar det som är viktigt
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Inga konstiga sekretesspolicyer eller bakdörrar för annonsörer. Bara en blixtsnabb webbläsare som inte säljer din data.
 firefox-desktop-download-download-options = Nedladdningsalternativ och andra språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Gör vad du gör online. <br> { -brand-name-firefox-browser } <strong>tittar inte</strong>.
+firefox-desktop-download-do-what-you-do = Gör vad du vill på internet.<br> { -brand-name-firefox-browser } <strong>tittar inte</strong> på.
 firefox-desktop-download-how-firefox-compares = Hur { -brand-name-firefox } jämförs med andra webbläsare
 firefox-desktop-download-how-we-compare = Hur vi står oss jämfört med andra webbläsare
 firefox-desktop-download-compare-firefox-to = Jämför { -brand-name-firefox } med:
@@ -105,7 +108,7 @@ firefox-desktop-download-from-security-to = Från säkerhet till nyheter till sp
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } är tillgängligt på alla dina enheter; ta med dig dina flikar, historik och bokmärken. Allt du behöver är ett <a{ $attrs }>{ -brand-name-firefox } konto</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Frågor? <a{ $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig.
+firefox-desktop-download-questions = Frågor? <a { $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig.
 firefox-desktop-download-watch-for-hackers-with = Akta dig för hackare med { -brand-name-firefox-monitor }, skydda lösenord med { -brand-name-firefox-lockwise } och mer.
 firefox-desktop-download-get-more-from-firefox = Hämta mer från { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
