@@ -149,6 +149,8 @@ firefox-desktop-download-almost-there = Nästan där!
 firefox-desktop-download-now-else = Slutför nu <strong>installationen</strong> av { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = <strong>Kör</strong> nu installationsprogrammet som just laddade ner.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Öppna</strong> nu filen som just har laddat ner.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Har du problem? <a { $attrs }>Få hjälp med din installation</a>.
