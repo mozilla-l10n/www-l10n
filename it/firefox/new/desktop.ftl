@@ -81,6 +81,7 @@ firefox-desktop-download-themes = Temi
 firefox-desktop-download-dark-mode = Modalità scura
 firefox-desktop-download-library-of-extensions = Una libreria di estensioni
 firefox-desktop-download-adjust-search-bar = Barra di ricerca personalizzabile
+firefox-desktop-download-change-new-tab = Aspetto delle nuove schede personalizzabile
 firefox-desktop-download-make-firefox-your = Rendi <strong>{ -brand-name-firefox }</strong> veramente tuo
 firefox-desktop-download-extensions-for-every = Estensioni per tutti i gusti
 firefox-desktop-download-change-up-your = Cambia look
