@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } suppo
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Gör vad du vill på internet.<br> { -brand-name-firefox-browser } <strong>tittar inte</strong> på.
 firefox-desktop-download-how-firefox-compares = Hur { -brand-name-firefox } jämförs med andra webbläsare
+firefox-desktop-download-get-all-the-speed = Få hastighet och verktyg utan att kränka integriteten. { -brand-name-firefox-browser } samlar in så lite data om dig så vi inte ens behöver din e-postadress för att hämtas. Det beror på att vi, till skillnad från andra webbläsare, inte har någon ekonomisk fördel av att följa dig på nätet.
 firefox-desktop-download-how-we-compare = Hur vi står oss jämfört med andra webbläsare
 firefox-desktop-download-compare-firefox-to = Jämför { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -37,15 +38,18 @@ firefox-desktop-download-os-availability = OS tillgänglighet
 firefox-desktop-download-in-browser-screenshot = Skärmdumpsverktyg i webbläsaren
 firefox-desktop-download-master-password = Huvudlösenord
 firefox-desktop-download-we-block-the-ad = Vi blockerar annonsspårarna. Du utforskar internet snabbare.
+firefox-desktop-download-ads-are-distracting = Annonser är distraherande och gör att webbsidor laddar långsammare medan deras spårare tittar på varje drag du gör online. { -brand-name-firefox-browser } blockerar de flesta spårare automatiskt, så det finns inget behov av att kontrollera dina säkerhetsinställningar.
 firefox-desktop-download-see-your-report = Visa din säkerhetsrapport
 firefox-desktop-download-for-everyone = { -brand-name-firefox } är för alla
+firefox-desktop-download-available-in-over = Finns på över 90 språk och kompatibel med { -brand-name-windows }, { -brand-name-mac-short } och { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerar oavsett vad du använder eller var du är. Se till att ditt operativsystem är uppdaterat för den bästa upplevelsen.
 firefox-desktop-download-review-system-req = Granska systemkraven
 firefox-desktop-download-all-your-devices = Lägg till { -brand-name-firefox } på alla dina enheter
+firefox-desktop-download-take-your-privacy = Ta din integritet med dig överallt. { -brand-name-firefox-browsers } för { -brand-name-ios } och { -brand-name-android } har samma starka sekretessinställningar för att blockera spårare från att följa dig runt nätet, oavsett var du är.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gör <strong>allt</strong> med { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Sök smartare, snabbare
 firefox-desktop-download-search-from-address = Sök från adressfältet
-firefox-desktop-download-search-engine-options = Val av sökmotor
+firefox-desktop-download-search-engine-options = Inställningar för sökmotorer
 firefox-desktop-download-smart-search-suggestions = Smarta sökförslag
 firefox-desktop-download-bookmark-history = Bokmärke, historik och öppen flik i resultat
 firefox-desktop-download-boost-your = Öka din produktivitet
