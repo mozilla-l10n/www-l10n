@@ -26,7 +26,7 @@ firefox-all-download-the-firefox = { -brand-name-firefox-browser } 다운로드 
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = 모든 사람은 인터넷에 접속할 자격이 있습니다. 언어는 장벽이 되어서는 안됩니다. 이것이 바로 전 세계 자원 봉사자들의 도움으로 { -brand-name-firefox-browser }가 90 개 이상의 언어 버전을 제공하는 이유입니다.
 firefox-all-choose-which-firefox = 언어별 { -brand-name-firefox-browser } 다운로드 선택하기
-firefox-all-firefox-privacy-notice = { -brand-name-firefox } 개인정보 고지
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } 개인정보처리방침
 firefox-all-learn-about-firefox = { -brand-name-firefox } 브라우저에 대해 알아보기
 firefox-all-the-standard-firefox = { -brand-name-firefox } 일반 브라우저 — 빠르고 안전합니다. 어떤 { -brand-name-firefox }를 선택해야 할지 잘 모르시는 경우 추천합니다.
 firefox-all-get-a-sneak-peek-at = 최신 { -brand-name-firefox }의 신규 기능이 출시되기 전에 미리 체험해 보세요.
