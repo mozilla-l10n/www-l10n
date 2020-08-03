@@ -105,7 +105,7 @@ firefox-desktop-download-from-security-to = Från säkerhet till nyheter till sp
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } är tillgängligt på alla dina enheter; ta med dig dina flikar, historik och bokmärken. Allt du behöver är ett <a{ $attrs }>{ -brand-name-firefox } konto</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Frågor? <a{ $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig
+firefox-desktop-download-questions = Frågor? <a{ $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig.
 firefox-desktop-download-watch-for-hackers-with = Akta dig för hackare med { -brand-name-firefox-monitor }, skydda lösenord med { -brand-name-firefox-lockwise } och mer.
 firefox-desktop-download-get-more-from-firefox = Hämta mer från { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
