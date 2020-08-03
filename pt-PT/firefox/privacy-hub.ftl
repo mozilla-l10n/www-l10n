@@ -43,3 +43,9 @@ firefox-privacy-hub-firefox-privacy-by-the = Privacidade do { -brand-name-firefo
 firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } protege a sua privacidade em todos os produtos.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firefox } <strong>protege</strong> a sua privacidade em todos os produtos
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-see-what-firefox-has-blocked = Veja o que o { -brand-name-firefox } bloqueou para si
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Obter a proteção melhorada contra a monitorização
+firefox-privacy-hub-download-the-firefox-browser = Transferir o navegador { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Atualize o seu navegador { -brand-name-firefox }
+firefox-privacy-hub-always-in-your-control = Sempre sob o seu controlo

@@ -100,6 +100,21 @@ firefox-desktop-download-your-privacy-comes = A sua privacidade está em primeir
 firefox-desktop-download-keep-all-your = Mantenha todas as suas funcionalidades favoritas do navegador - e <strong>descubra</strong> coisas novas.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Todas as suas ferramentas favoritas da { -brand-name-google } (como o Gmail e o Docs) funcionam perfeitamente no { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs }>Transfira esta extensão para o navegador</a> para impedir que o { -brand-name-facebook } (e o { -brand-name-instagram }) o rastreiem na Internet.
+firefox-desktop-download-sync-your-devices = Sincronize os seus dispositivos
+firefox-desktop-download-screenshots = Capturas de ecrã
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Proteção melhorada contra a monitorização (Enhanced Tracking Protection - ETP)
+firefox-desktop-download-from-watching-a = Desde assistir a um tutorial na Internet até ter um olho na sua equipa favorita, o seu vídeo está consigo enquanto realiza outras tarefas.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Obtenha o { -brand-name-firefox-browser } para o <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Obtenha o { -brand-name-firefox-browser } para o <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Basta transferir o navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Quase lá!
