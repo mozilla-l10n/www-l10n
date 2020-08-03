@@ -94,3 +94,8 @@ firefox-desktop-download-just-download-the-browser = 只需下载浏览器
 
 firefox-desktop-download-almost-there = 快完成了！
 firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = 您的下载即将自动开始。并没有开始？<a id="{ $id }" href="{ $fallback_url }">重试下载</a>。
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是浏览器。
