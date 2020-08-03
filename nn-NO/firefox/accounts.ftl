@@ -32,8 +32,8 @@ firefox-accounts-travel-the-internet = Surf på nettet med vern, på alle eining
 firefox-accounts-keep-your-passwords = Hald passorda dine trygge og ta dei med overalt.
 firefox-accounts-get-a-lookout-for = Hald auge med datalekkasjar.
 firefox-accounts-share-large-files = Del store filer utan overvakande auger.
-firefox-accounts-get-it-all-on-every = Få alt på alle einingar, same kva operativsystem du brukar.
-firefox-accounts-and-get-it-all-on = Og få alt på alle einingane dine, same kva for operativsystem du brukar.
+firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å føle deg fanga av eitt enkelt oerativsystem.
+firefox-accounts-and-get-it-all-on = Og få alt på alle einingane dine, utan å føle deg fanga av eitt enkelt operativsystem.
 firefox-accounts-get-the-respect-you = Få respekten du fortener.
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
