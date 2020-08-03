@@ -21,6 +21,12 @@ firefox-desktop-download-os-availability = Beschikbaarheid op besturingssystemen
 firefox-desktop-download-in-browser-screenshot = Hulpmiddel voor schermafdrukken in de browser
 firefox-desktop-download-master-password = Hoofdwachtwoord
 firefox-desktop-download-search-engine-options = Zoekmachine-opties
+firefox-desktop-download-your-privacy-comes = Uw privacy staat voorop
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synchroniseer uw apparaten
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Download { -brand-name-firefox-browser } voor <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Download { -brand-name-firefox-browser } voor <strong>{ -brand-name-ios }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
