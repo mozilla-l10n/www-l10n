@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Last ned { -brand-name-firefox-browser } frå { -brand-name-mozilla } — rask, privat og gratis
+firefox-desktop-download-meta-desc = Få { -brand-name-firefox }, ein gratis nettleser støtta av { -brand-name-mozilla }, ein ideell organisasjon dedikert til internetthelse og personvern. Tilgjengeleg no på { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
 firefox-desktop-download-og-title = Last ned den raskaste { -brand-name-firefox } nokon gong
 firefox-desktop-download-og-desc = Raskare sidelasting, mindre minnebruk og fullstappa med funksjonarr, nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -69,7 +70,9 @@ firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokaps
 firefox-desktop-download-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
 firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnarar
 firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
+firefox-desktop-download-individual-protections-report = Individuell sikringsrapport
 firefox-desktop-download-secure-your-personal = Sikre den personlege informasjonen din
+firefox-desktop-download-breached-website-alerts = Åtvaringar om datalekkasjear på nettstadar
 firefox-desktop-download-built-in-password = Innebygd passordhandtering
 firefox-desktop-download-clear-history = Tøm historikk
 firefox-desktop-download-form-autofill = Autoutfylling av skjema
