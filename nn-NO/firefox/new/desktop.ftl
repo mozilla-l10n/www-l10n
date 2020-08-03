@@ -86,8 +86,11 @@ firefox-desktop-download-change-new-tab = Endre ny fane-oppsettet
 firefox-desktop-download-make-firefox-your = Gjer <strong>{ -brand-name-firefox }</strong> til din eigen
 firefox-desktop-download-extensions-for-every = Utvidingar for alle interesser
 firefox-desktop-download-change-up-your = Endre utsjånad
+firefox-desktop-download-go-from-light = Gå frå lys modus til mørk modus avhengig av humør eller innstilling, eller liv ting opp med eit tilpassa tema (regnbogefarga einhjørning, kanskje).
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingane dine
 firefox-desktop-download-theres-no-need = Du trenger ikkje å nøye deg med eitt val. Endre ny fane-sida, søkefeltet, bokmerke og meir for å utforske nettet slik du ønskjer.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Støtta av den <strong>ideelle</strong> organisasjonen som set folk først.
 firefox-desktop-download-challenging-the-status = Utfordrar den uendra stoda sidan 1998
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kjem først
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
