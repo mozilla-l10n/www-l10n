@@ -102,11 +102,24 @@ firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browse
 firefox-desktop-download-download-the-mobile = Last ned { -brand-name-firefox }-mobilnettleser for automatisk beskyttelse på alle enhetene dine.
 firefox-desktop-download-learn-about-the = Les mer om { -brand-name-firefox } for datamaskiner nedenfor
 # Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Fra sikkerhet til nyheter til spill, finnes det et <a { $attrs }>tillegg for alle</a>. Legger til så mange du vil, til nettleseren fungerer som du vil.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgjengelig på alle enhetene dine; ta med fanene, historikken og bokmerkene. Alt du trenger er en <a { $attrs }>{ -brand-name-firefox }-konto</a>.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta et bilde med høyoppløselig av hva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettleseren
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokkerer automatisk <a { $attrs }>mange tredjeparts-sporere</a> fra å samle inn og selge nettaktiviteten din.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Spørsmål? <a{ $attrs }>{ -brand-name-mozilla } brukerstøtte</a> kan hjelp deg.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Du har allerede nettleseren. Få ennå mer ut av { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Bruk { -brand-name-firefox-monitor } for å holde et øye med hackere, beskytt passord med { -brand-name-firefox-lockwise }, og mer.
 firefox-desktop-download-get-more-from-firefox = Få mer ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bare last ned nettleseren
 
