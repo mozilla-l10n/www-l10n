@@ -109,6 +109,9 @@ firefox-desktop-download-learn-about-the = Ulteriori informazioni sul browser { 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è stato creato da <a { $attrs }>{ -brand-name-mozilla }</a> come alternativa più veloce e privata ai browser come { -brand-name-ie } e ora anche a { -brand-name-chrome }. Oggi continuiamo a essere un’azienda con una missione e una comunità di volontari che mettono la tua privacy al di sopra di tutto.
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Cattura un’immagine ad alta risoluzione di qualsiasi contenuto trovato online con lo strumento per <a { $attrs }>screenshot</a> integrato nel browser
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
@@ -130,6 +133,9 @@ firefox-desktop-download-now-mac = Ora <strong>apri</strong> il file appena scar
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemi? <a { $attrs }>Ottieni assistenza per l’installazione</a>.
 firefox-desktop-download-in-another-language = Scarica il programma in un’altra lingua o per un altro sistema operativo.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Stai utilizzando un sistema operativo non sicuro, obsoleto e <a href="{ $url }">non più supportato da { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
