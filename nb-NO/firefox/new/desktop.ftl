@@ -11,6 +11,7 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Last ned { -brand-name-firefox-browser } fra { -brand-name-mozilla } — rask, privat og gratis
 firefox-desktop-download-og-title = Last ned den raskeste { -brand-name-firefox } noensinne
+firefox-desktop-download-og-desc = Raskere sidelasting, mindre minnebruk og fullastet av nye funksjoner, den nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Få nettleseren som beskytter det som er viktig
 # shady is slang which suggests something is untrustworthy
@@ -67,6 +68,8 @@ firefox-desktop-download-protect-your-privacy = Beskytt ditt personvern
 firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapsler
 firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnere
 firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
+firefox-desktop-download-individual-protections-report = Individuell beskyttelsesrapport
+firefox-desktop-download-secure-your-personal = Sikre din personlige informasjon
 firefox-desktop-download-built-in-password = Innebygd passordbehandling
 firefox-desktop-download-clear-history = Tøm historikk
 firefox-desktop-download-form-autofill = Autoutfylling av skjema
@@ -76,6 +79,7 @@ firefox-desktop-download-themes = Tema
 firefox-desktop-download-dark-mode = Mørk modus
 firefox-desktop-download-library-of-extensions = Bibliotek med utvidelser
 firefox-desktop-download-adjust-search-bar = Juster søkelinjens innstillinger
+firefox-desktop-download-change-new-tab = Endre ny fane-oppsettet
 firefox-desktop-download-make-firefox-your = Gjør <strong>{ -brand-name-firefox }</strong> til din egen
 firefox-desktop-download-extensions-for-every = Utvidelser for alle interesser
 firefox-desktop-download-change-up-your = Endre utseendet
