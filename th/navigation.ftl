@@ -15,6 +15,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } สำหรับ { -b
 navigation-watch-videos-and-browse = ดูวิดีโอและเรียกดูอินเทอร์เน็ตบน { -brand-name-amazon } { -brand-name-fire-tv } ของคุณ
 navigation-join-firefox = เข้าร่วม { -brand-name-firefox }
 navigation-firefox-blog = บล็อก { -brand-name-firefox }
+navigation-mozilla-careers = ตำแหน่งงานที่ { -brand-name-mozilla }
 navigation-close-firefox-menu = ปิดเมนู { -brand-name-firefox }
 navigation-get-the-browser-that-gives = รับเบราว์เซอร์ที่ให้คุณมีพลังมากขึ้นบน { -brand-name-windows }, { -brand-name-mac } หรือ { -brand-name-linux }
 navigation-take-firefox-and-firefox = นำ { -brand-name-firefox } และ { -brand-name-firefox-focus } ไปกับคุณ สำหรับ { -brand-name-android } และ { -brand-name-ios }
