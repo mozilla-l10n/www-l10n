@@ -116,3 +116,21 @@ firefox-desktop-download-just-download-the-browser = Csak a böngésző letölt�
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Mindjárt megvagyunk!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Most fejezze be a { -brand-name-firefox } <strong>telepítését</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Most <strong>futtassa</strong> az éppen letöltött telepítőt.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Most <strong>nyissa meg</strong> az éppen letöltött fájlt.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Problémája van? <a { $attrs }>Kapjon segítséget a telepítéshez</a>.
+firefox-desktop-download-in-another-language = Letöltés más nyelven vagy más operációs rendszerre.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Egy nem biztonságos, elavult operációs rendszert használ, amit <a href="{ $url }">már nem támogat a { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = A letöltés automatikusan elindul. Nem működött? <a id="{ $id }" href="{ $fallback_url }">Próbálja újra letölteni</a>.
+firefox-new-firefox-is-more-than-a-browser = A { -brand-name-firefox } több, mint egy böngésző.
