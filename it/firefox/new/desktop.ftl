@@ -122,8 +122,17 @@ firefox-desktop-download-from-security-to = Dalla sicurezza alle notizie, fino a
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è stato creato da <a { $attrs }>{ -brand-name-mozilla }</a> come alternativa più veloce e privata ai browser come { -brand-name-ie } e ora anche a { -brand-name-chrome }. Oggi continuiamo a essere un’azienda con una missione e una comunità di volontari che mettono la tua privacy al di sopra di tutto.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Internet cresce e cambia, ma per { -brand-name-firefox } il diritto alla privacy degli utenti rimane un punto fermo. Lo chiamiamo <a { $attrs }>Impegno per i dati personali</a>: raccogliamo meno dati, li manteniamo al sicuro, nessun segreto. Con { -brand-name-firefox }, i tuoi dati, le tue attività sul Web e la tua vita online sono protetti.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } è disponibile per tutti i tuoi dispositivi; porta con te schede, cronologia e segnalibri. Ti basta un <a { $attrs }>account { -brand-name-firefox }</a>.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Cattura un’immagine ad alta risoluzione di qualsiasi contenuto trovato online con lo strumento per <a { $attrs }>screenshot</a> integrato nel browser
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blocca automaticamente la maggior parte degli elementi traccianti di terze parti</a> che raccolgono e vendono dati della tua attività sul Web.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
