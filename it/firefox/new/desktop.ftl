@@ -89,16 +89,28 @@ firefox-desktop-download-tweak-your-settings = Modifica le tue impostazioni
 firefox-desktop-download-backed-by-the = Sostenuto da un’organizzazione <strong>non-profit</strong> che mette al primo posto le persone
 firefox-desktop-download-challenging-the-status = Una sfida allo status quo dal 1998
 firefox-desktop-download-your-privacy-comes = La tua privacy prima di tutto
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Tutti i tuoi strumenti { -brand-name-google } preferiti (come Gmail e Docs) funzionano perfettamente sul { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Scarica questa estensione del browser</a> per impedire a { -brand-name-facebook } (e a { -brand-name-instagram }) di seguirti sul Web.
 firefox-desktop-download-sync-your-devices = Sincronizza i tuoi dispositivi
 firefox-desktop-download-screenshots = Screenshot
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protezione antitracciamento avanzata
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-desktop-download-get-firefox-android = Scarica il { -brand-name-firefox-browser } per <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Scarica il { -brand-name-firefox-browser } per <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-learn-about-the = Ulteriori informazioni sul browser { -brand-name-firefox } per desktop qui di seguito
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è stato creato da <a { $attrs }>{ -brand-name-mozilla }</a> come alternativa più veloce e privata ai browser come { -brand-name-ie } e ora anche a { -brand-name-chrome }. Oggi continuiamo a essere un’azienda con una missione e una comunità di volontari che mettono la tua privacy al di sopra di tutto.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Hai già installato il browser. Ora scopri che cosa può offrirti { -brand-name-firefox }.
 firefox-desktop-download-get-more-from-firefox = Ottieni di più da { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Devi solo scaricare il browser
 
@@ -114,4 +126,5 @@ firefox-desktop-download-now-mac = Ora <strong>apri</strong> il file appena scar
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemi? <a { $attrs }>Ottieni assistenza per l’installazione</a>.
+firefox-desktop-download-in-another-language = Scarica il programma in un’altra lingua o per un altro sistema operativo.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è molto più di un browser.
