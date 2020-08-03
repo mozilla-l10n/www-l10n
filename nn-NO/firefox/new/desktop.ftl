@@ -98,6 +98,9 @@ firefox-desktop-download-keep-all-your = Behald alle favorittfunksjonane dine i 
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Alle favorittverktøya dine frå { -brand-name-google } (som Gmail og Docs) fungerer saumlaust i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs }>Last ned denne nettlesarutvidinga</a> for å hindre { -brand-name-facebook } (og { -brand-name-instagram }) frå å spore deg rundt på nettet.
 firefox-desktop-download-sync-your-devices = Synkroniser einingane dine
 firefox-desktop-download-screenshots = Skjermbilde
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
