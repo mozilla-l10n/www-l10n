@@ -85,6 +85,7 @@ firefox-desktop-download-extensions-for-every = Utvidingar for alle interesser
 firefox-desktop-download-change-up-your = Endre utsjånad
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingane dine
 firefox-desktop-download-theres-no-need = Du trenger ikkje å nøye deg med eitt val. Endre ny fane-sida, søkefeltet, bokmerke og meir for å utforske nettet slik du ønskjer.
+firefox-desktop-download-challenging-the-status = Utfordrar den uendra stoda sidan 1998
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kjem først
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behald alle favorittfunksjonane dine i nettlesaren — og <strong>oppdag</strong> nye med.
