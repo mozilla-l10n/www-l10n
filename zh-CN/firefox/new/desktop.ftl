@@ -13,6 +13,7 @@ firefox-desktop-download-meta-title = 下载 { -brand-name-firefox-browser } —
 firefox-desktop-download-og-title = 下载有史以来最快的 { -brand-name-firefox }
 firefox-desktop-download-og-desc = 加载更快、内存占用更低、包含更多功能。全新的 { -brand-name-firefox } 闪耀登场！
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = 选用会保护重要数据的浏览器
 firefox-desktop-download-download-options = 下载其他平台与语言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 用户支持
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 与其他浏览器比较
@@ -30,6 +31,7 @@ firefox-desktop-download-blocks-social-trackers = 拦截社交跟踪器
 firefox-desktop-download-os-availability = 操作系统可用性
 firefox-desktop-download-in-browser-screenshot = 浏览器内置截图工具
 firefox-desktop-download-master-password = 主密码
+firefox-desktop-download-we-block-the-ad = 有我们拦截广告跟踪器，上网冲浪更畅快。
 firefox-desktop-download-see-your-report = 查看您的保护报告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-review-system-req = 确认系统配置要求
@@ -83,6 +85,9 @@ firefox-desktop-download-sync-your-devices = 同步您的设备
 firefox-desktop-download-screenshots = 屏幕截图
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = 增强型跟踪保护（ETP）
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = 下载 <strong>{ -brand-name-android }</strong> 版 { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-ios = 下载 <strong>{ -brand-name-ios }</strong> 版 { -brand-name-firefox-browser }
 firefox-desktop-download-just-download-the-browser = 只需下载浏览器
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
