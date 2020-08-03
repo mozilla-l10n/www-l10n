@@ -76,6 +76,19 @@ firefox-desktop-download-learn-about-the = Ulteriori informazioni sul browser { 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
+firefox-desktop-download-get-more-from-firefox = Ottieni di più da { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Devi solo scaricare il browser
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Abbiamo quasi finito.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Ora termina l’<strong>installazione</strong> di { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Adesso <strong>esegui</strong> il programma di installazione appena scaricato.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Ora <strong>apri</strong> il file appena scaricato.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Problemi? <a { $attrs }>Ottieni assistenza per l’installazione</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è molto più di un browser.
