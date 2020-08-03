@@ -8,6 +8,11 @@
 # HTML page title
 whatsnew79-page-title = Újdonságok a { -brand-name-firefox }ban
 # CTA link
+whatsnew79-get-started = Első lépések
+whatsnew79-get-more-control-over = Szerezzen nagyobb irányítást a nyomkövetők felett
+whatsnew79-firefox-blocks-more = A { -brand-name-firefox } több hirdetőt és követőt akadályoz meg a követésében, mint valaha.
+whatsnew79-read-our-privacy-promise = Olvassa el adatvédelmi ígéretünket
+# CTA link
 whatsnew79-read-more = Bővebben
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Szerezze be a { -brand-name-firefox }ot a telefonjára
