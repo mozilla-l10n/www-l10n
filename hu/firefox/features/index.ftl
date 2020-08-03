@@ -34,6 +34,7 @@ features-index-read-mozillas-mission = Olvassa el a { -brand-name-mozilla } kül
 features-index-choose-independence = Válassza a függetlenséget
 features-index-opted-in-to-privacy-so-you = Az adatvédelmet tiszteletben tartva, így szabadon böngészhet.
 features-index-read-our-privacy-policy = Olvassa el az adatvédelmi nyilatkozatunkat
+features-index-private-by-default = Alapértelmezés szerint privát
 features-index-enhanced-tracking = Fokozott követés elleni védelem
 features-index-we-dont-sell-access-to-your = Nem adjuk el az online adatait. Pont.
 features-index-get-firefox-for-privacy = { -brand-name-firefox } beszerzése az adatvédelem érdekében

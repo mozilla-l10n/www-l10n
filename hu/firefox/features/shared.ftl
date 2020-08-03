@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Jobb internetes élmény
+features-shared-more-firefox-features = Több { -brand-name-firefox } böngészőfunkciók
 features-shared-browse-faster = Böngésszen gyorsabban
 features-shared-your-favorite-extensions = A kedvenc kiegészítői
 features-shared-balanced-memory = Kiegyensúlyozott memória
