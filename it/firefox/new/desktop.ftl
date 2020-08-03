@@ -112,6 +112,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è stato 
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Hai già installato il browser. Ora scopri che cosa può offrirti { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Tieni sotto controllo gli hacker con { -brand-name-firefox-monitor }, proteggi le tue password con { -brand-name-firefox-lockwise } e altro ancora.
 firefox-desktop-download-get-more-from-firefox = Ottieni di più da { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Devi solo scaricare il browser
 
