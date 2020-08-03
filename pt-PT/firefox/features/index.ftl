@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Proteja a sua privacidade e navegue mais rápido com as funcionalidades do { -brand-name-firefox }
 # Hero title
 features-index-firefox-features = Funcionalidades do { -brand-name-firefox }
 # Hero description

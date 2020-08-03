@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: rebelde com
 features-independent-firefox-is-independent = O { -brand-name-firefox } é independente e parte da organização sem fins lucrativos { -brand-name-mozilla }, que luta pelos seus direitos online, mantém os poderes corporativos em cheque e faz a Internet acessível a toda a gente, em qualquer lugar.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Sem compromissos
+features-independent-firefox-is-built-by-v2 = O { -brand-name-firefox } é construído por uma organização sem fins lucrativos. Isto significa que pode fazer coisas que outros não podem, tais como construir novos produtos e funcionalidades sem uma agenda oculta. Nós defendemos o seu direito à privacidade com ferramentas como a navegação privada com proteção contra a monitorização.
 # Obsolete string
 features-independent-firefox-is-built-by = O { -brand-name-firefox } é construído por uma organização sem fins lucrativos. Isto significa que pode fazer coisas que outros não, tais como construir novos produtos e funcionalidades sem uma agenda oculta. Nós defendemos o seu direito à privacidade com ferramentas como a navegação privada com proteção contra a monitorização, que vão para além do que o { -brand-name-google } { -brand-name-chrome } e o { -brand-name-microsoft } { -brand-name-edge } oferecem.
 features-independent-what-you-see-is-what = O que vê é o que obtém
