@@ -88,6 +88,10 @@ firefox-desktop-download-enhanced-tracking-protection = 增强型跟踪保护（
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = 下载 <strong>{ -brand-name-android }</strong> 版 { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-ios = 下载 <strong>{ -brand-name-ios }</strong> 版 { -brand-name-firefox-browser }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = 浏览器安装完成。接下来开启更多功能，让 { -brand-name-firefox } 火力全开！
+firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-lockwise } 保护密码，还有种种等你探索。
+firefox-desktop-download-get-more-from-firefox = 让 { -brand-name-firefox } 火力全开
 firefox-desktop-download-just-download-the-browser = 只需下载浏览器
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
