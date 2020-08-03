@@ -57,6 +57,14 @@ firefox-desktop-download-third-party-cookie = Blokowanje plackow třećich poski
 firefox-desktop-download-fingerprinter-blocking = Blokowanje porstowych wotćišćow
 firefox-desktop-download-cryptominer-blocking = Blokowanje kryptokopakow
 firefox-desktop-download-private-browsing-mode = Priwatny modus
+firefox-desktop-download-clear-history = Historiju zhašeć
+firefox-desktop-download-automatic-updates = Awtomatiske aktualizacije
+firefox-desktop-download-customize-your-browser = Přiměrće swój wobhladowak
+firefox-desktop-download-themes = Drasty
+firefox-desktop-download-dark-mode = Ćmowy modus
+firefox-desktop-download-library-of-extensions = Biblioteka rozšěrjenjow
+firefox-desktop-download-your-privacy-comes = Priwatnosć ma najwyšu prioritu
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
