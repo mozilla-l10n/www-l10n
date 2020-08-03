@@ -70,6 +70,7 @@ firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnere
 firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
 firefox-desktop-download-individual-protections-report = Individuell beskyttelsesrapport
 firefox-desktop-download-secure-your-personal = Sikre din personlige informasjon
+firefox-desktop-download-breached-website-alerts = Advarsler om datalekkasjer på nettsteder
 firefox-desktop-download-built-in-password = Innebygd passordbehandling
 firefox-desktop-download-clear-history = Tøm historikk
 firefox-desktop-download-form-autofill = Autoutfylling av skjema
@@ -98,6 +99,8 @@ firefox-desktop-download-enhanced-tracking-protection = Utvidet sporingsbeskytte
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Last ned { -brand-name-firefox }-mobilnettleser for automatisk beskyttelse på alle enhetene dine.
+firefox-desktop-download-learn-about-the = Les mer om { -brand-name-firefox } for datamaskiner nedenfor
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta et bilde med høyoppløselig av hva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettleseren
