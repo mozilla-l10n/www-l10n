@@ -72,6 +72,7 @@ firefox-desktop-download-screenshots = Screenshot
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protezione antitracciamento avanzata
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-desktop-download-learn-about-the = Ulteriori informazioni sul browser { -brand-name-firefox } per desktop qui di seguito
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
