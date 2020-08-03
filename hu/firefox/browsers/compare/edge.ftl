@@ -24,3 +24,6 @@ compare-edge-at-firefox-our-privacy-fallback = A { -brand-name-firefox }nál az 
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = Az <a { $attrs }>adatvédelmi oldalak</a> megmutatjaákazokat a nyomkövetőket és sütiket, amelyeket az oldalak megpróbáltak elhelyezni, és azt is, hogy hányat blokkolt a { -brand-name-firefox } az Ön számára.
+# "InPrivate" is a brand name.
+compare-edge-in-firefox-private-browsing = A { -brand-name-firefox } Privát böngészési módja automatikusan törli a böngészési adatokat, például a jelszavakat, sütiket és előzményeket, és nem hagy nyomot a munkamenet bezárása után. Az { -brand-name-edge } viszont valójában privát módban (neve „InPrivate”) is rögzíti a böngészési előzményeket, és viszonylag könnyű rekonstruálni a teljes előzménytörténetet, függetlenül attól, hogy normál vagy InPrivate módban böngészik.
+compare-edge-both-browsers-are-relatively = Mindkét böngésző viszonylag egyenértékű az adattitkosítás szempontjából. Ha azonban fontos az Ön számára az online adatvédelem és az átláthatóság, akkor a { -brand-name-firefox } egyértelműen jobb választás.

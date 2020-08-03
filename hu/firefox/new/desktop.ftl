@@ -71,6 +71,20 @@ firefox-desktop-download-cryptominer-blocking = Kriptobányászok blokkolása
 firefox-desktop-download-private-browsing-mode = Privát böngészési mód
 firefox-desktop-download-individual-protections-report = Egyéni védelmi jelentés
 firefox-desktop-download-secure-your-personal = Tartsa biztonságban a személyes adatait
+firefox-desktop-download-breached-website-alerts = Értesítések az adatsértésben érintett webhelyekről
+firefox-desktop-download-built-in-password = Beépített jelszókezelő
+firefox-desktop-download-clear-history = Előzmények törlése
+firefox-desktop-download-form-autofill = Űrlapok automatikus kitöltése
+firefox-desktop-download-automatic-updates = Automatikus frissítések
+firefox-desktop-download-customize-your-browser = Szabja testre a böngészőjét
+firefox-desktop-download-themes = Témák
+firefox-desktop-download-dark-mode = Sötét mód
+firefox-desktop-download-library-of-extensions = Kiegészítők gyűjteménye
+firefox-desktop-download-adjust-search-bar = Keresősáv-beállítások módosítása
+firefox-desktop-download-change-new-tab = Új lap elrendezésének módosítása
+firefox-desktop-download-make-firefox-your = Tegye sajátjává a <strong>{ -brand-name-firefox }</strong>ot
+firefox-desktop-download-extensions-for-every = Kiegészítők minden érdeklődési körnek
+firefox-desktop-download-change-up-your = Változtassa meg a külsőt
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
