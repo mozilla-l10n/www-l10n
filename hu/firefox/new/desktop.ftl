@@ -36,6 +36,7 @@ firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyő
 firefox-desktop-download-master-password = Mesterjelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
 firefox-desktop-download-see-your-report = Nézze meg a védelmi jelentését
+firefox-desktop-download-for-everyone = { -brand-name-firefox } mindenki számára
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
