@@ -38,6 +38,15 @@ firefox-desktop-download-os-availability = Disponibilidade para o sistema operat
 firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de ecrã no navegador
 firefox-desktop-download-master-password = Palavra-passe principal
 firefox-desktop-download-we-block-the-ad = Bloqueamos os rastreadores de anúncios. Assim, você explora a Internet mais rapidamente.
+firefox-desktop-download-ads-are-distracting = Os anúncios distraem e tornam as páginas de Internet mais lentas enquanto os respetivos rastreadores monitorizam todos os movimentos que você faz na Internet. O { -brand-name-firefox-browser } bloqueia automaticamente a maioria dos rastreadores. Portanto, não é necessário andar a esmiuçar as suas configurações de segurança.
+firefox-desktop-download-see-your-report = Consulte o seu relatório de proteção
+firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
+firefox-desktop-download-available-in-over = Disponível em mais de 90 idiomas e compatível com máquinas { -brand-name-linux }, { -brand-name-windows } e { -brand-name-mac-short }, o { -brand-name-firefox } funciona independentemente do que está a utilizador e de onde esteja. Confirme se o seu sistema operativo está atualizado para obter a melhor experiência.
+firefox-desktop-download-review-system-req = Confirme os requisitos do sistema
+firefox-desktop-download-all-your-devices = Coloque o { -brand-name-firefox } em todos os seus dispositivos
+firefox-desktop-download-take-your-privacy = Leve a sua privacidade consigo para todos o lado. Os { -brand-name-firefox-browsers } para { -brand-name-android } e { -brand-name-ios } têm as mesmas definições fortes de privacidade para impedir que os rastreadores o persigam na Internet, não importa onde esteja.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Faça <strong>tudo</strong> com o { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Pesquise de forma mais inteligente e rápida
 firefox-desktop-download-search-from-address = Pesquisar a partir da barra de endereço
 firefox-desktop-download-search-engine-options = Opções de motores de pesquisa
@@ -50,6 +59,16 @@ firefox-desktop-download-bookmarks-manager = Gestor de marcadores
 firefox-desktop-download-autosuggest-urls = Sugestão automática de endereços
 firefox-desktop-download-sync-across-devices = Sincronização entre dispositivos
 firefox-desktop-download-reader-mode = Modo de leitura
+firefox-desktop-download-spell-check = Verificação ortográfica
+firefox-desktop-download-pinned-tabs = Fixar separadores
+firefox-desktop-download-stream-share-play = Transmita, partilhe e reproduza
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Bloquear a reprodução automática de vídeo e de áudio
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Vídeo em janela flutuante
+firefox-desktop-download-curated-content-on = Conteúdo selecionado num novo separador
+firefox-desktop-download-share-links = Partilhar ligações
+firefox-desktop-download-protect-your-privacy = Proteger a sua privacidade
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
