@@ -31,7 +31,7 @@ firefox-desktop-download-blocks-third-party = Harmadik féltől származó köve
 firefox-desktop-download-autoplay-blocking = Automatikus lejátszás blokkolása
 firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követőinek blokkolása
 # OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS elérhetőség
+firefox-desktop-download-os-availability = Elérhetőség különböző operációs rendszereken
 firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
 firefox-desktop-download-master-password = Mesterjelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
