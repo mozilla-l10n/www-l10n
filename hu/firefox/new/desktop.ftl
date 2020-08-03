@@ -85,6 +85,13 @@ firefox-desktop-download-change-new-tab = Új lap elrendezésének módosítása
 firefox-desktop-download-make-firefox-your = Tegye sajátjává a <strong>{ -brand-name-firefox }</strong>ot
 firefox-desktop-download-extensions-for-every = Kiegészítők minden érdeklődési körnek
 firefox-desktop-download-change-up-your = Változtassa meg a külsőt
+firefox-desktop-download-go-from-light = Váltson sötét módra a világos helyett a hangulatától vagy beállítottságától függően, vagy dobja fel a dolgokat egy egyéni témával (akár egy szivárványszínű egyszarvúval).
+firefox-desktop-download-tweak-your-settings = Finomítson a beállításokon
+firefox-desktop-download-theres-no-need = Nem kell megtartani az alapbeállításokat. Módosítsa az új lap oldalt, keresősávot, könyvjelzőket és egyeket, és úgy fedezze fel az internetet, ahogy szeretné.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = A <strong>nonprofit</strong> szervezet támogatásával, amely az embereket helyezi az első helyre
+firefox-desktop-download-challenging-the-status = Felkavarjuk az állóvizet 1998 óta
+firefox-desktop-download-your-privacy-comes = Adatvédelem mindenek előtt
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
