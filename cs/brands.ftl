@@ -9,7 +9,17 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
+-brand-name-amazon =
+    { $case ->
+       *[nom] Amazon
+        [gen] Amazonu
+        [dat] Amazonu
+        [acc] Amazon
+        [voc] Amazone
+        [loc] Amazonu
+        [ins] Amazonem
+    }
+    .gender = masculine
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook =
@@ -141,6 +151,44 @@
             { $capitalization ->
                *[upper] Prohlížečem Firefox
                 [lower] prohlížečem Firefox
+            }
+    }
+-brand-name-firefox-browsers =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Prohlížeče Firefox
+                [lower] prohlížeče Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Prohlížečů Firefox
+                [lower] prohlížečů Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Prohlížečům Firefox
+                [lower] prohlížečům Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Prohlížeče Firefox
+                [lower] prohlížeče Firefox
+            }
+        [voc]
+            { $capitalization ->
+               *[upper] Prohlížeče Firefox
+                [lower] prohlížeče Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Prohlížečích Firefox
+                [lower] prohlížečích Firefox
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Prohlížeči Firefox
+                [lower] prohlížeči Firefox
             }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -387,6 +435,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -498,6 +547,17 @@
     }
     .gender = masculine
 -brand-name-mac = macOS
+-brand-name-mac-short =
+    { $case ->
+       *[nom] Mac
+        [gen] Macu
+        [dat] Macu
+        [acc] Mac
+        [voc] Macu
+        [loc] Macu
+        [ins] Macem
+    }
+    .gender = masculine
 -brand-name-windows =
     { $case ->
        *[nom] Windows
@@ -515,8 +575,29 @@
 ## Apple products
 
 -brand-name-app-store = App Store
--brand-name-ipad = iPad
--brand-name-iphone = iPhone
+-brand-name-ipad =
+    { $case ->
+       *[nom] iPad
+        [gen] iPadu
+        [dat] iPadu
+        [acc] iPad
+        [voc] iPade
+        [loc] iPadu
+        [ins] iPadem
+    }
+    .gender = masculine
+-brand-name-iphone =
+    { $case ->
+       *[nom] iPhone
+        [gen] iPhonu
+        [dat] iPhonu
+        [acc] iPhone
+        [voc] iPhone
+        [loc] iPhonu
+        [ins] iPhonem
+    }
+    .gender = masculine
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -524,6 +605,17 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger =
+    { $case ->
+       *[nom] Facebook Messenger
+        [gen] Facebook Messengeru
+        [dat] Facebook Messengeru
+        [acc] Facebook Messenger
+        [voc] Facebook Messengere
+        [loc] Facebook Messengeru
+        [ins] Facebook Messengerem
+    }
+    .gender = masculine
 -brand-name-instagram =
     { $case ->
        *[nom] Instagram
@@ -535,6 +627,18 @@
         [ins] Instagramem
     }
     .gender = masculine
+-brand-name-messenger =
+    { $case ->
+       *[nom] Messenger
+        [gen] Messengeru
+        [dat] Messengeru
+        [acc] Messenger
+        [voc] Messengere
+        [loc] Messengeru
+        [ins] Messengerem
+    }
+    .gender = masculine
+-brand-name-workplace = Workplace
 
 ## Google products
 
