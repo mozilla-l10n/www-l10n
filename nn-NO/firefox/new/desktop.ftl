@@ -116,11 +116,17 @@ firefox-desktop-download-learn-about-the = Les meir om { -brand-name-firefox } f
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Frå sikkerheit til nyheiter til spel, finst det eit <a { $attrs }> tillegg for alle </a>. Legg til så mange du vil, til nettlesaren fungerer som du vil.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgjengeleg på alle einingane dine. Ta med fanene, historikken og bokmerka. Alt du treng er ein <a { $attrs }>{ -brand-name-firefox }-konto</a>.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta eit bilde med høg oppløying av kva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettlesaren
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokkerer automatisk <a { $attrs }>mange tredjeparts-sporarar</a> frå å samle inn og selje nettaktiviteten din.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Spørsmål? <a{ $attrs }>{ -brand-name-mozilla } brukerstøtte</a> kan hjelp deg.
 firefox-desktop-download-get-more-from-firefox = Få meir ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Berre last ned nettlesaren
 
