@@ -6,7 +6,7 @@ fxa-form-enter-your-email = { -brand-name-firefox-accounts }에 접근하려면 
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
-fxa-form-by-proceeding = 계속 진행하면 <a href="{ $url1 }">이용 약관</a>과 <a href="{ $url2 }">개인정보 보호 정책</a>에 동의하게 됩니다.
+fxa-form-by-proceeding = 계속 진행하면 <a href="{ $url1 }">이용 약관</a>과 <a href="{ $url2 }">개인정보처리방침</a>에 동의하게 됩니다.
 fxa-form-email-address = 이메일 주소
 fxa-form-continue = 계속
 fxa-form-create-account = 계정 생성
