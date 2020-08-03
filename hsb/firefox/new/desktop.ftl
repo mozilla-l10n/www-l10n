@@ -65,6 +65,25 @@ firefox-desktop-download-dark-mode = Ćmowy modus
 firefox-desktop-download-library-of-extensions = Biblioteka rozšěrjenjow
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma najwyšu prioritu
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synchronizujće swoje graty
+firefox-desktop-download-screenshots = Fota wobrazowki
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Polěpšeny slědowanski škit (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Wobkedźbujće hackerow z { -brand-name-firefox-monitor }, škitajće hesła z { -brand-name-firefox-lockwise } a wjace.
+firefox-desktop-download-get-more-from-firefox = Wobstarajće sej wjace wot { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Sćehńće prosće wobhladowak
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Nimale zdokonjany!
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Wužiwaće njewěsty, zestarjeny dźěłowy system, kotryž <a href="{ $url }">so hižo wot { -brand-name-firefox } njedpodpěruje</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Waše sćehnjenje dyrbjało so awtomatisce započeć. Njefunguje? <a id="{ $id }" href="{ $fallback_url }">Sćehńće znowa</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je wjace hač wobhladowak.
