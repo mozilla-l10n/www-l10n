@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Last ned { -brand-name-firefox-browser } fra { -brand-name-mozilla } — rask, privat og gratis
+firefox-desktop-download-meta-desc = Få { -brand-name-firefox }, en gratis nettleser støttet av { -brand-name-mozilla }, en ideell organisasjon dedikert til internetthelse og personvern. Tilgjengelig nå på { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
 firefox-desktop-download-og-title = Last ned den raskeste { -brand-name-firefox } noensinne
 firefox-desktop-download-og-desc = Raskere sidelasting, mindre minnebruk og fullastet av nye funksjoner, den nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -86,6 +87,9 @@ firefox-desktop-download-extensions-for-every = Utvidelser for alle interesser
 firefox-desktop-download-change-up-your = Endre utseendet
 firefox-desktop-download-tweak-your-settings = Finjuster innstillingene dine
 firefox-desktop-download-theres-no-need = Du trenger ikke å nøye deg med ett valg. Endre ny fane-siden, søkefeltet, bokmerker og mer for å utforske nettet slik du ønsker.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Støttet av den <strong>ideelle</strong> organisasjonen som setter mennesker først.
+firefox-desktop-download-challenging-the-status = Utfordrer den eksisterende situasjonen siden 1998
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kommer først
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behold alle favorittfunksjonene dine i nettleseren — og <strong>oppdag</strong> nye.
@@ -96,6 +100,7 @@ firefox-desktop-download-sync-your-devices = Synkroniser enhetene dine
 firefox-desktop-download-screenshots = Skjermbilder
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Utvidet sporingsbeskyttelse (ETP)
+firefox-desktop-download-from-watching-a = Fra å se en nettopplæring til å se på favorittlaget ditt, følger videoen deg mens du gjør andre oppgaver.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Last ned { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
