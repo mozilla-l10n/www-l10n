@@ -92,6 +92,27 @@ firefox-desktop-download-theres-no-need = Nem kell megtartani az alapbeállítá
 firefox-desktop-download-backed-by-the = A <strong>nonprofit</strong> szervezet támogatásával, amely az embereket helyezi az első helyre
 firefox-desktop-download-challenging-the-status = Felkavarjuk az állóvizet 1998 óta
 firefox-desktop-download-your-privacy-comes = Adatvédelem mindenek előtt
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Tartsa meg az összes kedvenc böngészőfunkcióját – és <strong>fedezzen fel</strong> újakat.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Az összes kedvenc { -brand-name-google } eszköze (mint a Gmail és a Dokumentumok) zökkenőmentesen működik a { -brand-name-firefox-browser }ben.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Töltse le ezt a böngészőkiegészítőt</a> hogy megakadályozza, hogy a { -brand-name-facebook } (és az { -brand-name-instagram }) követhesse Önt a weben.
+firefox-desktop-download-sync-your-devices = Szinkronizálja eszközeit
+firefox-desktop-download-screenshots = Képernyőképek
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Fokozott követés elleni védelem (ETP)
+firefox-desktop-download-from-watching-a = Egy webes oktatóvideó nézésétől kezdve a kedvenc csapatának követéséig, a videója követi Önt, miközben mással foglalkozik.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox } böngésző
+firefox-desktop-download-get-firefox-android = { -brand-name-firefox-browser } beszerzése <strong>{ -brand-name-android }ra</strong>
+firefox-desktop-download-get-firefox-ios = { -brand-name-firefox-browser } beszerzése <strong>{ -brand-name-ios }-re</strong>
+firefox-desktop-download-download-the-mobile = Töltse le a { -brand-name-firefox } mobil böngészőt az automatikus védelem érdekében minden eszközén.
+firefox-desktop-download-learn-about-the = Tudjon meg többet a { -brand-name-firefox } asztali böngészőről lentebb
+firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
+firefox-desktop-download-just-download-the-browser = Csak a böngésző letöltése
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Mindjárt megvagyunk!
