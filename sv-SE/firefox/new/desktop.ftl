@@ -92,14 +92,22 @@ firefox-desktop-download-change-up-your = Förändra ditt utseende
 firefox-desktop-download-go-from-light = Gå från ljust läge till mörkt läge beroende på ditt humör eller önskemål, eller lev upp saker med ett anpassat tema (regnbågens enhörning, kanske).
 firefox-desktop-download-tweak-your-settings = Justera dina inställningar
 firefox-desktop-download-theres-no-need = Du behöver inte nöja dig med ett val. Ändra den nya fliken, sökfältet, bokmärkena och mer för att utforska webben som du vill.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Stöds av den <strong>ideella</strong> organisationen där människor kommer först
+firefox-desktop-download-challenging-the-status = Vi har ifrågasatt status quo sedan 1998
 firefox-desktop-download-your-privacy-comes = Din integritet kommer först
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behåll alla dina favoritfunktioner i webbläsaren — och <strong>upptäck</ strong> nya.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Alla dina favorit { -brand-name-google } verktyg (som Gmail och Docs) fungerar sömlöst i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Ladda ner det här webbläsartillägget</a> för att hindra { -brand-name-facebook } (och { -brand-name-instagram }) från att spåra dig på webben.
 firefox-desktop-download-sync-your-devices = Synkronisera dina enheter
 firefox-desktop-download-screenshots = Skärmdumpar
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Förbättrat spårningsskydd (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hämta { -brand-name-firefox-browser } för <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Hämta { -brand-name-firefox-browser } för <strong>{ -brand-name-ios }</strong>
