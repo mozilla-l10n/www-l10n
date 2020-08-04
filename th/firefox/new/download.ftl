@@ -50,3 +50,7 @@ firefox-new-youre-using-an-insecure-outdated = คุณกำลังใช้
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = จะเริ่มดาวน์โหลดอัตโนมัติ ถ้าหากดาวน์โหลดไม่ได้ <a id="{ $id }" href="{ $fallback_url }">ลองดาวน์โหลดใหม่อีกครั้ง</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } เป็นมากกว่าเบราว์เซอร์
+firefox-new-its-privacy-and-peace-of = ให้คุณเรียกดูได้อย่าง<strong>เป็นส่วนตัวและอุ่นใจ</strong>ทั้งบนเดสก์ท็อปและมือถือ
+firefox-new-its-a-family-of-products = พบกับ<strong>ตระกูลผลิตภัณฑ์</strong>ที่ปฏิบัติต่อข้อมูลส่วนตัวของคุณด้วยความเคารพ
+firefox-new-its-everything-you-need-to = พบกับทุกสิ่งที่ต้องรู้เกี่ยวกับ<strong>การใช้ชีวิตออนไลน์อย่างปลอดภัย</strong>
+firefox-new-its-a-community-that-believes = พบกับ<strong>ชุมชน</strong>ที่เชื่อมั่นว่าเทคโนโลยีสามารถทำได้ดีกว่า
