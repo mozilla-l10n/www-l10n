@@ -29,6 +29,7 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox } のプライバシ�
 firefox-all-learn-about-firefox = { -brand-name-firefox } ブラウザーの詳細はこちら
 firefox-all-the-standard-firefox = 高速でプライベートな標準の { -brand-name-firefox } ブラウザーです。どの { -brand-name-firefox } を選択すればよいか分からない場合は、これを選択してください。
 firefox-all-get-a-sneak-peek-at = 正式リリースされる前に、最新の { -brand-name-firefox } ブラウザーの機能を確認できます。
+firefox-all-test-your-sites-against = 間もなくリリースされる { -brand-name-firefox } ブラウザーの機能であなたのサイトをテストしましょう。既定でオンになっている強力で柔軟な開発ツールが使用できます。
 firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成、配備、管理を簡素化する、企業の IT 管理者向けの Windows 版インストーラーです。
 firefox-all-arm64-installers = ARM64/AArch64 インストーラー
 firefox-all-arm64-installers-optimized = Snapdragon 搭載の { -brand-name-windows } PC 用に最適化された ARM64/AArch64 インストーラー。
