@@ -110,6 +110,9 @@ firefox-desktop-download-get-firefox-android = { -brand-name-firefox-browser } b
 firefox-desktop-download-get-firefox-ios = { -brand-name-firefox-browser } beszerzése <strong>{ -brand-name-ios }-re</strong>
 firefox-desktop-download-download-the-mobile = Töltse le a { -brand-name-firefox } mobil böngészőt az automatikus védelem érdekében minden eszközén.
 firefox-desktop-download-learn-about-the = Tudjon meg többet a { -brand-name-firefox } asztali böngészőről lentebb
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } automatikusan <a { $attrs }>blokkol számos harmadik féltől származó követőt</a>, hogy ne tudják begyűjteni és eladni a webes tevékenységét.
 firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
 firefox-desktop-download-just-download-the-browser = Csak a böngésző letöltése
 
