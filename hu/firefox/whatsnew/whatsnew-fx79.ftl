@@ -7,6 +7,15 @@
 
 # HTML page title
 whatsnew79-page-title = Újdonságok a { -brand-name-firefox }ban
+# Main title
+whatsnew79-main-title = Védje meg személyes adatait mindenkitől – még tőlünk is
+whatsnew79-main-intro = Az internetnek biztonságos helynek kellene lennie mindenki számára. Ezért a { -brand-name-firefox } nem követi online, és megakadályozza, hogy mások is kövessék.
+# Main CTA button
+whatsnew79-primary-cta = A { -brand-name-firefox } alapértelmezetté tétele
+# Fallback CTA button, shown if Firefox is already a user's default browser
+whatsnew79-fallback-cta = Szerezze be a { -brand-name-firefox } alkalmazást
+whatsnew79-secure-your-connection = Legyen kapcsolata biztonságos
+whatsnew79-with-one-tap-mozilla-vpn = A { -brand-name-mozilla-vpn } egyetlen érintéssel titkosítja a kapcsolatát, hogy online tevékenysége privát maradjon bármilyen hálózaton – biztonságban a hackerek és más kíváncsi szemek elől.
 # CTA link
 whatsnew79-get-started = Első lépések
 whatsnew79-get-more-control-over = Szerezzen nagyobb irányítást a nyomkövetők felett
@@ -16,6 +25,7 @@ whatsnew79-see-your-report = Jelentés megtekintése
 whatsnew79-update-your-firefox = Frissítse { -brand-name-firefox } böngészőjét
 whatsnew79-download-the-firefox = Töltse le a { -brand-name-firefox } böngészőt
 whatsnew79-read-our-privacy-promise = Olvassa el adatvédelmi ígéretünket
+whatsnew79-take-less-keep-it-safe = Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok. Vállalkozásunk nem arra épül, hogy visszaéljünk a bizalmával.
 # CTA link
 whatsnew79-read-more = Bővebben
 whatsnew79-keep-facebook-contained = Tartsa kordában a { -brand-name-facebook }ot

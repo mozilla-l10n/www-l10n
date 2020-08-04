@@ -18,7 +18,7 @@ firefox-privacy-our-promise = Az ígéretünk
 # Sub navigation link
 firefox-privacy-our-products = Termékeink
 firefox-privacy-hub-you-should-be-able-to-decide = Önnek kell eldöntenie, hogy ki láthatja a személyes adatait. Nem csak a barátainál, hanem minden hirdető és az interneten működő cég esetén – köztünk minket is.
-firefox-privacy-hub-thats-why-everything-we-make = Ezért minden amit készítünk és teszünk betartja a személyes adatokról szóló ígéretünket.
+firefox-privacy-hub-thats-why-everything-we-make = Ezért minden amit készítünk és teszünk betartja a személyes adatokra vonatkozó ígéretünket.
 firefox-privacy-hub-take-less = Gyűjtsünk kevesebbet
 firefox-privacy-hub-we-make-a-point-of-knowing = Fontosnak tartjuk, hogy kevesebbet tudjunk Önről
 firefox-privacy-hub-all-tech-companies-collect = Minden techvállalat adatot gyűjt termékei fejlesztése érdekében. De ehhez nem szükséges annyi személyes adat. Csak olyan adatokat szeretnénk, melyek végül Önt szolgálják. Azt kérdezzük magunktól: valóban szükségünk van erre? Miért van rá szükség? És mikor törölhetjük?

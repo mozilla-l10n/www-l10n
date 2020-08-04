@@ -13,4 +13,5 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = 4-5 hetente megjelenik a { -brand-name-firefox } új főverziója, amelynek eredményeként a { -brand-name-nightly } verziója is növekszik.
 # Obsolete
 nightly-whatsnew-every-6-to-8-weeks = 6-8 hetente megjelenik a { -brand-name-firefox } új főverziója, amelynek eredményeként a { -brand-name-nightly } verziója is növekszik.
+nightly-whatsnew-this-is-a-good = Ez egy remek alkalom arra, hogy megköszönjük, hogy segít jobbá tenni a { -brand-name-firefox }ot és javasoljunk néhány dokumentációt, kommunikációs csatornát és híroldalt, melyek kapcsolódnak a { -brand-name-nightly }hoz, és érdekelhetik Önt.
 nightly-whatsnew-go-community = Hajrá közösség!

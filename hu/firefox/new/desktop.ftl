@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = A { -brand-name-firefox-browser } letöltése – gyors, privát és ingyenes – { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Szerezze be a { -brand-name-firefox }ot, a szabad webböngészőt, amit a { -brand-name-mozilla } támogat, a nonprofit szervezet, amely elkötelezett az internet egészsége és az adatvédelem felé. Elérhető { -brand-name-windows }ra, { -brand-name-mac-short }re, { -brand-name-linux }ra, { -brand-name-android }ra és { -brand-name-ios }-re.
 firefox-desktop-download-og-title = Töltse le a valaha volt leggyorsabb { -brand-name-firefox }ot
 firefox-desktop-download-og-desc = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, az új { -brand-name-firefox } megérkezett.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -21,6 +22,8 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } támo
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>nem</strong> figyeli.
 firefox-desktop-download-how-firefox-compares = Hogy áll a { -brand-name-firefox } a többi böngészőhöz képest
+firefox-desktop-download-get-all-the-speed = Használja ki a sebességet és az eszközöket, anélkül hogy engedne az adatvédelemből. A { -brand-name-firefox-browser } olyan kevés adatot gyűjt Önről, hogy még az e-mail címét sem kérjük el a letöltéshez. Ennek az az oka, hogy más cégekkel ellentétben nincs pénzügyi okunk arra, hogy kövessük Önt a weben.
+firefox-desktop-download-how-we-compare = Hogyan állunk más böngészőkkel szemben
 firefox-desktop-download-compare-firefox-to = A { -brand-name-firefox } összehasonlítása:
 firefox-desktop-download-compare-chrome = a { -brand-name-chrome }-mal
 firefox-desktop-download-compare-edge = az { -brand-name-edge }-dzsel
@@ -41,6 +44,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } mindenki számá
 firefox-desktop-download-available-in-over = Több mint 90 nyelven elérhető, és kompatibilis a { -brand-name-windows }, { -brand-name-mac-short } és { -brand-name-linux } rendszerű gépekkel, a { -brand-name-firefox } működik, nem számít hogy használ és hol van. A legjobb élmény érdekében győződjön meg arról, hogy az operációs rendszere naprakész legyen.
 firefox-desktop-download-review-system-req = Ellenőrizze a rendszerkövetelményeket
 firefox-desktop-download-all-your-devices = Tegyen { -brand-name-firefox }ot az összes eszközére
+firefox-desktop-download-take-your-privacy = Vigye magával mindenhová az adatvédelmet. Az { -brand-name-ios }-re és { -brand-name-android }ra készült { -brand-name-firefox-browsers } ugyanazokat az erős adatvédelmi beállításokat használják, hogy blokkolják a webes követőket, bárhol is legyen.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Tegye meg <strong>mindet</strong> a { -brand-name-firefox }szal
 firefox-desktop-download-search-smarter = Keressen okosabban, gyorsabban
@@ -118,8 +122,23 @@ firefox-desktop-download-from-security-to = A biztonságtól kezdve a hírekig �
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = A { -brand-name-firefox }ot a <a { $attrs }>{ -brand-name-mozilla }</a> készítette, hogy egy gyorsabb, biztonságosabb alternatívája legyen az olyan böngészőknek, mint az { -brand-name-ie }, és most a { -brand-name-chrome }. Ma a küldetés-vezérelt cégünk és az önkéntesekből álló közösségünk továbbra is az adatvédelmet helyezi az első helyre.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az adatvédelemhez való jogra fókuszál  – ezt mi a <a { $attrs }>személyes adatokra vonatkozó ígéretünknek</a> hívjuk: Gyűjts kevesebben. Tartsd biztonságban. Nincsenek titkok. Az adatait, webes tevékenységét és az online életét a { -brand-name-firefox } védi.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = A { -brand-name-firefox } elérhető az összes eszközén; vigye magával a lapjait, előzményeit és könyvjelzőit. Csak egy <a { $attrs }>{ -brand-name-firefox }-fiókra van szüksége</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Készítsen bármiről nagy felbontású képet a böngészőbe épített <a { $attrs }>képernyőkép</a> eszközzel
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } automatikusan <a { $attrs }>blokkol számos harmadik féltől származó követőt</a>, hogy ne tudják begyűjteni és eladni a webes tevékenységét.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Kérdései vannak? A <a { $attrs }>{ -brand-name-mozilla } támogatás</a> a rendelkezésére áll.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Már rendelkezik a böngészővel. Most kapjon még többet a { -brand-name-firefox }tól.
+firefox-desktop-download-watch-for-hackers-with = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg a jelszavait a { -brand-name-firefox-lockwise } segítségével, és így tovább.
 firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
 firefox-desktop-download-just-download-the-browser = Csak a böngésző letöltése
 
