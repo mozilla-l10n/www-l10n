@@ -133,6 +133,25 @@ firefox-desktop-download-grab-a-high = Cipiwch delwedd cydraniad uchel o unrhyw 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn rhwystro'n awtomatig llawer o <a { $attrs }>dracwyr trydydd parti</a> rhag casglu a gwerthu eich gweithgaredd gwe.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Cwestiynau? Mae gan <a { $attrs }>Cefnogaeth { -brand-name-mozilla }</a> yr atebion.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Mae porwr eisoes gyda chi. Nawr beth am gael mwy fyth gan { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfrineiriau gyda { -brand-name-firefox-lockwise }, a mwy.
+firefox-desktop-download-get-more-from-firefox = Cael Mwy Gan { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Llwytho'r Porwr i Lawr
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Bron a gorffen!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Nawr gorffen <strong>gosod</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Nawr <strong>rhedeg</strong> y gosodwr sydd newydd ei lwytho i lawr.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Nawr <strong>agor</strong> y ffeil sydd newydd ei llwytho i lawr.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Cael trafferth? <a { $attrs }>Cael cymorth gyda'ch gosodiad </a>.
+firefox-desktop-download-in-another-language = Llwytho i lawr mewn iaith arall neu ar gyfer system weithredu arall.
