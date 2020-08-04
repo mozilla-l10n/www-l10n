@@ -18,10 +18,10 @@ firefox-browsers-mobile = มือถือ
 firefox-browsers-take-the-same-level-of-privacy = ให้คุณนำความเป็นส่วนตัวในระดับเดียวกัน — รวมถึงรหัสผ่าน ประวัติการค้นหา แท็บที่เปิดอยู่ และอื่น ๆ อีกมากมาย — ไปกับคุณได้ทุกที่
 firefox-browsers-download-for-mobile = ดาวน์โหลดสำหรับมือถือ
 firefox-browsers-send-me-a-link = ส่งลิงก์ให้ฉัน
-firefox-browsers-enterprise = องค์กร
+firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = รับการปกป้องข้อมูลแบบไม่เหมือนใครด้วยวงจรการสนับสนุนที่ปรับให้เหมาะกับความต้องการของบริษัทของคุณ
-firefox-browsers-enterprise-packages = แพกเกจสำหรับองค์กร
-firefox-browsers-reality = ความจริง
+firefox-browsers-enterprise-packages = แพกเกจสำหรับ { -brand-name-enterprise }
+firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = ไปไกลกว่าสองมิติและเพลิดเพลินไปกับเนื้อหาที่น่าดื่มด่ำที่สุดจากทั่วทั้งเว็บ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = สร้างเว็บไซต์และปรับแต่งโค้ดของคุณด้วย { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
