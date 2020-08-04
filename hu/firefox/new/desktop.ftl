@@ -109,7 +109,7 @@ firefox-desktop-download-screenshots = Képernyőképek
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Fokozott követés elleni védelem (ETP)
 firefox-desktop-download-from-watching-a = Egy webes oktatóvideó nézésétől kezdve a kedvenc csapatának követéséig, a videója követi Önt, miközben mással foglalkozik.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox } böngésző
+firefox-desktop-download-firefox-browser = -brand-name-firefox-browser = Firefox böngésző
 firefox-desktop-download-get-firefox-android = { -brand-name-firefox-browser } beszerzése <strong>{ -brand-name-android }ra</strong>
 firefox-desktop-download-get-firefox-ios = { -brand-name-firefox-browser } beszerzése <strong>{ -brand-name-ios }-re</strong>
 firefox-desktop-download-download-the-mobile = Töltse le a { -brand-name-firefox } mobil böngészőt az automatikus védelem érdekében minden eszközén.
