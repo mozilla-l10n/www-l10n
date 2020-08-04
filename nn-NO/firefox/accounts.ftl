@@ -50,7 +50,7 @@ firefox-accounts-help-us-keep-big-tech = Hjelp oss med å halde dei store IT-sel
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Vi støttar felleskap over heile verda som kjempar for eit sunnare internett. Legg til di røyst i kampen.
+firefox-accounts-we-support-communities = Vi støttar felleskap over heile verda som kjempar for eit sunnare internett. Legg til di røyst i denne kampen.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
