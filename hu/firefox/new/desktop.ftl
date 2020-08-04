@@ -112,6 +112,10 @@ firefox-desktop-download-download-the-mobile = Töltse le a { -brand-name-firefo
 firefox-desktop-download-learn-about-the = Tudjon meg többet a { -brand-name-firefox } asztali böngészőről lentebb
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = A biztonságtól kezdve a hírekig és a játékokig, <a { $attrs }>mindenki számára van egy kiegészítő</a>. Adjon hozzá annyit, amennyit csak akar, amíg a böngészője pont megfelelő lesz.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } automatikusan <a { $attrs }>blokkol számos harmadik féltől származó követőt</a>, hogy ne tudják begyűjteni és eladni a webes tevékenységét.
 firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
 firefox-desktop-download-just-download-the-browser = Csak a böngésző letöltése
