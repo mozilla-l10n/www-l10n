@@ -17,9 +17,9 @@ firefox-all-browser = เบราว์เซอร์:
 firefox-all-platform = แพลตฟอร์ม:
 firefox-all-language = ภาษา:
 firefox-all-sorry-we-couldnt-find = ขออภัย เราไม่พบการดาวน์โหลดที่คุณต้องการ โปรดลองอีกครั้งหรือเลือกการดาวน์โหลดจากรายการด้านล่าง
-firefox-all-64-bit-installers = ตัวติดตั้ง 64 บิต
+firefox-all-64-bit-installers = ตัวติดตั้งแบบ 64 บิต
 firefox-all-choose-a-64-bit-installer = เลือกตัวติดตั้งแบบ 64 บิตสำหรับคอมพิวเตอร์ที่มีโปรเซสเซอร์แบบ 64 บิต ซึ่งจะทำให้เครื่องจัดสรร RAM ให้กับแต่ละโปรแกรมที่สำคัญโดยเฉพาะเกมและแอปพลิเคชันที่ต้องการอื่น ๆ ได้มากขึ้น
-firefox-all-32-bit-installers = ตัวติดตั้ง 32 บิต
+firefox-all-32-bit-installers = ตัวติดตั้งแบบ 32 บิต
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = ดาวน์โหลด{ -brand-name-firefox-browser } ในภาษาไทยและภาษาอื่น ๆ อีกมากกว่า 90 ภาษา
 # HTML page description, also used as the introductory text.

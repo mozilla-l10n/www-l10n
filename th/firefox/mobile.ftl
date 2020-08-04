@@ -18,6 +18,9 @@ firefox-mobile-stop-companies-from-following = หยุดบริษัทต
 firefox-mobile-sync-your-history-passwords = ซิงค์ประวัติ รหัสผ่าน และที่คั่นหน้าของคุณ ส่งแท็บในอุปกรณ์ทุกเครื่องของคุณ
 firefox-mobile-android-only = { -brand-name-android } เท่านั้น
 firefox-mobile-make-android-your-own = ทำให้ { -brand-name-android } เป็นของคุณเอง
+# Variables:
+#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-mobile-customize-your-firefox-mobile = ปรับแต่งเบราว์เซอร์มือถือ { -brand-name-firefox } ของคุณด้วย<a href="{ $url }">ส่วนขยาย</a>ที่ใช้ปิดกั้นโฆษณา จัดการรหัสผ่าน หยุด { -brand-name-facebook } ไม่ให้ตามรอยคุณ และอื่นๆ อีกมากมาย
 firefox-mobile-find-it-fast-with-a-smart = ค้นหาอย่างรวดเร็วด้วยแถบค้นหาอัจฉริยะ
 firefox-mobile-the-privacy-you-deserve-the = สัมผัสความเป็นส่วนตัวและความเร็วในแบบที่คุณคู่ควร
 firefox-mobile-get-firefox-for-mobile = รับ { -brand-name-firefox } สำหรับอุปกรณ์เคลื่อนที่
