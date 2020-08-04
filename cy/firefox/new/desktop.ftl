@@ -101,6 +101,38 @@ firefox-desktop-download-keep-all-your = Cadwch eich holl hoff nodweddion porwr 
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Mae'ch holl hoff offer { -brand-name-google } (fel Gmail a Docs) yn gweithio'n ddi-dor yn y porwr { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs }> Llwythwch i lawr yr estyniad porwr hwn </a> i atal { -brand-name-facebook } (a { -brand-name-instagram }) rhag eich tracio o amgylch y we.
+firefox-desktop-download-sync-your-devices = Cydweddwch eich dyfeisiau
+firefox-desktop-download-screenshots = Lluniau Sgrin
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
+firefox-desktop-download-from-watching-a = O wylio tiwtorial gwe i gadw llygad ar eich hoff dîm, mae eich fideo yn eich dilyn wrth i chi amldasgio.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Estyn { -brand-name-firefox-browser } <strong> { -brand-name-android } </strong>
+firefox-desktop-download-get-firefox-ios = Estyn { -brand-name-firefox-browser } <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Llwythwch i lawr y porwr symudol { -brand-name-firefox } ar gyfer diogelwch awtomatig ar eich holl ddyfeisiau.
+firefox-desktop-download-learn-about-the = Dysgwch am y porwyr bwrdd gwaith { -brand-name-firefox } isod
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = O ddiogelwch i newyddion i gemau, mae yna estyniad <a { $attrs }>ar gyfer pawb</a>. Ychwanegwch gynifer ag y dymunwch nes bod eich porwr yn iawn i chi.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } gan <a { $attrs }> { -brand-name-mozilla } </a> fel dewis arall cyflymach, mwy preifat i borwyr fel { -brand-name-ie }, a nawr { -brand-name-chrome }. Heddiw, mae ein cwmni sy'n cael ei yrru gan genhadaeth a'n cymuned wirfoddol yn parhau i roi eich preifatrwydd o flaen pob dim.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - rydyn ni'n ei alw'n <a { $attrs }>Addewid Data Personol</a>: Cymerwch lai. Cadwch e'n ddiogel. Dim cyfrinachau. Mae eich data, eich gweithgaredd gwe, eich bywyd ar-lein wedi'i warchod gyda { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, hanes a nodau tudalen gyda chi. Y cyfan sydd ei angen yw cyfrif <a { $attrs }>{ -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Cipiwch delwedd cydraniad uchel o unrhyw beth ar-lein gyda'n teclyn <a { $attrs }>llun sgrin</a> wedi'i adeiladu o fewn y porwr
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn rhwystro'n awtomatig llawer o <a { $attrs }>dracwyr trydydd parti</a> rhag casglu a gwerthu eich gweithgaredd gwe.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
