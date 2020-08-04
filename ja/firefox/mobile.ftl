@@ -10,6 +10,7 @@ firefox-mobile-firefox-browser-for-mobile = モバイル版 { -brand-name-firefo
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = 広告主ではなく、あなたのために作られたモバイルブラウザーを入手してください
+firefox-mobile-check-out-firefox-again-its = { -brand-name-ios } 版および { -brand-name-android } 版の { -brand-name-firefox } 再び。高速でプライベートなあなたの味方です。
 firefox-mobile-get-automatic-privacy-on-mobile = 使うだけでプライバシーを保護するモバイル版を入手しましょう
 firefox-mobile-super-fast-private-by-default = 超速い、プライベートブラウザー。2000 以上のオンライントラッカーをブロックします。
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } Mobile を入手
@@ -31,6 +32,8 @@ firefox-mobile-make-android-your-own = あなた好みの { -brand-name-android 
 #   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-mobile-customize-your-firefox-mobile = <a href="{ $url }">拡張機能</a> で { -brand-name-firefox } モバイルブラウザーをカスタマイズしましょう。公告ブロック、パスワード管理、{ -brand-name-facebook } による追跡拒否など、さらに多くのカスタマイズができます。
 firefox-mobile-find-it-fast-with-a-smart = スマート検索バーで、素早く見つける
+firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } は、賢い検索候補でユーザーのニーズを予想して、よく訪れるサイトにすぐにアクセスできます。
+firefox-mobile-the-privacy-you-deserve-the = ユーザーのプライバシーを尊重し、必要なスピードを提供します。
 firefox-mobile-get-firefox-for-mobile = モバイル版 { -brand-name-firefox } を入手
 firefox-mobile-send-a-download-link-to-your = ダウンロードリンクを端末に送信する。
 firefox-mobile-scan-the-qr-code-to-get-started = QR コードをスキャンして始める
