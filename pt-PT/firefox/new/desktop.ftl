@@ -112,6 +112,8 @@ firefox-desktop-download-from-watching-a = Desde assistir a um tutorial na Inter
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obtenha o { -brand-name-firefox-browser } para o <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtenha o { -brand-name-firefox-browser } para o <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Transfira o { -brand-name-firefox } móvel para uma proteção automática para todos os seus dispositivos.
+firefox-desktop-download-learn-about-the = Saber mais sobre o { -brand-name-firefox } para computadores abaixo
 firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Basta transferir o navegador
 
