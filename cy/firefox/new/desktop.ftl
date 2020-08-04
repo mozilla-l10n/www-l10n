@@ -45,6 +45,36 @@ firefox-desktop-download-available-in-over = Ar gael mewn dros 90 o ieithoedd, a
 firefox-desktop-download-review-system-req = Gwiriwch ofynion y system
 firefox-desktop-download-all-your-devices = Rhowch { -brand-name-firefox } ar eich holl ddyfeisiau
 firefox-desktop-download-take-your-privacy = Ewch â'ch preifatrwydd gyda chi i bobman. Mae gan { -brand-name-firefox-porwyr } { -brand-name-ios } a { -brand-name-android } yr un gosodiadau preifatrwydd cryf i rwystro tracwyr rhag eich dilyn o amgylch y we, ni waeth ble rydych chi.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Gwneud <strong>popeth</strong> gyda { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Chwilio'n glyfrach, yn gynt
+firefox-desktop-download-search-from-address = Chwilio o'r bar cyfeiriad
+firefox-desktop-download-search-engine-options = Dewis o beiriannau chwilio
+firefox-desktop-download-smart-search-suggestions = Awgrymiadau chwilio clyfar
+firefox-desktop-download-bookmark-history = Nodau tudalen, hanes a thab agored mewn canlyniadau
+firefox-desktop-download-boost-your = Cynyddwch eich gweithgaredd
+firefox-desktop-download-works-with-google = Yn gweithio gyda chynnyrch { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Teclyn llun sgrin mewnol
+firefox-desktop-download-bookmarks-manager = Rheolwr nodau tudalen
+firefox-desktop-download-autosuggest-urls = Awto gynnig URLau
+firefox-desktop-download-sync-across-devices = Cydweddu ar draws dyfeisiau
+firefox-desktop-download-reader-mode = Modd darllen
+firefox-desktop-download-spell-check = Gwirio sillafu
+firefox-desktop-download-pinned-tabs = Pinio Tabiau
+firefox-desktop-download-stream-share-play = Ffrydio, rhannu a chwarae
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Rhwystro Awtochwarae fideo a sain
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Llun-mewn-Llun
+firefox-desktop-download-curated-content-on = Cynnwys wedi'i guradu ar dab newydd
+firefox-desktop-download-share-links = Rhannu dolen
+firefox-desktop-download-protect-your-privacy = Diogelu eich preifatrwydd
+firefox-desktop-download-third-party-cookie = Rhwystro Cwcis Trydydd Parti
+firefox-desktop-download-fingerprinter-blocking = Rhwystro Bysbrintwyr
+firefox-desktop-download-cryptominer-blocking = Rhwystro Cryptogloddwyr
+firefox-desktop-download-private-browsing-mode = Modd Pori Preifat
+firefox-desktop-download-individual-protections-report = Adroddiad diogelu personol
+firefox-desktop-download-secure-your-personal = Diogelwch eich manylion personol
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
