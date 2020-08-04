@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = わずか数分で { -brand-name-chrome } から { -brand-name-firefox } へ乗り換えよう
+switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox } は { -brand-name-chrome } からブックマーク、パスワード、設定を自動的にインポートするので、{ -brand-name-firefox } への乗り換えは早く、簡単で、心配無用です。
 switch-switching-to-firefox-is-fast = { -brand-name-firefox } は { -brand-name-chrome } からブックマーク、自動補完、パスワード、設定を自動的にインポートするので、{ -brand-name-firefox } への乗り換えは素早く、簡単で、心配無用です。
+switch-switching-to-firefox-page-description-updated = { -brand-name-firefox } への乗り換えは、早く、簡単で、心配無用です。{ -brand-name-firefox } は { -brand-name-chrome } からブックマーク、パスワード、設定を自動的にインポートします。
 switch-switching-to-firefox-page-description = { -brand-name-firefox } への乗り換えは素早く、簡単で、心配無用です。{ -brand-name-firefox } は { -brand-name-chrome } からブックマーク、自動補完、パスワード、設定を自動的にインポートします。
 switch-select-what-to-take = 何を { -brand-name-chrome } から取り込むか選びましょう。
 switch-let-firefox-do-the-rest = 後は { -brand-name-firefox } におまかせ。
@@ -20,6 +22,7 @@ switch-still-not-convinced = まだ { -brand-name-firefox } への乗り換え�
 switch-enjoy-the-web-faster = 使い慣れた環境で、もっと速くウェブを楽しみましょう。
 switch-download-and-switch = ダウンロードして乗り換え
 switch-share-to-facebook = Facebook で共有
+switch-share-to-facebook-updated = { -brand-name-facebook } で共有する
 switch-send-a-tweet = ツイートを送る
 switch-hey = こんにちは。
 switch-check-it-out = ちょっと使ってみてどんな感じか聞かせてください:
