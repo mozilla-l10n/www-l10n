@@ -115,6 +115,9 @@ firefox-desktop-download-learn-about-the = Tudjon meg többet a { -brand-name-fi
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = A biztonságtól kezdve a hírekig és a játékokig, <a { $attrs }>mindenki számára van egy kiegészítő</a>. Adjon hozzá annyit, amennyit csak akar, amíg a böngészője pont megfelelő lesz.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = A { -brand-name-firefox }ot a <a { $attrs }>{ -brand-name-mozilla }</a> készítette, hogy egy gyorsabb, biztonságosabb alternatívája legyen az olyan böngészőknek, mint az { -brand-name-ie }, és most a { -brand-name-chrome }. Ma a küldetés-vezérelt cégünk és az önkéntesekből álló közösségünk továbbra is az adatvédelmet helyezi az első helyre.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } automatikusan <a { $attrs }>blokkol számos harmadik féltől származó követőt</a>, hogy ne tudják begyűjteni és eladni a webes tevékenységét.
 firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
