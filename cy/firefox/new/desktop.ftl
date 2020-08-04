@@ -75,6 +75,32 @@ firefox-desktop-download-cryptominer-blocking = Rhwystro Cryptogloddwyr
 firefox-desktop-download-private-browsing-mode = Modd Pori Preifat
 firefox-desktop-download-individual-protections-report = Adroddiad diogelu personol
 firefox-desktop-download-secure-your-personal = Diogelwch eich manylion personol
+firefox-desktop-download-breached-website-alerts = Rhybuddion tor-gwefannau
+firefox-desktop-download-built-in-password = Rheolwr cyfrinair mewnol
+firefox-desktop-download-clear-history = Clirio'r hanes
+firefox-desktop-download-form-autofill = Awtolanw ffurflenni
+firefox-desktop-download-automatic-updates = Diweddariadau awtomatig
+firefox-desktop-download-customize-your-browser = Cyfaddasu eich porwr
+firefox-desktop-download-themes = Themâu
+firefox-desktop-download-dark-mode = Modd tywyll
+firefox-desktop-download-library-of-extensions = Llyfrgell o estyniadau
+firefox-desktop-download-adjust-search-bar = Addasu gosodiadau'r bar chwilio
+firefox-desktop-download-change-new-tab = Newid cynllun tab newydd
+firefox-desktop-download-make-firefox-your = Gwnewch eich yn gartrefol yn y <strong>{ -brand-name-firefox }</strong>
+firefox-desktop-download-extensions-for-every = Estyniadau ar gyfer pob diddordeb
+firefox-desktop-download-change-up-your = Newid eich golwg
+firefox-desktop-download-go-from-light = Mynd o'r modd golau i'r modd tywyll yn dibynnu ar eich hwyliau neu'ch dewis, neu fywiogi pethau gyda thema arfer (uncorn enfys, efallai).
+firefox-desktop-download-tweak-your-settings = Addasu eich gosodiadau
+firefox-desktop-download-theres-no-need = Does dim angen bodloni. Gallwch newid y dudalen tab newydd, bar chwilio, nodau tudalen a mwy i grwydro'r rhyngrwyd yn y ffordd rydych chi ei eisiau.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Gyda chefnogaeth y corff <strong>dim-er-elw</strong> sy'n rhoi pobl yn gyntaf
+firefox-desktop-download-challenging-the-status = Yn herio'r sefydliad er 1998
+firefox-desktop-download-your-privacy-comes = Eich preifatrwydd yn flaenoriaeth
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Cadwch eich holl hoff nodweddion porwr - a <strong>darganfod</strong> rhai newydd.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Mae'ch holl hoff offer { -brand-name-google } (fel Gmail a Docs) yn gweithio'n ddi-dor yn y porwr { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
