@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = 正しいメールアドレスを入力してください
+newsletter-form-you-must-agree-to = プライバシー通知に同意してください。
+newsletter-form-your-email-address = メールアドレス
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = 国または地域を選択してください
 newsletter-form-your-email-here = メールアドレスを入力
 newsletter-form-format = 形式
 newsletter-form-html = HTML
@@ -11,6 +17,7 @@ newsletter-form-get-firefox-news = { -brand-name-firefox } ニュースレター
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = { -brand-name-mozilla } が <a href="{ $url }">このプライバシー通知</a> に従って私の個人情報を扱うことに同意します。
 newsletter-form-we-will-only-send = { -brand-name-mozilla } に関連する情報のみお届けします。
+newsletter-form-we-will-only-send-firefox = { -brand-name-firefox } に関連する情報だけをお届けします。
 newsletter-form-if-you-havent-previously = あなたがこれまでに { -brand-name-mozilla } 関連ニュースレターの購読を確認したことがない場合、確認を求められます。受信トレイあるいは迷惑メールフィルターを確認して、{ -brand-name-mozilla } からのメールを見つけてください。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + あなた
 newsletter-form-get-firefox-tips = { -brand-name-firefox } に関する使い方のコツや最新情報を手に入れよう

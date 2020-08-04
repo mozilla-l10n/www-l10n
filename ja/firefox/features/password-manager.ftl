@@ -16,12 +16,14 @@ password-manager-password-hero = パスワードヒーロー
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = 面倒な再設定は忘れましょう。{ -brand-name-firefox } のパスワードマネージャーはすべてのパスワードを保存してくれるので、自動的にログインしたり、保存したパスワードを簡単に見つけ出したりできます。さらにセキュリティを強化するため、<a href="{ $url }">マスターパスワード</a> を設定することも可能です。
+password-manager-password-magician = パスワードマジシャン
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = パスワード忍者
 password-manager-no-more-try-again = どこかのサイトへ入ろうとしているときに「やり直し」はもう必要ありません。スマホから { -brand-name-firefox-account }にログインすれば、パスワードが自動的に同期され、ログイン情報が普段通りに表示されます。
+password-manager-password-champion = パスワードチャンピオン
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = パスワード達人
 # Obsolete string
 # Variables:
