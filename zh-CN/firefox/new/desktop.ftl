@@ -85,9 +85,14 @@ firefox-desktop-download-make-firefox-your = 让 <strong>{ -brand-name-firefox }
 firefox-desktop-download-extensions-for-every = 各式用途的扩展
 firefox-desktop-download-change-up-your = 更改外观
 firefox-desktop-download-tweak-your-settings = 调整设置
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = 由以人为本的<strong>非营利组织</strong>全力支持
 firefox-desktop-download-challenging-the-status = 从1998 年起就挑战现状
 firefox-desktop-download-your-privacy-comes = 将您的隐私放在首位
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >下载此浏览器扩展</a>，阻止 { -brand-name-facebook } 及 { -brand-name-instagram } 在网上跟踪您。
 firefox-desktop-download-sync-your-devices = 同步您的设备
 firefox-desktop-download-screenshots = 屏幕截图
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -111,6 +116,15 @@ firefox-desktop-download-just-download-the-browser = 只需下载浏览器
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = 快完成了！
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = 接下来，完成<strong>安装</strong> { -brand-name-firefox }。
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = 接下来，<strong>运行</strong>刚下载的安装程序。
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = 接下来，<strong>打开</strong>刚下载的文件。
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = 遇到问题？<a { $attrs }>获取安装帮助</a>。
 firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
