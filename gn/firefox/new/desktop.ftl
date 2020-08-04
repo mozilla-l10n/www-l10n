@@ -29,6 +29,8 @@ firefox-desktop-download-pinned-tabs = Tendayke mbojapyre
 firefox-desktop-download-stream-share-play = Emombe’u, emoherakuã ha eñembosarái
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Ejoko ta’ãngamýi ha mba’epu ñemboheta ijeheguíva
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-tweak-your-settings = Emoiporã ne ñemboheko
 firefox-desktop-download-your-privacy-comes = Ne ñemigua oĩ tenonderã
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
