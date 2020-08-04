@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Emo’ã ne ñemigua ha eikundaha pya’eve { -brand-name-firefox } rembiapoite ndive
+# HTML page description
+features-index-youre-in-control-with-firefoxs = { -brand-name-firefox } rembiapoite hasy’ỹva ipuru ndive omo’ãva ne ñemigua ha kundahára pya’ekue, nde eñangarekóva.
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } rembiapoite
 features-index-see-all = Ehecha opaite jepysokue
