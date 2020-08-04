@@ -22,11 +22,19 @@ firefox-all-choose-a-64-bit-installer = 64 ビット CPU を搭載したコン�
 firefox-all-32-bit-installers = 32 ビットインストーラー
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = { -brand-name-firefox-browser } を日本語および他の 90 以上の言語でダウンロードする
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = 誰にでもインターネットにアクセスする資格があります。あなたの言語が障害になってはいけません。そのため、世界中のボランティアの協力を得て、90 以上の言語で { -brand-name-firefox-browser } を利用できるようにしています。
 firefox-all-choose-which-firefox = あなたの言語の { -brand-name-firefox-browser } を選んでダウンロードしてください
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } のプライバシー通知
 firefox-all-learn-about-firefox = { -brand-name-firefox } ブラウザーの詳細はこちら
+firefox-all-the-standard-firefox = 高速でプライベートな標準の { -brand-name-firefox } ブラウザーです。どの { -brand-name-firefox } を選択すればよいか分からない場合は、これを選択してください。
+firefox-all-get-a-sneak-peek-at = 正式リリースされる前に、最新の { -brand-name-firefox } ブラウザーの機能を確認できます。
+firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成、配備、管理を簡素化する、企業の IT 管理者向けの Windows 版インストーラーです。
 firefox-all-arm64-installers = ARM64/AArch64 インストーラー
 firefox-all-arm64-installers-optimized = Snapdragon 搭載の { -brand-name-windows } PC 用に最適化された ARM64/AArch64 インストーラー。
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = 32 ビット CPU を搭載したコンピューター、または古いものや性能の低いコンピューターには、32 ビット版のインストーラーを選んでください。64 ビット版と 32 ビット版の<a href="{ $url }">どちらを選ぶべきか分からない</a>ときは、どちらでも動作する 32 ビット版の使用をお勧めします。
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
