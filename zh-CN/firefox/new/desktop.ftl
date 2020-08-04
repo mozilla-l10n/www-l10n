@@ -14,8 +14,12 @@ firefox-desktop-download-og-title = 下载有史以来最快的 { -brand-name-fi
 firefox-desktop-download-og-desc = 加载更快、内存占用更低、包含更多功能。全新的 { -brand-name-firefox } 闪耀登场！
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = 选用会保护重要数据的浏览器
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快，且不会出卖您的浏览器。
 firefox-desktop-download-download-options = 下载其他平台与语言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 用户支持
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = 上网无拘束。<br>{ -brand-name-firefox-browser }<strong>不会</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 与其他浏览器比较
 firefox-desktop-download-how-we-compare = 我们与其他浏览器的差别
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 与下列浏览器：
@@ -36,6 +40,8 @@ firefox-desktop-download-see-your-report = 查看您的保护报告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-review-system-req = 确认系统配置要求
 firefox-desktop-download-all-your-devices = 将 { -brand-name-firefox } 安装到您所有的设备上
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = { -brand-name-firefox } <strong>都能使用</strong>
 firefox-desktop-download-search-smarter = 搜索更智能、更快
 firefox-desktop-download-search-from-address = 从地址栏进行搜索
 firefox-desktop-download-search-engine-options = 搜索引擎选项
@@ -79,6 +85,7 @@ firefox-desktop-download-make-firefox-your = 让 <strong>{ -brand-name-firefox }
 firefox-desktop-download-extensions-for-every = 各式用途的扩展
 firefox-desktop-download-change-up-your = 更改外观
 firefox-desktop-download-tweak-your-settings = 调整设置
+firefox-desktop-download-challenging-the-status = 从1998 年起就挑战现状
 firefox-desktop-download-your-privacy-comes = 将您的隐私放在首位
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = 同步您的设备
@@ -88,6 +95,13 @@ firefox-desktop-download-enhanced-tracking-protection = 增强型跟踪保护（
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = 下载 <strong>{ -brand-name-android }</strong> 版 { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-ios = 下载 <strong>{ -brand-name-ios }</strong> 版 { -brand-name-firefox-browser }
+firefox-desktop-download-learn-about-the = 进一步了解各种 { -brand-name-firefox } 桌面版浏览器
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 会自动<a { $attrs }>拦截许多收集并出售您在线活动的第三方跟踪器</a>。
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = 有问题？<a { $attrs }>{ -brand-name-mozilla } 用户支持</a> 能帮上忙。
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 浏览器安装完成。接下来开启更多功能，让 { -brand-name-firefox } 火力全开！
 firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-lockwise } 保护密码，还有种种等你探索。
@@ -98,6 +112,9 @@ firefox-desktop-download-just-download-the-browser = 只需下载浏览器
 
 firefox-desktop-download-almost-there = 快完成了！
 firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用一个不安全、已过时的操作系统，<a href="{ $url }">{ -brand-name-firefox } 已停止支持 </a>。
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
