@@ -22,7 +22,7 @@ firefox-desktop-download-browser-support = Cefnogaeth { -brand-name-firefox-brow
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim</strong> yn eich gwylio.
 firefox-desktop-download-how-firefox-compares = Sut mae { -brand-name-firefox } yn cymharu â phorwyr eraill
-firefox-desktop-download-get-all-the-speed = Sicrhewch yr holl gyflymder ac offer heb ddim ymyriadau ar eich preifatrwydd. Mae { -brand-name-firefox-browser } yn casglu cyn lleied o ddata amdanoch chi, nid ydym hyd yn oed yn gofyn am eich cyfeiriad e-bost i'w lwytho i lawr. Mae hynny oherwydd yn wahanol i borwyr eraill, nid oes gennym unrhyw reswm ariannol i'ch dilyn o amgylch y we.
+firefox-desktop-download-get-all-the-speed = Sicrhewch yr holl gyflymder ac offer heb ddim ymyriadau ar eich preifatrwydd. Mae { -brand-name-firefox-browser } yn casglu prin dim data amdanoch chi, nid ydym hyd yn oed yn gofyn am eich cyfeiriad e-bost i'w lwytho i lawr. Mae hynny oherwydd yn wahanol i borwyr eraill, nid oes gennym unrhyw reswm ariannol i'ch dilyn o amgylch y we.
 firefox-desktop-download-how-we-compare = Sut rydyn ni'n cymharu â phorwyr eraill
 firefox-desktop-download-compare-firefox-to = Cymharu { -brand-name-firefox } â:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -38,13 +38,13 @@ firefox-desktop-download-os-availability = Argaeledd yr OS
 firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porwr
 firefox-desktop-download-master-password = Prif gyfrinair
 firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebion. Rydych chi'n crwydro'r rhyngrwyd yn gynt.
-firefox-desktop-download-ads-are-distracting = Mae hysbysebion yn tarfu arnoch ac yn gwneud i dudalennau gwe lwytho'n arafach tra bod eu tracwyr yn gwylio pob symudiad rydych chi'n ei wneud ar-lein. Mae'r { -brand-name-firefox-browser } yn rhwystro'r mwyafrif o dracwyr yn awtomatig, felly does dim angen mynd i'ch gosodiadau diogelwch.
+firefox-desktop-download-ads-are-distracting = Mae hysbysebion yn eich blino ac yn gwneud i dudalennau gwe lwytho'n arafach tra bod eu tracwyr yn gwylio pob symudiad rydych chi'n ei wneud ar-lein. Mae'r { -brand-name-firefox-browser } yn rhwystro'r mwyafrif o dracwyr yn awtomatig, felly does dim angen mynd i'ch gosodiadau diogelwch.
 firefox-desktop-download-see-your-report = Gweld eich adroddiad diogelu
 firefox-desktop-download-for-everyone = Mae { -brand-name-firefox } ar gyfer pawb
 firefox-desktop-download-available-in-over = Ar gael mewn dros 90 o ieithoedd, ac yn gydnaws â pheiriannau  { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }, mae { -brand-name-firefox } yn gweithio ni waeth beth rydych chi'n ei ddefnyddio neu ble rydych chi. Sicrhewch fod eich system weithredu yn gyfredol ar gyfer y profiad gorau.
 firefox-desktop-download-review-system-req = Gwiriwch ofynion y system
 firefox-desktop-download-all-your-devices = Rhowch { -brand-name-firefox } ar eich holl ddyfeisiau
-firefox-desktop-download-take-your-privacy = Ewch â'ch preifatrwydd gyda chi i bobman. Mae gan { -brand-name-firefox-porwyr } { -brand-name-ios } a { -brand-name-android } yr un gosodiadau preifatrwydd cryf i rwystro tracwyr rhag eich dilyn o amgylch y we, ni waeth ble rydych chi.
+firefox-desktop-download-take-your-privacy = Ewch â'ch preifatrwydd gyda chi i bobman. Mae gan { -brand-name-firefox-browsers } { -brand-name-ios } a { -brand-name-android } yr un gosodiadau preifatrwydd cryf i rwystro tracwyr rhag eich dilyn o amgylch y we, ni waeth ble rydych chi.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gwneud <strong>popeth</strong> gyda { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Chwilio'n glyfrach, yn gynt
@@ -86,7 +86,7 @@ firefox-desktop-download-dark-mode = Modd tywyll
 firefox-desktop-download-library-of-extensions = Llyfrgell o estyniadau
 firefox-desktop-download-adjust-search-bar = Addasu gosodiadau'r bar chwilio
 firefox-desktop-download-change-new-tab = Newid cynllun tab newydd
-firefox-desktop-download-make-firefox-your = Gwnewch eich yn gartrefol yn y <strong>{ -brand-name-firefox }</strong>
+firefox-desktop-download-make-firefox-your = Gwnewch eich hun yn gartrefol yn y <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Estyniadau ar gyfer pob diddordeb
 firefox-desktop-download-change-up-your = Newid eich golwg
 firefox-desktop-download-go-from-light = Mynd o'r modd golau i'r modd tywyll yn dibynnu ar eich hwyliau neu'ch dewis, neu fywiogi pethau gyda thema arfer (uncorn enfys, efallai).
@@ -120,7 +120,7 @@ firefox-desktop-download-learn-about-the = Dysgwch am y porwyr bwrdd gwaith { -b
 firefox-desktop-download-from-security-to = O ddiogelwch i newyddion i gemau, mae yna estyniad <a { $attrs }>ar gyfer pawb</a>. Ychwanegwch gynifer ag y dymunwch nes bod eich porwr yn iawn i chi.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } gan <a { $attrs }> { -brand-name-mozilla } </a> fel dewis arall cyflymach, mwy preifat i borwyr fel { -brand-name-ie }, a nawr { -brand-name-chrome }. Heddiw, mae ein cwmni sy'n cael ei yrru gan genhadaeth a'n cymuned wirfoddol yn parhau i roi eich preifatrwydd o flaen pob dim.
+firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } gan <a { $attrs }>{ -brand-name-mozilla }</a> fel dewis arall cyflymach, mwy preifat i borwyr fel { -brand-name-ie }, a nawr { -brand-name-chrome }. Heddiw, mae ein cwmni sy'n cael ei yrru gan genhadaeth a'n cymuned wirfoddol yn parhau i roi eich preifatrwydd o flaen pob dim.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - rydyn ni'n ei alw'n <a { $attrs }>Addewid Data Personol</a>: Cymerwch lai. Cadwch e'n ddiogel. Dim cyfrinachau. Mae eich data, eich gweithgaredd gwe, eich bywyd ar-lein wedi'i warchod gyda { -brand-name-firefox }.
