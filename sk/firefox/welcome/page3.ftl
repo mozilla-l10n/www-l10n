@@ -8,7 +8,8 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Získajte zdarma účet, ktorý chráni vaše súkromie. Prihláste sa do { -brand-name-firefox }u.
 welcome-page3-no-account-required-but-you = Účet nie je povinný, ale mohol by sa vám zísť.
-welcome-page3-the-firefox-browser-collects = Prehliadač { -brand-name-firefox } o vás zbiera len minimum údajov - nevyžaduje dokonca ani vašu e-mailovú adresu. No ak ho použijete na vytvorenie účtu { -brand-name-firefox }, môžeme chrániť vaše súkromie naprieč internetom.
+welcome-page3-the-firefox-browser-collects = Prehliadač { -brand-name-firefox } o vás zbiera len minimum údajov - nevyžaduje dokonca ani vašu e-mailovú adresu. No ak ho použijete na vytvorenie { -brand-name-firefox-account(case: "acc", capitalization: "lower") }, môžeme chrániť vaše súkromie naprieč internetom.
+welcome-page3-sign-in = Prihlásiť sa
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Konečne spoločnosť, ktorá vaše údaje chráni namiesto ich predaja.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Prehliadač Firefox - menšia spotreba pamäte, vyššia rýchlosť
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser } - menšia spotreba pamäte, vyššia rýchlosť
 # HTML page description
 features-memory-is-your-computer-slow-your = Je váš počítač pomalý? Je možné, že váš prehliadač spotrebúva príliš veľa pamäte. Prejdite na { -brand-name-firefox } už dnes a užite si vyššiu rýchlosť.
 features-memory-less-memory-usage-than-chrome = Menšia spotreba pamäte než má { -brand-name-chrome }
