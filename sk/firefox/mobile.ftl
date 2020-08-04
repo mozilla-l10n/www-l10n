@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Prevezmite si prehliadač Firefox pre váš mobilný telefón s { -brand-name-ios } a { -brand-name-android }om
-firefox-mobile-firefox-browser-for-mobile = Prehliadač Firefox pre mobily blokuje v predvolenom nastavení viac ako 2 000 sledovacích prvkov, čím vám poskytuje súkromie, ktoré si zaslúžite a rýchlosť, ktorú potrebujete.
+firefox-mobile-download-the-firefox-browser = Prevezmite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pre váš mobilný telefón s { -brand-name-ios(case: "ins") } a { -brand-name-android(case: "ins") }
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pre mobily blokuje v predvolenom nastavení viac ako 2 000 sledovacích prvkov, čím vám poskytuje súkromie, ktoré si zaslúžite a rýchlosť, ktorú potrebujete.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Prevezmite si mobilný prehliadač vytvorený pre vás, nie pre inzerentov
@@ -23,7 +23,7 @@ firefox-mobile-stop-companies-from-following = Zabráňte spoločnostiam, aby v�
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-firefox-mobile-stay-off-their-radar-with = Zostaňte mimo ich dosah pomocou <a href="{ $url }">rozšírenej ochrany pred sledovaním</a>
+firefox-mobile-stay-off-their-radar-with = Zostaňte mimo ich dosah pomocou <a href="{ $url }">rozšírenej ochrany pred sledovaním</a> vo { -brand-name-firefox(case: "loc") }
 firefox-mobile-discover-products-that-keep = Objavte produkty, ktoré vás chránia
 firefox-mobile-sync-your-history-passwords = Synchronizujte svoju históriu, heslá a záložky. Odosielajte karty do všetkých svojich zariadení.
 firefox-mobile-android-only = Len pre { -brand-name-android }
