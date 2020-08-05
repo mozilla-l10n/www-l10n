@@ -75,3 +75,12 @@ firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda 
 firefox-privacy-hub-get-pocket = Obter o { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = A sua { -brand-name-firefox-account }
 firefox-privacy-hub-all-the-information-synced = Todas as informações sincronizadas através da sua { -brand-name-firefox-account } - do histórico do navegador, às palavras-passe - são encriptadas. E a palavra-passe da sua conta é a única chave.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Leve a sua privacidade e os seus marcadores para todo o lado com uma { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = já tem uma conta? <a { $sign_in } class="{ $class_name }">Inicie sessão</a> ou <a href="{ $learn_more }">saiba mais</a> sobre como se registar no { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Leia a <a href="{ $url }">nota de privacidade</a> para os nossos produtos
