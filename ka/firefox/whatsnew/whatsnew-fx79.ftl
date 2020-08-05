@@ -8,7 +8,7 @@
 # HTML page title
 whatsnew79-page-title = რა სიახლეებითაა { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = დატოვეთ თქვენი მონაცემები პირადი ყველასგან მიუწვდომლად – მათ შორის ჩვენგანაც
+whatsnew79-main-title = დატოვეთ თქვენი მონაცემები პირადი სხვებისგან მიუწვდომლად – მათ შორის ჩვენგანაც
 whatsnew79-main-intro = ინტერნეტი უნდა იყოს ყველასთვის უსაფრთხო ადგილი. სწორედ ამიტომ, { -brand-name-firefox } არ გადევნებთ თვალს ვებსივრცეში და სხვებსაც უკრძალავს ამის გაკეთებას.
 # Main CTA button
 whatsnew79-primary-cta = გახადეთ { -brand-name-firefox } ნაგულისხმევი
