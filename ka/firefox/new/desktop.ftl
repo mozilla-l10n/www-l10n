@@ -37,6 +37,7 @@ firefox-desktop-download-blocks-social-trackers = სოც. ქსელებ�
 firefox-desktop-download-os-availability = სისტემებთან თავსებადობა
 firefox-desktop-download-in-browser-screenshot = ეკრანის გადაღება ბრაუზერშივე
 firefox-desktop-download-master-password = მთავარი პაროლი
+firefox-desktop-download-we-block-the-ad = სარეკლამო მეთვალყურეები შეზღუდულია. მოინახულეთ ვებგვერდები გაცილებით სწრაფად.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
