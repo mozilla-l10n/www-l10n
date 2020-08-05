@@ -11,8 +11,12 @@ features-index-protect-your-privacy-and-browse = Emo’ã ne ñemigua ha eikunda
 features-index-youre-in-control-with-firefoxs = { -brand-name-firefox } rembiapoite hasy’ỹva ipuru ndive omo’ãva ne ñemigua ha kundahára pya’ekue, nde eñangarekóva.
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } rembiapoite
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha heko ñemíva ojepurukuaáva opaite mba’e’oka ndive.
+features-index-add-powerful-functions = Embojuaju tembiapoite oiko ha eipurukuaáva, ikatúva ombovy’a ne kundahára { -brand-name-firefox }.
 features-index-see-all = Ehecha opaite jepysokue
 features-index-give-your-browser = Eme’ẽ ne kundahárape eipotaháicha hetaiterei téma iñambuéva.
+features-index-important-stuff = Eñeha’ã opaite mba’e ehayhúva (ñandutípe jeheka, ñe’ẽñemi, tendayke ijurujáva) ejuhúvo eipotahápe peteĩteĩva mba’e’okápe.
 features-index-get-an-account = Eguereko { -brand-name-firefox-account }
 features-index-from-the-company = Mba’apohaguasu omotenondéva tapicha viru rovake
 features-index-open-source-minds = Ayvu ijurujáva. Temiandu ijurujáva.
