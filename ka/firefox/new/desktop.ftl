@@ -98,6 +98,22 @@ firefox-desktop-download-challenging-the-status = ურყევი მიზ�
 firefox-desktop-download-your-privacy-comes = თქვენი პირადულობა უწინარესია
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = შეინარჩუნეთ რჩეული შესაძლებლობები — და <strong>აღმოაჩინეთ</strong> ახლებიც.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = ყველა საჭირო { -brand-name-google }-ხელსაწყო (როგორიცაა Gmail და Docs) შეუფერხებლად იმუშავებს { -brand-name-firefox-browser(case: "ine") }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >ჩამოტვირთეთ ეს გაფართოება</a> და არ მისცეთ { -brand-name-facebook }-ს (ასევე { -brand-name-instagram }-ს) საშუალება, გითვალთვალოს ვებსივრცეში.
+firefox-desktop-download-sync-your-devices = დაასინქრონეთ მოწყობილობები
+firefox-desktop-download-screenshots = ეკრანის სურათები
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-android }-ზე</strong>
+firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
+firefox-desktop-download-download-the-mobile = ჩამოტვირთეთ { -brand-name-firefox } მობილურისთვის, თავისთავდი დაცვით, ყველა თქვენს მოწყობილობაზე.
+firefox-desktop-download-learn-about-the = ვრცლად, იხილეთ ქვემოთ { -brand-name-firefox } ბრაუზერი კომპიუტერისთვის
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე უბრალოდ ბრაუზერი.
