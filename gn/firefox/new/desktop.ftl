@@ -11,6 +11,8 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Emboguejy { -brand-name-firefox-browser }. Ipya’e, iñemi ha reigua { -brand-name-mozilla } guive
 firefox-desktop-download-og-title = Emboguejy { -brand-name-firefox } ipya’evéva opa ára
+firefox-desktop-download-og-desc = Kuatiarogue myanyhẽ pya’eve, sa’ive oipuru mandu’arenda ha hembiapoiteve, kóva { -brand-name-firefox } pyahu.
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
