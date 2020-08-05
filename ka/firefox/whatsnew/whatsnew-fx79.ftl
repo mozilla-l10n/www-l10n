@@ -18,7 +18,7 @@ whatsnew79-secure-your-connection = დაიცავით თქვენი 
 whatsnew79-with-one-tap-mozilla-vpn = ერთი შეხებით, { -brand-name-mozilla-vpn } დაშიფრავს თქვენს კავშირს და ინტერნეტში თქვენი მოქმედებები იქნება პირადი — მიუწვდომელი ჰაკერებისა და ცნობისმოყვარე მზერისგან.
 # CTA link
 whatsnew79-get-started = დაიწყეთ
-whatsnew79-get-more-control-over = მეტად მოაქციეთ მეთვალყურეები თქვენი მართვის სადავეებში
+whatsnew79-get-more-control-over = მეტად მოაქციეთ მეთვალყურეები მართვის სადავეებში
 whatsnew79-firefox-blocks-more = { -brand-name-firefox } უზღუდავს კიდევ უფრო მეტ სარეკლამოსა და მეთვალყურეს თქვენს თვალთვალს, ისე როგორც არასდროს.
 # CTA link
 whatsnew79-see-your-report = იხილეთ თქვენი ანგარიში

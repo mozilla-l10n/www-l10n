@@ -7,7 +7,7 @@
 
 whatsnew-page-title = რა სიახლეს შეიცავს { -brand-name-firefox }? – მეტი პირადულობა, მეტი უსაფრთხოება.
 whatsnew-page-description = წინ აღუდექით კომპანიებს, რომლებიც ყიდიან თქვენს მონაცემებს სხვებზე. მოხერხებულად და დაცულად გამოიყენეთ ინტერნეტი იმ საშუალებებით, რომლებიც თქვენთვის იბრძვის.
-whatsnew-up-to-date-notification = Გილოცავ! თქვენ უახლესი ვერსიის { -brand-name-firefox-browser } გიყენიათ.
+whatsnew-up-to-date-notification = გილოცავთ! თქვენ უახლესი ვერსიის { -brand-name-firefox-browser } გიყენიათ.
 whatsnew-out-of-date-notification = უფრო ახალი { -brand-name-firefox-browser } ხელმისაწვდომია. გასაახლებლად, გაუშვით ხელახლა.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
