@@ -93,7 +93,7 @@ firefox-desktop-download-go-from-light = გადადით ნათელ�
 firefox-desktop-download-tweak-your-settings = მოირგეთ პარამეტრები
 firefox-desktop-download-theres-no-need = არაა აუცილებელი არსებულს დასჯერდეთ. შეცვალეთ ახალი ჩანართის გვერდი, ძიების ველი, სანიშნები და იმოგზაურეთ ინტერნეტში სასურველი გზებით.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = <strong>არამომგებიანი</strong> ერთობისგან, რომლისათვისაც უპირველესია ხალხი
+firefox-desktop-download-backed-by-the = <strong>არამომგებიანი</strong> ერთობისგან, რომლისათვისაც უპირველესი ხალხია
 firefox-desktop-download-challenging-the-status = ურყევი მიზანი 1998 წლიდან
 firefox-desktop-download-your-privacy-comes = თქვენი პირადულობა უწინარესია
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -108,6 +108,7 @@ firefox-desktop-download-sync-your-devices = დაასინქრონე�
 firefox-desktop-download-screenshots = ეკრანის სურათები
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
+firefox-desktop-download-from-watching-a = გაკვეთილს უყურებთ თუ საყვარელ გუნდს ადევნებთ თვალს, თქვენი ვიდეო მუდამ თქვენთან დარჩება, სხვა საქმეების კეთების დროსაც.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-android }-ზე</strong>
 firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
@@ -140,4 +141,21 @@ firefox-desktop-download-just-download-the-browser = უბრალოდ ჩ�
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = თითქმის მზადაა!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = ახლა <strong>დააყენეთ</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>გაუშვით</strong> ახლადჩამოტვირთული დასაყენებელი ფაილი.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>გახსენით</strong> ახლადჩამოტვირთული ფაილი
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = დაბრკოლება შეგექმნათ? <a { $attrs }>მიიღეთ მხარდაჭერა დაყენებისას</a>.
+firefox-desktop-download-in-another-language = ჩამოტვირთეთ სხვა ენაზე ან სხვა საოპერაციო სისტემისთვის.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელსაც <a href="{ $url }">აღარ უჭერს მხარს { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = თქვენი ჩამოტვირთვა თავისით დაიწყება. არ იმუშავა? <a id="{ $id }" href="{ $fallback_url }">სცადეთ ხელახლა.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე უბრალოდ ბრაუზერი.
