@@ -43,9 +43,14 @@ firefox-privacy-hub-firefox-privacy-by-the = Privacidade do { -brand-name-firefo
 firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } protege a sua privacidade em todos os produtos.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firefox } <strong>protege</strong> a sua privacidade em todos os produtos
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Mais de 2000 rastreadores bloqueados - automaticamente
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = O rastreamento tornou-se uma epidemia na Internet: empresas seguem todos os movimentos, cliques e compras, recolhendo dados para prever e influenciar o que você irá fazer a seguir. Nós achamos que isto é uma invasão grosseira da sua privacidade. É por isto que os navegadores { -brand-name-firefox } para dispositivos móveis e computadores têm a Proteção melhorada contra a monitorização ativada por predefinição.
+firefox-privacy-hub-if-you-want-to-see-what = Se você quiser ver o que o { -brand-name-firefox } está a bloquear por si, visite esta página no navegador { -brand-name-firefox } para computadores.
 firefox-privacy-hub-see-what-firefox-has-blocked = Veja o que o { -brand-name-firefox } bloqueou para si
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Obter a proteção melhorada contra a monitorização
 firefox-privacy-hub-download-the-firefox-browser = Transferir o navegador { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Atualize o seu navegador { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Invisível para os principais rastreadores
 firefox-privacy-hub-always-in-your-control = Sempre sob o seu controlo
