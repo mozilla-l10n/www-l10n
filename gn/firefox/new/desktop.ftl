@@ -17,11 +17,19 @@ firefox-desktop-download-get-the-browser = Ereko pe kundahára omo’ã añetév
 firefox-desktop-download-download-options = Ñemboguejy poravorã ha ambuekuéra ñe’ẽ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ñepytyvõ
 firefox-desktop-download-how-firefox-compares = Mba’éicha emoñondivekuaa { -brand-name-firefox } ambue kundahára ndive
+firefox-desktop-download-how-we-compare = Mba’éicha ñañomoñondivekuaa ambue kundahára ndive
+firefox-desktop-download-compare-firefox-to = Emoñondive { -brand-name-firefox } ndive:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Héẽ
 firefox-desktop-download-no = Nahániri
+firefox-desktop-download-blocks-third-party = Ejoko umi kookie tapykuehoha mbohapyháva
+firefox-desktop-download-autoplay-blocking = Ejoko ñemboheta ijeheguíva
+firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = OS jepurukuaáva
+firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembipuru
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = <strong>Ejapopa</strong> { -brand-name-firefox } ndive
 firefox-desktop-download-search-smarter = Eheka pya’eve ha katupyrýpe
