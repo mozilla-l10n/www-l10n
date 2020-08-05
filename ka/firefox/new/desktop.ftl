@@ -119,6 +119,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } შექ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში, იცავს { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; წაიყოლეთ ჩანართები, ისტორია და სანიშნები თან. ამისთვის, მხოლოდ გესაჭიროებათ <a { $attrs }>{ -brand-name-firefox }-ანგარიში</a>.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
