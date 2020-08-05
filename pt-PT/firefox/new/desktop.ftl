@@ -145,3 +145,5 @@ firefox-desktop-download-just-download-the-browser = Basta transferir o navegado
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Quase lá!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Agora termine a <strong>instalação</strong> do { -brand-name-firefox }.
