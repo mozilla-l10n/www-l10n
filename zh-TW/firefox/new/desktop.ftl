@@ -99,7 +99,15 @@ firefox-desktop-download-enhanced-tracking-protection = 加強型追蹤保護（
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = 下載 { -brand-name-firefox } 行動瀏覽器，讓您的隱私在所有裝置都能自動受到保護。
 firefox-desktop-download-learn-about-the = 了解各種 { -brand-name-firefox } 桌面版瀏覽器的相關資訊
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = 從安全性、新聞、到網路遊戲，都有<a { $attrs }>適合每個人的擴充套件</a>。隨意安裝，讓瀏覽器有您的風格。
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 打造，希望成為在 { -brand-name-ie }（現在則是 { -brand-name-chrome }）之外，更快、更有隱私的瀏覽器。而現在，我們由以使命驅動的公司與全球志工社群組合而成，持續將您的隱私放在第一位。
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自動<a { $attrs }>封鎖許多在不同網站間收集並出售您的上網行為的第三方追蹤器</a>。
