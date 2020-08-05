@@ -41,6 +41,31 @@ firefox-desktop-download-we-block-the-ad = სარეკლამო მეთ
 firefox-desktop-download-ads-are-distracting = რეკლამები ყურადღების გამფანტავია და ანელებს გვერდების ჩატვირთვას, როცა თვალს ადევნებს თითოეულ თქვენს მოქმედებას ინტერნეტში. { -brand-name-firefox-browser } ზღუდავს მეთვალყურეების უმეტესობას ავტომატურად, ასე რომ არ დაგჭირდებათ პარამეტრებში დამატებით ძრომიალი.
 firefox-desktop-download-see-your-report = იხილეთ, უსაფრთხოების ანგარიში
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ყველასთვისაა
+firefox-desktop-download-available-in-over = ხელმისაწვდომია 90-ზე მეტ ენაზე, ამასთან თავსებადია { -brand-name-windows }, { -brand-name-mac-short } და { -brand-name-linux }-სისტემებთან, { -brand-name-firefox } იმუშავებს ყველაფერზე და ყველგან. საუკეთესო შედეგისთვის, დარწმუნდით რომ სისტემა განახლებულია.
+firefox-desktop-download-review-system-req = გაეცანით სისტემის მოთხოვნებს
+firefox-desktop-download-all-your-devices = განათავსეთ { -brand-name-firefox } ყველა თქვენს მოწყობილობაზე
+firefox-desktop-download-take-your-privacy = წაიყოლეთ პირადი მონაცემები ყველგან. { -brand-name-firefox-browsers } { -brand-name-ios }-სა და { -brand-name-android }-ზე, ასევე მძლავრად იცავს თქვენს ინფორმაციას და უზღუდავს მეთვალყურეებს, თქვენი თვალთვალის შესაძლებლობას, სადაც არ უნდა იყოთ.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = გამოიყენეთ <strong>ყველაფრისთვის</strong> { -brand-name-firefox }
+firefox-desktop-download-search-smarter = მოიძიეთ სწრაფად, მოხერხებულად
+firefox-desktop-download-search-from-address = ძიება მისამართების ველიდან
+firefox-desktop-download-search-engine-options = საძიებო სისტემების არჩევა
+firefox-desktop-download-smart-search-suggestions = ძიების ჭკვიანური შემოთავაზებები
+firefox-desktop-download-bookmark-history = სანიშნები, ისტორია, ჩანართები შედეგებში
+firefox-desktop-download-boost-your = აამაღლეთ თქვენი შედეგიანობა
+firefox-desktop-download-works-with-google = მუშაობს { -brand-name-google }-ის პროდუქტებთან
+firefox-desktop-download-built-in-screenshot = ჩაშენებული სურათის გადამღები ეკრანისთვის
+firefox-desktop-download-bookmarks-manager = სანიშნების მმართველი
+firefox-desktop-download-autosuggest-urls = ბმულების თვითშემოთავაზება
+firefox-desktop-download-sync-across-devices = დასინქრონება მოწყობილობებზე
+firefox-desktop-download-reader-mode = კითხვის რეჟიმი
+firefox-desktop-download-spell-check = მართლწერის შემოწმება
+firefox-desktop-download-pinned-tabs = ჩანართების მიმაგრება
+firefox-desktop-download-stream-share-play = ეთერში გაშვება, გაზიარება და თამაში
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = ხმისა და ვიდეოს თვითგაშვების არიდება
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = ეკრანი-ეკრანში
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
