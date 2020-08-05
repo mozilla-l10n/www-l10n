@@ -109,6 +109,12 @@ firefox-desktop-download-from-security-to = 從安全性、新聞、到網路遊
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 打造，希望成為在 { -brand-name-ie }（現在則是 { -brand-name-chrome }）之外，更快、更有隱私的瀏覽器。而現在，我們由以使命驅動的公司與全球志工社群組合而成，持續將您的隱私放在第一位。
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為<a { $attrs }>Personal Data Promise</a>: 資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有裝置都能使用。只需要一組 <a { $attrs }>{ -brand-name-firefox } 帳號</a>，就能將分頁、上網記錄與書籤隨身帶著走。
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自動<a { $attrs }>封鎖許多在不同網站間收集並出售您的上網行為的第三方追蹤器</a>。
 # Variables:
