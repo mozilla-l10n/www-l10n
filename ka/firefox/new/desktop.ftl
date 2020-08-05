@@ -5,7 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = ჩამოტვირთეთ { -brand-name-firefox-browser } — სწრაფი, პირადი და თავისუფალი — { -brand-name-mozilla }-სგან
+firefox-desktop-download-meta-desc = გადმოწერეთ { -brand-name-firefox }, უფასო ბრაუზერი, რომელსაც ქმნის { -brand-name-mozilla }, არამომგებიანი გუშაგი, ინტერნეტის სიჯანსაღისა და პირდულობის. ხელმისაწვდომი სისტემებია { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } და { -brand-name-ios }.
 firefox-desktop-download-og-title = ჩამოტვირთეთ, უსწრაფესი { -brand-name-firefox }
+firefox-desktop-download-og-desc = გვერდის სწრაფი ჩატვირთვა, მეხსიერების ნაკლები მოხმარება და მრავალნაირი შესაძლებლობა, ახალი { -brand-name-firefox } უკვე აქაა.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = ბრაუზერი, რომელიც იცავს იმას, რაც მეტად ღირებულია
 # shady is slang which suggests something is untrustworthy
@@ -23,6 +30,13 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = დიახ
 firefox-desktop-download-no = არა
+firefox-desktop-download-blocks-third-party = გარეშე მეთვალყურეების ფუნთუშების შეზღუდვა
+firefox-desktop-download-autoplay-blocking = თვითგაშვების შეზღუდვა
+firefox-desktop-download-blocks-social-trackers = სოც. ქსელების მეთვალყურეების შეზღუდვა
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = სისტემებთან თავსებადობა
+firefox-desktop-download-in-browser-screenshot = ეკრანის გადაღება ბრაუზერშივე
+firefox-desktop-download-master-password = მთავარი პაროლი
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
