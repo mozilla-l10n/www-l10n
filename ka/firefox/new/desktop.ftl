@@ -103,7 +103,7 @@ firefox-desktop-download-all-your-favourite = ყველა საჭირო
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs } >ჩამოტვირთეთ ეს გაფართოება</a> და არ მისცეთ { -brand-name-facebook }-ს (ასევე { -brand-name-instagram }-ს) საშუალება, გითვალთვალოს ვებსივრცეში.
+firefox-desktop-download-download-this-browser = <a { $attrs } >ჩამოტვირთეთ ეს გაფართოება</a> და არ მისცეთ { -brand-name-facebook }-ს (ასევე { -brand-name-instagram }-ს) საშუალება, გითვალთვალონ ვებსივრცეში.
 firefox-desktop-download-sync-your-devices = დაასინქრონეთ მოწყობილობები
 firefox-desktop-download-screenshots = ეკრანის სურათები
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -121,11 +121,23 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } შექ
 firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში, იცავს { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; წაიყოლეთ ჩანართები, ისტორია და სანიშნები თან. ამისთვის, მხოლოდ გესაჭიროებათ <a { $attrs }>{ -brand-name-firefox }-ანგარიში</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; თან წაიყოლეთ ჩანართები, ისტორია და სანიშნები. ამისთვის, მხოლოდ გესაჭიროებათ <a { $attrs }>{ -brand-name-firefox }-ანგარიში</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = გადაიღეთ მაღალი გაფართოების სურათები ნებისმიერ საიტზე, <a { $attrs }>სურათის გადასაღები</a> ხელსაწყოთი, პირდაპირ ბრაუზერშივე
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } თავისთავად <a { $attrs }>უზღუდავს გარეშე მეთვალყურეების უმეტესობას</a> თქვენი მოქმედებების აღრიცხვისა და გაყიდვის შესაძლებლობას.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = კითხვები გაქვთ? <a { $attrs }>{ -brand-name-mozilla } მხარდაჭერა</a> გამოგადგებათ.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = ბრაუზერი უკვე გაქვთ. კიდევ უფრო უკეთ გამოიყენეთ { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით პაროლები { -brand-name-firefox-lockwise }-ით, და ა. შ.
+firefox-desktop-download-get-more-from-firefox = მიიღეთ მეტი { -brand-name-firefox }-ისგან
+firefox-desktop-download-just-download-the-browser = უბრალოდ ჩამოტვირთეთ ბრაუზერი
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = თითქმის მზადაა!
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე უბრალოდ ბრაუზერი.
