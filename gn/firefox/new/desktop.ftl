@@ -66,16 +66,26 @@ firefox-desktop-download-private-browsing-mode = Kundahára ñemigua reko
 firefox-desktop-download-individual-protections-report = Marandu’i ñemo’ã ha’eñoguáva
 firefox-desktop-download-secure-your-personal = Emohekorosãke ne marandu’ietéva
 firefox-desktop-download-breached-website-alerts = Mongyhyje ñanduti renda imarãvare
+firefox-desktop-download-built-in-password = Ñe’ẽñemi ojuajúva ñangarekohára
 firefox-desktop-download-clear-history = Emopotĩ tembiasakue
+firefox-desktop-download-form-autofill = Myanyhẽha henyhẽjeheguíva
+firefox-desktop-download-automatic-updates = Ñembohekopyahu ijeheguíva
+firefox-desktop-download-customize-your-browser = Emomba’ete ne kundahára
 firefox-desktop-download-themes = Téma
 firefox-desktop-download-dark-mode = Ypytũva reko
 firefox-desktop-download-library-of-extensions = Arandukaty jepysokue
+firefox-desktop-download-adjust-search-bar = Emoĩ ne ñemboheko jehekaha rendáre
+firefox-desktop-download-change-new-tab = Emoambue tendayke pyahu ra’ãnga
+firefox-desktop-download-make-firefox-your = Eguereko <strong>{ -brand-name-firefox }</strong>
+firefox-desktop-download-extensions-for-every = Jepysokue opavavetépe g̃uarã
+firefox-desktop-download-change-up-your = Emoambue nde reko
 firefox-desktop-download-tweak-your-settings = Emoiporã ne ñemboheko
 firefox-desktop-download-your-privacy-comes = Ne ñemigua oĩ tenonderã
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Embojuehe ne mba’e’okakuéra
 firefox-desktop-download-screenshots = Mba’erechaha jejapyhy
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-android } peg̃uarã</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
