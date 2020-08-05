@@ -86,7 +86,10 @@ firefox-desktop-download-sync-your-devices = Embojuehe ne mba’e’okakuéra
 firefox-desktop-download-screenshots = Mba’erechaha jejapyhy
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-android } peg̃uarã</strong>
+firefox-desktop-download-get-firefox-ios = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-ios } peg̃uarã</strong>
+firefox-desktop-download-get-more-from-firefox = Eipuruvéke { -brand-name-firefox }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = ¡Oĩmbátama!
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año.

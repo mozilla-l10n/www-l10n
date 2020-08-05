@@ -5,5 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
 
+# Variables:
+#   $version (number) - Firefox Nightly release major version number
+nightly-whatsnew-youve-just-been = ¡Embohekopyahu ramoite { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-go-community = ¡Che maitei tekohápe!
