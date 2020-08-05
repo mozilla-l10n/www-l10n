@@ -66,6 +66,29 @@ firefox-desktop-download-stream-share-play = ეთერში გაშვე�
 firefox-desktop-download-block-autoplay-of = ხმისა და ვიდეოს თვითგაშვების არიდება
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = ეკრანი-ეკრანში
+firefox-desktop-download-curated-content-on = შერჩეული მასალები ვებსივრციდან
+firefox-desktop-download-share-links = ბმულების გაზიარება
+firefox-desktop-download-protect-your-privacy = დაიცავით თქვენი პირადულობა
+firefox-desktop-download-third-party-cookie = გარეშე ფუნთუშების შეზღუდვა
+firefox-desktop-download-fingerprinter-blocking = ამოცნობის შეზღუდვა
+firefox-desktop-download-cryptominer-blocking = კრიპტოგამომმუშავებლის შეზღუდვა
+firefox-desktop-download-private-browsing-mode = პირადი თვალიერების რეჟიმი
+firefox-desktop-download-individual-protections-report = პირადი უსაფრთხოების ანგარიში
+firefox-desktop-download-secure-your-personal = უსაფრთხოდ შეინახეთ მონაცემები
+firefox-desktop-download-breached-website-alerts = ცნობები, საიტებიდან ინფორმაციის მიტაცებისას
+firefox-desktop-download-built-in-password = პაროლის ჩაშენებული მმართველი
+firefox-desktop-download-clear-history = ისტორიის გასუფთავება
+firefox-desktop-download-form-autofill = ველების თვითშევსება
+firefox-desktop-download-automatic-updates = თვითგანახლებები
+firefox-desktop-download-customize-your-browser = მოირგეთ თქვენი ბრაუზერი
+firefox-desktop-download-themes = თემები
+firefox-desktop-download-dark-mode = მუქი რეჟიმი
+firefox-desktop-download-library-of-extensions = გაფართოებების ბიბლიოთეკა
+firefox-desktop-download-adjust-search-bar = საძიებო ველის გამართვა
+firefox-desktop-download-change-new-tab = ახალ ჩანართზე განლაგების შეცვლა
+firefox-desktop-download-make-firefox-your = გახადეთ <strong>{ -brand-name-firefox }</strong> თქვენებური
+firefox-desktop-download-extensions-for-every = გაფართოებები ყველა საჭიროებისთვის
+firefox-desktop-download-change-up-your = შეცვალეთ გაფორმება
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
