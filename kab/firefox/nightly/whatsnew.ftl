@@ -8,7 +8,7 @@
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
 nightly-whatsnew-youve-just-been = Aql-ak akken kan i tleqqmeḍ { -brand-name-firefox-nightly } ar lqem { $version }!
-nightly-whatsnew-your-firefox-nightly = Firefox-ik Nightly yettwalqem.
+nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } inek-inem yettwaleqqem.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Yal 4 ar 5 n yimalasen, lqem ameqqran n { -brand-name-firefox } yetteffeɣ-d, ihi, lqem { -brand-name-nightly } yettnerni akken iwata daɣen.
 # Obsolete
