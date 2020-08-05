@@ -89,6 +89,8 @@ firefox-desktop-download-change-new-tab = ახალ ჩანართზე 
 firefox-desktop-download-make-firefox-your = გახადეთ <strong>{ -brand-name-firefox }</strong> თქვენებური
 firefox-desktop-download-extensions-for-every = გაფართოებები ყველა საჭიროებისთვის
 firefox-desktop-download-change-up-your = შეცვალეთ გაფორმება
+firefox-desktop-download-go-from-light = გადადით ნათელიდან მუქ რეჟიმზე, განწყობის ან საჭიროების მიხედვით, ანდაც გამოაცოცხლეთ იერსახე, მორგებული თემით (ცისარტყელის ფერება ცალრქა ცხენით, თუნდაც).
+firefox-desktop-download-tweak-your-settings = მოირგეთ პარამეტრები
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
