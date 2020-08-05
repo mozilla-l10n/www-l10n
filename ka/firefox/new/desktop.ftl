@@ -61,7 +61,7 @@ firefox-desktop-download-sync-across-devices = დასინქრონებ
 firefox-desktop-download-reader-mode = კითხვის რეჟიმი
 firefox-desktop-download-spell-check = მართლწერის შემოწმება
 firefox-desktop-download-pinned-tabs = ჩანართების მიმაგრება
-firefox-desktop-download-stream-share-play = ჩვენება, გაშვება და გაზიარება
+firefox-desktop-download-stream-share-play = უყურეთ, გაუშვით და გააზიარეთ
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = ხმისა და ვიდეოს თვითგაშვების არიდება
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -104,7 +104,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >ჩამოტვირთეთ ეს გაფართოება</a> და არ მისცეთ { -brand-name-facebook }-ს (ასევე { -brand-name-instagram }-ს) საშუალება, გითვალთვალონ ვებსივრცეში.
-firefox-desktop-download-sync-your-devices = დაასინქრონეთ მოწყობილობები
+firefox-desktop-download-sync-your-devices = დასინქრონება მოწყობილობებზე
 firefox-desktop-download-screenshots = ეკრანის სურათები
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
