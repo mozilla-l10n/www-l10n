@@ -97,7 +97,7 @@ firefox-desktop-download-backed-by-the = <strong>არამომგები�
 firefox-desktop-download-challenging-the-status = ურყევი მიზანი 1998 წლიდან
 firefox-desktop-download-your-privacy-comes = თქვენი პირადულობა უწინარესია
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = შეინარჩუნეთ რჩეული შესაძლებლობები — და <strong>აღმოაჩინეთ</strong> ახლებიც.
+firefox-desktop-download-keep-all-your = შეინარჩუნეთ ყველა რჩეული შესაძლებლობა — და <strong>აღმოაჩინეთ</strong> ახალიც.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = ყველა საჭირო { -brand-name-google }-ხელსაწყო (როგორიცაა Gmail და Docs) შეუფერხებლად იმუშავებს { -brand-name-firefox-browser(case: "ine") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
