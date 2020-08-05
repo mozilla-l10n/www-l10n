@@ -114,6 +114,19 @@ firefox-desktop-download-get-firefox-android = Obtenha o { -brand-name-firefox-b
 firefox-desktop-download-get-firefox-ios = Obtenha o { -brand-name-firefox-browser } para o <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Transfira o { -brand-name-firefox } móvel para uma proteção automática para todos os seus dispositivos.
 firefox-desktop-download-learn-about-the = Saber mais sobre o { -brand-name-firefox } para computadores abaixo
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De segurança, a notícias, passando pelos jogos, há uma extensão <a { $attrs }>para todos</a>. Adicione quantas você quiser até o seu navegador estar como pretende.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi criado pela <a { $attrs }>{ -brand-name-mozilla }</a> como uma alternativa mais rápida e privada a navegadores como o { -brand-name-ie } e agora ao { -brand-name-chrome }. Hoje, a nossa empresa e comunidade de voluntários focados na missão, continuam a colocar a sua privacidade acima de tudo.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = À medida que a Internet cresce e muda, o { -brand-name-firefox } continua a concentrar-se no seu direito à privacidade - aquilo a que chamamos de <a { $attrs }>promessa de dados pessoais</a>: recolher menos; manter seguro; sem segredos. Os seus dados, a sua atividade e a sua vida na Internet estão protegidos com o { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está disponível em todos os seus dispositivos; leve os seus separadores, histórico e marcadores consigo. Tudo o que precisa é de uma <a { $attrs }>conta { -brand-name-firefox }</a>.
 firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Basta transferir o navegador
 
