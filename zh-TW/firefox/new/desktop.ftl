@@ -115,6 +115,9 @@ firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -b
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有裝置都能使用。只需要一組 <a { $attrs }>{ -brand-name-firefox } 帳號</a>，就能將分頁、上網記錄與書籤隨身帶著走。
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = 使用瀏覽器內建的<a { $attrs }>畫面擷圖工具</a>幫線上任何東西拍攝高解析度擷圖
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自動<a { $attrs }>封鎖許多在不同網站間收集並出售您的上網行為的第三方追蹤器</a>。
 # Variables:
