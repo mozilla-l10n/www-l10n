@@ -53,4 +53,25 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Obter a proteção melhor
 firefox-privacy-hub-download-the-firefox-browser = Transferir o navegador { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Atualize o seu navegador { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Invisível para os principais rastreadores
+firefox-privacy-hub-meet-four-of-the-most-common = Conheça quatro das categorias mais comuns de rastreadores - que não chegarão a conhecê-lo.
 firefox-privacy-hub-always-in-your-control = Sempre sob o seu controlo
+firefox-privacy-hub-want-to-customize-what = Deseja personalizar o que é bloqueado? As suas configurações estão apenas a um clique de distância.
+firefox-privacy-hub-protection-beyond-tracking = Proteção além do rastreamento
+firefox-privacy-hub-if-you-have-a-firefox-account = Se você possui uma { -brand-name-firefox-account }, também pode ver como o estamos a ajudar a proteger as suas informações pessoais e palavras-passe.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Mais de { $trackers } rastreadores bloqueados todos os dias em todo o mundo para utilizadores do { -brand-name-firefox }
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Quando você introduz o seu endereço de e-mail no { -brand-name-firefox-monitor }, nós não guardamos qualquer registo do mesmo após verificarmos se existe alguma correspondência em violações de dados conhecidas - a menos que você nos autorize a continuar a monitorizar e pesquisar por novas violações das suas informações pessoais.
+firefox-privacy-hub-check-for-breaches = Pesquisar por violações
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = As palavras-passe e credenciais que guarda no { -brand-name-firefox-lockwise } são encriptadas em todos os seus dispositivos, para que nem nós as consigamos ver.
+firefox-privacy-hub-learn-more-about-lockwise = Saber mais sobre o { -brand-name-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Não podemos ver os nomes ou o conteúdo dos ficheiros grandes que você partilhe através do { -brand-name-firefox-send } porque estes são encriptados ponto a ponto - você escolhe quem vê o que você enviar e até pode definir uma data de validade e palavra-passe.
+firefox-privacy-hub-send-a-file = Enviar um ficheiro
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda artigos de alta qualidade com curadoria humana, sem recolher o seu histórico de navegação ou partilhar as suas informações pessoais com os anunciantes.
+firefox-privacy-hub-get-pocket = Obter o { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = A sua { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Todas as informações sincronizadas através da sua { -brand-name-firefox-account } - do histórico do navegador, às palavras-passe - são encriptadas. E a palavra-passe da sua conta é a única chave.
