@@ -53,7 +53,7 @@ firefox-desktop-download-search-engine-options = საძიებო სის
 firefox-desktop-download-smart-search-suggestions = ძიების ჭკვიანური შემოთავაზებები
 firefox-desktop-download-bookmark-history = სანიშნები, ისტორია, ჩანართები შედეგებში
 firefox-desktop-download-boost-your = აამაღლეთ თქვენი შედეგიანობა
-firefox-desktop-download-works-with-google = მუშაობს { -brand-name-google }-ის პროდუქტებთან
+firefox-desktop-download-works-with-google = მუშაობა { -brand-name-google }-ის პროდუქტებთან
 firefox-desktop-download-built-in-screenshot = ჩაშენებული სურათის გადამღები ეკრანისთვის
 firefox-desktop-download-bookmarks-manager = სანიშნების მმართველი
 firefox-desktop-download-autosuggest-urls = ბმულების თვითშემოთავაზება
@@ -92,6 +92,12 @@ firefox-desktop-download-change-up-your = შეცვალეთ გაფო�
 firefox-desktop-download-go-from-light = გადადით ნათელიდან მუქ რეჟიმზე, განწყობის ან საჭიროების მიხედვით, ანდაც გამოაცოცხლეთ იერსახე, მორგებული თემით (ცისარტყელის ფერება ცალრქა ცხენით, თუნდაც).
 firefox-desktop-download-tweak-your-settings = მოირგეთ პარამეტრები
 firefox-desktop-download-theres-no-need = არაა აუცილებელი არსებულს დასჯერდეთ. შეცვალეთ ახალი ჩანართის გვერდი, ძიების ველი, სანიშნები და იმოგზაურეთ ინტერნეტში სასურველი გზებით.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = <strong>არამომგებიანი</strong> ერთობისგან, რომლისათვისაც უპირველესია ხალხი
+firefox-desktop-download-challenging-the-status = ურყევი მიზანი 1998 წლიდან
+firefox-desktop-download-your-privacy-comes = თქვენი პირადულობა უწინარესია
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = შეინარჩუნეთ რჩეული შესაძლებლობები — და <strong>აღმოაჩინეთ</strong> ახლებიც.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
