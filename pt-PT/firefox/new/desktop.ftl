@@ -127,6 +127,18 @@ firefox-desktop-download-as-the-internet = À medida que a Internet cresce e mud
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está disponível em todos os seus dispositivos; leve os seus separadores, histórico e marcadores consigo. Tudo o que precisa é de uma <a { $attrs }>conta { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Obtenha uma imagem de alta resolução de qualquer coisa na Internet com a nossa ferramenta <a{ $attrs }>captura de ecrã</a> diretamente incorporada no navegador
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } <a { $attrs }>impede automaticamente que muitos rastreadores de terceiros</a> recolham e vendam a sua atividade na Internet.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Questões? O <a { $attrs }>o apoio da { -brand-name-mozilla }</a> está aqui para ajudar.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Já tem o navegador. Agora, obtenha ainda mais do { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Tenha cuidado com os piratas informáticos com o { -brand-name-firefox-monitor }, proteja palavras-passe com o { -brand-name-firefox-lockwise }, etc.
 firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Basta transferir o navegador
 
