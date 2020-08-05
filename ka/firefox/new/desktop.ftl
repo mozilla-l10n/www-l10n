@@ -73,7 +73,7 @@ firefox-desktop-download-third-party-cookie = გარეშე ფუნთუ
 firefox-desktop-download-fingerprinter-blocking = ამოცნობის შეზღუდვა
 firefox-desktop-download-cryptominer-blocking = კრიპტოგამომმუშავებლის შეზღუდვა
 firefox-desktop-download-private-browsing-mode = პირადი თვალიერების რეჟიმი
-firefox-desktop-download-individual-protections-report = პირადი უსაფრთხოების ანგარიში
+firefox-desktop-download-individual-protections-report = დაცვის პირადი ანგარიში
 firefox-desktop-download-secure-your-personal = უსაფრთხოდ შეინახეთ მონაცემები
 firefox-desktop-download-breached-website-alerts = ცნობები, საიტებიდან ინფორმაციის მიტაცებისას
 firefox-desktop-download-built-in-password = პაროლის ჩაშენებული მმართველი
@@ -114,6 +114,10 @@ firefox-desktop-download-get-firefox-android = გადმოწერეთ { 
 firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
 firefox-desktop-download-download-the-mobile = ჩამოტვირთეთ { -brand-name-firefox } მობილურისთვის, თავისთავდი დაცვით, ყველა თქვენს მოწყობილობაზე.
 firefox-desktop-download-learn-about-the = ვრცლად, იხილეთ ქვემოთ { -brand-name-firefox } ბრაუზერი კომპიუტერისთვის
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = უსაფრთხოებისთვის, ახალი ამბებისთვის, თამაშებისთვის, <a { $attrs }>გაფართოებები ყველაფრისთვისაა</a>. დაამატეთ რამდენიც მოგესურვებათ.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } შექმნა <a { $attrs }>{ -brand-name-mozilla }-მ</a> როგორც სწრაფი, მეტად პირადული ალტერნატივა { -brand-name-ie } ბრაუზერისთვის, ახლა უკვე { -brand-name-chrome }-ისთვის. დღესაც, მიზანზე ორიენტირებული ჩვენი კომპანია და მოხალისეთა ერთობა, განაგრძობს თქვენი პირადულობის ყველაფერზე წინ დაყენებას.
