@@ -30,6 +30,8 @@ firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = OS jepurukuaáva
 firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembipuru
+firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
+firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = <strong>Ejapopa</strong> { -brand-name-firefox } ndive
 firefox-desktop-download-search-smarter = Eheka pya’eve ha katupyrýpe
@@ -51,6 +53,9 @@ firefox-desktop-download-stream-share-play = Emombe’u, emoherakuã ha eñembos
 firefox-desktop-download-block-autoplay-of = Ejoko ta’ãngamýi ha mba’epu ñemboheta ijeheguíva
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-themes = Téma
+firefox-desktop-download-dark-mode = Ypytũva reko
+firefox-desktop-download-library-of-extensions = Arandukaty jepysokue
 firefox-desktop-download-tweak-your-settings = Emoiporã ne ñemboheko
 firefox-desktop-download-your-privacy-comes = Ne ñemigua oĩ tenonderã
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
