@@ -8,6 +8,8 @@
 firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox } vseh časov
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-how-we-compare = Kako se primerjamo z drugimi brskalniki
+firefox-desktop-download-compare-firefox-to = Primerjajte { -brand-name-firefox } z:
 firefox-desktop-download-yes = Da
 firefox-desktop-download-no = Ne
 firefox-desktop-download-see-your-report = Oglejte si svoje poročilo o zaščiti
