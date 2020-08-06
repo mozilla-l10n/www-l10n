@@ -8,4 +8,5 @@
 
 ## Required
 
+whatsnew-account-main-headline = کسی اکاؤنٹ کی ضرورت نہیں ہے۔ لیکن آپکو شاید ایک چاہئے ہو۔
 whatsnew-account-main-button = سائن ان

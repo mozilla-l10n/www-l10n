@@ -9,8 +9,11 @@
 whatsnew79-page-title = { -brand-name-firefox } کے  ساتھ نیا  کیا  ہے
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = { -brand-name-firefox } ایب حاصل کریں
+whatsnew79-secure-your-connection = اپنا رابطہ محفوظ کریں
 # CTA link
 whatsnew79-get-started = شروع کریں
+whatsnew79-get-more-control-over = ٹریکرز پر مزید کنٹرول حاصل کریں
+whatsnew79-update-your-firefox = اپنے { -brand-name-firefox } براؤزر کو اپ ڈیٹ کریں
 whatsnew79-download-the-firefox = { -brand-name-firefox } براؤزر ڈاؤن لوڈ کریں
 whatsnew79-read-our-privacy-promise = ہماری رازداری کا وعدہ پڑھیں
 # CTA link

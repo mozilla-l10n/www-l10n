@@ -9,8 +9,8 @@ facebook-container-facebook-container-for-firefox = { -brand-name-facebook } ک�
 facebook-container-millions-of-people-around = لاکھوں لوگ دنیا بھر میں { -brand-name-firefox }  ویب برائوزر برائے { -brand-name-android }،{ -brand-name-ios } اور ڈیسک ٹاپ کمپیوٹر پر بھروسہ کرتے ہیں۔تیز، نجی۔ ابھی ڈائونلوڈ کریں!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }۔ کوئی پریشانی۔ اپنی بقیہ زندگی کو اپنے تک رکھیں۔
 facebook-container-get-the-facebook-container = Facebook کنٹینر کی ایکسٹینشن حاصل کریں
-facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈائونلوڈ کریں اور Facebook کنٹینر ایکسٹینشن حاصل کریں
-facebook-container-the-facebook-container-extension = Facebook کنٹینر ایکسٹینشن موبائل آلات پر دستیاب نہیں ہے۔
+facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈائونلوڈ کریں اور { -brand-name-facebook-container }  ایکسٹینشن حاصل کریں
+facebook-container-the-facebook-container-extension = { -brand-name-facebook-container }ایکسٹینشن موبائل آلات پر دستیاب نہیں ہے۔
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox-focus }</strong> آزمائیں۔ رازداری برائوزر برائے { -brand-name-android } اور { -brand-name-ios }۔
 facebook-container-opt-out-on-your-terms = اپنی شراِئط کے مطابق باہر نکلیں
