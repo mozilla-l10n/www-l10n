@@ -94,7 +94,7 @@ firefox-desktop-download-tweak-your-settings = Passe deine Einstellungen an
 firefox-desktop-download-theres-no-need = Du musst dich nicht auf ewig festlegen. Ändere die Startseite in neuen Tabs, deine Suchleiste, Lesezeichen und mehr – so, wie es dir gerade am besten passt.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Unterstützt von der <strong>gemeinnützigen</strong> Organisation Mozilla
-firefox-desktop-download-challenging-the-status = Wir stellen den Status Quo in Frage – seit 1998
+firefox-desktop-download-challenging-the-status = Wir stellen seit 1998 den Status Quo in Frage
 firefox-desktop-download-your-privacy-comes = Deine Privatsphäre geht vor
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behalte deine liebsten Browser-Features — und <strong>entdecke</strong> neue.
@@ -103,7 +103,7 @@ firefox-desktop-download-all-your-favourite = Alle deine bevorzugten { -brand-na
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = Mit dieser Erweiterung hälst du { -brand-name-facebook } und { -brand-name-instagram } davon ab, dir durchs Web zu folgen. Du kannst sie <a{ $attrs }hier einfach downloaden</a>.
+firefox-desktop-download-download-this-browser = Mit dieser Erweiterung hälst du { -brand-name-facebook } und { -brand-name-instagram } davon ab, dir durchs Web zu folgen. Du kannst sie <a{ $attrs }>hier einfach downloaden</a>.
 firefox-desktop-download-sync-your-devices = Synchronisiere deine Geräte.
 firefox-desktop-download-screenshots = Bildschirmfotos
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -117,13 +117,13 @@ firefox-desktop-download-learn-about-the = Weitere Informationen zu { -brand-nam
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = Für jeden was dabei: egal, ob Sicherheit, News oder Spiele. Hier findest du die <a { $attrs }richtige Erweiterung für dich</a>.
+firefox-desktop-download-from-security-to = Für jeden was dabei: egal, ob Sicherheit, News oder Spiele. Hier findest du die <a { $attrs }>richtige Erweiterung für dich</a>.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wurde von <a { $attrs }>{ -brand-name-mozilla } </a> als schnellere, privatere Alternative zu Browsern wie { -brand-name-ie } und jetzt { -brand-name-chrome } entwickelt. Unser Unternehmen und unsere Community folgen auch heute noch der Mission, Menschen über Profit zu stellen.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Während das Internet wächst und sich verändert, konzentriert sich { -brand-name-firefox } weiterhin auf dein Recht auf Privatsphäre – wir nennen es <a { $attrs }das Versprechen für deine persönlichen Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. { -brand-name-firefox } schützt deine Daten, deine Webaktivität und dein Online-Leben.
+firefox-desktop-download-as-the-internet = Während das Internet wächst und sich verändert, konzentriert sich { -brand-name-firefox } weiterhin auf dein Recht auf Privatsphäre – wir nennen es das <a { $attrs }>Versprechen für deine persönlichen Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. { -brand-name-firefox } schützt deine Daten, deine Webaktivität und dein Online-Leben.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ist auf all deinen Geräten verfügbar. Nimm deine Tabs, Chronik und Lesezeichen einfach mit. Zur Synchronisation benötigst du lediglich ein <a { $attrs }>{ -brand-name-firefox }-Konto</a>.
