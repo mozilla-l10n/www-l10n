@@ -39,6 +39,7 @@ firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
 firefox-desktop-download-see-your-report = 檢視您的保護報告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
+firefox-desktop-download-available-in-over = 不論您在何處，使用哪種電腦，{ -brand-name-firefox } 有超過 90 種語言版本，並且與 { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 都相容。請確保您的作業系統已經升級到最新版，以獲得最佳使用體驗。
 firefox-desktop-download-review-system-req = 確認系統需求
 firefox-desktop-download-all-your-devices = 將 { -brand-name-firefox } 安裝到您所有的裝置上
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
