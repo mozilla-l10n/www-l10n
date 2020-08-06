@@ -123,19 +123,19 @@ firefox-desktop-download-from-security-to = Für jeden was dabei: egal, ob Siche
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wurde von <a { $attrs }>{ -brand-name-mozilla }</a> als schnellere, privatere Alternative zu Browsern wie { -brand-name-ie } und jetzt { -brand-name-chrome } entwickelt. Unser Unternehmen und unsere Community folgen auch heute noch der Mission, Menschen über Profit zu stellen.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Während das Internet wächst und sich verändert, konzentriert sich { -brand-name-firefox } weiterhin auf dein Recht auf Privatsphäre – wir nennen es { $attrs }das Versprechen für deine persönlichen Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. { -brand-name-firefox } schützt deine Daten, deine Webaktivität und dein Online-Leben.
+firefox-desktop-download-as-the-internet = Während das Internet wächst und sich verändert, konzentriert sich { -brand-name-firefox } weiterhin auf dein Recht auf Privatsphäre – wir nennen es <a { $attrs }das Versprechen für deine persönlichen Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. { -brand-name-firefox } schützt deine Daten, deine Webaktivität und dein Online-Leben.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ist auf all deinen Geräten verfügbar. Nimm deine Tabs, Chronik und Lesezeichen einfach mit. Zur Synchronisation benötigst du lediglich ein <a { $attrs }>{ -brand-name-firefox }-Konto</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Direkt im Browser findest du ein integriertes <a { $attrs }Bildschirmfoto</a>-Werkzeug. Damit lassen sich blitzschnell hochauflösende Screenshots erstellen
+firefox-desktop-download-grab-a-high = Direkt im Browser findest du ein integriertes <a { $attrs }>Bildschirmfoto</a> -Werkzeug. Damit lassen sich blitzschnell hochauflösende Screenshots erstellen
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }blockt viele Tracker von Drittanbietern</a> automatisch und hält sie davon ab, deine Webaktivitäten zu sammeln und zu verkaufen.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blockt viele <a { $attrs } Tracker von Drittanbietern</a> automatisch und hält sie davon ab, deine Webaktivitäten zu sammeln und zu verkaufen.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Hast du Fragen? Die <a { $attrs } >{ -brand-name-mozilla }-Hilfe</a> ist für dich da.
+firefox-desktop-download-questions = Hast du Fragen? Die <a { $attrs } >{ -brand-name-mozilla } -Hilfe</a> ist für dich da.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Den Browser hast du schon. Hol dir jetzt noch mehr von { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Halte mit { -brand-name-firefox-monitor } nach Hackern und Datenlecks Ausschau, schütze deine Passwörter mit { -brand-name-firefox-lockwise } und mehr.
