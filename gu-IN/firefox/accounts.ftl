@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = તમારી ગોપનીયતાને સુરક્ષિત કરવાની એક રીત છે. { -brand-name-firefox } માં જોડાઓ.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Firefox એકાઉન્ટ મેળવો - તમારો ડેટા ખાનગી, સલામત અને સમન્વયિત રાખો
+firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account }  મેળવો – તમારો ડેટા ખાનગી, સલામત અને સમન્વયિત રાખો
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = ત્રીજા પક્ષકારોને તમારો ડેટા વેચવાના ઉદ્યોગ વિરુદ્ધ તમારું વલણ લો. ટેકનોલોજી સાથે સ્માર્ટ અને સલામત રહો જે તમારા માટે લડે છે.
 # Old HTML page description
-firefox-accounts-securely-sync-your = તમારા પાસવર્ડ્સ, બુકમાર્ક્સ અને ટેબ્સને તમારા બધા ઉપકરણો પર સુરક્ષિત રીતે સમન્વયિત કરો. હવે Firefox એકાઉન્ટ મેળવો - એક લૉગિન - દરેક જગ્યાએ પાવર અને ગોપનીયતા.
+firefox-accounts-securely-sync-your = તમારા પાસવર્ડ્સ, બુકમાર્ક્સ અને ટેબ્સને તમારા બધા ઉપકરણો પર સુરક્ષિત રીતે સમન્વયિત કરો. હવે { -brand-name-firefox-account } મેળવો - એક લૉગિન - દરેક જગ્યાએ પાવર અને ગોપનીયતા.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = તમારી ગોપનીયતાને સુરક્ષિત કરવાની એક રીત છે. <span>{ -brand-name-firefox } માં જોડાઓ.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
