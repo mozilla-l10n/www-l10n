@@ -22,7 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser }技術
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 與其他瀏覽器比較
-firefox-desktop-download-get-all-the-speed = 不用拿隱私出來交換，就能有最佳的使用速度與各種好用工具。{ -brand-name-firefox-browser } 只會收集關於您非常少的資料，甚至不用輸入 E-Mail 就能下載。在網路上追蹤您對我們來說沒有好處—這是我們與其他瀏覽器最大的不同。
+firefox-desktop-download-get-all-the-speed = 不用拿隱私出來交換，就能有最佳的使用速度與各種好用工具。{ -brand-name-firefox-browser }只會收集關於您非常少的資料，甚至不用輸入 E-Mail 就能下載。在網路上追蹤您對我們來說沒有好處—這是我們與其他瀏覽器最大的不同。
 firefox-desktop-download-how-we-compare = 我們與其他瀏覽器的差別
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 與下列瀏覽器:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -108,6 +108,7 @@ firefox-desktop-download-sync-your-devices = 同步您的裝置
 firefox-desktop-download-screenshots = 畫面擷圖
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = 加強型追蹤保護（ETP）
+firefox-desktop-download-from-watching-a = 不論是觀看網路教學影片，還是要關心球賽打得怎樣了，都可以讓影片在您同時做不同事情時自動跟著走。
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
