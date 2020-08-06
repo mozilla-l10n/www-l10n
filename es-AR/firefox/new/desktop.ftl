@@ -18,6 +18,12 @@ firefox-desktop-download-get-the-browser = Obtené el navegador que protege lo i
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador super veloz que no te vende.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
+firefox-desktop-download-browser-support = Ayuda para { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Haga lo que haga en línea <br> { -brand-name-firefox-browser } <strong> no está </strong> mirando.
+firefox-desktop-download-how-firefox-compares = Cómo se compara { -brand-name-firefox } con otros navegadores
+firefox-desktop-download-get-all-the-speed = Obtenga toda la velocidad y las herramientas sin ninguna de invasión de la privacidad. { -brand-name-firefox-browser } recopila tan poca información sobre usted que ni siquiera necesitamos que descargue su dirección de correo electrónico. Esto se debe a que, a diferencia de otros navegadores, no tenemos intereses financieros para seguirlo en la web.
+firefox-desktop-download-how-we-compare = Cómo nos comparamos con otros navegadores
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
