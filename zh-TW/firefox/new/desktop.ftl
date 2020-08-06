@@ -18,7 +18,7 @@ firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽�
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
 firefox-desktop-download-download-options = 下載其他平台與語言版本
-firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 技術支援
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser }技術支援
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 與其他瀏覽器比較
@@ -88,15 +88,18 @@ firefox-desktop-download-adjust-search-bar = 調整搜尋列設定
 firefox-desktop-download-change-new-tab = 調整新分頁版面
 firefox-desktop-download-make-firefox-your = 讓 <strong>{ -brand-name-firefox }</strong> 有您的風格
 firefox-desktop-download-extensions-for-every = 各種用途的擴充套件
-firefox-desktop-download-change-up-your = 調整外面
+firefox-desktop-download-change-up-your = 妝點外觀
 firefox-desktop-download-go-from-light = 看您的心情，隨意切換亮暗色模式，或者也可以自行安裝佈景主題（也許您會想試試看彩虹獨角獸？）。
 firefox-desktop-download-tweak-your-settings = 調整設定
+firefox-desktop-download-theres-no-need = 不必特別學習如何操作。自由調整新分頁頁面、搜尋列、書籤等元素，用您自己的方式探索網路。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = 由將眾人的利益擺在第一位的<strong>非營利組織</strong>全力相挺
 firefox-desktop-download-challenging-the-status = 從 1998 年起就挑戰現況
 firefox-desktop-download-your-privacy-comes = 將您的隱私擺在第一位
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = 保留所有您最喜歡的瀏覽器功能 — 另外再<strong>發現</strong>各種新功能。
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = 所有您最愛的 { -brand-name-google } 工具（Gmail、文件）都能在 { -brand-name-firefox-browser } 無痛使用。
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -119,7 +122,7 @@ firefox-desktop-download-from-security-to = 從安全性、新聞、到網路遊
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 打造，希望成為在 { -brand-name-ie }（現在則是 { -brand-name-chrome }）之外，更快、更有隱私的瀏覽器。而現在，我們由以使命驅動的公司與全球志工社群組合而成，持續將您的隱私放在第一位。
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為<a { $attrs }>Personal Data Promise</a>: 資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
+firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為 <a { $attrs }>Personal Data Promise</a>: 資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有裝置都能使用。只需要一組 <a { $attrs }>{ -brand-name-firefox } 帳號</a>，就能將分頁、上網記錄與書籤隨身帶著走。
@@ -131,7 +134,7 @@ firefox-desktop-download-grab-a-high = 使用瀏覽器內建的<a { $attrs }>畫
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自動<a { $attrs }>封鎖許多在不同網站間收集並出售您的上網行為的第三方追蹤器</a>。
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = 有問題嗎？<a { $attrs }>{ -brand-name-mozilla } support</a> 能幫上忙。
+firefox-desktop-download-questions = 有問題嗎？讓 <a { $attrs }>{ -brand-name-mozilla } 技術支援站</a>來幫幫您。
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 安裝好 { -brand-name-firefox } 了嗎？接下來註冊帳號，讓 { -brand-name-firefox } 火力全開！
 firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-lockwise } 保護密碼，以及更多功能。
