@@ -57,6 +57,7 @@ firefox-desktop-download-third-party-cookie = Blokowanje plackow třećich poski
 firefox-desktop-download-fingerprinter-blocking = Blokowanje porstowych wotćišćow
 firefox-desktop-download-cryptominer-blocking = Blokowanje kryptokopakow
 firefox-desktop-download-private-browsing-mode = Priwatny modus
+firefox-desktop-download-built-in-password = Zatwarjeny zrjadowak hesłow
 firefox-desktop-download-clear-history = Historiju zhašeć
 firefox-desktop-download-automatic-updates = Awtomatiske aktualizacije
 firefox-desktop-download-customize-your-browser = Přiměrće swój wobhladowak
