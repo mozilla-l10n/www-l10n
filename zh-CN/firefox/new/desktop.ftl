@@ -89,11 +89,17 @@ firefox-desktop-download-change-new-tab = 更改新标签页布局
 firefox-desktop-download-make-firefox-your = 让 <strong>{ -brand-name-firefox }</strong> 有您的个性
 firefox-desktop-download-extensions-for-every = 各式用途的扩展
 firefox-desktop-download-change-up-your = 更改外观
+firefox-desktop-download-go-from-light = 随心切换亮暗色模式，或者也可以自定义主题（也许您会想试试看彩虹独角兽？）。
 firefox-desktop-download-tweak-your-settings = 调整设置
+firefox-desktop-download-theres-no-need = 不必特别学习如何操作。随心定制新标签页页面、搜索栏、书签等元素，用您的方式探索网络。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = 由以人为本的<strong>非营利组织</strong>全力支持
 firefox-desktop-download-challenging-the-status = 从1998 年起就挑战现状
 firefox-desktop-download-your-privacy-comes = 将您的隐私放在首位
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = 保留所有您最喜欢的浏览器功能 — 还有更多新功能待您<strong>发现</strong>。
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = 所有您最喜爱的 { -brand-name-google } 工具（Gmail、文档）都能在 { -brand-name-firefox-browser }无痛使用。
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
