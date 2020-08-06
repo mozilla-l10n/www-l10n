@@ -24,6 +24,26 @@ firefox-desktop-download-do-what-you-do = Haga lo que haga en línea <br> { -bra
 firefox-desktop-download-how-firefox-compares = Cómo se compara { -brand-name-firefox } con otros navegadores
 firefox-desktop-download-get-all-the-speed = Obtenga toda la velocidad y las herramientas sin ninguna de invasión de la privacidad. { -brand-name-firefox-browser } recopila tan poca información sobre usted que ni siquiera necesitamos que descargue su dirección de correo electrónico. Esto se debe a que, a diferencia de otros navegadores, no tenemos intereses financieros para seguirlo en la web.
 firefox-desktop-download-how-we-compare = Cómo nos comparamos con otros navegadores
+firefox-desktop-download-compare-firefox-to = Comparar { -brand-name-firefox } con:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Sí
+firefox-desktop-download-no = No
+firefox-desktop-download-blocks-third-party = Bloquea cookies de rastreo de terceros
+firefox-desktop-download-autoplay-blocking = Bloquea la reproducción automática
+firefox-desktop-download-blocks-social-trackers = Bloquea rastreadores sociales
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Disponibilidad de sistemas operativos
+firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla incorporada
+firefox-desktop-download-master-password = Contraseña maestra
+firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores de oublicidad. Es más rápido en Internet
+firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente mientras que sus rastreadores observan cada movimiento que usted hace en línea. El { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en su configuración de seguridad.
+firefox-desktop-download-see-your-report = Vea su informe de protección
+firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
+firefox-desktop-download-available-in-over = Disponible en más de 90 idiomas y compatible con los equipos { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, { -brand-name-firefox } funciona sin importar qué está usando o dónde está. Asegúrese de que su sistema operativo esté actualizado para obtener la mejor experiencia.
+firefox-desktop-download-review-system-req = Verificar los requisitos del sistema
+firefox-desktop-download-all-your-devices = Ponga { -brand-name-firefox } en todos sus dispositivos
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
