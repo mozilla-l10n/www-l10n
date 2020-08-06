@@ -59,11 +59,17 @@ firefox-desktop-download-cryptominer-blocking = Blokowanje kryptokopakow
 firefox-desktop-download-private-browsing-mode = Priwatny modus
 firefox-desktop-download-built-in-password = Zatwarjeny zrjadowak hesłow
 firefox-desktop-download-clear-history = Historiju zhašeć
+firefox-desktop-download-form-autofill = Awtomatiske wupjelnjenje formularow
 firefox-desktop-download-automatic-updates = Awtomatiske aktualizacije
 firefox-desktop-download-customize-your-browser = Přiměrće swój wobhladowak
 firefox-desktop-download-themes = Drasty
 firefox-desktop-download-dark-mode = Ćmowy modus
 firefox-desktop-download-library-of-extensions = Biblioteka rozšěrjenjow
+firefox-desktop-download-adjust-search-bar = Nastajenja pytanskeho pola přiměrić
+firefox-desktop-download-change-new-tab = Wuhotowanje noweho rajtarka změnić
+firefox-desktop-download-extensions-for-every = Rozšěrjenja za kóždy zajim
+firefox-desktop-download-change-up-your = Změńće napohlad
+firefox-desktop-download-tweak-your-settings = Přiměrće swoje nastajenja
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma najwyšu prioritu
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synchronizujće swoje graty
@@ -71,6 +77,9 @@ firefox-desktop-download-screenshots = Fota wobrazowki
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Polěpšeny slědowanski škit (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Wobstarajće sej { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Wobstarajće sej { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhladowaku { -brand-name-firefox } deleka
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Wobkedźbujće hackerow z { -brand-name-firefox-monitor }, škitajće hesła z { -brand-name-firefox-lockwise } a wjace.
