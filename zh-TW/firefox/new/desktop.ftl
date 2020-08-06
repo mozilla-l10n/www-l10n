@@ -38,7 +38,7 @@ firefox-desktop-download-os-availability = 不同作業系統皆有提供
 firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
 firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
-firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser } 會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
+firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser }會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
 firefox-desktop-download-see-your-report = 檢視您的保護報告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-available-in-over = 不論您在何處，使用哪種電腦，{ -brand-name-firefox } 有超過 90 種語言版本，並且與 { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 都相容。請確保您的作業系統已經升級到最新版，以獲得最佳使用體驗。
@@ -99,7 +99,7 @@ firefox-desktop-download-your-privacy-comes = 將您的隱私擺在第一位
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = 保留所有您最喜歡的瀏覽器功能 — 另外再<strong>發現</strong>各種新功能。
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = 所有您最愛的 { -brand-name-google } 工具（Gmail、文件）都能在 { -brand-name-firefox-browser } 無痛使用。
+firefox-desktop-download-all-your-favourite = 所有您最愛的 { -brand-name-google } 工具（Gmail、文件）都能在 { -brand-name-firefox-browser }無痛使用。
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
