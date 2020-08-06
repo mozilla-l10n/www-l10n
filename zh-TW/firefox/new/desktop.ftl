@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 技�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 與其他瀏覽器比較
+firefox-desktop-download-get-all-the-speed = 不用拿隱私出來交換，就能有最佳的使用速度與各種好用工具。{ -brand-name-firefox-browser } 只會收集關於您非常少的資料，甚至不用輸入 E-Mail 就能下載。在網路上追蹤您對我們來說沒有好處—這是我們與其他瀏覽器最大的不同。
 firefox-desktop-download-how-we-compare = 我們與其他瀏覽器的差別
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 與下列瀏覽器:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -37,6 +38,7 @@ firefox-desktop-download-os-availability = 不同作業系統皆有提供
 firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
 firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
+firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser } 會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
 firefox-desktop-download-see-your-report = 檢視您的保護報告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-available-in-over = 不論您在何處，使用哪種電腦，{ -brand-name-firefox } 有超過 90 種語言版本，並且與 { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 都相容。請確保您的作業系統已經升級到最新版，以獲得最佳使用體驗。
@@ -87,6 +89,7 @@ firefox-desktop-download-change-new-tab = 調整新分頁版面
 firefox-desktop-download-make-firefox-your = 讓 <strong>{ -brand-name-firefox }</strong> 有您的風格
 firefox-desktop-download-extensions-for-every = 各種用途的擴充套件
 firefox-desktop-download-change-up-your = 調整外面
+firefox-desktop-download-go-from-light = 看您的心情，隨意切換亮暗色模式，或者也可以自行安裝佈景主題（也許您會想試試看彩虹獨角獸？）。
 firefox-desktop-download-tweak-your-settings = 調整設定
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = 由將眾人的利益擺在第一位的<strong>非營利組織</strong>全力相挺
