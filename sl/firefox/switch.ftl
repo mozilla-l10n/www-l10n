@@ -20,6 +20,7 @@ switch-still-not-convinced = Še vedno niste prepričani, da je preklop na { -br
 switch-enjoy-the-web-faster = Uživajte v hitrejšem spletu, vse je pripravljeno za vas.
 switch-download-and-switch = Prenesite in preklopite
 switch-share-to-facebook = Delite na Facebooku
+switch-share-to-facebook-updated = Delite na { -brand-name-facebook }u
 switch-send-a-tweet = Tvitnite
 switch-hey = Hej,
 switch-check-it-out = Poskusi in mi sporoči, kaj meniš:
