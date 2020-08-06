@@ -8,7 +8,10 @@
 # Sub navigation title
 firefox-privacy-privacy = پرائیویسی
 # Sub navigation link
+firefox-privacy-our-promise = ہمارا وعدہ
+# Sub navigation link
 firefox-privacy-our-products = ہماری مصنوعات
+firefox-privacy-hub-take-less = کم لیں
 firefox-privacy-hub-keep-it-safe = اسے محفوظ رکھیں
 firefox-privacy-hub-no-secrets = کوئی راز نہیں
 firefox-privacy-hub-youll-always-know-where-you = آپ کو ہمیشہ پتہ چل جائے گا کہ آپ ہمارے ساتھ کہاں کھڑے ہیں
@@ -16,6 +19,7 @@ firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } پر کیوں ا
 firefox-privacy-hub-learn-more-about-our-mission = ہمارے مشن کے بارے میں مزید معلومات حاصل کریں
 firefox-privacy-hub-your-privacy-by-the-product = آپ کی رازداری ، مصنوع کے لحاظ سے
 firefox-privacy-hub-learn-about-our-products = ہماری مصنوعات کے بارے میں جانیں
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ہر  مصنوعہ میں آپکی رازداری کی حفاظت کرتا ہے
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = بہتر ٹریکنگ پروٹیکشن حاصل کریں
