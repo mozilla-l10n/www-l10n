@@ -68,13 +68,13 @@ firefox-desktop-download-block-autoplay-of = Blocke automatische Wiedergabe von 
 firefox-desktop-download-picture-in-picture = Bild-im-Bild-Modus (PiP)
 firefox-desktop-download-curated-content-on = Kuratierte Artikel in neuen TabsKuratierter Inhalt auf neuen Tabs
 firefox-desktop-download-share-links = Links teilen
-firefox-desktop-download-protect-your-privacy = Schützt deine Privatsphäre
+firefox-desktop-download-protect-your-privacy = Schütze deine Privatsphäre
 firefox-desktop-download-third-party-cookie = Blockt Cookies von Drittanbietern
 firefox-desktop-download-fingerprinter-blocking = Blockt Identifizierer (Fingerprinter)
 firefox-desktop-download-cryptominer-blocking = Blockt Krypto-Miner
 firefox-desktop-download-private-browsing-mode = Privater Modus
 firefox-desktop-download-individual-protections-report = Individueller Privatsphäre-Bericht
-firefox-desktop-download-secure-your-personal = Schützt deine persönlichen Daten
+firefox-desktop-download-secure-your-personal = Schütze deine persönlichen Daten
 firefox-desktop-download-breached-website-alerts = Warnungen zu Websites mit Datenlecks
 firefox-desktop-download-built-in-password = Eingebauter Passwort-Manager
 firefox-desktop-download-clear-history = Chronik löschen
@@ -94,10 +94,10 @@ firefox-desktop-download-tweak-your-settings = Passe deine Einstellungen an
 firefox-desktop-download-theres-no-need = Du musst dich nicht auf ewig festlegen. Ändere die Startseite in neuen Tabs, deine Suchleiste, Lesezeichen und mehr – so, wie es dir gerade am besten passt.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Unterstützt von der <strong>gemeinnützigen</strong> Organisation Mozilla
-firefox-desktop-download-challenging-the-status = Wir stellen den Status Quo in Frage – schon seit 1998
+firefox-desktop-download-challenging-the-status = Wir stellen den Status Quo in Frage – seit 1998
 firefox-desktop-download-your-privacy-comes = Deine Privatsphäre geht vor
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = Behalte deine liebsten Browser-Features – und <strong>entdecke</strong> neue.
+firefox-desktop-download-keep-all-your = Behalte deine liebsten Browser-Features — und <strong>entdecke</strong> neue.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Alle deine bevorzugten { -brand-name-google }-Werkzeuge (wie Gmail und Docs & Tabellen) funktionieren nahtlos im { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
