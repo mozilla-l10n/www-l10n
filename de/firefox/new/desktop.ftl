@@ -110,9 +110,9 @@ firefox-desktop-download-screenshots = Bildschirmfotos
 firefox-desktop-download-enhanced-tracking-protection = Verbesserter Tracking-Schutz
 firefox-desktop-download-from-watching-a = Einfaches Multitasking: Ob Web-Tutorial, Lieblingsserie oder Live-Stream – Bild-Im-Bild heftet dein Video an und lässt es im Vordergrund weiterlaufen, während du dich anderen Dingen widmest.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Holen Sie sich { -brand-name-firefox-browser } für <strong>{ -brand-name-android }</strong>
-firefox-desktop-download-get-firefox-ios = Holen Sie sich { -brand-name-firefox-browser } für <strong>{ -brand-name-ios }</strong>
-firefox-desktop-download-download-the-mobile = Laden Sie den mobilen Browser { -brand-name-firefox } herunter, um alle Ihre Geräte automatisch zu schützen.
+firefox-desktop-download-get-firefox-android = Hol dir { -brand-name-firefox-browser } für <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Hol dir { -brand-name-firefox-browser } für <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Lade dir den mobilen Browser { -brand-name-firefox } herunter, um alle deine Geräte automatisch zu schützen.
 firefox-desktop-download-learn-about-the = Hier finden Sie weitere Informationen zu { -brand-name-firefox } für Desktop
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
