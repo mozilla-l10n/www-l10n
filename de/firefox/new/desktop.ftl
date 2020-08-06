@@ -10,28 +10,28 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Download { -brand-name-firefox-browser } – schnell, privat und kostenlos – von { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Holen Sie sich { -brand-name-firefox }, einen kostenlosen Webbrowser, der von { -brand-name-mozilla } unterstützt wird, einer gemeinnützigen Organisation, die sich für Gesundheit und Datenschutz im Internet einsetzt. Verfügbar ab sofort für { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } und { -brand-name-ios }.
+firefox-desktop-download-meta-desc = Hol dir { -brand-name-firefox }, den kostenlosen Webbrowser, der von der gemeinnützigen Organisation { -brand-name-mozilla } unterstützt wird. Mozilla setzt sich für ein gesundes Internet und Datenschutz ein. Firefox ist ab sofort verfügbar für { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } und { -brand-name-ios }.
 firefox-desktop-download-og-title = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten herunterladen
 firefox-desktop-download-og-desc = Der neue { -brand-name-firefox }: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Holen Sie sich den Browser, der das schützt, was wichtig ist
+firefox-desktop-download-get-the-browser = Der Browser, der das schützt, was dir wichtig ist
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Keine zwielichtigen Datenschutzrichtlinien oder Hintertüren für Werbetreibende. Nur ein blitzschneller Browser, der Sie nicht verrät.
+firefox-desktop-download-no-shady = Keine zwielichtigen Datenschutzhinweise oder Hintertürchen für Werbetreibende. Nur ein blitzschneller Browser, der deine Privatsphäre respektiert.
 firefox-desktop-download-download-options = Download-Optionen und weitere Sprachen
 firefox-desktop-download-browser-support = Hilfe zu { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Machen Sie im Internet, was Sie wollen.<br> { -brand-name-firefox-browser } schaut <strong>nicht</strong> zu
-firefox-desktop-download-how-firefox-compares = Vergleich zwischen { -brand-name-firefox } und anderen Browsern
-firefox-desktop-download-get-all-the-speed = Holen Sie sich die Geschwindigkeit und die Werkzeuge, ohne die Privatsphäre zu verletzen. { -brand-name-firefox-browser } sammelt so wenig Daten über Sie, dass wir nicht einmal Ihre E-Mail-Adresse zum Herunterladen benötigen. Dies liegt daran, dass wir im Gegensatz zu anderen Browsern keinen finanziellen Vorteil durch Beobachtung Ihrer Internet-Aktivitäten haben.
+firefox-desktop-download-do-what-you-do = Mach dein Ding online. Der <br> { -brand-name-firefox-browser } schaut <strong>nicht</strong> dabei zu.
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } im Vergleich zu anderen Browsern
+firefox-desktop-download-get-all-the-speed = Hol dir Geschwindigkeit und smarte Tools, ohne an Privatsphäre einzubüßen. Der { -brand-name-firefox-browser } sammelt nur sehr wenige Daten von dir – du musst nicht einmal deine E-Mail-Adresse hergeben, um den Browser herunterzuladen. Im Gegensatz zu anderen Browsern haben wir kein finanzielles Interesse daran, deine Aktivitäten im Web zu verfolgen.
 firefox-desktop-download-how-we-compare = Wir wir im Vergleich zu anderen Browsern dastehen
-firefox-desktop-download-compare-firefox-to = Vergleichen Sie { -brand-name-firefox } mit:
+firefox-desktop-download-compare-firefox-to = Vergleiche { -brand-name-firefox } mit:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ja
 firefox-desktop-download-no = Nein
-firefox-desktop-download-blocks-third-party = Blockiert Tracking-Cookies von Drittanbietern
-firefox-desktop-download-autoplay-blocking = Blockieren von Autoplay
+firefox-desktop-download-blocks-third-party = Blockt Tracking-Cookies von Drittanbietern
+firefox-desktop-download-autoplay-blocking = Blockt von Autoplay
 firefox-desktop-download-blocks-social-trackers = Blockiert Verfolgung durch soziale Netzwerke
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Verfügbarkeit für Betriebssysteme
