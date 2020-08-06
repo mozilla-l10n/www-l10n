@@ -22,6 +22,7 @@ firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری کے نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزر کے بارے میں جانیں
+firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 بٹ پروسیسر والے کمپیوٹرز کے ل 32 32 بٹ انسٹالر کا انتخاب کریں۔ یا زیادہ پرانے یا کم طاقت ور کمپیوٹرز کے لئے۔ <a href="{ $url }"> اگر آپ کو یقین نہیں ہے </a> اگر 64 بٹ یا 32 بٹ انسٹالر کا انتخاب کریں تو ، ہم آپ کو 32 بٹ کے ساتھ جانے کی تجویز کریں گے۔

@@ -45,6 +45,7 @@ footer-websites-privacy-notice = ویب سائٹ رازداری کے نوٹس
 footer-websites-cookies = کوکیز
 footer-websites-legal = قانونی
 footer-language = زبان:
+footer-go = چلیں
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

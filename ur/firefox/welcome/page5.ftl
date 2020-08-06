@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/5/
 
 # HTML page title
-welcome-page5-firefox-lockwise-password = فائFirefox Lockwis - پاس ورڈ منیجر - ہر جگہ اپنے پاس ورڈ لیجایے
+welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise }- پاس ورڈ منیجر - ہر جگہ اپنے پاس ورڈ لیجایے
 welcome-page5-theres-an-easier-way-to-deal = اپنے پاس ورڈز سے نمٹنے کا ایک آسان طریقہ ہے
-welcome-page5-get-the-lockwise-app = Lockbox ایپلیکیشن حاصل کریں
+welcome-page5-get-the-lockwise-app = { -brand-name-firefox } ایب حاصل کریں
 welcome-page5-get-firefox-lockwise-on-your = اپنے فون پر { -brand-name-firefox-lockwise }حاصل کریں
 welcome-page5-send-the-download-link-right = ڈاؤن لوڈ کا ربط سیدھے اپنے فون یا ای میل پر ارسال کریں۔
 welcome-page5-download-firefox-lockwise = اپنے اسمارٹ فون یا ٹیبلٹ میں { -brand-name-firefox-lockwise }ڈائونلوڈ کریں۔

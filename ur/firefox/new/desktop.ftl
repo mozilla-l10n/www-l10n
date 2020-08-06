@@ -14,6 +14,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = ہاں
 firefox-desktop-download-no = نہیں
 firefox-desktop-download-master-password = ماسٹر پاس ورڈ
+firefox-desktop-download-boost-your = اپنی پیداوری صلاحیت  کو فروغ دیں
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
