@@ -88,8 +88,12 @@ firefox-desktop-download-make-firefox-your = 讓 <strong>{ -brand-name-firefox }
 firefox-desktop-download-extensions-for-every = 各種用途的擴充套件
 firefox-desktop-download-change-up-your = 調整外面
 firefox-desktop-download-tweak-your-settings = 調整設定
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = 由將眾人的利益擺在第一位的<strong>非營利組織</strong>全力相挺
 firefox-desktop-download-challenging-the-status = 從 1998 年起就挑戰現況
 firefox-desktop-download-your-privacy-comes = 將您的隱私擺在第一位
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = 保留所有您最喜歡的瀏覽器功能 — 另外再<strong>發現</strong>各種新功能。
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
