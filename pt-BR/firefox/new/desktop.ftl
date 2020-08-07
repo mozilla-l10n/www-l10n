@@ -48,7 +48,7 @@ firefox-desktop-download-take-your-privacy = Leve sua privacidade com você em t
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Faça isso <strong>tudo</strong> com o { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Pesquise de forma mais inteligente e rápida
-firefox-desktop-download-search-from-address = Pesquise na barra de endereços
+firefox-desktop-download-search-from-address = Pesquisa na barra de endereços
 firefox-desktop-download-search-engine-options = Opções de mecanismos de pesquisa
 firefox-desktop-download-smart-search-suggestions = Sugestões de pesquisa inteligentes
 firefox-desktop-download-bookmark-history = Favoritos, histórico e abas abertas nos resultados
