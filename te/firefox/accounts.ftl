@@ -17,6 +17,8 @@ firefox-accounts-firefox-is-technology = { -brand-name-firefox } అనేది
 firefox-accounts-get-technology-that = మీ కోసం పోరాడే సాంకేతికతను పొందండి.
 firefox-accounts-travel-the-internet = ప్రతీ పరికరంలోనూ సంరక్షణగా అంతర్జాలాన్ని విహరించండి.
 firefox-accounts-keep-your-passwords = మీ సంకేతపదాలను సురక్షితంగా, వహనీయంగా ఉంచుకోండి.
+# Line breaks for visual formatting.
+firefox-accounts-take-less-keep-it = తక్కువ తీసుకో.<br> తీసుకున్న దాన్ని భద్రంగా ఉంచు.<br> రహస్యాలేమీ లేవు.
 firefox-accounts-get-the-knowledge = మిమ్మల్ని సురక్షితంగా ఉంచుకోడానికి జ్ఞానాన్ని పొందండి.
 firefox-accounts-help-us-build-a-better = అందరికీ మెరుగైన { -brand-name-firefox }‌ను తయారుచేయడంలో మాకు తోడ్పడండి.
 
