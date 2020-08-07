@@ -68,16 +68,16 @@ firefox-desktop-download-block-autoplay-of = Bloqueio de reprodução automátic
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-curated-content-on = Conteúdo selecionado na nova aba
 firefox-desktop-download-share-links = Compartilhar links
-firefox-desktop-download-protect-your-privacy = Protege sua privacidade
+firefox-desktop-download-protect-your-privacy = Proteja sua privacidade
 firefox-desktop-download-third-party-cookie = Bloqueio de cookies de terceiros
-firefox-desktop-download-fingerprinter-blocking = Bloqueio de fingerprinter (rastreador de identidade digital)
+firefox-desktop-download-fingerprinter-blocking = Bloqueio de fingerprinters (rastreadores de identidade digital)
 firefox-desktop-download-cryptominer-blocking = Bloqueio de criptomineração
 firefox-desktop-download-private-browsing-mode = Modo de navegação privativa
 firefox-desktop-download-individual-protections-report = Relatório individual de proteções
 firefox-desktop-download-secure-your-personal = Proteja suas informações pessoais
 firefox-desktop-download-breached-website-alerts = Alertas de sites com vazamento de dados
 firefox-desktop-download-built-in-password = Gerenciador de senhas integrado
-firefox-desktop-download-clear-history = Limpar histórico
+firefox-desktop-download-clear-history = Limpeza do histórico
 firefox-desktop-download-form-autofill = Preenchimento automático de formulários
 firefox-desktop-download-automatic-updates = Atualizações automáticas
 firefox-desktop-download-customize-your-browser = Personalize seu navegador
@@ -88,7 +88,7 @@ firefox-desktop-download-adjust-search-bar = Ajustes na configuração da barra 
 firefox-desktop-download-change-new-tab = Alterar a disposição de nova aba
 firefox-desktop-download-make-firefox-your = Deixe o <strong>{ -brand-name-firefox }</strong> do seu jeito
 firefox-desktop-download-extensions-for-every = Extensões para todos os interesses
-firefox-desktop-download-change-up-your = Altere sua aparência
+firefox-desktop-download-change-up-your = Altere a aparência
 firefox-desktop-download-go-from-light = Mude do modo claro para escuro, dependendo do seu humor ou preferência, ou anime as coisas com um tema personalizado (talvez unicórnio de arco-íris).
 firefox-desktop-download-tweak-your-settings = Ajuste suas configurações
 firefox-desktop-download-theres-no-need = Não precisa aceitar as coisas como estão. Altere a página de nova aba, a barra de pesquisa, favoritos e muito mais para explorar a internet do jeito que quiser.
@@ -103,9 +103,9 @@ firefox-desktop-download-all-your-favourite = Todas as suas ferramentas preferid
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs } >Baixe esta extensão do navegador</a> para impedir que o { -brand-name-facebook } e o { -brand-name-instagram } rastreiem você pela web.
+firefox-desktop-download-download-this-browser = <a { $attrs } >Instale esta extensão do navegador</a> para impedir que { -brand-name-facebook } e { -brand-name-instagram } rastreiem você pela web.
 firefox-desktop-download-sync-your-devices = Sincronize seus dispositivos
-firefox-desktop-download-screenshots = Capturar telas
+firefox-desktop-download-screenshots = Capture telas
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Proteção aprimorada contra rastreamento
 firefox-desktop-download-from-watching-a = Desde assistir a um tutorial na web até ficar de olho no seu time preferido, seu vídeo acompanha você enquanto faz várias tarefas ao mesmo tempo.
@@ -120,16 +120,16 @@ firefox-desktop-download-learn-about-the = Saiba mais abaixo sobre o navegador {
 firefox-desktop-download-from-security-to = De segurança a notícias e jogos, há <a { $attrs }>extensões para todos</a>. Adicione quantas quiser até seu navegador ficar do seu jeito.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi criado pela <a { $attrs }>{ -brand-name-mozilla }</a> como uma alternativa mais rápida e privativa a navegadores como o { -brand-name-ie } e agora o { -brand-name-chrome }. Hoje, nossa empresa e comunidade de voluntários, motivados por uma missão, continuam a colocar sua privacidade acima de tudo.
+firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi criado pela <a { $attrs }>{ -brand-name-mozilla }</a> como uma alternativa mais rápida e privativa a navegadores como o { -brand-name-ie } e atualmente o { -brand-name-chrome }. Hoje, nossa empresa e comunidade de voluntários, motivados por uma missão, continuamos a colocar sua privacidade acima de tudo.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = À medida que a internet cresce e muda, o { -brand-name-firefox } continua a se concentrar no seu direito à privacidade — chamamos isso de <a { $attrs }>Promessa de como lidar com dados pessoais</a>: Coletar menos. Manter seguro. Sem segredos. Seus dados, sua atividade na web, sua vida online são protegidos pelo { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está disponível em todos os seus dispositivos. Leve com você suas abas, histórico e favoritos. Tudo que precisa é uma <a { $attrs }>Conta { -brand-name-firefox }</a>.
+firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está disponível para todos os seus dispositivos. Leve com você suas abas, histórico, favoritos e muito mais. Tudo que precisa é uma <a { $attrs }>Conta { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Obtenha uma imagem de alta resolução de qualquer coisa online com nossa ferramenta de <a { $attrs }>captura de tela</a> integrada diretamente no navegador
+firefox-desktop-download-grab-a-high = Obtenha uma imagem de alta resolução de qualquer coisa online com nossa ferramenta de <a { $attrs }>captura de tela</a>, integrada diretamente no navegador
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } automaticamente <a { $attrs }>bloqueia muitos rastreadores de terceiros</a>, impedindo-os de coletar e vender sua atividade na web.
