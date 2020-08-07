@@ -8,6 +8,7 @@
 firefox-desktop-download-og-title = Download de snelste { -brand-name-firefox } ooit
 firefox-desktop-download-og-desc = Sneller pagina’s laden, minder geheugengebruik en boordevol functies, de nieuwe { -brand-name-firefox } is er.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = Download de browser die beschermt wat belangrijk is
 firefox-desktop-download-download-options = Downloadopties en andere talen
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } vergelijken met:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
