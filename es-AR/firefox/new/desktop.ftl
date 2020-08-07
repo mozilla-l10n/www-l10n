@@ -67,6 +67,11 @@ firefox-desktop-download-enhanced-tracking-protection = Protección de rastreo a
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obtener { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtener { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Descargar el navegador móvil { -brand-name-firefox } para protecciòn automática en todos los dispositivos.
+firefox-desktop-download-learn-about-the = Conocer más sobre el navegador de escritorio { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Simplemente descargar el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ¡Casi listo!
+firefox-desktop-download-in-another-language = Descargar en otro idioma o para otro sistema operativo.
