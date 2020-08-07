@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Wotkryjće produkty, kotrež was w�
 firefox-mobile-sync-your-history-passwords = Synchronizujće swoju historiju, swoje hesła a zapołožki. Sćelće rajtarki na wšě waše graty.
 firefox-mobile-android-only = Jenož { -brand-name-android }
 firefox-mobile-make-android-your-own = Přiměrće sej { -brand-name-android }
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Přiměrće swój mobilny wobhladowak { -brand-name-firefox } z <a href="{ $url }">rozšěrjenjemi</a>, zo byšće wabjenje blokował, hesła rjadował, { -brand-name-facebook } při tym haćił, zo by wam slědował a wjace.
+firefox-mobile-customize-your-firefox-mobile-truncated = Přiměrće swój mobilny wobhladowak { -brand-name-firefox } z rozšěrjenjemi.
 firefox-mobile-find-it-fast-with-a-smart = Pytajće spěšnišo z inteligentnej pytanskej lajstu
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } waše potrěbnosće z inteligentnymi pytanskimi namjetami a spěšnym přistupom k sydłam předwidźi, kotrež najhusćišo wopytujeće.
 firefox-mobile-the-privacy-you-deserve-the = Priwatnosć, kotruž sej zasłužiće. Spěšnosć, kotruž trjebaće.
