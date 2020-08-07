@@ -12,10 +12,6 @@ whatsnew80-main-title = Do just about everything, a little faster
 whatsnew80-main-intro = Move from computer to phone without missing a beat. Get { -brand-name-firefox } for mobile.
 whatsnew80-primary-cta-description = Enter your email or phone number for a download link
 
-# Main CTA button
-whatsnew80-primary-cta = SEND
-
-
 # content buckets below hero
 whatsnew80-password-fatigue = Password fatigue is real
 whatsnew80-the-average-person = The average person has 130 online accounts. { -brand-name-firefox } for mobile remembers and stores your passwords safely across synced devices, so you can log in with just one click.
