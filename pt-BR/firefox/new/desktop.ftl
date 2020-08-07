@@ -104,7 +104,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >Baixe esta extensão do navegador</a> para impedir que o { -brand-name-facebook } e o { -brand-name-instagram } rastreiem você pela web.
-firefox-desktop-download-sync-your-devices = Sincronizar seus dispositivos
+firefox-desktop-download-sync-your-devices = Sincronize seus dispositivos
 firefox-desktop-download-screenshots = Capturar telas
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Proteção aprimorada contra rastreamento
