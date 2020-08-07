@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/all/
 
 firefox-all-release-notes = విడుదల విశేషాలు
+firefox-all-source-code = మూల కోడు
 firefox-all-need-help = సహాయం కావాలా?
 firefox-all-which-browser-would = మీరు ఏ విహారిణిని దించుకోవాలనుకుంటున్నారు?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
