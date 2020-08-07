@@ -7,7 +7,7 @@
 # html page title
 whatsnew80-page-title = What’s new with { -brand-name-firefox }
 
-whatsnew80-up-to-date-banner = Congrats! You’re using the latest version of Firefox.
+whatsnew80-up-to-date-banner = Congrats! You’re using the latest version of { -brand-name-firefox }.
 
 # Main title
 whatsnew80-main-title = Do just about everything, a little faster
