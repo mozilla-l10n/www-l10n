@@ -44,6 +44,29 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
 firefox-desktop-download-available-in-over = Disponible en más de 90 idiomas y compatible con los equipos { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, { -brand-name-firefox } funciona sin importar qué está usando o dónde está. Asegúrese de que su sistema operativo esté actualizado para obtener la mejor experiencia.
 firefox-desktop-download-review-system-req = Verificar los requisitos del sistema
 firefox-desktop-download-all-your-devices = Ponga { -brand-name-firefox } en todos sus dispositivos
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-share-links = Compartir enlaces
+firefox-desktop-download-protect-your-privacy = Proteger la privacidad
+firefox-desktop-download-third-party-cookie = Bloqueo de cookies de terceros
+firefox-desktop-download-cryptominer-blocking = Bloqueo de criptominería
+firefox-desktop-download-private-browsing-mode = Modo de navegación privada
+firefox-desktop-download-individual-protections-report = Informe de protecciones individuales
+firefox-desktop-download-automatic-updates = Actualizaciones automáticas
+firefox-desktop-download-customize-your-browser = Personalizar el navegador
+firefox-desktop-download-themes = Temas
+firefox-desktop-download-dark-mode = Modo oscuro
+firefox-desktop-download-library-of-extensions = Biblioteca de extensiones
+firefox-desktop-download-extensions-for-every = Extensiones para todos los intereses.
+firefox-desktop-download-challenging-the-status = Desafiando al status quo desde 1998
+firefox-desktop-download-your-privacy-comes = La privacidad es lo primero
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-screenshots = Capturas de pantalla
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protección de rastreo aumentada (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Obtener { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Obtener { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
