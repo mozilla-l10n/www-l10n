@@ -35,6 +35,7 @@ firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 firefox-desktop-download-os-availability = OS jepurukuaáva
 firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembipuru
 firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
+firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevarã eheka ñanduti ipya’éva.
 firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
 firefox-desktop-download-for-everyone = { -brand-name-firefox } opavavépe g̃uarã
 firefox-desktop-download-review-system-req = Ehechajey apopyvusu jerurepy
