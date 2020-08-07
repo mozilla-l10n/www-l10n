@@ -8,6 +8,8 @@
 firefox-desktop-download-og-title = Download de snelste { -brand-name-firefox } ooit
 firefox-desktop-download-og-desc = Sneller pagina’s laden, minder geheugengebruik en boordevol functies, de nieuwe { -brand-name-firefox } is er.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-download-options = Downloadopties en andere talen
+firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } vergelijken met:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -20,12 +22,14 @@ firefox-desktop-download-blocks-social-trackers = Blokkeert sociale trackers
 firefox-desktop-download-os-availability = Beschikbaarheid op besturingssystemen
 firefox-desktop-download-in-browser-screenshot = Hulpmiddel voor schermafdrukken in de browser
 firefox-desktop-download-master-password = Hoofdwachtwoord
+firefox-desktop-download-see-your-report = Uw beschermingsrapport bekijken
 firefox-desktop-download-search-smarter = Zoek slimmer, sneller
 firefox-desktop-download-search-engine-options = Zoekmachine-opties
 firefox-desktop-download-bookmarks-manager = Bladwijzerbeheerder
 firefox-desktop-download-sync-across-devices = Synchroniseren tussen apparaten
 firefox-desktop-download-reader-mode = Lezermodus
 firefox-desktop-download-spell-check = Spellingscontrole
+firefox-desktop-download-pinned-tabs = Vastgemaakte tabbladen
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-share-links = Koppelingen delen
