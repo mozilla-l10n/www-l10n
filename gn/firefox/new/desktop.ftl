@@ -14,8 +14,12 @@ firefox-desktop-download-og-title = Emboguejy { -brand-name-firefox } ipya’ev�
 firefox-desktop-download-og-desc = Kuatiarogue myanyhẽ pya’eve, sa’ive oipuru mandu’arenda ha hembiapoiteve, kóva { -brand-name-firefox } pyahu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Ereko pe kundahára omo’ã añetéva pe ehayhuvéva
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Ndaipóri temiñemi purureko ivaikuaáva térã okẽ atukupegua ñemurãme g̃uarã. Ha’e kundahára ipya’e ha hekopotĩva.
 firefox-desktop-download-download-options = Ñemboguejy poravorã ha ambuekuéra ñe’ẽ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ñepytyvõ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
 firefox-desktop-download-how-firefox-compares = Mba’éicha emoñondivekuaa { -brand-name-firefox } ambue kundahára ndive
 firefox-desktop-download-how-we-compare = Mba’éicha ñañomoñondivekuaa ambue kundahára ndive
 firefox-desktop-download-compare-firefox-to = Emoñondive { -brand-name-firefox } ndive:
