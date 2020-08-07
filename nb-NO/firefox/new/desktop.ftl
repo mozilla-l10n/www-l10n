@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } bruke
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Gjør hva du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvåker</strong> deg ikke.
 firefox-desktop-download-how-firefox-compares = Hvordan { -brand-name-firefox } sammenlignes med andre nettlesere
+firefox-desktop-download-get-all-the-speed = Få hastighet og smarte verktøy uten å ofre personvernet. { -brand-name-firefox-browser } samler inn veldig lite data om deg - du trenger ikke en gang å oppgi e-postadressen din for å laste ned nettleseren. I motsetning til andre nettlesere, ikke har noen økonomisk interesse i å spore aktivitetene dine på nettet.
 firefox-desktop-download-how-we-compare = Hvordan vi sammenligner med andre nettlesere
 firefox-desktop-download-compare-firefox-to = Sammenlign { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -42,6 +43,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-available-in-over = Tilgjengelig på over 90 språk og kompatibel med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer uansett hva du bruker eller hvor du er. Forsikre deg om at operativsystemet ditt er oppdatert for den beste opplevelsen.
 firefox-desktop-download-review-system-req = Gjennomgå systemkravene
 firefox-desktop-download-all-your-devices = Leg til { -brand-name-firefox } på alle enhetene dine
+firefox-desktop-download-take-your-privacy = Ta personvernet ditt med deg overalt. { -brand-name-firefox-browsers } for { -brand-name-ios } og { -brand-name-android } har de samme sterke personverninnstillingene for å hindre sporere fra å spore aktivitetene dine på nettet, uansett hvor du er.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gjør <strong>alt</strong> med { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Søk smartere, raskere
