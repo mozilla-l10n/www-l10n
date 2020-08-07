@@ -18,12 +18,12 @@ firefox-desktop-download-get-the-browser = 选用会保护重要数据的浏览�
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快，且不会出卖您的浏览器。
 firefox-desktop-download-download-options = 下载其他平台与语言版本
-firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 用户支持
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser }用户支持
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = 上网无拘束。<br>{ -brand-name-firefox-browser }<strong>不会</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 与其他浏览器比较
 firefox-desktop-download-get-all-the-speed = 不必牺牲隐私，即可获得最佳速度和实用工具。{ -brand-name-firefox-browser } 只会收集您非常少的数据，甚至不用输入邮箱地址就能下载。在网上跟踪您对我们来说没有任何好处 — 这是我们与其他浏览器最大的不同。
-firefox-desktop-download-how-we-compare = 我们与其他浏览器的差别
+firefox-desktop-download-how-we-compare = 我们与其他浏览器的不同
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 与下列浏览器：
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -38,15 +38,15 @@ firefox-desktop-download-os-availability = 操作系统可用性
 firefox-desktop-download-in-browser-screenshot = 浏览器内置截图工具
 firefox-desktop-download-master-password = 主密码
 firefox-desktop-download-we-block-the-ad = 有我们拦截广告跟踪器，上网冲浪更畅快。
-firefox-desktop-download-ads-are-distracting = 广告使人分心，其中的跟踪器会监视您在网上的一举一动，并拖慢网页加载速度。{ -brand-name-firefox-browser } 会自动拦截网上大部分的跟踪器，这样您就大可不必深入研究哪些安全设置需要调整。
+firefox-desktop-download-ads-are-distracting = 广告使人分心，其中的跟踪器会监视您在网上的一举一动，并拖慢网页加载速度。{ -brand-name-firefox-browser }会自动拦截网上大部分的跟踪器，您大可不必深入研究哪些安全设置需要调整。
 firefox-desktop-download-see-your-report = 查看您的保护报告
 firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
 firefox-desktop-download-available-in-over = 无论您身在何处，使用哪种设备，{ -brand-name-firefox } 有超过 90 种语言版本，且兼容于 { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 三大平台。请确保您的操作系统已升级到最新版，以获得最佳使用体验。
 firefox-desktop-download-review-system-req = 确认系统配置要求
 firefox-desktop-download-all-your-devices = 将 { -brand-name-firefox } 安装到您所有的设备上
-firefox-desktop-download-take-your-privacy = 随时随地皆有最佳隐私保护。{ -brand-name-ios } 和 { -brand-name-android } 版 { -brand-name-firefox-browsers }与桌面版一样强大的隐私保护设置，不让跟踪器在网上窥视您的活动。
+firefox-desktop-download-take-your-privacy = 随时随地皆有最佳隐私保护。{ -brand-name-ios } 和 { -brand-name-android } 版 { -brand-name-firefox-browsers }有着与桌面版一样强大的隐私保护设置，不让跟踪器在网上窥视您的活动。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-it-all = { -brand-name-firefox } <strong>都能使用</strong>
+firefox-desktop-download-do-it-all = { -brand-name-firefox } <strong>特色纵览</strong>
 firefox-desktop-download-search-smarter = 搜索更智能、更快
 firefox-desktop-download-search-from-address = 从地址栏进行搜索
 firefox-desktop-download-search-engine-options = 搜索引擎选项
@@ -63,7 +63,7 @@ firefox-desktop-download-spell-check = 拼写检查
 firefox-desktop-download-pinned-tabs = 固定标签页
 firefox-desktop-download-stream-share-play = 串流、分享和播放
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = 阻止自动播放音视频
+firefox-desktop-download-block-autoplay-of = 阻止音视频自动播放
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = 画中画
 firefox-desktop-download-curated-content-on = 在新标签页中显示精选内容
