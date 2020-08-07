@@ -117,6 +117,9 @@ firefox-desktop-download-learn-about-the = Les mer om { -brand-name-firefox } fo
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Fra sikkerhet til nyheter til spill, finnes det et <a { $attrs }>tillegg for alle</a>. Legger til så mange du vil, til nettleseren fungerer som du vil.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Etter hvert  som internett vokser og endres, fortsetter { -brand-name-firefox } å fokusere på din rett til personvern  — vi kaller det <a { $attrs }>lovnad om private data</a>: Samle inn mindre. Oppbevar det sikkert. Ingen hemmeligheter. Dine data, din nettaktivitet og livet ditt på nettet er beskyttet med { -brand-name-firefox }.
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgjengelig på alle enhetene dine; ta med fanene, historikken og bokmerkene. Alt du trenger er en <a { $attrs }>{ -brand-name-firefox }-konto</a>.
 # Variables:
