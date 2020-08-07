@@ -75,3 +75,4 @@ firefox-desktop-download-just-download-the-browser = Simplemente descargar el na
 
 firefox-desktop-download-almost-there = ¡Casi listo!
 firefox-desktop-download-in-another-language = Descargar en otro idioma o para otro sistema operativo.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.
