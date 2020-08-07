@@ -60,14 +60,14 @@ firefox-desktop-download-autosuggest-urls = Sugestão automática de páginas
 firefox-desktop-download-sync-across-devices = Sincronização entre dispositivos
 firefox-desktop-download-reader-mode = Modo leitor
 firefox-desktop-download-spell-check = Correção ortográfica
-firefox-desktop-download-pinned-tabs = Abas fixas
+firefox-desktop-download-pinned-tabs = Poder fixar abas
 firefox-desktop-download-stream-share-play = Transmita, compartilhe e reproduza
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Bloqueio de reprodução automática de vídeo e áudio
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
-firefox-desktop-download-curated-content-on = Conteúdo selecionado na nova aba
-firefox-desktop-download-share-links = Compartilhar links
+firefox-desktop-download-curated-content-on = Conteúdo selecionado por especialistas na página de nova aba
+firefox-desktop-download-share-links = Compartilhamento de links
 firefox-desktop-download-protect-your-privacy = Proteja sua privacidade
 firefox-desktop-download-third-party-cookie = Bloqueio de cookies de terceiros
 firefox-desktop-download-fingerprinter-blocking = Bloqueio de fingerprinters (rastreadores de identidade digital)
@@ -85,7 +85,7 @@ firefox-desktop-download-themes = Temas
 firefox-desktop-download-dark-mode = Modo escuro
 firefox-desktop-download-library-of-extensions = Biblioteca de extensões
 firefox-desktop-download-adjust-search-bar = Ajustes na configuração da barra de pesquisa
-firefox-desktop-download-change-new-tab = Alteração na disposição de elementos na nova aba
+firefox-desktop-download-change-new-tab = Alteração na disposição de elementos na página de nova aba
 firefox-desktop-download-make-firefox-your = Deixe o <strong>{ -brand-name-firefox }</strong> do seu jeito
 firefox-desktop-download-extensions-for-every = Extensões para todos os interesses
 firefox-desktop-download-change-up-your = Altere a aparência
