@@ -34,6 +34,38 @@ firefox-desktop-download-search-smarter = Pytajśo wěcej inteligentnje a malsnj
 firefox-desktop-download-search-from-address = Pytanje z adresowego póla
 firefox-desktop-download-search-engine-options = Nastajenja pytnice
 firefox-desktop-download-smart-search-suggestions = Inteligentne pytańske naraźenja
+firefox-desktop-download-bookmark-history = Cytańske znamjenja, historija a wócynjone rejtariki we wuslědkach
+firefox-desktop-download-boost-your = Pówušćo swóju produktiwitu
+firefox-desktop-download-works-with-google = Funkcioněrujo z produktami wót { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Zatwarjony rěd za fota wobrazowki
+firefox-desktop-download-bookmarks-manager = Zastojnik cytańskich znamjenjow
+firefox-desktop-download-autosuggest-urls = URL awtomatiski naraźiś
+firefox-desktop-download-sync-across-devices = Synchronizacija mjazy rědami
+firefox-desktop-download-reader-mode = Cytański modus
+firefox-desktop-download-spell-check = Pšawopisna kontrola
+firefox-desktop-download-pinned-tabs = Pśipěte rejtariki
+firefox-desktop-download-stream-share-play = Tšugaś. źěliś a graś
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Awtomatiske wótgrawanje wideo a awdio blokěrowaś
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Wobraz-we-wobrazu
+firefox-desktop-download-curated-content-on = Wótwardowane wopśimjeśe na nowem rejtariku
+firefox-desktop-download-share-links = Wótkaze źěliś
+firefox-desktop-download-protect-your-privacy = Šćitajśo swóju priwatnosć
+firefox-desktop-download-third-party-cookie = Blokěrowanje cookiejow tśeśich póbitowarjow
+firefox-desktop-download-fingerprinter-blocking = Blokěrowanje palcowych wótśišćow
+firefox-desktop-download-cryptominer-blocking = Blokěrowanje kryptokopakow
+firefox-desktop-download-private-browsing-mode = Priwatny modus
+firefox-desktop-download-built-in-password = Zatwarjony zastojnik gronidłow
+firefox-desktop-download-clear-history = Historiju wulašowaś
+firefox-desktop-download-form-autofill = Awtomatiske wupołnjenje formularow
+firefox-desktop-download-automatic-updates = Awtomatiske aktualizacije
+firefox-desktop-download-customize-your-browser = Pśiměŕśo swój wobglědowak
+firefox-desktop-download-themes = Drastwy
+firefox-desktop-download-dark-mode = Śamny modus
+firefox-desktop-download-library-of-extensions = Biblioteka rozšyrjenjow
+firefox-desktop-download-adjust-search-bar = Nastajenja pytańskego póla pśiměriś
+firefox-desktop-download-change-new-tab = Wugótowanje nowego rejtarika změniś
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
