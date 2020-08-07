@@ -66,6 +66,28 @@ firefox-desktop-download-dark-mode = Śamny modus
 firefox-desktop-download-library-of-extensions = Biblioteka rozšyrjenjow
 firefox-desktop-download-adjust-search-bar = Nastajenja pytańskego póla pśiměriś
 firefox-desktop-download-change-new-tab = Wugótowanje nowego rejtarika změniś
+firefox-desktop-download-extensions-for-every = Rozšyrjenja za kuždy zajm
+firefox-desktop-download-change-up-your = Změńśo naglěd
+firefox-desktop-download-tweak-your-settings = Pśiměŕśo swóje nastajenja
+firefox-desktop-download-your-privacy-comes = Priwatnosć ma nejwušu prioritu
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synchronizěrujśo swóje rědy
+firefox-desktop-download-screenshots = Fota wobrazowki
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Pólěpšony slědowański šćit (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobglědowaku { -brand-name-firefox } dołojce
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Maśo južo wobglědowak. Wobstarajśo se něnto samo wěcej wót { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Wobglědujśo hackerow z { -brand-name-firefox-monitor }, šćitajśo gronidła z { -brand-name-firefox-lockwise } a wěcej.
+firefox-desktop-download-get-more-from-firefox = Wobstarajśo se wěcej wót { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Ześěgniśo jadnorje wobglědowak
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Pśisamem zwónoźone!
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Wašo ześěgnjenje dejało se awtomatiski zachopiś. Njefunkcioněrujo? <a id="{ $id }" href="{ $fallback_url }">Ześěgniśo znowego</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } oe wěcej ako wobglědowak.
