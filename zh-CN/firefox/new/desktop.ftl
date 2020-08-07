@@ -16,7 +16,7 @@ firefox-desktop-download-og-desc = 加载更快、内存占用更低、包含更
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = 选用会保护重要数据的浏览器
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快，且不会出卖您的浏览器。
+firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快、不会出卖您的浏览器。
 firefox-desktop-download-download-options = 下载其他平台与语言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }用户支持
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -97,7 +97,7 @@ firefox-desktop-download-backed-by-the = 由以人为本的<strong>非营利组�
 firefox-desktop-download-challenging-the-status = 从1998 年起就挑战现状
 firefox-desktop-download-your-privacy-comes = 将您的隐私放在首位
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = 保留所有您最喜欢的浏览器功能 — 还有更多新功能待您<strong>发现</strong>。
+firefox-desktop-download-keep-all-your = 保留所有您最喜欢的浏览器功能 — 还有更多新功能待您<strong>探索</strong>。
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = 所有您最喜爱的 { -brand-name-google } 工具（Gmail、文档）都能在 { -brand-name-firefox-browser }无痛使用。
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
