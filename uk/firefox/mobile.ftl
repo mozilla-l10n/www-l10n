@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Відкрийте для себе 
 firefox-mobile-sync-your-history-passwords = Синхронізуйте історію, паролі та закладки. Надсилайте вкладки між всіма своїми пристроями.
 firefox-mobile-android-only = Тільки для { -brand-name-android }
 firefox-mobile-make-android-your-own = Пристосуйте { -brand-name-android } для себе
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Налаштуйте свій мобільний браузер { -brand-name-firefox } за допомогою <a href="{ $url }">розширень</a> для блокування реклами, керування паролями, заборони { -brand-name-facebook } відстежувати вас та багато іншого.
+firefox-mobile-customize-your-firefox-mobile-truncated = Налаштуйте { -brand-name-firefox } за допомогою розширень.
 firefox-mobile-find-it-fast-with-a-smart = Знаходьте швидко за допомогою розумного рядка пошуку
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } передбачає ваші потреби за допомогою розумних пропозицій пошуку та швидкого доступу до найчастіше відвідуваних сайтів.
 firefox-mobile-the-privacy-you-deserve-the = Приватність, на яку ви заслуговуєте. Швидкість, яка вам необхідна.
