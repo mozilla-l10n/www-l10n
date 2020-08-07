@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = აღმოაჩინეთ პ�
 firefox-mobile-sync-your-history-passwords = დაასინქრონეთ თქვენი ისტორია, პაროლები და სანიშნები. გაგზავნეთ ჩანართები თქვენს ყველა მოწყობილობაზე.
 firefox-mobile-android-only = მხოლოდ { -brand-name-android }-ზე
 firefox-mobile-make-android-your-own = გახადეთ { -brand-name-android } თქვენებური
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = მოირგეთ { -brand-name-firefox }-ის მობილური ბრაუზერი <a href="{ $url }">გაფართოებებით</a> რეკლამების შესაზღუდად, პაროლების სამართავად, { -brand-name-facebook }-ის თვალთვალის ასარიდებლად და ა. შ.
+firefox-mobile-customize-your-firefox-mobile-truncated = მოირგეთ { -brand-name-firefox } მობილურზე გაფართოებებით.
 firefox-mobile-find-it-fast-with-a-smart = აასწრაფეთ გონიერი საძიებო ველით
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } წინასწარ გამოიცნობს თქვენს საჭიროებებს გონიერი საძიებოს შემოთავაზებებით და სწრაფად დაგაკავშირებთ საიტებს, რომელთაც ხშირად ნახულობთ.
 firefox-mobile-the-privacy-you-deserve-the = პირადულობა, რომელსაც იმსახურებთ. სიჩქარე, რომელიც გჭირდებათ.
