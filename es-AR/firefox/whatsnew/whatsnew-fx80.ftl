@@ -14,3 +14,5 @@ whatsnew80-main-intro = Movete de computadora a teléfono sin perderte nada. Obt
 whatsnew80-primary-cta-description = Ingresá tu correo electrónico o número de teléfono para obtener un enlace de descarga
 # content buckets below hero
 whatsnew80-password-fatigue = La fatiga de la contraseña es real
+whatsnew80-the-average-person = La persona promedio tiene 130 cuentas en línea. { -brand-name-firefox } para dispositivos móviles recuerda y almacena tus contraseñas de forma segura entre los dispositivos sincronizados, por lo que se puede iniciar sesión con un solo clic.
+whatsnew80-new-firefox-android = Nuevo { -brand-name-firefox } para { -brand-name-android }
