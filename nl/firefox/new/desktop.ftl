@@ -41,6 +41,7 @@ firefox-desktop-download-themes = Thema’s
 firefox-desktop-download-your-privacy-comes = Uw privacy staat voorop
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synchroniseer uw apparaten
+firefox-desktop-download-screenshots = Schermafbeeldingen
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Download { -brand-name-firefox-browser } voor <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Download { -brand-name-firefox-browser } voor <strong>{ -brand-name-ios }</strong>
@@ -53,6 +54,9 @@ firefox-desktop-download-just-download-the-browser = Download gewoon de browser
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Bijna klaar!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Voer nu</strong> het installatieprogramma uit dat zojuist is gedownload.
+firefox-desktop-download-in-another-language = Downloaden in een andere taal of voor een ander besturingssysteem.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = U gebruikt een onveilig, verouderd besturingssysteem dat <a href="{ $url }">niet meer door { -brand-name-firefox } wordt ondersteund</a>.
