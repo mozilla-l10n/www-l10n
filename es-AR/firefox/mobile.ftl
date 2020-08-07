@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Descubrí los productos que te mant
 firefox-mobile-sync-your-history-passwords = Sincronizá tu historial, contraseñas y marcadores. Enviá pestañas a través de todos tus dispositivos.
 firefox-mobile-android-only = Solo para { -brand-name-android }
 firefox-mobile-make-android-your-own = Hacé tuyo a { -brand-name-android }
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Personalizá tu navegador móvil { -brand-name-firefox } con <a href="{ $url }">extensiones</a> para bloquear anuncios, administrar contraseñas, impedir que { -brand-name-facebook } te rastree y mucho más.
+firefox-mobile-customize-your-firefox-mobile-truncated = Personalizá tu navegador móvil { -brand-name-firefox } con extensiones.
 firefox-mobile-find-it-fast-with-a-smart = Buscá rápidamente con la barra de búsqueda inteligente
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } anticipa tus necesidades con sugerencias de búsqueda inteligentes y acceso rápido a los sitios que más visitás.
 firefox-mobile-the-privacy-you-deserve-the = La privacidad que merecés. La velocidad que necesitás.
