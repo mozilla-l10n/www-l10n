@@ -7,6 +7,8 @@
 # html page title
 whatsnew80-page-title = What’s new with { -brand-name-firefox }
 
+whatsnew80-up-to-date-banner = Congrats! You’re using the latest version of Firefox.
+
 # Main title
 whatsnew80-main-title = Do just about everything, a little faster
 whatsnew80-main-intro = Move from computer to phone without missing a beat. Get { -brand-name-firefox } for mobile.
