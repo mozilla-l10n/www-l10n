@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Oppdag produkter som holder deg try
 firefox-mobile-sync-your-history-passwords = Synkroniser din historikk, passord og bokmerker. Send faner mellom alle enhetene dine.
 firefox-mobile-android-only = Kun { -brand-name-android }
 firefox-mobile-make-android-your-own = Gjør { -brand-name-android } til din egen
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Tilpass { -brand-name-firefox } mobilnettleseren din med <a href="{ $url }">utvidelser</a> for å blokkere annonser, administrere passord, hindre { -brand-name-facebook } i å spore deg og mer.
+firefox-mobile-customize-your-firefox-mobile-truncated = Tilpass { -brand-name-firefox }-mobilnettleseren din med utvidelser.
 firefox-mobile-find-it-fast-with-a-smart = Finn det fort med et smart søkefelt
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } forutser dine behov med smarte søkeforslag og hurtig tilgang til nettstedene du besøker mest.
 firefox-mobile-the-privacy-you-deserve-the = Personvernet du fortjener. Hastigheten du trenger.
