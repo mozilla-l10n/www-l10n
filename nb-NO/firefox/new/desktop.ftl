@@ -38,6 +38,7 @@ firefox-desktop-download-os-availability = OS-tilgjengelighet
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettleseren
 firefox-desktop-download-master-password = Hovedpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporere. Du utforsker internett raskere.
+firefox-desktop-download-ads-are-distracting = Annonser er irriterende og gjør at nettsidene laster tregere mens sporere sporer aktivitetene dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt de fleste av disse sporere automatisk, uten at du trenger å endre dine sikkerhetsinnstillingene dine.
 firefox-desktop-download-see-your-report = Se beskyttelsesrapporten din
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-available-in-over = Tilgjengelig på over 90 språk og kompatibel med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer uansett hva du bruker eller hvor du er. Forsikre deg om at operativsystemet ditt er oppdatert for den beste opplevelsen.
@@ -69,6 +70,7 @@ firefox-desktop-download-curated-content-on = Samlet innhold på ny fane-siden
 firefox-desktop-download-share-links = Del lenker
 firefox-desktop-download-protect-your-privacy = Beskytt ditt personvern
 firefox-desktop-download-third-party-cookie = Blokkering av tredjeparts-infokapsler
+firefox-desktop-download-fingerprinter-blocking = Blokkering av fingeravtrykksporere
 firefox-desktop-download-cryptominer-blocking = Blokkering av kryptoutvinnere
 firefox-desktop-download-private-browsing-mode = Privat nettlesingsmodus
 firefox-desktop-download-individual-protections-report = Individuell beskyttelsesrapport
@@ -116,6 +118,9 @@ firefox-desktop-download-learn-about-the = Les mer om { -brand-name-firefox } fo
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Fra sikkerhet til nyheter til spill, finnes det et <a { $attrs }>tillegg for alle</a>. Legger til så mange du vil, til nettleseren fungerer som du vil.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ble utviklet av <a { $attrs }>{ -brand-name-mozilla }</a> som et raskere, mer privat alternativ til nettlesere som { -brand-name-ie }, og nå { -brand-name-chrome }. I dag fortsetter vårt visjonære selskap og frivillighetssamfunn å legge personvernet ditt fremfor alt annet.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Etter hvert  som internett vokser og endres, fortsetter { -brand-name-firefox } å fokusere på din rett til personvern  — vi kaller det <a { $attrs }>lovnad om private data</a>: Samle inn mindre. Oppbevar det sikkert. Ingen hemmeligheter. Dine data, din nettaktivitet og livet ditt på nettet er beskyttet med { -brand-name-firefox }.
