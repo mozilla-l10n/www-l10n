@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
 # HTML page title
-compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-opera }: آپ کے لئے بہتر براؤزر کونسا ہے؟
+compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-ie }: آپ کے لئے بہتر براؤزر کونسا ہے؟
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 # "Facebook Messenger" is a brand name.

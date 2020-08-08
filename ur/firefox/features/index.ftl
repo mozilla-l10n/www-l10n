@@ -5,16 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = اپنی رازداری کی حفاظت کریں اور { -brand-name-firefox }کی خصوصیات کے ساتھ تیز برائوز کریں
 # Hero title
 features-index-firefox-features = { -brand-name-firefox }  خصوصیات
 features-index-see-all = تمام ایکسٹینشنز دیکھیں
 features-index-get-an-account = { -brand-name-firefox-account } حاصل کریں
+features-index-from-the-company = ایسی کمپنی جانب سے جو لوگوں کو منافع پر ترجیح دیتا ہنے
+features-index-mozilla-creates = { -brand-name-mozilla } ہرکسی کے لئے طاقتور ویب ٹیک تخلیق کرتا ہے
 features-index-see-what-makes-us-different = دیکھیں ہمیں کیا مختلف بناتا ہے
 features-index-by-non-profit-mozilla = غیر منافع بخش { -brand-name-mozilla } کی جانب سے
 features-index-keep-corporate-power = کارپوریٹ طاقت کو نظر میں رکھیں
 features-index-independent-browser = { -brand-name-firefox } واحد بڑا آزاد براؤزر ہے
 features-index-read-mozillas-mission = { -brand-name-mozilla } کا مشن پڑھیں
 features-index-choose-independence = آزادی چنیں
+features-index-opted-in-to-privacy-so-you = رازداری موڈ میں انتخاب کیا ہے، تاکہ آپ آزادانہ طور پر براؤز کرسکیں۔
 features-index-read-our-privacy-policy = ہماری کی رازداری پالیسی پڑھیں
 features-index-private-by-default = طے شدہ طور پر نجی
 features-index-enhanced-tracking = بہتر سراغ کاری تحفظ
