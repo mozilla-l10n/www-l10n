@@ -7,6 +7,8 @@
 
 # HTML page title
 whatsnew79-page-title = { -brand-name-firefox } کے  ساتھ نیا  کیا  ہے
+# Main title
+whatsnew79-main-title = ہمارے سمیت ہر کسی سے اپنے ڈیٹا کو مخفی رکھیں
 # Main CTA button
 whatsnew79-primary-cta = { -brand-name-firefox } کو طے شدہ بنائیں
 # Fallback CTA button, shown if Firefox is already a user's default browser

@@ -9,6 +9,7 @@
 features-independent-firefox-a-different = { -brand-name-firefox }، مختلف اوقات کے لئے ایک مختلف براؤزر ہے ۔ مفت براؤز کریں۔
 # HTML page description
 features-independent-browse-the-internet = انٹرنیٹ کو براؤز کریں کیوں کہ یہ… مفت ، محفوظ اور سب کے لئے قابل رسائی ہونا تھا۔ اپنی آن لائن آزادی کا اعلان کریں۔
+features-independent-firefox-rebel-with-a = { -brand-name-firefox }: کسی وجہ سے باغی
 features-independent-firefox-is-independent = { -brand-name-firefox } آزاد ہے اور غیر منافع بخش { -brand-name-mozilla } کا ایک حصہ ، جو آپ کے آن لائن حقوق کے لئے لڑتا ہے ، کارپوریٹ طاقتوں کی گرفت میں رکھتا ہے اور ،ہر جگہ اور ہروقت  انٹرنیٹ کو قابل رسائی بناتا ہے۔
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = کوئی تار منسلک نہیں

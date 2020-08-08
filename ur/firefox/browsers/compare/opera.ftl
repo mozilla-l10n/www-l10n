@@ -7,6 +7,8 @@
 
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-ie }: آپ کے لئے بہتر براؤزر کونسا ہے؟
+# HTML page description
+compare-opera-compare-opera-to-the-firefox = اپ کے لئے کونسا براؤزر بہتر ہے اسکو جانچنے کے لیے { -brand-name-opera } کا { -brand-name-firefox-browser } سے موازنہ کریں،
 # Main title
 compare-opera-comparing-firefox-browser = { -brand-name-firefox-browser } کا { -brand-name-opera } سے  موازنہ
 # Variables:
