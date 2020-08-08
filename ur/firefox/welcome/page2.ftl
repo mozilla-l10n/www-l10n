@@ -5,5 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/2/
 
+# HTML page title
+welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } خبریں، ویڈیوز، کہانیاں اور بہت کچھ محفوظ کریں
 welcome-page2-activate-pocket = { -brand-name-pocket } کو اہل کریں
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-save-content-from-everywhere = ہر جگہ سے مواد کو محفوظ کریں
+welcome-page2-grab-articles-videos-and-links = اپنے براؤزر ٹول بار میں { -brand-name-pocket } آئیکن پر کلک کرکے مضامین ، ویڈیوز اور کسی بھی ویب سائٹ کے لنکس پکڑیں۔
+welcome-page2-discover-new-stories = نئی کہانیاں دریافت کریں
+welcome-page2-why-am-i-seeing-this = میں یہ کیوں دیکھ رہا ہوں؟
