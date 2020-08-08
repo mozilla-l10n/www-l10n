@@ -10,3 +10,18 @@ whatsnew79-page-title = Што новага ў { -brand-name-firefox }
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Атрымаць { -brand-name-firefox }
 whatsnew79-secure-your-connection = Абараніце сваё злучэнне
+# CTA link
+whatsnew79-get-started = Пачаць
+# CTA link
+whatsnew79-see-your-report = Паглядзіце сваю справаздачу
+whatsnew79-update-your-firefox = Абнавіць свой браўзер { -brand-name-firefox }
+whatsnew79-download-the-firefox = Сцягнуць браўзер { -brand-name-firefox }
+# CTA link
+whatsnew79-read-more = Чытаць далей
+# CTA link
+whatsnew79-add-facebook-container = Дадаць { -brand-name-facebook-container }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Атрымаць { -brand-name-firefox } на свой тэлефон
+whatsnew79-scan-the-qr-code = Скануйце QR-код, каб пачаць
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = QR-код для сканавання каб атрымаць { -brand-name-firefox }

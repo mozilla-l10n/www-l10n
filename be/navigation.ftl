@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Сцягнуць { -brand-name-firefox }
-navigation-get-a-firefox-account = Атрымаць уліковы запіс Firefox
-navigation-firefox-browser-for-desktop = Настольны браўзер Firefox
+navigation-get-a-firefox-account = Стварыць { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } для камп'ютараў
 navigation-get-the-browser-that-respects = Атрымайце браўзер, які аўтаматычна паважае вашу прыватнасць. На { -brand-name-windows }, { -brand-name-mac } або { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Браўзер Firefox для мабільных
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } для мабільных
 navigation-take-speed-privacy-and = Вазьміце з сабой хуткасць, прыватнасць і спакой духу. На { -brand-name-android } і { -brand-name-ios }.
 navigation-download-for-ios = Сцягнуць для { -brand-name-ios }
 navigation-download-for-android = Сцягнуць для { -brand-name-android }
 navigation-ios-support = Падтрымка { -brand-name-ios }
 navigation-android-support = Падтрымка { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Браўзер Firefox для прадпрыемстваў
-navigation-strap-on-your-goggles = Надзеньце акуляры і ўвайдзіце ў захапляльнае сеціва з браўзерам Firefox для віртуальнай рэчаіснасці.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } для прадпрыемстваў
+navigation-strap-on-your-goggles = Надзеньце акуляры і ўвайдзіце ў захапляльнае сеціва з { -brand-name-firefox-browser } для віртуальнай рэчаіснасці.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Глядзіце відэа і аглядайце інтэрнэт на сваім { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Браўзеры { -brand-name-firefox } ставяць вашу прыватнасць на першае месца — цяпер і заўжды.
@@ -30,11 +30,11 @@ navigation-mozilla-careers = Кар'ера ў { -brand-name-mozilla }
 navigation-approach-your-career = Мэтанакіравана падыходзьце да сваёй кар'еры. Знайдзіце годную працу ў { -brand-name-mozilla }.
 navigation-close-firefox-menu = Закрыць меню { -brand-name-firefox }
 navigation-get-the-browser-that-gives = Атрымайце браўзер, які дае вам больш кантролю, на { -brand-name-windows }, { -brand-name-mac } або { -brand-name-linux }.
-navigation-take-firefox-and-firefox = Вазьміце { -brand-name-firefox } і { -brand-name-firefox-focus } з сабой. Для { -brand-name-android } і IOS.
+navigation-take-firefox-and-firefox = Вазьміце { -brand-name-firefox } і { -brand-name-firefox-focus } з сабой. Для { -brand-name-android } і { -brand-name-ios }.
 navigation-get-firefox = Атрымаць { -brand-name-firefox }
 navigation-get-firefox-focus = Атрымаць { -brand-name-firefox-focus }
 navigation-android-extensions = Пашырэнні для { -brand-name-android }
-navigation-your-firefox-account = Ваш уліковы запіс Firefox
+navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Атрымайце максімум ад выкарыстання { -brand-name-firefox }, на кожнай прыладзе.
 navigation-learn-how-to-customize = Даведайцеся, як уладкаваць працу { -brand-name-firefox }.
 navigation-experience-augmented = Даследуйце пашыраную і віртуальную рэальнасць з дапамогай { -brand-name-firefox }.

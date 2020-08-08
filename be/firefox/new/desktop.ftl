@@ -22,6 +22,7 @@ firefox-desktop-download-os-availability = Даступнасць для АС
 firefox-desktop-download-in-browser-screenshot = Убудаваны інструмент для здымкаў экрана
 firefox-desktop-download-master-password = Галоўны пароль
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
+firefox-desktop-download-search-engine-options = Налады пошукавых сістэм
 firefox-desktop-download-bookmarks-manager = Менеджар закладак
 firefox-desktop-download-sync-across-devices = Сінхранізацыя паміж прыладамі
 firefox-desktop-download-reader-mode = Рэжым чытання
@@ -49,6 +50,16 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-youve-already-got-the-browser = У вас ужо ёсць браўзер. Цяпер атрымайце яшчэ больш ад { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Сачыце за хакерамі з дапамогай { -brand-name-firefox-monitor }, абараніце паролі з { -brand-name-firefox-lockwise } і многае іншае.
 firefox-desktop-download-get-more-from-firefox = Атрымайце больш ад { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Проста сцягніце браўзер
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Амаль гатова!
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Вы выкарыстоўваеце неабароненую, састарэлую аперацыйную сістэму, якая <a href="{ $url }">больш не падтрымліваецца { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Ваша сцягванне пачнецца аўтаматычна. Не робіць? <a id="{ $id }" href="{ $fallback_url }">Паспрабуйце яшчэ раз</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - гэта больш, чым браўзер.
