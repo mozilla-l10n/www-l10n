@@ -158,4 +158,8 @@ firefox-desktop-download-in-another-language = Descargar en otro idioma o para o
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Estás usando un sistema operativo inseguro y desactualizado <a href="{ $url }">que ya no tiene soporte por parte de { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = La descarga debería comenzar automáticamente. ¿No funcionó? <a id="%(id)s" href="%(fallback_url)s">Probá descargarlo de nuevo</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.

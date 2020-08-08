@@ -15,4 +15,7 @@ whatsnew80-primary-cta-description = Ingresá tu correo electrónico o número d
 # content buckets below hero
 whatsnew80-password-fatigue = La fatiga de la contraseña es real
 whatsnew80-the-average-person = La persona promedio tiene 130 cuentas en línea. { -brand-name-firefox } para dispositivos móviles recuerda y almacena tus contraseñas de forma segura entre los dispositivos sincronizados, por lo que se puede iniciar sesión con un solo clic.
+whatsnew80-privacy-you-never = Privacidad en la que nunca tenés que pensar
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } para dispositivos móviles bloquea la mayoría de los rastreadores de publicidad en línea automáticamente, por lo que no es necesario profundizar en la configuración de seguridad.
 whatsnew80-new-firefox-android = Nuevo { -brand-name-firefox } para { -brand-name-android }
+whatsnew80-our-latest-version = Nuestra última versión de { -brand-name-firefox } presenta cargas de página ultrarrápidas y un nuevo diseño limpio que facilita hacer más cosas, más rápidamente.
