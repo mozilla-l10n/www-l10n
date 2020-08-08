@@ -107,3 +107,4 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Keni në përdorim n
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Shkarkimi juaj do të duhej të fillonte vetvetiu. S’ndodhi? <a id="{ $id }" href="{ $fallback_url }">Provoni sërish ta shkarkoni</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-i është më shumë se një shfletues.
