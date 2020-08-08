@@ -13,11 +13,18 @@ whatsnew79-secure-your-connection = اپنا رابطہ محفوظ کریں
 # CTA link
 whatsnew79-get-started = شروع کریں
 whatsnew79-get-more-control-over = ٹریکرز پر مزید کنٹرول حاصل کریں
+# CTA link
+whatsnew79-see-your-report = اپنی رپورٹ دیکھیں
 whatsnew79-update-your-firefox = اپنے { -brand-name-firefox } براؤزر کو اپ ڈیٹ کریں
 whatsnew79-download-the-firefox = { -brand-name-firefox } براؤزر ڈاؤن لوڈ کریں
 whatsnew79-read-our-privacy-promise = ہماری رازداری کا وعدہ پڑھیں
 # CTA link
 whatsnew79-read-more = مزید پڑھیں
+whatsnew79-keep-facebook-contained = { -brand-name-facebook } کو محصور رکھیں
 # CTA link
 whatsnew79-add-facebook-container = { -brand-name-facebook-container }  شامل کریں
+# Modal title
+whatsnew79-get-firefox-on-your-phone = اپنے فون پر { -brand-name-firefox } حاصل کریں
 whatsnew79-scan-the-qr-code = شروع کرنے کیلئے QR کوڈ اسکین کریں
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = { -brand-name-firefox } کو اسکین کرنے کے لئے QR کوڈ

@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
 
+nightly-whatsnew-your-firefox-nightly = آپ کے  { -brand-name-firefox-nightly }  کی  تازہکاری کر دی گئی ہے۔
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-go-community = برادری چلیں!
