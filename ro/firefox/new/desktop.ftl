@@ -20,6 +20,8 @@ firefox-desktop-download-browser-support = Asistență { -brand-name-firefox-bro
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Faci ce faci online. <br> { -brand-name-firefox-browser } <strong>nu</strong> te urmărește.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } comparat cu alte browsere
+firefox-desktop-download-get-all-the-speed = Obține toată viteza și instrumentele fără nicio invazie a vieții private. { -brand-name-firefox-browser } colectează atât de puține date despre tine (nici măcar nu avem nevoie de adresa ta de e-mail pentru a-l descărca), pentru că, spre deosebire de alte browsere, nu avem nicio miză financiară să te urmărim pe web.
+firefox-desktop-download-how-we-compare = Cum ne comparăm cu alte browsere
 firefox-desktop-download-compare-firefox-to = Compară { -brand-name-firefox }{ -brand-name-firefox } cu:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
