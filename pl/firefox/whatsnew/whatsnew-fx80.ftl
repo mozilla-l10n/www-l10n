@@ -9,7 +9,7 @@
 whatsnew80-page-title = Co nowego w { -brand-name-firefox(case: "loc") }
 whatsnew80-up-to-date-banner = Gratulacje! Używasz najnowszej wersji { -brand-name-firefox(case: "gen") }.
 # Main title
-whatsnew80-main-title = Rób co tylko chcesz trochę szybciej
+whatsnew80-main-title = Wszystko co chcesz, ale nieco szybciej
 whatsnew80-main-intro = Przełączaj się z komputera na telefon bez mrugnięcia okiem. Pobierz { -brand-name-firefox(case: "acc") } na telefon.
 whatsnew80-primary-cta-description = Wpisz adres e-mail lub numer telefonu, aby otrzymać odnośnik do pobrania
 # content buckets below hero
