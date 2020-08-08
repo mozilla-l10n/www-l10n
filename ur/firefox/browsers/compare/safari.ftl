@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-safari }: آپ کے لئے بہتر براؤزر کونسا ہے؟
+# Main title.
+compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser } کا { -brand-name-apple }{ -brand-name-safari } کےساتھ موازنہ
