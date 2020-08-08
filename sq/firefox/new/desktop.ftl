@@ -48,6 +48,62 @@ firefox-desktop-download-reader-mode = Mënyra Lexues
 firefox-desktop-download-spell-check = Kontroll drejtshkrimi
 firefox-desktop-download-pinned-tabs = Skeda të Fiksuara
 firefox-desktop-download-stream-share-play = Transmetoni, ndani me të tjerë dhe luani
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Bllokoni Vetëluajtje videosh & audio
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-share-links = Ndani lidhje me të tjerët
+firefox-desktop-download-protect-your-privacy = Mbroni privatësinë tuaj
+firefox-desktop-download-third-party-cookie = Bllokim Cookie-sh Palësh të Treta
+firefox-desktop-download-fingerprinter-blocking = Bllokim Krijuesish Shenjash Gishtash
+firefox-desktop-download-cryptominer-blocking = Bllokim Nxjerrësish Kriptomonedhash
+firefox-desktop-download-private-browsing-mode = Mënyra Shfletim Privat
+firefox-desktop-download-individual-protections-report = Raport individual mbrojtjesh
+firefox-desktop-download-secure-your-personal = Siguroni të dhënat tuaja personale
+firefox-desktop-download-clear-history = Spastroni historikun
+firefox-desktop-download-form-autofill = Vetëplotësim formularësh
+firefox-desktop-download-automatic-updates = Përditësime të vetvetishme
+firefox-desktop-download-customize-your-browser = Përshtateni shfletuesin tuaj
+firefox-desktop-download-themes = Tema
+firefox-desktop-download-dark-mode = Mënyra e errët
+firefox-desktop-download-library-of-extensions = Librari zgjerimesh
+firefox-desktop-download-adjust-search-bar = Përshtatni rregullime shtylle kërkimesh
+firefox-desktop-download-change-new-tab = Ndryshoni skemë skede të re
+firefox-desktop-download-make-firefox-your = Bëjeni <strong>{ -brand-name-firefox }</strong>-in tuaj
+firefox-desktop-download-extensions-for-every = Zgjerime për çdo interes
+firefox-desktop-download-change-up-your = Ndryshoni pamjen tuaj
+firefox-desktop-download-tweak-your-settings = Përimtoni rregullimet tuaja
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Duke patur pas <strong>entin jofitimprurës</strong> që vë njerëzit mbi gjithçka
+firefox-desktop-download-challenging-the-status = Duke sfiduar status quo-në që prej 1998-s
+firefox-desktop-download-your-privacy-comes = E para është privatësia juaj
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Njëkohësoni pajisjet tuaja
+firefox-desktop-download-screenshots = Foto ekrani
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimi (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Merrni { -brand-name-firefox-browser }-in për <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Merrni { -brand-name-firefox-browser }-in për <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Thuajse arritët!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Tani përfundoni <strong>instalimin</strong> e { -brand-name-firefox }-it.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Tani <strong>vini në punë</strong> instaluesin që sapo shkarkuat.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Tani <strong>hapni</strong> kartelën që sapo shkarkuat.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Keni vështirësi? <a { $attrs }>Merrni ndihmë për instalimin tuaj</a>.
+firefox-desktop-download-in-another-language = Shkarkojeni në një gjuhë tjetër ose për një tjetër sistem operativ.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Keni në përdorim një sistem operativ jo të sigurt, të vjetruar, <a href="{ $url }">që s’mbulohet më nga { -brand-name-firefox }-i</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Shkarkimi juaj do të duhej të fillonte vetvetiu. S’ndodhi? <a id="{ $id }" href="{ $fallback_url }">Provoni sërish ta shkarkoni</a>.
