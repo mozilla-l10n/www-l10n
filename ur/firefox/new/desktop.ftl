@@ -23,18 +23,26 @@ firefox-desktop-download-in-browser-screenshot = براؤزر میں اسکری�
 firefox-desktop-download-master-password = ماسٹر پاس ورڈ
 firefox-desktop-download-review-system-req = نظام کے تقاضوں کا جائزہ لیں
 firefox-desktop-download-search-engine-options = تلاش انجن کے اختیارات
+firefox-desktop-download-smart-search-suggestions = ہوشیار تلاش تجاویز
 firefox-desktop-download-boost-your = اپنی پیداوری صلاحیت  کو فروغ دیں
 firefox-desktop-download-spell-check = تلفظ کی جانچ پڑتال
 firefox-desktop-download-private-browsing-mode = نجی براوزنگ موڈ
 firefox-desktop-download-secure-your-personal = اپنی ذاتی معلومات کو محفوظ بناییں
+firefox-desktop-download-clear-history = سابقات صاف کریں
+firefox-desktop-download-automatic-updates = خودکار تازہ کاریاں
+firefox-desktop-download-customize-your-browser = اپنے براؤزر کی تخصیص کریں
 firefox-desktop-download-themes = تھیمز
+firefox-desktop-download-library-of-extensions = یکسٹینشنز کی لائبریری
+firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> کو اپنا بنانا
 firefox-desktop-download-your-privacy-comes = آپ کی رازداری پہلے آتی ہے
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = اپنے آلات سنک کریں
 firefox-desktop-download-screenshots = اسکرین شاٹس
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } سے مزید حاصل کریں
 firefox-desktop-download-just-download-the-browser = بس براؤزر ڈاؤن لوڈ کریں
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = تقریبا وہاں!
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
