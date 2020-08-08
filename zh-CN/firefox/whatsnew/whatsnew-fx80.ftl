@@ -8,6 +8,8 @@
 # html page title
 whatsnew80-page-title = { -brand-name-firefox } 的新变化
 whatsnew80-up-to-date-banner = 恭喜！您目前使用的是最新版本的 { -brand-name-firefox }。
+# Main title
+whatsnew80-main-title = 前所未有的快
 whatsnew80-main-intro = 从桌面设备到手机，体验亦能无缝衔接。下载移动版 { -brand-name-firefox }。
 whatsnew80-primary-cta-description = 请输入您的邮箱地址或手机号码，获取下载链接
 # content buckets below hero
@@ -16,3 +18,4 @@ whatsnew80-the-average-person = 每个人平均拥有 130 个网络账户。移�
 whatsnew80-privacy-you-never = 全自动化的隐私
 whatsnew80-firefox-for-mobile = { -brand-name-firefox } 移动版会自动拦截大多数在线广告跟踪器，您大可不必去深入研究安全设置。
 whatsnew80-new-firefox-android = 新的 { -brand-name-android } 版 { -brand-name-firefox }
+whatsnew80-our-latest-version = 我们的最新版 { -brand-name-firefox } 有着飞快的页面加载速度，全新设计的交互界面，助您事半功倍。
