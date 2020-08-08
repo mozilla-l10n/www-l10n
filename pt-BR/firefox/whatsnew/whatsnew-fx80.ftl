@@ -16,3 +16,6 @@ whatsnew80-primary-cta-description = Digite seu e-mail ou número de celular par
 whatsnew80-password-fatigue = Senhas envelhecem
 whatsnew80-the-average-person = As pessoas têm em média 130 contas online. O { -brand-name-firefox } de celular memoriza e armazena suas senhas com segurança em dispositivos sincronizados, assim você pode acessar essas contas com apenas um clique.
 whatsnew80-privacy-you-never = Privacidade você nunca tem que ponderar
+whatsnew80-firefox-for-mobile = O { -brand-name-firefox } de celular bloqueia automaticamente a maioria dos rastreadores de anúncios online, então não precisa se aprofundar em suas configurações de segurança.
+whatsnew80-new-firefox-android = Novo { -brand-name-firefox } para { -brand-name-android }
+whatsnew80-our-latest-version = Nossa versão mais recente do { -brand-name-firefox } tem como característica carregamento de páginas extremamente rápido e um novo design limpo que facilita fazer mais coisas com mais rapidez.
