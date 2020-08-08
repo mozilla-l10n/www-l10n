@@ -18,3 +18,4 @@ whatsnew80-the-average-person = Přerězna wosoba ma 130 kontow online. { -brand
 whatsnew80-privacy-you-never = Priwatnosć, wo kotrejž njetrjebaće rozmyslować
 whatsnew80-firefox-for-mobile = { -brand-name-firefox } za mobilne gratynajwjace wabjenskich přesćěhowakow online blokuje, zo njebyšće trjebał swoje wěstotne nastajenja změnić.
 whatsnew80-new-firefox-android = Nowy { -brand-name-firefox } za { -brand-name-android }
+whatsnew80-our-latest-version = Naša najnowša wersija { -brand-name-firefox } błyskospěšne začitanje stronow a čisty nowy design skići, kotryž wam zmóžnja, wjace wěcow spěšnišo činił.
