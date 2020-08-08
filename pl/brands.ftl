@@ -138,6 +138,39 @@
                 [lower] przeglądarce Firefox
             }
     }
+-brand-name-firefox-browsers =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Przeglądarki Firefox
+                [lower] przeglądarki Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Przeglądarek Firefox
+                [lower] przeglądarek Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Przeglądarkom Firefox
+                [lower] przeglądarkom Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Przeglądarki Firefox
+                [lower] przeglądarki Firefox
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Przeglądarkami Firefox
+                [lower] przeglądarkami Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Przeglądarkach Firefox
+                [lower] przeglądarkach Firefox
+            }
+    }
 -brand-name-firefox-developer-edition =
     { $case ->
        *[nom] Firefox Developer Edition
@@ -574,6 +607,7 @@
         [loc] Linuksie
     }
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
