@@ -57,6 +57,13 @@ firefox-privacy-hub-meet-four-of-the-most-common = Iată care sunt patru cele ma
 firefox-privacy-hub-always-in-your-control = Tu deții întotdeauna controlul
 firefox-privacy-hub-want-to-customize-what = Vrei să personalizezi ce anume vine blocat? Setările sunt la un clic distanță.
 firefox-privacy-hub-protection-beyond-tracking = Proecție dincolo de urmărire
+firefox-privacy-hub-if-you-have-a-firefox-account = Dacă ai un { -brand-name-firefox-account }, poți vedea și cum te ajutăm să îți protejezi informațiile personale și parolele.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Peste { $trackers } de elemente de urmărire blocate în fiecare zi pentru utilizatorii { -brand-name-firefox } la nivel mondial
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-check-for-breaches = Caută breșe de date
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Citește <a href="{ $url }">Notificarea privind confidențialitatea</a> pentru produsele noastre

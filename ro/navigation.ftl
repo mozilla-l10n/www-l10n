@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descarcă { -brand-name-firefox }
-navigation-get-a-firefox-account = Obține un { -brand-name-firefox-account }
+navigation-get-a-firefox-account = Creează-ți un { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pentru calculator
 navigation-get-the-browser-that-respects = Obține browserul care îți respectă intimitatea în mod automat. Pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pentru dispozitive mobile
