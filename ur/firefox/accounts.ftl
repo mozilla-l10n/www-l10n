@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-accounts-there-is-a-way-to = آپ کی رازداری کو بچانے کا ایک طریقہ ہے۔ { -brand-name-firefox } میں شامل ہوں۔
+# Old HTML page title
+firefox-accounts-get-a-firefox-account = ایک { -brand-name-firefox-account } حاصل کریں - اپنے ڈیٹا کو نجی، محفوظ اور سنک رکھیں
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = ایسی صنعت کے خلاف اپنا موقف اپنائیں جو تیسرے فریقوں کو آپ کا ڈیٹا بیچ رہی ہو۔ آپ کے لئے لڑنے والی ٹکنالوجی کے ساتھ ہوشیار اور محفوظ آن لائن رہیں۔
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.

@@ -8,7 +8,7 @@
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook } کنٹینر برائے | جن ویبسائٹس کااپنی دورہ شدہ ویب سائٹس کو { -brand-name-facebook }  کو دیکھنے روکیں۔
 facebook-container-millions-of-people-around = لاکھوں لوگ دنیا بھر میں { -brand-name-firefox }  ویب برائوزر برائے { -brand-name-android }،{ -brand-name-ios } اور ڈیسک ٹاپ کمپیوٹر پر بھروسہ کرتے ہیں۔تیز، نجی۔ ابھی ڈائونلوڈ کریں!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }۔ کوئی پریشانی۔ اپنی بقیہ زندگی کو اپنے تک رکھیں۔
-facebook-container-get-the-facebook-container = Facebook کنٹینر کی ایکسٹینشن حاصل کریں
+facebook-container-get-the-facebook-container = { -brand-name-facebook-container }کی ایکسٹینشن حاصل کریں
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈائونلوڈ کریں اور { -brand-name-facebook-container }  ایکسٹینشن حاصل کریں
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container }ایکسٹینشن موبائل آلات پر دستیاب نہیں ہے۔
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
