@@ -16,6 +16,7 @@ firefox-privacy-our-products = ہماری مصنوعات
 firefox-privacy-hub-thats-why-everything-we-make = یہی وجہ ہے کہ ہم جو کچھ بھی کرتے اور کرتے ہیں وہ ہمارے ذاتی ڈیٹا کے وعدے کا احترام کرتا ہے
 firefox-privacy-hub-take-less = کم لیں
 firefox-privacy-hub-we-make-a-point-of-knowing = ہم آپ کے بارے میں کم جاننے کا ایک نقطہ بناتے ہیں
+firefox-privacy-hub-all-tech-companies-collect = تمام ٹیک کمپنیاں اپنی مصنوعات کو بہتر بنانے کے لئے ڈیٹا اکٹھا کرتی ہیں۔ لیکن اس میں آپ کی ذاتی معلومات کو زیادہ شامل کرنے کی ضرورت نہیں ہے۔ ہم صرف ان اعداد و شمار کو چاہتے ہیں جو وہ ڈیٹا ہے جو آخر میں آپ کی خدمت کرتا ہے۔ ہم خود سے پوچھتے ہیں: کیا واقعتا ہمیں اس کی ضرورت ہے؟ ہمیں اس کی کیا ضرورت ہے؟ اور ہم اسے کب حذف کرسکتے ہیں؟
 firefox-privacy-hub-keep-it-safe = اسے محفوظ رکھیں
 firefox-privacy-hub-we-do-the-hard-work-to-protect = ہم آپ کی ذاتی معلومات کی حفاظت کے لئے سخت محنت کرتے ہیں
 firefox-privacy-hub-no-secrets = کوئی راز نہیں

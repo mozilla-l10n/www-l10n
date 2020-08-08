@@ -10,6 +10,7 @@ firefox-home-the-browser-is-just = براؤزر تو صرف ایک  شروعات
 firefox-home-meet-our-family-of = ہماری مصنوعات کے خاندان سے ملیں
 firefox-home-get-trackers-off = 2،000+ ٹریکروں کو اپنی تقب سے دور کریں - بشمول { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = جانیے کہ جب ہیکرز نے کب حملہ کیا ہے - اور ایک قدم آگے رہیں
+firefox-home-start-getting-breach = خلاف ورزی کی اطلاعات حاصل کرنا شروع کریں
 firefox-home-keep-your-passwords = اپنے پاس ورڈز کو تمام  آلات پر محفوظ رکھیں
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise }کے بارے میں مزید سیکھیں
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
