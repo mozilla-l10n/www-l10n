@@ -17,8 +17,11 @@ firefox-privacy-privacy = Confidențialitate
 firefox-privacy-our-promise = Promisiunea noastră
 # Sub navigation link
 firefox-privacy-our-products = Produsele noastre
+firefox-privacy-hub-you-should-be-able-to-decide = Ar trebui să poți decide cine îți vede informațiile personale. Nu numai dintre prieteni, ci toate agențiile de publicitate și firmele de pe Internet — inclusiv noi.
+firefox-privacy-hub-thats-why-everything-we-make = De aceea, tot ce facem și producem ne onorează promisiunea de protejare a datelor personale
 firefox-privacy-hub-take-less = Mai puține date colectate
 firefox-privacy-hub-we-make-a-point-of-knowing = Chiar insistăm să știm mai puține despre tine
+firefox-privacy-hub-all-tech-companies-collect = Toate firmele tehnologice colectează date pentru a-și îmbunătăți produsele. Dar nu e nevoie să se includă atât de multe dintre datele tale personale. Singurele date pe care le vrem sunt date care până la urmă îți folosesc ție. Ne întrebăm: Chiar ne trebuie? Pentru ce? Și când le putem șterge?
 firefox-privacy-hub-keep-it-safe = Păstrate în siguranță
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Noi muncim din greu ca să îți protejăm datele personale
 firefox-privacy-hub-data-security-is-complicated = Securitatea datelor e complicată — sau cel puțin așa ar trebui să fie. De aceea luăm măsurile necesare pentru a clasifica datele pe care le avem, menținem reguli pentru modul de stocare și protejare a fiecărui tip și nu ne oprim niciodată din reiterarea proceselor noastre. Facem din confidențialitatea ta prioritatea noastră. Investim în ea. Ne dedicăm ei. Chiar învățăm și alte companii cum să o facă.
@@ -34,6 +37,26 @@ firefox-privacy-hub-why-trust-firefox = De ce să ai încredere în { -brand-nam
 firefox-privacy-hub-because-we-put-people-first = Pentru că noi punem oamenii pe primul loc. De fapt, suntem susținuți de o <a href="{ $foundation }">organizație nonprofit</a>. Din prima zi, misiunea noastră a fost să protejăm Internetul și pe toți care îl accesează.
 firefox-privacy-hub-learn-more-about-our-mission = Află mai multe despre misiunea noastră.
 firefox-privacy-hub-your-privacy-by-the-product = Confidențialitatea ta, după produse
+firefox-privacy-hub-firefox-products-work-differently = Produsele { -brand-name-firefox } funcționează diferit — pentru că sunt concepute să îți protejeze confidențialitatea mai întâi.
+firefox-privacy-hub-learn-about-our-products = Află despre produsele noastre
+firefox-privacy-hub-firefox-privacy-by-the = Confidențialitatea { -brand-name-firefox }, după produse
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } îți protejează confidențialitatea în fiecare produs.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>îți protejează</strong> confidențialitatea în fiecare produs
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Peste 2.000+ de elemente de urmărire blocate — automat
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Urmărirea a devenit o epidemie online: firmele urmăresc orice mișcare, clic și cumpărătură, colectează date pentru a prezice și influența ce vei face în continuare. Considerăm că este o intruziune crasă în viața privată. De aceea, browserele { -brand-name-firefox } pentru calculator și dispozitive mobile sunt prevăzute implicit cu protecție îmbunătățită împotriva urmăririi.
+firefox-privacy-hub-if-you-want-to-see-what = Dacă vrei să vezi ce blochează { -brand-name-firefox } pentru tine, intră pe această pagină din browserul { -brand-name-firefox } pentru calculator.
+firefox-privacy-hub-see-what-firefox-has-blocked = Vezi ce a blocat { -brand-name-firefox } pentru tine
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Obține protecția îmbunătățită împotriva urmăririi
+firefox-privacy-hub-download-the-firefox-browser = Descarcă browserul { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Actualizează-ți browserul { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Invizibil pentru elementele de urmărire principale
+firefox-privacy-hub-meet-four-of-the-most-common = Iată care sunt patru cele mai frecvente categorii de elemente de urmărire — care nu vor da nasul cu tine.
+firefox-privacy-hub-always-in-your-control = Tu deții întotdeauna controlul
+firefox-privacy-hub-want-to-customize-what = Vrei să personalizezi ce anume vine blocat? Setările sunt la un clic distanță.
+firefox-privacy-hub-protection-beyond-tracking = Proecție dincolo de urmărire
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Citește <a href="{ $url }">Notificarea privind confidențialitatea</a> pentru produsele noastre
