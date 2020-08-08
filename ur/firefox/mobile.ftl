@@ -17,6 +17,7 @@ firefox-mobile-stop-companies-from-following = کمپنیوں کو اپنی پی
 firefox-mobile-discover-products-that-keep = ایسی مصنوعات دریافت کریں جو آپ کو محفوظ رکھیں
 firefox-mobile-android-only = صرف { -brand-name-android } کے لیئے
 firefox-mobile-make-android-your-own = { -brand-name-android } کو اپنا بنائیں
+firefox-mobile-customize-your-firefox-mobile-truncated = ایکسٹینشنز کے ساتھ اپنے { -brand-name-firefox } موبائل براؤزر کو مخصوص بنائیں۔
 firefox-mobile-find-it-fast-with-a-smart = ہوشیار تلاش بار کے ذریعہ اسے تیزی سے تلاش کریں
 firefox-mobile-the-privacy-you-deserve-the = رازداری جو آپ مستحق ہیں۔ رفتار جس  کی آپ کو ضرورت ہے۔
 firefox-mobile-get-firefox-for-mobile = موبائل کے لیے { -brand-name-firefox } حاصل کریں

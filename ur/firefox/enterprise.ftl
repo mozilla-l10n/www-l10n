@@ -9,6 +9,7 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = جائزہ
 firefox-enterprise-downloads = ڈاؤن لوڈز
 firefox-enterprise-get-firefox-for-your-enterprise = اپنے انٹرپرائز کے لئے { -brand-name-firefox } حاصل کریں
+firefox-enterprise-deploy-when-and-how-you-want = جب اور جیسے چاہیں تعینات کریں
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ڈاؤن لوڈز
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 بٹ
 firefox-enterprise-macos = { -brand-name-mac }
