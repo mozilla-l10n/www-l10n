@@ -11,6 +11,8 @@ firefox-accounts-there-is-a-way-to = آپ کی رازداری کو بچانے ک
 firefox-accounts-get-a-firefox-account = ایک { -brand-name-firefox-account } حاصل کریں - اپنے ڈیٹا کو نجی، محفوظ اور سنک رکھیں
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = ایسی صنعت کے خلاف اپنا موقف اپنائیں جو تیسرے فریقوں کو آپ کا ڈیٹا بیچ رہی ہو۔ آپ کے لئے لڑنے والی ٹکنالوجی کے ساتھ ہوشیار اور محفوظ آن لائن رہیں۔
+# Old HTML page description
+firefox-accounts-securely-sync-your = اپنے پاسورڈز، بک مارکس اور ٹیبز محفوظ طریقے سے اپنے تمام آلات میںسنک کریں۔ ابھی { -brand-name-firefox-account }حاصل کریں. اب – ایک لاگ ان – طاقت اور رازداری ہر جگا.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = آپ کی رازداری کو بچانے کا ایک طریقہ ہے۔ <span> { -brand-name-firefox } میں شامل ہوں۔ </ span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
