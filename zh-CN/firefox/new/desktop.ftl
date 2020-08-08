@@ -97,7 +97,7 @@ firefox-desktop-download-backed-by-the = 由以人为本的<strong>非营利组�
 firefox-desktop-download-challenging-the-status = 从1998 年起就挑战现状
 firefox-desktop-download-your-privacy-comes = 将您的隐私放在首位
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = 保留所有您最喜欢的浏览器功能 — 还有更多新功能待您<strong>探索</strong>。
+firefox-desktop-download-keep-all-your = 您熟悉的浏览器功能一个没少 — 还有更多功能待您<strong>探索</strong>。
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = 所有您最喜爱的 { -brand-name-google } 工具（Gmail、文档）都能在 { -brand-name-firefox-browser }无痛使用。
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
