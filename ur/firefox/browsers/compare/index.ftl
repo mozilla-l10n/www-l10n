@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = براہ راست مقابلے میں بہترین سات براؤزر
 compare-index-six-of-the-best-browsers-fallback = براہ راست مقابلے میں بہترین چھ براؤزر
 # Sub-headline
 compare-index-privacy-utility-portability = رازداری افادیت پورٹیبلٹی۔
+# HTML page description
+compare-index-a-great-internet-browser-should = ایک عمدہ انٹرنیٹ براؤزر میں آپ کی مطلوبہ فعالیت ، آلات کے ،مابین قابل نقل و حرکت ، اور رازداری جس کے آپ مستحق ہیں ہونی چاہئے۔
 compare-index-which-browser-is-best-at-keeping = کون سا براؤزر چیزوں کو خفیہ رکھنے میں بہتر ہے؟
 compare-index-what-you-do-online-literally = آپ آن لائن جو کرتے ہیں وہ کسی اور کا کام نہیں ہونا چاہئے۔
 compare-index-another-browser-feature-fallback = ایک اور براؤزر کی خصوصیت جس کو دی جانی چاہئے وہ ہے ویب سائٹوں اور کمپنیوں کو آپ کے براؤزنگ اور خریداری کے ڈیٹا سے ٹریکنگ روکنے کی صلاحیت - یہاں تک کہ عام براؤزنگ کے موڈ میں بھی۔ لیکن حقیقت میں ایسا نہیں ہے: در حقیقت ، صرف براؤزرز جو تیسرے فریق سے ٹریکنگ کوکیز کو طے شدہ طور پر بلاک کرتے ہیں وہ { -brand-name-firefox } اور { -brand-name-safari }۔ہیں
