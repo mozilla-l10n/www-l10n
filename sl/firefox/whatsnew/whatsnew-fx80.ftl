@@ -8,3 +8,4 @@
 # html page title
 whatsnew80-page-title = Kaj je novega v { -brand-name-firefox }u
 whatsnew80-up-to-date-banner = Čestitke, uporabljate najnovejšo različico { -brand-name-firefox }a.
+whatsnew80-new-firefox-android = Novi { -brand-name-firefox } za { -brand-name-android }
