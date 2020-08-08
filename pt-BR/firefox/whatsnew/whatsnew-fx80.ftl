@@ -15,3 +15,4 @@ whatsnew80-primary-cta-description = Digite seu e-mail ou número de celular par
 # content buckets below hero
 whatsnew80-password-fatigue = Senhas envelhecem
 whatsnew80-the-average-person = As pessoas têm em média 130 contas online. O { -brand-name-firefox } de celular memoriza e armazena suas senhas com segurança em dispositivos sincronizados, assim você pode acessar essas contas com apenas um clique.
+whatsnew80-privacy-you-never = Privacidade você nunca tem que ponderar
