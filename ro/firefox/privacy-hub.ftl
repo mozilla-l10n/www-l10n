@@ -21,8 +21,18 @@ firefox-privacy-hub-take-less = Mai puține date colectate
 firefox-privacy-hub-we-make-a-point-of-knowing = Chiar insistăm să știm mai puține despre tine
 firefox-privacy-hub-keep-it-safe = Păstrate în siguranță
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Noi muncim din greu ca să îți protejăm datele personale
+firefox-privacy-hub-data-security-is-complicated = Securitatea datelor e complicată — sau cel puțin așa ar trebui să fie. De aceea luăm măsurile necesare pentru a clasifica datele pe care le avem, menținem reguli pentru modul de stocare și protejare a fiecărui tip și nu ne oprim niciodată din reiterarea proceselor noastre. Facem din confidențialitatea ta prioritatea noastră. Investim în ea. Ne dedicăm ei. Chiar învățăm și alte companii cum să o facă.
 firefox-privacy-hub-no-secrets = Fără secrete
 firefox-privacy-hub-youll-always-know-where-you = Cu noi știi întotdeauna cum stai
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Nu avem intenții ascunse. Afacerea noastră nu depinde de a abuza în secret de încrederea acordată. <a href="{ $privacy }">Politica noastră de confidențialitate</a> chiar e lizibilă, ușor de înțeles. Oricine din lume poate să participe la <a href="{ $meetings }">ședințele noastre săptămânale</a>. Poți săpa în fiecare punct de date pe care le colectăm, codul nostru este deschis. La fel și noi.
+firefox-privacy-hub-why-trust-firefox = De ce să ai încredere în { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Pentru că noi punem oamenii pe primul loc. De fapt, suntem susținuți de o <a href="{ $foundation }">organizație nonprofit</a>. Din prima zi, misiunea noastră a fost să protejăm Internetul și pe toți care îl accesează.
+firefox-privacy-hub-learn-more-about-our-mission = Află mai multe despre misiunea noastră.
 firefox-privacy-hub-your-privacy-by-the-product = Confidențialitatea ta, după produse
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
