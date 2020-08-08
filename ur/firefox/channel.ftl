@@ -44,7 +44,7 @@ firefox-channel-build-test-scale-and-more = بنائیں, جانچیں ، تغی
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ایک غیر مستحکم جانچ اور ڈویلپمنٹ  کا پلیٹ فارم ہے۔ پہلے سے طے شدہ طور پر ، { -brand-name-developer-edition } { -brand-name-mozilla }- اور بعض اوقات ہمارے شراکت داروں کو ڈیٹا بھیجتا ہے تاکہ مسائل کو حل کرنے اور خیالات کو آزمانے میں ہماری مدد کی جاسکے۔ <a href="{ $link }"> سیکھن کیا شیر ہوا ہے ہے </a>۔
-firefox-channel-firefox-developer-edition = Firefox ڈیولپر ایڈیشن خود بخود { -brand-name-mozilla } کو رائے ارسال کرتا ہے۔
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition }خودکار طور پر  { -brand-name-mozilla } لئے رائے ارسال کرتے ہیں.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = ہمارے اگلی نسل کے ویب براؤزر کی ایک جھلک جھانکیں ، اور اس کوبہترین براؤزر بنانے میں ہماری مدد کریں:  { -brand-name-firefox-nightly }.کو آزمائیں۔
 firefox-channel-test-brand-new-features = روزانہ نئی خصوصیت جانچیں (یا…  Nightly.)۔ اپنی ذمہ داری پر لطف اندوز ہوں۔
