@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Te rugăm să introduci o adresă de e-mail validă.
 newsletter-form-you-must-agree-to = Trebuie să fii de acord cu notificarea privind confidențialitatea
 newsletter-form-your-email-here = ADRESA DE E-MAIL AICI
 newsletter-form-format = Format
