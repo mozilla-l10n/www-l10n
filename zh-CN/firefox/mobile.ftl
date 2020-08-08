@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = 探索可确保您上网安全的�
 firefox-mobile-sync-your-history-passwords = 同步您的历史记录、密码和书签。跨设备发送标签页。
 firefox-mobile-android-only = 限 { -brand-name-android }
 firefox-mobile-make-android-your-own = 你的 { -brand-name-android } 你做主
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = 使用<a href="{ $url }">各种扩展</a>定制 { -brand-name-firefox } 移动浏览器。有屏蔽广告、管理密码、阻止 { -brand-name-facebook } 跟踪及更多功能。
+firefox-mobile-customize-your-firefox-mobile-truncated = 用扩展定制您的移动版 { -brand-name-firefox } 浏览器。
 firefox-mobile-find-it-fast-with-a-smart = 使用智能搜索栏更快找到结果
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } 通过智能搜索建议和快速打开您最常访问的网站，满足您的需求。
 firefox-mobile-the-privacy-you-deserve-the = 隐私、速度，二者得兼。
