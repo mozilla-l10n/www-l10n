@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Ёсць спосаб абараніць вашу прыватнасць. Далучайцеся да { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Атрымайце ўліковы запіс Firefox – Трымайце свае звесткі прыватнымі, бяспечнымі і сінхранізаванымі
+firefox-accounts-get-a-firefox-account = Стварыце { -brand-name-firefox-account } – Трымайце свае звесткі прыватнымі, бяспечнымі і сінхранізаванымі
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Выступіце супраць прамысловасці, якая прадае вашы дадзеныя трэцім асобам. Будзьце разумныя і бяспечныя ў інтэрнэце з дапамогай тэхналогій, якія змагаюцца за вас.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Бяспечна сінхранізуйце свае паролі, закладкі і карткі паміж усімі сваімі прыладамі. Атрымайце ўліковы запіс Firefox зараз – Адзіны ўваход – Моц і прыватнасць усюды.
+firefox-accounts-securely-sync-your = Бяспечна сінхранізуйце свае паролі, закладкі і карткі паміж усімі сваімі прыладамі. Атрымайце { -brand-name-firefox-account } зараз – Адзіны ўваход – Моц і прыватнасць усюды.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Ёсць спосаб абараніць вашу прыватнасць. <span>Далучайцеся да { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
