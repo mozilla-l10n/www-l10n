@@ -94,6 +94,39 @@
                 [lower] prehliadačom Firefox
             }
     }
+-brand-name-firefox-browsers =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Prehliadače Firefox
+                [lower] prehliadače Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Prehliadačov Firefox
+                [lower] prehliadačov Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Prehliadačom Firefox
+                [lower] prehliadačom Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Prehliadače Firefox
+                [lower] prehliadače Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Prehliadačoch Firefox
+                [lower] prehliadačoch Firefox
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Prehliadačmi Firefox
+                [lower] prehliadačmi Firefox
+            }
+    }
 -brand-name-firefox-developer-edition =
     { $case ->
        *[nom] Firefox Developer Edition
@@ -162,6 +195,7 @@
         [ins] Firefoxom Aurora
     }
     .gender = masculine
+-brand-name-aurora = Aurora
 
 ## Firefox products
 
@@ -323,8 +357,18 @@
 
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
+-brand-name-bugzilla =
+    { $case ->
+       *[nom] Bugzilla
+        [gen] Bugzilly
+        [dat] Bugzille
+        [acc] Bugzilla
+        [loc] Bugzille
+        [ins] Bugzillou
+    }
+    .gender = feminine
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -383,6 +427,16 @@
     }
     .gender = masculine
 -brand-name-mac = macOS
+-brand-name-mac-short =
+    { $case ->
+       *[nom] Mac
+        [gen] Macu
+        [dat] Macu
+        [acc] Mac
+        [loc] Macu
+        [ins] Macom
+    }
+    .gender = masculine
 -brand-name-windows =
     { $case ->
        *[nom] Windows
@@ -401,6 +455,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -408,7 +463,28 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger =
+    { $case ->
+       *[nom] Facebook Messenger
+        [gen] Facebook Messengera
+        [dat] Facebook Messengeru
+        [acc] Facebook Messenger
+        [loc] Facebook Messengeri
+        [ins] Facebook Messengerom
+    }
+    .gender = masculine
 -brand-name-instagram = Instagram
+-brand-name-messenger =
+    { $case ->
+       *[nom] Messenger
+        [gen] Messengera
+        [dat] Messengeru
+        [acc] Messenger
+        [loc] Messengeri
+        [ins] Messengerom
+    }
+    .gender = masculine
+-brand-name-workplace = Workplace
 
 ## Google products
 

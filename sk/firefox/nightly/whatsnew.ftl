@@ -23,5 +23,5 @@ nightly-whatsnew-if-you-want-to = Ak chcete vedieť, čo sa deje okolo { -brand-
 nightly-whatsnew-want-to-know-which = Chcete vedieť, ktoré funkcie môžete v { -brand-name-nightly } otestovať, a ktoré nie sú dostupné v žiadnej inej verzii { -brand-name-firefox }u? Tak sa pozrite na stránku <a href="{ $mdn }">Experimental Features</a> na <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Pozorujete pády? Neočakávané chovanie? Regresie vo webovej kompatibilite? Nahláste nám ich v <a href="{ $bugzilla }">Bugzille</a> a zaistite, že sa tieto chyby nedostanú do finálneho vydania (do vášho hlásenia chýb môžete pridať kľúčové slovo <em>{ -brand-name-nightly }-community</em>)!
+nightly-whatsnew-do-you-experience = Pozorujete pády? Neočakávané chovanie? Regresie vo webovej kompatibilite? Nahláste nám ich v <a href="{ $bugzilla }">{ -brand-name-bugzilla(case: "loc") }</a> a zaistite, že sa tieto chyby nedostanú do finálneho vydania (do vášho hlásenia chýb môžete pridať kľúčové slovo <em>{ -brand-name-nightly }-community</em>)!
 nightly-whatsnew-go-community = Do toho komunita!
