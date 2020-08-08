@@ -10,4 +10,7 @@ whatsnew80-page-title = Hva er nytt i { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Gratulerer! Du bruker den nyeste versjonen av { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = Gjør omtrent alt, litt raskere
+whatsnew80-main-intro = Gå fra datamaskin til telefon uten å gå glipp av noe. Få { -brand-name-firefox } for mobil.
+whatsnew80-primary-cta-description = Skriv inn e-postadressen eller telefonnummeret ditt for å få tilsendt en nedlastingslenke
+whatsnew80-privacy-you-never = Personvern du aldri trenger å gruble på
 whatsnew80-new-firefox-android = Ny { -brand-name-firefox } for { -brand-name-android }
