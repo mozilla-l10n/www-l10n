@@ -23,3 +23,5 @@ welcome-page8-share-large-files = Partajezi fișiere mari cu criptare end-to-end
 welcome-page8-try-send = Încearcă { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Rămâi conectat(ă) cu cei cu care nu te poți întâlni în viața reală și împiedici { -brand-name-facebook } să te mai urmărească online.
+welcome-page8-add-facebook-container = Adaugă { -brand-name-facebook-container }
+welcome-page8-why-am-i = De ce văd asta?

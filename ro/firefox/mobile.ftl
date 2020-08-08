@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Descoperă produse care te țin în
 firefox-mobile-sync-your-history-passwords = Sincronizează-ți istoricul, parolele și marcajele. Trimite file pe toate dispozitivele.
 firefox-mobile-android-only = Doar pe { -brand-name-android }
 firefox-mobile-make-android-your-own = Creează-ți propria experiență pe { -brand-name-android }
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Personalizează browserul mobil { -brand-name-firefox } cu <a href="{ $url }">extensii</a> pentru a bloca reclame, a gestiona parolele, a opri { -brand-name-facebook } din a te urmări și multe altele.
+firefox-mobile-customize-your-firefox-mobile-truncated = Personalizează-ți browserul { -brand-name-firefox } de pe dispozitivele mobile cu extensii.
 firefox-mobile-find-it-fast-with-a-smart = Găsește rapid cu o bară inteligentă de căutare
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } îți anticipează nevoile cu sugestii inteligente de căutare și acces rapid la site-urile pe care le vizitezi cel mai mult.
 firefox-mobile-the-privacy-you-deserve-the = Intimitatea pe care o meriți. Viteza de care ai nevoie.
