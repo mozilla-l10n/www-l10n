@@ -20,6 +20,7 @@ firefox-all-sorry-we-couldnt-find = ہم معذرت خواہ ہیں، جس ڈا�
 firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کے لئے ہے جو کریشز کا شکار کرنا چاہتے ہیں اور نئی خصوصیات کو کوڈ کرتے ہوئے جانچنا چاہتے ہیں۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
+firefox-all-choose-which-firefox = انتخاب کریں کہ کونسا { -brand-name-firefox-browser } اپنی زبانمیں ڈونلوڈ کرنا ہے
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری کے نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزر کے بارے میں جانیں
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر

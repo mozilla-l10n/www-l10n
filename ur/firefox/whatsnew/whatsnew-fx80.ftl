@@ -7,6 +7,7 @@
 
 # html page title
 whatsnew80-page-title = { -brand-name-firefox } کے  ساتھ نیا  کیا  ہے
+whatsnew80-up-to-date-banner = مبارک ہو! آپ { -brand-name-firefox } کا تازہ ترین ورژن استعمال کر رہے ہیں۔
 whatsnew80-primary-cta-description = ڈاؤن لوڈ لنک کے لئے اپنا ای میل یا فون نمبر درج کریں
 # content buckets below hero
 whatsnew80-password-fatigue = پاس ورڈ کی تھکاوٹ حقیقی ہے
