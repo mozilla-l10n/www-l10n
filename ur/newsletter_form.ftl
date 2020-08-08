@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = برائے مہربانی سہی ای میل ایڈریس ڈالیں
+newsletter-form-you-must-agree-to = آپ کو رازداری کے نوٹس سے اتفاق کرنا ہوگا
 newsletter-form-your-email-address = آپ کا ای میل ایڈریس
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com

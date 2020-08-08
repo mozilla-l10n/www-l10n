@@ -9,7 +9,9 @@
 ## Required
 
 installer-help-page-title = آپ کے ڈاؤن لوڈ میں خلل پڑا ہے
+installer-help-main-tagline = ایسا کبھی کبھی ہوتا ہے۔ آئیے کچھ مختلف کرنے کی کوشش کریں۔
 installer-help-action-channel = یہ ڈاؤن لوڈ آپ کے لئے بہتر کام کرے گا۔
+installer-help-action-choose = نیچے ایک ڈاؤن لوڈ کا انتخاب کریں۔
 
 ##
 

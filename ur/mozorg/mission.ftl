@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = ہم ایک بہتر انٹرنیٹ کی تعمیر کر رہے
+mission-our-mission-is-to-ensure-the-internet = ہمارا مشن یہ یقینی بنانا ہے کہ انٹرنیٹ ایک عالمی عوامی وسائل ہے ، جو کھلا اور سب کے لئے قابل رسائی ہے۔ ایک ایسا انٹرنیٹ جو لوگوں کو واقعتا پہلے رکھتا ہے ، جہاں افراد اپنے تجربے کی تشکیل کرسکتے ہیں اور وہ بااختیار ، محفوظ اور آزاد ہیں۔
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = ہمارا مقصد ویب پر کشادگی، انوویشن اور موقع کو فروغ دینا ہے۔
 mission-at-mozilla-were-a-global-community = Mozilla میں، ہم ٹکنالوجسٹس کی ایک آفاقی کمیونٹی کررہے ہیں، مفکرین اور معماروں ایک ساتھ مل کر کام کر رہے ہیں تاکہ انٹرنیٹ کو زندہ اور قابل رسائی رہے، تاکہ دنیا بھر میں لوگ دنیا بھر میں باخبر معاوں اور ویب کے خالق بن سکیں۔

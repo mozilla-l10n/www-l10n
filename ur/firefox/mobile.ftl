@@ -11,6 +11,7 @@ firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-check-out-firefox-again-its = { -brand-name-firefox } کی دوبارہ پڑتال کریں۔ یہ تیز ، نجی اور آپ کی طرف ۔ { -brand-name-ios } اور { -brand-name-android } کے لئے۔
 firefox-mobile-get-automatic-privacy-on-mobile = موبائل پر خودکار رازداری حاصل کریں
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } موبایل کے لیے
+firefox-mobile-block-online-trackers-and = آن لائن ٹریکرز اور ناگوار اشتہارات کو بلاک کریں
 firefox-mobile-privacy-protection-by-default = پہلے سے طے شدہ رازداری سے تحفظ
 firefox-mobile-stop-companies-from-following = کمپنیوں کو اپنی پیروی کرنے سے روکیں
 firefox-mobile-discover-products-that-keep = ایسی مصنوعات دریافت کریں جو آپ کو محفوظ رکھیں
