@@ -7,6 +7,8 @@
 
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-ie }: آپ کے لئے بہتر براؤزر کونسا ہے؟
+# Main title
+compare-opera-comparing-firefox-browser = { -brand-name-firefox-browser } کا { -brand-name-opera } سے  موازنہ
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 # "Facebook Messenger" is a brand name.
