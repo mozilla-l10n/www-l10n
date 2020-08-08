@@ -14,6 +14,10 @@ firefox-desktop-download-yes = Ναι
 firefox-desktop-download-no = Όχι
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
+firefox-desktop-download-works-with-google = Λειτουργεί με τα προϊόντα { -brand-name-google }
+firefox-desktop-download-spell-check = Ορθογραφικός έλεγχος
+firefox-desktop-download-themes = Θέματα
+firefox-desktop-download-screenshots = Στιγμιότυπα οθόνης
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
