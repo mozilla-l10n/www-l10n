@@ -88,17 +88,39 @@ firefox-desktop-download-adjust-search-bar = Ajustar la configuración de la bar
 firefox-desktop-download-change-new-tab = Cambiar el diseño de la nueva pestaña
 firefox-desktop-download-make-firefox-your = Hacé tu propio <strong> { -brand-name-firefox } </strong>
 firefox-desktop-download-extensions-for-every = Extensiones para todos los intereses.
+firefox-desktop-download-change-up-your = Cambiá tu apariencia
+firefox-desktop-download-go-from-light = Pasá del modo claro al modo oscuro según tu estado de ánimo o preferencia, o amenizá con un tema personalizado (unicornio arcoíris tal vez).
+firefox-desktop-download-tweak-your-settings = Cambiá tu configuración
+firefox-desktop-download-theres-no-need = No necesitás conformarte. Cambiá la página de la nueva pestaña, la barra de búsqueda, los marcadores y más para explorar Internet de la manera que quieras.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Respaldado por la <strong> organización sin fines de lucro </strong> que prioriza a las personas
 firefox-desktop-download-challenging-the-status = Desafiando al status quo desde 1998
 firefox-desktop-download-your-privacy-comes = La privacidad es lo primero
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Mantené todas tus funciones favoritas del navegador y <strong>descubrí otras</strong> nuevas.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Todas tus herramientas de { -brand-name-google } favoritas (como Gmail y Docs) funcionan a la perfección en el { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Descargaá este complemeto del navegador</a> para impedir que { -brand-name-facebook } (y { -brand-name-instagram }) te rastreen por la web.
+firefox-desktop-download-sync-your-devices = Sincronizá tus dispositivos
 firefox-desktop-download-screenshots = Capturas de pantalla
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protección de rastreo aumentada (ETP)
+firefox-desktop-download-from-watching-a = Desde ver un tutorial web hasta estar pendiente de tu equipo favorito, tu video te sigue mientras realizás múltiples tareas.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obtener { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtener { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Descargar el navegador móvil { -brand-name-firefox } para protecciòn automática en todos los dispositivos.
 firefox-desktop-download-learn-about-the = Conocer más sobre el navegador de escritorio { -brand-name-firefox }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Desde la seguridad hasta las noticias y los juegos, hay un <a { $attrs }> complemento para todos </a>. Agregá tantos como quieras hasta que tu navegador sea el adecuado.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fue creado por <a { $attrs }>{ -brand-name-mozilla }</a> como una alternativa más rápida y privada a navegadores como { -brand-name-ie }, y ahora { -brand-name-chrome }. Hoy en día, nuestra comunidad de voluntarios y empresas impulsadas por la misión continúan poniendo tu privacidad por encima de todo.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Preguntas? El <a { $attrs }>soporte de { -brand-name-mozilla }</a> te tiene cubierto.
