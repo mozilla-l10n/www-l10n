@@ -17,3 +17,5 @@ whatsnew80-password-fatigue = Oboseala parolelor este reală
 whatsnew80-the-average-person = În medie, o persoană are 130 de conturi online. { -brand-name-firefox } pentru dispozitive mobile îți memorează și îți păstrează parolele în siguranță între dispozitivele sincronizate, ca să te poți autentifica dintr-un singur clic.
 whatsnew80-privacy-you-never = Confidențialitate pe care nu o vei pune niciodată la îndoială
 whatsnew80-firefox-for-mobile = { -brand-name-firefox } pentru dispozitive mobile blochează automat majoritatea elementelor de urmărire din reclame, așa că nu mai trebuie să sapi prin setările de securitate.
+whatsnew80-new-firefox-android = Noul { -brand-name-firefox } pentru { -brand-name-android }
+whatsnew80-our-latest-version = Cea mai nouă versiune de { -brand-name-firefox } oferă o încărcare fulger a paginilor și are un design nou și curat, care te lasă să faci mai multe, mai repede.
