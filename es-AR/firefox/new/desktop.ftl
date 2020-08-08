@@ -44,6 +44,16 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
 firefox-desktop-download-available-in-over = Disponible en más de 90 idiomas y compatible con los equipos { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, { -brand-name-firefox } funciona sin importar qué está usando o dónde está. Asegúrese de que su sistema operativo esté actualizado para obtener la mejor experiencia.
 firefox-desktop-download-review-system-req = Verificar los requisitos del sistema
 firefox-desktop-download-all-your-devices = Ponga { -brand-name-firefox } en todos sus dispositivos
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Hacelo <strong>todo</strong> con { -brand-name-firefox }
+firefox-desktop-download-search-from-address = Buscar desde la barra de direcciones
+firefox-desktop-download-search-engine-options = Opciones de buscadores
+firefox-desktop-download-smart-search-suggestions = Sugerencias de búsqueda inteligentes
+firefox-desktop-download-bookmark-history = Marcadores, historial y pestañas abiertas en los resultados
+firefox-desktop-download-boost-your = Aumentá tu productividad
+firefox-desktop-download-reader-mode = Modo lectura
+firefox-desktop-download-spell-check = Corrección ortográfica
+firefox-desktop-download-pinned-tabs = Pestañas pegadas
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-share-links = Compartir enlaces
@@ -69,6 +79,9 @@ firefox-desktop-download-get-firefox-android = Obtener { -brand-name-firefox-bro
 firefox-desktop-download-get-firefox-ios = Obtener { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Descargar el navegador móvil { -brand-name-firefox } para protecciòn automática en todos los dispositivos.
 firefox-desktop-download-learn-about-the = Conocer más sobre el navegador de escritorio { -brand-name-firefox }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ¿Preguntas? El <a { $attrs }>soporte de { -brand-name-mozilla }</a> te tiene cubierto.
 firefox-desktop-download-just-download-the-browser = Simplemente descargar el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
