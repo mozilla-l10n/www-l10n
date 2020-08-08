@@ -10,3 +10,4 @@ whatsnew80-page-title = Hva er nytt i { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Gratulerer! Du bruker den nyeste versjonen av { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = Gjør omtrent alt, litt raskere
+whatsnew80-new-firefox-android = Ny { -brand-name-firefox } for { -brand-name-android }
