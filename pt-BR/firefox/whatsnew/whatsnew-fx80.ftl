@@ -12,3 +12,6 @@ whatsnew80-up-to-date-banner = Parabéns! Você está usando a versão mais rece
 whatsnew80-main-title = Faça quase tudo, um pouco mais rápido
 whatsnew80-main-intro = Passe do computador para o celular sem perder o ritmo. Instale o { -brand-name-firefox } no celular.
 whatsnew80-primary-cta-description = Digite seu e-mail ou número de celular para receber um link de download
+# content buckets below hero
+whatsnew80-password-fatigue = Senhas envelhecem
+whatsnew80-the-average-person = As pessoas têm em média 130 contas online. O { -brand-name-firefox } de celular memoriza e armazena suas senhas com segurança em dispositivos sincronizados, assim você pode acessar essas contas com apenas um clique.
