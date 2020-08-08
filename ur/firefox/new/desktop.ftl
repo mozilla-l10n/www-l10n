@@ -11,7 +11,9 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } ڈونلوڈ کریں—تیز، نجی اور مفت  { -brand-name-mozilla } کی جانب سے
 firefox-desktop-download-og-title = اب تک کا سب سے تیز { -brand-name-firefox } ڈاؤن لوڈ کریں
+firefox-desktop-download-og-desc = تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا { -brand-name-firefox } یہاں ہے۔
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = براؤزر حاصل کریں جو حفظات کرتا ہنے جو آپکے لئے اہم ہے
 firefox-desktop-download-download-options = ڈاؤن لوڈ  اختیارات اور دیگر زبانیں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } کا دیگر براؤزر سے کیسے موازنہ کریں
@@ -39,6 +41,7 @@ firefox-desktop-download-search-engine-options = تلاش انجن کے اختی
 firefox-desktop-download-smart-search-suggestions = ہوشیار تلاش تجاویز
 firefox-desktop-download-boost-your = اپنی پیداوری صلاحیت  کو فروغ دیں
 firefox-desktop-download-works-with-google = { -brand-name-google } کی مصنوعات کے ساتھ کام کرتا ہے
+firefox-desktop-download-bookmarks-manager = بُک مارک مینیجر
 firefox-desktop-download-sync-across-devices = اپنے آلات کے مابین سنک کریں
 firefox-desktop-download-reader-mode = رینڈر موڈ
 firefox-desktop-download-spell-check = تلفظ کی جانچ پڑتال
@@ -52,7 +55,9 @@ firefox-desktop-download-automatic-updates = خودکار تازہ کاریاں
 firefox-desktop-download-customize-your-browser = اپنے براؤزر کی تخصیص کریں
 firefox-desktop-download-themes = تھیمز
 firefox-desktop-download-library-of-extensions = یکسٹینشنز کی لائبریری
+firefox-desktop-download-change-new-tab = نیا ٹیب لے آؤٹ تبدیل کریں
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> کو اپنا بنانا
+firefox-desktop-download-extensions-for-every = ہر دلچسپی کے لئے ایکسٹینشنز
 firefox-desktop-download-change-up-your = اپنی شکل تبدیل کریں
 firefox-desktop-download-your-privacy-comes = آپ کی رازداری پہلے آتی ہے
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }

@@ -8,3 +8,6 @@
 whatsnew-page-title = { -brand-name-firefox }  میں کیا نیا ہے - مزید رازداری ، مزید تحفظ۔
 whatsnew-up-to-date-notification = مبارک ہو! آپ { -brand-name-firefox-browser } کا تازہ ترین ورژن استعمال کر رہے ہیں۔
 whatsnew-out-of-date-notification = اس سے بھی جدید. -{ -brand-name-firefox-browser } دستیاب ہے۔ تازہ کاری کے لئے دوبارہ شروع کریں۔
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes = { -brand-name-firefox } براؤزر میںنیاکیا ہے جاننے کے لئے <a href="{ $url }"> اجرائی نوٹس</a> پڑھیں

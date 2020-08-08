@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
+# HTML page title
+welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } خودکار طور پر آپکی رزداری کا تحفظ کرتا ہے
 welcome-page8-firefox-automatically-protects = { -brand-name-firefox } خود بخود آپ کی رازداری کی حفاظت کرتا ہے ، لہذا جب بھی آن لائن جائیں تو آپ اپنی زندگی گزارنے کے لئے آزاد ہوںے۔
 welcome-page8-view-your-protection-report = اپنی تحفظ کی رپورٹ دیکھیں
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -12,9 +14,11 @@ welcome-page8-enhanced-tracking-protection = بہتر ٹریکنگ پروٹیک�
 welcome-page8-automatically-block-sites = انٹرنیٹ پر آپ کی پیروی کرنے سے خود بخود سائٹس بلاک کرتا ہے۔
 welcome-page8-see-whats-blocked = دیکھیں کہ کیا بلاک ہو رہا ہے
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page8-see-what-youve-been = دیکھیں کہ کیا آپ آن لائن ڈیٹا کی خلاف ورزیوں میں ملوث ہیں اور ان کو حل کرنے کے لئے عملی اقدامات اٹھائیں گے۔
 welcome-page8-go-to-monitor = { -brand-name-monitor } پر جایں
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-try-send = { -brand-name-send }  کو آزمائیں
 welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-stay-connected = ان لوگوں سے جڑے رہیں جن کے ساتھ آپ حقیقی زندگی میں نہیں جڑ ہوسکتے ہیں ، اور { -brand-name-facebook }کو آن لائن آپ کی پیروی کرنے سے روکیں۔
 welcome-page8-add-facebook-container = { -brand-name-facebook-container }  شامل کریں
 welcome-page8-why-am-i = میں یہ کیوں دیکھ رہا ہوں؟

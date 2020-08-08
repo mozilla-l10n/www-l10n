@@ -7,4 +7,7 @@
 
 nightly-whatsnew-your-firefox-nightly = آپ کے  { -brand-name-firefox-nightly }  کی  تازہکاری کر دی گئی ہے۔
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-4-to-5-weeks = ہر 4 سے 5 ہفتوں میں ، { -brand-name-firefox }x of کا ایک نیا بڑا ورژن جاری کیا جاتا ہے اور اس کے نتیجے میں ، { -brand-name-nightly }ورژن بھی بڑھتا جاتا ہے۔
+# Obsolete
+nightly-whatsnew-every-6-to-8-weeks = ہر  6 سے 8 ہفتوں میں ، { -brand-name-firefox }x of کا ایک نیا بڑا ورژن جاری کیا جاتا ہے اور اس کے نتیجے میں ، { -brand-name-nightly }ورژن بھی بڑھتا جاتا ہے۔
 nightly-whatsnew-go-community = برادری چلیں!
