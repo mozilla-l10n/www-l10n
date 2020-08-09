@@ -45,6 +45,7 @@ firefox-desktop-download-search-engine-options = تلاش انجن کے اختی
 firefox-desktop-download-smart-search-suggestions = ہوشیار تلاش تجاویز
 firefox-desktop-download-boost-your = اپنی پیداوری صلاحیت  کو فروغ دیں
 firefox-desktop-download-works-with-google = { -brand-name-google } کی مصنوعات کے ساتھ کام کرتا ہے
+firefox-desktop-download-built-in-screenshot = بلٹ ان اسکرین شاٹ ٹول
 firefox-desktop-download-bookmarks-manager = بُک مارک مینیجر
 firefox-desktop-download-autosuggest-urls = خودکار تجویز URLs
 firefox-desktop-download-sync-across-devices = اپنے آلات کے مابین سنک کریں

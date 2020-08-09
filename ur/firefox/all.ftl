@@ -28,6 +28,7 @@ firefox-all-everyone-deserves-access = ہر کوئی انٹرنیٹ تک رسا�
 firefox-all-choose-which-firefox = انتخاب کریں کہ کونسا { -brand-name-firefox-browser } اپنی زبانمیں ڈونلوڈ کرنا ہے
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری کے نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزر کے بارے میں جانیں
+firefox-all-the-standard-firefox = معیاری{ -brand-name-firefox } براؤزر - تیز اور نجی۔ اگر آپ کو معلوم نہیں ہے کہ کس{ -brand-name-firefox } کو منتخب کرنا ہے تو ، اس کا انتخاب کریں۔
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
