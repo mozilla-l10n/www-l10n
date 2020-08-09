@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Navegador Firefox: les millors adreces d'interès allà on sigueu
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: les millors adreces d'interès allà on sigueu
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organitzeu fàcilment les vostres adreces d'interès i accediu-hi des de qualsevol dispositiu, des de l'ordinador fins al mòbil.
 features-bookmarks-better-bookmarks = Adreces d'interès millorades
