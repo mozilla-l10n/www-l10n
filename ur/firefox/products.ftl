@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
+# HTML page description
+firefox-products-its-a-whole-family-of-products = یہ مصنوعات کا ایک پورا خاندان ہے جو آپ کو آن لائن محفوظ اور بہتر بنائے رکھنے کے لئے ڈیزائن کیا گیا ہے۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } براؤزر سے ز</strong>زیادہ</ strong> ہے
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
@@ -14,6 +16,7 @@ firefox-products-see-if-your-personal-information = دیکھیں کہ کیا آ�
 firefox-products-check-for-breaches = خلاف ورزیوں کی جانچ پڑتال کریں
 firefox-products-sign-up-for-breach-alerts = خلاف ورزی کے انتباہات کیلئے سائن اپ کریں
 firefox-products-firefox-browsers = { -brand-name-firefox } برائوزر
+firefox-products-get-the-browsers-that-block = وہ براؤزر حاصل کریں جو 2000+ ڈیٹا ٹریکرس کو خودبخود بلاک کرتا ہے۔ بہتر ٹریکنگ پروٹیکشن ہرہر { -brand-name-firefox } براؤزر میں معیاری آتا ہے۔
 firefox-products-desktop = ڈیسک ٹاپ
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
