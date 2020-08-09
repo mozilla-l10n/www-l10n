@@ -8,5 +8,9 @@
 welcome-page1-youre-on-track-to-stay-protected = محفوظ رہنے کے لئے راہ راست پر ہے
 welcome-page1-check-your-breach-report = خلاف ورزیوں کی رپورٹ جانچ پڑتال کریں
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor }آپ کو دکھاتا ہے کہ آیا آپ کے معلومات کو کسی معروف ڈیٹا کی خلاف ورزی میں لیک کیا گیا ہے ، اور آئندہ ایسا ہونے کی صورت میں آپ کو متنبہ کرتا ہے۔
 welcome-page1-stay-ahead-of-hackers = ہیکروں سے آگے رہیں
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = <a href="{ $security_tips }">{ -brand-name-monitor } سلامتی کے ٹوٹکوں</a> کے ساتھ اپنی معلومات کے تحفظ کے طریقے تلاش کریں۔
 welcome-page1-why-am-i-seeing-this = میں یہ کیوں دیکھ رہا ہوں؟
