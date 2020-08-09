@@ -19,6 +19,7 @@ firefox-all-language = زبان:
 firefox-all-sorry-we-couldnt-find = ہم معذرت خواہ ہیں، جس ڈاؤن لوڈ کی تلاش کر رہے ہیں ہم اسے تلاش نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں ، یا نیچے دی گئی فہرست میں سے ایک ڈاؤن لوڈ کا انتخاب کریں۔
 firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کے لئے ہے جو کریشز کا شکار کرنا چاہتے ہیں اور نئی خصوصیات کو کوڈ کرتے ہوئے جانچنا چاہتے ہیں۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
+firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسر والے کمپیوٹرز کے لئے ایک 64 بٹ انسٹالر کا انتخاب کریں ، جو انفرادی پروگراموں میں زیادہ سے زیادہ رام مختص کرنے کی اجازت دیتا ہے - خاص طور پر کھیلوں اور دیگر ایپلی کیشنز کے لئے اہم ہے۔
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = { -brand-name-firefox-browser }براؤزر کو انگریزی (امریکی) اور 90 سے زیادہ دیگر زبانوں میں ڈاؤن لوڈ کریں

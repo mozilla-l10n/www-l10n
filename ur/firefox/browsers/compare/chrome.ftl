@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-chrome }: کون سا بہتر ہے؟
+# HTML page description
+compare-chrome-we-compare-mozilla-firefox = ہم رازداری ، افادیت اور پورٹیبلٹی کے لحاظ سے{ -brand-name-mozilla }{ -brand-name-firefox }  کا موازنہ  { -brand-name-google }{ -brand-name-chrome } کے ساتھ کرتے ہیں
 # Main title.
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } کا { -brand-name-google }{ -brand-name-chrome } کےساتھ موازنہ
