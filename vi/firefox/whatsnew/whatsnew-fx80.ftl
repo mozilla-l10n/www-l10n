@@ -18,3 +18,4 @@ whatsnew80-the-average-person = Một người trung bình có 130 tài khoản 
 whatsnew80-privacy-you-never = Bạn không bao giờ phải bận tâm về quyền riêng tư
 whatsnew80-firefox-for-mobile = { -brand-name-firefox } dành cho điện thoại di động sẽ tự động chặn hầu hết các trình theo dõi quảng cáo trực tuyến, do đó bạn không cần phải tìm hiểu kỹ cài đặt bảo mật của mình.
 whatsnew80-new-firefox-android = { -brand-name-firefox } mới cho { -brand-name-android }
+whatsnew80-our-latest-version = Phiên bản { -brand-name-firefox } mới nhất của chúng tôi có tính năng tải trang nhanh hơn và thiết kế mới gọn gàng giúp bạn hoàn thành nhiều việc nhanh chóng hơn dễ dàng hơn.
