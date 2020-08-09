@@ -14,8 +14,8 @@ whatsnew80-main-intro = Passeu de l'ordinador al telèfon sense perdre el ritme.
 whatsnew80-primary-cta-description = Introduïu el vostre número de telèfon o adreça electrònica per obtenir un enllaç de baixada
 # content buckets below hero
 whatsnew80-password-fatigue = La fatiga de la contrasenya és real
-whatsnew80-the-average-person = Una persona té una mitjana de 130 comptes en línia. El { -brand-name-firefox } per al mòbil recorda i emmagatzema les contrasenyes de forma segura en tots els dispositius sincronitzats, perquè pugueu iniciar la sessió amb un sol clic.
-whatsnew80-privacy-you-never = Un respecte a la privadesa que no genera dubtes
+whatsnew80-the-average-person = Una persona normal té una mitjana de 130 comptes en línia. El { -brand-name-firefox } per al mòbil recorda i emmagatzema les contrasenyes de forma segura en tots els dispositius sincronitzats, perquè pugueu iniciar la sessió amb un sol clic.
+whatsnew80-privacy-you-never = Una privadesa que no genera dubtes
 whatsnew80-firefox-for-mobile = El { -brand-name-firefox } per al mòbil bloca la majoria d'elements de seguiment de publicitat automàticament, així no cal que us endinseu en els paràmetres de seguretat.
 whatsnew80-new-firefox-android = Un nou { -brand-name-firefox } per a l'{ -brand-name-android }
 whatsnew80-our-latest-version = La darrera versió del { -brand-name-firefox } carrega les pàgines a tota velocitat i té un disseny net i renovat que us permet fer molt més, i molt més ràpid.
