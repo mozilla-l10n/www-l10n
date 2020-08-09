@@ -8,3 +8,7 @@
 # html page title
 whatsnew80-page-title = Có gì mới với { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Chúc mừng! Bạn đang dùng phiên bản mới nhất của { -brand-name-firefox }.
+# Main title
+whatsnew80-main-title = Làm mọi thứ, nhanh hơn một chút
+whatsnew80-main-intro = Chuyển từ máy tính sang điện thoại mà không một chút do dự. Tải xuống { -brand-name-firefox } cho điện thoại di động.
+whatsnew80-primary-cta-description = Nhập thư điện tử hoặc số điện thoại của bạn để có đường dẫn tải xuống
