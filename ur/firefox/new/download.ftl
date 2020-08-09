@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
+firefox-new-download-mozilla-firefox = مفت ویب براؤزر { -brand-name-mozilla }{ -brand-name-firefox }ڈاؤن لوڈ کریں۔  { -brand-name-firefox } ایک عالمی غیر غیر منافع بخش کی جانب سے بنائی گئی ہے جو افراد کو آن لائن کنٹرول میں رکھنے کے لئے وقف ہے۔ { -brand-name-firefox }  { -brand-name-windows }، { -brand-name-mac }،{ -brand-name-linux }،{ -brand-name-android } اور { -brand-name-ios } کے لئے آج حاصل کریں !
 firefox-new-download-the-fastest-firefox = اب تک کا سب سے تیز { -brand-name-firefox } ڈاؤن لوڈ کریں
+firefox-new-faster-page-loading-less-memory = تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا { -brand-name-firefox } یہاں ہے۔
 firefox-new-automatic-privacy-is-here = خودکار رازداری یہاں ہے۔  2000 سے زائد ٹریکروں کو روکنے کے لئے { -brand-name-firefox }  ڈاؤن لوڈ کریں۔
 firefox-new-get-the-latest-firefox = جدید ترین { -brand-name-firefox } براؤزر حاصل کریں۔
 firefox-new-firefox-lockwise-makes-secure = <strong> { -brand-name-firefox-lockwise }</ strong> آپ کے پاس ورڈز کو { -brand-name-firefox } میں محفوظ کرتا ہے جو آپ کے تمام آلات پر دستیاب ہے۔
