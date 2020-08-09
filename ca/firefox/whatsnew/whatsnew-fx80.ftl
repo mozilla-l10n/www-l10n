@@ -10,3 +10,5 @@ whatsnew80-page-title = Novetats del { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Enhorabona! Ja utilitzeu la versió més recent del { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = Feu-ho pràcticament tot, una mica més ràpid
+whatsnew80-main-intro = Passeu de l'ordinador al telèfon sense perdre el ritme. Instal·leu el { -brand-name-firefox } per al mòbil.
+whatsnew80-primary-cta-description = Introduïu el vostre número de telèfon o adreça electrònica per obtenir un enllaç de baixada
