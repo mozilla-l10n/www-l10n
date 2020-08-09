@@ -12,6 +12,7 @@ firefox-new-get-the-latest-firefox = جدید ترین { -brand-name-firefox } �
 firefox-new-firefox-lockwise-makes-secure = <strong> { -brand-name-firefox-lockwise }</ strong> آپ کے پاس ورڈز کو { -brand-name-firefox } میں محفوظ کرتا ہے جو آپ کے تمام آلات پر دستیاب ہے۔
 firefox-new-firefox-monitor-alerts = <strong> { -brand-name-firefox-monitor }</ strong> آپ کو متنبہ کرتا ہے اگر ہمیں معلوم ہے کہ آپ کی معلومات کسی اور کمپنی کے ڈیٹا کی خلاف ورزی کا حصہ ہے۔
 firefox-new-join-firefox = { -brand-name-firefox } میں شامل ہوں
+firefox-new-firefox-lockwise-makes = <strong> { -brand-name-firefox-lockwise }</ strong> آپ کے پاس ورڈز کو { -brand-name-firefox } میں محفوظ کرتا ہے جو آپ کے تمام آلات پر دستیاب ہے۔
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } کے لئے <br>{ -brand-name-firefox } ڈاؤن لوڈ کریں
 firefox-new-download-firefox-for-macos = { -brand-name-mac } کے لئے <br>{ -brand-name-firefox } ڈاؤن لوڈ کریں

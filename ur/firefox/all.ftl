@@ -20,6 +20,10 @@ firefox-all-sorry-we-couldnt-find = ہم معذرت خواہ ہیں، جس ڈا�
 firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کے لئے ہے جو کریشز کا شکار کرنا چاہتے ہیں اور نئی خصوصیات کو کوڈ کرتے ہوئے جانچنا چاہتے ہیں۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox = { -brand-name-firefox-browser }براؤزر کو انگریزی (امریکی) اور 90 سے زیادہ دیگر زبانوں میں ڈاؤن لوڈ کریں
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = ہر کوئی انٹرنیٹ تک رسائی کا مستحق ہے - آپ کی زبان کو کبھی بھی رکاوٹ نہیں بننا چاہئے۔ یہی وجہ ہے کہ - پوری دنیا میں واقف شدہ رضاکاروں کی مدد سے - ہم { -brand-name-firefox-browser } براؤزر کو 90 سے زیادہ زبانوں میں دستیاب کر رہے ہیں۔
 firefox-all-choose-which-firefox = انتخاب کریں کہ کونسا { -brand-name-firefox-browser } اپنی زبانمیں ڈونلوڈ کرنا ہے
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری کے نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزر کے بارے میں جانیں

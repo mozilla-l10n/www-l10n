@@ -11,6 +11,8 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } بمقابلہ
 compare-opera-compare-opera-to-the-firefox = اپ کے لئے کونسا براؤزر بہتر ہے اسکو جانچنے کے لیے { -brand-name-opera } کا { -brand-name-firefox-browser } سے موازنہ کریں،
 # Main title
 compare-opera-comparing-firefox-browser = { -brand-name-firefox-browser } کا { -brand-name-opera } سے  موازنہ
+compare-opera-operas-privacy-policy-lacks = { -brand-name-opera } کی رازداری کی پالیسی میں اس کی وضاحت کرنے میں کچھ خصوصیات کا فقدان ہے کہ وہ کس قسم کی معلومات اکٹھا کرتی ہے اور کیسے۔ کچھ حصوں میں ، اس کا کہنا ہے کہ وہ اکاؤنٹ رکھنے والوں کے نام ، IP پتے اور تلاش کی شرائط جمع کرتے ہیں۔ بین الاقوامی اعداد و شمار کی منتقلی کے بارے میں جو حصہ الجھا ہوا اور پریشان کن معلوم ہوتا ہے۔ کب ، کتنی بار اور کیوں انھیں آپ کا ڈیٹا بین الاقوامی سطح پر منتقل کرنے کی ضرورت ہے اس کی وضاحت نہیں کی گئی ہے۔
+compare-opera-as-far-as-actual-privacy-protections = جہاں تک{ -brand-name-opera } براؤزر میں رازداری سے متعلق حقیقی تحفظات ہیں ، یہ ایک مضبوط نجی موڈ پیش کرتا ہے جو آپ کو اپنی سرگرمی کا سراغ لگائے بغیر براؤزر کے ویب کو سرف کرنے کی سہولت دیتا ہے۔ عام براؤزنگ موڈ میں ، آپ اشتہار کو روکنے کے قابل بنانے اور سیکیورٹی کی دیگر خصوصیات کو ایڈجسٹ کرنے کیلئے ترتیبات میں کھود کر کچھ ڈیٹا اکٹھا کرنے کی خصوصیات کو بھی بند کرسکتے ہیں۔
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 # "Facebook Messenger" is a brand name.

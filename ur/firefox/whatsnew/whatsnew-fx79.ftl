@@ -22,6 +22,7 @@ whatsnew79-see-your-report = اپنی رپورٹ دیکھیں
 whatsnew79-update-your-firefox = اپنے { -brand-name-firefox } براؤزر کو اپ ڈیٹ کریں
 whatsnew79-download-the-firefox = { -brand-name-firefox } براؤزر ڈاؤن لوڈ کریں
 whatsnew79-read-our-privacy-promise = ہماری رازداری کا وعدہ پڑھیں
+whatsnew79-take-less-keep-it-safe = کم لیں۔ اسے محفوظ رکھیں۔ کوئی راز نہیں۔ ہمارا کاروبار آپ کے اعتماد کو چپکے سے غلط استعمال پر انحصار نہیں کرتا ہے۔
 # CTA link
 whatsnew79-read-more = مزید پڑھیں
 whatsnew79-keep-facebook-contained = { -brand-name-facebook } کو محصور رکھیں
