@@ -23,3 +23,17 @@ whatsnew79-firefox-blocks-more = El { -brand-name-firefox } bloca més anunciant
 # CTA link
 whatsnew79-see-your-report = Vegeu el vostre informe
 whatsnew79-update-your-firefox = Actualitzeu el vostre navegador { -brand-name-firefox }
+whatsnew79-download-the-firefox = Baixa el navegador { -brand-name-firefox }
+whatsnew79-read-our-privacy-promise = Llegiu el nostre compromís amb la privadesa
+whatsnew79-take-less-keep-it-safe = Recollir menys dades, mantenir-les segures i sense secrets. El nostre negoci no depèn d'abusar de la vostra confiança.
+# CTA link
+whatsnew79-read-more = Més informació
+whatsnew79-keep-facebook-contained = Manteniu el { -brand-name-facebook } ben aïllat
+whatsnew79-get-the-power-to-prevent = Impediu que el { -brand-name-facebook } i l'{ -brand-name-instagram } us facin el seguiment mentre navegueu.
+# CTA link
+whatsnew79-add-facebook-container = Afegeix el { -brand-name-facebook-container }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Intal·leu el { -brand-name-firefox } en el telèfon
+whatsnew79-scan-the-qr-code = Escanegeu el codi QR per començar
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = Codi QR que cal escanejar per al { -brand-name-firefox }
