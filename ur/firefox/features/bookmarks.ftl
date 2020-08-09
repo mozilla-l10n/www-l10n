@@ -17,6 +17,7 @@ features-bookmarks-file-that-bookmark = بک مارک فائل کریں
 features-bookmarks-get-your-faves-all-sorted = بک مارک اسٹار آئیکن کے ساتھ آپ کے تمام پسندیدہ ویب سیٹس کو سیٹنگ دیں، اور جس سے آپ اپنی مرضی کے مطابق نام اور فولڈرز شامل کرسکتے ہیں. پھر اپنے بک مارک ٹول بار میں ڈائل کریں اس بات کا یقین کرنے کے لئے کہ آپ اپنی پسندیدہ نہ کھویں۔
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = اس بکمارک کے ساتھ پرواز کریں
+features-bookmarks-customize-that-bookmark = بک مارک کی تخصیص کریں
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = اس بکمارک کے ساتھ وقت گزاریں

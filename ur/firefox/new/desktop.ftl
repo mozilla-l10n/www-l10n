@@ -14,6 +14,8 @@ firefox-desktop-download-og-title = اب تک کا سب سے تیز { -brand-nam
 firefox-desktop-download-og-desc = تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا { -brand-name-firefox } یہاں ہے۔
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = براؤزر حاصل کریں جو حفظات کرتا ہنے جو آپکے لئے اہم ہے
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = مشتھرین کے لئے کوئی مشکوک رازداری کی پالیسیاں یا پیچھے کے دروازے نہیں۔ صرف بجلی کا تیز تیز براؤزر جو آپ کو فروخت نہیں کرتا ہے۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ  اختیارات اور دیگر زبانیں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } کا دیگر براؤزر سے کیسے موازنہ کریں
@@ -30,6 +32,7 @@ firefox-desktop-download-blocks-social-trackers = سماجی ٹریکرز بلا
 firefox-desktop-download-os-availability = OS کی دستیابی
 firefox-desktop-download-in-browser-screenshot = براؤزر میں اسکرین شاٹ ٹول
 firefox-desktop-download-master-password = ماسٹر پاس ورڈ
+firefox-desktop-download-we-block-the-ad = ہم اشتہاری ٹریکروں کو بلاک کرتے ہیں۔ آپ انٹرنیٹ کو تیزی سے تلاش کرتے ہیں۔
 firefox-desktop-download-see-your-report = اپنی تحفظ کی رپورٹ دیکھیں
 firefox-desktop-download-for-everyone = { -brand-name-firefox } سب کےلئے ہے
 firefox-desktop-download-review-system-req = نظام کے تقاضوں کا جائزہ لیں
@@ -37,28 +40,37 @@ firefox-desktop-download-all-your-devices = اپنے تمام آلات پر { -b
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = کریں<strong>تمام</strong> { -brand-name-firefox } کےساتھ
 firefox-desktop-download-search-smarter = ہوشیاری کے ساتھ تیز تلاش کریں
+firefox-desktop-download-search-from-address = پتے کی بار سے تلاش کریں
 firefox-desktop-download-search-engine-options = تلاش انجن کے اختیارات
 firefox-desktop-download-smart-search-suggestions = ہوشیار تلاش تجاویز
 firefox-desktop-download-boost-your = اپنی پیداوری صلاحیت  کو فروغ دیں
 firefox-desktop-download-works-with-google = { -brand-name-google } کی مصنوعات کے ساتھ کام کرتا ہے
 firefox-desktop-download-bookmarks-manager = بُک مارک مینیجر
+firefox-desktop-download-autosuggest-urls = خودکار تجویز URLs
 firefox-desktop-download-sync-across-devices = اپنے آلات کے مابین سنک کریں
 firefox-desktop-download-reader-mode = رینڈر موڈ
 firefox-desktop-download-spell-check = تلفظ کی جانچ پڑتال
 firefox-desktop-download-pinned-tabs = پن شدہ ٹیبز
+firefox-desktop-download-stream-share-play = سٹریم کریں، اشتراک کریں اور چلیں
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = تصویر میں تصویر
 firefox-desktop-download-share-links = ربط شیئر کریں
 firefox-desktop-download-protect-your-privacy = اپنی رازداری کی حفاظت کریں
+firefox-desktop-download-fingerprinter-blocking = فنگر پرنٹرز بلاک شدہ
 firefox-desktop-download-private-browsing-mode = نجی براوزنگ موڈ
+firefox-desktop-download-individual-protections-report = انفرادی حفاظت کی رپورٹ
 firefox-desktop-download-secure-your-personal = اپنی ذاتی معلومات کو محفوظ بناییں
 firefox-desktop-download-clear-history = سابقات صاف کریں
 firefox-desktop-download-automatic-updates = خودکار تازہ کاریاں
 firefox-desktop-download-customize-your-browser = اپنے براؤزر کی تخصیص کریں
 firefox-desktop-download-themes = تھیمز
 firefox-desktop-download-library-of-extensions = یکسٹینشنز کی لائبریری
+firefox-desktop-download-adjust-search-bar = سرچ بار کی ترتیبات کو ایڈجسٹ کریں
 firefox-desktop-download-change-new-tab = نیا ٹیب لے آؤٹ تبدیل کریں
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> کو اپنا بنانا
 firefox-desktop-download-extensions-for-every = ہر دلچسپی کے لئے ایکسٹینشنز
 firefox-desktop-download-change-up-your = اپنی شکل تبدیل کریں
+firefox-desktop-download-challenging-the-status = 1998 سے اسٹیٹس کو کو چیلنج کررہا ہے
 firefox-desktop-download-your-privacy-comes = آپ کی رازداری پہلے آتی ہے
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = اپنے آلات سنک کریں
@@ -73,4 +85,7 @@ firefox-desktop-download-just-download-the-browser = بس براؤزر ڈاؤن 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = تقریبا وہاں!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = اب { -brand-name-firefox } کی <strong>تنصیب کاری کا عمل </strong> ختم کریں
+firefox-desktop-download-in-another-language = کسی اور زبان میں یا کسی اور آپریٹنگ سسٹم کے لئے ڈاؤن لوڈ کریں۔
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
