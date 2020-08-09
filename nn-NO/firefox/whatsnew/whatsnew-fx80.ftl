@@ -15,3 +15,5 @@ whatsnew80-primary-cta-description = Skriv inn e-postadressa eller telefonnummer
 # content buckets below hero
 whatsnew80-password-fatigue = Passordtrøttheit er ekte
 whatsnew80-privacy-you-never = Personvern du aldri treng å gruble på
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } for mobil blokkerer dei fleste annonsesporarane på nettet automatisk, utan at du treng å endre tryggingsinnstillingane dine.
+whatsnew80-new-firefox-android = Ny { -brand-name-firefox } for { -brand-name-android }
