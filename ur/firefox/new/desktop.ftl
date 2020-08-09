@@ -64,6 +64,7 @@ firefox-desktop-download-clear-history = سابقات صاف کریں
 firefox-desktop-download-automatic-updates = خودکار تازہ کاریاں
 firefox-desktop-download-customize-your-browser = اپنے براؤزر کی تخصیص کریں
 firefox-desktop-download-themes = تھیمز
+firefox-desktop-download-dark-mode = ڈارک موڈ
 firefox-desktop-download-library-of-extensions = یکسٹینشنز کی لائبریری
 firefox-desktop-download-adjust-search-bar = سرچ بار کی ترتیبات کو ایڈجسٹ کریں
 firefox-desktop-download-change-new-tab = نیا ٹیب لے آؤٹ تبدیل کریں
@@ -87,5 +88,8 @@ firefox-desktop-download-just-download-the-browser = بس براؤزر ڈاؤن 
 firefox-desktop-download-almost-there = تقریبا وہاں!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = اب { -brand-name-firefox } کی <strong>تنصیب کاری کا عمل </strong> ختم کریں
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = پریشانی ہے؟ <a { $attrs }> اپنی انسٹالایشن میں مدد حاصلکریں</a>.
 firefox-desktop-download-in-another-language = کسی اور زبان میں یا کسی اور آپریٹنگ سسٹم کے لئے ڈاؤن لوڈ کریں۔
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
