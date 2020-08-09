@@ -11,6 +11,7 @@ firefox-new-download-the-fastest-firefox = اب تک کا سب سے تیز { -br
 firefox-new-faster-page-loading-less-memory = تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا { -brand-name-firefox } یہاں ہے۔
 firefox-new-automatic-privacy-is-here = خودکار رازداری یہاں ہے۔  2000 سے زائد ٹریکروں کو روکنے کے لئے { -brand-name-firefox }  ڈاؤن لوڈ کریں۔
 firefox-new-get-the-latest-firefox = جدید ترین { -brand-name-firefox } براؤزر حاصل کریں۔
+firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } آپ کو دکھاتا ہے کہ کتنے ڈیٹا اکٹھا کرنے والے ٹریکرس کو < /strong> بہتر ٹریکنگ تحفظ < strong> کے ساتھ بلاک کردیا گیا ہے۔
 firefox-new-firefox-lockwise-makes-secure = <strong> { -brand-name-firefox-lockwise }</ strong> آپ کے پاس ورڈز کو { -brand-name-firefox } میں محفوظ کرتا ہے جو آپ کے تمام آلات پر دستیاب ہے۔
 firefox-new-firefox-monitor-alerts = <strong> { -brand-name-firefox-monitor }</ strong> آپ کو متنبہ کرتا ہے اگر ہمیں معلوم ہے کہ آپ کی معلومات کسی اور کمپنی کے ڈیٹا کی خلاف ورزی کا حصہ ہے۔
 firefox-new-join-firefox = { -brand-name-firefox } میں شامل ہوں

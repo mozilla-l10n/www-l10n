@@ -61,7 +61,9 @@ firefox-desktop-download-fingerprinter-blocking = فنگر پرنٹرز بلاک
 firefox-desktop-download-private-browsing-mode = نجی براوزنگ موڈ
 firefox-desktop-download-individual-protections-report = انفرادی حفاظت کی رپورٹ
 firefox-desktop-download-secure-your-personal = اپنی ذاتی معلومات کو محفوظ بناییں
+firefox-desktop-download-built-in-password = بلٹ ان پاس ورڈ مینیجر
 firefox-desktop-download-clear-history = سابقات صاف کریں
+firefox-desktop-download-form-autofill = فارم آٹو فل
 firefox-desktop-download-automatic-updates = خودکار تازہ کاریاں
 firefox-desktop-download-customize-your-browser = اپنے براؤزر کی تخصیص کریں
 firefox-desktop-download-themes = تھیمز
@@ -91,6 +93,8 @@ firefox-desktop-download-just-download-the-browser = بس براؤزر ڈاؤن 
 firefox-desktop-download-almost-there = تقریبا وہاں!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = اب { -brand-name-firefox } کی <strong>تنصیب کاری کا عمل </strong> ختم کریں
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = ابھی وہ فائل <strong> کھولیں </ strong> جو ابھی ابھی ڈاؤن لوڈ کی گئی ہے۔
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = پریشانی ہے؟ <a { $attrs }> اپنی انسٹالایشن میں مدد حاصلکریں</a>.
