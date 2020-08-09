@@ -22,7 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } bruke
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Gjør hva du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvåker</strong> deg ikke.
 firefox-desktop-download-how-firefox-compares = Hvordan { -brand-name-firefox } sammenlignes med andre nettlesere
-firefox-desktop-download-get-all-the-speed = Få hastighet og smarte verktøy uten å ofre personvernet. { -brand-name-firefox-browser } samler inn veldig lite data om deg - du trenger ikke en gang å oppgi e-postadressen din for å laste ned nettleseren. I motsetning til andre nettlesere, ikke har noen økonomisk interesse i å spore aktivitetene dine på nettet.
+firefox-desktop-download-get-all-the-speed = Få hastighet og smarte verktøy uten å ofre personvernet. { -brand-name-firefox-browser } samler inn veldig lite data om deg, og vi ber deg heller ikke om e-postadressen din for å laste ned nettleseren. I motsetning til andre nettlesere, har vi ikke noen økonomisk interesse i å spore aktivitetene dine på nettet.
 firefox-desktop-download-how-we-compare = Hvordan vi sammenligner med andre nettlesere
 firefox-desktop-download-compare-firefox-to = Sammenlign { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -38,7 +38,7 @@ firefox-desktop-download-os-availability = OS-tilgjengelighet
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettleseren
 firefox-desktop-download-master-password = Hovedpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporere. Du utforsker internett raskere.
-firefox-desktop-download-ads-are-distracting = Annonser er irriterende og gjør at nettsidene laster tregere mens sporere sporer aktivitetene dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt de fleste av disse sporere automatisk, uten at du trenger å endre dine sikkerhetsinnstillingene dine.
+firefox-desktop-download-ads-are-distracting = Annonser er irriterende og gjør at nettsidene laster tregere mens sporere sporer aktivitetene dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt de fleste av disse sporere automatisk, uten at du trenger å endre sikkerhetsinnstillingene dine.
 firefox-desktop-download-see-your-report = Se beskyttelsesrapporten din
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-available-in-over = Tilgjengelig på over 90 språk og kompatibel med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer uansett hva du bruker eller hvor du er. Forsikre deg om at operativsystemet ditt er oppdatert for den beste opplevelsen.

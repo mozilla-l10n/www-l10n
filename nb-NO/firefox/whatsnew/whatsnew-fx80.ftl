@@ -16,6 +16,6 @@ whatsnew80-primary-cta-description = Skriv inn e-postadressen eller telefonnumme
 whatsnew80-password-fatigue = Passordtrøtthet er ekte
 whatsnew80-the-average-person = Den gjennomsnittlige person har 130 nettkontoer. { -brand-name-firefox } for mobil husker og lagrer passordene dine trygt på synkroniserte enheter, slik at du kan logge deg på med bare ett klikk.
 whatsnew80-privacy-you-never = Personvern du aldri trenger å gruble på
-whatsnew80-firefox-for-mobile = { -brand-name-firefox } for mobil blokkerer de fleste annonsesporere på nettet automatisk, uten at du trenger å endre dine sikkerhetsinnstillingene dine.
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } for mobil blokkerer de fleste annonsesporere på nettet automatisk, uten at du trenger å endre sikkerhetsinnstillingene dine.
 whatsnew80-new-firefox-android = Ny { -brand-name-firefox } for { -brand-name-android }
 whatsnew80-our-latest-version = Vår siste versjon av { -brand-name-firefox } har lynraske sidelastinger og et rent nytt design som gjør det lettere å få flere ting gjort, raskere.
