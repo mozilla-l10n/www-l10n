@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } bruka
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Gjer det du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvakar</strong> deg ikkje.
 firefox-desktop-download-how-firefox-compares = Korleis { -brand-name-firefox } vert samanlikna med andre nettlesarar
+firefox-desktop-download-get-all-the-speed = Få fart og smarte verktøy utan å ofre personvernet. { -brand-name-firefox-browser } samlar inn veldig lite data om deg, og vi ber deg heller ikkje om e-postadressa di for å laste ned nettlesaren. I motsetnad til andre nettlesarar, har vi ikkje noko økonomisk interesse i å spore aktivitetane dine på nettet.
 firefox-desktop-download-how-we-compare = Korleis vi samanliknar med andre nettlesarar
 firefox-desktop-download-compare-firefox-to = Samanlikn { -brand-name-firefox } med:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
