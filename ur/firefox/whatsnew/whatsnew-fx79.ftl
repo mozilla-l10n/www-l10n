@@ -9,6 +9,7 @@
 whatsnew79-page-title = { -brand-name-firefox } کے  ساتھ نیا  کیا  ہے
 # Main title
 whatsnew79-main-title = ہمارے سمیت ہر کسی سے اپنے ڈیٹا کو مخفی رکھیں
+whatsnew79-main-intro = انٹرنیٹ سب کے لئے ایک محفوظ جگہ ہونا چاہئے۔ اسی وجہ ہے کہ { -brand-name-firefox } آن لائن آپ کی پیروی نہیں کرتا ہے ، اور دوسروں کو بھی آپ کی پیروی کرنے سے روکتا ہے۔
 # Main CTA button
 whatsnew79-primary-cta = { -brand-name-firefox } کو طے شدہ بنائیں
 # Fallback CTA button, shown if Firefox is already a user's default browser
