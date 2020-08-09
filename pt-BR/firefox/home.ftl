@@ -19,7 +19,7 @@ firefox-home-get-the-respect-you = Tenha o <strong>respeito</strong> que merece
 firefox-home-every-single-firefox = Cada produto { -brand-name-firefox } honra nossa promessa de como lidar com dados pessoais: <strong>Coletar pouco. Manter seguro. Sem segredos.</strong>
 firefox-home-share-large-files-without = Compartilhe arquivos grandes, livre de intrometidos
 firefox-home-start-sending-files = Comece a enviar arquivos com segurança
-firefox-home-trade-clickbait-for = Troque 'clickbait' por conteúdo de qualidade
+firefox-home-trade-clickbait-for = Troque caça-cliques por conteúdo de qualidade
 firefox-home-learn-more-about-pocket = Saiba mais sobre o { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Uma única conta. Todos os seus dispositivos. Uma família de produtos que respeita sua <strong>privacidade</strong>.
