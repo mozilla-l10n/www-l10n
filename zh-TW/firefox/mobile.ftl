@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = 探索能確保您上網安全的�
 firefox-mobile-sync-your-history-passwords = 同步上網紀錄、登入密碼、書籤。並且隨意傳送分頁到您的任何裝置。
 firefox-mobile-android-only = 僅 { -brand-name-android }
 firefox-mobile-make-android-your-own = 讓 { -brand-name-android } 有您的風格
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = 使用<a href="{ $url }">擴充套件</a>來自訂 { -brand-name-firefox } 行動瀏覽器。有封鎖廣告、管理密碼、不讓 { -brand-name-facebook } 追蹤等等功能。
+firefox-mobile-customize-your-firefox-mobile-truncated = 使用擴充套件自訂您的 { -brand-name-firefox } 行動瀏覽器。
 firefox-mobile-find-it-fast-with-a-smart = 使用智慧搜尋列更快找到東西
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } 透過智慧搜尋建議與快速開啟您最常造訪的網站，來滿足您的需求。
 firefox-mobile-the-privacy-you-deserve-the = 隱私保護與速度兼具。
