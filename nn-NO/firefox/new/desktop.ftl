@@ -122,6 +122,9 @@ firefox-desktop-download-from-security-to = Frå sikkerheit til nyheiter til spe
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } vart utvikla av <a { $attrs }>{ -brand-name-mozilla }</a> som eit raskare, meir privat alternativ til nettlesarar som { -brand-name-ie }, og no { -brand-name-chrome }. I dag held det visjonære selskapet vårt og frivilligsamfunn fram med å setje personvernet ditt framfor alt anna.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Etter kvart  som internett veks og endrar seg, held { -brand-name-firefox } fram med å fokusere på retten din til personvern  — vi kallar det <a { $attrs }>lovnad om private data</a>: Samle inn mindre. Oppbevar det trygt. Ingen hemmelegheiter. Dine data, din nettaktivitet og livet ditt på nettet er beskytta med { -brand-name-firefox }.
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgjengeleg på alle einingane dine. Ta med fanene, historikken og bokmerka. Alt du treng er ein <a { $attrs }>{ -brand-name-firefox }-konto</a>.
 # Variables:
