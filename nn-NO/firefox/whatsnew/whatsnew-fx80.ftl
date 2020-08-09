@@ -1,0 +1,17 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/80.0/whatsnew/all/
+
+# html page title
+whatsnew80-page-title = Kva er nytt i { -brand-name-firefox }
+whatsnew80-up-to-date-banner = Gratulerer! Du brukar den nyaste versjonen av { -brand-name-firefox }.
+# Main title
+whatsnew80-main-title = Gjer omtrent alt, litt raskare
+whatsnew80-main-intro = Gå frå datamaskin til telefon utan å gå glipp av noko. Få { -brand-name-firefox } for mobil.
+whatsnew80-primary-cta-description = Skriv inn e-postadressa eller telefonnummeret ditt for å få tilsendt ei nedlastingslenke
+# content buckets below hero
+whatsnew80-password-fatigue = Passordtrøttheit er ekte
+whatsnew80-privacy-you-never = Personvern du aldri treng å gruble på
