@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Khám phá các sản phẩm giữ 
 firefox-mobile-sync-your-history-passwords = Đồng bộ hóa lịch sử, mật khẩu và dấu trang của bạn. Gửi các thẻ trên tất cả các thiết bị của bạn.
 firefox-mobile-android-only = Chỉ dành cho { -brand-name-android }
 firefox-mobile-make-android-your-own = Biến { -brand-name-android } thành của riêng bạn
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Tùy chỉnh trình duyệt di động { -brand-name-firefox } của bạn với <a href="{ $url }">tiện ích mở rộng</a> để chặn quảng cáo, quản lý mật khẩu, ngăn { -brand-name-facebook } theo dõi bạn và hơn thế nữa.
+firefox-mobile-customize-your-firefox-mobile-truncated = Tùy chỉnh trình duyệt di động { -brand-name-firefox } của bạn với các tiện ích mở rộng.
 firefox-mobile-find-it-fast-with-a-smart = Tìm kiếm nhanh với thanh tìm kiếm thông minh
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } dự đoán nhu cầu của bạn với các đề xuất tìm kiếm thông minh và truy cập nhanh vào các trang web bạn truy cập nhiều nhất.
 firefox-mobile-the-privacy-you-deserve-the = Sự riêng tư mà bạn xứng đáng. Tốc độ bạn cần.
