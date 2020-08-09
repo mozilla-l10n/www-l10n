@@ -38,11 +38,13 @@ firefox-desktop-download-os-availability = OS-tilgjengelegheit
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettlesaren
 firefox-desktop-download-master-password = Hovudpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
+firefox-desktop-download-ads-are-distracting = Annonsar er irriterande og gjer at nettsidene lastar tregare medan sporarar sporar aktivitetane dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt dei fleste av desse sporarane automatisk, utan at du treng å endre tryggingsinnstillingane dine.
 firefox-desktop-download-see-your-report = Sjå tryggingsrapporten din
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-available-in-over = Tilgjengeleg på over 90 språk og kompatibel med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }-maskiner, { -brand-name-firefox } fungerer same kva du brukar eller kvar du er. Forsikre deg om at operativsystemet ditt er oppdatert for best oppleving.
 firefox-desktop-download-review-system-req = Gå gjennom systemkrava
 firefox-desktop-download-all-your-devices = Legg til { -brand-name-firefox } på alle einingane dine
+firefox-desktop-download-take-your-privacy = Ta personvernet ditt med deg overalt. { -brand-name-firefox-browsers } for { -brand-name-ios } og { -brand-name-android } har dei same sterke personverninnstillingane for å hindre sporarar frå å spore aktivitetane dine på nettet, same kvar du er.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gjer <strong>alt</strong> med { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Søk smartare, raskare
