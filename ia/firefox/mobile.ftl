@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Discoperi le productos que te prote
 firefox-mobile-sync-your-history-passwords = Synchronisa tu chronologia, contrasignos e marcapaginas. Invia schedas inter tote tu apparatos.
 firefox-mobile-android-only = { -brand-name-android } solmente
 firefox-mobile-make-android-your-own = Personalisa tu { -brand-name-android }
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Personalisa tu navigator { -brand-name-firefox } mobile con <a href="{ $url }">extensiones</a> pro blocar annuncios, gerer contrasignos, impedir a { -brand-name-facebook } de traciar te, e multo plus.
+firefox-mobile-customize-your-firefox-mobile-truncated = Personalisa tu navigator mobile { -brand-name-firefox } con le extensiones.
 firefox-mobile-find-it-fast-with-a-smart = Trova lo rapidemente con un barra intelligente
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } anticipa tu besonios con suggestiones de recerca intelligente e accesso rapide al sitos que tu visita le plus.
 firefox-mobile-the-privacy-you-deserve-the = Protection del vita private. Elevation del velocitate.
