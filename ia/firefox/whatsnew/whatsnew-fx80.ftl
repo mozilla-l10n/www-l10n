@@ -11,4 +11,9 @@ whatsnew80-up-to-date-banner = Congratulationes! Tu usa le ultime version de { -
 # Main title
 whatsnew80-main-title = Fece quasi toto, ancora plus velocemente.
 whatsnew80-main-intro = Passa ab le computator al telephono sin perder un pulsation. Installa { -brand-name-firefox } mobile.
+whatsnew80-primary-cta-description = Insere tu email o numero de telephono pro obtener le ligamine de discargamento.
+# content buckets below hero
+whatsnew80-password-fatigue = Le stress per le contrasignos es real
+whatsnew80-privacy-you-never = Confidentialitate sin stress
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } mobile bloca automaticamente le major parte del avisos publicitarios traciatores online sin que tu debe modificar tu parametros de securitate.
 whatsnew80-new-firefox-android = Le nove { -brand-name-firefox } pro { -brand-name-android }
