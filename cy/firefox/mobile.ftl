@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Darganfyddwch gynnyrch sy'n eich ca
 firefox-mobile-sync-your-history-passwords = Cydweddwch eich hanes, cyfrineiriau, a nodau tudalen. Anfonwch dabiau at eich holl ddyfeisiau.
 firefox-mobile-android-only = { -brand-name-android } yn unig
 firefox-mobile-make-android-your-own = Eich { -brand-name-android } chi
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Cyfaddaswch eich porwr symudol { -brand-name-firefox } gydag <a href="{ $url }">estyniadau</a> i rwystro hysbysebion, rheoli cyfrineiriau, atal { -brand-name-facebook } rhag eich olrhain chi a mwy.
+firefox-mobile-customize-your-firefox-mobile-truncated = Cyfaddaswch eich porwr symudol { -brand-name-firefox } gydag estyniadau.
 firefox-mobile-find-it-fast-with-a-smart = Dewch o hyd iddo'n gyflym gyda'r bar chwilio clyfar
 firefox-mobile-firefox-anticipates-your-needs = Mae { -brand-name-firefox } yn rhagweld eich anghenion gydag awgrymiadau chwilio clyfar a mynediad cyflym i'r gwefannau rydych chi'n ymweld â nhw amlaf.
 firefox-mobile-the-privacy-you-deserve-the = Y preifatrwydd rydych chi'n ei haeddu. Y cyflymder sydd ei angen arnoch chi.
