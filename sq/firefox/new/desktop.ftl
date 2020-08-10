@@ -42,6 +42,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox }-i është për k
 firefox-desktop-download-available-in-over = Gati në mbi 90 gjuhë, dhe i përputhshëm me makina { -brand-name-windows }, { -brand-name-mac-short } dhe { -brand-name-linux }, { -brand-name-firefox } funksionon pavarësisht se ç’përdorni apo se ku ndodheni. Për funksionimin më të mirë, sigurohuni që sistemi juaj është i përditësuar.
 firefox-desktop-download-review-system-req = Shqyrtoni domosdoshmëri sistemi
 firefox-desktop-download-all-your-devices = Vëreni { -brand-name-firefox }-in në krejt pajisjet tuaja
+firefox-desktop-download-take-your-privacy = Kijeni privatësinë tuaj gjithmonë me vete. { -brand-name-firefox-browsers } për { -brand-name-ios } dhe { -brand-name-android } kanë të njëjtat rregullime privatësie të fuqishme për bllokim të ndjekjes tuaj nëpër internet nga gjurmuesit, pavarësisht se ku gjendeni.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Bëni <strong>gjithçka</strong> me { -brand-name-firefox }-in
 firefox-desktop-download-search-smarter = Kërkoni me më mençuri, më shpejt
@@ -53,6 +54,7 @@ firefox-desktop-download-boost-your = Fuqizoni prodhimtarinë tuaj
 firefox-desktop-download-works-with-google = Funksionon me produkte { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Mjet i brendshëm fotografimi ekrani
 firefox-desktop-download-bookmarks-manager = Përgjegjës faqerojtësish
+firefox-desktop-download-autosuggest-urls = URL vetësugjerimesh
 firefox-desktop-download-sync-across-devices = Njëkohësim mes pajisjesh
 firefox-desktop-download-reader-mode = Mënyra Lexues
 firefox-desktop-download-spell-check = Kontroll drejtshkrimi
@@ -62,6 +64,7 @@ firefox-desktop-download-stream-share-play = Transmetoni, ndani me të tjerë dh
 firefox-desktop-download-block-autoplay-of = Bllokoni Vetëluajtje videosh & audio
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-curated-content-on = Lëndë e posaçme në skedë të re
 firefox-desktop-download-share-links = Ndani lidhje me të tjerët
 firefox-desktop-download-protect-your-privacy = Mbroni privatësinë tuaj
 firefox-desktop-download-third-party-cookie = Bllokim Cookie-sh Palësh të Treta
@@ -70,6 +73,8 @@ firefox-desktop-download-cryptominer-blocking = Bllokim Nxjerrësish Kriptomoned
 firefox-desktop-download-private-browsing-mode = Mënyra Shfletim Privat
 firefox-desktop-download-individual-protections-report = Raport individual mbrojtjesh
 firefox-desktop-download-secure-your-personal = Siguroni të dhënat tuaja personale
+firefox-desktop-download-breached-website-alerts = Sinjalizime cenimesh sajti
+firefox-desktop-download-built-in-password = Përgjegjës i brendshëm fjalëkalimesh
 firefox-desktop-download-clear-history = Spastroni historikun
 firefox-desktop-download-form-autofill = Vetëplotësim formularësh
 firefox-desktop-download-automatic-updates = Përditësime të vetvetishme
@@ -82,19 +87,30 @@ firefox-desktop-download-change-new-tab = Ndryshoni skemë skede të re
 firefox-desktop-download-make-firefox-your = Bëjeni <strong>{ -brand-name-firefox }</strong>-in tuaj
 firefox-desktop-download-extensions-for-every = Zgjerime për çdo interes
 firefox-desktop-download-change-up-your = Ndryshoni pamjen tuaj
+firefox-desktop-download-go-from-light = Kaloni nga mënyra e çelët në atë të errët, sipas qejfit ose parapëlqimeve tuaja, ose gjallërojini gjërat me një temë vetjake (njëbrirësh ylberi, ndoshta).
 firefox-desktop-download-tweak-your-settings = Përimtoni rregullimet tuaja
+firefox-desktop-download-theres-no-need = S’ka pse zini myk. Ndryshoni faqen për skedë të rem shtyllën e kërkimeve, faqerojtësit e plot gjëra të tjera, që ta eksploroni internetin sipas mënyrës që doni.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Duke patur pas <strong>entin jofitimprurës</strong> që vë njerëzit mbi gjithçka
 firefox-desktop-download-challenging-the-status = Duke sfiduar status quo-në që prej 1998-s
 firefox-desktop-download-your-privacy-comes = E para është privatësia juaj
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Mbani krejt veçoritë tuaja të dashura të shfletuesit — dhe <strong>zbuloni</strong> të reja.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Krejt mjetet tuaja { -brand-name-google } të parapëlqyera (bie fjala, Gmail dhe Docs) funksionojnë pa një cen në { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Shkarkoni këtë zgjerim shfletuesi</a> që të ndalni ndjekjen tuaj nëpër internet nga { -brand-name-facebook } (dhe { -brand-name-instagram }).
 firefox-desktop-download-sync-your-devices = Njëkohësoni pajisjet tuaja
 firefox-desktop-download-screenshots = Foto ekrani
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimi (ETP)
+firefox-desktop-download-from-watching-a = Nga ndjekja e një përkujdesoreje web dhe deri te ndjekja e ekipit tuaj të zemrës, videot ju ndjekin teksa merreni me shumë gjëra njëherësh.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Merrni { -brand-name-firefox-browser }-in për <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Merrni { -brand-name-firefox-browser }-in për <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Për mbrojtje të automatizuar në krejt pajisjet tuaja shkarkoni { -brand-name-firefox }.
 firefox-desktop-download-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
