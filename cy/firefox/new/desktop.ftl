@@ -88,7 +88,7 @@ firefox-desktop-download-adjust-search-bar = Addasu gosodiadau'r bar chwilio
 firefox-desktop-download-change-new-tab = Newid cynllun tab newydd
 firefox-desktop-download-make-firefox-your = Gwnewch eich hun yn gartrefol yn y <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Estyniadau ar gyfer pob diddordeb
-firefox-desktop-download-change-up-your = Newid eich golwg
+firefox-desktop-download-change-up-your = Newid eich edrychiad
 firefox-desktop-download-go-from-light = Mynd o'r modd golau i'r modd tywyll yn dibynnu ar eich hwyliau neu'ch dewis, neu fywiogi pethau gyda thema arfer (uncorn enfys, efallai).
 firefox-desktop-download-tweak-your-settings = Addasu eich gosodiadau
 firefox-desktop-download-theres-no-need = Does dim angen bodloni. Gallwch newid y dudalen tab newydd, bar chwilio, nodau tudalen a mwy i grwydro'r rhyngrwyd yn y ffordd rydych chi ei eisiau.
@@ -103,7 +103,7 @@ firefox-desktop-download-all-your-favourite = Mae'ch holl hoff offer { -brand-na
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs }> Llwythwch i lawr yr estyniad porwr hwn </a> i atal { -brand-name-facebook } (a { -brand-name-instagram }) rhag eich tracio o amgylch y we.
+firefox-desktop-download-download-this-browser = <a { $attrs }> Llwythwch i lawr yr estyniad porwr hwn </a> i atal { -brand-name-facebook } (ac { -brand-name-instagram }) rhag eich tracio o amgylch y we.
 firefox-desktop-download-sync-your-devices = Cydweddwch eich dyfeisiau
 firefox-desktop-download-screenshots = Lluniau Sgrin
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -129,7 +129,7 @@ firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae 
 firefox-desktop-download-firefox-is-available = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, hanes a nodau tudalen gyda chi. Y cyfan sydd ei angen yw cyfrif <a { $attrs }>{ -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Cipiwch delwedd cydraniad uchel o unrhyw beth ar-lein gyda'n teclyn <a { $attrs }>llun sgrin</a> wedi'i adeiladu o fewn y porwr
+firefox-desktop-download-grab-a-high = Cipiwch ddelwedd cydraniad uchel o unrhyw beth ar-lein gyda'n teclyn <a { $attrs }>llun sgrin</a> wedi'i adeiladu o fewn y porwr
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn rhwystro'n awtomatig llawer o <a { $attrs }>dracwyr trydydd parti</a> rhag casglu a gwerthu eich gweithgaredd gwe.
