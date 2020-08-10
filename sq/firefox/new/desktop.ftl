@@ -19,6 +19,10 @@ firefox-desktop-download-download-options = Mundësi shkarkimi dhe gjuhë të tj
 firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> { -brand-name-firefox-browser } <strong>s’ju</strong> vëzhgon.
+firefox-desktop-download-how-firefox-compares = Si del { -brand-name-firefox } në krahasim me shfletues të tjerë
+firefox-desktop-download-get-all-the-speed = Përfitoni krejt shpejtësinë dhe mjetet pa asnjë prej shkeljeve të privatësisë. { -brand-name-firefox-browser } grumbullon kaq pak të dhëna rreth jush, sa as që ju kërkojmë adresë email për ta shkarkuar. Kjo vjen ngaqë, ndryshe nga shfletues të tjerë, s’kemi interesa financiare për ndjekjen tuaj nëpër internet.
+firefox-desktop-download-how-we-compare = Si dalim në krahasim me shfletues të tjerë
+firefox-desktop-download-compare-firefox-to = Krahasojeni { -brand-name-firefox }-in me:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -32,8 +36,10 @@ firefox-desktop-download-os-availability = Pasje në OS
 firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda shfletuesit
 firefox-desktop-download-master-password = Fjalëkalim i përgjithshëm
 firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju eksploroni internetin më shpejt.
+firefox-desktop-download-ads-are-distracting = Reklamat të tërheqin vëmendjen dhe bëjnë që faqet web të ngarkohen më ngadalë, teksa gjurmuesit që përmbajnë ndjekin çdo lëvizje që bëni në internet. { -brand-name-firefox-browser }-i bllokon automatikisht shumicën e gjurmuesve, ndaj s’keni pse të zhyteni në rregullimet tuaja të sigurisë.
 firefox-desktop-download-see-your-report = Shihni raportim tuaj të mbrojtjes
 firefox-desktop-download-for-everyone = { -brand-name-firefox }-i është për këdo
+firefox-desktop-download-available-in-over = Gati në mbi 90 gjuhë, dhe i përputhshëm me makina { -brand-name-windows }, { -brand-name-mac-short } dhe { -brand-name-linux }, { -brand-name-firefox } funksionon pavarësisht se ç’përdorni apo se ku ndodheni. Për funksionimin më të mirë, sigurohuni që sistemi juaj është i përditësuar.
 firefox-desktop-download-review-system-req = Shqyrtoni domosdoshmëri sistemi
 firefox-desktop-download-all-your-devices = Vëreni { -brand-name-firefox }-in në krejt pajisjet tuaja
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
