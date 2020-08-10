@@ -111,6 +111,29 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Merrni { -brand-name-firefox-browser }-in për <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Merrni { -brand-name-firefox-browser }-in për <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Për mbrojtje të automatizuar në krejt pajisjet tuaja shkarkoni { -brand-name-firefox }.
+firefox-desktop-download-learn-about-the = Mësoni më tepër rreth shfletuesit { -brand-name-firefox } për desktop, më poshtë
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Nga siguria te lajmet, e më tej te lojërat, ka një <a { $attrs }>zgjerim për këdo</a>. Shtoni aq sa doni, derisa shfletuesi juaj të jetë si e doni.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } u krijua nga <a { $attrs }>{ -brand-name-mozilla }</a> si një alternativë më e shpejtë, më private ndaj shfletuesish të tillë si { -brand-name-ie }, dhe tani { -brand-name-chrome }. Sot, shoqëria jonë edhe bashkësia e vullnetarëve të shtyrë përpara nga një mision vazhdojnë ta vënë privatësinë tuaj mbi gjithçka.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Teksa interneti rritet dhe ndryshon, { -brand-name-firefox } vazhdon të përqendrohet te e drejta juaj për privatësi  — e quajmë <a { $attrs }>Premtimi rreth të Dhënave Personale</a>: Merr më pak. Mbaji të parrezikuara. Pa të fshehta. Të dhënat tuaja, veprimtaria juaj në internet, jeta juaj internetore janë të mbrojtura me { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } është i gatshëm për krejt pajisjet tuaja; merrni me vete skedat tuaja, historikun dhe faqerojtësit tuaj. Krejt çka ju duhet është një <a llogari { $attrs }>{ -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Përlani një figurë me qartësi të madhe të çfarëdo gjëje në internet, me mjetin tonë për <a { $attrs }>foto ekrani</a> të krijuar drejt e brenda shfletuesit
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>bllokon automatikisht mjaft gjurmues palësh të treta</a> të grumbullojnë dhe shesin të dhëna rreth veprimtarisë tuaj internetore.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Pyetje? Mbulohen për ju nga <a { $attrs }>asistenca e { -brand-name-mozilla }</a>.
 firefox-desktop-download-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
