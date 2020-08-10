@@ -15,6 +15,10 @@ firefox-desktop-download-og-title = Shkarkoni { -brand-name-firefox }-in më të
 firefox-desktop-download-og-desc = Ngarkim më i shpejtë faqesh, përdorim më i pakët i kujtesës dhe plot me veçori, { -brand-name-firefox }-i i ri erdhi.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Merrni shfletuesin që mbron çka është e rëndësishme
+firefox-desktop-download-download-options = Mundësi shkarkimi dhe gjuhë të tjera
+firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> { -brand-name-firefox-browser } <strong>s’ju</strong> vëzhgon.
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }

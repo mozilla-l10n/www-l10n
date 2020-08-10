@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Zbuloni produkte që ju mbajnë të
 firefox-mobile-sync-your-history-passwords = Njëkohësoni historikun, fjalëkalimet dhe faqerojtësit tuaj. Dërgoni skeda nëpër krejt pajisjet tuaja.
 firefox-mobile-android-only = Vetëm për { -brand-name-android }
 firefox-mobile-make-android-your-own = Bëjeni { -brand-name-android }-in si e doni
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Përshtateni shfletuesin tuaj { -brand-name-firefox } për celular me <a href="{ $url }">zgjerime</a> për të bllkokuar reklama, administruar fjalëkalime, ndalur gjurmimin tuaj nga { -brand-name-facebook }-u, etj.
+firefox-mobile-customize-your-firefox-mobile-truncated = Përshtateni me zgjerime shfletuesin tuaj për celular { -brand-name-firefox }.
 firefox-mobile-find-it-fast-with-a-smart = Gjejeni shpejt, me një shtyllë të mençur kërkimesh
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox }-i u paraprin nevojave tuaj me sugjerime të mençura kërkimi dhe hyrje të shpejtë te sajtet që vizitoni më shumë.
 firefox-mobile-the-privacy-you-deserve-the = Privatësi që meritoni. Shpejtësia që ju duhet.
