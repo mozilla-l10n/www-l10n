@@ -19,3 +19,9 @@ welcome-page1-stay-ahead-of-hackers = Mantenha-se à frente dos piratas informá
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
 welcome-page1-find-ways-to-protect-your = Encontre formas de proteger as suas informações com as <a href="{ $security_tips }">dicas de segurança do { -brand-name-monitor }</a>.
+welcome-page1-stay-in-the-know = Mantenha-se informado
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Você foi um dos 100.985.047 convidados para a <a href="{ $evite_breach }">“festa” de como evitar a violação de dados</a>?
+welcome-page1-why-am-i-seeing-this = Porque estou a ver isto?
