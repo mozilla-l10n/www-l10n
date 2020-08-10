@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = आपकी गोपनीयता की सुरक्षा का एक उपाय है। { -brand-name-firefox } से जुड़ें।
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Firefox खाता बनाएं – अपने डेटा को निजी, सुरक्षित तथा हमेशा सिंक रखें।
+firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } प्राप्त करें – अपने डेटा को निजी, सुरक्षित एवं सिंक रखें
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = ऐसी इंडस्ट्री जो आपके डेटा को तृतीय पार्टी को बेचती है उनके खिलाफ आवाज़ उठाएं। वह तकनीक जो आपके लिए आवाज़ उठाती है उसके साथ ऑनलाइन स्मार्ट तथा सुरक्षित रहें।
 # Old HTML page description

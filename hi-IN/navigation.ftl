@@ -3,15 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } डाउनलोड करें
-navigation-get-a-firefox-account = एक Firefox खाता पाएँ
-navigation-firefox-browser-for-desktop = डेस्कटॉप के लिए Firefox ब्राउज़र
-navigation-firefox-browser-for-mobile = मोबाइल के लिए Firefox ब्राउज़र
-navigation-download-for-ios = IOS के लिए डाउनलोड करें
-navigation-download-for-android = एंड्राइड के लिए डाउनलोड करें
+navigation-get-a-firefox-account = { -brand-name-firefox-account } प्राप्त करें
+navigation-firefox-browser-for-desktop = डेस्कटॉप के लिए { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = मोबाइल के लिए { -brand-name-firefox-browser }
+navigation-download-for-ios = { -brand-name-ios } के लिए डाउनलोड करें
+navigation-download-for-android = { -brand-name-android } के लिए डाउनलोड करें
 navigation-ios-support = { -brand-name-ios } समर्थन
 navigation-android-support = { -brand-name-android } समर्थन
-navigation-firefox-browser-for-enterprise = उद्योग के लिए Firefox ब्राउज़र
-navigation-firefox-for-fire-tv = फायर टीवी के लिए { -brand-name-firefox }
+navigation-firefox-browser-for-enterprise = एंटरप्राइज के लिए { -brand-name-firefox-browser }
+navigation-firefox-for-fire-tv = { -brand-name-fire-tv } के लिए { -brand-name-firefox }
 navigation-watch-videos-and-browse = अपने { -brand-name-amazon } { -brand-name-fire-tv } पर वीडियो देखें और इंटरनेट ब्राउज़ करें।
 navigation-firefox-browsers-put = { -brand-name-firefox } ब्राउज़र आपकी गोपनीयता को सबसे पहले रखता है — और हमेशा रखते आया है।
 navigation-join-firefox = { -brand-name-firefox } में शामिल हों
