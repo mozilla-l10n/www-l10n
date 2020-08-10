@@ -16,3 +16,6 @@ whatsnew80-primary-cta-description = Especifique o seu e-mail ou número de tele
 whatsnew80-password-fatigue = O cansaço de palavras-passe é real
 whatsnew80-the-average-person = Um pessoa comum tem, em média, 130 contas na Internet. O { -brand-name-firefox } para dispositivos móveis memoriza e armazena, com segurança, as suas palavras-passe entre dispositivos sincronizados, para que você possa iniciar sessão com apenas um clique.
 whatsnew80-privacy-you-never = Privacidade para que você nunca tenha que refletir
+whatsnew80-firefox-for-mobile = O { -brand-name-firefox } para dispositivos móveis bloqueia automaticamente a maioria dos rastreadores de anúncios na Internet, então não há necessidade de ter de esmiuçar as suas definições de segurança.
+whatsnew80-new-firefox-android = O novo { -brand-name-firefox } para o { -brand-name-android }
+whatsnew80-our-latest-version = A nossa versão mais recente do { -brand-name-firefox } apresenta carregamentos de páginas extremamente rápidos e um novo design que torna mais simples realizar mais tarefas, com maior rapidez.
