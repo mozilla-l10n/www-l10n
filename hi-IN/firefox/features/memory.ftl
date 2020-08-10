@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox ब्राउज़र: कम मेमोरी का उपयोग करें, अधिक गति प्राप्त करें.
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: कम मेमोरी का उपयोग करें, अधिक गति प्राप्त करें
 # HTML page description
 features-memory-is-your-computer-slow-your = क्या आपका कंप्यूटर धीमा है? हो सकता है आपका ब्राउज़र अत्यधिक मेमोरी का उपयोग कर रहा है. अधिक गति के लिए आज ही { -brand-name-firefox } पर स्विच करें.
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome } की तुलना में कम मेमोरी का उपयोग करता है

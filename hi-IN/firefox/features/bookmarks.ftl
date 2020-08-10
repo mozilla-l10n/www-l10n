@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox ब्राउज़र: बेहतर पुस्तचिह्न जहाँ भी आप जाएँ
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: बेहतर बुकमार्क जहां भी आप जाएं
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = आसानी से अपने पुस्तचिह्न को फोल्डर में संगठित करें और अपने सभी युक्तियों पर उन्हें ऐक्सेस करें, डेस्कटॉप से मोबाइल तक.
 features-bookmarks-better-bookmarks = बेहतर पुस्तचिह्न
