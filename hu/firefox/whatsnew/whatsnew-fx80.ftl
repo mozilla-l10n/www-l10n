@@ -12,6 +12,8 @@ whatsnew80-up-to-date-banner = Gratulálunk! A legfrissebb { -brand-name-firefox
 whatsnew80-main-title = Csináljon szinte bármit, egy kicsit még gyorsabban
 whatsnew80-main-intro = Váltson számítógépről telefonra anélkül, hogy bármiről is lemaradna. Szerezze be mobilra is a { -brand-name-firefox }ot.
 whatsnew80-primary-cta-description = A letöltési hivatkozáshoz adja meg e-mail-címét vagy telefonszámát
+# content buckets below hero
+whatsnew80-password-fatigue = A jelszavak okozta frusztráció valós probléma
 whatsnew80-the-average-person = Egy átlagos embernek 130 online fiókja van. A mobilra készült { -brand-name-firefox } biztonságosan megjegyzi és tárolja a jelszavait a szinkronizált eszközei közt, így bejelentkezhet egyetlen kattintással.
 whatsnew80-privacy-you-never = Adatvédelem, amin nem kell gondolkodnia
 whatsnew80-firefox-for-mobile = A mobilos { -brand-name-firefox } automatikusan blokkolja a legtöbb online hirdetéskövetőt, így nem kell magát beleásnia a biztonsági beállításokba.
