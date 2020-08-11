@@ -37,6 +37,12 @@ firefox-desktop-download-all-your-devices = Err { -brand-name-firefox } deg me�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Eg-it <strong>akk</strong> akked { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Anadi uḥric, arurad
+firefox-desktop-download-search-from-address = Anadi seg ufeggag n tansiwin
+firefox-desktop-download-search-engine-options = Tixtiṛiyin n umsedday n unadi
+firefox-desktop-download-smart-search-suggestions = Isumar n unadi uḥric
+firefox-desktop-download-bookmark-history = Tacreḍt n usebter, amazray d yiccer yeldin deg yigmaḍ
+firefox-desktop-download-boost-your = Sseǧhed tiffursa-inek·inem
+firefox-desktop-download-works-with-google = Teddun s yifarisen n { -brand-name-google }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
