@@ -87,6 +87,8 @@ firefox-desktop-download-change-up-your = Emoambue nde reko
 firefox-desktop-download-go-from-light = Ehasa tesakã rekógui ypytũva rekópe reimeháicha térã erohoryháicha, térã embovy’a peteĩ téma momba’etévape (ikatúva unicornio arcoíris).
 firefox-desktop-download-tweak-your-settings = Emoiporã ne ñemboheko
 firefox-desktop-download-theres-no-need = Ani eñeme’ẽ. Emombue kuatiarogue hendayke pyahúva, jehekaha renda, techaukaha ha hetave eikekuaa hag̃ua ñandutípe eipotaháicha.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Oykekóva <strong>atyguasu viru’ỹguáva</strong> omotenondéva tapichápe
 firefox-desktop-download-your-privacy-comes = Ne ñemigua oĩ tenonderã
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Embojuehe ne mba’e’okakuéra
