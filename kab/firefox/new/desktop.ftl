@@ -63,6 +63,14 @@ firefox-desktop-download-fingerprinter-blocking = Asewḥel n udsil umḍin
 firefox-desktop-download-private-browsing-mode = Askar n tunigin tusligt
 firefox-desktop-download-individual-protections-report = Aneqqis n ummesten udmawan
 firefox-desktop-download-dark-mode = Askar aberkan
+firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
+firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Sader kan iminig
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Qrib ad tawḍeḍ!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Tura fakk <strong>asali</strong> n { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Tura <strong>selkem</strong> amsebdad i d-tsuliḍ kan akka tura.

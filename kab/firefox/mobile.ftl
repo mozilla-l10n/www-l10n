@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Wali ifarisen ara k-yeǧǧen d aɣe
 firefox-mobile-sync-your-history-passwords = Mtawi azray-ik, awalen-ik uffiren, akked ticraḍ n yisebtar. Azen iccaren-ik seg yibenk ɣer wayeḍ.
 firefox-mobile-android-only = { -brand-name-android } kan
 firefox-mobile-make-android-your-own = Err { -brand-name-android } akken tebɣiḍ
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Mudd udem i { -brand-name-firefox } aziraz s <a href="{ $url }">yisiɣzaf</a> akked ad tesweḥleḍ adellel, ad tesferke²ḍ awalen uffiren ad tesḥebseḍ { -brand-name-facebook } sef uḍfaṛ d wayen-nniḍen.
+firefox-mobile-customize-your-firefox-mobile-truncated = Sagen iminig-inek·inem n uziraz { -brand-name-firefox } s yiseɣzaf.
 firefox-mobile-find-it-fast-with-a-smart = Af-d s zreb s ufeggag n unadi uḥric
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } izeggar ɣer zdat tifin n wayen tesriḍ s yisumar uḥricen ara k-yeǧǧen ad tkecmeḍ s zreb ɣer yismal iɣer trezzuḍ aṭas.
 firefox-mobile-the-privacy-you-deserve-the = Aqadeṛ n tudert tabaḍnit i tuklaleḍ. Arured i ak-ilaqen.

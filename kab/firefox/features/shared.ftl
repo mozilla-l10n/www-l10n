@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Tarmit ifazen n internet
+features-shared-more-firefox-features = Ugar n tmahilin n yiminig { -brand-name-firefox }
 features-shared-browse-faster = Inig s zzerb
 features-shared-your-favorite-extensions = Iseɣzaf-inek·inem ufrinen
 features-shared-balanced-memory = Takatut tettwasemnekni
