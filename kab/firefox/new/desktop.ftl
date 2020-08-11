@@ -55,11 +55,13 @@ firefox-desktop-download-stream-share-play = Zuzer, bḍu rnu urar
 firefox-desktop-download-block-autoplay-of = Sewḥel taɣri tawurmant n tvidyut d umeslaw
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Tugna-deg-tugna
+firefox-desktop-download-curated-content-on = Agbur yettuṣeggmen deg yiccer amaynut
 firefox-desktop-download-share-links = Bḍu iseɣwan
 firefox-desktop-download-protect-your-privacy = Mmesten tabaḍnit-ik·im
 firefox-desktop-download-third-party-cookie = Asewḥel n yinagan n tuqqna n wis kraḍ
 firefox-desktop-download-fingerprinter-blocking = Asewḥel n udsil umḍin
 firefox-desktop-download-private-browsing-mode = Askar n tunigin tusligt
+firefox-desktop-download-individual-protections-report = Aneqqis n ummesten udmawan
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
