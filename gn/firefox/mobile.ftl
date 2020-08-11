@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Ehecha umi apopyre nemohekorosãva
 firefox-mobile-sync-your-history-passwords = Embojuehe ne rembiasakue, ñe’ẽñemi ha techaukaha. Emondo tendayke opaite ne mba’e’oka rupive.
 firefox-mobile-android-only = { -brand-name-android } peg̃uarã año
 firefox-mobile-make-android-your-own = Eñemomba’e { -brand-name-android } rehe
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Eñemomba’e nde { -brand-name-firefox } kundaha pumbyrygua <a href="{ $url }">jepysokue</a> ndive ejoko hag̃ua ñemurã, ñe’ẽñemi ñangareko, emboyke { -brand-name-facebook } ani nde rapykueho ha hetave.
+firefox-mobile-customize-your-firefox-mobile-truncated = Eñemomba’ete ne pumbyry kundahára { -brand-name-firefox } jepysokue ndive.
 firefox-mobile-find-it-fast-with-a-smart = Eheka pya’e jehekaha renda ha’evévape
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } omotenonde nde remikotevẽ jeheka ha’evéva ha jeike pya’e umi tenda eikevehápe.
 firefox-mobile-the-privacy-you-deserve-the = Ñemigua ndereheguáva. Pya’kue eikotevẽva.

@@ -84,6 +84,7 @@ firefox-desktop-download-change-new-tab = Emoambue tendayke pyahu ra’ãnga
 firefox-desktop-download-make-firefox-your = Eguereko <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Jepysokue opavavetépe g̃uarã
 firefox-desktop-download-change-up-your = Emoambue nde reko
+firefox-desktop-download-go-from-light = Ehasa tesakã rekógui ypytũva rekópe reimeháicha térã erohoryháicha, térã embovy’a peteĩ téma momba’etévape (ikatúva unicornio arcoíris).
 firefox-desktop-download-tweak-your-settings = Emoiporã ne ñemboheko
 firefox-desktop-download-your-privacy-comes = Ne ñemigua oĩ tenonderã
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
