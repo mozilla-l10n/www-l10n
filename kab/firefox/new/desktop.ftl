@@ -14,7 +14,29 @@ firefox-desktop-download-download-options = Sader iɣewwaṛen d tutlayin-nniḍ
 firefox-desktop-download-browser-support = Asefrek { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Xdem ayen tebɣiḍ srid. <br> { -brand-name-firefox-browser } <strong>ur d-yettwali ara</strong>.
+firefox-desktop-download-how-firefox-compares = Amek yesserwas { -brand-name-firefox } d yiminigen-nniḍen
 firefox-desktop-download-how-we-compare = Amek i nesserwas ɣer yiminigen-nniḍen
+firefox-desktop-download-compare-firefox-to = Serwes { -brand-name-firefox } d:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Ih
+firefox-desktop-download-no = Uhu
+firefox-desktop-download-blocks-third-party = Yessewḥal inagan n tuqqna n uḍfar n wis kraḍ
+firefox-desktop-download-autoplay-blocking = Asewḥel n tɣuri tawurmant
+firefox-desktop-download-blocks-social-trackers = Yessewḥal ineḍfaren n yizeḍwan inmettiyen
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Tilin n unagraw n wammud
+firefox-desktop-download-in-browser-screenshot = Afecku n tuṭṭfa n ugdil deg yiminig
+firefox-desktop-download-master-password = Awal uffir agejdan
+firefox-desktop-download-we-block-the-ad = Nessewḥal ineḍfaren n udellel. Kečč·kemm tesnirimeḍ internet s urured.
+firefox-desktop-download-see-your-report = Wali aneqqis-inek·inem n tɣellist
+firefox-desktop-download-for-everyone = { -brand-name-firefox } i yal yiwen
+firefox-desktop-download-review-system-req = Senqed isuturen n unagraw
+firefox-desktop-download-all-your-devices = Err { -brand-name-firefox } deg meṛṛa ibenkan-inek·inem
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Eg-it <strong>akk</strong> akked { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Anadi uḥric, arurad
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
