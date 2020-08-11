@@ -62,6 +62,7 @@ firefox-desktop-download-third-party-cookie = Asewḥel n yinagan n tuqqna n wis
 firefox-desktop-download-fingerprinter-blocking = Asewḥel n udsil umḍin
 firefox-desktop-download-private-browsing-mode = Askar n tunigin tusligt
 firefox-desktop-download-individual-protections-report = Aneqqis n ummesten udmawan
+firefox-desktop-download-dark-mode = Askar aberkan
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
