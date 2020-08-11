@@ -91,12 +91,20 @@ firefox-desktop-download-theres-no-need = Ani eñeme’ẽ. Emombue kuatiarogue 
 firefox-desktop-download-backed-by-the = Oykekóva <strong>atyguasu viru’ỹguáva</strong> omotenondéva tapichápe
 firefox-desktop-download-challenging-the-status = Ndokyhyjéi status quo-gui 1998 guive
 firefox-desktop-download-your-privacy-comes = Ne ñemigua oĩ tenonderã
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Erekopa kundahára rembiapoite erohoryvéva <strong>ehecha ambuéva</strong> ipyahúva.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Embojuehe ne mba’e’okakuéra
 firefox-desktop-download-screenshots = Mba’erechaha jejapyhy
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-android } peg̃uarã</strong>
 firefox-desktop-download-get-firefox-ios = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-ios } peg̃uarã</strong>
+firefox-desktop-download-learn-about-the = Eikuave { -brand-name-firefox } kundahára mesa arigua rehegua
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
 firefox-desktop-download-get-more-from-firefox = Eipuruvéke { -brand-name-firefox }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
