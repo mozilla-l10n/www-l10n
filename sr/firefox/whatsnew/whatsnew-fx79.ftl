@@ -7,3 +7,5 @@
 
 # HTML page title
 whatsnew79-page-title = Шта има ново у { -brand-name-firefox }-у
+# Main title
+whatsnew79-main-title = Чувајте ваше податке приватним од свију – чак и нас
