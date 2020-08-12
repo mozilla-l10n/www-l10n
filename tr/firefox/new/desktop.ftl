@@ -39,8 +39,18 @@ firefox-desktop-download-all-your-devices = { -brand-name-firefox }’u tüm cih
 firefox-desktop-download-bookmarks-manager = Yer imi yöneticisi
 firefox-desktop-download-reader-mode = Okuyucu modu
 firefox-desktop-download-spell-check = Yazım denetimi
+firefox-desktop-download-private-browsing-mode = Gizli gezinti modu
+firefox-desktop-download-individual-protections-report = Bireysel koruma raporu
+firefox-desktop-download-secure-your-personal = Kişisel bilgilerinizin güvenliğini sağlayın
+firefox-desktop-download-breached-website-alerts = Veri ihlaline uğrayan web sitesi uyarıları
+firefox-desktop-download-built-in-password = Yerleşik parola yöneticisi
+firefox-desktop-download-form-autofill = Otomatik form doldurma
+firefox-desktop-download-automatic-updates = Otomatik güncellemeler
 firefox-desktop-download-themes = Temalar
 firefox-desktop-download-dark-mode = Koyu mod
+firefox-desktop-download-library-of-extensions = Eklenti kitaplığı
+firefox-desktop-download-tweak-your-settings = Ayarlarınızı değiştirin
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
