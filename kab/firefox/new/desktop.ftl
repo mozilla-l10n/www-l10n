@@ -63,6 +63,7 @@ firefox-desktop-download-fingerprinter-blocking = Asewḥel n udsil umḍin
 firefox-desktop-download-cryptominer-blocking = Asewḥel n ukripṭuminar
 firefox-desktop-download-private-browsing-mode = Askar n tunigin tusligt
 firefox-desktop-download-individual-protections-report = Aneqqis n ummesten udmawan
+firefox-desktop-download-secure-your-personal = Ḥrez talɣut-ik·im tudmawant
 firefox-desktop-download-dark-mode = Askar aberkan
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
 firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
