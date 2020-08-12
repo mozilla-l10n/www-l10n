@@ -9,3 +9,6 @@
 whatsnew79-page-title = Шта има ново у { -brand-name-firefox }-у
 # Main title
 whatsnew79-main-title = Чувајте ваше податке приватним од свију – чак и нас
+whatsnew79-main-intro = Интернет треба да буде сигурно место за све. Због тога вас { -brand-name-firefox } не прати по мрежи и спречава остале да исто то раде.
+# Main CTA button
+whatsnew79-primary-cta = Поставите { -brand-name-firefox } за подразумевани прегледач
