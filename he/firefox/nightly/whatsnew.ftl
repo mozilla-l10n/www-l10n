@@ -23,5 +23,5 @@ nightly-whatsnew-if-you-want-to = אם ברצונך לדעת מה קורה סב�
 nightly-whatsnew-want-to-know-which = רוצה לדעת אילו תכונות אפשר לנסות ב־{ -brand-name-nightly } שלא ניתן לראות עדיין בערוצי { -brand-name-firefox } אחרים? בדף <a href="{ $mdn }">Experimental Features</a> שב־<abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr> ניתן לקבל מידע נוסף.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = נתקלת בקריסות? התנהגות בלתי צפויה? נסיגה בתאימות האתרים? נשמח לקבלל ממך דיווח על כך דרך <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> כדי לוודא שהתנהגות זו לא תזלוג למהדורה הסופית (בונוס קארמה לאלו שיוסיפו את מילת המפתח <em>{ -brand-name-nightly }-community</em> לדיווחי התקלות שלהם)!
+nightly-whatsnew-do-you-experience = נתקלת בקריסות? התנהגות בלתי צפויה? נסיגה בתאימות האתרים? נשמח לקבל ממך דיווח על כך דרך <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> כדי לוודא שהתנהגות זו לא תזלוג למהדורה הסופית (בונוס קארמה לאלו שיוסיפו את מילת המפתח <em>{ -brand-name-nightly }-community</em> לדיווחי התקלות שלהם)!
 nightly-whatsnew-go-community = כל הכבוד לקהילה!
