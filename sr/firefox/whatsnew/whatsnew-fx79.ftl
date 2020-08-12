@@ -29,3 +29,11 @@ whatsnew79-take-less-keep-it-safe = Узми мање. Чувај више. Бе
 # CTA link
 whatsnew79-read-more = Прочитајте више
 whatsnew79-keep-facebook-contained = Држите { -brand-name-facebook } под контролом
+whatsnew79-get-the-power-to-prevent = Омогућите себи да { -brand-name-facebook } и { -brand-name-instagram } не прате ваше радње на мрежи.
+# CTA link
+whatsnew79-add-facebook-container = Додајте { -brand-name-facebook-container }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Преузмите { -brand-name-firefox } на ваш телефон
+whatsnew79-scan-the-qr-code = Скенирајте QR код да бисте почели
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = { -brand-name-firefox } QR код за скенирање
