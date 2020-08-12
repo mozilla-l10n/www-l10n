@@ -52,6 +52,8 @@ firefox-desktop-download-library-of-extensions = Eklenti kitaplığı
 firefox-desktop-download-tweak-your-settings = Ayarlarınızı değiştirin
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
+firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
