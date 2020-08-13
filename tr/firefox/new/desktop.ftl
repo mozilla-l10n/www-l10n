@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = { -brand-name-firefox-browser }’u indir — Hızlı, gizlilik yanlısı ve ücretsiz — { -brand-name-mozilla }’dan
+firefox-desktop-download-meta-title = { -brand-name-firefox-browser }nı indir — Hızlı, gizlilik yanlısı ve ücretsiz — { -brand-name-mozilla }’dan
 firefox-desktop-download-meta-desc = Ücretsiz web tarayıcısı { -brand-name-firefox }'u indirin. Sağlıklı bir internet ve gizliliğiniz için çalışan, kâr amacı gütmeyen { -brand-name-mozilla }'dan. { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } ve { -brand-name-ios }'te.
 firefox-desktop-download-og-title = Bugüne kadarki en hızlı { -brand-name-firefox }’u indirin
 firefox-desktop-download-og-desc = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox } burada.
@@ -90,12 +90,15 @@ firefox-desktop-download-make-firefox-your = Bu <strong>{ -brand-name-firefox }<
 firefox-desktop-download-extensions-for-every = Her ilgi alanına hitap eden eklentiler
 firefox-desktop-download-change-up-your = Görünüşü değiştirin
 firefox-desktop-download-tweak-your-settings = Ayarlarınızı değiştirin
+firefox-desktop-download-theres-no-need = Yerleşmeye gerek yok. İnterneti istediğiniz gibi keşfetmek için yeni sekme sayfasını, arama çubuğunu, yer imlerini ve daha fazlasını değiştirebilirsiniz.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Paradan önce <strong>insanlığa</strong> öncelik veren kuruluştan
 firefox-desktop-download-challenging-the-status = 1998’den beri statükoya meydan okuyoruz
 firefox-desktop-download-your-privacy-comes = Önceliğimiz gizliliğiniz
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = En sevdiğiniz tarayıcı özelliklerini kullanırken yenilerini de <strong>keşfedin</strong>.
+firefox-desktop-download-keep-all-your = En sevdiğiniz tarayıcı özelliklerini kullanırken yenilerini de <strong>keşfedin</strong>
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Sevdiğiniz tüm { -brand-name-google } araçları (Gmail, Docs vb.) { -brand-name-firefox-browser } ile de sorunsuz çalışıyor.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Cihazlarınızı eşitleyin
 firefox-desktop-download-screenshots = Ekran görüntüleri
@@ -105,9 +108,26 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> için { -brand-name-firefox-browser }nı indirin
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> için { -brand-name-firefox-browser }nı indirin
 firefox-desktop-download-download-the-mobile = Tüm cihazlarınızda otomatik koruma için { -brand-name-firefox } mobil tarayıcısını indirin.
+firefox-desktop-download-learn-about-the = { -brand-name-firefox } masaüstü tarayıcısı hakkında bilgi alın
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Güvenlikten haberlere ve oyunlara, <a { $attrs }>herkese uygun eklentilerimiz var</a>. Tarayıcınız istediğiniz hale gelene dek, istediğiniz kadar eklenti kurabilirsiniz.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>, { -brand-name-firefox }’u { -brand-name-ie } ve { -brand-name-chrome } gibi tarayıcılara daha hızlı, daha gizlilik yanlısı bir alternatif olarak yarattı. Misyonumuza bağlılığını sürdüren şirketimiz ve gönüllülerimiz gizliliğinizi her şeyin üstünde tutmaya devam ediyor.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Tarayıcıda yerleşik bulunan <a { $attrs }>ekran görüntüsü</a> aracımızla internetteki her şeyin yüksek çözünürlüklü görüntüsünü kaydedebilirsiniz
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web etkinliklerinizi toplayıp satan <a { $attrs }>üçün taraf takipçilerin çoğunu</a> otomatik olarak engeller.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Tarayıcıyı zaten kullanıyorsunuz, ama { -brand-name-firefox } yalnızca bir tarayıcı değil.
+firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-lockwise } ile parolalarınızı koruyabilir ve çok daha fazlasını yapabilirsiniz.
 firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
 firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir
 
