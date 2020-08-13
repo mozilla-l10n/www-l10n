@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Ontdek producten die u veilig houde
 firefox-mobile-sync-your-history-passwords = Synchroniseer uw geschiedenis, wachtwoorden en bladwijzers. Verzend tabbladen naar al uw apparaten.
 firefox-mobile-android-only = Alleen { -brand-name-android }
 firefox-mobile-make-android-your-own = Maak { -brand-name-android } van u
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Pas uw mobiele { -brand-name-firefox }-browser aan met <a href="{ $url }">extensies</a> om advertenties te blokkeren, wachtwoorden te beheren, te voorkomen dat { -brand-name-facebook } u volgt en meer.
+firefox-mobile-customize-your-firefox-mobile-truncated = Pas uw mobiele { -brand-name-firefox }-browser aan met extensies.
 firefox-mobile-find-it-fast-with-a-smart = Vind het snel met een slimme zoekbalk
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } anticipeert op uw behoeften met slimme zoeksuggesties en snelle toegang tot uw meest bezochte websites.
 firefox-mobile-the-privacy-you-deserve-the = De privacy die u verdient. De snelheid die u nodig hebt.
