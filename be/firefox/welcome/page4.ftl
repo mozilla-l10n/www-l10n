@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Сцягніце браўзер Firefox для { -brand-name-ios } і { -brand-name-android } на свой мабільны
+welcome-page4-download-the-firefox-browser = Сцягніце { -brand-name-firefox-browser } для { -brand-name-ios } і { -brand-name-android } на свой мабільны
 welcome-page4-wallet-keys-phone-firefox = Кашалёк. Ключы. Тэлефон. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Вазьміце з сабой прыватнасць на ўсіх прыладах — і пакіньце трэкеры ззаду.
 welcome-page4-get-the-firefox-app = Атрымаць { -brand-name-firefox }

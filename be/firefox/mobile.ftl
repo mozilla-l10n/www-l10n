@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Сцягніце браўзер Firefox для { -brand-name-ios } і { -brand-name-android } на свой мабільны
-firefox-mobile-firefox-browser-for-mobile = Браўзер Firefox для мабільных прылад тыпова блакуе больш за 2000 трэкераў, што дае вам прыватнасць, якую вы заслугоўваеце, і хуткасць, якая вам патрэбна ў прыватным мабільным браўзеры.
+firefox-mobile-download-the-firefox-browser = Сцягніце { -brand-name-firefox-browser } для { -brand-name-ios } і { -brand-name-android } на свой мабільны
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } для мабільных прылад тыпова блакуе больш за 2000 трэкераў, што дае вам прыватнасць, якую вы заслугоўваеце, і хуткасць, якая вам патрэбна ў прыватным мабільным браўзеры.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Атрымайце мабільны браўзер, створаны для вас, а не рэкламадаўцаў
@@ -28,9 +28,6 @@ firefox-mobile-discover-products-that-keep = Адкрыйце для сябе п
 firefox-mobile-sync-your-history-passwords = Сінхранізуйце гісторыю, паролі і закладкі. Перасылайце карткі паміж усімі сваімі прыладамі.
 firefox-mobile-android-only = Толькі для { -brand-name-android }
 firefox-mobile-make-android-your-own = Зрабіце { -brand-name-android } свойскім
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Уладкуйце свой мабільны браўзер { -brand-name-firefox } <a href="{ $url }">пашырэннямі</a>, каб блакаваць рэкламу, кіраваць паролямі, не дазваляць { -brand-name-facebook } асочваць вас, і не толькі.
 firefox-mobile-find-it-fast-with-a-smart = Знайдзіце хутка з дапамогай разумнага радка пошуку
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } прадбачыць вашы патрэбы з разумнымі прапановамі пошуку і хуткім доступам да найчасцей наведаных сайтаў.
 firefox-mobile-the-privacy-you-deserve-the = Прыватнасць, якую вы заслугоўваеце. Хуткасць, якая вам патрэбна.

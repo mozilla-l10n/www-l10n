@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = { -brand-name-firefox } - неза
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Без абмежаванняў
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } створаны некамерцыйнай арганізацыяй. Гэта азначае, што мы можам рабіць рэчы, якія іншыя не могуць, напрыклад, ствараць новыя прадукты і магчымасці адкрыта. Мы першыя ў ахове вашага права на прыватнасць з такімі інструментамі, як Прыватнае агляданне і Ахова ад сачэння.
+features-independent-firefox-is-built-by = { -brand-name-firefox } створаны некамерцыйнай арганізацыяй. Гэта азначае, што мы можам рабіць рэчы, якія іншыя не могуць, напрыклад, ствараць новыя прадукты і магчымасці адкрыта. Мы першыя ў ахове вашага права на прыватнасць з такімі інструментамі, як Прыватнае агляданне і Ахова ад сачэння, якія ідуць далей за тое, што прапануюць { -brand-name-google } { -brand-name-chrome } і { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Што вы бачыце, то і атрымліваеце
 features-independent-we-believe-the-internet = Мы верым у інтэрнэт для людзей, а не прыбытку. Мы не прадаём доступ да вашых звестак, у адрозненне ад іншых кампаній. Кантроль над тым, хто бачыць вашы пошукі і гісторыю аглядання, належыць <em>Вам</em>. Выбар — вось на чым засноўваецца здаровы Інтэрнэт!
 features-independent-a-browser-on-a-mission = Браўзер з місіяй

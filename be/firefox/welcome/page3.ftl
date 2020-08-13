@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Стварыце бясплатны ўліковы запіс, каб абараніць сваю прыватнасць. Далучайцеся да { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Уліковы запіс не патрабуецца. Але вы можаце захацець.
-welcome-page3-the-firefox-browser-collects = Браўзер { -brand-name-firefox } збірае так мала звестак пра вас, што нам нават не патрэбен ваш адрас электроннай пошты. Але калі выкарыстаеце яго для стварэння ўліковага запісу { -brand-name-firefox }, мы зможам абараніць вашу прыватнасць у большай частцы вашага інтэрнэт-жыцця.
+welcome-page3-the-firefox-browser-collects = Браўзер { -brand-name-firefox } збірае так мала звестак пра вас, што нам нават не патрэбен ваш адрас электроннай пошты. Але калі выкарыстаеце яго для стварэння { -brand-name-firefox-account }, мы зможам абараніць вашу прыватнасць у большай частцы вашага інтэрнэт-жыцця.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Па меншай меры адна кампанія клапоціцца пра вашы дадзеныя, а не выдае іх.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
