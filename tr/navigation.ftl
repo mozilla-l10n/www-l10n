@@ -4,20 +4,21 @@
 
 navigation-download-firefox = { -brand-name-firefox }’u indir
 navigation-get-a-firefox-account = { -brand-name-firefox-account } açın
-navigation-firefox-browser-for-desktop = Bilgisayarlar için { -brand-name-firefox-browser }
+navigation-firefox-browser-for-desktop = Bilgisayarlar için { -brand-name-firefox-browser(capitalization: "uppercase") }
 navigation-get-the-browser-that-respects = Gizliliğinize siz istemeden saygı gösteren tarayıcıyı kullanın. { -brand-name-windows }, { -brand-name-mac } or { -brand-name-linux }’ta.
-navigation-firefox-browser-for-mobile = Mobil Cihazlar için { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = Mobil Cihazlar için { -brand-name-firefox-browser(capitalization: "uppercase") }
 navigation-take-speed-privacy-and = Hız, gizlilik ve rahatlığı yanınızda taşıyın. { -brand-name-android } and { -brand-name-ios }’te.
 navigation-download-for-ios = { -brand-name-ios } için indir
 navigation-download-for-android = { -brand-name-android } için indir
 navigation-ios-support = { -brand-name-ios } desteği
 navigation-android-support = { -brand-name-android } desteği
-navigation-firefox-browser-for-enterprise = Kurumlar için { -brand-name-firefox-browser }
+navigation-firefox-browser-for-enterprise = Kurumlar için { -brand-name-firefox-browser(capitalization: "uppercase") }
 navigation-strap-on-your-goggles = Gözlüklerinizi takın, sanal gerçekliğe özel { -brand-name-firefox-browser } ile web’e adımınızı atın.
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } için { -brand-name-firefox }
 navigation-watch-videos-and-browse = { -brand-name-amazon } { -brand-name-fire-tv }’nizde video izleyin ve internette gezinin.
 navigation-firefox-browsers-put = { -brand-name-firefox } tarayıcılarında gizliliğiniz önce gelir. Hep öyleydi, hep öyle olacak.
 navigation-take-the-passwords-youve = { -brand-name-firefox }’a kaydettiğiniz parolaları yanınızda taşıyın.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox }, daha güvenli ve daha verimli bir internet deneyimi için tasarlanmış eksiksiz bir ürün ailesi.
 navigation-join-firefox = { -brand-name-firefox }’a katılın
 navigation-access-all-of-firefox = Tek bir hesapla tüm { -brand-name-firefox } hizmetlerine ulaşın, tüm ürünlerimizin daha fazla yararlanın.
@@ -36,10 +37,15 @@ navigation-get-firefox-focus = { -brand-name-firefox-focus }’u indirin
 navigation-android-extensions = { -brand-name-android } eklentileri
 navigation-your-firefox-account = { -brand-name-firefox-account }nız
 navigation-make-the-most-of-your = Her cihazda { -brand-name-firefox }’tan en iyi şekilde yararlanın.
+# Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox }’unuzu kişiselleştirmeyi öğrenin.
+# Outdated string
 navigation-experience-augmented = Artırılmış ve sanal gerçekliği { -brand-name-firefox }’la yaşayın.
+# Outdated string
 navigation-meet-people-in-experimental = { -brand-name-firefox }’la deneysel karma gerçeklik sohbet odalarında yeni insanlarla tanışın.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla }, { -brand-name-firefox }’u artırılmış ve sanal gerçekliğe taşıyor.
 navigation-firefox-built-just-for = Geliştiriciler için geliştirilmiş { -brand-name-firefox }.
 navigation-preview-the-latest-build = { -brand-name-firefox }’un en son sürümünü deneyin ve iyileştirmemize yardımcı olun.
@@ -64,6 +70,7 @@ navigation-security-tips = Güvenlik ipuçları
 navigation-share-large-files-safely = “Kendini imha eden” linklerle büyük dosyaları güvenle paylaşın.
 navigation-save-quality-content = Kaliteli içerikleri kaydedin, istediğiniz yerde okuyun.
 navigation-sign-up = Kaydol
+# Outdated string
 navigation-connected-and-protected = Birlikte ve güvende
 navigation-join = Katıl
 navigation-close-join-menu = Katıl menüsünü kapat
@@ -76,11 +83,14 @@ navigation-meet-the-technology-company = Para için değil, insanlık için çal
 navigation-new-features = Yeni özellikler
 navigation-save-content-absorb-knowledge = İçerikleri kaydedin, bilgiyi özümseyin.
 navigation-same-speed-and-safety = Güvendiğiniz hız ve güvenliğin işletmeler için tasarlanmış hali.
+# Outdated string
 navigation-add-ons = Eklentiler
 navigation-projects = Projeler
 navigation-close-projects-menu = Projeler menüsünü kapat
 navigation-donate-your-voice-to = Ses tanımayı herkese açık hale getirmek için sesinizi bağışlayın.
+# Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+# Outdated string
 navigation-make-devices-connected = İnternete bağlı cihazları güvenli, güvenilir ve birlikte çalışabilir hale getirin.
 navigation-developers = Geliştiriciler
 navigation-close-developers-menu = Geliştiriciler menüsünü kapat
