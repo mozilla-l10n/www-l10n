@@ -28,6 +28,7 @@ navigation-get-firefox-focus = קבלת { -brand-name-firefox-focus }
 navigation-android-extensions = הרחבות ל־{ -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account(case: "the") } שלך
 navigation-make-the-most-of-your = נצלו את המיטב מחווית ה־{ -brand-name-firefox } שלכם, בכל מכשיר.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = ‏{ -brand-name-firefox }, נבנה בדיוק עבור מפתחים.
 navigation-menu = תפריט
@@ -43,6 +44,7 @@ navigation-see-breaches = הצגת דליפות
 navigation-security-tips = עצות אבטחה
 navigation-share-large-files-safely = שיתוף קבצים גדולים בבטחה, עם קישורים שמבצעים "השמדה אוטומטית".
 navigation-sign-up = הרשמה
+# Outdated string
 navigation-connected-and-protected = להיות מחובר ומוגן
 navigation-join = הצטרפות
 navigation-close-join-menu = סגירת תפריט ההצטרפות
@@ -53,9 +55,13 @@ navigation-about = על אודות
 navigation-close-about-menu = סגירת תפריט על אודות
 navigation-meet-the-technology-company = הכירו את חברת הטכנולוגיה ששמה אנשים לפני רווח.
 navigation-new-features = תכונות חדשות
+# Outdated string
 navigation-add-ons = תוספות
 navigation-projects = מיזמים
 navigation-close-projects-menu = סגירת תפריט המיזמים
+navigation-machine-learning = למידת מכונה
+# Outdated string
+navigation-web-of-things-iot = רשת הדברים (IoT)
 navigation-developers = מפתחים
 navigation-close-developers-menu = סגירת תפריט המפתחים
 navigation-resources = משאבים
