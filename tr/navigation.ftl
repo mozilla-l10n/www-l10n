@@ -39,12 +39,16 @@ navigation-your-firefox-account = { -brand-name-firefox-account }nız
 navigation-make-the-most-of-your = Her cihazda { -brand-name-firefox }’tan en iyi şekilde yararlanın.
 # Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox }’unuzu kişiselleştirmeyi öğrenin.
+navigation-explore-the-immersive = Web’i sanal gerçeklik başlığınızda keşfedin.
 # Outdated string
 navigation-experience-augmented = Artırılmış ve sanal gerçekliği { -brand-name-firefox }’la yaşayın.
+navigation-get-together = Bu çevrimiçi sosyal mekânda sanal gerçeklik buluşmaları yapın.
 # Outdated string
 navigation-meet-people-in-experimental = { -brand-name-firefox }’la deneysel karma gerçeklik sohbet odalarında yeni insanlarla tanışın.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Karma Gerçeklik
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla }, sanal ve artırılmış gerçekliği açık web’e getiriyor.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla }, { -brand-name-firefox }’u artırılmış ve sanal gerçekliğe taşıyor.
 navigation-firefox-built-just-for = Geliştiriciler için geliştirilmiş { -brand-name-firefox }.
@@ -70,6 +74,8 @@ navigation-security-tips = Güvenlik ipuçları
 navigation-share-large-files-safely = “Kendini imha eden” linklerle büyük dosyaları güvenle paylaşın.
 navigation-save-quality-content = Kaliteli içerikleri kaydedin, istediğiniz yerde okuyun.
 navigation-sign-up = Kaydol
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Hızlı. Basit. Gizli.
+navigation-protect-your-entire-device = Tüm cihazlarınızı ve uygulamalarınızı koruyun. 5 cihazınızı bağlayarak gerçek konumunuzu gizleyebilirsiniz. Şimdi abone olun.
 # Outdated string
 navigation-connected-and-protected = Birlikte ve güvende
 navigation-join = Katıl
@@ -88,8 +94,10 @@ navigation-add-ons = Eklentiler
 navigation-projects = Projeler
 navigation-close-projects-menu = Projeler menüsünü kapat
 navigation-donate-your-voice-to = Ses tanımayı herkese açık hale getirmek için sesinizi bağışlayın.
+navigation-machine-learning = Makine Öğrenimi
 # Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+navigation-help-make-deep-learning = Açık kaynak dünyasında derin öğrenme algoritmalarının kullanılmasına yardımcı olun.
 # Outdated string
 navigation-make-devices-connected = İnternete bağlı cihazları güvenli, güvenilir ve birlikte çalışabilir hale getirin.
 navigation-developers = Geliştiriciler
