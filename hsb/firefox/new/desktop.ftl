@@ -63,6 +63,8 @@ firefox-desktop-download-third-party-cookie = Blokowanje plackow třećich poski
 firefox-desktop-download-fingerprinter-blocking = Blokowanje porstowych wotćišćow
 firefox-desktop-download-cryptominer-blocking = Blokowanje kryptokopakow
 firefox-desktop-download-private-browsing-mode = Priwatny modus
+firefox-desktop-download-individual-protections-report = Indiwiduelna rozprawa wo škiće
+firefox-desktop-download-secure-your-personal = Zawěsćće swoje wosobinske informacije
 firefox-desktop-download-built-in-password = Zatwarjeny zrjadowak hesłow
 firefox-desktop-download-clear-history = Historiju zhašeć
 firefox-desktop-download-form-autofill = Awtomatiske wupjelnjenje formularow
@@ -76,6 +78,7 @@ firefox-desktop-download-change-new-tab = Wuhotowanje noweho rajtarka změnić
 firefox-desktop-download-extensions-for-every = Rozšěrjenja za kóždy zajim
 firefox-desktop-download-change-up-your = Změńće napohlad
 firefox-desktop-download-tweak-your-settings = Přiměrće swoje nastajenja
+firefox-desktop-download-challenging-the-status = Dwělujemy na status quo wot lěta 1998
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma najwyšu prioritu
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synchronizujće swoje graty
@@ -95,6 +98,8 @@ firefox-desktop-download-just-download-the-browser = Sćehńće prosće wobhlado
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Nimale zdokonjany!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Wuwjedźće</strong> nětko instalowanski program, kotryž sće runje sćahnył.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Wužiwaće njewěsty, zestarjeny dźěłowy system, kotryž <a href="{ $url }">so hižo wot { -brand-name-firefox } njedpodpěruje</a>.
