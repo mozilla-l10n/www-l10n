@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } cho { -brand-name-fire-
 navigation-watch-videos-and-browse = Xem video và duyệt internet trên { -brand-name-amazon } { -brand-name-fire-tv } của bạn.
 navigation-firefox-browsers-put = Các trình duyệt { -brand-name-firefox } đặt quyền riêng tư của bạn lên hàng đầu — và luôn luôn có.
 navigation-take-the-passwords-youve = Mang theo mật khẩu mà bạn đã lưu trong { -brand-name-firefox } ở mọi nơi.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } là một nhóm các sản phẩm được thiết kế để giúp bạn an toàn hơn và thông minh hơn khi trực tuyến.
 navigation-join-firefox = Tham gia { -brand-name-firefox }
 navigation-access-all-of-firefox = Truy cập tất cả { -brand-name-firefox } với một lần đăng nhập — và nhận được nhiều hơn từ mọi sản phẩm khi bạn làm.
@@ -36,10 +37,16 @@ navigation-get-firefox-focus = Tải { -brand-name-firefox-focus }
 navigation-android-extensions = Tiện ích mở rộng { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } của bạn
 navigation-make-the-most-of-your = Tận dụng tối đa trải nghiệm { -brand-name-firefox } của bạn, trên mọi thiết bị.
+# Outdated string
 navigation-learn-how-to-customize = Tìm hiểu tùy chỉnh cách thức hoạt động của { -brand-name-firefox }.
+# Outdated string
 navigation-experience-augmented = Trải nghiệm tăng cường và thực tế ảo với { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Gặp gỡ mọi người trong thử nghiệm các phòng chat hỗn hợp thực tế với { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } mang { -brand-name-firefox } cho việc tăng cường và thực tế ảo.
 navigation-firefox-built-just-for = { -brand-name-firefox }, được xây dựng chỉ dành cho các nhà phát triển.
 navigation-preview-the-latest-build = Xem trước bản dựng mới nhất của { -brand-name-firefox } và giúp chúng tôi làm cho nó tốt nhất.
@@ -64,6 +71,7 @@ navigation-security-tips = Mẹo bảo mật
 navigation-share-large-files-safely = Chia sẻ các tập tin lớn một cách an toàn, với các liên kết ‘tự hủy’.
 navigation-save-quality-content = Lưu nội dung chất lượng từ bất cứ đâu. Nhiên liệu tâm trí của bạn ở khắp mọi nơi.
 navigation-sign-up = Đăng ký
+# Outdated string
 navigation-connected-and-protected = Kết nối và bảo vệ
 navigation-join = Tham gia
 navigation-close-join-menu = Đóng menu Tham gia
@@ -76,11 +84,15 @@ navigation-meet-the-technology-company = Hãy xem công ty công nghệ vì mọ
 navigation-new-features = Các tính năng mới
 navigation-save-content-absorb-knowledge = Lưu nội dung. Hấp thụ kiến thức.
 navigation-same-speed-and-safety = Cùng tốc độ và sự an toàn mà bạn tin tưởng, được thiết kế chỉ dành cho doanh nghiệp.
+# Outdated string
 navigation-add-ons = Tiện ích
 navigation-projects = Dự án
 navigation-close-projects-menu = Đóng trình đơn dự án
 navigation-donate-your-voice-to = Đóng góp giọng nói của bạn để giúp nhận dạng giọng nói mở cho mọi người.
+navigation-machine-learning = Học máy
+# Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+# Outdated string
 navigation-make-devices-connected = Làm cho các thiết bị kết nối với internet an toàn và có thể tương tác.
 navigation-developers = Nhà phát triển
 navigation-close-developers-menu = Đóng trình đơn nhà phát triển
