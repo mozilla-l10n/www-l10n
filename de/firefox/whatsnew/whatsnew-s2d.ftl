@@ -10,5 +10,5 @@ whatsnew-s2d-want-privacy-on-every-device = Möchtest Du Privatsphäre auf jedem
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
 whatsnew-s2d-you-got-it-get-firefox-for = Ganz einfach. Hol Dir { -brand-name-firefox } für Mobilgeräte.
 # Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = { -brand-name-firefox } auf's Handy senden <br>und grenzenlos surfen.
+whatsnew-s2d-send-firefox-to-your-phone = { -brand-name-send } { -brand-name-firefox } auf's Handy senden <br>und grenzenlos surfen.
 whatsnew-s2d-download-firefox-for-your = Lade jetzt { -brand-name-firefox } für Smartphone und Tablet herunter.
