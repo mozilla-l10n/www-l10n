@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } for { -brand-name-fire-
 navigation-watch-videos-and-browse = Se på videoer og surf på nettet på din { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = { -brand-name-firefox }-nettlesere setter personvernet ditt først — og har alltid gjort det.
 navigation-take-the-passwords-youve = Ta passordene du har lagret i { -brand-name-firefox }, med deg overalt.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } er en hel familie av produkter designet for å holde deg sikrere og smartere på nettet.
 navigation-join-firefox = Bli en del av { -brand-name-firefox }
 navigation-access-all-of-firefox = Få tilgang til hele { -brand-name-firefox } med en enkel innlogging — og få mer ut av hvert produkt når du gjør det.
@@ -36,10 +37,17 @@ navigation-get-firefox-focus = Last ned { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-utvidelser
 navigation-your-firefox-account = Din { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Få mest mulig ut av { -brand-name-firefox } på alle enhetene dine.
+# Outdated string
 navigation-learn-how-to-customize = Les, hvordan du kan tilpasse { -brand-name-firefox }.
+navigation-explore-the-immersive = Utforsk det fordypende nettet med virtuell virkelighet-hodesett.
+# Outdated string
 navigation-experience-augmented = Opplev utivdet og virtuell virkelighet med { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Møt mennesker i Mixed Reality-chatterom med { -brand-name-firefox }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } bringer virtuell og utvidet virkelighet til det åpne nettet.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } bringer { -brand-name-firefox } inn i en utvidet og virtuell virkelighet.
 navigation-firefox-built-just-for = { -brand-name-firefox }, utviklet bare for utviklere.
 navigation-preview-the-latest-build = Forhåndsvis den siste versjonen av { -brand-name-firefox } og hjelp oss med å gjøre den bedre.
@@ -64,6 +72,9 @@ navigation-security-tips = Sikkerhetstips
 navigation-share-large-files-safely = Del store filer trygt, med lenker som er «selvdestruerende».
 navigation-save-quality-content = Lagre innhold av høy kvalitet, les hvor du vil.
 navigation-sign-up = Registrer deg
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rask. Enkel. Privat.
+navigation-protect-your-entire-device = Beskytt hele enheten og alle applikasjoner. Masker din virkelige plassering og koble til opptil 5 enheter. Abonner nå.
+# Outdated string
 navigation-connected-and-protected = Tilkoblet og beskyttet
 navigation-join = Bli med
 navigation-close-join-menu = Lukk Bli med-menyen
@@ -76,11 +87,15 @@ navigation-meet-the-technology-company = Møt teknologibedriften som setter menn
 navigation-new-features = Nye funksjoner
 navigation-save-content-absorb-knowledge = Lagre innhold og bli klokere.
 navigation-same-speed-and-safety = Samme hastighet og sikkerhet som du stoler på, utformet for bedrifter.
+# Outdated string
 navigation-add-ons = Tillegg
 navigation-projects = Prosjekter
 navigation-close-projects-menu = Lukk prosjekt-menyen
 navigation-donate-your-voice-to = Bidra med stemmen din for å gjøre stemmegjenkjenning tilgjengelig for alle.
+navigation-machine-learning = Maskinlæring
+# Outdated string
 navigation-web-of-things-iot = Tingenes internett (IoT)
+# Outdated string
 navigation-make-devices-connected = Koble til enheter til internett sikkert og driftskompitabelt.
 navigation-developers = Utvikling
 navigation-close-developers-menu = Lukk utvikler-menyen
