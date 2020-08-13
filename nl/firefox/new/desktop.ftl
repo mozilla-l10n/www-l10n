@@ -98,12 +98,42 @@ firefox-desktop-download-challenging-the-status = Daagt sinds 1998 de status quo
 firefox-desktop-download-your-privacy-comes = Uw privacy staat voorop
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behoud al uw favoriete browserfuncties – en <strong>ontdek</strong> nieuwe.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Al uw favoriete { -brand-name-google }-hulpmiddelen (zoals Gmail en Docs) werken naadloos in de { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Download deze browserextensie</a> om te voorkomen dat { -brand-name-facebook } (en { -brand-name-instagram }) u volgen op internet.
 firefox-desktop-download-sync-your-devices = Synchroniseer uw apparaten
 firefox-desktop-download-screenshots = Schermafbeeldingen
+firefox-desktop-download-from-watching-a = Van het bekijken van een webhandleiding tot het in de gaten houden van uw favoriete team, uw video volgt u terwijl u multitaskt.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Download { -brand-name-firefox-browser } voor <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Download { -brand-name-firefox-browser } voor <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Download de mobiele { -brand-name-firefox }-browser voor automatische bescherming van al uw apparaten.
+firefox-desktop-download-learn-about-the = Lees hieronder meer over de { -brand-name-firefox }-browser voor desktop
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Van beveiliging tot nieuws tot gamen, er is <a { $attrs }>voor iedereen een extensie</a>. Voeg er zoveel u wilt toe, tot uw browser precies goed is.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } werd door <a { $attrs }>{ -brand-name-mozilla }</a> gemaakt als een sneller, persoonlijker alternatief voor browsers zoals { -brand-name-ie }, en nu { -brand-name-chrome }. Tegenwoordig blijven ons missiegedreven bedrijf en onze vrijwilligersgemeenschap uw privacy boven alles stellen.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Terwijl het internet groeit en verandert, blijft { -brand-name-firefox } zich concentreren op uw recht op privacy – we noemen het de <a { $attrs }>Persoonlijke Gegevensbelofte</a>: Neem minder. Houd het veilig. Geen geheimen. Uw gegevens, uw webactiviteit en uw online leven worden beschermd met { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beschikbaar op al uw apparaten; neem uw tabbladen, geschiedenis en bladwijzers mee. U hebt alleen een <a { $attrs }>{ -brand-name-firefox }-account</a> nodig.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Maak een afbeelding met een hoge resolutie van alles wat online is met ons hulpmiddel voor <a { $attrs }>schermafdrukken</a>, dat rechtstreeks in de browser is ingebouwd
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blokkeert automatisch vele trackers van derden</a> die uw webactiviteit verzamelen en verkopen.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Vragen? <a { $attrs }>{ -brand-name-mozilla }-ondersteuning </a> is er voor u.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = U hebt de browser al. Haal nu nog meer uit { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Let op hackers met { -brand-name-firefox-monitor }, bescherm wachtwoorden met { -brand-name-firefox-lockwise }, en meer.
@@ -114,7 +144,14 @@ firefox-desktop-download-just-download-the-browser = Download gewoon de browser
 
 firefox-desktop-download-almost-there = Bijna klaar!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Rond nu de <strong>installatie</strong> van { -brand-name-firefox } af.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = <strong>Voer nu</strong> het installatieprogramma uit dat zojuist is gedownload.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Open nu</strong> het bestand dat zojuist is gedownload.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Problemen? <a { $attrs }>Ontvang hulp bij uw installatie</a>.
 firefox-desktop-download-in-another-language = Downloaden in een andere taal of voor een ander besturingssysteem.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
