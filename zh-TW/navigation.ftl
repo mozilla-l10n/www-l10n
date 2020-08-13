@@ -75,6 +75,7 @@ navigation-share-large-files-safely = 安全地使用會「自動摧毀」的鏈
 navigation-save-quality-content = 隨時隨地保存高品質的內容，讓您的創意突飛猛進。
 navigation-sign-up = 註冊
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: 快速、簡單、保護隱私。
+navigation-protect-your-entire-device = 保護您的整台裝置與所有應用程式。隱藏您的實際所在地點，最多可使用 5 台裝置連線。立即訂閱。
 # Outdated string
 navigation-connected-and-protected = 上網時受到保護
 navigation-join = 加入
