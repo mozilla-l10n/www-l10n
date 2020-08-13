@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } для { -brand-name-fi
 navigation-watch-videos-and-browse = Переглядайте відео та мандруйте Інтернетом у своєму { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Браузер { -brand-name-firefox } цінує вашу приватність понад усе.
 navigation-take-the-passwords-youve = Візьміть паролі, які ви зберегли у { -brand-name-firefox }, всюди з собою.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } - це ціла сім'я продуктів, створених для того, щоб захистити вас і зробити розумнішими в Інтернеті.
 navigation-join-firefox = Приєднуйтеся до { -brand-name-firefox }
 navigation-access-all-of-firefox = Приєднайтеся до всіх служб { -brand-name-firefox } за допомогою єдиного входу — і отримайте більше можливостей від кожного продукту.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Отримати { -brand-name-firefox-focus }
 navigation-android-extensions = Розширення для { -brand-name-android }
 navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Отримайте повну віддачу від { -brand-name-firefox } на будь-якому пристрої.
+# Outdated string
 navigation-learn-how-to-customize = Дізнайтеся, як налаштувати роботу { -brand-name-firefox }.
+navigation-explore-the-immersive = Досліджуйте захопливі куточки мережі за допомогою пристроїв віртуальної реальності.
+# Outdated string
 navigation-experience-augmented = Випробуйте доповнену та віртуальну реальність з { -brand-name-firefox }.
+navigation-get-together = Збирайтеся у віртуальній реальності за допомогою цього соціального простору в Мережі.
+# Outdated string
 navigation-meet-people-in-experimental = Знайомтеся з людьми в експериментальних кімнатах з доповненою реальністю з { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Змішана реальність
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } додає віртуальну та доповнену реальність у відкриту мережу.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } виводить { -brand-name-firefox } у віртуальну реальність.
 navigation-firefox-built-just-for = { -brand-name-firefox }, створений саме для розробників.
 navigation-preview-the-latest-build = Випробовуйте найновішу версію { -brand-name-firefox } і допоможіть нам зробити її ще кращою.
@@ -64,6 +74,9 @@ navigation-security-tips = Поради щодо безпеки
 navigation-share-large-files-safely = Безпечно діліться великими файлами за допомогою посилань, які ‘самознищуються’.
 navigation-save-quality-content = Зберігайте якісний вміст з будь-якого місця. Постійно розвивайтесь та навчайтесь.
 navigation-sign-up = Зареєструватися
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Швидкий. Простий. Приватний.
+navigation-protect-your-entire-device = Повністю захистіть свій пристрій і всі програми. Замаскуйте своє справжнє місцеперебування та під'єднайте до 5 пристроїв. Передплачуйте вже зараз.
+# Outdated string
 navigation-connected-and-protected = Підключено та захищено
 navigation-join = Приєднатися
 navigation-close-join-menu = Закрити меню приєднання
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Знайомтеся з техноло�
 navigation-new-features = Нові можливості
 navigation-save-content-absorb-knowledge = Зберігайте статті. Поглиблюйте знання.
 navigation-same-speed-and-safety = Така ж швидкість і безпека, якій ви довіряєте, розроблені саме для бізнесу.
+# Outdated string
 navigation-add-ons = Додатки
 navigation-projects = Проєкти
 navigation-close-projects-menu = Закрити меню Проєкти
 navigation-donate-your-voice-to = Подаруйте свій голос, щоби зробити розпізнавання голосу доступним для всіх.
+navigation-machine-learning = Машинне навчання
+# Outdated string
 navigation-web-of-things-iot = Інтернет речей (IoT)
+navigation-help-make-deep-learning = Допоможіть зробити алгоритми глибокого навчання доступними для світу з відкритим кодом.
+# Outdated string
 navigation-make-devices-connected = Забезпечте захист, надійність і сумісність підключених до інтернету пристроїв.
 navigation-developers = Розробникам
 navigation-close-developers-menu = Закрити меню Розробникам
