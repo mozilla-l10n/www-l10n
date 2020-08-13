@@ -8,9 +8,9 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } супраць { -brand-name-opera }: Які браўзер лепшы для вас?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Параўнайце { -brand-name-opera } з браўзерам Firefox, каб даведацца, які браўзер лепшы для вас.
+compare-opera-compare-opera-to-the-firefox = Параўнайце { -brand-name-opera } і { -brand-name-firefox-browser }, каб даведацца, які браўзер лепшы для вас.
 # Main title
-compare-opera-comparing-firefox-browser = Параўнанне браўзера Firefox з { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Параўнанне { -brand-name-firefox-browser } з { -brand-name-opera }
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Палітыка прыватнасці</a> { -brand-name-firefox } вельмі празрыста апісвае, якую асабістую інфармацыю мы збіраем з адзінай мэтай — даць вам больш кантролю над інфармацыяй, якой вы дзеліцеся ў Інтэрнэце.

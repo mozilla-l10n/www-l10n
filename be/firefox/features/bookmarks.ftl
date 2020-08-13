@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Браўзер Firefox: лепшыя закладкі, куды б вы не ішлі
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: лепшыя закладкі, куды б вы не ішлі
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Лёгка арганізуйце свае закладкі ў каталогі і атрымлівайце доступ ад іх з усіх прылад, ад камп'ютараў да мабільных.
 features-bookmarks-better-bookmarks = Лепшыя закладкі

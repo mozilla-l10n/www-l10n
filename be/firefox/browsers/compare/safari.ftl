@@ -8,6 +8,6 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } супраць { -brand-name-safari }: Які браўзер лепшы для вас?
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } — гэта папярэдне ўсталяваны браўзер на { -brand-name-mac } і { -brand-name-iphone }. Параўнайце { -brand-name-safari } з браўзерам Firefox, каб даведацца, які браўзер лепшы для вас.
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } — гэта папярэдне ўсталяваны браўзер на { -brand-name-mac } і { -brand-name-iphone }. Параўнайце { -brand-name-safari } і { -brand-name-firefox-browser }, каб даведацца, які браўзер лепшы для вас.
 # Main title.
-compare-safari-comparing-firefox-browser = Параўнанне браўзера Firefox з Apple Safari
+compare-safari-comparing-firefox-browser = Параўнанне { -brand-name-firefox-browser } з { -brand-name-apple } { -brand-name-safari }
