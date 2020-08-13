@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser }’u indir — Hızlı, gizlilik yanlısı ve ücretsiz — { -brand-name-mozilla }’dan
+firefox-desktop-download-meta-desc = Ücretsiz web tarayıcısı { -brand-name-firefox }'u indirin. Sağlıklı bir internet ve gizliliğiniz için çalışan, kâr amacı gütmeyen { -brand-name-mozilla }'dan. { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } ve { -brand-name-ios }'te.
 firefox-desktop-download-og-title = Bugüne kadarki en hızlı { -brand-name-firefox }’u indirin
 firefox-desktop-download-og-desc = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox } burada.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -56,7 +57,7 @@ firefox-desktop-download-sync-across-devices = Cihazlar arası senkronizasyon
 firefox-desktop-download-reader-mode = Okuyucu modu
 firefox-desktop-download-spell-check = Yazım denetimi
 firefox-desktop-download-pinned-tabs = Sekme sabitleme
-firefox-desktop-download-stream-share-play = Yayımlama, paylaşma ve oynatma
+firefox-desktop-download-stream-share-play = Yayımlayın, paylaşın ve oynatın
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Otomatik başlayan video ve sesleri engelleme
 # Picture-in-Picture is a feature names and so is capitalized in English
