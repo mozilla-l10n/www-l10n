@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } para { -brand-name-fire
 navigation-watch-videos-and-browse = Veja vídeo e navegue na internet na sua { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Os navegadores { -brand-name-firefox } colocam a sua privacidade em primeiro lugar — e sempre o fizeram.
 navigation-take-the-passwords-youve = Leve as palavras-passe que guardou no { -brand-name-firefox } consigo para qualquer lugar.
+# Outdated string
 navigation-firefox-is-a-whole-family = O { -brand-name-firefox } é uma família completa de produtos projetados para o manter mais seguro e inteligente na Internet.
 navigation-join-firefox = Junte-se ao { -brand-name-firefox }
 navigation-access-all-of-firefox = Aceda a tudo do { -brand-name-firefox } com um único início de sessão — e obtenha mais de cada produto quando o fizer.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Obter o { -brand-name-firefox-focus }
 navigation-android-extensions = Extensões para { -brand-name-android }
 navigation-your-firefox-account = A sua { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aproveite ao máximo a sua experiência com o { -brand-name-firefox }, entre todos os dispositivos.
+# Outdated string
 navigation-learn-how-to-customize = Saiba como personalizar a maneira como o { -brand-name-firefox } trabalha.
+navigation-explore-the-immersive = Explore a Internet imersiva no seu headset de realidade virtual.
+# Outdated string
 navigation-experience-augmented = Experimente a realidade aumentada e virtual com o { -brand-name-firefox }.
+navigation-get-together = Reúna-se em realidade virtual com este espaço social na Internet.
+# Outdated string
 navigation-meet-people-in-experimental = Conheça pessoas em salas de conversa experimentais de realidade mista com o { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Realidade mista da { -brand-name-mozilla }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = A { -brand-name-mozilla } traz a realidade virtual e aumentada para a Internet aberta.
+# Outdated string
 navigation-mozilla-brings-firefox = A { -brand-name-mozilla } leva o { -brand-name-firefox } à realidade aumentada e virtual.
 navigation-firefox-built-just-for = O { -brand-name-firefox }, construído apenas para programadores.
 navigation-preview-the-latest-build = Pré-visualize a compilação mais recente do { -brand-name-firefox } e ajude-nos a torná-la a melhor.
@@ -64,6 +74,8 @@ navigation-security-tips = Dicas de segurança
 navigation-share-large-files-safely = Partilhe ficheiros grandes com segurança, com ligações que se ‘auto-destroem’.
 navigation-save-quality-content = Guarde conteúdo de qualidade de qualquer lugar. Alimente a sua mente em todo o lado.
 navigation-sign-up = Registo
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rápida. Simples. Privada.
+# Outdated string
 navigation-connected-and-protected = Ligado e protegido
 navigation-join = Participar
 navigation-close-join-menu = Fechar menu Participar
@@ -76,11 +88,14 @@ navigation-meet-the-technology-company = Conheça a empresa de tecnologia que co
 navigation-new-features = Novas funcionalidades
 navigation-save-content-absorb-knowledge = Guarde conteúdo. Absorva conhecimento.
 navigation-same-speed-and-safety = A mesma velocidade e segurança em que confia, desenhada apenas para empresas.
+# Outdated string
 navigation-add-ons = Extras
 navigation-projects = Projetos
 navigation-close-projects-menu = Fechar o menu Projetos
 navigation-donate-your-voice-to = Doe a sua voz para ajudar a tornar o reconhecimento de voz aberto a todos.
+# Outdated string
 navigation-web-of-things-iot = Web das Coisas (IoT)
+# Outdated string
 navigation-make-devices-connected = Torne dispositivos ligados à internet seguros e interoperáveis.
 navigation-developers = Programadores
 navigation-close-developers-menu = Fechar o menu Programadores
