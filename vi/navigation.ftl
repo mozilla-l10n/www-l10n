@@ -39,8 +39,10 @@ navigation-your-firefox-account = { -brand-name-firefox-account } của bạn
 navigation-make-the-most-of-your = Tận dụng tối đa trải nghiệm { -brand-name-firefox } của bạn, trên mọi thiết bị.
 # Outdated string
 navigation-learn-how-to-customize = Tìm hiểu tùy chỉnh cách thức hoạt động của { -brand-name-firefox }.
+navigation-explore-the-immersive = Trải nghiệm web sống động trên tai nghe thực tế ảo của bạn.
 # Outdated string
 navigation-experience-augmented = Trải nghiệm tăng cường và thực tế ảo với { -brand-name-firefox }.
+navigation-get-together = Gặp nhau trong thực tế ảo với không gian mạng xã hội trực tuyến này.
 # Outdated string
 navigation-meet-people-in-experimental = Gặp gỡ mọi người trong thử nghiệm các phòng chat hỗn hợp thực tế với { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
