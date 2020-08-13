@@ -42,10 +42,13 @@ navigation-learn-how-to-customize = Aprendé a personalizar la forma en que func
 navigation-explore-the-immersive = Explorá la web inmersiva con tu casco de realidad virtual.
 # Outdated string
 navigation-experience-augmented = Experimentá la realidad aumentada y virtual con { -brand-name-firefox }.
+navigation-get-together = Reunite en realidad virtual con este espacio social en línea.
 # Outdated string
 navigation-meet-people-in-experimental = Con { -brand-name-firefox } podés conocer gente en salas de chat experimentales de Realidad mixta.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } trae realidad virtual y realidad aumentada a la web abierta.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } trae { -brand-name-firefox } a la realidad aumentada y virtual.
 navigation-firefox-built-just-for = { -brand-name-firefox }, hecho solo para desarrolladores.
@@ -71,6 +74,8 @@ navigation-security-tips = Consejos de seguridad
 navigation-share-large-files-safely = Compartí archivos grandes de forma segura, con enlaces que se "autodestruyen".
 navigation-save-quality-content = Guardá contenido de calidad desde cualquier lugar. Impulsá tu mente en todas partes.
 navigation-sign-up = Registrate
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rápida. Simple. Privada.
+navigation-protect-your-entire-device = Protegé tu dispositivo completo y todas las aplicaciones. Ocultá tu ubicación real y conectá hasta 5 dispositivos. Suscribite ahora.
 # Outdated string
 navigation-connected-and-protected = Conectado y protegido
 navigation-join = Unirse
@@ -89,8 +94,10 @@ navigation-add-ons = Complementos
 navigation-projects = Proyectos
 navigation-close-projects-menu = Cerrar el menú Proyectos
 navigation-donate-your-voice-to = Doná tu voz para ayudar a que el reconocimiento de voz sea abierto para todos.
+navigation-machine-learning = Machine Learning
 # Outdated string
 navigation-web-of-things-iot = Internet de las cosas (IoT)
+navigation-help-make-deep-learning = Ayudá a que los algoritmos de aprendizaje profundo estén disponibles para el mundo del código abierto.
 # Outdated string
 navigation-make-devices-connected = Hacer que los dispositivos conectados a Internet sean seguros, confiables e interoperables.
 navigation-developers = Desarrolladores
