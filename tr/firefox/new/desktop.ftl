@@ -40,6 +40,8 @@ firefox-desktop-download-see-your-report = Koruma raporunuza bakın
 firefox-desktop-download-for-everyone = { -brand-name-firefox } herkes için
 firefox-desktop-download-review-system-req = Sistem gereksinimlerini inceleyin
 firefox-desktop-download-all-your-devices = { -brand-name-firefox }’u tüm cihazlarınıza yükleyin
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = { -brand-name-firefox } ile <strong>hepsini</strong> yapın
 firefox-desktop-download-search-smarter = Daha akıllı, daha hızlı arama
 firefox-desktop-download-search-from-address = Adres çubuğundan arama
 firefox-desktop-download-search-engine-options = Arama motoru seçenekleri
@@ -83,13 +85,29 @@ firefox-desktop-download-make-firefox-your = Bu <strong>{ -brand-name-firefox }<
 firefox-desktop-download-extensions-for-every = Her ilgi alanına hitap eden eklentiler
 firefox-desktop-download-change-up-your = Görünüşü değiştirin
 firefox-desktop-download-tweak-your-settings = Ayarlarınızı değiştirin
+firefox-desktop-download-challenging-the-status = 1998’den beri statükoya meydan okuyoruz
+firefox-desktop-download-your-privacy-comes = Önceliğimiz gizliliğiniz
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Cihazlarınızı eşitleyin
+firefox-desktop-download-screenshots = Ekran görüntüleri
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Gelişmiş izlenme koruması
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> için { -brand-name-firefox-browser }nı indirin
+firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> için { -brand-name-firefox-browser }nı indirin
+firefox-desktop-download-download-the-mobile = Tüm cihazlarınızda otomatik koruma için { -brand-name-firefox } mobil tarayıcısını indirin.
 firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
 firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Şimdi { -brand-name-firefox } <strong>yüklemesini</strong> tamamlayın.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Şimdi indirdiğiniz yükleyiciyi <strong>çalıştırın</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Şimdi indirdiğiniz dosyayı <strong>açın</strong>.
+firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">Artık { -brand-name-firefox } tarafından desteklenmeyen</a>, güvenli olmayan ve eski bir işletim sistemi kullanıyorsunuz.
