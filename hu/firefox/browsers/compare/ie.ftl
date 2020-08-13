@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vagy { -brand-name-ie }: Melyik a jobb böngésző az Ön számára?
+# HTML page description
+compare-ie-compare-internet-explorer-to = Összehasonlítjuk az { -brand-name-ie }-t a { -brand-name-firefox-browser }vel, hogy megtudja, melyik a jobb böngésző az Ön számára.
 # Main title
 compare-ie-comparing-firefox-browser-with = A { -brand-name-firefox-browser } és a { -brand-name-microsoft } { -brand-name-ie } összehasonlítása
