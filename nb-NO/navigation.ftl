@@ -42,7 +42,7 @@ navigation-learn-how-to-customize = Les, hvordan du kan tilpasse { -brand-name-f
 navigation-explore-the-immersive = Utforsk det oppslukende nettet med virtuell virkelighet-hodesett.
 # Outdated string
 navigation-experience-augmented = Opplev utivdet og virtuell virkelighet med { -brand-name-firefox }.
-navigation-get-together = Kom sammen i virtuell virkelighet med dette sosiale sosiale rommet på nettet.
+navigation-get-together = Kom sammen i virtuell virkelighet med dette sosiale rommet på nettet.
 # Outdated string
 navigation-meet-people-in-experimental = Møt mennesker i Mixed Reality-chatterom med { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
