@@ -39,11 +39,12 @@ navigation-your-firefox-account = Din { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Få mest mulig ut av { -brand-name-firefox } på alle enhetene dine.
 # Outdated string
 navigation-learn-how-to-customize = Les, hvordan du kan tilpasse { -brand-name-firefox }.
-navigation-explore-the-immersive = Utforsk det fordypende nettet med virtuell virkelighet-hodesett.
+navigation-explore-the-immersive = Utforsk det oppslukende nettet med virtuell virkelighet-hodesett.
 # Outdated string
 navigation-experience-augmented = Opplev utivdet og virtuell virkelighet med { -brand-name-firefox }.
 # Outdated string
 navigation-meet-people-in-experimental = Møt mennesker i Mixed Reality-chatterom med { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } bringer virtuell og utvidet virkelighet til det åpne nettet.
