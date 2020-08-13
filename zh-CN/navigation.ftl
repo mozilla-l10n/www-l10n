@@ -39,13 +39,16 @@ navigation-your-firefox-account = 您的 { -brand-name-firefox-account }
 navigation-make-the-most-of-your = 在每台设备上都能充分发挥 { -brand-name-firefox } 的强大体验。
 # Outdated string
 navigation-learn-how-to-customize = 了解如何打造出专属你的 { -brand-name-firefox }。
+navigation-explore-the-immersive = 使用您的 VR 头戴设备探索沉浸式 Web 世界。
 # Outdated string
 navigation-experience-augmented = 使用 { -brand-name-firefox } 体验增强现实（AR）和虚拟现实（VR）。
+navigation-get-together = 在这个社交空间中以虚拟现实的方式聚会。
 # Outdated string
 navigation-meet-people-in-experimental = 使用 { -brand-name-firefox } 在实验性的混合现实（MR）聊天室中认识人们。
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } 混合现实
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } 将虚拟和增强现实带入开放式 Web。
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } 将 { -brand-name-firefox } 带入增强现实（AR）和虚拟现实（VR）。
 navigation-firefox-built-just-for = 专为开发者打造的 { -brand-name-firefox }。
@@ -72,6 +75,7 @@ navigation-share-large-files-safely = 安全地分享大文件，链接到期即
 navigation-save-quality-content = 随时随地保存优质内容，迸发思想火花。
 navigation-sign-up = 注册
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }：快速、简单、保护隐私。
+navigation-protect-your-entire-device = 保护您的整个设备与所有应用程序。隐藏您的真实位置，并最多连接 5 台设备。立即订阅。
 # Outdated string
 navigation-connected-and-protected = 上网受到保护
 navigation-join = 加入
