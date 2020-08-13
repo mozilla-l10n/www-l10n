@@ -65,6 +65,7 @@ firefox-desktop-download-cryptominer-blocking = Blokowanje kryptokopakow
 firefox-desktop-download-private-browsing-mode = Priwatny modus
 firefox-desktop-download-individual-protections-report = Indiwiduelna rozprawa wo škiće
 firefox-desktop-download-secure-your-personal = Zawěsćće swoje wosobinske informacije
+firefox-desktop-download-breached-website-alerts = Warnowanja wo websydłach z datowymi dźěrami
 firefox-desktop-download-built-in-password = Zatwarjeny zrjadowak hesłow
 firefox-desktop-download-clear-history = Historiju zhašeć
 firefox-desktop-download-form-autofill = Awtomatiske wupjelnjenje formularow
