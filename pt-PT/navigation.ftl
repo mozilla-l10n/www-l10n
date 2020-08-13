@@ -75,6 +75,7 @@ navigation-share-large-files-safely = Partilhe ficheiros grandes com segurança,
 navigation-save-quality-content = Guarde conteúdo de qualidade de qualquer lugar. Alimente a sua mente em todo o lado.
 navigation-sign-up = Registo
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rápida. Simples. Privada.
+navigation-protect-your-entire-device = Proteja o seu dispositivo e todas as aplicações. Mascare a sua localização real e ligue até 5 dispositivos. Inscreva-se agora.
 # Outdated string
 navigation-connected-and-protected = Ligado e protegido
 navigation-join = Participar
@@ -93,8 +94,10 @@ navigation-add-ons = Extras
 navigation-projects = Projetos
 navigation-close-projects-menu = Fechar o menu Projetos
 navigation-donate-your-voice-to = Doe a sua voz para ajudar a tornar o reconhecimento de voz aberto a todos.
+navigation-machine-learning = Aprendizagem automática
 # Outdated string
 navigation-web-of-things-iot = Web das Coisas (IoT)
+navigation-help-make-deep-learning = Ajude a trazer os algoritmos de aprendizagem profunda para o mundo do código aberto.
 # Outdated string
 navigation-make-devices-connected = Torne dispositivos ligados à internet seguros e interoperáveis.
 navigation-developers = Programadores
