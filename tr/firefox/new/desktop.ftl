@@ -44,6 +44,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } herkes için
 firefox-desktop-download-available-in-over = { -brand-name-firefox } 90 dili destekliyor ve { -brand-name-windows }, { -brand-name-mac-short } ve { -brand-name-linux } ile uyumlu. En iyi deneyim için işletim sisteminizin güncel olması yeterli.
 firefox-desktop-download-review-system-req = Sistem gereksinimlerini inceleyin
 firefox-desktop-download-all-your-devices = { -brand-name-firefox }’u tüm cihazlarınıza yükleyin
+firefox-desktop-download-take-your-privacy = Gizliliğinizi yanınızda taşıyın. { -brand-name-ios } ve { -brand-name-android } için { -brand-name-firefox-browsers }, nerede olursanız olun takip kodlarının sizi web’de takip etmesini engelleyen güçlü gizlilik ayarlarına sahip.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = { -brand-name-firefox } ile <strong>hepsini</strong> yapın
 firefox-desktop-download-search-smarter = Daha akıllı, daha hızlı arama
@@ -89,8 +90,12 @@ firefox-desktop-download-make-firefox-your = Bu <strong>{ -brand-name-firefox }<
 firefox-desktop-download-extensions-for-every = Her ilgi alanına hitap eden eklentiler
 firefox-desktop-download-change-up-your = Görünüşü değiştirin
 firefox-desktop-download-tweak-your-settings = Ayarlarınızı değiştirin
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Paradan önce <strong>insanlığa</strong> öncelik veren kuruluştan
 firefox-desktop-download-challenging-the-status = 1998’den beri statükoya meydan okuyoruz
 firefox-desktop-download-your-privacy-comes = Önceliğimiz gizliliğiniz
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = En sevdiğiniz tarayıcı özelliklerini kullanırken yenilerini de <strong>keşfedin</strong>.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Cihazlarınızı eşitleyin
 firefox-desktop-download-screenshots = Ekran görüntüleri
@@ -100,17 +105,24 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> için { -brand-name-firefox-browser }nı indirin
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> için { -brand-name-firefox-browser }nı indirin
 firefox-desktop-download-download-the-mobile = Tüm cihazlarınızda otomatik koruma için { -brand-name-firefox } mobil tarayıcısını indirin.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
 firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
 firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Bitmek üzere!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Şimdi { -brand-name-firefox } <strong>yüklemesini</strong> tamamlayın.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = Şimdi indirdiğiniz yükleyiciyi <strong>çalıştırın</strong>.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Şimdi indirdiğiniz dosyayı <strong>açın</strong>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kurulumla ilgili yardım alabilirsiniz</a>.
 firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
