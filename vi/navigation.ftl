@@ -48,6 +48,7 @@ navigation-meet-people-in-experimental = Gặp gỡ mọi người trong thử n
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } mang thực tế ảo và thực tế tăng cường cho web mở.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } mang { -brand-name-firefox } cho việc tăng cường và thực tế ảo.
 navigation-firefox-built-just-for = { -brand-name-firefox }, được xây dựng chỉ dành cho các nhà phát triển.
@@ -73,6 +74,8 @@ navigation-security-tips = Mẹo bảo mật
 navigation-share-large-files-safely = Chia sẻ các tập tin lớn một cách an toàn, với các liên kết ‘tự hủy’.
 navigation-save-quality-content = Lưu nội dung chất lượng từ bất cứ đâu. Nhiên liệu tâm trí của bạn ở khắp mọi nơi.
 navigation-sign-up = Đăng ký
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Nhanh. Đơn giản. Riêng tư.
+navigation-protect-your-entire-device = Bảo vệ toàn bộ thiết bị của bạn và tất cả các ứng dụng. Che vị trí thực của bạn và kết nối tối đa 5 thiết bị. Đăng ký theo dõi ngay.
 # Outdated string
 navigation-connected-and-protected = Kết nối và bảo vệ
 navigation-join = Tham gia
@@ -94,6 +97,7 @@ navigation-donate-your-voice-to = Đóng góp giọng nói của bạn để gi�
 navigation-machine-learning = Học máy
 # Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+navigation-help-make-deep-learning = Giúp cho các thuật toán học sâu sẵn sàng cho thế giới nguồn mở.
 # Outdated string
 navigation-make-devices-connected = Làm cho các thiết bị kết nối với internet an toàn và có thể tương tác.
 navigation-developers = Nhà phát triển
