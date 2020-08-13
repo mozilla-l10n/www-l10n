@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } for { -brand-name-fire-
 navigation-watch-videos-and-browse = 使用您的 { -brand-name-amazon } { -brand-name-fire-tv } 觀賞影片、瀏覽網頁。
 navigation-firefox-browsers-put = 一直以來，{ -brand-name-firefox } 瀏覽器都將您的隱私擺在第一位。
 navigation-take-the-passwords-youve = 將儲存到 { -brand-name-firefox } 的密碼隨身帶著走。
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } 有一系列設計來讓您在線上更聰明，並保護安全的產品。
 navigation-join-firefox = 加入 { -brand-name-firefox }
 navigation-access-all-of-firefox = 只要使用一組登入資訊，即可使用完整的 { -brand-name-firefox } 相關產品。
@@ -36,10 +37,16 @@ navigation-get-firefox-focus = 下載 { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } 擴充套件
 navigation-your-firefox-account = 您的 { -brand-name-firefox-account }
 navigation-make-the-most-of-your = 在每台裝置上都能充分發揮 { -brand-name-firefox } 的強大體驗。
+# Outdated string
 navigation-learn-how-to-customize = 了解如何自訂您的 { -brand-name-firefox }。
+# Outdated string
 navigation-experience-augmented = 使用 { -brand-name-firefox } 體驗擴增與虛擬實境。
+# Outdated string
 navigation-meet-people-in-experimental = 使用 { -brand-name-firefox } 於實驗性的 Mixed Reality 聊天室中認識人們。
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } 將 { -brand-name-firefox } 帶入擴增實境與虛擬實境。
 navigation-firefox-built-just-for = 專為開發者打造的 { -brand-name-firefox } 版本。
 navigation-preview-the-latest-build = 預覽最新版的 { -brand-name-firefox } 並幫助我們做到最好。
@@ -64,6 +71,8 @@ navigation-security-tips = 安全小秘訣
 navigation-share-large-files-safely = 安全地使用會「自動摧毀」的鏈結分享大檔案。
 navigation-save-quality-content = 隨時隨地保存高品質的內容，讓您的創意突飛猛進。
 navigation-sign-up = 註冊
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: 快速、簡單、保護隱私。
+# Outdated string
 navigation-connected-and-protected = 上網時受到保護
 navigation-join = 加入
 navigation-close-join-menu = 關閉加入選單
@@ -76,11 +85,16 @@ navigation-meet-the-technology-company = 認識這間看重人們大過利益的
 navigation-new-features = 全新功能
 navigation-save-content-absorb-knowledge = 儲存內容，吸收知識。
 navigation-same-speed-and-safety = 一樣可信賴的安全性與速度，專為商業環境設計。
+# Outdated string
 navigation-add-ons = 附加元件
 navigation-projects = 專案
 navigation-close-projects-menu = 關閉專案選單
 navigation-donate-your-voice-to = 捐出您的聲音，讓每個人都能使用語音識別軟體。
+navigation-machine-learning = 機器學習
+# Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+navigation-help-make-deep-learning = 幫助讓開放原始碼的世界也能使用深度學習演算法。
+# Outdated string
 navigation-make-devices-connected = 讓裝置以安全、可靠、可互相操作的方式連結到網際網路。
 navigation-developers = 開發者
 navigation-close-developers-menu = 關閉開發者選單
