@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } for { -brand-name-fire-
 navigation-watch-videos-and-browse = 使用您的 { -brand-name-amazon } { -brand-name-fire-tv } 观看视频、浏览网页。
 navigation-firefox-browsers-put = 一直以来，{ -brand-name-firefox } 浏览器都将您的隐私放在首位。
 navigation-take-the-passwords-youve = 随身携带在 { -brand-name-firefox } 中保存的密码。
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } 有一系列产品，旨在让您上网更安全、更智慧。
 navigation-join-firefox = 加入 { -brand-name-firefox }
 navigation-access-all-of-firefox = 只需一次登录，即可使用所有 { -brand-name-firefox } 产品。
@@ -36,10 +37,16 @@ navigation-get-firefox-focus = 下载 { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } 扩展
 navigation-your-firefox-account = 您的 { -brand-name-firefox-account }
 navigation-make-the-most-of-your = 在每台设备上都能充分发挥 { -brand-name-firefox } 的强大体验。
+# Outdated string
 navigation-learn-how-to-customize = 了解如何打造出专属你的 { -brand-name-firefox }。
+# Outdated string
 navigation-experience-augmented = 使用 { -brand-name-firefox } 体验增强现实（AR）和虚拟现实（VR）。
+# Outdated string
 navigation-meet-people-in-experimental = 使用 { -brand-name-firefox } 在实验性的混合现实（MR）聊天室中认识人们。
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } 混合现实
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } 将 { -brand-name-firefox } 带入增强现实（AR）和虚拟现实（VR）。
 navigation-firefox-built-just-for = 专为开发者打造的 { -brand-name-firefox }。
 navigation-preview-the-latest-build = 预览最新版的 { -brand-name-firefox } 并帮助我们做到最好。
@@ -64,6 +71,7 @@ navigation-security-tips = 安全提示
 navigation-share-large-files-safely = 安全地分享大文件，链接到期即焚。
 navigation-save-quality-content = 随时随地保存优质内容，迸发思想火花。
 navigation-sign-up = 注册
+# Outdated string
 navigation-connected-and-protected = 上网受到保护
 navigation-join = 加入
 navigation-close-join-menu = 关闭“加入”菜单
@@ -76,11 +84,15 @@ navigation-meet-the-technology-company = 认识这家非营利的科技公司。
 navigation-new-features = 新功能
 navigation-save-content-absorb-knowledge = 保存内容，汲取知识。
 navigation-same-speed-and-safety = 一样可信赖的安全性与速度，专为商业环境设计。
+# Outdated string
 navigation-add-ons = 附加组件
 navigation-projects = 项目
 navigation-close-projects-menu = 关闭项目菜单
 navigation-donate-your-voice-to = 捐出您的声音，让每个人都能使用语音识别技术。
+navigation-machine-learning = 机器学习
+# Outdated string
 navigation-web-of-things-iot = 物联网（IoT）
+# Outdated string
 navigation-make-devices-connected = 让设备以安全、可靠、可互操作的方式连接到互联网。
 navigation-developers = 开发者
 navigation-close-developers-menu = 关闭开发者菜单
