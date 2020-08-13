@@ -82,6 +82,9 @@ firefox-desktop-download-tweak-your-settings = Přiměrće swoje nastajenja
 firefox-desktop-download-challenging-the-status = Dwělujemy na status quo wot lěta 1998
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma najwyšu prioritu
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Sćehńće tute rozšěrjenje wobhladowaka</a>, zo byšće { -brand-name-facebook } a ({ -brand-name-instagram }) zadźěwał, wam po webje slědować.
 firefox-desktop-download-sync-your-devices = Synchronizujće swoje graty
 firefox-desktop-download-screenshots = Fota wobrazowki
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -89,6 +92,7 @@ firefox-desktop-download-enhanced-tracking-protection = Polěpšeny slědowanski
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Wobstarajće sej { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Wobstarajće sej { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Sćehńće mobilny wobhladowak { -brand-name-firefox } za awtomatiski škit na wšěch wašich gratach.
 firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhladowaku { -brand-name-firefox } deleka
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
@@ -101,6 +105,9 @@ firefox-desktop-download-just-download-the-browser = Sćehńće prosće wobhlado
 firefox-desktop-download-almost-there = Nimale zdokonjany!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = <strong>Wuwjedźće</strong> nětko instalowanski program, kotryž sće runje sćahnył.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Wočińće</strong> nětko dataju, kotruž sće runje sćahnył.
+firefox-desktop-download-in-another-language = W druhej rěči abo za druhi dźěłowy system sćahnyć.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Wužiwaće njewěsty, zestarjeny dźěłowy system, kotryž <a href="{ $url }">so hižo wot { -brand-name-firefox } njedpodpěruje</a>.
