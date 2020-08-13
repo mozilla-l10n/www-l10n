@@ -7,11 +7,14 @@
 
 # HTML page title
 whatsnew79-page-title = Што новага ў { -brand-name-firefox }
+# Main CTA button
+whatsnew79-primary-cta = Зрабіце { -brand-name-firefox } прадвызначаным
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Атрымаць { -brand-name-firefox }
 whatsnew79-secure-your-connection = Абараніце сваё злучэнне
 # CTA link
 whatsnew79-get-started = Пачаць
+whatsnew79-get-more-control-over = Атрымайце больш кантролю над трэкерамі
 # CTA link
 whatsnew79-see-your-report = Паглядзіце сваю справаздачу
 whatsnew79-update-your-firefox = Абнавіць свой браўзер { -brand-name-firefox }
