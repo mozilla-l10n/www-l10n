@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Fedezzen fel olyan termékeket, ame
 firefox-mobile-sync-your-history-passwords = Szinkronizálja az előzményeket jelszavakat és könyvjelzőket. Küldjön lapokat az eszközei között.
 firefox-mobile-android-only = Csak { -brand-name-android }on
 firefox-mobile-make-android-your-own = Tegye sajátjává az { -brand-name-android }ot
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Szabja testre a mobilos { -brand-name-firefox } böngészőjét <a href="{ $url }">kiegészítőkkel</a>, hogy blokkolja a reklámokat, kezelje a jelszavait, megállítsa a { -brand-name-facebook } követését és így tovább.
+firefox-mobile-customize-your-firefox-mobile-truncated = Szabja testre kiegészítőkkel a { -brand-name-firefox } mobil böngészőjét.
 firefox-mobile-find-it-fast-with-a-smart = Találja meg gyorsan az intelligens keresősáv segítségével
 firefox-mobile-firefox-anticipates-your-needs = A { -brand-name-firefox } felismeri az igényeit az intelligens keresési javaslatokkal és a leggyakrabban látogatott oldalak gyors elérésével.
 firefox-mobile-the-privacy-you-deserve-the = Az adatvédelem, amit megérdemel. A sebesség, amire szüksége van.
