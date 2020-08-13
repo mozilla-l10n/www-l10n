@@ -42,6 +42,7 @@ navigation-learn-how-to-customize = Ismerje meg, hogyan szabhatja testre a { -br
 navigation-explore-the-immersive = Fedezze fel a magával ragadó webet a virtuális valóság szemüvegével.
 # Outdated string
 navigation-experience-augmented = Tapasztalja meg a kiterjesztett és a virtuális valóságot a { -brand-name-firefox } segítségével.
+navigation-get-together = Találkozzon a virtuális valóságban ebben az online közösségi térben.
 # Outdated string
 navigation-meet-people-in-experimental = Találkozzon más emberekkel a kísérleti vegyes valóságot használó csevegőszobákban, a { -brand-name-firefox } segítségével.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
@@ -74,6 +75,7 @@ navigation-share-large-files-safely = Osszon meg biztonságosan nagy fájlokat �
 navigation-save-quality-content = Mentsen minőségi tartalmakat bárhonnan. Töltse fel az elméjét mindenütt.
 navigation-sign-up = Regisztráció
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Gyors. Egyszerű. Privát.
+navigation-protect-your-entire-device = Védje az egész eszközt és az összes alkalmazást. Rejtse el a valódi helyét, és csatlakoztasson akár 5 eszközt. Regisztráljon most.
 # Outdated string
 navigation-connected-and-protected = Kapcsolódva és védve
 navigation-join = Csatlakozás
