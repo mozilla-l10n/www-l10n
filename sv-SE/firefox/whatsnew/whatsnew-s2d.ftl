@@ -10,5 +10,5 @@ whatsnew-s2d-want-privacy-on-every-device = Personlig integritet på alla dina e
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
 whatsnew-s2d-you-got-it-get-firefox-for = Det får du. Hämta { -brand-name-firefox } för mobil och surfplatta.
 # Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Skicka { -brand-name-firefox } till din telefon<br> och släpp lös Internet.
+whatsnew-s2d-send-firefox-to-your-phone = { -brand-name-send }{ -brand-name-firefox } till din telefon<br> och släpp lös Internet.
 whatsnew-s2d-download-firefox-for-your = Ladda ner { -brand-name-firefox } till din smartphone och surfplatta.
