@@ -7,15 +7,15 @@
 
 # html page title
 whatsnew80-page-title = Jetzt neu in { -brand-name-firefox }
-whatsnew80-up-to-date-banner = Perfekt! Sie haben die neueste Version von { -brand-name-firefox } am Start.
+whatsnew80-up-to-date-banner = Perfekt! Du haben die neueste Version von { -brand-name-firefox }.
 # Main title
-whatsnew80-main-title = Alles geht, nur schneller
-whatsnew80-main-intro = Wechseln Sie nahtlos vom Computer zum Handy. Holen Sie sich { -brand-name-firefox } für Mobilgeräte
-whatsnew80-primary-cta-description = Geben Sie Ihre E-Mail-Adresse oder Telefonnummer ein, um einen Download-Link zu erhalten
+whatsnew80-main-title = So schnell kann’s gehen
+whatsnew80-main-intro = Wechsle nahtlos zwischen Laptop und Smartphone und sei überall sofort startklar. Hol dir { -brand-name-firefox } für Mobile.
+whatsnew80-primary-cta-description = Gib die E-Mail-Adresse oder Telefonnummer an, an die du den Download-Link versenden möchtest.
 # content buckets below hero
-whatsnew80-password-fatigue = Passwörter werden alt
-whatsnew80-the-average-person = Die durchschnittliche Person hat 130 Online-Konten. { -brand-name-firefox } für Mobilgeräte speichert Ihre Passwörter sicher auf synchronisierten Geräten, sodass Sie sich mit nur einem Klick anmelden können.
-whatsnew80-privacy-you-never = Datenschutz ohne Nachzudenken
-whatsnew80-firefox-for-mobile = { -brand-name-firefox } für Mobilgeräte blockiert die meisten Online-Werbe-Tracker automatisch, sodass Sie Ihre Sicherheitseinstellungen nicht ändern müssen.
+whatsnew80-password-fatigue = Passwörter merken? Viel zu anstrengend.
+whatsnew80-the-average-person = Im Durchschnitt hat jeder Internetnutzer 130 Online-Accounts. { -brand-name-firefox } für Mobile hilft dir jetzt dabei, deine Passwörter sicher zu speichern und jederzeit auf deinen synchronisierten Geräten abzurufen – mit nur einem Klick.
+whatsnew80-privacy-you-never = Privatsphäre als Standard
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } für Mobile blockt Werbe-Tracker ganz automatisch. Du musst nicht erst in den Einstellungen wühlen, um dich zu schützen.
 whatsnew80-new-firefox-android = Der neue { -brand-name-firefox } für { -brand-name-android }
-whatsnew80-our-latest-version = Unsere neueste Version von { -brand-name-firefox } bietet blitzschnelle Seitenladevorgänge und ein sauberes neues Design, das es einfacher macht, mehr Dinge schneller zu erledigen.
+whatsnew80-our-latest-version = Die neueste Version von { -brand-name-firefox } lädt Webseiten noch schneller und kommt mit einem intuitiven, cleanen Design, das die Handhabung noch einfacher und effizienter macht.
