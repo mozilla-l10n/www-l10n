@@ -39,13 +39,16 @@ navigation-your-firefox-account = 您的 { -brand-name-firefox-account }
 navigation-make-the-most-of-your = 在每台裝置上都能充分發揮 { -brand-name-firefox } 的強大體驗。
 # Outdated string
 navigation-learn-how-to-customize = 了解如何自訂您的 { -brand-name-firefox }。
+navigation-explore-the-immersive = 使用您的 VR 眼鏡探索沉浸式網頁內容。
 # Outdated string
 navigation-experience-augmented = 使用 { -brand-name-firefox } 體驗擴增與虛擬實境。
+navigation-get-together = 在這個線上社交空間用虛擬實境的方式聚會。
 # Outdated string
 navigation-meet-people-in-experimental = 使用 { -brand-name-firefox } 於實驗性的 Mixed Reality 聊天室中認識人們。
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } 將虛擬與擴增實境帶到開放網路當中。
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } 將 { -brand-name-firefox } 帶入擴增實境與虛擬實境。
 navigation-firefox-built-just-for = 專為開發者打造的 { -brand-name-firefox } 版本。
