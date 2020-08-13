@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } för { -brand-name-fire
 navigation-watch-videos-and-browse = Titta på videor och surfa på internet på din { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = { -brand-name-firefox } webbläsare sätter din integritet först — och har alltid gjort det.
 navigation-take-the-passwords-youve = Ta med dig de lösenord som du har sparat i { -brand-name-firefox } överallt.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } är en hel familj av produkter som är utformade för att hålla dig säkrare och smartare online.
 navigation-join-firefox = Bli en del av { -brand-name-firefox }
 navigation-access-all-of-firefox = Få åtkomst till hela { -brand-name-firefox } med en enda inloggning — och få ut mer från varje produkt när du gör det.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Hämta { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-utökningar
 navigation-your-firefox-account = Ditt { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Få ut det mest möjliga av din { -brand-name-firefox }-upplevelse, på alla enheter.
+# Outdated string
 navigation-learn-how-to-customize = Lär dig hur du kan anpassa { -brand-name-firefox }.
+navigation-explore-the-immersive = Utforska den uppslukande webben med ditt virtual reality-headset.
+# Outdated string
 navigation-experience-augmented = Upplev förstärkt och virtuell verklighet med { -brand-name-firefox }.
+navigation-get-together = Samlas i virtuell verklighet med detta sociala onlineutrymme.
+# Outdated string
 navigation-meet-people-in-experimental = Träffa människor i experimentella Mixed Reality-chattrum med { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } ger virtuell och förstärkt verklighet till den öppna webben.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } tar { -brand-name-firefox } med in i en förstärkt och virtuell verklighet.
 navigation-firefox-built-just-for = { -brand-name-firefox }, byggt bara för utvecklare.
 navigation-preview-the-latest-build = Förhandsgranska den senaste versionen av { -brand-name-firefox } och hjälpa oss att göra den bäst.
@@ -64,6 +74,9 @@ navigation-security-tips = Säkerhetstips
 navigation-share-large-files-safely = Dela stora filer säkert, med länkar som "självförstörs".
 navigation-save-quality-content = Spara kvalitetsinnehåll var som helst. Fyll på tankarna överallt.
 navigation-sign-up = Registrera dig
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Snabb. Enkel. Privat.
+navigation-protect-your-entire-device = Skydda hela enheten och alla applikationer. Maskera din verkliga plats och anslut upp till 5 enheter. Prenumerera nu.
+# Outdated string
 navigation-connected-and-protected = Ansluten och skyddad
 navigation-join = Gå med
 navigation-close-join-menu = Stäng meny gå med
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Möt teknikföretaget som sätter männ
 navigation-new-features = Nya funktioner
 navigation-save-content-absorb-knowledge = Spara innehåll. Absorbera kunskap.
 navigation-same-speed-and-safety = Samma hastighet och säkerhet som du litar på, designad bara för företag.
+# Outdated string
 navigation-add-ons = Tillägg
 navigation-projects = Projekt
 navigation-close-projects-menu = Stäng meny projekt
 navigation-donate-your-voice-to = Donera din röst för att göra röstigenkänning öppet för alla.
+navigation-machine-learning = Maskininlärning
+# Outdated string
 navigation-web-of-things-iot = Sakernas internet (IoT)
+navigation-help-make-deep-learning = Hjälp med att göra djupinlärning algoritmer tillgängliga för öppen källkods världen.
+# Outdated string
 navigation-make-devices-connected = Anslut enheter till internet säkert och driftskompatibelt.
 navigation-developers = Utvecklare
 navigation-close-developers-menu = Stäng utvecklarmeny
