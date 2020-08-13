@@ -39,6 +39,7 @@ navigation-your-firefox-account = Az Ön { -brand-name-firefox-account }ja
 navigation-make-the-most-of-your = Hozza ki a legtöbbet a { -brand-name-firefox } élményéből, minden eszközén.
 # Outdated string
 navigation-learn-how-to-customize = Ismerje meg, hogyan szabhatja testre a { -brand-name-firefox } működését.
+navigation-explore-the-immersive = Fedezze fel a magával ragadó webet a virtuális valóság szemüvegével.
 # Outdated string
 navigation-experience-augmented = Tapasztalja meg a kiterjesztett és a virtuális valóságot a { -brand-name-firefox } segítségével.
 # Outdated string
@@ -46,13 +47,14 @@ navigation-meet-people-in-experimental = Találkozzon más emberekkel a kísérl
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = A { -brand-name-mozilla } elhozza a nyílt webre a virtuális és kiterjesztett valóságot.
 # Outdated string
 navigation-mozilla-brings-firefox = A { -brand-name-mozilla } elhozza a { -brand-name-firefox }ot a kiterjesztett és a virtuális valósághoz.
 navigation-firefox-built-just-for = { -brand-name-firefox }, fejlesztők számára összeállítva.
 navigation-preview-the-latest-build = Próbálja ki a { -brand-name-firefox } legfrissebb verzióit, és segítsen, hogy a lehető legjobb legyen.
 navigation-firefox-playground = { -brand-name-firefox } játszótér
 navigation-mozilla-open-source-support = { -brand-name-mozilla } nyílt forráskódú támogatás (MOSS)
-navigation-mozilla-manifesto = { -brand-name-mozilla } Kiáltvány
+navigation-mozilla-manifesto = { -brand-name-mozilla } kiáltvány
 navigation-menu = Menü
 navigation-check-out-the-benefits = Nézze meg az előnyöket
 navigation-browsers = Böngészők
@@ -90,8 +92,10 @@ navigation-add-ons = Kiegészítők
 navigation-projects = Projektek
 navigation-close-projects-menu = Projektek menü bezárása
 navigation-donate-your-voice-to = Adja a hangját, hogy mindenki számára elérhető legyen a hangfelismerés.
+navigation-machine-learning = Gépi tanulás
 # Outdated string
 navigation-web-of-things-iot = Dolgok webe (IoT)
+navigation-help-make-deep-learning = Segítsen abban, hogy a mély tanulási algoritmusok elérhetők legyenek a nyílt forráskódú világban.
 # Outdated string
 navigation-make-devices-connected = Tegye biztonságossá és együttműködésre képessé az internetre csatlakozó eszközöket.
 navigation-developers = Fejlesztők
