@@ -71,7 +71,7 @@ navigation-security-tips = 安全提示
 navigation-share-large-files-safely = 安全地分享大文件，链接到期即焚。
 navigation-save-quality-content = 随时随地保存优质内容，迸发思想火花。
 navigation-sign-up = 注册
-navigation-mozilla-vpn = { -brand-name-mozilla-vpn }：快速、简单、隐私。
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }：快速、简单、保护隐私。
 # Outdated string
 navigation-connected-and-protected = 上网受到保护
 navigation-join = 加入
