@@ -8,6 +8,6 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } супраць { -brand-name-chrome }: Хто лепшы?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = Мы параўноўваем Mozilla Firefox з Google Chrome з пункту гледжання прыватнасці, зручнасці і пераноснасці
+compare-chrome-we-compare-mozilla-firefox = Мы параўноўваем { -brand-name-mozilla } { -brand-name-firefox } з { -brand-name-google } { -brand-name-chrome } з пункту гледжання прыватнасці, зручнасці і пераноснасці
 # Main title.
-compare-chrome-comparing-firefox-browser = Параўнанне браўзера Firefox з Google Chrome
+compare-chrome-comparing-firefox-browser = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-google } { -brand-name-chrome }

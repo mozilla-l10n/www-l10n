@@ -8,10 +8,10 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } супраць { -brand-name-ie }: Які браўзер лепшы для вас?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Параўнайце { -brand-name-ie } з браўзерам Firefox, каб даведацца, які браўзер лепшы для вас.
+compare-ie-compare-internet-explorer-to = Параўнайце { -brand-name-ie } з браўзерам { -brand-name-firefox-browser }, каб даведацца, які браўзер лепшы для вас.
 # Main title
-compare-ie-comparing-firefox-browser-with = Параўнанне браўзера Firefox з { -brand-name-microsoft } { -brand-name-ie }
-compare-ie-while-microsofts-internet-explorer = Хоць { -brand-name-ie } па-ранейшаму ідзе папярэдне ўсталяваным на большасці ПК на базе { -brand-name-windows }, відавочна, што { -brand-name-microsoft } хацела б, каб вы карысталіся іх аглядальнікам { -brand-name-edge }, які ўсталёўваецца як прадвызначаны пры куплі.
+compare-ie-comparing-firefox-browser-with = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = Хоць { -brand-name-ie } ад { -brand-name-microsoft } па-ранейшаму ідзе папярэдне ўсталяваным на большасці ПК на базе { -brand-name-windows }, відавочна, што { -brand-name-microsoft } хацела б, каб вы карысталіся іх аглядальнікам { -brand-name-edge }, які ўсталёўваецца як прадвызначаны пры куплі.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } спыніла працу над брэндам { -brand-name-ie } некалькі гадоў таму на карысць свайго абноўленага браўзера { -brand-name-edge } для { -brand-name-windows } 10. Аднак павольнае прыняцце { -brand-name-edge } стварыла месца для { -brand-name-ie }, галоўным чынам, з меркаванняў сумяшчальнасці бізнесу.
 compare-ie-here-well-compare-our-firefox = Тут мы параўнаем свой браўзер { -brand-name-firefox } і { -brand-name-ie } у плане бяспекі, зручнасці і пераноснасці. Мы дапаможам вам зразумець адрозненні паміж тым, як сучасны браўзер, такі як { -brand-name-firefox }, што прытрымліваецца вэб-стандартаў, выглядае ў параўнанні з браўзерам, які вы можаце выкарыстоўваць у мэтах бізнесу альбо з-за старых звычак, якія ніяк не забудуцца.
 # Variables:
