@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Nézzen videókat és böngésszen az interneten az { -brand-name-amazon } { -brand-name-fire-tv }-n.
 navigation-firefox-browsers-put = A { -brand-name-firefox } böngészők az adatvédelmet helyezik előtérbe – ahogy mindig is.
 navigation-take-the-passwords-youve = Vigye magával mindenhová a { -brand-name-firefox }ban mentett jelszavait.
+# Outdated string
 navigation-firefox-is-a-whole-family = A { -brand-name-firefox } egy olyan teljes termékcsalád, amely arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online.
 navigation-join-firefox = Csatlakozzon a { -brand-name-firefox }hoz
 navigation-access-all-of-firefox = Érje el az összes { -brand-name-firefox } tartalmát egyetlen bejelentkezéssel – és hozzon ki többet az összes termékből.
@@ -36,10 +37,16 @@ navigation-get-firefox-focus = { -brand-name-firefox-focus } beszerzése
 navigation-android-extensions = { -brand-name-android }os kiegészítők
 navigation-your-firefox-account = Az Ön { -brand-name-firefox-account }ja
 navigation-make-the-most-of-your = Hozza ki a legtöbbet a { -brand-name-firefox } élményéből, minden eszközén.
+# Outdated string
 navigation-learn-how-to-customize = Ismerje meg, hogyan szabhatja testre a { -brand-name-firefox } működését.
+# Outdated string
 navigation-experience-augmented = Tapasztalja meg a kiterjesztett és a virtuális valóságot a { -brand-name-firefox } segítségével.
+# Outdated string
 navigation-meet-people-in-experimental = Találkozzon más emberekkel a kísérleti vegyes valóságot használó csevegőszobákban, a { -brand-name-firefox } segítségével.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = A { -brand-name-mozilla } elhozza a { -brand-name-firefox }ot a kiterjesztett és a virtuális valósághoz.
 navigation-firefox-built-just-for = { -brand-name-firefox }, fejlesztők számára összeállítva.
 navigation-preview-the-latest-build = Próbálja ki a { -brand-name-firefox } legfrissebb verzióit, és segítsen, hogy a lehető legjobb legyen.
@@ -64,6 +71,8 @@ navigation-security-tips = Biztonsági tippek
 navigation-share-large-files-safely = Osszon meg biztonságosan nagy fájlokat „önmegsemmisítő” hivatkozásokkal.
 navigation-save-quality-content = Mentsen minőségi tartalmakat bárhonnan. Töltse fel az elméjét mindenütt.
 navigation-sign-up = Regisztráció
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Gyors. Egyszerű. Privát.
+# Outdated string
 navigation-connected-and-protected = Kapcsolódva és védve
 navigation-join = Csatlakozás
 navigation-close-join-menu = Csatlakozás menü bezárása
@@ -76,11 +85,14 @@ navigation-meet-the-technology-company = Ismerje meg a technológiai vállalatot
 navigation-new-features = Új funkciók
 navigation-save-content-absorb-knowledge = Mentse el a tartalmat. Ismerje meg a tudást.
 navigation-same-speed-and-safety = Ugyanaz a sebesség és biztonság, amelyben megbízik, üzleti célokra tervezve.
+# Outdated string
 navigation-add-ons = Kiegészítők
 navigation-projects = Projektek
 navigation-close-projects-menu = Projektek menü bezárása
 navigation-donate-your-voice-to = Adja a hangját, hogy mindenki számára elérhető legyen a hangfelismerés.
+# Outdated string
 navigation-web-of-things-iot = Dolgok webe (IoT)
+# Outdated string
 navigation-make-devices-connected = Tegye biztonságossá és együttműködésre képessé az internetre csatlakozó eszközöket.
 navigation-developers = Fejlesztők
 navigation-close-developers-menu = Fejlesztők menü bezárása
