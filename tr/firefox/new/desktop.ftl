@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } deste
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>izlemiyor</strong>.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox }’u diğer tarayıcılarla karşılaştırın
+firefox-desktop-download-get-all-the-speed = Aradığınız hızı ve araçları, gizliliğinizi ihlal etmeden sunuyoruz. { -brand-name-firefox-browser } hakkınızda o kadar az veri topluyor ki tarayıcımızı indirmek için e-posta adresinizi bile sormuyoruz. Çünkü diğer tarayıcıların aksine, internette yaptıklarınızı izlemek bize para kazandırmıyor.
 firefox-desktop-download-how-we-compare = Diğer tarayıcılarla karşılaştırmamızı inceleyin
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } ile karşılaştırın:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -36,9 +37,11 @@ firefox-desktop-download-blocks-social-trackers = Sosyal takipçileri engeller
 firefox-desktop-download-os-availability = Farklı işletim sistemleri desteği
 firefox-desktop-download-in-browser-screenshot = Tarayıcı içi ekran görüntüsü aracı
 firefox-desktop-download-master-password = Ana parola
-firefox-desktop-download-we-block-the-ad = Biz reklam takipçilerini engelliyoruz, siz daha hızlı geziniyorsunuz.
+firefox-desktop-download-we-block-the-ad = Biz reklam takipçilerini engelliyoruz, siz daha hızlı geziniyorsunuz
+firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takipçisini otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
 firefox-desktop-download-see-your-report = Koruma raporunuza bakın
 firefox-desktop-download-for-everyone = { -brand-name-firefox } herkes için
+firefox-desktop-download-available-in-over = { -brand-name-firefox } 90 dili destekliyor ve { -brand-name-windows }, { -brand-name-mac-short } ve { -brand-name-linux } ile uyumlu. En iyi deneyim için işletim sisteminizin güncel olması yeterli.
 firefox-desktop-download-review-system-req = Sistem gereksinimlerini inceleyin
 firefox-desktop-download-all-your-devices = { -brand-name-firefox }’u tüm cihazlarınıza yükleyin
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
