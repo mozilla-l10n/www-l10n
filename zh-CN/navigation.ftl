@@ -71,6 +71,7 @@ navigation-security-tips = 安全提示
 navigation-share-large-files-safely = 安全地分享大文件，链接到期即焚。
 navigation-save-quality-content = 随时随地保存优质内容，迸发思想火花。
 navigation-sign-up = 注册
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }：快速、简单、隐私。
 # Outdated string
 navigation-connected-and-protected = 上网受到保护
 navigation-join = 加入
@@ -92,6 +93,7 @@ navigation-donate-your-voice-to = 捐出您的声音，让每个人都能使用�
 navigation-machine-learning = 机器学习
 # Outdated string
 navigation-web-of-things-iot = 物联网（IoT）
+navigation-help-make-deep-learning = 帮助让开源世界也能使用深度学习算法。
 # Outdated string
 navigation-make-devices-connected = 让设备以安全、可靠、可互操作的方式连接到互联网。
 navigation-developers = 开发者
