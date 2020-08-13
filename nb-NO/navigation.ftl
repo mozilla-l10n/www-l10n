@@ -75,7 +75,7 @@ navigation-share-large-files-safely = Del store filer trygt, med lenker som er �
 navigation-save-quality-content = Lagre innhold av høy kvalitet, les hvor du vil.
 navigation-sign-up = Registrer deg
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rask. Enkel. Privat.
-navigation-protect-your-entire-device = Beskytt hele enheten og alle applikasjoner. Masker din virkelige posisjon og koble til opptil 5 enheter. Abonner nå.
+navigation-protect-your-entire-device = Beskytt hele enheten og alle applikasjoner. Masker din virkelige plassering og koble til opptil 5 enheter. Abonner nå.
 # Outdated string
 navigation-connected-and-protected = Tilkoblet og beskyttet
 navigation-join = Bli med
@@ -97,7 +97,7 @@ navigation-donate-your-voice-to = Bidra med stemmen din for å gjøre stemmegjen
 navigation-machine-learning = Maskinlæring
 # Outdated string
 navigation-web-of-things-iot = Tingenes internett (IoT)
-navigation-help-make-deep-learning = Hjelp med å gjøre dyplæringsalgoritmer tilgjengelig for åpen kildekode-miljøet.
+navigation-help-make-deep-learning = Hjelp med å gjøre dyplæringsalgoritmer tilgjengelige for åpen kildekode-miljøet.
 # Outdated string
 navigation-make-devices-connected = Koble til enheter til internett sikkert og driftskompitabelt.
 navigation-developers = Utvikling
