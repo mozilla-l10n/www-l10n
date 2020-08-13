@@ -8,7 +8,7 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } kontra { -brand-name-brave }: melyik a jobb böngésző az Ön számára?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Hasonlítsa össze a { -brand-name-brave }-et a { -brand-name-firefox-browser }rel, hogy megtudja, melyik a jobb böngésző az Ön számára az adatvédelem, a hasznos funkciók és a hordozhatóság szempontjából.
+compare-brave-compare-brave-to-the-firefox = Hasonlítsa össze a { -brand-name-brave }-et a { -brand-name-firefox-browser }vel, hogy megtudja, melyik a jobb böngésző az Ön számára az adatvédelem, a hasznos funkciók és a hordozhatóság szempontjából.
 # Main title
 compare-brave-comparing-firefox-browser = A { -brand-name-firefox-browser } és a { -brand-name-brave } összehasonlítása
 # "Brave Software" is a brand name.
