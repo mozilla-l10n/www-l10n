@@ -42,10 +42,13 @@ navigation-learn-how-to-customize = Lær deg korleis du kan tilpasse { -brand-na
 navigation-explore-the-immersive = Utforsk det oppslukande nettet med virtuell røyndom-hovudsett.
 # Outdated string
 navigation-experience-augmented = Opplev utvida og virtuell røyndom med { -brand-name-firefox }.
+navigation-get-together = Kom saman i virtuell røyndom med dette sosiale rommet på nettet.
 # Outdated string
 navigation-meet-people-in-experimental = Møt menneske i Mixed Reality-chatterom med { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } tek virtuell og utvida røyndom til det opne nettet.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } tek { -brand-name-firefox } med inn i ein utvida og virtuell røyndom.
 navigation-firefox-built-just-for = { -brand-name-firefox }, bygd berre for utviklarar.
@@ -71,6 +74,7 @@ navigation-security-tips = Sikkerheitstips
 navigation-share-large-files-safely = Del store filer sikkert, med lenker som er «sjølvøydeleggjande».
 navigation-save-quality-content = Lagre innhald av høg kvalitet, les der du vil.
 navigation-sign-up = Registrer deg
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rask. Enkel. Privat.
 # Outdated string
 navigation-connected-and-protected = Tilkopla og beskytta
 navigation-join = Ver med
