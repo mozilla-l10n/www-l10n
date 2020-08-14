@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-you-are-about-to-download = Tas a piques de baxar:
+firefox-all-browser = Restolador:
+firefox-all-platform = Plataforma:
+firefox-all-language = Llingua:
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
