@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } dla { -brand-name-fire-
 navigation-watch-videos-and-browse = Oglądaj filmy i przeglądaj Internet na telewizorze { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Przeglądarki { -brand-name-firefox } stawiają Twoją prywatność na pierwszym miejscu — od zawsze i na zawsze.
 navigation-take-the-passwords-youve = Miej hasła zachowane w { -brand-name-firefox(case: "loc") } zawsze przy sobie.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } to cała rodzina produktów zaprojektowanych z myślą o Twoim bezpieczeństwie w Internecie.
 navigation-join-firefox = Dołącz do { -brand-name-firefox(case: "gen") }
 navigation-access-all-of-firefox = Miej dostęp do wszystkiego, co { -brand-name-firefox } oferuje za pomocą jednego logowania — i wyciągnij więcej z każdego naszego produktu.
@@ -36,10 +37,16 @@ navigation-get-firefox-focus = Pobierz { -brand-name-firefox-focus }
 navigation-android-extensions = Rozszerzenia na { -brand-name-android(case: "acc") }
 navigation-your-firefox-account = Twoje { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
 navigation-make-the-most-of-your = W pełni wykorzystaj { -brand-name-firefox(case: "acc") }, na każdym urządzeniu.
+# Outdated string
 navigation-learn-how-to-customize = Dowiedz się, jak dostosować sposób działania { -brand-name-firefox(case: "gen") }.
+navigation-explore-the-immersive = Odkrywaj wciągającą sieć na swoich goglach wirtualnej rzeczywistości.
+# Outdated string
 navigation-experience-augmented = Doświadcz rozszerzonej i wirtualnej rzeczywistości za pomocą { -brand-name-firefox(case: "gen") }.
+# Outdated string
 navigation-meet-people-in-experimental = Poznawaj ludzi w eksperymentalnych pokojach rozmów mieszanej rzeczywistości za pomocą { -brand-name-firefox(case: "gen") }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } wprowadza { -brand-name-firefox(case: "acc") } do rozszerzonej i wirtualnej rzeczywistości.
 navigation-firefox-built-just-for = { -brand-name-firefox }, zbudowany specjalnie dla deweloperów.
 navigation-preview-the-latest-build = Zapoznaj się z najnowszą kompilacją { -brand-name-firefox(case: "gen") } i pomóż nam go udoskonalić.
@@ -64,6 +71,7 @@ navigation-security-tips = Wskazówki bezpieczeństwa
 navigation-share-large-files-safely = Bezpiecznie udostępniaj duże pliki za pomocą odnośników, które ulegają samozniszczeniu.
 navigation-save-quality-content = Zachowuj wysokiej jakości treści, skąd tylko chcesz. Napędzaj nimi swój umysł, gdzie tylko chcesz.
 navigation-sign-up = Utwórz konto
+# Outdated string
 navigation-connected-and-protected = Połączony i chroniony
 navigation-join = Dołącz
 navigation-close-join-menu = Zamknij menu dołączania
@@ -76,11 +84,14 @@ navigation-meet-the-technology-company = Poznaj firmę technologiczną, która s
 navigation-new-features = Nowe funkcje
 navigation-save-content-absorb-knowledge = Zachowuj treści. Wchłaniaj wiedzę.
 navigation-same-speed-and-safety = Znana i zaufana prędkość i bezpieczeństwo, zaprojektowane specjalnie dla biznesu.
+# Outdated string
 navigation-add-ons = Dodatki
 navigation-projects = Projekty
 navigation-close-projects-menu = Zamknij menu projektów
 navigation-donate-your-voice-to = Nagraj swój głos, aby pomóc tworzyć systemy rozpoznawania głosu otwarte dla wszystkich.
+# Outdated string
 navigation-web-of-things-iot = Internet rzeczy (IoT)
+# Outdated string
 navigation-make-devices-connected = Spraw, aby urządzenia podłączone do Internetu były bezpieczne i kompatybilne.
 navigation-developers = Deweloperzy
 navigation-close-developers-menu = Zamknij menu dla deweloperów
