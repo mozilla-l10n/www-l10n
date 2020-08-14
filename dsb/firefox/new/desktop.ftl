@@ -117,6 +117,9 @@ firefox-desktop-download-now-mac = <strong>Wócyńśo</strong> něnto dataju, k�
 firefox-desktop-download-get-help = Maśo problemy? <a { $attrs }>Wobstarajśo se pomoc za swóju instalaciju</a>.
 firefox-desktop-download-in-another-language = W drugej rěcy abo za drugi źěłowy system ześěgnuś.
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Wužywaśo njewěsty, zestarjony źěłowy system, kótaryž <a href="{ $url }">se wěcej wót { -brand-name-firefox } njedpódpěra</a>.
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Wašo ześěgnjenje dejało se awtomatiski zachopiś. Njefunkcioněrujo? <a id="{ $id }" href="{ $fallback_url }">Ześěgniśo znowego</a>.
