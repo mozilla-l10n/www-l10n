@@ -42,10 +42,13 @@ navigation-learn-how-to-customize = Dowiedz się, jak dostosować sposób dział
 navigation-explore-the-immersive = Odkrywaj wciągającą sieć na swoich goglach wirtualnej rzeczywistości.
 # Outdated string
 navigation-experience-augmented = Doświadcz rozszerzonej i wirtualnej rzeczywistości za pomocą { -brand-name-firefox(case: "gen") }.
+navigation-get-together = Spotykaj się w rzeczywistości wirtualnej dzięki tej internetowej przestrzeni społecznościowej.
 # Outdated string
 navigation-meet-people-in-experimental = Poznawaj ludzi w eksperymentalnych pokojach rozmów mieszanej rzeczywistości za pomocą { -brand-name-firefox(case: "gen") }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } wprowadza wirtualną i rozszerzoną rzeczywistość do otwartej sieci.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } wprowadza { -brand-name-firefox(case: "acc") } do rozszerzonej i wirtualnej rzeczywistości.
 navigation-firefox-built-just-for = { -brand-name-firefox }, zbudowany specjalnie dla deweloperów.
@@ -71,6 +74,8 @@ navigation-security-tips = Wskazówki bezpieczeństwa
 navigation-share-large-files-safely = Bezpiecznie udostępniaj duże pliki za pomocą odnośników, które ulegają samozniszczeniu.
 navigation-save-quality-content = Zachowuj wysokiej jakości treści, skąd tylko chcesz. Napędzaj nimi swój umysł, gdzie tylko chcesz.
 navigation-sign-up = Utwórz konto
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Szybko. Prosto. Prywatnie.
+navigation-protect-your-entire-device = Chroń całe swoje urządzenie i wszystkie aplikacje. Ukryj swoje prawdziwe położenie i podłącz do 5 urządzeń. Subskrybuj już teraz.
 # Outdated string
 navigation-connected-and-protected = Połączony i chroniony
 navigation-join = Dołącz
@@ -89,6 +94,7 @@ navigation-add-ons = Dodatki
 navigation-projects = Projekty
 navigation-close-projects-menu = Zamknij menu projektów
 navigation-donate-your-voice-to = Nagraj swój głos, aby pomóc tworzyć systemy rozpoznawania głosu otwarte dla wszystkich.
+navigation-machine-learning = Uczenie maszynowe
 # Outdated string
 navigation-web-of-things-iot = Internet rzeczy (IoT)
 # Outdated string
