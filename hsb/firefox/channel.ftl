@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Sćehńće a testujće na
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testujće funkcije, kotrež maja so wozjewić, w najstabilnišej předwersiji.
 firefox-channel-release-notes = Wersijowe informacije
+firefox-channel-previous-nightly-builds = Starše wersije { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Wuwiwajće, testujće, přiměrće a wjace za jenički wobhladowak, kotryž je so za wuwiwarjow wuwił.
 # Variables:

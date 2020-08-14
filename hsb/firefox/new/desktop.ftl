@@ -104,9 +104,14 @@ firefox-desktop-download-just-download-the-browser = Sćehńće prosće wobhlado
 
 firefox-desktop-download-almost-there = Nimale zdokonjany!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Dokónčće nětko <strong>instalaciju</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = <strong>Wuwjedźće</strong> nětko instalowanski program, kotryž sće runje sćahnył.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>Wočińće</strong> nětko dataju, kotruž sće runje sćahnył.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Maće problemy? <a { $attrs }>Wobstarajće sej pomoc za swoju instalaciju</a>.
 firefox-desktop-download-in-another-language = W druhej rěči abo za druhi dźěłowy system sćahnyć.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
