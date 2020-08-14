@@ -97,6 +97,7 @@ navigation-donate-your-voice-to = Nagraj swój głos, aby pomóc tworzyć system
 navigation-machine-learning = Uczenie maszynowe
 # Outdated string
 navigation-web-of-things-iot = Internet rzeczy (IoT)
+navigation-help-make-deep-learning = Pomóż udostępniać algorytmy głębokiego uczenia maszynowego światu open source.
 # Outdated string
 navigation-make-devices-connected = Spraw, aby urządzenia podłączone do Internetu były bezpieczne i kompatybilne.
 navigation-developers = Deweloperzy
