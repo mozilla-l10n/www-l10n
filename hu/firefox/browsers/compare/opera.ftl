@@ -7,6 +7,8 @@
 
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vagy { -brand-name-opera }: Melyik a jobb böngésző az Ön számára?
+# HTML page description
+compare-opera-compare-opera-to-the-firefox = Hasonlítsa össze az { -brand-name-opera } böngészőt és a { -brand-name-firefox-browser }t, hogy megtudja, melyik a legjobb Önnek.
 # Main title
 compare-opera-comparing-firefox-browser = A { -brand-name-firefox-browser } és az { -brand-name-opera } összehasonlítása
 # Variables:
