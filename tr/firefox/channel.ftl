@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-e
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Yakında çıkacak özellikleri daha güvenilir bir ortamda test edin.
 firefox-channel-release-notes = Sürüm notları
+firefox-channel-previous-nightly-builds = Önceki { -brand-name-nightly } sürümleri
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Geliştiriciler için geliştirilmiş tek tarayıcıyla web’i inşa edin, test edin, ölçekleyin ve daha fazlasını yapın.
 # Variables:
