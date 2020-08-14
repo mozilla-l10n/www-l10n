@@ -39,8 +39,10 @@ navigation-your-firefox-account = Il tuo { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Sfrutta al massimo la tua esperienza con { -brand-name-firefox } su ogni dispositivo.
 # Outdated string
 navigation-learn-how-to-customize = Scopri come personalizzare il funzionamento di { -brand-name-firefox }.
+navigation-explore-the-immersive = Esplora il Web immersivo sul tuo visore per la realtà virtuale.
 # Outdated string
 navigation-experience-augmented = Prova le realtà aumentata e virtuale con { -brand-name-firefox }.
+navigation-get-together = Incontra altre persone nella realtà virtuale con questo spazio social online.
 # Outdated string
 navigation-meet-people-in-experimental = Incontra altri utenti nelle chatroom di Realtà mista sperimentale con { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
@@ -73,6 +75,7 @@ navigation-share-large-files-safely = Condividi file di grandi dimensioni in mod
 navigation-save-quality-content = Salva contenuti di qualità da tutto il Web per alimentare la tua mente ovunque ti trovi.
 navigation-sign-up = Registrati
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: veloce, semplice, privata.
+navigation-protect-your-entire-device = Proteggi completamente il tuo dispositivo e tutte le applicazioni. Maschera la tua posizione reale e collega fino a 5 dispositivi. Iscriviti ora.
 # Outdated string
 navigation-connected-and-protected = Connessi e protetti
 navigation-join = Unisciti a noi
@@ -91,8 +94,10 @@ navigation-add-ons = Componenti aggiuntivi
 navigation-projects = Progetti
 navigation-close-projects-menu = Chiudere il menu progetti
 navigation-donate-your-voice-to = Dona la tua voce per aiutare a rendere il riconoscimento vocale aperto a tutti.
+navigation-machine-learning = Machine Learning
 # Outdated string
 navigation-web-of-things-iot = Internet delle cose (IoT)
+navigation-help-make-deep-learning = Contribuisci a rendere disponibili gli algoritmi di deep learning per il mondo open source.
 # Outdated string
 navigation-make-devices-connected = Rendi i dispositivi connessi a Internet sicuri, inviolabili e interoperabili.
 navigation-developers = Sviluppatori
