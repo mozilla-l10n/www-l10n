@@ -11,7 +11,7 @@ whatsnew80-up-to-date-banner = Félicitations ! Vous utilisez la version la plu
 # Main title
 whatsnew80-main-title = Faites presque tout, un peu plus vite
 whatsnew80-main-intro = Passez de l’ordinateur au téléphone sans rater la moindre action. Installez { -brand-name-firefox } sur mobile.
-whatsnew80-primary-cta-description = Indiquez votre email ou votre numéro de téléphone pour recevoir un lien de téléchargement
+whatsnew80-primary-cta-description = Indiquez votre e-mail ou votre numéro de téléphone pour recevoir un lien de téléchargement
 # content buckets below hero
 whatsnew80-password-fatigue = Les mots de passe, un vrai casse-tête
 whatsnew80-the-average-person = En moyenne, une personne a 130 comptes en ligne. { -brand-name-firefox } sur mobile enregistre et garde vos mots de passe précieusement sur tous vos appareils synchronisés, pour que vous puissiez vous connecter en un seul clic.
