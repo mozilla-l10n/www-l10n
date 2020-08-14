@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Sćehńće { -brand-name-firefox-browser } – spěšn, priwatny a darmotny – wot { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Sćehńće { -brand-name-firefox-browser } – spěšny, priwatny a darmotny – wot { -brand-name-mozilla }
 firefox-desktop-download-og-title = Sćehńće dotal najspěšniši { -brand-name-firefox }
 firefox-desktop-download-og-desc = Strony so spěšnišo začitaja, mjenje składa so wužiwa a z wjele funkcijemi: Nowy { -brand-name-firefox } je wušoł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
