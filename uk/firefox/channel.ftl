@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Завантажте й �
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Випробовуйте функції, що з'являться в наступному випуску, в найстабільнішій збірці.
 firefox-channel-release-notes = Примітки до випуску
+firefox-channel-previous-nightly-builds = Попередні збірки { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Створюйте, випробовуйте, вимірюйте та виконуйте інші завдання за допомогою єдиного браузера для розробників.
 # Variables:
