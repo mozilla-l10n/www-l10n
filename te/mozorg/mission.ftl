@@ -20,6 +20,6 @@ mission-volunteer-opportunities-in-a-number = వివిధ ప్రాంత
 mission-history = చరిత్ర
 mission-where-we-come-from-and-how-we-got = మేము ఎక్కడ నుండి వచ్చాము మరియు ఎలా మేము ఇక్కడ మేము వచ్చింది
 mission-forums = చర్చావేదికలు
-mission-topics-include-support-products = విషయం యొక్క మద్దతు, ఉత్పత్తులు, మరియు సాంకేతిక పరిజ్ఞానాలు
+mission-topics-include-support-products = తోడ్పాటు, ఉత్పత్తులు, సాంకేతిక పరిజ్ఞానాలు వంటి విషయాలు ఉంటాయి
 mission-governance = పరిపాలన
 mission-our-structure-organization-and-the = మా నిర్మాణం, సంస్థ, మరియు విస్తారమైన Mozilla కమ్యూనిటీ

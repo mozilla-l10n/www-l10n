@@ -17,8 +17,8 @@ firefox-channel-try-new-features-in-a-pre = విడుదలకు ముం�
 firefox-channel-download-and-test-future = డెస్క్‌టాపు, { -brand-name-android }, { -brand-name-ios } లలో { -brand-name-firefox } భవిష్యత్తు విడుదలలను దించుకొని పరీక్షించండి.
 firefox-channel-download-and-test-the-latest-android = { -brand-name-android } కోసం { -brand-name-firefox } యొక్క { -brand-name-aurora }, { -brand-name-beta } మరియు { -brand-name-nightly } బిల్డ్ లను డౌన్లోడ్ చేసి మరియు పరీక్షించుము.
 firefox-channel-try-the-latest-android-features = మిగిలిన ప్రపంచమునకు విడుదలకు ముందు, తాజా { -brand-name-android } లక్షణాలను ప్రయత్నించండి.
-firefox-channel-all-languages-and-platforms = అన్ని భాషలు మరియు వేదికలు
-firefox-channel-all-languages-and-builds = అన్ని భాషలు మరియు బిల్డులు
+firefox-channel-all-languages-and-platforms = అన్ని భాషలు, వేదికలు
+firefox-channel-all-languages-and-builds = అన్ని భాషలు, బిల్డులు
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } స్వయంచాలకంగా { -brand-name-mozilla } కు నివేదికను పంపుతుంది.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback

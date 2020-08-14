@@ -10,7 +10,7 @@ download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span>
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = తోడ్పాటున్న పరికరాలు
 download-button-whats-new = కొత్త విశేషాలు ఏమిటి
-download-button-systems-languages = వ్యవస్థల మరియు భాషలు
+download-button-systems-languages = వ్యవస్థలు &amp; భాషలు
 download-button-recommended = సిఫార్సుచేసినవి
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
@@ -18,7 +18,7 @@ download-button-please-follow-these = { -brand-name-firefox } ను ఇన్�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = { -brand-name-firefox } ను నడపడానికి తగిన <a href="{ $url }">ఆవశ్యకాలు</a> మీ కంప్యూటర్లో లేవు.
-download-button-firefox-other-platforms = ఇతర వేదికలు మరియు భాషల కొరకు { -brand-name-firefox }
+download-button-firefox-other-platforms = ఇతర వేదికలు, భాషల కొరకు { -brand-name-firefox }
 download-button-update-your-firefox = మీ { -brand-name-firefox }ను నవీకరించండి
 download-button-get-firefox-android = { -brand-name-android } కోసం { -brand-name-firefox } ను పొందండి
 download-button-get-firefox-ios = { -brand-name-ios } కొరకు { -brand-name-firefox } ను పొందండి
