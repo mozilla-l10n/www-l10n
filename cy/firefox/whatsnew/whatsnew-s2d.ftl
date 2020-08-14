@@ -10,5 +10,5 @@ whatsnew-s2d-want-privacy-on-every-device = Eisiau cael preifatrwydd ar bob dyfa
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
 whatsnew-s2d-you-got-it-get-firefox-for = Mae yma i chi. Defnyddiwch { -brand-name-firefox } Symudol.
 # Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Anfonwch { -brand-name-firefox } i'ch ffôn<br> ac agor eich Rhyngrwyd.
+whatsnew-s2d-send-firefox-to-your-phone = Anfonwch { -brand-name-firefox } i'ch ffôn<br> a grymuso eich Rhyngrwyd.
 whatsnew-s2d-download-firefox-for-your = Llwythwch { -brand-name-firefox } i lawr i'ch ffôn neu dabled.
