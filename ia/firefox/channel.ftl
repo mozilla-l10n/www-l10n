@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Discarga e testa le plus 
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testa le functiones quasi preste in le version preliminar le plus stabile.
 firefox-channel-release-notes = Notas pro iste revision
+firefox-channel-previous-nightly-builds = Previe compilationes de { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Crea, proba, extende, e face multo plus con le unic navigator concipite exclusivemente pro disveloppatores.
 # Variables:
