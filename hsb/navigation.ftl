@@ -46,6 +46,7 @@ navigation-meet-people-in-experimental = Zetkajće so z { -brand-name-firefox } 
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Měšana realita
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla }  wirtuelnu a rozšěrjenu realitu do wotewrjeneho weba přinjese.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } { -brand-name-firefox } rozšěrjenu a wirtuelnu realitu přinjese.
 navigation-firefox-built-just-for = { -brand-name-firefox }, jenož za wuwiwarjow wutworjeny.

@@ -94,6 +94,9 @@ firefox-desktop-download-get-firefox-android = Wobstarajće sej { -brand-name-fi
 firefox-desktop-download-get-firefox-ios = Wobstarajće sej { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Sćehńće mobilny wobhladowak { -brand-name-firefox } za awtomatiski škit na wšěch wašich gratach.
 firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhladowaku { -brand-name-firefox } deleka
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Maće prašenja? <a { $attrs }>pomoc { -brand-name-mozilla }</a> budźe wam pomhać.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Wobkedźbujće hackerow z { -brand-name-firefox-monitor }, škitajće hesła z { -brand-name-firefox-lockwise } a wjace.
