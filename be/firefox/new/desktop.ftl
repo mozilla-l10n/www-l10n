@@ -8,7 +8,9 @@
 firefox-desktop-download-og-title = Сцягніце найхутчэйшы ў гісторыі { -brand-name-firefox }
 firefox-desktop-download-og-desc = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } ужо тут.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-download-options = Варыянты сцягвання і іншыя мовы
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
+firefox-desktop-download-compare-firefox-to = Параўнаць { -brand-name-firefox } з:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -22,6 +24,7 @@ firefox-desktop-download-os-availability = Даступнасць для АС
 firefox-desktop-download-in-browser-screenshot = Убудаваны інструмент для здымкаў экрана
 firefox-desktop-download-master-password = Галоўны пароль
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
+firefox-desktop-download-search-from-address = Пошук у адрасным радку
 firefox-desktop-download-search-engine-options = Налады пошукавых сістэм
 firefox-desktop-download-bookmarks-manager = Менеджар закладак
 firefox-desktop-download-sync-across-devices = Сінхранізацыя паміж прыладамі
