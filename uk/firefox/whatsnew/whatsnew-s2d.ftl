@@ -10,5 +10,5 @@ whatsnew-s2d-want-privacy-on-every-device = Хочете приватності 
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
 whatsnew-s2d-you-got-it-get-firefox-for = Не проблема. Завантажте { -brand-name-firefox } для мобільного.
 # Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = { -brand-name-send } { -brand-name-firefox } для вашого телефону<br> та отримайте вільний Інтернет.
+whatsnew-s2d-send-firefox-to-your-phone = Відправте { -brand-name-firefox } на свій телефон<br> та звільніть Інтернет.
 whatsnew-s2d-download-firefox-for-your = Завантажте { -brand-name-firefox } для свого смартфона і планшета.
