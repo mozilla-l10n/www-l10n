@@ -5,6 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-protect-your-privacy = अपनी गोपनीयता की रक्षा करें
+firefox-desktop-download-private-browsing-mode = निजी ब्राउज़िंग मोड
+firefox-desktop-download-secure-your-personal = अपनी व्यक्तिगत जानकारी सुरक्षित करें
+firefox-desktop-download-clear-history = इतिहास साफ करें
+firefox-desktop-download-themes = थीम
+firefox-desktop-download-dark-mode = डार्क मोड
+firefox-desktop-download-library-of-extensions = एक्सटेंशन का लाइब्रेरी
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-screenshots = स्क्रीनशॉट
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = उन्नत ट्रैकिंग सुरक्षा (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> के लिए { -brand-name-firefox-browser } पाएं
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> के लिए { -brand-name-firefox-browser } पाएं
 firefox-desktop-download-just-download-the-browser = बस ब्राउज़र डाउनलोड करें
