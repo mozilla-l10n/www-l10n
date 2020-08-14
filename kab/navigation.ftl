@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } i { -brand-name-fire-tv
 navigation-watch-videos-and-browse = Wali tividyutin daɣen inig deg Internet s { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Iminigen { -brand-name-firefox } zewwiren tabaḍnit-ik — akka i nezga nella.
 navigation-take-the-passwords-youve = Awi yid-k walen-ik uffiren i teskelseḍ deg { -brand-name-firefox } sekra wanida teddid.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } d tawacult ikemmlen n yifarisen yettwafeṣlen i uḍman n tɣellist-ik akked tiffursa-ik srid.
 navigation-join-firefox = Ddu-d ɣer { -brand-name-firefox }
 navigation-access-all-of-firefox = Kcem ɣer yal { -brand-name-firefox } s yiwen n usulay daɣen faṛes tagnit seg tmahilin n yifarisen-nneɣ.
@@ -36,10 +37,15 @@ navigation-get-firefox-focus = Awi { -brand-name-firefox-focus }
 navigation-android-extensions = Isiɣzaf { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } inek
 navigation-make-the-most-of-your = Faṛes tagnit seg termit { -brand-name-firefox }, ɣef yibenkan-ik meṛṛa.
+# Outdated string
 navigation-learn-how-to-customize = Issin amek ara terreḍ { -brand-name-firefox } i teddu s wudem udmawan.
+# Outdated string
 navigation-experience-augmented = Ɛreḍ tilawt yennernan akked tuhlist s { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Mlal imdanen deg texxamin n usqerdec tirmitanin s tixlawt ixelḍen akked { -brand-name-firefox }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } teldi i { -brand-name-firefox } tilawt tuhlist yennernan.
 navigation-firefox-built-just-for = { -brand-name-firefox }, yettwafṣel ladɣa i yineflayen.
 navigation-preview-the-latest-build = Wali si tazwara lqem amaynut n { -brand-name-firefox } daɣen mudd afus i usnerni-is.
@@ -64,6 +70,8 @@ navigation-security-tips = Iwellihen ɣef tɣellist
 navigation-share-large-files-safely = Bḍu ifuyla meqqren s tɣellist, s yiseɣwan i yetthuddun iman-nsen.
 navigation-save-quality-content = Sekles igburen n tɣara sekra wanida telliḍ. Snerni aqerru-k sekra wanida telliḍ.
 navigation-sign-up = Jerred
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: D arurad. D afessas. D uslig.
+# Outdated string
 navigation-connected-and-protected = Yeqqen daɣen yettummesten
 navigation-join = Ddu-d
 navigation-close-join-menu = Mdel umuɣ Ddu-d
@@ -76,11 +84,14 @@ navigation-meet-the-technology-company = Wali takebbanit n tetiknujit yettwalin 
 navigation-new-features = Timahilin timaynutin
 navigation-save-content-absorb-knowledge = Sekles agbur. Snerni tamussni-ik.
 navigation-same-speed-and-safety = Arured akked tɣellist i tessutureḍ, yettwafeṣlen ladɣa i tkebbaniyin.
+# Outdated string
 navigation-add-ons = Izegrar
 navigation-projects = Isenfaṛen
 navigation-close-projects-menu = Mdel umuɣ Isenfaṛen
 navigation-donate-your-voice-to = Mudd taɣect-ik akken aɛqal n taɣect ad yeldi abrid i yal yiwen.
+# Outdated string
 navigation-web-of-things-iot = Internet n tɣawsiwin (IoT)
+# Outdated string
 navigation-make-devices-connected = Err ibenkan yeqqnen ɣer internet ttwamanen ugar, d iɣelsanen ugar, d imyigawanen ugar.
 navigation-developers = Ineflayen
 navigation-close-developers-menu = Mdel umuɣ ineflayen
