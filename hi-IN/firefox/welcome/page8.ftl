@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
+welcome-page8-view-your-protection-report = अपनी सुरक्षा रिपोर्ट देखें
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = उन्नत ट्रैकिंग सुरक्षा
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
