@@ -30,6 +30,11 @@
        *[lowercase] navigateur Firefox
         [uppercase] Navigateur Firefox
     }
+-brand-name-firefox-browsers =
+    { $capitalization ->
+       *[lowercase] navigateurs Firefox
+        [uppercase] Navigateurs Firefox
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -104,6 +109,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -135,6 +141,7 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
