@@ -17,3 +17,5 @@ whatsnew-account-main-button = Acceder
 whatsnew-account-signed-in-headline = Attinge plus objectivos. Usa { -brand-name-firefox } pro mobile.
 whatsnew-account-signed-in-lead-in = Inviar un ligamine de discargamento a tu telephono.
 whatsnew-account-signed-in-qr-title = Discarga { -brand-name-firefox } pro smartphonos e tablettas.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Scander iste codice QR
