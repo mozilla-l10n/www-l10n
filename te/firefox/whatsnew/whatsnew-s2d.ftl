@@ -7,5 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = { -brand-name-android }మరియు { -brand-name-ios }ల కొరకు { -brand-name-firefox }ని దించుకోండి
 # Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = మీ ఫోన్‌కి { -brand-name-firefox }ను పంపండి <br> మరియు మీ అంతర్జాలాన్ని వదలండి.
+whatsnew-s2d-send-firefox-to-your-phone = మీ ఫోన్‌కి { -brand-name-firefox }ను { -brand-name-send }<br> మీ అంతర్జాలాన్ని విముక్తం చేయండి.
 whatsnew-s2d-download-firefox-for-your = మీ స్మార్ట్‌ఫోన్, టాబ్లెట్ల కొరకు { -brand-name-firefox }ను దించుకోండి.
