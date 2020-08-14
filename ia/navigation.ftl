@@ -42,6 +42,7 @@ navigation-learn-how-to-customize = Apprende a personalisar le functionamento de
 navigation-explore-the-immersive = Explora le Web immersive sur tu visor pro le realitate virtual.
 # Outdated string
 navigation-experience-augmented = Experientia augmentate e realitate virtual con { -brand-name-firefox }.
+navigation-get-together = Incontra altere personas in le realitate virtual con iste spatio social online.
 # Outdated string
 navigation-meet-people-in-experimental = Incontra personas in le salas experimental de conversation in realitate mixte con { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = Realitate mixte de { -brand-name-mozilla }
@@ -74,6 +75,7 @@ navigation-share-large-files-safely = Comparti grande files con securitate, con 
 navigation-save-quality-content = Salva contento de qualitate ex ubique. Alimenta tu mente ubique.
 navigation-sign-up = Inscriber se
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Veloce. Simple. Private.
+navigation-protect-your-entire-device = Protege completemente tu apparato e tote le applicationes. Masca tu position real e connecte usque a 5 apparatos. Inscribe te ora.
 # Outdated string
 navigation-connected-and-protected = Connexe e protegite
 navigation-join = Junge te a nos
@@ -95,6 +97,7 @@ navigation-donate-your-voice-to = Dona tu voce pro adjutar a render le recogniti
 navigation-machine-learning = Apprendimento automatic
 # Outdated string
 navigation-web-of-things-iot = Internet del objectos (IoT)
+navigation-help-make-deep-learning = Adjuta render disponibile algorithmos de deep learning al mundo open source
 # Outdated string
 navigation-make-devices-connected = Rende le apparatos connectite a internet salve, secur e interoperabile.
 navigation-developers = Disveloppatores
