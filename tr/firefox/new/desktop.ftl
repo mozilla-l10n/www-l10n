@@ -89,6 +89,7 @@ firefox-desktop-download-change-new-tab = Yeni sekme düzenini değiştirme
 firefox-desktop-download-make-firefox-your = Bu <strong>{ -brand-name-firefox }</strong> sizin
 firefox-desktop-download-extensions-for-every = Her ilgi alanına hitap eden eklentiler
 firefox-desktop-download-change-up-your = Görünüşü değiştirin
+firefox-desktop-download-go-from-light = Ruh halinize veya tercihinize göre açık moddan koyu moda geçebilir, isterseniz özel temalarla tarayıcınızı renklendirebilirsiniz.
 firefox-desktop-download-tweak-your-settings = Ayarlarınızı değiştirin
 firefox-desktop-download-theres-no-need = Yerleşmeye gerek yok. İnterneti istediğiniz gibi keşfetmek için yeni sekme sayfasını, arama çubuğunu, yer imlerini ve daha fazlasını değiştirebilirsiniz.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -100,10 +101,14 @@ firefox-desktop-download-keep-all-your = En sevdiğiniz tarayıcı özelliklerin
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Sevdiğiniz tüm { -brand-name-google } araçları (Gmail, Docs vb.) { -brand-name-firefox-browser } ile de sorunsuz çalışıyor.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = { -brand-name-facebook }’un (ve { -brand-name-instagram }’ın) internette sizi izlemesini önlemek için <a { $attrs } >bu eklentiyi indirebilirsiniz</a>.
 firefox-desktop-download-sync-your-devices = Cihazlarınızı eşitleyin
 firefox-desktop-download-screenshots = Ekran görüntüleri
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Gelişmiş izlenme koruması
+firefox-desktop-download-from-watching-a = İster eğitim videoları ister maç izleyin, başka şeylerle uğraşırken bir gözünüz videoda olsun.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> için { -brand-name-firefox-browser }nı indirin
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> için { -brand-name-firefox-browser }nı indirin
@@ -116,6 +121,12 @@ firefox-desktop-download-from-security-to = Güvenlikten haberlere ve oyunlara, 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>, { -brand-name-firefox }’u { -brand-name-ie } ve { -brand-name-chrome } gibi tarayıcılara daha hızlı, daha gizlilik yanlısı bir alternatif olarak yarattı. Misyonumuza bağlılığını sürdüren şirketimiz ve gönüllülerimiz gizliliğinizi her şeyin üstünde tutmaya devam ediyor.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = İnternet büyüyüp geliştikçe { -brand-name-firefox } gizlilik haklarınıza daha fazla odaklanıyor. Buna <a { $attrs }>Kişisel Veri Sözü</a> diyoruz: Daha az topla. Güvenle sakla. Sır tutma. Verileriniz, internette yaptıklarınız ve çevrimiçi yaşamınız { -brand-name-firefox } ile güvende.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox }’u tüm cihazlarınızda kullanabilirsiniz: Sekmelerinizi, geçmişinizi ve yer imlerinizi yanınızda taşıyın. Tek ihtiyacınız bir <a { $attrs }>{ -brand-name-firefox } hesabı</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Tarayıcıda yerleşik bulunan <a { $attrs }>ekran görüntüsü</a> aracımızla internetteki her şeyin yüksek çözünürlüklü görüntüsünü kaydedebilirsiniz
