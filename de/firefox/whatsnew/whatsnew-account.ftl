@@ -11,3 +11,11 @@
 whatsnew-account-main-headline = Für Privatsphäre brauchst du bei uns kein Konto. Aber vielleicht möchtest du trotzdem eines.
 whatsnew-account-main-lead-in = Der { -brand-name-firefox }-Browser sammelt so wenig Daten über dich, wir brauchen deine E-Mail-Adresse nicht. Wenn du damit aber ein { -brand-name-firefox }-Konto erstellst, verbindet sich dein Privatsphäre-Schutz über all unsere Produkte hinweg.
 whatsnew-account-main-button = Anmelden
+
+##
+
+whatsnew-account-signed-in-headline = Mehr Möglichkeiten. Nutzen Sie { -brand-name-firefox } für Mobilgeräte.
+whatsnew-account-signed-in-lead-in = Senden Sie einen Download-Link an Ihr Handy.
+whatsnew-account-signed-in-qr-title = Laden Sie { -brand-name-firefox } für Smartphone und Tablet herunter.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Scannen Sie diesen QR-Code
