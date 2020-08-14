@@ -11,3 +11,11 @@
 whatsnew-account-main-headline = Não é necessária nenhuma conta. Mas pode querer ter uma.
 whatsnew-account-main-lead-in = O { -brand-name-firefox } recolhe muito poucos dados sobre si e nem sequer precisamos do seu endereço de e-mail. Mas quando o utiliza para criar uma conta do { -brand-name-firefox }, nós podemos proteger mais a sua privacidade na Internet.
 whatsnew-account-main-button = Iniciar sessão
+
+##
+
+whatsnew-account-signed-in-headline = Consiga fazer mais coisas. Utilize o { -brand-name-firefox } para dispositivos móveis.
+whatsnew-account-signed-in-lead-in = Enviar uma ligação de transferência para o seu dispositivo móvel.
+whatsnew-account-signed-in-qr-title = Transfira o { -brand-name-firefox } para o seu telemóvel e tablet.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Digitalize este código QR
