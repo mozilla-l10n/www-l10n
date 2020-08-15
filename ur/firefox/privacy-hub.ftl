@@ -17,6 +17,7 @@ firefox-privacy-privacy = پرائیویسی
 firefox-privacy-our-promise = ہمارا وعدہ
 # Sub navigation link
 firefox-privacy-our-products = ہماری مصنوعات
+firefox-privacy-hub-you-should-be-able-to-decide = آپ کو فیصلہ کرنے کے قابل ہونا چاہئے کہ آپ کی ذاتی معلومات کون دیکھتا ہے۔ نہ صرف آپ کے دوستوں میں ، بلکہ انٹرنیٹ پر موجود ہر اشتہاری اور کمپنیاں— ہمارے سمیت
 firefox-privacy-hub-thats-why-everything-we-make = یہی وجہ ہے کہ ہم جو کچھ بھی کرتے اور کرتے ہیں وہ ہمارے ذاتی ڈیٹا کے وعدے کا احترام کرتا ہے
 firefox-privacy-hub-take-less = کم لیں
 firefox-privacy-hub-we-make-a-point-of-knowing = ہم آپ کے بارے میں کم جاننے کا ایک نقطہ بناتے ہیں
@@ -33,6 +34,8 @@ firefox-privacy-hub-learn-about-our-products = ہماری مصنوعات کے ب
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } رازداری، مسنوعہ کی جانب سے
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ہر  مصنوعہ میں آپکی رازداری کی حفاظت کرتا ہے
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = 2،000+ سے زیادہ  ٹریکرز بلاک ہوگئے - خود بخود
+firefox-privacy-hub-see-what-firefox-has-blocked = دیکھیں کہ { -brand-name-firefox } نے آپ کے لئے کیا بلاک کیا ہے
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = بہتر ٹریکنگ پروٹیکشن حاصل کریں
 firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } براؤزر ڈاؤن لوڈ کریں
