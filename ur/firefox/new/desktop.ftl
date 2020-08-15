@@ -18,6 +18,8 @@ firefox-desktop-download-get-the-browser = براؤزر حاصل کریں جو �
 firefox-desktop-download-no-shady = مشتھرین کے لئے کوئی مشکوک رازداری کی پالیسیاں یا پیچھے کے دروازے نہیں۔ صرف بجلی کا تیز تیز براؤزر جو آپ کو فروخت نہیں کرتا ہے۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ  اختیارات اور دیگر زبانیں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = وہ کریں جو آپ آن لائن کرتے ہیں.<br> { -brand-name-firefox-browser }<strong> آپکو نہیں</strong> دیکھ رہا
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } کا دیگر براؤزر سے کیسے موازنہ کریں
 firefox-desktop-download-how-we-compare = ہم دوسرے براؤزر سے کس طرح موازنہ کرتے ہیں
 firefox-desktop-download-compare-firefox-to = سے { -brand-name-firefox } کا موازنہ:
@@ -74,6 +76,8 @@ firefox-desktop-download-change-new-tab = نیا ٹیب لے آؤٹ تبدیل �
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> کو اپنا بنانا
 firefox-desktop-download-extensions-for-every = ہر دلچسپی کے لئے ایکسٹینشنز
 firefox-desktop-download-change-up-your = اپنی شکل تبدیل کریں
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = <strong> غیر منافع بخش </ strong> کی حمایت حاصل ہے جو لوگوں کو پہلے رکھتا ہے
 firefox-desktop-download-challenging-the-status = 1998 سے اسٹیٹس کو کو چیلنج کررہا ہے
 firefox-desktop-download-your-privacy-comes = آپ کی رازداری پہلے آتی ہے
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -81,10 +85,13 @@ firefox-desktop-download-keep-all-your = اپنے پسندیدہ براؤزر ک
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = اپنے آلات سنک کریں
 firefox-desktop-download-screenshots = اسکرین شاٹس
+firefox-desktop-download-from-watching-a = ویب ٹیوٹوریل دیکھنے سے لے کر اپنی پسندیدہ ٹیم پر نگاہ رکھنے تک ، آپ ملٹی ٹاسک کرتے وقت اپنی ویڈیو کو  اپنے پیچھے پائیں گے۔
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> کے لیے { -brand-name-firefox-browser } حاصل کریں
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> کے لیے { -brand-name-firefox-browser } حاصل کریں
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } ڈیسک ٹاپ براؤزر کے بارے میں  ذیل میں مزید سیکھن
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = آپ کو { -brand-name-firefox } براؤزر پہلے ہی مل گیا ہے۔ اب { -brand-name-firefox } کے ساتھ مزید حاصل کریں
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } سے مزید حاصل کریں
 firefox-desktop-download-just-download-the-browser = بس براؤزر ڈاؤن لوڈ کریں
 
@@ -93,6 +100,8 @@ firefox-desktop-download-just-download-the-browser = بس براؤزر ڈاؤن 
 firefox-desktop-download-almost-there = تقریبا وہاں!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = اب { -brand-name-firefox } کی <strong>تنصیب کاری کا عمل </strong> ختم کریں
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = اب انسٹالر کو <strong> چلائیں</strong> جو آپ نے ابھی ڈاؤنلوڈ کیا ہے
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = ابھی وہ فائل <strong> کھولیں </ strong> جو ابھی ابھی ڈاؤن لوڈ کی گئی ہے۔
 # Variables:
