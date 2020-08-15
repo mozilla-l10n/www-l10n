@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = విహారిణి కేవలం మొదలు మాత్రమే
+firefox-home-meet-our-family-of = మా ఉత్పత్తుల కుటుంబాన్ని కలుసుకోండి
 firefox-home-keep-your-passwords = ప్రతీ పరికరంలోను మీ సంకేతపదాలను భద్రంగా ఉంచుకోండి
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } గురించి ఇంకా తెలుసుకోండి
 firefox-home-desktop = డెస్క్‌టాప్

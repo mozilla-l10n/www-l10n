@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Used as an accessible label for a "yes" icon (a green check mark)
+compare-shared-yes = అవును
+# Used as an accessible label for a "no" icon (a gray bar)
+compare-shared-no = కాదు
+compare-shared-private-browsing-mode = అంతరంగిక విహారణ రీతి
+compare-shared-blocks-third-party-tracking = మూడవ-పక్ష ట్రాకింగు కుకీలు
 compare-shared-password-management = సంకేతపదాల నిర్వాహణ
 compare-shared-master-password = ప్రధాన సంకేతపదం
 compare-shared-security-and-privacy = భద్రత, అంతరంగికత

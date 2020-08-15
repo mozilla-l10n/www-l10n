@@ -31,6 +31,7 @@ firefox-channel-download-and-test-the-latest-desktop = డెస్క్టా�
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = అత్యంత స్థిరమైన మును-విడుదల బిల్డులలో విడుదల-కాబోయే సౌలభ్యాలను పరీక్షించండి.
 firefox-channel-release-notes = విడుదల విశేషాలు
+firefox-channel-previous-nightly-builds = పాత { -brand-name-nightly } బిల్డులు
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = కేవలం డెవలెపర్ల కోసం నిర్మించిన విహారిణి లను నిర్మించి, పరీక్షించి, అంచనావేసి మరియు మరింత చేయండి.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } స్వయంచాలకంగా ప్రతిస్పందనను { -brand-name-mozilla }కు పంపిస్తుంది.

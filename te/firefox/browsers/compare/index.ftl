@@ -9,3 +9,4 @@
 compare-index-privacy-utility-portability = అంతరంగికత, ఉపయోగ్యత, వహనీయత.
 compare-index-which-browser-is-best-at-keeping = విషయాలను గోప్యంగా ఉంచడంలో ఏ విహారిణి ఉత్తమం?
 compare-index-conclusion = ముగింపు:
+compare-index-and-the-winner-is = విజేత ఎవరంటే…
