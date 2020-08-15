@@ -5,8 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# Sub navigation title
+firefox-privacy-privacy = అంతరంగికత
+# Sub navigation link
+firefox-privacy-our-promise = మా వాగ్దానం
+# Sub navigation link
+firefox-privacy-our-products = మా ఉత్పత్తులు
+firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox }‌ను ఎందుకు విశ్వసించాలి?
 firefox-privacy-hub-learn-more-about-our-mission = మా ఆశయం గురించి మరింత తెలుసుకోండి
 firefox-privacy-hub-learn-about-our-products = మా ఉత్పత్తుల గురించి తెలుసుకోండి
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = మీ { -brand-name-firefox-account }

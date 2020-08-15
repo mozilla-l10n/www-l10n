@@ -5,8 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
+welcome-page3-no-account-required-but-you = ఖాతా ఏమీ అవసరం లేదు. కానీ, మీరు కావాలనుకోవచ్చు.
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
 welcome-page3-facebook-container = { -brand-name-facebook-container }
 welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-firefox-send = { -brand-name-firefox-send }
+welcome-page3-why-am-i-seeing-this = ఇది నాకు ఎందుకు కనిపిస్తుంది?

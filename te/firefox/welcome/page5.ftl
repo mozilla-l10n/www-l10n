@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/5/
 
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
+welcome-page5-why-am-i-seeing-this = ఇది నాకు ఎందుకు కనిపిస్తుంది?
