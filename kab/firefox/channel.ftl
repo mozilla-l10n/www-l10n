@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Sader daɣen sekyed timah
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Sekyed timahilin ara d-yeffɣen akka kra n wakud s useqdec n warid urkid.
 firefox-channel-release-notes = Iwenniten n lqem
+firefox-channel-previous-nightly-builds = Lqem iεeddan n { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Rnu, sekyed udiɣ jbed s useqdec n yiminig i yettwafeṣlen i yineflayen.
 # Variables:
