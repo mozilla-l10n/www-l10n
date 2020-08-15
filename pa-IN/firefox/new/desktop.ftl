@@ -66,6 +66,31 @@ firefox-desktop-download-protect-your-privacy = ਤੁਹਾਡੀ ਪਰਦੇ�
 firefox-desktop-download-third-party-cookie = ਤੀਜੀ ਧਿਰ ਕੂਕੀਜ਼ ‘ਤੇ ਪਾਬੰਦੀ
 firefox-desktop-download-fingerprinter-blocking = ਫਿੰਗਰਪਰਿੰਟ ਲਈ ਪਾਬੰਦੀ
 firefox-desktop-download-cryptominer-blocking = ਕ੍ਰਿਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ ਲਈ ਪਾਬੰਦੀ
+firefox-desktop-download-private-browsing-mode = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ
+firefox-desktop-download-individual-protections-report = ਨਿੱਜੀ ਸੁਰੱਖਿਆ ਬਾਰੇ ਰਿਪੋਰਟ
+firefox-desktop-download-secure-your-personal = ਆਪਣੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ
+firefox-desktop-download-breached-website-alerts = ਸੰਨ੍ਹ ਲੱਗੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਚੇਤਾਵਨੀਆਂ
+firefox-desktop-download-built-in-password = ਵਿਚੇ ਮੌਜੂਦ ਪਾਸਵਰਡ ਮੈਨੇਜਰ
+firefox-desktop-download-clear-history = ਅਤੀਤ ਸਾਫ਼ ਕਰਨਾ
+firefox-desktop-download-form-autofill = ਫਾਰਮ ਆਪੇ ਭਰਨੇ
+firefox-desktop-download-automatic-updates = ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ
+firefox-desktop-download-customize-your-browser = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਮਨਮਰਜ਼ੀ ਮੁਤਾਬਕ ਢਾਲਣਾ
+firefox-desktop-download-themes = ਥੀਮ
+firefox-desktop-download-dark-mode = ਗੂੜ੍ਹਾ ਮੋਡ
+firefox-desktop-download-library-of-extensions = ਇਕਟੈਨਸ਼ਨਾਂ ਲਈ ਲਾਇਬਰੇਰੀ
+firefox-desktop-download-adjust-search-bar = ਖੋਜ ਪੱਟੀ ਨੂੰ ਅਨਕੂਲ ਬਣਾਉਣ ਲਈ ਸੈਟਿੰਗਾਂ
+firefox-desktop-download-change-new-tab = ਨਵੀਂ ਟੈਬ ਢਾਂਚੇ ਨੂੰ ਬਦਲਣਾ
+firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> ਨੂੰ ਆਪਣਾ ਬਣਾਓ
+firefox-desktop-download-extensions-for-every = ਹਰ ਦਿਲਚਸਪੀ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ
+firefox-desktop-download-change-up-your = ਆਪਣੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣਾ
+firefox-desktop-download-tweak-your-settings = ਆਪਣੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਢਾਲਣਾ
+firefox-desktop-download-your-privacy-comes = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਪਹਿਲ ਹੈ
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ
+firefox-desktop-download-screenshots = ਸਕਰੀਨ-ਸ਼ਾਟ
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ਲਗਭਗ ਹੋ ਗਿਆ!
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵਧਕੇ ਹੈ।
