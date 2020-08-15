@@ -78,6 +78,7 @@ firefox-desktop-download-customize-your-browser = Err iminig-ik·im d udmawan
 firefox-desktop-download-themes = Isental
 firefox-desktop-download-dark-mode = Askar aberkan
 firefox-desktop-download-library-of-extensions = Tamkerḍit n yiseɣzaf
+firefox-desktop-download-adjust-search-bar = Iɣewwaṛen n uqeεed n ufeggag n unadi
 firefox-desktop-download-change-new-tab = Beddel taneruft tamynut n yiccer
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
 firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
