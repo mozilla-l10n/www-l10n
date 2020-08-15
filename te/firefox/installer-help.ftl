@@ -11,6 +11,7 @@
 
 ##
 
+installer-help-firefox-release-title = { -brand-name-firefox-browser }
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
