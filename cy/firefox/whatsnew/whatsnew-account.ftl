@@ -11,3 +11,11 @@
 whatsnew-account-main-headline = Does dim rhaid cael cyfrif. Ond efallai y byddwch chi eisiau un.
 whatsnew-account-main-lead-in = Mae'r porwr { -brand-name-firefox } yn casglu cyn lleied o ddata amdanoch chi, nid ydym hyd yn oed angen eich cyfeiriad e-bost. Ond pan fyddwch chi'n ei ddefnyddio i greu cyfrif { -brand-name-firefox }, gallwn ddiogelu eich preifatrwydd ar draws mwy o'ch bywyd ar-lein.
 whatsnew-account-main-button = Mewngofnodi
+
+##
+
+whatsnew-account-signed-in-headline = Cyflawni mwy. Defnyddiwch { -brand-name-firefox } symudol.
+whatsnew-account-signed-in-lead-in = Yn anfon dolen llwytho i lawr i'ch ffôn.
+whatsnew-account-signed-in-qr-title = Llwythwch { -brand-name-firefox } l lawr i'ch ffôn clyfar a'ch tabled.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Sganiwch y cod QR
