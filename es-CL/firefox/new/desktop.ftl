@@ -18,6 +18,8 @@ firefox-desktop-download-get-the-browser = Obtén el navegador que protege lo qu
 firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador súper rápido que no te vende.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Haz lo que haces en línea.<br> { -brand-name-firefox-browser } <strong>no te está</strong> mirando.
 firefox-desktop-download-how-firefox-compares = Cómo se compara { -brand-name-firefox } con otros navegadores
 firefox-desktop-download-how-we-compare = Cómo nos comparamos con otros navegadores
 firefox-desktop-download-compare-firefox-to = Compara { -brand-name-firefox } con:
@@ -112,6 +114,9 @@ firefox-desktop-download-now-else = Ahora finaliza <strong>instalando</strong> {
 firefox-desktop-download-now-windows = Ahora <strong>corre</strong> el instalador que acabas de descargar.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Ahora <strong>abre</strong> el archivo que acabas de descargar.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = ¿Tienes problemas? <a { $attrs }>Obtén ayuda con tu instalación</a>.
 firefox-desktop-download-in-another-language = Descargar en otro idioma o para otro sistema operativo.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
