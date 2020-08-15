@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Tải xuống và thử {
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Kiểm tra các tính năng sắp phát hành trong bản xây dựng trước bản phát hành ổn định.
 firefox-channel-release-notes = Ghi chú của bản phát hành
+firefox-channel-previous-nightly-builds = Bản dụng trước đây của { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Xây dựng, kiểm tra, mở rộng và nhiều hơn nữa với trình duyệt được xây dựng dành cho nhà phát triển.
 # Variables:
