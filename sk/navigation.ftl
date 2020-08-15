@@ -3,49 +3,55 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Prevziať { -brand-name-firefox }
-navigation-get-a-firefox-account = Vytvorte si účet Firefox
-navigation-firefox-browser-for-desktop = Prehliadač Firefox pre počítače
+navigation-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(case: "nom", capitalization: "upper") } pre počítače
 navigation-get-the-browser-that-respects = Používajte prehliadač, ktorý rešpektuje vaše súkromie. Dostupný pre { -brand-name-windows }, { -brand-name-mac } či { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Prehliadač Firefox pre mobily
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pre mobily
 navigation-take-speed-privacy-and = Vezmite si rýchlosť a súkromie so sebou. K dispozícii na zariadeniach s { -brand-name-android }om a { -brand-name-ios }.
 navigation-download-for-ios = Prevziať pre { -brand-name-ios }
 navigation-download-for-android = Prevziať pre { -brand-name-android }
 navigation-ios-support = Podpora { -brand-name-ios }
 navigation-android-support = Podpora { -brand-name-android }u
-navigation-firefox-browser-for-enterprise = Prehliadač Firefox pre podniky
-navigation-strap-on-your-goggles = Nasaďte si okuliare a ponorte sa do sveta pôsobivého webu s prehliadačom Firefox pre VR.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(case: "gen", capitalization: "upper") } pre podniky
+navigation-strap-on-your-goggles = Nasaďte si okuliare a ponorte sa do sveta pôsobivého webu s { -brand-name-firefox-browser(case: "ins", capitalization: "lower") } pre VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } pre { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Pozerajte videá a surfujte na internete na svojej { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = { -brand-name-firefox } kladie - a vždy kládol - na prvé miesto súkromie.
-navigation-take-the-passwords-youve = Vezmite si svoje uložené heslá so sebou.
+navigation-take-the-passwords-youve = Vezmite si svoje uložené heslá vo { -brand-name-firefox(case: "loc") } so sebou.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } predstavuje celý rad produktov, ktoré sú vytvorené s cieľom ochrániť vás a pomôcť vám na internete.
-navigation-join-firefox = Prihláste sa do { -brand-name-firefox }u
-navigation-access-all-of-firefox = Jeden účet - kompletná kontrola nad všetkými produktami.
+navigation-join-firefox = Prihláste sa do { -brand-name-firefox(case: "loc") }
+navigation-access-all-of-firefox = Jeden účet { -brand-name-firefox } - kompletná kontrola nad všetkými produktami.
 navigation-meet-the-firefox-family = Spoznajte rad produktov { -brand-name-firefox }
 navigation-firefox-blog = Blog { -brand-name-firefox }u
 navigation-read-about-new-firefox = Prečítajte si o nových funkciách { -brand-name-firefox }u. Nájdete tu taktiež tipy pre bezpečnejšie používanie internetu.
 navigation-the-non-profit-behind = Nezisková organizácia v pozadí { -brand-name-firefox }u bojuje za zdravý internet pre všetkých.
 navigation-learn-how-firefox-treats = Pozrite sa, ako { -brand-name-firefox } zaobchádza s vašimi údajmi.
-navigation-mozilla-careers = Práca v Mozille
-navigation-approach-your-career = Kariéra v Mozille je zmysluplná. Pozrite sa na pracovné ponuky.
-navigation-close-firefox-menu = Zavrieť ponuku
+navigation-mozilla-careers = Práca v { -brand-name-mozilla(case: "loc") }
+navigation-approach-your-career = Kariéra v { -brand-name-mozilla(case: "loc") } je zmysluplná. Pozrite sa na pracovné ponuky.
+navigation-close-firefox-menu = Zavrieť ponuku { -brand-name-firefox(case: "gen") }
 navigation-get-the-browser-that-gives = Prevezmite si prehliadač, ktorý vám dáva kontrolu. K dispozícii pre { -brand-name-windows }, { -brand-name-mac } či { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Vezmite si { -brand-name-firefox } a { -brand-name-firefox-focus } so sebou. Pre { -brand-name-android } a { -brand-name-ios }.
 navigation-get-firefox = Získajte { -brand-name-firefox }
 navigation-get-firefox-focus = Získajte { -brand-name-firefox-focus }
 navigation-android-extensions = Rozšírenia pre { -brand-name-android }
-navigation-your-firefox-account = Váš účet Firefox
+navigation-your-firefox-account = Váš { -brand-name-firefox-account(case: "gen", capitalization: "lower") }
 navigation-make-the-most-of-your = Vyťažte zo svojho { -brand-name-firefox }u čo najviac - na každom zariadení.
+# Outdated string
 navigation-learn-how-to-customize = Upravte si svoj { -brand-name-firefox } podľa seba.
+# Outdated string
 navigation-experience-augmented = Zažite rozšírenú a virtuálnu realitu s { -brand-name-firefox }om.
+# Outdated string
 navigation-meet-people-in-experimental = Stretnite ľudí v experimentálnych chatovacích miestnostiach v zmiešanej realite pomocou { -brand-name-firefox }u.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } prináša { -brand-name-firefox } do rozšírenej a virtuálnej reality.
 navigation-firefox-built-just-for = { -brand-name-firefox }, vytvorený pre vývojárov.
 navigation-preview-the-latest-build = Pomôžte nám vylepšiť najnovšie vydanie { -brand-name-firefox }u.
 navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
-navigation-mozilla-manifesto = Manifest Mozilly
+navigation-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 navigation-menu = Ponuka
 navigation-check-out-the-benefits = Pozrite si jeho výhody
 navigation-browsers = Prehliadače
@@ -64,6 +70,9 @@ navigation-security-tips = Bezpečnostné tipy
 navigation-share-large-files-safely = Zdieľajte veľké súbory bezpečne, pomocou odkazov, ktorých platnosť automaticky vyprší.
 navigation-save-quality-content = Kvalitný obsah na dosah ruky.
 navigation-sign-up = Zaregistrovať sa
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rýchlosť. Jednoduchosť. Súkromie.
+navigation-protect-your-entire-device = Ochráňte svoje zariadenie a aplikácie. Zamaskujte svoju skutočnú polohu a pripojte až 5 zariadení. Zaregistrujte sa.
+# Outdated string
 navigation-connected-and-protected = Pripojení a chránení
 navigation-join = Pridajte sa
 navigation-close-join-menu = Zavrieť
@@ -76,11 +85,15 @@ navigation-meet-the-technology-company = Zoznámte sa so spoločnosťou, ktorá 
 navigation-new-features = Nové funkcie
 navigation-save-content-absorb-knowledge = Uložte si obsah. Absorbujte znalosti.
 navigation-same-speed-and-safety = Rovnaká rýchlosť a súkromie, ktorému dôverujete - vytvorené priamo pre podniky.
+# Outdated string
 navigation-add-ons = Doplnky
 navigation-projects = Projekty
 navigation-close-projects-menu = Zavrieť ponuku
 navigation-donate-your-voice-to = Prispejte svojim hlasom a pomôžte s budovaním otvorenej technológie rozpoznávania reči.
+navigation-machine-learning = Strojové učenie
+# Outdated string
 navigation-web-of-things-iot = Internet vecí (IoT)
+# Outdated string
 navigation-make-devices-connected = Zariadenia pripojené na internet by mali byť bezpečné a mali by medzi sebou spolupracovať.
 navigation-developers = Vývojári
 navigation-close-developers-menu = Zavrieť ponuku
