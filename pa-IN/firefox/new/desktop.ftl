@@ -13,6 +13,35 @@ firefox-desktop-download-meta-title = { -brand-name-firefox-browser } ਡਾਊ�
 firefox-desktop-download-og-title = ਪਹਿਲਾਂ ਹੀ ਸਭ ਤੋਂ ਤੇਜ਼ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-desktop-download-og-desc = ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਸਫ਼ੇ ਡਾਊਨਲੋਡ ਕਰਨੇ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣੀ ਤੇ ਫ਼ੀਚਰਾਂ ਨਾਲ ਭਰਿਆ ਨਵਾਂ { -brand-name-firefox } ਆ ਗਿਆ ਹੈ।
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = ਉਹ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਜ਼ਰੂਰੀ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ
+firefox-desktop-download-download-options = ਡਾਊਨਲੋਡ ਚੋਣਾਂ ਤੇ ਹੋਰ ਭਾਸ਼ਾਵਾਂ
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ਸਹਿਯੋਗ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = ਜੋ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਉਹੀ ਕਰੋ।<br> { -brand-name-firefox-browser } ਵੇਖ <strong>ਨਹੀਂ ਰਿਹਾ</strong> ਹੈ।
+firefox-desktop-download-how-firefox-compares = ਹੋਰਾਂ ਬਰਾਊਜ਼ਰਾਂ ਦੇ ਟਾਕਰੇ ‘ਚ { -brand-name-firefox } ਕਿਵੇਂ ਹੈ
+firefox-desktop-download-how-we-compare = ਅਸੀਂ ਹੋਰਾਂ ਬਰਾਊਜ਼ਰਾਂ ਨਾਲ ਟਾਕਰਾ ਕਿਵੇਂ ਕਰਦੇ ਹਾਂ
+firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } ਨਾਲ ਟਾਕਰਾ:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = ਹਾਂ
+firefox-desktop-download-no = ਨਹੀਂ
+firefox-desktop-download-blocks-third-party = ਤੀਜੀ ਧਿਰ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
+firefox-desktop-download-autoplay-blocking = ਆਪਣੇ-ਆਪ ਚੱਲਣ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
+firefox-desktop-download-blocks-social-trackers = ਸਮਾਜਿਕ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
+firefox-desktop-download-in-browser-screenshot = ਬਰਾਊਜ਼ਰ ਵਿਚੇ ਸਕਰੀਨਸ਼ਾਟ ਟੂਲ
+firefox-desktop-download-master-password = ਪ੍ਰਾਇਮਰੀ ਪਾਸਵਰਡ
+firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
+firefox-desktop-download-see-your-report = ਆਪਣੀ ਸੁਰੱਖਿਆ ਰਿਪੋਰਟ ਵੇਖੋ
+firefox-desktop-download-for-everyone = { -brand-name-firefox } ਹਰੇਕ ਲਈ ਹੈ
+firefox-desktop-download-available-in-over = 90 ਤੋਂ ਵੱਧ ਭਾਸ਼ਾਵਾਂ ਨਾਲ ਅਤੇ { -brand-name-windows }, { -brand-name-mac-short } ਤੇ { -brand-name-linux } ਮਸ਼ੀਨਾਂ ਉੱਤੇ ਚੱਲਣ ਕਰਕੇ { -brand-name-firefox } ਕੰਮ ਕਰਦਾ ਹੈ ਭਾਵੇਂ ਤੁਸੀਂ ਜੋ ਵੀ ਵਰਤੋਂ ਜਾਂ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਹੋ। ਸਭ ਤੋਂ ਚੰਗੇ ਤਜਰਬੇ ਲਈ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਹਾਡਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅੱਪਡੇਟ ਹੈ।
+firefox-desktop-download-review-system-req = ਸਿਸਟਮ ਦੀਆਂ ਲੋੜਾਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
+firefox-desktop-download-all-your-devices = { -brand-name-firefox } ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸ ਉੱਤੇ ਲਵੋ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = { -brand-name-firefox } ਨਾਲ ਇਹ <strong>ਸਭ</strong> ਕਰੋ
+firefox-desktop-download-search-smarter = ਵੱਧ ਹੁਸ਼ਿਆਰੀ, ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
