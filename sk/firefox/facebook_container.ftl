@@ -21,7 +21,7 @@ facebook-container-install-and-contain = Nainštalujte si rozšírenie
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-installing-the-extension-is = Inštalácia <a href="{ $fbcontainer }">rozšírenia</a> je jednoduchá a akonáhle je aktivované, otvorí sa vám { -brand-name-facebook } vždy na modrej karte. { -brand-name-facebook } môžete používať tak, ako predtým. { -brand-name-facebook } vám stále bude môcť zobrazovať reklamy a odporúčania na svojej stránke, ale bude preň omnoho ťažšie používať aktivitu <strong>mimo stránky { -brand-name-facebook }u</strong> a na základe nej tieto reklamy a iné cielené správy zobrazovať.
-facebook-container-about-firefox-and-mozilla = O { -brand-name-firefox }e a Mozille
+facebook-container-about-firefox-and-mozilla = O { -brand-name-firefox(case: "loc") } a { -brand-name-mozilla(case: "loc") }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
 facebook-container-were-backed-by-mozilla-the = Stojí za nami <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, nezisková organizácia, ktorá stavia na prvé miesto ľudí, nie zisk. Vytvorili sme toto rozšírenie, pretože si myslíme, že by ste mali mať jednoducho použiteľné nástroje, ktoré vám pomôžu spravovať svoje súkromie a bezpečnosť.
