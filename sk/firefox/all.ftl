@@ -22,17 +22,19 @@ firefox-all-64-bit-installers = 64-bitové inštalátory
 firefox-all-choose-a-64-bit-installer = 64-bitový inštalátor vyberte pre počítače so 64-bitovým procesorom, ktorý im umožňuje prideľovať jednotlivým programom viac pamäte RAM - toto je obzvlášť dôležité pre hry a iné náročné aplikácie.
 firefox-all-32-bit-installers = 32-bitové inštalátory
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Prevezmite si prehliadač Firefox v slovenčine či v jednom z viac ako 90 ďalších jazykov
+firefox-all-download-the-firefox = Prevezmite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } v slovenčine či v jednom z viac ako 90 ďalších jazykov
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame prehliadač Firefox vo viac ako 90 jazykoch.
-firefox-all-choose-which-firefox = Vyberte si, ktorý prehliadač Firefox chcete vo svojom jazyku prevziať
-firefox-all-firefox-privacy-notice = Zásady ochrany súkromia
+firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame{ -brand-name-firefox-browser(case: "acc", capitalization: "lower") } vo viac ako 90 jazykoch.
+firefox-all-choose-which-firefox = Vyberte si, ktorý { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete vo svojom jazyku prevziať
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } a súkromie
 firefox-all-learn-about-firefox = Ďalšie informácie o prehliadačoch { -brand-name-firefox }
 firefox-all-the-standard-firefox = Štandardný { -brand-name-firefox } - rýchly a zameraný na súkromie. Ak si nie ste istí, ktorý { -brand-name-firefox } si vybrať, vyberte si tento.
 firefox-all-get-a-sneak-peek-at = Vyskúšajte najnovšie funkcie { -brand-name-firefox }u pred vydaním finálnej verzie.
 firefox-all-test-your-sites-against = Otestujte svoje stránky s ohľadom na pripravované nové funkcie prehliadača { -brand-name-firefox } pomocou výkonných a flexibilných vývojárskych nástrojov, ktoré sú v predvolenom nastavení zapnuté.
 firefox-all-count-on-stability-and = Spoľahnite sa na stabilitu a jednoduché používanie prehliadača { -brand-name-firefox } vytvoreného pre podniky.
-firefox-all-windows-installers-for = Inštalátory systému Windows pre podnikové IT, ktoré zjednodušujú konfiguráciu, nasadenie a správu prehliadača Firefox.
+firefox-all-windows-installers-for = Inštalátory systému Windows pre podnikové IT, ktoré zjednodušujú konfiguráciu, nasadenie a správu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
+firefox-all-arm64-installers = Inštalátory ARM64/AArch64
+firefox-all-arm64-installers-optimized = Inštalátory pre platformy ARM64/AArch64 optimalizované pre počítače s { -brand-name-windows(case: "ins") } bežiace na procesoroch Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-bitový inštalátor vyberte pre počítače s 32-bitovými procesormi alebo pre staršie či menej výkonné počítače. <a href="{ $url }">Ak si nie ste istí</a>, či si máte vybrať 64-bitový alebo 32-bitový inštalátor, odporúčame vám vybrať si 32-bitový.
