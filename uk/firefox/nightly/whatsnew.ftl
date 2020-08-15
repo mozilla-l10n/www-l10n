@@ -8,7 +8,7 @@
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
 nightly-whatsnew-youve-just-been = Ви щойно оновилися до { -brand-name-firefox-nightly } { $version }!
-nightly-whatsnew-your-firefox-nightly = Ваш { -brand-name-firefox-nightly } було оновлено.
+nightly-whatsnew-your-firefox-nightly = Ваш { -brand-name-firefox-nightly } оновлено.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Кожні 4 - 5 тижнів випускається нова основна версія { -brand-name-firefox }, і, як наслідок, оновлюється версія { -brand-name-nightly }.
 # Obsolete
