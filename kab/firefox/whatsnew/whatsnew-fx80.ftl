@@ -8,3 +8,4 @@
 # html page title
 whatsnew80-page-title = D acu n umaynut d { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Ayuz! Aql-ak·akem tesseqdaceḍ lqem aneggaru n { -brand-name-firefox }.
+whatsnew80-new-firefox-android = { -brand-name-firefox } amaynut i { -brand-name-android }
