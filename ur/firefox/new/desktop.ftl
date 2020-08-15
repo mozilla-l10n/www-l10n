@@ -28,6 +28,7 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = ہاں
 firefox-desktop-download-no = نہیں
+firefox-desktop-download-blocks-third-party = تیسری پارٹی سے باخبر رہنے والی کوکیز کو بلاک کرتا ہے
 firefox-desktop-download-autoplay-blocking = آٹو پلے بلاک ہو رہا ہے
 firefox-desktop-download-blocks-social-trackers = سماجی ٹریکرز بلاک کریں
 # OS is short for "Operating System"

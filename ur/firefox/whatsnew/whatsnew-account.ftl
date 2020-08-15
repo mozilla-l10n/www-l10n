@@ -14,6 +14,7 @@ whatsnew-account-main-button = سائن ان
 
 ##
 
+whatsnew-account-signed-in-headline = مزید حاصل کریں. موبائل کے لئے { -brand-name-firefox } استمعال کریں
 whatsnew-account-signed-in-lead-in = اپنے فون پر ڈاؤن لوڈ کا ربط ارسال  کریں۔
 whatsnew-account-signed-in-qr-title = اپنے اسمارٹ فون یا ٹیبلٹ میں { -brand-name-firefox } ڈائونلوڈ کریں۔
 # An accessible label for a QR code image
