@@ -39,6 +39,7 @@ compare-shared-utility-strong = <strong>Utilidad</strong>
 compare-shared-portability-strong = <strong>Portabilidad</strong>
 compare-shared-overall-assessment = Evaluación general
 compare-shared-the-comparisons-made-here = Las comparaciones realizadas aquí se realizaron en las versiones finales disponibles para usuarios comunes de los navegadores de la siguiente forma:
+compare-shared-this-page-updated-semi-quarterly = Esta página se actualiza cada mes y medio para reflejar las últimas versiones y es posible que no siempre refleje las últimas actualizaciones.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
