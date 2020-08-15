@@ -81,6 +81,14 @@ firefox-desktop-download-library-of-extensions = Tamkerḍit n yiseɣzaf
 firefox-desktop-download-adjust-search-bar = Iɣewwaṛen n uqeεed n ufeggag n unadi
 firefox-desktop-download-change-new-tab = Beddel taneruft tamynut n yiccer
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Mtawi ibenkan-inek
+firefox-desktop-download-screenshots = Tuṭṭfiwin n wegdil
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Ammesten mgal aḍfaṛ yettwaseǧhed (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Awi { -brand-name-firefox-browser } i <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Awi { -brand-name-firefox-browser } i <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sader kan iminig
 
