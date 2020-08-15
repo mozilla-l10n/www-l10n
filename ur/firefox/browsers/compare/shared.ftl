@@ -38,6 +38,7 @@ compare-shared-utility-strong = <strong> افادیت </ strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong> پورٹیبلٹی </ strong>
 compare-shared-overall-assessment = مجموعی طور پر تشخیص
+compare-shared-the-comparisons-made-here = یہاں موازنہ مندرجہ ذیل براؤزر کی اجرائا کے مختلف ورژن کے مطابق کیا گیا تھا:
 compare-shared-this-page-updated-semi-quarterly = اس صفحے کو تازہ ترین ورژن کی عکاسی کرنے کے لئے نیم سہ ماہی عرصہ بعد تذکاری کی جاتی ہے اور یہ ہمیشہ تازہ ترین تازہ کاریوں کی عکاسی نہیں کرسکتا ہے۔
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
