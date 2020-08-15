@@ -8,6 +8,9 @@
 firefox-enterprise-enterprise = ਇੰਟਰਪ੍ਰਾਈਜ਼
 firefox-enterprise-overview = ਸੰਖੇਪ
 firefox-enterprise-downloads = ਡਾਊਨਲੋਡ
+firefox-enterprise-your-data-stays-your-business = ਤੁਹਾਡਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਾਰੋਬਾਰ ਨਾਲ ਰਹਿੰਦਾ ਹੈ
+firefox-enterprise-deploy-when-and-how-you-want = ਜਦੋਂ ਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ ਸਥਾਪਤ ਕਰੋ
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ਡਾਊਨਲੋਡ
 firefox-enterprise-windows-64-bit = ਵਿੰਡੋਜ਼ 64-ਬਿੱਟ
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = ਆਪਣਾ ਡਾਊਨਲੋਡ ਚੁਣੋ

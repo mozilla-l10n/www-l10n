@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = ਡਿਵੈਲਪਰ ਐ
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = ਸਭ ਤੋਂ ਸਥਿਰ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਿਲਡ ਵਿੱਚ ਰੀਲਿਜ਼ ਲਈ ਤਿਆਰ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
 firefox-channel-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
+firefox-channel-previous-nightly-builds = ਪੁਰਾਣੇ { -brand-name-nightly } ਬਿਲਡ
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ਕੇਵਲ ਡਿਵੈਲਪਰਾਂ ਲਈ ਹੀ ਬਣਾਏ ਗਏ ਬਰਾਊਜ਼ਰ ਨਾਲ ਬਿਲਡ, ਟੈਸਟ, ਸਕੇਲ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
 # Variables:
