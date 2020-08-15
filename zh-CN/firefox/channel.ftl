@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = 下载和测试 { -brand-
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = 在最稳定的预览版本中测试即将发布的功能。
 firefox-channel-release-notes = 发行说明
+firefox-channel-previous-nightly-builds = 先前的 { -brand-name-nightly } 构建版本
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = 使用专为开发者打造的浏览器进行构建、测试和测量。
 # Variables:

@@ -14,6 +14,7 @@ whatsnew-account-main-button = 登录
 
 ##
 
+whatsnew-account-signed-in-headline = 使用 { -brand-name-firefox } 移动版，助您事半功倍。
 whatsnew-account-signed-in-lead-in = 发送下载链接到您的手机。
 whatsnew-account-signed-in-qr-title = 下载 { -brand-name-firefox } 到您的智能手机或平板电脑。
 # An accessible label for a QR code image
