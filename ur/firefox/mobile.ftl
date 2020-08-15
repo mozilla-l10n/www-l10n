@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = IOS اور { -brand-name-android } کے لئے اپنے موبائل پر Firefox براؤزر ڈاؤن لوڈ کریں
+firefox-mobile-download-the-firefox-browser = { -brand-name-ios } اور { -brand-name-android } کے لئے اپنے موبائل پر { -brand-name-firefox-browser } براؤزر ڈاؤن لوڈ کریں
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-check-out-firefox-again-its = { -brand-name-firefox } کی دوبارہ پڑتال کریں۔ یہ تیز ، نجی اور آپ کی طرف ۔ { -brand-name-ios } اور { -brand-name-android } کے لئے۔
@@ -15,6 +15,7 @@ firefox-mobile-block-online-trackers-and = آن لائن ٹریکرز اور ن�
 firefox-mobile-privacy-protection-by-default = پہلے سے طے شدہ رازداری سے تحفظ
 firefox-mobile-stop-companies-from-following = کمپنیوں کو اپنی پیروی کرنے سے روکیں
 firefox-mobile-discover-products-that-keep = ایسی مصنوعات دریافت کریں جو آپ کو محفوظ رکھیں
+firefox-mobile-sync-your-history-passwords = اپنے سبقات، پاس ورڈ اور بُک مارکس کو سنک  کریں۔ اپنے سبھی آلات پر ٹیبز بھیجیں۔
 firefox-mobile-android-only = صرف { -brand-name-android } کے لیئے
 firefox-mobile-make-android-your-own = { -brand-name-android } کو اپنا بنائیں
 firefox-mobile-customize-your-firefox-mobile-truncated = ایکسٹینشنز کے ساتھ اپنے { -brand-name-firefox } موبائل براؤزر کو مخصوص بنائیں۔

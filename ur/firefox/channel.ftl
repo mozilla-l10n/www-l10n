@@ -39,6 +39,7 @@ firefox-channel-download-and-test-the-latest-desktop = { -brand-name-firefox } �
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = جانچ کے بارے میں سب سے زیادہ مستحکم ریلیز سے قبل کی تعمیر میں خصوصیات جاری رکھی جائیں گی۔
 firefox-channel-release-notes = اجرائی نوٹ
+firefox-channel-previous-nightly-builds = پچھلی { -brand-name-nightly } بیلڈز
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = بنائیں, جانچیں ، تغیر کریں اور مزید صرف اس برائوزر کے ساتھ جو تخلیق کاروں کے لیئے بنا ہو۔
 # Variables:

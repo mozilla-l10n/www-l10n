@@ -14,6 +14,7 @@ lockwise-install-for-firefox = { -brand-name-firefox } انسٹال کریں
 lockwise-open-in-firefox = { -brand-name-firefox } میں کھولیں
 lockwise-only-in-the-firefox-browser = صرف { -brand-name-firefox-browser } میں
 lockwise-256-bit-encryption-protects = سنک کے عمل کے دوران 256 بٹ خفیہ کاری آپ کی حفاظت کرتی ہے
+lockwise-your-privacy-comes-first = آپ کی رازداری پہلے آتی ہے
 lockwise-we-keep-your-data-safe = ہم آپ کا ڈیٹا محفوظ رکھتے ہیں ، کبھی فروخت نہیں کرتے۔
 lockwise-support = سپورٹ
 lockwise-your-privacy = آپ کی رازداری
