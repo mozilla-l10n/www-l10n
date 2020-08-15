@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Κάντε λήψη γι�
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Δοκιμάστε τις έτοιμες προς έκδοση λειτουργίες στην πιο σταθερή έκδοση πριν την τελική.
 firefox-channel-release-notes = Σημειώσεις έκδοσης
+firefox-channel-previous-nightly-builds = Προηγούμενες εκδόσεις { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Χτίστε, δοκιμάστε και πολλά περισσότερα με την μόνη έκδοση περιηγητή μόνο για προγραμματιστές.
 # Variables:

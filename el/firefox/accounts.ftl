@@ -19,6 +19,7 @@ firefox-accounts-there-is-a-way-to-protect = Υπάρχει τρόπος να π
 firefox-accounts-take-your-stand-against = Αντισταθείτε σε μια βιομηχανία που βλέπει εσάς ως το προϊόν.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Έχετε συνδεθεί <br>στο { -brand-name-firefox }. <br><span>Δοκιμάστε το { -brand-name-firefox-monitor }.</span>
+firefox-accounts-see-if-youve-been = Δείτε αν έχετε εμπλακεί σε διαρροή δεδομένων στο διαδίκτυο.
 firefox-accounts-sign-in-to-monitor = Σύνδεση στο { -brand-name-monitor }
 firefox-accounts-join-firefox = Σύνδεση στο { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Εισάγετε τη διεύθυνση email σας για να ξεκινήσετε.
