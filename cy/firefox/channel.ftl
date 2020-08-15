@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Llwythwch i lawr a phrofi
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Rhowch brawf ar nodweddion ar fin eu ryddhau yn y fersiynau mwyaf sefydlog cyn eu ryddhau.
 firefox-channel-release-notes = Nodiadau rhyddhau
+firefox-channel-previous-nightly-builds = Adeiladau blaenorol { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Adeiladu, profi, graddio a mwy gyda'r unig borwr sydd wedi ei adeiladu ar gyfer datblygwyr.
 # Variables:
