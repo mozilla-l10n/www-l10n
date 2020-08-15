@@ -42,6 +42,30 @@ firefox-desktop-download-all-your-devices = { -brand-name-firefox } ਨੂੰ �
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = { -brand-name-firefox } ਨਾਲ ਇਹ <strong>ਸਭ</strong> ਕਰੋ
 firefox-desktop-download-search-smarter = ਵੱਧ ਹੁਸ਼ਿਆਰੀ, ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ
+firefox-desktop-download-search-from-address = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਤੋਂ ਖੋਜੋ
+firefox-desktop-download-search-engine-options = ਖੋਜ ਇੰਜਣ ਲਈ ਚੋਣਾਂ
+firefox-desktop-download-smart-search-suggestions = ਹੁਸ਼ਿਆਰ ਖੋਜ ਸੁਝਾਅ
+firefox-desktop-download-bookmark-history = ਨਤੀਜਿਆਂ ਵਿੱਚ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਖੁੱਲੀ ਟੈਬ
+firefox-desktop-download-boost-your = ਆਪਣੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵਧਾਓ
+firefox-desktop-download-works-with-google = { -brand-name-google } ਉਤਪਾਦਾਂ ਨਾਲ ਕੰਮ ਕਰਦਾ ਹੈ
+firefox-desktop-download-built-in-screenshot = ਵਿੱਚੇ ਮੌਜੂਦ ਸਕਰੀਨਸ਼ਾਟ ਟੂਲ
+firefox-desktop-download-bookmarks-manager = ਬੁੱਕਮਾਰਕ ਮੈਨੇਜਰ
+firefox-desktop-download-autosuggest-urls = ਆਪੇ ਸੁਝਾਏ URL
+firefox-desktop-download-sync-across-devices = ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰੋ
+firefox-desktop-download-reader-mode = ਰੀਡਰ ਢੰਗ
+firefox-desktop-download-spell-check = ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ
+firefox-desktop-download-pinned-tabs = ਟੰਗੀਆਂ ਹੋਈਆਂ ਟੈਬਾਂ
+firefox-desktop-download-stream-share-play = ਸਟਰੀਮ, ਸਾਂਝਾ ਅਤੇ ਚਲਾਉਣਾ
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = ਵੀਡੀਓ ਤੇ ਆਡੀਓ ਦੇ ਆਪੇ ਚੱਲਣ ਉੱਤੇ ਪਾਬੰਦੀ
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
+firefox-desktop-download-curated-content-on = ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਸ਼ੁੱਧ ਕੀਤੀ ਸਮੱਗਰੀ
+firefox-desktop-download-share-links = ਲਿੰਕ ਸਾਂਝਾ ਕਰਨਾ
+firefox-desktop-download-protect-your-privacy = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ
+firefox-desktop-download-third-party-cookie = ਤੀਜੀ ਧਿਰ ਕੂਕੀਜ਼ ‘ਤੇ ਪਾਬੰਦੀ
+firefox-desktop-download-fingerprinter-blocking = ਫਿੰਗਰਪਰਿੰਟ ਲਈ ਪਾਬੰਦੀ
+firefox-desktop-download-cryptominer-blocking = ਕ੍ਰਿਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ ਲਈ ਪਾਬੰਦੀ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
