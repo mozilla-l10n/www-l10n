@@ -13,6 +13,7 @@ features-index-see-all = تمام ایکسٹینشنز دیکھیں
 features-index-get-an-account = { -brand-name-firefox-account } حاصل کریں
 features-index-from-the-company = ایسی کمپنی جانب سے جو لوگوں کو منافع پر ترجیح دیتا ہنے
 features-index-private-browsing-mode = نجی براؤزنگ کا موڈ ہر بار جب آپ براؤزر کو بند کرتے ہیں تو کوکیز کا ڈیٹا اور آپ کی براؤزنگ کی سبقات کو حذف کردیتا ہے۔
+features-index-use-less-memory = { -brand-name-chrome } کے مقابلے میں { -brand-name-firefox } کم میموری کا استمعال کرتا ہے، تاکے دیگر پروگرام اپنی بہترین رفتار پر چل سکیں
 features-index-mozilla-creates = { -brand-name-mozilla } ہرکسی کے لئے طاقتور ویب ٹیک تخلیق کرتا ہے
 features-index-see-what-makes-us-different = دیکھیں ہمیں کیا مختلف بناتا ہے
 features-index-by-non-profit-mozilla = غیر منافع بخش { -brand-name-mozilla } کی جانب سے
