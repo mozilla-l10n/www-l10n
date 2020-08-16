@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = { -brand-name-firefox } �
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = 정식 출시 전 안정된 버전에서 새로운 기능을 테스트할 수 있습니다.
 firefox-channel-release-notes = 제품 소개서
+firefox-channel-previous-nightly-builds = 이전 { -brand-name-nightly } 빌드 보기
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = 개발자를 위해서만 제공하는 독특한 브라우저를 사용해 보세요.
 # Variables:

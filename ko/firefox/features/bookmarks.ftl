@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox 브라우저: 어디든 갈 수 있는 더 나은 북마크
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: 어디든 갈 수 있는 더 나은 북마크
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = 폴더로 북마크를 쉽게 정리하고 모바일 부터 데스크톱에 이르기 까지 모든 기기에서 접근하세요.
 features-bookmarks-better-bookmarks = 더 나은 북마크
