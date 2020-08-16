@@ -5,7 +5,7 @@
 navigation-download-firefox = Descarcă { -brand-name-firefox }
 navigation-get-a-firefox-account = Creează-ți un { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pentru calculator
-navigation-get-the-browser-that-respects = Obține browserul care îți respectă automat intimitatea. Pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
+navigation-get-the-browser-that-respects = Folosește browserul care îți respectă automat intimitatea. Pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pentru dispozitive mobile
 navigation-take-speed-privacy-and = Ia cu tine viteza, intimitatea și liniștea sufletească. Pe { -brand-name-android } și { -brand-name-ios }.
 navigation-download-for-ios = Descarcă pentru { -brand-name-ios }
@@ -30,7 +30,7 @@ navigation-learn-how-firefox-treats = Află cum îți tratează cu respect { -br
 navigation-mozilla-careers = Cariere { -brand-name-mozilla }
 navigation-approach-your-career = Abordează-ți cariera cu un sens al scopului. Găsește o muncă demnă la { -brand-name-mozilla }.
 navigation-close-firefox-menu = Închide meniul { -brand-name-firefox }
-navigation-get-the-browser-that-gives = Obține browserul care îți dă mai multă putere pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
+navigation-get-the-browser-that-gives = Folosește browserul care îți dă mai multă putere pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Ia { -brand-name-firefox } și { -brand-name-firefox-focus } cu tine. Pentru { -brand-name-android } și { -brand-name-ios }.
 navigation-get-firefox = Instalează { -brand-name-firefox }
 navigation-get-firefox-focus = Instalează { -brand-name-firefox-focus }
