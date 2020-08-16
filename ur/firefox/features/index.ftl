@@ -12,6 +12,7 @@ features-index-firefox-features = { -brand-name-firefox }  خصوصیات
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } ایک تیز ، ہلکا پھلکا ، رازداری سے مرکوز براؤزر ہے جو آپ کے تمام آلات پر کام کرتا ہے۔
 features-index-see-all = تمام ایکسٹینشنز دیکھیں
+features-index-important-stuff = یقینی بنائیں کہ آپ کی سبھی اہم چیزیں - انٹرنیٹ کی تلاشیں ، پاس ورڈ ، کھلی ٹیبز -وہاں ظاہر ہوتی ہیں جہاں آپ کو ہر آلہ پر اس کی ضرورت ہے۔
 features-index-get-an-account = { -brand-name-firefox-account } حاصل کریں
 features-index-from-the-company = ایسی کمپنی جانب سے جو لوگوں کو منافع پر ترجیح دیتا ہنے
 features-index-private-browsing-mode = نجی براؤزنگ کا موڈ ہر بار جب آپ براؤزر کو بند کرتے ہیں تو کوکیز کا ڈیٹا اور آپ کی براؤزنگ کی سبقات کو حذف کردیتا ہے۔

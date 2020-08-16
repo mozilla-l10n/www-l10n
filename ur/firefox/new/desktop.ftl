@@ -36,6 +36,7 @@ firefox-desktop-download-os-availability = OS کی دستیابی
 firefox-desktop-download-in-browser-screenshot = براؤزر میں اسکرین شاٹ ٹول
 firefox-desktop-download-master-password = ماسٹر پاس ورڈ
 firefox-desktop-download-we-block-the-ad = ہم اشتہاری ٹریکروں کو بلاک کرتے ہیں۔ آپ انٹرنیٹ کو تیزی سے تلاش کرتے ہیں۔
+firefox-desktop-download-ads-are-distracting = اشتہارات پریشان کن ہیں اور ویب صفحات کو سست روی سے لوڈ کرتے ہیں جبکہ ان کے ٹریکرز آپ کے آن لائن کیے جانے والے ہر اقدام کو دیکھتے ہیں۔ { -brand-name-firefox-browser } زیادہ تر ٹریکروں کو خود بخود بلاک کرتا ہے ، لہذا آپ کی سیکیورٹی کی ترتیبات میں کھدائی کرنے کی ضرورت نہیں ہے۔
 firefox-desktop-download-see-your-report = اپنی تحفظ کی رپورٹ دیکھیں
 firefox-desktop-download-for-everyone = { -brand-name-firefox } سب کےلئے ہے
 firefox-desktop-download-review-system-req = نظام کے تقاضوں کا جائزہ لیں

@@ -17,6 +17,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } برائے { -brand-nam
 navigation-watch-videos-and-browse = اپنے { -brand-name-amazon } { -brand-name-fire-tv } پر ویڈیوز دیکھیں اور انٹرنیٹ براؤز کریں۔
 navigation-firefox-browsers-put = { -brand-name-firefox } براؤزر آپ کی رازداری کو پہلے - اور ہمیشہ رکھتے ہیں۔
 navigation-take-the-passwords-youve = { -brand-name-firefox }  میں محفوظ کردہ پاس ورڈ ہر جگہ اپنے ساتھ رکھیں۔
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox }  مصنوعات کا ایک پورا خاندان ہے جو آپ کو آن لائن محفوظ اور بہتر بنائے رکھنے کے لئے ڈیزائن کیا گیا ہے۔
 navigation-join-firefox = { -brand-name-firefox } میں شامل ہوں
 navigation-meet-the-firefox-family = { -brand-name-firefox }   کے خاندان سے ملیں
@@ -31,8 +32,11 @@ navigation-get-firefox = { -brand-name-firefox } حاصل کریں
 navigation-get-firefox-focus = { -brand-name-firefox-focus } حاصل کریں
 navigation-android-extensions = { -brand-name-android } توسیعات
 navigation-your-firefox-account = آپ کا { -brand-name-firefox-account }
+# Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox } کیسے کام کرتا ہے آپ اسکو کوتخصیص کرنے کا طریقہ جانیں
+# Outdated string
 navigation-experience-augmented = { -brand-name-firefox } کے ساتھ اوگمنٹڈ اور ورچوئل ریالٹی کا تجربہ کریں۔
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }، جو صرف ڈویلپرز کے لئے بنایا گیا ہے۔
 navigation-preview-the-latest-build = { -brand-name-firefox } کی تازہ ترین تعمیر کا پیش نظارہ کریں اور اسے بہترین بنانے میں ہماری مدد کریں۔
@@ -44,7 +48,7 @@ navigation-check-out-the-benefits = فوائدکی پڑتال کریں
 navigation-browsers = براؤزر
 navigation-close-browsers-menu = براؤزرز کا مینو بند کریں
 navigation-download = ڈاؤن لوڈ
-navigation-extensions = توسیعات
+navigation-extensions = ایکسٹینشنز
 navigation-support = معاونت
 navigation-privacy = رازداری
 navigation-made-with-respect = احترام کے ساتھ بنایا گیا
@@ -56,6 +60,7 @@ navigation-security-tips = سیکیورٹی کے نسخے
 navigation-share-large-files-safely = بڑی فائلوں کو محفوظ طریقے سے ، ان ربط کے ساتھ اشتراک کریں جو "خود تباہ ہوجاتے ہیں"۔
 navigation-save-quality-content = کہیں سے بھی معیاری مواد کو محفوظ کریں۔ ہر جگہ اپنے دماغ کو ایندھن دیں۔
 navigation-sign-up = سائن اپ کریں
+# Outdated string
 navigation-connected-and-protected = منسلک اور محفوظ
 navigation-join = شامل ہوں
 navigation-close-join-menu = شمولیت کا مینو بند کریں
@@ -67,11 +72,14 @@ navigation-meet-the-technology-company = ٹکنالوجی کی کمپنی سے �
 navigation-new-features = نئی خصوصیات
 navigation-save-content-absorb-knowledge = مواد محفوظ کریں۔ علم  جزب  کریں۔
 navigation-same-speed-and-safety = قابل بھروسہ  وہی رفتار اور حفاظت جس پر آپ  عتماد کرتے ہیں، جو صرف کاروبار کیلئے تیار کی گئی ہیں۔
+# Outdated string
 navigation-add-ons = ایڈ اون
 navigation-projects = پروجیکٹس
 navigation-close-projects-menu = پروجیکٹس کا مینو بند کریں
 navigation-donate-your-voice-to = ہر ایک کے لئے آواز کی شناخت کو کھلا بنانے میں مدد کیلئے اپنی آواز کا عطیہ کریں۔
+# Outdated string
 navigation-web-of-things-iot = ویب اف تھنگس (IOT)
+# Outdated string
 navigation-make-devices-connected = انٹرنیٹ سے منسلک آلات کو   محفوظ اور باہمی تعاون کے قابل بنائیں۔
 navigation-developers = ڈیولپر
 navigation-close-developers-menu = ڈویلپرز مینو بند کریں
