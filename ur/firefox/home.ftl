@@ -15,9 +15,12 @@ firefox-home-keep-your-passwords = اپنے پاس ورڈز کو تمام  آل�
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise }کے بارے میں مزید سیکھیں
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = <strong>عزت</strong> حاصل کریں جس کے آپ مستحق ہیں
+firefox-home-every-single-firefox = ہر ایک { -brand-name-firefox } کی مصنوعہ ہمارے ذاتی ڈیٹا کے وعدے کا اعزاز دیتی ہے: <strong> کم لیں۔ اسے محفوظ رکھیں۔ کوئی راز نہیں۔ </ strong>
 firefox-home-share-large-files-without = بڑی فائلوں کو کھوجی آنکھوں کے دیکھے بغیر شیئر کریں
 firefox-home-start-sending-files = مسلوں کو بحفاظت بھیجنا شروع کریں
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } کہ بارے میں مزید سیکھیں
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = ایک لاگ ان آپ کے تمام آلات. ایک ایسی مصنوعات کا کنبہ جو آپ کی <strong> رازداری </ strong> کا احترام کرتا ہے۔
 firefox-home-join-firefox = { -brand-name-firefox } میں شامل ہوں
 firefox-home-learn-more-about-joining = { -brand-name-firefox } میں شامل ہونے کے متعلق مزید سیکھیں
 firefox-home-get-the-browser-extension = براؤزر کی ایکسٹینشن حاصل کریں
