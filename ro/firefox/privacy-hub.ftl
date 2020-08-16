@@ -80,7 +80,7 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Ia-ți cu tine oriunde con
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account = Ai deja un cont? <a { $sign_in } class="{ $class_name }">Autentifică-te</a> sau <a href="{ $learn_more }">află mai multe</a> despre { -brand-name-firefox }.
+firefox-privacy-hub-already-have-an-account = Ai deja un cont? <a { $sign_in } class="{ $class_name }">Intră în cont</a> sau <a href="{ $learn_more }">află mai multe</a> despre { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Citește <a href="{ $url }">Notificarea privind confidențialitatea</a> pentru produsele noastre

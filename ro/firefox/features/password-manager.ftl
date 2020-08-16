@@ -19,9 +19,9 @@ password-manager-forget-the-reset = Uită de resetare. Managerul de parole { -br
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja parolelor
-password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Autentifică-te pe telefon în { -brand-name-firefox-account } și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
+password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Intră de pe telefon în { -brand-name-firefox-account } și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Stăpânul parolelor
 # Obsolete string
 # Variables:

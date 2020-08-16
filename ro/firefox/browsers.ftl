@@ -30,7 +30,7 @@ firefox-browsers-join-firefox-and-get-the-most = Folosește { -brand-name-firefo
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Ai deja un cont? <a { $fxa_attr }>Autentifică-te</a> sau <a { $accounts_attr }>află mai multe</a> despre alăturarea la Firefox.
+firefox-browsers-already-have-an-account-sign = Ai deja un cont? <a { $fxa_attr }>Intră în cont</a> sau <a { $accounts_attr }>află mai multe</a> despre Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
