@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } для { -brand-name-fi
 navigation-watch-videos-and-browse = Глядзіце відэа і аглядайце інтэрнэт на сваім { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Браўзеры { -brand-name-firefox } ставяць вашу прыватнасць на першае месца — цяпер і заўжды.
 navigation-take-the-passwords-youve = Вазьміце з сабой паўсюль захаваныя ў { -brand-name-firefox } паролі.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } — гэта цэлае сямейства прадуктаў, скіраваных на тое, каб зрабіць вас бяспечней і разумней у сеціве.
 navigation-join-firefox = Далучайцеся да { -brand-name-firefox }
 navigation-access-all-of-firefox = Майце доступ да ўсіх { -brand-name-firefox } з дапамогай аднаго ўваходу — і атрымлівайце больш ад кожнага прадукту.
@@ -36,10 +37,16 @@ navigation-get-firefox-focus = Атрымаць { -brand-name-firefox-focus }
 navigation-android-extensions = Пашырэнні для { -brand-name-android }
 navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Атрымайце максімум ад выкарыстання { -brand-name-firefox }, на кожнай прыладзе.
+# Outdated string
 navigation-learn-how-to-customize = Даведайцеся, як уладкаваць працу { -brand-name-firefox }.
+# Outdated string
 navigation-experience-augmented = Даследуйце пашыраную і віртуальную рэальнасць з дапамогай { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Знаёмцеся з людзьмі ў эксперыментальных пакоях змешанай рэальнасці з дапамогай { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Змешаная рэальнасць
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } дадае { -brand-name-firefox } у пашыраную і віртуальную рэальнасць.
 navigation-firefox-built-just-for = { -brand-name-firefox }, пабудаваны спецыяльна для распрацоўшчыкаў.
 navigation-preview-the-latest-build = Азнаёмцеся з найноўшай зборкай { -brand-name-firefox } і дапамажыце зрабіць яе найлепшай.
@@ -64,6 +71,7 @@ navigation-security-tips = Парады па бяспецы
 navigation-share-large-files-safely = Бяспечна дзяліцеся вялікімі файламі з дапамогай спасылак, якія «самазнішчаюцца».
 navigation-save-quality-content = Захоўвайце якасны змест з любой кропкі свету. Падсілкоўвайце розум усюды.
 navigation-sign-up = Зарэгістравацца
+# Outdated string
 navigation-connected-and-protected = Падключаны і абаронены
 navigation-join = Далучыцца
 navigation-close-join-menu = Закрыць меню «Далучыцца»
@@ -76,11 +84,15 @@ navigation-meet-the-technology-company = Пазнаёмцеся з тэхнал�
 navigation-new-features = Новыя функцыі
 navigation-save-content-absorb-knowledge = Захоўвайце змест. Збірайце веды.
 navigation-same-speed-and-safety = Тая ж хуткасць і бяспека, якой вы давяраеце, спраектаваныя для бізнесу.
+# Outdated string
 navigation-add-ons = Дадаткі
 navigation-projects = Праекты
 navigation-close-projects-menu = Закрыць меню «Праекты»
 navigation-donate-your-voice-to = Запішыце свой голас, каб дапамагчы рабіць распазнаванне голасу даступным для ўсіх.
+navigation-machine-learning = Машыннае навучанне
+# Outdated string
 navigation-web-of-things-iot = Інтэрнэт рэчаў (IoT)
+# Outdated string
 navigation-make-devices-connected = Зрабіце прылады, падключаныя к інтэрнэту, бяспечнымі і сумяшчальнымі.
 navigation-developers = Распрацоўшчыкам
 navigation-close-developers-menu = Закрыць меню распрацоўшчыка
