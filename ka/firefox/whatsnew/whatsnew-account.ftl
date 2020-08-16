@@ -11,3 +11,11 @@
 whatsnew-account-main-headline = ანგარიში არაა აუცილებელი. მაგრამ შეიძლება გამოგადგეთ.
 whatsnew-account-main-lead-in = { -brand-name-firefox }-ბრაუზერი იმდენად მცირე მონაცემებს აღრიცხავს თქვენს შესახებ, რომ ელფოსტის მისამართის მითითებაც არ გჭირდებათ. მაგრამ { -brand-name-firefox }-ანგარიშის შექმნით, შეგვეძლება თქვენი პირადი მონაცემები, მთელ ინტერნეტში დავიცვათ.
 whatsnew-account-main-button = შესვლა
+
+##
+
+whatsnew-account-signed-in-headline = მეტი სარგებლიანობა. გამოიყენეთ { -brand-name-firefox } მობილურზე.
+whatsnew-account-signed-in-lead-in = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
+whatsnew-account-signed-in-qr-title = ჩამოტვირთეთ { -brand-name-firefox } თქვენს ტელეფონსა თუ პლანშეტზე.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = წააკითხეთ QR-კოდი

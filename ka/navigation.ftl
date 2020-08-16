@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } - { -brand-name-fire-tv
 navigation-watch-videos-and-browse = უყურეთ ვიდეოებს და იმოგზაურეთ ინტერნეტში თქვენი { -brand-name-amazon } { -brand-name-fire-tv }-ით.
 navigation-firefox-browsers-put = { -brand-name-firefox }-ბრაუზერი ყველაფერზე წინ, თქვენს პირადულობას აყენებს — და მუდამ ასე იქნება.
 navigation-take-the-passwords-youve = თან წაიყოლეთ პაროლები ყველგან, სადაც გიყენიათ { -brand-name-firefox }.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } არის სრული ნაკრები პროდუქტების, რომლებიც განკუთვნილია ინტერნეტით სარგებლობისთვის უსაფრთხოდ და მოხერხებულად.
 navigation-join-firefox = { -brand-name-firefox } – შემოგვიერთდით
 navigation-access-all-of-firefox = წვდომა ყველა შესაძლებლობასთან რასაც { -brand-name-firefox } გთავაზობთ, ანგარიშზე ერთი შესვლით — და კიდევ უფრო მეტი სარგებელი, თითოეული პროდუქტისგან.
@@ -36,10 +37,17 @@ navigation-get-firefox-focus = გადმოწერეთ { -brand-name-fire
 navigation-android-extensions = გაფართოებები { -brand-name-android }-ზე
 navigation-your-firefox-account = თქვენი { -brand-name-firefox-account }
 navigation-make-the-most-of-your = სრულყოფილად გამოიყენეთ { -brand-name-firefox }, ყველა თქვენს მოწყობილობაზე.
+# Outdated string
 navigation-learn-how-to-customize = გაეცანით, { -brand-name-firefox }-ის უკეთ მორგების ხერხებს.
+# Outdated string
 navigation-experience-augmented = გამოცადეთ დამატებითი და წარმოსახვითი სინამდვილე { -brand-name-firefox }-ით.
+# Outdated string
 navigation-meet-people-in-experimental = შეხვდით ხალხს, შერეული სინამდვილის საცდელ სასაუბრო ოთახებში { -brand-name-firefox }-ით.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } შერეული სინამდვილე
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } ნერგავს წარმოსახვით და დამატებით სინამდვილეს ღია ვებსივრცეში.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla }-ს შემოაქვს { -brand-name-firefox } დამატებით და წარმოსახვით სინამდვილეში.
 navigation-firefox-built-just-for = { -brand-name-firefox }, შექმნილი საგანგებოდ შემმუშავებლებისთვის
 navigation-preview-the-latest-build = გადახედეთ { -brand-name-firefox }-ის უახლეს ანაწყობს და დაგვეხმარეთ მის სრულყოფაში.
@@ -64,6 +72,9 @@ navigation-security-tips = რჩევები უსაფრთხოებ�
 navigation-share-large-files-safely = გააზიარეთ უსაფრთხოდ დიდი ფაილები ბმულებით, რომლებსაც „თვითგანადგურების“ შესაძლებლობა აქვს.
 navigation-save-quality-content = შეინახეთ ღირებული მასალა ნებისმიერ ადგილას. მოამარაგეთ გონება საწვავით, სადაც არ უნდა იყოთ.
 navigation-sign-up = ანგარიშის შექმნა
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: სწრაფი. მარტივი. პირადი.
+navigation-protect-your-entire-device = სრულად დაიცავით თქვენი მოწყობილობა და ყველა აპლიკაცია. შენიღბეთ ნამდვილი მდებარეობა და დააკავშირეთ 5 მოწყობილობამდე. ახლავე გამოიწერა.
+# Outdated string
 navigation-connected-and-protected = დაკავშირებული და დაცული
 navigation-join = შემოგვიერთდით
 navigation-close-join-menu = „შემოგვიერთდით“ მენიუს დახურვა
@@ -76,11 +87,14 @@ navigation-meet-the-technology-company = გაეცანით ტექნ�
 navigation-new-features = სიახლეები
 navigation-save-content-absorb-knowledge = შეინახეთ გვერდები. შთანთქეთ ცოდნა.
 navigation-same-speed-and-safety = იგივე სიჩქარე და უსაფრთხოება რომელსაც ენდობით, უბრალოდ მორგებული ბიზნესზე.
+# Outdated string
 navigation-add-ons = დამატებები
 navigation-projects = პროექტები
 navigation-close-projects-menu = პროექტების მენიუს დახურვა
 navigation-donate-your-voice-to = შემოგვწირეთ თქვენი ხმის ჩანაწერები, რომ გავხადოთ ხმის ამოცნობის საშუალებები საყოველთაოდ ხელმისაწვდომი.
+# Outdated string
 navigation-web-of-things-iot = საგნების ქსელი (IoT)
+# Outdated string
 navigation-make-devices-connected = გახადეთ მოწყობილობების ინტერნეტკავშირი მეტად უსაფრთხო, დაცული და ურთიერთქმედითი.
 navigation-developers = შემმუშავებლები
 navigation-close-developers-menu = შემმუშავებლების მენიუს დახურვა
