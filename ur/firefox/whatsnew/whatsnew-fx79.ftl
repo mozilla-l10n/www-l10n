@@ -15,6 +15,7 @@ whatsnew79-primary-cta = { -brand-name-firefox } کو طے شدہ بنائیں
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = { -brand-name-firefox } ایب حاصل کریں
 whatsnew79-secure-your-connection = اپنا رابطہ محفوظ کریں
+whatsnew79-with-one-tap-mozilla-vpn = ایک تھاپ کے ذریعہ ، { -brand-name-mozilla-vpn }کسی بھی نیٹ ورک پر آپکی آن لائن سرگرمی کو نجی رکھنے کے لیئےآپ کے کنیکشن کو خفیہ بناتا ہے - ہیکرز اور دیگر ٹوہ لگانے والی آنکھوں سے محفوظ رکھتا ہے۔
 # CTA link
 whatsnew79-get-started = شروع کریں
 whatsnew79-get-more-control-over = ٹریکرز پر مزید کنٹرول حاصل کریں

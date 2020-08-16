@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
+# HTML page title
+welcome-page4-download-the-firefox-browser = { -brand-name-ios } اور { -brand-name-android } کے لئے اپنے موبائل پر { -brand-name-firefox-browser } براؤزر ڈاؤن لوڈ کریں
 welcome-page4-wallet-keys-phone-firefox = پرس چابیاں فون. <strong> { -brand-name-firefox }</ strong>
 welcome-page4-take-privacy-with-you-on-every = ہر آلہ پر اپنے ساتھ رازداری رکھیں - اور ڈیٹا ٹریکرز کو پیچھے چھوڑ دیں۔
 welcome-page4-get-the-firefox-app = { -brand-name-firefox } ایب حاصل کریں
