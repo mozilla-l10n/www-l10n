@@ -26,7 +26,7 @@ firefox-browsers-go-beyond-two-dimensions-and = Mergi dincolo de bidimensional �
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Construiește site-uri și rafinează coduri cu { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Află mai multe despre { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Alătură-te { -brand-name-firefox } și obține maximul de la fiecare produs — pe orice dispozitiv.
+firefox-browsers-join-firefox-and-get-the-most = Folosește { -brand-name-firefox } și obține maximul de la fiecare produs — pe orice dispozitiv.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
 # HTML page title
-welcome-page3-get-the-free-account-that = Obține contul gratuit care îți protejează confidențialitatea. Alătură-te { -brand-name-firefox }.
+welcome-page3-get-the-free-account-that = Obține contul gratuit care îți protejează confidențialitatea. Folosește { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Nu este nevoie de niciun cont. Dar poate că vrei unul.
 welcome-page3-the-firefox-browser-collects = Browserul { -brand-name-firefox } colectează atât de puține date despre tine; nici măcar nu avem nevoie de adresa ta de e-mail. Dar când o folosești pentru a crea un { -brand-name-firefox-account }, îți putem proteja confidențialitatea pe parcursul vieții tale online.
 welcome-page3-sign-in = Autentificare

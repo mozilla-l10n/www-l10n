@@ -20,7 +20,7 @@ navigation-firefox-browsers-put = Browserele { -brand-name-firefox } îți pun �
 navigation-take-the-passwords-youve = Ia cu tine peste tot parolele pe care le-ai salvat în { -brand-name-firefox }.
 # Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } reprezintă o familie întreagă de produse concepute pentru a te menține într-o mai mare siguranță și mai inteligent online.
-navigation-join-firefox = Alătură-te { -brand-name-firefox }
+navigation-join-firefox = Folosește { -brand-name-firefox }
 navigation-access-all-of-firefox = Accesează întregul { -brand-name-firefox } cu o singură autentificare — și obțineți mai multe de la fiecare produs atunci când faci acest lucru.
 navigation-meet-the-firefox-family = Descoperă familia { -brand-name-firefox }
 navigation-firefox-blog = Blog { -brand-name-firefox }
@@ -78,7 +78,7 @@ navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rapid. Simplu. Privat.
 navigation-protect-your-entire-device = Protejează-ți complet dispozitivul și toate aplicațiile. Maschează-ți adresa reală și conectează până la 5 dispozitive. Abonează-te acum.
 # Outdated string
 navigation-connected-and-protected = Conectat și protejat
-navigation-join = Alătură-te
+navigation-join = Descarcă
 navigation-close-join-menu = Închide meniul Alătură-te
 navigation-sign-in = Autentifică-te
 navigation-benefits = Beneficii

@@ -22,7 +22,7 @@ set-as-default-thanks-youre-all-set = Ai terminat.
 set-as-default-thanks-get-firefox-for-mobile = Obține { -brand-name-firefox } pentru dispozitive mobile
 set-as-default-thanks-travel-the-internet-with = Navighează pe internet cu protecție pe toate dispozitivele tale.
 set-as-default-thanks-download-the-app = Descarcă aplicația
-set-as-default-thanks-join-firefox = Alătură-te { -brand-name-firefox }
+set-as-default-thanks-join-firefox = Folosește { -brand-name-firefox }
 set-as-default-thanks-sign-up-for-a-free-account = Înregistrează-te pentru un cont gratuit și sincronizează-ți toate parolele, istoricul de navigare și preferințele pe dispozitivele tale.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Obține un cont

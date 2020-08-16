@@ -62,8 +62,25 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Dacă ai un { -brand-name-fi
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Peste { $trackers } de elemente de urmărire blocate în fiecare zi pentru utilizatorii { -brand-name-firefox } la nivel mondial
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Când îți introduci adresa de e-mail în { -brand-name-firefox-monitor }, o uităm imediat după ce am verificat-o pentru o corelare în breșe cunoscute de date — cu excepția cazului în care ne autorizezi să continuăm monitorizarea breșelor noi pentru prezența datelor tale personale.
 firefox-privacy-hub-check-for-breaches = Caută breșe de date
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Parolele și datele de autentificare pe care le salvezi în { -brand-name-firefox-lockwise } sunt criptate pe toate dispozitivele pe care le folosești. Nici noi nu le putem vedea.
+firefox-privacy-hub-learn-more-about-lockwise = Află mai multe despre { -brand-name-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Nu putem vedea denumirile sau conținutul fișierelor mari pe care le partajezi prin { -brand-name-firefox-send } pentru că sunt criptate end-to-end — tu alegi cine vede ce trimiți și poți chiar seta o dată de expirare și o parolă.
+firefox-privacy-hub-send-a-file = Trimite un fișier
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recomandă articole de înaltă calitate, îngrijite de oameni, fără să îți colecteze istoricul de navigare și fără să îți partajeze datele personale cu firmele de publicitate.
+firefox-privacy-hub-get-pocket = Instalează { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Toate informațiile sincronizate prin { -brand-name-firefox-account } — de la istoricul din browser până la parole — sunt criptate. Singura cheie de acces este parola contului.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Ia-ți cu tine oriunde confidențialitatea și marcajele folosind un { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Ai deja un cont? <a { $sign_in } class="{ $class_name }">Autentifică-te</a> sau <a href="{ $learn_more }">află mai multe</a> despre { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Citește <a href="{ $url }">Notificarea privind confidențialitatea</a> pentru produsele noastre
