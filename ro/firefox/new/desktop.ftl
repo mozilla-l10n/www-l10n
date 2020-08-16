@@ -80,6 +80,40 @@ firefox-desktop-download-built-in-password = Manager încorporat de parole
 firefox-desktop-download-clear-history = Ștergerea istoricului
 firefox-desktop-download-form-autofill = Completare automată a formularelor
 firefox-desktop-download-automatic-updates = Actualizări automate
+firefox-desktop-download-customize-your-browser = Îl faci să arate cum îți place cu
+firefox-desktop-download-themes = Teme
+firefox-desktop-download-dark-mode = Mod întunecat
+firefox-desktop-download-library-of-extensions = Bibliotecă de extensii
+firefox-desktop-download-adjust-search-bar = Ajustarea setărilor pentru bara de căutare
+firefox-desktop-download-change-new-tab = Modificarea filei noi
+firefox-desktop-download-make-firefox-your = Fă <strong>{ -brand-name-firefox }</strong> să fie cum vrei tu
+firefox-desktop-download-extensions-for-every = Extensii pentru orice
+firefox-desktop-download-change-up-your = Schimbă-i aspectul
+firefox-desktop-download-go-from-light = De la modul luminos la modul întunecat, în funcție de ce dispoziție sau preferințe ai, sau animează-l cu o temă personalizată (unicorn curcubeu, poate).
+firefox-desktop-download-tweak-your-settings = Optimizează-i setările
+firefox-desktop-download-theres-no-need = Nu e nevoie să te mulțumești cu orice. Schimbă pagina de filă nouă, bara de căutare, marcajele și multe altele ca să mergi pe Internet cum vrei tu.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Susținut de o organizație <strong>nonprofit</strong> care pune oamenii pe primul loc
+firefox-desktop-download-challenging-the-status = Provocăm starea de fapt încă din 1998
+firefox-desktop-download-your-privacy-comes = Confidențialitatea ta pe primul loc
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Păstrează-ți toate funcționalitățile preferate din browser — și <strong>descoperă</strong> altele noi.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Toate uneltele { -brand-name-google } preferate (precum Gmail și Docs) funcționează perfect în { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Descarcă această extensie</a> ca să împiedici { -brand-name-facebook } (și { -brand-name-instagram }) să te mai urmărească pe web.
+firefox-desktop-download-sync-your-devices = Sincronizare între dispozitive
+firefox-desktop-download-screenshots = Capturi de ecran
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protecție îmbunătățită la urmărire (PÎU)
+firefox-desktop-download-from-watching-a = De la vizionarea unui tutorial web la urmărirea echipei favorite, redarea video e cu tine în timp ce execuți mai multe sarcini.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Descarcă { -brand-name-firefox-browser } pentru <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Descarcă { -brand-name-firefox-browser } pentru <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Descarcă browserul { -brand-name-firefox } pentru dispozitive mobile ca să ai protecție automată pe toate dispozitivele.
+firefox-desktop-download-learn-about-the = Află de mai jos despre browserul { -brand-name-firefox } pentru calculator
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
