@@ -36,6 +36,8 @@ navigation-your-firefox-account = آپ کا { -brand-name-firefox-account }
 navigation-learn-how-to-customize = { -brand-name-firefox } کیسے کام کرتا ہے آپ اسکو کوتخصیص کرنے کا طریقہ جانیں
 # Outdated string
 navigation-experience-augmented = { -brand-name-firefox } کے ساتھ اوگمنٹڈ اور ورچوئل ریالٹی کا تجربہ کریں۔
+# Outdated string
+navigation-meet-people-in-experimental = تجرباتی مخلوط ریئلٹی کے گفت و شنید کے کمروں میں لوگوں کو { -brand-name-firefox } کے ساتھ ملیں۔
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } مخلوط حقیقت
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
@@ -62,12 +64,14 @@ navigation-share-large-files-safely = بڑی فائلوں کو محفوظ طری
 navigation-save-quality-content = کہیں سے بھی معیاری مواد کو محفوظ کریں۔ ہر جگہ اپنے دماغ کو ایندھن دیں۔
 navigation-sign-up = سائن اپ کریں
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }:  تیز، سادہ،  نجی۔
+navigation-protect-your-entire-device = اپنے پورے آلے اور تمام ایپلی کیشنز کی حفاظت کریں۔ اپنے اصلی مقام پر ماسک لگائیں اور 5 آلات تک جڑیں۔ اب سبسکرائب کریں.
 # Outdated string
 navigation-connected-and-protected = منسلک اور محفوظ
 navigation-join = شامل ہوں
 navigation-close-join-menu = شمولیت کا مینو بند کریں
 navigation-sign-in = سائن ان کریں
 navigation-benefits = فوائد
+navigation-protect-your-life-online = رازداری سے پہلے مصنوعات کی مدد سے اپنی زندگی کو آن لائن تحفظ فراہم کریں
 navigation-about = متعلق
 navigation-close-about-menu = متعلق مینو بینڈ کریں۔
 navigation-meet-the-technology-company = ٹکنالوجی کی کمپنی سے ملیں جو لوگوں کو منافع پر ترجیح دیتی ہے۔
@@ -82,6 +86,7 @@ navigation-donate-your-voice-to = ہر ایک کے لئے آواز کی شناخ
 navigation-machine-learning = مشین لرننگ
 # Outdated string
 navigation-web-of-things-iot = ویب اف تھنگس (IOT)
+navigation-help-make-deep-learning = اوپن سورس دنیا میں  دیپ لرننگ الگورتھم کی دستیابی میں مدد کریں۔
 # Outdated string
 navigation-make-devices-connected = انٹرنیٹ سے منسلک آلات کو   محفوظ اور باہمی تعاون کے قابل بنائیں۔
 navigation-developers = ڈیولپر
