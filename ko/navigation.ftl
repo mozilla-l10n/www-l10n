@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-fire-tv }용 { -brand-name-firefo
 navigation-watch-videos-and-browse = { -brand-name-amazon } { -brand-name-fire-tv }에서 영상을 시청하고 인터넷을 탐색하세요.
 navigation-firefox-browsers-put = { -brand-name-firefox }는 개인정보 보호를 최우선으로 생각합니다.
 navigation-take-the-passwords-youve = { -brand-name-firefox }에 저장한 비밀번호를 어디서나 사용하세요.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox }는 온라인 환경에서 더 안전하고 똑똑하게 생활할 수 있도록 설계된 제품군입니다.
 navigation-join-firefox = { -brand-name-firefox } 가입하기
 navigation-access-all-of-firefox = 한 번의 로그인으로 { -brand-name-firefox }의 모든 것에 접근하고, 모든 제품에서 더 많은 것을 이용하세요.
@@ -33,9 +34,11 @@ navigation-take-firefox-and-firefox = { -brand-name-firefox }, { -brand-name-fir
 navigation-get-firefox = { -brand-name-firefox } 다운로드
 navigation-get-firefox-focus = { -brand-name-firefox-focus } 다운로드
 navigation-android-extensions = { -brand-name-android }용 확장 기능
-navigation-your-firefox-account = Firefox 계정
+navigation-your-firefox-account = { -brand-name-firefox-account } 계정
 navigation-make-the-most-of-your = 모든 기기에서 { -brand-name-firefox } 경험을 최대한 활용하십시오.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla }는 증강현실 및 가상현실에 { -brand-name-firefox }를 제공합니다.
 navigation-firefox-built-just-for = 개발자를 위한 { -brand-name-firefox }
 navigation-preview-the-latest-build = 최신 { -brand-name-firefox } 빌드를 미리보고 최선을 다할 수 있게 도와주세요.
@@ -57,9 +60,11 @@ navigation-close-about-menu = 소개 메뉴 닫기
 navigation-meet-the-technology-company = 이익보다 사람을 우선시하는 기술 회사를 만나보세요.
 navigation-new-features = 새로운 기능
 navigation-save-content-absorb-knowledge = 컨텐츠를 저장하세요. 지식을 습득하세요.
+# Outdated string
 navigation-add-ons = 부가 기능
 navigation-projects = 프로젝트
 navigation-close-projects-menu = 프로젝트 메뉴 닫기
+# Outdated string
 navigation-web-of-things-iot = 사물인터넷 (IoT)
 navigation-developers = 개발자
 navigation-close-developers-menu = 개발자 메뉴 닫기
