@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } za { -brand-name-fire-t
 navigation-watch-videos-and-browse = Oglejte si videoposnetke in brskajte po internetu na { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Brskalniki { -brand-name-firefox } na prvo mesto postavljajo vašo zasebnost – kot vedno.
 navigation-take-the-passwords-youve = Gesla, ki ste jih shranili v { -brand-name-firefox }, vzemite s seboj.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } je družina izdelkov, namenjenih varnejšemu in pametnejšemu življenju na spletu.
 navigation-join-firefox = Pridružite se { -brand-name-firefox }u
 navigation-access-all-of-firefox = Z eno prijavo uporabljajte vse izdeke { -brand-name-firefox } — in od vsakega izdelka prejmite več.
@@ -36,10 +37,15 @@ navigation-get-firefox-focus = Prenesite { -brand-name-firefox-focus }
 navigation-android-extensions = Razširitve za { -brand-name-android }
 navigation-your-firefox-account = Vaš { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Izkoristite doživetje { -brand-name-firefox }a na vseh napravah.
+# Outdated string
 navigation-learn-how-to-customize = Spoznajte, kako si lahko prilagodite { -brand-name-firefox }.
+# Outdated string
 navigation-experience-augmented = Doživite razširjeno in navidezno resničnost s { -brand-name-firefox }om.
+# Outdated string
 navigation-meet-people-in-experimental = Spoznajte ljudi v poskusnih klepetalnicah Mixed Reality s { -brand-name-firefox }om.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } prinaša { -brand-name-firefox } v razširjeno in navidezno resničnost.
 navigation-firefox-built-just-for = { -brand-name-firefox }, ustvarjen samo za razvijalce.
 navigation-preview-the-latest-build = Pokukajte v najnovejšo izgradnjo { -brand-name-firefox }a in nam jo pomagajte izpopolniti.
@@ -64,6 +70,9 @@ navigation-security-tips = Varnostni nasveti
 navigation-share-large-files-safely = Varno delite velike datoteke s povezavami, ki se samouničijo.
 navigation-save-quality-content = Shranite kakovostno vsebino od kjerkoli. Naj vaš um raste povsod.
 navigation-sign-up = Registracija
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Hiter. Preprost. Zaseben.
+navigation-protect-your-entire-device = Zaščitite celotno napravo in vse aplikacije. Zakrijte svojo resnično lokacijo in povežite do 5 naprav. Naročite se zdaj.
+# Outdated string
 navigation-connected-and-protected = Povezani in zaščiteni
 navigation-join = Pridruži se
 navigation-close-join-menu = Zapri meni Pridruži se
@@ -76,11 +85,16 @@ navigation-meet-the-technology-company = Spoznajte tehnološko podjetje, ki ljud
 navigation-new-features = Novosti
 navigation-save-content-absorb-knowledge = Shranite vsebino. Vsrkajte znanje.
 navigation-same-speed-and-safety = Hitrost in zasebnost, ki ju že poznate, posebej za podjetja.
+# Outdated string
 navigation-add-ons = Dodatki
 navigation-projects = Projekti
 navigation-close-projects-menu = Zapri meni Projekti
 navigation-donate-your-voice-to = Podarite svoj glas in pomagajte, da bo prepoznavanje govora odprto za vsakogar.
+navigation-machine-learning = Strojno učenje
+# Outdated string
 navigation-web-of-things-iot = Splet stvari (IoT)
+navigation-help-make-deep-learning = Pomagajte napraviti algoritme globokega učenja razpoložljive odprtokodnemu svetu.
+# Outdated string
 navigation-make-devices-connected = Naprave, povezane z internetom, naj bodo varne, zaščitene in interoperabilne.
 navigation-developers = Razvijalci
 navigation-close-developers-menu = Zapri meni Razvijalci
