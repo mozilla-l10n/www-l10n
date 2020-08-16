@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Descarcă și testează c
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testează în versiunea preliminară funcționalități pregătite pentru lansare.
 firefox-channel-release-notes = Note privind versiunea
+firefox-channel-previous-nightly-builds = Versiuni { -brand-name-nightly } anterioare
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Construiește, testează, scalează și multe altele cu singurul browser construit special pentru dezvoltatori.
 # Variables:
