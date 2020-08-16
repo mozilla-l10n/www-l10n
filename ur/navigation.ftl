@@ -36,6 +36,7 @@ navigation-your-firefox-account = آپ کا { -brand-name-firefox-account }
 navigation-learn-how-to-customize = { -brand-name-firefox } کیسے کام کرتا ہے آپ اسکو کوتخصیص کرنے کا طریقہ جانیں
 # Outdated string
 navigation-experience-augmented = { -brand-name-firefox } کے ساتھ اوگمنٹڈ اور ورچوئل ریالٹی کا تجربہ کریں۔
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } مخلوط حقیقت
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }، جو صرف ڈویلپرز کے لئے بنایا گیا ہے۔
@@ -60,6 +61,7 @@ navigation-security-tips = سیکیورٹی کے نسخے
 navigation-share-large-files-safely = بڑی فائلوں کو محفوظ طریقے سے ، ان ربط کے ساتھ اشتراک کریں جو "خود تباہ ہوجاتے ہیں"۔
 navigation-save-quality-content = کہیں سے بھی معیاری مواد کو محفوظ کریں۔ ہر جگہ اپنے دماغ کو ایندھن دیں۔
 navigation-sign-up = سائن اپ کریں
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }:  تیز، سادہ،  نجی۔
 # Outdated string
 navigation-connected-and-protected = منسلک اور محفوظ
 navigation-join = شامل ہوں
