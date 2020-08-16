@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Töltse le és tesztelje 
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Tesztelje a kiadásra váró funkciókat a legstabilabb, kiadás előtti változatban.
 firefox-channel-release-notes = Kiadási megjegyzések
+firefox-channel-previous-nightly-builds = Előző { -brand-name-nightly } összeállítások
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Építsen, teszteljen és skálázzon az egyetlen csak fejlesztőknek készülő böngészővel.
 # Variables:
