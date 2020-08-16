@@ -75,7 +75,7 @@ navigation-share-large-files-safely = გააზიარეთ უსაფ�
 navigation-save-quality-content = შეინახეთ ღირებული მასალა ნებისმიერ ადგილას. მოამარაგეთ გონება საწვავით, სადაც არ უნდა იყოთ.
 navigation-sign-up = ანგარიშის შექმნა
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: სწრაფი. მარტივი. პირადი.
-navigation-protect-your-entire-device = სრულად დაიცავით თქვენი მოწყობილობა და ყველა აპლიკაცია. შენიღბეთ ნამდვილი მდებარეობა და დააკავშირეთ 5 მოწყობილობამდე. ახლავე გამოწერა.
+navigation-protect-your-entire-device = სრულად დაიცავით თქვენი მოწყობილობა და ყველა აპლიკაცია. შენიღბეთ ნამდვილი მდებარეობა და დააკავშირეთ 5 მოწყობილობამდე. გამოიწერეთ ახლავე.
 # Outdated string
 navigation-connected-and-protected = დაკავშირებული და დაცული
 navigation-join = შემოგვიერთდით
