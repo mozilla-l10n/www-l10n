@@ -10,3 +10,7 @@ whatsnew80-page-title = რა სიახლეებითაა { -brand-nam
 whatsnew80-up-to-date-banner = გილოცავთ! თქვენ უახლესი ვერსიის { -brand-name-firefox } გიყენიათ.
 # Main title
 whatsnew80-main-title = გააკეთეთ თითქმის ყველაფერი, კიდევ უფრო სწრაფად
+whatsnew80-main-intro = გადაინაცვლეთ კომპიუტერიდან ტელეფონზე, დაუყოვნებლივ. გადმოწერეთ { -brand-name-firefox } მობილურზე.
+whatsnew80-primary-cta-description = მიუთითეთ ელფოსტა ან ტელეფონის ნომერი, ჩამოსატვირთი ბმულის მისაღებად
+whatsnew80-new-firefox-android = ახალი { -brand-name-firefox } { -brand-name-android }-ზე
+whatsnew80-our-latest-version = ჩვენი უახლესი { -brand-name-firefox } გვერდებს მსუბუქად, მალე ტვირთავს და აღჭურვილია სუფთა, ახალი იერსახით, რომელიც მეტად ამარტივებს და ასწრაფებს გამოყენებას.
