@@ -11,6 +11,7 @@ lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — manage
 lockwise-firefox-lockwise-lets-you = { -brand-name-firefox-lockwise } îți permite accesul securizat, de oriunde, la parolele pe care le-ai salvat în { -brand-name-firefox } — chiar și din afara browserului. Are criptare de 256 de biți și Face/Touch ID.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Ia-ți cu tine parolele oriunde
+lockwise-securely-access-the-passwords = Accesează de oriunde în siguranță parolele salvate în { -brand-name-firefox } — chiar și din afara browserului.
 lockwise-try-lockwise-now = Încearcă { -brand-name-lockwise } acum
 lockwise-install-for-firefox = Instalează pentru { -brand-name-firefox }
 lockwise-open-in-firefox = Deschide în { -brand-name-firefox }

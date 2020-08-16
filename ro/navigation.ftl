@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } pentru { -brand-name-fi
 navigation-watch-videos-and-browse = Vizionezi videoclipuri și navighezi pe internet de pe { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Browserele { -brand-name-firefox } îți pun — și au pus întotdeauna — confidențialitatea pe primul loc.
 navigation-take-the-passwords-youve = Ia cu tine peste tot parolele pe care le-ai salvat în { -brand-name-firefox }.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } reprezintă o familie întreagă de produse concepute pentru a te menține într-o mai mare siguranță și mai inteligent online.
 navigation-join-firefox = Alătură-te { -brand-name-firefox }
 navigation-access-all-of-firefox = Accesează întregul { -brand-name-firefox } cu o singură autentificare — și obțineți mai multe de la fiecare produs atunci când faci acest lucru.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Instalează { -brand-name-firefox-focus }
 navigation-android-extensions = Extensii pentru { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } tău
 navigation-make-the-most-of-your = Du la maxim experiența { -brand-name-firefox } pe toate dispozitivele.
+# Outdated string
 navigation-learn-how-to-customize = Află cum să personalizezi modul în care funcționează { -brand-name-firefox }.
+navigation-explore-the-immersive = Explorează webul imersiv pe vizorul de realitate virtuală.
+# Outdated string
 navigation-experience-augmented = Încearcă realitatea augmentată și virtuală cu { -brand-name-firefox }.
+navigation-get-together = Întâlnește-te cu alții în realitatea virtuală folosind acest spațiu de socializare online.
+# Outdated string
 navigation-meet-people-in-experimental = Întâlnește persoane în camerele de chat experimentale de realitate virtuală cu { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Realitate mixtă { -brand-name-mozilla }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } aduce realitatea virtuală și augmentată în webul deschis.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } aduce { -brand-name-firefox } în realitatea augmentată și virtuală.
 navigation-firefox-built-just-for = { -brand-name-firefox }, construit special pentru dezvoltatori.
 navigation-preview-the-latest-build = Vezi în avans cea mai recentă versiune de { -brand-name-firefox } și ajută-ne să o facem să fie cea mai bună.
@@ -64,6 +74,9 @@ navigation-security-tips = Ponturi de securitate
 navigation-share-large-files-safely = Partajează fișiere mari în siguranță, cu linkuri care se „autodistrug”.
 navigation-save-quality-content = Salvează conținut de calitate de oriunde. Hrănește-ți mintea peste tot.
 navigation-sign-up = Înregistrează-te
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rapid. Simplu. Privat.
+navigation-protect-your-entire-device = Protejează-ți complet dispozitivul și toate aplicațiile. Maschează-ți adresa reală și conectează până la 5 dispozitive. Abonează-te acum.
+# Outdated string
 navigation-connected-and-protected = Conectat și protejat
 navigation-join = Alătură-te
 navigation-close-join-menu = Închide meniul Alătură-te
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Fă cunoștință cu compania de tehnol
 navigation-new-features = Funcționalități noi
 navigation-save-content-absorb-knowledge = Salvezi conținut. Dobândești cunoștințe.
 navigation-same-speed-and-safety = Aceeași viteză și siguranță în care ai încredere, concepute special pentru afaceri.
+# Outdated string
 navigation-add-ons = Suplimente
 navigation-projects = Proiecte
 navigation-close-projects-menu = Închide meniul Proiecte
 navigation-donate-your-voice-to = Donează-ți vocea pentru a ne ajuta să facem recunoașterea vocală deschisă pentru toți.
+navigation-machine-learning = Învățarea mașinilor
+# Outdated string
 navigation-web-of-things-iot = Internetul obiectelor (IoT)
+navigation-help-make-deep-learning = Ajută la crearea de algoritmi de învățare aprofundată în lumea open source.
+# Outdated string
 navigation-make-devices-connected = Fă dispozitivele conectate la internet sigure, securizate și interoperabile.
 navigation-developers = Dezvoltatori
 navigation-close-developers-menu = Închide meniul Dezvoltatori

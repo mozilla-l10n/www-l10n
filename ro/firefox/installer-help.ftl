@@ -16,7 +16,11 @@ installer-help-action-choose = Alege o descărcare de mai jos.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Obține cele mai recente noutăți. Acum ai confidențialitate automată. Descarcă { -brand-name-firefox-browser } ca să blochezi peste { $trackers } de elemente de urmărire.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-desc = Testează funcționalități care vor fi lansate în curând în cea mai stabilă versiune preliminară.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Construiește, testează, scalează și multe altele cu singurul browser construit special pentru dezvoltatori.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
