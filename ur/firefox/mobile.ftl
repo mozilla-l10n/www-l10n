@@ -8,6 +8,7 @@
 firefox-mobile-download-the-firefox-browser = { -brand-name-ios } اور { -brand-name-android } کے لئے اپنے موبائل پر { -brand-name-firefox-browser } براؤزر ڈاؤن لوڈ کریں
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-the-mobile-browser-built = موبائل براؤزر حاصل کریں جو آپ کے لئے بنا ہو ، مشتہرین کے لئےنہیں
 firefox-mobile-check-out-firefox-again-its = { -brand-name-firefox } کی دوبارہ پڑتال کریں۔ یہ تیز ، نجی اور آپ کی طرف ۔ { -brand-name-ios } اور { -brand-name-android } کے لئے۔
 firefox-mobile-get-automatic-privacy-on-mobile = موبائل پر خودکار رازداری حاصل کریں
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } موبایل کے لیے

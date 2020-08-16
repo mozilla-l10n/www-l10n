@@ -46,6 +46,7 @@ firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } بر�
 firefox-privacy-hub-update-your-firefox-browser = اپنے { -brand-name-firefox } براؤزر کو اپ ڈیٹ کریں
 firefox-privacy-hub-always-in-your-control = ہمیشہ آپ کے قابو میں
 firefox-privacy-hub-want-to-customize-what = کیا اپنی مرضی کے مطابق کرنا چاہتے ہیں کیا بلاک ہوتا ہے؟ آپ کی ترتیبات صرف ایک کلک کی دوری پر ہیں۔
+firefox-privacy-hub-if-you-have-a-firefox-account = اگر آپ کے پاس { -brand-name-firefox-account } ہے تو ، آپ یہ بھی دیکھ سکتے ہیں کہ ہم آپ کی ذاتی معلومات اور پاس ورڈز کی حفاظت میں کس طرح مدد کر رہے ہیں۔
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = خلاف ورزیوں کی جانچ پڑتال کریں
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
