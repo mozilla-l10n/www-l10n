@@ -15,14 +15,14 @@ password-manager-give-up-the-memory = { -brand-name-firefox } 비밀번호 관�
 password-manager-password-hero = 비밀번호 영웅
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
-password-manager-forget-the-reset = 재설정은 더이상 없습니다. { -brand-name-firefox } 비밀번호 관리자가 모든 사용자 비밀번호를 저장해서 자동으로 로그인하거나 쉽게 저장된 비밀번호를 찾을 수 있게 해 줍니다. 높은 보안을 위해서 컴퓨터에 <a href="{ $url }">마스터 비밀번호</a>를 부여합니다.
+password-manager-forget-the-reset = 재설정은 더 이상 없습니다. { -brand-name-firefox } 비밀번호 관리자가 모든 사용자 비밀번호를 저장해서 자동으로 로그인하거나 쉽게 저장된 비밀번호를 찾을 수 있게 해 줍니다. 높은 보안을 위해서 컴퓨터에 <a href="{ $url }">기본 비밀번호</a>를 부여합니다.
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = 비밀번호 닌자
 password-manager-no-more-try-again = 더 이상 어딘가를 가려할 때 “다시 시도”는 필요 없습니다. 핸드폰에서 Firefox 계정에 로그인하면 비밀번호를 알 수 있습니다. 로그인 정보가 말그대로 그냥 나타납니다.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
-password-manager-password-master = 비밀번호 마스터
+password-manager-password-master = 비밀번호 관리자
 # Obsolete string
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
