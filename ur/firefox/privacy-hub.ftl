@@ -27,6 +27,9 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = ہم آپ کی ذاتی م�
 firefox-privacy-hub-no-secrets = کوئی راز نہیں
 firefox-privacy-hub-youll-always-know-where-you = آپ کو ہمیشہ پتہ چل جائے گا کہ آپ ہمارے ساتھ کہاں کھڑے ہیں
 firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } پر کیوں اعتماد  کریں؟
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = کیونکہ ہم لوگوں کو پہلے رکھتے ہیں۔ در حقیقت ، ہمیں ایک <a href="{ $foundation }"> غیر منافع بخش </a> کی حمایت حاصل ہے۔ پہلے دن سے ، ہمارا انٹرنیٹ اور اس میں موجود ہر شخص کی حفاظت کرنا ہمارا مشن رہا ہے۔
 firefox-privacy-hub-learn-more-about-our-mission = ہمارے مشن کے بارے میں مزید معلومات حاصل کریں
 firefox-privacy-hub-your-privacy-by-the-product = آپ کی رازداری ، مصنوع کے لحاظ سے
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }مصنوعات مختلف طریقے سے کام کرتی ہیں - کیونکہ وہ آپ کی رازداری کو پہلے محفوظ کرنے کے لئے ڈیزائن کیے گئے ہیں۔
