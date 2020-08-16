@@ -33,6 +33,7 @@ firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }�
 firefox-privacy-hub-learn-about-our-products = ہماری مصنوعات کے بارے میں جانیں
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } رازداری، مسنوعہ کی جانب سے
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ہر  مصنوعہ میں آپکی رازداری کی حفاظت کرتا ہے
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } ہر  مصنوعہ میں آپکی رازداری کی<strong> حفاظت</strong> کرتا ہے
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2،000+ سے زیادہ  ٹریکرز بلاک ہوگئے - خود بخود
 firefox-privacy-hub-see-what-firefox-has-blocked = دیکھیں کہ { -brand-name-firefox } نے آپ کے لئے کیا بلاک کیا ہے
