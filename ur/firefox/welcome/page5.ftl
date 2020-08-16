@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise }- پاس ورڈ منیجر - ہر جگہ اپنے پاس ورڈ لیجایے
 welcome-page5-theres-an-easier-way-to-deal = اپنے پاس ورڈز سے نمٹنے کا ایک آسان طریقہ ہے
+welcome-page5-let-firefox-save-them-for = آپ کے لئے{ -brand-name-firefox } کو  انہیں محفوظ کرنے دیں۔ پھر اپنے تمام ایپس پر ، اپنے تمام آلات پر محفوظ طریقے سے اپنے پاس ورڈز تک رسائی حاصل کرنے کے لئے { -brand-name-firefox-lockwise } کا استعمال کریں۔
 welcome-page5-get-the-lockwise-app = { -brand-name-lockwise } ایب حاصل کریں
 welcome-page5-get-firefox-lockwise-on-your = اپنے فون پر { -brand-name-firefox-lockwise }حاصل کریں
 welcome-page5-send-the-download-link-right = ڈاؤن لوڈ کا ربط سیدھے اپنے فون یا ای میل پر ارسال کریں۔
