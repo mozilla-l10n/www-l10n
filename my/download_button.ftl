@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = { -brand-name-android } အတွက�
 download-button-firefox-android = { -brand-name-android } အတွက်<span>မီးမြေခွေး</span>
 download-button-firefox-ios = IOS အတွက်<span>မီးမြေခွေး</span>
 download-button-firefox-privacy = မီးမြေခွေး ကိုယ်ရေးလုံခြုံမှု
+download-button-firefox-privacy-notice = { -brand-name-firefox } ကိုယ်ရေးအချက်အလက်မူဝါဒ အသိပေးချက်
 download-button-download = ဒေါင်းလုဒ်ယူ

@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = နောက်ဆုံးထွက်{ -bran
 firefox-all-test-your-sites-against = စွမ်းအားကောင်းသော၊အဆင်ပြေသောDevTools လုပ်ဆောင်ချက်များကို မထုတ်ခင် သင့်ဆိုက်များကိုစမ်းသပ်ကြည့်ပါ။
 firefox-all-count-on-stability-and = စီးပွားရေးလုပ်ငန်းအတွက်ဒီ { -brand-name-firefox } browser ကိုအသုံးပြုခြင်းသည်တည်ငြိမ်မှုနှင့်လွယ်ကူမှုတို့အတွက်အားကိုးပါ။
 firefox-all-windows-installers-for = Firefox ၏ Browserကို configuration, ဖြန့်ကျက်ခြင်းနှင့်စီမံခန့်ခွဲမှုရိုးရှင်းကြောင်းကော်ပိုရိတ်အိုင်တီများအတွက် Windows Installers။
+firefox-all-arm64-installers = ARM 64/AArch64 ထည့်သွင်းစရာများ
+firefox-all-arm64-installers-optimized = Snapdragon-စွမ်းအားဖြင့် { -brand-name-windows } ပီစီများ အတွက် သီးသန့်ပြင်ဆင်ထားသော ARM64 / AArch64 ထည့်သွင်းစရာများ။
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="{ $url }">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
