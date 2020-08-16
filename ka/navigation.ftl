@@ -39,8 +39,10 @@ navigation-your-firefox-account = თქვენი { -brand-name-firefox-accou
 navigation-make-the-most-of-your = სრულყოფილად გამოიყენეთ { -brand-name-firefox }, ყველა თქვენს მოწყობილობაზე.
 # Outdated string
 navigation-learn-how-to-customize = გაეცანით, { -brand-name-firefox }-ის უკეთ მორგების ხერხებს.
+navigation-explore-the-immersive = გამოიკვლიეთ ჩაძირვადი ვებსივრცე წარმოსახვითი სინამდვილის თქვენი ჩაფხუტით.
 # Outdated string
 navigation-experience-augmented = გამოცადეთ დამატებითი და წარმოსახვითი სინამდვილე { -brand-name-firefox }-ით.
+navigation-get-together = თავი მოუყარეთ წარმოსახვით სინამდვილესა და სოციალურ ინტერნეტსივრცეს ერთად.
 # Outdated string
 navigation-meet-people-in-experimental = შეხვდით ხალხს, შერეული სინამდვილის საცდელ სასაუბრო ოთახებში { -brand-name-firefox }-ით.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } შერეული სინამდვილე
@@ -92,8 +94,10 @@ navigation-add-ons = დამატებები
 navigation-projects = პროექტები
 navigation-close-projects-menu = პროექტების მენიუს დახურვა
 navigation-donate-your-voice-to = შემოგვწირეთ თქვენი ხმის ჩანაწერები, რომ გავხადოთ ხმის ამოცნობის საშუალებები საყოველთაოდ ხელმისაწვდომი.
+navigation-machine-learning = მანქანური სწავლება
 # Outdated string
 navigation-web-of-things-iot = საგნების ქსელი (IoT)
+navigation-help-make-deep-learning = დაგვეხმარეთ გავხადოთ სიღრმისეული დასწავლის ალგორითმები ხელმისაწვდომი ღია წყაროს სამყაროსთვის.
 # Outdated string
 navigation-make-devices-connected = გახადეთ მოწყობილობების ინტერნეტკავშირი მეტად უსაფრთხო, დაცული და ურთიერთქმედითი.
 navigation-developers = შემმუშავებლები
