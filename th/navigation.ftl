@@ -24,9 +24,13 @@ navigation-get-firefox-focus = ดาวน์โหลด { -brand-name-firefox
 navigation-android-extensions = ส่วนขยายของ { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } ของคุณ
 navigation-make-the-most-of-your = ใช้ประโยชน์สูงสุดจากประสบการณ์ { -brand-name-firefox } ของคุณในทุกอุปกรณ์
+# Outdated string
 navigation-learn-how-to-customize = เรียนรู้วิธีการปรับแต่งวิธีที่ { -brand-name-firefox } ทำงาน
+# Outdated string
 navigation-experience-augmented = สัมผัสประสบการณ์ความเป็นจริงที่เพิ่มขึ้นและเสมือนกับ { -brand-name-firefox }
+# Outdated string
 navigation-meet-people-in-experimental = พบปะผู้คนในห้องแชทความเป็นจริงผสมทดลองกับ { -brand-name-firefox }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox } สร้างมาเพื่อนักพัฒนา
 navigation-preview-the-latest-build = ทดลอง { -brand-name-firefox } บิลด์ล่าสุดและช่วยเราปรับปรุงให้ดีที่สุด
@@ -47,17 +51,21 @@ navigation-sign-up = ลงทะเบียน
 navigation-join = เข้าร่วม
 navigation-close-join-menu = ปิดเมนู “เข้าร่วม”
 navigation-sign-in = ลงชื่อเข้า
+navigation-benefits = ประโยชน์
 navigation-about = เกี่ยวกับ
 navigation-close-about-menu = ปิดเมนูเกี่ยวกับ
 navigation-meet-the-technology-company = พบกับบริษัทเทคโนโลยีที่นำผู้คนมาก่อนผลกำไร
 navigation-new-features = คุณสมบัติใหม่
 navigation-save-content-absorb-knowledge = บันทึกเนื้อหา ดูดซับความรู้
 navigation-same-speed-and-safety = เร็วและปลอดภัยเหมือนที่คุณเชื่อมั่น ออกแบบมาเพื่อธุรกิจ
+# Outdated string
 navigation-add-ons = ส่วนเสริม
 navigation-projects = โครงการ
 navigation-close-projects-menu = ปิดเมนูโครงการ
 navigation-donate-your-voice-to = บริจาคเสียงของคุณเพื่อช่วยให้การจดจำเสียงสามารถเข้าถึงได้สำหรับทุกคน
+# Outdated string
 navigation-web-of-things-iot = เว็บของทุกสรรพสิ่ง (IoT)
+# Outdated string
 navigation-make-devices-connected = ทำให้อุปกรณ์ที่เชื่อมต่อกับอินเทอร์เน็ตปลอดภัย, มั่นคง และทำงานร่วมกันได้
 navigation-developers = นักพัฒนา
 navigation-close-developers-menu = ปิดเมนูนักพัฒนา
