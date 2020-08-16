@@ -13,9 +13,9 @@ features-index-youre-in-control-with-firefoxs = 개인 정보 보호 및 브라�
 features-index-firefox-features = { -brand-name-firefox } 기능
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox }는 모든 기기에서 작동하는 빠르고 가볍고 개인 정보 보호에 중점을 둔 브라우저입니다.
-features-index-add-powerful-functions = 강력한 기능, 유용한 기능 및 약간의 재미를 { -brand-name-firefox } 브라우저에 추가하십시오.
+features-index-add-powerful-functions = 강력한 기능, 유용한 기능 및 약간의 재미를 { -brand-name-firefox } 브라우저에 추가하세요.
 features-index-see-all = 모든 확장기능 보기
-features-index-give-your-browser = 수천 개의 다양한 테마로 원하는 모양을 브라우저에 적용하십시오.
+features-index-give-your-browser = 수천 개의 다양한 테마로 원하는 모양을 브라우저에 적용하세요.
 features-index-important-stuff = 인터넷 검색, 비밀번호, 열린 탭 등 모든 중요한 정보가 모든 기기에서 필요한 곳에 표시되는지 확인하세요.
 features-index-get-an-account = { -brand-name-firefox-account } 생성하기
 features-index-use-the-bookmark = 북마크 별표 아이콘을 사용하여 정리를 유지하고 사용자 지정 이름과 폴더를 빠르게 추가 할 수 있습니다.

@@ -19,7 +19,7 @@ whatsnew79-with-one-tap-mozilla-vpn = { -brand-name-mozilla-vpn }은 한 번의 
 # CTA link
 whatsnew79-get-started = 시작하기
 whatsnew79-get-more-control-over = 추적기에 대한 더 많은 제어권 얻기
-whatsnew79-firefox-blocks-more = { -brand-name-firefox }는 그 어느 때 보다 많은 광고주와 광고 추적기가 여러분를 추적하는 것을 차단합니다.
+whatsnew79-firefox-blocks-more = { -brand-name-firefox }는 그 어느 때 보다 많은 광고주와 광고 추적기가 여러분을 추적하는 것을 차단합니다.
 # CTA link
 whatsnew79-see-your-report = 개인 보고서 보기
 whatsnew79-update-your-firefox = { -brand-name-firefox } 브라우저 업데이트
