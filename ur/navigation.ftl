@@ -79,6 +79,7 @@ navigation-add-ons = ایڈ اون
 navigation-projects = پروجیکٹس
 navigation-close-projects-menu = پروجیکٹس کا مینو بند کریں
 navigation-donate-your-voice-to = ہر ایک کے لئے آواز کی شناخت کو کھلا بنانے میں مدد کیلئے اپنی آواز کا عطیہ کریں۔
+navigation-machine-learning = مشین لرننگ
 # Outdated string
 navigation-web-of-things-iot = ویب اف تھنگس (IOT)
 # Outdated string

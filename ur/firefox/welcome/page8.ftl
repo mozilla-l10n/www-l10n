@@ -7,6 +7,8 @@
 
 # HTML page title
 welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } خودکار طور پر آپکی رزداری کا تحفظ کرتا ہے
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+welcome-page8-your-privacy-respected = آپ کی رازداری کا احترام ، </ strong> خود بخود </ strong>
 welcome-page8-firefox-automatically-protects = { -brand-name-firefox } خود بخود آپ کی رازداری کی حفاظت کرتا ہے ، لہذا جب بھی آن لائن جائیں تو آپ اپنی زندگی گزارنے کے لئے آزاد ہوںے۔
 welcome-page8-view-your-protection-report = اپنی تحفظ کی رپورٹ دیکھیں
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
