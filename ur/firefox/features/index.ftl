@@ -9,6 +9,8 @@
 features-index-protect-your-privacy-and-browse = اپنی رازداری کی حفاظت کریں اور { -brand-name-firefox }کی خصوصیات کے ساتھ تیز برائوز کریں
 # Hero title
 features-index-firefox-features = { -brand-name-firefox }  خصوصیات
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } ایک تیز ، ہلکا پھلکا ، رازداری سے مرکوز براؤزر ہے جو آپ کے تمام آلات پر کام کرتا ہے۔
 features-index-see-all = تمام ایکسٹینشنز دیکھیں
 features-index-get-an-account = { -brand-name-firefox-account } حاصل کریں
 features-index-from-the-company = ایسی کمپنی جانب سے جو لوگوں کو منافع پر ترجیح دیتا ہنے

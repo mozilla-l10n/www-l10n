@@ -77,6 +77,7 @@ firefox-desktop-download-change-new-tab = نیا ٹیب لے آؤٹ تبدیل �
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> کو اپنا بنانا
 firefox-desktop-download-extensions-for-every = ہر دلچسپی کے لئے ایکسٹینشنز
 firefox-desktop-download-change-up-your = اپنی شکل تبدیل کریں
+firefox-desktop-download-tweak-your-settings = اپنی ترتیبات کو مڑوڑیں دیں
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = <strong> غیر منافع بخش </ strong> کی حمایت حاصل ہے جو لوگوں کو پہلے رکھتا ہے
 firefox-desktop-download-challenging-the-status = 1998 سے اسٹیٹس کو کو چیلنج کررہا ہے
