@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browse
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Haz lo que haces en línea.<br> { -brand-name-firefox-browser } <strong>no te está</strong> mirando.
 firefox-desktop-download-how-firefox-compares = Cómo se compara { -brand-name-firefox } con otros navegadores
+firefox-desktop-download-get-all-the-speed = Obtén toda la velocidad y las herramientas sin las invasiones a la privacidad. { -brand-name-firefox-browser } recopila tan pocos datos sobre ti que ni siquiera te solicitamos tu dirección de correo electrónico para descargarlo. Esto se debe a que, a diferencia de otros navegadores, no tenemos ningún interés económico para seguirte por la Web.
 firefox-desktop-download-how-we-compare = Cómo nos comparamos con otros navegadores
 firefox-desktop-download-compare-firefox-to = Compara { -brand-name-firefox } con:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -37,6 +38,7 @@ firefox-desktop-download-os-availability = Disponibilidad para sistemas operativ
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla en el navegador
 firefox-desktop-download-master-password = Contraseña primaria
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por ello, exploras internet más rápido.
+firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente, mientras que sus rastreadores observan cada movimiento que realizas en línea. { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en los ajustes de seguridad.
 firefox-desktop-download-see-your-report = Mira tu reporte de protección
 firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
 firefox-desktop-download-available-in-over = Disponible en más de 90 idiomas, y compatible con equipos { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, { -brand-name-firefox } funciona sin importar qué estás usando o dónde estás. Asegúrate de que tu sistema operativo esté actualizado para obtener la mejor experiencia.
@@ -131,6 +133,9 @@ firefox-desktop-download-grab-a-high = Obtén una imagen de alta resolución de 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automáticamente <a { $attrs }>bloquea muchos rastreadores de terceros</a> para que no recopilen ni vendan tu actividad en la web.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ¿Preguntas? La <a { $attrs }>ayuda de { -brand-name-mozilla }</a> te tiene cubierto.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ya tienes el navegador { -brand-name-firefox }. Ahora obtén aún más de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Presta atención a los hackers con { -brand-name-firefox-monitor }, protege las contraseñas con { -brand-name-firefox-lockwise } y más.
