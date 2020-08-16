@@ -114,6 +114,32 @@ firefox-desktop-download-get-firefox-android = Descarcă { -brand-name-firefox-b
 firefox-desktop-download-get-firefox-ios = Descarcă { -brand-name-firefox-browser } pentru <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Descarcă browserul { -brand-name-firefox } pentru dispozitive mobile ca să ai protecție automată pe toate dispozitivele.
 firefox-desktop-download-learn-about-the = Află de mai jos despre browserul { -brand-name-firefox } pentru calculator
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De la securitate la știri și la jocuri, avem <a { $attrs }>extensii pentru toți</a>. Adaugă câte vrei până ce ai browserul pe care ți-l dorești.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a fost creat de <a { $attrs }>{ -brand-name-mozilla }</a> ca alternativă mai rapidă și mai privată la browsere precum { -brand-name-ie } și, acum, { -brand-name-chrome }. Astăzi, misiunea firmei noastre și a comunității de voluntari este de a continua să punem confidențialitatea utilizatorilor mai presus de orice.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Pe măsură ce Internetul crește și se schimbă, { -brand-name-firefox } continuă să se concentreze pe dreptul tău la confidențialitate  — îi spunem <a { $attrs }>Promisiunea noastră pentru protecția datelor personale</a>: Luăm mai puține. Le păstrăm în siguranță. Fără secrete. Datele tale, activitatea ta pe web, viața ta online sunt protejate cu { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } este disponibil pe toate dispozitivele; ia cu tine filele, istoricul și marcajele. Tot ce-ți trebuie este un <a { $attrs }> cont { -brand-name-firefox } </a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Fă o captură de înaltă rezoluție cu orice vrei tu online, folosind unealta noastră de <a { $attrs }>capturi de ecran</a> încorporată în browser.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blochează automat multe elemente de urmărire de la terți</a> și nu le lasă să îți colecteze și să îți vândă activitatea web.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Întrebări? Te rezolvă <a{ $attrs }>Asistență { -brand-name-mozilla }</a>.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Ai deja browserul. Acum obține și mai multe de la { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Pune-te în gardă împotriva hackerilor cu { -brand-name-firefox-monitor }, protejează-ți parolele cu { -brand-name-firefox-lockwise } și multe altele.
+firefox-desktop-download-get-more-from-firefox = Obține mai multe de la { -brand-name-firefox }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
