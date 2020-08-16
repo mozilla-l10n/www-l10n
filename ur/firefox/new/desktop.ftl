@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } ڈونلوڈ کریں—تیز، نجی اور مفت  { -brand-name-mozilla } کی جانب سے
+firefox-desktop-download-meta-desc = { -brand-name-firefox } حاصل کریں، ایک مفت ویب براؤزر جسکو { -brand-name-mozilla } کی حمایت حاصل ہے، ایک غیر منافع بخس اور انٹرنیٹ کی صحت اور رزداری کے لئے وقف شدہ. { -brand-name-windows }،{ -brand-name-mac-short }،{ -brand-name-linux }،{ -brand-name-android } اور{ -brand-name-ios } پر اب دستیاب ہے
 firefox-desktop-download-og-title = اب تک کا سب سے تیز { -brand-name-firefox } ڈاؤن لوڈ کریں
 firefox-desktop-download-og-desc = تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا { -brand-name-firefox } یہاں ہے۔
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -92,6 +93,7 @@ firefox-desktop-download-from-watching-a = ویب ٹیوٹوریل دیکھنے 
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> کے لیے { -brand-name-firefox-browser } حاصل کریں
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> کے لیے { -brand-name-firefox-browser } حاصل کریں
+firefox-desktop-download-download-the-mobile = اپنے تمام آلات پر  خودکار حفاظت کے لئے { -brand-name-firefox } موبائل براؤزر ڈاونلوڈ کریں.
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } ڈیسک ٹاپ براؤزر کے بارے میں  ذیل میں مزید سیکھن
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = آپ کو { -brand-name-firefox } براؤزر پہلے ہی مل گیا ہے۔ اب { -brand-name-firefox } کے ساتھ مزید حاصل کریں
