@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-browsers = Restoladores
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
