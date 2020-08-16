@@ -9,7 +9,7 @@
 welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise } - manager de parole - iei cu tine parolele peste tot
 welcome-page5-theres-an-easier-way-to-deal = Există o cale mai ușoară de a gestiona parolele
 welcome-page5-let-firefox-save-them-for = Lasă { -brand-name-firefox } să le salveze pentru tine. Apoi folosește { -brand-name-firefox-lockwise } ca să le accesezi în siguranță în toate aplicațiile, pe toate dispozitivele tale.
-welcome-page5-get-the-lockwise-app = Obține aplicația { -brand-name-lockwise }
+welcome-page5-get-the-lockwise-app = Descarcă aplicația { -brand-name-lockwise }
 welcome-page5-get-firefox-lockwise-on-your = Descarcă { -brand-name-firefox-lockwise } pe telefon
 welcome-page5-send-the-download-link-right = Trimite linkul de descărcare direct pe telefon sau e-mail.
 welcome-page5-download-firefox-lockwise = Descarcă { -brand-name-firefox-lockwise } pentru telefon și tabletă.

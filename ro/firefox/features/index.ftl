@@ -8,7 +8,7 @@
 # Hero title
 features-index-firefox-features = Funcționalități { -brand-name-firefox }
 features-index-see-all = Vezi toate extensiile
-features-index-get-an-account = Obține un { -brand-name-firefox-account }
+features-index-get-an-account = Creează-ți un { -brand-name-firefox-account }
 features-index-from-the-company = De la o companie care pune oamenii înaintea profitului
 features-index-open-source-minds = Sursă deschisă. Minți deschise.
 features-index-see-what-makes-us-different = Vezi ce ne face diferiți

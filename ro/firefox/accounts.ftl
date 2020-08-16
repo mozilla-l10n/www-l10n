@@ -40,8 +40,8 @@ firefox-accounts-get-the-respect-you = Primește respectul cuvenit.
 firefox-accounts-youll-always-get-the = Întotdeauna îți vom spune adevărul. Ne ținem de <a href="{ $promise }">promisiunea noastră privind datele cu caracter personal</a> prin tot ceea ce clădim și facem:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Luăm mai puține informații.<br> Le păstrăm în siguranță.<br> Fără secrete.
-firefox-accounts-get-the-knowledge = Obține cunoștințele pentru a fi în siguranță.
-firefox-accounts-learn-everything-you = Află tot ce trebuie să știi (dar nu știi încă) cum să fii inteligent și în siguranță online, de la unii dintre cei mai buni experți din lume.
+firefox-accounts-get-the-knowledge = Cunoștințele de care ai nevoie pentru a fi în siguranță.
+firefox-accounts-learn-everything-you = Află tot ce trebuie să știi (dar nu știi încă) despre navigarea inteligentă și în siguranță online, de la unii dintre cei mai buni experți din lume.
 firefox-accounts-and-be-part-of-protecting = Și fii parte a protejării internetului pentru generațiile viitoare.
 firefox-accounts-help-us-build-a-better = Ajută-ne să clădim un { -brand-name-firefox } mai bun pentru toți.
 firefox-accounts-get-into-the-open = Intră în spiritul programelor cu sursă deschisă testând produsele în dezvoltare.
