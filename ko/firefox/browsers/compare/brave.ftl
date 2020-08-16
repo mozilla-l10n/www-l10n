@@ -24,7 +24,7 @@ compare-brave-the-internet-as-a-whole-is = 인터넷 서비스는 디스플레�
 compare-brave-whether-this-sounds-complicated = 좋은 아이디어일 수도 복잡한 모델일 수도 있지만, 이는 여러분들이 인터넷에서 경험하는 디스플레이 광고에 대한 생각에 달려 있습니다. 대부분의 인터넷 사용자는 좋은 콘텐츠를 만드는데 비용이 든다는 것을 이해하고, 그 비용이 광고에서 나온다는 사실에 동의합니다.
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
-compare-brave-on-the-other-side-of-the-coin = 다른 한편으로 { -brand-name-firefox } 브라우저를 사용하면 좀 더 단순합니다. { -brand-name-firefox }는 기본적으로 다양한 제 3자 광고 기능, 암호화 채굴, 지문 인식 등이 사용자를 직접 추적하지 못하도록 차단합니다. 그러나, 사생활 보호 모드가 아닌 경우 <a { $attrs }>광고 차단 목적의 확장 기능</a>을 설치하지 않는 한, { -brand-name-firefox }는 디스플레이 광고가 표시되는 것을 차단하지 않도록 선택할 수 있습니다.
+compare-brave-on-the-other-side-of-the-coin = 다른 한편으로 { -brand-name-firefox } 브라우저를 사용하면 좀 더 단순합니다. { -brand-name-firefox }는 기본적으로 다양한 제 3자 광고 기능, 암호화 채굴, 디지털 지문 등이 사용자를 직접 추적하지 못하도록 차단합니다. 그러나, 사생활 보호 모드가 아닌 경우 <a { $attrs }>광고 차단 목적의 확장 기능</a>을 설치하지 않는 한, { -brand-name-firefox }는 디스플레이 광고가 표시되는 것을 차단하지 않도록 선택할 수 있습니다.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
