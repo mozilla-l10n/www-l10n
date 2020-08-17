@@ -13,7 +13,7 @@ whatsnew80-main-title = 모든 일을 조금 더 빠르게
 whatsnew80-main-intro = 모든 데이터를 컴퓨터에서 모바일폰으로 이동하실 수 있습니다. 모바일 용 { -brand-name-firefox }를 받으세요.
 whatsnew80-primary-cta-description = 다운로드 링크를 위한 이메일 또는 전화 번호를 입력하세요.
 # content buckets below hero
-whatsnew80-password-fatigue = 피곤한 암호 관리
+whatsnew80-password-fatigue = 어려운 비밀번호 관리
 whatsnew80-the-average-person = 평균적으로 인당 130 개의 온라인 계정을 가지고 있습니다. 모바일용 { -brand-name-firefox } 동기화 된 기기간에 암호를 안전하게 기억하고 저장하므로 한 번의 클릭으로 로그인 할 수 있습니다.
 whatsnew80-privacy-you-never = 생각하고 걱정할 필요가 없는 사생활
 whatsnew80-firefox-for-mobile = 모바일 용 { -brand-name-firefox }는 대부분의 온라인 광고 추적기를 자동으로 차단하므로 보안 설정을 자세히 살펴볼 필요가 없습니다.
