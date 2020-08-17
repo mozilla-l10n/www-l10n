@@ -12,7 +12,7 @@ compare-edge-compare-microsoft-edge-to-the = { -brand-name-microsoft } { -brand-
 # Main title.
 compare-edge-comparing-firefox-browser-with = { -brand-name-firefox-browser }와 { -brand-name-microsoft } { -brand-name-edge } 비교
 compare-edge-with-windows-10-microsoft-introduced = { -brand-name-windows } 10과 함께 { -brand-name-microsoft }는 { -brand-name-firefox } 및 { -brand-name-chrome }과 경쟁하기 위해 { -brand-name-edge } 브라우저를 도입했습니다. 수백만 대의 PC에 사전 설치된 기본 브라우저가 되었습니다. 그럼에도 불구하고 사용자는 이를 잘 선택하지 않았고, { -brand-name-microsoft }는 결국 { -brand-name-edge }를 { -brand-name-chromium } 기반 브라우저로 재출시 할 계획을 발표했습니다. ({ -brand-name-chromium }는 { -brand-name-google }의 오픈 소스 브라우저 프로젝트입니다.)
-compare-edge-here-well-compare-our-firefox = 여기서는 개인 정보 보호, 유용성 및 이식성 측면에서 { -brand-name-firefox-browser }를 { -brand-name-chromium } 기반 { -brand-name-microsoft } { -brand-name-edge }와 비교합니다. 이를 통해 어떤 브라우저가 사용자의 요구와 선호에 더 잘 맞는지 더 잘 이해할 수 있도록 도와드립니다.
+compare-edge-here-well-compare-our-firefox = 여기서는 개인 정보 보호, 유용성, 휴대성 측면에서 { -brand-name-firefox-browser }를 { -brand-name-chromium } 기반 { -brand-name-microsoft } { -brand-name-edge }와 비교합니다. 이를 통해 어떤 브라우저가 사용자의 요구와 선호에 더 잘 맞는지 더 잘 이해할 수 있도록 도와드립니다.
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge }는 { -brand-name-windows } 10 플랫폼에 통합되어 샌드 박스 환경에서 실행됩니다. 즉, 프로그램을 격리하고 악성 프로그램이 컴퓨터를 감시하는 것을 방지합니다. 여러분이 방문하는 웹 사이트의 평판을 검사하고 의심스러운 사이트를 차단하는 내장 SmartScreen 기능이 있습니다. 개인 정보 보호를 강화하기 위해 { -brand-name-edge }에서는 온라인 인증을 위해 비밀번호 대신 { -brand-name-edge } Hello로 생체 인식 또는 PIN을 사용할 수 있습니다.
 # Variables:
