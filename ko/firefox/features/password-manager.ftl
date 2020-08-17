@@ -24,7 +24,7 @@ password-manager-no-more-try-again = 이제 웹 사이트 방문 시 “다시 �
 password-manager-password-champion = 비밀번호 챔피언
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-password-manager-earn-your-security-gold-medal = { -brand-name-firefox }에서 제공하는 방대한 비밀번호 관리자 <a href="{ $addons }">부가 기능</a>으로 보안 금메달을 획득하세요. 기존 즐겨찾기를 선택하거나, 전문가 커뮤니티 평가 및 리뷰를 살펴 보시고 더 좋은 기능을 찾아보세요.
+password-manager-earn-your-security-gold-medal = { -brand-name-firefox }에서 제공하는 방대한 비밀번호 관리자 <a href="{ $addons }">부가 기능</a>으로 보안 금메달을 획득하세요. 기존 즐겨 사용하는 항목을 선택하거나, 전문가 커뮤니티 평가 및 리뷰를 살펴 보시고 더 좋은 기능을 찾아보세요.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = 비밀번호 관리자
