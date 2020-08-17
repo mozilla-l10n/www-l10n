@@ -14,6 +14,7 @@ whatsnew-account-main-button = = Aanmelden
 
 ##
 
+whatsnew-account-signed-in-headline = Krijg meer gedaan. Download { -brand-name-firefox } voor mobiel.
 whatsnew-account-signed-in-lead-in = Een downloadkoppeling naar uw telefoon verzenden.
 whatsnew-account-signed-in-qr-title = Download { -brand-name-firefox } voor uw smartphone en tablet.
 # An accessible label for a QR code image

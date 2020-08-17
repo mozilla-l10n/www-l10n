@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Download en test de nieuw
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Test bijna vrijgegeven functies in de meest stabiele pre-releasebuild.
 firefox-channel-release-notes = Uitgaveopmerkingen
+firefox-channel-previous-nightly-builds = Eerdere builds van { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Bouw, test, schaal en doe meer met de enige browser die gemaakt is voor ontwikkelaars.
 # Variables:
