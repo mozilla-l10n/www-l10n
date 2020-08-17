@@ -5,12 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-firefox }용 { -brand-name-facebook } 컨테이너 | 여러분이 방문한 사이트를 { -brand-name-facebook }이 추적하는 것을 방지합니다.
+facebook-container-facebook-container-for-firefox = { -brand-name-firefox }용 { -brand-name-facebook-container } | 여러분이 방문한 사이트를 { -brand-name-facebook }이 추적하는 것을 방지합니다.
 facebook-container-millions-of-people-around = 전세계 수백만명의 사람들이 { -brand-name-firefox } 데스크톱 브라우저 및 { -brand-name-android }용, { -brand-name-ios }용 모바일 브라우저를 신뢰하고 있습니다. 빠르고 안전합니다. 지금 다운로드 하세요!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }를 격리함으로서 개인 정보흘 보호합니다.
-facebook-container-get-the-facebook-container = Facebook 컨테이너 확장 기능 받기
-facebook-container-download-firefox-and-get-the = { -brand-name-firefox }를 다운로드 후, Facebook 컨테이너 확장기능 사용하기
-facebook-container-the-facebook-container-extension = Facebook 컨테이너 확장 기능은 모바일 기기에서 사용이 불가합니다.
+facebook-container-get-the-facebook-container = { -brand-name-facebook-container } 확장 기능 받기
+facebook-container-download-firefox-and-get-the = { -brand-name-firefox }를 다운로드 후, { -brand-name-facebook-container }  확장 기능 사용하기
+facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } 확장 기능은 모바일 기기에서 사용이 불가합니다.
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android }와 { -brand-name-ios }를 위한 사생활 보호 브라우저 <strong>{ -brand-name-firefox-focus }</strong>를 써보세요.
 facebook-container-opt-out-on-your-terms = 이용 약관에 동의 안함

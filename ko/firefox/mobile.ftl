@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = 모바일 기기에 { -brand-name-ios } 및 { -brand-name-android }용 Firefox 브라우저를 다운로드하세요
-firefox-mobile-firefox-browser-for-mobile = 모바일용 Firefox 브라우저는 2000개 이상의 추적기를 기본으로 차단하며, 개인적인 모바일 브라우저에 필요한 사생활 보호와 속도를 제공합니다.
+firefox-mobile-download-the-firefox-browser = { -brand-name-ios } 및 { -brand-name-android }용 모바일 { -brand-name-firefox-browser }  다운로드
+firefox-mobile-firefox-browser-for-mobile = 모바일용 { -brand-name-firefox-browser }는 2천개 이상의 추적기를 기본으로 차단하며, 개인 모바일 브라우저에 필요한 사생활 보호와 속도를 제공합니다.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = 광고주를 위해서가 아닌, 여러분을 위한 모바일 브라우저입니다
@@ -28,9 +28,6 @@ firefox-mobile-discover-products-that-keep = 안전한 삶을 지켜주는 제�
 firefox-mobile-sync-your-history-passwords = 방문기록, 비밀번호 및 북마크를 동기화하세요. 소유한 모든 기기에 탭을 보낼 수도 있습니다.
 firefox-mobile-android-only = { -brand-name-android } 전용
 firefox-mobile-make-android-your-own = 나만의 { -brand-name-android } 만들기
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = <a href="{ $url }">부가 기능</a>과 함께 광고를 차단하고, 비밀번호를 관리하며, { -brand-name-facebook }으로부터 추적을 차단하는 등 { -brand-name-firefox } 모바일 브라우저를 개인화할 수 있습니다.
 firefox-mobile-find-it-fast-with-a-smart = 똑똑한 검색 창으로 빠르게 찾아보세요
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox }는 똑똑한 검색 제안 기능으로 원하는 검색어를 예상하고, 자주 방문하는 사이트에 빠르게 접속할 수 있도록 해줍니다.
 firefox-mobile-the-privacy-you-deserve-the = 여러분이 원한 사생활 보호. 그리고 속도.

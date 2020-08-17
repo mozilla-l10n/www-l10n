@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox 브라우저: 더 적은 메모리 사용, 더 빠른 속도
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: 더 적은 메모리, 더 빠른 속도
 # HTML page description
 features-memory-is-your-computer-slow-your = 컴퓨터가 느린가요? 여러분의 브라우저가 너무 많은 메모리를 사용하고 있을 수 있습니다. 더 나은 속도를 위해 지금 { -brand-name-firefox }로 변경해보세요.
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome }보다 더 적은 메모리 사용
