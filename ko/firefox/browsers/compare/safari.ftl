@@ -12,7 +12,7 @@ compare-safari-safari-is-the-pre-installed = { -brand-name-safari }는 { -brand-
 # Main title.
 compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser }와 { -brand-name-apple } { -brand-name-safari } 비교
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
-compare-safari-if-you-use-a-mac-or-have = Mac을 사용하거나 { -brand-name-iphone }이 있다면 { -brand-name-safari } 웹브라우저에 익숙할 것입니다. { -brand-name-apple } 제품 사용자를 위해 기본 브라우저로 미리 설치된 것이 분명 초음에는 유리하지만, { -brand-name-firefox }는 그 자체로 유용한 기능을 가지고 있어 매력적인 대안으로 떠오르고 있습니다. 이제 저희 브라우저와 { -brand-name-safari } 사이에 개인정보보호, 유틸리티 및 장치 간 이식성 측면에서 주요 차이점에 대해 살펴보겠습니다.
+compare-safari-if-you-use-a-mac-or-have = Mac을 사용하거나 { -brand-name-iphone }이 있다면 { -brand-name-safari } 웹 브라우저에 익숙할 것입니다. { -brand-name-apple } 제품 사용자를 위해 기본 브라우저로 미리 설치된 것이 처음에는 유리하지만, { -brand-name-firefox }는 그 자체로 유용한 기능을 가지고 있어 매력적인 대안으로 떠오르고 있습니다. 이제 저희 브라우저와 { -brand-name-safari } 사이에 개인 정보 보호, 유용성 및 장치 간 휴대성 측면에서 주요 차이점에 대해 살펴보겠습니다.
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
 compare-safari-privacy-has-become-a-white = 회사들은 점점 더 많은 사람들이 데이터 유출, 광고 추적기, 해커 등에 취약함을 느낀다고 인식함에 따라 개인정보 보호에 심혈을 쏟고 있습니다. 하지만 사람들이 인터넷을 탐색하기 위해 실제 사용하는 도구를 생각해본다면, 그들은 정말 데이터를 안전하게 보호하기 위한 조치를 취하고 있을까요? 아니면 모든 것이 말뿐일까요?
 compare-safari-as-alluded-to-before-apple-fallback = 이전에 언급했듯이 { -brand-name-apple }은 최근 개인정보 보호 정책을 강화하기로 결정한 회사들 중 하나입니다. 얼마 전 { -brand-name-apple }은 사이트 간 추적 방지 기능을 통해 { -brand-name-safari }에서 광고가 따라다니는 것을 막았습니다. 또한 { -brand-name-safari }는 어떤 웹사이트에 새로운 계정을 만들 때 강력한 암호를 제안합니다. 만약 iCloud 생태계에 투자를 좀 했다면, 이를 통해 암호가 안전하게 다른 장치와 동기화되므로 기억할 필요가 전혀 없습니다.
