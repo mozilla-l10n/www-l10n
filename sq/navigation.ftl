@@ -94,8 +94,10 @@ navigation-add-ons = Shtesa
 navigation-projects = Projekte
 navigation-close-projects-menu = Mbylle menunë Projekte
 navigation-donate-your-voice-to = Dhuroni zërin tuaj në ndihmë për ta bërë të kuptuarit e të folurës të hapët për këdo.
+navigation-machine-learning = Nxënie Nga Makinat
 # Outdated string
 navigation-web-of-things-iot = Interneti i Gjërave (IoT)
+navigation-help-make-deep-learning = Ndihmoni t’i jepen botës së burimit të hapët algoritme nxënieje të thelluar.
 # Outdated string
 navigation-make-devices-connected = Bëjini të siguruara, të parrezikuara dhe të ndërveprueshme, pajisjet e lidhura në internet.
 navigation-developers = Zhvillues

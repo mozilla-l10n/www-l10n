@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Shkarkoni dhe provoni ve�
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Provoni veçori që janë gati për t’u hedhur në qarkullim, me montimin më stabël para-qarkullim.
 firefox-channel-release-notes = Shënime Versioni
+firefox-channel-previous-nightly-builds = Montime të Dikurshme { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Montoni, provoni, përshkallëzoni, etj me shfletuesin e vetëm të krijuar për zhvilluesit.
 # Variables:
