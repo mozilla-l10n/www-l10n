@@ -7,9 +7,9 @@
 
 switch-switch-from-chrome = 단 몇 분 만에 { -brand-name-chrome }에서 { -brand-name-firefox }로 전환
 switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox }로 전환하는 것은 어려움 없이 빠르고 쉽게 가능합니다. { -brand-name-firefox }는 { -brand-name-chrome }에서 북마크, 비밀번호 및 환경 설정을 바로 가져 울 수 있습니다.
-switch-switching-to-firefox-is-fast = 빠르고 쉽고 안전하게 { -brand-name-firefox }로 변경할 수 있습니다. { -brand-name-chrome }에서 { -brand-name-firefox }로 즐겨찾기, 자동완성, 비밀번호 및 설정을 가져올 수 있기 때문입니다.
+switch-switching-to-firefox-is-fast = 빠르고 쉽고 안전하게 { -brand-name-firefox }로 변경할 수 있습니다. { -brand-name-chrome }에서 { -brand-name-firefox }로 북마크, 자동 완성, 비밀번호 및 설정을 가져올 수 있기 때문입니다.
 switch-switching-to-firefox-page-description-updated = { -brand-name-firefox }로 전환하는 것은 어려움 없이 빠르고 쉽게 가능합니다. { -brand-name-firefox }는 { -brand-name-chrome }에서 북마크, 비밀번호 및 환경 설정을 바로 가져 울 수 있습니다.
-switch-switching-to-firefox-page-description = 빠르고 쉽고 안전하게 { -brand-name-firefox }로 변경할 수 있습니다. { -brand-name-firefox }가 { -brand-name-chrome }에서 즐겨찾기와 자동완성, 비밀번호, 설정을 가져옵니다.
+switch-switching-to-firefox-page-description = 빠르고 쉽고 안전하게 { -brand-name-firefox }로 변경할 수 있습니다. { -brand-name-firefox }가 { -brand-name-chrome }에서 북마크와 자동 완성, 비밀번호, 설정을 가져옵니다.
 switch-select-what-to-take = { -brand-name-chrome }에서 가져올 것을 선택하세요.
 switch-let-firefox-do-the-rest = 나머지는 { -brand-name-firefox }가 알아서 합니다.
 switch-use-firefox-and-still-chrome = { -brand-name-chrome }을 지우지 않고 { -brand-name-firefox }를 사용하실 수 있습니다. 여러분 기기의 { -brand-name-chrome }은 조금도 변하지 않습니다.
