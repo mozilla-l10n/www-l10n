@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } 다운�
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = 제 3자에게 당신의 데이터를 판매하는 산업에 대항하세요. 당신과 함께 싸우는 기술로 똑똑하고 안전하게 온라인 생활을 지속할 수 있습니다.
 # Old HTML page description
-firefox-accounts-securely-sync-your = 모든 기기에서 암호, 북마크 및 탭을 안전하게 동기화 할 수 있습니다. 이제 { -brand-name-firefox-account }을 통해 어디서나 한 번의 로그인으로 개인 정보를 관리하실 수 있습니다.
+firefox-accounts-securely-sync-your = 모든 기기에서 비밀번호, 북마크 및 탭을 안전하게 동기화 할 수 있습니다. 이제 { -brand-name-firefox-account }을 통해 어디서나 한 번의 로그인으로 개인 정보를 관리하실 수 있습니다.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = 개인 정보를 보호할 방법이 있습니다. <span>{ -brand-name-firefox }와 함께 하세요.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
@@ -29,7 +29,7 @@ firefox-accounts-meet-our-family-of = 사생활 보호가 최우선인 우리의
 firefox-accounts-firefox-is-technology = { -brand-name-firefox }는 여러분을 위해 대항하는 기술입니다.
 firefox-accounts-get-technology-that = 여러분을 위해 대항하는 기술을 얻으세요.
 firefox-accounts-travel-the-internet = 모든 기기에서 보호 기능과 함께 인터넷을 활용하세요.
-firefox-accounts-keep-your-passwords = 암호를 보호하고 항상 가지고 다니세요.
+firefox-accounts-keep-your-passwords = 비밀번호를 보호하고 항상 가지고 다니세요.
 firefox-accounts-get-a-lookout-for = 데이터 유출에 대비하세요.
 firefox-accounts-share-large-files = 안전하게 대용량 파일을 공유하세요.
 firefox-accounts-get-it-all-on-every = 한 운영체제에 갇히지 않고 모든 기기에서 사용하세요.
