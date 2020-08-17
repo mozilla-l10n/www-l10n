@@ -25,7 +25,7 @@ compare-edge-at-firefox-our-privacy-fallback = { -brand-name-firefox }에서는 
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = 여러분에게 제공하는 <a { $attrs }> 개인 정보 보호 </a> 페이지에서는 여러분이 { -brand-name-firefox }를 사용하는 동안 웹 페이지에서 있는 전체 추적기와 및 쿠키를 차단한 개수를 보여 줍니다.
 # "InPrivate" is a brand name.
-compare-edge-in-firefox-private-browsing = { -brand-name-firefox }에서 사생활 보호 모드는 암호, 쿠키 및 방문 기록과 같은 탐색 정보를 자동으로 지우고 세션을 종료 한 후에는 흔적을 남기지 않습니다. 반면 { -brand-name-edge }는 실제로 개인 모드 (“InPrivate”라고 함)에서 검색 기록을 기록하며, 검색이 수행되었는지 여부에 관계없이 누군가가 사용자의 전체 검색 기록을 재구성하는 것은 비교적 쉬운 작업입니다.
+compare-edge-in-firefox-private-browsing = { -brand-name-firefox }에서 사생활 보호 모드는 비밀번호, 쿠키 및 방문 기록과 같은 탐색 정보를 자동으로 지우고 세션을 종료 한 후에는 흔적을 남기지 않습니다. 반면 { -brand-name-edge }는 실제로 개인 모드 (“InPrivate”라고 함)에서 검색 기록을 기록하며, 검색이 수행되었는지 여부에 관계없이 누군가가 사용자의 전체 검색 기록을 재구성하는 것은 비교적 쉬운 작업입니다.
 compare-edge-both-browsers-are-relatively = 두 브라우저 모두 데이터 암호화 측면에서 상대적으로 동일합니다. 그러나, 온라인 개인 정보 보호 및 투명성이 중요하다면 { -brand-name-firefox }가 더 나은 선택이 될 것입니다.
 compare-edge-firefox-is-a-fast-and-open = { -brand-name-firefox }는 빠른 오픈 소스 브라우저이므로 사용자는 가능한 모든 방법으로 브라우징 환경을 맞춤 설정할 수 있습니다. { -brand-name-firefox }는 또한 일반 사용자가 다양한 테마와 도구 모음 구성을 적용하여 UI를 사용자 정의하는 여러 가지 방법을 허용합니다. 항상 오픈 소스 였기 때문에 브라우저 부가 기능 및 확장 기능을 만드는 열정적인 개발자가 많습니다.
 compare-edge-firefox-is-a-fast-and-open-fallback = { -brand-name-firefox }는 빠른 오픈 소스 브라우저이므로 사용자는 가능한 모든 방법으로 브라우징 환경을 맞춤 설정할 수 있습니다. { -brand-name-firefox }는 또한 일반 사용자가 다양한 테마와 도구 모음 구성을 적용하여 UI를 사용자 정의하는 여러 가지 방법을 허용합니다. 항상 오픈 소스 였기 때문에 브라우저 부가 기능 및 확장 기능을 만드는 열정적인 개발자가 많습니다.
