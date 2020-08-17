@@ -44,8 +44,8 @@ navigation-explore-the-immersive = Utforsk det oppslukende nettet med virtuell v
 navigation-experience-augmented = Opplev utivdet og virtuell virkelighet med { -brand-name-firefox }.
 navigation-get-together = Kom sammen i virtuell virkelighet med dette sosiale rommet på nettet.
 # Outdated string
-navigation-meet-people-in-experimental = Møt mennesker i Mixed Reality-chatterom med { -brand-name-firefox }.
-navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+navigation-meet-people-in-experimental = Møt mennesker i blandet virkelighet-chatterom med { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } blandet virkelighet
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } bringer virtuell og utvidet virkelighet til det åpne nettet.
@@ -105,7 +105,7 @@ navigation-close-developers-menu = Lukk utvikler-menyen
 navigation-test-soon-to-be-released = Test kommende funksjoner i den meste stabile av de tidlige utgivelsene.
 navigation-developer-innovations = Utviklerinnovasjoner
 navigation-projects-that-help-keep = Prosjekter som hjelper til med å holde internettet åpent og tilgjengelig for alle.
-navigation-mixed-reality = Mixed Reality
+navigation-mixed-reality = Blandet virkelighet
 navigation-resources = Resurser
 navigation-resources-for-developers = Ressurser for utviklere, fra utviklere.
 navigation-developer-blog = Utviklerblogg
