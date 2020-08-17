@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
+# HTML page title
+whatsnew79-page-title = Novo u { -brand-name-firefox }u
 whatsnew79-secure-your-connection = Osiguraj svoju vezu
