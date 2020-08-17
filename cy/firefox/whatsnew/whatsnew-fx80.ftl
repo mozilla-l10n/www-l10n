@@ -7,7 +7,7 @@
 
 # html page title
 whatsnew80-page-title = Beth sy'n newydd gyda { -brand-name-firefox }
-whatsnew80-up-to-date-banner = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox-browser }.
+whatsnew80-up-to-date-banner = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = Gwnewch bron popeth, ychydig yn gynt
 whatsnew80-main-intro = Symudwch o gyfrifiadur i ffôn heb golli curiad. Defnyddiwch { -brand-name-firefox } ar gyfer symudol.
