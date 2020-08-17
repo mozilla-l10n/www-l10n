@@ -28,6 +28,7 @@ firefox-mobile-discover-products-that-keep = 안전한 삶을 지켜주는 제�
 firefox-mobile-sync-your-history-passwords = 방문기록, 비밀번호 및 북마크를 동기화하세요. 소유한 모든 기기에 탭을 보낼 수도 있습니다.
 firefox-mobile-android-only = { -brand-name-android } 전용
 firefox-mobile-make-android-your-own = 나만의 { -brand-name-android } 만들기
+firefox-mobile-customize-your-firefox-mobile-truncated = 확장 기능을 통해 { -brand-name-firefox } 모바일 브라우저를 맞춤 설정하세요.
 firefox-mobile-find-it-fast-with-a-smart = 똑똑한 검색 창으로 빠르게 찾아보세요
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox }는 똑똑한 검색 제안 기능으로 원하는 검색어를 예상하고, 자주 방문하는 사이트에 빠르게 접속할 수 있도록 해줍니다.
 firefox-mobile-the-privacy-you-deserve-the = 여러분이 원한 사생활 보호. 그리고 속도.
