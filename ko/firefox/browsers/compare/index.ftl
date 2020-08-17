@@ -15,6 +15,7 @@ compare-index-a-great-internet-browser-should = 휼륭한 웹 브라우저는 �
 compare-index-which-browser-is-best-at-keeping = 기밀 유지에 가장 적합한 브라우저는 무엇입니까?
 compare-index-its-not-unreasonable-to-expect = 정기적으로 온라인에 접속하는 제품을 사용하는 동안 높은 수준의 데이터 보호 및 개인 정보 보호를 기대하는 것은 매우 합리적입니다. 최소한 웹 브라우저는 방문 기록 및 검색 기록을 자동으로 삭제하는 일부 버전의 '사생활 보호 모드'를 제공하여 같은 컴퓨터의 다른 사용자가 접근할 수 없도록 해야 합니다. 이 영역에서 7 개의 브라우저에 대한 점수를 비교했습니다.
 compare-index-what-you-do-online-literally = 온라인에서 하는 일은 말그대로 사생활 보호가 철저히 되어야합니다.
+compare-index-using-a-browser-that-blocks = 제3자 추적기를 차단하는 웹 브라우저를 사용하는 것은 개인 정보 보호를 위해서만 중요한 것이 아니라 일반적으로 훨씬 더 빠르게 실행된다는 것을 의미합니다. 대부분의 추적기는 여러 웹 사이트에서 백그라운드로 실행되는 스크립트입니다. 직접 볼 수는 없지만, 웹 브라우저 속도가 느려지는 것을 느낄 수 있습니다. { -brand-name-firefox } 버전 67부터는 암호화폐 채굴기와 디지털 지문도 차단합니다. 암호화폐 채굴기에 익숙하지 않은 경우, 다음은 암호화폐 채굴기가 어떤 영향을 미칠 수 있는지에 대한 사례입니다. 컴퓨터가 갑자기 뜨거워 지거나 배터리가 평소보다 빨리 고갈되는 것을 경험했을 수 있습니다. 암호 채굴자가 여러분의 컴퓨터를 사용하고 있기 때문입니다.
 compare-index-what-has-your-browser-done = 최근에 여러분의 브라우저는 무엇을 했나요?
 compare-index-how-well-does-your-browser = 브라우저는 여러 기기에서 얼마나 잘 작동합니까?
 compare-index-conclusion = 결론:
