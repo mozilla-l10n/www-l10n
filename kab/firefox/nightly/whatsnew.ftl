@@ -20,7 +20,7 @@ nightly-whatsnew-this-is-a-good = Akud tura yettwafran akken ad nesnemmer ɣef a
 nightly-whatsnew-if-you-want-to = Ma tebɣiḍ ad teẓreḍ ayen iḍerrun deg { -brand-name-nightly } akked tmezdagnut-is, taɣuri n  <a href="{ $blog }">ublug</a>-nneɣ neɣ aḍfaṛ deg <a href="{ $twitter }">{ -brand-name-twitter }</a> d abrid yelha i beddu!
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Tabɣiḍ ad teẓreḍ anta timahilin i tzemreḍ ad teskeydeḍ ɣef { -brand-name-nightly } udiɣ ur tezmireḍ ara akka tura as tɣereɣef ileqman-nniḍen n { -brand-name-firefox }? Ger tiṭ ar usebter <a href="{ $mdn }">Timahilin tirmitanin</a> di <abbr title="Aẓeṭṭa n Uneflay n Mozilla">{ -brand-name-mdn }</abbr>.
+nightly-whatsnew-want-to-know-which = Tebɣiḍ ad teẓreḍ anti timahilin i tzemreḍ ad teskeydeḍ ɣef { -brand-name-nightly } ur tezmireḍ ara akka tura ɣef yibuda-nniḍen n { -brand-name-firefox }? Ihi, ẓer asebter <a href="{ $mdn }">Timahilin tirmitanin</a> deg <abbr title="<abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn } </abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Tettmagareḍ-d aɣelluy? Tikli ur nettwarǧi ara? Tuɣalin ar deffir n umṣada Web? Yelha limer ad yettwammel deg <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> akken ad neḍmen ul d yiwen seg aya ur d-iḍerru di lqem aneggaru (tineqqiḍin-nniḍen ma yella terniḍ awal n tsarutt <em>{ -brand-name-nightly }-community</em> ar uneqqis n ibugen)!
