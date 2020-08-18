@@ -94,8 +94,10 @@ navigation-add-ons = Add-ons
 navigation-projects = Projecten
 navigation-close-projects-menu = Menu Projecten sluiten
 navigation-donate-your-voice-to = Doneer uw stem en maak spraakherkenning voor iedereen beschikbaar.
+navigation-machine-learning = Machinaal leren
 # Outdated string
 navigation-web-of-things-iot = Web der Dingen (IoT)
+navigation-help-make-deep-learning = Help om deep learning-algoritmen beschikbaar te maken voor de opensourcewereld.
 # Outdated string
 navigation-make-devices-connected = Verbind apparaten veilig, betrouwbaar en interoperabel met het internet.
 navigation-developers = Ontwikkelaars
