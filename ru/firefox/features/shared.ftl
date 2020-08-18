@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-a-better-internet-experience = Лучший опыт работы в Интернете
+features-shared-more-firefox-features = Дополнительные возможности браузера { -brand-name-firefox }
 features-shared-browse-faster = Ускорение веб-серфинга
 features-shared-your-favorite-extensions = Ваши любимые расширения
+features-shared-balanced-memory = Сбалансированный расход памяти
 features-shared-more-powerful-private-browsing = Больше мощи с приватным просмотром
 features-shared-ad-tracker-blocking = Блокировка рекламных трекеров
 features-shared-password-manager = Менеджер паролей

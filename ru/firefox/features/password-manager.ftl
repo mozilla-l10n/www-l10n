@@ -16,15 +16,17 @@ password-manager-password-hero = Герой паролей
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Забудьте о сбросах паролей. Менеджер паролей { -brand-name-firefox } хранит все ваши пароли, так вы можете входить автоматически или легко их находить. Для дополнительной безопасности, задайте своему компьютеру <a href="{ $url }">мастер-пароль</a>.
+password-manager-password-magician = Магистр паролей
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ниндзя паролей
 password-manager-no-more-try-again = Никаких "попробовать снова", когда вы пытаетесь куда-то попасть. Войдите в свой { -brand-name-firefox-account(case: "nominative_uppercase") } на вашем телефоне и ваши пароли пойдут вместе с вами. Ваши учётные данные просто появятся, вот так.
+password-manager-password-champion = Чемпион паролей
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Заработайте свою золотую медаль по безопасности с огромным массивом <a href="{ $addons }">менеджеров паролей для { -brand-name-firefox }</a>. Выберите текущего фаворита, или найдите будущего лидера по рейтингам и отзывам экспертного сообщества.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Мастер паролей
 # Obsolete string
 # Variables:
