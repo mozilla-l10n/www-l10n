@@ -8,7 +8,7 @@
 # HTML page title
 whatsnew79-page-title = Kva er nytt i { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = Beskytt dei personlege dataa dine frå andre – inkludert oss
+whatsnew79-main-title = Beskytt dine personlege data frå andre – inkludert oss
 whatsnew79-main-intro = Internett skal vere ein trygg stad for alle. Det er grunnen til at { -brand-name-firefox } ikkje sporar deg rundt om på nettet, og hindrar også at tredjepartar gjer det.
 # Main CTA button
 whatsnew79-primary-cta = Vel { -brand-name-firefox } som standard
