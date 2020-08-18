@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } для { -brand-name-fi
 navigation-watch-videos-and-browse = Смотрите видео и сёрфите по Интернету на вашем { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Браузеры { -brand-name-firefox } ставят вашу приватность на первое место — сейчас и всегда.
 navigation-take-the-passwords-youve = Возьмите пароли, которые вы сохранили в { -brand-name-firefox }, с собой, куда бы вы ни собрались.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } — это целое семейство продуктов, разработанных для умного и безопасного сёрфинга в Интернете.
 navigation-join-firefox = Присоединитесь к сообществу { -brand-name-firefox }
 navigation-access-all-of-firefox = Получите доступ ко всему в { -brand-name-firefox } с помощью одного аккаунта — и получите от каждого продукта больше, когда вы это сделаете.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Загрузить { -brand-name-firefox-focus }
 navigation-android-extensions = Расширения для { -brand-name-android }
 navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Получите максимальную отдачу от { -brand-name-firefox } на любом устройстве.
+# Outdated string
 navigation-learn-how-to-customize = Узнайте, как настроить работу { -brand-name-firefox }.
+navigation-explore-the-immersive = Исследуйте захватывающий Интернет с помощью гарнитуры виртуальной реальности.
+# Outdated string
 navigation-experience-augmented = Испытайте дополненную и виртуальную реальность с { -brand-name-firefox }.
+navigation-get-together = Соберитесь вместе в виртуальной реальности в этом социальном онлайн-пространстве.
+# Outdated string
 navigation-meet-people-in-experimental = Познакомьтесь с людьми в экспериментальных комнатах смешанной реальности с { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Смешанная реальность { -brand-name-mozilla }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } приносит виртуальную и дополненную реальность в открытую сеть.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } добавила в { -brand-name-firefox } дополненную и виртуальную реальность.
 navigation-firefox-built-just-for = { -brand-name-firefox }, созданный специально для разработчиков.
 navigation-preview-the-latest-build = Тестируйте последнюю сборку { -brand-name-firefox } и помогите сделать её ещё лучше.
@@ -64,6 +74,9 @@ navigation-security-tips = Советы по безопасности
 navigation-share-large-files-safely = Безопасно делитесь большими файлами с помощью ссылок, которые «самоуничтожаются».
 navigation-save-quality-content = Сохраняйте интересные статьи отовсюду. Подпитывайте свой ум повсюду.
 navigation-sign-up = Зарегистрироваться
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Быстро. Просто. Приватно.
+navigation-protect-your-entire-device = Защитите всё свое устройство и все приложения. Замаскируйте свое реальное местоположение и подключите до 5 устройств. Подпишитесь сейчас.
+# Outdated string
 navigation-connected-and-protected = Подключены и защищены
 navigation-join = Присоединиться
 navigation-close-join-menu = Закрыть меню «Присоединиться»
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Познакомьтесь с техн�
 navigation-new-features = Новые возможности
 navigation-save-content-absorb-knowledge = Сохраняйте статьи. Получайте знания.
 navigation-same-speed-and-safety = Та же скорость и безопасность, которой вы доверяете, предназначенные для бизнеса.
+# Outdated string
 navigation-add-ons = Дополнения
 navigation-projects = Проекты
 navigation-close-projects-menu = Закрыть меню «Проекты»
 navigation-donate-your-voice-to = Пожертвуйте свой голос, чтобы сделать голосовое распознавание доступным для всех и каждого.
+navigation-machine-learning = Машинное обучение
+# Outdated string
 navigation-web-of-things-iot = Интернет вещей (IoT)
+navigation-help-make-deep-learning = Помогите сделать алгоритмы глубокого обучения доступными для мира с открытым исходным кодом.
+# Outdated string
 navigation-make-devices-connected = Обеспечьте безопасное, надёжное и совместимое подключение устройств к Интернету.
 navigation-developers = Разработчикам
 navigation-close-developers-menu = Закрыть меню «Разработчикам»
