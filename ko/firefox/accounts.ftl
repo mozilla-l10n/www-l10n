@@ -25,7 +25,7 @@ firefox-accounts-join-firefox = { -brand-name-firefox } 가입
 firefox-accounts-enter-your-email-address = 시작하려면 이메일 주소를 입력하세요.
 firefox-accounts-already-have-an-account = 이미 계정이 있으신가요?
 firefox-accounts-sign-in = 로그인
-firefox-accounts-meet-our-family-of = 사생활 보호가 최우선인 우리의 주요 제품군을 만나보세요.
+firefox-accounts-meet-our-family-of = 사생활 보호를 최우선으로 하는 주요 제품을 만나보세요.
 firefox-accounts-firefox-is-technology = { -brand-name-firefox }는 여러분을 위해 대항하는 기술입니다.
 firefox-accounts-get-technology-that = 여러분을 위해 대항하는 기술을 얻으세요.
 firefox-accounts-travel-the-internet = 모든 기기에서 보호 기능과 함께 인터넷을 활용하세요.
@@ -34,14 +34,14 @@ firefox-accounts-get-a-lookout-for = 데이터 유출에 대비하세요.
 firefox-accounts-share-large-files = 안전하게 대용량 파일을 공유하세요.
 firefox-accounts-get-it-all-on-every = 한 운영체제에 갇히지 않고 모든 기기에서 사용하세요.
 firefox-accounts-and-get-it-all-on = 그리고 한 운영체제에 갇히지 않고 모든 기기에서 사용하세요.
-firefox-accounts-get-the-respect-you = 당신은 존중 받을 만 합니다.
+firefox-accounts-get-the-respect-you = 여러분은 존중 받아야 합니다.
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = 우리는 항상 진실만을 전달할 것입니다. 우리가 만들고 행하는 모든 것들은 우리의 <a href="{ $promise }">개인 데이터 약속</a>을 따릅니다:
+firefox-accounts-youll-always-get-the = 저희는 항상 진실만을 전달할 것입니다. 우리가 만들고 행동하는 모든 것들은 <a href="{ $promise }">개인 데이터 약속</a>을 따릅니다:
 # Line breaks for visual formatting.
-firefox-accounts-take-less-keep-it = 줄이세요.<br> 안전하게 지키세요.<br> 비밀이란 없습니다.
-firefox-accounts-get-the-knowledge = 안전한 삶을 위한 지식을 습득하세요.
-firefox-accounts-learn-everything-you = 세계 최고의 전문가로부터 여러분이 알아야 하지만 알지 못하는, 똑똑하고 안전하게 온라인에서 살아가는 방법을 배워보세요.
+firefox-accounts-take-less-keep-it = 정보 오남용을 줄이세요.<br>그리고 안전하게 지키세요.<br>이제 비밀이란 없습니다.
+firefox-accounts-get-the-knowledge = 안전한 온라인 라이프를 위한 방법을 배우세요.
+firefox-accounts-learn-everything-you = 세계 최고의 보안 전문가로부터 여러분이 아직 모르고 있었던 현명하게 안전한 온라인 활동을 하는 방법을 가르쳐 드립니다.
 firefox-accounts-and-be-part-of-protecting = 그리고 미래 세대를 위한 인터넷 보호에 참여하세요.
 firefox-accounts-help-us-build-a-better = 모두를 위해 더 나은 { -brand-name-firefox }를 만드는 데 함께해주세요.
 firefox-accounts-get-into-the-open = 출시 예정 제품을 테스트하여 오픈소스 정신을 실천하세요.
