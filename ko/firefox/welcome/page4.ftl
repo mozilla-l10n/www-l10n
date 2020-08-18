@@ -15,13 +15,13 @@ welcome-page4-send-the-download-link-right = 휴대전화나 이메일로 다운
 welcome-page4-download-firefox-for-your = 스마트폰 및 태블릿용 { -brand-name-firefox } 다운로드
 welcome-page4-firefox-private-safe-browser = { -brand-name-ios } 혹은 { -brand-name-android }에서 “{ -brand-name-firefox }: 빠르고 안전한 사생활 보호 웹 브라우저”
 # "off your trail" is an expression for not being followed around.
-welcome-page4-get-data-trackers-off-your = 데이터 추적으로부터 벗어나세요
+welcome-page4-get-data-trackers-off-your = 데이터 추적에서 벗어나세요
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
-welcome-page4-enhanced-tracking-protection = 향상된 추적 보호 기능이 사용자를 추적하는 <a href="{ $privacy }">2000개 이상의 추적기를 차단합니다</a>.
+welcome-page4-enhanced-tracking-protection = 향상된 추적 보호 기능을 통해 사용자를 추적하는 <a href="{ $privacy }">2천개 이상의 추적기를 차단합니다</a>.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = 흔적을 남기지 마세요
-welcome-page4-automatically-clear-your-history = 사생활 보호 모드에서 자동으로 방문기록과 쿠키를 삭제하세요.
-welcome-page4-take-it-all-with-you = 모든 것을 가져가세요
-welcome-page4-dont-walk-out-the-door-without = 북마크, 탭, 메모 및 비밀번호없이 집 밖으로 나가지 마세요.
+welcome-page4-automatically-clear-your-history = 사생활 보호 창은 자동으로 방문 기록과 쿠키를 삭제합니다.
+welcome-page4-take-it-all-with-you = 어디서나 접속하세요
+welcome-page4-dont-walk-out-the-door-without = 북마크, 탭, 메모 및 비밀번호를 어디서나 사용 가능합니다.
 welcome-page4-why-am-i-seeing-this = 왜 이 화면을 보고 있나요?
