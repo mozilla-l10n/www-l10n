@@ -10,10 +10,13 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } ਡਾਊਨਲੋਡ ਕਰੋ — ਤੇਜ਼, ਪ੍ਰਾਈਵੇਟ ਤੇ ਮੁਫ਼ਤ — { -brand-name-mozilla } ਵਲੋਂ
+firefox-desktop-download-meta-desc = { -brand-name-firefox } ਮੁਫ਼ਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜਿਸ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦੀ ਮਜ਼ਬੂਤੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਲਈ ਸਮਰਪਤ ਗ਼ੈਰ-ਫਾਇਦਾ ਸੰਗਠਨ { -brand-name-mozilla } ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਹੈ। { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ ਹੁਣ ਉਪਲਬਧ ਹੈ।
 firefox-desktop-download-og-title = ਪਹਿਲਾਂ ਹੀ ਸਭ ਤੋਂ ਤੇਜ਼ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-desktop-download-og-desc = ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਸਫ਼ੇ ਡਾਊਨਲੋਡ ਕਰਨੇ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣੀ ਤੇ ਫ਼ੀਚਰਾਂ ਨਾਲ ਭਰਿਆ ਨਵਾਂ { -brand-name-firefox } ਆ ਗਿਆ ਹੈ।
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = ਉਹ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਜ਼ਰੂਰੀ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = ਕੋਈ ਵੀ ਸ਼ੱਕੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀਆਂ ਨਹੀਂ ਨਾ ਹੀ ਇਸ਼ਤਿਹਾਰ ਦੇਣ ਵਾਲਿਆਂ ਲਈ ਚੋਰ ਮੋਰੀਆਂ ਹਨ। ਸਿਰਫ਼ ਬਹੁਤ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਤੁਹਾਨੂੰ ਵੇਚਦਾ ਨਹੀਂ ਹੈ।
 firefox-desktop-download-download-options = ਡਾਊਨਲੋਡ ਚੋਣਾਂ ਤੇ ਹੋਰ ਭਾਸ਼ਾਵਾਂ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ਸਹਿਯੋਗ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -84,13 +87,38 @@ firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</st
 firefox-desktop-download-extensions-for-every = ਹਰ ਦਿਲਚਸਪੀ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ
 firefox-desktop-download-change-up-your = ਆਪਣੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣਾ
 firefox-desktop-download-tweak-your-settings = ਆਪਣੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਢਾਲਣਾ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = <strong>ਗ਼ੈਰ-ਫਾਇਦਾ</strong> ਸੰਗਠਨ ਵਲੋਂ ਤਿਆਰ ਹੈ, ਜਿਸ ਲਈ ਲੋਕ ਪਹਿਲਾਂ ਹਨ
+firefox-desktop-download-challenging-the-status = 1998 ਤੋਂ ਚੁਣੌਤੀ ਬਣ ਕੇ ਤਿਆਰ ਹੈ
 firefox-desktop-download-your-privacy-comes = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਪਹਿਲ ਹੈ
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ
 firefox-desktop-download-screenshots = ਸਕਰੀਨ-ਸ਼ਾਟ
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }{ -brand-name-android }</strong> ਲਈ { -brand-name-firefox-browser } ਲਵੋ
+firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> ਲਈ { -brand-name-firefox-browser } ਲਵੋ
+firefox-desktop-download-download-the-mobile = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ-ਆਪਣ ਸੁਰੱਖਿਆ ਲਈ { -brand-name-firefox } ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ।
+firefox-desktop-download-learn-about-the = ਹੇਠਾਂ { -brand-name-firefox } ਡੈਸਕਟਾਪ ਬਰਾਊਜ਼ਰ ਬਾਰੇ ਸਿੱਖੋ
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = ਸੁਰੱਖਿਆ ਤੋਂ ਖ਼ਬਰਾਂ ਤੇ ਖੇਡਾਂ ਤੱਕ, <a { $attrs }>ਹਰ ਚੀਜ਼ ਲਈ ਇਕਟੈਨਸ਼ਨ</a> ਹੈ। ਜਦੋਂ ਤੱਕ ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਠੀਕ ਚੱਲਦਾ ਹੈ, ਉਦੋਂ ਤੱਕ ਜਿੰਨੀਆਂ ਮਰਜ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ ਜੋੜੋ।
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ। ਹੁਣ { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ।
+firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-lockwise } ਨਾਲ ਪਾਸਵਰਡ ਸੰਭਾਲੋ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ।
+firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ
+firefox-desktop-download-just-download-the-browser = ਸਿਰਫ਼ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = ਲਗਭਗ ਹੋ ਗਿਆ!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = ਹੁਣ { -brand-name-firefox } ਨੂੰ <strong>ਇੰਸਟਾਲ ਕਰਨਾ</strong> ਪੂਰਾ ਕਰੋ।
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = ਹੁਣ ਸਿਰਫ਼ ਡਾਊਨਲੋਡ ਕੀਤੇ ਇੰਸਟਾਲਰ ਨੂੰ <strong>ਚਲਾਓ</strong>।
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵਧਕੇ ਹੈ।
