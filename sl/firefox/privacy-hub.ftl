@@ -21,11 +21,16 @@ firefox-privacy-hub-you-should-be-able-to-decide = Odločitev, kdo vidi vaše os
 firefox-privacy-hub-thats-why-everything-we-make = Zato vse, kar delamo, spoštuje našo zavezo o osebnih podatkih
 firefox-privacy-hub-take-less = Vzemi manj
 firefox-privacy-hub-we-make-a-point-of-knowing = Zavzemamo se, da o vas vemo čim manj
+firefox-privacy-hub-all-tech-companies-collect = Vsa tehnološka podjetja za izboljševanje svojih izdelkov zbirajo podatke. Ni pa potrebe, da to zajema toliko vaših osebnih podatkov. Edini podatki, ki jih želimo mi, so tisti, ki na koncu služijo vam. Vprašamo se: ali to dejansko potrebujemo? Za kaj to potrebujemo? In kdaj lahko to izbrišemo?
 firefox-privacy-hub-keep-it-safe = Ohrani varnost
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Trudimo se, da zaščitimo vaše osebne podatke
 firefox-privacy-hub-data-security-is-complicated = Varnost podatkov je zapletena – vsaj morala bi biti. Zato izvajamo dodatne korake za razvrščanje podatkov, ki jih imamo, ohranjamo pravila za shranjevanje in zaščito posameznih vrst in nikoli ne prenehamo ponavljati svojih procesov. Prednost dajemo vaši zasebnosti. V njo vlagamo. Temu smo zavezani. Druga podjetja celo učimo, kako to storiti.
 firefox-privacy-hub-no-secrets = Brez skrivnosti
 firefox-privacy-hub-youll-always-know-where-you = Naše karte so vedno odprte
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Nobene skrite agende. Naši posli niso odvisni od skrivnega zlorabljanja vašega zaupanja. Naše <a href="{ $privacy }">obvestilo o zasebnosti</a> je dejansko berljivo. Kdorkoli se lahko udeleži naših <a href="{ $meetings }">tedenskih sestankov</a>. Naša koda je odprta za vsakogar, ki se želi poglobiti v katerikoli podatek, ki ga zbiramo. In prav tako smo odprti mi.
 firefox-privacy-hub-why-trust-firefox = Zakaj zaupati { -brand-name-firefox }u?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -44,6 +49,7 @@ firefox-privacy-hub-see-what-firefox-has-blocked = Poglejte, kaj je { -brand-nam
 firefox-privacy-hub-get-enhanced-tracking-protection = Uporabite izboljšano zaščito pred sledenjem
 firefox-privacy-hub-download-the-firefox-browser = Prenesite brskalnik { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Posodobite svoj brskalnik { -brand-name-firefox }
+firefox-privacy-hub-always-in-your-control = Vedno na vaših vajetih
 firefox-privacy-hub-if-you-have-a-firefox-account = Če imate { -brand-name-firefox-account }, si lahko ogledate tudi, kako vam pomagamo zaščititi vaše osebne podatke in gesla.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Ko v { -brand-name-firefox-monitor } vnesete svoj e-poštni naslov, ga pozabimo takoj, ko preverimo, ali se ujema z znanimi krajami podatkov – razen če nas pooblastite, da nadaljujemo s spremljanjem novih kraj vaših osebnih podatkov.
