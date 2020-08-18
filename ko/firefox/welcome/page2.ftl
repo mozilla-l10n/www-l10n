@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } - 뉴스, 동영상, 이야기 그리고 그 이상을 저장하세요
-welcome-page2-your-time-online-is-worth = 온라인에서의 시간은 소중합니다
+welcome-page2-your-time-online-is-worth = 온라인에서 여러분의 시간은 소중합니다
 welcome-page2-discover-and-save-stories = { -brand-name-pocket }에서 발견하고 이야기를 저장하세요 — 그리고 언제든 시간이 날 때 돌아와 읽어보세요.
 welcome-page2-activate-pocket = { -brand-name-pocket } 활성화하기
 welcome-page2-pocket = { -brand-name-pocket }

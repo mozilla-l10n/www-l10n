@@ -44,4 +44,4 @@ features-index-firefox-vs = { -brand-name-firefox } 와 다른 브라우저들�
 features-index-stack-up = { -brand-name-firefox }가 다른 인기 있는 브라우저와 차이점을 비교해 보세요.
 features-index-compare-browsers = 브라우저 비교
 features-index-see-themes = 주요 인기 테마보기
-features-index-download-latest = 가장 최신 { -brand-name-firefox } 다운로드
+features-index-download-latest = { -brand-name-firefox } 최신 버전 다운로드
