@@ -91,7 +91,14 @@ firefox-desktop-download-tweak-your-settings = ਆਪਣੀਆਂ ਸੈਟਿ�
 firefox-desktop-download-backed-by-the = <strong>ਗ਼ੈਰ-ਫਾਇਦਾ</strong> ਸੰਗਠਨ ਵਲੋਂ ਤਿਆਰ ਹੈ, ਜਿਸ ਲਈ ਲੋਕ ਪਹਿਲਾਂ ਹਨ
 firefox-desktop-download-challenging-the-status = 1998 ਤੋਂ ਚੁਣੌਤੀ ਬਣ ਕੇ ਤਿਆਰ ਹੈ
 firefox-desktop-download-your-privacy-comes = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਪਹਿਲ ਹੈ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = ਆਪਣੇ ਸਾਰੇ ਮਨਪਸੰਦ ਬਰਾਊਜ਼ਰ ਫ਼ੀਚਰਾਂ ਨੂੰ ਪਾਓ— ਅਤੇ ਨਵੇਂ ਵੀ <strong>ਲੱਭੋ</strong>।
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = ਤੁਹਾਡੇ ਸਾਰੇ ਮਨਪਸੰਦ { -brand-name-google } ਟੂਲ (ਜਿਵੇਂ ਕਿ ਜੀਮੇਲ ਤੇ ਡੌਕਸ) { -brand-name-firefox-browser } ਨਾਲ ਬੜੇ ਆਰਾਮ ਨਾਲ ਚੱਲਦੇ ਹਨ।
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = { -brand-name-facebook } (ਅਤੇ { -brand-name-instagram }) ਨੂੰ ਵੈੱਬ ਉੱਤੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਣ ਲਈ <a { $attrs } >ਇਹ ਬਰਾਊਜ਼ਰ ਇਕਟੈਨਸ਼ਨ ਡਾਊਨਲੋਡ</a>  ਕਰੋ।
 firefox-desktop-download-sync-your-devices = ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ
 firefox-desktop-download-screenshots = ਸਕਰੀਨ-ਸ਼ਾਟ
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -121,4 +128,17 @@ firefox-desktop-download-almost-there = ਲਗਭਗ ਹੋ ਗਿਆ!
 firefox-desktop-download-now-else = ਹੁਣ { -brand-name-firefox } ਨੂੰ <strong>ਇੰਸਟਾਲ ਕਰਨਾ</strong> ਪੂਰਾ ਕਰੋ।
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = ਹੁਣ ਸਿਰਫ਼ ਡਾਊਨਲੋਡ ਕੀਤੇ ਇੰਸਟਾਲਰ ਨੂੰ <strong>ਚਲਾਓ</strong>।
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = ਹੁਣ ਡਾਊਨਲੋਡ ਕੀਤੀ ਫ਼ਾਈਲ ਨੂੰ <strong>ਖੋਲ੍ਹੋ</strong>।
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = ਸਮੱਸਿਆ ਹੈ? <a { $attrs }>ਆਪਣੀ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਮਦਦ ਲਵੋ</a>।
+firefox-desktop-download-in-another-language = ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਹੋਰ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ।
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ, ਪੁਰਾਣਾ ਹੋਇਆ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ <a href="{ $url }">{ -brand-name-firefox } ਵਲੋਂ ਸਹਾਇਕ ਨਹੀਂ ਰਿਹਾ ਹੈ</a>।
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਆਪਣੇ-ਆਪ ਸ਼ੁਰੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਨਹੀਂ ਹੋਇਆ? <a id="{ $id }" href="{ $fallback_url }">ਮੁੜ ਡਾਊਨਲੋਡ ਕਰਕੇ ਵੇਖੋ।</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵਧਕੇ ਹੈ।
