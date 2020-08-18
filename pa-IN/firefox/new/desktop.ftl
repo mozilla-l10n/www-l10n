@@ -103,6 +103,7 @@ firefox-desktop-download-sync-your-devices = ਆਪਣੇ ਡਿਵਾਈਸਾ�
 firefox-desktop-download-screenshots = ਸਕਰੀਨ-ਸ਼ਾਟ
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ (ETP)
+firefox-desktop-download-from-watching-a = ਵੈੱਬ ਸਿਖਲਾਈ ਵੇਖਣ ਤੋਂ ਲੈ ਕੇ ਤੁਹਾਡੀ ਮਨਪਸੰਦ ਟੀਮ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖਣ ਨਾਲ ਕਈ ਕੰਮ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੀ ਵੀਡੀਓ ਤੁਹਾਡੇ ਨਾਲ ਨਾਲ ਚੱਲਦੀ ਹੈ।
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }{ -brand-name-android }</strong> ਲਈ { -brand-name-firefox-browser } ਲਵੋ
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> ਲਈ { -brand-name-firefox-browser } ਲਵੋ
@@ -112,6 +113,15 @@ firefox-desktop-download-learn-about-the = ਹੇਠਾਂ { -brand-name-firefox
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = ਸੁਰੱਖਿਆ ਤੋਂ ਖ਼ਬਰਾਂ ਤੇ ਖੇਡਾਂ ਤੱਕ, <a { $attrs }>ਹਰ ਚੀਜ਼ ਲਈ ਇਕਟੈਨਸ਼ਨ</a> ਹੈ। ਜਦੋਂ ਤੱਕ ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਠੀਕ ਚੱਲਦਾ ਹੈ, ਉਦੋਂ ਤੱਕ ਜਿੰਨੀਆਂ ਮਰਜ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ ਜੋੜੋ।
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਉਪਲਬਧ ਹੈ; ਆਪਣੀਆਂ ਟੈਬਾਂ, ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। ਤੁਹਾਨੂੰ ਬੱਸ <a { $attrs }>{ -brand-name-firefox } ਖਾਤਾ</a> ਚਾਹੀਦਾ ਹੈ।
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਬਣੇ ਸਾਡੇ <a { $attrs }>ਸਕਰੀਨਸ਼ਾਟ</a> ਟੂਲ ਨਾਲ ਕਿਸੇ ਵੀ ਆਨਲਾਈਨ ਚੀਜ਼ ਦੇ ਵੱਧ ਰੈਜ਼ੋਲੂਸ਼ਨ ਦੀ ਤਸਵੀਰ ਲਵੋ
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪਣੇ-ਆਪ ਹੀ <a { $attrs }>ਤੀਜੀ ਧਿਰ ਦੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ</a>, ਜੋ ਕਿ ਤੁਹਾਡੀ ਵੈੱਬ ਸਰਗਰਮੀ ਨੂੰ ਇਕੱਤਰ ਕਰਕੇ ਵੇਚਦੇ ਹਨ।
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
