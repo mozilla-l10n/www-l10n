@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page3-get-the-free-account-that = 개인정보를 보호하는 무료 계정을 생성하세요. { -brand-name-firefox }와 함께하세요.
-welcome-page3-no-account-required-but-you = 계정을 만드실 필요는 없지만 꼭 필요한 기능을 제공합니다.
+welcome-page3-no-account-required-but-you = 계정을 만드실 필요는 없지만, 원하신다면 꼭 필요한 기능만 제공합니다.
 welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } 브라우저는 최소한의 정보만 수집하며 이메일 주소조차 묻지 않습니다. 그러나 { -brand-name-firefox-account }를 만들면 더 많은 온라인 활동에서 개인정보를 보호할 수 있습니다.
 welcome-page3-sign-in = 로그인
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }

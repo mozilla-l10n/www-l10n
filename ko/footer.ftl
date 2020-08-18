@@ -26,7 +26,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } 용 { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } 용 { -brand-name-beta }
-footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>의 비영리 부모인 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>을 방문하세요.
+footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>의 비영리 재단인 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>을 방문하세요.
 footer-portions-of-this-content = ©1998–{ $current_year }. 콘텐츠의 일부는 개벌 mozilla.org 공헌자에게 저작권이 있습니다. 콘텐츠는 <a rel="license" href="{ $url }">{ -brand-name-creative-commons } 라이센스</a>에 의해 사용할 수 있습니다.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = 회사

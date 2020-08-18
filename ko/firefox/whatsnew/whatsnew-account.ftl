@@ -8,7 +8,7 @@
 
 ## Required
 
-whatsnew-account-main-headline = 계정이 필요하지 않습니다. 하지만 원하게 될 것입니다.
+whatsnew-account-main-headline = 계정을 만드실 필요는 없지만, 원하신다면 꼭 필요한 기능만 제공합니다.
 whatsnew-account-main-lead-in = { -brand-name-firefox } 브라우저는 최소한의 정보만 수집하며 이메일 주소조차 묻지 않습니다. 그러나 { -brand-name-firefox } 계정을 만들면 온라인 활동에서 개인정보를 더 보호할 수 있습니다.
 whatsnew-account-main-button = 로그인
 
