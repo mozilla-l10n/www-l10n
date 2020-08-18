@@ -44,13 +44,13 @@ firefox-accounts-get-the-knowledge = 안전한 온라인 라이프를 위한 방
 firefox-accounts-learn-everything-you = 세계 최고의 보안 전문가로부터 여러분이 아직 모르고 있었던 현명하게 안전한 온라인 활동을 하는 방법을 가르쳐 드립니다.
 firefox-accounts-and-be-part-of-protecting = 그리고 미래 세대를 위한 인터넷 보호에 참여하세요.
 firefox-accounts-help-us-build-a-better = 모두를 위해 더 나은 { -brand-name-firefox }를 만드는 데 함께해주세요.
-firefox-accounts-get-into-the-open = 출시 예정 제품을 테스트하여 오픈소스 정신을 실천하세요.
+firefox-accounts-get-into-the-open = 저희가 만드는 출시 예정 제품을 테스트함으로서 오픈소스 정신을 실천해 주세요.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
-firefox-accounts-help-us-keep-big-tech = 큰 회사를 지켜보는데 도움을 주세요.
+firefox-accounts-help-us-keep-big-tech = 대형 인터넷 기업을 견제하는데 도움을 주세요.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = 더 건강한 인터넷을 위해 노력하는 전 세계의 커뮤니티를 지원합니다. 여러분도 동참하세요.
+firefox-accounts-we-support-communities = 우리는 더 건강한 인터넷을 위해 노력하는 전 세계의 커뮤니티를 지원합니다. 여러분도 함께 동참해 주세요.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }

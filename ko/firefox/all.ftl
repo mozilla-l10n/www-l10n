@@ -12,7 +12,7 @@ firefox-all-need-help = 도움이 필요하신가요?
 firefox-all-which-browser-would = 어떤 웹 브라우저를 다운로드 하시겠습니까?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 도움말
-firefox-all-you-are-about-to-download = 다운로드하려고합니다:
+firefox-all-you-are-about-to-download = 현재 선택한 버전:
 firefox-all-browser = 브라우저:
 firefox-all-platform = 플랫폼:
 firefox-all-language = 언어:
@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = 32비트 설치 프로그램
 firefox-all-download-the-firefox = { -brand-name-firefox-browser } 다운로드 - 영어 포함 90개 이상의 언어별 제공
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = 모든 사람은 인터넷에 접속할 자격이 있습니다. 언어는 장벽이 되어서는 안됩니다. 이것이 바로 전 세계 자원 봉사자들의 도움으로 { -brand-name-firefox-browser }가 90 개 이상의 언어 버전을 제공하는 이유입니다.
-firefox-all-choose-which-firefox = 언어별 { -brand-name-firefox-browser } 다운로드 선택하기
+firefox-all-choose-which-firefox = { -brand-name-firefox-browser } 언어별 버전 다운로드
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } 개인정보처리방침
 firefox-all-learn-about-firefox = { -brand-name-firefox } 브라우저에 대해 알아보기
 firefox-all-the-standard-firefox = { -brand-name-firefox } 일반 브라우저 — 빠르고 안전합니다. 어떤 { -brand-name-firefox }를 선택해야 할지 잘 모르시는 경우 추천합니다.
@@ -45,7 +45,7 @@ firefox-all-choose-a-32-bit-installer = 32 비트 프로세서가 있는 컴퓨�
 firefox-all-download-product-for = { $product_label } 다운로드 - { $locale } / { $platform }
 firefox-all-msi-installers = MSI 설치 프로그램
 firefox-all-which-version = 어떤 버전을 원하십니까?
-firefox-all-select-your-preferred-installer = 선호하는 설치 프로그램 선택
+firefox-all-select-your-preferred-installer = 원하는 운영 체제 선택
 firefox-all-select-your-preferred-language = 원하는 언어 선택
 firefox-all-learn-about-installers = 설치 프로그램에 대해 알아보기
 firefox-all-product-firefox = { -brand-name-firefox }
