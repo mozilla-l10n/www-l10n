@@ -23,5 +23,5 @@ welcome-page8-share-large-files = 자동으로 만료되는 링크를 사용하�
 welcome-page8-try-send = { -brand-name-send } 사용해 보기
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = { -brand-name-facebook }을 통해 자주 만나지 못하는 사람들과 연락을 유지하면서도, 온라인에서 여러분을 추적하지 못하게 할 수 있습니다.
-welcome-page8-add-facebook-container = { -brand-name-facebook-container } 추가
+welcome-page8-add-facebook-container = { -brand-name-facebook-container } 설치하기
 welcome-page8-why-am-i = 왜 이 화면이 나왔나요?

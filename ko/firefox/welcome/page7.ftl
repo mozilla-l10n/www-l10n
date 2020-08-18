@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = { -brand-name-facebook }의 사용자 추적을 어렵게 만들기
 page7-its-okay-to-like-facebook = { -brand-name-facebook }을 좋아해도 됩니다
-page7-if-you-still-kinda-like-facebook = { -brand-name-facebook }을 좋아하지만 신뢰하기 어렵다면, { -brand-name-firefox }의 { -brand-name-facebook-container } 확장 기능을 통해 온라인 상 사용자 추적을 어렵게 할 수 있습니다.
+page7-if-you-still-kinda-like-facebook = { -brand-name-facebook }을 좋아하지만 신뢰하기 어렵다면, { -brand-name-firefox }의 { -brand-name-facebook-container } 확장 기능을 통해 사용자 추적을 어렵게 할 수 있습니다.
 page7-get-facebook-container = { -brand-name-facebook-container } 설치하기
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = 인스타도 지원
