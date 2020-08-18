@@ -16,7 +16,7 @@ firefox-accounts-securely-sync-your = 모든 기기에서 비밀번호, 북마�
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = 개인 정보를 보호할 방법이 있습니다. <span>{ -brand-name-firefox }와 함께 하세요.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
-firefox-accounts-take-your-stand-against = 사용자를 제품으로 만드는 산업에 대항하십시오.
+firefox-accounts-take-your-stand-against = 사용자를 하나의 제품으로 생각하는 업계에 대항합니다.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = { -brand-name-firefox }에 <br>로그인되었습니다. <br><span>이제 { -brand-name-firefox-monitor }를 사용해보세요.</span>
 firefox-accounts-see-if-youve-been = 온라인 데이터 유출 사건에 포함되었는지 확인해 보세요.

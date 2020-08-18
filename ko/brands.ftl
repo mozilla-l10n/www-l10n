@@ -40,7 +40,7 @@
 
 -brand-name-beta = Beta
 -brand-name-developer-edition = Developer Edition
--brand-name-enterprise = Enterprise
+-brand-name-enterprise = 기업용
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-lite = Lite
