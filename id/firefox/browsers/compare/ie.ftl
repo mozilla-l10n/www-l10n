@@ -8,9 +8,9 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie }: Manakah peramban yang lebih baik untuk Anda?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Bandingkan { -brand-name-ie } dengan Peramban Firefox untuk mengetahui peramban mana yang lebih baik untuk Anda.
+compare-ie-compare-internet-explorer-to = Bandingkan { -brand-name-ie } dengan { -brand-name-firefox-browser } untuk mengetahui peramban mana yang lebih baik untuk Anda.
 # Main title
-compare-ie-comparing-firefox-browser-with = Membandingkan Peramban Firefox dengan { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Meskipun { -brand-name-ie } { -brand-name-microsoft } masih dipasang pada sebagian besar PC berbasis { -brand-name-windows }, jelas { -brand-name-microsoft } akan memilih Anda untuk menggunakan browser { -brand-name-edge } mereka, sebagai peramban baku ketika Anda membeli.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } menghentikan merek { -brand-name-ie } beberapa tahun yang lalu, karena lebih memilih peramban { -brand-name-edge } terbaru untuk { -brand-name-windows } 10. Namun, lambannya adaptasi { -brand-name-edge } membuat ruang untuk { -brand-name-ie } tetap hidup, terutama karena alasan kompatibilitas di dunia bisnis.
 compare-ie-here-well-compare-our-firefox = Di sini kami akan membandingkan Peramban { -brand-name-firefox } kami dengan { -brand-name-ie } dalam hal keamanan, utilitas, dan portabilitas. Kami akan membantu Anda memahami perbedaan antara bagaimana peramban modern seperti { -brand-name-firefox } yang mematuhi standar web dibandingkan dengan peramban yang mungkin Anda gunakan untuk tujuan bisnis atau sulit lepas dari kebiasaan lama.

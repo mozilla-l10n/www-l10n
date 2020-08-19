@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Intip fitur peramban { -brand-name-firefox } t
 firefox-all-test-your-sites-against = Uji situs Anda terhadap fitur peramban { -brand-name-firefox } yang akan segera dirilis dengan DevTools yang kuat dan fleksibel yang diaktifkan secara bawaan.
 firefox-all-count-on-stability-and = Andalkan stabilitas dan kemudahan penggunaan dengan peramban { -brand-name-firefox } yang diciptakan untuk perusahaan.
 firefox-all-windows-installers-for = Penginstal Windows untuk TI perusahaan yang menyederhanakan konfigurasi, penyebaran, dan pengelolaan { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = Pemasang ARM64/AArch64
+firefox-all-arm64-installers-optimized = Pemasang ARM64/AArch64 dioptimalkan untuk PCs { -brand-name-windows } yang didukung Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Pilih penginstal 32-bit untuk komputer dengan prosesor 32-bit — atau untuk komputer lama atau lemah. <a href="{ $url }">Jika ragu</a> memilih pemasang 64-bit atau 32-bit, kami sarankan Anda memilih yang 32-bit.
