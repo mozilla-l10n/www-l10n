@@ -54,7 +54,6 @@ firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } 브�
 firefox-privacy-hub-update-your-firefox-browser = { -brand-name-firefox } 브라우저 업데이트
 firefox-privacy-hub-invisible-to-the-top-trackers = 다수의 광고 추적자 차단
 firefox-privacy-hub-meet-four-of-the-most-common = 일반적인 4가지 종류의 온라인 사용자 추적기를 살펴보세요.
-firefox-privacy-hub-always-in-your-control = 항상 여러분의 손으로 제어하기
 firefox-privacy-hub-want-to-customize-what = 차단 항목을 직접 지정하고 싶으십니까? 한 번만 클릭해 설정하면 됩니다.
 firefox-privacy-hub-protection-beyond-tracking = 추적으로부터 차단하기
 firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account }가 있는 경우, 개인 정보와 비밀번호를 보호하는 방법도 확인할 수 있습니다.
