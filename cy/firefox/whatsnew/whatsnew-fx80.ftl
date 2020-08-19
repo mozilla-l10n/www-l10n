@@ -17,5 +17,5 @@ whatsnew80-password-fatigue = Mae blinder cyfrineiriau'n beth real
 whatsnew80-the-average-person = Mae gan y person cyffredin 130 o gyfrifon ar-lein. Mae { -brand-name-firefox } symudol yn cofio ac yn storio'ch cyfrineiriau yn ddiogel ar draws dyfeisiau wedi'u cydweddu, fel bod modd i chi fewngofnodi gyda dim ond un clic.
 whatsnew80-privacy-you-never = Preifatrwydd nad oes raid i chi byth ei ystyried
 whatsnew80-firefox-for-mobile = Mae { -brand-name-firefox } symudol yn rhwystro'r rhan fwyafrif o dracwyr  hysbysebion ar-lein yn awtomatig felly does angen i chi fynd i'ch gosodiadau diogelwch.
-whatsnew80-new-firefox-android = { -Brand-name-firefox } newydd ar gyfer { -brand-name-android }
+whatsnew80-new-firefox-android = { -brand-name-firefox } newydd ar gyfer { -brand-name-android }
 whatsnew80-our-latest-version = Mae ein fersiwn ddiweddaraf o { -brand-name-firefox } yn cynnwys llwytho tudalen cyflym iawn a dyluniad newydd glân sy'n ei gwneud hi'n haws cyflawni mwy o bethau, yn gynt.
