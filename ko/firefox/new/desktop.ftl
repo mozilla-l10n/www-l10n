@@ -107,7 +107,7 @@ firefox-desktop-download-download-this-browser = { -brand-name-facebook } (및 {
 firefox-desktop-download-sync-your-devices = 디바이스간 동기화
 firefox-desktop-download-screenshots = 스크린샷
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
-firefox-desktop-download-enhanced-tracking-protection = 향상된 추적 방지 기능 (ETP)
+firefox-desktop-download-enhanced-tracking-protection = 향상된 추적 방지 기능
 firefox-desktop-download-from-watching-a = 업무를 하면서도 강연을 보거나, 좋아하는 스포츠 경기 동영상을 함께 볼 수 있습니다.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong> { -brand-name-android } </strong> 용 { -brand-name-firefox-browser } 다운로드
