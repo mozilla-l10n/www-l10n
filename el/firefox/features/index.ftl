@@ -9,8 +9,10 @@
 features-index-firefox-features = Χαρακτηριστικά { -brand-name-firefox }
 features-index-see-all = Προβολή όλων των επεκτάσεων
 features-index-get-an-account = Αποκτήστε ένα { -brand-name-firefox-account }
+features-index-from-the-company = Από μια εταιρεία που βάζει τους ανθρώπους πριν από το κέρδος
 features-index-open-source-minds = Ανοικτός κώδικας. Ανοικτά μυαλά.
 features-index-see-what-makes-us-different = Δείτε τι μας διαφοροποιεί
+features-index-by-non-profit-mozilla = Από τη μη κερδοσκοπική { -brand-name-mozilla }
 features-index-read-mozillas-mission = Διαβάστε την αποστολή της { -brand-name-mozilla }
 features-index-choose-independence = Επιλέξτε την ανεξαρτησία
 features-index-read-our-privacy-policy = Διαβάστε την πολιτική απορρήτου μας
