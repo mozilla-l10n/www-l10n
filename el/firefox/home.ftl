@@ -8,6 +8,7 @@
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Προστατευτείτε στο διαδίκτυο με προϊόντα που σέβονται το απόρρητο
 firefox-home-the-browser-is-just = Το πρόγραμμα περιήγησης είναι μόνο η αρχή
 firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια των προϊόντων μας
+firefox-home-get-trackers-off = Απομακρύνετε 2.000+ ιχνηλάτες - ακόμη και το { -brand-name-facebook }
 firefox-home-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Αποκτήστε το <strong>σεβασμό</strong> που σας αξίζει

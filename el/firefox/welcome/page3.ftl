@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
+welcome-page3-sign-in = Σύνδεση
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
 welcome-page3-facebook-container = { -brand-name-facebook-container }

@@ -11,4 +11,5 @@ welcome-page5-scan-this-qr-code = Σαρώστε αυτό τον κωδικό QR
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
 welcome-page5-sync-up-safely = Συγχρονισμός με ασφάλεια
 welcome-page5-with-256-bit-encryption-your = Με κρυπτογράφηση 256-bit, οι κωδικοί πρόσβασής σας ταξιδεύουν πάντα με ασφάλεια στις συσκευές σας.
+welcome-page5-help-during-a-breach = Βοήθεια κατά τη διάρκεια μιας παραβίασης
 welcome-page5-why-am-i-seeing-this = Γιατί το βλέπω αυτό;
