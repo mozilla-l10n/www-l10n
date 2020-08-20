@@ -10,7 +10,7 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs. { -brand-n
 # HTML page description
 compare-opera-compare-opera-to-the-firefox = Bandingkan { -brand-name-opera } dengan { -brand-name-firefox-browser } untuk mengetahui peramban terbaik untuk Anda.
 # Main title
-compare-opera-comparing-firefox-browser = Membandingkan Peramban Firefox dengan { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks-fallback = Kebijakan privasi { -brand-name-opera } tidak memiliki kekhususan dalam penjelasannya mengenai jenis informasi yang dikumpulkan dan dikatakan di beberapa bagian bahwa mereka mengumpulkan nama pemegang akun, alamat IP dan istilah pencarian. Apa yang tampaknya membingungkan dan meresahkan adalah bagian tentang transfer data Internasional; kapan, seberapa sering, dan mengapa mereka perlu mentransfer data Anda secara internasional tidak dijelaskan.
 compare-opera-the-firefox-browser-and-opera = Peramban { -brand-name-firefox } dan { -brand-name-opera } adalah dua peramban paling awal yang masih sering merilis pembaruan. Meskipun { -brand-name-opera } belum mencapai tingkat adopsi pengguna yang sama seperti { -brand-name-firefox } atau { -brand-name-google } { -brand-name-chrome }, { -brand-name-opera } mempertahankan basis yang relatif stabil dan loyal selama periode waktu yang berkelanjutan. Dalam ulasan ini, kami akan membandingkan peramban { -brand-name-opera } dengan { -brand-name-firefox } kami dalam hal keamanan dan privasi, utilitas, dan portabilitas untuk membantu Anda memilih peramban mana yang paling cocok untuk Anda.
 # Variables:
