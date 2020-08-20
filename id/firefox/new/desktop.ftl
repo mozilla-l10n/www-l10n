@@ -15,6 +15,29 @@ firefox-desktop-download-og-title = Unduh { -brand-name-firefox } tercepat yang 
 firefox-desktop-download-og-desc = Memuat laman lebih cepat, penggunaan memori lebih sedikit dan disertai dengan berbagai fitur, { -brand-name-firefox } terbaru telah hadir.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa yang penting
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang buruk ataupun pintu belakang untuk pengiklan. Hanya peramban  secepat kilat yang tidak menjual Anda.
+firefox-desktop-download-download-options = Opsi unduhan dan bahasa lain
+firefox-desktop-download-browser-support = Dukungan { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Lakukan apa yang anda lakukan saat daring.<br> { -brand-name-firefox-browser } <strong>tidak akan</strong> memantaunya.
+firefox-desktop-download-how-firefox-compares = Bagaimana { -brand-name-firefox } dibandingkan dengan peramban lain
+firefox-desktop-download-get-all-the-speed = Dapatkan semua kecepatan dan alat tanpa adanya pelanggaran privasi. { -brand-name-firefox-browser } mengumpulkan sangat sedikit data mengenai Anda, kami bahkan tidak memerlukan surel Anda untuk mengunduh. Itu karena tidak seperti peramban lain, kami tidak memiliki kepentingan finansial untuk menguntit Anda di web.
+firefox-desktop-download-how-we-compare = Bagaimana kami dibandingkan dengan peramban lain
+firefox-desktop-download-compare-firefox-to = Bandingkan { -brand-name-firefox } dengan:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Ya
+firefox-desktop-download-no = Tidak
+firefox-desktop-download-blocks-third-party = Blokir pelacak kuki pihak ketiga
+firefox-desktop-download-autoplay-blocking = Pemblokiran pemutar otomatis
+firefox-desktop-download-blocks-social-trackers = Blokir pelacak sosial
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Ketersediaan OS
+firefox-desktop-download-in-browser-screenshot = Alat penangkap layar dalam peramban
+firefox-desktop-download-master-password = Sandi utama
+firefox-desktop-download-we-block-the-ad = Kami memblokir pelacak iklan. Anda menjelajahi internet lebih cepat.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Didukung oleh lembaga <strong>nirlaba</strong> yang lebih mengutamakan orang-orang
 
