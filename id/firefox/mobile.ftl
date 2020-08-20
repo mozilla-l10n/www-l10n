@@ -28,6 +28,7 @@ firefox-mobile-discover-products-that-keep = Temukan produk yang membuat Anda te
 firefox-mobile-sync-your-history-passwords = Sinkronkan riwayat, kata sandi, dan markah Anda. Kirim tab di semua perangkat Anda.
 firefox-mobile-android-only = Hanya { -brand-name-android }
 firefox-mobile-make-android-your-own = Jadikan { -brand-name-android } milik Anda sendiri
+firefox-mobile-customize-your-firefox-mobile-truncated = Ubahsuaikan peramban seluler { -brand-name-firefox } Anda dengan ekstensi.
 firefox-mobile-find-it-fast-with-a-smart = Temukan dengan cepat menggunakan bilah pencarian pintar
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } mengantisipasi kebutuhan Anda dengan saran pencarian cerdas dan akses cepat ke situs yang paling sering Anda kunjungi.
 firefox-mobile-the-privacy-you-deserve-the = Privasi yang layak Anda dapatkan. Kecepatan yang Anda butuhkan.

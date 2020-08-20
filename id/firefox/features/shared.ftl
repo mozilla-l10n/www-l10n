@@ -16,3 +16,4 @@ features-shared-password-manager = Pengelola sandi
 features-shared-customize-your-browser = Ubahsuaikan peramban Anda
 features-shared-sync-between-devices = Sinkronisasi antar perangkat
 features-shared-better-bookmarks = Markah yang lebih baik
+brand-name-firefox = { -brand-name-firefox }
