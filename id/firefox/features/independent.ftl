@@ -14,7 +14,7 @@ features-independent-firefox-is-independent = { -brand-name-firefox } adalah ind
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Tanpa syarat atau imbalan
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } dibuat oleh lembaga nonprofit. Artinya, kami dapat melakukan hal-hal yang tidak dapat dilakukan orang lain, seperti membuat produk dan fitur baru tanpa agenda tersembunyi. Kami memperjuangkan hak privasi Anda dengan alat seperti Penjelajahan Pribadi dengan Perlindungan Pelacakan, yang melebihi apa yang { -brand-name-google } { -brand-name-chrome } dan { -brand-name-microsoft } { -brand-name-edge } tawarkan.
+features-independent-firefox-is-built-by = { -brand-name-firefox } dibuat oleh lembaga nirlaba. Artinya, kami dapat melakukan hal-hal yang tidak dapat dilakukan orang lain, seperti membuat produk dan fitur baru tanpa agenda tersembunyi. Kami memperjuangkan hak privasi Anda dengan alat seperti Penjelajahan Pribadi dengan Perlindungan Pelacakan, yang melebihi apa yang { -brand-name-google } { -brand-name-chrome } dan { -brand-name-microsoft } { -brand-name-edge } tawarkan.
 features-independent-what-you-see-is-what = Apa yang Anda lihat adalah apa yang Anda dapatkan
 features-independent-we-believe-the-internet = Kami percaya bahwa Internet adalah untuk semua orang, bukan untuk keuntungan. Tidak seperti perusahaan lain, kami tidak menjual akses ke data Anda. <em>Andalah</em> yang mengendalikan siapa yang dapat melihat riwayat pencarian dan penjelajahan Anda. Pilihan — itulah Internet yang sehat!
 features-independent-a-browser-on-a-mission = Peramban dengan misi
