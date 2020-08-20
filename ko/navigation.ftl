@@ -73,7 +73,7 @@ navigation-see-breaches = 위반 사항 보기
 navigation-security-tips = 보안 팁
 navigation-share-large-files-safely = 링크 만료 기능을 통해 대용량 파일을 안전하게 공유합니다.
 navigation-save-quality-content = 어디에서나 양질의 콘텐츠를 저장합니다. 어디에서나 정보를 접근하세요.
-navigation-sign-up = 회원가입
+navigation-sign-up = 가입하기
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn } : 빠르고 단순한 사생활 보호
 navigation-protect-your-entire-device = 모든 기기 응용 프로그램을 보호하세요. 실제 접속 위치를 가리고 최대 5개의 장치를 연결합니다. 지금 등록하세요.
 # Outdated string
