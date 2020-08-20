@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } pentru { -brand-name-firefox } | Împiedică { -brand-name-facebook } să vadă site-urile pe care le vizitezi.
-facebook-container-millions-of-people-around = Milioane de oameni din lumea întreagă au încredere în browserele { -brand-name-firefox } pentru { -brand-name-android }, { -brand-name-ios } și desktop. Rapid. Privat. Descarcă acum!
+facebook-container-millions-of-people-around = Milioane de oameni din lumea întreagă au încredere în browserele { -brand-name-firefox } pentru { -brand-name-android }, { -brand-name-ios } și calculator. Rapid. Privat. Descarcă acum!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } la cutie. Păstrează restul vieții tale private.
 facebook-container-get-the-facebook-container = Instalează extensia { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Descarcă { -brand-name-firefox } și instalează extensia { -brand-name-facebook-container }

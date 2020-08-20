@@ -25,7 +25,7 @@ set-as-default-thanks-download-the-app = Descarcă aplicația
 set-as-default-thanks-join-firefox = Folosește { -brand-name-firefox }
 set-as-default-thanks-sign-up-for-a-free-account = Înregistrează-te pentru un cont gratuit și sincronizează-ți toate parolele, istoricul de navigare și preferințele pe dispozitivele tale.
 # Account here refers to a Firefox Account
-set-as-default-thanks-get-an-account = Creează-ți un cont
+set-as-default-thanks-get-an-account = Fă-ți un cont
 set-as-default-thanks-having-trouble = Ai probleme?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android

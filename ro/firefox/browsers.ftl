@@ -11,7 +11,7 @@ firefox-browsers-get-the-browsers-that-put = Folosește browsere care îți pun 
 firefox-browsers-get-the-privacy-you-deserve = Obține confidențialitatea pe care o meriți. Protecția amplificată împotriva urmăririi este automată în fiecare browser { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Folosește <strong>browsere</strong> care îți pun confidențialitatea pe primul loc — și așa au făcut dintotdeauna
-firefox-browsers-desktop = Desktop
+firefox-browsers-desktop = Calculator
 firefox-browsers-seriously-private-browsing = Navigare privată serios. { -brand-name-firefox } blochează automat peste 2000 de elemente de urmărire online împiedicându-le să colecteze informații despre ce faci online.
 firefox-browsers-download-for-desktop = Descarcă pentru calculator
 firefox-browsers-mobile = Dispozitive mobile

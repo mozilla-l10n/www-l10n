@@ -9,5 +9,5 @@ fxa-form-enter-your-email = <strong>Introdu-ți adresa de e-mail</strong> pentru
 fxa-form-by-proceeding = Dacă mergi mai departe, ești de acord cu <a href="{ $url1 }">Termenii de utilizare a serviciilor</a> și <a href="{ $url2 }">Politica de confidențialitate</a>.
 fxa-form-email-address = Adresă de e-mail
 fxa-form-continue = Continuă
-fxa-form-create-account = Creează un cont
+fxa-form-create-account = Creează contul
 fxa-form-get-the-app = Instalează aplicația
