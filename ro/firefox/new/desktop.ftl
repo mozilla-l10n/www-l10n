@@ -44,7 +44,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } este pentru toț
 firefox-desktop-download-available-in-over = Disponibil în peste 90 de limbi și compatibil cu { -brand-name-windows }, { -brand-name-mac-short } și { -brand-name-linux }, { -brand-name-firefox } funcționează indiferent ce folosești sau unde ești. Asigură-te că ai sistemul de operare actualizat pentru cea mai bună experiență.
 firefox-desktop-download-review-system-req = Verifică cerințele de sistem
 firefox-desktop-download-all-your-devices = Pune { -brand-name-firefox } pe toate dispozitivele
-firefox-desktop-download-take-your-privacy = Ia cu tine confidențialitatea oriunde ai fi. { -brand-name-firefox-browsers } pentru { -brand-name-ios } și { -brand-name-android } au aceleași setări puternice de confidențialitate, care blochează elementele de urmărire și nu le lasă să te spioneze pe web, oriunde te-ai afla.
+firefox-desktop-download-take-your-privacy = Ia cu tine confidențialitatea oriunde ai fi. { -brand-name-firefox } pentru { -brand-name-ios } și { -brand-name-android } are aceleași setări puternice de confidențialitate, care blochează elementele de urmărire și nu le lasă să te spioneze pe web, oriunde te-ai afla.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Fă-le <strong>pe toate</strong> cu { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Căutări mai inteligente, mai rapide
