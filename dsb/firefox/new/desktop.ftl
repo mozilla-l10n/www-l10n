@@ -95,6 +95,9 @@ firefox-desktop-download-get-firefox-ios = Wobstarajśo se { -brand-name-firefox
 firefox-desktop-download-download-the-mobile = Ześěgniśo mobilny wobglědowak { -brand-name-firefox } za awtomatiski šćit na wšych wašych rědach.
 firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobglědowaku { -brand-name-firefox } dołojce
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jo na wšych wašych rědach k dispoziciji; bjeŕśo swóje rejtariki, swóju historiju a swójecytańske znamjenja sobu. Wšykno, což trjebaśo, jo <a { $attrs }>konto { -brand-name-firefox }</a>.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maśo pšašanja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> buźo wam pomagaś.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
