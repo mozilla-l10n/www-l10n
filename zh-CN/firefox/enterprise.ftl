@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = 为您的企业选择 { -brand-name-firefox } { -brand-name-esr } 或快速发行版本
-firefox-enterprise-get-unmatched-data-protection = 选择适合企业的 { -brand-name-firefox }，以适合您的版本发布节奏，获得无与伦比的数据保护。下载延长支持（{ -brand-name-esr }） 或快速发行版。
+firefox-enterprise-get-unmatched-data-protection = 选择适合企业的 { -brand-name-firefox }，以适合您的版本发行节奏，获得无与伦比的数据保护。下载延长支持（{ -brand-name-esr }） 或快速发行版。
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = 总览
 firefox-enterprise-downloads = 下载
@@ -14,7 +14,7 @@ firefox-enterprise-get-firefox-for-your-enterprise = 为您的企业选择 { -br
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = 下载部署 <a href="{ $url }">{ -brand-name-firefox-extended-support-release }或快速发行版</a>，获得全面的信息安全和数据保护。
-firefox-enterprise-unmatched-data-protection = 以适合您的版本发布节奏，获得无与伦比的数据保护。
+firefox-enterprise-unmatched-data-protection = 以适合您的版本发行节奏，获得无与伦比的数据保护。
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } 浏览器永远开源，并提供增强型跟踪保护 — 我们一直致力于对您数据的保护。
 firefox-enterprise-your-data-stays-your-business = 企业内部数据安全无虞
