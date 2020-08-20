@@ -12,6 +12,8 @@ whatsnew79-fallback-cta = Αποκτήστε την εφαρμογή { -brand-na
 whatsnew79-with-one-tap-mozilla-vpn = Με ένα πάτημα, το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεσή σας για να πραγματικά ιδιωτική δραστηριότητα σε κάθε δίκτυο — μακριά από hackers και αδιάκριτα βλέμματα.
 # CTA link
 whatsnew79-get-started = Ξεκινήστε
+# CTA link
+whatsnew79-see-your-report = Προβολή αναφοράς
 whatsnew79-download-the-firefox = Λήψη του προγράμματος περιήγησης { -brand-name-firefox }
 whatsnew79-take-less-keep-it-safe = Λιγότερα δεδομένα. Προστασία χρήστη. Χωρίς μυστικά. Η επιχείρηση μας δεν καταχράται την εμπιστοσύνη σας.
 # CTA link
