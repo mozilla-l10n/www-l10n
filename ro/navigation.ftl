@@ -73,7 +73,7 @@ navigation-see-breaches = Vezi încălcările securității datelor
 navigation-security-tips = Ponturi de securitate
 navigation-share-large-files-safely = Partajează fișiere mari în siguranță, cu linkuri care se „autodistrug”.
 navigation-save-quality-content = Salvează conținut de calitate de oriunde. Hrănește-ți mintea peste tot.
-navigation-sign-up = Înregistrează-te
+navigation-sign-up = Înregistrare
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rapid. Simplu. Privat.
 navigation-protect-your-entire-device = Protejează-ți complet dispozitivul și toate aplicațiile. Maschează-ți adresa reală și conectează până la 5 dispozitive. Abonează-te acum.
 # Outdated string
