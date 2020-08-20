@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Dapatkan { -brand-name-firefox } untuk perusahaan Anda dengan { -brand-name-esr } dan Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Dapatkan perlindungan data yang tak tertandingi pada irama rilis yang cocok untuk Anda dengan { -brand-name-firefox } untuk perusahaan. Unduh { -brand-name-esr } dan Rapid Release.
-firefox-enterprise-enterprise = Perusahaan
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Ringkasan
 firefox-enterprise-downloads = Unduhan
 firefox-enterprise-get-firefox-for-your-enterprise = Dapatkan { -brand-name-firefox } untuk perusahaan Anda
@@ -22,12 +22,12 @@ firefox-enterprise-deploy-when-and-how-you-want = Sebarkan kapan dan bagaimana A
 firefox-enterprise-with-install-packages-and = Dengan paket instal dan perluasan kebijakan dan fitur grup yang luas, penyebaran menjadi lebih cepat dan lebih fleksibel dari sebelumnya - dan mudah di lingkungan { -brand-name-windows } dan { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Pilih irama rilis Anda
 firefox-enterprise-get-rapid-releases-to-make = Dapatkan rilis cepat untuk memastikan Anda mendapatkan fitur terbaru lebih cepat, atau diperpanjang untuk memastikan pengalaman yang sangat stabil.
-firefox-enterprise-enterprise-downloads = Unduhan perusahaan
+firefox-enterprise-enterprise-downloads = Unduh { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Pilih unduhan Anda
-firefox-enterprise-firefox-browser = Peramban { -brand-name-firefox }
-firefox-enterprise-firefox-browser-msi-installer = Peramban { -brand-name-firefox } - Pemasang MSI
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - pemasang MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Pemasang MSI
 firefox-enterprise-support = Dukungan

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Peramban Firefox: Markah lebih baik ke mana pun Anda pergi
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Markah yang lebih baik ke mana pun Anda pergi
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Kelola markah Anda ke dalam folder dan akses di semua perangkat dengan mudah, dari desktop sampai ponsel.
 features-bookmarks-better-bookmarks = Markah lebih baik

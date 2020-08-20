@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Peramban Firefox: Gunakan lebih sedikit memori, dapatkan lebih banyak kecepatan
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Gunakan sedikit memori, dapatkan kecepatan lebih
 # HTML page description
 features-memory-is-your-computer-slow-your = Apakah komputer Anda lambat? Mungkin peramban Anda menggunakan terlalu banyak memori. Beralihlah ke { -brand-name-firefox } hari ini untuk menjelajah lebih cepat.
 features-memory-less-memory-usage-than-chrome = Penggunaan memori lebih sedikit daripada { -brand-name-chrome }

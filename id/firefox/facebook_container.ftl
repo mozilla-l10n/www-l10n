@@ -5,18 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = Kontainer { -brand-name-facebook } untuk { -brand-name-firefox } | Batasi hal-hal yang dapat { -brand-name-facebook } ketahui tentang riwayat situs web yang Anda kunjungi.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } untuk { -brand-name-firefox } | Cegah { -brand-name-facebook } melihat situs web yang Anda kunjungi.
 facebook-container-millions-of-people-around = Jutaan orang di seluruh dunia percaya { -brand-name-firefox } sebagai peramban di { -brand-name-android }, { -brand-name-ios }, dan komputer desktop. Cepat. Privat. Unduh sekarang!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Terbatasi dengan baik. Jaga kehidupan Anda hanya untuk diri Anda sendiri.
-facebook-container-get-the-facebook-container = Dapatkan Ekstensi Kontainer Facebook
-facebook-container-download-firefox-and-get-the = Unduh { -brand-name-firefox } dan dapatkan Ekstensi Kontainer Facebook
-facebook-container-the-facebook-container-extension = Ekstensi Kontainer Facebook tidak tersedia untuk piranti selular.
+facebook-container-get-the-facebook-container = Dapatkan Ekstensi { -brand-name-facebook-container }
+facebook-container-download-firefox-and-get-the = Unduh { -brand-name-firefox } dan dapatkan Ekstensi { -brand-name-facebook-container }
+facebook-container-the-facebook-container-extension = Ekstensi { -brand-name-facebook-container } tidak tersedia di perangkat seluler.
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Coba <strong>{ -brand-name-firefox-focus }</strong>, peramban berprivasi untuk { -brand-name-android } dan { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Pilihlah sesuai kriteria anda
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } dapat melacak hampir semua aktivitas web Anda dan mengaitkannya dengan identitas { -brand-name-facebook } Anda. Jika hal itu terlalu berlebihan bagi Anda, <a href="{ $fbcontainer }">ekstensi Kontainer { -brand-name-facebook }</a> mengisolasi identitas Anda ke dalam kontainer tab terpisah, membuat { -brand-name-facebook } semakin sulit melacak Anda di Web di luar { -brand-name-facebook }.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } dapat melacak hampir semua aktivitas web Anda dan mengaitkannya dengan identitas { -brand-name-facebook } Anda. Jika itu terlalu berlebihan bagi Anda, ekstensi <a href="{ $fbcontainer }">{ -brand-name-facebook-container } akan </a> mengisolasi identitas Anda ke tab kontainer terpisaj, mempersulit { -brand-name-facebook } untuk melacak anda ke web di luar { -brand-name-facebook }.
 facebook-container-install-and-contain = Pasang dan batasi
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

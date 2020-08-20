@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Unduh Peramban Firefox di seluler Anda untuk { -brand-name-ios } dan { -brand-name-android }
+firefox-mobile-download-the-firefox-browser = Unduh { -brand-name-firefox-browser } di Seluler Anda untuk { -brand-name-ios } dan { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } untuk Seluler memblokir lebih dari 2000 pelacak secara default, memberi Anda privasi yang layak dan kecepatan yang Anda butuhkan di peramban seluler pribadi.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
@@ -28,9 +28,6 @@ firefox-mobile-discover-products-that-keep = Temukan produk yang membuat Anda te
 firefox-mobile-sync-your-history-passwords = Sinkronkan riwayat, kata sandi, dan markah Anda. Kirim tab di semua perangkat Anda.
 firefox-mobile-android-only = Hanya { -brand-name-android }
 firefox-mobile-make-android-your-own = Jadikan { -brand-name-android } milik Anda sendiri
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Kustomisasi peramban seluler { -brand-name-firefox } Anda dengan <a href="{ $url }">ekstensi</a> untuk memblokir iklan, mengelola kata sandi, menghentikan { -brand-name-facebook } agar tidak melacak Anda dan lainnya.
 firefox-mobile-find-it-fast-with-a-smart = Temukan dengan cepat menggunakan bilah pencarian pintar
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } mengantisipasi kebutuhan Anda dengan saran pencarian cerdas dan akses cepat ke situs yang paling sering Anda kunjungi.
 firefox-mobile-the-privacy-you-deserve-the = Privasi yang layak Anda dapatkan. Kecepatan yang Anda butuhkan.

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Unduh Peramban Firefox di Ponsel Anda untuk { -brand-name-ios } dan { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Unduh { -brand-name-firefox-browser } di Ponsel Anda untuk { -brand-name-ios } dan { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Dompet. Kunci. Telepon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Bawa privasi dengan Anda di setiap perangkat - dan tinggalkan pelacak data.
 welcome-page4-get-the-firefox-app = Dapatkan aplikasi { -brand-name-firefox }
