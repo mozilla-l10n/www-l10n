@@ -8,7 +8,7 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs. { -brand-name-opera }: Manakah peramban yang lebih baik untuk Anda?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Bandingkan { -brand-name-opera } dengan Peramban Firefox untuk mengetahui peramban mana yang terbaik untuk Anda.
+compare-opera-compare-opera-to-the-firefox = Bandingkan { -brand-name-opera } dengan { -brand-name-firefox-browser } untuk mengetahui peramban terbaik untuk Anda.
 # Main title
 compare-opera-comparing-firefox-browser = Membandingkan Peramban Firefox dengan { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks-fallback = Kebijakan privasi { -brand-name-opera } tidak memiliki kekhususan dalam penjelasannya mengenai jenis informasi yang dikumpulkan dan dikatakan di beberapa bagian bahwa mereka mengumpulkan nama pemegang akun, alamat IP dan istilah pencarian. Apa yang tampaknya membingungkan dan meresahkan adalah bagian tentang transfer data Internasional; kapan, seberapa sering, dan mengapa mereka perlu mentransfer data Anda secara internasional tidak dijelaskan.
