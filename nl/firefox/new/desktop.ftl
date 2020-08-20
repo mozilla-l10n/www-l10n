@@ -106,6 +106,8 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-download-this-browser = <a { $attrs } >Download deze browserextensie</a> om te voorkomen dat { -brand-name-facebook } (en { -brand-name-instagram }) u volgen op internet.
 firefox-desktop-download-sync-your-devices = Synchroniseer uw apparaten
 firefox-desktop-download-screenshots = Schermafbeeldingen
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Verbeterde bescherming tegen volgen (VBV)
 firefox-desktop-download-from-watching-a = Van het bekijken van een webhandleiding tot het in de gaten houden van uw favoriete team, uw video volgt u terwijl u multitaskt.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Download { -brand-name-firefox-browser } voor <strong>{ -brand-name-android }</strong>
