@@ -48,7 +48,7 @@ firefox-desktop-download-take-your-privacy = Neem uw privacy overal mee naartoe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Doe het <strong>allemaal</strong> met { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Zoek slimmer, sneller
-firefox-desktop-download-search-from-address = Zoeken vanuit de adresbalk
+firefox-desktop-download-search-from-address = Zoeken vanuit adresbalk
 firefox-desktop-download-search-engine-options = Zoekmachine-opties
 firefox-desktop-download-smart-search-suggestions = Slimme zoeksuggesties
 firefox-desktop-download-bookmark-history = Bladwijzer, geschiedenis en open tabblad in resultaten
@@ -93,7 +93,7 @@ firefox-desktop-download-go-from-light = Ga van lichte modus naar donkere modus,
 firefox-desktop-download-tweak-your-settings = Pas uw instellingen aan
 firefox-desktop-download-theres-no-need = U hoeft geen genoegen te nemen met de standaard. Wijzig de nieuw-tabbladpagina, zoekbalk, bladwijzers en meer om het internet te verkennen zoals u dat wilt.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Ondersteund door de <strong>non-profit</strong> die mensen voorop stelt
+firefox-desktop-download-backed-by-the = Ondersteund door de <strong>non-profit </strong> die mensen voorop stelt
 firefox-desktop-download-challenging-the-status = Daagt sinds 1998 de status quo uit
 firefox-desktop-download-your-privacy-comes = Uw privacy staat voorop
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -120,7 +120,7 @@ firefox-desktop-download-learn-about-the = Lees hieronder meer over de { -brand-
 firefox-desktop-download-from-security-to = Van beveiliging tot nieuws tot gamen, er is <a { $attrs }>voor iedereen een extensie</a>. Voeg er zoveel u wilt toe, tot uw browser precies goed is.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox } werd door <a { $attrs }>{ -brand-name-mozilla }</a> gemaakt als een sneller, persoonlijker alternatief voor browsers zoals { -brand-name-ie }, en nu { -brand-name-chrome }. Tegenwoordig blijven ons missiegedreven bedrijf en onze vrijwilligersgemeenschap uw privacy boven alles stellen.
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } werd door <a { $attrs }>{ -brand-name-mozilla }</a> gemaakt als een sneller, persoonlijker alternatief voor browsers zoals { -brand-name-ie }, en nu { -brand-name-chrome }. Tegenwoordig blijven ons missie-gedreven bedrijf en onze vrijwilligersgemeenschap uw privacy boven alles stellen.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Terwijl het internet groeit en verandert, blijft { -brand-name-firefox } zich concentreren op uw recht op privacy – we noemen het de <a { $attrs }>Persoonlijke Gegevensbelofte</a>: Neem minder. Houd het veilig. Geen geheimen. Uw gegevens, uw webactiviteit en uw online leven worden beschermd met { -brand-name-firefox }.
