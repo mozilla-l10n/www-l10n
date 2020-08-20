@@ -16,10 +16,12 @@ password-manager-password-hero = Juara kata sandi
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Lupakan "reset". Pengelola Kata Sandi { -brand-name-firefox } menjaga semua kata sandi Anda sehingga Anda dapat masuk secara otomatis, atau mencari kata sandi tersimpan dengan mudah. Untuk keamanan super, berikan komputer Anda sebuah <a href="{ $url }">kata sandi master</a>.
+password-manager-password-magician = Ahlinya sandi
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ahlinya kata sandi
 password-manager-no-more-try-again = Tidak ada "coba lagi" saat Anda mencoba menuju suatu tempat. Masuk ke { -brand-name-firefox-account } di ponsel Anda, dan sandi Anda ikut serta. Detail login Anda akan muncul begitu saja.
+password-manager-password-champion = Juaranya sandi
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Jagoan kata sandi
