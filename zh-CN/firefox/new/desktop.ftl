@@ -52,7 +52,7 @@ firefox-desktop-download-search-from-address = 从地址栏进行搜索
 firefox-desktop-download-search-engine-options = 搜索引擎选项
 firefox-desktop-download-smart-search-suggestions = 智能搜索建议
 firefox-desktop-download-bookmark-history = 搜索结果中包含书签、历史记录和打开的标签页
-firefox-desktop-download-boost-your = 提高生产力
+firefox-desktop-download-boost-your = 生产力跃升
 firefox-desktop-download-works-with-google = 与 { -brand-name-google } 产品兼容
 firefox-desktop-download-built-in-screenshot = 内置屏幕截图工具
 firefox-desktop-download-bookmarks-manager = 书签管理器
@@ -61,7 +61,7 @@ firefox-desktop-download-sync-across-devices = 跨设备同步
 firefox-desktop-download-reader-mode = 阅读模式
 firefox-desktop-download-spell-check = 拼写检查
 firefox-desktop-download-pinned-tabs = 固定标签页
-firefox-desktop-download-stream-share-play = 串流、分享和播放
+firefox-desktop-download-stream-share-play = 流媒体、分享和播放
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = 阻止音视频自动播放
 # Picture-in-Picture is a feature names and so is capitalized in English
