@@ -46,6 +46,7 @@ compare-edge-with-internet-explorer-fallback = Dengan { -brand-name-ie }, { -bra
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-edge-firefox-has-been-available = { -brand-name-firefox } telah tersedia di { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac } dan { -brand-name-linux } selama bertahun-tahun. Dan seperti yang Anda harapkan dengan peramban modern apa pun, { -brand-name-firefox } memungkinkan Anda masuk dengan <a { $attrs }>akun gratis</a> dan menyinkronkan data seperti kata sandi, riwayat penelusuran, markah, dan tab terbuka di antara komputer Anda, tablet dan ponsel. Ini juga memungkinkan Anda untuk melakukan sinkronisasi antar platform.
+compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } juga memungkinkan Anda terhubung dengan akun { -brand-name-microsoft } terkait dan masuk untuk menyinkronkan situs favorit, riwayat, sandi, dan lainnya di antara komputer Anda dan perangkat { -brand-name-ios } atau { -brand-name-android } Anda.
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } juga memungkinkan Anda terhubung dengan akun { -brand-name-microsoft } terkait dan masuk untuk menyinkronkan situs favorit, riwayat, kata sandi, dan lainnya di antara komputer Anda dan perangkat { -brand-name-ios } atau { -brand-name-android }, meskipun saat ini fitur tersebut tidak didukung di beberapa tablet { -brand-name-android }.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
