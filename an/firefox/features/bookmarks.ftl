@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Lo navegador Firefox: Los millors marcapachinas astí enta do vaigas
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Los millors marcapachinas astí enta do vaigas
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organiza facilment en carpetas los tuyos marcapachinas y accede ta ells en totz los tuyos dispositivos, dende l'ordinador a lo mobil.
 features-bookmarks-better-bookmarks = Millors marcapachinas
