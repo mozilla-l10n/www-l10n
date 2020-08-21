@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-release-notes = Notas de lanzamiento
+firefox-all-source-code = Codigo fuent
+firefox-all-need-help = Te cal aduya?
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Obtener aduya
+firefox-all-browser = Navegador:
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
