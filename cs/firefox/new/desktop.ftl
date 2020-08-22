@@ -86,6 +86,12 @@ firefox-desktop-download-dark-mode = Tmavý režim
 firefox-desktop-download-library-of-extensions = Knihovna s rozšířeními
 firefox-desktop-download-adjust-search-bar = Nastavení vyhledávacího pole
 firefox-desktop-download-change-new-tab = Přizpůsobení nového panelu
+firefox-desktop-download-make-firefox-your = Přizpůsobte si <strong>{ -brand-name-firefox(case: "acc") }</strong> podle sebe
+firefox-desktop-download-extensions-for-every = Rozšíření pro každou příležitost
+firefox-desktop-download-change-up-your = Změňte si vzhled
+firefox-desktop-download-go-from-light = Podle své nálady nebo preferencí si přepněte mezi světlým nebo tmavým vzhledem, nebo si vše zpestřete něčím osobním (třebas duhovým jednorožcem).
+firefox-desktop-download-tweak-your-settings = Vypilujte svá nastavení
+firefox-desktop-download-theres-no-need = Není třeba si zvykat. Klidně si změňte stránku nového panelu, pole vyhledávání, záložky a další věci, abyste surfovali tak, jak vy chcete.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
