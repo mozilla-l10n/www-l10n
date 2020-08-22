@@ -29,7 +29,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta }는 자
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = 정식 버전의 기능 안정화 및 성능 향상을 위해 여러분의 <a rel="external" href="{ $feedback }">소중한 의견</a>이 필요합니다.
 firefox-channel-check-out-new-android-features = 미리 { -brand-name-android } 버전 기능을 확인해 보세요. 베타 테스트를 즐길 수 있습니다.
-firefox-channel-nightly-blog = { -brand-name-nightly } 블로그
+firefox-channel-nightly-blog = { -brand-name-nightly } 블로그 (영문)
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly }는 테스트와 개발을 위한 불안정한 플랫폼입니다. 기본적으로, { -brand-name-nightly }는 { -brand-name-mozilla } — 그리고 가끔은 우리의 파트너들 — 에게 데이터를 전송해 문제를 다루고 아이디어를 적용하도록 돕습니다. <a href="{ $link }">무엇이 공유되는지 알아보세요</a>.
