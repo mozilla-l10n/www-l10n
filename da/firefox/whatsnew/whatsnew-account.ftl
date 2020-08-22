@@ -11,3 +11,7 @@
 whatsnew-account-main-headline = En konto er ikke påkrævet. Men måske vil du have en alligevel.
 whatsnew-account-main-lead-in = { -brand-name-firefox }-browseren indsamler så lidt data om dig, at vi ikke engang beder om din mailadresse. Men hvis du bruger din mailadresse til at oprette en { -brand-name-firefox }-konto, så kan vi beskytte dit privatliv for en større del af dit liv online.
 whatsnew-account-main-button = Log ind
+
+##
+
+whatsnew-account-signed-in-lead-in = Send et link til at hente Firefox på din telefon.
