@@ -5,12 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = Ruk'wayöl { -brand-name-facebook } richin { -brand-name-firefox } | Tachajij awi' chi ri { -brand-name-facebook } yerutz'ët ri ajk'amaya'l ruxaq ye'atz'ët.
+facebook-container-facebook-container-for-firefox = Ruk'wayöl { -brand-name-facebook-container } richin { -brand-name-firefox } | Tachajij awi' chi ri { -brand-name-facebook } yerutz'ët ri ajk'amaya'l ruxaq ye'atz'ët.
 facebook-container-millions-of-people-around = T'ijtäq chi winaqi' chijun ri ruwach'ulew kikuqub'an kik'u'x chi kij ri { -brand-name-firefox } taq okik'amaya'l richin { -brand-name-android }, { -brand-name-ios } chuqa' kematz'ib'ab'äl taq kematz'ib'. Anin. Ichinan. ¡Taqasaj wakami!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Ütz chajin. Man takomonij ri ronojel ri ak'aslem.
-facebook-container-get-the-facebook-container = Tik'ul ri Ruk'amal Ruk'wayöl Facebook
-facebook-container-download-firefox-and-get-the = Tiqasäx { -brand-name-firefox } chuqa' tik'ul ri Ruk'amal Ruk'wayöl { -brand-name-firefox }
-facebook-container-the-facebook-container-extension = Man k'o ta ri Ruk'amal Ruk'wayöl Facebook pan oyonib'äl okisaxel.
+facebook-container-get-the-facebook-container = Tik'ul ri { -brand-name-facebook-container } Ruk'amal
+facebook-container-download-firefox-and-get-the = Tiqasäx { -brand-name-firefox } chuqa' tik'ul ri { -brand-name-facebook-container } Ruk'amal
+facebook-container-the-facebook-container-extension = Man k'o ta ri { -brand-name-facebook-container } Ruk'amal man okel ta pan oyonib'äl okisab'äl.
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Tatojtob'ej <strong>{ -brand-name-firefox-focus }</strong>, ri ichinan okik'amaya'l richin { -brand-name-android } chuqa' { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Ke'awojqaj ri taq awojqanem
