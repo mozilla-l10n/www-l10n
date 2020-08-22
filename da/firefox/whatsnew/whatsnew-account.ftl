@@ -14,6 +14,7 @@ whatsnew-account-main-button = Log ind
 
 ##
 
+whatsnew-account-signed-in-headline = Få mere fra hånden. Brug { -brand-name-firefox } til mobilen.
 whatsnew-account-signed-in-lead-in = Send et link til at hente Firefox på din telefon.
 whatsnew-account-signed-in-qr-title = Hent { -brand-name-firefox } til din telefon og tablet.
 # An accessible label for a QR code image
