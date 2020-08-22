@@ -88,16 +88,16 @@ firefox-desktop-download-adjust-search-bar = 검색 표시줄 설정 조정
 firefox-desktop-download-change-new-tab = 새 탭 레이아웃 변경
 firefox-desktop-download-make-firefox-your = 나만의 <strong> { -brand-name-firefox } </strong> 만들기
 firefox-desktop-download-extensions-for-every = 다양한 확장 기능 제공
-firefox-desktop-download-change-up-your = 모양 변경
+firefox-desktop-download-change-up-your = 기분에 따라 외양 변경
 firefox-desktop-download-go-from-light = 기분이나 선호도에 따라 밝은 모드에서 어두운 모드로 전환하거나 사용자 맞춤형 지정 테마로 즐겁게 인터넷을 여행하세요.
 firefox-desktop-download-tweak-your-settings = 나만의 설정 조정
 firefox-desktop-download-theres-no-need = 그대로 사용할 필요가 없습니다. 새 탭 페이지, 검색 창, 북마크 등을 여러분이 원하는 방식으로 변경하여 인터넷을 여행하세요.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = 사람을 최우선으로 생각하는 <strong> 비영리 </strong> 지원
+firefox-desktop-download-backed-by-the = 사람을 최우선으로 생각하는 <strong> 비영리 </strong> 조직
 firefox-desktop-download-challenging-the-status = 1998년 이후 같은 목표 지향
 firefox-desktop-download-your-privacy-comes = 최우선 순위는 개인 정보 보호
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = 잘 사용하는 브라우저 기능은 그대로 — 늘 새로운 기능을 <strong> 찾아보세요 </strong>.
+firefox-desktop-download-keep-all-your = 기본 기능은 그대로 — <strong>새로운 기능</strong>을 제공합니다.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = 여러분이 많이 사용하는 { -brand-name-google } 도구 (예 : Gmail 및 Docs) 역시 { -brand-name-firefox-browser }에서 원활하게 동작합니다.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
