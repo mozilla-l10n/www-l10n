@@ -28,6 +28,11 @@ firefox-all-everyone-deserves-access = Totz mereixemos acceso a internet, lo tuy
 firefox-all-choose-which-firefox = Tría qué { -brand-name-firefox-browser } quiers descargar en o tuyo idioma
 firefox-all-firefox-privacy-notice = Aviso de privacidat de { -brand-name-firefox }
 firefox-all-learn-about-firefox = Aprende mas sobre los navegadors de { -brand-name-firefox }
+firefox-all-the-standard-firefox = Lo navegador { -brand-name-firefox } standard, rapido y privau. Si no yes seguro de qué { -brand-name-firefox } triar, tría-te este.
+firefox-all-get-a-sneak-peek-at = Fe-les una gollada a las zagueras funcions d'o navegador { -brand-name-firefox } antes que no se publiquen.
+firefox-all-test-your-sites-against = Preba los tuyos puestos web con as nuevas funcionalidatz de { -brand-name-firefox } que se publicará luego, con funcionalidatz pa desenvolvedors potents y flexibles, activadas per defecto.
+firefox-all-count-on-stability-and = Cuenta con a estabilidat y facilidat d'uso d'este navegador { -brand-name-firefox } creau pa interpresas.
+firefox-all-windows-installers-for = Los intaladors Windows pa interpresas informaticas que simplifican la configuración, lo despiegue y la chestión de { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladors ARM64/AArch64
 firefox-all-arm64-installers-optimized = Instaladors ARM64/AArch64 optimitzaus pa ordinadors { -brand-name-windows } con procesadors Snapdragon.
 # Variables:
