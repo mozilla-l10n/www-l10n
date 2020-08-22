@@ -9,7 +9,7 @@
 welcome-page1-more-than-a-browser-firefox = Víc než jen prohlížeč – { -brand-name-firefox-monitor } vás ochrání před hackery
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Podnikněte další krok k ochraně svého soukromí na internetu pomocí rodiny produktů { -brand-name-firefox(case: "gen") }.
-welcome-page1-stay-ahead-of-hackers-check = Buďte o krok napřed před hackery. Kontrolujte úniky dat pomocí { -brand-name-firefox-monitor(case: "gen") }.
+welcome-page1-stay-ahead-of-hackers-check = Buďte před hackery o krok napřed. Kontrolujte úniky dat pomocí { -brand-name-firefox-monitor(case: "gen") }.
 welcome-page1-youre-on-track-to-stay-protected = Jste na dobré cestě být stále v bezpečí
 welcome-page1-youve-got-the-web-browser = Máte webový prohlížeč, který chrání vaše soukromí – teď je čas dávat pozor na hackery.
 welcome-page1-check-your-breach-report = Podívejte se na úniky vašich dat
