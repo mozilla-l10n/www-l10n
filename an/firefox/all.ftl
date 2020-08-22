@@ -23,6 +23,8 @@ firefox-all-choose-a-64-bit-installer = Tría un instalador de 64 bits pa ordina
 firefox-all-32-bit-installers = Instaladors de 32 bits
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Descarga { -brand-name-firefox-browser } en anglés y mas de 90 idiomas mas
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = Totz mereixemos acceso a internet, lo tuyo idioma no habría d'estar una barrera. Per ixo, con l'aduya de voluntarios de tot lo mundo, femos que { -brand-name-firefox-browser } siga disponible en mas de 90 idiomas.
 firefox-all-choose-which-firefox = Tría qué { -brand-name-firefox-browser } quiers descargar en o tuyo idioma
 firefox-all-firefox-privacy-notice = Aviso de privacidat de { -brand-name-firefox }
 firefox-all-learn-about-firefox = Aprende mas sobre los navegadors de { -brand-name-firefox }
