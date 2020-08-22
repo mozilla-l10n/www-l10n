@@ -4,8 +4,8 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = 개인 정보 정책
-footer-press = 언론
-footer-brand-standards = 브랜드 표준
+footer-press = 보도 자료
+footer-brand-standards = 브랜드 가이드
 footer-browsers = 브라우저
 footer-desktop = 데스크톱
 footer-mobile = 모바일
