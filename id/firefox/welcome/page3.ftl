@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = Dapatkan akun gratis yang melindungi privasi Anda. Bergabunglah dengan { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Tidak perlu akun. Tapi mungkin anda ingin membuat satu.
 welcome-page3-the-firefox-browser-collects = Peramban { -brand-name-firefox } mengumpulkan begitu sedikit data tentang Anda, kami bahkan tidak memerlukan alamat email Anda. Namun bila Anda menggunakannya untuk membuat { -brand-name-firefox-account }, kami dapat melindungi privasi di berbagai wilayah kehidupan daring Anda.
+welcome-page3-sign-in = Masuk
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Minta setidaknya satu perusahaan untuk mencari data Anda, daripada membocorkannya.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

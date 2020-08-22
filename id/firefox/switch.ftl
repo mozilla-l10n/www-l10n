@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Beralih dari { -brand-name-chrome } ke { -brand-name-firefox } hanya dalam beberapa menit
+switch-switching-to-firefox-is-fast-updated = Beralih ke { -brand-name-firefox } itu cepat, mudah, dan bebas risiko, karena { -brand-name-firefox } mengImpor markah, sandi dan pengaturan Anda dari { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Beralih ke { -brand-name-firefox } itu cepat, mudah, dan bebas risiko, karena { -brand-name-firefox } mengImpor markah, isian-otomatis, sandi dan pengaturan Anda dari { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Beralih ke { -brand-name-firefox } itu cepat, mudah dan bebas risiko. { -brand-name-firefox } mengImpor markah, isian-otomatis, sandi dan pengaturan Anda dari { -brand-name-chrome }.
 switch-select-what-to-take = Pilih yang ingin diimpor dari { -brand-name-chrome }.

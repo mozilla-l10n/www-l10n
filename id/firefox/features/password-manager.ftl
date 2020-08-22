@@ -22,6 +22,9 @@ password-manager-password-magician = Ahlinya sandi
 password-manager-password-ninja = Ahlinya kata sandi
 password-manager-no-more-try-again = Tidak ada "coba lagi" saat Anda mencoba menuju suatu tempat. Masuk ke { -brand-name-firefox-account } di ponsel Anda, dan sandi Anda ikut serta. Detail login Anda akan muncul begitu saja.
 password-manager-password-champion = Juaranya sandi
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Dapatkan posisi keamanan terbaik dengan rangkaian <a href="{ $addons }">pengaya</a> pengelola sandi di { -brand-name-firefox }. Pilih pengaya favorit atau temukan yang lebih keren melalui penilaian dan ulasan komunitas.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Jagoan kata sandi
