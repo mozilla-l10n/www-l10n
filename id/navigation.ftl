@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } untuk { -brand-name-fir
 navigation-watch-videos-and-browse = Tonton video dan jelajahi Internet di { -brand-name-amazon } { -brand-name-fire-tv } Anda.
 navigation-firefox-browsers-put = Peramban { -brand-name-firefox } mengutamakan privasi Anda — dan selalu menjaganya.
 navigation-take-the-passwords-youve = Bawa kata sandi yang Anda simpan di { -brand-name-firefox } ke mana pun Anda pergi.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } adalah serangkaian keluarga produk yang dirancang untuk membuat Anda lebih aman dan lebih cerdas saat daring.
 navigation-join-firefox = Gabung { -brand-name-firefox }
 navigation-access-all-of-firefox = Akses semua { -brand-name-firefox } dengan sekali masuk — dan dapatkan banyak manfaat dari setiap produk saat Anda melakukannya.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Dapatkan { -brand-name-firefox-focus }
 navigation-android-extensions = Ekstensi { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } Anda
 navigation-make-the-most-of-your = Manfaatkan pengalaman { -brand-name-firefox } Anda di seluruh perangkat.
+# Outdated string
 navigation-learn-how-to-customize = Pelajari bagaimana mengubahsuai cara { -brand-name-firefox } bekerja.
+navigation-explore-the-immersive = Jelajahi web imersif di alat set kepala realitas maya Anda.
+# Outdated string
 navigation-experience-augmented = Alami realitas maya dan tertambah dengan { -brand-name-firefox }.
+navigation-get-together = Mari berkumpul secara realitas maya dengan ruang sosial daring ini.
+# Outdated string
 navigation-meet-people-in-experimental = Temui orang di ruang obrolan Realitas Campuran eksperimental dengan { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } menghadirkan realitas virtual dan tertambah untuk web terbuka.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } membawa { -brand-name-firefox } ke realitas maya dan tertambah.
 navigation-firefox-built-just-for = { -brand-name-firefox }, dibangun khusus untuk pengembang.
 navigation-preview-the-latest-build = Pratinjau versi terkini { -brand-name-firefox } dan bantu kami menjadikannya yang terbaik.
@@ -64,6 +74,9 @@ navigation-security-tips = Tips Keamanan
 navigation-share-large-files-safely = Bagikan file besar dengan aman, dengan tautan yang ‘menghilang secara otomatis’.
 navigation-save-quality-content = Simpan konten berkualitas dari mana saja. Isi pikiran Anda di mana-mana.
 navigation-sign-up = Daftar
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Cepat. Sederhana. Pribadi.
+navigation-protect-your-entire-device = Lindungi keseluruhan perangkat dan aplikasi anda. Tutupi lokasi asli anda dan terhubung hingga ke 5 perangkat. Berlangganlah sekarang.
+# Outdated string
 navigation-connected-and-protected = Terhubung dan dilindungi
 navigation-join = Gabung
 navigation-close-join-menu = Tutup menu Gabung
@@ -76,11 +89,15 @@ navigation-meet-the-technology-company = Temui perusahaan teknologi yang menempa
 navigation-new-features = Fitur Baru
 navigation-save-content-absorb-knowledge = Simpan Konten. Serap Pengetahuan.
 navigation-same-speed-and-safety = Kecepatan dan keamanan yang sama dengan yang Anda percayai, dirancang hanya untuk bisnis.
+# Outdated string
 navigation-add-ons = Pengaya
 navigation-projects = Proyek
 navigation-close-projects-menu = Tutup menu Proyek
 navigation-donate-your-voice-to = Donasikan suara Anda untuk membantu membuat pengenalan suara terbuka untuk semua orang.
+navigation-machine-learning = Pembelajaran mesin
+# Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+# Outdated string
 navigation-make-devices-connected = Buat perangkat terhubung ke Internet yang aman dan dapat dioperasikan.
 navigation-developers = Pengembang
 navigation-close-developers-menu = Tutup menu Pengembang

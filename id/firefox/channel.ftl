@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Unduh dan uji fitur { -br
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Uji fitur yang akan segera rilis pada versi pre-rilis yang paling stabil.
 firefox-channel-release-notes = Catatan Rilis
+firefox-channel-previous-nightly-builds = Build { -brand-name-nightly } sebelumnya
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Membuat, menguji, mengukur, dan masih banyak lagi dengan satu-satunya peramban yang dibangun hanya untuk pengembang.
 # Variables:

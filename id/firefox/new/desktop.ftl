@@ -38,6 +38,10 @@ firefox-desktop-download-os-availability = Ketersediaan OS
 firefox-desktop-download-in-browser-screenshot = Alat penangkap layar dalam peramban
 firefox-desktop-download-master-password = Sandi utama
 firefox-desktop-download-we-block-the-ad = Kami memblokir pelacak iklan. Anda menjelajahi internet lebih cepat.
+firefox-desktop-download-see-your-report = Lihat laporan perlindungan anda
+firefox-desktop-download-for-everyone = { -brand-name-firefox } untuk semua
+firefox-desktop-download-review-system-req = Periksa persyaratan sistem
+firefox-desktop-download-all-your-devices = Pasang { -brand-name-firefox } di semua perangkat
 firefox-desktop-download-search-from-address = Cari dari bilah alamat
 firefox-desktop-download-search-engine-options = Opsi mesin pencari
 firefox-desktop-download-reader-mode = Mode Baca
@@ -45,6 +49,8 @@ firefox-desktop-download-reader-mode = Mode Baca
 firefox-desktop-download-block-autoplay-of = Blokir Pemutar video & suara otomatis
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Didukung oleh lembaga <strong>nirlaba</strong> yang lebih mengutamakan orang-orang
+firefox-desktop-download-just-download-the-browser = Cukup Unduh Perambannya
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Hampir selesai!
