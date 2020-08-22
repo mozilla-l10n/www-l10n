@@ -13,6 +13,7 @@ switch-switching-to-firefox-page-description = Cambiar enta { -brand-name-firefo
 switch-select-what-to-take = Seleccionar qué podemos aproveitar de { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Deixa que { -brand-name-firefox } faga la resta.
 switch-use-firefox-and-still-chrome = Puetz fer servir { -brand-name-firefox } y encara tener { -brand-name-chrome }. { -brand-name-chrome } no cambia ni un bit en Zaragoza per razons de llengua.
+switch-spread-the-word = Charra sobre { -brand-name-firefox } y aduya a las tuyas conoixencias a decir adiós a { -brand-name-chrome }.
 switch-share-with-your-friends = Compartir cómo se cambia a { -brand-name-firefox } con os tuyos amigos
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } fa lo cambio dende { -brand-name-chrome } muit rapido. Torna-lo a prebar!
 switch-switch-to-firefox = Cambiar enta { -brand-name-firefox }
