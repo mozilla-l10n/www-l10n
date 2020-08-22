@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Vuela con ixe marcapachinas
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Leva-te con tu los tuyos favoritos. Usa { -brand-name-firefox-sync } pa acceder a los tuyos marcapachinas en totz los dispositivos, dende l'ordinador dica lo mobil. U preba <a href="{ $url }">{ -brand-name-pocket }</a>, una pocha pa alzar qualsequier articlo u pachina en linia y tornar ta ella dimpues - mesmo sin internet.
+features-bookmarks-customize-that-bookmark = Personaliza ixe marcapachinas
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Procrastina con ixe marcapachinas
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Practica la tuya precisión con totz los <a href="{ $url }">complementos</a> administradors de marcapachinas que te puedan ocurrir, dende fotos de pachinas enteras dica barras laterals de cambio rapido, y mesmo marcapachinas privaus de tot.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
