@@ -16,7 +16,7 @@ facebook-container-try-firefox-focus-the-privacy = Tatojtob'ej <strong>{ -brand-
 facebook-container-opt-out-on-your-terms = Ke'awojqaj ri taq awojqanem
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } nitikïr nrojqaj ronojel ri asamaj pan ajk'amaya'l chuqa' nuxïm rik'in ri ab'anikil pa { -brand-name-facebook }. We natz'ët chi nik'o ruwi', ri <a href="{ $fbcontainer }">ruk'amal Ruk'wayöl { -brand-name-facebook }</a> nujäch ri ab'anikil pa jun jachon ruwi', ri man nuya' ta q'ij chi re ri { -brand-name-facebook } chi yatrojqaj toq atokinäq pan ajk'amaya'l.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } nitikïr nrojqaj ronojel ri asamaj pan ajk'amaya'l chuqa' nuxïm rik'in ri ab'anikil pa { -brand-name-facebook }. We natz'ët chi nik'o ruwi', ri <a href="{ $fbcontainer }"{ -brand-name-facebook-container }>ruk'amal</a> Ruk'wayöl { -brand-name-facebook } nujäch ri ab'anikil pa jun jachon ruwi', ri man nuya' ta q'ij chi re ri { -brand-name-facebook } chi yatrojqaj toq atokinäq pan ajk'amaya'l.
 facebook-container-install-and-contain = Tiyak chuqa' tik'wäx
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
