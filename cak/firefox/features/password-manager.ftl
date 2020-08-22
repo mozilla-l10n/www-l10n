@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Rukanob'al Firefox: Aninäq chuqa' man k'ayew ta Kinuk'samajel Ewan taq Tzij
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Aninäq chuqa' man k'ayew ta Kinuk'samajel Ewan taq Tzij
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } Password Manager yeruyäk ronojel ri ewan taq atzij pa jun k'ojlib'äl richin yatikïr natikirisaj molojri'ïl pa yonil chi kipam ri taq ruxaq k'amaya'l chuqa' yatikïr ye'awïl chik ri ewan taq tzij e'ayakon kan chupam.
 # Hero title
@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Timestäx ri koloj. { -brand-name-firefox } 
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ewan tzij ninja
-password-manager-no-more-try-again = Mani chik “tatojtob'ej chik” richin yatok pa jun ruxaq k'amaya'l. Tatikirisaj molojri'ïl pa rub'i' ataqoya'l richin Firefox pan awoyonib'al chuqa' ri ewan taq atzij eb'enäq awik'in. Ri taq atzij richin okem xa xkeq'alajin pe, ke re'.
+password-manager-no-more-try-again = Mani chik “tatojtob'ej chik” richin yatok pa jun ruxaq k'amaya'l. Tatikirisaj molojri'ïl pa { -brand-name-firefox-account } pan awoyonib'al chuqa' ri ewan taq atzij eb'enäq awik'in. Ri taq atzij richin okem xa xkeq'alajin pe, ke re'.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Rute' ewan tzij
