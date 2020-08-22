@@ -7,6 +7,8 @@
 
 # HTML page title
 features-index-protect-your-privacy-and-browse = Lindungi privasi Anda dan menjelajah lebih cepat dengan fitur { -brand-name-firefox }
+# HTML page description
+features-index-youre-in-control-with-firefoxs = Anda memegang kendali dengan fitur { -brand-name-firefox } yang mudah digunakan, yang melindungi privasi dan kecepatan penjelajahan Anda.
 # Hero title
 features-index-firefox-features = Fitur { -brand-name-firefox }
 features-index-see-all = Lihat semua ekstensi
