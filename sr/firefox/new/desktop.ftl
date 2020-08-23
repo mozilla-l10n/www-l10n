@@ -127,6 +127,34 @@ firefox-desktop-download-as-the-internet = Како интернет расте 
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } је доступан на свим уређајима; понесите ваше језичке, историју и забелешке свуда са собом. Потребан вам је само <a { $attrs }>{ -brand-name-firefox } налог</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Правите снимке екрана високе резолуције уз наш уграђени <a { $attrs }>алат за снимање екрана</a>.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аутоматски <a { $attrs }>блокира многе пратиоце трећих страна</a> како не би скупљали и продавали вашу веб активност.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Питања? <a { $attrs }>{ -brand-name-mozilla } подршка</a> вам стоји на услузи.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Већ имате прегледач. Сада откључајте пун потенцијал уз { -brand-name-firefox } налог.
+firefox-desktop-download-watch-for-hackers-with = Пазите на хакере уз { -brand-name-firefox-monitor }, чувајте лозинке уз { -brand-name-firefox-lockwise }, и још много тога.
+firefox-desktop-download-get-more-from-firefox = Извуците максимум из { -brand-name-firefox }-а
+firefox-desktop-download-just-download-the-browser = Само преузмите прегледач
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Скоро смо готови!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Завршите <strong>инсталацију</strong> { -brand-name-firefox }-а.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Сада <strong>покрените</strong> инсталацију коју сте управо преузели.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Сада <strong>отворите</strong> датотеку коју сте управо преузели.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Имате проблема? <a { $attrs }>Нађите помоћ за вашу инсталацију</a>.
+firefox-desktop-download-in-another-language = Преузмите на другом језику или за други оперативни систем.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Користите несигурни, застарели оперативни систем који <a href="{ $url }">више не подржава { -brand-name-firefox }</a>.
