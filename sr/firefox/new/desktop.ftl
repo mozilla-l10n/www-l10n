@@ -77,6 +77,20 @@ firefox-desktop-download-individual-protections-report = Прилагођени 
 firefox-desktop-download-secure-your-personal = Осигурајте ваше личне податке
 firefox-desktop-download-breached-website-alerts = Упозорења о цурењу података
 firefox-desktop-download-built-in-password = Уграђени уређивач лозинки
+firefox-desktop-download-clear-history = Очистите историју
+firefox-desktop-download-form-autofill = Аутоматско попуњавање образаца
+firefox-desktop-download-automatic-updates = Аутоматско ажурирање
+firefox-desktop-download-customize-your-browser = Прилагодите ваш прегледач
+firefox-desktop-download-themes = Теме
+firefox-desktop-download-dark-mode = Тамни режим
+firefox-desktop-download-library-of-extensions = Библиотека проширења
+firefox-desktop-download-adjust-search-bar = Подесите подешавања траке за претрагу
+firefox-desktop-download-change-new-tab = Промените нови изглед језичка
+firefox-desktop-download-make-firefox-your = Прилагодите <strong>{ -brand-name-firefox }</strong>
+firefox-desktop-download-extensions-for-every = Проширења за сваку прилику
+firefox-desktop-download-change-up-your = Промените изглед
+firefox-desktop-download-go-from-light = У зависности од вашег расположења, пребацујте се са светлог на мрачни режим или оживите екран прилагођеном темом (можда дугиним једнорогом).
+firefox-desktop-download-tweak-your-settings = Уштимајте подешавања
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
