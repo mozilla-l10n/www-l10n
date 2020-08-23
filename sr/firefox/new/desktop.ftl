@@ -158,3 +158,8 @@ firefox-desktop-download-in-another-language = Преузмите на друг�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Користите несигурни, застарели оперативни систем који <a href="{ $url }">више не подржава { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Ваше преузимање треба да почне аутоматски. Није успело? <a id="{ $id }" href="{ $fallback_url }">Покушајте поново преузети.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } је више од прегледача.
