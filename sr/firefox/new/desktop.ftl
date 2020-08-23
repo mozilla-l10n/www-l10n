@@ -57,6 +57,10 @@ firefox-desktop-download-works-with-google = Ради са { -brand-name-google 
 firefox-desktop-download-built-in-screenshot = Уграђени алат за снимање странице
 firefox-desktop-download-bookmarks-manager = Уређивач забелешки
 firefox-desktop-download-autosuggest-urls = Аутоматско довршавање адреса
+firefox-desktop-download-sync-across-devices = Синхронизујте између уређаја
+firefox-desktop-download-reader-mode = Режим читача
+firefox-desktop-download-spell-check = Провера правописа
+firefox-desktop-download-pinned-tabs = Прикачени језичци
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
