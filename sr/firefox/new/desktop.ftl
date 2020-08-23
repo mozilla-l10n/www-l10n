@@ -45,6 +45,18 @@ firefox-desktop-download-available-in-over = Доступан на преко 90
 firefox-desktop-download-review-system-req = Проверите системске захтеве
 firefox-desktop-download-all-your-devices = Инсталирајте { -brand-name-firefox } на све ваше уређаје
 firefox-desktop-download-take-your-privacy = Понесите вашу приватност свуда са собом. { -brand-name-firefox-browsers } за { -brand-name-ios } и { -brand-name-android } имају исто јака подешавања приватности за спречавање пратилаца, где год да се налазите.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Уз { -brand-name-firefox } <strong>све</strong> је могуће
+firefox-desktop-download-search-smarter = Претражујте паметније, брже
+firefox-desktop-download-search-from-address = Претражујте из адресне траке
+firefox-desktop-download-search-engine-options = Опције претраживача
+firefox-desktop-download-smart-search-suggestions = Паметни предлози претраге
+firefox-desktop-download-bookmark-history = Обележивачи, историја и отворени језичци у резултатима
+firefox-desktop-download-boost-your = Повећајте вашу продуктивност
+firefox-desktop-download-works-with-google = Ради са { -brand-name-google } производима
+firefox-desktop-download-built-in-screenshot = Уграђени алат за снимање странице
+firefox-desktop-download-bookmarks-manager = Уређивач забелешки
+firefox-desktop-download-autosuggest-urls = Аутоматско довршавање адреса
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
