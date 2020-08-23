@@ -17,6 +17,19 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Преузмите прегледач који штити оно што је вредно
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Без нејасних правила о приватности или оглашивача из залеђа. Само брз прегледач који не тргује вашим подацима.
+firefox-desktop-download-download-options = Опције преузимања и језика
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser } подршка
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Шта год да радите на мрежи, <br> { -brand-name-firefox-browser } <strong>не</strong> гледа.
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } у поређењу с другим прегледачима
+firefox-desktop-download-get-all-the-speed = Добијте сву брзину и алате без жртвовања приватности. { -brand-name-firefox-browser } прикупља тако мало података о вама да нам чак није потребна ваша адреса е-поште за преузимање. За разлику од других прегледача, ми немамо финансијски интерес да пратимо ваше активности на вебу.
+firefox-desktop-download-how-we-compare = Како стојимо у поређењу са другим прегледачима
+firefox-desktop-download-compare-firefox-to = Упоредите { -brand-name-firefox } са:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Да
+firefox-desktop-download-no = Не
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
