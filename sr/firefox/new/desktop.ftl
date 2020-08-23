@@ -75,6 +75,8 @@ firefox-desktop-download-cryptominer-blocking = Блокирање крипто-
 firefox-desktop-download-private-browsing-mode = Приватни режим прегледања
 firefox-desktop-download-individual-protections-report = Прилагођени извештај заштите
 firefox-desktop-download-secure-your-personal = Осигурајте ваше личне податке
+firefox-desktop-download-breached-website-alerts = Упозорења о цурењу података
+firefox-desktop-download-built-in-password = Уграђени уређивач лозинки
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
