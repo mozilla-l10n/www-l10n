@@ -114,6 +114,13 @@ firefox-desktop-download-get-firefox-android = Набавите { -brand-name-fi
 firefox-desktop-download-get-firefox-ios = Набавите { -brand-name-firefox-browser } за <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Преузмите { -brand-name-firefox } мобилни прегледач за аутоматску заштиту на свим вашим уређајима.
 firefox-desktop-download-learn-about-the = Сазнајте више о { -brand-name-firefox } десктоп прегледачу испод
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Од безбедности, преко вести, до игара - овде има <a { $attrs }>проширење за свакога</a>. Преузимајте до миле воље док не нађете оно право.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } је направила <a { $attrs }>{ -brand-name-mozilla }</a> као бржу и приватнију алтернативу прегледачима као што су { -brand-name-ie } и { -brand-name-chrome } тренутно. Данас, наша компанија и заједница волонтера још увек прате мисију постављања људи испред профита.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
