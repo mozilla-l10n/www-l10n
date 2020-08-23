@@ -108,6 +108,12 @@ firefox-desktop-download-sync-your-devices = Синхронизујте ваше
 firefox-desktop-download-screenshots = Снимци екрана
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Побољшана заштита од праћења (ETP)
+firefox-desktop-download-from-watching-a = Било да гледате веб приручник, омиљену серију или пренос уживо, видео вас прати и омогућава да се концентришете на друге ствари.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Набавите { -brand-name-firefox-browser } за <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Набавите { -brand-name-firefox-browser } за <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Преузмите { -brand-name-firefox } мобилни прегледач за аутоматску заштиту на свим вашим уређајима.
+firefox-desktop-download-learn-about-the = Сазнајте више о { -brand-name-firefox } десктоп прегледачу испод
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
