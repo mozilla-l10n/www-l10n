@@ -22,3 +22,5 @@ features-index-enhanced-tracking = Rozšířená ochrana proti sledování
 features-index-we-dont-sell-access-to-your = Neprodáváme přístup k vašim online údajům. Tečka.
 features-index-get-firefox-for-privacy = { -brand-name-firefox } a soukromí
 features-index-firefox-vs = { -brand-name-firefox } vs. jiné prohlížeče
+features-index-compare-browsers = Porovnání prohlížečů
+features-index-download-latest = Stáhnout nejnovější { -brand-name-firefox(case: "acc") }
