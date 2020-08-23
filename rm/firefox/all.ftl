@@ -31,6 +31,23 @@ firefox-all-learn-about-firefox = Ulteriuras infurmaziuns davart ils navigaturs 
 firefox-all-the-standard-firefox = Il navigatur { -brand-name-firefox } da standard — svelt e privat. Sche ti na sas betg tge { -brand-name-firefox } tscherner, tscherna quest.
 firefox-all-get-a-sneak-peek-at = Dà in tgit a las funcziuns las pli novas da { -brand-name-firefox } – avant ch'ellas vegnan publitgadas.
 firefox-all-test-your-sites-against = Testescha tias websites cun las funcziuns da novas versiuns da { -brand-name-firefox } che vegnan prest publitgadas, cun agid dals utensils per sviluppaders, integrads gia en la versiun standard.
+firefox-all-count-on-stability-and = Questa varianta da { -brand-name-firefox } creada per interpresas è specialmain stabila e simpla d'utilisar.
+firefox-all-windows-installers-for = Programs d'installaziun per ambients informatics da Windows en interpresas che simplifitgeschan la configuraziun, l'implementaziun e l'administraziun da { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = Programs d'installaziun ARM64/AArch64
+firefox-all-arm64-installers-optimized = Programs d'installaziun ARM64/AArch64 optimads per PCs cun { -brand-name-windows } e processurs Snapdragon.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Tscherna in program d'installaziun da 32 bits per computers cun processurs da 32 bits — u per computers pli vegls u main ferms. <a href="{ $url }">Sche ti na pos betg ta decider</a> per in program d'installaziun da 64 bits u in da 32 bits, ta recumandain nus d'installar la versiun da 32 bits.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Telechargiar { $product_label } per { $platform } per { $locale }
+firefox-all-msi-installers = Program d'installaziun MSI
+firefox-all-which-version = Tge versiun vuls ti?
+firefox-all-select-your-preferred-installer = Tscherna il program d'installaziun preferì
+firefox-all-select-your-preferred-language = Tscherna la lingua preferida
+firefox-all-learn-about-installers = Infurmaziuns davart ils programs d'installaziun
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
