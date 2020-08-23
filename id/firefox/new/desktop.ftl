@@ -52,6 +52,8 @@ firefox-desktop-download-search-from-address = Cari dari bilah alamat
 firefox-desktop-download-search-engine-options = Opsi mesin pencari
 firefox-desktop-download-smart-search-suggestions = Saran pencarian cerdas
 firefox-desktop-download-bookmark-history = Markah, sejarah dan tab terbuka di hasil
+firefox-desktop-download-boost-your = Tingkatkan produktivitas Anda
+firefox-desktop-download-sync-across-devices = Sinkronisasi antar perangkat
 firefox-desktop-download-reader-mode = Mode Baca
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Blokir Pemutar video & suara otomatis
