@@ -16,7 +16,7 @@ features-bookmarks-file-that-bookmark = Založte tu záložku
 # Dial in means to access/use (the bookmarks).
 features-bookmarks-get-your-faves-all-sorted = Roztřiďte své oblíbené stránky pomocí ikony hvězdičky, která vám umožňuje rychle přidat vlastní názvy a složky. Potom si přidejte své záložky na panel záložek, aby jste měli své oblíbené odkazy vždy po ruce.
 # Fly here means to have your bookmark go wherever you go.
-features-bookmarks-fly-with-that-bookmark = Vezměte si záložku s sebou do světa
+features-bookmarks-fly-with-that-bookmark = Vezměte si záložky s sebou do světa
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.

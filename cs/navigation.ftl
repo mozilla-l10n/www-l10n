@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox(case: "acc") } pro { -bra
 navigation-watch-videos-and-browse = Sledujte videa a prohlížejte internet na své { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = V prohlížečích { -brand-name-firefox } je a vždy bylo na prvním místě vaše soukromí.
 navigation-take-the-passwords-youve = Vezměte si hesla, která jste si ve { -brand-name-firefox(case: "loc") } uložili, všude s sebou.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } je celá rodina produktů navržených tak, aby vás na internetu chránily a hýčkaly.
 navigation-join-firefox = Přihlaste se k { -brand-name-firefox(case: "dat") }
 navigation-access-all-of-firefox = Získejte přístup ke všemu ve { -brand-name-firefox(case: "loc") } pomocí jediného přihlášení a dostanete díky tomu z každého produktu více.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Získejte { -brand-name-firefox-focus(case: "acc"
 navigation-android-extensions = Rozšíření pro { -brand-name-android(case: "acc") }
 navigation-your-firefox-account = Váš { -brand-name-firefox-account(capitalization: "lower") }
 navigation-make-the-most-of-your = Využijte to nejlepší z { -brand-name-firefox(case: "gen") } na všech zařízeních.
+# Outdated string
 navigation-learn-how-to-customize = Zjistěte, jak si můžete { -brand-name-firefox(case: "acc") } nejlépe přizpůsobit.
+navigation-explore-the-immersive = Prozkoumejte rozsáhlý web pomocí brýlí pro virtuální realitu.
+# Outdated string
 navigation-experience-augmented = Užijte si s { -brand-name-firefox(case: "ins") } rozšířenou a virtuální realitu.
+navigation-get-together = Setkávejte se ve světě vytvořeném ve virtuální realitě.
+# Outdated string
 navigation-meet-people-in-experimental = Seznamte se s lidmi v experimentálních chatovacích místnostech pro smíšenou realitu ve { -brand-name-firefox(case: "loc") }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } přináší na web virtuální a rozšířenou realitu.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } připravila { -brand-name-firefox(case: "acc") } i pro rozšířenou a virtuální realitu.
 navigation-firefox-built-just-for = Verze { -brand-name-firefox(case: "gen") } vytvořená pro vývojáře.
 navigation-preview-the-latest-build = Vyzkoušejte si nejnovější sestavení { -brand-name-firefox(case: "gen") } a pomozte nám je vylepšit.
@@ -64,6 +74,9 @@ navigation-security-tips = Bezpečnostní tipy
 navigation-share-large-files-safely = Sdílejte velké soubory bezpečně pomocí odkazů, které se sami zneplatní.
 navigation-save-quality-content = Ukládejte si kvalitní obsah a podněcujte svou mysl, ať jste kdekoli.
 navigation-sign-up = Vytvořit účet
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rychle. Jednoduše. Soukromě.
+navigation-protect-your-entire-device = Zamaskujte svou skutečnou polohu a ochraňte až 5 svých zařízení a všechny na nich nainstalované aplikace. Zaregistrujte se.
+# Outdated string
 navigation-connected-and-protected = Připojen a chráněn
 navigation-join = Připojit se
 navigation-close-join-menu = Zavřít
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Poznejte technologickou společnost, pr
 navigation-new-features = Nové funkce
 navigation-save-content-absorb-knowledge = Ukládání obsahu a nových znalostí.
 navigation-same-speed-and-safety = Stejně rychlý a bezpečný prohlížeč, kterému důvěřujete, jen v balení pro firmy.
+# Outdated string
 navigation-add-ons = Doplňky
 navigation-projects = Projekty
 navigation-close-projects-menu = Zavřít
 navigation-donate-your-voice-to = Darujte svůj hlas a pomozte zpřístupnit rozpoznávání hlasu pro každého.
+navigation-machine-learning = Strojové učení
+# Outdated string
 navigation-web-of-things-iot = Internet a web věcí (IoT)
+navigation-help-make-deep-learning = Pomozte nám zpřístupnit algoritmy hlubokého učení pro open source svět.
+# Outdated string
 navigation-make-devices-connected = Zabezpečte zařízení připojená k internetu a ujistěte se, že budou dohromady fungovat.
 navigation-developers = Pro vývojáře
 navigation-close-developers-menu = Zavřít
