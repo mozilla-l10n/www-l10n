@@ -100,6 +100,14 @@ firefox-desktop-download-your-privacy-comes = Ваша приватност на
 firefox-desktop-download-keep-all-your = Задржите све ваше омиљене функције прегледања и <strong>откријте</strong> нове.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Сви ваши омиљени { -brand-name-google } алати (нпр. Gmail и Docs) раде несметано у { -brand-name-firefox-browser }-у.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Преузмите ово проширење</a> да спречите { -brand-name-facebook } (и { -brand-name-instagram }) да вас прате по интернету.
+firefox-desktop-download-sync-your-devices = Синхронизујте ваше уређаје
+firefox-desktop-download-screenshots = Снимци екрана
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Побољшана заштита од праћења (ETP)
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
