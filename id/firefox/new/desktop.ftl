@@ -57,6 +57,7 @@ firefox-desktop-download-sync-across-devices = Sinkronisasi antar perangkat
 firefox-desktop-download-reader-mode = Mode Baca
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Blokir Pemutar video & suara otomatis
+firefox-desktop-download-customize-your-browser = Ubahsuai peramban Anda
 firefox-desktop-download-themes = Tema
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Didukung oleh lembaga <strong>nirlaba</strong> yang lebih mengutamakan orang-orang
