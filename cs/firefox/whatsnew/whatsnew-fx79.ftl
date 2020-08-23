@@ -23,6 +23,7 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } blokuje více reklamní
 # CTA link
 whatsnew79-see-your-report = Zobrazit mé hlášení
 whatsnew79-update-your-firefox = Aktualizujte svůj prohlížeč { -brand-name-firefox }
+whatsnew79-download-the-firefox = Stáhnout prohlížeč { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = Přečtěte si náš slib ohledně ochrany osobních údajů
 whatsnew79-take-less-keep-it-safe = Brát méně. Uchovávat v bezpečí. Žádná tajemství. Nezneužíváme vaši důvěru k vydělávání peněz.
 # CTA link
@@ -31,3 +32,8 @@ whatsnew79-keep-facebook-contained = Stanovte { -brand-name-facebook(case: "dat"
 whatsnew79-get-the-power-to-prevent = Získejte moc zabránit { -brand-name-facebook(case: "dat") } a { -brand-name-instagram(case: "dat") } v tom, aby vás na webu sledovali.
 # CTA link
 whatsnew79-add-facebook-container = Přidejte si { -brand-name-facebook-container(case: "acc") }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Stáhněte si { -brand-name-firefox(case: "acc") } do svého telefonu
+whatsnew79-scan-the-qr-code = Naskenujte QR kód a můžete začít
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = QR kód k naskenování pro stažení { -brand-name-firefox(case: "gen") }
