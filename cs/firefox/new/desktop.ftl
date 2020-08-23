@@ -108,11 +108,16 @@ firefox-desktop-download-sync-your-devices = Synchronizace vašich zařízení
 firefox-desktop-download-screenshots = Snímky stránek
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Rozšířená ochrana proti sledování
+firefox-desktop-download-from-watching-a = Ať už na webu sledujete návod nebo svůj oblíbený tým, vaše video je stále s vámi, i když se naráz věnujete více věcem.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-android(case: "acc") }</strong>
 firefox-desktop-download-get-firefox-ios = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-ios(case: "acc") }</strong>
 firefox-desktop-download-download-the-mobile = Stáhněte si mobilní prohlížeč { -brand-name-firefox } k zajištění automatické ochrany na všech svých zařízeních.
 firefox-desktop-download-learn-about-the = Bližší informace o prohlížeči { -brand-name-firefox } pro počítač naleznete níže
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od zabezpečení přes zpravodajství až po hraní her, <a { $attrs }>pro každého existuje rozšíření</a>. Přidejte si jich dle libosti, dokud váš prohlížeč nebude umět všechno, co potřebujete.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora { -brand-name-mozilla(case: "gen") }</a> má odpovědi.
