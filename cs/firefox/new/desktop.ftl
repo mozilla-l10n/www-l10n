@@ -118,7 +118,24 @@ firefox-desktop-download-learn-about-the = Bližší informace o prohlížeči {
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora { -brand-name-mozilla(case: "gen") }</a> má odpovědi.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Prohlížeč už máte. { -brand-name-firefox } ale umí ještě více.
+firefox-desktop-download-watch-for-hackers-with = Hlídejte hackery pomocí { -brand-name-firefox-monitor(case: "gen") }, chraňte hesla pomocí { -brand-name-firefox-lockwise(case: "case") } a nejen to.
 firefox-desktop-download-get-more-from-firefox = Využívejte { -brand-name-firefox(case: "acc") } naplno
+firefox-desktop-download-just-download-the-browser = Stáhněte si prohlížeč
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Téměř hotovo!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Teď už jen stačí { -brand-name-firefox(case: "acc") } <strong>nainstalovat</strong>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Máte potíže? <a { $attrs }>Rádi vám s instalací pomůžeme</a>.
+firefox-desktop-download-in-another-language = Stáhnout v jiném jazyce nebo pro jiný operační systém.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Používáte zastaralou a ne zcela bezpečnou verzi operačního systému, <a href="{ $url }">kterou už { -brand-name-firefox } nepodporuje</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Vaše stahování by mělo začít automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Zkuste to znova</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je víc než jenom prohlížeč.
