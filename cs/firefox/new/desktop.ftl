@@ -14,13 +14,13 @@ firefox-desktop-download-meta-desc = Získejte { -brand-name-firefox(case: "acc"
 firefox-desktop-download-og-title = Stáhněte si ten nejrychlejší { -brand-name-firefox(case: "acc") }
 firefox-desktop-download-og-desc = Rychlejší načítání stránek, menší spotřeba paměti a plno funkcí – je tu nový { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Získejte prohlížeč, který chrání to, co je důležité
+firefox-desktop-download-get-the-browser = Získejte prohlížeč, který chrání, co je důležité
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Žádné pochybné zásady ochrany osobních údajů ani zadní vrátka pro reklamní systémy. Jen bleskurychlý prohlížeč, který vás nezradí pro peníze.
 firefox-desktop-download-download-options = Další verze a jazyky
 firefox-desktop-download-browser-support = Stránky podpory { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Dělejte na internetu to, cokoliv chcete.<br> { -brand-name-firefox-browser } <strong>se nedívá</strong>.
+firefox-desktop-download-do-what-you-do = Dělejte na internetu, cokoliv chcete.<br> { -brand-name-firefox-browser } <strong>se nedívá</strong>.
 firefox-desktop-download-how-firefox-compares = Jak si { -brand-name-firefox } vede ve srovnání s jinými prohlížeči
 firefox-desktop-download-get-all-the-speed = Získejte veškerou rychlost a všechny nástroje bez zásahů do soukromí. { -brand-name-firefox-browser } o vás shromažďuje tak málo údajů, že ke stažení ani nevyžadujeme vaši e-mailovou adresu. To proto, že na rozdíl od jiných prohlížečů nemáme žádný finanční zájem na vašem sledování na webu.
 firefox-desktop-download-how-we-compare = Jak si vedeme ve srovnání s jinými prohlížeči
@@ -39,12 +39,12 @@ firefox-desktop-download-in-browser-screenshot = Nástroj pro vytváření sním
 firefox-desktop-download-master-password = Hlavní heslo
 firefox-desktop-download-we-block-the-ad = My blokujeme sledující reklamy. Vy prohlížíte internet rychleji.
 firefox-desktop-download-ads-are-distracting = Reklamy odvádějí vaši pozornost a zpomalují načítání webových stránek. Zároveň jejich sledovací prvky zaznamenávají každý pohyb, který na internetu uděláte. { -brand-name-firefox-browser } blokuje většinu sledovacích prvků zcela automaticky, takže není třeba sahat do nastavení zabezpečení.
-firefox-desktop-download-see-your-report = Podívejte se na hlášení o ochraně vašeho soukromí
+firefox-desktop-download-see-your-report = Přehled ochrany vašeho soukromí
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je pro každého
-firefox-desktop-download-available-in-over = { -brand-name-firefox } je k dispozici ve více než 90 jazycích a je kompatibilní s počítači se systémem { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }. Funguje tedy bez ohledu na to, co používáte nebo kde jste. Aby vám šlapal co nejlépe, udržujte váš operační systém aktuální.
+firefox-desktop-download-available-in-over = { -brand-name-firefox } je k dispozici ve více než 90 jazycích a je kompatibilní s počítači se systémem { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }. Funguje tedy bez ohledu na to, co používáte nebo kde jste. Aby vám šlapal co nejlépe, udržujte svůj operační systém aktuální.
 firefox-desktop-download-review-system-req = Zkontrolovat systémové požadavky
-firefox-desktop-download-all-your-devices = Dejte si { -brand-name-firefox(case: "acc") } do všech svých zařízení
-firefox-desktop-download-take-your-privacy = Vezměte si své soukromí všude s sebou. { -brand-name-firefox-browsers } pro { -brand-name-ios(case: "acc") } a { -brand-name-android(case: "acc") } má stejně silná nastavení ochrany soukromí, aby sledovacím prvkům zabránil ve vašem sledování na webu, ať jste kdekoliv.
+firefox-desktop-download-all-your-devices = { -brand-name-firefox } pro každé vaše zařízení
+firefox-desktop-download-take-your-privacy = Vezměte si své soukromí všude s sebou. { -brand-name-firefox-browsers } pro { -brand-name-ios(case: "acc") } a { -brand-name-android(case: "acc") } mají stejně silná nastavení ochrany soukromí, aby sledovacím prvkům zabránily ve vašem sledování na webu, ať jste kdekoliv.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Toto <strong>vše</strong> s { -brand-name-firefox(case: "ins") }
 firefox-desktop-download-search-smarter = Vyhledávejte chytřeji a rychleji
@@ -92,6 +92,33 @@ firefox-desktop-download-change-up-your = Změňte si vzhled
 firefox-desktop-download-go-from-light = Podle své nálady nebo preferencí si přepněte mezi světlým nebo tmavým vzhledem, nebo si vše zpestřete něčím osobním (třebas duhovým jednorožcem).
 firefox-desktop-download-tweak-your-settings = Vypilujte svá nastavení
 firefox-desktop-download-theres-no-need = Není třeba si zvykat. Klidně si změňte stránku nového panelu, pole vyhledávání, záložky a další věci, abyste surfovali tak, jak vy chcete.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Podporováno <strong>neziskovou organizací</strong>, pro kterou jsou lidé na prvním místě
+firefox-desktop-download-challenging-the-status = Výzvou pro status quo už od roku 1998
+firefox-desktop-download-your-privacy-comes = Vaše soukromí vždy na prvním místě
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Ponechte si všechny své oblíbené funkce a <strong>objevte</strong> nové.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Všechny vaše oblíbené nástroje od { -brand-name-google(case: "gen") } (jako Gmail a Dokumenty) fungují v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } bez problémů.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Stáhněte si toto rozšíření</a> a zabraňte { -brand-name-facebook(case: "dat") } (a { -brand-name-instagram(case: "dat") }), aby vás na webu sledoval.
+firefox-desktop-download-sync-your-devices = Synchronizace vašich zařízení
+firefox-desktop-download-screenshots = Snímky stránek
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Rozšířená ochrana proti sledování
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-android(case: "acc") }</strong>
+firefox-desktop-download-get-firefox-ios = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-ios(case: "acc") }</strong>
+firefox-desktop-download-download-the-mobile = Stáhněte si mobilní prohlížeč { -brand-name-firefox } k zajištění automatické ochrany na všech svých zařízeních.
+firefox-desktop-download-learn-about-the = Bližší informace o prohlížeči { -brand-name-firefox } pro počítač naleznete níže
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora { -brand-name-mozilla(case: "gen") }</a> má odpovědi.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Prohlížeč už máte. { -brand-name-firefox } ale umí ještě více.
+firefox-desktop-download-get-more-from-firefox = Využívejte { -brand-name-firefox(case: "acc") } naplno
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
