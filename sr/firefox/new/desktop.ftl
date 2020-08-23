@@ -121,6 +121,12 @@ firefox-desktop-download-from-security-to = Од безбедности, пре�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } је направила <a { $attrs }>{ -brand-name-mozilla }</a> као бржу и приватнију алтернативу прегледачима као што су { -brand-name-ie } и { -brand-name-chrome } тренутно. Данас, наша компанија и заједница волонтера још увек прате мисију постављања људи испред профита.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Како интернет расте и мења се, { -brand-name-firefox } наставља да се фокусира на ваше право на приватност  — називамо га <a { $attrs }>обећање о личним подацима</a>: мање узимај. Боље чувај. Без тајни. Ваши подаци, веб активности и живот на мрежи су заштићени уз { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } је доступан на свим уређајима; понесите ваше језичке, историју и забелешке свуда са собом. Потребан вам је само <a { $attrs }>{ -brand-name-firefox } налог</a>.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
