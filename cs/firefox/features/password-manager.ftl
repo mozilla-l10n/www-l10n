@@ -16,10 +16,15 @@ password-manager-password-hero = Hrdina hesel
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Rozlučte se s obnovováním hesla. Správce hesel ve { -brand-name-firefox(case: "loc") } si všechna vaše hesla zapamatuje, takže se můžete přihlašovat automaticky a snadno najít svá uložená hesla. Pro extra zabezpečení můžete na svém počítači nastavit <a href="{ $url }">hlavní heslo</a>.
+password-manager-password-magician = Vládce hesel
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja hesel
 password-manager-no-more-try-again = Už žádné „zkuste to znovu“. Přihlaste se se svým { -brand-name-firefox-account(case: "ins", capitalization: "lower") } na svém telefonu a vaše hesla půjdou všude s vámi. Vaše přihlašovací údaje se objeví jako lusknutím prstu.
+password-manager-password-champion = Vládce hesel
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Zvyšte úroveň svého zabezpečení s některým ze široké nabídky <a href="{ $addons }">doplňků</a> pro správu hesel ve { -brand-name-firefox(case: "loc") }. Vyberte si jeden z nejoblíbenějších nebo si vyberte na základě hodnocení a recenzí zkušených členů komunity.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Pán hesel

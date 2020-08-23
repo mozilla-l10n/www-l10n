@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox } - Rebel s po
 features-independent-firefox-is-independent = { -brand-name-firefox } je nezávislý prohlížeč, který je součástí { -brand-name-mozilla(case: "gen") }, neziskové organizace, která bojuje za vaše online práva, udržuje nenasytné korporace v šachu a pomáhá vytvářet internet dostupný pro všechny a všude.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Bez skrytých háčků
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } je vytvářen neziskovou organizací. To znamená, že můžeme dělat věci, které ostatní nemohou, jako třeba tvořit nové produkty a funkce bez skrývání naší skutečné motivace. S režimem anonymního prohlížení a ochranou proti sledování vám dáváme právo na skutečné soukromí.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } je vytvářen neziskovou organizací. To znamená, že můžeme dělat věci, které ostatní nemohou, jako třeba tvořit nové produkty a funkce bez skrývání naší skutečné motivace. S režimem anonymního prohlížení a ochranou proti sledování vám dáváme právo na skutečné soukromí, které vám { -brand-name-google } { -brand-name-chrome } ani { -brand-name-microsoft } { -brand-name-edge } nenabídnou.
 features-independent-what-you-see-is-what = Co vidíte, to také dostanete

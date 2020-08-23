@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Prohlédněte si nejnovější funkce { -brand
 firefox-all-test-your-sites-against = Otestujte své stránky s ohledem na připravované nové funkce { -brand-name-firefox(case: "gen") } pomocí výkonných a flexibilních nástrojů pro vývojáře, které jsou ve výchozím nastavení zapnuté.
 firefox-all-count-on-stability-and = Spolehněte se na stabilitu a snadné používání tohoto { -brand-name-firefox(case: "gen") } vytvořeného pro firmy.
 firefox-all-windows-installers-for = Instalátory systému Windows pro podnikové IT, které zjednodušují konfiguraci, nasazení a správu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
+firefox-all-arm64-installers = Instalátory pro ARM64/AArch64
+firefox-all-arm64-installers-optimized = Instalátory pro ARM64/AArch64 jsou optimalizované pro počítače s { -brand-name-windows(case: "ins") } a procesory Snapdragon.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-bitový instalátor vyberte pro počítače s 32-bitovými procesory nebo pro starší či méně výkonné počítače. <a href="{ $url }">Pokud si nejste jisti</a>, zda vybrat 64-bitový nebo 32-bitový instalátor, doporučujeme zvolit 32-bitový.

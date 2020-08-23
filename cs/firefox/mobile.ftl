@@ -28,9 +28,7 @@ firefox-mobile-discover-products-that-keep = Objevte produkty, které vás uchov
 firefox-mobile-sync-your-history-passwords = Synchronizujte svou historii, hesla a záložky. Posílejte panely do všech svých zařízení.
 firefox-mobile-android-only = Pouze pro { -brand-name-android(case: "acc") }
 firefox-mobile-make-android-your-own = Přizpůsobte si { -brand-name-android(case: "acc") } podle svého
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Přizpůsobte si svůj mobilní prohlížeč { -brand-name-firefox } pomocí <a href="{ $url }">rozšíření</a> a blokujte tak reklamy, spravujte hesla, zabraňte { -brand-name-facebook(case: "dat") } ve vašem sledování a nejen to.
+firefox-mobile-customize-your-firefox-mobile-truncated = Přizpůsobte si mobilní { -brand-name-firefox(case: "acc") } pomocí rozšíření.
 firefox-mobile-find-it-fast-with-a-smart = Rychlé vyhledávání pomocí chytrého vyhledávacího pole
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } předvídá vaše potřeby pomocí návrhů vyhledávání a rychlého přístupu k webům, které nejčastěji navštěvujete.
 firefox-mobile-the-privacy-you-deserve-the = Soukromí, které si zasloužíte. Rychlost, kterou potřebujete.

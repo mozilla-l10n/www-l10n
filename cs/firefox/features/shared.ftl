@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = Lepší zážitek z internetu
+features-shared-more-firefox-features = Další funkce prohlížeče { -brand-name-firefox }
 features-shared-browse-faster = Prohlížejte rychleji
 features-shared-your-favorite-extensions = Vaše oblíbená rozšíření
 features-shared-balanced-memory = Vyvážená paměť
