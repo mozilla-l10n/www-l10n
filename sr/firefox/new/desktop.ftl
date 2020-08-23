@@ -61,6 +61,20 @@ firefox-desktop-download-sync-across-devices = Синхронизујте изм
 firefox-desktop-download-reader-mode = Режим читача
 firefox-desktop-download-spell-check = Провера правописа
 firefox-desktop-download-pinned-tabs = Прикачени језичци
+firefox-desktop-download-stream-share-play = Стримујте, делите и репродукујте
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Блокирајте аутоматску репродукцију видеа и звука
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Слика-у-слици
+firefox-desktop-download-curated-content-on = Одабран садржај у новом језичку
+firefox-desktop-download-share-links = Делите везе
+firefox-desktop-download-protect-your-privacy = Штитите вашу приватност
+firefox-desktop-download-third-party-cookie = Блокирање колачића трећих страна
+firefox-desktop-download-fingerprinter-blocking = Блокирање хватача отисака
+firefox-desktop-download-cryptominer-blocking = Блокирање крипто-рудара
+firefox-desktop-download-private-browsing-mode = Приватни режим прегледања
+firefox-desktop-download-individual-protections-report = Прилагођени извештај заштите
+firefox-desktop-download-secure-your-personal = Осигурајте ваше личне податке
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
