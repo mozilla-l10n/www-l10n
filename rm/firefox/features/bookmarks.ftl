@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
-# HTML page title
-features-bookmarks-firefox-browser-better = Cun il navigatur Firefox ta suondan ils segnapaginas dapertut
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organisescha tes segnapaginas a moda simpla en ordinaturs e ti has access ad els cun tut tes apparats – sin il computer u telefonin.
 features-bookmarks-better-bookmarks = Megliers segnapaginas
