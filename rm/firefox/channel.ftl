@@ -35,7 +35,6 @@ firefox-channel-nightly-blog = Blog da { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } è ina plattafurma instabla per tests e svilup. { -brand-name-nightly } trametta, sco standard, datas a { -brand-name-mozilla } — e mintgatant a noss partenaris — per gidar a schliar problems ed empruvar novas ideas. <a href="{ $link }">Ve a savair tge che vegn transmess</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Emprova novas funcziunalitads dal navigatur en ina versiun preliminara | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-desktop = Emprova las pli novas funcziunalitads en ina versiun preliminara dal navigatur: Firefox per sviluppaders, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Ussa telechargiar!
 firefox-channel-download-and-test-the-latest-desktop = Telechargiar e testar las pli novas funcziuns per { -brand-name-firefox } desktop cun las versiuns { -brand-name-developer-edition }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testescha funcziunalitads che vegnan prest publitgadas en la versiun preliminara la pli stabila.
