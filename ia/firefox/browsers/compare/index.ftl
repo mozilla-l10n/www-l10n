@@ -11,7 +11,7 @@ compare-index-six-of-the-best-browsers-fallback = Sex del le melior navigatores 
 # Sub-headline
 compare-index-privacy-utility-portability = Confidentialitate. Utilitate. Portabilitate.
 # HTML page description
-compare-index-a-great-internet-browser-should = Un optime navigator internet deberea haber le functionalitate que te besonia, portabilitate inter le apparatos e le confidentialitate que tu merita.
+compare-index-a-great-internet-browser-should = Un optime navigator internet deberea haber le functionalitate que tu require, portabilitate inter apparatos, e le confidentialitate que tu merita.
 compare-index-which-browser-is-best-at-keeping = Qual navigator es melior in mantener le cosas confidential?
 compare-index-its-not-unreasonable-to-expect = Il non es irrationabile expectar un alte nivello de protection de datos e confidentialitate del productos que nos regularmente usa pro ir in linea. Al minimo, un navigator deberea offerer alcun version del “modo de navigation private” que dele automaticamente tu chronologia de navigation e de recerca de sorta que altere usatores del mesme computator non pote acceder a illo. In iste area, tote le sex navigatores comparate ci obtene punctos.
 compare-index-its-not-unreasonable-to-expect-fallback = Il non es irrationabile expectar un alte nivello de protection de datos e confidentialitate del productos que nos regularmente usa pro ir in linea. Al minimo, un navigator deberea offerer alcun version del “modo de navigation private” que dele automaticamente tu chronologia de navigation e de recerca de sorta que altere usatores del mesme computator non pote acceder a illo. In iste area, tote le sex navigatores comparate ci obtene punctos.

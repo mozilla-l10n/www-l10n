@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
 firefox-mobile-download-the-firefox-browser = Discarga le { -brand-name-firefox-browser } pro { -brand-name-ios } e { -brand-name-android } sur tu apparato mobile
-firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pro mobile bloca ultra 2000 traciatores de ordinario e te da le confidentialitate que tu merita e le velocitate que te besonia in un modalitate Navigation anonyme mobile.
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pro mobile bloca normalmente plus de 2000 traciatores, dante te le confidentialitate que tu merita e le velocitate que tu vole in un navigator mobile e private.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Obtene le navigator mobile construite pro te, non pro annunciatores

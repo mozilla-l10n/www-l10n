@@ -28,4 +28,4 @@ installer-help-firefox-nightly-desc = Reguarda nostre proxime generation de navi
 installer-help-need-help = Desira tu auxilio pro installar?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
-installer-help-need-help-desc = Si tu besonia ancora de adjuta pro lo installar, <a href="{ $url }">lege le exercitation in nostre section Supporto.</a>
+installer-help-need-help-desc = Si tu ancora require adjuta pro installar, <a href="{ $url }">lege le tutorial in nostre section de assistentia.</a>
