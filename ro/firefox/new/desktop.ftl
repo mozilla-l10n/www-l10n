@@ -32,7 +32,7 @@ firefox-desktop-download-yes = Da
 firefox-desktop-download-no = Nu
 firefox-desktop-download-blocks-third-party = Blochează cookie-urile de urmărire de la terți
 firefox-desktop-download-autoplay-blocking = Blochează redarea automată
-firefox-desktop-download-blocks-social-trackers = Blochează elementele de urmărire de pe rețelele sociale
+firefox-desktop-download-blocks-social-trackers = Blochează elementele de urmărire de pe rețele de socializare
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilitate pentru sistemul de operare
 firefox-desktop-download-in-browser-screenshot = Capturi de ecran în browser
