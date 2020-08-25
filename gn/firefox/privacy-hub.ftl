@@ -58,6 +58,7 @@ firefox-privacy-hub-learn-more-about-lockwise = Maranduve { -brand-name-lockwise
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Emondo marandurenda
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } omomorã haipyre iporãva ha poravopyre avaite rupive ombyaty’ỹre ñeikundaha mba’ekuaarã rembiasakue omoherakuã’ỹre ne maranduete mba’apohaguasu ñemurãva ndive.
 firefox-privacy-hub-get-pocket = Ereko { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Nde { -brand-name-firefox-account }
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Eraha ne ñemigua ha techaukaha opaite hendápe { -brand-name-firefox-account } ndive.
