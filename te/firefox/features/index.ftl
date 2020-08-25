@@ -10,4 +10,5 @@ features-index-firefox-features = { -brand-name-firefox } విశేషాల�
 features-index-see-all = పొడగింతన్నీ చూడండి
 features-index-get-an-account = { -brand-name-firefox-account }‌ను పొందండి
 features-index-see-what-makes-us-different = మేము ఎలా విభిన్నమో చూడండి
+features-index-choose-independence = స్వతంత్రతని ఎంచుకోండి
 features-index-read-our-privacy-policy = మా గోప్యతా విధానాన్ని చదవండి

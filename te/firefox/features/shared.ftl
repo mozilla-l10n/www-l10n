@@ -9,4 +9,6 @@ features-shared-a-better-internet-experience = ఒక మెరుగైన అ�
 features-shared-more-firefox-features = మరిన్ని { -brand-name-firefox } విహారిణి విశేషాలు
 features-shared-browse-faster = వేగంగా విహరించండి
 features-shared-your-favorite-extensions = మీ అభిమాన పొడగింతలు
+features-shared-more-powerful-private-browsing = మరింత శక్తివంతమైన అంతరంగిక విహారణ
+features-shared-better-bookmarks = మెరుగైన ఇష్టాంశాలు
 brand-name-firefox = { -brand-name-firefox }
