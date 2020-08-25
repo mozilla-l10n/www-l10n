@@ -13,5 +13,7 @@ welcome-page2-activate-pocket = Emyandy { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-pocket-is-built-right-into = { -brand-name-pocket } ojuaju { -brand-name-firefox } rehe, eñongatukuaahápe tembiasakue hasy’ỹháicha ejuhúvo ha upéi emoñe’ẽkuaa oimeraẽva mba’e’okápe.
 welcome-page2-save-content-from-everywhere = Eñongatu tetepy oparupigua
+welcome-page2-grab-articles-videos-and-links = Eñongatu jehaipyre, ta’ãngamýi ha juajuha oimeraẽva ñanduti renda oikutúvo { -brand-name-pocket } ra’ãnga’i kundahára rembipuru rendápe.
 welcome-page2-discover-new-stories = Eikuaa tembiasakue pyahu
+welcome-page2-pocket-shows-recommended-stories = { -brand-name-pocket } ohechauka tembiasakue iporãva eikévo tendayke pyahúpe. Eñongatu umi ehayhuvéva.
 welcome-page2-why-am-i-seeing-this = ¿Mba’ére ahecha kóva?
