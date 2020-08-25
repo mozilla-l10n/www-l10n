@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/products/
 
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-firefox-browsers = { -brand-name-firefox } విహారిణులు
 firefox-products-desktop = డెస్క్‌టాప్
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
