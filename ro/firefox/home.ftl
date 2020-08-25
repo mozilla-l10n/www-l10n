@@ -11,7 +11,7 @@ firefox-home-the-browser-is-just = Browserul este doar începutul
 firefox-home-meet-our-family-of = Fă cunoștință cu familia noastră de produse
 firefox-home-get-trackers-off = Elimină 2.000 de elemente de urmărire pe urma ta - inclusiv { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Știi când atacă hackerii - și ești cu un pas înaintea lor
-firefox-home-start-getting-breach = Începe să primești rapoarte privind încălcările securității datelor
+firefox-home-start-getting-breach = Începe să primești rapoarte despre breșe de date
 firefox-home-keep-your-passwords = Ține-ți parolele în siguranță pe fiecare dispozitiv
 firefox-home-learn-more-about-lockwise = Află mai multe despre { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
