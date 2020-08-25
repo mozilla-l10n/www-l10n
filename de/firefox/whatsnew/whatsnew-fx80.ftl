@@ -7,7 +7,7 @@
 
 # html page title
 whatsnew80-page-title = Jetzt neu in { -brand-name-firefox }
-whatsnew80-up-to-date-banner = Perfekt! Du haben die neueste Version von { -brand-name-firefox }.
+whatsnew80-up-to-date-banner = Perfekt! Du hast die neueste Version von { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = So schnell kann’s gehen
 whatsnew80-main-intro = Wechsle nahtlos zwischen Laptop und Smartphone und sei überall sofort startklar. Hol dir { -brand-name-firefox } für Mobile.
