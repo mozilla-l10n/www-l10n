@@ -20,7 +20,7 @@ nightly-whatsnew-this-is-a-good = Ob tej priložnosti bi se vam radi zahvalili z
 nightly-whatsnew-if-you-want-to = Če želite ostati na tekočem z dogajanjem v svetu { -brand-name-nightly }ja in njegove skupnosti, si za začetek lahko preberete naš <a href="{ $blog }">blog</a> in nam sledite na <a href="{ $twitter }">{ -brand-name-twitter }ju</a>.
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Želite izvedeti, katere možnosti lahko preskusite v { -brand-name-nightly }ju in še niso na voljo v drugih izdajah { -brand-name-firefox }a? Oglejte si stran <a href="{ $mdn }">Poskusne funkcije</a> na <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+nightly-whatsnew-want-to-know-which = Želite izvedeti, katere možnosti lahko preskusite v { -brand-name-nightly }ju in še niso na voljo v drugih izdajah { -brand-name-firefox }a? Oglejte si stran <a href="{ $mdn }">Poskusne zmogljivosti</a> na <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Doživljate sesutja? Nepričakovane muhe v obnašanju? Težave z združljivostjo spletnih strani? Prijavite jih v <a href="{ $bugzilla }">Bugzilli</a> in zagotovite, da se ne prebijejo do končne izdaje (še bolje, če svoja poročila o hroščih opremite s ključno besedo <em>{ -brand-name-nightly }-community</em>)!
