@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0/whatsnew/all/
 
+# html page title
+whatsnew80-page-title = Oĩpa ipyahúva { -brand-name-firefox }-pe
 # content buckets below hero
 whatsnew80-password-fatigue = Ñe’ẽñemi kane’õ añetete
 whatsnew80-privacy-you-never = Ñemigua araka’eve eñamindu’uva’erãha
