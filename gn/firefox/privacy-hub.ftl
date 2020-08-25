@@ -61,6 +61,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } omomorã haipyre iporãva ha poravopyre avaite rupive ombyaty’ỹre ñeikundaha mba’ekuaarã rembiasakue omoherakuã’ỹre ne maranduete mba’apohaguasu ñemurãva ndive.
 firefox-privacy-hub-get-pocket = Ereko { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Nde { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Opaite marandu ojuehéva ne { -brand-name-firefox-account } rupive (kundahára rembiasakue ñe’ẽñemíme) ipapapy. Ha ne mba’ete ñe’ẽñemi ha’e mba’eñemi eikekuaa hag̃ua pype.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Eraha ne ñemigua ha techaukaha opaite hendápe { -brand-name-firefox-account } ndive.
 # Variables:
 #   $signin (string) - anchor link url and attributes

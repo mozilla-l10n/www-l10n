@@ -8,6 +8,7 @@
 switch-switch-from-chrome = Eva { -brand-name-chrome }-gui { -brand-name-firefox }-pe sapy’aitépe
 switch-switching-to-firefox-is-fast-updated = Eva hag̃ua { -brand-name-firefox } ndive ipya’e, ndahasýi ha mba’evai’ỹre, { -brand-name-firefox } ogueru nde rechaukaha, ñe’ẽñemi ha erohoryvéva { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Eva hag̃ua { -brand-name-firefox } ndive ipya’e, ndahasýi ha mba’evai’ỹre, { -brand-name-firefox } ohecharamo nde rechaukaha, henyhẽjeheguíva, ñe’ẽñemi ha ambue { -brand-name-chrome } oguerohoryvéva.
+switch-switching-to-firefox-page-description-updated = Evávo { -brand-name-firefox } ipya’e, ndahasýi ha ani ekyhyje, { -brand-name-firefox } omba’egueru nde rechaukaha, ñe’ẽñemi ha ambue { -brand-name-chrome } ehayhuvéva.
 switch-switching-to-firefox-page-description = Eva hag̃ua { -brand-name-firefox } ndive ipya’e, ndahasýi ha mba’evai’ỹre, { -brand-name-firefox } ogueru nde rechaukaha, henyhẽjeheguíva, ñe’ẽñemi ha ambue { -brand-name-chrome } oguerohoryvéva.
 switch-select-what-to-take = Embosa’y eipotáva { -brand-name-chrome }-gui.
 switch-let-firefox-do-the-rest = Eheja { -brand-name-firefox } tojapo hembýva guive.
