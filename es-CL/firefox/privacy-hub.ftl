@@ -71,6 +71,7 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = No podemos ver los nombres o el contenido de los archivos pesados que compartes mediante { -brand-name-firefox-send }, porque están cifrados de extremo a extremo. Tú eliges quién mira lo que envías, e incluso puedes configurar una fecha de caducidad y una contraseña.
 firefox-privacy-hub-send-a-file = Enviar un archivo
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recomienda artículos de alta calidad, seleccionados por personas de verdad sin recolectar datos de tu historial de navegación ni compartir tu información personal con las empresas de publicidad.
 firefox-privacy-hub-get-pocket = Obtener { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Tu { -brand-name-firefox-account }
 firefox-privacy-hub-all-the-information-synced = Toda la información sincronizada mediante tu { -brand-name-firefox-account } — desde el historial de navegación hasta las contraseñas — está cifrada. Y la contraseña de tu cuenta es la única llave para acceder a ella.
