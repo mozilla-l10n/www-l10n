@@ -11,6 +11,7 @@ compare-shared-yes = Gea
 compare-shared-no = Na
 compare-shared-private-browsing-mode = Modus da navigaziun privata
 compare-shared-blocks-third-party-tracking = Blochescha cookies da terzas partidas che fastizeschan
+compare-shared-blocks-cryptomining-scripts = Blochescha scripts criptominiers
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
