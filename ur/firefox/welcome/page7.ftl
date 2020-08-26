@@ -10,6 +10,7 @@ page7-if-you-still-kinda-like-facebook = اگر آپکو { -brand-name-facebook 
 page7-get-facebook-container = { -brand-name-facebook-container } حاصل کریں
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = ' گرام ' کے لئے کریں
+page7-make-them-unfollow-you = ان سے اپنا پیچھا  چھڑااے
 page7-that-sneaky-little-button = وہ چھوٹا سا بٹن
 page7-those-innocent-looking-f-buttons = { -brand-name-facebook } کے معصوم نظر آنے والے F بٹن آپ کی ویب سرگرمی کو ٹریک کرتے ہیں ، یہاں تک کہ اگر آپ کا اکاؤنٹ نہیں ہے۔ { -brand-name-facebook-container } ان کو بلاک کرتا ہے۔
 page7-stay-ahead-of-hackers = ہیکروں سے آگے رہیں
