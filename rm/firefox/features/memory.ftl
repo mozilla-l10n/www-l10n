@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
+# HTML page title
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Dovra pli pauca memoria, dat dapli sveltezza
 # HTML page description
 features-memory-is-your-computer-slow-your = È tes computer plaun? Forsa dovra tes navigatur memia blera memoria. Mida a { -brand-name-firefox } per esser pli svelt.
 features-memory-less-memory-usage-than-chrome = Dovra pli pauca memoria che { -brand-name-chrome }

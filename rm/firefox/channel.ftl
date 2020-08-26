@@ -35,15 +35,18 @@ firefox-channel-nightly-blog = Blog da { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } è ina plattafurma instabla per tests e svilup. { -brand-name-nightly } trametta, sco standard, datas a { -brand-name-mozilla } — e mintgatant a noss partenaris — per gidar a schliar problems ed empruvar novas ideas. <a href="{ $link }">Ve a savair tge che vegn transmess</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Emprova novas funcziunalitads dal navigatur en ina versiun preliminara | { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-desktop = Emprova las pli novas funcziunalitads en ina versiun preliminara dal navigatur: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Ussa telechargiar!
 firefox-channel-download-and-test-the-latest-desktop = Telechargiar e testar las pli novas funcziuns per { -brand-name-firefox } desktop cun las versiuns { -brand-name-developer-edition }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testescha funcziunalitads che vegnan prest publitgadas en la versiun preliminara la pli stabila.
 firefox-channel-release-notes = Notizias da publicaziun
+firefox-channel-previous-nightly-builds = Builds pli vegls da { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Creescha, testescha e scalescha grazia a l'unic navigatur creà extra per sviluppaders.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = Firefox per sviluppaders ({ -brand-name-developer-edition }) è ina plattafurma instabla per tests e svilup. Questa versiun trametta, sco standard, datas a { -brand-name-mozilla } — e mintgatant a noss partenaris — per gidar a schliar problems ed empruvar novas ideas. <a href="{ $link }">Ve a savair tge che vegn transmess</a>.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Scuvra noss navigatur da la proxima generaziun ed ans gida per ch'el daventia il meglier navigatur pussaivel: emprova { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Testescha mintga di las pli novas funcziunalitads. Da giudair sin atgna ristga.

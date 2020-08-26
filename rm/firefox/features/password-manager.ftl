@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
+# HTML page title
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Administrar pleds-clav a moda simpla e sperta
 # HTML page description
 password-manager-firefox-password = L'administraziun da pleds-clav da { -brand-name-firefox } memorisescha tut tes pleds-clav en in lieu, uschia che ti pos t'annunziar automaticamain tar paginas u avair access a moda simpla a tut tes pleds-clav memorisads.
 # Hero title
@@ -17,6 +19,7 @@ password-manager-forget-the-reset = Mai pli emblidar il pled-clav: L'administrat
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Striun da pleds-clav
+password-manager-no-more-try-again = Mai pli «emprova anc ina giada» cun s'annunziar sin ina pagina. T'annunzia cun tes { -brand-name-firefox-account } sin tes telefonin e tes pleds-clav vegnan cun tai. Las infurmaziuns d'annunzia vegnan a cumparair a moda miraculusa.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Guru da pleds-clav
