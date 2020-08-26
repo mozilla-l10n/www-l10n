@@ -10,7 +10,6 @@ features-private-browsing-private-browser = Il navigatur attent a tia sfera priv
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } protegia tia sfera privata online e blochescha fastizaders che t'observan en l'internet.
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Dapli protecziun, main quitads.
-features-private-browsing-were-obsessed-with = Nus ans engaschain per tia sfera privata. Perquai avain nus creà in modus privat ch'è bler pli ferm che quel dad auters navigaturs.
 features-private-browsing-browse-without = Na lascha nagins fastizs
 features-private-browsing-sharing-is-caring = Parter fa plaschair. Dentant mo sche ti pos tscherner tge cundivider. Il modus privat da { -brand-name-firefox } stizza automaticamain infurmaziuns sco pleds-clav, cookies e la cronologia da tes computer. Sche ti serras tes navigatur na laschas ti nagins fastizs.
 features-private-browsing-catch-those-hidden = Nagina schanza per fastizaders
