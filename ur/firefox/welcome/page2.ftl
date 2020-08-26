@@ -11,6 +11,7 @@ welcome-page2-your-time-online-is-worth = آپ کا آن لائن وقت حفا�
 welcome-page2-discover-and-save-stories = { -brand-name-pocket }— میں کہانیاں دریافت کریں اور محفوظ کریں - اور جب آپ فارغ ہوں تو ان کے پاس واپس آجائیں۔
 welcome-page2-activate-pocket = { -brand-name-pocket } کو اہل کریں
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-pocket-is-built-right-into = بلکل { -brand-name-firefox } کے اندر { -brand-name-pocket } تخلیق کیا گیا. تاکے اپ کہانیاں آسانی سے محفوظ کر سکیں جیسے ہی آپکو ملیں، پھر بعد میں کسی بھی الہ پر اسکو پڑھیں.
 welcome-page2-save-content-from-everywhere = ہر جگہ سے مواد کو محفوظ کریں
 welcome-page2-grab-articles-videos-and-links = اپنے براؤزر ٹول بار میں { -brand-name-pocket } آئیکن پر کلک کرکے مضامین ، ویڈیوز اور کسی بھی ویب سائٹ کے لنکس پکڑیں۔
 welcome-page2-discover-new-stories = نئی کہانیاں دریافت کریں

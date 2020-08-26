@@ -60,6 +60,7 @@ firefox-desktop-download-pinned-tabs = پن شدہ ٹیبز
 firefox-desktop-download-stream-share-play = سٹریم کریں، اشتراک کریں اور چلیں
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = تصویر میں تصویر
+firefox-desktop-download-curated-content-on = نئے ٹیب پر تیار کردہ مواد
 firefox-desktop-download-share-links = ربط شیئر کریں
 firefox-desktop-download-protect-your-privacy = اپنی رازداری کی حفاظت کریں
 firefox-desktop-download-fingerprinter-blocking = فنگر پرنٹرز بلاک شدہ
@@ -89,6 +90,8 @@ firefox-desktop-download-keep-all-your = اپنے پسندیدہ براؤزر ک
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = اپنے آلات سنک کریں
 firefox-desktop-download-screenshots = اسکرین شاٹس
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = (ETP)  توسيعى سراغ کاری تحفظ
 firefox-desktop-download-from-watching-a = ویب ٹیوٹوریل دیکھنے سے لے کر اپنی پسندیدہ ٹیم پر نگاہ رکھنے تک ، آپ ملٹی ٹاسک کرتے وقت اپنی ویڈیو کو  اپنے پیچھے پائیں گے۔
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> کے لیے { -brand-name-firefox-browser } حاصل کریں

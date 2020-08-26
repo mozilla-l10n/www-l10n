@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
 page7-its-okay-to-like-facebook = { -brand-name-facebook } کو پسند کرنا ٹھیک ہے
+page7-if-you-still-kinda-like-facebook = اگر آپکو { -brand-name-facebook } پسند ہے لیکن ان پر اعتماد نہیں ہے، تو { -brand-name-firefox } کی جانب سے { -brand-name-facebook-container } ایکسٹینشن آزمائیں اور آپکی ویب پر ٹریکنگ انکے لئے مزید مشکل بنادیں
 page7-get-facebook-container = { -brand-name-facebook-container } حاصل کریں
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = ' گرام ' کے لئے کریں

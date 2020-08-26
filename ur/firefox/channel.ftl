@@ -35,6 +35,7 @@ firefox-channel-nightly-blog = { -brand-name-nightly } بلاگ
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ایک غیر مستحکم جانچ اور ڈویلپمنٹ  کا پلیٹ فارم ہے۔ پہلے سے طے شدہ طور پر ، { -brand-name-nightly } { -brand-name-mozilla }- اور بعض اوقات ہمارے شراکت داروں کو ڈیٹا بھیجتا ہے تاکہ مسائل کو حل کرنے اور خیالات کو آزمانے میں ہماری مدد کی جاسکے۔ <a href="{ $link }"> سیکھن کیا شیر ہوا ہے ہے </a>۔
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } خودکار طور پر { -brand-name-mozilla } کو رد عمل ارسال کرتا ہے۔
 firefox-channel-try-new-browser-features = پری ریلیز ورژن میں براؤزر کی نئی خصوصیات آزمائیں | { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-desktop = پری ریلیز والے ورژن میں جدید خصوصیات کا تجربہ کریں:{ -brand-name-firefox-developer-edition }،{ -brand-name-firefox-beta }  اور فائر { -brand-name-firefox-nightly }۔ ابھی انسٹال کریں!
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-firefox } برائے Android بمع Aurora, { -brand-name-beta } and { -brand-name-nightly } کو ڈائونلوڈ کریں اور تازہ ترین فیچر کو جانچیں۔
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = جانچ کے بارے میں سب سے زیادہ مستحکم ریلیز سے قبل کی تعمیر میں خصوصیات جاری رکھی جائیں گی۔
