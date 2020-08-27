@@ -5,12 +5,25 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Med funktionerne i { -brand-name-firefox } får du bedre beskyttelse af dit privatliv og en hurtigere oplevelse på nettet
 # HTML page description
 features-index-youre-in-control-with-firefoxs = Med { -brand-name-firefox }' funktioner til at beskytte dit privatliv og til at sætte fart på nettet, er det dig, der styrer.
+# Hero title
+features-index-firefox-features = Funktioner i { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } er den hurtige, privatlivs-fokuserede browser, der virker på alle dine enheder.
+features-index-add-powerful-functions = Tilføj kraftfulde funktioner, nyttige redskaber og endda lidt sjov til din { -brand-name-firefox }-browser.
 features-index-see-all = Se alle udvidelser
 features-index-give-your-browser = Giv din browser det udseende, du ønsker med tusindvis af forskellige temaer.
+features-index-important-stuff = Sørg for, at alle dine vigtige ting — søgninger på nettet, adgangskoder, åbne faneblade — vises, hvor du har brug for det, og på alle dine enheder.
 features-index-get-an-account = Få en { -brand-name-firefox-account }
+features-index-use-the-bookmark = Brug stjerne-ikonet til at holde dig organiseret med bogmærker, du kan give nye navne og ordne i mapper.
+features-index-from-the-company = Fra en virksomhed, der sætter mennesker over profit
 features-index-private-browsing-mode = Privat browsing-tilstand sletter cookies og din browserhistorik, hver gang du afslutter browseren.
+features-index-firefox-automatically = { -brand-name-firefox } blokerer automatisk mere end 2000 sporings-mekanismer fra at følge dig rundt på nettet.
+features-index-access-all-passwords = Med { -brand-name-firefox-lockwise } har du adgang til alle de adgangskoder, du har gemt i { -brand-name-firefox } — og appen er helt gratis.
+features-index-just-enough = { -brand-name-firefox } bruger præcis tilstrækkeligt hukommelse til at give dig en god oplevelse, sådan at din computer har overskud til andre opgaver.
 features-index-see-what-makes-us-different = Se hvad der gør os anderledes
 features-index-by-non-profit-mozilla = Af nonprofit-organisationen { -brand-name-mozilla }
 features-index-keep-corporate-power = Holder de store firmaer i skak
