@@ -78,7 +78,7 @@ navigation-mozilla-vpn = { -brand-name-mozilla-vpn } : 빠르고 단순한 사�
 navigation-protect-your-entire-device = 모든 기기 응용 프로그램을 보호하세요. 실제 접속 위치를 가리고 최대 5개의 장치를 연결합니다. 지금 등록하세요.
 # Outdated string
 navigation-connected-and-protected = 연결 및 보호
-navigation-join = 등록하기
+navigation-join = 가입
 navigation-close-join-menu = 등록 메뉴 닫기
 navigation-sign-in = 로그인
 navigation-benefits = 혜택 보기
