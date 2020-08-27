@@ -47,6 +47,7 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
