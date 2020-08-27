@@ -44,6 +44,7 @@
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
+-brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
@@ -55,6 +56,7 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
