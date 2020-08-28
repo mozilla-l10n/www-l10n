@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/all/
 
 firefox-all-check-the-system-requirements = Verifique os requisitos de sistema
-firefox-all-release-notes = Notas de lançamento
+firefox-all-release-notes = Notas da versão
 firefox-all-source-code = Código fonte
 firefox-all-need-help = Precisa de ajuda?
 firefox-all-which-browser-would = Qual navegador você quer baixar?

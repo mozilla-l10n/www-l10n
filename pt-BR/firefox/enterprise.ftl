@@ -36,7 +36,7 @@ firefox-enterprise-legacy-browser-support = Suporte para navegadores mais antigo
 firefox-enterprise-admx-templates = Templates ADMX
 firefox-enterprise-deployment-guide = Guia de implantação
 firefox-enterprise-policy-documentation = Documentação de diretrizes
-firefox-enterprise-release-notes = Notas de lançamento
+firefox-enterprise-release-notes = Notas da versão
 firefox-enterprise-documentation-and-community = Documentação e suporte da comunidade
 # Variables:
 #   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
