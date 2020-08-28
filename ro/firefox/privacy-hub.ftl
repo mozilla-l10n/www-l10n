@@ -62,7 +62,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Dacă ai un { -brand-name-fi
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Peste { $trackers } de elemente de urmărire blocate în fiecare zi pentru utilizatorii { -brand-name-firefox } la nivel mondial
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Când îți introduci adresa de e-mail în { -brand-name-firefox-monitor }, o uităm imediat după ce am verificat-o pentru o corelare în breșe cunoscute de date — cu excepția cazului în care ne autorizezi să continuăm monitorizarea breșelor noi pentru prezența datelor tale personale.
+firefox-privacy-hub-when-you-enter-your-email = Când îți introduci adresa de e-mail în { -brand-name-firefox-monitor }, o uităm imediat după ce am verificat-o pentru o corelare în încălcările cunoscute ale securității datelor — cu excepția cazului în care ne autorizezi să continuăm monitorizarea încălcărilor noi pentru prezența datelor tale personale.
 firefox-privacy-hub-check-for-breaches = Caută breșe de date
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Parolele și datele de autentificare pe care le salvezi în { -brand-name-firefox-lockwise } sunt criptate pe toate dispozitivele pe care le folosești. Nici noi nu le putem vedea.
