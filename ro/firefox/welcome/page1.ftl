@@ -14,7 +14,7 @@ welcome-page1-youre-on-track-to-stay-protected = Ești pe calea cea bună ca să
 welcome-page1-youve-got-the-web-browser = Ai browserul web care îți protejează viața privată — acum este momentul să te aperi împotriva hackerilor.
 welcome-page1-check-your-breach-report = Vezi raportul de breșe
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } îți arată dacă informațiile tale au fost divulgate într-o breșă cunoscută de date și te alertează pe viitor.
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } îți arată dacă informațiile tale au fost divulgate într-o încălcare cunoscută a securității datelor și te alertează pe viitor.
 welcome-page1-stay-ahead-of-hackers = Fii cu un pas înaintea hackerilor
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

@@ -20,5 +20,5 @@ welcome-page5-with-256-bit-encryption-your = Cu o criptarea de 256 de biți, par
 welcome-page5-no-more-making-up-new-passwords = Gata cu creatul de parole noi
 welcome-page5-lockwise-will-recommend-new = { -brand-name-lockwise } va recomanda parole noi, puternice, ori de câte ori configurezi date noi de autentificare.
 welcome-page5-help-during-a-breach = Asistență în cazul unei breșe de date
-welcome-page5-lockwise-will-let-you-know = { -brand-name-lockwise } te va anunța dacă datele tale de autentificare salvate au fost implicate într-o breșă de date corporative, astfel încât să le poți schimba cât mai repede.
+welcome-page5-lockwise-will-let-you-know = { -brand-name-lockwise } te va anunța dacă datele tale de autentificare salvate au fost implicate într-o încălcare a securității datelor corporative, astfel încât să le poți schimba cât mai repede.
 welcome-page5-why-am-i-seeing-this = De ce văd asta?

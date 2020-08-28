@@ -13,7 +13,7 @@ firefox-new-automatic-privacy-is-here = A sosit confidențialitatea automată. D
 firefox-new-get-the-latest-firefox = Descarcă cea mai nouă versiune { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } îți arată câte elemente de urmărire colectoare de date sunt blocate cu <strong>protecția sporită împotriva urmăririi</strong>.
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> securizează parolele salvate în { -brand-name-firefox } și le face disponibile pe toate dispozitivele tale.
-firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> te alertează dacă știm că informațiile tale sunt implicate într-o breșă de date a unei alte companii.
+firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> te alertează dacă știm că informațiile tale sunt implicate într-o încălcare a securității datelor a unei alte companii.
 firefox-new-join-firefox = Folosește { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> face parolele salvate în { -brand-name-firefox } disponibile pe toate dispozitivele tale.
 # span's below are for visual formatting and line break.
