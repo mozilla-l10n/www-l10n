@@ -9,8 +9,8 @@
 whatsnew80-page-title = Qual novas re { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Congratulationes! Tu usa le ultime version de { -brand-name-firefox }.
 # Main title
-whatsnew80-main-title = Fece quasi toto, ancora plus velocemente.
-whatsnew80-main-intro = Passa ab le computator al telephono sin perder un pulsation. Installa { -brand-name-firefox } mobile.
+whatsnew80-main-title = Face quasi toto, ancora plus rapidemente
+whatsnew80-main-intro = Passa del computator al telephono sin perder le rhythmo. Installa { -brand-name-firefox } sur mobile.
 whatsnew80-primary-cta-description = Insere tu email o numero de telephono pro obtener le ligamine de discargamento.
 # content buckets below hero
 whatsnew80-password-fatigue = Le stress per le contrasignos es real
