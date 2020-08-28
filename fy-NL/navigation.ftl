@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } foar { -brand-name-fire
 navigation-watch-videos-and-browse = Besjoch fideo’s en sneup op it ynternet op jo { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = { -brand-name-firefox }-browsers stelle jo privacy foarop – en hawwe dat altyd dien.
 navigation-take-the-passwords-youve = Nim de wachtwurden dy't jo yn { -brand-name-firefox } bewarre hawwe oeral mei hinne.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } is in hiele famylje fan produkten dy't ûntwurpen binne om jo online feiliger en tûker te hâlden.
 navigation-join-firefox = Doch mei mei { -brand-name-firefox }
 navigation-access-all-of-firefox = Krij tagong ta alles fan { -brand-name-firefox } mei ien inkelde oanmelding – en helje mear út elk produkt wannear jo dat dogge.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = { -brand-name-firefox-focus } downloade
 navigation-android-extensions = { -brand-name-android }-útwreidingen
 navigation-your-firefox-account = Jo { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Helje it measte út jo { -brand-name-firefox }-ûnderfining, op alle apparaten.
+# Outdated string
 navigation-learn-how-to-customize = Lês hoe't jo de manier wêrop { -brand-name-firefox } wurket oanpasse kinne.
+navigation-explore-the-immersive = Ferken it ymmersive web op jo VR-headset.
+# Outdated string
 navigation-experience-augmented = Belibje tafoege en firtuele realiteit mei { -brand-name-firefox }.
+navigation-get-together = Kom tegearre yn firtuele realiteit mei dizze online sosjale romte.
+# Outdated string
 navigation-meet-people-in-experimental = Kom yn 'e kunde mei minsken yn eksperimintele Mixed Reality-chatrooms mei { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } bringt virtual en augmented reality nei it iepen web.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } bringt { -brand-name-firefox } nei tafoege en firtuele realiteit.
 navigation-firefox-built-just-for = { -brand-name-firefox }, boud foar ûntwikkelers.
 navigation-preview-the-latest-build = Besjoch alfêst de nijste build fan { -brand-name-firefox } en help dizze de bêste te meitsjen.
@@ -64,6 +74,9 @@ navigation-security-tips = Befeiligingstips
 navigation-share-large-files-safely = Diel feilich grutte bestannen, mei keppelingen dy't ‘himsels ferneatigje’.
 navigation-save-quality-content = Bewarje heechweardige ynhâld fan oeral wei. Fied oeral jo geast.
 navigation-sign-up = Registrearje
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Fluch. Simpel. Privee.
+navigation-protect-your-entire-device = Beskermje jo hiele apparaat en alle tapassingen. Ferstopje jo echte lokaasje en ferbyn oant fiif apparaten. Nim no in abonnemint.
+# Outdated string
 navigation-connected-and-protected = Ferbûn en beskerme
 navigation-join = Dielnimme
 navigation-close-join-menu = Menu Dielnimme slute
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Kom yn 'e kunde mei it technologybedriu
 navigation-new-features = Nije funksjes
 navigation-save-content-absorb-knowledge = Bewarje ynhâld. Absorbearje kennis.
 navigation-same-speed-and-safety = Deselde fertroude snelheid en feilichheid, ûntwurpen foar saaklik gebrûk.
+# Outdated string
 navigation-add-ons = Add-ons
 navigation-projects = Projekten
 navigation-close-projects-menu = Menu Projekten slute
 navigation-donate-your-voice-to = Donearje jo stim en meitsje spraakwerkenning foar elkenien beskikber.
+navigation-machine-learning = Masine learen
+# Outdated string
 navigation-web-of-things-iot = Web der Dingen (IoT)
+navigation-help-make-deep-learning = Help om deep learning-algoritmen beskikber te meitsjen foar de opensourcewrâld.
+# Outdated string
 navigation-make-devices-connected = Ferbyn apparaten feilich, betrouber en ynteroperabel mei it ynternet.
 navigation-developers = Untwikkelers
 navigation-close-developers-menu = Menu Untwikkelers slute
