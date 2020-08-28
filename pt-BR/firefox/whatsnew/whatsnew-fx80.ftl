@@ -9,7 +9,7 @@
 whatsnew80-page-title = Novidades no { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Parabéns! Você está usando a versão mais recente do { -brand-name-firefox }.
 # Main title
-whatsnew80-main-title = Faça quase tudo, um pouco mais rápido
+whatsnew80-main-title = Faça quase tudo, ainda mais rápido
 whatsnew80-main-intro = Passe do computador para o celular sem perder o ritmo. Instale o { -brand-name-firefox } no celular.
 whatsnew80-primary-cta-description = Digite seu e-mail ou número de celular para receber um link de download
 # content buckets below hero
