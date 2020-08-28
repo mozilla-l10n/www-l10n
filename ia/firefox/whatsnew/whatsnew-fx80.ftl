@@ -16,6 +16,6 @@ whatsnew80-primary-cta-description = Insere tu email o numero de telephono pro o
 whatsnew80-password-fatigue = Le stress per le contrasignos es real
 whatsnew80-the-average-person = Le persona medie ha 130 contos online. { -brand-name-firefox } pro mobile rememora e immagazina tu contrasignos con securitate inter tu apparatos synchronisate, de sorta que tu pote aperir session con solo un clic.
 whatsnew80-privacy-you-never = Confidentialitate sin stress
-whatsnew80-firefox-for-mobile = { -brand-name-firefox } mobile bloca automaticamente le major parte del avisos publicitarios traciatores online sin que tu debe modificar tu parametros de securitate.
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } mobile bloca automaticamente le major parte del annuncios que te seque, sin que tu debe modificar tu parametros de securitate.
 whatsnew80-new-firefox-android = Le nove { -brand-name-firefox } pro { -brand-name-android }
 whatsnew80-our-latest-version = Nostre ultime version de { -brand-name-firefox } dispone de cargamentos del paginas fulmineemente-rapide e un nove designo munde que simplifica facer plus cosas, plus rapidemente.
