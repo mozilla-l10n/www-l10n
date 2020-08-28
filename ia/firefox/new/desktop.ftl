@@ -16,7 +16,7 @@ firefox-desktop-download-og-desc = Cargamento paginas plus rapide, minor uso de 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Installa le navigator que protege lo que es importante
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Nulle criterios de confidentialitate umbrose o portas occulte pro favorir le publicitarios. Justo un veloce, fulminee navigator que non te vende via.
+firefox-desktop-download-no-shady = Nulle terminos e conditiones dubitose con clausulas que favori le annunciatores. Solmente un navigator, rapide como le fulmine, que non vende tu datos.
 firefox-desktop-download-download-options = Discarga optiones e altere linguas
 firefox-desktop-download-browser-support = Supporto de { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
