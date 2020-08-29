@@ -44,6 +44,7 @@ firefox-accounts-get-the-knowledge = اپنے آپ کو محفوظ رکھنے ک
 firefox-accounts-learn-everything-you = آن لائن سمارٹ اور محفوظ رہنے کے بارے میں ، جو آپ کو جاننے کی ضرورت ہے (لیکن ابھی تک نہیں) سب کچھ دنیا کے بہترین ماہرین سے سیکھیں۔
 firefox-accounts-and-be-part-of-protecting = اور آئندہ نسلوں کے لئے انٹرنیٹ کے تحفظ کا حصہ بنیں۔
 firefox-accounts-help-us-build-a-better = سب کے لئے بہتر { -brand-name-firefox } بنانے میں ہماری مدد کریں۔
+firefox-accounts-get-into-the-open = آئندہ مصنوعات کی جانچ کرنے کے ذریعہ اوپن سورس روح میں شامل ہوں۔
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = بڑِی ٹیکنالوجی کی پڑتال کرنے میں ہماری مدد کریں۔
 
