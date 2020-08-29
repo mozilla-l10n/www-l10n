@@ -243,6 +243,15 @@
         [ins] Firefoksem Reality
         [loc] Firefoksie Reality
     }
+-brand-name-firefox-daylight =
+    { $case ->
+       *[nom] Firefox Daylight
+        [gen] Firefoksa Daylight
+        [dat] Firefoksowi Daylight
+        [acc] Firefoksa Daylight
+        [ins] Firefoksem Daylight
+        [loc] Firefoksie Daylight
+    }
 
 ## Firefox browsers (short names)
 
@@ -254,6 +263,7 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
