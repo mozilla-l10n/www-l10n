@@ -9,10 +9,10 @@
 welcome-page1-more-than-a-browser-firefox = Mai mult decât un browser - { -brand-name-firefox-monitor } te păzește de hackeri
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Fă pasul următor în protejarea confidențialității tale online cu familia de produse { -brand-name-firefox }.
-welcome-page1-stay-ahead-of-hackers-check = Fii cu un pas înaintea hackerilor. Caută breșe de date cu { -brand-name-firefox-monitor }.
+welcome-page1-stay-ahead-of-hackers-check = Fii cu un pas înaintea hackerilor. Caută încălcări ale securității datelor cu { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Ești pe calea cea bună ca să te protejezi
 welcome-page1-youve-got-the-web-browser = Ai browserul web care îți protejează viața privată — acum este momentul să te aperi împotriva hackerilor.
-welcome-page1-check-your-breach-report = Vezi raportul de breșe
+welcome-page1-check-your-breach-report = Vezi raportul tău privind încălcările securității datelor
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } îți arată dacă informațiile tale au fost divulgate într-o încălcare cunoscută a securității datelor și te alertează pe viitor.
 welcome-page1-stay-ahead-of-hackers = Fii cu un pas înaintea hackerilor
