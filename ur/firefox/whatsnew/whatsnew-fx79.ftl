@@ -28,6 +28,7 @@ whatsnew79-take-less-keep-it-safe = کم لیں۔ اسے محفوظ رکھیں۔
 # CTA link
 whatsnew79-read-more = مزید پڑھیں
 whatsnew79-keep-facebook-contained = { -brand-name-facebook } کو محصور رکھیں
+whatsnew79-get-the-power-to-prevent = { -brand-name-facebook } اور { -brand-name-instagram } کی ویب پر ٹریک کرنے سے روکنے کی طاقت حاصل کریں.
 # CTA link
 whatsnew79-add-facebook-container = { -brand-name-facebook-container }  شامل کریں
 # Modal title
