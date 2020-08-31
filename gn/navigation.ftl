@@ -86,7 +86,7 @@ navigation-new-features = Tembiapoite pyahu
 navigation-save-content-absorb-knowledge = Eñongatu tetepy. Ejapyhy kuaaita.
 navigation-same-speed-and-safety = Peteĩcha pya’ekue ha tekorosã ejeroviaha, ojejapóva mba’apohaguasúpe g̃uarã añoite.
 # Outdated string
-navigation-add-ons = Moimbaha
+navigation-add-ons = Moĩmbaha
 navigation-projects = Apopyrãnguéra
 navigation-close-projects-menu = Emboty apopyrãnguéra poravopyrã
 navigation-donate-your-voice-to = Eme’ẽ ne ñe’ẽ eipytyvõ hag̃ua pe ñe’ẽ kuaaukaha ijurujakuaa potávo opavavépe g̃uarã.
