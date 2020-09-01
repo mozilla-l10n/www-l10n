@@ -15,6 +15,7 @@ compare-index-a-great-internet-browser-should = Iminig internet ufrin ilaq ad ye
 compare-index-which-browser-is-best-at-keeping = Anwa iminig ufrin i uqadeṛ n tbaḍnit?
 compare-index-its-not-unreasonable-to-expect = Ur ttraǧu ara dɣa aswir meqqren deg ummesten n yisefka d tbaḍnit n yifarisen i nezga nseqdac deg tuqqna. Ma drus, yal iminig ad d-yefk yiwen n lqem n "uskar n tunigin tusligt" i yesfaḍen s wudem awurman azayez-inek d uzayez n unadi-inek akken iseqdac-nniḍen n uselkim-nni ur zmiren ad kecmen ɣer-sen. Di talɣut-a, akk setta n yiminigen i yettwasrewsen dagi skelsen tineqqiḍin.
 compare-index-what-you-do-online-literally = Ayen i txeddmeḍ srid ur ilaq ara ad yili d ayen yerzan wiyaḍ.
+compare-index-another-browser-feature-that = Tamahilt-nniḍen n yiminig i d-ittunefken d tazmert n usewḥel n yismal web d tkebbaniyin akken ur ṭṭafaren ara isefka n tunigin-ik•im d tiɣin-ik•im — ulamma deg uskar n tunigin timugna.
 compare-index-another-browser-feature-fallback = Tamahil-nniḍen n yiminig i ilaqen ad tettynefk s wude amezwer d tazmert n usewḥel n yismal web akked tkebbaniyin i yeṭṭafaren isefka n tunigin akked tiɣin — ula deg uskar n tunigt tamagnut. Maca mačči akka: deg tilawt, ala { -brand-name-firefox } akked { -brand-name-safari } i d iminigen i yessewḥalen s wudem amezwer inagan n tuqqna yettwaseqdacen i uḍfaṛ.
 compare-index-what-has-your-browser-done = D acu i ak-yexdem yiminig-ik taggara?
 compare-index-how-well-does-your-browser = Amek i iteddu yiminig-ik deg yibenkan-ik?
