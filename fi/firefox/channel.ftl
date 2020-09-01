@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Lataa ja testaa { -brand-
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testaa pian julkaistavia ominaisuuksia vakaimmalla testiversiolla.
 firefox-channel-release-notes = Julkaisutiedot
+firefox-channel-previous-nightly-builds = Aiemmat { -brand-name-nightly }-koontiversiot
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Luo, testaa ja parantele ainoalla ainoastaan kehittäjille tehdyllä selaimella.
 # Variables:

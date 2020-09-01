@@ -33,6 +33,8 @@ firefox-all-get-a-sneak-peek-at = Tutustu viimeisimpiin { -brand-name-firefox }-
 firefox-all-test-your-sites-against = Testaa sivustosi pian julkaistavan { -brand-name-firefox }-selaimen ominaisuuksilla tehokkaiden ja joustavien DevTools-työkalujen avulla, jotka ovat oletusarvoisesti käytössä.
 firefox-all-count-on-stability-and = Luota vakauteen ja helppokäyttöisyyteen tämän yrityksiä varten rakennetun { -brand-name-firefox }-selaimen avulla.
 firefox-all-windows-installers-for = Yritystietokoneiden Windows-asennukset, jotka yksinkertaistavat { -brand-name-firefox-browser(case: "genitive") } määritystä, käyttöönottoa ja hallintaa.
+firefox-all-arm64-installers = ARM64/AArch64-asennusohjelmat
+firefox-all-arm64-installers-optimized = ARM64/AArch64-asennusohjelmat optimoituna Snapdragoniin pohjautuville { -brand-name-windows }-tietokoneille.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Valitse 32-bittinen asennusohjelma tietokoneelle, jossa on 32-bittinen prosessori – tai vanhemmalle tai vähemmän tehokkaalle tietokoneelle. <a href="{ $url }">Jos et ole varma</a>, pitäisikö valita 64- vai 32-bittinen asennusohjelma, suosittelemme valitsemaan 32-bittisen.

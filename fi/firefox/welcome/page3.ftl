@@ -7,6 +7,7 @@
 
 welcome-page3-no-account-required-but-you = Tiliä ei vaadita. Mutta saatat haluta sellaisen.
 welcome-page3-the-firefox-browser-collects = { -brand-name-firefox }-selain kerää vain vähän tietoja sinusta, emme tarvitse edes sähköpostiosoitettasi. Mutta jos käytät sitä { -brand-name-firefox }-tilin luomiseen, voimme suojata yksityisyyttäsi suurimmassa osassa online-elämääsi.
+welcome-page3-sign-in = Kirjaudu sisään
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Valitse vähintään yksi yritys, joka suojelee tietojasi sen sijaan, että se vuotaisi ne.
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
