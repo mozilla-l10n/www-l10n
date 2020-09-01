@@ -81,6 +81,9 @@ firefox-desktop-download-library-of-extensions = Tamkerḍit n yiseɣzaf
 firefox-desktop-download-adjust-search-bar = Iɣewwaṛen n uqeεed n ufeggag n unadi
 firefox-desktop-download-change-new-tab = Beddel taneruft tamynut n yiccer
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
+firefox-desktop-download-your-privacy-comes = Tudert-ik·m tabaḍnit i yezwaren
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Eǧǧ meṛṛa timahilin-ik·im n yiminig i tesmenyafeḍ — rnu <strong>ẓer</strong> timaynutin i d-yernan.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Mtawi ibenkan-inek
 firefox-desktop-download-screenshots = Tuṭṭfiwin n wegdil
