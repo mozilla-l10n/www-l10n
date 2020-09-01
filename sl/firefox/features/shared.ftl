@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-a-better-internet-experience = Boljša internetna izkušnja
+features-shared-more-firefox-features = Več možnosti brskalnika { -brand-name-firefox }
 features-shared-browse-faster = Brskajte hitreje
 features-shared-your-favorite-extensions = Vaše priljubljene razširitve
 features-shared-balanced-memory = Uravnotežen pomnilnik
