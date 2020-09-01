@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-overview = Vue d’ensemble
+firefox-enterprise-downloads = Téléchargements
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-support = Assistance
+firefox-enterprise-release-notes = Notes de version
