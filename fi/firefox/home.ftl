@@ -9,6 +9,7 @@ firefox-home-the-browser-is-just = Selain on vasta alkua
 firefox-home-meet-our-family-of = Tutustu tuoteperheeseemme
 firefox-home-start-sending-files = Aloita tiedostojen lähettäminen turvallisesti
 firefox-home-get-the-browser-extension = Hanki selainlaajennus
+firefox-home-get-the-facebook-container = Hanki { -brand-name-facebook-container } -laajennus
 firefox-home-download-the-browser = Lataa selain
 firefox-home-download-the-app = Lataa sovellus
 firefox-home-desktop = Työpöytä

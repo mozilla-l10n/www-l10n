@@ -23,10 +23,15 @@ navigation-get-firefox-focus = Lataa { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-laajennukset
 navigation-your-firefox-account = Oma { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Ota kaikki irti { -brand-name-firefox }-kokemuksestasi, jokaisella laitteella.
+# Outdated string
 navigation-learn-how-to-customize = Opi, kuinka voit muokata { -brand-name-firefox }in toimintaa.
+# Outdated string
 navigation-experience-augmented = Koe laajennettu ja virtuaalinen todellisuus { -brand-name-firefox }in avulla.
+# Outdated string
 navigation-meet-people-in-experimental = Tapaa ihmisiä kokeellisissa Mixed Reality -keskusteluhuoneissa { -brand-name-firefox }illa.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } tuo { -brand-name-firefox }in laajennettuun ja virtuaaliseen todellisuuteen.
 navigation-firefox-built-just-for = { -brand-name-firefox }, joka on rakennettu kehittäjille.
 navigation-preview-the-latest-build = Esikatsele { -brand-name-firefox }in uusinta koostamiskokoonpanoa ja auta meitä tekemään siitä mahdollisimman hyvä.
@@ -47,6 +52,7 @@ navigation-check-for-breaches = Tarkista vuotojen varalta
 navigation-see-breaches = Katso vuodot
 navigation-security-tips = Turvallisuusvinkit
 navigation-sign-up = Rekisteröidy
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Nopea. Yksinkertainen. Yksityinen.
 navigation-join = Liity
 navigation-sign-in = Kirjaudu sisään
 navigation-benefits = Hyödyt
@@ -56,11 +62,15 @@ navigation-meet-the-technology-company = Tutustu teknologiayritykseen, joka aset
 navigation-new-features = Uudet ominaisuudet
 navigation-save-content-absorb-knowledge = Talleta tietoa, omaksu tietämystä.
 navigation-same-speed-and-safety = Yhtä nopea ja turvallinen, bisneskäyttöön suunnattuna.
+# Outdated string
 navigation-add-ons = Lisäosat
 navigation-projects = Projektit
 navigation-close-projects-menu = Sulje Projektit-valikko
 navigation-donate-your-voice-to = Lahjoita äänesi tehdäksesi puheentunnistuksesta avointa kaikille.
+navigation-machine-learning = Koneoppiminen
+# Outdated string
 navigation-web-of-things-iot = Esineiden internet (IoT)
+# Outdated string
 navigation-make-devices-connected = Tee internetiin yhdistetyistä laitteista turvallisia ja yhteentoimivia.
 navigation-developers = Kehittäjät
 navigation-close-developers-menu = Sulje Kehittäjät-valikko

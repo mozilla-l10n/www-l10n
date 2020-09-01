@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
+# HTML page title
+welcome-page4-download-the-firefox-browser = Lataa { -brand-name-firefox-browser } mobiililaitteellesi, { -brand-name-ios }:ille ja { -brand-name-android }ille
 welcome-page4-wallet-keys-phone-firefox = Lompakko... avaimet... puhelin...<strong>{ -brand-name-firefox }!</strong>
 welcome-page4-take-privacy-with-you-on-every = Yksityisyys mukanasi kaikilla laitteillasi - ja tiedonkerääjät nuolevat näppejään.
 welcome-page4-get-the-firefox-app = Hanki { -brand-name-firefox }-sovellus

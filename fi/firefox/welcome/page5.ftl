@@ -5,9 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/5/
 
+# HTML page title
+welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise } — salasanojen hallinta — ota salasanasi mukaasi kaikkialle
 welcome-page5-theres-an-easier-way-to-deal = On olemassa helpompi tapa hallita salasanojasi
 welcome-page5-let-firefox-save-them-for = Anna { -brand-name-firefox }in tallentaa ne puolestasi. Käytä sitten salasanojasi turvallisesti { -brand-name-firefox-lockwise } -sovelluksella kaikissa sovelluksissasi, kaikilla laitteillasi.
 welcome-page5-get-the-lockwise-app = Hanki { -brand-name-lockwise }-sovellus
+welcome-page5-get-firefox-lockwise-on-your = Hanki { -brand-name-firefox-lockwise } puhelimeesi
+welcome-page5-send-the-download-link-right = Lähetä latauslinkki suoraan puhelimeesi tai sähköpostiisi.
+welcome-page5-download-firefox-lockwise = Lataa { -brand-name-firefox-lockwise } älypuhelimeen tai tablettiin.
 welcome-page5-scan-this-qr-code = Skannaa tämä QR-koodi
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
 welcome-page5-sync-up-safely = Synkronoi turvallisesti
