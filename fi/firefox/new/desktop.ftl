@@ -47,6 +47,8 @@ firefox-desktop-download-spell-check = Oikeinkirjoituksen tarkistus
 firefox-desktop-download-pinned-tabs = Kiinnitetyt välilehdet
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Kuva kuvassa
+firefox-desktop-download-private-browsing-mode = Yksityinen selaus
+firefox-desktop-download-secure-your-personal = Suojaa henkilökohtaiset tietosi
 firefox-desktop-download-built-in-password = Sisäänrakennettu salasanojen hallinta
 firefox-desktop-download-clear-history = Tyhjennä historia
 firefox-desktop-download-form-autofill = Lomakkeiden automaattinen täyttö
@@ -57,10 +59,12 @@ firefox-desktop-download-dark-mode = Tumma tila
 firefox-desktop-download-extensions-for-every = Laajennukset joka lähtöön
 firefox-desktop-download-tweak-your-settings = Säädä asetuksia
 firefox-desktop-download-your-privacy-comes = Yksityisyytesi tulee ensin
+firefox-desktop-download-sync-your-devices = Synkronoi laitteesi
 firefox-desktop-download-screenshots = Kuvakaappaukset
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-just-download-the-browser = Lataa vain selain
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Melkein valmista!
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.

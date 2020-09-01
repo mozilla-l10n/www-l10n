@@ -11,3 +11,9 @@
 whatsnew-account-main-headline = Tiliä ei vaadita. Mutta saatat haluta sellaisen.
 whatsnew-account-main-lead-in = { -brand-name-firefox }-selain kerää niin vähän tietoa sinusta, ettemme vaadi edes sähköpostiosoitettasi tietoomme. Jos käytät sähköpostiosoitetta luodaksesi { -brand-name-firefox }-tilin, voimme suojata yksityisyyttäsi verkossa aiempaa paremmin.
 whatsnew-account-main-button = Kirjaudu sisään
+
+##
+
+whatsnew-account-signed-in-lead-in = Lähetä latauslinkki puhelimeesi.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Skannaa tämä QR-koodi

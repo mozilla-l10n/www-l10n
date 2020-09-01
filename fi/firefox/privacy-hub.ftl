@@ -15,6 +15,7 @@ firefox-privacy-hub-take-less = Ota vähemmän
 firefox-privacy-hub-no-secrets = Ei salaisuuksia
 firefox-privacy-hub-why-trust-firefox = Miksi luottaa { -brand-name-firefox }iin?
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ seurainta estetty — automaattisesti
 firefox-privacy-hub-download-the-firefox-browser = Lataa { -brand-name-firefox }-selain
 firefox-privacy-hub-update-your-firefox-browser = Päivitä { -brand-name-firefox }-selain
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
