@@ -11,6 +11,7 @@ set-as-default-thanks-success-your-default-browser = Onnistui! Oletusselaimesi o
 set-as-default-thanks-looks-like-youre-using-a = Vaikuttaa siltä, että käytät nyt eri selainta. Varmista, että { -brand-name-firefox } on ladattu laitteellesi.
 set-as-default-thanks-having-trouble-setting-your = Onko sinulla vaikeuksia oletusselaimen määrittämisessä?
 set-as-default-thanks-youre-all-set = Kaikki valmiina.
+set-as-default-thanks-get-firefox-for-mobile = Hanki { -brand-name-firefox } mobiililaitteille
 set-as-default-thanks-download-the-app = Lataa sovellus
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Hanki tili
