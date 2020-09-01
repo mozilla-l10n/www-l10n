@@ -81,12 +81,17 @@ firefox-desktop-download-library-of-extensions = Tamkerḍit n yiseɣzaf
 firefox-desktop-download-adjust-search-bar = Iɣewwaṛen n uqeεed n ufeggag n unadi
 firefox-desktop-download-change-new-tab = Beddel taneruft tamynut n yiccer
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
+firefox-desktop-download-tweak-your-settings = Seqɛed iɣewwaren-inek·im
+firefox-desktop-download-theres-no-need = Ulac ayeen teḥwaǧeḍ i uṣeggem. Snifel asebter amaynut n yiccer, afeggag n unadi, ticraḍ n yisebtar d wugar n wayen-nniḍen i usnirem n internet akken i tessarameḍ.
 firefox-desktop-download-your-privacy-comes = Tudert-ik·m tabaḍnit i yezwaren
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Eǧǧ meṛṛa timahilin-ik·im n yiminig i tesmenyafeḍ — rnu <strong>ẓer</strong> timaynutin i d-yernan.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Akk ifecka-ik·im { -brand-name-google } i tesmenyafeḍ (am Gmail d Docs) teddun s wudem afrawan deg { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Sali-d asiɣzef-a n yiminig</a> i wakken ad tḥebseḍ { -brand-name-facebook } (d { -brand-name-instagram }) ur tettwaḍfareḍ ara ɣef web.
 firefox-desktop-download-sync-your-devices = Mtawi ibenkan-inek
 firefox-desktop-download-screenshots = Tuṭṭfiwin n wegdil
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
