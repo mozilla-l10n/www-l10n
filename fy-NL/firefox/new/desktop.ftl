@@ -66,6 +66,38 @@ firefox-desktop-download-stream-share-play = Streame, diele en spylje
 firefox-desktop-download-block-autoplay-of = Automatysk ôfspyljen fan fideo en audio blokkearje
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-curated-content-on = Behearde ynhâld op in nij ljepblêd
+firefox-desktop-download-share-links = Keppelingen diele
+firefox-desktop-download-protect-your-privacy = Beskermje jo privacy
+firefox-desktop-download-third-party-cookie = Blokkearjen fan cookies fan tredden
+firefox-desktop-download-fingerprinter-blocking = Blokkearjen fan fingerprinters
+firefox-desktop-download-cryptominer-blocking = Blokkearjen fan cryptominers
+firefox-desktop-download-private-browsing-mode = Priveenavigaasjemodus
+firefox-desktop-download-individual-protections-report = Yndividueel beskermingsrapport
+firefox-desktop-download-secure-your-personal = Befeiligje jo persoanlike gegevens
+firefox-desktop-download-breached-website-alerts = Warskôgingen oer websites mei datalekken
+firefox-desktop-download-built-in-password = Ynboude wachtwurdbehearder
+firefox-desktop-download-clear-history = Skiednis wiskje
+firefox-desktop-download-form-autofill = Formulieren automatysk ynfolje
+firefox-desktop-download-automatic-updates = Automatyske fernijingen
+firefox-desktop-download-customize-your-browser = Pas jo browser oan
+firefox-desktop-download-themes = Tema's
+firefox-desktop-download-dark-mode = Donkere modus
+firefox-desktop-download-library-of-extensions = Biblioteek mei útwreidingen
+firefox-desktop-download-adjust-search-bar = De sykbalkeynstellingen oanpasse
+firefox-desktop-download-change-new-tab = De opmaak fan nije ljepblêden wizigje
+firefox-desktop-download-make-firefox-your = Meitsje <strong>{ -brand-name-firefox }</strong> fan josels
+firefox-desktop-download-extensions-for-every = Utwreidingen foar elke ynteresse
+firefox-desktop-download-change-up-your = Wizigje jo úterlik
+firefox-desktop-download-go-from-light = Gean fan ljochte modus nei donkere modus, ôfhinklik fan jo stimming of foarkar, of fleurich de boel op mei in oanpast tema (miskien in reinbôgienhoarn).
+firefox-desktop-download-tweak-your-settings = Pas jo ynstellingen oan
+firefox-desktop-download-theres-no-need = Jo hoege gjin fernoegen te nimmen mei de standert. Wizigje de nij-ljepblêdside, sykbalke, blêdwizers en mear om it ynternet te ferkennen sa as jo dat wolle.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Stipe troch de <strong>non-profit </strong> dy't minsken foarop stelt
+firefox-desktop-download-challenging-the-status = Daget sûnt 1998 de status quo út
+firefox-desktop-download-your-privacy-comes = Jo privacy stiet foarop
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Behâld al jo favorite browserfunksjes – en <strong>ûntdek</strong> nije.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
