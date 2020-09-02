@@ -7,6 +7,8 @@
 
 # html page title
 whatsnew80-page-title = Oĩpa ipyahúva { -brand-name-firefox }-pe
+# Main title
+whatsnew80-main-title = Ejapopa nunga, pya’emieve
 # content buckets below hero
 whatsnew80-password-fatigue = Ñe’ẽñemi kane’õ añetete
 whatsnew80-privacy-you-never = Ñemigua araka’eve eñamindu’uva’erãha
