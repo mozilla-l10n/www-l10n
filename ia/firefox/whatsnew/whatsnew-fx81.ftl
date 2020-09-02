@@ -15,3 +15,4 @@ whatsnew81-scan-this-qr-code = Scande iste codice QR pro discargar
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Le nove { -brand-name-firefox } pro { -brand-name-android } es hic
 whatsnew81-make-firefox-your-everyday = Rende { -brand-name-firefox } tu navigator quotidian sur { -brand-name-ios }
+whatsnew81-attention-iphone-people = Attention populo de { -brand-name-iphone } : in { -brand-name-ios } 14, tu pote finalmente definir { -brand-name-firefox } como tu definitive navigator predefinite. Cura haber le ultime { -brand-name-firefox } pro { -brand-name-ios }.
