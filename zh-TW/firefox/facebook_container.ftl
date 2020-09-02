@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = 全球有數以百萬計的人們
 facebook-container-facebook-well-contained-keep = 把 { -brand-name-facebook } 好好封裝起來，自己決定生活中的其餘部分。
 facebook-container-get-the-facebook-container = 安裝 { -brand-name-facebook-container } 擴充套件
 facebook-container-download-firefox-and-get-the = 下載 { -brand-name-firefox } 並安裝 { -brand-name-facebook-container } 擴充套件
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } 擴充套件目前只支援 { -brand-name-firefox } 桌面版。
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = 請到 <a href="{ $url }">{ $link_copy }</a> 下載 { -brand-name-firefox } 桌面版。
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } 擴充套件不支援行動裝置。
+facebook-container-get-firefox-android-ios = 立即下載 { -brand-name-firefox } for { -brand-name-android } 或 { -brand-name-ios }。
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = 請試用 <strong>{ -brand-name-firefox-focus }</strong>，{ -brand-name-android } 及 { -brand-name-ios } 系統上的隱私保護瀏覽器。
 facebook-container-opt-out-on-your-terms = 對追蹤條款說不
