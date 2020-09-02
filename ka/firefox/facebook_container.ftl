@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = მილიონობით �
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. სრულად გამიჯნული. დატოვეთ თქვენი დანარჩენი ცხოვრება პირადი.
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } გაფართოების გადმოწერა
 facebook-container-download-firefox-and-get-the = ჩამოტვირთეთ { -brand-name-firefox } და მიიღეთ { -brand-name-facebook-container } გაფართოება
+facebook-container-only-available-for-desktop = გაფართოება { -brand-name-facebook-container } ჯერჯერობით მხოლოდ კომპიუტერის { -brand-name-firefox }-ზეა ხელმისაწვდომი.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = ეწვიეთ ბმულს <a href="{ $url }">{ $link_copy }</a> { -brand-name-firefox }-ის კომპიუტერზე გადმოსაწერად.
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } არაა ხელმისაწვდომი მობილურ მოწყობილობებზე.
+facebook-container-get-firefox-android-ios = გადმოწერეთ { -brand-name-firefox } { -brand-name-android }-სა და { -brand-name-ios }-ზე ახლავე.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = გამოცადეთ <strong>{ -brand-name-firefox-focus }</strong>, პირადი ბრაუზერი { -brand-name-android } და { -brand-name-ios } მოწყობილობებისთვის.
 facebook-container-opt-out-on-your-terms = წამოაყენეთ თქვენი საკუთარი პირობები
