@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Millionar av personar rundt om i 
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Under kontroll. Hald resten av livet ditt privat.
 facebook-container-get-the-facebook-container = Hent utvidinga { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Last ned { -brand-name-firefox } og installer utvidinga { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Utvidinga { -brand-name-facebook-container } er for tida berre tilgjengeleg for { -brand-name-firefox } for datamaskiner.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Gå til <a href="{ $url }">{ $link_copy }</a> for å laste ned { -brand-name-firefox } for datamaskiner.
+# Outdated string
 facebook-container-the-facebook-container-extension = Utvidinga { -brand-name-facebook-container } er ikkje tilgjengelege for mobile einingar.
+facebook-container-get-firefox-android-ios = Skaff deg { -brand-name-firefox } for { -brand-name-android } og { -brand-name-ios }
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Prøv <strong>{ -brand-name-firefox-focus }</strong>, den personvernfokuserte nettlesaren for { -brand-name-android } og { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Opt-out på dine villkår
