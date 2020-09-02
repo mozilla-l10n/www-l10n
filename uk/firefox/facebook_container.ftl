@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Мільйони людей у в
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Надійно вкладено в контейнер. Тримайте все інше подалі від нього.
 facebook-container-get-the-facebook-container = Отримайте розширення { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Завантажте { -brand-name-firefox } та встановіть розширення { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Розширення { -brand-name-facebook-container } наразі доступне лише у { -brand-name-firefox } для комп'ютерів.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Відвідайте <a href="{ $url }">{ $link_copy }</a>, щоб отримати { -brand-name-firefox } для комп'ютера.
+# Outdated string
 facebook-container-the-facebook-container-extension = Розширення { -brand-name-facebook-container } недоступне для мобільних пристроїв.
+facebook-container-get-firefox-android-ios = Отримайте { -brand-name-firefox } для { -brand-name-android } та { -brand-name-ios } вже зараз.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Спробуйте <strong>{ -brand-name-firefox-focus }</strong>, приватний браузер для { -brand-name-android } та { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Відпишіться від ваших умов
