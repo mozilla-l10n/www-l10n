@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Emboguejy ha eipuru { -br
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Eipurumína tembiapoitekue noĩriva gueteri ojepuru hag̃uáicha noñemohu’ãi rupi.
 firefox-channel-release-notes = Jehaipy rehegua
+firefox-channel-previous-nightly-builds = Ñembyaty { -brand-name-nightly } mboyvegua
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Emoheñói, eipuru ha hetave mba’e ko kundaha ijojaha’ỹva heñóiva mboguatahárape g̃uarã.
 # Variables:

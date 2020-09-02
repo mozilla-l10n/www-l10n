@@ -116,4 +116,6 @@ firefox-desktop-download-just-download-the-browser = Emboguejy pe kundahára
 firefox-desktop-download-almost-there = ¡Oĩmbátama!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Ko’ág̃a <strong>emohendapa</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Ko’ág̃a <strong>oipuru</strong> mohendaha emboguejyva’ekue.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año.
