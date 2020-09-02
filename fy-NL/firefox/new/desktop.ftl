@@ -98,6 +98,16 @@ firefox-desktop-download-challenging-the-status = Daget sûnt 1998 de status quo
 firefox-desktop-download-your-privacy-comes = Jo privacy stiet foarop
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Behâld al jo favorite browserfunksjes – en <strong>ûntdek</strong> nije.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Al jo favorite { -brand-name-google }-helpmiddelen (lykas Gmail en Docs) wurkje poerbêst yn de { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Download dizze browserútwreiding</a> om foar te kommen dat { -brand-name-facebook } (en { -brand-name-instagram }) jo folgje op ynternet.
+firefox-desktop-download-sync-your-devices = Syngronisearje jo apparaten
+firefox-desktop-download-screenshots = Skermôfbyldingen
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Ferbettere beskerming tsjin folgjen (FBF)
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
