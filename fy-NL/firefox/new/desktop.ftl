@@ -127,6 +127,39 @@ firefox-desktop-download-as-the-internet = Wylst it ynternet groeit en feroaret,
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beskikber op al jo apparaten; nim jo ljepblêden, skiednis en blêdwizers mei. Jo hawwe allinnich in <a { $attrs }>{ -brand-name-firefox }-account</a> nedich.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Meitsje in ôfbylding mei in hege resolúsje fan alles wat online is mei ús helpmiddel foar <a { $attrs }>skermôfdrukken</a>, dat streekrjocht yn de browser ynboud is
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blokkearret automatysk in protte trackers fan tredden</a> dy't jo webaktiviteit sammelje en ferkeapje.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Fragen? <a { $attrs }>{ -brand-name-mozilla }-stipe </a> is der foar jo.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Jo hawwe de browser al. Helje no noch mear út { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Let op hackers mei { -brand-name-firefox-monitor }, beskermje wachtwurden mei { -brand-name-firefox-lockwise }, en mear.
+firefox-desktop-download-get-more-from-firefox = Helje mear út { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Download gewoanwei de browser
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Hast dien!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Foltôgje no de <strong>ynstallaasje</strong> fan { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Fier no</strong> it ynstallaasjeprogramma út dat sakrekt download is.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Iepenje no</strong> it bestân dat sakrekt download is.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Problemen? <a { $attrs }>Untfang help by jo ynstallaasje</a>.
+firefox-desktop-download-in-another-language = Downloade yn in oare taal of foar in oar bestjoeringssysteem.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Jo brûke in ûnfeilich, ferâldere bestjoeringssysteem dat <a href="{ $url }">net mear troch { -brand-name-firefox } stipe wurdt</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Jo download begjint automatysk. Wurket it net? <a id="{ $id }" href="{ $fallback_url }">Probearje nochris te downloaden.</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mear as in browser.
