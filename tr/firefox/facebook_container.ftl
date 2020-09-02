@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Milyonlarca kullanıcı { -brand-
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }’un tüm hayatını gözetlemesine izin verme. Kafes bizden.
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } eklentisini yükle
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox }’u indir ve { -brand-name-facebook-container } eklentisini yükle
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } eklentisi şu anda { -brand-name-firefox }’un yalnızca bilgisayar sürümünde kullanılabilir.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = { -brand-name-firefox }’un bilgisayar sürümünü indirmek için <a href="{ $url }">{ $link_copy }</a> adresini ziyaret edin.
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } eklentisi mobil cihazlarda kullanılamaz.
+facebook-container-get-firefox-android-ios = { -brand-name-android } ve { -brand-name-ios } için { -brand-name-firefox }’u şimdi indirin.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } ve { -brand-name-ios } için geliştirdiğimiz gizlilik tarayıcısı <strong>{ -brand-name-firefox-focus }</strong>’u dene.
 facebook-container-opt-out-on-your-terms = Şartları sen belirle
