@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Miljoenen minsken op 'e wrâld fe
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Under kontrôle. Jo oare libben bliuwt privee.
 facebook-container-get-the-facebook-container = Download de útwreiding { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Download { -brand-name-firefox } en de útwreiding { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = De { -brand-name-facebook-container }-útwreiding is op dit stuit allinnich beskikber foar { -brand-name-firefox } foar desktop.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Besykje <a href="{ $url }">{ $link_copy }</a> om { -brand-name-firefox } foar desktop te downloaden.
+# Outdated string
 facebook-container-the-facebook-container-extension = De útwreiding { -brand-name-facebook-container } is net beskikber op mobile apparaten.
+facebook-container-get-firefox-android-ios = Download no { -brand-name-firefox } voor { -brand-name-android } en { -brand-name-ios }.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Probearje <strong>{ -brand-name-firefox-focus }</strong>, de privacybrowser foar { -brand-name-android } en { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Opt-out nei jo betingsten
