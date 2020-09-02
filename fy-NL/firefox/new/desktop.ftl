@@ -108,6 +108,25 @@ firefox-desktop-download-sync-your-devices = Syngronisearje jo apparaten
 firefox-desktop-download-screenshots = Skermôfbyldingen
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ferbettere beskerming tsjin folgjen (FBF)
+firefox-desktop-download-from-watching-a = Fan it besjen fan in webhantlieding oant it yn de gaten hâlden fan jo favorite team, jo fideo folget jo wylst jo multitaske.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Download { -brand-name-firefox-browser } foar <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Download { -brand-name-firefox-browser } foar <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Download de mobile { -brand-name-firefox }-browser foar automatyske beskerming fan al jo apparaten.
+firefox-desktop-download-learn-about-the = Lês hjirûnder mear oer de { -brand-name-firefox }-browser foar desktop
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Fan befeiliging oant nijs oant game, der is <a { $attrs }>foar elkenien in útwreiding</a>. Foegje der sa folle ta as jo wolle, oant jo browser presys goed is.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } waard troch <a { $attrs }>{ -brand-name-mozilla }</a> makke as in flugger, persoanliker alternatyf foar browsers lykas { -brand-name-ie }, en no { -brand-name-chrome }. Tsjintwurdich bliuwe ús missy-dreaune bedriuw en ús frijwilligersmienskip jo privacy boppe alles stelle.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Wylst it ynternet groeit en feroaret, bliuwt { -brand-name-firefox } him konsintrearje op jo rjocht op privacy – wy neame it de <a { $attrs }>Persoanlike Gegevensbelofte</a>: Nim minder. Hâld it feilich. Gjin geheimen. Jo gegevens, jo webaktiviteit en jo online libben wurde beskerme mei { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beskikber op al jo apparaten; nim jo ljepblêden, skiednis en blêdwizers mei. Jo hawwe allinnich in <a { $attrs }>{ -brand-name-firefox }-account</a> nedich.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
