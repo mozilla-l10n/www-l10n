@@ -5,3 +5,4 @@
 banner-firefox-daylight-launch-title = Rohechauka ore rembiapo pyahu { -brand-name-firefox } { -brand-name-android } peg̃uarã — { -brand-name-firefox-daylight }.
 banner-firefox-daylight-launch-title-updated = Rohechauka { -brand-name-firefox } PYAHU { -brand-name-android } peg̃uarã — { -brand-name-firefox-daylight }
 banner-firefox-daylight-launch-intro = Ojejapopyahúva ipya’eve hag̃ua, ijepuru hasy’ỹ, momba’ekuaa ha hekoñemíva.
+banner-firefox-daylight-launch-button = Eguerúke ko’ág̃a
