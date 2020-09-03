@@ -1,0 +1,17 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/81.0/whatsnew/all/
+
+# html page title
+whatsnew81-page-title = Wat is der nij yn { -brand-name-firefox }
+# Main title
+whatsnew81-main-title = In nije { -brand-name-firefox } foar elk apparaat
+whatsnew81-main-intro = Hokker bestjoeringssysteem jo ek hawwe, jo kinne der in mobile browser op ynstallearje dy't better is as ea en stipe wurdt troch in non-profitorganisaasje.
+whatsnew81-send-form-label = Fier jo e-mailadres yn foar in downloadkeppeling
+whatsnew81-send-form-label-alt = Fier jo e-mailadres of telefoannûmer yn foar in downloadkeppeling
+whatsnew81-scan-this-qr-code = Scan dizze QR-koade om te downloaden
+# content blocks below hero
+whatsnew81-the-new-firefox-for-android = De NIJE { -brand-name-firefox } foar { -brand-name-android } is der
