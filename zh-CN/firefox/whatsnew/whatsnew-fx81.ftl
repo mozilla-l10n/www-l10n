@@ -7,6 +7,7 @@
 
 # html page title
 whatsnew81-page-title = { -brand-name-firefox } 的新变化
+whatsnew81-main-intro = 无论您在用何种操作系统，现在都有更好的选择：一款由非营利组织全力支持的移动浏览器。
 whatsnew81-send-form-label = 输入您的邮箱地址，获取下载链接
 whatsnew81-send-form-label-alt = 请输入您的邮箱地址或手机号码，获取下载链接
 whatsnew81-scan-this-qr-code = 扫描此二维码下载

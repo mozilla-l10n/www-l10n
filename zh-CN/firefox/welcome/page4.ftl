@@ -23,6 +23,7 @@ welcome-page4-enhanced-tracking-protection = 增强型跟踪保护<a href="{ $pr
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = 不留痕迹
 welcome-page4-automatically-clear-your-history = 使用“隐私浏览”模式自动清除您的历史记录和 Cookie。
+welcome-page4-go-faster-do-more = 更快、更给力。
 welcome-page4-take-it-all-with-you = 随身携带
 welcome-page4-dont-walk-out-the-door-without = 出门别忘记“携带”书签、标签页、笔记及密码。
 welcome-page4-why-am-i-seeing-this = 为什么我会看到这个？
