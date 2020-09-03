@@ -15,3 +15,6 @@ whatsnew81-send-form-label-alt = Fier jo e-mailadres of telefoannûmer yn foar i
 whatsnew81-scan-this-qr-code = Scan dizze QR-koade om te downloaden
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = De NIJE { -brand-name-firefox } foar { -brand-name-android } is der
+whatsnew81-our-latest-for-android-has = Us nijste foar { -brand-name-android } hat in protte aardige, tûke funksjes – lykas in ferpleatsbere sykbalke. Want wy binne in ûnôfhinklike browser en jouwe om jo tommen.
+whatsnew81-make-firefox-your-everyday = Meitsje { -brand-name-firefox } de browser dy't jo elke dei op { -brand-name-ios } brûke
+whatsnew81-attention-iphone-people = Brûkers fan in { -brand-name-iphone } let op: yn { -brand-name-ios } 14 kinne jo einlik { -brand-name-firefox } as jo altyd te brûken standertbrowser ynstelle. Soargje derfoar dat jo de nijste { -brand-name-firefox } foar { -brand-name-ios } ynstallearre hawwe.
