@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 banner-firefox-daylight-launch-title = Oto { -brand-name-firefox-daylight } — najnowsza wersja { -brand-name-firefox(case: "gen") } na { -brand-name-android(case: "acc") }.
-banner-firefox-daylight-launch-intro = Przeprojektowana tak, aby była szybsza, bardziej prywatna, łatwiejsza w obsłudze i lepiej dopasowana do Twoich potrzeb.
+banner-firefox-daylight-launch-title-updated = Oto { -brand-name-firefox-daylight } — NOWY { -brand-name-firefox } na { -brand-name-android(case: "acc") }.
+banner-firefox-daylight-launch-intro = Przeprojektowany tak, aby był szybszy, bardziej prywatny, łatwiejszy w obsłudze i lepiej dopasowany do Twoich potrzeb.
 banner-firefox-daylight-launch-button = Pobierz teraz
