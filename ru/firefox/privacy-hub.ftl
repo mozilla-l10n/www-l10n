@@ -5,12 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Обещание по Приватности { -brand-name-firefox }
 # Sub navigation title
 firefox-privacy-privacy = Конфиденциальность
 # Sub navigation link
 firefox-privacy-our-promise = Наше обещание
 # Sub navigation link
 firefox-privacy-our-products = Наши продукты
+firefox-privacy-hub-thats-why-everything-we-make = Вот почему все, что мы создаём и делаем, соответствует нашему Обещанию по Личным Данным.
 firefox-privacy-hub-why-trust-firefox = Почему { -brand-name-firefox } можно доверять?
 firefox-privacy-hub-learn-more-about-our-mission = Узнайте больше о нашей миссии
 firefox-privacy-hub-learn-about-our-products = Узнайте о наших продуктах
