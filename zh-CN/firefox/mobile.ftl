@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = 下载 { -brand-name-firefox-browser }到 { -brand-name-ios } 或 { -brand-name-android } 终端
+firefox-mobile-download-the-firefox-browser = 下载 { -brand-name-firefox-browser }到 { -brand-name-ios } 或 { -brand-name-android } 设备
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser }移动版默认情况下会拦截超过 2000 种跟踪器，让您获得高速浏览的同时兼有隐私保护。
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
