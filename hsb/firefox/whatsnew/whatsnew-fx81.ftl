@@ -15,6 +15,6 @@ whatsnew81-send-form-label-alt = Zapodajće swoju e-mejlowu adresu abo telefonow
 whatsnew81-scan-this-qr-code = Skenujće tutón QR-kod za sćehnjenje
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = NOWY { -brand-name-firefox } za { -brand-name-android } je dóšoł
-whatsnew81-our-latest-for-android-has = Naš najnowši za { -brand-name-android } ma wjele inteligentnych funkcijow, kotrež wjeselo činja – kaž na přikład pohibliwe pytanske polo . Dokelž to je njewotisny wobhladowak a my so wo waše palcy staramy.
+whatsnew81-our-latest-for-android-has = Naš najnowši za { -brand-name-android } ma wjele inteligentnych funkcijow, kotrež wjeselo činja – kaž na přikład pohibliwe pytanske polo. Dokelž to je njewotwisny wobhladowak a my so wo waše palcy staramy.
 whatsnew81-make-firefox-your-everyday = Čińće { -brand-name-firefox } k swojemu wšědnemu wobhladowakej na { -brand-name-ios }
 whatsnew81-attention-iphone-people = Wužiwarjo { -brand-name-iphone }, kedźbu: Móžeće skónčnje nětko w { -brand-name-ios } 14  { -brand-name-firefox } jako swój standardny wobhladowak nastajić. Wobstarajće sej najnowši { -brand-name-firefox } za { -brand-name-ios }.
