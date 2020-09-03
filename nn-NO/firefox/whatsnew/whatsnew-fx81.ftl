@@ -9,3 +9,4 @@
 whatsnew81-page-title = Kva er nytt i { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Ein ny { -brand-name-firefox } for ekvar eining
+whatsnew81-scan-this-qr-code = Skann denne QR-koden for å laste ned
