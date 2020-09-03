@@ -9,6 +9,7 @@
 whatsnew81-page-title = Wat is er nieuw in { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Een nieuwe { -brand-name-firefox } voor elk apparaat
+whatsnew81-main-intro = Welk besturingssysteem u ook heeft, u kunt er een mobiele browser op installeren die beter is dan ooit en gesteund wordt door een non-profitorganisatie.
 whatsnew81-send-form-label = Voer uw e-mailadres in voor een downloadkoppeling
 whatsnew81-send-form-label-alt = Voer uw e-mailadres of telefoonnummer in voor een downloadkoppeling
 whatsnew81-scan-this-qr-code = Scan deze QR-code om te downloaden
