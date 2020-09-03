@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = 下载 { -brand-name-firefox-browser }到 { -brand-name-ios } 或 { -brand-name-android } 设备
 welcome-page4-wallet-keys-phone-firefox = 钱包、钥匙、手机、<strong>{ -brand-name-firefox }</strong>。
+welcome-page4-privacy-every-screen = 获得跨平台的隐私保护
 welcome-page4-take-privacy-with-you-on-every = 在每台设备上都能得到隐私保护，甩掉数据跟踪器。
 welcome-page4-on-the-move-at-home = 无论旅途中还是在家里 — 隐私是你应有的权利。
 welcome-page4-get-the-firefox-app = 获取 { -brand-name-firefox } 应用
