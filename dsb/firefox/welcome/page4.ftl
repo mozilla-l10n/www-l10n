@@ -24,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = Pólěpšony slědowański šćit <
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Njezawóstajajśo žedne slědy
 welcome-page4-automatically-clear-your-history = Lašujśo swóju historiju a cookieje awtomatiski w priwatnem modusu.
+welcome-page4-go-faster-do-more = Pśiźćo malsnjej doprědka. Gótujśo wěcej.
 welcome-page4-take-it-all-with-you = Wzejśo wšykno sobu
+welcome-page4-more-done-fast-smart = Dojśpiśo na swójom dnju wěcej z bokom, kótaryž se ze spěšnosću swětła zacytajo a z wjele inteligentnymi naraźenjami.
 welcome-page4-dont-walk-out-the-door-without = Njespušćajśo dom bźez swójich cytańskich znamjenjow, rejtarikow, noticow a gronidłow.
 welcome-page4-why-am-i-seeing-this = Cogodla se to pokazujo?
