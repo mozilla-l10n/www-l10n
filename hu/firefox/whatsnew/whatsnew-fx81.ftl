@@ -9,6 +9,7 @@
 whatsnew81-page-title = Újdonságok a { -brand-name-firefox }ban
 # Main title
 whatsnew81-main-title = Egy új { -brand-name-firefox } minden eszközhöz
+whatsnew81-main-intro = Bármilyen operációs rendszert is használ, minden eddiginél jobb, nonprofit szervezet által támogatott mobil böngészőt telepíthet rá.
 whatsnew81-send-form-label = A letöltési hivatkozáshoz adja meg e-mail-címét
 whatsnew81-send-form-label-alt = A letöltési hivatkozáshoz adja meg e-mail-címét vagy telefonszámát
 whatsnew81-scan-this-qr-code = A letöltéshez olvassa le ezt a QR-kódot
