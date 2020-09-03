@@ -8,7 +8,9 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Download – Der mobile { -brand-name-firefox-browser } für { -brand-name-ios } und { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Schlüssel. Handy. Geldbeutel. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-privacy-every-screen = Privatsphäre auf jedem Bildschirm
 welcome-page4-take-privacy-with-you-on-every = Nimm Firefox Privatsphäre mit auf jedes Gerät und lass Online-Tracker hinter dir.
+welcome-page4-on-the-move-at-home = Unterwegs oder einfach zu Hause – holen Sie sich die Privatsphäre, die Sie verdienen.
 welcome-page4-get-the-firefox-app = { -brand-name-firefox } App installieren
 welcome-page4-get-firefox-on-your-phone = Hol dir { -brand-name-firefox } aufs Smartphone
 welcome-page4-send-the-download-link-right = Download-Link per Text oder E-Mail schicken.
@@ -22,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = Der verbesserte Tracking-Schutz <a 
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Verwische deine Spuren
 welcome-page4-automatically-clear-your-history = Chronik und Cookies werden im Privaten Modus automatisch gelöscht, sobald du ihn schließt.
+welcome-page4-go-faster-do-more = Schneller mehr erledigen.
 welcome-page4-take-it-all-with-you = Alles dabei
+welcome-page4-more-done-fast-smart = Dank schnellen Seitenladezeiten und intelligenten Suchvorschlägen ist ihr Tag noch produktiver.
 welcome-page4-dont-walk-out-the-door-without = Nimm Bookmarks, Tabs, Notizen und Passwörter einfach mit.
 welcome-page4-why-am-i-seeing-this = Warum wird mir das angezeigt?
