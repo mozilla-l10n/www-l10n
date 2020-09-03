@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = { -brand-name-firefox } 网络浏
 facebook-container-facebook-well-contained-keep = 把 { -brand-name-facebook } 隔离起来。我的生活我做主。
 facebook-container-get-the-facebook-container = 获取 { -brand-name-facebook-container } 扩展
 facebook-container-download-firefox-and-get-the = 下载 { -brand-name-firefox } 并安装 { -brand-name-facebook-container } 扩展
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } 扩展目前只支持 { -brand-name-firefox } 桌面版。
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = 请到 <a href="{ $url }">{ $link_copy }</a> 下载 { -brand-name-firefox } 桌面版。
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } 扩展不支持移动设备。
+facebook-container-get-firefox-android-ios = 立即下载 { -brand-name-android } 或 { -brand-name-ios } 版 { -brand-name-firefox } 。
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = 试试 <strong>{ -brand-name-firefox-focus }</strong>，适用于 { -brand-name-android } 和 { -brand-name-ios } 的隐私浏览器。
 facebook-container-opt-out-on-your-terms = 您有权说不
