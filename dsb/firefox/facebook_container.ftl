@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Miliony luźi na swěśe wobglěd
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pód kontrolu. Wužywajśo zbytk swójogo žywjenja za sebje.
 facebook-container-get-the-facebook-container = Wobstarajśo se rozšyrjenje { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Ześěgniśo { -brand-name-firefox } a wobstarajśo se rozšyrjenje { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Rozšyrjenje { -brand-name-facebook-container } jo tuchylu jano za { -brand-name-firefox } za desktop k dispoziciji.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Woglědajśo se k <a href="{ $url }">{ $link_copy }</a>, aby se { -brand-name-firefox } za desktop wobstarał.
+# Outdated string
 facebook-container-the-facebook-container-extension = Rozšyrjenje { -brand-name-facebook-container } njejo k dispoziciji za mobilne rědy.
+facebook-container-get-firefox-android-ios = Wobstarajśo se něnto { -brand-name-firefox } za { -brand-name-android } a { -brand-name-ios }
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Wužywajśo <strong>{ -brand-name-firefox-focus }</strong>, wobglědowak priwatnosći za { -brand-name-android } a { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Wotpokazanje pód wašymi wuměnjenjami
