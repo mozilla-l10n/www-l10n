@@ -22,6 +22,8 @@ welcome-page4-enhanced-tracking-protection = Verbeterde bescherming tegen volgen
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Laat geen spoor achter
 welcome-page4-automatically-clear-your-history = Wis automatisch uw geschiedenis en cookies met de privénavigatiemodus.
+welcome-page4-go-faster-do-more = Ga sneller. Doe meer.
 welcome-page4-take-it-all-with-you = Neem alles met u mee
+welcome-page4-more-done-fast-smart = Krijg meer gedaan in uw dag met pagina’s die bliksemsnel laden en slimme zoeksuggesties.
 welcome-page4-dont-walk-out-the-door-without = Loop niet zonder uw bladwijzers, tabbladen, notities en wachtwoorden de deur uit.
 welcome-page4-why-am-i-seeing-this = Waarom zie ik dit?
