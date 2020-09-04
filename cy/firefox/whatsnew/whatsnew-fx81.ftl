@@ -16,3 +16,5 @@ whatsnew81-scan-this-qr-code = Sganiwch y cod QR hwn i'w lwytho i lawr
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Mae'r { -brand-name-firefox } NEWYDD ar gyfer { -brand-name-android } yma
 whatsnew81-our-latest-for-android-has = Mae gan ein porwr diweddaf ar gyfer { -brand-name-android } lawer o nodweddion hwyliog, clyfar - fel bar chwilio symudol. Gan ein bod ni'n borwr annibynnol ac yn poeni am eich bodiau.
+whatsnew81-make-firefox-your-everyday = Gwnewch { -brand-name-firefox } eich porwr beunyddiol ar { -brand-name-ios }
+whatsnew81-attention-iphone-people = Helo pobl { -brand-name-iphone }: yn { -brand-name-ios } 14, gallwch chi o'r diwedd osod { -brand-name-firefox } fel eich porwr prysur, defnyddiol, rhagosodedig am byth. Sicrhewch fod gennych y { -brand-name-firefox } diweddaraf ar gyfer { -brand-name-ios }.

@@ -14,7 +14,7 @@ facebook-container-only-available-for-desktop = Mae'r Estyniad { -brand-name-fac
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Ewch i<a href="{ $url }">{ $link_copy }</a> i gael { -brand-name-firefox } ar gyfer y Bwrdd Gwaith.
+facebook-container-visit-to-get-for-desktop = Ewch i <a href="{ $url }">{ $link_copy }</a> i gael { -brand-name-firefox } ar gyfer y Bwrdd Gwaith.
 # Outdated string
 facebook-container-the-facebook-container-extension = Nid yw'r { -brand-name-facebook-container } Extension ar gael ar gyfer dyfeisiau symudol.
 facebook-container-get-firefox-android-ios = Estynnwch { -brand-name-firefox } ar gyfer { -brand-name-android } a { -brand-name-ios } nawr.
