@@ -11,8 +11,13 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Wedi
 facebook-container-get-the-facebook-container = Estynnwch y { -brand-name-facebook-container } Extension
 facebook-container-download-firefox-and-get-the = Llwythwch { -brand-name-firefox } i Lawr a defnyddiwch y { -brand-name-facebook-container } Extension
 facebook-container-only-available-for-desktop = Mae'r Estyniad { -brand-name-facebook-container } ar gael ar gyfer { -brand-name-firefox } y Bwrdd Gwaith yn unig ar hyn o bryd.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Ewch i<a href="{ $url }">{ $link_copy }</a> i gael { -brand-name-firefox } ar gyfer y Bwrdd Gwaith.
 # Outdated string
 facebook-container-the-facebook-container-extension = Nid yw'r { -brand-name-facebook-container } Extension ar gael ar gyfer dyfeisiau symudol.
+facebook-container-get-firefox-android-ios = Estynnwch { -brand-name-firefox } ar gyfer { -brand-name-android } a { -brand-name-ios } nawr.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Profwch <strong>{ -brand-name-firefox-focus }</strong>, y porwr preifat ar gyfer { -brand-name-android } ac { -brand-name-ios }.

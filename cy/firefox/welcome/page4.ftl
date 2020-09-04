@@ -8,7 +8,9 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Llwythwch y porwr { -brand-name-firefox-browser } ar eich Dyfais Symudol { -brand-name-ios } ac { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Waled. Allweddi. Ffôn. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-privacy-every-screen = Cael preifatrwydd ar bob sgrin
 welcome-page4-take-privacy-with-you-on-every = Ewch â phreifatrwydd gyda chi ar bob dyfais - a gadewch y tracwyr data ar ôl.
+welcome-page4-on-the-move-at-home = Ar daith neu adre - mynnwch y preifatrwydd rydych chi'n ei haeddu.
 welcome-page4-get-the-firefox-app = Mynnwch yr Ap { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Defnyddiwch { -brand-name-firefox } ar eich Ffôn
 welcome-page4-send-the-download-link-right = Anfonwch y ddolen llwytho yn syth i'ch ffôn neu e-bost.
@@ -22,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = Amddiffyniad Tracio Uwch <a href="{
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Gadael dim ôl
 welcome-page4-automatically-clear-your-history = Cliriwch eich hanes a'ch cwcis yn awtomatig gyda'r modd Pori Preifat.
+welcome-page4-go-faster-do-more = Mynd yn gynt. Gwneud mwy.
 welcome-page4-take-it-all-with-you = Ewch â'r cyfan gyda chi
+welcome-page4-more-done-fast-smart = Cyflawni mwy yn eich diwrnod gyda llwytho tudalennau sydyn ac awgrymiadau chwilio clyfar.
 welcome-page4-dont-walk-out-the-door-without = Peidiwch â mynd i nunlle heb eich nodau tudalen, tabiau, nodiadau a chyfrineiriau.
 welcome-page4-why-am-i-seeing-this = Pam ydw i'n gweld hyn?
