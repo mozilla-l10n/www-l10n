@@ -10,7 +10,10 @@ facebook-container-millions-of-people-around = Mae miliynau o bobl o amgylch y b
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Wedi ei gynhwyso'n dda. Cadwch gweddill eich bywyd i chi eich hun.
 facebook-container-get-the-facebook-container = Estynnwch y { -brand-name-facebook-container } Extension
 facebook-container-download-firefox-and-get-the = Llwythwch { -brand-name-firefox } i Lawr a defnyddiwch y { -brand-name-facebook-container } Extension
+facebook-container-only-available-for-desktop = Mae'r Estyniad { -brand-name-facebook-container } ar gael ar gyfer { -brand-name-firefox } y Bwrdd Gwaith yn unig ar hyn o bryd.
+# Outdated string
 facebook-container-the-facebook-container-extension = Nid yw'r { -brand-name-facebook-container } Extension ar gael ar gyfer dyfeisiau symudol.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Profwch <strong>{ -brand-name-firefox-focus }</strong>, y porwr preifat ar gyfer { -brand-name-android } ac { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Gosod eich amodau eich hunain
