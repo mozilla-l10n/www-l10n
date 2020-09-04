@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = 전세계 수백만명의 사람�
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }를 격리함으로서 개인 정보흘 보호합니다.
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } 확장 기능 받기
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox }를 다운로드 후, { -brand-name-facebook-container }  확장 기능 사용하기
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } 확장 기능은 현재 데스크톱 용 { -brand-name-firefox }에서만 사용할 수 있습니다.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = 데스크톱용 { -brand-name-firefox }를 받으려면 <a href="{ $url }">{ $link_copy }</a>를 방문하세요.
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } 확장 기능은 모바일 기기에서 사용이 불가합니다.
+facebook-container-get-firefox-android-ios = 지금 { -brand-name-android } 및 { -brand-name-ios } 용 { -brand-name-firefox }를 받으세요.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android }와 { -brand-name-ios }를 위한 사생활 보호 브라우저 <strong>{ -brand-name-firefox-focus }</strong>를 써보세요.
 facebook-container-opt-out-on-your-terms = 이용 약관에 동의 안함
