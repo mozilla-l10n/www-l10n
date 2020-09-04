@@ -9,5 +9,6 @@
 whatsnew81-page-title = Kaj je novega v { -brand-name-firefox }u
 # Main title
 whatsnew81-main-title = Novi { -brand-name-firefox } za vsako napravo
+whatsnew81-main-intro = Ne glede na to, kateri operacijski sistem uporabljate, je zanj na voljo neprofiten mobilni brskalnik, boljši kot kdajkoli prej.
 whatsnew81-send-form-label = Vnesite e-poštni naslov za prejem povezave za prenos
 whatsnew81-send-form-label-alt = Vnesite e-poštni naslov ali telefonsko številko za prejem povezave za prenos

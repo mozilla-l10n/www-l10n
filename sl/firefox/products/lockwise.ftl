@@ -17,6 +17,7 @@ lockwise-install-for-firefox = Namestite za { -brand-name-firefox }
 lockwise-open-in-firefox = Odpri v { -brand-name-firefox }u
 lockwise-only-in-the-firefox-browser = Samo v { -brand-name-firefox-browser }u
 lockwise-256-bit-encryption-protects = 256-bitno šifriranje vas varuje pri sinhronizaciji
+lockwise-get-to-your-passwords-securely = Varno dostopajte do svojih gesel s Face ID ali Touch ID
 lockwise-your-privacy-comes-first = Vaša zasebnost je na prvem mestu
 lockwise-we-keep-your-data-safe = Vaše podatke ohranjamo varne in jih nikoli ne prodajamo.
 lockwise-support = Podpora

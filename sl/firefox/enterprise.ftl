@@ -22,6 +22,7 @@ firefox-enterprise-deploy-when-and-how-you-want = Uvedite kadar in kako želite
 firefox-enterprise-choose-your-release-cadence = Izberite svoj posodobitveni cikel
 firefox-enterprise-get-rapid-releases-to-make = Prejemajte hitrejše izdaje, da bi nove možnosti prejemali hitreje ali pa si zagotovite izjemno stabilno izkušnjo.
 firefox-enterprise-enterprise-downloads = Prenosi za podjetja
+firefox-enterprise-windows-64-bit = { -brand-name-windows } (64-bitni)
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Izberite svoj prenos
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
@@ -36,6 +37,7 @@ firefox-enterprise-policy-documentation = Dokumentacija pravilnika
 firefox-enterprise-release-notes = Opombe ob izdaji
 firefox-enterprise-documentation-and-community = Dokumentacija in podpora skupnosti
 firefox-enterprise-pkg-installer = Namestitveni program PKG
+firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Prenesite { -brand-name-firefox-esr } ali Rapid Release za <br> <a href="{ $firefox_all }"> drug jezik ali platformo.</a>

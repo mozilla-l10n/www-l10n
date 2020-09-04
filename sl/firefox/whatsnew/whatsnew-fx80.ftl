@@ -16,6 +16,6 @@ whatsnew80-primary-cta-description = Vnesite e-poštni naslov ali telefonsko št
 whatsnew80-password-fatigue = Naveličanost gesel je resnična
 whatsnew80-the-average-person = Povprečna oseba ima na spletu 130 računov. { -brand-name-firefox } za mobilne naprave pomni in varno shranjuje vaša gesla na vseh sinhroniziranih napravah, tako da se lahko prijavite z enim samim klikom.
 whatsnew80-privacy-you-never = Zasebnost, o kateri nikoli ni treba razmišljati
-whatsnew80-firefox-for-mobile = { -brand-name-firefox } za mobilne naprave samodejno blokira večino spletnih oglaševalskih sledilcev, zato ni potrebe po brskanju po varnostnih nastavitvah.
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } za mobilne naprave samodejno zavrača večino spletnih oglaševalskih sledilcev, zato ni potrebe po brskanju po varnostnih nastavitvah.
 whatsnew80-new-firefox-android = Novi { -brand-name-firefox } za { -brand-name-android }
 whatsnew80-our-latest-version = Naša najnovejša različica { -brand-name-firefox }a bliskovito nalaga strani in se ponaša z očiščenim novim videzom, ki vam olajšuje delo in brskanje.
