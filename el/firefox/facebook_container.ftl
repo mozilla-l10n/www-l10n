@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Εκατομμύρια χρήστ
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Σε περιορισμό. Διατηρήστε ιδιωτική την υπόλοιπη ζωή σας.
 facebook-container-get-the-facebook-container = Λήψη της επέκτασης { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Λήψη του { -brand-name-firefox } και απόκτηση της επέκτασης { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Η επέκταση { -brand-name-facebook-container } είναι διαθέσιμη μόνο στο { -brand-name-firefox } για υπολογιστές προς το παρόν.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Επισκεφθείτε το <a href="{ $url }">{ $link_copy }</a> για λήψη του { -brand-name-firefox } για υπολογιστές.
+# Outdated string
 facebook-container-the-facebook-container-extension = Η επέκταση { -brand-name-facebook-container } δεν είναι διαθέσιμη για κινητές συσκευές.
+facebook-container-get-firefox-android-ios = Λήψη του { -brand-name-firefox } για { -brand-name-android } και { -brand-name-ios }.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Δοκιμάστε το <strong>{ -brand-name-firefox-focus }</strong>, το ιδιωτικό πρόγραμμα περιήγησης για { -brand-name-android } και { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Τα πάντα με τους δικούς σας όρους
