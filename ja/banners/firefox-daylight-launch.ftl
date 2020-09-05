@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 banner-firefox-daylight-launch-title = 最新リリースの { -brand-name-android } 版 { -brand-name-firefox } — { -brand-name-firefox-daylight } を紹介します。
+banner-firefox-daylight-launch-title-updated = 新しい { -brand-name-android } 版 { -brand-name-firefox } — { -brand-name-firefox-daylight } の紹介
 banner-firefox-daylight-launch-intro = 劇的に再設計され、より速く、使いやすく、カスタマイズ可能でプライベートになりました。
 banner-firefox-daylight-launch-button = 今すぐ入手
