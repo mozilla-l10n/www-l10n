@@ -24,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = Förbättrat spårningskydd <a href
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Lämna inga spår
 welcome-page4-automatically-clear-your-history = Rensa automatiskt din historik och kakor med läget Privat surfning.
+welcome-page4-go-faster-do-more = Få mer gjort, snabbare.
 welcome-page4-take-it-all-with-you = Ta allt med dig
+welcome-page4-more-done-fast-smart = Få mer gjort om dagen med blixtsnabba sidladdningar och smarta sökförslag.
 welcome-page4-dont-walk-out-the-door-without = Gå inte ut genom dörren utan dina bokmärken, flikar, anteckningar och lösenord.
 welcome-page4-why-am-i-seeing-this = Varför ser jag detta?
