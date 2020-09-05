@@ -8,7 +8,9 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Transfira o { -brand-name-firefox-browser } para o seu dispositivo móvel { -brand-name-ios } e { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Carteira. Chaves. Telefone. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-privacy-every-screen = Obtenha privacidade em todos os ecrãs
 welcome-page4-take-privacy-with-you-on-every = Leve a privacidade consigo em todos os dispositivos — e deixe os rastreadores de dados para trás.
+welcome-page4-on-the-move-at-home = Em movimento ou apenas em casa - obtenha a privacidade que você merece.
 welcome-page4-get-the-firefox-app = Obter a aplicação { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Tenha o { -brand-name-firefox } no seu telemóvel
 welcome-page4-send-the-download-link-right = Envie uma ligação de transferência diretamente para o seu dispositivo móvel ou e-mail.
@@ -22,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = A proteção melhorada contra a mon
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Não deixe vestígios
 welcome-page4-automatically-clear-your-history = Limpe o seu histórico e cookies automaticamente com o modo Navegação privado.
+welcome-page4-go-faster-do-more = Vá mais rápido. Faça mais.
 welcome-page4-take-it-all-with-you = Leve tudo consigo
+welcome-page4-more-done-fast-smart = Obtenha mais do seu dia com carregamentos de páginas extremamente rápidos e sugestões inteligentes de pesquisa.
 welcome-page4-dont-walk-out-the-door-without = Não saia de casa sem os seus marcadores, separadores, anotações e palavras-passe.
 welcome-page4-why-am-i-seeing-this = Porque estou a ver isto?
