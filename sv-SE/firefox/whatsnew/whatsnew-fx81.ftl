@@ -17,4 +17,4 @@ whatsnew81-scan-this-qr-code = Skanna den här QR-koden för att ladda ner
 whatsnew81-the-new-firefox-for-android = Den NYA { -brand-name-firefox } för { -brand-name-android } är här
 whatsnew81-our-latest-for-android-has = Vårt senaste version för { -brand-name-android } har massor av roliga och smarta funktioner – som ett rörligt sökfält. Eftersom vi är en oberoende webbläsare och vi bryr oss om dina tummar.
 whatsnew81-make-firefox-your-everyday = Gör { -brand-name-firefox } till din dagliga webbläsare på { -brand-name-ios }
-whatsnew81-attention-iphone-people = Information till anv{ -brand-name-iphone } -personer: i { -brand-name-ios } 14 kan du äntligen ställa in { -brand-name-firefox } som din standardwebbläsare för alltid, gör det klart. Se till att du har det senaste { -brand-name-firefox } för { -brand-name-ios }.
+whatsnew81-attention-iphone-people = Information till användare av { -brand-name-iphone }: i { -brand-name-ios } 14 kan du äntligen ställa in { -brand-name-firefox } som din standardwebbläsare. Se till att du har det senaste { -brand-name-firefox } för { -brand-name-ios }.
