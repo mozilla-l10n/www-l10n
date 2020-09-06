@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Millioner af mennesker rundt om i
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } under kontrol. Hold resten af dit liv for dig selv.
 facebook-container-get-the-facebook-container = Hent udvidelsen { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Hent { -brand-name-firefox } og få udvidelsen { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Udvidelsen { -brand-name-facebook-container } er i øjeblikket kun tilgængelig til { -brand-name-firefox } til computer.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Besøg <a href="{ $url }">{ $link_copy }</a> for at hente { -brand-name-firefox } til computer.
+# Outdated string
 facebook-container-the-facebook-container-extension = Udvidelsen { -brand-name-facebook-container } er ikke tilgængelig til mobile enheder.
+facebook-container-get-firefox-android-ios = Hent { -brand-name-firefox } til { -brand-name-android } og { -brand-name-ios } nu.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Prøv <strong>{ -brand-name-firefox-focus }</strong>, en browser til { -brand-name-android } og { -brand-name-ios } fokuseret på at beskytte dit privatliv.
 facebook-container-opt-out-on-your-terms = Sig fra på dine vilkår
