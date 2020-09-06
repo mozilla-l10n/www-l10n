@@ -15,4 +15,5 @@ whatsnew81-send-form-label-alt = Skriv inn e-postadressa eller telefonnummeret d
 whatsnew81-scan-this-qr-code = Skann denne QR-koden for å laste ned
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Den NYE { -brand-name-firefox } for { -brand-name-android } er her
+whatsnew81-our-latest-for-android-has = Den siste versjonen vår for { -brand-name-android } har mange artige og smarte funksjonar – som eit flyttbart søkjefelt. Fordi vi er ein uavhengig nettlesar, og vi bryr oss om tomlane dine.
 whatsnew81-attention-iphone-people = Info for brukarar av { -brand-name-iphone }: I { -brand-name-ios } 14 kan du endeleg velje { -brand-name-firefox } som standard nettlesar. Sørg for at du har den nyaste { -brand-name-firefox } for { -brand-name-ios }.
