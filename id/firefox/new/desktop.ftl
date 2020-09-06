@@ -121,8 +121,45 @@ firefox-desktop-download-from-security-to = Dari keamanan hingga berita hingga k
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dibuat olah <a { $attrs }>{ -brand-name-mozilla }</a> sebagai alternatif tercepat, lebih pribadi untuk peramban seperti { -brand-name-ie }, dan sekarang { -brand-name-chrome }. Hari ini, misi yang menggerakkan kami sebagai perusahaan dan komunitas sukarelawan ialah menempatkan privasi Anda di atas segalanya.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Seiring bertumbuh-kembangnya internet, { -brand-name-firefox } terus berfokus pada hak anda atas privasi  — kami menyebutnya sebagai <a { $attrs }>Janji Data Pribadi</a>: Ambil lebih sedikit. Amankan. Tanpa rahasia. Data Anda, aktifitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } tersedia pada semua perangkat Anda; bawa tab, riwayat dan penanda bersama anda. Yang Anda butuhkan hanyalah <a { $attrs }>akun { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Ambil gambar beresolusi tinggi dari apapun secara daring dengan alat  <a { $attrs }>penangkap layar</a> kami yang tersedia langsung di dalam peramban
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } secara otomatis <a { $attrs }>memblokir banyak pelacak pihak ketiga</a> dari pengumpulkan dan menjual aktifitas web Anda.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Ada pertanyaan? <a { $attrs }>Dukungan { -brand-name-mozilla }</a> siap membantu Anda.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Anda sudah memiliki perambannya. Sekarang dapatkan layanan lainnya dari { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Perhatikan peretas dengan { -brand-name-firefox-monitor }, lindungi kata sandi dengan { -brand-name-firefox-lockwise }, dan lebih banyak lagi.
+firefox-desktop-download-get-more-from-firefox = Dapatkan Lebih Banyak Dari { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Cukup Unduh Perambannya
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Hampir selesai!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Sekarang, selesaikan <strong>memasang</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Sekarang, <strong>jalankan</strong> pemasang yang baru saja diunduh.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Sekarang, <strong>buka</strong> berkas yang baru saja diunduh.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Ada masalah? <a { $attrs }>Dapatkan bantuan untuk pemasangan Anda</a>.
+firefox-desktop-download-in-another-language = Unduh dalam bahasa lain atau sistem operasi lain.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Anda menggunakan sistem operasi yang usang dan tidak aman yang mana <a href="{ $url }">tidak lagi didukung oleh { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Unduhan Anda seharusnya sudah dimulai secara otomatis. Tidak bekerja? <a id="{ $id }" href="{ $fallback_url }">Coba unduh kembali.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } bukan sekadar peramban.

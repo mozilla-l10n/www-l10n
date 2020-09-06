@@ -20,6 +20,7 @@ firefox-privacy-our-products = Produk Kami
 firefox-privacy-hub-you-should-be-able-to-decide = Anda harus dapat menentukan siapa yang dapat melihat informasi pribadi Anda. Tidak hanya di antara teman-teman Anda, namun dengan setiap pengiklan dan perusahaan di Internet — termasuk kami.
 firefox-privacy-hub-thats-why-everything-we-make = Itulah mengapa setiap hal yang kami buat dan lakukan menghormati Janji Data Pribadi kami.
 firefox-privacy-hub-take-less = Ambil Sedikit
+firefox-privacy-hub-we-make-a-point-of-knowing = Kami berusaha tahu lebih sedikit tentang Anda
 firefox-privacy-hub-update-your-firefox-browser = Perbarui peramban { -brand-name-firefox } Anda
 firefox-privacy-hub-invisible-to-the-top-trackers = Tidak terlihat oleh pelacak teratas
 firefox-privacy-hub-meet-four-of-the-most-common = Temui empat kategori pelacak paling umum — yang tidak akan menemui Anda.
