@@ -21,3 +21,7 @@ nightly-whatsnew-if-you-want-to = Jika Anda ingin tahu apa yang terjadi seputar 
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Ingin tahu fitur platform mana yang ingin Anda coba pada { -brand-name-nightly } dan belum bisa dilihat di kanal { -brand-name-firefox } lainnya? Lihatlah pada laman <a href="{ $mdn }">Fitur Eksperimental</a> di <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = Apakah anda mengalami masalah? Kejadian yang tidak terduga? Kompatibilitas web berkurang? Kami ingin Anda melaporkannya ke <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> untuk memastikan mereka tidak masuk ke rilis akhir (karma tambahan jika Anda memasukkan kata kunci { -brand-name-nightly }-komunitas</em> ke laporan kutu Anda)!
+nightly-whatsnew-go-community = Ayo komunitas!

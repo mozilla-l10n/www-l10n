@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Jutaan orang di seluruh dunia per
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Terbatasi dengan baik. Jaga kehidupan Anda hanya untuk diri Anda sendiri.
 facebook-container-get-the-facebook-container = Dapatkan Ekstensi { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Unduh { -brand-name-firefox } dan dapatkan Ekstensi { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Ekstensi { -brand-name-facebook-container } saat ini hanya tersedia untuk { -brand-name-firefox } untuk Desktop.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Kunjungi <a href="{ $url }">{ $link_copy }</a> untuk mendapatkan { -brand-name-firefox } untuk Desktop.
+# Outdated string
 facebook-container-the-facebook-container-extension = Ekstensi { -brand-name-facebook-container } tidak tersedia di perangkat seluler.
+facebook-container-get-firefox-android-ios = Dapatkan { -brand-name-firefox } untuk { -brand-name-android } dan { -brand-name-ios } sekarang.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Coba <strong>{ -brand-name-firefox-focus }</strong>, peramban berprivasi untuk { -brand-name-android } dan { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Pilihlah sesuai kriteria anda

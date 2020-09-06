@@ -53,14 +53,74 @@ firefox-desktop-download-search-engine-options = Opsi mesin pencari
 firefox-desktop-download-smart-search-suggestions = Saran pencarian cerdas
 firefox-desktop-download-bookmark-history = Markah, sejarah dan tab terbuka di hasil
 firefox-desktop-download-boost-your = Tingkatkan produktivitas Anda
+firefox-desktop-download-works-with-google = Dapat digunakan dengan produk { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Alat penangkap layar bawaan
+firefox-desktop-download-bookmarks-manager = Pengelola markah
+firefox-desktop-download-autosuggest-urls = Penyaran URL otomatis
 firefox-desktop-download-sync-across-devices = Sinkronisasi antar perangkat
 firefox-desktop-download-reader-mode = Mode Baca
+firefox-desktop-download-spell-check = Pengecekan ejaan
+firefox-desktop-download-pinned-tabs = Tab Tersemat
+firefox-desktop-download-stream-share-play = Streaming, bagikan, dan mainkan
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Blokir Pemutar video & suara otomatis
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Gambar-dalam-gambar
+firefox-desktop-download-curated-content-on = Konten pilihan di tab baru
+firefox-desktop-download-share-links = Bagikan tautan
+firefox-desktop-download-protect-your-privacy = Lindungi privasi Anda
+firefox-desktop-download-third-party-cookie = Pemblokir Kuki Pihak Ketiga
+firefox-desktop-download-fingerprinter-blocking = Pemblokir Pelacak Sidik Jari
+firefox-desktop-download-cryptominer-blocking = Pemblokir Penambang Kripto
+firefox-desktop-download-private-browsing-mode = Mode Penjelajahan Pribadi
+firefox-desktop-download-individual-protections-report = Laporan perlindungan individu
+firefox-desktop-download-secure-your-personal = Amankan info pribadi Anda
+firefox-desktop-download-breached-website-alerts = Peringatan situs web yang dibobol
+firefox-desktop-download-built-in-password = Pengelola sandi bawaan
+firefox-desktop-download-clear-history = Hapus riwayat
+firefox-desktop-download-form-autofill = Formulir IsiOtomatis
+firefox-desktop-download-automatic-updates = Pembaruan otomatis
 firefox-desktop-download-customize-your-browser = Ubahsuai peramban Anda
 firefox-desktop-download-themes = Tema
+firefox-desktop-download-dark-mode = Mode gelap
+firefox-desktop-download-library-of-extensions = Pustaka ekstensi
+firefox-desktop-download-adjust-search-bar = Sesuaikan pengaturan bilah pencarian
+firefox-desktop-download-change-new-tab = Ubah tata letak tab baru
+firefox-desktop-download-make-firefox-your = Buat <strong>{ -brand-name-firefox }</strong> Anda sendiri
+firefox-desktop-download-extensions-for-every = Ekstensi untuk setiap minat
+firefox-desktop-download-change-up-your = Ubah tampilan anda
+firefox-desktop-download-go-from-light = Beralih dari mode terang ke mode gelap tergantung pada suasana hati atau preferensi Anda, atau hidupkan dengan tema khusus (unicorn pelangi, misalnya)
+firefox-desktop-download-tweak-your-settings = Sesuaikan pengaturan Anda
+firefox-desktop-download-theres-no-need = Tidak perlu terpaku. Ubah halaman tab baru, bilah pencarian, penanda dan lainnya untuk penjelajahan internet yang Anda inginkan.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Didukung oleh lembaga <strong>nirlaba</strong> yang lebih mengutamakan orang-orang
+firefox-desktop-download-challenging-the-status = Menantang status quo sejak 1998
+firefox-desktop-download-your-privacy-comes = Privasi Anda adalah yang utama.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Pertahankan semua fitur peramban kesukaan Anda — dan <strong>temukan</strong> yang baru.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Semua alat { -brand-name-google } kesukaan Anda (seperti Gmail dan Docs) bekerja dengan lancar di { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Unduh ekstensi peramban ini</a> untuk menghentikan { -brand-name-facebook } (dan { -brand-name-instagram }) dari melacak Anda di web.
+firefox-desktop-download-sync-your-devices = Sinkronkan perangkat Anda
+firefox-desktop-download-screenshots = Tangkapan Layar
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Perlindungan Pelacakan yang Ditingkatkan (ETP)
+firefox-desktop-download-from-watching-a = Dari menonton situs tutorial hingga melihat tim kebanggaan Anda, video Anda akan mengikuti Anda selama melakukan banyak tugas.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Dapatkan { -brand-name-firefox-browser } untuk <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Dapatkan { -brand-name-firefox-browser } untuk <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Unduh peramban seluler { -brand-name-firefox } untuk perlindungan otomatis di semua perangkat Anda.
+firefox-desktop-download-learn-about-the = Pelajari mengenai peramban desktop { -brand-name-firefox } di bawah ini
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Dari keamanan hingga berita hingga ke permainan,semua <a{ $attrs }>ekstensi ada untuk semuanya</a>. Tambahkan sebanyak yang Anda inginkan hingga peramban Anda tepat.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dibuat olah <a { $attrs }>{ -brand-name-mozilla }</a> sebagai alternatif tercepat, lebih pribadi untuk peramban seperti { -brand-name-ie }, dan sekarang { -brand-name-chrome }. Hari ini, misi yang menggerakkan kami sebagai perusahaan dan komunitas sukarelawan ialah menempatkan privasi Anda di atas segalanya.
 firefox-desktop-download-just-download-the-browser = Cukup Unduh Perambannya
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
