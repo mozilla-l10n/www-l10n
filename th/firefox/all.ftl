@@ -31,6 +31,7 @@ firefox-all-the-standard-firefox = เบราว์เซอร์ { -brand-na
 firefox-all-get-a-sneak-peek-at = ดูคุณลักษณะล่าสุดของเบราว์เซอร์ { -brand-name-firefox } ก่อนที่จะเปิดตัว
 firefox-all-test-your-sites-against = ทดสอบไซต์ของคุณกับคุณลักษณะของเบราว์เซอร์ { -brand-name-firefox } ที่จะเปิดตัวในไม่ช้าด้วยเครื่องมือสำหรับนักพัฒนาที่ทรงพลังและยืดหยุ่นซึ่งจะเปิดตามค่าเริ่มต้น
 firefox-all-windows-installers-for = ตัวติดตั้ง Windows สำหรับแผนก IT ของบริษัทซึ่งสามารถทำให้การกำหนดค่า การปรับใช้ และการจัดการ { -brand-name-firefox-browser } ง่ายขึ้น
+firefox-all-arm64-installers = ตัวติดตั้ง ARM64 / AArch64
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = เลือกตัวติดตั้งแบบ 32 บิตสำหรับคอมพิวเตอร์ที่มีโปรเซสเซอร์แบบ 32 บิต หรือสำหรับคอมพิวเตอร์ที่เก่ากว่าหรือมีประสิทธิภาพน้อยกว่า <a href="{ $url }">หากคุณไม่แน่ใจ</a>ว่าจะเลือกตัวติดตั้งแบบ 64 บิตหรือ 32 บิต เราแนะนำให้คุณเลือกตัวติดตั้งแบบ 32 บิต
