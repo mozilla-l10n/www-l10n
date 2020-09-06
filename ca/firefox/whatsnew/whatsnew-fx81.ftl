@@ -9,7 +9,7 @@
 whatsnew81-page-title = Novetats del { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Un { -brand-name-firefox } nou per a cada dispositiu
-whatsnew81-main-intro = Sigui quin sigui el sistema operatiu que tingueu, podeu instal·lar-hi un navegador mòbil millor que la resta que no té ànim de lucre.
+whatsnew81-main-intro = Sigui quin sigui el sistema operatiu que tingueu, podeu instal·lar-hi un navegador mòbil millor que la resta i que no té ànim de lucre.
 whatsnew81-send-form-label = Introduïu la vostra adreça electrònica per obtenir un enllaç de baixada
 whatsnew81-send-form-label-alt = Introduïu el vostre número de telèfon o adreça electrònica per obtenir un enllaç de baixada
 whatsnew81-scan-this-qr-code = Escanegeu aquest codi QR per baixar-lo
