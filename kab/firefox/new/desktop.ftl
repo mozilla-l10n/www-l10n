@@ -99,6 +99,8 @@ firefox-desktop-download-enhanced-tracking-protection = Ammesten mgal aḍfaṛ 
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Awi { -brand-name-firefox-browser } i <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Awi { -brand-name-firefox-browser } i <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Sader-d iminig { -brand-name-firefox } n uziraz i ummesten awurman ɣef meṛṛa ibenkan-inek·inem.
+firefox-desktop-download-learn-about-the = Issin ugar ɣef yiminig n tnarit { -brand-name-firefox } ddaw
 firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sader kan iminig
 
