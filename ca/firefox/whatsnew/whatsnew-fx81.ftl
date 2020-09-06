@@ -16,3 +16,5 @@ whatsnew81-scan-this-qr-code = Escanegeu aquest codi QR per baixar-lo
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Ja ha arribat el nou { -brand-name-firefox } per a l'{ -brand-name-android }
 whatsnew81-our-latest-for-android-has = La versió més recent del { -brand-name-android } té moltes funcions intel·ligents i divertides, com ara una barra de cerca desplaçable. Perquè som un navegador independent i ens preocupem pels vostres polzes.
+whatsnew81-make-firefox-your-everyday = Feu que el { -brand-name-firefox } sigui el vostre navegador principal en l'{ -brand-name-ios }
+whatsnew81-attention-iphone-people = Atenció, gent d'{ -brand-name-iphone }: en l'{ -brand-name-ios } 14, per fi podeu definir el { -brand-name-firefox } com a navegador per defecte i per sempre. Assegureu-vos que teniu la versió més recent del { -brand-name-firefox } per a l'{ -brand-name-ios }.
