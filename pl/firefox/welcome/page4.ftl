@@ -26,5 +26,6 @@ welcome-page4-leave-no-trace = Nie zostawiaj śladów
 welcome-page4-automatically-clear-your-history = Automatycznie usuwaj historię i ciasteczka za pomocą trybu prywatnego.
 welcome-page4-go-faster-do-more = Idź szybciej. Osiągnij więcej.
 welcome-page4-take-it-all-with-you = Miej wszystko przy sobie
+welcome-page4-more-done-fast-smart = Załatw więcej spraw w ciągu dnia dzięki błyskawicznemu wczytywaniu stron i inteligentnym podpowiedziom wyszukiwania.
 welcome-page4-dont-walk-out-the-door-without = Nie wychodź z domu bez swoich zakładek, kart, notatek i haseł.
 welcome-page4-why-am-i-seeing-this = Dlaczego to widzę?
