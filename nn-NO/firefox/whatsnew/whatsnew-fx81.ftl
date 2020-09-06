@@ -9,6 +9,7 @@
 whatsnew81-page-title = Kva er nytt i { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Ein ny { -brand-name-firefox } for ekvar eining
+whatsnew81-main-intro = Same kva for operativsystem du har finst det no ein, betre-enn-nokon-gong, mobilnettlesar med ideell bakgrunn.
 whatsnew81-send-form-label = Skriv inn e-postadressa di for å få tilsendt ei nedlastingslenke
 whatsnew81-send-form-label-alt = Skriv inn e-postadressa eller telefonnummeret ditt for å få tilsendt ei nedlastingslenke
 whatsnew81-scan-this-qr-code = Skann denne QR-koden for å laste ned
