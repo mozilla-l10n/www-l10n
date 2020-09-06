@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = Last ned { -brand-name-firefox-brow
 welcome-page4-wallet-keys-phone-firefox = Lommebok. Nøklar. Telefon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen = Personvern på kvar einaste skjerm
 welcome-page4-take-privacy-with-you-on-every = Ta personvernet med deg på alle einingane dine — og la datasporarane vere att.
+welcome-page4-on-the-move-at-home = På reisefot eller berre heime — få det personvernet du fortener.
 welcome-page4-get-the-firefox-app = Hent { -brand-name-firefox }-appen
 welcome-page4-get-firefox-on-your-phone = Få { -brand-name-firefox } på telefonen
 welcome-page4-send-the-download-link-right = Send nedlastingslenka på SMS eller e-post.
@@ -23,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = Utvida sporingsvern <a href="{ $pri
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Etterlat ingen spor
 welcome-page4-automatically-clear-your-history = Tøm historikken og infokapslane automatisk med privat nettlesingsmodus.
+welcome-page4-go-faster-do-more = Få meir gjort, snøggare.
 welcome-page4-take-it-all-with-you = Ta alt med deg
+welcome-page4-more-done-fast-smart = Få meir gjort i løpet av dagen med lynraske sidelastingar og smarte søkjeforslag.
 welcome-page4-dont-walk-out-the-door-without = Ikkje gå ut døra utan bokmerka, fanene, notata og passorda dine.
 welcome-page4-why-am-i-seeing-this = Kvifor ser eg dette?
