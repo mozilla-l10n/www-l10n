@@ -69,6 +69,7 @@
        *[nominative] аккаунт Firefox
         [nominative_uppercase] Аккаунт Firefox
         [genitive] аккаунта Firefox
+        [genitive_uppercase] Аккаунта Firefox
         [instrumental] аккаунтом Firefox
     }
 -brand-name-firefox-accounts =
