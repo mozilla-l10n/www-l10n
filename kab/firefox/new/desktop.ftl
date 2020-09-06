@@ -101,6 +101,18 @@ firefox-desktop-download-get-firefox-android = Awi { -brand-name-firefox-browser
 firefox-desktop-download-get-firefox-ios = Awi { -brand-name-firefox-browser } i <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Sader-d iminig { -brand-name-firefox } n uziraz i ummesten awurman ɣef meṛṛa ibenkan-inek·inem.
 firefox-desktop-download-learn-about-the = Issin ugar ɣef yiminig n tnarit { -brand-name-firefox } ddaw
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } yella ɣef meṛṛa ibenkan-ik·im; awi accaren, amazray d ticraḍ n yisebtar yid-k·m. Ayen akk i tesriḍ d amiḍan <a { $attrs }>{ -brand-name-firefox } </a>.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ꞌa { $attrs }>yessewḥal s wudem awurman aṭas n yineḍfaren n wis kraḍ</a> ɣef ulqaḍ d usenzi n tigawt-ik·im ɣef web.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Asteqsi? <a { $attrs }>{ -brand-name-mozilla } tallalt</a> tesseḥbaber fell-ak·am.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Ɣur-k·m yakan iminig. Tura awi ugar seg { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Ɛass imakaren s { -brand-name-firefox-monitor }, mmesten awalen uffiren s { -brand-name-firefox-lockwise }, d wayen-nniḍen.
 firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sader kan iminig
 
