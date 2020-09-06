@@ -7,5 +7,10 @@
 
 # html page title
 whatsnew81-page-title = Что нового в { -brand-name-firefox }
+# Main title
+whatsnew81-main-title = Новый { -brand-name-firefox } для каждого устройства
 whatsnew81-send-form-label = Введите свой адрес электронной почты для получения ссылки на загрузку
 whatsnew81-send-form-label-alt = Введите свой адрес электронной почты или номер телефона для получения ссылки на загрузку
+whatsnew81-scan-this-qr-code = Отсканируйте этот QR-код для загрузки
+# content blocks below hero
+whatsnew81-the-new-firefox-for-android = Новый { -brand-name-firefox } для { -brand-name-android } уже здесь

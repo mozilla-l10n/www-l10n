@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Миллионы людей по 
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Надёжно изолирован. Держите свою жизнь при себе.
 facebook-container-get-the-facebook-container = Загрузить расширение { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Загрузите { -brand-name-firefox } и установите расширение { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Расширение { -brand-name-facebook-container } в настоящее время доступно только для { -brand-name-firefox } для компьютеров.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Посетите <a href="{ $url }">{ $link_copy }</a>, чтобы загрузить { -brand-name-firefox } для компьютеров.
+# Outdated string
 facebook-container-the-facebook-container-extension = Расширение { -brand-name-facebook-container } недоступно на мобильных устройствах.
+facebook-container-get-firefox-android-ios = Установите { -brand-name-firefox } для { -brand-name-android } и { -brand-name-ios }.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Попробуйте <strong>{ -brand-name-firefox-focus }</strong>, приватный браузер для { -brand-name-android } и { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Откажитесь на своих условиях

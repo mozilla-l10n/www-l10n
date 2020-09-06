@@ -24,7 +24,7 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } блокирует ещ
 whatsnew79-see-your-report = Просмотрите свой отчёт
 whatsnew79-update-your-firefox = Обновите свой браузер { -brand-name-firefox }
 whatsnew79-download-the-firefox = Загрузите браузер { -brand-name-firefox }
-whatsnew79-read-our-privacy-promise = Прочитайте наше Обещание о конфиденциальности
+whatsnew79-read-our-privacy-promise = Прочитайте наше Обещание о приватности
 whatsnew79-take-less-keep-it-safe = Собирать меньше. Держать в безопасности. Никаких секретов. Наш бизнес не зависит от тайного злоупотребления вашим доверием.
 # CTA link
 whatsnew79-read-more = Подробнее
