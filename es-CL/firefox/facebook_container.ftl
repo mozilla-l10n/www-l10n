@@ -10,6 +10,7 @@ facebook-container-millions-of-people-around = Millones de personas en todo el m
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Bajo control. Mantén el resto de tu vida privada.
 facebook-container-get-the-facebook-container = Obtener la extensión "{ -brand-name-facebook-container }"
 facebook-container-download-firefox-and-get-the = Baja { -brand-name-firefox } y obtén la extensión "{ -brand-name-facebook-container }"
+facebook-container-only-available-for-desktop = La extensión "{ -brand-name-facebook-container }" actualmente está disponible solo para { -brand-name-firefox } para escritorio.
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
