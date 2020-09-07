@@ -28,6 +28,7 @@ firefox-accounts-sign-in = Σύνδεση
 firefox-accounts-firefox-is-technology = Το { -brand-name-firefox } είναι μια τεχνολογία που μάχεται για εσάς.
 firefox-accounts-get-technology-that = Αποκτήστε την τεχνολογία που μάχεται για εσάς.
 firefox-accounts-travel-the-internet = Ταξιδέψτε στο διαδίκτυο με προστασία, σε κάθε συσκευή.
+firefox-accounts-get-a-lookout-for = Παρακολούθηση παραβιάσεων δεδομένων.
 firefox-accounts-share-large-files = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές.
 firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό που σας αξίζει.
 # Line breaks for visual formatting.
