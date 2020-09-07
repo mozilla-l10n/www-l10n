@@ -22,10 +22,10 @@ firefox-all-64-bit-installers = 64 bites telepítők
 firefox-all-choose-a-64-bit-installer = 64 bites processzorral rendelkező számítógépekre válassza a 64 bites telepítőt, amely több memória hozzárendelését tesz lehetővé az egyes programokhoz – ez különösen fontos a játékok és a nagy teljesítményigényű alkalmazások esetén.
 firefox-all-32-bit-installers = 32 bites telepítők
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Töltse le a { -brand-name-firefox-browser }t magyarul és több mint 90 egyéb nyelven
+firefox-all-download-the-firefox = Töltse le a { -brand-name-firefox-browser(case: "acc") } magyarul és több mint 90 egyéb nyelven
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox-browser }t több mint 90 nyelven.
-firefox-all-choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser }t, és töltse le az Ön nyelvén
+firefox-all-everyone-deserves-access = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven.
+firefox-all-choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser(case: "acc") }, és töltse le az Ön nyelvén
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } adatvédelmi nyilatkozat
 firefox-all-learn-about-firefox = Ismerje meg a { -brand-name-firefox } böngészőket
 firefox-all-the-standard-firefox = A szokásos { -brand-name-firefox } böngésző – gyors és privát. Ha nem biztos benne, hogy melyik { -brand-name-firefox }ot válassza, válassza ezt.

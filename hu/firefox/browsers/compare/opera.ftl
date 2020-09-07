@@ -8,7 +8,7 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vagy { -brand-name-opera }: Melyik a jobb böngésző az Ön számára?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Hasonlítsa össze az { -brand-name-opera } böngészőt és a { -brand-name-firefox-browser }t, hogy megtudja, melyik a legjobb Önnek.
+compare-opera-compare-opera-to-the-firefox = Hasonlítsa össze az { -brand-name-opera } böngészőt és a { -brand-name-firefox-browser(case: "acc") }, hogy megtudja, melyik a legjobb Önnek.
 # Main title
 compare-opera-comparing-firefox-browser = A { -brand-name-firefox-browser } és az { -brand-name-opera } összehasonlítása
 compare-opera-operas-privacy-policy-lacks = Az { -brand-name-opera } adatvédelmi nyilatkozata nem teljeskörű a tekintetében, hogy milyen típusú információkat gyűjt. Bizonyos szakaszokban azt mondják, hogy gyűjtik a fióktulajdonosok nevét, az IP-címeket és a keresési kifejezéseket. Ami zavarosnak és aggályosnak tűnik, az a nemzetközi adatátvitelről szóló szakasz; nem magyarázza, hogy mikor, milyen gyakran és miért kell országok között továbbítani az adatait.
