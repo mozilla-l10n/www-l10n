@@ -9,3 +9,5 @@
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-name-brave }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
 # Main title
 compare-brave-comparing-firefox-browser = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-brave }
+compare-brave-when-comparing-the-two-browsers = Συγκρίνοντας τα δύο προγράμματα περιήγησης, τόσο το { -brand-name-firefox } όσο και το { -brand-name-brave } προσφέρουν προηγμένη ιδιωτικότητα και ασφάλεια από προεπιλογή, από την πρώτη φορά που τα ανοίγετε.
+compare-brave-overall-brave-is-a-fast-and = Γενικά, το { -brand-name-brave } είναι ένα γρήγορο και ασφαλές πρόγραμμα περιήγησης που θα έχει απήχηση σε χρήστες κρυπτονομισμάτων. Αλλά για τη συντριπτική πλειονότητα των χρηστών, το { -brand-name-firefox } παραμένει η καλύτερη και απλούστερη επιλογή.

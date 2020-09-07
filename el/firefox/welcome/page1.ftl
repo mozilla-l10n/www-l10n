@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 welcome-page1-youre-on-track-to-stay-protected = Είστε σε καλό δρόμο για να παραμείνετε προστατευμένοι
+welcome-page1-check-your-breach-report = Έλεγχος αναφοράς παραβιάσεων
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
