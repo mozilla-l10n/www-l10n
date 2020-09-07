@@ -10,6 +10,7 @@ compare-index-seven-of-the-best-browsers-in = Τα επτά καλύτερα π�
 compare-index-six-of-the-best-browsers-fallback = Τα έξι καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
 # Sub-headline
 compare-index-privacy-utility-portability = Απόρρητο. Χρησιμότητα. Φορητότητα.
+compare-index-how-well-does-your-browser = Πόσο καλά λειτουργεί το πρόγραμμα περιήγησής σας στις συσκευές σας;
 compare-index-conclusion = Συμπέρασμα:
 compare-index-and-the-winner-is = Και ο νικητής είναι…
 compare-index-find-out-how-firefox-fallback = Μάθετε πώς διαφέρουν τα { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } και { -brand-name-ie } όσον αφορά το απόρρητο, τη χρησιμότητα και τη φορητότητα.
