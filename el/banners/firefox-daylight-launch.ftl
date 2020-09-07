@@ -4,4 +4,5 @@
 
 banner-firefox-daylight-launch-title = Σας παρουσιάζουμε το πιο πρόσφατο { -brand-name-firefox } για { -brand-name-android } — το { -brand-name-firefox-daylight }.
 banner-firefox-daylight-launch-title-updated = Γνωρίστε το ΝΕΟ { -brand-name-firefox } για { -brand-name-android } — { -brand-name-firefox-daylight }
+banner-firefox-daylight-launch-intro = Επανασχεδιάστηκε δραστικά για ταχύτητα, ευκολία στη χρήση, προσαρμογή και απόρρητο.
 banner-firefox-daylight-launch-button = Λήψη τώρα

@@ -8,6 +8,7 @@
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Επισκόπηση
 firefox-enterprise-downloads = Λήψεις
+firefox-enterprise-your-data-stays-your-business = Τα δεδομένα σας είναι δική σας δουλειά
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }

@@ -20,6 +20,7 @@ navigation-join-firefox = Σύνδεση στο { -brand-name-firefox }
 navigation-meet-the-firefox-family = Γνωρίστε την οικογένεια { -brand-name-firefox }
 navigation-firefox-blog = { -brand-name-firefox } Blog
 navigation-read-about-new-firefox = Διαβάστε για τις νέες λειτουργίες του { -brand-name-firefox } και δείτε συμβουλές για περισσότερη ασφάλεια στο διαδίκτυο.
+navigation-the-non-profit-behind = Η μη κερδοσκοπική οργάνωση πίσω από το { -brand-name-firefox } αγωνίζεται για ένα υγιές Διαδίκτυο για όλους.
 navigation-learn-how-firefox-treats = Μάθετε πώς το { -brand-name-firefox } χειρίζεται τα δεδομένα σας με σεβασμό.
 navigation-mozilla-careers = Καριέρες { -brand-name-mozilla }
 navigation-close-firefox-menu = Κλείσιμο μενού { -brand-name-firefox }
@@ -36,6 +37,7 @@ navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσ�
 navigation-experience-augmented = Ζήστε την επαυξημένη και εικονική πραγματικότητα με το { -brand-name-firefox }.
 # Outdated string
 navigation-meet-people-in-experimental = Γνωρίστε άτομα σε πειραματικές συνομιλίες μεικτής πραγματικότητας με το { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 # Outdated string
@@ -78,6 +80,7 @@ navigation-add-ons = Πρόσθετα
 navigation-projects = Έργα
 navigation-close-projects-menu = Κλείσιμο μενού έργων
 navigation-donate-your-voice-to = Δωρίστε τη φωνή σας για να κάνετε την αναγνώριση φωνής ανοικτή σε όλους.
+navigation-machine-learning = Μηχανική μάθηση
 # Outdated string
 navigation-web-of-things-iot = Διαδίκτυο των πραγμάτων (IoT)
 # Outdated string

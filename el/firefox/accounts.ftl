@@ -25,6 +25,7 @@ firefox-accounts-join-firefox = Σύνδεση στο { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Εισάγετε τη διεύθυνση email σας για να ξεκινήσετε.
 firefox-accounts-already-have-an-account = Έχετε ήδη λογαριασμό;
 firefox-accounts-sign-in = Σύνδεση
+firefox-accounts-meet-our-family-of = Γνωρίστε την οικογένεια των ιδιωτικών προϊόντων μας.
 firefox-accounts-firefox-is-technology = Το { -brand-name-firefox } είναι μια τεχνολογία που μάχεται για εσάς.
 firefox-accounts-get-technology-that = Αποκτήστε την τεχνολογία που μάχεται για εσάς.
 firefox-accounts-travel-the-internet = Ταξιδέψτε στο διαδίκτυο με προστασία, σε κάθε συσκευή.

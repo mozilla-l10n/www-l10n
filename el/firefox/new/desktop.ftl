@@ -28,6 +28,7 @@ firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών 
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
+firefox-desktop-download-see-your-report = Προβολή αναφοράς προστασίας
 firefox-desktop-download-for-everyone = Το { -brand-name-firefox } είναι για όλους
 firefox-desktop-download-available-in-over = Διαθέσιμο σε πάνω από 90 γλώσσες και συμβατό με συστήματα { -brand-name-windows }, { -brand-name-mac-short } και { -brand-name-linux }, το { -brand-name-firefox } λειτουργεί ό,τι και να χρησιμοποιείτε, όπου κι αν βρίσκεστε. Βεβαιωθείτε ότι το λειτουργικό σας σύστημα είναι ενημερωμένο για τη βέλτιστη εμπειρία.
 firefox-desktop-download-review-system-req = Έλεγχος απαιτήσεων συστήματος
@@ -46,6 +47,8 @@ firefox-desktop-download-sync-across-devices = Συγχρονισμός ανάμ
 firefox-desktop-download-reader-mode = Λειτουργία ανάγνωσης
 firefox-desktop-download-spell-check = Ορθογραφικός έλεγχος
 firefox-desktop-download-pinned-tabs = Καρφιτσωμένες καρτέλες
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Φραγή αυτόματης αναπαραγωγής βίντεο & ήχου
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Εικόνα εντός εικόνας
 firefox-desktop-download-share-links = Κοινή χρήση συνδέσμων

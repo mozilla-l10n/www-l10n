@@ -8,6 +8,7 @@
 welcome-page1-youre-on-track-to-stay-protected = Είστε σε καλό δρόμο για να παραμείνετε προστατευμένοι
 welcome-page1-check-your-breach-report = Έλεγχος αναφοράς παραβιάσεων
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-stay-ahead-of-hackers = Μείνετε μακριά από hackers
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
 welcome-page1-find-ways-to-protect-your = Προστατέψετε τις πληροφορίες σας με τις <a href="{ $security_tips }">συμβουλές ασφαλείας του { -brand-name-monitor }</a>.
