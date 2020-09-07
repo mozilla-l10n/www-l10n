@@ -10,7 +10,10 @@ facebook-container-millions-of-people-around = Milioni di persone nel mondo si a
 facebook-container-facebook-well-contained-keep = Mantieni la tua privacy, traccia i limiti di { -brand-name-facebook }.
 facebook-container-get-the-facebook-container = Scarica l’estensione { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Scarica { -brand-name-firefox } e installa l’estensione { -brand-name-facebook-container }
+# Outdated string
 facebook-container-the-facebook-container-extension = L’estensione { -brand-name-facebook-container } non è disponibile per dispositivi mobili.
+facebook-container-get-firefox-android-ios = Scarica ora { -brand-name-firefox } per { -brand-name-android } e { -brand-name-ios }.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Prova <strong>{ -brand-name-firefox-focus }</strong>, il browser riservato per { -brand-name-android } e { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Detta tu le regole
