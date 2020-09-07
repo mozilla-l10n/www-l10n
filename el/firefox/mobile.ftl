@@ -13,6 +13,7 @@ firefox-mobile-privacy-protection-by-default = Προστασία απορρήτ
 firefox-mobile-stop-companies-from-following = Σταματήστε την παρακολούθηση από εταιρείες
 firefox-mobile-discover-products-that-keep = Ανακαλύψτε προϊόντα που σας προστατεύουν
 firefox-mobile-android-only = Μόνο για { -brand-name-android }
+firefox-mobile-make-android-your-own = Κάντε το { -brand-name-android } δικό σας
 firefox-mobile-find-it-fast-with-a-smart = Γρήγορη εύρεση με μια έξυπνη γραμμή αναζήτησης
 firefox-mobile-the-privacy-you-deserve-the = Το απόρρητο που αξίζετε. Η ταχύτητα που χρειάζεστε.
 firefox-mobile-send-a-download-link-to-your = Στείλτε ένα σύνδεσμο λήψης στο τηλέφωνό σας.

@@ -38,6 +38,7 @@ firefox-privacy-hub-download-the-firefox-browser = Λήψη του προγρά�
 firefox-privacy-hub-update-your-firefox-browser = Ενημέρωση του { -brand-name-firefox } σας
 firefox-privacy-hub-invisible-to-the-top-trackers = Αόρατο στους κορυφαίους ιχνηλάτες
 firefox-privacy-hub-always-in-your-control = Πάντα υπό τον έλεγχό σας
+firefox-privacy-hub-want-to-customize-what = Θέλετε να αλλάξετε ποια στοιχεία αποκλείονται; Οι ρυθμίσεις σας απέχουν μόνο ένα κλικ.
 firefox-privacy-hub-protection-beyond-tracking = Προστασία πέρα από την καταγραφή
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Έλεγχος για παραβιάσεις
