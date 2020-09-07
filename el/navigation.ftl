@@ -59,6 +59,7 @@ navigation-check-for-breaches = Έλεγχος για παραβιάσεις
 navigation-see-breaches = Προβολή παραβιάσεων
 navigation-security-tips = Συμβουλές ασφαλείας
 navigation-sign-up = Εγγραφή
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Γρήγορο. Απλό. Ιδιωτικό.
 # Outdated string
 navigation-connected-and-protected = Σε σύνδεση και υπό προστασία
 navigation-join = Συμμετοχή
