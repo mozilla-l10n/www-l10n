@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -24,6 +26,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = Navegadores Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -32,6 +35,7 @@
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
+-brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
@@ -43,10 +47,12 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
 
 ## Firefox products
 
@@ -75,6 +81,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Rede de Desenvolvemento de Mozilla
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -106,6 +113,7 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
@@ -115,6 +123,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -122,7 +131,9 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Messenger do Facebook
 -brand-name-instagram = Instagram
+-brand-name-messenger = Messenger
 
 ## Google products
 
