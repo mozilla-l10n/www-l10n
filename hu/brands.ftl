@@ -25,8 +25,16 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox böngésző
--brand-name-firefox-browsers = Firefox böngészők
+-brand-name-firefox-browser =
+    { $case ->
+       *[nom] Firefox böngésző
+        [acc] Firefox böngészőt
+    }
+-brand-name-firefox-browsers =
+    { $case ->
+       *[nom] Firefox böngészők
+        [acc] Firefox böngészőket
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -51,7 +59,11 @@
 
 ## Firefox browsers (legacy)
 
--brand-name-firefox-aurora = Firefox Aurora
+-brand-name-firefox-aurora =
+    { $case ->
+       *[nom] Firefox Aurora
+        [acc] Firefox Aurorát
+    }
 -brand-name-aurora = Aurora
 
 ## Firefox products
