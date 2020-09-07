@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/80.0/whatsnew/all/
 
 # html page title
-whatsnew80-page-title = Que novidades hai en { -brand-name-firefox }
+whatsnew80-page-title = Que novidades ten o { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Parabéns! Está a utilizar a versión máis recente do { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = Faga practicamente todo un pouco máis rápido
@@ -17,3 +17,5 @@ whatsnew80-password-fatigue = Ter demasiados contrasinais fatiga de verdade
 whatsnew80-the-average-person = A media de contas na rede por persoa é de 130. O { -brand-name-firefox } para móbiles lembra e almacena os contrasinais de maneira segura para todos os dispositivos sincronizados, de xeito que é posíbel acceder a esas contas con só un clic.
 whatsnew80-privacy-you-never = Privacidade sobre a que nunca vacilar
 whatsnew80-firefox-for-mobile = O { -brand-name-firefox } para móbiles bloquea a maioría dos tracexadores de anuncias da rede automaticamente para que non haxa que estar configurando as opcións de seguranza.
+whatsnew80-new-firefox-android = O novo { -brand-name-firefox } para { -brand-name-android }
+whatsnew80-our-latest-version = A nosa versión máis recente do { -brand-name-firefox } presenta carga de páxinas rápida como un lóstrego e un desexo novo e limpo que facilita realizar máis cousas en menos tempo.
