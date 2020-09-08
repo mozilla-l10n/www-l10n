@@ -17,6 +17,7 @@ firefox-privacy-privacy = Приватность
 firefox-privacy-our-promise = Наше обещание
 # Sub navigation link
 firefox-privacy-our-products = Наши продукты
+firefox-privacy-hub-you-should-be-able-to-decide = Вы должны иметь возможность решать, кто видит вашу личную информацию. Не только среди ваших друзей, но и среди всех рекламодателей и компаний в Интернете — включая нас.
 firefox-privacy-hub-thats-why-everything-we-make = Вот почему все, что мы создаём и делаем, соответствует нашему Обещанию по Личным Данным.
 firefox-privacy-hub-take-less = Собираем меньше
 firefox-privacy-hub-we-make-a-point-of-knowing = Мы стараемся знать о вас меньше
@@ -25,6 +26,9 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Мы делаем всё в
 firefox-privacy-hub-no-secrets = Никаких секретов
 firefox-privacy-hub-youll-always-know-where-you = Вы всегда будете знать, где вы с нами
 firefox-privacy-hub-why-trust-firefox = Почему { -brand-name-firefox } можно доверять?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Потому что мы ставим людей на первое место. Фактически, нас поддерживает <a href="{ $foundation }">некоммерческая организация</a>. С первого дня нашей задачей было защитить Интернет и всех, кто в нём есть.
 firefox-privacy-hub-learn-more-about-our-mission = Узнайте больше о нашей миссии
 firefox-privacy-hub-your-privacy-by-the-product = Обеспечение приватности в наших продуктах
 firefox-privacy-hub-firefox-products-work-differently = Продукты { -brand-name-firefox } работают по-другому, потому что они в первую очередь разработаны для защиты вашей приватности.
@@ -50,11 +54,13 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Если у вас есть 
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Ежедневно для пользователей { -brand-name-firefox } по всему миру блокируется более { $trackers } трекеров
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Когда вы вводите свой адрес электронной почты в { -brand-name-firefox-monitor }, мы забываем его сразу же после того, как проверим его наличие в известных утечках данных — если только вы не разрешите нам продолжать отслеживать появление вашей личной информации в новых утечках данных.
 firefox-privacy-hub-check-for-breaches = Проверить на утечки
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Пароли и учётные данные, которые вы сохраняете в { -brand-name-firefox-lockwise }, зашифрованы на всех ваших устройствах, поэтому даже мы не можем их увидеть.
 firefox-privacy-hub-learn-more-about-lockwise = Узнайте больше о { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Мы не можем видеть имена или содержимое больших файлов, которыми вы делитесь через { -brand-name-firefox-send }, потому что они зашифрованы сквозным шифрованием — вы решаете, кто видит, что вы отправляете, и вы даже можете установить срок действия и пароль.
 firefox-privacy-hub-send-a-file = Отправить файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Получить { -brand-name-pocket }
