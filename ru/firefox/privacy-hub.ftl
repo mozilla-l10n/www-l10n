@@ -21,10 +21,16 @@ firefox-privacy-hub-you-should-be-able-to-decide = Вы должны иметь 
 firefox-privacy-hub-thats-why-everything-we-make = Вот почему все, что мы создаём и делаем, соответствует нашему Обещанию по Личным Данным.
 firefox-privacy-hub-take-less = Собираем меньше
 firefox-privacy-hub-we-make-a-point-of-knowing = Мы стараемся знать о вас меньше
+firefox-privacy-hub-all-tech-companies-collect = Все технологические компании собирают данные для улучшения своих продуктов. Но в них не обязательно включать много вашей личной информации. Единственные данные, которые нам нужны — это данные, которые в конечном итоге пригодятся вам. Мы спрашиваем себя: действительно ли нам это нужно? Зачем нам это нужно? И когда мы сможем это удалить?
 firefox-privacy-hub-keep-it-safe = Держим в безопасности
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Мы делаем всё возможное, чтобы защитить вашу личную информацию
+firefox-privacy-hub-data-security-is-complicated = Безопасность данных сложна — или, по крайней мере, должна быть. Вот почему мы предпринимаем дополнительные шаги для классификации имеющихся у нас данных, соблюдаем правила хранения и защиты для каждого типа данных и никогда не прекращаем повторять наши процессы. Мы уделяем приоритетное внимание вашей приватности. Мы в это инвестируем. Мы этому привержены. Мы даже обучаем этому другие компании.
 firefox-privacy-hub-no-secrets = Никаких секретов
 firefox-privacy-hub-youll-always-know-where-you = Вы всегда будете знать, где вы с нами
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Здесь нет никаких скрытых планов. Наш бизнес не зависит от тайного злоупотребления вашим доверием. Наше <a href="{ $privacy }">Уведомление о конфиденциальности</a> действительно доступно для чтения. Любой человек в мире может посещать наши <a href="{ $meetings }">еженедельные собрания компании</a>. Если вы хотите изучить каждую точку данных, которую мы собираем, наш код открыт. И мы тоже.
 firefox-privacy-hub-why-trust-firefox = Почему { -brand-name-firefox } можно доверять?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -38,6 +44,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } за
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>защищает</strong> вашу приватность в каждом продукте
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Более 2000 трекеров блокируются — автоматически
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Отслеживание превратилось в онлайн-эпидемию: компании следят за каждым шагом, щелчком и покупкой, собирая данные, чтобы предсказать и повлиять на то, что вы будете делать дальше. Мы считаем, что это грубое вторжение в вашу личную жизнь. Вот почему в мобильных и настольных браузерах { -brand-name-firefox } по умолчанию включена Улучшенная защита от отслеживания.
 firefox-privacy-hub-if-you-want-to-see-what = Если вы хотите узнать, что { -brand-name-firefox } блокирует для вас, посетите эту страницу в своем браузере { -brand-name-firefox }.
 firefox-privacy-hub-see-what-firefox-has-blocked = Узнайте, что { -brand-name-firefox } для вас заблокировал
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -63,6 +71,7 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Мы не можем видеть имена или содержимое больших файлов, которыми вы делитесь через { -brand-name-firefox-send }, потому что они зашифрованы сквозным шифрованием — вы решаете, кто видит, что вы отправляете, и вы даже можете установить срок действия и пароль.
 firefox-privacy-hub-send-a-file = Отправить файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } рекомендует высококачественные, выбранные людьми статьи, не собирая данные из вашей истории просмотра и не делясь вашей личной информацией с рекламодателями.
 firefox-privacy-hub-get-pocket = Получить { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account(case: "nominative") }
 firefox-privacy-hub-all-the-information-synced = Вся информация, синхронизируемая через ваш { -brand-name-firefox-account(case: "nominative_uppercase") } — от истории браузера до паролей — зашифрована. И пароль вашего аккаунта — единственный ключ.
