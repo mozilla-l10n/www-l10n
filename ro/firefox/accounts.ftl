@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Există o modalitate de a-ți proteja viața privată. Folosește { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Obține un { -brand-name-firefox-account } - Păstrează-ți datele private, în siguranță și sincronizate
+firefox-accounts-get-a-firefox-account = Fă-ți un { -brand-name-firefox-account } - Păstrează-ți datele private, în siguranță și sincronizate
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Ia atitudine împotriva unei industrii care îți vinde datele către terți. Fii inteligent și în siguranță online cu tehnologiile care luptă pentru tine.
 # Old HTML page description
