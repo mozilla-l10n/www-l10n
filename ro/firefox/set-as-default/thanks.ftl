@@ -19,13 +19,9 @@ set-as-default-thanks-heres-everything-you-need-android = Iată tot ce trebuie s
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Iată tot ce trebuie să știi despre setarea browserului implicit pe <a href="{ $ios }">dispozitive iOS</a>.
 set-as-default-thanks-youre-all-set = Ai terminat.
-set-as-default-thanks-get-firefox-for-mobile = Descarcă { -brand-name-firefox } pentru dispozitive mobile
 set-as-default-thanks-travel-the-internet-with = Navighează pe internet cu protecție pe toate dispozitivele tale.
 set-as-default-thanks-download-the-app = Descarcă aplicația
-set-as-default-thanks-join-firefox = Folosește { -brand-name-firefox }
 set-as-default-thanks-sign-up-for-a-free-account = Înregistrează-te pentru un cont gratuit și sincronizează-ți toate parolele, istoricul de navigare și preferințele pe dispozitivele tale.
-# Account here refers to a Firefox Account
-set-as-default-thanks-get-an-account = Fă-ți un cont
 set-as-default-thanks-having-trouble = Ai probleme?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android

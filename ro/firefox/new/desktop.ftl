@@ -30,26 +30,6 @@ firefox-desktop-download-spell-check = Verificare ortografică
 firefox-desktop-download-pinned-tabs = File fixate
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Imagine în imagine
-firefox-desktop-download-just-download-the-browser = Pur și simplu descarcă browserul
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
-firefox-desktop-download-almost-there = Aproape gata!
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-else = Acum finalizează <strong>instalarea</strong> { -brand-name-firefox }.
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-windows = <strong>Rulează</strong> fișierul de instalare descărcat.
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-mac = <strong>Deschide</strong> fișierul descărcat.
-# Variables:
-#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Probleme? <a { $attrs }>Cere ajutor la instalare</a>.
-firefox-desktop-download-in-another-language = Descarcă în altă limbă sau pentru alt sistem de operare.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Folosești un sistem de operare perimat și nesigur <a href="{ $url }">, care nu mai este acceptat de { -brand-name-firefox }</a>.
-# Variables:
-#   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Descărcarea ar trebui să înceapă automat. Nu a mers? <a id="{ $id }" href="{ $fallback_url }">Încearcă să descarci din nou.</a>
-firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } este mai mult decât un browser.

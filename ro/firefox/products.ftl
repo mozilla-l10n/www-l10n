@@ -34,7 +34,3 @@ firefox-products-discover-the-best-content = Descoperă cele mai bune conținutu
 firefox-products-get-pocket = Instalează { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Află mai multe despre { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Folosește { -brand-name-firefox } și profiți la maxim de orice produs — pe orice dispozitiv.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Ai deja un cont? <a { $fxa_attr }>Intră în cont</a> sau <a { $accounts_attr }>află mai multe</a> despre aderarea la { -brand-name-firefox }.

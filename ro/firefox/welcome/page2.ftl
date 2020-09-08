@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/2/
 
-# HTML page title
-welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } - Salvează știri, videoclipuri, relatări și multe altele
-welcome-page2-your-time-online-is-worth = Timpul tău online merită protejat
 welcome-page2-discover-and-save-stories = Descoperă și salvează articole în { -brand-name-pocket } — și te întorci la ele când ai timp liber.
 welcome-page2-activate-pocket = Activează { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }

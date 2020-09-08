@@ -7,8 +7,6 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Setează { -brand-name-firefox } ca browser implicit
-# HTML page description
-set-as-default-landing-choose-the-browser = Alege browserul care îți protejează confidențialitatea. Setează { -brand-name-firefox } ca browser implicit.
 set-as-default-landing-make-sure-youre-protected = Asigură-te că ești protejat(ă) de fiecare dată când intri online
 set-as-default-landing-thanks-for-using-the = Îți mulțumim că folosești cea mai recentă versiune a browserului { -brand-name-firefox }. Când alegi { -brand-name-firefox }, susții un web mai bun pentru tine și toți ceilalți. Acum fă pasul următor pentru a te proteja.
 set-as-default-landing-choose-automatic-privacy = Alege confidențialitatea automată

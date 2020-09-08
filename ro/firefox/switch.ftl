@@ -6,14 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Treci de la { -brand-name-chrome } la { -brand-name-firefox } în doar câteva minute
-switch-switching-to-firefox-is-fast-updated = Trecerea la { -brand-name-firefox } este rapidă, ușoară și fără riscuri pentru că { -brand-name-firefox } importă marcajele, parolele și preferințele din { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Trecerea la { -brand-name-firefox } este rapidă, ușoară și fără riscuri pentru că { -brand-name-firefox } importă marcajele, completările automate, parolele și preferințele din { -brand-name-chrome }.
-switch-switching-to-firefox-page-description-updated = Trecerea la { -brand-name-firefox } este rapidă, ușoară și fără riscuri. { -brand-name-firefox } îți importă marcajele, parolele și preferințele din { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Trecerea la { -brand-name-firefox } este rapidă, ușoară și fără riscuri. { -brand-name-firefox } importă marcajele, completările automate, parolele și preferințele din { -brand-name-chrome }.
 switch-select-what-to-take = Selectează ce să imporți din { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Lasă { -brand-name-firefox } să facă restul.
 switch-use-firefox-and-still-chrome = Poți folosi { -brand-name-firefox } și { -brand-name-chrome } în paralel. { -brand-name-chrome } nu va fi deloc modificat.
-switch-spread-the-word = Dă de veste despre { -brand-name-firefox } și ajută-ți cunoscuții să-și ia adio de la { -brand-name-chrome }.
 switch-share-with-your-friends = Spune-le prietenilor cum să treacă pe { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 Trecerea de la { -brand-name-chrome } la { -brand-name-firefox } este foarte rapidă. Încearcă-l și tu!
 switch-switch-to-firefox = Fă trecerea la { -brand-name-firefox }
@@ -22,7 +19,6 @@ switch-still-not-convinced = Încă nu te-ai convins că trecerea la { -brand-na
 switch-enjoy-the-web-faster = Bucură-te de web mai rapid, configurat pentru tine.
 switch-download-and-switch = Descarcă și fă trecerea
 switch-share-to-facebook = Distribuie prin Facebook
-switch-share-to-facebook-updated = Partajează pe { -brand-name-facebook }
 switch-send-a-tweet = Trimite un tweet
 switch-hey = Salut,
 switch-check-it-out = Încearcă-l și spune-mi ce părere ai:

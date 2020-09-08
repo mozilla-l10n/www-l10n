@@ -10,11 +10,9 @@ firefox-new-download-mozilla-firefox = Descarcă { -brand-name-mozilla } { -bran
 firefox-new-download-the-fastest-firefox = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 firefox-new-faster-page-loading-less-memory = Încărcare mai rapidă a paginilor, mai puțină memorie utilizată și prevăzut cu funcții, noul { -brand-name-firefox } este aici.
 firefox-new-automatic-privacy-is-here = A sosit confidențialitatea automată. Descarcă { -brand-name-firefox } ca să blochezi peste 2000 de elemente de urmărire.
-firefox-new-get-the-latest-firefox = Descarcă cea mai nouă versiune { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } îți arată câte elemente de urmărire colectoare de date sunt blocate cu <strong>protecția sporită împotriva urmăririi</strong>.
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> securizează parolele salvate în { -brand-name-firefox } și le face disponibile pe toate dispozitivele tale.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> te alertează dacă știm că informațiile tale sunt implicate într-o încălcare a securității datelor a unei alte companii.
-firefox-new-join-firefox = Folosește { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> face parolele salvate în { -brand-name-firefox } disponibile pe toate dispozitivele tale.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Descarcă { -brand-name-firefox } <br>pentru { -brand-name-windows }
