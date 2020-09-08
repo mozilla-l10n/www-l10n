@@ -134,6 +134,7 @@
 -brand-name-facebook-messenger = Messenger do Facebook
 -brand-name-instagram = Instagram
 -brand-name-messenger = Messenger
+-brand-name-workplace = Workplace
 
 ## Google products
 
