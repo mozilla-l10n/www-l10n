@@ -17,6 +17,7 @@ whatsnew79-secure-your-connection = Emohekorosã nde jeike
 # CTA link
 whatsnew79-get-started = Eñepyrũ
 whatsnew79-get-more-control-over = Ema’ẽag̃ui tapykuehoháre
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } omboykeve anivete hag̃ua ñemurã ha tapykuehoha ne myangekói.
 # CTA link
 whatsnew79-see-your-report = Ehecha ne Marandu’i
 whatsnew79-update-your-firefox = Embohekopyahu ne kundahára { -brand-name-firefox }

@@ -8,5 +8,6 @@
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
 nightly-whatsnew-youve-just-been = ¡Embohekopyahu ramoite { -brand-name-firefox-nightly } { $version }!
+nightly-whatsnew-your-firefox-nightly = Hekopyahúma { -brand-name-firefox-nightly }.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-go-community = ¡Che maitei tekohápe!
