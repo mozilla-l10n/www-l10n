@@ -32,5 +32,5 @@ facebook-container-installing-the-extension-is = Füge die <a href="{ $fbcontain
 facebook-container-about-firefox-and-mozilla = Von { -brand-name-firefox } und { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Firefox ist  Teil von <a href="{ $mozilla }">{ -brand-name-mozilla }</a>. Als Non-Profit kämpfen wir für ein freies Internet, von dem alle profitieren. Wir entwickeln Produkte für Menschen statt für Profit, weil wir davon überzeugt sind, dass Internetnutzer mit einfachen Mitteln mehr Kontrolle über ihre Privatsphäre und Sicherheit haben sollten.
+facebook-container-were-backed-by-mozilla-the = Firefox ist  Teil von <a href="{ $mozilla }">{ -brand-name-mozilla }</a>. Als Non-Profit kämpft Mozilla für ein freies Internet, von dem alle profitieren. Wir entwickeln Produkte für Menschen statt für Profit, weil wir davon überzeugt sind, dass Internetnutzer mit einfachen Mitteln mehr Kontrolle über ihre Privatsphäre und Sicherheit haben sollten.
 facebook-container-browse-freely-with-firefox = Entspannt durchs Web mit { -brand-name-firefox }.
