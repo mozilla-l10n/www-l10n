@@ -6,3 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-index-see-all = Voir toutes les extensions
+features-index-open-source-minds = Logiciel libre. Esprits libres.
+features-index-see-what-makes-us-different = Voyez en quoi nous sommes différents
+features-index-choose-independence = Choisissez l’indépendance
+features-index-read-our-privacy-policy = Consultez notre politique de confidentialité
+features-index-enhanced-tracking = Protection renforcée contre le pistage
+features-index-we-dont-sell-access-to-your = Nous ne vendons pas d’accès à vos données en ligne. Point final.
+features-index-compare-browsers = Comparer les navigateurs

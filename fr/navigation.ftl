@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } pour { -brand-name-fire
 navigation-watch-videos-and-browse = Regardez des vidéos et naviguez sur Internet avec votre { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Depuis toujours, les navigateurs { -brand-name-firefox } mettent un point d’honneur à respecter votre vie privée.
 navigation-take-the-passwords-youve = Emportez partout avec vous les mots de passe que vous avez enregistrés dans { -brand-name-firefox }.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox }, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne.
 navigation-join-firefox = Rejoindre { -brand-name-firefox }
 navigation-access-all-of-firefox = Accédez à tout { -brand-name-firefox } avec un seul identifiant et profitez de toutes les fonctionnalités de nos produits.
@@ -36,10 +37,15 @@ navigation-get-firefox-focus = Installer { -brand-name-firefox-focus }
 navigation-android-extensions = Extensions { -brand-name-android }
 navigation-your-firefox-account = Votre { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Profitez au mieux de l’expérience { -brand-name-firefox }, sur tous vos appareils.
+# Outdated string
 navigation-learn-how-to-customize = Découvrez comment personnaliser le fonctionnement de { -brand-name-firefox }.
+# Outdated string
 navigation-experience-augmented = Essayez la réalité augmentée et virtuelle avec { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Rencontrez des personnes dans des salons de discussion expérimentaux en réalité mixte avec { -brand-name-firefox }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } apporte la réalité augmentée et virtuelle à { -brand-name-firefox }.
 navigation-firefox-built-just-for = { -brand-name-firefox }, conçu spécialement pour les développeurs.
 navigation-preview-the-latest-build = Découvrez en avant-première la plus récente version de { -brand-name-firefox } et aidez-nous à l’améliorer.
@@ -64,6 +70,8 @@ navigation-security-tips = Conseils de sécurité
 navigation-share-large-files-safely = Partagez des fichiers volumineux en toute sécurité, avec des liens qui « s’autodétruisent ».
 navigation-save-quality-content = Enregistrez des contenus de qualité où que vous soyez. Enrichissez votre esprit en permanence.
 navigation-sign-up = Créer un compte
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn } : Rapide. Simple. Privé.
+# Outdated string
 navigation-connected-and-protected = Connecté et protégé
 navigation-join = Rejoindre
 navigation-close-join-menu = Fermer le menu Rejoindre
@@ -76,11 +84,14 @@ navigation-meet-the-technology-company = Découvrez l’entreprise tech qui plac
 navigation-new-features = Nouvelles fonctionnalités
 navigation-save-content-absorb-knowledge = Enregistrez des contenus. Augmentez vos connaissances.
 navigation-same-speed-and-safety = La vitesse et la sécurité que vous attendez, conçues particulièrement pour les entreprises.
+# Outdated string
 navigation-add-ons = Modules complémentaires
 navigation-projects = Projets
 navigation-close-projects-menu = Fermer le menu Projets
 navigation-donate-your-voice-to = Donnez de votre voix pour que la reconnaissance vocale soit ouverte à tous.
+# Outdated string
 navigation-web-of-things-iot = Internet des objets (IoT)
+# Outdated string
 navigation-make-devices-connected = Rendez les appareils connectés à Internet plus sûrs, sécurisés et interopérables.
 navigation-developers = Développeurs
 navigation-close-developers-menu = Fermer le menu Développeurs
