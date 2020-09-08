@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = Emboguejy { -brand-name-firefox-bro
 welcome-page4-wallet-keys-phone-firefox = Viruryru. Mbotyha. Pumbyry. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen = Ereko tekoñemi peteĩteĩva mba’erechahápe
 welcome-page4-take-privacy-with-you-on-every = Egueraha ne ñemigua ñendive peteĩteĩva ne mba’e’okápe — ha eheja mba’ekuaarã rapykuehoha.
+welcome-page4-on-the-move-at-home = Esẽ jave térã nde rógape — eguereko tekoñemi eikotevẽva.
 welcome-page4-get-the-firefox-app = Eguereko { -brand-name-firefox } rembipuru’i
 welcome-page4-get-firefox-on-your-phone = Eguereko { -brand-name-firefox } ne pumbyrýpe
 welcome-page4-send-the-download-link-right = Emondo juajuha ñemboguejy rehegua ne pumbyry térã ñanduti vevépe.
@@ -23,6 +24,7 @@ welcome-page4-enhanced-tracking-protection = Tapykuehoha ñemo’ã tuichavéva 
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Ani eheja tapykuere
 welcome-page4-automatically-clear-your-history = Embogue ne rembiasakue ha kookie ijehegui kundaha ñemigua rekópe.
+welcome-page4-go-faster-do-more = Eho pya’eve. Ejapove.
 welcome-page4-take-it-all-with-you = Eguerahapa nendive
 welcome-page4-dont-walk-out-the-door-without = Aníke esẽ nde rechaukaha, tendayke, haipy ha ñe’ẽñemi’ỹre.
 welcome-page4-why-am-i-seeing-this = ¿Mba’ére ahecha kóva?
