@@ -5,23 +5,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } für { -brand-name-firefox } | Verbirgt vor { -brand-name-facebook }, welche Websites Sie besuchen.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } für { -brand-name-firefox } | Mach es { -brand-name-facebook } schwerer, dir durchs Web zu folgen.
 facebook-container-millions-of-people-around = Millionen von Menschen auf der ganzen Welt vertrauen dem { -brand-name-firefox }-Internet-Browser auf { -brand-name-android }, { -brand-name-ios } und Desktop-Computern. Schnell. Privat. Jetzt herunterladen!
-facebook-container-facebook-well-contained-keep = Pack { -brand-name-facebook } in den Container. Für mehr Privatleben außerhalb des sozialen Netzwerks.
-facebook-container-get-the-facebook-container = Jetzt { -brand-name-facebook-container } Erweiterung downloaden
-facebook-container-download-firefox-and-get-the = Laden Sie { -brand-name-firefox } herunter und holen Sie sich die Erweiterung { -brand-name-facebook-container }
-facebook-container-only-available-for-desktop = Die Erweiterung { -brand-name-facebook-container } ist aktuell nur für { -brand-name-firefox } für Desktop verfügbar.
+facebook-container-facebook-well-contained-keep = Pack { -brand-name-facebook } in den Container und schütze deine Privatsphäre.
+facebook-container-get-the-facebook-container = { -brand-name-facebook-container } hinzufügen
+facebook-container-download-firefox-and-get-the = Lade dir { -brand-name-firefox } herunter und füge die { -brand-name-facebook-container } Erweiterung hinzu
+facebook-container-only-available-for-desktop = Die { -brand-name-facebook-container } Erweiterung ist aktuell nur für { -brand-name-firefox } für Desktop verfügbar.
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Besuchen Sie <a href="{ $url }">{ $link_copy }</a>, um { -brand-name-firefox } für Desktop herunterzuladen.
+facebook-container-visit-to-get-for-desktop = Gehe zu <a href="{ $url }">{ $link_copy }</a>, um { -brand-name-firefox } für Desktop herunterzuladen.
 # Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ist für Mobilgeräte nicht verfügbar.
-facebook-container-get-firefox-android-ios = Laden Sie jetzt { -brand-name-firefox } für { -brand-name-android } und { -brand-name-ios } herunter.
+facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ist nicht für Mobilgeräte verfügbar.
+facebook-container-get-firefox-android-ios = Lade dir jetzt { -brand-name-firefox } für { -brand-name-android } und { -brand-name-ios } herunter.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Wie wärs mit <strong>{ -brand-name-firefox-focus }</strong>? Dein Browser mit Privatsphäre-Schutz. Für { -brand-name-android } und { -brand-name-ios }.
-facebook-container-opt-out-on-your-terms = Schön befreiend
+facebook-container-opt-out-on-your-terms = Mehr Kontrolle
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-facebook-can-track-almost = { -brand-name-facebook } kann sämtliche Deiner Web-Aktivitäten verfolgen und mit Deiner { -brand-name-facebook }-Identität verknüpfen. Falls Dir das nicht gefällt, dann setze auf die <a href="{ $fbcontainer }">{ -brand-name-facebook-container } Erweiterung</a>. Damit Deine Identität in einem separaten Container-Tab isoliert wird. Und { -brand-name-facebook } es so schwerer hat, Dich außerhalb von { -brand-name-facebook } zu tracken.
