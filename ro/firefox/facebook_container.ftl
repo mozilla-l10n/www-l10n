@@ -6,11 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } pentru { -brand-name-firefox } | Împiedică { -brand-name-facebook } să vadă site-urile pe care le vizitezi.
-facebook-container-millions-of-people-around = Milioane de oameni din lumea întreagă au încredere în browserele { -brand-name-firefox } pentru { -brand-name-android }, { -brand-name-ios } și calculator. Rapid. Privat. Descarcă acum!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } la cutie. Păstrează restul vieții tale private.
 facebook-container-get-the-facebook-container = Instalează extensia { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Descarcă { -brand-name-firefox } și instalează extensia { -brand-name-facebook-container }
+# Outdated string
 facebook-container-the-facebook-container-extension = Extensia { -brand-name-facebook-container } nu este disponibilă pentru dispozitive mobile.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Încearcă <strong>{ -brand-name-firefox-focus }</strong>, browserul dedicat intimității, pentru { -brand-name-android } și { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Alege în cunoștință de cauză

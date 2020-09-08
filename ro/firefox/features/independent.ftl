@@ -13,7 +13,6 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebel cu o 
 features-independent-firefox-is-independent = { -brand-name-firefox } este independent și face parte din organizația nonprofit { -brand-name-mozilla }, care luptă pentru drepturile tale online, păstrează puterile corporatiste sub control și face internetul accesibil oricui, oriunde.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Nicio obligație
-features-independent-firefox-is-built-by-v2 = { -brand-name-firefox }este realizat de o organizație nonprofit. Înseamnă că putem face lucruri pe care alții nu le pot face, cum ar fi crearea de produse și funcționalități noi fără o agendă ascunsă. Apărăm dreptul la confidențialitate cu instrumente precum navigarea privată cu protecție împotriva urmăririi.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } este realizat de o organizație nonprofit. Înseamnă că putem face lucruri pe care alții nu le pot face, cum ar fi construirea produse și funcționalități noi fără o agendă ascunsă. Apărăm dreptul la confidențialitate cu instrumente precum navigarea privată cu protecție împotriva urmăririi, care merg mult mai departe decât { -brand-name-google } { -brand-name-chrome } și { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Cu toate la vedere, tu decizi

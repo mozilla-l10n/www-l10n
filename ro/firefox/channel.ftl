@@ -5,16 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
-firefox-channel-desktop = Calculator
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Navighează orizonturi neîmblânzite.
-firefox-channel-be-among-the-first-to-explore = Fii printre primii care explorează versiunile viitoare de { -brand-name-firefox } pentru calculator, { -brand-name-android } și { -brand-name-ios }.
 firefox-channel-see-something-that-isnt-working = Ceva nu funcționează? Anunță-ne.
 firefox-channel-file-a-bug-now = Raportează un defect acum
 firefox-channel-tips-for-filing-a-bug = Indicii pentru raportarea unei erori
 firefox-channel-try-new-features-in-a-pre = Încearcă funcționalități noi într-o versiune preliminară a browserului pentru { -brand-name-android } | { -brand-name-firefox }
-firefox-channel-download-and-test-future = Descarcă și testează versiunile viitoare de { -brand-name-firefox } pentru calculator, { -brand-name-android } și { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Experimentează funcționalitățile de ultimă oră într-o versiune preliminară a browserului pentru { -brand-name-android }: { -brand-name-firefox-beta } și { -brand-name-firefox-nightly }. Instalează acum!
 firefox-channel-experience-cutting-edge-android = Experimentează funcționalitățile de ultimă oră într-o versiune preliminară a browserului pentru { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } și { -brand-name-firefox-nightly }. Instalează acum!
 firefox-channel-download-and-test-the-latest-android = Descarcă și testează ultimele funcționalități din { -brand-name-firefox } pentru { -brand-name-android } cu versiunile { -brand-name-aurora }, { -brand-name-beta } și { -brand-name-nightly }.
@@ -36,11 +33,8 @@ firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } este o 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } trimite automat feedback la { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Încearcă funcționalități noi în versiunile preliminare ale browserului | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Experimentează funcționalitățile de ultimă oră într-o versiune preliminară a browserului: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } și { -brand-name-firefox-nightly }. Descarcă acum!
-firefox-channel-download-and-test-the-latest-desktop = Descarcă și testează cele mai noi funcționalități din { -brand-name-firefox } pentru calculator cu edițiile { -brand-name-developer-edition }, { -brand-name-beta } și { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testează în versiunea preliminară funcționalități pregătite pentru lansare.
-firefox-channel-release-notes = Note de lansare
-firefox-channel-previous-nightly-builds = Versiuni { -brand-name-nightly } anterioare
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Construiește, testează, scalează și multe altele cu singurul browser construit special pentru dezvoltatori.
 # Variables:
