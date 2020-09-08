@@ -10,6 +10,11 @@ facebook-container-millions-of-people-around = Milioni di persone nel mondo si a
 facebook-container-facebook-well-contained-keep = Mantieni la tua privacy, traccia i limiti di { -brand-name-facebook }.
 facebook-container-get-the-facebook-container = Scarica l’estensione { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Scarica { -brand-name-firefox } e installa l’estensione { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = L’estensione { -brand-name-facebook-container } è attualmente disponibile solo per { -brand-name-firefox } per desktop.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Visita <a href="{ $url }">{ $link_copy }</a> per scaricare { -brand-name-firefox } per desktop.
 # Outdated string
 facebook-container-the-facebook-container-extension = L’estensione { -brand-name-facebook-container } non è disponibile per dispositivi mobili.
 facebook-container-get-firefox-android-ios = Scarica ora { -brand-name-firefox } per { -brand-name-android } e { -brand-name-ios }.
