@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Protégez votre vie privée et naviguez plus rapidement grâce aux fonctionnalités de { -brand-name-firefox }
 features-index-see-all = Voir toutes les extensions
 features-index-open-source-minds = Logiciel libre. Esprits libres.
 features-index-see-what-makes-us-different = Voyez en quoi nous sommes différents

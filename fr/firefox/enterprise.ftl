@@ -7,6 +7,12 @@
 
 firefox-enterprise-overview = Vue d’ensemble
 firefox-enterprise-downloads = Téléchargements
+firefox-enterprise-your-data-stays-your-business = Vos données restent votre affaire
+firefox-enterprise-choose-your-release-cadence = Choisissez votre cadence de sortie
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-select-your-download = Sélectionnez votre téléchargement
 firefox-enterprise-support = Assistance
+firefox-enterprise-msi-installers = Installeurs MSI
+firefox-enterprise-deployment-guide = Guide de déploiement
 firefox-enterprise-release-notes = Notes de version
+firefox-enterprise-pkg-installer = Installeurs PKG
