@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = Discarga le { -brand-name-firefox-b
 welcome-page4-wallet-keys-phone-firefox = Bursa. Claves. Telephono. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen = Discoperi le confidentialitate in tote tu schermos
 welcome-page4-take-privacy-with-you-on-every = Porta le vita private con te sur omne apparato. Lassa retro le spias que tracia tu datos.
+welcome-page4-on-the-move-at-home = A casa o in movimento, con le confidentialitate que tu merita.
 welcome-page4-get-the-firefox-app = Obtene { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Installa { -brand-name-firefox } sur tu telephono
 welcome-page4-send-the-download-link-right = Invia le ligamine de discargamento directemente a tu telephono o adresse de e-mail.
@@ -23,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = Le protection antitraciamento reinf
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Non lassa tracia
 welcome-page4-automatically-clear-your-history = Rade automaticamente tu chronologia e cookies con le modo de navigation private.
+welcome-page4-go-faster-do-more = Vade plus veloce. Face plus.
 welcome-page4-take-it-all-with-you = Porta toto con te
+welcome-page4-more-done-fast-smart = Plus actos complite in tu die per le cargamento fulminee e suggestiones de recerca intelligente.
 welcome-page4-dont-walk-out-the-door-without = Non sorti sin tu marcapaginas, schedas, notas e contrasignos.
 welcome-page4-why-am-i-seeing-this = Proque vide io isto?
