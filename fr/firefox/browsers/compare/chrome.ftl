@@ -9,3 +9,5 @@
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome } : quel est le meilleur ?
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = Nous comparons { -brand-name-mozilla } { -brand-name-firefox } et { -brand-name-google } { -brand-name-chrome } du point de vue de la confidentialité, l’usage et la portabilité.
+# Main title.
+compare-chrome-comparing-firefox-browser = Comparaison entre le { -brand-name-firefox-browser } et { -brand-name-google } { -brand-name-chrome }
