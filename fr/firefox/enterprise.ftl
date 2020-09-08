@@ -8,6 +8,7 @@
 firefox-enterprise-overview = Vue d’ensemble
 firefox-enterprise-downloads = Téléchargements
 firefox-enterprise-your-data-stays-your-business = Vos données restent votre affaire
+firefox-enterprise-deploy-when-and-how-you-want = Déployez quand vous le souhaitez et de la manière dont vous voulez
 firefox-enterprise-choose-your-release-cadence = Choisissez votre cadence de sortie
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Sélectionnez votre téléchargement
