@@ -6,12 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/all/
 
 firefox-all-check-the-system-requirements = Verifică cerințele de sistem
-firefox-all-release-notes = Note de lansare
 firefox-all-source-code = Cod sursă
 firefox-all-need-help = Ai nevoie de ajutor?
 firefox-all-which-browser-would = Ce browser dorești să descarci?
-# Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = Cere ajutor
 firefox-all-you-are-about-to-download = Ești pe cale să descarci:
 firefox-all-browser = Browser:
 firefox-all-platform = Platformă:
