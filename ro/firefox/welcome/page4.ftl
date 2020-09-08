@@ -9,7 +9,6 @@
 welcome-page4-download-the-firefox-browser = Descarcă { -brand-name-firefox-browser } pe mobil pentru { -brand-name-ios } și { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Portofel. Chei. Telefon. <Strong>{ -brand-name-firefox }.</ Strong>
 welcome-page4-take-privacy-with-you-on-every = Iei cu tine confidențialitatea pe fiecare dispozitiv și lași elementele de urmărire în urmă.
-welcome-page4-get-the-firefox-app = Descarcă aplicația { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Descarcă { -brand-name-firefox } pe telefon
 welcome-page4-send-the-download-link-right = Trimite linkul de descărcare direct pe telefon sau e-mail.
 welcome-page4-download-firefox-for-your = Descarcă { -brand-name-firefox } pentru telefon și tabletă.
