@@ -42,9 +42,15 @@ firefox-accounts-youll-always-get-the = Sempre obterá a verdade de nós. Todo o
 firefox-accounts-take-less-keep-it = Tome menos.<br> Mantéñao a salvo.<br> Sen segredos.
 firefox-accounts-get-the-knowledge = Obteña o coñecemento para manterse seguro.
 firefox-accounts-learn-everything-you = Aprenda todo o que precise saber (pero aínda non) sobre como estar alerta e seguro na rede, dalgúns dos principais expertos do mundo.
+firefox-accounts-and-be-part-of-protecting = E sexa parte da protección de internet para as xeracións futuras.
+firefox-accounts-help-us-build-a-better = Axúdenos a construír un { -brand-name-firefox } mellor para todos.
+firefox-accounts-get-into-the-open = Entre no espírito do código aberto probando produtos futuros.
+# "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
+firefox-accounts-help-us-keep-big-tech = Axúdenos a manter as «Big Tech» controladas.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
+firefox-accounts-we-support-communities = Apoiamos as comunidades de todo o mundo que están a favor dunha internet máis sa. Engada a súa voz á loita.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
