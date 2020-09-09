@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Llwythwch y porwr { -brand-name-firefox-browser } ar eich Dyfais Symudol { -brand-name-ios } ac { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Waled. Allweddi. Ffôn. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Cael preifatrwydd ar bob sgrin
+welcome-page4-privacy-every-screen = Preifatrwydd ar bob sgrin
 welcome-page4-take-privacy-with-you-on-every = Ewch â phreifatrwydd gyda chi ar bob dyfais - a gadewch y tracwyr data ar ôl.
 welcome-page4-on-the-move-at-home = Ar daith neu adre - mynnwch y preifatrwydd rydych chi'n ei haeddu.
 welcome-page4-get-the-firefox-app = Mynnwch yr Ap { -brand-name-firefox }
