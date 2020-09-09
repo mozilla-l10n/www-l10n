@@ -93,6 +93,8 @@ firefox-desktop-download-challenging-the-status = Ndokyhyjéi status quo-gui 199
 firefox-desktop-download-your-privacy-comes = Ne ñemigua oĩ tenonderã
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Erekopa kundahára rembiapoite erohoryvéva <strong>ehecha ambuéva</strong> ipyahúva.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Opaite ne rembipuru { -brand-name-google } ohayhuvéva (Gmail ha Docs umíva) omba’apo porã { -brand-name-firefox-browser } ndive.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Embojuehe ne mba’e’okakuéra
 firefox-desktop-download-screenshots = Mba’erechaha jejapyhy
