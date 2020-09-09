@@ -25,8 +25,11 @@ features-bookmarks-customize-that-bookmark = Eñemomba’e pe techaukaháre
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Ema’ẽte pe techaukaha rehe
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Ejapomeme ne rembiapo opavave <a href="{ $url }">tembipuru’i</a> eñangareko hag̃ua techaukaha nde reipotáva, tenda japyhy tuichakue guive, ehasávo tenda yke emoambue pya’e hag̃ua techaukaha ñemigua peve.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Ejapomeme ne rembiapo opavave <a href="{ $url }">tembipuru’i</a> eñagareko hag̃ua techaukaha nde reipotáva, tenda japyhy tuichakue guive, ehasávo tenda yke emoambue pya’e hag̃ua techaukaha ñemigua peve.
+features-bookmarks-practice-your-exactitude = Ejapomeme ne rembiapo opavave <a href="{ $url }">tembipuru’i</a> eñangareko hag̃ua techaukaha nde reipotáva, tenda japyhy tuichakue guive, ehasávo tenda yke emoambue pya’e hag̃ua techaukaha ñemigua peve.
