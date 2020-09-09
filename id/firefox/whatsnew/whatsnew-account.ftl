@@ -17,3 +17,5 @@ whatsnew-account-main-button = Masuk
 whatsnew-account-signed-in-headline = Selesaikan lebih banyak. Gunakan { -brand-name-firefox } untuk ponsel.
 whatsnew-account-signed-in-lead-in = Kirim tautan unduhan ke ponsel Anda.
 whatsnew-account-signed-in-qr-title = Unduh { -brand-name-firefox } untuk ponsel pintar dan tablet Anda.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Pindai kode QR ini
