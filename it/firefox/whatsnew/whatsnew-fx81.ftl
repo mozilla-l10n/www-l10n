@@ -17,3 +17,4 @@ whatsnew81-scan-this-qr-code = Scansiona questo codice QR per scaricare
 whatsnew81-the-new-firefox-for-android = Il NUOVO { -brand-name-firefox } per { -brand-name-android } è qui
 whatsnew81-our-latest-for-android-has = L’ultima versione di { -brand-name-android } ha un sacco di funzioni divertenti e intelligenti, come una barra di ricerca mobile. Perché siamo un browser indipendente e abbiamo a cuore i tuoi pollici.
 whatsnew81-make-firefox-your-everyday = Rendi { -brand-name-firefox } il tuo browser quotidiano su { -brand-name-ios }
+whatsnew81-attention-iphone-people = Avviso per il popolo { -brand-name-iphone }: in { -brand-name-ios } 14 è finalmente possibile impostare { -brand-name-firefox } come browser predefinito, per sempre, sempre pronto all’uso. Assicurati di avere la versione { -brand-name-firefox } per { -brand-name-ios } più recente.
