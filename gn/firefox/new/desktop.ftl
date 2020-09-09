@@ -96,6 +96,9 @@ firefox-desktop-download-keep-all-your = Erekopa kundahára rembiapoite erohoryv
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Opaite ne rembipuru { -brand-name-google } ohayhuvéva (Gmail ha Docs umíva) omba’apo porã { -brand-name-firefox-browser } ndive.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Emboguejy ko kundahára jepysokue</a> ani hag̃ua { -brand-name-facebook } (ha { -brand-name-instagram }) nde rapykueho ñandutípe.
 firefox-desktop-download-sync-your-devices = Embojuehe ne mba’e’okakuéra
 firefox-desktop-download-screenshots = Mba’erechaha jejapyhy
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
