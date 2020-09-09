@@ -109,6 +109,12 @@ firefox-desktop-download-get-firefox-ios = Ereko { -brand-name-firefox-browser }
 firefox-desktop-download-download-the-mobile = Emboguejy kundahára oku’éva { -brand-name-firefox } ñemo’ã ijeheguíva opaite mba’e’okápe g̃uarã.
 firefox-desktop-download-learn-about-the = Eikuave { -brand-name-firefox } kundahára mesa arigua rehegua
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Egueru ta’ãnga iporãva oimeraẽva ñandutígui ore rembipuru <a { $attrs }>mba’erechaha jejapyhy</a> oĩva kundahára ndive.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegui <a { $attrs }>ojoko heta tapykuehoha mbohapyháva</a> ani hag̃ua ombyaty ha ohepyme’ẽ ne rembiapo ñandutípe.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
