@@ -10,7 +10,10 @@ facebook-container-millions-of-people-around = Hetaiterei tapicha arapy tuichaku
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Ñema’ẽme. Eguereko tapiaite nde reko ñemigua.
 facebook-container-get-the-facebook-container = Eguereko "{ -brand-name-facebook-container }" jepysokue
 facebook-container-download-firefox-and-get-the = Emboguejy { -brand-name-firefox } eguereko hag̃ua "{ -brand-name-facebook-container }" jepysokue
+facebook-container-only-available-for-desktop = Ko { -brand-name-facebook-container } jepysokue ikatu eipuru { -brand-name-firefox } mohendahápe añoite.
+# Outdated string
 facebook-container-the-facebook-container-extension = "{ -brand-name-facebook-container }" jepysokue ndaikatúi eipuru pumbyry oku’évape.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Eipuru <strong>{ -brand-name-firefox-focus }</strong>, kundaha ñemigua { -brand-name-android } ha { -brand-name-ios } peg̃uarã.
 facebook-container-opt-out-on-your-terms = Eñemo’ã nemba’ete guýpe
