@@ -7,7 +7,7 @@
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } for { -brand-name-firefox } | Rhwystro { -brand-name-facebook } rhag gweld pa wefannau fyddwch yn mynd iddyn nhw.
 facebook-container-millions-of-people-around = Mae miliynau o bobl o amgylch y byd yn ymddiried ym mhorwyr gwe { -brand-name-firefox } ar { -brand-name-android }, { -brand-name-ios } a chyfrifiaduron bwrdd gwaith. Cyflym. Preifat. Llwythwch nhw lawr nawr!
-facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Wedi ei gynhwyso'n dda. Cadwch gweddill eich bywyd i chi eich hun.
+facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Wedi ei gyfyngu. Cadwch gweddill eich bywyd i chi eich hun.
 facebook-container-get-the-facebook-container = Estynnwch y { -brand-name-facebook-container } Extension
 facebook-container-download-firefox-and-get-the = Llwythwch { -brand-name-firefox } i Lawr a defnyddiwch y { -brand-name-facebook-container } Extension
 facebook-container-only-available-for-desktop = Mae'r Estyniad { -brand-name-facebook-container } ar gael ar gyfer { -brand-name-firefox } y Bwrdd Gwaith yn unig ar hyn o bryd.
