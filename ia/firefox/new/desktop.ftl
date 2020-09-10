@@ -155,6 +155,7 @@ firefox-desktop-download-now-mac = Ora <strong>aperi</strong> le file justo disc
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemas? <a { $attrs }>Demanda adjuta con tu installation</a>.
 firefox-desktop-download-in-another-language = Discarga in un altere lingua o pro un altere systema operative.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Tu usa un systema operative non secur, obsolete <a href="{ $url }">non plus supportate per { -brand-name-firefox }</a>.
@@ -163,3 +164,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Tu usa un systema op
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Le discargamento deberea comenciar automaticamente. Non functiona? <a id="{ $id }" href="{ $fallback_url }">Tenta discargar lo de novo.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es plus que un navigator.
+firefox-desktop-download-interrupted = Tu discargamento se interrumpeva, ma non toto es perdite.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Per favor seque <a href="{ $url }">iste instructiones</a> pro installar { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Tu systema possibilemente non satisface le requisitos pro exequer { -brand-name-firefox }, ma tu pote probar un de <a href="{ $url }">iste versiones</a>.

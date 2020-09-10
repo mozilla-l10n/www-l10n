@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Discarga le navigator
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Tu usa un systema operative non secur, obsolete <a href="{ $url }">non plus supportate per { -brand-name-firefox }</a>.
@@ -54,3 +55,10 @@ firefox-new-its-privacy-and-peace-of = Es <strong>vita private e tranquillitate<
 firefox-new-its-a-family-of-products = Es un <strong>familia de productos</strong> que tracta tu datos personal con respecto.
 firefox-new-its-everything-you-need-to = Es tote lo que tu debe saper sur <strong>mantener te secur in linea</strong>.
 firefox-new-its-a-community-that-believes = Es <strong>un communitate</strong> que crede que le technologia pote facer melio.
+firefox-new-download-interrupted = Tu discargamento se interrumpeva, ma non toto es perdite.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Per favor seque <a href="{ $url }">iste instructiones</a> pro installar { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Tu systema possibilemente non satisface le requisitos pro exequer { -brand-name-firefox }, ma tu pote probar un de <a href="{ $url }">iste versiones</a>.
