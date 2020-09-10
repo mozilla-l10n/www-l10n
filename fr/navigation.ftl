@@ -43,6 +43,7 @@ navigation-learn-how-to-customize = Découvrez comment personnaliser le fonction
 navigation-experience-augmented = Essayez la réalité augmentée et virtuelle avec { -brand-name-firefox }.
 # Outdated string
 navigation-meet-people-in-experimental = Rencontrez des personnes dans des salons de discussion expérimentaux en réalité mixte avec { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 # Outdated string
