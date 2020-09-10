@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Hàng triệu người trên kh�
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Kiểm soát hoàn toàn. Quản lý cuộc sống của riêng bạn.
 facebook-container-get-the-facebook-container = Nhận tiện ích mở rộng { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Tải xuống { -brand-name-firefox } và tải Tiện ích mở rộng { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Tiện ích mở rộng { -brand-name-facebook-container } hiện chỉ khả dụng cho { -brand-name-firefox } dành cho máy tính để bàn.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Truy cập <a href="{ $url }">{ $link_copy }</a> để tải { -brand-name-firefox } dành cho máy tính để bàn.
+# Outdated string
 facebook-container-the-facebook-container-extension = Tiện ích mở rộng { -brand-name-facebook-container } không có sẵn trên di động.
+facebook-container-get-firefox-android-ios = Tải xuống { -brand-name-firefox } dành cho { -brand-name-android } và { -brand-name-ios } ngay bây giờ.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Hãy thử <strong>{ -brand-name-firefox-focus }</strong>, trình duyệt bảo mật dành cho { -brand-name-android } và { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Từ chối theo yêu cầu của bạn
