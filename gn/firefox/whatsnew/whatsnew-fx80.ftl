@@ -11,6 +11,7 @@ whatsnew80-up-to-date-banner = ¡Vy’apavẽ! Eipuruhína { -brand-name-firefox
 # Main title
 whatsnew80-main-title = Ejapopa nunga, pya’emieve
 whatsnew80-main-intro = Esẽ mohendahágui pumbyrýpe ogue’ỹre mba’eve. Ereko { -brand-name-firefox } pumbyry ha tablétape.
+whatsnew80-primary-cta-description = Ehai ñanduti veve térã pumbyry papapy ereko hag̃ua mboguejy juajuha
 # content buckets below hero
 whatsnew80-password-fatigue = Ñe’ẽñemi kane’õ añetete
 whatsnew80-privacy-you-never = Ñemigua araka’eve eñamindu’uva’erãha
