@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Laden Sie einfach den Browser herunter
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">bietet keine Sicherheitsaktualisierungen</a> auf { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } mehr an, Sie können { -brand-name-firefox } aber weiterhin nutzen.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Du verwendest ein unsicheres, veraltetes Betriebssystem, <a href="{ $url }">das von { -brand-name-firefox } nicht mehr unterstützt wird</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = ... <strong>Privatsphäre und Sicherheit<
 firefox-new-its-a-family-of-products = ... eine <strong>Reihe an Produkten</strong>, die deine persönlichen Daten mit Respekt behandeln.
 firefox-new-its-everything-you-need-to = … alles, was du wissen musst, um <strong>dich online zu schützen</strong>.
 firefox-new-its-a-community-that-believes = … <strong>eine Gemeinschaft</strong>, die an das Gute in der Tech-Welt glaubt.
+firefox-new-download-interrupted = Ihr Download wurde unterbrochen. Aber es ist nicht alles verloren.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Bitte folgen Sie <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Möglicherweise erfüllt Ihr System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuchen Sie es mit einer <a href="{ $url }">dieser Versionen</a>.
