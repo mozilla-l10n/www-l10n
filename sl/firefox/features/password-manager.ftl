@@ -16,6 +16,7 @@ password-manager-password-hero = Junak gesel
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Pozabite ponastavitev. { -brand-name-firefox }ov upravitelj gesel shranjuje vsa vaša gesla, da se lahko prijavljate samodejno ali enostavno najdete shranjena gesla. Za dodatno varnost svojemu računalniku nastavite <a href="{ $url }">glavno geslo</a>.
+password-manager-password-magician = Čarodej gesel
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Mojster gesel
