@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Csak a böngésző letöltése
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox }ot.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Egy nem biztonságos, elavult operációs rendszert használ, amit <a href="{ $url }">már nem támogat a { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,4 @@ firefox-new-its-privacy-and-peace-of = <strong>Adatvédelem és nyugalom</strong
 firefox-new-its-a-family-of-products = Ez egy <strong>termékcsalád</strong>, amely tiszteletben tartja a személyes adatait.
 firefox-new-its-everything-you-need-to = Minden, amit tudnia kell a <strong>online biztonságról</strong>.
 firefox-new-its-a-community-that-believes = Ez egy <strong>közösség</strong>, amely úgy véli, hogy a technológia jobbra képes.
+firefox-new-download-interrupted = A letöltése megszakadt. De nincs minden veszve.
