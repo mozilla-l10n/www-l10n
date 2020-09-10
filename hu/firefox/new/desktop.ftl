@@ -173,4 +173,4 @@ firefox-desktop-download-interrupted = A letöltése megszakadt. De nincs minden
 firefox-desktop-download-please-follow = A { -brand-name-firefox } telepítéséhez kövesse <a href="{ $url }">ezeket az utasításokat</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét:
+firefox-desktop-download-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.

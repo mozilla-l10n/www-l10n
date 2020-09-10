@@ -59,3 +59,9 @@ firefox-new-its-a-family-of-products = Ez egy <strong>termékcsalád</strong>, a
 firefox-new-its-everything-you-need-to = Minden, amit tudnia kell a <strong>online biztonságról</strong>.
 firefox-new-its-a-community-that-believes = Ez egy <strong>közösség</strong>, amely úgy véli, hogy a technológia jobbra képes.
 firefox-new-download-interrupted = A letöltése megszakadt. De nincs minden veszve.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = A { -brand-name-firefox } telepítéséhez kövesse <a href="{ $url }">ezeket az utasításokat</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.
