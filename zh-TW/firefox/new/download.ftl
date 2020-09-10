@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = 只要下載瀏覽器
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再針對 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您還是可以使用已安裝的 { -brand-name-firefox }。
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = 您正在使用的是 <a href="{ $url }">{ -brand-name-firefox } 已停止支援</a>，也不安全的過時作業系統。
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = 在行動裝置上也<strong>保護您的
 firefox-new-its-a-family-of-products = 有<strong>一系列</strong>尊重、保護您個人資料的產品。
 firefox-new-its-everything-you-need-to = <strong>保護線上安全</strong>看這裡就對了。
 firefox-new-its-a-community-that-believes = <strong>整個技術社群相信</strong>，可以用技術作好事。
+firefox-new-download-interrupted = 下載已中斷，但已下載的部分將保留。
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = 請依照<a href="{ $url }">這些步驟</a>安裝 { -brand-name-firefox }。
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。
