@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = Har problemer? <a { $attrs }>Få hjelp med i
 firefox-desktop-download-in-another-language = Last ned på et annet språk eller for et annet operativsystem.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">gir ikke lenger sikkerhetsoppdateringer</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan fortsatt bruke { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Du bruker et usikkert, foreldet operativsystem, <a href="{ $url }">som ikke lenger støttes av { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Nedlastingen din bør starte automatisk. Fungerte det ikke? <a id="{ $id }" href="{ $fallback_url }">Prøv å laste ned på nytt.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mer enn en nettleser.
+firefox-desktop-download-interrupted = Nedlastingen din ble avbrutt. Men alt er ikke tapt.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Følg <a href="{ $url }">denne veiledningen</a> for å installere { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Systemet ditt oppfyller kanskje ikke kravene for { -brand-name-firefox }, men du kan prøve en av <a href="{ $url }">disse versjonene</a>.
