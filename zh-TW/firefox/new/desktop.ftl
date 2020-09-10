@@ -155,6 +155,7 @@ firefox-desktop-download-now-mac = 接下來<strong>開啟</strong>剛下載的�
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 遇到問題嗎？<a { $attrs }>獲得安裝協助</a>。
 firefox-desktop-download-in-another-language = 下載其他語言或其他平台版本。
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用的是 <a href="{ $url }">{ -brand-name-firefox } 已停止支援</a>，也不安全的過時作業系統。
@@ -163,3 +164,4 @@ firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用的�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 將自動開始下載，若沒有的話請<a id="{ $id }" href="{ $fallback_url }">點擊此處再試一次。</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器。
+firefox-desktop-download-interrupted = 下載已中斷，但已下載的部分將保留。
