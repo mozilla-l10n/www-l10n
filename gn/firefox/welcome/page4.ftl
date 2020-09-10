@@ -26,5 +26,6 @@ welcome-page4-leave-no-trace = Ani eheja tapykuere
 welcome-page4-automatically-clear-your-history = Embogue ne rembiasakue ha kookie ijehegui kundaha ñemigua rekópe.
 welcome-page4-go-faster-do-more = Eho pya’eve. Ejapove.
 welcome-page4-take-it-all-with-you = Eguerahapa nendive
+welcome-page4-more-done-fast-smart = Ejapove ne rembiapo kuatiarogue ñemyenyhẽ ipya’evévape ha avei umi jeheka ha’evévape.
 welcome-page4-dont-walk-out-the-door-without = Aníke esẽ nde rechaukaha, tendayke, haipy ha ñe’ẽñemi’ỹre.
 welcome-page4-why-am-i-seeing-this = ¿Mba’ére ahecha kóva?
