@@ -10,7 +10,11 @@ facebook-container-millions-of-people-around = Miliony lidí po celém světě v
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Dobře zakonzervovaný. Nechte si zbytek svého života pro sebe.
 facebook-container-get-the-facebook-container = Získat doplněk { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Stáhněte si { -brand-name-firefox(case: "acc") } a získejte doplněk { -brand-name-facebook-container }.
+facebook-container-only-available-for-desktop = Doplněk { -brand-name-facebook-container } je není dostupný jen ve { -brand-name-firefox(case: "loc") } pro počítač.
+# Outdated string
 facebook-container-the-facebook-container-extension = Doplněk { -brand-name-facebook-container } není dostupný pro mobilní zařízení.
+facebook-container-get-firefox-android-ios = Stáhněte si { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") } a { -brand-name-ios(case: "acc") }.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Vyzkoušejte <strong>{ -brand-name-firefox-focus(case: "acc") }</strong>, soukromý prohlížeč pro { -brand-name-android(case: "acc") } a { -brand-name-ios(case: "acc") }.
 facebook-container-opt-out-on-your-terms = Vyjádřete svůj nesouhlas
