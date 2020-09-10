@@ -58,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = É <strong>privacidade e paz de espírito
 firefox-new-its-a-family-of-products = É uma <strong>família de produtos</strong> que trata seus dados pessoais com respeito.
 firefox-new-its-everything-you-need-to = É tudo o que você precisa saber sobre como <strong>ficar seguro online</strong>.
 firefox-new-its-a-community-that-believes = É uma <strong>comunidade</strong> que acredita que tecnologia pode fazer melhor.
+firefox-new-download-interrupted = Seu download foi interrompido, mas nem todo está perdido.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Siga <a href="{ $url }">estas instruções</a> para instalar o { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Seu sistema pode não atender aos requisitos do { -brand-name-firefox }, mas você pode tentar <a href="{ $url }">uma dessas versões</a>.
