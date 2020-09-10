@@ -15,6 +15,7 @@ whatsnew79-primary-cta = Ejapo { -brand-name-firefox } ypykuévarõ
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Ereko { -brand-name-firefox } rembipuru’i
 whatsnew79-secure-your-connection = Emohekorosã nde jeike
+whatsnew79-with-one-tap-mozilla-vpn = Peteĩ jepokópe, { -brand-name-mozilla-vpn } ombopapapy nde jeike ha ne rembiapo ñandutípe hekoñemi hag̃ua, mombyry umi mba’evaiapohágui ha ambue iñañávagui.
 # CTA link
 whatsnew79-get-started = Eñepyrũ
 whatsnew79-get-more-control-over = Ema’ẽag̃ui tapykuehoháre
@@ -24,6 +25,7 @@ whatsnew79-see-your-report = Ehecha ne Marandu’i
 whatsnew79-update-your-firefox = Embohekopyahu ne kundahára { -brand-name-firefox }
 whatsnew79-download-the-firefox = Emboguejy ne kundahára { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = Emoñe’ẽ ore marandu’i ñemigua
+whatsnew79-take-less-keep-it-safe = He’u’ive. Ereko tekorosãme. Kañymby’ỹre. Ore rembiapo ndaha’éi jehasa nde jerovia ári kañyhápe.
 # CTA link
 whatsnew79-read-more = Emoñe’ẽve
 whatsnew79-keep-facebook-contained = Ereko { -brand-name-facebook } tetepýrõ
