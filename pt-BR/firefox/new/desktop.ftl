@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = Está com problemas? <a { $attrs }>Obtenha a
 firefox-desktop-download-in-another-language = Baixe em outro idioma ou para outro sistema operacional.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">não fornece mais atualizações de segurança</a> no { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }, mas você ainda pode usar o { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Você está usando um sistema operacional desatualizado e inseguro, <a href="{ $url }">não mais suportado pelo { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Seu download deve começar automaticamente. Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente baixar novamente</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é mais que um navegador.
+firefox-desktop-download-interrupted = Seu download foi interrompido, mas nem todo está perdido.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Siga <a href="{ $url }">estas instruções</a> para instalar o { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Seu sistema pode não atender aos requisitos do { -brand-name-firefox }, mas você pode tentar <a href="{ $url }">uma dessas versões</a>.

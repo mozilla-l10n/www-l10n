@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Apenas baixar o navegador
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">não fornece mais atualizações de segurança</a> no { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }, mas você ainda pode usar o { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Você está usando um sistema operacional desatualizado e inseguro, <a href="{ $url }">não mais suportado pelo { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
