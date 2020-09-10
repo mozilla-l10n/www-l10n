@@ -39,8 +39,10 @@ navigation-your-firefox-account = Nde { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Ehecharamóke tuichaháicha nde jehasakue { -brand-name-firefox } ndive opaite mba’e’okápe.
 # Outdated string
 navigation-learn-how-to-customize = Eikuaáke mba’éichapa omba’apo { -brand-name-firefox }.
+navigation-explore-the-immersive = Ejeporeka ñandutípe nde ñanduti añetegua rechaha ndive.
 # Outdated string
 navigation-experience-augmented = Ehechakuaa pe oikóva tuichapyre ha ñandutiguáva { -brand-name-firefox } ndive.
+navigation-get-together = Eñembyaty ñanduti añetegua rupi ko pa’ũ atygua ñandutigua ndive.
 # Outdated string
 navigation-meet-people-in-experimental = Eikuaa tapicha ñomongetaha ojepururamóva { -brand-name-firefox } añetegya ikõiva ndive.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
