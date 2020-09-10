@@ -9,10 +9,12 @@
 whatsnew81-page-title = Les nouveautés dans { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Un nouveau { -brand-name-firefox } pour chaque appareil
+whatsnew81-main-intro = Quel que soit votre système d’exploitation, il existe un navigateur mobile soutenu par une organisation sans but lucratif et plus performant que jamais à y installer.
 whatsnew81-send-form-label = Saisissez votre adresse de courrier électronique pour recevoir un lien de téléchargement
 whatsnew81-send-form-label-alt = Saisissez votre adresse électronique ou votre numéro de téléphone pour recevoir un lien de téléchargement
 whatsnew81-scan-this-qr-code = Scannez ce code QR pour lancer le téléchargement
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Voici le NOUVEAU { -brand-name-firefox } pour { -brand-name-android }
+whatsnew81-our-latest-for-android-has = Notre dernière version pour { -brand-name-android } offre de nombreuses fonctionnalités intelligentes et amusantes, par exemple une barre de recherche déplaçable. Parce que nous sommes un navigateur indépendant et que nous prenons soin de vos pouces.
 whatsnew81-make-firefox-your-everyday = Faites de { -brand-name-firefox } votre navigateur de tous les jours sur { -brand-name-ios }
 whatsnew81-attention-iphone-people = À l’attention des utilisateurs d’{ -brand-name-iphone } : avec { -brand-name-ios } 14, vous pouvez enfin définir { -brand-name-firefox } comme navigateur par défaut. Assurez-vous d’avoir la dernière version de { -brand-name-firefox } pour { -brand-name-ios } !
