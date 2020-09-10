@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Brskalnik Firefox: hiter, enostaven upravitelj gesel
+password-manager-firefox-browser = { -brand-name-firefox-browser }: hiter, enostaven upravitelj gesel
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox }ov upravitelj gesel shranjuje vsa gesla na enem mestu, da se lahko samodejno prijavljate na straneh ali pridobite shranjena gesla.
 # Hero title

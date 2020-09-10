@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Prenesite in preskusite n
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Preskusite funkcije pred izdajo v najstabilnejši predizdajni različici.
 firefox-channel-release-notes = Opombe k izdaji
+firefox-channel-previous-nightly-builds = Prejšnje graditve { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Ustvarjajte, testirajte, pregledujte in več z edinim brskalnikom, ustvarjenim posebej za razvijalce.
 # Variables:

@@ -12,3 +12,6 @@ whatsnew81-main-title = Novi { -brand-name-firefox } za vsako napravo
 whatsnew81-main-intro = Ne glede na to, kateri operacijski sistem uporabljate, je zanj na voljo neprofiten mobilni brskalnik, boljši kot kdajkoli prej.
 whatsnew81-send-form-label = Vnesite e-poštni naslov za prejem povezave za prenos
 whatsnew81-send-form-label-alt = Vnesite e-poštni naslov ali telefonsko številko za prejem povezave za prenos
+whatsnew81-scan-this-qr-code = Skenirajte to kodo QR za prenos
+# content blocks below hero
+whatsnew81-the-new-firefox-for-android = NOVI { -brand-name-firefox } za { -brand-name-android } je tu

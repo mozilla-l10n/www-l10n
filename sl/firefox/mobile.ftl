@@ -28,6 +28,7 @@ firefox-mobile-discover-products-that-keep = Odkrijte izdelke, ki vas varujejo
 firefox-mobile-sync-your-history-passwords = Sinhronizirajte zgodovino, gesla in zaznamke. Pošljite zavihke na vse svoje naprave.
 firefox-mobile-android-only = Samo za { -brand-name-android }
 firefox-mobile-make-android-your-own = Prisvojite si { -brand-name-android }
+firefox-mobile-customize-your-firefox-mobile-truncated = Prilagodite svoj mobilni brskalnik { -brand-name-firefox } z razširitvami.
 firefox-mobile-find-it-fast-with-a-smart = Poiščite hitro s pametno iskalno vrstico
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } izpolnjuje vaša pričakovanja s predlogi pametnega iskanja in hitrim dostopom do najpogosteje obiskanih spletnih mest.
 firefox-mobile-the-privacy-you-deserve-the = Zasebnost, ki si jo zaslužite. Hitrost, ki jo potrebujete.
