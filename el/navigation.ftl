@@ -12,8 +12,10 @@ navigation-download-for-android = Λήψη για { -brand-name-android }
 navigation-ios-support = Υποστήριξη { -brand-name-ios }
 navigation-android-support = Υποστήριξη { -brand-name-android }
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } για επιχειρήσεις
+navigation-strap-on-your-goggles = Βάλτε τα γυαλιά σας και "βυθιστείτε" στο διαδίκτυο με το { -brand-name-firefox-browser } για VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } για { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Παρακολουθήστε βίντεο και περιηγηθείτε στο διαδίκτυο από την { -brand-name-amazon } { -brand-name-fire-tv } σας.
+navigation-firefox-browsers-put = Τα προϊόντα { -brand-name-firefox } δίνουν προτεραιότητα στο απόρρητό σας — όπως πάντα.
 # Outdated string
 navigation-firefox-is-a-whole-family = Το { -brand-name-firefox } είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σας προστατεύουν στο διαδίκτυο.
 navigation-join-firefox = Σύνδεση στο { -brand-name-firefox }
@@ -33,6 +35,7 @@ navigation-your-firefox-account = Ο { -brand-name-firefox-account } σας
 navigation-make-the-most-of-your = Αξιοποιήστε πλήρως το { -brand-name-firefox }, σε κάθε συσκευή σας.
 # Outdated string
 navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσετε τον τρόπο λειτουργίας του { -brand-name-firefox }.
+navigation-explore-the-immersive = Εξερευνήστε το εμβυθιστικό διαδίκτυο στη δική σας συσκευή εικονικής πραγματικότητας.
 # Outdated string
 navigation-experience-augmented = Ζήστε την επαυξημένη και εικονική πραγματικότητα με το { -brand-name-firefox }.
 # Outdated string
@@ -40,6 +43,7 @@ navigation-meet-people-in-experimental = Γνωρίστε άτομα σε πει
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = Η { -brand-name-mozilla } φέρνει την εικονική και την επαυξημένη πραγματικότητα στο ανοικτό διαδίκτυο.
 # Outdated string
 navigation-mozilla-brings-firefox = Η { -brand-name-mozilla } φέρνει το { -brand-name-firefox } στην επαυξημένη και την εικονική πραγματικότητα.
 navigation-firefox-built-just-for = Το { -brand-name-firefox }, μόνο για προγραμματιστές.
@@ -55,6 +59,7 @@ navigation-download = Λήψη
 navigation-extensions = Επεκτάσεις
 navigation-support = Υποστήριξη
 navigation-privacy = Απόρρητο
+navigation-get-unmatched-data-protection = Λάβετε ασύγκριτη προστασία δεδομένων με το ρυθμό εκδόσεων που ταιριάζει στην εταιρεία σας.
 navigation-made-with-respect = Φτιαγμένο με σεβασμό
 navigation-close-products-menu = Κλείσιμο μενού προϊόντων
 navigation-check-for-breaches = Έλεγχος για παραβιάσεις

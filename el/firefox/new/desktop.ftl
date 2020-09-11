@@ -85,4 +85,19 @@ firefox-desktop-download-almost-there = Σχεδόν τελειώσατε!
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Έχετε προβλήματα; <a { $attrs }>Λάβετε βοήθεια με την εγκατάστασή σας</a>.
 firefox-desktop-download-in-another-language = Λήψη σε άλλη γλώσσα ή για άλλο λειτουργικό σύστημα.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Χρησιμοποιείτε ένα επισφαλές, παρωχημένο λειτουργικό σύστημα, <a href="{ $url }">που δεν υποστηρίζεται πλέον από το { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Η λήψη θα ξεκινήσει αυτόματα. Δεν άρχισε; <a id="{ $id }" href="{ $fallback_url }">Νέα δοκιμή λήψης.</a>
 firefox-new-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είναι κάτι περισσότερο από ένα πρόγραμμα περιήγησης.
+firefox-desktop-download-interrupted = Η λήψη σας διακόπηκε. Αλλά δεν έχουν χαθεί όλα.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Παρακαλώ ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για εγκατάσταση του { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Το σύστημά σας ενδέχεται να μην πληροί τις απαιτήσεις του { -brand-name-firefox }, αλλά μπορείτε να δοκιμάσετε κάποια από <a href="{ $url }">αυτές τις εκδόσεις</a>.

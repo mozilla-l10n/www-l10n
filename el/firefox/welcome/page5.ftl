@@ -7,6 +7,8 @@
 
 welcome-page5-theres-an-easier-way-to-deal = Υπάρχει πιο εύκολος τρόπος διαχείρισης κωδικών πρόσβασης
 welcome-page5-get-the-lockwise-app = Αποκτήστε την εφαρμογή { -brand-name-lockwise }
+welcome-page5-get-firefox-lockwise-on-your = Λήψη του { -brand-name-firefox-lockwise } στο τηλέφωνό σας
+welcome-page5-download-firefox-lockwise = Λήψη του { -brand-name-firefox-lockwise } για το smartphone και το tablet σας.
 welcome-page5-scan-this-qr-code = Σαρώστε αυτό τον κωδικό QR
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
 welcome-page5-sync-up-safely = Συγχρονισμός με ασφάλεια

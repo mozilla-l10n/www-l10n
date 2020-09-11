@@ -8,6 +8,8 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Ευχαριστούμε που επιλέξατε το { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = Επιτυχία! Το προεπιλεγμένο πρόγραμμα περιήγησής σας έχει οριστεί σε { -brand-name-firefox }.
+set-as-default-thanks-youre-all-set = Όλα έτοιμα.
+set-as-default-thanks-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητά
 set-as-default-thanks-travel-the-internet-with = Ταξιδέψτε στο διαδίκτυο με προστασία, σε κάθε συσκευή σας.
 set-as-default-thanks-download-the-app = Λήψη εφαρμογής
 set-as-default-thanks-join-firefox = Σύνδεση στο { -brand-name-firefox }
