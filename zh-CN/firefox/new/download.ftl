@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = 只需下载浏览器
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再为 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您还是可以使用已安装的 { -brand-name-firefox }。
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -55,6 +58,7 @@ firefox-new-its-privacy-and-peace-of = 在移动设备上也<strong>保护您的
 firefox-new-its-a-family-of-products = 有<strong>一系列</strong>尊重、保护您个人数据的产品。
 firefox-new-its-everything-you-need-to = 要<strong>保持在线安全</strong>看这里就对了。
 firefox-new-its-a-community-that-believes = <strong>整个社区坚信</strong>，技术一贯向善。
+firefox-new-download-interrupted = 下载已中断，但已下载部分将保留。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = 请按照<a href="{ $url }">这些步骤</a>安装 { -brand-name-firefox }。

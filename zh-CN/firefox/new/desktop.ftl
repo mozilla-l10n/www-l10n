@@ -167,6 +167,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用一�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 您的下载即将自动开始。并没有开始？<a id="{ $id }" href="{ $fallback_url }">重试下载</a>。
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是浏览器。
+firefox-desktop-download-interrupted = 下载已中断，但已下载部分将保留。
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = 请按照<a href="{ $url }">这些步骤</a>安装 { -brand-name-firefox }。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 您的系统可能不符合 { -brand-name-firefox } 的运行需求，但您也可以试试<a href="{ $url }">这些版本</a>。
