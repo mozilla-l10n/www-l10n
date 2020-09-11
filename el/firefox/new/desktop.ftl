@@ -39,6 +39,7 @@ firefox-desktop-download-search-from-address = Αναζήτηση από τη γ
 firefox-desktop-download-search-engine-options = Επιλογές μηχανών αναζήτησης
 firefox-desktop-download-smart-search-suggestions = Έξυπνες προτάσεις αναζήτησης
 firefox-desktop-download-bookmark-history = Σελιδοδείκτες, ιστορικό και ανοικτές καρτέλες στα αποτελέσματα
+firefox-desktop-download-boost-your = Ενίσχυση παραγωγικότητας
 firefox-desktop-download-works-with-google = Λειτουργεί με τα προϊόντα { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων
 firefox-desktop-download-bookmarks-manager = Διαχείριση σελιδοδεικτών
@@ -47,12 +48,17 @@ firefox-desktop-download-sync-across-devices = Συγχρονισμός ανάμ
 firefox-desktop-download-reader-mode = Λειτουργία ανάγνωσης
 firefox-desktop-download-spell-check = Ορθογραφικός έλεγχος
 firefox-desktop-download-pinned-tabs = Καρφιτσωμένες καρτέλες
+firefox-desktop-download-stream-share-play = Κοινή χρήση και αναπαραγωγή
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Φραγή αυτόματης αναπαραγωγής βίντεο & ήχου
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Εικόνα εντός εικόνας
+firefox-desktop-download-curated-content-on = Επιλεγμένο περιεχόμενο νέας καρτέλας
 firefox-desktop-download-share-links = Κοινή χρήση συνδέσμων
 firefox-desktop-download-protect-your-privacy = Προστασία απορρήτου
+firefox-desktop-download-third-party-cookie = Φραγή cookies τρίτων
+firefox-desktop-download-fingerprinter-blocking = Φραγή fingerprinters
+firefox-desktop-download-cryptominer-blocking = Φραγή cryptominers
 firefox-desktop-download-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
 firefox-desktop-download-built-in-password = Ενσωματωμένη διαχείριση κωδικών πρόσβασης
 firefox-desktop-download-clear-history = Εκκαθάριση ιστορικού
@@ -68,23 +74,33 @@ firefox-desktop-download-make-firefox-your = Κάντε το <strong>{ -brand-na
 firefox-desktop-download-extensions-for-every = Επεκτάσεις για κάθε ενδιαφέρον
 firefox-desktop-download-your-privacy-comes = Το απόρρητό σας έχει προτεραιότητα
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Συγχρονισμός των συσκευών σας
 firefox-desktop-download-screenshots = Στιγμιότυπα οθόνης
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή (ΕΠΚ)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-learn-about-the = Μάθετε για το { -brand-name-firefox } για υπολογιστές παρακάτω
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
+firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Σχεδόν τελειώσατε!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Εκτελέστε</strong> το πρόγραμμα εγκατάστασης που μόλις αποθηκεύσατε.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Ανοίξτε</strong> το αρχείο που μόλις αποθηκεύσατε.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Έχετε προβλήματα; <a { $attrs }>Λάβετε βοήθεια με την εγκατάστασή σας</a>.
 firefox-desktop-download-in-another-language = Λήψη σε άλλη γλώσσα ή για άλλο λειτουργικό σύστημα.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = Η { -brand-name-mozilla } <a href="{ $url }">δεν παρέχει πλέον ενημερώσεις ασφαλείας</a> στα { -brand-name-windows } { -brand-name-xp } ή στα { -brand-name-vista }, αλλά μπορείτε ακόμα να χρησιμοποιήσετε το { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
