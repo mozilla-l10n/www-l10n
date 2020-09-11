@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = Keni vështirësi? <a { $attrs }>Merrni ndih
 firefox-desktop-download-in-another-language = Shkarkojeni në një gjuhë tjetër ose për një tjetër sistem operativ.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">s’furnizon më përditësime sigurie</a> për { -brand-name-windows } { -brand-name-xp } apo { -brand-name-vista }, por prapë mundeni ta përdorni { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Keni në përdorim një sistem operativ jo të sigurt, të vjetruar, <a href="{ $url }">që s’mbulohet më nga { -brand-name-firefox }-i</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Shkarkimi juaj do të duhej të fillonte vetvetiu. S’ndodhi? <a id="{ $id }" href="{ $fallback_url }">Provoni sërish ta shkarkoni</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-i është më shumë se një shfletues.
+firefox-desktop-download-interrupted = Shkarkimi juaj u ndërpre. Por jo gjithçka humbi.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Që të instaloni { -brand-name-firefox }-in, ju lutemi, ndiqni <a href="{ $url }">këto udhëzime</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.

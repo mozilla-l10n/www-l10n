@@ -24,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = Mbrojtja e Thelluar Nga Gjurmimet <
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Mos lini gjurmë
 welcome-page4-automatically-clear-your-history = Spastroni automatikisht historikun tuaj dhe cookie-t, me mënyrën Shfletim Privat.
+welcome-page4-go-faster-do-more = Lëvizni më shpejt. Bëni më shumë.
 welcome-page4-take-it-all-with-you = Merreni gjithçka me vete
+welcome-page4-more-done-fast-smart = Mbaroni më shumë punë gjatë ditës tuaj, përmes ngarkimesh faqesh të shpejtë si rrufe dhe me sugjerime të mençura rreth kërkimesh.
 welcome-page4-dont-walk-out-the-door-without = Mos dilni nga dera pa faqerojtësit, skedat, shënimet dhe fjalëkalimet tuaj.
 welcome-page4-why-am-i-seeing-this = Pse më del kjo?

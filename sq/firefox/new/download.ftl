@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">s’furnizon më përditësime sigurie</a> për { -brand-name-windows } { -brand-name-xp } apo { -brand-name-vista }, por prapë mundeni ta përdorni { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Keni në përdorim një sistem operativ jo të sigurt, të vjetruar, <a href="{ $url }">që nuk mbulohet më nga { -brand-name-firefox }-i</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = Është gjithashtu <strong>privatësi dhe
 firefox-new-its-a-family-of-products = Është një <strong>familje produktesh</strong> që i trajton me respekt të dhënat tuaja personale.
 firefox-new-its-everything-you-need-to = Është gjithçka ju duhet të dini rreth <strong>të qenët i parrezikuar në internet</strong>.
 firefox-new-its-a-community-that-believes = Është <strong>një bashkësi</strong> që beson se teknologjia mund të bëjë gjëra më të mira.
+firefox-new-download-interrupted = Shkarkimi juaj u ndërpre. Por jo gjithçka humbi.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Që të instaloni { -brand-name-firefox }, ju lutemi, ndiqni <a href="{ $url }">këto udhëzime</a> .
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.
