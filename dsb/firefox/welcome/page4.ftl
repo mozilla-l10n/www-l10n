@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Ześěgniśo { -brand-name-firefox-browser } na swójom mobilnem rěźe za { -brand-name-ios } a { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Móšyna. Kluce. Telefon. <strong>{ -brand-name-firefox }</strong>
-welcome-page4-privacy-every-screen = Wobstarajśo se priwatnosć na kuždu wobrazowku
+welcome-page4-privacy-every-screen-now = Wobstarajśo se něnto priwatnosć na kuždu wobrazowku
 welcome-page4-take-privacy-with-you-on-every = Wzejśo priwatnosć na kuždem rěźe sobu - a wóstajśo datowe pśeslědowaki za sobu.
-welcome-page4-on-the-move-at-home = Pó droze abo jano doma – wobstarajśo se priwatnosć, kótaruž se zasłužyjośo.
-welcome-page4-get-the-firefox-app = Nałoženje { -brand-name-firefox } wobstaraś
+welcome-page4-privacy-on-by-default = Waša priwatnosć jo standard na nowem { -brand-name-firefox } za { -brand-name-android } – a něnto móžośo { -brand-name-firefox } k swójomu standardnemu wobglědowakoju na { -brand-name-ios } 14 cyniś.
+welcome-page4-get-the-firefox-mobile = Wobstarajśo se { -brand-name-firefox } Mobile
 welcome-page4-get-firefox-on-your-phone = Wužywajśo { -brand-name-firefox } na swójom telefonje
 welcome-page4-send-the-download-link-right = Sćelśo ześěgnjeński wótkaz direktnje na swój telefon abo na swóju e-mejlowu adresu.
 welcome-page4-download-firefox-for-your = Ześěgniśo { -brand-name-firefox } za swój smartfon a tablet.
