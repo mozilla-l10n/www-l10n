@@ -8,10 +8,9 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Last ned { -brand-name-firefox-browser }en på din mobil for { -brand-name-ios } og { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Lommebok. Nøkler. Telefonen. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Personvern på hver eneste skjerm
+welcome-page4-privacy-every-screen-now = Få personvern på hver eneste skjerm
 welcome-page4-take-privacy-with-you-on-every = Ta personvern med deg på alle enheter — og la datasporere være igjen.
-welcome-page4-on-the-move-at-home = Få det personvernet du fortjener på farten eller bare hjemme.
-welcome-page4-get-the-firefox-app = Hent { -brand-name-firefox }-appen
+welcome-page4-get-the-firefox-mobile = Last ned { -brand-name-firefox } for mobil
 welcome-page4-get-firefox-on-your-phone = Få { -brand-name-firefox } på telefonen
 welcome-page4-send-the-download-link-right = Send nedlastingslenken rett til din telefon eller e-post.
 welcome-page4-download-firefox-for-your = Last ned { -brand-name-firefox } til smarttelefonen din og nettbrettet ditt.
