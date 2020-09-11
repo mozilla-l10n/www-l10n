@@ -157,6 +157,10 @@ firefox-desktop-download-get-help = Har problem? <a { $attrs }>Få hjelp med ins
 firefox-desktop-download-in-another-language = Last ned på eit anna språk eller for eit anna operativsystem.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">kjem ikkje lenger med sikkerheitsoppdateringar</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan enno bruke { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Du brukar eit utrygt, forelda operativsystem, <a href="{ $url }">som ikkje lenger er støtta av { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
