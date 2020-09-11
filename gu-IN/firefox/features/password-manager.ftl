@@ -19,7 +19,7 @@ password-manager-forget-the-reset = રીસેટ કરવાનુ ભુલ
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = પાસવર્ડ નીન્જા
-password-manager-no-more-try-again = કોઈ વધુ “ફરીથી પ્રયત્ન કરો” જ્યારે તમે ક્યાંક વિચાર કરવાનો પ્રયાસ કરી રહ્યાં છો. તમારા ફોન પર તમારા Firefox એકાઉન્ટમાં પ્રવેશ કરો, અને તમારા પાસવર્ડ્સ તમારી સાથે આવે છે. તમારી લૉગિન વિગતો ફક્ત તે જ દેખાશે.
+password-manager-no-more-try-again = જ્યારે તમે ક્યાંક પહોંચવાનો પ્રયાસ કરી રહ્યાં છો ત્યારે વધુ "ફરીથી પ્રયાસ કરો" આવશે નહીં. તમારા ફોન પર તમારા { -brand-name-firefox-account } to પર લાૅગ ઇન કરો અને તમારા પાસવર્ડ્સ તમારી સાથે આવી જશે. તમારી લાૅગ ઇનની વિગતો દેખાઇ જશે.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = પાસવર્ડ માસ્ટર
