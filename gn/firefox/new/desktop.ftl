@@ -136,6 +136,7 @@ firefox-desktop-download-now-mac = Ko’ág̃a <strong>embojuruja</strong> maran
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta ne ñemohendápe</a>.
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Eipupuru apopyvusu hetekorosã ha hekopyahu’ỹva <a href="{ $url }">ndorekovéimava pytyvõ { -brand-name-firefox } guive</a>.
@@ -144,3 +145,4 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Eipupuru apopyvusu h
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndoikói? <a id="{ $id }" href="{ $fallback_url }">Eha’ãjey mboguejy pyahu.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año.
+firefox-desktop-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
