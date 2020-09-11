@@ -15,3 +15,6 @@ whatsnew81-send-form-label-alt = Vnesite e-poštni naslov ali telefonsko števil
 whatsnew81-scan-this-qr-code = Skenirajte to kodo QR za prenos
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = NOVI { -brand-name-firefox } za { -brand-name-android } je tu
+whatsnew81-our-latest-for-android-has = Naš najnovejši brskalnik za { -brand-name-android } je poln uporabnih možnosti – kot je premakljiva iskalna vrstica. Ker smo neodvisen brskalnik in nam je mar za vaše palce.
+whatsnew81-make-firefox-your-everyday = Naj { -brand-name-firefox } postane vaš vsakdanji brskalnik v { -brand-name-ios }
+whatsnew81-attention-iphone-people = Uporabniki { -brand-name-iphone }, pozor: v { -brand-name-ios } 14 lahko končno nastavite { -brand-name-firefox } kot privzeti brskalnik. Prepričajte se, da imate najnovejši { -brand-name-firefox } za { -brand-name-ios }.
