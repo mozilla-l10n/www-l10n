@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = El navegador Firefox: consume menos memoria y es más rápido
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Usa menos memoria, obtén más velocidad
 # HTML page description
 features-memory-is-your-computer-slow-your = ¿Tu equipo es muy lento? Puede ser que tu navegador use demasiada memoria. Cámbiate a { -brand-name-firefox } hoy para obtener más velocidad.
 features-memory-less-memory-usage-than-chrome = Usa menos memoria que { -brand-name-chrome }

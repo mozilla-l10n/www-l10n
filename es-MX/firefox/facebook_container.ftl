@@ -16,7 +16,7 @@ facebook-container-only-available-for-desktop = La extensión "{ -brand-name-fac
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Visita <a href="{ $url }">{ $link_copy }</a> para obtener { -brand-name-firefox } para escritorio.
 # Outdated string
-facebook-container-the-facebook-container-extension = El complemento del contenedor de Facebook no está disponible en dispositivos móviles.
+facebook-container-the-facebook-container-extension = La extensión { -brand-name-facebook-container } no está disponible para dispositivos móviles.
 facebook-container-get-firefox-android-ios = Obtén { -brand-name-firefox } para { -brand-name-android } e { -brand-name-ios } ahora.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.

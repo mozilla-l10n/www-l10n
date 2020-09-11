@@ -6,9 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Descarga el navegador Firefox en tu teléfono para { -brand-name-ios } y { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Descarga el { -brand-name-firefox-browser } en tu móvil para { -brand-name-ios } y { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Cartera. Llaves. Teléfono. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-privacy-every-screen = Obtén privacidad en cada pantalla
 welcome-page4-take-privacy-with-you-on-every = Lleva tu privacidad contigo en cada dispositivo y deja atrás los rastreadores de datos.
+welcome-page4-on-the-move-at-home = En movimiento o simplemente en casa — obtén la privacidad que te mereces.
 welcome-page4-get-the-firefox-app = Obtén la aplicación de { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Obtén { -brand-name-firefox } en tu teléfono
 welcome-page4-send-the-download-link-right = Envía el enlace de descarga directo a tu teléfono o correo electrónico.
@@ -22,6 +24,8 @@ welcome-page4-enhanced-tracking-protection = La protección contra el rastreo me
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = No dejes ningún rastro
 welcome-page4-automatically-clear-your-history = Limpia automáticamente tu historial y cookies con el modo de navegación privada.
+welcome-page4-go-faster-do-more = Ve más rápido. Haz más.
 welcome-page4-take-it-all-with-you = Llévalo todo contigo
+welcome-page4-more-done-fast-smart = Haz más en el día con la carga rápida de las páginas  y sugerencias de búsquedas inteligentes.
 welcome-page4-dont-walk-out-the-door-without = No salgas de casa sin tus marcadores, pestañas, notas y contraseñas.
 welcome-page4-why-am-i-seeing-this = ¿Por qué estoy viendo esto?
