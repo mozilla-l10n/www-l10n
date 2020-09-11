@@ -15,4 +15,5 @@ whatsnew80-primary-cta-description = Ehai ñanduti veve térã pumbyry papapy er
 # content buckets below hero
 whatsnew80-password-fatigue = Ñe’ẽñemi kane’õ añetete
 whatsnew80-privacy-you-never = Ñemigua araka’eve eñamindu’uva’erãha
+whatsnew80-firefox-for-mobile = { -brand-name-firefox } mba’e’oka oku’évape ojoko umi tapykuehoha ñemurãva ñandutípe ijehegui, péicha natekotevẽi ñemboheko hekorosãitereíva.
 whatsnew80-new-firefox-android = Ipyahúva { -brand-name-firefox } { -brand-name-android } peg̃uarã

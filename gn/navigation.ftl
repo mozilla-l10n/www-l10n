@@ -48,6 +48,7 @@ navigation-meet-people-in-experimental = Eikuaa tapicha ñomongetaha ojepururam�
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } ogueru ñanduti añetegua ha añetegua tuichavéva ñanduti ijurujávape.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } ogueru { -brand-name-firefox } hechapyrã mbotuichapyre ha ñandutigua.
 navigation-firefox-built-just-for = { -brand-name-firefox }, ojejapo mboguatahárape g̃uarã añoite.
