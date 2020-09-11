@@ -33,6 +33,7 @@ firefox-all-get-a-sneak-peek-at = Ke'atz'eta' ri ruk'isib'äl taq rusamaj ri { -
 firefox-all-test-your-sites-against = Tanik'oj chi nuk'äm ri' ri taq ruxaq rik'in ri rub'anikil { -brand-name-firefox } okik'amaya'l, ri xtel yan pe, rik'in ri nïm ruchuq'a' chuqa' jalel DevTools tzijon wi pe.
 firefox-all-count-on-stability-and = Tak'owisaj ak'u'x rik'in ri raxnaqil chuqa' man k'ayew ta rokisaxik re { -brand-name-firefox } okik'amaya'l re', nuk'un kichin taq ajk'aymoloj.
 firefox-all-windows-installers-for = Ri Windows yakonela' kichin TI ajk'aymolojil nikich'utinisaj ri runuk'ulem, rurik'ik chuqa' ri runuk'samaj ri { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = ARM64/AArch64 yakonela'
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tacha' jun 32-bit yakonel kichin kematz'ib' rik'in 32-bit xenab'ab'äl — o ojer taq samajib'äl o man kan ta k'o kuchuq'a'. <a href="{ $url }">We man awetaman ta</a> we nacha' chi kikojol 64-bit o 32-bit yakonel, niqachilab'ej chi tacha' ri 32-bit.
