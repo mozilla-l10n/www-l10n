@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox બ્રાઉઝર: તમે જ્યાં જાઓ છો ત્યાં સર્વત્ર સારા બુકમાર્ક્સ
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: તમે જ્યાં જાઓ છો ત્યાં સર્વત્ર સારા બુકમાર્ક્સ
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = સરળતાથી તમારા બુકમાર્ક્સને ફોલ્ડરમાં ગોઠવો અને તેમને તમારા તમામ ઉપકરણો પર ડેસ્કટૉપથી મોબાઇલ પર મેળવો.
 features-bookmarks-better-bookmarks = વધારે સારા બુકમાર્ક્સ
