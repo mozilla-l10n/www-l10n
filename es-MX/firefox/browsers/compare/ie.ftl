@@ -8,15 +8,15 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie }: ¿Cuál es el mejor navegador para ti?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Compara { -brand-name-ie } con Firefox para averiguar cuál es el mejor navegador para ti.
+compare-ie-compare-internet-explorer-to = Compara { -brand-name-ie } con { -brand-name-firefox-browser } para averiguar cuál es el mejor navegador para ti.
 # Main title
-compare-ie-comparing-firefox-browser-with = Comparación de Firefox con { -brand-name-microsoft } { -brand-name-ie }
-compare-ie-while-microsofts-internet-explorer = Aunque { -brand-name-ie } de { -brand-name-microsoft } todavía viene preinstalado en la mayoría de los ordenadores con { -brand-name-windows }, claramente { -brand-name-microsoft } prefiere que uses su navegador { -brand-name-edge }, que está configurado como predeterminado.
+compare-ie-comparing-firefox-browser-with = Comparando { -brand-name-firefox-browser } con { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = Aunque { -brand-name-ie } de { -brand-name-microsoft } todavía viene preinstalado en la mayoría de las computadoras con Windows, claramente { -brand-name-microsoft } prefiere que uses su navegador { -brand-name-edge }, que está configurado como predeterminado.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } suspendió su marca de { -brand-name-ie } hace varios años, en favor de su navegador { -brand-name-edge } actualizado para { -brand-name-windows } 10. Sin embargo, la lenta adopción de { -brand-name-edge } proporcionó espacio para que { -brand-name-ie } continuara usándose, principalmente por razones de compatibilidad comercial.
-compare-ie-here-well-compare-our-firefox = Aquí compararemos { -brand-name-firefox } con { -brand-name-ie } en términos de seguridad, utilidad y portabilidad. Te ayudaremos a comprender las diferencias entre un navegador moderno como { -brand-name-firefox }, que sigue los estándares de la red, con el navegador que puedes estar utilizando por motivos empresariales o por costumbre.
+compare-ie-here-well-compare-our-firefox = Aquí comparamos nuestro { -brand-name-firefox-browser } con { -brand-name-ie } en términos de seguridad, utilidad y portabilidad. Te ayudaremos a entender las diferencias entre cómo se compara un navegador moderno como { -brand-name-firefox } se adhiere a los estándares web con un navegador que podrías estar usando para propósitos empresariales o debido a que es un hábito que cuesta dejar.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = Si no has dejado de usar { -brand-name-ie }, solo el factor de riesgo de seguridad debería ser suficiente para convencerte. <a { $attrs }>El propio jefe de seguridad de Microsoft ha advertido</a> a millones de personas que continúan usando { -brand-name-ie } como su navegador web principal que se están poniendo en “peligro”.
+compare-ie-if-you-havent-moved-on-from-using = Si no has dejado de usar { -brand-name-ie }, el factor de riesgo de seguridad por si mismo debiera ser suficiente para convencerte. <a { $attrs }>el mismísimo jefe de seguridad de { -brand-name-microsoft } ha advertido</a> a millones de personas que siguen usando { -brand-name-ie } como su navegador web principal de que se están poniendo a si mismos en "peligro".
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } ha dejado de desarrollar { -brand-name-ie }, lo que significa que los posibles problemas de seguridad son enormes. { -brand-name-microsoft } reconoce abiertamente el hecho de que existen vulnerabilidades en prácticamente todas las versiones de { -brand-name-ie }.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics

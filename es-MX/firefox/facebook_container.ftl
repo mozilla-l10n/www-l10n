@@ -5,11 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = Contenedor de { -brand-name-facebook } para { -brand-name-firefox } | Evita que { -brand-name-facebook } vea los sitios web que visitas.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } para { -brand-name-firefox } | Evita que { -brand-name-facebook } vea los sitios que visitas.
 facebook-container-millions-of-people-around = Millones de personas en todo el mundo confían en los navegadores web de { -brand-name-firefox } para { -brand-name-android }, { -brand-name-ios } y escritorio. Rápido. Privado. ¡Descárgalo ya!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Bien controlado. No compartas el resto de tu vida.
-facebook-container-get-the-facebook-container = Obtener el complemento del contenedor de Facebook
-facebook-container-download-firefox-and-get-the = Descarga { -brand-name-firefox } y obtén el complemento del contenedor de Facebook
+facebook-container-get-the-facebook-container = Obtener la extensión "{ -brand-name-facebook-container }"
+facebook-container-download-firefox-and-get-the = Descarga { -brand-name-firefox } y obtén la extensión { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = La extensión "{ -brand-name-facebook-container }" actualmente está disponible solo para { -brand-name-firefox } para escritorio.
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
