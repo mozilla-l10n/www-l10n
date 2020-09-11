@@ -9,5 +9,8 @@
 whatsnew81-page-title = Τι νέο υπάρχει στο { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Ένα νέο { -brand-name-firefox } για κάθε συσκευή
+whatsnew81-send-form-label = Εισάγετε το email σας για σύνδεσμο λήψης
+whatsnew81-send-form-label-alt = Εισάγετε το email ή τον αριθμό τηλεφώνου σας για σύνδεσμο λήψης
+whatsnew81-scan-this-qr-code = Σαρώστε αυτό τον κωδικό QR για λήψη
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Το ΝΕΟ { -brand-name-firefox } για { -brand-name-android } έφτασε
