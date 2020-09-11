@@ -44,7 +44,7 @@ firefox-new-just-download-the-browser = Просто загрузить брау
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больше не предоставляет обновления безопасности</a> для { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }, но вы всё ещё можете использовать { -brand-name-firefox }.
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больше не предоставляет обновления безопасности</a> на { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }, но вы всё ещё можете использовать { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
