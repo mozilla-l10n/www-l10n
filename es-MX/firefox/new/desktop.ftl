@@ -162,3 +162,9 @@ firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Estás usando un sistema operativo inseguro y desactualizado <a href="{ $url }">que ya no tiene soporte por parte de { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Tu descarga debería iniciar automáticamente. ¿No funcionó? <a id="{ $id }" href="{ $fallback_url }">Intenta descargarlo de nuevo.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.
+firefox-desktop-download-interrupted = Tu descarga fue interrumpida. Pero no todo está perdido.
