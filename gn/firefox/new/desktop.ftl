@@ -146,3 +146,9 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Eipupuru apopyvusu h
 firefox-desktop-download-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndoikói? <a id="{ $id }" href="{ $fallback_url }">Eha’ãjey mboguejy pyahu.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año.
 firefox-desktop-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> emohendávo { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eipurukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.

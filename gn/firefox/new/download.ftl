@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Emboguejynteva’erã ko kundaha
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Eipupuruhína apopyvusu oku’éva hetekorosã’ỹva ha avei hekopyahu’ỹva <a href="{ $url }">ndoguerekovéimava { -brand-name-firefox } pytyvõ</a>.
@@ -54,3 +55,10 @@ firefox-new-its-privacy-and-peace-of = Avei <strong>ñemigua ha py’aguapy</str
 firefox-new-its-a-family-of-products = Ha’e peteĩ <strong>apopyre aty</strong> omomba’éva nemba’etéva.
 firefox-new-its-everything-you-need-to = Ha’e eikotevẽva eikuaa <strong>eikundaha tekorosãme</strong> rehegua.
 firefox-new-its-a-community-that-believes = Ha’e <strong>peteĩ tekoha</strong> ogueroviáva tembipurupyahu ikatuha ojapo porãve.
+firefox-new-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> emohendávo { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eipurukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
