@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Απλή λήψη του προγράμ�
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Χρησιμοποιείτε ένα επισφαλές, παρωχημένο λειτουργικό σύστημα, <a href="{ $url }">που δεν υποστηρίζεται πλέον από το { -brand-name-firefox }</a>.
@@ -54,3 +55,4 @@ firefox-new-its-privacy-and-peace-of = Είναι η <strong>σιγουριά γ
 firefox-new-its-a-family-of-products = Είναι μια <strong>οικογένεια προϊόντων</strong> που χειρίζεται τα προσωπικά σας δεδομένα με σεβασμό.
 firefox-new-its-everything-you-need-to = Είναι όλα όσα πρέπει να γνωρίζετε για να <strong>προστατευτείτε στο διαδίκτυο</strong>.
 firefox-new-its-a-community-that-believes = Είναι μια <strong>κοινότητα</strong> που πιστεύει ότι η τεχνολογία μπορεί να κάνει καλύτερα πράγματα.
+firefox-new-download-interrupted = Η λήψη σας διακόπηκε. Αλλά δεν έχουν χαθεί όλα.
