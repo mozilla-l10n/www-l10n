@@ -8,9 +8,11 @@
 facebook-container-facebook-container-for-firefox = { -brand-name-firefox } માટે { -brand-name-facebook } કન્ટેઈનર| તમે કઈ વેબસાઇટ્સની મુલાકાત લો છો તે જોવાથી { -brand-name-facebook } ને અટકાવો.
 facebook-container-millions-of-people-around = વિશ્વભરમાં લાખો લોકો, { -brand-name-android }, { -brand-name-ios } અને ડેસ્કટૉપ કમ્પ્યુટર્સ પર ફાયરફોક્સ વેબ બ્રાઉઝ્સને વિશ્વાસ કરે છે. ઝડપી. ખાનગી. હમણાંજ ડાઉનલોડ કરો!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. સારું સમાયેલ. તમારું બાકીનું જીવન તમેજ રાખો.
-facebook-container-get-the-facebook-container = Facebook કન્ટેઈનર એક્સ્ટેંશન મેળવો
-facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ડાઉનલોડ કરો અને Facebook કન્ટેઈનર એક્સ્ટેંશન મેળવો
-facebook-container-the-facebook-container-extension = ફેસબુક કન્ટેઈનર એક્સ્ટેંશન મોબાઇલ ઉપકરણો પર ઉપલબ્ધ નથી.
+facebook-container-get-the-facebook-container = { -brand-name-facebook-container } એક્સ્ટેંશન મેળવો
+facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ડાઉનલોડ કરો અને { -brand-name-facebook-container } એક્સ્ટેંશન મેળવો
+# Outdated string
+facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } એક્સ્ટેંશન મોબાઇલ ઉપકરણો પર ઉપલબ્ધ નથી.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } અને { -brand-name-ios } માટે ગોપનીયતા બ્રાઉઝર <strong>{ -brand-name-firefox-focus }</strong>, અજમાવો.
 facebook-container-opt-out-on-your-terms = તમારી શરતોને નાપસંદ કરો

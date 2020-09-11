@@ -32,10 +32,10 @@ firefox-channel-check-out-new-android-features = નવા { -brand-name-android
 firefox-channel-nightly-blog = { -brand-name-nightly } બ્લોગ
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = રાત્રિનો અસ્થિર પરીક્ષણ અને વિકાસ પ્લેટફોર્મ છે. ડિફૉલ્ટ રૂપે, રાત્રિના સમયે મોઝીલાને ડેટા મોકલે છે - અને ક્યારેક અમારા ભાગીદારો - અમને સમસ્યાઓને નિયંત્રિત કરવામાં અને વિચારોને અજમાવવા માટે સહાય કરે છે. <a href="{ $link }">શેર કરેલું છે તે જાણો</a>.
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } એક અસ્થિર પરીક્ષણ અને વિકાસ પ્લેટફોર્મ છે. ડિફૉલ્ટ રૂપે, { -brand-name-nightly } એ { -brand-name-mozilla } ને ડેટા મોકલે છે - અને ક્યારેક અમારા ભાગીદારો - અમને સમસ્યાઓને નિયંત્રિત કરવામાં અને વિચારોનો પ્રયાસ કરવા માટે મદદ મળે. <a href="{ $link }">શેર કરેલું છે તે જાણો</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } { -brand-name-mozilla } ને આપમેળે પ્રતિસાદ મોકલે છે.
 firefox-channel-try-new-browser-features = પૂર્વ-પ્રકાશન આવૃત્તિઓ માં નવી બ્રાઉઝર સુવિધાઓ અજમાવો | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-desktop = પૂર્વ-પ્રકાશન આવૃત્તિમાં કટીંગ ધાર બ્રાઉઝર સુવિધાઓનો અનુભવ કરો: Firefox વિકાસકર્તા આવૃત્તિ, Firefox બીટા અને { -brand-name-firefox-nightly }. અત્યારે ડાઉનલોડ કરો!
+firefox-channel-experience-cutting-edge-desktop = પૂર્વ-પ્રકાશન આવૃત્તિમાં આધુનિક લક્ષણો ધરાવતી  બ્રાઉઝર સુવિધાઓનો અનુભવ કરો: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta }અને { -brand-name-firefox-nightly }. અત્યારે ડાઉનલોડ કરો!
 firefox-channel-download-and-test-the-latest-desktop = ડેવલપર એડિશન, બીટા અને { -brand-name-nightly } બિલ્ડ્સ સાથેનાં ડેસ્કટોપ ફીચર્સ માટે નવીનતમ { -brand-name-firefox } ડાઉનલોડ કરો અને પરીક્ષણ કરો.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = સૌથી વધુ સ્થિર પૂર્વ-પ્રકાશન બિલ્ડમાં લગભગ-થી-પ્રકાશિત સુવિધાઓનું પરીક્ષણ કરો.
