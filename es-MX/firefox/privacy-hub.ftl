@@ -68,3 +68,19 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Las contraseñas y las credenciales que guardas en { -brand-name-firefox-lockwise } están cifradas en todos tus dispositivos, de modo que ni nosotros podemos verlas.
 firefox-privacy-hub-learn-more-about-lockwise = Más información sobre { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = No podemos ver los nombres o el contenido de los archivos pesados que compartes mediante { -brand-name-firefox-send }, porque están cifrados de extremo a extremo. Tú eliges quién mira lo que envías, e incluso puedes configurar una fecha de caducidad y una contraseña.
+firefox-privacy-hub-send-a-file = Enviar un archivo
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recomienda artículos de alta calidad, seleccionados por personas de verdad sin recolectar datos de tu historial de navegación ni compartir tu información personal con las empresas de publicidad.
+firefox-privacy-hub-get-pocket = Obtener { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = Tu { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Toda la información sincronizada mediante tu { -brand-name-firefox-account } — desde el historial de navegación hasta las contraseñas — está cifrada. Y la contraseña de tu cuenta es la única llave para acceder a ella.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Lleva tu privacidad y marcadores a todas partes con una { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = ¿Ya tienes una cuenta? <a { $sign_in } class="{ $class_name }">Conéctate</a> o <a href="{ $learn_more }">aprende más</a> acerca de cómo unirte a { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Lee la <a href="{ $url }">política de privacidad</a> para nuestros productos
