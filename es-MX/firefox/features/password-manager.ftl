@@ -16,10 +16,15 @@ password-manager-password-hero = Heroe de contraseña
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Olvídate del reinicio. El administrador de contraseñas de { -brand-name-firefox } guarda todas tus contraseñas para que puedas iniciar sesión automáticamente o encontrar fácilmente tus contraseñas guardadas. Para mayor seguridad, escoge una <a href="{ $url }">contraseña maestra</a> para tu computadora.
+password-manager-password-magician = Mago de las contraseñas
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja de las contraseñas
 password-manager-no-more-try-again = No vuelvas nunca más a intentar acceder a un sitio con la contraseña equivocada. Inicia sesión de tu cuenta de Firefox en tu teléfono y llévate las contraseñas contigo. Tus datos de acceso aparecerán como magia.
+password-manager-password-champion = Campeón de las contraseñas
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Gana tu medalla de oro en seguridad con la amplia gama de <a href="{ $addons }">complementos</a> de administración de contraseñas de { -brand-name-firefox }. Elige uno de tus favoritos o conoce uno nuevo a través de las puntuaciones y revisiones de los expertos de la comunidad.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Maestro de las contraseñas
