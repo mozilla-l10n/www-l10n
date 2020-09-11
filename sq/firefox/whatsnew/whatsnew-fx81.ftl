@@ -9,6 +9,7 @@
 whatsnew81-page-title = Ç’ka të re në { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Një { -brand-name-firefox } i ri për çdo pajisje
+whatsnew81-main-intro = Çfarëdo sistemi operativ që të keni, ka një shfletues celular më të mirë se kurrë, të bazuar në një ent jofitiprurës, të cilin mund ta instaloni në të.
 whatsnew81-send-form-label = Për një lidhje shkarkimi, jepni email-in tuaj
 whatsnew81-send-form-label-alt = Për një lidhje shkarkimi jepni email-in ose numrin tuaj të telefonit
 whatsnew81-scan-this-qr-code = Që ta shkarkohet, skanoni këtë kod QR
