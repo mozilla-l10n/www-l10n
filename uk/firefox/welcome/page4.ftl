@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = Завантажте { -brand-name-
 welcome-page4-wallet-keys-phone-firefox = Гаманець. Ключі. Телефон. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Тепер отримуйте приватність на кожному пристрої
 welcome-page4-take-privacy-with-you-on-every = Отримайте приватність на кожному пристрої — і залиште стеження даних позаду.
+welcome-page4-privacy-on-by-default = Вашу приватність увімкнено типово з новим { -brand-name-firefox } для { -brand-name-android } — і тепер ви можете зробити { -brand-name-firefox } типовим браузером на { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Отримайте { -brand-name-firefox } для мобільного
 welcome-page4-get-firefox-on-your-phone = Встановіть { -brand-name-firefox } на свій телефон
 welcome-page4-send-the-download-link-right = Відправте посилання для завантаження прямо на телефон чи електронну пошту.
