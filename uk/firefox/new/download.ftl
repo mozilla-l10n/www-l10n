@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Просто завантажте бра
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">більше не випускає оновлень безпеки</a> для { -brand-name-windows } { -brand-name-xp } чи { -brand-name-vista }, але ви все ще можете користуватися { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Ви використовуєте незахищену, застарілу операційну систему, <a href="{ $url }">яка більше не підтримується { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = Це також <strong>конфіден�
 firefox-new-its-a-family-of-products = Це <strong>продукти</strong>, які ставляться до ваших особистих даних з повагою.
 firefox-new-its-everything-you-need-to = Це все, що потрібно знати про <strong>безпеку в Інтернеті</strong>.
 firefox-new-its-a-community-that-believes = Це <strong>спільнота</strong>, яка вважає, що технологія може бути кращою.
+firefox-new-download-interrupted = Завантаження було перервано. Але нічого не втрачено.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Дотримуйтесь <a href="{ $url }">цих настанов,</a> щоб встановити { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з <a href="{ $url }">цих версій</a>.

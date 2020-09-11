@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = Маєте проблеми? <a { $attrs }>�
 firefox-desktop-download-in-another-language = Завантажити іншою мовою або для іншої операційної системи.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">більше не випускає оновлень безпеки</a> для { -brand-name-windows } { -brand-name-xp } чи { -brand-name-vista }, але ви все ще можете користуватися { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Ви використовуєте незахищену, застарілу операційну систему, <a href="{ $url }">яка більше не підтримується { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Завантаження розпочнеться автоматично. Не почалося? <a id="{ $id }" href="{ $fallback_url }">Спробуйте ще раз.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - це більше, ніж браузер.
+firefox-desktop-download-interrupted = Завантаження було перервано. Але нічого не втрачено.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Дотримуйтесь <a href="{ $url }">цих настанов,</a> щоб встановити { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з <a href="{ $url }">цих версій</a>.
