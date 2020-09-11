@@ -8,7 +8,9 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Shkarkoni { -brand-name-firefox-browser } në Celularin tuaj për { -brand-name-ios } dhe { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Portofolin. Çelësat. Telefonin. <strong>{ -brand-name-firefox }-in.</strong>
+welcome-page4-privacy-every-screen = Merrni privatësi në çdo ekran
 welcome-page4-take-privacy-with-you-on-every = Merreni privatësinë me vete në çdo pajisje — dhe lërini në bisht gjurmuesit e të dhënave.
+welcome-page4-on-the-move-at-home = Rrugës apo thjesht në shtëpi — përfitoni privatësinë që meritoni.
 welcome-page4-get-the-firefox-app = Merrni Aplikacionin { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Merreni { -brand-name-firefox }-in në Telefonin tuaj
 welcome-page4-send-the-download-link-right = Dërgojeni lidhjen e shkarkimit drejt e te telefoni ose email-i juaj.

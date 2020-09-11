@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 banner-firefox-daylight-launch-title = Ju paraqesim hedhjen tonë më të re në qarkullim të { -brand-name-firefox }-it për { -brand-name-android } — { -brand-name-firefox-daylight }.
+banner-firefox-daylight-launch-title-updated = Ju paraqesim { -brand-name-firefox } e RI për { -brand-name-android } — { -brand-name-firefox-daylight }
 banner-firefox-daylight-launch-intro = Rikonceptuar dramatikisht për të qenë më i shpejtë, i lehtë për t’u përdorur, i personalizueshëm dhe privat.
 banner-firefox-daylight-launch-button = Merreni Që Tani
