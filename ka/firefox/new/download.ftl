@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = უბრალოდ ჩამოტვ
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">აღარ აწარმოებს უსაფრთხოების განახლებებს</a> სისტემებისთვის { -brand-name-windows } { -brand-name-xp } ან { -brand-name-vista }, თუმცა მაინც შეგიძლიათ გამოიყენოთ { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
