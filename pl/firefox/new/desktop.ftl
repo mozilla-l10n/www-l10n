@@ -91,6 +91,16 @@ firefox-desktop-download-extensions-for-every = Rozszerzenia dla każdego hobby
 firefox-desktop-download-change-up-your = Odmień swój wygląd
 firefox-desktop-download-go-from-light = Przejdź z trybu jasnego do ciemnego w zależności od nastroju lub upodobania, albo nawet ożyw przeglądarkę innym motywem (może z tęczowym jednorożcem?).
 firefox-desktop-download-tweak-your-settings = Podrasuj swoje ustawienia
+firefox-desktop-download-theres-no-need = Nie musisz zostawać przy starym. Odmień stronę nowej karty, pasek wyszukiwania, zakładki i nie tylko, aby przeglądać Internet po swojemu.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Wspierany przez organizację <strong>non-profit</strong>, która stawia ludzi na pierwszym miejscu
+firefox-desktop-download-challenging-the-status = Walczymy ze status quo od 1998 roku
+firefox-desktop-download-your-privacy-comes = Twoja prywatność jest najważniejsza
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Zachowaj wszystkie ulubione funkcje przeglądarki — i <strong>odkrywaj</strong> nowe.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Wszystkie Twoje ulubione narzędzia { -brand-name-google } (takie jak Gmail i Docs) bezproblemowo działają w { -brand-name-firefox-browser(case: "loc", capitalization: "lower") }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
