@@ -61,6 +61,11 @@ firefox-desktop-download-sync-across-devices = Synchronizuj między urządzeniam
 firefox-desktop-download-reader-mode = Tryb poprawionej czytelności
 firefox-desktop-download-spell-check = Sprawdzanie pisowni
 firefox-desktop-download-pinned-tabs = Przypięte karty
+firefox-desktop-download-stream-share-play = Streamuj, udostępniaj i graj
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Blokowanie automatycznego odtwarzania wideo i dźwięku
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Obraz w obrazie
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
