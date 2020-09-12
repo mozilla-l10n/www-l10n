@@ -39,13 +39,16 @@ navigation-your-firefox-account = Votre { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Profitez au mieux de l’expérience { -brand-name-firefox }, sur tous vos appareils.
 # Outdated string
 navigation-learn-how-to-customize = Découvrez comment personnaliser le fonctionnement de { -brand-name-firefox }.
+navigation-explore-the-immersive = Explorez le Web immersif avec votre casque de réalité virtuelle.
 # Outdated string
 navigation-experience-augmented = Essayez la réalité augmentée et virtuelle avec { -brand-name-firefox }.
+navigation-get-together = Rencontrez-vous dans la réalité virtuelle avec cet espace social en ligne.
 # Outdated string
 navigation-meet-people-in-experimental = Rencontrez des personnes dans des salons de discussion expérimentaux en réalité mixte avec { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } apporte la réalité virtuelle et augmentée sur le Web ouvert.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } apporte la réalité augmentée et virtuelle à { -brand-name-firefox }.
 navigation-firefox-built-just-for = { -brand-name-firefox }, conçu spécialement pour les développeurs.
@@ -72,6 +75,7 @@ navigation-share-large-files-safely = Partagez des fichiers volumineux en toute 
 navigation-save-quality-content = Enregistrez des contenus de qualité où que vous soyez. Enrichissez votre esprit en permanence.
 navigation-sign-up = Créer un compte
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn } : Rapide. Simple. Privé.
+navigation-protect-your-entire-device = Protégez l’ensemble de votre appareil et toutes ses applications. Masquez votre emplacement réel et connectez jusqu’à 5 appareils différents. Abonnez-vous maintenant.
 # Outdated string
 navigation-connected-and-protected = Connecté et protégé
 navigation-join = Rejoindre
@@ -90,6 +94,7 @@ navigation-add-ons = Modules complémentaires
 navigation-projects = Projets
 navigation-close-projects-menu = Fermer le menu Projets
 navigation-donate-your-voice-to = Donnez de votre voix pour que la reconnaissance vocale soit ouverte à tous.
+navigation-machine-learning = Apprentissage automatique
 # Outdated string
 navigation-web-of-things-iot = Internet des objets (IoT)
 # Outdated string

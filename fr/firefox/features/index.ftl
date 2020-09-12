@@ -8,6 +8,7 @@
 # HTML page title
 features-index-protect-your-privacy-and-browse = Protégez votre vie privée et naviguez plus rapidement grâce aux fonctionnalités de { -brand-name-firefox }
 features-index-see-all = Voir toutes les extensions
+features-index-get-an-account = Créer un { -brand-name-firefox-account }
 features-index-open-source-minds = Logiciel libre. Esprits libres.
 features-index-see-what-makes-us-different = Voyez en quoi nous sommes différents
 features-index-choose-independence = Choisissez l’indépendance
