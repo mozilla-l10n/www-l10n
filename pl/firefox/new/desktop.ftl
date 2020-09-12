@@ -38,6 +38,10 @@ firefox-desktop-download-os-availability = Dostępna w różnych systemach oper
 firefox-desktop-download-in-browser-screenshot = Wbudowane narzędzie do wykonywania zrzutów ekranu
 firefox-desktop-download-master-password = Hasło główne
 firefox-desktop-download-we-block-the-ad = My blokujemy śledzące reklamy. Ty szybciej przeglądasz Internet.
+firefox-desktop-download-ads-are-distracting = Reklamy rozpraszają uwagę i spowalniają wczytywanie stron, a ich elementy śledzące obserwują Twój każdy ruch w sieci. { -brand-name-firefox-browser } automatycznie blokuje większość elementów śledzących, więc nie ma potrzeby zagłębiać się w ustawienia bezpieczeństwa.
+firefox-desktop-download-see-your-report = Zobacz swój raport ochrony
+firefox-desktop-download-for-everyone = { -brand-name-firefox } jest dla wszystkich
+firefox-desktop-download-available-in-over = Dostępny w ponad 90 językach i zgodny z systemami { -brand-name-windows }, { -brand-name-mac-short } i { -brand-name-linux }, { -brand-name-firefox } działa bez względu na to, czego używasz i gdzie jesteś. Upewnij się, że Twój system operacyjny jest aktualny, aby przeglądarka mogła działać jak najlepiej.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
