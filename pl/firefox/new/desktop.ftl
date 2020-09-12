@@ -63,9 +63,20 @@ firefox-desktop-download-spell-check = Sprawdzanie pisowni
 firefox-desktop-download-pinned-tabs = Przypięte karty
 firefox-desktop-download-stream-share-play = Streamuj, udostępniaj i graj
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Blokowanie automatycznego odtwarzania wideo i dźwięku
+firefox-desktop-download-block-autoplay-of = Blokuj automatyczne odtwarzanie wideo i dźwięku
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Obraz w obrazie
+firefox-desktop-download-curated-content-on = Wyselekcjonowane treści na stronie nowej karty
+firefox-desktop-download-share-links = Udostępniaj odnośniki
+firefox-desktop-download-protect-your-privacy = Chroń swoją prywatność
+firefox-desktop-download-third-party-cookie = Blokowanie ciasteczek zewnętrznych witryn
+firefox-desktop-download-fingerprinter-blocking = Blokowanie elementów śledzących przez zbieranie informacji o konfiguracji
+firefox-desktop-download-cryptominer-blocking = Blokowanie elementów używających komputera użytkownika do generowania kryptowalut
+firefox-desktop-download-private-browsing-mode = Tryb prywatny
+firefox-desktop-download-individual-protections-report = Raport poszczególnych zabezpieczeń
+firefox-desktop-download-secure-your-personal = Zabezpiecz swoje dane osobowe
+firefox-desktop-download-breached-website-alerts = Powiadomienia o witrynach z wyciekami haseł
+firefox-desktop-download-built-in-password = Wbudowany menedżer haseł
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
