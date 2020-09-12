@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Berre last ned nettlesaren
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">kjem ikkje lenger med sikkerheitsoppdateringar</a> for { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan enno bruke { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Du brukar eit utrygt og forelda operativsystem, <a href="{ $url }">som ikkje lenger er støtta av { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = Det er <strong>personvern og sikkerheit</
 firefox-new-its-a-family-of-products = Det er ein <strong>produktfamilie</strong> som behandlar personopplysningane dine med respekt.
 firefox-new-its-everything-you-need-to = Det er alt du treng å vite om <strong>å vere trygg på nettet</strong>.
 firefox-new-its-a-community-that-believes = Det er <strong>eit fellesskap</strong> som trur at teknologi kan gjere det betre.
+firefox-new-download-interrupted = Nedlastinga di vart avbroten. Men alt er ikkje tapt.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Følg <a href="{ $url }">denne rettleiinga</a> for å installere { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Systemet ditt oppfyller kanskje ikkje krava for { -brand-name-firefox }, men du kan prøve ein av <a href="{ $url }">desse versjonane</a>.

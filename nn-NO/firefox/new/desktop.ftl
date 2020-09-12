@@ -167,3 +167,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Du brukar eit utrygt
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Nedlastinga di bør starte automatisk. Fungerte det ikkje? <a id="{ $id }" href="{ $fallback_url }">Prøv å laste ned på nytt.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meir enn ein nettlesar.
+firefox-desktop-download-interrupted = Nedlastinga di vart avbroten. Men alt er ikkje tapt.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Følg <a href="{ $url }">denne rettleiinga</a> for å installere { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Systemet ditt oppfyller kanskje ikkje krava for { -brand-name-firefox }, men du kan prøve ein av <a href="{ $url }">desse versjonane</a>.
