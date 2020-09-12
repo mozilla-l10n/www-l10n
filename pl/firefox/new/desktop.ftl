@@ -42,6 +42,25 @@ firefox-desktop-download-ads-are-distracting = Reklamy rozpraszają uwagę i sp
 firefox-desktop-download-see-your-report = Zobacz swój raport ochrony
 firefox-desktop-download-for-everyone = { -brand-name-firefox } jest dla wszystkich
 firefox-desktop-download-available-in-over = Dostępny w ponad 90 językach i zgodny z systemami { -brand-name-windows }, { -brand-name-mac-short } i { -brand-name-linux }, { -brand-name-firefox } działa bez względu na to, czego używasz i gdzie jesteś. Upewnij się, że Twój system operacyjny jest aktualny, aby przeglądarka mogła działać jak najlepiej.
+firefox-desktop-download-review-system-req = Przejrzyj wymagania systemowe
+firefox-desktop-download-all-your-devices = Zainstaluj { -brand-name-firefox(case: "acc") } na wszystkich urządzeniach
+firefox-desktop-download-take-your-privacy = Ciesz się prywatnością gdziekolwiek jesteś. { -brand-name-firefox-browsers } na { -brand-name-ios } i { -brand-name-android(case: "acc") } mają te same silne ustawienia prywatności blokujące elementy śledzące przed chodzeniem za Tobą w sieci, niezależnie gdzie jesteś.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Zrób to <strong>wszystko</strong> dzięki { -brand-name-firefox(case: "dat") }
+firefox-desktop-download-search-smarter = Wyszukuj mądrzej, szybciej
+firefox-desktop-download-search-from-address = Wyszukuj z paska adresu
+firefox-desktop-download-search-engine-options = Opcje wyszukiwarek
+firefox-desktop-download-smart-search-suggestions = Inteligentne podpowiedzi wyszukiwania
+firefox-desktop-download-bookmark-history = Zakładki, historia i otwarte karty w wynikach
+firefox-desktop-download-boost-your = Zwiększ swoją produktywność
+firefox-desktop-download-works-with-google = Działa z produktami firmy { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Wbudowane narzędzie do zrzutów ekranu
+firefox-desktop-download-bookmarks-manager = Menedżer zakładek
+firefox-desktop-download-autosuggest-urls = Automatyczne podpowiadanie adresów
+firefox-desktop-download-sync-across-devices = Synchronizuj między urządzeniami
+firefox-desktop-download-reader-mode = Tryb poprawionej czytelności
+firefox-desktop-download-spell-check = Sprawdzanie pisowni
+firefox-desktop-download-pinned-tabs = Przypięte karty
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
