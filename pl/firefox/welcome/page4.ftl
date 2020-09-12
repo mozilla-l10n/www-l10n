@@ -8,10 +8,8 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na telefon z { -brand-name-ios } i { -brand-name-android(case: "ins") }
 welcome-page4-wallet-keys-phone-firefox = Portfel. Klucze. Telefon. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Prywatność na każdym ekranie
+welcome-page4-privacy-every-screen-now = Prywatność na każdym ekranie
 welcome-page4-take-privacy-with-you-on-every = Ciesz się prywatnością na każdym urządzeniu — i pożegnaj się z elementami śledzącymi.
-welcome-page4-on-the-move-at-home = W drodze lub po prostu w domu — korzystaj z prywatności, na jaką zasługujesz.
-welcome-page4-get-the-firefox-app = Pobierz { -brand-name-firefox(case: "acc") } na telefon
 welcome-page4-get-firefox-on-your-phone = Zainstaluj { -brand-name-firefox(case: "acc") } na telefonie
 welcome-page4-send-the-download-link-right = Wyślij odnośnik do pobrania na swój telefon lub e-mail.
 welcome-page4-download-firefox-for-your = Pobierz { -brand-name-firefox(case: "acc") } na telefon i tablet.
