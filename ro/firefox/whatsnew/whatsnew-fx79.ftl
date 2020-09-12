@@ -12,6 +12,8 @@ whatsnew79-main-title = Ține-ți datele personale confidențiale față de toț
 whatsnew79-main-intro = Internetul ar trebui să fie un loc sigur pentru toți. De aceea { -brand-name-firefox } nu te urmărește peste tot online și îi împiedică și pe alții să o facă.
 # Main CTA button
 whatsnew79-primary-cta = Definește { -brand-name-firefox } ca implicit
+# Fallback CTA button, shown if Firefox is already a user's default browser
+whatsnew79-fallback-cta = Obține aplicația { -brand-name-firefox }
 whatsnew79-secure-your-connection = Securizează-ți conexiunea
 whatsnew79-with-one-tap-mozilla-vpn = Cu o atingere, { -brand-name-mozilla-vpn } îți criptează conexiunea pentru a-ți menține activitatea online confidențială în orice rețea - în siguranță față de hackeri și alți ochi curioși.
 # CTA link

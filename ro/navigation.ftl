@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descarcă { -brand-name-firefox }
+navigation-get-a-firefox-account = Obține { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pentru calculator
+navigation-get-the-browser-that-respects = Obține browserul care respectă confidențialitatea ta în mod automat. Pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pentru dispozitive mobile
 navigation-take-speed-privacy-and = Ia cu tine viteza, intimitatea și liniștea sufletească. Pe { -brand-name-android } și { -brand-name-ios }.
 navigation-download-for-ios = Descarcă pentru { -brand-name-ios }
@@ -16,6 +18,7 @@ navigation-firefox-browsers-put = Browserele { -brand-name-firefox } îți pun �
 navigation-take-the-passwords-youve = Ia cu tine peste tot parolele pe care le-ai salvat în { -brand-name-firefox }.
 # Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } reprezintă o familie întreagă de produse concepute pentru a te menține într-o mai mare siguranță și mai inteligent online.
+navigation-join-firefox = Alătură-te { -brand-name-firefox }
 navigation-meet-the-firefox-family = Descoperă familia { -brand-name-firefox }
 navigation-firefox-blog = Blog { -brand-name-firefox }
 navigation-learn-how-firefox-treats = Află cum îți tratează cu respect { -brand-name-firefox } datele.
