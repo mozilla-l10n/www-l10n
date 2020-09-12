@@ -9,6 +9,7 @@
 whatsnew81-page-title = Qual novas re { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Un nove { -brand-name-firefox } pro cata apparato
+whatsnew81-main-intro = Qualcunque sia tu systema operative, ora tu pote installar le navigator mobile sin scopo de lucro melior de sempre.
 whatsnew81-send-form-label = Insere tu email pro obtener le ligamine de discargamento.
 whatsnew81-send-form-label-alt = Insere tu email o numero de telephono pro obtener le ligamine de discargamento.
 whatsnew81-scan-this-qr-code = Scande iste codice QR pro discargar

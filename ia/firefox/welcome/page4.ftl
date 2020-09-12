@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Discarga le { -brand-name-firefox-browser } pro { -brand-name-ios } e { -brand-name-android } sur tu apparato mobile
 welcome-page4-wallet-keys-phone-firefox = Bursa. Claves. Telephono. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Discoperi le confidentialitate in tote tu schermos
+welcome-page4-privacy-every-screen-now = Discoperi ora le confidentialitate in tote tu schermos
 welcome-page4-take-privacy-with-you-on-every = Porta le vita private con te sur omne apparato. Lassa retro le spias que tracia tu datos.
-welcome-page4-on-the-move-at-home = A casa o in movimento, con le confidentialitate que tu merita.
-welcome-page4-get-the-firefox-app = Obtene { -brand-name-firefox }
+welcome-page4-privacy-on-by-default = Tu confidentialitate es predefinite con le nove { -brand-name-firefox } pro { -brand-name-android } e ora tu pote render { -brand-name-firefox } tu navigator ordinari sur { -brand-name-ios } 14.
+welcome-page4-get-the-firefox-mobile = Installa { -brand-name-firefox } Mobile
 welcome-page4-get-firefox-on-your-phone = Installa { -brand-name-firefox } sur tu telephono
 welcome-page4-send-the-download-link-right = Invia le ligamine de discargamento directemente a tu telephono o adresse de e-mail.
 welcome-page4-download-firefox-for-your = Discarga { -brand-name-firefox } pro telephonos intelligente e tablettas.
