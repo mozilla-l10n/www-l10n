@@ -129,7 +129,7 @@ firefox-desktop-download-as-the-internet = Wraz z rozwojem i zmianami Internet
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jest dostępny na wszystkich urządzeniach — miej karty, historię i zakładki zawsze przy sobie. <a { $attrs }>Konto { -brand-name-firefox(case: "gen") }</a> to wszystko, czego potrzebujesz.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Wykonaj zrzut ekranu o wysokiej rozdzielczości za pomocą naszego <a { $attrs }>narzędzia</a> wbudowanego w przeglądarkę.
+firefox-desktop-download-grab-a-high = Wykonuj zrzuty ekranu o wysokiej rozdzielczości za pomocą naszego <a { $attrs }>narzędzia</a> wbudowanego w przeglądarkę.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automatycznie <a { $attrs }>blokuje wiele elementów śledzących zewnętrznych witryn</a> przed zbieraniem i sprzedawaniem Twoich działań w sieci.
