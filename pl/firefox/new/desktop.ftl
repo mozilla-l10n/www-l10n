@@ -37,6 +37,7 @@ firefox-desktop-download-blocks-social-trackers = Blokuje elementy śledzące se
 firefox-desktop-download-os-availability = Dostępna w różnych systemach operacyjnych
 firefox-desktop-download-in-browser-screenshot = Wbudowane narzędzie do wykonywania zrzutów ekranu
 firefox-desktop-download-master-password = Hasło główne
+firefox-desktop-download-we-block-the-ad = My blokujemy śledzące reklamy. Ty szybciej przeglądasz Internet.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
