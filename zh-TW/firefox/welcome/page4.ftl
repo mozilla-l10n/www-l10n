@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = 在您的 { -brand-name-ios } 或 { -brand-name-android } 行動裝置下載 { -brand-name-firefox-browser }
 welcome-page4-wallet-keys-phone-firefox = 出門前別忘了手機、錢包、鑰匙，還有 <strong>{ -brand-name-firefox }</strong>。
-welcome-page4-privacy-every-screen = 在各種大小螢幕的裝置上都能獲得隱私保護
+welcome-page4-privacy-every-screen-now = 現在為其他螢幕大小的裝置也獲得隱私保護
 welcome-page4-take-privacy-with-you-on-every = 把密碼放到您的每一台裝置上隨身攜帶，並且把資料追蹤器拋到九霄雲外。
-welcome-page4-on-the-move-at-home = 不論在家或是出門在外，隱私都是您應有的權利。
-welcome-page4-get-the-firefox-app = 下載 { -brand-name-firefox }
+welcome-page4-privacy-on-by-default = 使用自動開啟隱私保護功能的全新 { -brand-name-firefox } for { -brand-name-android } — 從 { -brand-name-ios } 14 起也可以將 { -brand-name-firefox } 設為預設瀏覽器了。
+welcome-page4-get-the-firefox-mobile = 下載 { -brand-name-firefox } Mobile
 welcome-page4-get-firefox-on-your-phone = 在手機上安裝 { -brand-name-firefox }
 welcome-page4-send-the-download-link-right = 將下載鏈結發送到您的手機或信箱。
 welcome-page4-download-firefox-for-your = 為您的智慧型手機或平板電腦下載 { -brand-name-firefox }。
