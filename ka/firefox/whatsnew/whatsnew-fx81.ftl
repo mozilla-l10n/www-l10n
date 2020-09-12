@@ -15,3 +15,6 @@ whatsnew81-send-form-label-alt = მიუთითეთ ელფოსტა 
 whatsnew81-scan-this-qr-code = წააკითხეთ QR-კოდი ჩამოტვირთვისთვის
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = ახალი { -brand-name-firefox } { -brand-name-android }-ზე უკვე აქაა
+whatsnew81-our-latest-for-android-has = ჩვენი უახლესი { -brand-name-android } აღჭურვილია მეტად სახალისო, გონივრული შესაძლებლობებით – მათ შორისაა მოძრავი საძიებო ველი. ვინაიდან, დამოუკიდებელ ბრაუზერს წარმოვადგენთ, საშუალებას გაძლევთ თავად განსაზღვროთ ცერა თითის მიმართულება.
+whatsnew81-make-firefox-your-everyday = გახადეთ { -brand-name-firefox } თქვენი ყოველდღიური ბრაუზერი { -brand-name-ios }-ზე
+whatsnew81-attention-iphone-people = გაცნობებთ { -brand-name-iphone }-ის მფლობელებს: { -brand-name-ios } 14-ში, როგორც იქნა, უკვე შეგიძლიათ მიუთითოთ { -brand-name-firefox } თქვენს მუდმივ გზამკვლევად, ყოველდღიური საქმისთვის ძირითად ბრაუზერად. დარწმუნდით, რომ გიყენიათ უახლესი { -brand-name-firefox } { -brand-name-ios }-ზე.
