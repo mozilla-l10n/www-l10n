@@ -10,6 +10,8 @@ firefox-all-release-notes = Note privind versiunea
 firefox-all-source-code = Cod sursă
 firefox-all-need-help = Ai nevoie de ajutor?
 firefox-all-which-browser-would = Ce browser dorești să descarci?
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Obține ajutor
 firefox-all-you-are-about-to-download = Ești pe cale să descarci:
 firefox-all-browser = Browser:
 firefox-all-platform = Platformă:
