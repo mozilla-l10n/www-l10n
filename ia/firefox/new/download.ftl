@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = Discarga le navigator
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">non forni plus le actualisationes de securitate</a> sur { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, ma tu pote ancora usar { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
