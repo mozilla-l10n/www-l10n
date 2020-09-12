@@ -101,6 +101,23 @@ firefox-desktop-download-keep-all-your = Zachowaj wszystkie ulubione funkcje prz
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Wszystkie Twoje ulubione narzędzia { -brand-name-google } (takie jak Gmail i Docs) bezproblemowo działają w { -brand-name-firefox-browser(case: "loc", capitalization: "lower") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Pobierz to rozszerzenie do przeglądarki</a>, aby uniemożliwić { -brand-name-facebook(case: "dat") } (i { -brand-name-instagram(case: "dat") }) śledzenie Cię w Internecie.
+firefox-desktop-download-sync-your-devices = Synchronizuj swoje urządzenia
+firefox-desktop-download-screenshots = Zrzuty ekranu
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
+firefox-desktop-download-from-watching-a = Od oglądania samouczka po obserwowanie swojej ulubionej drużyny, wideo jest zawsze przy Tobie, kiedy robisz wiele rzeczy jednocześnie.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na <strong>{ -brand-name-android(case: "acc") }</strong>
+firefox-desktop-download-get-firefox-ios = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Pobierz przeglądarkę { -brand-name-firefox } na telefon, aby automatycznie chronić wszystkie swoje urządzenia.
+firefox-desktop-download-learn-about-the = Poniżej znajdziesz więcej informacji o przeglądarce { -brand-name-firefox } na komputery
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od bezpieczeństwa po aktualności i gry, dla każdego znajdzie się <a { $attrs }>rozszerzenie</a>. Dodaj ich tyle, ile chcesz, aż przeglądarka będzie idealna dla Ciebie.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
