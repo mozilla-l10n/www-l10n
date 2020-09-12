@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = უბრალოდ ჩამოტვ
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელსაც <a href="{ $url }">აღარ უჭერს მხარს { -brand-name-firefox }</a>.
@@ -54,3 +55,10 @@ firefox-new-its-privacy-and-peace-of = იგი <strong>პირადულ�
 firefox-new-its-a-family-of-products = იგი <strong>პროდუქტების ნაკრებია,</strong> რომელიც ღირსეულად ეპყრობა თქვენს პირად მონაცემებს.
 firefox-new-its-everything-you-need-to = იგი ყველაფერია, რაც უნდა იცოდეთ, <strong>ინტერნეტით უსაფრთხო სარგებლობაზე</strong>.
 firefox-new-its-a-community-that-believes = იგი იმ <strong>ერთობის</strong> ნაწილია, რომელსაც მიაჩნია, რომ ტექნოლოგიები მეტად უკეთესი შეიძლება იყოს.
+firefox-new-download-interrupted = თქვენი ჩამოტვირთვა შეწყდა. მაგრამ ჯერ ყველაფერი არაა დაკარგული.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = გთხოვთ, { -brand-name-firefox }-ის დასაყენებლად მიჰყვეთ <a href="{ $url }">ამ მითითებებს</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = თქვენი სისტემა შესაძლოა { -brand-name-firefox }-ის მოთხოვნებს ვერ აკმაყოფილებდეს, თუმცა შეგიძლიათ სცადოთ ერთ-ერთი <a href="{ $url }">ამ ვერსიებიდან</a>.
