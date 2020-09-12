@@ -7,6 +7,8 @@
 
 # HTML page title
 features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Marcaje mai bune oriunde ai merge
+# HTML page description
+features-bookmarks-easily-organize-your-bookmarks = Organizează ușor marcajele într-un dosar și accesează-le de pe toate dispozitivele desktop și mobile.
 features-bookmarks-better-bookmarks = Marcaje mai bune
 features-bookmarks-dont-agonize-lovers-of = Nu vă faceți griji, iubitori ai marcajelor. Organizați-le cu { -brand-name-firefox }.
 # File means to save (that bookmark).
@@ -15,6 +17,7 @@ features-bookmarks-file-that-bookmark = Salvează marcajul
 features-bookmarks-get-your-faves-all-sorted = Sortează toate favoritele cu pictograma steluță, care îți permite să adaugi rapid nume și dosare personalizate. Apoi intră în bara de marcaje ca să nu pierzi niciodată linkurile preferate.
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Ia cu tine marcajul
+features-bookmarks-customize-that-bookmark = Particularizează acel marcaj
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Experimentează cu marcajele

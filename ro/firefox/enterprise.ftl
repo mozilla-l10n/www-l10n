@@ -10,6 +10,7 @@ firefox-enterprise-get-unmatched-data-protection = Obține o protecție neegalat
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Prezentare generală
 firefox-enterprise-downloads = Descărcări
+firefox-enterprise-get-firefox-for-your-enterprise = Obține { -brand-name-firefox } pentru afacerea ta
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Instalează <a href="{ $url }">{ -brand-name-firefox-extended-support-release } sau cu actualizare rapidă</a> pentru o securitate și o protecție complete ale datelor.

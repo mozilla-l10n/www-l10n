@@ -29,6 +29,7 @@ firefox-accounts-meet-our-family-of = Fă cunoștință cu familia noastră de p
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } este tehnologia care luptă pentru tine.
 firefox-accounts-get-technology-that = Obține tehnologia care luptă pentru tine.
 firefox-accounts-travel-the-internet = Călătorește pe internet cu protecție pe fiecare dispozitiv.
+firefox-accounts-keep-your-passwords = Păstrează parolele protejate și portabile.
 firefox-accounts-get-a-lookout-for = Aruncă un ochi la încălcările securității datelor.
 firefox-accounts-share-large-files = Partajează fișiere mari fără priviri indiscrete.
 firefox-accounts-get-it-all-on-every = Obține-le pe toate pe fiecare dispozitiv, fără să te simți captiv unui singur sistem de operare.
