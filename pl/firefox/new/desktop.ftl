@@ -145,3 +145,32 @@ firefox-desktop-download-just-download-the-browser = Tylko pobierz przeglądark�
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Prawie gotowe!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Teraz dokończ <strong>instalowanie</strong> { -brand-name-firefox(case: "gen") }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Teraz <strong>uruchom</strong> właśnie pobranego instalatora.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Teraz <strong>otwórz</strong> właśnie pobrany plik.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Masz problem? <a { $attrs }>Przeczytaj pomoc na temat instalacji</a>.
+firefox-desktop-download-in-another-language = Pobierz w innym języku lub dla innego systemu operacyjnego.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nie zapewnia już aktualizacji zabezpieczeń</a> w systemach { -brand-name-windows } { -brand-name-xp } i { -brand-name-vista }, ale nadal można na nich używać { -brand-name-firefox(case: "gen") }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Używasz niebezpiecznego, przestarzałego systemu operacyjnego, który <a href="{ $url }">nie jest już obsługiwany przez { -brand-name-firefox(case: "acc") }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Pobieranie powinno rozpocząć się samoczynnie. Jeśli nie, to <a id="{ $id }" href="{ $fallback_url }">spróbuj jeszcze raz</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } to więcej niż przeglądarka.
+firefox-desktop-download-interrupted = Pobieranie zostało przerwane. Ale nie wszystko stracone.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Instrukcje, jak <a href="{ $url }">zainstalować { -brand-name-firefox(case: "gen") }</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Używany system operacyjny może nie spełniać wymagań { -brand-name-firefox(case: "gen") }, można jednak spróbować jedną z <a href="{ $url }">tych wersji</a>.
