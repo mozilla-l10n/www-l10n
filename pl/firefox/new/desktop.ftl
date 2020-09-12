@@ -77,6 +77,20 @@ firefox-desktop-download-individual-protections-report = Raport poszczególnych 
 firefox-desktop-download-secure-your-personal = Zabezpiecz swoje dane osobowe
 firefox-desktop-download-breached-website-alerts = Powiadomienia o witrynach z wyciekami haseł
 firefox-desktop-download-built-in-password = Wbudowany menedżer haseł
+firefox-desktop-download-clear-history = Czyszczenie historii
+firefox-desktop-download-form-autofill = Automatyczne wypełnianie formularzy
+firefox-desktop-download-automatic-updates = Automatyczne aktualizacje
+firefox-desktop-download-customize-your-browser = Dostosuj swoją przeglądarkę
+firefox-desktop-download-themes = Motywy
+firefox-desktop-download-dark-mode = Tryb ciemny
+firefox-desktop-download-library-of-extensions = Biblioteka rozszerzeń
+firefox-desktop-download-adjust-search-bar = Dostosuj ustawienia paska wyszukiwania
+firefox-desktop-download-change-new-tab = Zmień układ strony nowej karty
+firefox-desktop-download-make-firefox-your = Dostosuj <strong>{ -brand-name-firefox(case: "acc") }</strong> do swoich potrzeb
+firefox-desktop-download-extensions-for-every = Rozszerzenia dla każdego hobby
+firefox-desktop-download-change-up-your = Odmień swój wygląd
+firefox-desktop-download-go-from-light = Przejdź z trybu jasnego do ciemnego w zależności od nastroju lub upodobania, albo nawet ożyw przeglądarkę innym motywem (może z tęczowym jednorożcem?).
+firefox-desktop-download-tweak-your-settings = Podrasuj swoje ustawienia
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
