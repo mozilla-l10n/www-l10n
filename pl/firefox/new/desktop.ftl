@@ -118,6 +118,30 @@ firefox-desktop-download-learn-about-the = Poniżej znajdziesz więcej informacj
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Od bezpieczeństwa po aktualności i gry, dla każdego znajdzie się <a { $attrs }>rozszerzenie</a>. Dodaj ich tyle, ile chcesz, aż przeglądarka będzie idealna dla Ciebie.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } został stworzony przez <a { $attrs }>{ -brand-name-mozilla(case: "acc") }</a> jako szybsza, bardziej prywatna alternatywa dla przeglądarek takich jak { -brand-name-ie }, a teraz { -brand-name-chrome }. Dzisiaj, nasza firma z misją i społeczność wolontariuszy stawiają Twoją prywatność ponad wszystko inne.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Wraz z rozwojem i zmianami Internetu, { -brand-name-firefox } nadal skupia się na Twoim prawie do prywatności — nazywamy to <a { $attrs }>obietnicą o danych osobowych</a>: zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic. Twoje dane, Twoje działania w sieci, Twoje życie w Internecie jest chronione przez { -brand-name-firefox(case: "acc") }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jest dostępny na wszystkich urządzeniach — miej karty, historię i zakładki zawsze przy sobie. <a { $attrs }>Konto { -brand-name-firefox(case: "gen") }</a> to wszystko, czego potrzebujesz.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Wykonaj zrzut ekranu o wysokiej rozdzielczości za pomocą naszego <a { $attrs }>narzędzia</a> wbudowanego w przeglądarkę.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automatycznie <a { $attrs }>blokuje wiele elementów śledzących zewnętrznych witryn</a> przed zbieraniem i sprzedawaniem Twoich działań w sieci.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Pytania? <a { $attrs }>Pomoc { -brand-name-mozilla(case: "gen") }</a> ma odpowiedzi.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Masz już przeglądarkę. Teraz wyciągnij z { -brand-name-firefox(case: "gen") } jeszcze więcej.
+firefox-desktop-download-watch-for-hackers-with = Uważaj na hakerów za pomocą { -brand-name-firefox-monitor }, chroń hasła dzięki { -brand-name-firefox-lockwise } i nie tylko.
+firefox-desktop-download-get-more-from-firefox = Wyciągnij więcej z { -brand-name-firefox(case: "gen") }
+firefox-desktop-download-just-download-the-browser = Tylko pobierz przeglądarkę
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Prawie gotowe!
