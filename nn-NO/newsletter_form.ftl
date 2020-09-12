@@ -6,7 +6,7 @@ newsletter-form-please-enter-a-valid = Skriv inn ei gyldig e-postadresse.
 newsletter-form-you-must-agree-to = Du må godta personvernerklæringa
 newsletter-form-your-email-address = Di e-postadresse
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = dittnamn@eksempel.no
+newsletter-form-yournameexamplecom = namnetditt@eksempel.no
 newsletter-form-select-country-or-region = Vel land eller region
 newsletter-form-your-email-here = DI EPOSTADRESSE HER
 newsletter-form-format = Format
