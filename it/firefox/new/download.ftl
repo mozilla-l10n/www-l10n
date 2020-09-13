@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Basta scaricare il browser
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Stai utilizzando un sistema operativo insicuro, obsoleto e <a href="{ $url }">non più supportato da { -brand-name-firefox }</a>.
@@ -54,3 +55,6 @@ firefox-new-its-privacy-and-peace-of = <strong>Privacy e serenità</strong> anch
 firefox-new-its-a-family-of-products = Una <strong>famiglia di prodotti</strong> che rispetta i tuoi dati personali.
 firefox-new-its-everything-you-need-to = Tutto ciò che ti serve sapere per <strong>muoverti online in piena sicurezza</strong>.
 firefox-new-its-a-community-that-believes = <strong>Una comunità</strong> che ritiene che la tecnologia possa fare molto di più.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Segui <a href="{ $url }">queste istruzioni</a> per installare { -brand-name-firefox }.
