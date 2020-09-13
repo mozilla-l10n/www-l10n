@@ -155,6 +155,9 @@ firefox-desktop-download-now-mac = Ora <strong>apri</strong> il file appena scar
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemi? <a { $attrs }>Ottieni assistenza per l’installazione</a>.
 firefox-desktop-download-in-another-language = Scarica il programma in un’altra lingua o per un altro sistema operativo.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">non fornisce più aggiornamenti di sicurezza</a> per { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, ma puoi comunque continuare a utilizzare { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
