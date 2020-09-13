@@ -155,6 +155,7 @@ firefox-desktop-download-now-mac = Nyní tento stažený soubor <strong>otevřet
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Máte potíže? <a { $attrs }>Rádi vám s instalací pomůžeme</a>.
 firefox-desktop-download-in-another-language = Stáhnout v jiném jazyce nebo pro jiný operační systém.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Používáte zastaralou a ne zcela bezpečnou verzi operačního systému, <a href="{ $url }">kterou už { -brand-name-firefox } nepodporuje</a>.
@@ -163,3 +164,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Používáte zastara
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Vaše stahování by mělo začít automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Zkuste to znova</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je víc než jenom prohlížeč.
+firefox-desktop-download-interrupted = Vaše stahování bylo přerušeno. Ale nic není ztraceno.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Pro instalaci { -brand-name-firefox(case: "gen") } prosím <a href="{ $url }">postupujte podle těchto pokynů</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Váš systém nemusí splňovat požadavky pro { -brand-name-firefox(case: "acc") }, ale můžete zkusit některou <a href="{ $url }">z těchto verzí</a>.

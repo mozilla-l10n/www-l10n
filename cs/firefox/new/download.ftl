@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Stáhněte si prohlížeč
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Používáte zastaralou a ne zcela bezpečnou verzi operačního systému, <a href="{ $url }">kterou už { -brand-name-firefox } nepodporuje</a>.
@@ -54,3 +55,10 @@ firefox-new-its-privacy-and-peace-of = Je to také <strong>soukromí a klid na d
 firefox-new-its-a-family-of-products = Je to <strong>rodina produktů</strong>, která s vašimi osobními daty zachází s respektem.
 firefox-new-its-everything-you-need-to = Je to všechno, co potřebujete vědět o tom, jak <strong>na internetu zůstat v bezpečí</strong>.
 firefox-new-its-a-community-that-believes = Je to <strong>komunita</strong>, která věří, že technologie má na víc.
+firefox-new-download-interrupted = Vaše stahování bylo přerušeno. Ale nic není ztraceno.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Pro instalaci { -brand-name-firefox(case: "gen") } prosím <a href="{ $url }">postupujte podle těchto pokynů</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Váš systém nemusí splňovat požadavky pro { -brand-name-firefox(case: "acc") }, ale můžete zkusit některou <a href="{ $url }">z těchto verzí</a>.
