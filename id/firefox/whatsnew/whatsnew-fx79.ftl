@@ -13,3 +13,6 @@ whatsnew79-secure-your-connection = Amankan sambungan anda
 # CTA link
 whatsnew79-get-started = Memulai
 whatsnew79-get-more-control-over = Dapatkan kendali lebih atas pelacak
+whatsnew79-update-your-firefox = Perbarui peramban { -brand-name-firefox } Anda
+whatsnew79-download-the-firefox = Unduh peramban { -brand-name-firefox }
+whatsnew79-scan-the-qr-code = Pindai kode QR untuk memulai

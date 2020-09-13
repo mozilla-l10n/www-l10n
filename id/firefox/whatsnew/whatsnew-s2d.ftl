@@ -11,4 +11,4 @@ whatsnew-s2d-want-privacy-on-every-device = Ingin privasi di setiap peranti?
 whatsnew-s2d-you-got-it-get-firefox-for = Tentu bisa. Dapatkan { -brand-name-firefox } untuk ponsel.
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Kirim { -brand-name-firefox } ke ponsel Anda<br> dan lancarkan Internet Anda.
-whatsnew-s2d-download-firefox-for-your = Unduh { -brand-name-firefox } untuk ponsel pintar dan tablet Anda.
+whatsnew-s2d-download-firefox-for-your = Unduh { -brand-name-firefox } untuk ponsel dan tablet Anda.

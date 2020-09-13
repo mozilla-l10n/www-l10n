@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Cukup Unduh Perambannya
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Anda menggunakan sistem operasi usang dan tidak aman yang <a href="{ $url }">tidak didukung lagi oleh { -brand-name-firefox }</a>.
@@ -54,3 +55,9 @@ firefox-new-its-privacy-and-peace-of = Kami pun utamakan <strong>privasi dan ket
 firefox-new-its-a-family-of-products = Inilah <strong>jajaran produk</strong> yang menangani data pribadi Anda dengan hormat.
 firefox-new-its-everything-you-need-to = Inilah semua yang perlu Anda ketahui agar <strong>tetap aman saat daring</strong>.
 firefox-new-its-a-community-that-believes = Inilah <strong>sebuah komunitas</strong> yang percaya teknologi dapat berbuat lebih baik.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Silakan ikuti <a href="{ $url }">instruksi ini</a> untuk memasang { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda bisa mencoba <a href="{ $url }">versi berikut</a>.
