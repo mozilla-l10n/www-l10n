@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Scarica il { -brand-name-firefox-browser } sul tuo dispositivo mobile per { -brand-name-ios } e { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Portafoglio. Chiavi. Telefono. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Ottieni la privacy su ogni schermo
+welcome-page4-privacy-every-screen-now = Ottieni subito la privacy su ogni schermo
 welcome-page4-take-privacy-with-you-on-every = Assicurati la privacy su ogni dispositivo e taglia fuori chi cerca di tracciare i tuoi dati.
-welcome-page4-on-the-move-at-home = La privacy che meriti, sia a casa che in giro con te
-welcome-page4-get-the-firefox-app = Scarica l’app { -brand-name-firefox }
+welcome-page4-privacy-on-by-default = Con il nuovo { -brand-name-firefox } per { -brand-name-android }, la tua privacy è attiva per impostazione predefinita… e ora puoi anche impostare { -brand-name-firefox } come browser predefinito su { -brand-name-ios } 14.
+welcome-page4-get-the-firefox-mobile = Ottieni { -brand-name-firefox } mobile
 welcome-page4-get-firefox-on-your-phone = Installa { -brand-name-firefox } sul tuo telefono
 welcome-page4-send-the-download-link-right = Invia il link d’installazione direttamente al tuo telefono o alla tua email.
 welcome-page4-download-firefox-for-your = Installa { -brand-name-firefox } su telefono e tablet.

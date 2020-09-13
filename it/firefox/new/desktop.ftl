@@ -167,6 +167,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Stai utilizzando un 
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Il download dovrebbe iniziare automaticamente. In caso contrario, <a id="{ $id }" href="{ $fallback_url }">fai clic qui</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è molto più di un browser.
+firefox-desktop-download-interrupted = Il download è stato interrotto, ma non tutto è perduto.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Segui <a href="{ $url }">queste istruzioni</a> per installare { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Anche se il tuo sistema non possiede i requisiti per utilizzare { -brand-name-firefox }, puoi comunque provare con una delle <a href="{ $url }">seguenti versioni</a>.
