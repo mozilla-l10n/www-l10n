@@ -8,10 +8,8 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Unduh { -brand-name-firefox-browser } di Ponsel Anda untuk { -brand-name-ios } dan { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Dompet. Kunci. Telepon. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Dapatkan privasi di setiap layar
 welcome-page4-take-privacy-with-you-on-every = Bawa privasi dengan Anda di setiap perangkat - dan tinggalkan pelacak data.
-welcome-page4-on-the-move-at-home = Saat dalam perjalanan atau hanya di rumah saja — dapatkan privasi yang layak Anda dapatkan.
-welcome-page4-get-the-firefox-app = Dapatkan aplikasi { -brand-name-firefox }
+welcome-page4-get-the-firefox-mobile = Dapatkan { -brand-name-firefox } Mobile
 welcome-page4-get-firefox-on-your-phone = Dapatkan { -brand-name-firefox } di ponsel Anda
 welcome-page4-send-the-download-link-right = Kirim tautan unduhan langsung ke ponsel atau surel Anda.
 welcome-page4-download-firefox-for-your = Unduh { -brand-name-firefox } untuk ponsel pintar dan tablet Anda.
