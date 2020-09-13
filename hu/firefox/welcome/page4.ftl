@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Töltse le a { -brand-name-firefox-browser }t a mobiljára { -brand-name-ios }-en és { -brand-name-android }on
 welcome-page4-wallet-keys-phone-firefox = Pénztárca. Kulcsok. Telefon. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Szerezzen adatvédelmet minden képernyőn
+welcome-page4-privacy-every-screen-now = Most szerezzen adatvédelmet minden képernyőn
 welcome-page4-take-privacy-with-you-on-every = Vigye magával az adatvédelmet minden eszközén – és hagyja le a nyomkövetőket.
-welcome-page4-on-the-move-at-home = Utazás közben vagy éppen otthon – kapja meg a megérdemelt adatvédelmet.
-welcome-page4-get-the-firefox-app = Szerezze be a { -brand-name-firefox } alkalmazást
+welcome-page4-privacy-on-by-default = Az adatvédelem alapértelmezés szerint be van kapcsolva az új { -brand-name-android(capitalization: "lowercase") }os { -brand-name-firefox } esetében – és mostantól a { -brand-name-firefox }ot alapértelmezett böngészővé teheti { -brand-name-ios } 14-en.
+welcome-page4-get-the-firefox-mobile = Szerezze be a mobilos { -brand-name-firefox }ot
 welcome-page4-get-firefox-on-your-phone = Szerezze be a { -brand-name-firefox }ot a telefonjára
 welcome-page4-send-the-download-link-right = Küldje el a letöltési hivatkozást közvetlenül a telefonjára vagy e-mailben.
 welcome-page4-download-firefox-for-your = Töltse le a { -brand-name-firefox }ot okostelefonjára vagy táblagépére.
