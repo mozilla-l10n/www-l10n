@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Introdu o adresă de email validă
 newsletter-form-you-must-agree-to = Trebuie să fii de acord cu notificarea privind confidențialitatea
+newsletter-form-your-email-address = Adresa ta de email
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = nume@example.com
+newsletter-form-select-country-or-region = Alege țara sau regiunea
 newsletter-form-your-email-here = ADRESA DE E-MAIL AICI
 newsletter-form-format = Format
 newsletter-form-html = HTML
@@ -17,6 +22,7 @@ newsletter-form-if-you-havent-previously = Dacă nu ai confirmat anterior o abon
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + tu
 newsletter-form-get-firefox-tips = Obține ponturi, trucuri, știri și multe altele despre { -brand-name-firefox }
 newsletter-form-keep-up-with = Fii la curent<br> cu noutățile din { -brand-name-firefox }.
+newsletter-form-get-mozilla-updates = Obține actualizări de la { -brand-name-mozilla }
 newsletter-form-available-languages = Limbi disponibile
 newsletter-form-select-country = Selectează țara
 newsletter-form-sign-me-up = Abonează-mă
