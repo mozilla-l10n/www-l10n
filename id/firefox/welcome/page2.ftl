@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/2/
 
+welcome-page2-your-time-online-is-worth = Waktu daring Anda layak dilindungi
+welcome-page2-activate-pocket = Aktifkan { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-discover-new-stories = Temukan cerita baru

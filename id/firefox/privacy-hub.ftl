@@ -66,6 +66,7 @@ firefox-privacy-hub-when-you-enter-your-email = Saat Anda memasukkan sandi di { 
 firefox-privacy-hub-check-for-breaches = Periksa pelanggaran data
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Sandi dan kredensial yang anda simpan di { -brand-name-firefox-lockwise } terenkripsi di semua perangkat Anda, bahkan kami tidak dapat melihatnya.
+firefox-privacy-hub-learn-more-about-lockwise = Pelajari lebih lanjut tentang { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Kirim berkas
 firefox-privacy-hub-pocket = { -brand-name-pocket }

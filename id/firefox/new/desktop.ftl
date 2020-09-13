@@ -155,6 +155,7 @@ firefox-desktop-download-now-mac = Sekarang, <strong>buka</strong> berkas yang b
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Ada masalah? <a { $attrs }>Dapatkan bantuan untuk pemasangan Anda</a>.
 firefox-desktop-download-in-another-language = Unduh dalam bahasa lain atau sistem operasi lain.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Anda menggunakan sistem operasi yang usang dan tidak aman yang mana <a href="{ $url }">tidak lagi didukung oleh { -brand-name-firefox }</a>.
@@ -163,3 +164,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Anda menggunakan sis
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Unduhan Anda seharusnya sudah dimulai secara otomatis. Tidak bekerja? <a id="{ $id }" href="{ $fallback_url }">Coba unduh kembali.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } bukan sekadar peramban.
+firefox-desktop-download-interrupted = Unduhan Anda terhenti. Tapi semuanya tidak hilang.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda bisa mencoba <a href="{ $url }">versi berikut</a>.

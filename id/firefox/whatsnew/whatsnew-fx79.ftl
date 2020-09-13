@@ -15,6 +15,8 @@ whatsnew79-get-started = Memulai
 whatsnew79-get-more-control-over = Dapatkan kendali lebih atas pelacak
 whatsnew79-update-your-firefox = Perbarui peramban { -brand-name-firefox } Anda
 whatsnew79-download-the-firefox = Unduh peramban { -brand-name-firefox }
+# CTA link
+whatsnew79-read-more = Baca Selengkapnya
 whatsnew79-scan-the-qr-code = Pindai kode QR untuk memulai
 # Accessible text replacement for a QR code image
 whatsnew79-qr-code-to-scan = Pindai Kode QR untuk dapatkan { -brand-name-firefox }

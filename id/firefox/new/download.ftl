@@ -55,6 +55,7 @@ firefox-new-its-privacy-and-peace-of = Kami pun utamakan <strong>privasi dan ket
 firefox-new-its-a-family-of-products = Inilah <strong>jajaran produk</strong> yang menangani data pribadi Anda dengan hormat.
 firefox-new-its-everything-you-need-to = Inilah semua yang perlu Anda ketahui agar <strong>tetap aman saat daring</strong>.
 firefox-new-its-a-community-that-believes = Inilah <strong>sebuah komunitas</strong> yang percaya teknologi dapat berbuat lebih baik.
+firefox-new-download-interrupted = Unduhan Anda terhenti. Tapi semuanya tidak hilang.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Silakan ikuti <a href="{ $url }">instruksi ini</a> untuk memasang { -brand-name-firefox }.
