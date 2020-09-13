@@ -10,9 +10,11 @@ firefox-new-download-mozilla-firefox = Descarcă { -brand-name-mozilla } { -bran
 firefox-new-download-the-fastest-firefox = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 firefox-new-faster-page-loading-less-memory = Încărcare mai rapidă a paginilor, mai puțină memorie utilizată și prevăzut cu funcții, noul { -brand-name-firefox } este aici.
 firefox-new-automatic-privacy-is-here = A sosit confidențialitatea automată. Descarcă { -brand-name-firefox } ca să blochezi peste 2000 de elemente de urmărire.
+firefox-new-get-the-latest-firefox = Obține cea mai recentă versiune de { -brand-name-firefox }.
 firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } îți arată câte elemente de urmărire colectoare de date sunt blocate cu <strong>protecția sporită împotriva urmăririi</strong>.
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> securizează parolele salvate în { -brand-name-firefox } și le face disponibile pe toate dispozitivele tale.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> te alertează dacă știm că informațiile tale sunt implicate într-o încălcare a securității datelor a unei alte companii.
+firefox-new-join-firefox = Alătură-te { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> face parolele salvate în { -brand-name-firefox } disponibile pe toate dispozitivele tale.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Descarcă { -brand-name-firefox } <br>pentru { -brand-name-windows }
@@ -42,6 +44,10 @@ firefox-new-just-download-the-browser = Pur și simplu descarcă browserul
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nu mai oferă actualizări de securitate</a> pentru { -brand-name-windows } { -brand-name-xp } sau { -brand-name-vista }, dar mai poți folosi în continuare { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Folosești un sistem de operare nesigur și perimat <a href="{ $url }">care nu mai are suport de la { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -52,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = Este <strong>confidențialitate și lini�
 firefox-new-its-a-family-of-products = Este o <strong>familie de produse</strong> care îți tratează cu respect datele personale.
 firefox-new-its-everything-you-need-to = E tot ce trebuie să știi despre <strong>siguranța online</strong>.
 firefox-new-its-a-community-that-believes = Este o <strong>comunitate</strong> care crede că tehnologia se poate comporta mai bine.
+firefox-new-download-interrupted = Descărcarea s-a întrerupt. Dar nu-i bai.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Urmează <a href="{ $url }">aceste instrucțiuni</a> pentru a instala { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Este posibil ca sistemul să nu îndeplinească cerințele minime pentru { -brand-name-firefox }, dar poți încerca una din <a href="{ $url }">aceste versiuni</a>.
