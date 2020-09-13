@@ -75,8 +75,12 @@ navigation-share-large-files-safely = Partajează fișiere mari în siguranță,
 navigation-save-quality-content = Salvează conținut de calitate de oriunde. Hrănește-ți mintea peste tot.
 navigation-sign-up = Înregistrează-te
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rapid. Simplu. Privat.
+navigation-protect-your-entire-device = Protejează-ți întregul dispozitiv și toate aplicațiile. Maschează locația ta reală și conectează până la 5 dispozitive. Abonează-te acum.
 # Outdated string
 navigation-connected-and-protected = Conectat și protejat
+navigation-join = Alătură-te
+navigation-close-join-menu = Închide meniul de alăturare
+navigation-sign-in = Autentifică-te
 navigation-benefits = Beneficii
 navigation-protect-your-life-online = Protejează-ți viața online cu o familie întreagă de produse care pun confidențialitatea pe primul loc.
 navigation-about = Despre
@@ -84,13 +88,16 @@ navigation-close-about-menu = Închide meniul Despre
 navigation-meet-the-technology-company = Fă cunoștință cu compania de tehnologie care pune oamenii înaintea profitului.
 navigation-new-features = Funcționalități noi
 navigation-save-content-absorb-knowledge = Salvezi conținut. Dobândești cunoștințe.
+navigation-same-speed-and-safety = Aceeași viteză și siguranță în care ai încredere, concepute special pentru afaceri.
 # Outdated string
 navigation-add-ons = Suplimente
 navigation-projects = Proiecte
 navigation-close-projects-menu = Închide meniul Proiecte
 navigation-donate-your-voice-to = Donează-ți vocea pentru a ne ajuta să facem recunoașterea vocală deschisă pentru toți.
+navigation-machine-learning = Învățare automată
 # Outdated string
 navigation-web-of-things-iot = Internetul obiectelor (IoT)
+navigation-help-make-deep-learning = Ajută ca algoritmii deep learning să fie disponibili pentru pentru lumea programelor cu sursă deschisă.
 # Outdated string
 navigation-make-devices-connected = Fă dispozitivele conectate la internet sigure, securizate și interoperabile.
 navigation-developers = Dezvoltatori
@@ -110,6 +117,7 @@ navigation-contact = Contact
 navigation-careers = Cariere
 navigation-work-for-a-mission-driven = Lucrează pentru o organizație motivată de o misiune care construiește produse orientate pe scop.
 navigation-get-involved = Implică-te
+navigation-join-the-fight-for-a = Alătură-te luptei pentru un internet sănătos.
 navigation-events = Evenimente
 navigation-donate = Donează
 navigation-your-right-to-security = Dreptul tău la securitate și intimitate pe internet este fundamental – niciodată opțional.
