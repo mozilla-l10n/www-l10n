@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0/whatsnew/all/
 
+# html page title
+whatsnew80-page-title = Ce-i nou în { -brand-name-firefox }
