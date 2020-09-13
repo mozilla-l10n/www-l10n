@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
+page7-its-okay-to-like-facebook = Σας αρέσει το { -brand-name-facebook }; Κανένα πρόβλημα!
 page7-get-facebook-container = Λήψη του { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Λειτουργεί στο Instagram
