@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Hämta { -brand-name-firefox-browser } till din mobil för { -brand-name-ios } och { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Plånbok. Nycklar. Telefon. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen-now = Få nu integritet på alla skärmar
+welcome-page4-privacy-every-screen-now = Få integritet på varje skärm
 welcome-page4-take-privacy-with-you-on-every = Få integritet på alla enheter — och lämna dataspårarna bakom dig.
 welcome-page4-privacy-on-by-default = Din integritet är aktiverad som standard med nya { -brand-name-firefox } för { -brand-name-android } — och nu kan du göra { -brand-name-firefox } till din standardwebbläsare på { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Hämta { -brand-name-firefox } för mobiler
