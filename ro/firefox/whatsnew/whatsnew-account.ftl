@@ -14,3 +14,8 @@ whatsnew-account-main-button = Autentifică-te
 
 ##
 
+whatsnew-account-signed-in-headline = Fa mai multe. Folosește { -brand-name-firefox } pentru mobil.
+whatsnew-account-signed-in-lead-in = Trimite un link de descărcare telefonului tău.
+whatsnew-account-signed-in-qr-title = Descarcă { -brand-name-firefox } pentru telefon și tabletă.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Scanează acest cod QR
