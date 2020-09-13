@@ -7,14 +7,17 @@
 
 # Hero title
 features-index-firefox-features = Χαρακτηριστικά { -brand-name-firefox }
+features-index-add-powerful-functions = Προσθέστε ισχυρά χαρακτηριστικά, χρήσιμες λειτουργίες, ακόμη και λίγη διασκέδαση στο { -brand-name-firefox }.
 features-index-see-all = Προβολή όλων των επεκτάσεων
 features-index-give-your-browser = Δώστε στο πρόγραμμα περιήγησής σας την εμφάνιση που θέλετε με χιλιάδες διαφορετικά θέματα.
 features-index-get-an-account = Αποκτήστε ένα { -brand-name-firefox-account }
 features-index-from-the-company = Από μια εταιρεία που βάζει τους ανθρώπους πριν από το κέρδος
 features-index-private-browsing-mode = Η λειτουργία ιδιωτικής περιήγησης διαγράφει τα δεδομένα cookie και το ιστορικό περιήγησής σας κάθε φορά που την κλείνετε.
+features-index-use-less-memory = Το { -brand-name-firefox } χρησιμοποιεί λιγότερη μνήμη από το { -brand-name-chrome }, ώστε τα άλλα σας προγράμματα να λειτουργούν με τη μέγιστη ταχύτητα.
 features-index-open-source-minds = Ανοικτός κώδικας. Ανοικτά μυαλά.
 features-index-see-what-makes-us-different = Δείτε τι μας διαφοροποιεί
 features-index-by-non-profit-mozilla = Από τη μη κερδοσκοπική { -brand-name-mozilla }
+features-index-independent-browser = Το { -brand-name-firefox } είναι το μόνο μεγάλο και ανεξάρτητο πρόγραμμα περιήγησης.
 features-index-on-a-mission = Σε μια αποστολή για να διατηρηθεί το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.
 features-index-read-mozillas-mission = Διαβάστε την αποστολή της { -brand-name-mozilla }
 features-index-choose-independence = Επιλέξτε την ανεξαρτησία
