@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = Gặp sự cố? <a { $attrs }>Nhận trợ 
 firefox-desktop-download-in-another-language = Tải xuống bằng ngôn ngữ khác hoặc cho hệ điều hành khác.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">không còn cung cấp các bản cập nhật bảo mật</a> trên { -brand-name-windows } { -brand-name-xp } và { -brand-name-vista }, nhưng bạn vẫn có thể sử dụng { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Bạn đang sử dụng một hệ điều hành đã lỗi thời, không an toàn và <a href="{ $url }">không còn được { -brand-name-firefox } hỗ trợ nữa</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Việc tải xuống sẽ diễn ra tự động. Nếu không, hãy <a id="{ $id }" href="{ $fallback_url }">nhấp vào đây.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } không chỉ là một trình duyệt.
+firefox-desktop-download-interrupted = Quá trình tải xuống của bạn bị gián đoạn, nhưng mọi thứ chưa bị mất.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Vui lòng làm theo <a href="%(url)s">hướng dẫn này</a> để cài đặt { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.

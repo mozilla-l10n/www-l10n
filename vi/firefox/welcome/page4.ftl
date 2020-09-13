@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Tải xuống { -brand-name-firefox-browser } trên điện thoại của bạn dành cho { -brand-name-ios } và { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Ví tiền. Chìa khóa. Điện thoại. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Nhận quyền riêng tư trên mọi màn hình
+welcome-page4-privacy-every-screen-now = Giờ đây, quyền riêng tư có trên trên mọi thiết bị
 welcome-page4-take-privacy-with-you-on-every = Giữ quyền riêng tư với bạn trên mọi thiết bị — và quên đi bộ theo dõi dữ liệu.
-welcome-page4-on-the-move-at-home = Khi đang di chuyển hoặc chỉ ở nhà — có được sự riêng tư mà bạn đáng có.
-welcome-page4-get-the-firefox-app = Tải ứng dụng { -brand-name-firefox }
+welcome-page4-privacy-on-by-default = Quyền riêng tư của bạn mặc định có sẵn với { -brand-name-firefox } mới dành cho { -brand-name-android } — và giờ đây bạn có thể đặt  { -brand-name-firefox } làm trình duyệt mặc định của mình trên { -brand-name-ios } 14.
+welcome-page4-get-the-firefox-mobile = Tải { -brand-name-firefox } dành cho di động
 welcome-page4-get-firefox-on-your-phone = Tải { -brand-name-firefox } trên điện thoại của bạn
 welcome-page4-send-the-download-link-right = Gửi liên kết tải xuống ngay đến điện thoại hoặc email của bạn.
 welcome-page4-download-firefox-for-your = Tải xuống { -brand-name-firefox } cho điện thoại thông minh và máy tính bảng.
