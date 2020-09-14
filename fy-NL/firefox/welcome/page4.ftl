@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Download de { -brand-name-firefox-browser } op jo mobyl foar { -brand-name-ios } en { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Portemonnee. Kaaien. Telefoan. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Krij privacy op elk skerm
+welcome-page4-privacy-every-screen-now = Krij no op elk skerm privacy
 welcome-page4-take-privacy-with-you-on-every = Nim privacy op elk apparaat mei jo mei – en lit de datatrackers efter jo.
-welcome-page4-on-the-move-at-home = Underweis of gewoan thús – ûntfang de privacy dy't jo fertsjinje.
-welcome-page4-get-the-firefox-app = { -brand-name-firefox }-app downloade
+welcome-page4-privacy-on-by-default = Jo privacy is standert ynskeakele mei de nije { -brand-name-firefox } foar { -brand-name-android } – en no kinne jo { -brand-name-firefox } op { -brand-name-ios } 14 as jo standertbrowser ynstelle.
+welcome-page4-get-the-firefox-mobile = Download { -brand-name-firefox } Mobyl
 welcome-page4-get-firefox-on-your-phone = Download { -brand-name-firefox } op jo telefoan
 welcome-page4-send-the-download-link-right = Stjoer de downloadkeppeling streekrjocht nei jo telefoan of e-mailadres.
 welcome-page4-download-firefox-for-your = Download { -brand-name-firefox } foar jo snoadfoan en tablet.

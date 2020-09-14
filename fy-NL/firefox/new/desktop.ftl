@@ -171,3 +171,6 @@ firefox-desktop-download-interrupted = Jo download waard ûnderbrutsen. Mar alle
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Folgje <a href="{ $url }">dizze ynstruksjes</a> om { -brand-name-firefox } te ynstallearjen.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Jo systeem foldocht mooglik net oan de easken foar { -brand-name-firefox }, mar jo kinne ien fan <a href="{ $url }">dizze ferzjes</a> probearje.
