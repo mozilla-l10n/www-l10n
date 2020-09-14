@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = Download de { -brand-name-firefox-b
 welcome-page4-wallet-keys-phone-firefox = Portemonnee. Sleutels. Telefoon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Krijg nu op elk scherm privacy
 welcome-page4-take-privacy-with-you-on-every = Neem privacy op elk apparaat met u mee – en laat de datatrackers achter.
+welcome-page4-privacy-on-by-default = Uw privacy is standaard ingeschakeld met de nieuwe { -brand-name-firefox } voor { -brand-name-android } – en nu kunt u { -brand-name-firefox } op { -brand-name-ios } 14 als uw standaardbrowser instellen.
 welcome-page4-get-the-firefox-mobile = Download { -brand-name-firefox } Mobiel
 welcome-page4-get-firefox-on-your-phone = Download { -brand-name-firefox } op uw telefoon
 welcome-page4-send-the-download-link-right = Stuur de downloadkoppeling rechtstreeks naar uw telefoon of e-mailadres.
