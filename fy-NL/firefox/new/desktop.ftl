@@ -157,9 +157,17 @@ firefox-desktop-download-get-help = Problemen? <a { $attrs }>Untfang help by jo 
 firefox-desktop-download-in-another-language = Downloade yn in oare taal of foar in oar bestjoeringssysteem.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt gjin befeiligingsfernijingen mear oan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, mar jo kinne { -brand-name-firefox } noch hieltyd brûke.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Jo brûke in ûnfeilich, ferâldere bestjoeringssysteem dat <a href="{ $url }">net mear troch { -brand-name-firefox } stipe wurdt</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Jo download begjint automatysk. Wurket it net? <a id="{ $id }" href="{ $fallback_url }">Probearje nochris te downloaden.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mear as in browser.
+firefox-desktop-download-interrupted = Jo download waard ûnderbrutsen. Mar alles is net ferlern.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Folgje <a href="{ $url }">dizze ynstruksjes</a> om { -brand-name-firefox } te ynstallearjen.
