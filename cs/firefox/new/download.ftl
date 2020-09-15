@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = Stáhněte si prohlížeč
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = I když můžete { -brand-name-firefox(case: "acc") } stále používat, { -brand-name-mozilla } už nadále bezpečnostní aktualizace pro { -brand-name-windows } { -brand-name-xp } ani { -brand-name-vista } <a href="{ $url }">neposkytuje</a>.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

@@ -10,7 +10,11 @@ facebook-container-millions-of-people-around = Miliony lidí po celém světě v
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Dobře zakonzervovaný. Nechte si zbytek svého života pro sebe.
 facebook-container-get-the-facebook-container = Získat doplněk { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Stáhněte si { -brand-name-firefox(case: "acc") } a získejte doplněk { -brand-name-facebook-container }.
-facebook-container-only-available-for-desktop = Doplněk { -brand-name-facebook-container } je není dostupný jen ve { -brand-name-firefox(case: "loc") } pro počítač.
+facebook-container-only-available-for-desktop = Doplněk { -brand-name-facebook-container } je nyní dostupný jen ve { -brand-name-firefox(case: "loc") } pro počítač.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Pro stažení { -brand-name-firefox(case: "gen") } pro počítač navštivte <a href="{ $url }">{ $link_copy }</a>.
 # Outdated string
 facebook-container-the-facebook-container-extension = Doplněk { -brand-name-facebook-container } není dostupný pro mobilní zařízení.
 facebook-container-get-firefox-android-ios = Stáhněte si { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") } a { -brand-name-ios(case: "acc") }.
