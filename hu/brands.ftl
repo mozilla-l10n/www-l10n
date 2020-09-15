@@ -125,7 +125,11 @@
 
 ## Platforms
 
--brand-name-android = Android
+-brand-name-android =
+    { $capitalization ->
+       *[upper] Android
+        [lower] android
+    }
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
