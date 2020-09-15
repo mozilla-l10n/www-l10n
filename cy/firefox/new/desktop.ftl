@@ -157,6 +157,10 @@ firefox-desktop-download-get-help = Cael trafferth? <a { $attrs }>Cael cymorth g
 firefox-desktop-download-in-another-language = Llwytho i lawr mewn iaith arall neu ar gyfer system weithredu arall.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = Nid yw { -brand-name-mozilla } <a href="{ $url }"> bellach yn darparu diweddariadau diogelwch </a> ar { -brand-name-windows } { -brand-name-xp } na { -brand-name-vista }, ond gallwch barhau i ddefnyddio { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Rydych yn defnyddio system weithredu hen ac anniogel <a href="{ $url }">sydd ddim yn cael ei gynnal bellach gan { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
