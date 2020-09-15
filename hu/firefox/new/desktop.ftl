@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = a { -brand-name-safari }val
 firefox-desktop-download-yes = Igen
 firefox-desktop-download-no = Nem
 firefox-desktop-download-blocks-third-party = Harmadik féltől származó követő sütik blokkolása
+firefox-desktop-download-blocks-third-party-default = Alapértelmezetten blokkolja a harmadik féltől származó követő sütiket
 firefox-desktop-download-autoplay-blocking = Automatikus lejátszás blokkolása
 firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követőinek blokkolása
 # OS is short for "Operating System"
