@@ -44,6 +44,7 @@ firefox-desktop-download-boost-your = Boostez votre productivité
 firefox-desktop-download-works-with-google = Compatible avec les produits { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Outil de capture d’écran intégré
 firefox-desktop-download-bookmarks-manager = Gestionnaire de marque-pages
+firefox-desktop-download-autosuggest-urls = Suggestion automatique d’adresses
 firefox-desktop-download-sync-across-devices = Synchronisation entre les appareils
 firefox-desktop-download-reader-mode = Mode lecture
 firefox-desktop-download-spell-check = Vérification orthographique
@@ -53,6 +54,13 @@ firefox-desktop-download-stream-share-play = Diffuser, partager et lire
 firefox-desktop-download-picture-in-picture = Incrustation vidéo
 firefox-desktop-download-curated-content-on = Contenu éditorial dans la page de nouvel onglet
 firefox-desktop-download-share-links = Partage de liens
+firefox-desktop-download-library-of-extensions = Bibliothèque d’extensions
+firefox-desktop-download-adjust-search-bar = Ajuster les paramètres de la barre de recherche
+firefox-desktop-download-extensions-for-every = Des extensions pour tous les goûts
+firefox-desktop-download-your-privacy-comes = Le respect de votre vie privée est notre priorité
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Conservez toutes vos fonctionnalités de navigateur préférées et <strong> découvrez-en</strong> de nouvelles.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-screenshots = Captures d’écran
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protection renforcée contre le pistage
