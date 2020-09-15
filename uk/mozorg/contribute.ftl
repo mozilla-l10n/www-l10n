@@ -52,9 +52,16 @@ contribute-made-by-desc-cont = Ми вважаємо, що співпраця г
 
 contribute-newsletter-heading = Досі не впевнені?
 contribute-newsletter-sub-heading = Отримуйте новини про спільноти та внески до своєї поштової скриньки
+contribute-newsletter-desc = Підпишіться на нашу розсилку, приєднуйтесь до сім'ї Mozilla по всьому світу та дізнавайтеся про дивовижні можливості для підтримки місії { -brand-name-mozilla }.
 
 ## Support
 
+contribute-support-heading = Отримати допомогу
+contribute-support-desc = { -brand-name-mozilla } має віддану команду волонтерів, яка допоможе розв'язувати будь-які проблеми, які можуть у вас виникнути.
+contribute-mozilla-support = Підтримка { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Проблеми з вебсторінкою?
+contribute-web-compat-desc = Якщо ваш вебсайт поводить себе по-різному в різних браузерах, можливо, ви виявили проблему вебсумісності. Ми хотіли б про неї дізнатися!
+contribute-report-issue = Повідомити про проблему
