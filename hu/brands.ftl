@@ -16,7 +16,12 @@
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
--brand-name-mozilla = Mozilla
+-brand-name-mozilla =
+    { $case ->
+       *[nom] Mozilla
+        [acc] Mozillát
+        [valvel] Mozillával
+    }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-twitter = Twitter
