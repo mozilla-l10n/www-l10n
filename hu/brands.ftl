@@ -17,10 +17,9 @@
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
-    { $case ->
-       *[nom] Mozilla
-        [acc] Mozillát
-        [valvel] Mozillával
+    { $ending ->
+       *[normal] Mozilla
+        [accented] Mozillá
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation

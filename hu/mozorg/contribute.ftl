@@ -8,7 +8,7 @@
 
 ## Page heading
 
-contribute-page-title = Önkénteskedési lehetőségek a { -brand-name-mozilla(case: "valvel") }
+contribute-page-title = Önkénteskedési lehetőségek a { -brand-name-mozilla(ending: "accented") }
 contribute-page-heading = Az Ön tehetségére van szükség a jobb internet érdekében
 contribute-how-heading = Hogyan működhet közre…
 
@@ -31,6 +31,9 @@ contribute-task-join-desc = Szeretne jobban bekapcsolódni a { -brand-name-mozil
 
 contribute-mission-heading = Küldetésünk
 contribute-mission-desc = A küldetésünk az, hogy biztosítsuk, hogy az internet globálisan és nyilvánosan elérhető, hozzáférhető és nyitott legyen mindenki számára. Olyan internetet építünk, amely valóban az embereket helyezi előtérbe, ahol mindenki maga alakíthatja élményeit, valamint mindenkinek biztosítja a felszabadult, biztonságos és független használatot.
+contribute-learn = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról
+contribute-read-manifesto = Olvassa el a kiáltványunkat
+contribute-find-event = Találjon egy eseményt
 
 ## Made by
 
