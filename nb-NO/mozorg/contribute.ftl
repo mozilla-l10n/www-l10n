@@ -36,3 +36,4 @@ contribute-mozilla-support = { -brand-name-mozilla }-brukerstøtte
 ## Web compat
 
 contribute-web-compat-heading = Problemer med en nettside?
+contribute-report-issue = Rapporter et problem
