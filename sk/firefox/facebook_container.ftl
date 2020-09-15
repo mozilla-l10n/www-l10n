@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Milióny ľudí po celom svete ve
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pod kontrolou. Nechajte si zvyšok svojho života pre seba.
 facebook-container-get-the-facebook-container = Získajte rozšírenie { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Prevezmite si { -brand-name-firefox } a získajte rozšírenie { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Doplnok { -brand-name-facebook-container } je v súčasnosti dostupný len vo { -brand-name-firefox(case: "loc") } pre počítače.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Na stránke <a href="{ $url }">{ $link_copy }</a> si môžete prevziať { -brand-name-firefox } pre počítače.
+# Outdated string
 facebook-container-the-facebook-container-extension = Rozšírenie { -brand-name-facebook-container } nie je dostupné pre mobilné zariadenia.
+facebook-container-get-firefox-android-ios = Prevezmite si { -brand-name-firefox } pre { -brand-name-android } a { -brand-name-ios }.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Vyskúšajte <strong>{ -brand-name-firefox-focus }</strong>, súkromný prehliadač pre { -brand-name-android } a { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Vyjadrite svoj nesúhlas
