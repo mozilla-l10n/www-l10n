@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kuruluml
 firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">Artık { -brand-name-firefox } tarafından desteklenmeyen</a>, güvenli olmayan ve eski bir işletim sistemi kullanıyorsunuz.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = İndirme işlemi birazdan kendiliğinden başlayacak. Başlamazsa <a id="{ $id }" href="{ $fallback_url }">yeniden deneyin.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } yalnızca bir tarayıcı değil.
+firefox-desktop-download-interrupted = İndirmeniz kesintiye uğradı.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = { -brand-name-firefox }’u yüklemek için lütfen <a href="{ $url }">bu yönergeleri</a> izleyin.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.
