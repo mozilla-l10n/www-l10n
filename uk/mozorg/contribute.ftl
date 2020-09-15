@@ -18,6 +18,15 @@ contribute-how-heading = Як ви можете допомогти…
 contribute-tag-non-technical = Не технічно
 contribute-tag-technical = Технічно
 contribute-tag-technical-non-technical = Технічно та не технічно
+contribute-tag-individual-event = Особисто та організовуючи заходи
+contribute-tag-individual = Особисто
+contribute-tag-support = Підтримка
+contribute-task-translate-heading = Переклад вмісту
+contribute-task-translate-desc = Інтернет є загальним лише тоді, коли його розуміють скрізь. Допоможіть нам перекласти продукти та вебсайти { -brand-name-mozilla } вашою мовою.
+contribute-task-mozilla-codebase-heading = Сприяйте створенню кодової бази { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Активно вдосконалюйте продукти { -brand-name-mozilla }, роблячи свій внесок для різноманітних можливостей розвитку.
+contribute-task-support-desc = Допомагайте зробити продукти { -brand-name-mozilla } простими у користуванні. Відповідайте на прохання допомогти від людей на форумах спільноти підтримки { -brand-name-mozilla }.
+contribute-task-join-heading = Приєднуйтесь до спільноти
 
 ## Mission
 
