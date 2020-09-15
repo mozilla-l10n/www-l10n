@@ -18,9 +18,19 @@ contribute-tag-technical-non-technical = Teknisk og ikke-teknisk
 contribute-tag-individual = Individuell
 contribute-tag-support = Brukerstøtte
 contribute-task-translate-heading = Oversett innhold
+contribute-task-join-heading = Bli med i fellesskapet
 
 ## Mission
 
+contribute-mission-heading = Vårt oppdrag
+contribute-mission-desc = Vår målsetning er å verne om internett som en global, offentlig ressurs, som er åpen og tilgjengelig for alle. Et internett som setter mennesker først, hvor individer kan forme deres egne opplevelser, og føle seg sterke, trygge, og uavhengige.
+contribute-learn = Les om { -brand-name-mozilla }
+contribute-read-manifesto = Les manifestet vårt
+contribute-find-event = Finn et arrangement
+contribute-meet-volunteers = Møt våre lidenskapelige frivillige
+contribute-donate = Doner
+contribute-help-fund = Bidra til å finansiere oppdraget vårt
+contribute-follow-mozilla = Følg { -brand-name-mozilla }
 
 ## Made by
 
@@ -31,6 +41,7 @@ contribute-newsletter-heading = Ikke sikker enda?
 
 ## Support
 
+contribute-support-heading = Få hjelp
 contribute-mozilla-support = { -brand-name-mozilla }-brukerstøtte
 
 ## Web compat
