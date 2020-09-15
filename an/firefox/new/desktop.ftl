@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Sí
 firefox-desktop-download-no = No
 firefox-desktop-download-blocks-third-party = Bloca las cookies de seguimiento de tercers
+firefox-desktop-download-blocks-third-party-default = Bloca las cookies de seguimiento de tercers per defecto
 firefox-desktop-download-autoplay-blocking = Bloca la reproducción automatica
 firefox-desktop-download-blocks-social-trackers = Bloca los elementos de seguimiento en retz socials
 # OS is short for "Operating System"
@@ -157,9 +158,20 @@ firefox-desktop-download-get-help = Tiens problemas? <a { $attrs }>Aquí trobar�
 firefox-desktop-download-in-another-language = Descargar en belatro idioma u pa belatro sistema operativo.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ya no furneix d'actualizacions de seguranza</a> en { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }, pero encara i puetz fer servir { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Yes usando un sistema operativo inseguro y desactualizau <a href="{ $url }">que ya no tiene suporte per part de { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = La tuya descarga habría d'empecipiar automaticament. No s'ha iniciau? <a id="{ $id }" href="{ $fallback_url }">Mira de baixar-lo de nuevas</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye mas que un navegador.
+firefox-desktop-download-interrupted = La descarga s'ha interrompiu. Pero no tot ye perdiu.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Siga <a href="{ $url }">estas instruccions</a> pa instalar { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Lo suyo sistema no cumple con os requisitos d'o { -brand-name-firefox }, pero puetz prebar una d'<a href="{ $url }">estas versions</a>.

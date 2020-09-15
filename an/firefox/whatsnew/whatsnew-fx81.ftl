@@ -7,6 +7,9 @@
 
 # html page title
 whatsnew81-page-title = Novedatz de { -brand-name-firefox }
+# Main title
+whatsnew81-main-title = Un nuevo { -brand-name-firefox } pa cada dispositivo
+whatsnew81-main-intro = Qual que siga lo tuyo tuyo sistema operativo, existe un navegador mobil millor que nunca, sosteniu per una organización sin animo de lucro.
 whatsnew81-send-form-label = Escribe lo tuyo correu pa recebir un vinclo de descarga
 whatsnew81-send-form-label-alt = Escribe lo tuyo correu-e u telefono pa obtener un vinclo de descarga
 whatsnew81-scan-this-qr-code = Escaneya este codigo QR pa descargar-lo
