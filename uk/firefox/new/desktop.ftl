@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Так
 firefox-desktop-download-no = Ні
 firefox-desktop-download-blocks-third-party = Блокує сторонні куки стеження
+firefox-desktop-download-blocks-third-party-default = Типово блокує сторонні куки стеження
 firefox-desktop-download-autoplay-blocking = Блокує автовідтворення
 firefox-desktop-download-blocks-social-trackers = Блокує стеження соціальних мереж
 # OS is short for "Operating System"
