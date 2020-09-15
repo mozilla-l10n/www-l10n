@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Llwytho'r Porwr i Lawr
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = Nid yw { -brand-name-mozilla } <a href="{ $url }"> bellach yn darparu diweddariadau diogelwch </a> ar { -brand-name-windows } { -brand-name-xp } na { -brand-name-vista }, ond gallwch barhau i ddefnyddio { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Rydych yn defnyddio system weithredu hen ac anniogel <a href="{ $url }">sydd ddim yn cael ei gynnal bellach gan { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = Mae'n <strong>preifatrwydd a thawelwch me
 firefox-new-its-a-family-of-products = Mae'n <strong>casgliad o gynnyrch</strong> sy'n trin eich data personol â pharch.
 firefox-new-its-everything-you-need-to = Mae popeth y mae angen i chi ei wybod am <strong>gadw'n ddiogel ar-lein</strong>.
 firefox-new-its-a-community-that-believes = Mae'n <strong>cymuned</strong> sy'n credu y gall technoleg wneud yn well.
+firefox-new-download-interrupted = Cafodd eich llwytho i lawr ei darfu. Ond nid yw popeth wedi'i golli.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a> er mwyn gosod { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:

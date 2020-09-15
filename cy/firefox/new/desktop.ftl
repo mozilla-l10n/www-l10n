@@ -167,3 +167,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Rydych yn defnyddio 
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Dylai'r llwytho ddigwydd yn awtomatig. Heb weithio? <a id="{ $id }" href="{ $fallback_url }">Ceisiwch eto</a>.
 firefox-new-firefox-is-more-than-a-browser = Mae { -brand-name-firefox } yn fwy na phorwr.
+firefox-desktop-download-interrupted = Cafodd eich llwytho i lawr ei darfu. Ond nid yw popeth wedi'i golli.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a> er mwyn gosod { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:

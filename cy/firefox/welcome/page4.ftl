@@ -8,10 +8,10 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Llwythwch y porwr { -brand-name-firefox-browser } ar eich Dyfais Symudol { -brand-name-ios } ac { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Waled. Allweddi. Ffôn. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-privacy-every-screen = Preifatrwydd ar bob sgrin
+welcome-page4-privacy-every-screen-now = Nawr cewch breifatrwydd ar bob sgrin
 welcome-page4-take-privacy-with-you-on-every = Ewch â phreifatrwydd gyda chi ar bob dyfais - a gadewch y tracwyr data ar ôl.
-welcome-page4-on-the-move-at-home = Ar daith neu adre - mynnwch y preifatrwydd rydych chi'n ei haeddu.
-welcome-page4-get-the-firefox-app = Mynnwch yr Ap { -brand-name-firefox }
+welcome-page4-privacy-on-by-default = Mae eich preifatrwydd ymlaen yn ragosodedig gyda'r { -brand-name-firefox } newydd ar gyfer { -brand-name-android } - a nawr gallwch wneud { -brand-name-firefox } yn borwr rhagosodedig ar { -brand-name-ios } 14.
+welcome-page4-get-the-firefox-mobile = Estyn { -brand-name-firefox } Symudol
 welcome-page4-get-firefox-on-your-phone = Defnyddiwch { -brand-name-firefox } ar eich Ffôn
 welcome-page4-send-the-download-link-right = Anfonwch y ddolen llwytho yn syth i'ch ffôn neu e-bost.
 welcome-page4-download-firefox-for-your = Llwythwch { -brand-name-firefox } i lawr i'ch ffôn neu dabled.
