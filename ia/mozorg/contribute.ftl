@@ -33,14 +33,18 @@ contribute-task-join-desc = Vole tu esser plus implicate in le communitate { -br
 
 contribute-mission-heading = Nostre mission
 contribute-mission-desc = Nostre mission es de assecurar que internet es un ressource global public, aperte e accessibile a totes. Un internet que vermente antepone le personas, ubi illes pote formar lor proprie experientia, e esser integrate, secur e independente.
-contribute-learn = Saper plus re { -brand-name-pocket }
+contribute-learn = Saper plus re { -brand-name-mozilla }
 contribute-read-manifesto = Lege nostre manifesto
 contribute-find-event = Trovar un evento
 contribute-meet-volunteers = Incontrar nostre passionate voluntarios
 contribute-donate = Donar
+contribute-help-fund = Adjuta a financiar nostre mission
+contribute-follow-mozilla = Seque { -brand-name-mozilla }
+contribute-opportunities = Novas e opportunitates pro voluntarios
 
 ## Made by
 
+contribute-made-by-heading = Producite per personas passionate como te
 
 ## Newsletter
 
