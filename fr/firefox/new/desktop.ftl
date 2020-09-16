@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-og-desc = Un chargement des pages plus rapide, une consommation mémoire réduite et plein de fonctionnalités : le nouveau { -brand-name-firefox } est là.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-desktop-download-get-the-browser = Installez le navigateur qui protège ce qui est important
 # shady is slang which suggests something is untrustworthy
@@ -14,6 +15,7 @@ firefox-desktop-download-do-what-you-do = Faites ce que vous avez à faire en li
 firefox-desktop-download-how-firefox-compares = Ce qui distingue { -brand-name-firefox } des autres
 firefox-desktop-download-get-all-the-speed = Obtenez toute la vitesse et les outils sans aucune intrusion de votre vie privée. Le { -brand-name-firefox-browser } collecte si peu de données sur vous qu’on ne vous demande même pas votre adresse e-mail pour le téléchargement. Parce que contrairement aux autres navigateurs, on nous n’avons aucun intérêt financier à vous suivre sur le Web.
 firefox-desktop-download-how-we-compare = Ce qui nous différencie des autres navigateurs
+firefox-desktop-download-compare-firefox-to = Comparez { -brand-name-firefox } à :
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -49,7 +51,7 @@ firefox-desktop-download-sync-across-devices = Synchronisation entre les apparei
 firefox-desktop-download-reader-mode = Mode lecture
 firefox-desktop-download-spell-check = Vérification orthographique
 firefox-desktop-download-pinned-tabs = Onglets épinglés
-firefox-desktop-download-stream-share-play = Diffuser, partager et lire
+firefox-desktop-download-stream-share-play = Diffusez, partagez et lisez
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Incrustation vidéo
 firefox-desktop-download-curated-content-on = Contenu éditorial dans la page de nouvel onglet
