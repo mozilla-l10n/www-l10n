@@ -50,6 +50,7 @@ contribute-made-by-desc-cont = Nos crede que le collaboration del communitate es
 
 ## Newsletter
 
+contribute-newsletter-heading = Nondum secur?
 
 ## Support
 
