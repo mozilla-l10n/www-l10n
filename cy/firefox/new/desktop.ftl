@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Iawn
 firefox-desktop-download-no = Na
 firefox-desktop-download-blocks-third-party = Yn rhwystro cwcis tracio trydydd parti
+firefox-desktop-download-blocks-third-party-default = Wedi ei ragosod i rwystro cwcis tracio trydydd parti
 firefox-desktop-download-autoplay-blocking = Yn rhwystro awtochwarae
 firefox-desktop-download-blocks-social-trackers = Yn rhwystro tracwyr cymdeithasol
 # OS is short for "Operating System"
