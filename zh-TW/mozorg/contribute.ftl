@@ -8,6 +8,8 @@
 
 ## Page heading
 
+contribute-page-title = { -brand-name-mozilla } 的志願服務機會
+contribute-page-heading = 要有更好的網路環境，需要有您的才能幫忙
 contribute-how-heading = 以下是您可以協助的部分…
 
 ## Contribution tasks
@@ -19,9 +21,12 @@ contribute-tag-individual-event = 個人參與與活動舉辦
 contribute-tag-individual = 個人參與
 contribute-tag-support = 技術支援
 contribute-task-translate-heading = 翻譯內容
+contribute-task-mozilla-codebase-heading = 貢獻程式碼到 { -brand-name-mozilla } codebase
+contribute-task-join-heading = 加入社群
 
 ## Mission
 
+contribute-mission-heading = 我們的使命
 contribute-learn = 了解 { -brand-name-mozilla } 的更多資訊
 contribute-read-manifesto = 閱讀我們的宣言
 contribute-find-event = 尋找活動
