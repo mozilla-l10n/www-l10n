@@ -45,12 +45,23 @@ contribute-opportunities = Nieuws en vrijwilligersmogelijkheden
 ## Made by
 
 contribute-made-by-heading = Gemaakt door bevlogen mensen zoals u
+contribute-made-by-desc = Wanneer u bijdraagt aan { -brand-name-mozilla }, wordt u onderdeel van een wereldwijde gemeenschap die bestaat uit mensen van over de hele wereld die geloven dat we allemaal een rol spelen om ervoor te zorgen dat internet een kracht ten goede blijft.
+contribute-made-by-desc-cont = Wij geloven dat samenwerking in de gemeenschap van vitaal belang is om een internet te creëren dat divers, innovatief en aanspreekbaar is voor de mensen die het het meest nodig hebben. Of u nu een technische achtergrond heeft, maatschappelijk actief bent, of gewoon een computer en wat vrije tijd heeft, u kunt ons helpen het internet te verbeteren.
 
 ## Newsletter
 
+contribute-newsletter-heading = Nog niet zeker?
+contribute-newsletter-sub-heading = Ontvang nieuws over de gemeenschap en bijdragen in uw postvak IN
+contribute-newsletter-desc = Abonneer u op onze nieuwsbrief en sluit u aan bij Mozillians over de hele wereld en lees over betekenisvolle mogelijkheden om de missie van { -brand-name-mozilla } te ondersteunen.
 
 ## Support
 
+contribute-support-heading = Hulp verkrijgen
+contribute-support-desc = { -brand-name-mozilla } heeft een toegewijd team van vrijwilligers om u te helpen met alle problemen die u mogelijk ondervindt.
+contribute-mozilla-support = { -brand-name-mozilla }-ondersteuning
 
 ## Web compat
 
+contribute-web-compat-heading = Problemen met een webpagina?
+contribute-web-compat-desc = Als uw ervaring met een website verschilt tussen browsers, heeft u mogelijk een probleem met de webcompatibiliteit ontdekt. We horen het graag!
+contribute-report-issue = Een probleem melden
