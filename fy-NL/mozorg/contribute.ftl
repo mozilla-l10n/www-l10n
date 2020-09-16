@@ -24,6 +24,7 @@ contribute-tag-support = Stipe
 contribute-task-translate-heading = Ynhâld oersette
 contribute-task-translate-desc = It ynternet is allinnich wrâldwiid as it oeral begrepen wurdt. Help ús { -brand-name-mozilla }-produkten en websites yn jo lokale taal oer te setten.
 contribute-task-mozilla-codebase-heading = Wurkje mei oan de koadebasis fan { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Ferbetterje aktyf { -brand-name-mozilla }-produkten troch by te dragen oan in ferskaat oan ûntwikkelmooglikheden.
 
 ## Mission
 
