@@ -31,6 +31,11 @@ contribute-newsletter-heading = Ainda não tem certeza?
 
 ## Support
 
+contribute-support-heading = Peça ajuda
+contribute-support-desc = A { -brand-name-mozilla } tem uma equipe dedicada de voluntários para ajudar com quaisquer problemas que você possa estar enfrentando.
+contribute-mozilla-support = Suporte { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Problemas com uma página web?
+contribute-report-issue = Relatar um problema
