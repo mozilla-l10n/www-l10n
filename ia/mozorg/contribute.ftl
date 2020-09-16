@@ -45,6 +45,7 @@ contribute-opportunities = Novas e opportunitates pro voluntarios
 ## Made by
 
 contribute-made-by-heading = Producite per personas passionate como te
+contribute-made-by-desc = Quando tu contribue a { -brand-name-mozilla }, tu deveni parte de un communitate global formate de personas de tote le mundo qui crede que nos tote ha un rolo in assecurar que internet resta un fortia positive.
 
 ## Newsletter
 
