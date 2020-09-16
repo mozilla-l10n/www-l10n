@@ -8,9 +8,17 @@
 
 ## Page heading
 
+contribute-how-heading = 以下是您可以協助的部分…
 
 ## Contribution tasks
 
+contribute-tag-non-technical = 非技術性
+contribute-tag-technical = 技術性
+contribute-tag-technical-non-technical = 同時是技術性與非技術性
+contribute-tag-individual-event = 個人參與與活動舉辦
+contribute-tag-individual = 個人參與
+contribute-tag-support = 技術支援
+contribute-task-translate-heading = 翻譯內容
 
 ## Mission
 
@@ -29,9 +37,18 @@ contribute-made-by-heading = 由像您這樣充滿熱情的人打造
 
 ## Newsletter
 
+contribute-newsletter-heading = 還不確定嗎？
+contribute-newsletter-sub-heading = 讓社群與貢獻者新聞直達收件匣
+contribute-newsletter-desc = 訂閱我們的電子報，與全球 Mozillians 一同支持 { -brand-name-mozilla } 的使命，並了解如何變得更有影響力。
 
 ## Support
 
+contribute-support-heading = 取得幫助
+contribute-support-desc = { -brand-name-mozilla } 有一群專門的志工團隊，可協助您處理遇到的問題。
+contribute-mozilla-support = { -brand-name-mozilla } 技術支援
 
 ## Web compat
 
+contribute-web-compat-heading = 網頁有問題嗎？
+contribute-web-compat-desc = 若您發現某個網站在不同瀏覽器間的體驗不同，可能就遇到了網頁相容性問題。我們也想知道！
+contribute-report-issue = 回報問題
