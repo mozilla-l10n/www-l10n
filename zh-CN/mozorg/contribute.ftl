@@ -21,7 +21,10 @@ contribute-tag-individual-event = 个人参与和活动组织
 contribute-tag-individual = 个人参与
 contribute-tag-support = 用户支持
 contribute-task-translate-heading = 翻译内容
+contribute-task-mozilla-codebase-heading = 为 { -brand-name-mozilla } 代码库作出贡献
+contribute-task-mozilla-codebase-desc = 协力一系列开发中的项目，积极改善 { -brand-name-mozilla } 产品。
 contribute-task-join-heading = 加入社区
+contribute-task-join-desc = 是否希望更多地参与 { -brand-name-mozilla } 社区？在我们的社区主页浏览所有志愿者机会。
 
 ## Mission
 
@@ -38,9 +41,13 @@ contribute-opportunities = 新闻和志愿者机会
 
 ## Made by
 
+contribute-made-by-heading = 由像您这样充满激情的人实现
 
 ## Newsletter
 
+contribute-newsletter-heading = 还不确定？
+contribute-newsletter-sub-heading = 让社区和贡献者新闻直达收件箱
+contribute-newsletter-desc = 订阅我们的新闻通讯，与世界各地的谋智人一同支持 { -brand-name-mozilla } 的使命，并了解如何扩大影响力。
 
 ## Support
 
@@ -51,4 +58,5 @@ contribute-mozilla-support = { -brand-name-mozilla } 用户支持
 ## Web compat
 
 contribute-web-compat-heading = 网页有问题吗？
+contribute-web-compat-desc = 如果某个网站在不同浏览器间的体验不同，则可能是遇到了 Web 兼容性问题。我们也想知道！
 contribute-report-issue = 报告问题
