@@ -10,14 +10,14 @@
 
 contribute-page-title = Cyfleoedd i Wirfoddoli gyda { -brand-name-mozilla }
 contribute-page-heading = Mae angen eich doniau ar gyfer gwell rhyngrwyd
-contribute-page-intro = Mae { -brand-name-mozilla } yn sefydliad dim-er-elw sy'n gweithio i sicrhau bod y rhyngrwyd yn agored ac yn groesawgar i bawb. Ac mae angen eich help arnom. Trwy ymuno â'n cymuned, gallwch chi helpu i yrru arloesedd, gwella atebolrwydd ac ymddiriedaeth a gwneud y rhyngrwyd yn lle gwell i bawb.
+contribute-page-intro = Mae { -brand-name-mozilla } yn sefydliad dim-er-elw sy'n gweithio i sicrhau bod y rhyngrwyd yn agored ac yn groesawgar i bawb. Mae angen eich help arnom ni. Trwy ymuno â'n cymuned, gallwch chi helpu i yrru arloesedd, gwella atebolrwydd ac ymddiriedaeth a gwneud y rhyngrwyd yn lle gwell i bawb.
 contribute-how-heading = Sut y gallwch chi gyfrannu…
 
 ## Contribution tasks
 
 contribute-tag-non-technical = Anhechnegol
 contribute-tag-technical = Technegol
-contribute-tag-technical-non-technical = Technegol ac Annhechnegol
+contribute-tag-technical-non-technical = Technegol ac Anhechnegol
 contribute-tag-individual-event = Trefniadaeth unigolion a digwyddiadau
 contribute-tag-individual = Unigolion
 contribute-tag-support = Cefnogaeth
@@ -56,6 +56,12 @@ contribute-newsletter-desc = Tanysgrifiwch i'n cylchlythyr, ymunwch â Mozilliai
 
 ## Support
 
+contribute-support-heading = Derbyn Cymorth
+contribute-support-desc = Mae gan { -brand-name-mozilla } dîm ymroddedig o wirfoddolwyr i helpu gyda pha bynnag faterion y gallech fod yn eu profi.
+contribute-mozilla-support = Cefnogaeth { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Anawsterau gyda thudalen gwe?
+contribute-web-compat-desc = Os yw'ch profiad o wefan yn wahanol rhwng porwyr yna efallai eich bod wedi darganfod mater cydnawsedd gwe. Byddem wrth ein bodd yn cael gwybod amdano!
+contribute-report-issue = Adrodd ar fater
