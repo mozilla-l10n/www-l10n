@@ -10,6 +10,7 @@
 
 contribute-page-title = { -brand-name-mozilla } 的志愿者机会
 contribute-page-heading = 更好的互联网环境，亟需您的才能
+contribute-page-intro = { -brand-name-mozilla } 作为非营利组织，致力于保持网络开放且人人可用。我们需要您的帮助。通过加入社区，您可以帮助推动创新，增强责任感和信任度，让我们的互联网更加美好。
 contribute-how-heading = 以下是您可以协助的部分…
 
 ## Contribution tasks
@@ -21,6 +22,7 @@ contribute-tag-individual-event = 个人参与和活动组织
 contribute-tag-individual = 个人参与
 contribute-tag-support = 用户支持
 contribute-task-translate-heading = 翻译内容
+contribute-task-translate-desc = 只有世界上每个地方的人都能看得懂的互联网，才能冠之以“全球”。帮助我们将 { -brand-name-mozilla } 产品和网站翻译为您的本地语言。
 contribute-task-mozilla-codebase-heading = 为 { -brand-name-mozilla } 代码库作出贡献
 contribute-task-mozilla-codebase-desc = 协力一系列开发中的项目，积极改善 { -brand-name-mozilla } 产品。
 contribute-task-join-heading = 加入社区
