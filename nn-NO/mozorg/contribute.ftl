@@ -13,9 +13,18 @@ contribute-how-heading = Korleis du kan bidra…
 ## Contribution tasks
 
 contribute-tag-non-technical = Ikkje-teknisk
+contribute-tag-technical = Teknisk
+contribute-tag-technical-non-technical = Teknisk og ikkje-teknisk
+contribute-tag-support = Brukarstøtte
+contribute-task-translate-heading = Omset innhald
 
 ## Mission
 
+contribute-mission-heading = Oppdraget vårt
+contribute-learn = Les om { -brand-name-mozilla }
+contribute-read-manifesto = Les manifestet vårt
+contribute-find-event = Finn eit arrangement
+contribute-donate = Doner
 
 ## Made by
 
@@ -25,6 +34,9 @@ contribute-tag-non-technical = Ikkje-teknisk
 
 ## Support
 
+contribute-support-heading = Få hjelp
+contribute-mozilla-support = { -brand-name-mozilla }-brukarstøtte
 
 ## Web compat
 
+contribute-report-issue = Rapporter eit problem
