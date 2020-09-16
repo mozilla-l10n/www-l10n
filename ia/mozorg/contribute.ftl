@@ -46,6 +46,7 @@ contribute-opportunities = Novas e opportunitates pro voluntarios
 
 contribute-made-by-heading = Producite per personas passionate como te
 contribute-made-by-desc = Quando tu contribue a { -brand-name-mozilla }, tu deveni parte de un communitate global formate de personas de tote le mundo qui crede que nos tote ha un rolo in assecurar que internet resta un fortia positive.
+contribute-made-by-desc-cont = Nos crede que le collaboration del communitate es vital pro le creation de un internet diverse, innovative e responsabile pro illes qui plus besonia de isto. Si tu ha un fundo in technologia, organisation de communitates o justo un computator e alcun tempore libere, tu pote adjuta nos a render internet un loco melior.
 
 ## Newsletter
 
