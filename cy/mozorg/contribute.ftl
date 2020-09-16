@@ -37,12 +37,22 @@ contribute-learn = Dysgu am { -brand-name-mozilla }
 contribute-read-manifesto = Darllenwch ein maniffesto
 contribute-find-event = Canfod digwyddiadau
 contribute-meet-volunteers = Cyfarfod â'n gwirfoddolwyr angerddol
+contribute-donate = Cyfrannu
+contribute-help-fund = Helpwch i ariannu'n cenhadaeth
+contribute-follow-mozilla = Dilynwch { -brand-name-mozilla }
+contribute-opportunities = Newyddion a chyfleoedd i wirfoddoli
 
 ## Made by
 
+contribute-made-by-heading = Wedi'i wneud gan bobl angerddol fel chi
+contribute-made-by-desc = Pan fyddwch yn cyfrannu at { -brand-name-mozilla }, rydych chi'n dod yn rhan o gymuned fyd-eang sy'n cynnwys pobl o bob cwr o'r byd sy'n credu bod gan bob un ohonom rôl i sicrhau bod y rhyngrwyd yn parhau i fod yn rym er daioni.
+contribute-made-by-desc-cont = Rydym yn credu fod cydweithredu cymunedol yn hanfodol i greu rhyngrwyd sy'n amrywiol, yn arloesol ac yn atebol i'r bobl sydd ei angen fwyaf. P'un a oes gennych gefndir mewn technoleg, trefnu cymunedol, neu ddim ond cyfrifiadur a rhywfaint o amser rhydd, gallwch ein helpu i wneud y rhyngrwyd yn lle gwell.
 
 ## Newsletter
 
+contribute-newsletter-heading = Ddim yn siŵr eto?
+contribute-newsletter-sub-heading = Derbyn newyddion cymunedol a chyfrannu i'ch blwch derbyn
+contribute-newsletter-desc = Tanysgrifiwch i'n cylchlythyr, ymunwch â Mozilliaid ledled y byd, a dysgwch am gyfleoedd effeithiol i gefnogi cenhadaeth { -brand-name-mozilla }.
 
 ## Support
 
