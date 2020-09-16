@@ -9,6 +9,7 @@
 ## Page heading
 
 contribute-page-title = Muligheter for frivillige på { -brand-name-mozilla }
+contribute-page-heading = Dine talenter er nødvendige for et bedre internett
 contribute-how-heading = Hvordan du kan bidra…
 
 ## Contribution tasks
