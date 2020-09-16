@@ -22,6 +22,8 @@ contribute-task-translate-heading = Traducer le contento
 
 ## Mission
 
+contribute-mission-heading = Nostre mission
+contribute-learn = Saper plus re { -brand-name-pocket }
 contribute-read-manifesto = Lege nostre manifesto
 contribute-find-event = Trovar un evento
 contribute-meet-volunteers = Incontrar nostre passionate voluntarios
