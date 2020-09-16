@@ -58,7 +58,10 @@ contribute-newsletter-desc = Prenumerera på vårt nyhetsbrev, anslut till Mozil
 
 contribute-support-heading = Få hjälp
 contribute-support-desc = { -brand-name-mozilla } har ett dedikerat team av volontärer som kan hjälpa till med alla problem du kan uppleva.
+contribute-mozilla-support = { -brand-name-mozilla } support
 
 ## Web compat
 
+contribute-web-compat-heading = Problem med en webbsida?
+contribute-web-compat-desc = Om din upplevelse av en webbplats skiljer sig åt mellan webbläsare kan du ha upptäckt ett problem med webbkompatibilitet. Vi skulle gärna veta mer!
 contribute-report-issue = Rapportera ett problem
