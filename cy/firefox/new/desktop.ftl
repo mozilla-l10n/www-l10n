@@ -14,7 +14,7 @@ firefox-desktop-download-meta-desc = Estynnwch { -brand-name-firefox }, porwr gw
 firefox-desktop-download-og-title = Llwythwch i lawr y { -brand-name-firefox } cyflymaf erioed
 firefox-desktop-download-og-desc = Llwytho tudalennau cynt, llai o ddefnydd o gof ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd yma.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Estynnwch y porwr sy'n diogelu'r hyn sy'n bwysig
+firefox-desktop-download-get-the-browser = Defnyddiwch y porwr sy'n diogelu'r hyn sy'n bwysig
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau cefn i hysbysebwyr. Porwr cyflym iawn sydd ddim yn eich trin fel rhywbeth i'w werthu.
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
