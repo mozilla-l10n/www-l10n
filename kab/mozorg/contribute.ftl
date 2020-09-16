@@ -19,7 +19,7 @@ contribute-follow-mozilla = Ḍfer { -brand-name-mozilla }
 ## Made by
 
 contribute-made-by-heading = Yettwaxdem sɣur imdanen yesɛan lḥir akka am kečč·kemm
-contribute-made-by-desc = Mi ara tettekkiḍ deg { -brand-name-mozilla }, ad tuɣaleḍ d yiwen seg temɣiwent n umaḍal ameqqran ideg llan yimdanen n meṛṛa tiɣemriwin n ddunit i yumnen belli yal yiwen deg-neɣ yesɛa ddawr i wakken ad neḍmen internet ad teqqim d lǧehd i wayen  yelhan.
+contribute-made-by-desc = Mi ara tettekkiḍ deg { -brand-name-mozilla }, ad tuɣaleḍ d yiwen seg temɣiwent n umaḍal i meṛṛa ideg llan yimdanen seg meṛṛa tiɣemriwin n ddunit i yumnen belli yal yiwen deg-neɣ yesɛa tamlilt deg uḍman n internet ad teqqim teǧhed i wayen yelhan.
 
 ## Newsletter
 
