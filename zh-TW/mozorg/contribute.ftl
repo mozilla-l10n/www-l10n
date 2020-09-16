@@ -19,9 +19,13 @@ contribute-read-manifesto = 閱讀我們的宣言
 contribute-find-event = 尋找活動
 contribute-meet-volunteers = 認識我們的熱情志工
 contribute-donate = 捐款
+contribute-help-fund = 贊助我們完成使命
+contribute-follow-mozilla = 關注 { -brand-name-mozilla }
+contribute-opportunities = 新聞與以志工身分參與機會
 
 ## Made by
 
+contribute-made-by-heading = 由像您這樣充滿熱情的人打造
 
 ## Newsletter
 
