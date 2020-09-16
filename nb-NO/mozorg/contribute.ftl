@@ -10,6 +10,7 @@
 
 contribute-page-title = Muligheter for frivillige på { -brand-name-mozilla }
 contribute-page-heading = Dine talenter er nødvendige for et bedre internett
+contribute-page-intro = { -brand-name-mozilla } er en ideell organisasjon som jobber for å sikre at internett er åpent og innbydende for alle. Og vi trenger din hjelp. Ved å bli med i samfunnet vårt kan du bidra til å drive innovasjon, forbedre ansvarlighet og tillit og gjøre internett til et bedre sted for alle.
 contribute-how-heading = Hvordan du kan bidra…
 
 ## Contribution tasks
