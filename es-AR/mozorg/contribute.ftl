@@ -10,9 +10,20 @@
 
 contribute-page-title = Oportunidades de voluntariado en { -brand-name-mozilla }
 contribute-page-heading = Se necesitan tus talentos para una mejor Internet
+contribute-page-intro = { -brand-name-mozilla } es una organización sin fines de lucro que trabaja para asegurar que internet sea abierta y acogedora para todos. Y necesitamos tu ayuda. Al unirte a nuestra comunidad, podés ayudar a impulsar la innovación, mejorar la rendición de cuentas y la confianza y hacer de Internet un lugar mejor para todos.
+contribute-how-heading = Cómo podés contribuir…
 
 ## Contribution tasks
 
+contribute-tag-non-technical = No técnico
+contribute-tag-technical = Técnico
+contribute-tag-technical-non-technical = Técnico y no técnico
+contribute-tag-individual-event = Organización individual y de eventos
+contribute-tag-individual = Individual
+contribute-tag-support = Ayuda
+contribute-task-translate-heading = Traducir contenido
+contribute-task-translate-desc = Internet solo es global si se comprende en todas partes. Ayudanos a traducir los productos y sitios web de { -brand-name-mozilla } a tu idioma local.
+contribute-task-mozilla-codebase-heading = Colaborá con la base del código { -brand-name-mozilla }
 
 ## Mission
 
