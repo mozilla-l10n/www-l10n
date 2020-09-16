@@ -10,6 +10,7 @@
 
 contribute-page-title = Önkénteskedési lehetőségek a { -brand-name-mozilla(ending: "accented") }
 contribute-page-heading = Az Ön tehetségére van szükség a jobb internet érdekében
+contribute-page-intro = A { -brand-name-mozilla } egy nonprofit szervezet, amely azon dolgozik, hogy az internet mindenki számára nyitott legyen. Ehhez szükségünk van a segítségére. A közösségünkhöz csatlakozással elősegítheti az innováció ösztönzését, növelheti a elszámoltathatóságot és a bizalmat, valamint mindenki számára jobb hellyé teheti az internetet.
 contribute-how-heading = Hogyan működhet közre…
 
 ## Contribution tasks
@@ -44,6 +45,8 @@ contribute-opportunities = Hírek és önkénteskedési lehetőségek
 ## Made by
 
 contribute-made-by-heading = Önhöz hasonlóan lelkes emberek készítésében
+contribute-made-by-desc = Ha közreműködik a { -brand-name-mozilla(ending: "accented") }val, akkor a világméretű közösség részévé válik, akik olyan emberek a világ minden tájáról, akik úgy vélik, hogy mindannyiunknak szerepe van abban, hogy az internet a jó célt szolgálja.
+contribute-made-by-desc-cont = Úgy gondoljuk, hogy a közösségi együttműködés létfontosságú egy sokszínű, innovatív és elszámoltatható internet létrehozása szempontjából azok számára, akiknek a legnagyobb szükségük van rá. Függetlenül attól, hogy műszaki vagy, közösségszervezési háttérrel rendelkezik, vagy csak van egy számítógépe és némi szabadideje, segíthet nekünk abban, hogy az internet jobb hely legyen.
 
 ## Newsletter
 
