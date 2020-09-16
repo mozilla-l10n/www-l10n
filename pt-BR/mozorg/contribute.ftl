@@ -21,7 +21,10 @@ contribute-tag-individual-event = Organização individual e de eventos
 contribute-tag-individual = Individual
 contribute-tag-support = Suporte
 contribute-task-translate-heading = Tradução do conteúdo
+contribute-task-translate-desc = A internet só é global se for entendida em todos os lugares. Ajude-nos a traduzir os produtos e sites da { -brand-name-mozilla } para seu idioma local.
 contribute-task-mozilla-codebase-heading = Contribua com a base de código da { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Melhore ativamente os produtos { -brand-name-mozilla }, contribuindo em uma variedade de oportunidades de desenvolvimento.
+contribute-task-support-desc = Ajude a tornar os produtos { -brand-name-mozilla } fáceis de usar. Responda às perguntas de “ajuda” das pessoas como parte dos fóruns da comunidade de suporte { -brand-name-mozilla }.
 contribute-task-join-heading = Junte-se à comunidade
 
 ## Mission
