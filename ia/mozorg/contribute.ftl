@@ -25,6 +25,8 @@ contribute-task-translate-heading = Traducer le contento
 contribute-task-translate-desc = Internet es global solo si illo es comprendite ubique. Adjuta nos traducer productos e sitos web de { -brand-name-mozilla } in tu lingua local.
 contribute-task-mozilla-codebase-heading = Contribue al codice base de { -brand-name-mozilla }
 contribute-task-mozilla-codebase-desc = Meliora activemente le productos { -brand-name-mozilla } contribuente a un varietate de opportunitates de disveloppamento.
+contribute-task-support-desc = Adjuta render le productos { -brand-name-mozilla } facile a usar. Responde al questiones de "adjuta" del personas, como parte del Foros del communitate de supporto de { -brand-name-mozilla }.
+contribute-task-join-heading = Junge te al communitate
 
 ## Mission
 
