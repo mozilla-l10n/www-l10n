@@ -33,15 +33,35 @@ contribute-task-join-desc = Wolle jo mear belutsen reitsje by de { -brand-name-m
 
 contribute-mission-heading = Us missy
 contribute-mission-desc = It is ús missy om te fersekerjen dat it ynternet in globaal publike boarne is, iepen en tagonklik foar elkenien. In ynternet dat werklik minsken op it earste plak set, wêr't elkenien harren eigen ûnderfining foarmje kin en krêftich, feilich en ûnôfhinklik binne.
+contribute-learn = Mear ynfo oer { -brand-name-mozilla }
+contribute-read-manifesto = Lês ús Manifest
+contribute-find-event = In evenemint fine
+contribute-meet-volunteers = Moetsje ús hertstochtlike frijwilligers
+contribute-donate = Donearje
+contribute-help-fund = Help ús missy te finansierjen
+contribute-follow-mozilla = { -brand-name-mozilla } folgje
+contribute-opportunities = Nijs en frijwilligersmooglikheden
 
 ## Made by
 
+contribute-made-by-heading = Makke troch hertstochtlike minsken lykas jo
+contribute-made-by-desc = Wannear't jo bydrage oan { -brand-name-mozilla }, wurde jo ûnderdiel fan in wrâldwide mienskip dy't bestiet út minsken fan oer de hiele wrâld dy't leauwe dat wy allegearre in rol spylje om derfoar te soargjen dat ynternet in krêft ta goede bliuwt.
+contribute-made-by-desc-cont = Wy leauwe dat gearwurking yn de mienskip wichtich is foar it meitsjen fan in ynternet dat ferskaat, ynnovatyf en ferantwurdlik is foar de minsken dy't it it measte nedich binne. Oft jo in eftergrûn hawwe yn tech, maatskiplik aktyf binne, of gewoan in kompjûter en wat frije tiid hawwe, jo kinne ús helpe om it ynternet in better plak te meitsjen.
 
 ## Newsletter
 
+contribute-newsletter-heading = Noch net wis?
+contribute-newsletter-sub-heading = Untfang nijs oer de mienskip en bydragen yn jo postfek YN
+contribute-newsletter-desc = Abonnearje jo op ús nijsbrief en slút jo oan by Mozillians oer de hiele wrâld en lês oer betsjuttingsfolle mooglikheden om de missy fan { -brand-name-mozilla } te stypjen.
 
 ## Support
 
+contribute-support-heading = Help krije
+contribute-support-desc = { -brand-name-mozilla } hat in tawijd team fan frijwilligers om jo te helpen mei alle problemen dy't jo mooglik ûnderfine.
+contribute-mozilla-support = { -brand-name-mozilla }-stipe
 
 ## Web compat
 
+contribute-web-compat-heading = Problemen mei in webside?
+contribute-web-compat-desc = As jo ûnderfining fan in webside ferskilt tusken browsers, dan hawwe jo miskien in probleem mei webkompatibiliteit ûntdutsen. Wy wolle it graach witte!
+contribute-report-issue = In probleem melde
