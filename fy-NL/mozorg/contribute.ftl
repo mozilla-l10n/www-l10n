@@ -22,6 +22,8 @@ contribute-tag-individual-event = Yndividuele en eveneminteorganisaasje
 contribute-tag-individual = Yndividueel
 contribute-tag-support = Stipe
 contribute-task-translate-heading = Ynhâld oersette
+contribute-task-translate-desc = It ynternet is allinnich wrâldwiid as it oeral begrepen wurdt. Help ús { -brand-name-mozilla }-produkten en websites yn jo lokale taal oer te setten.
+contribute-task-mozilla-codebase-heading = Wurkje mei oan de koadebasis fan { -brand-name-mozilla }
 
 ## Mission
 
