@@ -27,10 +27,12 @@ contribute-task-mozilla-codebase-heading = Contribue al codice base de { -brand-
 contribute-task-mozilla-codebase-desc = Meliora activemente le productos { -brand-name-mozilla } contribuente a un varietate de opportunitates de disveloppamento.
 contribute-task-support-desc = Adjuta render le productos { -brand-name-mozilla } facile a usar. Responde al questiones de "adjuta" del personas, como parte del Foros del communitate de supporto de { -brand-name-mozilla }.
 contribute-task-join-heading = Junge te al communitate
+contribute-task-join-desc = Vole tu esser plus implicate in le communitate { -brand-name-mozilla }? Discoperi tote le opportunitates de voluntarios in nostre portal de communitate.
 
 ## Mission
 
 contribute-mission-heading = Nostre mission
+contribute-mission-desc = Nostre mission es de assecurar que internet es un ressource global public, aperte e accessibile a totes. Un internet que vermente antepone le personas, ubi illes pote formar lor proprie experientia, e esser integrate, secur e independente.
 contribute-learn = Saper plus re { -brand-name-pocket }
 contribute-read-manifesto = Lege nostre manifesto
 contribute-find-event = Trovar un evento
