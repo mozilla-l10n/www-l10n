@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Có
 firefox-desktop-download-no = Không
 firefox-desktop-download-blocks-third-party = Chặn cookie theo dõi của bên thứ ba
+firefox-desktop-download-blocks-third-party-default = Chặn cookie theo dõi của bên thứ ba theo mặc định
 firefox-desktop-download-autoplay-blocking = Chặn tự động phát
 firefox-desktop-download-blocks-social-trackers = Chặn trình theo dõi xã hội
 # OS is short for "Operating System"
