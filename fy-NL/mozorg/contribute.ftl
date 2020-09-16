@@ -25,9 +25,14 @@ contribute-task-translate-heading = Ynhâld oersette
 contribute-task-translate-desc = It ynternet is allinnich wrâldwiid as it oeral begrepen wurdt. Help ús { -brand-name-mozilla }-produkten en websites yn jo lokale taal oer te setten.
 contribute-task-mozilla-codebase-heading = Wurkje mei oan de koadebasis fan { -brand-name-mozilla }
 contribute-task-mozilla-codebase-desc = Ferbetterje aktyf { -brand-name-mozilla }-produkten troch by te dragen oan in ferskaat oan ûntwikkelmooglikheden.
+contribute-task-support-desc = Help { -brand-name-mozilla }-produkten gebrûksfreonlik te meitsjen. Beäntwurdzje de ‘help’-fragen fan minsken as ûnderdiel fan de { -brand-name-mozilla }-stipemienskipsfoarums.
+contribute-task-join-heading = Doch mei mei de mienskip
+contribute-task-join-desc = Wolle jo mear belutsen reitsje by de { -brand-name-mozilla }-mienskip? Besjoch alle mooglikheden foar frijwilligerswurk op ús Mienskipsportal.
 
 ## Mission
 
+contribute-mission-heading = Us missy
+contribute-mission-desc = It is ús missy om te fersekerjen dat it ynternet in globaal publike boarne is, iepen en tagonklik foar elkenien. In ynternet dat werklik minsken op it earste plak set, wêr't elkenien harren eigen ûnderfining foarmje kin en krêftich, feilich en ûnôfhinklik binne.
 
 ## Made by
 
