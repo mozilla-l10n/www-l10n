@@ -25,6 +25,7 @@ contribute-task-translate-heading = 翻译内容
 contribute-task-translate-desc = 只有世界上每个地方的人都能看得懂的互联网，才能冠之以“全球”。帮助我们将 { -brand-name-mozilla } 产品和网站翻译为您的本地语言。
 contribute-task-mozilla-codebase-heading = 为 { -brand-name-mozilla } 代码库作出贡献
 contribute-task-mozilla-codebase-desc = 协力一系列开发中的项目，积极改善 { -brand-name-mozilla } 产品。
+contribute-task-support-desc = 帮助我们提高 { -brand-name-mozilla } 产品的易用性。加入 { -brand-name-mozilla } 用户支持社区论坛来回答其他用户的“求助”问题。
 contribute-task-join-heading = 加入社区
 contribute-task-join-desc = 是否希望更多地参与 { -brand-name-mozilla } 社区？在我们的社区主页浏览所有志愿者机会。
 
@@ -44,6 +45,8 @@ contribute-opportunities = 新闻和志愿者机会
 ## Made by
 
 contribute-made-by-heading = 由像您这样充满激情的人实现
+contribute-made-by-desc = 当您向 { -brand-name-mozilla } 作出贡献，您即成为全球社区的一员，该社区由来自五湖四海的人们组成，所有人均笃信自己有责任确保互联网仍然是一股向善的力量。
+contribute-made-by-desc-cont = 我们认为，社区协作对于建立一个富有多样化与创新性、且对最需要的人负责任的互联网至关重要。无论您是有着技术或社区组织的背景，还是只有计算机和空闲时间，都可以帮助我们构建更美好的互联网。
 
 ## Newsletter
 
