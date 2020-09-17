@@ -24,7 +24,7 @@ password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din no
 password-manager-password-champion = Eroul parolelor
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-password-manager-earn-your-security-gold-medal = Câștigă o medalie de aur în securitate cu numărul mare de <a href="{ $addons }">suplimente</a> pentru gestiunea parolelor din { -brand-name-firefox }. Alege unul favorit sau găsește altul mai avansat cu ajutorul recenziilor și evaluărilor făcute de utilizatorii experți din comunitate.
+password-manager-earn-your-security-gold-medal = Câștigă o medalie de aur în securitate cu numărul mare de <a href="{ $addons }">suplimente</a> de managere de parole pentru { -brand-name-firefox }. Alege unul favorit sau găsește altul mai avansat cu ajutorul recenziilor și evaluărilor făcute de utilizatorii experți din comunitate.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Stăpânul parolelor
@@ -32,4 +32,4 @@ password-manager-password-master = Stăpânul parolelor
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Câștigă a doua centură neagră în securitate cu numărul mare de <a href="{ $addons }">suplimente</a> pentru gestiunea parolelor din { -brand-name-firefox }. Alege unul favorit sau găsește altul mai avansat cu ajutorul recenziilor și evaluărilor făcute de utilizatorii experți din comunitate.
+password-manager-earn-your-second = Câștigă a doua centură neagră în securitate cu numărul mare de <a href="{ $addons }">suplimente</a> de managere de parole pentru { -brand-name-firefox }. Alege unul favorit sau găsește altul mai avansat cu ajutorul recenziilor și evaluărilor făcute de utilizatorii experți din comunitate.
