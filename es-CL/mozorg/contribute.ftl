@@ -10,6 +10,7 @@
 
 contribute-page-title = Oportunidades de voluntariado en { -brand-name-mozilla }
 contribute-page-heading = Tus talentos son necesarios para un mejor Internet
+contribute-page-intro = { -brand-name-mozilla } es una organización sin fines de lucro que trabaja para garantizar que Internet sea abierto y acogedor para todos. Y necesitamos tu ayuda. Al unirte a nuestra comunidad puedes ayudar a impulsar la innovación, mejorar la responsabilidad y la confianza y hacer de Internet un lugar mejor para todos.
 contribute-how-heading = Cómo puedes contribuir…
 
 ## Contribution tasks
@@ -17,11 +18,16 @@ contribute-how-heading = Cómo puedes contribuir…
 contribute-tag-non-technical = No técnico
 contribute-tag-technical = Técnico
 contribute-tag-technical-non-technical = Técnico y no técnico
+contribute-tag-individual-event = Organización individual y de eventos
 contribute-tag-individual = Individual
 contribute-tag-support = Soporte
 contribute-task-translate-heading = Traducción de contenido
+contribute-task-translate-desc = Internet solo es mundial si se entiende en todas partes. Ayúdanos a traducir productos y sitios web de { -brand-name-mozilla } a tu idioma local.
 contribute-task-mozilla-codebase-heading = Contribuye a la base de código de { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Mejora activamente los productos de { -brand-name-mozilla } contribuyendo a una variedad de oportunidades de desarrollo.
+contribute-task-support-desc = Ayuda a que los productos de { -brand-name-mozilla } sean fáciles de usar. Responde las preguntas de "ayuda" de las personas siendo parte de los foros de asistencia de la comunidad de { -brand-name-mozilla }.
 contribute-task-join-heading = Únete a la comunidad
+contribute-task-join-desc = ¿Quieres participar más en la comunidad de { -brand-name-mozilla }? Consulta todas las oportunidades de voluntariado en nuestro portal comunitario.
 
 ## Mission
 
@@ -52,8 +58,10 @@ contribute-newsletter-desc = Suscríbete a nuestro boletín de noticias, únete 
 
 contribute-support-heading = Recibe ayuda
 contribute-support-desc = { -brand-name-mozilla } tiene un equipo dedicado de voluntarios para ayudar con cualquier problema que puedas estar experimentando.
+contribute-mozilla-support = Ayuda de { -brand-name-mozilla }
 
 ## Web compat
 
 contribute-web-compat-heading = ¿Problemas con una página web?
+contribute-web-compat-desc = Si tu experiencia con un sitio web difiere entre navegadores, es posible que hayas descubierto un problema de compatibilidad web. ¡Nos encantaría saberlo!
 contribute-report-issue = Reportar problema
