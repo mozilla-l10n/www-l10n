@@ -9,7 +9,7 @@
 welcome-page4-download-the-firefox-browser = Téléchargez le { -brand-name-firefox-browser } sur votre téléphone { -brand-name-ios } ou { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Mon portefeuille. Mes clés. Mon téléphone. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Protégez votre vie privée sur tous vos appareils et oubliez les traqueurs de données.
-welcome-page4-get-the-firefox-app = Installer l’application { -brand-name-firefox }
+welcome-page4-get-the-firefox-mobile = Installer { -brand-name-firefox } mobile
 welcome-page4-get-firefox-on-your-phone = Installez { -brand-name-firefox } sur votre téléphone
 welcome-page4-send-the-download-link-right = Recevez un lien de téléchargement directement sur votre téléphone ou votre messagerie électronique.
 welcome-page4-download-firefox-for-your = Téléchargez { -brand-name-firefox } pour votre smartphone ou votre tablette.
