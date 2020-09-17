@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = დიახ
 firefox-desktop-download-no = არა
 firefox-desktop-download-blocks-third-party = გარეშე მეთვალყურეების ფუნთუშების შეზღუდვა
+firefox-desktop-download-blocks-third-party-default = გარეშე მეთვალყურეების ფუნთუშების შეზღუდვა ნაგულისხმევად
 firefox-desktop-download-autoplay-blocking = თვითგაშვების შეზღუდვა
 firefox-desktop-download-blocks-social-trackers = სოც. ქსელების მეთვალყურეების შეზღუდვა
 # OS is short for "Operating System"
