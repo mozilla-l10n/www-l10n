@@ -51,6 +51,8 @@ contribute-made-by-desc-cont = Nos crede que le collaboration del communitate es
 ## Newsletter
 
 contribute-newsletter-heading = Nondum secur?
+contribute-newsletter-sub-heading = Recipe in tu cassa de ingresso, novas del communitate e del contributiones
+contribute-newsletter-desc = Subscribe te a nostre littera de novas, junge te al mozillianos de tote le mundo e sape plus re opportunitates de grande impacto pro supportar le mission de { -brand-name-mozilla }.
 
 ## Support
 
