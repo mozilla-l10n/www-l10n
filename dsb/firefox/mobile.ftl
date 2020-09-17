@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Priwatnosć, kótaruž se zasłužy
 firefox-mobile-get-firefox-for-mobile = Wobstarajśo se mobilny { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
 firefox-mobile-scan-the-qr-code-to-get-started = Skannujśo QR-kod, aby zachopił
+firefox-mobile-scan-alt-text = Skannujśo QR-kod, aby se { -brand-name-firefox } za mobilny rěd wobstarał
