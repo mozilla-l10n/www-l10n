@@ -22,6 +22,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Oui
 firefox-desktop-download-no = Non
 firefox-desktop-download-blocks-third-party = Bloque les cookies tiers utilisés pour le pistage
+firefox-desktop-download-autoplay-blocking = Bloque la lecture automatique
 firefox-desktop-download-blocks-social-trackers = Bloque les traqueurs de réseaux sociaux
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilité par système d’exploitation
@@ -52,16 +53,26 @@ firefox-desktop-download-reader-mode = Mode lecture
 firefox-desktop-download-spell-check = Vérification orthographique
 firefox-desktop-download-pinned-tabs = Onglets épinglés
 firefox-desktop-download-stream-share-play = Diffusez, partagez et lisez
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Possibilité de bloquer la lecture automatique des vidéos et des sons
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Incrustation vidéo
 firefox-desktop-download-curated-content-on = Contenu éditorial dans la page de nouvel onglet
 firefox-desktop-download-share-links = Partage de liens
+firefox-desktop-download-protect-your-privacy = Protégez votre vie privée
+firefox-desktop-download-third-party-cookie = Blocage des cookies tiers
 firefox-desktop-download-fingerprinter-blocking = Blocage des détecteurs d’empreinte numérique
 firefox-desktop-download-cryptominer-blocking = Blocage des mineurs de cryptomonnaies
 firefox-desktop-download-private-browsing-mode = Mode de navigation privée
 firefox-desktop-download-individual-protections-report = Rapport de protections indivudualisé
 firefox-desktop-download-secure-your-personal = Sécurisez vos informations personnelles
 firefox-desktop-download-built-in-password = Gestionnaire de mots de passe intégré
+firefox-desktop-download-clear-history = Effacer l’historique
+firefox-desktop-download-form-autofill = Remplissage automatique des formulaires
+firefox-desktop-download-automatic-updates = Mises à jour automatiques
+firefox-desktop-download-customize-your-browser = Personnalisez votre navigateur
+firefox-desktop-download-themes = Thèmes
+firefox-desktop-download-dark-mode = Mode sombre
 firefox-desktop-download-library-of-extensions = Bibliothèque d’extensions
 firefox-desktop-download-adjust-search-bar = Ajuster les paramètres de la barre de recherche
 firefox-desktop-download-extensions-for-every = Des extensions pour tous les goûts
