@@ -76,10 +76,13 @@ firefox-desktop-download-dark-mode = Mode sombre
 firefox-desktop-download-library-of-extensions = Bibliothèque d’extensions
 firefox-desktop-download-adjust-search-bar = Ajuster les paramètres de la barre de recherche
 firefox-desktop-download-extensions-for-every = Des extensions pour tous les goûts
+firefox-desktop-download-go-from-light = Passez du mode clair au mode sombre en fonction de votre humeur ou de vos préférences, ou bien animez les choses avec un thème personnalisé (pourquoi pas avec une licorne arc-en-ciel).
+firefox-desktop-download-tweak-your-settings = Ajustez vos paramètres
 firefox-desktop-download-your-privacy-comes = Le respect de votre vie privée est notre priorité
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Conservez toutes vos fonctionnalités de navigateur préférées et <strong> découvrez-en</strong> de nouvelles.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synchronisez vos appareils
 firefox-desktop-download-screenshots = Captures d’écran
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protection renforcée contre le pistage
@@ -90,3 +93,5 @@ firefox-desktop-download-download-the-mobile = Téléchargez le navigateur mobil
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } est plus qu’un navigateur.
+firefox-desktop-download-interrupted = Votre téléchargement a été interrompu. Mais tout n’est pas perdu.
