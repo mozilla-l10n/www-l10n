@@ -90,8 +90,18 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capital
 firefox-desktop-download-get-firefox-android = Obtenez le { -brand-name-firefox-browser } pour <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtenez le { -brand-name-firefox-browser } pour <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Téléchargez le navigateur mobile { -brand-name-firefox } pour une protection automatique sur tous vos appareils.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De la sécurité aux actualités en passant par les jeux, il existe une <a { $attrs }>extension pour tout le monde</a>. Ajoutez-en autant que vous le souhaitez jusqu’à ce que votre navigateur soit parfait.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } est plus qu’un navigateur.
 firefox-desktop-download-interrupted = Votre téléchargement a été interrompu. Mais tout n’est pas perdu.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Veuillez suivre <a href="{ $url }">ces instructions</a> pour installer { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Votre système ne dispose peut-être pas de la configuration requise pour { -brand-name-firefox }, mais vous pouvez essayer l’une de <a href="{ $url }">ces versions</a>.
