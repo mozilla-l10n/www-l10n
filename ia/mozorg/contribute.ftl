@@ -57,6 +57,7 @@ contribute-newsletter-desc = Subscribe te a nostre littera de novas, junge te al
 ## Support
 
 contribute-support-heading = Obtener auxilio
+contribute-support-desc = { -brand-name-mozilla } ha un equipa de voluntarios devote pro adjutar con qualcunque problemas tu pote patir.
 contribute-mozilla-support = Supporto de { -brand-name-mozilla }
 
 ## Web compat
