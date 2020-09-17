@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Protection del vita private. Elevat
 firefox-mobile-get-firefox-for-mobile = Obtene { -brand-name-firefox } pro mobile
 firefox-mobile-send-a-download-link-to-your = Inviar un ligamine de discargamento a tu telephono.
 firefox-mobile-scan-the-qr-code-to-get-started = Scanna le codice QR pro comenciar
+firefox-mobile-scan-alt-text = Scande le codice QR pro installar { -brand-name-firefox } sur mobile
