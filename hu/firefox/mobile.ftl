@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Az adatvédelem, amit megérdemel. 
 firefox-mobile-get-firefox-for-mobile = Töltse le a { -brand-name-firefox }ot mobilra
 firefox-mobile-send-a-download-link-to-your = Küldjön egy letöltési hivatkozást a telefonjára.
 firefox-mobile-scan-the-qr-code-to-get-started = Olvassa le a QR-kód, és kezdjen neki
+firefox-mobile-scan-alt-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-name-firefox }ot a mobiljára
