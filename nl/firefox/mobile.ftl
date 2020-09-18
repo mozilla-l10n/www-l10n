@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = De privacy die u verdient. De snelh
 firefox-mobile-get-firefox-for-mobile = Download { -brand-name-firefox } voor mobiel
 firefox-mobile-send-a-download-link-to-your = Een downloadkoppeling naar uw telefoon verzenden.
 firefox-mobile-scan-the-qr-code-to-get-started = Scan de QR-code om te beginnen
+firefox-mobile-scan-alt-text = Scan de QR-code om { -brand-name-firefox } op mobiel te downloaden
