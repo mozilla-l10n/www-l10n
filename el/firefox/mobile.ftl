@@ -20,3 +20,4 @@ firefox-mobile-the-privacy-you-deserve-the = Το απόρρητο που αξί
 firefox-mobile-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητά
 firefox-mobile-send-a-download-link-to-your = Στείλτε ένα σύνδεσμο λήψης στο τηλέφωνό σας.
 firefox-mobile-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
+firefox-mobile-scan-alt-text = Σαρώστε τον κωδικό QR για λήψη του { -brand-name-firefox } για κινητά

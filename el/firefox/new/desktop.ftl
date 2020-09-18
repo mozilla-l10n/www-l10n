@@ -86,6 +86,7 @@ firefox-desktop-download-learn-about-the = Μάθετε για το { -brand-nam
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
 firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
