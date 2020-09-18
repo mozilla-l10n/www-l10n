@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Sự riêng tư mà bạn xứng đ
 firefox-mobile-get-firefox-for-mobile = Tải { -brand-name-firefox } dành cho di động
 firefox-mobile-send-a-download-link-to-your = Gửi liên kết tải xuống đến điện thoại của bạn.
 firefox-mobile-scan-the-qr-code-to-get-started = Quét mã QR để bắt đầu
+firefox-mobile-scan-alt-text = Quét mã QR để tải { -brand-name-firefox } trên điện thoại di động
