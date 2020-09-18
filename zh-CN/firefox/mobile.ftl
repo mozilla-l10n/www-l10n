@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = 隐私、速度，二者得兼。
 firefox-mobile-get-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版
 firefox-mobile-send-a-download-link-to-your = 发送下载链接到您的手机。
 firefox-mobile-scan-the-qr-code-to-get-started = 扫描二维码立刻获取
+firefox-mobile-scan-alt-text = 扫描二维码，立即下载 { -brand-name-firefox } 移动版
