@@ -97,6 +97,7 @@ navigation-donate-your-voice-to = Pósććo swój głos, aby głosowe spóznaśe
 navigation-machine-learning = Mašinelne wuknjenje
 # Outdated string
 navigation-web-of-things-iot = Web wěcow (IoT)
+navigation-help-make-deep-learning = Pomagajśo swětoju wótwórjonego žrědła algoritmuse dłymokego wuknjenja k dispoziciji stajiś.
 # Outdated string
 navigation-make-devices-connected = Gótujśo graty, kótarež su zwězane z internetom, wěste, šćitane a kompatibelne.
 navigation-developers = Wuwijarje
