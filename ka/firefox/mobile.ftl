@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = პირადულობა, რ
 firefox-mobile-get-firefox-for-mobile = გადმოწერეთ { -brand-name-firefox } მობილურისთვის
 firefox-mobile-send-a-download-link-to-your = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 firefox-mobile-scan-the-qr-code-to-get-started = წააკითხეთ QR-კოდი, დასაწყებად
+firefox-mobile-scan-alt-text = წააკითხეთ QR-კოდი { -brand-name-firefox }-ის მობილურზე მისაღებად
