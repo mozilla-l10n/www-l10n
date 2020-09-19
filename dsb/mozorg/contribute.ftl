@@ -37,3 +37,5 @@ contribute-mozilla-support = Pomoc za { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Problemy z webbokom?
+contribute-report-issue = Problem k wěsći daś
