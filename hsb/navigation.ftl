@@ -39,8 +39,10 @@ navigation-your-firefox-account = Waše { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Wućehńće najlěpše z dožiwjenja { -brand-name-firefox }, na kóždym graće.
 # Outdated string
 navigation-learn-how-to-customize = Zhońće, kak móžeće swój { -brand-name-firefox } přiměrić.
+navigation-explore-the-immersive = Wuslědźće imersiwny web ze swojim headsetom wirtualneje reality.
 # Outdated string
 navigation-experience-augmented = Dožiwće z { -brand-name-firefox } rozšěrjenu a wirtuelnu realitu.
+navigation-get-together = Zetkajće so we wirtualnej realiće z tutym socialnym rumom online.
 # Outdated string
 navigation-meet-people-in-experimental = Zetkajće so z { -brand-name-firefox } z ludźimi w eksperimentelnych chattowych rumnosćach měšaneje reality.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Měšana realita
