@@ -34,8 +34,13 @@ compare-safari-in-addition-to-the-regular = { -brand-name-safari } 除了您在�
 compare-safari-like-safari-firefox-encourages = 与 { -brand-name-safari } 一样，{ -brand-name-firefox } 鼓励热情的开发者社区为浏览器构建<a { $attrs }>附加组件和扩展</a>。而且，由于我们的平台是开源的，因此可供选择的范围很广，增加了许多功能。
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = 另外，当您创建 { -brand-name-firefox } 账户后，就可以访问其内部集成的一些特色服务，例如 <a { $pocket }>{ -brand-name-pocket }</a>。轻轻一点 { -brand-name-firefox } 的 { -brand-name-pocket } 按钮，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for = 另外，当您创建 { -brand-name-firefox } 账户后，就可以访问其内部集成的一些特色服务，例如 <a { $pocket }>{ -brand-name-pocket }</a> 和 <a { $send }>{ -brand-name-send }</a>，它们都直接集成在浏览器中。轻轻一点 { -brand-name-firefox } 的 { -brand-name-pocket } 按钮，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。使用{ -brand-name-send }，您可以端到端使用多种加密分享大文件，更提供文件链接过期时间、下载次数以及提取码等多重安全控制手段，更多一层保护。
+# Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
@@ -49,14 +54,14 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>屏幕截图</a>�
 compare-safari-firefox-and-safari-both-provide = 从桌面浏览器切换到移动浏览器时，{ -brand-name-firefox } 和 { -brand-name-safari } 均可提供无缝的体验，反之亦然。对于 { -brand-name-safari } 而言，其主要优势之一是其连续性特性。它能将您的书签、标签页、历史记录和更多内容同步到 iCloud，以便在所有设备上都可用。这意味着您可以在 { -brand-name-iphone } 上打开的标签页，只需点击一下即可将其显示在 { -brand-name-mac } 笔记本电脑上。
 compare-safari-both-browsers-have-a-lot = 两款浏览器的功能有许多重叠的部分，但各自也有一些特色功能。例如，您经常使用 { -brand-name-firefox } 的屏幕截图功能，突然没有了它，一定会觉得不习惯。但如果您只是在寻找一款用于浏览和购物的快速、私密的浏览器，而您一直在使用 { -brand-name-safari } 的原因，只因为它是计算机上预装的默认浏览器，那我们强烈建议您试试 { -brand-name-firefox }。最终，您会发现哪一款更符合您的需求。
 # Variables:
-#   $attrs (string) - link to TODO with additional attributes for analytics
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar = { -brand-name-firefox } 也提供了类似的同步功能，只需您创建一个免费的 <a { $attrs }>{ -brand-name-firefox-account } 账户</a>，便可以轻松地在多台设备间同步书签、浏览历史、首选项、密码、表单信息、附加组件和最近打开的标签页（25 个）。{ -brand-name-firefox } 与 { -brand-name-safari } 的不同之处在于，它可以在任何桌面或移动平台——{ -brand-name-ios }、{ -brand-name-android }、{ -brand-name-windows }、GNU/Linux 或 { -brand-name-macos } 上皆可使用，跨平台性绝佳。
 # Variables:
-#   $ios (string) - link to TODO with additional attributes for analytics
-#   $android (string) - link to TODO with additional attributes for analytics
+#   $ios (string) - link to Apple store with additional attributes for analytics
+#   $android (string) - link to Google Play store with additional attributes for analytics
 compare-safari-the-firefox-app-for-ios-and = 适用于 <a { $ios }>{ -brand-name-ios }</a> 和 <a { $android }>{ -brand-name-android }</a> 的 { -brand-name-firefox } 应用程序是目前最快的浏览器之一，并拥有可靠的安全性和反跟踪功能——如果您常在笔记本电脑和移动设备之间切换，更是如虎添翼。
 compare-safari-since-safari-is-apples-proprietary = 由于 { -brand-name-safari } 是 { -brand-name-apple } 的自有网络浏览器，它的 iCloud 同步只能在 { -brand-name-apple } 产品上工作。例如，如果您同时是 { -brand-name-android } 和 { -brand-name-iphone } 用户，或者有一台 { -brand-name-windows } 系统 PC，而不是只使用 { -brand-name-iphone }，数据同步就会存在一定限制。
 # Variables:
-#   $attrs (string) - link to TODO with additional attributes for analytics
+#   $attrs (string) - link to blog post with additional attributes for analytics
 compare-safari-safari-does-a-great-job-of = 若您是一位拥有多款 { -brand-name-apple } 产品的苹果用户，那么 { -brand-name-safari } 可以让浏览体验变得更简单、快速和无缝，这确实很棒。与 { -brand-name-safari } 一样，{ -brand-name-firefox } 亦是一款快速且实用的浏览器，但隐私和跨平台兼容性是我们的“王牌”。{ -brand-name-firefox } 每个月都会带来新的功能和特性。比如，最近的更新为新用户默认启用了<a { $attrs }>增强型跟踪保护（ETP）</a>，能够有效拦截 Cookie 和跨网站跟踪器。
 compare-safari-in-the-end-it-just-boils = 最后，一切终归结于您对于浏览器所看重的部分。如果您置身于 { -brand-name-apple } 的生态，{ -brand-name-safari } 仍然是一个不错的选择。但是，如果您更看重最新和最佳的隐私保护，且有跨操作系统工作的需求，我们认为 { -brand-name-firefox } 是您最好的选择。对于 { -brand-name-apple } 忠实用户，有时需要切换到其他浏览器，以在浏览时获得更好隐私保护，那么 { -brand-name-firefox } 不失为一个可靠的“备胎”。
