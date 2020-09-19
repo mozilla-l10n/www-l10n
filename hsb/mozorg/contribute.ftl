@@ -19,18 +19,34 @@ contribute-tag-technical-non-technical = Techniske a njetechniske
 contribute-tag-individual-event = Indiwiduelne a organizacija zarjadowanjow
 contribute-tag-individual = Indiwiduelne
 contribute-tag-support = Pomoc
+contribute-task-translate-heading = Wobsah přełožić
+contribute-task-mozilla-codebase-heading = Ke kodowej bazy { -brand-name-mozilla } přinošować
+contribute-task-join-heading = Přidružće so zhromadźenstwu
 
 ## Mission
 
+contribute-mission-heading = Naša misija
+contribute-mission-desc = Naša misija je, zawěsćić, zo internet je globalna zjawna resursa, kotraž je za wšěch wotewrjena a přistupna. Internet, kotryž ludźi woprawdźe na prěnje městno staja, hdźež jednotliwcy móža swójske dožiwjenje wuhotować a su społnomócnjeni, wěsći a njewotwisni.
+contribute-learn = Dalše informacije wo { -brand-name-mozilla }
+contribute-read-manifesto = Čitajće naš manifest
+contribute-find-event = Zarjadowanje namakać
+contribute-donate = Darić
+contribute-help-fund = Pomhajće našu misiju financować
+contribute-follow-mozilla = { -brand-name-mozilla } slědować
 
 ## Made by
 
 
 ## Newsletter
 
+contribute-newsletter-heading = Hišće njewěsty?
 
 ## Support
 
+contribute-support-heading = Pomoc sej wobstarać
+contribute-mozilla-support = Pomoc za { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Problemy z webstronu?
+contribute-report-issue = Problem zdźělić
