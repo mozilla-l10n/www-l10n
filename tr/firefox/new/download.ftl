@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Yalnızca tarayıcıyı indir
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">Artık { -brand-name-firefox } tarafından desteklenmeyen</a>, güvenli olmayan ve eski bir işletim sistemi kullanıyorsunuz.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = Mobil cihazınızda da <strong>gizlilik v
 firefox-new-its-a-family-of-products = Kişisel verilerinize saygı gösteren bir <strong>ürün ailesi</strong>.
 firefox-new-its-everything-you-need-to = <strong>İnternette güvende kalmak</strong> ile ilgili bilmek istediğiniz her şey.
 firefox-new-its-a-community-that-believes = Teknolojinin daha iyisini yapabileceğine inanan <strong>bir camia</strong>.
+firefox-new-download-interrupted = İndirmeniz kesintiye uğradı.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = { -brand-name-firefox }’u yüklemek için lütfen <a href="{ $url }">bu yönergeleri</a> izleyin.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.

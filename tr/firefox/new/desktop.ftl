@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Evet
 firefox-desktop-download-no = Hayır
 firefox-desktop-download-blocks-third-party = Üçüncü taraf takip çerezlerini engeller
+firefox-desktop-download-blocks-third-party-default = Varsayılan olarak üçüncü taraf takip çerezlerini engeller
 firefox-desktop-download-autoplay-blocking = Otomatik oynatma engelleme
 firefox-desktop-download-blocks-social-trackers = Sosyal takipçileri engeller
 # OS is short for "Operating System"

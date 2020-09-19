@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Hak ettiğiniz gizlilik. İhtiyacı
 firefox-mobile-get-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox }’u indirin
 firefox-mobile-send-a-download-link-to-your = İndirme bağlantısını telefonunuza gönderin.
 firefox-mobile-scan-the-qr-code-to-get-started = Başlamak için QR kodunu tarayın
+firefox-mobile-scan-alt-text = { -brand-name-firefox } uygulamasını indirmek için QR kodunu okutun
