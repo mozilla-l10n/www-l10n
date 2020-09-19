@@ -75,6 +75,7 @@ navigation-share-large-files-safely = Dźělće wulke dataje wěsće, z wotkazam
 navigation-save-quality-content = Składujće kwalitny wobsah wote wšudźe. Žiwće swój rozum wšudźe.
 navigation-sign-up = Registrować
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Spěšny. Jednory. Priwatny.
+navigation-protect-your-entire-device = Škitajće swój cyły grat a wšě nałoženja. Schowajće swoje woprawdźite stejnišćo a zwjazajće hač do 5 gratow. Abonujće nětko.
 # Outdated string
 navigation-connected-and-protected = Zwjazany a škitany
 navigation-join = Wobdźělić so
@@ -96,6 +97,7 @@ navigation-donate-your-voice-to = Darće swój hłós, zo byšće hłosowe spóz
 navigation-machine-learning = Mašinelne wuknjenje
 # Outdated string
 navigation-web-of-things-iot = Web wěcow (IoT)
+navigation-help-make-deep-learning = Pomhajće swětej wotewrjeneho žórła algoritmusy hlubokeho wuknjenja k dispoziciji stajić.
 # Outdated string
 navigation-make-devices-connected = Čińće graty, kotrež su zwjazane z internetom, wěste, škitane a kompatibelne.
 navigation-developers = Wuwiwarjo
