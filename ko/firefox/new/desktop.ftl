@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = 예
 firefox-desktop-download-no = 아니오
 firefox-desktop-download-blocks-third-party = 제 3자 추적 쿠키 차단
+firefox-desktop-download-blocks-third-party-default = 기본적으로 제 3자 추적 쿠키 차단
 firefox-desktop-download-autoplay-blocking = 자동 재생 차단
 firefox-desktop-download-blocks-social-trackers = 소셜 추적기 차단
 # OS is short for "Operating System"
@@ -155,6 +156,7 @@ firefox-desktop-download-now-mac = 이제 방금 다운로드 한 파일을 <str
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 문제가 있으신가요? <a { $attrs }> 설치에 대한 도움말 보기 </a>
 firefox-desktop-download-in-another-language = 다른 언어 또는 다른 운영 체제로 다운로드하세요.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox }가 더 이상 지원하지 않는</a> 안전하지 않고 오래된 운영체제를 사용하고 있습니다.
