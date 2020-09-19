@@ -9,6 +9,7 @@
 ## Page heading
 
 contribute-page-title = მოხალისეობის შესაძლებლობები { -brand-name-mozilla }-ში
+contribute-page-heading = თქვენი ნიჭი მეტად საჭიროა უკეთესი ინტერნეტისთვის
 
 ## Contribution tasks
 
