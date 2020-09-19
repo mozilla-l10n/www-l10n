@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Ześěgniśo jadnorje wobglědowak
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">južo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njepóbitujo, ale móžośo hyšći { -brand-name-firefox } wužywaś.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Wužywaśo njewěsty, zestarjony źěłowy system, kótaryž <a href="{ $url }">se wěcej wót { -brand-name-firefox } njedpódpěra</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,10 @@ firefox-new-its-privacy-and-peace-of = To jo teke <strong>priwatnosć a dušyny 
 firefox-new-its-a-family-of-products = Jo <strong>produktowa swójźba</strong>, kótaraž z wašymi wósobinskimi datami z respektom wobchada.
 firefox-new-its-everything-you-need-to = To jo wšykno, což musyśo wěźeś, aby <strong>online wěsty wóstał</strong>.
 firefox-new-its-a-community-that-believes = Jo <strong>zgromaźeństwo</strong>, kótarež wěri, až technologija móžo dobre cyniś.
+firefox-new-download-interrupted = Wašo ześěgnjenje jo se pśetergnuło. Ale wšykno njejo zhubjone.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Pšosym slědujśo <a href="{ $url }">toś tym instrukcijam</a> za instalěrowanje { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.
