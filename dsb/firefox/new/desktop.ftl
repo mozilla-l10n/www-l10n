@@ -25,6 +25,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Jo
 firefox-desktop-download-no = Ně
 firefox-desktop-download-blocks-third-party = Blokěrujo slědujuce cookiejei tśeśich
+firefox-desktop-download-blocks-third-party-default = Blokěrujo pó standarźe slědujuce cookieje tśeśich
 firefox-desktop-download-autoplay-blocking = Blokěrowanje awtomatiskego wótgrawanja
 firefox-desktop-download-blocks-social-trackers = Blokěrujo socialne pśeslědowaki
 # OS is short for "Operating System"
@@ -121,9 +122,20 @@ firefox-desktop-download-get-help = Maśo problemy? <a { $attrs }>Wobstarajśo s
 firefox-desktop-download-in-another-language = W drugej rěcy abo za drugi źěłowy system ześěgnuś.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">južo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njepóbitujo, ale móžośo hyšći { -brand-name-firefox } wužywaś.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Wužywaśo njewěsty, zestarjony źěłowy system, kótaryž <a href="{ $url }">se wěcej wót { -brand-name-firefox } njedpódpěra</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Wašo ześěgnjenje dejało se awtomatiski zachopiś. Njefunkcioněrujo? <a id="{ $id }" href="{ $fallback_url }">Ześěgniśo znowego</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } oe wěcej ako wobglědowak.
+firefox-desktop-download-interrupted = Wašo ześěgnjenje jo se pśetergnuło. Ale wšykno njejo zhubjone.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Pšosym slědujśo <a href="{ $url }">toś tym instrukcijam</a> za instalěrowanje { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.
