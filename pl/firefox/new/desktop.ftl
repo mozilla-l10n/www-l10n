@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Tak
 firefox-desktop-download-no = Nie
 firefox-desktop-download-blocks-third-party = Blokuje ciasteczka zewnętrznych witryn używane do śledzenia
+firefox-desktop-download-blocks-third-party-default = Domyślnie blokuje ciasteczka zewnętrznych witryn używane do śledzenia
 firefox-desktop-download-autoplay-blocking = Blokowanie automatycznego odtwarzania
 firefox-desktop-download-blocks-social-trackers = Blokuje elementy śledzące serwisów społecznościowych
 # OS is short for "Operating System"
