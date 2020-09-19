@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ja
 firefox-desktop-download-no = Nei
 firefox-desktop-download-blocks-third-party = Blokkerer tredjeparts sporingsinfokapslar
+firefox-desktop-download-blocks-third-party-default = Blokkerer tredjeparts sporingsinfokapslar som standard
 firefox-desktop-download-autoplay-blocking = Blokkering av automatisk avspeling
 firefox-desktop-download-blocks-social-trackers = Blokkerer sosiale mediesporarar
 # OS is short for "Operating System"

@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-page-heading = Dine talent er nødvendige for eit betre internett
 contribute-how-heading = Korleis du kan bidra…
 
 ## Contribution tasks
@@ -15,8 +16,10 @@ contribute-how-heading = Korleis du kan bidra…
 contribute-tag-non-technical = Ikkje-teknisk
 contribute-tag-technical = Teknisk
 contribute-tag-technical-non-technical = Teknisk og ikkje-teknisk
+contribute-tag-individual = Individuell
 contribute-tag-support = Brukarstøtte
 contribute-task-translate-heading = Omset innhald
+contribute-task-join-heading = Ver med i fellesskapet
 
 ## Mission
 
