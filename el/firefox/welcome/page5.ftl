@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/5/
 
+# HTML page title
+welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise } — διαχείριση κωδικών πρόσβασης — πάρτε τους κωδικούς πρόσβασής σας παντού
 welcome-page5-theres-an-easier-way-to-deal = Υπάρχει πιο εύκολος τρόπος διαχείρισης κωδικών πρόσβασης
 welcome-page5-get-the-lockwise-app = Αποκτήστε την εφαρμογή { -brand-name-lockwise }
 welcome-page5-get-firefox-lockwise-on-your = Λήψη του { -brand-name-firefox-lockwise } στο τηλέφωνό σας
