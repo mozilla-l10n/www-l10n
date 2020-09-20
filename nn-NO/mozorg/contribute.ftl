@@ -31,12 +31,15 @@ contribute-learn = Les om { -brand-name-mozilla }
 contribute-read-manifesto = Les manifestet vårt
 contribute-find-event = Finn eit arrangement
 contribute-donate = Doner
+contribute-help-fund = Bidra til å finansiere oppdraget vårt
+contribute-follow-mozilla = Følg { -brand-name-mozilla }
 
 ## Made by
 
 
 ## Newsletter
 
+contribute-newsletter-heading = Ikkje sikker enno?
 
 ## Support
 
@@ -45,4 +48,5 @@ contribute-mozilla-support = { -brand-name-mozilla }-brukarstøtte
 
 ## Web compat
 
+contribute-web-compat-heading = Problem med ei nettside?
 contribute-report-issue = Rapporter eit problem
