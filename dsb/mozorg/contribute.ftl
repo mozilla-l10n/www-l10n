@@ -23,6 +23,9 @@ contribute-task-join-heading = Pśizamkniśo se zgromaźeństwoju
 ## Mission
 
 contribute-mission-heading = Naša misija
+contribute-learn = Dalšne informacije wó { -brand-name-mozilla }
+contribute-read-manifesto = Cytajśo naš manifest
+contribute-find-event = Tšojenje namakaś
 
 ## Made by
 
