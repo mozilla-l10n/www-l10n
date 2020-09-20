@@ -11,3 +11,5 @@ compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } protiv { -bran
 compare-brave-compare-brave-to-the-firefox = Usporedi { -brand-name-brave } i { -brand-name-firefox-browser } te utvrdi koji je preglednik bolji za tebe u smislu privatnosti, korisnosti i prenosivosti.
 # Main title
 compare-brave-comparing-firefox-browser = Usporedba: { -brand-name-firefox-browser } kontra { -brand-name-brave }
+# "Brave Software" is a brand name.
+compare-brave-just-like-the-firefox-browser = Kao i preglednik { -brand-name-firefox }, { -brand-name-brave } preglednik je besplatan, otvorenog koda i fokusiran je na zaštitu privatnosti korisnika. { -brand-name-brave } relativno je nov u svijetu preglednika: njegov proizvođač, { -brand-name-brave } Software, predstavio je preglednika po prvi put u siječnju 2016. U ovom ćemo članku usporediti naš { -brand-name-firefox } preglednik s preglednikom { -brand-name-brave } u tri kategorije: privatnost, korisnost i prenosivost.
