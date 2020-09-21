@@ -28,6 +28,8 @@ contribute-task-join-heading = Ejuaju tekoháre
 contribute-mission-heading = Ore rembipota
 contribute-read-manifesto = Emoñe’ẽ Mozilla he’ipyre
 contribute-find-event = Ejuhu tembiaporã
+contribute-meet-volunteers = Eikuaa ore pytyvõhárape
+contribute-donate = Eme’ẽ
 
 ## Made by
 
@@ -37,6 +39,7 @@ contribute-find-event = Ejuhu tembiaporã
 
 ## Support
 
+contribute-mozilla-support = { -brand-name-mozilla } Ñepytyvõ
 
 ## Web compat
 
