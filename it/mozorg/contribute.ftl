@@ -23,6 +23,9 @@ contribute-task-join-heading = Unisciti alla comunità
 ## Mission
 
 contribute-mission-heading = La nostra missione
+contribute-learn = Informazioni su { -brand-name-mozilla }
+contribute-find-event = Trova un evento
+contribute-meet-volunteers = Incontra i nostri appassionati volontari
 contribute-donate = Fai una donazione
 contribute-help-fund = Aiutaci a finanziare la nostra missione
 contribute-follow-mozilla = Segui { -brand-name-mozilla }
@@ -37,7 +40,9 @@ contribute-opportunities = Notizie e opportunità per i volontari
 ## Support
 
 contribute-support-heading = Richiedi assistenza
+contribute-mozilla-support = Supporto di { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Problemi con una pagina web?
 contribute-report-issue = Segnala un problema
