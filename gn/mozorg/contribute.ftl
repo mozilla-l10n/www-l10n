@@ -34,9 +34,12 @@ contribute-find-event = Ejuhu tembiaporã
 contribute-meet-volunteers = Eikuaa ore pytyvõhárape
 contribute-donate = Eme’ẽ
 contribute-help-fund = Eipytyvõ ore rembipota ñehepyme’ẽme
+contribute-follow-mozilla = Ehepykueho { -brand-name-mozilla }
+contribute-opportunities = Marandu ha pa’ũ ñepytyvõrãva
 
 ## Made by
 
+contribute-made-by-heading = Ojapóva yvypóra ndeichaguánte avei
 
 ## Newsletter
 
