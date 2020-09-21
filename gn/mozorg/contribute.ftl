@@ -20,9 +20,14 @@ contribute-tag-technical-non-technical = Aporekogua ha Aporekogua’ỹva
 contribute-tag-individual-event = Ñemopyenda ha’eñogua ha tembiaporãva
 contribute-tag-individual = Ha’eñogua
 contribute-tag-support = Ñepytyvõ
+contribute-task-translate-heading = Tetepy moñe’ẽasa
+contribute-task-join-heading = Ejuaju tekoháre
 
 ## Mission
 
+contribute-mission-heading = Ore rembipota
+contribute-read-manifesto = Emoñe’ẽ Mozilla he’ipyre
+contribute-find-event = Ejuhu tembiaporã
 
 ## Made by
 
