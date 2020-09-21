@@ -90,7 +90,11 @@ firefox-desktop-download-almost-there = Še malo!
 firefox-desktop-download-now-windows = Zdaj <strong>zaženite</strong> namestitveni program, ki ste ga prenesli.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Zdaj <strong>odprite</strong> datoteko, ki ste jo prenesli.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Imate težave? <a { $attrs }>Poiščite pomoč pri namestitvi</a>.
 firefox-desktop-download-in-another-language = Prenesite v drugem jeziku ali za drug operacijski sistem.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Uporabljate zastarel operacijski sistem, ki ni več varen in ga <a href="{ $url }">{ -brand-name-firefox } ne podpira več</a>.
