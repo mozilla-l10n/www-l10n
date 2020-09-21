@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Y preifatrwydd rydych chi'n ei haed
 firefox-mobile-get-firefox-for-mobile = { -brand-name-firefox } ar gyfer dyfeisiau symudol
 firefox-mobile-send-a-download-link-to-your = Anfonwch ddolen llwytho i'ch ffôn.
 firefox-mobile-scan-the-qr-code-to-get-started = Sganiwch y cod QR i gychwyn
+firefox-mobile-scan-alt-text = Sganiwch y cod QR i gael { -brand-name-firefox } ar ffôn symudol
