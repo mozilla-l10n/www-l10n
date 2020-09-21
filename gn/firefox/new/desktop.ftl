@@ -112,6 +112,10 @@ firefox-desktop-download-get-firefox-ios = Ereko { -brand-name-firefox-browser }
 firefox-desktop-download-download-the-mobile = Emboguejy kundahára oku’éva { -brand-name-firefox } ñemo’ã ijeheguíva opaite mba’e’okápe g̃uarã.
 firefox-desktop-download-learn-about-the = Eikuave { -brand-name-firefox } kundahára mesa arigua rehegua
 # Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Ne rekorosã guive marandu ha ñembosarái peve, oĩ <a { $attrs }>moĩmbaha opavavépe g̃uarã</a>. Embojuaju eikotevẽva ne kundahára eipotaháicha peve.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Egueru ta’ãnga iporãva oimeraẽva ñandutígui ore rembipuru <a { $attrs }>mba’erechaha jejapyhy</a> oĩva kundahára ndive.
 # Variables:
