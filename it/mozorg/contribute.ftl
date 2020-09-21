@@ -23,6 +23,10 @@ contribute-task-join-heading = Unisciti alla comunità
 ## Mission
 
 contribute-mission-heading = La nostra missione
+contribute-donate = Fai una donazione
+contribute-help-fund = Aiutaci a finanziare la nostra missione
+contribute-follow-mozilla = Segui { -brand-name-mozilla }
+contribute-opportunities = Notizie e opportunità per i volontari
 
 ## Made by
 
@@ -32,6 +36,8 @@ contribute-mission-heading = La nostra missione
 
 ## Support
 
+contribute-support-heading = Richiedi assistenza
 
 ## Web compat
 
+contribute-report-issue = Segnala un problema
