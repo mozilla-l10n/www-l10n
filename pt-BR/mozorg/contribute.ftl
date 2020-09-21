@@ -10,6 +10,7 @@
 
 contribute-page-title = Oportunidades de voluntariado na { -brand-name-mozilla }
 contribute-page-heading = Seus talentos são necessários para uma internet melhor
+contribute-page-intro = { -brand-name-mozilla } é uma organização sem fins lucrativos que trabalha para garantir que a internet seja aberta e acolhedora a todos. Precisamos de sua ajuda. Ao ingressar na nossa comunidade, você pode ajudar a impulsionar a inovação, aumentar a responsabilidade e a confiança e tornar a internet um lugar melhor para todos.
 contribute-how-heading = Como você pode contribuir…
 
 ## Contribution tasks
@@ -26,10 +27,12 @@ contribute-task-mozilla-codebase-heading = Contribua com a base de código da { 
 contribute-task-mozilla-codebase-desc = Melhore ativamente os produtos { -brand-name-mozilla }, contribuindo em uma variedade de oportunidades de desenvolvimento.
 contribute-task-support-desc = Ajude a tornar os produtos { -brand-name-mozilla } fáceis de usar. Responda às perguntas de “ajuda” das pessoas como parte dos fóruns da comunidade de suporte { -brand-name-mozilla }.
 contribute-task-join-heading = Junte-se à comunidade
+contribute-task-join-desc = Quer se envolver mais na comunidade { -brand-name-mozilla }? Confira todas as oportunidades de voluntariado em nosso Portal da Comunidade.
 
 ## Mission
 
 contribute-mission-heading = Nossa Missão
+contribute-mission-desc = Nossa missão é garantir que a internet seja um recurso global público, aberto e acessível a todos. Uma internet que realmente coloque as pessoas em primeiro lugar, onde indivíduos possam moldar sua própria experiência de uso e sejam capacitados, seguros e independentes.
 contribute-learn = Saiba mais sobre a { -brand-name-mozilla }
 contribute-read-manifesto = Leia nosso manifesto
 contribute-find-event = Encontre um evento
@@ -37,10 +40,12 @@ contribute-meet-volunteers = Conheça nossos apaixonados voluntários
 contribute-donate = Faça uma doação
 contribute-help-fund = Ajude a financiar nossa missão
 contribute-follow-mozilla = Siga a { -brand-name-mozilla }
+contribute-opportunities = Notícias e oportunidades de voluntariado
 
 ## Made by
 
 contribute-made-by-heading = Feito por pessoas apaixonadas como você
+contribute-made-by-desc = Quando você contribui para a { -brand-name-mozilla }, se torna parte de uma comunidade mundial composta por pessoas de todo o mundo que acreditam que todos nós temos um papel em garantir que a internet continue sendo uma força para o bem.
 
 ## Newsletter
 
