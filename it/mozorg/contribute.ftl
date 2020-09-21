@@ -23,6 +23,7 @@ contribute-task-join-heading = Unisciti alla comunità
 ## Mission
 
 contribute-mission-heading = La nostra missione
+contribute-mission-desc = La nostra missione consiste nell’assicurarci che Internet rimanga una risorsa pubblica, aperta e accessibile a tutti. Un Internet che metta le persone al centro, in cui ciascuno di noi possa modellare la propria esperienza online, sempre in controllo, in sicurezza e indipendente.
 contribute-learn = Informazioni su { -brand-name-mozilla }
 contribute-find-event = Trova un evento
 contribute-meet-volunteers = Incontra i nostri appassionati volontari
