@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Sì
 firefox-desktop-download-no = No
 firefox-desktop-download-blocks-third-party = Blocca cookie traccianti di terze parti
+firefox-desktop-download-blocks-third-party-default = Blocca i cookie traccianti di terze parti per impostazione predefinita
 firefox-desktop-download-autoplay-blocking = Blocco della riproduzione automatica
 firefox-desktop-download-blocks-social-trackers = Blocca traccianti social
 # OS is short for "Operating System"
