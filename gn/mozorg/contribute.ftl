@@ -43,10 +43,14 @@ contribute-made-by-heading = Ojapóva yvypóra ndeichaguánte avei
 
 ## Newsletter
 
+contribute-newsletter-heading = ¿Ndereikuaaporãi gueteripa?
 
 ## Support
 
+contribute-support-heading = Eipota pytyvõ
 contribute-mozilla-support = { -brand-name-mozilla } Ñepytyvõ
 
 ## Web compat
 
+contribute-web-compat-heading = ¿Apañuãi peteĩ ñanduti rendápe?
+contribute-report-issue = Emomarandu apañuãi
