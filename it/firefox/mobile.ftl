@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = La privacy che ti meriti. La veloci
 firefox-mobile-get-firefox-for-mobile = Installa { -brand-name-firefox } per dispositivi mobili
 firefox-mobile-send-a-download-link-to-your = Invia un link di download al tuo telefono.
 firefox-mobile-scan-the-qr-code-to-get-started = Scansiona il codice QR per iniziare
+firefox-mobile-scan-alt-text = Scansiona il codice QR per scaricare { -brand-name-firefox } sul cellulare
