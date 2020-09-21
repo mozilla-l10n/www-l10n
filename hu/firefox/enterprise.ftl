@@ -7,7 +7,7 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Szerezze be a { -brand-name-firefox }ot vállalata számára az { -brand-name-esr } és gyors kiadásokkal
 firefox-enterprise-get-unmatched-data-protection = Szerezzen páratlan adatvédelmet, és a vállalatának megfelelő kiadási ütemet a { -brand-name-firefox }szal. Töltse le az { -brand-name-esr }-t és a gyors kiadást.
-firefox-enterprise-enterprise = Vállalati
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Áttekintés
 firefox-enterprise-downloads = Letöltések
 firefox-enterprise-get-firefox-for-your-enterprise = Szerezze be a { -brand-name-firefox }ot vállalata számára
@@ -28,8 +28,8 @@ firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Válassza ki a letöltését
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI telepítő
-firefox-enterprise-firefox-extended-support-release = Firefox kiterjesztett támogatású kiadás ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = Firefox kiterjesztett támogatású kiadás ({ -brand-name-esr }) – MSI telepítő
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI telepítő
 firefox-enterprise-support = Támogatás
 firefox-enterprise-msi-installers = MSI telepítők
 firefox-enterprise-legacy-browser-support = Örökölt böngészőtámogatás
