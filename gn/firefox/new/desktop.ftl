@@ -29,6 +29,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Héẽ
 firefox-desktop-download-no = Nahániri
 firefox-desktop-download-blocks-third-party = Ejoko umi kookie tapykuehoha mbohapyháva
+firefox-desktop-download-blocks-third-party-default = Ejoko kookie tapykuehoha mbohapyháva ijehegui
 firefox-desktop-download-autoplay-blocking = Ejoko ñemboheta ijeheguíva
 firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 # OS is short for "Operating System"

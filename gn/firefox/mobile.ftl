@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Ñemigua ndereheguáva. Pya’kue e
 firefox-mobile-get-firefox-for-mobile = Eguereko { -brand-name-firefox } Pumbyrýpe g̃uarã
 firefox-mobile-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
 firefox-mobile-scan-the-qr-code-to-get-started = Emoha’ãnga ayvu QR eñepyrũ hag̃ua
+firefox-mobile-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox } ne pumbyrýpe
