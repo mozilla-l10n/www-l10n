@@ -156,6 +156,11 @@ firefox-desktop-download-now-mac = <strong>Öppna</strong> nu filen som just har
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Har du problem? <a { $attrs }>Få hjälp med din installation</a>.
 firefox-desktop-download-in-another-language = Ladda ner på ett annat språk eller för ett annat operativsystem.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Om du får en uppmaning om att appen du försöker installera inte är en { -brand-name-microsoft }-verifierad app, klickar du på "Installera ändå" eller <a { $attrs }>ändra inställningar för apprekommendationer</ a >.
+firefox-desktop-download-visit-support-for-more = Besök support för mer information
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tillhandahåller inte längre säkerhetsuppdateringar</a> för { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan fortfarande använda { -brand-name-firefox }.

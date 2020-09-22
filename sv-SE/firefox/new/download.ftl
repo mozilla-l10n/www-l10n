@@ -65,3 +65,8 @@ firefox-new-please-follow = Följ <a href="{ $url }">dessa instruktioner</a> fö
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ditt system uppfyller kanske inte kraven för { -brand-name-firefox }, men du kan prova en av <a href="{ $url }">dessa versioner</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Om du får en uppmaning om att appen du försöker installera inte är en { -brand-name-microsoft }-verifierad app, klickar du på "Installera ändå" eller <a { $attrs }>ändra inställningar för apprekommendationer</ a >.
+firefox-new-visit-support-for-more = Besök support för mer information
