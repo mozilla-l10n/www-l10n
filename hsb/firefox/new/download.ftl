@@ -66,4 +66,7 @@ firefox-new-please-follow = Prošu slědujće <a href="{ $url }">tutym instrukci
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Jeli namołwu widźiće, kotraž zdźěla, zo nałoženje, kotrež chceće instalować, njeje wot { -brand-name-microsoft } přepruwowane, klikńće na „Najebać toho instalować“ abo <a { $attrs }>změńće doporučenske nastajenja nałoženja</a>.
 firefox-new-visit-support-for-more = Wopytajće strony pomocy za dalše podrobnosće

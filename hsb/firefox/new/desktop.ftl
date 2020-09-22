@@ -25,6 +25,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Haj
 firefox-desktop-download-no = Ně
 firefox-desktop-download-blocks-third-party = Blokuje slědowanske placki třećich poskićowarjow
+firefox-desktop-download-blocks-third-party-default = Blokuje slědowanske placki třećich poskićowarjow po standardźe
 firefox-desktop-download-autoplay-blocking = Blokowanje awtomatiskeho wothrawanja
 firefox-desktop-download-blocks-social-trackers = Blokuje přesćěhowaki socialnych syćow
 # OS is short for "Operating System"
@@ -51,7 +52,7 @@ firefox-desktop-download-sync-across-devices = Synchronizacija mjez gratami
 firefox-desktop-download-reader-mode = Čitanski modus
 firefox-desktop-download-spell-check = Prawopisna kontrola
 firefox-desktop-download-pinned-tabs = Připjate rajtarki
-firefox-desktop-download-stream-share-play = ´Prudźić, dźělić a hrać
+firefox-desktop-download-stream-share-play = Prudźić, dźělić a hrać
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Awtomatiske wothrawanje widejow a awdio blokować
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -119,6 +120,15 @@ firefox-desktop-download-now-mac = <strong>Wočińće</strong> nětko dataju, ko
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Maće problemy? <a { $attrs }>Wobstarajće sej pomoc za swoju instalaciju</a>.
 firefox-desktop-download-in-another-language = W druhej rěči abo za druhi dźěłowy system sćahnyć.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Jeli namołwu widźiće, kotraž zdźěla, zo nałoženje, kotrež chceće instalować, njeje wot { -brand-name-microsoft } přepruwowane, klikńće na „Najebać toho instalować“ abo <a { $attrs }>změńće doporučenske nastajenja nałoženja</a>.
+firefox-desktop-download-visit-support-for-more = Wopytajće strony pomocy za dalše podrobnosće
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">hižo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njeposkića, ale móžeće hišće { -brand-name-firefox } wužiwać.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Wužiwaće njewěsty, zestarjeny dźěłowy system, kotryž <a href="{ $url }">so hižo wot { -brand-name-firefox } njedpodpěruje</a>.
@@ -127,3 +137,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Wužiwaće njewěsty
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Waše sćehnjenje dyrbjało so awtomatisce započeć. Njefunguje? <a id="{ $id }" href="{ $fallback_url }">Sćehńće znowa</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je wjace hač wobhladowak.
+firefox-desktop-download-interrupted = Waše sćehnjenje je so přetorhnyło. Ale wšitko zhubjene njeje.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Prošu slědujće <a href="{ $url }">tutym instrukcijam</a> za instalowanje { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.
