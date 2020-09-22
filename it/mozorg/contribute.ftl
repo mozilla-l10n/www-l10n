@@ -10,7 +10,7 @@
 
 contribute-page-title = Opportunità per i volontari in { -brand-name-mozilla }
 contribute-page-heading = Abbiamo bisogno del tuo talento per un Internet migliore
-contribute-page-intro = { -brand-name-mozilla } è un’organizzazione senza scopo di lucro che si impegna perché Internet sia aperto e accogliente per tutti. E abbiamo bisogno del tuo aiuto. Unendoti alla nostra comunità, puoi contribuire a guidare l’innovazione, accrescere il senso di responsabilità e la fiducia degli utenti e rendere Internet un posto migliore per tutti.
+contribute-page-intro = { -brand-name-mozilla } è un’organizzazione senza fini di lucro che si impegna perché Internet sia aperto e accogliente per tutti… e abbiamo bisogno del tuo aiuto. Unendoti alla nostra comunità, puoi contribuire a guidare l’innovazione, accrescere il senso di responsabilità e la fiducia degli utenti e rendere Internet un posto migliore per tutti.
 contribute-how-heading = Scopri come puoi contribuire
 
 ## Contribution tasks
