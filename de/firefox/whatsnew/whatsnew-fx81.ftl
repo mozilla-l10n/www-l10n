@@ -8,7 +8,7 @@
 # html page title
 whatsnew81-page-title = Jetzt neu in { -brand-name-firefox }
 # Main title
-whatsnew81-main-title = Einer neuer { -brand-name-firefox } für alle Geräte
+whatsnew81-main-title = Ein neuer { -brand-name-firefox } für alle Geräte
 whatsnew81-main-intro = Egal welches Betriebssystem du nutzt – hol dir jetzt einen besseren mobilen Browser mit gemeinnützigem Hintergrund.
 whatsnew81-send-form-label = Gib deine E-Mail-Adresse ein, um dir den Download-Link zu senden
 whatsnew81-send-form-label-alt = Gib deine E-Mail-Adresse oder Handynummer ein, um dir den Download-Link zu senden
