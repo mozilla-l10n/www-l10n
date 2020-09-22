@@ -10,6 +10,7 @@
 
 contribute-page-title = { -brand-name-mozilla } 的志願服務機會
 contribute-page-heading = 要有更好的網路環境，需要有您的才能幫忙
+contribute-page-intro = { -brand-name-mozilla } 是個致力於確保網際網路開放，讓任何人都能隨意使用的非營利組織，我們需要您的幫忙。加入社群可以幫助推動創新、加強責任感與信任度，幫助讓網路網路對每一個人都能變得更好。
 contribute-how-heading = 以下是您可以協助的部分…
 
 ## Contribution tasks
@@ -21,7 +22,9 @@ contribute-tag-individual-event = 個人參與與活動舉辦
 contribute-tag-individual = 個人參與
 contribute-tag-support = 技術支援
 contribute-task-translate-heading = 翻譯內容
+contribute-task-translate-desc = 只有當世界各地的人們都能用自己的語言使用網際網路的時候，才是真正的國際化。請幫助我們將 { -brand-name-mozilla } 產品與網站翻譯成您使用的語言。
 contribute-task-mozilla-codebase-heading = 貢獻程式碼到 { -brand-name-mozilla } codebase
+contribute-task-mozilla-codebase-desc = 貢獻各種開發專案，積極改善 { -brand-name-mozilla } 產品。
 contribute-task-support-desc = 幫助我們把 { -brand-name-mozilla } 產品做得簡單易用。參與 { -brand-name-mozilla } 技術支援社群討論區來回答其他使用者的「幫幫我！」問題。
 contribute-task-join-heading = 加入社群
 contribute-task-join-desc = 想要更深地參與 { -brand-name-mozilla } 社群嗎？到 Community Portal 看看有哪些可由志工參與的機會。
@@ -42,6 +45,7 @@ contribute-opportunities = 新聞與以志工身分參與機會
 ## Made by
 
 contribute-made-by-heading = 由像您這樣充滿熱情的人打造
+contribute-made-by-desc = 當您貢獻到 { -brand-name-mozilla }，就已經成為全球社群的一分子。{ -brand-name-mozilla } 社群成員由來自世界各地，相信每個人都能扮演讓網際網路變得更好的角色所組成。
 
 ## Newsletter
 
@@ -57,6 +61,6 @@ contribute-mozilla-support = { -brand-name-mozilla } 技術支援
 
 ## Web compat
 
-contribute-web-compat-heading = 網頁有問題嗎？
+contribute-web-compat-heading = 某張網頁在特定瀏覽器無法操作？
 contribute-web-compat-desc = 若您發現某個網站在不同瀏覽器間的體驗不同，可能就遇到了網頁相容性問題。我們也想知道！
 contribute-report-issue = 回報問題
