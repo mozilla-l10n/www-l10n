@@ -65,3 +65,4 @@ firefox-new-please-follow = Per favor seque <a href="{ $url }">iste instructione
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tu systema possibilemente non satisface le requisitos pro exequer { -brand-name-firefox }, ma tu pote probar un de <a href="{ $url }">iste versiones</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10

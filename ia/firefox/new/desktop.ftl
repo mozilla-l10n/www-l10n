@@ -156,6 +156,7 @@ firefox-desktop-download-now-mac = Ora <strong>aperi</strong> le file justo disc
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemas? <a { $attrs }>Demanda adjuta con tu installation</a>.
 firefox-desktop-download-in-another-language = Discarga in un altere lingua o pro un altere systema operative.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">non forni plus le actualisationes de securitate</a> sur { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, ma tu pote ancora usar { -brand-name-firefox }.
