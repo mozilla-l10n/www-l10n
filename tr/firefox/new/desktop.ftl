@@ -156,6 +156,7 @@ firefox-desktop-download-now-mac = Şimdi indirdiğiniz dosyayı <strong>açın<
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kurulumla ilgili yardım alabilirsiniz</a>.
 firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.

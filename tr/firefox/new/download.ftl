@@ -65,3 +65,4 @@ firefox-new-please-follow = { -brand-name-firefox }’u yüklemek için lütfen 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.
+firefox-new-windows-10 = { -brand-name-windows } 10
