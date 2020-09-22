@@ -65,3 +65,5 @@ firefox-new-please-follow = Prošu slědujće <a href="{ $url }">tutym instrukci
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Wopytajće strony pomocy za dalše podrobnosće
