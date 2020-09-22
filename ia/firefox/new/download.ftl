@@ -66,3 +66,7 @@ firefox-new-please-follow = Per favor seque <a href="{ $url }">iste instructione
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tu systema possibilemente non satisface le requisitos pro exequer { -brand-name-firefox }, ma tu pote probar un de <a href="{ $url }">iste versiones</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Si tu vide un sollicitation que defini le application tu tenta installar non es un application verificate per { -brand-name-microsoft }, clicca “Installa comocunque” o <a { $attrs }>cambia le parametros de recommendation del application</a>.
+firefox-new-visit-support-for-more = Visitar le supporto pro altere detalios
