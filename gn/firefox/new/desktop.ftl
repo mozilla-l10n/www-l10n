@@ -42,6 +42,7 @@ firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
 firefox-desktop-download-for-everyone = { -brand-name-firefox } opavavépe g̃uarã
 firefox-desktop-download-review-system-req = Ehechajey apopyvusu jerurepy
 firefox-desktop-download-all-your-devices = Emoĩ { -brand-name-firefox } opaite ne mba’e’okápe
+firefox-desktop-download-take-your-privacy = Egueraha nde rekoñemi oparupiete. { -brand-name-firefox-browsers } { -brand-name-ios } peg̃uarã ha { -brand-name-android } oreko ñemboheko ñemigua imbaretéva omboyke hag̃ua tapykuehoha nderapykuehóvo ñandutípe, mamo reimehápe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = <strong>Ejapopa</strong> { -brand-name-firefox } ndive
 firefox-desktop-download-search-smarter = Eheka pya’eve ha katupyrýpe
