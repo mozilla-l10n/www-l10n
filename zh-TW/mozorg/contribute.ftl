@@ -46,6 +46,7 @@ contribute-opportunities = 新聞與以志工身分參與機會
 
 contribute-made-by-heading = 由像您這樣充滿熱情的人打造
 contribute-made-by-desc = 當您貢獻到 { -brand-name-mozilla }，就已經成為全球社群的一分子。{ -brand-name-mozilla } 社群成員由來自世界各地，相信每個人都能扮演讓網際網路變得更好的角色所組成。
+contribute-made-by-desc-cont = 我們相信，社群成員的協作，對於打造網際網路成為多樣化、持續創新、並對最需要網際網路的人們負責，是相當重要的。不論您有技術背景、營造社群，或只有一些空閒時間上上網，都能夠幫助我們讓網際網路變得更好。
 
 ## Newsletter
 
