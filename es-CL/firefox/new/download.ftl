@@ -69,3 +69,4 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Si ves un mensaje indicando que la aplicación que estás intentando instalar no es una aplicación verificada de { -brand-name-microsoft }, haz clic en "Instalar de todas formas" o en <a { $attrs }>Cambiar los ajustes de recomendación de aplicaciones</a>.
+firefox-new-visit-support-for-more = Visita Ayuda para más detalles
