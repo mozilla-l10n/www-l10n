@@ -157,6 +157,9 @@ firefox-desktop-download-now-mac = 接下来，<strong>打开</strong>刚下载�
 firefox-desktop-download-get-help = 遇到问题？<a { $attrs }>获取安装帮助</a>。
 firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = 若您看到“您正在安装的应用程序未经 { -brand-name-microsoft } 验证”，请点击“仍要安装”或<a { $attrs }>更改应用建议设置</a>。
 firefox-desktop-download-visit-support-for-more = 到用户支持站了解更多信息
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
