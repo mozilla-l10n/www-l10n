@@ -159,7 +159,7 @@ firefox-desktop-download-in-another-language = Last ned på et annet språk elle
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Hvis du får en melding om at appen du prøver å installere ikke er en { -brand-name-microsoft }-verifisert app, klikker du på «Installer likevel» eller <a { $attrs }>endre innstillinger for appanbefaling</a>.
+firefox-desktop-download-if-you-see-a-prompt = Hvis du får en melding om at appen du prøver å installere ikke er en { -brand-name-microsoft }-bekreftet app, klikker du på «Installer likevel» eller <a { $attrs }>Endre innstillinger for appanbefaling</a>.
 firefox-desktop-download-visit-support-for-more = Besøk brukerstøtte for mer informasjon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
