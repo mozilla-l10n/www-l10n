@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-page-title = Móžnosće za dobrowólnikow pola { -brand-name-mozilla }
 contribute-page-heading = Waše talenty su trěbne za lěpši internet.
 contribute-how-heading = Kak móžeće sobu pomhać…
 
@@ -33,6 +34,7 @@ contribute-find-event = Zarjadowanje namakać
 contribute-donate = Darić
 contribute-help-fund = Pomhajće našu misiju financować
 contribute-follow-mozilla = { -brand-name-mozilla } slědować
+contribute-opportunities = Nowinki a móžnosće za dobrowólnikow
 
 ## Made by
 
