@@ -156,6 +156,7 @@ firefox-desktop-download-now-mac = <strong>Iepenje no</strong> it bestân dat sa
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemen? <a { $attrs }>Untfang help by jo ynstallaasje</a>.
 firefox-desktop-download-in-another-language = Downloade yn in oare taal of foar in oar bestjoeringssysteem.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt gjin befeiligingsfernijingen mear oan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, mar jo kinne { -brand-name-firefox } noch hieltyd brûke.
