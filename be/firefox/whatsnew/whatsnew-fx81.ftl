@@ -7,4 +7,6 @@
 
 # html page title
 whatsnew81-page-title = Што новага ў { -brand-name-firefox }
+# Main title
+whatsnew81-main-title = Новы { -brand-name-firefox } для кожнай прылады
 whatsnew81-make-firefox-your-everyday = Зрабіце { -brand-name-firefox } сваім штодзённым браўзерам на { -brand-name-ios }
