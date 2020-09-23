@@ -15,8 +15,12 @@ firefox-desktop-download-og-title = Sćehńće dotal najspěšniši { -brand-nam
 firefox-desktop-download-og-desc = Strony so spěšnišo začitaja, mjenje składa so wužiwa a z wjele funkcijemi: Nowy { -brand-name-firefox } je wušoł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Wobstarajće sej wobhladowak, kotryž škita, štož je wažne.
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Žane dwělomne prawidła priwatnosće abo zadnje durčki za wabjerjow. Jenož błyskospěšny wobhladowak, kotryž was njewobšudźa.
 firefox-desktop-download-download-options = Sćehnjenske móžnosće a druhe rěče
 firefox-desktop-download-browser-support = Pomoc wo { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Čińće online, štož chceće.<br> { -brand-name-firefox-browser } <strong>nje</strong>přihladuje.
 firefox-desktop-download-how-firefox-compares = Přirunanje mjez { -brand-name-firefox } a druhimi wobhladowakami
 firefox-desktop-download-how-we-compare = Kak porno druhim wobhladowakam wotrězujemy
 firefox-desktop-download-compare-firefox-to = Přirunajće { -brand-name-firefox } z:
