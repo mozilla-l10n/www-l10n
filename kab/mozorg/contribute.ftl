@@ -26,6 +26,9 @@ contribute-made-by-desc = Mi ara tettekki·∏ç deg { -brand-name-mozilla }, ad tu…
 
 ## Support
 
+contribute-support-heading = Awi tallalt
+contribute-mozilla-support = Tallalt { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Uguren d usebter web?
