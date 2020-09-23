@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Awi taleqqimt beṛṛa n yinaga
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Inagan n tuqqna</a> ttaznen-ten yismal web aniɣer i trezzuḍ. Ttidiren deg uselkim-ik daɣen ttɛassan ayen i txeddmeḍ deg yismal. Ticki takebbanit tessuli ssuma-is acku telliḍ tettwaliḍ ibiyiten n temesrifegt ass-nni, d wagi i d axeddim n yinagan n tuqqna.
 features-adblocker-in-firefox-you-can-block = Deg { -brand-name-firefox }, tzemreḍ ad tesweḥleḍ meṛṛa inagan n tuqqna neɣ wid i xedmen yimakaren. Ḥader iman-ik seg usewḥel n yinagan n tuqqna i izemren ad ṛzen kra n yismal.
-features-adblocker-send-a-do-not-track-signal = Azen izen Ur yiṭṭafaṛ ara
+features-adblocker-send-a-do-not-track-signal = { -brand-name-send } tamul n war aḍfar
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Ma yella ur tebɣiḍ ara yir tikli srid i yettwaseqdacen i udellel, tzemreḍ ad tazneḍ i yismal tabrat tuḥdiqt “tanemmirt maca ulac tanemmirt” s usefqed n uɣewwar n { -brand-name-firefox } <a href="{ $url }">Ur yi-ṭṭafaṛ ara</a>. Attekki s lebɣi-ik, maca ismal web ara ttekkin ad ḥebsen aḍfaṛ-ik imiren kan.
