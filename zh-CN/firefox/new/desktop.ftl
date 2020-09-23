@@ -156,6 +156,8 @@ firefox-desktop-download-now-mac = 接下来，<strong>打开</strong>刚下载�
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 遇到问题？<a { $attrs }>获取安装帮助</a>。
 firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = 到用户支持站了解更多信息
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再为 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您还是可以使用已安装的 { -brand-name-firefox }。

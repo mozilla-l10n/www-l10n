@@ -65,3 +65,5 @@ firefox-new-please-follow = 请按照<a href="{ $url }">这些步骤</a>安装 {
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 您的系统可能不符合 { -brand-name-firefox } 的运行需求，但您也可以试试<a href="{ $url }">这些版本</a>。
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = 到用户支持站了解更多信息
