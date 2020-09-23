@@ -9,8 +9,8 @@ features-adblocker-how-to-block-annoying = Comment bloquer les publicités envah
 features-adblocker-how-to-stop-seeing-too = Comment cesser de voir trop de publicités et empêcher les entreprises de vous pister en ligne. Un guide du blocage de publicité par le navigateur web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Le bloqueur de publicité, une arme secrète contre les publicités pénibles.
 features-adblocker-so-many-ads-so-little = Tant de publicités, si peu de patience… Il est temps de mettre fin à cette folie.
-features-adblocker-the-average-person-sees = Une personne ordinaire voit en moyenne 4 000 publicités par jour. Si vous pensez que c’est trop, un bloqueur de publicité sera votre nouveau meilleur ami.
-features-adblocker-an-ad-blocker-is-a-piece = Un bloqueur de publicité est un logiciel qui peut être utilisé pour bloquer des publicités et fonctionne de deux manières. La première consiste à bloquer le signal du serveur de l’annonceur afin que la publicité ne soit jamais affichée sur votre page. La seconde consiste à bloquer les sections d’un site Web qui pourraient être des publicités.
+features-adblocker-the-average-person-sees = Une personne ordinaire voit en moyenne 4 000 publicités par jour. Si vous pensez que c’est trop, un bloqueur de publicité sera votre nouveau meilleur ami.
+features-adblocker-an-ad-blocker-is-a-piece = Un bloqueur de publicité est un logiciel qui peut être utilisé pour bloquer des publicités et fonctionne de deux manières. La première consiste à bloquer le signal du serveur de l’annonceur afin que la publicité ne soit jamais affichée sur votre page. La seconde consiste à bloquer les sections d’un site web qui pourraient être des publicités.
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
