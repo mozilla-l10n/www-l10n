@@ -32,3 +32,4 @@ contribute-mozilla-support = Tallalt { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Uguren d usebter web?
+contribute-report-issue = Azen ugur
