@@ -31,6 +31,7 @@ contribute-mission-desc = Naša misija je, zawěsćić, zo internet je globalna 
 contribute-learn = Dalše informacije wo { -brand-name-mozilla }
 contribute-read-manifesto = Čitajće naš manifest
 contribute-find-event = Zarjadowanje namakać
+contribute-meet-volunteers = Zetkajće so z našimi zahoritymi dobrowólnikami
 contribute-donate = Darić
 contribute-help-fund = Pomhajće našu misiju financować
 contribute-follow-mozilla = { -brand-name-mozilla } slědować
@@ -38,6 +39,7 @@ contribute-opportunities = Nowinki a móžnosće za dobrowólnikow
 
 ## Made by
 
+contribute-made-by-heading = Wutworjeny wot zahoritych ludźi kaž wy sće
 
 ## Newsletter
 
@@ -46,6 +48,7 @@ contribute-newsletter-heading = Hišće njewěsty?
 ## Support
 
 contribute-support-heading = Pomoc sej wobstarać
+contribute-support-desc = { -brand-name-mozilla } ma angažowany team dobrowólnikow, zo by wam pomhał, wšě problemy rozrisać, na kotrež storčiće.
 contribute-mozilla-support = Pomoc za { -brand-name-mozilla }
 
 ## Web compat
