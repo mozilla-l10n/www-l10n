@@ -66,4 +66,7 @@ firefox-new-please-follow = 請依照<a href="{ $url }">這些步驟</a>安裝 {
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = 若您看到「您正要安裝的應用程式未經 { -brand-name-microsoft } 驗證」，請點擊「還是要安裝」或<a { $attrs }>更改應用程式推薦設定</a>。
 firefox-new-visit-support-for-more = 到技術支援站了解更多資訊
