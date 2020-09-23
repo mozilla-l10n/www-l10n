@@ -156,6 +156,7 @@ firefox-desktop-download-now-mac = <strong>Open nu</strong> het bestand dat zoju
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemen? <a { $attrs }>Ontvang hulp bij uw installatie</a>.
 firefox-desktop-download-in-another-language = Downloaden in een andere taal of voor een ander besturingssysteem.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt geen beveiligingsupdates meer aan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, maar u kunt { -brand-name-firefox } nog steeds gebruiken.
