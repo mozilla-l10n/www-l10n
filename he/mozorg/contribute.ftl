@@ -8,10 +8,19 @@
 
 ## Page heading
 
+contribute-page-title = הזדמנויות התנדבות ב־{ -brand-name-mozilla }
 contribute-page-heading = הכישרונות שלך נחוצים לאינטרנט טוב יותר
+contribute-how-heading = כיצד באפשרותך לתרום…
 
 ## Contribution tasks
 
+contribute-tag-non-technical = לא טכני
+contribute-tag-technical = טכני
+contribute-tag-technical-non-technical = טכני ולא טכני
+contribute-tag-support = תמיכה
+contribute-task-translate-heading = תרגום תוכן
+contribute-task-translate-desc = האינטרנט הוא גלובלי רק אם הוא מובן בכל מקום. באפשרותך לעזור לנו לתרגם את המוצרים והאתרים של { -brand-name-mozilla } לשפה המקומית שלך.
+contribute-task-mozilla-codebase-heading = תרומת קוד ל־{ -brand-name-mozilla }
 
 ## Mission
 
