@@ -10,12 +10,15 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Ześěgniśo { -brand-name-firefox-browser } – malsny, priwatny a dermotny – wót { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Wobstarajśo se { -brand-name-firefox }, dermotny webwobglědowak, kótaryž se wót { -brand-name-mozilla }, za wše wužytneje organizacije, spěchujo, kótaraž se za internetnu strowosć a priwatnosć zasajźujo. Jo něnto na { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios } k dispoziciji.
 firefox-desktop-download-og-title = Ześěgniśo nejmalsnjejšy { -brand-name-firefox }
 firefox-desktop-download-og-desc = Boki se malsnjej zacytaju, mjenjej składa se wužywa a z wjele funkcijami: Nowy { -brand-name-firefox } jo wujšeł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
 firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } <strong>nje</strong>pśiglědujo.
 firefox-desktop-download-how-firefox-compares = Pśirownanje mjazy { -brand-name-firefox } a drugimi wobglědowakami
 firefox-desktop-download-how-we-compare = Kak w pśirownanju k drugim wobglědowakam wótrěznjomy
 firefox-desktop-download-compare-firefox-to = Pśirownajśo { -brand-name-firefox } z:
@@ -120,6 +123,11 @@ firefox-desktop-download-now-mac = <strong>Wócyńśo</strong> něnto dataju, k�
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Maśo problemy? <a { $attrs }>Wobstarajśo se pomoc za swóju instalaciju</a>.
 firefox-desktop-download-in-another-language = W drugej rěcy abo za drugi źěłowy system ześěgnuś.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Jolic napominanje wiźiśo, kótarež k wěsć dawa, až nałoženje, kótarež cośo instalěrowaś, njejo wót { -brand-name-microsoft } pśeglědane, klikniśo na „Weto instalěrowaś“ abo <a { $attrs }>změńśo dopóruceńske nastajenja nałoženja</a>.
+firefox-desktop-download-visit-support-for-more = Woglědajśo se k bokam pomocy za dalšne drobnostki
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">južo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njepóbitujo, ale móžośo hyšći { -brand-name-firefox } wužywaś.
