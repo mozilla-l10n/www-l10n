@@ -15,6 +15,6 @@ whatsnew81-send-form-label-alt = Digite seu e-mail ou número de celular para re
 whatsnew81-scan-this-qr-code = Capture este código QR para baixar
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = O NOVO { -brand-name-firefox } para { -brand-name-android } está aqui
-whatsnew81-our-latest-for-android-has = Nosso mais recente para { -brand-name-android } tem muitos recursos divertidos e inteligentes, como uma barra de pesquisa móvel. Porque somos um navegador independente e nos preocupamos com seus dedos.
+whatsnew81-our-latest-for-android-has = A versão mais recente para { -brand-name-android } tem muitos recursos inteligentes e divertidos, como uma barra de pesquisa móvel. Porque somos um navegador independente e nos preocupamos com o conforto de seus dedos.
 whatsnew81-make-firefox-your-everyday = Faça do { -brand-name-firefox } seu navegador de uso diário no { -brand-name-ios }
 whatsnew81-attention-iphone-people = Atenção, quem usa { -brand-name-iphone }: No { -brand-name-ios } 14, finalmente você pode definir o { -brand-name-firefox } como seu navegador padrão. Certifique-se de que você tem o mais recente { -brand-name-firefox } para { -brand-name-ios }.
