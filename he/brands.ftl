@@ -30,6 +30,11 @@
        *[a] דפדפן Firefox
         [the] דפדפן ה־Firefox
     }
+-brand-name-firefox-browsers =
+    { $case ->
+       *[a] דפדפני Firefox
+        [the] דפדפני ה־Firefox
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -38,6 +43,7 @@
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
+-brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
@@ -53,6 +59,7 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
@@ -127,6 +134,7 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
