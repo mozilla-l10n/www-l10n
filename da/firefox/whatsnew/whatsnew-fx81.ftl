@@ -9,6 +9,7 @@
 whatsnew81-page-title = Nyheder i { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = En ny { -brand-name-firefox } til enhver enhed
+whatsnew81-main-intro = Uanset hvilket operativsystem du bruger, så findes der en forbedret mobil-browser, skabt af en nonprofit-organisation, som du kan installere.
 whatsnew81-send-form-label = Indtast din mailadresse for at få et link til at hente browseren
 whatsnew81-send-form-label-alt = Indtast din mailadresse eller dit telefonnummer for at få et link til at hente browseren
 whatsnew81-scan-this-qr-code = Skan QR-koden for at hente browseren
@@ -16,3 +17,4 @@ whatsnew81-scan-this-qr-code = Skan QR-koden for at hente browseren
 whatsnew81-the-new-firefox-for-android = Den NYE { -brand-name-firefox } til { -brand-name-android } er her
 whatsnew81-our-latest-for-android-has = Vores nyeste browser til { -brand-name-android } har masser af sjove og smarte funktioner, som fx et søgefelt, du kan flytte. Vi er en uafhængig browser - og så synes vi, at dine tommelfingre skal have det godt.
 whatsnew81-make-firefox-your-everyday = Brug { -brand-name-firefox } som din primære browser i { -brand-name-ios }
+whatsnew81-attention-iphone-people = Opråb til { -brand-name-iphone }-brugere: I { -brand-name-ios } 14 kan du langt om længe indstille { -brand-name-firefox } som standard-browser. Vær sikker på, at du har den nyeste { -brand-name-firefox } til { -brand-name-ios }.
