@@ -159,7 +159,7 @@ firefox-desktop-download-in-another-language = Descargar en otro idioma o para o
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Si ves un mensaje indicando que la aplicación que estás intentando instalar no es una aplicación verificada de { -brand-name-microsoft }, haé clic en "Instalar de todas formas" o en <a { $attrs }>cambiar la configuración de las recomendaciones de la aplicación</a>.
+firefox-desktop-download-if-you-see-a-prompt = Si ves un mensaje indicando que la aplicación que estás intentando instalar no es una aplicación verificada de { -brand-name-microsoft }, hacé clic en "Instalar de todas formas" o en <a { $attrs }>cambiar la configuración de las recomendaciones de la aplicación</a>.
 firefox-desktop-download-visit-support-for-more = Visitá Ayuda para más detalles
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
