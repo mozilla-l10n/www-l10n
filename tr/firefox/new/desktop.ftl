@@ -158,6 +158,10 @@ firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kuruluml
 firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Yüklemeye çalıştığınız uygulamanın { -brand-name-microsoft } tarafından doğrulanmış olmadığını belirten bir ekran görürseniz "Yine de yükle"ye tıklayın veya <a { $attrs }>uygulama öneri ayarlarını değiştirin</a>.
+firefox-desktop-download-visit-support-for-more = Daha fazla bilgi için destek sitemize bakabilirsiniz
+# Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.
 # Outdated string
