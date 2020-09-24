@@ -21,6 +21,7 @@ contribute-tag-individual-event = Indiwiduelne a organizacija zarjadowanjow
 contribute-tag-individual = Indiwiduelne
 contribute-tag-support = Pomoc
 contribute-task-translate-heading = Wobsah přełožić
+contribute-task-translate-desc = Internet je jenož globalny, hdyž so wšudźe rozumi. Pomhajće nam produkty a websydła { -brand-name-mozilla } do swojeje rěče přełožować.
 contribute-task-mozilla-codebase-heading = Ke kodowej bazy { -brand-name-mozilla } přinošować
 contribute-task-mozilla-codebase-desc = Přinošujće k wjele wuwiwanskim móžnosćam, zo byšće produkty { -brand-name-mozilla } aktiwnje polěpšił.
 contribute-task-join-heading = Přidružće so zhromadźenstwu
