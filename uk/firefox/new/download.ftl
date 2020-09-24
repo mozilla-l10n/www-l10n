@@ -68,5 +68,5 @@ firefox-new-your-system-may-not = Ваша система може не задо
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-new-if-you-see-a-prompt = Якщо ви бачите підказку, що додаток, який ви намагаєтесь встановити, не є затвердженою програмою { -brand-name-microsoft }, натисніть “Все одно встановити” або <a { $attrs }>змініть налаштування рекомендацій програм</a>.
+firefox-new-if-you-see-a-prompt = Якщо ви бачите підказку, що програма, яку ви намагаєтесь встановити, не є затвердженою програмою { -brand-name-microsoft }, натисніть “Все одно встановити” або <a { $attrs }>змініть налаштування рекомендацій програм</a>.
 firefox-new-visit-support-for-more = Відвідайте службу підтримки, щоб отримати подробиці
