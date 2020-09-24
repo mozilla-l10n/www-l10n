@@ -65,3 +65,8 @@ firefox-new-please-follow = Làm theo <a href="{ $url }">hướng dẫn này</a>
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Nếu bạn thấy lời nhắc cho biết ứng dụng bạn đang cố gắng cài đặt không phải là ứng dụng đã được xác minh của { -brand-name-microsoft }, hãy nhấp vào “Install anyway” hoặc <a { $attrs }>thay đổi cài đặt đề xuất ứng dụng</a>.
+firefox-new-visit-support-for-more = Truy cập hỗ trợ để biết thêm chi tiết

@@ -156,6 +156,11 @@ firefox-desktop-download-now-mac = Bây giờ <strong>mở</strong> tập tin v�
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Gặp sự cố? <a { $attrs }>Nhận trợ giúp với cài đặt của bạn</a>.
 firefox-desktop-download-in-another-language = Tải xuống bằng ngôn ngữ khác hoặc cho hệ điều hành khác.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Nếu bạn thấy lời nhắc cho biết ứng dụng bạn đang cố gắng cài đặt không phải là ứng dụng đã được xác minh của { -brand-name-microsoft }, hãy nhấp vào “Install anyway” hoặc <a { $attrs }>thay đổi cài đặt đề xuất ứng dụng</a>.
+firefox-desktop-download-visit-support-for-more = Truy cập hỗ trợ để biết thêm chi tiết
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">không còn cung cấp các bản cập nhật bảo mật</a> trên { -brand-name-windows } { -brand-name-xp } và { -brand-name-vista }, nhưng bạn vẫn có thể sử dụng { -brand-name-firefox }.
