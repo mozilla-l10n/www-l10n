@@ -156,6 +156,8 @@ firefox-desktop-download-now-mac = No kan du <strong>opne</strong> den nedlasta 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Har problem? <a { $attrs }>Få hjelp med installasjonen</a>.
 firefox-desktop-download-in-another-language = Last ned på eit anna språk eller for eit anna operativsystem.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = Besøk brukarstøtte for meir informasjon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">kjem ikkje lenger med sikkerheitsoppdateringar</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan enno bruke { -brand-name-firefox }.

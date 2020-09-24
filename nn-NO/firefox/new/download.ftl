@@ -65,3 +65,5 @@ firefox-new-please-follow = Følg <a href="{ $url }">denne rettleiinga</a> for �
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Systemet ditt oppfyller kanskje ikkje krava for { -brand-name-firefox }, men du kan prøve ein av <a href="{ $url }">desse versjonane</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Besøk brukarstøtte for meir informasjon
