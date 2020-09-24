@@ -23,6 +23,7 @@ welcome-page4-enhanced-tracking-protection = La protection renforcée contre le 
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Effacez vos traces
 welcome-page4-automatically-clear-your-history = La navigation privée supprime automatiquement vos cookies et votre historique.
+welcome-page4-go-faster-do-more = Allez plus vite. Faites-en plus.
 welcome-page4-take-it-all-with-you = Emportez tout avec vous
 welcome-page4-more-done-fast-smart = Boostez votre productivité grâce au chargement ultra-rapide des pages et aux suggestions de recherche intelligentes.
 welcome-page4-dont-walk-out-the-door-without = Conservez vos marque-pages, onglets, notes et mots de passe où que vous alliez.
