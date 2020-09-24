@@ -88,7 +88,7 @@ firefox-desktop-download-extensions-for-every = Rozšěrjenja za kóždy zajim
 firefox-desktop-download-change-up-your = Změńće napohlad
 firefox-desktop-download-tweak-your-settings = Přiměrće swoje nastajenja
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Podpěruje so přez <strong>powšitkownosi wužitnu</strong> organizaciju
+firefox-desktop-download-backed-by-the = Podpěruje so přez <strong>powšitkownosći wužitnu</strong> organizaciju
 firefox-desktop-download-challenging-the-status = Dwělujemy na status quo wot lěta 1998
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma najwyšu prioritu
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
