@@ -65,3 +65,8 @@ firefox-new-please-follow = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a>
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Os ydych chi'n gweld anogyn yn nodi nad yw'r ap rydych chi'n ceisio ei osod yn ap wedi'i ddilysu gan { -brand-name-microsoft }, cliciwch "Gosod beth bynnag" neu <a { $attrs }> newid gosodiadau argymhelledig yr ap </a>.
+firefox-new-visit-support-for-more = Ewch i Cymorth am Ragor o Fanylion

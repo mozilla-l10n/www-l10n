@@ -156,6 +156,11 @@ firefox-desktop-download-now-mac = Nawr <strong>agor</strong> y ffeil sydd newyd
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Cael trafferth? <a { $attrs }>Cael cymorth gyda'ch gosodiad </a>.
 firefox-desktop-download-in-another-language = Llwytho i lawr mewn iaith arall neu ar gyfer system weithredu arall.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Os ydych chi'n gweld anogyn yn nodi nad yw'r ap rydych chi'n ceisio ei osod yn ap wedi'i ddilysu gan { -brand-name-microsoft }, cliciwch "Gosod beth bynnag" neu <a { $attrs }> newid gosodiadau argymhelledig yr ap </ a >.
+firefox-desktop-download-visit-support-for-more = Ewch i Cymorth am ragor o fanylion
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = Nid yw { -brand-name-mozilla } <a href="{ $url }"> bellach yn darparu diweddariadau diogelwch </a> ar { -brand-name-windows } { -brand-name-xp } na { -brand-name-vista }, ond gallwch barhau i ddefnyddio { -brand-name-firefox }.
