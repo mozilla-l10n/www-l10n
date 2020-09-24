@@ -66,4 +66,7 @@ firefox-new-please-follow = A { -brand-name-firefox } telepítéséhez kövesse 
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Ha megjelenik egy olyan üzenet, hogy a telepítendő alkalmazás nem egy { -brand-name-microsoft } által ellenőrzött alkalmazás, akkor kattintson a „Telepítés mindenképpen” lehetőségre, vagy <a { $attrs }>módosítsa az alkalmazásajánlási beállításokat</a>.
 firefox-new-visit-support-for-more = További részletekért látogasson el a Támogatás oldalra

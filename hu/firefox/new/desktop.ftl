@@ -157,6 +157,9 @@ firefox-desktop-download-now-mac = Most <strong>nyissa meg</strong> az éppen le
 firefox-desktop-download-get-help = Problémája van? <a { $attrs }>Kapjon segítséget a telepítéshez</a>.
 firefox-desktop-download-in-another-language = Letöltés más nyelven vagy más operációs rendszerre.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ha megjelenik egy olyan üzenet, hogy a telepítendő alkalmazás nem egy { -brand-name-microsoft } által ellenőrzött alkalmazás, akkor kattintson a „Telepítés mindenképpen” lehetőségre, vagy <a { $attrs }>módosítsa az alkalmazásajánlási beállításokat</a>.
 firefox-desktop-download-visit-support-for-more = További részletekért látogasson el a Támogatás oldalra
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
