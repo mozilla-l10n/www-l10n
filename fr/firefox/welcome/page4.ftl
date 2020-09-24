@@ -9,6 +9,7 @@
 welcome-page4-download-the-firefox-browser = Téléchargez le { -brand-name-firefox-browser } sur votre téléphone { -brand-name-ios } ou { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Mon portefeuille. Mes clés. Mon téléphone. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Protégez votre vie privée sur tous vos appareils et oubliez les traqueurs de données.
+welcome-page4-privacy-on-by-default = Avec le nouveau { -brand-name-firefox } pour { -brand-name-android }, votre vie privée est protégée par défaut. Et désormais, vous pouvez également faire de { -brand-name-firefox } votre navigateur par défaut sur { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Installer { -brand-name-firefox } mobile
 welcome-page4-get-firefox-on-your-phone = Installez { -brand-name-firefox } sur votre téléphone
 welcome-page4-send-the-download-link-right = Recevez un lien de téléchargement directement sur votre téléphone ou votre messagerie électronique.
@@ -23,5 +24,6 @@ welcome-page4-enhanced-tracking-protection = La protection renforcée contre le 
 welcome-page4-leave-no-trace = Effacez vos traces
 welcome-page4-automatically-clear-your-history = La navigation privée supprime automatiquement vos cookies et votre historique.
 welcome-page4-take-it-all-with-you = Emportez tout avec vous
+welcome-page4-more-done-fast-smart = Boostez votre productivité grâce au chargement ultra-rapide des pages et aux suggestions de recherche intelligentes.
 welcome-page4-dont-walk-out-the-door-without = Conservez vos marque-pages, onglets, notes et mots de passe où que vous alliez.
 welcome-page4-why-am-i-seeing-this = Pourquoi cette page s’affiche-t-elle ?
