@@ -65,3 +65,5 @@ firefox-new-please-follow = Pro instalaci { -brand-name-firefox(case: "gen") } p
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Váš systém nemusí splňovat požadavky pro { -brand-name-firefox(case: "acc") }, ale můžete zkusit některou <a href="{ $url }">z těchto verzí</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Další podrobnosti najdete na serveru podpory
