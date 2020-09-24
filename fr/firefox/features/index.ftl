@@ -7,6 +7,13 @@
 
 # HTML page title
 features-index-protect-your-privacy-and-browse = Protégez votre vie privée et naviguez plus rapidement grâce aux fonctionnalités de { -brand-name-firefox }
+# HTML page description
+features-index-youre-in-control-with-firefoxs = C’est vous qui contrôlez les options de { -brand-name-firefox } qui sont faciles à utiliser, protègent votre vie privée et accélèrent votre navigation.
+# Hero title
+features-index-firefox-features = Fonctionnalités de { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } est le navigateur rapide, léger et respectueux de la vie privée qui fonctionne sur tous vos appareils.
+features-index-add-powerful-functions = Ajoutez des fonctionnalités puissantes, utiles ou même amusantes à votre navigateur { -brand-name-firefox }.
 features-index-see-all = Voir toutes les extensions
 features-index-get-an-account = Créer un { -brand-name-firefox-account }
 features-index-firefox-automatically = { -brand-name-firefox } empêche automatiquement plus de 2 000 traqueurs de vous suivre sur Internet.

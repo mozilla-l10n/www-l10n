@@ -32,3 +32,7 @@ compare-safari-in-addition-to-the-regular = Au-delà de la panoplie standard de 
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Comme { -brand-name-safari }, { -brand-name-firefox } encourage sa communauté de développeurs dynamique à créer des <a { $attrs }>modules complémentaires et des extensions</a> pour le navigateur. Et puisque notre plateforme est open-source, il en existe une vaste sélection qui ajoute une multitude de fonctionnalités.
+# Variables:
+#   $ios (string) - link to Apple store with additional attributes for analytics
+#   $android (string) - link to Google Play store with additional attributes for analytics
+compare-safari-the-firefox-app-for-ios-and = L’application { -brand-name-firefox } pour <a { $ios }>{ -brand-name-ios }</a> et <a { $android }>{ -brand-name-android }</a> est l’un des navigateurs les plus rapides et dispose également de solides fonctionnalités de lutte contre le pistage ; un énorme avantage si vous changez constamment entre un ordinateur portable et des appareils mobiles.
