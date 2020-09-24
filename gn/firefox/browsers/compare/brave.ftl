@@ -18,6 +18,7 @@ compare-brave-just-like-the-firefox-browser = Pe kundaháraicha avei { -brand-na
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
 #   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
 compare-brave-the-brave-browser-like-so = Pe kundahára { -brand-name-brave }, ambuéicha avei, ojejapo ayvu { -brand-name-chromium } pe ayvu ijurujáva { -brand-name-google } rehegua. Ayvu juruja he’ise oimeraẽva ikatuha oipuru pe ayvu reñoiha ha ombojo’a ojapo hag̃ua ojaposéva umi kundahára <a{ $opera }>{ -brand-name-opera }</a> ndive ha <a{ $edge }>{ -brand-name-edge }</a>. Hákatu kóva nde’iséi opavave kundahára ipyendáva { -brand-name-chromium } ndive ojojoguaha térã ayvu ijurujáva.
+compare-brave-whether-this-sounds-complicated = Kóva hasýramo téra mba’e iporãva, ikatu oñembojoja pe mba’epochy eguerekóva marandu oñemoha’ãngáva ñandutípe rehe. Heta umi puruhára ñandutigua ohechakuaa pe tetepy iporãramo hepyha ha upévare ojehechaporã pe viru ouha maranduñemurãgui.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } avei og̃uahẽramo pe mba’ekuaarã ñembojuehekuaápe umi opopyvusu oku’éva ojekuaavévape, avei ombojuehekuaa umi tokens ojepurukuaáva.
 compare-brave-when-comparing-the-two-browsers = Ñamoñondivévo mokõivéva kundahára, péicha { -brand-name-firefox } ha avei { -brand-name-brave } ome’ẽkuaa ambuéva ñemigua ha tekorosã ijypykue rupi, eipurukuaáva eike ñepyrũete guive.
