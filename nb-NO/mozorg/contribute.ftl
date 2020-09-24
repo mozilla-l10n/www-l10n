@@ -18,9 +18,11 @@ contribute-how-heading = Hvordan du kan bidra…
 contribute-tag-non-technical = Ikke-teknisk
 contribute-tag-technical = Teknisk
 contribute-tag-technical-non-technical = Teknisk og ikke-teknisk
+contribute-tag-individual-event = Individuell organisering og arrangement
 contribute-tag-individual = Individuell
 contribute-tag-support = Brukerstøtte
 contribute-task-translate-heading = Oversett innhold
+contribute-task-mozilla-codebase-heading = Bidra til { -brand-name-mozilla }-kodebasen
 contribute-task-join-heading = Bli med i fellesskapet
 
 ## Mission
