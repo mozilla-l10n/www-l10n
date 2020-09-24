@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Ejapyhy michĩmi kookie
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Ko’ã <a href="{ $url }">Kookie</a> omoheñóiva ñanduti renda eikehague. Oiko ne mohendahápe ha ohechapaite ne rembiapo tenda pegua. Peteĩ aerolínea omopu’ãramo jeho repy nde ehecha rupi jeho repy pe árape, péva ojapo kookie.
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }-pe, ikatu ejoko opaite kookie mbohapyháva térã avei umi omoheñóiva tapykuehohára añómte. Ehecháke ejokóramo opaite kookie ikatu oimeraẽ tenda ndokoporãmbái.
-features-adblocker-send-a-do-not-track-signal = Eñatõi ndojehapykuehoiha
+features-adblocker-send-a-do-not-track-signal = { -brand-name-send } ejehapykueho’ỹ hag̃ua
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Ndereipotáiramo nde reko ñandutípe ojepuru ñemurã, ikatu eguerahauka tendakuérape ñe’ẽmondo he’íva ndereipotaiha jehapykueho eikutúvo jeporavorã <a href="{ $url }">Tapykueho’ỹ</a> { -brand-name-firefox } guive. Ejapo ndejehegui, hákatu umi ñanduti renda ohechakuaáta kóva, nanderapykuehomo’ãvéima upe rire.
