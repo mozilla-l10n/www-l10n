@@ -22,6 +22,7 @@ contribute-tag-individual = Indiwiduelne
 contribute-tag-support = Pomoc
 contribute-task-translate-heading = Wobsah přełožić
 contribute-task-mozilla-codebase-heading = Ke kodowej bazy { -brand-name-mozilla } přinošować
+contribute-task-mozilla-codebase-desc = Přinošujće k wjele wuwiwanskim móžnosćam, zo byšće produkty { -brand-name-mozilla } aktiwnje polěpšił.
 contribute-task-join-heading = Přidružće so zhromadźenstwu
 
 ## Mission

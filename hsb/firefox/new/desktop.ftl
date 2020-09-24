@@ -37,12 +37,13 @@ firefox-desktop-download-blocks-social-trackers = Blokuje přesćěhowaki social
 firefox-desktop-download-os-availability = Disponujomnosć dźěłowych systemow
 firefox-desktop-download-in-browser-screenshot = Nastroj za fota wobrazowki we wobhladowaku
 firefox-desktop-download-master-password = Hłowne hesło
+firefox-desktop-download-we-block-the-ad = My blokujemy wabjenske přesćěhowaki. Wy přeslědźeće internet spěšnišo.
 firefox-desktop-download-see-your-report = Wašu škitnu rozprawu pokazać
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je za wšěch
 firefox-desktop-download-review-system-req = Čitajće systemowe žadanja
 firefox-desktop-download-all-your-devices = Wobstarajće sej { -brand-name-firefox } za wšě swoje graty
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-it-all = Čińće <strong>wšitko</strong>z { -brand-name-firefox }
+firefox-desktop-download-do-it-all = Čińće <strong>wšitko</strong> z { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Pytajće bóle inteligentnje a spěšnišo
 firefox-desktop-download-search-from-address = Pytanje w adresowym polu
 firefox-desktop-download-search-engine-options = Nastajenja pytawy
@@ -82,11 +83,18 @@ firefox-desktop-download-dark-mode = Ćmowy modus
 firefox-desktop-download-library-of-extensions = Biblioteka rozšěrjenjow
 firefox-desktop-download-adjust-search-bar = Nastajenja pytanskeho pola přiměrić
 firefox-desktop-download-change-new-tab = Wuhotowanje noweho rajtarka změnić
+firefox-desktop-download-make-firefox-your = Přiměrće <strong>{ -brand-name-firefox }</strong> swojim přećam
 firefox-desktop-download-extensions-for-every = Rozšěrjenja za kóždy zajim
 firefox-desktop-download-change-up-your = Změńće napohlad
 firefox-desktop-download-tweak-your-settings = Přiměrće swoje nastajenja
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Podpěruje so přez <strong>powšitkownosi wužitnu</strong> organizaciju
 firefox-desktop-download-challenging-the-status = Dwělujemy na status quo wot lěta 1998
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma najwyšu prioritu
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Wobchowajće swoje najlubše funkcije wobhladowaka – a <strong>wotkryjće</strong> nowe.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Wšě swoje najlubše nastroje { -brand-name-google } (na př. Gmail a Docs) w { -brand-name-firefox-browser } bjezposrědnje funguja.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
