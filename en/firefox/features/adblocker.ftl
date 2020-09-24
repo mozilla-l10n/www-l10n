@@ -58,7 +58,7 @@ features-adblocker-take-a-bite-out-of-cookies = Take a bite out of cookies
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
 
 features-adblocker-in-firefox-you-can-block = In { -brand-name-firefox }, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-features-adblocker-send-a-do-not-track-signal = { -brand-name-send } a Do Not Track signal
+features-adblocker-send-a-do-not-track-signal = Send a Do Not Track signal
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature

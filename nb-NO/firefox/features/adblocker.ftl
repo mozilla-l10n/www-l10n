@@ -11,5 +11,5 @@ features-adblocker-the-ad-blocker-a-secret = Annonseblokkeren – et hemmelig v�
 features-adblocker-so-many-ads-so-little = Så mange annonser, så lite tålmodighet… Det er på tide å stoppe galskapen.
 features-adblocker-the-average-person-sees = Den gjennomsnittlige person ser i gjennomsnitt 4 000 annonser om dagen. Hvis du synes det er for mange, er en annonseblokker din nye beste venn.
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeren for deg
-features-adblocker-send-a-do-not-track-signal = { -brand-name-send } et «Ikke spor»-signal
+features-adblocker-send-a-do-not-track-signal = Send et «Ikke spor»-signal
 features-adblocker-take-control-of-your-browser = Ta kontroll over nettleseren din.
