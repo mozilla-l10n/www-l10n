@@ -156,6 +156,8 @@ firefox-desktop-download-now-mac = Most <strong>nyissa meg</strong> az éppen le
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problémája van? <a { $attrs }>Kapjon segítséget a telepítéshez</a>.
 firefox-desktop-download-in-another-language = Letöltés más nyelven vagy más operációs rendszerre.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = További részletekért látogasson el a Támogatás oldalra
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox }ot.

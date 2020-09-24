@@ -65,3 +65,5 @@ firefox-new-please-follow = A { -brand-name-firefox } telepítéséhez kövesse 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = További részletekért látogasson el a Támogatás oldalra
