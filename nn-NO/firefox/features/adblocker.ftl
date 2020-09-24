@@ -16,6 +16,6 @@ features-adblocker-choose-your-level-of-protection = Vel ditt vernenivå
 features-adblocker-go-easy-with-standard = Ta det roleg med standard-modus
 features-adblocker-get-tough-with-strict = Bli tøff med stremg modus
 features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstillingar
-features-adblocker-send-a-do-not-track-signal = { -brand-name-send } eit ‹‹Ikkje spor››-signal
+features-adblocker-send-a-do-not-track-signal = { -brand-name-send } eit «Ikkje spor»-signal
 features-adblocker-speed-up-thanks-to-ad = Høgare fart takka vere annonseblokkerarar
 features-adblocker-take-control-of-your-browser = Ta kontroll over nettlesaren din.
