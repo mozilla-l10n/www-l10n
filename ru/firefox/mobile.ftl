@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Приватность, котор�
 firefox-mobile-get-firefox-for-mobile = Загрузить мобильный { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = Отправить ссылку на загрузку на свой телефон.
 firefox-mobile-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать
+firefox-mobile-scan-alt-text = Отсканируйте QR-код, чтобы загрузить { -brand-name-firefox } на смартфон
