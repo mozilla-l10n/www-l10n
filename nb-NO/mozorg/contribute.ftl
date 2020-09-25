@@ -24,6 +24,8 @@ contribute-tag-support = Brukerstøtte
 contribute-task-translate-heading = Oversett innhold
 contribute-task-translate-desc = Internett er bare globalt hvis det forstås overalt. Hjelp oss å oversette { -brand-name-mozilla }-produkter og -nettsteder til ditt lokale språk.
 contribute-task-mozilla-codebase-heading = Bidra til { -brand-name-mozilla }-kodebasen
+contribute-task-mozilla-codebase-desc = Forbedre { -brand-name-mozilla }-produkter aktivt ved å bidra til en rekke utviklingsmuligheter.
+contribute-task-support-desc = Hjelp med å gjøre { -brand-name-mozilla }-produkter enklere å bruke. Svar på deltakernes spørsmål i { -brand-name-mozilla }-brukerstøtteforum.
 contribute-task-join-heading = Bli med i fellesskapet
 
 ## Mission
