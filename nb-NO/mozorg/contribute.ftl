@@ -22,6 +22,7 @@ contribute-tag-individual-event = Individuell organisering og arrangement
 contribute-tag-individual = Individuell
 contribute-tag-support = Brukerstøtte
 contribute-task-translate-heading = Oversett innhold
+contribute-task-translate-desc = Internett er bare globalt hvis det forstås overalt. Hjelp oss å oversette { -brand-name-mozilla }-produkter og -nettsteder til ditt lokale språk.
 contribute-task-mozilla-codebase-heading = Bidra til { -brand-name-mozilla }-kodebasen
 contribute-task-join-heading = Bli med i fellesskapet
 
@@ -54,5 +55,5 @@ contribute-mozilla-support = { -brand-name-mozilla }-brukerstøtte
 ## Web compat
 
 contribute-web-compat-heading = Problemer med en nettside?
-contribute-web-compat-desc = Hvis opplevelsen din av et nettsted er forskjellig mellom nettlesere, kan det hende du har oppdaget et problem med nettsidekompatibilitet. Vi vil gjerne vite om det!
+contribute-web-compat-desc = Hvis opplevelsen din med et nettsted er forskjellig mellom nettlesere, kan det hende du har oppdaget et problem med nettsidekompatibilitet. Vi vil gjerne vite om det!
 contribute-report-issue = Rapporter et problem
