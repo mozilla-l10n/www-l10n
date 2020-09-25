@@ -44,6 +44,7 @@ contribute-made-by-heading = Ojapóva yvypóra ndeichaguánte avei
 ## Newsletter
 
 contribute-newsletter-heading = ¿Ndereikuaaporãi gueteripa?
+contribute-newsletter-sub-heading = Og̃uahẽta marandu tekohagua ha ñepytyvõ ñe’ẽmondo g̃uahẽhápe
 
 ## Support
 
