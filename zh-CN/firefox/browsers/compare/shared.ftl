@@ -10,6 +10,8 @@ compare-shared-yes = 是
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = 没有
 compare-shared-private-browsing-mode = 隐私浏览模式
+compare-shared-blocks-third-party-tracking-default = 默认拦截第三方跟踪性 Cookie
+# Obsolete string
 compare-shared-blocks-third-party-tracking = 拦截第三方跟踪性 Cookie
 compare-shared-blocks-cryptomining-scripts = 拦截加密货币挖矿脚本
 compare-shared-blocks-social-trackers = 拦截社交跟踪器
@@ -27,6 +29,8 @@ compare-shared-os-availability = 操作系统可用性
 compare-shared-mobile-os-availability = 移动操作系统可用性
 compare-shared-syncs-with-mobile = 与移动设备同步
 compare-shared-password-management = 密码管理
+compare-shared-primary-password = 主密码
+# Obsolete string
 compare-shared-master-password = 主密码
 compare-shared-security-and-privacy = 安全性与隐私权
 compare-shared-utility = 实用性
