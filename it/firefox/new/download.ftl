@@ -66,3 +66,7 @@ firefox-new-please-follow = Segui <a href="{ $url }">queste istruzioni</a> per i
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Anche se il tuo sistema non possiede i requisiti per utilizzare { -brand-name-firefox }, puoi comunque provare con una delle <a href="{ $url }">seguenti versioni</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Se appare il messaggio di avviso che l’app che tenti di istallare non è verificata da { -brand-name-microsoft }, fai clic su “Installa comunque” o <a { $attrs }>modifica le impostazioni per l’installazione delle app</a>.
+firefox-new-visit-support-for-more = Per ulteriori informazioni visita la pagina dedicata al supporto
