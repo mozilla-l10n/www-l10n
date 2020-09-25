@@ -36,9 +36,11 @@ contribute-meet-volunteers = Møt våre lidenskapelige frivillige
 contribute-donate = Doner
 contribute-help-fund = Bidra til å finansiere oppdraget vårt
 contribute-follow-mozilla = Følg { -brand-name-mozilla }
+contribute-opportunities = Nyheter og frivillige muligheter
 
 ## Made by
 
+contribute-made-by-heading = Utviklet av lidenskapelige mennesker som deg
 
 ## Newsletter
 
@@ -52,4 +54,5 @@ contribute-mozilla-support = { -brand-name-mozilla }-brukerstøtte
 ## Web compat
 
 contribute-web-compat-heading = Problemer med en nettside?
+contribute-web-compat-desc = Hvis opplevelsen din av et nettsted er forskjellig mellom nettlesere, kan det hende du har oppdaget et problem med nettsidekompatibilitet. Vi vil gjerne vite om det!
 contribute-report-issue = Rapporter et problem
