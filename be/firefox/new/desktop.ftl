@@ -61,6 +61,14 @@ firefox-desktop-download-just-download-the-browser = Проста сцягніц
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Амаль гатова!
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Калі вы бачыце падказку, што праграма, якую вы спрабуеце ўсталяваць, не праверана фірмай { -brand-name-microsoft }, націсніце «Усталяваць усё роўна» або <a { $attrs }>змяніце параметры рэкамендацыі праграм</a>.
+firefox-desktop-download-visit-support-for-more = Каб даведацца больш, наведайце службу падтрымкі
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больш не выпускае абнаўленні бяспекі</a> на { -brand-name-windows } { -brand-name-xp } ці { -brand-name-vista }, але вы ўсё яшчэ можаце карыстацца { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -70,3 +78,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Вы выкарыс�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ваша сцягванне пачнецца аўтаматычна. Не робіць? <a id="{ $id }" href="{ $fallback_url }">Паспрабуйце яшчэ раз</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - гэта больш, чым браўзер.
+firefox-desktop-download-interrupted = Сцягванне была перарвана. Але яшчэ не ўсё страчана.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Калі ласка, прытрымлівайцеся <a href="{ $url }">гэтых інструкцый</a>, каб усталяваць { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:
