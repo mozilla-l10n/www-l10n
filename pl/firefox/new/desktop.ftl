@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Blokuje elementy śledzące se
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dostępna w różnych systemach operacyjnych
 firefox-desktop-download-in-browser-screenshot = Wbudowane narzędzie do wykonywania zrzutów ekranu
+firefox-desktop-download-primary-password = Hasło główne
+# Obsolete string
 firefox-desktop-download-master-password = Hasło główne
 firefox-desktop-download-we-block-the-ad = My blokujemy śledzące reklamy. Ty szybciej przeglądasz Internet.
 firefox-desktop-download-ads-are-distracting = Reklamy rozpraszają uwagę i spowalniają wczytywanie stron, a ich elementy śledzące obserwują Twój każdy ruch w sieci. { -brand-name-firefox-browser } automatycznie blokuje większość elementów śledzących, więc nie ma potrzeby zagłębiać się w ustawienia bezpieczeństwa.
@@ -156,6 +158,11 @@ firefox-desktop-download-now-mac = Teraz <strong>otwórz</strong> właśnie pobr
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Masz problem? <a { $attrs }>Przeczytaj pomoc na temat instalacji</a>.
 firefox-desktop-download-in-another-language = Pobierz w innym języku lub dla innego systemu operacyjnego.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Jeśli zobaczysz komunikat informujący, że instalowana aplikacja nie została zweryfikowana przez firmę { -brand-name-microsoft }, kliknij przycisk „Zainstaluj mimo to” lub <a { $attrs }>zmień ustawienia polecanych aplikacji</a>.
+firefox-desktop-download-visit-support-for-more = Pomoc zawiera więcej informacji
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nie zapewnia już aktualizacji zabezpieczeń</a> w systemach { -brand-name-windows } { -brand-name-xp } i { -brand-name-vista }, ale nadal można na nich używać { -brand-name-firefox(case: "gen") }.

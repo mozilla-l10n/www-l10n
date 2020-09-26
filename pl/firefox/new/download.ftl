@@ -65,3 +65,8 @@ firefox-new-please-follow = Postępuj zgodnie z <a href="{ $url }">tymi instruk
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Używany system operacyjny może nie spełniać wymagań { -brand-name-firefox(case: "gen") }, można jednak spróbować jedną z <a href="{ $url }">tych wersji</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Jeśli zobaczysz komunikat informujący, że instalowana aplikacja nie została zweryfikowana przez firmę { -brand-name-microsoft }, kliknij przycisk „Zainstaluj mimo to” lub <a { $attrs }>zmień ustawienia polecanych aplikacji</a>.
+firefox-new-visit-support-for-more = Pomoc zawiera więcej informacji

@@ -55,6 +55,7 @@
         [ins] Google’em
         [loc] Google’u
     }
+-brand-name-hulu = Hulu
 -brand-name-microsoft =
     { $case ->
        *[nom] Microsoft
@@ -676,4 +677,12 @@
 
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
--brand-name-youtube = YouTube
+-brand-name-youtube =
+    { $case ->
+       *[nom] YouTube
+        [gen] YouTube’a
+        [dat] YouTube’owi
+        [acc] YouTube’a
+        [ins] YouTube’em
+        [loc] YouTubie
+    }

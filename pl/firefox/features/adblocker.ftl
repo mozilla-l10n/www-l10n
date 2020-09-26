@@ -24,7 +24,7 @@ features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ulti
 features-adblocker-popup-ads-are-the-worst = Wyskakujące reklamy są najgorsze. Blokuj je za pomocą dodatku <a href="{ $url }">Popup Blocker</a>, a nigdy więcej ich nie zobaczysz.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Jednym z najpopularniejszych blokerów reklam dla przeglądarek { -brand-name-chrome }, { -brand-name-safari } i { -brand-name-firefox } jest <a href="{ $url }">AdBlock</a>. Używaj go do blokowania reklam na { -brand-name-facebook }u, YouTubie i { -brand-name-hulu }.
+features-adblocker-one-of-the-most-popular = Jednym z najpopularniejszych blokerów reklam dla przeglądarek { -brand-name-chrome }, { -brand-name-safari } i { -brand-name-firefox } jest <a href="{ $url }">AdBlock</a>. Używaj go do blokowania reklam na { -brand-name-facebook(case: "loc") }, { -brand-name-youtube(case: "loc") } i { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Utwórz strefę wolną od śledzenia dzięki blokowaniu treści
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
