@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Bloca le traciatores social
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilitate pro systemas operative
 firefox-desktop-download-in-browser-screenshot = Utensile de captura de schermo in le navigator
+firefox-desktop-download-primary-password = Contrasigno primari
+# Obsolete string
 firefox-desktop-download-master-password = Contrasigno maestro
 firefox-desktop-download-we-block-the-ad = Nos bloca le traciatores de avisos publicitari. Tu explora internet plus velocemente.
 firefox-desktop-download-ads-are-distracting = Avisos publicitari distrahe e rende le cargamentos del paginas web plus lente durante que lor traciatores survelia cata movimento que tu face online. Le { -brand-name-firefox-browser } bloca le major parte del traciatores automaticamente, assi il non ha ulle besonio de excavar in tu parametros de securitate.
