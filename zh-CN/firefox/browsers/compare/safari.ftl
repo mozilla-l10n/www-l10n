@@ -11,6 +11,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } 与 { -brand
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } 是 { -brand-name-mac } 和 { -brand-name-iphone } 上的预装浏览器。比较 { -brand-name-safari } 和 { -brand-name-firefox-browser }，以确定哪款浏览器更适合您。
 # Main title.
 compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser }与 { -brand-name-apple } { -brand-name-safari } 之间的比较
+compare-safari-if-you-use-a-mac-or-have-updated = 如果您使用过 { -brand-name-mac-short } 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari } 网络浏览器。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者，您完全可以将其设为{ -brand-name-mac-short } 和 { -brand-name-iphone } 上的默认浏览器。在此，我们将探讨我们的浏览器与 { -brand-name-safari } 在隐私、实用和跨平台方面的主要区别。
 # Obsolete string
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = 如果您使用过 Mac 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari } 网络浏览器。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者。在此，我们将探讨我们的浏览器与 { -brand-name-safari } 在隐私、实用和跨平台方面的主要区别。
@@ -47,6 +48,7 @@ compare-safari-also-when-you-sign-up-for = 另外，当您创建 { -brand-name-f
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
 compare-safari-also-when-you-sign-up-for-fallback = 另外，当您创建 { -brand-name-firefox } 账户后，就可以访问其内部集成的一些特色服务，例如 Screenshot、<a { $pocket }>{ -brand-name-pocket }</a> 和 <a { $send }>{ -brand-name-send }</a>，它们都直接集成在浏览器中。Screenshot 是 { -brand-name-firefox } 浏览器内置的一项功能，它允许您复制或下载网页截图。保存屏幕截图时，您还可以选择其保存路径，而不会将桌面打乱。{ -brand-name-firefox } 地址栏中的 { -brand-name-pocket } 按钮，轻轻一点，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。使用 { -brand-name-send }，您可以端到端加密地分享大文件，更提供文件链接过期时间、下载次数以及提取码等多重安全控制手段，更多一层保护。
+compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } 对付音视频也有一套。浏览器支持自动阻止播放功能并默认启用，避免不必要的噪音打扰到您。
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
