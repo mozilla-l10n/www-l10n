@@ -66,3 +66,7 @@ firefox-new-please-follow = Калі ласка, прытрымлівайцес�
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Калі вы бачыце падказку, што праграма, якую вы спрабуеце ўсталяваць, не праверана фірмай { -brand-name-microsoft }, націсніце «Усталяваць усё роўна» або <a { $attrs }>змяніце параметры рэкамендацыі праграм</a>.
+firefox-new-visit-support-for-more = Наведайце службу падтрымкі для больш падрабязнай інфармацыі

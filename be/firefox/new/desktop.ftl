@@ -17,11 +17,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Так
 firefox-desktop-download-no = Не
 firefox-desktop-download-blocks-third-party = Блакуе трэцебаковыя кукі сачэння
+firefox-desktop-download-blocks-third-party-default = Тыпова блакуе трэцебаковыя кукі сачэння
 firefox-desktop-download-autoplay-blocking = Блакаванне аўтапрайгравання
 firefox-desktop-download-blocks-social-trackers = Блакуе трэкеры сацыяльных сетак
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Даступнасць для АС
 firefox-desktop-download-in-browser-screenshot = Убудаваны інструмент для здымкаў экрана
+firefox-desktop-download-primary-password = Галоўны пароль
+# Obsolete string
 firefox-desktop-download-master-password = Галоўны пароль
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
 firefox-desktop-download-search-from-address = Пошук у адрасным радку
@@ -58,6 +61,7 @@ firefox-desktop-download-just-download-the-browser = Проста сцягніц
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Амаль гатова!
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Вы выкарыстоўваеце неабароненую, састарэлую аперацыйную сістэму, якая <a href="{ $url }">больш не падтрымліваецца { -brand-name-firefox }</a>.
