@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Блокує стеження 
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Доступність для різних ОС
 firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрану
+firefox-desktop-download-primary-password = Головний пароль
+# Obsolete string
 firefox-desktop-download-master-password = Головний пароль
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
 firefox-desktop-download-ads-are-distracting = Оголошення відвертають увагу та сповільнюють завантаження вебсторінок, а їхні елементи стеження слідкують за кожним вашим кроком в Інтернеті. { -brand-name-firefox-browser } блокує більшість елементів стеження автоматично, тому не потрібно заглиблюватися в налаштування безпеки.
