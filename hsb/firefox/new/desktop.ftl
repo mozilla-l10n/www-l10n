@@ -36,6 +36,8 @@ firefox-desktop-download-blocks-social-trackers = Blokuje přesćěhowaki social
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponujomnosć dźěłowych systemow
 firefox-desktop-download-in-browser-screenshot = Nastroj za fota wobrazowki we wobhladowaku
+firefox-desktop-download-primary-password = Hłowne hesło
+# Obsolete string
 firefox-desktop-download-master-password = Hłowne hesło
 firefox-desktop-download-we-block-the-ad = My blokujemy wabjenske přesćěhowaki. Wy přeslědźeće internet spěšnišo.
 firefox-desktop-download-see-your-report = Wašu škitnu rozprawu pokazać
