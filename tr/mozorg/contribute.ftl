@@ -38,3 +38,4 @@ contribute-support-heading = Yardım alın
 
 ## Web compat
 
+contribute-report-issue = Sorun bildirin
