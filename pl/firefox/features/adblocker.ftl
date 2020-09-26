@@ -29,15 +29,15 @@ features-adblocker-create-a-tracker-free = Utwórz strefę wolną od śledzenia 
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
-features-adblocker-on-firefox-you-can-use = W Firefoksie możesz użyć ustawień <a href="{ $privacy }">prywatności</a> lub <a href="{ $blocking }">blokowania treści</a>, aby mieć jeszcze więcej kontroli nad elementami śledzącymi, które wyświetlają Ci reklamy.
+features-adblocker-on-firefox-you-can-use = W { -brand-name-firefox(case: "loc") } możesz użyć ustawień <a href="{ $privacy }">prywatności</a> lub <a href="{ $blocking }">blokowania treści</a>, aby mieć jeszcze więcej kontroli nad elementami śledzącymi, które wyświetlają Ci reklamy.
 features-adblocker-choose-your-level-of-protection = Wybierz swój poziom ochrony
-features-adblocker-to-start-click-on-the = Aby zacząć, kliknij menu Firefoksa w prawym górnym rogu ekranu. Wygląda ono jak trzy linie ułożone na siebie. W rozwijanym menu kliknij „Blokowanie treści”. Powinno wyświetlić się niebieskie okno z różnymi opcjami do wyboru.
+features-adblocker-to-start-click-on-the = Aby zacząć, kliknij menu { -brand-name-firefox(case: "gen") } w prawym górnym rogu ekranu. Wygląda ono jak trzy linie ułożone na siebie. W rozwijanym menu kliknij „Blokowanie treści”. Powinno wyświetlić się niebieskie okno z różnymi opcjami do wyboru.
 features-adblocker-go-easy-with-standard = Łagodne traktowanie w trybie standardowym
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Jeśli reklamy Ci nie przeszkadzają i nie masz nic przeciwko śledzeniu przez elementy śledzące i ciasteczka zewnętrznych witryn, to ustawienie standardowe powinno Ci wystarczyć. Aby zbić elementy śledzące z Twojego tropu, użyj <a href="{ $url }">okna w trybie prywatnym</a>.
 features-adblocker-get-tough-with-strict = Bez kompromisów w trybie ścisłym
-features-adblocker-if-seeing-too-many-ads = Jeśli widok zbyt wielu reklam psuje Ci dzień, to tryb ścisły jest lepszym rozwiązaniem. Ten tryb blokuje znane elementy śledzące i ciasteczka witryn zewnętrznych we wszystkich oknach Firefoksa.
+features-adblocker-if-seeing-too-many-ads = Jeśli widok zbyt wielu reklam psuje Ci dzień, to tryb ścisły jest lepszym rozwiązaniem. Ten tryb blokuje znane elementy śledzące i ciasteczka witryn zewnętrznych we wszystkich oknach { -brand-name-firefox(case: "gen") }.
 features-adblocker-do-it-yourself-custom = „Zrób to sam” w trybie własnym
 features-adblocker-the-custom-setting-gives = Ustawienie własne pozwala Ci decydować samodzielnie. Wybierz, co chcesz blokować, w tym elementy śledzące, ciasteczka i inne. Jeśli zezwolisz na ciasteczka z jakiejś strony, to automatycznie znajdziesz się w tym trybie.
 features-adblocker-cover-your-trail-block = Zatrzyj po sobie ślady, blokuj elementy śledzące
@@ -46,14 +46,14 @@ features-adblocker-take-a-bite-out-of-cookies = Odgryź się ciasteczkom
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Ciasteczka</a> są wysyłane przez odwiedzane witryny. Mieszkają w Twoim komputerze i monitorują, co robisz na stronie. Kiedy linia lotnicza podnosi Ci ceny, bo któregoś dnia szukałaś biletów, to właśnie dzieło ciasteczek.
-features-adblocker-in-firefox-you-can-block = W Firefoksie możesz blokować wszystkie ciasteczka zewnętrznych witryn lub tylko te ustawiane przez elementy śledzące. Pamiętaj, że blokowanie wszystkich ciasteczek może spowodować, że niektóre strony nie będą działać poprawnie.
+features-adblocker-in-firefox-you-can-block = W { -brand-name-firefox(case: "loc") } możesz blokować wszystkie ciasteczka zewnętrznych witryn lub tylko te ustawiane przez elementy śledzące. Pamiętaj, że blokowanie wszystkich ciasteczek może spowodować, że niektóre strony nie będą działać poprawnie.
 features-adblocker-send-a-do-not-track-signal = Wyślij sygnał, żeby Cię nie śledzić
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jeśli nie chcesz, aby reklamy korzystały z Twoich działań w Internecie, to możesz wysyłać witrynom grzeczne „dzięki, ale nie skorzystam”, zaznaczając opcję <a href="{ $url }">Do Not Track</a> w Firefoksie. Uczestnictwo jest dobrowolne, ale witryny uczestniczące w programie natychmiast przestaną Cię śledzić.
+features-adblocker-if-you-dont-want-your = Jeśli nie chcesz, aby reklamy korzystały z Twoich działań w Internecie, to możesz wysyłać witrynom grzeczne „dzięki, ale nie skorzystam”, zaznaczając opcję <a href="{ $url }">Do Not Track</a> w { -brand-name-firefox(case: "loc") }. Uczestnictwo jest dobrowolne, ale witryny uczestniczące w programie natychmiast przestaną Cię śledzić.
 features-adblocker-speed-up-thanks-to-ad = Przyspiesz dzięki blokerom reklam
 features-adblocker-in-some-cases-an-ad-blocker = W niektórych przypadkach bloker reklam może przyspieszyć przeglądarkę. Wczytywanie reklamy może spowolnić stronę. Poza tym znalezienie tego, co szukasz zajmuje więcej czasu, jeśli musisz poświęcić go na zamykanie kolejnej reklamy.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Jeśli chcesz dowiedzieć się więcej o blokowaniu reklam, dla Firefoksa i innych przeglądarek dostępne są setki rozszerzeń blokujących reklamy. Jeśli chcesz wypróbować blokery reklam używane przez Firefoksa, to <a href="{ $url }">kliknij tutaj, aby pobrać</a> przeglądarkę stawiającą prywatność na pierwszym miejscu.
+features-adblocker-if-you-want-to-learn-more = Jeśli chcesz dowiedzieć się więcej o blokowaniu reklam, dla { -brand-name-firefox(case: "gen") } i innych przeglądarek dostępne są setki rozszerzeń blokujących reklamy. Jeśli chcesz wypróbować blokery reklam używane przez { -brand-name-firefox(case: "acc") }, to <a href="{ $url }">kliknij tutaj, aby pobrać</a> przeglądarkę stawiającą prywatność na pierwszym miejscu.
 features-adblocker-take-control-of-your-browser = Pełna kontrola nad przeglądarką.
