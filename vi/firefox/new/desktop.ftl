@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Chặn trình theo dõi xã h�
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Hệ điều hành khả dụng
 firefox-desktop-download-in-browser-screenshot = Công cụ chụp màn hình trong trình duyệt
+firefox-desktop-download-primary-password = Mật khẩu chính
+# Obsolete string
 firefox-desktop-download-master-password = Mật khẩu chính
 firefox-desktop-download-we-block-the-ad = Chúng tôi chặn trình theo dõi quảng cáo. Bạn khám phá internet nhanh hơn.
 firefox-desktop-download-ads-are-distracting = Quảng cáo gây mất tập trung và làm cho các trang web tải chậm hơn trong khi trình theo dõi của họ theo dõi mọi di chuyển bạn thực hiện trực tuyến. { -brand-name-firefox-browser } tự động chặn hầu hết các trình theo dõi, do đó, không cần phải đào sâu vào cài đặt bảo mật của bạn.

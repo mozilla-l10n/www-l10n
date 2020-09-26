@@ -10,6 +10,8 @@ compare-shared-yes = Có
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Không
 compare-shared-private-browsing-mode = Chế độ duyệt web riêng tư
+compare-shared-blocks-third-party-tracking-default = Chặn cookie theo dõi của bên thứ ba theo mặc định
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Chặn cookie theo dõi của bên thứ ba
 compare-shared-blocks-cryptomining-scripts = Chặn các tập lệnh khai thác tiền điện tử
 compare-shared-blocks-social-trackers = Chặn các trình theo dõi xã hội
@@ -27,6 +29,8 @@ compare-shared-os-availability = Hệ điều hành khả dụng
 compare-shared-mobile-os-availability = Hệ điều hành di động khả dụng
 compare-shared-syncs-with-mobile = Đồng bộ với di động
 compare-shared-password-management = Quản lý mật khẩu
+compare-shared-primary-password = Mật khẩu chính
+# Obsolete string
 compare-shared-master-password = Mật khẩu chính
 compare-shared-security-and-privacy = Bảo mật và riêng tư
 compare-shared-utility = Tiện ích
