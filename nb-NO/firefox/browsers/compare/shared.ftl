@@ -10,6 +10,8 @@ compare-shared-yes = Ja
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Nei
 compare-shared-private-browsing-mode = Privat nettlesingsmodus
+compare-shared-blocks-third-party-tracking-default = Blokkerer tredjeparts sporingsinfokapsler som standard
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blokkerer tredjeparts sporingsinfokapsler
 compare-shared-blocks-cryptomining-scripts = Blokkerer kryptoutvinningsskript
 compare-shared-blocks-social-trackers = Blokkerer alle sosiale media-sporere
@@ -27,6 +29,8 @@ compare-shared-os-availability = OS-tilgjengelighet
 compare-shared-mobile-os-availability = Mobil OS-tilgjengelighet
 compare-shared-syncs-with-mobile = Synkroniserer med mobil
 compare-shared-password-management = Passordbehandling
+compare-shared-primary-password = Hovedpassord
+# Obsolete string
 compare-shared-master-password = Hovedpassord
 compare-shared-security-and-privacy = Sikkerhet og personvern
 compare-shared-utility = Nytte
