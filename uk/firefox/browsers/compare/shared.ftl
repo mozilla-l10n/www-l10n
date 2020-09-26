@@ -10,6 +10,8 @@ compare-shared-yes = Так
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ні
 compare-shared-private-browsing-mode = Режим приватного перегляду
+compare-shared-blocks-third-party-tracking-default = Типово блокує сторонні куки стеження
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Блокує сторонні куки стеження
 compare-shared-blocks-cryptomining-scripts = Блокує скрипти для добування криптовалют
 compare-shared-blocks-social-trackers = Блокує стеження соціальних мереж
@@ -27,6 +29,8 @@ compare-shared-os-availability = Доступність для ОС
 compare-shared-mobile-os-availability = Доступність для мобільних ОС
 compare-shared-syncs-with-mobile = Синхронізація з мобільним
 compare-shared-password-management = Керування паролями
+compare-shared-primary-password = Головний пароль
+# Obsolete string
 compare-shared-master-password = Головний пароль
 compare-shared-security-and-privacy = Безпека та приватність
 compare-shared-utility = Функції
