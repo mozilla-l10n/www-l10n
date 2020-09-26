@@ -10,6 +10,8 @@ compare-shared-yes = Evet
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Hayır
 compare-shared-private-browsing-mode = Gizli gezinti modu
+compare-shared-blocks-third-party-tracking-default = Varsayılan olarak üçüncü taraf takip çerezlerini engeller
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Üçüncü taraf takip çerezlerini engeller
 compare-shared-blocks-cryptomining-scripts = Kripto madencilik betiklerini engeller
 compare-shared-blocks-social-trackers = Sosyal takipçileri engeller
@@ -27,6 +29,8 @@ compare-shared-os-availability = Farklı işletim sistemleri desteği
 compare-shared-mobile-os-availability = Mobil işletim sistemleri desteği
 compare-shared-syncs-with-mobile = Mobil cihazlarla senkronizasyon
 compare-shared-password-management = Parola yönetimi
+compare-shared-primary-password = Ana parola
+# Obsolete string
 compare-shared-master-password = Ana parola
 compare-shared-security-and-privacy = Güvenlik ve Gizlilik
 compare-shared-utility = Fayda

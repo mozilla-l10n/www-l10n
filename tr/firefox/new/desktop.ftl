@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Sosyal takipçileri engeller
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Farklı işletim sistemleri desteği
 firefox-desktop-download-in-browser-screenshot = Tarayıcı içi ekran görüntüsü aracı
+firefox-desktop-download-primary-password = Ana parola
+# Obsolete string
 firefox-desktop-download-master-password = Ana parola
 firefox-desktop-download-we-block-the-ad = Biz reklam takipçilerini engelliyoruz, siz daha hızlı geziniyorsunuz
 firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takipçisini otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
