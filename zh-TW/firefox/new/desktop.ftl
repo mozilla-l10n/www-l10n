@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = 封鎖社交追蹤器
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = 不同作業系統皆有提供
 firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
+firefox-desktop-download-primary-password = 主控密碼
+# Obsolete string
 firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
 firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser }會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
