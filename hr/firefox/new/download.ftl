@@ -35,13 +35,14 @@ firefox-new-make-your-passwords-portable = Prenosi svoje lozinke
 firefox-new-watch-for-data-breaches = Otrkij curenja podataka
 firefox-new-connect-to-a-whole-family = Poveži se sa cijelom porodicom proizvoda koji poštuju tvoju privatnost, uz svo znanje o zaštiti na internetu.
 firefox-new-passwords-made-portable = Prenosive lozinke
-firefox-new-protect-your-privacy = Zašti svoju privatnost
+firefox-new-protect-your-privacy = Zaštiti svoju privatnost
 firefox-new-private-browsing-clears = <strong>Privatno pregledavanje</strong> briše povijest, kako bi tvoji podaci ostali skriveni od ostalih koje koriste isto računalo.
 firefox-new-advanced-install-options-heading = Napredne mogućnosti instaliranja i druge platforme
 firefox-new-just-download-the-browser = Preuzmi samo preglednik
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Koristiš nesiguran, zastarjeli operacijski sustav koji <a href="{ $url }">{ -brand-name-firefox } više ne podržava</a>.
