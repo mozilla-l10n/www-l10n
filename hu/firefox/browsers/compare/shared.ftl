@@ -10,6 +10,8 @@ compare-shared-yes = Igen
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Nem
 compare-shared-private-browsing-mode = Privát böngészési mód
+compare-shared-blocks-third-party-tracking-default = Alapértelmezetten blokkolja a harmadik féltől származó követő sütiket
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Harmadik féltől származó követő sütik blokkolása
 compare-shared-blocks-cryptomining-scripts = Kriptobányász parancsfájlok blokkolása
 compare-shared-blocks-social-trackers = Közösségi oldalak követőinek blokkolása
@@ -27,6 +29,8 @@ compare-shared-os-availability = Elérhetőség különböző operációs rendsz
 compare-shared-mobile-os-availability = Elérhetőség mobil operációs rendszereken
 compare-shared-syncs-with-mobile = Szinkronizálás a mobiljával
 compare-shared-password-management = Jelszókezelés
+compare-shared-primary-password = Elsődleges jelszó
+# Obsolete string
 compare-shared-master-password = Mesterjelszó
 compare-shared-security-and-privacy = Biztonság és adatvédelem
 compare-shared-utility = Hasznos funkciók

@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követői
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Elérhetőség különböző operációs rendszereken
 firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
+firefox-desktop-download-primary-password = Elsődleges jelszó
+# Obsolete string
 firefox-desktop-download-master-password = Mesterjelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
 firefox-desktop-download-ads-are-distracting = A reklámok elvonják a figyelmet, és lassabbá teszik a weboldalak betöltését, miközben a nyomkövetőik minden online mozdulatát követik. A { -brand-name-firefox-browser } automatikusan blokkolja a legtöbb követőt, így nem kell beleásnia magát a biztonsági beállításokba.
