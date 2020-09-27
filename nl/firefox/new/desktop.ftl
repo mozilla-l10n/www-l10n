@@ -159,6 +159,9 @@ firefox-desktop-download-now-mac = <strong>Open nu</strong> het bestand dat zoju
 firefox-desktop-download-get-help = Problemen? <a { $attrs }>Ontvang hulp bij uw installatie</a>.
 firefox-desktop-download-in-another-language = Downloaden in een andere taal of voor een ander besturingssysteem.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Als u een melding ziet waarin wordt gesteld dat de app die u probeert te installeren geen door { -brand-name-microsoft } geverifieerde app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wijzig de instellingen voor app-aanbevelingen</a>.
 firefox-desktop-download-visit-support-for-more = Bezoek Ondersteuning voor meer details
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

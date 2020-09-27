@@ -66,4 +66,7 @@ firefox-new-please-follow = Volg <a href="{ $url }">deze instructies</a> om { -b
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Uw systeem voldoet mogelijk niet aan de vereisten voor { -brand-name-firefox }, maar u kunt een van <a href="{ $url }">deze versies</a> proberen.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Als u een melding ziet waarin wordt gesteld dat de app die u probeert te installeren geen door { -brand-name-microsoft } geverifieerde app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wijzig de instellingen voor app-aanbevelingen</a>.
 firefox-new-visit-support-for-more = Bezoek Ondersteuning voor meer details
