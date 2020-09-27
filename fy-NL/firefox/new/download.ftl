@@ -66,3 +66,7 @@ firefox-new-please-follow = Folgje <a href="{ $url }">dizze ynstruksjes</a> om {
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Jo systeem foldocht mooglik net oan de easken foar { -brand-name-firefox }, mar jo kinne ien fan <a href="{ $url }">dizze ferzjes</a> probearje.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy't jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
+firefox-new-visit-support-for-more = Besykje Stipe foar mear details

@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Blokkearret sosjale trackers
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Beskikberheid op bestjoeringssystemen
 firefox-desktop-download-in-browser-screenshot = Helpmiddel foar skermôfdrukken yn de browser
+firefox-desktop-download-primary-password = Haadwachtwurd
+# Obsolete string
 firefox-desktop-download-master-password = Haadwachtwurd
 firefox-desktop-download-we-block-the-ad = Wy blokkearje de advertinsje-trackers. Jo sneupe flugger oer it ynternet.
 firefox-desktop-download-ads-are-distracting = Advertinsjes liede ôf en soargje derfoar dat websiden stadiger laden wurde, wylst harren trackers al jo online hannelingen folgje. De { -brand-name-firefox-browser } blokkearre de measte trackers automatysk, dus jo hoege jo befeiligingsynstellingen net troch te spitten.
@@ -157,6 +159,10 @@ firefox-desktop-download-now-mac = <strong>Iepenje no</strong> it bestân dat sa
 firefox-desktop-download-get-help = Problemen? <a { $attrs }>Untfang help by jo ynstallaasje</a>.
 firefox-desktop-download-in-another-language = Downloade yn in oare taal of foar in oar bestjoeringssysteem.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy't jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
+firefox-desktop-download-visit-support-for-more = Besykje Stipe foar mear details
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt gjin befeiligingsfernijingen mear oan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, mar jo kinne { -brand-name-firefox } noch hieltyd brûke.
