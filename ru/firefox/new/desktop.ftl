@@ -31,11 +31,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Да
 firefox-desktop-download-no = Нет
 firefox-desktop-download-blocks-third-party = Блокировка кук сторонних трекеров
+firefox-desktop-download-blocks-third-party-default = Блокировка кук сторонних трекеров по умолчанию
 firefox-desktop-download-autoplay-blocking = Блокировка автовоспроизведения
 firefox-desktop-download-blocks-social-trackers = Блокировка трекеров социальных сетей
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Доступность на ОС
 firefox-desktop-download-in-browser-screenshot = Встроенный инструмент для создания скриншотов
+firefox-desktop-download-primary-password = Мастер-пароль
+# Obsolete string
 firefox-desktop-download-master-password = Мастер-пароль
 firefox-desktop-download-we-block-the-ad = Мы блокируем рекламные трекеры. Вы быстрее работаете в Интернете.
 firefox-desktop-download-ads-are-distracting = Реклама отвлекает и замедляет загрузку веб-страниц, в то время как их трекеры отслеживают каждое ваше движение в Интернете. { -brand-name-firefox-browser } автоматически блокирует большинство трекеров, поэтому нет необходимости копаться в настройках безопасности.
@@ -155,6 +158,8 @@ firefox-desktop-download-now-mac = Теперь <strong>откройте</strong
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Возникли проблемы? <a { $attrs }>Получите помощь по установке</a>.
 firefox-desktop-download-in-another-language = Загрузить на другом языке или для другой операционной системы.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = Посетите сайт поддержки для получения дополнительных сведений
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больше не предоставляет обновления безопасности</a> на { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }, но вы всё ещё можете использовать { -brand-name-firefox }.

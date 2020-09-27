@@ -10,6 +10,8 @@ compare-shared-yes = Да
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Нет
 compare-shared-private-browsing-mode = Режим приватного просмотра
+compare-shared-blocks-third-party-tracking-default = Блокировка кук сторонних трекеров по умолчанию
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Блокировка кук сторонних трекеров
 compare-shared-blocks-cryptomining-scripts = Блокировка скриптов-криптомайнеров
 compare-shared-blocks-social-trackers = Блокировка трекеров социальных сетей
@@ -27,6 +29,8 @@ compare-shared-os-availability = Доступность на ОС
 compare-shared-mobile-os-availability = Доступность на мобильных ОС
 compare-shared-syncs-with-mobile = Синхронизация с мобильным
 compare-shared-password-management = Управление паролями
+compare-shared-primary-password = Мастер-пароль
+# Obsolete string
 compare-shared-master-password = Мастер-пароль
 compare-shared-security-and-privacy = Безопасность и Приватность
 compare-shared-utility = Удобство

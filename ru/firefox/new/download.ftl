@@ -65,3 +65,5 @@ firefox-new-please-follow = Пожалуйста, следуйте <a href="{ $u
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша система может не удовлетворять требованиям { -brand-name-firefox }, но вы можете попробовать одну из <a href="{ $url }">этих версий</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Посетите сайт поддержки для получения дополнительных сведений

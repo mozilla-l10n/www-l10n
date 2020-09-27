@@ -24,7 +24,7 @@ features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ulti
 features-adblocker-popup-ads-are-the-worst = Всплывающие окна — самые раздражающие. Блокируйте их с помощью <a href="{ $url }">Popup Blocker</a> и никогда больше с ними не сталкивайтесь.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Одним из самых популярных блокировщиков рекламы для { -brand-name-chrome }, { -brand-name-safari } и { -brand-name-firefox } является <a href="{ $url }">AdBlock</a>. Используйте его для блокировки рекламы на Фейсбуке, { -brand-name-youtube } и { -brand-name-hulu }.
+features-adblocker-one-of-the-most-popular = Одним из самых популярных блокировщиков рекламы для { -brand-name-chrome }, { -brand-name-safari } и { -brand-name-firefox } является <a href="{ $url }">AdBlock</a>. Используйте его для блокировки рекламы на { -brand-name-facebook }, { -brand-name-youtube } и { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Создайте зону без трекеров с Блокировкой содержимого
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
