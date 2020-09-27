@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Blockerar sociala spårare
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = OS tillgänglighet
 firefox-desktop-download-in-browser-screenshot = Skärmdumpsverktyg i webbläsaren
+firefox-desktop-download-primary-password = Huvudlösenord
+# Obsolete string
 firefox-desktop-download-master-password = Huvudlösenord
 firefox-desktop-download-we-block-the-ad = Vi blockerar annonsspårarna. Du utforskar internet snabbare.
 firefox-desktop-download-ads-are-distracting = Annonser är distraherande och gör att webbsidor laddar långsammare medan deras spårare tittar på varje drag du gör online. { -brand-name-firefox-browser } blockerar de flesta spårare automatiskt, så det finns inget behov av att kontrollera dina säkerhetsinställningar.
