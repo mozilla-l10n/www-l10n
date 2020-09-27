@@ -8,7 +8,7 @@
 # HTML page title
 firefox-browsers-get-the-browsers-that-put = Download de browsers die uw privacy voorop stellen – en dat altijd hebben gedaan
 # HTML page description
-firefox-browsers-get-the-privacy-you-deserve = Krijg de privacy die u verdient. Verbeterde beveiliging tegen volgen is automatisch in elke { -brand-name-firefox }-browser.
+firefox-browsers-get-the-privacy-you-deserve = Krijg de privacy die u verdient. Verbeterde bescherming tegen volgen is automatisch in elke { -brand-name-firefox }-browser.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Download de <strong>browsers</strong> die uw privacy voorop stellen – en dat altijd hebben gedaan
 firefox-browsers-desktop = Desktop

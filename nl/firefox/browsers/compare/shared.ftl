@@ -10,6 +10,8 @@ compare-shared-yes = Ja
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Nee
 compare-shared-private-browsing-mode = Privénavigatiemodus
+compare-shared-blocks-third-party-tracking-default = Blokkeert standaard tracking-cookies van derden
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blokkeert tracking-cookies van derden
 compare-shared-blocks-cryptomining-scripts = Blokkeert cryptomining-scripts
 compare-shared-blocks-social-trackers = Blokkeert sociale trackers
@@ -27,6 +29,8 @@ compare-shared-os-availability = Beschikbaarheid op besturingssystemen
 compare-shared-mobile-os-availability = Beschikbaarheid op mobiele besturingssystemen
 compare-shared-syncs-with-mobile = Synchroniseert met mobiel
 compare-shared-password-management = Wachtwoordbeheer
+compare-shared-primary-password = Hoofdwachtwoord
+# Obsolete string
 compare-shared-master-password = Hoofdwachtwoord
 compare-shared-security-and-privacy = Beveiliging en privacy
 compare-shared-utility = Bruikbaarheid
