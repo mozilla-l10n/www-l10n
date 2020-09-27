@@ -27,6 +27,7 @@ firefox-desktop-download-blocks-social-trackers = Bloque les traqueurs de résea
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilité par système d’exploitation
 firefox-desktop-download-in-browser-screenshot = Outil de capture d’écran dans le navigateur
+# Obsolete string
 firefox-desktop-download-master-password = Mot de passe principal
 firefox-desktop-download-we-block-the-ad = Nous bloquons les traqueurs publicitaires. Pour vous permettre d’explorer Internet plus rapidement.
 firefox-desktop-download-ads-are-distracting = Les pubs sont distrayantes et ralentissent le chargement des pages web, tandis que leurs traqueurs surveillent tous vos faits et gestes en ligne. { -brand-name-firefox } bloque automatiquement la plupart des traqueurs, il n’est donc pas nécessaire de fouiller dans vos paramètres de sécurité.
@@ -97,6 +98,15 @@ firefox-desktop-download-from-security-to = De la sécurité aux actualités en 
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Vous utilisez un système d’exploitation obsolète et vulnérable <a href="{ $url }">qui n’est plus pris en charge par { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Votre téléchargement devrait commencer automatiquement. Cela n’a pas fonctionné ? <a id="{ $id }" href="{ $fallback_url }">Essayez de relancer le téléchargement.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } est plus qu’un navigateur.
 firefox-desktop-download-interrupted = Votre téléchargement a été interrompu. Mais tout n’est pas perdu.
 # Variables:
