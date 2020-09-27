@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Ke'ab'a' ri taq kuki
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Ri taq ruxaq ye'atz'ët yekitäq <a href="{ $url }">Taq Kuki</a> chawe. Re taq yakb'äl e k'o pa ri awokik'amaya'l chuqa' nikinik'oj achike nab'än pa jujun ruxaq. Toq jun ajsik'ach'ich' nujotob'a' kajil chawäch ruma chijun q'ij xatz'ët kajil kiwujil, ri ri' rusamaj jun kuki.
 features-adblocker-in-firefox-you-can-block = Ri { -brand-name-firefox } nuya' q'ij chawe richin ye'aq'ät ronojel ri taq kikuki aj rox winäq o xa xe ri yekijikib'a' ri ojqanela'. Tanataj chi toq ye'aq'ät ri taq kuki, xtub'än chi rik'in jub'a' jujun taq ruxaq man xkesamäj ta.
-features-adblocker-send-a-do-not-track-signal = Tataqa' jun etal richin Mani Ojqanem
+features-adblocker-send-a-do-not-track-signal = Titaq jun etal richin Mani Kinojqäx
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = We man nawajo' ta chi ri nab'än pa k'amab'ey tokisäx richin eltzijol, yatikïr natäq chi ke ri ruxaq “Matyox po mani matyox” rik'in ri cha'oj <a href="{ $url }">Mani Ojqanem</a> rucha'oj { -brand-name-firefox }. Man tojel ta ri to'ïk, po ri jujun taq ruxaq ajk'amaya'l ri yeto'on man xkatkojqaj ta.
