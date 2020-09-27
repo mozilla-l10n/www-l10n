@@ -11,6 +11,7 @@ firefox-enterprise-downloads = Téléchargements
 firefox-enterprise-your-data-stays-your-business = Vos données restent votre affaire
 firefox-enterprise-deploy-when-and-how-you-want = Déployez quand vous le souhaitez et de la manière dont vous voulez
 firefox-enterprise-choose-your-release-cadence = Choisissez votre cadence de sortie
+firefox-enterprise-get-rapid-releases-to-make = Téléchargez la version avec une cadence de publication rapide pour obtenir les dernières fonctionnalités plus rapidement, ou la version <em>extended</em> pour assurer une expérience extrêmement stable.
 firefox-enterprise-enterprise-downloads = Téléchargements pour les { -brand-name-enterprise(role: "plural-lower") }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Sélectionnez votre téléchargement
