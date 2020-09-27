@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Personnalisez ce marque-page
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Adaptez-les à votre gré
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Vous pouvez gérer minutieusement vos marque-pages en utilisant un des <a href="{ $url }">modules</a> dédiés à leur gestion, depuis ceux qui capturent la page entière jusqu’à ceux qui vous garantissent la confidentialité de vos sélections les plus personnelles.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
