@@ -24,6 +24,7 @@
     .gender = masculine
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
     { $case ->
