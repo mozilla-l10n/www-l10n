@@ -160,6 +160,10 @@ firefox-desktop-download-get-help = დაბრკოლება შეგე�
 firefox-desktop-download-in-another-language = ჩამოტვირთეთ სხვა ენაზე ან სხვა საოპერაციო სისტემისთვის.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = თუ ამოგიგდებთ, რომ დასაყენებელი პროგრამა { -brand-name-microsoft }-ის მიერ არაა დამოწმებული, დაწკაპეთ „მაინც დაყენება“ ან <a { $attrs }>შეცვალეთ პროგრამების შეფასების პარამეტრები</a>.
+firefox-desktop-download-visit-support-for-more = დაწვრილებით, იხილეთ მხარდაჭერის გვერდი
+# Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">აღარ აწარმოებს უსაფრთხოების განახლებებს</a> სისტემებისთვის { -brand-name-windows } { -brand-name-xp } ან { -brand-name-vista }, თუმცა მაინც შეგიძლიათ გამოიყენოთ { -brand-name-firefox }.
 # Outdated string
