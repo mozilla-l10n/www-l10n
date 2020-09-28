@@ -15,6 +15,8 @@ firefox-desktop-download-og-title = Ześěgniśo nejmalsnjejšy { -brand-name-fi
 firefox-desktop-download-og-desc = Boki se malsnjej zacytaju, mjenjej składa se wužywa a z wjele funkcijami: Nowy { -brand-name-firefox } jo wujšeł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Žedne póchmurne pšawidła priwatnosći abo slězne źuŕka za wabjarje. Jano spěšnučki wobglědowak, kótaryž was njewobšuźujo.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
 firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -34,7 +36,10 @@ firefox-desktop-download-blocks-social-trackers = Blokěrujo socialne pśeslědo
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = K-dispoziciji-byśe źěłowego systema
 firefox-desktop-download-in-browser-screenshot = Rěd za fota wobrazowki we wobglědowaku
+firefox-desktop-download-primary-password = Głowne gronidło
+# Obsolete string
 firefox-desktop-download-master-password = Głowne gronidło
+firefox-desktop-download-we-block-the-ad = My blokěrujomy wabjeńske pśeslědowaki. Wy pśeslěźujośo internet malsnjej.
 firefox-desktop-download-see-your-report = Wašu šćitnu rozpšawu pokazaś
 firefox-desktop-download-for-everyone = { -brand-name-firefox } jo za wše
 firefox-desktop-download-review-system-req = Cytajśo systemowe pominanja
@@ -80,11 +85,18 @@ firefox-desktop-download-dark-mode = Śamny modus
 firefox-desktop-download-library-of-extensions = Biblioteka rozšyrjenjow
 firefox-desktop-download-adjust-search-bar = Nastajenja pytańskego póla pśiměriś
 firefox-desktop-download-change-new-tab = Wugótowanje nowego rejtarika změniś
+firefox-desktop-download-make-firefox-your = Pśiměŕśo <strong>{ -brand-name-firefox }</strong> swójim žycenjam
 firefox-desktop-download-extensions-for-every = Rozšyrjenja za kuždy zajm
 firefox-desktop-download-change-up-your = Změńśo naglěd
 firefox-desktop-download-tweak-your-settings = Pśiměŕśo swóje nastajenja
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Pódpěra se pśez <strong>za wše wužytnu</strong> organizaciju
 firefox-desktop-download-challenging-the-status = Cwiblujomy na status quo wót lěta 1998
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma nejwušu prioritu
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Wobchowajśo swóje nejlubše funkcije wobglědowaka – a <strong>namakajśo</strong> nowe.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Wšykne swóje nejlubše rědy { -brand-name-google } (na pś. Gmail a Docs) w { -brand-name-firefox-browser } njepósrědnje funkcioněruju.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
