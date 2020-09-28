@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -106,6 +108,7 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
@@ -122,6 +125,7 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
 
 ## Google products

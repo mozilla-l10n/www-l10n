@@ -26,6 +26,7 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox } Privacy Notice
 firefox-all-learn-about-firefox = Alamin ang tungkol sa { -brand-name-firefox } Browser
 firefox-all-the-standard-firefox = Ang standard na { -brand-name-firefox } browser — mabilis at pribado. Kung hindi ka sigurado kung aling { -brand-name-firefox } ang pipiliin, kunin mo ito.
 firefox-all-get-a-sneak-peek-at = Silipin ang pinakabagong mga feature ng { -brand-name-firefox } browser bago pa sila ma-release.
+firefox-all-arm64-installers = Mga installer para sa ARM64/AArch64
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
