@@ -45,14 +45,19 @@ contribute-opportunities = Nyheter og frivillige muligheter
 ## Made by
 
 contribute-made-by-heading = Utviklet av lidenskapelige mennesker som deg
+contribute-made-by-desc = Når du bidrar til { -brand-name-mozilla } blir du en del av et verdensomspennende fellesskap bestående av mennesker fra hele verden som tror at vi alle har en rolle i å sikre at internett forblir en styrke for godt.
+contribute-made-by-desc-cont = Vi tror at fellessamarbeid er avgjørende for å skape et internett som er mangfoldig, innovativt og ansvarlig for de menneskene som trenger det mest. Enten du har teknisk bakgrunn, fellesskapsorganisasjon eller bare en datamaskin og litt ledig tid, kan du hjelpe oss med å gjøre internett til et bedre sted.
 
 ## Newsletter
 
 contribute-newsletter-heading = Ikke sikker enda?
+contribute-newsletter-sub-heading = Få nyheter om fellesskapet og bidrag til innboksen din
+contribute-newsletter-desc = Abonner på nyhetsbrevet vårt, bli med Mozillians over hele verden, og lær mer om muligheter for å støtte { -brand-name-mozilla }-oppdraget.
 
 ## Support
 
 contribute-support-heading = Få hjelp
+contribute-support-desc = { -brand-name-mozilla } har et dedikert team av frivillige som kan hjelpe deg med problemene du måtte oppleve.
 contribute-mozilla-support = { -brand-name-mozilla }-brukerstøtte
 
 ## Web compat
