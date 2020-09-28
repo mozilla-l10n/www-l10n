@@ -10,6 +10,8 @@ compare-shared-yes = Haj
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ně
 compare-shared-private-browsing-mode = Priwatny modus
+compare-shared-blocks-third-party-tracking-default = Blokuje slědowanske placki třećich poskićowarjow po standardźe
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blokuje slědowanske placki třećich poskićowarjow
 compare-shared-blocks-cryptomining-scripts = Blokuje kryptokopanske skripty
 compare-shared-blocks-social-trackers = Blokuje přesćěhowaki socialnych syćow
@@ -27,6 +29,8 @@ compare-shared-os-availability = Disponujomnosć dźěłowych systemow
 compare-shared-mobile-os-availability = Disponujomnosć mobilnych dźěłowych systemow
 compare-shared-syncs-with-mobile = Synchronizacija z mobilnym gratom
 compare-shared-password-management = Rjadowanje hesłow
+compare-shared-primary-password = Hłowne hesło
+# Obsolete string
 compare-shared-master-password = Hłowne hesło
 compare-shared-security-and-privacy = Wěstota a priwatnosć
 compare-shared-utility = Wužitnosć
