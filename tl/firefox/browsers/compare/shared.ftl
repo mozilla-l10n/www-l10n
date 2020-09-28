@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Used as an accessible label for a "yes" icon (a green check mark)
+compare-shared-yes = Oo
+# Used as an accessible label for a "no" icon (a gray bar)
+compare-shared-no = Hindi
+compare-shared-tab-browsing = Tab browsing
+compare-shared-bookmark-manager = Bookmark manager
+compare-shared-reader-mode = Reader mode
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -12,3 +19,4 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-desktop = Desktop
