@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Bloqueio de rastreadores de m�
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilidade em sistemas operacionais
 firefox-desktop-download-in-browser-screenshot = Ferramenta integrada de captura de tela
+firefox-desktop-download-primary-password = Senha principal
+# Obsolete string
 firefox-desktop-download-master-password = Senha principal
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos rastreadores de anúncios. Você explora a internet mais rápido.
 firefox-desktop-download-ads-are-distracting = Anúncios distraem a atenção e tornam mais lento carregar páginas web, enquanto seus rastreadores vigiam cada movimento que você faz online. O { -brand-name-firefox-browser } bloqueia a maioria dos rastreadores automaticamente, então não precisa se aprofundar nas suas configurações de segurança.
