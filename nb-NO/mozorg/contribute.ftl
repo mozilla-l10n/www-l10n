@@ -27,6 +27,7 @@ contribute-task-mozilla-codebase-heading = Bidra til { -brand-name-mozilla }-kod
 contribute-task-mozilla-codebase-desc = Forbedre { -brand-name-mozilla }-produkter aktivt ved å bidra til en rekke utviklingsmuligheter.
 contribute-task-support-desc = Hjelp med å gjøre { -brand-name-mozilla }-produkter enklere å bruke. Svar på deltakernes spørsmål i { -brand-name-mozilla }-brukerstøtteforum.
 contribute-task-join-heading = Bli med i fellesskapet
+contribute-task-join-desc = Vil du bli mer involvert i { -brand-name-mozilla }-miljøet? Sjekk ut alle frivillighetsmulighetene på fellesskapsportalen vår.
 
 ## Mission
 
