@@ -65,3 +65,8 @@ firefox-new-please-follow = Pšosym slědujśo <a href="{ $url }">toś tym instr
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Jolic napominanje wiźiśo, kótarež k wěsć dawa, až nałoženje, kótarež cośo instalěrowaś, njejo wót { -brand-name-microsoft } pśeglědane, klikniśo na „Weto instalěrowaś“ abo <a { $attrs }>změńśo dopóruceńske nastajenja nałoženja</a>.
+firefox-new-visit-support-for-more = Woglědajśo se k bokam pomocy za dalšne drobnostki
