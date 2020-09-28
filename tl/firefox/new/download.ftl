@@ -13,3 +13,4 @@ firefox-new-free-web-browser = Libreng Web Browser
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-new-firefox-is-more-than-a-browser = Ang { -brand-name-firefox } ay higit pa sa isang browser.
+firefox-new-windows-10 = { -brand-name-windows } 10
