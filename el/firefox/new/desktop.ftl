@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Λήψη του { -brand-name-firefox-browser } — Γρήγορο, ιδιωτικό & δωρεάν — από τη { -brand-name-mozilla }
 firefox-desktop-download-og-title = Κάντε λήψη του πιο γρήγορου { -brand-name-firefox }
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = Ο φυλλομετρητής που φυλάσσει ό,τι είναι σημαντικό
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες
@@ -37,6 +38,7 @@ firefox-desktop-download-see-your-report = Προβολή αναφοράς πρ�
 firefox-desktop-download-for-everyone = Το { -brand-name-firefox } είναι για όλους
 firefox-desktop-download-available-in-over = Διαθέσιμο σε πάνω από 90 γλώσσες και συμβατό με συστήματα { -brand-name-windows }, { -brand-name-mac-short } και { -brand-name-linux }, το { -brand-name-firefox } λειτουργεί ό,τι και να χρησιμοποιείτε, όπου κι αν βρίσκεστε. Βεβαιωθείτε ότι το λειτουργικό σας σύστημα είναι ενημερωμένο για τη βέλτιστη εμπειρία.
 firefox-desktop-download-review-system-req = Έλεγχος απαιτήσεων συστήματος
+firefox-desktop-download-all-your-devices = Το { -brand-name-firefox } σε όλες τις συσκευές σας
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Κάντε τα <strong>όλα</strong> με το { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Εξυπνότερη, ταχύτερη αναζήτηση
@@ -94,7 +96,7 @@ firefox-desktop-download-sync-your-devices = Συγχρονισμός των σ�
 firefox-desktop-download-screenshots = Στιγμιότυπα οθόνης
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή (ΕΠΚ)
-firefox-desktop-download-from-watching-a = Από οδηγούς εκμάθησης μέχρι τον αγώνα της αγαπημένης σας ομάδας, τα βίντεο σας ακολουθούν στις πολλαπλές σας εργασίες.
+firefox-desktop-download-from-watching-a = Από οδηγούς εκμάθησης μέχρι τον αγώνα της αγαπημένης σας ομάδας, τα βίντεο σας ακολουθούν στις υπόλοιπες σας εργασίες.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-ios }</strong>
