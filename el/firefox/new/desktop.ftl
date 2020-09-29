@@ -27,6 +27,7 @@ firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών 
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
+# Obsolete string
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-download-see-your-report = Προβολή αναφοράς προστασίας
 firefox-desktop-download-for-everyone = Το { -brand-name-firefox } είναι για όλους
@@ -60,6 +61,7 @@ firefox-desktop-download-third-party-cookie = Φραγή cookies τρίτων
 firefox-desktop-download-fingerprinter-blocking = Φραγή fingerprinters
 firefox-desktop-download-cryptominer-blocking = Φραγή cryptominers
 firefox-desktop-download-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
+firefox-desktop-download-secure-your-personal = Προστασία προσωπικών δεδομένων
 firefox-desktop-download-built-in-password = Ενσωματωμένη διαχείριση κωδικών πρόσβασης
 firefox-desktop-download-clear-history = Εκκαθάριση ιστορικού
 firefox-desktop-download-form-autofill = Αυτόματη συμπλήρωση φορμών
@@ -82,6 +84,9 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-learn-about-the = Μάθετε για το { -brand-name-firefox } για υπολογιστές παρακάτω
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } κάνει αυτόματα <a { $attrs }>φραγή πολλών ιχνηλατών τρίτων</a> για αποτροπή συλλογής και πώλησης της δραστηριότητάς σας.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
