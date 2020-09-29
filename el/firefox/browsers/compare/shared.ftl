@@ -57,4 +57,4 @@ compare-shared-download-the-app = Λήψη της εφαρμογής
 compare-shared-desktop = Υπολογιστές
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Σύγκριση προγρ. περιήγησης
+compare-shared-compare-browsers = Σύγκριση προγραμμάτων περιήγησης
