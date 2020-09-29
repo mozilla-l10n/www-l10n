@@ -12,5 +12,8 @@ compare-opera-compare-opera-to-the-firefox = Συγκρίνετε το { -brand-
 # Main title
 compare-opera-comparing-firefox-browser = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-opera }
 # Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-opera-firefoxs-privacy-policy-is = Η <a { $attrs }>πολιτική απορρήτου</a> του { -brand-name-firefox } περιγράφει με σαφήνεια ποια προσωπικά στοιχεία συλλέγονται, με μοναδικό σκοπό να αποκτήσετε περισσότερο έλεγχο των πληροφοριών που κοινοποιείτε στο διαδίκτυο.
+# Variables:
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
 compare-opera-we-also-offer-an-additional = Επίσης, προσφέρουμε μια επιπρόσθετη, αν και πειραματική, έκδοση της εφαρμογής { -brand-name-firefox } για κινητά, το <a { $attrs }>{ -brand-name-firefox } Preview</a>, το οποίο εστιάζει στην ταχύτητα και την ασφάλεια.
