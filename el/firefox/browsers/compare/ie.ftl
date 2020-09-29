@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
+# HTML page description
+compare-ie-compare-internet-explorer-to = Συγκρίνετε το { -brand-name-ie } με το { -brand-name-firefox-browser } για να μάθετε ποιο σας ταιριάζει καλύτερα.
 # Main title
 compare-ie-comparing-firefox-browser-with = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-microsoft } { -brand-name-ie }
