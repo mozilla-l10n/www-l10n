@@ -12,8 +12,12 @@
 firefox-desktop-download-meta-title = Λήψη του { -brand-name-firefox-browser } — Γρήγορο, ιδιωτικό & δωρεάν — από τη { -brand-name-mozilla }
 firefox-desktop-download-og-title = Κάντε λήψη του πιο γρήγορου { -brand-name-firefox }
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες
 firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
 firefox-desktop-download-how-we-compare = Τρόπος σύγκρισης με άλλα προγράμματα περιήγησης
 firefox-desktop-download-compare-firefox-to = Σύγκριση του { -brand-name-firefox } με:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -62,6 +66,7 @@ firefox-desktop-download-fingerprinter-blocking = Φραγή fingerprinters
 firefox-desktop-download-cryptominer-blocking = Φραγή cryptominers
 firefox-desktop-download-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
 firefox-desktop-download-secure-your-personal = Προστασία προσωπικών δεδομένων
+firefox-desktop-download-breached-website-alerts = Ειδοποιήσεις παραβιάσεων ιστοσελίδων
 firefox-desktop-download-built-in-password = Ενσωματωμένη διαχείριση κωδικών πρόσβασης
 firefox-desktop-download-clear-history = Εκκαθάριση ιστορικού
 firefox-desktop-download-form-autofill = Αυτόματη συμπλήρωση φορμών
@@ -74,8 +79,15 @@ firefox-desktop-download-adjust-search-bar = Προσαρμογή ρυθμίσε
 firefox-desktop-download-change-new-tab = Αλλαγή διάταξης νέας καρτέλας
 firefox-desktop-download-make-firefox-your = Κάντε το <strong>{ -brand-name-firefox }</strong> δικό σας
 firefox-desktop-download-extensions-for-every = Επεκτάσεις για κάθε ενδιαφέρον
+firefox-desktop-download-change-up-your = Αλλαγή εμφάνισης
+firefox-desktop-download-tweak-your-settings = Διαμόρφωση ρυθμίσεων
 firefox-desktop-download-your-privacy-comes = Το απόρρητό σας έχει προτεραιότητα
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Όλα τα αγαπημένα σας εργαλεία { -brand-name-google } (όπως Gmail και Έγγραφα) λειτουργούν απρόσκοπτα στο { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Κάντε λήψη αυτής της επέκτασης</a> για αποτροπή καταγραφής από το { -brand-name-facebook } (και το { -brand-name-instagram }).
 firefox-desktop-download-sync-your-devices = Συγχρονισμός των συσκευών σας
 firefox-desktop-download-screenshots = Στιγμιότυπα οθόνης
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
