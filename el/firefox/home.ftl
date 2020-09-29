@@ -9,6 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Προστατευ
 firefox-home-the-browser-is-just = Το πρόγραμμα περιήγησης είναι μόνο η αρχή
 firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια των προϊόντων μας
 firefox-home-get-trackers-off = Απομακρύνετε 2.000+ ιχνηλάτες - ακόμη και το { -brand-name-facebook }
+firefox-home-know-when-hackers-strike = Μάθετε πότε επιτίθενται οι hackers — για να είστε ένα βήμα μπροστά
 firefox-home-start-getting-breach = Έναρξη αναφορών παραβιάσεων
 firefox-home-keep-your-passwords = Προστασία κωδικών πρόσβασης σε κάθε συσκευή
 firefox-home-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }

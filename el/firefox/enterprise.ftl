@@ -5,16 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Αποκτήστε το { -brand-name-firefox } για την επιχείρησή σας με την έκδοση { -brand-name-esr } και την ταχεία έκδοση.
-firefox-enterprise-get-unmatched-data-protection = Λάβετε απαράμιλλη προστασία δεδομένων στο ρυθμό κυκλοφορίας που σας ταιριάζει με το { -brand-name-firefox } για επιχειρήσεις. Λήψη της έκδοσης { -brand-name-esr } και ταχείας κυκλοφορίας.
+firefox-enterprise-get-firefox-for-your-enterprise-with = Αποκτήστε το { -brand-name-firefox } για την επιχείρησή σας με την έκδοση { -brand-name-esr } και την έκδοση ταχείας κυκλοφορίας.
+firefox-enterprise-get-unmatched-data-protection = Λάβετε απαράμιλλη προστασία δεδομένων στο ρυθμό κυκλοφορίας που σας ταιριάζει με το { -brand-name-firefox } για επιχειρήσεις. Λήψη της έκδοσης { -brand-name-esr } και της έκδοσης ταχείας κυκλοφορίας.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Επισκόπηση
 firefox-enterprise-downloads = Λήψεις
 firefox-enterprise-get-firefox-for-your-enterprise = Λήψη του { -brand-name-firefox } για την επιχείρησή σας
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε την <a href="{ $url }">έκδοση { -brand-name-firefox-extended-support-release } ή ταχείας κυκλοφορίας</a> για ολοκληρωμένη προστασία και ασφάλεια δεδομένων.
+firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε την <a href="{ $url }">έκδοση { -brand-name-firefox-extended-support-release } ή την έκδοση ταχείας κυκλοφορίας</a> για ολοκληρωμένη προστασία και ασφάλεια δεδομένων.
 firefox-enterprise-unmatched-data-protection = Ασύγκριτη προστασία δεδομένων — με το ρυθμό εκδόσεων που σας ταιριάζει
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = Το πρόγραμμα περιήγησης { -brand-name-firefox } είναι ανοιχτού κώδικα και παρέχει Ενισχυμένη προστασία από καταγραφή — όλα αυτά είναι μέρος της μακροχρόνιας δέσμευσής μας για προστασία δεδομένων.
 firefox-enterprise-your-data-stays-your-business = Τα δεδομένα σας είναι δική σας δουλειά
 firefox-enterprise-choose-your-release-cadence = Επιλέξτε το ρυθμό νέων εκδόσεων
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
@@ -37,4 +39,4 @@ firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης P
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
-firefox-enterprise-download-firefox-esr-or-rapid = Λήψη της έκδοσης { -brand-name-firefox-esr } ή ταχείας κυκλοφορίας για<br> <a href="{ $firefox_all }">άλλη γλώσσα ή πλατφόρμα.</a>
+firefox-enterprise-download-firefox-esr-or-rapid = Λήψη της έκδοσης { -brand-name-firefox-esr } ή της έκδοσης ταχείας κυκλοφορίας για<br> <a href="{ $firefox_all }">άλλη γλώσσα ή πλατφόρμα.</a>

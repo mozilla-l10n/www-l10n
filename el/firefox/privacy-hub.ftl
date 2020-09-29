@@ -18,7 +18,9 @@ firefox-privacy-our-promise = Η υπόσχεσή μας
 # Sub navigation link
 firefox-privacy-our-products = Τα προϊόντα μας
 firefox-privacy-hub-you-should-be-able-to-decide = Μόνο εσείς θα πρέπει να αποφασίζετε ποιος βλέπει τα προσωπικά σας στοιχεία. Όχι μόνο μεταξύ των φίλων σας, αλλά και με κάθε διαφημιστή και εταιρεία στο διαδίκτυο — συμπεριλαμβανομένων και εμάς.
+firefox-privacy-hub-thats-why-everything-we-make = Γι’ αυτό όλα όσα κάνουμε τιμούν την υπόσχεσή μας για τα προσωπικά δεδομένα
 firefox-privacy-hub-take-less = Λιγότερα δεδομένα
+firefox-privacy-hub-we-make-a-point-of-knowing = Θέλουμε να γνωρίζουμε λιγότερα για εσάς
 firefox-privacy-hub-keep-it-safe = Προστασία χρήστη
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Εργαζόμαστε σκληρά για την προστασία των προσωπικών σας στοιχείων
 firefox-privacy-hub-no-secrets = Χωρίς μυστικά
