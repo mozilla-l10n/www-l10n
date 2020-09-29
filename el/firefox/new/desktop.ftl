@@ -88,7 +88,9 @@ firefox-desktop-download-change-new-tab = Αλλαγή διάταξης νέας
 firefox-desktop-download-make-firefox-your = Κάντε το <strong>{ -brand-name-firefox }</strong> δικό σας
 firefox-desktop-download-extensions-for-every = Επεκτάσεις για κάθε ενδιαφέρον
 firefox-desktop-download-change-up-your = Αλλαγή εμφάνισης
+firefox-desktop-download-go-from-light = Κάντε εναλλαγή μεταξύ φωτεινής και σκοτεινής λειτουργίας ανάλογα τη διάθεση ή την προτίμησή σας, ή ζωντανέψτε λίγο τα πράγματα με ένα προσαρμοσμένο θέμα (π.χ. μονόκερως ουράνιου τόξου).
 firefox-desktop-download-tweak-your-settings = Διαμόρφωση ρυθμίσεων
+firefox-desktop-download-theres-no-need = Μην αφήνετε τη ρουτίνα να σας επηρεάσει. Αλλάξτε τη σελίδα νέας καρτέλας, τη γραμμή αναζήτησης, τους σελιδοδείκτες και πολλά άλλα.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Με την υποστήριξη του <strong>μη</strong> κερδοσκοπικού οργανισμού που δίνει έμφαση στον άνθρωπο
 firefox-desktop-download-challenging-the-status = Αμφισβητούμε το status quo από το 1998
@@ -110,6 +112,10 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-learn-about-the = Μάθετε για το { -brand-name-firefox } για υπολογιστές παρακάτω
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Υπάρχει πάντα μια <a { $attrs }>επέκταση για κάθε ανάγκη</a>. Προσθέστε όσες χρειάζεστε μέχρι να καλύψετε όλες τις ανάγκες σας.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Καταγράψτε οτιδήποτε στο διαδίκτυο με υψηλή ανάλυση με το ενσωματωμένο εργαλείο <a { $attrs }>στιγμιότυπων οθόνης</a>.
