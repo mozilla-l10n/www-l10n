@@ -49,13 +49,18 @@ firefox-privacy-hub-invisible-to-the-top-trackers = Αόρατο στους κο
 firefox-privacy-hub-always-in-your-control = Πάντα υπό τον έλεγχό σας
 firefox-privacy-hub-want-to-customize-what = Θέλετε να αλλάξετε ποια στοιχεία αποκλείονται; Οι ρυθμίσεις σας απέχουν μόνο ένα κλικ.
 firefox-privacy-hub-protection-beyond-tracking = Προστασία πέρα από την καταγραφή
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Φραγή πάνω από { $trackers } ιχνηλατών κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Έλεγχος για παραβιάσεις
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Τα στοιχεία σύνδεσης που αποθηκεύετε στο { -brand-name-firefox-lockwise } κρυπτογραφούνται σε όλες τις συσκευές σας, οπότε ούτε εμείς μπορούμε να τα δούμε.
 firefox-privacy-hub-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Αποστολή αρχείου
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = Το { -brand-name-pocket } προτείνει υψηλής ποιότητας άρθρα χωρίς να συλλέγει το ιστορικό περιήγησής σας ή να κοινοποιεί τις προσωπικές σας πληροφορίες σε διαφημιστές.
 firefox-privacy-hub-get-pocket = Λήψη { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ο { -brand-name-firefox-account } σας
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Πάρτε το απόρρητο και τους σελιδοδείκτες σας παντού με ένα { -brand-name-firefox-account }.
