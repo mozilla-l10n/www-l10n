@@ -11,3 +11,6 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-n
 compare-ie-compare-internet-explorer-to = Συγκρίνετε το { -brand-name-ie } με το { -brand-name-firefox-browser } για να μάθετε ποιο σας ταιριάζει καλύτερα.
 # Main title
 compare-ie-comparing-firefox-browser-with = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-microsoft } { -brand-name-ie }
+# Variables:
+#   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
+compare-ie-if-you-havent-moved-on-from-using = Αν δεν έχετε ήδη σταματήσει τη χρήση του { -brand-name-ie }, ο παράγοντας "ασφάλεια" αρκεί για να σας πείσει. <a { $attrs }>Ο ίδιος ο επικεφαλής ασφαλείας της { -brand-name-microsoft } έχει προειδοποιήσει</a> εκατομμύρια χρήστες, που συνεχίζουν να χρησιμοποιούν το { -brand-name-ie } ως το κύριο πρόγραμμα περιήγησης, ότι βρίσκονται σε “κίνδυνο”.
