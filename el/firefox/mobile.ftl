@@ -22,6 +22,7 @@ firefox-mobile-stop-companies-from-following = Σταματήστε την πα�
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
 firefox-mobile-stay-off-their-radar-with = Μείνετε εκτός του "ραντάρ" με την <a href="{ $url }">προστασία από καταγραφή του { -brand-name-firefox }</a>
 firefox-mobile-discover-products-that-keep = Ανακαλύψτε προϊόντα που σας προστατεύουν
+firefox-mobile-sync-your-history-passwords = Συγχρονίστε το ιστορικό, τους κωδικούς πρόσβασης και τους σελιδοδείκτες σας. Στείλτε καρτέλες σε όλες τις συσκευές σας.
 firefox-mobile-android-only = Μόνο για { -brand-name-android }
 firefox-mobile-make-android-your-own = Κάντε το { -brand-name-android } δικό σας
 firefox-mobile-find-it-fast-with-a-smart = Γρήγορη εύρεση με μια έξυπνη γραμμή αναζήτησης
