@@ -19,7 +19,9 @@ firefox-desktop-download-download-options = Επιλογές λήψεων και
 firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
-firefox-desktop-download-how-we-compare = Τρόπος σύγκρισης με άλλα προγράμματα περιήγησης
+firefox-desktop-download-how-firefox-compares = Σύγκριση του { -brand-name-firefox } με άλλους φυλλομετρητές
+firefox-desktop-download-get-all-the-speed = Αποκτήστε την ταχύτητα και τα εργαλεία χωρίς παραβίαση του απορρήτου. Το { -brand-name-firefox-browser } συλλέγει ελάχιστα δεδομένα· δεν χρειαζόμαστε καν το email σας για λήψη. Σε αντίθεση με άλλα προγράμματα περιήγησης, δεν έχουμε κανένα οικονομικό συμφέρον από την παρακολούθηση των κινήσεών σας στον ιστό.
+firefox-desktop-download-how-we-compare = Τρόπος σύγκρισης με άλλους φυλλομετρητές
 firefox-desktop-download-compare-firefox-to = Σύγκριση του { -brand-name-firefox } με:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -34,6 +36,7 @@ firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
 # Obsolete string
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
+firefox-desktop-download-we-block-the-ad = Φραγή ιχνηλατών διαφημίσεων. Ταχύτερη εξερεύνηση του ιστού.
 firefox-desktop-download-see-your-report = Προβολή αναφοράς προστασίας
 firefox-desktop-download-for-everyone = Το { -brand-name-firefox } είναι για όλους
 firefox-desktop-download-available-in-over = Διαθέσιμο σε πάνω από 90 γλώσσες και συμβατό με συστήματα { -brand-name-windows }, { -brand-name-mac-short } και { -brand-name-linux }, το { -brand-name-firefox } λειτουργεί ό,τι και να χρησιμοποιείτε, όπου κι αν βρίσκεστε. Βεβαιωθείτε ότι το λειτουργικό σας σύστημα είναι ενημερωμένο για τη βέλτιστη εμπειρία.
