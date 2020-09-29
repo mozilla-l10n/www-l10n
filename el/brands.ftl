@@ -58,7 +58,7 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
+-brand-name-firefox-account = Λογαριασμός Firefox
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
