@@ -17,6 +17,7 @@ navigation-strap-on-your-goggles = Βάλτε τα γυαλιά σας και "�
 navigation-firefox-for-fire-tv = { -brand-name-firefox } για { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Παρακολουθήστε βίντεο και περιηγηθείτε στο διαδίκτυο από την { -brand-name-amazon } { -brand-name-fire-tv } σας.
 navigation-firefox-browsers-put = Τα προϊόντα { -brand-name-firefox } δίνουν προτεραιότητα στο απόρρητό σας — όπως πάντα.
+navigation-take-the-passwords-youve = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασης που έχετε αποθηκεύσει στο { -brand-name-firefox } από οπουδήποτε.
 # Outdated string
 navigation-firefox-is-a-whole-family = Το { -brand-name-firefox } είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σας προστατεύουν στο διαδίκτυο.
 navigation-join-firefox = Σύνδεση στο { -brand-name-firefox }
@@ -63,6 +64,7 @@ navigation-privacy = Απόρρητο
 navigation-get-unmatched-data-protection = Λάβετε ασύγκριτη προστασία δεδομένων με το ρυθμό εκδόσεων που ταιριάζει στην εταιρεία σας.
 navigation-made-with-respect = Φτιαγμένο με σεβασμό
 navigation-close-products-menu = Κλείσιμο μενού προϊόντων
+navigation-see-if-your-personal = Δείτε αν τα προσωπικά σας στοιχεία έχουν διαρρεύσει στο διαδίκτυο και εγγραφείτε για ειδοποιήσεις παραβίασης.
 navigation-check-for-breaches = Έλεγχος για παραβιάσεις
 navigation-see-breaches = Προβολή παραβιάσεων
 navigation-security-tips = Συμβουλές ασφαλείας
