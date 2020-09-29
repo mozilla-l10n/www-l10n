@@ -21,7 +21,10 @@ firefox-privacy-hub-take-less = Λιγότερα δεδομένα
 firefox-privacy-hub-keep-it-safe = Προστασία χρήστη
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Εργαζόμαστε σκληρά για την προστασία των προσωπικών σας στοιχείων
 firefox-privacy-hub-no-secrets = Χωρίς μυστικά
-firefox-privacy-hub-why-trust-firefox = Για να εμπιστευτώ το { -brand-name-firefox };
+firefox-privacy-hub-why-trust-firefox = Γιατί να εμπιστευτώ το { -brand-name-firefox };
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Επειδή προτεραιότητα έχουν οι χρήστες. Στην πραγματικότητα, μας υποστηρίζει ένας <a href="{ $foundation }">μη κερδοσκοπικός οργανισμός</a>. Από την πρώτη μέρα, ήταν η αποστολή μας να προστατεύσουμε το διαδίκτυο και όλους όσους βρίσκονται σε αυτό.
 firefox-privacy-hub-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
 firefox-privacy-hub-your-privacy-by-the-product = Το απόρρητό σας, ανά προϊόν
 firefox-privacy-hub-firefox-products-work-differently = Το προϊόντα { -brand-name-firefox } λειτουργούν διαφορεικά — επειδή έχουν σχεδιαστεί για να προστατεύουν το απόρρητό σας.

@@ -11,4 +11,7 @@ welcome-page4-wallet-keys-phone-firefox = Πορτοφόλι. Κλειδιά. Τ
 welcome-page4-get-the-firefox-mobile = Λήψη του { -brand-name-firefox } για κινητά
 welcome-page4-get-firefox-on-your-phone = Αποκτήστε το { -brand-name-firefox } στο τηλέφωνό σας
 welcome-page4-download-firefox-for-your = Λήψη του { -brand-name-firefox } για το smartphone και το tablet σας.
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+welcome-page4-enhanced-tracking-protection = Η ενισχυμένη προστασία από καταγραφή <a href="{ $privacy }">αποκλείει 2000+ ιχνηλάτες</a> στο διαδίκτυο.
 welcome-page4-why-am-i-seeing-this = Γιατί το βλέπω αυτό;

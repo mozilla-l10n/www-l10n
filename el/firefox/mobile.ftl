@@ -9,6 +9,7 @@ firefox-mobile-download-the-firefox-browser = Κάντε λήψη του { -bran
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-automatic-privacy-on-mobile = Αυτόματες ρυθμίσεις απορρήτου σε κινητά
+firefox-mobile-super-fast-private-by-default = Ταχύτατο. Ιδιωτικό από προεπιλογή. Φραγή 2000+ ιχνηλατών.
 firefox-mobile-get-firefox-mobile = Λήψη του { -brand-name-firefox } για κινητά
 firefox-mobile-block-online-trackers-and = Φραγή ιχνηλατών και παρεμβατικών διαφημίσεων
 firefox-mobile-privacy-protection-by-default = Προστασία απορρήτου από προεπιλογή
