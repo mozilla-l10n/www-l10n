@@ -21,6 +21,7 @@ navigation-take-the-passwords-youve = Αποκτήστε πρόσβαση στο
 # Outdated string
 navigation-firefox-is-a-whole-family = Το { -brand-name-firefox } είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σας προστατεύουν στο διαδίκτυο.
 navigation-join-firefox = Σύνδεση στο { -brand-name-firefox }
+navigation-access-all-of-firefox = Πρόσβαση σε όλα τα προϊόντα { -brand-name-firefox } με μία σύνδεση — αξιοποιήστε στο έπακρο κάθε προϊόν.
 navigation-meet-the-firefox-family = Γνωρίστε την οικογένεια { -brand-name-firefox }
 navigation-firefox-blog = { -brand-name-firefox } Blog
 navigation-read-about-new-firefox = Διαβάστε για τις νέες λειτουργίες του { -brand-name-firefox } και δείτε συμβουλές για περισσότερη ασφάλεια στο διαδίκτυο.

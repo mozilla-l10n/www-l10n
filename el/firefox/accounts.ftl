@@ -34,6 +34,9 @@ firefox-accounts-get-a-lookout-for = Παρακολούθηση παραβιάσ
 firefox-accounts-share-large-files = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές.
 firefox-accounts-and-get-it-all-on = Και όλα αυτά σε κάθε συσκευή, χωρίς να παγιδευτείτε σε ένα μόνο λειτουργικό σύστημα.
 firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό που σας αξίζει.
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
+firefox-accounts-youll-always-get-the = Υποσχόμαστε να σας λέμε πάντα την αλήθεια. Ό,τι κάνουμε τιμά την <a href="{ $promise }">υπόσχεση προσωπικών δεδομένων</a> μας:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Λιγότερα δεδομένα.<br> Προστασία χρήστη.<br> Χωρίς μυστικά.
 firefox-accounts-and-be-part-of-protecting = Και συμβάλλετε στην προστασία του διαδικτύου για τις μελλοντικές γενιές.
