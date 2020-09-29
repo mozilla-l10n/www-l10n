@@ -37,6 +37,7 @@ firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργ
 # Obsolete string
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-download-we-block-the-ad = Φραγή ιχνηλατών διαφημίσεων. Ταχύτερη εξερεύνηση του ιστού.
+firefox-desktop-download-ads-are-distracting = Οι διαφημίσεις αποσπούν την προσοχή σας και επιβραδύνουν τη φόρτωση των ιστοσελίδων, ενώ οι ιχνηλάτες τους καταγράφουν την κάθε σας κίνηση στο διαδίκτυο. Το { -brand-name-firefox-browser } αποκλείει αυτόματα τους περισσότερους ιχνηλάτες, επομένως δεν χρειάζεται να ψάχνετε μέσα στις ρυθμίσεις ασφαλείας σας.
 firefox-desktop-download-see-your-report = Προβολή αναφοράς προστασίας
 firefox-desktop-download-for-everyone = Το { -brand-name-firefox } είναι για όλους
 firefox-desktop-download-available-in-over = Διαθέσιμο σε πάνω από 90 γλώσσες και συμβατό με συστήματα { -brand-name-windows }, { -brand-name-mac-short } και { -brand-name-linux }, το { -brand-name-firefox } λειτουργεί ό,τι και να χρησιμοποιείτε, όπου κι αν βρίσκεστε. Βεβαιωθείτε ότι το λειτουργικό σας σύστημα είναι ενημερωμένο για τη βέλτιστη εμπειρία.
