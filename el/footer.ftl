@@ -30,8 +30,8 @@ footer-visit-mozilla-corporations = Επισκεφθείτε το μη κερδ�
 footer-portions-of-this-content = Τμήματα αυτού του περιεχομένου ανήκουν σε εθελοντές του mozilla.org ©1998–{ $current_year }. Το περιεχόμενο διατίθεται υπό την <a rel="license" href="{ $url }">άδεια { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Εταιρεία
-footer-about = Σχετικά
-footer-press-center = Γραφείο Τύπου
+footer-about = Πληροφορίες
+footer-press-center = Κέντρο τύπου
 footer-careers = Καριέρες
 footer-test-new-features = Δοκιμή νέων λειτουργιών
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
