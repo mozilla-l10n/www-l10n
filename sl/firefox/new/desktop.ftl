@@ -27,6 +27,7 @@ firefox-desktop-download-blocks-social-trackers = Zavračanje sledilcev družben
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Podpora operacijskim sistemom
 firefox-desktop-download-in-browser-screenshot = Orodje za zajemanje zaslonskih posnetkov
+# Obsolete string
 firefox-desktop-download-master-password = Glavno geslo
 firefox-desktop-download-we-block-the-ad = Mi zavračamo oglaševalske sledilce. Vi hitreje brskate po sletu.
 firefox-desktop-download-see-your-report = Oglejte si svoje poročilo o zaščiti
@@ -94,6 +95,7 @@ firefox-desktop-download-now-mac = Zdaj <strong>odprite</strong> datoteko, ki st
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Imate težave? <a { $attrs }>Poiščite pomoč pri namestitvi</a>.
 firefox-desktop-download-in-another-language = Prenesite v drugem jeziku ali za drug operacijski sistem.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -103,3 +105,9 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Uporabljate zastarel
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Prenos bi se moral začeti samodejno. Ne deluje? <a id="{ $id }" href="{ $fallback_url }">Poskusite znova začeti prenos.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je več kot le brskalnik.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Za namestitev { -brand-name-firefox }a sledite <a href="{ $url }">navodilom</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Vaš sistem morda ne izpolnjuje zahtev za { -brand-name-firefox }, lahko pa preizkusite eno izmed <a href="{ $url }">naslednjih različic</a>.

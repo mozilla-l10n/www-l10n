@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Samo prenesite brskalnik
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Uporabljate zastarel operacijski sistem, ki ni več varen in ga <a href="{ $url }">{ -brand-name-firefox } več ne podpira</a>.
@@ -54,3 +55,10 @@ firefox-new-its-privacy-and-peace-of = Je <strong>zasebnost in brezskrbnost</str
 firefox-new-its-a-family-of-products = Je <strong>družina izdelkov</strong>, ki z vašimi podatki ravna spoštljivo.
 firefox-new-its-everything-you-need-to = Je vse, kar morate vedeti o <strong>varnosti na spletu</strong>.
 firefox-new-its-a-community-that-believes = Je <strong>skupnost</strong>, ki verjame, da je tehnologija lahko še boljša.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Za namestitev { -brand-name-firefox }a sledite <a href="{ $url }">navodilom</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Vaš sistem morda ne izpolnjuje zahtev za { -brand-name-firefox }, lahko pa preizkusite eno izmed <a href="{ $url }">naslednjih različic</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
