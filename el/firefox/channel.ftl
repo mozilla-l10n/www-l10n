@@ -27,7 +27,7 @@ firefox-channel-beta-is-an-unstable-testing = Το { -brand-name-beta } είνα
 firefox-channel-firefox-beta-automatically = Το { -brand-name-firefox-beta } στέλνει αυτόματα σχόλια στη { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
-firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Στείλτε μας μία αναφορά</a> για να μας βοηθήσετε να τελειοποιήσουμε την απόδοση και την λειτουργικότητα του σταθερού περιβάλλοντος.
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Στείλτε μας σχόλια</a> για να μας βοηθήσετε να τελειοποιήσουμε τις επιδόσεις και τις λειτουργίες σε ένα σταθερό περιβάλλον.
 firefox-channel-check-out-new-android-features = Δείτε τα νέες λειτουργίες για το { -brand-name-android } στα πρωταρχικά στάδια. Δοκιμάστε με δική σας ευθύνη.
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 # Variables:

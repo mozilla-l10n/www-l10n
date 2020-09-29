@@ -35,6 +35,9 @@ firefox-enterprise-deployment-guide = Οδηγός ανάπτυξης
 firefox-enterprise-policy-documentation = Τεκμηρίωση πολιτικής
 firefox-enterprise-release-notes = Σημειώσεις έκδοσης
 firefox-enterprise-documentation-and-community = Τεκμηρίωση και υποστήριξη κοινότητας
+# Variables:
+#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = Δείγμα <a href="{ $url }">plist για προφίλ ρυθμίσεων παραμέτρων</a>
 firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:

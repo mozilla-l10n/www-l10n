@@ -43,6 +43,7 @@ firefox-desktop-download-for-everyone = Το { -brand-name-firefox } είναι 
 firefox-desktop-download-available-in-over = Διαθέσιμο σε πάνω από 90 γλώσσες και συμβατό με συστήματα { -brand-name-windows }, { -brand-name-mac-short } και { -brand-name-linux }, το { -brand-name-firefox } λειτουργεί ό,τι και να χρησιμοποιείτε, όπου κι αν βρίσκεστε. Βεβαιωθείτε ότι το λειτουργικό σας σύστημα είναι ενημερωμένο για τη βέλτιστη εμπειρία.
 firefox-desktop-download-review-system-req = Έλεγχος απαιτήσεων συστήματος
 firefox-desktop-download-all-your-devices = Το { -brand-name-firefox } σε όλες τις συσκευές σας
+firefox-desktop-download-take-your-privacy = Προστασία απορρήτου σε κάθε συσκευή σας. Τα { -brand-name-firefox-browsers } για { -brand-name-ios } και { -brand-name-android } έχουν τις ίδιες ισχυρές ρυθμίσεις απορρήτου για αποτροπή παρακολούθησης ιχνηλατών, όπου κι αν βρίσκεστε.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Κάντε τα <strong>όλα</strong> με το { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Εξυπνότερη, ταχύτερη αναζήτηση
