@@ -10,6 +10,8 @@ compare-index-seven-of-the-best-browsers-in = Οι επτά καλύτεροι �
 compare-index-six-of-the-best-browsers-fallback = Τα έξι καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
 # Sub-headline
 compare-index-privacy-utility-portability = Απόρρητο. Χρησιμότητα. Φορητότητα.
+# HTML page description
+compare-index-a-great-internet-browser-should = Ένας φυλλομετρητής πρέπει να έχει τις λειτουργίες που χρειάζεστε, τη φορητότητα μεταξύ συσκευών και το απόρρητο που σας αξίζει.
 compare-index-which-browser-is-best-at-keeping = Ποιο πρόγραμμα περιήγησης προστατεύει περισσότερο τα δεδομένα σας;
 compare-index-what-has-your-browser-done = Τι έχει κάνει για εσάς το πρόγραμμα περιήγησής σας;
 compare-index-how-well-does-your-browser = Πόσο καλά λειτουργεί το πρόγραμμα περιήγησής σας στις συσκευές σας;
