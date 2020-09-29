@@ -9,6 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Προστατευ
 firefox-home-the-browser-is-just = Το πρόγραμμα περιήγησης είναι μόνο η αρχή
 firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια των προϊόντων μας
 firefox-home-get-trackers-off = Απομακρύνετε 2.000+ ιχνηλάτες - ακόμη και το { -brand-name-facebook }
+firefox-home-keep-your-passwords = Προστασία κωδικών πρόσβασης σε κάθε συσκευή
 firefox-home-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Αποκτήστε το <strong>σεβασμό</strong> που σας αξίζει
@@ -24,7 +25,7 @@ firefox-home-learn-more-about-joining = Μάθετε περισσότερα σχ
 firefox-home-get-the-browser-extension = Λήψη επέκτασης προγράμματος περιήγησης
 firefox-home-get-the-facebook-container = Λήψη επέκτασης { -brand-name-facebook-container }
 firefox-home-download-the-browser = Λήψη προγράμματος περιήγησης
-firefox-home-download-the-app = Λήψη της εφαρμογής
+firefox-home-download-the-app = Λήψη εφαρμογής
 firefox-home-desktop = Υπολογιστές
 firefox-home-browsers = Προγράμματα περιήγησης
 firefox-home-android = { -brand-name-android }
