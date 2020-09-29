@@ -7,6 +7,7 @@ navigation-get-a-firefox-account = Αποκτήστε ένα { -brand-name-firef
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } για υπολογιστές
 navigation-get-the-browser-that-respects = Αποκτήστε το πρόγραμμα περιήγησης που σέβεται το απόρρητό σας εξαρχής. Σε { -brand-name-windows }, { -brand-name-mac } ή { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } για κινητές συσκευές
+navigation-take-speed-privacy-and = Ταχύτητα, απόρρητο και ξέγνοιαστη περιήγηση. Σε { -brand-name-android } και { -brand-name-ios }.
 navigation-download-for-ios = Λήψη για { -brand-name-ios }
 navigation-download-for-android = Λήψη για { -brand-name-android }
 navigation-ios-support = Υποστήριξη { -brand-name-ios }

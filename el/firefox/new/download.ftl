@@ -52,7 +52,7 @@ firefox-new-youre-using-an-insecure-outdated = Χρησιμοποιείτε έν
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-firefox-new-should-begin = Η λήψη θα ξεκινήσει αυτόματα. Δεν άρχισε; <a id="{ $id }" href="{ $fallback_url }">Νέα δοκιμή λήψης</a>.
+firefox-new-your-firefox-new-should-begin = Η λήψη θα ξεκινήσει αυτόματα. Δεν άρχισε; <a id="{ $id }" href="{ $fallback_url }">Νέα δοκιμή λήψης.</a>
 firefox-new-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είναι κάτι περισσότερο από ένα πρόγραμμα περιήγησης.
 firefox-new-its-privacy-and-peace-of = Είναι η <strong>σιγουριά για το απόρρητό σας</strong> και σε κινητές συσκευές.
 firefox-new-its-a-family-of-products = Είναι μια <strong>οικογένεια προϊόντων</strong> που χειρίζεται τα προσωπικά σας δεδομένα με σεβασμό.
