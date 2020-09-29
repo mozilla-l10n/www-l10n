@@ -36,6 +36,7 @@ firefox-accounts-and-get-it-all-on = Και όλα αυτά σε κάθε συσ
 firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό που σας αξίζει.
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Λιγότερα δεδομένα.<br> Προστασία χρήστη.<br> Χωρίς μυστικά.
+firefox-accounts-and-be-part-of-protecting = Και συμβάλλετε στην προστασία του διαδικτύου για τις μελλοντικές γενιές.
 firefox-accounts-help-us-build-a-better = Βοηθήστε μας να βελτιώσουμε το { -brand-name-firefox } για όλους.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

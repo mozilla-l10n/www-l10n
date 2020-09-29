@@ -13,7 +13,14 @@ firefox-mobile-super-fast-private-by-default = Ταχύτατο. Ιδιωτικ�
 firefox-mobile-get-firefox-mobile = Λήψη του { -brand-name-firefox } για κινητά
 firefox-mobile-block-online-trackers-and = Φραγή ιχνηλατών και παρεμβατικών διαφημίσεων
 firefox-mobile-privacy-protection-by-default = Προστασία απορρήτου από προεπιλογή
+# Variables:
+#   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
+firefox-mobile-leave-no-trace-with-private = Η <a href="{ $url }">λειτουργία ιδιωτικής περιήγησης</a> δεν αφήνει ίχνη. Όταν την κλείνετε, το ιστορικό και τα cookies σας διαγράφονται.
 firefox-mobile-stop-companies-from-following = Σταματήστε την παρακολούθηση από εταιρείες
+# "Tracking Protection" is a feature name; it should be capitalized
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+firefox-mobile-stay-off-their-radar-with = Μείνετε εκτός του "ραντάρ" με την <a href="{ $url }">προστασία από καταγραφή του { -brand-name-firefox }</a>
 firefox-mobile-discover-products-that-keep = Ανακαλύψτε προϊόντα που σας προστατεύουν
 firefox-mobile-android-only = Μόνο για { -brand-name-android }
 firefox-mobile-make-android-your-own = Κάντε το { -brand-name-android } δικό σας
