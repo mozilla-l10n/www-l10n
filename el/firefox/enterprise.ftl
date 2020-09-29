@@ -10,10 +10,10 @@ firefox-enterprise-get-unmatched-data-protection = Λάβετε απαράμιλ
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Επισκόπηση
 firefox-enterprise-downloads = Λήψεις
-firefox-enterprise-get-firefox-for-your-enterprise = Λήψη του { -brand-name-firefox } για την επιχείρησή σας
+firefox-enterprise-get-firefox-for-your-enterprise = Λήψη του { -brand-name-firefox } για επιχειρήσεις
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε την <a href="{ $url }">έκδοση { -brand-name-firefox-extended-support-release } ή την έκδοση ταχείας κυκλοφορίας</a> για ολοκληρωμένη προστασία και ασφάλεια δεδομένων.
+firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε το <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ή την έκδοση ταχείας κυκλοφορίας</a> για πλήρη προστασία και ασφάλεια δεδομένων.
 firefox-enterprise-unmatched-data-protection = Ασύγκριτη προστασία δεδομένων — με το ρυθμό εκδόσεων που σας ταιριάζει
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Το πρόγραμμα περιήγησης { -brand-name-firefox } είναι ανοιχτού κώδικα και παρέχει Ενισχυμένη προστασία από καταγραφή — όλα αυτά είναι μέρος της μακροχρόνιας δέσμευσής μας για προστασία δεδομένων.

@@ -55,6 +55,7 @@ firefox-privacy-hub-protection-beyond-tracking = Προστασία πέρα α�
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Φραγή πάνω από { $trackers } ιχνηλατών κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Όταν εισάγετε τη διεύθυνση email σας στο { -brand-name-firefox-monitor }, τη διαγράφουμε αμέσως μόλις την ελέγξουμε για αντιστοιχία σε γνωστές παραβιάσεις δεδομένων — εκτός αν μας εξουσιοδοτήσετε να συνεχίσουμε την εποπτεία νέων διαρροών προσωπικών δεδομένων.
 firefox-privacy-hub-check-for-breaches = Έλεγχος για παραβιάσεις
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Τα στοιχεία σύνδεσης που αποθηκεύετε στο { -brand-name-firefox-lockwise } κρυπτογραφούνται σε όλες τις συσκευές σας, οπότε ούτε εμείς μπορούμε να τα δούμε.
@@ -65,6 +66,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = Το { -brand-name-pocket } προτείνει υψηλής ποιότητας άρθρα χωρίς να συλλέγει το ιστορικό περιήγησής σας ή να κοινοποιεί τις προσωπικές σας πληροφορίες σε διαφημιστές.
 firefox-privacy-hub-get-pocket = Λήψη { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ο { -brand-name-firefox-account } σας
+firefox-privacy-hub-all-the-information-synced = Όλες οι πληροφορίες σας συγχρονίζονται μέσω του { -brand-name-firefox-account } — από ιστορικό μέχρι κωδικούς πρόσβασης — είναι κρυπτογραφημένες. Και ο κωδικός πρόσβασης του λογαριασμού σας είναι το μόνο κλειδί.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Πάρτε το απόρρητο και τους σελιδοδείκτες σας παντού με ένα { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
