@@ -10,8 +10,10 @@ compare-shared-yes = Ναι
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Όχι
 compare-shared-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
+compare-shared-blocks-third-party-tracking-default = Φραγή cookies καταγραφής τρίτων από προεπιλογή
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Φραγή cookies καταγραφής τρίτων
-compare-shared-blocks-cryptomining-scripts = Αποκλείει σενάρια εξόρυξης κρυπτονομισμάτων
+compare-shared-blocks-cryptomining-scripts = Φραγή σεναρίων εξόρυξης κρυπτονομισμάτων
 compare-shared-blocks-social-trackers = Φραγή κοινωνικών ιχνηλατών
 compare-shared-autoplay-blocking = Φραγή αυτόματης αναπαραγωγής
 compare-shared-tab-browsing = Περιήγηση με καρτέλες
@@ -27,6 +29,8 @@ compare-shared-os-availability = Διαθεσιμότητα ΛΣ
 compare-shared-mobile-os-availability = Διαθεσιμότητα ΛΣ κινητών
 compare-shared-syncs-with-mobile = Συγχρονισμός με κινητές συσκευές
 compare-shared-password-management = Διαχείριση κωδικών πρόσβασης
+compare-shared-primary-password = Κύριος κωδικός πρόσβασης
+# Obsolete string
 compare-shared-master-password = Κύριος κωδικός πρόσβασης
 compare-shared-security-and-privacy = Ασφάλεια και απόρρητο
 compare-shared-utility = Χρησιμότητα
