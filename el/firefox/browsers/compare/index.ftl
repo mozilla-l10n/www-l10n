@@ -10,6 +10,7 @@ compare-index-seven-of-the-best-browsers-in = Τα επτά καλύτερα π�
 compare-index-six-of-the-best-browsers-fallback = Τα έξι καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
 # Sub-headline
 compare-index-privacy-utility-portability = Απόρρητο. Χρησιμότητα. Φορητότητα.
+compare-index-what-has-your-browser-done = Τι έχει κάνει για εσάς το πρόγραμμα περιήγησής σας;
 compare-index-how-well-does-your-browser = Πόσο καλά λειτουργεί το πρόγραμμα περιήγησής σας στις συσκευές σας;
 compare-index-conclusion = Συμπέρασμα:
 compare-index-and-the-winner-is = Και ο νικητής είναι…

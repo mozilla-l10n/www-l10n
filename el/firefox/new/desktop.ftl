@@ -65,6 +65,7 @@ firefox-desktop-download-third-party-cookie = Φραγή cookies τρίτων
 firefox-desktop-download-fingerprinter-blocking = Φραγή fingerprinters
 firefox-desktop-download-cryptominer-blocking = Φραγή cryptominers
 firefox-desktop-download-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
+firefox-desktop-download-individual-protections-report = Εξατομικευμένη αναφορά προστασίας
 firefox-desktop-download-secure-your-personal = Προστασία προσωπικών δεδομένων
 firefox-desktop-download-breached-website-alerts = Ειδοποιήσεις παραβιάσεων ιστοσελίδων
 firefox-desktop-download-built-in-password = Ενσωματωμένη διαχείριση κωδικών πρόσβασης
@@ -81,6 +82,7 @@ firefox-desktop-download-make-firefox-your = Κάντε το <strong>{ -brand-na
 firefox-desktop-download-extensions-for-every = Επεκτάσεις για κάθε ενδιαφέρον
 firefox-desktop-download-change-up-your = Αλλαγή εμφάνισης
 firefox-desktop-download-tweak-your-settings = Διαμόρφωση ρυθμίσεων
+firefox-desktop-download-challenging-the-status = Αμφισβητούμε το status quo από το 1998
 firefox-desktop-download-your-privacy-comes = Το απόρρητό σας έχει προτεραιότητα
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Όλα τα αγαπημένα σας εργαλεία { -brand-name-google } (όπως Gmail και Έγγραφα) λειτουργούν απρόσκοπτα στο { -brand-name-firefox-browser }.
@@ -92,6 +94,7 @@ firefox-desktop-download-sync-your-devices = Συγχρονισμός των σ�
 firefox-desktop-download-screenshots = Στιγμιότυπα οθόνης
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή (ΕΠΚ)
+firefox-desktop-download-from-watching-a = Από οδηγούς εκμάθησης μέχρι τον αγώνα της αγαπημένης σας ομάδας, τα βίντεο σας ακολουθούν στις πολλαπλές σας εργασίες.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-ios }</strong>
