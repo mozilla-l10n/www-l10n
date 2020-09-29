@@ -28,13 +28,14 @@ navigation-read-about-new-firefox = Διαβάστε για τις νέες λε
 navigation-the-non-profit-behind = Η μη κερδοσκοπική οργάνωση πίσω από το { -brand-name-firefox } αγωνίζεται για ένα υγιές Διαδίκτυο για όλους.
 navigation-learn-how-firefox-treats = Μάθετε πώς το { -brand-name-firefox } χειρίζεται τα δεδομένα σας με σεβασμό.
 navigation-mozilla-careers = Καριέρες { -brand-name-mozilla }
+navigation-approach-your-career = Βρείτε μια θέση εργασίας με αίσθηση του σκοπού. Εργαστείτε στη { -brand-name-mozilla }.
 navigation-close-firefox-menu = Κλείσιμο μενού { -brand-name-firefox }
 navigation-get-the-browser-that-gives = Αποκτήστε το πρόγραμμα περιήγησης σάς δίνει περισσότερη ισχύ σε { -brand-name-windows }, { -brand-name-mac } ή { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Πάρτε το { -brand-name-firefox } και το { -brand-name-firefox-focus } μαζί σας. Για { -brand-name-android } και { -brand-name-ios }.
 navigation-get-firefox = Λήψη του { -brand-name-firefox }
 navigation-get-firefox-focus = Λήψη του { -brand-name-firefox-focus }
 navigation-android-extensions = Επεκτάσεις { -brand-name-android }
-navigation-your-firefox-account = Ο { -brand-name-firefox-account } σας
+navigation-your-firefox-account = { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Αξιοποιήστε πλήρως το { -brand-name-firefox }, σε κάθε συσκευή σας.
 # Outdated string
 navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσετε τον τρόπο λειτουργίας του { -brand-name-firefox }.
