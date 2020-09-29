@@ -7,6 +7,8 @@
 
 # Hero title
 features-index-firefox-features = Χαρακτηριστικά { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = Το { -brand-name-firefox } είναι ένα γρήγορο, ελαφρύ και ιδιωτικό πρόγραμμα περιήγησης για όλες τις συσκευές σας.
 features-index-add-powerful-functions = Προσθέστε ισχυρά χαρακτηριστικά, χρήσιμες λειτουργίες, ακόμη και λίγη διασκέδαση στο { -brand-name-firefox }.
 features-index-see-all = Προβολή όλων των επεκτάσεων
 features-index-give-your-browser = Δώστε στο πρόγραμμα περιήγησής σας την εμφάνιση που θέλετε με χιλιάδες διαφορετικά θέματα.
