@@ -103,7 +103,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >Κάντε λήψη αυτής της επέκτασης</a> για αποτροπή καταγραφής από το { -brand-name-facebook } (και το { -brand-name-instagram }).
-firefox-desktop-download-sync-your-devices = Συγχρονισμός των συσκευών σας
+firefox-desktop-download-sync-your-devices = Συγχρονισμός συσκευών
 firefox-desktop-download-screenshots = Στιγμιότυπα οθόνης
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή (ΕΠΚ)
