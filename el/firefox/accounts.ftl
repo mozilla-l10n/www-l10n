@@ -39,6 +39,7 @@ firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό π
 firefox-accounts-youll-always-get-the = Υποσχόμαστε να σας λέμε πάντα την αλήθεια. Ό,τι κάνουμε τιμά την <a href="{ $promise }">υπόσχεση προσωπικών δεδομένων</a> μας:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Λιγότερα δεδομένα.<br> Προστασία χρήστη.<br> Χωρίς μυστικά.
+firefox-accounts-get-the-knowledge = Αποκτήστε τη γνώση για να μείνετε ασφαλείς.
 firefox-accounts-and-be-part-of-protecting = Και συμβάλλετε στην προστασία του διαδικτύου για τις μελλοντικές γενιές.
 firefox-accounts-help-us-build-a-better = Βοηθήστε μας να βελτιώσουμε το { -brand-name-firefox } για όλους.
 

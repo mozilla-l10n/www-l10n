@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
+features-adblocker-popup-ads-are-the-worst = Οι αναδυόμενες διαφημίσεις είναι οι χειρότερες. Αποκλείστε τα με το <a href="{ $url }">Popup Blocker</a> και δεν θα δείτε ποτέ ξανά κανένα άλλο ενοχλητικό αναδυόμενο παράθυρο.
 features-adblocker-choose-your-level-of-protection = Επιλέξτε το επίπεδο προστασίας σας
