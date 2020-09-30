@@ -40,11 +40,16 @@ firefox-accounts-youll-always-get-the = Υποσχόμαστε να σας λέ�
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Λιγότερα δεδομένα.<br> Προστασία χρήστη.<br> Χωρίς μυστικά.
 firefox-accounts-get-the-knowledge = Αποκτήστε τη γνώση για να μείνετε ασφαλείς.
+firefox-accounts-learn-everything-you = Μάθετε όλα όσα δεν (αλλά πρέπει να) γνωρίζετε για την ασφάλεια στο διαδίκτυο, από μερικούς από τους σημαντικότερους ειδικούς στον κόσμο.
 firefox-accounts-and-be-part-of-protecting = Και συμβάλλετε στην προστασία του διαδικτύου για τις μελλοντικές γενιές.
 firefox-accounts-help-us-build-a-better = Βοηθήστε μας να βελτιώσουμε το { -brand-name-firefox } για όλους.
+firefox-accounts-get-into-the-open = Μπείτε στο πνεύμα του ανοιχτού κώδικα, δοκιμάζοντας τα επερχόμενα προϊόντα.
+# "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
+firefox-accounts-help-us-keep-big-tech = Βοηθήστε μας στον έλεγχο των μεγάλων εταιρειών τεχνολογίας.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
+firefox-accounts-we-support-communities = Υποστηρίζουμε κοινότητες σε όλο τον κόσμο που αγωνίζονται για ένα υγιέστερο διαδίκτυο. Κάντε τη φωνή σας να ακουστεί.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
