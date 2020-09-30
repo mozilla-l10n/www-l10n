@@ -22,6 +22,8 @@ firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-
 firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-name-firefox }
 firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגיל - מהיר ופרטי. אם הינך בהתלבטות באיזה { -brand-name-firefox } לבחור, מומלץ לבחור בזה.
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
+firefox-all-arm64-installers = מתקיני ARM64/AArch64
+firefox-all-arm64-installers-optimized = מתקיני ARM64/AArch64 מתאימים למחשבי { -brand-name-windows } עם ליבת Snapdragon.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
