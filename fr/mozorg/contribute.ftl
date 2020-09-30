@@ -13,9 +13,11 @@
 
 contribute-tag-technical = Technique
 contribute-tag-support = Assistance
+contribute-task-translate-heading = Traduire du contenu
 
 ## Mission
 
+contribute-donate = Faire un don
 
 ## Made by
 
@@ -28,3 +30,4 @@ contribute-tag-support = Assistance
 
 ## Web compat
 
+contribute-report-issue = Signaler un problème
