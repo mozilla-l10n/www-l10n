@@ -14,6 +14,7 @@ features-index-see-all = Προβολή όλων των επεκτάσεων
 features-index-give-your-browser = Δώστε στο πρόγραμμα περιήγησής σας την εμφάνιση που θέλετε με χιλιάδες διαφορετικά θέματα.
 features-index-important-stuff = Όλα τα σημαντικά δεδομένα σας — αναζητήσεις, κωδικοί πρόσβασης, ανοικτές καρτέλες — θα είναι διαθέσιμα σε κάθε σας συσκευή.
 features-index-get-an-account = Απόκτηση { -brand-name-firefox-account }
+features-index-use-the-bookmark = Οργάνωση σελιδοδεικτών, προσθήκη προσαρμοσμένων ονομάτων και φακέλων με το κουμπί σελιδοδεικτών (εικονίδιο-αστέρι).
 features-index-from-the-company = Από μια εταιρεία που βάζει τους ανθρώπους πριν από το κέρδος
 features-index-private-browsing-mode = Η λειτουργία ιδιωτικής περιήγησης διαγράφει τα δεδομένα cookie και το ιστορικό περιήγησής σας κάθε φορά που την κλείνετε.
 features-index-firefox-automatically = Το { -brand-name-firefox } αποκλείει αυτόματα 2000+ ιχνηλάτες διαφημίσεων σε όλο το διαδίκτυο.
