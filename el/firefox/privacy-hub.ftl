@@ -21,6 +21,7 @@ firefox-privacy-hub-you-should-be-able-to-decide = Μόνο εσείς θα πρ
 firefox-privacy-hub-thats-why-everything-we-make = Γι’ αυτό όλα όσα κάνουμε τιμούν την υπόσχεσή μας για τα προσωπικά δεδομένα
 firefox-privacy-hub-take-less = Λιγότερα δεδομένα
 firefox-privacy-hub-we-make-a-point-of-knowing = Θέλουμε να γνωρίζουμε λιγότερα για εσάς
+firefox-privacy-hub-all-tech-companies-collect = Όλες οι εταιρείες τεχνολογίας συλλέγουν δεδομένα για τη βελτίωση των προϊόντων τους. Αλλά δεν χρειάζεται να περιλαμβάνουν τόσες προσωπικές πληροφορίες. Τα μόνα δεδομένα που θέλουμε είναι αυτά που σας εξυπηρετούν στο τέλος. Αναρωτιόμαστε: τα χρειαζόμαστε πραγματικά; Πού χρησιμεύουν; Και πότε μπορούμε να τα διαγράψουμε;
 firefox-privacy-hub-keep-it-safe = Προστασία χρήστη
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Εργαζόμαστε σκληρά για την προστασία των προσωπικών σας στοιχείων
 firefox-privacy-hub-no-secrets = Χωρίς μυστικά
