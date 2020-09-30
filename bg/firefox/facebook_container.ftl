@@ -5,12 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = Ограничител на { -brand-name-facebook } във { -brand-name-firefox } | Спрете следенето на { -brand-name-facebook } кои сайтове посещавате.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } за { -brand-name-firefox } | Спрете следенето на { -brand-name-facebook } за това кои сайтове посещавате.
 facebook-container-millions-of-people-around = Милиони хора по света вярват на { -brand-name-firefox } – четец за { -brand-name-android }, { -brand-name-ios } и настолни компютри. Бърз. Поверителен. Изтегли го сега!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Наистина ограничен и без достъп до живота ти извън него.
-facebook-container-get-the-facebook-container = Вземи разширението Ограничител за Facebook
-facebook-container-download-firefox-and-get-the = Изтегли { -brand-name-firefox } и вземи разширението Ограничител за Facebook
+facebook-container-get-the-facebook-container = Вземи разширението { -brand-name-facebook-container }
+facebook-container-download-firefox-and-get-the = Изтеглете { -brand-name-firefox } и вземете разширението { -brand-name-facebook-container }
+# Outdated string
 facebook-container-the-facebook-container-extension = Разширението Ограничител за Facebook не е налично за мобилни устройства.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Опитай <strong>{ -brand-name-firefox-focus }</strong>, поверителният четец за { -brand-name-android } и { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Откажете се по вашите условия
