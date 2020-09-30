@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Υπάρχει τρόπος να προστατέψετε το απόρρητό σας. Συνδεθείτε στο { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Αποκτήστε ένα { -brand-name-firefox-account } – Προστασία και συγχρονισμός δεδομένων
+firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account } – Προστασία και συγχρονισμός δεδομένων
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Αντισταθείτε σε μια βιομηχανία που πουλά τα δεδομένα σας σε τρίτους. Παραμείνετε ασφαλείς στο διαδίκτυο με την τεχνολογία που μάχεται για εσάς.
 # Old HTML page description

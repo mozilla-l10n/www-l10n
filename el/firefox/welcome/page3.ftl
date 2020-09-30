@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
 welcome-page3-no-account-required-but-you = Δεν απαιτείται λογαριασμός. Αλλά ίσως χρειαστείτε έναν.
+welcome-page3-the-firefox-browser-collects = Το πρόγραμμα περιήγησης { -brand-name-firefox } συλλέγει τόσο λίγα δεδομένα για εσάς, που δεν απαιτείται καν το email σας. Αλλά όταν το χρησιμοποιείτε για τη δημιουργία ενός { -brand-name-firefox-account }, μπορούμε να προστατεύσουμε το απόρρητό σας στο διαδίκτυο.
 welcome-page3-sign-in = Σύνδεση
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }

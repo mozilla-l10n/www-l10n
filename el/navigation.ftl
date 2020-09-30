@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Λήψη του { -brand-name-firefox }
-navigation-get-a-firefox-account = Αποκτήστε ένα { -brand-name-firefox-account }
+navigation-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } για υπολογιστές
 navigation-get-the-browser-that-respects = Αποκτήστε το πρόγραμμα περιήγησης που σέβεται το απόρρητό σας εξαρχής. Σε { -brand-name-windows }, { -brand-name-mac } ή { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } για κινητές συσκευές
@@ -35,7 +35,7 @@ navigation-take-firefox-and-firefox = Πάρτε το { -brand-name-firefox } κ
 navigation-get-firefox = Λήψη του { -brand-name-firefox }
 navigation-get-firefox-focus = Λήψη του { -brand-name-firefox-focus }
 navigation-android-extensions = Επεκτάσεις { -brand-name-android }
-navigation-your-firefox-account = { -brand-name-firefox-account }
+navigation-your-firefox-account = Ο { -brand-name-firefox-account } σας
 navigation-make-the-most-of-your = Αξιοποιήστε πλήρως το { -brand-name-firefox }, σε κάθε συσκευή σας.
 # Outdated string
 navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσετε τον τρόπο λειτουργίας του { -brand-name-firefox }.

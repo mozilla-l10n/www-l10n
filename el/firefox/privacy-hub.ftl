@@ -24,6 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Θέλουμε να γνωρί�
 firefox-privacy-hub-all-tech-companies-collect = Όλες οι εταιρείες τεχνολογίας συλλέγουν δεδομένα για τη βελτίωση των προϊόντων τους. Αλλά δεν χρειάζεται να περιλαμβάνουν τόσες προσωπικές πληροφορίες. Τα μόνα δεδομένα που θέλουμε είναι αυτά που σας εξυπηρετούν στο τέλος. Αναρωτιόμαστε: τα χρειαζόμαστε πραγματικά; Πού χρησιμεύουν; Και πότε μπορούμε να τα διαγράψουμε;
 firefox-privacy-hub-keep-it-safe = Προστασία χρήστη
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Εργαζόμαστε σκληρά για την προστασία των προσωπικών σας στοιχείων
+firefox-privacy-hub-data-security-is-complicated = Η ασφάλεια δεδομένων είναι περίπλοκη — ή τουλάχιστον θα έπρεπε να είναι. Για το λόγο αυτό, παίρνουμε επιπλέον μέτρα για την ταξινόμηση των δεδομένων, διατηρούμε κανόνες αποθήκευσης και προστασίας για κάθε τύπο και δεν σταματάμε ποτέ να επαναλάβουμε τις διεργασίες μας. Το απόρρητό σας έχει προτεραιότητα. Εμείς επενδύουμε σε αυτό. Έχουμε δεσμευτεί να το υπερασπιζόμαστε. Διδάσκουμε ακόμη και σε άλλες εταιρείες πώς να το κάνουν.
 firefox-privacy-hub-no-secrets = Χωρίς μυστικά
 firefox-privacy-hub-youll-always-know-where-you = Θα ξέρετε πάντα τη θέση μας
 # Variables:
@@ -43,15 +44,19 @@ firefox-privacy-hub-firefox-protects-your-privacy = Το { -brand-name-firefox }
 firefox-privacy-hub-firefox-protects-your-privacy-strong = Το { -brand-name-firefox } <strong>προστατεύει</strong> το απόρρητό σας σε κάθε προϊόν.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000+ αποκλεισμένοι ιχνηλάτες — αυτόματα
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Η καταγραφή έχει γίνει μια διαδικτυακή επιδημία: οι εταιρείες παρακολουθούν κάθε κίνηση, κλικ και αγορά, συλλέγοντας δεδομένα για να προβλέψουν και να επηρεάσουν τι θα κάνετε στη συνέχεια. Πιστεύουμε ότι είναι μια χυδαία παραβίαση του απορρήτου σας. Αυτός είναι ο λόγος που τα προγράμματα περιήγησης { -brand-name-firefox } για υπολογιστές κινητές συσκευές έχουν ενεργοποιημένη την Ενισχυμένη προστασία από καταγραφή από προεπιλογή.
 firefox-privacy-hub-see-what-firefox-has-blocked = Δείτε τι έχει αποκλείσει το { -brand-name-firefox } για εσάς
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Λάβετε ενισχυμένη προστασία από καταγραφή
 firefox-privacy-hub-download-the-firefox-browser = Λήψη του προγράμματος περιήγησης { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Ενημέρωση του { -brand-name-firefox } σας
 firefox-privacy-hub-invisible-to-the-top-trackers = Αόρατο στους κορυφαίους ιχνηλάτες
+firefox-privacy-hub-meet-four-of-the-most-common = Γνωρίστε τις τέσσερις πιο κοινές κατηγορίες ιχνηλατών — αν και δεν θα σας δουν.
 firefox-privacy-hub-always-in-your-control = Πάντα υπό τον έλεγχό σας
 firefox-privacy-hub-want-to-customize-what = Θέλετε να αλλάξετε ποια στοιχεία αποκλείονται; Οι ρυθμίσεις σας απέχουν μόνο ένα κλικ.
 firefox-privacy-hub-protection-beyond-tracking = Προστασία πέρα από την καταγραφή
+firefox-privacy-hub-if-you-have-a-firefox-account = Αν έχετε { -brand-name-firefox-account }, μπορείτε να δείτε πώς σας βοηθούμε στην προστασία των προσωπικών δεδομένων και τους κωδικών πρόσβασής σας.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Φραγή πάνω από { $trackers } ιχνηλατών κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
