@@ -12,6 +12,11 @@ compare-brave-comparing-firefox-browser = Σύγκριση του { -brand-name-
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Από την άλλη, με το { -brand-name-firefox }, προτιμούμε να διατηρούμε τα πράγματα απλά. Το { -brand-name-firefox } αποκλείει τους ιχνηλάτες τρίτων, τα cryptominers και τα fingerprinters, από προεπιλογή. Ωστόσο, το { -brand-name-firefox }, εκτός της λειτουργίας ιδιωτικής περιήγησης, επιλέγει να μην εμποδίζει την εμφάνιση διαφημίσεων, εκτός αν εγκαταστήσετε <a { $attrs }>κάποια από τις επεκτάσεις που έχουν σχεδιαστεί ειδικά για το σκοπό αυτό</a>.
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives = Το πρόγραμμα περιήγησης { -brand-name-firefox } επιτρέπει στους χρήστες να δημιουργήσουν ένα δωρεάν <a { $accounts }>{ -brand-name-firefox-account }</a>. Ο λογαριασμός { -brand-name-firefox } είναι το κλειδί για το συγχρονισμό σε όλες τις συσκευές σας, ενώ παρέχει και το <a { $monitor }>{ -brand-name-firefox-monitor }</a>, που εποπτεύει τις διευθύνσεις email σας και σας ειδοποιεί αν διαρρεύσουν οι πληροφορίες σας σε γνωστές <a { $breaches }>παραβιάσεις δεδομένων</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Επίσης, το { -brand-name-brave } απέκτησε πρόσφατα τη δυνατότητα συγχρονισμού δεδομένων μεταξύ των πιο δημοφιλών λειτουργικών συστημάτων και συσκευών, καθώς και με την πρόσθετη δυνατότητα συγχρονισμού των Basic Attention Tokens σας.
 compare-brave-when-comparing-the-two-browsers = Συγκρίνοντας τα δύο προγράμματα περιήγησης, τόσο το { -brand-name-firefox } όσο και το { -brand-name-brave } προσφέρουν προηγμένη ιδιωτικότητα και ασφάλεια από προεπιλογή, από την πρώτη φορά που τα ανοίγετε.
