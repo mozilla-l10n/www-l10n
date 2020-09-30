@@ -117,6 +117,15 @@ firefox-desktop-download-learn-about-the = Μάθετε για το { -brand-nam
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Υπάρχει πάντα μια <a { $attrs }>επέκταση για κάθε ανάγκη</a>. Προσθέστε όσες χρειάζεστε μέχρι να καλύψετε όλες τις ανάγκες σας.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = Το { -brand-name-firefox } δημιουργήθηκε από τη <a { $attrs }>{ -brand-name-mozilla }</a> ως μια ταχύτερη, πιο ιδιωτική εναλλακτική λύση για το { -brand-name-ie }, και πλέον για το { -brand-name-chrome }. Σήμερα, η εταιρεία μας και η κοινότητα των εθελοντών μας συνεχίζουν να θέτουν το απόρρητό σας πάνω απ' όλα.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Όσο το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας στο απόρρητο — όπως αναφέρει η <a { $attrs }>Υπόσχεση προσωπικών δεδομένων</a>: Λιγότερα δεδομένα. Προστασία χρήστη. Χωρίς μυστικά. Τα δεδομένα και η διαδικτυακή σας ζωή προστατεύονται με το { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = Το { -brand-name-firefox } διατίθεται σε όλες τις συσκευές σας· πάρτε μαζί σας τις καρτέλες, το ιστορικό και τους σελιδοδείκτες σας. Χρειάζεστε μόνο ένα <a { $attrs }>λογαριασμό { -brand-name-firefox }</a>.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Καταγράψτε οτιδήποτε στο διαδίκτυο με υψηλή ανάλυση με το ενσωματωμένο εργαλείο <a { $attrs }>στιγμιότυπων οθόνης</a>.
 # Variables:

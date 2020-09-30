@@ -70,6 +70,7 @@ navigation-see-if-your-personal = Δείτε αν τα προσωπικά σας
 navigation-check-for-breaches = Έλεγχος για παραβιάσεις
 navigation-see-breaches = Προβολή παραβιάσεων
 navigation-security-tips = Συμβουλές ασφαλείας
+navigation-save-quality-content = Αποθηκεύστε ποιοτικό περιεχόμενο από οπουδήποτε. Βρείτε τροφή για σκέψη παντού.
 navigation-sign-up = Εγγραφή
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Γρήγορο. Απλό. Ιδιωτικό.
 # Outdated string
