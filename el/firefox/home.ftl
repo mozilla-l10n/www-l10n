@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Προστατευτείτε στο διαδίκτυο με προϊόντα που σέβονται το απόρρητο
+firefox-home-firefox-is-more-than = Το { -brand-name-firefox } είναι κάτι περισσότερο από ένα πρόγραμμα περιήγησης. Μάθετε περισσότερα σχετικά με τα προϊόντα { -brand-name-firefox } που χειρίζονται τα δεδομένα σας με σεβασμό και έχουν δημιουργηθεί για το απόρρητο οπουδήποτε κι αν βρίσκεστε στο διαδίκτυο.
 firefox-home-the-browser-is-just = Το πρόγραμμα περιήγησης είναι μόνο η αρχή
 firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια των προϊόντων μας
 firefox-home-get-trackers-off = Απομακρύνετε 2.000+ ιχνηλάτες - ακόμη και το { -brand-name-facebook }

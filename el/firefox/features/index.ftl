@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Προστασία απορρήτου και ταχύτερη περιήγηση με το { -brand-name-firefox }
+# HTML page description
+features-index-youre-in-control-with-firefoxs = Έχετε τον απόλυτο έλεγχο με τις εύκολες στη χρήση λειτουργίες του { -brand-name-firefox } που προστατεύουν το απόρρητό σας και επιταχύνουν την περιήγησή σας.
 # Hero title
 features-index-firefox-features = Χαρακτηριστικά { -brand-name-firefox }
 # Hero description
