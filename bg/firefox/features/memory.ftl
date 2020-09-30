@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Четецът Firefox: Използва по-малко памет, има повече скорост
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: използва по-малко памет, има повече скорост
 # HTML page description
 features-memory-is-your-computer-slow-your = Компютърът ви бави ли се? Вашият мрежов четец може би използва твърде много памет. Преминете към { -brand-name-firefox } денс за по-висока скорост.
 features-memory-less-memory-usage-than-chrome = Използва по-малко памет от { -brand-name-chrome }

@@ -11,14 +11,14 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. На
 facebook-container-get-the-facebook-container = Вземи разширението { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Изтеглете { -brand-name-firefox } и вземете разширението { -brand-name-facebook-container }
 # Outdated string
-facebook-container-the-facebook-container-extension = Разширението Ограничител за Facebook не е налично за мобилни устройства.
+facebook-container-the-facebook-container-extension = Разширението { -brand-name-facebook-container } не е налично за мобилни устройства.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Опитай <strong>{ -brand-name-firefox-focus }</strong>, поверителният четец за { -brand-name-android } и { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Откажете се по вашите условия
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } е способен да проследява почти всяка ваша дейност в Мрежата и да я свързва с вашата идентичност във { -brand-name-facebook }. Ако това е твърде много за вас, <a href="{ $fbcontainer }">разширението Ограничител за { -brand-name-facebook }</a> изолира вашата идентичност в отделен ограничен раздел, правейки по-трудно следенето от страна на { -brand-name-facebook } на дейността ви извън { -brand-name-facebook }.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } е способен да проследява почти всяка ваша дейност в Мрежата и да я свързва с вашата идентичност във { -brand-name-facebook }. Ако това е твърде много за вас, <a href="{ $fbcontainer }">разширението { -brand-name-facebook-container }</a> изолира вашата идентичност в отделен ограничен раздел, правейки по-трудно следенето от страна на { -brand-name-facebook } на дейността ви извън { -brand-name-facebook }.
 facebook-container-install-and-contain = Инсталиране и ограничаване
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

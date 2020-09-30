@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox браузър: Бърз и лесен Мениджър на Пароли
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Бързо и лесно управление на пароли
 # HTML page description
 password-manager-firefox-password = Мениджърът на Пароли във { -brand-name-firefox } ви позволява да запазите вските си пароли на едно място, така че лесно да се включите или да изтеглите запазените от вас пароли.
 # Hero title

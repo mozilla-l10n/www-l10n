@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Мрежовият четец Firefox: По-добри отметки където и да отидете
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: по-добри отметки където и да сте
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = По-лесно организирайте вашите отметки в папки и имайте достъп до тях от всяко ваше устройство. От компютър до мобилно устройство.
 features-bookmarks-better-bookmarks = По-добри отметки
