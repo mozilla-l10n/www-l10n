@@ -31,11 +31,13 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ano
 firefox-desktop-download-no = Ne
 firefox-desktop-download-blocks-third-party = Blokování sledovacích cookies třetích stran
+firefox-desktop-download-blocks-third-party-default = Blokování sledovacích cookies třetích stran ve výchozím stavu
 firefox-desktop-download-autoplay-blocking = Blokování automatického přehrávání
 firefox-desktop-download-blocks-social-trackers = Blokování sledovacích prvků sociálních sítí
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dostupnost pro více OS
 firefox-desktop-download-in-browser-screenshot = Nástroj pro vytváření snímků stránek
+# Obsolete string
 firefox-desktop-download-master-password = Hlavní heslo
 firefox-desktop-download-we-block-the-ad = My blokujeme sledující reklamy. Vy prohlížíte internet rychleji.
 firefox-desktop-download-ads-are-distracting = Reklamy odvádějí vaši pozornost a zpomalují načítání webových stránek. Zároveň jejich sledovací prvky zaznamenávají každý pohyb, který na internetu uděláte. { -brand-name-firefox-browser } blokuje většinu sledovacích prvků zcela automaticky, takže není třeba sahat do nastavení zabezpečení.
