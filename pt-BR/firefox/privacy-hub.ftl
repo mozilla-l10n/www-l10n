@@ -45,7 +45,7 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firef
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Mais de 2.000 rastreadores bloqueados — automaticamente
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-tracking-has-become-an = Rastreamento tornou-se uma epidemia online: empresas seguem cada movimento, clique e compra, coletando dados para prever e influenciar o que você fará em seguida. Achamos que isso é uma invasão grosseira em sua privacidade. É por isso que os navegadores { -brand-name-firefox } para celular e computador têm proteção aprimorada contra rastreamento ativada por padrão.
+firefox-privacy-hub-tracking-has-become-an = Rastreamento tornou-se uma epidemia online: empresas seguem cada movimento, clique, compra, coletando dados para prever e influenciar o que você fará em seguida. Consideramos isso uma invasão grosseira em sua privacidade. É por isso que os navegadores { -brand-name-firefox } para celular e computador têm proteção aprimorada contra rastreamento ativada por padrão.
 firefox-privacy-hub-if-you-want-to-see-what = Se quiser ver o que o { -brand-name-firefox } está bloqueando para você, visite esta página no navegador { -brand-name-firefox } no computador.
 firefox-privacy-hub-see-what-firefox-has-blocked = Veja o que o { -brand-name-firefox } bloqueou para você
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -63,7 +63,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Se você tem uma { -brand-na
 firefox-privacy-hub-more-than-s-trackers-blocked = Mais de { $trackers } de rastreadores bloqueados todos os dias para usuários do { -brand-name-firefox } no mundo todo
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Quando você digita seu endereço de e-mail no { -brand-name-firefox-monitor }, esquecemos imediatamente após verificar se está em vazamentos de dados conhecidos — a menos que você nos autorize a continuar monitorando novos vazamentos de suas informações pessoais.
-firefox-privacy-hub-check-for-breaches = Verificar se há vazamentos
+firefox-privacy-hub-check-for-breaches = Verifique se há vazamentos
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = As senhas e credenciais que você salva no { -brand-name-firefox-lockwise } são criptografadas em todos os seus dispositivos, assim nem nós conseguimos ver.
 firefox-privacy-hub-learn-more-about-lockwise = Saiba mais sobre o { -brand-name-lockwise }
