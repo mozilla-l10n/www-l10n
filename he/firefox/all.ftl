@@ -24,11 +24,6 @@ firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגי
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
 firefox-all-arm64-installers-optimized = מתקיני ARM64/AArch64 מתאימים למחשבי { -brand-name-windows } עם ליבת Snapdragon.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = הורדת { $product_label } עבור { $platform } ב־{ $locale }
 firefox-all-which-version = באיזו גרסה ברצונך לבחור?
 firefox-all-select-your-preferred-language = בחירת השפה המועדפת עליך
 firefox-all-product-firefox = { -brand-name-firefox }
