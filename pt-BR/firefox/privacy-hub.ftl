@@ -53,14 +53,14 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Tenha proteção aprimora
 firefox-privacy-hub-download-the-firefox-browser = Baixe o navegador { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Atualize seu navegador { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Invisível para os principais rastreadores
-firefox-privacy-hub-meet-four-of-the-most-common = Conheça quatro das categorias mais comuns de rastreadores — que não vão te encontrar.
+firefox-privacy-hub-meet-four-of-the-most-common = Conheça as quatro categorias mais comuns de rastreadores — que não vão te encontrar.
 firefox-privacy-hub-always-in-your-control = Sempre sob seu controle
 firefox-privacy-hub-want-to-customize-what = Quer personalizar o que é bloqueado? Suas configurações estão a apenas um clique de distância.
 firefox-privacy-hub-protection-beyond-tracking = Proteção além do rastreamento
 firefox-privacy-hub-if-you-have-a-firefox-account = Se você tem uma { -brand-name-firefox-account }, também pode ver como estamos te ajudando a proteger suas senhas e informações pessoais.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Mais de { $trackers } rastreadores bloqueados todos os dias para usuários do { -brand-name-firefox } no mundo todo
+firefox-privacy-hub-more-than-s-trackers-blocked = Mais de { $trackers } de rastreadores bloqueados todos os dias para usuários do { -brand-name-firefox } no mundo todo
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Quando você digita seu endereço de e-mail no { -brand-name-firefox-monitor }, esquecemos imediatamente após verificar se está em vazamentos de dados conhecidos — a menos que você nos autorize a continuar monitorando novos vazamentos de suas informações pessoais.
 firefox-privacy-hub-check-for-breaches = Verificar se há vazamentos
