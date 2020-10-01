@@ -6,7 +6,7 @@ fxa-form-enter-your-email = <strong>Digite seu e-mail</strong> para ter acesso a
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
-fxa-form-by-proceeding = Ao prosseguir, você concorda com os <a href="{ $url1 }">Termos de Serviço</a> e <a href="{ $url2 }">Política de Privacidade</a>.
+fxa-form-by-proceeding = Ao prosseguir, você concorda com os <a href="{ $url1 }">Termos do serviço</a> e o <a href="{ $url2 }">Aviso de privacidade</a>.
 fxa-form-email-address = Endereço de e-mail
 fxa-form-continue = Continuar
 fxa-form-create-account = Criar uma conta
