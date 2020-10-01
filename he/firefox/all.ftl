@@ -19,6 +19,8 @@ firefox-all-language = שפה:
 firefox-all-sorry-we-couldnt-find = מצטערים, לא הצלחנו להוריד את מה שחיפשת. נא לנסות שוב, או לבחור הורדה מהרשימה שלהלן.
 firefox-all-the-pre-alpha-version = גרסת טרום אלפא מיועדת למשתמשים מנוסים שאוהבים לצוד קריסות ולבדוק יכולות חדשות ברגע שיצאו מהתנור.
 firefox-all-64-bit-installers = מתקיני 64 סיביות
+firefox-all-choose-a-64-bit-installer = מומלץ לבחור במתקין 64 סיביות עבור מחשבים עם מעבדי 64 סיביות, מה שמאפשר הקצאת זיכרון גדולה יותר לתכניות בודדות — חשוב במיוחד למשחקים וליישומים תובעניים אחרים.
+firefox-all-32-bit-installers = מתקיני 32 סיביות
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את ה{ -brand-name-firefox-browser(case: "a") } לזמין בלמעלה מ־90 שפות.
 firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
@@ -27,6 +29,10 @@ firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגי
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
 firefox-all-arm64-installers-optimized = מתקיני ARM64/AArch64 מתאימים למחשבי { -brand-name-windows } עם ליבת Snapdragon.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = ניתן לבחור במתקין 32 סיביות למחשבים עם מעבדי 32 סיביות — או למחשבים ישנים וחלשים יותר. <a href="{ $url }">במקרה של ספק</a> האם לבחור במתקין 64 סיביות או 32 סיביות אנו ממליצים על 32 סיביות.
+firefox-all-msi-installers = מתקיני MSI
 firefox-all-which-version = באיזו גרסה ברצונך לבחור?
 firefox-all-select-your-preferred-language = בחירת השפה המועדפת עליך
 firefox-all-product-firefox = { -brand-name-firefox }
