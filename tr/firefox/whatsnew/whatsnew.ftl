@@ -7,6 +7,7 @@
 
 whatsnew-page-title = { -brand-name-firefox } ile ilgili yenilikler: Daha fazla gizlilik, daha fazla koruma.
 whatsnew-page-description = Verilerinizi üçüncü taraflara satan bir sektörün karşısında durun. Sizin adınıza savaşan bir teknoloji sayesinde internette akıllıca ve güvenle dolaşın.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = Tebrikler! { -brand-name-firefox-browser }nın son sürümünü kullanıyorsunuz.
 whatsnew-out-of-date-notification = Daha yeni bir { -brand-name-firefox-browser } sürümü var. Güncellemek için yeniden başlatın.
 # Variables:
