@@ -10,6 +10,8 @@ compare-shared-yes = Sì
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = No
 compare-shared-private-browsing-mode = Modalità di navigazione anonima
+compare-shared-blocks-third-party-tracking-default = Blocca i cookie traccianti di terze parti per impostazione predefinita
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blocca cookie traccianti di terze parti
 compare-shared-blocks-cryptomining-scripts = Blocca script per il cryptomining
 compare-shared-blocks-social-trackers = Blocca traccianti social
@@ -27,6 +29,7 @@ compare-shared-os-availability = Disponibile sui maggiori sistemi operativi
 compare-shared-mobile-os-availability = Disponibile sui maggiori sistemi operativi mobili
 compare-shared-syncs-with-mobile = Sincronizzazione con i dispositivi mobili
 compare-shared-password-management = Gestione password
+# Obsolete string
 compare-shared-master-password = Password principale
 compare-shared-security-and-privacy = Sicurezza e privacy
 compare-shared-utility = Utilità
