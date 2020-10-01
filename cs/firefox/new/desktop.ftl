@@ -37,6 +37,7 @@ firefox-desktop-download-blocks-social-trackers = Blokování sledovacích prvk�
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dostupnost pro více OS
 firefox-desktop-download-in-browser-screenshot = Nástroj pro vytváření snímků stránek
+firefox-desktop-download-primary-password = Hlavní heslo
 # Obsolete string
 firefox-desktop-download-master-password = Hlavní heslo
 firefox-desktop-download-we-block-the-ad = My blokujeme sledující reklamy. Vy prohlížíte internet rychleji.
@@ -158,6 +159,9 @@ firefox-desktop-download-now-mac = Nyní tento stažený soubor <strong>otevřet
 firefox-desktop-download-get-help = Máte potíže? <a { $attrs }>Rádi vám s instalací pomůžeme</a>.
 firefox-desktop-download-in-another-language = Stáhnout v jiném jazyce nebo pro jiný operační systém.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Pokud vidíte hlášení, že instalovaná aplikace nebyla { -brand-name-microsoft(case: "ins") } ověřena, klepněte na „Přesto nainstalovat“ nebo <a { $attrs }>změňte nastavení doporučování aplikací</a>.
 firefox-desktop-download-visit-support-for-more = Další podrobnosti najdete na serveru podpory
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

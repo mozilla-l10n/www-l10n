@@ -10,6 +10,8 @@ compare-shared-yes = Ano
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ne
 compare-shared-private-browsing-mode = Režim anonymního prohlížení
+compare-shared-blocks-third-party-tracking-default = Blokování sledovacích cookies třetích stran ve výchozím stavu
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blokování cookies třetích stran
 compare-shared-blocks-cryptomining-scripts = Blokování těžby kryptoměn
 compare-shared-blocks-social-trackers = Blokování sledovacích prvků sociálních sítí
@@ -27,6 +29,8 @@ compare-shared-os-availability = Dostupnost pro více OS
 compare-shared-mobile-os-availability = Dostupnost na mobilních OS
 compare-shared-syncs-with-mobile = Synchronizace s mobilem
 compare-shared-password-management = Správce hesel
+compare-shared-primary-password = Hlavní heslo
+# Obsolete string
 compare-shared-master-password = Hlavní heslo
 compare-shared-security-and-privacy = Zabezpečení a soukromí
 compare-shared-utility = Funkcionalita

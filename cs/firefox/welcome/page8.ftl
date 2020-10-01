@@ -9,6 +9,7 @@
 welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } chrání vaše soukromí naprosto automaticky
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 welcome-page8-your-privacy-respected = Respektujeme vaše soukromí, <strong>automaticky</strong>
+welcome-page8-firefox-automatically-protects = { -brand-name-firefox } automaticky chrání vaše soukromí, takže když se připojíte online, nemusíte se ničeho bát.
 welcome-page8-view-your-protection-report = Podívejte se na hlášení o ochraně vašeho soukromí
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Rozšířená ochrana proti sledování

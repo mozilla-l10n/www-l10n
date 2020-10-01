@@ -55,6 +55,7 @@
         [ins] Googlem
     }
     .gender = masculine
+-brand-name-hulu = Hulu
 -brand-name-microsoft =
     { $case ->
        *[nom] Microsoft

@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Soukromí, které si zasloužíte. 
 firefox-mobile-get-firefox-for-mobile = Získat { -brand-name-firefox(case: "acc") } pro mobily
 firefox-mobile-send-a-download-link-to-your = Poslat odkaz ke stažení do vašeho telefonu.
 firefox-mobile-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete začít
+firefox-mobile-scan-alt-text = Naskenujte QR kód a získejte { -brand-name-firefox(case: "acc") } pro svůj mobil

@@ -7,6 +7,7 @@
 
 whatsnew-page-title = Co je nového ve { -brand-name-firefox(case: "loc") } - ještě více soukromí a ochrany.
 whatsnew-page-description = Postavte se proti průmyslu, který prodává vaše data třetím stranám. Buďte na internetu prozíraví a v bezpečí pomocí technologie, která za vás bojuje.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = Gratulujeme, používáte nejnovější verzi { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
 whatsnew-out-of-date-notification = K dispozici je novější verze { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }. Pro aktualizaci ho restartujte.
 # Variables:
