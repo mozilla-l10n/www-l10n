@@ -24,7 +24,7 @@ compare-chrome-google-chrome-is-by-all-accounts = 总体来说，{ -brand-name-g
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
 compare-chrome-ultimately-its-up-to-you = 归根结底，像搜索历史、购物记录等数据，是否分享，以及分享多少，决定权在您。但包括您的大多数人，可能都在网上搜索过一些希望保密的内容。
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.
-compare-chrome-fast-forward-to-today-the-updated = 时至今日，浏览器的竞争格局已然发生变化，许多人开始质疑其在线数据（如：浏览历史、密码和其他敏感信息）的状况。自 2008 年 { -brand-name-chrome } 推出以来，情况发生了很大变化。在 { -brand-name-Firefox }，我们一直在努力重新设计浏览器界面，为用户提供越来越多的自动化隐私保护和性能增强，以及诸多便捷的浏览器工具。
+compare-chrome-fast-forward-to-today-the-updated = 时至今日，浏览器的竞争格局已然发生变化，许多人开始质疑其在线数据（如：浏览历史、密码和其他敏感信息）的状况。自 2008 年 { -brand-name-chrome } 推出以来，情况发生了很大变化。在 { -brand-name-firefox }，我们一直在努力重新设计浏览器界面，为用户提供越来越多的自动化隐私保护和性能增强，以及诸多便捷的浏览器工具。
 # Obsolete string
 compare-chrome-fast-forward-to-today-the = 时至今日，浏览器的竞争格局已然发生变化，许多人开始质疑其在线数据（如：浏览历史、密码和其他敏感信息）的状况。自 2008 年 { -brand-name-chrome } 推出以来，情况发生了很大变化。在 { -brand-name-firefox }，我们一直在努力重新设计浏览器界面，为用户提供越来越多的隐私保护和性能增强，以及诸多便捷的浏览器工具。
 compare-chrome-and-so-here-we-are-the-browser = 新的风暴已经出现，浏览器之争再次升级，是时候重新评估和比较 { -brand-name-firefox-browser }与 { -brand-name-google } { -brand-name-chrome } 了。
