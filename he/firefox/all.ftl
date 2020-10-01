@@ -12,10 +12,13 @@ firefox-all-need-help = זקוקים לעזרה?
 firefox-all-which-browser-would = איזה דפדפן ברצונך להוריד?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = קבלת עזרה
+firefox-all-you-are-about-to-download = זאת ההורדה שנבחרה:
 firefox-all-browser = דפדפן:
 firefox-all-platform = סביבה:
 firefox-all-language = שפה:
 firefox-all-sorry-we-couldnt-find = מצטערים, לא הצלחנו להוריד את מה שחיפשת. נא לנסות שוב, או לבחור הורדה מהרשימה שלהלן.
+firefox-all-the-pre-alpha-version = גרסת טרום אלפא מיועדת למשתמשים מנוסים שאוהבים לצוד קריסות ולבדוק יכולות חדשות ברגע שיצאו מהתנור.
+firefox-all-64-bit-installers = מתקיני 64 סיביות
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את ה{ -brand-name-firefox-browser(case: "a") } לזמין בלמעלה מ־90 שפות.
 firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
