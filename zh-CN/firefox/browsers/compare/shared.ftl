@@ -42,6 +42,8 @@ compare-shared-utility-strong = <strong>实用性</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>跨平台性</strong>
 compare-shared-overall-assessment = 总体评价
+compare-shared-the-comparisons-made-here-updated = 本次参与比较的浏览器均为默认设置，各发行版本如下：
+# Obsolete string
 compare-shared-the-comparisons-made-here = 本次参与比较的浏览器各发行版本如下：
 compare-shared-this-page-updated-semi-quarterly = 此页面每半年更新一次，以反映最新版本，但可能无法总是反映最新的变化。
 compare-shared-brand-name-firefox = { -brand-name-firefox }
