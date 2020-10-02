@@ -10,6 +10,8 @@ compare-shared-yes = Héẽ
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ahániri
 compare-shared-private-browsing-mode = Kundaha Ñemigua reko
+compare-shared-blocks-third-party-tracking-default = Ejoko kookie tapykuehoha mbohapyháva ijeheguiete
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Ejoko kookie tapykuehoha mbohapyháva
 compare-shared-blocks-cryptomining-scripts = Ejoko scritps criptomineriagua
 compare-shared-blocks-social-trackers = Ejoko tapykuehoha avaatygua
@@ -27,6 +29,8 @@ compare-shared-os-availability = Ojepurukuaa apopyvusúpe g̃uarã
 compare-shared-mobile-os-availability = Ojepurukuaa pumbyry apopyvusúpe g̃uarã
 compare-shared-syncs-with-mobile = Oñembojuehe pumbyry ndive
 compare-shared-password-management = Ñe’ẽñemi ñangarekohára
+compare-shared-primary-password = Ñe’ẽñemi ha’etéva
+# Obsolete string
 compare-shared-master-password = Ñe’ẽñemi ha’etéva
 compare-shared-security-and-privacy = Tekorosã ha ñemigua
 compare-shared-utility = Jepurúva
@@ -38,6 +42,7 @@ compare-shared-utility-strong = <strong>Jepurúva</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Jeguerahakuaa</strong>
 compare-shared-overall-assessment = Ñeha’ã tuichaháicha
+# Obsolete string
 compare-shared-the-comparisons-made-here = Umi moñondive oñembohekopyre ápe ojejapo umi kundahára oñehesa’ỹijóva pa’ũme:
 compare-shared-this-page-updated-semi-quarterly = Kutiarogue hekopyahu 45 ára haguépe osẽ hag̃ua tembiapo ipyahuvévape ndohechaukáiva mbohekopyahu ipaháva.
 compare-shared-brand-name-firefox = { -brand-name-firefox }

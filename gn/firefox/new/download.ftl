@@ -62,3 +62,5 @@ firefox-new-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> em
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eipurukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua

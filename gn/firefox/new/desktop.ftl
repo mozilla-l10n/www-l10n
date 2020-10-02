@@ -36,6 +36,8 @@ firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = OS jepurukuaáva
 firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembipuru
+firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
+# Obsolete string
 firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
 firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevarã eheka ñanduti ipya’éva.
 firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
@@ -144,6 +146,8 @@ firefox-desktop-download-now-mac = Ko’ág̃a <strong>embojuruja</strong> maran
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta ne ñemohendápe</a>.
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
