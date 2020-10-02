@@ -32,6 +32,11 @@ firefox-all-arm64-installers-optimized = מתקיני ARM64/AArch64 מתאימי
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = ניתן לבחור במתקין 32 סיביות למחשבים עם מעבדי 32 סיביות — או למחשבים ישנים וחלשים יותר. <a href="{ $url }">במקרה של ספק</a> האם לבחור במתקין 64 סיביות או 32 סיביות אנו ממליצים על 32 סיביות.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = הורדת { $product_label } עבור { $platform } ב{ $locale }
 firefox-all-msi-installers = מתקיני MSI
 firefox-all-which-version = באיזו גרסה ברצונך לבחור?
 firefox-all-select-your-preferred-language = בחירת השפה המועדפת עליך
