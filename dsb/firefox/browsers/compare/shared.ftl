@@ -10,6 +10,8 @@ compare-shared-yes = Jo
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ně
 compare-shared-private-browsing-mode = Priwatny modus
+compare-shared-blocks-third-party-tracking-default = Blokěrujo pó standarźe slědujuce cookieje tśeśich
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blokěrujo slědujuce cookiejei tśeśich
 compare-shared-blocks-cryptomining-scripts = Blokěrujo kryptokopańske skripty
 compare-shared-blocks-social-trackers = Blokěrujo socialne pśeslědowaki
@@ -27,6 +29,8 @@ compare-shared-os-availability = K-dispoziciji-byśe źěłowego systema
 compare-shared-mobile-os-availability = K-dispoziciji-byśe mobilnego źěłowego systema
 compare-shared-syncs-with-mobile = Synchronizacija z mobilnym rědom
 compare-shared-password-management = Zastojanje gronidłow
+compare-shared-primary-password = Głowne gronidło
+# Obsolete string
 compare-shared-master-password = Głowne gronidło
 compare-shared-security-and-privacy = Wěstota a priwatnosć
 compare-shared-utility = Wužytnosć
@@ -38,7 +42,9 @@ compare-shared-utility-strong = <strong>Wužytnosć</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabelnosć</strong>
 compare-shared-overall-assessment = Cełkowny pósudk
-compare-shared-the-comparisons-made-here = How pśewjeźone pśirownanja su se za wersije wobglědowakow takle cynili:
+compare-shared-the-comparisons-made-here-updated = How pśewjeźone pśirownanja su se tak cynili ze standardnymi nastajenjami a za wersije wobglědowakow:
+# Obsolete string
+compare-shared-the-comparisons-made-here = How pśewjeźone pśirownanja su se za wersije wobglědowakow tak cynili:
 compare-shared-this-page-updated-semi-quarterly = Toś ten bok se běrtyllětnje aktualizěrujo, aby nejnowše wersioněrowanje wótbłyšćowaś a njepokažo pśecej nejnowše aktualizacije.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
