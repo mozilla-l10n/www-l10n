@@ -32,6 +32,7 @@ firefox-accounts-travel-the-internet = Περιήγηση στο διαδίκτ�
 firefox-accounts-keep-your-passwords = Προστασία και φορητότητα κωδικών πρόσβασης.
 firefox-accounts-get-a-lookout-for = Παρακολούθηση παραβιάσεων δεδομένων.
 firefox-accounts-share-large-files = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές.
+firefox-accounts-get-it-all-on-every = Όλα αυτά σε κάθε συσκευή, χωρίς να παγιδευτείτε σε ένα μόνο λειτουργικό σύστημα.
 firefox-accounts-and-get-it-all-on = Και όλα αυτά σε κάθε συσκευή, χωρίς να παγιδευτείτε σε ένα μόνο λειτουργικό σύστημα.
 firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό που σας αξίζει.
 # Variables:

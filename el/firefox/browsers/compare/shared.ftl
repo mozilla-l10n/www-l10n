@@ -42,6 +42,8 @@ compare-shared-utility-strong = <strong>Χρησιμότητα</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Φορητότητα</strong>
 compare-shared-overall-assessment = Συνολική αξιολόγηση
+compare-shared-the-comparisons-made-here-updated = Οι παρούσες συγκρίσεις έγιναν με τις προεπιλεγμένες ρυθμίσεις και μεταξύ των εξής εκδόσεων των προγραμμάτων περιήγησης:
+# Obsolete string
 compare-shared-the-comparisons-made-here = Οι παρούσες συγκρίσεις έγιναν μεταξύ των εξής εκδόσεων του προγράμματος περιήγησης:
 compare-shared-this-page-updated-semi-quarterly = Αυτή η σελίδα ενημερώνεται κάθε έξι εβδομάδες για να εμφανίζει την τελευταία έκδοση και ενδέχεται να μην περιέχει τις πιο πρόσφατες ενημερώσεις.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
