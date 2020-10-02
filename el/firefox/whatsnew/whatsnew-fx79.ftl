@@ -7,6 +7,10 @@
 
 # HTML page title
 whatsnew79-page-title = Τι νέο υπάρχει στο { -brand-name-firefox }
+# Main title
+whatsnew79-main-title = Τα δεδομένα σας είναι απόρρητα, ακόμη κι από εμάς
+# Main CTA button
+whatsnew79-primary-cta = Ορισμός του { -brand-name-firefox } ως προεπιλογή
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Αποκτήστε την εφαρμογή { -brand-name-firefox }
 whatsnew79-with-one-tap-mozilla-vpn = Με ένα πάτημα, το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεσή σας για να πραγματικά ιδιωτική δραστηριότητα σε κάθε δίκτυο — μακριά από hackers και αδιάκριτα βλέμματα.
