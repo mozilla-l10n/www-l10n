@@ -10,6 +10,8 @@ compare-shared-yes = iawn
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Na
 compare-shared-private-browsing-mode = Y modd Pori Preifat
+compare-shared-blocks-third-party-tracking-default = Wedi ei ragosod i rwystro cwcis tracio trydydd parti
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Yn rhwystro cwcis tracio trydydd parti
 compare-shared-blocks-cryptomining-scripts = Yn rhwystro sgriptiau cryptogloddio
 compare-shared-blocks-social-trackers = Yn rhwystro tracwyr cymdeithasol
@@ -27,6 +29,8 @@ compare-shared-os-availability = Argaeledd OS
 compare-shared-mobile-os-availability = Argaeledd OS symudol
 compare-shared-syncs-with-mobile = Yn cydweddu gyda dyfeisiau symudol
 compare-shared-password-management = Rheoli cyfrineiriau
+compare-shared-primary-password = Prif gyfrinair
+# Obsolete string
 compare-shared-master-password = Prif Gyfrinair
 compare-shared-security-and-privacy = Diogelwch a Phreifatrwydd
 compare-shared-utility = Gwasanaethau
@@ -38,6 +42,8 @@ compare-shared-utility-strong = <strong>Gwasanaethau:</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Cludadwyedd:</strong>
 compare-shared-overall-assessment = Asesiad Cyffredinol
+compare-shared-the-comparisons-made-here-updated = Gwnaethpwyd y cymariaethau hyn gyda'r gosodiadau rhagosodedig ac ar draws fersiynau rhyddhad porwr fel a ganlyn:
+# Obsolete string
 compare-shared-the-comparisons-made-here = Gwnaethpwyd y cymariaethau hyn ar draws fersiynau rhyddhad porwr fel a ganlyn:
 compare-shared-this-page-updated-semi-quarterly = Mae'r dudalen hon yn cael ei diweddaru bob chwarter i adlewyrchu'r fersiwn ddiweddaraf ac efallai na fydd bob amser yn adlewyrchu'r diweddariadau diweddaraf.
 compare-shared-brand-name-firefox = { -brand-name-firefox }

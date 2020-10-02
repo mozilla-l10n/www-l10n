@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Yn rhwystro tracwyr cymdeithas
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Argaeledd yr OS
 firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porwr
+firefox-desktop-download-primary-password = Prif gyfrinair
+# Obsolete string
 firefox-desktop-download-master-password = Prif gyfrinair
 firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebion. Rydych chi'n crwydro'r rhyngrwyd yn gynt.
 firefox-desktop-download-ads-are-distracting = Mae hysbysebion yn blino pawb ac yn gwneud i dudalennau gwe lwytho'n arafach, tra bod eu tracwyr yn gwylio pob symudiad rydych chi'n ei wneud ar-lein. Mae'r { -brand-name-firefox-browser } yn rhwystro'r mwyafrif o dracwyr yn awtomatig, felly does dim angen i chi fynd i'ch gosodiadau diogelwch.
