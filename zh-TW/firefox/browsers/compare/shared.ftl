@@ -42,6 +42,8 @@ compare-shared-utility-strong = <strong>實用性</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>可攜帶性</strong>
 compare-shared-overall-assessment = 總體評價
+compare-shared-the-comparisons-made-here-updated = 本頁根據下列版本的瀏覽器發行版本的預設設定值進行評比:
+# Obsolete string
 compare-shared-the-comparisons-made-here = 本頁根據下列版本的瀏覽器發行版本進行評比:
 compare-shared-this-page-updated-semi-quarterly = 此頁面當中的資料每半年更新兩次，可能不會隨時根據各瀏覽器最新版本更新。
 compare-shared-brand-name-firefox = { -brand-name-firefox }
