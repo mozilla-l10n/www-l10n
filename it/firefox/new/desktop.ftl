@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = Blocca traccianti social
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibile sui maggiori sistemi operativi
 firefox-desktop-download-in-browser-screenshot = Strumento di istantanea schermo integrato
+firefox-desktop-download-primary-password = Password principale
+# Obsolete string
 firefox-desktop-download-master-password = Password principale
 firefox-desktop-download-we-block-the-ad = Noi blocchiamo le pubblicità traccianti. Tu navighi più veloce.
 firefox-desktop-download-ads-are-distracting = Gli annunci pubblicitari ti distraggono e rallentano il caricamento delle pagine web, mentre i loro elementi traccianti spiano ogni mossa che fai online. Il { -brand-name-firefox-browser } blocca automaticamente la maggior parte degli elementi traccianti senza che tu metta mano alle impostazioni di sicurezza.
