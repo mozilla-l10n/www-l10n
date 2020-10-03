@@ -21,18 +21,37 @@ contribute-tag-individual-event = Individuale dhe organizim veprimtarish
 contribute-tag-individual = Individuale
 contribute-tag-support = Asistencë
 contribute-task-translate-heading = Përktheni lëndë
+contribute-task-mozilla-codebase-heading = Kontribuoni te kodi bazë i { -brand-name-mozilla }-s
+contribute-task-mozilla-codebase-desc = Përmirësoni aktivisht produktet { -brand-name-mozilla } duke kontribuar te një larmi mundësish zhvillimi.
+contribute-task-join-heading = Bëhuni pjesë e bashkësisë
 
 ## Mission
 
+contribute-mission-heading = Misioni Ynë
+contribute-learn = Mësoni mbi { -brand-name-mozilla }
+contribute-read-manifesto = Lexoni manifestin tonë
+contribute-find-event = Gjeni një veprimtari
+contribute-meet-volunteers = Njihuni me vullnetarët tanë të pasionuar
+contribute-donate = Dhuroni
+contribute-help-fund = Ndihmoni në financimin e misionit tonë
+contribute-follow-mozilla = Ndiqeni { -brand-name-mozilla }-n
+contribute-opportunities = Lajme dhe mundësi vullnetarizmi
 
 ## Made by
 
+contribute-made-by-heading = Krijuar nga persona të pasionuar si ju
 
 ## Newsletter
 
+contribute-newsletter-heading = Ende jo i sigurt?
+contribute-newsletter-sub-heading = Merrni te email-i juaj lajme bashkësie dhe kontributi
 
 ## Support
 
+contribute-support-heading = Merrni Ndihmë
+contribute-mozilla-support = Asistencë { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Probleme me një faqe web?
+contribute-report-issue = Njoftoni një problem
