@@ -37,6 +37,6 @@ features-adblocker-if-seeing-too-many-ads = Ako ti previše oglasa uništava dan
 features-adblocker-do-it-yourself-custom = Prilagođeni način rada
 features-adblocker-cover-your-trail-block = Sakrij svoje radnje, blokiraj programe za praćenje
 features-adblocker-take-a-bite-out-of-cookies = Zaustavi kolačiće
-features-adblocker-send-a-do-not-track-signal = Pošalji signal za ne praćenje
+features-adblocker-send-a-do-not-track-signal = Šalji signal "Ne prati"
 features-adblocker-speed-up-thanks-to-ad = Ubrzaj zahvaljujući blokerima oglasa
 features-adblocker-take-control-of-your-browser = Preuzmi kontrolu nad svojim preglednikom.
