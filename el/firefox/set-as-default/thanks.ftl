@@ -9,6 +9,9 @@
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Ευχαριστούμε που επιλέξατε το { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = Επιτυχία! Το προεπιλεγμένο πρόγραμμα περιήγησής σας έχει οριστεί σε { -brand-name-firefox }.
 set-as-default-thanks-looks-like-youre-using-a = Φαίνεται ότι χρησιμοποιείτε κάποιο άλλο πρόγραμμα περιήγησης αυτή τη στιγμή. Βεβαιωθείτε ότι έχετε κάνει λήψη του { -brand-name-firefox } στη συσκευή σας.
+# When a visitor sees this message a system dialog will also open on screen.
+set-as-default-thanks-youre-almost-done-just-change = Έχετε σχεδόν τελειώσει. Απλώς αλλάξτε το προεπιλεγμένο πρόγραμμα περιήγησης στο { -brand-name-firefox } από τον πίνακα ρυθμίσεων.
+set-as-default-thanks-having-trouble-setting-your = Αντιμετωπίζετε πρόβλημα με τη ρύθμιση του προεπιλεγμένου προγράμματος περιήγησης;
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 set-as-default-thanks-heres-everything-you-need-android = Δείτε όλα όσα πρέπει να ξέρετε σχετικά με τον ορισμό του προεπιλεγμένου προγράμματος περιήγησής σας σε <a href="{ $android }">συσκευές Android</a>.
