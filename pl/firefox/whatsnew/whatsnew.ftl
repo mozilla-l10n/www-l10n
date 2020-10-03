@@ -7,6 +7,7 @@
 
 whatsnew-page-title = Co nowego w { -brand-name-firefox(case: "loc") } — więcej prywatności, więcej ochrony.
 whatsnew-page-description = Przeciwstaw się branży, która sprzedaje Twoje dane stronom trzecim. Mądrze i bezpiecznie przeglądaj Internet dzięki technologii, która walczy o Ciebie.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = Gratulacje! Używasz najnowszej wersji { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
 whatsnew-out-of-date-notification = Dostępna jest jeszcze nowsza wersja { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }. Aby ją uaktualnić, uruchom ją ponownie.
 # Variables:
