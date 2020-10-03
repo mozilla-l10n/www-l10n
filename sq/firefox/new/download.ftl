@@ -65,3 +65,5 @@ firefox-new-please-follow = Që të instaloni { -brand-name-firefox }, ju lutemi
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Për Më Tepër Hollësi, Vizitoni Asistencën

@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Përpijini <em>cookie</em>-t
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> dërgohen nga sajtet që vizitoni. Jetojnë në kompjuterin tuaj dhe mbikëqyrin çfarë bëni në një sajt. Kur një shoqëri fluturimesh rrit çmimet për ju, ngaqë keni parë një herë atë ditë bileta aeroplani, këtu ka gisht një <em>cookie</em>.
 features-adblocker-in-firefox-you-can-block = Në { -brand-name-firefox } mund të bllokoni krejt <em>cookies</em> palësh të treta ose vetëm ato të depozituara nga gjurmues. Mbani parasysh se bllokimi i krejt <em>cookie</em>-ve mund të dëmtojë funksionimin e disa sajteve.
-features-adblocker-send-a-do-not-track-signal = Dërgoni një sinjal Mos Më Gjurmoni
+features-adblocker-send-a-do-not-track-signal = Dërgoni një sinjal “Mos Më Gjurmoni”
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Nëse s’doni që sjellja juaj internetore të përdoret për reklama, mund t’u dërgoni sajteve një letër politese “faleminderit, por jo, faleminderit” duke i vënë shenjë mundësisë <a href="{ $url }">Mos Më Gjurmoni</a> të { -brand-name-firefox }-it. Pjesëmarrja është vullnetare, por sajtet pjesëmarrëse do të reshtin menjëherë së ndjekuri ju.
