@@ -16,3 +16,4 @@ firefox-enterprise-support = Tob'äl
 firefox-enterprise-msi-installers = MSI yakonela'
 firefox-enterprise-release-notes = Ruch'utitzijol Ruwäch
 firefox-enterprise-pkg-installer = PKG yakonel
+firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
