@@ -14,3 +14,4 @@ features-adblocker-the-average-person-sees = Ο μέσος χρήστης βλέ
 features-adblocker-popup-ads-are-the-worst = Οι αναδυόμενες διαφημίσεις είναι οι χειρότερες. Αποκλείστε τα με το <a href="{ $url }">Popup Blocker</a> και δεν θα δείτε ποτέ ξανά κανένα άλλο ενοχλητικό αναδυόμενο παράθυρο.
 features-adblocker-choose-your-level-of-protection = Επιλέξτε το επίπεδο προστασίας σας
 features-adblocker-take-a-bite-out-of-cookies = "Δαγκώστε" τα cookies
+features-adblocker-take-control-of-your-browser = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.
