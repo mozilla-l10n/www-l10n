@@ -8,3 +8,6 @@
 # html page title
 whatsnew80-page-title = מה חדש ב־{ -brand-name-firefox }
 whatsnew80-up-to-date-banner = ברכותינו! ה־{ -brand-name-firefox } שברשותך הוא העדכני ביותר.
+# Main title
+whatsnew80-main-title = לעשות הכל, רק מהר יותר
+whatsnew80-primary-cta-description = נא להכניס כתובת דואר אלקטרוני או מספר טלפון כדי לקבל קישור הורדה

@@ -26,6 +26,8 @@ firefox-desktop-download-blocks-social-trackers = חסימת רכיבי מעקב
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = זמינות למערכות הפעלה
 firefox-desktop-download-in-browser-screenshot = כלי צילום מסך מובנה בדפדפן
+firefox-desktop-download-primary-password = ססמה ראשית
+# Obsolete string
 firefox-desktop-download-master-password = ססמה ראשית
 firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלך
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
@@ -54,6 +56,7 @@ firefox-desktop-download-protect-your-privacy = הגנה על הפרטיות ש�
 firefox-desktop-download-third-party-cookie = חסימת עוגיות צד־שלישי
 firefox-desktop-download-cryptominer-blocking = חסימת כורי מטבעות דיגיטליים
 firefox-desktop-download-private-browsing-mode = מצב גלישה פרטית
+firefox-desktop-download-secure-your-personal = אבטחת המידע האישי שלך
 firefox-desktop-download-breached-website-alerts = התרעות על אתרים שנפרצו
 firefox-desktop-download-built-in-password = מנהל ססמאות מובנה
 firefox-desktop-download-clear-history = ניקוי היסטוריה
@@ -67,6 +70,7 @@ firefox-desktop-download-adjust-search-bar = התאמה אישית של הגדר
 firefox-desktop-download-change-new-tab = שינוי פריסת דף הלשונית החדשה
 firefox-desktop-download-extensions-for-every = הרחבות לכל מטרה
 firefox-desktop-download-change-up-your = שינוי המראה שלך
+firefox-desktop-download-challenging-the-status = מאתגרים את הסטטוס קוו מאז 1998
 firefox-desktop-download-your-privacy-comes = הפרטיות שלך קודמת לכל
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = כל הכלים של { -brand-name-google } המועדפים עליך (כמו Gmail ו־Docs) עובדים בצורה חלקה ב{ -brand-name-firefox-browser(case: "a") }.
@@ -101,6 +105,8 @@ firefox-desktop-download-now-mac = רק נשאר <strong>לפתוח</strong> א�
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = נתקלת בבעיות? <a { $attrs }>ניתן לקבל עזרה עם ההתקנה</a>.
 firefox-desktop-download-in-another-language = הורדה בשפה אחרת או עבור מערכת הפעלה אחרת.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = מערכת ההפעלה המשמשת אותך אינה מאובטחת ואינה בתוקף, לפיכך <a href="{ $url }">אינה נתמכת עוד על־ידי { -brand-name-firefox }</a>.
@@ -109,3 +115,4 @@ firefox-desktop-download-youre-using-an-insecure-outdated = מערכת ההפע�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>
 firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } הוא יותר מדפדפן.
+firefox-desktop-download-interrupted = ההורדה שלך הופסקה, אבל לא הכל אבוד.

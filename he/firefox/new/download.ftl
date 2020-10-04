@@ -34,6 +34,7 @@ firefox-new-advanced-install-options-heading = אפשרויות התקנה מת�
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = מערכת ההפעלה המשמשת אותך אינה מאובטחת ואינה בתוקף, לפיכך <a href="{ $url }">אינה נתמכת עוד על־ידי { -brand-name-firefox }</a>.
@@ -42,3 +43,5 @@ firefox-new-youre-using-an-insecure-outdated = מערכת ההפעלה המשמ�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>.
 firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } הוא יותר מדפדפן.
+firefox-new-download-interrupted = ההורדה שלך הופסקה. אבל לא הכל אבוד.
+firefox-new-windows-10 = { -brand-name-windows } 10

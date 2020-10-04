@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
 
 whatsnew-page-title = מה חדש ב־{ -brand-name-firefox } - יותר פרטיות, יותר הגנות.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = ברכותינו! { -brand-name-firefox-browser(case: "the") } שברשותך הוא העדכני ביותר.
 whatsnew-out-of-date-notification = זמינה גרסה חדשה יותר של { -brand-name-firefox-browser(case: "the") } שברשותך. יש להפעיל מחדש כדי לעדכן.
 # Variables:

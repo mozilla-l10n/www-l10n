@@ -9,10 +9,9 @@
 welcome-page4-download-the-firefox-browser = הורדת ה{ -brand-name-firefox-browser(case: "a") } לנייד שלך עבור { -brand-name-ios } ו־{ -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = ארנק. מפתחות. טלפון. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = קחו עמכם פרטיות לכל מכשיר — והשאירו מאחור את רכיבי מעקב הנתונים.
-welcome-page4-get-the-firefox-app = קבלת היישומון { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = קבלת { -brand-name-firefox } לטלפון שלך
 welcome-page4-send-the-download-link-right = שליחת קישור ההורדה ישירות לטלפון או הדוא״ל שלך.
-welcome-page4-download-firefox-for-your = הורדת { -brand-name-firefox } לטלפון החכם למחשב הלוח שלך.
+welcome-page4-download-firefox-for-your = הורדת { -brand-name-firefox } לטלפון החכם ולמחשב הלוח שלך.
 welcome-page4-firefox-private-safe-browser = “‏{ -brand-name-firefox }: דפדפן פרטי ובטוח” ב־{ -brand-name-ios } או { -brand-name-android }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.

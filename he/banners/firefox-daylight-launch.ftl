@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 banner-firefox-daylight-launch-title = גאים להציג את הגרסה העדכנית ביותר שלנו של { -brand-name-firefox } עבור { -brand-name-android } — ‏{ -brand-name-firefox-daylight }.
+banner-firefox-daylight-launch-button = הורדה
