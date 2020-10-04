@@ -18,3 +18,4 @@ whatsnew80-the-average-person = Ο μέσος χρήστης έχει 130 δια
 whatsnew80-privacy-you-never = Αδιαπραγμάτευτο απόρρητο
 whatsnew80-firefox-for-mobile = Το { -brand-name-firefox } για κινητά αποκλείει αυτόματα τους περισσότερους ιχνηλάτες διαφημίσεων, ώστε να μην χρειαστεί να ασχοληθείτε με τις ρυθμίσεις ασφαλείας.
 whatsnew80-new-firefox-android = Νέο { -brand-name-firefox } για { -brand-name-android }
+whatsnew80-our-latest-version = Η τελευταία έκδοση του { -brand-name-firefox } προσφέρει αστραπιαία φόρτωση σελίδων και ένα νέο σχεδιασμό που διευκολύνει και επιταχύνει την εκτέλεση των εργασιών σας.
