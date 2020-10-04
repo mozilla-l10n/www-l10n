@@ -27,6 +27,22 @@ firefox-desktop-download-master-password = Ajtij ewan tzij
 firefox-desktop-download-search-engine-options = Taq rucha'oj ruk'wab'äl kanoxïk
 firefox-desktop-download-bookmarks-manager = Runuk'samajel yaketal
 firefox-desktop-download-sync-across-devices = Sync chi kikojol okisab'äl
+firefox-desktop-download-reader-mode = Sik'inïk rub'anikil
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-share-links = Kekomonïx ximöy
+firefox-desktop-download-protect-your-privacy = Tachajij ri awichinanem
+firefox-desktop-download-private-browsing-mode = Ichinan Okem pa K'amaya'l rub'anikil
+firefox-desktop-download-clear-history = Tiyuj el ri natab'äl
+firefox-desktop-download-automatic-updates = Kiyonil nikik'ëx kiwäch
+firefox-desktop-download-customize-your-browser = Tawichinaj ri akanob'al
+firefox-desktop-download-themes = Taq wachinel
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Ke'axima' ri taq awokisab'al
+firefox-desktop-download-screenshots = Chapoj taq ruwäch
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
