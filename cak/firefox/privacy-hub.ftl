@@ -17,3 +17,5 @@ firefox-privacy-hub-learn-more-about-lockwise = Tetamäx ch'aqa' chik chi kij ri
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Titaq jun yakb'äl
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Tik'ul { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } awichin

@@ -9,7 +9,7 @@
 welcome-page4-download-the-firefox-browser = Taqasaj ri { -brand-name-firefox-browser } pan awoyonib'al richin { -brand-name-ios } chuqa' { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Pispwäq. Jaqb'äl. Oyonib'äl. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Tak'waj awik'in ri awichinanem pa jujun taq okisab'äl — chuqa' kek'oje' kan chawij ri kojqanela' tzij.
-welcome-page4-get-the-firefox-app = Tak'ulu' ri { -brand-name-firefox } Chokoy
+welcome-page4-get-the-firefox-mobile = Tak'ulu' { -brand-name-firefox } Oyonib'äl
 welcome-page4-get-firefox-on-your-phone = Tak'ulu' ri { -brand-name-firefox } pan Awoyonib'al
 welcome-page4-send-the-download-link-right = Tataq' ri ruximoj qasanïk pan awoyonib'al o ataqoya'l.
 welcome-page4-download-firefox-for-your = Taqasaj ri { -brand-name-firefox } chupam ri na'onel awoyonib'al chuqa' chupam ri na'onel akematz'ib'.
