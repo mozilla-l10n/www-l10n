@@ -7,6 +7,7 @@
 
 whatsnew-page-title = Rutzil { -brand-name-firefox } - K'ïy ichinanem, k'ïy chajinem.
 whatsnew-page-description = Tapab'a' awi' chuwäch jun ajk'ayij moloj yeruk'ayij ri atzij chi ke aj rox winäq. Kak'oje' ütz chuqa' pa koloj pa jun k'a'm rik'in jun runa'ob'al ri yatruchajij.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = ¡Yalan ütz! Nawokisaj ri ruk'isib'äl ruwäch { -brand-name-firefox-browser }.
 whatsnew-out-of-date-notification = Wachel jun k'ak'a' ruwäch { -brand-name-firefox-browser }. Tatikirisaj chik richin nak'ëx.
 # Variables:

@@ -9,3 +9,7 @@
 welcome-page8-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
+welcome-page8-try-send = Tatojtob'ej { -brand-name-send }
+welcome-page8-facebook-container = { -brand-name-facebook-container }{ -brand-name-facebook-container }
+welcome-page8-add-facebook-container = Titz'aqatisäx { -brand-name-facebook-container }
+welcome-page8-why-am-i = ¿Aruma nintz'ët re'?
