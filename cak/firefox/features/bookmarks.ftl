@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Tawichinaj ri yaketal
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Futz rik'in la yaketal la'
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Tatojtob'ej ri jikïl asamaj rik'in jujun <a href="{ $url }">tz'aqat</a> ri yatikïr nach'öb', achi'el ri taq anin tz'aqät ruxaq k'a achi'el ri rajxikin anin jaloj chuqa' ri eq'aton ichinan taq yaketal.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
