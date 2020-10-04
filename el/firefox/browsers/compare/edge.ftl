@@ -15,3 +15,5 @@ compare-edge-with-windows-10-microsoft-introduced = Με τα { -brand-name-wind
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = Η <a { $attrs }>Προστασία απορρήτου</a> εμφανίζει τους ιχνηλάτες και τα cookies που προσπαθούν να αφήσουν οι σελίδες, καθώς και πόσα έχει αποκλείσει το { -brand-name-firefox }.
+compare-edge-with-internet-explorer-microsoft = Με το { -brand-name-ie }, η { -brand-name-microsoft } έμαθε από την έλλειψη της διαθεσιμότητας σε όλες τις πλατφόρμες και διέθεσε το { -brand-name-edge } στο { -brand-name-ios }, το { -brand-name-android }, τα { -brand-name-windows }, το { -brand-name-mac } και, σύντομα, το { -brand-name-linux }.
+compare-edge-with-internet-explorer-fallback = Με το { -brand-name-ie }, η { -brand-name-microsoft } έμαθε από την έλλειψη της διαθεσιμότητας σε όλες τις πλατφόρμες και διέθεσε το { -brand-name-edge } στο { -brand-name-mac } και το { -brand-name-android }. Το λογισμικό είναι πλέον διαθέσιμο στο { -brand-name-ios }, το { -brand-name-android }, τα { -brand-name-windows } και το { -brand-name-mac }.
