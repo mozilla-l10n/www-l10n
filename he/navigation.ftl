@@ -31,6 +31,8 @@ navigation-make-the-most-of-your = נצלו את המיטב מחווית ה־{ -
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = ‏{ -brand-name-firefox }, נבנה בדיוק עבור מפתחים.
+navigation-firefox-playground = מגרש המשחקים של { -brand-name-firefox }
+navigation-mozilla-open-source-support = התמיכה של { -brand-name-mozilla } בקוד פתוח (MOSS)
 navigation-menu = תפריט
 navigation-check-out-the-benefits = בדקו את היתרונות
 navigation-browsers = דפדפנים
@@ -64,6 +66,7 @@ navigation-machine-learning = למידת מכונה
 navigation-web-of-things-iot = רשת הדברים (IoT)
 navigation-developers = מפתחים
 navigation-close-developers-menu = סגירת תפריט המפתחים
+navigation-mixed-reality = מציאות מעורבת
 navigation-resources = משאבים
 navigation-developer-blog = בלוג למפתחים
 navigation-press-center = מרכז עיתונות

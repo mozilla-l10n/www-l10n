@@ -24,6 +24,7 @@ firefox-home-get-the-browser-extension = קבלת הרחבת הדפדפן
 firefox-home-get-the-facebook-container = קבלת ההרחבה { -brand-name-facebook-container }
 firefox-home-download-the-browser = הורדת הדפדפן
 firefox-home-download-the-app = הורדת היישומון
+firefox-home-desktop = שולחן עבודה
 firefox-home-browsers = דפדפנים
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }

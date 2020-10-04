@@ -15,6 +15,7 @@ firefox-desktop-download-og-desc = טעינת דפים מהירה יותר, פח
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "a") }
 firefox-desktop-download-download-options = אפשרויות הורדה ושפות אחרות
 firefox-desktop-download-browser-support = תמיכה ב{ -brand-name-firefox-browser(case: "a") }
+firefox-desktop-download-compare-firefox-to = השוואת { -brand-name-firefox } מול:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
