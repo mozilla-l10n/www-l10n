@@ -18,6 +18,8 @@ contribute-how-heading = Πώς μπορείτε να συνεισφέρετε�
 contribute-tag-non-technical = Μη τεχνικά
 contribute-tag-technical = Τεχνικά
 contribute-tag-technical-non-technical = Τεχνικά και μη τεχνικά
+contribute-tag-individual-event = Ατομικά και οργάνωση εκδηλώσεων
+contribute-tag-individual = Ατομικά
 contribute-tag-support = Υποστήριξη
 contribute-task-translate-heading = Μετάφραση περιεχομένου
 contribute-task-mozilla-codebase-heading = Συνεισφορά στη βάση κώδικα της { -brand-name-mozilla }
@@ -26,6 +28,7 @@ contribute-task-join-heading = Συμμετοχή στην κοινότητα
 ## Mission
 
 contribute-mission-heading = Η αποστολή μας
+contribute-mission-desc = Αποστολή μας είναι να εξασφαλίσουμε πως το διαδίκτυο είναι ένας παγκόσμιος, δημόσιος πόρος, που είναι ανοιχτός και διαθέσιμος σε όλους. Ένα διαδίκτυο που βάζει πάνω από όλα τους ανθρώπους, που ο καθένας μπορεί να καταθέτει τη δική του εμπειρία και να νιώθει δυνατός, ασφαλής και ανεξάρτητος.
 contribute-learn = Μάθετε για τη { -brand-name-mozilla }
 contribute-read-manifesto = Διαβάστε τη διακήρυξή μας
 contribute-find-event = Βρείτε μια εκδήλωση
@@ -50,4 +53,5 @@ contribute-mozilla-support = Υποστήριξη { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Προβλήματα με κάποια ιστοσελίδα;
+contribute-web-compat-desc = Εάν συναντήσετε διαφορές μεταξύ των προγραμμάτων περιήγησης για μια ιστοσελίδα, τότε ενδέχεται να έχετε ανακαλύψει ένα πρόβλημα συμβατότητας. Θα θέλαμε πολύ να το μάθουμε!
 contribute-report-issue = Αναφορά ζητήματος
