@@ -14,8 +14,14 @@ welcome-page1-youre-on-track-to-stay-protected = Είστε σε καλό δρό
 welcome-page1-youve-got-the-web-browser = Έχετε το πρόγραμμα περιήγησης που προστατεύει το απόρρητό σας — τώρα σας προστατεύει και από hackers.
 welcome-page1-check-your-breach-report = Έλεγχος αναφοράς παραβιάσεων
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = Το { -brand-name-firefox-monitor } εμφανίζει αν οι πληροφορίες σας έχουν διαρρεύσει σε κάποια γνωστή παραβίαση δεδομένων και σας ειδοποιεί σε περίπτωση που συμβεί στο μέλλον.
 welcome-page1-stay-ahead-of-hackers = Μείνετε μακριά από hackers
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
 welcome-page1-find-ways-to-protect-your = Προστατέψετε τις πληροφορίες σας με τις <a href="{ $security_tips }">συμβουλές ασφαλείας του { -brand-name-monitor }</a>.
+welcome-page1-stay-in-the-know = Μείνετε ενημερωμένοι
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Ήσασταν ένας από τους 100.985.047 προσκεκλημένους στο <a href="{ $evite_breach }">"πάρτυ" παραβίασης δεδομένων Evite</a>;
 welcome-page1-why-am-i-seeing-this = Γιατί το βλέπω αυτό;
