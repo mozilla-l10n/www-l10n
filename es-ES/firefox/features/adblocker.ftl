@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Cookies no, gracias
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Las páginas web que visitas te mandan <a href="{ $url }">cookies</a>. Se acomodan en tu ordenador y controlan lo que has estado haciendo en esa página. Cuando una aerolínea sube sus tarifas porque ese mismo día has estado mirando billetes de avión, no es casualidad: es obra de una cookie.
 features-adblocker-in-firefox-you-can-block = En { -brand-name-firefox }, puedes bloquear todas las cookies de terceros o solo las que establecen los rastreadores. Ten en cuenta que bloquear todas las cookies puede provocar que algunas páginas no funcionen bien.
-features-adblocker-send-a-do-not-track-signal = Enviar una señal de No rastrear
+features-adblocker-send-a-do-not-track-signal = Enviar una señal de no rastrear
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Si no quieres que se use tu comportamiento en línea para determinar los anuncios que ves, puedes decírselo amablemente a las páginas web mediante la opción <a href="{ $url }">No rastrear</a> de { -brand-name-firefox }. Es voluntario, pero las páginas web que estén incluidas dejarán de rastrearte de inmediato.
