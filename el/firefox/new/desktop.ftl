@@ -11,6 +11,7 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Λήψη του { -brand-name-firefox-browser } — Γρήγορο, ιδιωτικό & δωρεάν — από τη { -brand-name-mozilla }
 firefox-desktop-download-og-title = Κάντε λήψη του πιο γρήγορου { -brand-name-firefox }
+firefox-desktop-download-og-desc = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } είναι εδώ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Ο φυλλομετρητής που φυλάσσει ό,τι είναι σημαντικό
 # shady is slang which suggests something is untrustworthy
@@ -148,6 +149,8 @@ firefox-desktop-download-now-mac = <strong>Ανοίξτε</strong> το αρχε
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Έχετε προβλήματα; <a { $attrs }>Λάβετε βοήθεια με την εγκατάστασή σας</a>.
 firefox-desktop-download-in-another-language = Λήψη σε άλλη γλώσσα ή για άλλο λειτουργικό σύστημα.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = Επισκεφτείτε την Υποστήριξη για περισσότερες λεπτομέρειες
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = Η { -brand-name-mozilla } <a href="{ $url }">δεν παρέχει πλέον ενημερώσεις ασφαλείας</a> στα { -brand-name-windows } { -brand-name-xp } ή στα { -brand-name-vista }, αλλά μπορείτε ακόμα να χρησιμοποιήσετε το { -brand-name-firefox }.

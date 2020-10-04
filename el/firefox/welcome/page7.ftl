@@ -13,6 +13,7 @@ page7-get-facebook-container = Λήψη του { -brand-name-facebook-container 
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Λειτουργεί στο Instagram
 page7-facebook-container-also-works = Το { -brand-name-facebook-container } λειτουργεί και σε άλλες ιστοσελίδες του { -brand-name-facebook }, όπως τα { -brand-name-instagram }, { -brand-name-facebook-messenger } και { -brand-name-workplace }.
+page7-make-them-unfollow-you = Αναγκάστε τα να μην σας ακολουθούν
 page7-that-sneaky-little-button = Αυτό το ύπουλο μικρό κουμπί
 page7-those-innocent-looking-f-buttons = Αυτά τα, φαινομενικά, αθώα κουμπιά του { -brand-name-facebook } καταγράφουν τη δραστηριότητά σας, ακόμα κι αν δεν έχετε λογαριασμό. Το { -brand-name-facebook-container } τα αποκλείει.
 page7-stay-ahead-of-hackers = Μείνετε μακριά από hackers
