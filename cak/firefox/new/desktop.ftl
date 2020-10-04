@@ -43,6 +43,26 @@ firefox-desktop-download-screenshots = Chapoj taq ruwäch
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
+firefox-desktop-download-get-more-from-firefox = Tik'ul Ch'aqa' Chik Richin { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Xa Xe Tiqasäx Ri Okik'amaya'l
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Nawokisaj jun ojer chuqa' man ütz ta samajel q'inoj <a href="{ $url }">ri man nuk'ül ta chik ruk'exoj { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Ruyonil xtutikirisaj ri aqasanik. ¿La man nub'än ta? <a id="{ $id }" href="{ $fallback_url }">Titojtob'ëx niqasäx chik.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } man choj ta jun okik'amaya'l.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Tab'ana' utzil ke'awoqaj <a href="{ $url }">re taq k'utunem</a> richin niyak ri { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Ri aq'inoj rik'in jub'a' man nuq'i' ta ri taq rajowaxik { -brand-name-firefox }, chuqa' ütz nitikirisäx nitojtob'ëx jun chi ke re <a href="{ $url }"> taq ruwäch re'</a>.
