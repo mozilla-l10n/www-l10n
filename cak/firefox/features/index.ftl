@@ -18,3 +18,6 @@ features-index-by-non-profit-mozilla = Majun ch'akoj, { -brand-name-mozilla }
 features-index-choose-independence = Tacha' chi at alajk'aslem
 features-index-opted-in-to-privacy-so-you = Niqacha' ri ichinanem, richin chi jamäl yatok pa k'amaya'l.
 features-index-read-our-privacy-policy = Tasik'ij ri runa'ojil qichinanem
+features-index-enhanced-tracking = Utzirisan Chajinïk chuwäch ojqanem
+features-index-we-dont-sell-access-to-your = Man nik'ayij ta richin ye'ok chupam ri taq atzij pa k'amab'ey. Ruq'ijul.
+features-index-get-firefox-for-privacy = Tak'ulu' { -brand-name-firefox } richin ichinanem
