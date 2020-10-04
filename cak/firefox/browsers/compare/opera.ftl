@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } chuwäch { -brand-name-opera }: ¿Achike ri yalan ütz?
+# HTML page description
+compare-opera-compare-opera-to-the-firefox = Tajunamaj { -brand-name-opera } rik'in ri { -brand-name-firefox-browser } richin natz'ët achike ri ütz awokik'amaya'l.
