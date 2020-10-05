@@ -42,6 +42,8 @@ compare-shared-utility-strong = <strong>გამოსადეგი</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>მოქნილი</strong>
 compare-shared-overall-assessment = საერთო შეფასება
+compare-shared-the-comparisons-made-here-updated = აქ მოყვანილი შედარებები გაკეთდა, საწყისი პარამეტრებით გამართული ბრაუზერების შემდეგ გამოშვებებზე:
+# Obsolete string
 compare-shared-the-comparisons-made-here = აქ მოყვანილი შედარებები გაკეთდა ბრაუზერების შემდეგ გამოშვებებზე:
 compare-shared-this-page-updated-semi-quarterly = ეს გვერდი ახლდება სამ თვეში ორჯერ, იმ დროისთვის უახლესი ვერსიების აღწერით და შესაძლოა ყოველთვის ვერ მოიცავდეს, ბოლო სიახლეებს.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
