@@ -36,6 +36,7 @@ contribute-find-event = Найти событие
 contribute-donate = Пожертвуйте
 contribute-help-fund = Помогите финансировать нашу миссию
 contribute-follow-mozilla = Подпишитесь на { -brand-name-mozilla }
+contribute-opportunities = Новости и возможности для волонтеров
 
 ## Made by
 
