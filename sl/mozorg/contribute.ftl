@@ -20,8 +20,10 @@ contribute-task-join-heading = Pridružite se skupnosti
 ## Mission
 
 contribute-mission-heading = Naše poslanstvo
+contribute-mission-desc = Naše poslanstvo je zagotavljanje, da je internet globalni javni vir, odprt in dostopen vsem. Da posameznika resnično postavlja na prvo mesto, mu omogoča oblikovanje lastne izkušnje, ter mu daje moč, varnost in neodvisnost.
 contribute-read-manifesto = Preberite naš manifest
 contribute-find-event = Poiščite dogodek
+contribute-meet-volunteers = Spoznajte naše predane prostovoljce
 
 ## Made by
 

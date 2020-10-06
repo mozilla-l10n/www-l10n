@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Prenesite mobilni brskalnik { -brand-name-firefox-browser } za { -brand-name-ios } ali { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Denarnica. Ključi. Telefon. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-privacy-every-screen-now = Zagotovite si zasebnost na vseh zaslonih
 welcome-page4-take-privacy-with-you-on-every = Vzemite zasebnost s seboj na vsako napravo — in pustite sledilce podatkov za seboj.
 welcome-page4-get-the-firefox-mobile = Prenesite mobilni { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Prenesite { -brand-name-firefox } na svoj telefon
@@ -23,5 +24,6 @@ welcome-page4-enhanced-tracking-protection = Izboljšana zaščita pred sledenje
 welcome-page4-leave-no-trace = Ne puščajte sledi
 welcome-page4-automatically-clear-your-history = Samodejno počistite zgodovino in piškotke z načinom zasebnega brskanja.
 welcome-page4-take-it-all-with-you = Vzemite vse s seboj
+welcome-page4-more-done-fast-smart = Naredite več z bliskovitim nalaganjem strani in pametnimi predlogi iskanja.
 welcome-page4-dont-walk-out-the-door-without = Ne zapuščajte svojega doma brez zaznamkov, zavihkov, beležk in gesel.
 welcome-page4-why-am-i-seeing-this = Zakaj vidim to?

@@ -37,6 +37,9 @@ firefox-desktop-download-all-your-devices = Prenesite { -brand-name-firefox } za
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Delajte <strong>vse</strong> s { -brand-name-firefox }om
 firefox-desktop-download-search-smarter = Iščite pametneje in hitreje
+firefox-desktop-download-search-from-address = Iskanje v naslovni vrstici
+firefox-desktop-download-search-engine-options = Možnosti iskalnika
+firefox-desktop-download-smart-search-suggestions = Pametni predlogi iskanja
 firefox-desktop-download-built-in-screenshot = Vgrajeno orodje za posnetke zaslona
 firefox-desktop-download-bookmarks-manager = Upravitelj zaznamkov
 firefox-desktop-download-autosuggest-urls = Samodejno predlaganje spletnih naslovov
@@ -46,6 +49,7 @@ firefox-desktop-download-spell-check = Preverjanje črkovanja
 firefox-desktop-download-pinned-tabs = Pripeti zavihki
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Slika v sliki
+firefox-desktop-download-share-links = Deljenje povezav
 firefox-desktop-download-protect-your-privacy = Zaščitite svojo zasebnost
 firefox-desktop-download-third-party-cookie = Zavračanje piškotkov tretjih strani
 firefox-desktop-download-fingerprinter-blocking = Zavračanje sledilcev prstnih odtisov
@@ -53,6 +57,7 @@ firefox-desktop-download-cryptominer-blocking = Zavračanje kriptorudarjev
 firefox-desktop-download-private-browsing-mode = Način zasebnega brskanja
 firefox-desktop-download-individual-protections-report = Poročila posameznih zaščit
 firefox-desktop-download-secure-your-personal = Zaščitite svoje osebne podatke
+firefox-desktop-download-breached-website-alerts = Opozorila o ogroženih spletnih straneh
 firefox-desktop-download-built-in-password = Vgrajen upravitelj gesel
 firefox-desktop-download-form-autofill = Samodejno izpolnjevanje obrazcev
 firefox-desktop-download-automatic-updates = Samodejne posodobitve
@@ -87,6 +92,8 @@ firefox-desktop-download-just-download-the-browser = Samo prenesite brskalnik
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Še malo!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Zdaj dokončajte <strong>namestitev</strong> { -brand-name-firefox }a.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = Zdaj <strong>zaženite</strong> namestitveni program, ki ste ga prenesli.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
