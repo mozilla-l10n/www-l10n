@@ -25,10 +25,15 @@ features-adblocker-create-a-tracker-free = Απαλλαχθείτε από ιχ�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Στο { -brand-name-firefox }, μπορείτε να χρησιμοποιήσετε τις ρυθμίσεις <a href="{ $privacy }">απορρήτου</a> ή <a href="{ $blocking }">φραγής περιεχομένου</a> για να αποκτήσετε ακόμη περισσότερο έλεγχο όσον αφορά τους ιχνηλάτες διαφημίσεων.
 features-adblocker-choose-your-level-of-protection = Επιλέξτε το επίπεδο προστασίας σας
+features-adblocker-to-start-click-on-the = Για να ξεκινήσετε, κάντε κλικ στο μενού του { -brand-name-firefox } στην πάνω δεξιά γωνία της οθόνης σας. Είναι τρεις γραμμές, η μία πάνω στην άλλη. Στο αναδιπλούμενο μενού, κάντε κλικ στο "Φραγή περιεχομένου". Θα δείτε ένα μπλε αναδυόμενο με διαφορετικές επιλογές.
 features-adblocker-go-easy-with-standard = Ήπια φραγή με την Τυπική λειτουργία
 features-adblocker-get-tough-with-strict = Επιθετική φραγή με την Αυστηρή λειτουργία
+features-adblocker-if-seeing-too-many-ads = Αν οι πολλές διαφημίσεις σας χαλούν την ημέρα, η Αυστηρή λειτουργία είναι κατάλληλη. Αυτή η λειτουργία θα αποκλείσει γνωστούς ιχνηλάτες και cookies τρίτων σε όλα τα παράθυρα του { -brand-name-firefox }.
 features-adblocker-take-a-bite-out-of-cookies = "Δαγκώστε" τα cookies
 features-adblocker-in-firefox-you-can-block = Στο { -brand-name-firefox }, μπορείτε να αποκλείσετε όλα τα cookies τρίτων ή μόνο τα cookies ιχνηλατών. Σημειώστε ότι η φραγή όλων των cookies μπορεί να προκαλέσει δυσλειτουργίες ιστοσελίδων.
 features-adblocker-send-a-do-not-track-signal = Αίτημα για αποτροπή καταγραφής
 features-adblocker-speed-up-thanks-to-ad = Επιτάχυνση μέσω φραγής διαφημίσεων
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more = Αν θέλετε να μάθετε περισσότερα σχετικά με τη φραγή διαφημίσεων, υπάρχουν εκατοντάδες επεκτάσεις φραγής διαφημίσεων για το { -brand-name-firefox } και άλλα προγράμματα περιήγησης. Αν θέλετε να δοκιμάσετε τα πρόσθετα φραγής διαφημίσεων που χρησιμοποιεί το { -brand-name-firefox }, <a href="{ $url }">κάντε κλικ εδώ για λήψη</a> του προγράμματος περιήγησης που δίνει προτεραιότητα στο απόρρητο.
 features-adblocker-take-control-of-your-browser = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.
