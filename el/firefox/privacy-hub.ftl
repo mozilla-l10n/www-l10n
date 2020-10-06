@@ -68,6 +68,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Τα στοιχεία σύνδεσης που αποθηκεύετε στο { -brand-name-firefox-lockwise } κρυπτογραφούνται σε όλες τις συσκευές σας, οπότε ούτε εμείς μπορούμε να τα δούμε.
 firefox-privacy-hub-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Δεν μπορούμε να δούμε τα ονόματα ή το περιεχόμενο των μεγάλων αρχείων που μοιράζεστε μέσω του { -brand-name-firefox-send } καθώς είναι κρυπτογραφημένα από άκρο σε άκρο — εσείς επιλέγετε ποιος βλέπει ό,τι στέλνετε, ενώ μπορείτε ακόμη και να ορίσετε μια ημερομηνία λήξης και έναν κωδικό πρόσβασης.
 firefox-privacy-hub-send-a-file = Αποστολή αρχείου
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = Το { -brand-name-pocket } προτείνει υψηλής ποιότητας άρθρα χωρίς να συλλέγει το ιστορικό περιήγησής σας ή να κοινοποιεί τις προσωπικές σας πληροφορίες σε διαφημιστές.

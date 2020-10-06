@@ -6,8 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
 firefox-mobile-download-the-firefox-browser = Κάντε λήψη του { -brand-name-firefox-browser } στην κινητή σας συσκευή με { -brand-name-ios } και { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = Το { -brand-name-firefox-browser } για κινητά αποκλείει πάνω από 2000 ιχνηλάτες από προεπιλογή, δίνοντάς σας το απόρρητο που σας αξίζει και την ταχύτητα που χρειάζεστε σε ένα ιδιωτικό πρόγραμμα περιήγησης για κινητά.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-the-mobile-browser-built = Αποκτήστε το πρόγραμμα περιήγησης για κινητά που δημιουργήθηκε για εσάς, όχι τους διαφημιστές
+firefox-mobile-check-out-firefox-again-its = Δείτε ξανά το { -brand-name-firefox }. Είναι γρήγορο, ιδιωτικό και πάντα στο πλευρό σας. Για { -brand-name-ios } και { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Αυτόματες ρυθμίσεις απορρήτου σε κινητά
 firefox-mobile-super-fast-private-by-default = Ταχύτατο. Ιδιωτικό από προεπιλογή. Φραγή 2000+ ιχνηλατών.
 firefox-mobile-get-firefox-mobile = Λήψη του { -brand-name-firefox } για κινητά
@@ -25,6 +28,7 @@ firefox-mobile-discover-products-that-keep = Ανακαλύψτε προϊόντ
 firefox-mobile-sync-your-history-passwords = Συγχρονίστε το ιστορικό, τους κωδικούς πρόσβασης και τους σελιδοδείκτες σας. Στείλτε καρτέλες σε όλες τις συσκευές σας.
 firefox-mobile-android-only = Μόνο για { -brand-name-android }
 firefox-mobile-make-android-your-own = Κάντε το { -brand-name-android } δικό σας
+firefox-mobile-customize-your-firefox-mobile-truncated = Προσαρμόστε το { -brand-name-firefox } για κινητά με τις επεκτάσεις.
 firefox-mobile-find-it-fast-with-a-smart = Γρήγορη εύρεση με μια έξυπνη γραμμή αναζήτησης
 firefox-mobile-firefox-anticipates-your-needs = Το { -brand-name-firefox } προβλέπει τις ανάγκες σας με έξυπνες προτάσεις αναζήτησης και γρήγορη πρόσβαση σε ιστοσελίδες που επισκέπτεστε περισσότερο.
 firefox-mobile-the-privacy-you-deserve-the = Το απόρρητο που αξίζετε. Η ταχύτητα που χρειάζεστε.
