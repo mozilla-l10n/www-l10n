@@ -14,6 +14,7 @@ navigation-firefox-browser-for-enterprise = एंटरप्राइज क�
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } के लिए { -brand-name-firefox }
 navigation-watch-videos-and-browse = अपने { -brand-name-amazon } { -brand-name-fire-tv } पर वीडियो देखें और इंटरनेट ब्राउज़ करें।
 navigation-firefox-browsers-put = { -brand-name-firefox } ब्राउज़र आपकी गोपनीयता को सबसे पहले रखता है — और हमेशा रखते आया है।
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } प्रोडक्ट का एक पूरा परिवार है जो आपको सुरक्षित रखने और ऑनलाइन स्मार्ट बनाने के लिए डिज़ाइन किया गया है।
 navigation-join-firefox = { -brand-name-firefox } में शामिल हों
 navigation-meet-the-firefox-family = { -brand-name-firefox } परिवार से मिलें
@@ -25,7 +26,9 @@ navigation-get-firefox = { -brand-name-firefox } पाएँ
 navigation-get-firefox-focus = { -brand-name-firefox-focus } पाएँ
 navigation-android-extensions = { -brand-name-android } एक्सटेंशन्स
 navigation-your-firefox-account = आपका { -brand-name-firefox-account }
+# Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox } के काम करने के तरीके को अनुकूलित करना सीखें।
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }, सिर्फ डेवलपर्स के लिए बनाया गया.
 navigation-firefox-playground = { -brand-name-firefox } प्लेग्राउंड
@@ -51,9 +54,12 @@ navigation-close-about-menu = परिचय मेन्यू बंद क�
 navigation-meet-the-technology-company = उस प्रौद्योगिकी कंपनी से मिलें जो लोगों को लाभ से पहले रखती है।
 navigation-new-features = नई विशेषताएँ
 navigation-save-content-absorb-knowledge = सामग्री सहेजें। ज्ञान प्राप्त करें।
+# Outdated string
 navigation-add-ons = ऐड-ऑन
 navigation-projects = परियोजनाएँ
 navigation-close-projects-menu = परियोजना मेन्यू बंद करें
+navigation-machine-learning = मशीन लर्निंग
+# Outdated string
 navigation-web-of-things-iot = वेब ऑफ़ थिंग्स (IoT)
 navigation-developers = डेवलपर
 navigation-close-developers-menu = डेवलपर मेनू बंद करें
