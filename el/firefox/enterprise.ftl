@@ -21,6 +21,7 @@ firefox-enterprise-your-data-stays-your-business = Τα δεδομένα σας 
 firefox-enterprise-deploy-when-and-how-you-want = Προετοιμασία όπου και όπως θέλετε
 firefox-enterprise-with-install-packages-and = Με πακέτα εγκατάστασης και μια μεγάλη ποικιλία πολιτικών ομάδων και λειτουργιών, η προετοιμασία είναι ταχύτερη και πιο ευέλικτη από ποτέ — σε περιβάλλοντα { -brand-name-windows } και { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Επιλέξτε το ρυθμό νέων εκδόσεων
+firefox-enterprise-get-rapid-releases-to-make = Αποκτήστε την έκδοση ταχείας κυκλοφορίας για να έχετε άμεσα τις πιο πρόσφατες δυνατότητες, ή την έκδοση εκτεταμένης υποστήριξης για την πιο σταθερή εμπειρία χρήσης.
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }

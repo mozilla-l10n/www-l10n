@@ -42,6 +42,7 @@ navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσ�
 navigation-explore-the-immersive = Εξερευνήστε το εμβυθιστικό διαδίκτυο στη δική σας συσκευή εικονικής πραγματικότητας.
 # Outdated string
 navigation-experience-augmented = Ζήστε την επαυξημένη και εικονική πραγματικότητα με το { -brand-name-firefox }.
+navigation-get-together = Συγκεντρωθείτε στην εικονική πραγματικότητα με αυτό το διαδικτυακό κοινωνικό χώρο.
 # Outdated string
 navigation-meet-people-in-experimental = Γνωρίστε άτομα σε πειραματικές συνομιλίες μεικτής πραγματικότητας με το { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
@@ -70,9 +71,11 @@ navigation-see-if-your-personal = Δείτε αν τα προσωπικά σας
 navigation-check-for-breaches = Έλεγχος για παραβιάσεις
 navigation-see-breaches = Προβολή παραβιάσεων
 navigation-security-tips = Συμβουλές ασφαλείας
+navigation-share-large-files-safely = Κοινή χρήση μεγάλων αρχείων με ασφάλεια, με συνδέσμους που ‘αυτοκαταστρέφονται’.
 navigation-save-quality-content = Αποθηκεύστε ποιοτικό περιεχόμενο από οπουδήποτε. Βρείτε τροφή για σκέψη παντού.
 navigation-sign-up = Εγγραφή
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Γρήγορο. Απλό. Ιδιωτικό.
+navigation-protect-your-entire-device = Προστατέψτε τη συσκευή και όλες σας τις εφαρμογές. Κρύψτε την αληθινή σας τοποθεσία και συνδέστε έως 5 συσκευές. Εγγραφείτε τώρα.
 # Outdated string
 navigation-connected-and-protected = Σε σύνδεση και υπό προστασία
 navigation-join = Συμμετοχή
@@ -94,6 +97,7 @@ navigation-donate-your-voice-to = Δωρίστε τη φωνή σας για ν�
 navigation-machine-learning = Μηχανική μάθηση
 # Outdated string
 navigation-web-of-things-iot = Διαδίκτυο των πραγμάτων (IoT)
+navigation-help-make-deep-learning = Βοηθήστε μας να διαθέσουμε αλγόριθμους εκμάθησης σε βάθος, στον κόσμο του ανοικτού κώδικα.
 # Outdated string
 navigation-make-devices-connected = Κάντε τις συσκευές που συνδέονται στο διαδίκτυο ασφαλείς και διαλειτουργικές.
 navigation-developers = Προγραμματιστές

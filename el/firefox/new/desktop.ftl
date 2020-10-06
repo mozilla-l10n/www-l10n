@@ -35,6 +35,7 @@ firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών 
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
+firefox-desktop-download-primary-password = Κύριος κωδικός πρόσβασης
 # Obsolete string
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-download-we-block-the-ad = Φραγή ιχνηλατών διαφημίσεων. Ταχύτερη εξερεύνηση του ιστού.
@@ -135,12 +136,16 @@ firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Έχετε ήδη το πρόγραμμα περιήγησης. Ωφεληθείτε ακόμη περισσότερο από το { -brand-name-firefox }.
 firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Σχεδόν τελειώσατε!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Ολοκληρώστε τώρα την <strong>εγκατάσταση</strong> του { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = <strong>Εκτελέστε</strong> το πρόγραμμα εγκατάστασης που μόλις αποθηκεύσατε.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
