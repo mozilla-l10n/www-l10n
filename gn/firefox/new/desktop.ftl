@@ -151,6 +151,9 @@ firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nombohekopyahuvéima tekorosã</a> { -brand-name-windows }-pe { -brand-name-windows } térã { -brand-name-vista }, hákatu eipurukuaa gueteri { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
