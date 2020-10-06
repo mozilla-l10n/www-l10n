@@ -36,3 +36,4 @@ firefox-new-just-download-the-browser = बस ब्राउज़र डा�
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } एक ब्राउज़र से ज़्यादा है।
 firefox-new-its-privacy-and-peace-of = <strong>गोपनीयता और मन की शांति</strong> मोबाइल पर, भी है।
+firefox-new-windows-10 = { -brand-name-windows } 10

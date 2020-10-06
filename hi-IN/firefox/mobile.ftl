@@ -24,3 +24,4 @@ firefox-mobile-the-privacy-you-deserve-the = जिस निजता के �
 firefox-mobile-get-firefox-for-mobile = मोबाइल के लिए { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = अपने फोन पर एक डाउनलोड लिंक भेजें।
 firefox-mobile-scan-the-qr-code-to-get-started = शुरू करने के लिए QR कोड को स्कैन करें
+firefox-mobile-scan-alt-text = मोबाइल पर { -brand-name-firefox } पाने के लिए QR कोड स्कैन करें
