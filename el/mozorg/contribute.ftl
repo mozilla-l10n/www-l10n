@@ -40,6 +40,7 @@ contribute-opportunities = Ειδήσεις και ευκαιρίες εθελο
 
 ## Made by
 
+contribute-made-by-heading = Από παθιασμένους ανθρώπους σαν εσάς
 
 ## Newsletter
 

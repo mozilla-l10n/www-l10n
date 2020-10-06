@@ -9,6 +9,10 @@ features-adblocker-how-to-block-annoying = Μάθετε πώς να αποκλε
 features-adblocker-the-ad-blocker-a-secret = Πρόσθετα φραγής – ένα μυστικό όπλο κατά των διαφημίσεων.
 features-adblocker-so-many-ads-so-little = Πολλές διαφημίσεις, λίγη υπομονή… Καιρός να σταματήσει αυτή η τρέλα.
 features-adblocker-the-average-person-sees = Ο μέσος χρήστης βλέπει κατά μέσο όρο 4.000 διαφημίσεις την ημέρα. Εάν πιστεύετε ότι είναι πάρα πολλές, ένα πρόσθετο φραγής διαφημίσεων θα γίνει ο νέος καλύτερος φίλος σας.
+features-adblocker-find-the-right-ad-blocker = Βρείτε το κατάλληλο πρόσθετο για εσάς
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
+features-adblocker-theres-adblocker-ultimate = Υπάρχει το <a href="{ $url }">AdBlocker Ultimate</a> που αποκλείει κάθε διαφήμιση. Μερικές από τις αγαπημένες σας εφημερίδες και περιοδικά εξαρτώνται από τις διαφημίσεις. Αν αποκλείουν πάρα πολλοί χρήστες τις διαφημίσεις τους, θα είναι καταστροφικό για τις επιχειρήσεις αυτές.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Οι αναδυόμενες διαφημίσεις είναι οι χειρότερες. Αποκλείστε τα με το <a href="{ $url }">Popup Blocker</a> και δεν θα δείτε ποτέ ξανά κανένα άλλο ενοχλητικό αναδυόμενο παράθυρο.
