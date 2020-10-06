@@ -10,6 +10,10 @@ facebook-container-millions-of-people-around = दुनिया भर मे�
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. बखूबी नियंत्रित. अपने जीवन की बाकी चीजें अपने तक ही रखें.
 facebook-container-get-the-facebook-container = Facebook कंटेनर एक्सटेंशन पायें
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } डाउनलोड करें और Facebook कंटेनर एक्सटेंशन पायें
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = डेस्कटॉप के लिए { -brand-name-firefox } पाने के लिए <a href="{ $url }">{ $link_copy }</a> पर जाएं।
 # Outdated string
 facebook-container-the-facebook-container-extension = Facebook कंटेनर एक्सटेंशन मोबाइल उपकरणों पर उपलब्ध नहीं है.
 facebook-container-get-firefox-android-ios = { -brand-name-android } और { -brand-name-ios } के लिए { -brand-name-firefox } अभी पाएं।

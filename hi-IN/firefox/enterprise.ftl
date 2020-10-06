@@ -17,3 +17,4 @@ firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-
 firefox-enterprise-support = सहयोग
 firefox-enterprise-msi-installers = MSI इंस्टॉलर
 firefox-enterprise-admx-templates = ADMX टेम्पलेट
+firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
