@@ -17,7 +17,9 @@ firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε το <a
 firefox-enterprise-unmatched-data-protection = Ασύγκριτη προστασία δεδομένων — με το ρυθμό εκδόσεων που σας ταιριάζει
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Το πρόγραμμα περιήγησης { -brand-name-firefox } είναι ανοιχτού κώδικα και παρέχει Ενισχυμένη προστασία από καταγραφή — όλα αυτά είναι μέρος της μακροχρόνιας δέσμευσής μας για προστασία δεδομένων.
-firefox-enterprise-your-data-stays-your-business = Τα δεδομένα σας είναι δική σας δουλειά
+firefox-enterprise-your-data-stays-your-business = Τα δεδομένα σας είναι υπόθεσή σας
+firefox-enterprise-deploy-when-and-how-you-want = Προετοιμασία όπου και όπως θέλετε
+firefox-enterprise-with-install-packages-and = Με πακέτα εγκατάστασης και μια μεγάλη ποικιλία πολιτικών ομάδων και λειτουργιών, η προετοιμασία είναι ταχύτερη και πιο ευέλικτη από ποτέ — σε περιβάλλοντα { -brand-name-windows } και { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Επιλέξτε το ρυθμό νέων εκδόσεων
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
