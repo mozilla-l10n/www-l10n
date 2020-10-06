@@ -15,15 +15,18 @@ firefox-browsers-desktop = Υπολογιστές
 firefox-browsers-seriously-private-browsing = Σοβαρή ιδιωτική περιήγηση. Το { -brand-name-firefox } αποκλείει αυτόματα 2000+ ιχνηλάτες που συλλέγουν δεδομένα για τη δραστηριότητά σας στο διαδίκτυο.
 firefox-browsers-download-for-desktop = Λήψη για υπολογιστή
 firefox-browsers-mobile = Κινητές συσκευές
+firefox-browsers-take-the-same-level-of-privacy = Το ίδιο επίπεδο απορρήτου — μαζί με κωδικούς πρόσβασης, ιστορικό αναζήτησης, ανοικτές καρτέλες και πολλά άλλα — όπου κι αν πάτε.
 firefox-browsers-download-for-mobile = Λήψη για κινητή συσκευή
 firefox-browsers-send-me-a-link = Αποστολή συνδέσμου
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = Απαράμιλλη προστασία δεδομένων με προσαρμοσμένους κύκλους υποστήριξης που ταιριάζουν στις ανάγκες της εταιρείας σας.
 firefox-browsers-enterprise-packages = Πακέτα { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Υπερπηδήστε τις δύο διαστάσεις και απολαύστε το καλύτερο εμβυθιστικό περιεχόμενο από όλο το διαδίκτυο.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Ανάπτυξη ιστοσελίδων και βελτίωση κώδικα με το { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Μάθετε περισσότερα για το { -brand-name-devtools }
+firefox-browsers-join-firefox-and-get-the-most = Εγγραφείτε στο { -brand-name-firefox } και αξιοποιήστε στο έπακρο κάθε προϊόν — σε κάθε συσκευή.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
