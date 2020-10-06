@@ -19,7 +19,16 @@ features-adblocker-popup-ads-are-the-worst = Οι αναδυόμενες δια�
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Ένα από τα πιο δημοφιλή πρόσθετα φραγής διαφημίσεων για { -brand-name-chrome }, { -brand-name-safari } και { -brand-name-firefox } είναι το <a href="{ $url }">AdBlock</a>. Χρησιμοποιήστε το για αποκλεισμό διαφημίσεων στο { -brand-name-facebook }, το { -brand-name-youtube } και το { -brand-name-hulu }.
+features-adblocker-create-a-tracker-free = Απαλλαχθείτε από ιχνηλάτες με τη Φραγή περιεχομένου
+# Variables:
+#   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
+#   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
+features-adblocker-on-firefox-you-can-use = Στο { -brand-name-firefox }, μπορείτε να χρησιμοποιήσετε τις ρυθμίσεις <a href="{ $privacy }">απορρήτου</a> ή <a href="{ $blocking }">φραγής περιεχομένου</a> για να αποκτήσετε ακόμη περισσότερο έλεγχο όσον αφορά τους ιχνηλάτες διαφημίσεων.
 features-adblocker-choose-your-level-of-protection = Επιλέξτε το επίπεδο προστασίας σας
+features-adblocker-go-easy-with-standard = Ήπια φραγή με την Τυπική λειτουργία
+features-adblocker-get-tough-with-strict = Επιθετική φραγή με την Αυστηρή λειτουργία
 features-adblocker-take-a-bite-out-of-cookies = "Δαγκώστε" τα cookies
+features-adblocker-in-firefox-you-can-block = Στο { -brand-name-firefox }, μπορείτε να αποκλείσετε όλα τα cookies τρίτων ή μόνο τα cookies ιχνηλατών. Σημειώστε ότι η φραγή όλων των cookies μπορεί να προκαλέσει δυσλειτουργίες ιστοσελίδων.
 features-adblocker-send-a-do-not-track-signal = Αίτημα για αποτροπή καταγραφής
+features-adblocker-speed-up-thanks-to-ad = Επιτάχυνση μέσω φραγής διαφημίσεων
 features-adblocker-take-control-of-your-browser = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.
