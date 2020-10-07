@@ -17,6 +17,7 @@ firefox-privacy-privacy = Ñemigua
 firefox-privacy-our-promise = Ore ñe’ẽme’ẽ
 # Sub navigation link
 firefox-privacy-our-products = Ore apopyre
+firefox-privacy-hub-you-should-be-able-to-decide = Nde emoneĩva’erã ohechátava ne maranduete. Ndaha’éi ne ang̃irũ ndive año, ha’eva’erã mba’apohaguasu ha ñemurã apoha ñandutípe ndive. Ha pévape roike ore.
 firefox-privacy-hub-thats-why-everything-we-make = Upévare rojapóva guive ojokupyty ore Ñe’ẽme’ẽ Mba’ekuaarã Nemba’etévare
 firefox-privacy-hub-take-less = Emokõ’ve
 firefox-privacy-hub-we-make-a-point-of-knowing = Roikuaase sa’ive mba’emimi nde rehegua
