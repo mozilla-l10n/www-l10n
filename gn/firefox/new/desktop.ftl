@@ -150,6 +150,9 @@ firefox-desktop-download-now-mac = Ko’ág̃a <strong>embojuruja</strong> maran
 firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta ne ñemohendápe</a>.
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembipuru’i emohendaséva ndaha’éi tembipuru’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembipuru’i ñe’ẽporãhague</a>.
 firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

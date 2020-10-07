@@ -66,4 +66,7 @@ firefox-new-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> em
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eipurukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembipuru’i emohendaséva ndaha’éi tembipuru’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembipuru’i ñe’ẽporãhague</a>.
 firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
