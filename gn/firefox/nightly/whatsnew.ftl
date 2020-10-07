@@ -14,4 +14,8 @@ nightly-whatsnew-every-4-to-5-weeks = Og̃uahẽvo 4 térã 5 arapokõindy, os�
 # Obsolete
 nightly-whatsnew-every-6-to-8-weeks = Og̃uahẽvo 6 térã 8 arapokõindy, osẽjeýma { -brand-name-firefox } rembiapokue pyahu ha upekuévo, ko mba’epyahu { -brand-name-nightly } avei oikoiteve.
 nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -brand-name-firefox } iporãve hag̃ua ko’ẽreíre ha ro’e hag̃ua ndéve moõpa ejuhukuaa kuatiaita, ñomongeta renda ha marandu ojokupytýva { -brand-name-nightly } ndive ikatúva eikuaase.
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to = Eikuaasevéramo oikóva { -brand-name-nightly } jerére ha pe hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a href="{ $blog }">blog</a> ha orerapykueho <a href="{ $twitter }">{ -brand-name-twitter }</a>.
 nightly-whatsnew-go-community = ¡Che maitei tekohápe!
