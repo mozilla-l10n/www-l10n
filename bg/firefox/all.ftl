@@ -20,6 +20,8 @@ firefox-all-64-bit-installers = 64-битови инсталатори
 firefox-all-32-bit-installers = 32-битови инсталатори
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Изтеглете { -brand-name-firefox-browser } на английски или на някой от другите 90 езика
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = Всеки заслужава достъп до интернет – езикът никога не трябва да бъде пречка. Ето защо, с помощта на отдадени доброволци по целия свят, правим { -brand-name-firefox-browser } достъпен на повече от 90 езика.
 firefox-all-choose-which-firefox = Изберете кой { -brand-name-firefox-browser } да изтеглите на своя език
 firefox-all-firefox-privacy-notice = Бележка за поверителността на { -brand-name-firefox }
 firefox-all-learn-about-firefox = Научете повече за четеца { -brand-name-firefox }
