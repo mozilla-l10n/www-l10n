@@ -7,6 +7,7 @@
 
 whatsnew-page-title = Kaj je novega v { -brand-name-firefox }u – Več zasebnosti, več zaščite.
 whatsnew-page-description = Zoperstavite se industriji, ki prodaja vaše podatke. Bodite pametni in varni na spletu s tehnologijo, ki se bori za vas.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = Čestitke, uporabljate najnovejšo različico { -brand-name-firefox-browser }a.
 whatsnew-out-of-date-notification = Na voljo je novejši { -brand-name-firefox-browser }. Ponovno zaženite za posodobitev.
 # Variables:
