@@ -28,6 +28,7 @@ navigation-download = Изтегляния
 navigation-extensions = Разширения
 navigation-support = Поддръжка
 navigation-privacy = Поверителност
+navigation-join = Присъединяване
 navigation-new-features = Нова възможност
 # Outdated string
 navigation-add-ons = Добавки
