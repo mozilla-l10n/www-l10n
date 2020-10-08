@@ -28,14 +28,21 @@ navigation-download = Изтегляния
 navigation-extensions = Разширения
 navigation-support = Поддръжка
 navigation-privacy = Поверителност
+navigation-new-features = Нова възможност
 # Outdated string
 navigation-add-ons = Добавки
 navigation-projects = Проекти
 navigation-close-projects-menu = Затваряне на меню проекти
 navigation-donate-your-voice-to = Дарете своя глас, за да помогнете на проекта за гласово разпознаване да стане безплатен и отворен за всички.
 navigation-machine-learning = Машинно обучение
+# Outdated string
+navigation-web-of-things-iot = Мрежата от неща (IoT)
+navigation-help-make-deep-learning = Помогнете да направите алгоритмите за задълбочено обучение достъпни за света с отворен код.
+# Outdated string
+navigation-make-devices-connected = Направете устройствата, свързани към интернет, безопасни, сигурни и оперативно съвместими.
 navigation-developers = Разработчици
 navigation-close-developers-menu = Затваряне на меню разработчици
+navigation-test-soon-to-be-released = Изпитайте възможностите, които ще бъдат включени скоро в най-стабилна форма преди изданието.
 navigation-mixed-reality = Смесена реалност
 navigation-resources = Ресурси
 navigation-resources-for-developers = Ресурси от разработчици за разработчици.
