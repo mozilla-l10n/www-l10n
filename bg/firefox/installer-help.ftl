@@ -9,6 +9,7 @@
 ## Required
 
 installer-help-page-title = Изтеглянето е прекъснато
+installer-help-main-tagline = На всеки се случва. Нека опитаме нещо друго.
 
 ##
 
