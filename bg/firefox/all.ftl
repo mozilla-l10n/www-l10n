@@ -9,12 +9,19 @@ firefox-all-check-the-system-requirements = Проверете системни�
 firefox-all-release-notes = Бележки към изданието
 firefox-all-source-code = Изходен код
 firefox-all-need-help = Имате нужда от помощ?
+firefox-all-which-browser-would = Кой четец искате да изтеглите?
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Получете помощ
+firefox-all-you-are-about-to-download = Предстои да изтеглите:
 firefox-all-browser = Мрежов четец:
 firefox-all-platform = Платформа:
 firefox-all-language = Език:
+firefox-all-64-bit-installers = 64-битови инсталатори
 firefox-all-32-bit-installers = 32-битови инсталатори
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Изтеглете { -brand-name-firefox-browser } на английски или на някой от другите 90 езика
+firefox-all-choose-which-firefox = Изберете кой { -brand-name-firefox-browser } да изтеглите на своя език
+firefox-all-firefox-privacy-notice = Бележка за поверителността на { -brand-name-firefox }
 firefox-all-learn-about-firefox = Научете повече за четецът { -brand-name-firefox }
 firefox-all-msi-installers = Инсталатори MSI
 firefox-all-select-your-preferred-installer = Изберете предпочитан инсталатор

@@ -7,11 +7,14 @@
 
 firefox-new-download-firefox = Изтегляне на { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Изтеглете най-бързия { -brand-name-firefox } направен някога
+firefox-new-get-the-latest-firefox = Вземете най-новия четец { -brand-name-firefox }.
 firefox-new-join-firefox = Присъединете се към { -brand-name-firefox }
 firefox-new-download-in-another-language = Изтеглете на друг език
+firefox-new-protect-your-privacy = Защитете вашата поверителност
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Използвате несигурна, остаряла операционна система <a href="{ $url }">, която вече не се поддържа от { -brand-name-firefox }</a>.
