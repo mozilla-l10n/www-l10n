@@ -2,8 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } за компютър
+navigation-download-firefox = Изтегляне на { -brand-name-firefox }
+navigation-get-a-firefox-account = Вземете { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = Настолен { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = Мобилен { -brand-name-firefox-browser }
+navigation-download-for-ios = Изтегляне за { -brand-name-ios }
+navigation-download-for-android = Изтегляне за { -brand-name-android }
+navigation-ios-support = Поддръжка за { -brand-name-ios }
+navigation-android-support = Поддръжка за { -brand-name-android }
+navigation-firefox-browser-for-enterprise = Корпоративен { -brand-name-firefox-browser }
+navigation-firefox-for-fire-tv = { -brand-name-firefox } за { -brand-name-fire-tv }
+navigation-join-firefox = Присъединете се към { -brand-name-firefox }
+navigation-meet-the-firefox-family = Запознайте се със семейството на { -brand-name-firefox }
+navigation-firefox-blog = Блог на { -brand-name-firefox }
+navigation-get-firefox = Вземете { -brand-name-firefox }
+navigation-get-firefox-focus = Вземете { -brand-name-firefox-focus }
+navigation-android-extensions = Разширения за { -brand-name-android }
+navigation-your-firefox-account = Вашия { -brand-name-firefox-account }
 navigation-donate-your-voice-to = Дарете своя глас, за да помогнете на проекта за гласово разпознаване да стане безплатен и отворен за всички.
+navigation-mixed-reality = Смесена реалност
+navigation-resources = Ресурси
+navigation-resources-for-developers = Ресурси от разработчици за разработчици.
+navigation-leadership = Ръководство
+navigation-mission = Мисия
 navigation-press-center = Пресцентър
 navigation-contact = Контакт
 navigation-careers = Кариери
