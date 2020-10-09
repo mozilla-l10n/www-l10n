@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Cnoi'r cwcis
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Mae gwefannau rydych chi'n ymweld â nhw yn anfon <a href="{ $url }">cwcis</a>. Maen nhw'n byw ar eich cyfrifiadur ac yn monitro'r hyn rydych chi wedi bod yn ei wneud ar wefan. Pan fydd cwmni hedfan yn codi eich cyfraddau oherwydd eich bod wedi edrych ar docynnau awyren unwaith yn barod y diwrnod hwnnw, dyna waith llaw cwci.
 features-adblocker-in-firefox-you-can-block = Yn { -brand-name-firefox }, gallwch rwystro pob cwcis trydydd parti neu dim ond y rhai sy'n cael eu gan dracwyr. Byddwch yn ymwybodol y gall atal pob cwci dorri rhai gwefannau.
-features-adblocker-send-a-do-not-track-signal = Anfon signal Peidiwch â Thracio
+features-adblocker-send-a-do-not-track-signal = Anfon signal Dim Tracio
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Os nad ydych chi am i'ch ymddygiad ar-lein gael ei ddefnyddio ar gyfer hysbysebion, gallwch anfon llythyr cwrtais at wefannau “diolch ond dim diolch” drwy dicio'r dewis <a href="{ $url }">Peidiwch â Thracio</a> yn { -brand-name-firefox }. Mae cyfranogiad yn wirfoddol, ond bydd y gwefannau sy'n cymryd rhan yn rhoi'r gorau i'ch tracio ar unwaith.
