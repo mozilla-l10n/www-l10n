@@ -33,6 +33,8 @@ firefox-desktop-download-review-system-req = Паглядзіце сістэмн
 firefox-desktop-download-all-your-devices = Пастаўце { -brand-name-firefox } на ўсе свае прылады
 firefox-desktop-download-search-from-address = Пошук у адрасным радку
 firefox-desktop-download-search-engine-options = Налады пошукавых сістэм
+firefox-desktop-download-bookmark-history = Закладкі, гісторыя і адкрытыя карткі ў выніках
+firefox-desktop-download-boost-your = Павысьце сваю прадукцыйнасць
 firefox-desktop-download-bookmarks-manager = Менеджар закладак
 firefox-desktop-download-sync-across-devices = Сінхранізацыя паміж прыладамі
 firefox-desktop-download-reader-mode = Рэжым чытання
@@ -67,9 +69,12 @@ firefox-desktop-download-just-download-the-browser = Проста сцягніц
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Амаль гатова!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Цяпер скончыце <strong>ўсталяванне</strong> { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Узніклі праблемы? <a { $attrs }>Атрымайце дапамогу па ўсталяванні</a>.
+firefox-desktop-download-in-another-language = Сцягнуць на іншай мове або для іншай аперацыйнай сістэмы.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
