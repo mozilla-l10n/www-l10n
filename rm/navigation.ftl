@@ -4,11 +4,30 @@
 
 navigation-download-firefox = Telechargiar { -brand-name-firefox }
 navigation-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
+navigation-get-the-browser-that-respects = Va per il navigatur che respecta automaticamain tia sfera privata. Sin { -brand-name-windows }, { -brand-name-mac } u { -brand-name-linux }.
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } per apparats mobils
+navigation-take-speed-privacy-and = Piglia la sveltezza e la protecziun da datas cun tai e sta patgific. Sin { -brand-name-android } e { -brand-name-ios }.
+navigation-download-for-ios = Telechargiar per { -brand-name-ios }
+navigation-download-for-android = Telechargiar per { -brand-name-android }
 navigation-ios-support = Agid per { -brand-name-ios }
 navigation-android-support = Agid per { -brand-name-android }
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } per interpresas
+navigation-strap-on-your-goggles = Metta si tes egliers VR e fa il pass en il web immersiv cun { -brand-name-firefox-browser } per la realitad virtuala.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } per { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Guarda videos e navighescha en l'internet sin tia { -brand-name-amazon } { -brand-name-fire-tv }.
+navigation-firefox-browsers-put = Ils navigaturs { -brand-name-firefox } respectan tia sfera privata — da bell'entschatta
+navigation-take-the-passwords-youve = Prenda ils pleds-clav che ti has memorisà en { -brand-name-firefox } cun tai – nua ch'i saja.
+# Outdated string
+navigation-firefox-is-a-whole-family = { -brand-name-firefox } è in'entira paletta da products creads per che ti possias ta mover pli segir e pli furber en l'internet.
+navigation-join-firefox = Dovra { -brand-name-firefox }
+navigation-access-all-of-firefox = Acceda a tut ils products da { -brand-name-firefox } cun las medemas datas d'annunzia per survegnir il meglier da mintga product.
+navigation-meet-the-firefox-family = L'entira paletta da products da { -brand-name-firefox }
 navigation-firefox-blog = Blog da { -brand-name-firefox }
+navigation-read-about-new-firefox = Ve a savair dapli davart novas funcziunalitads da { -brand-name-firefox } e retschaiva tips per ta proteger online.
+navigation-the-non-profit-behind = L'organisaziun senza finamira da profit che ha realisà { -brand-name-firefox } cumbatta per in internet pli saun per tuts.
+navigation-learn-how-firefox-treats = Ve a savair co { -brand-name-firefox } tracta tias datas cun respect.
+navigation-mozilla-careers = Plazzas da lavur tar { -brand-name-mozilla }
+navigation-approach-your-career = Lavura là nua ch'i fa senn. Plazzas da lavur attractivas tar { -brand-name-mozilla }.
 navigation-close-firefox-menu = Serrar il menu da { -brand-name-firefox }
 navigation-get-the-browser-that-gives = Va per il navigatur che ta da dapli prestaziun sin { -brand-name-windows }, { -brand-name-mac } u { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Prenda { -brand-name-firefox } e { -brand-name-firefox-focus } cun tai. Per { -brand-name-android } ed { -brand-name-ios }.
@@ -17,10 +36,16 @@ navigation-get-firefox-focus = Ir per { -brand-name-firefox-focus }
 navigation-android-extensions = Extensiuns per { -brand-name-android }
 navigation-your-firefox-account = Tes { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Profitescha tant sco pussaivel da tia experientscha cun { -brand-name-firefox }, sin mintga apparat.
+# Outdated string
 navigation-learn-how-to-customize = Vegnir a savair co persunalisar il funcziunament da { -brand-name-firefox }.
+navigation-explore-the-immersive = Explorescha il web immersiv cun tia chapellina per la realitad virtuala.
+# Outdated string
 navigation-experience-augmented = Emprova la realitad augmentada e virtuala cun { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Inscuntra persunas en ils locals da discussiun experimentals da realitad maschadada cun { -brand-name-firefox }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } porta { -brand-name-firefox } en la realitad augmentada e virtuala.
 navigation-firefox-built-just-for = { -brand-name-firefox }, creà aposta per sviluppaders.
 navigation-preview-the-latest-build = Emprova la versiun da prevista da { -brand-name-firefox } la pli nova ed ans gida da la perfecziunar.
@@ -40,11 +65,14 @@ navigation-meet-the-technology-company = Emprenda d'enconuscher l'interpresa che
 navigation-new-features = Novas funcziunalitads
 navigation-save-content-absorb-knowledge = Memorisar cuntegn. Prender si savida.
 navigation-same-speed-and-safety = La sveltezza e segirezza che ti enconuschas gia, ma concepì aposta per las interpresas.
+# Outdated string
 navigation-add-ons = Supplements
 navigation-projects = Projects
 navigation-close-projects-menu = Serrar il menu «Projects»
 navigation-donate-your-voice-to = Dà tia vusch per gidar a realisar la reconuschientscha vocala averta per mintgin.
+# Outdated string
 navigation-web-of-things-iot = Internet da las chaussas (IoT)
+# Outdated string
 navigation-make-devices-connected = Renda ils apparats connectads cun l'internet segirs, protegids e cumpatibels.
 navigation-developers = Sviluppaders
 navigation-close-developers-menu = Serrar il menu «Sviluppaders»
