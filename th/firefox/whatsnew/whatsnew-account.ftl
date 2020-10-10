@@ -14,3 +14,8 @@ whatsnew-account-main-button = ลงชื่อเข้า
 
 ##
 
+whatsnew-account-signed-in-headline = ทำสิ่งต่าง ๆ ให้เสร็จได้มากขึ้น ใช้ { -brand-name-firefox } สำหรับมือถือ
+whatsnew-account-signed-in-lead-in = ส่งลิงก์ดาวน์โหลดไปที่โทรศัพท์ของคุณ
+whatsnew-account-signed-in-qr-title = ดาวน์โหลด { -brand-name-firefox } สำหรับสมาร์ทโฟนและแท็บเล็ตของคุณ
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = สแกนรหัส QR นี้
