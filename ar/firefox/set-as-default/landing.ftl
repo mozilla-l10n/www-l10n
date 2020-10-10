@@ -6,4 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
-set-as-default-landing-make-firefox-your-default = اجعل { -brand-name-firefox } متصفّحك المبدئي
+set-as-default-landing-make-firefox-your-default = اضبط { -brand-name-firefox } متصفّحك المبدئي
+# HTML page description
+set-as-default-landing-choose-the-browser = اختر المتصفّح الذي يحمي خصوصيتك. اضبط { -brand-name-firefox } ليكون المتصفّح المبدئي.

@@ -9,6 +9,8 @@
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = شكرًا لك على اختيارك { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = تم! ضُبط متصفّحك المبدئي ليكون { -brand-name-firefox }.
 set-as-default-thanks-looks-like-youre-using-a = نرى أنّك تستعمل متصفّحًا آخر الآن. تثبّت من اكتمال تنزيلك { -brand-name-firefox } على جهازك.
+# When a visitor sees this message a system dialog will also open on screen.
+set-as-default-thanks-youre-almost-done-just-change = انتهيت تقريبًا. بقي أن تغيّر المتصفّح المبدئي إلى { -brand-name-firefox } في لوحة الإعدادات على شاشتك.
 set-as-default-thanks-having-trouble-setting-your = أتواجه مشكلة في ضبط متصفّحك المبدئي؟
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
@@ -20,6 +22,9 @@ set-as-default-thanks-get-firefox-for-mobile = نزّل { -brand-name-firefox } 
 set-as-default-thanks-travel-the-internet-with = أبحِر في غمار الإنترنت محميًا على كل أجهزتك.
 set-as-default-thanks-download-the-app = نزّل التطبيق
 set-as-default-thanks-join-firefox = انضم إلى { -brand-name-firefox }
+set-as-default-thanks-sign-up-for-a-free-account = سجّل حسابًا مجانيًا وزامِن معه كلمات السر وتأريخ التصفّح وتفضيلاتك عبر مختلف الأجهزة.
+# Account here refers to a Firefox Account
+set-as-default-thanks-get-an-account = سجّل حسابًا
 set-as-default-thanks-having-trouble = هل تواجه مشاكل؟
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
