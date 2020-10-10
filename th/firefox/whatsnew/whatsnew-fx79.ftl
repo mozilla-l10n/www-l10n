@@ -28,4 +28,12 @@ whatsnew79-read-our-privacy-promise = อ่านสัญญาความเ
 whatsnew79-take-less-keep-it-safe = เก็บให้น้อย รักษาให้ปลอดภัย ไม่มีความลับ ธุรกิจของเราไม่ต้องพึ่งพาการละเมิดความเชื่อถือของคุณอย่างลับ ๆ
 # CTA link
 whatsnew79-read-more = อ่านเพิ่มเติม
-whatsnew79-keep-facebook-contained = เก็บ { -brand-name-facebook } ไว้
+whatsnew79-keep-facebook-contained = เก็บ { -brand-name-facebook } ให้พ้น
+whatsnew79-get-the-power-to-prevent = รับพลังในการป้องกันไม่ให้ { -brand-name-facebook } และ { -brand-name-instagram } ติดตามคุณขณะที่คุณท่องเว็บ
+# CTA link
+whatsnew79-add-facebook-container = เพิ่ม { -brand-name-facebook-container }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = รับ { -brand-name-firefox } บนโทรศัพท์ของคุณ
+whatsnew79-scan-the-qr-code = สแกนรหัส QR เพื่อเริ่มต้น
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = รหัส QR ที่ใช้สแกนสำหรับ { -brand-name-firefox }
