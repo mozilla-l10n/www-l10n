@@ -6,19 +6,19 @@
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
 firefox-channel-desktop = حواسيب
-firefox-channel-android = أندرويد
+firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = اختبر تقنيات المُستقبل قبل أن تُطلَق لعموم المُستخدمين
-firefox-channel-be-among-the-first-to-explore = كن أوّل من يجرّب الإصدارات القادمة من فيَرفُكس لكل من الحواسيب وأندرويد ونظام { -brand-name-ios }.
+firefox-channel-be-among-the-first-to-explore = كن أوّل من يجرّب الإصدارات القادمة من { -brand-name-firefox } لكل من الحواسيب وأنظمة { -brand-name-android } و{ -brand-name-ios }.
 firefox-channel-see-something-that-isnt-working = هل صادفتك مشاكل أو لاحظت أيّة عِلل؟ بلّغ عنها
 firefox-channel-file-a-bug-now = بلّغ عن علّة
 firefox-channel-tips-for-filing-a-bug = نصائح حول كيفية التّبليغ عن العِلل
-firefox-channel-try-new-features-in-a-pre = جرب الميزات الجديدة في نسخ ما قبل الإصدار من متصفح أندرويد | فَيَرفُكس
-firefox-channel-download-and-test-future = حمّل واختبر الإصدارات القادمة من فيَرفُكس لكل من الحواسيب و أندرويد و نظام { -brand-name-ios }.
-firefox-channel-experience-cutting-edge-android-updated = جرب الميزات الأحدث في نسخ ما قبل الإصدار من متصفح أندرويد: فَيَرفُكس بيتا و فَيَرفُكس النسخة اليومية. ثبت الآن.
-firefox-channel-experience-cutting-edge-android = جرب الميزات الأحدث في نسخ ما قبل الإصدار من متصفح أندرويد: فَيَرفُكس بيتا، و فَيَرفُكس أورورا و فَيَرفُكس النسخة اليومية. ثبت الآن.
-firefox-channel-download-and-test-the-latest-android = اختبر أحدث خصائص فيَرفُكس على أندرويد عبر تحميل الإصدارات { -brand-name-aurora } و { -brand-name-beta } و { -brand-name-nightly }
-firefox-channel-try-the-latest-android-features = جرّب أحدث الخصائص على أندرويد قبل أن يتم إطلاقها لعُموم المُستخدمين
+firefox-channel-try-new-features-in-a-pre = جرب الميزات الجديدة في نسخ ما قبل الإصدار من متصفح { -brand-name-android } | { -brand-name-firefox }
+firefox-channel-download-and-test-future = حمّل واختبر الإصدارات القادمة من { -brand-name-firefox } لكل من الحواسيب وأنظمة { -brand-name-android } و{ -brand-name-ios }.
+firefox-channel-experience-cutting-edge-android-updated = جرب الميزات الأحدث في نسخ ما قبل الإصدار من متصفح { -brand-name-android }: { -brand-name-firefox-beta } و{ -brand-name-firefox-nightly }. ثبت الآن.
+firefox-channel-experience-cutting-edge-android = جرب الميزات الأحدث في نسخ ما قبل الإصدار من متصفح { -brand-name-android }: { -brand-name-firefox-beta }، و { -brand-name-firefox-aurora }و{ -brand-name-firefox-nightly }. ثبت الآن.
+firefox-channel-download-and-test-the-latest-android = اختبر أحدث خصائص { -brand-name-firefox } على { -brand-name-android } عبر تحميل الإصدارات { -brand-name-aurora } و { -brand-name-beta } و { -brand-name-nightly }
+firefox-channel-try-the-latest-android-features = جرّب أحدث الميزات على { -brand-name-android } قبل أن تُطلق لعموم المستخدمين.
 firefox-channel-all-languages-and-platforms = كل اللغات والمنصات
 firefox-channel-all-languages-and-builds = جميع اللغات والإصدارات
 # Variables:

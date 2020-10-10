@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> لنظام { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> لنظام { -brand-name-ios }
 download-button-firefox-privacy = خصوصية { -brand-name-firefox }
+download-button-firefox-privacy-notice = بيان { -brand-name-firefox } للخصوصية
 download-button-download = نزّل

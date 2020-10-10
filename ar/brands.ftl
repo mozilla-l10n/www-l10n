@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -13,6 +15,7 @@
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
@@ -24,6 +27,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = متصفّح Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -44,7 +48,7 @@
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
 
-### Firefox browsers (legacy)
+## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
 
@@ -106,6 +110,7 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = ماك
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
@@ -123,6 +128,7 @@
 ## Facebook products
 
 -brand-name-instagram = Instagram
+-brand-name-messenger = Messenger
 
 ## Google products
 
