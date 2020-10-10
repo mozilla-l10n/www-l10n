@@ -11,31 +11,32 @@
 
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
--brand-name-facebook = Facebook
--brand-name-github = GitHub
+-brand-name-creative-commons = المَشاع الإبداعي
+-brand-name-facebook = فيسبوك
+-brand-name-github = غِت‌هَب
 -brand-name-google = Google
 -brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
--brand-name-mozilla-corporation = Mozilla Corporation
--brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-twitter = Twitter
+-brand-name-mozilla-corporation = شركة Mozilla
+-brand-name-mozilla-foundation = مؤسّسة Mozilla
+-brand-name-twitter = تويتر
 
 ## Firefox browsers
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
--brand-name-firefox-browsers = متصفّح Firefox
--brand-name-firefox-developer-edition = Firefox Developer Edition
--brand-name-firefox-enterprise = Firefox Enterprise
+-brand-name-firefox-browser = متصفّح Firefox
+-brand-name-firefox-browsers = متصفّحات Firefox
+-brand-name-firefox-developer-edition = إصدارة Firefox للمطوّرين
+-brand-name-firefox-enterprise = ‏Firefox للمؤسّسات
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
+-brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
