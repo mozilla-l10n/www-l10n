@@ -7,3 +7,7 @@
 
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = بين { -brand-name-firefox } و{ -brand-name-brave }: أيّهما الأفضل لك؟
+# HTML page description
+compare-brave-compare-brave-to-the-firefox = قارِن بين { -brand-name-brave } و{ -brand-name-firefox-browser } لتعرف المتصفّح الأفضل لك من حيث الخصوصية والمزايا وسهولة النقل.
+# Main title
+compare-brave-comparing-firefox-browser = مقارنة بين { -brand-name-firefox-browser } و{ -brand-name-brave }
