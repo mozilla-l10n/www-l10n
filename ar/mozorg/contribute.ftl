@@ -30,15 +30,26 @@ contribute-mission-heading = مهمّتنا
 contribute-learn = اعرف المزيد عن { -brand-name-mozilla }
 contribute-read-manifesto = اقرأ بياننا
 contribute-find-event = ابحث عن فعالية
+contribute-meet-volunteers = التقِ بمتطوّعينا الشغوفين
+contribute-donate = تبرّع
+contribute-help-fund = ساعِد بتمويل مهمّتنا
+contribute-follow-mozilla = تابِع { -brand-name-mozilla }
+contribute-opportunities = الأخبار وفرص التطوّع
 
 ## Made by
 
 
 ## Newsletter
 
+contribute-newsletter-heading = أما زلت محتارًا؟
+contribute-newsletter-sub-heading = استلم أخبار المجتمع والمساهمات في صندوق البريد
 
 ## Support
 
+contribute-mozilla-support = دعم { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = أترى مشاكل في صفحة وِب معيّنة؟
+contribute-web-compat-desc = لو لاحظت أنّ هناك موقعًا يختلف شكله بين المتصفّحات، فقد اكتشفت مشكلة في توافقية الوِب. سنسعد كثيرًا لو أخبرتنا بها!
+contribute-report-issue = أبلِغ عن مشكلة
