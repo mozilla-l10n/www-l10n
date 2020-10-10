@@ -39,6 +39,34 @@ firefox-desktop-download-works-with-google = يعمل مع منتجات { -brand
 firefox-desktop-download-built-in-screenshot = أداة مُدمجة لأخذ لقطات الشاشة
 firefox-desktop-download-bookmarks-manager = مدير للعلامات
 firefox-desktop-download-autosuggest-urls = الاقتراح التلقائي للعناوين
+firefox-desktop-download-sync-across-devices = المزامنة بين الأجهزة
+firefox-desktop-download-reader-mode = وضع القارئ
+firefox-desktop-download-spell-check = التدقيق الإملائي
+firefox-desktop-download-pinned-tabs = تثبيت الألسنة
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = الڤديوهات المعترِضة (PiP)
+firefox-desktop-download-share-links = مشاركة الألسنة
+firefox-desktop-download-protect-your-privacy = احمِ خصوصياتك
+firefox-desktop-download-third-party-cookie = حجب كعكات الأطراف الثالثة
+firefox-desktop-download-fingerprinter-blocking = حجب مسجّلات البصمات
+firefox-desktop-download-cryptominer-blocking = حجب المُعدّنات المعمّاة
+firefox-desktop-download-private-browsing-mode = وضع التصفّح الخاص
+firefox-desktop-download-secure-your-personal = أمّن معلوماتك الشخصية
+firefox-desktop-download-clear-history = مسح التأريخ
+firefox-desktop-download-form-autofill = الملء التلقائي للاستمارات
+firefox-desktop-download-automatic-updates = التحديثات التلقائية
+firefox-desktop-download-customize-your-browser = خصّص متصفّحك
+firefox-desktop-download-themes = السمات
+firefox-desktop-download-dark-mode = الوضع الداكن
+firefox-desktop-download-library-of-extensions = مكتبة من الامتدادات
+firefox-desktop-download-adjust-search-bar = ضبط إعدادات شريط البحث
+firefox-desktop-download-change-new-tab = تغيير تخطيط اللسان الجديد
+firefox-desktop-download-make-firefox-your = ليكن <strong>{ -brand-name-firefox }</strong> ملكك أنت
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = نزّل { -brand-name-firefox-browser } لنظام <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = نزّل { -brand-name-firefox-browser } لنظام <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = نزّل متصفّح المحمول من { -brand-name-firefox } لتحمي نفسك تلقائيًا في كل الأجهزة.
+firefox-desktop-download-learn-about-the = اطّلع على المزيد حول متصفّح { -brand-name-firefox } لسطح المكتب أسفله
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
