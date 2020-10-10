@@ -12,3 +12,9 @@ welcome-page1-youve-got-the-web-browser = لديك متصفّح الوِب ال�
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-firefox-monitor-shows-you = يعرض { -brand-name-firefox-monitor } لك بياناتك لو تسرّبت في تسريب معروف للبيانات، ويُنذرك لو حدث كذلك مستقبلًا.
 welcome-page1-stay-ahead-of-hackers = اسبق المخترقين بخطوة
+welcome-page1-stay-in-the-know = ابقَ على اطّلاع دومًا
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = أكنت واحدًا من أصل ١٠٠٬٩٨٥٬٠٤٧ ممّن دُعوا إلى <a href="{ $evite_breach }">”حفلة“ تسرّب بيانات Evite</a>؟
+welcome-page1-why-am-i-seeing-this = لماذا أرى هذا؟
