@@ -15,7 +15,7 @@ firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = باقات { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = اصنع المواقع وحسّن من الكود باستعمال <strong>{ -brand-name-firefox-devtools }</strong>
+firefox-browsers-build-sites-and-refine-your = اصنع المواقع وحسّن من الكود باستعمال { -brand-name-firefox-devtools }
 firefox-browsers-learn-more-about-devtools = اعرف المزيد عن { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = انضم إلى { -brand-name-firefox } واستغل ميزات كلّ منتج، وعلى كلّ جهاز.
 # Variables:
