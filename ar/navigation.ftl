@@ -13,7 +13,11 @@ navigation-ios-support = دعم { -brand-name-ios }
 navigation-android-support = دعم { -brand-name-android }
 navigation-firefox-browser-for-enterprise = ‏{ -brand-name-firefox-browser } للمؤسّسات
 navigation-firefox-for-fire-tv = ‏{ -brand-name-firefox } لجهاز { -brand-name-fire-tv }
+navigation-take-the-passwords-youve = خُذ معك كلمات السر التي حفظتها في { -brand-name-firefox } أينما ذهبت.
+# Outdated string
+navigation-firefox-is-a-whole-family = متصفّح { -brand-name-firefox } هو طقم كامل من المنتجات صُمّم ليُبقيك آمنًا وأذكى في أمورك على الإنترنت.
 navigation-join-firefox = انضم إلى { -brand-name-firefox }
+navigation-meet-the-firefox-family = قابِل طقم { -brand-name-firefox }
 navigation-firefox-blog = مدونة { -brand-name-firefox }
 navigation-mozilla-careers = الوظائف في { -brand-name-mozilla }
 navigation-close-firefox-menu = أغلِق قائمة { -brand-name-firefox }
