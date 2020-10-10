@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise = { -brand-name-enterprise }
+firefox-enterprise-overview = 概要
+firefox-enterprise-downloads = ダウンロード
 firefox-enterprise-macos = { -brand-name-mac }
