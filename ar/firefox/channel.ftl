@@ -5,12 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
-firefox-channel-desktop = حواسيب
+firefox-channel-desktop = الحواسيب
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
-firefox-channel-take-a-browse-on-the-wild-side = اختبر تقنيات المُستقبل قبل أن تُطلَق لعموم المُستخدمين
 firefox-channel-be-among-the-first-to-explore = كن أوّل من يجرّب الإصدارات القادمة من { -brand-name-firefox } لكل من الحواسيب وأنظمة { -brand-name-android } و{ -brand-name-ios }.
-firefox-channel-see-something-that-isnt-working = هل صادفتك مشاكل أو لاحظت أيّة عِلل؟ بلّغ عنها
+firefox-channel-see-something-that-isnt-working = هل واجهك خطب وتراه علة؟ أبلِغ عنها.
 firefox-channel-file-a-bug-now = بلّغ عن علّة
 firefox-channel-tips-for-filing-a-bug = نصائح حول كيفية التّبليغ عن العِلل
 firefox-channel-try-new-features-in-a-pre = جرب الميزات الجديدة في نسخ ما قبل الإصدار من متصفح { -brand-name-android } | { -brand-name-firefox }
