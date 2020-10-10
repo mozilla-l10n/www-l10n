@@ -21,10 +21,12 @@ firefox-mobile-privacy-protection-by-default = حماية من الخصوصية�
 firefox-mobile-leave-no-trace-with-private = لا تترك أيّ أثر في <a href="{ $url }">وضع التصفّح الخاص</a>. فمتى خرجت يُحذف تأريخ التصفّح مع الكعكات.
 firefox-mobile-stop-companies-from-following = امنع الشركات من تتبّعك
 firefox-mobile-sync-your-history-passwords = زامِن التأريخ وكلمات السر والعلامات. وأرسِل الألسنة إلى كلّ أجهزتك.
-firefox-mobile-android-only = فقط على أندرويد
-firefox-mobile-make-android-your-own = اجعل هاتف أندرويد ملكك أنت
+firefox-mobile-android-only = فقط على { -brand-name-android }
+firefox-mobile-make-android-your-own = اجعل هاتف { -brand-name-android } ملكك أنت
+firefox-mobile-customize-your-firefox-mobile-truncated = خصّص متصفّح { -brand-name-firefox } للمحمول بالامتدادات.
 firefox-mobile-find-it-fast-with-a-smart = جِد ما تريد بسرعة من شريط البحث الذكي
 firefox-mobile-the-privacy-you-deserve-the = الخصوصية التي تستحقّ، والسرعة التي تريد.
 firefox-mobile-get-firefox-for-mobile = نزّل { -brand-name-firefox } للمحمول
 firefox-mobile-send-a-download-link-to-your = أرسِل رابط تنزيل إلى هاتفي.
 firefox-mobile-scan-the-qr-code-to-get-started = امسح رمز QR ضوئيا للبدء
+firefox-mobile-scan-alt-text = امسح رمز QR ضوئيا ونزّل { -brand-name-firefox } على المحمول

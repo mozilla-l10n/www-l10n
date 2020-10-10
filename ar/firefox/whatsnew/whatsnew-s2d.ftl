@@ -8,7 +8,7 @@
 whatsnew-s2d-download-firefox-for-android = حمّل فَيَرفُكس على أندرويد وعلى آي أو إس
 whatsnew-s2d-want-privacy-on-every-device = هل تريد الخصوصية على كل الأجهزة؟
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
-whatsnew-s2d-you-got-it-get-firefox-for = لك ذلك. أحصل على { -brand-name-firefox } للموبايل.
+whatsnew-s2d-you-got-it-get-firefox-for = لك ذلك. نزّل على { -brand-name-firefox } للمحمول.
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = حمّل فَيَرفُكس على هاتفك<br> وتمتّع بحرّيتك على الإنترنت.
 whatsnew-s2d-download-firefox-for-your = حمّل فَيَرفُكس على هاتفك الذّكي أو على جهازك اللوّحي.
