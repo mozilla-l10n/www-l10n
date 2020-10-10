@@ -5,22 +5,24 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = نزّل متصفّح Firefox على محمولك أكان آي‌أوإس أو أندرويد
-firefox-mobile-firefox-browser-for-mobile = يحجب متصفّح Firefox للمحمول ما يزيد على 2000 متعقّب مبدئيًا، ويمنحك الخصوصية التي تستحقّ والسرعة التي تريد في متصفّح خاصّ لجهازك المحمول.
+firefox-mobile-download-the-firefox-browser = نزّل { -brand-name-firefox-browser } على محمولك أكان { -brand-name-ios } أو { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = يحجب { -brand-name-firefox-browser } للمحمول ما يزيد على 2000 متعقّب مبدئيًا، ويمنحك الخصوصية التي تستحقّ والسرعة التي تريد في متصفّح خاصّ لجهازك المحمول.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = نزّل متصفّح المحمول المصمّم لك أنت، لا للمُعلنين
-firefox-mobile-check-out-firefox-again-its = جرّب { -brand-name-firefox } مرة أخرى. سريع وخاص وفي صفّك. ولنظامي آي‌أوإس وأندرويد.
+firefox-mobile-check-out-firefox-again-its = جرّب { -brand-name-firefox } مرة أخرى. سريع وخاص وفي صفّك. ولنظامي { -brand-name-ios } و{ -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = تمتّع بالخصوصية التلقائية على جهازك المحمول
+firefox-mobile-super-fast-private-by-default = سريع كالبرق. خاصّ مبدئيًا. ويحجب ما يزيد على 2000 متعقّب على الشبكة.
 firefox-mobile-get-firefox-mobile = نزّل { -brand-name-firefox } للمحمول
+firefox-mobile-block-online-trackers-and = احجب متعقّبات الإنترنت والإعلانات التي تقتحم حياتك
 firefox-mobile-privacy-protection-by-default = حماية من الخصوصية، مبدئيًا
+# Variables:
+#   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
+firefox-mobile-leave-no-trace-with-private = لا تترك أيّ أثر في <a href="{ $url }">وضع التصفّح الخاص</a>. فمتى خرجت يُحذف تأريخ التصفّح مع الكعكات.
 firefox-mobile-stop-companies-from-following = امنع الشركات من تتبّعك
 firefox-mobile-sync-your-history-passwords = زامِن التأريخ وكلمات السر والعلامات. وأرسِل الألسنة إلى كلّ أجهزتك.
 firefox-mobile-android-only = فقط على أندرويد
 firefox-mobile-make-android-your-own = اجعل هاتف أندرويد ملكك أنت
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = خصّص متصفّح فَيَرفُكس للمحمول باستعمال <a href="{ $url }">الامتدادات</a> لحجب الإعلانات وإدارة كلمات السر وإيقاف فيسبوك من تعقّبك، وأكثر من ذلك.
 firefox-mobile-find-it-fast-with-a-smart = جِد ما تريد بسرعة من شريط البحث الذكي
 firefox-mobile-the-privacy-you-deserve-the = الخصوصية التي تستحقّ، والسرعة التي تريد.
 firefox-mobile-get-firefox-for-mobile = نزّل { -brand-name-firefox } للمحمول
