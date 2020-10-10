@@ -5,9 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = سبعة من أفضل المتصفّحات، تخضع إلى مقارنة مباشرة
 compare-index-six-of-the-best-browsers-fallback = ستّة من أفضل المتصفّحات، تخضع إلى مقارنة مباشرة
 # HTML page description
 compare-index-a-great-internet-browser-should = ليكون متصفّح الإنترنت أمثل المتصفّحات، عليه أن يقدّم المزايا التي تحتاج، ويتوافر على الأجهزة التي تستعمل، ويحمي خصوصيتك بالطريقة التي تريد.
+compare-index-which-browser-is-best-at-keeping = أيّ متصفّح هو أفضلها في الحفاظ على السرية؟
 compare-index-conclusion = الخلاصة:
 compare-index-and-the-winner-is = وفائزنا اليوم هو…
 compare-index-looking-for-a-better-fallback = هل تبحث أن متصفّح أفضل مما لديك؟ نقارن أسفله { -brand-name-firefox } مع { -brand-name-chrome } و{ -brand-name-edge } و{ -brand-name-safari } و{ -brand-name-opera } و{ -brand-name-ie }، ذلك لنساعدك في اتخاذ قرارك.
