@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Just Download The Browser
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">no longer provides security updates</a> on { -brand-name-windows } { -brand-name-xp } or { -brand-name-vista }, but you can still use { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = You’re using an insecure, outdated operating system <a href="{ $url }">no longer supported by { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,15 @@ firefox-new-its-privacy-and-peace-of = It’s <strong>privacy and peace of mind<
 firefox-new-its-a-family-of-products = It’s a <strong>family of products</strong> that treat your personal data with respect.
 firefox-new-its-everything-you-need-to = It’s everything you need to know about <strong>staying safe online</strong>.
 firefox-new-its-a-community-that-believes = It’s <strong>a community</strong> that believes tech can do better.
+firefox-new-download-interrupted = Your download was interrupted. But all is not lost.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Please follow <a href="{ $url }">these instructions</a> to install { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Your system may not meet the requirements for { -brand-name-firefox }, but you can try one of <a href="{ $url }">these versions</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = If you see a prompt stating the app you’re trying to install isn’t a { -brand-name-microsoft }-verified app, click “Install anyway” or <a { $attrs }>change app recommendation settings</a>.
+firefox-new-visit-support-for-more = Visit Support for More Details

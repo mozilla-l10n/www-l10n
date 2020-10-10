@@ -31,11 +31,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Yes
 firefox-desktop-download-no = No
 firefox-desktop-download-blocks-third-party = Blocks third-party tracking cookies
+firefox-desktop-download-blocks-third-party-default = Blocks third-party tracking cookies by default
 firefox-desktop-download-autoplay-blocking = Autoplay blocking
 firefox-desktop-download-blocks-social-trackers = Blocks social trackers
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = OS availability
 firefox-desktop-download-in-browser-screenshot = In-browser screenshot tool
+firefox-desktop-download-primary-password = Primary password
+# Obsolete string
 firefox-desktop-download-master-password = Master password
 firefox-desktop-download-we-block-the-ad = We block the ad trackers. You explore the internet faster.
 firefox-desktop-download-ads-are-distracting = Ads are distracting and make web pages load slower while their trackers watch every move you make online. The { -brand-name-firefox-browser } blocks most trackers automatically, so there’s no need to dig into your security settings.
@@ -155,6 +158,15 @@ firefox-desktop-download-now-mac = Now <strong>open</strong> the file that just 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Having trouble? <a { $attrs }>Get help with your installation</a>.
 firefox-desktop-download-in-another-language = Download in another language or for another operating system.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = If you see a prompt stating the app you’re trying to install isn’t a { -brand-name-microsoft }-verified app, click “Install anyway” or <a { $attrs }>change app recommendation settings</a>.
+firefox-desktop-download-visit-support-for-more = Visit Support for More Details
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">no longer provides security updates</a> on { -brand-name-windows } { -brand-name-xp } or { -brand-name-vista }, but you can still use { -brand-name-firefox }.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = You’re using an insecure, outdated operating system <a href="{ $url }">no longer supported by { -brand-name-firefox }</a>.
@@ -163,3 +175,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = You’re using an in
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Your download should begin automatically. Didn’t work? <a id="{ $id }" href="{ $fallback_url }">Try downloading again.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is more than a browser.
+firefox-desktop-download-interrupted = Your download was interrupted. But all is not lost.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Please follow <a href="{ $url }">these instructions</a> to install { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Your system may not meet the requirements for { -brand-name-firefox }, but you can try one of <a href="{ $url }">these versions</a>.
