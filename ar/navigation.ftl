@@ -4,11 +4,15 @@
 
 navigation-download-firefox = نزّل { -brand-name-firefox }
 navigation-get-a-firefox-account = سجّل { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = ‏{ -brand-name-firefox-browser } للحواسيب
+navigation-get-the-browser-that-respects = نزّل المتصفّح الذي يحترم خصوصيتك تلقائيًا، على { -brand-name-windows } أو { -brand-name-mac } أو { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = متصفّح { -brand-name-firefox-browser } للمحمول
 navigation-download-for-ios = نزّل لنظام { -brand-name-ios }
 navigation-download-for-android = نزّل لنظام { -brand-name-android }
 navigation-ios-support = دعم { -brand-name-ios }
 navigation-android-support = دعم { -brand-name-android }
+navigation-firefox-browser-for-enterprise = ‏{ -brand-name-firefox-browser } للمؤسّسات
+navigation-firefox-for-fire-tv = ‏{ -brand-name-firefox } لجهاز { -brand-name-fire-tv }
 navigation-join-firefox = انضم إلى { -brand-name-firefox }
 navigation-firefox-blog = مدونة { -brand-name-firefox }
 navigation-mozilla-careers = الوظائف في { -brand-name-mozilla }
@@ -18,7 +22,9 @@ navigation-get-firefox = نزِّل { -brand-name-firefox }
 navigation-get-firefox-focus = نزّل { -brand-name-firefox-focus }
 navigation-android-extensions = امتدادات { -brand-name-android }
 navigation-your-firefox-account = حسابك في { -brand-name-firefox-account }
+# Outdated string
 navigation-learn-how-to-customize = تعرف على كيفية تخصيص طريقة عمل { -brand-name-firefox }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }، بُني خصيصًا للمطورين.
 navigation-preview-the-latest-build = تفحّص أحدث إصدار من { -brand-name-firefox } وساعدنا في تحسينه أكثر.
@@ -43,9 +49,11 @@ navigation-about = تعرّف على Mozilla
 navigation-close-about-menu = أغلِق قائمة ”حول“
 navigation-meet-the-technology-company = تعرّف على الشركة التقنية التي تهمّها مصلحة الناس على تحقيق الأرباح.
 navigation-new-features = المزايا الجديدة
+# Outdated string
 navigation-add-ons = الإضافات
 navigation-projects = المشاريع
 navigation-close-projects-menu = أغلِق قائمة المشاريع
+# Outdated string
 navigation-web-of-things-iot = إنترنت الأشياء IoT
 navigation-developers = المطوّرون
 navigation-close-developers-menu = أغلِق قائمة المطوّرين
