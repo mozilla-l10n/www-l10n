@@ -35,15 +35,33 @@ contribute-mission-heading = Our Mission
 contribute-mission-desc = Our mission is to ensure the internet is a global public resource, open and accessible to all. An internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 contribute-learn = Learn about { -brand-name-mozilla }
 contribute-read-manifesto = Read our manifesto
+contribute-find-event = Find an event
+contribute-meet-volunteers = Meet our passionate volunteers
+contribute-donate = Donate
+contribute-help-fund = Help fund our mission
+contribute-follow-mozilla = Follow { -brand-name-mozilla }
+contribute-opportunities = News and volunteer opportunities
 
 ## Made by
 
+contribute-made-by-heading = Made by passionate people like you
+contribute-made-by-desc = When you contribute to { -brand-name-mozilla }, you become part of a worldwide community made up of people from around the globe who believe that we all have a role in ensuring that the internet remains a force for good.
+contribute-made-by-desc-cont = We believe community collaboration is vital to creating an internet that is diverse, innovative, and accountable to the people who need it most. Whether you have a background in tech, community organising, or just a computer and some free time, you can help us make the internet a better place.
 
 ## Newsletter
 
+contribute-newsletter-heading = Not sure yet?
+contribute-newsletter-sub-heading = Get community and contribution news to your inbox
+contribute-newsletter-desc = Subscribe to our newsletter, join Mozillians all around the world, and learn about impactful opportunities to support the { -brand-name-mozilla } mission.
 
 ## Support
 
+contribute-support-heading = Get Help
+contribute-support-desc = { -brand-name-mozilla } has a dedicated team of volunteers to help with whatever issues you may be experiencing.
+contribute-mozilla-support = { -brand-name-mozilla } Support
 
 ## Web compat
 
+contribute-web-compat-heading = Problems with a web page?
+contribute-web-compat-desc = If your experience of a web site differs between browsers then you may have discovered a web compatibility issue. We would love to know about it!
+contribute-report-issue = Report an issue
