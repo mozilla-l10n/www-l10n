@@ -9,12 +9,12 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
+-brand-name-amazon = أمازون
 -brand-name-apple = Apple
 -brand-name-creative-commons = المَشاع الإبداعي
 -brand-name-facebook = فيسبوك
 -brand-name-github = غِت‌هَب
--brand-name-google = Google
+-brand-name-google = جوجل
 -brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
@@ -25,7 +25,7 @@
 ## Firefox browsers
 
 -brand-name-firefox = Firefox
--brand-name-firefox-beta = Firefox Beta
+-brand-name-firefox-beta = ‏Firefox بيتا
 -brand-name-firefox-browser = متصفّح Firefox
 -brand-name-firefox-browsers = متصفّحات Firefox
 -brand-name-firefox-developer-edition = إصدارة Firefox للمطوّرين
@@ -48,17 +48,19 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
 
 ## Firefox products
 
--brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-facebook-container = حاوية فيسبوك
+-brand-name-firefox-account = حساب Firefox
+-brand-name-firefox-accounts = حسابات Firefox
+-brand-name-firefox-devtools = أدوات Firefox للمطوّرين
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
@@ -66,7 +68,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
+-brand-name-devtools = أدوات المطوّرين
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
@@ -80,6 +82,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = شبكة Mozilla للتطوير
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -111,7 +114,7 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
--brand-name-mac-short = ماك
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
@@ -121,6 +124,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -128,11 +132,13 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
 -brand-name-messenger = Messenger
+-brand-name-workplace = Workplace
 
 ## Google products
 
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
--brand-name-youtube = YouTube
+-brand-name-youtube = يوتيوب
