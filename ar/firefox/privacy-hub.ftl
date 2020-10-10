@@ -11,3 +11,19 @@ firefox-privacy-hub-firefox-products-are-designed = صُمّمت منتجات { 
 firefox-privacy-privacy = الخصوصية
 # Sub navigation link
 firefox-privacy-our-products = منتجاتنا
+firefox-privacy-hub-take-less = نأخذ القليل
+firefox-privacy-hub-we-make-a-point-of-knowing = لدينا وجهة نظرنا بألّا نعرف الكثير عنك
+firefox-privacy-hub-all-tech-companies-collect = تجمع كل شركات التقنيات البيانات لتحسين منتجاتها، ولكن ليس عليها بالضرورة تضمين كل هذا القدر من المعلومات الشخصية. عنّا فلا نحتاج إلا البيانات التي تخدمك أنت في النهاية. نسأل أنفسنا دومًا: هل حقًا نريد هذه الجزئية؟ لماذا نريدها؟ ومتى يمكننا حذفها؟
+firefox-privacy-hub-keep-it-safe = نُحافظ عليه آمنًا
+firefox-privacy-hub-no-secrets = لا نُخفي الأسرار
+firefox-privacy-hub-why-trust-firefox = لماذا أثق بمتصفّح { -brand-name-firefox }؟
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = لأنّنا نضع الناس أولوية. في الواقع تقف ورائنا مؤسّسة <a href="{ $foundation }">غير ربحية</a>. ومن اليوم الأول كانت مهمّتنا هي حماية الإنترنت وكل من يستعمله.
+firefox-privacy-hub-learn-more-about-our-mission = اعرف المزيد عن مهمّتنا
+firefox-privacy-hub-firefox-products-work-differently = تعمل منتجات { -brand-name-firefox } بطريقة مختلفة؛ لأنّها صُمّمت لتحمي خصوصيتك أولًا.
+firefox-privacy-hub-learn-about-our-products = اعرف المزيد عن منتجاتنا
+firefox-privacy-hub-firefox-protects-your-privacy = يحمي { -brand-name-firefox } خصوصيتك في كل منتج.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = <strong>يحمي</strong> { -brand-name-firefox } خصوصيتك في كل منتج
+firefox-privacy-hub-download-the-firefox-browser = نزّل متصفّح { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = حدّث متصفّح { -brand-name-firefox } لديك
