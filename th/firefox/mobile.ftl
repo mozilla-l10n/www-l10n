@@ -23,14 +23,11 @@ firefox-mobile-stop-companies-from-following = หยุดบริษัทต
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-firefox-mobile-stay-off-their-radar-with = อยู่นอกเรดาร์ด้วย<a href="{ $url }">{ -brand-name-firefox }การป้องกันการติดตาม</a>
+firefox-mobile-stay-off-their-radar-with = อยู่นอกเรดาร์ด้วย<a href="{ $url }">การป้องกันการติดตามของ { -brand-name-firefox }</a>
 firefox-mobile-discover-products-that-keep = ค้นพบผลิตภัณฑ์ที่ทำให้คุณปลอดภัย
 firefox-mobile-sync-your-history-passwords = ซิงค์ประวัติ รหัสผ่าน และที่คั่นหน้าของคุณ ส่งแท็บในอุปกรณ์ทุกเครื่องของคุณ
 firefox-mobile-android-only = { -brand-name-android } เท่านั้น
 firefox-mobile-make-android-your-own = ทำให้ { -brand-name-android } เป็นของคุณเอง
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = ปรับแต่งเบราว์เซอร์มือถือ { -brand-name-firefox } ของคุณด้วย<a href="{ $url }">ส่วนขยาย</a>ที่ใช้ปิดกั้นโฆษณา จัดการรหัสผ่าน หยุด { -brand-name-facebook } ไม่ให้ตามรอยคุณ และอื่นๆ อีกมากมาย
 firefox-mobile-find-it-fast-with-a-smart = ค้นหาอย่างรวดเร็วด้วยแถบค้นหาอัจฉริยะ
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } จะคาดการณ์ความต้องการของคุณด้วยข้อเสนอแนะการค้นหาอัจฉริยะและการเข้าถึงที่รวดเร็วไปยังไซต์ที่คุณเยี่ยมชมบ่อย
 firefox-mobile-the-privacy-you-deserve-the = สัมผัสความเป็นส่วนตัวและความเร็วในแบบที่คุณคู่ควร
