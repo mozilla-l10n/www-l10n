@@ -4,6 +4,7 @@
 
 navigation-download-firefox = Telechargiar { -brand-name-firefox }
 navigation-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } per computers
 navigation-get-the-browser-that-respects = Va per il navigatur che respecta automaticamain tia sfera privata. Sin { -brand-name-windows }, { -brand-name-mac } u { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } per apparats mobils
 navigation-take-speed-privacy-and = Piglia la sveltezza e la protecziun da datas cun tai e sta patgific. Sin { -brand-name-android } e { -brand-name-ios }.
