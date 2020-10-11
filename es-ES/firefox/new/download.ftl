@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Simplemente descarga el navegador
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ya no proporciona actualizaciones de seguridad</a> para { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, pero todavía puedes usar { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Estás usando un sistema operativo poco seguro y desactualizado que <a href="{ $url }">{ -brand-name-firefox } ya no admite</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,15 @@ firefox-new-its-privacy-and-peace-of = También es <strong>privacidad y tranquil
 firefox-new-its-a-family-of-products = Es una <strong>familia de productos</strong> que tratan con respeto tu información personal.
 firefox-new-its-everything-you-need-to = Es todo lo que necesitas saber sobre <strong>cómo navegar de forma segura</strong>.
 firefox-new-its-a-community-that-believes = Es una <strong>comunidad</strong> que cree que se puede mejorar la tecnología.
+firefox-new-download-interrupted = Tu descarga se ha interrumpido. Pero no todo está perdido.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Por favor, sigue <a href="{ $url }">estas instrucciones</a> para instalar { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Puede que tu sistema no cumpla los requisitos para { -brand-name-firefox }, pero igual puedes intentar con una de <a href="{ $url }">estas versiones</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Si ves un mensaje indicando que la aplicación que estás intentando instalar no es una aplicación verificada de { -brand-name-microsoft }, haz clic en “Instalar de todas formas” o en <a { $attrs }>cambia los ajustes de recomendación de aplicaciones</a>.
+firefox-new-visit-support-for-more = Visita Ayuda para obtener más detalles
