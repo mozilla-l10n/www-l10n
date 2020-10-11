@@ -17,6 +17,7 @@ newsletter-form-get-firefox-news = รับข่าว { -brand-name-firefox }
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = ฉันตกลงให้ { -brand-name-mozilla } รองรับข้อมูลของฉันตามที่อธิบายใน <a href="{ $url }">คำแจ้งความเป็นส่วนตัวนี้</a>
 newsletter-form-we-will-only-send = เราจะส่งเฉพาะข้อมูลที่เกี่ยวข้องกับ { -brand-name-mozilla } เท่านั้น
+newsletter-form-we-will-only-send-firefox = เราจะส่งเฉพาะข้อมูลที่เกี่ยวข้องกับ { -brand-name-firefox } เท่านั้น
 newsletter-form-if-you-havent-previously = ถ้าคุณยังไม่เคยยืนยันการสมัครจดหมายข่าวที่เกี่ยวข้องกับ { -brand-name-mozilla } คุณอาจจะต้องทำต่อไปนี้ โปรดตรวจสอบกล่องจดหมายเข้าของคุณหรือตัวกรองสแปมของคุณเพื่อดูอีเมลจากเรา
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + คุณ
 newsletter-form-get-firefox-tips = รับกลเม็ด เคล็ดลับ ข่าว และอีกมากมายเกี่ยวกับ { -brand-name-firefox }
