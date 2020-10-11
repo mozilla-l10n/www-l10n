@@ -10,6 +10,7 @@ compare-shared-yes = ใช่
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = ไม่
 compare-shared-private-browsing-mode = โหมดการเรียกดูแบบส่วนตัว
+# Obsolete string
 compare-shared-blocks-third-party-tracking = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สาม
 compare-shared-blocks-cryptomining-scripts = ปิดกั้นสคริปต์การขุดเหรียญดิจิทัล
 compare-shared-blocks-social-trackers = ปิดกั้นตัวติดตามทางสังคม
@@ -27,6 +28,7 @@ compare-shared-os-availability = ความพร้อมใช้งาน�
 compare-shared-mobile-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการมือถือ
 compare-shared-syncs-with-mobile = ซิงค์กับมือถือ
 compare-shared-password-management = การจัดการรหัสผ่าน
+# Obsolete string
 compare-shared-master-password = รหัสผ่านหลัก
 compare-shared-security-and-privacy = ความปลอดภัยและความเป็นส่วนตัว
 compare-shared-utility = อรรถประโยชน์
@@ -38,6 +40,9 @@ compare-shared-utility-strong = <strong>อรรถประโยชน์</st
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>ความสามารถในการพกพา</strong>
 compare-shared-overall-assessment = การประเมินโดยภาพรวม
+# Obsolete string
+compare-shared-the-comparisons-made-here = การเปรียบเทียบที่ทำที่นี่ได้ทำในเบราว์เซอร์รุ่นดังนี้:
+compare-shared-this-page-updated-semi-quarterly = หน้านี้อัปเดตทุกครึ่งไตรมาสเพื่อแสดงรุ่นล่าสุดและอาจไม่แสดงการอัปเดตล่าสุดเสมอไป
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -45,4 +50,10 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-download-firefox = ดาวน์โหลด { -brand-name-firefox }
+compare-shared-download-firefox-browser = ดาวน์โหลด{ -brand-name-firefox-browser }
+compare-shared-download-the-app = ดาวน์โหลดแอป
+compare-shared-desktop = เดสก์ท็อป
+compare-shared-brand-name-android = { -brand-name-android }
+compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = เปรียบเทียบเบราว์เซอร์

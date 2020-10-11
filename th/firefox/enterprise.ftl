@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise = { -brand-name-enterprise }
+firefox-enterprise-overview = ภาพรวม
+firefox-enterprise-downloads = ดาวน์โหลด
 firefox-enterprise-macos = { -brand-name-mac }

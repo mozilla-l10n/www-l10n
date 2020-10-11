@@ -10,6 +10,9 @@
 nightly-whatsnew-youve-just-been = คุณเพิ่งอัปเกรดเป็น { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } ของคุณได้รับการอัปเดตแล้ว
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-4-to-5-weeks = จะมีการออก { -brand-name-firefox } รุ่นหลักใหม่ทุก 4 ถึง 5 สัปดาห์และด้วยเหตุนี้ { -brand-name-nightly } ก็ออกรุ่นใหม่เช่นกัน
+# Obsolete
+nightly-whatsnew-every-6-to-8-weeks = จะมีการออก { -brand-name-firefox } รุ่นหลักใหม่ทุก 6 ถึง 8 สัปดาห์และด้วยเหตุนี้ { -brand-name-nightly } ก็ออกรุ่นใหม่เช่นกัน
 nightly-whatsnew-this-is-a-good = นี่เป็นช่วงเวลาที่ดีในการขอบคุณที่ช่วยเราทำให้ { -brand-name-firefox } ดีขึ้น และเพื่อให้คุณได้รับข้อมูลเพิ่มเติม จึงขอแนะนำเอกสาร ช่องทางการสื่อสาร และไซต์ข่าวที่เกี่ยวข้องกับ { -brand-name-nightly } ซึ่งคุณอาจสนใจ
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/

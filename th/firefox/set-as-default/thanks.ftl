@@ -7,6 +7,7 @@
 
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = ขอบคุณที่เลือก { -brand-name-firefox }
+set-as-default-thanks-success-your-default-browser = สำเร็จ! เบราว์เซอร์เริ่มต้นของคุณถูกตั้งค่าเป็น { -brand-name-firefox } แล้ว
 set-as-default-thanks-download-the-app = ดาวน์โหลดแอป
 set-as-default-thanks-join-firefox = เข้าร่วม { -brand-name-firefox }
 set-as-default-thanks-having-trouble = มีปัญหาหรือไม่?
