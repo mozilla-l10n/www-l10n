@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = ‏{ -brand-name-firefox } לעומת { -brand-name-chrome }: מי יותר טוב?
+# HTML page description
+compare-chrome-we-compare-mozilla-firefox = אנו משווים את { -brand-name-mozilla } { -brand-name-firefox } מול { -brand-name-google } { -brand-name-chrome } מבחינת פרטיות, שימושיות וניידות פלטפורמות
 # Main title.
 compare-chrome-comparing-firefox-browser = השוואה בין ה{ -brand-name-firefox-browser(case: "a") } ל־{ -brand-name-google } { -brand-name-chrome }

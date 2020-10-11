@@ -11,6 +11,8 @@ firefox-accounts-there-is-a-way-to = יש דרך להגן על הפרטיות ש
 firefox-accounts-get-a-firefox-account = הרשמה ל{ -brand-name-firefox-account(case: "a") } – שמירה על הנתונים שלך פרטיים, מאובטחים ומסונכרנים
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = יש דרך להגן על הפרטיות שלך. <span>להצטרף ל־{ -brand-name-firefox }.</span>
+# The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
+firefox-accounts-youre-signed-in-to = התחברת <br>לתוך { -brand-name-firefox }. <br><span>כעת כדאי לנסות את { -brand-name-firefox-monitor }.</span>
 firefox-accounts-sign-in-to-monitor = כניסה ל־{ -brand-name-monitor }
 firefox-accounts-join-firefox = הצטרפות ל־{ -brand-name-firefox }
 firefox-accounts-enter-your-email-address = נא להכניס את כתובת הדוא״ל שלך כדי להתחיל.
