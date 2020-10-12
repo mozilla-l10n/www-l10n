@@ -27,6 +27,7 @@ firefox-desktop-download-blocks-social-trackers = Zavračanje sledilcev družben
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Podpora operacijskim sistemom
 firefox-desktop-download-in-browser-screenshot = Orodje za zajemanje zaslonskih posnetkov
+firefox-desktop-download-primary-password = Glavno geslo
 # Obsolete string
 firefox-desktop-download-master-password = Glavno geslo
 firefox-desktop-download-we-block-the-ad = Mi zavračamo oglaševalske sledilce. Vi hitreje brskate po sletu.
