@@ -97,7 +97,7 @@ firefox-desktop-download-tweak-your-settings = 调整设置
 firefox-desktop-download-theres-no-need = 不必特别学习如何操作。随心定制新标签页页面、搜索栏、书签等元素，用您的方式探索网络。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = 由以人为本的<strong>非营利组织</strong>全力支持
-firefox-desktop-download-challenging-the-status = 从1998 年起就挑战现状
+firefox-desktop-download-challenging-the-status = 1998 至今，不断挑战现状
 firefox-desktop-download-your-privacy-comes = 将您的隐私放在首位
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = 您熟悉的浏览器功能一个没少 — 还有更多新功能待您<strong>探索</strong>。
