@@ -30,6 +30,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ναι
 firefox-desktop-download-no = Όχι
 firefox-desktop-download-blocks-third-party = Φραγή cookies καταγραφής τρίτων
+firefox-desktop-download-blocks-third-party-default = Φραγή cookies καταγραφής τρίτων από προεπιλογή
 firefox-desktop-download-autoplay-blocking = Φραγή αυτόματης αναπαραγωγής
 firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών κοινωνικής δικτύωσης
 # OS is short for "Operating System"
