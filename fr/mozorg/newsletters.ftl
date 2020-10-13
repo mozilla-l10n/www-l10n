@@ -1,0 +1,255 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
+# Page title the subscription preferences page
+newsletters-newsletter-subscriptions = Inscription à notre lettre d’information
+# Page titlefor https://www-dev.allizom.org/newsletter/
+newsletters-mozilla-newsletter = Lettre mensuelle de { -brand-name-mozilla }
+# Headline for https://www-dev.allizom.org/newsletter/
+newsletters-read-all-about-it-in-our-newsletter = Découvrez notre <span>lettre d’information</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-to-updates-and-keep = Abonnez-vous pour ne rien manquer de l’actualité { -brand-name-mozilla }. C’est le meilleur moyen de rester en contact avec nous !
+# Page title the subscription confirmation page
+newsletters-newsletter-confirm = Message de confirmation de la lettre d’information
+newsletters-thanks-for-subscribing = Merci pour votre inscription !
+newsletters-your-newsletter-subscription = Votre inscription à la lettre d’information est maintenant confirmée.
+newsletters-please-be-sure-to-add-our = Veuillez vous assurer que notre adresse d’expéditeur mozilla@e.mozilla.org est bien ajoutée à votre carnet d’adresses, afin que nos messages arrivent à coup sûr dans votre boîte.
+newsletters-the-supplied-link-has-expired = Le lien fourni n’est plus valide. Vous recevrez un nouveau lien dans la prochaine lettre d’information.
+newsletters-something-is-amiss-with = Nous sommes désolés, notre système a rencontré une erreur. Veuillez réessayer ultérieurement.
+newsletters-youre-awesome = Vraiment, merci.
+newsletters-and-were-not-just-saying = Et on ne dit pas ça uniquement parce que vous nous faites confiance en nous communiquant votre adresse électronique.
+newsletters-please-be-sure-to-add-mozillaemozillaorg = Pensez à ajouter mozilla@e.mozilla.org à votre carnet d’adresses pour vous assurer que nos messages atterrissent toujours dans votre boîte de réception.
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } aborde de nombreux thèmes importants.
+newsletters-open-your-inbox-and-your = Ouvrez un peu plus votre boîte de réception (et votre cœur) et jetez un œil aux autres sujets dont nous nous préoccupons.
+newsletters-manage-your-email-preferences = Gérez vos préférences concernant les messages électroniques
+newsletters-this-page-is-in-maintenance = Cette page est en cours de maintenance et est temporairement indisponible.
+newsletters-to-update-your-email-preferences = Pour actualiser vos préférences de messagerie électronique, veuillez consulter cette page ultérieurement. Merci de votre compréhension.
+newsletters-we-love-sharing-updates = Nous aimons partager des informations sur tout ce qu’il se passe chez { -brand-name-mozilla }.
+newsletters-set-your-preferences-below = Réglez vos préférences ci-dessous pour être sûr de toujours recevoir les actualités que vous souhaitez.
+# Form field label
+newsletters-your-email-address = Votre courriel :
+# Form field label
+newsletters-country-or-region = Pays ou région :
+# Form field label
+newsletters-country = Pays :
+# Form field label
+newsletters-language = Langue :
+newsletters-not-all-subscriptions-are = Les abonnements ne sont pas tous disponibles dans toutes les langues citées. Ils sont presque tous proposés en anglais, allemand et français.
+# Form field label
+newsletters-format = Format :
+newsletters-text-subscribers-will-receive = Les personnes abonnées à nos SMS recevront deux courriers électroniques par an pour confirmer le maintien de l’abonnement. Ces courriers électroniques pourront inclure du langage HTML.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+newsletters-many-of-our-communications = De nombreuses communications de notre part sont liées à un compte que vous avez ouvert, comme votre compte Firefox, { -brand-name-mdn-web-docs } ou l’outil de développement de modules. Pour gérer l’un de vos comptes ou consulter la liste de tous vos comptes, rendez-vous sur notre <a href="{ $url }">page d’aide à la gestion des comptes</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/accounts/
+newsletters-to-get-access-to-the-whole = Pour accéder à tout l’univers des produits, des connaissances et des services { -brand-name-firefox } avec un seul compte, rejoignez-nous ! Pour en savoir plus sur les avantages, c’est <a href="{ $url }">par ici</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = Vous pouvez interagir avec { -brand-name-mozilla } et { -brand-name-firefox } de multiples façons. Si vous n’avez pas trouvé ce que vous cherchez ici, visitez nos <a href="{ $url }">pages communautaires</a>.
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } n’est pas une lettre d’information valide
+newsletters-subscribe = Abonnement
+newsletters-remove-me-from-all-the = Annuler tous mes abonnements sur cette page
+newsletters-save-preferences = Enregistrer les préférences
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = Récupération de l’adresse électronique utilisée pour la lettre d’informations
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = Gérez vos <span>abonnements</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Entrez votre adresse électronique et nous vous enverrons un lien pour gérer vos choix relatifs au courrier électronique.
+newsletters-send-me-a-link = Envoyez-moi un lien
+newsletters-youve-been-unsubscribed = Vous avez été désinscrit.
+newsletters-were-sorry-to-see-you-go = C’est triste de vous voir partir…
+newsletters-would-you-mind-telling-us = Pourriez-vous expliquer les raisons de votre choix ?
+newsletters-other = Autre…
+newsletters-submit = Envoyer
+newsletters-thanks-for-telling-us-why = Merci de nous dire pourquoi vous vous désabonnez.
+newsletters-while-here-why-not-check = Pourquoi ne pas en profiter pour découvrir d’autres fonctionnalités particulières de { -brand-name-firefox } ?
+newsletters-get-up-and-go = En avant !
+newsletters-its-your-web-anywhere-you = Emportez votre Web partout avec vous.
+newsletters-get-firefox-for-mobile = Télécharger { -brand-name-firefox } pour appareils mobiles.
+newsletters-added-extras = Fonctionnalités supplémentaires
+newsletters-make-firefox-do-more-with = Ajoutez des fonctionnalités à { -brand-name-firefox } grâce aux modules complémentaires.
+newsletters-find-out-how = Découvrez comment !
+newsletters-about-us = À propos de nous
+newsletters-whats-mozilla-all-about = { -brand-name-mozilla }, c’est quoi exactement ?
+newsletters-were-glad-you-asked = Merci d’avoir posé la question !
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = Vous aimez le Web ? Nous aussi !
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = Parcourez l’univers du développement web avec notre lettre d’information hebdomadaire pour les développeurs. Chaque numéro comprend des astuces et bonnes pratiques pour coder, les nouveautés arrivées sur { -brand-name-mdn }, des informations sur les technologies émergentes, sur les outils de développement et bien d’autres choses encore.
+# Obsolete string
+newsletters-join-thousands-of-developers = Rejoignez des milliers de développeurs qui apprennent ce qu’il se fait de mieux en matière de développement web.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Une touche de Firefox dans votre boîte de réception.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Chaque mois, découvrez tout le potentiel du Web en recevant des astuces et des conseils pour { -brand-name-firefox }, ainsi que des informations liées à Internet.
+newsletters-we-are-sorry-but-there = Nous sommes désolés, mais un problème est apparu dans notre système. Veuillez réessayer un peu plus tard !
+newsletters-thanks-for-updating-your = Merci d’avoir mis à jour vos préférences de réception du courrier.
+newsletters-the-supplied-link-has-expired-long = Le lien que vous avez suivi a expiré ou bien n’est pas valide. Vous en recevrez un nouveau avec la prochaine lettre mensuelle, sinon vous pouvez demander un courriel avec un nouveau lien.
+newsletters-success-an-email-has-been-sent = Terminé ! Un courrier électronique vous a été envoyé avec un lien vers le centre des préférences. Merci !
+newsletters-this-is-not-a-valid-email = Ce n’est pas une adresse électronique valide. Veuillez vérifier votre saisie.
+newsletters-you-send-too-many-emails = Vous envoyez trop de courriels.
+newsletters-your-content-wasnt-relevant = Le contenu ne me concernait pas.
+newsletters-your-email-design = La lettre était visuellement pénible à lire.
+newsletters-i-didnt-sign-up = Je ne m’étais pas inscrit à cette lettre.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+newsletters-this-email-address-is-not = Cette adresse électronique ne fait pas partie de nos registres. Vérifiez votre adresse ou <a href="{ $url }">abonnez-vous à nos lettres d’informations</a>.
+newsletters-im-keeping-in-touch = Je suis déjà les nouvelles concernant { -brand-name-mozilla } sur { -brand-name-facebook } et { -brand-name-twitter }.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Inscrivez-vous,<br> informez-vous.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Inscrivez-vous. Informez-vous. <br>Faites toute la différence.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Devenez incollable sur les problématiques qui touchent à votre vie numérique.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Recevez la lettre d’information { -brand-name-mozilla } pour vous tenir au courant des problèmes qui menacent la bonne santé d’Internet et pour apprendre comment vous pouvez vous impliquer.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = À propos des standards
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Développement de modules complémentaires
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Lettre d’information pour les développeurs
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Un guide à destination des développeurs qui met en avant les innovations de la plateforme web, des bonnes pratiques, la documentation récente et bien plus.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Drumbeat Newsgroup
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } pour ordinateur
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Ne manquez aucune annonce concernant notre navigateur pour ordinateur.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Impliquez-vous
+# Obsolete string
+newsletters-internet-health-report = Bulletin de santé d’Internet
+# Obsolete string
+newsletters-keep-up-with-our-annual = Informez-vous grâce à notre compilation annuelle de travaux de recherche et d’articles sur la vie privée et la sécurité, l’ouverture, l’inclusion numérique, la décentralisation et l’éducation au Web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Savoir, c’est pouvoir
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Obtenez toutes les connaissances nécessaires pour assurer votre sécurité en ligne et utiliser intelligemment Internet.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = À propos des Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Ordinateur de bureau
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozilliens
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Actualités par courrier pour les Mozilliens parrainés sur mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Forme du Web
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Nouvelles et informations concernant la santé du Web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Student Reps
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Le programme précédent pour les universités (de 2008 à 2011) prend un nouveau souffle, et devient le programme des étudiants ambassadeurs de Mozilla.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Agir pour Internet
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Participez aux pétitions, évènements et initiatives qui luttent pour l’avenir du Web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Test de nouveaux produits
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Aidez-nous à améliorer { -brand-name-firefox } pour vous en testant nos derniers produits et fonctionnalités.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Communauté { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Rejoignez les Mozilliens du monde entier et découvrez comment soutenir efficacement la mission de { -brand-name-mozilla }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Une lettre mensuelle sur l’actualité du programme { -brand-name-firefox } Affiliates.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Une lettre d’information mensuelle pour savoir comment s’impliquer avec { -brand-name-mozilla } dans votre université ou votre école.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Actualité des versions bêta
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Découvrez toutes les nouveautés à venir de { -brand-name-firefox } dans ses déclinaisons classique et mobile.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Téléchargez { -brand-name-firefox } pour { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Adoptez { -brand-name-firefox } pour { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Téléchargez { -brand-name-firefox } pour { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Téléchargez { -brand-name-firefox } pour mobile
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Des astuces pour votre compte Firefox
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Tirez le meilleur parti de votre compte Firefox.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Tenez-vous au courant par courrier des étapes de notre concours international de vidéos.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } pour { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Soyez averti de la disponibilité de { -brand-name-firefox } pour les appareils { -brand-name-ios }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Vous avez déjà un smartphone Firefox OS ?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Ne manquez pas les nouvelles importantes et les actualités concernant votre appareil Firefox OS.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = Firefox OS + Vous
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Une lettre d’information mensuelle et des annonces particulières sur la façon de tirer le meilleur parti de votre appareil Firefox OS, sans oublier les dernières fonctionnalités et les applications les plus sympas du { -brand-name-firefox-marketplace } !
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Astuces hebdomadaires pour { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Chaque semaine, une nouvelle astuce qui vous fera naviguer comme un pro avec { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Rejoindre { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = La plus grande fête, organisée par { -brand-name-mozilla }, pour célébrer la création et l’apprentissage sur le Web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Découvrez les applications HTML5 les plus sympas pour Firefox OS.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Nouvelles, astuces, points de vente et informations sur le lancement de Firefox OS.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } pour { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Tenez-vous au courant des sorties et de l’actualité de { -brand-name-firefox } pour { -brand-name-android }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Actualité de { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Des guides, des conseils et des actualités pour vous offrir une expérience { -brand-name-firefox } sur mesure.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = Festival Mozilla
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Des annonces spéciales sur le festival annuel de { -brand-name-mozilla }, consacré à la pratique et à la construction du futur du Web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Actualité de { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Des mises à jour régulières pour vous informer et vous impliquer dans notre lutte pour un meilleur Internet.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Des annonces spéciales et des messages de l’équipe dédiée à la sauvegarde d’un Web libre et ouvert.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Des actualités de notre communauté mondiale qui participe à l’enseignement des compétences les plus importantes aujourd’hui : savoir lire, écrire et participer au monde numérique.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Nous concevons les technologies du futur. Venez les découvrir avec nous.
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Des annonces spéciales pour que vous puissiez tirer le meilleur parti de { -brand-name-webmaker }.
