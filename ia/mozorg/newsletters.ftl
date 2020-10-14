@@ -17,3 +17,7 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 newsletters-mozilla = { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
