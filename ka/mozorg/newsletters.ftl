@@ -38,3 +38,7 @@ newsletters-country-or-region = ქვეყანა ან მხარე:
 newsletters-country = ქვეყანა:
 # Form field label
 newsletters-language = ენა:
+newsletters-not-all-subscriptions-are = ყველა გამოწერა არაა მხარდაჭერილი თითოეულ ჩამოთვლილ ენაზე. თითქმის ყველა ხელმისაწვდომია ინგლისურ, გერმანულ და ფრანგულ ენაზე.
+# Form field label
+newsletters-format = გაფორმება:
+newsletters-text-subscribers-will-receive = გამომწერები იღებენ ელფოსტას წელიწადში ორჯერ, გამოწერის გასაგრძელებლად. ამგვარი წერილები შეიძლება შეიცავდეს HTML-ს.
