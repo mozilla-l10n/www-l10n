@@ -81,4 +81,6 @@ newsletters-about-us = ჩვენ შესახებ
 newsletters-whats-mozilla-all-about = რა მიზნები აქვს { -brand-name-mozilla }-ს?
 newsletters-were-glad-you-asked = მოხარულნი ვართ, რომ გვკითხეთ!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
-newsletters-love-the-web-so-do-we = გიყვართ ვებსამყარო? ჩვენც!
+newsletters-love-the-web-so-do-we = გიყვართ ვებსივრცე? ჩვენც!
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = შეაბიჯეთ ვებშემუშავების სამყაროში, ჩვენი ყოველკვირეული { -brand-name-mozilla } Developer ახალი ამბების ცნობარის მეშვეობით. თითოეულ გამოცემაში შეისწავლით კოდის წერის ოსტატობასა და მიიღებთ გამოცდილ რჩევებს, გაეცნობით { -brand-name-mdn }-სიახლეებს, ახლადდანერგილ ტექნოლოგიებს, შემუშავების ხელსაწყოთა სახელმძღვანელო მითითებებს და ა.შ.
