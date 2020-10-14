@@ -118,6 +118,14 @@ newsletters-knowledge-is-power = ცოდნა ძალაა
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = მიიღეთ ყველა საჭირო ცოდნა, ინტერნეტის მეტად უსაფრთხოდ და გონივრულად გამოყენებისთვის.
 # Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Labs შესახებ
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = კომპიუტერი
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = მოზილელები
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = { -brand-name-mozilla } ერთობა
+# Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = { -brand-name-beta } სიახლეები
@@ -159,6 +167,8 @@ newsletters-firefox-os-news = { -brand-name-firefox-os }-ის სიახლ�
 newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android }-ზე
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = { -brand-name-firefox } სიახლეები
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = მიიღეთ ინფორმაცია, რჩევები და სიახლეები, თუ როგორ გამოიყენოთ { -brand-name-firefox } სრულყოფილად.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Name for the newsletter in Newsletter subscription page
