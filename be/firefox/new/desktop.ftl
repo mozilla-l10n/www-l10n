@@ -31,6 +31,9 @@ firefox-desktop-download-see-your-report = Праглядзіце справаз
 firefox-desktop-download-for-everyone = { -brand-name-firefox } — для ўсіх
 firefox-desktop-download-review-system-req = Паглядзіце сістэмныя патрабаванні
 firefox-desktop-download-all-your-devices = Пастаўце { -brand-name-firefox } на ўсе свае прылады
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Рабіце <strong>ўсё</strong> гэта з дапамогай { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Шукайце разумней, хутчэй
 firefox-desktop-download-search-from-address = Пошук у адрасным радку
 firefox-desktop-download-search-engine-options = Налады пошукавых сістэм
 firefox-desktop-download-bookmark-history = Закладкі, гісторыя і адкрытыя карткі ў выніках
