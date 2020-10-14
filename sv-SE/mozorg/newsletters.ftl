@@ -1,0 +1,71 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
+# Page titlefor https://www-dev.allizom.org/newsletter/
+newsletters-mozilla-newsletter = { -brand-name-mozilla } Nyhetsbrev
+newsletters-thanks-for-subscribing = Tack för att du prenumererar!
+newsletters-your-newsletter-subscription = Din nyhetsbrevsprenumeration har bekräftats.
+# Form field label
+newsletters-your-email-address = Din e-postadress:
+# Form field label
+newsletters-country-or-region = Land eller region:
+# Form field label
+newsletters-country = Land:
+# Form field label
+newsletters-language = Språk:
+# Form field label
+newsletters-format = Format:
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } är inte ett giltigt nyhetsbrev
+newsletters-subscribe = Prenumerera
+newsletters-save-preferences = Spara inställningar
+newsletters-send-me-a-link = Skicka mig en länk
+newsletters-youve-been-unsubscribed = Du har avslutat prenumerationen.
+newsletters-were-sorry-to-see-you-go = Vi är ledsna över att se dig lämna.
+newsletters-would-you-mind-telling-us = Skulle du kunna tänka dig att berätta för oss varför du lämnar?
+newsletters-other = Annat…
+newsletters-submit = Skicka in
+newsletters-thanks-for-telling-us-why = Tack för att du berättar för oss varför du lämnar oss.
+newsletters-get-up-and-go = Sätt igång
+newsletters-its-your-web-anywhere-you = Det är din webb vart du än går.
+newsletters-get-firefox-for-mobile = Skaffa { -brand-name-firefox } för mobil!
+newsletters-make-firefox-do-more-with = Få { -brand-name-firefox } att göra mer med tillägg.
+newsletters-find-out-how = Ta reda på hur!
+newsletters-about-us = Om oss
+newsletters-were-glad-you-asked = Roligt att du frågar!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = Älskar du webben? Det gör vi också!
+newsletters-sign-in-to-monitor = Logga in på { -brand-name-monitor }
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Om standarder
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Tilläggsutveckling
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Nyhetsbrev för utvecklare
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Engagera dig
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insikter
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Om Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozillianer
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = { -brand-name-beta } Nyheter
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Hämta { -brand-name-firefox } för { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Hämta { -brand-name-firefox } för { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Hämta { -brand-name-firefox } för mobil
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } Tips
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Dig
