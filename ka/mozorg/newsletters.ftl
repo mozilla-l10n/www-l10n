@@ -42,3 +42,6 @@ newsletters-not-all-subscriptions-are = ყველა გამოწერა
 # Form field label
 newsletters-format = გაფორმება:
 newsletters-text-subscribers-will-receive = გამომწერები იღებენ ელფოსტას წელიწადში ორჯერ, გამოწერის გასაგრძელებლად. ამგვარი წერილები შეიძლება შეიცავდეს HTML-ს.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+newsletters-many-of-our-communications = ურთიერთობის დამყარება უმეტესად ხდება თქვენი ანგარიშების მეშვეობით, რომელთაც იყენებს { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } ან დამატებების შემმუშავებელი.  თუ გსურთ, რომელიმე თქვენი ანგარიშის მართვა ან სრული სიის ნახვა, ეწვიეთ <a href="{ $url }">ანგარიშის მართვის მხარდაჭერის გვერდს</a>.
