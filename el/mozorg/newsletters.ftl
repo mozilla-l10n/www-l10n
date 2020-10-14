@@ -5,20 +5,93 @@
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
+# Page title the subscription preferences page
+newsletters-newsletter-subscriptions = Συνδρομές δελτίων ειδήσεων
+# Page titlefor https://www-dev.allizom.org/newsletter/
+newsletters-mozilla-newsletter = Ενημερωτικό δελτίο { -brand-name-mozilla }
+# Page title the subscription confirmation page
+newsletters-newsletter-confirm = Επιβεβαίωση ενημερωτικού δελτίου
+newsletters-thanks-for-subscribing = Σας ευχαριστούμε για την εγγραφή σας!
+newsletters-manage-your-email-preferences = Διαχείριση προτιμήσεων email
+# Form field label
+newsletters-your-email-address = Η διεύθυνση email σας:
+# Form field label
+newsletters-country-or-region = Χώρα ή περιοχή:
+# Form field label
+newsletters-country = Χώρα:
+# Form field label
+newsletters-language = Γλώσσα:
+# Form field label
+newsletters-format = Μορφή:
+newsletters-subscribe = Εγγραφή
+newsletters-save-preferences = Αποθήκευση προτιμήσεων
+newsletters-send-me-a-link = Αποστολή συνδέσμου
+newsletters-youve-been-unsubscribed = Έχετε καταργήσει την εγγραφή σας.
+newsletters-were-sorry-to-see-you-go = Λυπούμαστε που αποχωρείτε.
+newsletters-would-you-mind-telling-us = Θα σάς πείραζε να μας πείτε για ποιο λόγο αποχωρείτε;
 newsletters-other = Άλλο…
 newsletters-submit = Υποβολή
+newsletters-thanks-for-telling-us-why = Σάς ευχαριστούμε που μας εξηγείτε γιατί αποχωρείτε.
+newsletters-added-extras = Επιπλέον προσθήκες
+newsletters-find-out-how = Μάθετε πώς!
 newsletters-about-us = Σχετικά με εμάς
+newsletters-were-glad-you-asked = Χαιρόμαστε που ρωτήσατε!
+newsletters-you-send-too-many-emails = Στέλνετε πάρα πολλά email.
+newsletters-i-didnt-sign-up = Δεν είχα κάνει εγγραφή.
 newsletters-download-the-app = Λήψη εφαρμογής
+newsletters-check-for-data-breaches = Έλεγχος για παραβιάσεις δεδομένων
 newsletters-sign-in-to-monitor = Σύνδεση στο { -brand-name-monitor }
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Ανάπτυξη προσθέτων
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Ενημερωτικό δελτίο προγραμματιστών
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Ομάδα συζήτησης Drumbeat
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Συμμετοχή
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Η γνώση είναι δύναμη
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Υπολογιστές
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 # Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Κοινότητα { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Ειδήσεις { -brand-name-beta }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Λήψη { -brand-name-firefox } για { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Λήψη { -brand-name-firefox } για { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Λήψη { -brand-name-firefox } για { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Λήψη { -brand-name-firefox } για κινητές συσκευές
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Συμβουλές { -brand-name-firefox-accounts }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } για { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Εσείς
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Ειδήσεις { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Ειδήσεις { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
