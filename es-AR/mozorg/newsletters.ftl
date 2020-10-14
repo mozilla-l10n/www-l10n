@@ -6,6 +6,6 @@
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 # Page title the subscription preferences page
-newsletters-newsletter-subscriptions = Suscripciones al boletín de noticias
+newsletters-newsletter-subscriptions = Suscripciones al boletín
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Boletín de { -brand-name-mozilla }
