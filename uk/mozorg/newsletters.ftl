@@ -122,12 +122,15 @@ newsletters-check-for-data-breaches = Перевірити на витік да�
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } — це безплатна послуга, яка дозволяє дізнатись, чи помічено ваші дані у витоках в Інтернеті.
 newsletters-sign-in-to-monitor = Увійти до { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Знайомтесь, наш батьківський бренд
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, неприбуткова організація, що випускає { -brand-name-firefox }, ставить людей понад прибуток у всьому, що ми говоримо, будуємо та робимо.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Про стандарти
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = Розробка додатків
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Інформаційний бюлетень для розробників
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Посібник розробника з основних нововведень вебплатформ, найкращих практик, нової документації тощо.
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Група новин Drumbeat
 # Name for the newsletter in Newsletter subscription page
@@ -140,6 +143,8 @@ newsletters-get-involved = Долучитися
 newsletters-insights = Довідка
 # Obsolete string
 newsletters-internet-health-report = Звіт про здоров'я Інтернету
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } публікує статті та глибоко занурюється в питання охорони здоров’я Інтернету та надійного ШІ, включно з нашим щорічним звітом про стан здоров’я Інтернету.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Знання це сила
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
