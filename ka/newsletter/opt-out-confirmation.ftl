@@ -21,6 +21,7 @@ opt-out-confirmation-prefer-to-get = ამჯობინებთ ინფო
 opt-out-confirmation-check-out-our = გაეცანით ჩვენს სვეტებს
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = დახმარების მიღება
+opt-out-confirmation-subscribe-to = გამოიწერეთ სიახლეების პერიოდული ცნობარი { -brand-name-firefox }-ისგან
 # Link to https://www.instagram.com/mozilla/
 opt-out-confirmation-instagram = { -brand-name-instagram }
 # Link to https://www.youtube.com/firefoxchannel

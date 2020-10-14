@@ -28,3 +28,6 @@ newsletter-form-select-country = ქვეყნის არჩევა
 newsletter-form-sign-me-up = გამოწერა
 newsletter-form-sign-up-now = გამოწერა
 newsletter-form-thanks = გმადლობთ!
+newsletter-form-leave-this-field-empty = ამ ველის ცარიელად დატოვება.
+newsletter-form-yes = დიახ
+newsletter-form-no = არა
