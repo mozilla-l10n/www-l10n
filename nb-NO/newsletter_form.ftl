@@ -28,3 +28,6 @@ newsletter-form-select-country = Velg land
 newsletter-form-sign-me-up = Registrer meg
 newsletter-form-sign-up-now = Registrer deg nå
 newsletter-form-thanks = Takk!
+newsletter-form-leave-this-field-empty = La dette feltet være tomt.
+newsletter-form-yes = Ja
+newsletter-form-no = Nei
