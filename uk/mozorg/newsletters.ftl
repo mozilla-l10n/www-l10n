@@ -145,6 +145,8 @@ newsletters-insights = Довідка
 newsletters-internet-health-report = Звіт про здоров'я Інтернету
 # Description for the newsletter in Newsletter subscription page (Insights))
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } публікує статті та глибоко занурюється в питання охорони здоров’я Інтернету та надійного ШІ, включно з нашим щорічним звітом про стан здоров’я Інтернету.
+# Obsolete string
+newsletters-keep-up-with-our-annual = Слідкуйте за нашою щорічною збіркою досліджень та історій щодо питань приватности та безпеки, відкритости, цифрового включення, децентралізації та цифрової грамотности.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Знання це сила
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
@@ -157,12 +159,18 @@ newsletters-desktop = Комп'ютер
 newsletters-mozillians = Мозилівці
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = Оновлення електронною поштою для Мозилівців на mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Стан Мережі
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 newsletters-news-and-information = Новини та відомості, пов’язані зі здоров’ям Інтернету.
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Студентські представники
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Колишня університетська програма 2008-2011 років вже закінчилась, нова програма називається Студентський представник Firefox.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Дійте для захисту Інтернету
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Додайте свій голос до петицій, заходів та ініціатив, які борються за майбутнє Інтернету.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Тестування нового продукту
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
@@ -235,17 +243,31 @@ newsletters-firefox-for-android = { -brand-name-firefox } для { -brand-name-a
 newsletters-keep-up-with-releases = Слідкуйте за випусками та новинами про { -brand-name-firefox } для { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Новини { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Отримуйте настанови, поради та новини, щоб ваша робота з { -brand-name-firefox } була якнайкращою для вас.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Спеціальні оголошення про щорічний практичний фестиваль { -brand-name-mozilla }, присвячений куванню майбутнього відкритої Мережі.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Новини { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Регулярні оновлення, щоб тримати вас в курсі та активно брати участь у нашій боротьбі за найкращий Інтернет.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Спеціальні оголошення та повідомлення від команди, діяльність якої присвячено вільній та відкритій Мережі.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = Навчальна мережа { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Оновлення від нашої всесвітньої спільноти, яка допомагає людям освоїти найважливіші навички нашого часу: вміння читати, писати та діяти у цифровому світі.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Ми будуємо технологію майбутнього. Досліджуймо разом.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Спеціальні оголошення, що допомагають отримати якнайбільше від { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
