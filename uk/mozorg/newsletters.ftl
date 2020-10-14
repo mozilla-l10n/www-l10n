@@ -45,6 +45,15 @@ newsletters-text-subscribers-will-receive = Передплатники текс�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 newsletters-many-of-our-communications = Багато наших повідомлень пов’язані з обліковим записом, з яким ви зареєструвались, наприклад { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } або запис розробника додатків. Щоб керувати одним зі своїх облікових записів або переглянути перелік усіх облікових записів, відвідайте нашу <a href="{ $url }">довідку про керування обліковими записами</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/accounts/
+newsletters-to-get-access-to-the-whole = Щоб отримати доступ до всього світу продуктів, знань та послуг { -brand-name-firefox } в одному обліковому записі, приєднуйтеся до нас! Дізнайтеся більше про переваги <a href="{ $url }">тут</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = Існує багато способів взаємодії з { -brand-name-mozilla } та { -brand-name-firefox }. Якщо ви не знайшли тут те, що шукали, перегляньте наші <a href="{ $url }">сторінки спільноти</a>.
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } не є дійсним бюлетенем
 newsletters-subscribe = Підписатися
 newsletters-remove-me-from-all-the = Відписатися від усього з цієї сторінки
 newsletters-save-preferences = Зберегти вподобання
@@ -66,12 +75,17 @@ newsletters-get-up-and-go = Вставайте та йдіть
 newsletters-its-your-web-anywhere-you = Це ваша Мережа, куди б ви не йшли.
 newsletters-get-firefox-for-mobile = Отримати { -brand-name-firefox } для мобільного
 newsletters-added-extras = Додатково
+newsletters-make-firefox-do-more-with = Додайте функцій до { -brand-name-firefox } за допомогою додатків.
 newsletters-find-out-how = З'ясуйвати як!
 newsletters-about-us = Про нас
 newsletters-whats-mozilla-all-about = Що таке { -brand-name-mozilla }?
 newsletters-were-glad-you-asked = Ми раді, що ви запитали!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Любите Інтернет? Ми теж!
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = Розкрийте світ веброзробки за допомогою нашого щотижневого бюлетеня для розробників від { -brand-name-mozilla }. Кожне видання пропонує вам методи написання коду та найкращі практики, оновлення { -brand-name-mdn }, подробиці про нові технології, поради щодо інструментів розробника тощо.
+# Obsolete string
+newsletters-join-thousands-of-developers = Приєднуйтеся до тисяч таких розробників як ви, які вивчають найкраще у веброзробці.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Покладіть більше лисиць у свою поштову скриньку.
 newsletters-we-are-sorry-but-there = Нам шкода, але виникла проблема з нашою системою. Будь ласка, спробуйте пізніше!
@@ -188,3 +202,23 @@ newsletters-firefox-os = { -brand-name-firefox-os }
 newsletters-discover-the-latest = Відкривайте для себе найновіші, найкрутіші HTML5-застосунки для { -brand-name-firefox-os }.
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
 newsletters-firefox-os-news = { -brand-name-firefox-os } — поради, новини, відомості про вихід пристроїв та де купити.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } для { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Слідкуйте за випусками та новинами про { -brand-name-firefox } для { -brand-name-android }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Новини { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Новини { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Навчальна мережа { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
