@@ -56,7 +56,7 @@ newsletters-text-subscribers-will-receive = Text subscribers will receive an ema
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Many of our communications are related to an account you’ve signed up for, such as { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, or Add-on Developer. To manage one of your accounts or see a list of all the accounts visit our <a href="{ $url }">account management support page</a>.
+newsletters-many-of-our-communications = Many of our communications are related to an account you’ve signed up for, such as { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, or Add-on Developer. To manage one of your accounts or see a list of all the accounts, visit our <a href="{ $url }">account management support page</a>.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
@@ -127,7 +127,7 @@ newsletters-your-email-design = Your email design was too hard to read.
 newsletters-i-didnt-sign-up = I didn't sign up for this.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = This email address is not in our system. Please double check your address or <a href="{ $url }">subscribe to our newsletters.</a>
 
 newsletters-im-keeping-in-touch = I'm keeping in touch with { -brand-name-mozilla } on { -brand-name-facebook } and { -brand-name-twitter } instead.
@@ -161,7 +161,7 @@ newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, the not-for-pr
 newsletters-about-standards = About Standards
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-addon-development = Addon Development
+newsletters-addon-development = Add-on Development
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Developer Newsletter
