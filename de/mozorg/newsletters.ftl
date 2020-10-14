@@ -143,6 +143,8 @@ newsletters-get-involved = Mitmachen
 newsletters-insights = Einblicke
 # Obsolete string
 newsletters-internet-health-report = Statusbericht zur Internetgesundheit
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } veröffentlicht Artikel und tiefgehende Analysen zu Themen rund um die Internetgesundheit und vertrauenswürdige KI, einschließlich unseres jährlichen Statusberichts zur Internetgesundheit.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Bleiben Sie auf dem Laufenden mit unserer jährlichen Zusammenstellung von Recherchen und Berichten zu den Themen Datenschutz &amp; Sicherheit, Offenheit, digitale Integration, Dezentralisierung und Webkompetenz.
 # Name for the newsletter in Newsletter subscription page
@@ -267,3 +269,5 @@ newsletters-were-building-the-technology = Wir entwickeln neue Technologie. Entd
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Besondere Ankündigungen, mit denen Sie das Beste aus { -brand-name-webmaker } machen können.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

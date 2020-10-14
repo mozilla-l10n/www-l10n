@@ -22,3 +22,11 @@ opt-out-confirmation-check-out-our = Kennst Du unsere Blogs?
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Wende Dich an unseren Support
 opt-out-confirmation-subscribe-to = Abonniere unseren { -brand-name-firefox } Newsletter
+# Link to https://www.instagram.com/mozilla/
+opt-out-confirmation-instagram = { -brand-name-instagram }
+# Link to https://www.youtube.com/firefoxchannel
+opt-out-confirmation-youtube = { -brand-name-youtube }
+# Link to https://www.facebook.com/Firefox
+opt-out-confirmation-facebook = { -brand-name-facebook }
+# Link to https://twitter.com/firefox
+opt-out-confirmation-twitter = { -brand-name-twitter }
