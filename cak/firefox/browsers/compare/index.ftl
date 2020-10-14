@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Kijunamaxik wuqu' utziläj taq okik'amaya'l
 compare-index-six-of-the-best-browsers-fallback = Kijunamaxik waqi' utziläj taq okik'amaya'l
 # Sub-headline
 compare-index-privacy-utility-portability = Ichinanem. Rutzil. Ruk'waxik.
