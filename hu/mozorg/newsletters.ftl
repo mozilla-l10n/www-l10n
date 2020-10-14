@@ -115,6 +115,10 @@ newsletters-your-email-preferences = Az e-mail beállítások sikeresen frissít
 newsletters-consider-it-done = Tekintse elintézettnek
 newsletters-back-to-email-preferences = Vissza az e-mail beállításokhoz
 newsletters-take-your-privacy = Vigye magával az adatvédelmet
+newsletters-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
+newsletters-download-the-app = Alkalmazás letöltése
+newsletters-check-for-data-breaches = Adatsértések keresése
+newsletters-sign-in-to-monitor = Jelentkezzen be a { -brand-name-monitor }ba
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Szabványokról
 # Name for the newsletter in Newsletter subscription page
@@ -131,6 +135,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } számítógépre
 newsletters-dont-miss-the-latest = Ne szalassza el a legfrissebb Firefox bejelentéseket.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Csatlakozzon
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Elemzések
 # Obsolete string
 newsletters-internet-health-report = Internetes egészségi jelentés
 # Obsolete string
@@ -257,3 +263,5 @@ newsletters-were-building-the-technology = A jövő technológiáját építjük
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Különleges közlemények, melyek segítenek Önnek kihozni a legtöbbet a { -brand-name-webmaker }ből.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
