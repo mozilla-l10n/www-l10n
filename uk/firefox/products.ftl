@@ -33,7 +33,7 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Знаходьте найкращі статті в мережі — та читайте їх коли забажаєте.
 firefox-products-get-pocket = Отримати { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Дізнайтеся більше про { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Приєднуйтеся до { -brand-name-firefox } та отримайте найкращий сервіс — для кожного пристрою.
+firefox-products-join-firefox-and-get-the-most = Приєднуйтеся до { -brand-name-firefox } та отримайте найкращі продукти — для кожного пристрою.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
