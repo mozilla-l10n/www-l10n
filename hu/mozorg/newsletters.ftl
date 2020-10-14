@@ -28,7 +28,7 @@ newsletters-open-your-inbox-and-your = Nyissa meg még jobban a fiókját (és a
 newsletters-manage-your-email-preferences = E-mail beállítások kezelése
 newsletters-this-page-is-in-maintenance = Ez az oldal karbantartás üzemmódban van, és átmenetileg nem érhető el.
 newsletters-to-update-your-email-preferences = Az e-mail beállítások frissítéséhez, kérjük jöjjön vissza egy kicsit később. Köszönjük!
-newsletters-we-love-sharing-updates = Szeretnénk megosztani minden érdekességet, ami a Mozillánál történik.
+newsletters-we-love-sharing-updates = Szeretnénk megosztani minden érdekességet, ami a { -brand-name-mozilla(ending: "accented") }nál történik.
 newsletters-set-your-preferences-below = Használja az alábbi beállításokat, hogy mindig a megfelelő híreket kapja.
 # Form field label
 newsletters-your-email-address = E-mail cím:
@@ -44,7 +44,7 @@ newsletters-format = Formátum:
 newsletters-text-subscribers-will-receive = Az üzenetekre feliratkozók évente két levelet kapnak, hogy megerősítsék a feliratkozásuk folytatását. Ezek az e-mailek tartalmazhatnak HTML-t is.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a Firefox-fiókhoz, az MDN Webes dokumentumokhoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="{ $url }">fiókkezelési támogatás oldalunkat</a>.
+newsletters-many-of-our-communications = Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a { -brand-name-firefox-accounts }hoz, az { -brand-name-mdn-web-docs }hoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="{ $url }">fiókkezelési támogatás oldalunkat</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Csatlakozzon hozzánk és érje el a { -brand-name-firefox } termékeinek, tudásának és szolgáltatásainak világát, egyetlen fiókkal. További információk az előnyökről <a href="{ $url }">itt</a>.
@@ -100,9 +100,9 @@ newsletters-your-content-wasnt-relevant = A tartalom nem érdekes számomra.
 newsletters-your-email-design = Az e-mail a design miatt nehezen olvasható.
 newsletters-i-didnt-sign-up = Nem iratkoztam fel.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ez az e-mail cím nem szerepel rendszerünkben. Kérjük, ellenőrizze a címet vagy <a href="{ $url }">iratkozzon fel hírleveleinkre.</a>
-newsletters-im-keeping-in-touch = Inkább a { -brand-name-facebook }on és a { -brand-name-twitter }en tartom a kapcsolatot a Mozillával.
+newsletters-im-keeping-in-touch = Inkább a { -brand-name-facebook }on és a { -brand-name-twitter }en tartom a kapcsolatot a { -brand-name-mozilla(ending: "accented") }val.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Iratkozzon fel, olvassa el,<br> legyen tájékozott.
 # Obsolete string
@@ -111,6 +111,10 @@ newsletters-sign-up-read-up-make-a-difference = Iratkozzon fel. Olvassa el.<br> 
 newsletters-get-smart-on-the-issues = Legyen tudatos az online életét érintő ügyekben.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Kapja meg a { -brand-name-mozilla } hírlevelet, hogy értesüljön az Internet egészségét veszélyeztető problémákról, és hogy felfedezze hogyan kapcsolódhat be.
+newsletters-your-email-preferences = Az e-mail beállítások sikeresen frissítve.
+newsletters-consider-it-done = Tekintse elintézettnek
+newsletters-back-to-email-preferences = Vissza az e-mail beállításokhoz
+newsletters-take-your-privacy = Vigye magával az adatvédelmet
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Szabványokról
 # Name for the newsletter in Newsletter subscription page
@@ -174,7 +178,7 @@ newsletters-a-monthly-newsletter-ambassadors = Havi hírlevél a { -brand-name-m
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
-newsletters-beta-news = Béta hírek
+newsletters-beta-news = { -brand-name-beta } hírek
 # Description for the newsletter in Newsletter subscription page (Beta News)
 newsletters-read-about-the-latest-features = Olvasson a { -brand-name-firefox } legújabb asztali és mobil változatának legújabb funkcióiról, még a végső megjelenés előtt.
 # Name for the newsletter in Newsletter subscription page
@@ -186,9 +190,9 @@ newsletters-download-firefox-for-ios = Töltse le a { -brand-name-firefox } for 
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Töltse le a { -brand-name-firefox } for Mobile-t
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Firefox fiók tippek
+newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } tippek
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Hozza ki a legtöbbet Firefox fiókjából.
+newsletters-get-the-most-firefox-account = Hozza ki a legtöbbet { -brand-name-firefox-account }ból.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
@@ -204,13 +208,13 @@ newsletters-dont-miss-important-news = Ne mulasszon el egyetlen { -brand-name-fi
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Ön
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-newsletters-a-monthly-newsletter-and-special = A havi hírlevél és a bejelentések segítségével megismerheti a legújabb funkciókat és a legjobb alkalmazásokat, hogy a lehető legtöbbet hozhassa ki a { -brand-name-firefox-os }-ből.
+newsletters-a-monthly-newsletter-and-special = A havi hírlevél és a bejelentések segítségével megismerheti a legújabb funkciókat és a legjobb { -brand-name-firefox-marketplace } alkalmazásokat, hogy a lehető legtöbbet hozhassa ki a { -brand-name-firefox-os }-ből.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Heti { -brand-name-firefox } tippek
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
 newsletters-get-a-weekly-tip = Heti hírlevél a { -brand-name-firefox } használatával kapcsolatos tippekkel.
 # Name for the newsletter in Newsletter subscription page
-newsletters-join-mozilla = Csatlakozzon a Mozillához
+newsletters-join-mozilla = Csatlakozzon a { -brand-name-mozilla(ending: "accented") }hoz
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
 # Description for the newsletter in Newsletter subscription page (Maker Party)
@@ -230,7 +234,7 @@ newsletters-firefox-news = { -brand-name-firefox } hírek
 # Description for the newsletter in Newsletter subscription page (Firefox News)
 newsletters-get-how-tos = Kapjon leírásokat, tanácsokat és híreket, hogy a lehető legjobbá tegye a { -brand-name-firefox }-élményét.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-festival = Mozilla fesztivál
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla = Különleges bejelentések a { -brand-name-mozilla } éves fesztiváljáról, ahol kézzelfoghatóan alakítható a Web jövője.
 # Name for the newsletter in Newsletter subscription page
