@@ -106,3 +106,31 @@ newsletters-insights = Довідка
 newsletters-internet-health-report = Звіт про здоров'я Інтернету
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Знання це сила
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Отримайте всі необхідні знання, користуватися Інтернетом безпечніше та розумніше.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Про Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Комп'ютер
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Мозилівці
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Оновлення електронною поштою для Мозилівців на mozillians.org.
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Новини та відомості, пов’язані зі здоров’ям Інтернету.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Тестування нового продукту
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Допоможіть нам зробити для вас кращий { -brand-name-firefox }, тестуючи наші найновіші продукти та функції.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Спільнота { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Долучайтеся до сім'ї Mozilla по всьому світу та дізнавайтеся про дивовижні можливості для підтримки місії { -brand-name-mozilla }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Партнери { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Щомісячний інформаційний бюлетень про оновлення по партнерській програмі { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = Студенти-посли { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Щомісячний інформаційний бюлетень про те, як долучитися до { -brand-name-mozilla } у вашому коледжі/університеті.
