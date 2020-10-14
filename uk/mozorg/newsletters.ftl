@@ -56,13 +56,13 @@ newsletters-there-are-many-ways-to = Існує багато способів в
 newsletters-is-not-a-valid-newsletter = { $newsletter } не є дійсним бюлетенем
 newsletters-subscribe = Підписатися
 newsletters-remove-me-from-all-the = Відписатися від усього з цієї сторінки
-newsletters-save-preferences = Зберегти вподобання
+newsletters-save-preferences = Зберегти налаштування
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-newsletter-email-recovery = Відновлення електронної пошти бюлетеня
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Керувати <span>підписками на інформаційні бюлетені</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-enter-your-email-address = Введіть свою адресу електронної пошти і ми надішлемо вам посилання на ваш центр налаштувань електронної пошти.
+newsletters-enter-your-email-address = Введіть свою адресу електронної пошти й ми надішлемо вам посилання на ваш центр налаштувань електронної пошти.
 newsletters-send-me-a-link = Надіслати мені посилання
 newsletters-youve-been-unsubscribed = Ви відписалися.
 newsletters-were-sorry-to-see-you-go = Нам шкода, що ви йдете.
@@ -88,16 +88,38 @@ newsletters-unlock-the-world-of-web = Розкрийте світ веброзр
 newsletters-join-thousands-of-developers = Приєднуйтеся до тисяч таких розробників як ви, які вивчають найкраще у веброзробці.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Покладіть більше лисиць у свою поштову скриньку.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Подивіться, куди вас може спрямувати Інтернет, використовуючи щомісячні підказки, хитрощі та Інтернет-відомості від { -brand-name-firefox }.
 newsletters-we-are-sorry-but-there = Нам шкода, але виникла проблема з нашою системою. Будь ласка, спробуйте пізніше!
-newsletters-thanks-for-updating-your = Дякуємо за оновлення своїх вподобань.
+newsletters-thanks-for-updating-your = Дякуємо за оновлення своїх налаштувань.
+newsletters-the-supplied-link-has-expired-long = Надане посилання не чинне або недійсне. Ви отримаєте нове у наступному бюлетені, або внизу можете надіслати запит на електронний лист із посиланням.
+newsletters-success-an-email-has-been-sent = Вдалося! Вам надіслано електронний лист із посиланням на ваш центр налаштувань. Дякуємо!
+newsletters-this-is-not-a-valid-email = Це недійсна електронна адреса. Перевірте написане.
 newsletters-you-send-too-many-emails = Ви надсилаєте забагато електронних листів.
 newsletters-your-content-wasnt-relevant = Ваш вміст не був доречним для мене.
 newsletters-your-email-design = Дизайн вашого електронного листа було надто важким для читання.
 newsletters-i-didnt-sign-up = Я не підписувався на це.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Ця електронна адреса відсутня в нашій системі. Перевірте свою адресу ще раз або <a href="{ $url }">підпишіться на наші розсилки.</a>
+newsletters-im-keeping-in-touch = Натомість я підтримую зв’язок із { -brand-name-mozilla } у { -brand-name-facebook } та { -brand-name-twitter }.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Реєструйтесь, читайте, <br> будьте в курсі.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Реєструйтесь. Читайте. <br> Змінюйте.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Будьте поінформовані про питання, що впливають на ваше життя в Інтернеті.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Отримайте інформаційний бюлетень { -brand-name-mozilla }, щоб бути в курсі проблем, що загрожують здоров’ю Інтернету і дізнатися, як ви можете допомогти.
+newsletters-your-email-preferences = Ваші налаштування електронної пошти успішно оновлено.
+newsletters-consider-it-done = Вважайте це зробленим
+newsletters-back-to-email-preferences = Повернутися до налаштувань електронної пошти
+newsletters-here-are-a-few-things = Ось те, що варто вивчити докладніше, поки ви чекаєте на наступний електронний лист.
 newsletters-take-your-privacy = Візьміть приватність з собою
 newsletters-travel-the-internet = Мандруйте інтернетом із захистом на усіх своїх пристроях.
 newsletters-download-the-app = Завантажити програму
 newsletters-check-for-data-breaches = Перевірити на витік даних
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } — це безплатна послуга, яка дозволяє дізнатись, чи помічено ваші дані у витоках в Інтернеті.
 newsletters-sign-in-to-monitor = Увійти до { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Знайомтесь, наш батьківський бренд
 # Name for the newsletter in Newsletter subscription page
