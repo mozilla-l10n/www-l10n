@@ -84,6 +84,8 @@ newsletters-were-glad-you-asked = მოხარულნი ვართ, რ�
 newsletters-love-the-web-so-do-we = გიყვართ ვებსივრცე? ჩვენც!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = შეაბიჯეთ ვებშემუშავების სამყაროში, ჩვენი ყოველკვირეული { -brand-name-mozilla } Developer ახალი ამბების ცნობარის მეშვეობით. თითოეულ გამოცემაში შეისწავლით კოდის წერის ოსტატობასა და მიიღებთ გამოცდილ რჩევებს, გაეცნობით { -brand-name-mdn }-სიახლეებს, ახლადდანერგილ ტექნოლოგიებს, შემუშავების ხელსაწყოთა სახელმძღვანელო მითითებებს და ა.შ.
+newsletters-thanks-for-updating-your = გმადლობთ თქვენი ელფოსტის პარამეტრების განახლებისთვის.
+newsletters-this-is-not-a-valid-email = ეს არაა ელფოსტის მართებული მისამართი. გთხოვთ გადაამოწმოთ მართლწერა.
 newsletters-you-send-too-many-emails = ზედმეტად ბევრი წერილი გამოგზავნეთ.
 newsletters-your-content-wasnt-relevant = თქვენი მასალა ჩემთვის უინტერესოა.
 newsletters-your-email-design = თქვენი ელფოსტის გაფორმება, რთული წასაკითხია.
@@ -115,3 +117,59 @@ newsletters-internet-health-report = ინტერნეტის სიჯა
 newsletters-knowledge-is-power = ცოდნა ძალაა
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = მიიღეთ ყველა საჭირო ცოდნა, ინტერნეტის მეტად უსაფრთხოდ და გონივრულად გამოყენებისთვის.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = { -brand-name-beta } სიახლეები
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = ჩამოტვირთეთ ახალი { -brand-name-firefox } { -brand-name-android }-ზე
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = გადმოწერეთ { -brand-name-firefox } { -brand-name-android }-ზე
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = ჩამოტვირთეთ { -brand-name-firefox } { -brand-name-ios }-ზე
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = ჩამოტვირთეთ { -brand-name-firefox } მობილურზე
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } რჩევები
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = სრულყოფილად გამოიყენეთ { -brand-name-firefox-account }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = პირველებმა შეიტყვეთ, როდის გახდება { -brand-name-firefox } ხელმისაწვდომი { -brand-name-ios }-მოწყობილობებზე.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = { -brand-name-firefox-os }-ტელეფონი გაქვთ?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = არ გამოტოვოთ მნიშვნელოვანი ცნობები და სიახლეები { -brand-name-firefox-os }-მოწყობილობის შესახებ.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + თქვენ
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = { -brand-name-firefox } ყოველკვირეული რჩევები
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = შემოუერთდით { -brand-name-mozilla }-ს
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = შემქმნელი მხარე
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = { -brand-name-firefox-os }-ის სიახლეები, რჩევები, გაშვების შესახებ ინფორმაცია და თუ სად შეიძლება შეძენა.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android }-ზე
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = { -brand-name-firefox } სიახლეები
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = { -brand-name-mozilla } სიახლეები
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } სასწავლო ქსელი
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
