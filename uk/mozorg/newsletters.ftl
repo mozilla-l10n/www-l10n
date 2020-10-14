@@ -119,6 +119,10 @@ newsletters-email-updates-from-vouched = Оновлення електронно
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 newsletters-news-and-information = Новини та відомості, пов’язані зі здоров’ям Інтернету.
 # Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Студентські представники
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Колишня університетська програма 2008-2011 років вже закінчилась, нова програма називається Студентський представник Firefox.
+# Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Тестування нового продукту
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better = Допоможіть нам зробити для вас кращий { -brand-name-firefox }, тестуючи наші найновіші продукти та функції.
@@ -131,6 +135,56 @@ newsletters-firefox-affiliates = Партнери { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 newsletters-a-monthly-newsletter-affiliates = Щомісячний інформаційний бюлетень про оновлення по партнерській програмі { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-student-ambassadors = Студенти-посли { -brand-name-firefox }
+newsletters-firefox-student-ambassadors = Студентські посли { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 newsletters-a-monthly-newsletter-ambassadors = Щомісячний інформаційний бюлетень про те, як долучитися до { -brand-name-mozilla } у вашому коледжі/університеті.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Новини { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Читайте про останні можливості { -brand-name-firefox } для ПК та мобільної версії до їх фінального випуску.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Завантажити { -brand-name-firefox } для { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Отримати { -brand-name-firefox } для { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Завантажити { -brand-name-firefox } для { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Завантажити { -brand-name-firefox } для мобільного
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Поради { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Отримайте якнайбільше від свого { -brand-name-firefox-account }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Періодичні оновлення електронною поштою про наше щорічне міжнародне змагання фільмів.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Будьте першими, хто дізнається, коли { -brand-name-firefox } доступний для пристроїв { -brand-name-ios }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Власник смартфона на { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Не пропустіть важливих новин та оновлень про свій пристрій на { -brand-name-firefox-os }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Ви
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Щомісячний інформаційний бюлетень та спеціальні оголошення про те, як отримати якнайбільше від пристрою з { -brand-name-firefox-os }, включно з останніми можливостями та найкращими програмами з { -brand-name-firefox-marketplace }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Щотижневі поради { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Отримуйте щотижневі поради про те, як ефективно поліпшити роботу вашого { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Приєднуйтеся до { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Вечірка творців
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = { -brand-name-mozilla } — найбільше свято створення та навчання в Інтернеті.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Відкривайте для себе найновіші, найкрутіші HTML5-застосунки для { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = { -brand-name-firefox-os } — поради, новини, відомості про вихід пристроїв та де купити.
