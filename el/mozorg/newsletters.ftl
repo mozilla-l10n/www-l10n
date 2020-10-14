@@ -73,18 +73,28 @@ newsletters-download-firefox-for-ios = Λήψη { -brand-name-firefox } για {
 newsletters-download-firefox-for-mobile = Λήψη { -brand-name-firefox } για κινητές συσκευές
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Συμβουλές { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Αξιοποιήστε στο έπακρο το { -brand-name-firefox-account } σας.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } για { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Έχετε τηλέφωνο με { -brand-name-firefox-os };
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Εσείς
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Εβδομαδιαίες συμβουλές { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Συμμετοχή στη { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Ειδήσεις { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Ειδήσεις { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
