@@ -79,3 +79,6 @@ newsletters-make-firefox-do-more-with = უკეთ გამოიყენე
 newsletters-find-out-how = იხილეთ, როგორ!
 newsletters-about-us = ჩვენ შესახებ
 newsletters-whats-mozilla-all-about = რა მიზნები აქვს { -brand-name-mozilla }-ს?
+newsletters-were-glad-you-asked = მოხარულნი ვართ, რომ გვკითხეთ!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = გიყვართ ვებსამყარო? ჩვენც!
