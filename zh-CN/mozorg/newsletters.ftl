@@ -10,7 +10,7 @@ newsletters-newsletter-subscriptions = 订阅新闻通讯
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = { -brand-name-mozilla } 新闻通讯
 # Headline for https://www-dev.allizom.org/newsletter/
-newsletters-read-all-about-it-in-our-newsletter = 在我们的 <span>新闻通讯</span> 中阅读完整信息
+newsletters-read-all-about-it-in-our-newsletter = 在我们的<span>新闻通讯</span>中阅读完整信息
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = 确认订阅
 newsletters-thanks-for-subscribing = 感谢您的订阅！
@@ -34,9 +34,14 @@ newsletters-is-not-a-valid-newsletter = { $newsletter } 不是有效的新闻通
 newsletters-subscribe = 订阅
 newsletters-remove-me-from-all-the = 退订此页面上的所有订阅
 newsletters-save-preferences = 保存首选项
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = 找回新闻通讯邮箱
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = 管理您的<span>新闻通讯订阅</span>
 newsletters-send-me-a-link = 发送链接给我
+newsletters-youve-been-unsubscribed = 您已成功退订。
+newsletters-were-sorry-to-see-you-go = 很抱歉您要离开。
+newsletters-would-you-mind-telling-us = 能否告诉我们您离开的原因？
 newsletters-other = 其他…
 newsletters-submit = 提交
 newsletters-thanks-for-telling-us-why = 感谢您告知我们离开的原因。
@@ -49,12 +54,26 @@ newsletters-about-us = 关于我们
 newsletters-were-glad-you-asked = 很高兴您问这个问题!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = 热爱 Web 吗？我们也是！
+newsletters-we-are-sorry-but-there = 很抱歉，我们的系统出现了问题，请稍后再试！
 newsletters-thanks-for-updating-your = 感谢您更新邮箱首选项。
 newsletters-this-is-not-a-valid-email = 这不是有效的电子邮件地址，请检查拼写是否有误。
 newsletters-you-send-too-many-emails = 你们发的邮件太多了。
 newsletters-your-content-wasnt-relevant = 邮件内容与我无关。
 newsletters-your-email-design = 你们的邮件设计让人看不明白。
 newsletters-i-didnt-sign-up = 我没有订阅此通讯。
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = 我们的系统中没有此邮箱，请确认是否输入有误，或 <a href="{ $url }">直接订阅我们的新闻通讯。</a>
+newsletters-im-keeping-in-touch = 我要改用 { -brand-name-facebook } 或 { -brand-name-twitter } 与 { -brand-name-mozilla } 保持联系。
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = 订阅、研读。<br>获取最新消息。
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = 订阅、研读。<br>有所感悟。
+newsletters-take-your-privacy = 让隐私常伴身边
+newsletters-travel-the-internet = 守护你的网上冲浪，随身相伴。
+newsletters-download-the-app = 下载应用程式
+newsletters-check-for-data-breaches = 检查是否有数据外泄事件
+newsletters-meet-our-parent-brand = 认识我们的母品牌
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = 附加组件开发
 # Name for the newsletter in Newsletter subscription page
