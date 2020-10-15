@@ -5,12 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-firefox } üçün { -brand-name-facebook } Konteyneri | { -brand-name-facebook }-a gəzdiyiniz saytları görməyə icazə verməyin.
+facebook-container-facebook-container-for-firefox = { -brand-name-firefox } üçün { -brand-name-facebook-container } | Gəzdiyiniz saytların { -brand-name-facebook } tərəfindən görülməsinə icazə verməyin.
 facebook-container-millions-of-people-around = Dünyanın hər yerindən milyonlarca insan { -brand-name-android }, { -brand-name-ios } və masaüstündə { -brand-name-firefox } Web Səyyahına güvənir. Sürətli. Məxfi. İndi endir!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }-u həbs edin, həyatınızı izləməyə icazə verməyin.
-facebook-container-get-the-facebook-container = Facebook Konteyneri Uzatmasını əldə edin
-facebook-container-download-firefox-and-get-the = { -brand-name-firefox } endirin və Facebook Konteyneri Uzatmasını əldə edin
-facebook-container-the-facebook-container-extension = Facebook Konteyneri Uzatması mobil cihazlarda yoxdur.
+facebook-container-get-the-facebook-container = { -brand-name-facebook-container } Uzatmasını əldə edin
+facebook-container-download-firefox-and-get-the = { -brand-name-firefox } endirin və { -brand-name-facebook-container } Uzatmasını əldə edin
+# Outdated string
+facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } Uzatması hələlik mobil cihazlarda dəstəklənmir.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox-focus }</strong> yoxlayın, { -brand-name-android } və { -brand-name-ios } üçün məxfi səyyah.
 facebook-container-opt-out-on-your-terms = Şərtləri özünüz təyin edin

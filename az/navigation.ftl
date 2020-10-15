@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } Endir
-navigation-get-a-firefox-account = Firefox Hesabı əldə edin
+navigation-get-a-firefox-account = { -brand-name-firefox-account } əldə edin
 navigation-ios-support = { -brand-name-ios } Dəstəyi
 navigation-android-support = { -brand-name-android } Dəstəyi
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } üçün { -brand-name-firefox }
@@ -14,9 +14,11 @@ navigation-take-firefox-and-firefox = { -brand-name-firefox } və { -brand-name-
 navigation-get-firefox = { -brand-name-firefox } Endir
 navigation-get-firefox-focus = { -brand-name-firefox-focus } Endir
 navigation-android-extensions = { -brand-name-android } Uzantıları
-navigation-your-firefox-account = Firefox Hesabınız
+navigation-your-firefox-account = { -brand-name-firefox-account }nız
 navigation-make-the-most-of-your = { -brand-name-firefox }unuzu verimli işlədin, bütün cihazlarınızda.
+# Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox }-un işləməyini necə özəlləşdirəcəyinizi öyrənin.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = Tərtibatçılar üçün hazırlanmış { -brand-name-firefox }.
 navigation-preview-the-latest-build = { -brand-name-firefox } səyyahının ən son buraxılışını öndən yoxlayın və onu daha yaxşı hala gətirməyimizə kömək edin.
@@ -33,9 +35,11 @@ navigation-close-about-menu = Haqqında Menyusunu Qapat
 navigation-new-features = Yeni Özəlliklər
 navigation-save-content-absorb-knowledge = Məzmun saxlayın. Biliyinizi artırın.
 navigation-same-speed-and-safety = Güvəndiyiniz sürət və təhlükəsizliyin şirkətlər üçün planlaşdırılmış halı.
+# Outdated string
 navigation-add-ons = Əlavələr
 navigation-projects = Layihələr
 navigation-close-projects-menu = Layihələr Menyusunu Qapat
+# Outdated string
 navigation-web-of-things-iot = Əşyaların İnterneti (IoT)
 navigation-developers = Tərtibatçılar
 navigation-close-developers-menu = Tərtibatçılar Menyusunu Qapat
