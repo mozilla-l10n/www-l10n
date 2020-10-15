@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox Səyyahı: Olduğunuz hər yerdə daha yaxşı əlfəcinlər
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Getdiyiniz hər yerdə əlfəcinlər sizinlədir
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Əlfəcinlərinizi qovluqlar vasitəsilə asanlıqla nizama salın və onlara masaüstündən mobilə qədər, bütün cihazlarınızdan qoşulun.
 features-bookmarks-better-bookmarks = Daha yaxşı əlfəcinlər
@@ -21,6 +21,7 @@ features-bookmarks-fly-with-that-bookmark = Bu əlfəcinə hər yerdən qoşulun
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Sevimli səhifələrinizi özünüzlə daşıyın. { -brand-name-firefox-sync }-dan istifadə edərək əlfəcinlərinizə bütün mobil və masaüstü cihazlarınızdan keçid əldə edin. Ya da <a href="{ $url }">{ -brand-name-pocket }</a> istifadə edərək istənilən məqaləni, və ya səhifəni yadda saxlayın və daha sonra - internet olmadıqda belə onları təkrar oxuyun.
+features-bookmarks-customize-that-bookmark = Bu əlfəcini fərdiləşdir
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Bu əlfəcinlə istədiyiniz qədər vaxt keçirin

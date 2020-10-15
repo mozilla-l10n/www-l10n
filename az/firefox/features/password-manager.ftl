@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox Səyyahı: Sürətli və Asan Parol İdarəçisi
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Sürətli və asan parol idarəçisi
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } Parol İdarəçisi bütün parollarınızı tək yerdə saxlayır, beləliklə həm saytlara avtomatik daxil ola, həm də lazım olduqda saxlanılmış parolları yada sala bilərsiz.
 # Hero title

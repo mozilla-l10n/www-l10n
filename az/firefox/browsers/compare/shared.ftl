@@ -12,3 +12,4 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-download-firefox-browser = { -brand-name-firefox-browser }nı endir

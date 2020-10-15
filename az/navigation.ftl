@@ -4,8 +4,11 @@
 
 navigation-download-firefox = { -brand-name-firefox } Endir
 navigation-get-a-firefox-account = { -brand-name-firefox-account } əldə edin
+navigation-firefox-browser-for-desktop = Masaüstü üçün { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = Mobil üçün { -brand-name-firefox-browser }
 navigation-ios-support = { -brand-name-ios } Dəstəyi
 navigation-android-support = { -brand-name-android } Dəstəyi
+navigation-firefox-browser-for-enterprise = Müəssisələr üçün { -brand-name-firefox-browser }
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } üçün { -brand-name-firefox }
 navigation-watch-videos-and-browse = { -brand-name-amazon } { -brand-name-fire-tv }-niz ilə videoları izləyin və internetdə gəzin.
 navigation-close-firefox-menu = { -brand-name-firefox } Menyusunu Qapat

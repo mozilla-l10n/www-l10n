@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox Səyyahı: Az yaddaş, daha sürətli
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Daha az yaddaşla daha çox sürət
 # HTML page description
 features-memory-is-your-computer-slow-your = Kompüteriniz yavaşdır? Ola bilsin səyyahınız həddindən artıq yaddaş işlədir. Daha sürətli işləmək üçün { -brand-name-firefox }-a keçin.
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome }-dan daha az yaddaş istifadəsi
