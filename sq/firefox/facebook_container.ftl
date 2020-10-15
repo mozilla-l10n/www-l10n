@@ -14,7 +14,7 @@ facebook-container-only-available-for-desktop = Zgjerimi { -brand-name-facebook-
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Vizitoni <a href="{ $url }">{ $link_copy }</a> që të merrni { -brand-name-firefox } për Desktop.
+facebook-container-visit-to-get-for-desktop = Vizitoni <a href="{ $url }">{ $link_copy }</a> që të merrni { -brand-name-firefox }-in për Desktop.
 # Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } Extension s’është gati për pajisje celulare.
 facebook-container-get-firefox-android-ios = Merreni { -brand-name-firefox } për { -brand-name-android } dhe { -brand-name-ios } që tani.
