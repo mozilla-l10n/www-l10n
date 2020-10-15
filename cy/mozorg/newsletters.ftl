@@ -147,3 +147,5 @@ newsletters-internet-health-report = Adroddiad Iechyd y Rhyngrwyd
 newsletters-mozilla-published-articles-and-deep = Mae { -brand-name-mozilla } yn cyhoeddi erthyglau a thafndaethau manwl ar faterion yn ymwneud ag iechyd y rhyngrwyd ac AI dibynadwy, gan gynnwys ein Hadroddiad Iechyd y Rhyngrwyd blynyddol.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Cadwch yn gyfredol gyda'n crynhoad blynyddol o ymchwil a straeon ar faterion preifatrwydd &amp; diogelwch, didwylledd, cynhwysiant digidol, datganoli a llythrennedd gwe.
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Grym Gwybodaeth
