@@ -28,3 +28,6 @@ newsletter-form-select-country = Land selecteren
 newsletter-form-sign-me-up = Inschrijven
 newsletter-form-sign-up-now = Nu inschrijven
 newsletter-form-thanks = Bedankt!
+newsletter-form-leave-this-field-empty = Laat dit veld leeg.
+newsletter-form-yes = Ja
+newsletter-form-no = Nee
