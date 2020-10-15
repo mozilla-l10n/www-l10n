@@ -15,9 +15,11 @@ newsletters-read-all-about-it-in-our-newsletter = 在我们的<span>新闻通讯
 newsletters-newsletter-confirm = 确认订阅
 newsletters-thanks-for-subscribing = 感谢您的订阅！
 newsletters-your-newsletter-subscription = 已确认订阅新闻通讯。
-newsletters-please-be-sure-to-add-our = 请确认已经将我们的发信地址： mozilla@e.mozilla.org 加入了您的通讯录，从而确保始终能收到我们的邮件。
+newsletters-please-be-sure-to-add-our = 请确认已经将我们的发送地址： mozilla@e.mozilla.org 加入了您的通讯录，从而确保始终能收到我们的邮件。
 newsletters-youre-awesome = 你太棒了！
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } 关注许多重大议题。
+newsletters-manage-your-email-preferences = 管理您的电子邮件首选项
+newsletters-this-page-is-in-maintenance = 本页面正在维护中，暂不可用。
 # Form field label
 newsletters-your-email-address = 您的电子邮件地址：
 # Form field label
@@ -70,15 +72,29 @@ newsletters-im-keeping-in-touch = 我要改用 { -brand-name-facebook } 或 { -b
 newsletters-sign-up-read-up-stay-informed = 订阅、研读。<br>获取最新消息。
 # Obsolete string
 newsletters-sign-up-read-up-make-a-difference = 订阅、研读。<br>有所感悟。
+newsletters-consider-it-done = 交给我们，马上就好
 newsletters-take-your-privacy = 让隐私常伴身边
 newsletters-travel-the-internet = 守护你的网上冲浪，随身相伴。
 newsletters-download-the-app = 下载应用程式
 newsletters-check-for-data-breaches = 检查是否有数据外泄事件
+newsletters-sign-in-to-monitor = 登录 { -brand-name-monitor }
 newsletters-meet-our-parent-brand = 认识我们的母品牌
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = 附加组件开发
 # Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = 开发者新闻通讯
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Drumbeat 新闻组
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } 桌面版
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = 不要错过有关桌面版浏览器的最新公告。
+# Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = 参与进来
+# Obsolete string
+newsletters-internet-health-report = 互联网健康报告
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = 知识就是力量
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = 桌面版
 # Name for the newsletter in Newsletter subscription page

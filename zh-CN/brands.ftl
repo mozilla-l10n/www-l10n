@@ -88,7 +88,7 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla 开发者网络
--brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-festival = Mozilla 盛会
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla 实验室
 -brand-name-mozilla-vpn = Mozilla VPN
