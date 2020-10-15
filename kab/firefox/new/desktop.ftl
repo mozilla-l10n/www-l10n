@@ -28,11 +28,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ih
 firefox-desktop-download-no = Uhu
 firefox-desktop-download-blocks-third-party = Yessewḥal inagan n tuqqna n uḍfar n wis kraḍ
+firefox-desktop-download-blocks-third-party-default = Issewḥal inagan n tuqqna n uḍfar n uḥric wis kraḍ s wudem amezwer
 firefox-desktop-download-autoplay-blocking = Asewḥel n tɣuri tawurmant
 firefox-desktop-download-blocks-social-trackers = Yessewḥal ineḍfaren n yizeḍwan inmettiyen
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Tilin n unagraw n wammud
 firefox-desktop-download-in-browser-screenshot = Afecku n tuṭṭfa n ugdil deg yiminig
+firefox-desktop-download-primary-password = Awal uffir agejdan
+# Obsolete string
 firefox-desktop-download-master-password = Awal uffir agejdan
 firefox-desktop-download-we-block-the-ad = Nessewḥal ineḍfaren n udellel. Kečč·kemm tesnirimeḍ internet s urured.
 firefox-desktop-download-see-your-report = Wali aneqqis-inek·inem n tɣellist
@@ -129,6 +132,7 @@ firefox-desktop-download-now-mac = Tura <strong>ldi</strong> afaylu i d-tsuliḍ
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Tesεuḍ ugur? <a { $attrs }>Awi tallalt i usebded-inek·inem</a>.
 firefox-desktop-download-in-another-language = Sider deg tutlayt-nniḍen neɣ i unagraw-nniḍen n wammud
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Tesseqdaceḍ anagraw n wammud aqbuṛ, d araɣelsan <a href="{ $url }">ur yettusefraken ara deg { -brand-name-firefox }</a>.

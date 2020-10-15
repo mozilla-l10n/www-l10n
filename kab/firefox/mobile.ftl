@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Aqadeṛ n tudert tabaḍnit i tukl
 firefox-mobile-get-firefox-for-mobile = Awi { -brand-name-firefox } i uziraz
 firefox-mobile-send-a-download-link-to-your = Azen aseɣwen n usader ɣer tiliɣri-ik.
 firefox-mobile-scan-the-qr-code-to-get-started = Ḍumm-d tangalt QR akken ad tebduḍ
+firefox-mobile-scan-alt-text = Smiḍen tangalt QR akken ad tawiḍ { -brand-name-firefox } deg uziraz

@@ -10,6 +10,8 @@ compare-shared-yes = Ih
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Uhu
 compare-shared-private-browsing-mode = Askar n tunigin tusligt
+compare-shared-blocks-third-party-tracking-default = Issewḥal inagan n tuqqna n uḍfar n uḥric wis kraḍ s wudem amezwer
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Issewḥal inagan n tuqqna n uḍfar n wis kraḍ
 compare-shared-blocks-cryptomining-scripts = Issewḥal isekripten n uwgelhan
 compare-shared-blocks-social-trackers = Issewḥal ineḍfaren n yiẓeḍwa inmettiyen
@@ -27,6 +29,8 @@ compare-shared-os-availability = Tilin n unagraw n wammud
 compare-shared-mobile-os-availability = Tilin n unagraw n wammud n uziraz
 compare-shared-syncs-with-mobile = Mtawi akked uziraz
 compare-shared-password-management = Asefrek n wawal uffir
+compare-shared-primary-password = Awal uffir agejdan
+# Obsolete string
 compare-shared-master-password = Awal uffir agejdan
 compare-shared-security-and-privacy = Taɣellist d tbaḍnit
 compare-shared-utility = Tixxutert
@@ -38,6 +42,7 @@ compare-shared-utility-strong = <strong>Tixxutert</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Aɛebbi</strong>
 compare-shared-overall-assessment = Aktazal amatu
+# Obsolete string
 compare-shared-the-comparisons-made-here = Iserwas yettwaxedmen da mmugen am wid yettwaxedmen gar yileqman n yileqman n yiminig, akka:
 compare-shared-this-page-updated-semi-quarterly = Asebter-a yettwaleqqam yal tlata wagguren akken ad d-iban deg yileqman ineggura, akken yezmer daɣen ur d-ttbanen ara yileqman ineggura.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
