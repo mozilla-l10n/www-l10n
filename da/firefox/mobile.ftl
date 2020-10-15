@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Den privatlivsbeskyttelse, du fortj
 firefox-mobile-get-firefox-for-mobile = Hent { -brand-name-firefox } til mobilen
 firefox-mobile-send-a-download-link-to-your = Send et link til at hente Firefox på din telefon.
 firefox-mobile-scan-the-qr-code-to-get-started = Skan QR-koden for at komme i gang
+firefox-mobile-scan-alt-text = Skan QR-koden for at hente { -brand-name-firefox } på mobilen
