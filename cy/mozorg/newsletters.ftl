@@ -182,17 +182,17 @@ newsletters-join-mozillians-all-around = Ymunwch â Mozilliaid ledled y byd a do
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = Cysyllteion { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-newsletters-a-monthly-newsletter-affiliates = Cylchlythyr misol i'ch cadw'n gyfredol gyda'n rhaglen Cysyllteion { -brand-name-firefox }.
+newsletters-a-monthly-newsletter-affiliates = Cylchlythyr misol i'ch cadw'n gyfredol gyda rhaglen Cysyllteion { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = Llysgenhadon Myfyrwyr { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-newsletters-a-monthly-newsletter-ambassadors = Cylchlythyr misol ar sut i ymuno gyda { -brand-name-mozilla }ar eich campws.
+newsletters-a-monthly-newsletter-ambassadors = Cylchlythyr misol ar sut i ymuno â { -brand-name-mozilla }ar eich campws.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Newyddion { -brand-name-beta }
 # Description for the newsletter in Newsletter subscription page (Beta News)
-newsletters-read-about-the-latest-features = Darllenwch am y nodweddion diweddaraf { -brand-name-firefox } y bwrdd gwaith a symudol cyn y ryddhad terfynol.
+newsletters-read-about-the-latest-features = Darllenwch am nodweddion diweddaraf { -brand-name-firefox } y bwrdd gwaith a symudol cyn y ryddhad terfynol.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Llwythwch { -brand-name-firefox } { -brand-name-android } i lawr
 # Name for the newsletter in Newsletter subscription page
@@ -239,3 +239,35 @@ newsletters-discover-the-latest = Darganfyddwch yr apiau HTML5 diweddaraf, gorau
 newsletters-firefox-os-news = Newyddion, awgrymiadau, manylion lansio a sut i brynu { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Cadwch yn gyfredol â datganiadau a newyddion am { -brand-name-firefox } { -brand-name-android }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Newyddion { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Derbyniwch ganllawiau, awgrymiadau a newyddion i wneud i'ch profiad { -brand-name-firefox } weithio orau i chi.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Cyhoeddiadau arbennig am ŵyl ymarferol flynyddol { -brand-name-mozilla } sy'n ymroddedig i greu dyfodol y We agored.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Newyddion { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Diweddariadau rheolaidd i'ch cadw'n gyfredol ac yn weithgar yn ein brwydr am well rhyngrwyd.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Cyhoeddiadau arbennig a negeseuon gan y tîm sy'n ymroddedig i gadw'r we'n rhydd ac agored.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Rhwydwaith Dysgu { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Diweddariadau gan ein cymuned fyd-eang, yn helpu pobl i ddysgu sgiliau pwysicaf ein hoes: y gallu i ddarllen, ysgrifennu a chymryd rhan yn y byd digidol.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Rydym yn adeiladu technoleg y dyfodol. Dewch i'w ddarganfod gyda ni.
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Cyhoeddiadau arbennig i'ch helpu i gael y gorau o { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

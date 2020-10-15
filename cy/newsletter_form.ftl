@@ -28,3 +28,6 @@ newsletter-form-select-country = Dewis gwlad
 newsletter-form-sign-me-up = Cofrestru
 newsletter-form-sign-up-now = Cofrestrwch nawr
 newsletter-form-thanks = Diolch!
+newsletter-form-leave-this-field-empty = Gadewch y maes hwn yn wag.
+newsletter-form-yes = Iawn
+newsletter-form-no = Na
