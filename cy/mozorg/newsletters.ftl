@@ -110,21 +110,21 @@ newsletters-sign-up-read-up-make-a-difference = Cofrestrwch. Darllennwch.<br> Gw
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Dod i wybod am y materion sy'n effeithio ar eich bywyd ar-lein.
 # Obsolete string
-newsletters-get-the-mozilla-newsletter = Derbyniwch gylchlythyr { -brand-name-mozilla } er mwyn derbyn y wybodaeth ddiweddaraf am faterion sy'n herio iechyd y Rhyngrwyd ac i ddarganfod sut y gallwch chi gymryd rhan.
-newsletters-your-email-preferences = Mae gosodiadau eich ebost wedi eu diweddaru'n llwyddiannus
+newsletters-get-the-mozilla-newsletter = Estynnwch gylchlythyr { -brand-name-mozilla } er mwyn derbyn y wybodaeth ddiweddaraf am faterion sy'n herio iechyd y Rhyngrwyd ac i ddarganfod sut y gallwch chi gymryd rhan.
+newsletters-your-email-preferences = Mae gosodiadau eich e-bost wedi eu diweddaru'n llwyddiannus
 newsletters-consider-it-done = Iawn, wedi ei wneud
 newsletters-back-to-email-preferences = Nôl i ddewisiadau e-bost
 newsletters-here-are-a-few-things = Dyma ychydig o bethau i eu darllen tra'ch bod chi'n aros am eich e-bost nesaf.
 newsletters-take-your-privacy = Ewch a'ch preifatrwydd gyda chi
-newsletters-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar eich holl ddyfeisiau.
-newsletters-download-the-app = Llwythwch yr Ap i lawr
+newsletters-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch ar eich holl ddyfeisiau.
+newsletters-download-the-app = Llwythwch yr Ap i Lawr
 newsletters-check-for-data-breaches = Gwiriwch am dor-data
 newsletters-firefox-monitor-is-a-free = Mae { -brand-name-firefox-monitor } yn wasanaeth rhad ac am ddim sy'n gadael i chi weld a ydych chi wedi bod yn rhan o dor-data ar-lein.
 newsletters-sign-in-to-monitor = Mewngofnodwch i { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Dyma'n brand rhiant
-newsletters-mozilla-the-non-for-profit = Mae { -brand-name-mozilla }, y corff dim-er-elw y tu ôl i { -brand-name-firefox }, yn rhoi pobl o flaen elw ym mho peth rydyn ni'n ei ddweud, ei adeiladu a'i wneud.
+newsletters-mozilla-the-non-for-profit = Mae { -brand-name-mozilla }, y corff dim-er-elw y tu ôl i { -brand-name-firefox }, yn rhoi pobl o flaen elw ym mhob peth rydyn ni'n ei ddweud, ei adeiladu a'i wneud.
 # Name for the newsletter in Newsletter subscription page
-newsletters-about-standards = Ynglŷn â Safonau
+newsletters-about-standards = Ynghylch Safonau
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = Datblygu Ychwanegion
 # Name for the newsletter in Newsletter subscription page
@@ -134,7 +134,7 @@ newsletters-a-developers-guide = Canllaw datblygwr i uchafbwyntiau arloesi platf
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Grŵp Newyddion Drumbeat
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-for-desktop = { -brand-name-firefox } ar gyfer y bwrdd gwaith
+newsletters-firefox-for-desktop = { -brand-name-firefox } y bwrdd gwaith
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 newsletters-dont-miss-the-latest = Peidiwch colli'r cyhoeddiadau diweddaraf am ein porwr bwrdd gwaith.
 # Name for the newsletter in Newsletter subscription page
@@ -144,7 +144,7 @@ newsletters-insights = Mewnwelediadau
 # Obsolete string
 newsletters-internet-health-report = Adroddiad Iechyd y Rhyngrwyd
 # Description for the newsletter in Newsletter subscription page (Insights))
-newsletters-mozilla-published-articles-and-deep = Mae { -brand-name-mozilla } yn cyhoeddi erthyglau a thafndaethau manwl ar faterion yn ymwneud ag iechyd y rhyngrwyd ac AI dibynadwy, gan gynnwys ein Hadroddiad Iechyd y Rhyngrwyd blynyddol.
+newsletters-mozilla-published-articles-and-deep = Mae { -brand-name-mozilla } yn cyhoeddi erthyglau a thrafodaethau manwl ar faterion yn ymwneud ag iechyd y rhyngrwyd ac AI dibynadwy, gan gynnwys ein Hadroddiad Iechyd y Rhyngrwyd blynyddol.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Cadwch yn gyfredol gyda'n crynhoad blynyddol o ymchwil a straeon ar faterion preifatrwydd &amp; diogelwch, didwylledd, cynhwysiant digidol, datganoli a llythrennedd gwe.
 # Name for the newsletter in Newsletter subscription page
@@ -158,27 +158,27 @@ newsletters-desktop = Bwrdd Gwaith
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Moziliaid
 # Description for the newsletter in Newsletter subscription page (Mozillians)
-newsletters-email-updates-from-vouched = Diweddariadau e-bost ar gyfer Mozillians cydnabyddedig ar mozillians.org.
+newsletters-email-updates-from-vouched = Diweddariadau e-bost ar gyfer Mozilliaid cydnabyddedig ar mozillians.org.
 # Name for the newsletter in Newsletter subscription page
 newsletters-shapre-of-the-web = Siâp y We
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
-newsletters-news-and-information = Newyddion a gwybodaeth yn ymwneud ag iechyd y we.
+newsletters-news-and-information = Newyddion a gwybodaeth am iechyd y we.
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Cynrychiolwyr Myfyrwyr
 # Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Rhaglen newydd Firefox Student Ambassadors wedi ei lansio yn lle hen rhaglen Prifysgol 2008-2011.
+newsletters-former-university-program = Mae rhaglen newydd Firefox Student Ambassadors wedi ei lansio yn lle'r hen rhaglen Prifysgol ers 2008-2011.
 # Name for the newsletter in Newsletter subscription page
-newsletters-take-action = Gweithredu ar ran y Rhyngrwyd
+newsletters-take-action = Gweithredwch ar ran y Rhyngrwyd
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Ychwanegwch eich llais at ddeisebau, digwyddiadau a mentrau sy'n brwydro dros ddyfodol y we.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Profi Cynnyrch Newydd
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better = Helpwch ni i wneud { -brand-name-firefox } gwell i chi trwy roi prawf ar ein cynnyrch a'n nodweddion diweddaraf.
+newsletters-help-us-make-a-better = Helpwch ni i wneud { -brand-name-firefox } gwell i chi trwy brofi ein cynnyrch a'n nodweddion diweddaraf.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Cymuned { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
-newsletters-join-mozillians-all-around = Ymunwch â Mozilliaid ledled y byd a dod i wybod am gyfleoedd effeithiol i gefnogi cenhadaeth { -brand-name-mozilla }.
+newsletters-join-mozillians-all-around = Ymunwch â Mozilliaid ledled y byd a chael gwybod am gyfleoedd effeithiol i gefnogi cenhadaeth { -brand-name-mozilla }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = Cysyllteion { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
@@ -186,7 +186,7 @@ newsletters-a-monthly-newsletter-affiliates = Cylchlythyr misol i'ch cadw'n gyfr
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = Llysgenhadon Myfyrwyr { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-newsletters-a-monthly-newsletter-ambassadors = Cylchlythyr misol ar sut i ymuno â { -brand-name-mozilla }ar eich campws.
+newsletters-a-monthly-newsletter-ambassadors = Cylchlythyr misol ar sut i ymuno â { -brand-name-mozilla } ar eich campws.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
@@ -196,7 +196,7 @@ newsletters-read-about-the-latest-features = Darllenwch am nodweddion diweddaraf
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Llwythwch { -brand-name-firefox } { -brand-name-android } i lawr
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-firefox-for-android = Estyn { -brand-name-firefox } { -brand-name-android }
+newsletters-get-firefox-for-android = Estynnwch { -brand-name-firefox } { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-ios = Llwythwch { -brand-name-firefox } { -brand-name-ios } i lawr
 # Name for the newsletter in Newsletter subscription page
@@ -216,7 +216,7 @@ newsletters-be-the-first-to-know = Byddwch y cyntaf i wybod pryd mae { -brand-na
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-smartphone-owner = Perchennog ffôn clyfar { -brand-name-firefox-os }?
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-newsletters-dont-miss-important-news = Peidiwch â cholli newyddu pwysig a diweddariadau am eich dyfais { -brand-name-firefox-os }.
+newsletters-dont-miss-important-news = Peidiwch â cholli newyddion pwysig a diweddariadau am eich dyfais { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Chi
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
