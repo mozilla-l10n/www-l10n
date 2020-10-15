@@ -7,6 +7,8 @@
 
 # HTML page title
 opt-out-confirmation-cool-we-hear = Cool，我們知道了。
+# HTML page descripiton
+opt-out-confirmation-youre-now-opted = 將停止寄送帳號設定相關系列郵件給您
 # Field of a form
 opt-out-confirmation-your-email = 您的電子郵件地址:
 # Only localize "yourname". Do not touch @example.com.
@@ -18,6 +20,7 @@ opt-out-confirmation-prefer-to-get = 想用其他方式接收資訊嗎？
 opt-out-confirmation-check-out-our = 看看我們的部落格
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = 取得幫助
+opt-out-confirmation-subscribe-to = 訂閱 { -brand-name-firefox } 的最新消息更新電子報
 # Link to https://www.instagram.com/mozilla/
 opt-out-confirmation-instagram = { -brand-name-instagram }
 # Link to https://www.youtube.com/firefoxchannel
