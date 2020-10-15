@@ -159,6 +159,9 @@ firefox-desktop-download-now-mac = Tani <strong>hapni</strong> kartelën që sap
 firefox-desktop-download-get-help = Keni vështirësi? <a { $attrs }>Merrni ndihmë për instalimin tuaj</a>.
 firefox-desktop-download-in-another-language = Shkarkojeni në një gjuhë tjetër ose për një tjetër sistem operativ.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Nëse shihni një njoftim që thotë se aplikacioni që po provoni të instaloni s’është aplikacion i verifikuar nga { -brand-name-microsoft }, klikoni mbi “Instaloje, sido qoftë” ose <a { $attrs }>ndryshoni rregullime mbi rekomandim aplikacionesh</a>.
 firefox-desktop-download-visit-support-for-more = Për Më Tepër Hollësi, Vizitoni Asistencën
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
