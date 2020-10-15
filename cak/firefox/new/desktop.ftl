@@ -45,6 +45,7 @@ firefox-desktop-download-screenshots = Chapoj taq ruwäch
 firefox-desktop-download-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-ios }</strong>
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
@@ -53,6 +54,7 @@ firefox-desktop-download-just-download-the-browser = Xa Xe Tiqasäx Ri Okik'amay
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

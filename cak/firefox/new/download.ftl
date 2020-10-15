@@ -61,3 +61,4 @@ firefox-new-please-follow = Tab'ana' utzil ke'awoqaj <a href="{ $url }">re taq k
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ri aq'inoj rik'in jub'a' man nuq'i' ta ri taq rajowaxik { -brand-name-firefox }, chuqa' ütz nitikirisäx nitojtob'ëx jun chi ke re <a href="{ $url }"> taq ruwäch re'</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10

@@ -10,6 +10,9 @@ firefox-privacy-privacy = Ichinanem
 # Sub navigation link
 firefox-privacy-our-products = Ri taq Qak'ayij
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Tik'ul Utzirisan Chajinïk chuwäch Ojqanem
+firefox-privacy-hub-update-your-firefox-browser = Tak'exa' ruwäch { -brand-name-firefox } okik'amaya'l
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ke'akanoj taq tz'ilanem
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
