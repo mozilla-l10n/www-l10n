@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Prevezmite si prehliadač
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Používate nezabezpečený, zastaraný operačný systém, ktorý <a href="{ $url }">{ -brand-name-firefox } nepodporuje</a>.
@@ -54,3 +55,4 @@ firefox-new-its-privacy-and-peace-of = Je to <strong>súkromie</strong> na vašo
 firefox-new-its-a-family-of-products = Je to <strong>rad produktov</strong>, ktoré majú rešpekt k vašim údajom.
 firefox-new-its-everything-you-need-to = Je to všetko, čo potrebujete vedieť o tom, ako <strong>zostať v bezpečí na internete</strong>.
 firefox-new-its-a-community-that-believes = Je to <strong>komunita</strong>, ktorá verí, že technológia má na viac.
+firefox-new-windows-10 = { -brand-name-windows } 10
