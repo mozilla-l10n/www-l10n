@@ -61,3 +61,70 @@ newsletters-you-send-too-many-emails = Dërgoni shumë email-e.
 newsletters-your-content-wasnt-relevant = Lënda juaj nuk më intereson.
 newsletters-your-email-design = Skema juaj për email-et është e vështirë për t’u lexuar.
 newsletters-i-didnt-sign-up = Nuk u pajtova për këtë.
+newsletters-your-email-preferences = Parapëlqimet tuaja për email u përditësuan me sukses.
+newsletters-consider-it-done = Quajeni punë të mbaruar
+newsletters-back-to-email-preferences = Mbrapsht te parapëlqimet për email
+newsletters-take-your-privacy = Merreni privatësinë me vete
+newsletters-travel-the-internet = Udhëtoni në internet me mbrojtje në krejt pajisjet tuaja.
+newsletters-download-the-app = Shkarkoni Aplikacionin
+newsletters-check-for-data-breaches = Kontrolloni për cenime të dhënash
+newsletters-sign-in-to-monitor = Hyni në { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Njihuni me markën tonë mëmë
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Rreth Standardeve
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Zhvillim Shtesash
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Buletin Zhvilluesish
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } për desktop
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Mos humbni njoftimet më të reja rreth shfletuesin tonë për desktop.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Përfshihuni
+# Obsolete string
+newsletters-internet-health-report = Raport i Shëndetit të Internetit
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Dija është Pushtet
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Desktop
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Moxillianë
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Bashkësia { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Një buletin i përmuajshëm që t’ju mbajë të përditësuar lidhur me programin { -brand-name-firefox } Affiliates.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Lajme { -brand-name-beta }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Shkarkoni { -brand-name-firefox }-in për { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Merrni { -brand-name-firefox }-in për { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Shkarkoni { -brand-name-firefox }-in për { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Shkarkoni { -brand-name-firefox }-in për Celular
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Ndihmëza mbi { -brand-name-firefox-accounts }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + You
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } për { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Lajme { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
