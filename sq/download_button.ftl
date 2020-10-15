@@ -37,5 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> për { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> për { -brand-name-ios }
 download-button-firefox-privacy = Privatësia Në { -brand-name-firefox }
-download-button-firefox-privacy-notice = Shënim { -brand-name-firefox } Mbi Privatësinë
+download-button-firefox-privacy-notice = Shënim Mbi Privatësinë në { -brand-name-firefox }
 download-button-download = Shkarkoje

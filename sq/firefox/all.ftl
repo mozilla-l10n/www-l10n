@@ -26,7 +26,7 @@ firefox-all-download-the-firefox = Shkarkojeni shfletuesin { -brand-name-firefox
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Hyrje në internet meriton gjithkush — gjuha juaj s’duhet të bëhet një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë shfletuesin { -brand-name-firefox-browser } të gatshëm në më shumë se 90 gjuhë.
 firefox-all-choose-which-firefox = Zgjidhni cili { -brand-name-firefox-browser } të shkarkohet në gjuhën tuaj
-firefox-all-firefox-privacy-notice = Shënim { -brand-name-firefox } Mbi Privatësinë
+firefox-all-firefox-privacy-notice = Shënim Mbi Privatësinë në { -brand-name-firefox }
 firefox-all-learn-about-firefox = Mësoni rreth shfletuesve { -brand-name-firefox }
 firefox-all-the-standard-firefox = Shfletuesi standard { -brand-name-firefox } — i shpejtë dhe privat. Nëse s’jeni të sigurt se cilin { -brand-name-firefox } të zgjidhni, zgjidhni këtë.
 firefox-all-get-a-sneak-peek-at = Krijoni një ide mbi veçoritë më të reja të shfletuesit { -brand-name-firefox }, përpara se të hidhen në qarkullim për këdo.
