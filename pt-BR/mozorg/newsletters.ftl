@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = Não tinha interesse nos conteúdos en
 newsletters-your-email-design = Suas mensagens eram difíceis de entender.
 newsletters-i-didnt-sign-up = Eu não me inscrevi para isto.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Este endereço de e-mail não está no nosso sistema. Por favor, verifique seu endereço ou <a href="{ $url }">assine nossas newsletters.</a>
 newsletters-im-keeping-in-touch = Vou acompanhar a { -brand-name-mozilla } no { -brand-name-facebook } e no { -brand-name-twitter } somente.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -111,6 +111,18 @@ newsletters-sign-up-read-up-make-a-difference = Inscreva-se. Leia.<br> Faça a d
 newsletters-get-smart-on-the-issues = Fique atento às questões que afetam sua vida online.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Receba o boletim informativo da { -brand-name-mozilla } e mantenha-se informado sobre problemas que afetam a saúde da Internet e descubra como você pode se envolver.
+newsletters-your-email-preferences = Suas preferências de e-mail foram atualizadas com sucesso.
+newsletters-consider-it-done = Considere feito
+newsletters-back-to-email-preferences = Voltar às preferências de e-mail
+newsletters-here-are-a-few-things = Aqui estão algumas coisas para se aprofundar enquanto espera pelo próximo e-mail.
+newsletters-take-your-privacy = Leve sua privacidade com você
+newsletters-travel-the-internet = Viaje pela internet com proteção em todos os seus dispositivos.
+newsletters-download-the-app = Baixe o aplicativo
+newsletters-check-for-data-breaches = Verifique se há vazamentos de dados
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } é um serviço gratuito que permite ver se você foi vítima de um vazamento de dados online.
+newsletters-sign-in-to-monitor = Acesse o { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Conheça nossa marca matriz
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, a organização sem fins lucrativos por trás do { -brand-name-firefox }, coloca as pessoas acima dos lucros em tudo o que dizemos, produzimos e fazemos.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Sobre padrões
 # Name for the newsletter in Newsletter subscription page
@@ -253,3 +265,5 @@ newsletters-were-building-the-technology = Estamos construindo a tecnologia do f
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Anúncios especiais, ajudando você a obter o máximo do { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
