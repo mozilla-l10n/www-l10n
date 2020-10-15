@@ -44,7 +44,7 @@ newsletters-format = 格式:
 newsletters-text-subscribers-will-receive = 純文字格式版本的訂閱者，每年都會收到兩次郵件確認持續訂閱的意願。這些確認信中可能會含有 HTML。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = 我們的許多通訊內容都與您註冊過的帳號有關，諸如 Firefox 帳號、{ -brand-name-mdn-web-docs } 或附加元件開發者中心。若要管理這些帳號，或想要了解您註冊過哪些帳號，請到<a href="{ $url }">帳號管理頁面</a>確認。
+newsletters-many-of-our-communications = 我們的許多通訊內容都與您註冊過的帳號有關，諸如 { -brand-name-firefox-accounts }、{ -brand-name-mdn-web-docs } 或附加元件開發者中心。若要管理這些帳號，或想要了解您註冊過哪些帳號，請到<a href="{ $url }">帳號管理頁面</a>確認。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = 快來加入我們，使用單一帳號使用完整的 { -brand-name-firefox } 相關產品與服務，並獲得相關資訊！<a href="{ $url }">在此</a>了解更多優點。
@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = 你們寄來的內容跟我一點關�
 newsletters-your-email-design = 你們的電子報設計太難閱讀。
 newsletters-i-didnt-sign-up = 我沒訂閱過這封信。
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
 newsletters-im-keeping-in-touch = 我要改用 { -brand-name-facebook } 或 { -brand-name-twitter } 跟 { -brand-name-mozilla } 保持聯繫。
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -127,6 +127,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } 桌面版
 newsletters-dont-miss-the-latest = 別錯過 Firefox 桌面版的最新公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = 參與我們
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights 深入解析
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
 # Obsolete string
@@ -186,9 +188,9 @@ newsletters-download-firefox-for-ios = 下載 { -brand-name-firefox } for { -bra
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = 下載 { -brand-name-firefox } 行動版
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Firefox 帳號小秘訣
+newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } 小秘訣
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = 讓您的 Firefox 帳號發揮最大威力。
+newsletters-get-the-most-firefox-account = 讓您的 { -brand-name-firefox-account } 發揮最大威力。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
