@@ -79,3 +79,47 @@ newsletters-meet-our-parent-brand = 认识我们的母品牌
 newsletters-addon-development = 附加组件开发
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = 参与进来
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = 桌面版
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = 谋智人
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = 为 mozillians.org 上有担保的谋智人提供的新闻通讯。
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = 为互联网采取行动
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = { -brand-name-beta } 版新闻
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = 在正式发布之前了解 { -brand-name-firefox } 桌面版和移动版的最新特性。
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = 下载 { -brand-name-android } 版 { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = 获取 { -brand-name-android } 版 { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = 下载 { -brand-name-ios } 版 { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } 小贴士
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = 不要错过有关您的 { -brand-name-firefox-os } 设备的重要新闻和更新。
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + You
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = 致力保持 Web 自由与开放的团队发布的特别公告和消息。
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = 我们正在建构未来科技，快来与我们一同探索。
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = 助您熟悉 { -brand-name-webmaker } 的特别公告。
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

@@ -28,3 +28,6 @@ newsletter-form-select-country = 选择国家地区
 newsletter-form-sign-me-up = 为我注册
 newsletter-form-sign-up-now = 立即注册
 newsletter-form-thanks = 谢谢！
+newsletter-form-leave-this-field-empty = 将此栏留空。
+newsletter-form-yes = 是的
+newsletter-form-no = 不要
