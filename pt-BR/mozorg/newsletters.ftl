@@ -44,7 +44,7 @@ newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Inscritos no modo texto recebem um e-mail duas vezes ao ano para confirmar se desejam manter a inscrição. Esses e-mails podem incluir formatação HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Muitas de nossas comunicações são relacionadas a uma conta que você usou para se inscrever, como Conta Firefox, { -brand-name-mdn-web-docs }, ou Add-on Developer. Para gerenciar uma de suas contas ou ver uma lista de todas as contas, visite nossa <a href="{ $url }">página de gerenciamento de contas do suporte</a>.
+newsletters-many-of-our-communications = Muitas de nossas comunicações são relacionadas a uma conta em que você se inscreveu, como { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } ou Add-on Developer. Para gerenciar uma de suas contas ou ver uma lista de todas as contas, visite nossa <a href="{ $url }">página de suporte de gerenciamento de contas</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Para ter acesso ao mundo inteiro de produtos, conhecimento e serviços { -brand-name-firefox } com uma única conta, junte-se a nós! Saiba mais sobre os benefícios <a href="{ $url }">aqui</a>.
