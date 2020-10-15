@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Po
 firefox-desktop-download-no = Jo
 firefox-desktop-download-blocks-third-party = Bllokon cookie-t nga palë gjurmuese të treta
+firefox-desktop-download-blocks-third-party-default = Bllokon, si parazgjedhje, cookie-t nga palë gjurmuese të treta
 firefox-desktop-download-autoplay-blocking = Bllokim vetëluajtjesh
 firefox-desktop-download-blocks-social-trackers = Bllokon gjurmues shoqërorësh
 # OS is short for "Operating System"
