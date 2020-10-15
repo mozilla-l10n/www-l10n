@@ -21,9 +21,9 @@ newsletters-please-be-sure-to-add-our = Gwnewch yn siŵr eich bod yn ychwanegu e
 newsletters-the-supplied-link-has-expired = Mae'r ddolen yma wedi dod i ben. Byddwch yn derbyn un newydd yn y cylchlythyr nesaf.
 newsletters-something-is-amiss-with = Mae rhywbeth o'i le gyda'n system, ymddiheuriadau. Ceisiwch eto yn nes ymlaen.
 newsletters-youre-awesome = Rydych chi'n anhygoel!
-newsletters-and-were-not-just-saying = Ac nid dim ond am eich bod yn ymddiried ynom i rannu'ch cyfeiriad e-bost.
+newsletters-and-were-not-just-saying = Ac nid dim ond am eich bod yn ymddiried ynom ni i rannu'ch cyfeiriad e-bost.
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Gwnewch yn siŵr eich bod yn ychwanegu ein cyfeiriad anfon: mozilla@e.mozilla.org i'ch llyfr cyfeiriadau er mwyn gwneud yn siŵr ei fod yn cyrraedd eich blwch derbyn.
-newsletters-mozilla-touches-on-a-variety = Mae { -brand-name-mozilla } yn cyffwrdd ag amrywiaeth o faterion pwysig.
+newsletters-mozilla-touches-on-a-variety = Mae { -brand-name-mozilla } yn trafod amrywiaeth o faterion pwysig.
 newsletters-open-your-inbox-and-your = Agorwch eich blwch derbyn (a'ch calon) hyd yn oed yn fwy - edrychwch ar bynciau eraill rydyn ni'n ymdrin â nhw.
 newsletters-manage-your-email-preferences = Rheoli eich Dewisiadau E-bost
 newsletters-this-page-is-in-maintenance = Mae'r dudalen hon yn y modd cynnal a chadw ac nid yw ar gael dros dro.
@@ -38,7 +38,7 @@ newsletters-country-or-region = Gwlad neu ranbarth:
 newsletters-country = Gwlad:
 # Form field label
 newsletters-language = Iaith:
-newsletters-not-all-subscriptions-are = Nid yw pob tanysgrifiad yn cael ei gefnogi yn yr holl ieithoedd ar y rhestr. Mae bron pob un ar gael yn Saesneg, Almaeneg a Ffrangeg.
+newsletters-not-all-subscriptions-are = Nid yw pob tanysgrifiad yn cael ei ddarparu yn yr holl ieithoedd ar y rhestr. Mae bron pob un ar gael yn Saesneg, Almaeneg a Ffrangeg.
 # Form field label
 newsletters-format = Fformat:
 newsletters-text-subscribers-will-receive = Bydd tanysgrifwyr testun yn derbyn e-bost ddwywaith y flwyddyn i gadarnhau parhad y tanysgrifiad. Gall yr e-byst hynny gynnwys HTML.
@@ -47,7 +47,7 @@ newsletters-text-subscribers-will-receive = Bydd tanysgrifwyr testun yn derbyn e
 newsletters-many-of-our-communications = Mae llawer o'n cyfathrebu'n gysylltiedig â chyfrif rydych chi wedi cofrestru ar ei gyfer, fel { -brand-name-firefox-account }, { -brand-name-mdn-web-docs }, neu Datblygwr Ychwanegol. I reoli un o'ch cyfrifon neu weld rhestr o'r holl gyfrifon, ewch i'n <a href="{ $url }">tudalen cymorth rheoli cyfrifon</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
-newsletters-to-get-access-to-the-whole = I gael mynediad i'r cyfan o gynnyrch, gwybodaeth a gwasanaethau { -brand-name-firefox } mewn un cyfrif, ymunwch â ni! Dysgwch ragor am y buddion <a href="{ $url }"> yma </a>.
+newsletters-to-get-access-to-the-whole = I gael mynediad i'r cyfan am gynnyrch, gwybodaeth a gwasanaethau { -brand-name-firefox } mewn un cyfrif, ymunwch â ni! Dysgwch ragor am y buddion <a href="{ $url }"> yma </a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Mae yna lawer o ffyrdd i ymgysylltu â { -brand-name-mozilla } a { -brand-name-firefox }. Os nad ydych wedi dod o hyd i'r hyn yr oeddech yn chwilio amdano yma, edrychwch ar ein tudalennau <a href="{ $url }">cymunedol</a>.
@@ -85,11 +85,11 @@ newsletters-love-the-web-so-do-we = Caru'r we? A ni hefyd!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Datgloi byd datblygu gwe gyda Cylchlythyr Datblygwr wythnosol { -brand-name-mozilla }. Mae pob rhifyn yn cyflwyno technegau codio ac arferion gorau, diweddariadau { -brand-name-mdn }, gwybodaeth am dechnolegau sy'n dod i'r amlwg, awgrymiadau offer datblygwyr, a mwy.
 # Obsolete string
-newsletters-join-thousands-of-developers = Ymunwch â miloedd o ddatblygwyr fel chi sy'n dysgu'r gorau o ddatblygu gwe.
+newsletters-join-thousands-of-developers = Ymunwch â miloedd o ddatblygwyr fel chi sy'n dysgu'r gorau o ddatblygu'r we.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Rhowch fwy o lwynog yn eich blwch derbyn.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-see-where-the-web-can-take = Gweld lle gall y We fynd â chi gydag awgrymiadau misol { -brand-name-firefox }, triciau a dysg yRhyngrwyd.
+newsletters-see-where-the-web-can-take = Gweld lle gall y We fynd â chi gydag awgrymiadau misol { -brand-name-firefox }, triciau a dysg y Rhyngrwyd.
 newsletters-we-are-sorry-but-there = Mae'n ddrwg gennym, ond roedd problem gyda'n system. Rhowch gynnig arall arno eto'n hwyrach!
 newsletters-thanks-for-updating-your = Diolch am ddiweddaru eich dewisiadau e-bost.
 newsletters-the-supplied-link-has-expired-long = Mae'r ddolen a gyflenwyd wedi dod i ben neu nid yw'n ddilys. Byddwch yn derbyn un newydd yn y cylchlythyr nesaf, neu'n islaw gallwch ofyn am e-bost gyda'r ddolen.
@@ -234,13 +234,13 @@ newsletters-mozillas-largest-celebration = Dathliad mwyaf { -brand-name-mozilla 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
-newsletters-discover-the-latest = Darganfyddwch yr apiau HTML5 diweddaraf, gorau ar { -brand-name-firefox-os }.
+newsletters-discover-the-latest = Darganfyddwch yr apiau HTML5 diweddaraf a gorau ar { -brand-name-firefox-os }.
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
 newsletters-firefox-os-news = Newyddion, awgrymiadau, manylion lansio a sut i brynu { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android }
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
-newsletters-keep-up-with-releases = Cadwch yn gyfredol â datganiadau a newyddion am { -brand-name-firefox } { -brand-name-android }.
+newsletters-keep-up-with-releases = Cadwch yn gyfredol â fersiynnau a newyddion { -brand-name-firefox } { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Newyddion { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
@@ -256,7 +256,7 @@ newsletters-regular-updates-to-keep = Diweddariadau rheolaidd i'ch cadw'n gyfred
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
-newsletters-special-accouncements-and-messages = Cyhoeddiadau arbennig a negeseuon gan y tîm sy'n ymroddedig i gadw'r we'n rhydd ac agored.
+newsletters-special-accouncements-and-messages = Cyhoeddiadau arbennig a negeseuon gan y tîm sy'n ymroddedig i gadw'r we'n rhydd ac yn agored.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = Rhwydwaith Dysgu { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)

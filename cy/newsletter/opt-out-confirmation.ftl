@@ -9,7 +9,7 @@
 opt-out-confirmation-cool-we-hear = Grêt. Rydym yn eich clywed.
 # HTML page descripiton
 opt-out-confirmation-youre-now-opted = Rydych wedi dewis peidio â derbyn cyfres o negeseuon e-bost ynglŷn â gosod eich cyfrif.
-opt-out-confirmation-youll-continue = Byddwch yn dal i dderbyn e-byst eraill rydych wedi tanysgrifio iddyn nhw, ynghyd â diweddariadau pwysig achlysurol am eich cyfrif. I reoli'ch holl danysgrifiadau, nodwch eich e-bost isod - mae angen i ni sicrhau ein bod ni'n siarad â'r person iawn.
+opt-out-confirmation-youll-continue = Byddwch yn dal i dderbyn e-byst eraill rydych wedi tanysgrifio iddyn nhw, ynghyd â diweddariadau pwysig achlysurol am eich cyfrif. I reoli'ch holl danysgrifiadau, rhowch eich e-bost isod - mae angen i ni sicrhau ein bod ni'n siarad â'r person iawn.
 # Field of a form
 opt-out-confirmation-your-email = Eich cyfeiriad e-bost:
 # Only localize "yourname". Do not touch @example.com.
