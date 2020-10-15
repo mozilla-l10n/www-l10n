@@ -109,3 +109,15 @@ newsletters-sign-up-read-up-stay-informed = Cofrestrwch, darllenwch,<br> cadwch 
 newsletters-sign-up-read-up-make-a-difference = Cofrestrwch. Darllennwch.<br> Gwnewch wahaniaeth.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Dod i wybod am y materion sy'n effeithio ar eich bywyd ar-lein.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Derbyniwch gylchlythyr { -brand-name-mozilla } er mwyn derbyn y wybodaeth ddiweddaraf am faterion sy'n herio iechyd y Rhyngrwyd ac i ddarganfod sut y gallwch chi gymryd rhan.
+newsletters-your-email-preferences = Mae gosodiadau eich ebost wedi eu diweddaru'n llwyddiannus
+newsletters-consider-it-done = Iawn, wedi ei wneud
+newsletters-back-to-email-preferences = Nôl i ddewisiadau e-bost
+newsletters-here-are-a-few-things = Dyma ychydig o bethau i eu darllen tra'ch bod chi'n aros am eich e-bost nesaf.
+newsletters-take-your-privacy = Ewch a'ch preifatrwydd gyda chi
+newsletters-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar eich holl ddyfeisiau.
+newsletters-download-the-app = Llwythwch yr Ap i lawr
+newsletters-check-for-data-breaches = Gwiriwch am dor-data
+newsletters-firefox-monitor-is-a-free = Mae { -brand-name-firefox-monitor } yn wasanaeth rhad ac am ddim sy'n gadael i chi weld a ydych chi wedi bod yn rhan o dor-data ar-lein.
+newsletters-sign-in-to-monitor = Mewngofnodwch i { -brand-name-monitor }
