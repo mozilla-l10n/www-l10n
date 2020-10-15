@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Tijal ri { -brand-name-chrome } rik'in ri { -brand-name-firefox } pa ka'i' oxi' ch'utiramaj
+switch-switching-to-firefox-is-fast-updated = Ri jaloj pa { -brand-name-firefox } yalan aninäq, man k'ayew ta chuqa' majun k'ayewal rojqan, ruma ri { -brand-name-firefox } yerujïk' el ri taq yaketal, ewan taq tzij chuqa' taq rajowab'al e k'o pa ri { -brand-name-chrome }.
 switch-switching-to-firefox-is-fast = Ri jaloj pa { -brand-name-firefox } yalan aninäq, man k'ayew ta chuqa' majun k'ayewal rojqan, ruma ri { -brand-name-firefox } yerujïk' el ri taq yaketal, yoninojsanem, ewan taq tzij chuqa' taq rajowab'al e k'o pa ri { -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = Ri jaloj pa { -brand-name-firefox } yalan aninäq, man k'ayew ta chuqa' majun k'ayewal rojqan { -brand-name-firefox } yerujïk' el ri taq yaketal, ewan taq tzij chuqa' taq rajowab'al e k'o pa ri { -brand-name-chrome }.
 switch-switching-to-firefox-page-description = Ri jaloj pa { -brand-name-firefox } yalan aninäq, man k'ayew ta chuqa' majun k'ayewal rojqan. Ri { -brand-name-firefox } yerujïk' el ri taq yaketal, yoninojsanem, ewan taq tzij chuqa' taq rajowab'al e k'o pa ri { -brand-name-chrome }.
 switch-select-what-to-take = Ticha' achike nichap el pa { -brand-name-chrome }.
 switch-let-firefox-do-the-rest = Tiya' q'ij chi re ri { -brand-name-firefox } nub'än ri ch'aqa' chik.
@@ -20,6 +22,7 @@ switch-still-not-convinced = ¿La k'a man akuqub'an ta ak'u'x chi najäl pa { -b
 switch-enjoy-the-web-faster = Tak'owisaj ak'u'x rik'in ri ajk'amaya'l yalan aninäq, ronojel b'anon runuk'ulem chawäch.
 switch-download-and-switch = Tiqasäx chuqa' tijal
 switch-share-to-facebook = Tikomonïx pa Facebook
+switch-share-to-facebook-updated = Tikomonïx pa { -brand-name-facebook }
 switch-send-a-tweet = Titaq jun twit
 switch-hey = Tatz'eta',
 switch-check-it-out = Tanik'oj chuqa' tatzijoj chwe ri nana'ojij:
