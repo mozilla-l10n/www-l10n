@@ -202,9 +202,9 @@ newsletters-download-firefox-for-ios = Baixe o { -brand-name-firefox } para { -b
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Baixe o { -brand-name-firefox } para dispositivos móveis
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Dicas para Contas do Firefox
+newsletters-firefox-accounts-tips = Dicas de { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Obtenha o máximo da sua Conta Firefox.
+newsletters-get-the-most-firefox-account = Aproveite ao máximo sua { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
@@ -246,7 +246,7 @@ newsletters-firefox-news = Notícias do { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
 newsletters-get-how-tos = Receba guias, conselhos e novidades para fazer sua experiência no { -brand-name-firefox } funcionar melhor para você.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-festival = Festival Mozilla
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla = Comunicados importantes sobre o anuário da { -brand-name-mozilla }, festival dedicado a forjar o futuro da web aberta.
 # Name for the newsletter in Newsletter subscription page
@@ -262,7 +262,7 @@ newsletters-mozilla-learning-network = Rede de aprendizagem da { -brand-name-moz
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = Novidades de nossa comunidade global, ajudando as pessoas a aprenderem as mais importantes habilidades da nossa época: a habilidade de ler, escrever e participar do mundo digital.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = Laboratórios Mozilla
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
 newsletters-were-building-the-technology = Estamos construindo a tecnologia do futuro. Venha explorar conosco.
 # Name for the newsletter in Newsletter subscription page
