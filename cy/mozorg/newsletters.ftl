@@ -102,7 +102,7 @@ newsletters-i-didnt-sign-up = Doeddwn i ddim wedi gofyn am hyn.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Nid yw'r cyfeiriad e-bost hwn yn ein system. Gwiriwch eich cyfeiriad ddwywaith neu <a href="{ $url }">tanysgrifiwch i'n cylchlythyrau.</a>
-newsletters-im-keeping-in-touch = Rwy'n cadw mewn cysylltiad â { -brand-name-mozilla } ar { -brand-name-facebook } a { -brand-name-twitter } yn lle.
+newsletters-im-keeping-in-touch = Rwy'n cadw mewn cysylltiad â { -brand-name-mozilla } ar { -brand-name-facebook } a { -brand-name-twitter } yn lle hynny.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Cofrestrwch, darllenwch,<br> cadwch yn wybodus.
 # Obsolete string
