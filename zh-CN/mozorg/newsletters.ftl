@@ -11,11 +11,15 @@ newsletters-newsletter-subscriptions = 订阅新闻通讯
 newsletters-mozilla-newsletter = { -brand-name-mozilla } 新闻通讯
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = 在我们的<span>新闻通讯</span>中阅读完整信息
+# Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-to-updates-and-keep = 订阅最新消息，抢先获知在 { -brand-name-mozilla } 发生的大小事。这是您能与我们保持联系的最佳方式！
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = 确认订阅
 newsletters-thanks-for-subscribing = 感谢您的订阅！
 newsletters-your-newsletter-subscription = 已确认订阅新闻通讯。
 newsletters-please-be-sure-to-add-our = 请确认已经将我们的发送地址： mozilla@e.mozilla.org 加入了您的通讯录，从而确保始终能收到我们的邮件。
+newsletters-the-supplied-link-has-expired = 提供的链接已过期。您会在下一封新闻通讯中收到新的链接。
+newsletters-something-is-amiss-with = 我们的系统出现了问题，抱歉！请稍后再试。
 newsletters-youre-awesome = 你太棒了！
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } 关注许多重大议题。
 newsletters-manage-your-email-preferences = 管理您的电子邮件首选项
