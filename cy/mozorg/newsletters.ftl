@@ -179,3 +179,9 @@ newsletters-help-us-make-a-better = Helpwch ni i wneud { -brand-name-firefox } g
 newsletters-mozilla-community = Cymuned { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Ymunwch â Mozilliaid ledled y byd a dod i wybod am gyfleoedd effeithiol i gefnogi cenhadaeth { -brand-name-mozilla }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Cysyllteion { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Cylchlythyr misol i'ch cadw'n gyfredol gyda'n rhaglen Cysyllteion { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = Llysgenhadon Myfyrwyr { -brand-name-firefox }
