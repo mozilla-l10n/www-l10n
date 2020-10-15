@@ -21,9 +21,15 @@ newsletters-please-be-sure-to-add-our = 请确认已经将我们的发送地址�
 newsletters-the-supplied-link-has-expired = 提供的链接已过期。您会在下一封新闻通讯中收到新的链接。
 newsletters-something-is-amiss-with = 我们的系统出现了问题，抱歉！请稍后再试。
 newsletters-youre-awesome = 你太棒了！
+newsletters-and-were-not-just-saying = 不只是因为您相信我们，而提供了您的电子邮件地址。
+newsletters-please-be-sure-to-add-mozillaemozillaorg = 请确认已经将 mozilla@e.mozilla.org 加入了你的通讯录，从而确保始终能收到我们的邮件。
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } 关注许多重大议题。
+newsletters-open-your-inbox-and-your = 打开您的收件箱（与您的心）更多一点，看看我们还关注哪些议题。
 newsletters-manage-your-email-preferences = 管理您的电子邮件首选项
 newsletters-this-page-is-in-maintenance = 本页面正在维护中，暂不可用。
+newsletters-to-update-your-email-preferences = 请稍后再更新您的收件首选项，感谢！
+newsletters-we-love-sharing-updates = 我们乐于分享在 { -brand-name-mozilla } 发生了哪些超棒的事情。
+newsletters-set-your-preferences-below = 在下方设置您的首选项，确保您始终接收到您想要的新闻。
 # Form field label
 newsletters-your-email-address = 您的电子邮件地址：
 # Form field label
@@ -32,6 +38,7 @@ newsletters-country-or-region = 国家或地区：
 newsletters-country = 国家/地区：
 # Form field label
 newsletters-language = 语言：
+newsletters-not-all-subscriptions-are = 并非所有订阅都提供所列的语言版本。大部分只提供英语、德语、法语版本。
 # Form field label
 newsletters-format = 格式：
 # Variables:
@@ -44,6 +51,8 @@ newsletters-save-preferences = 保存首选项
 newsletters-newsletter-email-recovery = 找回新闻通讯邮箱
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = 管理您的<span>新闻通讯订阅</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = 输入您的邮箱地址，我们就会直接将邮件订阅中心的网址发给您。
 newsletters-send-me-a-link = 发送链接给我
 newsletters-youve-been-unsubscribed = 您已成功退订。
 newsletters-were-sorry-to-see-you-go = 很抱歉您要离开。
@@ -61,6 +70,8 @@ newsletters-about-us = 关于我们
 newsletters-were-glad-you-asked = 很高兴您问这个问题!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = 热爱 Web 吗？我们也是！
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = 在收件箱中放入更多的狐狸。
 newsletters-we-are-sorry-but-there = 很抱歉，我们的系统出现了问题，请稍后再试！
 newsletters-thanks-for-updating-your = 感谢您更新邮箱首选项。
 newsletters-this-is-not-a-valid-email = 这不是有效的电子邮件地址，请检查拼写是否有误。
