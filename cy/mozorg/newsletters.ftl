@@ -185,3 +185,57 @@ newsletters-firefox-affiliates = Cysyllteion { -brand-name-firefox }
 newsletters-a-monthly-newsletter-affiliates = Cylchlythyr misol i'ch cadw'n gyfredol gyda'n rhaglen Cysyllteion { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = Llysgenhadon Myfyrwyr { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Cylchlythyr misol ar sut i ymuno gyda { -brand-name-mozilla }ar eich campws.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Newyddion { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Darllenwch am y nodweddion diweddaraf { -brand-name-firefox } y bwrdd gwaith a symudol cyn y ryddhad terfynol.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Llwythwch { -brand-name-firefox } { -brand-name-android } i lawr
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Estyn { -brand-name-firefox } { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Llwythwch { -brand-name-firefox } { -brand-name-ios } i lawr
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Llwythwch { -brand-name-firefox } Symudol i Lawr
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Awgrymiadau { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Manteisiwch i'r eithaf ar eich { -brand-name-firefox-account }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = E-byst newyddion achlysurol am ein cystadleuaeth ffilm rhyngwladol.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Byddwch y cyntaf i wybod pryd mae { -brand-name-firefox } ar gael ar gyfer dyfeisiau { -brand-name-ios }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Perchennog ffôn clyfar { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Peidiwch â cholli newyddu pwysig a diweddariadau am eich dyfais { -brand-name-firefox-os }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Chi
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Cylchlythyr misol a chyhoeddiadau arbennig yn rhoi cymorth i chi ar sut i wella eich profiad o ddefnyddio'ch dyfais Firefox OS, gan gynnwys y nodweddion diweddaraf a'r apiau Marketplace gorau.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Awgrymiadau Wythnosol { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Derbyniwch awgrymiadau wythnosol ar sut i well eich profiad o { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Ymunwch â { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Parti Maker
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = Dathliad mwyaf { -brand-name-mozilla } o wneud a dysgu ar y we.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Darganfyddwch yr apiau HTML5 diweddaraf, gorau ar { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Newyddion, awgrymiadau, manylion lansio a sut i brynu { -brand-name-firefox-os }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android }
