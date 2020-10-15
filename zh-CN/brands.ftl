@@ -74,6 +74,11 @@
 -brand-name-send = Send
 -brand-name-sync = Sync
 
+## Firefox products (legacy)
+
+-brand-name-firefox-marketplace = Firefox 应用市场
+-brand-name-firefox-os = Firefox OS
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -84,6 +89,7 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla 开发者网络
 -brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-labs = Mozilla 实验室
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web 文档
 -brand-name-thunderbird = Thunderbird
@@ -93,6 +99,9 @@
 -brand-name-common-voice = Common Voice
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+
+## Mozilla projects (legacy)
+
 
 ## Open Source projects
 
