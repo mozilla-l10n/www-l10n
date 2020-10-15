@@ -72,7 +72,9 @@ newsletters-im-keeping-in-touch = 我要改用 { -brand-name-facebook } 或 { -b
 newsletters-sign-up-read-up-stay-informed = 订阅、研读。<br>获取最新消息。
 # Obsolete string
 newsletters-sign-up-read-up-make-a-difference = 订阅、研读。<br>有所感悟。
+newsletters-your-email-preferences = 已成功更新您的邮件首选项。
 newsletters-consider-it-done = 交给我们，马上就好
+newsletters-back-to-email-preferences = 返回邮件首选项
 newsletters-take-your-privacy = 让隐私常伴身边
 newsletters-travel-the-internet = 守护你的网上冲浪，随身相伴。
 newsletters-download-the-app = 下载应用程式
@@ -103,6 +105,10 @@ newsletters-mozillians = 谋智人
 newsletters-email-updates-from-vouched = 为 mozillians.org 上有担保的谋智人提供的新闻通讯。
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = 为互联网采取行动
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = { -brand-name-mozilla } 社区
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = 与世界各地的谋智人一同支持 { -brand-name-mozilla } 的使命，并了解如何扩大影响力。
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
