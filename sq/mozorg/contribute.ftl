@@ -32,6 +32,7 @@ contribute-task-join-desc = Doni të përfshiheni më thellë në bashkësinë {
 ## Mission
 
 contribute-mission-heading = Misioni Ynë
+contribute-mission-desc = Misioni ynë është të sigurohet që interneti të jetë një burim publik global, i hapur dhe përdorshëm nga kushdo. Një internet që vërtet vë njerëzit mbi gjithçka, ku individët mund t’i japin formë punimit të tyre dhe janë të fuqizuar, të siguruar dhe të pavarur.
 contribute-learn = Mësoni mbi { -brand-name-mozilla }
 contribute-read-manifesto = Lexoni manifestin tonë
 contribute-find-event = Gjeni një veprimtari
@@ -44,18 +45,23 @@ contribute-opportunities = Lajme dhe mundësi vullnetarizmi
 ## Made by
 
 contribute-made-by-heading = Krijuar nga persona të pasionuar si ju
+contribute-made-by-desc = Kur jepni ndihmesë te { -brand-name-mozilla }, bëheni pjesë e një bashkësie mbarëbotërore e përbërë prej njerëzish anembanë rruzullit, të cilët besojnë se të gjithë kemi rolin tonë në garantimin e mbetjes së internetit një forcë e të mirës.
+contribute-made-by-desc-cont = Ne besojmë se bashkëpunimi brenda bashkësisë është jetik për krijimin e një interneti që është i larmishëm, risor, dhe që jep llogari para njerëzve që kanë më shumë nevojë për të. Qoftë nëse keni përvojë në teknologji,organizim bashkësie, ose thjesht keni një kompjuter dhe ca kohë të lirë, mund të na ndihmoni ta bëjmë internetin një vend më të mirë.
 
 ## Newsletter
 
 contribute-newsletter-heading = Ende jo i sigurt?
 contribute-newsletter-sub-heading = Merrni te email-i juaj lajme bashkësie dhe kontributi
+contribute-newsletter-desc = Pajtohuni te buletini ynë, bëhuni pjese e Moxillianëve anembanë botës, dhe mësoni mbi mundësi veprimtarie plot ndikim në përkrahjes të misionit të { -brand-name-mozilla }-s.
 
 ## Support
 
 contribute-support-heading = Merrni Ndihmë
+contribute-support-desc = { -brand-name-mozilla } ka një ekip të përkushtuar vullnetarësh për t’ju ndihmuar lidhur me çfarëdo problemesh që mund të keni hasur.
 contribute-mozilla-support = Asistencë { -brand-name-mozilla }
 
 ## Web compat
 
 contribute-web-compat-heading = Probleme me një faqe web?
+contribute-web-compat-desc = Nëse funksionimi i një sajti për ju ndryshon nga një shfletues në tjetrin, mundet të keni zbuluar një problem përputhshmërie web-i. Do të donim fort të na e bëni të ditur!
 contribute-report-issue = Njoftoni një problem
