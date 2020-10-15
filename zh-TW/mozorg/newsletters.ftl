@@ -116,6 +116,7 @@ newsletters-consider-it-done = 交給我們，馬上搞定
 newsletters-back-to-email-preferences = 回到郵件偏好設定
 newsletters-here-are-a-few-things = 在等待下一封電子郵件來到前，可以先看看下面幾件事。
 newsletters-take-your-privacy = 讓您的隱私隨身帶著走
+newsletters-travel-the-internet = 在每一台裝置上網都受到保護。
 newsletters-download-the-app = 下載應用程式
 newsletters-check-for-data-breaches = 檢查是否有資料外洩事件
 newsletters-sign-in-to-monitor = 登入 { -brand-name-monitor }
