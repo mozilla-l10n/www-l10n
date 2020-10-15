@@ -111,6 +111,16 @@ newsletters-sign-up-read-up-make-a-difference = 訂報、閱讀、<br>造成改�
 newsletters-get-smart-on-the-issues = 了解有哪些議題會影響您的線上生活。
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = 訂閱 { -brand-name-mozilla } 電子報，了解有哪些議題會挑戰網際網路的生態，並探索您可如何參與其中。
+newsletters-your-email-preferences = 已成功更新您的郵件偏好設定。
+newsletters-consider-it-done = 交給我們，馬上搞定
+newsletters-back-to-email-preferences = 回到郵件偏好設定
+newsletters-here-are-a-few-things = 在等待下一封電子郵件來到前，可以先看看下面幾件事。
+newsletters-take-your-privacy = 讓您的隱私隨身帶著走
+newsletters-download-the-app = 下載應用程式
+newsletters-check-for-data-breaches = 檢查是否有資料外洩事件
+newsletters-sign-in-to-monitor = 登入 { -brand-name-monitor }
+newsletters-meet-our-parent-brand = 認識我們的母品牌
+newsletters-mozilla-the-non-for-profit = { -brand-name-firefox } 背後的非營利組織 { -brand-name-mozilla } 的一言一行、開發的產品，都把人們比利益看得更重要。
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = About Standards
 # Name for the newsletter in Newsletter subscription page
