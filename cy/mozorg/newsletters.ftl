@@ -29,3 +29,16 @@ newsletters-manage-your-email-preferences = Rheoli eich Dewisiadau E-bost
 newsletters-this-page-is-in-maintenance = Mae'r dudalen hon yn y modd cynnal a chadw ac nid yw ar gael dros dro.
 newsletters-to-update-your-email-preferences = I ddiweddaru eich dewisiadau e-bost, dewch nôl ymhen ychydig. Diolch!
 newsletters-we-love-sharing-updates = Rydym wrth ein bodd yn rhannu diweddariadau am yr holl bethau arbennig sy'n digwydd ym { -brand-name-mozilla }.
+newsletters-set-your-preferences-below = Gosodwch eich dewisiadau isod i wneud yn siŵr eich bod yn derbyn newyddion perthnasol.
+# Form field label
+newsletters-your-email-address = Eich cyfeiriad e-bost:
+# Form field label
+newsletters-country-or-region = Gwlad neu ranbarth:
+# Form field label
+newsletters-country = Gwlad:
+# Form field label
+newsletters-language = Iaith:
+newsletters-not-all-subscriptions-are = Nid yw pob tanysgrifiad yn cael ei gefnogi yn yr holl ieithoedd ar y rhestr. Mae bron pob un ar gael yn Saesneg, Almaeneg a Ffrangeg.
+# Form field label
+newsletters-format = Fformat:
+newsletters-text-subscribers-will-receive = Bydd tanysgrifwyr testun yn derbyn e-bost ddwywaith y flwyddyn i gadarnhau parhad y tanysgrifiad. Gall yr e-byst hynny gynnwys HTML.
