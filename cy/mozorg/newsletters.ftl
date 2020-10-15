@@ -121,3 +121,4 @@ newsletters-download-the-app = Llwythwch yr Ap i lawr
 newsletters-check-for-data-breaches = Gwiriwch am dor-data
 newsletters-firefox-monitor-is-a-free = Mae { -brand-name-firefox-monitor } yn wasanaeth rhad ac am ddim sy'n gadael i chi weld a ydych chi wedi bod yn rhan o dor-data ar-lein.
 newsletters-sign-in-to-monitor = Mewngofnodwch i { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Dyma'n brand rhiant
