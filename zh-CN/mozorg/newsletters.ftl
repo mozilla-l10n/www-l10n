@@ -5,7 +5,19 @@
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
+# Page title the subscription preferences page
+newsletters-newsletter-subscriptions = 订阅新闻通讯
+# Page titlefor https://www-dev.allizom.org/newsletter/
+newsletters-mozilla-newsletter = { -brand-name-mozilla } 新闻通讯
+# Headline for https://www-dev.allizom.org/newsletter/
+newsletters-read-all-about-it-in-our-newsletter = 在我们的 <span>新闻通讯</span> 中阅读完整信息
+# Page title the subscription confirmation page
+newsletters-newsletter-confirm = 确认订阅
+newsletters-thanks-for-subscribing = 感谢您的订阅！
+newsletters-your-newsletter-subscription = 已确认订阅新闻通讯。
+newsletters-please-be-sure-to-add-our = 请确认已经将我们的发信地址： mozilla@e.mozilla.org 加入了您的通讯录，从而确保始终能收到我们的邮件。
 newsletters-youre-awesome = 你太棒了！
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } 关注许多重大议题。
 # Form field label
 newsletters-your-email-address = 您的电子邮件地址：
 # Form field label
@@ -16,8 +28,14 @@ newsletters-country = 国家/地区：
 newsletters-language = 语言：
 # Form field label
 newsletters-format = 格式：
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } 不是有效的新闻通讯
 newsletters-subscribe = 订阅
+newsletters-remove-me-from-all-the = 退订此页面上的所有订阅
 newsletters-save-preferences = 保存首选项
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = 管理您的<span>新闻通讯订阅</span>
 newsletters-send-me-a-link = 发送链接给我
 newsletters-other = 其他…
 newsletters-submit = 提交
