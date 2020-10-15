@@ -28,6 +28,7 @@ firefox-desktop-download-search-engine-options = Taq rucha'oj ruk'wab'äl kanox�
 firefox-desktop-download-bookmarks-manager = Runuk'samajel yaketal
 firefox-desktop-download-sync-across-devices = Sync chi kikojol okisab'äl
 firefox-desktop-download-reader-mode = Sik'inïk rub'anikil
+firefox-desktop-download-spell-check = Ninik'öx rutz'ib'axik
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-share-links = Kekomonïx ximöy
@@ -43,6 +44,7 @@ firefox-desktop-download-screenshots = Chapoj taq ruwäch
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-android }</strong>
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
