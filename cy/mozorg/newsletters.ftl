@@ -122,3 +122,28 @@ newsletters-check-for-data-breaches = Gwiriwch am dor-data
 newsletters-firefox-monitor-is-a-free = Mae { -brand-name-firefox-monitor } yn wasanaeth rhad ac am ddim sy'n gadael i chi weld a ydych chi wedi bod yn rhan o dor-data ar-lein.
 newsletters-sign-in-to-monitor = Mewngofnodwch i { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Dyma'n brand rhiant
+newsletters-mozilla-the-non-for-profit = Mae { -brand-name-mozilla }, y corff dim-er-elw y tu ôl i { -brand-name-firefox }, yn rhoi pobl o flaen elw ym mho peth rydyn ni'n ei ddweud, ei adeiladu a'i wneud.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Ynglŷn â Safonau
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Datblygu Ychwanegion
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Cylchlythyr Datblygwr
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Canllaw datblygwr i uchafbwyntiau arloesi platfformau Gwe, arferion gorau, dogfennaeth newydd a mwy.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Grŵp Newyddion Drumbeat
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } ar gyfer y bwrdd gwaith
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Peidiwch colli'r cyhoeddiadau diweddaraf am ein porwr bwrdd gwaith.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Ymunwch
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Mewnwelediadau
+# Obsolete string
+newsletters-internet-health-report = Adroddiad Iechyd y Rhyngrwyd
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = Mae { -brand-name-mozilla } yn cyhoeddi erthyglau a thafndaethau manwl ar faterion yn ymwneud ag iechyd y rhyngrwyd ac AI dibynadwy, gan gynnwys ein Hadroddiad Iechyd y Rhyngrwyd blynyddol.
+# Obsolete string
+newsletters-keep-up-with-our-annual = Cadwch yn gyfredol gyda'n crynhoad blynyddol o ymchwil a straeon ar faterion preifatrwydd &amp; diogelwch, didwylledd, cynhwysiant digidol, datganoli a llythrennedd gwe.
