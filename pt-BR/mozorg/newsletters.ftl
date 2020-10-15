@@ -141,6 +141,8 @@ newsletters-dont-miss-the-latest = Fique por dentro das últimas novidades sobre
 newsletters-get-involved = Envolva-se
 # Obsolete string
 newsletters-internet-health-report = Relatório de Integridade da Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = A { -brand-name-mozilla } publica artigos e análises aprofundadas sobre questões relacionadas a saúde da internet e inteligência artificial confiável, incluindo nosso relatório anual de integridade da internet.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Acompanhe nossa coleção anual de pesquisas e histórias sobre problemas de privacidade e segurança, abertura, inclusão digital, descentralização e alfabetização na web.
 # Name for the newsletter in Newsletter subscription page
