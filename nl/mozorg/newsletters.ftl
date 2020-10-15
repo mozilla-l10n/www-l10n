@@ -44,7 +44,7 @@ newsletters-format = Opmaak:
 newsletters-text-subscribers-will-receive = Tekstabonnementen ontvangen tweemaal per jaar een e-mailbericht, om de voortzetting van de inschrijving te bevestigen. Deze e-mailberichten kunnen HTML bevatten.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Veel van onze mededelingen hebben betrekking op een account waarvoor u zich hebt ingeschreven, bijvoorbeeld Firefox-accounts, { -brand-name-mdn-web-docs } of add-on-ontwikkelaar. Op onze <a href="{ $url }">hulppagina voor accountbeheer</a> kunt u een van uw accounts beheren, of een lijst van alle accounts bekijken.
+newsletters-many-of-our-communications = Veel van onze mededelingen hebben betrekking op een account waarvoor u zich hebt ingeschreven, bijvoorbeeld { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } of add-on-ontwikkelaar. Op onze <a href="{ $url }">hulppagina voor accountbeheer</a> kunt u een van uw accounts beheren, of een lijst van alle accounts bekijken.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Sluit u bij ons aan, om toegang te krijgen tot het volledige assortiment van { -brand-name-firefox }-producten, -kennis en -diensten met één account! Meer informatie over de voordelen vindt u <a href="{ $url }">hier</a>.
@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = Jullie inhoud was voor mij niet releva
 newsletters-your-email-design = Jullie e-mailontwerp was te moeilijk om te lezen.
 newsletters-i-didnt-sign-up = Ik heb me hier niet voor ingeschreven.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Dit e-mailadres bevindt zich niet in ons systeem. Controleer uw adres of <a href="{ $url }">schrijf u in voor onze nieuwsbrieven.</a>
 newsletters-im-keeping-in-touch = Ik houd in plaats hiervan contact met { -brand-name-mozilla } via { -brand-name-facebook } en { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -174,7 +174,7 @@ newsletters-a-monthly-newsletter-ambassadors = Een maandelijkse nieuwsbrief over
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
-newsletters-beta-news = Bètanieuws
+newsletters-beta-news = { -brand-name-beta }nieuws
 # Description for the newsletter in Newsletter subscription page (Beta News)
 newsletters-read-about-the-latest-features = Lees meer over de nieuwste functies in { -brand-name-firefox } voor desktop en mobiel voordat de definitieve versie uitkomt.
 # Name for the newsletter in Newsletter subscription page
@@ -186,9 +186,9 @@ newsletters-download-firefox-for-ios = Download { -brand-name-firefox } voor { -
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Download { -brand-name-firefox } voor Mobiel
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Tips voor Firefox-accounts
+newsletters-firefox-accounts-tips = Tips voor { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Haal het meeste uit uw Firefox-account.
+newsletters-get-the-most-firefox-account = Haal het meeste uit uw { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
