@@ -28,3 +28,6 @@ newsletter-form-select-country = Chọn quốc gia
 newsletter-form-sign-me-up = Đăng ký
 newsletter-form-sign-up-now = Đăng ký ngay
 newsletter-form-thanks = Cảm ơn!
+newsletter-form-leave-this-field-empty = Để trống trường này.
+newsletter-form-yes = Đồng ý
+newsletter-form-no = Không

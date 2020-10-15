@@ -71,6 +71,8 @@ newsletters-other = Khác…
 newsletters-submit = Gửi
 newsletters-thanks-for-telling-us-why = Cám ơn vì bạn đã nói cho chúng tôi biết lý do bạn rời đi.
 newsletters-while-here-why-not-check = Trong khi ở đây, tại sao bạn không xem thêm một số tính năng tuyệt vời của { -brand-name-firefox }.
+newsletters-get-up-and-go = Bắt đầu bây giờ
+newsletters-its-your-web-anywhere-you = Đó là trang Web của bạn ở mọi nơi bạn đến.
 newsletters-get-firefox-for-mobile = Tải { -brand-name-firefox } dành cho di động!
 newsletters-added-extras = Tính năng bổ sung đã thêm
 newsletters-make-firefox-do-more-with = Giúp { -brand-name-firefox } làm được nhiều việc hơn với các tiện ích mở rộng.
@@ -84,6 +86,8 @@ newsletters-love-the-web-so-do-we = Yêu thích web? Chúng ta cũng thế!
 newsletters-unlock-the-world-of-web = Khám phá thế giới phát triển web với bản tin dành cho nhà phát triển { -brand-name-mozilla } hàng tuần của chúng tôi. Mỗi ấn bản mang đến cho bạn các kỹ thuật viết mã và phương pháp hay nhất, cập nhật { -brand-name-mdn }, thông tin về các công nghệ mới nổi, mẹo công cụ dành cho nhà phát triển, và nhiều hơn nữa.
 # Obsolete string
 newsletters-join-thousands-of-developers = Tham gia cùng hàng nghìn nhà phát triển giống như bạn, những người đang học cách phát triển web tốt nhất.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Đặt nhiều con cáo hơn vào hộp thư đến của bạn.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Xem Web có thể đưa bạn đến đâu với các mẹo, thủ thuật { -brand-name-firefox } hàng tháng và thông tin về Internet.
 newsletters-we-are-sorry-but-there = Rất tiếc, đã xảy ra sự cố với hệ thống của chúng tôi. Vui lòng thử lại sau!
@@ -103,6 +107,8 @@ newsletters-im-keeping-in-touch = Thay vào đó, tôi đang giữ liên lạc v
 newsletters-sign-up-read-up-stay-informed = Đăng ký, đọc,<br>cập nhật thông tin.
 # Obsolete string
 newsletters-sign-up-read-up-make-a-difference = Đăng ký. Đọc.<br>Tạo sự khác biệt.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Biết những vấn đề nào sẽ ảnh hưởng đến cuộc sống trực tuyến của bạn.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Nhận bản tin { -brand-name-mozilla } để được cập nhật thông tin về các vấn đề thách thức sức khỏe của Internet và khám phá cách bạn có thể tham gia.
 newsletters-your-email-preferences = Tùy chỉnh email của bạn đã được cập nhật.
@@ -115,3 +121,153 @@ newsletters-download-the-app = Tải xuống ứng dụng
 newsletters-check-for-data-breaches = Kiểm tra rò rỉ dữ liệu
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } là một dịch vụ miễn phí cho phép bạn xem liệu mình đã bị rò rỉ dữ liệu trực tuyến hay không.
 newsletters-sign-in-to-monitor = Đăng nhập vào { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Gặp gỡ thương hiệu mẹ của chúng tôi
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, tổ chức phi lợi nhuận đằng sau { -brand-name-firefox }, đặt mọi người hơn lợi nhuận trong mọi điều chúng tôi nói, xây dựng và làm.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Về tiêu chuẩn
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Phát triển tiện ích mở rộng
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Bản tin nhà phát triển
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Hướng dẫn của nhà phát triển về những điểm nổi bật của các cải tiến nền tảng Web, các phương pháp hay nhất, tài liệu mới và hơn thế nữa.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Nhóm tin tức Drumbeat
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } dành cho máy tính để bàn
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Đừng bỏ qua những thông báo mới nhất về trình duyệt web của bạn.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Tham gia đóng góp
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Thông tin chi tiết
+# Obsolete string
+newsletters-internet-health-report = Báo cáo sức khỏe về Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } xuất bản các bài báo và tìm hiểu sâu về các vấn đề xung quanh sức khỏe internet và AI đáng tin cậy, bao gồm cả Báo cáo sức khỏe Internet hàng năm của chúng tôi.
+# Obsolete string
+newsletters-keep-up-with-our-annual = Cập nhật bản tổng hợp nghiên cứu và câu chuyện hàng năm của chúng tôi về các vấn đề quyền riêng tư &amp; bảo mật, tính mở, bao gồm kỹ thuật số, phân quyền và kiến thức web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Kiên thức là sức mạnh
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Nhận tất cả kiến thức bạn cần để luôn an toàn hơn và thông minh hơn khi trực tuyến.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Giới thiệu về Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Máy tính để bàn
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozillians
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Cập nhật email cho Mozillians đã được xác nhận trên mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Hình dạng của Web
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Tin tức và thông tin liên quan đến sức khỏe của web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Student Reps
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Chương trình Former University từ 2008-2011, giờ đã ngừng và được khởi động lại dưới cái tên chương trình Firefox Student Ambassadors.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Hành động vì Internet
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Thêm tiếng nói của bạn vào các kiến nghị, sự kiện và sáng kiến đấu tranh cho tương lai của web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Thử nghiệm sản phẩm mới
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Giúp chúng tôi tạo { -brand-name-firefox } tốt hơn cho bạn bằng cách thử các sản phẩm và tính năng mới nhất của chúng tôi.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Cộng đồng { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Tham gia cùng Mozillians trên toàn thế giới và tìm hiểu về các cơ hội có tác động để hỗ trợ sứ mệnh của { -brand-name-mozilla }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Đối tác của { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Bản tin hàng tháng giúp bạn cập nhật chương trình Đối tác của { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Bản tin hàng tháng về cách tham gia với { -brand-name-mozilla } trong khuôn viên của bạn.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Tin tức { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Đọc về các tính năng mới nhất { -brand-name-firefox } dành cho máy tính để bàn và điện thoại di động trước khi phát hành chính thức.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Tải xuống { -brand-name-firefox } dành cho { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Tải { -brand-name-firefox } dành cho { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Tải xuống { -brand-name-firefox } dành cho { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Tải xuống { -brand-name-firefox } dành cho di động
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Mẹo { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Khai thác tối đa { -brand-name-firefox-account } của bạn.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Cập nhật email định kỳ liên quan đến cuộc thi làm phim quốc tế hàng năm của chúng tôi.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Hãy là người đầu tiên biết khi nào { -brand-name-firefox } khả dụng cho các thiết bị { -brand-name-ios }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Chủ sở hữu điện thoại thông minh { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Đừng bỏ lỡ các tin tức và cập nhật quan trọng về thiết bị { -brand-name-firefox-os } của bạn.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Bạn
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Bản tin hàng tháng và các thông báo đặc biệt về cách khai thác tối đa thiết bị { -brand-name-firefox-os } của bạn, bao gồm các tính năng mới nhất và các ứng dụng { -brand-name-firefox-marketplace } thú vị nhất.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Mẹo hàng tuần về { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Nhận mẹo hàng tuần về nâng cao trải nghiệm { -brand-name-firefox } của bạn.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Tham gia { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = Lễ kỷ niệm lớn nhất của { -brand-name-mozilla } đối với việc học và làm trên web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Khám phá các ứng dụng HTML5 mới nhất, thú vị nhất trên { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Tin tức, mẹo, thông tin khởi chạy và nơi mua của { -brand-name-firefox-os }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } dành cho { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Cập nhật các bản phát hành và tin tức về { -brand-name-firefox } dành cho { -brand-name-android }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Tin tức về { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Nhận hướng dẫn, lời khuyên và tin tức để làm cho trải nghiệm { -brand-name-firefox } của bạn tốt nhất cho bạn.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Thông báo đặc biệt về lễ hội thực hành hàng năm của { -brand-name-mozilla } dành riêng cho việc xây dựng tương lai của Web mở.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Tin tức về { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Cập nhật thường xuyên để cập nhật thông tin cho bạn và tích cực trong cuộc chiến của chúng tôi vì một internet tốt hơn.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Những thông báo đặc biệt và tin nhắn từ đội ngũ với chuyên môn giữ cho nền tảng Web tự do và miễn phí.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Cập nhật từ cộng đồng toàn cầu của chúng tôi, giúp mọi người học các kỹ năng quan trọng nhất ở thời đại chúng ta: khả năng đọc, viết và tham gia vào thế giới kỹ thuật số.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Chúng tôi đang xây dựng công nghệ của tương lai. Hãy đến khám phá cùng chúng tôi.
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Các thông báo đặc biệt giúp bạn tận dụng tối đa { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
