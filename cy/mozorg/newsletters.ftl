@@ -9,3 +9,5 @@
 newsletters-newsletter-subscriptions = Tanysgrifiadau'r Cylchlythyr
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Cylchlythyr { -brand-name-mozilla }
+# Headline for https://www-dev.allizom.org/newsletter/
+newsletters-read-all-about-it-in-our-newsletter = Darllenwch y cyfan amdano yn ein <span>cylchlythyr</span>
