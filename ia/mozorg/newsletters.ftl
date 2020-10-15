@@ -5,6 +5,8 @@
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
+# Page title the subscription preferences page
+newsletters-newsletter-subscriptions = Subscriptiones a litteras de novas
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
