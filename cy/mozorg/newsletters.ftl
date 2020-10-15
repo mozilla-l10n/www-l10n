@@ -149,3 +149,33 @@ newsletters-mozilla-published-articles-and-deep = Mae { -brand-name-mozilla } yn
 newsletters-keep-up-with-our-annual = Cadwch yn gyfredol gyda'n crynhoad blynyddol o ymchwil a straeon ar faterion preifatrwydd &amp; diogelwch, didwylledd, cynhwysiant digidol, datganoli a llythrennedd gwe.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Grym Gwybodaeth
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Sicrhewch yr holl wybodaeth sydd ei hangen arnoch i aros yn fwy diogel a doethach ar-lein.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Ynghylch Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Bwrdd Gwaith
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Moziliaid
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Diweddariadau e-bost ar gyfer Mozillians cydnabyddedig ar mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Siâp y We
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Newyddion a gwybodaeth yn ymwneud ag iechyd y we.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Cynrychiolwyr Myfyrwyr
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Rhaglen newydd Firefox Student Ambassadors wedi ei lansio yn lle hen rhaglen Prifysgol 2008-2011.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Gweithredu ar ran y Rhyngrwyd
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Ychwanegwch eich llais at ddeisebau, digwyddiadau a mentrau sy'n brwydro dros ddyfodol y we.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Profi Cynnyrch Newydd
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Helpwch ni i wneud { -brand-name-firefox } gwell i chi trwy roi prawf ar ein cynnyrch a'n nodweddion diweddaraf.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Cymuned { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Ymunwch â Mozilliaid ledled y byd a dod i wybod am gyfleoedd effeithiol i gefnogi cenhadaeth { -brand-name-mozilla }.
