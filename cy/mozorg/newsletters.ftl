@@ -93,3 +93,19 @@ newsletters-see-where-the-web-can-take = Gweld lle gall y We fynd â chi gydag a
 newsletters-we-are-sorry-but-there = Mae'n ddrwg gennym, ond roedd problem gyda'n system. Rhowch gynnig arall arno eto'n hwyrach!
 newsletters-thanks-for-updating-your = Diolch am ddiweddaru eich dewisiadau e-bost.
 newsletters-the-supplied-link-has-expired-long = Mae'r ddolen a gyflenwyd wedi dod i ben neu nid yw'n ddilys. Byddwch yn derbyn un newydd yn y cylchlythyr nesaf, neu'n islaw gallwch ofyn am e-bost gyda'r ddolen.
+newsletters-success-an-email-has-been-sent = Llwyddiant! Mae e-bost wedi'i anfon atoch gyda'ch cyswllt canolfan ddewis. Diolch!
+newsletters-this-is-not-a-valid-email = Nid yw hwn yn gyfeiriad e-bost dilys. Gwiriwch y sillafu, os gwelwch yn dda.
+newsletters-you-send-too-many-emails = Rydych yn anfon gormod o e-byst.
+newsletters-your-content-wasnt-relevant = Doedd y cynnwys ddim yn berthnasol i mi.
+newsletters-your-email-design = Roedd cynllun yr e-bost yn rhy anodd ei ddarllen.
+newsletters-i-didnt-sign-up = Doeddwn i ddim wedi gofyn am hyn.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Nid yw'r cyfeiriad e-bost hwn yn ein system. Gwiriwch eich cyfeiriad ddwywaith neu <a href="{ $url }">tanysgrifiwch i'n cylchlythyrau.</a>
+newsletters-im-keeping-in-touch = Rwy'n cadw mewn cysylltiad â { -brand-name-mozilla } ar { -brand-name-facebook } a { -brand-name-twitter } yn lle.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Cofrestrwch, darllenwch,<br> cadwch yn wybodus.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Cofrestrwch. Darllennwch.<br> Gwnewch wahaniaeth.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Dod i wybod am y materion sy'n effeithio ar eich bywyd ar-lein.
