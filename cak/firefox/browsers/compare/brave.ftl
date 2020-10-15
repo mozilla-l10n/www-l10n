@@ -49,3 +49,4 @@ compare-brave-the-firefox-browser-also-gives = Ri { -brand-name-firefox } okik'a
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } chuqa' k'ab'a' titikïr yeruxim taq tzij chi kikojol samajel taq q'inoj chuqa' taq okisab'äl yalan ye'okisäx, chuqa' retaman yeruxïm ri taq Tokens Rik'in Nab'ey Tz'etoj.
 compare-brave-when-comparing-the-two-browsers = Toq yejunamäj ri ka'i' taq okik'amaya'l, { -brand-name-firefox } chuqa' { -brand-name-brave } nikisüj nïm ichinanem chuqa' jikomal kik'amon wi pe, e k'o ri nab'ey mul toq ye'ajäq.
+compare-brave-overall-brave-is-a-fast-and = Ke ri' toq, { -brand-name-brave } jun aninäq chuqa' jikïl chi okik'amaya'l, jeb'ël chi kiwa ri rokisanela' ajkriptominer. Po chi kiwa konojel ri ruwinaq k'amaya'l, { -brand-name-firefox } k'a jun jeb'ël soloj k'ayewal chuqa' man k'ayew ta.
