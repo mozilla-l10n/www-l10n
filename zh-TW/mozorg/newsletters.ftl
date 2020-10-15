@@ -131,6 +131,8 @@ newsletters-get-involved = 參與我們
 newsletters-insights = Insights 深入解析
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } 會發布有關網際網路健康與可信任 AI 的相關文章，包含我們的年度網際網路健康報告。
 # Obsolete string
 newsletters-keep-up-with-our-annual = 了解我們關於隱私權與安全性、開放性、數位包容、去中心化、網路素養等議題的年度研究與議題彙編。
 # Name for the newsletter in Newsletter subscription page
@@ -255,3 +257,5 @@ newsletters-were-building-the-technology = 我們正在打造未來科技，快�
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = 幫助您熟悉 { -brand-name-webmaker } 的特殊公告。
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
