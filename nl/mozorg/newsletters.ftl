@@ -111,6 +111,13 @@ newsletters-sign-up-read-up-make-a-difference = Schrijf in. Lees na.<br> Maak ee
 newsletters-get-smart-on-the-issues = Word expert in zaken die uw onlineleven beïnvloeden.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Ontvang de { -brand-name-mozilla }-nieuwsbrief en blijf geïnformeerd over zaken die een uitdaging zijn voor een gezond internet, en hoe u kunt meewerken.
+newsletters-your-email-preferences = Uw e-mailvoorkeuren zijn met succes bijgewerkt.
+newsletters-back-to-email-preferences = Terug naar e-mailvoorkeuren
+newsletters-take-your-privacy = Neem uw privacy mee
+newsletters-travel-the-internet = Reis beschermd op het internet, op al uw apparaten.
+newsletters-download-the-app = De app downloaden
+newsletters-check-for-data-breaches = Controleren op datalekken
+newsletters-sign-in-to-monitor = Aanmelden bij { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Over standaarden
 # Name for the newsletter in Newsletter subscription page
@@ -253,3 +260,5 @@ newsletters-were-building-the-technology = We bouwen aan de technologie van de t
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Speciale aankondigingen helpen u het meeste uit { -brand-name-webmaker } te halen.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

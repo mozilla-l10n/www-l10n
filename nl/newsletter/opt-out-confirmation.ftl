@@ -11,3 +11,12 @@ opt-out-confirmation-your-email = Uw e-mailadres:
 opt-out-confirmation-yournameexamplecom = uwnaam@voorbeeld.com
 # This is a button
 opt-out-confirmation-manage-preferences = Voorkeuren beheren
+opt-out-confirmation-prefer-to-get = Wilt u informatie op een andere manier ontvangen?
+# Link to https://www.instagram.com/mozilla/
+opt-out-confirmation-instagram = { -brand-name-instagram }
+# Link to https://www.youtube.com/firefoxchannel
+opt-out-confirmation-youtube = { -brand-name-youtube }
+# Link to https://www.facebook.com/Firefox
+opt-out-confirmation-facebook = { -brand-name-facebook }
+# Link to https://twitter.com/firefox
+opt-out-confirmation-twitter = { -brand-name-twitter }
