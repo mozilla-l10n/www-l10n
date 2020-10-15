@@ -55,6 +55,7 @@ firefox-new-its-privacy-and-peace-of = Je <strong>zasebnost in brezskrbnost</str
 firefox-new-its-a-family-of-products = Je <strong>družina izdelkov</strong>, ki z vašimi podatki ravna spoštljivo.
 firefox-new-its-everything-you-need-to = Je vse, kar morate vedeti o <strong>varnosti na spletu</strong>.
 firefox-new-its-a-community-that-believes = Je <strong>skupnost</strong>, ki verjame, da je tehnologija lahko še boljša.
+firefox-new-download-interrupted = Prenašanje se je prekinilo. Toda vse ni izgubljeno.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Za namestitev { -brand-name-firefox }a sledite <a href="{ $url }">navodilom</a>.
@@ -62,3 +63,7 @@ firefox-new-please-follow = Za namestitev { -brand-name-firefox }a sledite <a hr
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Vaš sistem morda ne izpolnjuje zahtev za { -brand-name-firefox }, lahko pa preizkusite eno izmed <a href="{ $url }">naslednjih različic</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Če se prikaže obvestilo, da nameščate aplikacijo, ki je { -brand-name-microsoft } ni preveril, kliknite "Vseeno namesti" ali <a { $attrs }>spremenite nastavitve priporočil aplikacij</a>.
+firefox-new-visit-support-for-more = Za več podrobnosti obiščite podporo

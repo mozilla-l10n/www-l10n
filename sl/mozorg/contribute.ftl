@@ -24,6 +24,7 @@ contribute-mission-desc = Naše poslanstvo je zagotavljanje, da je internet glob
 contribute-read-manifesto = Preberite naš manifest
 contribute-find-event = Poiščite dogodek
 contribute-meet-volunteers = Spoznajte naše predane prostovoljce
+contribute-help-fund = Pomagajte financirati naše poslanstvo
 
 ## Made by
 
