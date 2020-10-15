@@ -49,6 +49,7 @@ newsletters-while-here-why-not-check = 既然来了，何不看看更多 { -bran
 newsletters-get-up-and-go = 现在就开始
 newsletters-its-your-web-anywhere-you = 无论身在何处，Web 触手可及。
 newsletters-get-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版！
+newsletters-make-firefox-do-more-with = 通过附加组件让 { -brand-name-firefox } 做更多事。
 newsletters-find-out-how = 看看怎样做到！
 newsletters-about-us = 关于我们
 newsletters-were-glad-you-asked = 很高兴您问这个问题!
