@@ -34,6 +34,9 @@ compare-safari-in-addition-to-the-regular = Përtej grupit të zakonshëm të ve
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Si edhe { -brand-name-safari }, { -brand-name-firefox }-i i nxit zhvilluesit e tij entuziastë të krijojnë <a { $attrs }>shtesa dhe zgjerime</a> për shfletuesin. Dhe meqë platforma jonë është me burim të hapur, ka një përzgjedhje të gjerë që shton një numër shumë të madh funksionesh.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Gjithashtu, kur regjistroni një llogari { -brand-name-firefox }, përfitoni mundësinë e përdorimit të shërbimeve unike të tillë si <a { $pocket }>{ -brand-name-pocket }</a> të cilët integrohen drejtpërsëdrejti në shfletuesin tuaj. Butoni { -brand-name-pocket } për { -brand-name-firefox } ju lejon të ruani me një klikim faqe dhe video web në { -brand-name-pocket }, që kështu të mund të lexoni një version të qëruar, pa tërheqje vëmendjeje kurdo dhe kudo që dëshironi — madje edhe jashtë linje.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
@@ -45,6 +48,7 @@ compare-safari-also-when-you-sign-up-for = Veç kësaj, kur regjistroheni për n
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
 compare-safari-also-when-you-sign-up-for-fallback = Veç kësaj, kur regjistroheni për një llogari { -brand-name-firefox }, përfitoni disa shërbime unike, bie fjala Screenshots, <a { $pocket }>{ -brand-name-pocket }</a> dhe <a { $send }>{ -brand-name-send }</a> që integrohen drejtpërsëdrejti në shfletues. Screenshots është një veçori e sendërtuar brenda shfletuesit { -brand-name-firefox }, që ju lejon të kopjoni ose shkarkoni cilëndo ose krejt pjesët e një faqeje web. Kur e ruani foton e ekranit, mund të zgjidhni te cila dosje doni të gjendet, në vend se të shtoni rrëmujën në desktopin tuaj. Butoni { -brand-name-pocket } për { -brand-name-firefox } ju lejon të ruani me një klikim faqe dhe video web në { -brand-name-pocket }, që të mund t’i shihni në një version të qëruar, pa humbje vëmendjeje kurdo dhe kudo që doni — madje edhe jashtë internetit. Me { -brand-name-send }, mund të ndani me të tjerë kartela të mëdha të fshehtëzuara skaj-më-skaj dhe me një larmi kontrollesh sigurie, bie fjala, aftësia për të caktuar një datë skadimi të lidhjes për te një kartelë, numrin e shkarkimeve dhe shtimin ose jo të një fjalëkalim opsional, për një shtresë ekstra sigurie.
+compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox }-i është gjithashtu i goditur për video dhe audio. Me bllokim vetëluajtjeje drejt e në shfletues dhe të vënë në punë automatikisht, asnjë sajt i paftuar s’do të ulërijë apo lehë ndonjëherë.
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
