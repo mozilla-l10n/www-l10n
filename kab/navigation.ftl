@@ -89,6 +89,7 @@ navigation-add-ons = Izegrar
 navigation-projects = Isenfaṛen
 navigation-close-projects-menu = Mdel umuɣ Isenfaṛen
 navigation-donate-your-voice-to = Mudd taɣect-ik akken aɛqal n taɣect ad yeldi abrid i yal yiwen.
+navigation-machine-learning = Tigzi n tmacint
 # Outdated string
 navigation-web-of-things-iot = Internet n tɣawsiwin (IoT)
 # Outdated string
