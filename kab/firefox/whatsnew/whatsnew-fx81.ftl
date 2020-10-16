@@ -15,4 +15,6 @@ whatsnew81-send-form-label-alt = Sekcem imayl-ik•im neɣ uṭṭun n tiliɣri 
 whatsnew81-scan-this-qr-code = Mtawi tangalt-a QR i usader
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = { -brand-name-firefox } amaynut i { -brand-name-android } a-t-a da
+whatsnew81-our-latest-for-android-has = Lqem-nneɣ aneggaru { -brand-name-android } deg-s ddeqs n tmahilin tuḥricin yesnecraḥen – am ufeggag n unadi i yettbeddilen adeg. Acku nekkni d iminig ilelli yerna nettxemmim ɣef yidebbuzen-ik•im.
 whatsnew81-make-firefox-your-everyday = Err { -brand-name-firefox } d iminig-ik•im n yal ass deg { -brand-name-ios }
+whatsnew81-attention-iphone-people = Alɣu i yiseqdacen n { -brand-name-iphone }: deg { -brand-name-ios } 14, dayen tzemreḍ ad tesbaduḍ { -brand-name-firefox } d iminig amezwer. Ilaq ad tesɛuḍ lqem aneggaru n { -brand-name-firefox } i { -brand-name-ios }.
