@@ -140,9 +140,21 @@ newsletters-email-updates-from-vouched = 为 mozillians.org 上有担保的谋�
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = 为互联网采取行动
 # Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = 测试新产品
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = 通过测试最新的产品与功能，帮助我们构建更好的 { -brand-name-firefox }。
+# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } 社区
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = 与世界各地的谋智人一同支持 { -brand-name-mozilla } 的使命，并了解如何扩大影响力。
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } 伙伴计划
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = 让您知道 { -brand-name-firefox } 伙伴计划有什么新消息的每月通讯。
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox } 学生大使
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = 关于如何在你的学校参加 { -brand-name-mozilla } 的月度通讯。
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
@@ -160,6 +172,10 @@ newsletters-download-firefox-for-mobile = 下载 { -brand-name-firefox } 移动�
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } 小贴士
 # Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = 关于我们的年度电影大赛的定期通报。
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
 newsletters-be-the-first-to-know = 抢先获知 { -brand-name-ios } 版 { -brand-name-firefox } 何时推出。
@@ -169,6 +185,12 @@ newsletters-firefox-os-smartphone-owner = 您有 { -brand-name-firefox-os } 智�
 newsletters-dont-miss-important-news = 不要错过有关您的 { -brand-name-firefox-os } 设备的重要新闻和更新。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + You
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = { -brand-name-firefox } 每周小窍门
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = 获取每周小窍门，了解如何强力提升你的 { -brand-name-firefox } 体验。
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = 加入 { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Name for the newsletter in Newsletter subscription page
