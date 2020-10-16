@@ -113,10 +113,12 @@ newsletters-get-the-mozilla-newsletter = იკითხეთ { -brand-name-moz
 newsletters-your-email-preferences = თქვენი ელფოსტის პარამეტრები წარმატებით განახლდა.
 newsletters-consider-it-done = ჩათვალეთ, მზადაა
 newsletters-back-to-email-preferences = ელფოსტის პარამეტრებზე დაბრუნება
+newsletters-here-are-a-few-things = რამდენიმე საკითხი, რომლებზე დაფიქრებაც ღირს, სანამ ახალ წერილს ელოდებით.
 newsletters-take-your-privacy = თან წაიყოლეთ პირდულობა
 newsletters-travel-the-internet = იმოგზაურეთ ინტერნეტში უსაფრთხოდ, ნებისმიერი მოწყობილობით.
 newsletters-download-the-app = ჩამოტვირთეთ აპლიკაცია
 newsletters-check-for-data-breaches = თვალი ადევნეთ მონაცემთა მიტაცებებს
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } უფასო მომსახურებაა, რომლითაც გაარკვევთ, თქვენც ხომ არ შეგეხოთ მონაცემების მიტაცება.
 newsletters-sign-in-to-monitor = შედით { -brand-name-monitor }-ანგარიშზე
 newsletters-meet-our-parent-brand = გაიცანით ჩვენი მშობელი დაწესებულება
 # Name for the newsletter in Newsletter subscription page
