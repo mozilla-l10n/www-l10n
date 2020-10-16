@@ -74,6 +74,7 @@ newsletters-while-here-why-not-check = 既然来了，何不看看更多 { -bran
 newsletters-get-up-and-go = 现在就开始
 newsletters-its-your-web-anywhere-you = 无论身在何处，Web 触手可及。
 newsletters-get-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版！
+newsletters-added-extras = 额外功能
 newsletters-make-firefox-do-more-with = 通过附加组件让 { -brand-name-firefox } 做更多事。
 newsletters-find-out-how = 看看怎样做到！
 newsletters-about-us = 关于我们
@@ -217,12 +218,18 @@ newsletters-firefox-for-android = { -brand-name-android } 版 { -brand-name-fire
 newsletters-firefox-news = { -brand-name-firefox } 新闻
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = 关于致力于建构开放 Web 的未来的 { -brand-name-mozilla } 年度嘉年华的特别公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } 新闻
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = 定期更新，让您了解并参与我们，一起让互联网变得更好。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
 newsletters-special-accouncements-and-messages = 致力保持 Web 自由与开放的团队发布的特别公告和消息。
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = 来自我们全球社区的最新动态，帮助人们了解这个时代最重要的能力：阅读、写作以及参与数字世界的能力。
 # Name for the newsletter in Newsletter subscription page
