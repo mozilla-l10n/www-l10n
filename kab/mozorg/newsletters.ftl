@@ -8,3 +8,4 @@
 newsletters-you-send-too-many-emails = Tettazneḍ aṭas n yimaylen
 newsletters-your-content-wasnt-relevant = Agbur-inek·inem ur iyi-yeɛni ara.
 newsletters-your-email-design = Afeṣṣel n yiamyl-inek·inem yewɛer aṭas ur yelhi ara i tɣuṛi.
+newsletters-i-didnt-sign-up = Ur jerrdeɣ ɣer wa.
