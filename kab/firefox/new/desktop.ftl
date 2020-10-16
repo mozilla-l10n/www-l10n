@@ -88,6 +88,8 @@ firefox-desktop-download-extensions-for-every = Isiɣzaf i wayen i tḥemmleḍ
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
 firefox-desktop-download-tweak-your-settings = Seqɛed iɣewwaren-inek·im
 firefox-desktop-download-theres-no-need = Ulac ayeen teḥwaǧeḍ i uṣeggem. Snifel asebter amaynut n yiccer, afeggag n unadi, ticraḍ n yisebtar d wugar n wayen-nniḍen i usnirem n internet akken i tessarameḍ.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = S lmenda n <strong>tkebbanit ur nettnadi ara ɣef tedrimt</strong> i yettarran taɣellist n yimdanen deg tazwara
 firefox-desktop-download-your-privacy-comes = Tudert-ik·m tabaḍnit i yezwaren
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Eǧǧ meṛṛa timahilin-ik·im n yiminig i tesmenyafeḍ — rnu <strong>ẓer</strong> timaynutin i d-yernan.
