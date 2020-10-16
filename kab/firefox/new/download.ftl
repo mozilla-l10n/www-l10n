@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Sader kan iminig
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">dayen ur d-yettmuddu ara akk ileqman n tɣellist</a> ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }, maca mazal tzemreḍ ad tesqedceḍ { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Tseqdaceḍ anagraw n wammud aqbuṛ, daɣen araɣelsan <a href="{ $url }">ur yettusefraken ara di { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,12 @@ firefox-new-its-privacy-and-peace-of = D <strong> tabaḍnit akked lehna</strong
 firefox-new-its-a-family-of-products = D <strong>tawacult n yifarisen</strong> i yettqadaṛen isefka-ik udmawanen.
 firefox-new-its-everything-you-need-to = D ayen kan i ilaqen ad tissineḍ akken <strong>ad temneḍ taɣellist-ik srid</strong>.
 firefox-new-its-a-community-that-believes = D <strong>tarbaɛt</strong> yumnen d akken tatiknulujit tezmer ad teg xir n waya.
+firefox-new-download-interrupted = Asader-inek·inem yettuḥbes . Maca cemma ur iruḥ.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Ma ulac aɣilif, ḍfer <a href="{ $url }">iwellihen-agi</a> i wakken ad tesbeddeḍ { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Anagraw-ik·im ur igbir ara ayen i iwulmen i { -brand-name-firefox }, acu kan ɛreḍ yiwen seg <a href="{ $url }">yileqman-a</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut

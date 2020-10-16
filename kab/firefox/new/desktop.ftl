@@ -136,6 +136,9 @@ firefox-desktop-download-get-help = Tesεuḍ ugur? <a { $attrs }>Awi tallalt i 
 firefox-desktop-download-in-another-language = Sider deg tutlayt-nniḍen neɣ i unagraw-nniḍen n wammud
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-desktop-download-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">dayen ur d-yettmuddu ara akk ileqman n tɣellist</a> ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }, maca mazal tzemreḍ ad tesqedceḍ { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -145,3 +148,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Tesseqdaceḍ anagra
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Asider-ik.im ad yekker s wudem awurman. Ur yeddi ara? <a id="{ $id }" href="{ $fallback_url }">Ɛreḍ asider i tikkelt-nniḍen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } mačči d iminig kan.
+firefox-desktop-download-interrupted = Asader-inek·inem yettuḥbes . Maca cemma ur iruḥ.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Ma ulac aɣilif, ḍfer <a href="{ $url }">iwellihen-agi</a> i wakken ad tesbeddeḍ { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Anagraw-ik·im ur igbir ara ayen i iwulmen i { -brand-name-firefox }, acu kan ɛreḍ yiwen seg <a href="{ $url }">yileqman-a</a>.
