@@ -139,8 +139,12 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } კომპიუტ�
 newsletters-dont-miss-the-latest = არ გამოტოვოთ უახლესი ცნობები, ჩვენი ბრაუზერის შესახებ, კომპიუტერისთვის.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = ჩაერთეთ
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = სიღრმისეული განხილვები
 # Obsolete string
 newsletters-internet-health-report = ინტერნეტის სიჯანსაღის მოხსენება
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } აქვეყნებს სტატიებს, სადაც დაწვრილებით მიმოიხილება ჯანსაღი ინტერნეტისა და ხელოვნური ინტელექტის სანდოობის საკითხები, აგრეთვე მოიცავს, ჩვენს ყოველწლიურ მოხსენებას ინტერნეტის სიჯანსაღის შესახებ.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = ცოდნა ძალაა
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
