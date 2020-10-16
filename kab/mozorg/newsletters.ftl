@@ -31,6 +31,7 @@ newsletters-would-you-mind-telling-us = Tzemreḍ ad aɣ-d-tiniḍ acuɣer i tru
 newsletters-other = Wiyaḍ…
 newsletters-submit = Azen
 newsletters-thanks-for-telling-us-why = Tanemmirt imi i aɣ-d-tenniḍ acuɣar i truḥeḍ.
+newsletters-about-us = Fell-aɣ
 newsletters-you-send-too-many-emails = Tettazneḍ aṭas n yimaylen
 newsletters-your-content-wasnt-relevant = Agbur-inek·inem ur iyi-yeɛni ara.
 newsletters-your-email-design = Afeṣṣel n yiamyl-inek·inem yewɛer aṭas ur yelhi ara i tɣuṛi.
