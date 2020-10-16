@@ -122,10 +122,15 @@ newsletters-check-for-data-breaches = 检查是否有数据外泄事件
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } 是一项能让您检查是否受到数据外泄事件影响的免费服务。
 newsletters-sign-in-to-monitor = 登录 { -brand-name-monitor }
 newsletters-meet-our-parent-brand = 认识我们的母品牌
+newsletters-mozilla-the-non-for-profit = { -brand-name-firefox } 背后的非营利组织 { -brand-name-mozilla } 的一言一行、开发的产品，皆以人为本。
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = 关于 Standards
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = 附加组件开发
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = 开发者新闻通讯
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = 开发者指南，重点介绍 Web 平台创新、最佳实践、新文档等。
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Drumbeat 新闻组
 # Name for the newsletter in Newsletter subscription page
@@ -136,6 +141,8 @@ newsletters-dont-miss-the-latest = 不要错过有关桌面版浏览器的最新
 newsletters-get-involved = 参与进来
 # Obsolete string
 newsletters-internet-health-report = 互联网健康报告
+# Obsolete string
+newsletters-keep-up-with-our-annual = 了解我们关于隐私与安全、开放性、数字融合、去中心化、网络素养等议题的年度研究与议题汇编。
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = 知识就是力量
 # Name for the newsletter in Newsletter subscription page
@@ -209,9 +216,15 @@ newsletters-get-a-weekly-tip = 获取每周小窍门，了解如何强力提升�
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = 加入 { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = { -brand-name-mozilla } 关于创造与网上学习的最大型活动。
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
 newsletters-discover-the-latest = 发掘 { -brand-name-firefox-os } 上最新、最酷的 HTML5 应用。
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = { -brand-name-firefox-os } 新闻、提示、发布信息及购买指南。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
 # Name for the newsletter in Newsletter subscription page
