@@ -7,6 +7,8 @@
 
 # HTML page title
 opt-out-confirmation-cool-we-hear = Igerrez. Nsell-ak•am-d.
+# HTML page descripiton
+opt-out-confirmation-youre-now-opted = Aql-ak•am tura tettwakkseḍ seg umulteɣ n uzrar n yimaylen ɣef twila n umiḍan-ik•im.
 # Field of a form
 opt-out-confirmation-your-email = Tansa-inek•inem imayl:
 # Only localize "yourname". Do not touch @example.com.
