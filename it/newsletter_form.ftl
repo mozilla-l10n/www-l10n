@@ -28,3 +28,5 @@ newsletter-form-select-country = Scegli la nazione
 newsletter-form-sign-me-up = Iscrivimi
 newsletter-form-sign-up-now = Iscrivimi
 newsletter-form-thanks = Grazie.
+newsletter-form-yes = Sì
+newsletter-form-no = No

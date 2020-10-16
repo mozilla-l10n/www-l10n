@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = I contenuti non mi interessavano.
 newsletters-your-email-design = Il design delle email era troppo difficile da leggere.
 newsletters-i-didnt-sign-up = Non ho mai chiesto di ricevere queste email.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Questo indirizzo email non è presente nel nostro database. Controlla di averlo digitato correttamente o utilizzalo per <a href="{ $url }">iscriverti alle nostre newsletter</a>.
 newsletters-im-keeping-in-touch = Preferisco seguire { -brand-name-mozilla } su { -brand-name-facebook } e { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -111,6 +111,9 @@ newsletters-sign-up-read-up-make-a-difference = Iscriviti. Leggi.<br/>Fai la dif
 newsletters-get-smart-on-the-issues = Informati sulle questioni che influenzano la tua vita online.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Iscriviti alla newsletter { -brand-name-mozilla } per rimanere aggiornato sui rischi che corre Internet e sulle occasioni per collaborare con noi.
+newsletters-travel-the-internet = Naviga in Internet protetto su tutti i tuoi dispositivi.
+newsletters-download-the-app = Scarica l’app
+newsletters-sign-in-to-monitor = Accedi a { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = About Standards
 # Name for the newsletter in Newsletter subscription page
@@ -253,3 +256,5 @@ newsletters-were-building-the-technology = Costruiamo la tecnologia della futuro
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Annunci esclusivi per ottenere il massimo dalla piattaforma { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
