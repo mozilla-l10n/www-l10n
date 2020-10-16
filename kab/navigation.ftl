@@ -41,9 +41,10 @@ navigation-make-the-most-of-your = Faṛes tagnit seg termit { -brand-name-firef
 navigation-learn-how-to-customize = Issin amek ara terreḍ { -brand-name-firefox } i teddu s wudem udmawan.
 # Outdated string
 navigation-experience-augmented = Ɛreḍ tilawt yennernan akked tuhlist s { -brand-name-firefox }.
+navigation-get-together = Mlalet akk deg tilawt tuhlist s tallunt-a tanmettit deg uẓeṭṭa.
 # Outdated string
 navigation-meet-people-in-experimental = Mlal imdanen deg texxamin n usqerdec tirmitanin s tixlawt ixelḍen akked { -brand-name-firefox }.
-navigation-mozilla-mixed-reality = Tilawt tamadayt n { -brand-name-mozilla }
+navigation-mozilla-mixed-reality = Tilawt tamasayt n { -brand-name-mozilla }
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } yettawi-d tilawt tuhlist s yifukal ɣer uẓeṭṭa web yeldin.
@@ -73,6 +74,7 @@ navigation-share-large-files-safely = Bḍu ifuyla meqqren s tɣellist, s yiseɣ
 navigation-save-quality-content = Sekles igburen n tɣara sekra wanida telliḍ. Snerni aqerru-k sekra wanida telliḍ.
 navigation-sign-up = Jerred
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: D arurad. D afessas. D uslig.
+navigation-protect-your-entire-device = Mmesten akk ibenk-ik•im d yisnasen-is akk. Ffer adeg-ik•<im n tidet teqqneḍ s 5 n yibenkan. Jerred tura.
 # Outdated string
 navigation-connected-and-protected = Yeqqen daɣen yettummesten
 navigation-join = Ddu-d

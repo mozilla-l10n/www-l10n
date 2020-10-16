@@ -5,14 +5,20 @@
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
+# Page title the subscription preferences page
+newsletters-newsletter-subscriptions = Ajerred ɣer yizen n telɣut
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Aɣmis n { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Ɣer akk ayen yellan fell-as deg <span>uɣmis-nneɣ</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-to-updates-and-keep = Multeɣ i yileqman rnu ad teẓreḍ isallen imiranen n { -brand-name-mozilla }. D abrid igerrzen i wakken ad nili deg unermis.
+# Page title the subscription confirmation page
+newsletters-newsletter-confirm = Asentem n yizen n telɣut
 newsletters-thanks-for-subscribing = Tanemmirt ɣef ujerred!
 newsletters-your-newsletter-subscription = Ajerred-inek·inem ɣer uɣmis yettusentem.
+newsletters-please-be-sure-to-add-our = Ttxil ttḥeqq dakken tansa-nneɣ n tuzzna: mozilla@e.mozilla.org terna ɣer umedlis-ik•im n tansiwin akken ad d-ttawḍen yiznan-nneɣ ɣer tnaka-inek•inem n urmas.
+newsletters-the-supplied-link-has-expired = Aseɣwen amernu yemmut. Ad tenremseḍ wayeḍ deg yizen n telɣut amaynut.
 newsletters-set-your-preferences-below = Sbadu ismenyifen-inek·inem ddaw i wakken ad tḍemneḍ armas n yisallen i tebɣiḍ.
 # Form field label
 newsletters-your-email-address = Tansa-inek·inem n yimayl:
