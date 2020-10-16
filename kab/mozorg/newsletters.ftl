@@ -18,7 +18,8 @@ newsletters-newsletter-confirm = Asentem n yizen n telɣut
 newsletters-thanks-for-subscribing = Tanemmirt ɣef ujerred!
 newsletters-your-newsletter-subscription = Ajerred-inek·inem ɣer uɣmis yettusentem.
 newsletters-please-be-sure-to-add-our = Ttxil ttḥeqq dakken tansa-nneɣ n tuzzna: mozilla@e.mozilla.org terna ɣer umedlis-ik•im n tansiwin akken ad d-ttawḍen yiznan-nneɣ ɣer tnaka-inek•inem n urmas.
-newsletters-the-supplied-link-has-expired = Aseɣwen amernu yemmut. Ad tenremseḍ wayeḍ deg yizen n telɣut amaynut.
+newsletters-the-supplied-link-has-expired = Aseɣwen i d-yettunefken yemmut. Ad tenremseḍ wayeḍ deg yizen n telɣut amaynut.
+newsletters-something-is-amiss-with = Suref-aɣ, anagraw nneɣ yemmuger-d tuccḍa. Ttxil ɛreḍ tikkelt-nniḍen ticki.
 newsletters-set-your-preferences-below = Sbadu ismenyifen-inek·inem ddaw i wakken ad tḍemneḍ armas n yisallen i tebɣiḍ.
 # Form field label
 newsletters-your-email-address = Tansa-inek·inem n yimayl:
