@@ -101,6 +101,7 @@ newsletters-i-didnt-sign-up = ესენი მე არ გამომი�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = ელფოსტის მისამართი არ აღმოჩნდა ჩვენს სისტემაში. გთხოვთ, კვლავ გადაამოწმოთ მისამართი ან <a href="{ $url }">გამოიწეროთ სიახლეების ჩვენი ცნობარი.</a>
+newsletters-im-keeping-in-touch = სანაცვლოდ, კავშირზე დავრჩები { -brand-name-mozilla }-სთან { -brand-name-facebook }-სა და { -brand-name-twitter }-ზე.
 newsletters-consider-it-done = ჩათვალეთ, მზადაა
 newsletters-back-to-email-preferences = ელფოსტის პარამეტრებზე დაბრუნება
 newsletters-take-your-privacy = თან წაიყოლეთ პირდულობა
