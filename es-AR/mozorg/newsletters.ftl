@@ -21,3 +21,4 @@ newsletters-please-be-sure-to-add-our = Asegurate de agregar nuestra dirección 
 newsletters-the-supplied-link-has-expired = El enlace proporcionado ya caducó. Vas a recibir uno nuevo en el próximo boletín.
 newsletters-something-is-amiss-with = Disculpá, algo anda mal con nuestro sistema. Intentalo de nuevo más tarde.
 newsletters-youre-awesome = ¡Sos genial!
+newsletters-and-were-not-just-saying = Y no solo lo decimos porque nos confiaste tu dirección de correo electrónico.
