@@ -43,8 +43,10 @@ navigation-learn-how-to-customize = Issin amek ara terreḍ { -brand-name-firefo
 navigation-experience-augmented = Ɛreḍ tilawt yennernan akked tuhlist s { -brand-name-firefox }.
 # Outdated string
 navigation-meet-people-in-experimental = Mlal imdanen deg texxamin n usqerdec tirmitanin s tixlawt ixelḍen akked { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Tilawt tamadayt n { -brand-name-mozilla }
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } yettawi-d tilawt tuhlist s yifukal ɣer uẓeṭṭa web yeldin.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } teldi i { -brand-name-firefox } tilawt tuhlist yennernan.
 navigation-firefox-built-just-for = { -brand-name-firefox }, yettwafṣel ladɣa i yineflayen.
