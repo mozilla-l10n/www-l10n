@@ -11,9 +11,21 @@
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Mačči d tatiknikt
+contribute-tag-technical = Tatiknikt
+contribute-tag-individual = Yiwen n umdan
+contribute-tag-support = Tallalt
+contribute-task-translate-heading = Suqel agbur
+contribute-task-join-heading = Rnu ɣer temɣiwent
 
 ## Mission
 
+contribute-mission-heading = Tuɣdaṭ-nneɣ
+contribute-mission-desc = Tuɣdaṭ-nneɣ d ṭṭmana i wakken Internet ad yeqqim d taɣbalut tazayezt, yeldi yerna yettwakcam i yimdanen meṛṛa. Internet ad terr imdanen d imezwura, anida yal amdan yezmer ad ifeṣṣel i yiman-is ayen i yebɣa, ad yeqqim d aɣellsan, d ilelli.
+contribute-learn = Issin ugar ɣef { -brand-name-mozilla }
+contribute-read-manifesto = Γeṛ ameskan-nneɣ
+contribute-find-event = Af-d tadyant
+contribute-donate = Mudd tawsa
 contribute-follow-mozilla = Ḍfer { -brand-name-mozilla }
 
 ## Made by
@@ -23,6 +35,7 @@ contribute-made-by-desc = Mi ara tettekkiḍ deg { -brand-name-mozilla }, ad tu�
 
 ## Newsletter
 
+contribute-newsletter-sub-heading = Ṭṭef isallen n temɣiwent d uttekki ɣer tbewwaḍt-ik·im n urmas
 
 ## Support
 

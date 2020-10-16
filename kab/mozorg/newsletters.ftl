@@ -5,6 +5,8 @@
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
+# Page titlefor https://www-dev.allizom.org/newsletter/
+newsletters-mozilla-newsletter = Aɣmis n { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Ɣer akk ayen yellan fell-as deg <span>uɣmis-nneɣ</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
