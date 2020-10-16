@@ -83,6 +83,8 @@ firefox-desktop-download-dark-mode = Askar aberkan
 firefox-desktop-download-library-of-extensions = Tamkerḍit n yiseɣzaf
 firefox-desktop-download-adjust-search-bar = Iɣewwaṛen n uqeεed n ufeggag n unadi
 firefox-desktop-download-change-new-tab = Beddel taneruft tamynut n yiccer
+firefox-desktop-download-make-firefox-your = Err-it d ayla-k·m <strong>{ -brand-name-firefox }</strong>
+firefox-desktop-download-extensions-for-every = Isiɣzaf i wayen i tḥemmleḍ
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
 firefox-desktop-download-tweak-your-settings = Seqɛed iɣewwaren-inek·im
 firefox-desktop-download-theres-no-need = Ulac ayeen teḥwaǧeḍ i uṣeggem. Snifel asebter amaynut n yiccer, afeggag n unadi, ticraḍ n yisebtar d wugar n wayen-nniḍen i usnirem n internet akken i tessarameḍ.
@@ -132,6 +134,8 @@ firefox-desktop-download-now-mac = Tura <strong>ldi</strong> afaylu i d-tsuliḍ
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Tesεuḍ ugur? <a { $attrs }>Awi tallalt i usebded-inek·inem</a>.
 firefox-desktop-download-in-another-language = Sider deg tutlayt-nniḍen neɣ i unagraw-nniḍen n wammud
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
