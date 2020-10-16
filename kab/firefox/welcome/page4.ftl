@@ -23,6 +23,7 @@ welcome-page4-enhanced-tracking-protection = Ammesten mgal aḍfar yennernan <a 
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Ur ṭṭaǧǧa ara lǧerrat
 welcome-page4-automatically-clear-your-history = Sfeḍ s wudem awurman azray-ik akked yinagan-ik n tuqqna s uskar n tunigt tusligt.
+welcome-page4-go-faster-do-more = Ddu s zzerb. Eg ugar.
 welcome-page4-take-it-all-with-you = Awi-t meṛṛa yid-k
 welcome-page4-dont-walk-out-the-door-without = Ur teffeɣ ara si tewwurt war ma tewwiḍ ticraḍ-ik n yisebtar, iccaren-ik, tizmilin-ik, d wawalen-ik uffiren.
 welcome-page4-why-am-i-seeing-this = Acuɣer i ttwaliɣ aya?
