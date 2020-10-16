@@ -215,6 +215,8 @@ newsletters-firefox-os-smartphone-owner = 您有 { -brand-name-firefox-os } 智�
 newsletters-dont-miss-important-news = 不要错过有关您的 { -brand-name-firefox-os } 设备的重要新闻和更新。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + You
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = 每月的新闻邮件和特别公告会告诉您，如何最充分的使用您的 { -brand-name-firefox-os } 设备，包括最新的功能，以及 { -brand-name-firefox-marketplace }上最新的特色和酷炫应用。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = { -brand-name-firefox } 每周小窍门
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
@@ -262,6 +264,6 @@ newsletters-were-building-the-technology = 我们正在建构未来科技，快�
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
-newsletters-special-announcements-helping-you = 助您熟悉 { -brand-name-webmaker } 的特别公告。
+newsletters-special-announcements-helping-you = 帮助您熟悉 { -brand-name-webmaker } 的特别公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
