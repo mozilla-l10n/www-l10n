@@ -163,6 +163,8 @@ newsletters-email-updates-from-vouched = 为 mozillians.org 上有担保的谋�
 newsletters-shapre-of-the-web = Shape of the Web
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 newsletters-news-and-information = 与 Web 生态相关的新闻和信息。
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = 2008－2011 年时的原大学计划，现在作为 Firefox 学生大使计划重新推出。
 # Name for the newsletter in Newsletter subscription page
@@ -201,6 +203,8 @@ newsletters-download-firefox-for-ios = 下载 { -brand-name-ios } 版 { -brand-n
 newsletters-download-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } 小贴士
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = 充分利用您的 { -brand-name-firefox-account }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
