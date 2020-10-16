@@ -16,3 +16,17 @@ opt-out-confirmation-your-email = Adresa juaj email:
 opt-out-confirmation-yournameexamplecom = emrijuaj@example.com
 # This is a button
 opt-out-confirmation-manage-preferences = Administroni Parapëlqime
+opt-out-confirmation-prefer-to-get = Parapëlqeni ta merrni informacionin në rrugë tjetër?
+# Link to https://blog.mozilla.org/
+opt-out-confirmation-check-out-our = Shihni blogjet tanë
+# Link to https://support.mozilla.org/
+opt-out-confirmation-get-help = Merrni ndihmë
+opt-out-confirmation-subscribe-to = Pajtohuni te përditësime aty-këtu në formë buletini prej { -brand-name-firefox }
+# Link to https://www.instagram.com/mozilla/
+opt-out-confirmation-instagram = { -brand-name-instagram }
+# Link to https://www.youtube.com/firefoxchannel
+opt-out-confirmation-youtube = { -brand-name-youtube }
+# Link to https://www.facebook.com/Firefox
+opt-out-confirmation-facebook = { -brand-name-facebook }
+# Link to https://twitter.com/firefox
+opt-out-confirmation-twitter = { -brand-name-twitter }

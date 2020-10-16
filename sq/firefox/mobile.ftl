@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Privatësi që meritoni. Shpejtësi
 firefox-mobile-get-firefox-for-mobile = Merrni { -brand-name-firefox }-in për celular
 firefox-mobile-send-a-download-link-to-your = Dërgoni te telefoni juaj një lidhje për shkarkim.
 firefox-mobile-scan-the-qr-code-to-get-started = Që t’ia filloni, skanoni kodin QR
+firefox-mobile-scan-alt-text = Skanoni kodin QR që të merrni { -brand-name-firefox }-in në celular

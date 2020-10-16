@@ -66,4 +66,7 @@ firefox-new-please-follow = Që të instaloni { -brand-name-firefox }, ju lutemi
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Nëse shihni një njoftim që thotë se aplikacioni që po provoni të instaloni s’është aplikacion i verifikuar nga { -brand-name-microsoft }, klikoni mbi “Instaloje, sido qoftë” ose <a { $attrs }>ndryshoni rregullime mbi rekomandim aplikacionesh</a>.
 firefox-new-visit-support-for-more = Për Më Tepër Hollësi, Vizitoni Asistencën

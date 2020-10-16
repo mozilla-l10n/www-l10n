@@ -10,6 +10,7 @@ compare-shared-yes = Po
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Jo
 compare-shared-private-browsing-mode = Mënyra Shfletim Privat
+compare-shared-blocks-third-party-tracking-default = Bllokon, si parazgjedhje, cookie-t nga palë gjurmuese të treta
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Bllokon cookie-t nga palë gjurmuese të treta
 compare-shared-blocks-cryptomining-scripts = Bllokon programthe nxjerrjeje kriptomonedhash
@@ -41,6 +42,7 @@ compare-shared-utility-strong = <strong>Veçori</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Bartje:</strong>
 compare-shared-overall-assessment = Vlerësim i Përgjithshëm
+compare-shared-the-comparisons-made-here-updated = Krahasimet e bëra këtu u kryen përmes rregullimeve parazgjedhje dhe versioneve të shfletuesve si vijon:
 # Obsolete string
 compare-shared-the-comparisons-made-here = Krahasimet e bëra këtu u kryen përmes versioneve të shfletuesve si vijon:
 compare-shared-this-page-updated-semi-quarterly = Kjo faqe përditësohet çdo dymujor, për të pasqyruar versionet më të reja dhe mund të mos pasqyrojë përherë përditësimet më të reja.
