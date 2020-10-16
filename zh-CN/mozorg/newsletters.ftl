@@ -41,6 +41,16 @@ newsletters-language = 语言：
 newsletters-not-all-subscriptions-are = 并非所有订阅都提供所列的语言版本。大部分只提供英语、德语、法语版本。
 # Form field label
 newsletters-format = 格式：
+newsletters-text-subscribers-will-receive = 文本内容订阅者每年将收到两封电子邮件，以确认是否要继续订阅。这些电子邮件中可能包含 HTML。
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+newsletters-many-of-our-communications = 我们的许多通讯内容都与您注册过的账号有关，诸如 { -brand-name-firefox-accounts }、{ -brand-name-mdn-web-docs } 或附加组件开发者中心。若要管理这些账号，或想要了解您注册过哪些账号，请到<a href="{ $url }">账号管理页面</a>确认。
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/accounts/
+newsletters-to-get-access-to-the-whole = 快来加入我们，一个账户便可使用完整的 { -brand-name-firefox } 系列产品与服务，并能学到更多知识！<a href="{ $url }">在此</a>详细了解。
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = 有许多方式能与 { -brand-name-mozilla } 及 { -brand-name-firefox } 互动。若您在此处未找到所需内容，也可到<a href="{ $url }">社区页面</a>看一看。
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } 不是有效的新闻通讯
@@ -67,13 +77,20 @@ newsletters-get-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版！
 newsletters-make-firefox-do-more-with = 通过附加组件让 { -brand-name-firefox } 做更多事。
 newsletters-find-out-how = 看看怎样做到！
 newsletters-about-us = 关于我们
+newsletters-whats-mozilla-all-about = { -brand-name-mozilla } 都在干什么？
 newsletters-were-glad-you-asked = 很高兴您问这个问题!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = 热爱 Web 吗？我们也是！
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = 通过 { -brand-name-mozilla } 开发者新闻通讯探索 Web 开发的世界。每周的通讯中都会带给您编程技巧、最佳实践、{ -brand-name-mdn } 最新消息、新兴技术、开发者工具使用窍门等丰富内容。
+# Obsolete string
+newsletters-join-thousands-of-developers = 与成千上万像您一样，想要学习 Web 开发最精华部分的开发者。
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = 在收件箱中放入更多的狐狸。
 newsletters-we-are-sorry-but-there = 很抱歉，我们的系统出现了问题，请稍后再试！
 newsletters-thanks-for-updating-your = 感谢您更新邮箱首选项。
+newsletters-the-supplied-link-has-expired-long = 提供的链接已过期。您会在下一封新闻通讯中收到新的链接，也可在下方直接要求提供带有链接的电子邮件。
+newsletters-success-an-email-has-been-sent = 成功！已将首选项中心的链接发送给您，感谢！
 newsletters-this-is-not-a-valid-email = 这不是有效的电子邮件地址，请检查拼写是否有误。
 newsletters-you-send-too-many-emails = 你们发的邮件太多了。
 newsletters-your-content-wasnt-relevant = 邮件内容与我无关。
@@ -87,6 +104,8 @@ newsletters-im-keeping-in-touch = 我要改用 { -brand-name-facebook } 或 { -b
 newsletters-sign-up-read-up-stay-informed = 订阅、研读。<br>获取最新消息。
 # Obsolete string
 newsletters-sign-up-read-up-make-a-difference = 订阅、研读。<br>有所感悟。
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = 了解有哪些议题会影响您的网络生活。
 newsletters-your-email-preferences = 已成功更新您的邮件首选项。
 newsletters-consider-it-done = 交给我们，马上就好
 newsletters-back-to-email-preferences = 返回邮件首选项
@@ -140,6 +159,12 @@ newsletters-download-firefox-for-ios = 下载 { -brand-name-ios } 版 { -brand-n
 newsletters-download-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } 小贴士
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = 抢先获知 { -brand-name-ios } 版 { -brand-name-firefox } 何时推出。
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = 您有 { -brand-name-firefox-os } 智能手机吗？
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 newsletters-dont-miss-important-news = 不要错过有关您的 { -brand-name-firefox-os } 设备的重要新闻和更新。
 # Name for the newsletter in Newsletter subscription page
