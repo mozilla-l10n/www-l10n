@@ -18,6 +18,7 @@ opt-out-confirmation-prefer-to-get = Tebɣiḍ ad tawiḍ talɣut akken-nniḍen
 opt-out-confirmation-check-out-our = Wali deg yiblugen-nneɣ
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Awi tallelt
+opt-out-confirmation-subscribe-to = Jerred ɣer yileqman n yiznan n telɣut n sya ɣer da seg { -brand-name-firefox }
 # Link to https://www.instagram.com/mozilla/
 opt-out-confirmation-instagram = { -brand-name-instagram }
 # Link to https://www.youtube.com/firefoxchannel
