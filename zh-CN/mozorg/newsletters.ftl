@@ -137,8 +137,14 @@ newsletters-desktop = 桌面版
 newsletters-mozillians = 谋智人
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = 为 mozillians.org 上有担保的谋智人提供的新闻通讯。
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = 与 Web 生态相关的新闻和信息。
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = 2008－2011 年时的原大学计划，现在作为 Firefox 学生大使计划重新推出。
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = 为互联网采取行动
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = 在我们为互联网的未来而战的请愿、活动、倡议中，加入您的声音。
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = 测试新产品
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
@@ -193,10 +199,22 @@ newsletters-get-a-weekly-tip = 获取每周小窍门，了解如何强力提升�
 newsletters-join-mozilla = 加入 { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = 发掘 { -brand-name-firefox-os } 上最新、最酷的 HTML5 应用。
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = { -brand-name-firefox } 新闻
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = { -brand-name-mozilla } 新闻
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
 newsletters-special-accouncements-and-messages = 致力保持 Web 自由与开放的团队发布的特别公告和消息。
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = 来自我们全球社区的最新动态，帮助人们了解这个时代最重要的能力：阅读、写作以及参与数字世界的能力。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)

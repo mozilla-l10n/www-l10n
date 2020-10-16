@@ -7,6 +7,8 @@
 
 # HTML page title
 opt-out-confirmation-cool-we-hear = 哇咔咔，懂了。
+# HTML page descripiton
+opt-out-confirmation-youre-now-opted = 将停止向您发送账户设置相关邮件。
 # Field of a form
 opt-out-confirmation-your-email = 您的电子邮件地址：
 # Only localize "yourname". Do not touch @example.com.
