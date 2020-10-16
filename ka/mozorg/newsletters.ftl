@@ -121,10 +121,17 @@ newsletters-check-for-data-breaches = თვალი ადევნეთ მ�
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } უფასო მომსახურებაა, რომლითაც გაარკვევთ, თქვენც ხომ არ შეგეხოთ მონაცემების მიტაცება.
 newsletters-sign-in-to-monitor = შედით { -brand-name-monitor }-ანგარიშზე
 newsletters-meet-our-parent-brand = გაიცანით ჩვენი მშობელი დაწესებულება
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, არამომგებიანი დაწესებულება { -brand-name-firefox }-ის უზრუნველმყოფი, რომელიც მოგებაზე წინ ხალხს აყენებს თითოეული სიტყვით, საქმით და მოქმედებით.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = სტანდარტების შესახებ
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = დამატების შემუშავება
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = შემმუშავებლის სიახლეები
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = შემმუშავებლის სახელმძღვანელო, ვებსივრცეში დანერგილი სიახლეების, გამოცდილი ხერხების, ახალი მასალების უკეთ წარმოსაჩენად.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Drumbeat-არხი სიახლეებზე
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } კომპიუტერისთვის
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
