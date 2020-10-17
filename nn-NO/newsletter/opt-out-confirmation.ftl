@@ -11,6 +11,8 @@ opt-out-confirmation-your-email = E-postadressa di:
 opt-out-confirmation-yournameexamplecom = namnetditt@eksempel.no
 # This is a button
 opt-out-confirmation-manage-preferences = Handter innstillingar
+# Link to https://blog.mozilla.org/
+opt-out-confirmation-check-out-our = Sjekk ut bloggane våre
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Få hjelp
 # Link to https://www.instagram.com/mozilla/

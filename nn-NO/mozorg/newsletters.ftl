@@ -53,4 +53,14 @@ newsletters-firefox-for-android = { -brand-name-firefox } for { -brand-name-andr
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = { -brand-name-firefox }-nyheiter
 # Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = { -brand-name-mozilla }-nyheiter
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
