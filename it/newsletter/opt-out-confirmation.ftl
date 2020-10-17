@@ -17,6 +17,7 @@ opt-out-confirmation-manage-preferences = Gestisci preferenze
 opt-out-confirmation-check-out-our = Dai un’occhiata ai nostri blog
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Richiedi supporto
+opt-out-confirmation-subscribe-to = Iscriviti agli aggiornamenti occasionali della newsletter di { -brand-name-firefox }
 # Link to https://www.instagram.com/mozilla/
 opt-out-confirmation-instagram = { -brand-name-instagram }
 # Link to https://www.youtube.com/firefoxchannel
