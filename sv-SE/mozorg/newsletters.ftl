@@ -115,7 +115,13 @@ newsletters-your-email-preferences = Dina e-postinställningar har uppdaterats.
 newsletters-consider-it-done = Betrakta det som färdigt
 newsletters-back-to-email-preferences = Tillbaka till e-postinställningar
 newsletters-here-are-a-few-things = Här är några saker du kan gräva i medan du väntar på din nästa e-post.
+newsletters-take-your-privacy = Ta din integritet med dig
+newsletters-travel-the-internet = Surfa på internet med skydd på alla dina enheter.
+newsletters-download-the-app = Ladda ner appen
+newsletters-check-for-data-breaches = Sök efter dataintrång
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } är en gratis tjänst som låter dig se om du har varit inblandad i ett dataintrång online.
 newsletters-sign-in-to-monitor = Logga in på { -brand-name-monitor }
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla } ideellt bakom { -brand-name-firefox }, sätter människor före vinst i allt vi säger, bygger och gör.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Om standarder
 # Name for the newsletter in Newsletter subscription page
