@@ -111,6 +111,7 @@ newsletters-sign-up-read-up-make-a-difference = Iscriviti. Leggi.<br/>Fai la dif
 newsletters-get-smart-on-the-issues = Informati sulle questioni che influenzano la tua vita online.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Iscriviti alla newsletter { -brand-name-mozilla } per rimanere aggiornato sui rischi che corre Internet e sulle occasioni per collaborare con noi.
+newsletters-your-email-preferences = Le tue preferenze per le email sono state aggiornate correttamente.
 newsletters-consider-it-done = Consideralo fatto
 newsletters-back-to-email-preferences = Torna alle preferenze per le email
 newsletters-take-your-privacy = La tua privacy, sempre con te
