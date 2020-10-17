@@ -103,6 +103,8 @@ newsletters-i-didnt-sign-up = Jag registrerade mig aldrig för det här.
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Den här e-postadressen finns inte i vårt system. Dubbelkolla din adress eller <a href="{ $url }">prenumerera på våra nyhetsbrev.</a>
 newsletters-im-keeping-in-touch = Jag håller istället kontakt med { -brand-name-mozilla } på { -brand-name-facebook } och { -brand-name-twitter }.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Registrera dig, läs och<br> håll dig informerad.
 newsletters-sign-in-to-monitor = Logga in på { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Om standarder
