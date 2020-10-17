@@ -244,13 +244,13 @@ newsletters-keep-up-with-releases = Dotrzymuj kroku wydaniom i wiadomościom ze
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Aktualności { -brand-name-firefox(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
-newsletters-get-how-tos = Instrukcje, porady i aktualności, jak najlepiej wykorzystać Firefoksa.
+newsletters-get-how-tos = Instrukcje, porady i aktualności, jak najlepiej wykorzystać { -brand-name-firefox(case: "acc") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla = Okresowe powiadomienia o corocznych wydarzeniach { -brand-name-mozilla } Festival dedykowanym pełnemu wykorzystaniu potencjału sieci.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-news = Aktualności Mozilli
+newsletters-mozilla-news = Aktualności { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep = Regularne informacje i możliwości pomocy w naszej walce o lepszy Internet.
 # Name for the newsletter in Newsletter subscription page
@@ -269,3 +269,5 @@ newsletters-were-building-the-technology = Tworzymy technologię przyszłości. 
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Informacje pomagające w pełni korzystać z programu { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
