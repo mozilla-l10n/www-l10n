@@ -90,6 +90,19 @@ newsletters-join-thousands-of-developers = Gå med tusentals utvecklare som du, 
 newsletters-put-more-fox-in-your-inbox = Mer räv till din inkorg.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Se vart webben kan ta dig med månatliga { -brand-name-firefox }-tips, tricks och Internetinformation.
+newsletters-we-are-sorry-but-there = Vi är ledsna, men det uppstod ett problem med vårt system. Vänligen försök igen senare!
+newsletters-thanks-for-updating-your = Tack för att du uppdaterade dina e-postinställningar.
+newsletters-the-supplied-link-has-expired-long = Den medföljande länken har upphört eller är inte giltig. Du kommer att få en ny i nästa nyhetsbrev, eller nedan kan du begära ett mejl med länken.
+newsletters-success-an-email-has-been-sent = Ett e-postmeddelande har skickats till dig med din länk till inställningar. Tack!
+newsletters-this-is-not-a-valid-email = Detta är inte en giltig e-postadress. Kontrollera stavningen.
+newsletters-you-send-too-many-emails = Ni skickar för många e-postmeddelanden.
+newsletters-your-content-wasnt-relevant = Ert innehåll var inte relevant för mig.
+newsletters-your-email-design = Meddelandeutformningen gjorde e-posten för svåra att läsa.
+newsletters-i-didnt-sign-up = Jag registrerade mig aldrig för det här.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Den här e-postadressen finns inte i vårt system. Dubbelkolla din adress eller <a href="{ $url }">prenumerera på våra nyhetsbrev.</a>
+newsletters-im-keeping-in-touch = Jag håller istället kontakt med { -brand-name-mozilla } på { -brand-name-facebook } och { -brand-name-twitter }.
 newsletters-sign-in-to-monitor = Logga in på { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Om standarder
