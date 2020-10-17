@@ -145,6 +145,8 @@ newsletters-insights = სიღრმისეული განხილვ�
 newsletters-internet-health-report = ინტერნეტის სიჯანსაღის მოხსენება
 # Description for the newsletter in Newsletter subscription page (Insights))
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } აქვეყნებს სტატიებს, სადაც დაწვრილებით მიმოიხილება ჯანსაღი ინტერნეტისა და ხელოვნური ინტელექტის სანდოობის საკითხები, აგრეთვე მოიცავს, ჩვენს ყოველწლიურ მოხსენებას ინტერნეტის სიჯანსაღის შესახებ.
+# Obsolete string
+newsletters-keep-up-with-our-annual = თვალი ადევნეთ ჩვენს ყოველწლიურ შეჯამებას, კვლევებისა და სიახლეების, რომლებიც უკავშირდება პირადულობისა და უსაფრთხოების დაცვას, ციფრულ რესურსებზე ხელმისაწვდომობას, ერთპიროვნული გავლენის არიდებასა და ვებწიგნიერებას.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = ცოდნა ძალაა
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
@@ -155,6 +157,10 @@ newsletters-about-labs = Labs შესახებ
 newsletters-desktop = კომპიუტერი
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = მოზილელები
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = განახლებები ელფოსტით mozillians.org-ზე, თავდადებული მოზილელებისთვის.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = ახალი პროდუქტის გამოცდა
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } ერთობა
 # Name for the newsletter in Newsletter subscription page
