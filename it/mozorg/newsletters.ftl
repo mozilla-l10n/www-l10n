@@ -43,9 +43,6 @@ newsletters-not-all-subscriptions-are = Non tutte le comunicazioni sono disponib
 newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Gli iscritti che hanno optato per ricevere messaggi in testo semplice riceveranno una email due volte l’anno per confermare la continuazione dell’abbonamento. Tali email possono anche contenere codice HTML.
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Molte delle nostre comunicazioni sono correlate a un account per il quale ti sei registrato, come l’account Firefox, di { -brand-name-mdn-web-docs } o quello per sviluppatori di componenti aggiuntivi. Per gestire uno dei tuoi account o vedere la lista completa visita la nostra <a href="{ $url }">pagina di supporto gestione degli account</a>.
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Per accedere a tutto il mondo di prodotti, conoscenze e servizi { -brand-name-firefox } con un solo account, unisciti a noi! Scopri di più sui vantaggi <a href="{ $url }">qui</a>.
 # Variables:
@@ -111,9 +108,12 @@ newsletters-sign-up-read-up-make-a-difference = Iscriviti. Leggi.<br/>Fai la dif
 newsletters-get-smart-on-the-issues = Informati sulle questioni che influenzano la tua vita online.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Iscriviti alla newsletter { -brand-name-mozilla } per rimanere aggiornato sui rischi che corre Internet e sulle occasioni per collaborare con noi.
+newsletters-consider-it-done = Consideralo fatto
+newsletters-back-to-email-preferences = Torna alle preferenze per le email
 newsletters-travel-the-internet = Naviga in Internet protetto su tutti i tuoi dispositivi.
 newsletters-download-the-app = Scarica l’app
 newsletters-sign-in-to-monitor = Accedi a { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Scopri il nostro marchio principale
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = About Standards
 # Name for the newsletter in Newsletter subscription page
