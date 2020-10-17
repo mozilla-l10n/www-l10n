@@ -143,6 +143,8 @@ newsletters-get-involved = Pomóż nam
 newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Raport o zdrowiu Internetu
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publikuje artykuły i analizy problemów związanych ze zdrowiem Internetu i zaufaniem do sztucznej inteligencji, w tym nasz coroczny Raport o zdrowiu Internetu.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Bądź na bieżąco z naszym corocznym zbiorem badań i historii na temat prywatności i bezpieczeństwa, otwartości, e-integracji, decentralizacji i edukacji internetowej.
 # Name for the newsletter in Newsletter subscription page
@@ -172,11 +174,11 @@ newsletters-add-your-voice = Dodaj swój głos do petycji, wydarzeń i inicjaty
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Testowanie nowych produktów
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better = Pomóż nam ulepszać Firefoksa dla Ciebie, testując nasze najnowsze produkty i funkcje.
+newsletters-help-us-make-a-better = Pomóż nam ulepszać { -brand-name-firefox(case: "acc") } dla Ciebie, testując nasze najnowsze produkty i funkcje.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-community = Społeczność Mozilli
+newsletters-mozilla-community = Społeczność { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
-newsletters-join-mozillians-all-around = Dołącz do Mozillian na całym świecie i poznaj możliwości wsparcia misji Mozilli.
+newsletters-join-mozillians-all-around = Dołącz do Mozillian na całym świecie i poznaj możliwości wsparcia misji { -brand-name-mozilla(case: "gen") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
@@ -184,25 +186,25 @@ newsletters-a-monthly-newsletter-affiliates = Comiesięczny biuletyn, pozwalają
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-newsletters-a-monthly-newsletter-ambassadors = Comiesięczny biuletyn o tym, jak zaangażować się w pomoc i współpracę z Mozillą na Twoim kampusie.
+newsletters-a-monthly-newsletter-ambassadors = Comiesięczny biuletyn o tym, jak zaangażować się w pomoc i współpracę z { -brand-name-mozilla(case: "ins") } na Twoim kampusie.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
-newsletters-beta-news = Nowości nt. bety
+newsletters-beta-news = Nowości nt. wydania { -brand-name-beta }
 # Description for the newsletter in Newsletter subscription page (Beta News)
-newsletters-read-about-the-latest-features = Czytaj o najnowszych możliwościach Firefoksa na komputery i urządzenia przenośne przed ich finalnym wydaniem.
+newsletters-read-about-the-latest-features = Czytaj o najnowszych możliwościach { -brand-name-firefox(case: "gen") } na komputery i telefon przed ich finalnym wydaniem.
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-android = Pobierz Firefoksa na { -brand-name-android }a
+newsletters-download-firefox-for-android = Pobierz { -brand-name-firefox(case: "acc") } na { -brand-name-android(case: "acc") }
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-firefox-for-android = Pobierz Firefoksa na { -brand-name-android }a
+newsletters-get-firefox-for-android = Pobierz { -brand-name-firefox(case: "acc") } na { -brand-name-android(case: "acc") }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-ios = Pobierz Firefoksa na { -brand-name-ios }
+newsletters-download-firefox-for-ios = Pobierz { -brand-name-firefox(case: "acc") } na { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-mobile = Pobierz Firefoksa na telefon
+newsletters-download-firefox-for-mobile = Pobierz { -brand-name-firefox(case: "acc") } na telefon
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Cotygodniowe porady — konto Firefoksa
+newsletters-firefox-accounts-tips = Cotygodniowe porady — { -brand-name-firefox-accounts(case: "nom", capitalization: "lower") }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = W pełni wykorzystuj potencjał konta Firefoksa.
+newsletters-get-the-most-firefox-account = W pełni wykorzystuj potencjał { -brand-name-firefox-account(case: "gen", capitalization: "lower") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
@@ -210,37 +212,37 @@ newsletters-periodic-email-updates = Okresowe powiadomienia e-mail o naszym dor
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } na { -brand-name-ios }
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
-newsletters-be-the-first-to-know = Najświeższe informacje o dostępności Firefoksa dla urządzeń z systemem { -brand-name-ios }.
+newsletters-be-the-first-to-know = Najświeższe informacje o dostępności { -brand-name-firefox(case: "gen") } dla urządzeń z systemem { -brand-name-ios }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-os-smartphone-owner = Masz telefon z Firefox OS?
+newsletters-firefox-os-smartphone-owner = Masz telefon z { -brand-name-firefox-os }?
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-newsletters-dont-miss-important-news = Nie przegap istotnych wiadomości i aktualizacji dotyczących Twojego urządzenia z Firefox OS.
+newsletters-dont-miss-important-news = Nie przegap istotnych wiadomości i aktualizacji dotyczących Twojego urządzenia z { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } i Ty
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-newsletters-a-monthly-newsletter-and-special = Comiesięczny biuletyn i porady o tym, w jaki sposób w pełni wykorzystywać potencjał urządzenia z Firefox OS, a także informacje o nowych funkcjach i najciekawszych aplikacjach z { -brand-name-firefox-marketplace }.
+newsletters-a-monthly-newsletter-and-special = Comiesięczny biuletyn i porady o tym, w jaki sposób w pełni wykorzystywać potencjał urządzenia z { -brand-name-firefox-os }, a także informacje o nowych funkcjach i najciekawszych aplikacjach z { -brand-name-firefox-marketplace }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Cotygodniowe porady — { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
-newsletters-get-a-weekly-tip = Otrzymuj cotygodniową wskazówkę, jak lepiej wykorzystywać Firefoksa.
+newsletters-get-a-weekly-tip = Otrzymuj cotygodniową wskazówkę, jak lepiej wykorzystywać { -brand-name-firefox(case: "acc") }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-join-mozilla = Dołącz do Mozilli
+newsletters-join-mozilla = Dołącz do { -brand-name-mozilla(case: "gen") }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
 # Description for the newsletter in Newsletter subscription page (Maker Party)
-newsletters-mozillas-largest-celebration = Największe wydarzenie Mozilli dedykowane tworzeniu i nauce w sieci.
+newsletters-mozillas-largest-celebration = Największe wydarzenie { -brand-name-mozilla(case: "gen") } dedykowane tworzeniu i nauce w sieci.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-os = Firefox OS
+newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
 newsletters-discover-the-latest = Odkryj najnowsze i najlepsze aplikacje HTML5 dla { -brand-name-firefox-os }.
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
-newsletters-firefox-os-news = Aktualności dotyczące Firefox OS, porady, informacje o premierze i miejscach, gdzie można zakupić.
+newsletters-firefox-os-news = Aktualności dotyczące { -brand-name-firefox-os }, porady, informacje o premierze i miejscach, gdzie można zakupić.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-for-android = { -brand-name-firefox } na { -brand-name-android }a
+newsletters-firefox-for-android = { -brand-name-firefox } na { -brand-name-android(case: "acc") }
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
-newsletters-keep-up-with-releases = Dotrzymuj kroku wydaniom i wiadomościom ze świata Firefoksa na { -brand-name-android }a.
+newsletters-keep-up-with-releases = Dotrzymuj kroku wydaniom i wiadomościom ze świata { -brand-name-firefox(case: "gen") } na { -brand-name-android(case: "acc") }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-news = Aktualności Firefoksa
+newsletters-firefox-news = Aktualności { -brand-name-firefox(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
 newsletters-get-how-tos = Instrukcje, porady i aktualności, jak najlepiej wykorzystać Firefoksa.
 # Name for the newsletter in Newsletter subscription page
