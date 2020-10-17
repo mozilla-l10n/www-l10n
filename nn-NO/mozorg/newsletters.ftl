@@ -29,4 +29,28 @@ newsletters-about-labs = Om Labs
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = { -brand-name-beta }-nyheiter
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Last ned { -brand-name-firefox } for { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Last ned { -brand-name-firefox } for { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Last ned { -brand-name-firefox } for { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Last ned { -brand-name-firefox } for mobil
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Har du ein telefon med { -brand-name-firefox-os }?
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + deg
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = { -brand-name-firefox }-nyheiter
+# Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
