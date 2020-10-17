@@ -10,7 +10,7 @@ newsletters-newsletter-subscriptions = Nyhetsbrevsprenumerationer
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = { -brand-name-mozilla } Nyhetsbrev
 # Headline for https://www-dev.allizom.org/newsletter/
-newsletters-read-all-about-it-in-our-newsletter = Läs om allt i vårt <span>nyhetsbrev</span>
+newsletters-read-all-about-it-in-our-newsletter = Läs mer i vårt <span>nyhetsbrev</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-to-updates-and-keep = Prenumerera på uppdateringar och håll dig uppdaterad med nyheter från { -brand-name-mozilla }. Det är det perfekta sättet för oss att hålla kontakten!
 # Page title the subscription confirmation page
