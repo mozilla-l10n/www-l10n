@@ -79,3 +79,12 @@ newsletters-make-firefox-do-more-with = { -brand-name-firefox } hace mucho más 
 newsletters-find-out-how = ¡Descubrí cómo!
 newsletters-about-us = Sobre nosotros
 newsletters-whats-mozilla-all-about = ¿De qué se trata { -brand-name-mozilla }?
+newsletters-were-glad-you-asked = ¡Nos alegra que lo hayas preguntado!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = ¿Te encanta la web? ¡A nosotros también!
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = Descubra el mundo del desarrollo web con nuestro boletín semanal para desarrolladores { -brand-name-mozilla }. Cada edición le ofrece técnicas de codificación y mejores prácticas, actualizaciones de { -brand-name-mdn }, información sobre tecnologías emergentes, sugerencias sobre herramientas para desarrolladores y más.
+# Obsolete string
+newsletters-join-thousands-of-developers = Unite a miles de desarrolladores como usted que están aprendiendo lo mejor del desarrollo web.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Dejá que Firefox se meta en tu buzón.
