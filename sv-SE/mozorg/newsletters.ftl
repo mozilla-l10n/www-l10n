@@ -121,6 +121,7 @@ newsletters-download-the-app = Ladda ner appen
 newsletters-check-for-data-breaches = Sök efter dataintrång
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } är en gratis tjänst som låter dig se om du har varit inblandad i ett dataintrång online.
 newsletters-sign-in-to-monitor = Logga in på { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Möt vårt modermärke
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla } ideellt bakom { -brand-name-firefox }, sätter människor före vinst i allt vi säger, bygger och gör.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Om standarder
@@ -128,14 +129,52 @@ newsletters-about-standards = Om standarder
 newsletters-addon-development = Tilläggsutveckling
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Nyhetsbrev för utvecklare
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = En utvecklarhandbok för höjdpunkter på innovationer för webbplattformar, bästa praxis, ny dokumentation och mer.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Drumbeat-nyhetsgrupp
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } för datorer
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Missa inte de senaste tillkännagivandena om vår webbläsare för datorer.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Engagera dig
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Insikter
+# Obsolete string
+newsletters-internet-health-report = Hälsorapport för Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publicerar artiklar och djupdyker i frågor kring internethälsa och pålitlig AI, inklusive vår årliga hälsorapport för internet.
+# Obsolete string
+newsletters-keep-up-with-our-annual = Håll dig uppdaterad med vår årliga sammanställning om forskning och nyheter om frågor om integritet &amp; säkerhet, öppenhet, digital inkludering, decentralisering och webbkompetens.
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Kunskap är makt
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Få all den kunskap du behöver för att vara säkrare och smartare online.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Om Labs
 # Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Dator
+# Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillianer
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = E-postuppdateringar för verifierade mozillianer på mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Internetstatus
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Nyheter och information relaterad till nätets hälsa.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Studentrepresentanter
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Tidigare universitetsprogram 2008-2011, nu pensionerat och omstartat som programmet Firefox Student Ambassadors.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Vidta åtgärder för Internet
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Lägg till din röst i framställningar, evenemang och initiativ som kämpar för nätets framtid.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Ny produktprovning
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Hjälp oss att skapa ett bättre { -brand-name-firefox } för dig genom att testköra våra senaste produkter och funktioner.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
