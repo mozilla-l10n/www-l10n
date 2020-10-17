@@ -105,6 +105,16 @@ newsletters-this-email-address-is-not = Den här e-postadressen finns inte i vå
 newsletters-im-keeping-in-touch = Jag håller istället kontakt med { -brand-name-mozilla } på { -brand-name-facebook } och { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Registrera dig, läs och<br> håll dig informerad.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Registrera dig. Läs.<br> Gör skillnad.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Bli smart på de frågor som påverkar ditt liv online.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Få { -brand-name-mozilla }:s nyhetsbrevet för att hålla dig informerad om frågor som utmanar hälsan på Internet och för att upptäcka hur du kan engagera dig.
+newsletters-your-email-preferences = Dina e-postinställningar har uppdaterats.
+newsletters-consider-it-done = Betrakta det som färdigt
+newsletters-back-to-email-preferences = Tillbaka till e-postinställningar
+newsletters-here-are-a-few-things = Här är några saker du kan gräva i medan du väntar på din nästa e-post.
 newsletters-sign-in-to-monitor = Logga in på { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Om standarder
