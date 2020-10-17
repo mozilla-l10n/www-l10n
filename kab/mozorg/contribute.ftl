@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-how-heading = Amek i tzemreḍ ad tettekkiḍ…
 
 ## Contribution tasks
 
@@ -35,6 +36,7 @@ contribute-made-by-desc = Mi ara tettekkiḍ deg { -brand-name-mozilla }, ad tu�
 
 ## Newsletter
 
+contribute-newsletter-heading = Urɛaḍ tettḥeqqeḍ?
 contribute-newsletter-sub-heading = Ṭṭef isallen n temɣiwent d uttekki ɣer tbewwaḍt-ik·im n urmas
 
 ## Support

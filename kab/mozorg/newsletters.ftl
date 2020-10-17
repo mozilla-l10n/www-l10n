@@ -24,7 +24,9 @@ newsletters-youre-awesome = Igerrez!
 newsletters-and-were-not-just-saying = Yerna ur d-neqqar ara aya imi kan tgiḍ deg-neɣ taflest mi i aɣ-d-tuzneḍ tansa-k•m imayl.
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Ttxil ttḥeqq dakken mozilla@e.mozilla.org terna ɣer umedlis-ik•im n tansiwin akken ad d-ttawḍen yiznan-nneɣ ɣer tnaka-inek•inem n urmas.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } yettawi-d ɣef waṭas n yisental ixataren yemgaraden.
+newsletters-open-your-inbox-and-your = Ldi tanaka-inek•inem n urmas (d wul-ik•im) ugar  — wali isental-nniḍen iɣef d-nettawi.
 newsletters-manage-your-email-preferences = Sefrek ismenyafen-ik•im n yimayl
+newsletters-this-page-is-in-maintenance = Asebter-a a-t-an deg uskar n useggem, ur yettili ara i kra n wakud.
 newsletters-set-your-preferences-below = Sbadu ismenyifen-inek·inem ddaw i wakken ad tḍemneḍ armas n yisallen i tebɣiḍ.
 # Form field label
 newsletters-your-email-address = Tansa-inek·inem n yimayl:
