@@ -21,6 +21,15 @@ newsletters-please-be-sure-to-add-our = Kom ihåg att lägga till vår avsändar
 newsletters-the-supplied-link-has-expired = Den medföljande länken har upphört att gälla. Du kommer att få en ny i nästa nyhetsbrev.
 newsletters-something-is-amiss-with = Något är fel på vårt system, förlåt! Vänligen försök igen senare.
 newsletters-youre-awesome = Du är grym!
+newsletters-and-were-not-just-saying = Och det säger vi inte bara för att du har anförtrott oss med din e-postadress.
+newsletters-please-be-sure-to-add-mozillaemozillaorg = Var noga med att lägga till mozilla@e.mozilla.org i din adressbok så att vi alltid når din inkorg.
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } berör en mängd viktiga frågor.
+newsletters-open-your-inbox-and-your = Öppna din inkorg (och ditt hjärta) ännu mer — ta en titt på andra ämnen vi berör.
+newsletters-manage-your-email-preferences = Hantera dina e-postinställningar
+newsletters-this-page-is-in-maintenance = Denna sida är i underhållsläge och är tillfälligt otillgänglig.
+newsletters-to-update-your-email-preferences = För att uppdatera dina e-postinställningar, kom tillbaka om en liten stund. Tack!
+newsletters-we-love-sharing-updates = Vi älskar att dela uppdateringar om alla fantastiska saker som händer på { -brand-name-mozilla }.
+newsletters-set-your-preferences-below = Ange dina inställningar för att säkerställa att du alltid får de nyheter du vill ha.
 # Form field label
 newsletters-your-email-address = Din e-postadress:
 # Form field label
@@ -29,12 +38,24 @@ newsletters-country-or-region = Land eller region:
 newsletters-country = Land:
 # Form field label
 newsletters-language = Språk:
+newsletters-not-all-subscriptions-are = Inte alla prenumerationer stöds på alla listade språk. Nästan alla erbjuds på engelska, tyska och franska.
 # Form field label
 newsletters-format = Format:
+newsletters-text-subscribers-will-receive = Textprenumeranter får ett e-postmeddelande två gånger om året för att bekräfta att prenumerationen fortsätter. Dessa e-postmeddelanden kan innehålla HTML.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+newsletters-many-of-our-communications = Många av våra meddelanden är relaterade till ett konto du har registrerat dig för, till exempel { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } eller tilläggsutvecklare. För att hantera ett av dina konton eller se en lista med alla konton, besök vår <a href="{ $url }">supportsida för kontohantering</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/accounts/
+newsletters-to-get-access-to-the-whole = För att få tillgång till en hel värld av { -brand-name-firefox }-produkter, kunskap och tjänster på ett konto, gå med oss! Läs mer om fördelarna <a href="{ $url }">här</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = Det finns många sätt att samarbeta med { -brand-name-mozilla } och { -brand-name-firefox }. Om du inte hittade det du letade efter här, kolla in våra <a href="{ $url }">community-sidor</a>.
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } är inte ett giltigt nyhetsbrev
 newsletters-subscribe = Prenumerera
+newsletters-remove-me-from-all-the = Ta bort mig från alla prenumerationer på den här sidan
 newsletters-save-preferences = Spara inställningar
 newsletters-send-me-a-link = Skicka mig en länk
 newsletters-youve-been-unsubscribed = Du har avslutat prenumerationen.
