@@ -5,8 +5,12 @@
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
+# Page title the subscription preferences page
+newsletters-newsletter-subscriptions = Nyhetsbrevsprenumerationer
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = { -brand-name-mozilla } Nyhetsbrev
+# Headline for https://www-dev.allizom.org/newsletter/
+newsletters-read-all-about-it-in-our-newsletter = Läs om allt i vårt <span>nyhetsbrev</span>
 newsletters-thanks-for-subscribing = Tack för att du prenumererar!
 newsletters-your-newsletter-subscription = Din nyhetsbrevsprenumeration har bekräftats.
 # Form field label
