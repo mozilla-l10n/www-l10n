@@ -88,3 +88,8 @@ newsletters-unlock-the-world-of-web = Descubra el mundo del desarrollo web con n
 newsletters-join-thousands-of-developers = Unite a miles de desarrolladores como usted que están aprendiendo lo mejor del desarrollo web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Dejá que Firefox se meta en tu buzón.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Descubre dónde puede llevarte la web con consejos, trucos e información de Internet mensual sobre { -brand-name-firefox }.
+newsletters-we-are-sorry-but-there = Disculpá, pero hubo un error en nuestro sistema. ¡Intentá de nuevo más tarde!
+newsletters-thanks-for-updating-your = Gracias por actualizar tus preferencias de correo electrónico.
+newsletters-the-supplied-link-has-expired-long = El enlace proporcionado caducó o no es válido. Recibirás uno nuevo en el próximo boletín, o más abajo puedes solicitar un correo electrónico con el enlace.
