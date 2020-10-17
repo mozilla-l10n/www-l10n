@@ -89,7 +89,7 @@ newsletters-join-thousands-of-developers = Dołącz do tysięcy deweloperów tak
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Więcej lisów w Twojej skrzynce.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-see-where-the-web-can-take = Zobacz, co możesz zrobić w sieci dzięki comiesięcznym wskazówkom i skrótom dla Firefoksa i Internetu.
+newsletters-see-where-the-web-can-take = Zobacz, co możesz zrobić w sieci dzięki comiesięcznym wskazówkom i skrótom dla { -brand-name-firefox(case: "gen") } i Internetu.
 newsletters-we-are-sorry-but-there = Przepraszamy, ale mamy problemy z systemem. Proszę spróbować później.
 newsletters-thanks-for-updating-your = Dziękujemy za aktualizację ustawień e-mail.
 newsletters-the-supplied-link-has-expired-long = Odnośnik wygasł lub nie jest prawidłowy. W następnym biuletynie otrzymasz nowy odnośnik, a poniżej możesz zażądać natychmiastowego wysłania wiadomości zawierającej go.
@@ -102,7 +102,7 @@ newsletters-i-didnt-sign-up = Subskrypcja nie została zamówiona przeze mnie.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ten adres e-mail nie jest obecny w naszym systemie. Proszę sprawdzić poprawność adresu lub przejść do <a href="{ $url }">subskrypcji biuletynu</a>.
-newsletters-im-keeping-in-touch = Wolę śledzić Mozillę na { -brand-name-twitter }ze i { -brand-name-facebook }u.
+newsletters-im-keeping-in-touch = Wolę śledzić { -brand-name-mozilla(case: "acc") } na { -brand-name-twitter(case: "loc") } i { -brand-name-facebook(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Zapisz się, czytaj,<br> bądź na bieżąco
 # Obsolete string
@@ -110,7 +110,19 @@ newsletters-sign-up-read-up-make-a-difference = Zapisz się. Czytaj.<br> Miej zn
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Dowiedz się o problemach wpływających na Twoje życie w Internecie.
 # Obsolete string
-newsletters-get-the-mozilla-newsletter = Subskrybuj biuletyn Mozilli, aby otrzymywać informacje o zagrożeniach dla Internetu i możliwościach zaangażowania się.
+newsletters-get-the-mozilla-newsletter = Subskrybuj biuletyn { -brand-name-mozilla(case: "gen") }, aby otrzymywać informacje o zagrożeniach dla Internetu i możliwościach zaangażowania się.
+newsletters-your-email-preferences = Ustawienia e-mail zostały pomyślnie uaktualnione.
+newsletters-consider-it-done = Uznaj to za załatwione
+newsletters-back-to-email-preferences = Wróć do ustawień e-mail
+newsletters-here-are-a-few-things = Oto kilka rzeczy, które mogą Cię zainteresować, zanim dostaniesz następną wiadomość.
+newsletters-take-your-privacy = Prywatność zawsze przy Tobie
+newsletters-travel-the-internet = Podróżuj po Internecie z ochroną na wszystkich urządzeniach.
+newsletters-download-the-app = Pobierz aplikację
+newsletters-check-for-data-breaches = Sprawdź wycieki danych
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } to bezpłatny serwis umożliwiający sprawdzenie, czy Twoje dane znalazły się w wycieku haseł z innej firmy.
+newsletters-sign-in-to-monitor = Zaloguj się w serwisie { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Poznaj naszą główną markę
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, organizacja non-profit stojąca za { -brand-name-firefox(case: "ins") }, stawia ludzi ponad zysk we wszystkim co mówimy, tworzymy i robimy.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = O standardach
 # Name for the newsletter in Newsletter subscription page
@@ -127,6 +139,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } na komputery
 newsletters-dont-miss-the-latest = Nie przegap ostatnich ogłoszeń nt. przeglądarki na komputery.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Pomóż nam
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Raport o zdrowiu Internetu
 # Obsolete string
