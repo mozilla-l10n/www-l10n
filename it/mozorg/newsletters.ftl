@@ -114,6 +114,7 @@ newsletters-travel-the-internet = Naviga in Internet protetto su tutti i tuoi di
 newsletters-download-the-app = Scarica l’app
 newsletters-sign-in-to-monitor = Accedi a { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Scopri il nostro marchio principale
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l'organizzazione senza fini di lucro che sostiene { -brand-name-firefox }, antepone le persone al profitto in tutto ciò che diciamo, creiamo e facciamo.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = About Standards
 # Name for the newsletter in Newsletter subscription page
@@ -130,6 +131,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } for desktop
 newsletters-dont-miss-the-latest = Non perdere alcun annuncio riguardante il nostro browser desktop.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Collabora
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Approfondimenti
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
 # Obsolete string
@@ -190,8 +193,6 @@ newsletters-download-firefox-for-ios = Scarica { -brand-name-firefox } per { -br
 newsletters-download-firefox-for-mobile = Scarica { -brand-name-firefox } per dispositivi <em>mobile</em>
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } Tips
-# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Ottieni il massimo dal tuo account Firefox.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)

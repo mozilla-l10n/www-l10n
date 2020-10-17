@@ -5,8 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/newsletter/opt-out-confirmation/
 
+# HTML page title
+opt-out-confirmation-cool-we-hear = Bene! Ti ascoltiamo.
 # Field of a form
 opt-out-confirmation-your-email = Indirizzo email:
+# Only localize "yourname". Do not touch @example.com.
+opt-out-confirmation-yournameexamplecom = yourname@example.com
+# This is a button
+opt-out-confirmation-manage-preferences = Gestisci preferenze
+# Link to https://blog.mozilla.org/
+opt-out-confirmation-check-out-our = Dai un’occhiata ai nostri blog
+# Link to https://support.mozilla.org/
+opt-out-confirmation-get-help = Richiedi supporto
 # Link to https://www.instagram.com/mozilla/
 opt-out-confirmation-instagram = { -brand-name-instagram }
 # Link to https://www.youtube.com/firefoxchannel
