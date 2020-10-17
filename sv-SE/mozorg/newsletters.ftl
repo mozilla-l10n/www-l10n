@@ -57,6 +57,12 @@ newsletters-is-not-a-valid-newsletter = { $newsletter } är inte ett giltigt nyh
 newsletters-subscribe = Prenumerera
 newsletters-remove-me-from-all-the = Ta bort mig från alla prenumerationer på den här sidan
 newsletters-save-preferences = Spara inställningar
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = E-poståterställning för nyhetsbrev
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = Hantera dina <span>prenumerationer på nyhetsbrev</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Ange din e-postadress så skickar vi en länk för att ändra dina inställningar.
 newsletters-send-me-a-link = Skicka mig en länk
 newsletters-youve-been-unsubscribed = Du har avslutat prenumerationen.
 newsletters-were-sorry-to-see-you-go = Vi är ledsna över att se dig lämna.
@@ -64,15 +70,26 @@ newsletters-would-you-mind-telling-us = Skulle du kunna tänka dig att berätta 
 newsletters-other = Annat…
 newsletters-submit = Skicka in
 newsletters-thanks-for-telling-us-why = Tack för att du berättar för oss varför du lämnar oss.
+newsletters-while-here-why-not-check = Medan du är här, kolla in andra underbara aspekter av { -brand-name-firefox }.
 newsletters-get-up-and-go = Sätt igång
 newsletters-its-your-web-anywhere-you = Det är din webb vart du än går.
 newsletters-get-firefox-for-mobile = Skaffa { -brand-name-firefox } för mobil!
+newsletters-added-extras = Lägg till funktioner
 newsletters-make-firefox-do-more-with = Få { -brand-name-firefox } att göra mer med tillägg.
 newsletters-find-out-how = Ta reda på hur!
 newsletters-about-us = Om oss
+newsletters-whats-mozilla-all-about = Vad handlar { -brand-name-mozilla } om?
 newsletters-were-glad-you-asked = Roligt att du frågar!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Älskar du webben? Det gör vi också!
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = Lås upp världen för webbutveckling med vårt veckovisa { -brand-name-mozilla }-nyhetsbrev för utvecklare. Varje utgåva ger dig kodningstekniker och bästa metoder, { -brand-name-mdn }-uppdateringar, information om nya tekniker, tips om utvecklarverktyg och mer.
+# Obsolete string
+newsletters-join-thousands-of-developers = Gå med tusentals utvecklare som du, som lär sig det bästa av webbutveckling.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Mer räv till din inkorg.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Se vart webben kan ta dig med månatliga { -brand-name-firefox }-tips, tricks och Internetinformation.
 newsletters-sign-in-to-monitor = Logga in på { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Om standarder
