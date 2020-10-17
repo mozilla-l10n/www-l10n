@@ -6,6 +6,8 @@
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 # Form field label
+newsletters-your-email-address = E-postadressa di:
+# Form field label
 newsletters-country-or-region = Land eller region:
 # Form field label
 newsletters-country = Land:
@@ -22,6 +24,8 @@ newsletters-find-out-how = Finn ut korleis!
 newsletters-about-us = Om oss
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Ver med
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Om Labs
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
