@@ -8,11 +8,11 @@
 # Page title the subscription preferences page
 newsletters-newsletter-subscriptions = Subskrypcja biuletynu
 # Page titlefor https://www-dev.allizom.org/newsletter/
-newsletters-mozilla-newsletter = Biuletyn Mozilli
+newsletters-mozilla-newsletter = Biuletyn { -brand-name-mozilla(case: "gen") }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Przeczytaj więcej na ten<br /> temat w naszym <span>biuletynie</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
-newsletters-subscribe-to-updates-and-keep = Subskrybuj comiesięczne aktualizacje, aby być na bieżąco z najnowszymi wieściami dotyczącymi Mozilli. To idealny sposób na utrzymanie z nami kontaktu!
+newsletters-subscribe-to-updates-and-keep = Subskrybuj comiesięczne aktualizacje, aby być na bieżąco z najnowszymi wieściami dotyczącymi { -brand-name-mozilla(case: "gen") }. To idealny sposób na utrzymanie z nami kontaktu!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potwierdzenie subskrypcji
 newsletters-thanks-for-subscribing = Dziękujemy za subskrypcję!
@@ -28,7 +28,7 @@ newsletters-open-your-inbox-and-your = Jeszcze bardziej otwórz swoją skrzynkę
 newsletters-manage-your-email-preferences = Zarządzanie ustawieniami poczty
 newsletters-this-page-is-in-maintenance = Trwają prace techniczne i strona jest tymczasowo niedostępna.
 newsletters-to-update-your-email-preferences = Aby uaktualnić ustawienia e-mail, proszę odświeżyć stronę za jakiś czas. Dziękujemy!
-newsletters-we-love-sharing-updates = Kochamy dzielić się informacjami o wszystkich ciekawych rzeczach dziejących się w Mozilli.
+newsletters-we-love-sharing-updates = Kochamy dzielić się informacjami o wszystkich ciekawych rzeczach dziejących się w { -brand-name-mozilla(case: "loc") }.
 newsletters-set-your-preferences-below = Wybierz odpowiednie ustawienia, aby zawsze otrzymywać tylko interesujące informacje.
 # Form field label
 newsletters-your-email-address = Twój adres e-mail:
@@ -44,13 +44,13 @@ newsletters-format = Format:
 newsletters-text-subscribers-will-receive = Subskrybujący w formacie tekstowym dwa razy do roku otrzymają wiadomość proszącą o potwierdzenie kontynuacji subskrypcji. Te wiadomości mogą zawierać kod HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. kontem Firefoksa, dokumentacji MDN lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
+newsletters-many-of-our-communications = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. { -brand-name-firefox-accounts(case: "ins", capitalization: "lower") }, { -brand-name-mdn-web-docs(case: "gen", capitalization: "lower") } lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
-newsletters-to-get-access-to-the-whole = Dołącz do nas, aby mieć dostęp do pełnego zestawu produktów, wiedzy i usług Firefoksa w jednym koncie! <a href="{ $url }">Tutaj</a> przeczytasz więcej o korzyściach.
+newsletters-to-get-access-to-the-whole = Dołącz do nas, aby mieć dostęp do pełnego zestawu produktów, wiedzy i usług { -brand-name-firefox(case: "gen") } w jednym koncie! <a href="{ $url }">Tutaj</a> przeczytasz więcej o korzyściach.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/forums/
-newsletters-there-are-many-ways-to = Jest wiele sposobów na działanie z Mozillą i Firefoksem. Jeśli nie ma tutaj tego, czego szukasz, to odwiedź nasze <a href="{ $url }">strony społeczności</a>.
+newsletters-there-are-many-ways-to = Jest wiele sposobów na działanie z { -brand-name-mozilla(case: "ins") } i { -brand-name-firefox(case: "ins") }. Jeśli nie ma tutaj tego, czego szukasz, to odwiedź nasze <a href="{ $url }">strony społeczności</a>.
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = „{ $newsletter }” nie jest prawidłowym biuletynem
@@ -65,7 +65,7 @@ newsletters-manage-your-newsletter = Zarządzanie <span>subskrybowanymi biuletyn
 newsletters-enter-your-email-address = Podaj adres e-mail, abyśmy mogli przesłać odnośnik do panelu ustawień subskrypcji.
 newsletters-send-me-a-link = Wyślij odnośnik
 newsletters-youve-been-unsubscribed = Subskrypcja została anulowana.
-newsletters-were-sorry-to-see-you-go = Przykro nam, że odchodzisz.
+newsletters-were-sorry-to-see-you-go = Przykro nam, że chcesz się z nami pożegnać.
 newsletters-would-you-mind-telling-us = Możesz nam powiedzieć dlaczego?
 newsletters-other = Inne…
 newsletters-submit = Wyślij
@@ -73,12 +73,12 @@ newsletters-thanks-for-telling-us-why = Dziękujemy za wyjaśnienie, dlaczego na
 newsletters-while-here-why-not-check = Przy okazji może spojrzysz na inne powody, dla których { -brand-name-firefox } jest ekstra?
 newsletters-get-up-and-go = Wstań i idź
 newsletters-its-your-web-anywhere-you = Sieć jest Twoja, nieważne gdzie jesteś.
-newsletters-get-firefox-for-mobile = Pobierz Firefoksa na telefon!
+newsletters-get-firefox-for-mobile = Pobierz { -brand-name-firefox(case: "acc") } na telefon!
 newsletters-added-extras = Dodatki
 newsletters-make-firefox-do-more-with = Dzięki dodatkom { -brand-name-firefox } może więcej.
 newsletters-find-out-how = Sprawdź, jak to działa!
 newsletters-about-us = O nas
-newsletters-whats-mozilla-all-about = O co chodzi Mozilli?
+newsletters-whats-mozilla-all-about = O co chodzi { -brand-name-mozilla(case: "dat") }?
 newsletters-were-glad-you-asked = Miło nam, że pytasz!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Kochasz Internet? My też!
@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = Treść mnie nie interesowała.
 newsletters-your-email-design = E-maile nie były przejrzyste i czytelne.
 newsletters-i-didnt-sign-up = Subskrypcja nie została zamówiona przeze mnie.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ten adres e-mail nie jest obecny w naszym systemie. Proszę sprawdzić poprawność adresu lub przejść do <a href="{ $url }">subskrypcji biuletynu</a>.
 newsletters-im-keeping-in-touch = Wolę śledzić Mozillę na { -brand-name-twitter }ze i { -brand-name-facebook }u.
 # Headline for https://www.mozilla.org/newsletter/mozilla/

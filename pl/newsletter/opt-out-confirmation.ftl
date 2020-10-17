@@ -21,4 +21,12 @@ opt-out-confirmation-prefer-to-get = Wolisz otrzymywać informacje na inny spos�
 opt-out-confirmation-check-out-our = Czytaj nasze blogi
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Pomoc
-opt-out-confirmation-subscribe-to = Subskrybuj wysyłany od czasu do czasu biuletyn od Firefoksa
+opt-out-confirmation-subscribe-to = Subskrybuj wysyłany od czasu do czasu biuletyn od { -brand-name-firefox(case: "gen") }
+# Link to https://www.instagram.com/mozilla/
+opt-out-confirmation-instagram = { -brand-name-instagram }
+# Link to https://www.youtube.com/firefoxchannel
+opt-out-confirmation-youtube = { -brand-name-youtube }
+# Link to https://www.facebook.com/Firefox
+opt-out-confirmation-facebook = { -brand-name-facebook }
+# Link to https://twitter.com/firefox
+opt-out-confirmation-twitter = { -brand-name-twitter }
