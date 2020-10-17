@@ -176,9 +176,25 @@ newsletters-new-product-testing = Ny produktprovning
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better = Hjälp oss att skapa ett bättre { -brand-name-firefox } för dig genom att testköra våra senaste produkter och funktioner.
 # Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = { -brand-name-mozilla } Community
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Gå med Mozillianer runt om i världen och lär dig om möjligheter som påverkar { -brand-name-mozilla }:s uppdrag.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } Dotterbolag
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Ett nyhetsbrev varje månad för att hålla dig uppdaterad med { -brand-name-firefox }:s dotterbolagsprogram.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox } Studentambassadörer
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Ett månatligt nyhetsbrev om hur du kan engagera dig med { -brand-name-mozilla } på ditt campus.
+# Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = { -brand-name-beta } Nyheter
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Läs om de senaste funktionerna för { -brand-name-firefox } stationära och mobila enheter innan den slutgiltiga versionen.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Hämta { -brand-name-firefox } för { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-firefox-for-android = Hämta { -brand-name-firefox } för { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -187,23 +203,71 @@ newsletters-download-firefox-for-ios = Hämta { -brand-name-firefox } för { -br
 newsletters-download-firefox-for-mobile = Hämta { -brand-name-firefox } för mobil
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } Tips
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Få ut det mesta av ditt { -brand-name-firefox-account }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Periodiska e-postuppdateringar om vår årliga internationella filmtävling.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Var den första som får veta när { -brand-name-firefox } är tillgängligt för { -brand-name-ios }-enheter.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = { -brand-name-firefox-os } smartphoneägare?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Missa inte viktiga nyheter och uppdateringar om din { -brand-name-firefox-os }-enhet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Dig
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Ett nyhetsbrev varje månad och specialmeddelanden om hur du får ut det mesta av din { -brand-name-firefox-os }-enhet, inklusive de senaste funktionerna och de coolaste { -brand-name-firefox-marketplace }-apparna.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = { -brand-name-firefox } Tips per vecka
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Få ett veckotips om hur du laddar upp din { -brand-name-firefox }-upplevelse.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Gå med { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = { -brand-name-mozilla } största firande för att skapa och lära sig på nätet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Upptäck de senaste, coolaste HTML5-apparna på { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = { -brand-name-firefox-os } nyheter, tips, lanseringsinformation och var du kan köpa.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } för { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Håll dig uppdaterad med utgåvor och nyheter om { -brand-name-firefox } för { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = { -brand-name-firefox } Nyheter
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Få anvisningar, råd och nyheter så att din { -brand-name-firefox }-upplevelse ska fungera bäst för dig.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Särskilda tillkännagivanden om { -brand-name-mozilla }:s årliga, praktiska festival för att skapa framtiden för det öppna nätet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } Nyheter
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Regelbundna uppdateringar för att hålla dig informerad och aktiv i vår kamp för ett bättre internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Särskilda tillkännagivanden och meddelanden från gruppen för att hålla internet gratis och öppet.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Uppdateringar från vårt globala community som hjälper människor att lära sig de viktigaste färdigheterna i vår tid: förmågan att läsa, skriva och delta i den digitala världen.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Vi bygger framtidens teknik. Kom utforska med oss.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Specialmeddelanden som hjälper dig att få ut det mesta av { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
