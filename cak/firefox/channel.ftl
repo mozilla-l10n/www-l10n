@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Tiqasäx chuqa' titojtob'
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Tatojtob'ej taq b'anikil pa ruwi'-toq-nelesäx rik'in ri ütz chuwäch ri ruwäch ri xtelesäx pe.
 firefox-channel-release-notes = Ruch'utitzijol re ruwäch re'
+firefox-channel-previous-nightly-builds = Nab'ey taq runuk'uj { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Tinuk', tojtob'enïk, xakb'äl chuqa' ch'aqa' chik rik'in ri yonil chi tz'aqät okik'amaya'l kuma ri ajb'anonela'.
 # Variables:
