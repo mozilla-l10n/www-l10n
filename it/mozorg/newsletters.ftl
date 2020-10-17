@@ -117,6 +117,7 @@ newsletters-back-to-email-preferences = Torna alle preferenze per le email
 newsletters-take-your-privacy = La tua privacy, sempre con te
 newsletters-travel-the-internet = Naviga in Internet protetto su tutti i tuoi dispositivi.
 newsletters-download-the-app = Scarica l’app
+newsletters-check-for-data-breaches = Cerca nelle violazioni dati
 newsletters-sign-in-to-monitor = Accedi a { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Scopri il nostro marchio principale
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l'organizzazione senza fini di lucro che sostiene { -brand-name-firefox }, antepone le persone al profitto in tutto ciò che diciamo, creiamo e facciamo.
