@@ -27,6 +27,8 @@ newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } yettawi-d ɣe
 newsletters-open-your-inbox-and-your = Ldi tanaka-inek•inem n urmas (d wul-ik•im) ugar  — wali isental-nniḍen iɣef d-nettawi.
 newsletters-manage-your-email-preferences = Sefrek ismenyafen-ik•im n yimayl
 newsletters-this-page-is-in-maintenance = Asebter-a a-t-an deg uskar n useggem, ur yettili ara i kra n wakud.
+newsletters-to-update-your-email-preferences = Akken ad tleqqmeḍ ismenyafen n yimayl-ik•im, ttxil, deg kra n wakud uɣal-d senqed-it. Tanemmirt!
+newsletters-we-love-sharing-updates = Nḥemmel ad nebḍu ileqman d telɣut ɣef wayen akk igerrzen i iḍerrun deg { -brand-name-mozilla }.
 newsletters-set-your-preferences-below = Sbadu ismenyifen-inek·inem ddaw i wakken ad tḍemneḍ armas n yisallen i tebɣiḍ.
 # Form field label
 newsletters-your-email-address = Tansa-inek·inem n yimayl:
