@@ -11,6 +11,8 @@ opt-out-confirmation-your-email = Η διεύθυνση email σας:
 opt-out-confirmation-yournameexamplecom = yourname@example.com
 # This is a button
 opt-out-confirmation-manage-preferences = Διαχείριση προτιμήσεων
+# Link to https://blog.mozilla.org/
+opt-out-confirmation-check-out-our = Δείτε τα blogs μας
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Λήψη βοήθειας
 # Link to https://www.instagram.com/mozilla/

@@ -28,3 +28,6 @@ newsletter-form-select-country = Επιλογή χώρας
 newsletter-form-sign-me-up = Εγγραφή
 newsletter-form-sign-up-now = Εγγραφή τώρα
 newsletter-form-thanks = Ευχαριστούμε!
+newsletter-form-leave-this-field-empty = Αφήστε αυτό το πεδίο κενό.
+newsletter-form-yes = Ναι
+newsletter-form-no = Όχι
