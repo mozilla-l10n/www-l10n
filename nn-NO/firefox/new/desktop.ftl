@@ -159,6 +159,9 @@ firefox-desktop-download-now-mac = No kan du <strong>opne</strong> den nedlasta 
 firefox-desktop-download-get-help = Har problem? <a { $attrs }>Få hjelp med installasjonen</a>.
 firefox-desktop-download-in-another-language = Last ned på eit anna språk eller for eit anna operativsystem.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Dersom du får ei melding om at appen du prøver å installere ikkje er ein { -brand-name-microsoft }-stadfesta app, klikkar du på «Installer likevel» eller <a { $attrs }>Endre innstillingar for apptilråding</a>.
 firefox-desktop-download-visit-support-for-more = Besøk brukarstøtte for meir informasjon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
