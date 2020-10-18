@@ -7,12 +7,16 @@
 
 # HTML page title
 opt-out-confirmation-cool-we-hear = Bene! Ti ascoltiamo.
+# HTML page descripiton
+opt-out-confirmation-youre-now-opted = Non riceverai più email relative all’impostazione dell’account.
+opt-out-confirmation-youll-continue = Continuerai a ricevere email sugli altri argomenti che hai sottoscritto e, occasionalmente, aggiornamenti importanti relativi al tuo account. Per gestire tutte le tue sottoscrizioni, inserisci il tuo indirizzo email qui di seguito, così da dimostrare di essere il proprietario dell’account.
 # Field of a form
 opt-out-confirmation-your-email = Indirizzo email:
 # Only localize "yourname". Do not touch @example.com.
 opt-out-confirmation-yournameexamplecom = yourname@example.com
 # This is a button
 opt-out-confirmation-manage-preferences = Gestisci preferenze
+opt-out-confirmation-prefer-to-get = Preferisci reperire le tue informazioni in un’altra maniera?
 # Link to https://blog.mozilla.org/
 opt-out-confirmation-check-out-our = Dai un’occhiata ai nostri blog
 # Link to https://support.mozilla.org/
