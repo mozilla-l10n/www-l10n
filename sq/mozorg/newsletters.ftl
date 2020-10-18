@@ -107,15 +107,20 @@ newsletters-sign-up-read-up-stay-informed = Regjistrohuni, lexojini,<br> jini n�
 newsletters-sign-up-read-up-make-a-difference = Regjistrohuni. Lexojini.<br> Sillni një ndryshim.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Bëhuni i mençur rreth problemeve që prekin jetën tuaj internetore.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Merrni buletinin e { -brand-name-mozilla }-s që të jeni në dijeni të problemeve dhe sfidave ndaj shëndetit të Internet-it dhe për të mësuar se si mund të përfshiheni.
 newsletters-your-email-preferences = Parapëlqimet tuaja për email u përditësuan me sukses.
 newsletters-consider-it-done = Quajeni punë të mbaruar
 newsletters-back-to-email-preferences = Mbrapsht te parapëlqimet për email
+newsletters-here-are-a-few-things = Ja pak gjëra për t’u marrë, teksa prisni për email-in tuaj të ardhshëm.
 newsletters-take-your-privacy = Merreni privatësinë me vete
 newsletters-travel-the-internet = Udhëtoni në internet me mbrojtje në krejt pajisjet tuaja.
 newsletters-download-the-app = Shkarkoni Aplikacionin
 newsletters-check-for-data-breaches = Kontrolloni për cenime të dhënash
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } është një shërbim i lirë që ju lejon të shihni nëse jeni përfshirë në ndonjë cenim të dhënash në internet.
 newsletters-sign-in-to-monitor = Hyni në { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Njihuni me markën tonë mëmë
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, enti jofitimprurës pas { -brand-name-firefox }-it, i vë njerëzit mbi fitimin, në gjithçka që themi, prodhojmë dhe bëjmë.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Rreth Standardeve
 # Name for the newsletter in Newsletter subscription page
