@@ -71,6 +71,7 @@
         [nominative_uppercase] Аккаунт Firefox
         [genitive] аккаунта Firefox
         [genitive_uppercase] Аккаунта Firefox
+        [dative_uppercase] Аккаунту Firefox
         [instrumental] аккаунтом Firefox
     }
 -brand-name-firefox-accounts =
@@ -99,6 +100,10 @@
 -brand-name-send = Send
 -brand-name-sync = Sync
 
+## Firefox products (legacy)
+
+-brand-name-firefox-marketplace = Firefox Marketplace
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -118,6 +123,9 @@
 -brand-name-common-voice = Common Voice
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+
+## Mozilla projects (legacy)
+
 
 ## Open Source projects
 
