@@ -111,6 +111,15 @@ newsletters-sign-up-read-up-make-a-difference = Подпишитесь. Чита
 newsletters-get-smart-on-the-issues = Будьте в курсе событий, затрагивающих вашу жизнь в Интернете.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Получайте новостную рассылку { -brand-name-mozilla }, чтобы быть в курсе проблем, затрагивающих здоровье Интернета, и узнавайте, как вы можете принять участие.
+newsletters-your-email-preferences = Ваши настройки электронной почты были успешно обновлены.
+newsletters-consider-it-done = Считайте что это сделано
+newsletters-back-to-email-preferences = Вернуться к настройкам электронной почты
+newsletters-here-are-a-few-things = Вот несколько вещей, на которые стоит обратить внимание, пока вы ждёте следующего письма.
+newsletters-take-your-privacy = Возьмите свою приватность с собой
+newsletters-travel-the-internet = Путешествуйте по Интернету с защитой на всех ваших устройствах.
+newsletters-download-the-app = Загрузить приложение
+newsletters-check-for-data-breaches = Проверить на утечки данных
+newsletters-sign-in-to-monitor = Войти в { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = О стандартах
 # Name for the newsletter in Newsletter subscription page
@@ -253,3 +262,5 @@ newsletters-were-building-the-technology = Мы создаём технолог�
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Специальные оповещения, которые помогут вам получить максимальную пользу от { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
