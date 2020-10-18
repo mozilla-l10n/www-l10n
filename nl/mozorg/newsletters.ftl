@@ -113,10 +113,12 @@ newsletters-get-smart-on-the-issues = Word expert in zaken die uw onlineleven be
 newsletters-get-the-mozilla-newsletter = Ontvang de { -brand-name-mozilla }-nieuwsbrief en blijf geïnformeerd over zaken die een uitdaging zijn voor een gezond internet, en hoe u kunt meewerken.
 newsletters-your-email-preferences = Uw e-mailvoorkeuren zijn met succes bijgewerkt.
 newsletters-back-to-email-preferences = Terug naar e-mailvoorkeuren
+newsletters-here-are-a-few-things = Hier zijn een paar zaken om u in te verdiepen, terwijl u op uw volgende e-mailbericht wacht.
 newsletters-take-your-privacy = Neem uw privacy mee
 newsletters-travel-the-internet = Reis beschermd op het internet, op al uw apparaten.
 newsletters-download-the-app = De app downloaden
 newsletters-check-for-data-breaches = Controleren op datalekken
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } is een gratis service, waarmee u kunt zien of u getroffen bent door een online datalek.
 newsletters-sign-in-to-monitor = Aanmelden bij { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Over standaarden
