@@ -52,7 +52,7 @@ contribute-made-by-desc-cont = Ne besojmë se bashkëpunimi brenda bashkësisë 
 
 contribute-newsletter-heading = Ende jo i sigurt?
 contribute-newsletter-sub-heading = Merrni te email-i juaj lajme bashkësie dhe kontributi
-contribute-newsletter-desc = Pajtohuni te buletini ynë, bëhuni pjese e Moxillianëve anembanë botës, dhe mësoni mbi mundësi veprimtarie plot ndikim në përkrahjes të misionit të { -brand-name-mozilla }-s.
+contribute-newsletter-desc = Pajtohuni te buletini ynë, bëhuni pjesë e Moxillianëve anembanë botës, dhe mësoni mbi mundësi veprimtarie plot ndikim në përkrahje të misionit të { -brand-name-mozilla }-s.
 
 ## Support
 

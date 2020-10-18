@@ -173,12 +173,22 @@ newsletters-new-product-testing = Testim Produktesh të Reja
 newsletters-help-us-make-a-better = Ndihmonani në ndërtimin e një { -brand-name-firefox } më të mirë për ju, duke përdorur për testim produktet dhe veçoritë tona më të reja.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Bashkësia { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Bëhuni pjesë e Moxillianëve anembanë botës, dhe mësoni mbi mundësi veprimtarie plot ndikim në përkrahje të misionit të { -brand-name-mozilla }-s.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Partnerë të { -brand-name-firefox }-it
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 newsletters-a-monthly-newsletter-affiliates = Një buletin i përmuajshëm që t’ju mbajë të përditësuar lidhur me programin { -brand-name-firefox } Affiliates.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = Ambasadorë { -brand-name-firefox } Nxënësish
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Një buletin mujor se si të përfshiheni me { -brand-name-mozilla }-n në shkollën tuaj.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Lajme { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Lexoni rreth veçorive më të reja për { -brand-name-firefox }-in për desktop dhe celular, përpara hedhjes përfundimtare në qarkullim.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Shkarkoni { -brand-name-firefox }-in për { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -189,14 +199,46 @@ newsletters-download-firefox-for-ios = Shkarkoni { -brand-name-firefox }-in për
 newsletters-download-firefox-for-mobile = Shkarkoni { -brand-name-firefox }-in për Celular
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Ndihmëza mbi { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Përfitoni maksimumin nga { -brand-name-firefox-account } juaj.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Përditësime periodike me email rreth konkursit tonë vjetor ndërkombëtar të filmi.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Jini i pari që mësoni se kur do të jetë gati { -brand-name-firefox }-i për pajisje { -brand-name-ios }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Pronar i një telefoni { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Mos humbni lajme dhe përditësime të rëndësishme rreth pajisjesh suaj { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + You
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Një buletin mujor dhe lajme speciale se si të përfitoni maksimumin nga pajisja juaj { -brand-name-firefox-os }, përfshi veçoritë më të reja dhe aplikacionet më të lezetshme nga { -brand-name-firefox-marketplace }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Ndihmëza të Përjavshme për { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Merrni një ndihmëz të përjavshme se si ta superfuqizoni punën tuaj me { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Bëhuni pjesë e { -brand-name-mozilla }-s
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = Kremtimi më i madh nga { -brand-name-mozilla } i krijimit dhe nxënies në web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Zbuloni aplikacionet HTML5 më të reja, më të lezetshme për { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Lajme, ndihmëza, informacion për hedhje në qarkullim dhe se ku të blihet { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } për { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Ndiqni hedhjet në qarkullim dhe lajmet rreth { -brand-name-firefox } për { -brand-name-android }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Lajme { -brand-name-firefox }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Name for the newsletter in Newsletter subscription page
