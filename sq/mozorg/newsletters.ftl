@@ -41,14 +41,28 @@ newsletters-language = Gjuhë:
 newsletters-not-all-subscriptions-are = Jo të gjitha pajtimet mbulohen në krejt gjuhët e paraqitura. Thuajse të tëra ofrohen në anglisht, gjermanisht dhe frëngjisht.
 # Form field label
 newsletters-format = Format:
+newsletters-text-subscribers-will-receive = Pajtimtarët e formës tekst do të marrin një email dy herë në vit për të ripohuar vazhdimin e e pajtimit. Këto email-e mund të kenë HTML.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+newsletters-many-of-our-communications = Mjaft nga komunikimet tona lidhen me një llogari për të cilën jeni regjistruar, bie fjala, { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, ose Zhvillues Shtesash. Që të administroni një nga llogaritë tuaja ose që të shihni një listë të krejt llogarive, vizitoni <a href="{ $url }">faqen tonë për asistencë administrimi llogarish</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/accounts/
+newsletters-to-get-access-to-the-whole = Që të mund të përdorni me një llogari të vetme, krejt botën e produkteve { -brand-name-firefox }, dijen dhe shërbimet, bëhuni pjesë e jona! Mësoni më tepër rreth përfitimeve, <a href="{ $url }">këtu</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = Ka mjaft rrugë për t’u angazhuar me { -brand-name-mozilla }-n dhe { -brand-name-firefox }-in. Nëse s’gjetët ç’po kërkonit këtu, shihni <a href="{ $url }">te faqet e bashkësisë tonë</a>.
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } s’është buletin i vlefshëm
 newsletters-subscribe = Pajtohuni
 newsletters-remove-me-from-all-the = Hiqmëni prej krejt pajtimeve në këtë faqe
 newsletters-save-preferences = Ruaji Parapëlqimet
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = Rimarrje email-i buletinesh
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Administroni <span>Pajtimet tuaja në Buletine</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Jepni këtu adresën tuaj email dhe do t’ju dërgojmë një lidhje për te qendra e parapëlqimeve tuaj të email-eve.
 newsletters-send-me-a-link = Dërgomëni një lidhje
 newsletters-youve-been-unsubscribed = U shpajtuat.
 newsletters-were-sorry-to-see-you-go = Na vjen keq t’ju shohim të largoheni.
@@ -56,18 +70,43 @@ newsletters-would-you-mind-telling-us = A ju prish punë të na thoni pse po lar
 newsletters-other = Tjetër…
 newsletters-submit = Parashtroje
 newsletters-thanks-for-telling-us-why = Faleminderit që na treguat pse po largoheni.
+newsletters-while-here-why-not-check = Teksa gjendeni këtu, pse të mos u hidhni një sy disa gjërave të tjera mahnitëse të { -brand-name-firefox }-it.
 newsletters-get-up-and-go = Ngrihuni dhe shkoni
 newsletters-its-your-web-anywhere-you = Është Web-i juaj, ngado që shkoni.
 newsletters-get-firefox-for-mobile = Merrni { -brand-name-firefox }-in për celular!
 newsletters-added-extras = Ekstra shtesë
+newsletters-make-firefox-do-more-with = Bëjeni { -brand-name-firefox }-in të arrijë më tepër, përmes shtesash.
 newsletters-find-out-how = Mësoni se si!
 newsletters-about-us = Rreth nesh
+newsletters-whats-mozilla-all-about = Me se merret { -brand-name-mozilla }?
 newsletters-were-glad-you-asked = Gëzohemi që pyetët!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = E doni web-in? Edhe ne e duam!
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = Hapni botën e zhvillimit web me Buletinin tonë javor të Zhvilluesve { -brand-name-mozilla }. Çdo edicion ju sjell teknika kodimi dhe shembujt më të mirë, përditësime nga { -brand-name-mdn },të dhëna rreth teknologjish të ardhshme, ndihmëza mjetesh zhvilluesish, etj.
+# Obsolete string
+newsletters-join-thousands-of-developers = Bashkojuni mijëra zhvilluesve si ju, që po mësojnë ajkën e zhvillimit web.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Shihni se ku mund t’ju shpjerë Web-i, me ndihmëza të përmuajshme për { -brand-name-firefox }-in, marifete dhe zbulim Internet.
+newsletters-we-are-sorry-but-there = Na ndjeni, por pati një problem me sistemin tonë. Ju lutemi, riprovoni më vonë!
 newsletters-thanks-for-updating-your = Faleminderit që përditësuat parapëlqimet tuaja për email.
+newsletters-the-supplied-link-has-expired-long = Lidhja e dhënë ka skaduar ose s’është e vlefshme. Do të merrni një të re me buletinin e ardhshëm, ose mund të kërkoni më poshtë një email me lidhjen.
+newsletters-success-an-email-has-been-sent = Sukses! Sapo u dërgua për ju një email me lidhjen tuaj për te qendra e parapëlqimeve. Faleminderit!
+newsletters-this-is-not-a-valid-email = Kjo s’është adresë email e vlefshme. Ju lutemi, kontrolloni shkrimin e saj.
 newsletters-you-send-too-many-emails = Dërgoni shumë email-e.
 newsletters-your-content-wasnt-relevant = Lënda juaj nuk më intereson.
 newsletters-your-email-design = Skema juaj për email-et është e vështirë për t’u lexuar.
 newsletters-i-didnt-sign-up = Nuk u pajtova për këtë.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Kjo adresë email s’gjendet në sistemin tonë. Ju lutemi, rikontrollojeni adresën tuaj ose <a href="{ $url }">pajtohuni te buletinet tanë.</a>
+newsletters-im-keeping-in-touch = Lidhjet me { -brand-name-mozilla }-in i mbaj përmes { -brand-name-facebook }-ut dhe { -brand-name-twitter }-it.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Regjistrohuni, lexojini,<br> jini në dijeni.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Regjistrohuni. Lexojini.<br> Sillni një ndryshim.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Bëhuni i mençur rreth problemeve që prekin jetën tuaj internetore.
 newsletters-your-email-preferences = Parapëlqimet tuaja për email u përditësuan me sukses.
 newsletters-consider-it-done = Quajeni punë të mbaruar
 newsletters-back-to-email-preferences = Mbrapsht te parapëlqimet për email
