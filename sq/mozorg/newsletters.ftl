@@ -127,6 +127,10 @@ newsletters-about-standards = Rreth Standardeve
 newsletters-addon-development = Zhvillim Shtesash
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Buletin Zhvilluesish
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Një udhërrëfyes zhvilluesish për të nxjerrë në pah risitë në platformën Web, shembujt më të mirë, dokumentim të ri, etj.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Grupi i Lajmeve Drumbeat
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } për desktop
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
@@ -135,12 +139,38 @@ newsletters-dont-miss-the-latest = Mos humbni njoftimet më të reja rreth shfle
 newsletters-get-involved = Përfshihuni
 # Obsolete string
 newsletters-internet-health-report = Raport i Shëndetit të Internetit
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } boton artikuj dhe thellime në probleme rreth shëndetit të internetith dhe IA-je të besueshme, përfshi Raportin tonë vjetor të Shëndetit të Internetit.
+# Obsolete string
+newsletters-keep-up-with-our-annual = Ndiqni përmbledhjen tonë vjetore të kërkimeve dhe artikujve mbi problemet e privatësisë &amp; sigurisë, të qenët të hapur, përfshirjes dixhitale, decentralizimit, dhe nxënies së web-it.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Dija është Pushtet
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Merrni krejt dijen që ju duhet për të qenë më i siguruar dhe më i mençur në internet.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Rreth Labs-it
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Desktop
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Moxillianë
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Përditësime me email për moxillianë me rekomandim te mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Jepini Formë Web-it
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Lajme dhe informacione të lidhura me shëndetin e internetit.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Përfaqësues të Nxënësve
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Programi i dikurshëm Universitet, nga 2008-2011, tanimë i nxjerrë në pension dhe i rihedhur në qarkullim si programi Ambasadorë Firefox Nxënësish.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Hidhuni në Veprim për Internetin
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Bashkojeni zërin tuaj me peticione, veprimtari dhe nisma që luftojnë për të ardhmen e internetit.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Testim Produktesh të Reja
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Ndihmonani në ndërtimin e një { -brand-name-firefox } më të mirë për ju, duke përdorur për testim produktet dhe veçoritë tona më të reja.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Bashkësia { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
