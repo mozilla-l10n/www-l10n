@@ -86,6 +86,8 @@ newsletters-love-the-web-so-do-we = E doni web-in? Edhe ne e duam!
 newsletters-unlock-the-world-of-web = Hapni botën e zhvillimit web me Buletinin tonë javor të Zhvilluesve { -brand-name-mozilla }. Çdo edicion ju sjell teknika kodimi dhe shembujt më të mirë, përditësime nga { -brand-name-mdn },të dhëna rreth teknologjish të ardhshme, ndihmëza mjetesh zhvilluesish, etj.
 # Obsolete string
 newsletters-join-thousands-of-developers = Bashkojuni mijëra zhvilluesve si ju, që po mësojnë ajkën e zhvillimit web.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Merrni më tepër Firefox në email-et tuaj.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Shihni se ku mund t’ju shpjerë Web-i, me ndihmëza të përmuajshme për { -brand-name-firefox }-in, marifete dhe zbulim Internet.
 newsletters-we-are-sorry-but-there = Na ndjeni, por pati një problem me sistemin tonë. Ju lutemi, riprovoni më vonë!
@@ -137,6 +139,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } për desktop
 newsletters-dont-miss-the-latest = Mos humbni njoftimet më të reja rreth shfletuesin tonë për desktop.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Përfshihuni
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Raport i Shëndetit të Internetit
 # Description for the newsletter in Newsletter subscription page (Insights))
@@ -239,15 +243,31 @@ newsletters-firefox-for-android = { -brand-name-firefox } për { -brand-name-and
 newsletters-keep-up-with-releases = Ndiqni hedhjet në qarkullim dhe lajmet rreth { -brand-name-firefox } për { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Lajme { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Merrni përkujdesore “how-to”, këshilla dhe lajme për ta bërë punimin tuaj në { -brand-name-firefox } më të mirin për ju.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Njoftime speciale rreth festivalit-praktikë të përvitshëm { -brand-name-mozilla }, kushtuar farkëtimit të së ardhmes së Web-it të hapur.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Lajme { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Përditësime të rregullta për t’ju mbajtur në dijeni dhe aktiv në betejën tonë për një internet më të mirë.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Njoftime dhe mesazhe speciale prej ekipit të përkushtuar mbajtjes së Web-ir të lirë dhe të hapur.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Rrjeti { -brand-name-mozilla } i të Nxënit
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Përditësime nga bashkësia jonë mbarëbotërore, për të ndihmuar njerëzit të mësojnë aftësitë më të rëndësishme të epokës sonë:aftësinë për të lexuar, shkruar dhe marrë pjesë në botën dixhitale.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Po krijojmë teknologjinë e të ardhmes. Ejani ta eksplorni me ne.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Njoftime speciale për t’ju ndihuar të përfitoni maksimumin nga { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
