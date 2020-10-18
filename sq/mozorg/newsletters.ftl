@@ -11,6 +11,8 @@ newsletters-newsletter-subscriptions = Pajtime Në Buletine
 newsletters-mozilla-newsletter = Buletin i { -brand-name-mozilla }-s
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Lexoni gjithçka për të te <span>buletini</span> ynë
+# Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-to-updates-and-keep = Pajtohuni te përditësimet dhe jini në dijeni të lajmeve nga { -brand-name-mozilla }. Është rruga e përsosur për të mbajtur lidhjet!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Konfirmim buletini
 newsletters-thanks-for-subscribing = Faleminderit për Regjistrimin!
@@ -19,9 +21,13 @@ newsletters-please-be-sure-to-add-our = Ju lutemi, mos harroni të shtoni adres�
 newsletters-the-supplied-link-has-expired = Lidhja e dhënë ka skaduar. Do të merrni një të re me buletinin e ardhshëm.
 newsletters-something-is-amiss-with = Diçka është gabim te sistemi juaj, na ndjeni! Ju lutemi, riprovoni më vonë.
 newsletters-youre-awesome = Jeni të mrekullueshëm!
+newsletters-and-were-not-just-saying = Dhe këtë s’e themi thjesht pse na besuat adresën tuaj email.
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Ju lutemi, mos harroni të shtoni mozilla@e.mozilla.org te libri juaj i adresave, që të siguroheni se merrni përherë çka ju dërgojmë.
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } merret me një larmi problemesh të rëndësishme.
+newsletters-open-your-inbox-and-your = Hapeni edhe më kutinë tuaj postare (dhe zemrën tuaj) — hidhuni një sy temave të tjera që mbulojmë.
 newsletters-manage-your-email-preferences = Administroni Parapëlqimet tuaja për Email-in
 newsletters-this-page-is-in-maintenance = Kjo faqe gjendet nën mënyrën mirëmbajtje dhe përkohësisht s’mund të kihet.
+newsletters-to-update-your-email-preferences = Që të përditësoni parapëlqimet tuaja email, ju lutemi, kontrolloni pas pak kohe. Faleminderit!
 newsletters-we-love-sharing-updates = Na pëlqen të ndajmë me të tjerët përditësime rreth gjithçkaje të mahnitshme që ndodh te { -brand-name-mozilla }.
 newsletters-set-your-preferences-below = Rregulloni parapëlqimet tuaja më poshtë, për të siguruar se merrni përherë lajmet që doni.
 # Form field label
@@ -32,6 +38,7 @@ newsletters-country-or-region = Vend ose rajon:
 newsletters-country = Vend:
 # Form field label
 newsletters-language = Gjuhë:
+newsletters-not-all-subscriptions-are = Jo të gjitha pajtimet mbulohen në krejt gjuhët e paraqitura. Thuajse të tëra ofrohen në anglisht, gjermanisht dhe frëngjisht.
 # Form field label
 newsletters-format = Format:
 # Variables:
