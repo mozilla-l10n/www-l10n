@@ -120,6 +120,8 @@ newsletters-download-the-app = De app downloaden
 newsletters-check-for-data-breaches = Controleren op datalekken
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } is een gratis service, waarmee u kunt zien of u getroffen bent door een online datalek.
 newsletters-sign-in-to-monitor = Aanmelden bij { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Maak kennis met ons moedermerk
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, de non-profit achter { -brand-name-firefox }, plaatst in alles wat we zeggen, bouwen en doen mensen boven winst.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Over standaarden
 # Name for the newsletter in Newsletter subscription page
@@ -136,8 +138,12 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } voor desktop
 newsletters-dont-miss-the-latest = Mis geen laatste aankondigingen over onze desktopbrowser.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Meewerken
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publiceert artikelen en verdiepende stukken over kwesties rondom internetgezondheid en betrouwbare AI, waaronder ons jaarlijkse Internetgezondheidsrapport.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Blijf op de hoogte met onze jaarlijkse samenvatting van onderzoek en verhalen op het gebied van privacy en beveiliging, openheid, digitale inclusiviteit, decentralisatie en webgeletterdheid.
 # Name for the newsletter in Newsletter subscription page
