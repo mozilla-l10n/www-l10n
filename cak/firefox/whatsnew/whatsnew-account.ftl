@@ -14,6 +14,7 @@ whatsnew-account-main-button = Titikirisäx Molojri'ïl
 
 ##
 
+whatsnew-account-signed-in-headline = Tab'ana' k'ïy. Tawokisaj { -brand-name-firefox } kichin oyonib'äl.
 whatsnew-account-signed-in-lead-in = Titaq jun ruximik qasanïk pan awoyonib'al.
 whatsnew-account-signed-in-qr-title = Taqasaj ri { -brand-name-firefox } chupam ri na'onel awoyonib'al chuqa' chupam ri na'onel akematz'ib'.
 # An accessible label for a QR code image

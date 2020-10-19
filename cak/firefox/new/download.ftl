@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = Xa Xe Tiqasäx Ri Okik'amaya'l
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">man nikisüj ta chik kik'exoj jikomal</a> pa { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, k'a yatikïr nawokisaj { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -55,6 +58,7 @@ firefox-new-its-privacy-and-peace-of = Chuqa' nuya' <strong>ichinanem chuqa' uxl
 firefox-new-its-a-family-of-products = Jun <strong>ach'ala'il chi tikojil</strong> ri nikikamelaj ri awetamab'al.
 firefox-new-its-everything-you-need-to = Ja ronojel ri' k'o chi awetaman richin <strong>nachajij ri ajikomal pa k'amab'ey</strong>.
 firefox-new-its-a-community-that-believes = Jun <strong>tinamït</strong> ri nunimaj chi tikirel nutziläx ri na'ob'äl.
+firefox-new-download-interrupted = Xq'at ri aqasanik. Man ronojel ta sachel.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Tab'ana' utzil ke'awoqaj <a href="{ $url }">re taq k'utunem</a> richin niyak ri { -brand-name-firefox }.
@@ -62,3 +66,4 @@ firefox-new-please-follow = Tab'ana' utzil ke'awoqaj <a href="{ $url }">re taq k
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ri aq'inoj rik'in jub'a' man nuq'i' ta ri taq rajowaxik { -brand-name-firefox }, chuqa' ütz nitikirisäx nitojtob'ëx jun chi ke re <a href="{ $url }"> taq ruwäch re'</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aqa' Rub'anikil

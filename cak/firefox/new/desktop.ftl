@@ -15,7 +15,15 @@ firefox-desktop-download-og-title = Tiqasäx ri { -brand-name-firefox }, ri yala
 firefox-desktop-download-og-desc = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Tak'ulu' ri okik'amaya'l ri nuto' ri yalan k'atzinel
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Majun itzel runa'ojil ichinanem o rij ruchi' jay chi kiwa ri eltzijonela'. Xa xe jun nïm anin okik'amaya'l, ri man yatruk'ayij ta.
+firefox-desktop-download-download-options = Rucha'oj qasanïk chuqa' ch'aqa' taq ch'ab'äl
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } tob'äl
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Kasamäj pa k'amab'ey. <br> { -brand-name-firefox-browser } <strong> man </strong> yatrutz'ët ta.
+firefox-desktop-download-how-firefox-compares = Achike rub'eyal { -brand-name-firefox } nujunamaj ri' kik'in ch'aqa' chik okik'amaya'l
+firefox-desktop-download-how-we-compare = Achike rub'eyal niqajunamaj qi' kik'in ch'aqa' chik okik'amaya'l
+firefox-desktop-download-compare-firefox-to = Tajunamaj { -brand-name-firefox } rik'in:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -31,6 +39,14 @@ firefox-desktop-download-in-browser-screenshot = Rusamajib'al taq chapoj ruwa pa
 firefox-desktop-download-primary-password = Nab'ey ewan tzij
 # Obsolete string
 firefox-desktop-download-master-password = Ajtij ewan tzij
+firefox-desktop-download-we-block-the-ad = Yeqaq'ät ojqanela'. Ruma ri' anin ri k'amaya'l.
+firefox-desktop-download-see-your-report = Tatz'eta' ri rutzijol achajinik
+firefox-desktop-download-for-everyone = { -brand-name-firefox } qichin qonojel
+firefox-desktop-download-review-system-req = Tanik'oj ri taq rajowaxik q'inoj
+firefox-desktop-download-all-your-devices = Taya' { -brand-name-firefox } pa ronojel awokisab'al
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Tab'ana' <strong>ronojel</strong> rik'in { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Na'owinäq, anin taq kanoxïk
 firefox-desktop-download-search-engine-options = Taq rucha'oj ruk'wab'äl kanoxïk
 firefox-desktop-download-bookmarks-manager = Runuk'samajel yaketal
 firefox-desktop-download-sync-across-devices = Sync chi kikojol okisab'äl
