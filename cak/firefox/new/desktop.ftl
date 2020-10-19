@@ -5,9 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Tiqasäx { -brand-name-firefox-browser } — Anin, Ichinan & Sipan — richin { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Tak'ulu' { -brand-name-firefox }, jun sipan okik'amaya'l to'on ruma { -brand-name-mozilla }, jun moloj majun ch'akoj rojqan, nisamäj chi rij raxnaqil chuqa' richinanem K'amaya'l. K'o wakami richin { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } chuqa' { -brand-name-ios }.
 firefox-desktop-download-og-title = Tiqasäx ri { -brand-name-firefox }, ri yalan aninäq majub'ey titz'et
 firefox-desktop-download-og-desc = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = Tak'ulu' ri okik'amaya'l ri nuto' ri yalan k'atzinel
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } tob'äl
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
