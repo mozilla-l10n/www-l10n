@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0/whatsnew/all/
 
+# html page title
+whatsnew80-page-title = Achike k'ak'a' k'o pa { -brand-name-firefox }
 whatsnew80-up-to-date-banner = ¡Yalan ütz! Nawokisaj ri ruk'isib'äl ruwäch { -brand-name-firefox }.
 whatsnew80-new-firefox-android = K'ak'a' { -brand-name-firefox } richin { -brand-name-android }
