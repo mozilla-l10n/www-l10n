@@ -27,6 +27,26 @@ newsletters-language = Lingua:
 # Form field label
 newsletters-format = Formato:
 newsletters-save-preferences = Salvar le preferentias
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = Gere tu <span>subscriptiones al litteras de novas</span>
+newsletters-send-me-a-link = Inviar me un ligamine
+newsletters-youve-been-unsubscribed = Tu abonamento ha essite annullate.
+newsletters-were-sorry-to-see-you-go = Nos regretta de vider te ir.
+newsletters-would-you-mind-telling-us = Pote tu dicer nos pro qual rationes tu abandona?
+newsletters-other = Altere…
+newsletters-submit = Inviar
+newsletters-thanks-for-telling-us-why = Gratias pro dicer nos per qual ration tu abandona.
+newsletters-get-up-and-go = Recipe e vade
+newsletters-its-your-web-anywhere-you = Illo es tu web ubicunque tu va.
+newsletters-get-firefox-for-mobile = Installar { -brand-name-firefox } pro mobile!
+newsletters-added-extras = Altere additivos
+newsletters-find-out-how = Discoperi como!
+newsletters-about-us = A proposito de nos
+newsletters-were-glad-you-asked = Nos es felice que tu ha demandate!
+newsletters-thanks-for-updating-your = Gratias pro actualisar le preferentias de tu email.
+newsletters-your-email-design = Le designo del email era troppo difficile a leger.
+newsletters-i-didnt-sign-up = Io non me habeva firmate pro isto.
+newsletters-travel-the-internet = Viagia in Internet con protection sur tote tu apparatos.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page

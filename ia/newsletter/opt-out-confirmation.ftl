@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/newsletter/opt-out-confirmation/
 
+# Field of a form
+opt-out-confirmation-your-email = Tu adresse de e-mail:
 # Only localize "yourname". Do not touch @example.com.
 opt-out-confirmation-yournameexamplecom = yourname@example.com
 # This is a button
