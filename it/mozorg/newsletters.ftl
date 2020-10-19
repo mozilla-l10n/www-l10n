@@ -143,6 +143,8 @@ newsletters-get-involved = Collabora
 newsletters-insights = Approfondimenti
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } pubblica articoli e analisi su affidabilità dell’intelligenza artificiale e “problemi di salute” di Internet, come il Rapporto annuale sullo stato di salute di Internet.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Rimani aggiornato con la nostra raccolta annuale di ricerche e storie degli utenti sui temi di privacy e sicurezza, apertura, inclusione digitale, decentramento e alfabetizzazione web.
 # Name for the newsletter in Newsletter subscription page
