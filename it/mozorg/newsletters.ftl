@@ -44,7 +44,7 @@ newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Gli iscritti che hanno optato per ricevere messaggi in testo semplice riceveranno una email due volte l’anno per confermare la continuazione dell’abbonamento. Tali email possono anche contenere codice HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Molte delle nostre comunicazioni sono correlate a un account per il quale ti sei registrato, come l’account Firefox, di { -brand-name-mdn-web-docs } o quello per sviluppatori di componenti aggiuntivi. Per gestire uno dei tuoi account o vedere la lista completa visita la nostra <a href="{ $url }">pagina di supporto gestione degli account</a>.
+newsletters-many-of-our-communications = Molte delle nostre comunicazioni sono correlate a un account per il quale ti sei registrato, come { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } o quello per sviluppatori di componenti aggiuntivi. Per gestire uno dei tuoi account o vedere la lista completa visita la nostra <a href="{ $url }">pagina di supporto gestione degli account</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Per accedere a tutto il mondo di prodotti, conoscenze e servizi { -brand-name-firefox } con un solo account, unisciti a noi! Scopri di più sui vantaggi <a href="{ $url }">qui</a>.
@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = I contenuti non mi interessavano.
 newsletters-your-email-design = Il design delle email era troppo difficile da leggere.
 newsletters-i-didnt-sign-up = Non ho mai chiesto di ricevere queste email.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Questo indirizzo email non è presente nel nostro database. Controlla di averlo digitato correttamente o utilizzalo per <a href="{ $url }">iscriverti alle nostre newsletter</a>.
 newsletters-im-keeping-in-touch = Preferisco seguire { -brand-name-mozilla } su { -brand-name-facebook } e { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -111,6 +111,18 @@ newsletters-sign-up-read-up-make-a-difference = Iscriviti. Leggi.<br/>Fai la dif
 newsletters-get-smart-on-the-issues = Informati sulle questioni che influenzano la tua vita online.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Iscriviti alla newsletter { -brand-name-mozilla } per rimanere aggiornato sui rischi che corre Internet e sulle occasioni per collaborare con noi.
+newsletters-your-email-preferences = Le tue preferenze per le email sono state aggiornate correttamente.
+newsletters-consider-it-done = Consideralo fatto
+newsletters-back-to-email-preferences = Torna alle preferenze per le email
+newsletters-here-are-a-few-things = Ecco alcuni argomenti che potrebbero interessarti, mentre attendi il prossimo numero della newsletter.
+newsletters-take-your-privacy = La tua privacy, sempre con te
+newsletters-travel-the-internet = Naviga in Internet protetto su tutti i tuoi dispositivi.
+newsletters-download-the-app = Scarica l’app
+newsletters-check-for-data-breaches = Cerca nelle violazioni dati
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } è un servizio gratuito che ti permette di scoprire se sei stato coinvolto in una violazione di dati online.
+newsletters-sign-in-to-monitor = Accedi a { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Scopri il nostro marchio principale
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l'organizzazione senza fini di lucro che sostiene { -brand-name-firefox }, antepone le persone al profitto in tutto ciò che diciamo, creiamo e facciamo.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = About Standards
 # Name for the newsletter in Newsletter subscription page
@@ -127,8 +139,12 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } for desktop
 newsletters-dont-miss-the-latest = Non perdere alcun annuncio riguardante il nostro browser desktop.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Collabora
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Approfondimenti
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } pubblica articoli e analisi su affidabilità dell’intelligenza artificiale e “problemi di salute” di Internet, come il Rapporto annuale sullo stato di salute di Internet.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Rimani aggiornato con la nostra raccolta annuale di ricerche e storie degli utenti sui temi di privacy e sicurezza, apertura, inclusione digitale, decentramento e alfabetizzazione web.
 # Name for the newsletter in Newsletter subscription page
@@ -188,7 +204,7 @@ newsletters-download-firefox-for-mobile = Scarica { -brand-name-firefox } per di
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } Tips
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Ottieni il massimo dal tuo account Firefox.
+newsletters-get-the-most-firefox-account = Ottieni il massimo dal tuo { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
@@ -253,3 +269,5 @@ newsletters-were-building-the-technology = Costruiamo la tecnologia della futuro
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Annunci esclusivi per ottenere il massimo dalla piattaforma { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

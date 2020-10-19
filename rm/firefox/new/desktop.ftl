@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Telechargia { -brand-name-firefox-browser } — svelt, privat & gratuit — da { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Va per { -brand-name-firefox }, il navigatur gratuit per il web, da { -brand-name-mozilla }, ina organisaziun senza finamira da profit che sa deditgescha ad in internet saun che respecta la protecziun da datas. Disponibel per { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 firefox-desktop-download-og-title = Telechargia il pli svelt { -brand-name-firefox } da tuts
+firefox-desktop-download-og-desc = Paginas che chargian pli spert, in consum da memoria reducì e novas funcziuns: Il nov { -brand-name-firefox } è qua.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

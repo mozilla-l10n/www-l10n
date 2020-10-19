@@ -7,6 +7,8 @@
 
 # HTML page title
 opt-out-confirmation-cool-we-hear = Rendben, értjük.
+# HTML page descripiton
+opt-out-confirmation-youre-now-opted = Most leiratkozott a fiókja beállításával kapcsolatos e-mailekről.
 # Field of a form
 opt-out-confirmation-your-email = E-mail-cím:
 # Only localize "yourname". Do not touch @example.com.

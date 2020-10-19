@@ -114,11 +114,15 @@ newsletters-get-the-mozilla-newsletter = Kapja meg a { -brand-name-mozilla } hí
 newsletters-your-email-preferences = Az e-mail beállítások sikeresen frissítve.
 newsletters-consider-it-done = Tekintse elintézettnek
 newsletters-back-to-email-preferences = Vissza az e-mail beállításokhoz
+newsletters-here-are-a-few-things = Íme néhány dolog, amibe belemélyedhet, amíg a következő e-mailre vár.
 newsletters-take-your-privacy = Vigye magával az adatvédelmet
 newsletters-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
 newsletters-download-the-app = Alkalmazás letöltése
 newsletters-check-for-data-breaches = Adatsértések keresése
+newsletters-firefox-monitor-is-a-free = A { -brand-name-firefox-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy lássa, szerepelt-e online adatsértésben.
 newsletters-sign-in-to-monitor = Jelentkezzen be a { -brand-name-monitor }ba
+newsletters-meet-our-parent-brand = Ismerje meg szülőmárkánkat
+newsletters-mozilla-the-non-for-profit = A { -brand-name-mozilla }, a { -brand-name-firefox } mögött álló nonprofit szervezet, amely az embereket helyezi a profit elé mindenben, amit mondunk, építünk és csinálunk.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Szabványokról
 # Name for the newsletter in Newsletter subscription page
@@ -139,6 +143,8 @@ newsletters-get-involved = Csatlakozzon
 newsletters-insights = Elemzések
 # Obsolete string
 newsletters-internet-health-report = Internetes egészségi jelentés
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = A { -brand-name-mozilla } cikkeket és mélyreható elemzéseket végez az internet egészségéről szóló problémákról és a megbízható MI-ről, ideértve az éves Internet egészsége jelentésünket is.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Tartson lépést az éves adatvédelemmel és -biztonsággal, nyíltsággal, digitális bevonással, decentralizálással és webes írástudással kapcsolatos kutatási és történeti összeállításunkkal.
 # Name for the newsletter in Newsletter subscription page

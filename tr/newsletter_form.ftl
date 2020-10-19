@@ -28,3 +28,6 @@ newsletter-form-select-country = Ülkenizi seçin
 newsletter-form-sign-me-up = Kaydol
 newsletter-form-sign-up-now = Kaydol
 newsletter-form-thanks = Teşekkürler!
+newsletter-form-leave-this-field-empty = Bu alanı boş bırakın.
+newsletter-form-yes = Evet
+newsletter-form-no = Hayır

@@ -22,6 +22,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Da
 firefox-desktop-download-no = Ne
 firefox-desktop-download-blocks-third-party = Zavračanje sledilnih piškotkov tretjih strani
+firefox-desktop-download-blocks-third-party-default = Privzeto zavrača sledilne piškotke tretjih strani
 firefox-desktop-download-autoplay-blocking = Zavračanje samodejnega predvajanja
 firefox-desktop-download-blocks-social-trackers = Zavračanje sledilcev družbenih omrežij
 # OS is short for "Operating System"

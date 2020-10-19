@@ -41,8 +41,11 @@ compare-shared-security-and-privacy-strong = Jikomal chuqa' <strong>Ichinanem</s
 compare-shared-utility-strong = <strong>Rokisaxik:</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>K'wayel:</strong>
+compare-shared-overall-assessment = Chi jun Tojtob'enïk
+compare-shared-the-comparisons-made-here-updated = Ri taq junamaxïk xeb'an wawe', xeb'an rik'in ri kinuk'ulem kik'amon pe chuqa' ri taq ruwäch xe'elesäx pe richin ri okik'amaya'l ke re':
 # Obsolete string
 compare-shared-the-comparisons-made-here = Richin xb'an ri junamaxïk wawe', xetz'et ri ruwäch kichin relik ruwinaq okik'amaya'l ke re':
+compare-shared-this-page-updated-semi-quarterly = Re ruxaq nik'ëx pa taq ik' rik'in nik'aj richin yek'ut ri ruk'isib'äl taq ruwäch po rik'in jub'a' man jutaqil ta nuk'üt ri ruk'isib'äl taq ruwäch.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -56,3 +59,4 @@ compare-shared-download-the-app = Tiqasäx ri app
 compare-shared-desktop = Ajkematz'ib'
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
+compare-shared-compare-browsers = Kejunamäx taq Okik'amaya'l

@@ -44,7 +44,7 @@ newsletters-format = Формат:
 newsletters-text-subscribers-will-receive = Подписчики на текстовые подписки будут получать по электронной почте два раза в год письма для подтверждения продолжения подписки. Эти письма могут включать в себя HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Большинство наших сообщений относятся к зарегистрированном аккаунтам, например, Аккаунту Firefox, аккаунту на сайте веб-документации MDN или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
+newsletters-many-of-our-communications = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-firefox-accounts(case: "nominative_uppercase") }, аккаунту на сайте { -brand-name-mdn-web-docs } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Чтобы получить доступ к целому миру продуктов, знаний и сервисов { -brand-name-firefox } с помощью одного аккаунта, присоединитесь к нам! Узнайте больше о преимуществах <a href="{ $url }">здесь</a>.
@@ -100,9 +100,9 @@ newsletters-your-content-wasnt-relevant = Содержимое писем был
 newsletters-your-email-design = Стиль изложения ваших писем слишком трудный для чтения.
 newsletters-i-didnt-sign-up = Я на это не подписывался.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = В базе данных нет этого адреса. Пожалуйста, проверьте свой адрес или <a href="{ $url }">подпишитесь на наши рассылки.</a>
-newsletters-im-keeping-in-touch = Я на связи с { -brand-name-mozilla } через Фейсбук и Твиттер.
+newsletters-im-keeping-in-touch = Я на связи с { -brand-name-mozilla } через { -brand-name-facebook } и { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Подпишитесь, читайте,<br> будьте в курсе.
 # Obsolete string
@@ -111,6 +111,15 @@ newsletters-sign-up-read-up-make-a-difference = Подпишитесь. Чита
 newsletters-get-smart-on-the-issues = Будьте в курсе событий, затрагивающих вашу жизнь в Интернете.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Получайте новостную рассылку { -brand-name-mozilla }, чтобы быть в курсе проблем, затрагивающих здоровье Интернета, и узнавайте, как вы можете принять участие.
+newsletters-your-email-preferences = Ваши настройки электронной почты были успешно обновлены.
+newsletters-consider-it-done = Считайте что это сделано
+newsletters-back-to-email-preferences = Вернуться к настройкам электронной почты
+newsletters-here-are-a-few-things = Вот несколько вещей, на которые стоит обратить внимание, пока вы ждёте следующего письма.
+newsletters-take-your-privacy = Возьмите свою приватность с собой
+newsletters-travel-the-internet = Путешествуйте по Интернету с защитой на всех ваших устройствах.
+newsletters-download-the-app = Загрузить приложение
+newsletters-check-for-data-breaches = Проверить на утечки данных
+newsletters-sign-in-to-monitor = Войти в { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = О стандартах
 # Name for the newsletter in Newsletter subscription page
@@ -174,7 +183,7 @@ newsletters-a-monthly-newsletter-ambassadors = Ежемесячная новос
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
-newsletters-beta-news = Новости о бета-версии
+newsletters-beta-news = Новости о { -brand-name-beta }
 # Description for the newsletter in Newsletter subscription page (Beta News)
 newsletters-read-about-the-latest-features = Читайте о новых возможностях браузера { -brand-name-firefox } до финального релиза.
 # Name for the newsletter in Newsletter subscription page
@@ -186,9 +195,9 @@ newsletters-download-firefox-for-ios = Загрузить { -brand-name-firefox 
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Загрузите { -brand-name-firefox } для мобильных устройств
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Учетная запись Firefox. Полезные советы
+newsletters-firefox-accounts-tips = Советы по { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Возьмите максимум от своего аккаунта Firefox!
+newsletters-get-the-most-firefox-account = Возьмите максимум от своего { -brand-name-firefox-account(case: "genitive") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
@@ -202,7 +211,7 @@ newsletters-firefox-os-smartphone-owner = Владеете смартфоном 
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 newsletters-dont-miss-important-news = Не пропустите важные новости и обновления для вашего устройства на { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-os-and-you = Firefox и Вы
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } и Вы
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 newsletters-a-monthly-newsletter-and-special = Ежемесячная новостная рассылка и объявления, помогающие получить максимум от вашего устройства { -brand-name-firefox-os }, а также содержащие обзоры последних функций и крутых приложений на { -brand-name-firefox-marketplace }.
 # Name for the newsletter in Newsletter subscription page
@@ -230,7 +239,7 @@ newsletters-firefox-news = Новости { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
 newsletters-get-how-tos = Получайте руководства, новости и советы о том, как сделать вашу работу с { -brand-name-firefox } максимально комфортной.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-festival = Фестиваль Mozilla
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla = Анонс ежегодного интерактивного фестиваля { -brand-name-mozilla }, который посвящен формированию будущего открытого Интернета.
 # Name for the newsletter in Newsletter subscription page
@@ -246,10 +255,12 @@ newsletters-mozilla-learning-network = Сеть обучения { -brand-name-m
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = Новости нашего сообщества, помогающего людям освоить наиболее важные навыки нашего времени: умение читать, писать и работать в цифровом мире.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = Лаборатория Mozilla
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
 newsletters-were-building-the-technology = Мы создаём технологии будущего. Давайте исследовать вместе.
 # Name for the newsletter in Newsletter subscription page
-newsletters-webmaker = Вебмейкер
+newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
-newsletters-special-announcements-helping-you = Специальные оповещения, которые помогут вам получить максимальную пользу от Вебмейкера.
+newsletters-special-announcements-helping-you = Специальные оповещения, которые помогут вам получить максимальную пользу от { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

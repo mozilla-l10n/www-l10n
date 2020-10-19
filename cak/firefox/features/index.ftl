@@ -21,3 +21,6 @@ features-index-read-our-privacy-policy = Tasik'ij ri runa'ojil qichinanem
 features-index-enhanced-tracking = Utzirisan Chajinïk chuwäch ojqanem
 features-index-we-dont-sell-access-to-your = Man nik'ayij ta richin ye'ok chupam ri taq atzij pa k'amab'ey. Ruq'ijul.
 features-index-get-firefox-for-privacy = Tak'ulu' { -brand-name-firefox } richin ichinanem
+features-index-firefox-vs = { -brand-name-firefox } kik'in ch'aqa' chik taq okik'amaya'l
+features-index-compare-browsers = Kejunamäx taq okik'amaya'l
+features-index-download-latest = Taqasaj ri ruk'isib'äl { -brand-name-firefox }

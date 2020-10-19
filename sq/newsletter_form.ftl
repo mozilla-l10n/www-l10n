@@ -28,3 +28,6 @@ newsletter-form-select-country = Përzgjidhni vendin
 newsletter-form-sign-me-up = Regjistromëni
 newsletter-form-sign-up-now = Regjistrohuni Tani
 newsletter-form-thanks = Faleminderit!
+newsletter-form-leave-this-field-empty = Lëreni të zbrazët këtë fushë.
+newsletter-form-yes = Po
+newsletter-form-no = Jo

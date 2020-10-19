@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Hent kun browseren
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">udgiver ikke længere sikkerhedsopdateringer</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan stadig bruge { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Du bruger et usikkert og forældet styresystem, <a href="{ $url }">der ikke længere understøttes af { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,15 @@ firefox-new-its-privacy-and-peace-of = Det er <strong>beskyttelse af privatlivet
 firefox-new-its-a-family-of-products = Det er <strong>en familie af produkter</strong>, der behandler dine personlige data med respekt.
 firefox-new-its-everything-you-need-to = Det er alt, du har brug for at vide om at <strong>være sikker på nettet</strong>.
 firefox-new-its-a-community-that-believes = Det er <strong>et fællesskab</strong>, der tror på at teknik kan forbedre verden.
+firefox-new-download-interrupted = Hentning af din fil blev afbrudt. Men alt er ikke tabt.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Følg <a href="{ $url }">denne vejledning</a> for at installere { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Dit system opfylder måske ikke kravene til { -brand-name-firefox }, men du kan prøve en af <a href="{ $url }">disse versioner</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Hvis du ser en meddelelse om, at appen du er ved at installere, ikke er en { -brand-name-microsoft }-bekræftet app, så klik på "Installer alligevel", eller <a { $attrs }>skift indstillinger for appanbefalinger</a>.
+firefox-new-visit-support-for-more = Besøg Support for flere detaljer

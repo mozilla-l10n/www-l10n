@@ -9,6 +9,8 @@
 newsletters-newsletter-subscriptions = Συνδρομές δελτίων ειδήσεων
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Ενημερωτικό δελτίο { -brand-name-mozilla }
+# Headline for https://www-dev.allizom.org/newsletter/
+newsletters-read-all-about-it-in-our-newsletter = Διαβάστε περισσότερα στο <span>newsletter</span> μας
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Επιβεβαίωση ενημερωτικού δελτίου
 newsletters-thanks-for-subscribing = Σας ευχαριστούμε για την εγγραφή σας!
@@ -25,6 +27,8 @@ newsletters-language = Γλώσσα:
 newsletters-format = Μορφή:
 newsletters-subscribe = Εγγραφή
 newsletters-save-preferences = Αποθήκευση προτιμήσεων
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = Ανάκτηση email ενημερωτικού δελτίου
 newsletters-send-me-a-link = Αποστολή συνδέσμου
 newsletters-youve-been-unsubscribed = Έχετε καταργήσει την εγγραφή σας.
 newsletters-were-sorry-to-see-you-go = Λυπούμαστε που αποχωρείτε.
@@ -38,6 +42,7 @@ newsletters-about-us = Σχετικά με εμάς
 newsletters-were-glad-you-asked = Χαιρόμαστε που ρωτήσατε!
 newsletters-you-send-too-many-emails = Στέλνετε πάρα πολλά email.
 newsletters-i-didnt-sign-up = Δεν είχα κάνει εγγραφή.
+newsletters-back-to-email-preferences = Πίσω στις προτιμήσεις email
 newsletters-download-the-app = Λήψη εφαρμογής
 newsletters-check-for-data-breaches = Έλεγχος για παραβιάσεις δεδομένων
 newsletters-sign-in-to-monitor = Σύνδεση στο { -brand-name-monitor }
@@ -53,6 +58,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } για υπολογι�
 newsletters-get-involved = Συμμετοχή
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Η γνώση είναι δύναμη
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Σχετικά με το Labs
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Υπολογιστές
 # Name for the newsletter in Newsletter subscription page
@@ -88,6 +95,8 @@ newsletters-firefox-weekly-tips = Εβδομαδιαίες συμβουλές { 
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Συμμετοχή στη { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
@@ -99,6 +108,8 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 newsletters-mozilla-news = Ειδήσεις { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Name for the newsletter in Newsletter subscription page

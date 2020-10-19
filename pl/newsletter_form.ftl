@@ -28,3 +28,6 @@ newsletter-form-select-country = Wybierz państwo
 newsletter-form-sign-me-up = Zapisz się
 newsletter-form-sign-up-now = Zapisz się
 newsletter-form-thanks = Dziękujemy!
+newsletter-form-leave-this-field-empty = Pozostaw to pole puste.
+newsletter-form-yes = Tak
+newsletter-form-no = Nie

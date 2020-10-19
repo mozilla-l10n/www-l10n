@@ -28,3 +28,6 @@ newsletter-form-select-country = Fren tamurt
 newsletter-form-sign-me-up = Jerred
 newsletter-form-sign-up-now = Kcem tura
 newsletter-form-thanks = Tanemmirt!
+newsletter-form-leave-this-field-empty = Eǧǧ urti-a d ilem.
+newsletter-form-yes = Ih
+newsletter-form-no = Uhu

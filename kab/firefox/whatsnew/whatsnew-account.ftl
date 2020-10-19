@@ -14,6 +14,7 @@ whatsnew-account-main-button = Kcem
 
 ##
 
+whatsnew-account-signed-in-headline = Eg ugar . Seqdec { -brand-name-firefox } i uziraz.
 whatsnew-account-signed-in-lead-in = Azen aseɣwen n usader ɣer tiliɣri-inek·inem.
 whatsnew-account-signed-in-qr-title = Sader { -brand-name-firefox } ɣer tiliɣri-inek·inem tuḥrict neɣ tafelwit-inek·inem n uselkem.
 # An accessible label for a QR code image

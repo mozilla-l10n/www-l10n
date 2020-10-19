@@ -113,11 +113,15 @@ newsletters-get-smart-on-the-issues = Word expert in zaken die uw onlineleven be
 newsletters-get-the-mozilla-newsletter = Ontvang de { -brand-name-mozilla }-nieuwsbrief en blijf geïnformeerd over zaken die een uitdaging zijn voor een gezond internet, en hoe u kunt meewerken.
 newsletters-your-email-preferences = Uw e-mailvoorkeuren zijn met succes bijgewerkt.
 newsletters-back-to-email-preferences = Terug naar e-mailvoorkeuren
+newsletters-here-are-a-few-things = Hier zijn een paar zaken om u in te verdiepen, terwijl u op uw volgende e-mailbericht wacht.
 newsletters-take-your-privacy = Neem uw privacy mee
 newsletters-travel-the-internet = Reis beschermd op het internet, op al uw apparaten.
 newsletters-download-the-app = De app downloaden
 newsletters-check-for-data-breaches = Controleren op datalekken
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } is een gratis service, waarmee u kunt zien of u getroffen bent door een online datalek.
 newsletters-sign-in-to-monitor = Aanmelden bij { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Maak kennis met ons moedermerk
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, de non-profit achter { -brand-name-firefox }, plaatst in alles wat we zeggen, bouwen en doen mensen boven winst.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Over standaarden
 # Name for the newsletter in Newsletter subscription page
@@ -134,8 +138,12 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } voor desktop
 newsletters-dont-miss-the-latest = Mis geen laatste aankondigingen over onze desktopbrowser.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Meewerken
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publiceert artikelen en verdiepende stukken over kwesties rondom internetgezondheid en betrouwbare AI, waaronder ons jaarlijkse Internetgezondheidsrapport.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Blijf op de hoogte met onze jaarlijkse samenvatting van onderzoek en verhalen op het gebied van privacy en beveiliging, openheid, digitale inclusiviteit, decentralisatie en webgeletterdheid.
 # Name for the newsletter in Newsletter subscription page

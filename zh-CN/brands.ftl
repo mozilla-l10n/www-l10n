@@ -90,7 +90,7 @@
 -brand-name-mozilla-developer-network = Mozilla 开发者网络
 -brand-name-mozilla-festival = Mozilla 盛会
 -brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = Mozilla 实验室
+-brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web 文档
 -brand-name-thunderbird = Thunderbird

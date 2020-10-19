@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Λήψη του { -brand-name-firefox-browser } — Γρήγορο, ιδιωτικό & δωρεάν — από τη { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Αποκτήστε το { -brand-name-firefox }, ένα δωρεάν πρόγραμμα περιήγησης από τη { -brand-name-mozilla }, μια μη κερδοσκοπική οργάνωση αφιερωμένη στην υγεία και το απόρρητο του διαδικτύου. Διαθέσιμο σε { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } και { -brand-name-ios }.
 firefox-desktop-download-og-title = Κάντε λήψη του πιο γρήγορου { -brand-name-firefox }
 firefox-desktop-download-og-desc = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } είναι εδώ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -114,6 +115,7 @@ firefox-desktop-download-from-watching-a = Από οδηγούς εκμάθησ�
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Κάντε λήψη του { -brand-name-firefox } για κινητά, με αυτόματη προστασία σε όλες τις συσκευές σας.
 firefox-desktop-download-learn-about-the = Μάθετε για το { -brand-name-firefox } για υπολογιστές παρακάτω
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
@@ -139,6 +141,7 @@ firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Έχετε ήδη το πρόγραμμα περιήγησης. Ωφεληθείτε ακόμη περισσότερο από το { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Προστατευτείτε από hackers με το { -brand-name-firefox-monitor }, φυλάξτε τους κωδικούς πρόσβασης με το { -brand-name-firefox-lockwise } και πολλά άλλα.
 firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
 
@@ -156,6 +159,9 @@ firefox-desktop-download-now-mac = <strong>Ανοίξτε</strong> το αρχε
 firefox-desktop-download-get-help = Έχετε προβλήματα; <a { $attrs }>Λάβετε βοήθεια με την εγκατάστασή σας</a>.
 firefox-desktop-download-in-another-language = Λήψη σε άλλη γλώσσα ή για άλλο λειτουργικό σύστημα.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Αν δείτε ένα μήνυμα που δηλώνει ότι η εφαρμογή που προσπαθείτε να εγκαταστήσετε δεν είναι επαληθευμένη από τη { -brand-name-microsoft }, κάντε κλικ στο “Εγκατάσταση” ή <a { $attrs }>αλλάξτε τις ρυθμίσεις προτάσεων εφαρμογών</a>.
 firefox-desktop-download-visit-support-for-more = Επισκεφτείτε την Υποστήριξη για περισσότερες λεπτομέρειες
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

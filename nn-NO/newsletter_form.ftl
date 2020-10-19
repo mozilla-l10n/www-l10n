@@ -28,3 +28,5 @@ newsletter-form-select-country = Vel land
 newsletter-form-sign-me-up = Abonner
 newsletter-form-sign-up-now = Registrer deg no
 newsletter-form-thanks = Takk!
+newsletter-form-yes = Ja
+newsletter-form-no = Nei
