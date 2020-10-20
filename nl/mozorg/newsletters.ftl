@@ -112,6 +112,7 @@ newsletters-get-smart-on-the-issues = Word expert in zaken die uw onlineleven be
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Ontvang de { -brand-name-mozilla }-nieuwsbrief en blijf geïnformeerd over zaken die een uitdaging zijn voor een gezond internet, en hoe u kunt meewerken.
 newsletters-your-email-preferences = Uw e-mailvoorkeuren zijn met succes bijgewerkt.
+newsletters-consider-it-done = Zo goed als gereed
 newsletters-back-to-email-preferences = Terug naar e-mailvoorkeuren
 newsletters-here-are-a-few-things = Hier zijn een paar zaken om u in te verdiepen, terwijl u op uw volgende e-mailbericht wacht.
 newsletters-take-your-privacy = Neem uw privacy mee
