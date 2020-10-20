@@ -18,6 +18,8 @@ whatsnew79-secure-your-connection = Tajikib'a' ri awokem
 whatsnew79-with-one-tap-mozilla-vpn = Rik'in jun tzeq', { -brand-name-mozilla-vpn } nrewaj rusik'ixik ri awokem richin nichinäx ri asamaj pa k'amab'ey pa xab'achike jikïl — k'amab'ey chi kiwa ajjak chuqa' juley itzel taq tz'etoj.
 # CTA link
 whatsnew79-get-started = Titikirisäx
+whatsnew79-get-more-control-over = Ke'achajij ri ojqanela'
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } man nuya' ta q'ij chi ch'aqa' chik taq eltzijonela' chuqa' ojqanela' yatkojqaj.
 # CTA link
 whatsnew79-see-your-report = Titz'et Atzijol
 whatsnew79-update-your-firefox = Tak'exa' ruwäch { -brand-name-firefox } okik'amaya'l
