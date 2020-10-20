@@ -16,7 +16,7 @@ firefox-accounts-securely-sync-your = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਬ
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਬਣਾਈ ਰੱਖਣ ਦਾ ਢੰਗ। <span>{ -brand-name-firefox } ਨਾਲ ਜੁੜੋ।</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
-firefox-accounts-take-your-stand-against = ਐਸੇ ਉਦਯੋਗ ਦੇ ਖ਼ਿਲਾਫ਼ ਡੱਟ ਜਾਓ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਉਤਪਾਦ ਬਣਾਉਂਦੀ ਹੈ।
+firefox-accounts-take-your-stand-against = ਐਸੇ ਉਦਯੋਗ ਦੇ ਖ਼ਿਲਾਫ਼ ਡੱਟ ਜਾਓ, ਜੋ ਤੁਹਾਨੂੰ ਉਤਪਾਦ ਬਣਾਉਂਦੀ ਹੈ।
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = ਤੁਸੀਂ <br>{ -brand-name-firefox } ਵਿਚ ਸਾਈਨ<br> ਇਨ ਹੋ। <span>ਹੁਣ { -brand-name-firefox-monitor } ਨੂੰ ਅਜ਼ਮਾਓ।</span>
 firefox-accounts-see-if-youve-been = ਵੇਖੋ ਕਿ ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਆਨਲਾਈਨ ਡਾਟਾ ਸੰਨ੍ਹ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਚੁੱਕੇ ਹੋ।
