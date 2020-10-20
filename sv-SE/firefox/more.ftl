@@ -29,6 +29,7 @@ easy-migration-of = Enkel migrering av inställningar och bokmärken när du hä
 firefox-respects-your = { -brand-name-firefox } respekterar din integritet på { -brand-name-mac-short }.
 firefox-doesnt-spy = { -brand-name-firefox } spionerar inte på sökningar. Vi stoppar kända spårningskakor från tredje part och ger dig full kontroll.
 firefox-for-linux = { -brand-name-firefox } för { -brand-name-linux }
+new-school-meets = Ny skolan möter gamla skolan med den snabbaste webbläsaren hittills.
 firefox-for-windows = 64-bitars { -brand-name-firefox } för { -brand-name-windows }
 we-worry-about = Vi oroar oss för din datasäkerhet så att inte du behöver.
 seven-of-the = Sju av de bästa webbläsarna i direkt jämförelse
