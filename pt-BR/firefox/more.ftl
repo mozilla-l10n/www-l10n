@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Os produtos { -brand-name-firefox } são projetados para proteger sua privacidade
+learn-more-about = Saiba mais sobre os navegadores e produtos { -brand-name-firefox }, que tratam seus dados com respeito e são desenvolvidos com foco em privacidade onde quer que você acesse online.
 learn-more = Saiba mais
 the-history-of = A história dos navegadores web
 firefox-has-been = O { -brand-name-firefox } está aí desde quase o início.
