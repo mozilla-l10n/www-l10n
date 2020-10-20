@@ -12,3 +12,5 @@ the-history-of = La historia de los navegadores web
 firefox-has-been = { -brand-name-firefox } ha estado ahí desde casi el principio.
 firefox-rebel-with = { -brand-name-firefox }: Rebelde con causa
 what-is-a = ¿Qué es un navegador web?
+new-school-meets = La nueva escuela se encuentra con la vieja escuela con el navegador más rápido a la fecha.
+firefox-for-windows = { -brand-name-firefox } para { -brand-name-windows } 64-bit
