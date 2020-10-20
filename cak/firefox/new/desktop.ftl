@@ -121,6 +121,12 @@ firefox-desktop-download-learn-about-the = Tetamäx chi rij ri { -brand-name-fir
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Rik'in ri jikomal chuqa' ri taq rutzijol chuqa' ri taq etz'anem k'o jun <a { $attrs }>ruk'amal ronojel</a>. Ke'atz'aqatisaj ronojel ri nawajo' pan awokik'amaya'l k'a jampe' jeb'ël ok chawäch.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } xnuk' ruma <a { $attrs }>{ -brand-name-mozilla }</a> achi'el jun retal anin chuqa' ichinan okik'amaya'l chi kiwa ri { -brand-name-ie }, wakami chuqa' ri { -brand-name-chrome }. Wakami, ri molaj qato'onela' chuqa' ajk'ayij moloj toq nikitz'ët ri qarayib'al nikiya' rejqalem ri awichinanem.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Rik'in ri nik'ïy chuqa' nijalatäj ri k'amaya'l, { -brand-name-firefox } nuya' retal ri ach'ojib'al chi rij ri awichinanem  — niqab'ij ri <a { $attrs }>Ya'oj Qatzij Chi Rij Qatzij</a>: Jub'a' numöl. Jeb'ël nuchajij. Majun ewäl. Ri atzij, asamaj pa ajk'amaya'l, ri ak'aslem pa k'amab'ey yechajïx rik'in { -brand-name-firefox }.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
