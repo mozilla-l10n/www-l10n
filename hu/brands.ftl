@@ -132,7 +132,11 @@
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
--brand-name-opera = Opera
+-brand-name-opera =
+    { $ending ->
+       *[normal] Opera
+        [accented] Operá
+    }
 -brand-name-safari = Safari
 
 ## Platforms

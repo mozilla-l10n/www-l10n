@@ -9,6 +9,7 @@
 opt-out-confirmation-cool-we-hear = Rendben, értjük.
 # HTML page descripiton
 opt-out-confirmation-youre-now-opted = Most leiratkozott a fiókja beállításával kapcsolatos e-mailekről.
+opt-out-confirmation-youll-continue = Továbbra is meg fogja kapni azokat az e-maileket, amikre fel van iratkozva, más, a fiókját érintő fontos frissítéssel együtt. Ahhoz, hogy a feliratkozásait kezelje, írja be az e-mail címét lentebb – meg kell győződnünk arról, hogy a megfelelő emberrel beszélünk.
 # Field of a form
 opt-out-confirmation-your-email = E-mail-cím:
 # Only localize "yourname". Do not touch @example.com.
