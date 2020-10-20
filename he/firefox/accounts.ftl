@@ -30,6 +30,7 @@ firefox-accounts-get-the-respect-you = קבלו את הכבוד שמגיע לכ�
 firefox-accounts-youll-always-get-the = תמיד תקבלו מאיתנו את האמת. כל מה שאנחנו עושים ומייצרים מכבד את <a href="{ $promise }">הבטחתנו בנוגע לנתונים אישיים</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = לקחת פחות.<br> להגן בקפידה.<br> ללא סודות.
+firefox-accounts-and-be-part-of-protecting = ולקחת חלק בהגנה על האינטרנט למען דורות העתיד.
 firefox-accounts-help-us-build-a-better = עזרו לנו לבנות { -brand-name-firefox } טוב יותר עבור כולם.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
