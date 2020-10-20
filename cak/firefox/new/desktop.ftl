@@ -159,6 +159,13 @@ firefox-desktop-download-now-mac = Wakami <strong>tajaqa'</strong> ri yakb'äl x
 firefox-desktop-download-get-help = ¿La k'o ak'ayewal? <a { $attrs }>Tak'ulu' ato'ik rik'in ri ayakoj</a>.
 firefox-desktop-download-in-another-language = Taqasaj pa jun chik ch'ab'äl o richin jun chik samajel q'inoj.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = We natz'ët jun rutzijol akuchi' nub'ij chi ri chokoy nayäk man jikib'an ta ruma ri { -brand-name-microsoft }, tapitz'a' “Kan tiyak” o pa <a { $attrs }>tijal ri ruchilab'exik runuk'ulem chokoy</a>.
+firefox-desktop-download-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aqa' Rub'anikil
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">man nikisüj ta chik kik'exoj jikomal</a> pa { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, k'a yatikïr nawokisaj { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -168,6 +175,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Nawokisaj jun ojer c
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ruyonil xtutikirisaj ri aqasanik. ¿La man nub'än ta? <a id="{ $id }" href="{ $fallback_url }">Titojtob'ëx niqasäx chik.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } man choj ta jun okik'amaya'l.
+firefox-desktop-download-interrupted = Xq'at ri aqasanik. Man ronojel ta sachel.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Tab'ana' utzil ke'awoqaj <a href="{ $url }">re taq k'utunem</a> richin niyak ri { -brand-name-firefox }.
