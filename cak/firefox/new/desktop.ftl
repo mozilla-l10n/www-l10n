@@ -117,6 +117,10 @@ firefox-desktop-download-get-firefox-android = Tik'ul { -brand-name-firefox-brow
 firefox-desktop-download-get-firefox-ios = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Taqasaj ri { -brand-name-firefox } oyonib'äl okik'amaya'l richin ruyon yachajïx pa ronojel taq awokisab'al.
 firefox-desktop-download-learn-about-the = Tetamäx chi rij ri { -brand-name-firefox } ajch'atal okik'amaya'l
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Rik'in ri jikomal chuqa' ri taq rutzijol chuqa' ri taq etz'anem k'o jun <a { $attrs }>ruk'amal ronojel</a>. Ke'atz'aqatisaj ronojel ri nawajo' pan awokik'amaya'l k'a jampe' jeb'ël ok chawäch.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
