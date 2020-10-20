@@ -28,3 +28,6 @@ newsletter-form-select-country = Wubjeŕśo kraj
 newsletter-form-sign-me-up = Registrěrowaś
 newsletter-form-sign-up-now = Registrěrujśo se něnto
 newsletter-form-thanks = Wjeliki źěk!
+newsletter-form-leave-this-field-empty = Wóstajśo pólo prozne.
+newsletter-form-yes = Jo
+newsletter-form-no = Ně
