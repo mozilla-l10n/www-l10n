@@ -15,6 +15,7 @@ firefox-is-independent = { -brand-name-firefox } 是独立自主的浏览器，�
 what-is-a = 网页浏览器是什么？
 a-web-browser = 网页浏览器能将您带到互联网上的任何地方，随时随地浏览文本、图像和视频。
 update-your-browser = 升级使用快速、安全且安心的 { -brand-name-firefox } 浏览器。
+the-firefox-browser = { -brand-name-firefox } 浏览器以时刻保护您的隐私为目标而构建 — 因为这是让您摆脱加载缓慢、恼人广告和跟踪器的最快方法。
 firefox-is-more = { -brand-name-firefox } 不只是浏览器
 its-a-lightning = 这是通向最佳 Web 体验的闪电之门。
 get-the-browsers = 我们的浏览器视隐私为先—这是不变的承诺
