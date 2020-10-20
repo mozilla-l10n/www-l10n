@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } tob'�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Kasamäj pa k'amab'ey. <br> { -brand-name-firefox-browser } <strong> man </strong> yatrutz'ët ta.
 firefox-desktop-download-how-firefox-compares = Achike rub'eyal { -brand-name-firefox } nujunamaj ri' kik'in ch'aqa' chik okik'amaya'l
+firefox-desktop-download-get-all-the-speed = Ke'ak'ulu' ronojel ri anin chuqa' taq samajib'äl akuchi' majun niq'eleb'ëx ri awichinanem. { -brand-name-firefox-browser } jub'a' taq tzij yerumöl chawij akuchi' ni xa ta niqak'utuj ri rochochib'al ataqoya'l richin naqasaj. Re re' ruma chi jun wi chi kiwa ri ch'aqa' taq okik'amaya'l, akuchi' majun qojqan pwäq richin yatqojqaj pa k'amab'ey.
 firefox-desktop-download-how-we-compare = Achike rub'eyal niqajunamaj qi' kik'in ch'aqa' chik okik'amaya'l
 firefox-desktop-download-compare-firefox-to = Tajunamaj { -brand-name-firefox } rik'in:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -40,8 +41,10 @@ firefox-desktop-download-primary-password = Nab'ey ewan tzij
 # Obsolete string
 firefox-desktop-download-master-password = Ajtij ewan tzij
 firefox-desktop-download-we-block-the-ad = Yeqaq'ät ojqanela'. Ruma ri' anin ri k'amaya'l.
+firefox-desktop-download-ads-are-distracting = Ri eltzijol nuk'äm atzub'al chuqa' nub'än eqal richin yesamajïx ri taq ruxaq, chi ri' toq ri rojqanela' nikitz'ët ronojel ri nab'än pa k'amab'ey. Ri { -brand-name-firefox-browser } ruyonil yeruq'ät konojel ri ojqanela', ruma ri' man k'atzinel ta nakanoj rub'eyal pa ri runuk'ulem jikomal.
 firefox-desktop-download-see-your-report = Tatz'eta' ri rutzijol achajinik
 firefox-desktop-download-for-everyone = { -brand-name-firefox } qichin qonojel
+firefox-desktop-download-available-in-over = K'o pa 90 taq ch'ab'äl chuqa' ruk'am ri' kik'in ch'aqa' taq samajib'äl { -brand-name-windows }, { -brand-name-mac-short } chuqa' { -brand-name-linux }, { -brand-name-firefox } nisamäj xab'achike nawokisaj o xab'akuchi' at k'o wi. Tanik'oj chi k'exon ri samajel aq'inoj richin nak'ül jeb'ël awetamab'al.
 firefox-desktop-download-review-system-req = Tanik'oj ri taq rajowaxik q'inoj
 firefox-desktop-download-all-your-devices = Taya' { -brand-name-firefox } pa ronojel awokisab'al
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
