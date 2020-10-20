@@ -11,4 +11,5 @@ learn-more = Saiba mais
 the-history-of = A história dos navegadores web
 firefox-has-been = O { -brand-name-firefox } está aí desde quase o início.
 firefox-rebel-with = { -brand-name-firefox }: Rebelde com uma causa
+firefox-is-independent = O { -brand-name-firefox } é independente e produzido pela organização sem fins lucrativos { -brand-name-mozilla }, que luta por seus direitos online e torna a internet acessível a todos, em qualquer lugar.
 what-is-a = O que é um navegador web?
