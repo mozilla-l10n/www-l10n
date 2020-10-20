@@ -146,7 +146,11 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-windows = Windows
+-brand-name-windows =
+    { $cap ->
+       *[upper] Windows
+        [lower] windows
+    }
 -brand-name-xp = XP
 -brand-name-vista = Vista
 
