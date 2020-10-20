@@ -94,14 +94,29 @@ firefox-desktop-download-extensions-for-every = Taq k'amal richin arayib'al
 firefox-desktop-download-change-up-your = Tajala' ri ruwa
 firefox-desktop-download-go-from-light = Tajala' ri säq ruwa rik'in ri qequ'm ruwa achike na ri ana'on o nawajo', o ke'asiloj ri taq wachinäq rik'in jun ichinan wachinel (rik'in jub'a' jun xokoq'a' unikorno').
 firefox-desktop-download-tweak-your-settings = Tab'ana' ri anuk'ulem
+firefox-desktop-download-theres-no-need = Man xa xe ta tatzu'. Tajala' ri ruxaq nel pe toq najäq jun k'ak'a' ruwi', Rukajtz'ik kanoxïk, ri taq yaketal chuqa' ch'aqa' chik richin yanik'on pa k'amaya'l achi'el nawajo'.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = To'on ruma ri <strong>majun-ch'akoj</strong> ri nuya' kiq'ij winaqi'
+firefox-desktop-download-challenging-the-status = Nuk'ëx ri estatu quo petenäq pa 1998
+firefox-desktop-download-your-privacy-comes = Nab'ey ri awichinanem.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Kek'oje' awik'in ri jeb'ël taq rusamajib'alil okik'amaya'l — chuqa' <strong>tawila'</strong> jujun k'ak'a'.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Ronojel ri jeb'ël { -brand-name-google } taq asamajib'al (achi'el Gmail chuqa' Docs) ütz yesamäj pa { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Taqasaj re ruk'amal okik'amaya'l re'</a> richin ye'apab'a' { -brand-name-facebook } chuqa' { -brand-name-instagram } richin man katkojqaj ta chik pa ajk'amaya'l.
 firefox-desktop-download-sync-your-devices = Ke'axima' ri taq awokisab'al
 firefox-desktop-download-screenshots = Chapoj taq ruwäch
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem (ETP)
+firefox-desktop-download-from-watching-a = Toq natz'ët jun ajk'amaya'l k'utunïk chuqa' nawoyob'ej rutzijol jeb'ël amolaj, ri asilowäch yatrojqaj toq nab'än jalajöj taq asamaj.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Taqasaj ri { -brand-name-firefox } oyonib'äl okik'amaya'l richin ruyon yachajïx pa ronojel taq awokisab'al.
+firefox-desktop-download-learn-about-the = Tetamäx chi rij ri { -brand-name-firefox } ajch'atal okik'amaya'l
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
