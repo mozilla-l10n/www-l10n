@@ -17,6 +17,7 @@ a-web-browser = Web 浏览器能将您带到互联网上的任何地方，随时
 update-your-browser = 将您的浏览器换为快速、安全且安心的 { -brand-name-firefox }。
 firefox-is-more = { -brand-name-firefox } 不只是浏览器
 get-the-browsers = 我们的浏览器视隐私为先—这是不变的承诺
+get-the-privacy = 隐私是您应有的权利。浏览器默认即启用增强型跟踪保护功能。
 take-your-passwords = 随身携带密码
 securely-access-the = 随时随地、安全地访问保存在 { -brand-name-firefox } 的密码——即使在浏览器以外。
 choose-which-firefox = 选择您想要下载的 { -brand-name-firefox-browser }语言版本
