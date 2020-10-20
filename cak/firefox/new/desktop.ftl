@@ -154,6 +154,10 @@ firefox-desktop-download-now-else = Nik'is yan <strong>ruyakik</strong> { -brand
 firefox-desktop-download-now-windows = Wakami <strong>tasamajij</strong> ri yakonel xaqasaj.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Wakami <strong>tajaqa'</strong> ri yakb'äl xaqasaj.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = ¿La k'o ak'ayewal? <a { $attrs }>Tak'ulu' ato'ik rik'in ri ayakoj</a>.
+firefox-desktop-download-in-another-language = Taqasaj pa jun chik ch'ab'äl o richin jun chik samajel q'inoj.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Outdated string
 # Variables:
