@@ -13,6 +13,7 @@ firefox-has-been = { -brand-name-firefox } 是名符其实的先驱。
 firefox-rebel-with = { -brand-name-firefox }：造反有理
 firefox-is-independent = { -brand-name-firefox } 是独立自主的浏览器，受到非营利基金会 { -brand-name-mozilla } 的支持，我们为您争取网络权利，并致力于让互联网人人可用、处处可及。
 what-is-a = Web 浏览器是什么？
+a-web-browser = Web 浏览器能将您带到互联网上的任何地方，随时随地浏览文本、图像和视频内容。
 take-your-passwords = 随身携带密码
 securely-access-the = 随时随地、安全地访问保存在 { -brand-name-firefox } 的密码——即使在浏览器以外。
 choose-which-firefox = 选择您想要下载的 { -brand-name-firefox-browser }语言版本
