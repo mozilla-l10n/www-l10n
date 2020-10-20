@@ -13,3 +13,4 @@ firefox-has-been = O { -brand-name-firefox } está aí desde quase o início.
 firefox-rebel-with = { -brand-name-firefox }: Rebelde com uma causa
 firefox-is-independent = O { -brand-name-firefox } é independente e produzido pela organização sem fins lucrativos { -brand-name-mozilla }, que luta por seus direitos online e torna a internet acessível a todos, em qualquer lugar.
 what-is-a = O que é um navegador web?
+a-web-browser = Um navegador web leva você a qualquer lugar na internet, permitindo ver textos, imagens e vídeos de qualquer lugar do mundo.
