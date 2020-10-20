@@ -127,6 +127,18 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } xnuk' rum
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Rik'in ri nik'ïy chuqa' nijalatäj ri k'amaya'l, { -brand-name-firefox } nuya' retal ri ach'ojib'al chi rij ri awichinanem  — niqab'ij ri <a { $attrs }>Ya'oj Qatzij Chi Rij Qatzij</a>: Jub'a' numöl. Jeb'ël nuchajij. Majun ewäl. Ri atzij, asamaj pa ajk'amaya'l, ri ak'aslem pa k'amab'ey yechajïx rik'in { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } k'o kichin ronojel taq awokisab'al; ke'ak'waj ri taq ruwi', natab'äl chuqa' taq yaketal awik'in. Ri nik'atzin chawe ja ri jun <a { $attrs }>{ -brand-name-firefox } rub'i' rutaqoya'l</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Tak'ulu' jun ch'ach'öj rub'anikil wachib'äl pa k'amab'ey rik'in ri qasamajib'al <a { $attrs }>chapoj ruwa</a> k'o pe pa ri okik'amaya'l
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ruyon <a { $attrs }>yeruq'ät k'ïy kojqanela' aj rox winäq</a> richin man tikimöl chuqa' man tikik'ayij ri ajk'amaya'l asamaj.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ¿Nak'utuj chawe? <a { $attrs }>{ -brand-name-mozilla } tob'äl</a> at k'o chupam.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
@@ -135,6 +147,9 @@ firefox-desktop-download-just-download-the-browser = Xa Xe Tiqasäx Ri Okik'amay
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = !Nik'achoj yan!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Nik'is yan <strong>ruyakik</strong> { -brand-name-firefox }.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Outdated string
 # Variables:
