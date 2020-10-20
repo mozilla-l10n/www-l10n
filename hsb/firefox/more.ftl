@@ -8,6 +8,7 @@
 firefox-products-are = Produkty { -brand-name-firefox } so wuwiwaja, zo bychu wašu priwatnosć škitali
 learn-more-about = Zhońće wjace wo wobhladowakach a produktach { -brand-name-firefox }, kotrež z wašimi datami respektnje wobchadźeja a su wuwite za priwatnośc wšudźe, hdźež online dźeće.
 learn-more = Dalše informacije
+the-history-of = Historija webwobhladowakow
 firefox-rebel-with = { -brand-name-firefox }: Rebel z winu
 what-is-a = Što je webwobhladowak?
 firefox-is-more = { -brand-name-firefox } je wjace hač wobhladowak

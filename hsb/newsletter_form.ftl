@@ -28,3 +28,6 @@ newsletter-form-select-country = Wubjerće kraj
 newsletter-form-sign-me-up = Registrować
 newsletter-form-sign-up-now = Registrujće so nětko
 newsletter-form-thanks = Wulki dźak!
+newsletter-form-leave-this-field-empty = Wostajće polo prózdne.
+newsletter-form-yes = Haj
+newsletter-form-no = Ně
