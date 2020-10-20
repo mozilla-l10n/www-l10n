@@ -150,6 +150,10 @@ firefox-desktop-download-just-download-the-browser = Xa Xe Tiqasäx Ri Okik'amay
 firefox-desktop-download-almost-there = !Nik'achoj yan!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Nik'is yan <strong>ruyakik</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Wakami <strong>tasamajij</strong> ri yakonel xaqasaj.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Wakami <strong>tajaqa'</strong> ri yakb'äl xaqasaj.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Outdated string
 # Variables:
