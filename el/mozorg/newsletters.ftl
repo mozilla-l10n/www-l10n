@@ -84,6 +84,14 @@ newsletters-mozillians = Mozillians
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Κοινότητα { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Ένα μηνιαίο ενημερωτικό δελτίο σχετικά με το πρόγραμμα { -brand-name-firefox } Affiliates.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Ένα μηνιαίο ενημερωτικό δελτίο σχετικά με το πώς να συνεργαστείτε με τη { -brand-name-mozilla } από το campus σας.
+# Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Ειδήσεις { -brand-name-beta }
@@ -101,14 +109,22 @@ newsletters-firefox-accounts-tips = Συμβουλές { -brand-name-firefox-acc
 newsletters-get-the-most-firefox-account = Αξιοποιήστε στο έπακρο το { -brand-name-firefox-account } σας.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Περιοδικές ενημερώσεις μέσω email σχετικά με τον ετήσιο, διεθνή διαγωνισμό κινηματογράφου μας.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } για { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-os-smartphone-owner = Έχετε τηλέφωνο με { -brand-name-firefox-os };
+newsletters-firefox-os-smartphone-owner = Έχετε smartphone με { -brand-name-firefox-os };
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Μην χάσετε σημαντικές ειδήσεις και ενημερώσεις σχετικά με τη { -brand-name-firefox-os } συσκευή σας.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Εσείς
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Ένα μηνιαίο ενημερωτικό δελτίο και ειδικές ανακοινώσεις για να αξιοποιήσετε στο έπακρο τη { -brand-name-firefox-os } συσκευή σας, ανακαλύπτοντας νέες λειτουργίες και τις καλύτερες εφαρμογές του { -brand-name-firefox-marketplace }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Εβδομαδιαίες συμβουλές { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Λάβετε μια εβδομαδιαία συμβουλή για να βελτιώστε την εμπειρία σας με το { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Συμμετοχή στη { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
