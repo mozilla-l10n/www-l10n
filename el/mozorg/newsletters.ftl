@@ -17,9 +17,11 @@ newsletters-subscribe-to-updates-and-keep = Εγγραφείτε για ενημ
 newsletters-newsletter-confirm = Επιβεβαίωση ενημερωτικού δελτίου
 newsletters-thanks-for-subscribing = Σας ευχαριστούμε για την εγγραφή σας!
 newsletters-your-newsletter-subscription = Η συνδρομή σας στο ενημερωτικό δελτίο επιβεβαιώθηκε.
-newsletters-please-be-sure-to-add-our = Παρακαλούμε προσθέσετε τη διεύθυνση αποστολής: «mozilla@e.mozilla.org» στο ευρετήριο διευθύνσεων σας για να εξασφαλίσετε ότι τα email μας θα φτάνουν πάντα στα εισερχόμενα σας.
+newsletters-please-be-sure-to-add-our = Παρακαλούμε προσθέστε τη διεύθυνση αποστολής: mozilla@e.mozilla.org στο ευρετήριο διευθύνσεων σας για να εξασφαλίσετε ότι τα email μας θα φτάνουν πάντα στα εισερχόμενα σας.
 newsletters-the-supplied-link-has-expired = Ο παρεχόμενος σύνδεσμος έχει λήξει. Θα λάβετε νέο στο επόμενο ενημερωτικό δελτίο μας.
 newsletters-something-is-amiss-with = Λυπούμαστε, αλλά υπάρχει κάποιο πρόβλημα με το σύστημά μας! Παρακαλούμε δοκιμάστε ξανά αργότερα.
+newsletters-and-were-not-just-saying = Και δεν το λέμε απλά επειδή μας εμπιστευτήκατε τη διεύθυνση email σας.
+newsletters-please-be-sure-to-add-mozillaemozillaorg = Παρακαλούμε προσθέστε τη διεύθυνση αποστολής: mozilla@e.mozilla.org στο ευρετήριο διευθύνσεων σας για να εξασφαλίσετε ότι τα email μας θα φτάνουν πάντα στα εισερχόμενα σας.
 newsletters-mozilla-touches-on-a-variety = Η { -brand-name-mozilla } θίγει μια ποικιλία σημαντικών ζητημάτων.
 newsletters-manage-your-email-preferences = Διαχείριση προτιμήσεων email
 newsletters-this-page-is-in-maintenance = Αυτή η σελίδα βρίσκεται σε λειτουργία συντήρησης και δεν είναι διαθέσιμη αυτή τη στιγμή.
@@ -33,6 +35,9 @@ newsletters-country = Χώρα:
 newsletters-language = Γλώσσα:
 # Form field label
 newsletters-format = Μορφή:
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = Το { $newsletter } δεν είναι έγκυρο ενημερωτικό δελτίο
 newsletters-subscribe = Εγγραφή
 newsletters-save-preferences = Αποθήκευση προτιμήσεων
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
@@ -53,9 +58,16 @@ newsletters-find-out-how = Μάθετε πώς!
 newsletters-about-us = Σχετικά με εμάς
 newsletters-whats-mozilla-all-about = Με ποια θέματα ασχολείται η { -brand-name-mozilla };
 newsletters-were-glad-you-asked = Χαιρόμαστε που ρωτήσατε!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = Αγαπάτε το διαδίκτυο; Το ίδιο κι εμείς!
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Περισσότερο περιεχόμενο Firefox εισερχόμενά σας.
+newsletters-we-are-sorry-but-there = Λυπούμαστε, αλλά παρουσιάστηκε κάποιο πρόβλημα στο σύστημά μας. Παρακαλούμε δοκιμάστε ξανά αργότερα!
+newsletters-thanks-for-updating-your = Ευχαριστούμε που ενημερώσατε τις προτιμήσεις email σας.
+newsletters-success-an-email-has-been-sent = Επιτυχία! Σας έχει σταλεί ένα email με το σύνδεσμο του κέντρου προτιμήσεών σας. Ευχαριστούμε!
 newsletters-you-send-too-many-emails = Στέλνετε πάρα πολλά email.
+newsletters-your-content-wasnt-relevant = Το περιεχόμενό σας δεν με αφορούσε.
+newsletters-your-email-design = Η διάταξη των email σας ήταν δυσανάγνωστη.
 newsletters-i-didnt-sign-up = Δεν είχα κάνει εγγραφή.
 newsletters-back-to-email-preferences = Πίσω στις προτιμήσεις email
 newsletters-download-the-app = Λήψη εφαρμογής
@@ -95,6 +107,8 @@ newsletters-a-monthly-newsletter-ambassadors = Ένα μηνιαίο ενημε�
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Ειδήσεις { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Διαβάστε για τις νέες λειτουργίες του { -brand-name-firefox } για υπολογιστές και κινητές συσκευές πριν την κυκλοφορία της τελικής έκδοσης.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Λήψη { -brand-name-firefox } για { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -113,6 +127,8 @@ newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 newsletters-periodic-email-updates = Περιοδικές ενημερώσεις μέσω email σχετικά με τον ετήσιο, διεθνή διαγωνισμό κινηματογράφου μας.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } για { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Μάθετε πρώτοι πότε θα ξεκινήσει η διάθεση του { -brand-name-firefox } για συσκευές { -brand-name-ios }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-smartphone-owner = Έχετε smartphone με { -brand-name-firefox-os };
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
@@ -137,6 +153,8 @@ newsletters-discover-the-latest = Ανακαλύψτε τις καλύτερες
 newsletters-firefox-os-news = Ειδήσεις, συμβουλές, πληροφορίες πωλητών για συσκευές { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Παρακολουθήστε τις εκδόσεις και τις ειδήσεις σχετικά με το { -brand-name-firefox } για { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Ειδήσεις { -brand-name-firefox }
 # Name for the newsletter in Newsletter subscription page
@@ -147,6 +165,8 @@ newsletters-mozilla-news = Ειδήσεις { -brand-name-mozilla }
 newsletters-mozilla = { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Ενημερώσεις σχετικά με την παγκόσμια κοινότητά μας, η οποία συμβάλλει στην εκμάθηση των πιο σημαντικών δεξιοτήτων της εποχής μας: ανάγνωση, γραφή και συμμετοχή στον ψηφιακό κόσμο.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
