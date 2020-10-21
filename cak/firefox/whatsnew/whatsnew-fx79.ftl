@@ -24,6 +24,7 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } man nuya' ta q'ij chi c
 whatsnew79-see-your-report = Titz'et Atzijol
 whatsnew79-update-your-firefox = Tak'exa' ruwäch { -brand-name-firefox } okik'amaya'l
 whatsnew79-download-the-firefox = Taqasaj { -brand-name-firefox } okik'amaya'l
+whatsnew79-read-our-privacy-promise = Tasik'ij ri Runa'ojil Qichinanem
 # CTA link
 whatsnew79-read-more = Tisik'ïx Ch'aqa' Chik
 # CTA link
