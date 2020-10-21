@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
-firefox-products-are = { -brand-name-firefox } produkter är utformade för att skydda din integritet
+firefox-products-are = { -brand-name-firefox }:s produkter är utformade för att skydda din integritet
 learn-more-about = Läs mer om { -brand-name-firefox } webbläsare och produkter som hanterar dina data med respekt och är byggda för integritet var du än är online.
 learn-more = Läs mer
 the-history-of = Webbläsarens historia
