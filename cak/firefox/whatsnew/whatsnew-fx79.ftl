@@ -25,6 +25,7 @@ whatsnew79-see-your-report = Titz'et Atzijol
 whatsnew79-update-your-firefox = Tak'exa' ruwäch { -brand-name-firefox } okik'amaya'l
 whatsnew79-download-the-firefox = Taqasaj { -brand-name-firefox } okik'amaya'l
 whatsnew79-read-our-privacy-promise = Tasik'ij ri Runa'ojil Qichinanem
+whatsnew79-take-less-keep-it-safe = Jub'a' nuk'äm. Jikon nub'än. Majun ewul. Ri qasamaj man rojqan ta ri rutz'ilanik akuqub'al k'u'x pan ewul.
 # CTA link
 whatsnew79-read-more = Tisik'ïx Ch'aqa' Chik
 # CTA link
