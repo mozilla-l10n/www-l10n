@@ -16,8 +16,13 @@ newsletters-subscribe-to-updates-and-keep = Εγγραφείτε για ενημ
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Επιβεβαίωση ενημερωτικού δελτίου
 newsletters-thanks-for-subscribing = Σας ευχαριστούμε για την εγγραφή σας!
+newsletters-your-newsletter-subscription = Η συνδρομή σας στο ενημερωτικό δελτίο επιβεβαιώθηκε.
+newsletters-please-be-sure-to-add-our = Παρακαλούμε προσθέσετε τη διεύθυνση αποστολής: «mozilla@e.mozilla.org» στο ευρετήριο διευθύνσεων σας για να εξασφαλίσετε ότι τα email μας θα φτάνουν πάντα στα εισερχόμενα σας.
+newsletters-the-supplied-link-has-expired = Ο παρεχόμενος σύνδεσμος έχει λήξει. Θα λάβετε νέο στο επόμενο ενημερωτικό δελτίο μας.
 newsletters-something-is-amiss-with = Λυπούμαστε, αλλά υπάρχει κάποιο πρόβλημα με το σύστημά μας! Παρακαλούμε δοκιμάστε ξανά αργότερα.
+newsletters-mozilla-touches-on-a-variety = Η { -brand-name-mozilla } θίγει μια ποικιλία σημαντικών ζητημάτων.
 newsletters-manage-your-email-preferences = Διαχείριση προτιμήσεων email
+newsletters-this-page-is-in-maintenance = Αυτή η σελίδα βρίσκεται σε λειτουργία συντήρησης και δεν είναι διαθέσιμη αυτή τη στιγμή.
 # Form field label
 newsletters-your-email-address = Η διεύθυνση email σας:
 # Form field label
@@ -32,6 +37,8 @@ newsletters-subscribe = Εγγραφή
 newsletters-save-preferences = Αποθήκευση προτιμήσεων
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-newsletter-email-recovery = Ανάκτηση email ενημερωτικού δελτίου
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Εισάγετε τη διεύθυνση email σας και θα σας στείλουμε ένα σύνδεσμο για το κέντρο προτιμήσεων email σας.
 newsletters-send-me-a-link = Αποστολή συνδέσμου
 newsletters-youve-been-unsubscribed = Έχετε καταργήσει την εγγραφή σας.
 newsletters-were-sorry-to-see-you-go = Λυπούμαστε που αποχωρείτε.
@@ -39,10 +46,15 @@ newsletters-would-you-mind-telling-us = Θα σάς πείραζε να μας �
 newsletters-other = Άλλο…
 newsletters-submit = Υποβολή
 newsletters-thanks-for-telling-us-why = Σάς ευχαριστούμε που μας εξηγείτε γιατί αποχωρείτε.
+newsletters-get-firefox-for-mobile = Αποκτήστε το { -brand-name-firefox } για κινητά!
 newsletters-added-extras = Επιπλέον προσθήκες
+newsletters-make-firefox-do-more-with = Κάντε περισσότερα με τα πρόσθετα του { -brand-name-firefox }.
 newsletters-find-out-how = Μάθετε πώς!
 newsletters-about-us = Σχετικά με εμάς
+newsletters-whats-mozilla-all-about = Με ποια θέματα ασχολείται η { -brand-name-mozilla };
 newsletters-were-glad-you-asked = Χαιρόμαστε που ρωτήσατε!
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Περισσότερο περιεχόμενο Firefox εισερχόμενά σας.
 newsletters-you-send-too-many-emails = Στέλνετε πάρα πολλά email.
 newsletters-i-didnt-sign-up = Δεν είχα κάνει εγγραφή.
 newsletters-back-to-email-preferences = Πίσω στις προτιμήσεις email
@@ -59,6 +71,8 @@ newsletters-drumbeat-newsgroup = Ομάδα συζήτησης Drumbeat
 newsletters-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Συμμετοχή
+# Obsolete string
+newsletters-internet-health-report = Αναφορά υγείας διαδικτύου
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Η γνώση είναι δύναμη
 # Name for the newsletter in Newsletter subscription page
@@ -101,6 +115,10 @@ newsletters-join-mozilla = Συμμετοχή στη { -brand-name-mozilla }
 newsletters-maker-party = Maker Party
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Ανακαλύψτε τις καλύτερες εφαρμογές HTML5 στο { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Ειδήσεις, συμβουλές, πληροφορίες πωλητών για συσκευές { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -115,7 +133,11 @@ newsletters-mozilla = { -brand-name-mozilla }
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Αναπτύσσουμε την τεχνολογία του μέλλοντος. Εξερευνήστε μαζί μας.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Ειδικές ανακοινώσεις που σας βοηθούν να αξιοποιήσετε στο έπακρο το { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
