@@ -11,9 +11,12 @@ newsletters-newsletter-subscriptions = Συνδρομές δελτίων ειδ�
 newsletters-mozilla-newsletter = Ενημερωτικό δελτίο { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Διαβάστε περισσότερα στο <span>newsletter</span> μας
+# Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-to-updates-and-keep = Εγγραφείτε για ενημερώσεις και ειδήσεις σχετικά με τη { -brand-name-mozilla }. Είναι ο τέλειος τρόπος για να κρατήσουμε επαφές!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Επιβεβαίωση ενημερωτικού δελτίου
 newsletters-thanks-for-subscribing = Σας ευχαριστούμε για την εγγραφή σας!
+newsletters-something-is-amiss-with = Λυπούμαστε, αλλά υπάρχει κάποιο πρόβλημα με το σύστημά μας! Παρακαλούμε δοκιμάστε ξανά αργότερα.
 newsletters-manage-your-email-preferences = Διαχείριση προτιμήσεων email
 # Form field label
 newsletters-your-email-address = Η διεύθυνση email σας:
