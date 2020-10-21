@@ -14,7 +14,15 @@
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
--brand-name-google = Google
+-brand-name-google =
+    { $sklon ->
+       *[imenovalnik] Google
+        [rodilnik] Googla
+        [dajalnik] Googlu
+        [tozilnik] Google
+        [mestnik] Googlu
+        [orodnik] Googlom
+    }
 -brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
