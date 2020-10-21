@@ -28,8 +28,12 @@ whatsnew79-read-our-privacy-promise = Tasik'ij ri Runa'ojil Qichinanem
 whatsnew79-take-less-keep-it-safe = Jub'a' nuk'äm. Jikon nub'än. Majun ewul. Ri qasamaj man rojqan ta ri rutz'ilanik akuqub'al k'u'x pan ewul.
 # CTA link
 whatsnew79-read-more = Tisik'ïx Ch'aqa' Chik
+whatsnew79-keep-facebook-contained = Tachajij { -brand-name-facebook } rupam
+whatsnew79-get-the-power-to-prevent = Tik'oje' awuchuq'a' richin nab'än chi ri { -brand-name-facebook } chuqa' { -brand-name-instagram } man katkojqaj pa ajk'amaya'l.
 # CTA link
 whatsnew79-add-facebook-container = Titz'aqatisäx { -brand-name-facebook-container }
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Tak'ulu' ri { -brand-name-firefox } pan Awoyonib'al
 whatsnew79-scan-the-qr-code = Tiq'axawachib'ëx ri QR b'itz'ib' richin nitikirisäx
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = QR b'itz'ib' nitz'ajwachib'ëx richin { -brand-name-firefox }
