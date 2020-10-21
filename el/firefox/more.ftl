@@ -18,6 +18,7 @@ firefox-respects-your = Το { -brand-name-firefox } σέβεται το από�
 firefox-for-linux = { -brand-name-firefox } για { -brand-name-linux }
 new-school-meets = Το νέο συναντά το παλιό στο πιο γρήγορο πρόγραμμα περιήγησης.
 firefox-for-windows = { -brand-name-firefox } για { -brand-name-windows } 64-bit
+seven-of-the = Τα επτά καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
 we-compare-firefox = Συγκρίνουμε το { -brand-name-firefox } με τα { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } and { -brand-name-ie } για να σας βοηθήσουμε να αποφασίσετε.
 comparing-firefox-chrome = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-google } { -brand-name-chrome }
 comparing-firefox-brave = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-brave }

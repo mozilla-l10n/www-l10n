@@ -25,6 +25,9 @@ newsletters-please-be-sure-to-add-mozillaemozillaorg = Παρακαλούμε π
 newsletters-mozilla-touches-on-a-variety = Η { -brand-name-mozilla } θίγει μια ποικιλία σημαντικών ζητημάτων.
 newsletters-manage-your-email-preferences = Διαχείριση προτιμήσεων email
 newsletters-this-page-is-in-maintenance = Αυτή η σελίδα βρίσκεται σε λειτουργία συντήρησης και δεν είναι διαθέσιμη αυτή τη στιγμή.
+newsletters-to-update-your-email-preferences = Για να ενημερώσετε τις προτιμήσεις email σας, παρακαλούμε ελέγξτε ξανά σε λίγο. Ευχαριστούμε!
+newsletters-we-love-sharing-updates = Μας αρέσει να μοιραζόμαστε όλα τα εκπληκτικά πράγματα που συμβαίνουν εδώ στη { -brand-name-mozilla }.
+newsletters-set-your-preferences-below = Ρυθμίστε τις προτιμήσεις σας παρακάτω για να λαμβάνετε πάντα τις ειδήσεις που θέλετε.
 # Form field label
 newsletters-your-email-address = Η διεύθυνση email σας:
 # Form field label
@@ -36,12 +39,17 @@ newsletters-language = Γλώσσα:
 # Form field label
 newsletters-format = Μορφή:
 # Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = Υπάρχουν πολλοί τρόποι για να γίνετε μέλος της { -brand-name-mozilla } και του { -brand-name-firefox }. Αν δεν βρήκατε αυτό που ψάχνετε εδώ, δείτε τις <a href="{ $url }">σελίδες της κοινότητάς</a> μας.
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = Το { $newsletter } δεν είναι έγκυρο ενημερωτικό δελτίο
 newsletters-subscribe = Εγγραφή
 newsletters-save-preferences = Αποθήκευση προτιμήσεων
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-newsletter-email-recovery = Ανάκτηση email ενημερωτικού δελτίου
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = Διαχείριση <span>συνδρομών ενημερωτικών δελτίων</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-enter-your-email-address = Εισάγετε τη διεύθυνση email σας και θα σας στείλουμε ένα σύνδεσμο για το κέντρο προτιμήσεων email σας.
 newsletters-send-me-a-link = Αποστολή συνδέσμου
@@ -51,6 +59,8 @@ newsletters-would-you-mind-telling-us = Θα σάς πείραζε να μας �
 newsletters-other = Άλλο…
 newsletters-submit = Υποβολή
 newsletters-thanks-for-telling-us-why = Σάς ευχαριστούμε που μας εξηγείτε γιατί αποχωρείτε.
+newsletters-get-up-and-go = Ετοιμαστείτε και φύγαμε
+newsletters-its-your-web-anywhere-you = Είναι το δικό σας διαδίκτυο, όπου κι αν πάτε.
 newsletters-get-firefox-for-mobile = Αποκτήστε το { -brand-name-firefox } για κινητά!
 newsletters-added-extras = Επιπλέον προσθήκες
 newsletters-make-firefox-do-more-with = Κάντε περισσότερα με τα πρόσθετα του { -brand-name-firefox }.
@@ -60,15 +70,26 @@ newsletters-whats-mozilla-all-about = Με ποια θέματα ασχολεί�
 newsletters-were-glad-you-asked = Χαιρόμαστε που ρωτήσατε!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Αγαπάτε το διαδίκτυο; Το ίδιο κι εμείς!
+# Obsolete string
+newsletters-join-thousands-of-developers = Βρείτε χιλιάδες προγραμματιστές σαν εσάς, που μαθαίνουν για τον προγραμματισμό web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Περισσότερο περιεχόμενο Firefox εισερχόμενά σας.
 newsletters-we-are-sorry-but-there = Λυπούμαστε, αλλά παρουσιάστηκε κάποιο πρόβλημα στο σύστημά μας. Παρακαλούμε δοκιμάστε ξανά αργότερα!
 newsletters-thanks-for-updating-your = Ευχαριστούμε που ενημερώσατε τις προτιμήσεις email σας.
 newsletters-success-an-email-has-been-sent = Επιτυχία! Σας έχει σταλεί ένα email με το σύνδεσμο του κέντρου προτιμήσεών σας. Ευχαριστούμε!
+newsletters-this-is-not-a-valid-email = Αυτή δεν είναι έγκυρη διεύθυνση email. Παρακαλούμε ελέγξτε για λάθη.
 newsletters-you-send-too-many-emails = Στέλνετε πάρα πολλά email.
 newsletters-your-content-wasnt-relevant = Το περιεχόμενό σας δεν με αφορούσε.
 newsletters-your-email-design = Η διάταξη των email σας ήταν δυσανάγνωστη.
 newsletters-i-didnt-sign-up = Δεν είχα κάνει εγγραφή.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Αυτή η διεύθυνση email δεν υπάρχει στο σύστημά μας. Παρακαλούμε ελέγξτε ξανά τη διεύθυνσή σας ή <a href="{ $url }">εγγραφείτε στα ενημερωτικά μας δελτία.</a>
+newsletters-im-keeping-in-touch = Διατηρώ επαφή με τη { -brand-name-mozilla } στο { -brand-name-facebook } και το { -brand-name-twitter }.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Εγγραφείτε, διαβάστε,<br> ενημερωθείτε.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Εγγραφείτε. Διαβάστε.<br> Κάντε τη διαφορά.
 newsletters-back-to-email-preferences = Πίσω στις προτιμήσεις email
 newsletters-download-the-app = Λήψη εφαρμογής
 newsletters-check-for-data-breaches = Έλεγχος για παραβιάσεις δεδομένων
@@ -93,6 +114,10 @@ newsletters-about-labs = Σχετικά με το Labs
 newsletters-desktop = Υπολογιστές
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Ενημερώσεις μέσω email για βεβαιωμένους Mozillians στο mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Δοκιμή νέων προϊόντων
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Κοινότητα { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
@@ -163,6 +188,8 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 newsletters-mozilla-news = Ειδήσεις { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Σημαντικές ανακοινώσεις και μηνύματα από την ομάδα που έχει αφοσιωθεί σε ένα ελεύθερο και ανοικτό διαδίκτυο.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
