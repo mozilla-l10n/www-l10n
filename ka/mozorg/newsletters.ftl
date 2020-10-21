@@ -173,12 +173,22 @@ newsletters-take-action = შეიტანეთ წვლილი ინტ�
 newsletters-add-your-voice = დააფიქსირეთ თქვენი ხმა შუამდგომლობებში, ღონისძიებებში, წამოწყებებში, ინტერნეტის მომავლისთვის ბრძოლაში.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = ახალი პროდუქტის გამოცდა
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = დაგვეხმარეთ გავაუმჯობესოთ { -brand-name-firefox } თქვენთვის, უახლესი პროდუქტებისა და შესაძლებლობების გამოცდით.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } ერთობა
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = შემოუერთდით მოზილელებს მთელი მსოფლიოდან და გაეცანით ქმედით გზებს, { -brand-name-mozilla }-ის მიზნის მხარდასაჭერად.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox }-ის ელჩი სტუდენტები
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = ყოველთვიური საინფორმაციო ცნობები, თუ როგორ ჩაერთოთ { -brand-name-mozilla }-ში თქვენი სასწავლებლიდან.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = { -brand-name-beta } სიახლეები
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = გაეცანით { -brand-name-firefox }-ის უახლეს შესაძლებლობებს მობილურსა და კომპიუტერზე, საბოლოო გამოშვებამდე.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = ჩამოტვირთეთ ახალი { -brand-name-firefox } { -brand-name-android }-ზე
 # Name for the newsletter in Newsletter subscription page
@@ -193,6 +203,8 @@ newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } რჩე�
 newsletters-get-the-most-firefox-account = სრულყოფილად გამოიყენეთ { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = სიახლეების დროდადრო მიღება ელფოსტაზე, ჩვენი ყოველწლიური საერთაშორისო ფილმების კონკურსის შესახებ.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
@@ -203,12 +215,18 @@ newsletters-firefox-os-smartphone-owner = { -brand-name-firefox-os }-ტელ�
 newsletters-dont-miss-important-news = არ გამოტოვოთ მნიშვნელოვანი ცნობები და სიახლეები { -brand-name-firefox-os }-მოწყობილობის შესახებ.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + თქვენ
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = ყოველთვიური ცნობები და საგანგებო განცხადებები, თუ როგორ ისარგებლოთ სრულყოფილად თქვენი { -brand-name-firefox-os }-მოწყობილობით, ასევე უახლესი ფუნქციები და ძალიან მაგარი { -brand-name-firefox-marketplace }-აპლიკაცები.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = { -brand-name-firefox } ყოველკვირეული რჩევები
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = მიიღეთ ყოველკვირეული რჩევები, თუ როგორ გამოიყენოთ სრულყოფილად თქვენი { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = შემოუერთდით { -brand-name-mozilla }-ს
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = შემქმნელი მხარე
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = { -brand-name-mozilla }-ის უდიდესი ზეიმი, ინტერნეტში მუშაობისა და სწავლების.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
