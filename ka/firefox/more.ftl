@@ -44,3 +44,6 @@ old-habits-that = ძველი ჩვევების დაძლევა
 comparing-firefox-safari = { -brand-name-firefox-browser(case: "gen") } შედარება { -brand-name-apple } { -brand-name-safari }-სთან
 you-dont-have = არაა აუცილებელი ნაგულისხმევად ნაგულისხმევი ბრაუზერი გამოიყენოთ.
 comparing-firefox-opera = { -brand-name-firefox-browser(case: "gen") } შედარება { -brand-name-opera }-სთან
+be-free-to = შეგიძლიათ სიმღერით აქოთ { -brand-name-firefox }, როცა მოგესურვებათ.
+the-ad-blocker = რეკლამის შემზღუდავი –საიდუმლო იარაღი, მომაბეზრებელი რეკლამების წინააღმდეგ.
+so-many-ads = იზრდება რეკლამები, მცირდება მოთმინება… დროა, დასრულდეს ეს სიგიჟე.
