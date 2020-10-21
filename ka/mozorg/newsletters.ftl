@@ -180,6 +180,10 @@ newsletters-mozilla-community = { -brand-name-mozilla } ერთობა
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = შემოუერთდით მოზილელებს მთელი მსოფლიოდან და გაეცანით ქმედით გზებს, { -brand-name-mozilla }-ის მიზნის მხარდასაჭერად.
 # Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } თანამშრომლობა
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = ყოველთვიური საინფორმაციო ცნობები და სიახლეები, { -brand-name-firefox }-თან თანამშრომლობის პროგრამის შესახებ.
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = { -brand-name-firefox }-ის ელჩი სტუდენტები
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 newsletters-a-monthly-newsletter-ambassadors = ყოველთვიური საინფორმაციო ცნობები, თუ როგორ ჩაერთოთ { -brand-name-mozilla }-ში თქვენი სასწავლებლიდან.
@@ -230,19 +234,29 @@ newsletters-mozillas-largest-celebration = { -brand-name-mozilla }-ის უდ
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = აღმოაჩინეთ, უახლესი, უმაგრესი HTML5-აპები { -brand-name-firefox-os }-ისთვის.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
 newsletters-firefox-os-news = { -brand-name-firefox-os }-ის სიახლეები, რჩევები, გაშვების შესახებ ინფორმაცია და თუ სად შეიძლება შეძენა.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android }-ზე
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = თვალი ადევნეთ გამოშვებებსა და სიახლეებს { -brand-name-firefox }-ზე { -brand-name-android }-ისთვის.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = { -brand-name-firefox } სიახლეები
 # Description for the newsletter in Newsletter subscription page (Firefox News)
 newsletters-get-how-tos = მიიღეთ ინფორმაცია, რჩევები და სიახლეები, თუ როგორ გამოიყენოთ { -brand-name-firefox } სრულყოფილად.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = საგანგებო განცხადებები, { -brand-name-mozilla }-ს ყოველწლიურ პრაქტიკულ გამოფენა-ჩვენებებზე, ინტერნეტის მომავლის ჩამოყალიბების საკითხებზე.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } სიახლეები
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = ჩვეული სიახლეები, რომ დარჩეთ გაცნობიერებული და მომართული ბრძოლისთვის, ინტერნეტის განსავითარებლად.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = საგანგებო ცნობები და შეტყობინებები, მიძღვნილი ინტერნეტსივრცის თავისუფლებასა და გახსნილობაზე.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = { -brand-name-mozilla } სასწავლო ქსელი
 # Name for the newsletter in Newsletter subscription page
