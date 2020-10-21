@@ -14,3 +14,4 @@ compare-ie-comparing-firefox-browser-with = Σύγκριση του { -brand-nam
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
 compare-ie-if-you-havent-moved-on-from-using = Αν δεν έχετε ήδη σταματήσει τη χρήση του { -brand-name-ie }, ο παράγοντας "ασφάλεια" αρκεί για να σας πείσει. <a { $attrs }>Ο ίδιος ο επικεφαλής ασφαλείας της { -brand-name-microsoft } έχει προειδοποιήσει</a> εκατομμύρια χρήστες, που συνεχίζουν να χρησιμοποιούν το { -brand-name-ie } ως το κύριο πρόγραμμα περιήγησης, ότι βρίσκονται σε “κίνδυνο”.
+compare-ie-microsoft-is-no-longer-supporting = Η { -brand-name-microsoft } δεν αναπτύσσει πλέον το { -brand-name-ie }, που σημαίνει ότι οι ανησυχίες περί ασφάλειας είναι πολλές. Η { -brand-name-microsoft } αναγνωρίζει ανοικτά το γεγονός ότι υπάρχουν ευπάθειες σε, πρακτικά, κάθε έκδοση του { -brand-name-ie }.
