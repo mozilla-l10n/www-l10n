@@ -259,9 +259,15 @@ newsletters-mozilla = { -brand-name-mozilla }
 newsletters-special-accouncements-and-messages = საგანგებო ცნობები და შეტყობინებები, მიძღვნილი ინტერნეტსივრცის თავისუფლებასა და გახსნილობაზე.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = { -brand-name-mozilla } სასწავლო ქსელი
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = ჩვენი საერთაშორისო ერთობისგან სიახლეები, რომლებიც დაეხმარება ხალხს, აითვისოს ჩვენი ეპოქისთვის უმნიშნელოვანესი უნარები: წერა, კითხვა და ციფრულ სამყაროში მონაწილეობა.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = ჩვენ ვქმნით მომავლის ტექნოლოგიას. შემოგვიერთდით ძიებაში.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = საგანგებო განცხადებები, რომლებიც დაგეხმარებათ სრულყოფილად გამოიყენოთ { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
