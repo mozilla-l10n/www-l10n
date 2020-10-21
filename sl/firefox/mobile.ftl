@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = Zasebnost, ki si jo zaslužite. Hit
 firefox-mobile-get-firefox-for-mobile = Prenesite { -brand-name-firefox } za mobilne naprave
 firefox-mobile-send-a-download-link-to-your = Pošljite povezavo za prenos v telefon.
 firefox-mobile-scan-the-qr-code-to-get-started = Skenirajte QR-kodo, da začnete
+firefox-mobile-scan-alt-text = Skenirajte kodo QR za prenos { -brand-name-firefox }a za mobilne naprave
