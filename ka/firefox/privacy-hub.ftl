@@ -10,7 +10,7 @@ firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } — პი
 # HTML page description
 firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } აღრიცხავს ნაკლებს და ინახავს უსაფრთხოდ, ფარული ზრახვების გარეშე.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox }-პროდუქტები განკუთვნილი თქვენი <strong>პირადულობის</strong> დასაცავად
+firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox }-პროდუქტები განკუთვნილია თქვენი <strong>პირადულობის</strong> დასაცავად
 # Sub navigation title
 firefox-privacy-privacy = პირადულობა
 # Sub navigation link
