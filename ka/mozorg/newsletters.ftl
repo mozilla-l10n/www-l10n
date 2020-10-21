@@ -160,6 +160,18 @@ newsletters-mozillians = მოზილელები
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = განახლებები ელფოსტით mozillians.org-ზე, თავდადებული მოზილელებისთვის.
 # Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = ინტერნეტის მდგომარეობა
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = სიახლეები და ამბები, რაც ინტერნეტის სიჯანსაღეს უკავშირდება.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = სტუდენტთა წარმომადგენლები
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = ადრინდელი, 2008-2011 წლებში არსებული საუნივერსიტეტო პროგრამა, გაუქმებული და ჩანაცვლებულია ახალი Firefox Student Ambassadors პროგრამით.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = შეიტანეთ წვლილი ინტერნეტის გაუმჯობესებაში
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = დააფიქსირეთ თქვენი ხმა შუამდგომლობებში, ღონისძიებებში, წამოწყებებში, ინტერნეტის მომავლისთვის ბრძოლაში.
+# Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = ახალი პროდუქტის გამოცდა
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } ერთობა
