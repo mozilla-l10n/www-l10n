@@ -52,4 +52,5 @@ firefox-more-protection = { -brand-name-firefox }: több védelem. Kevesebb aggo
 were-obsessed-with = Megszállottam védjük a magánszféráját. Ezért tettük a { -brand-name-firefox } privát böngészést még nagyobb tudásúvá, mint mások.
 incognito-browser-what = Inkognitó böngésző: Mit is jelent valójában
 firefox-calls-it = A { -brand-name-firefox } privát böngészésnek, a { -brand-name-chrome } inkognitó módnak hívja. Mindkettővel az előzmények mentése nélkül böngészheti a világhálót.
+take-the-stress = Tegye stresszmentessé a biztonságos böngésző megtalálását.
 building-a-safe = Egy biztonságos böngésző készítése legalább annyira művészet, mint tudomány, mert nincsenek előre meghatározott szabályok.
