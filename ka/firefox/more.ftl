@@ -27,3 +27,5 @@ we-believe-everyone = ჩვენ მიგვაჩნია, რომ ყვ
 firefox-fights-for = { -brand-name-firefox } იბრძვის თქვენთვის { -brand-name-windows }-ზე
 easy-migration-of = გადმოიტანეთ პარამეტრები და სანიშნები მარტივად, როცა ჩამოტვირთავთ { -brand-name-firefox }-ს { -brand-name-windows }-ზე.
 firefox-respects-your = { -brand-name-firefox } პატივს სცემს თქვენს პირადულობას { -brand-name-mac-short }-ზე.
+firefox-doesnt-spy = { -brand-name-firefox } არ გადევნებთ თვალს ძიებისას. ჩვენ ვზღუდავთ თვალთვალს გარეშე ფუნთუშების მეშვეობით და სრულად გიბრუნებთ მართვის სადავეებს.
+firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }-ზე
