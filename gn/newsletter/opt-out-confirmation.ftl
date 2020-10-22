@@ -12,3 +12,7 @@ opt-out-confirmation-yournameexamplecom = yourname@example.com
 # This is a button
 opt-out-confirmation-manage-preferences = Guerohoryvéva jeguereko
 opt-out-confirmation-prefer-to-get = ¿Erekosépa marandu ambue tenda rupive?
+# Link to https://blog.mozilla.org/
+opt-out-confirmation-check-out-our = Ema’ẽmína ore blog rehe
+# Link to https://support.mozilla.org/
+opt-out-confirmation-get-help = Eipota pytyvõ
