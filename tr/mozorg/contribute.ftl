@@ -46,6 +46,7 @@ contribute-opportunities = Haberler ve gönüllülük olanakları
 
 contribute-made-by-heading = İnternete tutkuyla bağlıyız. Tıpkı sizin gibi.
 contribute-made-by-desc = { -brand-name-mozilla }’ya katkıda bulunduğunuzda, internetin iyilik için kullanılması gereken bir güç olduğuna inanan, dünyanın her yanına yayılan bir camiaya katılmış oluyorsunuz.
+contribute-made-by-desc-cont = Biz, kapsayıcı, yenilikçi ve insanlara karşı sorumlu bir internet yaratmak için camia içindeki işbirliğinin hayati olduğuna inanıyoruz. İster teknoloji veya etkinlik organizasyonu konusunda deneyimli olun isterseniz de sadece bir bilgisayar ve biraz boş zamanınız olsun, interneti daha iyi bir yere dönüştürmemize yardım edebilirsiniz.
 
 ## Newsletter
 
@@ -62,4 +63,5 @@ contribute-mozilla-support = { -brand-name-mozilla } Desteği
 ## Web compat
 
 contribute-web-compat-heading = Bir web sayfasıyla ilgili sorun mu yaşıyorsunuz?
+contribute-web-compat-desc = Bir web sitesi farklı tarayıcılarda farklı davranıyorsa bir web uyumluluğu sorunu keşfetmiş olabilirsiniz. Bunları bize bildirebilirsiniz.
 contribute-report-issue = Sorun bildirin
