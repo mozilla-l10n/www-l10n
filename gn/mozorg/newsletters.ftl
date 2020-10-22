@@ -39,6 +39,7 @@ newsletters-were-sorry-to-see-you-go = Rombyasy esẽ haguére.
 newsletters-would-you-mind-telling-us = ¿Ikatúpiko emombe’umi mba’érepa esẽ?
 newsletters-other = Ambue mba’ére…
 newsletters-submit = Mondo
+newsletters-thanks-for-telling-us-why = Aguyje ndéve emombe’úre mba’érepa esẽ.
 newsletters-get-up-and-go = Ñembo’y ha jeguatápe
 newsletters-its-your-web-anywhere-you = Pe Ñanduti nemba’ete eho ehohápe.
 newsletters-get-firefox-for-mobile = ¡Ereko { -brand-name-firefox } ne pumbyrýpe!
