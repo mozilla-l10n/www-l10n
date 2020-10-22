@@ -44,7 +44,7 @@ newsletters-format = Fformat:
 newsletters-text-subscribers-will-receive = Bydd tanysgrifwyr testun yn derbyn e-bost ddwywaith y flwyddyn i gadarnhau parhad y tanysgrifiad. Gall yr e-byst hynny gynnwys HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Mae llawer o'n cyfathrebu'n gysylltiedig â chyfrif rydych chi wedi cofrestru ar ei gyfer, fel { -brand-name-firefox-account }, { -brand-name-mdn-web-docs }, neu Datblygwr Ychwanegol. I reoli un o'ch cyfrifon neu weld rhestr o'r holl gyfrifon, ewch i'n <a href="{ $url }">tudalen cymorth rheoli cyfrifon</a>.
+newsletters-many-of-our-communications = Mae llawer o'n cyfathrebu'n gysylltiedig â chyfrif rydych chi wedi cofrestru ar ei gyfer, fel { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, neu Datblygwr Ychwanegol. I reoli un o'ch cyfrifon neu weld rhestr o'r holl gyfrifon, ewch i'n <a href="{ $url }">tudalen cymorth rheoli cyfrifon</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = I gael mynediad i'r cyfan am gynnyrch, gwybodaeth a gwasanaethau { -brand-name-firefox } mewn un cyfrif, ymunwch â ni! Dysgwch ragor am y buddion <a href="{ $url }"> yma </a>.
@@ -220,7 +220,7 @@ newsletters-dont-miss-important-news = Peidiwch â cholli newyddion pwysig a diw
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Chi
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-newsletters-a-monthly-newsletter-and-special = Cylchlythyr misol a chyhoeddiadau arbennig yn rhoi cymorth i chi ar sut i wella eich profiad o ddefnyddio'ch dyfais Firefox OS, gan gynnwys y nodweddion diweddaraf a'r apiau Marketplace gorau.
+newsletters-a-monthly-newsletter-and-special = Cylchlythyr misol a chyhoeddiadau arbennig yn rhoi cymorth i chi ar sut i wella eich profiad o ddefnyddio'ch dyfais { -brand-name-firefox-os }, gan gynnwys y nodweddion diweddaraf a'r apiau { -brand-name-firefox-marketplace } gorau.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Awgrymiadau Wythnosol { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
