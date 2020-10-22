@@ -47,6 +47,14 @@ newsletters-find-out-how = ¡Ehecha mba’éichapa!
 newsletters-about-us = Orekuaave
 newsletters-whats-mozilla-all-about = ¿Mba’épa { -brand-name-mozilla }?
 # Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Labs rehegua
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Mesa arigua
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozillians
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = { -brand-name-mozilla } rekoha
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
