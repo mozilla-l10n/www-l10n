@@ -47,6 +47,14 @@ newsletters-find-out-how = ¡Ehecha mba’éichapa!
 newsletters-about-us = Orekuaave
 newsletters-whats-mozilla-all-about = ¿Mba’épa { -brand-name-mozilla }?
 # Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Drumbeat marandu aty
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Emba’apóke
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
+# Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Labs rehegua
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Mesa arigua
