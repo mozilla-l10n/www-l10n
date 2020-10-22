@@ -46,3 +46,17 @@ newsletters-added-extras = Mbojuajupyre
 newsletters-find-out-how = ¡Ehecha mba’éichapa!
 newsletters-about-us = Orekuaave
 newsletters-whats-mozilla-all-about = ¿Mba’épa { -brand-name-mozilla }?
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Marandu { -brand-name-mozilla } rehegua
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Aty mbokatupyryha
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
