@@ -47,6 +47,30 @@ newsletters-find-out-how = ¡Ehecha mba’éichapa!
 newsletters-about-us = Orekuaave
 newsletters-whats-mozilla-all-about = ¿Mba’épa { -brand-name-mozilla }?
 # Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = { -brand-name-beta } Marandu
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = ¿{ -brand-name-firefox-os } pumbyry ha’evéva jára?
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Nde
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Ejuaju { -brand-name-mozilla } ndive
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Marandu { -brand-name-firefox } rehegua
+# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Marandu { -brand-name-mozilla } rehegua
