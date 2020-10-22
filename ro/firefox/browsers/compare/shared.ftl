@@ -10,6 +10,7 @@ compare-shared-yes = Da
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Nu
 compare-shared-private-browsing-mode = Mod de navigare privată
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blochează cookie-urile de urmărire de la terți
 compare-shared-blocks-cryptomining-scripts = Blochează scripturile de criptominerit
 compare-shared-blocks-social-trackers = Blochează elementele de urmărire ale rețelelor sociale
@@ -27,17 +28,19 @@ compare-shared-os-availability = Disponibilitate pentru sistemul de operare
 compare-shared-mobile-os-availability = Disponibilitate pentru sistemul de operare de dispozitive mobile
 compare-shared-syncs-with-mobile = Se sincronizează cu dispozitive mobile
 compare-shared-password-management = Gestionare parole
+# Obsolete string
 compare-shared-master-password = Parolă principală
 compare-shared-security-and-privacy = Securitate și confidențialitate
 compare-shared-utility = Utilitate
 compare-shared-portability = Portabilitate
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Securitate și <strong>Confidențialitate</strong>
+compare-shared-security-and-privacy-strong = Securitate și <strong>confidențialitate</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Utilitate</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilitate</strong>
 compare-shared-overall-assessment = Evaluare generală
+# Obsolete string
 compare-shared-the-comparisons-made-here = Comparațiile de aici sunt pentru următoarele versiuni de browsere:
 compare-shared-this-page-updated-semi-quarterly = Această pagină este actualizată semi-semestrial și poate să nu fie mereu la curent cu cele mai recente versiuni.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
