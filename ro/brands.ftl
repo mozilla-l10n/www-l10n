@@ -25,8 +25,8 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
--brand-name-firefox-browsers = Browsere  Firefox
+-brand-name-firefox-browser = browserul Firefox
+-brand-name-firefox-browsers = browsere Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -73,6 +73,9 @@
 -brand-name-send = Send
 -brand-name-sync = Sync
 
+## Firefox products (legacy)
+
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -92,6 +95,9 @@
 -brand-name-common-voice = Common Voice
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+
+## Mozilla projects (legacy)
+
 
 ## Open Source projects
 
