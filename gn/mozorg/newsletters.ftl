@@ -43,3 +43,6 @@ newsletters-get-up-and-go = Ñembo’y ha jeguatápe
 newsletters-its-your-web-anywhere-you = Pe Ñanduti nemba’ete eho ehohápe.
 newsletters-get-firefox-for-mobile = ¡Ereko { -brand-name-firefox } ne pumbyrýpe!
 newsletters-added-extras = Mbojuajupyre
+newsletters-find-out-how = ¡Ehecha mba’éichapa!
+newsletters-about-us = Orekuaave
+newsletters-whats-mozilla-all-about = ¿Mba’épa { -brand-name-mozilla }?
