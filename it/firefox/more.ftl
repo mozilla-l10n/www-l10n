@@ -16,6 +16,7 @@ get-the-browsers = Usa i browser che mettono la tua privacy al primo posto, da s
 take-your-passwords = Porta le tue password sempre con te
 securely-access-the = Accedi in tutta sicurezza alle password salvate in { -brand-name-firefox } dovunque, anche all’esterno del browser.
 choose-which-firefox = Scegli quale { -brand-name-firefox-browser } scaricare nella tua lingua
+firefox-fights-for = { -brand-name-firefox } si batte per te su { -brand-name-windows }
 firefox-for-linux = { -brand-name-firefox } per { -brand-name-linux }
 firefox-for-windows = { -brand-name-firefox } per { -brand-name-windows } a 64 bit
 seven-of-the = Sette dei migliori browser messi a confronto
