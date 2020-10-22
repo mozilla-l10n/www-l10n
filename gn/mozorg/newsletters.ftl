@@ -44,9 +44,13 @@ newsletters-get-up-and-go = Ñembo’y ha jeguatápe
 newsletters-its-your-web-anywhere-you = Pe Ñanduti nemba’ete eho ehohápe.
 newsletters-get-firefox-for-mobile = ¡Ereko { -brand-name-firefox } ne pumbyrýpe!
 newsletters-added-extras = Mbojuajupyre
+newsletters-make-firefox-do-more-with = { -brand-name-firefox } ojapove embojuajúramo moĩmbaha.
 newsletters-find-out-how = ¡Ehecha mba’éichapa!
 newsletters-about-us = Orekuaave
 newsletters-whats-mozilla-all-about = ¿Mba’épa { -brand-name-mozilla }?
+newsletters-were-glad-you-asked = ¡Rovy’aiterei ne eporandúre!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = ¿Ehayhúpa ñanduti? ¡Ore avei!
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Drumbeat marandu aty
 # Name for the newsletter in Newsletter subscription page
