@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = I prodotti { -brand-name-firefox } sono progettati per proteggere la tua privacy
+learn-more-about = Scopri di più sui browser e i prodotti { -brand-name-firefox }, che trattano i tuoi dati con rispetto e sono sviluppati con un occhio di riguardo alla privacy per la tua navigazione online.
 learn-more = Ulteriori informazioni
 the-history-of = La storia dei browser web
 firefox-rebel-with = { -brand-name-firefox }: l’idealista ribelle
