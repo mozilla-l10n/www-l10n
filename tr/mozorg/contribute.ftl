@@ -27,10 +27,12 @@ contribute-task-mozilla-codebase-heading = { -brand-name-mozilla } kod tabanına
 contribute-task-mozilla-codebase-desc = Çeşitli geliştirme olanaklarına katkıda bulunarak { -brand-name-mozilla } ürünlerini aktif bir şekilde geliştirin.
 contribute-task-support-desc = { -brand-name-mozilla } ürünlerinin kullanımını kolaylaştırın. { -brand-name-mozilla } Destek forumlarına katılarak kullanıcıların destek taleplerini yanıtlayın.
 contribute-task-join-heading = Topluluğa katılın
+contribute-task-join-desc = { -brand-name-mozilla } topluluğuna daha fazla katkıda bulunmak ister misiniz? Topluluk Portali'mizdeki tüm olanakları göz atın.
 
 ## Mission
 
 contribute-mission-heading = Misyonumuz
+contribute-mission-desc = Misyonumuz, internetin açık ve herkesçe erişilebilir, küresel bir ortak kaynak olarak kalmasını sağlamak. İnsanları gerçekten ilk sıraya koyan; bireylerin kendi deneyimlerini şekillendirebildiği, gücü ellerinde tuttuğu, güvende ve bağımsız olduğu bir internet inşa ediyoruz.
 contribute-learn = { -brand-name-mozilla } hakkında bilgi alın
 contribute-read-manifesto = Manifestomuzu okuyun
 contribute-find-event = Etkinlik bulun
@@ -42,10 +44,14 @@ contribute-opportunities = Haberler ve gönüllülük olanakları
 
 ## Made by
 
+contribute-made-by-heading = İnternete tutkuyla bağlıyız. Tıpkı sizin gibi.
+contribute-made-by-desc = { -brand-name-mozilla }’ya katkıda bulunduğunuzda, internetin iyilik için kullanılması gereken bir güç olduğuna inanan, dünyanın her yanına yayılan bir camiaya katılmış oluyorsunuz.
 
 ## Newsletter
 
+contribute-newsletter-heading = Karar veremediniz mi?
 contribute-newsletter-sub-heading = Topluluk ve gönüllük haberleri e-posta adresinize gelsin
+contribute-newsletter-desc = Bültenimize abone olun, dünyanın her yanındaki Mozillan’lara katılın ve { -brand-name-mozilla } misyonunu desteklemenizi sağlayacak olanaklar hakkında bilgi edinin.
 
 ## Support
 
