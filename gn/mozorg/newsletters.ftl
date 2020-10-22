@@ -28,3 +28,10 @@ newsletters-format = Ysaja:
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } ndaha’éi haipyre’i okóva
+newsletters-subscribe = Añemboheraguapy
+newsletters-remove-me-from-all-the = Aipe’apáta che ñemboheraguapy ko kuatiaroguégui
+newsletters-save-preferences = Jerohoryvéva ñongatu
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = Haipyre’i ñanduti veve jeguerujey
+newsletters-send-me-a-link = Embou chéve juajuha
+newsletters-youve-been-unsubscribed = Eipe’áma ñemboheraguapy.
