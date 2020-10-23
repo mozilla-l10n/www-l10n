@@ -13,6 +13,7 @@ what-is-firefox = Vad är { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = Hur hämtar jag { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -21,14 +22,18 @@ what-is-firefox = Vad är { -brand-name-firefox }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = Är { -brand-name-firefox } gratis?
+is-chrome-better = Är { -brand-name-chrome } bättre än { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = Är { -brand-name-firefox } säkert att ladda ner?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Är { -brand-name-firefox } säker?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
@@ -37,6 +42,7 @@ what-is-firefox = Vad är { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Varför är { -brand-name-firefox } så långsam?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -46,6 +52,7 @@ what-is-firefox = Vad är { -brand-name-firefox }?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+who-owns-firefox = Vem äger { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
