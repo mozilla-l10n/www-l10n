@@ -12,6 +12,7 @@ the-history-of = La storia dei browser web
 firefox-rebel-with = { -brand-name-firefox }: l’idealista ribelle
 firefox-is-independent = { -brand-name-firefox } è un browser indipendente ed è sostenuto da { -brand-name-mozilla }, l’organizzazione senza fini di lucro che si batte per i diritti degli utenti online e mira a rendere Internet accessibile a tutti, ovunque.
 what-is-a = Che cos’è un browser web?
+a-web-browser = Un browser web ti conduce ovunque su Internet, permettendoti di visualizzare testi, immagini e video provenienti da qualsiasi parte del mondo.
 firefox-is-more = { -brand-name-firefox } è molto più di un browser
 get-the-browsers = Usa i browser che mettono la tua privacy al primo posto, da sempre
 take-your-passwords = Porta le tue password sempre con te
