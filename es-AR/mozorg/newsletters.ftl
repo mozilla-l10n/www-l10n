@@ -120,3 +120,12 @@ newsletters-travel-the-internet = Navegá por Internet con protección en todos 
 newsletters-download-the-app = Descargá la aplicación
 newsletters-check-for-data-breaches = Verificá si hay violaciones de datos
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } es un servicio gratuito que te permite ver si estás involucrado en una violación de datos en línea.
+newsletters-sign-in-to-monitor = Iniciar sesión en { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Conocé nuestra marca matriz
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, la organización sin fines de lucro detrás de { -brand-name-firefox }, pone a las personas por encima de las ganancias en todo lo que decimos, construimos y hacemos.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Acerca de los estándares
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Desarrollo de complementos
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Boletín para desarrolladores
