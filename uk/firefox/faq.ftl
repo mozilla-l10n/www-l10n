@@ -7,11 +7,16 @@
 
 # HTML page title
 firefox-faq = ЧАП { -brand-name-firefox }
+whether-you-searched-privacy = Якщо ви шукали швидкий браузер, який захищає вашу приватність, цей розділ частих питань тут і відповідає на найактуальніші питання, пов’язані з { -brand-name-firefox }.
+whether-you-searched-independant = Незалежно від того, чи шукали ви швидкий переглядач, чи шукаєте незалежну технологію, яка захищає вашу приватність, ці часті питання пропонують відповіді на найактуальніші питання, пов’язані з { -brand-name-firefox }.
+what-is-firefox = Що таке { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } — єдиний основний браузер, який підтримується неприбутковою компанією, яка не продає ваші персональні дані рекламодавцям, одночасно допомагаючи вам захищати вашу особисту інформацію. Докладніше про <a href="{ $url }">{ -brand-name-firefox-browsers }</a> та <a href="{ $url2 }">інші продукти.</a>
+how-do-i = Як отримати { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
