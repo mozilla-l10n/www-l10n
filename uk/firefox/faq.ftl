@@ -25,6 +25,7 @@ how-do-i = Як отримати { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Ви можете легко завантажити браузер { -brand-name-firefox } <a href="{ $url }">звідси.</a> { -brand-name-firefox } працює на пристроях з <a href="{ $url2 }">{ -brand-name-windows }, </a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> і <a href="{ $url4 }">{ -brand-name-linux }</a>, а також доступний для<a href="{ $url5 }">{ -brand-name-android } та { -brand-name-ios } . </a> Переконайтеся, що ви завантажуєте наш браузер з однієї з наших надійних сторінок { -brand-name-mozilla }/{ -brand-name-firefox }.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
