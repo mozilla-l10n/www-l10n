@@ -120,6 +120,8 @@ newsletters-travel-the-internet = Путешествуйте по Интерне
 newsletters-download-the-app = Загрузить приложение
 newsletters-check-for-data-breaches = Проверить на утечки данных
 newsletters-sign-in-to-monitor = Войти в { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Познакомьтесь с нашим родительским брендом
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, некоммерческая организация, стоящая за { -brand-name-firefox }, ставит людей выше прибыли во всём, что мы говорим, строим и делаем.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = О стандартах
 # Name for the newsletter in Newsletter subscription page
@@ -136,6 +138,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } для компьют�
 newsletters-dont-miss-the-latest = Не пропустите последние объявления о нашем браузере.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Примите участие
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Аналитика
 # Obsolete string
 newsletters-internet-health-report = Доклад о здоровье Интернета
 # Obsolete string
