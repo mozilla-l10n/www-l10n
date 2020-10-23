@@ -119,3 +119,4 @@ newsletters-take-your-privacy = Llevá la privacidad con vos
 newsletters-travel-the-internet = Navegá por Internet con protección en todos los dispositivos.
 newsletters-download-the-app = Descargá la aplicación
 newsletters-check-for-data-breaches = Verificá si hay violaciones de datos
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } es un servicio gratuito que te permite ver si estás involucrado en una violación de datos en línea.
