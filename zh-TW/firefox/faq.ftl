@@ -73,12 +73,12 @@ does-firefox-have = { -brand-name-firefox } 內建 VPN 嗎？
 # $url2 (url) - link to https://vpn.mozilla.org/
 
 firefox-does-not = { -brand-name-firefox } 並沒有內建 VPN （虛擬私人網路）的功能，但 { -brand-name-mozilla }/{ -brand-name-firefox } 有推出另兩套產品，讓您可以在使用 { -brand-name-firefox-browser }（<a href="{ $url }">{ -brand-name-firefox-private-network }</a>）或是使用裝置於 Wi-Fi 上網（<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>）時保護隱私與 IP 位置。
-related-questions-ip = 相關問題: { -brand-name-firefox } 會隱藏您的 IP 地址嗎
+related-questions-ip = 相關問題: { -brand-name-firefox } 會隱藏您的 IP 地址嗎？
 who-owns-firefox = 誰擁有 { -brand-name-firefox }？
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = { -brand-name-firefox } 是由非營利組織 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 的全資子公司 { -brand-name-mozilla-corporation } 打造，並且遵循 { -brand-name-mozilla } Manifesto 的原則進行開發。您可以<a href="{ $url2 }">在此</a>更加了解 { -brand-name-firefox } 的開發者。
-related-questions-who = 相關問題: 誰擁有 { -brand-name-firefox }？、誰擁有 { -brand-name-firefox-browser }？、{ -brand-name-google } 擁有 { -brand-name-firefox } 嗎？、{ -brand-name-google } 擁有 { -brand-name-mozilla }{ -brand-name-firefox } 嗎？
+firefox-is-made = { -brand-name-firefox } 是由非營利組織 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 的全資子公司 { -brand-name-mozilla-corporation } 打造，並且遵循 { -brand-name-mozilla } Manifesto 的宣言內容運轉。您可以<a href="{ $url2 }">在此</a>更加了解 { -brand-name-firefox } 的開發者。
+related-questions-who = 相關問題: 誰擁有 { -brand-name-firefox }？、誰擁有 { -brand-name-firefox-browser }？、{ -brand-name-google } 擁有 { -brand-name-firefox } 嗎？、{ -brand-name-google } 擁有 { -brand-name-mozilla } { -brand-name-firefox } 嗎？
