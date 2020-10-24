@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } 常见问题
+whether-you-searched-privacy = 无论您是否想要寻找一款能够保护隐私、速度又快的浏览器，下方的 FAQ 列出了与 { -brand-name-firefox } 最相关的常见问题。
+whether-you-searched-independant = 无论您只是想寻找一款快速的浏览器，还是要觅得能够保护您隐私的独立技术，下方的 FAQ 列出了与 { -brand-name-firefox } 最相关的常见问题。
 what-is-firefox = { -brand-name-firefox } 是什么？
 
 # Variables:
