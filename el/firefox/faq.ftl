@@ -7,11 +7,13 @@
 
 # HTML page title
 firefox-faq = Συνήθεις ερωτήσεις { -brand-name-firefox }
+what-is-firefox = Τι είναι το { -brand-name-firefox };
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = Πώς κάνω λήψη του { -brand-name-firefox-browser };
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -20,6 +22,9 @@ firefox-faq = Συνήθεις ερωτήσεις { -brand-name-firefox }
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = Είναι το { -brand-name-firefox } δωρεάν;
+related-questions-free = Σχετικές ερωτήσεις: είναι το { -brand-name-firefox-browser } δωρεάν, κοστίζει το { -brand-name-firefox } χρήματα
+is-chrome-better = Είναι το { -brand-name-chrome } καλύτερο από το { -brand-name-firefox };
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -53,6 +58,8 @@ does-firefox-have = Διαθέτει το { -brand-name-firefox } ενσωματ
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Σχετικές ερωτήσεις: κρύβει το { -brand-name-firefox } τη διεύθυνση IP σας
+who-owns-firefox = Σε ποια εταιρεία ανήκει το { -brand-name-firefox };
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
