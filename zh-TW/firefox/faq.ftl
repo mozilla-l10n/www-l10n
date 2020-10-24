@@ -53,11 +53,13 @@ does-firefox-sell = { -brand-name-firefox } 會賣掉您的個人資料嗎？
 why-is-firefox = 為什麼 { -brand-name-firefox } 用起來這麼慢？
 firefox-isnt-slow = { -brand-name-firefox } 現在已經不慢了…。我們在 2017 年重新打造了瀏覽器的引擎（稱為 Quantum）以確保 { -brand-name-firefox } 能與其他主要瀏覽器相比較。另外，我們的追蹤器封鎖功能也能幫助讓網頁更快載入。所以 { -brand-name-firefox } 現在運作光速快，而您的隱私完全不會被犧牲。
 is-firefox-chromium = { -brand-name-firefox } 是使用 { -brand-name-chromium } 技術的瀏覽器嗎？
+firefox-is-not = { -brand-name-firefox } 並非使用 { -brand-name-chromium } 核心（{ -brand-name-google } { -brand-name-chrome } 的瀏覽器核心的開放原始碼專案）的瀏覽器。實際上，我們是最後一套不採用 { -brand-name-chromium } 的主流瀏覽器。{ -brand-name-firefox } 使用的是我們專門針對 { -brand-name-firefox } 打造的 Quantum 核心以確保能夠好好尊重您的資料並且確保隱私。
 does-firefox-use = { -brand-name-firefox } 使用 { -brand-name-google } 產品嗎？
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-firefox } 瀏覽器預設使用 { -brand-name-google } 搜尋引擎，代表您可以直接從網址列輸入關鍵字，使用 { -brand-name-google } 進行搜尋。<a href="{ $url }">可在此了解搜尋引擎偏好設定的相關資訊，以及要如何更改預設瀏覽器。</a>
 does-firefox-have = { -brand-name-firefox } 內建 VPN 嗎？
 
 # Variables:
