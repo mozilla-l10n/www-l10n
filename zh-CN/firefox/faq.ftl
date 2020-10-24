@@ -26,14 +26,14 @@ how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 
 is-firefox-free = { -brand-name-firefox } 收费吗？
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
-related-questions-free = 相关问题：{ -brand-name-firefox-browser }是免费的吗；{ -brand-name-firefox } 需要付费吗
+related-questions-free = 相关问题：{ -brand-name-firefox-browser }是否免费；{ -brand-name-firefox } 是否需要付费
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 更好吗？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">看看 { -brand-name-firefox } 与 { -brand-name-chrome } 间的比较。</a>
-related-questions-better = 相关问题：{ -brand-name-firefox } 比 { -brand-name-chrome } 更好吗；{ -brand-name-firefox } 比 { -brand-name-google } 好吗；{ -brand-name-firefox } 比 { -brand-name-chrome } 更安全吗；{ -brand-name-firefox } 比 { -brand-name-chrome } 更有隐私吗
+related-questions-better = 相关问题：{ -brand-name-firefox } 是否比 { -brand-name-chrome } 更好；{ -brand-name-firefox } 是否比 { -brand-name-google } 好；{ -brand-name-firefox } 是否比 { -brand-name-chrome } 更安全；{ -brand-name-firefox } 是否比 { -brand-name-chrome } 更有隐私
 is-firefox-safe-download = 下载 { -brand-name-firefox } 安全吗？
 
 # Variables:
@@ -44,7 +44,7 @@ is-firefox-safe = { -brand-name-firefox } 是否安全？
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
-related-questions-safe = 相关问题：{ -brand-name-firefox } 在隐私保护上做得好吗；{ -brand-name-firefox } 安全吗；{ -brand-name-firefox } 在隐私保护上做得更好吗
+related-questions-safe = 相关问题：{ -brand-name-firefox } 在隐私保护上做得是否好；{ -brand-name-firefox } 是否安全；{ -brand-name-firefox } 在隐私保护上是否做得更好
 does-firefox-sell = { -brand-name-firefox } 会卖掉您的个人数据吗？
 
 # Variables:
@@ -52,6 +52,7 @@ does-firefox-sell = { -brand-name-firefox } 会卖掉您的个人数据吗？
 
 why-is-firefox = 为什么 { -brand-name-firefox } 这么慢？
 is-firefox-chromium = { -brand-name-firefox } 是否基于 { -brand-name-chromium }？
+firefox-is-not = { -brand-name-firefox } 并非基于 { -brand-name-chromium }（{ -brand-name-google } { -brand-name-chrome } 内核的开源浏览器项目）。实际上，我们是最后一款非 { -brand-name-chromium } 类主流浏览器。{ -brand-name-firefox } 使用的是我们专为 { -brand-name-firefox } 构建的 Quantum 引擎，以确保您的数据安全无虞。
 does-firefox-use = { -brand-name-firefox } 使用 { -brand-name-google } 产品吗？
 
 # Variables:
@@ -65,7 +66,7 @@ does-firefox-have = { -brand-name-firefox } 是否内置 VPN？
 # $url2 (url) - link to https://vpn.mozilla.org/
 
 firefox-does-not = { -brand-name-firefox } 并未内置 VPN （虚拟专用网络）的功能，但 { -brand-name-mozilla } / { -brand-name-firefox } 已推出另两款产品，可在 WI-FI 环境下，保护 { -brand-name-firefox-browser }（<a href="{ $url }">{ -brand-name-firefox-private-network }</a>）或设备（<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>）的隐私和 IP 地址。
-related-questions-ip = 相关问题：{ -brand-name-firefox } 会隐藏您的 IP 地址吗
+related-questions-ip = 相关问题：{ -brand-name-firefox } 能否隐藏您的 IP 地址
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
