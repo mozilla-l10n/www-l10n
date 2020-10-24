@@ -7,12 +7,15 @@
 
 # HTML page title
 firefox-faq = Vanliga frågor om { -brand-name-firefox }
+whether-you-searched-privacy = Oavsett om du sökte efter en snabb webbläsare som skyddar din integritet, är denna FAQ här för att svara på de viktigaste frågorna om { -brand-name-firefox }.
+whether-you-searched-independant = Oavsett om du sökte efter en snabb webbläsare eller om du letade efter oberoende teknik som skyddar din integritet, är denna FAQ här för att svara på de viktigaste frågorna om { -brand-name-firefox }.
 what-is-firefox = Vad är { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } är den enda stora webbläsaren som backas upp av en ideell organisation som inte säljer dina personuppgifter till annonsörer och samtidigt hjälper dig att skydda din personliga information. Läs mer om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> och <a href="{ $url2 }">andra produkter</a>.
 how-do-i = Hur hämtar jag { -brand-name-firefox-browser }?
 
 # Variables:
@@ -22,6 +25,7 @@ how-do-i = Hur hämtar jag { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Du kan enkelt ladda ner webbläsaren { -brand-name-firefox } <a href="{ $url }">här</a>. { -brand-name-firefox } fungerar på <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> och <a href="{ $url4 }">{ -brand-name-linux }</a> enheter och är också tillgänglig för <a href="{ $url5 }">{ -brand-name-android } och { -brand-name-ios }</a>. Se till att du laddar ner vår webbläsare från en av våra betrodda sidor { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = Är { -brand-name-firefox } gratis?
 is-chrome-better = Är { -brand-name-chrome } bättre än { -brand-name-firefox }?
 
