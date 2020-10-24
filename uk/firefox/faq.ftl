@@ -55,6 +55,7 @@ does-firefox-sell = Чи продає { -brand-name-firefox } ваші особ�
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Ні. Ніколи не продавав і ніколи не буде. І ми захищаємо вас від багатьох рекламодавців, які це роблять. Продукти { -brand-name-firefox } призначено для захисту вашої приватності. <a href="{ $url }">Обіцяємо.</a>
 why-is-firefox = Чому { -brand-name-firefox } так повільний?
 is-firefox-chromium = Чи засновано { -brand-name-firefox } на { -brand-name-chromium }?
 does-firefox-use = Чи використовує { -brand-name-firefox } { -brand-name-google }?
