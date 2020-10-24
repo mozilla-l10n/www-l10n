@@ -69,8 +69,11 @@ does-firefox-have = { -brand-name-firefox } 是否内置 VPN？
 
 firefox-does-not = { -brand-name-firefox } 并未内置 VPN （虚拟专用网络）的功能，但 { -brand-name-mozilla } / { -brand-name-firefox } 已推出另两款产品，可在 WI-FI 环境下，保护 { -brand-name-firefox-browser }（<a href="{ $url }">{ -brand-name-firefox-private-network }</a>）或设备（<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>）的隐私和 IP 地址。
 related-questions-ip = 相关问题：{ -brand-name-firefox } 能否隐藏您的 IP 地址
+who-owns-firefox = 谁掌舵着 { -brand-name-firefox }？
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } 由非营利组织 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 的全资子公司 { -brand-name-mozilla-corporation }推出，并严格遵循 { -brand-name-mozilla } 宣言的准则。您可以<a href="{ $url2 }">在此</a>详细了解 { -brand-name-firefox } 的开发者。
+related-questions-who = 相关问题：谁拥有 { -brand-name-firefox }；谁拥有 { -brand-name-firefox-browser }；{ -brand-name-google } 是否拥有着 { -brand-name-firefox }；{ -brand-name-google } 是否拥有着 { -brand-name-mozilla } { -brand-name-firefox }
