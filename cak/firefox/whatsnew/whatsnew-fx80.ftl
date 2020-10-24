@@ -8,4 +8,6 @@
 # html page title
 whatsnew80-page-title = Achike k'ak'a' k'o pa { -brand-name-firefox }
 whatsnew80-up-to-date-banner = ¡Yalan ütz! Nawokisaj ri ruk'isib'äl ruwäch { -brand-name-firefox }.
+# Main title
+whatsnew80-main-title = Tab'ana' ronojel, jub'a' mas aninäq
 whatsnew80-new-firefox-android = K'ak'a' { -brand-name-firefox } richin { -brand-name-android }
