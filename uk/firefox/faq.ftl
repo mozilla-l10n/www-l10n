@@ -80,3 +80,5 @@ who-owns-firefox = Хто володіє { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } створено { -brand-name-mozilla-corporation }, дочірньою компанією неприбуткової <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> та керується принципами Маніфесту { -brand-name-mozilla }. Докладніше про виробника { -brand-name-firefox } <a href="{ $url2 }">тут.</a>
+related-questions-who = Пов’язані питання: хто є власником { -brand-name-firefox }, хто володіє { -brand-name-firefox-browser }, чи належить { -brand-name-firefox } { -brand-name-google }, чи належить { -brand-name-mozilla } { -brand-name-firefox } компанії { -brand-name-google }
