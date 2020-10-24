@@ -34,6 +34,7 @@ comparing-firefox-ie = Přirunanje mjez { -brand-name-firefox-browser } a { -bra
 comparing-firefox-safari = Přirunanje mjez { -brand-name-firefox-browser } a { -brand-name-apple } { -brand-name-safari }
 you-dont-have = Njetrjebaće po standardźe standardny wobhladowak wužiwać.
 comparing-firefox-opera = Přirunanje mjez { -brand-name-firefox-browser } a { -brand-name-opera }
+be-free-to = Spěwajće chwalbu na { -brand-name-firefox }, hdyžkuli chceće.
 the-ad-blocker = Wabjenski blokowak - tajna bróń přećiwo wobćežnemu wabjenju.
 so-many-ads = Tak wjele wabjenja, tak mało sćerpnosće… Je čas, błudnosć skónčić.
 firefox-more-protection = { -brand-name-firefox }: Wjace škita. Mjenje starošćow.
