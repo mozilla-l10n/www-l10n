@@ -28,7 +28,7 @@ is-chrome-better = Är { -brand-name-chrome } bättre än { -brand-name-firefox 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
-is-firefox-safe-download = Är { -brand-name-firefox } säkert att ladda ner?
+is-firefox-safe-download = Är { -brand-name-firefox } säker att ladda ner?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -43,15 +43,18 @@ is-firefox-safe = Är { -brand-name-firefox } säker?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Varför är { -brand-name-firefox } så långsam?
+does-firefox-use = Använder { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Har { -brand-name-firefox } ett inbyggt VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Relaterade frågor: döljer { -brand-name-firefox } din IP-adress
 who-owns-firefox = Vem äger { -brand-name-firefox }?
 
 # Variables:
