@@ -23,7 +23,7 @@ how-do-i = Como obter o { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = O { -brand-name-firefox } é gratuito?
-is-chrome-better = O { -brand-name-chrome } é melhor do que o { -brand-name-firefox }?
+is-chrome-better = O { -brand-name-chrome } é melhor que o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
