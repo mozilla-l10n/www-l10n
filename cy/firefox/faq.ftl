@@ -80,3 +80,5 @@ who-owns-firefox = Pwy sydd bia { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = Mae  { -brand-name-firefox }gan { -brand-name-mozilla-corporation } is-gwmni sy'n eiddo llwyr i'r <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ac mae'n cael ei arwain gan egwyddorion Maniffesto { -brand-name-mozilla }. Dysgwch fwy am wneuthurwr { -brand-name-firefox } <a href="{ $url2 }">yma.</a>{ -brand-name-mozilla-corporation }
+related-questions-who = Cwestiynau cysylltiedig: pwy sydd bia { -brand-name-firefox }, ac sy'n berchen ar { -brand-name-firefox-browser }, a yw { -brand-name-firefox } yn eiddo i { -brand-name-google }, a yw { -brand-name-mozilla } { -brand-name-firefox } yn eiddo i { -brand-name-google }
