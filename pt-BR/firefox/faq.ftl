@@ -13,6 +13,7 @@ what-is-firefox = O que é { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = Como obter o { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -21,26 +22,36 @@ what-is-firefox = O que é { -brand-name-firefox }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = O { -brand-name-firefox } é gratuito?
+is-chrome-better = O { -brand-name-chrome } é melhor do que o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Veja uma comparação entre { -brand-name-firefox } e { -brand-name-chrome }.</a>
+is-firefox-safe-download = É seguro baixar o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = O { -brand-name-firefox } é seguro?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = O { -brand-name-firefox } vende seus dados pessoais?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Por que o { -brand-name-firefox } é tão lento?
+is-firefox-chromium = O { -brand-name-firefox } é baseado no { -brand-name-chromium }?
+does-firefox-use = O { -brand-name-firefox } usa o { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = O { -brand-name-firefox } tem uma VPN integrada?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
