@@ -7,11 +7,13 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } 常见问题
+what-is-firefox = { -brand-name-firefox } 是什么？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -20,6 +22,10 @@ firefox-faq = { -brand-name-firefox } 常见问题
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = { -brand-name-firefox } 收费吗？
+yep-the-firefox = 不用，使用 { -brand-name-firefox-browser } 是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
+related-questions-free = 相关问题：{ -brand-name-firefox-browser } 是免费的吗？{ -brand-name-firefox } 需要付费吗？
+is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 更好吗？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
