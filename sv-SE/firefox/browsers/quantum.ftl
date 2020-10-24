@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Hämta { -brand-name-firefox-quantum }
+page-description = { -brand-name-firefox-quantum } var en revolution. År 2017 skapade vi en ny, blixtsnabb webbläsare som ständigt förbättras. { -brand-name-firefox-quantum } är { -brand-name-firefox-browser }.
+the-latest-firefox = Den senaste { -brand-name-firefox }-motorn: { -brand-name-firefox-quantum }
