@@ -23,12 +23,14 @@ how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Je { -brand-name-firefox } darmotny?
+related-questions-free = Podobne prašenja: Je { -brand-name-firefox-browser } darmotny, płaći { -brand-name-firefox } pjenjezy?
 is-chrome-better = Je { -brand-name-chrome } lěpši hač { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Hladajće, kak { -brand-name-firefox } porno { -brand-name-chrome } wotrězuje-</a>
+related-questions-better = Podobne prašenja: Je { -brand-name-firefox } lěpši hač { -brand-name-chrome }, je { -brand-name-firefox } lěpši hač { -brand-name-google }, je { -brand-name-firefox } wěsćiši hač { -brand-name-chrome }, je { -brand-name-firefox } priwatniši hač { -brand-name-chrome }
 is-firefox-safe-download = Da so { -brand-name-firefox } wěsće sćahnyć?
 
 # Variables:
@@ -39,6 +41,7 @@ is-firefox-safe = Je { -brand-name-firefox } wěsty?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = Podobne prašenja: Je { -brand-name-firefox } dobry za priwatnosć, je { -brand-name-firefox } wěsty, je { -brand-name-firefox } lěpši za priwatnosć
 does-firefox-sell = Předawa{ -brand-name-firefox } waše wosobinske daty?
 
 # Variables:
@@ -57,6 +60,7 @@ does-firefox-have = Ma { -brand-name-firefox } zatwarjeny VPN?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Podobne prašenja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
 # Variables:
