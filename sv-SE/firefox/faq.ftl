@@ -48,22 +48,31 @@ is-firefox-safe = Är { -brand-name-firefox } säker?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } är inte bara säker att använda, den hjälper också till att hålla din data och privat information säker. { -brand-name-firefox-browser } blockerar automatiskt kända tredjepartsspårare, sociala mediaspårare, kryptogrävare och fingeravtrycksspårare från att samla in dina data. <a href="{ $url }">Läs mer om integriteten i våra produkter</a>.
+related-questions-safe = Relaterade frågor: är { -brand-name-firefox } bra för integritet, är { -brand-name-firefox } säker, är { -brand-name-firefox } bättre för integritet
+does-firefox-sell = Säljer { -brand-name-firefox } dina personuppgifter?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Nej. Det har vi aldrig gjort, kommer aldrig att göra. Och vi skyddar dig från många av de annonsörer som gör det. { -brand-name-firefox } produkter är utformade för att skydda din integritet. <a href="{ $url }">Det är ett löfte</a>.
 why-is-firefox = Varför är { -brand-name-firefox } så långsam?
+firefox-isnt-slow = { -brand-name-firefox } är inte långsam... nu. År 2017 byggde vi helt om vår webbläsarmotor (kallad Quantum) för att säkerställa att { -brand-name-firefox } skulle kunna konkurrera med andra stora webbläsare. Och vår blockering av spårare hjälper sidor att laddas ännu snabbare. Så { -brand-name-firefox } är blixtsnabb utan att offra någon av din integritet.
+is-firefox-chromium = Är { -brand-name-firefox } { -brand-name-chromium }-baserad?
+firefox-is-not = { -brand-name-firefox } bygger inte på { -brand-name-chromium } (webbläsarprojektet med öppen källkod i kärnan av { -brand-name-google } { -brand-name-chrome }). Vi är faktiskt en av de sista stora webbläsarna som inte är det. { -brand-name-firefox } körs på vår Quantum-webbläsarmotor byggd specifikt för { -brand-name-firefox }, så vi kan se till att dina uppgifter hanteras med respekt och hålls privata.
 does-firefox-use = Använder { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } är standardsökmotorn i { -brand-name-firefox }, vilket innebär att du kan söka på webben direkt från adressfältet. <a href="{ $url }">Läs mer om sökmotorinställningar och ändra standardinställningar</a>.
 does-firefox-have = Har { -brand-name-firefox } ett inbyggt VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } har inte ett inbyggt VPN (virtuellt privat nätverk), men det finns två produkter gjorda av { -brand-name-mozilla }/{ -brand-name-firefox } som du kan använda förutom den privata { -brand-name-firefox-browser } som kan skydda antingen din webbläsare (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) eller enhet (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) anslutning på WiFi, samt din IP-adress.
 related-questions-ip = Relaterade frågor: döljer { -brand-name-firefox } din IP-adress
 who-owns-firefox = Vem äger { -brand-name-firefox }?
 
@@ -71,3 +80,4 @@ who-owns-firefox = Vem äger { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } tillverkas av { -brand-name-mozilla-corporation }, ett helägt dotterbolag till den ideella organisationen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> och styrs av principerna i { -brand-name-mozilla } manifest. Läs mer om tillverkaren av { -brand-name-firefox } <a href="{ $url2 }">här</a>.
