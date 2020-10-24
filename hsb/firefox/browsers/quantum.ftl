@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = { -brand-name-firefox-quantum } sćahnyć
+page-description = { -brand-name-firefox-quantum } je rewolucija był. Smy w lěće 2017 nowy, błyskospěšny wobhladowak wutworili, kotryž so stajnje polěpšuje. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser }.
 the-latest-firefox = Najnowša mašina { -brand-name-firefox }: { -brand-name-firefox-quantum }
+firefox-quantum-was = { -brand-name-firefox-quantum } je rewolucija we wuwiću { -brand-name-firefox } był. Smy w lěće 2017 nowy, błyskospěšny wobhladowak wutworili, kotryž so stajnje polěpšuje. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Dalše informacije wo { -brand-name-firefox-quantum }
 privacy-first = Priwatnosć na prěnim městnje
