@@ -67,3 +67,4 @@ who-owns-firefox = Komu { -brand-name-firefox } słuša?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+related-questions-who = Podobne prašenja: Komu { -brand-name-firefox } słuša, komu { -brand-name-firefox-browser } słuša, słuša { -brand-name-firefox } { -brand-name-google }, słuša { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google }
