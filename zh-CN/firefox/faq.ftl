@@ -7,8 +7,8 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } 常见问题
-whether-you-searched-privacy = 无论您是否想要寻找一款能够保护隐私、速度又快的浏览器，下方的 FAQ 列出了与 { -brand-name-firefox } 最相关的常见问题。
-whether-you-searched-independant = 无论您只是想寻找一款快速的浏览器，还是要觅得能够保护您隐私的独立技术，下方的 FAQ 列出了与 { -brand-name-firefox } 最相关的常见问题。
+whether-you-searched-privacy = 无论您是否想要寻找一款能够保护隐私、速度又快的浏览器，下方的常见问题列出了与 { -brand-name-firefox } 最相关的解答。
+whether-you-searched-independant = 无论您只是想寻找一款快速的浏览器，还是要觅得能够保护您隐私的独立技术，下方的常见问题列出了与 { -brand-name-firefox } 最相关的解答。
 what-is-firefox = { -brand-name-firefox } 是什么？
 
 # Variables:
@@ -25,13 +25,14 @@ how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } 收费吗？
-yep-the-firefox = 不用，使用 { -brand-name-firefox-browser } 是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
-related-questions-free = 相关问题：{ -brand-name-firefox-browser } 是免费的吗？{ -brand-name-firefox } 需要付费吗？
+yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
+related-questions-free = 相关问题：{ -brand-name-firefox-browser }是免费的吗；{ -brand-name-firefox } 需要付费吗
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 更好吗？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+related-questions-better = 相关问题：{ -brand-name-firefox } 比 { -brand-name-chrome } 更好吗；{ -brand-name-firefox } 比 { -brand-name-google } 好吗；{ -brand-name-firefox } 比 { -brand-name-chrome } 更安全吗；{ -brand-name-firefox } 比 { -brand-name-chrome } 更有隐私吗
 is-firefox-safe-download = 下载 { -brand-name-firefox } 安全吗？
 
 # Variables:
@@ -42,6 +43,7 @@ is-firefox-safe = { -brand-name-firefox } 是否安全？
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = 相关问题：{ -brand-name-firefox } 在隐私保护上做得好吗；{ -brand-name-firefox } 安全吗；{ -brand-name-firefox } 在隐私保护上做得更好吗
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
