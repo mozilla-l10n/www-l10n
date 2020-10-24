@@ -15,6 +15,7 @@ what-is-firefox = { -brand-name-firefox } 是什么？
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser }是唯一一款由非营利组织支持，不会将您的个人数据买给广告商，还能保护您个人信息的主流浏览器。详细了解 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>和<a href="{ $url2 }">其他产品</a>。
 how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 
 # Variables:
@@ -24,6 +25,7 @@ how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = 您可以<a href="{ $url }">在此</a>轻松下载到 { -brand-name-firefox } 桌面版浏览器。{ -brand-name-firefox } 可在 <a href="{ $url2 }">{ -brand-name-windows }</a>、<a href="{ $url3 }">{ -brand-name-mac-short }</a> 及 <a href="{ $url4 }">{ -brand-name-linux }</a> 平台皆可使用，并且也有 <a href="{ $url5 }">{ -brand-name-android } 及 { -brand-name-ios } 的对应版本</a>。下载前，请确保您是从可信的 { -brand-name-mozilla } / { -brand-name-firefox } 网站下载我们的浏览器。
 is-firefox-free = { -brand-name-firefox } 收费吗？
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
 related-questions-free = 相关问题：{ -brand-name-firefox-browser }是否免费；{ -brand-name-firefox } 是否需要付费
