@@ -30,6 +30,7 @@ is-firefox-free = { -brand-name-firefox } 收费吗？
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
 related-questions-free = 相关问题：{ -brand-name-firefox-browser }是否免费；{ -brand-name-firefox } 是否需要付费
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 更好吗？
+no-we-dont = 不，我们并不觉得 { -brand-name-chrome } 比 { -brand-name-firefox } 更好。这是因为：当人们在问哪款浏览器“比较好”时，实际上是在问哪款浏览器更快、更安全。{ -brand-name-firefox } 每个月都会更新，确保让您总是用到最快、最尊重您隐私的浏览器。
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
