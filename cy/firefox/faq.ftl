@@ -36,18 +36,27 @@ no-we-dont = Na, dydyn ni ddim yn credu bod { -brand-name-chrome } yn well na { 
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Gweld sut mae { -brand-name-firefox } yn cymharu â { -brand-name-chrome }. </a>
+related-questions-better = Cwestiynnau cysylltiedig: a yw { -brand-name-firefox } yn well na { -brand-name-chrome }, a yw { -brand-name-firefox } yn well na { -brand-name-google }, a yw { -brand-name-firefox } yn fwy diogel na { -brand-name-chrome }, a yw { -brand-name-firefox } yn fwy preifat na { -brand-name-chrome }
+is-firefox-safe-download = A yw { -brand-name-firefox } yn ddiogel i'w lwytho i lawr?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Diogelu eich preifatrwydd yw ein prif flaenoriaeth, ac rydym yn sicrhau bod gosod { -brand-name-firefox } ar eich dyfeisiau yn hollol ddiogel - ond gwnewch yn siŵr eich bod yn ei lwytho i lawr o wefan dibynadwy { -brand-name-mozilla }/{ -brand-name-firefox }, fel <a href="{ $url }">ein tudalen llwytho i lawr.</a>
+is-firefox-safe = A yw { -brand-name-firefox } yn ddiogel?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Nid yn unig y mae { -brand-name-firefox } yn ddiogel i'w ddefnyddio, mae hefyd yn helpu i gadw'ch data a'ch manylion breifat yn ddiogel. Mae { -brand-name-firefox-browser } yn rhwystro tracwyr trydydd parti hysbys, tracwyr cyfryngau cymdeithasol, cryptogloddwyr abysbrintwyr yn awtomatig rhag casglu eich data. <a href="{ $url }">Dysgu rhagor am breifatrwydd ein cynnyrch.</a>
+related-questions-safe = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn dda am breifatrwydd, a yw { -brand-name-firefox } yn ddiogel, a yw { -brand-name-firefox } yn well am breifatrwydd
+does-firefox-sell = A yw { -brand-name-firefox } yn gwerthu eich data personol?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Na. Byth a byth. Ac rydym yn eich diogelu rhag llawer o'r hysbysebwyr sy'n gwneud hynny. Mae cynnyrch { -brand-name-firefox } wedi'u cynllunio i ddiogelu eich preifatrwydd. <a href="{ $url }">Dyna'n haddewid.</a>
+why-is-firefox = Pam mae { -brand-name-firefox } mor araf?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
