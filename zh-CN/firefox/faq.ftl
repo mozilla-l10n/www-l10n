@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } 常见问题
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
