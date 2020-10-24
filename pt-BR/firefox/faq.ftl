@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = Perguntas frequentes sobre o { -brand-name-firefox }
+whether-you-searched-privacy = Independentemente de você ter ou não procurado um navegador rápido que proteja sua privacidade, esta lista de perguntas frequentes está aqui para responder às questões mais urgentes relacionadas ao { -brand-name-firefox }.
 what-is-firefox = O que é { -brand-name-firefox }?
 
 # Variables:
