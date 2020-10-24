@@ -60,7 +60,7 @@ does-firefox-use = { -brand-name-firefox } 使用 { -brand-name-google } 产品�
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = { -brand-name-google } 是 { -brand-name-firefox } 中的默认搜索引擎，即您可以直接从地址栏在网上搜索。<a href="{ $url }">可在此详细了解搜索引擎首选项，以及如何更改默认设置。</a>
+firefoxs-default-search = { -brand-name-google } 是 { -brand-name-firefox } 中的默认搜索引擎，即您可以直接从地址栏在网上搜索。可<a href="{ $url }">在此</a>详细了解搜索引擎首选项，以及如何更改默认设置。
 does-firefox-have = { -brand-name-firefox } 是否内置 VPN？
 
 # Variables:
