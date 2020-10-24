@@ -26,6 +26,7 @@ how-do-i = Como obter o { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = O { -brand-name-firefox } é gratuito?
+yep-the-firefox = Sim! O { -brand-name-firefox-browser } é gratuito. Super gratuito, na verdade. Nenhum custo escondido nem nada. Você não paga nada para usar e nós não vendemos seus dados pessoais.
 is-chrome-better = O { -brand-name-chrome } é melhor que o { -brand-name-firefox }?
 
 # Variables:
