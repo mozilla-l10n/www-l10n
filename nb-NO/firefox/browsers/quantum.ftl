@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Last ned { -brand-name-firefox-quantum }
+privacy-first = Personvern først
