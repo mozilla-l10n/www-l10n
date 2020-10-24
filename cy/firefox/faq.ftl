@@ -57,15 +57,24 @@ does-firefox-sell = A yw { -brand-name-firefox } yn gwerthu eich data personol?
 
 nope-never-have = Na. Byth a byth. Ac rydym yn eich diogelu rhag llawer o'r hysbysebwyr sy'n gwneud hynny. Mae cynnyrch { -brand-name-firefox } wedi'u cynllunio i ddiogelu eich preifatrwydd. <a href="{ $url }">Dyna'n haddewid.</a>
 why-is-firefox = Pam mae { -brand-name-firefox } mor araf?
+firefox-isnt-slow = Nid yw { -brand-name-firefox } yn araf... nawr. Yn 2017, gwnaethom ailadeiladu ein peiriant porwr yn llwyr (ei enw yw Quantum), er mwyn sicrhau y gallai { -brand-name-firefox } gystadlu â phorwyr mawr eraill. Ac, mae ein rhwystrydd tracwyr yn helpu tudalennau i lwytho hyd yn oed yn gyflymach. Felly mae { -brand-name-firefox } yn chwim o gyflym heb aberthu dim o'ch preifatrwydd.
+is-firefox-chromium = A yw { -brand-name-firefox } wedi ei adeiladu ar { -brand-name-chromium }?
+firefox-is-not = Nid yw { -brand-name-firefox } wedi'i seilio ar { -brand-name-chromium } (y prosiect porwr cod agored sy'n sail i { -brand-name-google } { -brand-name-chrome }). Mewn gwirionedd, ni yw un o'r porwyr mawr olaf nad yw. Mae { -brand-name-firefox } yn rhedeg ar ein peiriant porwr Quantum a adeiladwyd yn benodol ar gyfer { -brand-name-firefox }, felly gallwn sicrhau bod eich data yn cael ei drin gyda pharch a'i gadw'n breifat.
+does-firefox-use = A yw { -brand-name-firefox } yn defnyddio { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } yw'r peiriant chwilio rhagosodedig { -brand-name-firefox }, sy'n golygu y gallwch chi chwilio'r we yn syth o'r bar cyfeiriad. <a href="{ $url }">Dysgu rhagor am ddewisiadau peiriannau chwilio a newid y rhagosodiad. </a>
+does-firefox-have = A yw { -brand-name-firefox } yn cynnig VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = Nid oes gan { -brand-name-firefox } VPN mewnol (rhwydwaith preifat rhithwir), ond mae dau gynnyrch sy'n cael eu darparu gan { -brand-name-mozilla }/{ -brand-name-firefox } y gallwch eu defnyddio yn ychwanegol at y porwr preifat { -brand-name-firefox- } a all amddiffyn naill ai'ch porwr (<a href="{ $url }">{ -brand-name-firefox-private-network } </a>) neu gysylltiad eich dyfais (<a href="{ $url2 }">{ -brand-name-mozilla-vpn } </a>) ar WiFi, yn ogystal â'ch cyfeiriad IP.
+related-questions-ip = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn cuddio'ch cyfeiriad IP
+who-owns-firefox = Pwy sydd bia { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
