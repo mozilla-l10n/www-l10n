@@ -32,6 +32,7 @@ is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 更好吗�
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = 下载 { -brand-name-firefox } 安全吗？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -45,16 +46,21 @@ is-firefox-safe = { -brand-name-firefox } 是否安全？
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = 为什么 { -brand-name-firefox } 这么慢？
+is-firefox-chromium = { -brand-name-firefox } 是否基于 { -brand-name-chromium }？
+does-firefox-use = { -brand-name-firefox } 使用 { -brand-name-google } 产品吗？
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } 是 { -brand-name-firefox } 中的默认搜索引擎，即您可以直接从地址栏在网上搜索。<a href="{ $url }">可在此详细了解搜索引擎首选项，以及如何更改默认设置。</a>
 does-firefox-have = { -brand-name-firefox } 是否内置 VPN？
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } 并未内置 VPN （虚拟专用网络）的功能，但 { -brand-name-mozilla } / { -brand-name-firefox } 已推出另两款产品，可在 WI-FI 环境下，保护 { -brand-name-firefox-browser }（<a href="{ $url }">{ -brand-name-firefox-private-network }</a>）或设备（<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>）的隐私和 IP 地址。
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
