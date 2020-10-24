@@ -24,10 +24,12 @@ how-do-i = 要如何安裝 { -brand-name-firefox-browser }？
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = 您可以<a href="{ $url }">在此</a>很簡單就下載到 { -brand-name-firefox } 桌面版瀏覽器。{ -brand-name-firefox } 可在 <a href="{ $url2 }">{ -brand-name-windows }</a>、<a href="{ $url3 }">{ -brand-name-mac-short }</a> 及 <a href="{ $url4 }">{ -brand-name-linux }</a> 平台使用，並且也有 <a href="{ $url5 }">{ -brand-name-android } 及 { -brand-name-ios } 的對應版本</a>。下載前，請確定您是從可靠的 { -brand-name-mozilla }/{ -brand-name-firefox } 網站下載我們的瀏覽器。
 is-firefox-free = { -brand-name-firefox } 要收費嗎？
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser } 是免費的！不但不用錢而且真的超自由，我們當然更不會賣掉您的個人資料。
 related-questions-free = 相關問題: { -brand-name-firefox-browser } 要收費嗎？、{ -brand-name-firefox } 要付錢嗎？
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 還好嗎？
+no-we-dont = 不，我們不覺得 { -brand-name-chrome } 有比 { -brand-name-firefox } 好。這是因為: 當人們在問哪套瀏覽器「比較好」的時候，實際上是在問哪套瀏覽器更快、更安全。{ -brand-name-firefox } 每月都會推出更新，確保讓您能總是使用到最快、又最能尊重您隱私的瀏覽器。
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -50,6 +52,7 @@ does-firefox-sell = { -brand-name-firefox } 會賣掉您的個人資料嗎？
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = 過去沒發生過，未來更不會發生。我們更會保護您，不讓許多廣告商賣掉您的資料。{ -brand-name-firefox } 從一開始就設計來保護您的隱私，<a href="{ $url }">這也是我們對您的承諾。</a>
 why-is-firefox = 為什麼 { -brand-name-firefox } 用起來這麼慢？
 firefox-isnt-slow = { -brand-name-firefox } 現在已經不慢了…。我們在 2017 年重新打造了瀏覽器的引擎（稱為 Quantum）以確保 { -brand-name-firefox } 能與其他主要瀏覽器相比較。另外，我們的追蹤器封鎖功能也能幫助讓網頁更快載入。所以 { -brand-name-firefox } 現在運作光速快，而您的隱私完全不會被犧牲。
 is-firefox-chromium = { -brand-name-firefox } 是使用 { -brand-name-chromium } 技術的瀏覽器嗎？
