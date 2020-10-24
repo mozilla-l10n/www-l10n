@@ -21,6 +21,7 @@ easy-migration-of = Přećehńće lochko z nastajenjemi a zapołožkami, hdyž{ 
 firefox-respects-your = { -brand-name-firefox } na { -brand-name-mac-short } wašu priwatnosć respektuje.
 firefox-doesnt-spy = { -brand-name-firefox } pytanja njewuskušuje. Blokujemy znate slědowace placki třećich a damy wam połnu kontrolu.
 firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
+new-school-meets = Nowa šula staru šulu z dotal najspěšnišim wobhladowakom zetkawa.
 firefox-for-windows = { -brand-name-firefox } za { -brand-name-windows } 64-bitowy
 seven-of-the = Sydom z najlěpšich wobhladowakow w direktnym přirunanju
 we-compare-firefox = Přirunamy { -brand-name-firefox } z { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie }, zo bychmy wam pomhali so rozsudźić.
