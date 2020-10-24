@@ -27,16 +27,22 @@ how-do-i = Hur hämtar jag { -brand-name-firefox-browser }?
 
 you-can-easily = Du kan enkelt ladda ner webbläsaren { -brand-name-firefox } <a href="{ $url }">här</a>. { -brand-name-firefox } fungerar på <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> och <a href="{ $url4 }">{ -brand-name-linux }</a> enheter och är också tillgänglig för <a href="{ $url5 }">{ -brand-name-android } och { -brand-name-ios }</a>. Se till att du laddar ner vår webbläsare från en av våra betrodda sidor { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = Är { -brand-name-firefox } gratis?
+yep-the-firefox = Japp! { -brand-name-firefox-browser } är gratis. Supergratis, faktiskt. Inga dolda kostnader eller något. Du betalar ingenting för att använda den och vi säljer inte dina personuppgifter.
+related-questions-free = Relaterade frågor: är { -brand-name-firefox-browser } gratis, kostar { -brand-name-firefox } pengar
 is-chrome-better = Är { -brand-name-chrome } bättre än { -brand-name-firefox }?
+no-we-dont = Nej, vi tycker inte att { -brand-name-chrome } är bättre än { -brand-name-firefox } och här är varför: när folk frågar vilken webbläsare som är bättre, frågar de egentligen vilken webbläsare som är snabbare och säkrare. { -brand-name-firefox } uppdateras varje månad för att se till att du har den snabbaste webbläsaren som respekterar din integritet automatiskt.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Se hur { -brand-name-firefox } jämförs { -brand-name-chrome }</a>.
+related-questions-better = Relaterade frågor: är { -brand-name-firefox } bättre än { -brand-name-chrome }, är { -brand-name-firefox } bättre än { -brand-name-google }, är { -brand-name-firefox } säkrare än { -brand-name-chrome }, är { -brand-name-firefox } mer privat än { -brand-name-chrome }
 is-firefox-safe-download = Är { -brand-name-firefox } säker att ladda ner?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Att skydda din integritet är vår främsta prioritet och vi ser till att installation av { -brand-name-firefox } på dina enheter är helt säker — men se alltid till att du laddar ner från en pålitlig { -brand-name-mozilla }/{ -brand-name-firefox }-sida, som <a href="{ $url }">vår nedladdningssida</a>.
 is-firefox-safe = Är { -brand-name-firefox } säker?
 
 # Variables:
