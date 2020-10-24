@@ -36,7 +36,7 @@ no-we-dont = Na, dydyn ni ddim yn credu bod { -brand-name-chrome } yn well na { 
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Gweld sut mae { -brand-name-firefox } yn cymharu â { -brand-name-chrome }. </a>
-related-questions-better = Cwestiynnau cysylltiedig: a yw { -brand-name-firefox } yn well na { -brand-name-chrome }, a yw { -brand-name-firefox } yn well na { -brand-name-google }, a yw { -brand-name-firefox } yn fwy diogel na { -brand-name-chrome }, a yw { -brand-name-firefox } yn fwy preifat na { -brand-name-chrome }
+related-questions-better = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn well na { -brand-name-chrome }, a yw { -brand-name-firefox } yn well na { -brand-name-google }, a yw { -brand-name-firefox } yn fwy diogel na { -brand-name-chrome }, a yw { -brand-name-firefox } yn fwy preifat na { -brand-name-chrome }
 is-firefox-safe-download = A yw { -brand-name-firefox } yn ddiogel i'w lwytho i lawr?
 
 # Variables:
@@ -48,18 +48,18 @@ is-firefox-safe = A yw { -brand-name-firefox } yn ddiogel?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
-not-only-is = Nid yn unig y mae { -brand-name-firefox } yn ddiogel i'w ddefnyddio, mae hefyd yn helpu i gadw'ch data a'ch manylion breifat yn ddiogel. Mae { -brand-name-firefox-browser } yn rhwystro tracwyr trydydd parti hysbys, tracwyr cyfryngau cymdeithasol, cryptogloddwyr abysbrintwyr yn awtomatig rhag casglu eich data. <a href="{ $url }">Dysgu rhagor am breifatrwydd ein cynnyrch.</a>
+not-only-is = Nid yn unig y mae { -brand-name-firefox } yn ddiogel i'w ddefnyddio, mae hefyd yn helpu i gadw'ch data a'ch manylion breifat yn ddiogel. Mae { -brand-name-firefox-browser } yn rhwystro tracwyr trydydd parti hysbys, tracwyr cyfryngau cymdeithasol, cryptogloddwyr a bysbrintwyr yn awtomatig rhag casglu eich data. <a href="{ $url }">Dysgu rhagor am breifatrwydd ein cynnyrch.</a>
 related-questions-safe = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn dda am breifatrwydd, a yw { -brand-name-firefox } yn ddiogel, a yw { -brand-name-firefox } yn well am breifatrwydd
 does-firefox-sell = A yw { -brand-name-firefox } yn gwerthu eich data personol?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-nope-never-have = Na. Byth a byth. Ac rydym yn eich diogelu rhag llawer o'r hysbysebwyr sy'n gwneud hynny. Mae cynnyrch { -brand-name-firefox } wedi'u cynllunio i ddiogelu eich preifatrwydd. <a href="{ $url }">Dyna'n haddewid.</a>
+nope-never-have = Na. Byth wedi gwneud a byth am wneud. Ac rydym yn eich diogelu rhag llawer o'r hysbysebwyr sy'n gwneud hynny. Mae cynnyrch { -brand-name-firefox } wedi'u cynllunio i ddiogelu eich preifatrwydd. <a href="{ $url }">Dyna'n haddewid.</a>
 why-is-firefox = Pam mae { -brand-name-firefox } mor araf?
 firefox-isnt-slow = Nid yw { -brand-name-firefox } yn araf... nawr. Yn 2017, gwnaethom ailadeiladu ein peiriant porwr yn llwyr (ei enw yw Quantum), er mwyn sicrhau y gallai { -brand-name-firefox } gystadlu â phorwyr mawr eraill. Ac, mae ein rhwystrydd tracwyr yn helpu tudalennau i lwytho hyd yn oed yn gyflymach. Felly mae { -brand-name-firefox } yn chwim o gyflym heb aberthu dim o'ch preifatrwydd.
 is-firefox-chromium = A yw { -brand-name-firefox } wedi ei adeiladu ar { -brand-name-chromium }?
-firefox-is-not = Nid yw { -brand-name-firefox } wedi'i seilio ar { -brand-name-chromium } (y prosiect porwr cod agored sy'n sail i { -brand-name-google } { -brand-name-chrome }). Mewn gwirionedd, ni yw un o'r porwyr mawr olaf nad yw. Mae { -brand-name-firefox } yn rhedeg ar ein peiriant porwr Quantum a adeiladwyd yn benodol ar gyfer { -brand-name-firefox }, felly gallwn sicrhau bod eich data yn cael ei drin gyda pharch a'i gadw'n breifat.
+firefox-is-not = Nid yw { -brand-name-firefox } wedi'i seilio ar { -brand-name-chromium } (y prosiect porwr cod agored sy'n sail i { -brand-name-google } { -brand-name-chrome }). Mewn gwirionedd, ni yw un o'r porwyr mawr olaf nad yw wedi ei adeiladu ar sail { -brand-name-chromium }. Mae { -brand-name-firefox } yn rhedeg ein peiriant porwr Quantum a adeiladwyd yn benodol ar gyfer { -brand-name-firefox }, felly gallwn sicrhau bod eich data yn cael ei drin gyda pharch a'i gadw'n breifat.
 does-firefox-use = A yw { -brand-name-firefox } yn defnyddio { -brand-name-google }?
 
 # Variables:
@@ -72,7 +72,7 @@ does-firefox-have = A yw { -brand-name-firefox } yn cynnig VPN?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
-firefox-does-not = Nid oes gan { -brand-name-firefox } VPN mewnol (rhwydwaith preifat rhithwir), ond mae dau gynnyrch sy'n cael eu darparu gan { -brand-name-mozilla }/{ -brand-name-firefox } y gallwch eu defnyddio yn ychwanegol at y porwr preifat { -brand-name-firefox- } a all amddiffyn naill ai'ch porwr (<a href="{ $url }">{ -brand-name-firefox-private-network } </a>) neu gysylltiad eich dyfais (<a href="{ $url2 }">{ -brand-name-mozilla-vpn } </a>) ar WiFi, yn ogystal â'ch cyfeiriad IP.
+firefox-does-not = Nid oes gan { -brand-name-firefox } VPN (rhwydwaith preifat rhithwir) mewnol, ond mae yna ddau gynnyrch sy'n cael eu darparu gan { -brand-name-mozilla }/{ -brand-name-firefox } y gallwch eu defnyddio yn ychwanegol at y porwr preifat { -brand-name-firefox } a all amddiffyn naill ai'ch porwr (<a href="{ $url }">{ -brand-name-firefox-private-network } </a>) neu gysylltiad eich dyfais (<a href="{ $url2 }">{ -brand-name-mozilla-vpn } </a>) ar WiFi, yn ogystal â'ch cyfeiriad IP.
 related-questions-ip = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn cuddio'ch cyfeiriad IP
 who-owns-firefox = Pwy sydd bia { -brand-name-firefox }?
 
@@ -80,5 +80,5 @@ who-owns-firefox = Pwy sydd bia { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = Mae  { -brand-name-firefox }gan { -brand-name-mozilla-corporation } is-gwmni sy'n eiddo llwyr i'r <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ac mae'n cael ei arwain gan egwyddorion Maniffesto { -brand-name-mozilla }. Dysgwch fwy am wneuthurwr { -brand-name-firefox } <a href="{ $url2 }">yma.</a>{ -brand-name-mozilla-corporation }
+firefox-is-made = Mae { -brand-name-firefox } yn cael ei wneud gan { -brand-name-mozilla-corporation } is-gwmni sy'n eiddo llwyr i'r <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ac mae'n cael ei arwain gan egwyddorion Maniffesto { -brand-name-mozilla }. Dysgwch fwy am wneuthurwr { -brand-name-firefox } <a href="{ $url2 }">yma.</a>
 related-questions-who = Cwestiynau cysylltiedig: pwy sydd bia { -brand-name-firefox }, ac sy'n berchen ar { -brand-name-firefox-browser }, a yw { -brand-name-firefox } yn eiddo i { -brand-name-google }, a yw { -brand-name-mozilla } { -brand-name-firefox } yn eiddo i { -brand-name-google }
