@@ -65,13 +65,20 @@ does-firefox-use = Nutzt { -brand-name-firefox } { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } ist die Standardsuchmaschine in { -brand-name-firefox }. Dies bedeutet, dass Sie das Web direkt über die Adressleiste durchsuchen können. <a href="{ $url }">Erfahren Sie mehr über Suchmaschineneinstellungen und das Ändern von Standardeinstellungen.</a>
+does-firefox-have = Hat { -brand-name-firefox } ein integriertes VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } verfügt nicht über ein integriertes VPN (virtuelles privates Netzwerk), es gibt jedoch zwei Produkte von { -brand-name-mozilla }/{ -brand-name-firefox }, die Sie zusätzlich zum privaten { -brand-name-firefox-browser } nutzen können, die entweder Ihren Browser (<a href="{ $url }"> { -brand-name-firefox-private-network }</a>) oder Ihre Geräteverbindung (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) über WLAN sowie Ihre IP-Adresse schützen können.
+related-questions-ip = Verwandte Fragen: Versteckt { -brand-name-firefox } Ihre IP-Adresse?
+who-owns-firefox = Wem gehört { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } wird von { -brand-name-mozilla-corporation } entwickelt, einer hundertprozentigen Tochtergesellschaft der gemeinnützigen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> und orientiert sich an den Grundsätzen des { -brand-name-mozilla }-Manifests. Erfahren Sie <a href="{ $url2 }">hier </a>mehr über den Entwickler von { -brand-name-firefox }.
+related-questions-who = Verwandte Fragen: Wer ist der Besitzer von { -brand-name-firefox }, wem gehört { -brand-name-firefox-browser }, gehört { -brand-name-firefox } zu { -brand-name-google }, gehört { -brand-name-mozilla } { -brand-name-firefox } zu { -brand-name-google }
