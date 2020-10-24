@@ -28,27 +28,36 @@ is-chrome-better = Je { -brand-name-chrome } lěpši hač { -brand-name-firefox 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Hladajće, kak { -brand-name-firefox } porno { -brand-name-chrome } wotrězuje-</a>
+is-firefox-safe-download = Da so { -brand-name-firefox } wěsće sćahnyć?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Je { -brand-name-firefox } wěsty?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = Předawa{ -brand-name-firefox } waše wosobinske daty?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Čehodla je { -brand-name-firefox } tak pomały?
+is-firefox-chromium = Bazuje { -brand-name-firefox } na { -brand-name-chromium }?
+does-firefox-use = Wužiwa { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Ma { -brand-name-firefox } zatwarjeny VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
