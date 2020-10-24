@@ -8,7 +8,7 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox } 常见问题
 whether-you-searched-privacy = 无论您是否想要寻找一款能够保护隐私、速度又快的浏览器，下方的常见问题列出了与 { -brand-name-firefox } 最相关的解答。
-whether-you-searched-independant = 无论您只是想寻找一款快速的浏览器，还是要觅得能够保护您隐私的独立技术，下方的常见问题列出了与 { -brand-name-firefox } 最相关的解答。
+whether-you-searched-independant = 无论您只是想寻找一款快速的浏览器，还是要觅得能够保护隐私的独立技术，下方的常见问题列出了与 { -brand-name-firefox } 最相关的解答。
 what-is-firefox = { -brand-name-firefox } 是什么？
 
 # Variables:
@@ -25,7 +25,7 @@ how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = 您可以<a href="{ $url }">在此</a>轻松下载到 { -brand-name-firefox } 桌面版浏览器。{ -brand-name-firefox } 可在 <a href="{ $url2 }">{ -brand-name-windows }</a>、<a href="{ $url3 }">{ -brand-name-mac-short }</a> 及 <a href="{ $url4 }">{ -brand-name-linux }</a> 平台皆可使用，并且也有 <a href="{ $url5 }">{ -brand-name-android } 及 { -brand-name-ios } 的对应版本</a>。下载前，请确保您是从可信的 { -brand-name-mozilla } / { -brand-name-firefox } 网站下载我们的浏览器。
+you-can-easily = 您可以<a href="{ $url }">在此</a>轻松下载到 { -brand-name-firefox } 桌面版浏览器。{ -brand-name-firefox } 在 <a href="{ $url2 }">{ -brand-name-windows }</a>、<a href="{ $url3 }">{ -brand-name-mac-short }</a> 及 <a href="{ $url4 }">{ -brand-name-linux }</a> 平台上皆可使用，并且也有 <a href="{ $url5 }">{ -brand-name-android } 及 { -brand-name-ios } 的对应版本</a>。下载前，请确保您是从可信的 { -brand-name-mozilla } / { -brand-name-firefox } 网站下载我们的浏览器。
 is-firefox-free = { -brand-name-firefox } 收费吗？
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
 related-questions-free = 相关问题：{ -brand-name-firefox-browser }是否免费；{ -brand-name-firefox } 是否需要付费
@@ -42,11 +42,13 @@ is-firefox-safe-download = 下载 { -brand-name-firefox } 安全吗？
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = 保护您的隐私是我们的第一要务，我们会确保在您的设备中安装 { -brand-name-firefox } 是安全的。但也请务必确认您是从可信的 { -brand-name-mozilla } / { -brand-name-firefox } 网站，例如<a href="{ $url }">我们的下载页面</a>下载安装程序。
 is-firefox-safe = { -brand-name-firefox } 是否安全？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } 不仅用起来很安全，而且还有助于确保您的个人数据和私人信息的安全。{ -brand-name-firefox-browser }会自动拦截已知的第三方跟踪器、社交媒体跟踪器、加密货币挖矿程序、数字指纹跟踪程序收集您的数据。<a href="{ $url }">详细了解我们产品的隐私特性</a>
 related-questions-safe = 相关问题：{ -brand-name-firefox } 在隐私保护上做得是否好；{ -brand-name-firefox } 是否安全；{ -brand-name-firefox } 在隐私保护上是否做得更好
 does-firefox-sell = { -brand-name-firefox } 会卖掉您的个人数据吗？
 
