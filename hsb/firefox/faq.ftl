@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
-firefox-faq = HSP { -brand-name-firefox }
+firefox-faq = Husto stajene prašenja { -brand-name-firefox }
 what-is-firefox = Što je { -brand-name-firefox }?
 
 # Variables:
