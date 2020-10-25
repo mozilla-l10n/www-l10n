@@ -80,5 +80,5 @@ who-owns-firefox = 谁掌舵着 { -brand-name-firefox }？
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = { -brand-name-firefox } 由非营利组织 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 的全资子公司 { -brand-name-mozilla-corporation }推出，并严格遵循 { -brand-name-mozilla } 宣言的准则。您可以<a href="{ $url2 }">在此</a>详细了解 { -brand-name-firefox } 的开发者。
+firefox-is-made = { -brand-name-firefox } 由非营利组织 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 的全资子公司 { -brand-name-mozilla-corporation } 推出，并严格遵循 { -brand-name-mozilla } 宣言的准则。您可以<a href="{ $url2 }">在此</a>详细了解 { -brand-name-firefox } 的开发者。
 related-questions-who = 相关问题：谁拥有 { -brand-name-firefox }；谁拥有 { -brand-name-firefox-browser }；{ -brand-name-google } 是否拥有着 { -brand-name-firefox }；{ -brand-name-google } 是否拥有着 { -brand-name-mozilla } { -brand-name-firefox }
