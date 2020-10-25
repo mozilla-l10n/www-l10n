@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Navegador Firefox: Mejores marcadores dondequiera que vayas
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Los mejores marcadores dondequiera que vayas
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organiza fácilmente tus marcadores en carpetas y accede a ellos en todos tus dispositivos, desde el escritorio hasta el móvil.
 features-bookmarks-better-bookmarks = Mejores marcadores
@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Muévete con el marcador
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Lleva contigo tus favoritos. Usa { -brand-name-firefox-sync } para acceder a tus marcadores en todos tus dispositivos, desde el escritorio hasta el móvil. O prueba <a href="{ $url }">{ -brand-name-pocket }</a> para guardar cualquier artículo o página web y volver a verlo más tarde, incluso sin Internet.
+features-bookmarks-customize-that-bookmark = Personaliza ese marcador
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Pasa el rato con el marcador
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Practica tu precisión con todos los <a href="{ $url }">complementos</a> para administrar marcadores que se te ocurran, desde capturas de página, a barras laterales de cambio rápido hasta marcadores privados.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

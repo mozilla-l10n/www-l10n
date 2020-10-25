@@ -32,9 +32,19 @@ firefox-desktop-download-no = No
 firefox-desktop-download-blocks-third-party = Bloquea las cookies de rastreo de terceros
 firefox-desktop-download-blocks-third-party-default = Bloquea las cookies de rastreo de terceros de forma predeterminada
 firefox-desktop-download-autoplay-blocking = Bloquea la reproducción automática
+firefox-desktop-download-blocks-social-trackers = Bloquea los rastreadores sociales
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilidad para sistemas operativos
+firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla en el navegador
+firefox-desktop-download-primary-password = Contraseña maestra
+# Obsolete string
+firefox-desktop-download-master-password = Contraseña maestra
+firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por eso exploras internet más rápido.
+firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente, mientras que sus rastreadores observan cada movimiento que realizas en línea. { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en los ajustes de seguridad.
+firefox-desktop-download-see-your-report = Mira tu informe de protección
 firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
+firefox-desktop-download-available-in-over = Disponible en más de 90 idiomas, y compatible con equipos { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, { -brand-name-firefox } funciona sin importar qué estás usando o dónde estás. Asegúrate de que tu sistema operativo esté actualizado para obtener la mejor experiencia.
+firefox-desktop-download-review-system-req = Revisar los requisitos del sistema
 firefox-desktop-download-all-your-devices = Instala { -brand-name-firefox } en todos tus dispositivos
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Haz <strong>todo</strong> con { -brand-name-firefox }
