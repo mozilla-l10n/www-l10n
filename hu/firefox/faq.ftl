@@ -35,18 +35,24 @@ no-we-dont = Nem, nem gondoljuk, hogy a { -brand-name-chrome } jobb lenne, mint 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+related-questions-better = Kapcsolódó kérdések: a { -brand-name-firefox } jobb-e, mint a { -brand-name-chrome }; a { -brand-name-firefox } jobb-e, mint a { -brand-name-google };a { -brand-name-firefox } biztonságosabb-e, mint a { -brand-name-chrome }; a { -brand-name-firefox } privátabb-e, mint a { -brand-name-chrome }
+is-firefox-safe-download = Biztonságos a { -brand-name-firefox } letöltése?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = A { -brand-name-firefox } biztonságos?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = A { -brand-name-firefox } eladja az Ön személyes adatait?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Nem. Eddig sem, és ezután sem. És megvédjük Önt számos hirdetőtől, akik ezt tennék. A { -brand-name-firefox } termékek úgy lettek tervezve, hogy megvédjék a magánszféráját. <a href="{ $url }">Ez egy ígéret.</a>
+why-is-firefox = Miért ilyen lassú a { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
