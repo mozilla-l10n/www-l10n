@@ -27,22 +27,28 @@ how-do-i = Como obter o { -brand-name-firefox-browser }?
 
 is-firefox-free = O { -brand-name-firefox } é gratuito?
 yep-the-firefox = Sim! O { -brand-name-firefox-browser } é gratuito. Super gratuito, na verdade. Nenhum custo escondido nem nada. Você não paga nada para usar e nós não vendemos seus dados pessoais.
+related-questions-free = Questões relacionadas: o { -brand-name-firefox-browser } é gratuito, o { -brand-name-firefox } custa dinheiro
 is-chrome-better = O { -brand-name-chrome } é melhor que o { -brand-name-firefox }?
+no-we-dont = Não, não pensamos que o { -brand-name-chrome } seja melhor que o { -brand-name-firefox }, e este é o motivo: quando as pessoas perguntam qual navegador é melhor, estão na verdade perguntando qual é mais rápido e mais seguro. O { -brand-name-firefox } é atualizado mensalmente para garantir que você tenha o navegador mais rápido e que respeita sua privacidade automaticamente.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Veja uma comparação entre { -brand-name-firefox } e { -brand-name-chrome }.</a>
+related-questions-better = Questões relacionadas: o { -brand-name-firefox } é melhor que o { -brand-name-chrome }, o { -brand-name-firefox } é melhor que o { -brand-name-google }, o { -brand-name-firefox } é mais seguro que o { -brand-name-chrome }, o { -brand-name-firefox } é mais privativo que o { -brand-name-chrome }
 is-firefox-safe-download = É seguro baixar o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Proteger sua privacidade é nossa prioridade número um e garantimos que a instalação do { -brand-name-firefox } em seus dispositivos seja totalmente segura — mas sempre certifique-se de baixar de um site da { -brand-name-mozilla }/{ -brand-name-firefox }, como da <a href="{ $url }">nossa página de download</a>.
 is-firefox-safe = O { -brand-name-firefox } é seguro?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Não é apenas seguro usar o { -brand-name-firefox }, ele também ajuda a manter protegidos seus dados e informações privativas. O { -brand-name-firefox-browser } bloqueia automaticamente conhecidos rastreadores de terceiros, rastreadores de mídias sociais, criptominadores e fingerprinters, impedindo que coletem seus dados. <a href="{ $url }">Saiba mais sobre a privacidade em nossos produtos.</a>
+related-questions-safe = Questões relacionadas: o { -brand-name-firefox } é bom para privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é melhor para privacidade
 does-firefox-sell = O { -brand-name-firefox } vende seus dados pessoais?
 
 # Variables:
