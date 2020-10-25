@@ -23,6 +23,7 @@ how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Je { -brand-name-firefox } darmotny?
+yep-the-firefox = Haj! { -brand-name-firefox-browser } je darmotny. Samo wjace hač darmotny. Žane schowane košty abo tak. Njetrjebaće ničo płaćić, zo byšće jón wužiwał a my waše wosobinske daty njepředawamy.
 related-questions-free = Podobne prašenja: Je { -brand-name-firefox-browser } darmotny, płaći { -brand-name-firefox } pjenjezy
 is-chrome-better = Je { -brand-name-chrome } lěpši hač { -brand-name-firefox }?
 
