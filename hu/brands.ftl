@@ -70,6 +70,7 @@
         [acc] Firefox Aurorát
     }
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -81,6 +82,7 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
