@@ -7,7 +7,7 @@
 
 page-title = ჩამოტვირთეთ { -brand-name-firefox-quantum }
 page-description = { -brand-name-firefox-quantum } იყო ძირფესვიანი ცვლილება. 2017-ში, ჩვენ შევქმენით სრულიად ახალი, მსუბუქი და სწრაფი ბრაუზერი, რომელიც მუდმივად ვითარდება. { -brand-name-firefox-quantum } არის { -brand-name-firefox-browser }.
-the-latest-firefox = უახლესი { -brand-name-firefox }-ძრავი: { -brand-name-firefox-quantum }
+the-latest-firefox = უახლესი { -brand-name-firefox }-ძრავა: { -brand-name-firefox-quantum }
 firefox-quantum-was = { -brand-name-firefox-quantum } იყო ძირფესვიანი ცვლილება { -brand-name-firefox }-ის შემუშავებაში. 2017-ში, ჩვენ შევქმენით სრულიად ახალი, მსუბუქი და სწრაფი ბრაუზერი, რომელიც მუდმივად ვითარდება. { -brand-name-firefox-quantum } არის { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = უკეთ გაიცანით { -brand-name-firefox-quantum }

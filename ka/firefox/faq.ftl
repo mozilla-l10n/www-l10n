@@ -49,10 +49,16 @@ is-firefox-safe = { -brand-name-firefox } უსაფრთხოა?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
 not-only-is = { -brand-name-firefox } არათუ უსაფრთხოა გამოსაყენებლად, იგი ასევე იცავს თქვენს პირად მონაცემებს. { -brand-name-firefox-browser } თავადვე უზღუდავს ცნობილ მეთვალყურეებს, სოციალური ქსელების აღმრიცხავ, კრიპტოგამომმუშავებელ და მომხმარებლის ამომცნობ საშუალებებს, თქვენზე ინფორმაციის შეგროვების შესაძლებლობას. <a href="{ $url }">გაეცანით ვრცლად, პირადულობის დაცვას ჩვენს პროდუქტებში.</a>
+related-questions-safe = მსგავსი კითხვები: კარგად იცავს { -brand-name-firefox } პირადულობას, არის { -brand-name-firefox } დაცული, უმჯობესია { -brand-name-firefox } პირადულობაში
+does-firefox-sell = ყიდის { -brand-name-firefox } თქვენს პირად მონაცემებს?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = არა, არც აქამდე, არც მომავალში. პირიქით, ჩვენ გიცავთ სარეკლამოებისგან. { -brand-name-firefox } პროდუქტები შექმნილია პირადულობის უზრუნველსაყოფად. <a href="{ $url }">იხილეთ ჩვენი პირობა.
+why-is-firefox = რატომაა { -brand-name-firefox } ნელი?
+firefox-isnt-slow = { -brand-name-firefox } აღარაა ნელი… ახლა. 2017 წელს, ჩვენ ხელახლა შევქმენით ბრაუზერის ძრავა (სახელწოდებით Quantum), რომ { -brand-name-firefox } არ ჩამორჩენოდა სხვა ძირითად ბრაუზერებს. ამასთან, მეთვალყურეების შეზღუდვით, გვერდები კიდევ უფრო სწრაფად იტვირთება. ასე რომ, { -brand-name-firefox } მსუბუქი და სწრაფია, პირადი მონაცემების შეწირვის გარეშე.
+is-firefox-chromium = { -brand-name-firefox } დაფუძნებულია { -brand-name-chromium }-ზე?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
