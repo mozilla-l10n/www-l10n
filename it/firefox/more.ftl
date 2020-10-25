@@ -33,6 +33,7 @@ comparing-firefox-chrome = Confronto del { -brand-name-firefox-browser } con { -
 big-isnt-always = Grande non sempre è sinonimo di migliore. Scegli piuttosto l’indipendenza.
 comparing-firefox-brave = Confronto del { -brand-name-firefox-browser } con { -brand-name-brave }
 comparing-firefox-edge = Confronto del { -brand-name-firefox-browser } con { -brand-name-microsoft } { -brand-name-edge }
+youll-never-guess = Non indovineresti mai qual è il browser che ha il vantaggio in termini di velocità e funzionalità.
 comparing-firefox-ie = Confronto del { -brand-name-firefox-browser } con { -brand-name-microsoft } { -brand-name-ie }
 comparing-firefox-safari = Confronto del { -brand-name-firefox-browser } con { -brand-name-apple } { -brand-name-safari }
 comparing-firefox-opera = Confronto del { -brand-name-firefox-browser } con { -brand-name-opera }
