@@ -28,15 +28,22 @@ how-do-i = როგორ გადმოვწერო { -brand-name-firefox-
 you-can-easily = მარტივად შეგიძლიათ ჩამოტვირთოთ { -brand-name-firefox } კომპიუტერისთვის <a href="{ $url }">აქედან.</a> { -brand-name-firefox } მუშაობს <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> და <a href="{ $url4 }">{ -brand-name-linux }</a>-მოწყობილობებზე, აგრეთვე ხელმისაწვდომია <a href="{ $url5 }">{ -brand-name-android } და { -brand-name-ios }-ზე.</a> გადაამოწმეთ, რომ ბრაუზერს ნამდვილად ჩვენი სანდო და უსაფრთხო { -brand-name-mozilla }/{ -brand-name-firefox }-გვერდებიდან იწერთ.
 is-firefox-free = { -brand-name-firefox } უფასოა?
 yep-the-firefox = დიახ! { -brand-name-firefox-browser } უფასოა. უუფასოესი. ფარული გადასახადების გარეშე. სარგებლობთ ყოველგვარი ხარჯების გარეშე და არც თქვენს პირად მონაცემებს არ ვყიდით.
+related-questions-free = მსგავსი კითხვები: არის { -brand-name-firefox-browser } უფასო, რა ღირს { -brand-name-firefox }
 is-chrome-better = { -brand-name-chrome } უკეთესია ვიდრე { -brand-name-firefox }?
+no-we-dont = არა, ჩვენ არ მიგვაჩნია რომ { -brand-name-chrome } უკეთესია, ვიდრე { -brand-name-firefox }, ვინაიდან: როცა ხალხი კითხულობს რომელია უკეთესი, გულისხმობენ თუ რომელია სწრაფი და უსაფრთხო. { -brand-name-firefox } ახლდება ყოველთვიურად, სისწრაფისა და თქვენი პირადულობის თავისთავად უზრუნველყოფისთვის.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">იხილეთ, { -brand-name-firefox } რითი სჯობს { -brand-name-chrome }-ს.</a>
+related-questions-better = მსგავსი კითხვები: არის { -brand-name-firefox } უკეთესი ვიდრე { -brand-name-chrome }, { -brand-name-firefox } ჯობია { -brand-name-google }-ს, { -brand-name-firefox } უფრო უსაფრთხოა ვიდრე { -brand-name-chrome }, { -brand-name-firefox } უფრო დაცულია ვიდრე { -brand-name-chrome }
+is-firefox-safe-download = { -brand-name-firefox } უსაფრთხოა ჩამოსატვირთად?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = თქვენი პირადულობის დაცვა, ჩვენთვის უმთავრესია და გარწმუნებთ, რომ { -brand-name-firefox } თქვენს მოწყობილობაზე უსაფრთხოდ დაყენდება — მაგრამ ყოველთვის გადაამოწმეთ, რომ იწერთ სანდო { -brand-name-mozilla }/{ -brand-name-firefox } საიტიდან, როგორიცაა <a href="{ $url }">ჩვენი ჩამოტვირთვების გვერდი.</a>
+is-firefox-safe = { -brand-name-firefox } უსაფრთხოა?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
