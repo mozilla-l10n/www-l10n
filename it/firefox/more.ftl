@@ -42,3 +42,4 @@ so-many-ads = Troppa pubblicità, poca pazienza… basta con questa follia!
 firefox-more-protection = { -brand-name-firefox }: più protezione, meno preoccupazioni.
 were-obsessed-with = Proteggere la privacy degli utenti è il nostro chiodo fisso. Ecco perché abbiamo implementato in { -brand-name-firefox } la Navigazione anonima più completa sul mercato.
 incognito-browser-what = Browser in incognito: cosa significa davvero
+building-a-safe = Costruire un browser sicuro è un’arte e una scienza poiché non ci sono regole predefinite.
