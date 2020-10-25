@@ -25,6 +25,11 @@ how-do-i = Hogyan szerezhetem be a { -brand-name-firefox-browser }t?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = <a href="{ $url }">Innen</a> könnyedén letöltheti az asztali { -brand-name-firefox } böngészőt. A { -brand-name-firefox } működik a <a href="{ $url2 }">{ -brand-name-windows }t,</a> <a href="{ $url3 }">{ -brand-name-mac-short }et</a> és <a href="{ $url4 }">{ -brand-name-linux }ot</a> futtató eszközökön, de elérhető <a href="{ $url5 }">{ -brand-name-android }ra és { -brand-name-ios }-re</a> is. Győződjön meg róla, hogy a { -brand-name-mozilla } / { -brand-name-firefox } egyik megbízható oldaláról tölti le.
+is-firefox-free = A { -brand-name-firefox } ingyenes?
+yep-the-firefox = Igen! A { -brand-name-firefox-browser } ingyenes. Teljesen ingyenes. Nincsenek rejtett költségek vagy egyebek. Nem fizet semmit a használatáért, és nem adjuk el a személyes adatait.
+related-questions-free = Kapcsolódó kérdések: a { -brand-name-firefox-browser } ingyenes, pénzbe kerül-e a { -brand-name-firefox }
+is-chrome-better = A { -brand-name-chrome } jobb, mint a { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
