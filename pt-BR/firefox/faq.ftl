@@ -15,7 +15,7 @@ what-is-firefox = O que é { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
-the-firefox-browser = O { -brand-name-firefox-browser } é o único dos principais navegadores desenvolvido por uma organização sem fins lucrativos, que não vende seus dados pessoais para anunciantes e ajuda você a proteger suas informações pessoais. Saiba mais sobre o <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">outros produtos</a>.
+the-firefox-browser = O { -brand-name-firefox-browser } é o único dos principais navegadores desenvolvido por uma organização sem fins lucrativos, que não vende seus dados pessoais para anunciantes e ajuda você a proteger suas informações pessoais. Saiba mais sobre os <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">outros produtos</a>.
 how-do-i = Como obter o { -brand-name-firefox-browser }?
 
 # Variables:
@@ -25,6 +25,7 @@ how-do-i = Como obter o { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Você pode baixar facilmente o navegador { -brand-name-firefox } de computador <a href="{ $url }">aqui</a>. O { -brand-name-firefox } funciona em dispositivos <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>. Também está disponível em <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }</a>. Certifique-se de baixar nosso navegador em uma de nossas páginas { -brand-name-mozilla }/{ -brand-name-firefox } confiáveis.
 is-firefox-free = O { -brand-name-firefox } é gratuito?
 yep-the-firefox = Sim! O { -brand-name-firefox-browser } é gratuito. Super gratuito, na verdade. Nenhum custo escondido nem nada. Você não paga nada para usar e nós não vendemos seus dados pessoais.
 related-questions-free = Questões relacionadas: o { -brand-name-firefox-browser } é gratuito, o { -brand-name-firefox } custa dinheiro
@@ -54,6 +55,7 @@ does-firefox-sell = O { -brand-name-firefox } vende seus dados pessoais?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Não. Nunca vendemos, nunca faremos isso. Além disso, protegemos você de muitos anunciantes que o fazem. Os produtos { -brand-name-firefox } são projetados para proteger sua privacidade. <a href="{ $url }">Isso é um compromisso.</a>
 why-is-firefox = Por que o { -brand-name-firefox } é tão lento?
 is-firefox-chromium = O { -brand-name-firefox } é baseado no { -brand-name-chromium }?
 does-firefox-use = O { -brand-name-firefox } usa o { -brand-name-google }?
