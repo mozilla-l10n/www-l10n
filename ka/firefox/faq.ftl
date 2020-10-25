@@ -48,6 +48,7 @@ is-firefox-safe = { -brand-name-firefox } უსაფრთხოა?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } არათუ უსაფრთხოა გამოსაყენებლად, იგი ასევე იცავს თქვენს პირად მონაცემებს. { -brand-name-firefox-browser } თავადვე უზღუდავს ცნობილ მეთვალყურეებს, სოციალური ქსელების აღმრიცხავ, კრიპტოგამომმუშავებელ და მომხმარებლის ამომცნობ საშუალებებს, თქვენზე ინფორმაციის შეგროვების შესაძლებლობას. <a href="{ $url }">გაეცანით ვრცლად, პირადულობის დაცვას ჩვენს პროდუქტებში.</a>
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
