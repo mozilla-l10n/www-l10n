@@ -49,6 +49,40 @@ firefox-desktop-download-autosuggest-urls = Sugerencia automática de URLs
 firefox-desktop-download-sync-across-devices = Sincronización entre dispositivos
 firefox-desktop-download-reader-mode = Modo lectura
 firefox-desktop-download-spell-check = Corrector ortográfico
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Bloquea la reproducción automática de video y audio
+firefox-desktop-download-share-links = Compartir enlaces
+firefox-desktop-download-protect-your-privacy = Protege tu privacidad
+firefox-desktop-download-third-party-cookie = Bloqueo de cookies de terceros
+firefox-desktop-download-fingerprinter-blocking = Bloqueo de detectores de huellas digitales (fingerprinters)
+firefox-desktop-download-cryptominer-blocking = Bloqueo de criptomineros
+firefox-desktop-download-private-browsing-mode = Modo de navegación privada
+firefox-desktop-download-built-in-password = Administrador de contraseñas integrado
+firefox-desktop-download-clear-history = Limpiar historial
+firefox-desktop-download-form-autofill = Autocompletado de formularios
+firefox-desktop-download-automatic-updates = Actualizaciones automáticas
+firefox-desktop-download-customize-your-browser = Personaliza tu navegador
+firefox-desktop-download-themes = Temas
+firefox-desktop-download-dark-mode = Modo oscuro
+firefox-desktop-download-adjust-search-bar = Ajusta la configuración de la barra de búsqueda
+firefox-desktop-download-tweak-your-settings = Personaliza tus ajustes
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Sincroniza tus dispositivos
+firefox-desktop-download-screenshots = Capturas de pantalla
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protección mejorada contra el rastreo (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Consigue { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Consigue { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-more-from-firefox = Consigue más productos de { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Simplemente descarga el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ¡Casi has terminado!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Ahora <strong>ejecuta</strong> el instalador que se acaba de descargar.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Ahora <strong>abre</strong> el archivo que se acaba de descargar.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.
