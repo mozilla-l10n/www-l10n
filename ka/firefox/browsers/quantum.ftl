@@ -1,0 +1,16 @@
+# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
+
+page-title = ჩამოტვირთეთ { -brand-name-firefox-quantum }
+page-description = { -brand-name-firefox-quantum } იყო ძირფესვიანი ცვლილება. 2017-ში, ჩვენ შევქმენით სრულიად ახალი, მსუბუქი და სწრაფი ბრაუზერი, რომელიც მუდმივად ვითარდება. { -brand-name-firefox-quantum } არის { -brand-name-firefox-browser }.
+the-latest-firefox = უახლესი { -brand-name-firefox }-ძრავი: { -brand-name-firefox-quantum }
+firefox-quantum-was = { -brand-name-firefox-quantum } იყო ძირფესვიანი ცვლილება { -brand-name-firefox }-ის შემუშავებაში. 2017-ში, ჩვენ შევქმენით სრულიად ახალი, მსუბუქი და სწრაფი ბრაუზერი, რომელიც მუდმივად ვითარდება. { -brand-name-firefox-quantum } არის { -brand-name-firefox-browser }.
+# https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
+learn-more-about = უკეთ გაიცანით { -brand-name-firefox-quantum }
+privacy-first = პირადულობა უწინარეს ყოვლისა
+firefox-doesnt-spy = { -brand-name-firefox } არ გითვალთვალებთ ინტერნეტში. ჩვენ ვზღუდავთ უამრავ ცნობილ მეთვალყურეს და სრულად გიბრუნებთ მართვის სადავეებს.
+super-fast = ძალიან სწრაფი
