@@ -30,6 +30,7 @@ is-firefox-free = A { -brand-name-firefox } ingyenes?
 yep-the-firefox = Igen! A { -brand-name-firefox-browser } ingyenes. Teljesen ingyenes. Nincsenek rejtett költségek vagy egyebek. Nem fizet semmit a használatáért, és nem adjuk el a személyes adatait.
 related-questions-free = Kapcsolódó kérdések: a { -brand-name-firefox-browser } ingyenes, pénzbe kerül-e a { -brand-name-firefox }
 is-chrome-better = A { -brand-name-chrome } jobb, mint a { -brand-name-firefox }?
+no-we-dont = Nem, nem gondoljuk, hogy a { -brand-name-chrome } jobb lenne, mint a { -brand-name-firefox }, és ennek ez az oka: amikor az emberek azt kérdezik, hogy melyik böngésző a jobb, arra kíváncsiak, hogy melyik böngésző gyorsabb és biztonságosabb. A { -brand-name-firefox } havonta frissül, hogy biztosan a leggyorsabb böngészője legyen, amely automatikusan tiszteletben tartja a magánszféráját.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
