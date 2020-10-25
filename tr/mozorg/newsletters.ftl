@@ -31,6 +31,10 @@ newsletters-language = Dil:
 newsletters-format = Biçim:
 newsletters-subscribe = Abone ol
 newsletters-save-preferences = Tercihleri kaydet
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = Bülten e-posta kurtarma
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = <span>Bülten aboneliklerinizi</span> yönetin
 newsletters-send-me-a-link = Bana link gönder
 newsletters-youve-been-unsubscribed = Abonelikten çıktınız.
 newsletters-were-sorry-to-see-you-go = Ayrılmanıza üzüldük.
@@ -38,3 +42,5 @@ newsletters-would-you-mind-telling-us = Neden ayrıldığınızı bizimle payla�
 newsletters-other = Diğer…
 newsletters-submit = Gönder
 newsletters-thanks-for-telling-us-why = Neden ayrıldığınızı bildirdiğiniz için teşekkürler.
+newsletters-added-extras = Ek özellikler
+newsletters-about-us = Hakkımızda

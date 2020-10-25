@@ -15,6 +15,7 @@ compare-index-a-great-internet-browser-should = Harika bir internet tarayıcıs�
 compare-index-which-browser-is-best-at-keeping = Hangi tarayıcı gizliliğinize daha çok önem veriyor?
 compare-index-what-has-your-browser-done = Tarayıcınız son zamanlarda sizin için ne yaptı?
 compare-index-how-well-does-your-browser = Tarayıcınız farklı cihazlarda ne kadar iyi çalışıyor?
+compare-index-almost-all-of-the-browsers = Burada karşılaştırılan tarayıcıların neredeyse tamamı, masaüstü ve mobil cihazlar arasında eşitlemeye izin verir. Bunu yapmak için tüm cihazlarda tarayıcıya giriş yaptıktan sonra parolalar, gezinti geçmişi, yer imleri ve ayarlar gibi şeyleri eşitlemek için kullanabileceğiniz bir hesaba ihtiyacınız olacaktır.
 compare-index-conclusion = Sonuç:
 compare-index-and-the-winner-is = Ve kazanan…
 compare-index-find-out-how-firefox-chrome = { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ve { -brand-name-ie }'ın gizlilik, fayda ve taşınabilirlik açısından farklarını keşfedin.
