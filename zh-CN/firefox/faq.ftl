@@ -57,9 +57,9 @@ does-firefox-sell = { -brand-name-firefox } 会卖掉您的个人数据吗？
 
 nope-never-have = 过去未发生过，未来更不会发生。我们会努力保护您，免受广告商的侵害。{ -brand-name-firefox } 产品旨在保护您的隐私，<a href="{ $url }">这是我们对您的承诺。</a>
 why-is-firefox = 为什么 { -brand-name-firefox } 这么慢？
-firefox-isnt-slow = { -brand-name-firefox } 现在并不慢…。我们在 2017 年重写了浏览器的引擎（称为 Quantum）以确保 { -brand-name-firefox } 能够其他主流浏览器竞争。另外，我们的跟踪器拦截功也能帮助页面加载更快。所以 { -brand-name-firefox } 现在非常快，而且完全无须牺牲您的隐私。
+firefox-isnt-slow = { -brand-name-firefox } 现在并不慢。。我们在 2017 年重写了浏览器的引擎（称为 Quantum）以确保 { -brand-name-firefox } 能够与其他主流浏览器竞争。另外，我们的跟踪器拦截功也能帮助页面加载更快。所以 { -brand-name-firefox } 现在非常快，而且完全无须牺牲您的隐私。
 is-firefox-chromium = { -brand-name-firefox } 是否基于 { -brand-name-chromium }？
-firefox-is-not = { -brand-name-firefox } 并非基于 { -brand-name-chromium }（{ -brand-name-google } { -brand-name-chrome } 内核的开源浏览器项目）。实际上，我们是最后一款非 { -brand-name-chromium } 类主流浏览器。{ -brand-name-firefox } 使用的是我们专为 { -brand-name-firefox } 构建的 Quantum 引擎，以确保您的数据安全无虞。
+firefox-is-not = { -brand-name-firefox } 并非基于 { -brand-name-chromium }（{ -brand-name-google } { -brand-name-chrome } 内核的开源浏览器项目）。实际上，我们是最后一款非 { -brand-name-chromium } 类主流浏览器。{ -brand-name-firefox } 使用的是我们专为 { -brand-name-firefox } 打造的 Quantum 引擎，以确保您的数据安全无虞。
 does-firefox-use = { -brand-name-firefox } 使用 { -brand-name-google } 产品吗？
 
 # Variables:
