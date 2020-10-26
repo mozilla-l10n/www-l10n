@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = Veelgestelde vragen over { -brand-name-firefox }
 what-is-firefox = Wat is { -brand-name-firefox }?
 
 # Variables:
