@@ -8,7 +8,7 @@
 page-title = Llwytho { -brand-name-firefox-quantum } i Lawr
 page-description = Roedd { -brand-name-firefox-quantum } yn chwyldroadol. Yn 2017, fe wnaethon ni greu porwr newydd, eithriadol o gyflym sy'n gwella'n barhaus. { -brand-name-firefox-quantum } yw { -brand-name-firefox-browser }.
 the-latest-firefox = Y peiriant { -brand-name-firefox } diweddaraf: { -brand-name-firefox-quantum }
-firefox-quantum-was = Roedd { -brand-name-firefox-quantum } yn chwyldroadol. Yn 2017, fe wnaethon ni greu porwr newydd, eithriadol o gyflym sy'n gwella'n barhaus. { -brand-name-firefox-quantum } yw { -brand-name-firefox-browser }.
+firefox-quantum-was = Roedd { -brand-name-firefox-quantum } yn chwyldroadol yn natblygiad { -brand-name-firefox }. Yn 2017, fe wnaethon ni greu porwr newydd, eithriadol o gyflym sy'n gwella'n barhaus. { -brand-name-firefox-quantum } yw { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Rhagor am { -brand-name-firefox-quantum }
 privacy-first = Preifatrwydd yn gyntaf
@@ -18,4 +18,4 @@ get-speed-and = Cyflymder a diogelwch. Mae { -brand-name-firefox } yn gyflym  oh
 always-evolving = Yn esblygu'n barhaus
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features
-find-out-about = Darganfyddwch yr holl <a href="{ $url }">nodweddion</a> anhygoel .
+find-out-about = Darganfyddwch yr holl <a href="{ $url }">nodweddion</a> anhygoel yn { -brand-name-firefox }.
