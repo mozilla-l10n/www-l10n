@@ -17,6 +17,7 @@ update-your-browser = Aktualizujće swój wobhladowak na spěšny a wěsty { -br
 firefox-is-more = { -brand-name-firefox } je wjace hač wobhladowak
 its-a-lightning = Je błyskospěšne durje do najlěpšeho webdožiwjenja.
 get-the-browsers = Wobstarajće sej wobhladowaki, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo přeco tak było
+get-the-privacy = Dóstańće priwatnosć, kotruž sej zasłužiće. Polěpšeny slědowanski škit je awtomatisce zmóžnjeny, kóždy raz, hdyž swój wobhladowak wočinjeće.
 take-your-passwords = Wzmiće swoje hesła wšudźe sobu
 securely-access-the = Mějće wšudźe wěsty přistup k hesłam, kotrež sće w { -brand-name-firefox } składował – samo zwonka wobhladowaka.
 choose-which-firefox = Wubjerće { -brand-name-firefox-browser }, kotryž chceće w swojej rěči sćahnyć
