@@ -10,6 +10,8 @@ compare-shared-yes = Sim
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Não
 compare-shared-private-browsing-mode = Modo de navegação privada
+compare-shared-blocks-third-party-tracking-default = Bloqueia cookies de monitorização de terceiros por predefinição
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Bloqueia cookies de monitorização de terceiros
 compare-shared-blocks-cryptomining-scripts = Bloqueia códigos de criptomineração
 compare-shared-blocks-social-trackers = Bloqueia rastreadores de redes sociais
@@ -27,6 +29,8 @@ compare-shared-os-availability = Disponibilidade para o sistema operativo
 compare-shared-mobile-os-availability = Disponibilidade no sistema operativo móvel
 compare-shared-syncs-with-mobile = Sincroniza com dispositivos móveis
 compare-shared-password-management = Gestor de palavras-passe
+compare-shared-primary-password = Palavra-passe principal
+# Obsolete string
 compare-shared-master-password = Palavra-passe mestra
 compare-shared-security-and-privacy = Segurança e privacidade
 compare-shared-utility = Utilidade
@@ -38,6 +42,7 @@ compare-shared-utility-strong = <strong>Utilidade</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilidade</strong>
 compare-shared-overall-assessment = Avaliação geral
+# Obsolete string
 compare-shared-the-comparisons-made-here = As comparações foram feitas com as seguintes versões de cada navegador:
 compare-shared-this-page-updated-semi-quarterly = Esta página é atualizada 2 vezes por trimestre para refletir as versões mais recentes, no entanto pode não refletir sempre as últimas atualizações.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
