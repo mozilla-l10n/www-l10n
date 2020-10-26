@@ -7,6 +7,8 @@
 
 # Page title the subscription preferences page
 newsletters-newsletter-subscriptions = Subscriptiones a litteras de novas
+# Headline for https://www-dev.allizom.org/newsletter/
+newsletters-read-all-about-it-in-our-newsletter = Lege toto re illo in nostre <span>littera de novas</span>
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirma de littera de novas
 newsletters-thanks-for-subscribing = Gratias de haber te inscribite!
@@ -26,6 +28,7 @@ newsletters-country = Pais:
 newsletters-language = Lingua:
 # Form field label
 newsletters-format = Formato:
+newsletters-subscribe = Subscriber
 newsletters-save-preferences = Salvar le preferentias
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Gere tu <span>subscriptiones al litteras de novas</span>
@@ -44,9 +47,12 @@ newsletters-find-out-how = Discoperi como!
 newsletters-about-us = A proposito de nos
 newsletters-were-glad-you-asked = Nos es felice que tu ha demandate!
 newsletters-thanks-for-updating-your = Gratias pro actualisar le preferentias de tu email.
+newsletters-you-send-too-many-emails = Vos me invia troppo de messages.
+newsletters-your-content-wasnt-relevant = Vostre contento non es relevante pro me.
 newsletters-your-email-design = Le designo del email era troppo difficile a leger.
 newsletters-i-didnt-sign-up = Io non me habeva firmate pro isto.
 newsletters-travel-the-internet = Viagia in Internet con protection sur tote tu apparatos.
+newsletters-sign-in-to-monitor = Aperir session a { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
