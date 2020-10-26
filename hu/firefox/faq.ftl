@@ -59,15 +59,22 @@ nope-never-have = Nem. Eddig sem, és ezután sem. És megvédjük Önt számos 
 why-is-firefox = Miért ilyen lassú a { -brand-name-firefox }?
 firefox-isnt-slow = A Firefox nem lassú… már. 2017-ben teljesen átszabtuk a böngészőmotorunkat (ez lett a Quantum), hogy biztosítsuk azt, hogy a { -brand-name-firefox } versenyre kelhessen a többi nagy böngészővel. A nyomkövető-blokkolóink pedig segítenek az oldal gyorsabb betöltésében. Így a { -brand-name-firefox } villámgyors, anélkül hogy fel kellene áldoznia az adatvédelmet.
 is-firefox-chromium = A { -brand-name-firefox } { -brand-name-chromium }-alapú?
+firefox-is-not = A { -brand-name-firefox } nem a { -brand-name-chromium }-ra épül (a nyílt forráskódú böngészőre, ami a { -brand-name-google } { -brand-name-chrome } magját képezi). Valóban mi vagyunk az utolsó nagy böngésző, amire ez igaz. A { -brand-name-firefox } a Quantum böngészőmotort használja, amely kifejezetten a { -brand-name-firefox }hoz készült, így biztosíthatjuk, hogy az adatait tisztelettel és bizalmasan kezeljük.
+does-firefox-use = A { -brand-name-firefox } a { -brand-name-google }-t használja?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = A { -brand-name-google } az alapértelmezett keresőszolgáltatás a { -brand-name-firefox }ban, ami azt jelenti, hogy közvetlenül a címsávban kereshet a világhálón. <a href="{ $url }">Tudjon meg többet a keresőszolgáltatás-beállításokról és az alapértelmezések módosításáról.</a>
+does-firefox-have = A { -brand-name-firefox } rendelkezik beépített VPN-nel?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = A { -brand-name-firefox }ban nincs beépített VPN (virtuális magánhálózat), de van két { -brand-name-mozilla } / { -brand-name-firefox } termék, amellyel a privát { -brand-name-firefox-browser } mellett megvédheti a böngészője (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) vagy az eszköze (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) kapcsolatát WiFin, illetve elrejtheti az IP-címét.
+related-questions-ip = Kapcsolódó kérdések: a { -brand-name-firefox } elrejti-e az IP-címét
+who-owns-firefox = Kié a { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
