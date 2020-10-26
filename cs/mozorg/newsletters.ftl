@@ -73,9 +73,9 @@ newsletters-thanks-for-telling-us-why = Děkujeme, že jste nám řekli, proč n
 newsletters-while-here-why-not-check = Když už jste zde, co se nepodívat na nějaké další věci k { -brand-name-firefox(case: "dat") }?
 newsletters-get-up-and-go = Vstát a jít
 newsletters-its-your-web-anywhere-you = Je to váš web ať jste kdekoliv.
-newsletters-get-firefox-for-mobile = Získat { -brand-name-firefox } pro mobily!
+newsletters-get-firefox-for-mobile = Získat { -brand-name-firefox(case: "acc") } pro mobily!
 newsletters-added-extras = Přidané doplňky
-newsletters-make-firefox-do-more-with = Vylepšete { -brand-name-firefox } pomocí doplňků.
+newsletters-make-firefox-do-more-with = Vylepšete { -brand-name-firefox(case: "acc") } pomocí doplňků.
 newsletters-find-out-how = Zjistěte jak!
 newsletters-about-us = O nás
 newsletters-whats-mozilla-all-about = O čem všem je { -brand-name-mozilla }?
@@ -83,13 +83,13 @@ newsletters-were-glad-you-asked = Jsme rádi, že se ptáte!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Milujete web? My také!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
-newsletters-unlock-the-world-of-web = Nahlédněte do světa vývoje webu s naším týdenním zpravodajem { -brand-name-mozilla } Developer. Každé vydání přináší informace a technikách programování a ověřených postupech, novinkách na { -brand-name-mdn }, informace o nových technologiích, tipy na nástroje pro vývojáře a další.
+newsletters-unlock-the-world-of-web = Nahlédněte do světa vývoje webu s naším týdenním zpravodajem { -brand-name-mozilla } Developer. Každé vydání přináší informace a technikách programování a ověřených postupech, novinkách na { -brand-name-mdn(case: "loc") }, informace o nových technologiích, tipy na nástroje pro vývojáře a další.
 # Obsolete string
 newsletters-join-thousands-of-developers = Připojte se k tisícům vývojářů, jako jste vy, kteří se chtějí naučit to nejlepší pro vývoj webových aplikací.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Více o Firefoxu ve vaší e-mailové schránce.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-see-where-the-web-can-take = Zjistěte, kam může web směřovat z našich měsíčních tipů k { -brand-name-firefox }u a triků pro používání internetu.
+newsletters-see-where-the-web-can-take = Zjistěte, kam může web směřovat z našich měsíčních tipů k { -brand-name-firefox(case: "dat") } a triků pro používání internetu.
 newsletters-we-are-sorry-but-there = Omlouváme se, v našem systému nastal problém. Zkuste to prosím později!
 newsletters-thanks-for-updating-your = Děkujeme za aktualizaci vašeho nastavení e-mailů.
 newsletters-the-supplied-link-has-expired-long = Platnost zadaného odkazu vypršela nebo je neplatný. Nový obdržíte v dalším e-mailu z našeho zpravodaje, nebo si jej můžete vyžádat níže.
@@ -102,7 +102,7 @@ newsletters-i-didnt-sign-up = Tento odběr jsem si nepřihlásil(a).
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Tato e-mailová adresa není v našem systému. Zkontrolujte ji prosím, popřípadě <a href="{ $url }">se přihlaste k odběru našeho zpravodaje.</a>
-newsletters-im-keeping-in-touch = Jsem místo toho v kontaktu s Mozillou na { -brand-name-facebook }u a { -brand-name-twitter }u.
+newsletters-im-keeping-in-touch = Jsem místo toho v kontaktu s { -brand-name-mozilla(case: "ins") } na { -brand-name-facebook(case: "loc") } a { -brand-name-twitter(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Odebírejte, čtěte,<br> zůstaňte v obraze.
 # Obsolete string
@@ -110,7 +110,7 @@ newsletters-sign-up-read-up-make-a-difference = Přihlaste se a sledujte.<br>
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Pozor na problémy, které ovlivňují váš online život.
 # Obsolete string
-newsletters-get-the-mozilla-newsletter = Přihlaste se ke zpravodaji Mozilly a nechte se informovat o zdraví internetu a možnostech, jak se můžete zapojit.
+newsletters-get-the-mozilla-newsletter = Přihlaste se ke zpravodaji { -brand-name-mozilla(case: "gen") } a nechte se informovat o zdraví internetu a možnostech, jak se můžete zapojit.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = O standardech
 # Name for the newsletter in Newsletter subscription page
@@ -158,33 +158,33 @@ newsletters-add-your-voice = Připojte se k peticím, událostem a iniciativám,
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Testování nových produktů
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better = Pomozte nám vylepšovat { -brand-name-firefox } testováním nejnovějších produktů a funkcí.
+newsletters-help-us-make-a-better = Pomozte nám vylepšovat { -brand-name-firefox(case: "acc") } testováním nejnovějších produktů a funkcí.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-community = Komunita Mozilly
+newsletters-mozilla-community = Komunita { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
-newsletters-join-mozillians-all-around = Přidejte se ke komunitě Mozilly po celém světě a dozvíte se o možnostech, jak podpořit misi Mozilly.
+newsletters-join-mozillians-all-around = Přidejte se ke komunitě po celém světě a dozvíte se o možnostech, jak podpořit misi { -brand-name-mozilla(case: "gen") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-newsletters-a-monthly-newsletter-affiliates = Měsíčník o novinkách v Partnerském programu { -brand-name-firefox }u.
+newsletters-a-monthly-newsletter-affiliates = Měsíčník o novinkách v Partnerském programu { -brand-name-firefox(case: "gen") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-newsletters-a-monthly-newsletter-ambassadors = Měsíčník o tom, jak se zapojit do Mozilly ve vaší škole.
+newsletters-a-monthly-newsletter-ambassadors = Měsíčník o tom, jak se zapojit do { -brand-name-mozilla(case: "gen") } ve vaší škole.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Novinky o betaverzích
 # Description for the newsletter in Newsletter subscription page (Beta News)
-newsletters-read-about-the-latest-features = Přečtěte si o posledních novinkách pro { -brand-name-firefox } na počítači a mobilu dříve, než budou součástí finálního vydání.
+newsletters-read-about-the-latest-features = Přečtěte si o posledních novinkách pro { -brand-name-firefox(case: "acc") } na počítači a mobilu dříve, než budou součástí finálního vydání.
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-android = Stáhnout { -brand-name-firefox } pro { -brand-name-android }
+newsletters-download-firefox-for-android = Stáhnout { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") }
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-firefox-for-android = Získejte { -brand-name-firefox } pro { -brand-name-android }
+newsletters-get-firefox-for-android = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-ios = Stáhnout { -brand-name-firefox } pro { -brand-name-ios }
+newsletters-download-firefox-for-ios = Stáhnout { -brand-name-firefox(case: "acc") } pro { -brand-name-ios(case: "acc") }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-mobile = Stáhnout { -brand-name-firefox } pro mobilní telefon
+newsletters-download-firefox-for-mobile = Stáhnout { -brand-name-firefox(case: "acc") } pro mobilní telefon
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Tipy pro účet Firefoxu
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
@@ -196,45 +196,45 @@ newsletters-periodic-email-updates = Pravidelná e-mailová upozornění o naš�
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
-newsletters-be-the-first-to-know = Buďte první, kdo se dozví o dostupnosti { -brand-name-firefox }u po zařízení s { -brand-name-ios }.
+newsletters-be-the-first-to-know = Buďte první, kdo se dozví o dostupnosti { -brand-name-firefox(case: "gen") } po zařízení s { -brand-name-ios(case: "ins") }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-os-smartphone-owner = Vlastníte chytrý telefon s { -brand-name-firefox-os }?
+newsletters-firefox-os-smartphone-owner = Vlastníte chytrý telefon s { -brand-name-firefox-os(case: "ins") }?
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-newsletters-dont-miss-important-news = Nenechte si ujít důležité novinky a aktualizace pro vaše zařízení s { -brand-name-firefox-os }.
+newsletters-dont-miss-important-news = Nenechte si ujít důležité novinky a aktualizace pro vaše zařízení s { -brand-name-firefox-os(case: "ins") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } a vy
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-newsletters-a-monthly-newsletter-and-special = Měsíčník o tom, jak naplno využít své zařízení s { -brand-name-firefox-os } včetně nejnovějších funkcí a nejlepších aplikací na { -brand-name-firefox-marketplace }.
+newsletters-a-monthly-newsletter-and-special = Měsíčník o tom, jak naplno využít své zařízení s { -brand-name-firefox-os(case: "ins") } včetně nejnovějších funkcí a nejlepších aplikací na { -brand-name-firefox-marketplace(case: "acc") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Týdenní { -brand-name-firefox } tipy
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
-newsletters-get-a-weekly-tip = Získejte týdenní tipy, jak zlepšit svou zkušenost s { -brand-name-firefox }em.
+newsletters-get-a-weekly-tip = Získejte týdenní tipy, jak zlepšit svou zkušenost s { -brand-name-firefox(case: "ins") }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-join-mozilla = Připojení k Mozille
+newsletters-join-mozilla = Připojení k { -brand-name-mozilla(case: "dat") }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
 # Description for the newsletter in Newsletter subscription page (Maker Party)
-newsletters-mozillas-largest-celebration = Největší oslava Mozilly a tvorby a učení webu.
+newsletters-mozillas-largest-celebration = Největší oslava { -brand-name-mozilla(case: "gen") } a tvorby a učení webu.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
-newsletters-discover-the-latest = Objevte nejnovější a nejlepší HTML5 aplikace pro { -brand-name-firefox-os }.
+newsletters-discover-the-latest = Objevte nejnovější a nejlepší HTML5 aplikace pro { -brand-name-firefox-os(case: "acc") }.
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
-newsletters-firefox-os-news = Novinky, tipy, informace o uvedení na trh a o tom, kde koupit { -brand-name-firefox-os }.
+newsletters-firefox-os-news = Novinky, tipy, informace o uvedení na trh a o tom, kde koupit { -brand-name-firefox-os(case: "acc") }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android }
+newsletters-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android(case: "acc") }
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
-newsletters-keep-up-with-releases = Hlídejte si aktuální vydání a novinky o { -brand-name-firefox }u pro { -brand-name-android }.
+newsletters-keep-up-with-releases = Hlídejte si aktuální vydání a novinky o { -brand-name-firefox(case: "loc") } pro { -brand-name-android(case: "acc") }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-news = Novinky ve { -brand-name-firefox }u
+newsletters-firefox-news = Novinky ve { -brand-name-firefox(case: "loc") }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
-newsletters-get-how-tos = Dostávejte návody, rady a novinky, které vám umožní využívat naplno všechny funkce { -brand-name-firefox }u.
+newsletters-get-how-tos = Dostávejte návody, rady a novinky, které vám umožní využívat naplno všechny funkce { -brand-name-firefox(case: "gen") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
-newsletters-special-announcements-about-mozilla = Zvláštní oznámení o každoročním festivalu Mozilly věnovaném utváření budoucnosti otevřeného webu.
+newsletters-special-announcements-about-mozilla = Zvláštní oznámení o každoročním festivalu { -brand-name-mozilla(case: "gen") } věnovaném utváření budoucnosti otevřeného webu.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-news = Novinky od Mozilly
+newsletters-mozilla-news = Novinky od { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep = Pravidelné informace o našem boji za lepší internet.
 # Name for the newsletter in Newsletter subscription page
@@ -252,4 +252,4 @@ newsletters-were-building-the-technology = Budujeme technologie budoucnosti. Obj
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
-newsletters-special-announcements-helping-you = Zvláštní oznámení, která vám pomohou využívat { -brand-name-webmaker } naplno.
+newsletters-special-announcements-helping-you = Zvláštní oznámení, která vám pomohou využívat { -brand-name-webmaker(case: "acc") } naplno.
