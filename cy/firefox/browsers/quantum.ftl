@@ -18,4 +18,4 @@ get-speed-and = Cyflymder a diogelwch. Mae { -brand-name-firefox } yn gyflym  oh
 always-evolving = Yn esblygu'n barhaus
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features
-find-out-about = Darganfyddwch yr holl <a href="{ $url }">nodweddion</a> anhygoel yn { -brand-name-firefox }.
+find-out-about = Darganfyddwch yr holl <a href="{ $url }">nodweddion</a> anhygoel sydd yn { -brand-name-firefox }.
