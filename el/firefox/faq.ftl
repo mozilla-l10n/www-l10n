@@ -47,6 +47,7 @@ does-firefox-sell = Πουλά το { -brand-name-firefox } τα προσωπι�
 
 why-is-firefox = Γιατί είναι τόσο αργό το { -brand-name-firefox };
 is-firefox-chromium = Βασίζεται το { -brand-name-firefox } στο { -brand-name-chromium };
+firefox-is-not = Το { -brand-name-firefox } δεν βασίζεται στο { -brand-name-chromium } (το έργο ανοικτού κώδικα που βρίσκεται στην καρδιά του { -brand-name-google } { -brand-name-chrome }). Βασικά, είναι το μόνο γνωστό πρόγραμμα περιήγησης που δεν βασίζεται σε αυτό. Το { -brand-name-firefox } στηρίζεται στη μηχανή Quantum μας, που αναπτύχθηκε ειδικά για το { -brand-name-firefox }, ώστε να μπορούμε να εξασφαλίσουμε ότι ο χειρισμός των δεδομένων σας γίνεται με σεβασμό στο απόρρητο.
 does-firefox-use = Το { -brand-name-firefox } χρησιμοποιεί το { -brand-name-google };
 
 # Variables:
