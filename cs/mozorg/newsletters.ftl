@@ -8,11 +8,11 @@
 # Page title the subscription preferences page
 newsletters-newsletter-subscriptions = Přihlášení odběru zpravodaje
 # Page titlefor https://www-dev.allizom.org/newsletter/
-newsletters-mozilla-newsletter = Zpravodaj Mozilly
+newsletters-mozilla-newsletter = Zpravodaj { -brand-name-mozilla(case: "gen") }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Přečtěte si o všem v našem <span>zpravodaji</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
-newsletters-subscribe-to-updates-and-keep = Přihlaste se k aktualizacím a zůstávejte aktuální s novinkami Mozilly. Je to skvělá cesta, jak zůstat ve spojení!
+newsletters-subscribe-to-updates-and-keep = Přihlaste se k aktualizacím a zůstávejte aktuální s novinkami { -brand-name-mozilla(case: "gen") }. Je to skvělá cesta, jak zůstat ve spojení!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potvrzení zpravodaje
 newsletters-thanks-for-subscribing = Děkujeme za přihlášení odběru!
@@ -28,7 +28,7 @@ newsletters-open-your-inbox-and-your = Otevřete svou doručenou poštu a zauva�
 newsletters-manage-your-email-preferences = Správa nastavení pro váš e-mail
 newsletters-this-page-is-in-maintenance = Tato stránka je v režimu údržby a je dočasně nedostupná.
 newsletters-to-update-your-email-preferences = Pro nastavení zasílání e-mailů to prosím zkuste znovu za malou chvíli. Děkujeme!
-newsletters-we-love-sharing-updates = Milujeme sdílení novinek o všech těch úžasných věcech, které se v Mozille dějí.
+newsletters-we-love-sharing-updates = Milujeme sdílení novinek o všech těch úžasných věcech, které se v { -brand-name-mozilla(case: "loc") } dějí.
 newsletters-set-your-preferences-below = Nastavte si níže zasílání těch novinek, které vás zajímají.
 # Form field label
 newsletters-your-email-address = Vaše e-mailová adresa:
@@ -47,7 +47,7 @@ newsletters-text-subscribers-will-receive = Odběratelé textů obdrží dvakrá
 newsletters-many-of-our-communications = Mnoho našich sdělení se týká účtu, do kterého jste se zaregistrovali, tedy např. účtu Firefoxu, webové dokumentace na MDN nebo vývojáře doplňků. Chcete-li spravovat jeden ze svých účtů nebo zobrazit seznam všech účtů, navštivte náš <a href="{ $url }">článek podpory o správě účtů</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
-newsletters-to-get-access-to-the-whole = Chcete-li získat přístup k celému světu produktů, znalostí a služeb { -brand-name-firefox }u v jednom účtu, připojte se k nám! O výhodách se více dozvíte <a href="{ $url }">zde</a>.
+newsletters-to-get-access-to-the-whole = Chcete-li získat přístup k celému světu produktů, znalostí a služeb { -brand-name-firefox(case: "gen") } v jednom účtu, připojte se k nám! O výhodách se více dozvíte <a href="{ $url }">zde</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Existuje mnoho způsobů, jak se zapojit. Pokud jste zde nenašli to, co jste hledali, podívejte se na naše <a href="{ $url }">komunitní stránky</a>.
@@ -70,7 +70,7 @@ newsletters-would-you-mind-telling-us = Nechcete nám říci, proč si odhlašuj
 newsletters-other = Jiné…
 newsletters-submit = Odeslat
 newsletters-thanks-for-telling-us-why = Děkujeme, že jste nám řekli, proč nás opouštíte.
-newsletters-while-here-why-not-check = Když už jste zde, co se nepodívat na nějaké další věci k { -brand-name-firefox }u?
+newsletters-while-here-why-not-check = Když už jste zde, co se nepodívat na nějaké další věci k { -brand-name-firefox(case: "dat") }?
 newsletters-get-up-and-go = Vstát a jít
 newsletters-its-your-web-anywhere-you = Je to váš web ať jste kdekoliv.
 newsletters-get-firefox-for-mobile = Získat { -brand-name-firefox } pro mobily!
@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = Váš obsah pro mě není relevantní.
 newsletters-your-email-design = Vaš vzhled e-mailů je pro mě těžko čitelný.
 newsletters-i-didnt-sign-up = Tento odběr jsem si nepřihlásil(a).
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Tato e-mailová adresa není v našem systému. Zkontrolujte ji prosím, popřípadě <a href="{ $url }">se přihlaste k odběru našeho zpravodaje.</a>
 newsletters-im-keeping-in-touch = Jsem místo toho v kontaktu s Mozillou na { -brand-name-facebook }u a { -brand-name-twitter }u.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
