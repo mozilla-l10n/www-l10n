@@ -57,6 +57,8 @@ does-firefox-sell = A { -brand-name-firefox } eladja az Ön személyes adatait?
 
 nope-never-have = Nem. Eddig sem, és ezután sem. És megvédjük Önt számos hirdetőtől, akik ezt tennék. A { -brand-name-firefox } termékek úgy lettek tervezve, hogy megvédjék a magánszféráját. <a href="{ $url }">Ez egy ígéret.</a>
 why-is-firefox = Miért ilyen lassú a { -brand-name-firefox }?
+firefox-isnt-slow = A Firefox nem lassú… már. 2017-ben teljesen átszabtuk a böngészőmotorunkat (ez lett a Quantum), hogy biztosítsuk azt, hogy a { -brand-name-firefox } versenyre kelhessen a többi nagy böngészővel. A nyomkövető-blokkolóink pedig segítenek az oldal gyorsabb betöltésében. Így a { -brand-name-firefox } villámgyors, anélkül hogy fel kellene áldoznia az adatvédelmet.
+is-firefox-chromium = A { -brand-name-firefox } { -brand-name-chromium }-alapú?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
