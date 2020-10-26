@@ -54,6 +54,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
