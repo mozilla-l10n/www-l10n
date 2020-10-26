@@ -35,17 +35,21 @@ no-we-dont = Nem, nem gondoljuk, hogy a { -brand-name-chrome } jobb lenne, mint 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Nézze meg, hogy a { -brand-name-firefox } hogy áll a { -brand-name-chrome }-hoz képest.</a>
 related-questions-better = Kapcsolódó kérdések: a { -brand-name-firefox } jobb-e, mint a { -brand-name-chrome }; a { -brand-name-firefox } jobb-e, mint a { -brand-name-google };a { -brand-name-firefox } biztonságosabb-e, mint a { -brand-name-chrome }; a { -brand-name-firefox } privátabb-e, mint a { -brand-name-chrome }
 is-firefox-safe-download = Biztonságos a { -brand-name-firefox } letöltése?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Az adatvédelme az első számú prioritásunk, és biztosítjuk, hogy a { -brand-name-firefox } az eszközeire történő telepítése teljesen biztonságos legyen – de mindig győződjön meg róla, hogy a { -brand-name-mozilla } / { -brand-name-firefox } egy megbízható webhelyéről tölti le, például <a href="{ $url }">a letöltések oldalunkról.</a>
 is-firefox-safe = A { -brand-name-firefox } biztonságos?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = A { -brand-name-firefox } nem csak biztonságosan használható, de biztonságban tartja az adatait és a privát információit. A { -brand-name-firefox-browser } automatikusan blokkolja az ismert harmadik féltől származó nyomkövetők, közösségimédia-követők, kriptobányászok és ujjlenyomat-készítők adatgyűjtését. <a href="{ $url }">Tudjon meg többet a termékeink adatvédelméről.</a>
+related-questions-safe = Kapcsolódó kérdések: a { -brand-name-firefox } jó-e az adatvédelem szempontjából; biztonságos-e a { -brand-name-firefox }; adatvédelmi szempontból jobb-e a { -brand-name-firefox }
 does-firefox-sell = A { -brand-name-firefox } eladja az Ön személyes adatait?
 
 # Variables:
