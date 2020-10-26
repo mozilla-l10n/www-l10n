@@ -65,3 +65,4 @@ who-owns-firefox = Σε ποια εταιρεία ανήκει το { -brand-nam
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+related-questions-who = Σχετικές ερωτήσεις: πού ανήκει το { -brand-name-firefox }, ποιος είναι ο κάτοχος του { -brand-name-firefox-browser }, ανήκει το { -brand-name-firefox } στην { -brand-name-google }, ανήκει το { -brand-name-mozilla } { -brand-name-firefox } στην { -brand-name-google }
