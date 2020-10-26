@@ -261,6 +261,8 @@ newsletters-special-accouncements-and-messages = Special announcements and messa
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
 newsletters-were-building-the-technology = We're building the technology of the future. Come explore with us.
 # Name for the newsletter in Newsletter subscription page
