@@ -66,6 +66,7 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-private-network = Rrjet Privat Firefox
 
 ## Firefox products (short names)
 
