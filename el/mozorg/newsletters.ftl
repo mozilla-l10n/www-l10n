@@ -170,6 +170,8 @@ newsletters-get-a-weekly-tip = Λάβετε μια εβδομαδιαία συμ
 newsletters-join-mozilla = Συμμετοχή στη { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = Η μεγαλύτερη γιορτή της { -brand-name-mozilla } για τη δημιουργία και την εκμάθηση στο διαδίκτυο.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
