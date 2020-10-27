@@ -129,3 +129,17 @@ newsletters-about-standards = Acerca de los estándares
 newsletters-addon-development = Desarrollo de complementos
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Boletín para desarrolladores
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } para escritorio
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = No te perdás los últimos anuncios sobre nuestro navegador de escritorio.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Involucrate
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = El conocimiento es poder
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Acerca de Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Escritorio
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Probá nuevos productos
