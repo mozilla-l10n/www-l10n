@@ -35,18 +35,23 @@ no-we-dont = No, no creemos que { -brand-name-chrome } sea mejor que { -brand-na
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = ¿Es seguro descargar { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = ¿{ -brand-name-firefox } es seguro?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = ¿{ -brand-name-firefox } vende tus datos personales?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+is-firefox-chromium = ¿{ -brand-name-firefox } está basado en { -brand-name-chromium }?
+does-firefox-use = ¿{ -brand-name-firefox } usa { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
