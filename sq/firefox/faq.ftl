@@ -25,10 +25,19 @@ how-do-i = Si ta marr { -brand-name-firefox-browser }-in?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Shfletuesin { -brand-name-firefox } për desktop mund ta shkarkoni kollaj nga <a href="{ $url }">këtu.</a> { -brand-name-firefox } funksionon në pajisje <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> dhe <a href="{ $url4 }">{ -brand-name-linux }</a>, dhe është i passhëm gjithashtu për <a href="{ $url5 }">{ -brand-name-android } dhe { -brand-name-ios }.</a> Sigurohuni se po e shkarkoni shfletuesin tonë prej një nga faqeve tona të besuara { -brand-name-mozilla }/{ -brand-name-firefox }.
+is-firefox-free = A është falas { -brand-name-firefox }-i?
+yep-the-firefox = Ëhë! { -brand-name-firefox-browser }-i është falas. Superfalas, faktikisht. S’ka kosto të fshehura, e më the, të thashë. S’paguani gjë për ta përdorur, dhe nuk i shesim të dhënat tuaja personale.
+related-questions-free = Pyetje të afërta: a është falas { -brand-name-firefox-browser }-i, a kushton para { -brand-name-firefox }-i
+is-chrome-better = A është { -brand-name-chrome }-i më i mirë se { -brand-name-firefox }-i?
+no-we-dont = Jo, nuk besojmë se { -brand-name-chrome }-i është më i mirë se { -brand-name-firefox }-i, dhe ja pse: kur njerëzit pyesin se cili shfletues është më i miri, në fakt pyesin se cili shfletues është më i shpejtë dhe më i sigurt. { -brand-name-firefox }-i përditësohet çdo muaj, për të garantuar se keni shfletuesin më të shpejtë, që respekton automatikisht privatësinë tuaj.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Shihni se si del { -brand-name-firefox }-i kundrejt { -brand-name-chrome }-it.</a>
+related-questions-better = Pyetje të afërta: a është { -brand-name-firefox }-i më i mirë se { -brand-name-chrome }-i, a është { -brand-name-firefox }-i më i mirë se { -brand-name-google }, a është { -brand-name-firefox }-i më i sigurt se sa { -brand-name-chrome }-i, a është { -brand-name-firefox }-i më privat se { -brand-name-chrome }-i
+is-firefox-safe-download = A është pa rrezik të shkarkohet { -brand-name-firefox }-i?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
