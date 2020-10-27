@@ -11,4 +11,7 @@ whatsnew80-up-to-date-banner = ¡Yalan ütz! Nawokisaj ri ruk'isib'äl ruwäch {
 # Main title
 whatsnew80-main-title = Tab'ana' ronojel, jub'a' mas aninäq
 whatsnew80-main-intro = Kaq'ax pa kematz'ib' rik'in awoyonib'al akuchi' majun nasäch. Tak'ulu' { -brand-name-firefox } richin oyonib'äl.
+whatsnew80-primary-cta-description = Tatz'ib'aj ri ataqoya'l o rajilab'al awoyonib'al richin nak'ül ruximonel qasanïk
+# content buckets below hero
+whatsnew80-password-fatigue = Qitzij ri rukoxik ewan tzij
 whatsnew80-new-firefox-android = K'ak'a' { -brand-name-firefox } richin { -brand-name-android }
