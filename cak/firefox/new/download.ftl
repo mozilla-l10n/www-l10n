@@ -66,4 +66,7 @@ firefox-new-please-follow = Tab'ana' utzil ke'awoqaj <a href="{ $url }">re taq k
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ri aq'inoj rik'in jub'a' man nuq'i' ta ri taq rajowaxik { -brand-name-firefox }, chuqa' ütz nitikirisäx nitojtob'ëx jun chi ke re <a href="{ $url }"> taq ruwäch re'</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = We natz'ët jun rutzijol akuchi' nub'ij chi ri chokoy nayäk man jikib'an ta ruma ri { -brand-name-microsoft }, tapitz'a' “Kan tiyak” o pa <a { $attrs }>tijal ri ruchilab'exik runuk'ulem chokoy</a>.
 firefox-new-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aqa' Rub'anikil
