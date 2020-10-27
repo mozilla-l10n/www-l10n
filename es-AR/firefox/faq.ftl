@@ -36,21 +36,28 @@ no-we-dont = No, no creemos que { -brand-name-chrome } sea mejor que { -brand-na
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }"> MIrá cómo se compara { -brand-name-firefox } con { -brand-name-chrome }. </a>
+related-questions-better = Preguntas relacionadas: { -brand-name-firefox } es mejor que { -brand-name-chrome }, { -brand-name-firefox } es mejor que { -brand-name-google }, { -brand-name-firefox } es más seguro que { -brand-name-chrome }, { -brand-name-firefox } es más privado que { -brand-name-chrome }
 is-firefox-safe-download = ¿Es seguro descargar { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Proteger tu privacidad es nuestra prioridad número uno, y nos aseguramos de que la instalación de { -brand-name-firefox } en tus dispositivos sea completamente segura, pero asegurate siempre de descargar desde un sitio { -brand-name-mozilla }/{ -brand-name-firefox }seguro como <a href="{ $url }"> nuestra página de descarga.</a>
 is-firefox-safe = ¿{ -brand-name-firefox } es seguro?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } no solo es seguro de usar, sino que también ayuda a mantener tus datos seguros así como tu información privada. El { -brand-name-firefox-browser } bloquea automáticamente los rastreadores de terceros conocidos, rastreadores de redes sociales, criptomineros y detectores de huellas dactilares para que no recopilen tus datos. <a href="{ $url }"> Obtené más información sobre la privacidad de nuestros productos.</a>
+related-questions-safe = Preguntas relacionadas: { -brand-name-firefox } es bueno para la privacidad, es seguro, es mejor para la privacidad
 does-firefox-sell = ¿{ -brand-name-firefox } vende tus datos personales?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = No Nunca lo hice, nunca lo haré. Y te protegemos de muchos de los anunciantes que lo hacen. Los productos de { -brand-name-firefox } están diseñados para proteger tu privacidad. <a href="{ $url }"> Eso es una promesa.</a>
+why-is-firefox = ¿Por qué { -brand-name-firefox } es tan lento?
+firefox-isnt-slow = { -brand-name-firefox } no es lento ... ahora. En 2017, reconstruimos completamente el motor del navegador (llamado Quantum) para asegurarnos de que { -brand-name-firefox } pudiera competir con otros navegadores importantes. Y nuestros bloqueadores de rastreadores ayudan a que las páginas se carguen aún más rápido. Así que { -brand-name-firefox } es increíblemente rápido sin sacrificar tu privacidad.
 is-firefox-chromium = ¿{ -brand-name-firefox } está basado en { -brand-name-chromium }?
 does-firefox-use = ¿{ -brand-name-firefox } usa { -brand-name-google }?
 
