@@ -42,6 +42,7 @@ is-firefox-safe-download = A është pa rrezik të shkarkohet { -brand-name-fire
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Mbrojtja e privatësisë tuaj është përparësia jonë numër një, dhe sigurojmë që instalimi i { -brand-name-firefox }-it në pajisjen tuaj është plotësisht i parrezik — por sigurohuni përherë se po e shkarkoni prej një sajti të besuar { -brand-name-mozilla }/{ -brand-name-firefox }, bie fjala, <a href="{ $url }">faqja jonë e shkarkimeve.</a>
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
