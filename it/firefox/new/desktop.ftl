@@ -47,7 +47,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } è per tutti
 firefox-desktop-download-available-in-over = Disponibile in oltre 90 lingue e compatibile con le macchine { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, { -brand-name-firefox } funziona indipendentemente dal tuo dispositivo o dalla tua posizione. Per un’esperienza migliore, mantieni il tuo sistema operativo sempre aggiornato.
 firefox-desktop-download-review-system-req = Verifica i requisiti di sistema
 firefox-desktop-download-all-your-devices = Installa { -brand-name-firefox } su tutti i tuoi dispositivi
-firefox-desktop-download-take-your-privacy = Porta la privacy sempre con te. I I { -brand-name-firefox-browsers } per { -brand-name-ios } e per { -brand-name-android } offrono le stesse solide impostazioni sulla privacy per impedire agli elementi traccianti di seguirti sul Web, ovunque tu vada.
+firefox-desktop-download-take-your-privacy = Porta la privacy sempre con te. I { -brand-name-firefox-browsers } per { -brand-name-ios } e per { -brand-name-android } offrono le stesse solide impostazioni sulla privacy per impedire agli elementi traccianti di seguirti sul Web, ovunque tu vada.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Fai <strong>tutto</strong> questo con { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Cerca in modo intelligente e più velocemente
