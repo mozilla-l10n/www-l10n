@@ -66,4 +66,7 @@ firefox-new-please-follow = Følg <a href="{ $url }">denne rettleiinga</a> for �
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Systemet ditt oppfyller kanskje ikkje krava for { -brand-name-firefox }, men du kan prøve ein av <a href="{ $url }">desse versjonane</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Dersom du får ei melding om at appen du prøver å installere ikkje er ein { -brand-name-microsoft }-stadfesta app, klikkar du på «Installer likevel» eller <a { $attrs }>Endre innstillingar for apptilrådingar</a>.
 firefox-new-visit-support-for-more = Besøk brukarstøtte for meir informasjon
