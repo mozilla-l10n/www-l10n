@@ -10,6 +10,8 @@ firefox-desktop-download-og-title = Сцягніце найхутчэйшы ў �
 firefox-desktop-download-og-desc = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } ужо тут.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Атрымайце браўзер, які ахоўвае тое, што важна
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Ніякіх прыхаваных палітык прыватнасці ці чорных хадоў для рэкламадаўцаў. Проста бліскавічна хуткі браўзер, які не прадае вас.
 firefox-desktop-download-download-options = Варыянты сцягвання і іншыя мовы
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
 firefox-desktop-download-compare-firefox-to = Параўнаць { -brand-name-firefox } з:
