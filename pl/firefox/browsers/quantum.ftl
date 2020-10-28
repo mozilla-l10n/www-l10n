@@ -14,8 +14,8 @@ learn-more-about = Więcej informacji o { -brand-name-firefox-quantum(case: "lo
 privacy-first = Zawsze prywatny
 firefox-doesnt-spy = { -brand-name-firefox } nie szpieguje Cię w Internecie. Zatrzymujemy wiele znanych śledzących ciasteczek zewnętrznych witryn i dajemy Ci pełną kontrolę.
 super-fast = Superszybki
-get-speed-and = Jednocześnie szybkość i bezpieczeństwo. { -brand-name-firefox } jest szybki, bo nie śledzimy Twoich ruchów.
+get-speed-and = Korzystaj z szybkości i bezpieczeństwa jednocześnie. { -brand-name-firefox } jest szybki, bo nie śledzimy Twoich ruchów.
 always-evolving = Stale się rozwija
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features
-find-out-about = Dowiedz się więcej o wszystkich niesamowitych <a href="{ $url }">funkcjach { -brand-name-firefox(case: "gen") }</a>.
+find-out-about = Dowiedz się więcej o wszystkich niesamowitych <a href="{ $url }">możliwościach { -brand-name-firefox(case: "gen") }</a>.
