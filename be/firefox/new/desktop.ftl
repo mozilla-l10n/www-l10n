@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-meta-desc = Атрымайце { -brand-name-firefox }, бясплатны вэб-браўзер, які падтрымліваецца { -brand-name-mozilla }, некамерцыйнай арганізацыяй, адданай здароўю інтэрнэту і прыватнасці. Ужо даступны на { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } і { -brand-name-ios }.
 firefox-desktop-download-og-title = Сцягніце найхутчэйшы ў гісторыі { -brand-name-firefox }
 firefox-desktop-download-og-desc = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } ужо тут.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
