@@ -14,6 +14,8 @@ firefox-desktop-download-get-the-browser = Атрымайце браўзер, я
 firefox-desktop-download-no-shady = Ніякіх прыхаваных палітык прыватнасці ці чорных хадоў для рэкламадаўцаў. Проста бліскавічна хуткі браўзер, які не прадае вас.
 firefox-desktop-download-download-options = Варыянты сцягвання і іншыя мовы
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Рабіце ў сеціве, што робіце.<br> { -brand-name-firefox-browser } <strong>не</strong> глядзіць.
 firefox-desktop-download-compare-firefox-to = Параўнаць { -brand-name-firefox } з:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
