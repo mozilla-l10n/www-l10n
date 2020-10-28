@@ -10,11 +10,11 @@ compare-shared-yes = Sim
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Não
 compare-shared-private-browsing-mode = Modo de navegação privativa
-compare-shared-blocks-third-party-tracking-default = Bloqueia cookies de rastreamento de terceiros por padrão
+compare-shared-blocks-third-party-tracking-default = Bloqueio por padrão de cookies de rastreamento de terceiros
 # Obsolete string
-compare-shared-blocks-third-party-tracking = Bloqueia cookies de rastreamento de terceiros
-compare-shared-blocks-cryptomining-scripts = Bloqueia scripts de criptomineração
-compare-shared-blocks-social-trackers = Bloqueia rastreadores de mídias sociais
+compare-shared-blocks-third-party-tracking = Bloqueio de cookies de rastreamento de terceiros
+compare-shared-blocks-cryptomining-scripts = Bloqueio de scripts de criptomineração
+compare-shared-blocks-social-trackers = Bloqueio de rastreadores de mídias sociais
 compare-shared-autoplay-blocking = Bloqueio de reprodução automática
 compare-shared-tab-browsing = Navegação em abas
 compare-shared-bookmark-manager = Gerenciador de favoritos
