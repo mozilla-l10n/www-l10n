@@ -165,3 +165,29 @@ newsletters-download-firefox-for-ios = Descargá { -brand-name-firefox } para { 
 newsletters-download-firefox-for-mobile = Descargá { -brand-name-firefox } móvil
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Consejos de { -brand-name-firefox-accounts }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = ¿Bueno de un smartphone con { -brand-name-firefox-os }?
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Noticias de { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Noticias de { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Estamos haciendo la tecnología del futuro. Vení a explorarla con nosotros.
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
