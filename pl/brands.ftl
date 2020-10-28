@@ -286,6 +286,15 @@
         [ins] Aurorą
         [loc] Aurorze
     }
+-brand-name-firefox-quantum =
+    { $case ->
+       *[nom] Firefox Quantum
+        [gen] Firefoksa Quantum
+        [dat] Firefoksowi Quantum
+        [acc] Firefoksa Quantum
+        [ins] Firefoksem Quantum
+        [loc] Firefoksie Quantum
+    }
 
 ## Firefox products
 
@@ -425,6 +434,7 @@
                 [lower] synchronizacji Firefoksa
             }
     }
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
