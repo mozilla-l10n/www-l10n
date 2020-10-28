@@ -20,14 +20,14 @@ compare-shared-tab-browsing = Navegação em abas
 compare-shared-bookmark-manager = Gerenciador de favoritos
 compare-shared-automatically-fills-out-forms = Preenchimento automático de formulários
 compare-shared-search-engine-options = Opções de mecanismos de pesquisa
-compare-shared-text-to-speech = Texto para fala
+compare-shared-text-to-speech = Conversão de texto para fala
 compare-shared-reader-mode = Modo leitor
 compare-shared-spell-checking = Corretor ortográfico
-compare-shared-web-extensionsadd-ons = Web extensions/Extensões
+compare-shared-web-extensionsadd-ons = Extensões
 compare-shared-in-browser-screenshot-tool = Ferramenta integrada de captura de tela
 compare-shared-os-availability = Disponibilidade em sistemas operacionais
 compare-shared-mobile-os-availability = Disponibilidade em sistemas operacionais de dispositivos móveis
-compare-shared-syncs-with-mobile = Sincroniza com dispositivos móveis
+compare-shared-syncs-with-mobile = Sincronização com dispositivos móveis
 compare-shared-password-management = Gerenciamento de senhas
 compare-shared-primary-password = Senha principal
 # Obsolete string
