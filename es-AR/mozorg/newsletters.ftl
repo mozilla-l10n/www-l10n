@@ -141,5 +141,27 @@ newsletters-knowledge-is-power = El conocimiento es poder
 newsletters-about-labs = Acerca de Labs
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Escritorio
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Agregá tu voz a peticiones, eventos e iniciativas que luchan por el futuro de la web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Probá nuevos productos
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Comunidad { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Afiliados de { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Noticias de { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Leé sobre las últimas características de { -brand-name-firefox } para escritorio y móviles antes de la versión final.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Descargá { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Conseguí { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Descargá { -brand-name-firefox } para { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Descargá { -brand-name-firefox } móvil
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Consejos de { -brand-name-firefox-accounts }
