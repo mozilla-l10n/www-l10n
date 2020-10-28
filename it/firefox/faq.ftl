@@ -26,6 +26,7 @@ how-do-i = Come posso ottenere il { -brand-name-firefox-browser }?
 you-can-easily = Puoi scaricare facilmente il browser { -brand-name-firefox } per desktop <a href="{ $url }">qui.</a> { -brand-name-firefox } funziona sui dispositivi <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a> ed è disponibile anche per <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Assicurati di scaricare il browser da un sito affidabile di { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } è gratuito?
 yep-the-firefox = Sì, il { -brand-name-firefox-browser } è assolutamente gratuito. Nessun costo nascosto o altro. Non paghi nulla per usarlo, in più hai la garanzia che non venderemo mai i tuoi dati personali.
+related-questions-free = Domande correlate: { -brand-name-firefox-browser } è gratis, { -brand-name-firefox } si paga
 is-chrome-better = { -brand-name-chrome } è migliore di { -brand-name-firefox }?
 no-we-dont = No, non pensiamo che { -brand-name-chrome } sia migliore di { -brand-name-firefox } per il seguente motivo: quando gli utenti chiedono quale sia il browser migliore, in realtà chiedono quale sia il browser più veloce e più sicuro. { -brand-name-firefox } viene aggiornato mensilmente per offrirti sempre il browser più veloce sul Web, con il rispetto della tua privacy “per impostazione predefinita”.
 
@@ -45,6 +46,7 @@ see-how-firefox = <a href="{ $url }">Scopri il confronto tra { -brand-name-firef
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Perché { -brand-name-firefox } è così lento?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -54,6 +56,8 @@ see-how-firefox = <a href="{ $url }">Scopri il confronto tra { -brand-name-firef
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Domande correlate: { -brand-name-firefox } nasconde il tuo indirizzo IP
+who-owns-firefox = Chi è il proprietario di { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
