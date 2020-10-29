@@ -55,6 +55,8 @@ does-firefox-sell = Ferkeapet { -brand-name-firefox } persoanlike gegevens?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Nee. Nea dien, en sille wy ek nea dwaan. En wy beskermje jo tsjin in protte fan de advertearders dy't dat wol dogge. { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen. <a href="{ $url }">Dat sizze wy ta.</a>
+why-is-firefox = Wêrom is { -brand-name-firefox } sa stadich?
 is-firefox-chromium = Is { -brand-name-firefox } basearre op { -brand-name-chromium }?
 does-firefox-use = Brûkt { -brand-name-firefox } { -brand-name-google }?
 
