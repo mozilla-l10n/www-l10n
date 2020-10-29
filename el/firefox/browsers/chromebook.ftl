@@ -15,6 +15,7 @@ browsers-chromebook-get-firefox-desktop = Λήψη { -brand-name-firefox } γι�
 browsers-chromebook-dropdown-copy = Λήψη { -brand-name-firefox } για { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Γιατί να επιλέξω το <span>{ -brand-name-firefox }</span> για { -brand-name-chromebook };
+browsers-chromebook-is-it-hard = Είναι δύσκολη η εγκατάσταση του { -brand-name-firefox } σε { -brand-name-chromebook };
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
