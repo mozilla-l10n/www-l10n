@@ -59,6 +59,7 @@ nope-never-have = Nee. Nea dien, en sille wy ek nea dwaan. En wy beskermje jo ts
 why-is-firefox = Wêrom is { -brand-name-firefox } sa stadich?
 firefox-isnt-slow = { -brand-name-firefox } is net stadich… no. Yn 2017 hawwe wy ús browserengine folslein opnij boud (mei de namme Quantum), om derfoar te soargjen dat { -brand-name-firefox } de striid oangean kin mei oare grutte browsers. En ús trackerblokkearring helpt siden noch flugger te laden. { -brand-name-firefox } is dus tige rap, sûnder jo privacy op te offerjen.
 is-firefox-chromium = Is { -brand-name-firefox } basearre op { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } is net basearre op { -brand-name-chromium } (it opensource-browserprojekt dat de kearn is fan { -brand-name-google } { -brand-name-chrome }). Eins binne wy ien fan de lêste browsers dy't dat net binne. { -brand-name-firefox } draait op ús Quantum-browserengine, spesjaal boud foar { -brand-name-firefox }, sadat wy derfoar soargje kinne dat jo gegevens mei respekt behannele wurde en privee bliuwe.
 does-firefox-use = Brûkt { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
