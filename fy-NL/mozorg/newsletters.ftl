@@ -99,9 +99,30 @@ newsletters-you-send-too-many-emails = Jimme stjoere te folle e-mailberjochten.
 newsletters-your-content-wasnt-relevant = De ynhâld wie foar my net relevant.
 newsletters-your-email-design = It e-mailûntwerp wie te swier om te lêzen.
 newsletters-i-didnt-sign-up = Ik haw my hjir net foar ynskreaun.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Dit e-mailadres stiet net yn ús systeem. Kontrolearje jo adres of <a href="{ $url }">skriuw jo yn foar ús nijsbrieven.</a>
+newsletters-im-keeping-in-touch = Ik hâld yn stee hjirfan kontakt mei { -brand-name-mozilla } fia { -brand-name-facebook } en { -brand-name-twitter }.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Skriuw yn, lês nei,<br> bliuw op de hichte.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Skriuw yn. Lês nei.<br> Meitsje in ferskil.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Wurd ekspert yn saken dy't jo onlinelibben beynfloedzje.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Untfang de { -brand-name-mozilla }-nijsbrief en bliuw ynformearre oer saken dy't in útdaging binne foar in sûn ynternet, en hoe't jo meiwurkje kinne.
+newsletters-your-email-preferences = Jo e-mailfoarkarren binne mei sukses bywurke.
+newsletters-consider-it-done = Sa goed as ree
+newsletters-back-to-email-preferences = Tebek nei e-mailfoarkarren
+newsletters-here-are-a-few-things = Hjir binne in pear saken om jo yn te ferdjipjen, wylst jo op jo folgjende e-mailberjocht wachtsje.
+newsletters-take-your-privacy = Nim jo privacy mei
+newsletters-travel-the-internet = Reizgje beskerme op it ynternet, op al jo apparaten.
 newsletters-download-the-app = De app downloade
 newsletters-check-for-data-breaches = Kontrolearje op datalekken
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } is in fergeze service, wêrmei't jo sjen kinne oft jo troffen binne troch in online datalek.
 newsletters-sign-in-to-monitor = Oanmelde by { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Kom yn de kunde mei ús memmemerk
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, de non-profit efter { -brand-name-firefox }, pleatst yn alles wat wy sizze, bouwe en dogge, minsken boppe winst.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Oer standerts
 # Name for the newsletter in Newsletter subscription page
