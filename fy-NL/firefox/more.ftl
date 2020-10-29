@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen
 learn-more = Mear ynfo
 the-history-of = De skiednis fan webbrowsers
 firefox-has-been = { -brand-name-firefox } is der sûnt hast it begjin.

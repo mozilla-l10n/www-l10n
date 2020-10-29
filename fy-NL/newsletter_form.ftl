@@ -28,3 +28,6 @@ newsletter-form-select-country = Selektearje lân
 newsletter-form-sign-me-up = Abonnearje
 newsletter-form-sign-up-now = No ynskriuwe
 newsletter-form-thanks = Tank!
+newsletter-form-leave-this-field-empty = Lit dit fjild leech.
+newsletter-form-yes = Ja
+newsletter-form-no = Nee

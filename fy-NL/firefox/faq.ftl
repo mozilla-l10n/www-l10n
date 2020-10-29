@@ -65,14 +65,20 @@ does-firefox-use = Brûkt { -brand-name-firefox } { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } is de standertsykmasine yn { -brand-name-firefox }, wat betsjut dat jo it web streekrjocht fan de adresbalke út trochsykje kinne. <a href="{ $url }">Mear ynfo oer sykmasinefoarkarren en it wizigjen fan de standertynstellingen.</a>
 does-firefox-have = Hat { -brand-name-firefox } in ynboude VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } hat gjin ynboude VPN (virtual private network), mar der binne twa produkten dy't makke binne troch { -brand-name-mozilla }/{ -brand-name-firefox } dy't jo brûke kinne yn oanfolling op de privee { -brand-name-firefox-browser }, dy't de ferbining fan jo browser (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) of jo apparaat (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) op wifi beskermje, krekt as jo IP-adres.
+related-questions-ip = Besibbe fragen: ferstoppet { -brand-name-firefox } jo IP-adres
+who-owns-firefox = Wa is de eigener fan { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } wurdt makke troch { -brand-name-mozilla-corporation }, in folsleine dochter fan de maatskippij sûnder winsteachmerk <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, en wurdt lieden troch de prinsipen fan it { -brand-name-mozilla } Manifesto. Mear ynfo oer de makker fan { -brand-name-firefox } <a href="{ $url2 }">hjir.</a>
+related-questions-who = Besibbe fragen: wa besit { -brand-name-firefox }, wa besit { -brand-name-firefox-browser }, is { -brand-name-firefox } fan { -brand-name-google }, is { -brand-name-mozilla } { -brand-name-firefox } fan { -brand-name-google }

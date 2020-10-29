@@ -82,6 +82,21 @@ newsletters-whats-mozilla-all-about = Wat docht { -brand-name-mozilla } eins?
 newsletters-were-glad-you-asked = Moai dat jo dat freegje!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Gek op it web? Wy ek!
+newsletters-download-the-app = De app downloade
+newsletters-check-for-data-breaches = Kontrolearje op datalekken
+newsletters-sign-in-to-monitor = Oanmelde by { -brand-name-monitor }
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Oer standerts
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Add-on-ûntwikkeling
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Nijsbrief foar ûntwikkelers
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Drumbeat-nijsgroep
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } foar desktop
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Mis gjin lêste oankundigingen oer ús desktopbrowser.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Meiwurkje
 # Name for the newsletter in Newsletter subscription page
@@ -100,6 +115,10 @@ newsletters-mozillians = Mozillians
 newsletters-shapre-of-the-web = Shape of the Web
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Student Reps
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Set jo yn foar it Ynternet
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Nije produkten teste
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla }-mienskip
 # Name for the newsletter in Newsletter subscription page
