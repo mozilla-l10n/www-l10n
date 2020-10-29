@@ -25,7 +25,10 @@ how-do-i = Hoe krij ik de { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Jo kinne de { -brand-name-firefox }-desktopbrowser ienfâldich <a href="{ $url }">hjir</a> downloade. { -brand-name-firefox } wurket op <a href="{ $url2 }">{ -brand-name-windows }</a>-, <a href="{ $url3 }">{ -brand-name-mac-short }</a>- en <a href="{ $url4 }">{ -brand-name-linux }{ -brand-name-linux }</a>-apparaten en is ek beskikber foar <a href="{ $url5 }">{ -brand-name-android } en { -brand-name-ios }</a>. Soargj derfoar dat jo ús browser downloade fan ien fan ús fertroude { -brand-name-mozilla }-/{ -brand-name-firefox }-siden.
 is-firefox-free = Is { -brand-name-firefox } fergees?
+yep-the-firefox = Ja! De { -brand-name-firefox-browser } is fergees. Superfergees, eins. Gjin ferburgen kosten, neat. Jo betelje neat foar it gebrûk, en wy ferkeapje jo persoansgegevens net.
+related-questions-free = Besibbe fragen: is { -brand-name-firefox-browser } fergees, kostet { -brand-name-firefox } jild
 is-chrome-better = Is { -brand-name-chrome } better as { -brand-name-firefox }?
 
 # Variables:
