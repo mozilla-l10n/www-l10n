@@ -57,6 +57,7 @@ does-firefox-sell = Ferkeapet { -brand-name-firefox } persoanlike gegevens?
 
 nope-never-have = Nee. Nea dien, en sille wy ek nea dwaan. En wy beskermje jo tsjin in protte fan de advertearders dy't dat wol dogge. { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen. <a href="{ $url }">Dat sizze wy ta.</a>
 why-is-firefox = Wêrom is { -brand-name-firefox } sa stadich?
+firefox-isnt-slow = { -brand-name-firefox } is net stadich… no. Yn 2017 hawwe wy ús browserengine folslein opnij boud (mei de namme Quantum), om derfoar te soargjen dat { -brand-name-firefox } de striid oangean kin mei oare grutte browsers. En ús trackerblokkearring helpt siden noch flugger te laden. { -brand-name-firefox } is dus tige rap, sûnder jo privacy op te offerjen.
 is-firefox-chromium = Is { -brand-name-firefox } basearre op { -brand-name-chromium }?
 does-firefox-use = Brûkt { -brand-name-firefox } { -brand-name-google }?
 
