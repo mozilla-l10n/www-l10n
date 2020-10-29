@@ -82,6 +82,23 @@ newsletters-whats-mozilla-all-about = Wat docht { -brand-name-mozilla } eins?
 newsletters-were-glad-you-asked = Moai dat jo dat freegje!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Gek op it web? Wy ek!
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = Untskoattelje de wrâld fan webûntwikkeling mei ús wyklikse { -brand-name-mozilla } Developer-nijsbrief. Elke edysje bringt jo programmeartechniken en oanrekommandearre prosedueren, { -brand-name-mdn }-updates, ynfo oer opkommende technologyen, tips oer ûntwikkelershelpmiddelen, en mear.
+# Obsolete string
+newsletters-join-thousands-of-developers = Slút jo oan by tûzenen ûntwikkelers lykas jo dy't it beste oer webûntwikkeling leare.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Stop mear fox yn jo inbox.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Besjoch wêr't it web jo bringe kin mei moanlikse { -brand-name-firefox }-tips, -trúks en wittensweardichheden oer ynternet.
+newsletters-we-are-sorry-but-there = It spyt ús, mar der wie in probleem mei ús systeem. Probearje it letter nochris!
+newsletters-thanks-for-updating-your = Tank foar it bywurkjen fan jo e-mailfoarkarren.
+newsletters-the-supplied-link-has-expired-long = De opjûne keppeling is ferrûn of net jildich. Jo ûntfange in nije yn de folgjende nijsbrief, of freegje hjirûnder in nije oan fia e-mail.
+newsletters-success-an-email-has-been-sent = Slagge! Der is in e-mailberjocht mei in keppeling nei jo foarkarsintrum nei jo ferstjoerd. Tank!
+newsletters-this-is-not-a-valid-email = Dit is gjin jildich e-mailadres. Kontrolearje de stavering.
+newsletters-you-send-too-many-emails = Jimme stjoere te folle e-mailberjochten.
+newsletters-your-content-wasnt-relevant = De ynhâld wie foar my net relevant.
+newsletters-your-email-design = It e-mailûntwerp wie te swier om te lêzen.
+newsletters-i-didnt-sign-up = Ik haw my hjir net foar ynskreaun.
 newsletters-download-the-app = De app downloade
 newsletters-check-for-data-breaches = Kontrolearje op datalekken
 newsletters-sign-in-to-monitor = Oanmelde by { -brand-name-monitor }

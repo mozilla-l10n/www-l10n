@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen
+learn-more-about = Lês mear oer { -brand-name-firefox }-browsers en -produkten dy't jo gegevens mei respekt behannelje en dy't boud binne foar privacy, oeral wêr't jo online gean.
 learn-more = Mear ynfo
 the-history-of = De skiednis fan webbrowsers
 firefox-has-been = { -brand-name-firefox } is der sûnt hast it begjin.
@@ -52,3 +53,4 @@ were-obsessed-with = Wy binne obsedearre troch it beskermjen fan jo privacy. Dê
 incognito-browser-what = Incognitobrowser: Wat it echt betsjut
 firefox-calls-it = { -brand-name-firefox } neamt it priveenavigaasje, { -brand-name-chrome } neamt it de incognitomodus. Mei beide kinne jo op ynternet sneupe sûnder jo navigaasjeskiednis te bewarjen.
 take-the-stress = Helje de stress út it sykjen nei in feilige browser.
+building-a-safe = It bouwen fan in feilige browser is in keunst en in wittenskip, omdat der gjin fêste regels binne.
