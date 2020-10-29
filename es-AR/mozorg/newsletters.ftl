@@ -129,6 +129,8 @@ newsletters-about-standards = Acerca de los estándares
 newsletters-addon-development = Desarrollo de complementos
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Boletín para desarrolladores
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Una guía para desarrolladores que incluye los aspectos más destacados de las innovaciones de la plataforma web, las mejores prácticas, la nueva documentación y mucho más.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } para escritorio
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)

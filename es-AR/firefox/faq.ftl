@@ -72,6 +72,7 @@ does-firefox-have = ¿{ -brand-name-firefox } tiene una VPN integrada?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } no tiene un VPN integrado (red privada virtual), pero hay dos productos fabricados por { -brand-name-mozilla }/{ -brand-name-firefox } que podés usar además del { -brand-name-firefox-browser } que puede proteger el navegador (<a href="{ $url }"> { -brand-name-firefox-privada-network }</a>) o la conexión del dispositivo (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) con WiFi, así como tu dirección IP.
 related-questions-ip = Preguntas relacionadas: ¿{ -brand-name-firefox } oculta tu IP?
 who-owns-firefox = ¿Quién es el dueño de { -brand-name-firefox }?
 
@@ -79,3 +80,4 @@ who-owns-firefox = ¿Quién es el dueño de { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } está hecho por { -brand-name-mozilla-corporation }, una filial totalmente propiedad de la organización sin fines de lucro <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> y se guía por los principios del Manifiesto de { -brand-name-mozilla }. Conocé más sobre el fabricante de { -brand-name-firefox } <a href="{ $url2 }">aquí.</a>
