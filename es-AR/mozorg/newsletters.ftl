@@ -161,14 +161,24 @@ newsletters-shapre-of-the-web = Forma de la Web
 newsletters-news-and-information = Noticias e información relacionada con la salud de la web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Reps estudiantes
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Programa universitario anteriorior vigente entre 2008 y 2011, ahora abandonado y relanzado como el programa Firefox Student Ambassadors.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Acción para Internet
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Agregá tu voz a peticiones, eventos e iniciativas que luchan por el futuro de la web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Probá nuevos productos
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Ayudanos a mejorar { -brand-name-firefox } para vos probando nuestros últimos productos y funciones.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Comunidad { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Unite a los mozilleros de todo el mundo y conocé las oportunidades impactantes para respaldar la misión de { -brand-name-mozilla }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = Afiliados de { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Un boletín mensual para mantenerte al día con el programa de afiliados de { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
