@@ -34,6 +34,7 @@ no-we-dont = No, non pensiamo che { -brand-name-chrome } sia migliore di { -bran
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Scopri il confronto tra { -brand-name-firefox } e { -brand-name-chrome }.</a>
+is-firefox-safe-download = { -brand-name-firefox } è sicuro da scaricare?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
