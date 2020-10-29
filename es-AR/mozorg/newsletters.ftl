@@ -243,17 +243,31 @@ newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-and
 newsletters-keep-up-with-releases = Mantenete al día de los lanzamientos y noticias sobre { -brand-name-firefox } para { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Noticias de { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Obtené consejos, sugerencias y noticias para que tu experiencia con { -brand-name-firefox } sea la mejor para vos.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Anuncios especiales sobre el festival anual de { -brand-name-mozilla } dedicado a forjar el futuro de la Web abierta.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Noticias de { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Actualizaciones periódicas para mantenerte informado y activo en nuestra lucha por una Internet mejor.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Anuncios especiales y mensajes del equipo dedicado a mantener la Web libre y abierta.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Red de aprendizaje de { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Actualizaciones de nuestra comunidad global, ayudando a la gente a aprender las habilidades más importantes de nuestra era: la capacidad de leer, escribir y participar en el mundo digital.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
 newsletters-were-building-the-technology = Estamos haciendo la tecnología del futuro. Vení a explorarla con nosotros.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Anuncios especiales que te ayudan a aprovechar al máximo { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
