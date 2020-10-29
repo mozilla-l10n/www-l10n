@@ -48,6 +48,8 @@ is-firefox-safe = Is { -brand-name-firefox } feilich?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } is net allinnich feilich yn gebrûk, it helpt ek jo gegevens en priveegegevens feilich te hâlden. De { -brand-name-firefox-browser } blokkearret automatysk bekende trackers fan tredden, sosjale-mediatrackers, cryptominers en fingerprinters, sadat dizze jo gegevens net sammelje kinne. <a href="{ $url }">Mear ynfo oer de privacy yn ús produkten.</a>
+related-questions-safe = Besibbe fragen: is { -brand-name-firefox } goed foar privacy, is { -brand-name-firefox } befeilige, is { -brand-name-firefox } better foar privacy
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
