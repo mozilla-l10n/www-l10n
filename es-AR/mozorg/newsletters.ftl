@@ -132,17 +132,35 @@ newsletters-developer-newsletter = Boletín para desarrolladores
 # Description for the newsletter in Newsletter subscription page (Developer Newsletter)
 newsletters-a-developers-guide = Una guía para desarrolladores que incluye los aspectos más destacados de las innovaciones de la plataforma web, las mejores prácticas, la nueva documentación y mucho más.
 # Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Grupo de noticias Drumbeat
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } para escritorio
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 newsletters-dont-miss-the-latest = No te perdás los últimos anuncios sobre nuestro navegador de escritorio.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Involucrate
+# Obsolete string
+newsletters-internet-health-report = Informe de salud de Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publica artículos y profundiza en temas relacionados con la salud de Internet y la IA confiable, incluyendo nuestro Informe anual de salud de Internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = El conocimiento es poder
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Obtené todo el conocimiento que necesitás para mantenerte seguro e inteligente en línea.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Acerca de Labs
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Escritorio
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozilleros
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Actualizaciones por correo electrónico para los Mozilleros con verificados en mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Forma de la Web
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Noticias e información relacionada con la salud de la web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Reps estudiantes
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Agregá tu voz a peticiones, eventos e iniciativas que luchan por el futuro de la web.
 # Name for the newsletter in Newsletter subscription page
