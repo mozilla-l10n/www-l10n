@@ -30,15 +30,19 @@ is-firefox-free = Is { -brand-name-firefox } fergees?
 yep-the-firefox = Ja! De { -brand-name-firefox-browser } is fergees. Superfergees, eins. Gjin ferburgen kosten, neat. Jo betelje neat foar it gebrûk, en wy ferkeapje jo persoansgegevens net.
 related-questions-free = Besibbe fragen: is { -brand-name-firefox-browser } fergees, kostet { -brand-name-firefox } jild
 is-chrome-better = Is { -brand-name-chrome } better as { -brand-name-firefox }?
+no-we-dont = Nee, wy tinke net dat { -brand-name-chrome } better is as { -brand-name-firefox }, en wol om dizze reden: as minsken freegje hokker browser better is, freegje se eins hokker browser flugger en feiliger is. { -brand-name-firefox } wurdt moanliks bywurke, om derfoar te soargjen dat jo de fluchste browser hawwe dy't automatysk jo privacy respektearret.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Besjoch hoe't { -brand-name-firefox } him ferhâldt ta { -brand-name-chrome }.</a>
+related-questions-better = Besibbe fragen: is { -brand-name-firefox } better as { -brand-name-chrome }, is { -brand-name-firefox } better as { -brand-name-google }, is { -brand-name-firefox } feiliger as { -brand-name-chrome }, is { -brand-name-firefox } mear privee as { -brand-name-chrome }
 is-firefox-safe-download = Is { -brand-name-firefox } feilich om te downloaden?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Beskerming fan jo privacy is ús heechste prioriteit, en wy soargje dat it ynstallearjen fan { -brand-name-firefox } op jo apparaat folslein feilich is – mar soargje der altyd foar dat jo downloade fan in fertroude { -brand-name-mozilla }-/{ -brand-name-firefox }-website, lykas <a href="{ $url }">ús downloadside.</a>
 is-firefox-safe = Is { -brand-name-firefox } feilich?
 
 # Variables:
