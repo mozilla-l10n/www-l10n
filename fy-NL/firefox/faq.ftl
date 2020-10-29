@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox }-FAQ
+whether-you-searched-privacy = Oft jo no nei in flugge browser dy't jo privacy beskermet socht hawwe, dizze faakstelde fragen binne der om jo meast prangjende fragen oer { -brand-name-firefox } te beäntwurdzjen.
 what-is-firefox = Wat is { -brand-name-firefox }?
 
 # Variables:
