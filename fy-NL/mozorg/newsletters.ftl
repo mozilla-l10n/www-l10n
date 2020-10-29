@@ -82,3 +82,71 @@ newsletters-whats-mozilla-all-about = Wat docht { -brand-name-mozilla } eins?
 newsletters-were-glad-you-asked = Moai dat jo dat freegje!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Gek op it web? Wy ek!
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Meiwurkje
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
+# Obsolete string
+newsletters-internet-health-report = Internet Health Report
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Kennis is macht
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Oer Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Desktop
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozillians
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Shape of the Web
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Student Reps
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = { -brand-name-mozilla }-mienskip
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = { -brand-name-beta }-nijs
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Download { -brand-name-firefox } foar { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Download { -brand-name-firefox } foar { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Download { -brand-name-firefox } foar { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Download { -brand-name-firefox } foar Mobyl
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Tips foar { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Helje it measte út jo { -brand-name-firefox-account }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + jo
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Mei { -brand-name-mozilla } meiwurkje
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } foar { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = { -brand-name-firefox } Nijs
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = { -brand-name-mozilla } Nijs
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
