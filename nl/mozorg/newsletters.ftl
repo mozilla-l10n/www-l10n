@@ -190,7 +190,7 @@ newsletters-a-monthly-newsletter-ambassadors = Een maandelijkse nieuwsbrief over
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
-newsletters-beta-news = { -brand-name-beta }nieuws
+newsletters-beta-news = { -brand-name-beta }-nieuws
 # Description for the newsletter in Newsletter subscription page (Beta News)
 newsletters-read-about-the-latest-features = Lees meer over de nieuwste functies in { -brand-name-firefox } voor desktop en mobiel voordat de definitieve versie uitkomt.
 # Name for the newsletter in Newsletter subscription page
