@@ -59,11 +59,13 @@ nope-never-have = No Nunca lo hice, nunca lo haré. Y te protegemos de muchos de
 why-is-firefox = ¿Por qué { -brand-name-firefox } es tan lento?
 firefox-isnt-slow = { -brand-name-firefox } no es lento ... ahora. En 2017, reconstruimos completamente el motor del navegador (llamado Quantum) para asegurarnos de que { -brand-name-firefox } pudiera competir con otros navegadores importantes. Y nuestros bloqueadores de rastreadores ayudan a que las páginas se carguen aún más rápido. Así que { -brand-name-firefox } es increíblemente rápido sin sacrificar tu privacidad.
 is-firefox-chromium = ¿{ -brand-name-firefox } está basado en { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } no está basado en { -brand-name-cromium } (el proyecto del navegador de código abierto en el núcleo de { -brand-name-google } { -brand-name-chrome }). De hecho, somos uno de los últimos navegadores importantes que no lo es. { -brand-name-firefox } funciona con nuestro motor de navegación Quantum creado específicamente para { -brand-name-firefox }, para que podamos garantizar que tus datos se manejan con respeto y se mantienen privados.
 does-firefox-use = ¿{ -brand-name-firefox } usa { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } es el motor de búsqueda predeterminado en { -brand-name-firefox }, lo que significa que podés buscar en la web directamente desde la barra de direcciones. <a href="{ $url }">Conocer más sobre las preferencias del motor de búsqueda y cambiar los predeterminados.</a>
 does-firefox-have = ¿{ -brand-name-firefox } tiene una VPN integrada?
 
 # Variables:
