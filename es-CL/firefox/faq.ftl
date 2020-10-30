@@ -50,18 +50,23 @@ does-firefox-sell = ¿Vende { -brand-name-firefox } tus datos personales?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = No Nunca lo ha hecho, y nunca lo hará. Y te protegemos de muchos de los anunciantes que lo hacen. Los productos de { -brand-name-firefox } están diseñados para proteger tu privacidad. <a href="{ $url }">Esto es una promesa.</a>
 why-is-firefox = ¿Por qué es { -brand-name-firefox } tan lento?
 firefox-isnt-slow = { -brand-name-firefox } no es lento… ahora. En 2017, reconstruimos completamente el motor del navegador (llamado Quantum) para asegurarnos de que { -brand-name-firefox } pudiera competir con otros navegadores importantes. Y nuestros bloqueadores de rastreadores ayudan a que las páginas se carguen aún más rápido. Así que { -brand-name-firefox } es increíblemente rápido sin sacrificar tu privacidad.
 is-firefox-chromium = ¿Está { -brand-name-firefox } basado en { -brand-name-chromium }?
+does-firefox-use = ¿Usa { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = ¿Tiene { -brand-name-firefox } una VPN integrada?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Preguntas relacionadas: Oculta { -brand-name-firefox } tu dirección IP
+who-owns-firefox = ¿A quién pertenece { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

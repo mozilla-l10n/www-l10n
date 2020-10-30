@@ -11,3 +11,6 @@ the-latest-firefox = El último motor de { -brand-name-firefox }: { -brand-name-
 learn-more-about = Aprender más sobre { -brand-name-firefox-quantum }
 super-fast = Súper rápido
 always-evolving = Siempre evolucionando
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Descubre todas las increíbles <a href="{ $url }"> funcionalidades de { -brand-name-firefox }</a>.
