@@ -199,6 +199,16 @@
     }
     .gender = masculine
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum =
+    { $case ->
+       *[nom] Firefox Quantum
+        [gen] Firefoxu Quantum
+        [dat] Firefoxu Quantum
+        [acc] Firefox Quantum
+        [loc] Firefoxe Quantum
+        [ins] Firefoxom Quantum
+    }
+    .gender = masculine
 
 ## Firefox products
 
@@ -318,6 +328,7 @@
         [loc] Firefoxe Sync
         [ins] Firefoxom Sync
     }
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -344,6 +355,11 @@
     .gender = masculine
 -brand-name-send = Send
 -brand-name-sync = Sync
+
+## Firefox products (legacy)
+
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
 
 ## Pocket
 
@@ -372,7 +388,9 @@
     .gender = feminine
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-thunderbird = Thunderbird
@@ -382,6 +400,19 @@
 -brand-name-common-voice = Common Voice
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+
+## Mozilla projects (legacy)
+
+-brand-name-webmaker =
+    { $case ->
+       *[nom] Webmaker
+        [gen] Webmakera
+        [dat] Webmakeru
+        [acc] Webmaker
+        [loc] Webmakeri
+        [ins] Webmakerom
+    }
+    .gender = masculine
 
 ## Open Source projects
 
@@ -452,6 +483,7 @@
     .gender = masculine
 -brand-name-xp = XP
 -brand-name-vista = Vista
+-brand-name-chromeos = Chrome OS
 
 ## Apple products
 
@@ -494,3 +526,13 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook =
+    { $case ->
+       *[nom] Chromebook
+        [gen] Chromebooku
+        [dat] Chromebooku
+        [acc] Chromebook
+        [loc] Chromebooku
+        [ins] Chromebookom
+    }
+    .gender = masculine
