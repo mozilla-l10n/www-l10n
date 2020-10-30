@@ -44,6 +44,7 @@ is-firefox-safe = { -brand-name-firefox } è sicuro?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = { -brand-name-firefox } vende i tuoi dati personali?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
