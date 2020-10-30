@@ -11,3 +11,11 @@ opt-out-confirmation-your-email = Vaš e-poštni naslov:
 opt-out-confirmation-yournameexamplecom = vase.ime@example.com
 # This is a button
 opt-out-confirmation-manage-preferences = Upravljanje nastavitev
+# Link to https://www.instagram.com/mozilla/
+opt-out-confirmation-instagram = { -brand-name-instagram }
+# Link to https://www.youtube.com/firefoxchannel
+opt-out-confirmation-youtube = { -brand-name-youtube }
+# Link to https://www.facebook.com/Firefox
+opt-out-confirmation-facebook = { -brand-name-facebook }
+# Link to https://twitter.com/firefox
+opt-out-confirmation-twitter = { -brand-name-twitter }
