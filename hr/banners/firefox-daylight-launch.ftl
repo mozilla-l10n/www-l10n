@@ -4,4 +4,5 @@
 
 banner-firefox-daylight-launch-title = Predstavljamo naše najnovije { -brand-name-firefox } izdanje za { -brand-name-android } – { -brand-name-firefox-daylight }
 banner-firefox-daylight-launch-title-updated = Predstavljamo NOVI { -brand-name-firefox } za { -brand-name-android } – { -brand-name-firefox-daylight }
-banner-firefox-daylight-launch-intro = Drastično promijenjen, kako bi bio brži, jednostavniji, prilagodljiviji i privatan.
+banner-firefox-daylight-launch-intro = Drastično promijenjen, kako bi bio brz, jednostavan, prilagodljiv i privatan.
+banner-firefox-daylight-launch-button = Preuzmi
