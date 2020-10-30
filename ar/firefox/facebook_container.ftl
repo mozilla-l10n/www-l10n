@@ -5,12 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = حاوية فيس بوك على فَيَرفُكس | امنع فيس بك من معرفة المواقع التي تزورها.
-facebook-container-millions-of-people-around = يثق ملايين الناس حول العالم في متصفح فَيَرفُكس على أندرويد وآي أو إس والحواسيب المكتبية. سريع. خاص. نزّله الآن!
-facebook-container-facebook-well-contained-keep = فيس بوك. معزول بشكل تام. احمِ حياتك الخاصّة من أعين المُتطفّلين.
-facebook-container-get-the-facebook-container = حمّل الإضافة الخاصّة باحتواء فيس بوك
+facebook-container-facebook-container-for-firefox = ‏{ -brand-name-facebook-container } على { -brand-name-firefox } | امنع { -brand-name-facebook }من معرفة المواقع التي تزورها.
+facebook-container-millions-of-people-around = يثق ملايين الناس حول العالم في متصفح { -brand-name-firefox } على { -brand-name-android }و{ -brand-name-ios } والحواسيب المكتبية. سريع. خاص. نزّله الآن!
+facebook-container-facebook-well-contained-keep = ‏{ -brand-name-facebook }. معزول بشكل تام. احمِ حياتك الخاصّة من أعين المُتطفّلين.
+facebook-container-get-the-facebook-container = نزّل امتداد { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = حمّل فَيَرفُكس واحصل على الإضافة الخاصة باحتواء فيس بوك
+# Outdated string
 facebook-container-the-facebook-container-extension = الإضافة الخاصّة باحتواء فيس بوك غير متوفرة على الهواتف المحمولة.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = جرّب <strong>فَيَرفُكس فُوكُس</strong>، المُتصفّح الذي يحمي خصوصيّتك على أندرويد وآي أو إس.
 facebook-container-opt-out-on-your-terms = من حقّك أن تحمي خصوصيّتك
