@@ -18,6 +18,7 @@ browsers-chromebook-dropdown-copy = 下载适用于 { -brand-name-chromebook } �
 browsers-chromebook-why-get-firefox = 为何应在 { -brand-name-chromebook } 上选择 <span>{ -brand-name-firefox }</span>？
 browsers-chromebook-while-a-chromebook = 尽管 { -brand-name-chromebook } 预装了 { -brand-name-chrome }，但是下载 { -brand-name-firefox } 并作为您的日常浏览器，其实大有裨益：
 browsers-chromebook-alwayson-tracking-protection = 始终启用的的跟踪保护：{ -brand-name-firefox } 默认即开启增强型跟踪保护功能（ETP），强力拦截已知的广告跟踪器、社交跟踪器和挖矿脚本，保护您的个人数据免受影响。
+browsers-chromebook-supporting-independent-technology = 支持独立技术：由于大多数主流浏览器现在都基于 { -brand-name-chromium }，反抗大型高科技公司掌控的选项更少了。{ -brand-name-firefox } 受到非营利组织的支持，并致力于修复互联网。快来使用 { -brand-name-firefox }，一起努力向前。
 browsers-chromebook-is-it-hard = 在 { -brand-name-chromebook } 上安装 { -brand-name-firefox }，难吗？
 browsers-chromebook-install-firefox-from = 从 { -brand-name-google-play } 商店安装 { -brand-name-firefox }：在新版 { -brand-name-chromeos }（x86 架构 { -brand-name-chromebook }，且运行 { -brand-name-chromeos } 80 或更高版本 ）上，您可以选择安装 { -brand-name-android } 版 { -brand-name-firefox }。此应用程序是为移动设备开发的。
 
