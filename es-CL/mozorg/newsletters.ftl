@@ -138,6 +138,8 @@ newsletters-former-university-program = El antiguo programa universitario del 20
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Actúa en favor de Internet
 # Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Probar un nuevo producto
+# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Comunidad { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Únete a los mozilleros de todo el mundo y conoce las oportunidades impactantes que hay para apoyar la misión de { -brand-name-mozilla }.
