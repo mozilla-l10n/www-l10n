@@ -6,3 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Bajar { -brand-name-firefox-quantum }
+the-latest-firefox = El último motor de { -brand-name-firefox }: { -brand-name-firefox-quantum }
+# https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
+learn-more-about = Aprender más sobre { -brand-name-firefox-quantum }
+super-fast = Súper rápido
+always-evolving = Siempre evolucionando
