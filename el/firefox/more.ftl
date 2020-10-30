@@ -12,6 +12,7 @@ firefox-has-been = Το { -brand-name-firefox } ήταν εκεί σχεδόν �
 firefox-is-independent = Το { -brand-name-firefox } είναι ανεξάρτητο και υποστηρίζεται από τη μη κερδοσκοπική { -brand-name-mozilla }, η οποία μάχεται για τα διαδικτυακά σας δικαιώματα και κάνει το διαδίκτυο διαθέσιμο σε οποιονδήποτε, οπουδήποτε.
 what-is-a = Τι ένα ένα πρόγραμμα περιήγησης ιστού;
 firefox-is-more = Το { -brand-name-firefox } είναι κάτι παραπάνω από πρόγραμμα περιήγησης
+take-your-passwords = Πάρτε τους κωδικούς πρόσβασής σας παντού
 choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε στη γλώσσα σας
 firefox-fights-for = Το { -brand-name-firefox } μάχεται για εσάς στα { -brand-name-windows }
 firefox-respects-your = Το { -brand-name-firefox } σέβεται το απόρρητό σας σε { -brand-name-mac-short }.
