@@ -38,3 +38,5 @@ firefox-more-protection = { -brand-name-firefox }: Más protección. Menos preoc
 were-obsessed-with = Nos obsesionamos con proteger tu privacidad. Es por ello que hemos hecho la navegación privada de { -brand-name-firefox } más potente que la del resto.
 incognito-browser-what = Navegador incógnito: lo que realmente significa
 firefox-calls-it = { -brand-name-firefox } lo llama navegación privada, { -brand-name-chrome } lo llama modo incógnito. Ambos te permiten navegar por la web sin guardar tu historial de navegación.
+take-the-stress = Quita ese estrés de encontrar un navegador seguro.
+building-a-safe = Construir un navegador seguro es un arte y una ciencia porque no hay reglas establecidas.
