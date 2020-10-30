@@ -28,5 +28,6 @@ newsletter-form-select-country = Eiporavo tetã
 newsletter-form-sign-me-up = Che añemboheraguapyse
 newsletter-form-sign-up-now = Eñemboheraguapy ko’ág̃a
 newsletter-form-thanks = ¡Aguyje!
+newsletter-form-leave-this-field-empty = Eheja ko kora nandiete.
 newsletter-form-yes = Héẽ
 newsletter-form-no = Nahániri

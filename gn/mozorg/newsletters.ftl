@@ -56,6 +56,12 @@ newsletters-put-more-fox-in-your-inbox = Eheja Firefox toike ne mba’eguahẽh�
 newsletters-sign-in-to-monitor = Eñepyrũ tembiapo { -brand-name-monitor }-pe
 newsletters-meet-our-parent-brand = Eikuaa ore marca guasu
 # Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Umi ypyguaite rehegua
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Moĩmbaha ñemboguata
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Jehaipyre’i mboguatahárape g̃uarã
+# Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Drumbeat marandu aty
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe
@@ -69,6 +75,8 @@ newsletters-about-labs = Labs rehegua
 newsletters-desktop = Mesa arigua
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Temimbo’ekuéra myakãhára
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } rekoha
 # Name for the newsletter in Newsletter subscription page
