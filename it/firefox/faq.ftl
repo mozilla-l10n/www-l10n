@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = FAQ di { -brand-name-firefox }
+whether-you-searched-privacy = Se stai cercando un browser veloce che protegga la tua privacy, queste FAQ rispondono alle domande più urgenti relative a { -brand-name-firefox }.
 what-is-firefox = Che cos’è { -brand-name-firefox }?
 
 # Variables:
@@ -34,6 +35,7 @@ no-we-dont = No, non pensiamo che { -brand-name-chrome } sia migliore di { -bran
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Scopri il confronto tra { -brand-name-firefox } e { -brand-name-chrome }.</a>
+related-questions-better = Domande collegate: { -brand-name-firefox } è meglio di { -brand-name-chrome }, { -brand-name-firefox } è meglio di { -brand-name-google }, { -brand-name-firefox } è più sicuro di { -brand-name-chrome }, { -brand-name-firefox } è più anonimo di { -brand-name-chrome }
 is-firefox-safe-download = { -brand-name-firefox } è sicuro da scaricare?
 
 # Variables:
@@ -49,7 +51,10 @@ does-firefox-sell = { -brand-name-firefox } vende i tuoi dati personali?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = No. Non lo abbiamo mai fatto, e mai lo faremo. Anzi, ti proteggiamo dalla maggior parte degli inserzionisti che lo fanno. I prodotti { -brand-name-firefox } sono progettati per proteggere la tua privacy. <a href="{ $url }">È l’impegno che ci siamo presi con te.</a>
 why-is-firefox = Perché { -brand-name-firefox } è così lento?
+is-firefox-chromium = { -brand-name-firefox } è basato su { -brand-name-chromium }?
+does-firefox-use = { -brand-name-firefox } utilizza { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
