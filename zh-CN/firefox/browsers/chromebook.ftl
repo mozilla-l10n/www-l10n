@@ -22,3 +22,4 @@ browsers-chromebook-install-firefox-from = 从 { -brand-name-google-play } 商�
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = 安装 { -brand-name-linux } 版 { -brand-name-firefox } 应用：步骤略复杂，但这是值得的。您将可获得 { -brand-name-linux } 桌面版 { -brand-name-firefox } 浏览器的完整体验和全部优点，包括增强型跟踪保护、内置的密码管理器、数千个强大附加组件（包括 UBlock Origin 广告拦截器）以及定制浏览器外观的主题。<a { $url }>详细了解如何在 { -brand-name-chromebook } 上安装桌面版 { -brand-name-firefox }。</a>
