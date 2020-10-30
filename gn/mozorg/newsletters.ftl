@@ -51,6 +51,10 @@ newsletters-whats-mozilla-all-about = ¿Mba’épa { -brand-name-mozilla }?
 newsletters-were-glad-you-asked = ¡Rovy’aiterei ne eporandúre!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = ¿Ehayhúpa ñanduti? ¡Ore avei!
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Eheja Firefox toike ne mba’eguahẽhápe.
+newsletters-sign-in-to-monitor = Eñepyrũ tembiapo { -brand-name-monitor }-pe
+newsletters-meet-our-parent-brand = Eikuaa ore marca guasu
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Drumbeat marandu aty
 # Name for the newsletter in Newsletter subscription page
