@@ -159,6 +159,7 @@
     }
 -brand-name-xp = XP
 -brand-name-vista = Vista
+-brand-name-chromeos = Chrome OS
 
 ## Apple products
 
@@ -183,3 +184,4 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
