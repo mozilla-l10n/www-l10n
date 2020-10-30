@@ -11,6 +11,8 @@ newsletters-newsletter-subscriptions = Suscripciones a boletines
 newsletters-mozilla-newsletter = Boletín de { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = ¡Lee toda la información sobre Firefox en <span>nuestro boletín</span>!
+# Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-to-updates-and-keep = Suscríbete a las actualizaciones y mantente al día con las noticias de { -brand-name-mozilla }. ¡Es la forma perfecta de mantenernos en contacto!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirmar boletín
 newsletters-thanks-for-subscribing = ¡Gracias por suscribirte!
@@ -36,8 +38,13 @@ newsletters-country-or-region = País o región
 newsletters-country = País:
 # Form field label
 newsletters-language = Idioma:
+newsletters-not-all-subscriptions-are = No todas las suscripciones están disponibles en todos los idiomas listados. Casi todos se ofrecen en inglés, alemán y francés.
 # Form field label
 newsletters-format = Formato:
+newsletters-text-subscribers-will-receive = Los suscriptores de texto recibirán un correo electrónico dos veces al año para confirmar la continuación de la suscripción. Esos correos electrónicos pueden incluir HTML.
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } no es un boletín válido
 newsletters-subscribe = Suscribirse
 newsletters-remove-me-from-all-the = Eliminarme de todas las suscripciones de esta página
 newsletters-save-preferences = Guardar preferencias
@@ -59,5 +66,34 @@ newsletters-get-up-and-go = Subir e ir
 newsletters-its-your-web-anywhere-you = Es tu Web donde quiera que vayas.
 newsletters-get-firefox-for-mobile = ¡Obtén { -brand-name-firefox } para móviles!
 newsletters-added-extras = Extras añadidos
+newsletters-make-firefox-do-more-with = Haz que { -brand-name-firefox } haga más con complementos.
 newsletters-find-out-how = ¡Descubre cómo!
 newsletters-about-us = Acerca de nosotros
+newsletters-whats-mozilla-all-about = ¿De qué trata { -brand-name-mozilla }?
+newsletters-were-glad-you-asked = ¡Agradecemos que hayas preguntado!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = ¿Te encanta la web? ¡A nosotros también!
+# Obsolete string
+newsletters-join-thousands-of-developers = Únete a miles de desarrolladores como tú que están aprendiendo lo mejor del desarrollo web.
+newsletters-we-are-sorry-but-there = Discúlpanos, pero hubo un problema con nuestro sistema. Inténtalo de nuevo pasados unos minutos.
+newsletters-thanks-for-updating-your = Gracias por actualizar tus preferencias de correo.
+newsletters-the-supplied-link-has-expired-long = El enlace proporcionado ha caducado o no es válido. Recibirás uno nuevo en el próximo boletín, o más abajo puedes solicitar un correo electrónico con el enlace.
+newsletters-success-an-email-has-been-sent = ¡Hecho! Te hemos enviado un correo con el enlace a tu centro de preferencias. ¡Gracias!
+newsletters-this-is-not-a-valid-email = Esta no es una dirección de correo válida. Por favor, revisa la ortografía.
+newsletters-you-send-too-many-emails = Recibo demasiados correos.
+newsletters-your-content-wasnt-relevant = El contenido no me parecía relevante.
+newsletters-your-email-design = El diseño del correo no facilitaba la lectura.
+newsletters-i-didnt-sign-up = No me di de alta en esta suscripción.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Suscríbete. Lee.<br> Marca la diferencia.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Entérate de los problemas que afectan a tu vida en línea.
+newsletters-your-email-preferences = Tus preferencias de correo se han actualizado correctamente.
+newsletters-consider-it-done = Considéralo hecho
+newsletters-back-to-email-preferences = Regresar a referencias de correo
+newsletters-take-your-privacy = Lleva tu privacidad contigo
+newsletters-travel-the-internet = Viaja por internet con protección en todos tus dispositivos.
+newsletters-download-the-app = Bajar la app
+newsletters-check-for-data-breaches = Busca filtraciones de datos
+newsletters-sign-in-to-monitor = Conéctate en { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Conozca nuestra marca matriz
