@@ -6,3 +6,16 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-access-and-sync = Доступ та синхронізація ваших закладок, паролів, відкритих вкладок тощо — скрізь, де ви користуєтеся { -brand-name-firefox }.
+firefox-sync-sync-your-firefox = Синхронізуйте { -brand-name-firefox } на будь-якому пристрої
+firefox-sync-privacy-made-easy = Приватність стала простою
+firefox-sync-all-you-need = Все, що вам потрібно для { -brand-name-firefox-sync }, це { -brand-name-firefox-account }.
+firefox-sync-encrypt-your-data = Зашифруйте свої дані
+firefox-sync-your-encryption-key = Ваш ключ шифрування залишається таємницею, відомою лише вам та вашим авторизованим пристроям.
+firefox-sync-feel-safe = Почувайся безпечно
+firefox-sync-we-store-your = Ми зберігаємо ваші дані зашифрованими на наших серверах, тому не можемо їх прочитати.
+start-syncing-in = Почніть синхронізацію з чотирьох простих кроків:
+firefox-sync-open-the-menu = Відкрийте меню у верхньому правому куті сторінки { -brand-name-firefox } і виберіть <strong>“Увійти в { -brand-name-sync }</strong>.”
+firefox-sync-click-get-started = Натисніть <strong>“Почати”</strong> у вкладці, яка відкриється.
+enter-an-email = Введіть адресу електронної пошти та пароль, щоб <strong>“Створити { -brand-name-firefox-account }.”</strong>
+firefox-sync-click-next-to = Натисніть <strong>“Далі”</strong>, щоб отримати посилання для підтвердження на вашу електронну пошту.
