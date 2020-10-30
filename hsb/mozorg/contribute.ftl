@@ -46,6 +46,7 @@ contribute-made-by-heading = Wutworjeny wot zahoritych ludźi kaž wy sće
 ## Newsletter
 
 contribute-newsletter-heading = Hišće njewěsty?
+contribute-newsletter-sub-heading = Dóstańće nowinki wo zhromadźenstwje a sobudźěle do swojeho póstoweho dochada
 
 ## Support
 
