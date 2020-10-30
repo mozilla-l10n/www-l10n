@@ -97,3 +97,101 @@ newsletters-download-the-app = Bajar la app
 newsletters-check-for-data-breaches = Busca filtraciones de datos
 newsletters-sign-in-to-monitor = Conéctate en { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Conozca nuestra marca matriz
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Acerca de los estándares
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Desarrollo de complementos
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Boletín para desarrolladores
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Grupo de noticias Drumbeat
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } para escritorio
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = No te pierdas los últimos anuncios acerca de nuestro navegador de escritorio.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Participa
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Puntos de vista
+# Obsolete string
+newsletters-internet-health-report = Informe de salud de Internet
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = El conocimiento es poder
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Obtén todo el conocimiento que necesitas para mantenerte seguro e inteligente en línea.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Acerca de Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Escritorio
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozilleros
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Actualizaciones por correo para Mozillians confirmados en mozillians.org
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Define la Web
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Noticias e información relacionada con la salud de la web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Student Reps
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = El antiguo programa universitario del 2008 al 2011, ahora retirado y relanzado como Firefox Student Ambassadors.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Actúa en favor de Internet
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Comunidad { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Únete a los mozilleros de todo el mundo y conoce las oportunidades impactantes que hay para apoyar la misión de { -brand-name-mozilla }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Afiliados de { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Un boletín mensual para mantenerte informado sobre el programa de Afiliados de { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Un boletín mensual sobre como participar con { -brand-name-mozilla } en tu campus.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Noticias de { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Lee todo acerca de las últimas funciones en { -brand-name-firefox } para escritorio y dispositivos móviles antes de que se publique la versión final.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Baja { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Obtén { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = ¿Dueño de un teléfono { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = No te pierdas importantes noticias y actualizaciones acerca de tu dispositivo { -brand-name-firefox-os }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Tú
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Consejos semanales para { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Recibe un consejo semanal sobre cómo recargar al máximo tu experiencia { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Únete a { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Noticias de { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Noticias de { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Red de aprendizaje de { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
