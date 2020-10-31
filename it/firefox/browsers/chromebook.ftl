@@ -14,6 +14,8 @@ browsers-chromebook-get-firefox-desktop = Scarica { -brand-name-firefox } Deskto
 browsers-chromebook-dropdown-copy = Scarica { -brand-name-firefox } per { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Perché scaricare e installare  <span>{ -brand-name-firefox }</span> per { -brand-name-chromebook }?
+browsers-chromebook-alwayson-tracking-protection = Protezione dal tracciamento sempre attiva: per impostazione predefinita, { -brand-name-firefox } esegue la protezione antitracciamento avanzata per proteggere i tuoi dati personali da pubblicità traccianti note, traccianti social e script di cryptomining che seguono le tue attività sul Web.
+browsers-chromebook-is-it-hard = È difficile installare { -brand-name-firefox } per { -brand-name-chromebook }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
