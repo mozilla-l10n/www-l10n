@@ -13,6 +13,7 @@ what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -22,10 +23,14 @@ what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
+related-questions-free = Porandu ojuehegua: ¿{ -brand-name-firefox-browser } reigua, ¿{ -brand-name-firefox } hepýpa?
+is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-gui?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Mba’éicha oñemoñondive { -brand-name-firefox } { -brand-name-chrome } ndive.</a>
+is-firefox-safe-download = ¿Hekorosãpa { -brand-name-firefox } mboguejy?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -47,11 +52,14 @@ does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = ¿{ -brand-name-firefox } oguereko VPN ojuajúva?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Porandu ojuehegua: ¿{ -brand-name-firefox } oñomi nde IP?
+who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
