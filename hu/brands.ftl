@@ -149,7 +149,11 @@
         [lower] android
     }
 -brand-name-ios = iOS
--brand-name-linux = Linux
+-brand-name-linux =
+    { $cap ->
+       *[upper] Linux
+        [lower] linux
+    }
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
 -brand-name-windows =
