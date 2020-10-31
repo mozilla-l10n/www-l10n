@@ -18,6 +18,9 @@ browsers-chromebook-dropdown-copy = Pobierz { -brand-name-firefox(case: "acc") }
 browsers-chromebook-why-get-firefox = Dlaczego warto pobrać <span>{ -brand-name-firefox(case: "acc") }</span> dla { -brand-name-chromebook(case: "gen") }?
 browsers-chromebook-while-a-chromebook = Chociaż { -brand-name-chromebook } ma już zainstalowaną przeglądarkę { -brand-name-chrome }, pobranie i korzystanie z { -brand-name-firefox(case: "gen") } jako głównej przeglądarki daje kilka korzyści:
 browsers-chromebook-alwayson-tracking-protection = Zawsze włączona ochrona przed śledzeniem: { -brand-name-firefox } ma domyślnie włączoną wzmocnioną ochronę przed śledzeniem, aby chronić Twoje prywatne dane przed znanymi śledzącymi reklamami, serwisami społecznościowymi i skryptami kryptowalut chodzącymi za Tobą w Internecie.
+browsers-chromebook-supporting-independent-technology = Wspieranie niezależnej technologii: ponieważ większość głównych przeglądarek działa teraz na kodzie { -brand-name-chromium }, jest mniejszy wybór przeglądarek, które nie karmią maszyn wielkich korporacji. { -brand-name-firefox } jest wspierany przez organizację non-profit, a jego celem jest naprawienie Internetu. Korzystanie z { -brand-name-firefox(case: "gen") } sprawia, że jesteś tego częścią.
+browsers-chromebook-is-it-hard = Czy zainstalowanie { -brand-name-firefox(case: "gen") } na { -brand-name-chromebook(case: "loc") } jest trudne?
+browsers-chromebook-we-wish-it = Chcielibyśmy, żeby to było prostsze, ale Twój { -brand-name-chromebook } wolałby zatrzymać Cię w ekosystemie { -brand-name-google-play }. Uważamy jednak, że warto jest zainstalować przeglądarkę { -brand-name-firefox } na swoim { -brand-name-chromebook(case: "loc") } — i pomożemy Ci to zrobić, jeśli tego potrzebujesz. Są dwa sposoby na zainstalowanie { -brand-name-firefox(case: "gen") } na swoim urządzeniu.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
