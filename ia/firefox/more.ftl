@@ -7,8 +7,10 @@
 
 learn-more = Saper plus
 firefox-is-more = { -brand-name-firefox } es plus que un navigator
+get-the-browsers = Installa le navigatores que antepone tu confidentialitate e sempre lo ha facite
 take-your-passwords = Porta tu contrasignos sempre con te
 choose-which-firefox = Selige que { -brand-name-firefox-browser } discargar in tu lingua
+firefox-for-linux = { -brand-name-firefox } pro { -brand-name-linux }
 seven-of-the = Septe del melior navigatores in directe comparation
 comparing-firefox-chrome = Comparation inter { -brand-name-firefox-browser } e { -brand-name-google } { -brand-name-chrome }
 comparing-firefox-brave = Comparation inter { -brand-name-firefox-browser } e { -brand-name-brave }
@@ -20,3 +22,4 @@ the-ad-blocker = Le blocator de publicitate – un arma secrete contra annuncios
 so-many-ads = Tante annuncios, si poc patientia… Il es tempore de mitter fin a iste follia.
 firefox-more-protection = { -brand-name-firefox }: major protection. Minor preoccupationes.
 were-obsessed-with = Nos es maniac con le protection de tu confidentialitate. Pro isto nos ha facite le Navigation private de { -brand-name-firefox } plus potente que le alteres.
+incognito-browser-what = Navigator anonyme: que significa vermente?

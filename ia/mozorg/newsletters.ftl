@@ -52,7 +52,15 @@ newsletters-your-content-wasnt-relevant = Vostre contento non es relevante pro m
 newsletters-your-email-design = Le designo del email era troppo difficile a leger.
 newsletters-i-didnt-sign-up = Io non me habeva firmate pro isto.
 newsletters-travel-the-internet = Viagia in Internet con protection sur tote tu apparatos.
+newsletters-download-the-app = Discarga le app
+newsletters-check-for-data-breaches = Controla pro violationes
 newsletters-sign-in-to-monitor = Aperir session a { -brand-name-monitor }
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Scriptorio
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozillianos
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Actualisationes e-posta pro Mozillianos certificate sur mozillians.org.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
@@ -61,6 +69,8 @@ newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Actualitate de { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
