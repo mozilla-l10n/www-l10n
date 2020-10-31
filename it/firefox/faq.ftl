@@ -59,6 +59,7 @@ does-firefox-use = { -brand-name-firefox } utilizza { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = { -brand-name-firefox } ha una VPN integrata?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
