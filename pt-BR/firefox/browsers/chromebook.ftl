@@ -21,6 +21,7 @@ browsers-chromebook-alwayson-tracking-protection = Proteção contra rastreament
 browsers-chromebook-supporting-independent-technology = Suporte a tecnologia independente: Já que a maioria dos principais navegadores tem agora o { -brand-name-chromium } como base, há menos opções que não alimentam a máquina da grande empresa de tecnologia. O { -brand-name-firefox } é respaldado por uma organização sem fins lucrativos e se dedica a consertar a internet. Usar o { -brand-name-firefox } torna você parte disso.
 browsers-chromebook-is-it-hard = É difícil instalar o { -brand-name-firefox } para { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Gostaríamos que fosse mais simples, mas seu { -brand-name-chromebook } prefere manter você no ecossistema do { -brand-name-google-play }. No entanto, achamos que vale a pena instalar o navegador { -brand-name-firefox } em seu { -brand-name-chromebook } – e temos recursos para te ajudar se precisar. Há duas maneiras de instalar o { -brand-name-firefox } no seu dispositivo.
+browsers-chromebook-install-firefox-from = Instalar o { -brand-name-firefox } a partir da { -brand-name-google-play } Store: Em versões mais recentes do { -brand-name-chromeos } ({ -brand-name-chromebook } baseado em x86 com { -brand-name-chromeos } 80 em diante), você tem a opção de instalar o app { -brand-name-firefox } para { -brand-name-android }. Este aplicativo foi desenvolvido para dispositivos móveis.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
