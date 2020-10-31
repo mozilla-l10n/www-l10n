@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-access-and-sync = Érje el és szinkronizálja a könyvjelzőket, a jelszavakat és még többet – bárhol is használja a { -brand-name-firefox }ot.
