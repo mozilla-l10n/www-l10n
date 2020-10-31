@@ -54,6 +54,7 @@ does-firefox-sell = { -brand-name-firefox } vende i tuoi dati personali?
 nope-never-have = No. Non lo abbiamo mai fatto, e mai lo faremo. Anzi, ti proteggiamo dalla maggior parte degli inserzionisti che lo fanno. I prodotti { -brand-name-firefox } sono progettati per proteggere la tua privacy. <a href="{ $url }">È l’impegno che ci siamo presi con te.</a>
 why-is-firefox = Perché { -brand-name-firefox } è così lento?
 is-firefox-chromium = { -brand-name-firefox } è basato su { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } non è basato su { -brand-name-chromium } (il progetto browser open source alla base di { -brand-name-google } { -brand-name-chrome }). Infatti, siamo uno dei pochi browser principali a non usare questa tecnologia. Abbiamo equipaggiato { -brand-name-firefox } con il motore Quantum, sviluppato appositamente per { -brand-name-firefox }, per garantire che i tuoi dati siano gestiti rispettosamente e mantenuti privati.
 does-firefox-use = { -brand-name-firefox } utilizza { -brand-name-google }?
 
 # Variables:
@@ -65,6 +66,7 @@ does-firefox-have = { -brand-name-firefox } ha una VPN integrata?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } non ha una VPN (virtual private network) integrata, ma puoi utilizzare in sinergia con il { -brand-name-firefox-browser } due altri prodotti sviluppati da { -brand-name-mozilla }/{ -brand-name-firefox }, per proteggere il browser stesso (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) o la connessione WiFi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) del tuo dispositivo, così come il tuo indirizzo IP.
 related-questions-ip = Domande correlate: { -brand-name-firefox } nasconde il tuo indirizzo IP
 who-owns-firefox = Chi è il proprietario di { -brand-name-firefox }?
 
