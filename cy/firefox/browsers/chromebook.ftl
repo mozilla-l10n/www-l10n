@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Gosod { -brand-name-firefox } o { -br
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Gosod { -brand-name-firefox } fel ap { -brand-name-linux }: mae dilyn y llwybr hwn yn cymryd ychydig mwy o gamau, ond mae'n werth chweil. Pan fyddwch yn gosod y porwr { -brand-name-firefox } fel ap { -brand-name-linux }, cewch y porwr  { -brand-name-firefox } bwrdd gwaith a'r holl manteision o wneud hynny, gan gynnwys Diogelu Rhag Tracio Uwch , rheolwr cyfrineiriau mewnol, mynediad at filoedd o ychwanegion (gan gynnwys atalydd hysbysebion UBlock Origin), a themâu i addasu gwedd eich porwr. <a { $url }>Dysgu rhagor am osod porwr  { -brand-name-firefox } bwrdd gwaith ar gyfer { -brand-name-chromebook }. </a>
