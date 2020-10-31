@@ -20,6 +20,7 @@ browsers-chromebook-while-a-chromebook = Bár a { -brand-name-chrome } már tele
 browsers-chromebook-alwayson-tracking-protection = Mindig bekapcsolt követésvédelem: a { -brand-name-firefox } alapértelmezetten futtatja a Továbbfejlesztett követés ellene védelmet (ETP), hogy megvédje személyes adatait az ismert hirdetéskövetőktől, közösségimédia-követőktől és kriptobányász parancsfájloktól, amelyek követik Önt a weben.
 browsers-chromebook-supporting-independent-technology = Független technológia támogatása: mivel a legtöbb nagy böngésző { -brand-name-chromium }ra épül, így kevesebb lehetőség van arra, hogy ne a nagy technológiai cégeket támogassa. A { -brand-name-firefox }ot egy nonprofit szervezet támogatja, amely elkötelezett az internet jobbá tétele iránt. A { -brand-name-firefox } használatával Ön is részese lesz ennek.
 browsers-chromebook-is-it-hard = Nehéz feltelepíteni a { -brand-name-firefox }ot a { -brand-name-chromebook }ra?
+browsers-chromebook-we-wish-it = Szeretnénk, hogy egyszerűbb legyen, de a { -brand-name-chromebook } azt szeretné, hogy a { -brand-name-google-play } ökoszisztémában tartja. Viszont, továbbra is úgy gondoljuk, hogy megéri az erőfeszítés, hogy telepítse a { -brand-name-firefox } böngészőt a { -brand-name-chromebook }jára – és anyagokat biztosítunk, ha segítségre van szüksége. Két módja van a { -brand-name-firefox } beszerzésének az eszközére.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes

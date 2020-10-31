@@ -15,3 +15,10 @@ firefox-sync-your-encryption-key = A titkosítási kulcsa titok marad, amelyet c
 firefox-sync-feel-safe = Érezze magát biztonságban
 firefox-sync-we-store-your = Az adatait titkosítva tartjuk a kiszolgálóinkon, így mi sem tudjuk elolvasni azokat.
 start-syncing-in = Indítsa el a szinkronizálást négy egyszerű lépésben:
+firefox-sync-open-the-menu = Nyissa meg a menüt a { -brand-name-firefox } jobb felső sarkában és válassza a <strong>„Bejelentkezés a { -brand-name-sync }be”</strong> lehetőséget.
+firefox-sync-click-get-started = A megnyíló lapon kattintson a <strong>„Kezdő lépések”</strong> gombra.
+enter-an-email = Adja meg az e-mail címét és a jelszót a <strong>„{ -brand-name-firefox-account } létrehozásához”</strong>.
+firefox-sync-click-next-to = Kattintson a <strong>„Következő”</strong> gombra, ami után egy ellenőrző levelet fog kapni.
+firefox-sync-after-you-check = Miután rákattintott az e-mailben talált érvényesítő hivatkozásra, a { -brand-name-firefox } elkezd automatikusan szinkronizálni a háttérben.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = További segítség a { -brand-name-firefox-account }ja kezeléséhez
