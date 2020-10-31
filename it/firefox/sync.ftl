@@ -7,3 +7,4 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-sync-your-firefox = Sincronizza { -brand-name-firefox } su tutti i tuoi dispositivi
+firefox-sync-privacy-made-easy = La privacy facilitata
