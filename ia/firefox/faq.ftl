@@ -21,26 +21,35 @@ what-is-firefox = Que es { -brand-name-firefox }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = Es { -brand-name-firefox } gratuite?
+is-chrome-better = Es { -brand-name-chrome } melior de { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = Es { -brand-name-firefox } secur a discargar?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Es { -brand-name-firefox } secur?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = An { -brand-name-firefox } vende tu datos personal?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Perque { -brand-name-firefox } es assi lente?
+is-firefox-chromium = An { -brand-name-firefox } es basate sur{ -brand-name-chromium }?
+does-firefox-use = An { -brand-name-firefox } usa { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/

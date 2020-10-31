@@ -5,7 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+learn-more = Saper plus
 firefox-is-more = { -brand-name-firefox } es plus que un navigator
+take-your-passwords = Porta tu contrasignos sempre con te
 choose-which-firefox = Selige que { -brand-name-firefox-browser } discargar in tu lingua
 seven-of-the = Septe del melior navigatores in directe comparation
 comparing-firefox-chrome = Comparation inter { -brand-name-firefox-browser } e { -brand-name-google } { -brand-name-chrome }
