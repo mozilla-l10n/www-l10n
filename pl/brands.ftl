@@ -643,6 +643,7 @@
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
+-brand-name-chromeos = Chrome OS
 
 ## Apple products
 
@@ -706,4 +707,13 @@
         [acc] YouTube’a
         [ins] YouTube’em
         [loc] YouTubie
+    }
+-brand-name-chromebook =
+    { $case ->
+       *[nom] Chromebook
+        [gen] Chromebooka
+        [dat] Chromebookowi
+        [acc] Chromebooka
+        [ins] Chromebookiem
+        [loc] Chromebooku
     }
