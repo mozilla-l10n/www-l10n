@@ -21,6 +21,7 @@ browsers-chromebook-alwayson-tracking-protection = Diogelwch rhag tracio parhaus
 browsers-chromebook-supporting-independent-technology = Cefnogi technoleg annibynnol: gan fod y mwyafrif o borwyr mawr bellach yn rhedeg ar { -brand-name-chromium }, mae llai o ddewisiadau sydd ddim yn bwydo'r peiriant Technoleg Mawr. Mae { -brand-name-firefox } yn cael ddarparu gan gorff dim-er-elw ac mae'n ymroddedig i drwsio'r rhyngrwyd. Mae defnyddio { -brand-name-firefox } yn eich gwneud chi'n rhan o hynny.
 browsers-chromebook-is-it-hard = A yw'n anodd gosod { -brand-name-firefox } { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Byddai'n well gennym iddo fod yn symlach, ond byddai'n well gan eich { -brand-name-chromebook } eich cadw yn yr ecosystem { -brand-name-google-play }. Fodd bynnag, rydym yn credu ei bod yn werth yr ymdrech i osod y porwr { -brand-name-firefox } yn eich { -brand-name-chromebook } - ac mae gennym adnoddau i'ch helpu os bydd eu hangen arnoch. Mae dwy ffordd i osod { -brand-name-firefox } ar eich dyfais.
+browsers-chromebook-install-firefox-from = Gosod { -brand-name-firefox } o { -brand-name-google-play } Store: ar fersiynau mwy newydd o { -brand-name-chromeos } (yn seiliedig ar { -brand-name-chromebook }  x86 yn rhedeg { -brand-name-chromeos } 80 neu'n hwyrach), mae gennych y dewis i osod ap { -brand-name-firefox } { -brand-name-android }. Mae'r ap hwn yn cael ei ddatblygu ar gyfer dyfeisiau symudol.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
