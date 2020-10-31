@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Telepítse a { -brand-name-firefox }o
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Telepítse a { -brand-name-firefox }ot { -brand-name-linux(cap: "lower") }os alkalmazásként: ez a megoldás több lépésből áll, de megéri. Ha a { -brand-name-firefox } böngészőt { -brand-name-linux(cap: "lower") }os alkalmazásként telepíti, akkor megkapja az asztali { -brand-name-firefox } böngészőt, és annak összes előnyét, köztük a Fokozott követés elleni védelmet, a beépített jelszókezelőt, a több ezer kiegészítő elérését (köztük a UBlock Origin reklámblokkolót), és a témákat, melyekkel testreszabhatja a böngészője kinézetét. <a { $url }>Tudjon meg többet az asztali { -brand-name-firefox } böngésző { -brand-name-chromebook }ra telepítéséről.</a>
