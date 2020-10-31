@@ -30,14 +30,19 @@ is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = ¿Hekorosãpa { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = ¿{ -brand-name-firefox } ohepyme’ẽ ne mba’ekuaarã teéva?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = ¿Mba’ére { -brand-name-firefox } imbeguete?
+is-firefox-chromium = ¿{ -brand-name-firefox } ojeko { -brand-name-chromium } rehe?
+does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
