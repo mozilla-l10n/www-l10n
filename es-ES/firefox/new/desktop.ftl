@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browse
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Hagas lo que hagas en línea.<br>{ -brand-name-firefox-browser } <strong>no</strong> te está vigilando.
 firefox-desktop-download-how-firefox-compares = Cómo es { -brand-name-firefox } comparado con otros navegadores
+firefox-desktop-download-get-all-the-speed = Consigue toda la velocidad y herramientas sin invasiones a tu privacidad. { -brand-name-firefox-browser } recopila tan pocos datos sobre ti que ni siquiera te solicitamos tu dirección de correo electrónico para descargarlo. Esto se debe a que, a diferencia de otros navegadores, no tenemos ningún interés económico para seguirte por la Web.
 firefox-desktop-download-how-we-compare = Cómo nos comparamos con otros navegadores
 firefox-desktop-download-compare-firefox-to = Compara { -brand-name-firefox } con:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -46,11 +47,13 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
 firefox-desktop-download-available-in-over = Disponible en más de 90 idiomas, y compatible con equipos { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, { -brand-name-firefox } funciona sin importar qué estás usando o dónde estás. Asegúrate de que tu sistema operativo esté actualizado para obtener la mejor experiencia.
 firefox-desktop-download-review-system-req = Revisar los requisitos del sistema
 firefox-desktop-download-all-your-devices = Instala { -brand-name-firefox } en todos tus dispositivos
+firefox-desktop-download-take-your-privacy = Mantén tu privacidad en todas partes. { -brand-name-firefox-browsers } para { -brand-name-ios } y { -brand-name-android } comparten la sólida configuración de privacidad para evitar que los rastreadores te sigan por la web, sin importar dónde te encuentres.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Haz <strong>todo</strong> con { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Búsquedas más inteligentes, más rápidas
 firefox-desktop-download-search-from-address = Busca desde la barra de direcciones
 firefox-desktop-download-search-engine-options = Opciones de buscador
+firefox-desktop-download-smart-search-suggestions = Inteligentes sugerencias de búsqueda
 firefox-desktop-download-boost-your = Aumenta tu productividad
 firefox-desktop-download-works-with-google = Funciona con los productos de { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Herramienta de captura de pantalla integrada
