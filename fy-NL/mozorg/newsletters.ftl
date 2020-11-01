@@ -145,30 +145,54 @@ newsletters-insights = Insights
 newsletters-internet-health-report = Internet Health Report
 # Description for the newsletter in Newsletter subscription page (Insights))
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publisearret artikelen en ferdjipjende stikken oer kwestjes rûnom ynternetsûnens en betroubere AI, wêrûnder ús jierlikse Ynternetsûnensrapport.
+# Obsolete string
+newsletters-keep-up-with-our-annual = Bliuw op de hichte mei ús jierlikse gearfetting fan ûndersyk en ferhalen op it mêd fan privacy en befeiliging, iepenheid, digitale ynklusiviteit, desintralisaasje en webgeletterdheid.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Kennis is macht
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Krij alle kennis dy't jo nedich hawwe om online feiliger en tûker te bliuwen.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Oer Labs
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Desktop
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = E-mailupdates foar Mozillians mei garantstelling op mozillians.org.
 # Name for the newsletter in Newsletter subscription page
 newsletters-shapre-of-the-web = Shape of the Web
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Nijs en ynformaasje relatearre oan de sûnens fan it web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Student Reps
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Earder University-programma fan 2008-2011, no net mear aktyf en opnij yntrodusearre as it Firefox Student Ambassadors-programma.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Set jo yn foar it Ynternet
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Foegje jo stim ta oan petysjes, eveneminten en inisjativen dy't fjochtsje foar de takomst fan it web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Nije produkten teste
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Help ús in bettere { -brand-name-firefox } foar jo te meitsjen troch ús nijste produkten en funksjes te testen.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla }-mienskip
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Doch mei mei Mozillians fan oer de hiele wrâld en lear oer ynfloedrike mooglikheden om de missy fan { -brand-name-mozilla } te stypjen.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = In moanlikse nijsbrief dy't jo op 'e hichte hâldt fan it { -brand-name-firefox } Affiliates-programma.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = In moanlikse nijsbrief oer hoe't men op jo kampus by { -brand-name-mozilla } belutsen reitsje kin.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = { -brand-name-beta }-nijs
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Lês oer de nijste funksjes yn { -brand-name-firefox } foar desktop en mobyl foar de definitive ferzje útkomt.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Download { -brand-name-firefox } foar { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -183,16 +207,36 @@ newsletters-firefox-accounts-tips = Tips foar { -brand-name-firefox-accounts }
 newsletters-get-the-most-firefox-account = Helje it measte út jo { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Periodike e-mailupdates oer ús jierlikse ynternasjonale filmwedstriid.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Wês de earste om te witten wannear't { -brand-name-firefox } foar { -brand-name-ios }-apparaten beskikber is.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = { -brand-name-firefox-os }-snoadfoanbesitter?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Mis gjin wichtich nijs en updates oer jo { -brand-name-firefox-os }-apparaat.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + jo
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = In moanlikse nijsbrief en spesjale oankundigingen oer hoe't jo it measte út jo { -brand-name-firefox-os }-apparaat helje kinne, wêrûnder de nijste funksjes en aardichste { -brand-name-firefox-marketplace }-apps.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Wyklikse tips foar { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Untfang in wyklikse tip oer it ferbetterjen fan jo { -brand-name-firefox }-ûnderfining.
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Mei { -brand-name-mozilla } meiwurkje
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = { -brand-name-mozilla }'s grutste fiering fan it meitsjen en learen op it web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Untdek de nijste, aardichste HTML5-apps yn { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Nijs, tips en yntroduksje-ynfo oer { -brand-name-firefox-os } en de beskikberheid.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } foar { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
