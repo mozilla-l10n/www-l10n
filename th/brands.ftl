@@ -102,6 +102,7 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
