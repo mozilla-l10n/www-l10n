@@ -54,6 +54,7 @@ firefox-desktop-download-search-smarter = Búsquedas más inteligentes, más rá
 firefox-desktop-download-search-from-address = Busca desde la barra de direcciones
 firefox-desktop-download-search-engine-options = Opciones de buscador
 firefox-desktop-download-smart-search-suggestions = Inteligentes sugerencias de búsqueda
+firefox-desktop-download-bookmark-history = Marcadores, historial y pestañas abiertas en los resultados
 firefox-desktop-download-boost-your = Aumenta tu productividad
 firefox-desktop-download-works-with-google = Funciona con los productos de { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Herramienta de captura de pantalla integrada
@@ -62,14 +63,22 @@ firefox-desktop-download-autosuggest-urls = Sugerencia automática de URLs
 firefox-desktop-download-sync-across-devices = Sincronización entre dispositivos
 firefox-desktop-download-reader-mode = Modo lectura
 firefox-desktop-download-spell-check = Corrector ortográfico
+firefox-desktop-download-pinned-tabs = Pestañas fijadas
+firefox-desktop-download-stream-share-play = Transmite, comparte y juega
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Bloquea la reproducción automática de video y audio
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Picture-in-Picture
+firefox-desktop-download-curated-content-on = Contenido seleccionado en las pestañas nuevas
 firefox-desktop-download-share-links = Compartir enlaces
 firefox-desktop-download-protect-your-privacy = Protege tu privacidad
 firefox-desktop-download-third-party-cookie = Bloqueo de cookies de terceros
 firefox-desktop-download-fingerprinter-blocking = Bloqueo de detectores de huellas digitales (fingerprinters)
 firefox-desktop-download-cryptominer-blocking = Bloqueo de criptomineros
 firefox-desktop-download-private-browsing-mode = Modo de navegación privada
+firefox-desktop-download-individual-protections-report = Informe de protecciones individuales
+firefox-desktop-download-secure-your-personal = Asegura tu información personal
+firefox-desktop-download-breached-website-alerts = Alertas de sitios web con filtraciones de datos
 firefox-desktop-download-built-in-password = Administrador de contraseñas integrado
 firefox-desktop-download-clear-history = Limpiar historial
 firefox-desktop-download-form-autofill = Autocompletado de formularios
@@ -77,16 +86,37 @@ firefox-desktop-download-automatic-updates = Actualizaciones automáticas
 firefox-desktop-download-customize-your-browser = Personaliza tu navegador
 firefox-desktop-download-themes = Temas
 firefox-desktop-download-dark-mode = Modo oscuro
+firefox-desktop-download-library-of-extensions = Biblioteca de extensiones
 firefox-desktop-download-adjust-search-bar = Ajusta la configuración de la barra de búsqueda
+firefox-desktop-download-change-new-tab = Cambia el diseño de las nuevas pestañas
+firefox-desktop-download-make-firefox-your = Haz <strong>{ -brand-name-firefox }</strong> tuyo
+firefox-desktop-download-extensions-for-every = Extensiones para todos los intereses.
+firefox-desktop-download-change-up-your = Cambia tu aspecto
+firefox-desktop-download-go-from-light = Pasa del modo claro al modo oscuro según tu estado de ánimo o preferencia, o ameniza las cosas con un tema personalizado (quizás un unicornio arcoíris).
 firefox-desktop-download-tweak-your-settings = Personaliza tus ajustes
+firefox-desktop-download-theres-no-need = No necesitas conformarte. Cambia la página que aparece al abrir nuevas pestañas, la barra de búsqueda, los marcadores y más para explorar internet de la manera que quieras.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Respaldado por la <strong>organización sin ánimo de lucro</strong> que prioriza a las personas
+firefox-desktop-download-challenging-the-status = Desafiando el status quo desde 1998
+firefox-desktop-download-your-privacy-comes = Tu privacidad es lo primero
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Mantén todas tus funcionalidades favoritas del navegador, y <strong>descubre</strong> nuevas.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Todas tus herramientas favoritas de { -brand-name-google } (como Gmail y Docs) funcionan a la perfección en { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Descarga esta extensión del navegador</a> para impedir que { -brand-name-facebook } (e { -brand-name-instagram }) te rastreen por la web.
 firefox-desktop-download-sync-your-devices = Sincroniza tus dispositivos
 firefox-desktop-download-screenshots = Capturas de pantalla
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protección mejorada contra el rastreo (ETP)
+firefox-desktop-download-from-watching-a = Desde ver un tutorial web hasta estar pendiente de tu equipo favorito, tu vídeo te sigue mientras realizas otras tareas.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Consigue { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Consigue { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Descarga el navegador móvil { -brand-name-firefox } para una protección automática en todos tus dispositivos.
+firefox-desktop-download-learn-about-the = Saber más sobre el navegador de escritorio { -brand-name-firefox }
 firefox-desktop-download-get-more-from-firefox = Consigue más productos de { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Simplemente descarga el navegador
 
