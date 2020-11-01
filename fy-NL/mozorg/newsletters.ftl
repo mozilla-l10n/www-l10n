@@ -129,6 +129,8 @@ newsletters-about-standards = Oer standerts
 newsletters-addon-development = Add-on-ûntwikkeling
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Nijsbrief foar ûntwikkelers
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = In ûntwikkelersgids mei hichtepunten oer webplatfoarmynnovaasjes, oanrekommandearre prosedueren, nije dokumintaasje en mear.
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Drumbeat-nijsgroep
 # Name for the newsletter in Newsletter subscription page
@@ -141,6 +143,8 @@ newsletters-get-involved = Meiwurkje
 newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publisearret artikelen en ferdjipjende stikken oer kwestjes rûnom ynternetsûnens en betroubere AI, wêrûnder ús jierlikse Ynternetsûnensrapport.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Kennis is macht
 # Name for the newsletter in Newsletter subscription page

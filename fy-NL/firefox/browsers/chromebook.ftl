@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Ynstallearje { -brand-name-firefox } 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Ynstallearje { -brand-name-firefox } as in { -brand-name-linux }-app: dizze rûte freget wat mear stappen, mar dy binne it wurdich. As jo de { -brand-name-firefox }-browser as in { -brand-name-linux }-app ynstallearje, ûntfange jo de { -brand-name-firefox }-desktopbrowser en alle foardielen dy't dizze hat, wêrûnder Ferbettere beskerming tsjin folgjen, in ynboude wachtwurdbehearder, tagong ta tûzenen add-ons (wêrûnder de UBlock Origin-advertinsjeblokkearder) en tema’s om it uterlik fan jo browser oan te passen. <a { $url }>Mear ynfo oer it ynstallearjen fan de { -brand-name-firefox }-desktopbrowser foar { -brand-name-chromebook }.</a>
