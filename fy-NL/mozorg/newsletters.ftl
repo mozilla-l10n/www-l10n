@@ -239,19 +239,35 @@ newsletters-discover-the-latest = Untdek de nijste, aardichste HTML5-apps yn { -
 newsletters-firefox-os-news = Nijs, tips en yntroduksje-ynfo oer { -brand-name-firefox-os } en de beskikberheid.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } foar { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Bliuw op de hichte mei nijs oer { -brand-name-firefox } foar { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = { -brand-name-firefox } Nijs
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Untfang hantliedingen, advys en nijs om jo { -brand-name-firefox }-ûnderfining te optimalisearjen.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Spesjale oankundigingen oer it jierlikse, praktyske festival fan { -brand-name-mozilla } wijd oan it foarmjaan fan 'e takomst fan it iepen web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } Nijs
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Regelmjittige updates om jo op de hichte en aktyf te hâlden yn ús gefjocht foar in better ynternet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Spesjale oankundigingen en meldingen fan it team dat is tawijd oan it frij en iepen hâlden fan it web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Updates fan ús wrâldwide mienskip, dy't minsken helpe de wichtichste feardichheden fan ús tiid te learen: de mooglikheid om te lêzen, skriuwen en mei te dwaan yn de digitale wrâld.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Wy bouwe de technology fan de takomst. Gean mei ús op ferkenning.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Spesjale oankundigingen helpe jo it measte út { -brand-name-webmaker } te heljen.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
