@@ -160,12 +160,20 @@ firefox-desktop-download-get-help = Har du problemer? <a { $attrs }>Få hjælp t
 firefox-desktop-download-in-another-language = Hent på et andet sprog eller til et andet styresystem.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Hvis du ser en besked om, at appen, du forsøger at installere, ikke er godkendt af { -brand-name-microsoft }, så klik "Installer alligevel" eller <a { $attrs }> skift indstillingerne for app-anbefalinger</a>.
+firefox-desktop-download-visit-support-for-more = Besøg Support for at få flere detaljer
+# Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">udgiver ikke længere sikkerhedsopdateringer</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan stadig bruge { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Du bruger et usikkert og forældet styresystem, <a href="{ $url }">der ikke længere understøttes af { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Filhentningen skulle gerne begynde automatisk. Virker det ikke? <a id="{ $id }" href="{ $fallback_url }">Prøv at hente igen.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mere end en browser.
 firefox-desktop-download-interrupted = Hentning af din fil blev afbrudt. Men alt er ikke tabt.
 # Variables:
