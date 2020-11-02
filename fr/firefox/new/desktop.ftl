@@ -126,13 +126,13 @@ firefox-desktop-download-from-security-to = De la sécurité aux actualités en 
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a été créé par <a { $attrs }>{ -brand-name-mozilla }</a> comme une alternative plus rapide et plus privée aux navigateurs comme { -brand-name-ie }, et maintenant { -brand-name-chrome }. Aujourd’hui, notre entreprise et notre communauté de bénévoles, toutes deux au service de notre mission, continuent de placer votre vie privée au-dessus de tout.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = À mesure qu’Internet se développe et évolue, { -brand-name-firefox } continue de se concentrer sur votre droit à la protection de votre vie privée. C’est pour cela que nous avons pris un engagement concernant les données personnelles : <strong>nous collectons moins d’informations, offrons plus de protection et ne vous cachons rien. Vos données, votre activité sur le Web et votre vie numérique sont protégées avec { -brand-name-firefox }.
+firefox-desktop-download-as-the-internet = À mesure qu’Internet se développe et évolue, { -brand-name-firefox } continue de se concentrer sur votre droit à la protection de votre vie privée. C’est pour cela que nous avons pris un <a { $attrs }>engagement concernant les données personnelles</a> : nous collectons moins d’informations, offrons plus de protection et ne vous cachons rien. Vos données, votre activité sur le Web et votre vie numérique sont protégées avec { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } est disponible sur tous vos appareils ; emportez vos onglets, votre historique et vos marque-pages avec vous. Tout ce dont vous avez besoin est d’un <a { $attrs }>compte { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Obtenez une image en haute résolution de tout ce qui est en ligne avec notre outil de <a { $attrs }>capture d’écran</a> inclut directement dans le navigateur
+firefox-desktop-download-grab-a-high = Obtenez une image en haute résolution de tout ce qui est en ligne avec notre outil de <a { $attrs }>capture d’écran</a> inclus directement dans le navigateur
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>bloque automatiquement de nombreux traqueurs tiers</a> et les empêche de collecter et de vendre votre activité web.
