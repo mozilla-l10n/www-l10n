@@ -58,6 +58,10 @@ newsletters-you-send-too-many-emails = Og̃uahẽ hetaiterei ñandutiveve.
 newsletters-your-content-wasnt-relevant = Pe hetepy naiporãmbái chéve.
 newsletters-your-email-design = Pe ñandutiveve moha’ãnga hasy imoñe’ẽ.
 newsletters-i-didnt-sign-up = Nasẽi gueteri ko mboheraguapýgui.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Ko kundaharape ñandutiveve noĩri ore apopyvusúpe. Ehechajey ne kundaharape térã <a href="{ $url }">eñemboheraguapy ore jehaipýre’ípe.</a>
+newsletters-im-keeping-in-touch = Aimeseve { -brand-name-mozilla } ndive { -brand-name-facebook } ha { -brand-name-twitter }-pe.
 newsletters-sign-in-to-monitor = Eñepyrũ tembiapo { -brand-name-monitor }-pe
 newsletters-meet-our-parent-brand = Eikuaa ore marca guasu
 # Name for the newsletter in Newsletter subscription page
