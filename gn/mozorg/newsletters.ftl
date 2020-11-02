@@ -96,11 +96,19 @@ newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Ñanduti resãirã marandu’i
 # Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Kuaapy ha’e pokatu
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Eñemomarandu eikotevẽva eikundaha hag̃ua tekorosã ha katupyrýpe.
+# Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Labs rehegua
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Mesa arigua
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Mba’epyahu ñandutiveve rupi Mozilla-guápe g̃uarã eikuaátava mozillians.org-pe.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Emboaje ñanduti
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Temimbo’ekuéra myakãhára
 # Name for the newsletter in Newsletter subscription page
