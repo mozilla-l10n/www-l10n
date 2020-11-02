@@ -134,6 +134,14 @@ newsletters-download-firefox-for-android = Emboguejy { -brand-name-firefox } { -
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-firefox-for-android = Erekóke { -brand-name-firefox } { -brand-name-android } peg̃uarã
 # Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Emboguejy { -brand-name-firefox } { -brand-name-ios } peg̃uarã
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Emboguejy { -brand-name-firefox } pumbyrýpe g̃uarã
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Ñe’ẽporã { -brand-name-firefox-accounts } peg̃uarã
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Eguenohẽ eikotevẽva { -brand-name-firefox-account }-gui.
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
@@ -141,6 +149,8 @@ newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 newsletters-firefox-os-smartphone-owner = ¿{ -brand-name-firefox-os } pumbyry ha’evéva jára?
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Nde
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Ñe’ẽporã arapokõindyguáva { -brand-name-firefox } peg̃uarã
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Ejuaju { -brand-name-mozilla } ndive
 # Name for the newsletter in Newsletter subscription page
