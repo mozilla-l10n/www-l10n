@@ -30,6 +30,7 @@ new-school-meets = Mbokatupyha pyahu ojojuhu mbokatupyha ymaguare ndive kundahá
 firefox-for-windows = { -brand-name-firefox } { -brand-name-windows } 64-bit peg̃uarã
 we-worry-about = Rojepy’apy ne mba’ekuaarã rekorosãre ani hag̃ua nde ejepy’apy.
 seven-of-the = Emoñondive umi pokõi kundahára iporãvéva
+we-compare-firefox = Romoñondive { -brand-name-firefox } { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ha { -brand-name-ie } ndive nepytyvõkuaa hag̃ua jeporavópe.
 big-isnt-always = Tuicha haguére ndaha’éi iporãvégui. Eiporavo sãso hendaguépe.
 comparing-firefox-brave = Emoñondive { -brand-name-firefox-browser } { -brand-name-brave } ndive
 comparing-firefox-safari = Romoñondive { -brand-name-firefox-browser } { -brand-name-apple } { -brand-name-safari } ndive
