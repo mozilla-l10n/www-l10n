@@ -17,6 +17,9 @@ browsers-chromebook-dropdown-copy = Obtener { -brand-name-firefox } para { -bran
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ¿Por qué obtener <span>{ -brand-name-firefox }</span> para { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Mientras que un { -brand-name-chromebook } ya tiene { -brand-name-chrome } instalado, descargar y usar { -brand-name-firefox } como tu navegador diario te proporciona algunos beneficios:
+browsers-chromebook-alwayson-tracking-protection = Protección de rastreo activada de forma predeterminada, { -brand-name-firefox } ejecuta la Protección de rastreo aumentada  (ETP) para proteger tus datos personales de rastreadores de publicidad conocidos, rastreadores sociales y scripts de criptominería que te siguen por la web.
+browsers-chromebook-supporting-independent-technology = Compatibilidad con la tecnología independiente: dado que la mayoría de los navegadores más importantes corren en { -brand-name-chromium }, hay menos opciones que no se alimentan de la maquinaria de las grandes tecnologías. { -brand-name-firefox } está respaldado por una organización sin fines de lucro y se dedica a arreglar Internet. Usar { -brand-name-firefox } te convierte en parte de eso.
+browsers-chromebook-is-it-hard = ¿Es difícil instalar { -brand-name-firefox } para { -brand-name-chromebook }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
