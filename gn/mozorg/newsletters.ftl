@@ -53,6 +53,7 @@ newsletters-were-glad-you-asked = ¡Rovy’aiterei ne eporandúre!
 newsletters-love-the-web-so-do-we = ¿Ehayhúpa ñanduti? ¡Ore avei!
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Eheja Firefox toike ne mba’eguahẽhápe.
+newsletters-this-is-not-a-valid-email = Ndoikói ne kundaharape. Ehecha ehaiporãpa.
 newsletters-sign-in-to-monitor = Eñepyrũ tembiapo { -brand-name-monitor }-pe
 newsletters-meet-our-parent-brand = Eikuaa ore marca guasu
 # Name for the newsletter in Newsletter subscription page
