@@ -74,6 +74,7 @@ newsletters-back-to-email-preferences = Ejevyjey ñandutiveve erohoryvévape
 newsletters-take-your-privacy = Egueraha ne ñemigua nendive
 newsletters-travel-the-internet = Eikundaha ñandutípe ñemo’ãme opaite mba’e’okápe.
 newsletters-download-the-app = Emboguejy tembipuru’i
+newsletters-check-for-data-breaches = Ehechajey oĩpa mba’ekuaarã ñembyai
 newsletters-sign-in-to-monitor = Eñepyrũ tembiapo { -brand-name-monitor }-pe
 newsletters-meet-our-parent-brand = Eikuaa ore marca guasu
 # Name for the newsletter in Newsletter subscription page
@@ -86,10 +87,14 @@ newsletters-developer-newsletter = Jehaipyre’i mboguatahárape g̃uarã
 newsletters-drumbeat-newsgroup = Drumbeat marandu aty
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Aníke okañy marandu ipyahuvéva ore kundahára mesa arigua rehegua.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Emba’apóke
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Insights
+# Obsolete string
+newsletters-internet-health-report = Ñanduti resãirã marandu’i
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Labs rehegua
 # Name for the newsletter in Newsletter subscription page
