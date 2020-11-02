@@ -9,7 +9,10 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Ereko { -brand-name-firefox-browser } { -brand-name-chromebook } peg̃uarã
+browsers-chromebook-so-youve-got = Eguerekora’e { -brand-name-chromebook } — ko’ág̃a erekomava’erã pe { -brand-name-firefox-browser }, isãso ha hekoñemi ijeheguíva omo’ã hag̃ua ne mba’ekuaarãitéva.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Ereko { -brand-name-firefox } { -brand-name-android } peg̃uarã
+browsers-chromebook-get-firefox-desktop = Erekóke { -brand-name-firefox } mesa arigua { -brand-name-chromebook } peg̃uarã
+browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } x86 rehegua omongu’éva { -brand-name-chromeos } 80 térã uperiregua
 browsers-chromebook-dropdown-copy = Ereko { -brand-name-firefox } { -brand-name-chromebook } peg̃uarã
 
 # Variables:
