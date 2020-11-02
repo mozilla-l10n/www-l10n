@@ -41,7 +41,7 @@ firefox-desktop-download-primary-password = Hovedadgangskode
 # Obsolete string
 firefox-desktop-download-master-password = Hovedadgangskode
 firefox-desktop-download-we-block-the-ad = Vi forhindrer sporing. Og gør det hurtigere for dig at bruge nettet.
-firefox-desktop-download-ads-are-distracting = Annoncer distraherer og får websider til at indlæse langsommere, mens de sporer hver bevægelse, du foretager online. { -brand-name-firefox-browser } blokerer de fleste trackere automatisk, så du kan føle dig sikker på internettet uden at skulle finjustere dine sikkerhedsindstillinger.
+firefox-desktop-download-ads-are-distracting = Annoncer distraherer og får websider til at indlæse langsommere, mens de sporer hver bevægelse, du foretager online. { -brand-name-firefox-browser } blokerer de fleste sporings-mekanismer automatisk, så du kan føle dig sikker på internettet uden at skulle finjustere dine sikkerhedsindstillinger.
 firefox-desktop-download-see-your-report = Se din beskyttelsesrapport
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er for alle
 firefox-desktop-download-available-in-over = Tilgængelig på mere end 90 sprog og kompatibel med { -brand-name-windows }-, { -brand-name-mac-short }- og { -brand-name-linux }. { -brand-name-firefox } fungerer uanset hvad, du bruger - og hvor du er. Sørg for, at dit styresystem er opdateret for den bedste oplevelse.
