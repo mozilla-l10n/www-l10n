@@ -151,6 +151,8 @@ newsletters-firefox-os-smartphone-owner = ¿{ -brand-name-firefox-os } pumbyry h
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Nde
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Ñe’ẽporã arapokõindyguáva { -brand-name-firefox } peg̃uarã
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Og̃uahẽta ñe’ẽporã arapokõindygua mba’échapa emyanyhẽta ne rembiasakue { -brand-name-firefox }-pe.
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Ejuaju { -brand-name-mozilla } ndive
 # Name for the newsletter in Newsletter subscription page
