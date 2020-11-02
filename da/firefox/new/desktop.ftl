@@ -97,9 +97,55 @@ firefox-desktop-download-sync-your-devices = Synkroniser dine enheder
 firefox-desktop-download-screenshots = Skærmbilleder
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Udvidet beskyttelse mod sporing
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Hent { -brand-name-firefox-browser } til <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Hent { -brand-name-firefox-browser } til <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Hent { -brand-name-firefox }-browser til mobilen for automatisk beskyttelse på alle dine enheder.
+firefox-desktop-download-learn-about-the = Læs om { -brand-name-firefox } til computer nedenunder
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Efterhånden som internettet vokser og ændrer sig, fortsætter { -brand-name-firefox } med at fokusere på din ret til privatliv  — vi kalder det for <a { $attrs }>Løfte om private data</a>: Gem mindre. Beskyt alt. Ingen hemmeligheder. Dine data, din aktivitet på nettet og dit liv online er beskyttet med { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Tag et skærmbillede i høj opløsning af noget på nettet med vores <a { $attrs }>skærmbillede</a>-funktion indbygget i browseren
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>forhindrer automatisk mange sporings-mekanismer fra tredjepart</a> i at indsamle og sælge din aktivitet på nettet.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Har du spørgsmål? <a { $attrs }>{ -brand-name-mozilla } support</a> har svarene.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Du har allerede browseren. Få endnu mere ud af { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Hold øje med hackere med { -brand-name-firefox-monitor }, beskyt dine adgangskoder med { -brand-name-firefox-lockwise } – og mere.
+firefox-desktop-download-get-more-from-firefox = Få mere ud af { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Hent kun browseren
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Næsten færdig!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Fuldfør nu <strong>installationen</strong> af { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Kør</strong> nu installationsfilen, du lige hentede.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Åbn</strong> nu filen, du lige hentede.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Har du problemer? <a { $attrs }>Få hjælp til din installation</a>.
+firefox-desktop-download-in-another-language = Hent på et andet sprog eller til et andet styresystem.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">udgiver ikke længere sikkerhedsopdateringer</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan stadig bruge { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Du bruger et usikkert og forældet styresystem, <a href="{ $url }">der ikke længere understøttes af { -brand-name-firefox }</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mere end en browser.
+firefox-desktop-download-interrupted = Hentning af din fil blev afbrudt. Men alt er ikke tabt.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Følg <a href="{ $url }">vejledningen</a> for at installere { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Dit system opfylder måske ikke kravene til { -brand-name-firefox }, men du kan prøve en af <a href="{ $url }">disse versioner</a>.
