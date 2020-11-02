@@ -65,6 +65,7 @@ does-firefox-use = { -brand-name-firefox } utilizza { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } è il motore di ricerca predefinito di { -brand-name-firefox }; questo ti permette di usarlo per effettuare ricerche nel Web direttamente dalla barra degli indirizzi. <a href="{ $url }">Scopri di più sulle preferenze relative ai motori di ricerca e come modificare le impostazioni predefinite.</a>
 does-firefox-have = { -brand-name-firefox } ha una VPN integrata?
 
 # Variables:
@@ -80,3 +81,4 @@ who-owns-firefox = Chi è il proprietario di { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } è realizzato da { -brand-name-mozilla-corporation }, una consociata interamente controllata dell’organizzazione senza fini di lucro <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ed è guidato dai principi del Manifesto di { -brand-name-mozilla }. Ulteriori informazioni sui realizzatori di { -brand-name-firefox } <a href="{ $url2 }">qui.</a>
+related-questions-who = Domande correlate: chi possiede { -brand-name-firefox }, di chi è il { -brand-name-firefox-browser }, { -brand-name-firefox } è di proprietà di { -brand-name-google }, { -brand-name-mozilla } { -brand-name-firefox } è di proprietà di { -brand-name-google }

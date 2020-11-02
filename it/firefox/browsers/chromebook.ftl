@@ -12,6 +12,7 @@ browsers-chromebook-get-firefox-browser = Scarica il { -brand-name-firefox-brows
 browsers-chromebook-so-youve-got = Se utilizzi un { -brand-name-chromebook }, è giunto il momento di proteggere i tuoi dati personali installando il { -brand-name-firefox-browser }, indipendente e privato per impostazione predefinita.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Scarica { -brand-name-firefox } per { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Scarica { -brand-name-firefox } Desktop per { -brand-name-chromebook }
+browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } basato su x86 con { -brand-name-chromeos } 80 o successivo
 browsers-chromebook-dropdown-copy = Scarica { -brand-name-firefox } per { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Perché scaricare e installare  <span>{ -brand-name-firefox }</span> per { -brand-name-chromebook }?
