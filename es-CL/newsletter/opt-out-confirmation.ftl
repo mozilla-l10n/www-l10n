@@ -18,6 +18,7 @@ opt-out-confirmation-prefer-to-get = ¿Prefieres obtener información de otra ma
 opt-out-confirmation-check-out-our = Revisa nuestros blogs
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Obtener ayuda
+opt-out-confirmation-subscribe-to = Suscríbete para recibir periódicamente noticias de { -brand-name-firefox }
 # Link to https://www.instagram.com/mozilla/
 opt-out-confirmation-instagram = { -brand-name-instagram }
 # Link to https://www.youtube.com/firefoxchannel
