@@ -66,6 +66,14 @@ newsletters-im-keeping-in-touch = Aimeseve { -brand-name-mozilla } ndive { -bran
 newsletters-sign-up-read-up-stay-informed = Eñemboheraguapy,<br> eñomomarandu.
 # Obsolete string
 newsletters-sign-up-read-up-make-a-difference = Eñemboheraguapy. Eñomomarandu. <br>Eñemoambue.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Eikuaapa opaite nde rapykuere ñandutípe.
+newsletters-your-email-preferences = Ne ñanduti veve erohoryvéva hekopyahúma hekopete.
+newsletters-consider-it-done = Eréntema oĩmbáma
+newsletters-back-to-email-preferences = Ejevyjey ñandutiveve erohoryvévape
+newsletters-take-your-privacy = Egueraha ne ñemigua nendive
+newsletters-travel-the-internet = Eikundaha ñandutípe ñemo’ãme opaite mba’e’okápe.
+newsletters-download-the-app = Emboguejy tembipuru’i
 newsletters-sign-in-to-monitor = Eñepyrũ tembiapo { -brand-name-monitor }-pe
 newsletters-meet-our-parent-brand = Eikuaa ore marca guasu
 # Name for the newsletter in Newsletter subscription page
