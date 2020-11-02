@@ -137,8 +137,12 @@ newsletters-student-reps = Student Reps
 newsletters-former-university-program = El antiguo programa universitario del 2008 al 2011, ahora retirado y relanzado como Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Actúa en favor de Internet
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Suma tu voz a las peticiones, eventos e iniciativas que luchan por el futuro de la web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Probar un nuevo producto
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Ayúdanos a crear un { -brand-name-firefox } mejor para ti probando nuestros productos y funcionalidades más recientes.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Comunidad { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
@@ -161,6 +165,10 @@ newsletters-read-about-the-latest-features = Lee todo acerca de las últimas fun
 newsletters-download-firefox-for-android = Baja { -brand-name-firefox } para { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-firefox-for-android = Obtén { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Baja { -brand-name-firefox } para { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Baja { -brand-name-firefox } para móviles
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
