@@ -9,6 +9,7 @@
 opt-out-confirmation-cool-we-hear = Oĩma. Ani ejepy’apy.
 # HTML page descripiton
 opt-out-confirmation-youre-now-opted = Ko’ág̃a guive nog̃uahẽvéitama ne ñanduti vevépe ne mba’ete ñemboheko rehegua.
+opt-out-confirmation-youll-continue = Upéicharõ jepe, og̃uahẽta gueteri ambue ñanduti veve emoneĩva’ekue, ñembohekopyahu tapia ndive ojogueraháva ne mba’ete ndive. Emboguatapa hag̃ua opaite moheraguapy, emoinge ne ñandutiveve kundaharape roikuaa hag̃ua roñe’ẽpa ijaraite ndive.
 # Field of a form
 opt-out-confirmation-your-email = Ne ñanduti veve kundaharape:
 # Only localize "yourname". Do not touch @example.com.
