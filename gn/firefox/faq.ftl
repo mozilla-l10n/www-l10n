@@ -47,6 +47,7 @@ does-firefox-sell = ¿{ -brand-name-firefox } ohepyme’ẽ ne mba’ekuaarã te
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Ndajapói araka’eve, araka’eve ndajapomo’ãi. Ha romo’ãta heta maranduñemurã ojapóvagui. Umi { -brand-name-firefox } apopyre oñemboguata omo’ã hag̃ua ne ñemigua. <a href="{ $url }">Péva rojapóta.</a>
 why-is-firefox = ¿Mba’ére { -brand-name-firefox } imbeguete?
 is-firefox-chromium = ¿{ -brand-name-firefox } ojeko { -brand-name-chromium } rehe?
 does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?

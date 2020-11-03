@@ -12,6 +12,7 @@ the-history-of = Ñanduti kundahára rembiasakue
 firefox-has-been = { -brand-name-firefox } oĩ nendive ñepyrũhaite guive.
 firefox-rebel-with = { -brand-name-firefox }: Oñemoaña ojehekáre chupe
 what-is-a = ¿Mba’e Ñanduti kundahára?
+a-web-browser = Peteĩ kundahára ndereraha oimeraẽva ñanduti rendápe, ohechaukakuaáva moñe’ẽrã, ta’ãnga ha ta’ãngamýi arapy tuichakue javegua.
 update-your-browser = Embohekopyahu ne kundahára { -brand-name-firefox } ipya’e, hekorosã ha iñemo’ã hag̃ua.
 firefox-is-more = { -brand-name-firefox } ndaha’éi kundahára año
 its-a-lightning = Ha’e peteĩ okẽ ipya’etereíva tembiaporã ñandutípe g̃uarã.
