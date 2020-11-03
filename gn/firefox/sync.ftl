@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-privacy-made-easy = Ñemigua momichĩmbyre
+firefox-sync-all-you-need = Opamba’e eikotevéva { -brand-name-firefox-sync } peg̃uarã ha’e { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Embopapapy ne mba’ekuaarã
 firefox-sync-feel-safe = Eñeñandu tekorosãme
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
