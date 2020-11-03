@@ -8,6 +8,7 @@
 page-title = Emboguejy { -brand-name-firefox-quantum }
 page-description = { -brand-name-firefox-quantum } oporomongu’epaite. Ary 2017-pe, romoheñói kundahára ipya’erasáva iporãvéva ko’ẽreíre. { -brand-name-firefox-quantum } ha’e { -brand-name-firefox-browser }.
 the-latest-firefox = { -brand-name-firefox } mongu’eha pyahu: { -brand-name-firefox-quantum }
+firefox-quantum-was = { -brand-name-firefox-quantum } oporomongu’epaite { -brand-name-firefox } ñemboguatápe. Ary 2017-pe, romoheñói kundahára pyahu ha ipya’éva iporãvéva ko’ẽreíre. { -brand-name-firefox-quantum } ha’e { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Eikuaave { -brand-name-firefox-quantum } rehegua
 privacy-first = Ñemigua tenondete

@@ -30,6 +30,7 @@ is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Mba’éicha oñemoñondive { -brand-name-firefox } { -brand-name-chrome } ndive.</a>
+related-questions-better = Porandu ojokupytýva: { -brand-name-firefox } iporãve { -brand-name-chrome }-gui, { -brand-name-firefox } iporãve { -brand-name-google }-gui, { -brand-name-firefox } hekorosãve { -brand-name-chrome }-gui, { -brand-name-firefox } hekoñemive { -brand-name-chrome }-gui
 is-firefox-safe-download = ¿Hekorosãpa { -brand-name-firefox } mboguejy?
 
 # Variables:
@@ -40,6 +41,7 @@ is-firefox-safe = ¿Hekorosãpa { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = Porandu ojokupytýva: { -brand-name-firefox } iporãve tekoñemíme, hekorosã, ha iporãve ñemiguápe
 does-firefox-sell = ¿{ -brand-name-firefox } ohepyme’ẽ ne mba’ekuaarã teéva?
 
 # Variables:
