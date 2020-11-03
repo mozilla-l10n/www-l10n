@@ -14,6 +14,7 @@ newsletters-read-all-about-it-in-our-newsletter = Emoñe’ẽmba marandu Firefo
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Emoneĩ haipyre’i
 newsletters-thanks-for-subscribing = ¡Aguyje eñemboheraguapýre!
+newsletters-the-supplied-link-has-expired = Ndoikovéima juajuha eme’ẽmbyre. Og̃uahẽta ipyahúva jehaipyre’i oútavape.
 newsletters-youre-awesome = ¡Ajépa nde rekoporã!
 # Form field label
 newsletters-your-email-address = Ne ñanduti veve kundaharape:
@@ -35,6 +36,8 @@ newsletters-save-preferences = Jerohoryvéva ñongatu
 newsletters-newsletter-email-recovery = Haipyre’i ñanduti veve jeguerujey
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Eñangareko ne <span>Ñemboheraguapy jehaipyre’i pegua</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Ehai ne ñanduti veve kundaharape ha romondóta juajuha eguerohoryvéva ñanduti vevépe.
 newsletters-send-me-a-link = Embou chéve juajuha
 newsletters-youve-been-unsubscribed = Eipe’áma ñemboheraguapy.
 newsletters-were-sorry-to-see-you-go = Rombyasy esẽ haguére.
