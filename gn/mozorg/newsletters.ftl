@@ -33,6 +33,8 @@ newsletters-remove-me-from-all-the = Aipe’apáta che ñemboheraguapy ko kuatia
 newsletters-save-preferences = Jerohoryvéva ñongatu
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-newsletter-email-recovery = Haipyre’i ñanduti veve jeguerujey
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = Eñangareko ne <span>Ñemboheraguapy jehaipyre’i pegua</span>
 newsletters-send-me-a-link = Embou chéve juajuha
 newsletters-youve-been-unsubscribed = Eipe’áma ñemboheraguapy.
 newsletters-were-sorry-to-see-you-go = Rombyasy esẽ haguére.
