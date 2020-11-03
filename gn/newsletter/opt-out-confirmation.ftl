@@ -7,6 +7,8 @@
 
 # HTML page title
 opt-out-confirmation-cool-we-hear = Oĩma. Ani ejepy’apy.
+# HTML page descripiton
+opt-out-confirmation-youre-now-opted = Ko’ág̃a guive nog̃uahẽvéitama ne ñanduti vevépe ne mba’ete ñemboheko rehegua.
 # Field of a form
 opt-out-confirmation-your-email = Ne ñanduti veve kundaharape:
 # Only localize "yourname". Do not touch @example.com.
