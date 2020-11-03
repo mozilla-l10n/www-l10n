@@ -19,3 +19,6 @@ firefox-sync-open-the-menu = Abrí el menú en la parte superior derecha de { -b
 firefox-sync-click-get-started = Hacé clic en <strong>"Comenzar"</strong> en la pestaña que se abre.
 enter-an-email = Ingresá una dirección de correo electrónico y contraseña para <strong>"Crear una { -brand-name-firefox-account }."</strong>
 firefox-sync-click-next-to = Hacé clic en <strong>"Siguiente"</strong> para obtener una verificación enviada a tu correo electrónico.
+firefox-sync-after-you-check = Después de ver tu correo electrónico y hacer clic en el enlace de verificación, { -brand-name-firefox } se sincronizará automáticamente en segundo plano.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Más ayuda para administrar tu { -brand-name-firefox-account }
