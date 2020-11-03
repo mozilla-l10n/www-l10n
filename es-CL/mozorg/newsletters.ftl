@@ -84,25 +84,34 @@ newsletters-you-send-too-many-emails = Recibo demasiados correos.
 newsletters-your-content-wasnt-relevant = El contenido no me parecía relevante.
 newsletters-your-email-design = El diseño del correo no facilitaba la lectura.
 newsletters-i-didnt-sign-up = No me di de alta en esta suscripción.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Suscríbete, lee,<br> mantente informado.
 # Obsolete string
 newsletters-sign-up-read-up-make-a-difference = Suscríbete. Lee.<br> Marca la diferencia.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Entérate de los problemas que afectan a tu vida en línea.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Recibe el boletín de noticias de { -brand-name-mozilla } para estar informado sobre temas que desafían la salud de Internet y para descubrir cómo puedes involucrarte.
 newsletters-your-email-preferences = Tus preferencias de correo se han actualizado correctamente.
 newsletters-consider-it-done = Considéralo hecho
 newsletters-back-to-email-preferences = Regresar a referencias de correo
+newsletters-here-are-a-few-things = Aquí tienes algunas cosas en las que profundizar mientras estás esperando tu próximo correo.
 newsletters-take-your-privacy = Lleva tu privacidad contigo
 newsletters-travel-the-internet = Viaja por internet con protección en todos tus dispositivos.
 newsletters-download-the-app = Bajar la app
 newsletters-check-for-data-breaches = Busca filtraciones de datos
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } es un servicio gratuito que te permite saber si te viste involucrado en una filtración de datos en línea.
 newsletters-sign-in-to-monitor = Conéctate en { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Conozca nuestra marca matriz
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, la organización sin fines de lucro detrás de { -brand-name-firefox }, pone a las personas por encima del beneficio en todo lo que decimos, construimos y hacemos.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Acerca de los estándares
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = Desarrollo de complementos
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Boletín para desarrolladores
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Una guía para desarrolladores que incluye los aspectos más destacados de las innovaciones de la plataforma web, las mejores prácticas, la última documentación y mucho más.
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Grupo de noticias Drumbeat
 # Name for the newsletter in Newsletter subscription page
@@ -115,6 +124,8 @@ newsletters-get-involved = Participa
 newsletters-insights = Puntos de vista
 # Obsolete string
 newsletters-internet-health-report = Informe de salud de Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publica artículos y profundiza en temas relacionados con la salud de Internet y la IA confiable, incluyendo nuestro Informe anual de salud de Internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = El conocimiento es poder
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
