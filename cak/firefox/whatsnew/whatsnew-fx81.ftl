@@ -17,3 +17,4 @@ whatsnew81-scan-this-qr-code = Tatz'ajwachib'ej re QR b'itz'ib' richin naqasaj
 whatsnew81-the-new-firefox-for-android = Ri K'AK'A' { -brand-name-firefox } richin { -brand-name-android } wawe' k'o wi
 whatsnew81-our-latest-for-android-has = Ri ruk'isib'äl ruwa { -brand-name-android } k'ïy jeb'ël chuqa' na'owinäq taq rusamaj – achi'el jun rukajtz'ik kanoxïk siloxel. Re re' ruma chi juyonil okik'amaya'l chuqa' at k'o chi qak'u'x.
 whatsnew81-make-firefox-your-everyday = Tab'ana' { -brand-name-firefox } ri nab'ey awokik'amaya'l pa { -brand-name-ios }
+whatsnew81-attention-iphone-people = Tiwak'axaj { -brand-name-iphone } ruwinaq: pa { -brand-name-ios } 14, pa ruk'sib'äl yatikïr nab'än runuk'ulem { -brand-name-firefox } achi'el ri okik'amaya'l k'o wi jantape'. Tatz'eta' chi k'o awik'in ri ruk'isib'äl ruwa { -brand-name-firefox } richin { -brand-name-ios }
