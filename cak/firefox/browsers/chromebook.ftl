@@ -19,6 +19,7 @@ browsers-chromebook-why-get-firefox = ¿Aruma toq k'o chi nik'ul <span>{ -brand-
 browsers-chromebook-while-a-chromebook = Jun { -brand-name-chromebook } k'o chik { -brand-name-chrome } ruyakon richin niqasäx chuqa' nokisäx { -brand-name-firefox } ruma chi awokik'amaya'l nub'än jujun taq rutzil chawäch:
 browsers-chromebook-alwayson-tracking-protection = Tzijon chik pe ri chajinïk chuwäch ojqanem, { -brand-name-firefox } nusamajij ri Nimirisan Chajinïk chuwäch Ojqanem (ETP) richin ye'achajij ri taq atzij chi kiwa ri rojqanela' eltzijol etaman kiwa, aj winäq ojqanela' chuqa' ruskript kriptominer yatkojqaj pa ajk'amaya'l.
 browsers-chromebook-is-it-hard = ¿La k'ayew niyak { -brand-name-firefox } richin { -brand-name-chromebook }?
+browsers-chromebook-install-firefox-from = Tiyak { -brand-name-firefox } k'o pa { -brand-name-google-play } Store: pa k'ak'a' ruwa { -brand-name-chromeos } (x86 xe'elin { -brand-name-chromebook } rik'in { -brand-name-chromeos } 80 o chi rij), yatikïr nacha' nayäk ri chokoy { -brand-name-firefox } richin { -brand-name-android } chokoy. Re chokoy re' nuk'un richin oyonib'äl taq okisab'äl.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
