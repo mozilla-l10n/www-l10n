@@ -48,10 +48,17 @@ is-firefox-safe = A është i parrezik { -brand-name-firefox }-i?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Jo vetëm që { -brand-name-firefox }-i është i parrezik për t’u përdoru, ai ndihmon gjithashtu të mbahen të parrezik dhënat tuaja dhe informacione private. { -brand-name-firefox-browser }-i u bllokon automatikisht grumbullimin e të dhënave tuaja gjurmuesve palë e tretë, gjurmuesve mediash shoqërore, nxjerrësve të kriptomonedhave dhe profilizuesve të ditur. <a href="{ $url }">Mësoni rreth privatësisë në produktet tona.</a>
+related-questions-safe = Pyetje të afërta: a është i mirë për privatësi { -brand-name-firefox }-i, a është i sigurt { -brand-name-firefox }-i, a është { -brand-name-firefox }-i më i mirë për privatësi
+does-firefox-sell = A i shet { -brand-name-firefox }-i të dhënat tuaja personale?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Jo. Kurrë s’e ka bërë, as do ta bëjë kurrë. Dhe ju mbrojmë prej mjaft reklamuesish që e bëjnë. Produktet { -brand-name-firefox } janë konceptuar për të mbrojtur privatësinë tuaj. <a href="{ $url }">Ju premtojmë.</a>
+why-is-firefox = Pse është kaq i ngadaltë { -brand-name-firefox }-i?
+firefox-isnt-slow = { -brand-name-firefox } s’është i ngadaltë… tanimë. Më 2017-n, e rindërtuam tërësisht motorin tonë të kërkimeve (të quajtur Quantum), për të siguruar që { -brand-name-firefox }-i të mund të konkurronte me të tjerë shfletues të njohur. Dhe, bllokuesi ynë i gjurmuesve i ndihmon faqet të ngarkohen edhe më shpejt. Ndaj, { -brand-name-firefox }-i është i shpejtë si rrufe pa sakrifikuar gjë nga privatësia juaj.
+is-firefox-chromium = A bazohet { -brand-name-firefox }-i në { -brand-name-chromium }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
