@@ -73,6 +73,8 @@ does-firefox-have = A përmban { -brand-name-firefox }-i një VPN të brendshëm
 # $url2 (url) - link to https://vpn.mozilla.org/
 
 firefox-does-not = { -brand-name-firefox } s’ka ndonjë VPN (virtual private network) të brendshëm, por ka dy produkte të krijuar nga { -brand-name-mozilla }/{ -brand-name-firefox } që mund të përdorni si shtesë ndaj { -brand-name-firefox-browser }-it privat që mund të mbrojë lidhjen nën WiFi qoftë të shfletuesit tuaj (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>), qoftë një pajisje (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) , si dhe adresën tuaj IP.
+related-questions-ip = Pyetje të afërta: a e fsheh { -brand-name-firefox }-i adresën tuaj IP
+who-owns-firefox = Pronë e kujt është { -brand-name-firefox }-i?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
