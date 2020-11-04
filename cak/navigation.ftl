@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } richin { -brand-name-fi
 navigation-watch-videos-and-browse = Ke'atz'eta' taq silowäch chuqa' katok pa k'amaya'l rik'in ri { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = { -brand-name-firefox } okik'amaya'l nab'ey nuya' ruq'ij ri awichinanem — jantape' ke ri kib'anon.
 navigation-take-the-passwords-youve = Ke'ak'waj ri ewan taq atzij e'ayakon pa { -brand-name-firefox } xab'akuchi' yab'e.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } jun jalajöj tikojil, ri enuk'un richin ye'ojqäx na'owinäq taq na'oj chuqa' richin yalan nachajij awi' pa k'amab'ey.
 navigation-join-firefox = Tatunu' awi' rik'in { -brand-name-firefox }
 navigation-access-all-of-firefox = Katok pa ronojel taq rusamaj ri { -brand-name-firefox } rik'in juyonil rutikirisaxik molojri'ïl — richin nak'ül k'ïy taq kutzil jujun taq tikomal.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Tik'ul { -brand-name-firefox-focus }
 navigation-android-extensions = Kik'amaya'l { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } awichin
 navigation-make-the-most-of-your = Ütz tatz'eqelb'ej ri awetamab'al rik'in ri { -brand-name-firefox } pa ronojel awokisab'al.
+# Outdated string
 navigation-learn-how-to-customize = Tawetamaj nawichinaj rub'eyal nisamäj ri { -brand-name-firefox }.
+navigation-explore-the-immersive = Tatz'eta' ri ajchijun ajk'amaya'l rik'in ri kematz'ib'il ak'aslemal.
+# Outdated string
 navigation-experience-augmented = Tana' ri nimirisan chuqa' kematz'ib'anel ruwäch rik'in ri { -brand-name-firefox }.
+navigation-get-together = Tamolo' awi' pa kematz'ib'il ak'aslemalil rik'in re aj winäq k'ojlemal pa k'amab'ey.
+# Outdated string
 navigation-meet-people-in-experimental = Rik'in ri { -brand-name-firefox } nawetamaj kiwäch winaqi' pa tojtob'enel taq ruchat Ka'i' Ruwäch.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Qitzij K'aslemalil
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } ruk'amon pe ri qitzij kematz'ib'il chuqa' ri nïm k'aslemalil pa jaqäl ajk'amaya'l.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } nuk'äm pe ri { -brand-name-firefox } pa ri nimirisan ruwäch chuqa' kematz'ib'anel.
 navigation-firefox-built-just-for = { -brand-name-firefox }, b'anon xa xe kichin b'anonela'.
 navigation-preview-the-latest-build = Tak'ulu' jun nab'ey ruwäch ri ruk'isib'äl ruwäch { -brand-name-firefox } chuqa' kojato' chi tutzïr el.
@@ -64,6 +74,9 @@ navigation-security-tips = Jikomal taq Na'oj
 navigation-share-large-files-safely = Ütz ke'akomonij nima'q taq yakb'äl rik'in taq ximoj ri ‘yeyujtäj-kiyon’.
 navigation-save-quality-content = Ke'ayaka' ütz taq rupam xab'akuchi'. Tayaka' ana'ojib'al xab'akuchi' at k'o wi.
 navigation-sign-up = Tatz'ib'aj Awi'
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Anin. Relik. Ichinan.
+navigation-protect-your-entire-device = Tachajij ri awokisab'al chuqa' ronojel ri taq achokoy. Tawewaj ri qitzij ak'ojlemal chuqa' ke'atzija' k'a 5 taq okisab'äl. Tatz'ib'aj awi' wakami.
+# Outdated string
 navigation-connected-and-protected = Okisan chuqa' chajin
 navigation-join = Tatunu' pe awi'
 navigation-close-join-menu = Titz'apïx ri k'utsamaj Tatunu' pe awi'
@@ -76,11 +89,15 @@ navigation-meet-the-technology-company = Tawetamaj ruwäch ri na'ob'anel moloj n
 navigation-new-features = K'ak'a' taq Samaj
 navigation-save-content-absorb-knowledge = Tayaka' Na'oj. Tak'ama' etamab'äl.
 navigation-same-speed-and-safety = Junam ranim chuqa' ri jikomal akuqub'an ak'u'x chi rij, nuk'un xa xe kichin taq k'ayij-loq'oj.
+# Outdated string
 navigation-add-ons = Taq tz'aqat
 navigation-projects = Taq nimasamaj
 navigation-close-projects-menu = Titz'apïx ri kik'utsamaj taq Nimasamaj
 navigation-donate-your-voice-to = Tasipaj ach'ab'äl richin yato'on chi ri retamaxik ch'ab'äl jaqäl chi qawäch qonojel.
+navigation-machine-learning = Machine Learning
+# Outdated string
 navigation-web-of-things-iot = Kajk'amaya'l taq Wachinäq (IoT)
+# Outdated string
 navigation-make-devices-connected = Tib'an chi ri taq okisab'äl e'okisan pa k'amaya'l e jikïl, kuqel k'uxaj chuqa' e samajel.
 navigation-developers = B'anonela'
 navigation-close-developers-menu = Titz'apïx kik'utsamaj B'anonela'
