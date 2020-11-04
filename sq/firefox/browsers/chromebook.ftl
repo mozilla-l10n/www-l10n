@@ -18,6 +18,8 @@ browsers-chromebook-dropdown-copy = Merrni { -brand-name-firefox }-in për { -br
 browsers-chromebook-why-get-firefox = Pse të merret <span>{ -brand-name-firefox }</span> për { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Teksa një { -brand-name-chromebook } përmban tashmë { -brand-name-chrome } të instaluar, shkarkimi dhe përdorimi i { -brand-name-firefox }-i si shfletuesi juaj ju sjell paksa përfitime:
 browsers-chromebook-alwayson-tracking-protection = Mbrojtje e përhershme nga gjurmimi: { -brand-name-firefox }-i, si parazgjedhje xhiron Mbrojtje të Thelluar Nga Gjurmimet (ETP) për të mbrojtur të dhënat tuaja personale nga gjurmues të njohur reklamash, gjurmues sajtesh shoqërorësh dhe programthe përftimi kriptomonedhash që ju ndjekin nëpër internet.
+browsers-chromebook-supporting-independent-technology = Përkrahje teknologjish të pavarura: ngaqë shumica e shfletuesve të rëndësishëm tani xhirojnë nën { -brand-name-chromium }, ka më pak mundësi që nuk ushqejnë makinën Big Tech. { -brand-name-firefox }-i ka prapa një ent jofitimprurës dhe i është përkushtuar ndreqjes së internetit. Përdorimi i { -brand-name-firefox }-it ju bën një pjesë të kësaj pune.
+browsers-chromebook-is-it-hard = A është e vështirë të instalohet { -brand-name-firefox }-i për { -brand-name-chromebook }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
