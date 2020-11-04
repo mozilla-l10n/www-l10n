@@ -59,15 +59,20 @@ nope-never-have = Jo. Kurrë s’e ka bërë, as do ta bëjë kurrë. Dhe ju mbr
 why-is-firefox = Pse është kaq i ngadaltë { -brand-name-firefox }-i?
 firefox-isnt-slow = { -brand-name-firefox } s’është i ngadaltë… tanimë. Më 2017-n, e rindërtuam tërësisht motorin tonë të kërkimeve (të quajtur Quantum), për të siguruar që { -brand-name-firefox }-i të mund të konkurronte me të tjerë shfletues të njohur. Dhe, bllokuesi ynë i gjurmuesve i ndihmon faqet të ngarkohen edhe më shpejt. Ndaj, { -brand-name-firefox }-i është i shpejtë si rrufe pa sakrifikuar gjë nga privatësia juaj.
 is-firefox-chromium = A bazohet { -brand-name-firefox }-i në { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox }-i nuk bazohet në { -brand-name-chromium } (projekti me burim të hapur i shfletuesit në zemër të { -brand-name-google } { -brand-name-chrome }). Në fakt, ne jemi një nga shfletuesit e fundit të rëndësishëm të mbetur që nuk bazohemi në të. { -brand-name-firefox }-i xhiron mbi motorin tonë të kërkimeve Quantum të ndërtuar posaçërisht për { -brand-name-firefox }-in, ndaj mund të garantojmë që të dhënat tuaja trajtohen me respekt dhe mbahen private.
+does-firefox-use = A përdor { -brand-name-firefox }-i { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } është motori parazgjedhje i kërkimeve në { -brand-name-firefox }, që do të thotë se mund të kërkoni në internet drejt e nga shtylla e adresave. <a href="{ $url }">Mësoni më tepër rreth parapëlqimeve për motor kërkimesh dhe ndryshimet të parazgjedhjeve.</a>
+does-firefox-have = A përmban { -brand-name-firefox }-i një VPN të brendshëm?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } s’ka ndonjë VPN (virtual private network) të brendshëm, por ka dy produkte të krijuar nga { -brand-name-mozilla }/{ -brand-name-firefox } që mund të përdorni si shtesë ndaj { -brand-name-firefox-browser }-it privat që mund të mbrojë lidhjen nën WiFi qoftë të shfletuesit tuaj (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>), qoftë një pajisje (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) , si dhe adresën tuaj IP.
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
