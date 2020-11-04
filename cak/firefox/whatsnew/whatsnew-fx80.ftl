@@ -15,4 +15,5 @@ whatsnew80-primary-cta-description = Tatz'ib'aj ri ataqoya'l o rajilab'al awoyon
 # content buckets below hero
 whatsnew80-password-fatigue = Qitzij ri rukoxik ewan tzij
 whatsnew80-the-average-person = Jun winäq k'o 130 rutaqoya'l pa k'amab'ey. { -brand-name-firefox } richin oyonib'äl nunataj chuqa' nuyäk ru ewan taq atzij pa jikïl rub'anikil chi kikojol ri okisab'äl exion, ruma ri' yatikïr yatok pa ri taq ruxaq xa xe rik'in jun pitz'oj.
+whatsnew80-privacy-you-never = Ichinanem majun mayoj ruk'amon pe
 whatsnew80-new-firefox-android = K'ak'a' { -brand-name-firefox } richin { -brand-name-android }
