@@ -17,6 +17,8 @@ browsers-chromebook-dropdown-copy = Tichinäx { -brand-name-firefox } richin { -
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ¿Aruma toq k'o chi nik'ul <span>{ -brand-name-firefox }</span> richin { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Jun { -brand-name-chromebook } k'o chik { -brand-name-chrome } ruyakon richin niqasäx chuqa' nokisäx { -brand-name-firefox } ruma chi awokik'amaya'l nub'än jujun taq rutzil chawäch:
+browsers-chromebook-alwayson-tracking-protection = Tzijon chik pe ri chajinïk chuwäch ojqanem, { -brand-name-firefox } nusamajij ri Nimirisan Chajinïk chuwäch Ojqanem (ETP) richin ye'achajij ri taq atzij chi kiwa ri rojqanela' eltzijol etaman kiwa, aj winäq ojqanela' chuqa' ruskript kriptominer yatkojqaj pa ajk'amaya'l.
+browsers-chromebook-is-it-hard = ¿La k'ayew niyak { -brand-name-firefox } richin { -brand-name-chromebook }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
