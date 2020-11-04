@@ -36,10 +36,14 @@ is-firefox-safe = ¿La jikïl ri { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = ¿La yeruk'ayij ri taq atzij ri { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = ¿Achike eqal nisamäj { -brand-name-firefox }?
+is-firefox-chromium = ¿La k'o ruxe'el ri { -brand-name-firefox } rik'in ri { -brand-name-chromium }?
+does-firefox-use = ¿La nrokisaj ri { -brand-name-google } ri { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -49,6 +53,7 @@ is-firefox-safe = ¿La jikïl ri { -brand-name-firefox }?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+who-owns-firefox = ¿Achike ri rajaw { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
