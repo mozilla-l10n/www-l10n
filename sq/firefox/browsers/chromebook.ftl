@@ -16,6 +16,8 @@ browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } me bazë *
 browsers-chromebook-dropdown-copy = Merrni { -brand-name-firefox }-in për { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Pse të merret <span>{ -brand-name-firefox }</span> për { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Teksa një { -brand-name-chromebook } përmban tashmë { -brand-name-chrome } të instaluar, shkarkimi dhe përdorimi i { -brand-name-firefox }-i si shfletuesi juaj ju sjell paksa përfitime:
+browsers-chromebook-alwayson-tracking-protection = Mbrojtje e përhershme nga gjurmimi: { -brand-name-firefox }-i, si parazgjedhje xhiron Mbrojtje të Thelluar Nga Gjurmimet (ETP) për të mbrojtur të dhënat tuaja personale nga gjurmues të njohur reklamash, gjurmues sajtesh shoqërorësh dhe programthe përftimi kriptomonedhash që ju ndjekin nëpër internet.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
