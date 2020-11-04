@@ -16,6 +16,7 @@ browsers-chromebook-x86-based-chromebook = *x86 ruxe'elan { -brand-name-chromebo
 browsers-chromebook-dropdown-copy = Tichinäx { -brand-name-firefox } richin { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ¿Aruma toq k'o chi nik'ul <span>{ -brand-name-firefox }</span> richin { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Jun { -brand-name-chromebook } k'o chik { -brand-name-chrome } ruyakon richin niqasäx chuqa' nokisäx { -brand-name-firefox } ruma chi awokik'amaya'l nub'än jujun taq rutzil chawäch:
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
