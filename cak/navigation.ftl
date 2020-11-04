@@ -97,6 +97,7 @@ navigation-donate-your-voice-to = Tasipaj ach'ab'äl richin yato'on chi ri retam
 navigation-machine-learning = Machine Learning
 # Outdated string
 navigation-web-of-things-iot = Kajk'amaya'l taq Wachinäq (IoT)
+navigation-help-make-deep-learning = Kato'on chi ri taq retamaxik alworitmo' kek'oje' pa kik'ojlemal ri jaqäl b'itz'ib'.
 # Outdated string
 navigation-make-devices-connected = Tib'an chi ri taq okisab'äl e'okisan pa k'amaya'l e jikïl, kuqel k'uxaj chuqa' e samajel.
 navigation-developers = B'anonela'
