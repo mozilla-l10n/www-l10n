@@ -9,7 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Estynnwch { -brand-name-firefox-browser } ar gyfer { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = Felly, mae gennych chi { -brand-name-chromebook } - nawr mae'n bryd cael y porwr annibynnol, preifat yn awtomatig { -brand-name-firefox- } i ddiogelu eich data personol.
+browsers-chromebook-so-youve-got = Felly, mae gennych chi { -brand-name-chromebook } - nawr mae'n bryd cael y porwr annibynnol, preifat yn awtomatig { -brand-name-firefox-browser } i ddiogelu eich data personol.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Estynnwch { -brand-name-firefox } { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Estynnwch { -brand-name-firefox } Bwrdd Gwaith ar gyfer { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } yn seiliedig ar * x86 yn rhedeg { -brand-name-chromeos } 80 neu'n hwyrach
