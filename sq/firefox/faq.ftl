@@ -80,3 +80,5 @@ who-owns-firefox = Pronë e kujt është { -brand-name-firefox }-i?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox }-i është krijuar nga { -brand-name-mozilla-corporation }, një nëndegë në pronësi të plotë e entit jofitimprurës <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> dhe udhëhiqet nga parimet e Manifestit { -brand-name-mozilla }. Mësoni më tepër rreth krijuesit të { -brand-name-firefox }-it <a href="{ $url2 }">këtu.</a>
+related-questions-who = Pyetje të afërta: pronë e kujt është { -brand-name-firefox }-i, kush e ka pronë { -brand-name-firefox-browser }, a është { -brand-name-firefox }-i pronë e { -brand-name-google }, a është { -brand-name-mozilla } { -brand-name-firefox } pronë e { -brand-name-google }
