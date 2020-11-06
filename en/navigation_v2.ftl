@@ -10,10 +10,10 @@ navigation-v2-menu = Menu
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox } Browsers
-navigation-v2-close-firefox-browsers-menu = Close { -brand-name-firefox } Browsers menu
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Close { -brand-name-firefox-browsers } menu
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } for Desktop
-navigation-v2-get-the-non-profit-backed = Get the non-profit-backed browser on { -brand-name-windows }, { -brand-name-mac-short } or { -brand-name-linux }.
+navigation-v2-get-the-not-for-profit-backed = Get the not-for-profit-backed browser on { -brand-name-windows }, { -brand-name-mac-short } or { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Get the customizable mobile browser for { -brand-name-android } smartphones.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
@@ -21,10 +21,10 @@ navigation-v2-get-the-mobile-browser = Get the mobile browser for your { -brand-
 navigation-v2-privacy-promise = Privacy Promise
 navigation-v2-learn-how-firefox-treats = Learn how { -brand-name-firefox } treats your data with respect.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
-navigation-v2-read-about-new-firefox-features = Read about new Firefox features and ways to stay safe online.
+navigation-v2-read-about-new-firefox-features = Read about new { -brand-name-firefox } features and ways to stay safe online.
 navigation-v2-release-notes = Release Notes
 navigation-v2-get-the-details-on-the = Get the details on the latest { -brand-name-firefox } updates.
-navigation-v2-view-all-firefox-browsers = View all { -brand-name-firefox } Browsers
+navigation-v2-view-all-firefox-browsers = View all { -brand-name-firefox-browsers }
 
 ## Products menu
 
@@ -35,11 +35,11 @@ navigation-v2-see-if-your-email-has = See if your email has appeared in a compan
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Save and discover the best stories from across the web.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
-navigation-v2-help-prevent-facebook-from = Help prevent Facebook from collecting your data outside their site.
+navigation-v2-help-prevent-facebook-from = Help prevent { -brand-name-facebook } from collecting your data outside their site.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Get protection beyond your browser, on all your devices.
 navigation-v2-product-promise = Product Promise
-navigation-v2-learn-how-each-firefox-product = Learn how each Firefox product protects and respects your data.
+navigation-v2-learn-how-each-firefox-product = Learn how each { -brand-name-firefox } product protects and respects your data.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Sign up for new accounts without handing over your email address.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
@@ -53,7 +53,7 @@ navigation-v2-close-who-we-are-menu = Close Who We Are menu
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 navigation-v2-learn-about-the-values = Learn about the values and principles that guide our mission.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
-navigation-v2-meet-the-non-profit-behind = Meet the non-profit behind { -brand-name-firefox } that stands for a better web.
+navigation-v2-meet-the-not-for-profit-behind = Meet the not-for-profit behind { -brand-name-firefox } that stands for a better web.
 navigation-v2-get-involved = Get involved
 navigation-v2-join-the-fight-for-a = Join the fight for a healthy internet.
 navigation-v2-leadership = Leadership
