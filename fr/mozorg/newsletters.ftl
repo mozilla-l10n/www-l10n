@@ -111,6 +111,11 @@ newsletters-sign-up-read-up-make-a-difference = Inscrivez-vous. Informez-vous. <
 newsletters-get-smart-on-the-issues = Devenez incollable sur les problématiques qui touchent à votre vie numérique.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Recevez la lettre d’information { -brand-name-mozilla } pour vous tenir au courant des problèmes qui menacent la bonne santé d’Internet et pour apprendre comment vous pouvez vous impliquer.
+newsletters-your-email-preferences = Vos préférences de communication ont bien été mises à jour.
+newsletters-consider-it-done = C’est comme si c’était fait
+newsletters-back-to-email-preferences = Retour aux préférences de communication
+newsletters-download-the-app = Télécharger l’application
+newsletters-check-for-data-breaches = Vérifier les fuites de données
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l’organisation à but non lucratif à l’origine de { -brand-name-firefox }, fait passer les gens avant les profits dans tout ce que nous disons, créons et faisons.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = À propos des standards
@@ -254,3 +259,5 @@ newsletters-were-building-the-technology = Nous concevons les technologies du fu
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Des annonces spéciales pour que vous puissiez tirer le meilleur parti de { -brand-name-webmaker }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

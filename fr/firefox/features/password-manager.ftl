@@ -16,12 +16,17 @@ password-manager-password-hero = Héros des mots de passe
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Laissez tomber le « j’ai oublié mon mot de passe ». Le gestionnaire de mots de passe de { -brand-name-firefox } garde tout en mémoire pour vous permettre de vous identifier automatiquement ou retrouver facilement vos mots de passe. Pour davantage de sécurité encore, choisissez un <a href="{ $url }">mot de passe principal</a> pour les gouverner tous.
+password-manager-password-magician = Grand gourou des mots de passe
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Champion des mots de passe
 password-manager-no-more-try-again = Finis les « Veuillez essayer encore » lorsque vous tentez d’atteindre une page. Une fois identifié·e avec votre { -brand-name-firefox-account } sur votre smartphone, vos mots de passe seront à votre disposition. Vos identifiants seront là, tout simplement.
+password-manager-password-champion = Champion des mots de passe
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Et si besoin était, adoptez une deuxième ceinture de sécurité avec toute une gamme de <a href="{ $addons }">modules</a> gestionnaires de mots de passe. Choisissez un des plus populaires, ou bien devenez expert en parcourant les évaluations et les analyses de la communauté.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Grand gourou des mots de passe
 # Obsolete string
 # Variables:
