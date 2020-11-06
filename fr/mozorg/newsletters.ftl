@@ -111,6 +111,7 @@ newsletters-sign-up-read-up-make-a-difference = Inscrivez-vous. Informez-vous. <
 newsletters-get-smart-on-the-issues = Devenez incollable sur les problématiques qui touchent à votre vie numérique.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Recevez la lettre d’information { -brand-name-mozilla } pour vous tenir au courant des problèmes qui menacent la bonne santé d’Internet et pour apprendre comment vous pouvez vous impliquer.
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l’organisation à but non lucratif à l’origine de { -brand-name-firefox }, fait passer les gens avant les profits dans tout ce que nous disons, créons et faisons.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = À propos des standards
 # Name for the newsletter in Newsletter subscription page

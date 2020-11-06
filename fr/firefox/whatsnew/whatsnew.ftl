@@ -7,6 +7,7 @@
 
 whatsnew-page-title = Les nouveautés de { -brand-name-firefox } : encore plus de respect de la vie privée et de protection.
 whatsnew-page-description = Opposez-vous à une industrie qui vend vos données à des tiers. En ligne, garantissez votre sécurité grâce à une technologie qui se bat pour vous.
+whatsnew-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 whatsnew-up-to-date-notification = Félicitations ! Vous utilisez la version la plus récente du { -brand-name-firefox-browser }.
 whatsnew-out-of-date-notification = Une version encore plus récente du { -brand-name-firefox-browser } est disponible. Redémarrez pour le mettre à jour.
 # Variables:
