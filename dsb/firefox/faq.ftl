@@ -31,29 +31,41 @@ is-chrome-better = Jo { -brand-name-chrome } lěpšy ako { -brand-name-firefox }
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Glědajśo, kak { -brand-name-firefox } w pśirownanju { -brand-name-chrome } wótrěznjo.</a>
+related-questions-better = Pódobne pšašanja: Jo { -brand-name-firefox } lěpšy ako { -brand-name-chrome }, jo { -brand-name-firefox } lěpšy ako { -brand-name-google }, jo { -brand-name-firefox } wěsćejšy ako { -brand-name-chrome }, jo { -brand-name-firefox } priwatnjejšy ako { -brand-name-chrome }
+is-firefox-safe-download = Dajo se { -brand-name-firefox } wěsće ześěgnuś?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Jo { -brand-name-firefox } wěsty?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = Pódobne pšašanja: Jo { -brand-name-firefox } dobry za priwatnosć, jo { -brand-name-firefox } wěsty, jo { -brand-name-firefox } lěpšy za priwatnosć
+does-firefox-sell = Pśedawa { -brand-name-firefox } waše wósobinske daty?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Čogodla jo { -brand-name-firefox } tak pómały?
+is-firefox-chromium = Bazěrujo { -brand-name-firefox } na { -brand-name-chromium }?
+does-firefox-use = Wužywa { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Ma { -brand-name-firefox } zatwarjony VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Pódobne pšašanja: Chowa { -brand-name-firefox } wašu IP-adresu
+who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+related-questions-who = Pódobne pšašanja: Komu { -brand-name-firefox } słuša, komu { -brand-name-firefox-browser } słuša, słuša { -brand-name-firefox } { -brand-name-google }, słuša { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google }
