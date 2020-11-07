@@ -4,8 +4,11 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifest { -brand-name-mozilla }
+footer-privacy-hub = Centrum priwatnosće
 footer-privacy = Priwatnosć
 footer-press = Nowinarstwo
+footer-corporate-blog = Předewzaćelski blog
+footer-browser-comparison = Přirunanje wobhladowakow
 footer-brand-standards = Markowe standardy
 footer-browsers = Wobhladowaki
 # Outdated string
@@ -63,6 +66,9 @@ footer-websites-cookies = Placki
 footer-websites-legal = Prawniske
 footer-language = Rěč
 footer-go = Start
+footer-donate = Darić
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = @{ -brand-name-mozilla } slědować
+footer-follow-firefox = @{ -brand-name-firefox } slědować
