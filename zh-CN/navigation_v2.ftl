@@ -59,6 +59,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = 捐献一段声音，让未来的互联网中每个人都能被听见。
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = 详细了解新的类汇编低级语言。
 navigation-v2-more-mozilla-innovation = 更多 { -brand-name-mozilla } 创新

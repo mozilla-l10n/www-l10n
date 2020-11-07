@@ -93,7 +93,7 @@ navigation-same-speed-and-safety = 一样可信赖的安全性与速度，专为
 navigation-add-ons = 附加组件
 navigation-projects = 项目
 navigation-close-projects-menu = 关闭项目菜单
-navigation-donate-your-voice-to = 捐出您的声音，让每个人都能使用语音识别技术。
+navigation-donate-your-voice-to = 捐出一段声音，让每个人都能使用语音识别技术。
 navigation-machine-learning = 机器学习
 # Outdated string
 navigation-web-of-things-iot = 物联网（IoT）
