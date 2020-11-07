@@ -3,22 +3,35 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Manifiesto de { -brand-name-mozilla }
 footer-privacy = Privacidad
 footer-press = Pulsar
 footer-brand-standards = Estándares de marca
 footer-browsers = Navegadores
+# Outdated string
 footer-desktop = Escritorio
+# Outdated string
 footer-mobile = Móvil
+# Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
 footer-products = Productos
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
+# Outdated string
 footer-monitor = { -brand-name-monitor }
+# Outdated string
 footer-send = { -brand-name-send }
+# Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
 footer-join = Unirse
+# Outdated string
 footer-sign-up = Registrate
+# Outdated string
 footer-sign-in = Iniciar sesión
+# Outdated string
 footer-benefits = Beneficios
 footer-developers = Desarrolladores
 footer-developer-edition = { -brand-name-developer-edition }
@@ -30,10 +43,13 @@ footer-visit-mozilla-corporations = Visitá <a { $moco_link }>matriz de { -brand
 footer-portions-of-this-content = Partes de este contenido son ©1998–{ $current_year } de colaboradores individuales de mozilla.org. El contenido se encuentra disponible bajo una <a rel="license" href="{ $url }">licencia { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Compañía
+# Outdated string
 footer-about = Acerca de
 footer-press-center = Área de prensa
 footer-careers = Carreras
+# Outdated string
 footer-test-new-features = Probá las nuevas funciones
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Herramientas
 footer-resources = Recursos
