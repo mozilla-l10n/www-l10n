@@ -79,3 +79,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dhuroni zërin tuaj, që e ardhmja e web-it të dëgjojë këdo.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Mësoni më tepër për gjuhën e re, e shkallës së ulët, e ngjashme me Assembly-n
+navigation-v2-more-mozilla-innovation = Më tepër Novacion { -brand-name-mozilla }
