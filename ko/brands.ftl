@@ -73,6 +73,11 @@
 -brand-name-send = Send
 -brand-name-sync = Sync
 
+## Firefox products (legacy)
+
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -93,9 +98,13 @@
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
+## Mozilla projects (legacy)
+
+
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
