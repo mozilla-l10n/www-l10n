@@ -8,8 +8,11 @@
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = קבלת גישה וסנכרון הסימניות, הססמאות, לשוניות פתוחות ועוד — בכל מקום בו יש לך את { -brand-name-firefox }.
 firefox-sync-sync-your-firefox = סנכרון ה־{ -brand-name-firefox } שלך בכל מכשיר
+firefox-sync-privacy-made-easy = פרטיות בקלות
 firefox-sync-all-you-need = כל מה שצריך עבור { -brand-name-firefox-sync } הוא { -brand-name-firefox-account(case: "a") }.
 firefox-sync-encrypt-your-data = הצפנת הנתונים שלך
 firefox-sync-your-encryption-key = מפתח ההצפנה שלך נשאר בסוד, וידוע רק לך ולמכשירים המורשים שלך.
 firefox-sync-we-store-your = אנו מאחסנים את הנתונים המוצפנים שלך בשרתים שלנו כך שאחרים לא יכולים לקרוא אותם.
 start-syncing-in = אפשר להתחיל לסנכרן ב־4 צעדים פשוטים:
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = עזרה נוספת בניהול { -brand-name-firefox-account(case: "the") } שלך
