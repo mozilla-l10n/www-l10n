@@ -18,6 +18,7 @@ sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = { -brand-name-ios } 版技术支持
 sub-navigation-android-support = { -brand-name-android } 版技术支持
+sub-navigation-features = 特色
 sub-navigation-support = 用户支持
 sub-navigation-addons = 附加组件
 sub-navigation-faq = 常见问题

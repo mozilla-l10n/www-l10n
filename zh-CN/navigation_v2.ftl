@@ -33,16 +33,22 @@ navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = 产品承诺
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }（测试版）
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }（测试版）
 navigation-v2-view-all-products = 一览所有产品
 
 ## Who We Are menu
 
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } 宣言
+navigation-v2-learn-about-the-values = 了解指引我们使命的价值观和准则。
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = 参与进来
 navigation-v2-join-the-fight-for-a = 与我们一起，为互联网健康而战。
 navigation-v2-leadership = 领导层
 navigation-v2-careers = 招贤纳士
 navigation-v2-work-for-a-mission-driven-updated = 在一家以使命为驱动，产品开发以人为本的组织工作。
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 博客
+navigation-v2-more-about-mozilla = 进一步认识 { -brand-name-mozilla }
 
 ## Innovation menu
 
@@ -54,3 +60,5 @@ navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = 详细了解新的类汇编低级语言。
+navigation-v2-more-mozilla-innovation = 更多 { -brand-name-mozilla } 创新
