@@ -40,9 +40,42 @@ navigation-v2-get-protection-beyond-your-browser = Merrni mbrojtje tej shfletues
 navigation-v2-product-promise = Premtim Mbi Produktin
 navigation-v2-learn-how-each-firefox-product = Mësoni se si mbron dhe respekton të dhënat tuaja çdo produkt { -brand-name-firefox }.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Regjistroni llogari të reja pa dhënë fare adresën tuaj email.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Mbroni lidhjen me internetin të shfletuesit tuaj.
+navigation-v2-view-all-products = Shihni krejt Produktet
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Cilët Jemi
+navigation-v2-close-who-we-are-menu = Mbyllni menunë Cilët Jemi
+navigation-v2-mozilla-manifesto = Manifesti i { -brand-name-mozilla }-s
+navigation-v2-learn-about-the-values = Mësoni rreth vlerave dhe parimeve që udhëheqin misionin tonë.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Njihuni me entin jofitimprurës pas { -brand-name-firefox }, që punon për një internet më të mirë.
+navigation-v2-get-involved = Përfshihuni
+navigation-v2-join-the-fight-for-a = Bëhuni pjesë e ndeshjes për një internet të shëndetshëm.
+navigation-v2-leadership = Udhëheqje
+navigation-v2-meet-the-team-thats-building = Njihuni me ekipin që po krijon teknologji për një internet më të mirë.
+navigation-v2-careers = Punësime
+navigation-v2-work-for-a-mission-driven-updated = Punoni për një ent të udhëhequr nga një mision, ent që ndërton produkte që vënë njerëzit mbi gjithçka.
+navigation-v2-mozilla-blog = Blogu i { -brand-name-mozilla }-s
+navigation-v2-learn-about-mozilla-and = Mësoni rreth { -brand-name-mozilla }-s dhe çështjesh që kanë rëndësi për ne.
+navigation-v2-more-about-mozilla = Më tepër Rreth { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Risi
+navigation-v2-close-innovation-menu = Mbylleni menunë e Risive
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Mblidhuni në këtë hapësirë shoqërore ndërvepruese, internetore, shumëpërmasore.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Merrni { -brand-name-firefox } e ndërtuar pikërisht për zhvilluesit.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Shihni vatrën e burime për zhvillues web.
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Eksploroni web-in me shfletuesin { -brand-name-firefox } për realitet virtual.
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Dhuroni zërin tuaj, që e ardhmja e web-it të dëgjojë këdo.
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Mësoni më tepër për gjuhën e re, e shkallës së ulët, e ngjashme me Assembly-n
