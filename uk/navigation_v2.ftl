@@ -53,6 +53,22 @@ navigation-v2-mozilla-manifesto = Маніфест { -brand-name-mozilla }
 navigation-v2-learn-about-the-values = Дізнайтеся про цінності та принципи, якими керується наша місія.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-meet-the-not-for-profit-behind = Зустрічайте некомерційну організацію { -brand-name-firefox }, яка бореться за кращу мережу.
+navigation-v2-get-involved = Долучайтеся
+navigation-v2-join-the-fight-for-a = Приєднуйтесь до боротьби за здоровий Інтернет.
+navigation-v2-leadership = Керування
+navigation-v2-meet-the-team-thats-building = Зустрічайте команду, яка розробляє технології для кращого Інтернету.
+navigation-v2-careers = Вакансії
+navigation-v2-work-for-a-mission-driven-updated = Робота в організації, яка керується власною місією і створює продукти в першу чергу для людей.
+navigation-v2-mozilla-blog = Блог { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Дізнайтеся про { -brand-name-mozilla } та важливі для нас проблеми.
+navigation-v2-more-about-mozilla = Докладніше про { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Нововведення
+navigation-v2-close-innovation-menu = Закрити меню Нововведення
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Збирайтеся в цьому інтерактивному, мережному, багатовимірному соціальному просторі.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Отримати створений спеціально для розробників браузер { -brand-name-firefox }.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
