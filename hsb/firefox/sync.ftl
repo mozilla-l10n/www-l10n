@@ -8,7 +8,7 @@
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-sync-your-firefox = Synchronizujće swój { -brand-name-firefox } na kóždym graće
 firefox-sync-privacy-made-easy = Priwatnosć na lochke wašnje
-firefox-sync-all-you-need = Wšitko, štož za { -brand-name-firefox-sync } trjebaće je { -brand-name-firefox-account }.
+firefox-sync-all-you-need = Wšitko, štož za { -brand-name-firefox-sync } trjebaće, je { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Zaklučujće swoje daty
 firefox-sync-feel-safe = Čujće so wěsty
 start-syncing-in = Synchronizujće w štyrjoch krokach:
