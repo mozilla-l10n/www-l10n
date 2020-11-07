@@ -25,6 +25,7 @@ contribute-mission-heading = 우리의 미션
 contribute-learn = { -brand-name-mozilla }에 대해 알아보기
 contribute-find-event = 이벤트 찾기
 contribute-donate = 기부
+contribute-follow-mozilla = { -brand-name-mozilla } 팔로우
 
 ## Made by
 
