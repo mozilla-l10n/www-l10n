@@ -9,7 +9,7 @@
 features-private-browsing-private-browser = דפדפן פרטי עם הגנה מוגברת מפני מעקב
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } מגן על הפרטיות המקוונת שלך וחוסם רכיבי מעקב שמתעדים את פעילותך באינטרנט.
-features-private-browsing-firefox-more-protection = { -brand-name-firefox }: יותר הגנה. פחות דאגות.
+features-private-browsing-firefox-more-protection = ‏{ -brand-name-firefox }: יותר הגנה. פחות דאגות.
 features-private-browsing-were-obsessed-with = אנו קנאים לשמירה על פרטיות. זאת הסיבה ששיפרנו את הגלישה הפרטית של { -brand-name-firefox } מעבר ליכולות המתחרים.
 features-private-browsing-browse-without = לגלוש מבלי להשאיר עקבות
 features-private-browsing-sharing-is-caring = אין כמו שיתוף, אבל זאת אמורה להיות בחירה שלך. הגלישה הפרטית של { -brand-name-firefox } מוחקת אוטומטית את הפרטים המקוונים שלך כגון ססמאות, עוגיות והיסטוריה מהמחשב שלך. כדי שלאחר הסגירה לא יישאר אף זכר.
