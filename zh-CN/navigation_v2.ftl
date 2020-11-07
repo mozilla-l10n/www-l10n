@@ -11,7 +11,9 @@ navigation-v2-menu = 菜单
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = 关闭 { -brand-name-firefox-browsers }菜单
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } 桌面版
 navigation-v2-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
+navigation-v2-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox }
 navigation-v2-privacy-promise = 隐私承诺
 navigation-v2-firefox-blog = { -brand-name-firefox } 博客
 navigation-v2-release-notes = 发行说明
@@ -32,6 +34,7 @@ navigation-v2-view-all-products = 一览所有产品
 navigation-v2-get-involved = 参与进来
 navigation-v2-join-the-fight-for-a = 与我们一起，为互联网健康而战。
 navigation-v2-leadership = 领导层
+navigation-v2-work-for-a-mission-driven-updated = 在一家以使命为驱动，产品开发以人为本的组织工作。
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 博客
 
 ## Innovation menu
