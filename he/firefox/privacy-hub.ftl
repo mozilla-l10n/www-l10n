@@ -28,6 +28,7 @@ firefox-privacy-hub-see-what-firefox-has-blocked = הצגת הפריטים ש־{
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = קבלת הגנת מעקב מתקדמת
 firefox-privacy-hub-download-the-firefox-browser = הורדת הדפדפן { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = בלתי נראה לרכיבי המעקב המובילים
 firefox-privacy-hub-always-in-your-control = תמיד בשליטה שלך
 firefox-privacy-hub-want-to-customize-what = רוצה להתאים אישית את מה שנחסם? ההגדרות שלך נמצאות במרחק לחיצה.
 firefox-privacy-hub-protection-beyond-tracking = הגנה מעבר למעקב
@@ -48,6 +49,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = קבלת { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account(case: "the") } שלך
 firefox-privacy-hub-all-the-information-synced = כל המידע המסונכרן באמצעות { -brand-name-firefox-account(case: "the") } שלך — מהיסטוריית הדפדפן ועד לססמאות — מוצפן. וססמת החשבון שלך היא המפתח היחיד.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = לקחת את הפרטיות והסימניות שלך לכל מקום עם { -brand-name-firefox-account(case: "a") }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = <a href="{ $url }">הצהרת הפרטיות</a> עבור המוצרים שלנו
