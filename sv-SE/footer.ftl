@@ -4,8 +4,11 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla }s manifest
+footer-privacy-hub = Privacy Hub
 footer-privacy = Sekretess
 footer-press = Press
+footer-corporate-blog = Företagets blogg
+footer-browser-comparison = Webbläsarjämförelse
 footer-brand-standards = Varumärkestandarder
 footer-browsers = Webbläsare
 # Outdated string
@@ -63,6 +66,9 @@ footer-websites-cookies = Kakor
 footer-websites-legal = Juridisk information
 footer-language = Språk
 footer-go = Gå till
+footer-donate = Donera
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Följ @{ -brand-name-mozilla }
+footer-follow-firefox = Följ @{ -brand-name-firefox }
