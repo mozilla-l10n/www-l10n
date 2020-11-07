@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla }宣言
+footer-privacy-hub = 隐私中心
 footer-privacy = 隐私
 footer-press = 新闻
 footer-brand-standards = 品牌标准
