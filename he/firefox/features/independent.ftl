@@ -9,7 +9,7 @@
 features-independent-firefox-a-different = { -brand-name-firefox }, דפדפן אחר לזמנים אחרים. לגלוש בחופשיות.
 # HTML page description
 features-independent-browse-the-internet = גלישה באינטרנט בצורה הנכונה ביותר… באופן חופשי, בטוח ונגיש לכולם. העצמאות שלך באינטרנט חשובה לנו.
-features-independent-firefox-rebel-with-a = { -brand-name-firefox }: מרד מוצדק
+features-independent-firefox-rebel-with-a = ‏{ -brand-name-firefox }: מרד מוצדק
 features-independent-firefox-is-independent = { -brand-name-firefox } הוא עצמאי וחלק מהקרן ללא מטרות רווח { -brand-name-mozilla }, שנאבקת על הזכויות המקוונות שלך, מרסנת את כוח התאגידים ומסייעת להנגיש את האינטרנט לכל אחד, בכל מקום.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = בלי אותיות קטנות
