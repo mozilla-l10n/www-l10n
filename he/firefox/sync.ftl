@@ -11,3 +11,5 @@ firefox-sync-sync-your-firefox = סנכרון ה־{ -brand-name-firefox } שלך
 firefox-sync-all-you-need = כל מה שצריך עבור { -brand-name-firefox-sync } הוא { -brand-name-firefox-account(case: "a") }.
 firefox-sync-encrypt-your-data = הצפנת הנתונים שלך
 firefox-sync-your-encryption-key = מפתח ההצפנה שלך נשאר בסוד, וידוע רק לך ולמכשירים המורשים שלך.
+firefox-sync-we-store-your = אנו מאחסנים את הנתונים המוצפנים שלך בשרתים שלנו כך שאחרים לא יכולים לקרוא אותם.
+start-syncing-in = אפשר להתחיל לסנכרן ב־4 צעדים פשוטים:
