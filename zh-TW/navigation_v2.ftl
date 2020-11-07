@@ -12,8 +12,11 @@ navigation-v2-menu = 選單
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = 關閉 { -brand-name-firefox-browsers } 選單
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } 桌面版
+navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
+navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-learn-how-firefox-treats = 了解 { -brand-name-firefox } 如何以尊重您的方式，處理相關資料。
 navigation-v2-firefox-blog = { -brand-name-firefox } 部落格
+navigation-v2-read-about-new-firefox-features = 了解 { -brand-name-firefox } 的新功能，並取得在網路上確保安全的方式。
 navigation-v2-release-notes = 發行公告
 
 ## Products menu
