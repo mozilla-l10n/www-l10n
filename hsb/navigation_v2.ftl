@@ -56,4 +56,4 @@ navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-more-mozilla-innovation = Wjace inowacije { -brand-name-mozilla }
+navigation-v2-more-mozilla-innovation = Wjace inowacijow { -brand-name-mozilla }
