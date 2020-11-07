@@ -12,6 +12,7 @@ navigation-v2-menu = תפריט
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(case: "a") }
 navigation-v2-close-firefox-browsers-menu = סגירת תפריט { -brand-name-firefox-browsers(case: "the") }
 navigation-v2-firefox-for-desktop = ‏{ -brand-name-firefox } למחשבים שולחניים
+navigation-v2-get-the-not-for-profit-backed = קבלת הדפדפן שאינו למטרות רווח ב־{ -brand-name-windows }, ‏{ -brand-name-mac-short } או { -brand-name-linux }.
 navigation-v2-firefox-for-android = ‏{ -brand-name-firefox } עבור { -brand-name-android }
 navigation-v2-firefox-for-ios = ‏{ -brand-name-firefox } עבור { -brand-name-ios }
 navigation-v2-privacy-promise = הבטחת הפרטיות
@@ -40,6 +41,26 @@ navigation-v2-view-all-products = הצגת כל המוצרים
 
 navigation-v2-who-we-are = מי אנחנו
 navigation-v2-close-who-we-are-menu = סגירת התפריט ’מי אנחנו’
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = היכרות עם העמותה שאינה למטרות רווח מאחורי { -brand-name-firefox } שדוגלת באינטרנט טוב יותר.
+navigation-v2-get-involved = גילוי מעורבות
+navigation-v2-join-the-fight-for-a = הצטרפו למאבק למען אינטרנט בריא.
+navigation-v2-leadership = הנהגה
+navigation-v2-meet-the-team-thats-building = היכרות עם הצוות שבונה טכנולוגיה למען אינטרנט טוב יותר.
+navigation-v2-careers = עבודה
+navigation-v2-mozilla-blog = הבלוג של { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = מידע על { -brand-name-mozilla } והנושאים החשובים לנו.
+navigation-v2-more-about-mozilla = עוד על { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = חדשנות
+navigation-v2-close-innovation-menu = סגירת תפריט ’חדשנות’
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = קבלת דפדפן ה־{ -brand-name-firefox } שנבנה בדיוק עבור מפתחים.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = עוד חדשנות מבית { -brand-name-mozilla }
