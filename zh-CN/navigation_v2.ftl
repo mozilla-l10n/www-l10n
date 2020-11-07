@@ -34,11 +34,14 @@ navigation-v2-view-all-products = 一览所有产品
 navigation-v2-get-involved = 参与进来
 navigation-v2-join-the-fight-for-a = 与我们一起，为互联网健康而战。
 navigation-v2-leadership = 领导层
+navigation-v2-careers = 招贤纳士
 navigation-v2-work-for-a-mission-driven-updated = 在一家以使命为驱动，产品开发以人为本的组织工作。
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 博客
 
 ## Innovation menu
 
+navigation-v2-innovation = 创新
+navigation-v2-close-innovation-menu = 关闭“创新”’菜单
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
