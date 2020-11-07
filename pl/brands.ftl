@@ -434,6 +434,7 @@
                 [lower] synchronizacji Firefoksa
             }
     }
+-brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
@@ -507,6 +508,8 @@
                 [lower] synchronizacji
             }
     }
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
 
 ## Firefox products (legacy)
 
@@ -590,6 +593,8 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
+# Outdated string
 -brand-name-web-assembly = WebAssembly
 
 ## Other browsers

@@ -3,22 +3,38 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
+footer-privacy-hub = Centrum prywatności
 footer-privacy = Prywatność
 footer-press = Dla prasy
+footer-corporate-blog = Blog firmowy
+footer-browser-comparison = Porównanie przeglądarek
 footer-brand-standards = Standardy marki
 footer-browsers = Przeglądarki
+# Outdated string
 footer-desktop = Na komputery
+# Outdated string
 footer-mobile = Na telefon
+# Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
 footer-products = Produkty
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
+# Outdated string
 footer-monitor = { -brand-name-monitor }
+# Outdated string
 footer-send = { -brand-name-send }
+# Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
 footer-join = Dołącz
+# Outdated string
 footer-sign-up = Utwórz konto
+# Outdated string
 footer-sign-in = Zaloguj się
+# Outdated string
 footer-benefits = Korzyści
 footer-developers = Deweloperzy
 footer-developer-edition = { -brand-name-developer-edition }
@@ -30,10 +46,13 @@ footer-visit-mozilla-corporations = Odwiedź <a { $mofo_link }>{ -brand-name-moz
 footer-portions-of-this-content = Fragmenty treści tej witryny: ©1998–{ $current_year }. Prawa autorskie należą do poszczególnych współtwórców witryny mozilla.org. Treść strony dostępna na licencji <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Firma
+# Outdated string
 footer-about = O nas
 footer-press-center = Centrum prasowe
 footer-careers = Praca
+# Outdated string
 footer-test-new-features = Testuj nowe funkcje
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Narzędzia
 footer-resources = Zasoby
@@ -47,6 +66,9 @@ footer-websites-cookies = Ciasteczka
 footer-websites-legal = Podstawa prawna
 footer-language = Język
 footer-go = Przejdź
+footer-donate = Przekaż datek
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Obserwuj @{ -brand-name-mozilla }
+footer-follow-firefox = Obserwuj @{ -brand-name-firefox }
