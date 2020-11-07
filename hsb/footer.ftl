@@ -3,22 +3,35 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Manifest { -brand-name-mozilla }
 footer-privacy = Priwatnosć
 footer-press = Nowinarstwo
 footer-brand-standards = Markowe standardy
 footer-browsers = Wobhladowaki
+# Outdated string
 footer-desktop = Desktop
+# Outdated string
 footer-mobile = Mobilny
+# Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
 footer-products = Produkty
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
+# Outdated string
 footer-monitor = { -brand-name-monitor }
+# Outdated string
 footer-send = { -brand-name-send }
+# Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
 footer-join = Wobdźělić so
+# Outdated string
 footer-sign-up = Registrować
+# Outdated string
 footer-sign-in = Přizjewić
+# Outdated string
 footer-benefits = Lěpšiny
 footer-developers = Wuwiwarjo
 footer-developer-edition = { -brand-name-developer-edition }
@@ -30,10 +43,13 @@ footer-visit-mozilla-corporations = Wopytajće załožbu <a { $mofo_link }>{ -br
 footer-portions-of-this-content = Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych mozilla.org wutworjene ©1998–{ $current_year }. Wobsah steji pod licencu <a rel="license" href="{ $url }">{ -brand-name-creative-commons } license</a> k dispoziciji.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Předewzaće
+# Outdated string
 footer-about = Wo nas
 footer-press-center = Nowinski centrum
 footer-careers = Powołanja
+# Outdated string
 footer-test-new-features = Nowe funkcije testować
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Nastroje
 footer-resources = Resursy
