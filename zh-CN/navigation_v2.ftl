@@ -12,11 +12,17 @@ navigation-v2-menu = 菜单
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = 关闭 { -brand-name-firefox-browsers }菜单
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } 桌面版
+navigation-v2-get-the-not-for-profit-backed = 下载适用于 { -brand-name-windows }、{ -brand-name-mac-short } 或 { -brand-name-linux }，并由非营利组织支持的浏览器
 navigation-v2-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
+navigation-v2-get-the-customizable-mobile = 下载适用于 { -brand-name-android } 智能手机的可定制移动浏览器。
 navigation-v2-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox }
+navigation-v2-get-the-mobile-browser = 下载适用于 { -brand-name-iphone } 或 { -brand-name-ipad } 的移动浏览器。
 navigation-v2-privacy-promise = 隐私承诺
+navigation-v2-learn-how-firefox-treats = 了解 { -brand-name-firefox } 如何以尊重您的方式，处理相关数据。
 navigation-v2-firefox-blog = { -brand-name-firefox } 博客
+navigation-v2-read-about-new-firefox-features = 了解 { -brand-name-firefox } 的新功能，及保持在线安全的方法。
 navigation-v2-release-notes = 发行说明
+navigation-v2-get-the-details-on-the = 获取新版 { -brand-name-firefox } 的更新详情。
 
 ## Products menu
 

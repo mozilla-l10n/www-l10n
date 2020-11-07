@@ -7,6 +7,8 @@ footer-mozilla-manifesto = { -brand-name-mozilla }宣言
 footer-privacy-hub = 隐私中心
 footer-privacy = 隐私
 footer-press = 新闻
+footer-corporate-blog = Mozilla 博客
+footer-browser-comparison = 浏览器比较
 footer-brand-standards = 品牌标准
 footer-browsers = 浏览器
 # Outdated string
