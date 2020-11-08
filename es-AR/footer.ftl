@@ -4,8 +4,11 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifiesto de { -brand-name-mozilla }
+footer-privacy-hub = Centro de privacidad
 footer-privacy = Privacidad
 footer-press = Pulsar
+footer-corporate-blog = Blog corporativo
+footer-browser-comparison = Comparación de navegadores
 footer-brand-standards = Estándares de marca
 footer-browsers = Navegadores
 # Outdated string
@@ -63,6 +66,9 @@ footer-websites-cookies = Cookies
 footer-websites-legal = Legales
 footer-language = Idioma
 footer-go = Vamos
+footer-donate = Donar
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Seguir a @{ -brand-name-mozilla }
+footer-follow-firefox = Seguir a @{ -brand-name-firefox }
