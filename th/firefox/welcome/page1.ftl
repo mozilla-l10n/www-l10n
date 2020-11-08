@@ -8,3 +8,5 @@
 welcome-page1-check-your-breach-report = ตรวจสอบรายงานการรั่วไหลของคุณ
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = ป้องกันแฮกเกอร์
+welcome-page1-stay-in-the-know = รับทราบข่าวสารอยู่เสมอ
+welcome-page1-why-am-i-seeing-this = ทำไมฉันจึงเห็นสิ่งนี้
