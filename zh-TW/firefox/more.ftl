@@ -29,6 +29,7 @@ easy-migration-of = 安裝 { -brand-name-firefox } for { -brand-name-windows } �
 firefox-respects-your = { -brand-name-firefox } 在 { -brand-name-mac-short } 也保護您的隱私。
 firefox-doesnt-spy = { -brand-name-firefox } 不會偷看您的搜尋內容，還會封鎖已知的第三方追蹤 Cookie，讓您有完整的主控權。
 firefox-for-linux = { -brand-name-firefox } for { -brand-name-linux }
+new-school-meets = 老品牌，新功能。請使用最新最快的瀏覽器。
 firefox-for-windows = { -brand-name-firefox } for { -brand-name-windows } 64-bit
 we-worry-about = 請放心，資料安全的事情就交給我們來煩惱。
 seven-of-the = 七套最佳瀏覽器功能比較
