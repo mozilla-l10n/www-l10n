@@ -36,8 +36,9 @@ navigation-v2-save-and-discover-the-best = 儲存並探索網路上最佳的文�
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = 產品承諾
-navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }（beta 測試版）
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }（beta 測試版）
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = 不用交出電子郵件地址就能註冊新帳號。
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-view-all-products = 檢視所有產品
 
 ## Who We Are menu
