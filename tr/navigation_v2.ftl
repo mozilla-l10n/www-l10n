@@ -9,7 +9,7 @@ navigation-v2-menu = Menü
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(capitalization: "uppercase") }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } menüsünü kapat
 navigation-v2-firefox-for-desktop = Bilgisayarlar için { -brand-name-firefox }
 navigation-v2-get-the-not-for-profit-backed = { -brand-name-windows }, { -brand-name-mac-short } ve { -brand-name-linux } için kâr amacı gütmeyen tarayıcıyı indirin.
