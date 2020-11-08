@@ -202,9 +202,9 @@ newsletters-download-firefox-for-ios = 下載 { -brand-name-firefox } for { -bra
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = 下載 { -brand-name-firefox } 行動版
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } 小秘訣
+newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts }小秘訣
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = 讓您的 { -brand-name-firefox-account } 發揮最大威力。
+newsletters-get-the-most-firefox-account = 讓您的 { -brand-name-firefox-account }發揮最大威力。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)

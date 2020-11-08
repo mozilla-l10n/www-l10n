@@ -74,7 +74,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } 不收集您的上網紀錄或將您的個人資訊賣給廣告業者，就推薦真人精選的高品質文章給您。
 firefox-privacy-hub-get-pocket = 取得 { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
-firefox-privacy-hub-all-the-information-synced = 所有透過 { -brand-name-firefox-account } 同步的資訊（從上網紀錄到網站密碼）都經完整加密，只有您自己知道的密碼才能解開。
+firefox-privacy-hub-all-the-information-synced = 所有透過 { -brand-name-firefox-account }同步的資訊（從上網紀錄到網站密碼）都經完整加密，只有您自己知道的密碼才能解開。
 firefox-privacy-hub-take-your-privacy-and-bookmarks = 使用 { -brand-name-firefox-account }，將您的私人資料與書籤隨身帶著走。
 # Variables:
 #   $signin (string) - anchor link url and attributes
