@@ -222,15 +222,23 @@ newsletters-firefox-news = Noticias de { -brand-name-firefox }
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Noticias de { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Actualizaciones periódicas para mantenerte informado y activo en nuestra lucha por un mejor Internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
 newsletters-special-accouncements-and-messages = Anuncios y mensajes especiales del equipo dedicado a mantener la Web abierta y libre.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = Red de aprendizaje de { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Actualizaciones de nuestra comunidad mundial, ayudando a las personas a aprender las habilidades más importantes de nuestra época: la capacidad de leer, escribir y participar en el mundo digital.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Estamos construyendo la tecnología del futuro. Ven a explorar con nosotros.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Anuncios especiales que te ayudarán a aprovechar al máximo { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
