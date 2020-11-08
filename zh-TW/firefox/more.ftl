@@ -44,6 +44,7 @@ old-habits-that = 老習慣不容易改，但能改掉的話感覺就會更好�
 comparing-firefox-safari = 比較 { -brand-name-firefox-browser }與 { -brand-name-apple } { -brand-name-safari }
 you-dont-have = 不必總是使用內建瀏覽器。
 comparing-firefox-opera = 比較 { -brand-name-firefox-browser }與 { -brand-name-opera }
+be-free-to = 隨時想讚美 { -brand-name-firefox } 就讚美。
 the-ad-blocker = 廣告封鎖器：針對討人厭廣告的秘密武器
 so-many-ads = 廣告太多了，我才沒有那個閒工夫…是時候該封鎖掉這些廣告了。
 firefox-more-protection = { -brand-name-firefox }：保護更多、擔心更少。
