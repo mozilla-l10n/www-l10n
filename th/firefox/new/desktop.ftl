@@ -16,6 +16,10 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = ตัวเลือกการดาวน์โหลดและภาษาอื่น ๆ
 firefox-desktop-download-compare-firefox-to = เปรียบเทียบ { -brand-name-firefox } กับ:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = ใช่
+firefox-desktop-download-no = ไม่
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
