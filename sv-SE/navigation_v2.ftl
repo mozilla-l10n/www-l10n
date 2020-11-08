@@ -12,7 +12,7 @@ navigation-v2-menu = Meny
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Stäng menyn { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } för datorer
-navigation-v2-get-the-not-for-profit-backed = Hämta den icke-vinstdrivna webbläsaren på { -brand-name-windows }, { -brand-name-mac-short } eller { -brand-name-linux }.
+navigation-v2-get-the-not-for-profit-backed = Hämta den icke-vinstdrivna webbläsaren för { -brand-name-windows }, { -brand-name-mac-short } eller { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } för { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Hämta den anpassningsbara mobilwebbläsaren för smartphones med { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } för { -brand-name-ios }
@@ -22,7 +22,7 @@ navigation-v2-learn-how-firefox-treats = Lär dig hur { -brand-name-firefox } be
 navigation-v2-firefox-blog = { -brand-name-firefox }s blogg
 navigation-v2-read-about-new-firefox-features = Läs om nya { -brand-name-firefox }-funktioner och olika sätt att hålla dig säker online.
 navigation-v2-release-notes = Versionsfakta
-navigation-v2-get-the-details-on-the = Få information om de senaste { -brand-name-firefox } uppdateringarna.
+navigation-v2-get-the-details-on-the = Få information om de senaste { -brand-name-firefox }-uppdateringarna.
 navigation-v2-view-all-firefox-browsers = Visa alla { -brand-name-firefox-browsers }
 
 ## Products menu
