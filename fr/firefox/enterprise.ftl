@@ -19,6 +19,7 @@ firefox-enterprise-unmatched-data-protection = Bénéficiez d’une protection d
 firefox-enterprise-the-firefox-browser-is-open = Le navigateur { -brand-name-firefox } est libre et offre la protection renforcée contre le pistage ; et tout cela résulte de notre engagement historique en matière de protection des données.
 firefox-enterprise-your-data-stays-your-business = Vos données restent votre affaire
 firefox-enterprise-deploy-when-and-how-you-want = Déployez quand vous le souhaitez et de la manière dont vous voulez
+firefox-enterprise-with-install-packages-and = Grâce aux paquets d’installation et à une grande évolution des stratégies et fonctionnalités de groupe, le déploiement est plus rapide et plus flexible que jamais. Et c’est un jeu d’enfant au sein des environnements { -brand-name-windows } et { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Choisissez votre cadence de sortie
 firefox-enterprise-get-rapid-releases-to-make = Téléchargez la version avec une cadence de publication rapide pour obtenir les dernières fonctionnalités plus rapidement, ou la version <em>extended</em> pour assurer une expérience extrêmement stable.
 firefox-enterprise-enterprise-downloads = Téléchargements pour les { -brand-name-enterprise(role: "plural-lower") }
