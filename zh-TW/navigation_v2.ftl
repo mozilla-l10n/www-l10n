@@ -58,7 +58,10 @@ navigation-v2-join-the-fight-for-a = 與我們一起，為了健康的網路生�
 navigation-v2-leadership = 領導團隊
 navigation-v2-meet-the-team-thats-building = 認識為更好的網際網路打造新技術的團隊。
 navigation-v2-careers = 徵才啟事
+navigation-v2-work-for-a-mission-driven-updated = 在一家以任務導向運作，打造以人為本產品的組織工作。
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 部落格
+navigation-v2-learn-about-mozilla-and = 了解 { -brand-name-mozilla } 以及我們所在意的議題。
+navigation-v2-more-about-mozilla = { -brand-name-mozilla } 的更多資訊
 
 ## Innovation menu
 
