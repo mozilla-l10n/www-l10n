@@ -36,6 +36,7 @@ navigation-v2-product-promise = 产品承诺
 navigation-v2-learn-how-each-firefox-product = 了解 { -brand-name-firefox } 的所有产品如何保护和尊重您的数据。
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }（测试版）
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }（测试版）
+navigation-v2-protect-your-browsers-connection = 保护浏览器与互联网之间的连接。
 navigation-v2-view-all-products = 一览所有产品
 
 ## Who We Are menu
