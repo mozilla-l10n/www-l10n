@@ -50,3 +50,4 @@ sub-navigation-browser-history = Cronologia del browser
 sub-navigation-privacy = Privacy
 sub-navigation-our-promise = Il nostro impegno
 sub-navigation-our-products = I nostri prodotti
+sub-navigation-little-book-of-privacy = Il piccolo libro della privacy
