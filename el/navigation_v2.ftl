@@ -14,7 +14,9 @@ navigation-v2-close-firefox-browsers-menu = Κλείσιμο μενού { -brand
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
 navigation-v2-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } για { -brand-name-ios }
+navigation-v2-privacy-promise = Υπόσχεση απορρήτου
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
+navigation-v2-release-notes = Σημειώσεις έκδοσης
 
 ## Products menu
 
@@ -22,11 +24,15 @@ navigation-v2-products = Προϊόντα
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Υπόσχεση προϊόντων
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-view-all-products = Προβολή όλων των προϊόντων
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Ποιοι είμαστε
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-careers = Καριέρες
 

@@ -12,6 +12,7 @@ browsers-chromebook-get-firefox-browser = Λήψη { -brand-name-firefox-browser
 browsers-chromebook-so-youve-got = Ώστε έχετε ένα { -brand-name-chromebook } — καιρός να αποκτήσετε το ανεξάρτητο, αυτομάτως ιδιωτικό { -brand-name-firefox-browser } για την προστασία των προσωπικών σας δεδομένων.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Λήψη { -brand-name-firefox } για { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Λήψη { -brand-name-firefox } για υπολογιστές { -brand-name-chromebook }
+browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } με επεξεργαστή x86 και { -brand-name-chromeos } 80 ή νεότερο
 browsers-chromebook-dropdown-copy = Λήψη { -brand-name-firefox } για { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Γιατί να επιλέξω το <span>{ -brand-name-firefox }</span> για { -brand-name-chromebook };
