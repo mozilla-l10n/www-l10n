@@ -61,12 +61,22 @@ navigation-v2-careers = Kariyer
 navigation-v2-work-for-a-mission-driven-updated = İnsancıl ürünler geliştirilen, misyon odaklı bir kuruluşta çalışabilirsiniz.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ve bizim için önemli konular hakkında bilgi alın.
+navigation-v2-more-about-mozilla = { -brand-name-mozilla } hakkında daha fazla bilgi
 
 ## Innovation menu
 
+navigation-v2-innovation = İnovasyon
+navigation-v2-close-innovation-menu = İnovasyon menüsünü kapat
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Etkileşimli, çevrimiçi, çok boyutlu sosyal alanlarda toplanın.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Geliştiriciler için geliştirilmiş { -brand-name-firefox }’u indirin.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Web geliştiricilere yönelik kaynakları inceleyin.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Web’i sanal gerçekliğe özel { -brand-name-firefox } tarayıcısıyla keşfedin.
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = İnternetin geleceğini herkesin duyması için sesinizi bağışlayın.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Düşük seviyeli, assembly benzeri yeni programlama diliyle tanışın.
+navigation-v2-more-mozilla-innovation = Diğer { -brand-name-mozilla } inovasyonları
