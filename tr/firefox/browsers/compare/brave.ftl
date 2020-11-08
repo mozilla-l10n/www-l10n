@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox }, { -brand-name-brave }'e karşı: Hangisi sizin için daha iyi tarayıcı?
+# HTML page description
+compare-brave-compare-brave-to-the-firefox = Gizlilik, fayda ve taşınabilirlik açısından hangi tarayıcının size daha uygun olduğunu anlamak için { -brand-name-brave } ile { -brand-name-firefox-browser }nı karşılaştırın.
 # Main title
 compare-brave-comparing-firefox-browser = { -brand-name-firefox-browser } ile { -brand-name-brave } karşılaştırması
