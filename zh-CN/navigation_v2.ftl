@@ -29,6 +29,7 @@ navigation-v2-get-the-details-on-the = 获取新版 { -brand-name-firefox } 的�
 navigation-v2-products = 产品
 navigation-v2-close-products-menu = 关闭“产品”菜单
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = 检查您的邮箱地址是否出现在商业公司的数据外泄事件中。
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
@@ -41,6 +42,8 @@ navigation-v2-view-all-products = 一览所有产品
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = 认识我们
+navigation-v2-close-who-we-are-menu = 关闭“认识我们”菜单
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } 宣言
 navigation-v2-learn-about-the-values = 了解指引我们使命的价值观和准则。
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
