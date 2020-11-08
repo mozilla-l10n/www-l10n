@@ -5,7 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = Le productos { -brand-name-firefox } es designate pro proteger tu confidentialitate
+learn-more-about = Saper plus re navigatores e productos { -brand-name-firefox } que gere tu datos con respecto e es producite pro tu confidentialitate ubique tu va online.
 learn-more = Saper plus
+the-history-of = Le historia de navigatores del Web
+firefox-has-been = { -brand-name-firefox } ha essite illac depost quasi le initio.
+firefox-rebel-with = { -brand-name-firefox }: rebelle con causa
+firefox-is-independent = { -brand-name-firefox } es independente e supportate per le organisation non lucrative { -brand-name-mozilla }, que lucta pro tu derectos online e rende internet accessibile a totes, ubique.
+what-is-a = Que es un navigator del Web?
 firefox-is-more = { -brand-name-firefox } es plus que un navigator
 get-the-browsers = Installa le navigatores que antepone tu confidentialitate e sempre lo ha facite
 take-your-passwords = Porta tu contrasignos sempre con te
