@@ -12,6 +12,7 @@ navigation-v2-menu = Menü
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } menü bezárása
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } számítógépre
+navigation-v2-get-the-not-for-profit-backed = Szerezze be a nonprofit által támogatott böngészőt { -brand-name-windows }ra, { -brand-name-mac-short }ra vagy { -brand-name-linux }ra.
 navigation-v2-firefox-for-android = { -brand-name-firefox } { -brand-name-android }ra
 
 ## Products menu
