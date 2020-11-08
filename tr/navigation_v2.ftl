@@ -40,15 +40,27 @@ navigation-v2-get-protection-beyond-your-browser = Tüm cihazlarınızda tarayı
 navigation-v2-product-promise = Ürün Sözü
 navigation-v2-learn-how-each-firefox-product = { -brand-name-firefox } ürünlerinin verilerinizi nasıl koruduğunu öğrenin.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = E-posta adresinizi gizleyerek yeni hesaplar açın.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Tarayıcınızın internet bağlantısını koruyun.
+navigation-v2-view-all-products = Tüm ürünlere bak
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Biz Kimiz?
+navigation-v2-close-who-we-are-menu = Biz Kimiz menüsünü kapat
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Manifestosu
+navigation-v2-learn-about-the-values = Misyonumuza rehberlik eden değerleri ve ilkeleri öğrenin.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Daha iyi bir web için { -brand-name-firefox }’u geliştiren kâr amacı gütmeyen kuruluşla tanışın.
+navigation-v2-get-involved = Bize Katılın
 navigation-v2-join-the-fight-for-a = Sağlıklı bir internet için verdiğimiz mücadeleye katılın.
 navigation-v2-leadership = Yönetim
+navigation-v2-meet-the-team-thats-building = Daha iyi bir internet için gereken teknolojileri geliştiren ekiple tanışın.
+navigation-v2-careers = Kariyer
+navigation-v2-work-for-a-mission-driven-updated = İnsancıl ürünler geliştirilen, misyon odaklı bir kuruluşta çalışabilirsiniz.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
+navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ve bizim için önemli konular hakkında bilgi alın.
 
 ## Innovation menu
 
