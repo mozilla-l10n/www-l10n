@@ -10,7 +10,7 @@ download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span>
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Desteklenen Aygıtlar
 download-button-whats-new = Neler yeni?
-download-button-systems-languages = Sistemler ve diller
+download-button-systems-languages = Sistemler ve Diller
 download-button-recommended = Önerilen
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
