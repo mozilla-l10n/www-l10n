@@ -33,6 +33,7 @@ navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = 产品承诺
+navigation-v2-learn-how-each-firefox-product = 了解 { -brand-name-firefox } 的所有产品如何保护和尊重您的数据。
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }（测试版）
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }（测试版）
 navigation-v2-view-all-products = 一览所有产品
