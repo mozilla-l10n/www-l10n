@@ -49,6 +49,21 @@ navigation-v2-view-all-products = Összes termék megtekintése
 navigation-v2-who-we-are = Kik vagyunk
 navigation-v2-close-who-we-are-menu = Kik vagyunk menü bezárása
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Kiáltvány
+navigation-v2-learn-about-the-values = Ismerje meg a küldetésünket irányító értékeket és elveket.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Találkozzon a { -brand-name-firefox } mögött álló nonprofit szervezettel, amely a kiáll a jobb webért.
+navigation-v2-get-involved = Csatlakozzon
+navigation-v2-join-the-fight-for-a = Csatlakozzon az egészséges internetért vívott harchoz.
+navigation-v2-leadership = Vezetés
+navigation-v2-meet-the-team-thats-building = Találkozzon azzal a csapattal, amely technológiát épít a jobb internet érdekében.
+navigation-v2-careers = Álláslehetőségek
+navigation-v2-work-for-a-mission-driven-updated = Dolgozzon egy küldetésvezérelt szervezetnek, amely olyan termékeket készít, melyek az embereket helyezik az első helyre.
+navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
+navigation-v2-learn-about-mozilla-and = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról, és a számunkra fontos kérdésekről.
+navigation-v2-more-about-mozilla = További információk a { -brand-name-mozilla(ending: "accented") }ról
 
 ## Innovation menu
 
+navigation-v2-innovation = innováció
+navigation-v2-close-innovation-menu = Innováció menü bezárása
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
