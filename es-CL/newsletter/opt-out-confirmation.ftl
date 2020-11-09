@@ -7,6 +7,9 @@
 
 # HTML page title
 opt-out-confirmation-cool-we-hear = Buenísimo. Te escuchamos.
+# HTML page descripiton
+opt-out-confirmation-youre-now-opted = A partir de ahora dejarás de recibir los correos electrónicos sobre la configuración de tu cuenta.
+opt-out-confirmation-youll-continue = Seguirás recibiendo otros correos electrónicos a los que estás suscrito, junto con actualizaciones ocasionales importantes sobre tu cuenta. Para gestionar todas tus suscripciones, ingresa tu correo electrónico a continuación — tenemos que asegurarnos de que nos estamos comunicando con la persona correcta.
 # Field of a form
 opt-out-confirmation-your-email = Tu dirección de correo:
 # Only localize "yourname". Do not touch @example.com.
