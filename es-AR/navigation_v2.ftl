@@ -16,6 +16,8 @@ navigation-v2-get-the-not-for-profit-backed = Obtener el navegador sin fines de 
 navigation-v2-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Obtener el navegador móvil personalizable para los teléfonos inteligentes { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
+navigation-v2-privacy-promise = Promesa de privacidad
+navigation-v2-learn-how-firefox-treats = Conocé como { -brand-name-firefox } trata tus datos con respeto.
 
 ## Products menu
 
