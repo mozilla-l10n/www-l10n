@@ -43,6 +43,7 @@ youll-never-guess = Tu jammais divinara qual navigator ha le avantage quanto a v
 comparing-firefox-ie = Comparation inter le navigator { -brand-name-firefox-browser } e { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Vetere habitos es dur a morir, ma tu te sentira melio quando illos lo face.
 comparing-firefox-safari = Comparation inter { -brand-name-firefox-browser } e { -brand-name-safari } de { -brand-name-apple }
+you-dont-have = Tu non es obligate a continuar usar le navigator jam installate.
 comparing-firefox-opera = Comparation inter { -brand-name-firefox-browser } e { -brand-name-opera }
 the-ad-blocker = Le blocator de publicitate – un arma secrete contra annuncios moleste.
 so-many-ads = Tante annuncios, si poc patientia… Il es tempore de mitter fin a iste follia.
