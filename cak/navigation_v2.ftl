@@ -50,7 +50,17 @@ navigation-v2-view-all-products = Ketz'et Ronojel Tikojil
 navigation-v2-who-we-are = Öj Achike Röj
 navigation-v2-close-who-we-are-menu = Titz'apïx ri ruk'utsamaj ÖJ Achike Röj
 navigation-v2-mozilla-manifesto = Rutzijoxik { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Tetamäx chi rij qaq'ijunem chuqa' qana'oj nikik'waj rub'ey ri qasamaj.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Tawetamaj ruwa ri moloj majun rojqan ch'akoj rik'in { -brand-name-firefox }, ri pa'äl pa ruwi' ri ütziläj ajk'amaya'l.
+navigation-v2-get-involved = Kato'on
+navigation-v2-join-the-fight-for-a = Tatunu' awi' qik'in richin jun raxinäq k'amaya'l.
+navigation-v2-leadership = Ajk'amöl b'ey
+navigation-v2-meet-the-team-thats-building = Tawetamaj ruwa ri molaj nusamajij na'ob'äl richin jun utziläj k'amaya'l.
+navigation-v2-careers = Taq samaj
+navigation-v2-work-for-a-mission-driven-updated = Kasamäj pa jun moloj ruyakon ruk'u'x chi rij ri rayib'äl, ri yerusamajij taq tikojil nikiya' kejqalem ri winäq.
+navigation-v2-mozilla-blog = Richinya'l { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Tawetamaj chi rij { -brand-name-mozilla } chuqa' ri k'ayewal niqajo' niqasöl.
 
 ## Innovation menu
 
