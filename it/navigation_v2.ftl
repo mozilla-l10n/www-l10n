@@ -65,4 +65,3 @@ navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Esplora il Web con il browser { -brand-name-firefox } per la realtà virtuale.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-more-mozilla-innovation = Ulteriori informazioni su { -brand-name-mozilla } Innovation
