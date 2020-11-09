@@ -3,22 +3,35 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 footer-privacy = Privacidade
 footer-press = Imprensa
 footer-brand-standards = Padrões de marca
 footer-browsers = Navegadores
+# Outdated string
 footer-desktop = Desktop
+# Outdated string
 footer-mobile = Móvel
+# Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
 footer-products = Produtos
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
+# Outdated string
 footer-monitor = { -brand-name-monitor }
+# Outdated string
 footer-send = { -brand-name-send }
+# Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
 footer-join = Junte-se a nós
+# Outdated string
 footer-sign-up = Criar uma conta
+# Outdated string
 footer-sign-in = Entrar
+# Outdated string
 footer-benefits = Benefícios
 footer-developers = Desenvolvedores
 footer-developer-edition = { -brand-name-developer-edition }
@@ -30,10 +43,13 @@ footer-visit-mozilla-corporations = Visite a <a { $mofo_link }>{ -brand-name-moz
 footer-portions-of-this-content = Trechos deste conteúdo possuem direitos reservados ©1998–{ $current_year } por colaboradores individuais da mozilla.org. Conteúdo disponível sob uma licença <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Empresa
+# Outdated string
 footer-about = Sobre
 footer-press-center = Área de Imprensa
 footer-careers = Carreiras
+# Outdated string
 footer-test-new-features = Teste novos recursos
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Ferramentas
 footer-resources = Recursos
@@ -47,6 +63,9 @@ footer-websites-cookies = Cookies
 footer-websites-legal = Jurídico
 footer-language = Idioma
 footer-go = Ir
+footer-donate = Faça uma doação
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Seguir @{ -brand-name-mozilla }
+footer-follow-firefox = Seguir @{ -brand-name-firefox }
