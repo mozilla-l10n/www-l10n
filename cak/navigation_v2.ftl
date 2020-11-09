@@ -61,6 +61,16 @@ navigation-v2-careers = Taq samaj
 navigation-v2-work-for-a-mission-driven-updated = Kasamäj pa jun moloj ruyakon ruk'u'x chi rij ri rayib'äl, ri yerusamajij taq tikojil nikiya' kejqalem ri winäq.
 navigation-v2-mozilla-blog = Richinya'l { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Tawetamaj chi rij { -brand-name-mozilla } chuqa' ri k'ayewal niqajo' niqasöl.
+navigation-v2-more-about-mozilla = Ch'aqa' Chik Chi Rij { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Tz'ukuj
+navigation-v2-close-innovation-menu = Titz'apïx ruk'utsamaj Tz'ukuj
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Tamolo' awi' pa re aj winäq ch'owel k'ojlib'äl, pa k'amab'ey, k'ïy nïm k'ojlib'äl.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Tak'ulu' ri rokik'amaya'l { -brand-name-firefox } tz'ukun kichin b'anonela'.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Tanik'oj ri kochoch tob'äl kichin ajk'amaya'l b'anonel.
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
