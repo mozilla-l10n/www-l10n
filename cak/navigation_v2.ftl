@@ -12,6 +12,9 @@ navigation-v2-menu = K'utsamaj
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Titz'apïx ruk'utsamaj { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } richin Kematz'ib'
+navigation-v2-get-the-not-for-profit-backed = Tik'ul ri rokik'amaya'l majun rojqan ch'akoj richin { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }.
+navigation-v2-firefox-for-android = { -brand-name-firefox } richin { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Tik'ul ri oyonib'äl ichinel okik'amaya'l kichin ri { -brand-name-android } na'owinäq taq oyonib'äl
 
 ## Products menu
 
