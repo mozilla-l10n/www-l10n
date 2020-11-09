@@ -37,9 +37,22 @@ navigation-v2-product-promise = Promesa de producto
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Protejé la conexión a Internet de tu navegador.
+navigation-v2-view-all-products = Ver todos los productos
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Quiénes somos
+navigation-v2-mozilla-manifesto = Manifiesto de { -brand-name-mozilla }
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-leadership = Liderazgo
+navigation-v2-meet-the-team-thats-building = Conocé al equipo que está haciendo tecnología para una mejor internet.
+navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }
+navigation-v2-more-about-mozilla = Más sobre { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Innovación
+navigation-v2-close-innovation-menu = Cerrar el menú de innovación
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
