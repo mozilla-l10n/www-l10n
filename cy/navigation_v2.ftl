@@ -38,9 +38,37 @@ navigation-v2-help-prevent-facebook-from = Helpwch i atal { -brand-name-facebook
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Sicrhewch ddiogelwch y tu hwnt i'ch porwr, ar eich holl ddyfeisiau.
 navigation-v2-product-promise = Addewid Cynnyrch
+navigation-v2-learn-how-each-firefox-product = Dysgwch sut mae pob cynnyrch { -brand-name-firefox } yn diogelu ac yn parchu'ch data.
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Cofrestrwch ar gyfer cyfrifon newydd heb drosglwyddo'ch cyfeiriad e-bost.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Diogelu cysylltiad eich porwr â'r rhyngrwyd.
+navigation-v2-view-all-products = Gweld yr Holl Gynnyrch
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Pwy Ydym Ni
+navigation-v2-close-who-we-are-menu = Cau dewislen Pwy Ydym Ni
+navigation-v2-mozilla-manifesto = Maniffesto { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Dysgwch am y gwerthoedd a'r egwyddorion sy'n arwain ein cenhadaeth.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Dewch i gyfarfod â'r corff dim-er-elw y tu ôl i { -brand-name-firefox } sy'n sefyll am we well.
+navigation-v2-get-involved = Ymunwch
+navigation-v2-join-the-fight-for-a = Ymunwch â'r frwydr am rhyngrwyd iach.
+navigation-v2-leadership = Arweinyddiaeth
+navigation-v2-meet-the-team-thats-building = Dewch i gyfarfod â'r tîm sy'n adeiladu technoleg ar gyfer rhyngrwyd gwell.
+navigation-v2-careers = Gyrfaoedd
+navigation-v2-work-for-a-mission-driven-updated = Gweithiwch i sefydliad sy'n cael ei yrru gan genhadaeth sy'n adeiladu cynnyrch sy'n gosod pobl yn gyntaf.
+navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Dysgwch am { -brand-name-mozilla } a'r materion sy'n bwysig i ni.
+navigation-v2-more-about-mozilla = Rhagor Am { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Arloesi
+navigation-v2-close-innovation-menu = Cau dewislen Arloesi
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Casglwch yn y gofod cymdeithasol rhyngweithiol, ar-lein, aml-ddimensiwn hwn.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Estynnwch y porwr { -brand-name-firefox } wedi'i adeiladu ar gyfer datblygwyr yn unig.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
