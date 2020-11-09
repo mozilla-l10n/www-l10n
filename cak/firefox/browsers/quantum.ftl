@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Taqasaj { -brand-name-firefox-quantum }
+# https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
+learn-more-about = Tetamäx ch'aqa' chik chi rij { -brand-name-firefox-quantum }
+privacy-first = Nab'ey ichinanem
