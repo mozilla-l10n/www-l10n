@@ -52,3 +52,5 @@ firefox-more-protection = { -brand-name-firefox }: major protection. Minor preoc
 were-obsessed-with = Nos es maniac con le protection de tu confidentialitate. Pro isto nos ha facite le Navigation private de { -brand-name-firefox } plus potente que le alteres.
 incognito-browser-what = Navigator anonyme: que significa vermente?
 firefox-calls-it = { -brand-name-firefox } appella illo navigation anonyme, { -brand-name-chrome } lo appella modo in incognito. Ambe te consenti de foliettar le Web sin salvar tu chronologia de navigation.
+take-the-stress = Sparnia te le stress de cercar un navigator secur.
+building-a-safe = Producer un navigator secur es un arte e un scientia perque il non ha alcun regulas preconfigurate.
