@@ -28,3 +28,4 @@ sub-navigation-faq = Jutaqil k'utunïk
 sub-navigation-learn-more = Tetamäx Ch'aqa' Chik
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } richin Oyonib'äl
+sub-navigation-android-addons = { -brand-name-android } taq Tz'aqat
