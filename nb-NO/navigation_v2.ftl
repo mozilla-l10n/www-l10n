@@ -17,8 +17,11 @@ navigation-v2-get-the-customizable-mobile = Få den tilpassbare mobilnettleseren
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Få mobilnettleseren for { -brand-name-iphone } eller { -brand-name-ipad }.
 navigation-v2-privacy-promise = Personvernløfte
+navigation-v2-learn-how-firefox-treats = Les om hvordan { -brand-name-firefox } behandler dine data med respekt.
 navigation-v2-firefox-blog = { -brand-name-firefox }-blogg
+navigation-v2-read-about-new-firefox-features = Les om nye { -brand-name-firefox }-funksjoner og måter å være trygg på nettet.
 navigation-v2-release-notes = Versjonsnotat
+navigation-v2-get-the-details-on-the = Få informasjon om de siste { -brand-name-firefox }-oppdateringene.
 navigation-v2-view-all-firefox-browsers = Vis alle { -brand-name-firefox-browsers }
 
 ## Products menu
@@ -32,6 +35,7 @@ navigation-v2-save-and-discover-the-best = Lagre og oppdag de beste artiklene fr
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Hjelp til med å forhindre at { -brand-name-facebook } samler inn data utenfor nettstedet deres.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Produktløfte
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-view-all-products = Vis alle produkter
