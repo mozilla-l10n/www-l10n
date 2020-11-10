@@ -61,3 +61,56 @@ newsletters-take-your-privacy = Tak'waj awik'in ri ichinanem
 newsletters-travel-the-internet = Ütz katok pa k'amaya'l rik'in chajinïk pa taq awokisab'al.
 newsletters-download-the-app = Tiqasäx ri Chokoy
 newsletters-check-for-data-breaches = Ke'akanoj kitzij taq tz'ilanem
+newsletters-sign-in-to-monitor = Tok pa { -brand-name-monitor }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } richin ajkematz'ib'
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Man ke'asüch ri ruk'isib'al taq rutzijol chi rij ri qokik'amaya'l richin ajkematz'ib'.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Kato'on
+# Obsolete string
+newsletters-internet-health-report = Rutzijol Raxnaqil K'amaya'l
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Ajkematz'ib'
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Aj Mozilla
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = Taq k'exoj ruwäch pa taqoya'l chi ke ri aj Mozilla, ri e'uxqanem pa mozillians.org.
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Ri jun ajnimatijob'äl nuk'samaj richin 2008-2011, xk'is chuqa' xtikirisäx chik achi'el ulanel tijonela' runuk'samaj Firefox.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = { -brand-name-mozilla } Tinamït
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Jun ajik' ko'öl wuj richin nawetamaj q'ij q'ij chi rij ri { -brand-name-firefox } Affiliates kema'.
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Jun ajik' ko'öl wuj pa ruwi' rub'eyal nanïm awi' rik'in { -brand-name-mozilla } pa ri ak'ojlib'al.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Tasik'ij ronojel chi kij ri ruk'isib'al taq rub'anikil { -brand-name-firefox } richin ajkematz'ib' chuqa' oyonib'äl taq okisaxel chuwäch xtelesäx rutzijol ri ruk'isib'al ruwäch.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Tiqasäx { -brand-name-firefox } richin { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Tak'ulu' { -brand-name-firefox } richin { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Tiqasäx { -brand-name-firefox } richin { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Tiqasäx { -brand-name-firefox } richin Oyonib'äl
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } Taq Na'oj
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Jutaqil k'exoj taq ruwäch pa taqoya'l chi rij ri qach'akoj moloj juna' juna' richin silowachib'alil ajruwachulew.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Man ke'asüch nimaläj taq rutzijol chuqa' taq k'exoj chi rij ri { -brand-name-firefox-os } awokisab'al.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Rat
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Tak'ulu' jun pixa' pa taq wuqq'ij pa ruwi' rub'eyal nisamajib'ëx ri awetamab'al rik'in { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Tawila' ri ruk'isib'al, ri janila utziläj taq chokoy pa HTML5 richin { -brand-name-firefox-os }.
