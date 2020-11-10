@@ -14,6 +14,8 @@ navigation-v2-close-firefox-browsers-menu = Emboty poravorã { -brand-name-firef
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe g̃uarã
 navigation-v2-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
+navigation-v2-privacy-promise = Ñemigua Ñe’ẽme’ẽ
+navigation-v2-learn-how-firefox-treats = Eikuaa mba’éichapa { -brand-name-firefox } oreko poyhúpe ne mba’ekuaarã.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
 
 ## Products menu

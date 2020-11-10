@@ -176,8 +176,14 @@ newsletters-get-a-weekly-tip = Og̃uahẽta ñe’ẽporã arapokõindygua mba�
 newsletters-join-mozilla = Ejuaju { -brand-name-mozilla } ndive
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = Jevy’aguasu { -brand-name-mozilla }-pe oñemomorãvo moheñói ha mbokatupyry ñandutípe.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Ehecha umi ipyahu ha oikóva HTML5 rembipuru’i { -brand-name-firefox-os }-pe.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Marandu, kuaapyrã araka’épa osẽta ha moõpa ejoguakuaa { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 # Name for the newsletter in Newsletter subscription page
