@@ -78,3 +78,4 @@ navigation-v2-explore-the-web-with-the = Esplora il Web con il browser { -brand-
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dona la tua voce per insegnare al Web a comprendere tutti.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = Ulteriori informazioni sull’innovazione { -brand-name-mozilla }
