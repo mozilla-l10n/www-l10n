@@ -72,6 +72,7 @@ navigation-v2-gather-in-this-interactive-online = Reúnam-se neste espaço socia
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Instale o navegador { -brand-name-firefox } feito especialmente para desenvolvedores.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Visite o lar de recursos para desenvolvedores web.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Explore a web com o navegador { -brand-name-firefox } para realidade virtual.
 navigation-v2-common-voice = { -brand-name-common-voice }
