@@ -7,6 +7,8 @@
 
 # Page title the subscription preferences page
 newsletters-newsletter-subscriptions = Abonementy powěsćowych listow
+# Page titlefor https://www-dev.allizom.org/newsletter/
+newsletters-mozilla-newsletter = Powěsćowy list { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Čitajće wšitko wo tym w našim <span>powěsćowym lisće</span>
 # Page title the subscription confirmation page
@@ -30,6 +32,9 @@ newsletters-country = Kraj:
 newsletters-language = Rěč:
 # Form field label
 newsletters-format = Format:
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } płaćiwy powěsćowy list njeje.
 newsletters-subscribe = Abonować
 newsletters-save-preferences = Nastajenja składować
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
@@ -82,3 +87,33 @@ newsletters-get-involved = Čińće sobu
 newsletters-insights = Dohlady
 # Obsolete string
 newsletters-internet-health-report = Rozprawa wo strowosći interneta
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Wěda je móc
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Wo Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Desktop
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozillačenjo
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = E-mejlowe aktualizacije za zaručenych Mozillančanow na mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Staw weba
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Bywši uniwersitowy program z lět 2008-2011, nětko zastajeny a znowa startowany jako program studentowych wulkopósłancow Firefox.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Zasadźće so za internet
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Testowanje nowych produktow
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Zhromadźenstwo { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Partnerojo { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Měsačny powěsćowy list, zo by was wo programje partnerow { -brand-name-firefox } běžnje informował.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
