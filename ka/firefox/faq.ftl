@@ -81,4 +81,4 @@ who-owns-firefox = ვის ეკუთვნის { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } შექმნილია { -brand-name-mozilla-corporation }-ის მიერ, რომელიც სრულად ექვემდებარება არამომგებიან <a href="{ $url }">{ -brand-name-mozilla-foundation }-ს,</a> და ხელმძღვანელობს { -brand-name-mozilla }-ს დებულებებით. ვრცლად, გაეცანით { -brand-name-firefox }-ის შემქმნელს <a href="{ $url2 }">აქედან.</a>
-related-questions-who = მსგავსი კითხვები: { -brand-name-firefox } ვის მფლობელობაშია, ვინ ფლობს { -brand-name-firefox-browser }-ს, { -brand-name-firefox } არის { -brand-name-google } კუთვნილი, { -brand-name-mozilla } { -brand-name-firefox } ეკუთვნის { -brand-name-google }-ს
+related-questions-who = მსგავსი კითხვები: { -brand-name-firefox } ვის მფლობელობაშია, ვინ ფლობს { -brand-name-firefox-browser(case: "dat") }, { -brand-name-firefox } არის { -brand-name-google }-ის საკუთრება, { -brand-name-mozilla } { -brand-name-firefox } ეკუთვნის { -brand-name-google }-ს
