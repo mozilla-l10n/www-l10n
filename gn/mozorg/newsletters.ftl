@@ -162,8 +162,12 @@ newsletters-periodic-email-updates = Rombohekopyahu tapia ñanduti veve rupi ore
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-smartphone-owner = ¿{ -brand-name-firefox-os } pumbyry ha’evéva jára?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Ani emboyke marandu ha mba’epyahu ne mba’e’oka { -brand-name-firefox-os } rehegua.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Nde
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Peteĩ jehaipyre’i jasyguáva ha marandu’i hecharamóva mba’éichapa eguenohẽkuaa eikotevẽva { -brand-name-firefox-os } mba’e’okágui, oĩhápe ipyahuvéva ha tembipuru’i { -brand-name-firefox-marketplace } pegua.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Ñe’ẽporã arapokõindyguáva { -brand-name-firefox } peg̃uarã
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
