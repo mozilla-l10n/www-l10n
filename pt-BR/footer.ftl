@@ -6,6 +6,7 @@ footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 footer-privacy = Privacidade
 footer-press = Imprensa
+footer-browser-comparison = Comparação de navegadores
 footer-brand-standards = Padrões de marca
 footer-browsers = Navegadores
 # Outdated string
