@@ -17,18 +17,21 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 navigation-v2-learn-how-firefox-treats = Saiba como o { -brand-name-firefox } trata seus dados com respeito.
 navigation-v2-firefox-blog = Blog do { -brand-name-firefox }
 navigation-v2-release-notes = Notas da versão
+navigation-v2-view-all-firefox-browsers = Veja todos os { -brand-name-firefox-browsers }
 
 ## Products menu
 
 navigation-v2-products = Produtos
 navigation-v2-close-products-menu = Fechar menu Produtos
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Veja se o seu email apareceu no vazamento de dados de alguma empresa.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Salve e descubra as melhores histórias da web.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-learn-how-each-firefox-product = Saiba como cada produto { -brand-name-firefox } protege e respeita seus dados.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
-navigation-v2-sign-up-for-new-accounts = Crie novas contas sem fornecer seu endereço de e-mail.
+navigation-v2-sign-up-for-new-accounts = Crie novas contas sem fornecer seu endereço de email.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Proteja a conexão do seu navegador com a internet.
 navigation-v2-view-all-products = Ver todos os produtos
