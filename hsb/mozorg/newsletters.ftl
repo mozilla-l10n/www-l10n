@@ -111,6 +111,30 @@ newsletters-mozilla-community = Zhromadźenstwo { -brand-name-mozilla }
 newsletters-firefox-affiliates = Partnerojo { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 newsletters-a-monthly-newsletter-affiliates = Měsačny powěsćowy list, zo by was wo programje partnerow { -brand-name-firefox } běžnje informował.
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Měsačny powěsćowy list wo tym, kak móžece z { -brand-name-mozilla } na swojim polu hromadźe dźěłać.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Nowinki { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Čitajće wo najnowšich funkcijach za desktopowy a mobilny { -brand-name-firefox } před kónčnej wersiju.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = { -brand-name-firefox } za { -brand-name-android } sćahnyć
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Wobstarajće sej { -brand-name-firefox } za { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios } sćahnyć
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = { -brand-name-firefox } za mobilne graty sćahnyć
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Pokiwy { -brand-name-firefox-accounts }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Periodiske e-mejlowe aktualizacije wo našim kóždolětnim mjezynarodnym filmowym wubědźowanju.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Name for the newsletter in Newsletter subscription page
