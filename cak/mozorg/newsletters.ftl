@@ -19,3 +19,45 @@ newsletters-please-be-sure-to-add-our = Tab'ana' utzil, tatz'aqatisaj ri rub'ey 
 newsletters-the-supplied-link-has-expired = Xk'is ri ximonel ya'on pe. Xtak'ül jun k'ak'a' pa ri jun chik ko'öl wuj.
 newsletters-something-is-amiss-with = K'o ri man ütz ta pa ri qaq'inoj, kojakuyu'. Tatojtob'ej chik pa jun ti mej.
 newsletters-youre-awesome = ¡Yalan at ütz!
+newsletters-manage-your-email-preferences = Ke'anuk'samajij ri taq Rajowab'al Ataqoya'l
+newsletters-we-love-sharing-updates = Niqa chi qawäch nikakomonij ri taq k'exoj ruwäch chi kij ronojel ri jeb'ël yek'ulwachitäj pa { -brand-name-mozilla }.
+newsletters-set-your-preferences-below = Ke'ajikib'a' ri taq awajowab'al pa xulan qa richin nijikib'äx chi jantape' xke'ak'ül ri taq rutzijol xke'awajo'.
+# Form field label
+newsletters-your-email-address = Rochochib'al ataqoya'l:
+# Form field label
+newsletters-country-or-region = Amaq' o k'ojlib'äl:
+# Form field label
+newsletters-country = Amaq':
+# Form field label
+newsletters-language = Ch'ab'äl:
+# Form field label
+newsletters-format = B'anikil:
+newsletters-subscribe = Rutz'ib'axik b'i'aj
+newsletters-save-preferences = Keyak taq Ajowab'äl
+# Headline for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-manage-your-newsletter = Tanuk'samajij ri <span>taq rutz'ib'axik ab'i' pa taq ko'öl wuj</span> awichin
+newsletters-send-me-a-link = Titaq chwe jun ximonel
+newsletters-youve-been-unsubscribed = Xaq'ät ri rutz'ib'axik ab'i'.
+newsletters-were-sorry-to-see-you-go = Yatqamäy ruma yab'e.
+newsletters-would-you-mind-telling-us = ¿La man niyakatäj ta awoyowal, nab'ij chi qe atux ruma tajin yab'e el?
+newsletters-other = Juley chik…
+newsletters-submit = Titaq
+newsletters-thanks-for-telling-us-why = Niqak'awomaj chawe ruma natzijoj chi qe atux ruma yatel kan.
+newsletters-while-here-why-not-check = Ruma at k'o chik wawe', achike ta ruma man ye'awïl ta juley chik taq ruwachinaq { -brand-name-firefox }, ri janila xtamäy.
+newsletters-get-up-and-go = Kayakatäj chuqa' kab'iyin
+newsletters-its-your-web-anywhere-you = Awichin ri ajk'amaya'l xa b'a akuchi' yab'e wi.
+newsletters-get-firefox-for-mobile = ¡Tak'ulu' { -brand-name-firefox } richin oyonib'äl!
+newsletters-added-extras = Taq ruwi' etz'aqatisan
+newsletters-find-out-how = ¡Tawila' achike rub'eyal!
+newsletters-about-us = Chi qij röj
+newsletters-were-glad-you-asked = ¡Yojkiköt nak'utuj pe chi qe!
+newsletters-thanks-for-updating-your = Niqak'awomaj chawe ruma xak'ëx kiwäch ri taq rajowab'al taqoya'l.
+newsletters-you-send-too-many-emails = Janila k'ïy taqoya'l ye'atäq.
+newsletters-your-content-wasnt-relevant = Chi nuwäch, majun rejqalem ri k'o chupam.
+newsletters-your-email-design = Ru ruwachib'enik taqoya'l, man ütz ta nub'än chi re ri sik'inïk.
+newsletters-i-didnt-sign-up = Man xinel ta kan chupam re jun rutz'ib'axik b'i'aj re'.
+newsletters-back-to-email-preferences = Titzolin pa taq rajowab'al taqoya'l
+newsletters-take-your-privacy = Tak'waj awik'in ri ichinanem
+newsletters-travel-the-internet = Ütz katok pa k'amaya'l rik'in chajinïk pa taq awokisab'al.
+newsletters-download-the-app = Tiqasäx ri Chokoy
+newsletters-check-for-data-breaches = Ke'akanoj kitzij taq tz'ilanem
