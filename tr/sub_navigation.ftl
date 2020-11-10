@@ -45,6 +45,7 @@ sub-navigation-firefox-features = { -brand-name-firefox } Özellikleri
 sub-navigation-ad-tracker-blocking = Reklam Takipçilerini Engelleme
 sub-navigation-private-browsing = Gizli Gezinti
 sub-navigation-what-is-a-browser = Tarayıcı Nedir?
+sub-navigation-browsing-history = Tarayıcıların Tarihi
 sub-navigation-browser-history = Tarayıcıların Tarihi
 sub-navigation-privacy = Gizlilik
 sub-navigation-our-promise = Sözümüz
