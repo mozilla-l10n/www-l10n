@@ -14,7 +14,7 @@ learn-more-about = Rhagor am { -brand-name-firefox-quantum }
 privacy-first = Preifatrwydd yn gyntaf
 firefox-doesnt-spy = Nid yw { -brand-name-firefox } yn ysbio arnoch chi ar-lein. Rydym yn atal llawer o gwcis tracio trydydd parti ac yn rhoi rheolaeth lawn i chi.
 super-fast = Cyflym Iawn
-get-speed-and = Cyflymder a diogelwch. Mae { -brand-name-firefox } yn gyflym  oherwydd nad ydym yn tracio'ch symudiadau.
+get-speed-and = Cael cyflymder a diogelwch. Mae { -brand-name-firefox } yn gyflym  oherwydd nad ydym yn tracio'ch symudiadau.
 always-evolving = Yn esblygu'n barhaus
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features
