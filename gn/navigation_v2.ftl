@@ -42,9 +42,11 @@ navigation-v2-close-who-we-are-menu = Emboty poravorã Mávapa ore
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Je’epy
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Emba’apo orendive
+navigation-v2-join-the-fight-for-a = Eipytyvõke ñanduti hekoresãi hag̃ua.
 navigation-v2-leadership = Motenondekuaa
 navigation-v2-careers = Mbo’esyryete
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
+navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuãi romomba’éva.
 navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 
 ## Innovation menu
