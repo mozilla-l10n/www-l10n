@@ -10,6 +10,6 @@ firstrun-welcome-to-firefox = მოგესალმებათ { -brand-name
 firstrun-take-firefox-with-you = თან წაიყოლეთ { -brand-name-firefox }
 firstrun-already-using-firefox = აქამდეც გამოგიყენებიათ { -brand-name-firefox }?
 firstrun-get-your-bookmarks-history = მიიღეთ წვდომა თქვენს სანიშნებთან, ისტორიასთან, პაროლებსა და სხვა პარამეტრებთან, ყველა თქვენს მოწყობილობაზე.
-firstrun-sign-in-to-your-account = შედით თქვენს ანგარიშზე, დანარჩენ მოწყობილობებზე არსებული სანიშნების, პაროლებისა და თქვენ მიერ შენახული სხვა საჭირო მონაცემების დასინქრონებისთვის.
+firstrun-sign-in-to-your-account = შედით თქვენს ანგარიშზე, სანიშნების, პაროლებისა და სხვა თქვენთვის მნიშვნელოვანი მასალების დასინქრონებისთვის, რომლებსაც { -brand-name-firefox } ინახავს დანარჩენ მოწყობილობებზე.
 firstrun-already-have-an-account = უკვე გაქვთ ანგარიში?
 firstrun-sign-in = შესვლა
