@@ -16,6 +16,7 @@ firefox-desktop-download-download-options = Варыянты сцягвання 
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Рабіце ў сеціве, што робіце.<br> { -brand-name-firefox-browser } <strong>не</strong> глядзіць.
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } у параўнанні з іншымі браўзерамі
 firefox-desktop-download-compare-firefox-to = Параўнаць { -brand-name-firefox } з:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
