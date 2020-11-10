@@ -17,12 +17,27 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg�
 navigation-v2-privacy-promise = Ñemigua Ñe’ẽme’ẽ
 navigation-v2-learn-how-firefox-treats = Eikuaa mba’éichapa { -brand-name-firefox } oreko poyhúpe ne mba’ekuaarã.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
+navigation-v2-read-about-new-firefox-features = Emoñe’ẽ { -brand-name-firefox } rembiapokue pyahu ha eikuaa mba’éichapa ne rekorosãvéta ñandutípe.
+navigation-v2-release-notes = Jehaipy Rehegua
+navigation-v2-get-the-details-on-the = Ereko mba’emimi { -brand-name-firefox } kundahára pyahu rehegua.
+navigation-v2-view-all-firefox-browsers = Ehechapa { -brand-name-firefox-browsers }
 
 ## Products menu
 
+navigation-v2-products = Apopyre
+navigation-v2-close-products-menu = Emboty poravorã Apopyre
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Apopyre Ñe’ẽme’ẽ
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-view-all-products = Ehechapaite Apopyre
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Mávapa ore
 
 ## Innovation menu
 
