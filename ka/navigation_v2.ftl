@@ -10,11 +10,30 @@ navigation-v2-menu = მენიუ
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = დახურეთ მენიუ { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } მენიუს დახურვა
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } კომპიუტერისთვის
+navigation-v2-get-the-not-for-profit-backed = გამოიყენეთ არამომგებიანი კომპანიის ბრაუზერი { -brand-name-windows }, { -brand-name-mac-short } ან { -brand-name-linux }-სისტემაზე.
+navigation-v2-firefox-for-android = { -brand-name-firefox } { -brand-name-android }-ზე
+navigation-v2-get-the-customizable-mobile = გამოიყენეთ სრულად მოსარგები ბრაუზერი { -brand-name-android }-სმარტფონებზე.
+navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }-ზე
+navigation-v2-get-the-mobile-browser = გადმოწერეთ ბრაუზერი თქვენი { -brand-name-iphone } ან { -brand-name-ipad }-ისთვის.
+navigation-v2-privacy-promise = პირადულობის დაცვის პირობა
+navigation-v2-learn-how-firefox-treats = იხილეთ, როგორ ღირსეულად ეპყრობა { -brand-name-firefox } თქვენს მონაცემებს.
+navigation-v2-firefox-blog = { -brand-name-firefox } სვეტი
+navigation-v2-read-about-new-firefox-features = იხილეთ, { -brand-name-firefox }-ის ახალი შესაძლებლობები და რჩევები, როგორ გამოიყენოთ ინტერნეტი უსაფრთხოდ.
+navigation-v2-release-notes = გამოშვების მონაცემები
+navigation-v2-get-the-details-on-the = გაეცანით ვრცლად, უახლესი { -brand-name-firefox }-ბრაუზერის განახლებებს.
+navigation-v2-view-all-firefox-browsers = იხილეთ { -brand-name-firefox-browsers }
 
 ## Products menu
 
+navigation-v2-products = პროდუქტები
+navigation-v2-close-products-menu = პროდუქტების მენიუს დახურვა
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = გაარკვიეთ, თქვენი ელფოსტა კომპანიებიდან მიტაცებულ მონაცემებში ხომ არ მოხვედრილა.
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = გადაინახეთ და აღმოაჩინეთ საუკეთესო ამბები, მთელი ვებსივრციდან.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
 
 ## Who We Are menu
 
