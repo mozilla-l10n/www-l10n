@@ -41,9 +41,11 @@ navigation-v2-who-we-are = Mávapa ore
 navigation-v2-close-who-we-are-menu = Emboty poravorã Mávapa ore
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Je’epy
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = Emba’apo orendive
 navigation-v2-leadership = Motenondekuaa
 navigation-v2-careers = Mbo’esyryete
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
+navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 
 ## Innovation menu
 
@@ -55,3 +57,4 @@ navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = { -brand-name-mozilla } Ñembopyahuve
