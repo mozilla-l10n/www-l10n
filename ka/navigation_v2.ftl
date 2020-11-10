@@ -34,9 +34,26 @@ navigation-v2-see-if-your-email-has = გაარკვიეთ, თქვე�
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = გადაინახეთ და აღმოაჩინეთ საუკეთესო ამბები, მთელი ვებსივრციდან.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = არ მისცეთ { -brand-name-facebook }-ს თქვენზე მონაცემების შეგროვების საშუალება, მისი საიტის გარეთ.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = მიიღეთ უსაფრთხოება ბრაუზერის მიღმაც, ყველა თქვენს მოწყობილობაზე.
+navigation-v2-product-promise = პროდუქტებში პირადულობის პირობა
+navigation-v2-learn-how-each-firefox-product = იხილეთ, თითოეული { -brand-name-firefox }-პროდუქტი როგორ იცავს და პატივისცემით ეპყრობა თქვენს მონაცემებს.
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (საცდელი)
+navigation-v2-sign-up-for-new-accounts = შექმენით ახალი ანგარიშები, თქვენი ელფოსტის გამჟღავნების გარეშე.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (საცდელი)
+navigation-v2-protect-your-browsers-connection = დაიცავით თქვენი ბრაუზერის კავშირი ინტერნეტთან.
+navigation-v2-view-all-products = იხილეთ ყველა პროდუქტი
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = ვინ ვართ ჩვენ
+navigation-v2-close-who-we-are-menu = ვინ ვართ ჩვენ მენიუს დახურვა
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-ს დებულებები
+navigation-v2-learn-about-the-values = გაეცანით იმ ღირებულებებსა და პრინციპებს, რომლებითაც ვხელმძღვანელობთ ჩვენი მიზნისკენ მიმავალ გზაზე.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = გაიცანით არამომგებიანი ორგანიზაცია, რომელიც ქმნის { -brand-name-firefox }-ს და დგას ვებსამყაროს განვითარების სადარაჯოზე.
+navigation-v2-get-involved = ჩაერთეთ
 
 ## Innovation menu
 
