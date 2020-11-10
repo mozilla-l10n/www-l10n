@@ -53,6 +53,7 @@ navigation-v2-innovation = Ñembopyahu
 navigation-v2-close-innovation-menu = Emboty poravorã ñembopyahugua
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Erekóke { -brand-name-firefox } ha’éva mboguatahárape g̃uarã añoite.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
