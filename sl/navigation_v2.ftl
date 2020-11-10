@@ -9,6 +9,7 @@ navigation-v2-menu = Meni
 
 ## Firefox menu
 
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 
 ## Products menu
 
