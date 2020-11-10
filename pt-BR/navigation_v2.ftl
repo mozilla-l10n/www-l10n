@@ -38,9 +38,14 @@ navigation-v2-close-who-we-are-menu = Fechar menu Quem somos
 navigation-v2-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Envolva-se
+navigation-v2-join-the-fight-for-a = Junte-se à luta por uma internet saudável.
 navigation-v2-leadership = Liderança
+navigation-v2-meet-the-team-thats-building = Conheça a equipe que está desenvolvendo tecnologia para uma internet melhor.
 navigation-v2-careers = Empregos
+navigation-v2-work-for-a-mission-driven-updated = Trabalhe para uma organização orientada a uma missão, que cria produtos que põem as pessoas em primeiro lugar.
 navigation-v2-mozilla-blog = Blog da { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Saiba mais sobre a { -brand-name-mozilla } e as questões que são importantes para nós.
+navigation-v2-more-about-mozilla = Mais informações sobre a { -brand-name-mozilla }
 
 ## Innovation menu
 
