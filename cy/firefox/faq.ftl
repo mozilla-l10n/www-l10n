@@ -16,7 +16,7 @@ what-is-firefox = Beth yw { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
 the-firefox-browser = Y porwr { -brand-name-firefox-browser } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw sydd ddim yn gwerthu eich data personol i hysbysebwyr tra'n eich helpu i diogelu eich manylion personol. Dysgu rhagor am y <a href="{ $url }"> { -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">chynnyrch eraill.</a>
-how-do-i = Sut mae cael gafael ar { -brand-name-firefox-browser }?
+how-do-i = Sut mae cael { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/

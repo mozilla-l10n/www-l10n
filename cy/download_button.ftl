@@ -23,9 +23,9 @@ download-button-please-follow-these = Dilynwch <a href="{ $url }">y cyfarwyddiad
 download-button-your-system-does-not = Nid yw eich system yn cyrraedd <a href="{ $url }">y gofynion</a> i redeg { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } ar gyfer Platfformau ac Ieithoedd Eraill
 download-button-update-your-firefox = Diweddarwchu eich { -brand-name-firefox }
-download-button-get-firefox-android = Estyn { -brand-name-firefox } { -brand-name-android }
-download-button-get-firefox-ios = Estynnwch { -brand-name-firefox } { -brand-name-ios }
-download-button-google-play = Estynnwch o { -brand-name-google-play }
+download-button-get-firefox-android = Cael { -brand-name-firefox } { -brand-name-android }
+download-button-get-firefox-ios = Cael { -brand-name-firefox } { -brand-name-ios }
+download-button-google-play = Ei gael o { -brand-name-google-play }
 download-button-free-google-play = Am ddim o { -brand-name-google-play }
 download-button-app-store = Estynnwch gopi am ddim o'r { -brand-name-app-store }
 download-button-download-app-store = Llwythwch i lawr o'r { -brand-name-app-store }

@@ -5,15 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Mynnwch { -brand-name-firefox } ar gyfer eich menter gydag { -brand-name-esr } a Rapid Release
-firefox-enterprise-get-unmatched-data-protection = Cewch ddiogelwch data heb ei ail gydag amlder ryddhau sy'n addas i chi gyda { -brand-name-firefox } ar gyfer menter. Llwythwch i lawr { -brand-name-esr } a Rapid Release.
+firefox-enterprise-get-firefox-for-your-enterprise-with = Cael { -brand-name-firefox } ar gyfer eich menter gydag { -brand-name-esr } a Rapid Release
+firefox-enterprise-get-unmatched-data-protection = Cael diogelwch data heb ei ail gydag amlder ryddhau sy'n addas i chi gyda { -brand-name-firefox } ar gyfer menter. Llwythwch i lawr { -brand-name-esr } a Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Trosolwg
 firefox-enterprise-downloads = Pecynnau
-firefox-enterprise-get-firefox-for-your-enterprise = { -brand-name-firefox } ar gyfer Menter
+firefox-enterprise-get-firefox-for-your-enterprise = Cael { -brand-name-firefox } ar gyfer eich menter
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Defnyddiwch y porwr <a href="{ $url }">{ -brand-name-firefox-extended-support-release }  neu Rapid Release</a> am ddiogeledd data cynhwysfawr ac i ddiogelu eich data.
+firefox-enterprise-get-the-firefox-extended-support = Cael y porwr <a href="{ $url }">{ -brand-name-firefox-extended-support-release }  neu Rapid Release</a> am ddiogeledd data cynhwysfawr ac i ddiogelu eich data.
 firefox-enterprise-unmatched-data-protection = Cewch ddiogelwch data heb ei ail — gydag amlder ryddhau sy'n addas i'ch sefydliad.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Mae porwr { -brand-name-firefox } yn raglen cod agored ac yn darparu Diogelu Tracio Uwch - y cyfan yn rhan o'n hymrwymiad tymor hir i ddiogelu data.
@@ -21,7 +21,7 @@ firefox-enterprise-your-data-stays-your-business = Mae eich data'n aros o fewn e
 firefox-enterprise-deploy-when-and-how-you-want = Darparu bryd a sut bynnag sy'n addas i chi
 firefox-enterprise-with-install-packages-and = Gyda phecynnau gosod a dewis eang o bolisïau a nodweddion grŵp, mae'r ddarpariaeth yn gynt ac yn fwy hyblyg nag erioed - mae'n arbennig o rwydd mewn amgylcheddau { -brand-name-windows } a { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Dewis eich llwybr ryddhau
-firefox-enterprise-get-rapid-releases-to-make = Defnyddiwch lwybr ryddhau cyflym er mwyn cael y nodweddion diweddaraf yn gynt, neu lwybr estynedig i sicrhau profiad mwy sefydlog.
+firefox-enterprise-get-rapid-releases-to-make = Cael y llwybr ryddhau cyflym er mwyn cael y nodweddion diweddaraf yn gynt, neu lwybr estynedig i sicrhau profiad mwy sefydlog.
 firefox-enterprise-enterprise-downloads = Pecynnau { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-did
 firefox-enterprise-macos = { -brand-name-mac }

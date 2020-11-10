@@ -10,11 +10,11 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Llwythwch { -brand-name-firefox-browser } - Cyflym, Preifat ac Am Ddim - gan { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Estynnwch { -brand-name-firefox }, porwr gwe am ddim gan { -brand-name-mozilla }, corff dim-er-elw sy'n ymroddedig i iechyd a phreifatrwydd y rhyngrwyd. Ar gael nawr ar { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
+firefox-desktop-download-meta-desc = Cael { -brand-name-firefox }, porwr gwe am ddim gan { -brand-name-mozilla }, corff dim-er-elw sy'n ymroddedig i iechyd a phreifatrwydd y rhyngrwyd. Ar gael nawr ar { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 firefox-desktop-download-og-title = Llwythwch i lawr y { -brand-name-firefox } cyflymaf erioed
 firefox-desktop-download-og-desc = Llwytho tudalennau cynt, llai o ddefnydd o gof ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd yma.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Defnyddiwch y porwr sy'n diogelu'r hyn sy'n bwysig
+firefox-desktop-download-get-the-browser = Cael y porwr sy'n diogelu'r hyn sy'n bwysig
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau cefn i hysbysebwyr. Porwr cyflym iawn sydd ddim yn eich trin fel rhywbeth i'w werthu.
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
@@ -113,8 +113,8 @@ firefox-desktop-download-screenshots = Lluniau Sgrin
 firefox-desktop-download-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 firefox-desktop-download-from-watching-a = O wylio tiwtorial gwe i gadw llygad ar eich hoff dîm, mae eich fideo yn eich dilyn wrth i chi amldasgio.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Estyn { -brand-name-firefox-browser } <strong> { -brand-name-android } </strong>
-firefox-desktop-download-get-firefox-ios = Estyn { -brand-name-firefox-browser } <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-firefox-android = Cael { -brand-name-firefox-browser } <strong> { -brand-name-android } </strong>
+firefox-desktop-download-get-firefox-ios = Cael { -brand-name-firefox-browser } <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Llwythwch i lawr y porwr symudol { -brand-name-firefox } ar gyfer diogelwch awtomatig ar eich holl ddyfeisiau.
 firefox-desktop-download-learn-about-the = Dysgwch am y porwyr bwrdd gwaith { -brand-name-firefox } isod
 # Variables:
