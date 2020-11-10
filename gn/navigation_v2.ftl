@@ -38,9 +38,17 @@ navigation-v2-view-all-products = Ehechapaite Apopyre
 ## Who We Are menu
 
 navigation-v2-who-we-are = Mávapa ore
+navigation-v2-close-who-we-are-menu = Emboty poravorã Mávapa ore
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Je’epy
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-leadership = Motenondekuaa
+navigation-v2-careers = Mbo’esyryete
+navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 
 ## Innovation menu
 
+navigation-v2-innovation = Ñembopyahu
+navigation-v2-close-innovation-menu = Emboty poravorã ñembopyahugua
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
