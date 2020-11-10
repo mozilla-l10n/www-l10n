@@ -128,6 +128,8 @@ newsletters-new-product-testing = Eipuru apopyre pyahu
 newsletters-mozilla-community = { -brand-name-mozilla } rekoha
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Peteĩ marandu’i jasyguáva emboheko tapia hag̃ua { -brand-name-firefox } Affiliates apopyre.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
 # Name for the newsletter in Newsletter subscription page
