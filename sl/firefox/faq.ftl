@@ -30,15 +30,18 @@ is-firefox-free = Je { -brand-name-firefox } brezplačen?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Je { -brand-name-firefox } varen?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = Ali { -brand-name-firefox } prodaja osebne podatke uporabnikov?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Zakaj je { -brand-name-firefox } tako počasen?
+is-firefox-chromium = Ali { -brand-name-firefox } temelji na { -brand-name-chromium }u?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
