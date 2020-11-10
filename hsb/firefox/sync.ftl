@@ -11,6 +11,7 @@ firefox-sync-privacy-made-easy = Priwatnosć na lochke wašnje
 firefox-sync-all-you-need = Wšitko, štož za { -brand-name-firefox-sync } trjebaće, je { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Zaklučujće swoje daty
 firefox-sync-feel-safe = Čujće so wěsty
+firefox-sync-we-store-your = Składujemy waše zaklučowane daty na swojich serwerach, zo njebychmy móhli je čitać.
 start-syncing-in = Synchronizujće w štyrjoch krokach:
 firefox-sync-click-get-started = Klikńće na <strong>„Prěnje kroki“</strong> we wočinjacym so rajtarku.
 enter-an-email = Zapodajće e-mejlowu adresu a hesło, zo byšće <strong>„konto { -brand-name-firefox-account } załožił.“</strong>
