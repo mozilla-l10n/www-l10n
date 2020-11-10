@@ -17,6 +17,7 @@ newsletter-form-get-firefox-news = Tak'ulu' taq rutzijol { -brand-name-firefox }
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ütz rub'anon chi nuwäch rusamajixik ri wetamab'al pa { -brand-name-mozilla } achi'el niq'alajisäx pa <a href="{ $url }">re ichinan runa'oj</a>
 newsletter-form-we-will-only-send = Xa xe xtiqatäq el chawe taq etamab'äl chi rij { -brand-name-mozilla }.
+newsletter-form-we-will-only-send-firefox = Xa xe xtiqatäq el chawe taq etamab'äl chi rij { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = We man ajikib'an ta rutz'ib'axik ab'i' pa jun rutzijol ko'öl na'oj pa ruwi' ri { -brand-name-mozilla } rik'in jub'a' k'o chi nab'än. Tab'ana' utzil tanik'oj ri ataqob'äl o ri ruchayub'al itzel taq taqoya'l richin jun rutzijol jun taqoya'l.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Rat
 newsletter-form-get-firefox-tips = Ke'ak'ulu' taq runa'oj { -brand-name-firefox }, taq q'oloj, taq rutzijol chuqa' ch'aqa' chik
@@ -27,3 +28,5 @@ newsletter-form-select-country = Tacha' jun amaq'
 newsletter-form-sign-me-up = ¡Titz'ib'äx nub'i'!
 newsletter-form-sign-up-now = Tatz'ib'aj awi' wakami
 newsletter-form-thanks = ¡Matyox!
+newsletter-form-yes = Ja'
+newsletter-form-no = Mani

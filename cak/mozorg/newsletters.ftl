@@ -114,3 +114,19 @@ newsletters-maker-party = Maker Party
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
 newsletters-discover-the-latest = Tawila' ri ruk'isib'al, ri janila utziläj taq chokoy pa HTML5 richin { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Taq rutzijol, taq pixa' chuqa' etamab'äl richin relesaxik chuqa' akuchi' niloq' { -brand-name-firefox-os }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } richin { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Nimaläj taq rutzijol chuqa' kitzijol taq kitaqoya'l ri molaj, ri yesamäj chi jantape' alaj chuqa' okel ri ajk'amaya'l.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
