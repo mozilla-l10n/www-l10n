@@ -54,6 +54,29 @@ navigation-v2-learn-about-the-values = გაეცანით იმ ღირ
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-meet-the-not-for-profit-behind = გაიცანით არამომგებიანი ორგანიზაცია, რომელიც ქმნის { -brand-name-firefox }-ს და დგას ვებსამყაროს განვითარების სადარაჯოზე.
 navigation-v2-get-involved = ჩაერთეთ
+navigation-v2-join-the-fight-for-a = შემოუერთდით ინტერნეტის სიჯანსაღისთვის ბრძოლას.
+navigation-v2-leadership = ხელმძღვანელობა
+navigation-v2-meet-the-team-thats-building = გაიცანით გუნდი, რომელიც აშენებს ტექნოლოგიას უკეთესი ინტერნეტისთვის.
+navigation-v2-careers = დასაქმება
+navigation-v2-work-for-a-mission-driven-updated = იმუშავეთ დაწესებულებაში, რომელიც ისწრაფვის განსაზღვრული მიზნისკენ და ქმნის ხალხის უწინარესობის უზრუნველმყოფ პროდუქტებს.
+navigation-v2-mozilla-blog = { -brand-name-mozilla } სვეტი
+navigation-v2-learn-about-mozilla-and = იხილეთ { -brand-name-mozilla } და საკითხები, რომლებიც მეტად გვაღელვებს.
+navigation-v2-more-about-mozilla = უკეთ გაიცანით { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = წამოწყებები
+navigation-v2-close-innovation-menu = წამოწყებების მენიუს დახურვა
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = შეიკრიბეთ ინტერაქტიულ, მრავალგანზომილებიან სოციალურ ინტერნეტსივრცეში.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = გამოიყენეთ { -brand-name-firefox }, შექმნილი საგანგებოდ შემმუშავებლებისთვის.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = გადახედეთ ზღვა მასალის წყაროს, ვებშემმუშავებლებისთვის.
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = შეისწავლეთ ვებსამყარო { -brand-name-firefox }-ბრაუზერით, წარმოსახვითი სინამდვილისთვის.
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = შემოგვწირეთ თქვენი ხმა, რომ მომავალში ვებსამყაროს, ყველასი ესმოდეს.
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = შეისწავლეთ ახალი, ქვედა დონის, ასემბლერის მაგვარი ენა.
+navigation-v2-more-mozilla-innovation = ვრცლად, { -brand-name-mozilla }-ს დანერგილ სიახლეებზე
