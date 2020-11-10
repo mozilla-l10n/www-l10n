@@ -20,6 +20,6 @@ lockwise-256-bit-encryption-protects = Mae amgryptiad 256-did yn eich diogelu wr
 lockwise-get-to-your-passwords-securely = Gwneud defnydd o'ch cyfrineiriau yn ddiogel gyda Face neu Touch ID
 lockwise-your-privacy-comes-first = Eich preifatrwydd yn flaenoriaeth
 lockwise-we-keep-your-data-safe = Rydym yn cadw'ch data yn ddiogel, byth yn cael ei werthu.
-lockwise-support = Cefnogaeth
+lockwise-support = Cymorth
 lockwise-your-privacy = Eich Preifatrwydd
 lockwise-github = { -brand-name-github }

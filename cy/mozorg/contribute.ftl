@@ -20,7 +20,7 @@ contribute-tag-technical = Technegol
 contribute-tag-technical-non-technical = Technegol ac Anhechnegol
 contribute-tag-individual-event = Trefnu ar gyfer unigolion a digwyddiadau
 contribute-tag-individual = Unigolion
-contribute-tag-support = Cefnogaeth
+contribute-tag-support = Cymorth
 contribute-task-translate-heading = Cyfieithu cynnwys
 contribute-task-translate-desc = Mae'r rhyngrwyd yn fyd-eang dim ond os yw'n cael ei ddeall ym mhobman. Helpwch ni i gyfieithu cynnyrch a gwefannau { -brand-name-mozilla } i'ch iaith leol.
 contribute-task-mozilla-codebase-heading = Cyfrannu at god sail { -brand-name-mozilla }
@@ -58,7 +58,7 @@ contribute-newsletter-desc = Tanysgrifiwch i'n cylchlythyr, ymunwch â Mozilliai
 
 contribute-support-heading = Derbyn Cymorth
 contribute-support-desc = Mae gan { -brand-name-mozilla } dîm ymroddedig o wirfoddolwyr i helpu gyda pha bynnag faterion y gallech fod yn eu profi.
-contribute-mozilla-support = Cefnogaeth { -brand-name-mozilla }
+contribute-mozilla-support = Cymorth { -brand-name-mozilla }
 
 ## Web compat
 

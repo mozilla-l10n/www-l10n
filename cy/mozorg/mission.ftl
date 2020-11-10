@@ -20,6 +20,6 @@ mission-volunteer-opportunities-in-a-number = Mae cyfleoedd gwirfoddoli mewn nif
 mission-history = Hanes
 mission-where-we-come-from-and-how-we-got = O le y daethom a sut rydym wedi cyrraedd fan hyn
 mission-forums = Fforymau
-mission-topics-include-support-products = Mae pynciau'n cynnwys cefnogaeth, cynnyrch a thechnolegau
+mission-topics-include-support-products = Mae pynciau'n cynnwys cymorth, cynnyrch a thechnolegau
 mission-governance = Llywodraethu
 mission-our-structure-organization-and-the = Ein strwythur, trefn a chymuned ehangach Mozilla

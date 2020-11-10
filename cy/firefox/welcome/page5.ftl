@@ -9,7 +9,7 @@
 welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise } - y rheolwr cyfrinair - ewch â'ch cyfrineiriau i bobman
 welcome-page5-theres-an-easier-way-to-deal = Mae yna ffordd haws o ddelio â'ch cyfrineiriau
 welcome-page5-let-firefox-save-them-for = Gadewch i { -brand-name-firefox } eu cadw i chi. Yna defnyddiwch { -brand-name-firefox-lockwise } i gael mynediad diogel i'ch cyfrineiriau ar draws eich holl apiau, ar bob un o'ch dyfeisiau.
-welcome-page5-get-the-lockwise-app = Estyn yr Ap { -brand-name-lockwise }
+welcome-page5-get-the-lockwise-app = Cael yr Ap { -brand-name-lockwise }
 welcome-page5-get-firefox-lockwise-on-your = Defnyddiwch { -brand-name-firefox-lockwise } ar eich Ffôn
 welcome-page5-send-the-download-link-right = Anfonwch y ddolen llwytho yn syth i'ch ffôn neu e-bost.
 welcome-page5-download-firefox-lockwise = Llwythwch { -brand-name-firefox-lockwise } i lawr i'ch ffôn a thabled.

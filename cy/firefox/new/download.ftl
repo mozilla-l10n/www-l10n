@@ -54,7 +54,7 @@ firefox-new-youre-using-an-insecure-outdated = Rydych yn defnyddio system weithr
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Dylai'r llwytho ddigwydd yn awtomatig. Heb weithio? <a id="{ $id }" href="{ $fallback_url }">Ceisiwch eto</a>.
 firefox-new-firefox-is-more-than-a-browser = Mae { -brand-name-firefox } yn fwy na phorwr.
-firefox-new-its-privacy-and-peace-of = Mae'n <strong>preifatrwydd a thawelwch meddwl</strong> ar ffôn symudol, hefyd.
+firefox-new-its-privacy-and-peace-of = Mae'n <strong>preifatrwydd a thawelwch meddwl</strong> ar symudol, hefyd.
 firefox-new-its-a-family-of-products = Mae'n <strong>casgliad o gynnyrch</strong> sy'n trin eich data personol â pharch.
 firefox-new-its-everything-you-need-to = Mae popeth y mae angen i chi ei wybod am <strong>gadw'n ddiogel ar-lein</strong>.
 firefox-new-its-a-community-that-believes = Mae'n <strong>cymuned</strong> sy'n credu y gall technoleg wneud yn well.

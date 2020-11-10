@@ -13,7 +13,7 @@ whatsnew79-main-intro = Dylai'r rhyngrwyd fod yn lle diogel i bawb. Dyna pam nad
 # Main CTA button
 whatsnew79-primary-cta = Gwneud { -brand-name-firefox } yn rhagosodedig
 # Fallback CTA button, shown if Firefox is already a user's default browser
-whatsnew79-fallback-cta = Estyn yr Ap { -brand-name-firefox }
+whatsnew79-fallback-cta = Cael yr Ap { -brand-name-firefox }
 whatsnew79-secure-your-connection = Diogelwch eich cysylltiad
 whatsnew79-with-one-tap-mozilla-vpn = Gydag un tap, mae { -brand-name-mozilla-vpn } yn amgryptio'ch cysylltiad i gadw'ch gweithgaredd ar-lein yn breifat ar unrhyw rwydwaith - yn ddiogel rhag hacwyr a llygaid busneslyd eraill.
 # CTA link

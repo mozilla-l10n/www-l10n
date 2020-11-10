@@ -110,7 +110,7 @@ newsletters-sign-up-read-up-make-a-difference = Cofrestrwch. Darllennwch.<br> Gw
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Dod i wybod am y materion sy'n effeithio ar eich bywyd ar-lein.
 # Obsolete string
-newsletters-get-the-mozilla-newsletter = Estynnwch gylchlythyr { -brand-name-mozilla } er mwyn derbyn y wybodaeth ddiweddaraf am faterion sy'n herio iechyd y Rhyngrwyd ac i ddarganfod sut y gallwch chi gymryd rhan.
+newsletters-get-the-mozilla-newsletter = Derbyniwch gylchlythyr { -brand-name-mozilla } er mwyn derbyn y wybodaeth ddiweddaraf am faterion sy'n herio iechyd y Rhyngrwyd ac i ddarganfod sut y gallwch chi gymryd rhan.
 newsletters-your-email-preferences = Mae gosodiadau eich e-bost wedi eu diweddaru'n llwyddiannus
 newsletters-consider-it-done = Iawn, wedi ei wneud
 newsletters-back-to-email-preferences = Nôl i ddewisiadau e-bost
@@ -196,7 +196,7 @@ newsletters-read-about-the-latest-features = Darllenwch am nodweddion diweddaraf
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Llwythwch { -brand-name-firefox } { -brand-name-android } i lawr
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-firefox-for-android = Estynnwch { -brand-name-firefox } { -brand-name-android }
+newsletters-get-firefox-for-android = Cael { -brand-name-firefox } { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-ios = Llwythwch { -brand-name-firefox } { -brand-name-ios } i lawr
 # Name for the newsletter in Newsletter subscription page

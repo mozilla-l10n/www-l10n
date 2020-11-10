@@ -10,4 +10,4 @@ fxa-form-by-proceeding = Drwy fynd yn eich blaen, rydych yn cytuno i'r <a href="
 fxa-form-email-address = Cyfeiriad e-bost
 fxa-form-continue = Ymlaen
 fxa-form-create-account = Creu cyfrif
-fxa-form-get-the-app = Estyn yr ap
+fxa-form-get-the-app = Cael yr ap

@@ -4,7 +4,7 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Llwytho { -brand-name-firefox } i Lawr
-navigation-v2-get-a-firefox-account = Estyn { -brand-name-firefox-account }
+navigation-v2-get-a-firefox-account = Cael { -brand-name-firefox-account }
 navigation-v2-menu = Dewislen
 
 ## Firefox menu
@@ -12,11 +12,11 @@ navigation-v2-menu = Dewislen
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Cau dewislen { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } y Bwrdd Gwaith
-navigation-v2-get-the-not-for-profit-backed = Estynnwch y porwr dim-er-elw ar { -brand-name-windows },{ -brand-name-mac-short } neu { -brand-name-linux }.
+navigation-v2-get-the-not-for-profit-backed = Cael y porwr dim-er-elw ar { -brand-name-windows },{ -brand-name-mac-short } neu { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } { -brand-name-android }
-navigation-v2-get-the-customizable-mobile = Estynnwch y porwr symudol cyfaddasadwy ar gyfer ffonau clyfar { -brand-name-android }.
+navigation-v2-get-the-customizable-mobile = Cael y porwr symudol cyfaddasadwy ar gyfer ffonau clyfar { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }
-navigation-v2-get-the-mobile-browser = Estynnwch y porwr symudol ar gyfer eich { -brand-name-iphone } neu { -brand-name-ipad }.
+navigation-v2-get-the-mobile-browser = Cael y porwr symudol ar gyfer eich { -brand-name-iphone } neu { -brand-name-ipad }.
 navigation-v2-privacy-promise = Addewid Preifatrwydd
 navigation-v2-learn-how-firefox-treats = Dysgwch sut mae { -brand-name-firefox } yn trin eich data â pharch.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
@@ -70,7 +70,7 @@ navigation-v2-close-innovation-menu = Cau dewislen Arloesi
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-gather-in-this-interactive-online = Casglwch yn y gofod cymdeithasol rhyngweithiol, ar-lein, aml-ddimensiwn hwn.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-navigation-v2-get-the-firefox-browser-built = Estynnwch y porwr { -brand-name-firefox } wedi'i adeiladu ar gyfer datblygwyr yn unig.
+navigation-v2-get-the-firefox-browser-built = Cael y porwr { -brand-name-firefox } wedi'i adeiladu ar gyfer datblygwyr yn unig.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Edrychwch ar gartref adnoddau datblygwr gwe.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
