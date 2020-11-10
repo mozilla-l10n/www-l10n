@@ -17,7 +17,7 @@ navigation-strap-on-your-goggles = Gwisgwch eich gogls ac ymdrochi'n y we gyda p
 navigation-firefox-for-fire-tv = { -brand-name-firefox } ar gyfer { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Gwyliwch fideos a phori'r rhyngrwyd ar eich { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Mae porwyr { -brand-name-firefox } yn rhoi blaenoriaeth i'ch preifatrwydd - ac wedi gwneud erioed.
-navigation-take-the-passwords-youve = Ewch â'r cyfrineiriau rydych chi wedi'u cadw yn { -brand-name-firefox } gyda chi i bob man.
+navigation-take-the-passwords-youve = Ewch â'ch cyfrineiriau { -brand-name-firefox } gyda chi i bob man.
 # Outdated string
 navigation-firefox-is-a-whole-family = Mae { -brand-name-firefox } yn deulu cyfan o gynnyrch sydd wedi'u cynllunio i'ch cadw chi'n fwy diogel a chlyfrach ar-lein.
 navigation-join-firefox = Ymunwch â { -brand-name-firefox }
@@ -67,7 +67,7 @@ navigation-privacy = Preifatrwydd
 navigation-get-unmatched-data-protection = Cael diogelwch data digymar ar y drefn rhyddhau sy'n addas i'ch sefydliad.
 navigation-made-with-respect = Wedi'i wneud gyda pharch
 navigation-close-products-menu = Cau dewislen Cynnyrch
-navigation-see-if-your-personal = Gallwch weld a yw'ch manylion personol wedi'i gollwng ar-lein, a chofrestru i gael rhybuddion tor-data yn y dyfodol.
+navigation-see-if-your-personal = Gallwch weld a yw'ch manylion personol wedi'u gollwng ar-lein, a chofrestru i gael rhybuddion tor-data yn y dyfodol.
 navigation-check-for-breaches = Gwirio am Dor-data
 navigation-see-breaches = Gweld Pob Tor-data
 navigation-security-tips = Awgrymiadau Diogelwch
