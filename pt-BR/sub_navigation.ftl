@@ -20,3 +20,4 @@ sub-navigation-features = Recursos
 sub-navigation-support = Suporte
 sub-navigation-addons = Extensões
 sub-navigation-faq = Perguntas frequentes
+sub-navigation-learn-more = Saiba mais
