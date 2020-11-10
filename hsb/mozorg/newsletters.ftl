@@ -58,3 +58,27 @@ newsletters-your-content-wasnt-relevant = Waš wobsah njeje za mnje relewantny b
 newsletters-your-email-design = Waš e-mejlowy design bě ćežko čitajomny.
 newsletters-i-didnt-sign-up = Njejsym za to zregistrował.
 newsletters-your-email-preferences = Waše e-mejlowe nastajenja su so wuspěšnje zaktualizowali.
+newsletters-back-to-email-preferences = Wróćo k e-mejlowym nastajenjam
+newsletters-take-your-privacy = Wzmiće swoju priwatnosć sobu
+newsletters-travel-the-internet = Pohibujće so ze škitom na wšěch swojich gratach po interneće.
+newsletters-download-the-app = Nałoženje sćahnyć
+newsletters-check-for-data-breaches = Za datowymi dźěrami pytać
+newsletters-sign-in-to-monitor = Pola { -brand-name-monitor } přizjewić
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Wo standardach
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Přidatkowe wuwiwanje
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Powěsćowy list za wuwiwarjow
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Diskusijna skupina Drumbeat
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } za desktop
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Njezapasće najnowše připowědźe wo našim desktopowym wobhladowaku.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Čińće sobu
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Dohlady
+# Obsolete string
+newsletters-internet-health-report = Rozprawa wo strowosći interneta
