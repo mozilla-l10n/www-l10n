@@ -33,6 +33,7 @@ contribute-follow-mozilla = Tatzeqelb'ej { -brand-name-mozilla }
 ## Support
 
 contribute-support-heading = Tk'ul To'ïk
+contribute-mozilla-support = { -brand-name-mozilla } Tob'äl
 
 ## Web compat
 
