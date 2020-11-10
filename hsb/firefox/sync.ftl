@@ -19,5 +19,6 @@ firefox-sync-open-the-menu = Wočińće meni horjeka naprawo w { -brand-name-fir
 firefox-sync-click-get-started = Klikńće na <strong>„Prěnje kroki“</strong> we wočinjacym so rajtarku.
 enter-an-email = Zapodajće e-mejlowu adresu a hesło, zo byšće <strong>„konto { -brand-name-firefox-account } załožił.“</strong>
 firefox-sync-click-next-to = Klikńće na <strong>„Dale“</strong>, zo byšće wobkrućensku e-mejlku dóstał.
+firefox-sync-after-you-check = Po tym zo sće swoju e-mejl přepruwował a na wobkrućenski wotkaz kliknył, so { -brand-name-firefox } awtomatisce w pozadku synchronizuje.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = Wjace pomocy wo rjadowanju wašeho { -brand-name-firefox-account }
