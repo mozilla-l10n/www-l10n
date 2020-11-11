@@ -19,6 +19,9 @@ newsletters-youre-awesome = ¡Ajépa nde rekoporã!
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } ojapyhy hetaichagua téma iporãva.
 newsletters-open-your-inbox-and-your = Embojurujave ne g̃uahẽha (ha ne korasõ) — ema’ẽ avei ambue téma romo’ãva rehe.
 newsletters-manage-your-email-preferences = Eñangareko ne ñandutiveve eguerohoryvévare
+newsletters-this-page-is-in-maintenance = Ko kuatiarogue oĩ ñemyatyrõ ayvúpe ha ndaikatúi ojeipuru ko’ag̃a.
+newsletters-to-update-your-email-preferences = Embohekopyahu hag̃ua ne ñandutiveve erohoryvéva, oujeýta ohasávo ndahetái aravo’i. ¡Aguyje!
+newsletters-we-love-sharing-updates = Rovy’a romoherakuãvo marandu pyahu opamba’e iporãva oikóva { -brand-name-mozilla } ryepýpe.
 # Form field label
 newsletters-your-email-address = Ne ñanduti veve kundaharape:
 # Form field label
