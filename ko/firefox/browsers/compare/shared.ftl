@@ -10,6 +10,7 @@ compare-shared-yes = 예
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = 아니오
 compare-shared-private-browsing-mode = 사생활 보호 모드
+# Obsolete string
 compare-shared-blocks-third-party-tracking = 제3자 추적 쿠키 차단
 compare-shared-blocks-cryptomining-scripts = 암호화폐 채굴 스크립트 차단
 compare-shared-blocks-social-trackers = 소셜 추적기 차단
@@ -27,6 +28,8 @@ compare-shared-os-availability = 사용 가능 OS
 compare-shared-mobile-os-availability = 사용 가능 모바일 OS
 compare-shared-syncs-with-mobile = 모바일 동기화
 compare-shared-password-management = 비밀번호 관리
+compare-shared-primary-password = 기본 비밀번호
+# Obsolete string
 compare-shared-master-password = 기본 비밀번호
 compare-shared-security-and-privacy = 보안 및 개인정보 보호
 compare-shared-utility = 유용성
@@ -38,6 +41,7 @@ compare-shared-utility-strong = <strong>유용성</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>휴대성</strong>
 compare-shared-overall-assessment = 종합 평가
+# Obsolete string
 compare-shared-the-comparisons-made-here = 여기에서 비교 한 내용은 다음의 브라우저 출시 버전에서 수행되었습니다:
 compare-shared-this-page-updated-semi-quarterly = 이 페이지는 최신 버전을 반영하기 위해 1년에 8번 업데이트되며 항상 최신 정보를 반영하지는 않습니다.
 compare-shared-brand-name-firefox = { -brand-name-firefox }

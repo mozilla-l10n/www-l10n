@@ -16,6 +16,7 @@ browsers-chromebook-dropdown-copy = { -brand-name-chromebook } 용 { -brand-name
 browsers-chromebook-why-get-firefox = { -brand-name-chromebook } 용으로 <span>{ -brand-name-firefox }</span>를 다운로드 한 이유는 무엇인가요?
 browsers-chromebook-while-a-chromebook = { -brand-name-chromebook }에 { -brand-name-chrome }이 이미 설치되어 있지만, { -brand-name-firefox }를 다운로드하고 사용함으로써 다양한 이점들이 있습니다:
 browsers-chromebook-alwayson-tracking-protection = 상시 추적 보호: 기본적으로 { -brand-name-firefox }는 향상된 추적 보호 기능을 실행하여 웹에서 사용자를 추적하는 알려진 광고 추적기, 소셜 추적기 및 크립토 마이닝 스크립트로부터 개인 데이터를 보호합니다.
+browsers-chromebook-is-it-hard = { -brand-name-chromebook } 용 { -brand-name-firfox } 설치가 어렵습니까?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
