@@ -51,6 +51,7 @@ is-firefox-chromium = Ali { -brand-name-firefox } temelji na { -brand-name-chrom
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } nima vgrajenega VPN (navideznega zasebnega omrežja), vendar { -brand-name-mozilla } in { -brand-name-firefox } ponujata dva dodatka zasebnemu { -brand-name-firefox-browser(sklon: "dajalnik") }, ki lahko zaščitita povezavo vašega brskalnika (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ali naprave (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) na WiFi, kot tudi vaš naslov IP.
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

@@ -25,7 +25,15 @@
     }
 -brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
--brand-name-mozilla = Mozilla
+-brand-name-mozilla =
+    { $sklon ->
+       *[imenovalnik] Mozilla
+        [rodilnik] Mozille
+        [dajalnik] Mozilli
+        [tozilnik] Mozillo
+        [mestnik] Mozilli
+        [orodnik] Mozillo
+    }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-twitter = Twitter
@@ -62,6 +70,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -73,6 +82,8 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -115,12 +126,21 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 
 -brand-name-brave = Brave
--brand-name-chrome = Chrome
+-brand-name-chrome =
+    { $sklon ->
+       *[imenovalnik] Chrome
+        [rodilnik] Chroma
+        [dajalnik] Chromu
+        [tozilnik] Chrome
+        [mestnik] Chromu
+        [orodnik] Chromom
+    }
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera

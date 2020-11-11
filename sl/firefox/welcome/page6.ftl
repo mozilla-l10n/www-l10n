@@ -18,5 +18,5 @@ welcome-page6-companies-keep-finding-new = Podjetja vedno znova iščejo načine
 welcome-page6-choose-freedom-on-every-device = Izberite svobodo na vsaki napravi
 welcome-page6-firefox-is-fast-and-safe-on = { -brand-name-firefox } je hiter in varen v sistemih { -brand-name-windows }, { -brand-name-ios }, { -brand-name-android } in { -brand-name-linux }. Zaslužite si, da v brskalniku in napravah vi sprejemate odločitve in ne drugi namesto vas.
 welcome-page6-choose-corporate-independence = Izberite neodvisnost od korporacij
-welcome-page6-firefox-is-the-only-major = { -brand-name-firefox } je edini veliki neodvisen brskalnik. { -brand-name-chrome }, { -brand-name-edge } in { -brand-name-brave } vsi temeljijo na kodi Googla, kar daje Googlu še več nadzora nad internetom.
+welcome-page6-firefox-is-the-only-major = { -brand-name-firefox } je edini veliki neodvisen brskalnik. { -brand-name-chrome }, { -brand-name-edge } in { -brand-name-brave } vsi temeljijo na kodi { -brand-name-google(sklon: "rodilnik") }, kar daje { -brand-name-google(sklon: "dajalnik") } še več nadzora nad internetom.
 welcome-page6-why-am-i-seeing-this = Zakaj vidim to?

@@ -32,5 +32,5 @@ facebook-container-installing-the-extension-is = Namestitev <a href="{ $fbcontai
 facebook-container-about-firefox-and-mozilla = O { -brand-name-firefox }u in Mozilli
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Firefox je neodvisen in del <a href="{ $mozilla }">Mozille</a>, neprofitne organizacije, ki postavlja ljudi pred zaslužek, da bi uporabnikom omogočila večjo moč na spletu. To razširitev smo ustvarili, ker verjamemo, da potrebujete preprosta orodja, ki vam omogočajo nadzor nad zasebnostjo in varnostjo.
+facebook-container-were-backed-by-mozilla-the = Firefox podpira <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, neprofitna organizacija, ki postavlja ljudi pred zaslužek, da bi uporabnikom omogočila večjo moč na spletu. To razširitev smo ustvarili, ker verjamemo, da potrebujete preprosta orodja, ki vam omogočajo nadzor nad zasebnostjo in varnostjo.
 facebook-container-browse-freely-with-firefox = Brskajte svobodno s { -brand-name-firefox }om še danes.
