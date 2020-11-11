@@ -17,6 +17,7 @@ browsers-chromebook-dropdown-copy = Ereko { -brand-name-firefox } { -brand-name-
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ¿Mba’ére ereko’arã <span>{ -brand-name-firefox }</span> { -brand-name-chromebook } peg̃uarã?
 browsers-chromebook-while-a-chromebook = Orekomarojepe { -brand-name-chromebook } mohendapyre { -brand-name-chrome }, omboguejy ha oipurúvo { -brand-name-firefox } ne kundahára iporãvévarõ, erekóta hetaiterei mba’eporã:
+browsers-chromebook-alwayson-tracking-protection = Ñemo’ã tapykuehoha rovake hendy tapia: ijypykue rupi, { -brand-name-firefox } oipuru ñemo’ã iporãva tapykuehoha rovake (ETP) omo’ã hag̃ua ne mba’ekuaarãitéva rapykuehoha ñemuha ojekuaáva, tapykuehoha ñanduti atygua, ha criptominería scripts nde rapykuehóva ñandutípe.
 browsers-chromebook-is-it-hard = ¿Hasy { -brand-name-firefox } mboguejy { -brand-name-chromebook } peg̃uarã?
 
 # Variables:
