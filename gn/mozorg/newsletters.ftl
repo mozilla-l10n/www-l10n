@@ -16,6 +16,9 @@ newsletters-newsletter-confirm = Emoneĩ haipyre’i
 newsletters-thanks-for-subscribing = ¡Aguyje eñemboheraguapýre!
 newsletters-the-supplied-link-has-expired = Ndoikovéima juajuha eme’ẽmbyre. Og̃uahẽta ipyahúva jehaipyre’i oútavape.
 newsletters-youre-awesome = ¡Ajépa nde rekoporã!
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } ojapyhy hetaichagua téma iporãva.
+newsletters-open-your-inbox-and-your = Embojurujave ne g̃uahẽha (ha ne korasõ) — ema’ẽ avei ambue téma romo’ãva rehe.
+newsletters-manage-your-email-preferences = Eñangareko ne ñandutiveve eguerohoryvévare
 # Form field label
 newsletters-your-email-address = Ne ñanduti veve kundaharape:
 # Form field label
