@@ -34,6 +34,7 @@ navigation-v2-product-promise = Apopyre Ñe’ẽme’ẽ
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Eñemboheraguapy ereko hag̃ua mba’ete pyahu eme’ẽ’ỹre ne ñanduti veve.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Emo’ã ne kundahárape jeike ñanduti rupive.
 navigation-v2-view-all-products = Ehechapaite Apopyre
 
 ## Who We Are menu
@@ -41,6 +42,7 @@ navigation-v2-view-all-products = Ehechapaite Apopyre
 navigation-v2-who-we-are = Mávapa ore
 navigation-v2-close-who-we-are-menu = Emboty poravorã Mávapa ore
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Je’epy
+navigation-v2-learn-about-the-values = Eikuaa tekoporãrã rehegua ha tekoypy ogueroguatáva ore rembipota.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Emba’apo orendive
 navigation-v2-join-the-fight-for-a = Eipytyvõke ñanduti hekoresãi hag̃ua.
