@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/firstrun/
 
 firstrun-firefox-browser = { -brand-name-firefox-browser }
-firstrun-welcome-to-firefox = Witaj w Firefoksie
-firstrun-take-firefox-with-you = Zabierz Firefoksa ze sobą
-firstrun-already-using-firefox = Korzystasz już z Firefoksa?
+firstrun-welcome-to-firefox = Witaj w { -brand-name-firefox(case: "loc") }
+firstrun-take-firefox-with-you = Zabierz { -brand-name-firefox(case: "acc") } ze sobą
+firstrun-already-using-firefox = Korzystasz już z { -brand-name-firefox(case: "gen") }?
 firstrun-get-your-bookmarks-history = Zakładki, historia, hasła i pozostałe ustawienia na wszystkich urządzeniach.
-firstrun-sign-in-to-your-account = Zaloguj się do konta, a zsynchronizujemy zakładki, hasła i wszystkie inne dobroci zachowane przez Ciebie w Firefoksie na innych urządzeniach.
+firstrun-sign-in-to-your-account = Zaloguj się do konta, a zsynchronizujemy zakładki, hasła i wszystkie inne dobroci zachowane przez Ciebie w { -brand-name-firefox(case: "loc") } na innych urządzeniach.
 firstrun-already-have-an-account = Masz już konto?
 firstrun-sign-in = Zaloguj się
