@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = Preklopite s { -brand-name-chrome(sklon: "rodilnik") } na { -brand-name-firefox } v le nekaj minutah
+switch-switching-to-firefox-is-fast-updated = Prehod na { -brand-name-firefox } je hiter, preprost in brez tveganja, saj { -brand-name-firefox } uvozi vaše zaznamke, gesla in nastavitve iz { -brand-name-chrome(sklon: "rodilnik") }.
 switch-switching-to-firefox-is-fast = Prehod na { -brand-name-firefox } je hiter, preprost in brez tveganja, saj { -brand-name-firefox } iz { -brand-name-chrome(sklon: "rodilnik") } uvozi vaše zaznamke, samodejne dopolnitve, gesla in nastavitve.
+switch-switching-to-firefox-page-description-updated = Prehod na { -brand-name-firefox } je hiter, preprost in brez tveganja. { -brand-name-firefox } uvozi vaše zaznamke, gesla in nastavitve iz { -brand-name-chrome(sklon: "rodilnik") }.
 switch-switching-to-firefox-page-description = Prehod na { -brand-name-firefox } je hiter, preprost in brez tveganja. { -brand-name-firefox } uvozi vaše zaznamke, samodejne dopolnitve, gesla in nastavitve iz { -brand-name-chrome(sklon: "rodilnik") }.
 switch-select-what-to-take = Izberite, kaj želite vzeti s sabo iz { -brand-name-chrome(sklon: "rodilnik") }.
 switch-let-firefox-do-the-rest = Prepustite { -brand-name-firefox }u vse ostalo.
