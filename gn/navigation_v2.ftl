@@ -70,4 +70,5 @@ navigation-v2-explore-the-web-with-the = Eipuru ñanduti { -brand-name-firefox }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Eme’ẽ nde ayvu ñanduti renonderãme g̃uarã ohendu hag̃ua opavave.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Eikuaave ñe’ẽ pyahu eikuaaramóva, ojoguáva peteĩ jejapopyrévape.
 navigation-v2-more-mozilla-innovation = { -brand-name-mozilla } Ñembopyahuve
