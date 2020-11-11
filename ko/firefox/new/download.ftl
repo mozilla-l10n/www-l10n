@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = 브라우저 다운로드
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox }가 더이상 지원하지 않는</a> 안전하지 않고 오래된 운영체제를 사용하고 있습니다.
@@ -54,3 +55,5 @@ firefox-new-its-privacy-and-peace-of = 모바일에서도 <strong>개인 정보�
 firefox-new-its-a-family-of-products = 귀하의 개인 데이터를 존중하는 <strong>제품군</strong>입니다.
 firefox-new-its-everything-you-need-to = <strong>안전한 온라인 상태 유지</strong>에 대해 알아야 할 모든 것입니다.
 firefox-new-its-a-community-that-believes = <strong>커뮤니티</strong>는 기술이 더 진보할 것이라 믿고 있습니다.
+firefox-new-download-interrupted = 다운로드가 중단되었습니다. 그러나 모두 손실되지는 않았습니다.
+firefox-new-windows-10 = { -brand-name-windows }10

@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = 소셜 추적기 차단
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = 사용 가능 OS
 firefox-desktop-download-in-browser-screenshot = 브라우저 내 스크린 샷 도구
+firefox-desktop-download-primary-password = 기본 비밀번호
+# Obsolete string
 firefox-desktop-download-master-password = 기본 비밀번호
 firefox-desktop-download-we-block-the-ad = 저희는 광고 추적기를 차단합니다. 여러분은 인터넷을 더 빨리 탐험할 수 있습니다.
 firefox-desktop-download-ads-are-distracting = 온라인 광고는 주의를 산만하게 하고 웹 페이지 로딩 속도를 느리게 만듭니다. 광고에 있는 추적기는 온라인에서 이루어지는 여러분의 모든 활동을 감시합니다. { -brand-name-firefox-browser }는 대부분의 추적기를 자동으로 차단하므로 데이터 보안에 뛰어납니다.
@@ -165,3 +167,4 @@ firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 다운로드가 자동으로 시작됩니다. 그렇지 않다면, <a id="{ $id }" href="{ $fallback_url }">다시 시도 해보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 그 이상입니다.
+firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. 하지만 모두 손실되지는 않았습니다.
