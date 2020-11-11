@@ -31,7 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Sim
 firefox-desktop-download-no = Não
 firefox-desktop-download-blocks-third-party = Bloqueio de cookies de rastreamento de terceiros
-firefox-desktop-download-blocks-third-party-default = Bloqueia cookies de rastreamento de terceiros por padrão
+firefox-desktop-download-blocks-third-party-default = Bloqueio por padrão de cookies de rastreamento de terceiros
 firefox-desktop-download-autoplay-blocking = Bloqueio de reprodução automática
 firefox-desktop-download-blocks-social-trackers = Bloqueio de rastreadores de mídias sociais
 # OS is short for "Operating System"
@@ -45,7 +45,7 @@ firefox-desktop-download-ads-are-distracting = Anúncios distraem a atenção e 
 firefox-desktop-download-see-your-report = Veja seu relatório de proteção
 firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
 firefox-desktop-download-available-in-over = Disponível em mais de 90 idiomas e compatível com máquinas { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, o { -brand-name-firefox } funciona, não importa o que esteja usando nem onde você está. Verifique se seu sistema operacional está atualizado para que você tenha a melhor experiência de uso.
-firefox-desktop-download-review-system-req = Revise os requisitos do sistema
+firefox-desktop-download-review-system-req = Confira os requisitos de sistema
 firefox-desktop-download-all-your-devices = Instale o { -brand-name-firefox } em todos os seus dispositivos
 firefox-desktop-download-take-your-privacy = Leve sua privacidade com você em todos os lugares. Os { -brand-name-firefox-browsers } para { -brand-name-ios } e { -brand-name-android } têm as mesmas configurações de privacidade forte para impedir que rastreadores sigam você pela web, não importa onde esteja.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
