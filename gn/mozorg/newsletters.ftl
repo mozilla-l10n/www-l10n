@@ -22,6 +22,7 @@ newsletters-manage-your-email-preferences = Eñangareko ne ñandutiveve egueroho
 newsletters-this-page-is-in-maintenance = Ko kuatiarogue oĩ ñemyatyrõ ayvúpe ha ndaikatúi ojeipuru ko’ag̃a.
 newsletters-to-update-your-email-preferences = Embohekopyahu hag̃ua ne ñandutiveve erohoryvéva, oujeýta ohasávo ndahetái aravo’i. ¡Aguyje!
 newsletters-we-love-sharing-updates = Rovy’a romoherakuãvo marandu pyahu opamba’e iporãva oikóva { -brand-name-mozilla } ryepýpe.
+newsletters-set-your-preferences-below = Emopyenda eguerohoryvéva ikatu hag̃uáicha akóinte eguereko umi marandu eipotáva.
 # Form field label
 newsletters-your-email-address = Ne ñanduti veve kundaharape:
 # Form field label
@@ -30,6 +31,7 @@ newsletters-country-or-region = Tetã térã tendaguasu:
 newsletters-country = Tetã:
 # Form field label
 newsletters-language = Ñe’ẽ:
+newsletters-not-all-subscriptions-are = Ndaha’éi opaite ñemboheraguapy eipurukuaáva ñe’ẽ rysýi pegua. Opavave nunga eipurukuaáva Inglaterra, Alemania ha Francia ñe’ẽme.
 # Form field label
 newsletters-format = Ysaja:
 # Variables:
