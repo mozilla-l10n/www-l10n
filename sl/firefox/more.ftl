@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = Izdelki { -brand-name-firefox } so zasnovani tako, da varujejo vašo zasebnost
+learn-more-about = Spoznajte { -brand-name-firefox }ove brskalnike in izdelke, ki z vašimi podatki ravnajo spoštljivo in so zasnovani za zasebnost, kjerkoli na spletu se nahajate.
 the-history-of = Zgodovina spletnih brskalnikov
 firefox-rebel-with = { -brand-name-firefox }: upornik z razlogom
 what-is-a = Kaj je spletni brskalnik?
@@ -19,6 +21,7 @@ firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
 seven-of-the = Sedem najboljših brskalnikov v neposredni primerjavi
 comparing-firefox-chrome = Primerjava: { -brand-name-firefox-browser } in { -brand-name-google } { -brand-name-chrome }
 comparing-firefox-brave = Primerjava brskalnikov { -brand-name-firefox-browser } in { -brand-name-brave }
+comparing-firefox-edge = Primerjava: { -brand-name-firefox-browser } in { -brand-name-microsoft } { -brand-name-edge }
 comparing-firefox-ie = Primerjava brskalnikov { -brand-name-firefox-browser } in { -brand-name-microsoft } { -brand-name-ie }
 comparing-firefox-safari = Primerjava brskalnikov { -brand-name-firefox-browser } in { -brand-name-apple } { -brand-name-safari }
 comparing-firefox-opera = Primerjava brskalnikov { -brand-name-firefox-browser } in { -brand-name-opera }
