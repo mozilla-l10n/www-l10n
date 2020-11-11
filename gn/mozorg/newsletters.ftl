@@ -69,6 +69,10 @@ newsletters-love-the-web-so-do-we = ¿Ehayhúpa ñanduti? ¡Ore avei!
 newsletters-join-thousands-of-developers = Ejuaju heta mboguatahára ndéicha avei oikuaavéva ñanduti ñemboguata rehegua.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Eheja Firefox toike ne mba’eguahẽhápe.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Ehecha moõ pevépa ndegueraháta ñanduti umi mba’e ha ñemoñe’ẽ { -brand-name-firefox } me’ẽmbyre rupi.
+newsletters-we-are-sorry-but-there = Oreñyrõkena, oĩ rupi apañuãi ore apopyvusúpe. Eha’a jey ohasávo aravo’i.
+newsletters-thanks-for-updating-your = Aguyje embohekopyahúre ñandutiveve erohoryvéva.
 newsletters-this-is-not-a-valid-email = Ndoikói ne kundaharape. Ehecha ehaiporãpa.
 newsletters-you-send-too-many-emails = Og̃uahẽ hetaiterei ñandutiveve.
 newsletters-your-content-wasnt-relevant = Pe hetepy naiporãmbái chéve.
