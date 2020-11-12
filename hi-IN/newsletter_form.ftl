@@ -28,3 +28,5 @@ newsletter-form-select-country = देश चुनें
 newsletter-form-sign-me-up = मुझे साइनअप करें
 newsletter-form-sign-up-now = अभी पंजीकरण करें
 newsletter-form-thanks = धन्यवाद
+newsletter-form-yes = हां
+newsletter-form-no = नहीं
