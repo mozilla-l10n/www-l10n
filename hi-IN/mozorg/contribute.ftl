@@ -8,9 +8,13 @@
 
 ## Page heading
 
+contribute-how-heading = आप कैसे योगदान कर सकते हैं...
 
 ## Contribution tasks
 
+contribute-tag-non-technical = गैर तकनिकी
+contribute-tag-technical = तकनिकी
+contribute-tag-technical-non-technical = तकनिकी और गैर तकनिकी
 
 ## Mission
 
