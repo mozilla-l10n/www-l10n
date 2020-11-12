@@ -9,6 +9,7 @@ firefox-products-are = Τα προϊόντα { -brand-name-firefox } προστ�
 learn-more = Μάθετε περισσότερα
 the-history-of = Η ιστορία των προγραμμάτων περιήγησης
 firefox-has-been = Το { -brand-name-firefox } ήταν εκεί σχεδόν από την αρχή.
+firefox-rebel-with = { -brand-name-firefox }: Επανάσταση με ιδανικά
 firefox-is-independent = Το { -brand-name-firefox } είναι ανεξάρτητο και υποστηρίζεται από τη μη κερδοσκοπική { -brand-name-mozilla }, η οποία μάχεται για τα διαδικτυακά σας δικαιώματα και κάνει το διαδίκτυο διαθέσιμο σε οποιονδήποτε, οπουδήποτε.
 what-is-a = Τι ένα ένα πρόγραμμα περιήγησης ιστού;
 firefox-is-more = Το { -brand-name-firefox } είναι κάτι παραπάνω από πρόγραμμα περιήγησης
