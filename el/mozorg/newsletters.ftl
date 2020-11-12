@@ -46,6 +46,7 @@ newsletters-there-are-many-ways-to = Υπάρχουν πολλοί τρόποι 
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = Το { $newsletter } δεν είναι έγκυρο ενημερωτικό δελτίο
 newsletters-subscribe = Εγγραφή
+newsletters-remove-me-from-all-the = Κατάργηση εγγραφής από όλες τις συνδρομές σε αυτή τη σελίδα
 newsletters-save-preferences = Αποθήκευση προτιμήσεων
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-newsletter-email-recovery = Ανάκτηση email ενημερωτικού δελτίου

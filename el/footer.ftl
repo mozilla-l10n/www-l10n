@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Μανιφέστο της { -brand-name-mozilla }
 footer-privacy-hub = Κέντρο απορρήτου
 footer-privacy = Απόρρητο
 footer-press = Τύπος
 footer-corporate-blog = Εταιρικό blog
+footer-browser-comparison = Σύγκριση προγραμμάτων περιήγησης
 footer-brand-standards = Πρότυπα εμπορικών σημάτων
 footer-browsers = Προγράμματα περιήγησης
 # Outdated string
