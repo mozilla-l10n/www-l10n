@@ -12,6 +12,10 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = हां
 firefox-desktop-download-no = नहीं
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = OS उपलब्धता
+# Obsolete string
+firefox-desktop-download-master-password = मास्टर पासवर्ड
 firefox-desktop-download-for-everyone = { -brand-name-firefox } सभी के लिए है
 firefox-desktop-download-search-engine-options = खोज इंजन विकल्प
 firefox-desktop-download-bookmarks-manager = बुकमार्क प्रबंधक
