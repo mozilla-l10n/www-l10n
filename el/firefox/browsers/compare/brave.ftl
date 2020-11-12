@@ -11,9 +11,11 @@ compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-n
 compare-brave-compare-brave-to-the-firefox = Συγκρίνετε το { -brand-name-brave } με το { -brand-name-firefox-browser } για να μάθετε ποιο σας ταιριάζει καλύτερα, όσον αφορά το απόρρητο, τη χρησιμότητα και τη φορητότητα.
 # Main title
 compare-brave-comparing-firefox-browser = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-brave }
+compare-brave-whether-this-sounds-complicated = Είτε σας ακούγεται περίπλοκο ή είτε ευφυές, εξαρτάται μάλλον από το επίπεδο ανοχής σας για την προβολή διαφημίσεων στο Διαδίκτυο. Οι περισσότεροι χρήστες κατανοούν ότι το καλό περιεχόμενο κοστίζει χρήματα και συμφωνούν με το γεγονός ότι τα χρήματα προέρχονται από διαφημίσεις.
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Από την άλλη, με το { -brand-name-firefox }, προτιμούμε να διατηρούμε τα πράγματα απλά. Το { -brand-name-firefox } αποκλείει τους ιχνηλάτες τρίτων, τα cryptominers και τα fingerprinters, από προεπιλογή. Ωστόσο, το { -brand-name-firefox }, εκτός της λειτουργίας ιδιωτικής περιήγησης, επιλέγει να μην εμποδίζει την εμφάνιση διαφημίσεων, εκτός αν εγκαταστήσετε <a { $attrs }>κάποια από τις επεκτάσεις που έχουν σχεδιαστεί ειδικά για το σκοπό αυτό</a>.
+compare-brave-the-ability-to-sync-your-passwords = Ο συγχρονισμός κωδικών πρόσβασης, επεκτάσεων, δεδομένων φορμών, πρόσθετων και άλλων προτιμήσεων σε όλες τις συσκευές και τα λειτουργικά σας συστήματα είναι μια δυνατότητα που διατίθεται εδώ και χρόνια με το { -brand-name-firefox }. Τα συγχρονισμένα δεδομένα είναι επίσης κρυπτογραφημένα, πράγμα που σημαίνει ότι κανείς δεν μπορεί να έχει πρόσβαση.
 # Variables:
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
