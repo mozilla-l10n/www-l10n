@@ -18,6 +18,9 @@ compare-safari-if-you-use-a-mac-or-have = Αν χρησιμοποιείτε Mac 
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
 compare-safari-privacy-has-become-a-white = Το απόρρητο αποτελεί πολυσυζητημένο θέμα για τις εταιρείες τεχνολογίας, καθώς συνειδητοποιούν όλο και περισσότερο ότι οι χρήστες νιώθουν ευάλωτοι σε παραβιάσεις δεδομένων, ιχνηλάτες διαφημίσεων και hackers. Αλλά όταν πρόκειται για εργαλεία πλοήγησης στο διαδίκτυο, λαμβάνουν πράγματι μέτρα για να προφυλάξουν τα δεδομένα σας ή μένουν μόνο στα λόγια;
 compare-safari-if-you-choose-to-use-safari = Αν επιλέξετε το { -brand-name-safari }, είστε σε ασφαλή χέρια εφόσον χρησιμοποιείτε συσκευή { -brand-name-apple }. Αλλά το { -brand-name-safari } λειτουργεί μόνο σε συσκευές { -brand-name-apple }, ενώ το { -brand-name-firefox } λειτουργεί σε { -brand-name-windows }, { -brand-name-mac }, { -brand-name-ios }, { -brand-name-android } και { -brand-name-linux }. Έτσι, όποιο λειτουργικό σύστημα κι αν επιλέξετε, το { -brand-name-firefox } θα είναι διαθέσιμο με όλες τις λειτουργίες απορρήτου και ασφαλείας.
+# Variables:
+#   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
+compare-safari-like-safari-firefox-encourages = Όπως και το { -brand-name-safari }, το { -brand-name-firefox } ενθαρρύνει την κοινότητα των πρόθυμων προγραμματιστών του να δημιουργήσει <a { $attrs }>πρόσθετα και επεκτάσεις</a> για το πρόγραμμα περιήγησης. Και αφού η πλατφόρμα μας είναι ανοικτού κώδικα, υπάρχουν πολλές επιλογές για αυξημένη λειτουργικότητα.
 compare-safari-firefox-is-also-great-for-video = Το { -brand-name-firefox } είναι επίσης ιδανικό για βίντεο και ήχο. Με ενσωματωμένη φραγή αυτόματης αναπαραγωγής που είναι ενεργή από προεπιλογή, δεν θα ακούσετε καμία ιστοσελίδα χωρίς να το θέλετε.
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
