@@ -24,6 +24,7 @@ newsletters-youre-awesome = Είσαι φοβεροί!
 newsletters-and-were-not-just-saying = Και δεν το λέμε απλά επειδή μας εμπιστευτήκατε τη διεύθυνση email σας.
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Παρακαλούμε προσθέστε τη διεύθυνση αποστολής: mozilla@e.mozilla.org στο ευρετήριο διευθύνσεων σας για να εξασφαλίσετε ότι τα email μας θα φτάνουν πάντα στα εισερχόμενα σας.
 newsletters-mozilla-touches-on-a-variety = Η { -brand-name-mozilla } θίγει μια ποικιλία σημαντικών ζητημάτων.
+newsletters-open-your-inbox-and-your = Ανοίξτε τα εισερχόμενά σας (και την καρδιά σας) ακόμα περισσότερο — δείτε άλλα θέματα που καλύπτουμε.
 newsletters-manage-your-email-preferences = Διαχείριση προτιμήσεων email
 newsletters-this-page-is-in-maintenance = Αυτή η σελίδα βρίσκεται σε λειτουργία συντήρησης και δεν είναι διαθέσιμη αυτή τη στιγμή.
 newsletters-to-update-your-email-preferences = Για να ενημερώσετε τις προτιμήσεις email σας, παρακαλούμε ελέγξτε ξανά σε λίγο. Ευχαριστούμε!

@@ -16,6 +16,7 @@ browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } με επ
 browsers-chromebook-dropdown-copy = Λήψη { -brand-name-firefox } για { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Γιατί να επιλέξω το <span>{ -brand-name-firefox }</span> για { -brand-name-chromebook };
+browsers-chromebook-while-a-chromebook = Αν και τα { -brand-name-chromebook } διαθέτουν ήδη το { -brand-name-chrome }, η λήψη και χρήση του { -brand-name-firefox } ως του κύριου φυλλομετρητή σας παρέχει ορισμένα οφέλη:
 browsers-chromebook-is-it-hard = Είναι δύσκολη η εγκατάσταση του { -brand-name-firefox } σε { -brand-name-chromebook };
 
 # Variables:

@@ -38,6 +38,7 @@ navigation-v2-careers = Καριέρες
 
 ## Innovation menu
 
+navigation-v2-innovation = Καινοτομία
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
