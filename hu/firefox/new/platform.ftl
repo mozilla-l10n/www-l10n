@@ -28,7 +28,7 @@ new-platform-download-mozilla-desc-linux = Töltse le { -brand-name-linux }ra a 
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = A valaha volt leggyorsabb { -brand-name-firefox } letöltése { -brand-name-linux }ra
 # /firefox/linux/ social sharing description
-new-platform-faster-page-loading-linux = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új linuxos { -brand-name-firefox }.
+new-platform-faster-page-loading-linux = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új { -brand-name-firefox } { -brand-name-linux }ra.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ra
 new-platform-own-your-online-life = Rendelkezzen az online élete felett.
@@ -44,7 +44,7 @@ new-platform-download-mozilla-firefox-desc-mac = Töltse le { -brand-name-mac-sh
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = A valaha volt leggyorsabb { -brand-name-firefox } letöltése { -brand-name-mac-short }re
 # /firefox/mac/ social sharing description
-new-platform-faster-page-loading-mac = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új maces { -brand-name-firefox }.
+new-platform-faster-page-loading-mac = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új { -brand-name-firefox } { -brand-name-mac-short }re.
 # /firefox/mac/ main page title. Span is for visually formatting.
 new-platform-firefox-respects-your = A { -brand-name-firefox } tiszteletben tartja a <span>magánszféráját { -brand-name-mac-short }en.</span>
 new-platform-privacy-comes-first = Adatvédelem mindenek előtt
@@ -59,11 +59,17 @@ new-platform-download-mozilla-desc-windows = Töltse le { -brand-name-windows }r
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = A valaha volt leggyorsabb { -brand-name-firefox } letöltése { -brand-name-windows }ra
 # /firefox/windows/ social sharing description
-new-platform-faster-page-loading-windows = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új windowsos { -brand-name-firefox }.
+new-platform-faster-page-loading-windows = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új { -brand-name-firefox } { -brand-name-windows }ra.
 # /firefox/windows/ main page title. Span is for visually formatting.
 new-platform-firefox-fights = A { -brand-name-firefox } Önért harcol <span>{ -brand-name-windows }on.</span>
 new-platform-firefox-moves-fast = A { -brand-name-firefox } gyors, és gondosan kezeli az adatait – nincs hirdetéskövetés, nincs lassulás.
 new-platform-common-sense-privacy = Józan eszű adatvédelem
 new-platform-live-your-life = Élje életét, a { -brand-name-firefox } nem figyeli. Válassza ki, hogy mit és mikor akar megosztani.
 new-platform-seamless-setup = Zökkenőmentes telepítés
-new-platform-easy-migration = A beállítások és könyvjelzők könnyen migrálhatóak ha letölti a windowsos { -brand-name-firefox }ot.
+new-platform-easy-migration = A beállítások és könyvjelzők könnyen migrálhatók, ha letölti a { -brand-name-firefox }ot { -brand-name-windows }ra.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = A { -brand-name-firefox } letöltése <br>{ -brand-name-windows }ra
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = A { -brand-name-firefox } letöltése <br>{ -brand-name-mac }re
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = A { -brand-name-firefox } letöltése <br>{ -brand-name-linux }ra
