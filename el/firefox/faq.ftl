@@ -67,6 +67,7 @@ does-firefox-have = Διαθέτει το { -brand-name-firefox } ενσωματ
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = Το { -brand-name-firefox } δεν ενσωματώνει VPN (εικονικό ιδιωτικό δίκτυο), αλλά υπάρχουν δύο προϊόντα από τη { -brand-name-mozilla }/{ -brand-name-firefox } που μπορείτε να χρησιμοποιήσετε μαζί με το ιδιωτικό { -brand-name-firefox-browser } και μπορούν να προστατέψουν τη σύνδεση WiFi, καθώς και τη διεύθυνση IP, είτε του προγράμματος περιήγησής σας (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>), είτε της συσκευής σας (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) .
 related-questions-ip = Σχετικές ερωτήσεις: κρύβει το { -brand-name-firefox } τη διεύθυνση IP σας
 who-owns-firefox = Σε ποια εταιρεία ανήκει το { -brand-name-firefox };
 
