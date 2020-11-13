@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Здаровасэнсавая прыват�
 new-platform-live-your-life = Жывіце па-свойму, { -brand-name-firefox } не падглядвае. Выбірайце, чым дзяліцца, і калі абагульваць.
 new-platform-seamless-setup = Бязшвовае ўсталяванне
 new-platform-easy-migration = Лёгкі перанос пераваг і закладак, калі вы сцягваеце { -brand-name-firefox } для { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Сцягнуць { -brand-name-firefox } <br>для { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Сцягнуць { -brand-name-firefox } <br>для { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Сцягнуць { -brand-name-firefox } <br>для { -brand-name-linux }
