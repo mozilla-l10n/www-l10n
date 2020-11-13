@@ -21,6 +21,7 @@ compare-edge-edge-is-integrated-into-the = Το { -brand-name-edge } είναι 
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = Η <a { $attrs }>Προστασία απορρήτου</a> εμφανίζει τους ιχνηλάτες και τα cookies που προσπαθούν να αφήσουν οι σελίδες, καθώς και πόσα έχει αποκλείσει το { -brand-name-firefox }.
 compare-edge-both-browsers-are-relatively = Και τα δύο προγράμματα περιήγησης είναι περίπου ίσα όσον αφορά την κρυπτογράφηση δεδομένων. Ωστόσο, αν το διαδικτυακό απόρρητο και η διαφάνεια είναι σημαντικά για εσάς, τότε το { -brand-name-firefox } είναι σαφώς μια καλύτερη επιλογή.
+compare-edge-edge-has-some-nice-ui-features = Το { -brand-name-edge } διαθέτει ορισμένες ωραίες λειτουργίες UI, όπως η προεπισκόπηση καρτελών, που μπορεί να διευκολύνει την εύρεση της σωστής καρτέλας αν έχετε ανοίξει πολλές. Άλλο ένα χρήσιμο χαρακτηριστικό σάς επιτρέπει να βάλετε στην άκρη τις ενεργές καρτέλες που δεν χρειάζεστε, αλλά δεν θέλετε να κλείσετε.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
 compare-edge-firefox-also-includes-lots = Το { -brand-name-firefox } περιλαμβάνει επίσης πολλές χρήσιμες λειτουργίες από προεπιλογή, όπως <a { $attrs }>Ενισχυμένη προστασία από καταγραφή</a>, εργαλείο στιγμιότυπων οθόνης, αποστολή μεγάλων αρχείων και πολλά άλλα.
