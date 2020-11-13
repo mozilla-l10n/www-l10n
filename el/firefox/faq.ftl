@@ -22,10 +22,12 @@ how-do-i = Πώς κάνω λήψη του { -brand-name-firefox-browser };
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Μπορείτε εύκολα να κάνετε λήψη του { -brand-name-firefox } για υπολογιστές <a href="{ $url }">εδώ.</a> Το { -brand-name-firefox } λειτουργεί σε συσκευές <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> και <a href="{ $url4 }">{ -brand-name-linux }</a>, ενώ διατίθεται επίσης και για <a href="{ $url5 }">{ -brand-name-android } και { -brand-name-ios }.</a> Βεβαιωθείτε ότι κάνετε λήψη του προγράμματος περιήγησής μας από κάποια έμπιστη σελίδα της { -brand-name-mozilla } ή του { -brand-name-firefox }.
 is-firefox-free = Είναι το { -brand-name-firefox } δωρεάν;
 yep-the-firefox = Ναι! Το { -brand-name-firefox-browser } είναι δωρεάν. Εντελώς δωρεάν. Χωρίς κρυφές χρεώσεις. Δεν πληρώνετε τίποτα για να το χρησιμοποιήσετε και δεν πωλούμε τα προσωπικά σας δεδομένα.
 related-questions-free = Σχετικές ερωτήσεις: είναι το { -brand-name-firefox-browser } δωρεάν, κοστίζει το { -brand-name-firefox } χρήματα
 is-chrome-better = Είναι το { -brand-name-chrome } καλύτερο από το { -brand-name-firefox };
+no-we-dont = Όχι, δεν πιστεύουμε ότι το { -brand-name-chrome } είναι καλύτερο από το { -brand-name-firefox }, επειδή: όταν κάποιος ρωτά ποιο πρόγραμμα περιήγησης είναι το καλύτερο, εννοεί ποιο είναι το πιο γρήγορο και πιο ασφαλές. Το { -brand-name-firefox } ενημερώνεται μηνιαία για να εξασφαλίσει ότι έχετε τον ταχύτερο φυλλομετρητή που σέβεται το απόρρητό σας.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -37,6 +39,7 @@ is-firefox-safe-download = Είναι ασφαλής η λήψη του { -brand
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Η προστασία του απορρήτου σας είναι η νούμερο ένα προτεραιότητά μας και εγγυόμαστε ότι η εγκατάσταση του { -brand-name-firefox } στις συσκευές σας είναι απολύτως ασφαλής — αλλά πρέπει πάντα να βεβαιώνεστε ότι κάνετε λήψη από κάποια έμπιστη σελίδα της { -brand-name-mozilla } ή του { -brand-name-firefox }, όπως <a href="{ $url }">η σελίδα λήψεών μας.</a>
 is-firefox-safe = Είναι το { -brand-name-firefox } ασφαλές;
 
 # Variables:
@@ -71,4 +74,5 @@ who-owns-firefox = Σε ποια εταιρεία ανήκει το { -brand-nam
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = Το { -brand-name-firefox } αναπτύσσεται από τη { -brand-name-mozilla-corporation }, μια θυγατρική του μη κερδοσκοπικού <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> και διέπεται από τις αρχές του Μανιφέστου της { -brand-name-mozilla }. Μάθετε περισσότερα σχετικά με το δημιουργό του { -brand-name-firefox } <a href="{ $url2 }">εδώ.</a>
 related-questions-who = Σχετικές ερωτήσεις: πού ανήκει το { -brand-name-firefox }, ποιος είναι ο κάτοχος του { -brand-name-firefox-browser }, ανήκει το { -brand-name-firefox } στην { -brand-name-google }, ανήκει το { -brand-name-mozilla } { -brand-name-firefox } στην { -brand-name-google }
