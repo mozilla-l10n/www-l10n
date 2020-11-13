@@ -71,3 +71,11 @@ newsletters-check-for-data-breaches = Za datowymi źěrami pytaś
 newsletters-sign-in-to-monitor = Pla { -brand-name-monitor } pśizjawiś
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Wó standardach
+# Name for the newsletter in Newsletter subscription page
+newsletters-addon-development = Dodankowe wuwijanje
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Powěsćowy list za wuwijarje
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } za desktop
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Cyńśo sobu
