@@ -7,12 +7,15 @@
 
 # HTML page title
 firefox-faq = Συνήθεις ερωτήσεις { -brand-name-firefox }
+whether-you-searched-privacy = Αν ψάξατε να βρείτε ένα γρήγορο πρόγραμμα περιήγησης που προστατεύει το απόρρητό σας, εδώ θα βρείτε τις απαντήσεις στις πιο συνήθεις ερωτήσεις σχετικά με το { -brand-name-firefox }.
+whether-you-searched-independant = Είτε θέλετε ένα γρήγορο πρόγραμμα περιήγησης, είτε αναζητάτε ανεξάρτητες τεχνολογίες που προστατεύουν το απόρρητό σας, εδώ θα βρείτε τις απαντήσεις στις πιο συνήθεις ερωτήσεις σχετικά με το { -brand-name-firefox }.
 what-is-firefox = Τι είναι το { -brand-name-firefox };
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = Το { -brand-name-firefox-browser } είναι το μόνο κύριο πρόγραμμα περιήγησης που υποστηρίζεται από ένα μη κερδοσκοπικό οργανισμό που δεν πουλά τα προσωπικά σας δεδομένα σε διαφημιστές, ενώ σας βοηθά να προστατέψετε τις ιδιωτικές σας πληροφορίες. Μάθετε περισσότερα σχετικά με τα <a href="{ $url }">{ -brand-name-firefox-browsers }</a> και <a href="{ $url2 }">άλλα προϊόντα.</a>
 how-do-i = Πώς κάνω λήψη του { -brand-name-firefox-browser };
 
 # Variables:
