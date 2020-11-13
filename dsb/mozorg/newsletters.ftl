@@ -49,4 +49,25 @@ newsletters-thanks-for-telling-us-why = Źěkujomy se, až sćo nam k wěsći da
 newsletters-while-here-why-not-check = Gaž sćo něnto raz how, cogodla njewuslěźujośo wjelicne móžnosći { -brand-name-firefox }.
 newsletters-get-up-and-go = Górjej a pšec
 newsletters-its-your-web-anywhere-you = Waš web jo tam, źož wy sćo.
-newsletters-get-firefox-for-mobile = Wobstarajśo se { -brand-name-firefox } za mobilne rědy
+newsletters-get-firefox-for-mobile = Wobstarajśo se { -brand-name-firefox } za mobilne rědy!
+newsletters-added-extras = Pśidanki
+newsletters-find-out-how = Wuslěźćo kak!
+newsletters-about-us = Wó nas
+newsletters-were-glad-you-asked = Rědnje, až sćo se pšašał!
+# Headline for https://www-dev.allizom.org/newsletter/developer/
+newsletters-love-the-web-so-do-we = Lubujośo web? My teke!
+newsletters-we-are-sorry-but-there = Bóžko jo problem z našym systemom nastał. Pšosym wopytajśo pózdźej hyšći raz!
+newsletters-thanks-for-updating-your = Źěkujomy se za aktualizěrowanje wašych e-mailowych nastajenjow.
+newsletters-you-send-too-many-emails = Sćo pśewjele e-mailow pósłał.
+newsletters-your-content-wasnt-relevant = Wašo wopśimjeśe njejo za mnjo relewantne było.
+newsletters-your-email-design = Waš e-mailowy design jo śěžko cytajobny był.
+newsletters-i-didnt-sign-up = Njejsom za to zregistrěrował.
+newsletters-your-email-preferences = Waše e-mailowe nastajenja su se wuspěšnje zaktualizěrowali.
+newsletters-back-to-email-preferences = Slědk k e-mailowym nastajenjam
+newsletters-take-your-privacy = Wzejśo swóju priwatnosć sobu
+newsletters-travel-the-internet = Gibniśo se ze šćitom na wšych swójich rědach pó interneśe.
+newsletters-download-the-app = Nałoženje ześěgnuś
+newsletters-check-for-data-breaches = Za datowymi źěrami pytaś
+newsletters-sign-in-to-monitor = Pla { -brand-name-monitor } pśizjawiś
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = Wó standardach
