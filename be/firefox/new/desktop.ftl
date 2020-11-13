@@ -33,6 +33,7 @@ firefox-desktop-download-in-browser-screenshot = Убудаваны інстру
 firefox-desktop-download-primary-password = Галоўны пароль
 # Obsolete string
 firefox-desktop-download-master-password = Галоўны пароль
+firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
 firefox-desktop-download-for-everyone = { -brand-name-firefox } — для ўсіх
 firefox-desktop-download-review-system-req = Паглядзіце сістэмныя патрабаванні
