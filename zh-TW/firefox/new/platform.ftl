@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = 讓隱私保護成為標準配備
 new-platform-live-your-life = 隨意生活，不被 { -brand-name-firefox } 監視。自行決定要在何時分享哪些項目。
 new-platform-seamless-setup = 無縫安裝
 new-platform-easy-migration = 安裝 { -brand-name-firefox } for { -brand-name-windows } 後即可輕鬆轉移瀏覽器設定與書籤內容。
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = 下載 { -brand-name-firefox } <br>for { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = 下載 { -brand-name-firefox } <br>for { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = 下載 { -brand-name-firefox } <br>for { -brand-name-linux }
