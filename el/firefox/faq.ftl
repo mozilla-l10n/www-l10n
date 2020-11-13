@@ -48,12 +48,14 @@ is-firefox-safe = Είναι το { -brand-name-firefox } ασφαλές;
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Όχι μόνο είναι ασφαλής η χρήση του { -brand-name-firefox }, αλλά σας βοηθά να προφυλάξετε τα προσωπικά σας δεδομένα. Το { -brand-name-firefox-browser } εμποδίζει αυτόματα τη συλλογή των δεδομένων σας από γνωστούς ιχνηλάτες τρίτων, ιχνηλάτες κοινωνικών δικτύων, cryptominers και fingerprinters. <a href="{ $url }">Μάθετε περισσότερα σχετικά με το απόρρητο στα προϊόντα μας.</a>
 related-questions-safe = Σχετικές ερωτήσεις: είναι το { -brand-name-firefox } κατάλληλο για το απόρρητο, είναι το { -brand-name-firefox } ασφαλές, είναι το { -brand-name-firefox } καλύτερο για το απόρρητο
 does-firefox-sell = Πουλά το { -brand-name-firefox } τα προσωπικά σας δεδομένα;
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Όχι. Δεν το κάναμε, ούτε θα το κάνουμε ποτέ. Και σας προστατεύουμε από πολλούς διαφημιστές που το κάνουν. Τα προϊόντα { -brand-name-firefox } έχουν σχεδιαστεί για να προστατεύουν το απόρρητό σας. <a href="{ $url }">Σας το υποσχόμαστε.</a>
 why-is-firefox = Γιατί είναι τόσο αργό το { -brand-name-firefox };
 firefox-isnt-slow = Το { -brand-name-firefox } δεν είναι αργό… πλέον. Το 2017, αναπτύξαμε από την αρχή τη μηχανή προγράμματος περιήγησής μας (το Quantum), για να εξασφαλίσουμε ότι το { -brand-name-firefox } μπορεί να ανταγωνιστεί τους υπόλοιπους, μεγάλους φυλλομετρητές. Επίσης, η φραγή ιχνηλατών συμβάλλει στην ακόμη ταχύτερη φόρτωση σελίδων. Επομένως, το { -brand-name-firefox } είναι αστραπιαίο χωρίς να θυσιάζει το απόρρητό σας.
 is-firefox-chromium = Βασίζεται το { -brand-name-firefox } στο { -brand-name-chromium };

@@ -38,6 +38,7 @@ newsletters-country-or-region = Χώρα ή περιοχή:
 newsletters-country = Χώρα:
 # Form field label
 newsletters-language = Γλώσσα:
+newsletters-not-all-subscriptions-are = Δεν υποστηρίζονται όλες οι συνδρομές σε όλες τις γλώσσες που αναφέρονται. Σχεδόν όλες προσφέρονται στα Αγγλικά, τα Γερμανικά και τα Γαλλικά.
 # Form field label
 newsletters-format = Μορφή:
 # Variables:
@@ -199,8 +200,12 @@ newsletters-keep-up-with-releases = Παρακολουθήστε τις εκδό
 newsletters-firefox-news = Ειδήσεις { -brand-name-firefox }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Ειδικές ανακοινώσεις σχετικά με το ετήσιο φεστιβάλ της { -brand-name-mozilla }, αφιερωμένο στη σφυρηλάτηση του μέλλοντος του ανοιχτού διαδικτύου.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Ειδήσεις { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Τακτικές ενημερώσεις για να ενημερώνεστε και να συμμετάσχετε στον αγώνα μας για ένα καλύτερο διαδίκτυο.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
