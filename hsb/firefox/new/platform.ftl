@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Priwatnosć ze strowym rozumom
 new-platform-live-your-life = Budźće swoje žiwjenje žiwy, { -brand-name-firefox } njepřihladuje. Rozsudźće sam, kotre informacije dźěliće a hdy.
 new-platform-seamless-setup = Bjezposrědnja konfiguracija
 new-platform-easy-migration = Přećehńće lochko z nastajenjemi a zapołožkami, hdyž { -brand-name-firefox } za { -brand-name-windows } sćahujeće.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = { -brand-name-firefox } <br>za { -brand-name-windows } sćahnyć
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = { -brand-name-firefox } <br>za { -brand-name-mac } sćahnyć
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = { -brand-name-firefox } <br>za { -brand-name-linux } sćahnyć
