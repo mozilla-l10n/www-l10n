@@ -19,13 +19,13 @@ new-platform-advanced-install-options = Advanced install options & other platfor
 new-platform-download-in-another = Download in another language
 new-platform-fix-a-problem = Fix a problem
 new-platform-need-help = Need help?
-new-platform-download-mozilla-firefox-title = Download { -brand-name-mozilla } { -brand-name-firefox }, a free Web browser. { -brand-name-firefox } is created by a global non-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } and { -brand-name-ios } today!
+new-platform-download-mozilla-firefox-title = Download { -brand-name-mozilla } { -brand-name-firefox }, a free web browser. { -brand-name-firefox } is created by a global not-for-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } and { -brand-name-ios } today!
 
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-linux }
 
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-linux }, a free Web browser. { -brand-name-firefox } is created by a global non-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-linux } today!
+new-platform-download-mozilla-desc-linux = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-linux }, a free web browser. { -brand-name-firefox } is created by a global not-for-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-linux } today!
 
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Download the fastest { -brand-name-firefox } for { -brand-name-linux } ever
@@ -47,7 +47,7 @@ new-platform-look-under-the-hood = Look under the hood. Like { -brand-name-linux
 new-platform-download-mozilla-firefox-mac = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-mac-short }
 
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-mac-short }, a free Web browser. { -brand-name-firefox } is created by a global non-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-mac-short } today!
+new-platform-download-mozilla-firefox-desc-mac = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-mac-short }, a free web browser. { -brand-name-firefox } is created by a global not-for-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-mac-short } today!
 
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Download the fastest { -brand-name-firefox } for { -brand-name-mac-short } ever
@@ -68,7 +68,7 @@ new-platform-be-the-master-of-your = Be the master of your domain with strict co
 new-platform-download-mozilla-windows = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-windows }
 
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-windows }, a free Web browser. { -brand-name-firefox } is created by a global non-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-windows } today!
+new-platform-download-mozilla-desc-windows = Download { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-windows }, a free web browser. { -brand-name-firefox } is created by a global not-for-profit dedicated to putting individuals in control online. Get { -brand-name-firefox } for { -brand-name-windows } today!
 
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Download the fastest { -brand-name-firefox } for { -brand-name-windows } ever
