@@ -34,13 +34,18 @@ navigation-v2-view-all-products = Προβολή όλων των προϊόντ�
 
 navigation-v2-who-we-are = Ποιοι είμαστε
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = Συμμετοχή
+navigation-v2-join-the-fight-for-a = Λάβετε μέρος στον αγώνα για ένα υγιές Διαδίκτυο.
 navigation-v2-careers = Καριέρες
+navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
+navigation-v2-more-about-mozilla = Περισσότερα σχετικά με τη { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Καινοτομία
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Αποκτήστε το πρόγραμμα περιήγησης { -brand-name-firefox } μόνο για προγραμματιστές.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
