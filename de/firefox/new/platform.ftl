@@ -40,7 +40,7 @@ new-platform-look-under-the-hood = Wirf ruhig einen Blick unter die Haube. Genau
 # /firefox/mac/ HTML page title
 new-platform-download-mozilla-firefox-mac = Download { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Download { -brand-name-firefox } für { -brand-name-mac-short } – den Browser, der deine Privatsphäre respektiert und auch noch richtig schnell ist.
+new-platform-download-mozilla-firefox-desc-mac = Download { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-mac-short } – den Browser, der deine Privatsphäre respektiert und auch noch richtig schnell ist.
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten für { -brand-name-mac-short } herunterladen
 # /firefox/mac/ social sharing description
@@ -49,7 +49,7 @@ new-platform-faster-page-loading-mac = Der neue { -brand-name-firefox } für { -
 new-platform-firefox-respects-your = { -brand-name-firefox } für { -brand-name-mac-short } <span>Der Browser, der deine Privatsphäre respektiert.</span>
 new-platform-privacy-comes-first = Privatsphäre geht vor
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } blockiert Tracking-Cookies von Drittanbietern und liefert dir Tools, mit denen du mehr Kontrolle über deine Daten hast.
-new-platform-get-speed-and-security = Speed und Sicherheit – alles drin. { -brand-name-firefox } ist schneller, weil wir deine Online-Aktivitäten nicht tracken.
+new-platform-get-speed-and-security = Speed und Sicherheit – alles drin. { -brand-name-firefox } ist auf { -brand-name-mac-short } schneller, weil wir deine Online-Aktivitäten nicht tracken.
 new-platform-block-trackers = Tracking blockieren
 new-platform-be-the-master-of-your = Dank strengem Adblocking bleibst du der Boss in deinen Browser. Tracker und Cookies von Drittanbietern kommen hier nicht rein.
 # /firefox/windows/ HTML page title
@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Privatsphäre, weil es richtig ist
 new-platform-live-your-life = Mach, was du willst. So wie du willst. { -brand-name-firefox } verfolgt nicht jeden deiner Schritte. Du entscheidest, was du teilst und wann.
 new-platform-seamless-setup = Nahtlose Installation
 new-platform-easy-migration = Nimm Einstellungen und Lesezeichen von anderen Browsern einfach mit zu { -brand-name-firefox } für { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = { -brand-name-firefox } <br>für { -brand-name-windows } herunterladen
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = { -brand-name-firefox } <br>für { -brand-name-mac } herunterladen
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = { -brand-name-firefox } <br>für { -brand-name-linux } herunterladen
