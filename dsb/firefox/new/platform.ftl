@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Priwatnosć ze strowym cłowjeskim rozymom
 new-platform-live-your-life = Buźćo swóje žywjenje žywy, { -brand-name-firefox } njepśiglědujo. Rozsuźćo sam, kótare informacije źěliśo a gdy.
 new-platform-seamless-setup = Njepósrědna konfiguracija
 new-platform-easy-migration = Pśeśěgniśo lažko z nastajenjami a cytańskimi znamjenjami, gaž { -brand-name-firefox } za { -brand-name-windows } ześěgujośo.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Ześěgniśo { -brand-name-firefox } <br>za { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Ześěgniśo { -brand-name-firefox } <br>za { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Ześěgniśo { -brand-name-firefox } <br>za { -brand-name-linux }
