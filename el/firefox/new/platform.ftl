@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Απόρρητο κοινής λογικής
 new-platform-live-your-life = Ζήστε τη ζωή σας, το { -brand-name-firefox } δεν σάς παρακολουθεί. Επιλέξτε τι και πότε κοινοποιείτε κάτι.
 new-platform-seamless-setup = Απροβλημάτιστη εγκατάσταση
 new-platform-easy-migration = Εύκολη μεταφορά προτιμήσεων και σελιδοδεικτών όταν κάνετε λήψη του { -brand-name-firefox } για { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Λήψη του { -brand-name-firefox } <br>για { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Λήψη του { -brand-name-firefox } <br>για { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Λήψη του { -brand-name-firefox } <br>για { -brand-name-linux }
