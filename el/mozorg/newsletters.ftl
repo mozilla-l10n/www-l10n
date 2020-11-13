@@ -109,8 +109,12 @@ newsletters-drumbeat-newsgroup = Ομάδα συζήτησης Drumbeat
 newsletters-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Συμμετοχή
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Αναφορά υγείας διαδικτύου
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = Η { -brand-name-mozilla } δημοσιεύει άρθρα και αναλύει ζητήματα σχετικά με την υγεία του διαδικτύου και το αξιόπιστο AI, συμπεριλαμβανομένης και της ετήσιας Αναφοράς υγείας διαδικτύου.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Η γνώση είναι δύναμη
 # Name for the newsletter in Newsletter subscription page
@@ -121,6 +125,10 @@ newsletters-desktop = Υπολογιστές
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = Ενημερώσεις μέσω email για βεβαιωμένους Mozillians στο mozillians.org.
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Ειδήσεις και πληροφορίες σχετικά με την υγεία του διαδικτύου.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Λάβετε δράση για το διαδίκτυο
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Δοκιμή νέων προϊόντων
 # Name for the newsletter in Newsletter subscription page

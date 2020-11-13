@@ -22,11 +22,16 @@ compare-safari-apple-is-widely-known-for = Η { -brand-name-apple } είναι �
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Όπως και το { -brand-name-safari }, το { -brand-name-firefox } ενθαρρύνει την κοινότητα των πρόθυμων προγραμματιστών του να δημιουργήσει <a { $attrs }>πρόσθετα και επεκτάσεις</a> για το πρόγραμμα περιήγησης. Και αφού η πλατφόρμα μας είναι ανοικτού κώδικα, υπάρχουν πολλές επιλογές για αυξημένη λειτουργικότητα.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Επίσης, με τη δημιουργία ενός λογαριασμού { -brand-name-firefox }, έχετε πρόσβαση σε μοναδικές υπηρεσίες, όπως το <a { $pocket }>{ -brand-name-pocket }</a>, που ενσωματώνονται στο πρόγραμμα περιήγησής μας. Το κουμπί του { -brand-name-pocket } στο { -brand-name-firefox } σάς επιτρέπει να αποθηκεύετε ιστοσελίδες και βίντεο στο { -brand-name-pocket } με ένα μόνο κλικ, ώστε να διαβάσετε μια "καθαρή" έκδοση όποτε και όπου θέλετε — ακόμα και χωρίς σύνδεση.
 compare-safari-firefox-is-also-great-for-video = Το { -brand-name-firefox } είναι επίσης ιδανικό για βίντεο και ήχο. Με ενσωματωμένη φραγή αυτόματης αναπαραγωγής που είναι ενεργή από προεπιλογή, δεν θα ακούσετε καμία ιστοσελίδα χωρίς να το θέλετε.
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
 compare-safari-screenshots-is-another-popular = Το <a { $attrs }>Screenshots</a> αποτελεί ένα ακόμη δημοφιλές ενσωματωμένο χαρακτηριστικό του { -brand-name-firefox }, το οποίο σας επιτρέπει να καταγράψετε εύκολα την οθόνη σας. Όταν κάνετε λήψη ενός στιγμιότυπου, μπορείτε να αντιγράψετε το αρχείο ή να επιλέξετε το φάκελο αποθήκευσης για εύκολη οργάνωση.
+# "iCloud" is a brand name.
+compare-safari-firefox-and-safari-both-provide = Τόσο το { -brand-name-firefox }, όσο και το { -brand-name-safari }, παρέχουν μια απρόσκοπτη εμπειρία όσον αφορά τη μεταφορά από υπολογιστή σε κινητό ή αντίστροφα. Το { -brand-name-safari } διαθέτει πανίσχυρα χαρακτηριστικά συνοχής. Συγχρονίζει τους σελιδοδείκτες, τις καρτέλες, το ιστορικό και άλλα στο iCloud, ώστε να υπάρχουν σε όλες τις συσκευές σας. Αυτό σημαίνει ότι μπορείτε να ανοίξετε μια καρτέλα στο { -brand-name-iphone } σας και να την εμφανίσετε στο { -brand-name-mac } σας με ένα μόνο κλικ.
 # Variables:
 #   $ios (string) - link to Apple store with additional attributes for analytics
 #   $android (string) - link to Google Play store with additional attributes for analytics
