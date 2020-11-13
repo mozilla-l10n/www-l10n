@@ -63,6 +63,7 @@ newsletters-would-you-mind-telling-us = Θα σάς πείραζε να μας �
 newsletters-other = Άλλο…
 newsletters-submit = Υποβολή
 newsletters-thanks-for-telling-us-why = Σάς ευχαριστούμε που μας εξηγείτε γιατί αποχωρείτε.
+newsletters-while-here-why-not-check = Όσο βρίσκεστε εδώ, δείτε ακόμη περισσότερες απίθανες λειτουργίες του { -brand-name-firefox }.
 newsletters-get-up-and-go = Ετοιμαστείτε και φύγαμε
 newsletters-its-your-web-anywhere-you = Είναι το δικό σας διαδίκτυο, όπου κι αν πάτε.
 newsletters-get-firefox-for-mobile = Αποκτήστε το { -brand-name-firefox } για κινητά!
@@ -96,10 +97,16 @@ newsletters-sign-up-read-up-stay-informed = Εγγραφείτε, διαβάστ
 newsletters-sign-up-read-up-make-a-difference = Εγγραφείτε. Διαβάστε.<br> Κάντε τη διαφορά.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Ενημερωθείτε για τα ζητήματα που επηρεάζουν τη ζωή σας στο διαδίκτυο.
+newsletters-your-email-preferences = Οι προτιμήσεις email σας έχουν ενημερωθεί επιτυχώς.
 newsletters-back-to-email-preferences = Πίσω στις προτιμήσεις email
+newsletters-take-your-privacy = Πάρτε το απόρρητό σας μαζί σας
+newsletters-travel-the-internet = Ταξιδέψτε στο διαδίκτυο με προστασία σε όλες τις συσκευές σας.
 newsletters-download-the-app = Λήψη εφαρμογής
 newsletters-check-for-data-breaches = Έλεγχος για παραβιάσεις δεδομένων
+newsletters-firefox-monitor-is-a-free = Το { -brand-name-firefox-monitor } είναι μια δωρεάν υπηρεσία που σας επιτρέπει να δείτε αν έχετε εμπλακεί σε μια διαδικτυακή παραβίαση δεδομένων.
 newsletters-sign-in-to-monitor = Σύνδεση στο { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Γνωρίστε τη μητρική μας μάρκα
+newsletters-mozilla-the-non-for-profit = Εμείς στη { -brand-name-mozilla }, τη μη κερδοσκοπική οργάνωση πίσω από το { -brand-name-firefox }, βάζουμε τους ανθρώπους πάνω από το κέρδος σε ό,τι λέμε και κάνουμε.
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = Ανάπτυξη προσθέτων
 # Name for the newsletter in Newsletter subscription page
