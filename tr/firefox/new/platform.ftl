@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Bildiğin gizlilik
 new-platform-live-your-life = Hayatını istediğin gibi yaşa. { -brand-name-firefox } seni izlemez. Neyi, ne zaman paylaşacağını seçmek sana kalmış.
 new-platform-seamless-setup = Sorunsuz kurulum
 new-platform-easy-migration = { -brand-name-firefox }'un { -brand-name-windows } sürümünü indirdikten sonra tercihlerini ve yer imlerini kolayca taşıyabilirsin.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = { -brand-name-windows } için <br>{ -brand-name-firefox }’u indir
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = { -brand-name-mac } için <br>{ -brand-name-firefox }’u indir
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = { -brand-name-linux } için <br>{ -brand-name-firefox }’u indir
