@@ -56,6 +56,7 @@ firefox-desktop-download-search-engine-options = Opziuns per maschinas da tscher
 firefox-desktop-download-smart-search-suggestions = Propostas da tschertga intelligentas
 firefox-desktop-download-bookmark-history = Segnapaginas, cronologia e tabs averts en ils resultats
 firefox-desktop-download-boost-your = Augmenta tia productivitad
+firefox-desktop-download-works-with-google = Funcziuna cun ils products da { -brand-name-google }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
