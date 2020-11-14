@@ -57,6 +57,22 @@ firefox-desktop-download-smart-search-suggestions = Propostas da tschertga intel
 firefox-desktop-download-bookmark-history = Segnapaginas, cronologia e tabs averts en ils resultats
 firefox-desktop-download-boost-your = Augmenta tia productivitad
 firefox-desktop-download-works-with-google = Funcziuna cun ils products da { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Utensil per maletgs dal visur integrà
+firefox-desktop-download-bookmarks-manager = Administraziun da segnapaginas
+firefox-desktop-download-autosuggest-urls = Propostas automaticas dad adressas
+firefox-desktop-download-sync-across-devices = Sincronisaziun da divers apparats
+firefox-desktop-download-reader-mode = Modus da lectura
+firefox-desktop-download-spell-check = Correctura ortografica
+firefox-desktop-download-pinned-tabs = Tabs fixads
+firefox-desktop-download-stream-share-play = Stream, cundivisiun e gieus
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Pussaivladad da bloccar la reproducziun automatica da video & audio
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Maletg-en-maletg
+firefox-desktop-download-curated-content-on = Cuntegn curà en in nov tab
+firefox-desktop-download-share-links = Cundivider colliaziuns
+firefox-desktop-download-protect-your-privacy = Protegia tia sfera privata
+firefox-desktop-download-third-party-cookie = Bloccada da cookies da terzas partidas
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
