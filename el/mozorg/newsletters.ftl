@@ -79,8 +79,11 @@ newsletters-love-the-web-so-do-we = Αγαπάτε το διαδίκτυο; Το
 newsletters-join-thousands-of-developers = Βρείτε χιλιάδες προγραμματιστές σαν εσάς, που μαθαίνουν για τον προγραμματισμό web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Περισσότερο περιεχόμενο Firefox εισερχόμενά σας.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Δείτε πού μπορεί να σας οδηγήσει το διαδίκτυο με μηνιαίες συμβουλές, κόλπα και πληροφορίες από το { -brand-name-firefox }.
 newsletters-we-are-sorry-but-there = Λυπούμαστε, αλλά παρουσιάστηκε κάποιο πρόβλημα στο σύστημά μας. Παρακαλούμε δοκιμάστε ξανά αργότερα!
 newsletters-thanks-for-updating-your = Ευχαριστούμε που ενημερώσατε τις προτιμήσεις email σας.
+newsletters-the-supplied-link-has-expired-long = Ο σύνδεσμος έχει λήξει ή δεν είναι έγκυρος. Θα λάβετε ένα νέο στο επόμενο ενημερωτικό δελτίο, ή μπορείτε να ζητήσετε ένα email με το σύνδεσμο, παρακάτω.
 newsletters-success-an-email-has-been-sent = Επιτυχία! Σας έχει σταλεί ένα email με το σύνδεσμο του κέντρου προτιμήσεών σας. Ευχαριστούμε!
 newsletters-this-is-not-a-valid-email = Αυτή δεν είναι έγκυρη διεύθυνση email. Παρακαλούμε ελέγξτε για λάθη.
 newsletters-you-send-too-many-emails = Στέλνετε πάρα πολλά email.
@@ -97,8 +100,11 @@ newsletters-sign-up-read-up-stay-informed = Εγγραφείτε, διαβάστ
 newsletters-sign-up-read-up-make-a-difference = Εγγραφείτε. Διαβάστε.<br> Κάντε τη διαφορά.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Ενημερωθείτε για τα ζητήματα που επηρεάζουν τη ζωή σας στο διαδίκτυο.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Λάβετε το ενημερωτικό δελτίο της { -brand-name-mozilla } για να ενημερώνεστε σχετικά με ζητήματα που διακινδυνεύουν την υγεία του διαδικτύου και για να ανακαλύψετε πώς μπορείτε να συμμετάσχετε.
 newsletters-your-email-preferences = Οι προτιμήσεις email σας έχουν ενημερωθεί επιτυχώς.
 newsletters-back-to-email-preferences = Πίσω στις προτιμήσεις email
+newsletters-here-are-a-few-things = Ορίστε μερικά πράγματα που μπορείτε να διερευνήσετε όσο περιμένετε το επόμενο email σας.
 newsletters-take-your-privacy = Πάρτε το απόρρητό σας μαζί σας
 newsletters-travel-the-internet = Ταξιδέψτε στο διαδίκτυο με προστασία σε όλες τις συσκευές σας.
 newsletters-download-the-app = Λήψη εφαρμογής
@@ -115,6 +121,8 @@ newsletters-developer-newsletter = Ενημερωτικό δελτίο προγ�
 newsletters-drumbeat-newsgroup = Ομάδα συζήτησης Drumbeat
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Μη χάσετε τις τελευταίες ανακοινώσεις σχετικά με το πρόγραμμα περιήγησής μας για υπολογιστές.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Συμμετοχή
 # Name for the newsletter in Newsletter subscription page
@@ -125,6 +133,8 @@ newsletters-internet-health-report = Αναφορά υγείας διαδικτ�
 newsletters-mozilla-published-articles-and-deep = Η { -brand-name-mozilla } δημοσιεύει άρθρα και αναλύει ζητήματα σχετικά με την υγεία του διαδικτύου και το αξιόπιστο AI, συμπεριλαμβανομένης και της ετήσιας Αναφοράς υγείας διαδικτύου.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Η γνώση είναι δύναμη
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Αποκτήστε όλη τη γνώση που χρειάζεστε για να παραμείνετε ασφαλείς στο διαδίκτυο.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Σχετικά με το Labs
 # Name for the newsletter in Newsletter subscription page
