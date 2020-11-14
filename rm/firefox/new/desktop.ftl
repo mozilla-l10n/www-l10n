@@ -73,6 +73,30 @@ firefox-desktop-download-curated-content-on = Cuntegn curà en in nov tab
 firefox-desktop-download-share-links = Cundivider colliaziuns
 firefox-desktop-download-protect-your-privacy = Protegia tia sfera privata
 firefox-desktop-download-third-party-cookie = Bloccada da cookies da terzas partidas
+firefox-desktop-download-fingerprinter-blocking = Bloccada dad improntaders
+firefox-desktop-download-cryptominer-blocking = Bloccada da criptominiers
+firefox-desktop-download-private-browsing-mode = Modus da navigaziun privata
+firefox-desktop-download-individual-protections-report = Rapport da protecziun persunalisà
+firefox-desktop-download-secure-your-personal = Segirescha tias infurmaziuns persunalas
+firefox-desktop-download-breached-website-alerts = Avertiments da websites cun sperditas da datas
+firefox-desktop-download-built-in-password = Administraziun da pleds-clav integrada
+firefox-desktop-download-clear-history = Stizzar la cronologia
+firefox-desktop-download-form-autofill = Endataziun automatica en formulars
+firefox-desktop-download-automatic-updates = Actualisaziuns automaticas
+firefox-desktop-download-customize-your-browser = Persunalisescha tes navigatur
+firefox-desktop-download-themes = Designs
+firefox-desktop-download-dark-mode = Modus stgir
+firefox-desktop-download-library-of-extensions = Biblioteca dad extensiuns
+firefox-desktop-download-adjust-search-bar = Adattar ils parameters da la trav da tschertga
+firefox-desktop-download-change-new-tab = Midar il layout da novs tabs
+firefox-desktop-download-make-firefox-your = Adatta <strong>{ -brand-name-firefox }</strong> a tes basegns
+firefox-desktop-download-extensions-for-every = Extensiuns per mintga gust
+firefox-desktop-download-change-up-your = Mida il look
+firefox-desktop-download-go-from-light = Mida dal modus cler en il modus stgir tut tenor tia luna u preferenza – u dà vita a la rauba cun in design persunalisà (magari in bel unicorn artg s. Martin?).
+firefox-desktop-download-tweak-your-settings = Adatta tia configuraziun
+firefox-desktop-download-theres-no-need = Ti na stos betg ta cuntentar cun l'imperfecziun. Mida la pagina da novs tabs, la trav da tschertgar, ils segnapaginas e dapli per navigar sco ch'i para e plascha tras l'internet.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Sustegnì da l'organisaziun <strong>senza finamira da profit</strong> che metta en il center las persunas
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
