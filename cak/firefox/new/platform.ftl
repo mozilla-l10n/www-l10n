@@ -20,7 +20,7 @@ new-platform-advanced-install-options = Q'axinäq taq rucha'oj yakoj chuqa' ch'a
 new-platform-download-in-another = Tiqasäx pa jun chik ch'ab'äl
 new-platform-fix-a-problem = Tib'an rutzil jun k'ayewal
 new-platform-need-help = ¿La nawajo' ato'ik?
-new-platform-download-mozilla-firefox-title = Taqasaj { -brand-name-mozilla } { -brand-name-firefox }, jun sipan okik'amaya'l. { -brand-name-firefox } nuk'un ruma jun ajronojel moloj ri majun ch'akoj rutzeqelib'en, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Wakami tak'ulu' { -brand-name-firefox } richin { -brand-name-windows } MacOS, { -brand-name-linux }, { -brand-name-android } chuqa' { -brand-name-ios }!
+new-platform-download-mozilla-firefox-title = Taqasaj { -brand-name-mozilla } { -brand-name-firefox }, jun jaqäl chuqa' sipan ajk'amaya'l okik'amaya'l. { -brand-name-firefox } nuk'un ruma jun aj ronojel moloj ri majun ch'akoj rojqan, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Wakami tak'ulu' { -brand-name-firefox } richin { -brand-name-windows } { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } chuqa' { -brand-name-ios }!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Taqasaj { -brand-name-mozilla } { -brand-name-firefox } richin { -brand-name-linux }
 # /firefox/linux/ HTML page description
