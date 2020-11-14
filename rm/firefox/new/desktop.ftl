@@ -41,6 +41,21 @@ firefox-desktop-download-primary-password = Pled-clav universal
 # Obsolete string
 firefox-desktop-download-master-password = Pled-clav universal
 firefox-desktop-download-we-block-the-ad = Nus bloccain ils fastizaders da reclama. Ti navigheschas pli svelt en l'internet.
+firefox-desktop-download-ads-are-distracting = Reclamas distiran ed han per consequenza che paginas chargian pli plaun, fertant che lur fastizaders observan mintga pass che ti fas online. { -brand-name-firefox-browser } blochescha automaticamain la plipart dals fastizaders – uschia ch'i na fa gnanc da basegn da svutrar ditg en ils parameters da segirezza.
+firefox-desktop-download-see-your-report = Vesair tes rapport da protecziun
+firefox-desktop-download-for-everyone = { -brand-name-firefox } è per in e mintgina
+firefox-desktop-download-available-in-over = Disponibel en passa 90 linguas e cumpatibel cun maschinas da { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }: { -brand-name-firefox } funcziuna independent dal sistem che ti utiliseschas e nua ch'i saja. Controllescha che tes sistem saja actual per l'experientscha optimala.
+firefox-desktop-download-review-system-req = Verifitgar las premissas dal sistem
+firefox-desktop-download-all-your-devices = Installescha { -brand-name-firefox } sin tut tes apparats
+firefox-desktop-download-take-your-privacy = Piglia tia sfera privata adina cun tai. { -brand-name-firefox-browsers } per { -brand-name-ios } ed { -brand-name-android } ha la medema configuraziun stricta per la protecziun da datas che impedescha che fastizaders ta possian suandar en il web – nua ch'i saja.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Fa <strong>tut</strong> cun { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Tschertgar pli furber e pli svelt
+firefox-desktop-download-search-from-address = Tschertgar cun la trav d'adressas
+firefox-desktop-download-search-engine-options = Opziuns per maschinas da tschertgar
+firefox-desktop-download-smart-search-suggestions = Propostas da tschertga intelligentas
+firefox-desktop-download-bookmark-history = Segnapaginas, cronologia e tabs averts en ils resultats
+firefox-desktop-download-boost-your = Augmenta tia productivitad
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
