@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Konto nie jest obowiązkowe. Ale może Ci się przydać.
-whatsnew-account-main-lead-in = Przeglądarka { -brand-name-firefox } zbiera o Tobie tak mało danych, że nie potrzebujemy nawet Twojego adresu e-mail. Ale jeśli użyjesz go do założenia konta { -brand-name-firefox(case: "gen") }, możemy chronić Twoją prywatność przez większą część Twojego życia w Internecie.
+whatsnew-account-main-lead-in = Przeglądarka { -brand-name-firefox } zbiera o Tobie tak mało danych, że nie potrzebujemy nawet Twojego adresu e-mail. Ale jeśli użyjesz go do założenia konta { -brand-name-firefox(case: "gen") }, możemy chronić Twoją prywatność przez większą część Twojego życia w sieci.
 whatsnew-account-main-button = Zaloguj się
 
 ##

@@ -108,7 +108,7 @@ newsletters-sign-up-read-up-stay-informed = Zapisz się, czytaj,<br> bądź na b
 # Obsolete string
 newsletters-sign-up-read-up-make-a-difference = Zapisz się. Czytaj.<br> Miej znaczenie.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
-newsletters-get-smart-on-the-issues = Dowiedz się o problemach wpływających na Twoje życie w Internecie.
+newsletters-get-smart-on-the-issues = Dowiedz się o problemach wpływających na Twoje życie w sieci.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Subskrybuj biuletyn { -brand-name-mozilla(case: "gen") }, aby otrzymywać informacje o zagrożeniach dla Internetu i możliwościach zaangażowania się.
 newsletters-your-email-preferences = Ustawienia e-mail zostały pomyślnie uaktualnione.

@@ -126,7 +126,7 @@ firefox-desktop-download-from-security-to = Od bezpieczeństwa po aktualności i
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } został stworzony przez <a { $attrs }>{ -brand-name-mozilla(case: "acc") }</a> jako szybsza, bardziej prywatna alternatywa dla przeglądarek takich jak { -brand-name-ie }, a teraz { -brand-name-chrome }. Dzisiaj, nasza firma z misją i społeczność wolontariuszy stawiają Twoją prywatność ponad wszystko inne.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Wraz z rozwojem i zmianami Internetu, { -brand-name-firefox } nadal skupia się na Twoim prawie do prywatności — nazywamy to <a { $attrs }>obietnicą o danych osobowych</a>: zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic. Twoje dane, Twoje działania w sieci, Twoje życie w Internecie jest chronione przez { -brand-name-firefox(case: "acc") }.
+firefox-desktop-download-as-the-internet = Wraz z rozwojem i zmianami Internetu, { -brand-name-firefox } nadal skupia się na Twoim prawie do prywatności — nazywamy to <a { $attrs }>obietnicą o danych osobowych</a>: zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic. Twoje dane, Twoje działania w sieci, Twoje życie w sieci jest chronione przez { -brand-name-firefox(case: "acc") }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jest dostępny na wszystkich urządzeniach — miej karty, historię i zakładki zawsze przy sobie. <a { $attrs }>Konto { -brand-name-firefox(case: "gen") }</a> to wszystko, czego potrzebujesz.

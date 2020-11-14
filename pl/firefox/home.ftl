@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-home-firefox-protect-your = { -brand-name-firefox } — chroń swoje życie w Internecie za pomocą produktów zapewniających prywatność
+firefox-home-firefox-protect-your = { -brand-name-firefox } — chroń swoje życie w sieci za pomocą produktów zapewniających prywatność
 firefox-home-firefox-is-more-than = { -brand-name-firefox } to więcej niż przeglądarka. Dowiedz się więcej o produktach { -brand-name-firefox(case: "gen") }, które szanują Twoje dane i są zbudowane z myślą o prywatności.
 firefox-home-the-browser-is-just = Przeglądarka to dopiero początek
 firefox-home-meet-our-family-of = Poznaj naszą rodzinę produktów
