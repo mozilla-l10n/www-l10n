@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/windows/
 
 new-platform-free-web-browser = Darmowa przeglądarka
-new-platform-download-firefox = Pobierz Firefoksa
-new-platform-download-the-fastest = Pobierz najszybszego Firefoksa
-new-platform-faster-page-loading = Szybsze wczytywanie stron, mniejsze zużycie pamięci i mnóstwo funkcji w nowym Firefoksie.
+new-platform-download-firefox = Pobierz { -brand-name-firefox(case: "acc") }
+new-platform-download-the-fastest = Pobierz najszybszego { -brand-name-firefox(case: "acc") } w historii
+new-platform-faster-page-loading = Szybsze wczytywanie stron, mniejsze zużycie pamięci i mnóstwo funkcji w nowym { -brand-name-firefox(case: "loc") }.
 new-platform-the-new-firefox = Nowy <strong>{ -brand-name-firefox }</strong>
 new-platform-2x-faster = Dwa razy szybszy
 new-platform-the-best-firefox-ever = Najlepszy { -brand-name-firefox } w historii
@@ -20,9 +20,9 @@ new-platform-advanced-install-options = Pozostałe opcje instalacji i dla innyc
 new-platform-download-in-another = Pobierz w innym języku
 new-platform-fix-a-problem = Rozwiązywanie problemów
 new-platform-need-help = Potrzebujesz pomocy?
-new-platform-download-mozilla-firefox-title = Pobierz Mozillę { -brand-name-firefox }, darmową przeglądarkę. { -brand-name-firefox } jest tworzony przez ogólnoświatową organizację non-profit, której celem jest oddanie użytkownikom kontroli nad siecią. Zacznij go używać na systemie { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } lub { -brand-name-ios } już dzisiaj!
+new-platform-download-mozilla-firefox-title = Pobierz { -brand-name-mozilla(case: "acc") } { -brand-name-firefox }, darmową przeglądarkę. { -brand-name-firefox } jest tworzony przez ogólnoświatową organizację non-profit, której celem jest oddanie użytkownikom kontroli nad siecią. Zacznij go używać w systemie { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } lub { -brand-name-ios } już dzisiaj!
 # /firefox/linux/ HTML page title
-new-platform-download-mozilla-linux = Pobierz Mozillę { -brand-name-firefox } na Linuksa
+new-platform-download-mozilla-linux = Pobierz { -brand-name-mozilla(case: "acc") } { -brand-name-firefox } na { -brand-name-linux(case: "acc") }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Pobierz Mozillę { -brand-name-firefox }, darmową przeglądarkę dla systemu { -brand-name-linux }. { -brand-name-firefox } jest tworzony przez ogólnoświatową organizację non-profit, której celem jest oddanie użytkownikom kontroli nad siecią. Zacznij go używać już dzisiaj!
 # /firefox/linux/ social sharing title
