@@ -18,6 +18,7 @@ navigation-v2-privacy-promise = Υπόσχεση απορρήτου
 navigation-v2-learn-how-firefox-treats = Μάθετε πώς το { -brand-name-firefox } χειρίζεται τα δεδομένα σας με σεβασμό.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
 navigation-v2-release-notes = Σημειώσεις έκδοσης
+navigation-v2-get-the-details-on-the = Μάθετε λεπτομέρειες σχετικά με τις πιο πρόσφατες ενημερώσεις του { -brand-name-firefox }.
 navigation-v2-view-all-firefox-browsers = Προβολή όλων των { -brand-name-firefox-browsers }
 
 ## Products menu
