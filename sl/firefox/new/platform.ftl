@@ -34,7 +34,7 @@ new-platform-firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux 
 new-platform-own-your-online-life = Obvladajte svoje spletno življenje.
 new-platform-privacy-more-than = Zasebnost – več kot pravilnik
 new-platform-your-life-your-business = Vaše življenje, vaša stvar. { -brand-name-firefox } v { -brand-name-linux }u zavrača sledilne piškotke tretjih strani.
-new-platform-speed-meet-security = Hitrost in varnost. { -brand-name-firefox } je dvakrat hitrejši od Chroma in porabi 30% manj pomnilnika.
+new-platform-speed-meet-security = Hitrost in varnost. { -brand-name-firefox } je dvakrat hitrejši od { -brand-name-chrome(sklon: "rodilnik") } in porabi 30 % manj pomnilnika.
 new-platform-open-source = Odprta koda
 new-platform-look-under-the-hood = Pokukajte pod pokrov. Tako kot { -brand-name-linux } tudi { -brand-name-firefox } gradi odprta koda.
 # /firefox/mac/ HTML page title
@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Zdrava zasebnost
 new-platform-live-your-life = Živite svoje življenje, { -brand-name-firefox } vas ne opazuje. Izberite, kaj želite deliti in kdaj.
 new-platform-seamless-setup = Enostavna nastavitev
 new-platform-easy-migration = Enostavna premestitev nastavitev in zaznamkov, ko prenesete { -brand-name-firefox } za { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Prenesite { -brand-name-firefox } <br>za { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Prenesite { -brand-name-firefox } <br>za { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Prenesite { -brand-name-firefox } <br>za { -brand-name-linux }
