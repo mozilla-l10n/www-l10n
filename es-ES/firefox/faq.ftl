@@ -7,12 +7,16 @@
 
 # HTML page title
 firefox-faq = Preguntas frecuentes sobre { -brand-name-firefox }
-whether-you-searched-privacy = Si buscas un navegador rápido que proteja tu privacidad, estas preguntas frecuentes están aquí para responder a las cuestiones más urgentes relacionadas con { -brand-name-firefox }.
+whether-you-searched-privacy = Si buscabas un navegador rápido que proteja tu privacidad, estas preguntas frecuentes están aquí para responder a las cuestiones más urgentes relacionadas con { -brand-name-firefox }.
+whether-you-searched-independant = Tanto si buscabas un navegador rápido como si buscas tecnología independiente que proteja tu privacidad, estas preguntas frecuentes están aquí para responder a las cuestiones más urgentes relacionadas con { -brand-name-firefox }.
+what-is-firefox = ¿Qué es { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } es el único navegador importante respaldado por una organización sin ánimo de lucro que no vende tus datos personales a los anunciantes y te ayuda a proteger tu información personal. Descubre más sobre <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y <a href="{ $url2 }">otros productos.</a>
+how-do-i = ¿Cómo puedo conseguir { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
