@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Privatësi sipas logjikës së rëndomtë
 new-platform-live-your-life = Vazhdoni punën tuaj, { -brand-name-firefox }-i nuk vëzhgon. Zgjidhni ç’të ndani me të tjerët dhe kur ta ndani.
 new-platform-seamless-setup = Ujdisje e pacen
 new-platform-easy-migration = Migrim i lehtë i parapëlqimeve dhe faqerojtësve, kur shkarkoni { -brand-name-firefox }-in për { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Shkarkoni { -brand-name-firefox }-in <br>për { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Shkarkoni { -brand-name-firefox } <br>për { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Shkarkoni { -brand-name-firefox } <br>për { -brand-name-linux }
