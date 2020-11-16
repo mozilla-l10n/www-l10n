@@ -20,7 +20,7 @@ new-platform-advanced-install-options = Iγewwaṛen n telqayt n usebded & inagr
 new-platform-download-in-another = Sader s tutlayt-ik
 new-platform-fix-a-problem = Fru ugur
 new-platform-need-help = Tesriḍ tallelt?
-new-platform-download-mozilla-firefox-title = Sider { -brand-name-mozilla } { -brand-name-firefox }, iminig Web ilellli. { -brand-name-firefox } tesnulfat-id tmezdagnut tamadlant ur yettnadin ara idrimen, i yesseḥbibiren akken iseqdacen ad ẓren ayen iḍerrun s srid. Awi { -brand-name-firefox } i windows, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } akked { -brand-name-ios } seg ass-a!
+new-platform-download-mozilla-firefox-title = Sader { -brand-name-mozilla } { -brand-name-firefox }, iminig web ilelli. { -brand-name-firefox } tesnulfat-id tmezdagnut tamadlant ur yettnadin ara idrimen, i yesseḥbibiren ɣef yiseqdacen ad ẓren ayen iḍerrun s srid. Awi { -brand-name-firefox } i { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } kked { -brand-name-ios } seg wass-a!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Sader { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-linux }
 # /firefox/linux/ HTML page description
