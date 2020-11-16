@@ -20,3 +20,5 @@ firefox-sync-click-get-started = Tapitz'a' pa <strong>“Titikirisäx”</strong
 enter-an-email = Tatz'ib'aj jun rochochib'al taqoya'l chuqa' ewan rutzij <strong>“Titz'uk jun { -brand-name-firefox-account }.”</strong>
 firefox-sync-click-next-to = Tapitz'a' pa <strong>“Jun chik”</strong> richin nak'ül jun jikib'axïk chupam ataqoya'l.
 firefox-sync-after-you-check = Chi rij xtanik'oj ri ataqoya'l chuqa' toq xtapïtz' pa ruwi' ri ruximonel jikib'anïk, { -brand-name-firefox } pa ruyonil xtuxïm ri' pa ruka'n b'ey.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Ch'aqa' ato'ik richin nanuk'samajij ri { -brand-name-firefox-account }
