@@ -31,7 +31,11 @@
        *[lowercase] Firefox tarayıcısı
         [uppercase] Firefox Tarayıcısı
     }
--brand-name-firefox-browsers = Firefox tarayıcıları
+-brand-name-firefox-browsers =
+    { $capitalization ->
+       *[lowercase] Firefox tarayıcıları
+        [uppercase] Firefox Tarayıcıları
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
