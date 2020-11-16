@@ -38,7 +38,7 @@ new-platform-speed-meet-security = Arured, ih, maca s tɣellist. { -brand-name-f
 new-platform-open-source = Aɣbalu yeldin
 new-platform-look-under-the-hood = Wali ddaw n tduli. Am { -brand-name-linux }, timahilin n { -brand-name-firefox } d aɣbalu yeldin.
 # /firefox/mac/ HTML page title
-new-platform-download-mozilla-firefox-mac = Sider { -brand-name-firefox } i { -brand-name-mac-short }
+new-platform-download-mozilla-firefox-mac = Sader { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
 new-platform-download-mozilla-firefox-desc-mac = Sider { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-mac-short }, iminig Web ilelli. { -brand-name-firefox } tesnulfa-t-id tuddsa tagraɣlant ur yettnadin ara tadrimt, tin yesseḥbibiren ɣef yiseqdacen akken ad ṭṭfen tudert-nsen tumḍint gar ifassen-nsen. Sider { -brand-name-firefox } i { -brand-name-mac-short } ass-a!
 # /firefox/mac/ social sharing title
@@ -53,7 +53,7 @@ new-platform-get-speed-and-security = Awi arured d tɣellist. { -brand-name-fire
 new-platform-block-trackers = Asewḥel n yineḍfaṛen
 new-platform-be-the-master-of-your = Ṭṭef gar ifassen-ik ibenk-ik s usewḥel n ugbur. Kkes meṛṛa inagan n tuqqna akked ineḍfaṛen.
 # /firefox/windows/ HTML page title
-new-platform-download-mozilla-windows = Sider { -brand-name-firefox } i { -brand-name-windows }
+new-platform-download-mozilla-windows = Sader { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-windows }
 # /firefox/windows/ HTML page description
 new-platform-download-mozilla-desc-windows = Sider { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-windows }, iminig Web ilelli. { -brand-name-firefox } tesnulfa-t-id tuddsa tagraɣlant ur yettnadin ara tadrimt, tin yesseḥbibiren ɣef yiseqdacen akken ad ṭṭfen tudert-nsen tumḍint gar ifassen-nsen. Sider { -brand-name-firefox } i { -brand-name-windows } ass-a!
 # /firefox/windows/ social sharing title
