@@ -16,4 +16,12 @@ welcome-page1-check-your-breach-report = Takanoj ri Rutzijol Tz'ilanem
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } nuk'üt chawäch we xtz'iläx ri awetamab'al pa jun etaman tz'ilanem tzij, chuqa' nuya' rutzijol chawe jampe' xtik'ulwachitäj.
 welcome-page1-stay-ahead-of-hackers = Kanab'eyij chi kiwa ri ajjak
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Tawila' rub'eyal richin nachajij ri awetamab'al kik'in <a href="{ $security_tips }">{ -brand-name-monitor }Rub'eyal Rujikomal</a>.
+welcome-page1-stay-in-the-know = Tawetamaj q'ij q'ij
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = ¿La at jun 100,985,047 winäq xapeyöx pa <a href="{ $evite_breach }">“nimaq'ij” richin niq'at ri kitz'ilanem tzij</a>?
 welcome-page1-why-am-i-seeing-this = ¿Aruma nintz'ët re'?
