@@ -15,3 +15,7 @@ whatsnew-account-main-button = Inicie sesión
 ##
 
 whatsnew-account-signed-in-headline = Faga moito máis. Use { -brand-name-firefox } para móbil.
+whatsnew-account-signed-in-lead-in = Envíe unha ligazón de descarga ó seu teléfono.
+whatsnew-account-signed-in-qr-title = Descargue { -brand-name-firefox } para o seu teléfono intelixente e tableta.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Escanee este código QR
