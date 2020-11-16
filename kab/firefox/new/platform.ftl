@@ -22,7 +22,7 @@ new-platform-fix-a-problem = Fru ugur
 new-platform-need-help = Tesriḍ tallelt?
 new-platform-download-mozilla-firefox-title = Sider { -brand-name-mozilla } { -brand-name-firefox }, iminig Web ilellli. { -brand-name-firefox } tesnulfat-id tmezdagnut tamadlant ur yettnadin ara idrimen, i yesseḥbibiren akken iseqdacen ad ẓren ayen iḍerrun s srid. Awi { -brand-name-firefox } i windows, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } akked { -brand-name-ios } seg ass-a!
 # /firefox/linux/ HTML page title
-new-platform-download-mozilla-linux = Sider { -brand-name-firefox } i { -brand-name-linux }
+new-platform-download-mozilla-linux = Sader { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Sider { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-linux } , iminig Web ilelli. { -brand-name-firefox } tesnulfa-t-id tuddsa tagraɣlant ur yettnadin ara tadrimt, tin yesseḥbibiren ɣef yiseqdacen akken ad ṭṭfen tudert-nsen tumḍint gar ifassen-nsen. Sider { -brand-name-firefox } i { -brand-name-linux } ass-a!
 # /firefox/linux/ social sharing title
