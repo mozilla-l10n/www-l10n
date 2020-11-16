@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Non cómpre que teña conta, pero pode que queira unha.
+whatsnew-account-main-lead-in = O navegador { -brand-name-firefox } recompila tan poucos datos sobre vostede que nin precisamos do seu enderezo de correo electrónico. Mais cando empregue un para crear unha conta { -brand-name-firefox }, podemos protexer a súa privacidade durante o tempo que pase na Rede.
 
 ##
 
