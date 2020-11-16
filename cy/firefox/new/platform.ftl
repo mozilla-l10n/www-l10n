@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Preifatrwydd synnwyr cyffredin
 new-platform-live-your-life = Byw eich bywyd, nid yw { -brand-name-firefox } yn gwylio. Dewiswch beth i'w rannu a phryd i'w rannu.
 new-platform-seamless-setup = Gosod di-dor
 new-platform-easy-migration = Trosglwyddo dewisiadau a nodau tudalen yn hawdd pan fyddwch yn llwytho { -brand-name-firefox } { -brand-name-windows } i lawr.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Llwytho i Lawr { -brand-name-firefox } <br>ar gyfer { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Llwytho i Lawr { -brand-name-firefox } <br>ar gyfer { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Llwytho i Lawr { -brand-name-firefox } <br>ar gyfer { -brand-name-linux }
