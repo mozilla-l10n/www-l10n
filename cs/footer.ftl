@@ -69,3 +69,5 @@ footer-donate = Přispějte
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Sledujte @mozilla
+footer-follow-firefox = Sledujte @firefox
