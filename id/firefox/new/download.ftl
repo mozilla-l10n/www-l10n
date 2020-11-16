@@ -62,3 +62,5 @@ firefox-new-please-follow = Silakan ikuti <a href="{ $url }">instruksi ini</a> u
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda bisa mencoba <a href="{ $url }">versi berikut</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Kunjungi Dukungan untuk Detail Lebih Lanjut
