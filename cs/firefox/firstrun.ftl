@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/firstrun/
 
 firstrun-firefox-browser = { -brand-name-firefox-browser }
-firstrun-welcome-to-firefox = Vítejte ve { -brand-name-firefox }u
-firstrun-take-firefox-with-you = Vezměte si { -brand-name-firefox } s sebou
-firstrun-already-using-firefox = Už { -brand-name-firefox } používáte?
+firstrun-welcome-to-firefox = Vítejte ve { -brand-name-firefox(case: "loc") }
+firstrun-take-firefox-with-you = Vezměte si { -brand-name-firefox(case: "acc") } s sebou
+firstrun-already-using-firefox = Už { -brand-name-firefox(case: "acc") } používáte?
 firstrun-get-your-bookmarks-history = Mějte své záložky, historii i uložená hesla s sebou na všech svých zařízeních.
-firstrun-sign-in-to-your-account = Přihlaste se do svého účtu a my zařídíme, že se synchronizují záložky, hesla a další skvělé věci, které jste uložili do { -brand-name-firefox }u na jiných zařízeních.
+firstrun-sign-in-to-your-account = Přihlaste se do svého účtu a my zařídíme, že se synchronizují záložky, hesla a další skvělé věci, které jste uložili do { -brand-name-firefox(case: "gen") } na jiných zařízeních.
 firstrun-already-have-an-account = Už máte účet?
 firstrun-sign-in = Přihlásit se
