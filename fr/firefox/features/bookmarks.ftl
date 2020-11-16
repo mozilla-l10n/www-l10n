@@ -14,7 +14,7 @@ features-bookmarks-dont-agonize-lovers-of = Fans de marque-pages, ne vous tracas
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Collectionnez-les
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = Avec l’icône d’étoile pour les marque-pages, vous pouvez très vite tous les classer, leur ajouter un titre et les ranger dans un dossier. Avec la barre des marque-pages vous serez sûr·e d’avoir vos préférés toujours sous les yeux.
+features-bookmarks-get-your-faves-all-sorted = Avec l’icône d’étoile pour les marque-pages, vous pouvez très vite tous les classer, leur ajouter un titre et les ranger dans un dossier. Avec la barre personnelle vous serez sûr·e d’avoir vos préférés toujours sous les yeux.
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Partez avec eux
 # Variables:
