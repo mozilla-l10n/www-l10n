@@ -8,4 +8,5 @@
 
 ## Page title
 
-community-hotline-community-participation-report = ერთობაში მონაწილეობის გზამკვლევი – მოხსენების გაკეთება
+community-hotline-community-participation-report = ერთობაში მონაწილეობის წესები – მოხსენების გაკეთება
+community-hotline-community-participation = ერთობაში მონაწილეობის წესების ცხელი ხაზი
