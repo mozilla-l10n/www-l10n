@@ -48,7 +48,10 @@ navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-manifestet
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-meet-the-not-for-profit-behind = Møt den ideelle organisasjonen bak { -brand-name-firefox } som står for et bedre nett.
 navigation-v2-get-involved = Bli involvert
+navigation-v2-leadership = Ledelse
+navigation-v2-careers = Jobbmuligheter
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogg
+navigation-v2-more-about-mozilla = Mer om { -brand-name-mozilla }
 
 ## Innovation menu
 
@@ -62,3 +65,4 @@ navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Bidra med stemmen din slik at fremtiden på nettet kan høre alle.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = Flere { -brand-name-mozilla }-innovasjoner
