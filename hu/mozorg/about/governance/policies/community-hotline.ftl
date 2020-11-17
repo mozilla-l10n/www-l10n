@@ -8,4 +8,6 @@
 
 ## Page title
 
+community-hotline-community-participation-report = Közösségi részvételi irányelvek – Hogyan jelentsen
+community-hotline-community-participation = Közösségi részvételi irányelvek forródrótja
 community-hotline-report = Jelentés
