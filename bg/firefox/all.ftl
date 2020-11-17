@@ -25,6 +25,14 @@ firefox-all-everyone-deserves-access = Всеки заслужава достъ�
 firefox-all-choose-which-firefox = Изберете кой { -brand-name-firefox-browser } да изтеглите на своя език
 firefox-all-firefox-privacy-notice = Бележка за поверителността на { -brand-name-firefox }
 firefox-all-learn-about-firefox = Научете повече за четеца { -brand-name-firefox }
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Изберете 32-битов инсталатор за компютри с 32-битови процесори — или за по-стари или по-малко мощни компютри. <a href="{ $url }"> Ако не сте сигурни </a> дали да изберете 64-битов или 32-битов инсталатор, препоръчваме ви да изберете 32-битов.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Изтеглете { $product_label } за { $platform } на { $locale }
 firefox-all-msi-installers = Инсталатори MSI
 firefox-all-which-version = Коя версия бихте искали?
 firefox-all-select-your-preferred-installer = Изберете предпочитан инсталатор
