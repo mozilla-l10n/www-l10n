@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Bok za prědny start Firefox
+nightly-firstrun-firefox-nightly = Bok za prědny start { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Źěkujomy se, až { -brand-name-firefox-nightly } wužywaśo
 nightly-firstrun-choose-an-area = Wubjeŕśo wobcerk, źož cośo sobu źěłaś a pomagajśo { -brand-name-firefox } za wužywarje na cełem swěśe pólěpšował
 nightly-firstrun-test = Testowaś
