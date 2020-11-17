@@ -44,3 +44,23 @@ newsletters-submit = Gönder
 newsletters-thanks-for-telling-us-why = Neden ayrıldığınızı bildirdiğiniz için teşekkürler.
 newsletters-added-extras = Ek özellikler
 newsletters-about-us = Hakkımızda
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-android } için { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = { -brand-name-android } için { -brand-name-firefox } ile ilgili sürümleri ve haberleri takip edin.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Geleceğin teknolojisini inşa ediyoruz. Gelin bizimle keşfedin.
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = { -brand-name-webmaker }’dan en iyi şekilde yararlanmanıza yardımcı olacak özel duyurular.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
