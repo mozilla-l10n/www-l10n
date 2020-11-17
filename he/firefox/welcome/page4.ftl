@@ -9,6 +9,8 @@
 welcome-page4-download-the-firefox-browser = הורדת ה{ -brand-name-firefox-browser(case: "a") } לנייד שלך עבור { -brand-name-ios } ו־{ -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = ארנק. מפתחות. טלפון. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = קחו עמכם פרטיות לכל מכשיר — והשאירו מאחור את רכיבי מעקב הנתונים.
+welcome-page4-privacy-on-by-default = הפרטיות שלך מופעלת כברירת מחדל ב־{ -brand-name-firefox } החדש עבור { -brand-name-android } — ומעכשיו באפשרותך להפוך את { -brand-name-firefox } לדפדפן ברירת המחדל שלך ב־{ -brand-name-ios } 14.
+welcome-page4-get-the-firefox-mobile = קבלת { -brand-name-firefox } לנייד
 welcome-page4-get-firefox-on-your-phone = קבלת { -brand-name-firefox } לטלפון שלך
 welcome-page4-send-the-download-link-right = שליחת קישור ההורדה ישירות לטלפון או הדוא״ל שלך.
 welcome-page4-download-firefox-for-your = הורדת { -brand-name-firefox } לטלפון החכם ולמחשב הלוח שלך.

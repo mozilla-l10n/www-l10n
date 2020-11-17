@@ -14,3 +14,5 @@ whatsnew81-send-form-label-alt = נא להכניס כתובת דואר אלקט�
 whatsnew81-scan-this-qr-code = נא לסרוק קוד QR זה כדי להוריד
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = דפדפן { -brand-name-firefox } החדש עבור { -brand-name-android } כבר כאן
+whatsnew81-make-firefox-your-everyday = להפוך את { -brand-name-firefox } לדפדפן היומיומי שלך ב־{ -brand-name-ios }
+whatsnew81-attention-iphone-people = שימו לב, משתמשי { -brand-name-iphone }: ב־{ -brand-name-ios } 14 ניתן סוף סוף להגדיר את { -brand-name-firefox } כדפדפן ברירת המחדל שלך. יש לוודא שיש לך את ה־{ -brand-name-firefox } העדכני ביותר עבור { -brand-name-ios }.

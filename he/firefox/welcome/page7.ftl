@@ -7,5 +7,7 @@
 
 page7-get-facebook-container = קבלת { -brand-name-facebook-container }
 page7-facebook-container-also-works = ‏{ -brand-name-facebook-container } עובד גם באתרים אחרים בבעלות { -brand-name-facebook } כמו { -brand-name-instagram }, ‏{ -brand-name-facebook-messenger } ו־{ -brand-name-workplace }.
+page7-that-sneaky-little-button = הכפתור הקטן והחמקני הזה
+page7-those-innocent-looking-f-buttons = אותם כפתורי F התמימים למראה מ־{ -brand-name-facebook } עוקבים אחר פעילות האינטרנט שלך, גם אם אין לך חשבון. { -brand-name-facebook-container } חוסם אותם.
 page7-get-firefox-monitor = קבלת { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = למה אני רואה את זה?
