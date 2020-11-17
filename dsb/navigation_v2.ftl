@@ -52,6 +52,7 @@ navigation-v2-innovation = Inowacija
 navigation-v2-close-innovation-menu = Meni „Inowacija“ zacyniś
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Wobstarajśo se wobglědowak { -brand-name-firefox }, jano za wuwijarje napórany.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
