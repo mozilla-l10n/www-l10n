@@ -10,3 +10,4 @@
 
 community-hotline-community-participation-report = ერთობაში მონაწილეობის წესები – მოხსენების გაკეთება
 community-hotline-community-participation = ერთობაში მონაწილეობის წესების ცხელი ხაზი
+community-hotline-to-report-violations = ერთობაში მონაწილეობის წესების დარღვევის შესატყობინებლად <strong>{ -brand-name-mozilla }-ს ერთობისთვის</strong>, გთხოვთ დაწკაპოთ „მოხსენების“ ღილაკზე ქვემოთ. ვრცლად, მოხსენების გაგზავნის შესახებ, იხილეთ „<a href="{ $howto }">როგორ გავგზავნო მოხსენება</a>“.
