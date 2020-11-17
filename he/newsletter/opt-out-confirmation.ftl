@@ -11,6 +11,7 @@ opt-out-confirmation-your-email = כתובת הדואר האלקטרוני של�
 opt-out-confirmation-yournameexamplecom = yourname@example.com
 # This is a button
 opt-out-confirmation-manage-preferences = ניהול העדפות
+opt-out-confirmation-prefer-to-get = רוצה לקבל מידע בדרך אחרת?
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = קבלת עזרה
 # Link to https://www.instagram.com/mozilla/

@@ -17,6 +17,7 @@ sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = תמיכה ב־{ -brand-name-ios }
 sub-navigation-android-support = תמיכה ב־{ -brand-name-android }
+sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-features = תכונות
 sub-navigation-support = תמיכה
 sub-navigation-addons = תוספות

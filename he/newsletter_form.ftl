@@ -28,3 +28,6 @@ newsletter-form-select-country = בחירת מדינה
 newsletter-form-sign-me-up = רישמו אותי
 newsletter-form-sign-up-now = הרשמה כעת
 newsletter-form-thanks = תודה!
+newsletter-form-leave-this-field-empty = יש להשאיר שדה זה ריק.
+newsletter-form-yes = כן
+newsletter-form-no = לא
