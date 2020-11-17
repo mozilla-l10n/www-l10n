@@ -5,10 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = { -brand-name-firefox } taq tikojil yenuk'un richin nikichajij ri awichinanem
 learn-more = Tetamäx ch'aqa' chik
+the-history-of = Kinatab'al ajk'amaya'l taq okik'amaya'l
+firefox-has-been = { -brand-name-firefox } chi ri' xk'oje' toq ronojel xtz'ukutäj.
 firefox-rebel-with = { -brand-name-firefox }: Man nunimaj ta tzij xa k'o jun aruma
 what-is-a = ¿Achike ri jun ajk'amaya'l okik'amaya'l?
+update-your-browser = Tak'exa' ri awokik'amaya'l rik'in ri anin, jikïl chuqa' chajin { -brand-name-firefox }.
 firefox-is-more = { -brand-name-firefox } man choj ta jun okik'amaya'l
+its-a-lightning = Jun anin ruchi' jay richin ütz retamab'al ajk'amaya'l.
 get-the-browsers = Ke'ak'ulu' ri taq okik'amaya'l nab'ey nuya' ruq'ij ri awichinanem — jantape' ke ri kib'anon.
 take-your-passwords = Xab'akuchi' ke'ak'waj ri ewan taq atzij
 choose-which-firefox = Tacha' achike { -brand-name-firefox-browser } nawajo' naqasaj pan ach'ab'äl
