@@ -24,7 +24,7 @@ firefox-browsers-enterprise-packages = { -brand-name-enterprise }-pakkar
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Gå utover to dimensjonar og nyt det beste oppslukande innhaldet få heile nettet.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Bygg nettstadar og gjer koden din enno betre med { -brand-name-firefox }<strong>{ -brand-name-devtools }</strong>
+firefox-browsers-build-sites-and-refine-your = Bygg nettstadar og gjer koden din enno betre med { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Les meir om { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Ver med i { -brand-name-firefox } og få mest mogleg ut av kvart produkt — på alle einingar.
 # Variables:
