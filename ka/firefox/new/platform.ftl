@@ -22,7 +22,7 @@ new-platform-fix-a-problem = ხარვეზის მოგვარებ�
 new-platform-need-help = გესაჭიროებათ დახმარება?
 new-platform-download-mozilla-firefox-title = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox }, უფასო ბრაუზერი. { -brand-name-firefox } შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ { -brand-name-firefox } { -brand-name-windows }-ზე, { -brand-name-mac }-ზე, { -brand-name-linux }-ზე, { -brand-name-android }-სა და { -brand-name-ios }-ზე ახლავე!
 # /firefox/linux/ HTML page title
-new-platform-download-mozilla-linux = ჩამოტვირთეთ { -brand-name-firefox } { -brand-name-linux }-ზე
+new-platform-download-mozilla-linux = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }-ზე
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }-ზე, უფასო ბრაუზერი. { -brand-name-firefox } შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ { -brand-name-firefox } { -brand-name-linux }-ზე ახლავე!
 # /firefox/linux/ social sharing title
@@ -38,7 +38,7 @@ new-platform-speed-meet-security = სიჩქარე, უსაფრთხ�
 new-platform-open-source = ღია წყაროს მქონე
 new-platform-look-under-the-hood = გაეცანით სიღრმისეულად. მსგავსად { -brand-name-linux }-ისა, { -brand-name-firefox }-ის შესაძლებლობებიც ღია წყაროსია.
 # /firefox/mac/ HTML page title
-new-platform-download-mozilla-firefox-mac = ჩამოტვირთეთ { -brand-name-firefox } { -brand-name-mac-short }-ზე
+new-platform-download-mozilla-firefox-mac = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-mac-short }-ზე
 # /firefox/mac/ HTML page description
 new-platform-download-mozilla-firefox-desc-mac = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-mac-short }-ზე, უფასო ბრაუზერი. { -brand-name-firefox } შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ { -brand-name-firefox } { -brand-name-mac-short }-ზე ახლავე!
 # /firefox/mac/ social sharing title
@@ -53,7 +53,7 @@ new-platform-get-speed-and-security = მიიღეთ სისწრაფ�
 new-platform-block-trackers = მეთვალყურეების შეზღუდვა
 new-platform-be-the-master-of-your = განაგეთ საკუთარი პირადი სივრცე, შიგთავსის მკაცრი შეზღუდვით. შეაჩერეთ თვალყურისმდევნებლები.
 # /firefox/windows/ HTML page title
-new-platform-download-mozilla-windows = ჩამოტვირთეთ { -brand-name-firefox } { -brand-name-windows }-ზე
+new-platform-download-mozilla-windows = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows }-ზე
 # /firefox/windows/ HTML page description
 new-platform-download-mozilla-desc-windows = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows }-ზე, უფასო ბრაუზერი. { -brand-name-firefox } შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ { -brand-name-firefox } { -brand-name-windows }-ზე ახლავე!
 # /firefox/windows/ social sharing title
@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = ჯანსაღი პირადულ�
 new-platform-live-your-life = იცხოვრეთ თქვენი ცხოვრებით, { -brand-name-firefox } არ გადევნებთ თვალს. თავად აირჩიეთ რისი გაზიარება გსურთ და როდის.
 new-platform-seamless-setup = ადვილი გასამართი
 new-platform-easy-migration = პარამეტრებისა და სანიშნების მარტივი გადმოტანა, როცა ჩამოტვირთავთ { -brand-name-firefox }-ს { -brand-name-windows }-ზე.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-windows }-ზე
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-mac }-ზე
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-linux }-ზე
