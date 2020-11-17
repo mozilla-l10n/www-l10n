@@ -99,6 +99,7 @@
 -brand-name-mozilla-developer-network = Rouedad an diorroerien Mozilla
 -brand-name-mozilla-festival = Festival Mozilla
 -brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-thunderbird = Thunderbird
@@ -111,10 +112,12 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 
@@ -133,15 +136,18 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
+-brand-name-chromeos = Chrome SO
 
 ## Apple products
 
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -149,10 +155,14 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
+-brand-name-messenger = Messenger
+-brand-name-workplace = Lec'h labour
 
 ## Google products
 
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
