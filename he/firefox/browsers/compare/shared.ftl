@@ -10,6 +10,8 @@ compare-shared-yes = כן
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = לא
 compare-shared-private-browsing-mode = מצב גלישה פרטית
+compare-shared-blocks-third-party-tracking-default = חסימת עוגיות מעקב צד־שלישי כברירת מחדל
+# Obsolete string
 compare-shared-blocks-third-party-tracking = חסימת עוגיות מעקב צד־שלישי
 compare-shared-blocks-cryptomining-scripts = חסימת תסריטי כריית מטבעות
 compare-shared-blocks-social-trackers = חסימת רכיבי מעקב של רשתות חברתיות
@@ -27,6 +29,8 @@ compare-shared-os-availability = זמינות למערכות הפעלה
 compare-shared-mobile-os-availability = זמינות למערכות הפעלה לניידים
 compare-shared-syncs-with-mobile = סנכרון עם המכשיר הנייד
 compare-shared-password-management = ניהול ססמאות
+compare-shared-primary-password = ססמה ראשית
+# Obsolete string
 compare-shared-master-password = ססמה ראשית
 compare-shared-security-and-privacy = אבטחה ופרטיות
 compare-shared-utility = שימושיות
@@ -38,6 +42,8 @@ compare-shared-utility-strong = <strong>שימושיות</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>ניידות</strong>
 compare-shared-overall-assessment = הערכה כללית
+compare-shared-the-comparisons-made-here-updated = ההשוואות שלהלן נערכו תוך שימוש בהגדרות ברירת המחדל בין הגרסאות הרשמיות של הדפדפנים שלהלן:
+# Obsolete string
 compare-shared-the-comparisons-made-here = ההשוואות שלהלן נערכו בין הגרסאות הרשמיות של הדפדפנים שלהלן:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }

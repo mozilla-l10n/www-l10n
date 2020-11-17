@@ -97,6 +97,7 @@
 -brand-name-monitor = Monitor
 -brand-name-send = Send
 -brand-name-sync = Sync
+-brand-name-relay = Relay
 -brand-name-fpn = FPN
 
 ## Firefox products (legacy)
