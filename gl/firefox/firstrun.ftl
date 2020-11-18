@@ -11,3 +11,5 @@ firstrun-take-firefox-with-you = Leve o { -brand-name-firefox } consigo
 firstrun-already-using-firefox = Xa usa { -brand-name-firefox }?
 firstrun-get-your-bookmarks-history = Acceda aos seus marcadores, historial, contrasinais e outras configuracións en todos os seus dispositivos.
 firstrun-sign-in-to-your-account = Acceda a súa conta e sincronizaremos os seus marcadores, contrasinais e outras cousas que gardara no { -brand-name-firefox } noutros dispositivos.
+firstrun-already-have-an-account = Xa ten unha conta?
+firstrun-sign-in = Iniciar sesión
