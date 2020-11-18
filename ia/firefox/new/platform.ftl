@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Le discretion del senso commun
 new-platform-live-your-life = Vive tu vita, { -brand-name-firefox } non te specta. Elige lo que compartir e quando lo compartir.
 new-platform-seamless-setup = Facile installation
 new-platform-easy-migration = Facile migration de preferentias e marcapaginas quando tu discarga { -brand-name-firefox } pro { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Discargar { -brand-name-firefox } <br>pro { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Discargar { -brand-name-firefox } <br>pro { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Discargar { -brand-name-firefox } <br>pro { -brand-name-linux }
