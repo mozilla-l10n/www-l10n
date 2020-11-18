@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Tudalen Tro Cyntaf Firefox Nosweithiol
+nightly-firstrun-firefox-nightly = Tudalen Tro Cyntaf { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Diolch am ddefnyddio { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Dewiswch faes i ymwneud â hi er mwyn gwneud { -brand-name-firefox } yn well ar gyfer defnyddwyr ym mhob man
 nightly-firstrun-test = Profi

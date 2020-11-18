@@ -16,13 +16,13 @@ new-platform-lightweight = Ysgafn
 new-platform-uses-30-less-memory = Yn defnyddio 30% yn llai o gof na { -brand-name-chrome }
 new-platform-powerfully-private = Preifatrwydd pwerus
 new-platform-truly-private-browsing = Pori Preifat Go Iawn gyda Diogelu rhag Tracio
-new-platform-advanced-install-options = Ddewisiadau gosod uwch a llwyfannau eraill
+new-platform-advanced-install-options = Dewisiadau gosod uwch a llwyfannau eraill
 new-platform-download-in-another = Llwytho i lawr mewn iaith arall
 new-platform-fix-a-problem = Trwsio problem
 new-platform-need-help = Angen cymorth?
 new-platform-download-mozilla-firefox-title = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar roi grym i unigolion ar-lein. Defnyddiwch { -brand-name-firefox } ar { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ac { -brand-name-ios } heddiw!
 # /firefox/linux/ HTML page title
-new-platform-download-mozilla-linux = Llwytho i Lawr { -brand-name-firefox } ar gyfer { -brand-name-linux }
+new-platform-download-mozilla-linux = Llwytho i lawr { -brand-name-mozilla } { -brand-name-firefox } ar gyfer { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar ddiogelu rheolaeth yr unigolyn ar-lein. Defnyddiwch { -brand-name-firefox } ar { -brand-name-linux } heddiw!
 # /firefox/linux/ social sharing title
@@ -38,7 +38,7 @@ new-platform-speed-meet-security = Cyflymder, dyma diogelwch. Mae { -brand-name-
 new-platform-open-source = Cod agored
 new-platform-look-under-the-hood = Edrychwch o dan y cwfl. Fel { -brand-name-linux }, mae nodweddion { -brand-name-firefox } yn god agored.
 # /firefox/mac/ HTML page title
-new-platform-download-mozilla-firefox-mac = Llwytho i Lawr { -brand-name-firefox } ar gyfer y { -brand-name-mac-short }
+new-platform-download-mozilla-firefox-mac = Llwytho i lawr { -brand-name-mozilla } { -brand-name-firefox } ar gyfer y { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
 new-platform-download-mozilla-firefox-desc-mac = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } y { -brand-name-mac-short } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar ddiogelu rheolaeth yr unigolyn ar-lein. Defnyddiwch { -brand-name-firefox } { -brand-name-mac-short } heddiw!
 # /firefox/mac/ social sharing title
@@ -53,7 +53,7 @@ new-platform-get-speed-and-security = Cyflymder a diogelwch. Mae { -brand-name-f
 new-platform-block-trackers = Rhwystro tracwyr
 new-platform-be-the-master-of-your = Byddwch yn feistr ar eich parth gyda rhwystro cynnwys llym. Tociwch bob cwci a thracwyr.
 # /firefox/windows/ HTML page title
-new-platform-download-mozilla-windows = Llwytho i Lawr { -brand-name-firefox } ar gyfer { -brand-name-windows }
+new-platform-download-mozilla-windows = Llwytho i lawr { -brand-name-mozilla } { -brand-name-firefox } ar gyfer { -brand-name-windows }
 # /firefox/windows/ HTML page description
 new-platform-download-mozilla-desc-windows = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar osod unigolion mewn rheolaeth ar-lein. Defnyddiwch { -brand-name-firefox } heddiw!
 # /firefox/windows/ social sharing title

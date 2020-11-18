@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-download-button-download-now = Llwytho'i lawr nawr
+download-button-download-now = Llwytho i Lawr Nawr
 download-button-free-download = Llwytho i Lawr am ddim
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }

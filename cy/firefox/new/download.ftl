@@ -26,9 +26,9 @@ firefox-new-watch-for-hackers-with = Gwyliwch am hacwyr gyda { -brand-name-firef
 firefox-new-get-more-from-firefox = Cael Mwy Gan { -brand-name-firefox }
 firefox-new-free-web-browser = Y Porwr Gwe Rhydd a Rhad
 firefox-new-and-start-getting-the-respect = A dechrau cael y parch yr ydych yn ei haeddu gyda'n casgliad o gynnyrch sy'n rhoi blaenoriaeth i breifatrwydd.
-firefox-new-advanced-install-options = Ddewisiadau gosod uwch a llwyfannau eraill
+firefox-new-advanced-install-options = Dewisiadau gosod uwch a llwyfannau eraill
 firefox-new-download-in-another-language = Llwytho i lawr mewn iaith arall
-firefox-new-fix-a-problem = Trwsio problem
+firefox-new-fix-a-problem = Cywiro anhawster
 firefox-new-need-help = Angen cymorth?
 firefox-new-see-whats-being-blocked = Gweld beth sy'n cael ei rwystro
 firefox-new-make-your-passwords-portable = Gwnewch eich cyfrineiriau yn gludadwy
@@ -37,7 +37,7 @@ firefox-new-connect-to-a-whole-family = Cysylltwch â chasgliad cyfan o gynnyrch
 firefox-new-passwords-made-portable = Cyfrineiriau yn gludadwy
 firefox-new-protect-your-privacy = Diogelu eich preifatrwydd
 firefox-new-private-browsing-clears = Mae <strong>Pori Preifat</strong> yn clirio'ch hanes i'w gadw'n gyfrinachol rhag unrhyw un sy'n defnyddio'ch cyfrifiadur.
-firefox-new-advanced-install-options-heading = Ddewisiadau Gosod Uwch a Llwyfannau eraill
+firefox-new-advanced-install-options-heading = Dewisiadau Gosod Uwch a Llwyfannau eraill
 firefox-new-just-download-the-browser = Llwytho'r Porwr i Lawr
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
