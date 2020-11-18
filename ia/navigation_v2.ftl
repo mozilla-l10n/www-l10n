@@ -14,6 +14,7 @@ navigation-v2-close-firefox-browsers-menu = Clauder le menu de { -brand-name-fir
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pro scriptorio
 navigation-v2-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pro { -brand-name-ios }
+navigation-v2-privacy-promise = Promissa de confidentialitate
 navigation-v2-learn-how-firefox-treats = Apprende como { -brand-name-firefox } tracta tu datos con respecto.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-release-notes = Notas pro iste revision
@@ -26,12 +27,15 @@ navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Promissa de producto
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-view-all-products = Vider tote le productos
 
 ## Who We Are menu
 
 navigation-v2-who-we-are = Qui es nos
+navigation-v2-close-who-we-are-menu = Clauder le menu "Qui es nos"
 navigation-v2-mozilla-manifesto = Le manifesto de { -brand-name-mozilla }
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Collabora
