@@ -15,6 +15,14 @@ firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } mostra cantos r
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> fai que os contrasinais que garde en { -brand-name-firefox } sexan seguras e estean dispoñibles en todos os seus dispositivos.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> avisa se sabemos que a súa información foi vítima dunha violación de datos doutra empresa.
 firefox-new-join-firefox = Únase a { -brand-name-firefox }
+firefox-new-free-web-browser = Navegador de balde
+firefox-new-fix-a-problem = Corrixir un problema
+firefox-new-need-help = Precisa axuda?
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-new-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Para instalar { -brand-name-firefox }, siga <a href="{ $url }">estas instrucións</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10
