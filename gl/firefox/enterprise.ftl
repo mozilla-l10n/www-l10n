@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Visión xeral
 firefox-enterprise-downloads = Descargas
 firefox-enterprise-get-firefox-for-your-enterprise = Obter { -brand-name-firefox } para a súa empresa
@@ -14,4 +15,13 @@ firefox-enterprise-get-the-firefox-extended-support = Obteña o <a href="{ $url 
 firefox-enterprise-unmatched-data-protection = Protección de datos inigualable: coa cadencia de lanzamento que lle conveña
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = O navegador { -brand-name-firefox } é de código aberto e proporciona unha protección avanzada de rastrexo: todo parte do noso compromiso de hai tempo coa protección de datos.
+firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
+firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser }: instalador MSI
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }): instalador MSI
+firefox-enterprise-msi-installers = Instaladores MSI
+firefox-enterprise-pkg-installer = Instalador PKG
+firefox-enterprise-windows-32-bit = { -brand-name-windows } de 32 bits
