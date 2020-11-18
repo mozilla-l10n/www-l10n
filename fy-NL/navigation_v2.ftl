@@ -44,6 +44,19 @@ navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-manifest
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Meiwurkje
 navigation-v2-join-the-fight-for-a = Fjochtsje mei foar in sûn ynternet.
+navigation-v2-leadership = Liederskip
+navigation-v2-careers = Banen
+navigation-v2-mozilla-blog = { -brand-name-mozilla }-blog
+navigation-v2-more-about-mozilla = Mear oer { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Ynnovaasje
+navigation-v2-close-innovation-menu = Menu Ynnovaasje slute
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = Mear ynnovaasje fan { -brand-name-mozilla }
