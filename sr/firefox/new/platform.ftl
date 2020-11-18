@@ -20,7 +20,7 @@ new-platform-advanced-install-options = Додатне инсталационе 
 new-platform-download-in-another = Преузмите на другом језику
 new-platform-fix-a-problem = Решите проблем
 new-platform-need-help = Потребна вам је помоћ?
-new-platform-download-mozilla-firefox-title = Преузмите { -brand-name-mozilla } { -brand-name-firefox }, бесплатни веб прегледач. { -brand-name-firefox } је створен са циљем да људима широм света омогући интернет контролу. Преузмите { -brand-name-firefox } за { -brand-name-windows }, { -brand-name-mac }, { -brand-name-android } и { -brand-name-ios } већ данас!
+new-platform-download-mozilla-firefox-title = Преузмите { -brand-name-mozilla } { -brand-name-firefox }, бесплатни прегледач. { -brand-name-firefox } је створен са циљем да људима широм света омогући контролу на интернету. Преузмите { -brand-name-firefox } за { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios } већ данас!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Преузмите { -brand-name-mozilla } { -brand-name-firefox } за { -brand-name-linux }
 # /firefox/linux/ HTML page description
