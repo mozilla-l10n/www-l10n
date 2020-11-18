@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = O navegador é só o comezo
+firefox-home-meet-our-family-of = Coñeza a nosa familia de produtos
+firefox-home-learn-more-about-pocket = Máis información sobre { -brand-name-pocket }
+firefox-home-join-firefox = Únase a { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Obter a extensión do navegador
+firefox-home-get-the-facebook-container = Obter a extensión { -brand-name-facebook-container }
 firefox-home-download-the-browser = Descargar o navegador
 firefox-home-desktop = Escritorio
 firefox-home-browsers = Exploradores

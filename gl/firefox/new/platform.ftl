@@ -18,5 +18,11 @@ new-platform-powerfully-private = Privacidade absoluta
 new-platform-truly-private-browsing = Navegación realmente privada con protección contra o seguimento
 new-platform-advanced-install-options = Opcións avanzadas de instalación e outras plataformas
 new-platform-download-in-another = Descargar noutro idioma
+new-platform-fix-a-problem = Corrixir un problema
 new-platform-need-help = Precisa axuda?
 new-platform-download-mozilla-firefox-title = Descargue { -brand-name-mozilla } { -brand-name-firefox }, un navegador web de balde. { -brand-name-firefox } é desenvolvido por unha organizacións sen fins de lucro para pór nos individuos o control da súa vida en liña. Obteña o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios } xa!
+# /firefox/linux/ HTML page title
+new-platform-download-mozilla-linux = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
+# /firefox/linux/ main page title
+new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
+new-platform-open-source = Código aberto
