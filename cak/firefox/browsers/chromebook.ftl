@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Tiyak { -brand-name-firefox } k'o pa 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Tiyak { -brand-name-firefox } achi'el jun ruchokoy { -brand-name-linux }: nawoqaj re b'ey re' yaruk'waj pa ch'aqa' chik taq xak, po yalan jeb'ël. Toq nayäk ri rokik'amaya'l { -brand-name-firefox } achi'el jun ruchokoy { -brand-name-linux }, nak'ül ri ajch'atal rokik'amaya'l { -brand-name-firefox } chuqa' ronojel ri taq rutzil, achi'el ri chajinïn chuwäch nïm ojqanem, tz'aqatisan jun runuk'samajel ewan tzij, okem pa k'ïy taq tz'aqat (tz'aqatisan ri ruq'atob'al eltzijol UBlock Origin), chuqa' taq wachinel richin nichinäx ri rub'anikil ri awokik'amaya'l. <a { $url }>Tetamäx ch'aqa' chik pa ruwi' rub'eyal niyak ri ajch'atal rokik'amaya'l { -brand-name-firefox } richin { -brand-name-chromebook }.</a>
