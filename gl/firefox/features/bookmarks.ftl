@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Navegador Firefox: mellores marcadores a calquera lugar que vaia
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: os mellores marcadores en calquera lugar ao que vaias
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organice facilmente os seus marcadores en cartafoles e acceda a eles en todos os seus dispositivos, dende o escritorio ata o móbil.
 features-bookmarks-better-bookmarks = Mellores marcadores
@@ -21,6 +21,7 @@ features-bookmarks-fly-with-that-bookmark = Léveos con vostede todo o tempo
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Leve consigo os seus favoritos. Use { -brand-name-firefox-sync } para acceder aos seus marcadores en todos os seus dispositivos, dende o escritorio ata o móbil. Ou probe <a href="{ $url }">{ -brand-name-pocket }</a> para gardar calquera artigo ou páxina web e volver a velo máis tarde, incluso sen Internet.
+features-bookmarks-customize-that-bookmark = Personalice ese marcador
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Adminístreos como queira
