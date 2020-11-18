@@ -31,6 +31,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Produktowe zlubjenje
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Šćitajśo zwisk swójogo wobglědowaka z internetom.
 navigation-v2-view-all-products = Wšykne produkty pokazaś
 
 ## Who We Are menu
