@@ -13,6 +13,7 @@ what-is-firefox = Que es { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -22,6 +23,7 @@ what-is-firefox = Que es { -brand-name-firefox }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Es { -brand-name-firefox } gratuite?
+related-questions-free = Demandas correlate: es { -brand-name-firefox-browser } gratis, { -brand-name-firefox } se paga?
 is-chrome-better = Es { -brand-name-chrome } melior de { -brand-name-firefox }?
 
 # Variables:
@@ -55,6 +57,7 @@ does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Demandas correlate: Occulta { -brand-name-firefox } tu adresse IP
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
