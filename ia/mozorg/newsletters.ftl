@@ -58,6 +58,10 @@ newsletters-check-for-data-breaches = Controla pro violationes
 newsletters-sign-in-to-monitor = Aperir session a { -brand-name-monitor }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } pro scriptorio
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Non perder le ultime annuncios circa nostre navigator de scriptorio.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Collabora
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Scriptorio
 # Name for the newsletter in Newsletter subscription page
@@ -66,6 +70,10 @@ newsletters-mozillians = Mozillianos
 newsletters-email-updates-from-vouched = Actualisationes e-posta pro Mozillianos certificate sur mozillians.org.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Discarga { -brand-name-firefox } pro { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Discargar { -brand-name-firefox } pro mobile
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page

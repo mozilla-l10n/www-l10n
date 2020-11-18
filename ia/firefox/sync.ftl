@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
+firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-privacy-made-easy = Confidentialitate rendite facile
 firefox-sync-encrypt-your-data = Crypta tu datos
