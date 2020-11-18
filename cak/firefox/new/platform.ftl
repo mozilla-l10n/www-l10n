@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Ichinanem rik'in tunun na'oj
 new-platform-live-your-life = Tawojqaj ak'aslem, man ninachan ta pe ri { -brand-name-firefox }. Tacha' achike' nakomonij chuqa' jampe'.
 new-platform-seamless-setup = Ruk'amon runuk'ulem
 new-platform-easy-migration = Toq naqasaj { -brand-name-firefox } richin { -brand-name-windows }, man k'ayew ta richin xke'aq'axaj ri taq awajowab'al chuqa' taq yaketal.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Taqasaj { -brand-name-firefox } <br>richin { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Taqasaj { -brand-name-firefox } <br>richin { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Taqasaj { -brand-name-firefox } <br>richin { -brand-name-linux }

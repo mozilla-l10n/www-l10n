@@ -4,8 +4,10 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Rutzijoxik { -brand-name-mozilla }
+footer-privacy-hub = Ichinanem Jay
 footer-privacy = Ichinanem
 footer-press = Tipitz'
+footer-corporate-blog = Ajmolk'ayij Ichinya'l
 footer-brand-standards = Taq Rub'eyal Retal Wachib'äl
 footer-browsers = Taq Okik'amaya'l
 # Outdated string
