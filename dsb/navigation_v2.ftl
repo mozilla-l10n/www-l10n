@@ -13,11 +13,15 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Meni { -brand-name-firefox-browsers } zacyniś
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za Desktop
 navigation-v2-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Wobstarajśo se pśiměrjobny mobilny wobglědowak za smartfony { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Wobstarajśo se mobilny wobglědowak za waš { -brand-name-iphone } abo { -brand-name-ipad }.
 navigation-v2-privacy-promise = Zlubjenje priwatnosći
 navigation-v2-learn-how-firefox-treats = Zgóńśo, kak { -brand-name-firefox } z wašymi datam z respektom wobchada.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
+navigation-v2-read-about-new-firefox-features = Informěrujśo se wó nejnowšych funkcijach a móžnosćach { -brand-name-firefox }, aby online wěsty wóstał.
 navigation-v2-release-notes = Wersijowe informacije
+navigation-v2-get-the-details-on-the = Zgóńśo drobnostki wó nejnowšych aktualizacijach { -brand-name-firefox }.
 navigation-v2-view-all-firefox-browsers = Wšykne { -brand-name-firefox-browsers } pokazaś
 
 ## Products menu
@@ -25,7 +29,9 @@ navigation-v2-view-all-firefox-browsers = Wšykne { -brand-name-firefox-browsers
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Produktowy meni zacyniś
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Glědajśo, lěc se waša e-mailowa adresa w datowej źěrje pśedwześa pokazujo.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Składujśo a namakajśo nejlěpše tšojeńka z cełego weba.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Produktowe zlubjenje
