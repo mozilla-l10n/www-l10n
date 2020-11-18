@@ -8,6 +8,7 @@ footer-privacy-hub = Ichinanem Jay
 footer-privacy = Ichinanem
 footer-press = Tipitz'
 footer-corporate-blog = Ajmolk'ayij Ichinya'l
+footer-browser-comparison = Kijunamaxik Okik'amaya'l
 footer-brand-standards = Taq Rub'eyal Retal Wachib'äl
 footer-browsers = Taq Okik'amaya'l
 # Outdated string
