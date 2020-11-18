@@ -29,9 +29,21 @@ navigation-v2-view-all-firefox-browsers = Alle { -brand-name-firefox-browsers } 
 navigation-v2-products = Produkten
 navigation-v2-close-products-menu = Menu Produkten slute
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Produktbelofte
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (bèta)
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (bèta)
+navigation-v2-view-all-products = Alle produkten besjen
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Wa't wy binne
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-manifest
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = Meiwurkje
+navigation-v2-join-the-fight-for-a = Fjochtsje mei foar in sûn ynternet.
 
 ## Innovation menu
 
