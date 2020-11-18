@@ -22,6 +22,23 @@ firefox-desktop-download-browser-support = Soporte do { -brand-name-firefox-brow
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Faga o que faga na Rede. <br> { -brand-name-firefox-browser } <strong>non está</strong> a vixiar.
 firefox-desktop-download-how-firefox-compares = Como se compara { -brand-name-firefox } con outros navegadores
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Si
+firefox-desktop-download-no = Non
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Dispoñibilidade para OS
+firefox-desktop-download-themes = Temas
+firefox-desktop-download-your-privacy-comes = A súa privacidade é o primeiro
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é máis ca un navegador
+firefox-desktop-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Para instalar { -brand-name-firefox }, siga <a href="{ $url }">estas instrucións</a>.

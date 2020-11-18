@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
 
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-go-community = Veña, comunidade!
