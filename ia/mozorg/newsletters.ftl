@@ -51,10 +51,13 @@ newsletters-you-send-too-many-emails = Vos me invia troppo de messages.
 newsletters-your-content-wasnt-relevant = Vostre contento non es relevante pro me.
 newsletters-your-email-design = Le designo del email era troppo difficile a leger.
 newsletters-i-didnt-sign-up = Io non me habeva firmate pro isto.
+newsletters-back-to-email-preferences = Retornar al preferentias de emails
 newsletters-travel-the-internet = Viagia in Internet con protection sur tote tu apparatos.
 newsletters-download-the-app = Discarga le app
 newsletters-check-for-data-breaches = Controla pro violationes
 newsletters-sign-in-to-monitor = Aperir session a { -brand-name-monitor }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } pro scriptorio
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Scriptorio
 # Name for the newsletter in Newsletter subscription page
