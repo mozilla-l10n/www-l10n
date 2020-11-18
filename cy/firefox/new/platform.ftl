@@ -18,7 +18,7 @@ new-platform-powerfully-private = Preifatrwydd pwerus
 new-platform-truly-private-browsing = Pori Preifat Go Iawn gyda Diogelu rhag Tracio
 new-platform-advanced-install-options = Dewisiadau gosod uwch a llwyfannau eraill
 new-platform-download-in-another = Llwytho i lawr mewn iaith arall
-new-platform-fix-a-problem = Trwsio problem
+new-platform-fix-a-problem = Cywiro anhawster
 new-platform-need-help = Angen cymorth?
 new-platform-download-mozilla-firefox-title = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar roi grym i unigolion ar-lein. Defnyddiwch { -brand-name-firefox } ar { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ac { -brand-name-ios } heddiw!
 # /firefox/linux/ HTML page title
