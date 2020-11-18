@@ -25,4 +25,6 @@ new-platform-download-mozilla-firefox-title = Descargue { -brand-name-mozilla } 
 new-platform-download-mozilla-linux = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
+new-platform-privacy-more-than = Privacidade, máis ca unha política
 new-platform-open-source = Código aberto
+new-platform-privacy-comes-first = A privacidade é o primeiro
