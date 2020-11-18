@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-get-the-browser-extension = Obter a extensión do navegador
+firefox-home-download-the-browser = Descargar o navegador
+firefox-home-desktop = Escritorio
+firefox-home-browsers = Exploradores
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
