@@ -9,6 +9,7 @@
 ## Page heading
 
 contribute-page-title = Oportunidades de voluntariado en { -brand-name-mozilla }
+contribute-page-heading = Precisamos do teu talento para facer de Internet un lugar mellor
 
 ## Contribution tasks
 
