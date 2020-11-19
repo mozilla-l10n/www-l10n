@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = Začít s kódováním
 nightly-firstrun-localize = Překlad
 nightly-firstrun-make-firefox-available = Pomozte { -brand-name-firefox(case: "acc") } vylepšit a zpřístupnit v co nejvíce jazycích pro celý svět.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://www.mozilla.cz/zapojte-se/
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = Začít s překladem
