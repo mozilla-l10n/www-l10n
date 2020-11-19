@@ -15,7 +15,15 @@ contribute-how-heading = Cómo colaborar:
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Habilidades non técnicas
+contribute-tag-technical = Habilidades técnicas
+contribute-tag-technical-non-technical = Habilidades técnicas e non técnicas
+contribute-tag-individual-event = Organización individual e de eventos
+contribute-tag-individual = Individual
 contribute-tag-support = Asistencia a usuarios
+contribute-task-translate-heading = Traducir contido
+contribute-task-translate-desc = A Internet só é global se se entende en todas partes. Axúdenos a traducir produtos e sitios web de { -brand-name-mozilla } á túa língua.
+contribute-task-mozilla-codebase-heading = Contribúa á base do código de { -brand-name-mozilla }
 
 ## Mission
 
