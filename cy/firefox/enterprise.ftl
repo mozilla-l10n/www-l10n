@@ -45,4 +45,4 @@ firefox-enterprise-pkg-installer = Gosodwr PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-did
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
-firefox-enterprise-download-firefox-esr-or-rapid = Llwythwch i lawr { -brand-name-firefox-esr } neu Rapid Release ar gyfer <br> <a href="{ $firefox_all }">iaith neu blatfform arall.</a>
+firefox-enterprise-download-firefox-esr-or-rapid = Llwythwch { -brand-name-firefox-esr } neu Rapid Release  i lawr ar gyfer <br> <a href="{ $firefox_all }">iaith neu blatfform arall.</a>

@@ -16,6 +16,6 @@ whatsnew-account-main-button = Mewngofnodi
 
 whatsnew-account-signed-in-headline = Cyflawni mwy. Defnyddiwch { -brand-name-firefox } symudol.
 whatsnew-account-signed-in-lead-in = Yn anfon dolen llwytho i lawr i'ch ffôn.
-whatsnew-account-signed-in-qr-title = Llwythwch { -brand-name-firefox } l lawr i'ch ffôn clyfar a'ch tabled.
+whatsnew-account-signed-in-qr-title = Llwythwch { -brand-name-firefox } i lawr i'ch ffôn clyfar a'ch tabled.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = Sganiwch y cod QR
