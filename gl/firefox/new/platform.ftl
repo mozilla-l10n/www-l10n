@@ -51,3 +51,10 @@ new-platform-download-the-fastest-windows = Descargue o { -brand-name-firefox } 
 new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de funcionalidades.
 # /firefox/windows/ main page title. Span is for visually formatting.
 new-platform-firefox-fights = { -brand-name-firefox } loita por vostede <span>en { -brand-name-windows }.</span>
+new-platform-live-your-life = Viva a súa vida, { -brand-name-firefox } non estará mirando. Escolla o que quere compartir e cando o quere facer.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Descargar { -brand-name-firefox } <br>para { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Descargar { -brand-name-firefox } <br>para { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Descargar { -brand-name-firefox } <br> para { -brand-name-linux }
