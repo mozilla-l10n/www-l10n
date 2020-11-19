@@ -33,6 +33,7 @@ firefox-privacy-hub-firefox-privacy-by-the = Ri richinanem { -brand-name-firefox
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } nuchajij ri awichinanem pa jujun tikojil.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox }<strong>nuchajij</strong> ri awichinanem pa jujun tikojil
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ q'aton ojqanela' — pa ruyonil
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Tik'ul Utzirisan Chajinïk chuwäch Ojqanem
 firefox-privacy-hub-update-your-firefox-browser = Tak'exa' ruwäch { -brand-name-firefox } okik'amaya'l
