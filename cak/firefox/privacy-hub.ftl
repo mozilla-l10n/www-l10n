@@ -29,6 +29,9 @@ firefox-privacy-hub-why-trust-firefox = ¿Achike ruma nakuqub'a' ak'u'x chi rij 
 firefox-privacy-hub-your-privacy-by-the-product = Awichinanem, tikojil chi tikojil
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } tikojil junwi yesamäj — ruma ewachib'en richin nikiya' ruq'ij richin nichajïx ri awichinane.
 firefox-privacy-hub-learn-about-our-products = Ch'aqa' etamab'äl chi ri qatikojil
+firefox-privacy-hub-firefox-privacy-by-the = Ri richinanem { -brand-name-firefox }, tikojil chi tikojil
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } nuchajij ri awichinanem pa jujun tikojil.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox }<strong>nuchajij</strong> ri awichinanem pa jujun tikojil
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Tik'ul Utzirisan Chajinïk chuwäch Ojqanem
