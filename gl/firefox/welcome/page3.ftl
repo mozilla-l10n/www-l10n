@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
 # HTML page title
-welcome-page3-get-the-free-account-that = Obter a conta gratuíta que protexe a súa privacidade. Únase a { -brand-name-firefox }.
+welcome-page3-get-the-free-account-that = Obteña a conta gratuíta que protexe a súa privacidade. Únase a { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Non cómpre que teña conta, pero pode que queira unha.
 welcome-page3-sign-in = Iniciar sesión
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
@@ -16,6 +16,7 @@ welcome-page3-never-forget-reset-or-travel = Nunca máis esqueza, restableza ou 
 welcome-page3-facebook-container = { -brand-name-facebook-container }
 welcome-page3-get-a-container-to-keep-facebook = Obteña un contedor para manter { -brand-name-facebook } fóra dos seus asuntos.
 welcome-page3-pocket = { -brand-name-pocket }
+welcome-page3-trade-clickbait-and-fake-news = Substitúa os engadaclics e as noticias falsas por contido de calidade.
 welcome-page3-firefox-send = { -brand-name-firefox-send }
 welcome-page3-send-huge-files-to-anyone = Envíe ficheiros enormes a quen queira con ligazóns que se autodestrúen.
 welcome-page3-why-am-i-seeing-this = Por que estou vendo isto?
