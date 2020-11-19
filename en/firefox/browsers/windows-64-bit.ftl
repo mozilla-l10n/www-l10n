@@ -17,7 +17,7 @@ windows-64-bit-a-more-secure-firefox = A more secure { -brand-name-firefox }.
 
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-that-means = Users on 64-bit { -brand-name-windows } who download { -brand-name-firefox } can get our 64-bit version by default. That means you get a more secure version of { -brand-name-firefox }, one that also <a href="{ $crashes }">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit { -brand-name-firefox } reduced crashes by 39% on machines with 4GB of RAM or more.
+windows-64-bit-users-on-64-bit-windows-crashes = Users on 64-bit { -brand-name-windows } who download { -brand-name-firefox } can get our 64-bit version by default. That means you get a more secure version of { -brand-name-firefox }, one that also <a href="{ $crashes }">crashes a whole lot less</a>. How much less? In our tests so far, 64-bit { -brand-name-firefox } reduced crashes by 39% on machines with 4GB of RAM or more.
 windows-64-bit-whats-the-difference = What’s the difference between 32-bit and 64-bit?
 
 # Variables:
@@ -30,8 +30,8 @@ windows-64-bit-how-do-you-get-64 = How do you get 64-bit { -brand-name-firefox }
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = If you’re running 64-bit { -brand-name-windows } (<a href="{ $version }">here’s how to check</a>), your { -brand-name-firefox } may already be 64-bit. <a href="{ $check }">Check your { -brand-name-firefox } version</a> (in the “About { -brand-name-firefox }” window) and look for “(32-bit)” or “(64-bit)” after the version number:
-windows-64-bit-if-you-see-32-bit-56-older = If you see “(32-bit)” and you are running { -brand-name-firefox } 56.0 or older, updating to the latest { -brand-name-firefox } version should automatically upgrade you to 64-bit.
-windows-64-bit-if-you-see-32-bit-56-0-1-newer = If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
+windows-64-bit-if-you-see-32-bit-older = If you see “(32-bit)” and you are running { -brand-name-firefox } 56.0 or older, updating to the latest { -brand-name-firefox } version should automatically upgrade you to 64-bit.
+windows-64-bit-if-you-see-32-bit-newer = If you see “(32-bit)” and are running Firefox 56.0.1 or newer, then your computer may not meet the minimum memory requirement for 64-bit (3 GB RAM or more). You can still manually install 64-bit Firefox, if you choose.
 
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
