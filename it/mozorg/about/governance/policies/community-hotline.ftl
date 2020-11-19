@@ -8,6 +8,7 @@
 
 ## Page title
 
+community-hotline-community-participation-report = Linee guida di partecipazione alla community – Come fare una segnalazione
 community-hotline-community-participation = Linee guida di partecipazione alla community - Come fare una segnalazione
 community-hotline-the-heart-of-mozilla = Il cuore di { -brand-name-mozilla } sono le persone. Mettiamo sempre le persone al primo posto e facciamo il possibile per riconoscere, apprezzare e rispettare la diversità dei nostri contributor a livello globale. Il Progetto { -brand-name-mozilla } accoglie contributi da chiunque condivida i nostri stessi obiettivi e desideri partecipare in modo sano e costruttivo allo sviluppo della nostra community.
 community-hotline-to-report-violations = Per segnalare eventuali violazioni alle Linee guida di partecipazione alla community <strong>nelle community di { -brand-name-mozilla }</strong>, è possibile selezionare il pulsante “Segnala” di seguito. Per maggiori informazioni su come effettuare una segnalazione e inviarla, leggere “<a href="{ $howto }">Come fare una segnalazione</a>”.
