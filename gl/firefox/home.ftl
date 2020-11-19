@@ -9,6 +9,12 @@ firefox-home-firefox-is-more-than = { -brand-name-firefox } é máis ca un naveg
 firefox-home-the-browser-is-just = O navegador é só o comezo
 firefox-home-meet-our-family-of = Coñeza a nosa familia de produtos
 firefox-home-know-when-hackers-strike = Saiba cando van atacar os piratas informáticos estando un paso por diante deles
+firefox-home-start-getting-breach = Comece a recibir informes de vulneracións
+firefox-home-keep-your-passwords = Protexa os seus contrasinais en todos os dispositivos
+firefox-home-learn-more-about-lockwise = Máis información sobre { -brand-name-lockwise }
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = Reciba o <strong>respecto</strong> que merece
+firefox-home-every-single-firefox = Cada produto de { -brand-name-firefox } respecta a nosa Promesa de datos persoais: <strong>Menos é máis. Protección. Sen segredos.</strong>
 firefox-home-learn-more-about-pocket = Máis información sobre { -brand-name-pocket }
 firefox-home-join-firefox = Únase a { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Obter a extensión do navegador
