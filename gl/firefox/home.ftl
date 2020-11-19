@@ -15,8 +15,13 @@ firefox-home-learn-more-about-lockwise = Máis información sobre { -brand-name-
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Reciba o <strong>respecto</strong> que merece
 firefox-home-every-single-firefox = Cada produto de { -brand-name-firefox } respecta a nosa Promesa de datos persoais: <strong>Menos é máis. Protección. Sen segredos.</strong>
+firefox-home-share-large-files-without = Comparta ficheiros grandes evitando miradas indiscretas
+firefox-home-start-sending-files = Comece a enviar ficheiros de maneira segura
 firefox-home-learn-more-about-pocket = Máis información sobre { -brand-name-pocket }
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = Un inicio de sesión. Todos os seus dispositivos. Unha familia de produtos que respectan a súa <strong>privacidade</strong>.
 firefox-home-join-firefox = Únase a { -brand-name-firefox }
+firefox-home-learn-more-about-joining = Máis información sobre como unirse a { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Obter a extensión do navegador
 firefox-home-get-the-facebook-container = Obter a extensión { -brand-name-facebook-container }
 firefox-home-download-the-browser = Descargar o navegador
