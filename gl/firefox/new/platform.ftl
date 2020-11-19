@@ -45,3 +45,9 @@ new-platform-privacy-comes-first = A privacidade é o primeiro
 new-platform-get-speed-and-security = Velocidade e seguridade. { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os seus movementos.
 # /firefox/windows/ HTML page title
 new-platform-download-mozilla-windows = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }
+# /firefox/windows/ social sharing title
+new-platform-download-the-fastest-windows = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-windows }
+# /firefox/windows/ social sharing description
+new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de funcionalidades.
+# /firefox/windows/ main page title. Span is for visually formatting.
+new-platform-firefox-fights = { -brand-name-firefox } loita por vostede <span>en { -brand-name-windows }.</span>
