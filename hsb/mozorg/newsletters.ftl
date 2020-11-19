@@ -18,6 +18,7 @@ newsletters-your-newsletter-subscription = Waš abonement powěsćoweho lista je
 newsletters-please-be-sure-to-add-our = Prošu njezabudźće našu adresu wotpósłanja mozilla@e.mozilla.org swojemu adresnikej přidać, zo byšće zaručił, zo so přeco do wašeho póstoweho kašćika dóstawamy.
 newsletters-the-supplied-link-has-expired = Podaty wotkaz je njepłaćiwy. Dóstanjeće nowy wotkaz w přichodnym powěsćowym lisće.
 newsletters-something-is-amiss-with = Něšto na našim systemje w porjadku njeje! Prošu spytajće pozdźišo hišće raz.
+newsletters-youre-awesome = Sće wulkotny!
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Prošu njezabudźće mozilla@e.mozilla.org swojemu adresnikej přidać, zo byšće zaručił, zo so přeco do wašeho póstoweho kašćika dóstawamy.
 newsletters-manage-your-email-preferences = Waše e-mejlowe nastajenja zrjadować
 newsletters-we-love-sharing-updates = Dźělimy rady aktualizacije wo wšěch fantastiskich wěcach, kotrež so pola { -brand-name-mozilla } wotměwaja.
@@ -135,6 +136,24 @@ newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 newsletters-periodic-email-updates = Periodiske e-mejlowe aktualizacije wo našim kóždolětnim mjezynarodnym filmowym wubědźowanju.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Tydźenske pokiwy wo { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Čińće pola { -brand-name-mozilla } sobu
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Nowinki wo { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Nowinki wo { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Wuknjenska syć { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Name for the newsletter in Newsletter subscription page
