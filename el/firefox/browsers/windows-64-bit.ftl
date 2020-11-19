@@ -14,5 +14,5 @@ windows-64-bit-64-bit = 64-bit
 windows-64-bit-a-more-secure-firefox = Ένα πιο ασφαλές { -brand-name-firefox }.
 windows-64-bit-whats-the-difference = Ποια είναι η διαφορά μεταξύ 32-bit και 64-bit;
 windows-64-bit-how-do-you-get-64 = Πώς θα αποκτήσετε το { -brand-name-firefox } 64-bit;
-windows-64-bit-if-you-see-32-bit-newer = Αν βλέπετε “(32-bit)” και χρησιμοποιείτε το Firefox 56.0.1 ή νεότερο, τότε ο υπολογιστής σας ενδέχεται να μην πληροί την ελάχιστη απαίτηση μνήμης για 64-bit (3 GB RAM ή περισσότερα). Μπορείτε να κάνετε χειροκίνητα εγκατάσταση του Firefox 64-bit, αν το επιθυμείτε.
+windows-64-bit-if-you-see-32-bit-newer = Αν βλέπετε “(32-bit)” και χρησιμοποιείτε το { -brand-name-firefox } 56.0.1 ή νεότερο, τότε ο υπολογιστής σας ενδέχεται να μην πληροί την ελάχιστη απαίτηση μνήμης για 64-bit (3 GB RAM ή περισσότερα). Μπορείτε να κάνετε χειροκίνητα εγκατάσταση του { -brand-name-firefox } 64-bit, αν το επιθυμείτε.
 windows-64-bit-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησης σας.
