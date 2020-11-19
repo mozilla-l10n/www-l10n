@@ -23,6 +23,7 @@ firefox-desktop-download-browser-support = Падтрымка { -brand-name-fire
 firefox-desktop-download-do-what-you-do = Рабіце ў сеціве, што робіце.<br> { -brand-name-firefox-browser } <strong>не</strong> глядзіць.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } у параўнанні з іншымі браўзерамі
 firefox-desktop-download-get-all-the-speed = Атрымайце ўсю хуткасць і прылады, не парушаючы прыватнасці. { -brand-name-firefox-browser } збірае так мала звестак пра вас, што нам нават не патрэбен ваш адрас электроннай пошты для сцягвання. Гэта таму, што ў адрозненне ад іншых браўзераў, мы не маем фінансавага інтарэсу ў сачэнні за вамі ў Інтэрнэце.
+firefox-desktop-download-how-we-compare = Як мы выглядаем у параўнанні з іншымі браўзерамі
 firefox-desktop-download-compare-firefox-to = Параўнаць { -brand-name-firefox } з:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
