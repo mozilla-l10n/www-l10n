@@ -30,5 +30,18 @@ new-platform-faster-page-loading-linux = O novo { -brand-name-firefox } para { -
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
 new-platform-privacy-more-than = Privacidade, máis ca unha política
+new-platform-speed-meet-security = Velocidade e seguridade. { -brand-name-firefox } é dúas veces máis rápido e usa un 30% menos de memoria que { -brand-name-chrome }.
 new-platform-open-source = Código aberto
+new-platform-look-under-the-hood = Fíxese no desenvolvemento. Igual ca { -brand-name-linux }, as funcionalidades de { -brand-name-firefox } son de código aberto.
+# /firefox/mac/ HTML page title
+new-platform-download-mozilla-firefox-mac = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }
+# /firefox/mac/ social sharing title
+new-platform-download-the-fastest-mac = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-mac-short }
+# /firefox/mac/ social sharing description
+new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -brand-name-mac-short } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de funcionalidades.
+# /firefox/mac/ main page title. Span is for visually formatting.
+new-platform-firefox-respects-your = { -brand-name-firefox } respecta <span>a súa privacidade en { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = A privacidade é o primeiro
+new-platform-get-speed-and-security = Velocidade e seguridade. { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os seus movementos.
+# /firefox/windows/ HTML page title
+new-platform-download-mozilla-windows = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }
