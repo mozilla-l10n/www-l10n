@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Quyền riêng tư thông thường
 new-platform-live-your-life = Sống theo cuộc sống của bạn, { -brand-name-firefox } không theo dõi điều này. Chọn những gì để chia sẻ và khi chia sẻ nó.
 new-platform-seamless-setup = Thiết lập liền mạch
 new-platform-easy-migration = Dễ dàng di chuyển các tùy chọn và dấu trang khi bạn tải xuống { -brand-name-firefox } dành cho { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Tải xuống { -brand-name-firefox } <br>cho { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Tải xuống { -brand-name-firefox } <br>cho { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Tải xuống { -brand-name-firefox } <br>cho { -brand-name-linux }
