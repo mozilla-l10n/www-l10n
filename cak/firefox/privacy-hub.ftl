@@ -41,6 +41,7 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Tik'ul Utzirisan Chajinï
 firefox-privacy-hub-download-the-firefox-browser = Taqasaj { -brand-name-firefox } okik'amaya'l
 firefox-privacy-hub-update-your-firefox-browser = Tak'exa' ruwäch { -brand-name-firefox } okik'amaya'l
 firefox-privacy-hub-invisible-to-the-top-trackers = Man tz'etel ta chi kiwa ri nima'q ojqanela'
+firefox-privacy-hub-meet-four-of-the-most-common = Niqak'üt chawäch ri kaji' ruwäch chi jutaqil ojqanela' — richin man xke'awïl ta.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ke'akanoj taq tz'ilanem
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
