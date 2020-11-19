@@ -26,7 +26,7 @@ windows-64-bit-how-do-you-get-64 = Hvordan får du 64-bit { -brand-name-firefox 
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = Hvis du kjører 64-bit { -brand-name-windows } (<a href="{ $version }">slik kontrollerer du</a>), kan { -brand-name-firefox } allerede være 64-bit. <a href="{ $check }">Sjekk { -brand-name-firefox }-versjonen</a> (i «Om { -brand-name-firefox }»-vinduet) og se etter «(32-bit)» eller «(64-bit)» etter versjonnummeret:
 windows-64-bit-if-you-see-32-bit-older = Hvis du ser «(32-bit)» og kjører { -brand-name-firefox } 56.0 eller eldre, vil oppdatering til den nyeste { -brand-name-firefox }-versjonen automatisk oppgradere deg til 64-bit.
-windows-64-bit-if-you-see-32-bit-newer = Hvis du ser «(32-bit)» og kjører { -brand-name-firefox } 56.0.1 eller nyere, kan det hende at datamaskinen din ikke oppfyller minstekravet for 64-bit (3 GB RAM eller mer). Du kan fortsatt installere 64-bit { -brand-name-firefox } manuelt om du vil.
+windows-64-bit-if-you-see-32-bit-newer = Hvis du ser «(32-bit)» og kjører Firefox 56.0.1 eller nyere, kan det hende at datamaskinen din ikke oppfyller minstekravet for 64-bit (3 GB RAM eller mer). Du kan fortsatt installere 64-bit Firefox manuelt om du vil.
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Hvis du trenger å kjøre 32-bit { -brand-name-firefox } eller manuelt installere 64-bit { -brand-name-firefox }, kan du ganske enkelt laste ned og kjøre { -brand-name-windows } (32-bit eller 64-bit) { -brand-name-firefox }-installasjonsprogram fra <a href="{ $all }">nedlastingssiden for { -brand-name-firefox }-plattformer og språk.</a>
