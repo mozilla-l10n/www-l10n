@@ -26,8 +26,8 @@ windows-64-bit-how-do-you-get-64 = 要如何取得 64 位元的 { -brand-name-fi
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = 若您使用的是 64 位元的 { -brand-name-windows }（<a href="{ $version }">確認方式</a>），您的 { -brand-name-firefox } 可能已經是 64 位元版本了。可以到「關於 { -brand-name-firefox }」視窗<a href="{ $check }">確認您的 { -brand-name-firefox } 版本</a>，看版本號後面是否有「（32 位元）」或「（64 位元）」的字樣:
 windows-64-bit-if-you-see-32-bit-older = 若您使用的是 { -brand-name-firefox } 56.0 或更舊版本且看到「（32 位元）」，更新到最新版的 { -brand-name-firefox } 就會自動升級為 64 位元版本。
-windows-64-bit-if-you-see-32-bit-newer = 若您使用的是 { -brand-name-firefox } 56.0.1 或更新版本且看到「（32 位元）」，代表電腦可能不符合 64 位元版本的最低記憶體需求（至少 3GB）。您想要的話還是可以手動安裝 64 位元版本 { -brand-name-firefox }。
+windows-64-bit-if-you-see-32-bit-newer = 若您使用的是 Firefox 56.0.1 或更新版本且看到「（32 位元）」，代表電腦可能不符合 64 位元版本的最低記憶體需求（至少 3GB）。您想要的話還是可以手動安裝 64 位元版本 Firefox。
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
-windows-64-bit-if-you-need-to-run = 若您需要使用 32 位元版本或手動安裝 64 位元版本 { -brand-name-firefox }，可以直接到 <a href="{ $all }">{ -brand-name-firefox } 所有平台與語言版本下載頁面</a>下載對應的 { -brand-name-firefox } 安裝程式進行安裝。
+windows-64-bit-if-you-need-to-run = 若您需要使用 32 位元版本 { -brand-name-firefox } 或手動安裝 64 位元版本 { -brand-name-firefox }，可以直接到 <a href="{ $all }">{ -brand-name-firefox } 所有平台與語言版本下載頁面</a>下載 32 或 64 位元 { -brand-name-windows } 版 { -brand-name-firefox } 安裝程式進行安裝。
 windows-64-bit-take-control-of-your = 自行控制您的瀏覽器。
