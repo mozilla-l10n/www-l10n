@@ -34,9 +34,13 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } nuch
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox }<strong>nuchajij</strong> ri awichinanem pa jujun tikojil
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ q'aton ojqanela' — pa ruyonil
+firefox-privacy-hub-if-you-want-to-see-what = We nawajo' natz'ët achike ch'akulal yeq'at ruma ri { -brand-name-firefox }, tab'etz'eta' re ruxaq pa ri ajch'atal awokik'amaya'l richin { -brand-name-firefox }.
+firefox-privacy-hub-see-what-firefox-has-blocked = Tatz'eta' achike ruq'aton ri { -brand-name-firefox } awuma rat
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Tik'ul Utzirisan Chajinïk chuwäch Ojqanem
+firefox-privacy-hub-download-the-firefox-browser = Taqasaj { -brand-name-firefox } okik'amaya'l
 firefox-privacy-hub-update-your-firefox-browser = Tak'exa' ruwäch { -brand-name-firefox } okik'amaya'l
+firefox-privacy-hub-invisible-to-the-top-trackers = Man tz'etel ta chi kiwa ri nima'q ojqanela'
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ke'akanoj taq tz'ilanem
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
