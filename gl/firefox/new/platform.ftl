@@ -23,6 +23,10 @@ new-platform-need-help = Precisa axuda?
 new-platform-download-mozilla-firefox-title = Descargue { -brand-name-mozilla } { -brand-name-firefox }, un navegador web de balde. { -brand-name-firefox } é desenvolvido por unha organizacións sen fins de lucro para pór nos individuos o control da súa vida en liña. Obteña o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios } xa!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
+# /firefox/linux/ social sharing title
+new-platform-download-the-fastest-linux = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-linux }
+# /firefox/linux/ social sharing description
+new-platform-faster-page-loading-linux = O novo { -brand-name-firefox } para { -brand-name-linux } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de funcionalidades.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
 new-platform-privacy-more-than = Privacidade, máis ca unha política
