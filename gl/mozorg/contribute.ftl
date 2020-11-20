@@ -34,17 +34,28 @@ contribute-mission-heading = A nosa misión
 contribute-learn = Máis información sobre { -brand-name-mozilla }
 contribute-read-manifesto = O noso manifesto
 contribute-find-event = Atopar un evento
+contribute-meet-volunteers = Coñecer aos nosos voluntarios cheos de dedicación
 contribute-donate = Doar
+contribute-help-fund = Axudar a financiar a nosa misión
+contribute-follow-mozilla = Seguir a { -brand-name-mozilla }
+contribute-opportunities = Novidades e oportunidades de voluntariado
 
 ## Made by
 
+contribute-made-by-heading = Feito por xente dedicada coma vostede
 
 ## Newsletter
 
+contribute-newsletter-heading = Aínda non está seguro?
+contribute-newsletter-sub-heading = Reciba novas sobre a comunidade e as contribucións na súa caixa de entrada
 
 ## Support
 
+contribute-support-heading = Obter axuda
+contribute-support-desc = { -brand-name-mozilla } conta cun dedicado equipo de voluntarios que lle axudarán a resolver os problemas que poida ter.
+contribute-mozilla-support = Asistencia para { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Dálle problemas unha páxina web?
 contribute-report-issue = Informar dunha incidencia

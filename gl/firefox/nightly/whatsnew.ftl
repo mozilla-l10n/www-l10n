@@ -18,4 +18,7 @@ nightly-whatsnew-this-is-a-good = É unha boa ocasión para darlle as grazas por
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Se quere estar ao día sobre o que ocorre con { -brand-name-nightly } e a súa comunidade, pode comezar por ler o noso <a href="{ $blog }">blog</a> e por seguirnos en <a href="{ $twitter }">{ -brand-name-twitter }</a>.
+# Variables:
+#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
+nightly-whatsnew-want-to-know-which = Quere saber que características da plataforma pode poñer a proba en { -brand-name-nightly } e aínda non pode ver noutras canles de { -brand-name-firefox }? Pode botarlles unha ollada na páxina de <a href="{ $mdn }">Características experimentais</a> en <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 nightly-whatsnew-go-community = Veña, comunidade!
