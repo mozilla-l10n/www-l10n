@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Faqja e Xhirimit të Parë të versionit Nightly të Firefox-it
+nightly-firstrun-firefox-nightly = Faqja e Xhirimit të Parë të versionit { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Faleminderit që përdorni { -brand-name-firefox-nightly }-n
 nightly-firstrun-choose-an-area = Zgjidhni më poshtë një fushë për t’u përfshirë që të ndihmoni ta bëjmë { -brand-name-firefox }-in më të mirë për përdoruesit kudo
 nightly-firstrun-test = Testime
