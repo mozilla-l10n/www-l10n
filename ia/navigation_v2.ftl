@@ -16,9 +16,11 @@ navigation-v2-get-the-not-for-profit-backed = Installa le navigator non lucrativ
 navigation-v2-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Installa le navigator personalisabile pro apparatos mobile { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pro { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Installa le navigator mobile pro tu { -brand-name-iphone } o { -brand-name-ipad }.
 navigation-v2-privacy-promise = Promissa de confidentialitate
 navigation-v2-learn-how-firefox-treats = Apprende como { -brand-name-firefox } tracta tu datos con respecto.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
+navigation-v2-read-about-new-firefox-features = Lege re nove functionalitates { -brand-name-firefox } e manieras de remaner secur online.
 navigation-v2-release-notes = Notas pro iste revision
 
 ## Products menu
