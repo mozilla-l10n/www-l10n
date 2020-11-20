@@ -9,6 +9,7 @@
 whatsnew79-page-title = Novidades sobre { -brand-name-firefox }
 # Main title
 whatsnew79-main-title = Protexa os seus datos privados fronte a terceiros, incluídos nós
+whatsnew79-main-intro = A Internet debería ser un lugar seguro para todos. Por iso é que { -brand-name-firefox } non o segue cando estea en liña, e impide que outros tamén o fagan.
 # Main CTA button
 whatsnew79-primary-cta = Configurar { -brand-name-firefox } como predeterminado
 # Fallback CTA button, shown if Firefox is already a user's default browser
@@ -24,6 +25,7 @@ whatsnew79-see-your-report = Consulte o seu informe
 whatsnew79-update-your-firefox = Actualice o seu navegador { -brand-name-firefox }
 whatsnew79-download-the-firefox = Descargue o navegador { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = Lea o noso compromiso de privacidade
+whatsnew79-take-less-keep-it-safe = Recoller menos datos e mantelos a salvo, sen segredos. A nosa empresa non depende de abusos secretos á súa confianza.
 # CTA link
 whatsnew79-read-more = Máis información
 whatsnew79-keep-facebook-contained = Manteña { -brand-name-facebook } á marxe
