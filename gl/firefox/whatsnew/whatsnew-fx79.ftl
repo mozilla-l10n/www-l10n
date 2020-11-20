@@ -18,6 +18,12 @@ whatsnew79-with-one-tap-mozilla-vpn = Prema unha vez e { -brand-name-mozilla-vpn
 # CTA link
 whatsnew79-get-started = Comezar
 whatsnew79-get-more-control-over = Amplíe o seu control fronte os rastros
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } bloquea a máis anunciantes e rastros que nunca antes para que non o persigan pola Rede.
+# CTA link
+whatsnew79-see-your-report = Consulte o seu informe
+whatsnew79-update-your-firefox = Actualice o seu navegador { -brand-name-firefox }
+whatsnew79-download-the-firefox = Descargue o navegador { -brand-name-firefox }
+whatsnew79-read-our-privacy-promise = Lea o noso compromiso de privacidade
 # CTA link
 whatsnew79-read-more = Máis información
 whatsnew79-keep-facebook-contained = Manteña { -brand-name-facebook } á marxe
