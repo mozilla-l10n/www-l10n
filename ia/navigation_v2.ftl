@@ -14,6 +14,7 @@ navigation-v2-close-firefox-browsers-menu = Clauder le menu de { -brand-name-fir
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pro scriptorio
 navigation-v2-get-the-not-for-profit-backed = Installa le navigator non lucrative sur { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Installa le navigator personalisabile pro apparatos mobile { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pro { -brand-name-ios }
 navigation-v2-privacy-promise = Promissa de confidentialitate
 navigation-v2-learn-how-firefox-treats = Apprende como { -brand-name-firefox } tracta tu datos con respecto.
