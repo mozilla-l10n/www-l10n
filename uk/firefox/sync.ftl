@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Зашифруйте свої дані
 firefox-sync-your-encryption-key = Ваш ключ шифрування залишається таємницею, відомою лише вам та вашим авторизованим пристроям.
 firefox-sync-feel-safe = Почувайся безпечно
 firefox-sync-we-store-your = Ми зберігаємо ваші дані зашифрованими на наших серверах, тому не можемо їх прочитати.
-start-syncing-in = Почніть синхронізацію з чотирьох простих кроків:
+firefox-sync-start-syncing-in = Почніть синхронізацію з чотирьох простих кроків:
 firefox-sync-open-the-menu = Відкрийте меню у верхньому правому куті сторінки { -brand-name-firefox } і виберіть <strong>“Увійти в { -brand-name-sync }</strong>.”
 firefox-sync-click-get-started = Натисніть <strong>“Почати”</strong> у вкладці, яка відкриється.
-enter-an-email = Введіть адресу електронної пошти та пароль, щоб <strong>“Створити { -brand-name-firefox-account }.”</strong>
+firefox-sync-enter-an-email = Введіть адресу електронної пошти та пароль, щоб <strong>“Створити { -brand-name-firefox-account }.”</strong>
 firefox-sync-click-next-to = Натисніть <strong>“Далі”</strong>, щоб отримати посилання для підтвердження на вашу електронну пошту.
 firefox-sync-after-you-check = Після того, як ви перевірите свою електронну пошту і перейдете за посиланням для підтвердження, { -brand-name-firefox } почне автоматично синхронізуватись у фоновому режимі.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data

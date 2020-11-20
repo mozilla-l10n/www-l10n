@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Продукти { -brand-name-firefox } створено для захисту вашої приватности
+learn-more-about-firefox = Докладніше про { -brand-name-firefox }, його історію, функції та місію
 learn-more-about = Дізнайтеся докладніше про браузери та інші продукти { -brand-name-firefox }, які поводяться з вашими даними відповідально й створені для забезпечення вашої приватности в Інтернеті.
-learn-more = Докладніше
+learn-more-faq = ЧАП { -brand-name-firefox }
 the-history-of = Історія браузерів
 firefox-has-been = { -brand-name-firefox } існує майже з самого початку Інтернету.
 firefox-rebel-with = { -brand-name-firefox }: Бунтар з метою
@@ -23,6 +24,11 @@ get-the-privacy = Отримайте приватність, на яку ви з
 take-your-passwords = Майте доступ до своїх паролів всюди
 securely-access-the = Безпечно отримуйте доступ до паролів, збережених у { -brand-name-firefox }, з будь-якого місця — по за браузером.
 choose-which-firefox = Виберіть і завантажте { -brand-name-firefox-browser } своєю мовою
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } для { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Хоча на { -brand-name-chromebook } уже встановлено { -brand-name-chrome }, завантаження та використання { -brand-name-firefox } основним браузером дає вам кілька переваг:
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } був революцією у розробці { -brand-name-firefox }. У 2017 році ми створили новий блискавичний браузер, який постійно вдосконалюється. { -brand-name-firefox-quantum } — це { -brand-name-firefox-browser }.
+firefox-more-little-book = Маленька книга приватності
 we-believe-everyone = Ми вважаємо, що кожен повинен мати доступ до Інтернету — саме тому ми робимо { -brand-name-firefox-browser } доступним понад 90 мовами за допомогою відданих волонтерів по всьому світу.
 firefox-fights-for = { -brand-name-firefox } бореться за вас на { -brand-name-windows }
 easy-migration-of = Просте перенесення налаштувань та закладок під час завантаження { -brand-name-firefox } для { -brand-name-windows }.
