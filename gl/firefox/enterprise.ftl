@@ -15,6 +15,7 @@ firefox-enterprise-get-the-firefox-extended-support = Obteña o <a href="{ $url 
 firefox-enterprise-unmatched-data-protection = Protección de datos inigualable: coa cadencia de lanzamento que lle conveña
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = O navegador { -brand-name-firefox } é de código aberto e proporciona unha protección avanzada de rastrexo: todo parte do noso compromiso de hai tempo coa protección de datos.
+firefox-enterprise-your-data-stays-your-business = Os seus datos son asunto seu
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
