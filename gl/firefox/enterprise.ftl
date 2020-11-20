@@ -28,9 +28,17 @@ firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-exte
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }): instalador MSI
 firefox-enterprise-support = Asistencia técnica
 firefox-enterprise-msi-installers = Instaladores MSI
+firefox-enterprise-legacy-browser-support = Compatibilidade con navegadores antigos
 firefox-enterprise-admx-templates = Modelos ADMX
 firefox-enterprise-deployment-guide = Guía de implantación
 firefox-enterprise-policy-documentation = Documentación de políticas
 firefox-enterprise-release-notes = Notas do lanzamento
+firefox-enterprise-documentation-and-community = Documentación e asistencia á comunidade
+# Variables:
+#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = Exemplo de <a href="{ $url }">plist para o perfil de configuración</a>
 firefox-enterprise-pkg-installer = Instalador PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } de 32 bits
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = Descargar { -brand-name-firefox-esr } ou Rapid Release <br> <a href="{ $firefox_all }">noutro idioma ou para outra plataforma.</a>
