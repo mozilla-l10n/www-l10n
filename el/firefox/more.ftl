@@ -7,7 +7,6 @@
 
 firefox-products-are = Τα προϊόντα { -brand-name-firefox } προστατεύουν το απόρρητό σας
 learn-more-about = Μάθετε περισσότερα σχετικά με τα προϊόντα { -brand-name-firefox } που χειρίζονται τα δεδομένα σας με σεβασμό και έχουν δημιουργηθεί για απόρρητο οπουδήποτε κι αν βρίσκεστε στο διαδίκτυο.
-learn-more = Μάθετε περισσότερα
 the-history-of = Η ιστορία των προγραμμάτων περιήγησης
 firefox-has-been = Το { -brand-name-firefox } ήταν εκεί σχεδόν από την αρχή.
 firefox-rebel-with = { -brand-name-firefox }: Επανάσταση με ιδανικά
@@ -22,6 +21,9 @@ get-the-privacy = Αποκτήστε το απόρρητο που σας αξί�
 take-your-passwords = Πάρτε τους κωδικούς πρόσβασής σας παντού
 securely-access-the = Ασφαλής προσπέλαση στους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox } από παντού — ακόμη κι εκτός του προγράμματος περιήγησης.
 choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε στη γλώσσα σας
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } για { -brand-name-chromebook }
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = Πιστεύουμε ότι όλοι πρέπει να έχουν πρόσβαση στο διαδίκτυο — γι’ αυτό, το { -brand-name-firefox-browser } διατίθεται σε πάνω από 90 γλώσσες με τη βοήθεια των αφοσιωμένων εθελοντών από όλο τον κόσμο.
 firefox-fights-for = Το { -brand-name-firefox } μάχεται για εσάς στα { -brand-name-windows }
 easy-migration-of = Εύκολη μεταφορά προτιμήσεων και σελιδοδεικτών όταν κάνετε λήψη του { -brand-name-firefox } για { -brand-name-windows }.
