@@ -21,6 +21,7 @@ firefox-enterprise-your-data-stays-your-business = Os seus datos son asunto seu
 firefox-enterprise-deploy-when-and-how-you-want = Implánteo cando e como queira
 firefox-enterprise-with-install-packages-and = Con paquetes de instalación e unha ampla expansión de políticas e características de grupo, a implantación é máis rápida e flexible ca nunca e moi fácil en contornos { -brand-name-windows } e { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Elixa a súa frecuencia de actualizacións
+firefox-enterprise-get-rapid-releases-to-make = Obteña Rapid Release para asegurarse de que consegue as últimas características o máis rápido posible ou ESR para garantir unha experiencia completamente estable.
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
