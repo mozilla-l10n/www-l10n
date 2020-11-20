@@ -26,4 +26,6 @@ compare-edge-at-firefox-our-privacy-fallback = Pa { -brand-name-firefox }, ri <a
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = Ri <a { $attrs }>Richinanem Chajinïk</a> nuk'üt chawäch ri ojqanela' chuqa' taq cookie ri kitojtob'en kiya'on kan ri taq ruxaq chuqa' ja rupe' e ruq'aton ri { -brand-name-firefox }.
+# "InPrivate" is a brand name.
+compare-edge-in-firefox-private-browsing = Pa { -brand-name-firefox }, ri Ichinan Okem pa K'amaya'l pa ruyonil nuyüj ri awetamab'al richin okem pa k'amaya'l achi'el ri ewan taq tzij, taq cookie chuqa' ri natab'äl, akuchi' majun retal nuya' kan toq nutz'apij molojri'ïl. Ja ri { -brand-name-edge } nutz'ib'aj ri runatab'al okem pa k'amaya'l toq k'o pa ichinan rub'anikil (“InPrivate” rub'ina'am), ri man k'ayew ta nitz'uk ri runatab'al awokem pa k'amaya'l, estape' we ri awokem pa k'amaya'l xb'an pa jutaqil b'anikil o pa rub'anikil InPrivate.
 compare-edge-both-browsers-are-relatively = Chi ka'i' okik'amaya'l e junam chi rij ri newäx rusik'ixik tzij. We ri ichinanem chuqa' ri ch'ajch'ojil yalan e k'atzinel pa k'amab'ey chawäch, yalan ütz nub'än chawäch ri { -brand-name-firefox }.
