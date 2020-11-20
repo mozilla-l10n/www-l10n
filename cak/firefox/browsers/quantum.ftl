@@ -14,3 +14,5 @@ learn-more-about = Tetamäx ch'aqa' chik chi rij { -brand-name-firefox-quantum }
 privacy-first = Nab'ey ichinanem
 firefox-doesnt-spy = Man yatrunachaj ta ri { -brand-name-firefox } pa k'amab'ey. Yeqaq'ät k'ïy taq kicookie kojqanela' aj rox winäq etaman kiwa chuqa' niqaya' ronojel pan aq'a'.
 super-fast = Yalan Aninäq
+get-speed-and = Tak'ulu' aninem chuqa' jikomal. { -brand-name-firefox } yalan aninäq ruma man niqojqaj ta ri asilonem.
+always-evolving = Jantape' nijalatäj
