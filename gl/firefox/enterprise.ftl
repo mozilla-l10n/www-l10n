@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = Obteña { -brand-name-firefox } para a súa empresa con { -brand-name-esr } e Rapid Release
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Visión xeral
 firefox-enterprise-downloads = Descargas
