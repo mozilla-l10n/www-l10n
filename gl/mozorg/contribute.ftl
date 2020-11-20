@@ -30,6 +30,11 @@ contribute-task-join-heading = Unirse á comunidade
 
 ## Mission
 
+contribute-mission-heading = A nosa misión
+contribute-learn = Máis información sobre { -brand-name-mozilla }
+contribute-read-manifesto = O noso manifesto
+contribute-find-event = Atopar un evento
+contribute-donate = Doar
 
 ## Made by
 
@@ -42,3 +47,4 @@ contribute-task-join-heading = Unirse á comunidade
 
 ## Web compat
 
+contribute-report-issue = Informar dunha incidencia
