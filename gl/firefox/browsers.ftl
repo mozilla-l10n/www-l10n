@@ -13,11 +13,15 @@ firefox-browsers-get-the-privacy-you-deserve = Obteña a privacidade que merece.
 firefox-browsers-get-the-browsers-strong = Obteña os <strong>navegadores</strong> que se centran na súa privacidade, como sempre fixeron
 firefox-browsers-desktop = Escritorio
 firefox-browsers-download-for-desktop = Descargar a versión de escritorio
+firefox-browsers-mobile = Móbil
 firefox-browsers-download-for-mobile = Descargar a versión para móbiles
 firefox-browsers-send-me-a-link = Enviarme unha ligazón
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = Paquetes { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-go-beyond-two-dimensions-and = Rompa a barreira das dúas dimensións e goce dos mellores contidos envolventes de toda a rede.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-build-sites-and-refine-your = Cree sitios e perfeccione o seu código con { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Máis información sobre { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Únase a { -brand-name-firefox } e obteña o máximo proveito de todos os produtos en calquera dispositivo.
 firefox-browsers-android = { -brand-name-android }
