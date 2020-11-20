@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Κρυπτογράφηση δεδομένων
 firefox-sync-your-encryption-key = Το κλειδί κρυπτογράφησής σας παραμένει μυστικό και το γνωρίζετε μόνο εσείς και οι εξουσιοδοτημένες συσκευές σας.
 firefox-sync-feel-safe = Νιώστε ασφάλεια
 firefox-sync-we-store-your = Αποθηκεύουμε τα κρυπτογραφημένα δεδομένα σας στους διακομιστές μας, αλλά δεν μπορούμε να τα διαβάσουμε.
-start-syncing-in = Ξεκινήστε το συγχρονισμό με τέσσερα εύκολα βήματα:
+firefox-sync-start-syncing-in = Ξεκινήστε το συγχρονισμό με τέσσερα εύκολα βήματα:
 firefox-sync-open-the-menu = Ανοίξτε το μενού επάνω δεξιά στο { -brand-name-firefox } και επιλέξτε <strong>“Σύνδεση στο { -brand-name-sync }</strong>.”
 firefox-sync-click-get-started = Κάντε κλικ στο <strong>“Έναρξη”</strong> στην καρτέλα που ανοίγει.
-enter-an-email = Εισάγετε μια διεύθυνση email και έναν κωδικό πρόσβασης για <strong>“Δημιουργία { -brand-name-firefox-account }.”</strong>
+firefox-sync-enter-an-email = Εισάγετε μια διεύθυνση email και έναν κωδικό πρόσβασης για <strong>“Δημιουργία { -brand-name-firefox-account }.”</strong>
 firefox-sync-click-next-to = Κάντε κλικ στο <strong>“Επόμενο”</strong> για να λάβετε ειδοποίηση στο email σας.
 firefox-sync-after-you-check = Αφού ελέγξετε το email σας και κάνετε κλικ στο σύνδεσμο επιβεβαίωσης, το { -brand-name-firefox } θα ξεκινήσει αυτόματα το συγχρονισμό στο παρασκήνιο.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
