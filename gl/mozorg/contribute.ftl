@@ -27,10 +27,12 @@ contribute-task-mozilla-codebase-heading = Contribuí á base do código de { -b
 contribute-task-mozilla-codebase-desc = Colabore en diversas oportunidades de desenvolvemento para mellorar activamente os produtos { -brand-name-mozilla }.
 contribute-task-support-desc = Axude a facer que os produtos { -brand-name-mozilla } sexan doados de usar: responda ás preguntas de "axuda" das persoas como parte dos foros da Comunidade de soporte de { -brand-name-mozilla }.
 contribute-task-join-heading = Unirse á comunidade
+contribute-task-join-desc = Para maior participación na comunidade { -brand-name-mozilla }, bótelle unha ollada a todas as oportunidades de voluntariado no noso Portal comunitario.
 
 ## Mission
 
 contribute-mission-heading = A nosa misión
+contribute-mission-desc = A nosa misión é garantir que a Internet siga sendo un recurso público, aberto e accesíbel para todos. Unha Internet na que as persoas poidan xogar un papel protagonista, na que cada un de nós poida sentirse creador da súa propia experiencia en liña, sempre en control, seguro e independente.
 contribute-learn = Máis información sobre { -brand-name-mozilla }
 contribute-read-manifesto = O noso manifesto
 contribute-find-event = Atopar un evento
@@ -58,4 +60,5 @@ contribute-mozilla-support = Asistencia para { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Dálle problemas unha páxina web?
+contribute-web-compat-desc = Se a súa experiencia nun sitio web difire entre navegadores, é posíbel que se teña topado cun problema de compatibilidade web. ¡Cóntenos máis sobre o asunto!
 contribute-report-issue = Informar dunha incidencia

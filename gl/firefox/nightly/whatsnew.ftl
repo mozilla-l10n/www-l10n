@@ -21,4 +21,7 @@ nightly-whatsnew-if-you-want-to = Se quere estar ao día sobre o que ocorre con 
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Quere saber que características da plataforma pode poñer a proba en { -brand-name-nightly } e aínda non pode ver noutras canles de { -brand-name-firefox }? Pode botarlles unha ollada na páxina de <a href="{ $mdn }">Características experimentais</a> en <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = Detecta algún erro, comportamento inesperado ou perdas de compatibilidade web? Gustaríanos recompilalos en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para asegurarnos de que non aparezan na versión final. Karma adicional se engade as palabras clave <em>{ -brand-name-nightly }-community</em> no informe de erros!
 nightly-whatsnew-go-community = Veña, comunidade!
