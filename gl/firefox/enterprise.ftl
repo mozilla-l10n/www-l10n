@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Obteña { -brand-name-firefox } para a súa empresa con { -brand-name-esr } e Rapid Release
+firefox-enterprise-get-unmatched-data-protection = Obteña unha protección de datos inigualable coa frecuencia de actualizacións que mellor se adapte a vostede grazas a { -brand-name-firefox } para empresas. Descargar { -brand-name-esr } e Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Visión xeral
 firefox-enterprise-downloads = Descargas
@@ -13,12 +14,13 @@ firefox-enterprise-get-firefox-for-your-enterprise = Obter { -brand-name-firefox
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Obteña o <a href="{ $url }"> { -brand-name-firefox-extended-support-release } ou o navegador de lanzamento rápido </a> para obter unha protección completa de datos e protección de datos.
-firefox-enterprise-unmatched-data-protection = Protección de datos inigualable: co ritmo de lanzamento que lle conveña
+firefox-enterprise-unmatched-data-protection = Protección de datos inigualable: coa frecuencia de actualizacións que máis lle conveña.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = O navegador { -brand-name-firefox } é de código aberto e proporciona unha protección avanzada de rastrexo: todo parte do noso compromiso de hai tempo coa protección de datos.
 firefox-enterprise-your-data-stays-your-business = Os seus datos son asunto seu
 firefox-enterprise-deploy-when-and-how-you-want = Implánteo cando e como queira
-firefox-enterprise-choose-your-release-cadence = Elixa o seu ritmo de lanzamento
+firefox-enterprise-with-install-packages-and = Con paquetes de instalación e unha ampla expansión de políticas e características de grupo, a implantación é máis rápida e flexible ca nunca e moi fácil en contornos { -brand-name-windows } e { -brand-name-mac }.
+firefox-enterprise-choose-your-release-cadence = Elixa a súa frecuencia de actualizacións
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
