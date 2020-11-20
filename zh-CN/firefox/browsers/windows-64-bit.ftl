@@ -26,7 +26,7 @@ windows-64-bit-how-do-you-get-64 = 如何获得 64 位版 { -brand-name-firefox 
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = 如果您使用的是 64 位 { -brand-name-windows }（<a href="{ $version }">此处是检查方法</a>），那么您的 { -brand-name-firefox } 可能已经是 64 位版。 <a href="{ $check }">检查您的 { -brand-name-firefox } 版本</a>（在“关于 { -brand-name-firefox }”窗口中），然后在该版本数字之后寻找“（32 位）”或“（64 位）”字样：
 windows-64-bit-if-you-see-32-bit-older = 若您看到“（32 位）”并且运行的是 { -brand-name-firefox } 56.0 或更早版本，更新到最新的 { -brand-name-firefox } 版本会自动将其升级到 64 位。
-windows-64-bit-if-you-see-32-bit-newer = 若您看到“（32 位）”并且运行的是 { -brand-name-firefox } 56.0 或更高版本，则您的计算机可能不满足 64 位（不少于 3GB 内存 ）的最低内存要求。但是，您仍可以手动安装 64 位版 { -brand-name-firefox }。
+windows-64-bit-if-you-see-32-bit-newer = 若您看到“（32 位）”并且运行的是 { -brand-name-firefox } 56.0 或更高版本，则您的计算机可能不满足 64 位（至少 3GB）的最低内存要求。但是，您仍可以手动安装 64 位版 { -brand-name-firefox }。
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = 若您需要运行 32 位版 { -brand-name-firefox } 或手动安装 64 位版 { -brand-name-firefox }，只需从<a href="{ $all }">{ -brand-name-firefox } 多平台和语言下载页</a>下载并重新运行 { -brand-name-windows }（32 或 64 位版）{ -brand-name-firefox } 安装程序即可。
