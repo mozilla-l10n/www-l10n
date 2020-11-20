@@ -46,11 +46,13 @@ contribute-opportunities = Novidades e oportunidades de voluntariado
 
 contribute-made-by-heading = Feito por xente dedicada coma vostede
 contribute-made-by-desc = Cando calabora con { -brand-name-mozilla }, está a formar parte dunha comunidade mundial de persoas que cren que todos temos o papel de garantir que a Internet siga sendo unha forza para facer o ben.
+contribute-made-by-desc-cont = Cremos que a colaboración comunitaria é vital para crear unha Internet diversa, innovadora e responsable para quen máis o precise. Xa teña experiencia en tecnoloxía, en organización de comunidades ou unicamente un ordenador e algo de tempo libre, vostede pode axudarnos a facer da Internet un lugar mellor.
 
 ## Newsletter
 
 contribute-newsletter-heading = Aínda non está seguro?
 contribute-newsletter-sub-heading = Reciba novas sobre a comunidade e as contribucións na súa caixa de entrada
+contribute-newsletter-desc = Subscríbase ó noso boletín, únase ós mozillianos de todo o mundo e coñeza as oportunidades que marcan a diferencia para apoiar á misión de { -brand-name-mozilla }.
 
 ## Support
 
