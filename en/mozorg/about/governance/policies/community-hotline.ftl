@@ -4,9 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/community-hotline/
 
-## Page title
-community-hotline-community-participation-report = Community Participation Guidelines - How to Report
-
 community-hotline-community-participation = Community Participation Guidelines Hotline
 
 community-hotline-the-heart-of-mozilla = The heart of { -brand-name-mozilla } is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The { -brand-name-mozilla } Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community.
