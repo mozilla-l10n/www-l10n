@@ -22,16 +22,23 @@ navigation-v2-learn-how-firefox-treats = Apprende como { -brand-name-firefox } t
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Lege re nove functionalitates { -brand-name-firefox } e manieras de remaner secur online.
 navigation-v2-release-notes = Notas pro iste revision
+navigation-v2-get-the-details-on-the = Discoperi le detalios re le ultime actualisationes de { -brand-name-firefox }.
+navigation-v2-view-all-firefox-browsers = Vide tote le { -brand-name-firefox-browsers }
 
 ## Products menu
 
 navigation-v2-products = Productos
 navigation-v2-close-products-menu = Clauder menu de productos
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Vide si tu e-mail ha apparite in un violation de datos de companias.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Salva e discoperi le melior historias de inter le web.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Adjuta impedir { -brand-name-facebook } de colliger tu datos foras de lor sito.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Obtene protection ultra tu navigator, sur tote tu apparatos.
 navigation-v2-product-promise = Promissa de producto
+navigation-v2-learn-how-each-firefox-product = Apprende como cata producto { -brand-name-firefox } protege e respecta tu datos.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-view-all-products = Vider tote le productos
