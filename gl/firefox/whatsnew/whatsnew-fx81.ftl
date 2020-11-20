@@ -13,3 +13,7 @@ whatsnew81-main-intro = Sexa cal sexa o seu sistema operativo, agora pode instal
 whatsnew81-send-form-label = Introduza o seu enderezo de correo electrónico para obter unha ligazón de descarga
 whatsnew81-send-form-label-alt = Introduza o seu correo electrónico ou número de teléfono para obter unha ligazón de descarga
 whatsnew81-scan-this-qr-code = Escanee este código QR para descargalo
+# content blocks below hero
+whatsnew81-the-new-firefox-for-android = Xa chegou o novo { -brand-name-firefox } para { -brand-name-android }
+whatsnew81-our-latest-for-android-has = A última versión de { -brand-name-android } ten funcións divertidas e intelixentes, como a barra de busca desprazable. Porque somos un navegador independente que pensa nos teus polgares.
+whatsnew81-make-firefox-your-everyday = Configure { -brand-name-firefox } coma o seu navegador principal en { -brand-name-ios }
