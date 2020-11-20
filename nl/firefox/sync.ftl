@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Versleutel uw gegevens
 firefox-sync-your-encryption-key = Uw versleutelingssleutel blijft een geheim, alleen bekend bij u en uw geautoriseerde apparaten.
 firefox-sync-feel-safe = Voel u veilig
 firefox-sync-we-store-your = We slaan uw versleutelde gegevens op op onze servers, dus we kunnen ze niet lezen.
-start-syncing-in = Begin met synchroniseren in vier eenvoudige stappen:
+firefox-sync-start-syncing-in = Begin met synchroniseren in vier eenvoudige stappen:
 firefox-sync-open-the-menu = Open het menu rechtsboven { -brand-name-firefox } en selecteer <strong>‘Aanmelden bij { -brand-name-sync }</strong>.’
 firefox-sync-click-get-started = Klik op <strong>‘Van start’</strong> in het tabblad dat wordt geopend.
-enter-an-email = Voer een e-mailadres en wachtwoord in om <strong>‘Een { -brand-name-firefox-account } te maken.’</strong>
+firefox-sync-enter-an-email = Voer een e-mailadres en wachtwoord in om <strong>‘Een { -brand-name-firefox-account } te maken.’</strong>
 firefox-sync-click-next-to = Klik op <strong>‘Volgende’</strong> zodat er een verificatiebericht naar uw e-mailadres wordt verzonden.
 firefox-sync-after-you-check = Als u uw e-mail hebt gecontroleerd en op de verificatiekoppeling klikt, begint { -brand-name-firefox } automatisch op de achtergrond te synchroniseren.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data

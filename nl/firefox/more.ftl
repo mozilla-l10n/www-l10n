@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox }-producten zijn ontworpen om uw privacy te beschermen
+learn-more-about-firefox = Lees meer over { -brand-name-firefox }, zijn geschiedenis, functies en missie
 learn-more-about = Lees meer over { -brand-name-firefox }-browsers en -producten die uw gegevens met respect behandelen en die zijn gebouwd voor privacy, overal waar u online gaat.
-learn-more = Meer info
+learn-more-faq = Veelgestelde vragen over { -brand-name-firefox }
 the-history-of = De geschiedenis van webbrowsers
 firefox-has-been = { -brand-name-firefox } is er al bijna vanaf het begin.
 firefox-rebel-with = { -brand-name-firefox }: rebel met een doel
@@ -23,6 +24,14 @@ get-the-privacy = Krijg de privacy die u verdient. Verbeterde beveiliging tegen 
 take-your-passwords = Neem uw wachtwoorden overal mee naartoe
 securely-access-the = Krijg overal veilig toegang tot wachtwoorden die u in { -brand-name-firefox } hebt opgeslagen – zelfs buiten de browser.
 choose-which-firefox = Kies de { -brand-name-firefox-browser } die u in uw taal wilt downloaden
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } voor { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Hoewel een { -brand-name-chromebook } al met { -brand-name-chrome } wordt geleverd, biedt het downloaden en gebruiken van { -brand-name-firefox } als uw standaardbrowser u de volgende voordelen:
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } was een revolutie in de ontwikkeling van { -brand-name-firefox }. In 2017 bouwden we een nieuwe, bliksemsnelle browser die constant verbetert. { -brand-name-firefox-quantum } is de { -brand-name-firefox-browser }.
+firefox-more-little-book = Klein privacyboekje
+firefox-more-you-can-reclaim = U kunt uw privacy terugvorderen en de controle over uw eigen internetervaring terugkrijgen! Het is eigenlijk verrassend eenvoudig. Iedereen kan het.
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Benader en synchroniseer uw bladwijzers, wachtwoorden, open tabbladen en meer – overal waar u { -brand-name-firefox } gebruikt.
 we-believe-everyone = We vinden dat iedereen toegang moet hebben tot internet. Daarom maken we de { -brand-name-firefox-browser } beschikbaar in meer dan 90 talen, met de hulp van toegewijde vrijwilligers over de hele wereld.
 firefox-fights-for = { -brand-name-firefox } vecht voor u op { -brand-name-windows }
 easy-migration-of = Eenvoudige migratie van voorkeursinstellingen en bladwijzers wanneer u { -brand-name-firefox } voor { -brand-name-windows } downloadt.
