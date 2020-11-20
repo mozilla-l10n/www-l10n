@@ -355,6 +355,8 @@
     .gender = masculine
 -brand-name-send = Send
 -brand-name-sync = Sync
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
 
 ## Firefox products (legacy)
 
@@ -417,6 +419,8 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers

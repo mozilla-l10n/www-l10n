@@ -20,7 +20,7 @@ new-platform-advanced-install-options = Pokročilé možnosti inštalácie a ďa
 new-platform-download-in-another = Prevziať v inom jazyku
 new-platform-fix-a-problem = Oprava problému
 new-platform-need-help = Potrebujete pomoc?
-new-platform-download-mozilla-firefox-title = Prevezmite si Mozillu { -brand-name-firefox }, voľne dostupný webový prehliadač. { -brand-name-firefox } je vyvíjaný neziskovou organizáciou, ktorej cieľom je dať ľudom kontrolu nad internetom. Prevezmite si { -brand-name-firefox } pre { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }!
+new-platform-download-mozilla-firefox-title = Prevezmite si { -brand-name-mozilla } { -brand-name-firefox }, voľne dostupný webový prehliadač. { -brand-name-firefox } je vyvíjaný neziskovou organizáciou, ktorej cieľom je dať ľudom kontrolu nad internetom. Prevezmite si { -brand-name-firefox } pre { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Prevziať { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }
 # /firefox/linux/ HTML page description
@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Súkromie ruka v ruke so zdravým rozumom
 new-platform-live-your-life = Žite si svoj život. { -brand-name-firefox } vás nesleduje. Je len na vás, čo budete zdieľať a kedy.
 new-platform-seamless-setup = Jednoduché nastavenie
 new-platform-easy-migration = Jednoduchý prenos nastavení a záložiek vo { -brand-name-firefox }e pre { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Prevziať { -brand-name-firefox } <br>pre { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Prevziať { -brand-name-firefox } <br>pre { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Prevziať { -brand-name-firefox } <br>pre { -brand-name-linux }
