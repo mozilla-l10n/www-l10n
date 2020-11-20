@@ -13,11 +13,15 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Meni { -brand-name-firefox-browsers } začinić
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za Desktop
 navigation-v2-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Wobstarajće sej přiměrjomny mobilny wobhladowak za smartfony { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Wobstarajće sej mobilny wobhladowak za waš { -brand-name-iphone } abo { -brand-name-ipad }.
 navigation-v2-privacy-promise = Slubjenje priwatnosće
 navigation-v2-learn-how-firefox-treats = Zhońće, kak { -brand-name-firefox } z wašimi datam z respektom wobchadźa.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
+navigation-v2-read-about-new-firefox-features = Informujće so wo najnowšich funkcijach a móžnosćach { -brand-name-firefox }, zo byšće online wěsty wostał.
 navigation-v2-release-notes = Wersijowe informacije
+navigation-v2-get-the-details-on-the = Zhóńće podrobnosće wo najnowšich aktualizacijach { -brand-name-firefox }.
 navigation-v2-view-all-firefox-browsers = Wšě { -brand-name-firefox-browsers } pokazać
 
 ## Products menu
@@ -25,12 +29,16 @@ navigation-v2-view-all-firefox-browsers = Wšě { -brand-name-firefox-browsers }
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Produktowy meni začinić
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Hladajće, hač so waša e-mejlowa adresa w datowej dźěrje předewzaća pokazuje.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Składujće a namakajće najlěpše stawiznički z cyłeho weba.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Produktowe slubjenje
+navigation-v2-learn-how-each-firefox-product = Zhońće, kak kóždy produkt { -brand-name-firefox } waše daty škita a respektuje.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Škitajće zwisk swojeho wobhladowaka z internetom.
 navigation-v2-view-all-products = Wšě produkty pokazać
 
 ## Who We Are menu
