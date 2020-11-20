@@ -40,7 +40,9 @@ navigation-v2-get-protection-beyond-your-browser = Obtene protection ultra tu na
 navigation-v2-product-promise = Promissa de producto
 navigation-v2-learn-how-each-firefox-product = Apprende como cata producto { -brand-name-firefox } protege e respecta tu datos.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Inscribe te a nove contos sin manear tu adresse e-mail.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Protege le connexion de tu navigator a internet.
 navigation-v2-view-all-products = Vider tote le productos
 
 ## Who We Are menu
@@ -48,10 +50,13 @@ navigation-v2-view-all-products = Vider tote le productos
 navigation-v2-who-we-are = Qui es nos
 navigation-v2-close-who-we-are-menu = Clauder le menu "Qui es nos"
 navigation-v2-mozilla-manifesto = Le manifesto de { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Apprende re le valores e principios que guida nostre mission.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Incontra le organisation non lucrative detra { -brand-name-firefox } que lucta pro un web melior.
 navigation-v2-get-involved = Collabora
 navigation-v2-join-the-fight-for-a = Junge te al lucta pro un internet salubre.
 navigation-v2-leadership = Gruppo dirigente
+navigation-v2-meet-the-team-thats-building = Incontra le equipa que produce technologia pro un internet melior.
 navigation-v2-careers = Carrieras
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-more-about-mozilla = Saper plus re { -brand-name-mozilla }
