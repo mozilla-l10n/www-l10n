@@ -7,3 +7,4 @@
 
 # HTML page title
 privacy-book-little-book-of = Маленька книга приватности
+privacy-book-twitter = { -brand-name-twitter }
