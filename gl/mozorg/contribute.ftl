@@ -45,6 +45,7 @@ contribute-opportunities = Novidades e oportunidades de voluntariado
 ## Made by
 
 contribute-made-by-heading = Feito por xente dedicada coma vostede
+contribute-made-by-desc = Cando calabora con { -brand-name-mozilla }, está a formar parte dunha comunidade mundial de persoas que cren que todos temos o papel de garantir que a Internet siga sendo unha forza para facer o ben.
 
 ## Newsletter
 
