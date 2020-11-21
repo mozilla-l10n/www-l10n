@@ -15,6 +15,7 @@ get-the-browsers = Izberite brskalnike, ki na prvo mesto postavljajo vašo zaseb
 take-your-passwords = Vzemite gesla s seboj
 securely-access-the = Varno dostopajte do gesel, shranjenih v { -brand-name-firefox }u kjerkoli – tudi izven brskalnika.
 choose-which-firefox = Izberite, kateri brskalnik { -brand-name-firefox-browser } želite prenesti v svojem jeziku
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } za { -brand-name-chromebook }
 easy-migration-of = Enostaven uvoz nastavitev in zaznamkov, ko prenesete { -brand-name-firefox } za { -brand-name-windows }.
 firefox-doesnt-spy = { -brand-name-firefox } ne vohuni za iskanji. Ustavljamo znane sledilne piškotke tretjih strani in vam zagotavljamo popoln nadzor.
 firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
