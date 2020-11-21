@@ -17,3 +17,4 @@ compare-chrome-at-firefox-we-have-a-huge = En { -brand-name-firefox }, temos un 
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Fai pouco declaramos unha vez máis o noso compromiso coa privacidade e a transparencia a respecto dos datos dos usuarios a través do último <a { $attrs }>Aviso de privacidade</a>, que di: «En Mozilla, consideramos que a privacidade é fundamental para gozar dunha Internet saudable».
+compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome } é considerado un navegador seguro que ten características como a navegación privada de { -brand-name-google }, que axuda a protexer aos usuarios ao amosar un aviso que non se pode pasar por alto cando intentan entrar en sitios perigosos ou descargar ficheiros perigosos.
