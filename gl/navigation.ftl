@@ -2,6 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navigation-download-firefox = Descargar { -brand-name-firefox }
+navigation-get-a-firefox-account = Obter unha { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = Versión de escritorio de { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para dispositivos móbiles
+navigation-download-for-ios = Descargar para { -brand-name-ios }
+navigation-download-for-android = Descargar para { -brand-name-android }
+navigation-ios-support = Asistencia de { -brand-name-ios }
+navigation-android-support = Asistencia de { -brand-name-android }
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } para empresas
+navigation-firefox-for-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }
+navigation-firefox-browsers-put = Obteña os navegadores que se centran na súa privacidade, como sempre fixeron
+navigation-join-firefox = Unirse a { -brand-name-firefox }
+navigation-meet-the-firefox-family = Coñecer a familia { -brand-name-firefox }
+navigation-firefox-blog = Blog de { -brand-name-firefox }
+navigation-mozilla-careers = Oportunidades de emprego en { -brand-name-mozilla }
+navigation-close-firefox-menu = Cerrar o menú de { -brand-name-firefox }
+navigation-get-firefox = Obter { -brand-name-firefox }
+navigation-get-firefox-focus = Obter { -brand-name-firefox-focus }
+navigation-android-extensions = Extensións de { -brand-name-android }
+navigation-your-firefox-account = A súa { -brand-name-firefox-account }
+# Outdated string
+navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-menu = Menú
+navigation-browsers = Navegadores
 navigation-release-notes = Notas da versión
 navigation-features = Características
 navigation-products = Produtos
