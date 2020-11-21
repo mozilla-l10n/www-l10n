@@ -24,8 +24,23 @@ navigation-android-extensions = Extensións de { -brand-name-android }
 navigation-your-firefox-account = A súa { -brand-name-firefox-account }
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-menu = Menú
 navigation-browsers = Navegadores
+navigation-download = Descargar
+navigation-extensions = Extensións
+navigation-privacy = Privacidade
+navigation-security-tips = Consellos de seguridade
+navigation-sign-up = Rexistrarse
+navigation-join = Unirse
+navigation-sign-in = Iniciar sesión
+navigation-benefits = Beneficios
+# Outdated string
+navigation-add-ons = Complementos
+navigation-projects = Proxectos
+navigation-resources = Recursos
+navigation-contact = Contacto
+navigation-careers = Oportunidades de emprego
 navigation-release-notes = Notas da versión
 navigation-features = Características
 navigation-products = Produtos
