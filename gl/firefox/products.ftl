@@ -19,6 +19,7 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Ver todos os navegadores
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-products-keep-your-passwords-safe-and = Teña os seus contrasinais protexidos e acceda a eles en calquera dispositivo sincronizado.
 firefox-products-download-lockwise = Descargar { -brand-name-lockwise }
 firefox-products-open-in-firefox = Abrir en { -brand-name-firefox }
 firefox-products-learn-more-about-lockwise = Máis información sobre { -brand-name-lockwise }
@@ -30,3 +31,7 @@ firefox-products-discover-the-best-content = Descubra o mellor contido da Web e 
 firefox-products-get-pocket = Obter { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Máis información sobre { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Únase a { -brand-name-firefox } e obteña o máximo proveito de todos os produtos en calquera dispositivo.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = Xa ten unha conta? <a { $fxa_attr }>Inicie sesión</a> ou <a { $accounts_attr }>obteña máis información</a> sobre como unirse a { -brand-name-firefox }.
