@@ -26,6 +26,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Rompa a barreira das dúas dimen
 firefox-browsers-build-sites-and-refine-your = Cree sitios e perfeccione o seu código con { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Máis información sobre { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Únase a { -brand-name-firefox } e obteña o máximo proveito de todos os produtos en calquera dispositivo.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign = Xa ten unha conta? <a { $fxa_attr }>Inicie sesión</a> ou <a { $accounts_attr }>obteña máis información</a> sobre como unirse a Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

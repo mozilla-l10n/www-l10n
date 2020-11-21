@@ -13,6 +13,7 @@ compare-shared-private-browsing-mode = Modo de navegación privada
 compare-shared-autoplay-blocking = Bloqueo de reprodución automática
 compare-shared-tab-browsing = Navegación por lapelas
 compare-shared-bookmark-manager = Xestor de marcadores
+compare-shared-automatically-fills-out-forms = Cubre automaticamente os formularios
 compare-shared-search-engine-options = Opcións de motores de busca
 compare-shared-text-to-speech = Conversión de texto a voz
 compare-shared-reader-mode = Modo lectura
@@ -39,6 +40,7 @@ compare-shared-overall-assessment = Avaliación global
 compare-shared-the-comparisons-made-here-updated = Estas comparacións fixéronse coa configuración predeterminada e coas versións de lanzamento dos navegadores, como se indica a continuación:
 # Obsolete string
 compare-shared-the-comparisons-made-here = As comparacións realizadas aquí fixéronse entre as seguintes versións de lanzamento dos navegadores:
+compare-shared-this-page-updated-semi-quarterly = Esta páxina actualízase cada mes e medio para recoller as últimas versións, pero pode que non sempre recolla as últimas actualizacións.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
