@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Produkty { -brand-name-firefox } se wuwijaju, aby wašu priwatnosć šćitali
+learn-more-about-firefox = Zgóńśo wěcej wó { -brand-name-firefox }, jogo historiji, funkcijach a misiji
 learn-more-about = Zgóńśo wěcej wó wobglědowakach a produktach { -brand-name-firefox }, kótarež z wašymi datami respektnje wobchadaju a su wuwite za priwatnośc wšuźi, źož online źośo.
-learn-more = Dalšne informacije
+learn-more-faq = Cesto stajone pšašanja { -brand-name-firefox }
 the-history-of = Historija webwobglědowakow
 firefox-has-been = { -brand-name-firefox } južo pśisamem wót zachopjeńka eksistěrujo.
 firefox-rebel-with = { -brand-name-firefox }: Rebel ze zawinu
@@ -21,6 +22,10 @@ get-the-privacy = Dostańśo priwatnosć, kótaruž se zasłužyjośo. Pólěpš
 take-your-passwords = Wzejśo swóje gronidła wšuźi sobu
 securely-access-the = Mějśo wšuźi wěsty pśistup ku gronidłam, kótarež sćo składł w { -brand-name-firefox } – samo zwenka wobglědowaka.
 choose-which-firefox = Wubjeŕśo { -brand-name-firefox-browser }, kótaryž cośo w swójej rěcy ześěgnuś
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } za { -brand-name-chromebook }
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-little-book = Kniglicki priwatnosći
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-fights-for = { -brand-name-firefox } na { -brand-name-windows } za was wójujo
 easy-migration-of = Pśeśěgniśo lažko z nastajenjami a cytańskimi znamjenjami, gaž { -brand-name-firefox } za { -brand-name-windows } ześěgujośo.
 firefox-respects-your = { -brand-name-firefox } na { -brand-name-mac-short } wašu priwatnosć respektěrujo.
