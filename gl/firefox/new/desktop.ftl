@@ -79,7 +79,17 @@ firefox-desktop-download-change-new-tab = Cambiar o deseño das novas lapelas
 firefox-desktop-download-make-firefox-your = Faga que <strong>{ -brand-name-firefox }</strong> sexa seu
 firefox-desktop-download-extensions-for-every = Extensións para todos os intereses
 firefox-desktop-download-change-up-your = Cambie a aparencia
+firefox-desktop-download-go-from-light = Pase do modo claro ao modo escuro dependendo do seu estado de ánimo ou das súas preferencias ou quizias prefira animarse cun tema personalizado con, por exemplo, unicornios de cores.
+firefox-desktop-download-tweak-your-settings = Axuste a súa configuración
+firefox-desktop-download-theres-no-need = Non te por que conformarse. Cambie a páxina das novas lapelas, a barra de busca, os marcadores e moito máis para explorar Internet da forma que queira.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Apoiado pola <strong>organización sen ánimo de lucro</strong> que se centra nas persoas
+firefox-desktop-download-challenging-the-status = Desafiando o statu quo dende 1998
 firefox-desktop-download-your-privacy-comes = A súa privacidade é o primeiro
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Continúe usando as súas características favoritas dos navegadores e <strong>descubra</strong> outras novas.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Todas as túas ferramentas favoritas de { -brand-name-google } (como Gmail e Docs) funcionan sen ningún problema en { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 

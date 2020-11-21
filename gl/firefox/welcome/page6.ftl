@@ -18,4 +18,5 @@ welcome-page6-companies-keep-finding-new = As empresas seguen atopando novas for
 welcome-page6-choose-freedom-on-every-device = Escolla a liberdade en todos os dispositivos
 welcome-page6-firefox-is-fast-and-safe-on = { -brand-name-firefox } é rápido e seguro en { -brand-name-windows }, { -brand-name-ios }, { -brand-name-android }, { -brand-name-linux } ... e en todo o resto. Merece tomar as decisións nos navegadores e dispositivos, en non que as tomen por vostede.
 welcome-page6-choose-corporate-independence = Escolla ser independente das grandes corporacións
+welcome-page6-firefox-is-the-only-major = { -brand-name-firefox } é o único gran navegador independente. { -brand-name-chrome }, { -brand-name-edge } e { -brand-name-brave } están construídos en código { -brand-name-google }, o que significa darlle a { -brand-name-google } aínda máis control sobre a Internet.
 welcome-page6-why-am-i-seeing-this = Por que estou a ver isto?
