@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } 产品旨在保护您的隐私
+learn-more-about-firefox = 详细了解 { -brand-name-firefox } 的历史、功能和使命
 learn-more-about = 详细了解 { -brand-name-firefox } 浏览器和系列产品 — 尊重您的数据，并随时随地为您的网络浏览保驾护航。
+learn-more-faq = { -brand-name-firefox } 常见问题
 the-history-of = 网页浏览器简史
 firefox-has-been = { -brand-name-firefox } 是名符其实的先驱。
 firefox-rebel-with = { -brand-name-firefox }：造反有理
@@ -22,9 +24,14 @@ get-the-privacy = 隐私是您应有的权利。浏览器默认即启用增强�
 take-your-passwords = 随身携带密码
 securely-access-the = 随时随地、安全地访问保存在 { -brand-name-firefox } 的密码——即使在浏览器以外。
 choose-which-firefox = 选择您想要下载的 { -brand-name-firefox-browser }语言版本
+firefox-more-firefox-chromebook = { -brand-name-chromebook } 版 { -brand-name-firefox-browser }
+firefox-more-while-on-chromebook = 尽管 { -brand-name-chromebook } 预装了 { -brand-name-chrome }，但是下载 { -brand-name-firefox } 并作为您的日常浏览器，其实大有裨益：
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } 是 { -brand-name-firefox } 开发流程的一场革命。我们在 2017 年构建了一款全新、闪电般快、会不断进化的浏览器。{ -brand-name-firefox-quantum } 就是 { -brand-name-firefox-browser }。
 firefox-more-little-book = 隐私口袋书
+firefox-more-you-can-reclaim = 您可以拿回您的隐私，重新掌控自己的互联网体验！这其实并不难，每个人都能做到。
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = 在任何使用 { -brand-name-firefox } 的地方访问或同步书签、密码、打开的标签页等数据。
 we-believe-everyone = 我们相信每个人都有访问互联网的权利。这就是为什么我们要在全球志愿者的帮助下，让 { -brand-name-firefox-browser }拥有超过 90 种语言版本的原因。
 firefox-fights-for = { -brand-name-firefox } 在 { -brand-name-windows } 为您而战
 easy-migration-of = 下载适用于 { -brand-name-windows } 的 { -brand-name-firefox } 后即可轻松迁移首选项和书签。
