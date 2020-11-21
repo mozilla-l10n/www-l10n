@@ -7,7 +7,6 @@
 
 firefox-products-are = { -brand-name-firefox }:s produkter är utformade för att skydda din integritet
 learn-more-about = Läs mer om { -brand-name-firefox } webbläsare och produkter som hanterar dina data med respekt och är byggda för integritet var du än är online.
-learn-more = Läs mer
 the-history-of = Webbläsarens historia
 firefox-has-been = { -brand-name-firefox } har nästan funnits sedan början.
 firefox-rebel-with = { -brand-name-firefox }: En rebell med en anledning
@@ -23,6 +22,8 @@ get-the-privacy = Få den integritet du förtjänar. Förbättrat spårningsskyd
 take-your-passwords = Ta med dina lösenord överallt
 securely-access-the = Få säkert åtkomst till lösenorden du har sparat i { -brand-name-firefox } var som helst — även utanför webbläsaren.
 choose-which-firefox = Välj vilken { -brand-name-firefox-browser } du vill ladda ner på ditt språk
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = Vi tror att alla ska ha tillgång till internet — det är därför vi gör { -brand-name-firefox-browser } tillgänglig på mer än 90 språk med hjälp av dedikerade volontärer runt om i världen.
 firefox-fights-for = { -brand-name-firefox } kämpar för dig på { -brand-name-windows }
 easy-migration-of = Enkel migrering av inställningar och bokmärken när du hämtar { -brand-name-firefox } för { -brand-name-windows }.
