@@ -91,7 +91,14 @@ firefox-desktop-download-keep-all-your = Continúe usando as súas característi
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Todas as túas ferramentas favoritas de { -brand-name-google } (como Gmail e Docs) funcionan sen ningún problema en { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Sincronice os seus dispositivos
+firefox-desktop-download-screenshots = Capturas de pantalla
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protección mellorada contra o rastrexo
+firefox-desktop-download-from-watching-a = Dende ver un titorial ata botarlle un ollo ao seu equipo, o vídeo continúa mentras fai varias tarefas á vez.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Obter { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Obter { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
