@@ -27,3 +27,4 @@ compare-shared-brand-name-brave = { -brand-name-brave }
 compare-shared-desktop = Escritorio
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
+compare-shared-compare-browsers = Comparar navegadores
