@@ -12,12 +12,20 @@ compare-shared-no = Non
 compare-shared-private-browsing-mode = Modo de navegación privada
 compare-shared-autoplay-blocking = Bloqueo de reprodución automática
 compare-shared-tab-browsing = Navegación por lapelas
+compare-shared-bookmark-manager = Xestor de marcadores
+compare-shared-search-engine-options = Opcións de motores de busca
 compare-shared-text-to-speech = Conversión de texto a voz
 compare-shared-reader-mode = Modo lectura
 compare-shared-spell-checking = Verificación ortográfica
 compare-shared-web-extensionsadd-ons = Extensións web/Complementos
+compare-shared-in-browser-screenshot-tool = Ferramenta de captura de pantalla no navegador
 compare-shared-os-availability = Dispoñibilidade para OS
+compare-shared-mobile-os-availability = Dispoñibilidade para sistemas operativos de móbiles
+compare-shared-syncs-with-mobile = Sincronización con móbiles
 compare-shared-password-management = Xestor de contrasinais
+compare-shared-primary-password = Constrasinal principal
+# Obsolete string
+compare-shared-master-password = Contrasinal mestra
 compare-shared-security-and-privacy = Seguridade e privacidade
 compare-shared-utility = Utilidade
 compare-shared-portability = Portabilidade
@@ -27,6 +35,10 @@ compare-shared-security-and-privacy-strong = Seguridade e <strong>privacidade</s
 compare-shared-utility-strong = <strong>Utilidade</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilidade</strong>
+compare-shared-overall-assessment = Avaliación global
+compare-shared-the-comparisons-made-here-updated = Estas comparacións fixéronse coa configuración predeterminada e coas versións de lanzamento dos navegadores, como se indica a continuación:
+# Obsolete string
+compare-shared-the-comparisons-made-here = As comparacións realizadas aquí fixéronse entre as seguintes versións de lanzamento dos navegadores:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
