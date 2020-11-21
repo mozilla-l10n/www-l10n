@@ -15,6 +15,9 @@ firefox-enterprise-get-firefox-for-your-enterprise = Tak'ulu' { -brand-name-fire
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Tik'ul ri <a href="{ $url }">{ -brand-name-firefox-extended-support-release } o Rapid Release</a> okik'amaya'l richin jun jikom chuqa' tz'aqät kichajinik taq tzij.
 firefox-enterprise-unmatched-data-protection = Man relik ta ruchajixik tzij — rik'in ri jutaqil taq ruk'exoj nik'atzin chawe.
+firefox-enterprise-your-data-stays-your-business = Ri taq tzij xa xe e awichin
+firefox-enterprise-deploy-when-and-how-you-want = Tatz'aqatisaj jampe' chuqa' achi'el nawajo'
+firefox-enterprise-choose-your-release-cadence = Tacha' ri rucholajem elesanïk
 firefox-enterprise-enterprise-downloads = Taq ruqasaxik { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
