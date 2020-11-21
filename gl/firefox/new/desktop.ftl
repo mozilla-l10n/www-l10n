@@ -108,10 +108,31 @@ firefox-desktop-download-from-security-to = Seguridade, noticias ou xogos, hai <
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como { -brand-name-ie } e, agora, { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa priorizando a privacidade por enriba de calquera outra cousa.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está dispoñible para todos os dispositivos, de xeito que sempre poderá levar con vostede as lapelas, o historial e os marcadores. O único que precisa é unha <a { $attrs }>conta de { -brand-name-firefox }</a>.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Xa ten o navegador, pero aínda pode sacar máis proveito de { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Vixíe os piratas informáticos con { -brand-name-firefox-monitor }, protexa os contrasinais con { -brand-name-firefox-lockwise } e moito máis.
+firefox-desktop-download-just-download-the-browser = Chega con só descargar o navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Non falta nada.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Agora remate a <strong>instalación</strong> de { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Execute</strong> o instalador que acaba de descargar.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Abra</strong> o ficheiro que acaba de descargar.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">xa non ofrece máis actualizacións de seguridade para { -brand-name-windows } { -brand-name-xp } e { -brand-name-vista }, pero poderá seguir usando { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Está empregando un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatible con { -brand-name-firefox } </a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
