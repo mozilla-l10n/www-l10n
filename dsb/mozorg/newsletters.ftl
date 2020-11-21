@@ -146,3 +146,43 @@ newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 newsletters-periodic-email-updates = Periodiske e-mailowe aktualizacije wó našom kuždolětnem mjazynarodnem filmowem wuběźowanju.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Maśo smartfon z { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Njezapasćo wažne nowosći a aktualizacije wó swojom rěźe { -brand-name-firefox-os }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Wy
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Mjasecny powěsćowy list a wósebne pśopowěźeńki wó tom, kak móžośo nejlěpše z rěda { -brand-name-firefox-os } wuwónoźeś, inkluziwnje nejnowše funkcije a nejwjelicnjejše nałoženja na { -brand-name-firefox-marketplace }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Tyźeńske pokazki wó { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Wobstarajśo se tyźeński pokazku, kak móžośo waše dožywjenja z źěłom { -brand-name-firefox } pólěpšył.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Cyńśo pla { -brand-name-mozilla } sobu
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Namakajśo nejnowše a wjelicne HTML5-nałoženja na { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = { -brand-name-firefox-os } - nowosći, pokazki, startowe informacije a źo móžośo jen kupiś.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Nowosći wó { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Nowosći wó { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Wuknjeńska seś { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Name for the newsletter in Newsletter subscription page
+newsletters-webmaker = { -brand-name-webmaker }
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }

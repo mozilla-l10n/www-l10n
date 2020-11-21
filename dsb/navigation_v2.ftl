@@ -37,6 +37,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Produktowe zlubjenje
 navigation-v2-learn-how-each-firefox-product = Zgóńśo, kak kuždy produkt { -brand-name-firefox } waše daty šćita a respektěrujo.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Registrěrujśo se za nowe konta, bźez togo aby swóju e-mailowu adresu pódał.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Šćitajśo zwisk swójogo wobglědowaka z internetom.
 navigation-v2-view-all-products = Wšykne produkty pokazaś
@@ -46,12 +47,14 @@ navigation-v2-view-all-products = Wšykne produkty pokazaś
 navigation-v2-who-we-are = Chto smy
 navigation-v2-close-who-we-are-menu = Meni „Chto smy“ zacyniś
 navigation-v2-mozilla-manifesto = Manifest { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Zgóńśo wěcej wó gódnotach a zasadach, kótarež našu misiju wjadu.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Cyńśo sobu
 navigation-v2-join-the-fight-for-a = Wójujśo z nami za strowy internet.
 navigation-v2-leadership = Wjednistwo
 navigation-v2-careers = Pówołanja
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Zgóńśo wěcej wó { -brand-name-mozilla } a problemach, kótarež su nam wažne.
 navigation-v2-more-about-mozilla = Wěcej wó { -brand-name-mozilla }
 
 ## Innovation menu
