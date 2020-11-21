@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Mae cynnych { -brand-name-firefox } wedi'u cynllunio i ddiogelu eich preifatrwydd
+learn-more-about-firefox = Dysgu rhagor am { -brand-name-firefox }, ei hanes, ei nodweddion a'i genhadaeth
 learn-more-about = Dysgwch ragor am gynnyrch { -brand-name-firefox } sy'n trin eich data â pharch ac sy'n cael eu hadeiladu ar gyfer preifatrwydd yn lle bynnag rydych yn mynd ar-lein.
-learn-more = Dysgu rhagor
+learn-more-faq = Cwestiynau Cyffredin { -brand-name-firefox }
 the-history-of = Hanes porwyr gwe
 firefox-has-been = Mae { -brand-name-firefox } wedi bod yno ers bron y dechrau.
 firefox-rebel-with = { -brand-name-firefox }: Rebel gydag achos
@@ -23,6 +24,7 @@ get-the-privacy = Cael y preifatrwydd rydych chi'n ei haeddu. Mae Diogelu rhag T
 take-your-passwords = Ewch â'ch cyfrineiriau i bob man
 securely-access-the = Sicrhewch fynediad i'r cyfrineiriau rydych wedi'u cadw yn { -brand-name-firefox } o unrhyw le - hyd yn oed y tu allan i'r porwr.
 choose-which-firefox = Dewiswch pa { -brand-name-firefox-browser } i'w lwytho i lawr yn eich iaith
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } ar gyfer { -brand-name-chromebook }
 we-believe-everyone = Credwn y dylai pawb gael mynediad i'r rhyngrwyd - dyna pam rydyn ni'n sicrhau bod y { -brand-name-firefox-browser } ar gael mewn mwy na 90 o ieithoedd gyda chymorth gwirfoddolwyr ymroddedig ledled y byd.
 firefox-fights-for = Mae { -brand-name-firefox } yn ymladd drosoch chi ar { -brand-name-windows }
 easy-migration-of = Mae'n hawdd i drosglwyddo dewisiadau a nodau tudalen pan fyddwch yn llwytho { -brand-name-firefox } { -brand-name-windows } i lawr.
