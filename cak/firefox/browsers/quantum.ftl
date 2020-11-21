@@ -16,3 +16,6 @@ firefox-doesnt-spy = Man yatrunachaj ta ri { -brand-name-firefox } pa k'amab'ey.
 super-fast = Yalan Aninäq
 get-speed-and = Tak'ulu' aninem chuqa' jikomal. { -brand-name-firefox } yalan aninäq ruma man niqojqaj ta ri asilonem.
 always-evolving = Jantape' nijalatäj
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Tawila' ronojel ri jeb'ël <a href="{ $url }">{ -brand-name-firefox } taq rub'anikil </a>.
