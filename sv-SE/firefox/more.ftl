@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox }:s produkter är utformade för att skydda din integritet
+learn-more-about-firefox = Läs mer om { -brand-name-firefox }, dess historia, funktioner och uppdrag
 learn-more-about = Läs mer om { -brand-name-firefox } webbläsare och produkter som hanterar dina data med respekt och är byggda för integritet var du än är online.
+learn-more-faq = Vanliga frågor om { -brand-name-firefox }
 the-history-of = Webbläsarens historia
 firefox-has-been = { -brand-name-firefox } har nästan funnits sedan början.
 firefox-rebel-with = { -brand-name-firefox }: En rebell med en anledning
@@ -22,8 +24,14 @@ get-the-privacy = Få den integritet du förtjänar. Förbättrat spårningsskyd
 take-your-passwords = Ta med dina lösenord överallt
 securely-access-the = Få säkert åtkomst till lösenorden du har sparat i { -brand-name-firefox } var som helst — även utanför webbläsaren.
 choose-which-firefox = Välj vilken { -brand-name-firefox-browser } du vill ladda ner på ditt språk
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } för { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Eftersom en { -brand-name-chromebook } redan har installerat { -brand-name-chrome }, kan du hämta och använda { -brand-name-firefox } som din webbläsare ger dig några fördelar
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } var en revolution i utvecklingen av { -brand-name-firefox }. År 2017 skapade vi en ny, blixtsnabb webbläsare som ständigt förbättras. { -brand-name-firefox-quantum } är { -brand-name-firefox-browser }.
+firefox-more-little-book = Liten integritetsbok
+firefox-more-you-can-reclaim = Du kan återfå din integritet och få tillbaka kontroll över din egen internetupplevelse! Det är faktiskt överraskande enkelt. Alla kan göra det.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Få åtkomst till och synkronisera dina bokmärken, lösenord, öppna flikar och mer — var du än använder { -brand-name-firefox }.
 we-believe-everyone = Vi tror att alla ska ha tillgång till internet — det är därför vi gör { -brand-name-firefox-browser } tillgänglig på mer än 90 språk med hjälp av dedikerade volontärer runt om i världen.
 firefox-fights-for = { -brand-name-firefox } kämpar för dig på { -brand-name-windows }
 easy-migration-of = Enkel migrering av inställningar och bokmärken när du hämtar { -brand-name-firefox } för { -brand-name-windows }.
