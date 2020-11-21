@@ -10,6 +10,9 @@ firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } é má
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } é <strong>máis</strong> ca un navegador
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-see-if-your-personal-information = Comprobe se a súa información persoal se viu comprometida nunha filtración de datos corporativos e rexístrese para recibir futuras alertas.
+firefox-products-check-for-breaches = Comprobe as filtracións
+firefox-products-sign-up-for-breach-alerts = Rexístrese para recibir alertas de filtracións
 firefox-products-firefox-browsers = Navegadores { -brand-name-firefox }
 firefox-products-desktop = Escritorio
 firefox-products-android = { -brand-name-android }

@@ -1,0 +1,11 @@
+# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/sync/
+
+firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-sync-your-firefox = Sincronice o seu { -brand-name-firefox } en calquera dispositivo
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Máis información para xestionar a súa { -brand-name-firefox-account }
