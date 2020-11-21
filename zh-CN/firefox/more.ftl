@@ -7,7 +7,6 @@
 
 firefox-products-are = { -brand-name-firefox } 产品旨在保护您的隐私
 learn-more-about = 详细了解 { -brand-name-firefox } 浏览器和系列产品 — 尊重您的数据，并随时随地为您的网络浏览保驾护航。
-learn-more = 详细了解
 the-history-of = 网页浏览器简史
 firefox-has-been = { -brand-name-firefox } 是名符其实的先驱。
 firefox-rebel-with = { -brand-name-firefox }：造反有理
@@ -23,6 +22,9 @@ get-the-privacy = 隐私是您应有的权利。浏览器默认即启用增强�
 take-your-passwords = 随身携带密码
 securely-access-the = 随时随地、安全地访问保存在 { -brand-name-firefox } 的密码——即使在浏览器以外。
 choose-which-firefox = 选择您想要下载的 { -brand-name-firefox-browser }语言版本
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-little-book = 隐私口袋书
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = 我们相信每个人都有访问互联网的权利。这就是为什么我们要在全球志愿者的帮助下，让 { -brand-name-firefox-browser }拥有超过 90 种语言版本的原因。
 firefox-fights-for = { -brand-name-firefox } 在 { -brand-name-windows } 为您而战
 easy-migration-of = 下载适用于 { -brand-name-windows } 的 { -brand-name-firefox } 后即可轻松迁移首选项和书签。
