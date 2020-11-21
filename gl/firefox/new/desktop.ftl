@@ -22,13 +22,23 @@ firefox-desktop-download-browser-support = Soporte do { -brand-name-firefox-brow
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Faga o que faga na Rede. <br> { -brand-name-firefox-browser } <strong>non está</strong> a vixiar.
 firefox-desktop-download-how-firefox-compares = Como se compara { -brand-name-firefox } con outros navegadores
+firefox-desktop-download-how-we-compare = Comparación con outros navegadores
+firefox-desktop-download-compare-firefox-to = Comparar { -brand-name-firefox } con:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Si
 firefox-desktop-download-no = Non
+firefox-desktop-download-autoplay-blocking = Bloqueo de reprodución automática
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dispoñibilidade para OS
+firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de pantalla no navegador
+firefox-desktop-download-primary-password = Constrasinal principal
+# Obsolete string
+firefox-desktop-download-master-password = Contrasinal mestra
+firefox-desktop-download-see-your-report = Consulte o seu informe de protección
+firefox-desktop-download-for-everyone = { -brand-name-firefox } é para todas e todos
+firefox-desktop-download-available-in-over = Dispoñible en máis de 90 idiomas e compatible con equipos { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, { -brand-name-firefox } funcionará sen ter en conta o que use ou onde estea. Asegúrese de que o sistema operativo está actualizado para conseguir a mellor experiencia.
 firefox-desktop-download-themes = Temas
 firefox-desktop-download-your-privacy-comes = A súa privacidade é o primeiro
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
