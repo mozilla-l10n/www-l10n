@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Tak'ulu' { -brand-name-firefox } pan amoloj k'ayij rik'in { -brand-name-esr } chuqa' Rapid Release
+firefox-enterprise-get-unmatched-data-protection = Tak'ulu' jun qitzij ruchajixik tzij rik'in ri taq ruk'exon { -brand-name-firefox } kichin ajk'ayij. Tiqasäx { -brand-name-esr } chuqa' Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Chijun rutzijoxkil
 firefox-enterprise-downloads = Taq qasanïk
@@ -13,6 +14,7 @@ firefox-enterprise-get-firefox-for-your-enterprise = Tak'ulu' { -brand-name-fire
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Tik'ul ri <a href="{ $url }">{ -brand-name-firefox-extended-support-release } o Rapid Release</a> okik'amaya'l richin jun jikom chuqa' tz'aqät kichajinik taq tzij.
+firefox-enterprise-unmatched-data-protection = Man relik ta ruchajixik tzij — rik'in ri jutaqil taq ruk'exoj nik'atzin chawe.
 firefox-enterprise-enterprise-downloads = Taq ruqasaxik { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
