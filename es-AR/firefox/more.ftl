@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Los productos { -brand-name-firefox } están diseñados para proteger tu <strong> privacidad </strong>
+learn-more-about-firefox = Conocé más sobre { -brand-name-firefox }, su historia, características y misión
 learn-more-about = Conocé más acerca de los navegadores de { -brand-name-firefox } y los productos que manejan tus datos con respeto y que están construidos para la privacidad en cualquier lugar donde vayas en línea.
-learn-more = Conocer más
+learn-more-faq = Preguntas frecuentes sobre { -brand-name-firefox }
 the-history-of = La historia de los navegadores web
 firefox-has-been = { -brand-name-firefox } estuvo ahí casi desde el principio.
 firefox-rebel-with = { -brand-name-firefox }: Rebelde con causa
@@ -23,6 +24,14 @@ get-the-privacy = Obtené la privacidad que te merecés. La Protección de rastr
 take-your-passwords = Llevá tus contraseñas a todas partes
 securely-access-the = Accedé de forma segura a las contraseñas que guardaste en { -brand-name-firefox } desde cualquier parte, incluso fuera del navegador.
 choose-which-firefox = Elegí qué { -brand-name-firefox-browser } vas a descargar en tu idioma
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } para { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Si bien un { -brand-name-chromebook } ya tiene { -brand-name-chrome } instalado, descargar y usar { -brand-name-firefox } como tu navegador habitual te brinda algunos beneficios
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } fue una revolución en el desarrollo de { -brand-name-firefox }. En 2017, creamos un navegador nuevo y muy rápido que mejora constantemente. { -brand-name-firefox-quantum } es { -brand-name-firefox-browser }.
+firefox-more-little-book = Pequeño libro de privacidad
+firefox-more-you-can-reclaim = ¡Podés recuperar tu privacidad y el control de tu propia experiencia en Internet! De hecho, es sorprendentemente fácil. Todos pueden hacerlo.
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Accedé y sincronizá tus marcadores, contraseñas, pestañas abiertas y mucho más, donde sea que uses { -brand-name-firefox }.
 we-believe-everyone = Creemos que todo el mundo debería tener acceso a Internet; por eso hacemos que el { -brand-name-firefox-browser } esté disponible en más de 90 idiomas con la ayuda de voluntarios dedicados de todo el mundo.
 firefox-fights-for = { -brand-name-firefox } lucha por vos en { -brand-name-windows }
 easy-migration-of = Migración sencilla de preferencias y marcadores cuando descargás { -brand-name-firefox } para { -brand-name-windows }.
