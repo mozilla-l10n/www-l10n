@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
-firefox-sync-access-and-sync = Acceda e sincronice os seus marcadores, contrasinais, pestanas abertas e moito máis; sexa onde sexa, { -brand-name-firefox }
+firefox-sync-access-and-sync = Acceda e sincronice os seus marcadores, contrasinais, lapelas abertas e moito máis; sexa onde sexa, { -brand-name-firefox }
 firefox-sync-sync-your-firefox = Sincronice o seu { -brand-name-firefox } en calquera dispositivo
 firefox-sync-privacy-made-easy = Privacidade simplificada
 firefox-sync-all-you-need = Todo o que precisa para { -brand-name-firefox-sync } é unha { -brand-name-firefox-account }

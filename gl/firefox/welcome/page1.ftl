@@ -16,6 +16,9 @@ welcome-page1-check-your-breach-report = Revise o informe de incumprimentos
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } móstralle se a súa información se filtrou nun incumprimento de datos coñecido, e lle avisa no caso de que volva a acontecer.
 welcome-page1-stay-ahead-of-hackers = Mantéñase á fronte contra os piratas informáticos
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Atope formas de protexer a súa información cos <a href="{ $security_tips }"> { -brand-name-monitor } Consellos de seguridade </a>.
 welcome-page1-stay-in-the-know = Mantéñase informado
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
