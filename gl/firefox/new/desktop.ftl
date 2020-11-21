@@ -103,8 +103,15 @@ firefox-desktop-download-get-firefox-ios = Obter { -brand-name-firefox-browser }
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = A descarga debería iniciarse automaticamente. Non se iniciou? <a id="{ $id }" href="{ $fallback_url }">Ténteo de novo.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é máis ca un navegador
 firefox-desktop-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Para instalar { -brand-name-firefox }, siga <a href="{ $url }">estas instrucións</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = O seu sistema non cumpre cos requisitos de { -brand-name-firefox }, pero pode probar unha <a href="{ $url }">destas versións</a>.
