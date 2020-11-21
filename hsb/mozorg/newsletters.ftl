@@ -90,7 +90,7 @@ newsletters-dont-miss-the-latest = Njezapasće najnowše připowědźe wo našim
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Čińće sobu
 # Name for the newsletter in Newsletter subscription page
-newsletters-insights = Dohlady
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Rozprawa wo strowosći interneta
 # Name for the newsletter in Newsletter subscription page
