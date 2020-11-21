@@ -10,6 +10,8 @@ compare-shared-yes = Si
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Non
 compare-shared-private-browsing-mode = Modo de navegación privada
+compare-shared-autoplay-blocking = Bloqueo de reprodución automática
+compare-shared-tab-browsing = Navegación por lapelas
 compare-shared-text-to-speech = Conversión de texto a voz
 compare-shared-reader-mode = Modo lectura
 compare-shared-spell-checking = Verificación ortográfica
