@@ -5,6 +5,7 @@
 newsletter-form-you-must-agree-to = Debe aceptar a política de privacidade
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = nome@example.com
+newsletter-form-select-country-or-region = Seleccionar país ou rexión
 newsletter-form-your-email-here = AQUÍ O SEU CORREO
 newsletter-form-format = Formato
 newsletter-form-html = HTML
