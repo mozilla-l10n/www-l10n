@@ -80,6 +80,14 @@ newsletters-desktop = Escritorio
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = Actualizacións por correo para os Mozillians recomendados en mozillians.org.
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = O programa precedente para as universidades (de 2008 a 2011), agora volve a lanzarse renovado co nome Firefox Student Ambassadors program.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Comunidade { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Name for the newsletter in Newsletter subscription page

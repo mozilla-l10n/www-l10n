@@ -99,7 +99,12 @@ firefox-desktop-download-from-watching-a = Dende ver un titorial ata botarlle un
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obter { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obter { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
-firefox-desktop-download-download-the-mobile = Descargue o navegador móbil de { -brand-name-firefox } para conseguir unha protección automática en todos os dispositivos.
+firefox-desktop-download-download-the-mobile = Descargue a versión para móbiles do navegador { -brand-name-firefox } para conseguir unha protección automática en todos os dispositivos.
+firefox-desktop-download-learn-about-the = Obteña máis información sobre a versión de escritorio do navegador { -brand-name-firefox } abaixo
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Seguridade, noticias ou xogos, hai <a { $attrs }>extensións para todos</a>. Engada todas as que queira ata conseguir o navegador que mellor se lle adapte.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como { -brand-name-ie } e, agora, { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa priorizando a privacidade por enriba de calquera outra cousa.
