@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Amgryptiwch eich data
 firefox-sync-your-encryption-key = Mae eich allwedd amgryptio yn parhau i fod yn gyfrinach, dim ond yn hysbys i chi a'ch dyfeisiau awdurdodedig.
 firefox-sync-feel-safe = Teimlwch yn ddiogel
 firefox-sync-we-store-your = Rydym yn cadw eich data wedi'i amgryptio ar ein gweinyddwyr fel na allwn ei ddarllen.
-start-syncing-in = Dechreuwch gydweddu mewn pedwar cam hawdd:
+firefox-sync-start-syncing-in = Cychwyn cydweddu mewn pedwar cam hawdd:
 firefox-sync-open-the-menu = Agorwch y ddewislen ar ochr dde uchaf { -brand-name-firefox } a dewis <strong> “Mewngofnodi i { -brand-name-sync } </strong>."
 firefox-sync-click-get-started = Cliciwch “<strong>Cychwyn arni</strong>” yn y tab sy'n agor.
-enter-an-email = Rhowch gyfeiriad e-bost a chyfrinair i “<strong>“Creu Cyfrif { -brand-name-firefox-account }.”</strong>”
+firefox-sync-enter-an-email = Rhowch gyfeiriad e-bost a chyfrinair i “<strong>“Creu cyfrif { -brand-name-firefox-account }.”</strong>”
 firefox-sync-click-next-to = Cliciwch <strong>“Nesaf”</strong> i anfon dilysiad at eich e-bost.
 firefox-sync-after-you-check = Ar ôl gwirio eich e-bost a chlicio'r ddolen dilysu, bydd { -brand-name-firefox } yn cychwyn cydweddu'n awtomatig yn y cefndir o hynny ymlaen.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
