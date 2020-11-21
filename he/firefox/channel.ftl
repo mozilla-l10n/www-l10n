@@ -37,6 +37,7 @@ firefox-channel-download-and-test-the-latest-desktop = הורדה ובדיקת �
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = בחינת התכונות בגרסה שעומדת לצאת, עם בניית הקדם הפצה היציבה ביותר.
 firefox-channel-release-notes = הערות שחרור
+firefox-channel-previous-nightly-builds = בניות קודמות של { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition(case: "a") }
 firefox-channel-build-test-scale-and-more = לבנות, לבדוק, להתפתח ועוד, עם הדפדפן היחיד שנבנה רק עבור מפתחים.
 # Variables:
