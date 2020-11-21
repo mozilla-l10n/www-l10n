@@ -99,6 +99,10 @@ firefox-desktop-download-from-watching-a = Dende ver un titorial ata botarlle un
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obter { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obter { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Descargue o navegador móbil de { -brand-name-firefox } para conseguir unha protección automática en todos os dispositivos.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como { -brand-name-ie } e, agora, { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa priorizando a privacidade por enriba de calquera outra cousa.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
