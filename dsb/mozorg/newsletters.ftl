@@ -106,3 +106,43 @@ newsletters-mozillians = Mozillanarje
 newsletters-email-updates-from-vouched = E-mailowe aktualizacije za zaruconych Mozillanarjow na mozillians.org.
 # Name for the newsletter in Newsletter subscription page
 newsletters-shapre-of-the-web = Staw weba
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Zastupniki studentow
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Něgajšny uniwersitowy program z lět 2008-2011, něnto skóńcony a znowego startowany ako program studentowych wjelikopósłańcow Firefox.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Zasajźćo se za internet
+# Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Testowanje nowych produktow
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Zgromaźeństwo { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Partnarje { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Mjasecny powěsćowy list, aby was wó programje partnarjow { -brand-name-firefox } běžnje informěrował.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = Studentske wjelikopóslańce za { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Mjasecny powěsćowy list wó tom, kak móžośo z { -brand-name-mozilla } na swójom pólu gromadu źěłaś.
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Nowosći { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Cytajśo wó nejnowšych funkcijach za desktopowy a mobilny { -brand-name-firefox } pśed kóńcneju wersiju.
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = { -brand-name-firefox } za { -brand-name-android } ześěgnuś
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Wobstarajśo se { -brand-name-firefox } za { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios } ześěgnuś
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = { -brand-name-firefox } za mobilne rědy ześěgnuś
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Pokazki { -brand-name-firefox-accounts }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Periodiske e-mailowe aktualizacije wó našom kuždolětnem mjazynarodnem filmowem wuběźowanju.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
