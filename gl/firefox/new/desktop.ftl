@@ -43,12 +43,28 @@ firefox-desktop-download-review-system-req = Consultar os requisitos do sistema
 firefox-desktop-download-all-your-devices = Instale { -brand-name-firefox } en todos os seus dispositivos
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Fágao <strong>todo</strong> con { -brand-name-firefox }
-firefox-desktop-download-search-smarter = Buscas máis intelixentes e máis rápidas
+firefox-desktop-download-search-smarter = Busque de forma máis intelixente e máis rápida
 firefox-desktop-download-search-from-address = Buscas dende a barra de enderezos
 firefox-desktop-download-search-engine-options = Opcións de motores de busca
 firefox-desktop-download-smart-search-suggestions = Suxestións de busca intelixentes
 firefox-desktop-download-bookmark-history = Marcadores, historial e lapelas abertas nos resultados
 firefox-desktop-download-boost-your = Aumente a súa produtividade
+firefox-desktop-download-works-with-google = Funciona cos produtos de { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Ferramenta de captura de pantalla integrada
+firefox-desktop-download-bookmarks-manager = Xestor de marcadores
+firefox-desktop-download-autosuggest-urls = Suxerencia automática de URL
+firefox-desktop-download-sync-across-devices = Sincronización entre dispositivos
+firefox-desktop-download-reader-mode = Modo lectura
+firefox-desktop-download-spell-check = Verificación ortográfica
+firefox-desktop-download-pinned-tabs = Lapelas fixadas
+firefox-desktop-download-stream-share-play = Transmita, comparta e xogue
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Bloquea a reproducción automática de vídeo e audio
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Imaxe en imaxe
+firefox-desktop-download-curated-content-on = Contido seleccionado nunha lapela nova
+firefox-desktop-download-share-links = Compartir ligazóns
+firefox-desktop-download-protect-your-privacy = Protexa a súa privacidade
 firefox-desktop-download-themes = Temas
 firefox-desktop-download-your-privacy-comes = A súa privacidade é o primeiro
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
