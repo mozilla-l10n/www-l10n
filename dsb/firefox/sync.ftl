@@ -14,7 +14,9 @@ firefox-sync-your-encryption-key = Waš koděrowański kluc pótajmstwo wóstawa
 firefox-sync-feel-safe = Cujśo se wěsty
 firefox-sync-we-store-your = Składujomy waše skoděrowane daty na swójich serwerach, až njeby my mógli je cytaś.
 firefox-sync-start-syncing-in = Synchronizěrujśo w styrich kšacach:
+firefox-sync-open-the-menu = Wócyńśo meni górjejce napšawo w { -brand-name-firefox } a wubjeŕśo <strong>„Pla { -brand-name-sync } pśizjawiś</strong>“.
 firefox-sync-click-get-started = Klikniśo na <strong>„Prědne kšace“</strong> we wócynjajucem se rejtariku.
+firefox-sync-enter-an-email = Zapódajśo e-mailowu adresu a gronidło, aby <strong>„{ -brand-name-firefox-account }załožył.“</strong>
 firefox-sync-click-next-to = Klikniśo na <strong>„Dalej“</strong>”, aby wobkšuśeńsku mailku dostał.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = Wěcej pomocy wó zastojanju wašogo { -brand-name-firefox-account }

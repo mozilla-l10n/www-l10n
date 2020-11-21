@@ -46,6 +46,7 @@ contribute-made-by-heading = Napórany wót zagórjonych luźi ako wy sćo
 ## Newsletter
 
 contribute-newsletter-heading = Hyšći njewěsty?
+contribute-newsletter-sub-heading = Dostańśo nowosći wó zgromaźeństwje a sobuźěle do swójogo postowego dochada
 
 ## Support
 

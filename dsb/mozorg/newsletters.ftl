@@ -18,6 +18,7 @@ newsletters-your-newsletter-subscription = Waš abonement powěsćowego lista jo
 newsletters-please-be-sure-to-add-our = Pšosym njezabydniśo našu adresu wótpósłanja mozilla@e.mozilla.org swójomu adresnikoju pśidaś, aby zarucył, až dostawamy se pśecej do wašogo postowego kašćika.
 newsletters-the-supplied-link-has-expired = Pódany wótkaz jo njepłaśiwy. Dostanjośo nowy wótkaz w pśiducem powěsćowem lisće.
 newsletters-something-is-amiss-with = Něco na našom systemje njejo w pórěźe! Pšosym wopytajśo pózdźej hyšći raz.
+newsletters-youre-awesome = Sćo wjelicny!
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Pšosym njezabydniśo mozilla@e.mozilla.org swójomu adresnikoju pśidaś, aby zarucył, až dostawamy se pśecej do wašogo postowego kašćika.
 newsletters-manage-your-email-preferences = Waše e-mailowe nastajenja zastojaś
 newsletters-we-love-sharing-updates = Źělimy rady aktualizacije wó wšych fantastiskich wěcach, kótarež wótměwaju se pla { -brand-name-mozilla }.
@@ -36,6 +37,7 @@ newsletters-format = Format:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } njejo płaśiwy powěsćowy list.
 newsletters-subscribe = Aboněrowaś
+newsletters-remove-me-from-all-the = Móje abonementy na toś tom boku wótwónoźeś
 newsletters-save-preferences = Nastajenja składowaś
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Zastojśo swóje <span>abonementy powěsćowych listow</span>
@@ -58,6 +60,7 @@ newsletters-were-glad-you-asked = Rědnje, až sćo se pšašał!
 newsletters-love-the-web-so-do-we = Lubujośo web? My teke!
 newsletters-we-are-sorry-but-there = Bóžko jo problem z našym systemom nastał. Pšosym wopytajśo pózdźej hyšći raz!
 newsletters-thanks-for-updating-your = Źěkujomy se za aktualizěrowanje wašych e-mailowych nastajenjow.
+newsletters-this-is-not-a-valid-email = To njejo płaśiwa e-mailowa adresa. Pšosym kontrolěrujśo pšawopis.
 newsletters-you-send-too-many-emails = Sćo pśewjele e-mailow pósłał.
 newsletters-your-content-wasnt-relevant = Wašo wopśimjeśe njejo za mnjo relewantne było.
 newsletters-your-email-design = Waš e-mailowy design jo śěžko cytajobny był.
