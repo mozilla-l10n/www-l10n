@@ -11,3 +11,7 @@ firefox-sticky-promo-meet-our-family-of = Spoznajte našo družino izdelkov
 firefox-sticky-promo-get-the-latest-firefox = Prenesite najnovejši brskalnik { -brand-name-firefox }.
 # Products List
 firefox-sticky-promo-browsers = Brskalniki
+firefox-sticky-promo-monitor = { -brand-name-monitor }
+firefox-sticky-promo-lockwise = { -brand-name-lockwise }
+firefox-sticky-promo-pocket = { -brand-name-pocket }
+firefox-sticky-promo-mozilla-vpn = { -brand-name-mozilla-vpn }

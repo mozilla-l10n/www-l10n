@@ -47,6 +47,7 @@ navigation-v2-careers = Zaposlitev
 ## Innovation menu
 
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Prenesite brskalnik { -brand-name-firefox }, ustvarjen samo za razvijalce.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
