@@ -31,6 +31,9 @@ firefox-new-download-in-another-language = Descargar noutro idioma
 firefox-new-fix-a-problem = Corrixir un problema
 firefox-new-need-help = Precisa axuda?
 firefox-new-see-whats-being-blocked = Ver o que está sendo bloqueado
+firefox-new-make-your-passwords-portable = Faga que os seus contrasinais sexan portátiles
+firefox-new-watch-for-data-breaches = Comprobe se hai filtracións de datos
+firefox-new-passwords-made-portable = Contrasinais portátiles
 firefox-new-protect-your-privacy = Protexa a súa privacidade
 firefox-new-private-browsing-clears = A <strong>Navegación privada</strong> borra o historial para mantelo en segredo de calquera que use o seu ordenador.
 firefox-new-advanced-install-options-heading = Opcións avanzadas de instalación e outras plataformas
@@ -45,9 +48,14 @@ firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Está empregando un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatible con { -brand-name-firefox } </a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-firefox-new-should-begin = A descarga debería iniciarse automaticamente. Non se iniciou? <a id="{ $id }" href="{ $fallback_url }">Ténteo de novo</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é máis ca un navegador
 firefox-new-its-privacy-and-peace-of = É tamén <strong>privacidade e tranquilidade</strong> nos móbiles.
 firefox-new-its-a-family-of-products = É unha <strong>familia de produtos</strong> que trata os seus datos persoais con respecto.
+firefox-new-its-a-community-that-believes = É <strong>unha comunidade</strong> que cre que a tecnoloxía pode mellorar.
 firefox-new-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
@@ -56,3 +64,4 @@ firefox-new-please-follow = Para instalar { -brand-name-firefox }, siga <a href=
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = O seu sistema non cumpre cos requisitos de { -brand-name-firefox }, pero pode probar unha <a href="{ $url }">destas versións</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Obteña máis información en Asistencia
