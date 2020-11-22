@@ -173,12 +173,16 @@ newsletters-take-action = Actúa en favor da Internet
 newsletters-add-your-voice = Suma a túa voz a peticións, eventos e iniciativas que loitan polo futuro da web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Probas de novos produtos
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better = Axúdanos a crear un { -brand-name-firefox } mellor para ti probando os nosos últimos produtos e funcións.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Comunidade { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Únase ós mozillianos de todo o mundo e coñeza as oportunidades que marcan a diferencia para apoiar á misión de { -brand-name-mozilla }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = Afiliados de { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+newsletters-a-monthly-newsletter-affiliates = Un boletín de información mensual para mantelo ao día do programa { -brand-name-firefox } Affiliates.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = Embaixadores estudantís de { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
@@ -187,6 +191,8 @@ newsletters-a-monthly-newsletter-ambassadors = Un boletín de información mensu
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Novas sobre { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Lea sobre as últimas características para o { -brand-name-firefox } de escritorio e móbil antes do lanzamento final.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Descargar o { -brand-name-firefox } para { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -205,16 +211,26 @@ newsletters-firefox-flicks = Flicks do { -brand-name-firefox }
 newsletters-periodic-email-updates = Actualizacións periódicas por correo sobre o noso concurso internacional de vídeos anual.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Sé o primeiro en saber cando está dispoñible { -brand-name-firefox } para dispositivos { -brand-name-ios }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = És usuario de { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Non te perdas novas e actualizacións importantes sobre o teu dispositivo { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } e vostede
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 newsletters-a-monthly-newsletter-and-special = Un boletín de información mensual e anuncios especiais sobre como sacar o máximo do seu dispositivo { -brand-name-firefox-os }, incluíndo as últimas características e as aplicacións máis interesantes de { -brand-name-firefox-marketplace }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Consellos semanais de { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Recibe un consello semanal para saber como mellorar a súa experiencia en { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Únase a { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = A maior festa de { -brand-name-mozilla } que celebra o facer e aprender na Web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
@@ -227,10 +243,16 @@ newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-and
 newsletters-keep-up-with-releases = Mantéñase ao tanto dos lanzamentos e novidades de { -brand-name-firefox } para { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Novas sobre { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Recibe información, consellos e noticias para que a túa experiencia de { -brand-name-firefox } funcione mellor.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Anuncios especiais sobre o festival anual con actividades prácticas de { -brand-name-mozilla } adicado a forxar o futuro dunha Web aberta.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Novas sobre { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Actualizacións regulares para manterte informado e activo na nosa loita por unha mellor Internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
