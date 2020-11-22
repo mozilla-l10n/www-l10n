@@ -40,6 +40,7 @@ navigation-learn-how-to-customize = Obteña máis información sobre como person
 navigation-explore-the-immersive = Navegue pola web envolvente cunhas gafas de realidade virtual.
 # Outdated string
 navigation-experience-augmented = Achéguese á realidade aumentada e virtual con { -brand-name-firefox }.
+navigation-get-together = Reúnase con outras personas na realidade virtual grazas a este espacio social en liña.
 # Outdated string
 navigation-meet-people-in-experimental = Coñeza xente nova nas salas de conversa experimentais de realidade mixta de { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = Realidade mixta de { -brand-name-mozilla }
@@ -75,6 +76,9 @@ navigation-join = Unirse
 navigation-close-join-menu = Pechar o menú Unirse
 navigation-sign-in = Iniciar sesión
 navigation-benefits = Beneficios
+navigation-protect-your-life-online = Protexa a súa vida na rede grazas a unha familia de produtos que se centran na privacidade.
+navigation-about = Quen somos
+navigation-close-about-menu = Pechar o menú Quen somos
 navigation-meet-the-technology-company = Coñeza a empresa de tecnoloxía que antepón a xente aos beneficios.
 navigation-new-features = Novas características
 navigation-save-content-absorb-knowledge = Garde contido e nútrase de coñecemento.
@@ -93,6 +97,7 @@ navigation-make-devices-connected = Faga que os dispositivos conectados a Intern
 navigation-developers = Desenvolvedores
 navigation-close-developers-menu = Pechar o menú Desenvolvedores
 navigation-test-soon-to-be-released = Probe as características que se incluirán na versión preliminar máis estable.
+navigation-developer-innovations = Innovacións de desenvolvemento
 navigation-projects-that-help-keep = Proxectos que axudan a que Internet siga estando aberta e accesible para todos.
 navigation-mixed-reality = Realidade mixta
 navigation-resources = Recursos

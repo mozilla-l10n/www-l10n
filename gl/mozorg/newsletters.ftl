@@ -83,11 +83,43 @@ newsletters-email-updates-from-vouched = Actualizacións por correo para os Mozi
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = O programa precedente para as universidades (de 2008 a 2011), agora volve a lanzarse renovado co nome Firefox Student Ambassadors program.
 # Name for the newsletter in Newsletter subscription page
+newsletters-new-product-testing = Probas de novos produtos
+# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Comunidade { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Únase ós mozillianos de todo o mundo e coñeza as oportunidades que marcan a diferencia para apoiar á misión de { -brand-name-mozilla }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Afiliados de { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = Embaixadores estudantís de { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Un boletín de información mensual sobre como colaborar con { -brand-name-mozilla } na súa universidade.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Novas sobre { -brand-name-beta }
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Únase a { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Novas sobre { -brand-name-firefox }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-news = Novas sobre { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Anuncios especiais e mensaxes do equipo dedicado a manter a Web libre e aberta.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Rede de aprendizaxe do { -brand-name-mozilla }
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Name for the newsletter in Newsletter subscription page

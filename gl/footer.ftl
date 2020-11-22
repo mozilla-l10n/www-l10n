@@ -20,18 +20,42 @@ footer-monitor = { -brand-name-monitor }
 footer-send = { -brand-name-send }
 # Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
+footer-join = Únete
+# Outdated string
+footer-sign-up = Rexistrarse
+# Outdated string
+footer-sign-in = Identificarse
+# Outdated string
+footer-benefits = Beneficios
+footer-developers = Desenvolvedores
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
+footer-nightly-for-android = { -brand-name-nightly } para { -brand-name-android }
+footer-beta-for-android = { -brand-name-beta } para { -brand-name-android }
 footer-mozilla = { -brand-name-mozilla }
+footer-company = Compañía
 # Outdated string
 footer-about = Sobre
 footer-press-center = Centro de prensa
+footer-careers = Emprego
+# Outdated string
+footer-test-new-features = Proba as novas características
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-tools = Ferramentas
+footer-resources = Recursos
+footer-contact = Contacto
+footer-product-help = Axuda do produto
+footer-support = Asistencia
+footer-file-a-bug = Arquivar un erro
+footer-community-participation-guidelines = Directrices de participación comunitaria
+footer-websites-privacy-notice = Aviso de privacidade do sitio web
 footer-websites-cookies = Cookies
 footer-websites-legal = Legal
 footer-language = Idioma
+footer-go = Ir
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

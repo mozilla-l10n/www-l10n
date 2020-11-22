@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = Soporte do { -brand-name-firefox-brow
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Faga o que faga na Rede. <br> { -brand-name-firefox-browser } <strong>non está</strong> a vixiar.
 firefox-desktop-download-how-firefox-compares = Como se compara { -brand-name-firefox } con outros navegadores
+firefox-desktop-download-get-all-the-speed = Consiga a máxima velocidade e todas as ferramentas sen ningunha invasión na súa privacidade. { -brand-name-firefox-browser } recompila tan poucos datos sobre vostede que incluso non precisamos do enderezo de correo electrónico para facer a descarga. Isto débese a que, a diferenza doutros navegadores, nós non temos ningún interese no seu recorrido pola Web.
 firefox-desktop-download-how-we-compare = Comparación con outros navegadores
 firefox-desktop-download-compare-firefox-to = Comparar { -brand-name-firefox } con:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
