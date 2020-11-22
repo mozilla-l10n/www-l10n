@@ -78,14 +78,30 @@ newsletters-added-extras = Características adicionais
 newsletters-make-firefox-do-more-with = Fai moito máis con complementos de { -brand-name-firefox }.
 newsletters-find-out-how = Descubre como!
 newsletters-about-us = Sobre nós
+newsletters-whats-mozilla-all-about = En que consiste { -brand-name-mozilla }?
 newsletters-were-glad-you-asked = Encántanos que o pregunte!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Gústalle a Internet? A nós tamén!
+# Subtitle for https://www-dev.allizom.org/newsletter/developer/
+newsletters-unlock-the-world-of-web = Desbloquea o mundo do desenvolvemento web co noso boletín informativo semanal para desenvolvedores { -brand-name-mozilla }. Cada edición ofréceche técnicas e mellores prácticas de codificación, actualizacións de { -brand-name-mdn }, información sobre tecnoloxías emerxentes, consellos sobre ferramentas para desenvolvedores e moito máis.
+# Obsolete string
+newsletters-join-thousands-of-developers = Únete a miles de desenvolvedores coma ti que están aprendendo o mellor do desenvolvemento web.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Pon máis Firefox na túa caixa de entrada.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Comproba ata onde te podes chegar na Web con consellos mensuais, trucos e información sobre Internet sobre { -brand-name-firefox }
+newsletters-we-are-sorry-but-there = Sentímolo, pero houbo un problema co noso sistema. Por favor, inténtao de novo máis tarde!
 newsletters-thanks-for-updating-your = Grazas por actualizar as súas preferencias do correo.
+newsletters-the-supplied-link-has-expired-long = A ligazón subministrada caducou ou non é válida. Recibirás un novo no seguinte boletín ou, a continuación, podes solicitar un correo electrónico coa ligazón.
+newsletters-success-an-email-has-been-sent = Perfecto! Enviouse un correo electrónico coa ligazón do teu centro de preferencias. Grazas!
+newsletters-this-is-not-a-valid-email = Este non é un enderezo de correo electrónico válido. Comprobe a ortografía.
 newsletters-you-send-too-many-emails = Envían demasiados correos.
 newsletters-your-content-wasnt-relevant = O contido non era relevante para min.
 newsletters-your-email-design = O deseño do correo era demasiado difícil de ler.
 newsletters-i-didnt-sign-up = Non me din de alta nesta subscrición.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Este enderezo de correo electrónico non está no noso sistema. Volve a revisar o teu enderezo ou <a href="{ $url }"> subscríbete aos nosos boletíns. </a>
 newsletters-back-to-email-preferences = Volver ás preferencias do correo electrónico
 newsletters-take-your-privacy = Leve a súa privacidade con vostede
 newsletters-travel-the-internet = Viaxe por Internet con protección, en todos os dispositivos.

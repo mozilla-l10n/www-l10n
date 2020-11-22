@@ -66,11 +66,13 @@ firefox-desktop-download-picture-in-picture = Imaxe en imaxe
 firefox-desktop-download-curated-content-on = Contido seleccionado nunha lapela nova
 firefox-desktop-download-share-links = Compartir ligazóns
 firefox-desktop-download-protect-your-privacy = Protexa a privacidade
+firefox-desktop-download-cryptominer-blocking = Bloqueo de criptomineiros
 firefox-desktop-download-private-browsing-mode = Modo de navegación privada
 firefox-desktop-download-individual-protections-report = Informe de proteccións individuais
 firefox-desktop-download-secure-your-personal = Protexa a información persoal
 firefox-desktop-download-built-in-password = Xestor de contrasinais integrado
 firefox-desktop-download-clear-history = Borrar historial
+firefox-desktop-download-form-autofill = Cubre automaticamente os formularios
 firefox-desktop-download-automatic-updates = Actualizacións automáticas
 firefox-desktop-download-customize-your-browser = Personalice o navegador
 firefox-desktop-download-themes = Temas
@@ -113,6 +115,9 @@ firefox-desktop-download-from-security-to = Seguridade, noticias ou xogos, hai <
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como { -brand-name-ie } e, agora, { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa priorizando a privacidade por enriba de calquera outra cousa.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = A pesar de que Internet segue medrando e cambiando, { -brand-name-firefox } continúa centrándose no dereito á privacidade. Nós chamámoslle <a { $attrs }>Promesa de datos persoais</a>: recoller menos datos, mantelos a salvo e sen segredos. { -brand-name-firefox } é o único que protexe os datos, a actividade e a vida en liña.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está dispoñible para todos os dispositivos, de xeito que sempre poderá levar consigo as lapelas, o historial e os marcadores. O único que precisa é unha <a { $attrs }>conta de { -brand-name-firefox }</a>.

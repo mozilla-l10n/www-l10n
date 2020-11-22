@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Introduza un enderezo de correo electrónico válido
+newsletter-form-your-email-address = O seu enderezo de correo electrónico
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = nome@example.com
 newsletter-form-select-country-or-region = Seleccionar país ou rexión
