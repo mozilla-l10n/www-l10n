@@ -190,6 +190,8 @@ newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 newsletters-periodic-email-updates = Actualizaciones periódicas por correo sobre nuestra competencia anual internacional de películas.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Sé el primero en saber cuándo estará disponible { -brand-name-firefox } para dispositivos { -brand-name-ios }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-smartphone-owner = ¿Dueño de un teléfono { -brand-name-firefox-os }?
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
@@ -216,6 +218,8 @@ newsletters-discover-the-latest = Descubre las últimas y más estilosas aplicac
 newsletters-firefox-os-news = Noticias, consejos e información de lanzamiento y sobre dónde comprar { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Mantente al día de los lanzamientos y las noticias sobre { -brand-name-firefox } para { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Noticias de { -brand-name-firefox }
 # Name for the newsletter in Newsletter subscription page

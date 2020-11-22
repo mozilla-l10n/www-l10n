@@ -7,7 +7,6 @@
 
 firefox-products-are = Los productos de { -brand-name-firefox } están diseñados para proteger tu privacidad
 learn-more-about = Aprende más sobre los productos y navegador { -brand-name-firefox } que gestionan tus datos con respeto y son construidos con la privacidad en mente a donde sea que vayas en línea.
-learn-more = Aprender más
 the-history-of = La historia de los navegadores web
 firefox-has-been = { -brand-name-firefox } ha estado ahí desde casi el principio.
 firefox-rebel-with = { -brand-name-firefox }: Rebelde con causa
@@ -18,6 +17,8 @@ get-the-privacy = Obtén la privacidad que mereces. La protección de seguimient
 take-your-passwords = Lleva tus contraseñas a todas partes
 securely-access-the = Accede de forma segura a contraseñas que has guardado en { -brand-name-firefox } desde cualquier parte — incluso fuera del navegador.
 choose-which-firefox = Elige qué { -brand-name-firefox-browser } descargar en tu idioma
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Accede y sincroniza tus marcadores, contraseñas, pestañas abiertas y más — en todas partes donde uses { -brand-name-firefox }.
 firefox-fights-for = { -brand-name-firefox } lucha por ti en { -brand-name-windows }
 easy-migration-of = Migración de preferencias y marcadores fácil al bajar { -brand-name-firefox } para { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } respeta tu privacidad en { -brand-name-mac-short }.
