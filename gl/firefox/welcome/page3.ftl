@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Obteña a conta gratuíta que protexe a súa privacidade. Únase a { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Non cómpre que teña conta, pero pode que queira unha.
+welcome-page3-the-firefox-browser-collects = O navegador { -brand-name-firefox } recompila tan poucos datos sobre vostede que nin precisamos do enderezo de correo electrónico. Non obstante, se o emprega para crear unha conta { -brand-name-firefox }, poderemos ampliar a protección da privacidade en liña.
 welcome-page3-sign-in = Iniciar sesión
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = Consiga que polo menos unha empresa protexa os seus datos, en lugar de filtralos.

@@ -102,6 +102,16 @@ newsletters-i-didnt-sign-up = Non me din de alta nesta subscrición.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Este enderezo de correo electrónico non está no noso sistema. Volve a revisar o teu enderezo ou <a href="{ $url }"> subscríbete aos nosos boletíns. </a>
+newsletters-im-keeping-in-touch = Prefiro manterme en contacto con { -brand-name-mozilla } a través de { -brand-name-facebook } e { -brand-name-twitter }.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Rexístrate, le e <br> mantente informado.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Rexístrarse. Le. <br> Marca a diferenza.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Aprende sobre os problemas que afectan ao teu tempo en liña.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Reciba o boletín informativo { -brand-name-mozilla } para estar informado sobre os problemas que desafían a saúde de Internet e descubrir cómo poderes colaborar.
+newsletters-your-email-preferences = As túas preferencias de correo electrónico actualizáronse correctamente.
 newsletters-back-to-email-preferences = Volver ás preferencias do correo electrónico
 newsletters-take-your-privacy = Leve a súa privacidade con vostede
 newsletters-travel-the-internet = Viaxe por Internet con protección, en todos os dispositivos.
