@@ -17,6 +17,7 @@ browsers-chromebook-dropdown-copy = Obtene { -brand-name-firefox } pro { -brand-
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Proque obtener <span>{ -brand-name-firefox }</span> pro { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Ben que un { -brand-name-chromebook } jam ha { -brand-name-chrome } installate, discargar e usar { -brand-name-firefox } como tu navigator quotidian te da plure beneficios:
+browsers-chromebook-alwayson-tracking-protection = Protection de traciamento sempre active: de ordinario, { -brand-name-firefox } face fluer le Protection contra-traciamento reinfortiate (ETP) pro proteger tu datos personal de note avisos publicitari traciatores, social traciatores e scripts minage de cryptomonetas que te seque circum le Web.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
