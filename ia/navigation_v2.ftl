@@ -76,4 +76,7 @@ navigation-v2-check-out-the-home-for-web = Discoperi le pagina principal de ress
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Discoperi le Web con le navigator { -brand-name-firefox } pro realitate virtual.
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Dona tu voce assi que le futuro del web pote audir totes.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Saper plus re le nove linguage a basse nivello, simile al assembly.
+navigation-v2-more-mozilla-innovation = Plus innovationes de { -brand-name-mozilla }
