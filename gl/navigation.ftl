@@ -30,10 +30,18 @@ navigation-learn-how-firefox-treats = Obteña información sobre como { -brand-n
 navigation-mozilla-careers = Oportunidades de emprego en { -brand-name-mozilla }
 navigation-approach-your-career = Teña un propósito claro na súa carreira profesional. Atope un traballo digno en { -brand-name-mozilla }.
 navigation-close-firefox-menu = Cerrar o menú de { -brand-name-firefox }
+navigation-get-the-browser-that-gives = O navegador que lle dá un maior control en { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
+navigation-take-firefox-and-firefox = Leve sempre consigo { -brand-name-firefox } e { -brand-name-firefox-focus }. Para { -brand-name-android } e { -brand-name-ios }.
 navigation-get-firefox = Obter { -brand-name-firefox }
 navigation-get-firefox-focus = Obter { -brand-name-firefox-focus }
 navigation-android-extensions = Extensións de { -brand-name-android }
 navigation-your-firefox-account = A súa { -brand-name-firefox-account }
+navigation-make-the-most-of-your = Aproveite ao máximo a experiencia { -brand-name-firefox } en todos os dispositivos.
+# Outdated string
+navigation-learn-how-to-customize = Obteña máis información sobre como personalizar o funcionamento de { -brand-name-firefox }.
+navigation-explore-the-immersive = Navegue pola web envolvente cuns auriculares de realidade virtual.
+# Outdated string
+navigation-experience-augmented = Achéguese á realidade aumentada e virtual con { -brand-name-firefox }.
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-playground = { -brand-name-firefox } Playground
