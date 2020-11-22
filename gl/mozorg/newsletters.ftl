@@ -99,6 +99,22 @@ newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Novas sobre { -brand-name-beta }
 # Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = Descargar o { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = Obter o { -brand-name-firefox } para { -brand-name-android }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = Descargar o { -brand-name-firefox } para { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Descargar o { -brand-name-firefox } para dispositivos móbiles
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-accounts-tips = Consellos para { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Saque o máximo proveito da { -brand-name-firefox-account }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = Flicks do { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Actualizacións periódicas por correo sobre o noso concurso internacional de vídeos anual.
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Únase a { -brand-name-mozilla }

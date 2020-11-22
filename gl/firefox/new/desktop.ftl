@@ -32,16 +32,16 @@ firefox-desktop-download-yes = Si
 firefox-desktop-download-no = Non
 firefox-desktop-download-autoplay-blocking = Bloqueo de reprodución automática
 # OS is short for "Operating System"
-firefox-desktop-download-os-availability = Dispoñibilidade para OS
+firefox-desktop-download-os-availability = Dispoñibilidade para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de pantalla no navegador
 firefox-desktop-download-primary-password = Constrasinal principal
 # Obsolete string
 firefox-desktop-download-master-password = Contrasinal mestra
-firefox-desktop-download-see-your-report = Consulte o seu informe de protección
+firefox-desktop-download-see-your-report = Consulte o informe de protección
 firefox-desktop-download-for-everyone = { -brand-name-firefox } é para todas e todos
 firefox-desktop-download-available-in-over = Dispoñible en máis de 90 idiomas e compatible con equipos { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, { -brand-name-firefox } funcionará sen ter en conta o que use ou onde estea. Asegúrese de que o sistema operativo está actualizado para conseguir a mellor experiencia.
 firefox-desktop-download-review-system-req = Consultar os requisitos do sistema
-firefox-desktop-download-all-your-devices = Instale { -brand-name-firefox } en todos os seus dispositivos
+firefox-desktop-download-all-your-devices = Instale { -brand-name-firefox } en todos os dispositivos
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Fágao <strong>todo</strong> con { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Busque de forma máis intelixente e máis rápida
