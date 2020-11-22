@@ -77,10 +77,19 @@ navigation-join = Unirse
 navigation-close-join-menu = Pechar o menú Unirse
 navigation-sign-in = Iniciar sesión
 navigation-benefits = Beneficios
-navigation-meet-the-technology-company = Coñeza a compañía de tecnoloxía que antepón
+navigation-meet-the-technology-company = Coñeza a empresa de tecnoloxía que antepón a xente aos beneficios.
+navigation-new-features = Novas características
+navigation-save-content-absorb-knowledge = Garde contido e nútrase de coñecemento.
+navigation-same-speed-and-safety = A mesma velocidade e seguridade na que confía, pero deseñado especificamente para empresas.
 # Outdated string
 navigation-add-ons = Complementos
 navigation-projects = Proxectos
+navigation-close-projects-menu = Pechar o menú Proxectos
+navigation-donate-your-voice-to = Doe a súa voz para que o recoñecemento de voz estea aberto a todos.
+navigation-machine-learning = Aprendizaxe automática
+# Outdated string
+navigation-web-of-things-iot = Internet das cousas (IoT)
+navigation-help-make-deep-learning = Contribúa a que os algoritmos de aprendizaxe profunda estean dispoñibles para o mundo do código aberto.
 navigation-resources = Recursos
 navigation-contact = Contacto
 navigation-careers = Oportunidades de emprego
