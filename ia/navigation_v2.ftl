@@ -58,14 +58,19 @@ navigation-v2-join-the-fight-for-a = Junge te al lucta pro un internet salubre.
 navigation-v2-leadership = Gruppo dirigente
 navigation-v2-meet-the-team-thats-building = Incontra le equipa que produce technologia pro un internet melior.
 navigation-v2-careers = Carrieras
+navigation-v2-work-for-a-mission-driven-updated = Labora pro un organisation guidate per un mission que face productos que antepone le gente.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Apprende re { -brand-name-mozilla } e le problemas que importa a nos.
 navigation-v2-more-about-mozilla = Saper plus re { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Innovation
+navigation-v2-close-innovation-menu = Clauder menu Innovation
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Conveni in iste spatio social plure-dimensional, interactive, online.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Installa le navigator { -brand-name-firefox } construite justo pro disveloppatores.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
