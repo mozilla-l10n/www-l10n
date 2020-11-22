@@ -49,12 +49,20 @@ newsletters-many-of-our-communications = Moitas das nosas comunicacións están 
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Únete a nós para acceder a todo un mundo de produtos, coñecementos e servizos { -brand-name-firefox } nunha soa conta! Máis información sobre as vantaxes <a href="{ $url }"> aquí </a>.
 # Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = Hai moitas formas de colaborar con { -brand-name-mozilla } e { -brand-name-firefox }. Se non atopaches o que buscabas aquí, consulta as nosas <a href="{ $url }"> páxinas comunitarias </a>.
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } non é un boletín válido
 newsletters-subscribe = Subscribirse
+newsletters-remove-me-from-all-the = Elimíname de todas as subscricións desta páxina
 newsletters-save-preferences = Gardar preferencias
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = Recuperar o correo electrónico do boletín
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Xestionar as <span>subscricións aos boletíns</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Introduce o teu enderezo de correo electrónico e enviarémosche unha ligazón ao teu centro de preferencias de correo electrónico.
 newsletters-send-me-a-link = Enviarme unha ligazón
 newsletters-youve-been-unsubscribed = Cancelou a súa subscrición.
 newsletters-were-sorry-to-see-you-go = Sentimos que se vaia.
@@ -65,8 +73,10 @@ newsletters-thanks-for-telling-us-why = Grazas por dicirnos porque se vai.
 newsletters-while-here-why-not-check = Mentres está aquí, porque non descobre algunhas características incríbeis do { -brand-name-firefox }.
 newsletters-get-up-and-go = Adiante
 newsletters-its-your-web-anywhere-you = A Web é súa a calquera lugar que vaia.
+newsletters-get-firefox-for-mobile = Obter { -brand-name-firefox } para dispositivos móbiles
 newsletters-added-extras = Características adicionais
-newsletters-find-out-how = Descubra como!
+newsletters-make-firefox-do-more-with = Fai moito máis con complementos de { -brand-name-firefox }.
+newsletters-find-out-how = Descubre como!
 newsletters-about-us = Sobre nós
 newsletters-were-glad-you-asked = Encántanos que o pregunte!
 # Headline for https://www-dev.allizom.org/newsletter/developer/

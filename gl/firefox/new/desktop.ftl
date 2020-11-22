@@ -93,6 +93,9 @@ firefox-desktop-download-keep-all-your = Continúe usando as súas característi
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Todas as súas ferramentas favoritas de { -brand-name-google } (como Gmail e Docs) funcionan sen ningún problema en { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Descargue esta extensión do navegador</a> para impedir que { -brand-name-facebook } (e { -brand-name-instagram }) o rastrexen en Internet.
 firefox-desktop-download-sync-your-devices = Sincronice os dispositivos
 firefox-desktop-download-screenshots = Capturas de pantalla
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -113,6 +116,9 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está dispoñible para todos os dispositivos, de xeito que sempre poderá levar consigo as lapelas, o historial e os marcadores. O único que precisa é unha <a { $attrs }>conta de { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Tire unha imaxe de alta resolución de calquera cousa que atope en Internet coa ferramenta de captura de pantalla integrada no navegador.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Xa ten o navegador, pero aínda pode sacar máis proveito de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Vixíe os piratas informáticos con { -brand-name-firefox-monitor }, protexa os contrasinais con { -brand-name-firefox-lockwise } e moito máis.
