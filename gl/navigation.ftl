@@ -3,11 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descargar { -brand-name-firefox }
-navigation-get-a-firefox-account = Obter unha { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = Versión de escritorio de { -brand-name-firefox-browser }
-navigation-get-the-browser-that-respects = Consiga o navegador que respecta a súa privacidade de maneira automática. En { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
+navigation-get-the-browser-that-respects = O navegador que respecta a súa privacidade de maneira automática. En { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para dispositivos móbiles
-navigation-take-speed-privacy-and = Vaia a onde vaia, leve sempre consigo velocidade, privacidade e tranquilidade. En { -brand-name-android } e { -brand-name-ios }.
+navigation-take-speed-privacy-and = Leve sempre consigo velocidade, privacidade e tranquilidade. En { -brand-name-android } e { -brand-name-ios }.
 navigation-download-for-ios = Descargar para { -brand-name-ios }
 navigation-download-for-android = Descargar para { -brand-name-android }
 navigation-ios-support = Asistencia de { -brand-name-ios }
@@ -22,11 +21,11 @@ navigation-take-the-passwords-youve = Vaia a onde vaia, leve sempre os contrasin
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } é toda unha familia de produtos deseñada para navegar pola rede de forma máis segura e intelixente.
 navigation-join-firefox = Unirse a { -brand-name-firefox }
 navigation-access-all-of-firefox = Acceda a todos os produtos de { -brand-name-firefox } cun único inicio de sesión e poderá aproveitalos ao máximo.
-navigation-meet-the-firefox-family = Coñecer a familia { -brand-name-firefox }
+navigation-meet-the-firefox-family = Coñeza a familia { -brand-name-firefox }
 navigation-firefox-blog = Blog de { -brand-name-firefox }
 navigation-read-about-new-firefox = Descubra as novas características de { -brand-name-firefox } e reciba consellos para navegar pola rede cunha maior seguridade.
 navigation-the-non-profit-behind = A organización sen ánimo de lucro que está detrás de { -brand-name-firefox } loita por unha Internet saudable para todo o mundo.
-navigation-learn-how-firefox-treats = Obteña información sobre como { -brand-name-firefox } trata con respecto os seus datos.
+navigation-learn-how-firefox-treats = Obteña información sobre como { -brand-name-firefox } respecta os datos.
 navigation-mozilla-careers = Oportunidades de emprego en { -brand-name-mozilla }
 navigation-approach-your-career = Teña un propósito claro na súa carreira profesional. Atope un traballo digno en { -brand-name-mozilla }.
 navigation-close-firefox-menu = Pechar o menú de { -brand-name-firefox }
@@ -35,7 +34,6 @@ navigation-take-firefox-and-firefox = Leve sempre consigo { -brand-name-firefox 
 navigation-get-firefox = Obter { -brand-name-firefox }
 navigation-get-firefox-focus = Obter { -brand-name-firefox-focus }
 navigation-android-extensions = Extensións de { -brand-name-android }
-navigation-your-firefox-account = A súa { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aproveite ao máximo a experiencia { -brand-name-firefox } en todos os dispositivos.
 # Outdated string
 navigation-learn-how-to-customize = Obteña máis información sobre como personalizar o funcionamento de { -brand-name-firefox }.
