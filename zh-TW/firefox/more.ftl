@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } 產品在設計時，就希望能保護您的隱私
+learn-more-about-firefox = 了解 { -brand-name-firefox }、它的歷史、功能與使命
 learn-more-about = 了解更多會在處理資料時尊重您，並且為了保護隱私而打造的 { -brand-name-firefox } 瀏覽器與相關產品。
-learn-more = 了解更多
+learn-more-faq = { -brand-name-firefox } 常見問題 FAQ
 the-history-of = 網頁瀏覽器簡史
 firefox-has-been = { -brand-name-firefox } 從一開始就與您同行。
 firefox-rebel-with = { -brand-name-firefox }：有理由的反抗軍
@@ -23,6 +24,13 @@ get-the-privacy = 加強型追蹤保護功能在每次使用瀏覽器時都自�
 take-your-passwords = 密碼隨身帶著走
 securely-access-the = 在任何地方使用儲存到 { -brand-name-firefox } 的密碼 — 瀏覽器之外也沒問題。
 choose-which-firefox = 用您的語言下載 { -brand-name-firefox-browser }
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-name-chromebook }
+firefox-more-while-on-chromebook = 雖然 { -brand-name-chromebook } 已經內建了 { -brand-name-chrome }，下載使用 { -brand-name-firefox } 做為您日常使用的瀏覽器還是有下列好處：
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } 是一場對 { -brand-name-firefox } 開發過程的革命。我們在 2017 年打造出一套全新、光速快、又會持續進化的瀏覽器。{ -brand-name-firefox-quantum } 就是 { -brand-name-firefox-browser }。
+firefox-more-little-book = 隱私小手冊
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = 在任何使用 { -brand-name-firefox } 的地方使用並同步書籤、密碼、開啟的分頁與更多資料。
 we-believe-everyone = 我們相信，每個人都應該要能夠使用網際網路的權利 — 這也是為什麼我們要與世界各地的志工配合，推出超過 90 種語言版本的 { -brand-name-firefox-browser }。
 firefox-fights-for = { -brand-name-firefox } 在 { -brand-name-windows } 為您而戰
 easy-migration-of = 安裝 { -brand-name-firefox } for { -brand-name-windows } 後即可輕鬆轉移瀏覽器設定與書籤內容。
