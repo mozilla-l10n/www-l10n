@@ -67,10 +67,17 @@ navigation-made-with-respect = Feito con respecto
 navigation-close-products-menu = Pechar o menú Produtos
 navigation-security-tips = Consellos de seguridade
 navigation-share-large-files-safely = Comparta ficheiros grandes de forma segura con ligazóns que se autodestrúen.
+navigation-save-quality-content = Garde contido de calidade dende calquera sitio. Estimule a mente estea onde estea.
 navigation-sign-up = Rexistrarse
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: rápida, sinxela e privada.
+navigation-protect-your-entire-device = Protexa o dispositivo e todas as aplicacións. Oculte a súa verdadeira localización e conecte ata 5 dispositivos. Subscríbase agora.
+# Outdated string
+navigation-connected-and-protected = Conectado e protexido
 navigation-join = Unirse
+navigation-close-join-menu = Pechar o menú Unirse
 navigation-sign-in = Iniciar sesión
 navigation-benefits = Beneficios
+navigation-meet-the-technology-company = Coñeza a compañía de tecnoloxía que antepón
 # Outdated string
 navigation-add-ons = Complementos
 navigation-projects = Proxectos
