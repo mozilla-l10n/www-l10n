@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Zaszyfruj swoje dane
 firefox-sync-your-encryption-key = Twój klucz szyfrowania jest zawsze tajny, znany tylko Tobie i upoważnionym przez Ciebie urządzeniom.
 firefox-sync-feel-safe = Czuj się bezpiecznie
 firefox-sync-we-store-your = Przechowujemy Twoje dane na naszych serwerach po zaszyfrowaniu, więc nie mamy do nich dostępu.
-start-syncing-in = Zacznij synchronizować w czterech prostych krokach:
+firefox-sync-start-syncing-in = Zacznij synchronizować w czterech prostych krokach:
 firefox-sync-open-the-menu = Otwórz menu w prawym górnym rogu { -brand-name-firefox(case: "gen") } i kliknij <strong>„Zaloguj się do { -brand-name-sync(case: "gen", capitalization: "lower") }”</strong>.
 firefox-sync-click-get-started = Kliknij <strong>„Konfiguruj”</strong> w karcie, która się otworzy.
-enter-an-email = Wpisz adres e-mail i hasło, a następnie kliknij <strong>„Utwórz { -brand-name-firefox-account(case: "acc", capitalization: "lower") }”.</strong>
+firefox-sync-enter-an-email = Wpisz adres e-mail i hasło, a następnie kliknij <strong>„Utwórz { -brand-name-firefox-account(case: "acc", capitalization: "lower") }”.</strong>
 firefox-sync-click-next-to = Kliknij <strong>„Dalej”</strong>, aby otrzymać potwierdzenie na swój adres e-mail.
 firefox-sync-after-you-check = Po sprawdzeniu poczty i kliknięciu odnośnika weryfikacyjnego, { -brand-name-firefox } zacznie automatycznie synchronizować w tle.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
