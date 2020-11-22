@@ -163,8 +163,14 @@ newsletters-email-updates-from-vouched = Actualizacións por correo para os Mozi
 newsletters-shapre-of-the-web = Forma da web
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 newsletters-news-and-information = Novidades e información sobre a saúde da web.
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Representantes estudantís
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = O programa precedente para as universidades (de 2008 a 2011), agora volve a lanzarse renovado co nome Firefox Student Ambassadors program.
+# Name for the newsletter in Newsletter subscription page
+newsletters-take-action = Actúa en favor da Internet
+# Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
+newsletters-add-your-voice = Suma a túa voz a peticións, eventos e iniciativas que loitan polo futuro da web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Probas de novos produtos
 # Name for the newsletter in Newsletter subscription page
