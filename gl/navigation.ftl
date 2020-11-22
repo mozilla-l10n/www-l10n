@@ -43,13 +43,28 @@ navigation-explore-the-immersive = Navegue pola web envolvente cuns auriculares 
 # Outdated string
 navigation-experience-augmented = Achéguese á realidade aumentada e virtual con { -brand-name-firefox }.
 # Outdated string
+navigation-meet-people-in-experimental = Coñeza xente nova nas salas de conversa experimentais de realidade mixta de { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Realidade mixta de { -brand-name-mozilla }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } achega a realidade virtual e aumentada á Web libre.
+# Outdated string
+navigation-mozilla-brings-firefox = { -brand-name-mozilla } abre { -brand-name-firefox } á realidade aumentada e virtual.
+navigation-firefox-built-just-for = { -brand-name-firefox }, deseñado para desenvolvedores.
+navigation-preview-the-latest-build = Previsualice a última versión de { -brand-name-firefox } e axúdenos a convertela na mellor.
 navigation-firefox-playground = { -brand-name-firefox } Playground
+navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
+navigation-mozilla-manifesto = Manifesto de { -brand-name-mozilla }
 navigation-menu = Menú
+navigation-check-out-the-benefits = Bote unha ollada aos beneficios
 navigation-browsers = Navegadores
+navigation-close-browsers-menu = Pechar o menú Navegadores
 navigation-download = Descargar
 navigation-extensions = Extensións
 navigation-privacy = Privacidade
+navigation-get-unmatched-data-protection = Consiga unha protección de datos inigualable coa frecuencia de actualizacións que máis lle conveña á súa organización.
+navigation-made-with-respect = Feito con respecto
+navigation-close-products-menu = Pechar o menú Produtos
 navigation-security-tips = Consellos de seguridade
 navigation-sign-up = Rexistrarse
 navigation-join = Unirse
