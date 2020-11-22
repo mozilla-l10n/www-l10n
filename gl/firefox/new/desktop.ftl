@@ -67,6 +67,7 @@ firefox-desktop-download-curated-content-on = Contido seleccionado nunha lapela 
 firefox-desktop-download-share-links = Compartir ligazóns
 firefox-desktop-download-protect-your-privacy = Protexa a privacidade
 firefox-desktop-download-private-browsing-mode = Modo de navegación privada
+firefox-desktop-download-individual-protections-report = Informe de proteccións individuais
 firefox-desktop-download-secure-your-personal = Protexa a información persoal
 firefox-desktop-download-built-in-password = Xestor de contrasinais integrado
 firefox-desktop-download-clear-history = Borrar historial
@@ -111,10 +112,11 @@ firefox-desktop-download-from-security-to = Seguridade, noticias ou xogos, hai <
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como { -brand-name-ie } e, agora, { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa priorizando a privacidade por enriba de calquera outra cousa.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está dispoñible para todos os dispositivos, de xeito que sempre poderá levar con vostede as lapelas, o historial e os marcadores. O único que precisa é unha <a { $attrs }>conta de { -brand-name-firefox }</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está dispoñible para todos os dispositivos, de xeito que sempre poderá levar consigo as lapelas, o historial e os marcadores. O único que precisa é unha <a { $attrs }>conta de { -brand-name-firefox }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Xa ten o navegador, pero aínda pode sacar máis proveito de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Vixíe os piratas informáticos con { -brand-name-firefox-monitor }, protexa os contrasinais con { -brand-name-firefox-lockwise } e moito máis.
+firefox-desktop-download-get-more-from-firefox = Descubra máis sobre { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Chega con só descargar o navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
