@@ -9,18 +9,18 @@ firefox-home-firefox-protect-your = { -brand-name-firefox }: protexa a vida en l
 firefox-home-firefox-is-more-than = { -brand-name-firefox } é máis ca un navegador. Obteña máis información sobre os produtos de { -brand-name-firefox } que xestionan os datos con respecto e que están deseñados para garantir a privacidade en calquera lugar da rede.
 firefox-home-the-browser-is-just = O navegador é só o comezo
 firefox-home-meet-our-family-of = Coñeza a nosa familia de produtos
-firefox-home-know-when-hackers-strike = Saiba cando van atacar os piratas informáticos estando un paso por diante deles
-firefox-home-start-getting-breach = Comece a recibir informes de vulneracións
-firefox-home-keep-your-passwords = Protexa os seus contrasinais en todos os dispositivos
+firefox-home-know-when-hackers-strike = Saiba cando van atacar os piratas informáticos e anticípese
+firefox-home-keep-your-passwords = Protexa os contrasinais en todos os dispositivos
 firefox-home-learn-more-about-lockwise = Máis información sobre { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Reciba o <strong>respecto</strong> que merece
-firefox-home-every-single-firefox = Cada produto de { -brand-name-firefox } respecta a nosa Promesa de datos persoais: <strong>Menos é máis. Protección. Sen segredos.</strong>
+firefox-home-every-single-firefox = Todos os produtos de { -brand-name-firefox } respectan a nosa Promesa de datos persoais: <strong>Menos é máis. Protección. Sen segredos.</strong>
 firefox-home-share-large-files-without = Comparta ficheiros grandes evitando miradas indiscretas
 firefox-home-start-sending-files = Comece a enviar ficheiros de maneira segura
+firefox-home-trade-clickbait-for = Substitúa os engadaclics por contido de calidade
 firefox-home-learn-more-about-pocket = Máis información sobre { -brand-name-pocket }
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
-firefox-home-one-login-all-your = Un inicio de sesión. Todos os seus dispositivos. Unha familia de produtos que respectan a súa <strong>privacidade</strong>.
+firefox-home-one-login-all-your = Un inicio de sesión. Todos os dispositivos. Unha familia de produtos que respectan a <strong>privacidade</strong>.
 firefox-home-join-firefox = Únase a { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Máis información sobre como unirse a { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Obter a extensión do navegador
