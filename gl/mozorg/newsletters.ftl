@@ -112,18 +112,35 @@ newsletters-get-smart-on-the-issues = Aprende sobre os problemas que afectan ao 
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Reciba o boletín informativo { -brand-name-mozilla } para estar informado sobre os problemas que desafían a saúde de Internet e descubrir cómo poderes colaborar.
 newsletters-your-email-preferences = As túas preferencias de correo electrónico actualizáronse correctamente.
+newsletters-consider-it-done = Dáo por feito
 newsletters-back-to-email-preferences = Volver ás preferencias do correo electrónico
+newsletters-here-are-a-few-things = Aquí tes algunhas cousas nas que pensar mentres agardas o teu seguinte correo electrónico.
 newsletters-take-your-privacy = Leve a súa privacidade con vostede
 newsletters-travel-the-internet = Viaxe por Internet con protección, en todos os dispositivos.
 newsletters-download-the-app = Descargar a aplicación
 newsletters-check-for-data-breaches = Comprobar as filtracións de datos
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } é un servizo gratuíto que che permite ver se participaches nunha violación de datos en liña.
 newsletters-sign-in-to-monitor = Inicie sesión en { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Coñece a nosa marca principal
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, a organización sen ánimo de lucro de { -brand-name-firefox }, pón á xente por diante dos beneficios en todo o que dicimos, creamos e facemos.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Acerca dos estándares
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-for-desktop = { -brand-name-firefox } para escritorio
+newsletters-addon-development = Desenvolvemento de complementos
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-involved = Participe
+newsletters-developer-newsletter = Boletín informativo para desenvolvedores
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = Unha guía para desenvolvedores sobre as novidades das plataformas web, as mellores prácticas, nova documentación e moito máis.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Grupo de novas o Drumbeat
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = { -brand-name-firefox } para escritorio
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Non te perdas as últimas novas sobre o noso navegador de escritorio.
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-involved = Participa
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Informe de saúde da Internet
 # Name for the newsletter in Newsletter subscription page
