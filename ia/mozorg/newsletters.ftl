@@ -7,8 +7,12 @@
 
 # Page title the subscription preferences page
 newsletters-newsletter-subscriptions = Subscriptiones a litteras de novas
+# Page titlefor https://www-dev.allizom.org/newsletter/
+newsletters-mozilla-newsletter = Littera de novas de { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Lege toto re illo in nostre <span>littera de novas</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-to-updates-and-keep = Subscribe te al actualisationes e tene te al currente con le novas de { -brand-name-mozilla }. Isto es le maniera perfecte pro tener nos in contacto!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirma de littera de novas
 newsletters-thanks-for-subscribing = Gratias de haber te inscribite!
