@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/all/
 
-whatsnew-s2d-download-firefox-for-android = Descargar { -brand-name-firefox } para { -brand-name-android } e { -brand-name-ios }
+whatsnew-s2d-download-firefox-for-android = Descargue { -brand-name-firefox } para { -brand-name-android } e { -brand-name-ios }
 whatsnew-s2d-want-privacy-on-every-device = Quere gozar de privacidade en todos os dispositivos?
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
 whatsnew-s2d-you-got-it-get-firefox-for = Fácil! Descargue a versión para móbiles de { -brand-name-firefox }.
