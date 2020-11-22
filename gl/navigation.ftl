@@ -106,6 +106,7 @@ navigation-mission = Misión
 navigation-press-center = Centro de prensa
 navigation-contact = Contacto
 navigation-careers = Oportunidades de emprego
+navigation-work-for-a-mission-driven = Traballe para unha organización que busca cumprir unha misión e que crea produtos que buscan cumprir un propósito.
 navigation-get-involved = Involúcrese
 navigation-join-the-fight-for-a = Únase á loita por unha Internet saudable.
 navigation-events = Eventos
