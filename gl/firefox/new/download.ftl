@@ -55,6 +55,7 @@ firefox-new-your-firefox-new-should-begin = A descarga debería iniciarse automa
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é máis ca un navegador
 firefox-new-its-privacy-and-peace-of = Tamén é <strong>privacidade e tranquilidade</strong> nos móbiles.
 firefox-new-its-a-family-of-products = É unha <strong>familia de produtos</strong> que respectan os datos persoais.
+firefox-new-its-everything-you-need-to = É todo o que precisa saber sobre como <strong>navegar de forma segura</strong>.
 firefox-new-its-a-community-that-believes = É <strong>unha comunidade</strong> que cre que a tecnoloxía o pode facer mellor.
 firefox-new-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
 # Variables:
