@@ -37,9 +37,46 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Ayuda a evitar que { -brand-name-facebook } recopile tus datos fuera de su sitio.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Obtén protección más allá de tu navegador, en todos tus dispositivos.
+navigation-v2-product-promise = Promesa del producto
+navigation-v2-learn-how-each-firefox-product = Descubre cómo cada producto de { -brand-name-firefox } protege y respeta tus datos.
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Regístrate para tener nuevas cuentas sin revelar tu correo electrónico.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Protege la conexión de tu navegador a Internet.
+navigation-v2-view-all-products = Ver todos los productos
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Quiénes somos
+navigation-v2-close-who-we-are-menu = Cerrar menú Quiénes somos
+navigation-v2-mozilla-manifesto = Manifiesto de { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Conoce más acerca de los valores y principios que guían nuestra misión.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Conoce a la organización sin ánimo de lucro detrás de { -brand-name-firefox } que lucha por una web mejor.
+navigation-v2-get-involved = Involúcrate
+navigation-v2-join-the-fight-for-a = Únete a la lucha por un internet saludable.
+navigation-v2-leadership = Liderazgo
+navigation-v2-meet-the-team-thats-building = Conoce al equipo que está construyendo tecnología para un internet mejor.
+navigation-v2-careers = Empleos
+navigation-v2-work-for-a-mission-driven-updated = Trabaja para una organización motivada por la misión de hacer productos que priorizan a las personas.
+navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Conoce más sobre { -brand-name-mozilla } y los problemas que nos importan.
+navigation-v2-more-about-mozilla = Más acerca de { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Innovación
+navigation-v2-close-innovation-menu = Cerrar menú Innovación
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Reúnete en este espacio social interactivo, en línea, multidimensional.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Obtén el navegador { -brand-name-firefox } creado solo para desarrolladores.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Revisa la página principal de los recursos para el desarrollador web.
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Explora la web con el navegador { -brand-name-firefox } para la realidad virtual.
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Dona tu voz para que el futuro de la web pueda escuchar a todos.
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Conoce más sobre el nuevo lenguaje de bajo nivel, parecido a ensamblador.
+navigation-v2-more-mozilla-innovation = Más innovación de { -brand-name-mozilla }
