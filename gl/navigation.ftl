@@ -37,7 +37,7 @@ navigation-android-extensions = Extensións de { -brand-name-android }
 navigation-make-the-most-of-your = Aproveite ao máximo a experiencia { -brand-name-firefox } en todos os dispositivos.
 # Outdated string
 navigation-learn-how-to-customize = Obteña máis información sobre como personalizar o funcionamento de { -brand-name-firefox }.
-navigation-explore-the-immersive = Navegue pola web envolvente cuns auriculares de realidade virtual.
+navigation-explore-the-immersive = Navegue pola web envolvente cunhas gafas de realidade virtual.
 # Outdated string
 navigation-experience-augmented = Achéguese á realidade aumentada e virtual con { -brand-name-firefox }.
 # Outdated string
@@ -48,13 +48,13 @@ navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } achega a realidade virtual e aumentada á Web libre.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } abre { -brand-name-firefox } á realidade aumentada e virtual.
-navigation-firefox-built-just-for = { -brand-name-firefox }, deseñado para desenvolvedores.
+navigation-firefox-built-just-for = { -brand-name-firefox }, deseñado especificamente para desenvolvedores.
 navigation-preview-the-latest-build = Previsualice a última versión de { -brand-name-firefox } e axúdenos a convertela na mellor.
 navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
 navigation-mozilla-manifesto = Manifesto de { -brand-name-mozilla }
 navigation-menu = Menú
-navigation-check-out-the-benefits = Bote unha ollada aos beneficios
+navigation-check-out-the-benefits = Bótelle unha ollada aos beneficios
 navigation-browsers = Navegadores
 navigation-close-browsers-menu = Pechar o menú Navegadores
 navigation-download = Descargar
@@ -78,7 +78,7 @@ navigation-benefits = Beneficios
 navigation-meet-the-technology-company = Coñeza a empresa de tecnoloxía que antepón a xente aos beneficios.
 navigation-new-features = Novas características
 navigation-save-content-absorb-knowledge = Garde contido e nútrase de coñecemento.
-navigation-same-speed-and-safety = A mesma velocidade e seguridade na que confía, pero deseñado especificamente para empresas.
+navigation-same-speed-and-safety = A mesma velocidade e seguridade na que confía, pero cun deseño enfocado especificamente ás empresas.
 # Outdated string
 navigation-add-ons = Complementos
 navigation-projects = Proxectos
@@ -92,8 +92,8 @@ navigation-help-make-deep-learning = Contribúa a que os algoritmos de aprendiza
 navigation-make-devices-connected = Faga que os dispositivos conectados a Internet sexan seguros e interoperables.
 navigation-developers = Desenvolvedores
 navigation-close-developers-menu = Pechar o menú Desenvolvedores
-navigation-test-soon-to-be-released = Probe as funcionalidades que se incluirán na versión preliminar máis estábel.
-navigation-projects-that-help-keep = Proxectos que axuden a manter Internet aberta e accesible para todos.
+navigation-test-soon-to-be-released = Probe as características que se incluirán na versión preliminar máis estable.
+navigation-projects-that-help-keep = Proxectos que axudan a que Internet siga estando aberta e accesible para todos.
 navigation-mixed-reality = Realidade mixta
 navigation-resources = Recursos
 navigation-resources-for-developers = Recursos feitos para desenvolvedores por desenvolvedores.
