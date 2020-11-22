@@ -15,7 +15,7 @@ firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } mostra cantos r
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> fai que os contrasinais que garde en { -brand-name-firefox } sexan seguras e estean dispoñibles en todos os seus dispositivos.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> avisa se sabemos que a súa información foi vítima dunha violación de datos doutra empresa.
 firefox-new-join-firefox = Únase a { -brand-name-firefox }
-firefox-new-firefox-lockwise-makes = Grazas a <strong>{ -brand-name-firefox-lockwise }</strong>, os contrasinais que garde en { -brand-name-firefox } estarán dispoñibles en todos os seus dispositivos.
+firefox-new-firefox-lockwise-makes = Grazas a <strong>{ -brand-name-firefox-lockwise }</strong>, os contrasinais que garde en { -brand-name-firefox } estarán dispoñibles en todos os dispositivos.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Descargar { -brand-name-firefox } <br>para { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Descargar { -brand-name-firefox } <br>para { -brand-name-mac }
@@ -31,11 +31,10 @@ firefox-new-download-in-another-language = Descargar noutro idioma
 firefox-new-fix-a-problem = Corrixir un problema
 firefox-new-need-help = Precisa axuda?
 firefox-new-see-whats-being-blocked = Ver o que está sendo bloqueado
-firefox-new-make-your-passwords-portable = Faga que os seus contrasinais sexan portátiles
-firefox-new-watch-for-data-breaches = Comprobe se hai filtracións de datos
+firefox-new-make-your-passwords-portable = Faga que os contrasinais sexan portátiles
 firefox-new-passwords-made-portable = Contrasinais portátiles
 firefox-new-protect-your-privacy = Protexa a súa privacidade
-firefox-new-private-browsing-clears = A <strong>Navegación privada</strong> borra o historial para mantelo en segredo de calquera que use o seu ordenador.
+firefox-new-private-browsing-clears = A <strong>Navegación privada</strong> elimina o historial para mantelo en segredo de calquera que use o ordenador.
 firefox-new-advanced-install-options-heading = Opcións avanzadas de instalación e outras plataformas
 firefox-new-just-download-the-browser = Chega con só descargar o navegador
 
