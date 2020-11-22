@@ -24,39 +24,44 @@ new-platform-download-mozilla-firefox-title = Descargue { -brand-name-mozilla } 
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Descargue { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }, o navegador de balde creado por unha organización mundial sen ánimo de lucro que ten por obxectivo que os usuarios controlen a súa vida en liña. Obteña xa { -brand-name-firefox } para { -brand-name-linux }.
+new-platform-download-mozilla-desc-linux = Descargue { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }, o navegador de balde creado por unha organización mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obteña xa { -brand-name-firefox } para { -brand-name-linux }.
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = O novo { -brand-name-firefox } para { -brand-name-linux } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de características.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
+new-platform-own-your-online-life = Na súa vida en liña manda vostede.
 new-platform-privacy-more-than = Privacidade, máis ca unha política
 new-platform-speed-meet-security = Velocidade e seguridade. { -brand-name-firefox } é dúas veces máis rápido e usa un 30% menos de memoria que { -brand-name-chrome }.
 new-platform-open-source = Código aberto
-new-platform-look-under-the-hood = Fíxese no desenvolvemento. Igual ca { -brand-name-linux }, as funcionalidades de { -brand-name-firefox } son de código aberto.
+new-platform-look-under-the-hood = Fíxese no desenvolvemento. Igual ca { -brand-name-linux }, as características de { -brand-name-firefox } son de código aberto.
 # /firefox/mac/ HTML page title
 new-platform-download-mozilla-firefox-mac = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }
+# /firefox/mac/ HTML page description
+new-platform-download-mozilla-firefox-desc-mac = Descargue { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }, o navegador de balde creado por unha organización mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obteña xa { -brand-name-firefox } para { -brand-name-mac-short }.
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
-new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -brand-name-mac-short } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de funcionalidades.
+new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -brand-name-mac-short } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de características.
 # /firefox/mac/ main page title. Span is for visually formatting.
-new-platform-firefox-respects-your = { -brand-name-firefox } respecta <span>a súa privacidade en { -brand-name-mac-short }.</span>
+new-platform-firefox-respects-your = { -brand-name-firefox } respecta <span>a privacidade en { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = A privacidade é o primeiro
 new-platform-get-speed-and-security = Velocidade e seguridade. { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os seus movementos.
 # /firefox/windows/ HTML page title
 new-platform-download-mozilla-windows = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }
+# /firefox/windows/ HTML page description
+new-platform-download-mozilla-desc-windows = Descargue { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }, o navegador de balde creado por unha organización mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obteña xa { -brand-name-firefox } para { -brand-name-windows }.
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-windows }
 # /firefox/windows/ social sharing description
-new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de funcionalidades.
+new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de características.
 # /firefox/windows/ main page title. Span is for visually formatting.
 new-platform-firefox-fights = { -brand-name-firefox } loita por vostede <span>en { -brand-name-windows }.</span>
-new-platform-firefox-moves-fast = { -brand-name-firefox } móvese rápido e coida dos seus datos, sen anuncios que o rastrexen nin demoras.
+new-platform-firefox-moves-fast = { -brand-name-firefox } é rápido e coida dos seus datos, sen anuncios que o rastrexen nin demoras.
 new-platform-common-sense-privacy = Privacidade sensata
 new-platform-live-your-life = Viva a súa vida, { -brand-name-firefox } non estará mirando. Escolla o que quere compartir e cando o quere facer.
-new-platform-seamless-setup = Configuración sen complicacións
+new-platform-seamless-setup = Configuración simple
 new-platform-easy-migration = Ao descargar { -brand-name-firefox } para { -brand-name-windows }, poderá migrar de maneira sinxela as preferencias e os marcadores.
 # span is for visual formatting and line break
 new-platform-download-firefox-for-windows = Descargar { -brand-name-firefox } <br>para { -brand-name-windows }
