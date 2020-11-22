@@ -10,4 +10,5 @@ page-title = Discargar { -brand-name-firefox-quantum }
 learn-more-about = Saper plus re { -brand-name-firefox-quantum }
 privacy-first = Confidentialitate primo
 super-fast = Super veloce
+get-speed-and = Procura te velocitate e securitate. { -brand-name-firefox } es veloce perque nos non tracia tu movimentos.
 always-evolving = Sempre in evolution

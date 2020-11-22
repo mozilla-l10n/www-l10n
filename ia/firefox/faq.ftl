@@ -58,6 +58,7 @@ does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
 # $url2 (url) - link to https://vpn.mozilla.org/
 
 related-questions-ip = Demandas correlate: Occulta { -brand-name-firefox } tu adresse IP
+who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

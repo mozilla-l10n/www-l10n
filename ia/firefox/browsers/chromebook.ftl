@@ -20,6 +20,7 @@ browsers-chromebook-while-a-chromebook = Ben que un { -brand-name-chromebook } j
 browsers-chromebook-alwayson-tracking-protection = Protection de traciamento sempre active: de ordinario, { -brand-name-firefox } face fluer le Protection contra-traciamento reinfortiate (ETP) pro proteger tu datos personal de note avisos publicitari traciatores, social traciatores e scripts minage de cryptomonetas que te seque circum le Web.
 browsers-chromebook-supporting-independent-technology = Supportante technologia independente: pois que le major parte del major navigatores es ora fluente sur { -brand-name-chromium }, il ha minor optiones que non alimenta le machina de Big Tech. { -brand-name-firefox } es supportate per un organisation non lucrative e es devote a corriger internet. Si tu usa { -brand-name-firefox }, tu face parte de isto.
 browsers-chromebook-is-it-hard = Es il difficile installar { -brand-name-firefox } pro { -brand-name-chromebook }?
+browsers-chromebook-we-wish-it = Nos volerea que illo sia plus simple, ma tu { -brand-name-chromebook } prefere retener te in le ecosystema { -brand-name-google-play }. Totevia, nos pensa que installar le navigator { -brand-name-firefox } sur tu { -brand-name-chromebook } vale le pena del effortio, e nos ha ressources pro te adjutar,si illos te besonia. Il ha duo manieras pro installar { -brand-name-firefox } sur tu apparato.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
