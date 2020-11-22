@@ -125,6 +125,10 @@ firefox-desktop-download-now-else = Agora remate a <strong>instalación</strong>
 firefox-desktop-download-now-windows = <strong>Execute</strong> o instalador que acaba de descargar.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>Abra</strong> o ficheiro que acaba de descargar.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Ten problemas? <a { $attrs }>Aquí atopará axuda para a instalación</a>.
+firefox-desktop-download-in-another-language = Descargar noutro idioma ou para outro sistema operativo.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
