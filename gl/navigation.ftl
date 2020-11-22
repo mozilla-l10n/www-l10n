@@ -15,10 +15,17 @@ navigation-android-support = Asistencia de { -brand-name-android }
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } para empresas
 navigation-strap-on-your-goggles = Poña as gafas e mergúllese na web envolvente grazas a { -brand-name-firefox-browser } para realidade virtual.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }
+navigation-watch-videos-and-browse = Vexa vídeos e navegue por Internet en { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Obteña os navegadores que se centran na súa privacidade, como sempre fixeron
+navigation-take-the-passwords-youve = Vaia a onde vaia, leve sempre os contrasinais gardados en { -brand-name-firefox }.
+# Outdated string
+navigation-firefox-is-a-whole-family = { -brand-name-firefox } é toda unha familia de produtos deseñada para navegar pola rede de forma máis segura e intelixente.
 navigation-join-firefox = Unirse a { -brand-name-firefox }
+navigation-access-all-of-firefox = Acceda a todos os produtos de { -brand-name-firefox } cun único inicio de sesión e poderá aproveitalos ao máximo.
 navigation-meet-the-firefox-family = Coñecer a familia { -brand-name-firefox }
 navigation-firefox-blog = Blog de { -brand-name-firefox }
+navigation-read-about-new-firefox = Descubra as novas características de { -brand-name-firefox } e reciba consellos para navegar pola rede cunha maior seguridade.
+navigation-the-non-profit-behind = A organización sen ánimo de lucro que está detrás de { -brand-name-firefox } loita por unha Internet saudable para todo o mundo.
 navigation-mozilla-careers = Oportunidades de emprego en { -brand-name-mozilla }
 navigation-close-firefox-menu = Cerrar o menú de { -brand-name-firefox }
 navigation-get-firefox = Obter { -brand-name-firefox }
