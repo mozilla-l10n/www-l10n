@@ -20,11 +20,10 @@ password-manager-password-magician = Mago dos contrasinais
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Rei dos contrasinais
-password-manager-no-more-try-again = Acabáronse os «ténteo de novo» cando intenta acceder a algún sitio. Inicie sesión coa súa { -brand-name-firefox-account } no seu móbil e terá todos os contrasinais con vostede. Os datos de inicio de sesión aparecerán como por arte de maxia.
 password-manager-password-champion = Campión dos contrasinais
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-password-manager-earn-your-security-gold-medal = Consiga a medalla de ouro en seguridade coa ampla gama de <a href="{ $addons }">complementos</a> de { -brand-name-firefox } para xestionar contrasinais. Escolla un dos máis populares ou atope un superior a través das puntuacións e análises de expertos da comunidade.
+password-manager-earn-your-security-gold-medal = Consiga a medalla de ouro en seguridade coa ampla gama de <a href="{ $addons }">complementos</a> de { -brand-name-firefox } para a xestión de contrasinais. Escolla un dos máis populares ou atope un superior a través das puntuacións e análises de expertos da comunidade.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mestre dos contrasinais
