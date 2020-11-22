@@ -148,4 +148,4 @@ firefox-desktop-download-interrupted = Interrompeuse a descarga, pero non está 
 firefox-desktop-download-please-follow = Para instalar { -brand-name-firefox }, siga <a href="{ $url }">estas instrucións</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-system-may-not = O seu sistema non cumpre cos requisitos de { -brand-name-firefox }, pero pode probar unha <a href="{ $url }">destas versións</a>.
+firefox-desktop-download-your-system-may-not = Quizais o seu sistema non cumpra cos requisitos de { -brand-name-firefox }, pero pode probar unha <a href="{ $url }">destas versións</a>.
