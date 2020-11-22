@@ -36,6 +36,8 @@ newsletters-subscribe = Subscriber
 newsletters-save-preferences = Salvar le preferentias
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Gere tu <span>subscriptiones al litteras de novas</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Insere tu adresse e-mail e nos te inviara un ligamine a tu centro preferentias e-mail.
 newsletters-send-me-a-link = Inviar me un ligamine
 newsletters-youve-been-unsubscribed = Tu abonamento ha essite annullate.
 newsletters-were-sorry-to-see-you-go = Nos regretta de vider te ir.
@@ -51,10 +53,14 @@ newsletters-find-out-how = Discoperi como!
 newsletters-about-us = A proposito de nos
 newsletters-were-glad-you-asked = Nos es felice que tu ha demandate!
 newsletters-thanks-for-updating-your = Gratias pro actualisar le preferentias de tu email.
+newsletters-the-supplied-link-has-expired-long = Le ligamine fornite ha expirate o non es valide. Tu recipera uno nove in le proxime littera de novas, o tu pote requirer un e-mail con le ligamine infra.
 newsletters-you-send-too-many-emails = Vos me invia troppo de messages.
 newsletters-your-content-wasnt-relevant = Vostre contento non es relevante pro me.
 newsletters-your-email-design = Le designo del email era troppo difficile a leger.
 newsletters-i-didnt-sign-up = Io non me habeva firmate pro isto.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Recipe le littera de novas de { -brand-name-mozilla } pro remaner informate re problemas defiante le salubritate de internet e discoperir como tu pote contribuer.
+newsletters-consider-it-done = Considera lo facite
 newsletters-back-to-email-preferences = Retornar al preferentias de emails
 newsletters-travel-the-internet = Viagia in Internet con protection sur tote tu apparatos.
 newsletters-download-the-app = Discarga le app
