@@ -29,7 +29,7 @@ navigation-the-non-profit-behind = A organización sen ánimo de lucro que está
 navigation-learn-how-firefox-treats = Obteña información sobre como { -brand-name-firefox } trata con respecto os seus datos.
 navigation-mozilla-careers = Oportunidades de emprego en { -brand-name-mozilla }
 navigation-approach-your-career = Teña un propósito claro na súa carreira profesional. Atope un traballo digno en { -brand-name-mozilla }.
-navigation-close-firefox-menu = Cerrar o menú de { -brand-name-firefox }
+navigation-close-firefox-menu = Pechar o menú de { -brand-name-firefox }
 navigation-get-the-browser-that-gives = O navegador que lle dá un maior control en { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Leve sempre consigo { -brand-name-firefox } e { -brand-name-firefox-focus }. Para { -brand-name-android } e { -brand-name-ios }.
 navigation-get-firefox = Obter { -brand-name-firefox }
@@ -90,7 +90,16 @@ navigation-machine-learning = Aprendizaxe automática
 # Outdated string
 navigation-web-of-things-iot = Internet das cousas (IoT)
 navigation-help-make-deep-learning = Contribúa a que os algoritmos de aprendizaxe profunda estean dispoñibles para o mundo do código aberto.
+# Outdated string
+navigation-make-devices-connected = Faga que os dispositivos conectados a Internet sexan seguros e interoperables.
+navigation-developers = Desenvolvedores
+navigation-close-developers-menu = Pechar o menú Desenvolvedores
+navigation-test-soon-to-be-released = Probe as funcionalidades que se incluirán na versión preliminar máis estábel.
+navigation-projects-that-help-keep = Proxectos que axuden a manter Internet aberta e accesible para todos.
+navigation-mixed-reality = Realidade mixta
 navigation-resources = Recursos
+navigation-resources-for-developers = Recursos feitos para desenvolvedores por desenvolvedores.
+navigation-developer-blog = Blog de desenvolvedores
 navigation-contact = Contacto
 navigation-careers = Oportunidades de emprego
 navigation-release-notes = Notas da versión
