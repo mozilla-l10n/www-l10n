@@ -73,6 +73,10 @@ newsletters-dont-miss-the-latest = Non perder le ultime annuncios circa nostre n
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Collabora
 # Name for the newsletter in Newsletter subscription page
+newsletters-insights = Discernimentos
+# Obsolete string
+newsletters-internet-health-report = Bulletin de salubritate de Internet
+# Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Scriptorio
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillianos
