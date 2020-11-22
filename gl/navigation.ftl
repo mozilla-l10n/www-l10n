@@ -5,6 +5,7 @@
 navigation-download-firefox = Descargar { -brand-name-firefox }
 navigation-get-a-firefox-account = Obter unha { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = Versión de escritorio de { -brand-name-firefox-browser }
+navigation-get-the-browser-that-respects = Consiga o navegador que respecta a súa privacidade de maneira automática. En { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para dispositivos móbiles
 navigation-download-for-ios = Descargar para { -brand-name-ios }
 navigation-download-for-android = Descargar para { -brand-name-android }
