@@ -34,6 +34,9 @@ navigation-v2-see-if-your-email-has = Comprueba si tu correo electrónico aparec
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Guarda y descubre las mejores historias de toda la web.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Ayuda a evitar que { -brand-name-facebook } recopile tus datos fuera de su sitio.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Obtén protección más allá de tu navegador, en todos tus dispositivos.
 
 ## Who We Are menu
 
