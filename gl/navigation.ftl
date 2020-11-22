@@ -66,6 +66,7 @@ navigation-get-unmatched-data-protection = Consiga unha protección de datos ini
 navigation-made-with-respect = Feito con respecto
 navigation-close-products-menu = Pechar o menú Produtos
 navigation-security-tips = Consellos de seguridade
+navigation-share-large-files-safely = Comparta ficheiros grandes de forma segura con ligazóns que se autodestrúen.
 navigation-sign-up = Rexistrarse
 navigation-join = Unirse
 navigation-sign-in = Iniciar sesión
