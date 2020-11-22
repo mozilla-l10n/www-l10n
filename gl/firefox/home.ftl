@@ -5,7 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-home-firefox-is-more-than = { -brand-name-firefox } é máis ca un navegador. Obteña máis información sobre os produtos de { -brand-name-firefox } que xestionan os seus datos con respecto e que están deseñados para garantir a privacidade en calquera lugar da rede.
+firefox-home-firefox-protect-your = { -brand-name-firefox }: protexa a vida en liña con produtos que se centran na privacidade
+firefox-home-firefox-is-more-than = { -brand-name-firefox } é máis ca un navegador. Obteña máis información sobre os produtos de { -brand-name-firefox } que xestionan os datos con respecto e que están deseñados para garantir a privacidade en calquera lugar da rede.
 firefox-home-the-browser-is-just = O navegador é só o comezo
 firefox-home-meet-our-family-of = Coñeza a nosa familia de produtos
 firefox-home-know-when-hackers-strike = Saiba cando van atacar os piratas informáticos estando un paso por diante deles
