@@ -143,8 +143,14 @@ newsletters-get-involved = Participa
 newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Informe de saúde da Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publica artigos e investigacións detalladas sobre cuestións relacionadas coa saúde en Internet e a IA de confianza, así como tamén o noso Informe anual sobre saúde en Internet.
+# Obsolete string
+newsletters-keep-up-with-our-annual = Mantente ao día coa nosa recompilación anual de investigacións e historias sobre cuestións de privacidade &amp; seguridade, apertura, inclusión dixital, descentralización e alfabetización web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = O coñecemento é poder
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = Obteña todo o coñecemento que precisa para estar máis seguro e informado en liña.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Acerca de Labs
 # Name for the newsletter in Newsletter subscription page
@@ -153,6 +159,10 @@ newsletters-desktop = Escritorio
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = Actualizacións por correo para os Mozillians recomendados en mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Forma da web
+# Description for the newsletter in Newsletter subscription page (Shape of the Web)
+newsletters-news-and-information = Novidades e información sobre a saúde da web.
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = O programa precedente para as universidades (de 2008 a 2011), agora volve a lanzarse renovado co nome Firefox Student Ambassadors program.
 # Name for the newsletter in Newsletter subscription page
