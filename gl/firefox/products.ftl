@@ -13,6 +13,7 @@ firefox-products-its-a-whole-family-of-products = É toda unha familia de produt
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } é <strong>máis</strong> ca un navegador
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-firefox-browsers = Navegadores { -brand-name-firefox }
+firefox-products-get-the-browsers-that-block = Os navegadores que bloquean automaticamente máis de 2 000 rastrexadores de datos. A Protección mellorada contra o rastrexo vén predifinida en todos os navegadores { -brand-name-firefox }.
 firefox-products-desktop = Escritorio
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }

@@ -50,6 +50,7 @@ compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
 compare-shared-download-firefox = Descargar { -brand-name-firefox }
 compare-shared-download-firefox-browser = Descargar { -brand-name-firefox-browser }
+compare-shared-download-the-app = Descargar a aplicación
 compare-shared-desktop = Escritorio
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }

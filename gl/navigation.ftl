@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descargar { -brand-name-firefox }
+navigation-get-a-firefox-account = Consigue unha conta de { -brand-name-firefox }
 navigation-firefox-browser-for-desktop = Versión de escritorio de { -brand-name-firefox-browser }
 navigation-get-the-browser-that-respects = O navegador que respecta a súa privacidade de maneira automática. En { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para dispositivos móbiles
@@ -34,6 +35,7 @@ navigation-take-firefox-and-firefox = Leve sempre consigo { -brand-name-firefox 
 navigation-get-firefox = Obter { -brand-name-firefox }
 navigation-get-firefox-focus = Obter { -brand-name-firefox-focus }
 navigation-android-extensions = Extensións de { -brand-name-android }
+navigation-your-firefox-account = A túa conta de { -brand-name-firefox }
 navigation-make-the-most-of-your = Aproveite ao máximo a experiencia { -brand-name-firefox } en todos os dispositivos.
 # Outdated string
 navigation-learn-how-to-customize = Obteña máis información sobre como personalizar o funcionamento de { -brand-name-firefox }.

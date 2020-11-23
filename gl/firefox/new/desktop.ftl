@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Si
 firefox-desktop-download-no = Non
 firefox-desktop-download-autoplay-blocking = Bloqueo de reprodución automática
+firefox-desktop-download-blocks-social-trackers = Bloquea rastrexadores de redes sociais
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dispoñibilidade para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de pantalla no navegador

@@ -49,6 +49,7 @@ new-platform-firefox-respects-your = { -brand-name-firefox } respecta <span>a pr
 new-platform-privacy-comes-first = A privacidade é o primeiro
 new-platform-get-speed-and-security = Velocidade e seguridade. { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os seus movementos.
 new-platform-block-trackers = Bloquear rastrexadores
+new-platform-be-the-master-of-your = Convértete no dono do teu dominio cun rigoroso bloqueo de contido. Bloquea todos os rastros e rastrexadores.
 # /firefox/windows/ HTML page title
 new-platform-download-mozilla-windows = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }
 # /firefox/windows/ HTML page description
