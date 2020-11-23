@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = Demandas frequente re { -brand-name-firefox }
+whether-you-searched-privacy = Si tu recercava un veloce navigator que protege tu confidentialitate, iste demandas frequente es hic pro responder al major parte del questiones pressante correlate a { -brand-name-firefox }.
 what-is-firefox = Que es { -brand-name-firefox }?
 
 # Variables:
