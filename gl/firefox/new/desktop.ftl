@@ -43,18 +43,19 @@ firefox-desktop-download-master-password = Contrasinal mestra
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos a publicidade que te rastrexa e ti navegas máis rápido.
 firefox-desktop-download-ads-are-distracting = A publicidade molesta e impide que as páxinas carguen rápido. Ademais, os rastrexadores vixían cada movemento que fas na Internet. O navegador Firefox bloquea automaticamente a maioría de rastrexadores, sen ter que indagar na configuración de seguridade.
 firefox-desktop-download-see-your-report = Consulta o informe de protección
-firefox-desktop-download-for-everyone = { -brand-name-firefox } é para todas e todos
-firefox-desktop-download-available-in-over = Dispoñible en máis de 90 idiomas e compatible con equipos { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, { -brand-name-firefox } funcionará sen ter en conta o que use ou onde estea. Asegúrese de que o sistema operativo está actualizado para conseguir a mellor experiencia.
+firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
+firefox-desktop-download-available-in-over = Dispoñíbel en máis de 90 idiomas e compatíbel con equipos { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, o { -brand-name-firefox } funcionará sen ter en conta o que usas ou onde esteas. Asegúrate de que o sistema operativo está actualizado para conseguires a mellor experiencia.
 firefox-desktop-download-review-system-req = Consultar os requisitos do sistema
-firefox-desktop-download-all-your-devices = Instale { -brand-name-firefox } en todos os dispositivos
+firefox-desktop-download-all-your-devices = Instala o { -brand-name-firefox } en todos os dispositivos
+firefox-desktop-download-take-your-privacy = Nunca te esquezas da privacidade. Os navegadores Firefox para { -brand-name-ios } e { -brand-name-android } teñen a mesma configuración de privacidade para impedir que os rastrexadores te sigan pola Internet, dá igual donde esteas.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-it-all = Fágao <strong>todo</strong> con { -brand-name-firefox }
-firefox-desktop-download-search-smarter = Busque de forma máis intelixente e máis rápida
+firefox-desktop-download-do-it-all = Faino <strong>todo</strong> co { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Busca de forma máis intelixente e máis rápida
 firefox-desktop-download-search-from-address = Buscas dende a barra de enderezos
 firefox-desktop-download-search-engine-options = Opcións de motores de busca
 firefox-desktop-download-smart-search-suggestions = Suxestións de busca intelixentes
 firefox-desktop-download-bookmark-history = Marcadores, historial e lapelas abertas nos resultados
-firefox-desktop-download-boost-your = Aumente a produtividade
+firefox-desktop-download-boost-your = Aumenta a produtividade
 firefox-desktop-download-works-with-google = Funciona cos produtos de { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Ferramenta de captura de pantalla integrada
 firefox-desktop-download-bookmarks-manager = Xestor de marcadores
@@ -63,7 +64,7 @@ firefox-desktop-download-sync-across-devices = Sincronización entre dispositivo
 firefox-desktop-download-reader-mode = Modo lectura
 firefox-desktop-download-spell-check = Verificación ortográfica
 firefox-desktop-download-pinned-tabs = Lapelas fixadas
-firefox-desktop-download-stream-share-play = Transmita, comparta e xogue
+firefox-desktop-download-stream-share-play = Transmite, comparte e xoga
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Bloquea a reproducción automática de vídeo e audio
 # Picture-in-Picture is a feature names and so is capitalized in English
