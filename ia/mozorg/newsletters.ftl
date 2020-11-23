@@ -21,7 +21,12 @@ newsletters-please-be-sure-to-add-our = Per favor esse secur de adder nostre adr
 newsletters-the-supplied-link-has-expired = Le ligamine supplite ha expirate. Tu recipera uno altere in le littera de novas proxime.
 newsletters-something-is-amiss-with = Il ha alcun problema con nostre systema, pardono! Per favor reproba plus tarde.
 newsletters-youre-awesome = Tu es stupende!
+newsletters-and-were-not-just-saying = E nos lo dice non solo perque tu ha fidite a nos tu adresse e-mail.
+newsletters-please-be-sure-to-add-mozillaemozillaorg = Per favor verifica de adder mozilla@e.mozilla.org a tu libro del adresses pro ser secur que nos sempre attinge tu cassa de ingresso.
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } tocca un varietate de importante problemas.
+newsletters-open-your-inbox-and-your = Aperi tu cassa de ingresso (e tu corde) ancora plus: perspice altere argumentos que nos coperi.
 newsletters-manage-your-email-preferences = Gere le preferentias de tu email
+newsletters-this-page-is-in-maintenance = Iste pagina es in modo mantenentia e es temporarimente indisponibile.
 newsletters-set-your-preferences-below = Defini tu preferentias in infra pro assecurar te que tu recipe sempre le novas que tu desira.
 # Form field label
 newsletters-your-email-address = Tu adresse de e-mail:
