@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
 
 # HTML page title
-features-independent-firefox-a-different = { -brand-name-firefox }, un navegador diferente para o noso tempo. Navegue libremente.
+features-independent-firefox-a-different = { -brand-name-firefox }, un navegador diferente para o noso tempo. Navega libre.
 # HTML page description
 features-independent-browse-the-internet = Navegue pola Web como debe ser... libre, seguro e accesíbel para todos. Declare a súa independencia en liña.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }. un rebelde con causa
