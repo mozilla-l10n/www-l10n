@@ -7,21 +7,21 @@
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
-nightly-whatsnew-youve-just-been = Acaba de actualizarse a { -brand-name-firefox-nightly } { $version }!
-nightly-whatsnew-your-firefox-nightly = Actualizouse o seu { -brand-name-firefox-nightly }.
+nightly-whatsnew-youve-just-been = Acabas de actualizarte ao { -brand-name-firefox-nightly } { $version }!
+nightly-whatsnew-your-firefox-nightly = Actualizouse o { -brand-name-firefox-nightly }.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-4-to-5-weeks = Cada 4 ou 5 semanas, lánzase unha nova versión principal de { -brand-name-firefox } e como consecuencia, a versión de { -brand-name-nightly } tamén se renova.
+nightly-whatsnew-every-4-to-5-weeks = Cada 4 ou 5 semanas, lánzase unha nova versión principal do { -brand-name-firefox } e como consecuencia, a versión do { -brand-name-nightly } tamén se renova.
 # Obsolete
-nightly-whatsnew-every-6-to-8-weeks = Cada 6 ou 8 semanas, lánzase unha nova versión principal de { -brand-name-firefox } e como consecuencia, a versión { -brand-name-nightly } tamén se renova.
-nightly-whatsnew-this-is-a-good = É unha boa ocasión para darlle as grazas por axudarnos a mellorar { -brand-name-firefox } e para sinalarlle onde pode atopar documentación, canles de comunicación e sitios de noticias relacionados con { -brand-name-nightly } que poden ser do seu interese.
+nightly-whatsnew-every-6-to-8-weeks = Cada 6 ou 8 semanas, lánzase unha nova versión principal do { -brand-name-firefox } e como consecuencia, a versión do { -brand-name-nightly } tamén se renova.
+nightly-whatsnew-this-is-a-good = É unha boa ocasión para darche as grazas por axudarnos a mellorar o { -brand-name-firefox } e para indicarche donde podes atopar documentación, canles de comunicación e sitios de novas relacionados co { -brand-name-nightly } que poden ser do teu interese.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to = Se quere estar ao día sobre o que ocorre con { -brand-name-nightly } e a súa comunidade, pode comezar por ler o noso <a href="{ $blog }">blog</a> e por seguirnos en <a href="{ $twitter }">{ -brand-name-twitter }</a>.
+nightly-whatsnew-if-you-want-to = Se queres estar ao día sobre o que ocorre co { -brand-name-nightly } e a súa comunidade, podes comezar por ler o noso <a href="{ $blog }">blog</a> e por seguirnos en <a href="{ $twitter }">{ -brand-name-twitter }</a>.
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Quere saber que características da plataforma pode poñer a proba en { -brand-name-nightly } e aínda non pode ver noutras canles de { -brand-name-firefox }? Pode botarlles unha ollada na páxina de <a href="{ $mdn }">Características experimentais</a> en <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+nightly-whatsnew-want-to-know-which = Queres saber que características da plataforma pode poñer a proba no { -brand-name-nightly } e aínda non podes ver noutras canles do { -brand-name-firefox }? Podes botarlles unha ollada na páxina de <a href="{ $mdn }">Características experimentais</a> en <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Detecta algún erro, comportamento inesperado ou perdas de compatibilidade web? Gustaríanos recompilalos en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para asegurarnos de que non aparezan na versión final. Karma adicional se engade as palabras clave <em>{ -brand-name-nightly }-community</em> no informe de erros!
+nightly-whatsnew-do-you-experience = Detectas algún erro, comportamento inesperado ou perdas de compatibilidade web? Gustaríanos recompilalos en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para asegurarnos de que non aparezan na versión final. Karma adicional se engades as palabras clave <em>{ -brand-name-nightly }-community</em> no informe de erros!
 nightly-whatsnew-go-community = Veña, comunidade!
