@@ -5,12 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } para { -brand-name-firefox } | Evita que { -brand-name-facebook } vexa os sitios web que visita.
-facebook-container-millions-of-people-around = Millóns de persoas en todo mundo confían nos navegadores web de { -brand-name-firefox } para { -brand-name-android }, { -brand-name-ios } e o escritorio. Rápido. Privado. Descárgueo agora!
-facebook-container-facebook-well-contained-keep = Manteña a súa privacidade, poña límites a { -brand-name-facebook }.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } para o { -brand-name-firefox } | Non deixes que o { -brand-name-facebook } vexa os sitios web que visitas.
+facebook-container-millions-of-people-around = Millóns de persoas de todo mundo confían nos navegadores { -brand-name-firefox } para { -brand-name-android }, { -brand-name-ios } e ordenadores de escritorio. Velocidade e privacidade. Descárgao xa.
+facebook-container-facebook-well-contained-keep = Ponlle límites a { -brand-name-facebook }. Non ten por que saber sobre a túa vida.
 facebook-container-get-the-facebook-container = Obter a extensión { -brand-name-facebook-container }
-facebook-container-download-firefox-and-get-the = Descargue { -brand-name-firefox } e obteña a extensión { -brand-name-facebook-container }
-facebook-container-only-available-for-desktop = Actualmente, a extensión { -brand-name-facebook-container } só está dispoñible para a versión de escritorio de { -brand-name-firefox }.
+facebook-container-download-firefox-and-get-the = Descarga o { -brand-name-firefox } e obtén a extensión { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Actualmente, a extensión { -brand-name-facebook-container } só está dispoñible para a versión de escritorio do { -brand-name-firefox }.
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
