@@ -125,6 +125,9 @@ firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está di
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Tire unha imaxe de alta resolución de calquera cousa que atope en Internet coa ferramenta de captura de pantalla integrada no navegador.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>impide automaticamente que moitos rastrexadores de terceiros</a> recompilen e vendan a túa actividade na rede.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Xa ten o navegador, pero aínda pode sacar máis proveito de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Vixíe os piratas informáticos con { -brand-name-firefox-monitor }, protexa os contrasinais con { -brand-name-firefox-lockwise } e moito máis.
@@ -145,6 +148,9 @@ firefox-desktop-download-now-mac = <strong>Abra</strong> o ficheiro que acaba de
 firefox-desktop-download-get-help = Ten problemas? <a { $attrs }>Aquí atopará axuda para a instalación</a>.
 firefox-desktop-download-in-another-language = Descargar noutro idioma ou para outro sistema operativo.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Se che aparece un aviso de que a aplicación que estás a intentar descargar non está verificada por { -brand-name-microsoft }, preme «Instalar de todas formas» ou <a { $attrs }>cambia a configuración de recomendación de aplicacións</a>.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">xa non ofrece máis actualizacións de seguridade para { -brand-name-windows } { -brand-name-xp } e { -brand-name-vista }, pero poderá seguir usando { -brand-name-firefox }.
