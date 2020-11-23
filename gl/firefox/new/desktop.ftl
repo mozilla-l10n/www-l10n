@@ -10,19 +10,19 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Descargar o navegador Firefox. Rápido, privado e gratuíto. De { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Obteña { -brand-name-firefox }, un navegador web libre respaldado por { -brand-name-mozilla }, unha organización sen ánimo de lucro dedicada á saúde e a privacidade na Internet. Dispoñíbel en { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } { -brand-name-ios }.
-firefox-desktop-download-og-title = Descargue o { -brand-name-firefox } máis rápido
-firefox-desktop-download-og-desc = Con cargas de páxinas máis rápidas, menor uso de memoria e repleto de funcións, velaquí o novo { -brand-name-firefox }.
+firefox-desktop-download-meta-desc = Obtén o { -brand-name-firefox }, un navegador web libre respaldado por { -brand-name-mozilla }, unha fundación sen ánimo de lucro dedicada á saúde e privacidade na Internet. Dispoñíbel para { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
+firefox-desktop-download-og-title = Descargar o { -brand-name-firefox } máis rápido nunca visto
+firefox-desktop-download-og-desc = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten unha morea de características.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Obeña o navegador que protexe o que é importante
+firefox-desktop-download-get-the-browser = Obtén o navegador que protexe o que é importante
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Non hai políticas de privacidade escuras nin portas traseiras para os anunciantes. Só un navegador extremamente rápido que non vende a vostede como produto.
+firefox-desktop-download-no-shady = Non hai políticas de privacidade escuras nin portas traseiras para os anunciantes. Só un navegador extremadamente rápido que non vende os teus datos.
 firefox-desktop-download-download-options = Opcións de descarga e outros idiomas
-firefox-desktop-download-browser-support = Soporte do { -brand-name-firefox-browser }
+firefox-desktop-download-browser-support = Asistencia do navegador Firefox
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Faga o que faga na Rede. <br> { -brand-name-firefox-browser } <strong>non está</strong> a vixiar.
-firefox-desktop-download-how-firefox-compares = Como se compara { -brand-name-firefox } con outros navegadores
-firefox-desktop-download-get-all-the-speed = Consiga a máxima velocidade e todas as ferramentas sen ningunha invasión na súa privacidade. { -brand-name-firefox-browser } recompila tan poucos datos sobre vostede que incluso non precisamos do enderezo de correo electrónico para facer a descarga. Isto débese a que, a diferenza doutros navegadores, nós non temos ningún interese no seu recorrido pola Web.
+firefox-desktop-download-do-what-you-do = Fai o que queiras na rede.<br> O Firefox <strong>non</strong> te vixía.
+firefox-desktop-download-how-firefox-compares = Comparación do { -brand-name-firefox } con outros navegadores
+firefox-desktop-download-get-all-the-speed = Consigue a máxima velocidade e todas as ferramentas sen ningunha invasión na privacidade. O Firefox recompila tan poucos datos que incluso non precisamos do enderezo de correo electrónico para facer a descarga. Isto débese a que, a diferenza doutros navegadores, nós non temos ningún interese no teu recorrido pola rede.
 firefox-desktop-download-how-we-compare = Comparación con outros navegadores
 firefox-desktop-download-compare-firefox-to = Comparar { -brand-name-firefox } con:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }

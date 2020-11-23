@@ -28,7 +28,7 @@ new-platform-download-mozilla-desc-linux = Descargue { -brand-name-mozilla } { -
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-linux }
 # /firefox/linux/ social sharing description
-new-platform-faster-page-loading-linux = O novo { -brand-name-firefox } para { -brand-name-linux } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de características.
+new-platform-faster-page-loading-linux = O novo { -brand-name-firefox } para { -brand-name-linux } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten unha morea de características.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
 new-platform-own-your-online-life = Na súa vida en liña manda vostede.
@@ -43,7 +43,7 @@ new-platform-download-mozilla-firefox-desc-mac = Descargue { -brand-name-mozilla
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
-new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -brand-name-mac-short } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de características.
+new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -brand-name-mac-short } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten unha morea de características.
 # /firefox/mac/ main page title. Span is for visually formatting.
 new-platform-firefox-respects-your = { -brand-name-firefox } respecta <span>a privacidade en { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = A privacidade é o primeiro
@@ -57,7 +57,7 @@ new-platform-download-mozilla-desc-windows = Descargue { -brand-name-mozilla } {
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-windows }
 # /firefox/windows/ social sharing description
-new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten un montón de características.
+new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten unha morea de características.
 # /firefox/windows/ main page title. Span is for visually formatting.
 new-platform-firefox-fights = { -brand-name-firefox } loita por vostede <span>en { -brand-name-windows }.</span>
 new-platform-firefox-moves-fast = { -brand-name-firefox } é rápido e coida dos seus datos, sen anuncios que o rastrexen nin demoras.
