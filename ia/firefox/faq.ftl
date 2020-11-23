@@ -60,6 +60,7 @@ does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = "{ -brand-name-firefox } non ha un VPN (rete virtual private) integrate, ma il ha duo productos producite per { -brand-name-mozilla }/{ -brand-name-firefox } que tu pote usar ultra al private { -brand-name-firefox-browser } que pote proteger sia tu navigator (<a href=""{ $url }"">{ -brand-name-firefox-private-network }</a>) sia le connexion wifi (<a href=""{ $url2 }"">{ -brand-name-mozilla-vpn }</a>) de tu apparato, e tu adresse IP."
 related-questions-ip = Demandas correlate: Occulta { -brand-name-firefox } tu adresse IP
 who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 
