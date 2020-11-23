@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = I prodotti { -brand-name-firefox } sono progettati per proteggere la tua privacy
+learn-more-about-firefox = Scopri di più su { -brand-name-firefox }, la sua storia, le sue caratteristiche e la sua missione
 learn-more-about = Scopri di più sui browser e i prodotti { -brand-name-firefox }, che trattano i tuoi dati con rispetto e sono sviluppati con un occhio di riguardo alla privacy per la tua navigazione online.
-learn-more = Ulteriori informazioni
+learn-more-faq = FAQ di { -brand-name-firefox }
 the-history-of = La storia dei browser web
 firefox-has-been = { -brand-name-firefox } c'è stato fin dagli inizi.
 firefox-rebel-with = { -brand-name-firefox }: l’idealista ribelle
@@ -23,6 +24,9 @@ get-the-privacy = Ottieni la privacy che meriti. Tutela automaticamente la tua p
 take-your-passwords = Porta le tue password sempre con te
 securely-access-the = Accedi in tutta sicurezza alle password salvate in { -brand-name-firefox } dovunque, anche all’esterno del browser.
 choose-which-firefox = Scegli quale { -brand-name-firefox-browser } scaricare nella tua lingua
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-little-book = Il piccolo libro della privacy
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = Crediamo che tutti debbano avere accesso a Internet, per questo { -brand-name-firefox-browser } è disponibile in più di 90 lingue grazie all’aiuto di volontari da tutto il mondo.
 firefox-fights-for = { -brand-name-firefox } si batte per te su { -brand-name-windows }
 easy-migration-of = La migrazione di preferenze e segnalibri è semplice quando scarichi { -brand-name-firefox } per { -brand-name-windows }.
