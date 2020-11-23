@@ -27,6 +27,8 @@ newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } tocca un vari
 newsletters-open-your-inbox-and-your = Aperi tu cassa de ingresso (e tu corde) ancora plus: perspice altere argumentos que nos coperi.
 newsletters-manage-your-email-preferences = Gere le preferentias de tu email
 newsletters-this-page-is-in-maintenance = Iste pagina es in modo mantenentia e es temporarimente indisponibile.
+newsletters-to-update-your-email-preferences = Pro actualisar tu preferentias e-mail retenta in un breve tempore. Gratias!
+newsletters-we-love-sharing-updates = Nos ama compartir le actualitates circa tote le grandiose cosas occurrente a { -brand-name-mozilla }.
 newsletters-set-your-preferences-below = Defini tu preferentias in infra pro assecurar te que tu recipe sempre le novas que tu desira.
 # Form field label
 newsletters-your-email-address = Tu adresse de e-mail:
