@@ -12,7 +12,7 @@
 firefox-desktop-download-meta-title = Descargar o navegador Firefox. Rápido, privado e gratuíto. De { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Obtén o { -brand-name-firefox }, un navegador web libre respaldado por { -brand-name-mozilla }, unha fundación sen ánimo de lucro dedicada á saúde e privacidade na Internet. Dispoñíbel para { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 firefox-desktop-download-og-title = Descargar o { -brand-name-firefox } máis rápido nunca visto
-firefox-desktop-download-og-desc = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, usa menos a memoria e ten unha morea de características.
+firefox-desktop-download-og-desc = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtén o navegador que protexe o que é importante
 # shady is slang which suggests something is untrustworthy
