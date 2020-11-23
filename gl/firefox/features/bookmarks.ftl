@@ -12,24 +12,24 @@ features-bookmarks-easily-organize-your-bookmarks = Organiza facilmente os marca
 features-bookmarks-better-bookmarks = Mellores marcadores
 features-bookmarks-dont-agonize-lovers-of = Tranquilidade, amante dos marcadores. Poderás organizalos co { -brand-name-firefox }.
 # File means to save (that bookmark).
-features-bookmarks-file-that-bookmark = Gardar ese marcador
+features-bookmarks-file-that-bookmark = Garda ese marcador
 # Dial in means to access/use (the bookmarks).
 features-bookmarks-get-your-faves-all-sorted = Organiza os teus favoritos coa icona da estrela e engade nomes e cartafoles personalizados. Na barra de ferramentas de marcadores terás todas as túas ligazóns favoritas.
 # Fly here means to have your bookmark go wherever you go.
-features-bookmarks-fly-with-that-bookmark = Leva sempre os marcadores contigo
+features-bookmarks-fly-with-that-bookmark = Leva sempre contigo ese marcador
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Leve consigo os seus favoritos. Use { -brand-name-firefox-sync } para acceder aos seus marcadores en todos os seus dispositivos, dende o escritorio ata o móbil. Ou probe <a href="{ $url }">{ -brand-name-pocket }</a> para gardar calquera artigo ou páxina web e volver a velo máis tarde, incluso sen Internet.
-features-bookmarks-customize-that-bookmark = Personalice ese marcador
+features-bookmarks-take-your-favorites-on = Os teus favoritos, vaias onde vaias. Usa { -brand-name-firefox-sync } para acceder aos marcadores en todos os teus dispositivos, dende o ordenador ata o móbil. Tamén podes probar <a href="{ $url }">{ -brand-name-pocket }</a> para gardar calquera artigo ou páxina web e volver a velo máis tarde, incluso sen Internet.
+features-bookmarks-customize-that-bookmark = Personaliza ese marcador
 # Obsolete string
 # Futz with means to spend a lot of time on something.
-features-bookmarks-futz-with-that-bookmark = Adminístreos como queira
+features-bookmarks-futz-with-that-bookmark = Pasa tempo con ese marcador
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Xestione coidadosamente os marcadores cun dos moitos <a href="{ $url }">complementos</a> que o permiten: capturas de páxinas completas, barras laterais de acceso rápido ou marcadores totalmente privados.
+features-bookmarks-practice-your-precision = Xestiona coidadosamente os marcadores cun dos moitos <a href="{ $url }">complementos</a> que o permiten: capturas de páxinas completas, barras laterais de acceso rápido ou marcadores totalmente privados.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Pode xestionar coidadosamente os seus marcadores empregando un dos <a href="{ $url }">complementos</a> dedicados a súa xestión, dende os que capturan toda a páxina ata os que garanten a privacidade das súas seleccións máis persoais.
+features-bookmarks-practice-your-exactitude = Xestiona coidadosamente os marcadores cun dos moitos <a href="{ $url }">complementos</a> que o permiten: capturas de páxinas completas, barras laterais de acceso rápido ou marcadores totalmente privados.
