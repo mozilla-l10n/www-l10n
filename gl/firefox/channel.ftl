@@ -8,10 +8,10 @@
 firefox-channel-desktop = Escritorio
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
-firefox-channel-take-a-browse-on-the-wild-side = Experimente unha navegación máis temeraria.
-firefox-channel-be-among-the-first-to-explore = Sexa dos primeiros en probar as futuras versións de { -brand-name-firefox } para escritorio, { -brand-name-android } e { -brand-name-ios }.
-firefox-channel-see-something-that-isnt-working = Algo non funciona como debería? Infórmenos.
-firefox-channel-file-a-bug-now = Abra un bug
+firefox-channel-take-a-browse-on-the-wild-side = Navega polo lado máis salvaxe.
+firefox-channel-be-among-the-first-to-explore = Sé un dos primeiros en probar as próximas versións de { -brand-name-firefox } para escritorio, para { -brand-name-android } e para { -brand-name-ios }.
+firefox-channel-see-something-that-isnt-working = Algo non funciona como debería? Infórmanos.
+firefox-channel-file-a-bug-now = Informar dun erro
 firefox-channel-tips-for-filing-a-bug = Consellos para abrir un bug
 firefox-channel-try-new-features-in-a-pre = { -brand-name-firefox } | Probe as novas funcionalidades na versión preliminar do navegador para { -brand-name-android }
 firefox-channel-download-and-test-future = Descargue e probe as futuras versións de { -brand-name-firefox } para escritorio, { -brand-name-android } e { -brand-name-ios }.
