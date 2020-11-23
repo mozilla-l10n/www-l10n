@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Các sản phẩm của { -brand-name-firefox } được thiết kế để bảo vệ quyền riêng tư của bạn
+learn-more-about-firefox = Tìm hiểu thêm về { -brand-name-firefox }, lịch sử, tính năng và sứ mệnh của nó
 learn-more-about = Tìm hiểu thêm về các trình duyệt và sản phẩm của { -brand-name-firefox } xử lý dữ liệu của bạn một cách tôn trọng và được xây dựng để bảo vệ quyền riêng tư ở mọi nơi bạn trực tuyến.
-learn-more = Tìm hiểu thêm
+learn-more-faq = Câu hỏi thường gặp về { -brand-name-firefox }
 the-history-of = Lịch sử của các trình duyệt web
 firefox-has-been = { -brand-name-firefox } đã ở đó gần như ngay từ đầu.
 firefox-rebel-with = { -brand-name-firefox }: Nổi loạn với một lý do
@@ -23,6 +24,14 @@ get-the-privacy = Nhận được sự riêng tư mà bạn xứng đáng. Trìn
 take-your-passwords = Mang mật khẩu của bạn đi khắp mọi nơi
 securely-access-the = Truy cập an toàn các mật khẩu mà bạn đã lưu trong { -brand-name-firefox } từ mọi nơi — ngay cả bên ngoài trình duyệt.
 choose-which-firefox = Chọn { -brand-name-firefox-browser } để tải xuống bằng ngôn ngữ của bạn
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } dành cho { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Mặc dù { -brand-name-chromebook } đã được cài đặt { -brand-name-chrome }, việc tải xuống và sử dụng { -brand-name-firefox } làm trình duyệt truy cập sẽ cung cấp cho bạn một số lợi ích
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } là một cuộc cách mạng trong phát triển { -brand-name-firefox }. Vào năm 2017, chúng tôi đã tạo ra một trình duyệt mới, nhanh như chớp và không ngừng cải tiến. { -brand-name-firefox-quantum } chính là { -brand-name-firefox-browser }.
+firefox-more-little-book = Cuốn sách nhỏ về quyền riêng tư
+firefox-more-you-can-reclaim = Bạn có thể đòi lại quyền riêng tư của mình và giành lại quyền kiểm soát đối với trải nghiệm internet của riêng bạn! Nó thực sự dễ dàng một cách đáng ngạc nhiên. Mọi người đều có thể làm được.
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Truy cập và đồng bộ hóa dấu trang, mật khẩu, thẻ đang mở và hơn thế nữa — ở mọi nơi bạn sử dụng { -brand-name-firefox }.
 we-believe-everyone = Chúng tôi tin rằng mọi người đều phải có quyền truy cập Internet — đó là lý do tại sao chúng tôi cung cấp { -brand-name-firefox-browser } với hơn 90 ngôn ngữ với sự trợ giúp của các tình nguyện viên tận tụy trên khắp thế giới.
 firefox-fights-for = { -brand-name-firefox } chiến đấu vì bạn trên { -brand-name-windows }
 easy-migration-of = Dễ dàng di chuyển các tùy chọn và dấu trang khi bạn tải xuống { -brand-name-firefox } dành cho { -brand-name-windows }.
