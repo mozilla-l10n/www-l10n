@@ -164,6 +164,10 @@ newsletters-join-mozilla = Čińće pola { -brand-name-mozilla } sobu
 newsletters-maker-party = Party webdesignerow
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Wotkryjće najnowše a wulkotne HTML5-nałoženja na { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = { -brand-name-firefox-os } - nowinki, pokiwy, startowe informacije a hdźe móžeće jón kupić.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -174,6 +178,8 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 newsletters-mozilla-news = Nowinki wo { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Wosebite připowědźe a powěsće wot teama, kotrež su za to myslene, web swobodny a wotewrjeny dźeržeć.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = Wuknjenska syć { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
