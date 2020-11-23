@@ -14,18 +14,18 @@ facebook-container-only-available-for-desktop = Actualmente, a extensión { -bra
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Vaia a <a href="{ $url }">{ $link_copy }</a> para obter a versión de escritorio de { -brand-name-firefox }.
+facebook-container-visit-to-get-for-desktop = Obtén a versión de escritorio do { -brand-name-firefox } en <a href="{ $url }">{ $link_copy }</a>.
 # Outdated string
-facebook-container-the-facebook-container-extension = A extensión { -brand-name-facebook-container } Extension non está dispoñíbel para os dispositivos móbiles.
-facebook-container-get-firefox-android-ios = Obteña { -brand-name-firefox } para { -brand-name-android } e { -brand-name-ios }.
+facebook-container-the-facebook-container-extension = A extensión { -brand-name-facebook-container } non está dispoñíbel para dispositivos móbiles.
+facebook-container-get-firefox-android-ios = Obter o { -brand-name-firefox } para { -brand-name-android } e { -brand-name-ios }.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Probe <strong>{ -brand-name-firefox-focus }</strong>, o navegador para a privacidade para { -brand-name-android } e { -brand-name-ios }.
-facebook-container-opt-out-on-your-terms = Vostede estabelece as regras
+facebook-container-try-firefox-focus-the-privacy = Proba o <strong>{ -brand-name-firefox-focus }</strong>, o navegador con máis privacidade para { -brand-name-android } e { -brand-name-ios }.
+facebook-container-opt-out-on-your-terms = Ti estabeleces as regras
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } pode seguir case toda a súa actividade web e ligala a súa identidade en { -brand-name-facebook }. Se isto lle parece excesivo, a extensión <a href="{ $fbcontainer }">{ -brand-name-facebook-container }</a> illa a súa identidade nunha lapela contedor separada, dificultado que { -brand-name-facebook } o siga mentres navega pola web.
-facebook-container-install-and-contain = Instale e conteña
+facebook-container-facebook-can-track-almost = O { -brand-name-facebook } pode rastrexar case toda a túa actividade na Internet e vencellala á túa identidade nesta rede social. Se isto che parece demasiado, a <a href="{ $fbcontainer }">extensión { -brand-name-facebook-container }</a> illa a túa identidade nunha lapela de contedor diferente, complicándolle ao { -brand-name-facebook } o rastrexamento polo resto da rede.
+facebook-container-install-and-contain = Instálaa e faite co control
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-installing-the-extension-is = Instalar a <a href="{ $fbcontainer }">extensión</a> é moi fácil e, unha vez activada, abrirá { -brand-name-facebook } nunha lapela azul cada vez que o use. Así poderá seguir navegando e gozando de { -brand-name-facebook } con normalidade. Isto non impedirá que { -brand-name-facebook } poida enviarlle anuncios e recomendacións no seu sitio, pero dificultará que poida recoller información <strong>fora de { -brand-name-facebook }</strong> e enviarlle anuncios e mensaxes.
