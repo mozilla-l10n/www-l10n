@@ -20,6 +20,7 @@ newsletters-your-newsletter-subscription = Tu inscription al littera de novas es
 newsletters-please-be-sure-to-add-our = Per favor esse secur de adder nostre adresse de expedition: mozilla@e.mozilla.org a tu libro de adresse pro assecurar nos sempre de attinger tu cassa de entrata.
 newsletters-the-supplied-link-has-expired = Le ligamine supplite ha expirate. Tu recipera uno altere in le littera de novas proxime.
 newsletters-something-is-amiss-with = Il ha alcun problema con nostre systema, pardono! Per favor reproba plus tarde.
+newsletters-youre-awesome = Tu es stupende!
 newsletters-manage-your-email-preferences = Gere le preferentias de tu email
 newsletters-set-your-preferences-below = Defini tu preferentias in infra pro assecurar te que tu recipe sempre le novas que tu desira.
 # Form field label
@@ -76,6 +77,8 @@ newsletters-get-involved = Collabora
 newsletters-insights = Discernimentos
 # Obsolete string
 newsletters-internet-health-report = Bulletin de salubritate de Internet
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Saper es poter
 # Name for the newsletter in Newsletter subscription page
 newsletters-desktop = Scriptorio
 # Name for the newsletter in Newsletter subscription page
