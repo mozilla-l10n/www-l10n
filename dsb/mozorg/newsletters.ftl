@@ -178,6 +178,8 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 newsletters-mozilla-news = Nowosći wó { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Wósebne píipowěźeńki a powěsći wót teama, kótarež su za to myslone, web lichy a wótwórjony źaržaś.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = Wuknjeńska seś { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
