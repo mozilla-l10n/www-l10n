@@ -60,6 +60,7 @@ newsletters-added-extras = Altere additivos
 newsletters-find-out-how = Discoperi como!
 newsletters-about-us = A proposito de nos
 newsletters-were-glad-you-asked = Nos es felice que tu ha demandate!
+newsletters-we-are-sorry-but-there = Nos regretta, ma il habeva un problema con nostre systema. Per favor retenta plus tarde
 newsletters-thanks-for-updating-your = Gratias pro actualisar le preferentias de tu email.
 newsletters-the-supplied-link-has-expired-long = Le ligamine fornite ha expirate o non es valide. Tu recipera uno nove in le proxime littera de novas, o tu pote requirer un e-mail con le ligamine infra.
 newsletters-you-send-too-many-emails = Vos me invia troppo de messages.
