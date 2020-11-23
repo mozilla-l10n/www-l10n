@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } taq tikojil yenuk'un richin nikichajij ri awichinanem
-learn-more = Tetamäx ch'aqa' chik
+learn-more-faq = { -brand-name-firefox } Jutaqil K'utunïk
 the-history-of = Kinatab'al ajk'amaya'l taq okik'amaya'l
 firefox-has-been = { -brand-name-firefox } chi ri' xk'oje' toq ronojel xtz'ukutäj.
 firefox-rebel-with = { -brand-name-firefox }: Man nunimaj ta tzij xa k'o jun aruma
@@ -17,6 +17,13 @@ its-a-lightning = Jun anin ruchi' jay richin ütz retamab'al ajk'amaya'l.
 get-the-browsers = Ke'ak'ulu' ri taq okik'amaya'l nab'ey nuya' ruq'ij ri awichinanem — jantape' ke ri kib'anon.
 take-your-passwords = Xab'akuchi' ke'ak'waj ri ewan taq atzij
 choose-which-firefox = Tacha' achike { -brand-name-firefox-browser } nawajo' naqasaj pan ach'ab'äl
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } richin { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Jun { -brand-name-chromebook } k'o chik { -brand-name-chrome } ruyakon richin niqasäx chuqa' nokisäx { -brand-name-firefox } ruma chi awokik'amaya'l nub'än jujun taq rutzil chawäch:
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } jun jaloj pa rub'anikil { -brand-name-firefox }. Pa 2017, xqatz'ük jun k'ak'a' okik'amaya'l yalan aninäq, ri jutaqil nrutzilaj ri'. { -brand-name-firefox-quantum } ja ri { -brand-name-firefox-browser }.
+firefox-more-little-book = Ko'öl Ruwuj Ichinanem
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Katok chuqa' ke'axima' ri taq awetab'al, jaqäl ewan taq atzij chuqa' ch'aqa' chik — xab'akuchi' nawokisaj { -brand-name-firefox }.
 firefox-fights-for = { -brand-name-firefox } nich'ayon chawäch pa { -brand-name-windows }
 easy-migration-of = Toq naqasaj { -brand-name-firefox } richin { -brand-name-windows }, man k'ayew ta richin xke'aq'axaj ri taq awajowab'al chuqa' taq yaketal.
 firefox-respects-your = { -brand-name-firefox } nuq'ejelaj awichinanem pa { -brand-name-mac-short }.

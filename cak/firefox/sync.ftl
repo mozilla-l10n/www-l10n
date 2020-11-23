@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Tewäx rusik'ixik atzij
 firefox-sync-your-encryption-key = K'a ewäl ri ruk'u'x atzij richin ewan rusik'ixik, xa xe rat chuqa' ri taq awokisab'al ketaman ruwa.
 firefox-sync-feel-safe = Tana' ri jikomal
 firefox-sync-we-store-your = Yeqayäk ri ewan kisik'ixik taq atzij pa ruk'u'x qasamaj richin man yojtikïr ta niqasik'ij.
-start-syncing-in = Pa kaji' koköj taq xak xkaximon qa:
+firefox-sync-start-syncing-in = Pa kaji' koköj taq xak xkaximon qa:
 firefox-sync-open-the-menu = Tajaqa' ri k'utsamaj pan ikim rajkiq'a' { -brand-name-firefox } richin nacha' <strong>“Titikitisäx molojri'ïl pa { -brand-name-sync }</strong>.”
 firefox-sync-click-get-started = Tapitz'a' pa <strong>“Titikirisäx”</strong>” pa ri ruwi' nijaq.
-enter-an-email = Tatz'ib'aj jun rochochib'al taqoya'l chuqa' ewan rutzij <strong>“Titz'uk jun { -brand-name-firefox-account }.”</strong>
+firefox-sync-enter-an-email = Tatz'ib'aj jun rochochib'al taqoya'l chuqa' ewan rutzij <strong>“Titz'uk jun { -brand-name-firefox-account }.”</strong>
 firefox-sync-click-next-to = Tapitz'a' pa <strong>“Jun chik”</strong> richin nak'ül jun jikib'axïk chupam ataqoya'l.
 firefox-sync-after-you-check = Chi rij xtanik'oj ri ataqoya'l chuqa' toq xtapïtz' pa ruwi' ri ruximonel jikib'anïk, { -brand-name-firefox } pa ruyonil xtuxïm ri' pa ruka'n b'ey.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data

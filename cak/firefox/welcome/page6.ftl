@@ -11,6 +11,7 @@ welcome-page6-make-sure-youre-protected = Tajikib'a' chi atchajin toq yatok pa k
 welcome-page6-get-the-firefox-app = Tak'ulu' ri { -brand-name-firefox } App
 welcome-page6-get-firefox-on-your-phone = Tak'ulu' ri { -brand-name-firefox } pan Awoyonib'al
 welcome-page6-scan-the-qr-code-to-get-started = Tiq'axawachib'ëx ri QR b'itz'ib' richin nitikirisäx
+welcome-page6-qr-code-to-scan-for-firefox = QR b'itz'ib' nitz'ajwachib'ëx richin { -brand-name-firefox }
 welcome-page6-choose-automatic-privacy = Tacha' ruyonil ichinanem
 welcome-page6-companies-keep-finding-new = Ri ajk'ayij yekik'anoj k'ak'a' taq rub'anikil richin nikeleq'aj ri awetamab'al. Ri { -brand-name-firefox } ruyonil okik'amaya'l nukanoj k'aka' taq rub'anikil richin yatruchajij.
 welcome-page6-choose-freedom-on-every-device = Tacha' ri silan k'u'x pa taq okisab'äl
