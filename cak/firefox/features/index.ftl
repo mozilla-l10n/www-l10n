@@ -14,6 +14,7 @@ features-index-firefox-features = { -brand-name-firefox } taq b'anikil
 features-index-see-all = Ketz'et ronojel ri taq k'amal
 features-index-get-an-account = Tik'ul jun { -brand-name-firefox-account }
 features-index-firefox-automatically = { -brand-name-firefox } ruyonil yeruq'ät 2000+ rojqanela' eltzijol richin man yatkojqaj ta pa k'amaya'l.
+features-index-access-all-passwords = { -brand-name-firefox-lockwise } nuya' q'ij chawe yatok pa ronojel ri ewan taq tzij xe'ayäk pa { -brand-name-firefox } — chuqa' majun rajil.
 features-index-see-what-makes-us-different = Tatzu' ri nijalon qichin
 features-index-by-non-profit-mozilla = Majun ch'akoj, { -brand-name-mozilla }
 features-index-choose-independence = Tacha' chi at alajk'aslem
