@@ -111,6 +111,8 @@ newsletters-mozilla-news = Actualitate de { -brand-name-mozilla }
 newsletters-mozilla = { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Nos produce le technologia del futuro. Veni a discoperir con nos.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Name for the newsletter in Newsletter subscription page
