@@ -23,12 +23,12 @@ firefox-channel-all-languages-and-platforms = Todos os idiomas e plataformas
 firefox-channel-all-languages-and-builds = Todos os idiomas e versións
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = A versión beta é unha plataforma inestábel de desenvolvemento e probas. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces, aos nosos socios, para axudarnos a identificar problemas e a probar novas ideas. <a href="{ $link }">Saiba que se comparte</a>.
-firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } envía automaticamente as opinións a { -brand-name-mozilla }.
+firefox-channel-beta-is-an-unstable-testing = A versión { -brand-name-beta } é unha plataforma inestábel de probas e desenvolvemento. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces tamén aos nosos socios, para axudarnos a xestionar os problemas e probar novas ideas. <a href="{ $link }">Isto é o que se comparte</a>.
+firefox-channel-firefox-beta-automatically = O { -brand-name-firefox-beta } envía automaticamente as opinións a { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
-firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Déanos a súa opinión</a> para axudarnos a realizar os axustes finais no rendemento e as funcionalidades nun entorno estábel.
-firefox-channel-check-out-new-android-features = Probe as novas funcionalidades de Firefox para { -brand-name-android } nas primeiras etapas de desenvolvemento. Baixo a súa responsabilidade.
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Dános a túa opinion</a> para axudarnos a realizar os axustes finais no rendemento e as funcionalidades nun entorno estábel.
+firefox-channel-check-out-new-android-features = Proba as novas características para { -brand-name-android } nas primeiras etapas de desenvolvemento. Aprovéitaas baixo a túa responsabilidade.
 firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
