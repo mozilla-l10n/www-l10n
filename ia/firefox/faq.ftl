@@ -23,7 +23,9 @@ how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = "Tu pote facilemente discargar le navigator { -brand-name-firefox } pro computatores <a href=""{ $url }"">hic.</a> { -brand-name-firefox } functiona sur apparatos <a href=""{ $url2 }"">{ -brand-name-windows },</a> <a href=""{ $url3 }"">{ -brand-name-mac-short }</a> e <a href=""{ $url4 }"">{ -brand-name-linux }</a>, e es alsi disponibile pro <a href=""{ $url5 }"">{ -brand-name-android } e { -brand-name-ios }.</a> Verifica que tu discarga nostre navigator ex un de nostre paginas { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide."
 is-firefox-free = Es { -brand-name-firefox } gratuite?
+yep-the-firefox = Si! { -brand-name-firefox-browser } es gratuite. Super gratuite, realmente. Nulle costos o alco celate. Tu non paga alco pro usar lo e nos non vende tu datos personal.
 related-questions-free = Demandas correlate: es { -brand-name-firefox-browser } gratis, { -brand-name-firefox } se paga?
 is-chrome-better = Es { -brand-name-chrome } melior de { -brand-name-firefox }?
 
