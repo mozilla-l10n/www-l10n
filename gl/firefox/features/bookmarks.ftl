@@ -14,9 +14,9 @@ features-bookmarks-dont-agonize-lovers-of = Tranquilidade, amante dos marcadores
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Gardar ese marcador
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = Use a estrela da barra de enderezos para organizar os seus sitios favoritos, asignándolles rapidamente un nome e un cartafol. Coloque os que visita con máis frecuencia na barra de favoritos para que nunca os perda de vista.
+features-bookmarks-get-your-faves-all-sorted = Organiza os teus favoritos coa icona da estrela e engade nomes e cartafoles personalizados. Na barra de ferramentas de marcadores terás todas as túas ligazóns favoritas.
 # Fly here means to have your bookmark go wherever you go.
-features-bookmarks-fly-with-that-bookmark = Léveos con vostede todo o tempo
+features-bookmarks-fly-with-that-bookmark = Leva sempre os marcadores contigo
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
