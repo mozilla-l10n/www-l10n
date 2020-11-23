@@ -16,7 +16,7 @@ firefox-channel-tips-for-filing-a-bug = Consellos para informar dun erro
 firefox-channel-try-new-features-in-a-pre = Proba as novas características nunha versión preliminar do navegador para { -brand-name-android } | { -brand-name-firefox }
 firefox-channel-download-and-test-future = Descarga e proba as próximas versións do { -brand-name-firefox } para escritorio, para { -brand-name-android } e para { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }: experimenta as últimas características nunha versión preliminar do navegador para { -brand-name-android }. Instálaa xa.
-firefox-channel-experience-cutting-edge-android = { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }: experimenta as últimas características nunha versión preliminar do navegador para { -brand-name-android }. Instálaa xa.
+firefox-channel-experience-cutting-edge-android = { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }: proba as últimas características nunha versión preliminar do navegador para { -brand-name-android }. Instálaa xa.
 firefox-channel-download-and-test-the-latest-android = Descarga e proba as últimas características do { -brand-name-firefox } para { -brand-name-android } coas versións { -brand-name-aurora }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Proba as últimas características para { -brand-name-android } antes de que estean dispoñíbeis para todo o mundo.
 firefox-channel-all-languages-and-platforms = Todos os idiomas e plataformas
@@ -32,23 +32,23 @@ firefox-channel-check-out-new-android-features = Proba as novas características
 firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = A versión { -brand-name-nightly } é unha plataforma inestábel de desenvolvemento e probas. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces, aos nosos socios, para axudarnos a identificar problemas e a probar novas ideas. <a href="{ $link }">Saiba que se comparte</a>.
-firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } envía automaticamente as opinións a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = { -brand-name-firefox } | Probe as novas funcionalidades nas versións preliminares do navegador
-firefox-channel-experience-cutting-edge-desktop = { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }: experimente as últimas funcionalidades nas versións preliminares do navegador. Descargar agora!
-firefox-channel-download-and-test-the-latest-desktop = Descargue e probe as últimas funcionalidades de { -brand-name-firefox } para o escritorio coas versións { -brand-name-developer-edition }, { -brand-name-beta } e { -brand-name-nightly }.
+firefox-channel-nightly-is-an-unstable-testing = A versión { -brand-name-nightly } é unha plataforma inestábel de probas e desenvolvemento. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces tamén aos nosos socios, para axudarnos a xestionar os problemas e probar novas ideas. <a href="{ $link }">Isto é o que se comparte</a>.
+firefox-channel-firefox-nightly-automatically = O { -brand-name-firefox-nightly } envía automaticamente as opinións a { -brand-name-mozilla }.
+firefox-channel-try-new-browser-features = Proba as novas características nunha versión preliminar | { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-desktop = { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }: proba as últimas características nunha versión preliminar. Instálaa xa.
+firefox-channel-download-and-test-the-latest-desktop = Descarga e proba as últimas características da versión de escritorio do { -brand-name-firefox } coas versións { -brand-name-developer-edition }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
-firefox-channel-test-about-to-be-released = Probe as funcionalidades que se incluirán na versión preliminar máis estábel.
+firefox-channel-test-about-to-be-released = Proba as novas caracterísiticas na versión preliminar máis estábel.
 firefox-channel-release-notes = Notas da versión
-firefox-channel-previous-nightly-builds = Compilacións anteriores de { -brand-name-nightly }
+firefox-channel-previous-nightly-builds = Versións anteriores de { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
-firefox-channel-build-test-scale-and-more = Crea, proba, escala e moito máis co único navegador deseñado exclusivamente para os desenvolvedores.
+firefox-channel-build-test-scale-and-more = Crea, proba, escala e moito máis co único navegador deseñado exclusivamente para desenvolvedores.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = A versión { -brand-name-developer-edition } é unha plataforma inestábel de desenvolvemento e probas. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces, aos nosos socios, para axudarnos a identificar problemas e a probar novas ideas. <a href="{ $link }">Saiba que se comparte</a>.
-firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } envía automaticamente as opinións a { -brand-name-mozilla }.
+firefox-channel-developer-edition-is-an = A versión { -brand-name-developer-edition } é unha plataforma inestábel de probas e desenvolvemento. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces tamén aos nosos socios, para axudarnos a xestionar os problemas e probar novas ideas. <a href="{ $link }">Isto é o que se comparte</a>.
+firefox-channel-firefox-developer-edition = O { -brand-name-firefox-developer-edition } envía automaticamente as opinións a { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = Vexa o noso navegador web de última xeración e axúdenos a convertelo no mellor navegador posible: probe { -brand-name-firefox-nightly }.
+firefox-channel-get-a-sneak-peek-at-our = Bótalle unha ollada ao noso navegador de última xeración e axúdanos a convertelo no mellor navegador posíbel. Proba o { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Probe as novas funcionalidades todos os días. Baixo a súa responsabilidade.
 firefox-channel-try-new-features-in-a-pre-release = { -brand-name-firefox } | Probe as novas funcionalidades na versión preliminar do navegador para { -brand-name-ios }
 firefox-channel-experience-cutting-edge-features-ios = Experimente as últimas funcionalidades nunha versión preliminar do navegador para { -brand-name-ios } a través do programa { -brand-name-test-flight } de { -brand-name-apple }. Instalar agora!
