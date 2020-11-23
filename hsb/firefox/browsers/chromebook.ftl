@@ -11,6 +11,7 @@
 browsers-chromebook-get-firefox-browser = Wobstarajće sej { -brand-name-firefox-browser } za { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Wobstarajće sej { -brand-name-firefox } za { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Wobstarajće sej { -brand-name-firefox } Desktop za { -brand-name-chromebook }
+browsers-chromebook-x86-based-chromebook = *x86 na bazy { -brand-name-chromebook } z { -brand-name-chromeos } 80 abo nowšim
 browsers-chromebook-dropdown-copy = Wobstarajće sej { -brand-name-firefox } za { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Čehodla wobstarujće sej { -brand-name-firefox } za { -brand-name-chromebook }?
