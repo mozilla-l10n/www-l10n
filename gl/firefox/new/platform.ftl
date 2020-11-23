@@ -46,29 +46,30 @@ new-platform-download-the-fastest-mac = Descarga o { -brand-name-firefox } máis
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -brand-name-mac-short } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 # /firefox/mac/ main page title. Span is for visually formatting.
-new-platform-firefox-respects-your = { -brand-name-firefox } respecta <span>a privacidade en { -brand-name-mac-short }.</span>
+new-platform-firefox-respects-your = O { -brand-name-firefox } respecta <span>a privacidade en { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = A privacidade é o primeiro
-new-platform-get-speed-and-security = Velocidade e seguridade. { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os seus movementos.
+new-platform-firefox-doesnt-spy = O { -brand-name-firefox } non atusma nas buscas. Detemos os rastros de seguimento de terceiros e dámosche a ti todo o control.
+new-platform-get-speed-and-security = Velocidade e seguridade. O { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os movementos.
 new-platform-block-trackers = Bloquear rastrexadores
 new-platform-be-the-master-of-your = Convértete no dono do teu dominio cun rigoroso bloqueo de contido. Bloquea todos os rastros e rastrexadores.
 # /firefox/windows/ HTML page title
-new-platform-download-mozilla-windows = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }
+new-platform-download-mozilla-windows = Descargar o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Descargue { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }, o navegador de balde creado por unha organización mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obteña xa { -brand-name-firefox } para { -brand-name-windows }.
+new-platform-download-mozilla-desc-windows = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }, o navegador de balde creado por unha fundación mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-windows }.
 # /firefox/windows/ social sharing title
-new-platform-download-the-fastest-windows = Descargue o { -brand-name-firefox } máis rápido que existe para { -brand-name-windows }
+new-platform-download-the-fastest-windows = Descarga o { -brand-name-firefox } máis rápido que existe para { -brand-name-windows }
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 # /firefox/windows/ main page title. Span is for visually formatting.
-new-platform-firefox-fights = { -brand-name-firefox } loita por vostede <span>en { -brand-name-windows }.</span>
-new-platform-firefox-moves-fast = { -brand-name-firefox } é rápido e coida dos seus datos, sen anuncios que o rastrexen nin demoras.
+new-platform-firefox-fights = O { -brand-name-firefox } loita por ti <span>en { -brand-name-windows }.</span>
+new-platform-firefox-moves-fast = O { -brand-name-firefox } é rápido e coida dos datos, sen anuncios que te rastrexen nin demoras.
 new-platform-common-sense-privacy = Privacidade sensata
-new-platform-live-your-life = Viva a súa vida, { -brand-name-firefox } non estará mirando. Escolla o que quere compartir e cando o quere facer.
+new-platform-live-your-life = Vive a túa vida, o { -brand-name-firefox } non estará axexando. Escolle o que queres compartir e cando o queres facer.
 new-platform-seamless-setup = Configuración simple
-new-platform-easy-migration = Ao descargar { -brand-name-firefox } para { -brand-name-windows }, poderá migrar de maneira sinxela as preferencias e os marcadores.
+new-platform-easy-migration = Ao descargar o { -brand-name-firefox } para { -brand-name-windows }, poderás migrar de maneira sinxela as preferencias e os marcadores.
 # span is for visual formatting and line break
-new-platform-download-firefox-for-windows = Descargar { -brand-name-firefox } <br>para { -brand-name-windows }
+new-platform-download-firefox-for-windows = Descargar o { -brand-name-firefox } <br>para { -brand-name-windows }
 # span is for visual formatting and line break
-new-platform-download-firefox-for-macos = Descargar { -brand-name-firefox } <br>para { -brand-name-mac }
+new-platform-download-firefox-for-macos = Descargar o { -brand-name-firefox } <br>para { -brand-name-mac }
 # span is for visual formatting and line break
-new-platform-download-firefox-for-linux = Descargar { -brand-name-firefox } <br> para { -brand-name-linux }
+new-platform-download-firefox-for-linux = Descargar o { -brand-name-firefox } <br> para { -brand-name-linux }
