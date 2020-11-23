@@ -7,7 +7,7 @@
 
 new-platform-free-web-browser = Navegador de balde
 new-platform-download-firefox = Descargar o { -brand-name-firefox }
-new-platform-download-the-fastest = Descargue o { -brand-name-firefox }  máis rápido de sempre
+new-platform-download-the-fastest = Descargar o { -brand-name-firefox } máis rápido nunca visto
 new-platform-faster-page-loading = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, menos uso de memoria e un montón de funcionalidades.
 new-platform-the-new-firefox = O novo <strong>{ -brand-name-firefox }</strong>
 new-platform-2x-faster = O dobre de rápido
