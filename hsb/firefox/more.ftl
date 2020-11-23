@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Produkty { -brand-name-firefox } so wuwiwaja, zo bychu wašu priwatnosć škitali
+learn-more-about-firefox = Zhońće wjacej wo { -brand-name-firefox }, jeho historiji, funkcijach a misiji
 learn-more-about = Zhońće wjace wo wobhladowakach a produktach { -brand-name-firefox }, kotrež z wašimi datami respektnje wobchadźeja a su wuwite za priwatnośc wšudźe, hdźež online dźeće.
-learn-more = Dalše informacije
+learn-more-faq = Husto stajene prašenja { -brand-name-firefox }
 the-history-of = Historija webwobhladowakow
 firefox-has-been = { -brand-name-firefox } hižo nimale wot spočatka eksistuje.
 firefox-rebel-with = { -brand-name-firefox }: Rebel z winu
@@ -21,6 +22,12 @@ get-the-privacy = Dóstańće priwatnosć, kotruž sej zasłužiće. Polěpšeny
 take-your-passwords = Wzmiće swoje hesła wšudźe sobu
 securely-access-the = Mějće wšudźe wěsty přistup k hesłam, kotrež sće w { -brand-name-firefox } składował – samo zwonka wobhladowaka.
 choose-which-firefox = Wubjerće { -brand-name-firefox-browser }, kotryž chceće w swojej rěči sćahnyć
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } za { -brand-name-chromebook }
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } je rewolucija we wuwiću { -brand-name-firefox } był. Smy w lěće 2017 nowy, błyskospěšny wobhladowak wutworili, kotryž so stajnje polěpšuje. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser }.
+firefox-more-little-book = Knižka priwatnosće
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Mějće přistup k swojim zapołožki, hesłam, wočinjenym rajtarkam a wjace – wšudźe, hdźež { -brand-name-firefox } wužiwaće a sychronizujće je.
 firefox-fights-for = { -brand-name-firefox } na { -brand-name-windows } za was wojuje
 easy-migration-of = Přećehńće lochko z nastajenjemi a zapołožkami, hdyž{ -brand-name-firefox } za { -brand-name-windows } sćahujeće.
 firefox-respects-your = { -brand-name-firefox } na { -brand-name-mac-short } wašu priwatnosć respektuje.
