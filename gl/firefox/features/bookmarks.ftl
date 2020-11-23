@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: os mellores marcadores sempre consigo
+features-bookmarks-firefox-browser-better = Firefox: os mellores marcadores sempre contigo
 # HTML page description
-features-bookmarks-easily-organize-your-bookmarks = Organice facilmente os seus marcadores en cartafoles e acceda a eles en todos os seus dispositivos, dende o escritorio ata o móbil.
+features-bookmarks-easily-organize-your-bookmarks = Organiza facilmente os marcadores en cartafoles e accede a eles en todos os dispositivos, dende o ordenador ou o móbil.
 features-bookmarks-better-bookmarks = Mellores marcadores
-features-bookmarks-dont-agonize-lovers-of = Manter os seus favoritos en orde non debería ser unha molestia. Organíceos con { -brand-name-firefox }.
+features-bookmarks-dont-agonize-lovers-of = Tranquilidade, amante dos marcadores. Poderás organizalos co { -brand-name-firefox }.
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Gardar ese marcador
 # Dial in means to access/use (the bookmarks).
