@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Zaklučujće swoje daty
 firefox-sync-your-encryption-key = Waš zaklučowanski kluč potajnstwo wostawa, kotrež jenož wy a waše awtorizowane graty znaja.
 firefox-sync-feel-safe = Čujće so wěsty
 firefox-sync-we-store-your = Składujemy waše zaklučowane daty na swojich serwerach, zo njebychmy móhli je čitać.
-start-syncing-in = Synchronizujće w štyrjoch krokach:
+firefox-sync-start-syncing-in = Synchronizujće w štyrjoch lochkich krokach:
 firefox-sync-open-the-menu = Wočińće meni horjeka naprawo w { -brand-name-firefox } a wubjerće <strong>„Pola { -brand-name-sync } přizjewić</strong>“.
 firefox-sync-click-get-started = Klikńće na <strong>„Prěnje kroki“</strong> we wočinjacym so rajtarku.
-enter-an-email = Zapodajće e-mejlowu adresu a hesło, zo byšće <strong>„konto { -brand-name-firefox-account } załožił.“</strong>
+firefox-sync-enter-an-email = Zapodajće e-mejlowu adresu a hesło, zo byšće <strong>„konto { -brand-name-firefox-account } załožił.“</strong>
 firefox-sync-click-next-to = Klikńće na <strong>„Dale“</strong>, zo byšće wobkrućensku e-mejlku dóstał.
 firefox-sync-after-you-check = Po tym zo sće swoju e-mejl přepruwował a na wobkrućenski wotkaz kliknył, so { -brand-name-firefox } awtomatisce w pozadku synchronizuje.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data

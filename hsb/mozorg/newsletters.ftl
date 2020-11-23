@@ -37,6 +37,7 @@ newsletters-format = Format:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } płaćiwy powěsćowy list njeje.
 newsletters-subscribe = Abonować
+newsletters-remove-me-from-all-the = Moje abonementy na tutej stronje wotstronić
 newsletters-save-preferences = Nastajenja składować
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Zrjadujće swoje <span>abonementy powěsćowych listow</span>
@@ -147,12 +148,20 @@ newsletters-periodic-email-updates = Periodiske e-mejlowe aktualizacije wo naši
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-smartphone-owner = Maće smartfon z { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Njezapasće wažne nowinki a aktualizacije wo swojim graće { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Wy
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Měsačny powěsćowy list a wosebite připowědźe wo tym, kak móžeće najlěpše z grata { -brand-name-firefox-os } wućahnyć, inkluziwnje najnowše funkcije a najwulkotniše nałoženja na { -brand-name-firefox-marketplace }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Tydźenske pokiwy wo { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Wobstarajće sej tydźensce pokiw, kak móžeće waše dožiwjenja z dźěłom { -brand-name-firefox } polěpšił.
 # Name for the newsletter in Newsletter subscription page
 newsletters-join-mozilla = Čińće pola { -brand-name-mozilla } sobu
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Party webdesignerow
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Name for the newsletter in Newsletter subscription page
