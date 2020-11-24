@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Instala o { -brand-name-firefox-browser } para { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Xa que tes un { -brand-name-chromebook }, é o momento de instalar { -brand-name-firefox-browser }, un navegador independente e automaticamente privativo que protexe os teus datos persoais.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
