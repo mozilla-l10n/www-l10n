@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Descarga o { -brand-name-firefox-browser } no teu móbil para { -brand-name-ios } e { -brand-name-android }
+firefox-mobile-download-the-firefox-browser = Descarga o { -brand-name-firefox-browser } no teu dispositivo móbil para { -brand-name-ios } e { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = Por defecto, o { -brand-name-firefox-browser } para dispositivos móbiles bloquea máis de 2000 rastrexadores e outorga a privacidade que merece e a velocidade que precisa nun navegador privativo para móbiles.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
@@ -24,3 +24,15 @@ firefox-mobile-stop-companies-from-following = Impide que as empresas te sigan
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
 firefox-mobile-stay-off-their-radar-with = Fique fóra do seu radar coa <a href="{ $url }"> protección do { -brand-name-firefox } contra o rastrexamento </a>
+firefox-mobile-discover-products-that-keep = Descubra os produtos que te manteñen seguro
+firefox-mobile-sync-your-history-passwords = Sincronice o seu historial, contrasinais e marcadores. Envíe lapelas a todos os seus dispositivos.
+firefox-mobile-android-only = Soamente no { -brand-name-android }
+firefox-mobile-make-android-your-own = Torna o { -brand-name-android } teu
+firefox-mobile-customize-your-firefox-mobile-truncated = Personaliza o teu navegador { -brand-name-firefox } para dispositivos móbiles con extensións
+firefox-mobile-find-it-fast-with-a-smart = Encontra rapidamente grazas a unha barra de busca intelixente
+firefox-mobile-firefox-anticipates-your-needs = O { -brand-name-firefox } anticipa as túas necesidades con suxestións de busca intelixentes e acceso rápido aos sitios web que máis visita.
+firefox-mobile-the-privacy-you-deserve-the = A privacidade que mereces. A velocidade que precisas.
+firefox-mobile-get-firefox-for-mobile = Obtén o { -brand-name-firefox } para dispositivos móbiles
+firefox-mobile-send-a-download-link-to-your = Envía unha ligazón de descarga ao seu móbil.
+firefox-mobile-scan-the-qr-code-to-get-started = Escanea o código QR para comezar.
+firefox-mobile-scan-alt-text = Escanea o código QR para instalar o { -brand-name-firefox } no teu dispositivo móbil
