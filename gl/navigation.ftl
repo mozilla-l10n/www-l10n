@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-download-firefox = Descargar { -brand-name-firefox }
-navigation-get-a-firefox-account = Consigue unha conta de { -brand-name-firefox }
-navigation-firefox-browser-for-desktop = Versión de escritorio de { -brand-name-firefox-browser }
-navigation-get-the-browser-that-respects = O navegador que respecta a súa privacidade de maneira automática. En { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para dispositivos móbiles
-navigation-take-speed-privacy-and = Leve sempre consigo velocidade, privacidade e tranquilidade. En { -brand-name-android } e { -brand-name-ios }.
+navigation-download-firefox = Descargar o { -brand-name-firefox }
+navigation-get-a-firefox-account = Conseguir unha conta Firefox
+navigation-firefox-browser-for-desktop = Versión de escritorio do Firefox
+navigation-get-the-browser-that-respects = O navegador que respecta a privacidade de maneira automática. En { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
+navigation-firefox-browser-for-mobile = Firefox para dispositivos móbiles
+navigation-take-speed-privacy-and = Leva sempre contigo velocidade, privacidade e tranquilidade. En { -brand-name-android } e { -brand-name-ios }.
 navigation-download-for-ios = Descargar para { -brand-name-ios }
 navigation-download-for-android = Descargar para { -brand-name-android }
 navigation-ios-support = Asistencia de { -brand-name-ios }
