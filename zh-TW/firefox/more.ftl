@@ -29,6 +29,7 @@ firefox-more-while-on-chromebook = 雖然 { -brand-name-chromebook } 已經內�
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } 是一場對 { -brand-name-firefox } 開發過程的革命。我們在 2017 年打造出一套全新、光速快、又會持續進化的瀏覽器。{ -brand-name-firefox-quantum } 就是 { -brand-name-firefox-browser }。
 firefox-more-little-book = 隱私小手冊
+firefox-more-you-can-reclaim = 您可以收復隱私權，並且搶回線上體驗的完整控制權！其實這很簡單，每個人都能做到。
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = 在任何使用 { -brand-name-firefox } 的地方使用並同步書籤、密碼、開啟的分頁與更多資料。
 we-believe-everyone = 我們相信，每個人都應該要能夠使用網際網路的權利 — 這也是為什麼我們要與世界各地的志工配合，推出超過 90 種語言版本的 { -brand-name-firefox-browser }。
