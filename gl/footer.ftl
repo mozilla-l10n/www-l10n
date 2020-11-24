@@ -7,6 +7,9 @@ footer-privacy-hub = Centro de privacidade
 footer-privacy = Privacidade
 footer-press = Preme
 footer-corporate-blog = Blog corporativo
+footer-browser-comparison = Comparación de navegadores
+footer-brand-standards = Normas da marca
+footer-browsers = Navegadores
 # Outdated string
 footer-desktop = Escritorio
 # Outdated string
@@ -14,6 +17,8 @@ footer-mobile = Móbil
 # Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
+footer-products = Produtos
 # Outdated string
 footer-lockwise = { -brand-name-lockwise }
 # Outdated string
@@ -36,6 +41,8 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } para { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } para { -brand-name-android }
+footer-visit-mozilla-corporations = Visita <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, a empresa nai sen fins lucrativos da <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-portions-of-this-content = Partes deste contido posúen dereitos reservados (©1998–{ $current_year }) por colaboradores individuais da mozilla.org. Contido dispoñíbel baixo <a rel="license" href="{ $url }">licenza{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Compañía
 # Outdated string
@@ -58,6 +65,9 @@ footer-websites-cookies = Cookies
 footer-websites-legal = Legal
 footer-language = Idioma
 footer-go = Ir
+footer-donate = Fai unha doazón
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Síguenos en @{ -brand-name-mozilla }
+footer-follow-firefox = Síguenos en @{ -brand-name-firefox }
