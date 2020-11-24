@@ -62,7 +62,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Se você tem uma { -brand-na
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Mais de { $trackers } de rastreadores bloqueados todos os dias para usuários do { -brand-name-firefox } no mundo todo
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Quando você digita seu endereço de e-mail no { -brand-name-firefox-monitor }, esquecemos imediatamente após verificar se está em vazamentos de dados conhecidos — a menos que você nos autorize a continuar monitorando novos vazamentos de suas informações pessoais.
+firefox-privacy-hub-when-you-enter-your-email = Quando você digita seu endereço de email no { -brand-name-firefox-monitor }, esquecemos imediatamente após verificar se está em vazamentos de dados conhecidos — a menos que você nos autorize a continuar monitorando novos vazamentos de suas informações pessoais.
 firefox-privacy-hub-check-for-breaches = Verifique se há vazamentos
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = As senhas e credenciais que você salva no { -brand-name-firefox-lockwise } são criptografadas em todos os seus dispositivos, assim nem nós conseguimos ver.

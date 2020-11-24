@@ -10,8 +10,8 @@ whatsnew81-page-title = Novidades no { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Um novo { -brand-name-firefox } para cada dispositivo
 whatsnew81-main-intro = Seja qual for o sistema operacional que você use, há um navegador móvel melhor do que nunca para ser instalado nele, feito por uma entidade sem fins lucrativos.
-whatsnew81-send-form-label = Digite seu e-mail para receber um link para baixar
-whatsnew81-send-form-label-alt = Digite seu e-mail ou número de celular para receber um link para baixar
+whatsnew81-send-form-label = Digite seu email para receber um link para baixar
+whatsnew81-send-form-label-alt = Digite seu email ou número de celular para receber um link para baixar
 whatsnew81-scan-this-qr-code = Capture este código QR para baixar
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = O NOVO { -brand-name-firefox } para { -brand-name-android } está aqui

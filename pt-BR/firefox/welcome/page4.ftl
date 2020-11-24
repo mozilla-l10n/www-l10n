@@ -13,7 +13,7 @@ welcome-page4-take-privacy-with-you-on-every = Leve a privacidade com você em q
 welcome-page4-privacy-on-by-default = Sua privacidade é ativada por padrão no novo { -brand-name-firefox } para { -brand-name-android } — agora você pode tornar o { -brand-name-firefox } seu navegador padrão no { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Instale o { -brand-name-firefox } para dispositivos móveis
 welcome-page4-get-firefox-on-your-phone = Instale o { -brand-name-firefox } no seu celular
-welcome-page4-send-the-download-link-right = Envie o link de download direto para seu celular ou e-mail.
+welcome-page4-send-the-download-link-right = Envie o link de download direto para seu celular ou email.
 welcome-page4-download-firefox-for-your = Instale o { -brand-name-firefox } no seu smartphone ou tablet.
 welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: navegador privativo e seguro” no { -brand-name-ios } ou { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
