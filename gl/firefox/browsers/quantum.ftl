@@ -14,3 +14,8 @@ learn-more-about = Máis información sobre { -brand-name-firefox-quantum }
 privacy-first = A privacidade é o primeiro
 firefox-doesnt-spy = O { -brand-name-firefox } non espreita as túas buscas. Detemos moitos rastros de seguimento de terceiros e dámosche a ti todo o control.
 super-fast = A fume de carozo
+get-speed-and = Velocidade e seguridade. O { -brand-name-firefox } é rápido porque nós non rastrexamos os teus movementos.
+always-evolving = En continua envolución
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Descubre máis sobre todos os <a href="{ $url }">recursos incríbeis do { -brand-name-firefox }</a>.
