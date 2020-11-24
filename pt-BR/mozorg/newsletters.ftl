@@ -27,11 +27,11 @@ newsletters-mozilla-touches-on-a-variety = A { -brand-name-mozilla } aborda uma 
 newsletters-open-your-inbox-and-your = Abra sua caixa de entrada (e seu coração) ainda mais — dê uma olhada em outros tópicos que abordamos.
 newsletters-manage-your-email-preferences = Gerencie suas preferências de email
 newsletters-this-page-is-in-maintenance = Esta página está em manutenção e está temporariamente indisponível.
-newsletters-to-update-your-email-preferences = Para alterar suas preferências de e-mail, por favor, volte mais tarde. Obrigado!
+newsletters-to-update-your-email-preferences = Para alterar suas preferências de email, volte daqui a pouco. Obrigado!
 newsletters-we-love-sharing-updates = Nós amamos compartilhar as novidades sobre tudo que está acontecendo na { -brand-name-mozilla }.
 newsletters-set-your-preferences-below = Ajuste suas preferências abaixo para garantir que você receba tudo que te interessa.
 # Form field label
-newsletters-your-email-address = Seu endereço de e-mail:
+newsletters-your-email-address = Seu endereço de email:
 # Form field label
 newsletters-country-or-region = País ou região:
 # Form field label
@@ -41,7 +41,7 @@ newsletters-language = Idioma:
 newsletters-not-all-subscriptions-are = Nem todas as inscrições estão disponíveis em todos os idiomas listados. Quase todos são oferecidos em inglês, alemão e francês.
 # Form field label
 newsletters-format = Formato:
-newsletters-text-subscribers-will-receive = Inscritos no modo texto recebem um e-mail duas vezes ao ano para confirmar se desejam manter a inscrição. Esses e-mails podem incluir formatação HTML.
+newsletters-text-subscribers-will-receive = Inscritos no modo texto recebem um email duas vezes ao ano para confirmar se desejam manter a inscrição. Esses emails podem incluir formatação HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 newsletters-many-of-our-communications = Muitas de nossas comunicações são relacionadas a uma conta em que você se inscreveu, como { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } ou Add-on Developer. Para gerenciar uma de suas contas ou ver uma lista de todas as contas, visite nossa <a href="{ $url }">página de suporte de gerenciamento de contas</a>.
@@ -58,11 +58,11 @@ newsletters-subscribe = Cadastrar
 newsletters-remove-me-from-all-the = Me remover de todas as inscrições nesta página
 newsletters-save-preferences = Salvar configurações
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-newsletter-email-recovery = E-mail de recuperação do boletim informativo
+newsletters-newsletter-email-recovery = Email de recuperação do boletim informativo
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Gerencie suas <span>assinaturas dos boletins informativos</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-enter-your-email-address = Digite seu endereço de e-mail e enviaremos um link para o seu centro de preferências de e-mail.
+newsletters-enter-your-email-address = Digite seu endereço de email e enviaremos um link para seu centro de preferências de email.
 newsletters-send-me-a-link = Envie o link
 newsletters-youve-been-unsubscribed = Você foi descadastrado.
 newsletters-were-sorry-to-see-you-go = Ficamos triste em te ver partir.
@@ -91,17 +91,17 @@ newsletters-put-more-fox-in-your-inbox = Tenha a Fox na sua caixa de entrada.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Veja aonde a Web pode te levar com as dicas e truques do { -brand-name-firefox } e a Internet.
 newsletters-we-are-sorry-but-there = Desculpe-nos, mas houve um problema em nosso sistema. Por favor, tente novamente mais tarde!
-newsletters-thanks-for-updating-your = Obrigado por atualizar suas preferências de e-mail.
-newsletters-the-supplied-link-has-expired-long = O link fornecido expirou ou não é válido. Você receberá um novo na próxima newsletter ou você pode solicitar abaixo um e-mail com o link.
-newsletters-success-an-email-has-been-sent = Sucesso! Um e-mail foi enviado para você com o seu link do centro de preferência. Obrigado!
-newsletters-this-is-not-a-valid-email = Isto não é um endereço de e-mail válido. Por favor, verifique a ortografia.
-newsletters-you-send-too-many-emails = Vocês mandam e-mails demais!
+newsletters-thanks-for-updating-your = Obrigado por atualizar suas preferências de email.
+newsletters-the-supplied-link-has-expired-long = O link fornecido expirou ou não é válido. Você receberá um novo na próxima newsletter ou você pode solicitar abaixo um email com o link.
+newsletters-success-an-email-has-been-sent = Sucesso! Um email foi enviado a você com um link para seu centro de preferências. Obrigado!
+newsletters-this-is-not-a-valid-email = Este não é um endereço de email válido. Verifique se digitou corretamente.
+newsletters-you-send-too-many-emails = Vocês mandam emails demais.
 newsletters-your-content-wasnt-relevant = Não tinha interesse nos conteúdos enviados.
 newsletters-your-email-design = Suas mensagens eram difíceis de entender.
 newsletters-i-didnt-sign-up = Eu não me inscrevi para isto.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
-newsletters-this-email-address-is-not = Este endereço de e-mail não está no nosso sistema. Por favor, verifique seu endereço ou <a href="{ $url }">assine nossas newsletters.</a>
+newsletters-this-email-address-is-not = Este endereço de email não está no nosso sistema. Verifique seu endereço ou <a href="{ $url }">assine nossas newsletters</a>.
 newsletters-im-keeping-in-touch = Vou acompanhar a { -brand-name-mozilla } no { -brand-name-facebook } e no { -brand-name-twitter } somente.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Inscreva-se, leia,<br> fique informado.
@@ -111,10 +111,10 @@ newsletters-sign-up-read-up-make-a-difference = Inscreva-se. Leia.<br> Faça a d
 newsletters-get-smart-on-the-issues = Fique atento às questões que afetam sua vida online.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Receba o boletim informativo da { -brand-name-mozilla } e mantenha-se informado sobre problemas que afetam a saúde da Internet e descubra como você pode se envolver.
-newsletters-your-email-preferences = Suas preferências de e-mail foram atualizadas com sucesso.
+newsletters-your-email-preferences = Suas preferências de email foram atualizadas com sucesso.
 newsletters-consider-it-done = Considere feito
-newsletters-back-to-email-preferences = Voltar às preferências de e-mail
-newsletters-here-are-a-few-things = Aqui estão algumas coisas para se aprofundar enquanto espera pelo próximo e-mail.
+newsletters-back-to-email-preferences = Voltar às preferências de email
+newsletters-here-are-a-few-things = Aqui estão algumas coisas para se aprofundar enquanto espera pelo próximo email.
 newsletters-take-your-privacy = Leve sua privacidade com você
 newsletters-travel-the-internet = Viaje pela internet com proteção em todos os seus dispositivos.
 newsletters-download-the-app = Baixe o aplicativo

@@ -8,10 +8,10 @@
 # HTML page title
 opt-out-confirmation-cool-we-hear = Legal. Nós ouvimos você.
 # HTML page descripiton
-opt-out-confirmation-youre-now-opted = Você optou por não receber uma série de e-mails sobre como configurar sua conta.
-opt-out-confirmation-youll-continue = Você continuará recebendo outros e-mails com os quais está inscrito, além de atualizações importantes ocasionais sobre sua conta. Para gerenciar todas as suas inscrições, insira seu e-mail abaixo. Precisamos nos certificar de que estamos falando com a pessoa certa.
+opt-out-confirmation-youre-now-opted = Você optou por não receber uma série de emails sobre como configurar sua conta.
+opt-out-confirmation-youll-continue = Você continuará recebendo outros emails com os quais está inscrito, além de atualizações importantes ocasionais sobre sua conta. Para gerenciar todas as suas inscrições, insira seu email abaixo. Precisamos nos certificar de que estamos falando com a pessoa certa.
 # Field of a form
-opt-out-confirmation-your-email = Seu endereço de e-mail:
+opt-out-confirmation-your-email = Seu endereço de email:
 # Only localize "yourname". Do not touch @example.com.
 opt-out-confirmation-yournameexamplecom = seu.nome@example.com
 # This is a button
