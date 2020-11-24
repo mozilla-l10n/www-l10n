@@ -34,7 +34,7 @@
         [prepositional] браузере Firefox
         [instrumental] браузером Firefox
     }
--brand-name-firefox-browsers = Баузеры Firefox
+-brand-name-firefox-browsers = Браузеры Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -134,6 +134,7 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
