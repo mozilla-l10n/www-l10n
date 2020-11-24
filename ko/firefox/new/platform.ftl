@@ -20,7 +20,7 @@ new-platform-advanced-install-options = 고급 설치 방법 및 기타 플랫�
 new-platform-download-in-another = 언어별 다운로드
 new-platform-fix-a-problem = 문제 해결하기
 new-platform-need-help = 도움이 필요한가요?
-new-platform-download-mozilla-firefox-title = 무료 웹 브라우저, { -brand-name-mozilla } { -brand-name-firefox }를 내려받으세요. { -brand-name-firefox }는 개개인이 온라인에서 독립적인 제어권을 갖도록 추구하는 전세계적인 비영리 단체가 제작했습니다. 오늘 { -brand-name-linux }용, { -brand-name-mac }용, { -brand-name-linux }용, { -brand-name-android }용, { -brand-name-ios }용 { -brand-name-firefox }를 사용해 보세요!
+new-platform-download-mozilla-firefox-title = 무료 웹 브라우저, { -brand-name-mozilla } { -brand-name-firefox }를 내려받으세요. { -brand-name-firefox }는 개개인이 온라인에서 독립적인 제어권을 갖도록 추구하는 전세계적인 비영리 단체가 제작했습니다. 오늘 { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, { -brand-name-ios }용 { -brand-name-firefox }를 사용해 보세요!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = { -brand-name-linux } 용 { -brand-name-mozilla } { -brand-name-firefox } 다운로드
 # /firefox/linux/ HTML page description
@@ -61,7 +61,7 @@ new-platform-download-the-fastest-windows = 이제까지 가장 빠른 { -brand-
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = 더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 { -brand-name-windows }용 { -brand-name-firefox }가 여기 있습니다.
 # /firefox/windows/ main page title. Span is for visually formatting.
-new-platform-firefox-fights = FIrefox는 <span>{ -brand-name-windows }</span>에서 당신을 위해 싸웁니다.
+new-platform-firefox-fights = { -brand-name-firefox }는 <span>{ -brand-name-windows }</span>에서 사용자를 위해 싸웁니다.
 new-platform-firefox-moves-fast = { -brand-name-firefox }는 빠르게 움직이며 사용자 데이터를 주의깊게 다룹니다 - 광고 추적도, 속도 저하도 없습니다.
 new-platform-common-sense-privacy = 사생활 상식
 new-platform-live-your-life = 삶을 만끽하세요. { -brand-name-firefox }는 감시하지 않습니다. 무엇을 언제 공유할지 선택하세요.
