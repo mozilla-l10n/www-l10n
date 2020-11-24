@@ -41,3 +41,5 @@ compare-edge-firefox-and-edge-both-offer-fallback = { -brand-name-firefox } chuq
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
 compare-edge-firefox-also-includes-lots = { -brand-name-firefox } ruk'wan chuqa' k'ïy b'anel taq samaj, achi'el <a { $attrs }>Ützirisan Chajinïk chuwäch Ojqanem</a>, jun chapoj ruwa', kitaqik nïm taq yakb'äl chuqa' ch'aqa' chik.
+# "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
+compare-edge-out-of-the-gate-firefox-has = Pa rutikirib'al, { -brand-name-firefox } k'o ch'aqa' chik rusamaj etz'aqatisan pa okik'amaya'l, ri man k'ayew ta niqasäx. Estape' chi ka'i' okik'amaya'l k'ïy kitz'aqat chuqa' kik'amal k'o, ri ruk'amonïk { -brand-name-edge } rik'in ri { -brand-name-chromium } richin { -brand-name-google } ri nuya' rutzil chi rij ri k'iyiliem.
