@@ -5,23 +5,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Obteña { -brand-name-firefox } para a súa empresa con { -brand-name-esr } e Rapid Release
-firefox-enterprise-get-unmatched-data-protection = Obteña unha protección de datos inigualable coa frecuencia de actualizacións que mellor se adapte a vostede grazas a { -brand-name-firefox } para empresas. Descargar { -brand-name-esr } e Rapid Release.
+firefox-enterprise-get-firefox-for-your-enterprise-with = Obtén o { -brand-name-firefox } para a túa empresa con { -brand-name-esr } e Rapid Release
+firefox-enterprise-get-unmatched-data-protection = Obtén unha protección de datos inigualábel coa frecuencia de actualizacións que mellor se adapte a ti grazas ao { -brand-name-firefox } para empresas. Descarga { -brand-name-esr } e Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Visión xeral
 firefox-enterprise-downloads = Descargas
-firefox-enterprise-get-firefox-for-your-enterprise = Obter { -brand-name-firefox } para a súa empresa
+firefox-enterprise-get-firefox-for-your-enterprise = Obter o { -brand-name-firefox } para a túa empresa
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Obteña o <a href="{ $url }"> { -brand-name-firefox-extended-support-release } ou o navegador de lanzamento rápido </a> para obter unha protección completa de datos e protección de datos.
-firefox-enterprise-unmatched-data-protection = Protección de datos inigualable: coa frecuencia de actualizacións que máis lle conveña.
+firefox-enterprise-get-the-firefox-extended-support = Obtén <a href="{ $url }"> { -brand-name-firefox-extended-support-release } ou Rapid Release </a> para gozares dunha seguridade e protección de datos completa.
+firefox-enterprise-unmatched-data-protection = Protección de datos inigualábel, coa frecuencia de actualizacións que máis che conveña.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = O navegador { -brand-name-firefox } é de código aberto e proporciona unha protección avanzada de rastrexo: todo parte do noso compromiso de hai tempo coa protección de datos.
-firefox-enterprise-your-data-stays-your-business = Os seus datos son asunto seu
-firefox-enterprise-deploy-when-and-how-you-want = Implánteo cando e como queira
-firefox-enterprise-with-install-packages-and = Con paquetes de instalación e unha ampla expansión de políticas e características de grupo, a implantación é máis rápida e flexible ca nunca e moi fácil en contornos { -brand-name-windows } e { -brand-name-mac }.
-firefox-enterprise-choose-your-release-cadence = Elixa a súa frecuencia de actualizacións
-firefox-enterprise-get-rapid-releases-to-make = Obteña Rapid Release para asegurarse de que consegue as últimas características o máis rápido posible ou ESR para garantir unha experiencia completamente estable.
+firefox-enterprise-the-firefox-browser-is-open = O navegador { -brand-name-firefox } é de código aberto e proporciona unha protección mellorada contra o rastrexo. Todo forma parte do noso compromiso a longo prazo coa protección de datos.
+firefox-enterprise-your-data-stays-your-business = Os teus datos son asunto teu
+firefox-enterprise-deploy-when-and-how-you-want = Implántao cando e como queiras
+firefox-enterprise-with-install-packages-and = Con paquetes de instalación e unha ampla expansión de políticas e características de grupo, a implantación é máis rápida e flexíbel ca nunca e moi fácil en contornos { -brand-name-windows } e { -brand-name-mac }.
+firefox-enterprise-choose-your-release-cadence = Elixe a frecuencia de actualizacións
+firefox-enterprise-get-rapid-releases-to-make = Obtén Rapid Release para aseguraráreste de conseguir as últimas características o máis rápido posíbel ou o ESR para garantires unha experiencia completamente estábel.
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
