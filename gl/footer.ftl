@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-privacy-hub = Centro de privacidade
 footer-privacy = Privacidade
-footer-press = Prema
+footer-press = Preme
+footer-corporate-blog = Blog corporativo
 # Outdated string
 footer-desktop = Escritorio
 # Outdated string
