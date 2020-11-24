@@ -17,6 +17,5 @@ new-platform-powerfully-private = శక్తివంతమైన గోప్
 new-platform-advanced-install-options = అధునాతన స్థాపన ఎంపికలు మరియు ఇతర వేదికలు
 new-platform-download-in-another = మరొక భాషలో దింపుకోండి
 new-platform-need-help = సహాయం కావాలా?
-new-platform-download-mozilla-firefox-title = { -brand-name-mozilla } { -brand-name-firefox }, ఒక ఉచిత జాల విహారిణి డౌన్లోడు చేయండి. { -brand-name-firefox } అనేది ఒక ప్రపంచ లాభాపేక్షలేని ఆన్లైన్ నియంత్రణ కోసం వ్యక్తులకు రూపొందించినారు. { -brand-name-windows }, MacOS, { -brand-name-linux }, { -brand-name-android } మరియు { -brand-name-ios } కోసం { -brand-name-firefox } నేడు పొందవచ్చు!
 new-platform-open-source = ఓపెన్ సోర్సు
 new-platform-block-trackers = ట్రాకర్లను నిరోధించండి
