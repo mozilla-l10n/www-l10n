@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/community-hotline/
 
 community-hotline-community-participation = Lineas guida de participation al communitate: como signalar
+community-hotline-report = Reportar
