@@ -12,7 +12,7 @@ firefox-quantum-was = O { -brand-name-firefox-quantum } foi unha revolución no 
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Máis información sobre { -brand-name-firefox-quantum }
 privacy-first = A privacidade é o primeiro
-firefox-doesnt-spy = O { -brand-name-firefox } non espreita as túas buscas. Detemos moitos rastros de seguimento de terceiros e dámosche a ti todo o control.
+firefox-doesnt-spy = O { -brand-name-firefox } non espreita as túas buscas. Detemos moitos testemuños de rastrexo de terceiros e dámosche a ti todo o control.
 super-fast = A fume de carozo
 get-speed-and = Velocidade e seguridade. O { -brand-name-firefox } é rápido porque nós non rastrexamos os teus movementos.
 always-evolving = En continua envolución
