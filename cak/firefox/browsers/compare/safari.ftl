@@ -7,5 +7,7 @@
 
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } chuwäch { -brand-name-safari }: ¿Achike ri yalan ütz?
+# HTML page description.
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } okik'amaya'l k'o chik pe pa { -brand-name-mac } chuqa' { -brand-name-iphone }. Tajunamaj { -brand-name-safari } rik'in ri { -brand-name-firefox-browser } richin natz'ët ri ütz okik'amaya'l chawe.
 # Main title.
 compare-safari-comparing-firefox-browser = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-apple } { -brand-name-safari }
