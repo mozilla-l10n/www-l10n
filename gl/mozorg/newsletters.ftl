@@ -87,7 +87,7 @@ newsletters-unlock-the-world-of-web = Desbloquea o mundo do desenvolvemento web 
 # Obsolete string
 newsletters-join-thousands-of-developers = Únete a miles de desenvolvedores coma ti que están aprendendo o mellor do desenvolvemento web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-put-more-fox-in-your-inbox = Pon máis Firefox na túa caixa de entrada.
+newsletters-put-more-fox-in-your-inbox = Para experiencias fabulosas enche o correo de raposas
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Comproba ata onde te podes chegar na Web con consellos mensuais, trucos e información sobre Internet sobre { -brand-name-firefox }
 newsletters-we-are-sorry-but-there = Sentímolo, pero houbo un problema co noso sistema. Por favor, inténtao de novo máis tarde!
