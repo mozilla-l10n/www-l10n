@@ -147,7 +147,7 @@ firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı ind
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
-firefox-desktop-download-almost-there = Bitmek üzere!
+firefox-desktop-download-almost-there = Az kaldı!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Şimdi { -brand-name-firefox } <strong>yüklemesini</strong> tamamlayın.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
