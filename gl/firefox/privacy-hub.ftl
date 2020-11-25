@@ -18,3 +18,5 @@ firefox-privacy-hub-youll-always-know-where-you = Sempre saberá onde está conn
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Aquí non hai axenda oculta. A nosa empresa non depende de abusar secretamente da súa confianza. O noso <a href="{ $privacy }"> Aviso de privacidade </a> é realmente lexible. Calquera do mundo pode asistir ás nosas <a href="{ $meetings }"> reunións semanais de empresa </a>. Se desexa cavar en todos os datapintos que recollemos, o noso código está aberto. E tamén nós o estamos.
 firefox-privacy-hub-why-trust-firefox = Por que confiar en { -brand-name-firefox }?
+firefox-privacy-hub-firefox-privacy-by-the = A privacidade do { -brand-name-firefox }, en todos os nosos produtos
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
