@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 footer-privacy-hub = Centro de privacidade
 footer-privacy = Privacidade
 footer-press = Preme
@@ -61,7 +62,7 @@ footer-support = Asistencia
 footer-file-a-bug = Arquivar un erro
 footer-community-participation-guidelines = Directrices de participación comunitaria
 footer-websites-privacy-notice = Aviso de privacidade do sitio web
-footer-websites-cookies = Cookies
+footer-websites-cookies = Testemuños
 footer-websites-legal = Legal
 footer-language = Idioma
 footer-go = Ir

@@ -18,7 +18,7 @@ firefox-mobile-block-online-trackers-and = Bloquea rastrexadores e anuncios inva
 firefox-mobile-privacy-protection-by-default = Protección de privacidade por defecto
 # Variables:
 #   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
-firefox-mobile-leave-no-trace-with-private = Non deixe vestixios co <a href="{ $url }"> modo de navegación privada </a>. Cando pechares, tanto o teu historial como os rastros serán eliminados.
+firefox-mobile-leave-no-trace-with-private = Non deixe vestixios co <a href="{ $url }"> modo de navegación privada </a>. Cando pechares, tanto o teu historial como os testemuños serán eliminados.
 firefox-mobile-stop-companies-from-following = Impide que as empresas te sigan
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
