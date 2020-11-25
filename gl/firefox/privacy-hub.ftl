@@ -7,3 +7,7 @@
 
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } Compromiso de privacidade
+# Sub navigation title
+firefox-privacy-privacy = Privacidade
+# Sub navigation link
+firefox-privacy-our-products = Os nosos produtos
