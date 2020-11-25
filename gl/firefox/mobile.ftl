@@ -13,7 +13,7 @@ firefox-mobile-get-the-mobile-browser-built = Consigue o navegador móbil para t
 firefox-mobile-check-out-firefox-again-its = Proba o { -brand-name-firefox }. É rápido, privativo e está do seu lado. Para { -brand-name-ios } e { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Obtén privacidade automática no móbil
 firefox-mobile-super-fast-private-by-default = Super rápido. Privatrivo por defecto. Bloquea máis de 2000 rastrexadores da Internet.
-firefox-mobile-get-firefox-mobile = Obtén{ -brand-name-firefox } para móbil
+firefox-mobile-get-firefox-mobile = Obtén o { -brand-name-firefox } para móbil
 firefox-mobile-block-online-trackers-and = Bloquea rastrexadores e anuncios invasivos da Internet
 firefox-mobile-privacy-protection-by-default = Protección de privacidade por defecto
 # Variables:
