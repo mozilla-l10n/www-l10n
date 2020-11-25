@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = A { -brand-name-firefox }-termékeket az Ön magánszférájának védelmére tervezték
+learn-more-about-firefox = Tudjon meg többet a { -brand-name-firefox }ról, annak történetéről, funkcióiról és küldetéséről
 learn-more-about = Tudjon meg többet a { -brand-name-firefox } böngészőkről és termékekről, amelyek tisztelettel kezelik az adatait, és figyelembe veszik az adatvédelmet, bármerre is járjon online.
-learn-more = További tudnivalók
+learn-more-faq = { -brand-name-firefox } GYIK
 the-history-of = A böngészők története
 firefox-has-been = A { -brand-name-firefox } szinte a kezdetek óta ott van.
 firefox-rebel-with = { -brand-name-firefox }: lázadó, aminek célja van
@@ -23,6 +24,14 @@ get-the-privacy = Szerezze meg a megérdemelt adatvédelmet. A továbbfejlesztet
 take-your-passwords = Vigye magával a jelszavait bárhová
 securely-access-the = Biztonságosan hozzáférhet a { -brand-name-firefox }ba mentett jelszavaihoz – még a böngészőn kívül is.
 choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser(case: "acc") }, és töltse le az Ön nyelvén
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook }ra
+firefox-more-while-on-chromebook = Bár a { -brand-name-chrome } már eleve telepítve van { -brand-name-chromebook }ra, a { -brand-name-firefox } letöltése, telepítése és használata a következő előnyökkel jár:
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = A { -brand-name-firefox-quantum } forradalom volt a { -brand-name-firefox } fejlesztésében. 2017-ben létrehoztunk egy új, villámgyors, folytonosan fejlődő böngészőt. A { -brand-name-firefox-quantum } a { -brand-name-firefox-browser }.
+firefox-more-little-book = Adatvédelmi kiskönyv
+firefox-more-you-can-reclaim = Visszaszerezheti magánszféráját és visszaszerezheti a saját internetes élményét! Valójában meglepően könnyű. Bárki megteheti.
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Érje el és szinkronizálja a könyvjelzőket, a jelszavakat és még többet – bárhol is használja a { -brand-name-firefox }ot.
 we-believe-everyone = Úgy gondoljuk, hogy mindenkinek hozzá kellene férnie az internethez – ezért tesszük elérhetővé a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven, az elkötelezett önkénteseink segítségével, szerte a világon.
 firefox-fights-for = A { -brand-name-firefox } Önért harcol { -brand-name-windows }on
 easy-migration-of = A beállítások és könyvjelzők könnyen migrálhatók, ha letölti a { -brand-name-firefox(case: "acc") } { -brand-name-windows }ra.

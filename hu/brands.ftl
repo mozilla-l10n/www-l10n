@@ -145,6 +145,7 @@
         [accented] Operá
     }
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
