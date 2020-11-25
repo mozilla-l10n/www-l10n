@@ -121,7 +121,7 @@ newsletters-download-the-app = Llwythwch yr Ap i Lawr
 newsletters-check-for-data-breaches = Gwiriwch am dor-data
 newsletters-firefox-monitor-is-a-free = Mae { -brand-name-firefox-monitor } yn wasanaeth rhad ac am ddim sy'n gadael i chi weld a ydych chi wedi bod yn rhan o dor-data ar-lein.
 newsletters-sign-in-to-monitor = Mewngofnodwch i { -brand-name-monitor }
-newsletters-meet-our-parent-brand = Dyma'n brand rhiant
+newsletters-meet-our-parent-brand = Rhagor am Mozilla
 newsletters-mozilla-the-non-for-profit = Mae { -brand-name-mozilla }, y corff dim-er-elw y tu ôl i { -brand-name-firefox }, yn rhoi pobl o flaen elw ym mhob peth rydyn ni'n ei ddweud, ei adeiladu a'i wneud.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Ynghylch Safonau
