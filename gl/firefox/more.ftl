@@ -13,3 +13,4 @@ choose-which-firefox = Escolle o { -brand-name-firefox-browser } que descargar n
 firefox-more-firefox-chromebook = O navegador { -brand-name-firefox } para o { -brand-name-chromebook }
 firefox-more-quantum-was-revolution = O { -brand-name-firefox-quantum } foi unha revolución no desenvolvemento do { -brand-name-firefox }. En 2017, creamos un novo navegador que mellora constantemente e que vai a fume de carozo. O { -brand-name-firefox-quantum } é o navegador do { -brand-name-firefox }
 we-believe-everyone = Cremos que todo o mundo debería ter acceso á Internet. Por iso tornamos dispoñíbel o { -brand-name-firefox-browser } en máis de 90 linguas coa axuda de voluntarios de todo o mundo. Tamén en galego!
+youll-never-guess = A que non sabes que navegador remonta as ondas máis rápido e con máis funcionalidades?
