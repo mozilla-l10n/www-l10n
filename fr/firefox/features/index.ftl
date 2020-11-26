@@ -31,6 +31,7 @@ features-index-independent-browser = { -brand-name-firefox } est le seul grand n
 features-index-on-a-mission = Nous avons pour mission de garder Internet ouvert et accessible à tous.
 features-index-read-mozillas-mission = Lire la mission de { -brand-name-mozilla }
 features-index-choose-independence = Choisissez l’indépendance
+features-index-opted-in-to-privacy-so-you = Vous avez opté pour le respect de la vie privée, afin de pouvoir naviguer librement.
 features-index-read-our-privacy-policy = Consultez notre politique de confidentialité
 features-index-private-by-default = Respect de la vie privée par défaut
 features-index-enhanced-tracking = Protection renforcée contre le pistage
