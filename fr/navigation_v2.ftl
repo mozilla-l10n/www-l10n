@@ -19,6 +19,7 @@ navigation-v2-learn-how-firefox-treats = Découvrez comment { -brand-name-firefo
 navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Découvrez les nouvelles fonctionnalités de { -brand-name-firefox } et comment rester en sécurité en ligne.
 navigation-v2-release-notes = Notes de mise à jour
+navigation-v2-get-the-details-on-the = Consultez les détails des dernières mises à jour { -brand-name-firefox }.
 navigation-v2-view-all-firefox-browsers = Voir tous les { -brand-name-firefox-browsers }
 
 ## Products menu
@@ -26,11 +27,17 @@ navigation-v2-view-all-firefox-browsers = Voir tous les { -brand-name-firefox-br
 navigation-v2-products = Produits
 navigation-v2-close-products-menu = Fermer le menu Produits
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Vérifiez si votre adresse électronique est apparue dans une fuite de données d’une entreprise.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Enregistrez et découvrez les meilleurs articles du Web.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Empêchez { -brand-name-facebook } de collecter vos données en dehors de son site.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-learn-how-each-firefox-product = Découvrez comment chaque produit { -brand-name-firefox } protège et respecte vos données.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (bêta)
+navigation-v2-sign-up-for-new-accounts = Créez de nouveaux comptes sans transmettre votre adresse électronique.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (bêta)
+navigation-v2-protect-your-browsers-connection = Protégez la connexion de votre navigateur à Internet.
 navigation-v2-view-all-products = Voir tous les produits
 
 ## Who We Are menu
