@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-access-and-sync = Synchronisez vos marque-pages, mots de passe, onglets ouverts, etc. et accédez-y, partout où vous utilisez { -brand-name-firefox }.
 firefox-sync-sync-your-firefox = Synchronisez { -brand-name-firefox } sur n’importe quel appareil
 firefox-sync-all-you-need = Tout ce dont vous avez besoin pour configurer { -brand-name-firefox-sync } est d’un { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Chiffrez vos données

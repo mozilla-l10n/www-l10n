@@ -46,5 +46,7 @@ sub-navigation-ad-tracker-blocking = Blocage des traqueurs publicitaires
 sub-navigation-private-browsing = Navigation privée
 sub-navigation-what-is-a-browser = Qu’est-ce qu’un navigateur web ?
 sub-navigation-browsing-history = Historique de navigation
+sub-navigation-browser-history = L’histoire des navigateurs web
+sub-navigation-privacy = Confidentialité
 sub-navigation-our-promise = Notre engagement
 sub-navigation-our-products = Nos produits
