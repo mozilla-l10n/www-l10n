@@ -12,6 +12,7 @@ navigation-v2-menu = Menu
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(capitalization: "uppercase") }
 navigation-v2-close-firefox-browsers-menu = Fermer le menu { -brand-name-firefox-browsers(capitalization: "uppercase") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pour ordinateur
+navigation-v2-get-the-not-for-profit-backed = Adoptez le navigateur soutenu par une organisation à but non lucratif sous { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } pour { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pour { -brand-name-ios }
 navigation-v2-learn-how-firefox-treats = Découvrez comment { -brand-name-firefox } traite vos données avec respect.
