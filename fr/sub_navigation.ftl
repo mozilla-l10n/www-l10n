@@ -41,3 +41,4 @@ sub-navigation-firefox-features = Fonctionnalités de { -brand-name-firefox }
 sub-navigation-ad-tracker-blocking = Blocage des traqueurs publicitaires
 sub-navigation-private-browsing = Navigation privée
 sub-navigation-what-is-a-browser = Qu’est-ce qu’un navigateur web ?
+sub-navigation-our-products = Nos produits
