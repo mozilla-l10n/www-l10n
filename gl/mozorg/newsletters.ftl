@@ -86,6 +86,10 @@ newsletters-love-the-web-so-do-we = Gústalle a Internet? A nós tamén!
 newsletters-unlock-the-world-of-web = Desbloquea o mundo do desenvolvemento web co noso boletín informativo semanal para desenvolvedores { -brand-name-mozilla }. Cada edición ofréceche técnicas e mellores prácticas de codificación, actualizacións de { -brand-name-mdn }, información sobre tecnoloxías emerxentes, consellos sobre ferramentas para desenvolvedores e moito máis.
 # Obsolete string
 newsletters-join-thousands-of-developers = Únete a miles de desenvolvedores coma ti que están aprendendo o mellor do desenvolvemento web.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox =
+    Para experiencias fabulosas </a>
+    enche o correo de raposas
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Comproba ata onde te podes chegar na Web con consellos mensuais, trucos e información sobre Internet sobre { -brand-name-firefox }
 newsletters-we-are-sorry-but-there = Sentímolo, pero houbo un problema co noso sistema. Por favor, inténtao de novo máis tarde!

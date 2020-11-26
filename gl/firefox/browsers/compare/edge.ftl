@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # HTML page title.
-compare-edge-firefox-vs-microsoft-edge-which = O { -brand-name-firefox } ou o { -brand-name-microsoft } { -brand-name-edge }?: Cal é o mellor navegador para ti?
+compare-edge-firefox-vs-microsoft-edge-which = O { -brand-name-firefox } ou o { -brand-name-microsoft } { -brand-name-edge }?: Cal se adapta mellor a ti?
 # HTML page description.
 compare-edge-compare-microsoft-edge-to-the = Compara o { -brand-name-microsoft } { -brand-name-edge } co { -brand-name-firefox-browser } para descubrir cal é o mellor navegador para ti.
 # Main title.
