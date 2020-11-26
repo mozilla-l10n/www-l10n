@@ -10,6 +10,7 @@ navigation-v2-menu = Meni
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Zapri meni { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za namizja
 navigation-v2-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Pridobite prilagodljiv mobilni brskalnik za pametne telefone { -brand-name-android }.
@@ -32,6 +33,8 @@ navigation-v2-help-prevent-facebook-from = Otežite { -brand-name-facebook }u zb
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Zaščitite svojo povezavo brskalnika z internetom.
+navigation-v2-view-all-products = Prikaži vse izdelke
 
 ## Who We Are menu
 
@@ -42,7 +45,11 @@ navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Pridružite se
 navigation-v2-join-the-fight-for-a = Pridružite se boju za zdrav internet.
 navigation-v2-leadership = Vodstvo
+navigation-v2-meet-the-team-thats-building = Spoznajte ekipo, ki gradi tehnologijo za boljši internet.
 navigation-v2-careers = Zaposlitev
+navigation-v2-work-for-a-mission-driven-updated = Delajte za organizacijo, katere izdelki temeljijo na poslanstvu in postavljajo ljudi na prvo mesto.
+navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
+navigation-v2-more-about-mozilla = Več o { -brand-name-mozilla(sklon: "mestnik") }
 
 ## Innovation menu
 

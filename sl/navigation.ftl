@@ -45,6 +45,7 @@ navigation-experience-augmented = Doživite razširjeno in navidezno resničnost
 navigation-meet-people-in-experimental = Spoznajte ljudi v poskusnih klepetalnicah Mixed Reality s { -brand-name-firefox }om.
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } prinaša navidezno in razširjeno resničnost na odprti splet.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } prinaša { -brand-name-firefox } v razširjeno in navidezno resničnost.
 navigation-firefox-built-just-for = { -brand-name-firefox }, ustvarjen samo za razvijalce.
