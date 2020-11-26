@@ -7,3 +7,4 @@
 
 firefox-products-are = Os produtos do { -brand-name-firefox } están deseñados para protexer a túa privacidade
 the-firefox-browser = O navegador { -brand-name-firefox } foi creado para protexer a túa privacidade en cada momento xa que é o método máis veloz de liberarte de cargas lentas, anuncios ruíns e rastrexadores.
+firefox-more-firefox-chromebook = O navegador do { -brand-name-firefox } polo do { -brand-name-chromebook }
