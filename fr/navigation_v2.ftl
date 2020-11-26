@@ -14,7 +14,9 @@ navigation-v2-close-firefox-browsers-menu = Fermer le menu { -brand-name-firefox
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pour ordinateur
 navigation-v2-get-the-not-for-profit-backed = Adoptez le navigateur soutenu par une organisation à but non lucratif sous { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } pour { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Obtenez le navigateur mobile personnalisable pour les smartphones { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pour { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Obtenez le navigateur mobile pour votre { -brand-name-iphone } ou { -brand-name-ipad }.
 navigation-v2-learn-how-firefox-treats = Découvrez comment { -brand-name-firefox } traite vos données avec respect.
 navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Découvrez les nouvelles fonctionnalités de { -brand-name-firefox } et comment rester en sécurité en ligne.
@@ -51,8 +53,11 @@ navigation-v2-meet-the-not-for-profit-behind = Découvrez l’organisation à bu
 navigation-v2-get-involved = S’impliquer
 navigation-v2-join-the-fight-for-a = Aidez-nous à lutter pour un Internet en bonne santé.
 navigation-v2-leadership = Direction
+navigation-v2-meet-the-team-thats-building = Découvrez l’équipe qui développe des technologies pour un meilleur Internet.
 navigation-v2-careers = Emplois
 navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Apprenez-en davantage sur { -brand-name-mozilla } et les problématiques qui nous animent.
+navigation-v2-more-about-mozilla = Plus d’informations sur { -brand-name-mozilla }
 
 ## Innovation menu
 
