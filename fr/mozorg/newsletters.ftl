@@ -192,7 +192,7 @@ newsletters-download-firefox-for-ios = Téléchargez { -brand-name-firefox } pou
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Téléchargez { -brand-name-firefox } pour mobile
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Des astuces pour votre { -brand-name-firefox-accounts }
+newsletters-firefox-accounts-tips = Des astuces pour votre { -brand-name-firefox-account }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
 newsletters-get-the-most-firefox-account = Tirez le meilleur parti de votre { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
