@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Fersiferje jo gegevens
 firefox-sync-your-encryption-key = Jo fersiferingskaai bliuwt in geheim, allinnich bekend by jo en jo autorisearre apparaten.
 firefox-sync-feel-safe = Fiel jo feilich
 firefox-sync-we-store-your = Wy bewarje jo fersifere gegevens op ús servers, dus wy kinne se net lêze.
-start-syncing-in = Begjin mei syngronisearjen yn fjouwer ienfâldige stappen:
+firefox-sync-start-syncing-in = Begjin mei syngronisearjen yn fjouwer ienfâldige stappen:
 firefox-sync-open-the-menu = Iepenje it menu rjochtsboppe { -brand-name-firefox } en selektearje <strong>‘Oanmelde by { -brand-name-sync }</strong>.’
 firefox-sync-click-get-started = Klik op <strong>‘Fan start’</strong> yn it ljepblêd dat iepene wurdt.
-enter-an-email = Fier in e-mailadres en wachtwurd yn om <strong>‘In { -brand-name-firefox-account } te meitsjen.’</strong>
+firefox-sync-enter-an-email = Fier in e-mailadres en wachtwurd yn om <strong>‘In { -brand-name-firefox-account } te meitsjen.’</strong>
 firefox-sync-click-next-to = Klik op <strong>‘Folgjende’</strong> sadat der in ferifikaasjeberjocht nei jo e-mailadres ferstjoerd wurdt.
 firefox-sync-after-you-check = As jo jo e-mail kontrolearre hawwe en op de ferifikaasjekeppeling klikke, begjint { -brand-name-firefox } automatysk op de eftergrûn te syngronisearjen.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
