@@ -5,13 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Páxina de primeira execución de { -brand-name-firefox-nightly }
-nightly-firstrun-thank-you-for-using = Grazas por usar { -brand-name-firefox-nightly }
-nightly-firstrun-choose-an-area = Escolla unha área na que involucrarse e axude a mellorar { -brand-name-firefox } para todos os usuarios do mundo
-nightly-firstrun-test = Proba
-nightly-firstrun-find-and-file-bugs = Atope e informe sobre o mal funcionamento (abra bugs) para que as cousas funcionen como deberían.
-nightly-firstrun-start-testing = Iniciar proba
-nightly-firstrun-code = Código
+nightly-firstrun-firefox-nightly = Primeira execución do { -brand-name-firefox-nightly }
+nightly-firstrun-thank-you-for-using = Grazas por usar o { -brand-name-firefox-nightly }
+nightly-firstrun-choose-an-area = Escolle unha área na que te queiras involucrar e axuda a mellorar o { -brand-name-firefox } para todos os usuarios do mundo
+nightly-firstrun-test = Analiza
+nightly-firstrun-find-and-file-bugs = Encontra erros, notifícaos e asegúrate de que todo funciona como debería.
+nightly-firstrun-start-testing = Comezar a analizar
+nightly-firstrun-code = Codifica
 nightly-firstrun-file-bugs-and-work = Informe sobre o mal funcionamento (abra bugs) e colabore co desenvolvemento do navegador { -brand-name-firefox }.
 nightly-firstrun-start-coding = Comezar a escribir código
 nightly-firstrun-localize = Localizar
