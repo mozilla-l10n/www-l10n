@@ -16,10 +16,15 @@ password-manager-password-hero = Rumama'al ewan tzij
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Timestäx ri koloj. { -brand-name-firefox } Password Manager yeruyäk konojel ri taq ewan atzij richin pa ruyonil tutikirisaj molojri'ïl chuqa' man k'ayew ta nawïl ri taq ewan tzij e'ayakon. Richin jun nïm jikomal, taya' chi re ri akematz'ib' jun <a href="{ $url }">rute' ewan tzij</a>.
+password-manager-password-magician = Rajitz ewan tzij
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ewan tzij ninja
 password-manager-no-more-try-again = Mani chik “tatojtob'ej chik” richin yatok pa jun ruxaq k'amaya'l. Tatikirisaj molojri'ïl pa { -brand-name-firefox-account } pan awoyonib'al chuqa' ri ewan taq atzij eb'enäq awik'in. Ri taq atzij richin okem xa xkeq'alajin pe, ke re'.
+password-manager-password-champion = Ch'akonel ewan tzij
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Tach'aka' ri seton aq'anapwaq chi rij jikomal rik'in ri jalajöj kiwäch taq rutz'aqat { -brand-name-firefox } <a href="{ $addons }">taq tz'aqat</a>. Tacha' jun ajowab'äl ri k'o o takanoj jun ruxak jun chik xak rik'in taq tojtob'enïk chuqa' taq rejqalem kitinamit etamanela'.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Rute' ewan tzij
