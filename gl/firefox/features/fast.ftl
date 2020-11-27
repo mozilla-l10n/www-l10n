@@ -6,15 +6,15 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 # HTML page title
-features-fast-get-more-done-browse-faster = Aumente a súa produtividade. Navegue máis rápido e máis lixeiro con múltiples lapelas
+features-fast-get-more-done-browse-faster = Aumenta a produtividade. Navega máis rápido e máis fácil con múltiples lapelas
 # HTML description
-features-fast-our-new-powerful-multi-process = O novo sistema multiproceso é capaz de xestionar todas as lapelas sen que afecta a velocidade do seu computador.
-features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } é agora máis rápido e lixeiro
-features-fast-weve-been-working-out-so-you = Fixemos o Firefox máis rápido para axudalo a traballar mellor.
-features-fast-use-less-memory = Usa menos memoria
+features-fast-our-new-powerful-multi-process = A nova e potente plataforma multiproceso xestiona todas as lapelas sen reducir a velocidade do ordenador.
+features-fast-firefox-is-now-faster-and-leaner = Agora o { -brand-name-firefox } é máis rápido e áxil
+features-fast-weve-been-working-out-so-you = Démoslle duro para poderes facer máis cousas.
+features-fast-use-less-memory = Menor consumo de memoria
 # A "computer hog" here means software that consumes a lot of memory and resources
-features-fast-no-one-likes-a-computer-hog = A ninguén lle gusta un monstro informático que devora todos os recursos do sistema. { -brand-name-firefox } é un navegador lixeiro e de alto rendemento. Debido a que usa menos RAM que { -brand-name-chrome }, outros programas poden continuar executándose a toda velocidade.
-features-fast-get-all-the-tabs-without-lags = Obteña todas as lapelas sen demora
+features-fast-no-one-likes-a-computer-hog = A ninguén lle gusta un programa que engula todos os recursos do ordenador. O { -brand-name-firefox } é un navegador que consome o xusto é necesario. Como consome menos memoria RAM que o { -brand-name-chrome }, o resto de programas seguirán a funcionar a máxima velocidade.
+features-fast-get-all-the-tabs-without-lags = Todas as lapelas ao momento
 features-fast-multi-tasking-with-multiple = Agora é máis fácil realizar múltiples tarefas con múltiples lapelas. { -brand-name-firefox } é agora un navegador multiproceso, o que significa que as lapelas activas non tardan moito en recargarse. Cun 86% menos de tempo de espera, pode pasar rapidamente dunha lapela á seguinte, incluso se abre outras.
 features-fast-level-up-browser-gameplay = Pasa ao seguinte nivel
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
