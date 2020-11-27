@@ -18,11 +18,11 @@ firefox-all-platform = Plataforma:
 firefox-all-language = Idioma:
 firefox-all-sorry-we-couldnt-find = Sentímolo, non puidemos encontrar a descarga que buscabas. Téntao de novo ou selecciona unha descarga da lista.
 firefox-all-the-pre-alpha-version = A versión previa á alfa para usuarios avanzados aos que lles gusta buscar erros e probar novas características tan pronto como estean codificadas.
-firefox-all-64-bit-installers = Instaladores para 64 bits
-firefox-all-choose-a-64-bit-installer = Elixa un instalador para 64 bits para computadoras con procesadores de 64 bits, que lles permitan asignar máis memoria RAM a programas individuais, especialmente importantes para xogos e outras aplicacións esixentes.
-firefox-all-32-bit-installers = Instaladores para 32 bits
+firefox-all-64-bit-installers = Instaladores de 64 bits
+firefox-all-choose-a-64-bit-installer = Escolle un instalador de 64 bits para computadoras con procesadores de 64 bits, o cal lles permite asignar máis memoria RAM a programas individuais (especialmente importante para xogos e outras aplicacións esixentes).
+firefox-all-32-bit-installers = Instaladores de 32 bits
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Descargue o { -brand-name-firefox-browser } en inglés (EUA) e en máis de 90 idiomas
+firefox-all-download-the-firefox = Descarga o { -brand-name-firefox-browser } en galego e en máis de 90 idiomas
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Todo o mundo merece acceder á Internet; o seu idioma nunca debe ser unha barreira. É por iso que, coa axuda de voluntarios dedicados a isto de todo o mundo, facemos que { -brand-name-firefox-browser } estea dispoñible en máis de 90 idiomas.
 firefox-all-choose-which-firefox = Escolla que { -brand-name-firefox-browser } para descargalo no seu idioma
