@@ -27,7 +27,7 @@ firefox-channel-beta-is-an-unstable-testing = A versión { -brand-name-beta } é
 firefox-channel-firefox-beta-automatically = O { -brand-name-firefox-beta } envía automaticamente as opinións a { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
-firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Dános a túa opinion</a> para axudarnos a realizar os axustes finais no rendemento e as funcionalidades nun entorno estábel.
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Dános a túa opinion</a> para nos axudares a realizar os axustes finais no rendemento e as funcionalidades nun entorno estábel.
 firefox-channel-check-out-new-android-features = Proba as novas características para { -brand-name-android } nas primeiras etapas de desenvolvemento. Aprovéitaas baixo a túa responsabilidade.
 firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 # Variables:
