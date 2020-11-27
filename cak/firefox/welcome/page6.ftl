@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page6-make-firefox-your-default = Tab'ana' chi ri { -brand-name-firefox } nok ri nab'ey awokik'amaya'l
 welcome-page6-make-sure-youre-protected = Tajikib'a' chi atchajin toq yatok pa k'amab'ey
+welcome-page6-when-you-choose-firefox-you = Toq nacha' { -brand-name-firefox }, nato' jun ütz ajk'amaya'l chawe chuqa' chi kiwa qonojel. Kaq'ax richin nato' awi'.
 welcome-page6-get-the-firefox-app = Tak'ulu' ri { -brand-name-firefox } App
 welcome-page6-get-firefox-on-your-phone = Tak'ulu' ri { -brand-name-firefox } pan Awoyonib'al
 welcome-page6-scan-the-qr-code-to-get-started = Tiq'axawachib'ëx ri QR b'itz'ib' richin nitikirisäx

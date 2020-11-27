@@ -10,6 +10,7 @@ facebook-container-millions-of-people-around = T'ijtäq chi winaqi' chijun ri ru
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Ütz chajin. Man takomonij ri ronojel ri ak'aslem.
 facebook-container-get-the-facebook-container = Tik'ul ri { -brand-name-facebook-container } Ruk'amal
 facebook-container-download-firefox-and-get-the = Tiqasäx { -brand-name-firefox } chuqa' tik'ul ri { -brand-name-facebook-container } Ruk'amal
+facebook-container-only-available-for-desktop = Ri { -brand-name-facebook-container } K'amal xa xe k'o richin { -brand-name-firefox } richin kematz'ib',
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
