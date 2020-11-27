@@ -95,13 +95,27 @@ newsletters-mozillians = Mozillianos
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = Actualisationes e-posta pro Mozillianos certificate sur mozillians.org.
 # Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Student Reps
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-community = Communitate { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Junge te al mozillianos de tote le mundo e sape plus re opportunitates de grande impacto pro supportar le mission de { -brand-name-mozilla }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+# Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-beta-news = Novas de { -brand-name-beta }
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-ios = Discarga { -brand-name-firefox } pro { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Discargar { -brand-name-firefox } pro mobile
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Tu
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Party creator
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Name for the newsletter in Newsletter subscription page
@@ -110,6 +124,8 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 newsletters-mozilla-news = Actualitate de { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Annuncios exclusive e messages per le equipa dedicate a mantener le Web libere e aperte.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)

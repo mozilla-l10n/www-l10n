@@ -10,3 +10,4 @@ firefox-sync-sync-your-firefox = Synchronisa { -brand-name-firefox } su tote tu 
 firefox-sync-privacy-made-easy = Confidentialitate rendite facile
 firefox-sync-all-you-need = Pro usar { -brand-name-firefox-sync } tu besonia solo de un { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Crypta tu datos
+firefox-sync-click-next-to = Clicca <strong>“Avantiar”</strong> pro obtener un e-posta de confirmation.
