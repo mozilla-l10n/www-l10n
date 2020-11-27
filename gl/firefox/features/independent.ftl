@@ -8,12 +8,12 @@
 # HTML page title
 features-independent-firefox-a-different = { -brand-name-firefox }, un navegador diferente para o noso tempo. Navega libre.
 # HTML page description
-features-independent-browse-the-internet = Navega pola Internet como se supón que ela debería ser: libre, segura e accesíbel para todos. Declara a túa independencia en liña.
+features-independent-browse-the-internet = Navega pola Internet tal como esta debería ser: libre, segura e accesíbel para todos. Declara a túa independencia en liña.
 features-independent-firefox-rebel-with-a = O { -brand-name-firefox }, un rebelde con causa
 features-independent-firefox-is-independent = O { -brand-name-firefox } é un navegador independente desenvolvido por { -brand-name-mozilla }, unha fundación sen ánimo de lucro que loita polos dereitos na rede, mantén baixo control os poderes corporativos e fai que a Internet sexa accesíbel para todos e en calquera lugar.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Sen compromisos
-features-independent-firefox-is-built-by-v2 = O { -brand-name-firefox } foi deseñado por unha organización sen ánimo de lucro, o que significa que podemos facer cousas que outros non poden, como deseñar novos produtos e funcións sen agochar nada. Defendemos o dereito á privacidade con ferramentas como a navegación privada con protección contra o rastrexo.
+features-independent-firefox-is-built-by-v2 = O { -brand-name-firefox } foi deseñado por unha organización sen fins lucrativos, o que significa que podemos facer cousas que outros non poden, como deseñar novos produtos e funcións sen agochar nada. Defendemos o teu dereito á privacidade con ferramentas como a navegación privada con protección contra o rastrexo.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } foi deseñado por unha organización sen ánimo de lucro, o que significa que podemos facer cousas que outros non poden, como deseñar novos produtos e funcións sen agochar nada. Defendemos o dereito á privacidade con ferramentas como a navegación privada con protección de rastrexo, que van máis aló do que permiten { -brand-name-google } { -brand-name-chrome } e { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = O que ves é o que hai
