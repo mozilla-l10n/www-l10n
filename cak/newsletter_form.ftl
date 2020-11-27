@@ -28,5 +28,6 @@ newsletter-form-select-country = Tacha' jun amaq'
 newsletter-form-sign-me-up = ¡Titz'ib'äx nub'i'!
 newsletter-form-sign-up-now = Tatz'ib'aj awi' wakami
 newsletter-form-thanks = ¡Matyox!
+newsletter-form-leave-this-field-empty = Takowob'a' kan re k'ojlib'äl re'.
 newsletter-form-yes = Ja'
 newsletter-form-no = Mani
