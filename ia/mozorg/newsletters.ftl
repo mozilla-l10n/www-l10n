@@ -53,6 +53,7 @@ newsletters-would-you-mind-telling-us = Pote tu dicer nos pro qual rationes tu a
 newsletters-other = Altere…
 newsletters-submit = Inviar
 newsletters-thanks-for-telling-us-why = Gratias pro dicer nos per qual ration tu abandona.
+newsletters-while-here-why-not-check = Durante que tu es ci, proque tu non discoperi alcun altere meravilias de { -brand-name-firefox }.
 newsletters-get-up-and-go = Recipe e vade
 newsletters-its-your-web-anywhere-you = Illo es tu web ubicunque tu va.
 newsletters-get-firefox-for-mobile = Installar { -brand-name-firefox } pro mobile!
