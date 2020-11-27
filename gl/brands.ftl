@@ -26,7 +26,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser = Navegador Firefox
 -brand-name-firefox-browsers = Navegadores Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -67,7 +67,7 @@
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-private-network = Rede privada do Firefox
 
 ## Firefox products (short names)
 
