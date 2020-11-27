@@ -14,30 +14,30 @@ firefox-accounts-take-your-stand-stay-smart = Enfróntate coa industria que vend
 # Old HTML page description
 firefox-accounts-securely-sync-your = Sincroniza de xeito seguro os contrasinais, marcadores e lapelas en todos os dispositivos. Fai unha conta Firefox agora: un inicio de sesión. Poder e privacidade en todos os sitios.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = Hai un xeito de protexer a súa privacidade. <span>Únase a { -brand-name-firefox }.</span>
+firefox-accounts-there-is-a-way-to-protect = Hai un xeito de protexer a túa privacidade. <span>Únete ao { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
-firefox-accounts-take-your-stand-against = Enfróntese á industria que o está a converter no produto.
+firefox-accounts-take-your-stand-against = Enfróntate coa industria que te está a converter no seu produto.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = Iniciou unha sesión en { -brand-name-firefox }. <br><span>Probe agora o { -brand-name-firefox-monitor }.</span>
-firefox-accounts-see-if-youve-been = Vexa se foi vítima dunha violación de datos na rede.
-firefox-accounts-sign-in-to-monitor = Inicie sesión en { -brand-name-monitor }
-firefox-accounts-join-firefox = Únase a { -brand-name-firefox }
-firefox-accounts-enter-your-email-address = Introduza o seu enderezo de correo electrónico para comezar.
-firefox-accounts-already-have-an-account = Xa ten unha conta?
-firefox-accounts-sign-in = Identificarse
-firefox-accounts-meet-our-family-of = Coñeza a nosa familia de produtos coa privacidade por diante.
-firefox-accounts-firefox-is-technology = { -brand-name-firefox } é a tecnoloxía que loita por vostede.
-firefox-accounts-get-technology-that = Obteña tecnoloxía que loite por vostede.
-firefox-accounts-travel-the-internet = Viaxe por internet con protección, en todos os dispositivos.
-firefox-accounts-keep-your-passwords = Manteña os seus contrasinais protexidos e portátiles.
-firefox-accounts-get-a-lookout-for = Revise violacións de datos.
-firefox-accounts-share-large-files = Comparta ficheiros grandes sen ollos indiscretos.
-firefox-accounts-get-it-all-on-every = Léveo todo en todos os dispositivos, sen sentirse atrapado nun só sistema operativo.
-firefox-accounts-and-get-it-all-on = E léveo todo en todos os dispositivos, sen sentirse atrapado nun só sistema operativo.
-firefox-accounts-get-the-respect-you = Obteña o respecto que merece.
+firefox-accounts-youre-signed-in-to = Iniciaches sesión <br>no { -brand-name-firefox }. <br><span>Agora proba o { -brand-name-firefox-monitor }.</span>
+firefox-accounts-see-if-youve-been = Comproba se fuches vítima dunha violación de datos na rede.
+firefox-accounts-sign-in-to-monitor = Iniciar sesión no { -brand-name-monitor }
+firefox-accounts-join-firefox = Unirse ao { -brand-name-firefox }
+firefox-accounts-enter-your-email-address = Escribe o teu enderezo de correo electrónico para comezar.
+firefox-accounts-already-have-an-account = Xa tes unha conta?
+firefox-accounts-sign-in = Iniciar sesión
+firefox-accounts-meet-our-family-of = Coñece a nosa familia de produtos que se centran na privacidade.
+firefox-accounts-firefox-is-technology = O { -brand-name-firefox } é unha tecnoloxía que loita por ti.
+firefox-accounts-get-technology-that = Consigue unha tecnoloxía que loita por ti.
+firefox-accounts-travel-the-internet = Navega pola Internet protexido desde calquera dispositivo.
+firefox-accounts-keep-your-passwords = Mantén os seus contrasinais protexidos e portátiles.
+firefox-accounts-get-a-lookout-for = Comproba se hai violacións de datos.
+firefox-accounts-share-large-files = Comparte ficheiros grandes evitando miradas indiscretas.
+firefox-accounts-get-it-all-on-every = Lévao todo en todos os dispositivos, sen sentíreste atrapado nun único sistema operativo.
+firefox-accounts-and-get-it-all-on = E lévao todo en todos os dispositivos, sen sentíreste atrapado nun único sistema operativo.
+firefox-accounts-get-the-respect-you = Obtén o respecto que mereces.
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = Sempre obterá a verdade de nós. Todo o que facemos honra a nosa <a href="{ $promise }">Promesa de datos persoais</a>:
+firefox-accounts-youll-always-get-the = Sempre che contaremos a verdade. Todo o que facemos cumpre co noso <a href="{ $promise }">Compromiso cos datos persoais</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Tome menos.<br> Mantéñao a salvo.<br> Sen segredos.
 firefox-accounts-get-the-knowledge = Obteña o coñecemento para manterse seguro.
