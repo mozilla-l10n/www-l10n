@@ -14,7 +14,7 @@ download-button-systems-languages = Sistemas e idiomas
 download-button-recommended = Recomendado
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } xa non fornece actualizacións de seguranza para { -brand-name-firefox } en { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }</a>, pero aínda pode descargar a versión final para { -brand-name-windows } 32-bit abaixo.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } xa non fornece actualizacións de seguridade para o { -brand-name-firefox } en { -brand-name-windows } { -brand-name-xp } nin en { -brand-name-vista }</a>, pero aínda podes descargar a versión final de 32 bits para { -brand-name-windows } aquí abaixo.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Para instalar { -brand-name-firefox }, <a href="{ $url }">siga estas instrucións</a>.
