@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Taqasaj ri { -brand-name-firefox-browser } pan awoyonib'al richin { -brand-name-ios } chuqa' { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Pispwäq. Jaqb'äl. Oyonib'äl. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-privacy-every-screen-now = Wakami tak'ulu' ichinanem pan jujun ruwa
 welcome-page4-take-privacy-with-you-on-every = Tak'waj awik'in ri awichinanem pa jujun taq okisab'äl — chuqa' kek'oje' kan chawij ri kojqanela' tzij.
 welcome-page4-get-the-firefox-mobile = Tak'ulu' { -brand-name-firefox } Oyonib'äl
 welcome-page4-get-firefox-on-your-phone = Tak'ulu' ri { -brand-name-firefox } pan Awoyonib'al

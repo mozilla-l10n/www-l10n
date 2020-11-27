@@ -7,6 +7,8 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Tab'ana' chi ri { -brand-name-firefox } nok ri nab'ey awokik'amaya'l
+# HTML page description
+set-as-default-landing-choose-the-browser = Tacha' ri okik'amaya'l nuchajij ri awichinanem. Tab'ana' chi ri { -brand-name-firefox } tok ri awokik'amaya'l kan k'o wi.
 set-as-default-landing-make-sure-youre-protected = Tajikib'a' chi atchajin toq yatok pa k'amab'ey
 set-as-default-landing-thanks-for-using-the = Matyox ruma nawokisaj ri k'ak'a' ruwäch { -brand-name-firefox }. Toq nacha' ri { -brand-name-firefox } yato'on chi ütz nub'än chawäch ri ajk'amaya'l chuqa' chi qe qonojel. Wakami taya' ri nab'ey xak richin nachajij awi'.
 set-as-default-landing-choose-automatic-privacy = Tacha' ruyonil ichinanem
