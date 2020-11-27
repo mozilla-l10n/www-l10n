@@ -17,18 +17,18 @@ download-button-recommended = Recomendado
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } xa non fornece actualizacións de seguridade para o { -brand-name-firefox } en { -brand-name-windows } { -brand-name-xp } nin en { -brand-name-vista }</a>, pero aínda podes descargar a versión final de 32 bits para { -brand-name-windows } aquí abaixo.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Para instalar { -brand-name-firefox }, <a href="{ $url }">siga estas instrucións</a>.
+download-button-please-follow-these = Para instalar o { -brand-name-firefox }, segue <a href="{ $url }">estas instrucións</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = O seu sistema non cumpre os <a href="{ $url }">requisitos</a> necesarios para executar { -brand-name-firefox }.
+download-button-your-system-does-not = O teu sistema non cumpre os <a href="{ $url }">requisitos necesarios</a> para executar o { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } para outras plataformas e idiomas
-download-button-update-your-firefox = Actualice o seu { -brand-name-firefox }
+download-button-update-your-firefox = Actualiza o teu { -brand-name-firefox }
 download-button-get-firefox-android = Obter o { -brand-name-firefox } para { -brand-name-android }
 download-button-get-firefox-ios = Obter o { -brand-name-firefox } para { -brand-name-ios }
-download-button-google-play = Obteno en { -brand-name-google-play }
-download-button-free-google-play = Obteno de balde en { -brand-name-google-play }
+download-button-google-play = Obteno na { -brand-name-google-play }
+download-button-free-google-play = Obteno de balde na { -brand-name-google-play }
 download-button-app-store = Obteno de balde na { -brand-name-app-store }
-download-button-download-app-store = Descárgueo da { -brand-name-app-store }
+download-button-download-app-store = Descárgao na { -brand-name-app-store }
 download-button-download-firefox = Descargar o { -brand-name-firefox }
 download-button-your-system-may = Quizais o seu sistema non cumpra cos requisitos de { -brand-name-firefox }, pero pode probar unha destas versións:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> para { -brand-name-android }
