@@ -15,7 +15,7 @@ features-fast-use-less-memory = Menor consumo de memoria
 # A "computer hog" here means software that consumes a lot of memory and resources
 features-fast-no-one-likes-a-computer-hog = A ninguén lle gusta un programa que engula todos os recursos do ordenador. O { -brand-name-firefox } é un navegador que consome o xusto é necesario. Como consome menos memoria RAM que o { -brand-name-chrome }, o resto de programas seguirán a funcionar a máxima velocidade.
 features-fast-get-all-the-tabs-without-lags = Todas as lapelas ao momento
-features-fast-multi-tasking-with-multiple = Agora é máis fácil realizar múltiples tarefas con múltiples lapelas. { -brand-name-firefox } é agora un navegador multiproceso, o que significa que as lapelas activas non tardan moito en recargarse. Cun 86% menos de tempo de espera, pode pasar rapidamente dunha lapela á seguinte, incluso se abre outras.
+features-fast-multi-tasking-with-multiple = Agora é máis fácil realizar múltiples tarefas con múltiples lapelas. O { -brand-name-firefox } é un navegador multiproceso: as lapelas están sempre actualizadas e non tardan un século en recargárense. Ofrece un 86% menos de tempo de espera e podes pasar rapidamente dunha lapela á seguinte, ao mesmo tempo que abres outras.
 features-fast-level-up-browser-gameplay = Pasa ao seguinte nivel
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
 features-fast-we-led-the-tech-to-run-3d-games = Lideramos a tecnoloxía que permite executar xogos 3D a velocidade case nativa, e agora, { -brand-name-firefox } permite un mellor rendemento no xogo en liña. O noso potente navegador reduce as sacudidas, mellora os tempos de resposta e optimiza a forma de xogar cunha navegación máis rápida e lixeira.
