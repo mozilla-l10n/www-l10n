@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = Hai un xeito de protexer a súa privacidade. Únase a { -brand-name-firefox }.
+firefox-accounts-there-is-a-way-to = Hai un xeito de protexer a túa privacidade. Únete ao { -brand-name-firefox }.
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = Obter unha conta de { -brand-name-firefox-account }: manteña os seus datos privados, seguros e sincronizados
 # HTML page description
