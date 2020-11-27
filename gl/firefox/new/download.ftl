@@ -64,7 +64,7 @@ firefox-new-download-interrupted = Interrompeuse a descarga, pero non está todo
 firefox-new-please-follow = Para instalar { -brand-name-firefox }, sigue <a href="{ $url }">estas instrucións</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-system-may-not = Quizais o teu sistema non cumpra cos requisitos do { -brand-name-firefox }, pero podes probar unha <a href="{ $url }">destas versións</a>.
+firefox-new-your-system-may-not = Poida que o teu sistema non cumpra cos requisitos para instalar { -brand-name-firefox }, pero podes probar unha <a href="{ $url }">destas versións</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
