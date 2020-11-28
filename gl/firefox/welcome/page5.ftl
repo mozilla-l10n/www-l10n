@@ -20,5 +20,5 @@ welcome-page5-with-256-bit-encryption-your = Co cifrado de 256 bits, os teus con
 welcome-page5-no-more-making-up-new-passwords = Basta de inventar novos contrasinais
 welcome-page5-lockwise-will-recommend-new = O { -brand-name-lockwise } recomendará novos contrasinais fortes sempre que configurares un novo inicio de sesión.
 welcome-page5-help-during-a-breach = Axuda durante unha falla de seguridade
-welcome-page5-lockwise-will-let-you-know = O { -brand-name-lockwise } informarache se as túas credenciais gardadas formaren parte dunha falla de seguridade de datos corporativa, para que as podas modificar o mais rapidamente posíbel.
+welcome-page5-lockwise-will-let-you-know = O { -brand-name-lockwise } informarate se as túas credenciais gardadas formaren parte dunha falla de seguridade de datos corporativa, para que as poidas modificar o mais rapidamente posíbel.
 welcome-page5-why-am-i-seeing-this = Por que estou a ver isto?
