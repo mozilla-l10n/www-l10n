@@ -15,9 +15,13 @@ firefox-enterprise-get-firefox-for-your-enterprise = Tak'ulu' { -brand-name-fire
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Tik'ul ri <a href="{ $url }">{ -brand-name-firefox-extended-support-release } o Rapid Release</a> okik'amaya'l richin jun jikom chuqa' tz'aqät kichajinik taq tzij.
 firefox-enterprise-unmatched-data-protection = Man relik ta ruchajixik tzij — rik'in ri jutaqil taq ruk'exoj nik'atzin chawe.
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = Ri { -brand-name-firefox } jaqäl rub'itz'ib' chuqa' nuya' utzirisan chajinïk chuwäch ojqanem — ronojel richin ri niqajo' niqasüj pa nïm q'ijul rik'in ri kichajixik tzij.
 firefox-enterprise-your-data-stays-your-business = Ri taq tzij xa xe e awichin
 firefox-enterprise-deploy-when-and-how-you-want = Tatz'aqatisaj jampe' chuqa' achi'el nawajo'
+firefox-enterprise-with-install-packages-and = Rik'in jumolaj yakoj chuqa' jun nïm rutaluxik na'ojil chuqa' rusamaj molaj, ri ruya'ik yalan anin chuqa' jalel achi'el majub'ey tz'eton, chuqa' man k'ayew ta pa taq kik'ojlib'al { -brand-name-windows } chuqa' { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Tacha' ri rucholajem elesanïk
+firefox-enterprise-get-rapid-releases-to-make = Tak'ulu' Rapid Release richin at jikïl chi ye'akül ri ruk'isib'äl taq samaj pan aninäq, o ESR richin najikib'a' jun nïm chuqa' ruk'amon etamab'äl.
 firefox-enterprise-enterprise-downloads = Taq ruqasaxik { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -28,6 +32,11 @@ firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-exte
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI yakb'äl
 firefox-enterprise-support = Tob'äl
 firefox-enterprise-msi-installers = MSI yakonela'
+firefox-enterprise-legacy-browser-support = Ruk'amon ri' kik'in ojer taq okik'amaya'l
+firefox-enterprise-admx-templates = ADMX taq plantiya'
+firefox-enterprise-deployment-guide = Rucholajem Ruya'ik
+firefox-enterprise-policy-documentation = Kimolik Na'ojil
 firefox-enterprise-release-notes = Ruch'utitzijol Ruwäch
+firefox-enterprise-documentation-and-community = Molïk chuqa' Ruto'ik Tinamït
 firefox-enterprise-pkg-installer = PKG yakonel
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
