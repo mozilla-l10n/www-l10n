@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Страница первого запуска ночной сборки Firefox
-nightly-firstrun-thank-you-for-using = Спасибо, что используете ночную сборку Firefox
+nightly-firstrun-firefox-nightly = Страница первого запуска { -brand-name-firefox-nightly }
+nightly-firstrun-thank-you-for-using = Спасибо, что используете { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Выберите ниже, чем бы вы хотели заняться, и помогите улучшить { -brand-name-firefox } для пользователей со всего мира
 nightly-firstrun-test = Тестирование
 nightly-firstrun-find-and-file-bugs = Ищите ошибки, сообщайте о них и просто проверяйте, что всё работает как надо.
