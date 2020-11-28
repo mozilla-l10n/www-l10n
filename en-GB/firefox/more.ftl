@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } products are designed to protect your privacy
+learn-more-about-firefox = Learn more about { -brand-name-firefox }, its history, features and mission
 learn-more-about = Learn more about { -brand-name-firefox } browsers and products that handle your data with respect and are built for privacy anywhere you go online.
-learn-more = Learn more
+learn-more-faq = { -brand-name-firefox } FAQ
 the-history-of = The history of web browsers
 firefox-has-been = { -brand-name-firefox } has been there since almost the beginning.
 firefox-rebel-with = { -brand-name-firefox }: Rebel with a cause
@@ -23,6 +24,14 @@ get-the-privacy = Get the privacy you deserve. Enhanced Tracking Protection make
 take-your-passwords = Take your passwords everywhere
 securely-access-the = Securely access the passwords you’ve saved in { -brand-name-firefox } from anywhere — even outside of the browser.
 choose-which-firefox = Choose which { -brand-name-firefox-browser } to download in your language
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-name-chromebook }
+firefox-more-while-on-chromebook = While a { -brand-name-chromebook } already has { -brand-name-chrome } installed, downloading and using { -brand-name-firefox } as your go-to browser provides you with a few benefits
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } was a revolution in { -brand-name-firefox } development. In 2017, we created a new, lightning fast browser that constantly improves. { -brand-name-firefox-quantum } is the { -brand-name-firefox-browser }.
+firefox-more-little-book = Little Book of Privacy
+firefox-more-you-can-reclaim = You can reclaim your privacy and gain back control over your very own internet experience! It’s actually surprisingly easy. Everyone can do it.
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Access and synchronise your bookmarks, passwords, open tabs and more — everywhere you use { -brand-name-firefox }.
 we-believe-everyone = We believe everyone should have access to the internet — that’s why we make the { -brand-name-firefox-browser } available in more than 90 languages with the help of dedicated volunteers around the world.
 firefox-fights-for = { -brand-name-firefox } fights for you on { -brand-name-windows }
 easy-migration-of = Easy migration of preferences and bookmarks when you download { -brand-name-firefox } for { -brand-name-windows }.
