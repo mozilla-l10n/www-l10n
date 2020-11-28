@@ -5,15 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Descarga o { -brand-name-firefox-browser } no teu dispositivo móbil para { -brand-name-ios } e { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = Por defecto, o { -brand-name-firefox-browser } para dispositivos móbiles bloquea máis de 2000 rastrexadores e outorga a privacidade que merece e a velocidade que precisa nun navegador privativo para móbiles.
+firefox-mobile-download-the-firefox-browser = Descarga o navegador Firefox no teu dispositivo móbil para { -brand-name-ios } e { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = Por defecto, o navegador Firefox para dispositivos móbiles bloquea máis de 2000 rastrexadores e outorga a privacidade que mereces e a velocidade que precisas nun navegador privativo para móbiles.
 firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-firefox-browser = Navegador Firefox
 firefox-mobile-get-the-mobile-browser-built = Consigue o navegador móbil para ti, non para os anunciantes
-firefox-mobile-check-out-firefox-again-its = Proba o { -brand-name-firefox }. É rápido, privativo e está do seu lado. Para { -brand-name-ios } e { -brand-name-android }.
+firefox-mobile-check-out-firefox-again-its = Proba o { -brand-name-firefox }. É rápido, privativo e está do teu lado. Para { -brand-name-ios } e { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Obtén privacidade automática no móbil
 firefox-mobile-super-fast-private-by-default = Super rápido. Privatrivo por defecto. Bloquea máis de 2000 rastrexadores da Internet.
-firefox-mobile-get-firefox-mobile = Obtén o { -brand-name-firefox } para móbil
+firefox-mobile-get-firefox-mobile = Obter o { -brand-name-firefox } para móbil
 firefox-mobile-block-online-trackers-and = Bloquea rastrexadores e anuncios invasivos da Internet
 firefox-mobile-privacy-protection-by-default = Protección de privacidade por defecto
 # Variables:
