@@ -7,7 +7,7 @@
 
 firefox-products-are = Os produtos do { -brand-name-firefox } están deseñados para protexer a túa privacidade
 learn-more-about-firefox = Descubre máis sobre o { -brand-name-firefox }, a súa historia, funcionalidades e misión
-learn-more-about = Descubre máis sobre os navegadores { -brand-name-firefox } e os produtos que lidan cos teus datos con respecto e que están desenvolvidos por e para a privacidade ao navegares pola Internet.
+learn-more-about = Descubre máis sobre os navegadores e produtos { -brand-name-firefox } que lidan cos teus datos con respecto e que están desenvolvidos por e para a privacidade ao navegares pola Internet.
 learn-more-faq = Preguntas e respostas do { -brand-name-firefox }
 the-history-of = A historia dos navegadores web
 firefox-has-been = O { -brand-name-firefox } está por estes lares case desde o comezo.
@@ -59,7 +59,7 @@ the-ad-blocker = O bloqueador de publicidade: unha arma secreta contra os anunci
 so-many-ads = Tantos anuncios, tan pouca paciencia ... É o momento de deter esta tolemia.
 firefox-more-protection = { -brand-name-firefox }: máis protección e menos preocupacións.
 were-obsessed-with = Protexer a túa privacidade é a nosa obsesión. É por isto que fixemos a navegación privada máis poderosa que os outros.
-incognito-browser-what = Navegación anónima: Que significa realmente
+incognito-browser-what = Navegación anónima: que significa realmente?
 firefox-calls-it = No { -brand-name-firefox } chamámola navegación privada, no { -brand-name-chrome } chámana modo incógnito. Ambos permítenche navegar pola web sen gardar o teu historial.
 take-the-stress = Acaba coa ansiedade de encontrar un navegador seguro.
 building-a-safe = O desenvolvemento dun navegador seguro é arte e ciencia xa que non hai regras preestabelecidas.
