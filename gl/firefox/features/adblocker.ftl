@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
 features-adblocker-how-to-block-annoying = Como bloquear anuncios molestos utilizando un bloqueador de anuncios
-features-adblocker-how-to-stop-seeing-too = Como deixar de ver demasiados anuncios e evitar que as empresas te sigan en liña. Unha guía do bloquador de publicidade do navegador web { -brand-name-firefox }.
+features-adblocker-how-to-stop-seeing-too = Como deixar de ver demasiados anuncios e evitar que as empresas te sigan en liña. Unha guía sobre o bloqueador de publicidade do navegador web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = O bloqueador de publicidade: unha arma secreta contra os anuncios molestos.
-features-adblocker-so-many-ads-so-little = Tantos anuncios, tan pouca paciencia ... É o momento de deter esta tolemia.
+features-adblocker-so-many-ads-so-little = Tantos anuncios, tan pouca paciencia... É o momento de deter esta tolemia.
 features-adblocker-the-average-person-sees = Unha persoa ve, de media, uns 4000 anuncios por día. Se pensas que é moito, o bloqueador de publicidade será o teu novo mellor amigo.
 features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de publicidade é un programa que pode usarse para bloquear anuncios e que funciona de dúas formas. A primeira é cando un bloqueador de publicidades bloquea o sinal do servidor dun anunciante, polo que o anuncio nunca aparece na súa páxina. A outra é cando os bloqueadores de publicidade bloquean seccións dun sitio web que poderían ser anuncios.
 # Variables:
