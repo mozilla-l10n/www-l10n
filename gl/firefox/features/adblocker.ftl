@@ -35,25 +35,25 @@ features-adblocker-to-start-click-on-the = Para comezar, preme no menú { -brand
 features-adblocker-go-easy-with-standard = Vai amodo co modo estándar
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = Se os anuncios non che molestan e non che importa ser seguido por rastrexadores e testemuños de terceiros, a configuración estándar debería servirche. Para eliminar os rastrexadores do ronsel que deixas no modo estándar, utiliza a xanela de <a href="{ $url }"> navegación privada </a>
+features-adblocker-if-ads-dont-bother-you = Se os anuncios non te molestan e non che importa ser seguido por rastrexadores e testemuños de terceiros, a configuración estándar debería servirche. Para eliminar os rastrexadores do ronsel que deixas no modo estándar, utiliza a xanela de <a href="{ $url }">navegación privada</a>
 features-adblocker-get-tough-with-strict = Sé duro co modo estrito
-features-adblocker-if-seeing-too-many-ads = Se ver moitos anuncions estraga o teu dia, o modo estrito será o máis adecuado. Este modo bloqueará rastrexadores e testemuños de terceiros coñecidos, en todas as xanelas do { -brand-name-firefox }.
+features-adblocker-if-seeing-too-many-ads = Se ver moitos anuncios estraga o teu dia, o modo estrito será o máis adecuado. Este modo bloqueará rastrexadores e testemuños de terceiros coñecidos en todas as xanelas do { -brand-name-firefox }.
 features-adblocker-do-it-yourself-custom = Acomódao ao teu gusto no modo personalizado
 features-adblocker-the-custom-setting-gives = A configuración personalizada ofréceche a opción definitiva. Podes decidir o que estás a bloquear, incluído os rastrexadores, os testemuños e moito máis. Se permites testemuños dunha páxina web, entrarás automaticamente no modo personalizado.
 features-adblocker-cover-your-trail-block = Disimula o teu ronsel, bloquea rastrexadores
-features-adblocker-click-on-the-trackers = Prema na caixa dos rastrexadores e poderás bloquear os rastrexadores de dúas formas. A primeira é facelo cando estás a traballar nunha xanela privada. Outra forma de facelo é bloquear os rastrexadores en todas as xanelas. Lembra que, se optares por bloquear sempre os rastrexadores, pode que algunhas páxinas non carguen correctamente.
+features-adblocker-click-on-the-trackers = Preme na caixa dos rastrexadores e poderás bloquealos de dúas formas. A primeira é facelo cando estás a traballar nunha xanela privada. Outra forma de facelo é bloquear os rastrexadores en todas as xanelas. Lembra que, se optares por bloquear sempre os rastrexadores, pode que algunhas páxinas non carguen correctamente.
 features-adblocker-take-a-bite-out-of-cookies = Non deixes que pasen o testemuño
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
-features-adblocker-cookies-are-sent-by-websites = Os <a href="{ $url }">testemuños</a> son enviados polos sitios que visita. Permanecen no computador e rastrexan o que fixeches nun sitio. Cando uma compañía aérea aumenta os seus prezos após estares a ollar voos un día calquera é por culpa dos testemuños.
-features-adblocker-in-firefox-you-can-block = No { -brand-name-firefox }, pode bloquear todos os testemuños de terceiros ou soamente os definidos polos rastrexadores. Pensa que o bloqueo de todos os testemuños pode levar algúns sitios á creba.
+features-adblocker-cookies-are-sent-by-websites = Os <a href="{ $url }">testemuños</a> son enviados polos sitios que visitas. Permanecen no computador e rastrexan o que fixeches nun sitio. Cando unha compañía aérea aumenta os seus prezos após estares a ollar voos un día calquera é por culpa dos testemuños.
+features-adblocker-in-firefox-you-can-block = No { -brand-name-firefox }, podes bloquear todos os testemuños de terceiros ou soamente os definidos polos rastrexadores. Pensa que o bloqueo de todos os testemuños pode levar algúns sitios á creba.
 features-adblocker-send-a-do-not-track-signal = Envía un sinal de non rastrexo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Se non quixeres que o teu comportamento en liña sexa usado para os anuncios, podes enviar unha indicación educada «hoxe non quero, outro día xa veremos» ao marcares a opción<a href="{ $url }"> «Non rastrexar»</a> do { -brand-name-firefox }. A participación é voluntaria, mais os sitios que respectan esta indicación deixan de te rastrexar inmediatamente.
-features-adblocker-speed-up-thanks-to-ad = Aumenta a velocidade grazas aos bloquadores de publicidade.
-features-adblocker-in-some-cases-an-ad-blocker = Nalgúns casos, un bloqueador de publicidade pode axudar o seu navegador a ir máis rápido. Cando se carga un anuncio, pode diminuír a velocidade dun sitio web. Alén diso, tardas máis en encontrar o que buscas se estás demasiado ocupado en pechar outro anuncio.
+features-adblocker-if-you-dont-want-your = Se non quixeres que o teu comportamento en liña sexa usado para os anuncios, podes enviar unha indicación educada «hoxe non quero, outro día xa veremos» ao marcares a opción<a href="{ $url }">Non rastrexar</a> do { -brand-name-firefox }. A participación é voluntaria, mais os sitios que respectan esta indicación deixan de te rastrexar inmediatamente.
+features-adblocker-speed-up-thanks-to-ad = Aumenta a velocidade grazas aos bloquadores de publicidade
+features-adblocker-in-some-cases-an-ad-blocker = Nalgúns casos, un bloqueador de publicidade pode axudar o teu navegador a ir máis rápido. Cando se carga un anuncio, pode diminuír a velocidade dun sitio web. Alén diso, tardas máis en encontrar o que buscas se estás demasiado ocupado en pechar outro anuncio.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Se queres obter máis información sobre o bloqueo de anuncios, hai centos de bloqueadores de publicidade dispoñíbeis para o { -brand-name-firefox } e outros navegadores. Se queres probar os bloqueadores de publicidade que usa o { -brand-name-firefox }, <a href="{ $url }"> prema aquí para descargar </a> un navegador que prime a privacidade.
+features-adblocker-if-you-want-to-learn-more = Se queres obter máis información sobre o bloqueo de anuncios, hai centos de bloqueadores de publicidade dispoñíbeis para o { -brand-name-firefox } e outros navegadores. Se queres probar os bloqueadores de publicidade que usa o { -brand-name-firefox }, <a href="{ $url }">preme aquí para descargar</a> un navegador para o que prima a privacidade.
 features-adblocker-take-control-of-your-browser = Asume o control do teu navegador
