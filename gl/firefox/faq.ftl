@@ -36,20 +36,20 @@ no-we-dont = Non, non pensamos que o { -brand-name-chrome } sexa mellor que o { 
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Mira esta comparación entre o { -brand-name-firefox } e o { -brand-name-chrome }.</a>
-related-questions-better = Preguntas relacionadas: é o { -brand-name-firefox }  mellor do que o { -brand-name-chrome }, é { -brand-name-firefox } mellor do que o { -brand-name-google }, é o { -brand-name-firefox } máis seguro do que o { -brand-name-chrome }, é o { -brand-name-firefox } máis privativo que o { -brand-name-chrome }
+related-questions-better = Preguntas relacionadas: é o { -brand-name-firefox } mellor do que o { -brand-name-chrome }, é o { -brand-name-firefox } mellor do que o { -brand-name-google }, é o { -brand-name-firefox } máis seguro do que o { -brand-name-chrome }, é o { -brand-name-firefox } máis privativo que o { -brand-name-chrome }
 is-firefox-safe-download = É seguro descargar o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
-protecting-your-privacy = Protexer a túa privacidade é a nosa principal prioridade. Desta forma, asegurámonos de que a instalación do { -brand-name-firefox } nos teus dispositivos sexa totalmente segura — con todo, ten a certeza de o estar descargando dun sitio web { -brand-name-mozilla } ou { -brand-name-firefox } de confianza, como <a href="{ $url }"> a nosa páxina de descargas.
+protecting-your-privacy = Protexer a túa privacidade é a nosa principal prioridade. Desta forma, asegurámonos de que a instalación do { -brand-name-firefox } nos teus dispositivos sexa totalmente segura. Con todo, ten a certeza de o estar a descargar dun sitio web { -brand-name-mozilla } ou { -brand-name-firefox } de confianza, como <a href="{ $url }"> a nosa páxina de descargas.</a>
 is-firefox-safe = É o { -brand-name-firefox } seguro?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
-not-only-is = Non só é seguro usar o { -brand-name-firefox }, senón que tamén axuda a manter protexidos os teus datos e informacións privativas. O { -brand-name-firefox-browser } bloquea automaticamente rastrexadores de terceiros, rastrexadores de redes sociais, criptomineiros e identificadores de impresións dixitais e evita que recollan os teus datos. <a href="{ $url }"> Descubre máis sobre a privacidade dos nosos produtos.
-related-questions-safe = Preguntas relacionadas: o { -brand-name-firefox } é bo para a privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é mellor para privacidade
+not-only-is = Non só é seguro usar o { -brand-name-firefox }, senón que tamén axuda a manter protexidos os teus datos e informacións privativas. O navegador Firefox bloquea automaticamente rastrexadores de terceiros, rastrexadores de redes sociais, criptomineiros e identificadores de impresións dixitais e evita que recollan os teus datos. <a href="{ $url }">Descubre máis sobre a privacidade dos nosos produtos.</a>
+related-questions-safe = Preguntas relacionadas: o { -brand-name-firefox } é bo para a privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é mellor para a privacidade
 does-firefox-sell = O { -brand-name-firefox } vende os teus datos persoais?
 
 # Variables:
@@ -57,16 +57,16 @@ does-firefox-sell = O { -brand-name-firefox } vende os teus datos persoais?
 
 nope-never-have = Non. Nunca o fixemos e nunca o faremos. Alén diso, protexémoste de moitos anunciantes que o fan. Os produtos { -brand-name-firefox } están deseñados para protexer a túa privacidade. <a href="{ $url }"> Prometémolo.</a>
 why-is-firefox = Por que o { -brand-name-firefox } vai tan devagar?
-firefox-isnt-slow = O { -brand-name-firefox } não é lento… agora. Em 2017, reconstruímos completamente nosso mecanismo de navegação (chamado Quantum) para garantir que o { -brand-name-firefox } pudesse competir com outros principais navegadores. Além disso, nossos bloqueadores de rastreamento ajudam a carregar as páginas ainda mais rápido. Portanto, o { -brand-name-firefox } é extremamente rápido, sem sacrificar nada de sua privacidade vai a fume de carozo e non sacrifica para nada a túa privacidade.
+firefox-isnt-slow = O { -brand-name-firefox } non é lento… agora. En 2017, reconstruímos completamente o noso mecanismo de navegación (chamado Quantum) para garantir que o { -brand-name-firefox } puidese competir cos outros principais navegadores. Alén diso, os nosos bloqueadores de rastrexadores permiten que as páxinas carguen aínda máis rápido. Polo tanto, o { -brand-name-firefox } vai a fume de carozo e non sacrifica para nada a túa privacidade.
 is-firefox-chromium = O { -brand-name-firefox } está baseado no { -brand-name-chromium }?
-firefox-is-not = O { -brand-name-firefox } non está baseado no { -brand-name-chromium } (proxecto de navegador de código aberto que é o núcleo do { -brand-name-google }{ -brand-name-chrome }) O certo é que somos un dos últimos principais navegadores que non o está. O { -brand-name-firefox } execútase no noso motor de navegación Quantum, deseñado especificamente para { -brand-name-firefox }. Así, podemos garantir que os teus datos sexan tratados con respecto e continúen a ser privados.
-does-firefox-use = O { -brand-name-firefox } usar o { -brand-name-google }?
+firefox-is-not = O { -brand-name-firefox } non está baseado no { -brand-name-chromium } (proxecto de navegador de código aberto que é o núcleo do { -brand-name-google } { -brand-name-chrome }). O certo é que somos un dos últimos principais navegadores que non o está. O { -brand-name-firefox } execútase no noso motor de navegación Quantum, deseñado especificamente para o { -brand-name-firefox }. Así, podemos garantir que os teus datos sexan tratados con respecto e continúen a ser privados.
+does-firefox-use = O { -brand-name-firefox } usa o { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = O { -brand-name-google } é o motor por defecto no { -brand-name-firefox }, o cal significa que podes buscar na Internet directamente desde a barra de enderezo web. <a href="{ $url }"> Descubre máis sobre as preferencias e as mudanzas por defecto do noso motor de busca.
-does-firefox-have = Ten o { -brand-name-firefox } unha Rede Privada Virtual (VPN polas súas siglas en inglés) integrada?
+firefoxs-default-search = O { -brand-name-google } é o motor por defecto no { -brand-name-firefox }, o cal significa que podes buscar na Internet directamente desde a barra de enderezo web. <a href="{ $url }">Descubre máis sobre as preferencias e as mudanzas por defecto do noso motor de busca.</a>
+does-firefox-have = Ten o { -brand-name-firefox } unha Rede Privada Virtual (VPN, polas súas siglas en inglés) integrada?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
