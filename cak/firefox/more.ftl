@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } taq tikojil yenuk'un richin nikichajij ri awichinanem
+learn-more-about-firefox = Tetamäx ch'aqa' chik chi rij { -brand-name-firefox }, rub'anob'al, rub'anikil chuqa' ri taqel rutaqnem
+learn-more-about = Tawetamaj ch'aqa' chik chi rij { -brand-name-firefox } okik'amaya'l chuqa' taq rutikojil, ri nikinu'samajij taq atzij rik'in kamelanïk chuqa' enuk'un richin nikiya' awichinanem xab'achike ramaj.
 learn-more-faq = { -brand-name-firefox } Jutaqil K'utunïk
 the-history-of = Kinatab'al ajk'amaya'l taq okik'amaya'l
 firefox-has-been = { -brand-name-firefox } chi ri' xk'oje' toq ronojel xtz'ukutäj.

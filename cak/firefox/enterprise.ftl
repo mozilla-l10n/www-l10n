@@ -38,5 +38,11 @@ firefox-enterprise-deployment-guide = Rucholajem Ruya'ik
 firefox-enterprise-policy-documentation = Kimolik Na'ojil
 firefox-enterprise-release-notes = Ruch'utitzijol Ruwäch
 firefox-enterprise-documentation-and-community = Molïk chuqa' Ruto'ik Tinamït
+# Variables:
+#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = Rutz'etob'al <a href="{ $url }">plist richin runuk'ulem ruwäch rub'i'</a>
 firefox-enterprise-pkg-installer = PKG yakonel
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = Tiqasäx { -brand-name-firefox-esr } o Rapid Release richin<br> <a href="{ $firefox_all }">jun chik ch'ab'äl o nuk'che'el.</a>
