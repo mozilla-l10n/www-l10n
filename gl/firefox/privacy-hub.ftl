@@ -60,27 +60,27 @@ firefox-privacy-hub-protection-beyond-tracking = Protección alén do rastrexo
 firefox-privacy-hub-if-you-have-a-firefox-account = Se tes unha conta Firefox, tamén podes ver como che axudamos a protexer a túa información e contrasinais persoais.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Máis de { $trackers } rastrexadores bloqueados todos os días en todo o mundo para os usuarios de { -brand-name-firefox }
+firefox-privacy-hub-more-than-s-trackers-blocked = Máis de { $trackers } rastrexadores bloqueados todos os días en todo o mundo para os usuarios do { -brand-name-firefox }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Cando introduzas o teu enderezo electrónico no { -brand-name-firefox-monitor }, esquecémolo inmediatamente despois após verificarmos se existe algunha coincidencia en violacións de datos coñecidas, a menos que nos autorices a continuar a monitorizar e buscar novas violacións da súa información persoal.
-firefox-privacy-hub-check-for-breaches = Verifica se houbo violacións
+firefox-privacy-hub-when-you-enter-your-email = Cando introduces o teu enderezo electrónico no { -brand-name-firefox-monitor }, esquecémolo inmediatamente após verificarmos se existe algunha coincidencia en violacións de datos coñecidas, a menos que nos autorices a continuar a monitorizar e buscar novas violacións da túa información persoal.
+firefox-privacy-hub-check-for-breaches = Verificar se houbo violacións
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
-firefox-privacy-hub-the-passwords-and-credentials = Os contrasinais e credenciais que garda en { -brand-name-firefox-lockwise } cífranse en todos os seus dispositivos, polo que nin sequera podemos velos.
-firefox-privacy-hub-learn-more-about-lockwise = Máis información sobre { -brand-name-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Os contrasinais e credenciais que gardas no { -brand-name-firefox-lockwise } cífranse en todos os teus dispositivos, polo que nin sequera podemos velos.
+firefox-privacy-hub-learn-more-about-lockwise = Máis información sobre o { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
-firefox-privacy-hub-we-cant-see-the-names-or = Non podemos ver os nomes ou o contido dos ficheiros grandes que comparte a través do { -brand-name-firefox-send } porque están cifrados de punta a punta; ti escolles quen ve o que enviares e até podes definir unha data de validade e un contrasinal.
-firefox-privacy-hub-send-a-file = Envía un ficheiro
+firefox-privacy-hub-we-cant-see-the-names-or = Non podemos ver os nomes ou o contido dos ficheiros grandes que compartes a través do { -brand-name-firefox-send } porque están cifrados de punta a punta; ti escolles quen ve o que enviares e até podes definir unha data de expiración e un contrasinal.
+firefox-privacy-hub-send-a-file = Enviar un ficheiro
 firefox-privacy-hub-pocket = { -brand-name-pocket }
-firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recomenda artigos de alta calidade seleccionados por persoas, sen recoller o seu historial de navegación ou compartir a súa información persoal cos anunciantes.
-firefox-privacy-hub-get-pocket = Obtén { -brand-name-pocket }
-firefox-privacy-hub-your-firefox-account = A túa conta { -brand-name-firefox-account }
-firefox-privacy-hub-all-the-information-synced = Toda a información sincronizada a través da súa { -brand-name-firefox-account } - desde o historial do navegador a contrasinais - está cifrada. E o seu contrasinal da conta é a única clave.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Leva a túa privacidade e os teus marcadores a calquera lugar mediante unha { -brand-name-firefox-account }.
+firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda artigos de alta calidade seleccionados por persoas, sen recoller o teu historial de navegación ou compartir a túa información persoal cos anunciantes.
+firefox-privacy-hub-get-pocket = Obter o { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = A túa conta Firefox
+firefox-privacy-hub-all-the-information-synced = Toda a información sincronizada a través da túa conta Firefox, desde o historial do navegador aos contrasinais, está cifrada. E o contrasinal da conta é a única clave.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Leva a túa privacidade e os teus marcadores a calquera lugar mediante unha conta Firefox.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account = Xa tes unha conta? <a { $sign_in } class=" { $class_name }"> Inicia sesión para </a> ou <a href="{ $learn_more }"> descubre máis </a> sobre como se rexistrar no { -brand-name-firefox }.
+firefox-privacy-hub-already-have-an-account = Xa tes unha conta? <a { $sign_in } class=" { $class_name }">Inicia sesión</a> ou <a href="{ $learn_more }">descubre máis</a> sobre como se rexistrar no { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-read-the-privacy-notice-for = Le a <a href="{ $url }"> política de privacidade </a> dos nosos produtos
+firefox-privacy-hub-read-the-privacy-notice-for = Le a <a href="{ $url }">política de privacidade</a> dos nosos produtos
