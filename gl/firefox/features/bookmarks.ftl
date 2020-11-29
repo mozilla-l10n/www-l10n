@@ -10,17 +10,17 @@ features-bookmarks-firefox-browser-better = Navegadores Firefox: os mellores mar
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organiza facilmente os marcadores en cartafoles e accede a eles en todos os dispositivos, dende o computador ou o móbil.
 features-bookmarks-better-bookmarks = Mellores marcadores
-features-bookmarks-dont-agonize-lovers-of = Tranquilidade, amante dos marcadores. Poderás organizalos co { -brand-name-firefox }.
+features-bookmarks-dont-agonize-lovers-of = Acougade, amantes dos marcadores; organizádeos co { -brand-name-firefox }
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Garda ese marcador
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = Organiza os teus favoritos coa icona da estrela e engade nomes e cartafoles personalizados. Na barra de ferramentas de marcadores terás todas as túas ligazóns favoritas.
+features-bookmarks-get-your-faves-all-sorted = Organiza os teus favoritos coa icona da estrela e engade nomes e cartafoles personalizados. Na barra de ferramentas de marcadores terás todas as túas ligazóns favoritas para que nunca as perdas.
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Leva sempre contigo ese marcador
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Os teus favoritos, vaias onde vaias. Usa { -brand-name-firefox-sync } para acceder aos marcadores en todos os teus dispositivos, dende o ordenador ata o móbil. Tamén podes probar <a href="{ $url }">{ -brand-name-pocket }</a> para gardar calquera artigo ou páxina web e volver a velo máis tarde, incluso sen Internet.
+features-bookmarks-take-your-favorites-on = Os teus favoritos, vaias onde vaias. Usa { -brand-name-firefox-sync } para acceder aos marcadores en todos os teus dispositivos, dende o computador ata o móbil. Tamén podes probar <a href="{ $url }">{ -brand-name-pocket }</a> para gardar calquera artigo ou páxina web e volver a velo máis tarde, mesmo sen conexión á Internet.
 features-bookmarks-customize-that-bookmark = Personaliza ese marcador
 # Obsolete string
 # Futz with means to spend a lot of time on something.
