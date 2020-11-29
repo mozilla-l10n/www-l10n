@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Navegador Firefox: Administrador de contraseñas rápido y sencillo
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Administrador de contraseñas rápido y sencillo
 # HTML page description
 password-manager-firefox-password = El administrador de contraseñas de { -brand-name-firefox } guarda todas las contraseñas en un solo lugar para que puedas iniciar sesión en los sitios de manera automática o recuperar las contraseñas guardadas.
 # Hero title
@@ -16,10 +16,15 @@ password-manager-password-hero = Héroe de la contraseña
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Olvídate de restablecer contraseñas. El Administrador de contraseñas de { -brand-name-firefox } guarda todas tus contraseñas para que puedas iniciar sesión automáticamente o para encontrarlas fácilmente. Para mayor seguridad, activa una <a href="{ $url }">contraseña maestra</a> en tu equipo.
+password-manager-password-magician = Mago de las contraseñas
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja de las contraseñas
-password-manager-no-more-try-again = Se acabaron los “inténtelo de nuevo” cuando intentas acceder a algún sitio. Inicia sesión en tu cuenta de Firefox en el teléfono y tendrás todas tus contraseñas al momento. Las credenciales te aparecerán como por arte de magia.
+password-manager-no-more-try-again = Se acabaron los “inténtelo de nuevo” cuando intentas acceder a algún sitio. Inicia sesión en tu { -brand-name-firefox-account } en tu teléfono y tendrás todas tus contraseñas al momento. Las credenciales aparecerán como por arte de magia.
+password-manager-password-champion = Campeón de las contraseñas
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Gana tu medalla de oro en seguridad con la amplia gama de <a href="{ $addons }">complementos</a> de { -brand-name-firefox } para administrar contraseñas. Elige tu favorito entre los ya existentes o busca uno del siguiente nivel a través de valoraciones y comentarios de la comunidad de expertos.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Maestro de las contraseñas
