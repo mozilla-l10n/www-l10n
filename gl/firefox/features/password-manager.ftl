@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox: xestor de contrasinais rápido e sinxelo
+password-manager-firefox-browser = Navegadores Firefox: un xestor de contrasinais rápido e sinxelo
 # HTML page description
 password-manager-firefox-password = O xestor de contrasinais do { -brand-name-firefox } garda todos os contrasinais nun único lugar, de forma que poderás iniciar sesión ou recuperar os gardados automaticamente.
 # Hero title
