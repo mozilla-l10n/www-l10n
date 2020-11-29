@@ -58,6 +58,25 @@ navigation-v2-join-the-fight-for-a = Dołącz do walki o zdrowy Internet.
 navigation-v2-leadership = Kierownictwo
 navigation-v2-meet-the-team-thats-building = Poznaj zespół, który buduje technologie dla lepszego Internetu.
 navigation-v2-careers = Praca
+navigation-v2-work-for-a-mission-driven-updated = Pracuj dla organizacji z misją, tworzącą produkty przede wszystkim dla ludzi.
+navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
+navigation-v2-learn-about-mozilla-and = Dowiedz się więcej o { -brand-name-mozilla(case: "loc") } i o tym, co dla nas ważne.
+navigation-v2-more-about-mozilla = Więcej informacji o { -brand-name-mozilla(case: "loc") }
 
 ## Innovation menu
 
+navigation-v2-innovation = Innowacje
+navigation-v2-close-innovation-menu = Zamknij menu innowacji
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Poznawaj ludzi w tej interaktywnej, internetowej, wielowymiarowej przestrzeni społecznej.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Pobierz przeglądarkę { -brand-name-firefox } zbudowaną specjalnie dla deweloperów.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Zajrzyj na główną stronę z zasobami dla deweloperów.
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Przeglądaj Internet za pomocą przeglądarki { -brand-name-firefox } dla rzeczywistości wirtualnej.
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Nagraj swój głos, aby przyszłość Internetu mogła usłyszeć nas wszystkich.
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Dowiedz się więcej o nowym niskopoziomowym języku à la asembler.
+navigation-v2-more-mozilla-innovation = Więcej innowacji { -brand-name-mozilla(case: "gen") }
