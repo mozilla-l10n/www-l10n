@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/newsletter/opt-out-confirmation/
 
 # HTML page title
-opt-out-confirmation-cool-we-hear = Vale. No te preocupes.
+opt-out-confirmation-cool-we-hear = Genial. Te escuchamos.
 # HTML page descripiton
 opt-out-confirmation-youre-now-opted = A partir de ahora dejarás de recibir los correos electrónicos sobre la configuración de tu cuenta.
 opt-out-confirmation-youll-continue = No obstante, seguirás recibiendo los demás correos electrónicos que aceptaste recibir, junto con actualizaciones periódicas importantes relacionadas con tu cuenta. Para gestionar todas las suscripciones, introduce tu dirección de correo más abajo para que podamos asegurarnos de que estamos hablando con la persona correcta.
@@ -22,3 +22,11 @@ opt-out-confirmation-check-out-our = Échale un vistazo a nuestros blogs
 # Link to https://support.mozilla.org/
 opt-out-confirmation-get-help = Obtener ayuda
 opt-out-confirmation-subscribe-to = Suscríbete para recibir periódicamente el boletín de { -brand-name-firefox }
+# Link to https://www.instagram.com/mozilla/
+opt-out-confirmation-instagram = { -brand-name-instagram }
+# Link to https://www.youtube.com/firefoxchannel
+opt-out-confirmation-youtube = { -brand-name-youtube }
+# Link to https://www.facebook.com/Firefox
+opt-out-confirmation-facebook = { -brand-name-facebook }
+# Link to https://twitter.com/firefox
+opt-out-confirmation-twitter = { -brand-name-twitter }
