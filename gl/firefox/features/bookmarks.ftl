@@ -27,9 +27,9 @@ features-bookmarks-customize-that-bookmark = Personaliza ese marcador
 features-bookmarks-futz-with-that-bookmark = Pasa o tempo con ese marcador
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Xestiona coidadosamente os marcadores cun dos moitos <a href="{ $url }">complementos</a> que o permiten: capturas de páxinas completas, barras laterais de acceso rápido ou marcadores totalmente privados.
+features-bookmarks-practice-your-precision = Pon a proba a túa precisión con todos os <a href="{ $url }">complementos</a> de xestión de marcadores que poidas imaxinar: desde capturadores de páxinas completas ata barras laterais de acceso rápido ou marcadores totalmente privados.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Xestiona coidadosamente os marcadores cun dos moitos <a href="{ $url }">complementos</a> que o permiten: capturas de páxinas completas, barras laterais de acceso rápido ou marcadores totalmente privados.
+features-bookmarks-practice-your-exactitude = Pon a proba a túa precisión con todos os <a href="{ $url }">complementos</a> de xestión de marcadores que poidas imaxinar: desde capturadores de páxinas completas ata barras laterais de acceso rápido ou marcadores totalmente privados.
