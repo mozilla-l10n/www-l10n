@@ -44,7 +44,7 @@ newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Los suscriptores recibirán un correo dos veces al año para confirmar que quieren seguir suscritos. Los correos incluyen HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Muchas de las comunicaciones guardan relación con la cuenta con la que te suscribiste, como por ejemplo la cuenta Firefox, { -brand-name-mdn-web-docs } o la de desarrollador de complementos. Para gestionarlas o acceder a una lista de todas tus cuentas, visita la <a href="{ $url }">página de ayuda para la gestión de cuentas</a>.
+newsletters-many-of-our-communications = Muchas de nuestras comunicaciones están relacionadas con una cuenta a la que te has suscrito, como { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, o Desarrollador de complementos. Para administrar una de tus cuentas o ver una lista de todas ellas, visita nuestra página <a href="{ $url }">de asistencia para la administración de cuentas</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Para acceder a toda la variedad de productos, información y servicios de { -brand-name-firefox } con una sola cuenta, ¡únete a nosotros! <a href="{ $url }">Aquí</a> te explicamos todas las ventajas.
@@ -100,7 +100,7 @@ newsletters-your-content-wasnt-relevant = El contenido no me parecía relevante.
 newsletters-your-email-design = El diseño del email no era fácil de leer.
 newsletters-i-didnt-sign-up = No me di de alta en esta suscripción.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Esta dirección de email no está en nuestro sistema. Comprueba tu dirección o <a href="{ $url }">suscríbete a nuestros boletines.</a>
 newsletters-im-keeping-in-touch = Prefiero seguir en contacto con { -brand-name-mozilla } en { -brand-name-facebook } y { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -111,6 +111,18 @@ newsletters-sign-up-read-up-make-a-difference = Suscríbete. Infórmate.<br> Mar
 newsletters-get-smart-on-the-issues = Entérate de todo lo que afecta a tu vida digital.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Recibe el boletín de noticias de { -brand-name-mozilla } para estar informado sobre temas que afectan a la salud de Internet y para descubrir cómo puedes involucrarte.
+newsletters-your-email-preferences = Tus preferencias de correo electrónico se han actualizado correctamente.
+newsletters-consider-it-done = Considéralo hecho
+newsletters-back-to-email-preferences = Volver a las preferencias de correo electrónico
+newsletters-here-are-a-few-things = Aquí tienes algunas cosas en las que profundizar mientras estás esperando tu próximo correo electrónico.
+newsletters-take-your-privacy = Lleva tu privacidad contigo
+newsletters-travel-the-internet = Navega por internet con protección en todos tus dispositivos.
+newsletters-download-the-app = Descargar la aplicación
+newsletters-check-for-data-breaches = Comprobar si hay filtraciones de datos
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } es un servicio gratuito que te permite ver si estás involucrado en una filtración de datos en línea.
+newsletters-sign-in-to-monitor = Inicia sesión en { -brand-name-monitor }
+newsletters-meet-our-parent-brand = Conoce nuestra marca matriz
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, la organización sin ánimo de lucro detrás de { -brand-name-firefox }, pone a las personas por encima del beneficio en todo lo que decimos, construimos y hacemos.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Sobre los estándares
 # Name for the newsletter in Newsletter subscription page
@@ -127,8 +139,12 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } para escritorio
 newsletters-dont-miss-the-latest = No te pierdas las últimas noticias sobre nuestro navegador de escritorio.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Participa
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Puntos de vista
 # Obsolete string
 newsletters-internet-health-report = Informe de salud de Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publica artículos y profundiza en temas relacionados con la salud de Internet y la IA confiable, incluyendo nuestro Informe anual de salud de Internet.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Mantente al día sobre las investigaciones e historias relacionadas con los problemas de privacidad, seguridad, transparencia, inclusión digital, descentralización y cultura web.
 # Name for the newsletter in Newsletter subscription page
@@ -188,7 +204,7 @@ newsletters-download-firefox-for-mobile = Descarga { -brand-name-firefox } para 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Consejos para { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Sácale el máximo partido a tu cuenta Firefox.
+newsletters-get-the-most-firefox-account = Sácale el máximo provecho a tu { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
@@ -198,13 +214,13 @@ newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
 newsletters-be-the-first-to-know = Sé el primero en conocer cuándo estará disponible { -brand-name-firefox } para dispositivos { -brand-name-ios }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-os-smartphone-owner = ¿Tienes un <i>smartphone</i> Firefox&nbsp;OS?
+newsletters-firefox-os-smartphone-owner = ¿Tienes un dispositivo { -brand-name-firefox-os }?
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-newsletters-dont-miss-important-news = No te pierdas noticias y novedades importantes sobre tu dispositivo Firefox&nbsp;OS.
+newsletters-dont-miss-important-news = No te pierdas noticias y actualizaciones importantes sobre tu dispositivo { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Tú
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-newsletters-a-monthly-newsletter-and-special = Un boletín mensual y anuncios especiales sobre cómo obtener lo máximo de tu dispositivo Firefox&nbsp;OS, además de las últimas características y apps más increíbles de { -brand-name-firefox-marketplace }.
+newsletters-a-monthly-newsletter-and-special = Un boletín mensual y anuncios especiales sobre cómo aprovechar al máximo tu dispositivo { -brand-name-firefox-os }, incluyendo las últimas características y las mejores aplicaciones de { -brand-name-firefox-marketplace }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Consejos semanales para { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
@@ -218,9 +234,9 @@ newsletters-mozillas-largest-celebration = La mayor fiesta de { -brand-name-mozi
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
-newsletters-discover-the-latest = Descubre las últimas y más increíbles aplicaciones HTML5 en Firefox&nbsp;OS.
+newsletters-discover-the-latest = Descubre las últimas y más increíbles aplicaciones HTML5 en { -brand-name-firefox-os }.
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
-newsletters-firefox-os-news = Noticias, información sobre el lanzamiento y lugares donde adquirir Firefox&nbsp;OS.
+newsletters-firefox-os-news = { -brand-name-firefox-os } noticias, consejos, información de lanzamiento y dónde comprar.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
@@ -253,3 +269,5 @@ newsletters-were-building-the-technology = Estamos creando la tecnología del fu
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Anuncios especiales para que aproveches { -brand-name-webmaker } al máximo.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
