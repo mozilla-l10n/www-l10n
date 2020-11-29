@@ -21,3 +21,6 @@ features-index-get-an-account = Consigue una { -brand-name-firefox-account }
 features-index-use-the-bookmark = Utiliza el icono de la estrella de los marcadores para mantenerte organizado y añadir carpetas y nombres personalizados rápidamente.
 features-index-from-the-company = De una empresa que antepone las personas a las ganancias
 features-index-private-browsing-mode = El modo de navegación privada elimina los datos de las cookies y tu historial de navegación cada vez que lo cierras.
+features-index-firefox-automatically = { -brand-name-firefox } bloquea automáticamente más de 2000 rastreadores de anuncios para que no te sigan por Internet.
+features-index-access-all-passwords = { -brand-name-firefox-lockwise } te permite acceder a todas las contraseñas que has guardado en { -brand-name-firefox } — y es gratis.
+features-index-just-enough = { -brand-name-firefox } usa la cantidad de memoria justa para para crear una experiencia fluida y para que tu ordenador siga respondiendo para realizar otras tareas.
