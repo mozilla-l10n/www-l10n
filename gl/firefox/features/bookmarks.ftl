@@ -24,7 +24,7 @@ features-bookmarks-take-your-favorites-on = Os teus favoritos, vaias onde vaias.
 features-bookmarks-customize-that-bookmark = Personaliza ese marcador
 # Obsolete string
 # Futz with means to spend a lot of time on something.
-features-bookmarks-futz-with-that-bookmark = Pasa tempo con ese marcador
+features-bookmarks-futz-with-that-bookmark = Pasa o tempo con ese marcador
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 features-bookmarks-practice-your-precision = Xestiona coidadosamente os marcadores cun dos moitos <a href="{ $url }">complementos</a> que o permiten: capturas de páxinas completas, barras laterais de acceso rápido ou marcadores totalmente privados.
