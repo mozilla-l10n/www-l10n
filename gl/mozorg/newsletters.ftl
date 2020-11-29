@@ -91,7 +91,7 @@ newsletters-put-more-fox-in-your-inbox =
     Para experiencias fabulosas </a>
     enche o correo de raposas
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-see-where-the-web-can-take = Comproba ata onde te podes chegar na Web con consellos mensuais, trucos e información sobre Internet sobre { -brand-name-firefox }
+newsletters-see-where-the-web-can-take = Comproba até onde podes chegar na Web con consellos mensuais, trucos e información da Internet sobre o { -brand-name-firefox }.
 newsletters-we-are-sorry-but-there = Sentímolo, pero houbo un problema co noso sistema. Por favor, inténtao de novo máis tarde!
 newsletters-thanks-for-updating-your = Grazas por actualizar as súas preferencias do correo.
 newsletters-the-supplied-link-has-expired-long = A ligazón subministrada caducou ou non é válida. Recibirás un novo no seguinte boletín ou, a continuación, podes solicitar un correo electrónico coa ligazón.
