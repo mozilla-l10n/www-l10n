@@ -28,9 +28,9 @@ facebook-container-facebook-can-track-almost = O { -brand-name-facebook } pode r
 facebook-container-install-and-contain = Instálaa e faite co control
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Instalar a <a href="{ $fbcontainer }">extensión</a> é moi fácil e, unha vez activada, o { -brand-name-facebook } abrirase nunha lapela azul cada vez que o uses. Así poderás seguir navegando e gozando do { -brand-name-facebook } con normalidade. Aínda que che seguirá mandando publicidade e recomendacións no seu sitio web, será moito máis complicado que use a túa actividade recompilada <strong>fóra do { -brand-name-facebook }</strong> para enviarche anuncios e mensaxes personalizados.
+facebook-container-installing-the-extension-is = Instalar a <a href="{ $fbcontainer }">extensión</a> é moi doado e, unha vez activada, o { -brand-name-facebook } abrirase nunha lapela azul cada vez que o uses. Así poderás seguir navegando e gozando do { -brand-name-facebook } con normalidade. Se ben che poderá seguir mandando publicidade e recomendacións no seu sitio web, seralle moito máis complicado usar a túa actividade recompilada <strong>fóra do { -brand-name-facebook }</strong> para enviarche anuncios e mensaxes personalizadas.
 facebook-container-about-firefox-and-mozilla = Sobre o { -brand-name-firefox } e { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Estamos apoiados por <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, a fundación sen ánimo de lucro que se centra nas persoas, non nos beneficios, para darlles máis poder na rede. Creamos esta extensión porque tes que dispor de ferramentas fáciles de usar para controlar a túa privacidade e seguridade.
+facebook-container-were-backed-by-mozilla-the = Estamos apoiados por <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, a fundación sen ánimo de lucro que se centra nas persoas, non nos beneficios, para darlles máis poder na rede. Creamos esta extensión porque cremos que deberías ter á túa disposición ferramentas fáciles de usar para controlar a túa privacidade e seguridade.
 facebook-container-browse-freely-with-firefox = Navega libremente co { -brand-name-firefox }.
