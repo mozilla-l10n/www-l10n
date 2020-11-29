@@ -23,12 +23,41 @@ navigation-v2-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 navigation-v2-read-about-new-firefox-features = Przeczytaj o nowych funkcjach { -brand-name-firefox(case: "gen") } i dowiedz się, jak zachować bezpieczeństwo w Internecie.
 navigation-v2-release-notes = Informacje o wydaniu
 navigation-v2-get-the-details-on-the = Poznaj szczegóły na temat najnowszych aktualizacji { -brand-name-firefox(case: "gen") }.
+navigation-v2-view-all-firefox-browsers = Wyświetl wszystkie { -brand-name-firefox-browsers(case: "acc", capitalization: "lower") }
 
 ## Products menu
 
+navigation-v2-products = Produkty
+navigation-v2-close-products-menu = Zamknij menu produktów
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Sprawdź, czy Twój adres e-mail znalazł się w wycieku danych z innej firmy.
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Zachowuj i odkrywaj najlepsze artykuły z całego Internetu.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Pomóż uniemożliwić { -brand-name-facebook(case: "dat") } zbieranie Twoich danych poza jego witryną.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Korzystaj z ochrony także poza przeglądarką na wszystkich swoich urządzeniach.
+navigation-v2-product-promise = Obietnica produktów
+navigation-v2-learn-how-each-firefox-product = Dowiedz się, jak każdy produkt { -brand-name-firefox(case: "gen") } chroni i szanuje Twoje dane.
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (wersja beta)
+navigation-v2-sign-up-for-new-accounts = Zakładaj nowe konta bez podawania swojego adresu e-mail.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (wersja beta)
+navigation-v2-protect-your-browsers-connection = Chroń połączenie przeglądarki z Internetem.
+navigation-v2-view-all-products = Wyświetl wszystkie produkty
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Kim jesteśmy
+navigation-v2-close-who-we-are-menu = Zamknij menu „Kim jesteśmy”
+navigation-v2-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
+navigation-v2-learn-about-the-values = Dowiedz się o wartościach i zasadach, które kierują naszą misją.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Poznaj organizację non-profit stojącą za { -brand-name-firefox(case: "ins") }, która opowiada się za lepszym Internetem.
+navigation-v2-get-involved = Dołącz do nas
+navigation-v2-join-the-fight-for-a = Dołącz do walki o zdrowy Internet.
+navigation-v2-leadership = Kierownictwo
+navigation-v2-meet-the-team-thats-building = Poznaj zespół, który buduje technologie dla lepszego Internetu.
+navigation-v2-careers = Praca
 
 ## Innovation menu
 
