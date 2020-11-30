@@ -10,7 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Descargar o navegador Firefox. Rápido, privado e gratuíto. De { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Obtén o { -brand-name-firefox }, un navegador web libre respaldado por { -brand-name-mozilla }, unha fundación sen ánimo de lucro dedicada á saúde e privacidade na Internet. Dispoñíbel para { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
+firefox-desktop-download-meta-desc = Obtén o { -brand-name-firefox }, un navegador web libre respaldado por { -brand-name-mozilla }, unha fundación sen fins lucrativos dedicada á saúde e privacidade na Internet. Dispoñíbel para { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 firefox-desktop-download-og-title = Descargar o { -brand-name-firefox } máis rápido nunca visto
 firefox-desktop-download-og-desc = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -30,8 +30,8 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Si
 firefox-desktop-download-no = Non
-firefox-desktop-download-blocks-third-party = Bloqueo dos rastros de seguimento de terceiros
-firefox-desktop-download-blocks-third-party-default = Bloqueo dos rastros de seguimento de terceiros por defecto
+firefox-desktop-download-blocks-third-party = Bloqueo dos testemuños de rastrexo de terceiros
+firefox-desktop-download-blocks-third-party-default = Bloqueo dos testemuños de rastrexo de terceiros por defecto
 firefox-desktop-download-autoplay-blocking = Bloqueo de reprodución automática
 firefox-desktop-download-blocks-social-trackers = Bloqueo de rastrexadores de redes sociais
 # OS is short for "Operating System"
