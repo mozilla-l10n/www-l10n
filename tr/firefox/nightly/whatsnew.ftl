@@ -13,7 +13,7 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = 4-5 haftada bir { -brand-name-firefox }’un yeni bir ana sürümü yayımlanır ve sonuç olarak { -brand-name-nightly } sürümü de yükseltilir.
 # Obsolete
 nightly-whatsnew-every-6-to-8-weeks = 6-8 haftada bir { -brand-name-firefox }’un yeni bir ana sürümü yayımlanır ve sonuç olarak { -brand-name-nightly } sürümü de yükseltilir.
-nightly-whatsnew-this-is-a-good = Hem { -brand-name-firefox } tarayıcısını geliştirmemize yardım ettiğiniz size teşekkür etmek hem de { -brand-name-nightly } ile ilgili ilginizi çekebilecek belgeler, iletişim kanalları ve haber sitelerini sizinle paylaşmak istedik.
+nightly-whatsnew-this-is-a-good = Hem { -brand-name-firefox } tarayıcısını geliştirmemize yardım ettiğiniz için size teşekkür etmek hem de { -brand-name-nightly } ile ilgili ilginizi çekebilecek belgeler, iletişim kanalları ve haber sitelerini sizinle paylaşmak istedik.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
