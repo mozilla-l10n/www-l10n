@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = { -brand-name-firefox }: protexe a vida en liña con produtos que se centran na privacidade
-firefox-home-firefox-is-more-than = O { -brand-name-firefox } é máis ca un navegador. Obtén máis información sobre os produtos de { -brand-name-firefox } que xestionan os datos con respecto e que están deseñados para garantiren a privacidade en calquera lugar da rede.
+firefox-home-firefox-is-more-than = O { -brand-name-firefox } é máis do que un navegador. Obtén máis información sobre os produtos de { -brand-name-firefox } que xestionan os datos con respecto e que están deseñados para garantiren a privacidade en calquera lugar da rede.
 firefox-home-the-browser-is-just = O navegador é só o comezo
 firefox-home-meet-our-family-of = Coñece a nosa familia de produtos
-firefox-home-get-trackers-off = Desfaite de máis de 2 000 rastrexadores, incluído o { -brand-name-facebook }
+firefox-home-get-trackers-off = Desfaite de máis de 2000 rastrexadores, incluído o { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Descubre cando van atacar os piratas informáticos e anticípate
 firefox-home-start-getting-breach = Comezar a recibir informes de violacións
 firefox-home-keep-your-passwords = Protexe os contrasinais en todos os dispositivos
