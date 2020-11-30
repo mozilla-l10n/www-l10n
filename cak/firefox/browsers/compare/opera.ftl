@@ -17,3 +17,4 @@ compare-opera-the-firefox-browser-and-opera = Ri { -brand-name-firefox-browser }
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = { -brand-name-firefox } <a { $attrs }runa'ojil ichinanem</a> yalan ch'ajch'öj toq niqachöl chawe achike awetamab'al niqamöl richin chi tik'oje' uwuchuq'a' richin nachajij ri awetamab'al nakomonij pa k'amab'ey.
+compare-opera-as-far-as-actual-privacy-protections = Chi rij ri ruchajixik qitzij ichinanem pa ri okik'amaya'l { -brand-name-opera }, nuya' jun ichinan rub'anikil, ri nuya' q'ij richin yatok pa ajk'amab'ey, akuchi' ri okik'amaya'l man nrojqaj ta asamaj. Pa ri relik rub'anikil okem pa k'amaya'l, chuqa' yatikïr ye'achüp jujun taq rusamaj richin yemol taq tzij toq nanik'oj ri runuk'ulem richin nitzij ri ruq'atob'al eltzijol chuqa' richin nib'an runuk'ulem ch'aqa' chik taq samaj richin jikomal.
