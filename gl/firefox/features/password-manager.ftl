@@ -11,17 +11,17 @@ password-manager-firefox-browser = Navegadores Firefox: un xestor de contrasinai
 password-manager-firefox-password = O xestor de contrasinais do { -brand-name-firefox } garda todos os contrasinais nun único lugar, de forma que poderás iniciar sesión ou recuperar os gardados automaticamente.
 # Hero title
 password-manager-password-manager = Logro de xestor de contrasinais desbloqueado
-password-manager-give-up-the-memory = Non memorices máis contrasinais grazas ao xestor do { -brand-name-firefox }.
-password-manager-password-hero = Heroe dos contrasinais
+password-manager-give-up-the-memory = Despídete dos xogos de memoria grazas ao xestor de contrasinais do { -brand-name-firefox }.
+password-manager-password-hero = Un heroe dos contrasinais
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Acabouse restabelecer contrasinais. O xestor do { -brand-name-firefox } garda todos os contrasinais para que poidas iniciar sesión automaticamente ou encontrar os gardados. Para unha maior seguridade, estebelece un <a href="{ $url }">contrasinal principal</a> no ordenador.
-password-manager-password-magician = Mago dos contrasinais
+password-manager-password-magician = O mago das claves de acceso
 # Obsolete string
 # Meaning its a quick and competent password manager
-password-manager-password-ninja = Rei dos contrasinais
+password-manager-password-ninja = O rei dos contrasinais
 password-manager-no-more-try-again = Acabáronse os «ténteo de novo» cando intenta acceder a algún sitio. Inicia sesión coa túa conta Firefox no móbil e levarás contigo todos os contrasinais. Os datos de inicio de sesión aparecerán como por arte de maxia.
-password-manager-password-champion = Campión dos contrasinais
+password-manager-password-champion = Un campión das claves
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Consigue a medalla de ouro en seguridade coa ampla gama de <a href="{ $addons }">complementos</a> do { -brand-name-firefox } para a xestión de contrasinais. Escolle un dos máis populares ou atopa un superior a través das puntuacións e análises de expertos da comunidade.

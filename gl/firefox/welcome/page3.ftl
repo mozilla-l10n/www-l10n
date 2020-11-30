@@ -19,5 +19,5 @@ welcome-page3-get-a-container-to-keep-facebook = Consigue un contedor para que o
 welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-trade-clickbait-and-fake-news = Substitúe os engadaclics e as noticias falsas por contido de calidade.
 welcome-page3-firefox-send = { -brand-name-firefox-send }
-welcome-page3-send-huge-files-to-anyone = Envía ficheiros enormes a quen queiras con ligazóns que se autodestrúen.
+welcome-page3-send-huge-files-to-anyone = Envía ficheiros de gran tamaño a quen queiras con ligazóns que se autodestrúen.
 welcome-page3-why-am-i-seeing-this = Por que estou vendo isto?
