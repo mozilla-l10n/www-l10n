@@ -47,7 +47,7 @@ firefox-privacy-hub-2000-trackers-blocked-automatically = Máis de 2000 rastrexa
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = O rastrexo converteuse nunha epidemia en liña: as empresas seguen todos os movementos, premas e compras e recollen datos para predicir e influenciar o que vas facer a seguir. Coidamos que é unha invasión grave da túa privacidade. É por isto que os navegadores { -brand-name-firefox } para dispositivos móbiles e para computadores teñen reforzada, por defecto, a protección contra o rastrexo.
 firefox-privacy-hub-if-you-want-to-see-what = Se queres ver o que o { -brand-name-firefox } está a bloquear para ti, podes visitar esta páxina no navegador de escritorio { -brand-name-firefox }.
-firefox-privacy-hub-see-what-firefox-has-blocked = Mirar o que bloqueou o { -brand-name-firefox }
+firefox-privacy-hub-see-what-firefox-has-blocked = Consultar o que bloqueou o { -brand-name-firefox }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Obter a Protección mellorada contra o rastrexo
 firefox-privacy-hub-download-the-firefox-browser = Descargar o navegador { -brand-name-firefox }

@@ -11,8 +11,8 @@ firefox-new-download-the-fastest-firefox = Descarga o { -brand-name-firefox } m�
 firefox-new-faster-page-loading-less-memory = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 firefox-new-automatic-privacy-is-here = A privacidade automática xa está aquí. Descarga o { -brand-name-firefox } para bloquear máis de 2000 rastrexadores.
 firefox-new-get-the-latest-firefox = Obter o navegador { -brand-name-firefox } máis recente.
-firefox-new-firefox-shows-you-how-many = O { -brand-name-firefox } amosa cantos rastrexadores que recompilan datos están bloqueados grazas á <strong>Protección mellorada contra o rastrexo </strong>.
-firefox-new-firefox-lockwise-makes-secure = Grazas a <strong>{ -brand-name-firefox-lockwise }</strong>, terás os contrasinais que gardas no { -brand-name-firefox } protexidos e dispoñíbeis en todos os dispositivos.
+firefox-new-firefox-shows-you-how-many = O { -brand-name-firefox } amosa cantos rastrexadores que recompilan datos están bloqueados grazas á <strong>Protección mellorada contra o rastrexo</strong>.
+firefox-new-firefox-lockwise-makes-secure = Grazas ao <strong>{ -brand-name-firefox-lockwise }</strong>, terás os contrasinais que gardas no { -brand-name-firefox } protexidos e dispoñíbeis en todos os dispositivos.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> avísate se sabemos que a túa información foi vítima dunha violación de datos doutra empresa.
 firefox-new-join-firefox = Unirse ao { -brand-name-firefox }
 firefox-new-firefox-lockwise-makes = Grazas a <strong>{ -brand-name-firefox-lockwise }</strong>, terás os contrasinais que gardas no { -brand-name-firefox } dispoñíbeis en todos os dispositivos.
@@ -29,8 +29,8 @@ firefox-new-and-start-getting-the-respect = Comeza a conseguir o respecto que te
 firefox-new-advanced-install-options = Opcións avanzadas de instalación e outras plataformas
 firefox-new-download-in-another-language = Descargar noutro idioma
 firefox-new-fix-a-problem = Corrixir un problema
-firefox-new-need-help = Precisa axuda?
-firefox-new-see-whats-being-blocked = Ver o que está sendo bloqueado
+firefox-new-need-help = Precisas axuda?
+firefox-new-see-whats-being-blocked = Consulta o que está sendo bloqueado
 firefox-new-make-your-passwords-portable = Fai que os contrasinais sexan portátiles
 firefox-new-watch-for-data-breaches = Comprobar se hai violacións de datos
 firefox-new-connect-to-a-whole-family = Conéctate a unha familia de productos respectuosos que ademais che ofrece todo o coñecemento que precisas para estares protexido mentres navegas.
@@ -48,14 +48,14 @@ firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatible co { -brand-name-firefox } </a>.
+firefox-new-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatible co { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = A descarga debería iniciarse automaticamente. Non se iniciou? <a id="{ $id }" href="{ $fallback_url }">Téntao de novo.</a>
 firefox-new-firefox-is-more-than-a-browser = O { -brand-name-firefox } é máis do que un simple navegador
 firefox-new-its-privacy-and-peace-of = Tamén é <strong>privacidade e tranquilidade</strong> nos móbiles.
-firefox-new-its-a-family-of-products = É unha <strong>familia de produtos</strong> que respectan os datos persoais.
+firefox-new-its-a-family-of-products = É unha <strong>familia de produtos</strong> que respectan os teus datos persoais.
 firefox-new-its-everything-you-need-to = É todo o que precisas saber sobre como <strong>navegar de forma segura</strong>.
 firefox-new-its-a-community-that-believes = É <strong>unha comunidade</strong> que cre que a tecnoloxía o pode facer mellor.
 firefox-new-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.

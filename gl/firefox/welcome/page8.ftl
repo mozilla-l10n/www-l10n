@@ -14,7 +14,7 @@ welcome-page8-view-your-protection-report = Consulta o teu informe de protecció
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Protección mellorada contra o rastrexo
 welcome-page8-automatically-block-sites = Bloquea automaticamente os sitios para que non te sigan pola Internet.
-welcome-page8-see-whats-blocked = Ver o que está bloqueado
+welcome-page8-see-whats-blocked = Consulta o que está bloqueado
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Comproba se hai infraccións coñecidas de datos en liña que che afecten e toma medidas para resolvelas.
 welcome-page8-go-to-monitor = Ir a { -brand-name-monitor }
