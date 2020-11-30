@@ -16,10 +16,10 @@ firefox-enterprise-get-firefox-for-your-enterprise = Obtén o { -brand-name-fire
 firefox-enterprise-get-the-firefox-extended-support = Obtén <a href="{ $url }"> { -brand-name-firefox-extended-support-release } ou Rapid Release </a> para gozares dunha seguridade e protección de datos completa.
 firefox-enterprise-unmatched-data-protection = Protección de datos inigualábel, coa frecuencia de actualizacións que máis che conveña.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = O navegador { -brand-name-firefox } é de código aberto e proporciona unha protección mellorada contra o rastrexo. Todo forma parte do noso compromiso a longo prazo coa protección de datos.
+firefox-enterprise-the-firefox-browser-is-open = O { -brand-name-firefox } é un navegador de código aberto e proporciona unha protección mellorada contra o rastrexo. Todo forma parte do noso compromiso a longo prazo coa protección de datos.
 firefox-enterprise-your-data-stays-your-business = Os teus datos son asunto teu
 firefox-enterprise-deploy-when-and-how-you-want = Implántao cando e como queiras
-firefox-enterprise-with-install-packages-and = Con paquetes de instalación e unha ampla expansión de políticas e características de grupo, a implantación é máis rápida e flexíbel ca nunca e moi fácil en contornos { -brand-name-windows } e { -brand-name-mac }.
+firefox-enterprise-with-install-packages-and = Con paquetes de instalación e unha ampla expansión de políticas e características de grupo, a implantación é máis rápida e flexíbel ca nunca, e moi fácil en contornos { -brand-name-windows } e { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Elixe a frecuencia de actualizacións
 firefox-enterprise-get-rapid-releases-to-make = Obtén Rapid Release para aseguraráreste de conseguir as últimas características o máis rápido posíbel ou o ESR para garantires unha experiencia completamente estábel.
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
