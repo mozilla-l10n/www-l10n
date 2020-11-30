@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = Descargar o { -brand-name-firefox }
-firefox-new-download-mozilla-firefox = Descarga o { -brand-name-mozilla } { -brand-name-firefox }, un navegador web gratuíto creado por unha fundación sen ánimo de lucro dedicada a darlles ás persoas o control da súa actividade na rede. Obtén o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }!
-firefox-new-download-the-fastest-firefox = Descargar o { -brand-name-firefox } máis rápido nunca visto
+firefox-new-download-mozilla-firefox = Descarga o { -brand-name-mozilla } { -brand-name-firefox }, un navegador web gratuíto creado por unha fundación sen fins lucrativos dedicada a darlles ás persoas o control da súa actividade na rede. Obtén o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }!
+firefox-new-download-the-fastest-firefox = Descarga o { -brand-name-firefox } máis rápido nunca visto
 firefox-new-faster-page-loading-less-memory = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
-firefox-new-automatic-privacy-is-here = A privacidade automática xa está aquí. Descarga o { -brand-name-firefox } para bloquear máis de 2 000 rastrexadores.
+firefox-new-automatic-privacy-is-here = A privacidade automática xa está aquí. Descarga o { -brand-name-firefox } para bloquear máis de 2000 rastrexadores.
 firefox-new-get-the-latest-firefox = Obter o navegador { -brand-name-firefox } máis recente.
 firefox-new-firefox-shows-you-how-many = O { -brand-name-firefox } amosa cantos rastrexadores que recompilan datos están bloqueados grazas á <strong>Protección mellorada contra o rastrexo </strong>.
 firefox-new-firefox-lockwise-makes-secure = Grazas a <strong>{ -brand-name-firefox-lockwise }</strong>, terás os contrasinais que gardas no { -brand-name-firefox } protexidos e dispoñíbeis en todos os dispositivos.
@@ -53,7 +53,7 @@ firefox-new-youre-using-an-insecure-outdated = Estás a usar un sistema operativ
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = A descarga debería iniciarse automaticamente. Non se iniciou? <a id="{ $id }" href="{ $fallback_url }">Téntao de novo.</a>
-firefox-new-firefox-is-more-than-a-browser = O { -brand-name-firefox } é máis ca un navegador
+firefox-new-firefox-is-more-than-a-browser = O { -brand-name-firefox } é máis do que un simple navegador
 firefox-new-its-privacy-and-peace-of = Tamén é <strong>privacidade e tranquilidade</strong> nos móbiles.
 firefox-new-its-a-family-of-products = É unha <strong>familia de produtos</strong> que respectan os datos persoais.
 firefox-new-its-everything-you-need-to = É todo o que precisas saber sobre como <strong>navegar de forma segura</strong>.
