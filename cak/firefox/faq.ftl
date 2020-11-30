@@ -27,6 +27,7 @@ is-chrome-better = ¿La mas ütz ri { -brand-name-chrome } chuwäch ri { -brand-
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Titz'et achi'el { -brand-name-firefox } nujunamaj ri' rik'in { -brand-name-chrome }.</a>
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
