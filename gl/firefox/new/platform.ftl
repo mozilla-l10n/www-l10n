@@ -20,11 +20,11 @@ new-platform-advanced-install-options = Opcións avanzadas de instalación e out
 new-platform-download-in-another = Descargar noutro idioma
 new-platform-fix-a-problem = Corrixir un problema
 new-platform-need-help = Precisas axuda?
-new-platform-download-mozilla-firefox-title = Descarga o { -brand-name-mozilla } { -brand-name-firefox }, un navegador web gratuíto creado por unha fundación sen ánimo de lucro dedicada a darlles ás persoas o control da súa actividade na rede. Obtén o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }!
+new-platform-download-mozilla-firefox-title = Descarga o { -brand-name-mozilla } { -brand-name-firefox }, un navegador web gratuíto creado por unha fundación sen fins lucrativos dedicada a darlles ás persoas o control da súa actividade na rede. Obtén o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Descargar o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }, o navegador de balde creado por unha fundación mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-linux }.
+new-platform-download-mozilla-desc-linux = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }, o navegador de balde creado por unha fundación mundial sen fins lucrativos que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-linux }.
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Descarga o { -brand-name-firefox } máis rápido que existe para { -brand-name-linux }
 # /firefox/linux/ social sharing description
@@ -40,7 +40,7 @@ new-platform-look-under-the-hood = Fíxate no desenvolvemento. Igual ca { -brand
 # /firefox/mac/ HTML page title
 new-platform-download-mozilla-firefox-mac = Descargar o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }, o navegador de balde creado por unha fundación mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-mac-short }.
+new-platform-download-mozilla-firefox-desc-mac = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }, o navegador de balde creado por unha fundación mundial sen fins lucrativos que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-mac-short }.
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Descarga o { -brand-name-firefox } máis rápido que existe para { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
