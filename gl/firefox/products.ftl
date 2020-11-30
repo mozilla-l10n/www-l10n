@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/products/
 
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = O { -brand-name-firefox } é máis ca un navegador
+firefox-products-firefox-is-more-than-a-browser = O { -brand-name-firefox } é máis do que un navegador
 # HTML page description
 firefox-products-its-a-whole-family-of-products = É toda unha familia de produtos deseñada para navegar pola rede de forma máis segura e intelixente.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
