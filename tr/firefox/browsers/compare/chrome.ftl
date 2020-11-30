@@ -7,3 +7,4 @@
 
 # Main title.
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } ile { -brand-name-google } { -brand-name-chrome } karşılaştırması
+compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox }, tüm cihazlarınızda açık ve son sekmelerinizi, gezinti geçmişinizi ve yer imlerinizi görmenizi sağlayan bir eşitleme özelliğine de sahiptir.

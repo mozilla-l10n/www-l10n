@@ -5,11 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+what-is-firefox = { -brand-name-firefox } nedir?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -18,22 +20,29 @@
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = { -brand-name-firefox } ücretsiz mi?
+is-chrome-better = { -brand-name-chrome }, { -brand-name-firefox }’tan daha mı iyi?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = { -brand-name-firefox }’u indirmek güvenli mi?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = { -brand-name-firefox } güvenli mi?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = { -brand-name-firefox } kişisel verilerimi satıyor mu?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = { -brand-name-firefox } neden bu kadar yavaş?
+is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium } tabanlı mı?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox

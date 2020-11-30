@@ -11,6 +11,7 @@
 browsers-chromebook-get-firefox-browser = { -brand-name-chromebook } için { -brand-name-firefox-browser }nı indir
 browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-android } için { -brand-name-firefox }’u indir
 browsers-chromebook-get-firefox-desktop = { -brand-name-chromebook } için masaüstü { -brand-name-firefox }’u indir
+browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromeos } 80 veya üzeri sürümleri çalıştıran x86 tabanlı { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = { -brand-name-chromebook } için { -brand-name-firefox }’u indir
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = { -brand-name-chromebook } için neden <span>{ -brand-name-firefox }</span>’u indirmelisiniz?
