@@ -29,7 +29,11 @@ newsletters-country = Ülke:
 newsletters-language = Dil:
 # Form field label
 newsletters-format = Biçim:
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } geçerli bir bülten değil
 newsletters-subscribe = Abone ol
+newsletters-remove-me-from-all-the = Beni bu sayfadaki tüm aboneliklerden çıkar
 newsletters-save-preferences = Tercihleri kaydet
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-newsletter-email-recovery = Bülten e-posta kurtarma
@@ -42,8 +46,44 @@ newsletters-would-you-mind-telling-us = Neden ayrıldığınızı bizimle payla�
 newsletters-other = Diğer…
 newsletters-submit = Gönder
 newsletters-thanks-for-telling-us-why = Neden ayrıldığınızı bildirdiğiniz için teşekkürler.
+newsletters-its-your-web-anywhere-you = Nereye giderseniz gidin, Web sizin.
+newsletters-get-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox }’u indirin!
 newsletters-added-extras = Ek özellikler
 newsletters-about-us = Hakkımızda
+newsletters-back-to-email-preferences = E-posta tercihlerine geri dön
+newsletters-take-your-privacy = Gizliliğinizi yanınızda taşıyın
+newsletters-travel-the-internet = İnternette gezinirken tüm cihazlarınızda üstün koruma.
+newsletters-download-the-app = Uygulamayı indir
+newsletters-check-for-data-breaches = Veri ihlallerini kontrol edin
+newsletters-sign-in-to-monitor = { -brand-name-monitor }’e giriş yap
+# Name for the newsletter in Newsletter subscription page
+newsletters-developer-newsletter = Geliştirici Bülteni
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-for-desktop = Bilgisayarlar için { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Masaüstü tarayıcımızla ilgili son duyuruları kaçırmayın.
+# Obsolete string
+newsletters-internet-health-report = İnternet Sağlığı Raporu
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Bilgi Güçtür
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Masaüstü
+# Name for the newsletter in Newsletter subscription page
+newsletters-aurora = { -brand-name-aurora }
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-android = { -brand-name-android } için { -brand-name-firefox }’u indir
+# Name for the newsletter in Newsletter subscription page
+newsletters-get-firefox-for-android = { -brand-name-android } için { -brand-name-firefox }’u indir
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-ios = { -brand-name-ios } için { -brand-name-firefox }’u indirin
+# Name for the newsletter in Newsletter subscription page
+newsletters-download-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox }’u indirin
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Her yıl düzenlenen film yarışmamızla ilgili düzenli haberler.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = { -brand-name-firefox } Haftalık İpuçları
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Name for the newsletter in Newsletter subscription page
