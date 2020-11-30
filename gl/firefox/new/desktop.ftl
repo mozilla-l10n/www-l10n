@@ -16,7 +16,7 @@ firefox-desktop-download-og-desc = O novo { -brand-name-firefox } xa está aquí
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtén o navegador que protexe o que é importante
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Non hai políticas de privacidade escuras nin portas traseiras para os anunciantes. Só un navegador extremadamente rápido que non vende os teus datos.
+firefox-desktop-download-no-shady = Non hai políticas de privacidade sospeitosas nin portas traseiras para os anunciantes. Só un navegador extremadamente rápido que non vende os teus datos.
 firefox-desktop-download-download-options = Opcións de descarga e outros idiomas
 firefox-desktop-download-browser-support = Asistencia do navegador Firefox
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -72,7 +72,7 @@ firefox-desktop-download-picture-in-picture = Imaxe en imaxe
 firefox-desktop-download-curated-content-on = Contido seleccionado nunha lapela nova
 firefox-desktop-download-share-links = Compartir ligazóns
 firefox-desktop-download-protect-your-privacy = Protexe a privacidade
-firefox-desktop-download-third-party-cookie = Bloquea os rastros de terceiros
+firefox-desktop-download-third-party-cookie = Bloquea os testemuños de terceiros
 firefox-desktop-download-fingerprinter-blocking = Bloquea os identificadores de impresións dixitais
 firefox-desktop-download-cryptominer-blocking = Bloquea os criptomineiros
 firefox-desktop-download-private-browsing-mode = Modo de navegación privada
@@ -94,7 +94,7 @@ firefox-desktop-download-extensions-for-every = Extensións para todos os intere
 firefox-desktop-download-change-up-your = Cambia a aparencia
 firefox-desktop-download-go-from-light = Pasa do modo claro ao modo escuro dependendo do estado de ánimo ou das preferencias. Quizais prefiras animarte cun tema personalizado con, por exemplo, unicornios de cores.
 firefox-desktop-download-tweak-your-settings = Axusta a configuración
-firefox-desktop-download-theres-no-need = Non tes por que conformarse. Cambia a páxina das novas lapelas, a barra de busca, os marcadores e moito máis para explorar Internet da forma que queiras.
+firefox-desktop-download-theres-no-need = Non tes por que conformarte. Cambia a páxina das novas lapelas, a barra de busca, os marcadores e moito máis para explorar Internet da forma que queiras.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Apoiado pola <strong>fundación sen ánimo de lucro</strong> que se centra nas persoas
 firefox-desktop-download-challenging-the-status = Desafiando o statu quo dende 1998
@@ -102,7 +102,7 @@ firefox-desktop-download-your-privacy-comes = A privacidade é o primeiro
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Continúa a usar as características dos teus navegadores favoritos e <strong>descubre</strong> outras novas.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Todas as túas ferramentas favoritas de { -brand-name-google } (como Gmail e Docs) funcionan sen ningún problema no Firefox.
+firefox-desktop-download-all-your-favourite = Todas as túas ferramentas favoritas de { -brand-name-google } (como Gmail e Docs) funcionan sen ningún problema no navegador do Firefox.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
