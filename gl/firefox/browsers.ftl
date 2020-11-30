@@ -19,7 +19,7 @@ firefox-browsers-take-the-same-level-of-privacy = Vaias a onde vaias, ten sempre
 firefox-browsers-download-for-mobile = Descargar a versión para móbiles
 firefox-browsers-send-me-a-link = Enviarme unha ligazón
 firefox-browsers-enterprise = { -brand-name-enterprise }
-firefox-browsers-get-unmatched-data-protection = Obtén unha protección de datos incomparable con ciclos de axuda personalizados para cubrir as necesidades da túa empresa.
+firefox-browsers-get-unmatched-data-protection = Obtén unha protección de datos incomparábel con ciclos de axuda personalizados para cubrir as necesidades da túa empresa.
 firefox-browsers-enterprise-packages = Paquetes { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Rompe a barreira das dúas dimensións e goza dos mellores contidos envolventes de toda a rede.
@@ -30,7 +30,7 @@ firefox-browsers-join-firefox-and-get-the-most = Únete ao { -brand-name-firefox
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Xa tes unha conta? <a { $fxa_attr }>Inicia sesión</a> ou <a { $accounts_attr }>obtén máis información</a> sobre como unirse ao Firefox.
+firefox-browsers-already-have-an-account-sign = Xa tes unha conta? <a { $fxa_attr }>Inicia sesión</a> ou <a { $accounts_attr }>obtén máis información</a> sobre como unirte ao Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
