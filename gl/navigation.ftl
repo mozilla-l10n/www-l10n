@@ -100,8 +100,8 @@ navigation-web-of-things-iot = Internet das cousas (IoT)
 navigation-help-make-deep-learning = Contribúe a que os algoritmos de aprendizaxe profunda estean dispoñíbeis para o mundo do código aberto.
 # Outdated string
 navigation-make-devices-connected = Consigue que os dispositivos conectados á Internet sexan seguros e interoperábeis.
-navigation-developers = Desenvolvedores
-navigation-close-developers-menu = Pechar o menú Desenvolvedores
+navigation-developers = Programadores
+navigation-close-developers-menu = Pechar o menú Programadores
 navigation-test-soon-to-be-released = Proba as características que se incluirán na versión preliminar máis estábel.
 navigation-developer-innovations = Innovacións para programadores
 navigation-projects-that-help-keep = Proxectos que axudan a que a Internet siga estando aberta e accesíbel para todos.

@@ -83,9 +83,9 @@ newsletters-were-glad-you-asked = Encántanos que o pregunte!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Gústalle a Internet? A nós tamén!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
-newsletters-unlock-the-world-of-web = Desbloquea o mundo do desenvolvemento web co noso boletín informativo semanal para desenvolvedores { -brand-name-mozilla }. Cada edición ofréceche técnicas e mellores prácticas de codificación, actualizacións de { -brand-name-mdn }, información sobre tecnoloxías emerxentes, consellos sobre ferramentas para desenvolvedores e moito máis.
+newsletters-unlock-the-world-of-web = Desbloquea o mundo do desenvolvemento web co noso boletín informativo semanal para programadores { -brand-name-mozilla }. Cada edición ofréceche técnicas e mellores prácticas de codificación, actualizacións de { -brand-name-mdn }, información sobre tecnoloxías emerxentes, consellos sobre ferramentas para programadores e moito máis.
 # Obsolete string
-newsletters-join-thousands-of-developers = Únete a miles de desenvolvedores coma ti que están aprendendo o mellor do desenvolvemento web.
+newsletters-join-thousands-of-developers = Únete a miles de programadores coma ti que están aprendendo o mellor do desenvolvemento web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox =
     Para experiencias fabulosas </a>
@@ -130,9 +130,9 @@ newsletters-about-standards = Acerca dos estándares
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = Desenvolvemento de complementos
 # Name for the newsletter in Newsletter subscription page
-newsletters-developer-newsletter = Boletín informativo para desenvolvedores
+newsletters-developer-newsletter = Boletín informativo para programadores
 # Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = Unha guía para desenvolvedores sobre as novidades das plataformas web, as mellores prácticas, nova documentación e moito máis.
+newsletters-a-developers-guide = Unha guía para programadores sobre as novidades das plataformas web, as mellores prácticas, nova documentación e moito máis.
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Grupo de novas o Drumbeat
 # Name for the newsletter in Newsletter subscription page

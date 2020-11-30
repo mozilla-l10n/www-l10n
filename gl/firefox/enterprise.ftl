@@ -10,7 +10,7 @@ firefox-enterprise-get-unmatched-data-protection = Obtén unha protección de da
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Visión xeral
 firefox-enterprise-downloads = Descargas
-firefox-enterprise-get-firefox-for-your-enterprise = Obter o { -brand-name-firefox } para a túa empresa
+firefox-enterprise-get-firefox-for-your-enterprise = Obtén o { -brand-name-firefox } para a túa empresa
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Obtén <a href="{ $url }"> { -brand-name-firefox-extended-support-release } ou Rapid Release </a> para gozares dunha seguridade e protección de datos completa.
