@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page5-firefox-lockwise-password = { -brand-name-firefox-lockwise }: xestor de contrasinais. Leva os teus contrasinais a calquera lugar
-welcome-page5-theres-an-easier-way-to-deal = Existe unha forma máis sinxela de lidar cos teus contrasinais
+welcome-page5-theres-an-easier-way-to-deal = Existe unha forma máis sinxela de lidar cos seus contrasinais
 welcome-page5-let-firefox-save-them-for = Deixa o { -brand-name-firefox } gardalos para ti. Despois, utiliza o { -brand-name-firefox-lockwise } para acceder con seguridade aos teus contrasinais en todas as aplicacións, en todos os teus dispositivos.
 welcome-page5-get-the-lockwise-app = Obter a aplicación { -brand-name-lockwise }
 welcome-page5-get-firefox-lockwise-on-your = Obter o { -brand-name-firefox-lockwise } no teu móbil
