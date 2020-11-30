@@ -10,8 +10,8 @@ whatsnew80-page-title = Que novidades ten o { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Parabéns! Está a utilizar a versión máis recente do { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = Faga practicamente todo un pouco máis rápido
-whatsnew80-main-intro = Móvase do computador para o teléfono sen perder o ritmo. Instale o { -brand-name-firefox } no móbil.
-whatsnew80-primary-cta-description = Introduza o seu correo electrónico ou número de teléfono para unha ligazón de descarga
+whatsnew80-main-intro = Móvase do computador para o teléfono sen perder o ritmo. Instala o { -brand-name-firefox } no móbil.
+whatsnew80-primary-cta-description = Introduce o teu correo electrónico ou número de teléfono para unha ligazón de descarga
 # content buckets below hero
 whatsnew80-password-fatigue = Ter demasiados contrasinais fatiga de verdade
 whatsnew80-the-average-person = A media de contas na rede por persoa é de 130. O { -brand-name-firefox } para móbiles lembra e almacena os contrasinais de maneira segura para todos os dispositivos sincronizados, de xeito que é posíbel acceder a esas contas con só un clic.
