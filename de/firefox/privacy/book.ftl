@@ -108,3 +108,4 @@ privacy-book-thirdparty-trackers-on = Auf der anderen Seite können Tracker von 
 privacy-book-as-you-might = Wie Sie vielleicht bereits annehmen, sind diese Informationen sehr wertvoll. Deshalb verdienen die Unternehmen, die sie besitzen, viel Geld, indem sie sie an andere verkaufen. Leider bezieht Sie niemand in diese Entscheidung ein. Aus diesem Grund blockiert { -brand-name-firefox } standardmäßig viele Tracker von Drittanbietern, um Ihnen mehr Kontrolle über Ihr Online-Erlebnis zu geben und die Wahrscheinlichkeit zu verringern, dass Anzeigen und zweifelhafte Unternehmen Sie im Internet verfolgen.
 privacy-book-questions-feedback = Fragen & Feedback
 privacy-book-do-you-have = Haben Sie Fragen oder Feedback? Bitte zögern Sie nicht, uns zu kontaktieren, wir freuen uns von Ihnen zu hören!
+privacy-book-twitter = { -brand-name-twitter }
