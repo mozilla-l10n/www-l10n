@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Du håller på att ladda ner:
 firefox-all-browser = Webbläsare:
 firefox-all-platform = Plattform:
 firefox-all-language = Språk:
+firefox-all-lang-multi = Flera språk
 firefox-all-sorry-we-couldnt-find = Tyvärr kunde vi inte hitta den nedladdning du letar efter. Vänligen försök igen, eller välj en nedladdning från listan nedan.
 firefox-all-the-pre-alpha-version = Pre-alpha-versionen för mer erfarna användare som gillar att jaga kraschar och testa nya funktioner medans dom blir programmerade.
 firefox-all-64-bit-installers = 64-bitars installationsprogram
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Räkna med stabilitet och användarvänligh
 firefox-all-windows-installers-for = Windows installerare för företags IT miljöer som förenklar konfigurationen, distributionen och hanteringen av { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 installationsprogram
 firefox-all-arm64-installers-optimized = ARM64/AArch64-installationsprogram optimerat för Snapdragon-drivna { -brand-name-windows }-datorer.
+firefox-all-product-send-link = Skicka en nedladdningslänk till din telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Välj ett 32-bitars installationsprogram för datorer med 32-bitars processorer - eller för äldre eller mindre kraftfulla datorer. <a href="{ $url }">Om du inte är säker</a> om du vill välja ett 64-bitars eller 32-bitars installationsprogram rekommenderar vi att du väljer 32-bitars.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
