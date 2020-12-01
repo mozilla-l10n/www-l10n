@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = მონაცემები დაიში�
 firefox-sync-your-encryption-key = თქვენი დაშიფვრის გასაღები იქნება საიდუმლო, გეცოდინებათ მხოლოდ თქვენ და თქვენ მიერ დაშვებულ მოწყობილობებს.
 firefox-sync-feel-safe = იგრძენით თავი უსაფრთხოდ
 firefox-sync-we-store-your = ჩვენ დაშიფრულ მონაცემებს ვინახავთ სერვერებზე, ასე რომ მათი ხილვა არ შეგვიძლია.
-start-syncing-in = დაიწყეთ სინქრონიზაცია ოთხი მარტივი ნაბიჯით:
+firefox-sync-start-syncing-in = დაიწყეთ სინქრონიზაცია ოთხი მარტივი ნაბიჯით:
 firefox-sync-open-the-menu = გახსენით მენიუ { -brand-name-firefox }-ის ზედა მარჯვენა არეში და აირჩიეთ <strong>„შესვლა – { -brand-name-sync }</strong>.“
 firefox-sync-click-get-started = დაწკაპეთ <strong>„დაწყება“</strong> გახსნილ ჩანართში.
-enter-an-email = შეიყვანეთ ელფოსტის მისამართი და პაროლი, რომ <strong>„შექმნათ { -brand-name-firefox-account }.“</strong>
+firefox-sync-enter-an-email = შეიყვანეთ ელფოსტის მისამართი და პაროლი, რომ <strong>„შექმნათ { -brand-name-firefox-account }.“</strong>
 firefox-sync-click-next-to = დააწკაპეთ <strong>„შემდეგ“</strong>, რომ ელფოსტაზე მიიღოთ დასტურის წერილი.
 firefox-sync-after-you-check = ელფოსტის შემოწმების და დასტურის ბმულზე დაწკაპების შემდეგ, { -brand-name-firefox } ავტომატურად დაასინქრონებს მონაცემებს ფონურად.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data

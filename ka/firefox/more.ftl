@@ -7,7 +7,7 @@
 
 firefox-products-are = { -brand-name-firefox }-პროდუქტები განკუთვნილია თქვენი პირადულობის დასაცავად
 learn-more-about = უკეთ გაეცანით { -brand-name-firefox }-ბრაუზერებს და პროდუქტებს, რომლებიც პატივისცემით ეპყრობა თქვენს მონაცემებს და შექმნილია პირადი მონაცემების სრულად დასაცავად მთელ ინტერნეტში.
-learn-more = ვრცლად
+learn-more-faq = { -brand-name-firefox } ხ.დ.კ.
 the-history-of = ბრაუზერების ისტორია
 firefox-has-been = { -brand-name-firefox } აქაა თითქმის დასაწყისიდანვე.
 firefox-rebel-with = { -brand-name-firefox }: მეამბოხე თავისუფლებისთვის
@@ -23,6 +23,12 @@ get-the-privacy = მიიღეთ პირადი მონაცემე
 take-your-passwords = თან წაიყოლეთ თქვენი პაროლები ყველგან
 securely-access-the = უსაფრთხო წვდომა პაროლებთან, რომლებსაც ინახავს { -brand-name-firefox }, ნებისმიერი ადგილიდან — მათ შორის ბრაუზერის გარეშეც.
 choose-which-firefox = აირჩიეთ, რომელი { -brand-name-firefox-browser } გსურთ ჩამოტვირთოთ თქვენს ენაზე
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook }-ზე
+firefox-more-while-on-chromebook = მართალია { -brand-name-chromebook }-ს უკვე აქვს { -brand-name-chrome } დაყენებული, მაგრამ { -brand-name-firefox }-ის გადმოწერა და ყოველდღიურ ბრაუზერად გამოყენება გაძლევთ შემდეგ უპირატესობებს:
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } იყო ძირფესვიანი ცვლილება { -brand-name-firefox }-ის შემუშავებაში. 2017-ში, ჩვენ შევქმენით სრულიად ახალი, მსუბუქი და სწრაფი ბრაუზერი, რომელიც მუდმივად ვითარდება. { -brand-name-firefox-quantum } არის { -brand-name-firefox-browser }.
+firefox-more-little-book = პირადულობის წიგნაკი
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = ჩვენ მიგვაჩნია, რომ ყველას უნდა ჰქონდეს წვდომა ინტერნეტთან — სწორედ ამიტომაა { -brand-name-firefox-browser } ხელმისაწვდომი 90-ზე მეტ ენაზე, ჩვენი ერთგული მოხალისეების წყალობით, მთელი მსოფლიოდან.
 firefox-fights-for = { -brand-name-firefox } იბრძვის თქვენთვის { -brand-name-windows }-ზე
 easy-migration-of = გადმოიტანეთ პარამეტრები და სანიშნები მარტივად, როცა ჩამოტვირთავთ { -brand-name-firefox }-ს { -brand-name-windows }-ზე.
