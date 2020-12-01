@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = A következő letöltésére készül:
 firefox-all-browser = Böngésző:
 firefox-all-platform = Platform:
 firefox-all-language = Nyelv:
+firefox-all-lang-multi = Több nyelv
 firefox-all-sorry-we-couldnt-find = Sajnáljuk, nem találtuk a keresett letöltést. Próbálja újra, vagy válasszon a lenti listából.
 firefox-all-the-pre-alpha-version = Az alfa előtti verzió azon hozzáértő felhasználóknak, akik összeomlásokat akarnak levadászni, és ki akarják próbálni az új funkciókat miközben azok készülnek.
 firefox-all-64-bit-installers = 64 bites telepítők
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Stabilitásra és könnyű használatra sz�
 firefox-all-windows-installers-for = Windowsos telepítők a vállalati informatikai részlegek számára, melyek egyszerűsítik a { -brand-name-firefox-browser } beállítását, telepítését és kezelését.
 firefox-all-arm64-installers = ARM64/AArch64 telepítők
 firefox-all-arm64-installers-optimized = ARM64 / AArch64 telepítők Snapdragon-alapú { -brand-name-windows }t futtató számítógépekre optimalizálva.
+firefox-all-product-send-link = Küldjön egy letöltési hivatkozást a telefonjára
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bites processzorral rendelkező számítógépekre válassza a 32 bites telepítőt – régebbi vagy kevésbé erős számítógépekhez. <a href="{ $url }">Ha nem biztos benne</a> hogy a 64 vagy a 32 bites telepítőt válassza, akkor a 32 bitest javasoljuk.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
