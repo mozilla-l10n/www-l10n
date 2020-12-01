@@ -10,5 +10,6 @@ firefox-products-desktop = Burev
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-products-download-lockwise = Pellgargañ { -brand-name-lockwise }
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-pocket = { -brand-name-pocket }

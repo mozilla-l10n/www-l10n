@@ -7,4 +7,4 @@
 
 # HTML page title
 welcome-page6-make-firefox-your-default = Lakaat { -brand-name-firefox } da vezañ ho merdeer dre ziouer
-welcome-page6-why-am-i-seeing-this = Perak e welan an dra-mañ ?
+welcome-page6-why-am-i-seeing-this = Perak e welan an dra-mañ?

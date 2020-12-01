@@ -6,4 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
 page7-get-firefox-monitor = Kaout { -brand-name-firefox-monitor }
-page7-why-am-i-seeing-this = Perak e welan an dra-mañ ?
+page7-why-am-i-seeing-this = Perak e welan an dra-mañ?

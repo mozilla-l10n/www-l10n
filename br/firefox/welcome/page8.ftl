@@ -7,4 +7,4 @@
 
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
-welcome-page8-why-am-i = Perak e welan an dra-mañ ?
+welcome-page8-why-am-i = Perak e welan an dra-mañ?

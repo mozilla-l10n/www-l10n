@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Un doare a zo da wareziñ ho puhez prevez. Tremenit da { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Krouit ho kont Firefox – Ho roadennoù a chomo prevez, diarvar ha goubredet
+firefox-accounts-get-a-firefox-account = Krouit ho { -brand-name-firefox-account } – Ho roadennoù a chomo prevez, diarvar ha goubredet
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Bezit a-enep ur greanterezh a werzh ho roadennoù da dredeourien.  Chomit fin hag e surentez gant teknologiezhioù a stourm evidoc'h.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.

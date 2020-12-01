@@ -6,4 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/2/
 
 welcome-page2-pocket = { -brand-name-pocket }
-welcome-page2-why-am-i-seeing-this = Perak e welan an dra-mañ ?
+welcome-page2-why-am-i-seeing-this = Perak e welan an dra-mañ?

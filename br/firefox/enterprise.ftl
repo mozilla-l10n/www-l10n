@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-downloads = Pellgargadurioù
 firefox-enterprise-macos = { -brand-name-mac }

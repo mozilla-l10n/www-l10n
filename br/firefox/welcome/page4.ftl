@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
-welcome-page4-why-am-i-seeing-this = Perak e welan an dra-mañ ?
+welcome-page4-why-am-i-seeing-this = Perak e welan an dra-mañ?

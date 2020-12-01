@@ -11,4 +11,4 @@ welcome-page3-firefox-lockwise = { -brand-name-firefox-lockwise }
 welcome-page3-facebook-container = { -brand-name-facebook-container }
 welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-firefox-send = { -brand-name-firefox-send }
-welcome-page3-why-am-i-seeing-this = Perak e welan an dra-mañ ?
+welcome-page3-why-am-i-seeing-this = Perak e welan an dra-mañ?

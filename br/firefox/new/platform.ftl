@@ -11,4 +11,10 @@ new-platform-the-new-firefox = Ar <strong>{ -brand-name-firefox }</strong> nevez
 new-platform-2x-faster = 2x Buanoc'h
 new-platform-the-best-firefox-ever = Ar { -brand-name-firefox } gwellañ n'eus bet morse
 new-platform-lightweight = Skañv-mat
-new-platform-need-help = Ezhomm skoazell ?
+new-platform-need-help = Ezhomm skoazell?
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-linux }

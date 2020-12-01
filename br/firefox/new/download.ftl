@@ -12,7 +12,7 @@ firefox-new-download-firefox-for-windows = Pellgargañ { -brand-name-firefox } <
 firefox-new-download-firefox-for-macos = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-mac }
 firefox-new-download-firefox-for-linux = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-linux }
 firefox-new-free-web-browser = Merdeer web digoust
-firefox-new-need-help = Ezhomm skoazell ?
+firefox-new-need-help = Ezhomm skoazell?
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
