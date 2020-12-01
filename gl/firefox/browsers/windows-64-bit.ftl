@@ -26,4 +26,8 @@ windows-64-bit-how-do-you-get-64 = Como obteño eu o { -brand-name-firefox } de 
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = Se xa traballas cun { -brand-name-windows } de 64 bits (<a href="{ $version }">aquí tes como comprobalo </a>), é posíbel que o teu { -brand-name-firefox } xa sexa de 64 bits. <a href="{ $check }">Comproba a túa versión do { -brand-name-firefox }</a> (na xanela "Sobre o { -brand-name-firefox }") e procura "(32 bits)" ou "(64 bits)" tras o número da versión:
 windows-64-bit-if-you-see-32-bit-older = Se ves "(32 bits)" e estás a usar a versión 56.0 do { -brand-name-firefox } ou unha máis antiga, a actualización á última versión do { -brand-name-firefox } debería instalar automaticamente a de 64 bits.
+windows-64-bit-if-you-see-32-bit-newer = Se ves "(32 bits)" e estás a usar a versión 56.0.1 do { -brand-name-firefox } ou unha máis nova, podería ser que o teu computador non cumpra os requisitos mínimos de memoria para 64 bits (3 GB de RAM ou máis). Porén, se o desexas, podes instalar manualmente o { -brand-name-firefox } de 64 bits.
+# Variables:
+# $all (url) - link to https://www.mozilla.org/firefox/all/
+windows-64-bit-if-you-need-to-run = Se precisas usar o { -brand-name-firefox } de 32 bits ou instalar manualmente o de 64 bits, tes a opción de simplemente descargar e volver executar o instalador do { -brand-name-firefox } para { -brand-name-windows } (de 32 bits ou 64 bits) da <a href="{ $all }">páxina de descarga de plataformas e idiomas do { -brand-name-firefox }.</a>
 windows-64-bit-take-control-of-your = Asume o control do teu navegador

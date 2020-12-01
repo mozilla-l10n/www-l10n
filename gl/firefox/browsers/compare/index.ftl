@@ -10,3 +10,6 @@ compare-index-seven-of-the-best-browsers-in = Sete dos mellores navegadores en c
 compare-index-six-of-the-best-browsers-fallback = Seis dos mellores navegadores en comparación directa
 # Sub-headline
 compare-index-privacy-utility-portability = Privacidade. Utilidade. Portabilidade.
+# HTML page description
+compare-index-a-great-internet-browser-should = Un gran navegador web debe ter as funcionalidades que precises, portabilidade entre dispositivos e a privacidade que mereces.
+compare-index-which-browser-is-best-at-keeping = Cal destes navegadores é o mellor para mantermos as cousas confidenciais?
