@@ -14,7 +14,7 @@ welcome-page1-youre-on-track-to-stay-protected = Vai por bo camiño para seguir 
 welcome-page1-youve-got-the-web-browser = Xa ten o navegador web que protexe a súa privacidade; agora é o momento de defenderse contra os piratas informáticos.
 welcome-page1-check-your-breach-report = Revise o informe de incumprimentos
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } móstralle se a súa información se filtrou nun incumprimento de datos coñecido, e lle avisa no caso de que volva a acontecer.
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } móstrache se a túa información foi filtrada nun incumprimento de datos coñecido, e avísate en caso de que volva a acontecer.
 welcome-page1-stay-ahead-of-hackers = Mantéñase á fronte contra os piratas informáticos
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
