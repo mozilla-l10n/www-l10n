@@ -65,7 +65,7 @@ navigation-v2-more-about-mozilla = További információk a { -brand-name-mozill
 
 ## Innovation menu
 
-navigation-v2-innovation = innováció
+navigation-v2-innovation = Innováció
 navigation-v2-close-innovation-menu = Innováció menü bezárása
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-gather-in-this-interactive-online = Gyülekezzen ebben az interaktív, online, többdimenziós közösségi térben.
