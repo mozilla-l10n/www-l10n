@@ -51,7 +51,7 @@ navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } achega a realidade virtual e aumentada á Web libre.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } abre o { -brand-name-firefox } á realidade aumentada e virtual.
-navigation-firefox-built-just-for = { -brand-name-firefox }, deseñado especificamente para desenvolvedores.
+navigation-firefox-built-just-for = { -brand-name-firefox }, deseñado especificamente para programadores.
 navigation-preview-the-latest-build = Previsualiza a última versión do { -brand-name-firefox } e axúdanos a convertela na mellor.
 navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
@@ -88,7 +88,7 @@ navigation-close-about-menu = Pechar o menú Quen somos
 navigation-meet-the-technology-company = Coñece a empresa de tecnoloxía que antepón a xente aos beneficios.
 navigation-new-features = Novas características
 navigation-save-content-absorb-knowledge = Garda contido e nútrete de coñecemento.
-navigation-same-speed-and-safety = A mesma velocidade e seguridade na que confía, pero deseñado especificamente para empresas.
+navigation-same-speed-and-safety = A mesma velocidade e seguridade na que confías, pero deseñado especificamente para empresas.
 # Outdated string
 navigation-add-ons = Complementos
 navigation-projects = Proxectos
