@@ -17,6 +17,7 @@ get-the-privacy = Obtén la privacidad que mereces. La protección de seguimient
 take-your-passwords = Lleva tus contraseñas a todas partes
 securely-access-the = Accede de forma segura a contraseñas que has guardado en { -brand-name-firefox } desde cualquier parte — incluso fuera del navegador.
 choose-which-firefox = Elige qué { -brand-name-firefox-browser } descargar en tu idioma
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = Accede y sincroniza tus marcadores, contraseñas, pestañas abiertas y más — en todas partes donde uses { -brand-name-firefox }.
 firefox-fights-for = { -brand-name-firefox } lucha por ti en { -brand-name-windows }
