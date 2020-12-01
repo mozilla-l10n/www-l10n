@@ -12,6 +12,10 @@ contribute-how-heading = Achike rub'eyal yatikïr yato'on…
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Man Samajilal Ta
+contribute-tag-technical = Samajilal
+contribute-tag-technical-non-technical = Samajilal chuqa' Man samajilal ta
+contribute-tag-individual-event = Junilal chuqa' nimaq'ij moloj
 contribute-tag-individual = Yonil
 contribute-tag-support = Tob'äl
 contribute-task-translate-heading = Titzalq'omïx rupam
