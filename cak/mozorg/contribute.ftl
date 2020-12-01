@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-how-heading = Achike rub'eyal yatikïr yato'on…
 
 ## Contribution tasks
 

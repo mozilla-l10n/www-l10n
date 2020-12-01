@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Naqasaj yan qa:
 firefox-all-browser = Okik'amaya'l:
 firefox-all-platform = Nuk'uche'el:
 firefox-all-language = Ch'ab'äl:
+firefox-all-lang-multi = k'ïy ch'ab'äl
 firefox-all-sorry-we-couldnt-find = Kojakuyu', man xqïl ta ri qasanïk nakanoj. Tatojtob'ej chik o tacha' jun qasanïk pa re cholajem re'.
 firefox-all-the-pre-alpha-version = Ri pre-alpha ruwäch b'anon pe kichin q'axinäq taq okisanela', ri nikajo' nikiya' rutzijol taq k'ayewal chuqa' yekitojtob'ej ri ruk'isib'äl taq rusamaj toq k'a ja' yesamajïx.
 firefox-all-64-bit-installers = 64-bit yakonela'
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Tak'owisaj ak'u'x rik'in ri raxnaqil chuqa'
 firefox-all-windows-installers-for = Ri Windows yakonela' kichin TI ajk'aymolojil nikich'utinisaj ri runuk'ulem, rurik'ik chuqa' ri runuk'samaj ri { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 yakonela'
 firefox-all-arm64-installers-optimized = Utzirisan ri ARM64/AArch64 yakonel richin { -brand-name-windows } PCs rik'in Snapdragon.
+firefox-all-product-send-link = Titaq jun ruximik qasanïk pan awoyonib'al.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tacha' jun 32-bit yakonel kichin kematz'ib' rik'in 32-bit xenab'ab'äl — o ojer taq samajib'äl o man kan ta k'o kuchuq'a'. <a href="{ $url }">We man awetaman ta</a> we nacha' chi kikojol 64-bit o 32-bit yakonel, niqachilab'ej chi tacha' ri 32-bit.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
