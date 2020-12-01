@@ -47,7 +47,7 @@ footer-portions-of-this-content = Partes deste contido posúen dereitos reservad
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Compañía
 # Outdated string
-footer-about = Sobre
+footer-about = Quen somos
 footer-press-center = Centro de prensa
 footer-careers = Emprego
 # Outdated string

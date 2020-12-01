@@ -18,4 +18,4 @@ whatsnew80-the-average-person = A media de contas na rede por persoa é de 130. 
 whatsnew80-privacy-you-never = Privacidade sobre a que nunca vacilar
 whatsnew80-firefox-for-mobile = O { -brand-name-firefox } para móbiles bloquea a maioría dos tracexadores de anuncias da rede automaticamente para que non haxa que estar configurando as opcións de seguranza.
 whatsnew80-new-firefox-android = O novo { -brand-name-firefox } para { -brand-name-android }
-whatsnew80-our-latest-version = A nosa versión máis recente do { -brand-name-firefox } presenta carga de páxinas rápida como un lóstrego e un desexo novo e limpo que facilita realizar máis cousas en menos tempo.
+whatsnew80-our-latest-version = A nosa versión máis recente do { -brand-name-firefox } presenta unha carga de páxinas que vai a fume de carozo e un desexo novo e limpo que facilita realizar máis cousas en menos tempo.
