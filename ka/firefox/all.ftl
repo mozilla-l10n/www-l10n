@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = თქვენ აპირებთ �
 firefox-all-browser = ბრაუზერი:
 firefox-all-platform = პლატფორმა:
 firefox-all-language = ენა:
+firefox-all-lang-multi = მრავალ ენაზე
 firefox-all-sorry-we-couldnt-find = სამწუხაროდ, თქვენ მიერ მოთხოვნილი ჩამოტვირთვა ვერ მოიძებნა. გთხოვთ სცადოთ ხელახლა ან ჩამოტვირთვა შეარჩიეთ ქვემოთ მოცემული სიიდან.
 firefox-all-the-pre-alpha-version = წინასწარი ვერსია იმ ძლიერი მომხმარებლებისთვის, რომლებიც არ უშინდებიან უეცარ გათიშვებსა და ჯერ კიდევ დაუსრულებელი ახალი შესაძლებლობების გამოცდას.
 firefox-all-64-bit-installers = 64-ბიტიანის დასაყენებელი

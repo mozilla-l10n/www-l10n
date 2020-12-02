@@ -29,6 +29,7 @@ firefox-more-while-on-chromebook = მართალია { -brand-name-chrome
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } იყო ძირფესვიანი ცვლილება { -brand-name-firefox }-ის შემუშავებაში. 2017-ში, ჩვენ შევქმენით სრულიად ახალი, მსუბუქი და სწრაფი ბრაუზერი, რომელიც მუდმივად ვითარდება. { -brand-name-firefox-quantum } არის { -brand-name-firefox-browser }.
 firefox-more-little-book = პირადულობის წიგნაკი
+firefox-more-you-can-reclaim = შეგიძლიათ დაიბრუნოთ პირადულობა და ინტერნეტში საკუთარი ცხოვრების თავად განკარგვის უფლება. ეს სინამდვილეში მარტივად შეიძლება მოხერხდეს. ხელმისაწვდომია ყველასთვის.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = დაასინქრონეთ წვდომისთვის თქვენი სანიშნები, პაროლები და ა.შ. — ყველგან, სადაც გიყენიათ { -brand-name-firefox }.
 we-believe-everyone = ჩვენ მიგვაჩნია, რომ ყველას უნდა ჰქონდეს წვდომა ინტერნეტთან — სწორედ ამიტომაა { -brand-name-firefox-browser } ხელმისაწვდომი 90-ზე მეტ ენაზე, ჩვენი ერთგული მოხალისეების წყალობით, მთელი მსოფლიოდან.
