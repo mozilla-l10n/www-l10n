@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Bạn chuẩn bị tải về:
 firefox-all-browser = Trình duyệt:
 firefox-all-platform = Nền tảng:
 firefox-all-language = Ngôn ngữ:
+firefox-all-lang-multi = Đa ngôn ngữ
 firefox-all-sorry-we-couldnt-find = Xin lỗi, chúng tôi không thể tìm thấy bản tải xuống mà bạn đang tìm kiếm. Vui lòng thử lại hoặc chọn tải xuống từ danh sách bên dưới.
 firefox-all-the-pre-alpha-version = Phiên bản pre-alpha dành cho người dùng quyền lực, những người thích tìm kiếm các sự cố và thử nghiệm các tính năng mới khi họ mã hóa.
 firefox-all-64-bit-installers = Trình cài đặt 64-bit
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Dựa vào tính ổn định và dễ sử
 firefox-all-windows-installers-for = Trình cài đặt Windows cho CNTT doanh nghiệp giúp đơn giản hóa việc cấu hình, triển khai và quản lý { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Trình cài đặt ARM64/AArch64
 firefox-all-arm64-installers-optimized = Trình cài đặt ARM64/AArch64 được tối ưu hóa cho PC { -brand-name-windows } sử dụng vi xử lý Snapdragon.
+firefox-all-product-send-link = Gửi liên kết tải xuống đến điện thoại của bạn.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Chọn trình cài đặt 32-bit cho máy tính có bộ xử lý 32-bit - hoặc cho máy tính cũ hoặc yếu hơn. <a href="{ $url }">Nếu bạn không chắc chắn</a> nên chọn trình cài đặt 64-bit hay 32-bit, chúng tôi khuyên bạn nên chọn 32-bit.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
