@@ -35,6 +35,7 @@ firefox-all-count-on-stability-and = განკუთვნილი მდგ
 firefox-all-windows-installers-for = Windows-ზე დასაყენებლად დაწესებულებებისთვის, სადაც გამარტივებულად შეიძლება განთავსდეს, მოეწყოს და იმართოს { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 დასაყენებელი
 firefox-all-arm64-installers-optimized = ARM64/AArch64 დასაყენებელი ფაილები განკუთვნილია Snapdragon-ით აღჭურვილი { -brand-name-windows }-PC სისტემებისთვის.
+firefox-all-product-send-link = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = აირჩიეთ 32-ბიტიანის დასაყენებელი, 32-ბიტიანი პროცესორის მქონე კომპიუტერისთვის — ან მოძველებული და სუსტი კომპიუტერისთვის. <a href="{ $url }">თუ ზუსტად არ იცით,</a> რომელი უნდა აირჩიოთ 64-ბიტიანსა და 32-ბიტიანს შორის, მაშინ გირჩევთ 32-ბიტიანს.
@@ -56,3 +57,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
