@@ -35,6 +35,7 @@ firefox-all-count-on-stability-and = Conta sur le stabilitate e le facilitate de
 firefox-all-windows-installers-for = Installatores de Windows pro Technologia de information corporative, que simplifica configuration, displicamento e gestion de { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programmas de installation ARM64/AArch64
 firefox-all-arm64-installers-optimized = Programmas de installation ARM64/AArch64 optimisate pro PCs { -brand-name-windows } con Snapdragon
+firefox-all-product-send-link = Inviar un ligamine de discargamento a tu telephono
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Elige un installator 32-bit pro computatores con processors 32-bit, plus vetere o minus potente. <a href="{ $url }">Si tu non es secur</a> si seliger un installator 64-bit o 32-bit, nos te consilia probar primo 64-bit.
@@ -56,3 +57,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

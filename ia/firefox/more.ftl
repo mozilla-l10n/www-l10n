@@ -24,6 +24,7 @@ take-your-passwords = Porta tu contrasignos sempre con te
 securely-access-the = Accede con securitate al contrasignos memorisate in { -brand-name-firefox }, non importa ubi tu es, mesmo foras del navigator.
 choose-which-firefox = Selige que { -brand-name-firefox-browser } discargar in tu lingua
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Ben que un { -brand-name-chromebook } jam ha { -brand-name-chrome } installate, discargar e usar { -brand-name-firefox } como tu navigator quotidian te da plure beneficios:
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-little-book = Libretto del confidentialitate
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
