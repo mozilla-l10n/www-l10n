@@ -5,11 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = שאלות ותשובות על { -brand-name-firefox }
+what-is-firefox = מהו { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = ה{ -brand-name-firefox-browser(case: "a") } הוא הדפדפן העיקרי היחיד שמגובה על־ידי ארגון ללא מטרות רווח שאינו מוכר את הנתונים האישיים שלך, ועוזר לך להגן על המידע האישי שלך. מידע נוסף על <a href="{ $url }">{ -brand-name-firefox-browsers(case: "the") }</a> או <a href="{ $url2 }">מוצרים אחרים</a>.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
