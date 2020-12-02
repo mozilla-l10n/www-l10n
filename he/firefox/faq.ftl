@@ -53,15 +53,20 @@ does-firefox-sell = האם { -brand-name-firefox } מוכר את הנתונים 
 nope-never-have = לא. מעולם לא, ולעולם לא. ואנחנו מגנים עליך מפני גורמי פרסום שכן מוכרים. מוצרי { -brand-name-firefox } נועדו להגן על הפרטיות שלך. <a href="{ $url }">זו הבטחה.</a>
 why-is-firefox = למה { -brand-name-firefox } כל כך איטי?
 is-firefox-chromium = האם { -brand-name-firefox } מבוסס על { -brand-name-chromium }?
+does-firefox-use = האם { -brand-name-firefox } משתמש ב־{ -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = ‏{ -brand-name-google } הוא מנוע החיפוש ברירת המחדל ב־{ -brand-name-firefox }, מה שאומר שבאפשרותך לחפש ברשת הישר משורת הכתובת. <a href="{ $url }">מידע נוסף על העדפות מנועי חיפוש ושינוי ברירת המחדל.</a>
+does-firefox-have = האם ל־{ -brand-name-firefox } יש VPN מובנה?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = שאלות קשורות: האם { -brand-name-firefox } מסתיר את כתובת ה־IP שלך
+who-owns-firefox = מי הבעלים של { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
