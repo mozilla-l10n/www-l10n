@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = 即將下載:
 firefox-all-browser = 瀏覽器:
 firefox-all-platform = 平台:
 firefox-all-language = 語言:
+firefox-all-lang-multi = 多種語言
 firefox-all-sorry-we-couldnt-find = 很抱歉，我們找不到您想要下載的東西。請再試一次，或從下方的清單選擇要下載的項目。
 firefox-all-the-pre-alpha-version = pre-alpha 測試版，適用於想要找出錯誤，或在新功能一完成就立即測試的進階使用者。
 firefox-all-64-bit-installers = 64 位元安裝程式
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = 若需要穩定度與易用性，請使用�
 firefox-all-windows-installers-for = Windows Installer 安裝程式可讓企業的 IT 部門簡化 { -brand-name-firefox-browser }的設定、佈署與管理過程。
 firefox-all-arm64-installers = ARM64/AArch64 安裝程式
 firefox-all-arm64-installers-optimized = 針對使用 Snapdragon 處理器的 { -brand-name-windows } PC 最佳化的 ARM64/AArch64 安裝程式。
+firefox-all-product-send-link = 傳送下載鏈結到您的手機
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 若電腦使用的是 32 位元處理器，請選擇 32 位元版本安裝程式。一般為較舊或較低階的電腦適用。<a href="{ $url }">若您不確定該挑 64 或 32 位元安裝程式</a>，建議您先選 32 位元版本。
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

@@ -49,5 +49,5 @@ reporting-when-an-investigation = 調查完成時，我們會依做錯事的人�
 reporting-no-retaliation = 不得報復
 reporting-mozilla-does-not-tolerate = { -brand-name-mozilla } 不會容忍任何人對依照社群參與準則進行檢舉的善意 { -brand-name-mozilla } 人員進行報復。若有報復行為應依上述規定使用相同流程進行檢舉。
 reporting-license = 授權條款
-reporting-this-document-includes = 此文件包含衍生自 <a href="{ $pycon }">PyCon Code of Conduct Revision 2f4d980</a> 的內容，該內容依照創用 CC 姓名標示 3.0 未本地化條款提供。
-reporting-this-document-is-licensed = 本文件係依照<a href="{ $license }">創用 CC 姓名標示 3.0 未本地化</a>條款，授權大眾使用。
+reporting-this-document-includes = 此文件包含衍生自 <a href="{ $pycon }">PyCon Code of Conduct Revision 2f4d980</a> 的內容，該內容依照{ -brand-name-creative-commons } 姓名標示 3.0 未本地化條款提供。
+reporting-this-document-is-licensed = 本文件係依照<a href="{ $license }">{ -brand-name-creative-commons } 姓名標示 3.0 未本地化</a>條款，授權大眾使用。
