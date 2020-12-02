@@ -7,7 +7,7 @@
 
 reporting-community-participation = Diretrizes de participação na comunidade - Como denunciar
 reporting-how-to-report-violations = Como denunciar violações às diretrizes de participação na comunidade
-reporting-this-document-provides = Este documento fornece informações de alto nível para entender e denunciar violações das Diretrizes de Participação na Comunidade da { -brand-name-mozilla }.
+reporting-this-document-provides = Este documento fornece informações de alto nível para entender e denunciar violações das diretrizes de participação na comunidade da { -brand-name-mozilla }.
 reporting-from-the-community-participation = Segundo as <a href="{ $cpg }">Diretrizes de Participação na Comunidade</a>:
 reporting-the-heart-of-mozilla-is = O coração da { -brand-name-mozilla } são as pessoas. Nós as colocamos em primeiro lugar e fazemos o melhor possível para reconhecer, valorizar e respeitar a diversidade de nossos colaboradores do mundo todo. O Projeto { -brand-name-mozilla } aceita de bom grado contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas diretrizes de participação para nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
 reporting-this-document-is-intended = Este documento pretende ser uma interface para documentos, processos e pessoas existentes responsáveis por garantir que as comunidades da { -brand-name-mozilla } sejam saudáveis e inclusivas para todos.
@@ -19,7 +19,7 @@ reporting-if-you-have-a-report-by = Se você tem uma denúncia <strong>de <em>e<
 reporting-if-you-have-a-report-involving = Se você tem uma denúncia <strong>envolvendo um funcionário, prestador de serviços ou fornecedor</strong> (por exemplo, o relatório é feito <strong>de</strong> ou <strong>sobre</strong> um funcionário), você deve denunciar na <a href="{ $employee_hotline }">linha direta de funcionários da { -brand-name-mozilla }</a>.
 reporting-put-another-way = Em outras palavras...
 reporting-by = Por
-reporting-employee = Empregado
+reporting-employee = Funcionário
 reporting-contributor = Contribuidor
 reporting-about = Sobre
 reporting-employee-hotline = Linha direta para funcionários
@@ -35,8 +35,8 @@ reporting-no-matter-who-files-the = Independentemente de quem registre a denúnc
 reporting-names-of-the-people-involved = Nomes das pessoas envolvidas (se eles forem desconhecidos, use descrições e informações descritivas, como aparência, função, identificador, ligação ao projeto/comunidade).
 reporting-description-of-incident = Descrição do incidente, incluindo datas (ou eventos) memoráveis e locais.
 reporting-if-the-reporter-wants = Se o denunciante quiser fazer uma denúncia anônima, informe-o que, sem essas informações de contato, pode não ser possível atualizar o denunciante inicial, se necessário. Algumas leis proíbem denúncias anônimas. Nesse caso, se você for gerente ou líder da comunidade da { -brand-name-mozilla }, deverá informar o nome do denunciante.
-reporting-relationship-of-reportervictim = Relação entre o denunciante e a vítima
-reporting-mozilla-managers-and-community = Administradores da { -brand-name-mozilla } e líderes comunitários
+reporting-relationship-of-reportervictim = Relação entre o denunciante e a vítima.
+reporting-mozilla-managers-and-community = Administradores da { -brand-name-mozilla } e líderes da comunidade
 reporting-if-a-mozilla-manager-or = Se um administrador ou líder de uma comunidade { -brand-name-mozilla } for informado sobre potenciais violações das <a href="{ $cpg }">diretrizes de participação na comunidade</a>, é esperado que denuncie o incidente imediatamente através da linha direta aplicável, mesmo que o denunciante original também registre uma denúncia. Administradores e líderes de comunidades { -brand-name-mozilla } não têm permissão para investigar reclamações por conta própria.
 reporting-do-not-impose-your-own = Não imponha seu próprio julgamento sobre como o denunciante deve reagir. Concentre-se em ouvir.
 reporting-what-happens-after-the = O que acontece após a denúncia ser registrada
@@ -50,4 +50,4 @@ reporting-no-retaliation = Sem retaliação
 reporting-mozilla-does-not-tolerate = A { -brand-name-mozilla } não tolera retaliação contra seus contribuidores que fizerem denúncias em boa-fé nos termos das DPC. Atos de retaliação devem ser denunciados seguindo o mesmo processo, conforme descrito acima.
 reporting-license = Licença
 reporting-this-document-includes = Este documento inclui conteúdo obtido do <a href="{ $pycon }">Código de conduta da PyCon, Revisão 2f4d980</a>, licenciado sob a Licença { -brand-name-creative-commons } Atribuição 3.0 Unported.
-reporting-this-document-is-licensed = Este documento é licenciado sob a <a href="{ $license }">Licença { -brand-name-creative-commons } Atribuição 3.0 Unported</a>.
+reporting-this-document-is-licensed = Este documento é licenciado sob uma <a href="{ $license }">Licença de Atribuição 3.0 Não Adaptada do { -brand-name-creative-commons }</a>.
