@@ -13,6 +13,7 @@ what-is-firefox = ¿Achike ri { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = ¿Achi'el rub'eyal ninwïl ri { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -28,6 +29,8 @@ is-chrome-better = ¿La mas ütz ri { -brand-name-chrome } chuwäch ri { -brand-
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Titz'et achi'el { -brand-name-firefox } nujunamaj ri' rik'in { -brand-name-chrome }.</a>
+related-questions-better = Ch'aqa' chik taq k'utunïk: { -brand-name-firefox } ütz chuwäch ri { -brand-name-chrome }, { -brand-name-firefox } ütz chuwäch ri { -brand-name-google }, { -brand-name-firefox } ütz jikïl chuwäch ri { -brand-name-chrome }, { -brand-name-firefox } ütz ichinan chuwäch ri { -brand-name-chrome }
+is-firefox-safe-download = ¿La jikïl niqasäx { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
