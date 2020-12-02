@@ -50,6 +50,8 @@ does-firefox-sell = האם { -brand-name-firefox } מוכר את הנתונים 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = לא. מעולם לא, ולעולם לא. ואנחנו מגנים עליך מפני גורמי פרסום שכן מוכרים. מוצרי { -brand-name-firefox } נועדו להגן על הפרטיות שלך. <a href="{ $url }">זו הבטחה.</a>
+why-is-firefox = למה { -brand-name-firefox } כל כך איטי?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
