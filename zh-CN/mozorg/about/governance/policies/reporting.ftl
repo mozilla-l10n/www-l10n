@@ -9,7 +9,7 @@ reporting-community-participation = 社区参与准则 - 如何举报
 reporting-how-to-report-violations = 如何举报违反社区参与准则的行为
 reporting-this-document-provides = 本文档提供相关概要信息，让您可了解和举报违反 { -brand-name-mozilla } 社区参与准则的行为。
 reporting-from-the-community-participation = 根据<a href="{ $cpg }">社区参与准则</a>：
-reporting-the-heart-of-mozilla-is = { -brand-name-mozilla } 坚持以人为本。我们将众人放在第一位，尽最大努力来认识、欣赏并尊重全球贡献者的多样性。The { -brand-name-mozilla } Project 欢迎任何志同道合的人，在社区中以健康和建设性的方式作出贡献。因此，我们特别编写这份行为准则，并要求所有参与者同意并遵循此准则，一同营造出安全且积极的社区体验。
+reporting-the-heart-of-mozilla-is = { -brand-name-mozilla } 坚持以人为本。我们将众人放在第一位，尽最大努力来认识、欣赏并尊重全球贡献者的多样性。{ -brand-name-mozilla } 项目欢迎任何志同道合的人，在社区中以健康和建设性的方式作出贡献。因此，我们特别编写这份行为准则，并要求所有参与者同意并遵循此准则，一同营造出安全且积极的社区体验。
 reporting-this-document-is-intended = 本文档旨在为负责确保 { -brand-name-mozilla } 社区健康并包容所有人的文档、流程和人员提供入口。
 reporting-when-to-report = 何时应该举报
 reporting-please-report-all-incidents = 若知道有人可能参与不法行为，或令您本人或他人感到不安全、不受欢迎或不舒服，请<a href="{ $cpg }">依照社区参与准则的说明</a>举报此类事件。
@@ -49,5 +49,5 @@ reporting-when-an-investigation = 调查完成后，我们会在 { -brand-name-m
 reporting-no-retaliation = 不得报复
 reporting-mozilla-does-not-tolerate = { -brand-name-mozilla } 不会容忍任何人对按照社区参与准则进行举报的善意谋智人进行报复。若有报复行为，应以上述相同流程进行举报。
 reporting-license = 许可协议
-reporting-this-document-includes = 本文档包含派生自 <a href="{ $pycon }">PyCon 行为准则修订版 2f4d980</a> 的内容，该内容遵循知识共享“署名-未移植 3.0”许可协议进行授权。
-reporting-this-document-is-licensed = 本文档遵循<a href="{ $license }">知识共享“署名-未移植 3.0”许可协议</a>进行授权。
+reporting-this-document-includes = 本文档包含派生自 <a href="{ $pycon }">PyCon 行为准则修订版 2f4d980</a> 的内容，该内容遵循{ -brand-name-creative-commons }“署名-未移植 3.0”许可协议进行授权。
+reporting-this-document-is-licensed = 本文档遵循<a href="{ $license }">{ -brand-name-creative-commons }“署名-未移植 3.0”许可协议</a>进行授权。

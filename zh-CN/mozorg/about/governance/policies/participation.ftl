@@ -101,7 +101,7 @@ participation-reports-will-receive = 举报将以电子邮件通知已送达并�
 participation-ask-questions = 我要提问
 participation-everyone-is-encouraged = 欢迎任何人提出此准则的相关问题。如果您是活动主办人，请参阅对活动或 Space 营造包容氛围的提示。当您联系 <a href="{ $mailto_questions }">cpg-questions@mozilla.com</a> 后，会在 24 小时内（如遇周末或假日，将顺延至下一个工作日）收到回复。可在<a href="{ $changelog }">此处</a>找到本文档的的更新记录。
 participation-license-and-attribution = 许可协议与引用条款
-participation-this-set-of-guidelines = 本准则遵循<a href="{ $license }" rel="license">知识共享“署名-相同方式共享”许可协议</a>进行授权。
+participation-this-set-of-guidelines = 本准则遵循<a href="{ $license }" rel="license">{ -brand-name-creative-commons }“署名-相同方式共享”许可协议</a>进行授权。
 participation-these-guidelines-have = 这些准则修改自： { -brand-name-mozilla } 原版《社区参与准则》、<a href="{ $ubuntu_coc }">《Ubuntu 行为守则》</a>、{ -brand-name-mozilla } 的<a href="{ $viewsource_coc }">《View Source 研讨会行为守则》</a>以及<a href="{ $rustlang_coc }">《{ -brand-name-rust } 语言行为守则》</a>（修改自斯顿普敦协会的<a href="{ $citizen_coc }">《公民行为守则》</a>）。其他文本内容来自<a href="{ $lgbtqtech_coc }">《面向性少数群体的技术行为守则》</a>和<a href="{ $wiscon_coc }">《威斯康星行为守则》</a>。本文档和所有相关流程是众多谋智人共同努力的成果。
 participation-modifications-to-these = 准则修订
 participation-mozilla-may-amend = { -brand-name-mozilla } 须随时修正本准则，并根据特定案例情况调整处理程序。您同意遵守准则即代表您同意对本准则的所有更改。此政策不构成任何 { -brand-name-mozilla } 员工的雇佣合同的一部分，亦无合同效力。
