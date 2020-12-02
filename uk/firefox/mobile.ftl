@@ -33,6 +33,6 @@ firefox-mobile-find-it-fast-with-a-smart = Знаходьте швидко за 
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } передбачає ваші потреби за допомогою розумних пропозицій пошуку та швидкого доступу до найчастіше відвідуваних сайтів.
 firefox-mobile-the-privacy-you-deserve-the = Приватність, на яку ви заслуговуєте. Швидкість, яка вам необхідна.
 firefox-mobile-get-firefox-for-mobile = Завантажте { -brand-name-firefox } для мобільних пристроїв
-firefox-mobile-send-a-download-link-to-your = Відправити посилання для завантаження свій на телефон.
+firefox-mobile-send-a-download-link-to-your = Надіслати посилання для завантаження свій на телефон.
 firefox-mobile-scan-the-qr-code-to-get-started = Зіскануйте QR-код, щоб почати завантаження
 firefox-mobile-scan-alt-text = Скануйте QR-код, щоб отримати { -brand-name-firefox } на мобільний
