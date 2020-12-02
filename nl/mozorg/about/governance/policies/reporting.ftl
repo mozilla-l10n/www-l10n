@@ -38,7 +38,7 @@ reporting-if-the-reporter-wants = Als de melder een anonieme melding wil doen, l
 reporting-relationship-of-reportervictim = Relatie melder/slachtoffer.
 reporting-mozilla-managers-and-community = { -brand-name-mozilla }-managers en gemeenschapsleiders
 reporting-if-a-mozilla-manager-or = Als een { -brand-name-mozilla }-manager of gemeenschapsleiders worden geïnformeerd over mogelijke schendingen van de <a href="{ $cpg }">CPG</a>, dan wordt van hen verwacht dat ze het incident onmiddellijk melden via de toepasselijke hotline, zelfs als de oorspronkelijke melder ook een melding indient. { -brand-name-mozilla }-managers en gemeenschapsleiders mogen niet zelfstandig klachten onderzoeken.
-reporting-do-not-impose-your-own = Leg niet uw eigen oordeel op over hoe de melder moet reageren. { -brand-name-focus } op luisteren.
+reporting-do-not-impose-your-own = Leg niet uw eigen oordeel op over hoe de melder moet reageren. Focus op luisteren.
 reporting-what-happens-after-the = Wat gebeurt er nadat de melding is ingediend
 reporting-investigation = Onderzoek
 reporting-reports-are-handled-discretely = Meldingen worden discreet en privé behandeld en worden alleen gedeeld met de mensen die kunnen onderzoeken, reageren en adviseren. Als onderdeel van dit onderzoek kan het nodig zijn dat bepaalde informatie aan anderen wordt bekendgemaakt, bijvoorbeeld aan belanghebbenden die verantwoordelijk zijn voor gemeenschappen of evenementen, getuigen en de overtreder.
