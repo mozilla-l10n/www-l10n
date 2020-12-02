@@ -39,10 +39,13 @@ is-firefox-safe-download = האם { -brand-name-firefox } בטוח להורדה?
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
 protecting-your-privacy = ההגנה על הפרטיות שלך היא בראש סדר העדיפויות שלנו, ואנחנו יכולים להבטיח שהתקנת { -brand-name-firefox } על המכשירים שלך היא בטוחה לגמרי — אך תמיד יש לוודא שמורידים מאתר מהימן של { -brand-name-mozilla }/{ -brand-name-firefox }, כמו <a href="{ $url }">דף ההורדות שלנו</a>.
+is-firefox-safe = האם { -brand-name-firefox } בטוח?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = שאלות קשורות: האם { -brand-name-firefox } טוב לפרטיות, האם { -brand-name-firefox } מאובטח, האם { -brand-name-firefox } טוב יותר לפרטיות
+does-firefox-sell = האם { -brand-name-firefox } מוכר את הנתונים האישיים שלך?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
