@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Du er ved at hente:
 firefox-all-browser = Browser:
 firefox-all-platform = Platform:
 firefox-all-language = Sprog:
+firefox-all-lang-multi = Flere sprog
 firefox-all-sorry-we-couldnt-find = Beklager, men vi kunne ikke finde den fil, du leder efter. Prøv igen eller vælg en anden fil fra listen nedenunder.
 firefox-all-the-pre-alpha-version = Præ-alfa-versionen for erfarne brugere, der gerne vil hjælpe til med at finde fejl og prøvekøre nye funktioner, mens de bliver til.
 firefox-all-64-bit-installers = 64-bit-installationsprogrammer
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Denne version af { -brand-name-firefox } er
 firefox-all-windows-installers-for = Windows-installationsprogrammer til IT-miljøer hos virksomheder gør opsætning, udrulning og håndtering af { -brand-name-firefox-browser } simplere.
 firefox-all-arm64-installers = ARM64/AArch64-Installationsprogrammer
 firefox-all-arm64-installers-optimized = ARM64/AArch64-Installationsprogrammer optimeret til Snapdragon-drevne { -brand-name-windows }-PCer.
+firefox-all-product-send-link = Send et link til at hente Firefox på din telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Vælg et 32-bit-installationsprogram til computere med 32-bit-processorer — eller til ældre, mindre kraftfulde computere. <a href="{ $url }">Hvis du ikke er sikker på</a> , om du skal vælge et 64-bit- eller et 32-bit-installationsprogram, anbefaler vi, at du vælger 32-bit.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
