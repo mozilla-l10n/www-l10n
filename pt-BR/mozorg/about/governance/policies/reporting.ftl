@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/
 
-reporting-community-participation = Diretrizes para participação na comunidade - Como denunciar
-reporting-how-to-report-violations = Como denunciar violações às diretrizes para participação na comunidade
+reporting-community-participation = Diretrizes de participação na comunidade - Como denunciar
+reporting-how-to-report-violations = Como denunciar violações às diretrizes de participação na comunidade
 reporting-this-document-provides = Este documento fornece informações de alto nível para entender e denunciar violações das Diretrizes de Participação na Comunidade da { -brand-name-mozilla }.
 reporting-from-the-community-participation = Segundo as <a href="{ $cpg }">Diretrizes de Participação na Comunidade</a>:
 reporting-the-heart-of-mozilla-is = As pessoas são o cerne da { -brand-name-mozilla }. Colocamos as pessoas em primeiro lugar e envidamos os melhores esforços para reconhecer e respeitar a diversidade dos nossos contribuidores mundiais. O Projeto { -brand-name-mozilla } recebe contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos que todos os participantes concordem e sigam estas Diretrizes para Participação na Comunidade a fim de nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
