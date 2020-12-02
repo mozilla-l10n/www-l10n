@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Chceće tole sćahnyć:
 firefox-all-browser = Wobhladowak:
 firefox-all-platform = Platforma:
 firefox-all-language = Rěč:
+firefox-all-lang-multi = Wjacore rěče
 firefox-all-sorry-we-couldnt-find = Bohužel njejsmy sćehnjenje namakali, za kotrymž pytaće. Prošu spytajće hišće raz abo wubjerće sćehnjenje ze slědowaceje lisćiny.
 firefox-all-the-pre-alpha-version = Wersija předalfa za wobhonjenych wužiwarjow, kotřiž za spadami slědźa a nowe funkcije testuja, mjeztym zo so programuja.
 firefox-all-64-bit-installers = 64-bitowe instalowaki
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Spušćće so na stabilnosć a lochke wuži
 firefox-all-windows-installers-for = Instalowaki Windows za IT předewzaćow, kotrež konfiguraciju, přewostajenje a rjadowanje { -brand-name-firefox-browser } wosnadnjeja.
 firefox-all-arm64-installers = Instalowaki ta ARM64/AArch64
 firefox-all-arm64-installers-optimized = Instalowaki ARM64/AArch64, kotrež su za ličaki { -brand-name-windows } optimowane, kotrež Snapdragon podpěruja.
+firefox-all-product-send-link = Sćelće swojemu telefonej sćehnjenski wotkaz.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wubjerće 32-bitowy instalowanski program za ličaki z 32-bitowymi procesorami - abo za starše abo mjenje wukonliwe ličaki. <a href="{ $url }">Jeli sej wěsty njejsće</a>, hač maće 64-bitowy abo 32-bitowy instalowanski program wubrać, poručamy wam 32-bitowy instalowanski program wubrać.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
