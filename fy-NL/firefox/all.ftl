@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Jo steane op it punt om te downloaden:
 firefox-all-browser = Browser:
 firefox-all-platform = Platfoarm:
 firefox-all-language = Taal:
+firefox-all-lang-multi = Meardere talen
 firefox-all-sorry-we-couldnt-find = Sorry, wy koenen de troch jo sochte download net fine. Probearje it opnij of selektearje in download út ûndersteande list.
 firefox-all-the-pre-alpha-version = De pre-alpha-ferzje foar krêftige brûkers dy't op crashes jeie en nije funksjes teste wylst de koade noch ûntwikkele wurde.
 firefox-all-64-bit-installers = 64-bits-ynstallaasjeprogramma’s
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei 
 firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy't de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 firefox-all-arm64-installers = ARM/AArch64-ynstallaasjeprogramma’s
 firefox-all-arm64-installers-optimized = ARM64/AArch64-ynstallaasjeprogramma’s optimalisearre foar Snapdragon-oandreaune { -brand-name-windows }-pc’s.
+firefox-all-product-send-link = In downloadkeppeling nei jo telefoan ferstjoere
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Kies in 32-bits-ynstallaasjeprogramma foar kompjûters mei 32-bits prosessors of foar âldere of minder krêftige kompjûters. <a href="{ $url }">As jo net wis binne</a> oft jo in 64-bits- of 32-bits-ynstallaasjeprogramma brûke wolle, riede wy jo oan om 32-bits te brûken.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
