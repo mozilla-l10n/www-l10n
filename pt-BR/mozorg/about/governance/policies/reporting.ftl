@@ -8,11 +8,11 @@
 reporting-community-participation = Diretrizes de participação na comunidade - Como denunciar
 reporting-how-to-report-violations = Como denunciar violações às diretrizes de participação na comunidade
 reporting-this-document-provides = Este documento fornece informações de alto nível para entender e denunciar violações das diretrizes de participação na comunidade da { -brand-name-mozilla }.
-reporting-from-the-community-participation = Segundo as <a href="{ $cpg }">Diretrizes de Participação na Comunidade</a>:
+reporting-from-the-community-participation = Segundo as <a href="{ $cpg }">diretrizes de participação na comunidade</a>:
 reporting-the-heart-of-mozilla-is = O coração da { -brand-name-mozilla } são as pessoas. Nós as colocamos em primeiro lugar e fazemos o melhor possível para reconhecer, valorizar e respeitar a diversidade de nossos colaboradores do mundo todo. O Projeto { -brand-name-mozilla } aceita de bom grado contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas diretrizes de participação para nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
 reporting-this-document-is-intended = Este documento pretende ser uma interface para documentos, processos e pessoas existentes responsáveis por garantir que as comunidades da { -brand-name-mozilla } sejam saudáveis e inclusivas para todos.
 reporting-when-to-report = Quando denunciar
-reporting-please-report-all-incidents = Denuncie todos os incidentes em que alguém tenha se envolvido em um comportamento potencialmente ilegal, ou faça com que você ou outra pessoa se sinta inseguro, indesejável ou desconfortável <a href="{ $cpg }">conforme explicado no CPG</a>.
+reporting-please-report-all-incidents = Denuncie todos os incidentes em que alguém tenha se envolvido em um comportamento potencialmente ilegal, ou tenha feito você ou outra pessoa se sentir inseguro, indesejável ou desconfortável <a href="{ $cpg }">conforme explicado nas diretrizes de participação na comunidade</a>.
 reporting-how-to-give-a-report = Como denunciar
 reporting-if-you-believe-someone = Se você acredita que alguém corre perigo físico, ligue para o número de emergência local.
 reporting-if-you-have-a-report-by = Se você tem uma denúncia <strong>de <em>e</em> sobre</strong> um colaborador (por exemplo, a denúncia é feita <strong>de</strong> um colaborador <strong>sobre</strong> outro colaborador), você deve fazer a denúncia na <a href="{ $community_hotline }">linha direta das diretrizes de participação na comunidade</a>.
