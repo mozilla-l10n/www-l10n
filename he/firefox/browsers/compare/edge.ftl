@@ -22,3 +22,6 @@ compare-edge-edge-is-integrated-into-the = ‏{ -brand-name-edge } משולב ב
 compare-edge-your-privacy-protections-shows = <a { $attrs }>הגנות הפרטיות</a> שלך מציגות עבורך את רכיבי המעקב והעוגיות שדפים ניסו להשאיר מאחור, וכמה מהם { -brand-name-firefox } חסך עבורך.
 compare-edge-both-browsers-are-relatively = שני הדפדפנים שווים יחסית מבחינת הצפנת נתונים. יחד עם זאת, אם פרטיות מקוונת ושקיפות חשובים לך אז כמובן ש־{ -brand-name-firefox } היא הבחירה הטובה יותר כאן.
 compare-edge-edge-has-some-nice-ui-features = ל־{ -brand-name-edge } יש מספר תכונות ממשק משתמש נחמדות, כמו האפשרות שלהם לתצוגה מקדימה של לשוניות שיכולה לעזור לך למצוא את הלשוניות הפתוחות הנכונות אם יש לך הרבה מהן. תכונה מועילה נוספת הקשורה ללשוניות מאפשרת לך לשים בצד לשוניות פעילות שלא השתמשת בהן, אבל אינך רוצה לסגור אותם.
+# Variables:
+#   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
+compare-edge-firefox-also-includes-lots = ‏{ -brand-name-firefox } גם כולל הרבה אפשרויות שימושיות כברירת מחדל כמו <a { $attrs }>הגנת מעקב מתקדמת</a>, כלי לצילום מסך מובנה, שליחת קבצים גדולים ועוד.
