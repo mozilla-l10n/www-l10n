@@ -22,6 +22,7 @@ how-do-i = Kak mógu se { -brand-name-firefox-browser } wobstaraś?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Móžośo desktopowy wobglědowak { -brand-name-firefox } <a href="{ $url }">how</a> lažko ześěgnuś. { -brand-name-firefox } na rědach <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> funkcioněrujo, a jo teke za <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios } k dispoziciji.</a> Zawěsććo, až naš wobglědowak wót jadneje z našych dowěry gódnych bokow { -brand-name-mozilla }/{ -brand-name-firefox } ześěgujośo.
 is-firefox-free = Jo { -brand-name-firefox } dermotny?
 yep-the-firefox = Jo! { -brand-name-firefox-browser } jo dermotny. Samo wěcej ako dermotny. Žedne schowane kosty abo tak. Njetrjebaśo nic płaśiś, aby jen wužywał a my waše wósobinske daty njepśedawamy.
 related-questions-free = Pódobne pšašanja: Jo { -brand-name-firefox-browser } dermotny, płaśi { -brand-name-firefox } pjenjeze
