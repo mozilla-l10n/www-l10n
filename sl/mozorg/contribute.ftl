@@ -18,6 +18,7 @@ contribute-tag-technical = Tehnično
 contribute-tag-support = Podpora
 contribute-task-translate-heading = Prevedite vsebino
 contribute-task-join-heading = Pridružite se skupnosti
+contribute-task-join-desc = Se želite dejavneje sodelovati v skupnosti { -brand-name-mozilla }? Oglejte si vse priložnosti za prostovoljstvo na našem portalu skupnosti.
 
 ## Mission
 
@@ -29,6 +30,8 @@ contribute-find-event = Poiščite dogodek
 contribute-meet-volunteers = Spoznajte naše predane prostovoljce
 contribute-donate = Donirajte
 contribute-help-fund = Pomagajte financirati naše poslanstvo
+contribute-follow-mozilla = Sledite { -brand-name-mozilla(sklon: "dajalnik") }
+contribute-opportunities = Novice in priložnosti za prostovoljce
 
 ## Made by
 
