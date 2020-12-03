@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Πρόκειται να κάνετε λ�
 firefox-all-browser = Πρόγραμμα περιήγησης:
 firefox-all-platform = Πλατφόρμα:
 firefox-all-language = Γλώσσα:
+firefox-all-lang-multi = Πολλαπλές γλώσσες
 firefox-all-sorry-we-couldnt-find = Λυπούμαστε, αλλά δεν ήταν δυνατή η εύρεση της λήψης που ψάχνετε. Δοκιμάστε ξανά ή επιλέξτε μια λήψη από την παρακάτω λίστα.
 firefox-all-the-pre-alpha-version = Η pre-alpha έκδοση για έμπειρους χρήστες που τους αρέσει ο εντοπισμός σφαλμάτων και η δοκιμή νέων λειτουργιών, πριν κυκλοφορήσουν.
 firefox-all-64-bit-installers = Προγράμματα εγκατάστασης 64-bit
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Βασιστείτε στη σταθερό�
 firefox-all-windows-installers-for = Προγράμματα εγκατάστασης για Windows για τα εταιρικά τμήματα πληροφορικής που απλοποιούν τη ρύθμιση παραμέτρων, την ανάπτυξη και τη διαχείριση του { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Προγράμματα εγκατάστασης ARM64/AArch64
 firefox-all-arm64-installers-optimized = Προγράμματα εγκατάστασης ARM64/AArch64, βελτιστοποιημένα για { -brand-name-windows } υπολογιστές με Snapdragon.
+firefox-all-product-send-link = Αποστολή συνδέσμου λήψης στο τηλέφωνό σας
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 32-bit για υπολογιστές με επεξεργαστές 32-bit — ή για πιο παλιούς/αδύναμους υπολογιστές. <a href="{ $url }">Αν δεν ξέρετε σίγουρα</a> ποιο πρόγραμμα εγκατάστασης να επιλέξετε, προτείνουμε την έκδοση 32-bit.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
