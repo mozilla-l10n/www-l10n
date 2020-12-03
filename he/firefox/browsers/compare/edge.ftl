@@ -25,3 +25,8 @@ compare-edge-edge-has-some-nice-ui-features = ל־{ -brand-name-edge } יש מס
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
 compare-edge-firefox-also-includes-lots = ‏{ -brand-name-firefox } גם כולל הרבה אפשרויות שימושיות כברירת מחדל כמו <a { $attrs }>הגנת מעקב מתקדמת</a>, כלי לצילום מסך מובנה, שליחת קבצים גדולים ועוד.
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-edge-firefox-has-been-available = ‏{ -brand-name-firefox } היה זמין ב־{ -brand-name-ios }, ‏{ -brand-name-android }, ‏{ -brand-name-windows }, ‏{ -brand-name-mac } ו־{ -brand-name-linux } כבר מזה שנים. וכמו שאפשר לצפות מכל דפדפן מודרני, { -brand-name-firefox } מאפשר לך להתחבר עם <a { $attrs }>חשבון חינמי</a> ולסנכרן נתונים כמו ססמאות, היסטוריית גלישה, סימניות ולשוניות פתוחות בין המחשב, הטאבלט והטלפון שלך. הוא גם מאפשר לך לסנכרן בין פלטפורומות שונות גם כן.
+compare-edge-edge-also-allows-you-to-connect = ‏{ -brand-name-edge } גם מאפשר לך לחבר את חשבון ה־{ -brand-name-microsoft } שלך ולהתחבר כדי לסנכרן את המועדפים, היסטוריה, ססמאות ועוד בין המחשב שלך לבין מכשירי { -brand-name-ios } או { -brand-name-android }.
+compare-edge-edge-also-allows-you-to-fallback = ‏{ -brand-name-edge } גם מאפשר לך לחבר את חשבון ה־{ -brand-name-microsoft } שלך ולהתחבר כדי לסנכרן את המועדפים, היסטוריה, ססמאות ועוד בין המחשב שלך לבין מכשירי { -brand-name-ios } או { -brand-name-android }, למרות שישנם מספר טאבלטים של { -brand-name-android } שאינם נתמכים כרגע.
