@@ -22,7 +22,7 @@ how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Móžeće desktopowy wobhladowak { -brand-name-firefox } <a href="{ $url }">tu</a> lochko sćahnyć. { -brand-name-firefox } na gratach <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> funguje, a je tež za <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios } k dispoziciji.</a> Zawěsćé, zo naš wobhladowak wot jedneje z našich dowěry hódnych stronow { -brand-name-mozilla }/{ -brand-name-firefox } sćahujeće.
+you-can-easily = Móžeće desktopowy wobhladowak { -brand-name-firefox } <a href="{ $url }">tu</a> lochko sćahnyć. { -brand-name-firefox } na gratach <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> funguje, a je tež za <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios } k dispoziciji.</a> Zawěsćće, zo naš wobhladowak wot jedneje z našich dowěry hódnych stronow { -brand-name-mozilla }/{ -brand-name-firefox } sćahujeće.
 is-firefox-free = Je { -brand-name-firefox } darmotny?
 yep-the-firefox = Haj! { -brand-name-firefox-browser } je darmotny. Samo wjace hač darmotny. Žane schowane košty abo tak. Njetrjebaće ničo płaćić, zo byšće jón wužiwał a my waše wosobinske daty njepředawamy.
 related-questions-free = Podobne prašenja: Je { -brand-name-firefox-browser } darmotny, płaći { -brand-name-firefox } pjenjezy
