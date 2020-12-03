@@ -17,3 +17,6 @@ compare-edge-with-windows-10-microsoft-introduced = ב־{ -brand-name-windows } 
 compare-edge-here-well-compare-our-firefox = כאן נשווה בין { -brand-name-firefox-browser(case: "the") } שלנו לבין { -brand-name-microsoft } { -brand-name-edge } מבוסס ה־{ -brand-name-chromium } מבחינת פרטיות, שימושיות וניידות, כדי לסייע לך להבין טוב יותר איזה דפדפן מתאים יותר לצרכים ולהעדפות שלך.
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = ‏{ -brand-name-edge } משולב בפלטפורמה של { -brand-name-windows } 10 ופועל בסביבת ארגז חול, מה שאומר שהוא מבודד יישומים ומונע מיישומים זדוניים את האפשרות לרגל אחרי המחשב שלך. יש לו SmartScreen מובנה שסורק את המוניטין של האתרים בהם מבקרים וחוסם אתרים חשודים. כדי לשפר את הפרטיות, { -brand-name-edge } מאפשר לך להשתמש באמצעים ביומטריים או בקוד PIN עם { -brand-name-windows } Hello במקום ססמאות לצורך אימות מקוון.
+# Variables:
+#   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-edge-your-privacy-protections-shows = <a { $attrs }>הגנות הפרטיות</a> שלך מציגות עבורך את רכיבי המעקב והעוגיות שדפים ניסו להשאיר מאחור, וכמה מהם { -brand-name-firefox } חסך עבורך.
