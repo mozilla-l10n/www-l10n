@@ -7,6 +7,7 @@
 
 # HTML page title
 whatsnew79-page-title = Што новага ў { -brand-name-firefox }
+whatsnew79-main-intro = Інтэрнэт павінен быць бяспечным месцам для ўсіх. Вось чаму { -brand-name-firefox } не ідзе за вамі па сеціве, а таксама не дае іншым сачыць за вамі.
 # Main CTA button
 whatsnew79-primary-cta = Зрабіце { -brand-name-firefox } прадвызначаным
 # Fallback CTA button, shown if Firefox is already a user's default browser
