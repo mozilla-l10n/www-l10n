@@ -20,3 +20,4 @@ compare-edge-edge-is-integrated-into-the = ‏{ -brand-name-edge } משולב ב
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = <a { $attrs }>הגנות הפרטיות</a> שלך מציגות עבורך את רכיבי המעקב והעוגיות שדפים ניסו להשאיר מאחור, וכמה מהם { -brand-name-firefox } חסך עבורך.
+compare-edge-both-browsers-are-relatively = שני הדפדפנים שווים יחסית מבחינת הצפנת נתונים. יחד עם זאת, אם פרטיות מקוונת ושקיפות חשובים לך אז כמובן ש־{ -brand-name-firefox } היא הבחירה הטובה יותר כאן.
