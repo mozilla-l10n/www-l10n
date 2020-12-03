@@ -16,6 +16,7 @@ reporting-please-report-all-incidents = Bitte melde alle Vorfälle, bei denen je
 reporting-how-to-give-a-report = Wie Meldung erstattet wird
 reporting-if-you-believe-someone = Falls du glaubst, dass jemand in physischer Gefahr ist, ruf deine lokale Notrufnummer an.
 reporting-if-you-have-a-report-by = Falls eine Meldung <strong>von <em>und</em> über</strong> einen Mitwirkenden erstattet wird, (z. B. <strong>von</strong> einem Mitwirkenden <strong>über</strong> einen anderen), solltest du über die <a href="{ $community_hotline }">Hotline zu den Richtlinien für das Mitwirken in der Community</a> Meldung erstatten.
+reporting-if-you-have-a-report-by-email = Falls eine Meldung <strong>von <em>und</em> über</strong> einen Mitwirkenden erstattet wird, (z. B. <strong>von</strong> einem Mitwirkenden <strong>über</strong> einen anderen), solltest du per E-Mail an <a href="{ $mailto_report }">cpg-report@mozilla.com</a> Meldung erstatten.
 reporting-if-you-have-a-report-involving = Falls eine Meldung erstattet wird, <strong>die einen Mitarbeiter, Auftragnehmer oder Anbieter betrifft</strong> (z. B. Meldung <strong>durch</strong> oder <strong>über</strong> einen Mitarbeiter) solltest du den Vorfall über die <a href="{ $employee_hotline }">{ -brand-name-mozilla }-Mitarbeiter-Hotline</a> melden.
 reporting-put-another-way = Anders ausgedrückt …
 reporting-by = Von
@@ -23,7 +24,6 @@ reporting-employee = Mitarbeiter
 reporting-contributor = Mitwirkende
 reporting-about = Über
 reporting-employee-hotline = Mitarbeiter-Hotline
-reporting-community-hotline = Community-Hotline
 reporting-contractor = Auftragnehmer
 reporting-vendor = Anbieter
 reporting-if-someone-reports-to = Wenn jemand Folgendes meldet ...
@@ -31,6 +31,7 @@ reporting-do-not-question-or-judge = Stelle die Erfahrung der meldenden Person n
 reporting-do-not-invite-them-to = Fordere sie nicht auf, den Vorfallbericht zurückzuziehen.
 reporting-do-not-promise-any-particular = Versprich keinerlei bestimmte Reaktion.
 reporting-do-let-them-know-that = <strong>Lass</strong> die meldende Person wissen, dass Meldungen über die Hotline erfolgen müssen, damit die Richtlinien von { -brand-name-mozilla } wirkungsvoll sind. Falls die Person den Vorfall nicht selbst melden möchte, kannst du das tun.
+reporting-do-let-them-know-that-email = <strong>Lass</strong> die meldende Person wissen, dass Meldungen über die Hotline/per E-Mail erfolgen müssen, damit die Richtlinien von { -brand-name-mozilla } wirkungsvoll sind. Falls die Person den Vorfall nicht selbst melden möchte, kannst du das tun.
 reporting-no-matter-who-files-the = Egal, wer den Vorfall meldet: Die nachstehenden Informationen müssen erfasst werden.
 reporting-names-of-the-people-involved = Namen der beteiligten Personen (sind die Namen unbekannt, Beschreibungen und alle identifizierbaren Informationen wie Aussehen, Rolle, Handle, Projekt/Community-Zugehörigkeit verwenden).
 reporting-description-of-incident = Beschreibung des Vorfalls einschließlich wichtiger Daten (oder Ereignisse) und Orte.
@@ -38,6 +39,7 @@ reporting-if-the-reporter-wants = Möchte die jeweilige Person anonym Meldung er
 reporting-relationship-of-reportervictim = Beziehung Meldende Person/Opfer.
 reporting-mozilla-managers-and-community = { -brand-name-mozilla } Manager und Community Leader
 reporting-if-a-mozilla-manager-or = Werden { -brand-name-mozilla } Manager Community Leader über potentielle Verletzungen der <a href="{ $cpg }">Richtlinien für das Mitwirken in der Community</a> informiert, so wird von ihnen erwartet, dass sie den Vorfall über die jeweils geltende Hotline melden, selbst wenn die ursprünglich meldende Person ebenfalls Meldung erstattet. { -brand-name-mozilla } Managern und Community Leadern ist nicht gestattet, Beschwerden eigenständig zu untersuchen.
+reporting-if-a-mozilla-manager-or-email = Werden { -brand-name-mozilla } Manager Community Leader über potentielle Verletzungen der <a href="{ $cpg }">Richtlinien für das Mitwirken in der Community</a> informiert, so wird von ihnen erwartet, dass sie den Vorfall über die jeweils geltende Hotline/E-Mail-Adresse melden, selbst wenn die ursprünglich meldende Person ebenfalls Meldung erstattet. { -brand-name-mozilla } Managern und Community Leadern ist nicht gestattet, Beschwerden eigenständig zu untersuchen.
 reporting-do-not-impose-your-own = Urteile nicht selbst, wie die meldende Person reagieren sollte. Konzentriere dich aufs Zuhören.
 reporting-what-happens-after-the = Was geschieht, nachdem Meldung erstattet wurde
 reporting-investigation = Ermittlung
