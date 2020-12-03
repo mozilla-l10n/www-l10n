@@ -8,6 +8,8 @@
 
 ## Page heading
 
+contribute-page-title = Priložnosti za prostovoljstvo pri { -brand-name-mozilla(sklon: "mestnik") }
+contribute-page-heading = Potrebujemo vaše talente za boljši internet
 contribute-how-heading = Kako lahko prispevate …
 
 ## Contribution tasks
@@ -21,9 +23,11 @@ contribute-task-join-heading = Pridružite se skupnosti
 
 contribute-mission-heading = Naše poslanstvo
 contribute-mission-desc = Naše poslanstvo je zagotavljanje, da je internet globalni javni vir, odprt in dostopen vsem. Da posameznika resnično postavlja na prvo mesto, mu omogoča oblikovanje lastne izkušnje, ter mu daje moč, varnost in neodvisnost.
+contribute-learn = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
 contribute-read-manifesto = Preberite naš manifest
 contribute-find-event = Poiščite dogodek
 contribute-meet-volunteers = Spoznajte naše predane prostovoljce
+contribute-donate = Donirajte
 contribute-help-fund = Pomagajte financirati naše poslanstvo
 
 ## Made by

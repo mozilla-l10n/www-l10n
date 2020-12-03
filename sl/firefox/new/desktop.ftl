@@ -32,6 +32,7 @@ firefox-desktop-download-primary-password = Glavno geslo
 # Obsolete string
 firefox-desktop-download-master-password = Glavno geslo
 firefox-desktop-download-we-block-the-ad = Mi zavračamo oglaševalske sledilce. Vi hitreje brskate po sletu.
+firefox-desktop-download-ads-are-distracting = Oglasi so moteči in upočasnjujejo nalaganje spletnih strani, njihovi sledilci pa spremljajo vaš vsak korak na spletu. { -brand-name-firefox-browser } večino sledilcev samodejno zavrača, zato ni potrebe po poglabljanju v varnostne nastavitve.
 firefox-desktop-download-see-your-report = Oglejte si svoje poročilo o zaščiti
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je za vsakogar
 firefox-desktop-download-review-system-req = Preverite sistemske zahteve
