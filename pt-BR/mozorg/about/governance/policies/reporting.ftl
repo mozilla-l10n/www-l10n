@@ -49,5 +49,5 @@ reporting-when-an-investigation = Quando uma investigação é concluída, até 
 reporting-no-retaliation = Sem retaliação
 reporting-mozilla-does-not-tolerate = A { -brand-name-mozilla } não tolera retaliação contra colaboradores que fizerem denúncias de boa fé nos termos das diretrizes de participação na comunidade. Atos de retaliação devem ser denunciados seguindo o mesmo processo, conforme descrito acima.
 reporting-license = Licença
-reporting-this-document-includes = Este documento inclui conteúdo obtido do <a href="{ $pycon }">Código de conduta da PyCon, Revisão 2f4d980</a>, licenciado sob a Licença { -brand-name-creative-commons } Atribuição 3.0 Unported.
-reporting-this-document-is-licensed = Este documento é licenciado sob uma <a href="{ $license }">Licença de Atribuição 3.0 Não Adaptada do { -brand-name-creative-commons }</a>.
+reporting-this-document-includes = Este documento inclui conteúdo oriundo do <a href="{ $pycon }">Código de conduta da PyCon, Revisão 2f4d980</a>, que é licenciado sob uma Licença de Atribuição 3.0 Não Adaptada da { -brand-name-creative-commons }.
+reporting-this-document-is-licensed = Este documento é licenciado sob uma <a href="{ $license }">Licença de Atribuição 3.0 Não Adaptada da { -brand-name-creative-commons }</a>.

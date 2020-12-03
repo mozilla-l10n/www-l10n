@@ -8,7 +8,7 @@
 participation-community-participation = Diretrizes de participação na comunidade
 participation-mozilla-community = Diretrizes de participação na comunidade { -brand-name-mozilla }
 participation-version-31-updated = Versão 3.1 – Atualizada em 16 de janeiro de 2020
-participation-the-heart-of-mozilla = As pessoas são a essência da { -brand-name-mozilla }. Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade dos nossos colaboradores globais. O Projeto { -brand-name-mozilla } recebe contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas Diretrizes de Participação na Comunidade a fim de nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
+participation-the-heart-of-mozilla = O coração da { -brand-name-mozilla } são as pessoas. Nós as colocamos em primeiro lugar e fazemos o melhor possível para reconhecer, valorizar e respeitar a diversidade de nossos colaboradores do mundo todo. O Projeto { -brand-name-mozilla } aceita de bom grado contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas diretrizes de participação para nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
 participation-these-guidelines-aim = Estas diretrizes visam apoiar uma comunidade onde todos se sintam seguros de participar, apresentar novas ideias e inspirar outras pessoas, independentemente de:
 participation-background = experiências anteriores
 participation-family-status = situação familiar
@@ -21,7 +21,7 @@ participation-native-language = língua materna
 participation-age = idade
 participation-ability = capacidade
 participation-race-andor-ethnicity = raça e/ou etnia
-participation-caste = Classe social
+participation-caste = classe social
 participation-national-origin = nacionalidade
 participation-socioeconomic-status = status socioeconômico
 participation-religion = religião
