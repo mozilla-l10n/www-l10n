@@ -33,6 +33,7 @@ navigation-v2-see-if-your-email-has = Glědajśo, lěc se waša e-mailowa adresa
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Składujśo a namakajśo nejlěpše tšojeńka z cełego weba.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Zawoborajśo { -brand-name-facebook } waše daty zwenka jogo sedła gromaźiś.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Produktowe zlubjenje
 navigation-v2-learn-how-each-firefox-product = Zgóńśo, kak kuždy produkt { -brand-name-firefox } waše daty šćita a respektěrujo.
