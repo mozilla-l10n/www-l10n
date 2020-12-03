@@ -13,6 +13,7 @@ whatsnew79-primary-cta = Зрабіце { -brand-name-firefox } прадвызн
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Атрымаць { -brand-name-firefox }
 whatsnew79-secure-your-connection = Абараніце сваё злучэнне
+whatsnew79-with-one-tap-mozilla-vpn = Адным націскам { -brand-name-mozilla-vpn } шыфруе ваша злучэнне, каб ваша дзейнасць у Інтэрнэце была прыватнай у любой сетцы — у бяспецы ад хакераў і іншых старонніх вачэй.
 # CTA link
 whatsnew79-get-started = Пачаць
 whatsnew79-get-more-control-over = Атрымайце больш кантролю над трэкерамі
