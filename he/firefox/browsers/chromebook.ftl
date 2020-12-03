@@ -13,6 +13,8 @@ browsers-chromebook-browsers-chromebook-get-firefox-for = קבלת { -brand-name
 browsers-chromebook-get-firefox-desktop = קבלת { -brand-name-firefox } למחשבים שולחניים עבור { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = ‏*{ -brand-name-chromebook } מבוסס x86 המריץ { -brand-name-chromeos } 80 ומעלה
 browsers-chromebook-dropdown-copy = קבלת { -brand-name-firefox } עבור { -brand-name-chromebook }
+# The span here is to display an underline underneath "Firefox"
+browsers-chromebook-why-get-firefox = למה כדאי להשתמש ב־<span>{ -brand-name-firefox }</span> ב־{ -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = בעוד שב־{ -brand-name-chromebook } כבר מותקן { -brand-name-chrome }, הורדה ושימוש ב־{ -brand-name-firefox } כדפדפן העיקרי שלך מספקים לך מספר יתרונות:
 browsers-chromebook-alwayson-tracking-protection = הגנה מפני מעקב מופעלת תמיד: כברירת מחדל, { -brand-name-firefox } מריץ הגנת מעקב מתקדמת (ETP) כדי להגן על הנתונים האישיים שלך מפני רכיבי מעקב מוכרים של פרסומות, רכיבי מעקב של רשתות חברתיות ותסריטי כריית מטבעות העוקבים אחריך ברשת.
 browsers-chromebook-is-it-hard = האם קשה להתקין את { -brand-name-firefox } על { -brand-name-chromebook }?
