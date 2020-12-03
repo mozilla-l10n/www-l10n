@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Вы збіраецеся сцягнуц
 firefox-all-browser = Браўзер:
 firefox-all-platform = Платформа:
 firefox-all-language = Мова:
+firefox-all-lang-multi = Некалькі моў
 firefox-all-sorry-we-couldnt-find = На жаль, не ўдалося знайсці версію, якую вы шукаеце. Калі ласка, паспрабуйце ізноў, або выберыце са спісу ніжэй.
 firefox-all-the-pre-alpha-version = Папярэдняя альфа-версія для дасведчаных карыстальнікаў, якія любяць паляваць на збоі і тэставаць новыя функцыі, што распрацоўваюцца.
 firefox-all-64-bit-installers = 64-бітныя інсталятары
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Разлічвайце на стабіль�
 firefox-all-windows-installers-for = Windows-усталявальнікі для карпаратыўных ІТ, якія спрашчаюць наладку, разгортванне і кіраванне { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Усталявальнікі ARM64/AArch64
 firefox-all-arm64-installers-optimized = Усталявальнікі ARM64/AArch64 аптымізаваныя для камп'ютараў на базе Snapdragon з { -brand-name-windows }.
+firefox-all-product-send-link = Адпраўце спасылку для сцягвання на свой тэлефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Выберыце 32-разрадную праграму ўстаноўкі для камп'ютараў з 32-разраднымі працэсарамі, або для старых і менш магутных камп'ютараў. <a href="{ $url }">Калі вы не ўпэўнены</a>, выбраць 64-бітны ці 32-разрадны ўсталявальнік, рэкамендуем 32-разрадны.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
