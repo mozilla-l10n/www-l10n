@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Cośo to ześěgnuś:
 firefox-all-browser = Wobglědowak:
 firefox-all-platform = Platforma:
 firefox-all-language = Rěc:
+firefox-all-lang-multi = Někotare rěcy
 firefox-all-sorry-we-couldnt-find = Bóžko njejsmy namakali ześěgnjenje, za kótarymž pytaśo. Pšosym wopytajśo hyšći raz abo wubjeŕśo ześěgnjenje ze slědujuceje lisćiny.
 firefox-all-the-pre-alpha-version = Wersija pśedalfa za nazgónjonych wužywarjow, kótarež za wowalenjami slěźe a nowe funkcije testuju, mjaztym až se programěruju.
 firefox-all-64-bit-installers = 64-bitowe instalěrowaki
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Spušććo se na stabilnosć a lažke wužy
 firefox-all-windows-installers-for = Instalěrowaki Windows za IT pśedewześow, kótarež konfiguraciju, pśewóstajenje a zastojanje { -brand-name-firefox-browser } wólažcuju.
 firefox-all-arm64-installers = Instalěrowaki ta ARM64/AArch64
 firefox-all-arm64-installers-optimized = Instalěrowaki ARM64/AArch64, kótarež su za licadła { -brand-name-windows } optiměrowane, kótarež Snapdragon pódpěraju.
+firefox-all-product-send-link = Sćelśo swójomu telefonoju ześěgnjeński wótkaz
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wubjeŕśo 32-bitowy instalěrowański program za licadła z 32-bitowymi procesorami - abo za starše abo mjenjej wugbałe licadła. <a href="{ $url }">Jolic se wěsty njejsćo</a>, lěc maśo 64-bitowy abo 32-bitowy instalěrowański program wubraś, pórucujomy wam 32-bitowy instalěrowański program wubraś.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
