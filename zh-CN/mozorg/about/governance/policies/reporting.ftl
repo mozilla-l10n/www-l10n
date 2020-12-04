@@ -16,6 +16,7 @@ reporting-please-report-all-incidents = 若知道有人可能参与不法行为�
 reporting-how-to-give-a-report = 如何举报
 reporting-if-you-believe-someone = 如果您认为有人身危险，请拨打您当地的紧急电话。
 reporting-if-you-have-a-report-by = 如果您的举报是<strong>來自<em>并</em>关于</strong>一名贡献者（例如<strong>由</strong>一名贡献者<strong>对</strong>另一名贡献者提出举报），那么您应该拨打<a href="{ $community_hotline }">社区参与准则热线</a>提出举报。
+reporting-if-you-have-a-report-by-email = 如果您的举报是<strong>來自<em>并</em>关于</strong>一名贡献者（例如<strong>由</strong>一名贡献者<strong>对</strong>另一名贡献者提出举报），那么您应该发送邮件至 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 提出举报。
 reporting-if-you-have-a-report-involving = 如果您的举报<strong>涉及正式员工、合同工或派遣工</strong>（例如，举报是<strong>由</strong>员工提出或<strong>关于</strong>一位员工），那么您应该拨打 <a href="{ $employee_hotline }">{ -brand-name-mozilla } 员工热线</a>提出举报。
 reporting-put-another-way = 换言之…
 reporting-by = 举报者
@@ -38,6 +39,7 @@ reporting-if-the-reporter-wants = 如果举报者想匿名举报，请告诉他�
 reporting-relationship-of-reportervictim = 举报者与受害者的关系。
 reporting-mozilla-managers-and-community = { -brand-name-mozilla } 经理和社区负责人
 reporting-if-a-mozilla-manager-or = 如果 { -brand-name-mozilla } 经理或社区负责人被告知可能有违反<a href="{ $cpg }">社区参与准则</a>的发生，他们应立即通过相关热线举报，即使原举报者也会进行举报。{ -brand-name-mozilla } 经理和社区负责人不得擅自调查投诉。
+reporting-if-a-mozilla-manager-or-email = 如果 { -brand-name-mozilla } 经理或社区负责人被告知可能有违反<a href="{ $cpg }">社区参与准则</a>的发生，他们应立即通过邮件/热线举报，即使原举报者也会进行举报。{ -brand-name-mozilla } 经理和社区负责人不得擅自调查投诉。
 reporting-do-not-impose-your-own = 不要对举报者的反映擅自作出判断。专注于聆听。
 reporting-what-happens-after-the = 提出举报后会发生什么？
 reporting-investigation = 调查
