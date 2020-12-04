@@ -36,7 +36,7 @@ best-browser-trackers-are-all-those = Přesćěhowaki su wšě te wobuzne „pla
 best-browser-another-way-to-stop = Druha móžnosć, zo by slědowanju přez přesćěhowaki zadźěwało, je wužiwanje priwatneho modusa. Kóždy wobhladowak, kotryž twjerdźi, priwatny być, měł přehladowanje w priwatnym modusu poskićić.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-one-easy-way-to-check = Lochka móžnosć, zo byšće to přepruwował, je, stronu wobsahowych nastejenjow a prawidła priwatnosće wopytać. Webstrona priwatnosće měła wuwjesć, hač so waše daty dźěla a čehodla. Tohodla móžeće <a href="{ $privacy }">prawidła priwatnosće</a> lochko čitać a lochko namakać.
+best-browser-one-easy-way-to-check = Lochka móžnosć, zo byšće to přepruwował, je, stronu wobsahowych nastejenjow a prawidła priwatnosće wopytać. Webstrona priwatnosće měła wuwjesć, hač so waše daty dźěla a čehodla. Tohodla móžeće <a href="{ $privacy }">prawidła priwatnosće { -brand-name-firefox }</a> lochko čitać a lochko namakać.
 best-browser-choosing-the-best-browser = Wuběranje najlěpšeho wobhladowaka za was je kaž wuběranje swójskeho domu. Chceće swoje móžnosće wuslědźić, někotre rešerše přewjesć a na zakładźe toho rozsudźić, što je wažne za was.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
