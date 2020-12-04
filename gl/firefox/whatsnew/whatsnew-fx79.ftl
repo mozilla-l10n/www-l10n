@@ -6,14 +6,14 @@
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
 # HTML page title
-whatsnew79-page-title = Novidades sobre { -brand-name-firefox }
+whatsnew79-page-title = Novidades do { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = Protexa os seus datos privados fronte a terceiros, incluídos nós
-whatsnew79-main-intro = A Internet debería ser un lugar seguro para todos. Por iso é que { -brand-name-firefox } non o segue cando estea en liña, e impide que outros tamén o fagan.
+whatsnew79-main-title = Protexa os teus datos privados fronte a terceiros, incluído de nós
+whatsnew79-main-intro = A Internet debería ser un lugar seguro para todos. Por iso é que o { -brand-name-firefox } non te segue cando estás en liña, e impide que outros tamén o fagan.
 # Main CTA button
-whatsnew79-primary-cta = Configurar { -brand-name-firefox } como predeterminado
+whatsnew79-primary-cta = Configura o { -brand-name-firefox } como predeterminado
 # Fallback CTA button, shown if Firefox is already a user's default browser
-whatsnew79-fallback-cta = Obter a aplicación de { -brand-name-firefox }
+whatsnew79-fallback-cta = Obtén a aplicación do { -brand-name-firefox }
 whatsnew79-secure-your-connection = Protexa a súa conexión
 whatsnew79-with-one-tap-mozilla-vpn = Prema unha vez e { -brand-name-mozilla-vpn } cifrará a súa conexión para manter a súa actividade en liña privada en calquera rede, a salvo de piratas informáticos e de ollos indiscretos.
 # CTA link
