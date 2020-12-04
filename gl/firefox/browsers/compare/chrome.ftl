@@ -10,7 +10,7 @@ compare-chrome-firefox-vs-chrome-which-is = O { -brand-name-firefox } fronte ao 
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = Comparamos o { -brand-name-firefox } de { -brand-name-mozilla } co { -brand-name-chrome } de { -brand-name-google } en termos de privacidade, utilidade e portabilidade.
 # Main title.
-compare-chrome-comparing-firefox-browser = Comparación do navegador Firefox co { -brand-name-chrome } de { -brand-name-google }
+compare-chrome-comparing-firefox-browser = Comparación do { -brand-name-firefox-browser } co { -brand-name-chrome } de { -brand-name-google }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = En { -brand-name-firefox }, temos un gran número de usuarios comprometidos que agradecen a nosa firme dedicación coa privacidade en liña. A última versión do { -brand-name-firefox }, por exemplo, inclúe unha característica chamada «Protección mellorada contra o rastrexo» que está activada de xeito predeterminado para todos os usuarios do mundo. Esta característica bloquea máis de 2000 rastrexadores, incluídos rastrexadores de redes sociais como { -brand-name-facebook }, { -brand-name-twitter } e LinkedIn. Tamén ten unha característica integrada chamada <a { $attrs }>{ -brand-name-firefox-monitor }</a> que te avisa automaticamente se se violou o teu contrasinal ou se se debe actualizar. Ademais destas proteccións, o modo de navegación privada do { -brand-name-firefox } elimina automaticamente a información de navegación, como o historial e os testemuños, sen deixar pegadas ao rematar a sesión.

@@ -15,8 +15,8 @@ what-is-firefox = Que é o { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
-the-firefox-browser = O navegador Firefox é o único dos principais navegadores desenvolvido por unha organización sen fins lucrativos que non vende os teus datos persoais aos anunciantes e que che axuda a protexer a túa información persoal. Descubre máis sobre os <a href="{ $url }">navegadores Firefox</a> e <a href="{ $url2 }">outros produtos</a>.
-how-do-i = Como podo obter o navegador Firefox?
+the-firefox-browser = O { -brand-name-firefox-browser } é o único dos principais navegadores desenvolvido por unha organización sen fins lucrativos que non vende os teus datos persoais aos anunciantes e que che axuda a protexer a túa información persoal. Descubre máis sobre os <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">outros produtos</a>.
+how-do-i = Como podo obter o { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -27,8 +27,8 @@ how-do-i = Como podo obter o navegador Firefox?
 
 you-can-easily = Velaquí <a href="{ $url }"> podes descargar o navegador { -brand-name-firefox } para escritorio facilmente.</a> O { -brand-name-firefox } funciona en dispositivos <a href="{ $url2 }">{ -brand-name-windows }, </a><a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux } e tamén está dispoñíbel para <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Asegúrate de estares a descargar o noso navegador nunha das nosas páxinas de confianza de { -brand-name-mozilla } ou { -brand-name-firefox }.
 is-firefox-free = É o { -brand-name-firefox } gratuíto?
-yep-the-firefox = Pois é! O navegador Firefox é gratuíto. Super gratuíto, de feito. Nin custos agochados nin nada. Non tes que pagar por o usar e non vendemos os teus datos persoais.
-related-questions-free = Preguntas relacionadas: o navegador Firefox é gratuito, o { -brand-name-firefox } custa diñeiro
+yep-the-firefox = Pois é! O { -brand-name-firefox-browser } é gratuíto. Super gratuíto, de feito. Nin custos agochados nin nada. Non tes que pagar por o usar e non vendemos os teus datos persoais.
+related-questions-free = Preguntas relacionadas: o { -brand-name-firefox-browser } é gratuito, o { -brand-name-firefox } custa diñeiro
 is-chrome-better = É mellor o { -brand-name-chrome } que o { -brand-name-firefox }?
 no-we-dont = Non, non pensamos que o { -brand-name-chrome } sexa mellor que o { -brand-name-firefox } xa que cando a xente pregunta cal é o mellor navegador, están a pensar en cal é máis rápido e máis seguro. O { -brand-name-firefox } actualízase mensualmente para garantir que teñas o navegador mais rápido e que respecte automaticamente a túa privacidade.
 
@@ -48,7 +48,7 @@ is-firefox-safe = É o { -brand-name-firefox } seguro?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
-not-only-is = Non só é seguro usar o { -brand-name-firefox }, senón que tamén axuda a manter protexidos os teus datos e informacións privativas. O navegador Firefox bloquea automaticamente rastrexadores de terceiros, rastrexadores de redes sociais, criptomineiros e identificadores de impresións dixitais e evita que recollan os teus datos. <a href="{ $url }">Descubre máis sobre a privacidade dos nosos produtos.</a>
+not-only-is = Non só é seguro usar o { -brand-name-firefox }, senón que tamén axuda a manter protexidos os teus datos e informacións privativas. O { -brand-name-firefox-browser } bloquea automaticamente rastrexadores de terceiros, rastrexadores de redes sociais, criptomineiros e identificadores de impresións dixitais e evita que recollan os teus datos. <a href="{ $url }">Descubre máis sobre a privacidade dos nosos produtos</a>.
 related-questions-safe = Preguntas relacionadas: o { -brand-name-firefox } é bo para a privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é mellor para a privacidade
 does-firefox-sell = O { -brand-name-firefox } vende os teus datos persoais?
 
@@ -72,7 +72,7 @@ does-firefox-have = Ten o { -brand-name-firefox } unha Rede Privada Virtual (VPN
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
-firefox-does-not = O { -brand-name-firefox } non ten unha VPN integrada, mais hai dous produtos creados por { -brand-name-mozilla }/{ -brand-name-firefox } que podes usar alén do navegador Firefox en modo incógnito e que poden protexer tanto o navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) como a conexión do dispositivo por WiFi (<a href="{ $url }">{ -brand-name-mozilla-vpn }, así como o enderezo IP do teu dispositivo.
+firefox-does-not = O { -brand-name-firefox } non ten unha VPN integrada, mais hai dous produtos creados por { -brand-name-mozilla }/{ -brand-name-firefox } que podes usar alén do { -brand-name-firefox-browser } en modo incógnito e que poden protexer tanto o navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) como a conexión do dispositivo por WiFi (<a href="{ $url }">{ -brand-name-mozilla-vpn }, así como o enderezo IP do teu dispositivo.
 related-questions-ip = Preguntas relacionadas: oculta o { -brand-name-firefox } o teu enderezo IP
 who-owns-firefox = Quen é o propietario do { -brand-name-firefox }?
 
@@ -81,4 +81,4 @@ who-owns-firefox = Quen é o propietario do { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = O { -brand-name-firefox } é desenvolvido pola { -brand-name-mozilla-corporation }, unha filial que pertence integramente á <a href="{ $url }">{ -brand-name-mozilla-foundation }, unha fundación sen fins lucrativos que se guía polos preceptos do Manifesto { -brand-name-mozilla }. <a href="{ $url2 }">Velaquí podes descubrir máis sobre o creador do { -brand-name-firefox }.</a>
-related-questions-who = Preguntas relacionada: quen é o propietario do { -brand-name-firefox }, quen é o propietarios do navegador Firefox, é o { -brand-name-firefox } propiedade de { -brand-name-google }, é { -brand-name-mozilla } { -brand-name-firefox } propiedade de { -brand-name-google }
+related-questions-who = Preguntas relacionada: quen é o propietario do { -brand-name-firefox }, quen é o propietarios do { -brand-name-firefox-browser }, é o { -brand-name-firefox } propiedade de { -brand-name-google }, é { -brand-name-mozilla }{ -brand-name-firefox } propiedade de { -brand-name-google }

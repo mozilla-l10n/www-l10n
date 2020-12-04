@@ -8,8 +8,8 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Instala o navegador Firefox para { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = Xa que tes un { -brand-name-chromebook }, é o momento de instalar o Firefox, un navegador independente e automaticamente privativo que protexe os teus datos persoais.
+browsers-chromebook-get-firefox-browser = Instala o { -brand-name-firefox-browser } para { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Xa que tes un { -brand-name-chromebook }, é o momento de instalar o { -brand-name-firefox-browser }, unha ferramenta independente e automaticamente privativa que protexe os teus datos persoais.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Instala o { -brand-name-firefox } para { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Instala a versión de escritorio do { -brand-name-firefox } para { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } baseado en x86 co { -brand-name-chromeos } 80 en diante
