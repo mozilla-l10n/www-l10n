@@ -12,8 +12,8 @@ page7-if-you-still-kinda-like-facebook = Se, aínda que che gusta o { -brand-nam
 page7-get-facebook-container = Obtén o { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Raposea en Instagram
-page7-facebook-container-also-works = { -brand-name-facebook-container } tamén funciona noutros sitios de { -brand-name-facebook } como { -brand-name-instagram }, { -brand-name-facebook-messenger } e { -brand-name-workplace }.
-page7-make-them-unfollow-you = Faga que non o sigan
+page7-facebook-container-also-works = O { -brand-name-facebook-container } tamén funciona noutros sitios de { -brand-name-facebook } como { -brand-name-instagram }, { -brand-name-facebook-messenger } e { -brand-name-workplace }.
+page7-make-them-unfollow-you = Fai que non te sigan
 page7-that-sneaky-little-button = Ese botón tan pillabán
 page7-those-innocent-looking-f-buttons = Eses botóns "F" de aspecto inocente de { -brand-name-facebook } rastrexan a súa actividade na Rede, aínda que non teña unha conta. { -brand-name-facebook-container } bloquéaos.
 page7-stay-ahead-of-hackers = Mantéñase á fronte contra os piratas informáticos
