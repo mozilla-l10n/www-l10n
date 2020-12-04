@@ -93,7 +93,7 @@ navigation-same-speed-and-safety = Така ж швидкість і безпе�
 navigation-add-ons = Додатки
 navigation-projects = Проєкти
 navigation-close-projects-menu = Закрити меню Проєкти
-navigation-donate-your-voice-to = Подаруйте свій голос, щоби зробити розпізнавання голосу доступним для всіх.
+navigation-donate-your-voice-to = Подаруйте свій голос, щоб зробити розпізнавання голосу доступним для всіх.
 navigation-machine-learning = Машинне навчання
 # Outdated string
 navigation-web-of-things-iot = Інтернет речей (IoT)

@@ -14,13 +14,13 @@ download-button-systems-languages = Системи та мови
 download-button-recommended = Рекомендовані
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } більше не підтримує оновлення безпеки для { -brand-name-firefox } на { -brand-name-windows } { -brand-name-xp } та { -brand-name-vista }</a>, але ви все ще можете завантажити останню версію для { -brand-name-windows } 32-bit внизу.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } більше не підтримує оновлення безпеки для { -brand-name-firefox } на { -brand-name-windows } { -brand-name-xp } та { -brand-name-vista }</a>, але ви досі можете завантажити останню версію для 32-розрядної { -brand-name-windows } внизу.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Дотримуйтесь <a href="{ $url }">цих вказівок</a> для встановлення { -brand-name-firefox }.
+download-button-please-follow-these = Дотримуйтесь <a href="{ $url }">цих настанов</a> для встановлення { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = Ваша система не відповідає <a href="{ $url }">вимогам</a> для роботи { -brand-name-firefox }.
+download-button-your-system-does-not = Ваша система не задовольняє <a href="{ $url }">вимог</a> для роботи { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } для інших платформ та мов
 download-button-update-your-firefox = Оновити свій { -brand-name-firefox }
 download-button-get-firefox-android = Отримати { -brand-name-firefox } для { -brand-name-android }
