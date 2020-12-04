@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Rydych ar fin llwytho i lawr:
 firefox-all-browser = Porwr:
 firefox-all-platform = Platfform:
 firefox-all-language = Iaith:
+firefox-all-lang-multi = Ieithoedd lluosog
 firefox-all-sorry-we-couldnt-find = Ymddiheuriadau, nid oedd modd canfod y llwyth rydych yn chwilio amdano. Ceisiwch eto neu ddewis llwyth o'r rhestr isod.
 firefox-all-the-pre-alpha-version = Y fersiwn cyn-alffa ar gyfer defnyddwyr blaengar sy'n hoffi chwilio am chwaliadau a phrofi nodweddion newydd wrth iddyn nhw gael eu codio.
 firefox-all-64-bit-installers = Gosodwyr 64-did
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Gallwch ddibynnu ar sefydlogrwydd a rhwyddi
 firefox-all-windows-installers-for = Gosodwyr Windows ar gyfer TG corfforaethol sy'n symleiddio'r ffurfweddiad, darpariaeth a rheoli'r { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Gosodwyr ARM64/AArch64
 firefox-all-arm64-installers-optimized = Gosodwyr ARM64/AArch64 wedi'u hoptimeiddio ar gyfer cyfrifiaduron personol { -brand-name-windows } wedi'u pweru gan Snapdragon.
+firefox-all-product-send-link = Anfonwch ddolen llwytho i'ch ffôn.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Dewiswch osodwr 32-did ar gyfer cyfrifiaduron gyda phroseswyr 32-did - neu ar gyfer cyfrifiaduron hŷn neu lai pwerus. <a href="{ $url }">Os nad ydych yn siŵr</a> a ydych am ddewis gosodwr 64-did neu 32-did, rydym yn argymell eich bod yn mynd am y 32-did.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
