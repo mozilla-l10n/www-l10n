@@ -74,7 +74,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda artigos de alta calidade seleccionados por persoas, sen recoller o teu historial de navegación ou compartir a túa información persoal cos anunciantes.
 firefox-privacy-hub-get-pocket = Obtén { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = A túa conta { -brand-name-firefox-account }
-firefox-privacy-hub-all-the-information-synced = Toda a información sincronizada a través da túa { -brand-name-firefox-account }, desde o historial do navegador a contrasinais, está cifrada. E o contrasinal da conta é a única clave.
+firefox-privacy-hub-all-the-information-synced = Toda a información sincronizada a través da túa { -brand-name-firefox-account }, desde o historial do navegador a contrasinais, está cifrada. E o contrasinal da conta é a única chave.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Leva a túa privacidade e os teus marcadores a calquera lugar mediante unha { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
