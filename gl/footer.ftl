@@ -6,7 +6,7 @@ footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 footer-privacy-hub = Centro de privacidade
 footer-privacy = Privacidade
-footer-press = Preme
+footer-press = Centro de prensa
 footer-corporate-blog = Blog corporativo
 footer-browser-comparison = Comparación de navegadores
 footer-brand-standards = Normas da marca
@@ -43,7 +43,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } para { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } para { -brand-name-android }
 footer-visit-mozilla-corporations = Visita <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, a empresa nai sen fins lucrativos da <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-portions-of-this-content = Partes deste contido posúen dereitos reservados (©1998–{ $current_year }) por colaboradores individuais da mozilla.org. Contido dispoñíbel baixo <a rel="license" href="{ $url }">licenza{ -brand-name-creative-commons }</a>.
+footer-portions-of-this-content = Partes deste contido posúen dereitos reservados (©1998–{ $current_year }) por colaboradores individuais da mozilla.org. Contido dispoñíbel baixo <a rel="license" href="{ $url }">licenza { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Compañía
 # Outdated string
@@ -61,7 +61,7 @@ footer-product-help = Axuda do produto
 footer-support = Asistencia
 footer-file-a-bug = Arquivar un erro
 footer-community-participation-guidelines = Directrices de participación comunitaria
-footer-websites-privacy-notice = Aviso de privacidade do sitio web
+footer-websites-privacy-notice = Política de privacidade do sitio web
 footer-websites-cookies = Testemuños
 footer-websites-legal = Legal
 footer-language = Idioma
