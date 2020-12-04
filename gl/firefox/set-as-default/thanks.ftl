@@ -21,11 +21,11 @@ set-as-default-thanks-heres-everything-you-need-ios = Aquí tes todo o que neces
 set-as-default-thanks-youre-all-set = Todo pronto!
 set-as-default-thanks-get-firefox-for-mobile = Obtén o { -brand-name-firefox } para móbiles
 set-as-default-thanks-travel-the-internet-with = Viaxa pola Internet con protección en todos os teus dispositivos.
-set-as-default-thanks-download-the-app = Descargar a aplicación
+set-as-default-thanks-download-the-app = Descarga a aplicación
 set-as-default-thanks-join-firefox = Forma parte do { -brand-name-firefox }
 set-as-default-thanks-sign-up-for-a-free-account = Rexístrate para obter unha conta gratuíta e sincroniza os teus contrasinais, historial de navegación e preferencias nos teus dispositivos.
 # Account here refers to a Firefox Account
-set-as-default-thanks-get-an-account = Crear unha conta
+set-as-default-thanks-get-an-account = Crea unha conta
 set-as-default-thanks-having-trouble = Encontras algunha dificultade?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
