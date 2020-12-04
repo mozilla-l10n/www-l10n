@@ -14,18 +14,18 @@ welcome-page4-privacy-on-by-default = A túa privacidade está sempre activada p
 welcome-page4-get-the-firefox-mobile = Obtén o { -brand-name-firefox } para dispositivos móbiles
 welcome-page4-get-firefox-on-your-phone = Obtén o { -brand-name-firefox } para o teu teléfono
 welcome-page4-send-the-download-link-right = Envía unha ligazón de descarga directamente ao teu teléfono ou correo electrónico.
-welcome-page4-download-firefox-for-your = Descargar { -brand-name-firefox } para o seu teléfono intelixente e tableta.
-welcome-page4-firefox-private-safe-browser = "{ -brand-name-firefox }: navegador privado e seguro" en { -brand-name-ios } ou { -brand-name-android }.
+welcome-page4-download-firefox-for-your = Descarga o { -brand-name-firefox } para o teu teléfono intelixente e tableta.
+welcome-page4-firefox-private-safe-browser = «{ -brand-name-firefox }: navegador privado e seguro» en { -brand-name-ios } ou { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
-welcome-page4-get-data-trackers-off-your = Desfágase dos rastros que se lle interpoñan
+welcome-page4-get-data-trackers-off-your = Desfaite dos rastrexadores que se che interpoñan
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
-welcome-page4-enhanced-tracking-protection = Protección mellorada contra o rastrexo <a href="{ $privacy }"> evita que máis de 200 rastros </a> lle persigan pola Rede.
+welcome-page4-enhanced-tracking-protection = Protección mellorada contra o rastrexo <a href="{ $privacy }"> evita que máis de 200 rastrexadores</a> te persigan pola Rede.
 # "Leave no trace" is an expression for leaving nothing behind.
-welcome-page4-leave-no-trace = Sen deixar pegadas
-welcome-page4-automatically-clear-your-history = Elimine automaticamente o seu historial e rastros co modo de Navegación privada.
+welcome-page4-leave-no-trace = Sen deixaren pegadas
+welcome-page4-automatically-clear-your-history = Elimina automaticamente o seu historial e testemuños co modo de Navegación privada.
 welcome-page4-go-faster-do-more = Navegue máis rápido. Faga moito máis.
-welcome-page4-take-it-all-with-you = Léveo todo consigo
-welcome-page4-more-done-fast-smart = Faga o seu día máis productivo con altísimas velocidades de carga de páxinas e con suxestións de busca intelixentes.
-welcome-page4-dont-walk-out-the-door-without = Acabouse saír da casa sen os seus marcadores, lapelas, notas e contrasinais.
+welcome-page4-take-it-all-with-you = Lévao todo contigo
+welcome-page4-more-done-fast-smart = Fai o teu día máis produtivo con altísimas velocidades de carga de páxinas e con suxestións de busca intelixentes.
+welcome-page4-dont-walk-out-the-door-without = Acabouse iso de saíres da casa sen os teus marcadores, lapelas, notas e contrasinais.
 welcome-page4-why-am-i-seeing-this = Por que estou a ver isto?

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
 
 # HTML page title
-welcome-page6-make-firefox-your-default = Configurar { -brand-name-firefox } como navegador predeterminado
+welcome-page6-make-firefox-your-default = Configura o { -brand-name-firefox } como navegador predeterminado
 welcome-page6-make-sure-youre-protected = Asegúrese de estar protexido cada vez que se conecte
 welcome-page6-when-you-choose-firefox-you = Cando elixe { -brand-name-firefox }, está a contribuír a unha web mellor para vostede e todos os demais. Dea hoxe un paso máis para protexerse.
 welcome-page6-get-the-firefox-app = Obter a aplicación de { -brand-name-firefox }
