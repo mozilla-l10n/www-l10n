@@ -47,8 +47,8 @@ participation-we-are-likely-to-have = É provável que ocorram discussões sobre
 participation-be-inclusive = Ser inclusivo
 participation-seek-diverse-perspectives = Procure perspectivas diversas. A diversidade de pontos de vista e de pessoas em equipes estimula a inovação, mesmo que nem sempre seja confortável. Encoraje todas as vozes. Ajude novas perspectivas a ser ouvidas e ouça atentamente. Ao se encontrar dominando uma discussão, é especialmente importante se segurar e incentivar outras vozes a participar. Esteja ciente de quanto tempo é ocupado por membros dominantes do grupo. Forneça formas alternativas de contribuição ou participação quando possível.
 participation-be-inclusive-of-everyone = Seja inclusivo a todos em uma interação, respeitando e facilitando a participação das pessoas, independente delas:
-participation-remote-on-video-or = Estar remotas (por vídeo ou celular)
-participation-not-native-language = Ser falantes de idioma não nativo
+participation-remote-on-video-or = Estarem remotas (por vídeo ou celular)
+participation-not-native-language = Serem falantes de idioma não nativo
 participation-coming-from-a-different = Virem de uma cultura diferente
 participation-using-pronouns-other = Usarem pronomes diferentes de "ele" ou "ela"
 participation-living-in-a-different = Estiverem em um fuso horário diferente
@@ -90,7 +90,7 @@ participation-reporting = Denúncias
 participation-if-you-believe-youre = Se você acredita que está enfrentando um comportamento inaceitável que não seja tolerado, conforme descrito acima, <a href="{ $hotline }">use nossa linha direta para denunciar</a>. As denúncias são encaminhadas diretamente ao conselho de empregos e aos parceiros do pessoal de recursos humanos da { -brand-name-mozilla } e são sujeitas a triagem pela liderança de respostas das diretrizes de participação na comunidade.
 participation-if-you-believe-youre-email = Se você acredita que está enfrentando um comportamento inaceitável que não é tolerado conforme descrito acima, use <a href="{ $mailto_report }">cpg-report@mozilla.com</a> para denunciar. As denúncias são avaliadas pela liderança de respostas das diretrizes de participação da comunidade.
 participation-after-receiving-a = Depois de receber uma descrição concisa da situação, eles analisam o caso e determinam as próximas etapas. Além de investigar, eles podem fornecer uma variedade de recursos, desde uma consulta privada até outros recursos da comunidade. Eles só envolvem outros colegas ou especialistas externos (como advogados) quando necessário para tratar adequadamente cada situação.
-participation-additional-resources = Recursos adicionais: <a href="{ $missing-var }">Como reportar</a>
+participation-additional-resources = Recursos adicionais: <a href="{ $missing-var }">Como denunciar</a>
 participation-questions-cpg-questionsmozillacom = Perguntas: <a href="{ $missing-var }">cpg-questions@mozilla.com</a>
 participation-please-also-report = Informe também se você observar uma situação potencialmente perigosa, alguém em perigo ou violações destas diretrizes, mesmo que a situação não esteja acontecendo com você.
 participation-if-you-feel-you-have = Se você achar que foi injustamente acusado de violar estas diretrizes, siga o mesmo processo de denúncia.
