@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descargar o { -brand-name-firefox }
-navigation-get-a-firefox-account = Conseguir unha conta Firefox
-navigation-firefox-browser-for-desktop = Versión de escritorio do Firefox
+navigation-get-a-firefox-account = Conseguir unha conta { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = Versión de escritorio do { -brand-name-firefox-browser }
 navigation-get-the-browser-that-respects = O navegador que respecta a privacidade de maneira automática. En { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Firefox para dispositivos móbiles
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } para dispositivos móbiles
 navigation-take-speed-privacy-and = Leva sempre contigo velocidade, privacidade e tranquilidade. En { -brand-name-android } e { -brand-name-ios }.
 navigation-download-for-ios = Descargar para { -brand-name-ios }
 navigation-download-for-android = Descargar para { -brand-name-android }
 navigation-ios-support = Asistencia para { -brand-name-ios }
 navigation-android-support = Asistencia para { -brand-name-android }
-navigation-firefox-browser-for-enterprise = O navegador Firefox para empresas
-navigation-strap-on-your-goggles = Pon as gafas e mergúllate na web envolvente grazas ao navegador Firefox para realidade virtual.
+navigation-firefox-browser-for-enterprise = O { -brand-name-firefox-browser } para empresas
+navigation-strap-on-your-goggles = Pon as gafas e mergúllate na web envolvente grazas ao { -brand-name-firefox-browser } para realidade virtual.
 navigation-firefox-for-fire-tv = O { -brand-name-firefox } para { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Ve vídeos e navega pola Internet en { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Os navegadores { -brand-name-firefox } céntranse na privacidade, como sempre fixeron.
@@ -35,7 +35,7 @@ navigation-take-firefox-and-firefox = Leva sempre contigo o { -brand-name-firefo
 navigation-get-firefox = Obter o { -brand-name-firefox }
 navigation-get-firefox-focus = Obter o { -brand-name-firefox-focus }
 navigation-android-extensions = Extensións de { -brand-name-android }
-navigation-your-firefox-account = A túa conta Firefox
+navigation-your-firefox-account = A túa { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aproveita ao máximo a experiencia { -brand-name-firefox } en todos os dispositivos.
 # Outdated string
 navigation-learn-how-to-customize = Obtén máis información sobre como personalizar o funcionamento do { -brand-name-firefox }.

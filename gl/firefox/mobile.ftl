@@ -5,10 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Descarga o navegador Firefox no teu dispositivo móbil para { -brand-name-ios } e { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = Por defecto, o navegador Firefox para dispositivos móbiles bloquea máis de 2000 rastrexadores e outorga a privacidade que mereces e a velocidade que precisas nun navegador privativo para móbiles.
+firefox-mobile-download-the-firefox-browser = Descarga o { -brand-name-firefox-browser } no teu dispositivo móbil para { -brand-name-ios } e { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = Por defecto, o { -brand-name-firefox-browser } para dispositivos móbiles bloquea máis de 2000 rastrexadores e outorga a privacidade que mereces e a velocidade que precisas nun navegador privativo para móbiles.
 firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = Navegador Firefox
+firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Consigue o navegador móbil para ti, non para os anunciantes
 firefox-mobile-check-out-firefox-again-its = Proba o { -brand-name-firefox }. É rápido, privativo e está do teu lado. Para { -brand-name-ios } e { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Obtén privacidade automática no móbil

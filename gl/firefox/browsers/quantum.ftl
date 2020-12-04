@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Descargar o { -brand-name-firefox-quantum }
-page-description = O { -brand-name-firefox-quantum } foi unha revolución. En 2017, creamos un novo navegador que vai a fume de carozo e que mellora constantemente. O { -brand-name-firefox-quantum } é o navegador Firefox.
+page-description = O { -brand-name-firefox-quantum } foi unha revolución. En 2017, creamos un novo navegador que vai a fume de carozo e que mellora constantemente. O { -brand-name-firefox-quantum } é o { -brand-name-firefox-browser }.
 the-latest-firefox = O motor máis recente do { -brand-name-firefox }: o { -brand-name-firefox-quantum }
-firefox-quantum-was = O { -brand-name-firefox-quantum } foi unha revolución no desenvolvemento do { -brand-name-firefox }. En 2017, creamos um novo navegador que vai a fume de carozo e que mellora constantemente. O { -brand-name-firefox-quantum } é o navegador Firefox.
+firefox-quantum-was = O { -brand-name-firefox-quantum } foi unha revolución no desenvolvemento do { -brand-name-firefox }. En 2017, creamos um novo navegador que vai a fume de carozo e que mellora constantemente. O { -brand-name-firefox-quantum } é o { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Máis información sobre o { -brand-name-firefox-quantum }
 privacy-first = A privacidade é o primeiro

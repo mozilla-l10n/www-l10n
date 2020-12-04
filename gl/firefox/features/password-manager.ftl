@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Navegadores Firefox: un xestor de contrasinais rápido e sinxelo
+password-manager-firefox-browser = { -brand-name-firefox-browser }: un xestor de contrasinais rápido e sinxelo
 # HTML page description
 password-manager-firefox-password = O xestor de contrasinais do { -brand-name-firefox } garda todos os contrasinais nun único lugar, de forma que poderás iniciar sesión ou recuperar os gardados automaticamente.
 # Hero title
@@ -20,7 +20,7 @@ password-manager-password-magician = O mago das claves de acceso
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = O rei dos contrasinais
-password-manager-no-more-try-again = Acabáronse os «ténteo de novo» cando intenta acceder a algún sitio. Inicia sesión coa túa conta Firefox no móbil e levarás contigo todos os contrasinais. Os datos de inicio de sesión aparecerán como por arte de maxia.
+password-manager-no-more-try-again = Acabáronse os «ténteo de novo» cando intenta acceder a algún sitio. Inicia sesión coa túa { -brand-name-firefox-account } no móbil e levarás contigo todos os contrasinais. Os datos de inicio de sesión aparecerán como por arte de maxia.
 password-manager-password-champion = Un campión das claves
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
