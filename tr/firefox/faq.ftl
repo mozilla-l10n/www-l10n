@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } Hakkında SSS
 what-is-firefox = { -brand-name-firefox } nedir?
 
 # Variables:
@@ -21,11 +23,15 @@ how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } ücretsiz mi?
+yep-the-firefox = Evet! { -brand-name-firefox-browser } ücretsiz. Hem de tamamen ücretsiz. Gizli maliyet falan yok. Kullanmak için hiçbir ödeme yapmıyorsunuz ve kişisel verilerinizi satmıyoruz.
+related-questions-free = İlgili sorular: { -brand-name-firefox-browser } bedava mı, { -brand-name-firefox } ücretli mi
 is-chrome-better = { -brand-name-chrome }, { -brand-name-firefox }’tan daha mı iyi?
+no-we-dont = Hayır, bizce { -brand-name-chrome } { -brand-name-firefox }’tan daha iyi değil. Neden mi? İnsanlar hangi tarayıcının daha iyi olduğunu sorduklarında, aslında hangi tarayıcının daha hızlı ve daha güvenli olduğunu soruyorlar. { -brand-name-firefox }, gizliliğinize saygı gösteren en hızlı tarayıcı. Öyle olmaya devam etmesi için de her ay güncelleniyor.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">{ -brand-name-firefox } ile { -brand-name-chrome }’un karşılaştırmasına bakın.</a>
 is-firefox-safe-download = { -brand-name-firefox }’u indirmek güvenli mi?
 
 # Variables:
@@ -43,6 +49,7 @@ does-firefox-sell = { -brand-name-firefox } kişisel verilerimi satıyor mu?
 
 why-is-firefox = { -brand-name-firefox } neden bu kadar yavaş?
 is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium } tabanlı mı?
+does-firefox-use = { -brand-name-firefox } { -brand-name-google }’ı kullanıyor mu?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -53,6 +60,7 @@ does-firefox-have = { -brand-name-firefox }'ta yerleşik bir VPN var mı?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = İlgili sorular: { -brand-name-firefox } IP adresinizi gizler mi
 who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 
 # Variables:

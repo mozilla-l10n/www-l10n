@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = İndirmek üzere olduğunuz tarayıcı:
 firefox-all-browser = Tarayıcı:
 firefox-all-platform = Platform:
 firefox-all-language = Dil:
+firefox-all-lang-multi = Çoklu dil
 firefox-all-sorry-we-couldnt-find = Kusura bakmayın, aradığınız dosyayı bulamadık. Lütfen tekrar deneyin veya aşağıdaki listeden bir dosya seçin.
 firefox-all-the-pre-alpha-version = Çökmeleri umursamayan, yeni özellikleri daha geliştirilirken test etmek isteyen deneyimli kullanıcılara yönelik alfa öncesi sürüm.
 firefox-all-64-bit-installers = 64 bit yükleyiciler
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = { -brand-name-firefox } tarayıcısının k
 firefox-all-windows-installers-for = Kurumsal BT departmanları için { -brand-name-firefox-browser }nın yapılandırmasını, dağıtımını ve yönetimini basitleştiren Windows yükleyicileri.
 firefox-all-arm64-installers = ARM64/AArch64 yükleyiciler
 firefox-all-arm64-installers-optimized = ARM64/AArch64 yükleyiciler Snapdragon destekli { -brand-name-windows } bilgisayarlar için optimize edilmiştir.
+firefox-all-product-send-link = İndirme bağlantısını telefonunuza gönderin
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bit işlemcili bilgisayarlar veya eski ve zayıf bilgisayarlar için 32 bit yükleyiciyi seçin. 64 bit mi yoksa 32 bit mi seçmeniz gerektiğinden <a href="{ $url }">emin değilseniz</a> 32 biti seçmenizi öneririz.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

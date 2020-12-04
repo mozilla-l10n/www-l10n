@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } ürünlerini gizliliğinizi korumak için tasarladık
+learn-more-faq = { -brand-name-firefox } Hakkında SSS
 the-history-of = Web tarayıcılarının tarihi
+firefox-has-been = { -brand-name-firefox } neredeyse tarayıcı tarihinin başlangıcından beri var.
 firefox-rebel-with = { -brand-name-firefox }: Asil değil, asi
 what-is-a = Web tarayıcısı nedir?
 firefox-is-more = { -brand-name-firefox } yalnızca bir tarayıcı değil
