@@ -20,6 +20,7 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Fondation Mozilla
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 
 ## Firefox browsers

@@ -8,6 +8,8 @@
 
 ## Page heading
 
+contribute-page-title = Possibilités de bénévolat chez { -brand-name-mozilla }
+contribute-page-heading = Nous avons besoin de vos talents pour un Internet meilleur
 contribute-how-heading = Comment participer…
 
 ## Contribution tasks
@@ -19,12 +21,15 @@ contribute-task-join-heading = Rejoignez la communauté
 
 ## Mission
 
-contribute-read-manifesto = Lire notre manifeste
-contribute-find-event = Trouvez un évènement
+contribute-mission-heading = Notre mission
+contribute-mission-desc = Notre mission est de s’assurer qu’Internet demeure une ressource publique, ouverte et accessible à tous. Un Internet qui défende le bien commun, où les individus ont un impact, sont en sécurité et sont indépendants.
+contribute-learn = En apprendre davantage sur { -brand-name-mozilla }
+contribute-read-manifesto = Lisez notre manifeste
+contribute-find-event = Trouver un évènement
 contribute-meet-volunteers = Rencontrez nos bénévoles passionnés
 contribute-donate = Faire un don
 contribute-help-fund = Aidez-nous à financer notre mission
-contribute-follow-mozilla = Suivez { -brand-name-mozilla }
+contribute-follow-mozilla = Suivre { -brand-name-mozilla }
 contribute-opportunities = Informations et possibilités de bénévolat
 
 ## Made by
