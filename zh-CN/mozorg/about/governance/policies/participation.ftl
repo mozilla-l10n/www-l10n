@@ -88,6 +88,7 @@ participation-mozilla-staff-are = { -brand-name-mozilla } 员工除了必须遵�
 participation-in-addition-any-participants = 此外，任何滥用举报流程的参与者，亦将被视为违反这些准则，并承担同样的后果。绝不接受也不容许虚假举报，尤其是为了报复或排挤他人而作的举报。
 participation-reporting = 举报
 participation-if-you-believe-youre = 如果您认为正经历自己无法接受的行为，也不为上述规范所容忍，<a href="{ $hotline }">请使用我们的热线提出举报</a>。举报会直接交由 { -brand-name-mozilla } 的就业顾问和人力资源合作伙伴，并由社区参与准则回应负责人进行分类。
+participation-if-you-believe-youre-email = 若您认为遇到了上述无法容忍的行为，请发邮件到 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 进行举报。举报将由社区参与准则响应负责人进行分类处理。
 participation-after-receiving-a = 在接获您对有关情况提供的简要说明之后，这些人员将进行核实以确定后续步骤。除了进行任何调查之外，这些人也将提供私人咨询或其他社区资源等各种资源。这些人将视情况请其他同事（包括法律顾问）提供协助，以便妥善地解决各种情况。
 participation-additional-resources = 其他资源：<a href="{ $missing-var }">如何举报</a>
 participation-questions-cpg-questionsmozillacom = 若有疑问，请询：<a href="{ $missing-var }">cpg-questions@mozilla.com</a>
