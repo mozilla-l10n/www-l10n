@@ -88,6 +88,7 @@ participation-mozilla-staff-are = { -brand-name-mozilla } 員工除了必須遵�
 participation-in-addition-any-participants = 此外，任何濫用檢舉流程的參與者，亦將被視為違反這些準則，並遭致相同的後果。絕不接受也不容許不實檢舉，尤其是為了報復或排擠他人而做的檢舉。
 participation-reporting = 檢舉
 participation-if-you-believe-youre = 如果您認為正經歷自己無法接受的行為，也不為上述規範所容忍，<a href="{ $hotline }">請使用我們的專線提出檢舉</a>。檢舉會直接交由 { -brand-name-mozilla } 的雇用諮詢和人力資源合作夥伴，並由社群參與準則回應負責人進行分類。
+participation-if-you-believe-youre-email = 若您認為遇到了上述無法容忍的行為，請來信 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 檢舉。檢舉報告將由社群參與準則回應負責人進行分類處理。
 participation-after-receiving-a = 在收到您的情況的簡要說明後，他們會審查並決定下一步。除了進行任何調查外，還可以提供私人諮詢及其他各種社群資源，並將視需求尋找其他同仁或外部專家（例如法律顧問）的協助，以適當的方式來處理各種情況。
 participation-additional-resources = 其他資源：<a href="{ $missing-var }">如何檢舉</a>
 participation-questions-cpg-questionsmozillacom = 若有疑問，請來信：<a href="{ $missing-var }">cpg-questions@mozilla.com</a>
