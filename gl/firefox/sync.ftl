@@ -16,9 +16,9 @@ firefox-sync-feel-safe = Síntete seguro
 firefox-sync-we-store-your = Almacenamos nos nosos servidores os teus datos cifrados para que non os podamos ler
 firefox-sync-start-syncing-in = Comeza a sincronizar en catro sinxelos pasos:
 firefox-sync-open-the-menu = Abre o menú na parte superior dereita do { -brand-name-firefox } e selecciona <strong>«Iniciar sesión en { -brand-name-sync }»</strong>.
-firefox-sync-click-get-started = Faga clic en <strong>“Comezar”</strong> na pestana emerxente.
-firefox-sync-enter-an-email = Insira un enderezo de correo electrónico e un contrasinal para <strong>“Crear unha { -brand-name-firefox-account }.”</strong>
+firefox-sync-click-get-started = Preme en <strong>«Comezar»</strong> na lapela emerxente.
+firefox-sync-enter-an-email = Insire un enderezo de correo electrónico e un contrasinal para <strong>«Crear unha { -brand-name-firefox-account }.»</strong>
 firefox-sync-click-next-to = Faga clic en <strong>“Seguinte”</strong> para recibir unha verificación por correo electrónico.
-firefox-sync-after-you-check = Tras revisar o correo electrónico e facer clic na ligazón de verificación, { -brand-name-firefox } comezará a sincronizarse automaticamente en segundo plano.
+firefox-sync-after-you-check = Tras revisares o correo electrónico e premeres na ligazón de verificación, o { -brand-name-firefox } comezará a se sincronizar automaticamente en segundo plano.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
-firefox-sync-learn-more = Máis información para xestionar a súa { -brand-name-firefox-account }
+firefox-sync-learn-more = Máis información para xestionar a túa { -brand-name-firefox-account }

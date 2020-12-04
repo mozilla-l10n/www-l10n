@@ -102,7 +102,7 @@ firefox-desktop-download-your-privacy-comes = A privacidade é o primeiro
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Continúa a usar as características dos teus navegadores favoritos e <strong>descubre</strong> outras novas.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Todas as túas ferramentas favoritas de { -brand-name-google } (como Gmail e Docs) funcionan sen ningún problema no navegador do Firefox.
+firefox-desktop-download-all-your-favourite = Todas as túas ferramentas favoritas de { -brand-name-google } (como Gmail e Docs) funcionan sen ningún problema no { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -113,7 +113,7 @@ firefox-desktop-download-screenshots = Capturas de pantalla
 firefox-desktop-download-enhanced-tracking-protection = Protección mellorada contra o rastrexo
 firefox-desktop-download-from-watching-a = Dende ver un titorial ata botarlle un ollada a un partido, o vídeo continúa mentres fas varias tarefas á vez.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Obter o Firefox para <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-android = Obtén o { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obter o { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Descarga a versión para móbiles do navegador { -brand-name-firefox } para conseguires unha protección automática en todos os dispositivos.
 firefox-desktop-download-learn-about-the = Obtén máis información sobre a versión de escritorio do navegador { -brand-name-firefox } abaixo

@@ -23,7 +23,7 @@ navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Descubre as novas características de { -brand-name-firefox } e reciba consellos para navegar pola rede cunha maior seguridade.
 navigation-v2-release-notes = Notas de lanzamento
 navigation-v2-get-the-details-on-the = Coñecer os detalles das últimas actualizacións de { -brand-name-firefox }.
-navigation-v2-view-all-firefox-browsers = Ver todos os navegadores { -brand-name-firefox }
+navigation-v2-view-all-firefox-browsers = Ver todos os { -brand-name-firefox-browsers }
 
 ## Products menu
 
