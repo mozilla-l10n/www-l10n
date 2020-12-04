@@ -16,5 +16,5 @@ whatsnew81-scan-this-qr-code = Escanee este código QR para descargalo
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Xa chegou o novo { -brand-name-firefox } para { -brand-name-android }
 whatsnew81-our-latest-for-android-has = A última versión de { -brand-name-android } ten funcións divertidas e intelixentes, como a barra de busca desprazable. Porque somos un navegador independente que pensa nos teus polgares.
-whatsnew81-make-firefox-your-everyday = Configure { -brand-name-firefox } coma o seu navegador principal en { -brand-name-ios }
-whatsnew81-attention-iphone-people = Atención, usuarios de { -brand-name-iphone }: por fin poderán configurar { -brand-name-firefox } coma o seu navegador predeterminado en { -brand-name-ios } 14. Un navegador cumpridor ó que sempre poder acudir.
+whatsnew81-make-firefox-your-everyday = Configura o { -brand-name-firefox } coma o seu navegador principal en { -brand-name-ios }
+whatsnew81-attention-iphone-people = Atención, usuarios de { -brand-name-iphone }: por fin poderán configurar { -brand-name-firefox } coma o seu navegador predeterminado en { -brand-name-ios } 14. Un navegador cumpridor ao que sempre poder acudir.
