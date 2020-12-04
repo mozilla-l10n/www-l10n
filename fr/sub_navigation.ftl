@@ -50,3 +50,4 @@ sub-navigation-browser-history = L’histoire des navigateurs web
 sub-navigation-privacy = Confidentialité
 sub-navigation-our-promise = Notre engagement
 sub-navigation-our-products = Nos produits
+sub-navigation-little-book-of-privacy = Livret de la vie privée
