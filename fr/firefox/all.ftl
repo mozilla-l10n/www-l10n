@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Vous êtes sur le point de télécharger
 firefox-all-browser = Navigateur :
 firefox-all-platform = Plateforme :
 firefox-all-language = Langue :
+firefox-all-lang-multi = Plusieurs langues
 firefox-all-sorry-we-couldnt-find = Désolé, nous n’avons pas trouvé le téléchargement que vous recherchez. Veuillez réessayer ou sélectionner un téléchargement dans la liste ci-dessous.
 firefox-all-the-pre-alpha-version = Une version pré-alpha pour les utilisateurs et utilisatrices qui aiment chasser les bugs et tester les nouvelles fonctionnalités pendant leur développement.
 firefox-all-64-bit-installers = Installeurs 64 bits
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Vous pouvez compter sur la stabilité et la
 firefox-all-windows-installers-for = Des installeurs Windows pour les services informatiques des entreprises qui simplifient la configuration, le déploiement et la gestion du { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Installeurs ARM64/AArch64
 firefox-all-arm64-installers-optimized = Les installeurs ARM64/AArch64 sont optimisés pour les PC { -brand-name-windows } équipés de processeurs Snapdragon.
+firefox-all-product-send-link = Envoyer un lien vers votre téléphone
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Choisissez un installeur 32 bits pour les ordinateurs avec un processeur 32 bits — ou pour des ordinateurs plus anciens ou moins puissants. <a href="{ $url }">Si vous ne savez pas lequel choisir</a> entre l’installeur 64 bits et l’installeur 32 bits, nous vous recommandons l’installeur 32 bits.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
