@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Створіть { -brand-name-firefox-
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Виступіть проти індустрії, що продає ваші дані стороннім особам. Залишайтеся розумними й захищеними в Інтернеті разом з технологією, що відстоює ваші права.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки та вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-firefox-account } – Один вхід – Доступ і приватність усюди.
+firefox-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки та вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-firefox-account } – Один обліковий запис – Доступ і приватність усюди.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Існує спосіб захистити вашу приватність. <span>Приєднуйтеся до { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
@@ -22,7 +22,7 @@ firefox-accounts-youre-signed-in-to = Ви зареєструвалися <br>у
 firefox-accounts-see-if-youve-been = Дізнайтеся, чи ви стали жертвою витоку даних в Інтернеті.
 firefox-accounts-sign-in-to-monitor = Увійти в { -brand-name-monitor }
 firefox-accounts-join-firefox = Приєднуйтеся до { -brand-name-firefox }
-firefox-accounts-enter-your-email-address = Введіть свою адресу електронної пошти, щоб розпочати роботу.
+firefox-accounts-enter-your-email-address = Введіть свою адресу електронної пошти, щоб почати роботу.
 firefox-accounts-already-have-an-account = Ви вже маєте обліковий запис?
 firefox-accounts-sign-in = Увійти
 firefox-accounts-meet-our-family-of = Зустрічайте наші продукти, орієнтовані на приватність.
