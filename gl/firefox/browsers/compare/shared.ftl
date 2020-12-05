@@ -10,9 +10,9 @@ compare-shared-yes = Si
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Non
 compare-shared-private-browsing-mode = Modo de navegación privada
-compare-shared-blocks-third-party-tracking-default = Bloqueo dos testemuños de seguimento de terceiros por defecto
+compare-shared-blocks-third-party-tracking-default = Bloqueo dos testemuños de rastrexo de terceiros por defecto
 # Obsolete string
-compare-shared-blocks-third-party-tracking = Bloqueo dos testemuños de seguimento de terceiros
+compare-shared-blocks-third-party-tracking = Bloqueo dos testemuños de rastrexo de terceiros
 compare-shared-blocks-cryptomining-scripts = Bloquo dos códigos de criptominaría
 compare-shared-blocks-social-trackers = Bloqueo de rastrexadores de redes sociais
 compare-shared-autoplay-blocking = Bloqueo de reprodución automática

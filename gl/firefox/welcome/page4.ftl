@@ -23,7 +23,7 @@ welcome-page4-get-data-trackers-off-your = Desfaite dos rastrexadores que se che
 welcome-page4-enhanced-tracking-protection = Protección mellorada contra o rastrexo <a href="{ $privacy }"> evita que máis de 200 rastrexadores</a> te persigan pola Rede.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Sen deixaren pegadas
-welcome-page4-automatically-clear-your-history = Elimina automaticamente o seu historial e testemuños co modo de Navegación privada.
+welcome-page4-automatically-clear-your-history = Elimina automaticamente o seu historial e testemuños co modo de navegación privada.
 welcome-page4-go-faster-do-more = Navegue máis rápido. Faga moito máis.
 welcome-page4-take-it-all-with-you = Lévao todo contigo
 welcome-page4-more-done-fast-smart = Fai o teu día máis produtivo con altísimas velocidades de carga de páxinas e con suxestións de busca intelixentes.

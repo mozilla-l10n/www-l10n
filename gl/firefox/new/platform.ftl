@@ -33,7 +33,7 @@ new-platform-faster-page-loading-linux = O novo { -brand-name-firefox } para { -
 new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
 new-platform-own-your-online-life = Na túa vida en liña mandas ti.
 new-platform-privacy-more-than = Privacidade, máis ca unha política
-new-platform-your-life-your-business = A túa vida é cousa túa. O { -brand-name-firefox } bloquea os rastros de seguimento de terceiros en { -brand-name-linux }.
+new-platform-your-life-your-business = A túa vida é cousa túa. O { -brand-name-firefox } bloquea os testemuños de rastrexo de terceiros en { -brand-name-linux }.
 new-platform-speed-meet-security = Velocidade e seguridade. O { -brand-name-firefox } é dúas veces máis rápido e consome un 30% menos de memoria que o { -brand-name-chrome }.
 new-platform-open-source = Código aberto
 new-platform-look-under-the-hood = Fíxate no desenvolvemento. Igual ca { -brand-name-linux }, as características do { -brand-name-firefox } son de código aberto.
@@ -48,7 +48,7 @@ new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -br
 # /firefox/mac/ main page title. Span is for visually formatting.
 new-platform-firefox-respects-your = O { -brand-name-firefox } respecta <span>a privacidade en { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = A privacidade é o primeiro
-new-platform-firefox-doesnt-spy = O { -brand-name-firefox } non atusma nas buscas. Detemos os rastros de seguimento de terceiros e dámosche a ti todo o control.
+new-platform-firefox-doesnt-spy = O { -brand-name-firefox } non atusma nas buscas. Detemos os testemuños de rastrexo de terceiros e dámosche a ti todo o control.
 new-platform-get-speed-and-security = Velocidade e seguridade. O { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os teus movementos.
 new-platform-block-trackers = Bloquear rastrexadores
 new-platform-be-the-master-of-your = Convértete no dono do teu dominio cun rigoroso bloqueo de contido. Bloquea todos os testemuños e rastrexadores.
