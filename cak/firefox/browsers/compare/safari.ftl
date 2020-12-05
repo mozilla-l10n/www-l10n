@@ -34,3 +34,6 @@ compare-safari-in-addition-to-the-regular = Rik'in ri molaj taq samaj ruk'amon p
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Achi'el { -brand-name-safari }, { -brand-name-firefox } nuyäk kik'u'x ri kitinamit b'anonela' richin yekinük' <a { $attrs }>taq tz'aqat chuqa' taq k'amal</a> richin ri okik'amaya'l. Ri qanuk'uche'el jaqäl rub'itz'ib', k'o jun peraj ri nutz'aqatisaj jun nïm kajilab'al samaj.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Chuqa' toq natz'ib'aj ab'i' pa jun rub'i' rutaqoya'l { -brand-name-firefox }, yatikïr yatok pa taq samajib'äl achi'el <a { $pocket }>{ -brand-name-pocket }</a> ri nikitz'aqatisaj ri okik'amaya'l. Ri pitz'b'äl { -brand-name-pocket } richin { -brand-name-firefox } nuya' q'ij chawe richin ye'ayäk ajk'amaya'l taq ruxaq chuqa' taq silowäch pa { -brand-name-pocket } rik'in jun pitz'oj, richin nasik'ij jun ch'ajch'öj chuqa' majun yajek'on ruwäch xab'akuchi' at k'o wi chuqa' achi'el nawajo', ke ri' chuqa' toq majun okem.
