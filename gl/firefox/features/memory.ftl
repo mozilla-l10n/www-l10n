@@ -16,7 +16,7 @@ features-memory-every-computer-program-you = Todos os programas consomen unha ce
 features-memory-stop-running-out-of-memory = Non te quedes sen memoria nunca máis
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
-features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">O { -brand-name-chrome } consome ata 1,77 veces máis memoria que o { -brand-name-firefox }</a>. Se o ordenador xa ten pouca memoria, isto pode provocar unha demora significativa. Usar a última versión do { -brand-name-firefox } con multiproceso permitirache dispor de máis memoria dispoñíbel para exectuar os programas que máis che gusten.
+features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">O { -brand-name-chrome } consome ata 1,77 veces máis memoria que o { -brand-name-firefox }</a>. Se o computador xa ten pouca memoria, isto pode provocar unha demora significativa. Usar a última versión do { -brand-name-firefox } con multiproceso permitirache dispor de máis memoria dispoñíbel para exectuar os programas que máis che gusten.
 features-memory-browse-faster-privately = Navega máis rápido e de forma privada
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/

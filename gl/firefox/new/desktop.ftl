@@ -96,7 +96,7 @@ firefox-desktop-download-go-from-light = Pasa do modo claro ao modo escuro depen
 firefox-desktop-download-tweak-your-settings = Axusta a configuración
 firefox-desktop-download-theres-no-need = Non tes por que conformarte. Cambia a páxina das novas lapelas, a barra de busca, os marcadores e moito máis para explorar Internet da forma que queiras.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Apoiado pola <strong>fundación sen ánimo de lucro</strong> que se centra nas persoas
+firefox-desktop-download-backed-by-the = Apoiado pola <strong>fundación sen fins lucrativos</strong> que se centra nas persoas
 firefox-desktop-download-challenging-the-status = Desafiando o statu quo dende 1998
 firefox-desktop-download-your-privacy-comes = A privacidade é o primeiro
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -126,7 +126,7 @@ firefox-desktop-download-from-security-to = Seguridade, novas ou xogos, hai <a {
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou o { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como o { -brand-name-ie } e, agora, o { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa a priorizar a privacidade por enriba de calquera outra cousa.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = A pesar de que Internet segue medrando e cambiando, o { -brand-name-firefox } continúa a centrarse no dereito á privacidade. Nós chamámoslle <a { $attrs }>Compromiso de datos persoais</a>: recoller menos datos, mantelos a salvo e sen segredos. O { -brand-name-firefox } é o único que protexe os datos, a actividade e a vida en liña.
+firefox-desktop-download-as-the-internet = A pesar de que Internet segue medrando e cambiando, o { -brand-name-firefox } continúa a centrarse no dereito á privacidade. Nós chamámoslle <a { $attrs }>Compromiso cos datos persoais</a>: recoller menos datos, mantelos a salvo e sen segredos. O { -brand-name-firefox } é o único que protexe os datos, a actividade e a vida en liña.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está dispoñible para todos os dispositivos, de xeito que sempre poderás levar contigo as lapelas, o historial e os marcadores. O único que precisas é unha <a { $attrs }>conta { -brand-name-firefox }</a>.

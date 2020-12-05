@@ -10,7 +10,7 @@ set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Grazas por es
 set-as-default-thanks-success-your-default-browser = Boa! O { -brand-name-firefox } é o teu navegador predeterminado.
 set-as-default-thanks-looks-like-youre-using-a = Parece que estás a usar agora outro navegador. Asegúrate de teres descargado o { -brand-name-firefox } no dispositivo.
 # When a visitor sees this message a system dialog will also open on screen.
-set-as-default-thanks-youre-almost-done-just-change = Xa case o tes! Só resta mudar o teu navegador predeterminado ao { -brand-name-firefox } no panel de configuracións da pantalla.
+set-as-default-thanks-youre-almost-done-just-change = Xa case o tes! Só resta mudar o teu navegador predeterminado ao { -brand-name-firefox } no panel de configuración da pantalla.
 set-as-default-thanks-having-trouble-setting-your = Tes problemas para configurar o navegador predeterminado?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
