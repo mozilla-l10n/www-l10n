@@ -20,7 +20,7 @@ firefox-all-lang-multi = Multilingüe
 firefox-all-sorry-we-couldnt-find = Sentímolo, non puidemos encontrar a descarga que buscabas. Téntao de novo ou selecciona unha descarga da lista.
 firefox-all-the-pre-alpha-version = A versión previa á alfa para usuarios avanzados aos que lles gusta buscar erros e probar novas características tan pronto como estean codificadas.
 firefox-all-64-bit-installers = Instaladores de 64 bits
-firefox-all-choose-a-64-bit-installer = Escolle un instalador de 64 bits para computadoras con procesadores de 64 bits, o cal lles permite asignar máis memoria RAM a programas individuais (especialmente importante para xogos e outras aplicacións esixentes).
+firefox-all-choose-a-64-bit-installer = Escolle un instalador de 64 bits para computadores con procesadores de 64 bits, o cal lles permite asignar máis memoria RAM a programas individuais (especialmente importante para xogos e outras aplicacións esixentes).
 firefox-all-32-bit-installers = Instaladores de 32 bits
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Descarga o { -brand-name-firefox-browser } en galego e en máis de 90 idiomas
@@ -35,11 +35,11 @@ firefox-all-test-your-sites-against = Usa ferramentas para desenvolvedores poten
 firefox-all-count-on-stability-and = Con este navegador { -brand-name-firefox } creado para empresas, un pode contar coa estabilidade e facilidade de uso.
 firefox-all-windows-installers-for = Instaladores de Windows para departamentos informáticos empresariais; simplifican a configuración, distribución e xestión do { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores para ARM64 / AArch64
-firefox-all-arm64-installers-optimized = Instaladores para  ARM64 / AArch64 optimizados para os computadoras { -brand-name-windows } que funcionen con Snapdragon.
+firefox-all-arm64-installers-optimized = Instaladores para  ARM64 / AArch64 optimizados para os computadores { -brand-name-windows } que funcionen con Snapdragon.
 firefox-all-product-send-link = Envía unha ligazón de descarga ao teu móbil
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Escolle un instalador de 32 bits para computadoras con procesadores de 32 bits ou para computadoras máis antigas ou menos potentes. <a href="{ $url }">Se dubidas</a> entre escoller un instalador de 64 ou 32 bits, recomendámoste o de 32 bits.
+firefox-all-choose-a-32-bit-installer = Escolle un instalador de 32 bits para computadores con procesadores de 32 bits ou para computadoras máis antigas ou menos potentes. <a href="{ $url }">Se dubidas</a> entre escoller un instalador de 64 ou 32 bits, recomendámoste o de 32 bits.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
