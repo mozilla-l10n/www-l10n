@@ -36,7 +36,7 @@ firefox-new-watch-for-data-breaches = Comprobar se hai violacións de datos
 firefox-new-connect-to-a-whole-family = Conéctate a unha familia de productos respectuosos que ademais che ofrece todo o coñecemento que precisas para estares protexido mentres navegas.
 firefox-new-passwords-made-portable = Contrasinais portátiles
 firefox-new-protect-your-privacy = Protexe a túa privacidade
-firefox-new-private-browsing-clears = A <strong>Navegación privada</strong> elimina o historial para mantelo en segredo de calquera que use o ordenador.
+firefox-new-private-browsing-clears = A <strong>Navegación privada</strong> elimina o historial para mantelo en segredo de calquera que use o computador.
 firefox-new-advanced-install-options-heading = Opcións avanzadas de instalación e outras plataformas
 firefox-new-just-download-the-browser = Chega con só descargar o navegador
 

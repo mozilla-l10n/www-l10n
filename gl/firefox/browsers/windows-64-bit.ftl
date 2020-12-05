@@ -14,7 +14,7 @@ windows-64-bit-64-bit = de 64 bits
 windows-64-bit-a-more-secure-firefox = Un { -brand-name-firefox } aínda máis seguro.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Ao descargar o { -brand-name-firefox } desde un { -brand-name-windows } de 64 bits, obtés por defecto a versión de 64 bits. Isto significa que gozarás dunha versión máis segura do { -brand-name-firefox } que tamén <a href="{ $crashes }">falla moitísimo menos</a>. Canto menos? Pois nas probas feitas ata agora, o { -brand-name-firefox } de 64 bits reduciu os erros nun 39% en ordenadores con 4 ou máis xigas de RAM.
+windows-64-bit-users-on-64-bit-windows-crashes = Ao descargar o { -brand-name-firefox } desde un { -brand-name-windows } de 64 bits, obtés por defecto a versión de 64 bits. Isto significa que gozarás dunha versión máis segura do { -brand-name-firefox } que tamén <a href="{ $crashes }">falla moitísimo menos</a>. Canto menos? Pois nas probas feitas ata agora, o { -brand-name-firefox } de 64 bits reduciu os erros nun 39% en computadores con 4 ou máis xigas de RAM.
 windows-64-bit-whats-the-difference = Que diferenza hai entre 32 bits e 64 bits?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization

@@ -15,7 +15,7 @@ password-manager-give-up-the-memory = Despídete dos xogos de memoria grazas ao 
 password-manager-password-hero = Un heroe dos contrasinais
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
-password-manager-forget-the-reset = Acabouse restabelecer contrasinais. O xestor do { -brand-name-firefox } garda todos os contrasinais para que poidas iniciar sesión automaticamente ou encontrar os gardados. Para unha maior seguridade, estebelece un <a href="{ $url }">contrasinal principal</a> no ordenador.
+password-manager-forget-the-reset = Acabouse restabelecer contrasinais. O xestor do { -brand-name-firefox } garda todos os contrasinais para que poidas iniciar sesión automaticamente ou encontrar os gardados. Para unha maior seguridade, estebelece un <a href="{ $url }">contrasinal principal</a> no computador.
 password-manager-password-magician = O mago das claves de acceso
 # Obsolete string
 # Meaning its a quick and competent password manager

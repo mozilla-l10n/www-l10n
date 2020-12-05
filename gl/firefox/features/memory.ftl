@@ -8,10 +8,10 @@
 # HTML page title
 features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: consome menos memoria e consegue máis velocidade
 # HTML page description
-features-memory-is-your-computer-slow-your = O ordenador vaiche lento? Pode que o navegador estea a consumir moita memoria. Cambia ao { -brand-name-firefox } e gaña en velocidade.
+features-memory-is-your-computer-slow-your = Vaiche lento o computador? Pode que o navegador estea a consumir moita memoria. Cambia ao { -brand-name-firefox } e gaña en velocidade.
 features-memory-less-memory-usage-than-chrome = Menor consumo de memoria que o { -brand-name-chrome }
 features-memory-if-your-web-browser-uses = Se o teu navegador web consome moita memoria, cámbiate ao { -brand-name-firefox }.
-features-memory-speed-up-your-computer = Aumenta a velocidade do ordenador
+features-memory-speed-up-your-computer = Aumenta a velocidade do computador
 features-memory-every-computer-program-you = Todos os programas consomen unha certa cantidade de memoria. Cando o consumo é demasiado alto, o sistema pode volverse moooooi lento. O obxectivo do { -brand-name-firefox } é conseguir un equilibrio entre consumir a memoria suficiente para navegar sen problemas e deixar a memoria suficiente para que o sistema responda.
 features-memory-stop-running-out-of-memory = Non te quedes sen memoria nunca máis
 # Variables:

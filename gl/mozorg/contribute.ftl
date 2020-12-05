@@ -46,7 +46,7 @@ contribute-opportunities = Novidades e oportunidades de voluntariado
 
 contribute-made-by-heading = Feito por xente dedicada coma vostede
 contribute-made-by-desc = Cando calabora con { -brand-name-mozilla }, está a formar parte dunha comunidade mundial de persoas que cren que todos temos o papel de garantir que a Internet siga sendo unha forza para facer o ben.
-contribute-made-by-desc-cont = Cremos que a colaboración comunitaria é vital para crear unha Internet diversa, innovadora e responsable para quen máis o precise. Xa teña experiencia en tecnoloxía, en organización de comunidades ou unicamente un ordenador e algo de tempo libre, vostede pode axudarnos a facer da Internet un lugar mellor.
+contribute-made-by-desc-cont = Cremos que a colaboración comunitaria é vital para crear unha Internet diversa, innovadora e responsable para quen máis o precise. Xa teña experiencia en tecnoloxía, en organización de comunidades ou unicamente un computador e algo de tempo libre, vostede pode axudarnos a facer da Internet un lugar mellor.
 
 ## Newsletter
 
