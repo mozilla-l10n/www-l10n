@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = Prevezmite si prehliadač
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = Aj keď môžete { -brand-name-firefox } naďalej používať, { -brand-name-mozilla } už pre { -brand-name-windows } { -brand-name-xp } ani { -brand-name-vista } <a href="{ $url }">nebude vydávať bezpečnostné aktualizácie</a>.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -55,4 +58,12 @@ firefox-new-its-privacy-and-peace-of = Je to <strong>súkromie</strong> na vašo
 firefox-new-its-a-family-of-products = Je to <strong>rad produktov</strong>, ktoré majú rešpekt k vašim údajom.
 firefox-new-its-everything-you-need-to = Je to všetko, čo potrebujete vedieť o tom, ako <strong>zostať v bezpečí na internete</strong>.
 firefox-new-its-a-community-that-believes = Je to <strong>komunita</strong>, ktorá verí, že technológia má na viac.
+firefox-new-download-interrupted = Vaše preberanie bolo prerušené. Nič však nie je stratené.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Pri inštalácií { -brand-name-firefox(case: "gen") } postupujte, prosím, podľa <a href="{ $url }">týchto inštrukcií</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke podpory
