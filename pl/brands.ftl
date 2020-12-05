@@ -76,6 +76,7 @@
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
 -brand-name-twitter =
     { $case ->
        *[nom] Twitter
