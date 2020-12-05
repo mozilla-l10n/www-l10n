@@ -17,8 +17,8 @@ reporting-how-to-give-a-report = Jak przekazać zgłoszenie
 reporting-if-you-believe-someone = Jeśli uważasz, że ktoś jest w fizycznym niebezpieczeństwie, zadzwoń pod lokalny numer alarmowy.
 reporting-if-you-have-a-report-by = Jeśli masz zgłoszenie <strong>od <em>i</em> dotyczące</strong>uczestnika (na przykład zgłoszenie zostało przekazane <strong>przez</strong> uczestnika i <strong>dotyczy</strong> innego uczestnika), musisz dokonać zgłoszenia za pośrednictwem <a href="{ $community_hotline }">linii pomocy dla Wytycznych dotyczących uczestnictwa w społeczności</a>.
 reporting-if-you-have-a-report-by-email = Jeśli masz zgłoszenie <strong>od <em>i</em> dotyczące</strong>uczestnika (na przykład zgłoszenie zostało przekazane <strong>przez</strong> uczestnika i <strong>dotyczy</strong> innego uczestnika), musisz dokonać zgłoszenia pod adresem <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = Jeśli masz zgłoszenie <strong>dotyczące pracownika, podwykonawcy lub dostawcy</strong> (na przykład zgłoszenie zostało przekazane <strong>przez</strong> pracownika lub <strong>dotyczy</strong> pracownika), musisz dokonać zgłoszenia za pośrednictwem <a href="{ $employee_hotline }">linii pomocy dla pracowników Mozilli</a>.
-reporting-put-another-way = Ujmując to w inny sposób…
+reporting-if-you-have-a-report-involving = Jeśli masz zgłoszenie <strong>dotyczące pracownika, podwykonawcy lub dostawcy</strong> (na przykład zgłoszenie zostało przekazane <strong>przez</strong> pracownika lub <strong>dotyczy</strong> pracownika), musisz dokonać zgłoszenia za pośrednictwem <a href="{ $employee_hotline }">linii pomocy dla pracowników { -brand-name-mozilla(case: "gen") }</a>.
+reporting-put-another-way = Ujmując to w inny sposób…
 reporting-by = Od
 reporting-employee = Pracownika
 reporting-contributor = Uczestnika
@@ -30,14 +30,15 @@ reporting-if-someone-reports-to = Jeśli ktoś przekaże Ci zgłoszenie…
 reporting-do-not-question-or-judge = Nie kwestionuj ani nie oceniaj wrażeń tej osoby.
 reporting-do-not-invite-them-to = Nie zachęcaj jej do wycofania zgłoszenia incydentu.
 reporting-do-not-promise-any-particular = Nie obiecuj żadnej konkretnej odpowiedzi.
-reporting-do-let-them-know-that = <strong>Poinformuj</strong> tę osobę, że aby zasady Mozilli były skuteczne, zgłoszenia powinny być przekazywane za pośrednictwem linii pomocy. Jeśli ta osoba nie czuje się komfortowo, samodzielnie składając zgłoszenie, możesz to zrobić za nią.
+reporting-do-let-them-know-that = <strong>Poinformuj</strong> tę osobę, że aby zasady { -brand-name-mozilla(case: "gen") } były skuteczne, zgłoszenia powinny być przekazywane za pośrednictwem linii pomocy. Jeśli ta osoba nie czuje się komfortowo, samodzielnie składając zgłoszenie, możesz to zrobić za nią.
+reporting-do-let-them-know-that-email = <strong>Poinformuj</strong> tę osobę, że aby zasady { -brand-name-mozilla(case: "gen") } były skuteczne, zgłoszenia powinny być przekazywane za pośrednictwem linii pomocy/wiadomości e-mail. Jeśli ta osoba nie czuje się komfortowo, samodzielnie składając zgłoszenie, możesz to zrobić za nią.
 reporting-no-matter-who-files-the = Bez względu na to, kto składa zgłoszenie, należy zarejestrować poniższe informacje.
-reporting-names-of-the-people-involved = Imiona i nazwiska zaangażowanych osób (lub nie są one znane, należy użyć opisów i wszelkich możliwych do zidentyfikowania informacji, takich jak wygląd, rola, nazwa konta, przynależność do projektu/społeczności).
-reporting-description-of-incident = Opis incydentu, w tym zapadające w pamięć daty (lub zdarzenia) i lokalizacje.
-reporting-if-the-reporter-wants = Jeśli zgłaszający chce dokonać anonimowego zgłoszenia, należy poinformować go, że w takim przypadku nie będziemy mogli przekazać mu aktualizacji. Niektóre przepisy zabraniają przekazywania anonimowych zgłoszeń i mogą wymagać podania imienia i nazwiska, jeśli dana osoba jest menedżerem firmy { -brand-name-mozilla } lub liderem społeczności.
-reporting-relationship-of-reportervictim = Relacja między zgłaszającym a ofiarą.
-reporting-mozilla-managers-and-community = Menedżerowie firmy { -brand-name-mozilla } i liderzy społeczności
-reporting-if-a-mozilla-manager-or = Jeśli menedżerowie firmy { -brand-name-mozilla } i liderzy społeczności zostali poinformowani o potencjalnych naruszeniach <a href="{ $cpg }">Wytycznych dotyczących uczestnictwa w społeczności</a>, powinni natychmiast zgłosić incydent za pośrednictwem odpowiedniej linii pomocy, nawet jeśli pierwotny zgłaszający także przekaże zgłoszenie. Menedżerowie firmy { -brand-name-mozilla } i liderzy społeczności nie mogą badać skarg na własną rękę.
+reporting-names-of-the-people-involved = Imiona i nazwiska zaangażowanych osób (lub jeśli nie są one znane, należy użyć opisów i wszelkich możliwych do zidentyfikowania informacji, takich jak wygląd, rola, nazwa konta, przynależność do projektu/społeczności).
+reporting-description-of-incident = Opis incydentu, w tym zapadające w pamięć daty (lub zdarzenia) i lokalizacje.
+reporting-if-the-reporter-wants = Jeśli zgłaszający chce dokonać anonimowego zgłoszenia, należy poinformować go, że w takim przypadku nie będziemy mogli przekazać mu aktualizacji. Niektóre przepisy zabraniają przekazywania anonimowych zgłoszeń i mogą wymagać podania imienia i nazwiska, jeśli dana osoba jest menedżerem firmy { -brand-name-mozilla } lub liderem społeczności.
+reporting-relationship-of-reportervictim = Relacja między zgłaszającym a ofiarą.
+reporting-mozilla-managers-and-community = Menedżerowie firmy { -brand-name-mozilla } i liderzy społeczności
+reporting-if-a-mozilla-manager-or = Jeśli menedżerowie firmy { -brand-name-mozilla } i liderzy społeczności zostali poinformowani o potencjalnych naruszeniach <a href="{ $cpg }">Wytycznych dotyczących uczestnictwa w społeczności</a>, powinni natychmiast zgłosić incydent za pośrednictwem odpowiedniej linii pomocy, nawet jeśli pierwotny zgłaszający także przekaże zgłoszenie. Menedżerowie firmy { -brand-name-mozilla } i liderzy społeczności nie mogą badać skarg na własną rękę.
 reporting-do-not-impose-your-own = Nie narzucaj własnego osądu co do tego, jak zgłaszający powinien zareagować. Skup się na słuchaniu.
 reporting-what-happens-after-the = Co się dzieje po przesłaniu zgłoszenia
 reporting-investigation = Dochodzenie
