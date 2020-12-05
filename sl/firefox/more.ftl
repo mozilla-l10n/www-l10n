@@ -6,9 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Izdelki { -brand-name-firefox } so zasnovani tako, da varujejo vašo zasebnost
+learn-more-about-firefox = Spoznajte { -brand-name-firefox }, njegovo zgodovino, zmožnosti in poslanstvo
 learn-more-about = Spoznajte { -brand-name-firefox }ove brskalnike in izdelke, ki z vašimi podatki ravnajo spoštljivo in so zasnovani za zasebnost, kjerkoli na spletu se nahajate.
+learn-more-faq = Pogosta vprašanja o { -brand-name-firefox }u
 the-history-of = Zgodovina spletnih brskalnikov
+firefox-has-been = { -brand-name-firefox } obstaja že skoraj od samega začetka.
 firefox-rebel-with = { -brand-name-firefox }: upornik z razlogom
+firefox-is-independent = { -brand-name-firefox } je neodvisen in pod okriljem neprofitne organizacije { -brand-name-mozilla }, ki se bori za vaše pravice na spletu in dela internet dostopen vsakomur, povsod.
 what-is-a = Kaj je spletni brskalnik?
 firefox-is-more = { -brand-name-firefox } je več kot le brskalnik
 get-the-browsers = Izberite brskalnike, ki na prvo mesto postavljajo vašo zasebnost – kot vedno
@@ -16,9 +20,13 @@ take-your-passwords = Vzemite gesla s seboj
 securely-access-the = Varno dostopajte do gesel, shranjenih v { -brand-name-firefox }u kjerkoli – tudi izven brskalnika.
 choose-which-firefox = Izberite, kateri brskalnik { -brand-name-firefox-browser } želite prenesti v svojem jeziku
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } za { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Čeprav ima { -brand-name-chromebook } že nameščen { -brand-name-chrome }, vam { -brand-name-firefox } ponuja nekatere prednosti
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } je bil revolucija v razvoju { -brand-name-firefox }a. Leta 2017 smo ustvarili nov, bliskovito hiter brskalnik, ki se neprenehoma izboljšuje. { -brand-name-firefox-quantum } je postal { -brand-name-firefox-browser }.
+firefox-more-little-book = Mala knjiga zasebnosti
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Imejte dostop do zaznamkov, gesel in ostalih podatkov – povsod, kjer uporabljate { -brand-name-firefox }.
+we-believe-everyone = Verjamemo, da bi dostop do interneta moral imeti vsakdo – zato je { -brand-name-firefox-browser } na voljo v več kot 90 jezikih s pomočjo predanih prostovoljcev z vsega sveta.
 easy-migration-of = Enostaven uvoz nastavitev in zaznamkov, ko prenesete { -brand-name-firefox } za { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } spoštuje vašo zasebnost v sistemu { -brand-name-mac-short }.
 firefox-doesnt-spy = { -brand-name-firefox } ne vohuni za iskanji. Ustavljamo znane sledilne piškotke tretjih strani in vam zagotavljamo popoln nadzor.
