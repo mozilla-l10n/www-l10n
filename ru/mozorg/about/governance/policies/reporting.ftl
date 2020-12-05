@@ -23,7 +23,6 @@ reporting-employee = Сотрудник
 reporting-contributor = Участник
 reporting-about = О ком
 reporting-employee-hotline = Горячая линия для сотрудников
-reporting-community-hotline = Горячая линия для сообщества
 reporting-contractor = Подрядчик
 reporting-vendor = Поставщик
 reporting-if-someone-reports-to = Если вам направляют заявление...
@@ -49,5 +48,5 @@ reporting-when-an-investigation = По завершении расследова
 reporting-no-retaliation = Лояльность
 reporting-mozilla-does-not-tolerate = Компания { -brand-name-mozilla } не применяет дисциплинарные меры к участникам сообщества { -brand-name-mozilla }, которые добросовестно сообщают о нарушениях положений Руководства по комплайенсу (CPG). О случаях мер в отношении сотрудников, проявивших бдительность, следует сообщать по той же схеме, что описана выше.
 reporting-license = Лицензия
-reporting-this-document-includes = Настоящий документ использует контент из редакции <a href="{ $pycon }">Кодекса об этических нормах PyCon (2f4d980)</a>, лицензированного в соответствии с «Непереносимой лицензией CC с указанием авторства версии 3.0» («CC Attribution 3.0 Unported license»).
-reporting-this-document-is-licensed = Настоящий документ лицензирован в соответствии с <a href="{ $license }">«Непереносимой лицензией CC с указанием авторства версии 3.0» («CC Attribution 3.0 Unported license»).</a>.
+reporting-this-document-includes = Настоящий документ использует контент из редакции <a href="{ $pycon }">Кодекса об этических нормах PyCon (2f4d980)</a>, лицензированного в соответствии с «Непереносимой лицензией { -brand-name-creative-commons } с указанием авторства версии 3.0».
+reporting-this-document-is-licensed = Настоящий документ лицензирован в соответствии с <a href="{ $license }">«Непереносимой лицензией { -brand-name-creative-commons } с указанием авторства версии 3.0»</a>.

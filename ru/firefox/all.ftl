@@ -35,6 +35,7 @@ firefox-all-count-on-stability-and = Доверьтесь стабильност
 firefox-all-windows-installers-for = Windows-установщики для организаций, которые упростят настройку, развёртывание и управление { -brand-name-firefox-browser(case: "instrumental") }.
 firefox-all-arm64-installers = Установщики ARM64/AArch64
 firefox-all-arm64-installers-optimized = Установщики ARM64/AArch64 оптимизированные для { -brand-name-windows } ПК на процессорах Snapdragon.
+firefox-all-product-send-link = Отправить ссылку на загрузку на свой телефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Выберите 32-битный установщик для компьютеров с 32-разрядными процессорами или для старых и менее мощных компьютеров. <a href="{ $url }">Если вы не уверены</a>, выбрать ли 64-битный или 32-битный установщик, мы рекомендуем использовать 32-разрядную версию.
@@ -56,3 +57,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

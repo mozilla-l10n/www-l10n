@@ -20,6 +20,7 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 
 ## Firefox browsers
@@ -61,6 +62,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -86,6 +88,8 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -99,6 +103,8 @@
 -brand-name-monitor = Monitor
 -brand-name-send = Send
 -brand-name-sync = Sync
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
 
 ## Firefox products (legacy)
 
@@ -134,6 +140,7 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 
@@ -145,6 +152,7 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -156,6 +164,7 @@
 -brand-name-windows = Windows
 -brand-name-xp = XP
 -brand-name-vista = Vista
+-brand-name-chromeos = Chrome OS
 
 ## Apple products
 
@@ -180,3 +189,4 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
