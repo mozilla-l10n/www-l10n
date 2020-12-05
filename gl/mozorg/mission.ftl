@@ -8,13 +8,13 @@
 mission-were-building-a-better-internet = Estamos construíndo unha Internet mellor
 mission-our-mission-is-to-ensure-the-internet = A nosa misión é garantir que Internet siga sendo un recurso público, aberto e accesíbel para todos. Unha Internet na que as persoas poidan xogar un papel protagonista, na que cada un de nos poida sentirse creador da súa propia experiencia en liña, sempre en control, seguro e independente.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
-mission-our-mission-is-to-promote-openness = A nosa misión é promover a apertura, a innovación e a oportunidade na Web.
-mission-at-mozilla-were-a-global-community = Mozilla é unha comunidade global de tecnólogos, pensadores e programadores que traballa para manter a Internet viva e accesíbel, para que todos sexamos colaboradores informados e creadores da Web.
+mission-our-mission-is-to-promote-openness = A nosa misión é promover a apertura, a innovación e a oportunidade na web.
+mission-at-mozilla-were-a-global-community = Mozilla é unha comunidade global de tecnólogos, pensadores e programadores que traballa para manter a Internet viva e accesíbel, para que todos sexamos colaboradores informados e creadores da web.
 mission-we-believe-this-act-of-human-collaboration = Cremos que este acto de colaboración a través dunha plataforma aberta é esencial para o crecemento de cada un de nos e para o futuro da comunidade.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Lea o <a href="{ $url }">Manifesto de Mozilla</a> para descubrir os valores e principios que guían a persecución da nosa misión.
-mission-watch-the-video-above-to-learn-more = Vexa o vídeo para obter máis información sobre quen somos, de onde vimos e como estamos construíndo unha Web mellor para vostede.
+mission-watch-the-video-above-to-learn-more = Ve o vídeo para obter máis información sobre quen somos, de onde vimos e como estamos a construír unha web mellor para ti.
 mission-get-involved = Involúcrese
 mission-volunteer-opportunities-in-a-number = Oportunidades de voluntariado en diferentes áreas
 mission-history = Historia

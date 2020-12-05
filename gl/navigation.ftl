@@ -48,7 +48,7 @@ navigation-meet-people-in-experimental = Coñece xente nova nas salas de convers
 navigation-mozilla-mixed-reality = Realidade mixta de { -brand-name-mozilla }
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
-navigation-mozilla-brings-virtual = { -brand-name-mozilla } achega a realidade virtual e aumentada á Web libre.
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } achega a realidade virtual e aumentada á web libre.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } abre o { -brand-name-firefox } á realidade aumentada e virtual.
 navigation-firefox-built-just-for = { -brand-name-firefox }, deseñado especificamente para programadores.

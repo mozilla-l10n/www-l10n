@@ -20,7 +20,7 @@ welcome-page4-firefox-private-safe-browser = «{ -brand-name-firefox }: navegado
 welcome-page4-get-data-trackers-off-your = Desfaite dos rastrexadores que se che interpoñan
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
-welcome-page4-enhanced-tracking-protection = Protección mellorada contra o rastrexo <a href="{ $privacy }"> evita que máis de 200 rastrexadores</a> te persigan pola Rede.
+welcome-page4-enhanced-tracking-protection = Protección mellorada contra o rastrexo <a href="{ $privacy }"> evita que máis de 200 rastrexadores</a> te persigan pola rede.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Sen deixaren pegadas
 welcome-page4-automatically-clear-your-history = Elimina automaticamente o seu historial e testemuños co modo de navegación privada.
