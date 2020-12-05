@@ -5,16 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/
 
-participation-community-participation = Wytyczne dotyczące uczestnictwa w społeczności
-participation-mozilla-community = Wytyczne dotyczące uczestnictwa w społeczności Mozilli
-participation-version-31-updated = Wersja 3.1 – zaktualizowano 16 stycznia 2020 r.
-participation-the-heart-of-mozilla = Dla Mozilli najważniejsi są ludzie. Stawiamy ludzi na pierwszym miejscu i staramy się uznawać, doceniać i szanować różnorodność naszych globalnych współtwórców. Projekt { -brand-name-mozilla } przyjmuje wkład od wszystkich osób, którzy podzielają nasze cele i chcą przyczynić się w zdrowy i konstruktywny sposób do naszej społeczności. W związku z tym przyjęliśmy niniejszy kodeks postępowania i wymagamy od wszystkich uczestniczących osób wyrażenia zgody i przestrzegania niniejszych Wytycznych dotyczących uczestnictwa w społeczności, aby pomóc nam stworzyć bezpieczne i pozytywne doświadczenia w społeczności dla wszystkich.
-participation-these-guidelines-aim = Niniejsze wytyczne mają na celu wspieranie społeczności, w której wszyscy ludzie powinni czuć się bezpiecznie, aby w niej uczestniczyć, przedstawiać nowe pomysły i inspirować innych, niezależnie od następujących cech:
+participation-community-participation = Wytyczne dotyczące uczestnictwa w społeczności
+participation-mozilla-community = Wytyczne dotyczące uczestnictwa w społeczności { -brand-name-mozilla(case: "gen") }
+participation-version-31-updated = Wersja 3.1 – zaktualizowano 16 stycznia 2020 r.
+participation-the-heart-of-mozilla = Dla { -brand-name-mozilla(case: "gen") } najważniejsi są ludzie. Stawiamy ludzi na pierwszym miejscu i staramy się uznawać, doceniać i szanować różnorodność naszych globalnych współtwórców. Projekt { -brand-name-mozilla } przyjmuje wkład od wszystkich osób, którzy podzielają nasze cele i chcą przyczynić się w zdrowy i konstruktywny sposób do naszej społeczności. W związku z tym przyjęliśmy niniejszy kodeks postępowania i wymagamy od wszystkich uczestniczących osób wyrażenia zgody i przestrzegania niniejszych Wytycznych dotyczących uczestnictwa w społeczności, aby pomóc nam stworzyć bezpieczne i pozytywne doświadczenia w społeczności dla wszystkich.
+participation-these-guidelines-aim = Niniejsze wytyczne mają na celu wspieranie społeczności, w której wszyscy ludzie powinni czuć się bezpiecznie, aby w niej uczestniczyć, przedstawiać nowe pomysły i inspirować innych, niezależnie od następujących cech:
 participation-background = Pochodzenie
 participation-family-status = Status rodzinny
 participation-gender = Płeć
 participation-gender-identity-or = Tożsamość lub wyrażenie płci
-participation-marital-status = Status małżeński
+participation-marital-status = Stan cywilny
 participation-sex = Seks
 participation-sexual-orientation = Orientacja seksualna
 participation-native-language = Język ojczysty
@@ -23,20 +23,20 @@ participation-ability = Sprawność
 participation-race-andor-ethnicity = Rasa i/lub pochodzenie etniczne
 participation-caste = Kasta
 participation-national-origin = Pochodzenie narodowe
-participation-socioeconomic-status = Status socjoekonomiczny
+participation-socioeconomic-status = Status społecznoekonomiczny
 participation-religion = Religia
-participation-geographic-location = Lokalizacja geograficzna
+participation-geographic-location = Położenie geograficzne
 participation-any-other-dimension = Dowolny inny wymiar różnorodności
-participation-openness-collaboration = Otwartość, współpraca i udział to podstawowe aspekty naszej pracy — od rozwoju przeglądarki { -brand-name-firefox } po wspólne opracowywanie programów nauczania. Czerpiemy siłę z różnorodności i aktywnie szukamy udziału tych, którzy ją wzmacniają. Wytyczne te istnieją po to, by umożliwić różnym jednostkom i grupom interakcję oraz współpracę w celu osiągania obopólnych korzyści. Niniejszy dokument przedstawia zarówno oczekiwane, jak i zakazane zachowania.
-participation-when-and-how-to-use = Kiedy i jak należy używać tych wytycznych
-participation-these-guidelines-outline = Niniejsze wytyczne określają nasze oczekiwania dotyczące zachowań członków społeczności Mozilli we wszystkich działaniach związanych z firmą { -brand-name-mozilla }, zarówno offline, jak i online. Twój udział jest uwarunkowany przestrzeganiem tych wytycznych we wszystkich działaniach związanych z firmą { -brand-name-mozilla }, co obejmuje:
-participation-working-in-mozilla = Pracę w przestrzeniach firmy { -brand-name-mozilla }.
-participation-working-with-other = Pracę z innymi Mozillianami oraz innymi uczestnikami społeczności { -brand-name-mozilla }, zarówno wirtualnie, jak i we wspólnej przestrzeni.
+participation-openness-collaboration = Otwartość, współpraca i udział to podstawowe aspekty naszej pracy — od rozwoju przeglądarki { -brand-name-firefox } po wspólne opracowywanie programów nauczania. Czerpiemy siłę z różnorodności i aktywnie szukamy udziału tych, którzy ją wzmacniają. Wytyczne te istnieją po to, by umożliwić różnym jednostkom i grupom interakcję oraz współpracę w celu osiągania obopólnych korzyści. Niniejszy dokument przedstawia zarówno oczekiwane, jak i zakazane zachowania.
+participation-when-and-how-to-use = Kiedy i jak należy używać tych wytycznych
+participation-these-guidelines-outline = Niniejsze wytyczne określają nasze oczekiwania dotyczące zachowań członków społeczności { -brand-name-mozilla(case: "gen") } we wszystkich działaniach związanych z firmą { -brand-name-mozilla }, zarówno offline, jak i online. Twój udział jest uwarunkowany przestrzeganiem tych wytycznych we wszystkich działaniach związanych z firmą { -brand-name-mozilla }, co obejmuje:
+participation-working-in-mozilla = Pracę w przestrzeniach firmy { -brand-name-mozilla }.
+participation-working-with-other = Pracę z innymi Mozillianami oraz innymi uczestnikami społeczności { -brand-name-mozilla(case: "gen") }, zarówno wirtualnie, jak i we wspólnej przestrzeni.
 participation-representing-mozilla = Reprezentowanie firmy { -brand-name-mozilla } podczas wydarzeń publicznych.
-participation-representing-mozilla-social = Reprezentowanie firmy { -brand-name-mozilla } w mediach społecznościowych (oficjalne konta, konta pracowników, konta osobiste, strony na { -brand-name-facebook }u).
-participation-participating-in-mozilla = Przebywanie w oddziałach firmy { -brand-name-mozilla } i udział w szkoleniach.
-participation-participating-in-mozilla-related = Udział w forach, listach mailingowych, stronach wiki, witrynach internetowych, kanałach czatu, błędach, spotkaniach grupowych lub osobistych związanych z Mozillą oraz korespondencji związanej z Mozillą.
-participation-these-guidelines-work = Niniejsze wytyczne współdziałają z naszymi Zasadami przeciwdziałania molestowaniu i dyskryminacji. <a href="{ $note1 }">[1]</a>, które określają zabezpieczenia oraz zobowiązania pracowników firmy { -brand-name-mozilla }. Zasady przeciwdziałania molestowaniu i dyskryminacji zostały utworzone z uwzględnieniem konkretnych definicji i wymogów prawnych.
+participation-representing-mozilla-social = Reprezentowanie firmy { -brand-name-mozilla } w mediach społecznościowych (oficjalne konta, konta pracowników, konta osobiste, strony na { -brand-name-facebook(case: "loc") }).
+participation-participating-in-mozilla = Przebywanie w oddziałach firmy { -brand-name-mozilla } i udział w szkoleniach.
+participation-participating-in-mozilla-related = Udział w forach, listach pocztowych, stronach wiki, witrynach internetowych, kanałach czatu, systemach śledzenia błędów, spotkaniach grupowych lub osobistych związanych z { -brand-name-mozilla(case: "ins") } oraz korespondencji związanej z { -brand-name-mozilla(case: "ins") }.
+participation-these-guidelines-work = Niniejsze wytyczne współdziałają z naszymi Zasadami przeciwdziałania molestowaniu i dyskryminacji. <a href="{ $note1 }">[1]</a>, które określają zabezpieczenia oraz zobowiązania pracowników firmy { -brand-name-mozilla }. Zasady przeciwdziałania molestowaniu i dyskryminacji zostały utworzone z uwzględnieniem konkretnych definicji i wymogów prawnych.
 participation-while-these-guidelines = Chociaż niniejsze wytyczne / kodeks postępowania zostały ukierunkowane na pracę i społeczność firmy { -brand-name-mozilla }, zdajemy sobie sprawę, że działania podejmowane poza przestrzenią online firmy { -brand-name-mozilla } lub w przestrzeni osobistej mogą mieć głęboki wpływ na zdrowie społeczności. (Na przykład w przeszłości zidentyfikowaliśmy publicznie anonimowy wpis skierowany przeciwko pracownikowi firmy { -brand-name-mozilla }, który został zamieszczony na forum nienależącym do Mozilli, jako wyraźną podstawę do usunięcia ze społeczności Mozilli). Jest to aktywny temat w dziedzinie różnorodności i integracji. Przewidujemy szeroko zakrojone dyskusje w naszych społecznościach na temat odpowiednich granic.
 participation-expected-behavior = Oczekiwane zachowanie
 participation-the-following-behaviors = Od wszystkich Mozillianów oczekuje się następujących zachowań:
