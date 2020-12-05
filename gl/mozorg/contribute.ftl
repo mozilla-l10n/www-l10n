@@ -57,11 +57,11 @@ contribute-newsletter-desc = Subscríbete ó noso boletín, únete ós mozilleir
 ## Support
 
 contribute-support-heading = Obter axuda
-contribute-support-desc = { -brand-name-mozilla } conta cun dedicado equipo de voluntarios que lle axudarán a resolver os problemas que poida ter.
-contribute-mozilla-support = Asistencia para { -brand-name-mozilla }
+contribute-support-desc = { -brand-name-mozilla } conta cun dedicado equipo de voluntarios que te axudarán a resolver os problemas que poidas ter.
+contribute-mozilla-support = Asistencia de { -brand-name-mozilla }
 
 ## Web compat
 
-contribute-web-compat-heading = Dálle problemas unha páxina web?
-contribute-web-compat-desc = Se a súa experiencia nun sitio web difire entre navegadores, é posíbel que se teña topado cun problema de compatibilidade web. ¡Cóntenos máis sobre o asunto!
+contribute-web-compat-heading = Dáche problemas unha páxina web?
+contribute-web-compat-desc = Se a túa experiencia nun sitio web difire entre navegadores, é posíbel que te teñas topado cun problema de compatibilidade web. ¡Cóntanos máis sobre o asunto!
 contribute-report-issue = Informar dunha incidencia
