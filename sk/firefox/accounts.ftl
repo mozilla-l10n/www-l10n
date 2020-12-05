@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Existuje spôsob, ako chrániť vaše súkromie. Prihláste sa do { -brand-name-firefox }u.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Vytvorte si účet Firefox - majte svoje údaje v bezpečí a synchronizované
+firefox-accounts-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } - majte svoje údaje v bezpečí a synchronizované
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Postavte sa proti spoločnostiam, ktoré predávajú vaše údaje tretím stranám. Používajte technológiu, ktorá za vás bojuje.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si účet Firefox hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
+firefox-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Existuje spôsob, ako chrániť vaše súkromie. <span>Prihláste sa do { -brand-name-firefox }u.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

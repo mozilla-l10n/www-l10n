@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Úvodná stránka vývojovej verzie Firefoxu
+nightly-firstrun-firefox-nightly = Úvodná stránka { -brand-name-firefox-nightly(case: "gen") }
 nightly-firstrun-thank-you-for-using = Ďakujeme, že používate { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Zvoľte oblasť, do ktorej by ste sa radi zapojili a pomohli tak vylepšiť { -brand-name-firefox } pre všetkých
 nightly-firstrun-test = Testovanie

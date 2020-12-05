@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Prehliadač Firefox - jednoduchá správa hesiel
+password-manager-firefox-browser = { -brand-name-firefox-browser } - jednoduchá správa hesiel
 # HTML page description
 password-manager-firefox-password = Správca hesiel vo { -brand-name-firefox }e ukladá všetky vaše heslá na jednom mieste, aby ste sa mohli jednoducho prihlásiť na stránky alebo obnoviť uložené heslá.
 # Hero title
