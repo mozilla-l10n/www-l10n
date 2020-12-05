@@ -22,12 +22,12 @@ contribute-tag-individual-event = Organización individual e de eventos
 contribute-tag-individual = Individual
 contribute-tag-support = Asistencia a usuarios
 contribute-task-translate-heading = Traducir contido
-contribute-task-translate-desc = A Internet só é global se se entende en todas partes. Axúdenos a traducir produtos e sitios web de { -brand-name-mozilla } á túa língua.
-contribute-task-mozilla-codebase-heading = Contribuí á base do código de { -brand-name-mozilla }
-contribute-task-mozilla-codebase-desc = Colabore en diversas oportunidades de programación para mellorar activamente os produtos { -brand-name-mozilla }.
+contribute-task-translate-desc = A Internet só é global se se entende en todas partes. Axúdanos a traducir produtos e sitios web de { -brand-name-mozilla } á túa língua.
+contribute-task-mozilla-codebase-heading = Contribúe á base do código de { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Colabora en diversas oportunidades de programación para mellorar activamente os produtos { -brand-name-mozilla }.
 contribute-task-support-desc = Axuda a facer que os produtos { -brand-name-mozilla } sexan doados de usar: responde ás preguntas de "axuda" das persoas como parte dos foros da Comunidade de asistencia de { -brand-name-mozilla }.
 contribute-task-join-heading = Unirse á comunidade
-contribute-task-join-desc = Para maior participación na comunidade { -brand-name-mozilla }, bótelle unha ollada a todas as oportunidades de voluntariado no noso Portal comunitario.
+contribute-task-join-desc = Para maior participación na comunidade { -brand-name-mozilla }, bótalle unha ollada a todas as oportunidades de voluntariado no noso Portal comunitario.
 
 ## Mission
 
@@ -44,15 +44,15 @@ contribute-opportunities = Novidades e oportunidades de voluntariado
 
 ## Made by
 
-contribute-made-by-heading = Feito por xente dedicada coma vostede
-contribute-made-by-desc = Cando calabora con { -brand-name-mozilla }, está a formar parte dunha comunidade mundial de persoas que cren que todos temos o papel de garantir que a Internet siga sendo unha forza para facer o ben.
-contribute-made-by-desc-cont = Cremos que a colaboración comunitaria é vital para crear unha Internet diversa, innovadora e responsable para quen máis o precise. Xa teña experiencia en tecnoloxía, en organización de comunidades ou unicamente un computador e algo de tempo libre, vostede pode axudarnos a facer da Internet un lugar mellor.
+contribute-made-by-heading = Feito por xente dedicada coma ti
+contribute-made-by-desc = Cando calaboras con { -brand-name-mozilla }, estás a formar parte dunha comunidade mundial de persoas que cren que todos temos o papel de garantir que a Internet siga sendo unha forza para facer o ben.
+contribute-made-by-desc-cont = Cremos que a colaboración comunitaria é vital para crear unha Internet diversa, innovadora e responsable para quen máis o precise. Xa teñas experiencia en tecnoloxía, en organización de comunidades ou unicamente un computador e algo de tempo libre, podes axudarnos a facer da Internet un lugar mellor.
 
 ## Newsletter
 
-contribute-newsletter-heading = Aínda non está seguro?
-contribute-newsletter-sub-heading = Reciba novas sobre a comunidade e as contribucións na súa caixa de entrada
-contribute-newsletter-desc = Subscríbase ó noso boletín, únase ós mozillianos de todo o mundo e coñeza as oportunidades que marcan a diferencia para apoiar á misión de { -brand-name-mozilla }.
+contribute-newsletter-heading = Aínda non estás seguro?
+contribute-newsletter-sub-heading = Recibe novas sobre a comunidade e as contribucións na túa caixa de entrada
+contribute-newsletter-desc = Subscríbete ó noso boletín, únete ós mozilleiros de todo o mundo e coñece as oportunidades que marcan a diferencia para apoiar á misión de { -brand-name-mozilla }.
 
 ## Support
 
