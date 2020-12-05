@@ -25,9 +25,14 @@ best-browser-there-are-a-few-ways = Haber hai xeitos nos que un navegador pode a
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = A segunda é non almacenar demasiados datos do usuario. Os piratas informáticos non poden roubar o que non hai, razón pola cal { -brand-name-firefox } retén unha cantidade de información mínima sobre os seus usuarios. <a href="{ $data }">{ -brand-name-firefox } sabe </a> se usas o navegador e a túa localización xeral, <a href="{ $privacy }">pero non o nome da túa mascota da infancia ou a túa cor favorita.</a>
+best-browser-we-visit-hundreds-or = Visitamos decote centos ou incluso miles de sitios web, e non podemos esperar que os usuarios tomen decisións de seguridade e privacidade para cada un deles. Por iso é tan importante que un navegador que che proporcione máis control: porque ofrece unha protección real e significativa.
 best-browser-a-browser-that-minds = Un navegador que non vai metendo os fociños por aí.
 best-browser-privacy-on-the-web = A privacidade na web é un problema candente, e se é o número un da túa lista de prioridades, convenche buscar un navegador que te tome en serio. Á hora de escolleres o mellor navegador privado, consulta a política de seguimento e a maneira na que o navegador trata os teus datos. Poden parecer preguntas técnicas, pero son a razón pola cal algúns navegadores son máis privados ca outros.
 best-browser-trackers-are-all-those = Os rastrexadores son todas esas mensaxes de testemuños tan molestas que recibes nos sitios das compañías aéreas. Estes rastrexadores de terceiros saben onde clicas e pódense usar para analizar o teu comportamento. Un navegador privado debería dar aos usuarios a opción de desactivar os rastrexadores de terceiros, pero o ideal sería telos desactivados por defecto.
+best-browser-another-way-to-stop = Outra forma de impedireslle a labor aos rastrexadores é usar o modo privado no momento de navegar. Calquera navegador que afirme ser privado debería ofrecer navegación neste modo.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-one-easy-way-to-check = Un xeito doado de comprobalo é visitarmos a páxina de configuración de contido e a política de privacidade do navegador. A páxina web da privacidade debería especificar se os teus datos son compartidos e por que. Por iso é que o <a href="{ $privacy }">aviso de privacidade do { -brand-name-firefox }</a> é doado de ler e encontrar.
 best-browser-choosing-the-best-browser = Escoller o mellor navegador que se adapte a ti é moi semellante a escoller unha casa: queres explorar as súas opcións, investigar e tomar unha decisión en función do que é importante para ti.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
