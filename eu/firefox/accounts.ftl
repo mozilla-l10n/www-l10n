@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Pribatutasuna babesteko era bat dago. Batu { -brand-name-firefox }era.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Sortu Firefox kontu bat – mantendu zure datuak pribatuan, babesturik eta sinkronizaturik
+firefox-accounts-get-a-firefox-account = Eskuratu { -brand-name-firefox-account } kontu bat eta mantendu zure datuak pribatuan, babestuta eta sinkronizatuta
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Egin borroka zure datuak hirugarrengoei saltzen dizkien industriaren aurka. Mantendu burutsu eta babesturik online zure alde borroka egiten duen teknologiarekin.
 # Old HTML page description
