@@ -5,7 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# HTML page title
+firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } はブラウザーの枠にとらわれません
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-check-for-breaches = データ侵害を確認する
+firefox-products-sign-up-for-breach-alerts = アカウント登録して通知を受ける
 firefox-products-firefox-browsers = { -brand-name-firefox } ブラウザー
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }

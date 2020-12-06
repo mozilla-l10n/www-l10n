@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-e
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = 最も安定したプレリリース版で、まもなく公開される機能を試せます。
 firefox-channel-release-notes = リリースノート
+firefox-channel-previous-nightly-builds = 以前の { -brand-name-nightly } ビルド
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = 開発者のためだけに作られた唯一のブラウザーで、サイトの制作や動作確認を簡単に。
 # Variables:

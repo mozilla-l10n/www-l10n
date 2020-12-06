@@ -18,6 +18,7 @@ firefox-all-platform = OS:
 firefox-all-language = 言語:
 firefox-all-lang-multi = 多言語
 firefox-all-sorry-we-couldnt-find = お探しのダウンロードが見つかりませんでした。もう一度試すか、下のリストからダウンロードを選択してください。
+firefox-all-the-pre-alpha-version = 実装されたばかりの新機能をテストし、クラッシュバグを見つけたいパワーユーザー向けのプレアルファ版です。
 firefox-all-64-bit-installers = 64 ビットインストーラー
 firefox-all-choose-a-64-bit-installer = 64 ビット CPU を搭載したコンピューターには、プログラムに多くのメモリーを割り当てられる 64 ビット版のインストーラーを選んでください。これは、ゲームや他の要求の厳しいアプリケーションにとって特に重要です。
 firefox-all-32-bit-installers = 32 ビットインストーラー
@@ -31,9 +32,11 @@ firefox-all-learn-about-firefox = { -brand-name-firefox } ブラウザーの詳�
 firefox-all-the-standard-firefox = 高速でプライベートな標準の { -brand-name-firefox } ブラウザーです。どの { -brand-name-firefox } を選択すればよいか分からない場合は、これを選択してください。
 firefox-all-get-a-sneak-peek-at = 正式リリースされる前に、最新の { -brand-name-firefox } ブラウザーの機能を確認できます。
 firefox-all-test-your-sites-against = 間もなくリリースされる { -brand-name-firefox } ブラウザーの機能であなたのサイトをテストしましょう。既定でオンになっている強力で柔軟な開発ツールが使用できます。
+firefox-all-count-on-stability-and = 法人向けに構築されたこの { -brand-name-firefox } ブラウザーの安定性と使いやすさにご期待ください。
 firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成、配備、管理を簡素化する、企業の IT 管理者向けの Windows 版インストーラーです。
 firefox-all-arm64-installers = ARM64/AArch64 インストーラー
 firefox-all-arm64-installers-optimized = Snapdragon 搭載の { -brand-name-windows } PC 用に最適化された ARM64/AArch64 インストーラー。
+firefox-all-product-send-link = ダウンロードリンクを端末に送信する
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 ビット CPU を搭載したコンピューター、または古いものや性能の低いコンピューターには、32 ビット版のインストーラーを選んでください。64 ビット版と 32 ビット版の<a href="{ $url }">どちらを選ぶべきか分からない</a>ときは、どちらでも動作する 32 ビット版の使用をお勧めします。
@@ -55,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-ios } 版 { -brand-name-firefox }

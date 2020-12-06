@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = 世界中で何百万もの人々
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }。十分に制御。他での暮らしを自分で管理。
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } 拡張機能をインストール
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } をダウンロードして { -brand-name-facebook-container } 拡張機能をインストール
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } 拡張は現在、デスクトップ版 { -brand-name-firefox } のみに対応しています。
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = <a href="{ $url }">{ $link_copy }</a> にアクセスして、デスクトップ版 { -brand-name-firefox } を入手してください。
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } 拡張機能はモバイル端末には対応していません。
+facebook-container-get-firefox-android-ios = 今すぐ { -brand-name-android }/{ -brand-name-ios } 版 { -brand-name-firefox } を入手
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } と { -brand-name-ios } 向けのプライバシー保護ブラウザー <strong>{ -brand-name-firefox-focus }</strong> を試してください。
 facebook-container-opt-out-on-your-terms = あなたの条件通りにオプトアウト
