@@ -10,7 +10,7 @@ reporting-how-to-report-violations = コミュニティ参加ガイドライン�
 reporting-this-document-provides = 本ドキュメントでは、{ -brand-name-mozilla } のコミュニティ参加ガイドライン違反についての詳細と違反を報告する方法をご説明します。
 reporting-from-the-community-participation = <a href="{ $cpg }">コミュニティ参加ガイドライン</a>には、以下のように記されています。
 reporting-the-heart-of-mozilla-is = { -brand-name-mozilla } の中心となるのは「人」です。私たちは「人」を最優先にしており、世界中で貢献してくださる方の多様性を認識し、感謝し、尊重することに最善を尽くしています。{ -brand-name-mozilla } プロジェクトは、私たちと同じゴールを目指し、私たちのコミュニティにおいて健全かつ建設的な方法で貢献したいと考えてくださるすべての方の活動を歓迎します。そこで、私たちはこの行動規範を導入することにしました。すべての方が安全でポジティブなコミュニティ体験を得るお手伝いをするために、参加者の皆さんが本コミュニティ参加ガイドラインに同意し、順守してもらえるようお願いします。
-reporting-this-document-is-intended = 本ドキュメントは、既存のドキュメントやプロセス、人々の橋渡しとなることを目的としています。
+reporting-this-document-is-intended = 本ドキュメントは、{ -brand-name-mozilla } のコミュニティが健全であり、すべての人が参加できるようにするために、既存のドキュメントやプロセス、人々の橋渡しとなることを目的としています。
 reporting-when-to-report = 報告する時
 reporting-please-report-all-incidents = <a href="{ $cpg }">コミュニティ参加ガイドラインに詳細が記されている</a>ような、潜在的に違法な行為を行った、あるいは、あなた自身や他の人が不安や不快感を抱いたり、不愉快に感じたりするような行動をとった人がいた場合はすべて、インシデントを報告してください。
 reporting-how-to-give-a-report = 報告の方法
@@ -23,7 +23,6 @@ reporting-employee = 従業員
 reporting-contributor = コミュニティメンバー
 reporting-about = 報告対象者
 reporting-employee-hotline = 従業員ホットライン
-reporting-community-hotline = コミュニティホットライン
 reporting-contractor = 契約社員
 reporting-vendor = ベンダー
 reporting-if-someone-reports-to = あなたが報告を受けた場合は...
