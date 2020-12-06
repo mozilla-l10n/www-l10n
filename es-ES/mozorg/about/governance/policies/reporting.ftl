@@ -16,6 +16,7 @@ reporting-please-report-all-incidents = Por favor, denuncia todos los incidentes
 reporting-how-to-give-a-report = Cómo presentar una denuncia
 reporting-if-you-believe-someone = Si crees que alguien está en peligro físicamente, llama al teléfono de emergencias de tu país.
 reporting-if-you-have-a-report-by = Si se trata de una denuncia realizada <strong>por <em>y</em> sobre</strong> un colaborador (por ejemplo, cuando un colaborador denuncia el comportamiento de otro colaborador ), en ese caso debes hacer la denuncia a través de la <a href="{ $community_hotline }">línea directa para asuntos relacionados con las Pautas para la participación en la comunidad</a>.
+reporting-if-you-have-a-report-by-email = Si tienes una denuncia<strong>de <em>y</em> acerca de</strong> un colaborador (por ejemplo, la denuncia es <strong>de</strong> un colaborador <strong>acerca de</strong> otro colaborador), entonces deberías hacer tu denuncia en <a href="{ $mailto_report }>cpg-report@mozilla.com</a>.
 reporting-if-you-have-a-report-involving = Si se trata de una denuncia<strong>que involucra a un empleado, contratista o proveedor</strong> (por ejemplo, cuando la denuncia la presenta un empleado o involucra a un empleado), en ese caso debes informarnos a través de la <a href="{ $employee_hotline }">línea directa para empleados de { -brand-name-mozilla }</a>.
 reporting-put-another-way = Dicho de otra manera:
 reporting-by = Por
@@ -23,7 +24,6 @@ reporting-employee = Empleado
 reporting-contributor = Colaborador
 reporting-about = Sobre
 reporting-employee-hotline = Línea directa para empleados
-reporting-community-hotline = Línea directa de la comunidad
 reporting-contractor = Contratista
 reporting-vendor = Proveedor
 reporting-if-someone-reports-to = Si alguien te presenta una denuncia...
@@ -31,6 +31,7 @@ reporting-do-not-question-or-judge = No cuestiones o juzgues su experiencia.
 reporting-do-not-invite-them-to = No le pidas que retire la denuncia.
 reporting-do-not-promise-any-particular = No prometas una respuesta en concreto.
 reporting-do-let-them-know-that = <strong>Hazle</strong> saber que para que la política de { -brand-name-mozilla } tenga un impacto en la comunidad, los informes deben hacerse a través de la línea directa. Si una persona no se siente cómoda presentando una denuncia, puedes hacerlo por ella.
+reporting-do-let-them-know-that-email = <strong>Hazle</strong> saber que para que la política de { -brand-name-mozilla } tenga un impacto en la comunidad, los informes deben hacerse a través de la línea directa/correo electrónico. Si una persona no se siente cómoda presentando una denuncia, puedes hacerlo por ella.
 reporting-no-matter-who-files-the = No importa quién presente la denuncia, es importante que incluya la siguiente información.
 reporting-names-of-the-people-involved = Nombres de las personas involucradas (si no se conocen los nombres, utiliza descripciones y cualquier información que las identifique como aspecto, cargo, ganancias, afiliación a la comunidad o proyecto).
 reporting-description-of-incident = Descripción del incidente, incluyendo fechas (o evento) y lugares memorables.
@@ -38,6 +39,7 @@ reporting-if-the-reporter-wants = Si el denunciante desea hacer una denuncia an�
 reporting-relationship-of-reportervictim = Relación entre el denunciante y la víctima
 reporting-mozilla-managers-and-community = Directivos de { -brand-name-mozilla } y líderes de la comunidad
 reporting-if-a-mozilla-manager-or = Si un directivo de { -brand-name-mozilla } o líder de la comunidad recibe una denuncia relacionada con una posible infracción de las <a href="{ $cpg }">pautas para la participación en la comunidad</a>, deberá denunciar el incidente inmediatamente a través de la línea directa correspondiente, incluso en el caso que el denunciante inicial también presente una denuncia. Los directivos de { -brand-name-mozilla } y líderes de la comunidad no pueden investigar las quejas por su cuenta.
+reporting-if-a-mozilla-manager-or-email = Si un directivo de { -brand-name-mozilla } o líder de la comunidad recibe una denuncia relacionada con una posible infracción de las <a href="{ $cpg }">pautas para la participación en la comunidad</a>, deberá denunciar el incidente inmediatamente a través de la línea directa/correo electrónico correspondiente, incluso en el caso que el denunciante inicial también presente una denuncia. Los directivos de { -brand-name-mozilla } y líderes de la comunidad no pueden investigar las quejas por su cuenta.
 reporting-do-not-impose-your-own = No impongas tu propia opinión sobre cómo debe reaccionar el denunciante. Intenta escuchar.
 reporting-what-happens-after-the = Qué sucede después de presentar una denuncia
 reporting-investigation = Investigación
