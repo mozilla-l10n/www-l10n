@@ -63,3 +63,7 @@ compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } n
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar = { -brand-name-firefox } nusüj chuqa' jun samajib'äl richin ximoj toq natz'ib'aj ab'i' richin jun sipan <a { $attrs }>{ -brand-name-firefox-account }</a> ri nuya' q'ij chi ke ri okisanela' richin anin ye'axïm ri taq ayaketal, kinatab'al okem pa k'amaya'l, taq ajowab'äl, ewan taq tzij, etz'aqatisan pa nojwuj, taq tz'aqat chuqa' ri ruk'isib'äl 25 jaqon taq ruwi' chi kikojol jalajöj taq molaj. Ri nijachon { -brand-name-firefox } rik'in { -brand-name-safari } chi k'o pa xab'achike kematz'ib' o runuk'uche'el oyonib'äl, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } o { -brand-name-macos }, ri nunimirisaj ruk'waxik pa xab'achike okisab'äl xtik'oje' pan aq'a'.
+# Variables:
+#   $ios (string) - link to Apple store with additional attributes for analytics
+#   $android (string) - link to Google Play store with additional attributes for analytics
+compare-safari-the-firefox-app-for-ios-and = Ri ruchokoy { -brand-name-firefox } richin <a { $ios }>{ -brand-name-ios }</a> chuqa' <a { $android }>{ -brand-name-android }</a> jun chi ke chi anin okik'amaya'l k'o chuqa' jikïl taq rub'anikil chi rij jikomal — man nuya' ta q'ij noqäx: Jun nïm uchuq'a' to yatok pa okik'amaya'l chi kikojol jun kematz'ib' chuqa' oyonib'äl taq okisab'äl.
