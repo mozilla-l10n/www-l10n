@@ -64,3 +64,4 @@ contribute-mozilla-support = Ayuda de { -brand-name-mozilla }
 
 contribute-web-compat-heading = ¿Problemas con una página web?
 contribute-web-compat-desc = Si tu experiencia con un sitio web difiere entre navegadores, es posible que hayas descubierto un problema de compatibilidad web. ¡Nos encantaría saberlo!
+contribute-report-issue = Informar de un problema
