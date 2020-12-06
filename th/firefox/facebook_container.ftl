@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = ผู้คนเป็นล้
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } ถูกกักกันเป็นอย่างดี ขีดเส้นคั่นระหว่างส่วนอื่นๆ ในชีวิตของคุณ
 facebook-container-get-the-facebook-container = รับส่วนขยาย { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = ดาวน์โหลด { -brand-name-firefox } และรับส่วนขยาย { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = ขณะนี้ส่วนขยาย { -brand-name-facebook-container } มีให้ใช้เฉพาะสำหรับ { -brand-name-firefox } สำหรับเดสก์ท็อปเท่านั้น
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = เยี่ยมชม <a href="{ $url }">{ $link_copy }</a> เพื่อรับ { -brand-name-firefox } สำหรับเดสก์ท็อป
+# Outdated string
 facebook-container-the-facebook-container-extension = ส่วนขยาย { -brand-name-facebook-container } ไม่สามารถใช้งานได้บนอุปกรณ์พกพา
+facebook-container-get-firefox-android-ios = รับ { -brand-name-firefox } สำหรับ { -brand-name-android } และ { -brand-name-ios } ตอนนี้
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = ลอง <strong>{ -brand-name-firefox-focus }</strong> เบราว์เซอร์ความเป็นส่วนตัวสำหรับ { -brand-name-android } และ { -brand-name-ios }
 facebook-container-opt-out-on-your-terms = เลือกออกด้วยข้อกำหนดของคุณ
