@@ -47,8 +47,8 @@ navigation-v2-view-all-products = Ver todos os produtos
 
 ## Who We Are menu
 
-navigation-v2-who-we-are = Quén somos
-navigation-v2-close-who-we-are-menu = Pechar o menú Quén somos
+navigation-v2-who-we-are = Quen somos
+navigation-v2-close-who-we-are-menu = Pechar o menú Quen somos
 navigation-v2-mozilla-manifesto = Manifesto de { -brand-name-mozilla }
 navigation-v2-learn-about-the-values = Coñece os valores e principios que guían a nosa misión.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
