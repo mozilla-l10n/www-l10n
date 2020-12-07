@@ -31,6 +31,13 @@ navigation-v2-products = 제품
 navigation-v2-close-products-menu = 제품 메뉴 닫기
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = 내 이메일이 회사의 데이터 유출에 있는지 확인해 보세요.
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = 웹에 있는 최고의 이야기를 찾고 저장하세요.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = { -brand-name-facebook }이 다른 사이트에서 사용자의 데이터를 수집하지 못하게 도와주세요.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = 모든 기기에서 브라우저외에도 보호를 받으세요.
+navigation-v2-product-promise = 제품 약속
 
 ## Who We Are menu
 
