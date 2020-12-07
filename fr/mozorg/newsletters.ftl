@@ -44,7 +44,7 @@ newsletters-format = Format :
 newsletters-text-subscribers-will-receive = Les personnes abonnées à nos SMS recevront deux courriers électroniques par an pour confirmer le maintien de l’abonnement. Ces courriers électroniques pourront inclure du langage HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = De nombreuses communications de notre part sont liées à un compte que vous avez ouvert, comme votre compte Firefox, { -brand-name-mdn-web-docs } ou l’outil de développement de modules. Pour gérer l’un de vos comptes ou consulter la liste de tous vos comptes, rendez-vous sur notre <a href="{ $url }">page d’aide à la gestion des comptes</a>.
+newsletters-many-of-our-communications = Nombre de nos communications sont liées à un compte que vous avez ouvert tel que votre { -brand-name-firefox-account }, { -brand-name-mdn-web-docs } ou développeur de modules. Pour gérer l’un de vos comptes ou consulter la liste de tous vos comptes, rendez-vous sur notre <a href="{ $url }">page d’aide à la gestion des comptes</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Pour accéder à tout l’univers des produits, des connaissances et des services { -brand-name-firefox } avec un seul compte, rejoignez-nous ! Pour en savoir plus sur les avantages, c’est <a href="{ $url }">par ici</a>.
