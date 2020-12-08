@@ -8,6 +8,8 @@
 best-browser-find-your-best-browser = Γνωρίστε το καλύτερο πρόγραμμα περιήγησης για ταχύτητα, απόρρητο και ασφάλεια.
 best-browser-privacy-speed-and-security = Απόρρητο, ταχύτητα και ασφάλεια.
 best-browser-how-to-choose-the-best = Πώς να επιλέξετε το καλύτερο πρόγραμμα περιήγησης για εσάς.
+best-browser-marshall-erwin-senior = Marshall Erwin, Γενικός διευθυντής εμπιστοσύνης και ασφαλείας της { -brand-name-mozilla }
+best-browser-if-youre-wondering = Αν αναρωτιέστε τι σημαίνει να έχετε ένα ιδιωτικό ή γρήγορο πρόγραμμα περιήγησης, ορίστε μια ανάλυση με τα τρία πράγματα που θα έπρεπε να έχει ένα πρόγραμμα περιήγησης.
 best-browser-a-browser-built-for = Ένα πρόγραμμα περιήγησης αναπτυγμένο για ταχύτητα.
 best-browser-a-browser-that-puts = Ένα πρόγραμμα περιήγησης με προτεραιότητα στην ασφάλεια.
 best-browser-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησης σας.
