@@ -11,4 +11,4 @@ whatsnew-s2d-want-privacy-on-every-device = Queres privacidade en todos os dispo
 whatsnew-s2d-you-got-it-get-firefox-for = Fácil! Descarga a versión para móbiles do { -brand-name-firefox }.
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Instala o { -brand-name-firefox } no teléfono<br> e libera o potencial da Internet.
-whatsnew-s2d-download-firefox-for-your = Descargar o { -brand-name-firefox } para o móbil ou a tableta.
+whatsnew-s2d-download-firefox-for-your = Descarga o { -brand-name-firefox } para o móbil ou a tableta.

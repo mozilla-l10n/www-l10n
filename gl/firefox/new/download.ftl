@@ -48,7 +48,7 @@ firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatible co { -brand-name-firefox }</a>.
+firefox-new-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatíbel co { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

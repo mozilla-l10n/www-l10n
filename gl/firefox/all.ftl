@@ -25,12 +25,12 @@ firefox-all-32-bit-installers = Instaladores de 32 bits
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Descarga o { -brand-name-firefox-browser } en galego e en máis de 90 idiomas
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Todos merecemos acceso á Internet, e o teu idioma nunca debería supor unha barreira. Por iso, grazas á axuda de voluntarios de todo o mundo, facemos que { -brand-name-firefox-browser } estea dispoñible en máis de 90 idiomas.
+firefox-all-everyone-deserves-access = Todos merecemos acceso á Internet, e o teu idioma nunca debería supor unha barreira. Por iso, grazas á axuda de voluntarios de todo o mundo, facemos que { -brand-name-firefox-browser } estea dispoñíbel en máis de 90 idiomas.
 firefox-all-choose-which-firefox = Escolle que { -brand-name-firefox-browser } queres descargar no teu idioma
 firefox-all-firefox-privacy-notice = Política de privacidade do { -brand-name-firefox }
 firefox-all-learn-about-firefox = Máis información sobre os navegadores { -brand-name-firefox }
 firefox-all-the-standard-firefox = O navegador { -brand-name-firefox } estándar: rápido e privado. Se non estás seguro de que navegador { -brand-name-firefox } escoller, escolle este.
-firefox-all-get-a-sneak-peek-at = Bótalle unha ollada ás últimas caracterísiticas do navegador { -brand-name-firefox } antes do seu lanzamento.
+firefox-all-get-a-sneak-peek-at = Bótalle unha ollada ás últimas características do navegador { -brand-name-firefox } antes do seu lanzamento.
 firefox-all-test-your-sites-against = Usa ferramentas para programadores potentes, flexíbeis e xa activadas por defecto, e pon a proba os teus sitios web coas características próximamente dispoñíbeis do navegador { -brand-name-firefox }.
 firefox-all-count-on-stability-and = Con este navegador { -brand-name-firefox } creado para empresas, un pode contar coa estabilidade e facilidade de uso.
 firefox-all-windows-installers-for = Instaladores de Windows para departamentos informáticos empresariais; simplifican a configuración, distribución e xestión do { -brand-name-firefox-browser }.

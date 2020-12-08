@@ -129,7 +129,7 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 firefox-desktop-download-as-the-internet = A pesar de que Internet segue medrando e cambiando, o { -brand-name-firefox } continúa a centrarse no dereito á privacidade. Nós chamámoslle <a { $attrs }>Compromiso cos datos persoais</a>: recoller menos datos, mantelos a salvo e sen segredos. O { -brand-name-firefox } é o único que protexe os datos, a actividade e a vida en liña.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está dispoñible para todos os dispositivos, de xeito que sempre poderás levar contigo as lapelas, o historial e os marcadores. O único que precisas é unha <a { $attrs }>conta { -brand-name-firefox }</a>.
+firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está dispoñíbel para todos os dispositivos, de xeito que sempre poderás levar contigo as lapelas, o historial e os marcadores. O único que precisas é unha <a { $attrs }>conta { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Tira unha imaxe de alta resolución de calquera cousa que atopes en Internet coa ferramenta de captura de pantalla integrada no navegador.
@@ -169,7 +169,7 @@ firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatible co { -brand-name-firefox } </a>.
+firefox-desktop-download-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatíbel co { -brand-name-firefox } </a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

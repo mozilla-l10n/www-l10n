@@ -30,7 +30,7 @@ firefox-privacy-hub-youll-always-know-where-you = Connosco, sempre saberás onde
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Aquí non hai intencións ocultas. A nosa empresa non depende de abusar secretamente da túa confianza. A nosa <a href="{ $privacy }">Política de privacidade</a> é realmente lexible. Calquera persoa do mundo pode asistir ás nosas <a href="{ $meetings }">reunións semanais de empresa</a>. Se quixeres explorar todos os datos que recollemos, o noso código está aberto. E tamén nós o estamos.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Aquí non hai intencións ocultas. A nosa empresa non depende de abusar secretamente da túa confianza. A nosa <a href="{ $privacy }">Política de privacidade</a> é realmente lexíbel. Calquera persoa do mundo pode asistir ás nosas <a href="{ $meetings }">reunións semanais de empresa</a>. Se quixeres explorar todos os datos que recollemos, o noso código está aberto. E tamén nós o estamos.
 firefox-privacy-hub-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
