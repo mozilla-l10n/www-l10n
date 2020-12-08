@@ -42,7 +42,7 @@ navigation-learn-how-to-customize = Obtén máis información sobre como persona
 navigation-explore-the-immersive = Navega pola web envolvente cunhas gafas de realidade virtual.
 # Outdated string
 navigation-experience-augmented = Achégate á realidade aumentada e virtual co { -brand-name-firefox }.
-navigation-get-together = Reúnete con outras personas na realidade virtual grazas a este espazo social en liña.
+navigation-get-together = Reúnete con outras persoas na realidade virtual grazas a este espazo social en liña.
 # Outdated string
 navigation-meet-people-in-experimental = Coñece xente nova nas salas de conversa experimentais de realidade mixta do { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = Realidade mixta de { -brand-name-mozilla }
