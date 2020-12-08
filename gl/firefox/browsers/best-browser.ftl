@@ -19,7 +19,7 @@ best-browser-a-browser-built-for = Un navegador veloz de natureza.
 best-browser-a-browser-is-still = Un navegador segue sendo unha ferramenta, polo que ten sentido que queiras escoller o mellor. Se es unha persoa que precisa do traballo para sobrevivir, has de necesitar un navegador rápido. Algo que considerar é que un navegador que executa rastrexadores de terceiros probabelmente será máis lento do que outro que non fai tal. Os rastrexadores de terceiros son testemuños e, aínda que non os poidas ver, estanse executando en segundo plano e consumindo un tempo valiosísimo. Cantos máis rastrexadores de terceiros bloquee un navegador, máis rápido poderá executarse.
 best-browser-this-is-one-of-the = Esta é unha das moitas razóns polas que escoller o navegador { -brand-name-firefox }: { -brand-name-firefox } bloquea automaticamente os rastrexadores de terceiros. Mais temos outros motivos que trataremos máis adiante.
 best-browser-a-browser-that-puts = Un navegador que prioriza a seguridade.
-best-browser-remember-the-last-massive = Lembraste da última violación masiva de datos? A que non? Iso pode ser porque ocorre con moitísima frecuencia: as empresas aférranse aos datos dos clientes, como a súa información persoal ou financeira, e os piratas informáticos a rouban. Se xa comezaches a priorizar a seguridade, un navegador web seguro será a mellor opción para ti.
+best-browser-remember-the-last-massive = Lémbraste da última violación masiva de datos? A que non? Iso pode ser porque ocorre con moitísima frecuencia: as empresas aférranse aos datos dos clientes, como a súa información persoal ou financeira, e os piratas informáticos a rouban. Se xa comezaches a priorizar a seguridade, un navegador web seguro será a mellor opción para ti.
 best-browser-there-are-a-few-ways = Haber hai xeitos nos que un navegador pode axudar aos seus usuarios a continuar protexidos. Un navegador actualizado coas últimas tecnoloxías de seguridade pode axudarche a protexer o teu computador e os teus sitios web fronte a visitantes non desexados, como programas maliciosos ou virus informáticos.
 # Variables:
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -37,7 +37,7 @@ best-browser-another-way-to-stop = Outra forma de impedíreslle a labor aos rast
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-one-easy-way-to-check = Un xeito doado de comprobalo é visitarmos a páxina de configuración de contido e a política de privacidade do navegador. A páxina web da privacidade debería especificar se os teus datos son compartidos e por que. Por iso é que o <a href="{ $privacy }">aviso de privacidade do { -brand-name-firefox }</a> é doado de ler e encontrar.
-best-browser-choosing-the-best-browser = Escoller o mellor navegador que se adapte a ti é moi semellante a escoller unha casa: queres explorar as súas opcións, investigar e tomar unha decisión en función do que é importante para ti.
+best-browser-choosing-the-best-browser = Escoller o mellor navegador que se adapte a ti é moi semellante a escoller unha casa: queres explorar as túas opcións, investigar e tomar unha decisión en función do que é importante para ti.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = En <a href="{ $firefox }">{ -brand-name-firefox }</a>, traballamos duro para crear un navegador que sexa o dobre de rápido que antes e que permita ter aos usuarios máis control sobre a súa vida na rede.
