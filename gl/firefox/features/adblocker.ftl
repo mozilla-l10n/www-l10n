@@ -51,7 +51,7 @@ features-adblocker-send-a-do-not-track-signal = Envía un sinal de non rastrexo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Se non quixeres que o teu comportamento en liña sexa usado para os anuncios, podes enviar unha indicación educada «hoxe non quero, outro día xa veremos» ao marcares a opción<a href="{ $url }">Non rastrexar</a> do { -brand-name-firefox }. A participación é voluntaria, mais os sitios que respectan esta indicación deixan de te rastrexar inmediatamente.
-features-adblocker-speed-up-thanks-to-ad = Aumenta a velocidade grazas aos bloquadores de publicidade
+features-adblocker-speed-up-thanks-to-ad = Aumenta a velocidade grazas aos bloqueadores de publicidade
 features-adblocker-in-some-cases-an-ad-blocker = Nalgúns casos, un bloqueador de publicidade pode axudar o teu navegador a ir máis rápido. Cando se carga un anuncio, pode diminuír a velocidade dun sitio web. Alén diso, tardas máis en encontrar o que buscas se estás demasiado ocupado en pechar outro anuncio.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

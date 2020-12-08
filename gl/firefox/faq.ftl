@@ -27,8 +27,8 @@ how-do-i = Como podo obter o { -brand-name-firefox-browser }?
 
 you-can-easily = Velaquí <a href="{ $url }"> podes descargar o navegador { -brand-name-firefox } para escritorio facilmente.</a> O { -brand-name-firefox } funciona en dispositivos <a href="{ $url2 }">{ -brand-name-windows }, </a><a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux } e tamén está dispoñíbel para <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Asegúrate de estares a descargar o noso navegador nunha das nosas páxinas de confianza de { -brand-name-mozilla } ou { -brand-name-firefox }.
 is-firefox-free = É o { -brand-name-firefox } gratuíto?
-yep-the-firefox = Pois é! O { -brand-name-firefox-browser } é gratuíto. Super gratuíto, de feito. Nin custos agochados nin nada. Non tes que pagar por o usar e non vendemos os teus datos persoais.
-related-questions-free = Preguntas relacionadas: o { -brand-name-firefox-browser } é gratuito, o { -brand-name-firefox } custa diñeiro
+yep-the-firefox = Pois é! O { -brand-name-firefox-browser } é gratuíto. Súper gratuíto, de feito. Nin custos agochados nin nada. Non tes que pagar por o usar e non vendemos os teus datos persoais.
+related-questions-free = Preguntas relacionadas: o { -brand-name-firefox-browser } é gratuíto, o { -brand-name-firefox } custa diñeiro
 is-chrome-better = É mellor o { -brand-name-chrome } que o { -brand-name-firefox }?
 no-we-dont = Non, non pensamos que o { -brand-name-chrome } sexa mellor que o { -brand-name-firefox } xa que cando a xente pregunta cal é o mellor navegador, están a pensar en cal é máis rápido e máis seguro. O { -brand-name-firefox } actualízase mensualmente para garantir que teñas o navegador mais rápido e que respecte automaticamente a túa privacidade.
 

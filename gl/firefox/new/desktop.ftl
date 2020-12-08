@@ -37,7 +37,7 @@ firefox-desktop-download-blocks-social-trackers = Bloqueo de rastrexadores de re
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dispoñibilidade para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de pantalla no navegador
-firefox-desktop-download-primary-password = Constrasinal principal
+firefox-desktop-download-primary-password = Contrasinal principal
 # Obsolete string
 firefox-desktop-download-master-password = Contrasinal mestra
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos a publicidade que te rastrexa e ti navegas máis rápido.
@@ -47,7 +47,7 @@ firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
 firefox-desktop-download-available-in-over = Dispoñíbel en máis de 90 idiomas e compatíbel con equipos { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, o { -brand-name-firefox } funcionará sen ter en conta o que usas ou onde esteas. Asegúrate de que o sistema operativo está actualizado para conseguires a mellor experiencia.
 firefox-desktop-download-review-system-req = Consultar os requisitos do sistema
 firefox-desktop-download-all-your-devices = Instala o { -brand-name-firefox } en todos os dispositivos
-firefox-desktop-download-take-your-privacy = Nunca te esquezas da privacidade. Os { -brand-name-firefox-browsers } para { -brand-name-ios } e { -brand-name-android } teñen a mesma configuración de privacidade para impedir que os rastrexadores te sigan pola Internet, dá igual donde esteas.
+firefox-desktop-download-take-your-privacy = Nunca te esquezas da privacidade. Os { -brand-name-firefox-browsers } para { -brand-name-ios } e { -brand-name-android } teñen a mesma configuración de privacidade para impedir que os rastrexadores te sigan pola Internet, dá igual onde esteas.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Faino <strong>todo</strong> co { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Busca de forma máis intelixente e máis rápida
@@ -138,7 +138,7 @@ firefox-desktop-download-grab-a-high = Tira unha imaxe de alta resolución de ca
 firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } <a { $attrs }>impide automaticamente que moitos rastrexadores de terceiros</a> recompilen e vendan a túa actividade na rede.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Alguna dúbida? Resólveas coa <a { $attrs }>asistencia de { -brand-name-mozilla }</a>.
+firefox-desktop-download-questions = Algunha dúbida? Resólveas coa <a { $attrs }>asistencia de { -brand-name-mozilla }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Xa tes o navegador, pero aínda podes sacar máis proveito do { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Vixía os piratas informáticos con { -brand-name-firefox-monitor }, protexe os contrasinais con { -brand-name-firefox-lockwise } e moito máis.
