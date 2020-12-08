@@ -8,6 +8,7 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox } Jutaqil K'utunïk
 whether-you-searched-privacy = We nakanoj jun anin okik'amaya'l, ri nuchajij ri awichinanem, re jutaqil taq k'utunïk e k'o wawe' richin nitzolïx tzij ri taq k'utunïk k'o chi nitzolïx yan tzij chi ke chi rij ri { -brand-name-firefox }.
+whether-you-searched-independant = We nakanoj jun anin okik'amaya'l, achi'el nakanoj osq'opin na'ob'äl, ri nuchajij ri awichinanem, re jutaqil taq k'utunïk e k'o wawe' richin nitzolïx tzij ri taq k'utunïk k'o chi nitzolïx yan tzij chi ke chi rij ri { -brand-name-firefox }.
 what-is-firefox = ¿Achike ri { -brand-name-firefox }?
 
 # Variables:
