@@ -10,6 +10,8 @@ compare-shared-yes = Sí
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = No
 compare-shared-private-browsing-mode = Modo de navegación privada
+compare-shared-blocks-third-party-tracking-default = Bloquea las cookies de rastreo de terceros de forma predeterminada
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Bloquea las cookies de rastreo de terceros
 compare-shared-blocks-cryptomining-scripts = Bloquea los códigos de criptomineros
 compare-shared-blocks-social-trackers = Bloquea los rastreadores sociales
@@ -27,6 +29,8 @@ compare-shared-os-availability = Disponibilidad para sistemas operativos
 compare-shared-mobile-os-availability = Disponibilidad para sistemas operativos de móviles
 compare-shared-syncs-with-mobile = Sincronización con móviles
 compare-shared-password-management = Administrador de contraseñas
+compare-shared-primary-password = Contraseña maestra
+# Obsolete string
 compare-shared-master-password = Contraseña maestra
 compare-shared-security-and-privacy = Seguridad y privacidad
 compare-shared-utility = Utilidad
@@ -38,6 +42,10 @@ compare-shared-utility-strong = <strong>Utilidad</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilidad</strong>
 compare-shared-overall-assessment = Evaluación general
+compare-shared-the-comparisons-made-here-updated = Las comparaciones realizadas aquí se hicieron con la configuración predeterminada y en las versiones finales del navegador de la siguiente manera:
+# Obsolete string
+compare-shared-the-comparisons-made-here = Las comparaciones realizadas aquí se hicieron en las versiones finales de los navegadores de la siguiente manera:
+compare-shared-this-page-updated-semi-quarterly = Esta página se actualiza cada seis semanas para reflejar la última versión y puede que no siempre refleje las últimas actualizaciones.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -45,4 +53,10 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-download-firefox = Descargar { -brand-name-firefox }
+compare-shared-download-firefox-browser = Descargar { -brand-name-firefox-browser }
+compare-shared-download-the-app = Descargar la aplicación
+compare-shared-desktop = Escritorio
+compare-shared-brand-name-android = { -brand-name-android }
+compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Comparar navegadores

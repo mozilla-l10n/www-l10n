@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Comparación directa de los siete mejores navegadores
 compare-index-six-of-the-best-browsers-fallback = Comparación de los 6 mejores navegadores
 # Sub-headline
 compare-index-privacy-utility-portability = Privacidad. Utilidad. Portabilidad.
