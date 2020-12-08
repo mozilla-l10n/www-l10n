@@ -11,6 +11,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } es el navegador preinstalado en { -brand-name-mac } y { -brand-name-iphone }. Compara { -brand-name-safari } con { -brand-name-firefox-browser } para descubrir cuál es el mejor navegador para ti.
 # Main title.
 compare-safari-comparing-firefox-browser = Comparación del navegador { -brand-name-firefox-browser } con { -brand-name-safari } de { -brand-name-apple }
+compare-safari-if-you-use-a-mac-or-have-updated = Si usas un { -brand-name-mac-short } o tienes un { -brand-name-iphone }, lo más probable es que estés familiarizado con el navegador web { -brand-name-safari }. El hecho de que esté preinstalado como el navegador predeterminado para los usuarios de productos { -brand-name-apple } definitivamente le da una ventaja inicial significativa, pero { -brand-name-firefox } tiene su propio conjunto de características útiles que lo convierten en una alternativa atractiva y ahora puede ser establecido como tu navegador predeterminado en tu { -brand-name-mac-short } y en tu { -brand-name-iphone }. Aquí exploraremos las principales diferencias entre nuestro navegador y { -brand-name-safari } en términos de privacidad, utilidad y portabilidad entre dispositivos.
 # Obsolete string
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Si usas una Mac o tienes un { -brand-name-iphone }, es probable que estés familiarizado con el navegador web { -brand-name-safari }. El hecho de que esté preinstalado como el navegador predeterminado para los usuarios de productos { -brand-name-apple } definitivamente le da una ventaja significativa, pero { -brand-name-firefox } tiene su propio conjunto de características útiles que lo convierten en una alternativa atractiva. Aquí exploraremos las principales diferencias entre nuestro navegador y { -brand-name-safari } en términos de privacidad, utilidad y portabilidad entre dispositivos.
@@ -33,6 +34,9 @@ compare-safari-in-addition-to-the-regular = Además del conjunto habitual de fun
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Al igual que { -brand-name-safari }, { -brand-name-firefox } anima a su entusiasta comunidad de desarrolladores a crear <a { $attrs }>complementos y extensiones</a> para el navegador. Y dado que nuestra plataforma es de código abierto, hay una amplia selección que añade una gran cantidad de funcionalidades.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Además, cuando te registras para una cuenta de { -brand-name-firefox }, obtienes acceso a servicios únicos como <a { $pocket }{ -brand-name-pocket }</a> que se integran directamente en el navegador. El botón { -brand-name-pocket } para { -brand-name-firefox } te permite guardar páginas web y vídeos en { -brand-name-pocket } con un solo clic, para que puedas leer una versión limpia y sin distracciones donde y cuando quieras, incluso sin conexión.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
