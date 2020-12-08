@@ -25,7 +25,10 @@ how-do-i = ¿Achi'el rub'eyal ninwïl ri { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Yatikïr naqasaj ri rokik'amaya'l ajch'atal { -brand-name-firefox } <a href="{ $url }">wawe'</a> { -brand-name-firefox } nisamäj pa taq okik'amaya'l <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> chuqa' <a href="{ $url4 }">{ -brand-name-linux }</a>, chuqa' richin <a href="{ $url5 }">{ -brand-name-android } chuqa' { -brand-name-ios }.</a> Tatz'eta' chi naqasaj ri qokik'amaya'l pa jun chi ke ri ruxaq qak'amaya'l ütz chi qawa { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = ¿La sipan ri { -brand-name-firefox }?
+yep-the-firefox = ¡Ja'! Sipan ri { -brand-name-firefox-browser }. Janila sipan. Majun ewan rajil, majun. Majun natöj richin nawokisaj, chuqa' man niqak'ayij ta ri taq atzij.
+related-questions-free = Taq k'utunïk kiximon ki': Sipan ri { -brand-name-firefox-browser }, k'o rajil ri { -brand-name-firefox }
 is-chrome-better = ¿La mas ütz ri { -brand-name-chrome } chuwäch ri { -brand-name-firefox }?
 
 # Variables:
