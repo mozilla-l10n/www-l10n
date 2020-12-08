@@ -35,6 +35,7 @@ firefox-all-count-on-stability-and = I punti di forza di questo browser { -brand
 firefox-all-windows-installers-for = Programmi di installazione per Windows in ambito IT aziendale, che semplificano la configurazione, l’implementazione e la gestione del { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programmi di installazione ARM64/AArch64
 firefox-all-arm64-installers-optimized = Programmi di installazione ARM64/AArch64 ottimizzati per PC { -brand-name-windows } con processori Snapdragon.
+firefox-all-product-send-link = Invia al tuo telefono un link per il download
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Per computer con processori a 32-bit, più vecchi o poco potenti, scegli un programma di installazione a 32-bit. <a href="{ $url }">Se non sei sicuro</a> di quale versione scegliere, ti consigliamo quella a 32-bit.
@@ -56,3 +57,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
