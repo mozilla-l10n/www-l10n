@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
+best-browser-find-your-best-browser = Γνωρίστε το καλύτερο πρόγραμμα περιήγησης για ταχύτητα, απόρρητο και ασφάλεια.
 best-browser-privacy-speed-and-security = Απόρρητο, ταχύτητα και ασφάλεια.
 best-browser-how-to-choose-the-best = Πώς να επιλέξετε το καλύτερο πρόγραμμα περιήγησης για εσάς.
 best-browser-a-browser-built-for = Ένα πρόγραμμα περιήγησης αναπτυγμένο για ταχύτητα.
