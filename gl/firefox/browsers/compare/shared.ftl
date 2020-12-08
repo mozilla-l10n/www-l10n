@@ -13,7 +13,7 @@ compare-shared-private-browsing-mode = Modo de navegación privada
 compare-shared-blocks-third-party-tracking-default = Bloqueo dos testemuños de rastrexo de terceiros por defecto
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Bloqueo dos testemuños de rastrexo de terceiros
-compare-shared-blocks-cryptomining-scripts = Bloquo dos códigos de criptominaría
+compare-shared-blocks-cryptomining-scripts = Bloqueo dos códigos de criptominaría
 compare-shared-blocks-social-trackers = Bloqueo de rastrexadores de redes sociais
 compare-shared-autoplay-blocking = Bloqueo de reprodución automática
 compare-shared-tab-browsing = Navegación por lapelas

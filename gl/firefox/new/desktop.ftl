@@ -59,14 +59,14 @@ firefox-desktop-download-boost-your = Aumenta a produtividade
 firefox-desktop-download-works-with-google = Funciona cos produtos de { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Ferramenta de captura de pantalla integrada
 firefox-desktop-download-bookmarks-manager = Xestor de marcadores
-firefox-desktop-download-autosuggest-urls = Suxerencia automática de URL
+firefox-desktop-download-autosuggest-urls = Suxestión automática de URL
 firefox-desktop-download-sync-across-devices = Sincronización entre dispositivos
 firefox-desktop-download-reader-mode = Modo lectura
 firefox-desktop-download-spell-check = Verificación ortográfica
 firefox-desktop-download-pinned-tabs = Lapelas fixadas
 firefox-desktop-download-stream-share-play = Transmite, comparte e xoga
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Bloquea a reproducción automática de vídeo e audio
+firefox-desktop-download-block-autoplay-of = Bloquea a reprodución automática de vídeo e de audio
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Imaxe en imaxe
 firefox-desktop-download-curated-content-on = Contido seleccionado nunha lapela nova
