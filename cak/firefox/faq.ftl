@@ -15,6 +15,7 @@ what-is-firefox = ¿Achike ri { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = Ri { -brand-name-firefox-browser } jun nimaläj okik'amaya'l to'on ruma jun moloj majun ch'akoj rojqan, ri man nuk'ayij ta ri taq atzij chi ke ri eltzijonel chuqa' yatruto' richin nachajij ri awetamab'al. Tawetamaj ch'aqa' chik chi rij ri <a href="{ $url }">{ -brand-name-firefox-browsers }</a> chuqa' <a href="{ $url2 }">ch'aqa' chik taq tikojil.</a>
 how-do-i = ¿Achi'el rub'eyal ninwïl ri { -brand-name-firefox-browser }?
 
 # Variables:
