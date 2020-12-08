@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
 # HTML page title
-compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-name-brave }: Cal é o mellor navegador para vostede?
+compare-brave-firefox-vs-brave-which-is = O { -brand-name-firefox } fronte o { -brand-name-brave }: Cal é o mellor navegador para ti?
 # HTML page description
 compare-brave-compare-brave-to-the-firefox = Compare { -brand-name-brave } co { -brand-name-firefox-browser } para descubrir cal é o mellor navegador para vostede en termos de privacidade, utilidade e portabilidade.
 # Main title
