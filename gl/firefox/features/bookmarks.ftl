@@ -20,16 +20,16 @@ features-bookmarks-fly-with-that-bookmark = Leva sempre contigo ese marcador
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Os teus favoritos, vaias onde vaias. Usa { -brand-name-firefox-sync } para acceder aos marcadores en todos os teus dispositivos, dende o computador ata o móbil. Tamén podes probar <a href="{ $url }">{ -brand-name-pocket }</a> para gardar calquera artigo ou páxina web e volver a velo máis tarde, mesmo sen conexión á Internet.
+features-bookmarks-take-your-favorites-on = Os teus favoritos, vaias onde vaias. Usa { -brand-name-firefox-sync } para acceder aos marcadores en todos os teus dispositivos, dende o computador até o móbil. Tamén podes probar <a href="{ $url }">{ -brand-name-pocket }</a> para gardar calquera artigo ou páxina web e volver a velo máis tarde, mesmo sen conexión á Internet.
 features-bookmarks-customize-that-bookmark = Personaliza ese marcador
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Pasa o tempo con ese marcador
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Pon a proba a túa precisión con todos os <a href="{ $url }">complementos</a> de xestión de marcadores que poidas imaxinar: desde capturadores de páxinas completas ata barras laterais de acceso rápido ou marcadores totalmente privados.
+features-bookmarks-practice-your-precision = Pon a proba a túa precisión con todos os <a href="{ $url }">complementos</a> de xestión de marcadores que poidas imaxinar: desde capturadores de páxinas completas até barras laterais de acceso rápido ou marcadores totalmente privados.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Pon a proba a túa precisión con todos os <a href="{ $url }">complementos</a> de xestión de marcadores que poidas imaxinar: desde capturadores de páxinas completas ata barras laterais de acceso rápido ou marcadores totalmente privados.
+features-bookmarks-practice-your-exactitude = Pon a proba a túa precisión con todos os <a href="{ $url }">complementos</a> de xestión de marcadores que poidas imaxinar: desde capturadores de páxinas completas até barras laterais de acceso rápido ou marcadores totalmente privados.

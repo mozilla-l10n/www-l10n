@@ -75,7 +75,7 @@ navigation-share-large-files-safely = Comparte ficheiros grandes de forma segura
 navigation-save-quality-content = Garda contido de calidade dende calquera sitio. Estimula a mente esteas onde esteas.
 navigation-sign-up = Rexistrarse
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: rápida, sinxela e privada.
-navigation-protect-your-entire-device = Protexe o dispositivo e todas as aplicacións. Oculta a túa verdadeira localización e conecta ata 5 dispositivos. Subscríbete agora.
+navigation-protect-your-entire-device = Protexe o dispositivo e todas as aplicacións. Oculta a túa verdadeira localización e conecta até 5 dispositivos. Subscríbete agora.
 # Outdated string
 navigation-connected-and-protected = Conectado e protexido
 navigation-join = Unirse
@@ -88,7 +88,7 @@ navigation-close-about-menu = Pechar o menú Quen somos
 navigation-meet-the-technology-company = Coñece a empresa de tecnoloxía que antepón a xente aos beneficios.
 navigation-new-features = Novas características
 navigation-save-content-absorb-knowledge = Garda contido e nútrete de coñecemento.
-navigation-same-speed-and-safety = A mesma velocidade e seguridade na que confías, pero deseñado especificamente para empresas.
+navigation-same-speed-and-safety = A mesma velocidade e seguridade na cal confías, pero deseñado especificamente para empresas.
 # Outdated string
 navigation-add-ons = Complementos
 navigation-projects = Proxectos

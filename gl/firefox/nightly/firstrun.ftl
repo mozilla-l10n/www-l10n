@@ -7,7 +7,7 @@
 
 nightly-firstrun-firefox-nightly = Primeira execución do { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Grazas por usar o { -brand-name-firefox-nightly }
-nightly-firstrun-choose-an-area = Escolle unha área na que te queiras involucrar e axuda a mellorar o { -brand-name-firefox } para todos os usuarios do mundo
+nightly-firstrun-choose-an-area = Escolle unha área na cal te queiras involucrar e axuda a mellorar o { -brand-name-firefox } para todos os usuarios do mundo
 nightly-firstrun-test = Analiza
 nightly-firstrun-find-and-file-bugs = Encontra erros, informa deles e asegúrate de que todo funciona como debería.
 nightly-firstrun-start-testing = Comeza a analizar

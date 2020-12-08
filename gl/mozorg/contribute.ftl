@@ -32,7 +32,7 @@ contribute-task-join-desc = Para maior participación na comunidade { -brand-nam
 ## Mission
 
 contribute-mission-heading = A nosa misión
-contribute-mission-desc = A nosa misión é garantir que a Internet siga sendo un recurso público, aberto e accesíbel para todos. Unha Internet na que as persoas poidan xogar un papel protagonista, na que cada un de nós poida sentirse creador da súa propia experiencia en liña, sempre en control, seguro e independente.
+contribute-mission-desc = A nosa misión é garantir que a Internet siga sendo un recurso público, aberto e accesíbel para todos. Unha Internet onde as persoas poidan xogar un papel protagonista, onde cada un de nós poida sentirse creador da súa propia experiencia en liña, sempre en control, seguro e independente.
 contribute-learn = Máis información sobre { -brand-name-mozilla }
 contribute-read-manifesto = O noso manifesto
 contribute-find-event = Atopar un evento
@@ -52,7 +52,7 @@ contribute-made-by-desc-cont = Cremos que a colaboración comunitaria é vital p
 
 contribute-newsletter-heading = Aínda non estás seguro?
 contribute-newsletter-sub-heading = Recibe novas sobre a comunidade e as contribucións na túa caixa de entrada
-contribute-newsletter-desc = Subscríbete ó noso boletín, únete ós mozilleiros de todo o mundo e coñece as oportunidades que marcan a diferencia para apoiar á misión de { -brand-name-mozilla }.
+contribute-newsletter-desc = Subscríbete ao noso boletín, únete ós mozilleiros de todo o mundo e coñece as oportunidades que marcan a diferencia para apoiar á misión de { -brand-name-mozilla }.
 
 ## Support
 

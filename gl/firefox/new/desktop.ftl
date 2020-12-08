@@ -111,7 +111,7 @@ firefox-desktop-download-sync-your-devices = Sincroniza os dispositivos
 firefox-desktop-download-screenshots = Capturas de pantalla
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protección mellorada contra o rastrexo
-firefox-desktop-download-from-watching-a = Dende ver un titorial ata botarlle un ollada a un partido, o vídeo continúa mentres fas varias tarefas á vez.
+firefox-desktop-download-from-watching-a = Dende ver un titorial até botarlle un ollada a un partido, o vídeo continúa mentres fas varias tarefas á vez.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Obtén o { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obter o { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
@@ -120,7 +120,7 @@ firefox-desktop-download-learn-about-the = Obtén máis información sobre a ver
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = Seguridade, novas ou xogos, hai <a { $attrs }>extensións para todos</a>. Engade todas as que queiras ata conseguires o navegador que mellor se che adapte.
+firefox-desktop-download-from-security-to = Seguridade, novas ou xogos, hai <a { $attrs }>extensións para todos</a>. Engade todas as que queiras até conseguires o navegador que mellor se che adapte.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou o { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como o { -brand-name-ie } e, agora, o { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa a priorizar a privacidade por enriba de calquera outra cousa.
