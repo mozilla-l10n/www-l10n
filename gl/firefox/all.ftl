@@ -39,7 +39,7 @@ firefox-all-arm64-installers-optimized = Instaladores para  ARM64 / AArch64 opti
 firefox-all-product-send-link = Envía unha ligazón de descarga ao teu móbil
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Escolle un instalador de 32 bits para computadores con procesadores de 32 bits ou para computadoras máis antigas ou menos potentes. <a href="{ $url }">Se dubidas</a> entre escoller un instalador de 64 ou 32 bits, recomendámoste o de 32 bits.
+firefox-all-choose-a-32-bit-installer = Escolle un instalador de 32 bits para computadores con procesadores de 32 bits ou para computadores máis antigas ou menos potentes. <a href="{ $url }">Se dubidas</a> entre escoller un instalador de 64 ou 32 bits, recomendámoste o de 32 bits.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
