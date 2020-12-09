@@ -37,7 +37,7 @@ firefox-accounts-and-get-it-all-on = E lévao todo en todos os dispositivos, sen
 firefox-accounts-get-the-respect-you = Obtén o respecto que mereces.
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = Sempre che contaremos a verdade. Todo o que facemos cumpre co noso <a href="{ $promise }">Compromiso cos datos persoais</a>:
+firefox-accounts-youll-always-get-the = Sempre contaremos a verdade. Todo o que facemos cumpre co noso <a href="{ $promise }">Compromiso cos datos persoais</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Recoller menos datos.<br> Mantelos a salvo.<br> Sen segredos.
 firefox-accounts-get-the-knowledge = Información para a túa seguridade.
