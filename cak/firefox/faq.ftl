@@ -30,6 +30,7 @@ is-firefox-free = ¿La sipan ri { -brand-name-firefox }?
 yep-the-firefox = ¡Ja'! Sipan ri { -brand-name-firefox-browser }. Janila sipan. Majun ewan rajil, majun. Majun natöj richin nawokisaj, chuqa' man niqak'ayij ta ri taq atzij.
 related-questions-free = Taq k'utunïk kiximon ki': Sipan ri { -brand-name-firefox-browser }, k'o rajil ri { -brand-name-firefox }
 is-chrome-better = ¿La mas ütz ri { -brand-name-chrome } chuwäch ri { -brand-name-firefox }?
+no-we-dont = Manäq, man niqanimaj ta chi ri { -brand-name-chrome } ütz chuwa ri { -brand-name-firefox }, ruma re': toq ri winaqi' nikik'utuj achike okik'amaya'l yalan ütz, pa qitzij chi nik'utüx achike ri okik'amaya'l yalan anin chuqa' jikïl. { -brand-name-firefox } nuk'ëx ri' ik' ik' richin najikib'a' chi k'o ri anin okik'amaya'l awik'in, ri nukamelaj pa ruyonil ri ichinanem.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
