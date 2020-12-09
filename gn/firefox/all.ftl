@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Emboguejy potaitéma:
 firefox-all-browser = Kundahára:
 firefox-all-platform = Jehechaukaha:
 firefox-all-language = Ñe’ẽ:
+firefox-all-lang-multi = Hetaiterei ñe’ẽ
 firefox-all-sorry-we-couldnt-find = Rombyasy, ndaikatúi rojuhu ñemboguejyrã ehekáva. Ikatúpa eha’ãjey térã eiporavo ñemboguejyrã tysýi yvy gotyoguápe.
 firefox-all-the-pre-alpha-version = Pe pre-alfa puruhára katupyrýpe g̃uarã ohekaséva jejavy ha péicha ojuhu tembiapoite pyahu ombopapapykuévo.
 firefox-all-64-bit-installers = Mohendaha 64-bit
