@@ -72,6 +72,8 @@ does-firefox-have = ¿La tz'aqatisan ri VPN pa ri { -brand-name-firefox }?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } majun VPN ruk'amon pe (Ichinan kematz'ib'il k'amab'ey), k'o ka'i' tikojil enuk'un ruma { -brand-name-mozilla }/{ -brand-name-firefox } ri yatikïr nawokisaj chuqa' ri { -brand-name-firefox-browser } ri nitikïr nuchajij ri okik'amaya'l <a href="{ $url }">{ -brand-name-firefox-private-network }</a> o ri rokem okisab'äl (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) rik'in WiFi, achi'el ri IP awochochib'al.
+related-questions-ip = Ta k'utunïk kiximon ki': ¿La nrewaj ri IP ri { -brand-name-firefox }?
 who-owns-firefox = ¿Achike ri rajaw { -brand-name-firefox }?
 
 # Variables:
