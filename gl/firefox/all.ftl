@@ -5,13 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Comprobar os requisitos do sistema
+firefox-all-check-the-system-requirements = Comproba os requisitos do sistema
 firefox-all-release-notes = Notas da versión
 firefox-all-source-code = Código fonte
 firefox-all-need-help = Precisas axuda?
 firefox-all-which-browser-would = Que navegador desexas descargar?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = Obter axuda
+firefox-all-get-help = Precisas axuda?
 firefox-all-you-are-about-to-download = Estás a piques de descargar:
 firefox-all-browser = Navegador:
 firefox-all-platform = Plataforma:
