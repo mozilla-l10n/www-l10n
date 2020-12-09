@@ -20,7 +20,7 @@ password-manager-password-magician = O mago das claves de acceso
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = O rei dos contrasinais
-password-manager-no-more-try-again = Acabáronse os «ténteo de novo» cando intenta acceder a algún sitio. Inicia sesión coa túa { -brand-name-firefox-account } no móbil e levarás contigo todos os contrasinais. Os datos de inicio de sesión aparecerán como por arte de maxia.
+password-manager-no-more-try-again = Acabáronse os «téntao de novo» cando intentes acceder a algún sitio. Inicia sesión coa túa { -brand-name-firefox-account } no móbil e levarás contigo todos os contrasinais. Os datos de inicio de sesión aparecerán como por arte de maxia.
 password-manager-password-champion = Un campión das chaves
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
