@@ -55,6 +55,7 @@ does-firefox-sell = ¿La yeruk'ayij ri taq atzij ri { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Majub'ey xinb'än, majub'ey xtinb'än. Chuqa' xkatqachajij chi kiwa ri eltzijonela' yeb'anon. Ri taq rutikojil { -brand-name-firefox } enuk'un richin richin nikichajij ri awichinanem. <a href="{ $url }">Ri jun ri niqasüj.</a>
 why-is-firefox = ¿Achike eqal nisamäj { -brand-name-firefox }?
 is-firefox-chromium = ¿La k'o ruxe'el ri { -brand-name-firefox } rik'in ri { -brand-name-chromium }?
 does-firefox-use = ¿La nrokisaj ri { -brand-name-google } ri { -brand-name-firefox }?
