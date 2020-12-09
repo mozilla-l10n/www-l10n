@@ -80,3 +80,4 @@ who-owns-firefox = ¿Achike ri rajaw { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } nuk'un ruma { -brand-name-mozilla-corporation }, jun achmoloj rajaw ri moloj majun ch'akoj rojqan <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> chuqa' rutzeqelb'en ri ruxe' rutzijoxik { -brand-name-mozilla }. Tawetamaj ruwa ri b'anel richin ri { -brand-name-firefox } <a href="{ $url2 }">wawe'.</a>
