@@ -42,6 +42,7 @@ is-firefox-safe-download = ¿La jikïl niqasäx { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Ruchajixik ri awichinanem ja ri' ri qasamaj, chuqa' niqajikib'a' chi ri ruyakoj { -brand-name-firefox } pa ri okisab'äl k'o chi jikïl — po tatz'eta' chi niqasäx pa jun jikïl ruxaq { -brand-name-mozilla }/{ -brand-name-firefox }, achi'el <a href="{ $url }">ri ruxaq richin yojqasan.</a>
 is-firefox-safe = ¿La jikïl ri { -brand-name-firefox }?
 
 # Variables:
