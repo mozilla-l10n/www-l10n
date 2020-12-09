@@ -65,6 +65,8 @@ does-firefox-use = ¿La nrokisaj ri { -brand-name-google } ri { -brand-name-fire
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } ja ri' ri ruk'wab'äl kanoxiïk k'o pa { -brand-name-firefox }, ri nuq'ajuj chi yatikïr yakanon pan ajk'amaya'l pa ri rukajtz'ik ochochib'äl. <a href="{ $url }">Tetamäx ch'aqa' chik chi rij ri rajowab'al ruk'wab'äl kanoxïk chuqa' kejal ri eruk'amon pe.</a>
+does-firefox-have = ¿La tz'aqatisan ri VPN pa ri { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
