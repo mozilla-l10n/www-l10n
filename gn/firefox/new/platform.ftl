@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Ñemigua rekoitépe
 new-platform-live-your-life = Nde rekove nemba’e, { -brand-name-firefox } nanderapykuehói. Eiporavo mba’épa emoharakuãta ha araka’épa.
 new-platform-seamless-setup = Ñemboheko oikoitéva
 new-platform-easy-migration = Emboguejývo { -brand-name-firefox } { -brand-name-windows } peg̃uarã, ikatu embohasa nde eguerohoryvéva ha techaukaha.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Emboguejy { -brand-name-firefox } <br> { -brand-name-windows } peg̃uarã
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Emboguejy { -brand-name-firefox } <br>{ -brand-name-mac } peg̃uarã
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Emboguejy { -brand-name-firefox } <br>{ -brand-name-linux } peg̃uarã
