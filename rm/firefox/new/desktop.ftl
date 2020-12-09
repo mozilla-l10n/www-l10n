@@ -97,6 +97,26 @@ firefox-desktop-download-tweak-your-settings = Adatta tia configuraziun
 firefox-desktop-download-theres-no-need = Ti na stos betg ta cuntentar cun l'imperfecziun. Mida la pagina da novs tabs, la trav da tschertgar, ils segnapaginas e dapli per navigar sco ch'i para e plascha tras l'internet.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Sustegnì da l'organisaziun <strong>senza finamira da profit</strong> che metta en il center las persunas
+firefox-desktop-download-challenging-the-status = Nus sfidain il status quo dapi il 1998
+firefox-desktop-download-your-privacy-comes = La protecziun da tias datas en emprima lingia
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Ti pos far quint cun tut tias funcziunalitads preferidas dal navigatur — e <strong>scuvrir</strong> novas.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Tut tes utensils preferids da { -brand-name-google } (p.ex. Gmail e Docs) funcziunan perfetgamain en { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Telechargia questa extensiun per il navigatur</a> per impedir che { -brand-name-facebook } (e { -brand-name-instagram }) ta persequiteschia en il web.
+firefox-desktop-download-sync-your-devices = Sincronisescha tes apparats
+firefox-desktop-download-screenshots = Maletgs dal visur
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protecziun avanzada cunter il fastizar
+firefox-desktop-download-from-watching-a = Vuls ti suandar in video da tutorial u tegnair en egl tia squadra preferida? Tes video resta en il fund davant fertant che ti ta deditgeschas anc ad autra rauba.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Va per { -brand-name-firefox-browser } per <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Va per { -brand-name-firefox-browser } per <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Telechargia il navigatur { -brand-name-firefox } per apparats mobils per proteger automaticamain tut tes apparats.
+firefox-desktop-download-learn-about-the = Ulteriuras infurmaziuns davart il navigatur { -brand-name-firefox } per computers suondan sutvart
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
