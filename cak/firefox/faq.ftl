@@ -48,6 +48,8 @@ is-firefox-safe = ¿La jikïl ri { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Man xa xe ta jikïl richin nokisäx ri { -brand-name-firefox }, chuqa' yaruto' richin chi e jikïl ri taq atzij achi'el chuqa' ri taq awetamab'al. Ri { -brand-name-firefox-browser } ruyon yeruq'ät ri kojqanela' aj rox winäq ewtaman kiwa, kojqanela' kik'amab'ey winäq, ajkriptominer chuqa' ri tz'etöy retal ruwi' q'ab'aj richin man yemol ta ri taq atzij. <a href="{ $url }">Tawetamaj ch'aqa' etamab'äl chi rij ri kichinanem qatikojil.</a>
+related-questions-safe = Taq k'utunïk kiximon ki': { -brand-name-firefox } ütz richin ri ichinanem, jikïl ri { -brand-name-firefox }, ütz ri { -brand-name-firefox } richin ri ichinanem.
 does-firefox-sell = ¿La yeruk'ayij ri taq atzij ri { -brand-name-firefox }?
 
 # Variables:
