@@ -59,6 +59,7 @@ nope-never-have = Majub'ey xinb'än, majub'ey xtinb'än. Chuqa' xkatqachajij chi
 why-is-firefox = ¿Achike eqal nisamäj { -brand-name-firefox }?
 firefox-isnt-slow = { -brand-name-firefox } man eqal ta… wakami. Pa 2017, xqanük' chik ri ruk'wab'äl okik'amaya'l (Quantum rub'i') richin niqajikib'a' chi ri { -brand-name-firefox } nujunamaj ri' kik'in ch'aqa' chik nim'aq okik'amaya'l. Ri q'atöy qojqanela' yeruto' ri taq ruxaq richin anin yesamäj. Ruma ri' { -brand-name-firefox } yalan anin, akuchi' man nusüj ta ri awichinanem.
 is-firefox-chromium = ¿La k'o ruxe'el ri { -brand-name-firefox } rik'in ri { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } man k'o ta ruxe'el chi rij ri { -brand-name-chromium } (Ri runuk'samaj okik'amaya'l ri jaqäl rub'itz'ib' pa ruk'u'x) { -brand-name-google } { -brand-name-chrome }. Öj jun ruk'isib'äl nïm okik'amaya'l ri man ke tari'. { -brand-name-firefox } nisamäm rik'in ri ruk'wab'al okem pa k'amaya'l richin Quantum, ri nuk'un richin { -brand-name-firefox }, richin niqajikib'a' chi ri taq atzij yesamajïx rik'in kamelanïk chuqa' ye'ichinäx.
 does-firefox-use = ¿La nrokisaj ri { -brand-name-google } ri { -brand-name-firefox }?
 
 # Variables:
