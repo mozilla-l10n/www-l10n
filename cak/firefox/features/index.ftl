@@ -11,7 +11,11 @@ features-index-protect-your-privacy-and-browse = Tachajij ri awichinanem chuqa' 
 features-index-youre-in-control-with-firefoxs = Rat atchajin awi' rik'in ri taq samaj man ek'ayew ta ye'okisäx richin ri { -brand-name-firefox }, ri nuchajij ri awichinaxik chuqa' ri ruchuqa' awokem pa k'amaya'l.
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } taq b'anikil
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } ja ri' ri aninäq, loman okik'amaya'l chuqa' ruq'ijun rij ri ichinanem, ri nisamäj pa ronojel ri awokisab'al.
+features-index-add-powerful-functions = Yerutz'aqatisaj kowiläj chuqa' jeb'ël taq samajib'äl chuqa' jub'a' etz'anem pa ri awokisab'al { -brand-name-firefox }.
 features-index-see-all = Ketz'et ronojel ri taq k'amal
+features-index-give-your-browser = Taya' chi re ri awokik'amaya'l ri ruwa nawajo' rik'in k'ïy jalajöj ruwachinel.
 features-index-get-an-account = Tik'ul jun { -brand-name-firefox-account }
 features-index-firefox-automatically = { -brand-name-firefox } ruyonil yeruq'ät 2000+ rojqanela' eltzijol richin man yatkojqaj ta pa k'amaya'l.
 features-index-access-all-passwords = { -brand-name-firefox-lockwise } nuya' q'ij chawe yatok pa ronojel ri ewan taq tzij xe'ayäk pa { -brand-name-firefox } — chuqa' majun rajil.

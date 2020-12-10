@@ -81,3 +81,4 @@ who-owns-firefox = ¿Achike ri rajaw { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } nuk'un ruma { -brand-name-mozilla-corporation }, jun achmoloj rajaw ri moloj majun ch'akoj rojqan <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> chuqa' rutzeqelb'en ri ruxe' rutzijoxik { -brand-name-mozilla }. Tawetamaj ruwa ri b'anel richin ri { -brand-name-firefox } <a href="{ $url2 }">wawe'.</a>
+related-questions-who = Taq k'utunïk kiximon ki': achike ri rajaw { -brand-name-firefox }, achike ri nichinan ri { -brand-name-firefox-browser }, ri { -brand-name-firefox } rajaw { -brand-name-google }, ri { -brand-name-mozilla } { -brand-name-firefox } rajaw { -brand-name-google }
