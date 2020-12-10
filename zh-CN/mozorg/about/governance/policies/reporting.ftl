@@ -14,7 +14,7 @@ reporting-this-document-is-intended = 本文档旨在为负责确保 { -brand-na
 reporting-when-to-report = 何时应该举报
 reporting-please-report-all-incidents = 若知道有人可能参与不法行为，或令您本人或他人感到不安全、不受欢迎或不舒服，请<a href="{ $cpg }">依照社区参与准则的说明</a>举报此类事件。
 reporting-how-to-give-a-report = 如何举报
-reporting-if-you-believe-someone = 如果您认为有人身危险，请拨打您当地的紧急电话。
+reporting-if-you-believe-someone = 如果您认为有人陷入人身危险，请拨打您当地的紧急电话。
 reporting-if-you-have-a-report-by = 如果您的举报是<strong>來自<em>并</em>关于</strong>一名贡献者（例如<strong>由</strong>一名贡献者<strong>对</strong>另一名贡献者提出举报），那么您应该拨打<a href="{ $community_hotline }">社区参与准则热线</a>提出举报。
 reporting-if-you-have-a-report-by-email = 如果您的举报是<strong>來自<em>并</em>关于</strong>一名贡献者（例如<strong>由</strong>一名贡献者<strong>对</strong>另一名贡献者提出举报），那么您应该发送邮件至 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 提出举报。
 reporting-if-you-have-a-report-involving = 如果您的举报<strong>涉及正式员工、合同工或派遣工</strong>（例如，举报是<strong>由</strong>员工提出或<strong>关于</strong>一位员工），那么您应该拨打 <a href="{ $employee_hotline }">{ -brand-name-mozilla } 员工热线</a>提出举报。
