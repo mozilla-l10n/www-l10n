@@ -43,4 +43,5 @@ features-index-get-firefox-for-privacy = Tak'ulu' { -brand-name-firefox } richin
 features-index-firefox-vs = { -brand-name-firefox } kik'in ch'aqa' chik taq okik'amaya'l
 features-index-stack-up = Tatz'eta' achi'el ri { -brand-name-firefox } nujunamaj ri' kik'in ch'aqa' jeb'ël taq okik'amaya'l.
 features-index-compare-browsers = Kejunamäx taq okik'amaya'l
+features-index-see-themes = Ke'atz'eta' ri jeb'ël taq wachinel
 features-index-download-latest = Taqasaj ri ruk'isib'äl { -brand-name-firefox }

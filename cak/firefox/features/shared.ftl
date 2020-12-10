@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-a-better-internet-experience = Jun jeb'ël etamab'äl pa k'amaya'l
 features-shared-more-firefox-features = Ch'aqa' chik rub'anikil okik'amaya'l { -brand-name-firefox }
 features-shared-browse-faster = Katok pa k'amaya'l aninäq
 features-shared-your-favorite-extensions = Jeb'ël taq ak'amal
+features-shared-balanced-memory = Pajon ruchuq'a' rujolom
 features-shared-more-powerful-private-browsing = Ichinan Okem pa K'amaya'l yalan nïm ruchuq'a'
 features-shared-ad-tracker-blocking = Kiq'atik kojqanik taq rutzijol
 features-shared-password-manager = Runuk'samajel ewan tzij
