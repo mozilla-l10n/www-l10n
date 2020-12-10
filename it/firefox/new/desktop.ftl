@@ -92,7 +92,7 @@ firefox-desktop-download-change-new-tab = Aspetto delle nuove schede personalizz
 firefox-desktop-download-make-firefox-your = Rendi <strong>{ -brand-name-firefox }</strong> veramente tuo
 firefox-desktop-download-extensions-for-every = Estensioni per tutti i gusti
 firefox-desktop-download-change-up-your = Cambia look
-firefox-desktop-download-go-from-light = Passa dalla modalità chiara a quella scura a seconda dei tuoi gusti o dell'umore del momento, oppure ravviva le cose con un tema personalizzato (magari un bell’unicorno arcobaleno?)
+firefox-desktop-download-go-from-light = Passa dalla modalità chiara a quella scura a seconda dei tuoi gusti o dell’umore del momento, oppure ravviva le cose con un tema personalizzato (magari un bell’unicorno arcobaleno?)
 firefox-desktop-download-tweak-your-settings = Modifica le tue impostazioni
 firefox-desktop-download-theres-no-need = Perché accontentarsi? Personalizza l’aspetto delle nuove schede, la barra di ricerca, i segnalibri e molto altro per esplorare Internet come piace a te.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

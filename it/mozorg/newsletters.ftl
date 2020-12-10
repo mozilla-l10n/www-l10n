@@ -122,7 +122,7 @@ newsletters-check-for-data-breaches = Cerca nelle violazioni dati
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } è un servizio gratuito che ti permette di scoprire se sei stato coinvolto in una violazione di dati online.
 newsletters-sign-in-to-monitor = Accedi a { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Scopri il nostro marchio principale
-newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l'organizzazione senza fini di lucro che sostiene { -brand-name-firefox }, antepone le persone al profitto in tutto ciò che diciamo, creiamo e facciamo.
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l’organizzazione senza fini di lucro che sostiene { -brand-name-firefox }, antepone le persone al profitto in tutto ciò che diciamo, creiamo e facciamo.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = About Standards
 # Name for the newsletter in Newsletter subscription page

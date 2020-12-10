@@ -8,7 +8,7 @@
 participation-community-participation = Linee guida per la partecipazione alla comunità
 participation-mozilla-community = Linee guida per la partecipazione alla comunità { -brand-name-mozilla }
 participation-version-31-updated = Versione 3.1 – Aggiornato il 16 gennaio 2020
-participation-the-heart-of-mozilla = Il cuore di { -brand-name-mozilla } sono le persone. Poniamo le persone al primo posto e facciamo del nostro meglio per riconoscere, apprezzare e rispettare la diversità dei nostri collaboratori nel mondo. Il progetto { -brand-name-mozilla } accoglie i contributi di chiunque condivida i nostri obiettivi e voglia contribuire in modo sano e costruttivo all'interno della nostra comunità. Per questo motivo, abbiamo adottato questo codice di condotta e chiediamo a tutti coloro che partecipano di concordare e aderire a queste linee guida per la partecipazione alla comunità, al fine di aiutarci a creare un'esperienza comunitaria sicura e positiva per tutti.
+participation-the-heart-of-mozilla = Il cuore di { -brand-name-mozilla } sono le persone. Poniamo le persone al primo posto e facciamo del nostro meglio per riconoscere, apprezzare e rispettare la diversità dei nostri collaboratori nel mondo. Il progetto { -brand-name-mozilla } accoglie i contributi di chiunque condivida i nostri obiettivi e voglia contribuire in modo sano e costruttivo all’interno della nostra comunità. Per questo motivo, abbiamo adottato questo codice di condotta e chiediamo a tutti coloro che partecipano di concordare e aderire a queste linee guida per la partecipazione alla comunità, al fine di aiutarci a creare un’esperienza comunitaria sicura e positiva per tutti.
 participation-these-guidelines-aim = Queste linee guida sono volte a sostenere una comunità in cui tutte le persone si sentano al sicuro nel partecipare, introdurre nuove idee e ispirare gli altri, a prescindere da:
 participation-background = estrazione sociale
 participation-family-status = stato familiare
@@ -22,7 +22,7 @@ participation-age = età
 participation-ability = capacità
 participation-race-andor-ethnicity = Razza e/o etnia
 participation-caste = casta
-participation-national-origin = Paese d'origine
+participation-national-origin = Paese d’origine
 participation-socioeconomic-status = stato socioeconomico
 participation-religion = religione
 participation-geographic-location = posizione geografica
