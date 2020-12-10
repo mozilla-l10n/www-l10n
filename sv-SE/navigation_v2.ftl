@@ -39,6 +39,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Få skydd utöver din webbläsare på alla dina enheter.
 navigation-v2-product-promise = Produktlöfte
 navigation-v2-learn-how-each-firefox-product = Lär dig hur varje { -brand-name-firefox }-produkt skyddar och respekterar dina data.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrera dig för nya konton utan att lämna över din e-postadress.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
