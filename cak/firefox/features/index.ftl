@@ -16,6 +16,7 @@ features-index-firefox-is-fast = { -brand-name-firefox } ja ri' ri aninäq, loma
 features-index-add-powerful-functions = Yerutz'aqatisaj kowiläj chuqa' jeb'ël taq samajib'äl chuqa' jub'a' etz'anem pa ri awokisab'al { -brand-name-firefox }.
 features-index-see-all = Ketz'et ronojel ri taq k'amal
 features-index-give-your-browser = Taya' chi re ri awokik'amaya'l ri ruwa nawajo' rik'in k'ïy jalajöj ruwachinel.
+features-index-important-stuff = Tatz'eta' chi ronojel ri nimaläj taq wachinäq — kanoxïk pa k'amab'ey, ewan taq tzij, jaqon taq ruwi' — kewachin akuchi' nawajo' pa jujun awokisab'al.
 features-index-get-an-account = Tik'ul jun { -brand-name-firefox-account }
 features-index-firefox-automatically = { -brand-name-firefox } ruyonil yeruq'ät 2000+ rojqanela' eltzijol richin man yatkojqaj ta pa k'amaya'l.
 features-index-access-all-passwords = { -brand-name-firefox-lockwise } nuya' q'ij chawe yatok pa ronojel ri ewan taq tzij xe'ayäk pa { -brand-name-firefox } — chuqa' majun rajil.
