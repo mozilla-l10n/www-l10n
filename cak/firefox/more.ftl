@@ -61,3 +61,4 @@ the-ad-blocker = El q'atoy eltzijol – jun ewan samajib'äl yeruq'ät itzel taq
 so-many-ads = ¿La man nawïl ta achike nab'än kik'in ri eltzijol? ramaj chik richin ye'aq'ät.
 firefox-more-protection = { -brand-name-firefox }: K'ïy chajinïk. Jub'a' mayoj.
 were-obsessed-with = Niqa chi qawäch niqachajij ri awichinanem. Ruma ri' xqab'än chi nïm ruchuq'a' ri { -brand-name-firefox } Private Browsing chi kiwäch ri ch'aqa' chik.
+incognito-browser-what = Rokik'amaya'l tawila': Ri kan nuq'ejuj
