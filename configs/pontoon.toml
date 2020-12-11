@@ -125,6 +125,26 @@ locales = [
     reference = "en/firefox/*.ftl"
     l10n = "{locale}/firefox/*.ftl"
 [[paths]]
+    reference = "en/firefox/browsers/*.ftl"
+    l10n = "{locale}/firefox/browsers/*.ftl"
+[[paths]]
+    reference = "en/firefox/browsers/compare/**/*.ftl"
+    l10n = "{locale}/firefox/browsers/compare/**/*.ftl"
+[[paths]]
+    reference = "en/firefox/browsers/history/**/*.ftl"
+    l10n = "{locale}/firefox/browsers/history/**/*.ftl"
+    locales = [
+        "cs",
+        "cy",
+        "de",
+        "en-CA",
+        "en-GB",
+        "fr",
+        "kab",
+        "uk",
+        "zh-TW"
+    ]
+[[paths]]
     reference = "en/firefox/browsers/**/*.ftl"
     l10n = "{locale}/firefox/browsers/**/*.ftl"
 [[paths]]
