@@ -52,6 +52,7 @@ be-bold-and = Kanojin chuqa' tik'oje' awuchuq'a' toq xtacha' achike okik'amaya'l
 comparing-firefox-edge = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-microsoft } { -brand-name-edge }
 youll-never-guess = Majub'ey xtawïl achike ri okik'amaya'l jeb'ël richin ri anin chuqa' taq samajib'äl..
 comparing-firefox-ie = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-microsoft } { -brand-name-ie }
+old-habits-that = Ri ri'j taq na'oj k'ayew richin yemestäx, po ütz toq nib'anatäj.
 comparing-firefox-safari = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-apple } { -brand-name-safari }
 comparing-firefox-opera = Nijunamäx { -brand-name-firefox-browser } rik'in { -brand-name-opera }
 the-ad-blocker = El q'atoy eltzijol – jun ewan samajib'äl yeruq'ät itzel taq eltzijol.
