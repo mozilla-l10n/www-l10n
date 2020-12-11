@@ -62,3 +62,5 @@ so-many-ads = ¿La man nawïl ta achike nab'än kik'in ri eltzijol? ramaj chik r
 firefox-more-protection = { -brand-name-firefox }: K'ïy chajinïk. Jub'a' mayoj.
 were-obsessed-with = Niqa chi qawäch niqachajij ri awichinanem. Ruma ri' xqab'än chi nïm ruchuq'a' ri { -brand-name-firefox } Private Browsing chi kiwäch ri ch'aqa' chik.
 incognito-browser-what = Rokik'amaya'l tawila': Ri kan nuq'ejuj
+firefox-calls-it = { -brand-name-firefox } rub'ina'an ichinan okem pa k'amaya'l. { -brand-name-chrome } rub'ina'an tawila' rub'anikil. Chi ka'i' nikiya' q'ij chawe yatok pan ajk'amaya'l, akuchi' man nuyäk ta ri runatab'al awokem pa k'amaya'l.
+take-the-stress = Man kamoxïr chik richin nawïl jun jikïl okik'amaya'l.
