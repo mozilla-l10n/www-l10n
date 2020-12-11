@@ -39,6 +39,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = 在您的所有裝置而不只是瀏覽器也能獲得保護。
 navigation-v2-product-promise = 產品承諾
 navigation-v2-learn-how-each-firefox-product = 了解各 { -brand-name-firefox } 產品如何尊重您，保護您的資料。
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = 不用交出電子郵件地址就能註冊新帳號。
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
