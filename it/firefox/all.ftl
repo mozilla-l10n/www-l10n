@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Stai per scaricare:
 firefox-all-browser = Browser:
 firefox-all-platform = Piattaforma:
 firefox-all-language = Lingua:
+firefox-all-lang-multi = Più lingue
 firefox-all-sorry-we-couldnt-find = Impossibile trovare il file richiesto. Riprova o seleziona un elemento da scaricare dalla lista sottostante.
 firefox-all-the-pre-alpha-version = La versione pre-alpha per gli utenti esperti che amano dare la caccia agli arresti anomali e testare le nuove funzioni appena implementate.
 firefox-all-64-bit-installers = Programmi di installazione a 64-bit
