@@ -56,6 +56,7 @@ old-habits-that = Ri ri'j taq na'oj k'ayew richin yemestäx, po ütz toq nib'ana
 comparing-firefox-safari = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-apple } { -brand-name-safari }
 you-dont-have = Man k'atzinel ta nak'äm ana'oj rik'in ri pa rub'eyal okik'amaya'l.
 comparing-firefox-opera = Nijunamäx { -brand-name-firefox-browser } rik'in { -brand-name-opera }
+be-free-to = Katikïr naya' ruq'ij ri { -brand-name-firefox } toq nawajo'.
 the-ad-blocker = El q'atoy eltzijol – jun ewan samajib'äl yeruq'ät itzel taq eltzijol.
 so-many-ads = ¿La man nawïl ta achike nab'än kik'in ri eltzijol? ramaj chik richin ye'aq'ät.
 firefox-more-protection = { -brand-name-firefox }: K'ïy chajinïk. Jub'a' mayoj.
