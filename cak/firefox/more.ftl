@@ -50,6 +50,7 @@ big-isnt-always = K'o re man ütz ri nïm. Tacha' ri osq'opinïk chuwa.
 comparing-firefox-brave = Nijunamäx { -brand-name-firefox-browser } rik'in { -brand-name-brave }
 be-bold-and = Kanojin chuqa' tik'oje' awuchuq'a' toq xtacha' achike okik'amaya'l ütz chawa.
 comparing-firefox-edge = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-microsoft } { -brand-name-edge }
+youll-never-guess = Majub'ey xtawïl achike ri okik'amaya'l jeb'ël richin ri anin chuqa' taq samajib'äl..
 comparing-firefox-ie = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-microsoft } { -brand-name-ie }
 comparing-firefox-safari = Rujunamaxik { -brand-name-firefox-browser } rik'in { -brand-name-apple } { -brand-name-safari }
 comparing-firefox-opera = Nijunamäx { -brand-name-firefox-browser } rik'in { -brand-name-opera }
