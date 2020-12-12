@@ -39,6 +39,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Bảo vệ ngoài trình duyệt của bạn, trên tất cả các thiết bị của bạn.
 navigation-v2-product-promise = Lời hứa về sản phẩm
 navigation-v2-learn-how-each-firefox-product = Tìm hiểu cách mỗi sản phẩm { -brand-name-firefox } bảo vệ và tôn trọng dữ liệu của bạn.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Đăng ký tài khoản mới mà không cần chuyển địa chỉ email của bạn.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
