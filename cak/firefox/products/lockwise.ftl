@@ -11,6 +11,7 @@ lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — runuk'
 lockwise-firefox-lockwise-lets-you = { -brand-name-firefox-lockwise } nuya' q'ij chawe ütz yatok pa ewan taq tzij xe'ayäk pa { -brand-name-firefox } xab'akuchi', chuqa' toq man at k'o ta pa okik'amaya'l. Ruk'an rub'anikil 256-bit ewan rusik'ixik chuqa' Face/Touch ID.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Xab'akuchi' ke'ak'waj ri ewan taq atzij
+lockwise-securely-access-the-passwords = Ütz yatok pa ewan taq tzij e'ayakon pa { -brand-name-firefox } xab'akuchi' — ke ri' chuqa' toq man at k'o ta pan okik'amaya'l.
 lockwise-try-lockwise-now = Titojtob'ëx { -brand-name-lockwise } wakami
 lockwise-install-for-firefox = Tiyak richin { -brand-name-firefox }
 lockwise-open-in-firefox = Tijaq pa { -brand-name-firefox }
