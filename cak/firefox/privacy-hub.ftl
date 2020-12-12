@@ -27,7 +27,14 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Niqatïj qaq'ij richin niqa
 firefox-privacy-hub-data-security-is-complicated = K'ayew ri rujikomal tzij — o k'o ta chi ke ri. Ruma ri' toq niqasamajij rik'in ruwi' samaj richin yeqajäch ri taq tzij e k'o qik'in, e k'o rub'eyal richin yeqayäk chuqa' yeqachajij ri taq kiwäch, chuqa' majub'ey niqaya' kan richin yeqakamuluj ri taq tajinïk. Niqaya' ruq'ij ri awichinanem. Niqaya' qaramaj chi rij. Qasujun qatzij chi rij. Chuqa' niqak'üt chi kiwa ch'aqa' chik ajk'aymoloj achike rub'eyal nikib'än.
 firefox-privacy-hub-no-secrets = Majun ewäl
 firefox-privacy-hub-youll-always-know-where-you = Jantape' ütz xtatz'ët ri qach'ajch'ojri'ïl
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Majun cholb'äl ewan wawe'. Ri qak'ayij man rojqan ta richin nutïj ruq'ij pan ewäl ri qukub'ab'äl k'u'x. Ri <a href="{ $privacy }">Rutzijol Na'ojil</a> tikirel nisik'ïx. Xab'achike winäq chijun ri ruwach'ulew nitikïr nik'oje' pa <a href="{ $meetings }">rumolojri'ïl qajk'aymoloj pa taq wuqq'ij</a>. We nawajo' natz'ët chi jujun ri taq tzij yeqamöl, jaqäl ri qab'itz'ib'. Chuqa' röj.
 firefox-privacy-hub-why-trust-firefox = ¿Achike ruma nakuqub'a' ak'u'x chi rij ri { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Yeqanab'eyij ri qawinaq. Yojruto' jun <a href="{ $foundation }">ajmoloj majun ch'akoj rojqan</a>. Pa ri nab'ey q'ij, ruk'u'x qatzij ri niqachajij ri k'amaya'l chuqa' konojel ri e k'o chupam.
 firefox-privacy-hub-learn-more-about-our-mission = Tetamäx ch'aqa' chik chi rij ri taqel qataqanem
 firefox-privacy-hub-your-privacy-by-the-product = Awichinanem, tikojil chi tikojil
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } tikojil junwi yesamäj — ruma ewachib'en richin nikiya' ruq'ij richin nichajïx ri awichinane.
@@ -49,6 +56,9 @@ firefox-privacy-hub-always-in-your-control = Junelïk k'o pan aq'a'
 firefox-privacy-hub-want-to-customize-what = ¿La nawajo' nawichinaj ri naq'ät? Ri anuk'ulem naqaj k'o wi rik'in ri pitz'oj.
 firefox-privacy-hub-protection-beyond-tracking = Chajinïk näj chuwäch ojqanem
 firefox-privacy-hub-if-you-have-a-firefox-account = We k'o jun { -brand-name-firefox-account } awik'in, chuqa' yatikïr natz'ët achike rub'eyal yatqato' richin niqachajij ri taq awetamab'al chuqa' ri ewan taq atzij.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = K'ïy { $trackers } ojqanela' eq'aton q'ij q'ij kichin ri ye'okisan ri { -brand-name-firefox } chijun ri ruwach'ulew
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Ke'akanoj taq tz'ilanem
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
