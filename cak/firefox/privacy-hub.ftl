@@ -24,6 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Niqajikib'a' chi jub'a' ok qeta
 firefox-privacy-hub-all-tech-companies-collect = Konojel ri na'onel taq ajk'aymoloj yekimöl taq tzij richin nikib'än ütz chi ke ri taq kitikojil. Po man k'atzinel ta ruk'wan k'ïy rub'anikil. Ri taq tzij yeqajo' e ja ri yek'atzin chawe. Niqak'utuj chi qe: ¿Pa qitzij chi yeqajo' ri taq tzij ri'? ¿Chuqa' jampe' yojtikïr yeqayüj?
 firefox-privacy-hub-keep-it-safe = K'o chi yejike'
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Niqatïj qaq'ij richin niqachajij ri awetamab'al
+firefox-privacy-hub-data-security-is-complicated = K'ayew ri rujikomal tzij — o k'o ta chi ke ri. Ruma ri' toq niqasamajij rik'in ruwi' samaj richin yeqajäch ri taq tzij e k'o qik'in, e k'o rub'eyal richin yeqayäk chuqa' yeqachajij ri taq kiwäch, chuqa' majub'ey niqaya' kan richin yeqakamuluj ri taq tajinïk. Niqaya' ruq'ij ri awichinanem. Niqaya' qaramaj chi rij. Qasujun qatzij chi rij. Chuqa' niqak'üt chi kiwa ch'aqa' chik ajk'aymoloj achike rub'eyal nikib'än.
 firefox-privacy-hub-no-secrets = Majun ewäl
 firefox-privacy-hub-youll-always-know-where-you = Jantape' ütz xtatz'ët ri qach'ajch'ojri'ïl
 firefox-privacy-hub-why-trust-firefox = ¿Achike ruma nakuqub'a' ak'u'x chi rij ri { -brand-name-firefox }?
