@@ -15,6 +15,7 @@ browsers-chromebook-get-firefox-desktop = Obter o { -brand-name-firefox } Deskto
 browsers-chromebook-dropdown-copy = Obter o { -brand-name-firefox } para { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Porquê o <span>{ -brand-name-firefox }</span> para o { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Apesar do { -brand-name-chromebook } já ter o { -brand-name-chrome } instalado, descarregar e utilizar o { -brand-name-firefox } como o seu navegador principal tem alguns benefícios:
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes

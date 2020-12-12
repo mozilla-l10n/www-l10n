@@ -36,6 +36,8 @@ firefox-desktop-download-blocks-social-trackers = Bloqueia rastreadores de redes
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilidade para o sistema operativo
 firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de ecrã no navegador
+firefox-desktop-download-primary-password = Palavra-passe principal
+# Obsolete string
 firefox-desktop-download-master-password = Palavra-passe principal
 firefox-desktop-download-we-block-the-ad = Bloqueamos os rastreadores de anúncios. Assim, você explora a Internet mais rapidamente.
 firefox-desktop-download-ads-are-distracting = Os anúncios distraem e tornam as páginas de Internet mais lentas enquanto os respetivos rastreadores monitorizam todos os movimentos que você faz na Internet. O { -brand-name-firefox-browser } bloqueia automaticamente a maioria dos rastreadores. Portanto, não é necessário andar a esmiuçar as suas configurações de segurança.
@@ -155,6 +157,7 @@ firefox-desktop-download-now-mac = Agora <strong>abra</strong> o ficheiro que ac
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Está a ter problemas? <a { $attrs }>Obtenha ajuda com a sua instalação</a>.
 firefox-desktop-download-in-another-language = Transferir noutro idioma ou para outro sistema operativo.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Está a utilizar um sistema operativo desatualizado e inseguro <a href="{ $url }">que já não é suportado pelo { -brand-name-firefox }</a>.

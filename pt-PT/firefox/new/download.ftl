@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Basta transferir o navegador
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Está a utilizar um sistema operativo desatualizado e inseguro <a href="{ $url }">que já não é suportado pelo { -brand-name-firefox }</a>.
@@ -54,3 +55,5 @@ firefox-new-its-privacy-and-peace-of = Também é <strong>privacidade e tranquil
 firefox-new-its-a-family-of-products = É uma <strong>família de produtos</strong> que trata os seus dados pessoais com respeito.
 firefox-new-its-everything-you-need-to = É tudo o que precisa de saber acerca de <strong>manter-se seguro(a) online</strong>.
 firefox-new-its-a-community-that-believes = É <strong>uma comunidade</strong> que acredita que a tecnologia pode fazer melhor.
+firefox-new-windows-10 = { -brand-name-windows }10
+firefox-new-visit-support-for-more = Visite o suporte para obter mais detalhes
