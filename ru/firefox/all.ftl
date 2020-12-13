@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Вы собираетесь загруз
 firefox-all-browser = Браузер:
 firefox-all-platform = Платформа:
 firefox-all-language = Язык:
+firefox-all-lang-multi = Множество языков
 firefox-all-sorry-we-couldnt-find = К сожалению, мы не смогли найти нужную вам версию. Пожалуйста, попробуйте ещё раз, или выберите из списка ниже.
 firefox-all-the-pre-alpha-version = Предварительная альфа-версия для опытных пользователей, которые любят «охотиться» за падениями и тестировать новые функции по мере их разработки.
 firefox-all-64-bit-installers = 64-битные установщики
