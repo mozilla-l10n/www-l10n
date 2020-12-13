@@ -35,6 +35,7 @@ firefox-all-count-on-stability-and = Pričakujte stabilnost in enostavnost upora
 firefox-all-windows-installers-for = Namestitveni programi za sistem Windows, ki v podjetniških okoljih poenostavljajo namestitev in upravljanje brskalnika { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Namestitveni programi ARM64/AArch64
 firefox-all-arm64-installers-optimized = Namestitveni programi ARM64/AArch64, optimizirani za računalnike { -brand-name-windows } s procesorji Snapdragon.
+firefox-all-product-send-link = Pošljite povezavo za prenos v telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Izberite 32-bitni namestitveni program za računalnike z 32-bitnimi procesorji – ali za starejše oziroma manj zmogljive računalnike. <a href="{ $url }">Če niste prepričani</a>, ali bi izbrali 64-bitni ali 32-bitni program, vam priporočamo slednjega.
@@ -56,3 +57,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
