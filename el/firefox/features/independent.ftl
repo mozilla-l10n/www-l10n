@@ -9,7 +9,7 @@
 features-independent-firefox-a-different = { -brand-name-firefox }, ένα διαφορετικό πρόγραμμα περιήγησης για διαφορετικούς καιρούς. Περιηγηθείτε ελεύθερα.
 # HTML page description
 features-independent-browse-the-internet = Περιηγηθείτε στο διαδίκτυο, όπως θα έπρεπε να είναι… ελεύθερο, ασφαλές και προσβάσιμο σε όλους. Δηλώστε την διαδικτυακή σας ανεξαρτησία.
-features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Επαναστατήστε με αιτία
+features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Επανάσταση με ιδανικά
 features-independent-firefox-is-independent = Ο { -brand-name-firefox } είναι ανεξάρτητος και κομμάτι του μη κερδοσκοπικού ιδρύματος { -brand-name-mozilla }, το οποίο αγωνίζεται για τα ψηφιακά σας δικαιώματα, κρατά τη δύναμη των εταιρειών υπό έλεγχο και κάνει το Διαδίκτυο προσιτό σε οποιονδήποτε, οπουδήποτε.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Χωρίς καμία δέσμευση
