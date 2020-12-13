@@ -60,6 +60,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = We k'o jun { -brand-name-fir
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = K'ïy { $trackers } ojqanela' eq'aton q'ij q'ij kichin ri ye'okisan ri { -brand-name-firefox } chijun ri ruwach'ulew
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Toq natz'ib'aj ri rochochib'al ataqoya'l pa { -brand-name-firefox-monitor } anin niqamestaj toq xqajikib'a' yan we e k'o kitz'ilanem taq tzij etaman kiwa — man ke ta ri' we naya' q'ij chi qe richin yeqachajij ri k'ak'a' taq rutz'ilanem awetamab'al.
 firefox-privacy-hub-check-for-breaches = Ke'akanoj taq tz'ilanem
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Tetamäx ch'aqa' chik chi kij ri { -brand-name-lockwise }
@@ -68,3 +69,12 @@ firefox-privacy-hub-send-a-file = Titaq jun yakb'äl
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Tik'ul { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } awichin
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Tak'waj ri awichinanem chuqa' taq ayaketal xab'akuchi' rik'in jun { -brand-name-firefox-account }
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = ¿La k'o chik jun rub'i' ataqoya'l? <a { $sign_in } class="{ $class_name }">Tatikirisaj Molojri'ïl</a> o <a href="{ $learn_more }">tawetamaj ch'aqa' chik</a> achike rub'eyal natün awi' pa { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Tasik'ij ri <a href="{ $url }">Runa'ojil Ichinanem</a> kichin ri taq qatikojil

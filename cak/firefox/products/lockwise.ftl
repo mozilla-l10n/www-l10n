@@ -16,6 +16,7 @@ lockwise-try-lockwise-now = Titojtob'ëx { -brand-name-lockwise } wakami
 lockwise-install-for-firefox = Tiyak richin { -brand-name-firefox }
 lockwise-open-in-firefox = Tijaq pa { -brand-name-firefox }
 lockwise-only-in-the-firefox-browser = Xa xe ri { -brand-name-firefox-browser }
+lockwise-256-bit-encryption-protects = Ri 256i-bit ewan rusik'isik yatruchajij toq yaximon
 lockwise-your-privacy-comes-first = Nab'ey ri awichinanem.
 lockwise-we-keep-your-data-safe = Yeqachajij ütz ri taq atzij, majub'ey xkek'ayïx.
 lockwise-support = Tob'äl
