@@ -10,7 +10,7 @@ whatsnew81-page-title = Novedades de { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = Un nuevo { -brand-name-firefox } para cada dispositivo
 whatsnew81-main-intro = No importa el sistema operativo que tengas - hay un navegador para ello que es mejor que nunca y respaldado por empresas sin fines de lucro.
-whatsnew81-send-form-label = Ingresa tu correo electrónico para un enlace de descarga
+whatsnew81-send-form-label = Escribe tu correo electrónico para obtener un enlace de descarga
 whatsnew81-send-form-label-alt = Ingresa tu correo electrónico o número telefónico para obtener un enlace de descarga
 whatsnew81-scan-this-qr-code = Escanea este código QR para descargar
 # content blocks below hero
