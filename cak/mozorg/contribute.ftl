@@ -45,9 +45,14 @@ contribute-opportunities = Rutzijol chuqa' retal kisamaj to'onela'
 ## Made by
 
 contribute-made-by-heading = B'anon kuma winaqi' yekiköt achi'el rat
+contribute-made-by-desc = Toq yato'on rik'in ri { -brand-name-mozilla }, yatok pa ri tinamït chijun ri ruwach'ulew, nuk'un kuma winaqi' aj chijun ri ruwach'ulew, ri nikina'ojij chi qonojel k'o chi niqato' ri k'amaya'l chi ütz b'ey tuk'waj.
+contribute-made-by-desc-cont = Niqana'ojij chi ri ruto'ik tinamït yalan k'atzinel richin nitz'uk jun jalajöj k'amaya'l, k'ak'a' chuqa' tikisuju' kitzij chi kiwa ri winaqi' nik'atzin chi ke. Estape' k'o awetamab'al pa ruwi' na'ob'äl, runuk'ik tinamïtm, o xa xe rik'in jun kematz'ib' chuqa' jub'a' jamäl aramaj, yatikïr yojato' richin niqab'än jun ütz k'ojlib'äl chi re ri k'amaya'l.
 
 ## Newsletter
 
+contribute-newsletter-heading = ¿La k'a man at jikïr ta?
+contribute-newsletter-sub-heading = Tak'ulu' rutzijol rij ri tinamït chuqa' taq to'onïk pa ri ataqob'al
+contribute-newsletter-desc = Tatz'ib'aj awi' pa ri ruch'utiwuj rutzijol, tatunu' awi' pa Mozillians chi jun ri ruwach'ulew richin natz'ët ri retal nima'q taq samaj richin nato' ri rutaqanem rutzij { -brand-name-mozilla }.
 
 ## Support
 
