@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = ปรับแต่งที่�
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = จมปลักกับที่คั่นหน้า
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = จัดที่คั่นหน้าของคุณอย่างแม่นยำด้วย<a href="{ $url }">ส่วนเสริม</a>สำหรับจัดการที่คั่นหน้าแบบต่าง ๆ ตั้งแต่แบบที่จับภาพทั้งหน้า แบบที่เปลี่ยนแถบข้างอย่างรวดเร็ว จนถึงแบบที่ปกปิดที่คั่นหน้่าส่วนตัวอย่างแน่นหนา
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

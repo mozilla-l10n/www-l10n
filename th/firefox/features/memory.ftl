@@ -6,13 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = เบราว์เซอร์ Firefox: ใช้หน่วยความจำน้อยกว่า รับความเร็วได้มากกว่า
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: ใช้หน่วยความจำน้อยกว่า รับความเร็วได้มากกว่า
 # HTML page description
 features-memory-is-your-computer-slow-your = คอมพิวเตอร์ของคุณช้าใช่ไหม? เบราว์เซอร์ของคุณอาจใช้หน่วยความจำเยอะเกินไป เปลี่ยนเป็น { -brand-name-firefox } วันนี้เพื่อความเร็วที่มากกว่า
 features-memory-less-memory-usage-than-chrome = ใช้หน่วยความจำน้อยกว่า { -brand-name-chrome }
 features-memory-if-your-web-browser-uses = ถ้าเว็บเบราว์เซอร์ของคุณใช้หน่วยความจำมากเกินไป เปลี่ยนเป็น { -brand-name-firefox }
 features-memory-speed-up-your-computer = ทำให้คอมพิวเตอร์ของคุณเร็วขึ้น
-features-memory-every-computer-program-you = ชุดคำสั่งคอมพิวเตอร์ทุกอย่างใช้หน่วยความจำ เมื่อถูกใช้มากเกินไป ระบบของคุณจะช้าาาาาาาาาาลง การใช้หน่วยความจำอย่างเพียงพอทำให้คุณสามารถท่องเว็บได้ราบรื่นและเหลือหน่วยความจำจำนวนมากเพื่อทำให้คอมพิวเตอร์ตอบสนอง
+features-memory-every-computer-program-you = ชุดคำสั่งคอมพิวเตอร์ทุกอย่างใช้หน่วยความจำ เมื่อถูกใช้มากเกินไป ระบบของคุณจะช้าาาาาาาาาาลง { -brand-name-firefox } จะใช้หน่วยความจำอย่างเพียงพอเพื่อให้คุณสามารถท่องเว็บได้อย่างราบรื่นและเหลือหน่วยความจำจำนวนมากเพื่อให้คอมพิวเตอร์ตอบสนองอยู่ตลอดเวลา
 features-memory-stop-running-out-of-memory = หยุดการหมดของหน่วยความจำ
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
