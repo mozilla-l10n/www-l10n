@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-page-title = Sujun Samaj richin Yato'on pa { -brand-name-mozilla }
 contribute-how-heading = Achike rub'eyal yatikïr yato'on…
 
 ## Contribution tasks
