@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Anda akan mengunduh:
 firefox-all-browser = Peramban:
 firefox-all-platform = Platform:
 firefox-all-language = Bahasa:
+firefox-all-lang-multi = Beragam bahasa
 firefox-all-sorry-we-couldnt-find = Maaf, kami tidak dapat menemukan unduhan yang Anda cari. Silakan coba lagi, atau pilih unduhan dari daftar di bawah ini.
 firefox-all-the-pre-alpha-version = Versi pra-alfa untuk pengguna berdaya yang gemar berburu mogokan dan menguji fitur-fitur baru saat mereka dikodekan.
 firefox-all-64-bit-installers = Penginstal 64-bit
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Andalkan stabilitas dan kemudahan penggunaa
 firefox-all-windows-installers-for = Penginstal Windows untuk TI perusahaan yang menyederhanakan konfigurasi, penyebaran, dan pengelolaan { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Pemasang ARM64/AArch64
 firefox-all-arm64-installers-optimized = Pemasang ARM64/AArch64 dioptimalkan untuk PCs { -brand-name-windows } yang didukung Snapdragon.
+firefox-all-product-send-link = Kirim tautan unduhan ke ponsel Anda.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Pilih penginstal 32-bit untuk komputer dengan prosesor 32-bit — atau untuk komputer lama atau lemah. <a href="{ $url }">Jika ragu</a> memilih pemasang 64-bit atau 32-bit, kami sarankan Anda memilih yang 32-bit.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
