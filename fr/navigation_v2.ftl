@@ -70,5 +70,7 @@ navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Explorez le Web avec le navigateur { -brand-name-firefox } pour la réalité virtuelle.
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Donnez de votre voix pour que l’avenir du Web puisse entendre tout le monde.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Apprenez-en davantage sur le nouveau langage de bas niveau de type assemblage.
 navigation-v2-more-mozilla-innovation = Plus d’innovations de { -brand-name-mozilla }
