@@ -9,6 +9,8 @@
 ## Page heading
 
 contribute-page-title = Sujun Samaj richin Yato'on pa { -brand-name-mozilla }
+contribute-page-heading = Nik'atzin ri awetamab'al richin jun ütz k'amaya'l
+contribute-page-intro = { -brand-name-mozilla } jun moloj majun ch'akoj rojqan, ri nisamäj richin chi ri k'amaya'l jaqäl chuqa' ütz chi qawa qonojel. Chuqa' niqajo' ri ato'ik. Toq yatok qik'in pa qatinamit, yatikïr nanimirisaj ri k'ak'a' taq na'oj, nawutzilaj ri rujachik retal pwäq chuqa' nikuqub'an k'u'x richin chi ri k'amaya'l nok jun ütz k'ojlib'äl chi qawa qonojel.
 contribute-how-heading = Achike rub'eyal yatikïr yato'on…
 
 ## Contribution tasks
