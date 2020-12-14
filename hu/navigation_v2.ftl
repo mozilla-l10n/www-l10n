@@ -39,6 +39,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Szerezzen védelmet a böngészőjén túl, az összes eszközén.
 navigation-v2-product-promise = Termék ígéret
 navigation-v2-learn-how-each-firefox-product = Tudja meg, hogy a { -brand-name-firefox } termékek hogyan védik és tartják tiszteletben az adatait.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (béta)
 navigation-v2-sign-up-for-new-accounts = Regisztráljon új fiókokat anélkül, hogy átadná az e-mail-címét.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (béta)
