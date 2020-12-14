@@ -16,6 +16,7 @@ reporting-please-report-all-incidents = Veuillez signaler tous les incidents dan
 reporting-how-to-give-a-report = Comment effectuer un signalement
 reporting-if-you-believe-someone = Si vous pensez que quelqu’un peut craindre pour son intégrité physique, appelez votre numéro d’urgence local.
 reporting-if-you-have-a-report-by = Si vous disposez d’un signalement <strong>par <em>et</em> sur</strong> un contributeur (par exemple, le signalement est effectué <strong>par</strong> un contributeur <strong>au sujet d’</strong>un autre contributeur), vous devez effectuer votre signalement à la <a href="{ $community_hotline }">ligne d’assistance téléphonique des Directives relatives à la participation communautaire</a>.
+reporting-if-you-have-a-report-by-email = Si vous disposez d’un signalement <strong>par <em>et</em> sur</strong> un contributeur (par exemple, le signalement est effectué <strong>par</strong> un contributeur <strong>au sujet d’</strong>un autre contributeur), vous devez effectuer votre signalement via <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 reporting-if-you-have-a-report-involving = Si vous disposez d’un signalement <strong>concernant un employé, un sous-traitant ou un fournisseur</strong> (par exemple, le signalement est effectué <strong>par</strong> un employé ou <strong>au sujet d’</strong> un employé), vous devez le signaler à la <a href="{ $employee_hotline }">ligne d’assistance téléphonique des employés de { -brand-name-mozilla }</a>.
 reporting-put-another-way = Autrement dit…
 reporting-by = Par
@@ -23,7 +24,6 @@ reporting-employee = Employé
 reporting-contributor = Contributeur
 reporting-about = Au sujet de
 reporting-employee-hotline = Ligne d’assistance téléphonique pour les employés
-reporting-community-hotline = Ligne d’assistance téléphonique communautaire
 reporting-contractor = Sous-traitant
 reporting-vendor = Fournisseur
 reporting-if-someone-reports-to = Si quelqu’un vous fait part d’un signalement…
@@ -31,6 +31,7 @@ reporting-do-not-question-or-judge = Ne remettez pas en question leur expérienc
 reporting-do-not-invite-them-to = Ne les invitez pas à rétracter leur signalement d’incident.
 reporting-do-not-promise-any-particular = Ne promettez aucune réponse particulière.
 reporting-do-let-them-know-that = <strong>Veillez</strong> à leur faire savoir que pour garantir l’efficacité de la politique de { -brand-name-mozilla }, les signalements doivent passer par la ligne d’assistance téléphonique. S’ils ne se sentent pas à l’aise pour remplir eux-mêmes le signalement, vous pouvez le faire à leur place.
+reporting-do-let-them-know-that-email = <strong>Veillez</strong> à leur faire savoir que pour garantir l’efficacité de la politique de { -brand-name-mozilla }, les signalements doivent passer par la ligne d’assistance téléphonique ou par e-mail. S’ils ne se sentent pas à l’aise pour remplir eux-mêmes le signalement, vous pouvez le faire à leur place.
 reporting-no-matter-who-files-the = Quel que soit l’auteur du signalement, il est important de fournir les informations suivantes.
 reporting-names-of-the-people-involved = Noms des personnes concernées (si les noms sont inconnus, utilisez des descriptions et toute information d’identification comme l’apparence, le rôle, l’identifiant, l’affiliation au projet ou à la communauté).
 reporting-description-of-incident = Description de l’incident, y compris les dates (ou l’évènement) et les lieux mémorables.
