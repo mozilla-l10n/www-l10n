@@ -44,6 +44,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } nuch
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox }<strong>nuchajij</strong> ri awichinanem pa jujun tikojil
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ q'aton ojqanela' — pa ruyonil
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Ri ojqanem xupo' ri' pa jun kematz'ib'il yab'il: ri taq ajk'aymoloj nikojqaj ri nab'än, napïtz' chuqa' yaloq'on, chuqa' yekimöl taq tzij richin nikinab'ej chuqa' nikib'än chawe achike ri k'o chi nab'än. Niqana'ojij chi itzel chi re ri awichinanem. Ruma ri' ri ajoyonib'äl chuqa' ajkematz'ib' okik'amaya'l { -brand-name-firefox } kik'wan ri chajinïk chuwäch ri utzirisan ojqanem ri k'o chik pe chupam.
 firefox-privacy-hub-if-you-want-to-see-what = We nawajo' natz'ët achike ch'akulal yeq'at ruma ri { -brand-name-firefox }, tab'etz'eta' re ruxaq pa ri ajch'atal awokik'amaya'l richin { -brand-name-firefox }.
 firefox-privacy-hub-see-what-firefox-has-blocked = Tatz'eta' achike ruq'aton ri { -brand-name-firefox } awuma rat
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -63,6 +65,7 @@ firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Toq natz'ib'aj ri rochochib'al ataqoya'l pa { -brand-name-firefox-monitor } anin niqamestaj toq xqajikib'a' yan we e k'o kitz'ilanem taq tzij etaman kiwa — man ke ta ri' we naya' q'ij chi qe richin yeqachajij ri k'ak'a' taq rutz'ilanem awetamab'al.
 firefox-privacy-hub-check-for-breaches = Ke'akanoj taq tz'ilanem
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Ri ewan taq tzij chuqa' retal awujil xe'ayäk pa { -brand-name-firefox-lockwise } ewan kisik'ixik pa ronojel taq awokisab'al, achi'el chuqa' röj man yojtikïr ta yeqatz'ët.
 firefox-privacy-hub-learn-more-about-lockwise = Tetamäx ch'aqa' chik chi kij ri { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Titaq jun yakb'äl
