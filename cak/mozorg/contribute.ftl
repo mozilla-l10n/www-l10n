@@ -57,7 +57,11 @@ contribute-newsletter-desc = Tatz'ib'aj awi' pa ri ruch'utiwuj rutzijol, tatunu'
 ## Support
 
 contribute-support-heading = Tk'ul To'ïk
+contribute-support-desc = { -brand-name-mozilla } k'o jun rumolaj to'onela', ri yatkito' rik'in xab'achike ak'ayewal.
 contribute-mozilla-support = { -brand-name-mozilla } Tob'äl
 
 ## Web compat
 
+contribute-web-compat-heading = ¿La k'o ak'ayewal rik'in jun ajk'amaya'l ruxaq?
+contribute-web-compat-desc = We ri awetamab'al jun wi rik'in jun ajk'amaya'l ruxaq pa taq okik'amaya'l, rik'in jub'a' xawïl jun k'ayewal richin chi ri ajk'amaya'l nuk'äm ri'. ¡Niqajo' niqanab'ej!
+contribute-report-issue = Tiya' rutzijol jun ruxaq k'amaya'l

@@ -39,6 +39,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Tak'ulu' nïm achajinik achi'el pa okik'amaya'l pa ronojel awokisab'al.
 navigation-v2-product-promise = Sujuj Rutzij Tikojil
 navigation-v2-learn-how-each-firefox-product = Tawetamaj achi'el jujun rutikojil { -brand-name-firefox } yechajin chuqa' yekamelan ri taq atzij.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Tatz'ib'aj ab'i' richin ye'ak'ül k'a'a' taq rub'i' ataqoya'l, akuchi' man najäch ta ri ataqoya'l.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
