@@ -18,7 +18,7 @@ firefox-accounts-there-is-a-way-to-protect = プライバシーを守る方法�
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = 個人を商材にするビジネスから身を守りましょう。
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = { -brand-name-firefox } に<br>ログインしました。<br><span>{ -brand-name-firefox-monitor } をお試しください。</span>
+firefox-accounts-youre-signed-in-to = { -brand-name-firefox } に<br>ログインしましています。<br><span>{ -brand-name-firefox-monitor } をお試しください。</span>
 firefox-accounts-see-if-youve-been = オンラインのデータ侵害に巻き込まれていないか確認しましょう。
 firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } にログイン
 firefox-accounts-join-firefox = { -brand-name-firefox } に参加する
