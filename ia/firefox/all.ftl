@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Tu es preste a discargar:
 firefox-all-browser = Navigator:
 firefox-all-platform = Platteforma:
 firefox-all-language = Lingua:
+firefox-all-lang-multi = Plure linguas
 firefox-all-sorry-we-couldnt-find = Pardono, nos non poteva trovar le discarga que tu recerca. Reproba, o elige un discarga del lista infra.
 firefox-all-the-pre-alpha-version = Le pre-alpha version pro usatores experte qui ama chassar crashes e testar nove functionalitates a pena illos es implementate.
 firefox-all-64-bit-installers = Installatores a 64 bit
