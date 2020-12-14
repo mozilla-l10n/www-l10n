@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = เบราว์เซอร์ Firefox: ที่คั่นหน้าที่ดีกว่าในทุกที่ที่คุณไป
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: ที่คั่นหน้าที่ดีกว่าในทุกที่ที่คุณไป
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = จัดการที่คั่นหน้าของคุณเป็นโฟลเดอร์และเข้าถึงจากอุปกรณ์ทุกตัวของคุณ ตั้งแต่อุปกรณ์เดสก์ท็อปจนถึงอุปกรณ์เคลื่อนที่
 features-bookmarks-better-bookmarks = ที่คั่นหน้าที่ดีกว่า
@@ -21,6 +21,7 @@ features-bookmarks-fly-with-that-bookmark = พกที่คั่นหน้
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = นำลิงก์โปรดไปกับคุณด้วย โดยใช้ { -brand-name-firefox-sync } เพื่อเข้าถึงที่คั่นหน้าจากอุปกรณ์ต่าง ๆ ตั้งแต่เครื่องตั้งโต๊ะไปถึงอุปกรณ์เคลื่อนที่ หรือลอง <a href="{ $url }">{ -brand-name-pocket }</a> เพื่อเก็บบทความหรือเพจใด ๆ ไว้ออนไลน์และกลับมาอ่านทีหลัง – แม้จะไม่มีอินเทอร์เน็ต
+features-bookmarks-customize-that-bookmark = ปรับแต่งที่คั่นหน้านั้น
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = จมปลักกับที่คั่นหน้า
