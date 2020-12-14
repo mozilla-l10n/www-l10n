@@ -68,10 +68,13 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Ri ewan taq tzij chuqa' retal awujil xe'ayäk pa { -brand-name-firefox-lockwise } ewan kisik'ixik pa ronojel taq awokisab'al, achi'el chuqa' röj man yojtikïr ta yeqatz'ët.
 firefox-privacy-hub-learn-more-about-lockwise = Tetamäx ch'aqa' chik chi kij ri { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Man yojtikïr ta niqatz'ët ri kib'i' o kipam ri taq yakb'äl e nima'q ri ye'akomonij rik'in { -brand-name-firefox-send } ruma ewan kisik'ixik chijun. Rat nacha' achike nitikïr nitz'eto ri natäq, chuqa' yatikïr nab'än runuk'ulem ruq'ijul richin nik'is chuqa' jun ewan rutzij.
 firefox-privacy-hub-send-a-file = Titaq jun yakb'äl
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } yeruchilab'ej jeb'ël taq wachinäq, cha'on kuma qitzij taq winäq, akuchi' man yemöl ta ri taq rutzij runatab'al awokem pa k'amaya'l chuqa' man nikomonïx ta ri awetamab'al kik'in kajk'aymoloj taq eltzijol.
 firefox-privacy-hub-get-pocket = Tik'ul { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } awichin
+firefox-privacy-hub-all-the-information-synced = Ronojel ri awetamab'al ximon rik'in { -brand-name-firefox-account } — pa ri runatab'al awokem pa k'amaya'l k'a ri ewan taq tzij — ewan kisik'ixik. Ri ewan rutzij rub'i' ataqoya'l, xa xe rik'in ri' yatikïr yatok chupam.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Tak'waj ri awichinanem chuqa' taq ayaketal xab'akuchi' rik'in jun { -brand-name-firefox-account }
 # Variables:
 #   $signin (string) - anchor link url and attributes

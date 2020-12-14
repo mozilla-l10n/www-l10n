@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
+# HTML page title
+welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } pa ruyonil nuchajij ri awichinanem
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+welcome-page8-your-privacy-respected = Kamelan ri awichinanem, <strong>pa ruyonil</strong>
+welcome-page8-firefox-automatically-protects = { -brand-name-firefox } pa ruyonil nuchajij ri awichinanem, richin loman yak'ase' toq yatok pa k'amab'ey.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
