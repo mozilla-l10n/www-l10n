@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
-footer-mozilla-manifesto = { -brand-name-mozilla }宣言
+footer-mozilla-manifesto = { -brand-name-mozilla } 宣言
 footer-privacy-hub = 隐私中心
 footer-privacy = 隐私
 footer-press = 新闻
