@@ -12,6 +12,7 @@ learn-more-faq = Preguntas frecuentes sobre { -brand-name-firefox }
 the-history-of = La historia de los navegadores web
 firefox-has-been = { -brand-name-firefox } ha estado ahí desde casi el principio.
 firefox-rebel-with = { -brand-name-firefox }: Rebelde con causa
+firefox-is-independent = { -brand-name-firefox } es independiente y respaldado por { -brand-name-mozilla }, organización sin fines de lucro que lucha por tus derechos en línea y hace Internet accesible para todos, en todas partes.
 what-is-a = ¿Qué es un navegador web?
 a-web-browser = Un navegador web te lleva a cualquier lugar de Internet, permitiéndote ver texto, imágenes y video de cualquier parte del mundo.
 update-your-browser = Actualiza tu navegador al rápido y seguro { -brand-name-firefox }.

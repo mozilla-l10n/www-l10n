@@ -39,6 +39,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Obtén protección más allá de tu navegador, en todos tus dispositivos.
 navigation-v2-product-promise = Promesa del producto
 navigation-v2-learn-how-each-firefox-product = Aprende cómo cada producto { -brand-name-firefox } protege y respeta tus datos.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Regístrate para tener nuevas cuentas sin entregar tu correo electrónico.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
