@@ -7,12 +7,15 @@
 
 # HTML page title
 firefox-faq = Preguntas frecuentes sobre { -brand-name-firefox }
+whether-you-searched-privacy = Si buscabas un navegador rápido que protegiera tu privacidad, estas preguntas frecuentes están aquí para responder a las preguntas más urgentes relacionadas con { -brand-name-firefox }.
+whether-you-searched-independant = Tanto si buscabas un navegador rápido como si buscas tecnología independiente que proteja tu privacidad, estas preguntas frecuentes están aquí para responder a las preguntas más urgentes relacionadas con { -brand-name-firefox }.
 what-is-firefox = ¿Qué es { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = El { -brand-name-firefox-browser } es el único navegador importante respaldado por una organización sin fines de lucro que no vende tus datos personales a los anunciantes y te ayuda a proteger tu información personal. Aprende más acerca de <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y <a href="{ $url2 }">otros productos.</a>
 how-do-i = ¿Cómo obtengo { -brand-name-firefox-browser }?
 
 # Variables:
@@ -22,10 +25,12 @@ how-do-i = ¿Cómo obtengo { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Puedes descargar fácilmente el navegador de escritorio { -brand-name-firefox } <a href="{ $url }">aquí.</a> { -brand-name-firefox } funciona en dispositivos<a href="{ $url2 }"{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> y <a "{ $url4 }"> { -brand-name-linux }</a>, y también está disponible para <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Asegúrate de que estás descargando nuestro navegador desde una de nuestras páginas de confianza de { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = ¿Es { -brand-name-firefox } gratuito?
 yep-the-firefox = ¡Sí! { -brand-name-firefox-browser } es gratuito. Súper gratuito en realidad. No hay costos ocultos ni nada. No pagas nada para usarlo, y no vendemos tus datos personales.
 related-questions-free = Preguntas relacionadas: Es { -brand-name-firefox-browser } gratuito, cuesta dinero { -brand-name-firefox }
 is-chrome-better = ¿Es { -brand-name-chrome } mejor que { -brand-name-firefox }?
+no-we-dont = No, no creemos que { -brand-name-chrome } sea mejor que { -brand-name-firefox }, y ésta es la razón: cuando las personas preguntan qué navegador es mejor, realmente preguntan qué navegador es más rápido y más seguro. { -brand-name-firefox } se actualiza mensualmente para asegurar que tienes el navegador más rápido que respeta tu privacidad automáticamente.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -54,17 +59,20 @@ nope-never-have = No Nunca lo ha hecho, y nunca lo hará. Y te protegemos de muc
 why-is-firefox = ¿Por qué es { -brand-name-firefox } tan lento?
 firefox-isnt-slow = { -brand-name-firefox } no es lento… ahora. En 2017, reconstruimos completamente el motor del navegador (llamado Quantum) para asegurarnos de que { -brand-name-firefox } pudiera competir con otros navegadores importantes. Y nuestros bloqueadores de rastreadores ayudan a que las páginas se carguen aún más rápido. Así que { -brand-name-firefox } es increíblemente rápido sin sacrificar tu privacidad.
 is-firefox-chromium = ¿Está { -brand-name-firefox } basado en { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } no está basado en { -brand-name-chromium } (el proyecto de navegador de código abierto en el núcleo de { -brand-name-google } { -brand-name-chrome }). De hecho, somos uno de los últimos navegadores importantes que no lo está. { -brand-name-firefox } funciona con nuestro motor de navegación Quantum creado específicamente para { -brand-name-firefox }, para que podamos garantizar que tus datos se manejen con respeto y se mantengan privados.
 does-firefox-use = ¿Usa { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } es el motor de búsqueda predeterminado en { -brand-name-firefox }, lo que significa que puedes buscar en la web directamente desde la barra de direcciones. <a href="{ $url }">Aprende más acerca de las preferencias del motor de búsqueda y cómo cambiar los predeterminados.</a>
 does-firefox-have = ¿Tiene { -brand-name-firefox } una VPN integrada?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = { -brand-name-firefox } no tiene una VPN (red privada virtual) integrada, pero hay dos productos fabricados por { -brand-name-mozilla }/{ -brand-name-firefox } que puedes usar además del { -brand-name-firefox-browser } que pueden proteger al navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) o la conexión del dispositivo por WiFi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>), así como tu dirección IP.
 related-questions-ip = Preguntas relacionadas: Oculta { -brand-name-firefox } tu dirección IP
 who-owns-firefox = ¿A quién pertenece { -brand-name-firefox }?
 
@@ -73,3 +81,4 @@ who-owns-firefox = ¿A quién pertenece { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } está hecho por { -brand-name-mozilla-corporation }, una filial de propiedad completa de la organización sin fines de lucro <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> y se guía por los principios del Manifiesto de { -brand-name-mozilla }. Aprende más acerca del creador de { -brand-name-firefox } <a href="{ $url2 }">aquí</a>.
+related-questions-who = Preguntas relacionadas: quién es el dueño de { -brand-name-firefox }, quién es el propietario de { -brand-name-firefox-browser }, es { -brand-name-firefox } propiedad de { -brand-name-google }, es { -brand-name-mozilla } { -brand-name-firefox } propiedad de { -brand-name-google }
