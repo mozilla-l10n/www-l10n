@@ -8,3 +8,5 @@
 # HTML page title
 what-is-a-browser-what-is-a-web = Što je webwobhladowak?
 what-is-a-browser-how-does-a-web = Kak webwobhladowk funguje?
+what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
+what-is-a-browser-understanding = Priwatnosć rozumić
