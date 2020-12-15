@@ -13,7 +13,7 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Cata 4 a 5 septimanas, un nove version major de { -brand-name-firefox } es publicate e, in consequentia, le version de { -brand-name-nightly } tamben incrementa.
 # Obsolete
 nightly-whatsnew-every-6-to-8-weeks = Cata 6 a 8 septimanas, un nove version major de { -brand-name-firefox } es publicate e, in consequentia, le version de { -brand-name-nightly } tamben incrementa.
-nightly-whatsnew-this-is-a-good = Isto es un bon tempore pro regratiar te pro adjutar nos a render { -brand-name-firefox } melior e a dar te alcun referentias al documentation, al canales de communication e al sitos de novas associate a { -brand-name-nightly } que pote ser de interesse a te.
+nightly-whatsnew-this-is-a-good = Isto es un bon momento pro regratiar te pro adjutar nos a meliorar { -brand-name-firefox } e dar te alcun referentias al documentation, al canales de communication e al sitos de novas associate a { -brand-name-nightly } que pote interessar te.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
