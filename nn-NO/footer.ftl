@@ -3,22 +3,37 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = { -brand-name-mozilla }-manifestet
 footer-privacy = Personvern
 footer-press = Presse
+footer-corporate-blog = Bedriftsblogg
+footer-browser-comparison = Nettlesarsamanlikning
 footer-brand-standards = Merkestandardar
 footer-browsers = Nettlesar
+# Outdated string
 footer-desktop = Desktop
+# Outdated string
 footer-mobile = Mobil
+# Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
 footer-products = Produkt
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
+# Outdated string
 footer-monitor = { -brand-name-monitor }
+# Outdated string
 footer-send = { -brand-name-send }
+# Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
 footer-join = Ver med
+# Outdated string
 footer-sign-up = Registrer deg
+# Outdated string
 footer-sign-in = Logg inn
+# Outdated string
 footer-benefits = Fordelar
 footer-developers = Utvikling
 footer-developer-edition = { -brand-name-developer-edition }
@@ -30,10 +45,13 @@ footer-visit-mozilla-corporations = Besøk <a { $moco_link }>{ -brand-name-mozil
 footer-portions-of-this-content = Delar av dette innhaldet er ©1998–{ $current_year } individuelle mozilla.org-bidragsytarar. Innhaldet er tilgjengeleg under ein <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-lisens</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Firma
+# Outdated string
 footer-about = Om
 footer-press-center = Pressesenter
 footer-careers = Jobbmoglegheiter
+# Outdated string
 footer-test-new-features = Test nye funksjonar
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Verktøy
 footer-resources = Resursar
