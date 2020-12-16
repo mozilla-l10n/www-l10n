@@ -20,7 +20,7 @@ firefox-desktop-download-no-shady = 광고주를 위한 복잡한 개인 정보 
 firefox-desktop-download-download-options = 다운로드 선택 및 기타 언어
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 도움말
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = 여러분이 온라인에서 무엇을 하던지<br> { -brand-name-firefox-browser }는 <strong>지켜보지 않습니다!</strong>
+firefox-desktop-download-do-what-you-do = 여러분이 온라인에서 무엇을 하든지<br> { -brand-name-firefox-browser }는 <strong>지켜보지 않습니다!</strong>
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox }와 다른 브라우저 비교
 firefox-desktop-download-get-all-the-speed = 개인 정보 침해 없이 빠른 속도의 경험을 만끽하세요. { -brand-name-firefox-browser }는 여러분에 대한 데이터를 거의 수집하지 않으므로, 다운로드 할 때도 이메일 주소가 필요하지 않습니다. 다른 브라우저와 달리 온라인에서 여러분을 수익의 한 부분으로 보지 않기 때문입니다.
 firefox-desktop-download-how-we-compare = 다른 브라우저와 비교하기
@@ -44,7 +44,7 @@ firefox-desktop-download-we-block-the-ad = 저희는 광고 추적기를 차단�
 firefox-desktop-download-ads-are-distracting = 온라인 광고는 주의를 산만하게 하고 웹 페이지 로딩 속도를 느리게 만듭니다. 광고에 있는 추적기는 온라인에서 이루어지는 여러분의 모든 활동을 감시합니다. { -brand-name-firefox-browser }는 대부분의 추적기를 자동으로 차단하므로 데이터 보안에 뛰어납니다.
 firefox-desktop-download-see-your-report = 보호 대시보드 살펴보기
 firefox-desktop-download-for-everyone = 모두를 위한 { -brand-name-firefox }
-firefox-desktop-download-available-in-over = { -brand-name-firefox }는 90 개 이상의 언어로 제공되며 { -brand-name-windows }, { -brand-name-mac-short } 및 { -brand-name-linux } 시스템과 호환됩니다. 무엇을 하던지 어디에 있는지 문제없이 사용 가능합니다. 최상의 경험을 위해 여러분의 운영 체제가 최신 상태인지도 늘 확인하세요.
+firefox-desktop-download-available-in-over = { -brand-name-firefox }는 90 개 이상의 언어로 제공되며 { -brand-name-windows }, { -brand-name-mac-short } 및 { -brand-name-linux } 시스템과 호환됩니다. 무엇을 하든지 어디에 있는지 문제없이 사용 가능합니다. 최상의 경험을 위해 여러분의 운영 체제가 최신 상태인지도 늘 확인하세요.
 firefox-desktop-download-review-system-req = 시스템 요구 사항
 firefox-desktop-download-all-your-devices = 모든 기기에 { -brand-name-firefox } 설치
 firefox-desktop-download-take-your-privacy = 어디서나 개인 정보를  보호할 수 있습니다. { -brand-name-ios } 및 { -brand-name-android }용 { -brand-name-firefox-browsers }에는 여러분이 어디에 있든 온라인 상에서 사용자를 추적하지 못하도록 차단하는 강력한 개인 정보 보호 설정이 있습니다.
