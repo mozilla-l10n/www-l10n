@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = 浏览器简史：带来现代浏览器的史诗级斗争
+browser-history-the-browser-wars-underdogs-giants = 浏览器大战、弱者与巨人的对决、以及那些改变世界的瞬间。阅读了解网页浏览器的前世今生。
+browser-history-the-history-of-web = 网页浏览器简史
 browser-history-before-web-era = Web 时代之前
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
@@ -31,6 +34,10 @@ browser-history-netscape-created = { -brand-name-netscape } 设计并推出了 J
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = 1997 年，{ -brand-name-microsoft } 发行了 { -brand-name-ie } 4.0，事情逐渐失控。{ -brand-name-microsoft } 团队制作了一个大大的字母“e”并放在 { -brand-name-netscape } 总部的草坪上。{ -brand-name-netscape } 团队迅速敲碎了这个巨大的字母，并<a href="{ $dino }">将吉祥物 { -brand-name-mozilla } 恐龙放在上面</a>。
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = 接下来，{ -brand-name-microsoft } 开始将 { -brand-name-ie } 与 { -brand-name-windows } 操作系统捆绑发行。四年内，IE 获得了 75% 的市场份额，到 1999 年甚至达到了 99% 。此举最终使 { -brand-name-microsoft } 面临反托拉斯诉讼。意识到垄断浏览器市场并不符合用户与开放网络的最佳利益后，{ -brand-name-netscape } 决定开放源代码，转型为非营利的 <a href="{ $mozilla }">{ -brand-name-mozilla }</a>，并于 2002 年发布 { -brand-name-firefox }。到了 2010 年，{ -brand-name-mozilla } { -brand-name-firefox } 及其他浏览器将 <a href="{ $marketshare }">{ -brand-name-ie } 的市场份额降低到 50%</a>。
 browser-history-other-competitors = 浏览器市场在上世纪 90 年代末和本世纪初涌现出许多竞争者，包括 { -brand-name-opera }、{ -brand-name-safari }、{ -brand-name-google } { -brand-name-chrome }。2015 年，{ -brand-name-microsoft } 发布 { -brand-name-windows } 10，用 { -brand-name-microsoft } { -brand-name-edge } 取代了 { -brand-name-ie }。
 browser-history-resources = 资源
 browser-history-take-control-of = 掌控您的浏览器。
