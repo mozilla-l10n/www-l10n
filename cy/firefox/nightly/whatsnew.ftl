@@ -20,7 +20,7 @@ nightly-whatsnew-this-is-a-good = Mae hwn yn gyfle da i ddiolch i chi am ein cyn
 nightly-whatsnew-if-you-want-to = Os hoffech chi wybod beth sy'n digwydd o amgylch { -brand-name-nightly } a'r gymuned, mae darllen ein <a href="{ $blog }">blog</a> a'n dilyn ni ar <a href="{ $twitter }">{ -brand-name-twitter }</a> yn ffordd dda o gychwyn!
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Eisiau gwybod pa nodweddion platfform mae modd eu profi ar { -brand-name-nightly } ac sydd ddim eto ar gael ar sianeli eraill { -brand-name-firefox }? Edrychwch ar <a href="{ $mdn }">Nodweddion Arbrofol</a> ar dudalen <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+nightly-whatsnew-want-to-know-which = Eisiau gwybod pa nodweddion platfform y mae modd eu profi ar { -brand-name-nightly } ac sydd ddim eto ar gael ar sianeli eraill { -brand-name-firefox }? Edrychwch ar <a href="{ $mdn }">Nodweddion Arbrofol</a> ar dudalen <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Ydych chi'n profi chwaliadau? Ymddygiad annisgwyl? Atchweliad cydweddu gwe? Byddwn wrth ein bodd petai chi'n eu cofnodi yn <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> er mwyn gwneud yn siŵr nad ydynt yn cyrraedd y fersiwn terfynol (Karma ychwanegol os ydych yn ychwanegu'r allweddair <em>{ -brand-name-nightly }-community</em> i'ch adroddiadau chwalu)!
