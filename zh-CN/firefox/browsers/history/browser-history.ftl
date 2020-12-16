@@ -8,6 +8,7 @@
 browser-history-browser-history = 浏览器简史：带来现代浏览器的史诗级斗争
 browser-history-the-browser-wars-underdogs-giants = 浏览器大战、弱者与巨人的对决、以及那些改变世界的瞬间。阅读了解网页浏览器的前世今生。
 browser-history-the-history-of-web = 网页浏览器简史
+browser-history-world-history-is = 世界历史充斥着史诗般的权力斗争，有征服世界的暴君，也有落败的勇士。网页浏览器的历史亦无太大不同。学术先驱们编写引发了信息革命的简易软件，并为浏览器的优势和互联网用户而战。
 browser-history-before-web-era = Web 时代之前
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
