@@ -8,3 +8,4 @@
 # HTML page title
 what-is-a-browser-what-is-a-web = 网页浏览器是什么？
 what-is-a-browser-how-does-a-web = 网页浏览器如何工作？
+what-is-a-browser-understanding = 了解隐私
