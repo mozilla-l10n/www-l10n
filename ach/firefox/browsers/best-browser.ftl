@@ -14,5 +14,6 @@ best-browser-when-you-use-a-browser = Kacce itiyo ki layeny pi jami weng, mite n
 best-browser-if-youre-wondering = Kacce itye ka tamo winye nining me bedo ki mung onyo layeny ma dwir, man aye kore ki kore me jami adek ma layeny myero obed kwede.
 best-browser-a-browser-built-for = Layeny ma kiyubo pi dwiro.
 best-browser-a-browser-that-puts = Layeny ma weko ber bedo kwongo.
+best-browser-we-visit-hundreds-or = Walimo kakube miya ki miya onyo alip ki alip nino acelacel, pe itwero geno lutic kwede me moko tam ikom ber bedo ki mung pi kakube magi ki acelacel. Meno aye gin ma omiyo layeny ma miyo boti loc mapol pire tek tutwal - pien miyo gokke kikome ma konyo.
 best-browser-a-browser-that-minds = Layeny ma mako mukeme.
 best-browser-take-control-of-your = Gam loc me layeny mamegi.
