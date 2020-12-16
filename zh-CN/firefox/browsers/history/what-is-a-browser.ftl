@@ -9,6 +9,7 @@
 what-is-a-browser-what-is-a-web = 网页浏览器是什么？
 # HTML page description
 what-is-a-browser-a-web-browser = 网页浏览器能将您带到互联网上的任何地方，随时随地浏览文本、图像和视频。
+what-is-a-browser-the-web-is-a-vast = Web 是一个强大的工具。几十年来，互联网深刻地改变了我们的工作、娱乐和彼此交流的方式。它架起了国家间的桥梁，促进了贸易繁荣，推动了关系发展，驱动了未来的创新引擎，以及更多我们意想不到的影响。它，无处不在。
 what-is-a-browser-how-does-a-web = 网页浏览器如何工作？
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
