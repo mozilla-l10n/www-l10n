@@ -6,10 +6,12 @@
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Nong layeny mamegi maber loyo pi dwiro, mung ki ber bedo.
+best-browser-so-many-browser-options = Kwai layeny mapol me ayera, ento tye acel keken ma tiyo maber loyo pi miti mamegi. Layeny maber loyo piri myero omii dwiro kacel ki gwokke me mung.
 best-browser-privacy-speed-and-security = Mung, dwiro, ki ber bedo.
 best-browser-how-to-choose-the-best = Kit me yero layeny maber loyo piri.
 best-browser-the-internet-has-become = Pi intanet odoko tek calo mac ki pii, pi meno yero layeny maber loyo mamegi pire tek kato naka. Intanet obedo office me aryo, lapwony ki cawa mukene lami ngec ikom yotkom, kadi bed daktar mamegi kikome mito ni pe iyeny lok kom two mamegi ki i intanet.
 best-browser-when-you-use-a-browser = Kacce itiyo ki layeny pi jami weng, mite ni myero obed dwir. Ento pi tyen lok acel eno ni, mite ni obed me mung. Layeny tye ki kero me nongo jami weng ma itimo iwi yamo, ci twero keti i peko kikome kacce pe tye ki jami ma tego me mung.
+best-browser-if-youre-wondering = Kacce itye ka tamo winye nining me bedo ki mung onyo layeny ma dwir, man aye kore ki kore me jami adek ma layeny myero obed kwede.
 best-browser-a-browser-built-for = Layeny ma kiyubo pi dwiro.
 best-browser-a-browser-that-puts = Layeny ma weko ber bedo kwongo.
 best-browser-a-browser-that-minds = Layeny ma mako mukeme.
