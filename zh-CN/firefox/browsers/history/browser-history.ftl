@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-before-web-era = Web 时代之前
 browser-history-resources = 资源
 browser-history-take-control-of = 掌控您的浏览器。
