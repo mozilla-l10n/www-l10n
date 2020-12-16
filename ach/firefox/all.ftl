@@ -15,6 +15,7 @@ firefox-all-you-are-about-to-download = Icok ki gamo:
 firefox-all-browser = Layeny:
 firefox-all-platform = Nyonyo:
 firefox-all-language = Leb:
+firefox-all-lang-multi = Kwai leb mapol
 firefox-all-sorry-we-couldnt-find = Timwa kica, pe watwero nongo gam ma itye ka yenyo ne ni. Tim ber item doki, onyo yer gam ki i kin jami ma piny ni.
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Gam { -brand-name-firefox-browser } i Leb muno ki i leb mukene ma kato 90
@@ -23,6 +24,7 @@ firefox-all-everyone-deserves-access = Omyero ki dano weng me nongo intanet — 
 firefox-all-choose-which-firefox = Yer { -brand-name-firefox-browser } mene me agama i leb mamegi
 firefox-all-firefox-privacy-notice = Ngec me Mung pa { -brand-name-firefox }
 firefox-all-learn-about-firefox = Nong ngec ikom layeny me { -brand-name-firefox }
+firefox-all-product-send-link = Cwal kakube me gam i cim mamegi.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
@@ -37,3 +39,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
