@@ -22,5 +22,8 @@ browser-history-by-1993-the-web = 到了 1993 年，网络发展突飞猛进。 
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic 易于使用，又可以在 { -brand-name-windows } 计算机运行，让任何拥有 PC 的人都可以浏览器早期的网页、聊天室、图库。隔年（1994 年），安德森创办了 <a href="{ $netscape }">{ -brand-name-netscape }</a> 并公开发行了 { -brand-name-netscape } Navigator。这是第一款面向普通用户的浏览器，取得了巨大成功。 这也是针对互联网用户的新型战争的开端。
 browser-history-the-browser-wars = 浏览器大战
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = 来到 1995 年，{ -brand-name-netscape } Navigator 已不是上网冲浪的唯一选择。计算机软件巨头 { -brand-name-microsoft } 获得了旧版 Mosaic 的代码授权，而后建立了自己的“Web 窗口”—— <a href="{ $ie }">{ -brand-name-ie }</a>。该浏览器的推出引发了战争。{ -brand-name-netscape } 与 { -brand-name-microsoft } 竭力为各自的产品推出新版本，试图以更快、更好的产品来超越对方。
 browser-history-resources = 资源
 browser-history-take-control-of = 掌控您的浏览器。
