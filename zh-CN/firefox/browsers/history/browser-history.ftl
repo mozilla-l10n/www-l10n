@@ -14,5 +14,9 @@ browser-history-web-era = 进入 Web 时代
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = 1990 年，英国计算机工程师蒂姆·伯纳斯·李（Tim Berners-Lee）在瑞士的<a href="{ $cern }">欧洲核子研究组织（CERN）</a>工作时，开发出首个 Web 服务器与图形化网页浏览器。他将这个进入互联网世界的新窗口，称为“WorldWideWeb”。这是一款为 NeXT 计算机开发的易于使用的图形化界面浏览器，超文本第一次通过公开网络被链接起来——即我们现在所熟知的 Web。
+browser-history-a-year-later-berners = 一年后，伯纳斯·李（Berners-Lee）请 CERN 的数学系学生尼古拉·佩洛（Nicola Pellow）编写了“行模式浏览器”，这是一款可在简易计算机终端中使用的浏览器。
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = 到了 1993 年，网络发展突飞猛进。 各所大学、政府机关、私人企业都看到了开放互联网中的机会，每个人都需要新的计算机程序来访问网络。 这一年，美国伊利诺伊大学厄巴纳-香槟分校的美国国家超级计算机应用中心（NCSA）的计算机科学家马克·安德森（Marc Andreessen）开发了 Mosaic，这是第一款流行的网页浏览器，也是 <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> 的早期版本。
 browser-history-resources = 资源
 browser-history-take-control-of = 掌控您的浏览器。
