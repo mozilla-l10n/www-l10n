@@ -28,5 +28,8 @@ browser-history-by-1995-netscape = 来到 1995 年，{ -brand-name-netscape } Na
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape } 设计并推出了 JavaScript，从而让网站拥有了前所未有的强大计算能力。（他们还创造了声名狼藉的 <a href="{ $blink }">&lt;blink&gt; tag</a> 标签。）而 { -brand-name-microsoft } 一方也反对后来成为网页设计标准的层叠样式表（CSS）。
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = 1997 年，{ -brand-name-microsoft } 发行了 { -brand-name-ie } 4.0，事情逐渐失控。{ -brand-name-microsoft } 团队制作了一个大大的字母“e”并放在 { -brand-name-netscape } 总部的草坪上。{ -brand-name-netscape } 团队迅速敲碎了这个巨大的字母，并<a href="{ $dino }">将吉祥物 { -brand-name-mozilla } 恐龙放在上面</a>。
 browser-history-resources = 资源
 browser-history-take-control-of = 掌控您的浏览器。
