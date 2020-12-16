@@ -10,6 +10,7 @@ browser-history-the-browser-wars-underdogs-giants = 浏览器大战、弱者与�
 browser-history-the-history-of-web = 网页浏览器简史
 browser-history-world-history-is = 世界历史充斥着史诗般的权力斗争，有征服世界的暴君，也有落败的勇士。网页浏览器的历史亦无太大不同。学术先驱们编写引发了信息革命的简易软件，并为浏览器的优势和互联网用户而战。
 browser-history-before-web-era = Web 时代之前
+browser-history-in-1950-computers = 1950 年，一台计算机要占据整个房间，性能却比不上现在的袖珍计算器。但技术发展日新月异，到了 1960 年，它们已能运行复杂的程序。全球各国政府和大学都认为，如果这些机器可以相互沟通，以促进合作共赢和科学突破，那将是一件大好事。
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">阿帕网（ARPANET）</a>是第一个成功的网络连接计划，1969 年从美国加州大学洛杉矶分校（UCLA）的计算机科学实验室发出了第一条消息到同样位于加州的斯坦福研究院（Stanford Research Institute, SRI）。
