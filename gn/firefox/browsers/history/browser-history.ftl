@@ -9,3 +9,6 @@ browser-history-the-history-of-web = Ñanduti kundahára rembiasakue
 browser-history-before-web-era = Ñanduti mboyveguare
 browser-history-web-era = Ñanduti oĩ rire
 browser-history-the-browser-wars = Kundaharakuéra ñeñorairõ
+browser-history-browsing-the-web = Aikundaha ñandutípe ko árape
+browser-history-resources = Mba’eita
+browser-history-take-control-of = Ejapyhy ne kundaha jepuru.

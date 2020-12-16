@@ -31,6 +31,7 @@ navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Apopyre Ñe’ẽme’ẽ
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Eñemboheraguapy ereko hag̃ua mba’ete pyahu eme’ẽ’ỹre ne ñanduti veve.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)

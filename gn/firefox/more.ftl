@@ -24,6 +24,7 @@ securely-access-the = Eike tekorosãme ñe’ẽñemi eñongatupyréva { -brand-
 choose-which-firefox = Eiporavo mba’e { -brand-name-firefox-browser } emboguejýta ne ñe’ẽtépe
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook } peg̃uarã
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-little-book = Aranduka’i Ñemiguáva
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = Roipota opaite yvypóra oikekuaa ñandutípe; upévare rojapo { -brand-name-firefox-browser } ojepurúvo hetave 90 ñe’ẽpe oĩháme opaichagua pytyvõhára omba’apóva arapy tuichakue jave.
 firefox-fights-for = { -brand-name-firefox } oñeha’ã nde rérape { -brand-name-windows } ndive
