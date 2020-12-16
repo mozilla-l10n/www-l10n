@@ -17,3 +17,4 @@ what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">超链接</a>允�
 what-is-a-browser-cookies-not-the = Cookie（不能那种好吃的饼干）
 what-is-a-browser-when-you-go-to = 当您访问网站时，网页会记住您的用户名和密码。这通常用 Cookie 来实现。
 what-is-a-browser-understanding = 了解隐私
+what-is-a-browser-firefox-helps = { -brand-name-firefox } 可以阻止跟踪器在网上跟踪您，从而保护您的隐私。
