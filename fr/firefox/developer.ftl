@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Aidez au développement du dernier navig
 firefox-developer-start-now = Lancez-vous
 firefox-developer-design-code-test = Créez. Codez. Testez. Améliorez.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Réalisez et perfectionnez vos sites<br> à l’aide des outils de développement de Firefox
+firefox-developer-build-and-perfect = Réalisez et perfectionnez vos sites<br> à l’aide des { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspecteur
 firefox-developer-inspect-and-refine = Inspectez et affinez votre code pour obtenir une mise en page précise au pixel près.
 firefox-developer-learn-about-page-inspector = En savoir plus sur l’inspecteur
@@ -53,7 +53,7 @@ firefox-developer-edit-and-manage = Modifiez et gérez l’ensemble de vos feuil
 firefox-developer-learn-more-about-style = En savoir plus sur l’éditeur de style
 firefox-developer-new-tools = De nouveaux outils
 firefox-developer-inactive-css = CSS inactif
-firefox-developer-firefox-devtools-now-grays-out = Les outils de développement de Firefox grisent désormais les déclarations CSS qui n’ont aucun effet sur la page. Lorsque vous survolez l’icône d’informations, vous verrez un message expliquant pourquoi la déclaration n’est pas appliquée, ainsi qu’une indication sur la façon de résoudre le problème.
+firefox-developer-firefox-devtools-now-grays-out = Les { -brand-name-firefox-devtools } grisent désormais les déclarations CSS qui n’ont aucun effet sur la page. Lorsque vous survolez l’icône d’informations, vous verrez un message expliquant pourquoi la déclaration n’est pas appliquée, ainsi qu’une indication sur la façon de résoudre le problème.
 firefox-developer-firefox-devtools = Outils de développement de Firefox
 firefox-developer-the-new-firefox-devtools = Les nouveaux outils de développement de Firefox sont puissants, flexibles et, cerise sur le gâteau, extensibles selon vos envies. Ils incluent un débogueur JavaScript d’élite qui s’adapte à différents navigateurs et qui est développé à l’aide de React et de Redux.
 firefox-developer-master-css-grid = Maîtrisez les grilles CSS
