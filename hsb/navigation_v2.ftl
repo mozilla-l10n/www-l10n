@@ -37,6 +37,7 @@ navigation-v2-help-prevent-facebook-from = Zadźěwajće tomu, zo { -brand-name-
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Produktowe slubjenje
 navigation-v2-learn-how-each-firefox-product = Zhońće, kak kóždy produkt { -brand-name-firefox } waše daty škita a respektuje.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrujće so za nowe konta, bjeztoho zo byšće swoju e-mejlowu adresu podał.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
