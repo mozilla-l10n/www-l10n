@@ -1,0 +1,78 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/developer/
+
+
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+
+firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } er en lynhurtig browser, der indeholder de sidste nye teknologier og funktioner, som fx understøttelse af CSS-grid og debugging af frameworks
+firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-welcome-to-your-new-favorite = Velkommen til din nye browser. Få de nyeste funktioner, hurtig ydelse og de nødvendige udviklerværktøjer til at bygge det åbne internet.
+firefox-developer-speak-up = Sig noget
+firefox-developer-feedback-makes-us = Feedback gør os bedre. Fortæl os, hvordan vi kan forbedre browseren og udviklerværktøjerne.
+firefox-developer-join-the-convo = Deltag i samtalen
+firefox-developer-get-involved = Bliv involveret
+firefox-developer-help-build-the-last = Hjælp til med at bygge den sidste uafhængige browser. Skriv kode, ret fejl, lav tilføjelser og meget mere.
+firefox-developer-start-now = Start nu
+firefox-developer-design-code-test = Design. Byg. Test. Juster.
+# Line break for visual formatting
+firefox-developer-build-and-perfect = Brug udviklerværktøjerne i Firefox<br> til at lave perfekte websteder
+firefox-developer-inspector = Inspektør
+firefox-developer-inspect-and-refine = Inspicer og tilpas din kode indtil hver eneste pixel er perfekt.
+firefox-developer-learn-about-page-inspector = Læs mere om side-inspektøren
+firefox-developer-console = Konsol
+firefox-developer-track-css = Forfølg problemer med CSS, JavaScript, sikkerhed og netværk.
+firefox-developer-learn-about-web-console = Læs mere om webkonsollen
+firefox-developer-debugger = Debugger
+firefox-developer-powerful-javascript = Avanceret JavaScript-debugger med understøttelse af dit framework.
+firefox-developer-learn-more-about-debugger = Læs mere om JavaScript-debuggeren
+firefox-developer-network = Netværk
+firefox-developer-monitor-network-requests = Overvåg netværks-requests, der kan blokere dit websted eller gøre det langsomt.
+firefox-developer-learn-more-about-newtork-monitor = Læs mere om netværks-monitoren
+firefox-developer-storage-panel = Lager-panel
+firefox-developer-add-modify-remove = Tilføj, rediger og fjern cache, cookies, databaser og sessionsdata.
+firefox-developer-learn-more-about-storage = Læs mere om lager-panelet
+firefox-developer-responsive-design-mode = Responsivt design-visning
+firefox-developer-test-sites-emulated = Test websteder på emulerede enheder i din browser.
+firefox-developer-learn-more-about-responsive = Læs mere om responsivt design-visning
+firefox-developer-visual-editing = Visuel redigering
+firefox-developer-fine-tuning-animations = Finindstil animationer, placering og afstande.
+firefox-developer-learn-more-about-visual-editing = Læs mere om visuel redigering
+firefox-developer-performance = Ydelse
+firefox-developer-unblock-bottlenecks = Løs flaskehalsproblemer, strømlin processer, optimer aktiver.
+firefox-developer-learn-more-about-performance = Læs mere om ydelsesværktøjerne
+firefox-developer-memory = Hukommelse
+firefox-developer-find-memory-leaks = Find memory leaks og gør din applikation hurtigere.
+firefox-developer-learn-more-about-memory = Læs mere om hukommelsesværktøjerne
+firefox-developer-style-editor = CSS-editor
+firefox-developer-edit-and-manage = Rediger og håndter alle dine CSS-stilark direkte i browseren.
+firefox-developer-learn-more-about-style = Læs mere om CSS-editoren
+firefox-developer-new-tools = Nye værktøjer
+firefox-developer-firefox-devtools = Udviklerværktøjer i Firefox
+firefox-developer-the-new-firefox-devtools = De nye udviklerværktøjer i Firefox er avancerede og fleksible - og så kan du tilpasse dem efter behov. Du får blandt andet en JavaScript-debugger, der er langt bedre end andre debuggere. Den nye debugger er bygget i React og Redux, og du kan bruge den til forskellige browsere.
+firefox-developer-master-css-grid = Behersk CSS-gitre
+firefox-developer-next-gen-css-engine = Næstegenerations CSS-motor
+firefox-developer-a-next-generation = Næstegenerations CSS-motor
+firefox-developer-master-innovative-features = Innovative funktioner
+firefox-developer-want-to-be-on-the-cutting-edge = Vil du være helt fremme på beatet?
+firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } opdateres hver dag, hvilket giver dig adgang til nye funktioner, flere måneder før de bliver tilgængelige for et større publikum.
+firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } indeholder en ny CSS-motor, skrevet i Rust, der indeholder de allernyeste funktioner og er afsindigt hurtig.
+firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } er den eneste browser med indbyggede værktøjer specielt udviklet til at bruge og designe med CSS-gitre. Værktøjerne hjælper dig med at gøre gitrene visuelle, vise tilknyttede områdenavne, forhåndsvise transformeringer på gitteret og meget mere.
+firefox-developer-convenient-features = Praktiske funktioner
+firefox-developer-faster-performance = Hurtigere ydelse
+firefox-developer-shapes-editor = Figureditor
+firefox-developer-firefox-devtools-has-a-brand-new-v2 = Udviklerværktøjerne i Firefox har en helt ny editor til figurbaner, der gør det enklere at redigere figurkonturer og clip-path-figurer, fordi du kan finindstille med et visuelt redigeringsprogram.
+firefox-developer-firefox-devtools-has-a-brand-new = Udviklerværktøjerne i Firefox har en helt ny editor til figurbaner, der gør det enklere at redigere skyggekonturer og clip-path-figurer, fordi du kan finindstille med et visuelt redigeringsprogram.
+firefox-developer-faster-innovation = Hurtigere information
+firefox-developer-fonts-panel = Skrifttype-panel
+firefox-developer-the-new-fonts-panel = Det nye skrifttype-panel i udviklerværktøjer i Firefox giver udviklere hurtig adgang til al nødvendig information om den skrifttype et element benytter. Det indeholder også værdifuld information om skrifttypens kilde, skrifttykkelse, stil og andet.
+firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } sender automatisk feedback til { -brand-name-mozilla }.
+firefox-developer-download-the-firefox-browser = Hent udgaven af { -brand-name-firefox } specielt lavet til udviklere
+firefox-developer-welcome-to-the-all-new = Velkommen til den sprit-nye { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
+firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er blevet ombygget fra grunden af for at kunne være hurtigere, mere strømlinet og mere kraftfuld end nogensinde før.
+firefox-developer-congrats-you-now-have-firefox = Tillykke! Du har nu { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
+firefox-developer-this-isnt-just-an-update = Dette er ikke bare en opdatering. Dette er { -brand-name-firefox } Quantum, en helt ny { -brand-name-firefox }, der er blevet genopbygget fra grunden af for at være hurtigere, mere strømlinet og mere kraftfuld end nogensinde før.
