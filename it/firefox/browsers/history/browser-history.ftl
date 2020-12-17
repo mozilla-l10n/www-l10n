@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-the-history-of-web = La storia dei browser
+browser-history-before-web-era = Prima dell’era del Web
