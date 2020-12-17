@@ -9,3 +9,4 @@
 what-is-a-browser-what-is-a-web = Wat is een webbrowser?
 # HTML page description
 what-is-a-browser-a-web-browser = Een webbrowser brengt u overal op internet, zodat u overal ter wereld tekst, afbeeldingen en video kunt bekijken.
+what-is-a-browser-how-does-a-web = Hoe werkt een webbrowser?
