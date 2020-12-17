@@ -75,4 +75,4 @@ firefox-developer-download-the-firefox-browser = Muat turun pelayar { -brand-nam
 firefox-developer-welcome-to-the-all-new = Selamat datang ke versi serba baru, { -brand-name-firefox-quantum }: Edisi Pembangun
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } versi baru yang dibina semula daripada awal supaya menjadi lebih pantas, lebih lancar dan lebih berkuasa.
 firefox-developer-congrats-you-now-have-firefox = Tahniah. Anda sudah memiliki { -brand-name-firefox-quantum }: Edisi Pembangun.
-firefox-developer-this-isnt-just-an-update = Ini bukan sekadar kemaskini. Ini adalah { -brand-name-firefox } Quantum: { -brand-name-firefox } versi baru yang dibina semula daripada awal supaya menjadi lebih pantas, lebih lancar dan lebih berkuasa.
+firefox-developer-this-isnt-just-an-update = Ini bukan sekadar kemaskini. Ini adalah { -brand-name-firefox-quantum }: { -brand-name-firefox } versi baru yang dibina semula daripada awal supaya menjadi lebih pantas, lebih lancar dan lebih berkuasa.

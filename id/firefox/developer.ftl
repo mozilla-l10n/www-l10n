@@ -77,4 +77,4 @@ firefox-developer-download-the-firefox-browser = Unduh peramban { -brand-name-fi
 firefox-developer-welcome-to-the-all-new = Selamat datang di { -brand-name-firefox-quantum }: { -brand-name-developer-edition } yang serba baru
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } telah dikembangkan ulang dari dasar menjadi lebih cepat, lebih keren dan lebih hebat dari sebelumnya.
 firefox-developer-congrats-you-now-have-firefox = Selamat. Anda sekarang memiliki { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Ini tidak sekedar sebuah pembaruan. Ini adalah { -brand-name-firefox } Quantum: { -brand-name-firefox } serba baru yang telah dikembangkan ulang dari dasar untuk menjadi lebih cepat, lebih keren dan lebih hebat dari sebelumnya.
+firefox-developer-this-isnt-just-an-update = Ini tidak sekedar sebuah pembaruan. Ini adalah { -brand-name-firefox-quantum }: { -brand-name-firefox } serba baru yang telah dikembangkan ulang dari dasar untuk menjadi lebih cepat, lebih keren dan lebih hebat dari sebelumnya.

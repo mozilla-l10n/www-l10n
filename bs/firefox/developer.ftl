@@ -75,4 +75,4 @@ firefox-developer-download-the-firefox-browser = Preuzmite { -brand-name-firefox
 firefox-developer-welcome-to-the-all-new = Dobrodošli u potpuno novi { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je izgrađen iznova da bi bio brži, uglađeniji i moćniji nego ikad.
 firefox-developer-congrats-you-now-have-firefox = Čestitamo. Sada imate { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Ovo nije samo nadogradnja. Ovo je { -brand-name-firefox } Quantum: potpuno novi { -brand-name-firefox } koji je izgrađen iznova da bi bio brži, uglađeniji i moćniji nego ikad prije.
+firefox-developer-this-isnt-just-an-update = Ovo nije samo nadogradnja. Ovo je { -brand-name-firefox-quantum }: potpuno novi { -brand-name-firefox } koji je izgrađen iznova da bi bio brži, uglađeniji i moćniji nego ikad prije.

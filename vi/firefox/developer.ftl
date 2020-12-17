@@ -77,4 +77,4 @@ firefox-developer-download-the-firefox-browser = Tải xuống trình duyệt { 
 firefox-developer-welcome-to-the-all-new = Chào mừng đến với { -brand-name-firefox-quantum }: Phiên bản dành cho nhà phát triển
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } đã được xây dựng lại từ đầu để trở nên nhanh hơn, đẹp hơn và mạnh mẽ hơn bao giờ hết.
 firefox-developer-congrats-you-now-have-firefox = Chúc mừng. Bây giờ bạn có { -brand-name-firefox-quantum }: Phiên bản cho nhà phát triển.
-firefox-developer-this-isnt-just-an-update = Đây không chỉ là một bản cập nhật. Đây là { -brand-name-firefox } Quantum: Một { -brand-name-firefox } hoàn toàn mới đã được xây dựng lại từ đầu để nhanh hơn, đẹp hơn và mạnh mẽ hơn bao giờ hết.
+firefox-developer-this-isnt-just-an-update = Đây không chỉ là một bản cập nhật. Đây là { -brand-name-firefox-quantum }: Một { -brand-name-firefox } hoàn toàn mới đã được xây dựng lại từ đầu để nhanh hơn, đẹp hơn và mạnh mẽ hơn bao giờ hết.

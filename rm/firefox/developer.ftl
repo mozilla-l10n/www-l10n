@@ -75,4 +75,4 @@ firefox-developer-download-the-firefox-browser = Telechargia la versiun da { -br
 firefox-developer-welcome-to-the-all-new = Bainvegni en il { -brand-name-firefox-quantum } resch nov: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
 firefox-developer-congrats-you-now-have-firefox = Gratulaziun. Ti has ussa { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Quai n'è betg mo ina actualisaziun. Quai è { -brand-name-firefox } Quantum: in { -brand-name-firefox } dal tuttafatg nov ch'è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
+firefox-developer-this-isnt-just-an-update = Quai n'è betg mo ina actualisaziun. Quai è { -brand-name-firefox-quantum }: in { -brand-name-firefox } dal tuttafatg nov ch'è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.

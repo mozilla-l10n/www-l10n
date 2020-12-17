@@ -77,4 +77,4 @@ firefox-developer-download-the-firefox-browser = Shkarkoni shfletuesin { -brand-
 firefox-developer-welcome-to-the-all-new = Mirë se vini te { -brand-name-firefox-quantum }: { -brand-name-developer-edition } fringo i ri
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }-i është rikrijuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
 firefox-developer-congrats-you-now-have-firefox = Përgëzime. Tani keni { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Ky s’është thjesht një përditësim. Ky është { -brand-name-firefox } Quantum: një  { -brand-name-firefox } fringo i ri që është rindërtuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
+firefox-developer-this-isnt-just-an-update = Ky s’është thjesht një përditësim. Ky është { -brand-name-firefox-quantum }: një  { -brand-name-firefox } fringo i ri që është rindërtuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.

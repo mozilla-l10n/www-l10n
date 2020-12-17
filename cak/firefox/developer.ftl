@@ -77,4 +77,4 @@ firefox-developer-download-the-firefox-browser = Tiqasäx ri { -brand-name-firef
 firefox-developer-welcome-to-the-all-new = Ütz apetik pa ronojel ri k'ak'a' { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Xnuk' chik ri { -brand-name-firefox } pa rutikirib'al richin chi aninäq, yalan jeb'ël chuqa' janila ruchuq'a'.
 firefox-developer-congrats-you-now-have-firefox = Kakikot. Wakami k'o chik awik'in ri { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Re re' man choj ta jun k'exoj. Re re' ja ri { -brand-name-firefox } Quantum: Jun k'ak'a' ruwäch chi { -brand-name-firefox }, ri xnuk' chik pa rutikirib'al richin chi aninäq, yalan jeb'ël chuqa' janila ruchuq'a'.
+firefox-developer-this-isnt-just-an-update = Re re' man choj ta jun k'exoj. Re re' ja ri { -brand-name-firefox-quantum }: Jun k'ak'a' ruwäch chi { -brand-name-firefox }, ri xnuk' chik pa rutikirib'al richin chi aninäq, yalan jeb'ël chuqa' janila ruchuq'a'.

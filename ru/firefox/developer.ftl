@@ -77,4 +77,4 @@ firefox-developer-download-the-firefox-browser = Загрузите браузе
 firefox-developer-welcome-to-the-all-new = Добро пожаловать в полностью новый { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } был перестроен с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
 firefox-developer-congrats-you-now-have-firefox = Поздравляем. Теперь у вас установлен { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Это не просто обновление. Это { -brand-name-firefox } Quantum: Совершенно новый { -brand-name-firefox }, который был перестроен с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
+firefox-developer-this-isnt-just-an-update = Это не просто обновление. Это { -brand-name-firefox-quantum }: Совершенно новый { -brand-name-firefox }, который был перестроен с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.

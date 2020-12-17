@@ -77,4 +77,4 @@ firefox-developer-download-the-firefox-browser = Geliştiriciler için geliştir
 firefox-developer-welcome-to-the-all-new = Yepyeni { -brand-name-firefox-quantum }: { -brand-name-developer-edition }’a hoş geldiniz
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.
 firefox-developer-congrats-you-now-have-firefox = Tebrikler. { -brand-name-firefox-quantum }: { -brand-name-developer-edition } emrinize amade.
-firefox-developer-this-isnt-just-an-update = Bu sadece bir güncelleme değil. Bu, { -brand-name-firefox } Quantum: { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.
+firefox-developer-this-isnt-just-an-update = Bu sadece bir güncelleme değil. Bu, { -brand-name-firefox-quantum }: { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.

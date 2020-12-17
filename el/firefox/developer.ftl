@@ -75,4 +75,4 @@ firefox-developer-download-the-firefox-browser = Κάντε λήψη του { -b
 firefox-developer-welcome-to-the-all-new = Καλώς ορίσατε στο ολοκαίνουριο { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Το { -brand-name-firefox } έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.
 firefox-developer-congrats-you-now-have-firefox = Συγχαρητήρια. Έχετε πλέον το { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Αυτό δεν είναι μια απλή ενημέρωση. Αυτό είναι το { -brand-name-firefox } Quantum: ένα ολοκαίνουριο { -brand-name-firefox } που έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.
+firefox-developer-this-isnt-just-an-update = Αυτό δεν είναι μια απλή ενημέρωση. Αυτό είναι το { -brand-name-firefox-quantum }: ένα ολοκαίνουριο { -brand-name-firefox } που έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.

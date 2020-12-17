@@ -71,4 +71,4 @@ firefox-developer-download-the-firefox-browser = ניתן להוריד את הד
 firefox-developer-welcome-to-the-all-new = ברוכים הבאים ל־{ -brand-name-firefox-quantum } החדש: מהדורת המפתחים
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } נבנה מחדש מההתחלה כדי שיהיה יותר מהיר, חלק ועצמתי מאי פעם.
 firefox-developer-congrats-you-now-have-firefox = ברכותינו. מעכשיו יש לך את { -brand-name-firefox-quantum }: מהדורת המפתחים.
-firefox-developer-this-isnt-just-an-update = זה לא עוד עדכון. זה { -brand-name-firefox } Quantum:‏ { -brand-name-firefox } חדש ומחודש שנבנה מאפס כדי להיות מהיר יותר, חלק יותר ועצמתי יותר מאי פעם.
+firefox-developer-this-isnt-just-an-update = זה לא עוד עדכון. זה { -brand-name-firefox-quantum }:‏ { -brand-name-firefox } חדש ומחודש שנבנה מאפס כדי להיות מהיר יותר, חלק יותר ועצמתי יותר מאי פעם.
