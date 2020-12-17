@@ -11,7 +11,7 @@
 
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
+-brand-name-creative-commons = 知识共享
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
