@@ -7,3 +7,5 @@
 
 browser-history-the-history-of-web = La storia dei browser
 browser-history-before-web-era = Prima dell’era del Web
+browser-history-web-era = Era del Web
+browser-history-the-browser-wars = La guerra dei browser
