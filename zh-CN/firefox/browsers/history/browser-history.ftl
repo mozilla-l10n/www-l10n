@@ -8,9 +8,9 @@
 browser-history-browser-history = 浏览器简史：带来现代浏览器的史诗级斗争
 browser-history-the-browser-wars-underdogs-giants = 浏览器大战、弱者与巨人的对决、以及那些改变世界的瞬间。阅读了解网页浏览器的前世今生。
 browser-history-the-history-of-web = 网页浏览器简史
-browser-history-world-history-is = 世界历史充斥着史诗般的权力斗争，有征服世界的暴君，也有落败的勇士。网页浏览器的历史亦无太大不同。学术先驱们编写引发了信息革命的简易软件，并为浏览器的优势和互联网用户而战。
+browser-history-world-history-is = 世界历史从不缺少史诗般的权力斗争，有征服世界的暴君，也有落败的勇士。网页浏览器的历史也大抵如此。学术先驱们编写出引发信息革命的简易软件，并为浏览器的优势和互联网用户而战。
 browser-history-before-web-era = Web 时代之前
-browser-history-in-1950-computers = 1950 年，一台计算机要占据整个房间，性能却比不上现在的袖珍计算器。但技术发展日新月异，到了 1960 年，它们已能运行复杂的程序。全球各国政府和大学都认为，如果这些机器可以相互沟通，以促进合作共赢和科学突破，那将是一件大好事。
+browser-history-in-1950-computers = 1950 年，一台计算机要占据整个房间，性能却比不上现在的袖珍计算器。但技术发展日新月异，到了 1960 年，它们已能运行复杂的程序。全球各国政府和大学都认为，如果这些机器可以相互连通，以促进合作共赢和科学突破，那将是一件大好事。
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">阿帕网（ARPANET）</a>是第一个成功的网络连接计划，1969 年从美国加州大学洛杉矶分校（UCLA）的计算机科学实验室发出了第一条消息到同样位于加州的斯坦福研究院（Stanford Research Institute, SRI）。
@@ -39,7 +39,7 @@ browser-history-things-got-a-little = 1997 年，{ -brand-name-microsoft } 发�
 # Variables:
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
-browser-history-then-microsoft-began = 接下来，{ -brand-name-microsoft } 开始将 { -brand-name-ie } 与 { -brand-name-windows } 操作系统捆绑发行。四年内，IE 获得了 75% 的市场份额，到 1999 年甚至达到了 99% 。此举最终使 { -brand-name-microsoft } 面临反托拉斯诉讼。意识到垄断浏览器市场并不符合用户与开放网络的最佳利益后，{ -brand-name-netscape } 决定开放源代码，转型为非营利的 <a href="{ $mozilla }">{ -brand-name-mozilla }</a>，并于 2002 年发布 { -brand-name-firefox }。到了 2010 年，{ -brand-name-mozilla } { -brand-name-firefox } 及其他浏览器将 <a href="{ $marketshare }">{ -brand-name-ie } 的市场份额降低到 50%</a>。
+browser-history-then-microsoft-began = 接下来，{ -brand-name-microsoft } 开始将 { -brand-name-ie } 与 { -brand-name-windows } 操作系统捆绑发行。四年内，IE 获得了 75% 的市场份额，到 1999 年甚至达到了 99% 。此举最终使 { -brand-name-microsoft } 面临反垄断诉讼。意识到垄断浏览器市场并不符合用户与开放网络的最佳利益后，{ -brand-name-netscape } 决定开放源代码，转型为非营利的 <a href="{ $mozilla }">{ -brand-name-mozilla }</a>，并于 2002 年发布 { -brand-name-firefox }。到了 2010 年，{ -brand-name-mozilla } { -brand-name-firefox } 及其他浏览器将 <a href="{ $marketshare }">{ -brand-name-ie } 的市场份额降低到 50%</a>。
 browser-history-other-competitors = 浏览器市场在上世纪 90 年代末和本世纪初涌现出许多竞争者，包括 { -brand-name-opera }、{ -brand-name-safari }、{ -brand-name-google } { -brand-name-chrome }。2015 年，{ -brand-name-microsoft } 发布 { -brand-name-windows } 10，用 { -brand-name-microsoft } { -brand-name-edge } 取代了 { -brand-name-ie }。
 browser-history-browsing-the-web = 现今的 Web 环境
 # Variables:
