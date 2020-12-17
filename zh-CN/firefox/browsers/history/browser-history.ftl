@@ -14,15 +14,15 @@ browser-history-in-1950-computers = 1950 年，一台计算机要占据整个房
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">阿帕网（ARPANET）</a>是第一个成功的网络连接计划，1969 年，第一条消息从美国加州大学洛杉矶分校（UCLA）计算机科学实验室发送到同样位于加州的斯坦福研究院（Stanford Research Institute, SRI）。
-browser-history-that-sparked-a-revolution = 由此，引发了计算机网络的一场革命。之后不同的网络相继建立，连接了全球的各所大学与研究中心。但在接下来的 20 年里，公众仍无法访问互联网，只有大学与政府机关内的研究人员、学生与私人企业可以使用。有许多程序可以通过电话线在计算机间交换信息，但都不好用。真正开放的互联网与第一款网页浏览器，直到 1990 年才显露雏形。
+browser-history-that-sparked-a-revolution = 由此，引发了计算机网络的一场革命。之后不同的网络相继建立，连接了全球的各所大学与研究中心。但在接下来的 20 年里，公众仍无法访问互联网，只有大学与政府机关内的研究人员、学生与私人企业可以使用。有许多程序可以通过电话线在计算机间交换信息，但都算不上好用。真正开放的互联网与第一款 Web 浏览器，直到 1990 年才显露雏形。
 browser-history-web-era = 进入 Web 时代
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
-browser-history-british-computer = 1990 年，英国计算机工程师蒂姆·伯纳斯·李（Tim Berners-Lee）在瑞士的<a href="{ $cern }">欧洲核子研究组织（CERN）</a>工作时，开发出首个 Web 服务器与图形化网页浏览器。他将这个进入互联网世界的新窗口，称为“WorldWideWeb”。这是一款为 NeXT 计算机开发的易于使用的图形化界面浏览器，超文本第一次通过公开网络被链接起来——即我们现在所熟知的 Web。
+browser-history-british-computer = 1990 年，英国计算机工程师蒂姆·伯纳斯·李（Tim Berners-Lee）在瑞士的<a href="{ $cern }">欧洲核子研究组织（CERN）</a>工作时，开发出首个 Web 服务器与图形化 Web 浏览器。他将这个进入互联网世界的新窗口，称为“WorldWideWeb”。这是一款为 NeXT 计算机开发的易于使用的图形化界面浏览器，超文本第一次通过公开网络被链接起来——即我们现在所熟知的 Web。
 browser-history-a-year-later-berners = 一年后，伯纳斯·李（Berners-Lee）委托 CERN 的数学系学生尼古拉·佩洛（Nicola Pellow）编写了“命令行模式浏览器”，这是一款可在简易计算机终端中使用的浏览器。
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
-browser-history-by-1993-the-web = 到了 1993 年，网络发展突飞猛进。 各所大学、政府机关、私人企业都看到了开放互联网中的机会，每个人都需要新的计算机程序来访问网络。 这一年，美国伊利诺伊大学厄巴纳-香槟分校的美国国家超级计算机应用中心（NCSA）的计算机科学家马克·安德森（Marc Andreessen）开发了 Mosaic，这是第一款流行的网页浏览器，也是 <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> 的早期版本。
+browser-history-by-1993-the-web = 到了 1993 年，网络发展突飞猛进。 各所大学、政府机关、私人企业都看到了开放互联网中的机会，每个人都需要新的计算机程序来访问网络。 这一年，美国伊利诺伊大学厄巴纳-香槟分校的美国国家超级计算机应用中心（NCSA）的计算机科学家马克·安德森（Marc Andreessen）开发了 Mosaic，这是第一款流行的 Web 浏览器，也是 <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> 的早期版本。
 # Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic 易于使用，又可以在 { -brand-name-windows } 计算机运行，让任何拥有 PC 的人都可以浏览早期的网页、聊天室、图库。隔年（1994 年），安德森创立 <a href="{ $netscape }">{ -brand-name-netscape }</a> 并公开发行了 { -brand-name-netscape } Navigator。这是第一款面向普通用户的浏览器，取得了巨大成功。 这也是针对互联网用户的新型战争的开端。
