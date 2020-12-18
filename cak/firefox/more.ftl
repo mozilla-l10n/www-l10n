@@ -65,3 +65,5 @@ incognito-browser-what = Rokik'amaya'l tawila': Ri kan nuq'ejuj
 firefox-calls-it = { -brand-name-firefox } rub'ina'an ichinan okem pa k'amaya'l. { -brand-name-chrome } rub'ina'an tawila' rub'anikil. Chi ka'i' nikiya' q'ij chawe yatok pan ajk'amaya'l, akuchi' man nuyäk ta ri runatab'al awokem pa k'amaya'l.
 take-the-stress = Man kamoxïr chik richin nawïl jun jikïl okik'amaya'l.
 building-a-safe = Ninuk' jun jikïl okik'amaya'l jun tz'aqob'äl chuqa' jun na'ojb'äl ruma majun ejikib'an ta ri taq rub'eyal.
+firefox-more-fingerprinter-blocking = Niq'at B'anöy Ruwi' Q'ab'aj
+firefox-more-translate-the-web = Titzalq'omïx ri ajk'amaya'l
