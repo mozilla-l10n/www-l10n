@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Help de laatste onafhankelijke browser t
 firefox-developer-start-now = Nu beginnen
 firefox-developer-design-code-test = Ontwerp. Schrijf code. Test. Verfijn.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Bouw en optimaliseer uw websites<br> met Firefox-ontwikkelaarshulpmiddelen
+firefox-developer-build-and-perfect = Bouw en optimaliseer uw websites<br> met { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = Inspecteer en verfijn code voor pixel-perfecte vormgevingen.
 firefox-developer-learn-about-page-inspector = Meer info over de Pagina-inspector
@@ -55,7 +55,7 @@ firefox-developer-new-tools = Nieuwe hulpmiddelen
 firefox-developer-inactive-css = Inactieve CSS
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } geeft voortaan CSS-declaraties die geen effect op de pagina hebben grijs weer. Wanneer u het informatiepictogram aanwijst, ziet u een nuttig bericht over waarom de CSS niet wordt toegepast, inclusief een hint over hoe het probleem kan worden opgelost.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = De nieuwe ontwikkelaars&shy;hulpmiddelen van Firefox zijn krachtig, flexibel, en het beste van alles, aanpasbaar. Hieronder valt een uitmuntende JavaScript-debugger, die geschikt is voor meerdere browsers en gebouwd is in React en Redux.
+firefox-developer-the-new-firefox-devtools = De nieuwe { -brand-name-firefox-devtools } zijn krachtig, flexibel, en het beste van alles, aanpasbaar. Hieronder valt een uitmuntende JavaScript-debugger, die geschikt is voor meerdere browsers en gebouwd is in React en Redux.
 firefox-developer-master-css-grid = Beheers CSS Grid
 firefox-developer-next-gen-css-engine = Next-Gen CSS Engine
 firefox-developer-a-next-generation = Een CSS-engine van de volgende generatie
