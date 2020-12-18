@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = 「數位指紋追蹤」�
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = 「數位指紋追蹤」是一種比使用 Cookie 還更有侵入性的追蹤方式，這也是 { -brand-name-firefox-browser } 要封鎖它的原因。
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } 會封鎖數位指紋追蹤行為
+features-fingerprinting-ditch-the-sticky = 使用 { -brand-name-firefox } 瀏覽器內建的數位指紋追蹤封鎖器把煩人的廣告趕走。
 # description for the header image
 features-fingerprinting-every-fingerprint = 每個指紋都是唯一的。
 features-fingerprinting-download-firefox = 下載 { -brand-name-firefox }
