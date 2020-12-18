@@ -78,3 +78,6 @@ firefox-developer-welcome-to-the-all-new = Üdvözöljük a teljesen megújult {
 firefox-developer-firefox-has-been-rebuilt = A { -brand-name-firefox }ot az alapoktól építettük újra, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
 firefox-developer-congrats-you-now-have-firefox = Gratulálunk. Most már a { -brand-name-firefox-quantum }: { -brand-name-developer-edition }t használja.
 firefox-developer-this-isnt-just-an-update = Ez nem csak egy frissítés. Ez a { -brand-name-firefox-quantum }: egy teljesen új { -brand-name-firefox }, amely az alapoktól újra lett építve, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
+firefox-developer-welcome-to-firefox-browser = Üdvözli a { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
+firefox-developer-congrats-you-now-have = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } változatát használja.
