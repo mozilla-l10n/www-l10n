@@ -51,3 +51,4 @@ sub-navigation-privacy = Ñemigua
 sub-navigation-our-promise = Ore Ñe’ẽme’ẽ
 sub-navigation-our-products = Ore apopyre
 sub-navigation-little-book-of-privacy = Aranduka’i Ñemiguáva
+sub-navigation-safe-passwords = Ñe’ẽñemi hekorosãva

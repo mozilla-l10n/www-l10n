@@ -12,6 +12,7 @@ navigation-v2-menu = Poravorã
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Emboty poravorã { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe g̃uarã
+navigation-v2-get-the-not-for-profit-backed = Ereko kundahára oykekóva atyguasu viru’ỹgua { -brand-name-windows }, { -brand-name-mac-short } térã { -brand-name-linux } peg̃uarã.
 navigation-v2-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 navigation-v2-privacy-promise = Ñemigua Ñe’ẽme’ẽ
