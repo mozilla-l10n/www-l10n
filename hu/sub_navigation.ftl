@@ -51,3 +51,4 @@ sub-navigation-privacy = Adatvédelem
 sub-navigation-our-promise = Az ígéretünk
 sub-navigation-our-products = Termékeink
 sub-navigation-little-book-of-privacy = Adatvédelmi kiskönyv
+sub-navigation-safe-passwords = Biztonságos jelszavak

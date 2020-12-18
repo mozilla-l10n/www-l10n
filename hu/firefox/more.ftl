@@ -67,3 +67,5 @@ firefox-more-fingerprinter-blocking = Ujjlenyomat-készítők blokkolása
 firefox-more-fingerprinting-is-a = Az ujjlenyomat-készítés egy olyan online nyomkövetés, amely tolakodóbb mint a szokásos süti-alapú követés – ezért blokkolja őket a { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = A web lefordítása
 firefox-more-translate-more-than = Fordítson több mint 100 nyelvet magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
+firefox-more-a-guide-to = Útmutató a biztonságosabb bejelentkezésekhez és jelszavakhoz
+firefox-more-more-and-more = Egyre több érzékeny és értékes dolgot őriznek jelszavak az életünkben.

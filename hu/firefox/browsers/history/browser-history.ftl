@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-the-browser-wars = A böngészőháborúk
+browser-history-browsing-the-web = Webböngészés ma
 browser-history-resources = Források
 browser-history-take-control-of = Vegye át a böngészője irányítását.
