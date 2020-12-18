@@ -15,3 +15,4 @@ what-is-a-browser-its-important = È importante che tutti abbiano accesso al Web
 what-is-a-browser-how-does-a-web = Come funziona un browser web?
 what-is-a-browser-cookies-not-the = I cookie (i “biscotti”, non quelli deliziosi!)
 what-is-a-browser-understanding = Comprendere la privacy
+what-is-a-browser-firefox-helps = { -brand-name-firefox } ti aiuta a proteggere la tua privacy online permettendoti di bloccare tutti gli elementi traccianti che possono seguirti nel Web.
