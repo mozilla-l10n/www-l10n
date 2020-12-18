@@ -23,7 +23,7 @@ navigation-v2-firefox-blog = { -brand-name-firefox } 博客
 navigation-v2-read-about-new-firefox-features = 了解 { -brand-name-firefox } 的新功能，及保持在线安全的方法。
 navigation-v2-release-notes = 发行说明
 navigation-v2-get-the-details-on-the = 获取新版 { -brand-name-firefox } 的更新详情。
-navigation-v2-view-all-firefox-browsers = 一览 { -brand-name-firefox-browsers } 的所有版本
+navigation-v2-view-all-firefox-browsers = 一览 { -brand-name-firefox-browsers }的所有版本
 
 ## Products menu
 
@@ -75,9 +75,9 @@ navigation-v2-get-the-firefox-browser-built = 下载专为开发者打造的 { -
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = 到主页获取 Web 开发者资源。
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = 用 { -brand-name-firefox } 浏览器 VR 版探索网络世界。
+navigation-v2-explore-the-web-with-the = 用 { -brand-name-firefox } 浏览器 VR 版探索 Web 世界。
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = 捐献一段声音，让未来的互联网中每个人都能被听见。
 navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = 详细了解新的类汇编低级语言。
+navigation-v2-learn-more-about-the-new = 进一步了解这个新的类汇编低级语言。
 navigation-v2-more-mozilla-innovation = 更多 { -brand-name-mozilla } 创新

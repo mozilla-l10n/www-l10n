@@ -72,11 +72,11 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
+-brand-name-devtools = 开发者工具
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
--brand-name-sync = Sync
+-brand-name-sync = 同步
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
 
