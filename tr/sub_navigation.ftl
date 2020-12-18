@@ -51,3 +51,4 @@ sub-navigation-privacy = Gizlilik
 sub-navigation-our-promise = Sözümüz
 sub-navigation-our-products = Ürünlerimiz
 sub-navigation-little-book-of-privacy = Küçük Gizlilik Kitabı
+sub-navigation-safe-passwords = Güvenli Parolalar
