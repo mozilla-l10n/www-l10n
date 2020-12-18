@@ -5,4 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-features-translate-translate-the-web = 使用 { -brand-name-firefox } 翻译网页
+features-translate-to-google-translate = To { -brand-name-google } Translate
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-the-extension = 获取扩展
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *通过“To { -brand-name-google } Translate”扩展，<a { $attrs } >下列语言</a>当前均可翻译：
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }>以及更多</a>

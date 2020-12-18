@@ -47,3 +47,5 @@ features-index-see-themes = 浏览热门主题
 features-index-download-latest = 下载最新版 { -brand-name-firefox }
 features-index-fingerprinter-blocking = 拦截数字指纹跟踪程序
 features-index-fingerprinting-is-a = 数字指纹识别是一种比 Cookie 更具侵入性的跟踪方式，这就是 { -brand-name-firefox-browser } 阻止它的原因。
+features-index-translate-the-web = 翻译网页
+features-index-translate-to-your = 翻译为您的语言

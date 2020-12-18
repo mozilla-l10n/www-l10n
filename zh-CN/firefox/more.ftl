@@ -63,3 +63,5 @@ incognito-browser-what = 浏览器的无痕模式：到底是什么？
 firefox-calls-it = { -brand-name-firefox } 称其为隐私浏览，{ -brand-name-chrome } 中叫隐身模式。两者都可以让您浏览网络而不留下记录。
 take-the-stress = 您要找的安全的浏览器，近在眼前。
 building-a-safe = 构建安全的浏览器是一门艺术，也是一门科学，因为没有固定的规则。
+firefox-more-fingerprinter-blocking = 拦截数字指纹跟踪程序
+firefox-more-translate-the-web = 翻译网页
