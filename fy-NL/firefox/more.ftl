@@ -63,3 +63,5 @@ incognito-browser-what = Incognitobrowser: Wat it echt betsjut
 firefox-calls-it = { -brand-name-firefox } neamt it priveenavigaasje, { -brand-name-chrome } neamt it de incognitomodus. Mei beide kinne jo op ynternet sneupe sûnder jo navigaasjeskiednis te bewarjen.
 take-the-stress = Helje de stress út it sykjen nei in feilige browser.
 building-a-safe = It bouwen fan in feilige browser is in keunst en in wittenskip, omdat der gjin fêste regels binne.
+firefox-more-fingerprinter-blocking = Blokkearjen fan fingerprinters
+firefox-more-translate-the-web = It ynternet oersette

@@ -51,3 +51,4 @@ sub-navigation-privacy = Privacy
 sub-navigation-our-promise = Us belofte
 sub-navigation-our-products = Us produkten
 sub-navigation-little-book-of-privacy = Lyts privacyboekje
+sub-navigation-safe-passwords = Feilige wachtwurden
