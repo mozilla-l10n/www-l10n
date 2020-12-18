@@ -45,3 +45,6 @@ features-index-stack-up = Hlejće, kak je { -brand-name-firefox } přirunajo z d
 features-index-compare-browsers = Wobhladowaki přirunać
 features-index-see-themes = Woblubowane drasty pokazać
 features-index-download-latest = Sćehńće najnowši { -brand-name-firefox }
+features-index-fingerprinter-blocking = Blokowanje porstowych wotćišćow
+features-index-translate-the-web = Web přełožować
+features-index-translate-to-your = Přełožujće do swojeje rěče
