@@ -51,3 +51,4 @@ sub-navigation-privacy = Приватність
 sub-navigation-our-promise = Наше зобовʼязання
 sub-navigation-our-products = Наші продукти
 sub-navigation-little-book-of-privacy = Маленька книга приватності
+sub-navigation-safe-passwords = Безпечні паролі

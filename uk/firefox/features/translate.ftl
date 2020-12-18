@@ -24,3 +24,6 @@ features-translate-switch-languages-in = Зміна мови { -brand-name-firef
 features-translate-if-you-are = Якщо ви вже користуєтеся { -brand-name-firefox }, ви можете змінити мову браузера або додати мови до інтерфейсу { -brand-name-firefox }. <a { $attrs }>Докладніше тут.</a>
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-with-the-to = *Наразі, за допомогою розширення To { -brand-name-google } Translate, можна перекладати <a { $attrs } >такими мовами</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> та навіть більше!</a>
+features-translate-for-everyone = Firefox — для всіх

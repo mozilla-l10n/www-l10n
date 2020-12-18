@@ -8,16 +8,16 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Що таке зчитування цифрового відбитка та чому ви повинні його блокувати
 # page description
-features-fingerprinting-fingerprinting-is-a-desc = Цифровий відбиток — це тип мережного стеження, який є значно проникливішим за звичайне стеження на основі кук — саме тому { -brand-name-firefox-browser } блокує його.
+features-fingerprinting-fingerprinting-is-a-desc = Зчитування цифрового відбитка — це тип мережного стеження, який є значно проникливішим за звичайне стеження на основі кук — саме тому { -brand-name-firefox-browser } блокує його.
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } блокує зчитування цифрового відбитка
-features-fingerprinting-ditch-the-sticky = Позбудьтеся липкої реклами, яка переслідує вас, за допомогою вбудованих блокувальників зчитування цифрового відбитка браузера { -brand-name-firefox }.
+features-fingerprinting-ditch-the-sticky = Позбудьтеся причіпливої реклами, яка переслідує вас, за допомогою вбудованих блокувальників зчитування цифрового відбитка браузера { -brand-name-firefox }.
 # description for the header image
 features-fingerprinting-every-fingerprint = Кожен цифровий відбиток унікальний.
 features-fingerprinting-download-firefox = Завантажити { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Що таке цифровий відбиток?
 features-fingerprinting-fingerprinting-is-a = Зчитування цифрового відбитка — це тип мережного стеження, який є значно проникливішим за звичайне стеження на основі кук. Цифровий відбиток створюється, коли компанія робить ваш унікальний профіль на основі вашого комп'ютерного обладнання, програмного забезпечення, додатків та навіть налаштувань. Для цифрових відбитків можна використовувати такі налаштування, як екран, яким ви користуєтесь, шрифти, встановлені на комп’ютері та навіть вибраний вами браузер.
 features-fingerprinting-if-you-have = Якщо у вас є часто використовуваний ноутбук, ПК або смартфон, можливо, буде важче однозначно ідентифікувати ваш пристрій за допомогою цифрових відбитків. Однак, чим більше у вас унікальних додатків, шрифтів та налаштувань, тим легше вас буде знайти. Компанії можуть користуватися набором цих унікальних подробиць для створення цифрового відбитка. Ось чому { -brand-name-firefox } блокує відомі зчитувачі цифрових відбитків, тому ви можете й надалі користуватися улюбленими розширеннями, темами та налаштуваннями без стеження за вами з боку реклами.
-features-fingerprinting-fingerprinting-is-bad = Цифрові відбитки шкодять Мережі
+features-fingerprinting-fingerprinting-is-bad = Зчитування цифрового відбитка шкодить Мережі
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
 # $url_standards (string) - link to https://w3c.github.io/fingerprinting-guidance/
 # $url_bodies (string) - link to https://w3ctag.github.io/unsanctioned-tracking/
