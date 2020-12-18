@@ -82,3 +82,5 @@ firefox-developer-welcome-to-firefox-browser = Croeso i { -brand-name-firefox-br
 firefox-developer-made-for-developers = Y porwr ar gyfer datblygwyr
 firefox-developer-all-the-latest = Yr holl offer datblygwr diweddaraf mewn beta, ynghyd â <strong>nodweddion arbrofol</strong> fel y Golygydd Aml-linell y Consol ac Archwiliwr WebSocket.
 firefox-developer-a-separate-profile = A <strong>proffil a llwybr ar wahân</strong> fel y gallwch chi ei redeg yn hawdd ochr yn ochr â Rhyddhau neu { -brand-name-beta } { -brand-name-firefox }.
+firefox-developer-preferences-tailored = Dewisiadau <strong>wedi'u teilwra ar gyfer datblygwyr gwe</strong>: Mae porwr a dadfygio o bell yn cael eu galluogi'n rhagosodedig, yn ogystal a'r thema dywyll a botwm bar offer y datblygwr.
+firefox-developer-congrats-you-now-have = Llongyfarchiadau. Bellach mae gennych { -brand-name-firefox-browser } { -brand-name-developer-edition }
