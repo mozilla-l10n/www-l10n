@@ -45,3 +45,5 @@ features-index-stack-up = Tatz'eta' achi'el ri { -brand-name-firefox } nujunamaj
 features-index-compare-browsers = Kejunamäx taq okik'amaya'l
 features-index-see-themes = Ke'atz'eta' ri jeb'ël taq wachinel
 features-index-download-latest = Taqasaj ri ruk'isib'äl { -brand-name-firefox }
+features-index-fingerprinter-blocking = Niq'at B'anöy Ruwi' Q'ab'aj
+features-index-translate-to-your = Tatzalq'omij pan ach'ab'äl
