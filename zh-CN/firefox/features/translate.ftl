@@ -15,6 +15,7 @@ features-translate-to-google-translate = To { -brand-name-google } Translate
 features-translate-google-translate-with = { -brand-name-google } 翻译已支持超过 100 种语言*，全球用户数以亿计。但是，在 translate.google.com 和您尝试阅读的页面之间来回切换的体验显然不理想。有了 <a { $attrs }>To { -brand-name-google } Translate</a> 扩展，便可让翻译正在浏览的页面变得前所未有的简单。
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = 获取扩展
+features-translate-once-installed-simply = 安装完成后，只需选中要翻译的文本，右击鼠标就会弹出多选项菜单：1）前往translation.google.com，并将您选中的文本自动填入翻译框；2）聆听该短语的发音（由 { -brand-name-google } 文字转语音引擎驱动），如果您想学习一种新的语言，这会很有帮助。
 features-translate-switch-languages-in = 在 { -brand-name-firefox } 中切换语言
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = 若您已在使用 { -brand-name-firefox }，则可以更改浏览器的语言或将语言添加到 { -brand-name-firefox } 界面。 <a { $attrs }>在此处了解如何操作。</a>
