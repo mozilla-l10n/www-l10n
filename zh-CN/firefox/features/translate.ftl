@@ -11,6 +11,8 @@ features-translate-translate-the-web = 在 { -brand-name-firefox } 上翻译网�
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = 互联网内容异彩纷呈，但其中大部分并非用中文所撰写 —— 全球数十亿人需要借助翻译才能看到这个更广阔的世界。您可以<a { $attrs }>下载有着超过 100 种语言版本的 { -brand-name-firefox }</a>，浏览器菜单、通知和消息都将会使用您的首选语言，但这并不足以解决以下问题：您用浏览器发现的更多精彩内容。
 features-translate-to-google-translate = To { -brand-name-google } Translate
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-google-translate-with = { -brand-name-google } 翻译已支持超过 100 种语言*，全球用户数以亿计。但是，在 translate.google.com 和您尝试阅读的页面之间来回切换的体验显然不理想。有了 <a { $attrs }>To { -brand-name-google } Translate</a> 扩展，便可让翻译正在浏览的页面变得前所未有的简单。
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = 获取扩展
 features-translate-switch-languages-in = 在 { -brand-name-firefox } 中切换语言
