@@ -48,3 +48,7 @@ features-index-see-themes = Gweld y themâu poblogaidd
 features-index-download-latest = Llwytho'r { -brand-name-firefox } diweddaraf i lawr
 features-index-fingerprinter-blocking = Rhwystro Bysbrintwyr
 features-index-fingerprinting-is-a = Mae bysbrintio'n fath o dracio ar-lein sy'n fwy ymledol na thracio cyffredin sy'n seiliedig ar gwcis - dyna pam mae { -brand-name-firefox-browser } yn ei rwystro.
+features-index-block-fingerprinters = Rhwystro bysbrintwyr
+features-index-translate-the-web = Cyfieithu'r we
+features-index-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith chi'n uniongyrchol yn eich { -brand-name-firefox-browser } - yn haws nag erioed.
+features-index-translate-to-your = Cyfieithu i'ch iaith
