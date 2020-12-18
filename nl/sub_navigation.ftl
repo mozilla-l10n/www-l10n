@@ -51,3 +51,4 @@ sub-navigation-privacy = Privacy
 sub-navigation-our-promise = Onze belofte
 sub-navigation-our-products = Onze producten
 sub-navigation-little-book-of-privacy = Klein privacyboekje
+sub-navigation-safe-passwords = Veilige wachtwoorden
