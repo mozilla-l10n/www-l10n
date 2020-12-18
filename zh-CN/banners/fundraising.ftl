@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-monthly = 每月
+banner-fundraising-one-time = 一次
 banner-fundraising-donate = 捐款
 # Variables:
 #   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$

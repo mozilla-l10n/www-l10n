@@ -29,6 +29,7 @@ features-index-open-source-minds = 开源的代码，开放的思想
 features-index-mozilla-creates = { -brand-name-mozilla } 为每个人建构强大的 Web 技术。
 features-index-see-what-makes-us-different = 了解我们因何不同
 features-index-by-non-profit-mozilla = 由非营利组织 { -brand-name-mozilla } 构建
+features-index-by-not-for-profit-mozilla = 由非营利组织 { -brand-name-mozilla } 构建
 features-index-keep-corporate-power = 保证巨头权力受控
 features-index-independent-browser = { -brand-name-firefox } 是最后一款独立的主流浏览器，
 features-index-on-a-mission = 我们的使命，便是要为所有人保持健康、开放且无障碍的互联网。
