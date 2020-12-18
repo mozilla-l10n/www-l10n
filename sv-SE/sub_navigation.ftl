@@ -51,3 +51,4 @@ sub-navigation-privacy = Sekretess
 sub-navigation-our-promise = Vårt löfte
 sub-navigation-our-products = Våra produkter
 sub-navigation-little-book-of-privacy = Liten integritetsbok
+sub-navigation-safe-passwords = Säkra lösenord
