@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# page title
+features-translate-translate-the-web-title = Emoñe’ẽasa ñanduti ne mohendahapevoi
 features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-google }
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Erekóke Jepysokue

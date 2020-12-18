@@ -49,3 +49,4 @@ features-index-download-latest = Emboguejy { -brand-name-firefox } apopyre ipyah
 features-index-fingerprinter-blocking = Ñemokuãhũ Jejoko
 features-index-block-fingerprinters = Ejoko ñemokuãhũ
 features-index-translate-the-web = Emoñe’ẽasa ñanduti
+features-index-translate-to-your = Emoñe’ẽasa ne ñe’ẽme
