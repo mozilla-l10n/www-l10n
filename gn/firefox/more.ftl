@@ -56,3 +56,4 @@ incognito-browser-what = Kundahára jekuaa’ỹva: mba’épa he’isetéva
 take-the-stress = Eñembyesarái kane’õgui ehekahápe kundahára hekorosãva.
 firefox-more-fingerprinter-blocking = Ñemokuãhũ Jejoko
 firefox-more-translate-the-web = Emoñe’ẽasa ñanduti
+firefox-more-a-guide-to = Tape tembiapo ñepyrũme g̃uarã ha ñe’ẽñemi hekosãva
