@@ -9,7 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = Firefox dành cho nhà phát triển là trình duyệt nhanh, cung cấp các công cụ phát triển tiên tiến và các tính năng mới nhất như hỗ trợ gỡ lỗi lưới CSS
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } là trình duyệt nhanh, cung cấp các công cụ phát triển tiên tiến và các tính năng mới nhất như hỗ trợ gỡ lỗi lưới CSS
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Chào mừng đến với trình duyệt yêu thích mới của bạn. Nhận được các tính năng mới nhất, hiệu suất nhanh, và các công cụ phát triển mà bạn cần để xây dựng cho trang web mở.
 firefox-developer-speak-up = Nói to hơn
@@ -72,9 +72,9 @@ firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devto
 firefox-developer-faster-innovation = Thông tin nhanh hơn
 firefox-developer-fonts-panel = Bảng điều khiển phông chữ
 firefox-developer-the-new-fonts-panel = Bảng điều khiển phông chữ mới trong { -brand-name-firefox-devtools } cho phép các nhà phát triển truy cập nhanh vào tất cả thông tin họ cần về các phông chữ được sử dụng trong một phần tử. Nó cũng bao gồm các thông tin có giá trị như nguồn phông chữ, trọng lượng, kiểu dáng và nhiều hơn nữa.
-firefox-developer-firefox-developer-edition-sends = Firefox dành cho nhà phát triển tự động gửi các phản hồi đến { -brand-name-mozilla }.
+firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } tự động gửi các phản hồi đến { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Tải xuống trình duyệt { -brand-name-firefox } dành cho nhà phát triển
-firefox-developer-welcome-to-the-all-new = Chào mừng đến với { -brand-name-firefox-quantum }: Phiên bản dành cho nhà phát triển
+firefox-developer-welcome-to-the-all-new = Chào mừng đến với { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } đã được xây dựng lại từ đầu để trở nên nhanh hơn, đẹp hơn và mạnh mẽ hơn bao giờ hết.
-firefox-developer-congrats-you-now-have-firefox = Chúc mừng. Bây giờ bạn có { -brand-name-firefox-quantum }: Phiên bản cho nhà phát triển.
+firefox-developer-congrats-you-now-have-firefox = Chúc mừng. Bạn đã cài đặt { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Đây không chỉ là một bản cập nhật. Đây là { -brand-name-firefox-quantum }: Một { -brand-name-firefox } hoàn toàn mới đã được xây dựng lại từ đầu để nhanh hơn, đẹp hơn và mạnh mẽ hơn bao giờ hết.
