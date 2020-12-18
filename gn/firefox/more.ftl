@@ -54,3 +54,5 @@ so-many-ads = Heta maranduñemurã, sa’íma pya’aguapy... Ejokómake kóva.
 firefox-more-protection = { -brand-name-firefox }: Ñemo’ãve. Sa’ivéma jepy’apy.
 incognito-browser-what = Kundahára jekuaa’ỹva: mba’épa he’isetéva
 take-the-stress = Eñembyesarái kane’õgui ehekahápe kundahára hekorosãva.
+firefox-more-fingerprinter-blocking = Ñemokuãhũ Jejoko
+firefox-more-translate-the-web = Emoñe’ẽasa ñanduti
