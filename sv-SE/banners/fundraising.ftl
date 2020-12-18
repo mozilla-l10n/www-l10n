@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = Framtiden bestäms online. Hjälp { -brand-name-mozilla } att kämpa för en webb för oss alla.
 banner-fundraising-monthly = Månadsvis
 banner-fundraising-one-time = Engångs
 banner-fundraising-donate = Donera
