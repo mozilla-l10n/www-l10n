@@ -9,16 +9,16 @@ browser-history-browser-history = 浏览器简史：带来现代浏览器的史�
 browser-history-the-browser-wars-underdogs-giants = 浏览器大战、弱者与巨人的对决、以及那些改变世界的瞬间。阅读了解 Web 浏览器的前世今生。
 browser-history-the-history-of-web = Web 浏览器简史
 browser-history-world-history-is = 世界历史从不缺少史诗般的权力斗争，有征服世界的暴君，也有落败的勇士。Web 浏览器的历史也大抵如此。学术先驱们编写出引发信息革命的简易软件，并为浏览器的优势和互联网用户而战。
-browser-history-before-web-era = Web 时代之前
+browser-history-before-web-era = 前 Web 时代
 browser-history-in-1950-computers = 1950 年，一台计算机要占据整个房间，性能却比不上现在的袖珍计算器。但技术发展日新月异，到了 1960 年，它们已能运行复杂的程序。全球各国政府和大学都认为，如果这些机器可以相互连通，以促进合作共赢和科学突破，那将是一件大好事。
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">阿帕网（ARPANET）</a>是第一个成功的网络连接计划，1969 年，第一条消息从美国加州大学洛杉矶分校（UCLA）计算机科学实验室发送到同样位于加州的斯坦福研究院（Stanford Research Institute, SRI）。
 browser-history-that-sparked-a-revolution = 由此，引发了计算机网络的一场革命。之后不同的网络相继建立，连接了全球的各所大学与研究中心。但在接下来的 20 年里，公众仍无法访问互联网，只有大学与政府机关内的研究人员、学生与私人企业可以使用。有许多程序可以通过电话线在计算机间交换信息，但都算不上好用。真正开放的互联网与第一款 Web 浏览器，直到 1990 年才显露雏形。
-browser-history-web-era = 进入 Web 时代
+browser-history-web-era = Web 时代
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
-browser-history-british-computer = 1990 年，英国计算机工程师蒂姆·伯纳斯·李（Tim Berners-Lee）在瑞士的<a href="{ $cern }">欧洲核子研究组织（CERN）</a>工作时，开发出首个 Web 服务器与图形化 Web 浏览器。他将这个进入互联网世界的新窗口，称为“WorldWideWeb”。这是一款为 NeXT 计算机开发的易于使用的图形化界面浏览器，超文本第一次通过公开网络被链接起来——即我们现在所熟知的 Web。
+browser-history-british-computer = 1990 年，英国计算机工程师蒂姆·伯纳斯·李（Tim Berners-Lee）在瑞士的<a href="{ $cern }">欧洲核子研究组织（CERN）</a>工作时，开发出首个 Web 服务器与图形化 Web 浏览器。他将这个进入互联网世界的新窗口，称为“WorldWideWeb”（即“万维网”）。这是一款为 NeXT 计算机开发的易于使用的图形化界面浏览器，超文本第一次通过公开网络被链接起来——即我们现在所熟知的 Web。
 browser-history-a-year-later-berners = 一年后，伯纳斯·李（Berners-Lee）委托 CERN 的数学系学生尼古拉·佩洛（Nicola Pellow）编写了“命令行模式浏览器”，这是一款可在简易计算机终端中使用的浏览器。
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
