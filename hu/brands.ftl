@@ -78,7 +78,7 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-account = Firefox-fiók
 -brand-name-firefox-accounts = Firefox-fiókok
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-devtools = Firefox fejlesztői eszközök
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send

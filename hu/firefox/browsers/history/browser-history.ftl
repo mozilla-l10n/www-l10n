@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-before-web-era = A webkorszak előtt
+browser-history-web-era = Webkorszak
 browser-history-the-browser-wars = A böngészőháborúk
 browser-history-browsing-the-web = Webböngészés ma
 browser-history-resources = Források
