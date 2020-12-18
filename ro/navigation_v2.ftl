@@ -22,3 +22,12 @@ navigation-v2-view-all-products = Vezi toate produsele
 
 ## Innovation menu
 
+navigation-v2-innovation = Inovație
+navigation-v2-close-innovation-menu = Închide meniul cu inovații
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = Mai multe inovații { -brand-name-mozilla }
