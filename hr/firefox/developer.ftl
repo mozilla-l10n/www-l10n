@@ -9,7 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = Firefox izdanje za programere najbrži je preglednik koji nudi vrhunske programerske alate i najnovije funkcije poput podrške za CSS mrežu i uklanjanje grešaka radnog okruženja
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je nevjerojatno brz preglednik koji nudi vrhunske programerske alate i najnovije funkcije poput podrške za CSS mrežu i uklanjanje grešaka radnog okruženja
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Stigao je tvoj novi omiljeni preglednik. Nabavi najnovije funkcije, brzu performansu i programerske alate koji su potrebni za izgradnju otvorenog weba.
 firefox-developer-speak-up = Reci što misliš
@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Pomozi izgraditi posljednji neovisni pre
 firefox-developer-start-now = Počni sada
 firefox-developer-design-code-test = Dizajniraj. Kodiraj. Testiraj. Poboljšaj.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Izgradi i usavrši svoje stranice<br> s Firefox alatima za programere
+firefox-developer-build-and-perfect = Izgradi i usavrši tvoje stranice<br> pomoću { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspektor
 firefox-developer-inspect-and-refine = Ispitaj i prilagodi kȏd za izradu savršenih prijeloma stranica na razini piksela.
 firefox-developer-learn-about-page-inspector = Saznaj više o inspektoru stranice
@@ -53,9 +53,9 @@ firefox-developer-edit-and-manage = Uredi i upravljaj svim CSS stilskim predloš
 firefox-developer-learn-more-about-style = Saznaj više o uređivaču stilova
 firefox-developer-new-tools = Novi alati
 firefox-developer-inactive-css = Neaktivni CSS
-firefox-developer-firefox-devtools-now-grays-out = Firefox alati za programere sada izblijeđuju CSS oznake koje ne utječu na stranicu. Kad mišem pređeš preko ikone za informacije, vidjet ćeš korisnu poruku o tome zašto se CSS ne primjenjuje, uključujući savjet o tome kako ispraviti problem.
-firefox-developer-firefox-devtools = Firefox alati za programere
-firefox-developer-the-new-firefox-devtools = Novi Firefox alati za programere su moćni, fleksibilni i – najbolje od svega – moguće ih je hakirati. Tu je najbolji JavaScript ispravljač grešaka za rad s raznim preglednicima, razvijen u Reactu i Reduxu.
+firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } sada izbljeđuju CSS oznake koje ne utječu na stranicu. Kad mišem pređeš preko ikone, vidjet ćeš korisnu poruku o tome zašto se CSS ne primjenjuje, uključujući savjet o tome kako ispraviti problem.
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-the-new-firefox-devtools = Novi { -brand-name-firefox-devtools } su moćni, fleksibilni i – najbolje od svega – mogu se hakirati. Uključuje najbolji JavaScript ispravljač grešaka za rad s raznim preglednicima, razvijen u Reactu i Reduxu.
 firefox-developer-master-css-grid = Ovladaj CSS mrežom
 firefox-developer-next-gen-css-engine = CSS motor sljedeće generacije
 firefox-developer-a-next-generation = CSS motor nove generacije
