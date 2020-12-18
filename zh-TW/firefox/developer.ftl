@@ -77,4 +77,4 @@ firefox-developer-download-the-firefox-browser = 下載為開發者設計的 { -
 firefox-developer-welcome-to-the-all-new = 歡迎使用全新的 { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = 這是從頭開始重新打造的 { -brand-name-firefox }，更快、更輕盈、威力更強大。
 firefox-developer-congrats-you-now-have-firefox = 您現在使用的是 { -brand-name-firefox-quantum }: { -brand-name-developer-edition }，恭喜您。
-firefox-developer-this-isnt-just-an-update = 不只是更新而已，{ -brand-name-firefox } Quantum 新登場。這是從頭開始重新打造的 { -brand-name-firefox }，更快、更輕盈、威力更強大。
+firefox-developer-this-isnt-just-an-update = 不只是更新而已，{ -brand-name-firefox-quantum } 全新登場。這是從頭開始重新打造的 { -brand-name-firefox }，更快、更輕盈、威力更強大。
