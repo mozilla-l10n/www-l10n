@@ -78,3 +78,5 @@ firefox-developer-welcome-to-the-all-new = Croeso i'r { -brand-name-firefox-quan
 firefox-developer-firefox-has-been-rebuilt = Mae { -brand-name-firefox } wedi ei ailadeiladu i fod yn gynt, llyfnach a mwy pwerus nag o'r blaen.
 firefox-developer-congrats-you-now-have-firefox = Llongyfarchiadau. Rydych nawr yn defnyddio { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Nid dim ond diweddariad yw hwn. Hwn yw { -brand-name-firefox-quantum }: { -brand-name-firefox } newydd sbon sydd wedi ei ailadeiladu o'i sail i fod yn gynt yn fwy llyfn a phwerus nag erioed.
+firefox-developer-welcome-to-firefox-browser = Croeso i { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Y porwr ar gyfer datblygwyr
