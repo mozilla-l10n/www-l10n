@@ -50,5 +50,5 @@ features-index-fingerprinter-blocking = 封鎖數位指紋追蹤程式
 features-index-fingerprinting-is-a = 「數位指紋追蹤」是一種比使用 Cookie 還更有侵入性的追蹤方式，這也是 { -brand-name-firefox-browser } 要封鎖它的原因。
 features-index-block-fingerprinters = 封鎖數位指紋追蹤程式
 features-index-translate-the-web = 翻譯網頁內容
-features-index-translate-more-than = 直接在 { -brand-name-firefox-browser } 瀏覽器中將網頁翻譯成超過 100 種語言，比以往更方便。
+features-index-translate-more-than = 直接在 { -brand-name-firefox-browser } 瀏覽器中翻譯超過 100 種語言的網頁，比以往更方便。
 features-index-translate-to-your = 翻譯為您的語言
