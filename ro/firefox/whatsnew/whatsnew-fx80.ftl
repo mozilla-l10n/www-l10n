@@ -7,7 +7,7 @@
 
 # html page title
 whatsnew80-page-title = Ce-i nou în { -brand-name-firefox }
-whatsnew80-up-to-date-banner = Felicitări! Folosești cel mai recent { -brand-name-firefox }.
+whatsnew80-up-to-date-banner = Felicitări! Folosești cea mai recentă versiune pentru { -brand-name-firefox }.
 # Main title
 whatsnew80-main-title = Fa aproape tot ce vrei, dar mai rapid
 whatsnew80-main-intro = Mută-te de pe calculator pe telefon fără să ratez nimic. Obține { -brand-name-firefox } pentru mobil.

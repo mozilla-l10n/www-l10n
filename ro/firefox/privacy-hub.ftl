@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# Sub navigation link
+firefox-privacy-our-products = Produsele noastre
 firefox-privacy-hub-when-you-enter-your-email = Când îți introduci adresa de e-mail în { -brand-name-firefox-monitor }, o uităm imediat după ce am verificat-o pentru o corelare în încălcările cunoscute ale securității datelor — cu excepția cazului în care ne autorizezi să continuăm monitorizarea încălcărilor noi pentru prezența datelor tale personale.
 firefox-privacy-hub-check-for-breaches = Caută încălcări ale securității datelor
 # Variables:

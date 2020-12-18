@@ -64,6 +64,8 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -72,9 +74,13 @@
 -brand-name-monitor = Monitor
 -brand-name-send = Send
 -brand-name-sync = Sync
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
 
 ## Pocket
 
@@ -102,6 +108,7 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
@@ -147,3 +154,4 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
