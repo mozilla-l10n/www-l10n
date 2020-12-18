@@ -16,5 +16,7 @@ firefox-sync-we-store-your = Rombyaty ne mba’ekuaarã papapýva ore mohendahav
 firefox-sync-start-syncing-in = Eñepyrũ emoñondive irũndyháicha:
 firefox-sync-open-the-menu = Embojuruja poravorã yvate akatúa gotyo { -brand-name-firefox } ha eiporavo <strong>“Emoñepyrũ tembiapo { -brand-name-sync }”</strong>.
 firefox-sync-click-get-started = Eikutu <strong>“Eñepyrũ”</strong> tendayke ijurujávape.
+firefox-sync-enter-an-email = Ehai ñanduti veve kundaharape ha ñe’ẽñemi <strong>“Emoheñói { -brand-name-firefox-account }.”</strong>
+firefox-sync-click-next-to = Eikutu <strong>“Upeigua”</strong> emondo hag̃ua peteĩ jehechajey ne ñanduti vevépe.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = Ñepytyvõve eñangareko hag̃ua ne { -brand-name-firefox-account } rehe
