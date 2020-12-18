@@ -16,3 +16,5 @@ browser-history-in-1950-computers = Nel 1950 i computer occupavano intere stanze
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> fu il primo progetto di rete ad avere successo: il primo messaggio fu inviato nel 1969 dal laboratorio di informatica dell’Università della California (UCLA) di Los Angeles allo Stanford Research Institute (SRI), anch’esso in California.
 browser-history-web-era = Era del Web
 browser-history-the-browser-wars = La guerra dei browser
+browser-history-resources = Risorse
+browser-history-take-control-of = Prendi il controllo del tuo browser.

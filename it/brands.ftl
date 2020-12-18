@@ -80,7 +80,12 @@
         [uppercase] Account Firefox
     }
 -brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-devtools =
+    { $capitalization ->
+       *[lowercase] strumenti di sviluppo di Firefox
+        [uppercase] Strumenti di sviluppo di Firefox
+        [eng] Firefox DevTools
+    }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
