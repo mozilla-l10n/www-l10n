@@ -45,3 +45,5 @@ features-index-stack-up = Se hur { -brand-name-firefox } står sig i jämförels
 features-index-compare-browsers = Jämför webbläsare
 features-index-see-themes = Se de bästa teman
 features-index-download-latest = Ladda ner den senaste { -brand-name-firefox }
+features-index-translate-the-web = Översätt webben
+features-index-translate-to-your = Översätt till ditt språk
