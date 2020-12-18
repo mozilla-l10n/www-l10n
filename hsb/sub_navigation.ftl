@@ -51,3 +51,4 @@ sub-navigation-privacy = Priwatnosć
 sub-navigation-our-promise = Naše slubjenje
 sub-navigation-our-products = Naše produkty
 sub-navigation-little-book-of-privacy = Knižka priwatnosće
+sub-navigation-safe-passwords = Wěste hesła
