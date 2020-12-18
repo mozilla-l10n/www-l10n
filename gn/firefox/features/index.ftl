@@ -46,3 +46,6 @@ features-index-stack-up = Mba’éichapa { -brand-name-firefox } oñemoñondive 
 features-index-compare-browsers = Emoñondive kundahára
 features-index-see-themes = Ehecha téma iporãvéva
 features-index-download-latest = Emboguejy { -brand-name-firefox } apopyre ipyahuvéva
+features-index-fingerprinter-blocking = Ñemokuãhũ Jejoko
+features-index-block-fingerprinters = Ejoko ñemokuãhũ
+features-index-translate-the-web = Emoñe’ẽasa ñanduti
