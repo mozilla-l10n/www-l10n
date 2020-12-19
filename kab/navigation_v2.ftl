@@ -47,6 +47,26 @@ navigation-v2-view-all-products = Sken akk ifarisen
 navigation-v2-who-we-are = Who We Are
 navigation-v2-close-who-we-are-menu = Mdel umuɣ n Who We Are
 navigation-v2-mozilla-manifesto = Ameskan { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Issin azalen d yimenzayen iɣef tebna tuɣdaḍt-nneɣ.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = Ttekki
+navigation-v2-join-the-fight-for-a = Ddu-d ad tennaɣeḍ ɣef Internet n tezmert yelhan.
+navigation-v2-leadership = Tanedbelt
+navigation-v2-careers = Imahilen
+navigation-v2-mozilla-blog = Ablug n { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Issin ɣef { -brand-name-mozilla }d wuguren i aɣ-yeɛnan.
+navigation-v2-more-about-mozilla = Ugar ɣef { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Asnulfu
+navigation-v2-close-innovation-menu = Fren umuɣ n usnulfu
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Awi iminig { -brand-name-firefox } i yettwaxedmen i yineflayen kan.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Mudd-d taɣect-ik.im akken imal n uzeṭṭa Web ad isel i medden merra.
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = Ugar n usnulfu n { -brand-name-mozilla }
