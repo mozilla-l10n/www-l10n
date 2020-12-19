@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
-learn-more = अधिक जानें
 what-is-a = वेब ब्राउज़र क्या है?
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-for-linux = { -brand-name-linux } के लिए { -brand-name-firefox }
 firefox-for-windows = { -brand-name-windows } 64-bit के लिए { -brand-name-firefox }
