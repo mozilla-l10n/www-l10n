@@ -7,3 +7,4 @@
 
 # page title
 features-translate-translate-the-web-title = Traduci il Web direttamente nel tuo browser
+features-translate-translate-the-web = Traduci il Web con { -brand-name-firefox }
