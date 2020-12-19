@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+features-translate-the-google-translate = Η επέκταση { -brand-name-google } Translate για { -brand-name-firefox } κάνει το διαδίκτυο προσβάσιμο στον κόσμο.
 features-translate-switch-languages-in = Αλλαγή γλωσσών στο { -brand-name-firefox }
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Με την επέκταση To { -brand-name-google } Translate, μπορείτε να κάνετε μετάφραση σε <a { $attrs } >αυτές τις γλώσσες</a>:
+features-translate-for-everyone = Το Firefox είναι για όλους
