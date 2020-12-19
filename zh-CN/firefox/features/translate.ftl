@@ -10,7 +10,7 @@ features-translate-translate-the-web-title = 直接在浏览器中翻译网页
 # page description
 features-translate-translate-more-than = 直接在 { -brand-name-firefox-browser }中将 100 多种语言翻译为您的语言 - 前所未有的容易。
 features-translate-translate-the-web = 在 { -brand-name-firefox } 上翻译网页
-features-translate-the-google-translate = { -brand-name-firefox } 的 { -brand-name-google } 翻译扩展，让 Web 服务更多人。
+features-translate-the-google-translate = { -brand-name-firefox } 的 { -brand-name-google } 翻译扩展，让世界更多人从 Web 中受益。
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = 互联网内容异彩纷呈，但其中大部分并非用中文所撰写 —— 全球数十亿人需要借助翻译才能看到这个更广阔的世界。您可以<a { $attrs }>下载有着超过 100 种语言版本的 { -brand-name-firefox }</a>，浏览器菜单、通知和消息都将会使用您的首选语言，但这并不足以解决以下问题：您用浏览器发现的更多精彩内容。
 features-translate-to-google-translate = To { -brand-name-google } Translate
