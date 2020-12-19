@@ -6,16 +6,17 @@
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 # page title
-features-fingerprinting-what-is-fingerprinting-title = 什么是数字指纹识别，为什么要阻止？
+features-fingerprinting-what-is-fingerprinting-title = 什么是数字指纹跟踪，为什么要阻止？
 # page description
-features-fingerprinting-fingerprinting-is-a-desc = 数字指纹识别是一种比 Cookie 更具侵入性的跟踪方式，这就是 { -brand-name-firefox-browser } 阻止它的原因。
-features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } 阻止数字指纹识别
+features-fingerprinting-fingerprinting-is-a-desc = 数字指纹跟踪是一种比 Cookie 更具侵入性的跟踪方式，这就是 { -brand-name-firefox-browser } 阻止它的原因。
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } 阻止数字指纹跟踪
 features-fingerprinting-ditch-the-sticky = 使用 { -brand-name-firefox } 浏览器内置的数字指纹跟踪拦截器赶走烦人的广告。
 # description for the header image
 features-fingerprinting-every-fingerprint = 每个数字指纹都是唯一的。
 features-fingerprinting-download-firefox = 下载 { -brand-name-firefox }
-features-fingerprinting-what-is-fingerprinting-body = 什么是数字指纹识别？
-features-fingerprinting-fingerprinting-is-bad = 数字指纹识别对 Web 不利
+features-fingerprinting-what-is-fingerprinting-body = 什么是数字指纹跟踪？
+features-fingerprinting-fingerprinting-is-a = 数字指纹跟踪是一种比 Cookie 更具侵入性的跟踪方式。当一家企业根据您的计算机软硬件、附加组件、系统设置，为您创建单独的个人资料时，就是在进行“数字指纹跟踪”。您的设置诸如所用屏幕尺寸、计算机上安装的字体、甚至是您选用的浏览器，都可以用来创建指纹。
+features-fingerprinting-fingerprinting-is-bad = 数字指纹跟踪对 Web 不利
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
 # $url_standards (string) - link to https://w3c.github.io/fingerprinting-guidance/
 # $url_bodies (string) - link to https://w3ctag.github.io/unsanctioned-tracking/
