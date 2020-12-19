@@ -27,5 +27,12 @@ browser-history-by-1993-the-web = En 1993, la web explotó. Universidades, gobie
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic se ejecutaba en computadores { -brand-name-windows }, era fácil de usar y le daba a cualquier persona con un PC acceso a las primeras páginas web, salas de chat y bibliotecas de imágenes. Al año siguiente (1994), Andreessen fundó <a href="{ $netscape }">{ -brand-name-netscape }</a> y lanzó { -brand-name-netscape } Navigator al público. Fue un gran éxito y el primer navegador para la gente. También fue el primer paso en un nuevo tipo de guerra para los usuarios de Internet.
 browser-history-the-browser-wars = Las guerras de los navegadores
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = En 1995, { -brand-name-netscape } Navigator no era la única forma de conectarse. El gigante del software informático { -brand-name-microsoft } obtuvo la licencia del antiguo código Mosaic y construyó su propia ventana a la web, <a href="{ $ie }">{ -brand-name-ie }</a>. El lanzamiento provocó una guerra. { -brand-name-netscape } y { -brand-name-microsoft } trabajaron febrilmente en crear nuevas versiones de sus programas, cada uno intentando superar al otro con productos mejores y más rápidos.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = { -brand-name-netscape } creó y lanzó JavaScript, que brindó a los sitios web capacidades informáticas poderosas que nunca antes habían tenido. (También crearon la infame <a href="{ $blink }">etiqueta &lt;blink&gt;</a>). { -brand-name-microsoft } respondió con Cascading Style Sheets (CSS), que se convirtió en el estándar para el diseño de páginas web.
+browser-history-browsing-the-web = Navegando la Web hoy
 browser-history-resources = Recursos
 browser-history-take-control-of = Toma el control de tu navegador.
