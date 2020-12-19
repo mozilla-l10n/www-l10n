@@ -8,3 +8,6 @@
 # page title
 features-translate-translate-the-web-title = Översätt webben - direkt i din webbläsare
 features-translate-translate-the-web = Översätt webben med { -brand-name-firefox }
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a{ $attrs }> och mer!</a>
+features-translate-for-everyone = Firefox är för alla
