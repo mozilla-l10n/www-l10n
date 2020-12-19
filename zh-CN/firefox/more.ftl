@@ -67,3 +67,4 @@ firefox-more-fingerprinter-blocking = 拦截数字指纹跟踪程序
 firefox-more-fingerprinting-is-a = 数字指纹识别是一种比 Cookie 更具侵入性的跟踪方式，这就是 { -brand-name-firefox-browser } 阻止它的原因。
 firefox-more-translate-the-web = 翻译网页
 firefox-more-translate-more-than = 直接在 { -brand-name-firefox-browser }中将 100 多种语言翻译为您的语言 - 前所未有的容易。
+firefox-more-a-guide-to = 更安全的登录信息与密码指南

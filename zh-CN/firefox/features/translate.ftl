@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# page title
+features-translate-translate-the-web-title = 直接在浏览器中翻译网页
 # page description
 features-translate-translate-more-than = 直接在 { -brand-name-firefox-browser }中将 100 多种语言翻译为您的语言 - 前所未有的容易。
 features-translate-translate-the-web = 在 { -brand-name-firefox } 上翻译网页
@@ -23,3 +25,4 @@ features-translate-if-you-are = 若您已在使用 { -brand-name-firefox }，则
 features-translate-with-the-to = *通过“To { -brand-name-google } Translate”扩展，<a { $attrs }>下列语言</a>当前均可翻译：
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>以及更多</a>
+features-translate-for-everyone = Firefox 人人皆可用

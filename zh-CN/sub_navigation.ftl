@@ -51,3 +51,4 @@ sub-navigation-privacy = 隐私权
 sub-navigation-our-promise = 我们的承诺
 sub-navigation-our-products = 我们的产品
 sub-navigation-little-book-of-privacy = 隐私口袋书
+sub-navigation-safe-passwords = 安全的密码
