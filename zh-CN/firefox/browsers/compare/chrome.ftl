@@ -10,7 +10,7 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } 与 { -brand
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = 我们在隐私、实用性和可移植性方面比较了 { -brand-name-mozilla } { -brand-name-firefox } 和 { -brand-name-google } { -brand-name-chrome }
 # Main title.
-compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } 与 { -brand-name-google } { -brand-name-chrome } 的比较
+compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } 与 { -brand-name-google } { -brand-name-chrome } 之间的比较
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = 有大量的 { -brand-name-firefox } 忠实用户感谢我们对保护网络隐私所做的贡献。例如，最新版 { -brand-name-firefox } 包含一个称为“增强型追踪保护（ETP）”的功能，默认为全球所有用户开启。ETP 会拦截超过 2000 种跟踪器，其中包括 { -brand-name-facebook }、{ -brand-name-twitter }、LinkedIn 等网站的社交媒体跟踪器。还整合了一个名为 <a { $attrs }>{ -brand-name-firefox-monitor }</a> 的功能，可在网站密码外泄或需要更新时自动通知您。除了这些保护，{ -brand-name-firefox } 的隐私浏览模式也会自动清除浏览历史、Cookie 等信息，让上网不留痕迹。
