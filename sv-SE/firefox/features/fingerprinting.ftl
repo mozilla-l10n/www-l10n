@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+features-fingerprinting-download-firefox = Hämta { -brand-name-firefox }
 features-fingerprinting-protect = Skydda din integritet
