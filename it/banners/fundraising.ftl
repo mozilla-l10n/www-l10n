@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = Il futuro viene deciso online. Aiuta { -brand-name-mozilla } nella lotta per un Web accessibile a tutti.
 banner-fundraising-body = I nostri dati personali sono raccolti ogni volta che accediamo al Web e non è facile capire l’uso che ne viene fatto: la disinformazione rende difficile la ricerca della verità e i dispositivi connessi a Internet sono spesso lanciati sul mercato senza soddisfare gli standard di sicurezza minimi. L’organizzazione non-profit { -brand-name-mozilla-foundation } si batte per mantenere Internet un luogo sicuro, aperto e accessibile a tutti. <strong>Farai una donazione oggi?</strong>
 banner-fundraising-monthly = Mensile
 banner-fundraising-one-time = Una tantum
