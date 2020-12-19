@@ -37,9 +37,16 @@ navigation-v2-product-promise = Lɛehd n ufaris
 navigation-v2-learn-how-each-firefox-product = Issin amek yal afaris n { -brand-name-firefox } yettmestin yerna yettqadar isefka-k.m.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Rnu imiḍanen imaynuten war ma tefkiḍ-d tansa imayl.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Mmesten tuqqna n yiminig-ik.im ɣer internet.
+navigation-v2-view-all-products = Sken akk ifarisen
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Who We Are
+navigation-v2-close-who-we-are-menu = Mdel umuɣ n Who We Are
+navigation-v2-mozilla-manifesto = Ameskan { -brand-name-mozilla }
 
 ## Innovation menu
 
