@@ -33,6 +33,13 @@ browser-history-by-1995-netscape = En 1995, { -brand-name-netscape } Navigator n
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape } creó y lanzó JavaScript, que brindó a los sitios web capacidades informáticas poderosas que nunca antes habían tenido. (También crearon la infame <a href="{ $blink }">etiqueta &lt;blink&gt;</a>). { -brand-name-microsoft } respondió con Cascading Style Sheets (CSS), que se convirtió en el estándar para el diseño de páginas web.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Las cosas se salieron un poco de control en 1997, cuando { -brand-name-microsoft } lanzó { -brand-name-ie } 4.0. El equipo construyó una gigante letra "e" y la coló en el césped de la sede de { -brand-name-netscape }. El equipo de { -brand-name-netscape } derribó rápidamente la "e" gigante y <a href="{ $dino }">puso encima su propia mascota dinosaurio llamada { -brand-name-mozilla } </ a >.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Entonces { -brand-name-microsoft } comenzó a distribuir { -brand-name-ie } con su sistema operativo { -brand-name-windows }. En 4 años, obtuvo el 75% del mercado y en 1999 tenía ya el 99% del mercado. La empresa se enfrentó a un litigio antimonopolio por la forma de distribución, y { -brand-name-netscape } decidió abrir su código fuente y creó la organización sin fines de lucro <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, la que luego creó y lanzó { -brand-name-firefox } en 2002. Al darse cuenta de que la existencia de un monopolio de navegador no era lo mejor para los usuarios y la web abierta, { -brand-name-firefox } se creó para ofrecer opciones a los usuarios de la web. Para 2010, { -brand-name-mozilla } { -brand-name-firefox } y otros habían <a href="{ $marketshare }">reducido la participación de mercado de { -brand-name-ie } al 50%</ a>.
 browser-history-browsing-the-web = Navegando la Web hoy
 browser-history-resources = Recursos
 browser-history-take-control-of = Toma el control de tu navegador.
