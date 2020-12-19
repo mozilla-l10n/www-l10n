@@ -16,6 +16,7 @@ features-fingerprinting-every-fingerprint = 每个数字指纹都是唯一的。
 features-fingerprinting-download-firefox = 下载 { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = 什么是数字指纹跟踪？
 features-fingerprinting-fingerprinting-is-a = 数字指纹跟踪是一种比 Cookie 更具侵入性的跟踪方式。当一家企业根据您的计算机软硬件、附加组件、系统设置，为您创建单独的个人资料时，就是在进行“数字指纹跟踪”。您的设置诸如所用屏幕尺寸、计算机上安装的字体、甚至是您选用的浏览器，都可以用来创建指纹。
+features-fingerprinting-if-you-have = 若您的笔记本电脑、 PC 或智能手机与大多数人所用的型号完全相同，则可能很难通过数字指纹唯一标识您的设备。但您所用的附加组件、字体、设置越不同，就越容易被精准跟踪。商业公司通过这些独特的信息组合来创建您的数字指纹。这也是为什么 { -brand-name-firefox } 要拦截已知的数字指纹跟踪程序，让您仍然可以使用最爱的扩展、主题、定制项，而不被广告跟踪。
 features-fingerprinting-fingerprinting-is-bad = 数字指纹跟踪对 Web 不利
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
 # $url_standards (string) - link to https://w3c.github.io/fingerprinting-guidance/
