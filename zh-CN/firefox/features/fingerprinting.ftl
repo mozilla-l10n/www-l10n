@@ -16,4 +16,6 @@ features-fingerprinting-every-fingerprint = 每个数字指纹都是唯一的。
 features-fingerprinting-download-firefox = 下载 { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = 什么是数字指纹识别？
 features-fingerprinting-fingerprinting-is-bad = 数字指纹识别对 Web 不利
+# $url_download (string) - link to firefox/new
+features-fingerprinting-you-probably-wouldnt = 您大概不会喜欢在现实生活中被任何人监控一举一动，在网上当然也不例外。 若您尚未安装  { -brand-name-firefox }，<a {{ $url_download }}>快来下载安装，保护自己</a>不受数字指纹跟踪。
 features-fingerprinting-protect = 保护您的隐私
