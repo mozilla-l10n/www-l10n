@@ -19,9 +19,24 @@ navigation-v2-get-the-mobile-browser = Awi iminig aziraz i { -brand-name-iphone 
 navigation-v2-privacy-promise = Lɛehd n tbaḍnit
 navigation-v2-learn-how-firefox-treats = Issin amek ixeddem { -brand-name-firefox }i yisefka-k.m s leqder.
 navigation-v2-firefox-blog = Ablug { -brand-name-firefox }
+navigation-v2-read-about-new-firefox-features = Ɣeṛ ɣef tmahilin timaynutin n { -brand-name-firefox } akked yiberdan ara k-yeǧǧen d aɣellsan deg uzeṭṭa.
+navigation-v2-release-notes = Tizmilin n lqem
+navigation-v2-get-the-details-on-the = Awi talqay ɣef yileqman ineggura n { -brand-name-firefox }.
+navigation-v2-view-all-firefox-browsers = S'en akk { -brand-name-firefox-browsers }
 
 ## Products menu
 
+navigation-v2-products = Ifarisen
+navigation-v2-close-products-menu = Mdel umuɣ n yifarisen
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Ẓer ma imayl-ik.im yettban-d deg trewla n yisefka n tkebbanit.
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Lɛehd n ufaris
+navigation-v2-learn-how-each-firefox-product = Issin amek yal afaris n { -brand-name-firefox } yettmestin yerna yettqadar isefka-k.m.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 
 ## Who We Are menu
 
