@@ -22,6 +22,15 @@ what-is-a-browser-sadly-not-all = Tristemente, no todos los fabricantes de naveg
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Cuando el navegador web obtiene datos de un servidor conectado a Internet, utiliza un software llamado motor de renderizado para traducir esos datos en texto e imágenes. Estos datos están escritos en <a href="{ $html }">"lenguaje de marcas de hipertexto"</a> (HTML) y los navegadores web leen este código para construir lo que vemos, escuchamos y experimentamos en Internet.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Los hipervínculos</a> permiten a los usuarios seguir una ruta a otras páginas o sitios en la web. Cada página web, imagen y video tiene su propio <a href="{ $url }">"Localizador Uniforme de Recursos"</a> (URL), que también se conoce como dirección web. Cuando un navegador visita un servidor en busca de datos, la dirección web le dice al navegador dónde buscar cada elemento que se describe en el html, que luego le dice al navegador en que parte de la página web va.
 what-is-a-browser-cookies-not-the = Cookies (no de las ricas)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Los sitios web guardan información sobre ti en archivos llamados <a href="{ $cookies }">cookies</a>. Se guardan en tu computador para la próxima vez que visites ese sitio. A tu regreso, el código del sitio web leerá ese archivo para saber que eres tu nuevamente. Por ejemplo, cuando visitas un sitio web, la página recuerda tu nombre de usuario y contraseña, lo que es posible gracias a una cookie.
+what-is-a-browser-there-are-also = También hay cookies que recuerdan información más detallada sobre tu. Quizás tus intereses, tus patrones de navegación web, etc. Esto significa que un sitio puede proporcionarte contenido más específico, a menudo en forma de anuncios publicitarios. Hay un tipo de cookie, llamado cookies de <em>terceros</em>, que provienen de sitios que ni siquiera estás visitando en ese momento y pueden rastrearte de un sitio a otro para recopilar información sobre ti, la que a veces se vende a otras empresas. A veces puedes bloquear este tipo de cookies, aunque no todos los navegadores lo permiten.
+what-is-a-browser-when-you-go-to = Cuando visitas un sitio web, la página recuerda tu nombre de usuario y contraseña, lo que es posible gracias a una cookie.
 what-is-a-browser-understanding = Entendiendo la privacidad
 what-is-a-browser-making-your-web = Haciendo que tu navegador web funcione para ti
