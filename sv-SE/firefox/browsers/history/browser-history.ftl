@@ -21,5 +21,8 @@ browser-history-a-year-later-berners = Ett år senare bad Berners-Lee matematiks
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = År 1993 exploderade webben. Universitet, regeringar och privata företag såg alla möjligheter på det öppna internet. Alla behövde nya datorprogram för att komma åt det. Det året skapades Mosaic vid National Center for Supercomputing Applications (NCSA) vid University of Illinois Urbana-Champaign av datavetenskapsmannen Marc Andreessen. Det var den allra första populära webbläsaren och den tidiga förfadern till <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic körde på datorer med { -brand-name-windows }, var lätt att använda och gav alla med PC tillgång till tidiga webbsidor, chattrum och bildbibliotek. Nästa år (1994) grundade Andreessen <a href="{ $netscape }"> { -brand-name-netscape }</a> och släppte { -brand-name-netscape } Navigator till allmänheten. Den var väldigt framgångsrik och den första webbläsaren för folket. Det var också det första steget i en ny typ av krig för internetanvändare.
 browser-history-resources = Resurser
 browser-history-take-control-of = Ta kontroll över din webbläsare.
