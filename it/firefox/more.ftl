@@ -68,3 +68,4 @@ firefox-more-fingerprinting-is-a = Il fingerprinting è un tipo di tracciamento 
 firefox-more-translate-the-web = Traduci il Web
 firefox-more-translate-more-than = Traduci più di 100 lingue nella tua lingua direttamente nel { -brand-name-firefox-browser }. Non è mai stato così facile.
 firefox-more-a-guide-to = Una guida per credenziali di accesso più sicure
+firefox-more-more-and-more = Sempre più dati sensibili e parti significative della nostra vita sono protetti da password.
