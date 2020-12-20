@@ -66,5 +66,5 @@ building-a-safe = Costruire un browser sicuro è un’arte e una scienza poiché
 firefox-more-fingerprinter-blocking = Blocco dei fingerprinter
 firefox-more-fingerprinting-is-a = Il fingerprinting è un tipo di tracciamento online che risulta molto più invasivo dei metodi comuni basati sui cookie: ecco perché { -brand-name-firefox-browser } permette di bloccarlo.
 firefox-more-translate-the-web = Traduci il Web
-firefox-more-translate-more-than = Traduci più di 100 lingue nella tua lingua direttamente in { -brand-name-firefox-browser }. Non è mai stato così facile.
+firefox-more-translate-more-than = Traduci più di 100 lingue nella tua lingua direttamente nel { -brand-name-firefox-browser }. Non è mai stato così facile.
 firefox-more-a-guide-to = Una guida per credenziali di accesso più sicure

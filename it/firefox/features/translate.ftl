@@ -8,7 +8,7 @@
 # page title
 features-translate-translate-the-web-title = Traduci il Web direttamente nel tuo browser
 # page description
-features-translate-translate-more-than = Traduci da più di 100 lingue nella tua lingua direttamente in { -brand-name-firefox-browser }. Non è mai stato così facile.
+features-translate-translate-more-than = Traduci da più di 100 lingue nella tua lingua direttamente nel { -brand-name-firefox-browser }. Non è mai stato così facile.
 features-translate-translate-the-web = Traduci il Web con { -brand-name-firefox }
 features-translate-the-google-translate = L’estensione To { -brand-name-google } Translate per { -brand-name-firefox } rende il Web accessibile al mondo.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
