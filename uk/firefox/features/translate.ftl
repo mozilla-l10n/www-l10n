@@ -10,7 +10,7 @@ features-translate-translate-the-web-title = Перекладіть Мережу
 # page description
 features-translate-translate-more-than = Перекладайте з понад 100 мов вашою мовою безпосередньо у вашому { -brand-name-firefox-browser } — простіше, ніж будь-коли.
 features-translate-translate-the-web = Перекладайте Мережу за допомогою { -brand-name-firefox }
-features-translate-the-google-translate = Розширення { -brand-name-google } перекладач для { -brand-name-firefox } робить Інтернет доступним для всього світу.
+features-translate-the-google-translate = Розширення { -brand-name-google } Translate для { -brand-name-firefox } робить Інтернет доступним для всього світу.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Інтернет наповнений дивовижними речами, але багато з них не написані англійською мовою — мільярдам людей по всьому світу потрібен перекладач, щоб просто користуватися Інтернетом. Ви можете  <a { $attrs }>завантажити { -brand-name-firefox } понад 100 мовами</a>, тому меню, сповіщень та повідомлень вашого браузера ви бачите є вибраною мовою, але це не розв'язує проблему всього того дивовижного вмісту, який ви шукаєте за допомогою свого браузера.
 features-translate-to-google-translate = To { -brand-name-google } Translate
