@@ -80,6 +80,17 @@
     .gender = feminine
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape =
+    { $case ->
+       *[nom] Netscape
+        [gen] Netscapu
+        [dat] Netscapu
+        [acc] Netscape
+        [voc] Netscape
+        [loc] Netscapu
+        [ins] Netscapem
+    }
+    .gender = masculine
 -brand-name-twitter =
     { $case ->
        *[nom] Twitter
@@ -192,7 +203,17 @@
                 [lower] prohlížeči Firefox
             }
     }
--brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-developer-edition =
+    { $case ->
+       *[nom] Firefox Developer Edition
+        [gen] Firefoxu Developer Edition
+        [dat] Firefoxu Developer Edition
+        [acc] Firefox Developer Edition
+        [voc] Firefoxe Developer Edition
+        [loc] Firefoxu Developer Edition
+        [ins] Firefoxem Developer Edition
+    }
+    .gender = masculine
 -brand-name-firefox-enterprise =
     { $case ->
        *[nom] Firefox pro firmy
@@ -241,11 +262,23 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum =
+    { $case ->
+       *[nom] Firefox Quantum
+        [gen] Firefoxu Quantum
+        [dat] Firefoxu Quantum
+        [acc] Firefox Quantum
+        [voc] Firefoxe Quantum
+        [loc] Firefoxu Quantum
+        [ins] Firefoxem Quantum
+    }
+    .gender = masculine
 
 ## Firefox products
 
@@ -417,6 +450,11 @@
         [loc] Syncu
         [ins] Syncem
     }
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
+
+## Firefox products (legacy)
+
 
 ## Pocket
 
@@ -458,9 +496,13 @@
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
+## Mozilla projects (legacy)
+
+
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
