@@ -28,3 +28,6 @@ newsletter-form-select-country = Zvoľte krajinu
 newsletter-form-sign-me-up = Prihlásiť sa
 newsletter-form-sign-up-now = Prihlásiť sa
 newsletter-form-thanks = Vďaka!
+newsletter-form-leave-this-field-empty = Toto pole ponechajte prázdne.
+newsletter-form-yes = Áno
+newsletter-form-no = Nie

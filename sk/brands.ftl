@@ -38,6 +38,15 @@
     .gender = feminine
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape =
+    { $case ->
+       *[nom] Netscape
+        [gen] Netscapu
+        [dat] Netscapu
+        [acc] Netscape
+        [loc] Netscape
+        [ins] Netscapom
+    }
 -brand-name-twitter = Twitter
 
 ## Firefox browsers
@@ -327,6 +336,15 @@
         [acc] Firefox Sync
         [loc] Firefoxe Sync
         [ins] Firefoxom Sync
+    }
+-brand-name-firefox-relay =
+    { $case ->
+       *[nom] Firefox Relay
+        [gen] Firefoxu Relay
+        [dat] Firefoxu Relay
+        [acc] Firefox Relay
+        [loc] Firefoxe Relay
+        [ins] Firefoxom Relay
     }
 -brand-name-firefox-private-network = Firefox Private Network
 
