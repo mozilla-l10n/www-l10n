@@ -64,6 +64,7 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-private-network = Firefox نجی نیٹ ورک
 
 ## Firefox products (short names)
 
@@ -89,6 +90,7 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla ڈویلپر نیٹ ورک
 -brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-labs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-thunderbird = Thunderbird
@@ -101,6 +103,7 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
