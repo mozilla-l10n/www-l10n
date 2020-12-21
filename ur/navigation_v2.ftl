@@ -5,9 +5,11 @@
 
 ## Firefox menu
 
+navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } مینو بند کریں
 
 ## Products menu
 
+navigation-v2-close-products-menu = مصنوعات کا مینو کو بند کریں
 
 ## Who We Are menu
 
