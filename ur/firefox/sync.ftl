@@ -8,3 +8,4 @@
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-privacy-made-easy = رازداری کو آسان بنا دیا گیا
 firefox-sync-feel-safe = محفوظ محسوس کریں
+firefox-sync-click-get-started = کلک کریں<strong>”آغاز کریں”</strong>ٹیب میں جو کھلے۔

@@ -4,15 +4,18 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } حاصل کریں
 navigation-v2-menu = مینیو
 
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } مینو بند کریں
+navigation-v2-firefox-for-android = { -brand-name-android } کی لئے  { -brand-name-firefox }
 navigation-v2-privacy-promise = رازداری کا وعدہ
 navigation-v2-firefox-blog = { -brand-name-firefox } بلاگ
 navigation-v2-release-notes = اجرائی نوٹ
+navigation-v2-view-all-firefox-browsers = تمام { -brand-name-firefox-browsers } دیکھیں
 
 ## Products menu
 
@@ -23,6 +26,7 @@ navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-view-all-products = تمام مصنوعات دیکھیں
 
 ## Who We Are menu
