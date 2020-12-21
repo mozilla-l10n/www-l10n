@@ -20,6 +20,7 @@ best-browser-a-browser-is-still = Tarayıcı bir araçtır ve herkes işinize en
 best-browser-this-is-one-of-the = { -brand-name-firefox } tarayıcısını önermemizin birçok nedeninden biri de bu: { -brand-name-firefox } üçüncü taraf takipçilerini varsayılan olarak engeller. Başka nedenlerimiz de var ve bunlara birazdan değineceğiz.
 best-browser-a-browser-that-puts = Güvenliğinizi ciddiye alan bir tarayıcı.
 best-browser-there-are-a-few-ways = Bir tarayıcının kullanıcılarını güvende tutabileceği birkaç yol vardır. Güncel ve en son güvenlik teknolojilerini kullanan bir tarayıcı bilgisayarınızı kötü amaçlı yazılım ve bilgisayar virüsleri gibi istenmeyen ziyaretçilerden korumanızda size yardımcı olabilir.
+best-browser-we-visit-hundreds-or = Her gün yüzlerce, hatta binlerce web sitesini ziyaret ediyoruz. Kullanıcıların bu sitelerin her biri için güvenlik ve gizlilik kararları vermesini bekleyemeyiz. Bu nedenle size daha fazla kontrol sağlayan bir tarayıcı çok önemli. Böyle bir tarayıcı size gerçek, anlamlı bir koruma sunar.
 best-browser-a-browser-that-minds = Kendi işine bakan bir tarayıcı.
 best-browser-choosing-the-best-browser = En doğru tarayıcıyı seçmek, evinizi seçmeye çok benzer. Seçeneklerinizi incelemeli ve sizin için önemli olan şeylere göre araştırma yapıp karar vermelisiniz.
 # Variables:

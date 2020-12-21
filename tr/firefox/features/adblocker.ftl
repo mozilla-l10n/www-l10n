@@ -7,6 +7,7 @@
 
 features-adblocker-how-to-block-annoying = Reklam engelleyici kullanarak sinir bozucu reklamları engelleme
 features-adblocker-the-ad-blocker-a-secret = Reklam engelleyici: Sinir bozucu reklamlara karşı gizli bir silah.
+features-adblocker-so-many-ads-so-little = Reklam çok, sabrınız az… Artık bu çılgınlığı durdurmanın zamanı geldi.
 features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-choose-your-level-of-protection = Koruma düzeyinizi seçin
 features-adblocker-cover-your-trail-block = İzinizi belli etmeyin, takipçileri engelleyin
