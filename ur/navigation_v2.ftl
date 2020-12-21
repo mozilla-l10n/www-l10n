@@ -12,6 +12,7 @@ navigation-v2-menu = مینیو
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } مینو بند کریں
 navigation-v2-firefox-for-android = { -brand-name-android } کی لئے  { -brand-name-firefox }
+navigation-v2-firefox-for-ios = { -brand-name-ios } کے لیے { -brand-name-firefox }
 navigation-v2-privacy-promise = رازداری کا وعدہ
 navigation-v2-firefox-blog = { -brand-name-firefox } بلاگ
 navigation-v2-release-notes = اجرائی نوٹ
@@ -23,6 +24,7 @@ navigation-v2-products = مصنوعات
 navigation-v2-close-products-menu = مصنوعات کا مینو کو بند کریں
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = پورے ویب سے بہترین کہانیاں محفوظ اور دریافت کریں۔
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
@@ -40,6 +42,7 @@ navigation-v2-join-the-fight-for-a = صحت مند انٹرنیٹ کی لڑائ�
 navigation-v2-leadership = قیادت
 navigation-v2-careers = کیریرز
 navigation-v2-mozilla-blog = { -brand-name-mozilla } بلاگ
+navigation-v2-more-about-mozilla = { -brand-name-mozilla } کے بارے میں مزید
 
 ## Innovation menu
 
