@@ -19,6 +19,7 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = کیا { -brand-name-firefox } مفت ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -27,10 +28,12 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = کیا { -brand-name-firefox } محفوظ ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = کیا { -brand-name-firefox } آپ کا ذاتی ڈیٹا فروخت کرتا ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
