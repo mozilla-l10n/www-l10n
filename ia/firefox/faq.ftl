@@ -8,12 +8,14 @@
 # HTML page title
 firefox-faq = Demandas frequente re { -brand-name-firefox }
 whether-you-searched-privacy = Si tu recercava un veloce navigator que protege tu confidentialitate, iste demandas frequente es hic pro responder al major parte del questiones pressante correlate a { -brand-name-firefox }.
+whether-you-searched-independant = Non importa si tu cerca un navigator rapide o un technologia independente que protege tu vita private, iste FAQ es disponibile pro responder al questiones le plus urgente sur { -brand-name-firefox }.
 what-is-firefox = Que es { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = Le { -brand-name-firefox-browser } es le unic navigator de importantia que es sustenite per un organisation sin scopo lucrative, que non vende tu datos personal a annunciatores, e que te adjuta a proteger tu informationes personal. Apprende plus sur le <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">altere productos.</a>
 how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 
 # Variables:
@@ -23,11 +25,12 @@ how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = "Tu pote facilemente discargar le navigator { -brand-name-firefox } pro computatores <a href=""{ $url }"">hic.</a> { -brand-name-firefox } functiona sur apparatos <a href=""{ $url2 }"">{ -brand-name-windows },</a> <a href=""{ $url3 }"">{ -brand-name-mac-short }</a> e <a href=""{ $url4 }"">{ -brand-name-linux }</a>, e es alsi disponibile pro <a href=""{ $url5 }"">{ -brand-name-android } e { -brand-name-ios }.</a> Verifica que tu discarga nostre navigator ex un de nostre paginas { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide."
+you-can-easily = Tu pote facilemente discargar le navigator { -brand-name-firefox } pro computatores <a href=""{ $url }"">hic.</a> { -brand-name-firefox } functiona sur apparatos <a href=""{ $url2 }"">{ -brand-name-windows },</a> <a href=""{ $url3 }"">{ -brand-name-mac-short }</a> e <a href=""{ $url4 }"">{ -brand-name-linux }</a>, e es equalmente disponibile pro <a href=""{ $url5 }"">{ -brand-name-android } e { -brand-name-ios }.</a> Verifica que tu discarga nostre navigator a partir de un de nostre paginas { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide.
 is-firefox-free = Es { -brand-name-firefox } gratuite?
 yep-the-firefox = Si! { -brand-name-firefox-browser } es gratuite. Super gratuite, realmente. Nulle costos o alco celate. Tu non paga alco pro usar lo e nos non vende tu datos personal.
 related-questions-free = Demandas correlate: es { -brand-name-firefox-browser } gratis, { -brand-name-firefox } se paga?
 is-chrome-better = Es { -brand-name-chrome } melior de { -brand-name-firefox }?
+no-we-dont = No, nos non pensa que { -brand-name-chrome } es melior que { -brand-name-firefox }, ecce proque: quando personas demanda qual navigator es melior, illes vermente demanda qual navigator es le plus rapide e secur. { -brand-name-firefox } es actualisate cata mense pro assecurar que tu ha le navigator le plus rapide que respecta automaticamente tu vita private.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
