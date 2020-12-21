@@ -35,21 +35,27 @@ no-we-dont = No, nos non pensa que { -brand-name-chrome } es melior que { -brand
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Vide como { -brand-name-firefox } se compara con { -brand-name-chrome }.</a>
+related-questions-better = Questiones similar: es { -brand-name-firefox } melior que { -brand-name-chrome }, es { -brand-name-firefox } melior que { -brand-name-google }, es { -brand-name-firefox } plus secur que { -brand-name-chrome }, es { -brand-name-firefox } plus private que { -brand-name-chrome }
 is-firefox-safe-download = Es { -brand-name-firefox } secur a discargar?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Proteger tu vita private es nostre prioritate principal e nos assecura que installar { -brand-name-firefox } sur tu apparatos es completemente secur — ma verifica sempre que tu lo discarga de un sito { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide, como <a href="{ $url }"> nostre pagina de discargamento.</a>
 is-firefox-safe = Es { -brand-name-firefox } secur?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } non solmente es secur de usar, illo etiam te adjuta a mantener secur tu datos e informationes private. Le { -brand-name-firefox-browser } impedi automaticamente que le traciatores de tertios, traciatores de retes social, cryptominatores e dactylogrammatores collige tu datos. <a href=""{ $url }"">Saper plus sur le confidentialitate in nostre productos.</a>"
+related-questions-safe = Questiones similar: es { -brand-name-firefox } bon pro le vita private, es { -brand-name-firefox } secur, es { -brand-name-firefox } melior pro le vita private
 does-firefox-sell = An { -brand-name-firefox } vende tu datos personal?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = No. Nunquam facite, nunquam facera. E nos te protege de multes del annunciatores que lo face. Le productos de { -brand-name-firefox } es concipite pro proteger tu vita private. <a href="{ $url }"> Es un promissa.</a>
 why-is-firefox = Perque { -brand-name-firefox } es assi lente?
 is-firefox-chromium = An { -brand-name-firefox } es basate sur{ -brand-name-chromium }?
 does-firefox-use = An { -brand-name-firefox } usa { -brand-name-google }?
