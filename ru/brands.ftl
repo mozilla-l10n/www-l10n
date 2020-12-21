@@ -121,7 +121,7 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Фестиваль Mozilla
--brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-hubs = Клубы Mozilla
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -130,7 +130,7 @@
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Hubs
+-brand-name-hubs = Клубы
 -brand-name-mdn = MDN
 
 ## Mozilla projects (legacy)
