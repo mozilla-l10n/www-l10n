@@ -51,3 +51,4 @@ sub-navigation-privacy = Preifatrwydd
 sub-navigation-our-promise = Ein Haddewid
 sub-navigation-our-products = Ein Cynnyrch
 sub-navigation-little-book-of-privacy = Llyfr Bach Preifatrwydd
+sub-navigation-safe-passwords = Cyfrineiriau Diogel
