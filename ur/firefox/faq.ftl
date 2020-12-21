@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox }عمومی سوالات
 what-is-firefox = { -brand-name-firefox } کیا ہے؟
 
 # Variables:
