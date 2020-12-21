@@ -50,3 +50,5 @@ new-platform-faster-page-loading-windows = تیز پیج لوڈنگ ، میمو�
 new-platform-firefox-fights = { -brand-name-firefox }  آپ کے لئے <span>{ -brand-name-windows }</span> پر لڑتا ہے
 new-platform-common-sense-privacy = عام احساس کی رازداری
 new-platform-seamless-setup = ہموار سیٹنگ
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = { -brand-name-windows } کے لئے <br>{ -brand-name-firefox } ڈاؤن لوڈ کریں

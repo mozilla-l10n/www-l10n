@@ -35,6 +35,8 @@ firefox-desktop-download-blocks-social-trackers = سماجی ٹریکرز بلا
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = OS کی دستیابی
 firefox-desktop-download-in-browser-screenshot = براؤزر میں اسکرین شاٹ ٹول
+firefox-desktop-download-primary-password = بنیادی پاس ورڈ
+# Obsolete string
 firefox-desktop-download-master-password = ماسٹر پاس ورڈ
 firefox-desktop-download-we-block-the-ad = ہم اشتہاری ٹریکروں کو بلاک کرتے ہیں۔ آپ انٹرنیٹ کو تیزی سے تلاش کرتے ہیں۔
 firefox-desktop-download-ads-are-distracting = اشتہارات پریشان کن ہیں اور ویب صفحات کو سست روی سے لوڈ کرتے ہیں جبکہ ان کے ٹریکرز آپ کے آن لائن کیے جانے والے ہر اقدام کو دیکھتے ہیں۔ { -brand-name-firefox-browser } زیادہ تر ٹریکروں کو خود بخود بلاک کرتا ہے ، لہذا آپ کی سیکیورٹی کی ترتیبات میں کھدائی کرنے کی ضرورت نہیں ہے۔
@@ -119,3 +121,4 @@ firefox-desktop-download-now-mac = ابھی وہ فائل <strong> کھولیں 
 firefox-desktop-download-get-help = پریشانی ہے؟ <a { $attrs }> اپنی انسٹالایشن میں مدد حاصلکریں</a>.
 firefox-desktop-download-in-another-language = کسی اور زبان میں یا کسی اور آپریٹنگ سسٹم کے لئے ڈاؤن لوڈ کریں۔
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
+firefox-desktop-download-interrupted = آپ کے ڈاؤن لوڈ میں خلل پڑا۔ لیکن سب ختم نہیں ہوا ہے۔
