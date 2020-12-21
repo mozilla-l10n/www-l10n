@@ -23,3 +23,10 @@ browser-history-a-year-later-berners = Un año después, Berners-Lee le pidió a
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = Para 1993, la web explotaba. Universidades, gobiernos y coporaciones privadas vieron la oportunidad de una internet abierta. Todos necesitaban nuevos programas de computadora para accederla. Ese año se creó Mosaic en el National Center for Supercomputing Applications (NCSA) en la Universidad de Illinois Urbana-Champaign por el científico informático Marc Andreessen. Fue el primer navegador web popular y el primer antepasado de <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic se ejecutaba en computadoras con { -brand-name-windows }, era fácil de usar y le daba a cualquiera que tuviera una PC el acceso a páginas web, salones de chat y bibliotecas de imágenes. El año siguiente (1994), Andreessen fundó <a href="{ $netscape }">{ -brand-name-netscape }</a> y lanzó el { -brand-name-netscape } Navigator al público. Fue un gran éxito y el primer navegador para la gente. También fue el primer movimiento en un nuevo tipo de guerra para los usuarios de internet.
+browser-history-the-browser-wars = La guerra de los navegadores
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = En 1195, { -brand-name-netscape } Navigator no era la única forma de estar en línea. El gigante del software { -brand-name-microsoft } licenció el código del viejo Mosaic y construyó su propia ventana a la web, <a href="{ $ie }">{ -brand-name-ie }</a>. El lanzamiento inició una guerra. { -brand-name-netscape } y { -brand-name-microsoft } trabajaron febrilmente para hacer nuevas versiones de sus programas, cada uno intentando superar al otro con productos más rápidos y mejores.
