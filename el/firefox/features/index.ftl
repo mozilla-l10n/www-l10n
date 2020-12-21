@@ -45,3 +45,7 @@ features-index-stack-up = Δείτε την κατάταξη του { -brand-nam
 features-index-compare-browsers = Σύγκριση προγραμμάτων περιήγησης
 features-index-see-themes = Προβολή κορυφαίων θεμάτων
 features-index-download-latest = Λήψη του πιο πρόσφατου { -brand-name-firefox }
+features-index-fingerprinter-blocking = Αποκλεισμός fingerprinter
+features-index-block-fingerprinters = Φραγή fingerprinters
+features-index-translate-the-web = Μετάφραση του web
+features-index-translate-to-your = Μετάφραση στη γλώσσα σας

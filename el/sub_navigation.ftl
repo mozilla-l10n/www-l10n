@@ -51,3 +51,4 @@ sub-navigation-privacy = Απόρρητο
 sub-navigation-our-promise = Η υπόσχεσή μας
 sub-navigation-our-products = Τα προϊόντα μας
 sub-navigation-little-book-of-privacy = Το μικρό βιβλίο του απορρήτου
+sub-navigation-safe-passwords = Ασφαλείς κωδικοί πρόσβασης
