@@ -19,3 +19,7 @@ browser-history-web-era = Era de la web
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = El científico informático británico Tim Berners-Lee creó el primer servidor web y un navegador web gráfico en 1990 mientras <a href="{ $cern }">trabajaba en el CERN</a>, la organización europea para la investigación nuclear en Suiza. Llamó a esta nueva ventana en internet la “WorldWideWeb”. Fue una interfaz gráfica fácil de usar para las computadoras NeXT. Por primera vez, los documentos de texto estaban enlazados entre sí en una red pública — la web tal como la conocemos.
+browser-history-a-year-later-berners = Un año después, Berners-Lee le pidió a Nicola Pellow, estudiante de matemáticas del CERN, que escribiera Line Mode Browser, un programa para terminales de computadora básicas.
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Para 1993, la web explotaba. Universidades, gobiernos y coporaciones privadas vieron la oportunidad de una internet abierta. Todos necesitaban nuevos programas de computadora para accederla. Ese año se creó Mosaic en el National Center for Supercomputing Applications (NCSA) en la Universidad de Illinois Urbana-Champaign por el científico informático Marc Andreessen. Fue el primer navegador web popular y el primer antepasado de <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
