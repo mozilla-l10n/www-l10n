@@ -29,6 +29,7 @@ features-index-open-source-minds = Ανοικτός κώδικας. Ανοικτ
 features-index-mozilla-creates = Η { -brand-name-mozilla } δημιουργεί ισχυρή, διαδικτυακή τεχνολογία για όλους.
 features-index-see-what-makes-us-different = Δείτε τι μας διαφοροποιεί
 features-index-by-non-profit-mozilla = Από τη μη κερδοσκοπική { -brand-name-mozilla }
+features-index-by-not-for-profit-mozilla = Από τη μη κερδοσκοπική { -brand-name-mozilla }
 features-index-keep-corporate-power = Διατηρήστε την εταιρική ισχύ υπό έλεγχο
 features-index-independent-browser = Το { -brand-name-firefox } είναι το μόνο μεγάλο και ανεξάρτητο πρόγραμμα περιήγησης.
 features-index-on-a-mission = Σε μια αποστολή για να διατηρηθεί το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.

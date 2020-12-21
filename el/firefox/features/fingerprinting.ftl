@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# page title
+features-fingerprinting-what-is-fingerprinting-title = Τι είναι το fingerprinting και γιατί να το αποκλείσετε
 features-fingerprinting-firefox-blocks-fingerprinting = Το { -brand-name-firefox } αποκλείει το fingerprinting
 # description for the header image
 features-fingerprinting-every-fingerprint = Κάθε αποτύπωμα είναι μοναδικό.
