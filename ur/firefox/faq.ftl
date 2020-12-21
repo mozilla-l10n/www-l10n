@@ -38,6 +38,7 @@ does-firefox-sell = کیا { -brand-name-firefox } آپ کا ذاتی ڈیٹا �
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = { -brand-name-firefox } سست کیوں ہے؟
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -47,6 +48,7 @@ does-firefox-sell = کیا { -brand-name-firefox } آپ کا ذاتی ڈیٹا �
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+who-owns-firefox = { -brand-name-firefox } کا مالک کون ہے؟
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
