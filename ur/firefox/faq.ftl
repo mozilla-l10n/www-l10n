@@ -13,6 +13,7 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = میں { -brand-name-firefox-browser }How کیسے حاصل کرسکتا ہوں؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -26,6 +27,7 @@ is-firefox-free = کیا { -brand-name-firefox } مفت ہے؟
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = کیا { -brand-name-firefox } ڈاؤن لوڈ کرنے کے لئے محفوظ ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -50,6 +52,7 @@ why-is-firefox = { -brand-name-firefox } سست کیوں ہے؟
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = متعلقہ سوالات: کی { -brand-name-firefox }  آپ کا IP پتہ چھپاتا ہے؟
 who-owns-firefox = { -brand-name-firefox } کا مالک کون ہے؟
 
 # Variables:
