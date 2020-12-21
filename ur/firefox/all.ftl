@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = آپ ڈاؤن لوڈ کرنے جارہے
 firefox-all-browser = براؤزر:
 firefox-all-platform = پلیٹ فارم:
 firefox-all-language = زبان:
+firefox-all-lang-multi = متعدد زبانیں
 firefox-all-sorry-we-couldnt-find = ہم معذرت خواہ ہیں، جس ڈاؤن لوڈ کی تلاش کر رہے ہیں ہم اسے تلاش نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں ، یا نیچے دی گئی فہرست میں سے ایک ڈاؤن لوڈ کا انتخاب کریں۔
 firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کے لئے ہے جو کریشز کا شکار کرنا چاہتے ہیں اور نئی خصوصیات کو کوڈ کرتے ہوئے جانچنا چاہتے ہیں۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
@@ -30,6 +31,7 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری کے
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزر کے بارے میں جانیں
 firefox-all-the-standard-firefox = معیاری{ -brand-name-firefox } براؤزر - تیز اور نجی۔ اگر آپ کو معلوم نہیں ہے کہ کس{ -brand-name-firefox } کو منتخب کرنا ہے تو ، اس کا انتخاب کریں۔
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
+firefox-all-product-send-link = اپنے فون پر ڈاؤن لوڈ کا ربط  ارسال  کریں۔
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 بٹ پروسیسر والے کمپیوٹرز کے ل 32 32 بٹ انسٹالر کا انتخاب کریں۔ یا زیادہ پرانے یا کم طاقت ور کمپیوٹرز کے لئے۔ <a href="{ $url }"> اگر آپ کو یقین نہیں ہے </a> اگر 64 بٹ یا 32 بٹ انسٹالر کا انتخاب کریں تو ، ہم آپ کو 32 بٹ کے ساتھ جانے کی تجویز کریں گے۔
@@ -51,3 +53,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
