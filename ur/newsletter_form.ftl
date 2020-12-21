@@ -28,3 +28,4 @@ newsletter-form-select-country = ملک منتخب کریں
 newsletter-form-sign-me-up = مجھے سائن اپ کریں
 newsletter-form-sign-up-now = ابھی سائن اپ کریں
 newsletter-form-thanks = شکریہ!
+newsletter-form-yes = جی ہاں
