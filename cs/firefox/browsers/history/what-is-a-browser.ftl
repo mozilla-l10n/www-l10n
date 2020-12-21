@@ -26,7 +26,7 @@ what-is-a-browser-when-the-web-browser = Po stažení dat z internetového serve
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
-what-is-a-browser-hyperlinks-allow = Pomocí <a href="{ $hyperlink }">webových odkazů</a> mohou uživatelé na webu procházet mezi jednotlivými stránky. Každá stránka, obrázek nebo video mají svou unikátní adresu nazvývanou <a href="{ $url }">Uniform Resource Locator</a> (URL), známou také jako webovou adresu. Ta říká prohlížeči, kde najít HTML kód s daty webové stránky, a ten zase říká, kam je má na stránce umístit.
+what-is-a-browser-hyperlinks-allow = Pomocí <a href="{ $hyperlink }">webových odkazů</a> mohou uživatelé na webu procházet mezi jednotlivými stránky. Každá stránka, obrázek nebo video mají svou unikátní adresu nazývanou <a href="{ $url }">Uniform Resource Locator</a> (URL), známou také jako webovou adresu. Ta říká prohlížeči, kde najít HTML kód s daty webové stránky, a ten zase říká, kam je má na stránce umístit.
 what-is-a-browser-cookies-not-the = Cookies (nebo také sušenky)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
@@ -38,4 +38,4 @@ what-is-a-browser-nearly-all-major = Téměř všechny hlavní prohlížeče maj
 what-is-a-browser-firefox-helps = { -brand-name-firefox } ochrání vaše soukromí pomocí blokování sledovacích prvků, které by vás jinak pozorovaly kdekoliv na webu.
 what-is-a-browser-making-your-web = Přizpůsobení prohlížeče vašim potřebám
 what-is-a-browser-most-major-web = Většina webových prohlížečů nabízí možnost přizpůsobení pomocí rozšíření a doplňků. Rozšíření jsou malé prográmky, které si můžete přidat do prohlížeče a upravit jeho fungování. Dokáží dělat spoustu věcí od přidávání nových funkcí, překladových slovníků po změnu vzhledu prohlížeče.
-what-is-a-browser-all-browser-makers = Všichni autoři webových prohlížečů se snaží o co nejrychlejší zobrazování obrázků a videa, abyste je mohli snadno prohlížet. Jejich cílem je nabídnout vám prohlížeč, který je rychlý, výkonný a zároveň se snadno používá. Rozdíl je hlavně v důvodech, které k tomu mají. Proto je důležité si vybrat ten správný prohlížeč. { -brand-name-mozilla } vyvíjí { -brand-name-firefox }, aby zajistila uživatelům kontrolu nad jejich online životem a aby internet zůstal veřejným a celosvětově přístupným zdrojem.
+what-is-a-browser-all-browser-makers = Všichni autoři webových prohlížečů se snaží o co nejrychlejší zobrazování obrázků a videa, abyste je mohli snadno prohlížet. Jejich cílem je nabídnout vám prohlížeč, který je rychlý, výkonný a zároveň se snadno používá. Rozdíl je hlavně v důvodech, které k tomu mají. Proto je důležité si vybrat ten správný prohlížeč. { -brand-name-mozilla } vyvíjí { -brand-name-firefox(case: "acc") }, aby zajistila uživatelům kontrolu nad jejich online životem a aby internet zůstal veřejným a celosvětově přístupným zdrojem.
