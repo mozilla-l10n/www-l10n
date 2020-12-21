@@ -21,6 +21,7 @@ sub-navigation-addons = اظافہ جات
 sub-navigation-faq = عمومی سوالات
 sub-navigation-learn-more = مزید سیکھیں
 sub-navigation-developer-edition = { -brand-name-developer-edition }
+sub-navigation-firefox-for-mobile = موبائل کے لیے { -brand-name-firefox }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
