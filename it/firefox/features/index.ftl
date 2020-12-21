@@ -29,6 +29,7 @@ features-index-open-source-minds = Codice aperto. Menti aperte.
 features-index-mozilla-creates = { -brand-name-mozilla } crea una tecnologia web potente a disposizione di tutti.
 features-index-see-what-makes-us-different = Scopri che cosa ci rende diversi
 features-index-by-non-profit-mozilla = { -brand-name-mozilla }, senza fini di lucro
+features-index-by-not-for-profit-mozilla = Da { -brand-name-mozilla }, senza fini di lucro
 features-index-keep-corporate-power = Teniamo sotto controllo le grandi aziende.
 features-index-independent-browser = { -brand-name-firefox } è l’unico browser indipendente tra quelli più usati.
 features-index-on-a-mission = L’obiettivo è mantenere Internet aperto e accessibile a tutti.
