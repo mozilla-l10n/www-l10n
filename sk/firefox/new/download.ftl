@@ -66,4 +66,7 @@ firefox-new-please-follow = Pri inštalácií { -brand-name-firefox(case: "gen")
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Ak vidíte upozornenie, že inštalovaná aplikácia nebola overená { -brand-name-microsoft(case: "ins") }, kliknite na „Inštalovať aj tak“ alebo <a { $attrs }>zmeňte nastavenia odporúčania aplikácií</a>.
 firefox-new-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke podpory
