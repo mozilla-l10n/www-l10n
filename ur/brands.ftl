@@ -92,6 +92,7 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla ڈویلپر نیٹ ورک
+-brand-name-mozilla-festival = Mozilla فیسٹیول
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN

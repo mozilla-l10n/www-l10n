@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 the-history-of = ویب براؤزرز کی تاریخ
+firefox-more-firefox-chromebook = { -brand-name-chromebook } کی لئے { -brand-name-firefox-browser }
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-worry-about = ہم آپ کے ڈیٹا کی حفاظت کے بارے میں فکرمند ہیں تاکہ آپ کو ضرورت نہیں پڑے ۔
 seven-of-the = براہ راست مقابلے میں بہترین سات براؤزر
