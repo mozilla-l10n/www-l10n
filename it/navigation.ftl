@@ -99,7 +99,7 @@ navigation-machine-learning = Machine Learning
 navigation-web-of-things-iot = Internet delle cose (IoT)
 navigation-help-make-deep-learning = Contribuisci a rendere disponibili gli algoritmi di deep learning per il mondo open source.
 # Outdated string
-navigation-make-devices-connected = Rendi i dispositivi connessi a Internet sicuri, inviolabili e interoperabili.
+navigation-make-devices-connected = Rendi i dispositivi connessi a Internet sicuri, inviolabili e compatibili tra loro.
 navigation-developers = Sviluppatori
 navigation-close-developers-menu = Chiudi il menu Sviluppatori
 navigation-test-soon-to-be-released = Collauda in anteprime le nuove funzionalità nella versione di sviluppo più stabile.
