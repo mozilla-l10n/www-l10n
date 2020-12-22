@@ -53,5 +53,5 @@ firefox-developer-faster-performance = వేగవంత మైన పనిత
 firefox-developer-faster-innovation = వేగవంతమైన సమాచారం
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } స్వయంచాలకంగా { -brand-name-mozilla } చూడు పంపుతుంది.
 firefox-developer-download-the-firefox-browser = డెవలపర్ల కోసం చేసిన { -brand-name-firefox } విహారిణిని దింపుకోండి
-firefox-developer-welcome-to-the-all-new = సరి కొత్త { -brand-name-firefox-quantum }కు స్వాగతం: డెవలపర్ ఎడిషన్
-firefox-developer-congrats-you-now-have-firefox = అభినందనలు. ఇప్పుడు మీరు { -brand-name-firefox-quantum }: డెవలపర్ ఎడిషన్ కలిగి ఉన్నారు.
+firefox-developer-welcome-to-the-all-new = సరి కొత్త { -brand-name-firefox-quantum }కు స్వాగతం: { -brand-name-developer-edition }
+firefox-developer-congrats-you-now-have-firefox = అభినందనలు. ఇప్పుడు మీరు { -brand-name-firefox-quantum }: { -brand-name-developer-edition } కలిగి ఉన్నారు.
