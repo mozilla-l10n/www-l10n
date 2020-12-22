@@ -18,6 +18,7 @@ privacy-passwords-use-a-password = 密码管理器助您更轻松地创建并记
 privacy-passwords-use-twofactor-authentication = “双因子验证”，能用则用
 privacy-passwords-look-for-the = 寻找浏览器中的锁
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
+privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
 privacy-passwords-security-questions-my = 密保问题：我母亲的婚前姓氏是“Ff926AKa9j6Q”
 privacy-passwords-get-help-from = 使用密码管理器协助管理
 privacy-passwords-twofactor-authentication-2fa = 双因子验证（2FA）
