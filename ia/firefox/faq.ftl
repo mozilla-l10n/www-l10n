@@ -7,7 +7,7 @@
 
 # HTML page title
 firefox-faq = Folio a questiones (FAQ) sur { -brand-name-firefox }
-whether-you-searched-privacy = Non importa si tu cerca un navigator que es rapide o un que protege tu vita private, iste FAQ es disponibile pro responder al questiones le plus urgente sur { -brand-name-firefox }.
+whether-you-searched-privacy = Non importa si tu cerca un navigator rapide o un que protege tu vita private, iste FAQ es disponibile pro responder al questiones le plus urgente sur { -brand-name-firefox }.
 whether-you-searched-independant = Non importa si tu cerca un navigator rapide o un technologia independente que protege tu vita private, iste FAQ es disponibile pro responder al questiones le plus urgente sur { -brand-name-firefox }.
 what-is-firefox = Que es { -brand-name-firefox }?
 
