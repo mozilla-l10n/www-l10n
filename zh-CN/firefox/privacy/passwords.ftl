@@ -5,6 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
 
+# HTML page title
+privacy-passwords-security-guide-to = 更安全的登录信息与密码指南
+# page content
+privacy-passwords-a-security-guide = 更安全的登录信息与密码指南
+privacy-passwords-protecting-your-accounts = 保护账号并不难，{ -brand-name-firefox } 可帮忙。
+# tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
+privacy-passwords-tldr = 长话短说：
+privacy-passwords-use-random-passwords = 对不同的网站使用不同的随机密码
+privacy-passwords-make-your-answers = 密码强度要高，密保问题的答案亦然
+privacy-passwords-use-a-password = 密码管理器助您更轻松地创建并记住密码
+privacy-passwords-use-twofactor-authentication = “双因子验证”，能用则用
+privacy-passwords-look-for-the = 寻找浏览器中的锁
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
 privacy-passwords-security-questions-my = 密保问题：我母亲的婚前姓氏是“Ff926AKa9j6Q”
 privacy-passwords-get-help-from = 使用密码管理器协助管理
