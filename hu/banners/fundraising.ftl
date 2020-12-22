@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = A jövő online dől el. Segítsen a { -brand-name-mozilla(ending: "accented") }nak harcolni a mindenki számára jobb webért.
+banner-fundraising-body = A személyes adatainkat minden egyes alkalommal gyűjtik, amikor elérjük a webet, és nem könnyű kideríteni, hogy mi történik velük. A félrevezető információk nehezebbé teszik az igazság kiderítését. A webre csatlakozó eszközöket úgy dobják piacra, hogy a minimális biztonsági szabványokat sem tartják be. A nonprofit { -brand-name-mozilla-foundation } azért harcol, hogy az internet biztonságos, nyílt és mindenki számára elérhető legyen. <strong>Adományoz még ma?</strong>
 banner-fundraising-monthly = Havi
 banner-fundraising-one-time = Egyszeri
 banner-fundraising-donate = Adományozás

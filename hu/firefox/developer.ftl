@@ -82,4 +82,5 @@ firefox-developer-welcome-to-firefox-browser = Üdvözli a { -brand-name-firefox
 firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
 firefox-developer-all-the-latest = A legújabb béta verziójú fejlesztői eszközök, valamint <strong>kísérleti funkciók</strong>, például a többsoros konzolszerkesztő és a WebSocket vizsgáló.
 firefox-developer-a-separate-profile = Egy <strong>külön profil és útvonal</strong>, így könnyedén futtathatja a { -brand-name-firefox } kiadási vagy { -brand-name-beta } változata mellett.
+firefox-developer-preferences-tailored = <strong>Webfejlesztőkre igazított</strong> beállítások: A böngésző és távoli hibakeresés alapértelmezetten engedélyezett, ahogy a sötét téma és a fejlesztői eszköztár gombja is.
 firefox-developer-congrats-you-now-have = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } változatát használja.
