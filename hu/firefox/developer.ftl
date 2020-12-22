@@ -80,4 +80,6 @@ firefox-developer-congrats-you-now-have-firefox = Gratulálunk. Most már a { -b
 firefox-developer-this-isnt-just-an-update = Ez nem csak egy frissítés. Ez a { -brand-name-firefox-quantum }: egy teljesen új { -brand-name-firefox }, amely az alapoktól újra lett építve, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
 firefox-developer-welcome-to-firefox-browser = Üdvözli a { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
+firefox-developer-all-the-latest = A legújabb béta verziójú fejlesztői eszközök, valamint <strong>kísérleti funkciók</strong>, például a többsoros konzolszerkesztő és a WebSocket vizsgáló.
+firefox-developer-a-separate-profile = Egy <strong>külön profil és útvonal</strong>, így könnyedén futtathatja a { -brand-name-firefox } kiadási vagy { -brand-name-beta } változata mellett.
 firefox-developer-congrats-you-now-have = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } változatát használja.
