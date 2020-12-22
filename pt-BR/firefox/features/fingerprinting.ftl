@@ -8,3 +8,7 @@
 features-fingerprinting-firefox-blocks-fingerprinting = O { -brand-name-firefox } bloqueia rastreadores de identidade digital
 # description for the header image
 features-fingerprinting-every-fingerprint = Cada identidade digital é única.
+features-fingerprinting-download-firefox = Baixe o { -brand-name-firefox }
+features-fingerprinting-what-is-fingerprinting-body = O que é rastreamento de identidade digital?
+features-fingerprinting-fingerprinting-is-bad = O rastreamento de identidade digital é ruim para a web
+features-fingerprinting-protect = Proteja sua privacidade
