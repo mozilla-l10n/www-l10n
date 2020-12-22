@@ -36,7 +36,7 @@ firefox-desktop-download-autoplay-blocking = Blocco della riproduzione automatic
 firefox-desktop-download-blocks-social-trackers = Blocca traccianti social
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibile sui maggiori sistemi operativi
-firefox-desktop-download-in-browser-screenshot = Strumento di istantanea schermo integrato
+firefox-desktop-download-in-browser-screenshot = Strumento integrato di cattura dello schermo
 firefox-desktop-download-primary-password = Password principale
 # Obsolete string
 firefox-desktop-download-master-password = Password principale
@@ -57,7 +57,7 @@ firefox-desktop-download-smart-search-suggestions = Suggerimenti di ricerca inte
 firefox-desktop-download-bookmark-history = Segnalibri, cronologia e schede aperte nei risultati
 firefox-desktop-download-boost-your = Aumenta la tua produttività
 firefox-desktop-download-works-with-google = Funziona con i prodotti { -brand-name-google }
-firefox-desktop-download-built-in-screenshot = Strumento integrato per gli screenshot
+firefox-desktop-download-built-in-screenshot = Strumento integrato di cattura dello schermo
 firefox-desktop-download-bookmarks-manager = Gestione segnalibri
 firefox-desktop-download-autosuggest-urls = Suggerimento automatico degli URL
 firefox-desktop-download-sync-across-devices = Sincronizzazione tra più dispositivi
@@ -108,7 +108,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >Scarica questa estensione</a> per impedire a { -brand-name-facebook } (e a { -brand-name-instagram }) di seguirti sul Web.
 firefox-desktop-download-sync-your-devices = Sincronizza i tuoi dispositivi
-firefox-desktop-download-screenshots = Screenshot
+firefox-desktop-download-screenshots = Cattura dello schermo
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protezione antitracciamento avanzata
 firefox-desktop-download-from-watching-a = Vuoi seguire un video tutorial o le imprese della tua squadra del cuore mentre lavori? Il video rimane in primo piano mentre svolgi le tue attività in multitasking.
@@ -132,7 +132,7 @@ firefox-desktop-download-as-the-internet = Internet cresce e cambia, ma per { -b
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } è disponibile per tutti i tuoi dispositivi; porta con te schede, cronologia e segnalibri. Ti basta un <a { $attrs }>account { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Cattura un’immagine ad alta risoluzione di qualsiasi contenuto trovato online con lo strumento per <a { $attrs }>screenshot</a> integrato nel browser
+firefox-desktop-download-grab-a-high = Cattura un’immagine ad alta risoluzione di qualsiasi contenuto trovato online con lo <a { $attrs }>strumento di cattura</a> integrato nel browser
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blocca automaticamente la maggior parte degli elementi traccianti di terze parti</a> che raccolgono e vendono dati della tua attività sul Web.

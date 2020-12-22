@@ -27,9 +27,9 @@ features-bookmarks-customize-that-bookmark = Personalizza quel segnalibro
 features-bookmarks-futz-with-that-bookmark = Gestiscili come vuoi tu
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Sperimenta una gestione più raffinata dei segnalibri grazie ai <a href="{ $url }">componenti aggiuntivi</a> a loro dedicati: cattura screenshot dell’intera pagina, utilizza barre laterali per un accesso più rapido, oppure conservali al riparo da sguardi indesiderati.
+features-bookmarks-practice-your-precision = Sperimenta una gestione più raffinata dei segnalibri grazie ai <a href="{ $url }">componenti aggiuntivi</a> a loro dedicati: cattura un’istantanea dell’intera pagina, utilizza barre laterali per un accesso più rapido, oppure conservali al riparo da sguardi indesiderati.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Perfeziona la gestione dei segnalibri con i <a href="{ $url }">componenti aggiuntivi</a> a loro dedicati: cattura screenshot dell’intera pagina, utilizza la barra laterale per accedervi ancora più rapidamente, oppure mantienili strettamente riservati.`
+features-bookmarks-practice-your-exactitude = Perfeziona la gestione dei segnalibri con i <a href="{ $url }">componenti aggiuntivi</a> a loro dedicati: cattura un’istantanea dell’intera pagina, utilizza la barra laterale per accedervi ancora più rapidamente, oppure mantienili strettamente riservati.`
