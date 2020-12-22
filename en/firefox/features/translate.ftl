@@ -10,7 +10,7 @@ features-translate-translate-the-web-title = Translate the web - directly in you
 # page description
 features-translate-translate-more-than = Translate from more than 100 languages to your language directly in your { -brand-name-firefox-browser } - easier than ever.
 features-translate-translate-the-web = Translate the web with { -brand-name-firefox }
-features-translate-the-google-translate = The { -brand-name-google } Translate extension for { -brand-name-firefox } makes the web accessible to the world.
+features-translate-the-google-translate = The To { -brand-name-google } Translate extension for { -brand-name-firefox } makes the web accessible to the world.
 
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = The internet is filled with amazing stuff, but a lot of it is not written in English — making billions of people around the globe need a translator just to use the internet. You can <a { $attrs }>download { -brand-name-firefox } in over 100 languages</a>, so your browser menus, notifications and messages are in your preferred language, but that doesn’t solve the problem of all that amazing content you use your browser to find.
@@ -28,7 +28,7 @@ features-translate-switch-languages-in = Switch Languages in { -brand-name-firef
 features-translate-if-you-are = If you are already using { -brand-name-firefox }, you can change your browser’s language or add languages to the { -brand-name-firefox } interface. <a { $attrs }>Learn how here.</a>
 
 # $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *With the To { -brand-name-google } Translate extension, you can currently translate <a { $attrs } >these languages</a>:
+features-translate-with-the-to = *With the To { -brand-name-google } Translate extension, you can currently translate <a { $attrs }>these languages</a>:
 
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> and more!</a>
