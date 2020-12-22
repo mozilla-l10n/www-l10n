@@ -63,3 +63,5 @@ incognito-browser-what = Navegador de incógnito: lo que realmente significa
 firefox-calls-it = { -brand-name-firefox } lo llama navegación privada, { -brand-name-chrome } lo llama modo de incógnito. Ambos te permiten navegar por la web sin guardar tu historial de navegación.
 take-the-stress = Olvidate del estrés de encontrar un navegador seguro.
 building-a-safe = Construir un navegador seguro es un arte y una ciencia porque no hay reglas establecidas.
+firefox-more-translate-the-web = Traducir la web
+firefox-more-a-guide-to = Una guía para inicios de sesión y contraseñas más seguros
