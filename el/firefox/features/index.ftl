@@ -49,4 +49,5 @@ features-index-download-latest = Λήψη του πιο πρόσφατου { -br
 features-index-fingerprinter-blocking = Αποκλεισμός fingerprinter
 features-index-block-fingerprinters = Φραγή fingerprinters
 features-index-translate-the-web = Μετάφραση του web
+features-index-translate-more-than = Μετάφραση από περισσότερες από 100 γλώσσες στη δική σας, απευθείας στο { -brand-name-firefox-browser } - πιο εύκολα από ποτέ.
 features-index-translate-to-your = Μετάφραση στη γλώσσα σας

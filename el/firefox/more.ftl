@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Τα προϊόντα { -brand-name-firefox } προστατεύουν το απόρρητό σας
+learn-more-about-firefox = Μάθετε περισσότερα σχετικά με το { -brand-name-firefox }, την ιστορία, τις δυνατότητες και την αποστολή του
 learn-more-about = Μάθετε περισσότερα σχετικά με τα προϊόντα { -brand-name-firefox } που χειρίζονται τα δεδομένα σας με σεβασμό και έχουν δημιουργηθεί για απόρρητο οπουδήποτε κι αν βρίσκεστε στο διαδίκτυο.
 learn-more-faq = Συχνές ερωτήσεις για το { -brand-name-firefox }
 the-history-of = Η ιστορία των προγραμμάτων περιήγησης
@@ -54,3 +55,4 @@ incognito-browser-what = Ιδιωτική περιήγηση: Μάθετε τι 
 take-the-stress = Βρείτε ένα ασφαλές πρόγραμμα περιήγησης χωρίς άγχος.
 building-a-safe = Η ανάπτυξη ενός ασφαλούς προγράμματος περιήγησης είναι τέχνη και επιστήμη, επειδή δεν υπάρχουν κανόνες.
 firefox-more-fingerprinter-blocking = Αποκλεισμός fingerprinter
+firefox-more-translate-the-web = Μετάφραση του web
