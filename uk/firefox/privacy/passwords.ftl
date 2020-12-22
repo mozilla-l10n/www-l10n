@@ -11,3 +11,4 @@ privacy-passwords-security-guide-to = Настанови щодо безпеки
 privacy-passwords-more-and-more-desc = Все більше й більше вразливих, цінних речей у нашому житті охороняються через захищені паролем мережні облікові записи. Як нам захистити наші паролі?
 # page content
 privacy-passwords-a-security-guide = Настанови щодо безпеки паролів
+privacy-passwords-protecting-your-accounts = Захист своїх облікових записів не повинен бути складним — { -brand-name-firefox } може допомогти.
