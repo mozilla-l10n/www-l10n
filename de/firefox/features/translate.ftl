@@ -10,7 +10,7 @@ features-translate-translate-the-web-title = Übersetzen Sie das Web – direkt 
 # page description
 features-translate-translate-more-than = Übersetzen Sie aus mehr als 100 Sprachen direkt in Ihrem { -brand-name-firefox-browser } in Ihre Sprache – einfacher als je zuvor.
 features-translate-translate-the-web = Übersetzen Sie das Web mit { -brand-name-firefox }
-features-translate-the-google-translate = Die { -brand-name-google }-Translate-Erweiterung für { -brand-name-firefox } macht das Web für die Welt zugänglich.
+features-translate-the-google-translate = Die To-{ -brand-name-google }-Translate-Erweiterung für { -brand-name-firefox } macht das Web für die Welt zugänglich.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Das Internet ist mit erstaunlichen Dingen gefüllt, aber viele davon sind nicht auf Englisch geschrieben – Milliarden von Menschen auf der ganzen Welt brauchen einen Übersetzer, um das Internet zu nutzen. Sie können <a { $attrs }>{ -brand-name-firefox } in über 100 Sprachen herunterladen</a>, sodass Ihre Browser-Menüs, Benachrichtigungen und Nachrichten in Ihrer bevorzugten Sprache angezeigt werden. Dies löst jedoch nicht das Problem von all diese erstaunlichen Inhalte, die Sie mit Ihrem Browser finden.
 features-translate-to-google-translate = Zu { -brand-name-google } Translate
