@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = Fordítsa le a webet – közvetlen
 features-translate-translate-more-than = Fordítson több mint 100 nyelvről magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
 features-translate-translate-the-web = Fordítsa le a webet a { -brand-name-firefox }szal
 features-translate-the-google-translate = A { -brand-name-google } Fordító { -brand-name-firefox }-kiegészítő az egész világ számára elérhetővé teszi a webet.
+# $attrs (string) - link to https://www.mozilla.org/firefox/all/
+features-translate-the-internet-is = Az internet tele van csodálatos dolgokkal, de a nagy része nem magyarul íródott – így sokaknak fordítóra van szükségük, hogy az internetet használják. A <a { $attrs }>{ -brand-name-firefox }ot több mint 100 nyelven töltheti le</a>, így a böngészőmenük, értesítések és üzenetek az Ön által választott nyelven jelennek meg, de ez nem oldja meg a böngészővel talált nagyszerű tartalmak problémáját.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Kiegészítő beszerzése
