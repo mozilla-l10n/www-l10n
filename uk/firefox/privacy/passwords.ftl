@@ -26,3 +26,4 @@ privacy-passwords-guessing-it = Здогадування
 privacy-passwords-stealing-a-file = Викрадення файлу, в якому є ваш пароль
 privacy-passwords-using-password-recovery = Використання функції відновлення пароля для його скидання
 privacy-passwords-tricking-you-into = Отримання від вас обманом
+privacy-passwords-to-keep-your = Щоб захистити свій обліковий запис, потрібно уникати якнайбільшій кількості з них. Кожен ризик має різні способи протидії.
