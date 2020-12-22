@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
 
+privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
+privacy-passwords-security-questions-my = 密保问题：我母亲的婚前姓氏是“Ff926AKa9j6Q”
 privacy-passwords-get-help-from = 使用密码管理器协助管理
 privacy-passwords-twofactor-authentication-2fa = 双因子验证（2FA）
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
