@@ -48,4 +48,6 @@ features-index-see-themes = Popüler temalara bak
 features-index-download-latest = En yeni { -brand-name-firefox }’u indir
 features-index-fingerprinter-blocking = Parmak izi toplayıcı engelleme
 features-index-block-fingerprinters = Parmak izi toplayıcıları engelleyin
+features-index-translate-the-web = Web’i çevirin
+features-index-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox-browser }ndan kendi dilinize çevirin.
 features-index-translate-to-your = Kendi dilinize çevirin
