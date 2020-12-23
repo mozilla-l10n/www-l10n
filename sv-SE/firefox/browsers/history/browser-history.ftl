@@ -24,5 +24,6 @@ browser-history-by-1993-the-web = År 1993 exploderade webben. Universitet, rege
 # Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic körde på datorer med { -brand-name-windows }, var lätt att använda och gav alla med PC tillgång till tidiga webbsidor, chattrum och bildbibliotek. Nästa år (1994) grundade Andreessen <a href="{ $netscape }"> { -brand-name-netscape }</a> och släppte { -brand-name-netscape } Navigator till allmänheten. Den var väldigt framgångsrik och den första webbläsaren för folket. Det var också det första steget i en ny typ av krig för internetanvändare.
+browser-history-browsing-the-web = Surfa på nätet idag
 browser-history-resources = Resurser
 browser-history-take-control-of = Ta kontroll över din webbläsare.
