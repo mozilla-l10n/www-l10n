@@ -39,4 +39,7 @@ privacy-passwords-the-secret-to = Het geheim om raden, diefstal of het opnieuw i
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Als een aanvaller de wachtwoorddatabase steelt van een website die u gebruikt (zoals <a { $url_linkedin }>LinkedIn</a> of <a { $url_yahoo }>Yahoo</a>), kunt u alleen maar uw wachtwoord voor die website wijzigen. Dat is erg, maar de schade kan veel erger zijn als u dat wachtwoord opnieuw hebt gebruikt voor andere websites – de aanvaller heeft dan ook toegang tot uw accounts op die websites. <strong>Gebruik altijd verschillende wachtwoorden voor verschillende websites</strong> om de schade beperkt te houden.
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-firefox-monitor = Gebruik <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> om de e-mailadressen die bij uw accounts horen in de gaten te houden. Als uw e-mailadres voorkomt in een bekend datalek van een bedrijf, wordt u gewaarschuwd en ontvangt u de te volgen stappen om de getroffen account te beschermen.
+privacy-passwords-security-questions-my = Beveiligingsvragen: de meisjesnaam van mijn moeder is ‘Ff926AKa9j6Q’
 privacy-passwords-twofactor-authentication-2fa = Tweefactorauthenticatie (2FA)
