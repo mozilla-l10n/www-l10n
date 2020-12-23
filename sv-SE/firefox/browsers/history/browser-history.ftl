@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Webbläsarhistorik: Episka maktkamper som gav oss moderna webbläsare
+browser-history-the-browser-wars-underdogs-giants = Webbläsarkrig, underdogs mot jättar och stunder som förändrade världen. Läs om webbläsarens historia.
 browser-history-the-history-of-web = Webbläsarens historia
 browser-history-before-web-era = Innan webb-eran
 browser-history-in-1950-computers = 1950 tog datorer upp hela rum och var dummare än dagens fickräknare. Men framstegen var snabba och 1960 kunde de köra komplexa program. Regeringar och universitet över hela världen tyckte att det skulle vara fantastiskt om maskinerna kunde prata, vilket gynnade samarbete och vetenskapliga genombrott.
@@ -24,6 +25,10 @@ browser-history-by-1993-the-web = År 1993 exploderade webben. Universitet, rege
 # Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic körde på datorer med { -brand-name-windows }, var lätt att använda och gav alla med PC tillgång till tidiga webbsidor, chattrum och bildbibliotek. Nästa år (1994) grundade Andreessen <a href="{ $netscape }"> { -brand-name-netscape }</a> och släppte { -brand-name-netscape } Navigator till allmänheten. Den var väldigt framgångsrik och den första webbläsaren för folket. Det var också det första steget i en ny typ av krig för internetanvändare.
+browser-history-the-browser-wars = Webbläsarkrigen
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = 1995 var { -brand-name-netscape } Navigator inte det enda sättet att komma åt internet. Datorprogramjätten { -brand-name-microsoft } licensierade den gamla Mosaic-koden och byggde sitt eget fönster mot webben, <a href="{ $ie }"> { -brand-name-ie } </a>. Introduktionen utlöste ett krig. { -brand-name-netscape } och { -brand-name-microsoft } arbetade febrilt för att skapa nya versioner av sina program, var och en försökte överträffa den andra med snabbare, bättre produkter.
 browser-history-browsing-the-web = Surfa på nätet idag
 browser-history-resources = Resurser
 browser-history-take-control-of = Ta kontroll över din webbläsare.
