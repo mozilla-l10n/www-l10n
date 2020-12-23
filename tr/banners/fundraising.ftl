@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = Gelecek internette şekillenecek. Hepimiz adına mücadele etmesi için { -brand-name-mozilla }’ya destek olun.
+banner-fundraising-body = İnternete her girdiğimizde kişisel verilerimiz toplanıyor ve o verilerle ne yapıldığını öğrenmek zor. Dezenformasyon, gerçeğe ulaşmamızı zorlaştırıyor. Web bağlantılı cihazlar, minimum güvenlik standartlarını bile karşılamadan piyasaya sürülüyor. Kâr amacı gütmeyen { -brand-name-mozilla-foundation }, interneti herkes için güvenli, açık ve erişilebilir kılmak için mücadele ediyor. <strong>Siz de bağış yapar mısınız?</strong>
 banner-fundraising-monthly = Her ay
 banner-fundraising-one-time = Bir kere
 banner-fundraising-donate = Bağış yapın

@@ -47,6 +47,7 @@ features-index-compare-browsers = Tarayıcıları karşılaştır
 features-index-see-themes = Popüler temalara bak
 features-index-download-latest = En yeni { -brand-name-firefox }’u indir
 features-index-fingerprinter-blocking = Parmak izi toplayıcı engelleme
+features-index-fingerprinting-is-a = Parmak izi toplama, sıradan çerez tabanlı izlemeden daha istilacı bir çevrimiçi izleme türüdür. Bu nedenle { -brand-name-firefox-browser } bunu engeller.
 features-index-block-fingerprinters = Parmak izi toplayıcıları engelleyin
 features-index-translate-the-web = Web’i çevirin
 features-index-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox-browser }ndan kendi dilinize çevirin.
