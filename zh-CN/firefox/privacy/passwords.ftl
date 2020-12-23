@@ -11,7 +11,7 @@ privacy-passwords-security-guide-to = 更安全的登录信息与密码指南
 privacy-passwords-a-security-guide = 更安全的登录信息与密码指南
 privacy-passwords-protecting-your-accounts = 保护账号并不难，{ -brand-name-firefox } 可帮忙。
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
-privacy-passwords-tldr = 总而言之：
+privacy-passwords-tldr = 简而言之：
 privacy-passwords-use-random-passwords = 对不同的网站使用不同的随机密码
 privacy-passwords-pay-attention-to = 时刻注意浏览器中的安全信号，不松懈
 privacy-passwords-make-your-answers = 密码强度要高，密保问题的答案亦然
