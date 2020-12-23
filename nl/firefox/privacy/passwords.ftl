@@ -13,6 +13,8 @@ privacy-passwords-more-and-more-desc = Steeds meer van de gevoelige, waardevolle
 privacy-passwords-a-security-guide = Een beveiligingsgids voor veiligere aanmeldingen en wachtwoorden
 privacy-passwords-protecting-your-accounts = Het beschermen van uw accounts hoeft niet ingewikkeld te zijn – en { -brand-name-firefox } kan hierbij helpen.
 privacy-passwords-more-and-more = Steeds meer van de gevoelige, waardevolle dingen in ons leven worden bewaakt met door wachtwoorden beveiligde online accounts – liefdesbrieven, medische dossiers, bankrekeningen en meer. Websites gebruiken aanmeldprocedures om die waardevolle zaken te beschermen. In het algemeen kan iemand, zo lang ze niet bij uw account kunnen aanmelden, uw e-mail niet lezen en geen geld van uw bankrekening overmaken. Hoe moeten we in ons online leven onze aanmeldingen beschermen?
+# tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
+privacy-passwords-tldr = in het kort:
 privacy-passwords-use-random-passwords = Gebruik willekeurige wachtwoorden, en gebruik voor elke website een ander wachtwoord
 privacy-passwords-pay-attention-to = Let op de beveiligingssignalen van de browser, en wees achterdochtig
 privacy-passwords-make-your-answers = Maak uw antwoorden op beveiligingsvragen net zo sterk als uw wachtwoorden
