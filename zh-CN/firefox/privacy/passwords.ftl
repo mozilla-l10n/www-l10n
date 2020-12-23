@@ -11,7 +11,7 @@ privacy-passwords-security-guide-to = 更安全的登录信息与密码指南
 privacy-passwords-a-security-guide = 更安全的登录信息与密码指南
 privacy-passwords-protecting-your-accounts = 保护账号并不难，{ -brand-name-firefox } 可帮忙。
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
-privacy-passwords-tldr = 长话短说：
+privacy-passwords-tldr = 总而言之：
 privacy-passwords-use-random-passwords = 对不同的网站使用不同的随机密码
 privacy-passwords-pay-attention-to = 时刻注意浏览器中的安全信号，不松懈
 privacy-passwords-make-your-answers = 密码强度要高，密保问题的答案亦然
@@ -30,7 +30,7 @@ privacy-passwords-a-closed-lock = 在所有主流浏览器的地址栏中，紧�
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
 privacy-passwords-your-browser-also = 您的浏览器还可以帮助您随时了解网站是否可信赖，防止网络钓鱼。当您尝试访问已知的钓鱼网站时，{ -brand-name-firefox }（以及任何主流浏览器）会显示全屏警告。<strong>若要继续访问，请三思而后行！</strong>
 privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
-privacy-passwords-strength-in-diversity = 勿共用密码
+privacy-passwords-strength-in-diversity = 有差异，更安全
 privacy-passwords-the-secret-to = 防止被猜到、窃取或密码重置的秘诀是更多的随机性。当攻击者试图猜测密码时，他们通常会做两件事：1）使用“字典”——人们普遍使用的常用密码列表；2）进行一些随机猜测。<strong>您的密码越长、越随机</strong>，就越不可能找到密码。
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
@@ -49,5 +49,5 @@ privacy-passwords-twofactor-authentication-2fa = 双因子验证（2FA）
 privacy-passwords-your-firefox-account = 例如，您的 { -brand-name-firefox } 账户可以使用 2FA 进行保护，<a { $url_sumo_2fa }>您可在此详细了解</a>。
 #   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA 提供的安全性比只有密码要好得多，然而并不是每个网站都支持。您可以在 <a { $url_2fa }>https://twofactorauth.org</a> 上找到支持和不支持 2FA 的网站列表，以及要求后者添加支持的途径。
-privacy-passwords-strong-diverse-and = 高强度、差异性和多因素
+privacy-passwords-strong-diverse-and = 高强度、差异性和多因子
 privacy-passwords-for-better-or = 不管是好是坏，在可预见的未来，我们都将继续使用密码来保护我们的在线账户。使用<strong>高强度密码</strong>，在不同的网站使用<strong>不同的密码</strong>，并使用<strong>密码管理器</strong>帮助您安全地记住它们。为密保问题设置<strong>随机的长答案</strong>（尽管答案并非真实），并在任何支持双因子验证的网站上<strong>使用双因子验证</strong>。
