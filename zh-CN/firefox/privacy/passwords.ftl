@@ -23,10 +23,14 @@ privacy-passwords-using-password-recovery = 通过密码找回将其重置
 privacy-passwords-tricking-you-into = 欺骗您主动交出
 privacy-passwords-to-keep-your = 为了确保您的登录安全，您需要尽可能避免这些情况。而每种风险均有不同的应对措施。
 privacy-passwords-look-for-the = 寻找浏览器中的锁
-privacy-passwords-its-easy-to = 当您在未加密的网站登录时，更容易防止攻击者窃取您的密码：若在地址栏中未看到锁的图标，请在输入密码时保持谨慎，如下所示：
+privacy-passwords-its-easy-to = 防止攻击者在您登录未加密的网站时窃取您密码的方法十分简单：如果在地址栏中没有看到锁的图标，请在输入密码时保持谨慎，如下所示：
 privacy-passwords-a-closed-lock = 在所有主流浏览器的地址栏中，紧挨着网址旁都有一个锁。
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
+privacy-passwords-your-browser-also = 您的浏览器还可以帮助您随时了解网站是否可信赖，防止网络钓鱼。当您尝试访问已知的钓鱼网站时，{ -brand-name-firefox }（以及任何主流浏览器）会显示全屏警告。<strong>若要继续访问，请三思而后行！</strong>
 privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
+#   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
+#   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
+privacy-passwords-when-an-attacker = 攻击者窃取您所使用网站（例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_yahoo }>Yahoo</a>）的密码数据库后，您能做的只有更改您用于该网站的密码。这固然很糟糕，但如果您在其他网站上也使用同样的密码，损失可能会更大，攻击者将可以访问您在其他网站的帐户。为了减少损失，<strong>请始终对不同的网站使用不同的密码。</strong>
 privacy-passwords-security-questions-my = 密保问题：我母亲的婚前姓氏是“Ff926AKa9j6Q”
 privacy-passwords-finally-most-websites = 最后，如果您忘记了密码，大多数网站都可以让您找回密码。通常，这些系统会要求您在重置密码之前回答一些“密保问题”。<strong>这些问题的答案必须和您的密码一样保密。</strong>否则，攻击者会猜到答案并重置您的密码。
 privacy-passwords-get-help-from = 使用密码管理器协助管理
@@ -38,3 +42,4 @@ privacy-passwords-your-firefox-account = 例如，您的 { -brand-name-firefox }
 #   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA 提供的安全性比只有密码要好得多，然而并不是每个网站都支持。您可以在 <a { $url_2fa }>https://twofactorauth.org</a> 上找到支持和不支持 2FA 的网站列表，以及要求后者添加支持的途径。
 privacy-passwords-strong-diverse-and = 高强度、差异性和多因素
+privacy-passwords-for-better-or = 不管是好是坏，在可预见的未来，我们都将继续使用密码来保护我们的在线账户。使用<strong>高强度密码</strong>，在不同的网站使用<strong>不同的密码</strong>，并使用<strong>密码管理器</strong>帮助您安全地记住它们。为密保问题设置<strong>随机的长答案</strong>（尽管答案并非真实），并在任何支持双因子验证的网站上<strong>使用双因子验证</strong>。
