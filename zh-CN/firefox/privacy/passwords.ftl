@@ -28,6 +28,7 @@ privacy-passwords-a-closed-lock = 在所有主流浏览器的地址栏中，紧�
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
 privacy-passwords-your-browser-also = 您的浏览器还可以帮助您随时了解网站是否可信赖，防止网络钓鱼。当您尝试访问已知的钓鱼网站时，{ -brand-name-firefox }（以及任何主流浏览器）会显示全屏警告。<strong>若要继续访问，请三思而后行！</strong>
 privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
+privacy-passwords-the-secret-to = 防止被猜到、窃取或密码重置的秘诀是更多的随机性。当攻击者试图猜测密码时，他们通常会做两件事：1）使用“字典”——人们普遍使用的常用密码列表；2）进行一些随机猜测。<strong>您的密码越长、越随机</strong>，就越不可能找到密码。
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = 攻击者窃取您所使用网站（例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_yahoo }>Yahoo</a>）的密码数据库后，您能做的只有更改您用于该网站的密码。这固然很糟糕，但如果您在其他网站上也使用同样的密码，损失可能会更大，攻击者将可以访问您在其他网站的帐户。为了减少损失，<strong>请始终对不同的网站使用不同的密码。</strong>
