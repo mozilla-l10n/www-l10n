@@ -31,3 +31,5 @@ privacy-passwords-to-keep-your = För att hålla din inloggning säker måste du
 privacy-passwords-look-for-the = Leta efter låset i din webbläsare
 privacy-passwords-its-easy-to = Det är lätt att förhindra att angripare stjäl ditt lösenord när du loggar in på en okrypterad webbplats: Tänk till innan du skriver ditt lösenord om du inte ser en låsikon i URL-fältet, som den här:
 privacy-passwords-a-closed-lock = Ett stängt hänglås visas precis före webbadressen i URL-fältet i alla större webbläsare.
+privacy-passwords-the-lock-means = Låset innebär att webbplatsen du använder är krypterad, så att även om någon tittar på din surfning i nätverket (som en annan person på en offentlig WiFi-hotspot), kommer de inte att kunna se ditt lösenord. { -brand-name-firefox } försöker varna dig när du ska ange ditt lösenord på en okrypterad webbplats.
+privacy-passwords-a-padlock-with = Ett hänglås med en linje igenom indikerar att anslutningen inte är säker.
