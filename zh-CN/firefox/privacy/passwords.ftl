@@ -13,9 +13,11 @@ privacy-passwords-protecting-your-accounts = 保护账号并不难，{ -brand-na
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = 长话短说：
 privacy-passwords-use-random-passwords = 对不同的网站使用不同的随机密码
+privacy-passwords-pay-attention-to = 时刻注意浏览器中的安全信号，不松懈
 privacy-passwords-make-your-answers = 密码强度要高，密保问题的答案亦然
 privacy-passwords-use-a-password = 密码管理器助您更轻松地创建并记住密码
 privacy-passwords-use-twofactor-authentication = “双因子验证”，能用则用
+privacy-passwords-its-hard-out = 密码面临的处境
 privacy-passwords-seeing-you-use = 看到您在未加密的网站上使用
 privacy-passwords-guessing-it = 被猜到
 privacy-passwords-stealing-a-file = 包含密码的文件遭窃取
