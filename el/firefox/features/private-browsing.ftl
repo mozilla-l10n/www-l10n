@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Ιδιωτικό πρόγραμμα περιήγησης με επιπλέον προστασία από καταγραφή
 # HTML page description
 features-private-browsing-firefox-protects = Ο { -brand-name-firefox } προστατεύει το διαδικτυακό σας απόρρητο και αποκλείει τρίτους που σας ακολουθούν στον διαδίκτυο.
+features-private-browsing-download-firefox = Λήψη του { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Περισσότερη προστασία. Λιγότερη ανησυχία.
 features-private-browsing-were-obsessed-with = Έχουμε εμμονή με την προστασία του απορρήτου σας. Γι' αυτό κάναμε την Ιδιωτική Περιήγηση του { -brand-name-firefox } ισχυρότερη έναντι των άλλων.
 features-private-browsing-browse-without = Περιηγηθείτε χωρίς να αφήσετε ίχνη
