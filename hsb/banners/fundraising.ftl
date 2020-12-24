@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = Přichod so online rozsudźa. Pomhajće { -brand-name-mozilla }, za web za nas wšěch wojować.
 banner-fundraising-monthly = Kóždy měsac
 banner-fundraising-one-time = Jónkróć
 banner-fundraising-donate = Darić
