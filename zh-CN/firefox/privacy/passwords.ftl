@@ -7,6 +7,8 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = 更安全的登录信息与密码指南
+# HTML page description
+privacy-passwords-more-and-more-desc = 我们的生活中有越来越多私密、有价值的东西需通过密码来保护。那么，我们应该如何保护自己的登录信息？
 # page content
 privacy-passwords-a-security-guide = 更安全的登录信息与密码指南
 privacy-passwords-protecting-your-accounts = 保护账号并不难，{ -brand-name-firefox } 可帮忙。
