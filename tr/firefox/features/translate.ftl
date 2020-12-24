@@ -10,6 +10,7 @@ features-translate-translate-the-web-title = Web’i doğrudan tarayıcınızdan
 # page description
 features-translate-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox-browser }ndan kendi dilinize çevirin.
 features-translate-translate-the-web = { -brand-name-firefox } ile web’i çevirin
+features-translate-the-google-translate = { -brand-name-firefox } için { -brand-name-google } Translate eklentisi, web’i tüm dünya için erişilebilir hale getiriyor.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Eklentiyi yükle
