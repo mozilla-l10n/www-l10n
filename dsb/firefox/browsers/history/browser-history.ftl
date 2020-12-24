@@ -7,3 +7,4 @@
 
 browser-history-the-history-of-web = Historija webwobglědowakow
 browser-history-before-web-era = Pśed casom interneta
+browser-history-web-era = Doba interneta
