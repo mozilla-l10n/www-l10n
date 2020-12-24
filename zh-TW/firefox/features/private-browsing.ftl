@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = 有更多追蹤保護功能的隱私瀏覽器
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } 保護您的線上隱私，並封鎖在不同網站間記錄您的行為的追蹤器。
+features-private-browsing-download-firefox = 下載 { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: 保護更多、擔心更少。
 features-private-browsing-were-obsessed-with = 我們超．級．注．重於保護您的隱私。這也是我們讓 { -brand-name-firefox } 的隱私瀏覽功能比其他瀏覽器威力更強大的原因。
 features-private-browsing-browse-without = 瀏覽不留痕跡
