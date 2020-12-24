@@ -20,3 +20,8 @@ privacy-passwords-strength-in-diversity = La forza sta nella diversità
 privacy-passwords-the-secret-to = Il segreto per impedire il furto o la reimpostazione della password è utilizzare molta casualità. Quando soggetti malintenzionati cercano di rubare le password, di solito fanno due cose: 1) usano “dizionari” (elenchi di password comuni che le persone usano sempre), e 2) fanno alcuni tentativi casuali. <strong>Più la tua password è lunga e casuale</strong>, meno è probabile che una di queste tecniche la riesca a trovare.
 privacy-passwords-security-questions-my = Domande di sicurezza: il nome di mia madre da nubile è “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Fatti aiutare da un gestore di password
+#   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged = Quando accedi a { -brand-name-firefox } con il tuo account { -brand-name-firefox }, puoi sincronizzare tutti i tuoi dispositivi e accedere alle tue password dal browser per dispositivi mobili { -brand-name-firefox }. Scopri di più su <a { $url_sumo-manager }>come utilizzare al meglio il gestore di password integrato</a>.
+privacy-passwords-twofactor-authentication-2fa = Autenticazione a due fattori (2FA)
+#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA offre una sicurezza migliore rispetto alla sola password, ma non tutti i siti web la supportano. Puoi trovare una lista dei siti web che supportano 2FA su <a { $url_2fa }>https://twofactorauth.org</a>, così come un elenco di siti che non la supportano e modi in cui puoi chiedere loro di aggiungerne il supporto.
