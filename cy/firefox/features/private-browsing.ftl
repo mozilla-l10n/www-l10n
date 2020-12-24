@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Porwr Preifat gyda diogelwch ychwanegol rhag tracio
 # HTML page description
 features-private-browsing-firefox-protects = Mae { -brand-name-firefox } yn diogelu eich preifatrwydd ar-lein ac yn rhwystro tracwyr sy'n eich dilyn o amgylch y we.
+features-private-browsing-download-firefox = Llwytho { -brand-name-firefox } i Lawr
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Mwy diogel. Llai o boen.
 features-private-browsing-were-obsessed-with = Mae gennym obsesiwn am ddiogelu eich preifatrwydd. Dyna pam rydym wedi gwneud Pori Preifat yn { -brand-name-firefox } yn fwy pwerus na'r lleill.
 features-private-browsing-browse-without = Pori heb gadael ôl
