@@ -14,3 +14,6 @@ features-translate-to-google-translate = K { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Wobstarajśo se rozšyrjenje
 features-translate-switch-languages-in = Rěcy w { -brand-name-firefox } pśešaltowaś
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> a wěcej!</a>
+features-translate-for-everyone = Firefox jo za wšykne
