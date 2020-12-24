@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Sader { -brand-name-firefox-browser } i { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Dayen tesɛiḍ { -brand-name-chromebook } — tura d lawan ad tawiḍ { -brand-name-firefox-browser } ilelli, uslig s wudem awurman i ummesten n yisefka-inek·inem udmawanen.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Sader { -brand-name-firefox } i { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Awi tanarit { -brand-name-firefox } i { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = Sader { -brand-name-firefox } i { -brand-name-chromebook }
