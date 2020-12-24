@@ -19,5 +19,13 @@ browser-history-web-era = Ynternettiidrek
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = De Britske kompjûterwittenskipper Tim Berners-Lee makke de earste webserver en grafyske webbrowser yn 1990, wylst hy <a href="{ $cern }">wurke by CERN</a>, de Europeeske Organisaasje foar Nukleêr ûndersyk, yn Switserlân. Hy neamde syn nije finster op it ynternet ‘WorldWideWeb.’ It wie in maklik te brûken grafyske interface makke foar de NeXT-kompjûter. Foar it earst waarden tekstdokuminten mei-inoar keppele fia in iepenbier netwurk – it ynternet sa't wy dat kenne.
+browser-history-a-year-later-berners = In jier letter frege Berners-Lee oan CERN-wiskundestudint Nicola Pellow om de Line Mode Browser te skriuwen, in programma foar basale kompjûterterminals.
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Tsjin 1993 eksplodearre it ynternet. Universiteiten, oerheden en partikuliere bedriuwen seagen allegearre kânsen yn it iepen ynternet. Elkenien hie nije kompjûterprogramma's nedich om tagong te krijen. Dat jier waard Mosaic makke yn it National Center for Supercomputing Applications (NCSA) oan de Universiteit fan Illinois Urbana-Champaign troch kompjûterwittenskipper Marc Andreessen. It wie de alderearste populêre webbrowser en de iere foarfaar fan <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic draaide op { -brand-name-windows }-kompjûters , wie maklik te brûken en joech elkenien mei in pc tagong ta iere websiden, petearkeamers en ôfbyldingsbiblioteken. It oare jier (1994) rjochte Andreessen <a href="{ $netscape }">{ -brand-name-netscape }</a> op en joech { -brand-name-netscape } Navigator út oan it publyk. It wie hiel suksesfol, en de earste browser foar de minsken. It wie ek de earste stap yn in nij soarte oarloch foar ynternetbrûkers.
+browser-history-the-browser-wars = De browseroarlogen
 browser-history-resources = Boarnen
 browser-history-take-control-of = Nim de kontrôle oer jo browser.
