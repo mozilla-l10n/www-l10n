@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Aql-ak akken kan ad tassadreḍ:
 firefox-all-browser = Iminig:
 firefox-all-platform = Anagraw:
 firefox-all-language = Tutlayt:
+firefox-all-lang-multi = Aṭas n tutlayin
 firefox-all-sorry-we-couldnt-find = Suref-aɣ, ur nufi ara asader i tettnadiḍ. Ma ulac aɣilif ales aɛraḍ neɣ fren asader deg tebdert ddaw-a.
 firefox-all-the-pre-alpha-version = Lqem uzwir alpha i yiseqdacen n tseqdacin n i ḥemmlen ad d-ṣeggden ibugen akked uɛraḍ n tmahilin deg tnesflit-nsent.
 firefox-all-64-bit-installers = Imsebdaden 64 n yibiten
