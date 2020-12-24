@@ -11,4 +11,4 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-style-editor = An deasaiche stoidhle
-firefox-developer-firefox-developer-edition-sends = Bheir tionndadh luchd-leasachaidh de Firefox fiosrachadh air ais dha { -brand-name-mozilla } gu fèin-obrachail.
+firefox-developer-firefox-developer-edition-sends = Bheir { -brand-name-firefox-developer-edition } fiosrachadh air ais dha { -brand-name-mozilla } gu fèin-obrachail.
