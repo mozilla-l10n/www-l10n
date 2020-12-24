@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Der private Browser mit Extraschutz vor Aktivitätenverfolgung
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } schützt Deine Privatsphäre und blockiert Tracker, die ohne Zustimmung Deine Daten sammeln.
+features-private-browsing-download-firefox = { -brand-name-firefox } herunterladen
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Mehr Schutz. Weniger Sorgen.
 features-private-browsing-were-obsessed-with = Deine PRIVATSPHÄRE wird bei uns ganz großgeschrieben. Deshalb ist der Private Modus von { -brand-name-firefox } so viel leistungsstärker als andere.
 features-private-browsing-browse-without = Hinterlasse keine Spuren
