@@ -29,6 +29,7 @@ features-index-open-source-minds = Wotewrjena softwara. Wotewrjene mysle.
 features-index-mozilla-creates = { -brand-name-mozilla } wukonliwu webtechnologiju za kóždeho wuwiwa.
 features-index-see-what-makes-us-different = Hladajće, štož nas rozeznawa
 features-index-by-non-profit-mozilla = Wot powšitkownosći wužitneje organizacije { -brand-name-mozilla }
+features-index-by-not-for-profit-mozilla = Wot powšitkownosći wužitneje organizacije { -brand-name-mozilla }
 features-index-keep-corporate-power = Dźeržće móc předewzaćow w šachu
 features-index-independent-browser = { -brand-name-firefox } je jenički wulki njewotwisny wobhladowak.
 features-index-on-a-mission = Na misiji Internet wotewrjeny a přistupny za wšěch dźeržeć.

@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# description for the header image
+features-fingerprinting-every-fingerprint = Kóždy porstowy wotćišć je jónkróćny.
 features-fingerprinting-download-firefox = { -brand-name-firefox } sćahnyć
 features-fingerprinting-protect = Škitajcé swoju priwatnosć
