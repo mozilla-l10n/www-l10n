@@ -9,3 +9,7 @@
 privacy-passwords-tldr = Zjeće:
 privacy-passwords-use-random-passwords = Wužiwajće připadne hesła, a wužiwajće druhe hesło za kóžde sydło
 privacy-passwords-use-twofactor-authentication = Wužiwajće „dwufaktorowu awtentifikaciju“, hdźežkuli móžeće
+privacy-passwords-its-hard-out = Hesła so ćežko maja
+privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeho maćerje je „Ff926AKa9j6Q“
+privacy-passwords-get-help-from = Wobstarajće sej pomoc wot zrjadowaka hesłow
+privacy-passwords-twofactor-authentication-2fa = Dwufaktorowa awtentifikacija (2FA)
