@@ -32,6 +32,9 @@ browser-history-by-1995-netscape = 1995 var { -brand-name-netscape } Navigator i
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape } skapade och släppte JavaScript, vilket gav webbplatser kraftfulla datorfunktioner som de aldrig hade tidigare. (De gjorde också den ökända <a href="{ $blink }">&lt;blink&gt;-taggen</a>.) { -brand-name-microsoft } kontrade med Cascading Style Sheets (CSS), som blev standarden för webbsidesdesign.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Saker gick lite ur hand 1997 när { -brand-name-microsoft } släppte { -brand-name-ie } 4.0. Teamet byggde en jättebokstav "e" och smög med den till gräsmattan  vid { -brand-name-netscape } huvudkontor. Teamet { -brand-name-netscape } slog omedelbart omkull bokstaven "e" och <a href="{ $dino }">lade sin egen { -brand-name-mozilla } dinosaurmaskot ovanpå den</a>.
 browser-history-browsing-the-web = Surfa på nätet idag
 browser-history-resources = Resurser
 browser-history-take-control-of = Ta kontroll över din webbläsare.
