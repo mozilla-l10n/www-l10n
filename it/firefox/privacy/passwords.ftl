@@ -8,3 +8,6 @@
 # HTML page title
 privacy-passwords-security-guide-to = Guida sulla sicurezza per credenziali di accesso più sicure
 privacy-passwords-use-random-passwords = Usa password casuali e diverse per ogni sito
+privacy-passwords-make-your-answers = Rendi le risposte alle domande di sicurezza efficaci quanto le tue password
+privacy-passwords-use-a-password = Usa uno strumento di gestione password per creare e ricordare le password più facilmente
+privacy-passwords-its-hard-out = La difficile vita di una password
