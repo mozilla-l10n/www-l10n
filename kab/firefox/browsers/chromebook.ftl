@@ -8,6 +8,8 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-browser = Sader { -brand-name-firefox-browser } i { -brand-name-chromebook }
+browsers-chromebook-browsers-chromebook-get-firefox-for = Sader { -brand-name-firefox } i { -brand-name-android }
 browsers-chromebook-dropdown-copy = Sader { -brand-name-firefox } i { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = I wacu asader n <span>{ -brand-name-firefox }</span> i { -brand-name-chromebook }?
