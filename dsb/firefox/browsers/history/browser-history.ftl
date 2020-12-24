@@ -8,3 +8,7 @@
 browser-history-the-history-of-web = Historija webwobglědowakow
 browser-history-before-web-era = Pśed casom interneta
 browser-history-web-era = Doba interneta
+browser-history-the-browser-wars = Wójny wobglědowakow
+browser-history-browsing-the-web = Ako web źinsa pśeglědujomy
+browser-history-resources = Resurse
+browser-history-take-control-of = Pśewzejśo kontrolu nad swójim wobglědowakom.

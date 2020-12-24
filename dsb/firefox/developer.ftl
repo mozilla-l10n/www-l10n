@@ -78,3 +78,6 @@ firefox-developer-welcome-to-the-all-new = Witajśo k cele nowemu { -brand-name-
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } jo se dopołnje nowo wuwił a jo něnto malsnjejšy, elegantnjejšy a mócnjejšy ako do togo.
 firefox-developer-congrats-you-now-have-firefox = Gratulacija. Maśo něnto { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = To jo nic jano aktualizacija. { -brand-name-firefox-quantum } to jo: Nowučki { -brand-name-firefox }, kótaryž jo se dopołnje nowo wuwił a jo něnto malsnjejšy, elegantnjejšy a mócnjejšy ako do togo.
+firefox-developer-welcome-to-firefox-browser = Witajśo k { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Wobglědowak za wuwijarje
+firefox-developer-congrats-you-now-have = Gratulacija. Maśo něnto { -brand-name-firefox-browser } { -brand-name-developer-edition }.
