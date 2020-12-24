@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Mudd-aɣ-d afus ad nebnu iminig ilelli. 
 firefox-developer-start-now = Bdu tura
 firefox-developer-design-code-test = Feṣṣel, Stengel, Sekyed, Seggem.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Bnu udiɣ sali aswir n yismal-ik <br> s ifecka n tneflit n Firefox
+firefox-developer-build-and-perfect = Bnu rnu sali aswir n yismal-inek·inem <br> s { -brand-name-firefox-devtools }
 firefox-developer-inspector = Amaswaḍ
 firefox-developer-inspect-and-refine = Sweḍ udiɣ seggem tanglat akken ad tebnuḍ iɣunab n ipiksilen ifazen.
 firefox-developer-learn-about-page-inspector = Issin ugar ɣef umaswaḍ n usebter
@@ -54,7 +54,7 @@ firefox-developer-learn-more-about-style = Issin ugar ɣef umaẓrag n uɣanib
 firefox-developer-new-tools = Ifecka imaynuten
 firefox-developer-inactive-css = CCS arurmid
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = Ifecka n tneflit DevTools n Firefox amaynut d uzmiren, d ifallaẓen, ifen akk wiyaḍ yerna zemren ad ttwasɣezfen. Ayagi yegber tamseɣtayt JavaScript n imusnawen, izemren ad teddu ɣef ddeqs n yimigen yettwabnan s React d Redux.
+firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } imaynuten d uzmiren, d ifallaẓen, ifen akk wiyaḍ yerna zemren ad ttwasɣezfen. Ayagi yegber tamseɣtayt JavaScript n yimussnawen, i izemren ad teddu ɣef ddeqs n yiminigen yettwabnan s React d Redux.
 firefox-developer-master-css-grid = Issin s telqayt tamezzut CSS
 firefox-developer-next-gen-css-engine = Amsedday CSS n tsuta d-iteddun
 firefox-developer-a-next-generation = Amsedday CSS n tsuta d-iteddun
