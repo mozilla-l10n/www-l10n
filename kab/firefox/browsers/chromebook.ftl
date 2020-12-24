@@ -18,6 +18,7 @@ browsers-chromebook-why-get-firefox = I wacu asader n <span>{ -brand-name-firefo
 browsers-chromebook-while-a-chromebook = Mi ara { -brand-name-chromebook } isebded yakan { -brand-name-chrome }, asader d useqdec n { -brand-name-firefox } d iminig-inek·inem ufrin ad ak·am-imudd kra n yibaɣuren.
 browsers-chromebook-alwayson-tracking-protection = Ammesten yezgan mgal aḍfaṛ: s wudem amezwer, { -brand-name-firefox } iselkam ammesten mgal aḍfaṛ yettwaseǧhed (ETP) i ummesten n yisefka-inek·inem udmawanen seg yineḍfaren n udellel, seg yineḍfaren inmettiyen d yisekripten n uwgelhen i ak·akem-yeṭṭafaren ɣef web.
 browsers-chromebook-is-it-hard = Iwɛer ad tesbeddeḍ { -brand-name-firefox } i { -brand-name-chromebook }?
+browsers-chromebook-install-firefox-from = Sebded { -brand-name-firefox } seg { -brand-name-google-play } Store: ɣef yileqman ineggyra akk b { -brand-name-chromeos } (yebnan ɣef x86 { -brand-name-chromebook } s uselkem { -brand-name-chromeos } 80 neɣ aneggaru), ɣur-k taxtiṛt i usebded n usnas { -brand-name-firefox } i { -brand-name-android }. Asnas-a yettwasnerna i yibenkan izirazen.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes

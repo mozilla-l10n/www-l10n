@@ -77,3 +77,5 @@ firefox-developer-welcome-to-the-all-new = Anṣuf ar { -brand-name-firefox-quan
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } iɛawed tamuɣli akken ad yuɣal d arurad ugar, d uzmir ugar akken werǧin yella.
 firefox-developer-congrats-you-now-have-firefox = Ayuz. Tzemreḍ tura ad tawiḍ { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Aya mačči kan d lqem aḥerfi. Ha-t-a { -brand-name-firefox-quantum }: { -brand-name-firefox } amaynut i yettwafeṣṣlen akken-nniḍen i wakken ad yuɣal d arurad, d uzmir , yerna yeǧhed ugar ɣef wakken yella.
+firefox-developer-welcome-to-firefox-browser = Ansuf ɣer { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Iminig yettwag i yineflayen
