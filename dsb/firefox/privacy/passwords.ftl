@@ -11,3 +11,6 @@ privacy-passwords-security-guide-to = Wěstotny pśewódnik za wěsćejše pśiz
 privacy-passwords-a-security-guide = Wěstotny pśewódnik za wěsćejše pśizjawjenja a gronidła
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Zespominanje
+privacy-passwords-use-random-passwords = Wužywajśo pśipadne gronidła, a wužywajśo druge gronidło za kužde sedło
+privacy-passwords-use-twofactor-authentication = Wužywajśo „dwójofaktorowu awtentifikaciju“, źožkuli móžośo
+privacy-passwords-its-hard-out = Gronidła se śěžko maju
