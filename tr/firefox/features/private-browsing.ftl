@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Ekstra izlenme koruması sağlayan gizlilik tarayıcısı
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } çevrimiçi gizliliğini korur ve web'de seni takip eden izleyicileri engeller.
+features-private-browsing-download-firefox = { -brand-name-firefox }’u indir
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Daha fazla koruma, daha az dert.
 features-private-browsing-were-obsessed-with = Gizliliğini korumaya kafayı taktık. O yüzden { -brand-name-firefox }’un Gizli Gezinti özelliğini tüm rakiplerimizden daha güçlü hale getirdik.
 features-private-browsing-browse-without = İz bırakmadan gez

@@ -5,10 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# page title
+features-translate-translate-the-web-title = Web’i doğrudan tarayıcınızdan çevirin
+# page description
+features-translate-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox-browser }ndan kendi dilinize çevirin.
+features-translate-translate-the-web = { -brand-name-firefox } ile web’i çevirin
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Eklentiyi yükle
-features-translate-switch-languages-in = { -brand-name-firefox }‘un dilini değiştirebilirsiniz
+features-translate-switch-languages-in = { -brand-name-firefox }’un dilini değiştirebilirsiniz
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Zaten { -brand-name-firefox } kullanıyorsanız tarayıcınızın dilini değiştirebilir veya { -brand-name-firefox } arayüzüne dil ekleyebilirsiniz. <a { $attrs }>Nasıl yapacağınızı öğrenin.</a>
 # $attrs (string) - link to https://translate.google.com/about/languages/
