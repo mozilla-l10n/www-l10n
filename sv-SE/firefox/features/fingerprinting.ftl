@@ -10,4 +10,6 @@ features-fingerprinting-what-is-fingerprinting-title = Vad är fingeravtryckssp�
 # description for the header image
 features-fingerprinting-every-fingerprint = Varje fingeravtryck är unikt.
 features-fingerprinting-download-firefox = Hämta { -brand-name-firefox }
+# $url_download (string) - link to firefox/new
+features-fingerprinting-you-probably-wouldnt = Du skulle förmodligen inte uppskatta någon som spårar dina drag i verkliga livet. Det finns ingen anledning att acceptera det online. Om du inte redan har { -brand-name-firefox }, <a { $url_download }>ladda ner och skydda dig själv</a> från digitala fingeravtryck.
 features-fingerprinting-protect = Skydda din integritet
