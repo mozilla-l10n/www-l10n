@@ -51,3 +51,4 @@ sub-navigation-privacy = Priwatnosć
 sub-navigation-our-promise = Našo zlubjenje
 sub-navigation-our-products = Naše produkty
 sub-navigation-little-book-of-privacy = Kniglicki priwatnosći
+sub-navigation-safe-passwords = Wěste gronidła

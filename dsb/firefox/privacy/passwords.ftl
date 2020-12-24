@@ -14,3 +14,6 @@ privacy-passwords-tldr = Zespominanje
 privacy-passwords-use-random-passwords = Wužywajśo pśipadne gronidła, a wužywajśo druge gronidło za kužde sedło
 privacy-passwords-use-twofactor-authentication = Wužywajśo „dwójofaktorowu awtentifikaciju“, źožkuli móžośo
 privacy-passwords-its-hard-out = Gronidła se śěžko maju
+privacy-passwords-security-questions-my = Wěstotne pšašanja: Źowcyne mě mójeje mamy jo „Ff926AKa9j6Q“
+privacy-passwords-get-help-from = Wobstarajśo se pomoc wót zastojnika gronidłow
+privacy-passwords-twofactor-authentication-2fa = Dwójofaktorowa awtentifikacija (2FA)
