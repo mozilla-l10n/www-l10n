@@ -54,3 +54,7 @@ were-obsessed-with = Škit wašeje priwatnosće je nam jara wažny. Tohodla je p
 incognito-browser-what = Wobhladowak incognito: Štož to woprawdźe woznamjenja
 take-the-stress = Pytajće wěsty wobhladowak bjez stresa.
 building-a-safe = Wuwiwanje wěsteho wobhladowaka je kumšt a wědomosć, dokelž postajene prawidła njejsu.
+firefox-more-fingerprinter-blocking = Blokowanje porstowych wotćišćow
+firefox-more-translate-the-web = Web přełožować
+firefox-more-translate-more-than = Přełožujće wjace hač 100 rěčow direktnje do swojeje rěče w swojim { -brand-name-firefox-browser } - lóšo hač do toho.
+firefox-more-a-guide-to = Přewodnik za wěsćiše přizjewjenja a hesła

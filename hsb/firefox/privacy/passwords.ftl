@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
 
+# HTML page title
+privacy-passwords-security-guide-to = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
+# page content
+privacy-passwords-a-security-guide = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Zjeće:
 privacy-passwords-use-random-passwords = Wužiwajće připadne hesła, a wužiwajće druhe hesło za kóžde sydło

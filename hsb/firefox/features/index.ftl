@@ -47,5 +47,7 @@ features-index-compare-browsers = Wobhladowaki přirunać
 features-index-see-themes = Woblubowane drasty pokazać
 features-index-download-latest = Sćehńće najnowši { -brand-name-firefox }
 features-index-fingerprinter-blocking = Blokowanje porstowych wotćišćow
+features-index-block-fingerprinters = Porstowe wotćišće blokować
 features-index-translate-the-web = Web přełožować
+features-index-translate-more-than = Přełožujće z wjace hač 100 rěčow direktnje do swojeje rěče w swojim { -brand-name-firefox-browser } - lóšo hač do toho.
 features-index-translate-to-your = Přełožujće do swojeje rěče

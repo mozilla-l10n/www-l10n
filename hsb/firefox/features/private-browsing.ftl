@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Priwatny wobhladowak z přidatnym slědowanskim škitom
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } wašu priwatnosć online škita a blokuje přesćěhowaki, kotrež wam we webje sćěhuja.
+features-private-browsing-download-firefox = { -brand-name-firefox } sćahnyć
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Wjace škita. Mjenje starošćow.
 features-private-browsing-were-obsessed-with = Škit wašeje priwatnosće je nam jara wažny. Tohodla je priwatny modus { -brand-name-firefox } mócniši hač druhe.
 features-private-browsing-browse-without = Bjez slěda přehladować
