@@ -6,7 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 # page title
-features-fingerprinting-what-is-fingerprinting-title = Vad är fingeravtrycksspårare och varför ska du blockera det
+features-fingerprinting-what-is-fingerprinting-title = Vad är fingerprinting och varför du ska blockera det
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting är en typ av onlinespårning som är mer invasiv än vanlig kakbaserad spårning — det är därför { -brand-name-firefox-browser }blockerar den.
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blockerar fingerprinting
 # description for the header image
 features-fingerprinting-every-fingerprint = Varje fingeravtryck är unikt.
 features-fingerprinting-download-firefox = Hämta { -brand-name-firefox }
