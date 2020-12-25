@@ -14,5 +14,6 @@ firefox-sync-your-encryption-key = Tasarut-ik·im n uwgelhen ad teqqim d tuffirt
 firefox-sync-feel-safe = Ḥalfu s laman
 firefox-sync-we-store-your = Nettarra isefka-inek·inem yettwawgelhen ɣef yiqeddacen-nneɣ, ihi ur tezmireḍ ara ad ten-teɣreḍ.
 firefox-sync-start-syncing-in = Bdu amtawi s wukkuẓ n yiḥricen isehlen:
+firefox-sync-click-get-started = Sit ɣef <strong>“Bdu”</strong> deg yiccer i yeldin.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = Ugar n tallalt i usefrek n { -brand-name-firefox-account }-inek·inem
