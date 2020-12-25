@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Trình duyệt web riêng tư có thêm tính năng chống theo dõi
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } bảo vệ quyền riêng tư trực tuyến của bạn và ngăn chặn sự theo dõi bạn trên web.
+features-private-browsing-download-firefox = Tải xuống { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Bảo vệ nhiều hơn, lo lắng ít hơn.
 features-private-browsing-were-obsessed-with = Chúng tôi bị ám ảnh bởi việc bảo vệ sự riêng tư của bạn. Đó là lý do tại sao chúng tôi tạo ra chế độ duyệt web riêng tư { -brand-name-firefox } mạnh hơn các trình duyệt khác.
 features-private-browsing-browse-without = Duyệt web không để lại dấu vết

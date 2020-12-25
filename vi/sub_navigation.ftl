@@ -51,3 +51,4 @@ sub-navigation-privacy = Riêng tư
 sub-navigation-our-promise = Lời hứa của chúng tôi
 sub-navigation-our-products = Sản phẩm của chúng tôi
 sub-navigation-little-book-of-privacy = Cuốn sách nhỏ về quyền riêng tư
+sub-navigation-safe-passwords = Mật khẩu an toàn
