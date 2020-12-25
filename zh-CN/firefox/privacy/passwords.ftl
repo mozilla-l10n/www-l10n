@@ -20,6 +20,7 @@ privacy-passwords-make-your-answers = 密码强度要高，密保问题的答案
 privacy-passwords-use-a-password = 密码管理器助您更轻松地创建并记住密码
 privacy-passwords-use-twofactor-authentication = “双因子验证”，能用则用
 privacy-passwords-its-hard-out = 密码面临的处境
+privacy-passwords-most-logins-today = 当今大多数登录都受密码保护。如果攻击者可以获取您的密码，则他可以访问您的账户并完全控制该账户。因此，如果您想知道您的账户是否安全，您真正应该考虑的是您的密码是否安全。这意味着您必须考虑到攻击者可以通过多种方式来获取您账户的密码：
 privacy-passwords-seeing-you-use = 看到您在未加密的网站上使用
 privacy-passwords-guessing-it = 被猜到
 privacy-passwords-stealing-a-file = 包含密码的文件遭窃取
@@ -29,9 +30,11 @@ privacy-passwords-to-keep-your = 为了确保您的登录安全，您需要尽�
 privacy-passwords-look-for-the = 寻找浏览器中的锁
 privacy-passwords-its-easy-to = 防止攻击者在您登录未加密的网站时窃取您密码的方法十分简单：如果在地址栏中没有看到锁的图标，请在输入密码时保持谨慎，如下所示：
 privacy-passwords-a-closed-lock = 在所有主流浏览器的地址栏中，紧挨着网址旁都有一个锁。
+privacy-passwords-the-lock-means = 该锁表示您正在使用的网站已加密，因此即使有人在监视您在网络上的浏览活动（例如同一公共 WiFi 热点上的另一个人），他们也无法获取您的密码。 { -brand-name-firefox } 会在您将在未加密网站上输入密码时尝试警告您。
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
 privacy-passwords-your-browser-also = 您的浏览器还可以帮助您随时了解网站是否可信赖，防止网络钓鱼。当您尝试访问已知的钓鱼网站时，{ -brand-name-firefox }（以及任何主流浏览器）会显示全屏警告。<strong>若要继续访问，请三思而后行！</strong>
 privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
+privacy-passwords-in-general-the = 一般来说，防范网络钓鱼的最佳方法是<strong>对收到的东西保持怀疑</ strong>，不管是通过电子邮件、短信还是电话收到的。不要按别人给您发送的内容操作，而应直接访问相应网站。例如，一封电子邮件中说您需要重置 PayPal 密码，请不要点击邮件中的链接，而应自己在浏览器中输入 paypal.com。如果银行打来电话，请不要直接接通，之后再给他们回电。
 privacy-passwords-strength-in-diversity = 有差异，更安全
 privacy-passwords-the-secret-to = 防止被猜到、窃取或密码重置的秘诀是更强的随机性。当攻击者试图猜测密码时，他们通常会做两件事：1）使用“字典”——人们普遍使用的常用密码列表；2）进行一些随机猜测。<strong>您的密码越长、越随机</strong>，就越不可能被猜到。
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
@@ -47,6 +50,7 @@ privacy-passwords-now-all-of = 现在，所有这些听起来有点令人退却�
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = 当您使用 { -brand-name-firefox } 账户登录 { -brand-name-firefox } 时，您便可以跨所有设备同步，并在移动版 { -brand-name-firefox } 访问密码。在此处详细了解<a { $url_sumo-manager }>如何使用内置密码管理器</a>。
 privacy-passwords-twofactor-authentication-2fa = 双因子验证（2FA）
+privacy-passwords-2fa-is-a = 2FA 是提升安全性的好方法。设置新账户时，有些网站会为您提供在登录过程中添加“双因子验证”的选项。通常，这需要将您的电话号码链接到您的账户。因此，在输入密码后，系统会提示您输入直接发给您的安全代码。这样，即使黑客设法获得了您的密码，但他们没有您的手机，也就无法进入您的账户。
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 例如，您的 { -brand-name-firefox } 账户可以使用 2FA 进行保护，<a { $url_sumo_2fa }>您可在此详细了解</a>。
 #   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
