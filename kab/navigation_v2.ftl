@@ -68,6 +68,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Awi iminig { -brand-name-firefox } i yettwaxedmen i yineflayen kan.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Snirem web s yiminig { -brand-name-firefox } i tilawt tuhlist.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Mudd-d taɣect-ik.im akken imal n uzeṭṭa Web ad isel i medden merra.
 navigation-v2-webassembly = { -brand-name-webassembly }
