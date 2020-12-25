@@ -12,6 +12,9 @@ browser-history-before-web-era = Send tallit n web
 browser-history-web-era = Tallit n web
 browser-history-a-year-later-berners = Aseggas mbeɛd, Berners-Lee yessuter seg unelmad n tussnakt n CERN Nicola Pellow ad d-yaru iminig deg uskar deg uẓeṭṭa, ahil n yixfawen igejdanen n uselkim.
 browser-history-the-browser-wars = Ṭṭradat n yiminig
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = Deg 1995, { -brand-name-netscape } Navigator mačči d netta kan i d abrid i wakken ad tiliḍ srid. Aseɣzan acacfal n tsenselkimt { -brand-name-microsoft } yewwi-d turagt seg tengalt taqburt Mosaic syen yesnulfa-d asfaylu-ines ɣef le web, <a href="{ $ie }">{ -brand-name-ie }</a>. Tuffɣa-ines tesker lgerra. { -brand-name-netscape } d { -brand-name-microsoft } xedmen nnig tezmert-nsen i wakken ad d-snulfun ileqman imaynuten i wahilen-nsen, yal yiwen yettaɛraḍ amek ara d-uekk nnig wayeḍ s yifarisen iruraden, igerrzen.
 browser-history-browsing-the-web = Inig deg web ass-a
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
