@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title = Imal ha-t-an deg uzeṭṭa. Allel { -brand-name-mozilla } ad iḥareb i Web i medden merra.
+banner-fundraising-body = Isefka-nneɣ udmawanen ttwaleqḍen yal mi ara nerzu ɣer web, yerna mačči d ayen isehlen ad teẓreḍ d acu i yeḍran yid-sen. Yir talɣut tsiwɛir-aneɣ ugar anadi ɣef tidet. Ibenkan yeqqnen ɣer web ttasen-d ɣer ssuq s war aqadar n yilugan n tɣellist. Takebbanit { -brand-name-mozilla-foundation } ur nettnadi ɣef tedrimt, tekkat ad terr internet tettwaḍman, teldi, ad kecmen meṛṛa ɣer-s yimdanen. <strong>Ad d-tmuddeḍ tawsa, ass-a?</strong>
 banner-fundraising-monthly = S wayyur
 banner-fundraising-one-time = Tura
 banner-fundraising-donate = Mudd tawsa
