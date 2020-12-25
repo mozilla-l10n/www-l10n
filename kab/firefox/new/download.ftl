@@ -66,4 +66,7 @@ firefox-new-please-follow = Ma ulac aɣilif, ḍfer <a href="{ $url }">iwellihen
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Anagraw-ik·im ur igbir ara ayen i iwulmen i { -brand-name-firefox }, acu kan ɛreḍ yiwen seg <a href="{ $url }">yileqman-a</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Ma yella twalaḍ alɣu i d-yeskanayen asnas i tettaɛraḍeḍ ad tesbeddeḍ mačči d asnas yettusneqden { -brand-name-microsoft }, sit ɣef “Sebded ɣas akken” neɣ <a { $attrs }>senfel iɣewwaren n uwelleh n usnas</a>.
 firefox-new-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
