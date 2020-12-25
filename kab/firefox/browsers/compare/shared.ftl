@@ -42,6 +42,7 @@ compare-shared-utility-strong = <strong>Tixxutert</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Aɛebbi</strong>
 compare-shared-overall-assessment = Aktazal amatu
+compare-shared-the-comparisons-made-here-updated = Iserwas i yettwaxedmen da, ttwagent akked yiɣewwaren imezwer d yileqman n tuffɣa n yiminigen akka:
 # Obsolete string
 compare-shared-the-comparisons-made-here = Iserwas yettwaxedmen da mmugen am wid yettwaxedmen gar yileqman n yileqman n yiminig, akka:
 compare-shared-this-page-updated-semi-quarterly = Asebter-a yettwaleqqam yal tlata wagguren akken ad d-iban deg yileqman ineggura, akken yezmer daɣen ur d-ttbanen ara yileqman ineggura.
