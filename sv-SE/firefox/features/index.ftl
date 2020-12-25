@@ -29,6 +29,7 @@ features-index-open-source-minds = Öppen källa. Öppna sinnen.
 features-index-mozilla-creates = { -brand-name-mozilla } skapar kraftfull webbteknologi för alla.
 features-index-see-what-makes-us-different = Se vad som gör oss annorlunda
 features-index-by-non-profit-mozilla = Av ideella, { -brand-name-mozilla }
+features-index-by-not-for-profit-mozilla = Av den ideella organisationen, { -brand-name-mozilla }
 features-index-keep-corporate-power = Håll företagets makt i schack
 features-index-independent-browser = { -brand-name-firefox } är den enda stora oberoende webbläsaren.
 features-index-on-a-mission = På uppdrag att hålla internet öppet och tillgängligt för alla.
