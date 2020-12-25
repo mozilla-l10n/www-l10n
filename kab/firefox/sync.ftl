@@ -9,3 +9,7 @@ firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-sync-your-firefox = Mtawi { -brand-name-firefox }-inek·inem ɣef yal ibenk
 firefox-sync-all-you-need = Ayen akk i teḥwaǧeḍ i { -brand-name-firefox-sync } d { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Wgelhen isefka-inek·inem
+firefox-sync-your-encryption-key = Tasarut-ik·im n uwgelhen ad teqqim d tuffirt, ala kečč·kemm i tt-yeẓran d yibenkan yettusirgen.
+firefox-sync-feel-safe = Ḥalfu s laman
+firefox-sync-we-store-your = Nettarra isefka-inek·inem yettwawgelhen ɣef yiqeddacen-nneɣ, ihi ur tezmireḍ ara ad ten-teɣreḍ.
+firefox-sync-start-syncing-in = Bdu amtawi s wukkuẓ n yiḥricen isehlen:
