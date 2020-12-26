@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Существует способ защитить вашу приватность. Присоединяйтесь к { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Создайте { -brand-name-firefox-account(case: "nominative") } – Храните свои личные данные в безопасности и синхронизируйте их
+firefox-accounts-get-a-firefox-account = Создайте { -brand-name-firefox-account } – Храните свои личные данные в безопасности и синхронизируйте их
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Выступите против отрасли, которая продаёт ваши данные сторонним лицам. Будьте умны и оставайтесь в безопасности в Интернете с технологиями, которые борются за ваши права.
 # Old HTML page description
