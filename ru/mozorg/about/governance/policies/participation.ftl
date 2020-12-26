@@ -33,7 +33,7 @@ participation-these-guidelines-outline = В данных Правилах изл
 participation-working-in-mozilla = Работа в пространствах Проекта { -brand-name-mozilla }.
 participation-working-with-other = Работа с другими сотрудниками Проекта { -brand-name-mozilla } и другими участниками сообщества { -brand-name-mozilla } в виртуальном и офлайн-пространстве.
 participation-representing-mozilla = Представление { -brand-name-mozilla } на публичных мероприятиях.
-participation-representing-mozilla-social = Представление { -brand-name-mozilla } в социальных сетях (официальные учетные записи, учетные записи сотрудников, личные учетные записи, страницы { -brand-name-facebook }).
+participation-representing-mozilla-social = Представление { -brand-name-mozilla } в социальных сетях (официальные, личные и учётные записи сотрудников, страницы в { -brand-name-facebook(case: "prepositional") }).
 participation-participating-in-mozilla = Участие в выездных мероприятиях и тренингах { -brand-name-mozilla }.
 participation-participating-in-mozilla-related = Участие в форумах, связанных с деятельностью { -brand-name-mozilla }, рассылках, wiki-страницах, сайтах, чатах, исправлению ошибок, групповых и личных встречах, а также переписке, связанной с деятельностью { -brand-name-mozilla }.
 participation-these-guidelines-work = Данные Правила действуют в сочетании с нашей Политикой борьбы с домогательствами и дискриминацией<a href="{ $note1 }">[1]</a>, в которой изложены меры защиты и обязанности сотрудников { -brand-name-mozilla }. Политика борьбы с домогательствами и дискриминацией разработана с учетом конкретных юридических определений и требований.

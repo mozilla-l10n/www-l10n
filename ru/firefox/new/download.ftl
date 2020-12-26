@@ -21,7 +21,7 @@ firefox-new-download-firefox-for-windows = Загрузить { -brand-name-fire
 firefox-new-download-firefox-for-macos = Загрузить { -brand-name-firefox } <br>для { -brand-name-mac }
 firefox-new-download-firefox-for-linux = Загрузить { -brand-name-firefox } <br>для { -brand-name-linux }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-new-youve-already-got-the-browser = У вас уже есть браузер. Теперь получите ещё больше от { -brand-name-firefox }.
+firefox-new-youve-already-got-the-browser = У вас уже есть браузер. Теперь вы можете получить ещё больше от { -brand-name-firefox }.
 firefox-new-watch-for-hackers-with = Следите за хакерскими атаками с помощью { -brand-name-firefox-monitor }, защищайте пароли с помощью { -brand-name-firefox-lockwise } и многое другое.
 firefox-new-get-more-from-firefox = Получите больше от { -brand-name-firefox }
 firefox-new-free-web-browser = Бесплатный веб-браузер
@@ -33,7 +33,7 @@ firefox-new-need-help = Нужна помощь?
 firefox-new-see-whats-being-blocked = Посмотрите, что блокируется
 firefox-new-make-your-passwords-portable = Сделайте свои пароли переносимыми
 firefox-new-watch-for-data-breaches = Отслеживайте утечки данных
-firefox-new-connect-to-a-whole-family = Подключитесь к целой семье уважающих вас продуктов, а также ко всем знаниям, необходимым для защиты себя в Интернете.
+firefox-new-connect-to-a-whole-family = Подключитесь к целой семье уважающих вас продуктов, а также получите доступ ко всем знаниям, необходимым для защиты себя в Интернете.
 firefox-new-passwords-made-portable = Пароли стали переносимыми
 firefox-new-protect-your-privacy = Защитите свою приватность
 firefox-new-private-browsing-clears = <strong>Приватный просмотр</strong> удаляет вашу историю, чтобы держать её в тайне от других людей, которые используют этот компьютер.
@@ -44,7 +44,7 @@ firefox-new-just-download-the-browser = Просто загрузить брау
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больше не предоставляет обновления безопасности</a> на { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }, но вы всё ещё можете использовать { -brand-name-firefox }.
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больше не выпускает обновлений безопасности</a> браузера для { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }, но вы всё ещё можете использовать { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

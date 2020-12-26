@@ -44,7 +44,7 @@ newsletters-format = Формат:
 newsletters-text-subscribers-will-receive = Подписчики на текстовые подписки будут получать по электронной почте два раза в год письма для подтверждения продолжения подписки. Эти письма могут включать в себя HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-firefox-accounts(case: "nominative_uppercase") }, аккаунту на сайте { -brand-name-mdn-web-docs } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
+newsletters-many-of-our-communications = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-firefox-accounts(case: "dative") }, профилю на сайте { -brand-name-mdn-web-docs(case: "genitive") } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Чтобы получить доступ к целому миру продуктов, знаний и сервисов { -brand-name-firefox } с помощью одного аккаунта, присоединитесь к нам! Узнайте больше о преимуществах <a href="{ $url }">здесь</a>.
@@ -199,7 +199,7 @@ newsletters-download-firefox-for-ios = Загрузить { -brand-name-firefox 
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Загрузите { -brand-name-firefox } для мобильных устройств
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Советы по { -brand-name-firefox-accounts }
+newsletters-firefox-accounts-tips = Советы по { -brand-name-firefox-accounts(case: "dative") }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
 newsletters-get-the-most-firefox-account = Возьмите максимум от своего { -brand-name-firefox-account(case: "genitive") }.
 # Name for the newsletter in Newsletter subscription page

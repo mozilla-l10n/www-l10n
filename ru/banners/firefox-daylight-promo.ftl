@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 banner-firefox-daylight-promo-title = Новый { -brand-name-firefox } для { -brand-name-android } и { -brand-name-ios } уже здесь
-banner-firefox-daylight-promo-button = Получите его сейчас
+banner-firefox-daylight-promo-button = Загрузить сейчас

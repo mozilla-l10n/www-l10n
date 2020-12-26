@@ -5,4 +5,4 @@
 banner-firefox-daylight-launch-title = Представляем нашу последнюю версию { -brand-name-firefox } для { -brand-name-android } — { -brand-name-firefox-daylight }.
 banner-firefox-daylight-launch-title-updated = Представляем новый { -brand-name-firefox } для { -brand-name-android } — { -brand-name-firefox-daylight }.
 banner-firefox-daylight-launch-intro = Значительно переработанный браузер стал более быстрым, лёгким в использовании, настраиваемым и приватным.
-banner-firefox-daylight-launch-button = Получите его сейчас
+banner-firefox-daylight-launch-button = Загрузить сейчас
