@@ -117,6 +117,68 @@ firefox-desktop-download-get-firefox-android = Va per { -brand-name-firefox-brow
 firefox-desktop-download-get-firefox-ios = Va per { -brand-name-firefox-browser } per <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Telechargia il navigatur { -brand-name-firefox } per apparats mobils per proteger automaticamain tut tes apparats.
 firefox-desktop-download-learn-about-the = Ulteriuras infurmaziuns davart il navigatur { -brand-name-firefox } per computers suondan sutvart
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Da la segirezza fin als gieus, i dat ina <a { $attrs }>extensiun per mintign</a>. Agiuntescha quantas che ti vuls enfin ch'il navigatur è perfetg per tai.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è vegnì creà da <a { $attrs }>{ -brand-name-mozilla }</a> sco alternativa pli svelta, pli privata a navigaturs sco { -brand-name-ie } ed ussa { -brand-name-chrome }. Anc oz essan nus ina interpresa cun princips che sa basa sin ina communitad da voluntaris e metta las persunas en il center, betg il profit.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Fertant che l'internet crescha e sa mida, sa concentrescha { -brand-name-firefox } vinavant sin la protecziun da datas — nus numnain quai l'<a { $attrs }>engaschi per las datas persunalas</a>: Rimnar pauc, memorisar a moda segira e na zuppentar nagut. Tias datas, tias activitads en il web e tia vita online èn protegidas cun { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } è disponibel per tut tes apparats; prenda tes tabs, tia cronologia e tes segnapaginas cun tai. Ti dovras be in <a { $attrs }>conto da { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Fa in maletg cun buna resoluziun dad x insatge che ti chattas en il web cun l'utensil <a { $attrs }>maletg dal visur</a> integrà en il navigatur
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blochescha automaticamain blers fastizaders da terzas partidas</a> che rimnan e vendan datas davart tias activitads en il web.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Dumondas? <a { $attrs }>L'agid da { -brand-name-mozilla }</a> stat a tia disposiziun.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Ti has gia il navigatur. Va ussa anc per dapli da { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Surveglia ils hackers cun { -brand-name-firefox-monitor }, protegia ils pleds-clav cun { -brand-name-firefox-lockwise } e dapli.
+firefox-desktop-download-get-more-from-firefox = Va per dapli da { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Mo telechargiar il navigatur
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Quasi fatg!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Terminescha ussa <strong>l'installaziun</strong> da { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Exequescha</strong> ussa il program d'installaziun gist telechargià.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Avra</strong> ussa la datoteca gist telechargiada.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Has difficultads? <a { $attrs }>Ta lascha gidar cun l'installaziun</a>.
+firefox-desktop-download-in-another-language = Telechargiar en in'autra lingua u per in auter sistem operativ.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Sche ti vesas in'annunzia che pretenda che l'app che ti emprovas dad installar na saja betg ina app verifitgada per { -brand-name-microsoft }, clicca sin il buttun per tuttina installar u <a { $attrs }>mida ils parameters per l'installaziun dad apps</a>.
+firefox-desktop-download-visit-support-for-more = Visita l'agid per ulteriuras infurmaziuns
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">na porscha naginas actualisaziuns da segirezza pli</a> sin { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }, ma ti pos anc adina utilisar { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Ti utiliseschas in sistem operativ antiquà e malsegir che <a href="{ $url }">na vegn betg pli sustegnì da { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Tia telechargiada duess cumenzar automaticamain. Betg funcziunà? <a id="{ $id }" href="{ $fallback_url }">Emprova anc ina giada da telechargiar.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è dapli ch'in navigatur.
+firefox-desktop-download-interrupted = Tia telechargiada è interrutta. Ma betg tut è pers.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Suonda per plaschair <a href="{ $url }">questas instrucziuns</a> per installar { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Tes sistem n'ademplescha forsa betg las pretensiuns per { -brand-name-firefox }, ti pos dentant empruvar cun ina da <a href="{ $url }">questas versiuns</a>.

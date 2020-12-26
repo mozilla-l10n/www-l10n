@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Ti es per telechargiar:
 firefox-all-browser = Navigatur:
 firefox-all-platform = Plattafurma:
 firefox-all-language = Lingua:
+firefox-all-lang-multi = Pliras linguas
 firefox-all-sorry-we-couldnt-find = Perstgisa, nus n'avain betg chattà la telechargiada che ti tschertgas. Emprova per plaschair anc ina giada u tscherna ina telechargiada en la glista sutvart.
 firefox-all-the-pre-alpha-version = La versiun pre-alfa per utilisaders experts che vulan gugent tschertgar collaps e testar novas funcziunalitad uschespert ch'ellas èn programmadas.
 firefox-all-64-bit-installers = Programs d'installaziun 64 bits
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Questa varianta da { -brand-name-firefox } 
 firefox-all-windows-installers-for = Programs d'installaziun per ambients informatics da Windows en interpresas che simplifitgeschan la configuraziun, l'implementaziun e l'administraziun da { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programs d'installaziun ARM64/AArch64
 firefox-all-arm64-installers-optimized = Programs d'installaziun ARM64/AArch64 optimads per PCs cun { -brand-name-windows } e processurs Snapdragon.
+firefox-all-product-send-link = Trametter ina colliaziun per telechargiar a tes telefonin
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tscherna in program d'installaziun da 32 bits per computers cun processurs da 32 bits — u per computers pli vegls u main ferms. <a href="{ $url }">Sche ti na pos betg ta decider</a> per in program d'installaziun da 64 bits u in da 32 bits, ta recumandain nus d'installar la versiun da 32 bits.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
