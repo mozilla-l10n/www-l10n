@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Privat nettlesing med ekstra sporingsvern
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } vernar om privatlivet ditt og blokkerer sporarar som følgjer deg rundt om på nettet.
+features-private-browsing-download-firefox = Last ned { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Meir vern. Mindre uro.
 features-private-browsing-were-obsessed-with = Vi er besette av å beskytte personvernet ditt. Det er derfor vi har gjort { -brand-name-firefox } privat nettlesing kraftigare enn dei andre.
 features-private-browsing-browse-without = Surf sporlaust

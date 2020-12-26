@@ -45,3 +45,5 @@ features-index-stack-up = Sjå korleis { -brand-name-firefox } vert samanlikna m
 features-index-compare-browsers = Samanlikning av nettlesarar
 features-index-see-themes = Sjå dei beste temaa
 features-index-download-latest = Last ned siste { -brand-name-firefox }
+features-index-translate-the-web = Omset nettet
+features-index-translate-to-your = Omset til ditt språk
