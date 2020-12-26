@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } ifarisen ttufeṣṣlen i wakken ad mmestnen tabaḍnit-ik·im.
+learn-more-about-firefox = Issin ugar ɣef { -brand-name-firefox }, azray-ines, timahilin-ines d tuɣdaḍt-ines.
 easy-migration-of = Tunigin fessusen n yismenyifen d tecraḍ n yisebtar ticki tsadreḍ-d { -brand-name-firefox } i { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } yettqadar tabaḍnit-ik·im ɣef { -brand-name-mac-short }.
 firefox-doesnt-spy = { -brand-name-firefox } ur yessikid ara ayen tettnadiḍ. Nesseḥbas inagan n tuqqna n wis kraḍ yettwassnen i ak·akem-yeṭṭafaren, ad ak·am-imudd meṛṛa asenqed.
