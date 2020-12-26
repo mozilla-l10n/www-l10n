@@ -45,7 +45,7 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000’den fazla izleyiciyi otomatik olarak engelliyoruz
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-tracking-has-become-an = İzleme çevrimiçi bir salgın haline geldi: şirketler her hareketi, tıklamayı ve satın alma işlemini takip ediyor, bir sonraki adımda ne yapacağınızı tahmin etmek ve etkilemek için veri topluyor. Bunun gizliliğinize büyük bir saldırı olduğunu düşünüyoruz. Bu nedenle { -brand-name-firefox } mobil ve masaüstü tarayıcılarında varsayılan olarak Gelişmiş İzlenme Koruması vardır.
+firefox-privacy-hub-tracking-has-become-an = İzleme çevrimiçi bir salgın haline geldi: Şirketler her hareketi, tıklamayı ve satın alma işlemini takip ediyor, bir sonraki adımda ne yapacağınızı tahmin etmek ve etkilemek için veri topluyor. Bunun gizliliğinize büyük bir saldırı olduğunu düşünüyoruz. Bu nedenle mobil ve masaüstü { -brand-name-firefox } tarayıcılarında varsayılan olarak Gelişmiş İzlenme Koruması var.
 firefox-privacy-hub-if-you-want-to-see-what = { -brand-name-firefox }’un neleri engellediğini görmek isterseniz masaüstü { -brand-name-firefox } tarayıcınızda bu sayfayı ziyaret edin.
 firefox-privacy-hub-see-what-firefox-has-blocked = { -brand-name-firefox }’un sizin için neleri engellediğini görün
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -57,7 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Sizi takip edemeyecek dört t
 firefox-privacy-hub-always-in-your-control = Her zaman kontrolünüz altında
 firefox-privacy-hub-want-to-customize-what = Engellenenleri özelleştirmek mi istiyorsunuz? Ayarlarınız yalnızca bir tık uzağınızda.
 firefox-privacy-hub-protection-beyond-tracking = İzlemenin ötesinde koruma
-firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account } hesabınız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
+firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account }nız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } kullanıcıları için her gün en az { $trackers } takipçiyi engelliyoruz
