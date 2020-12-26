@@ -13,7 +13,7 @@ what-is-firefox = Что такое { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
-how-do-i = Как мне получить { -brand-name-firefox-browser }?
+how-do-i = Как мне загрузить { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -23,31 +23,41 @@ how-do-i = Как мне получить { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } бесплатен?
+is-chrome-better = { -brand-name-chrome } лучше, чем { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = Безопасно ли загружать { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = { -brand-name-firefox } безопасен?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = Продает ли { -brand-name-firefox } ваши личные данные?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Почему { -brand-name-firefox } такой медленный?
+is-firefox-chromium = { -brand-name-firefox } основан на { -brand-name-chromium }?
+does-firefox-use = Использует ли { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Есть ли в { -brand-name-firefox } встроенный VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = Связанные вопросы: скрывает ли { -brand-name-firefox } ваш IP-адрес
+who-owns-firefox = Кому принадлежит { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

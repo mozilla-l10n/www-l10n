@@ -11,3 +11,10 @@ features-translate-translate-the-web-title = Переводите Интерне
 features-translate-translate-more-than = Переводите с более 100 языков на свой язык прямо в { -brand-name-firefox-browser(case: "prepositional") } — проще, чем когда-либо раньше.
 features-translate-translate-the-web = Переводите Интернет с помощью { -brand-name-firefox }
 features-translate-to-google-translate = To { -brand-name-google } Translate
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-the-extension = Загрузить расширение
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *С помощью расширения To { -brand-name-google } Translate, вы можете переводить на <a { $attrs }>следующие языки</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> и многие другие!</a>
+features-translate-for-everyone = Firefox для всех и каждого
