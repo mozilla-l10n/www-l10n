@@ -21,6 +21,7 @@ securely-access-the = Получите безопасный доступ к па
 choose-which-firefox = Выберите, какой { -brand-name-firefox-browser } загрузить на вашем языке
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser(case: "nominative_uppercase") } для { -brand-name-chromebook }
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } произвел революцию в разработке { -brand-name-firefox }. В 2017 году мы создали новый, молниеносно быстрый браузер, который постоянно совершенствуется. { -brand-name-firefox-quantum } — это { -brand-name-firefox-browser }.
 firefox-more-little-book = Маленькая книга по приватности
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-fights-for = { -brand-name-firefox } борется за вас на { -brand-name-windows }
