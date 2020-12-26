@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
 
 whatsnew-page-title = Что нового в { -brand-name-firefox } — Ещё больше приватности, больше защиты.
-whatsnew-page-description = Выступи против отрасли, которая продаёт твои данные сторонним лицам. Принимай умные решения и оставайся в безопасности в Интернете с технологиями, которые борются за твои права.
+whatsnew-page-description = Выступите против отрасли, которая продаёт ваши данные сторонним лицам. Принимайте умные решения и оставайтесь в безопасности в Интернете с технологиями, которые борются за ваши права.
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification = Поздравляем! Ты используешь последнюю версию { -brand-name-firefox-browser(case: "genitive") }.
-whatsnew-out-of-date-notification = Доступен ещё более новый { -brand-name-firefox-browser(case: "nominative") }. Перезапусти для обновления.
+whatsnew-up-to-date-notification = Поздравляем! Вы используете последнюю версию { -brand-name-firefox-browser(case: "genitive") }.
+whatsnew-out-of-date-notification = Доступен ещё более новый { -brand-name-firefox-browser }. Перезапустите для обновления.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Прочитай <a href="{ $url }">примечания к выпуску</a>, чтобы узнать больше о том, что нового в твоём браузере { -brand-name-firefox }.
+whatsnew-release-notes = Прочитайте <a href="{ $url }">примечания к выпуску</a>, чтобы узнать больше о том, что нового в вашем браузере { -brand-name-firefox }.

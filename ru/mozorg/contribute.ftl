@@ -33,6 +33,7 @@ contribute-mission-desc = Наша миссия состоит в том, что
 contribute-learn = Узнайте о { -brand-name-mozilla }
 contribute-read-manifesto = Прочитать наш Манифест
 contribute-find-event = Найти событие
+contribute-meet-volunteers = Познакомьтесь с нашими активными волонтёрами
 contribute-donate = Пожертвуйте
 contribute-help-fund = Помогите финансировать нашу миссию
 contribute-follow-mozilla = Подпишитесь на { -brand-name-mozilla }

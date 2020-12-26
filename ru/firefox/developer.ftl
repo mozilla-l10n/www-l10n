@@ -10,7 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } - очень быстрый браузер, предоставляющий доступ к передовым технологиям и последним разработкам, например, он поддерживает CSS-сетки и отладку веб-приложений на основе фреймворков
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Добро пожаловать в ваш новый любимый браузер. Получите доступ к новым функциям, повышенной производительности и инструментам разработчика, которые понадобятся вам для построения открытого Интернета.
 firefox-developer-speak-up = Выскажитесь
 firefox-developer-feedback-makes-us = Отзывы делают нас лучше. Расскажите нам, как мы можем улучшить браузер и инструменты веб-разработчика.
@@ -78,3 +78,6 @@ firefox-developer-welcome-to-the-all-new = Добро пожаловать в п
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } был перестроен с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
 firefox-developer-congrats-you-now-have-firefox = Поздравляем. Теперь у вас установлен { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Это не просто обновление. Это { -brand-name-firefox-quantum }: Совершенно новый { -brand-name-firefox }, который был перестроен с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
+firefox-developer-welcome-to-firefox-browser = Добро пожаловать в { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Браузер, созданный для разработчиков
+firefox-developer-congrats-you-now-have = Поздравляем. Теперь у вас установлен { -brand-name-firefox-browser } { -brand-name-developer-edition }.

@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = Создайте бесплатный аккаунт, чтобы защитить свою приватность. Присоединяйтесь к { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Аккаунт не обязателен. Но вы можете захотеть создать его.
-welcome-page3-the-firefox-browser-collects = Браузер { -brand-name-firefox } собирает о вас так мало данных, что нам даже не требуется ваш адрес электронной почты. Но если вы используете его для создания { -brand-name-firefox-account(case: "genitive") }, мы сможем лучше защитить вашу приватность при вашем пребывании в Интернете.
+welcome-page3-the-firefox-browser-collects = Браузер { -brand-name-firefox } собирает о вас так мало данных, что нам даже не требуется ваш адрес электронной почты. Но если вы будете использовать его для создания { -brand-name-firefox-account(case: "genitive") }, мы сможем лучше защищать вашу приватность при вашем пребывании в Интернете.
 welcome-page3-sign-in = Войти
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = По крайней мере одна компания всегда настороже ваших данных, вместо того, чтобы их разглашать.

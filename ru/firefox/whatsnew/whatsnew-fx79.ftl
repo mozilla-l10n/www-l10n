@@ -29,9 +29,9 @@ whatsnew79-take-less-keep-it-safe = Собирать меньше. Держат�
 # CTA link
 whatsnew79-read-more = Подробнее
 whatsnew79-keep-facebook-contained = Держите { -brand-name-facebook } в контейнере
-whatsnew79-get-the-power-to-prevent = Получите возможность запретить { -brand-name-facebook } и { -brand-name-instagram } следить за вами в Интернете.
+whatsnew79-get-the-power-to-prevent = Получите возможность запретить { -brand-name-facebook(case: "dative") } и { -brand-name-instagram(case: "dative") } следить за вами в Интернете.
 # CTA link
-whatsnew79-add-facebook-container = Добавьте { -brand-name-facebook-container }
+whatsnew79-add-facebook-container = Установите { -brand-name-facebook-container }
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Установите { -brand-name-firefox } на ваш телефон
 whatsnew79-scan-the-qr-code = Отсканируйте QR-код, чтобы начать

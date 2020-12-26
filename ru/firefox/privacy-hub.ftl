@@ -57,7 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Познакомьтесь с
 firefox-privacy-hub-always-in-your-control = Всегда под вашим контролем
 firefox-privacy-hub-want-to-customize-what = Хотите настроить, что блокируется? Ваши настройки находятся на расстоянии одного щелчка.
 firefox-privacy-hub-protection-beyond-tracking = Защита за пределами отслеживания
-firefox-privacy-hub-if-you-have-a-firefox-account = Если у вас есть { -brand-name-firefox-account(case: "nominative_uppercase") }, вы также можете увидеть, как мы помогаем вам защитить вашу личную информацию и пароли.
+firefox-privacy-hub-if-you-have-a-firefox-account = Если у вас есть { -brand-name-firefox-account }, вы также можете увидеть, как мы помогаем вам защитить вашу личную информацию и пароли.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Ежедневно для пользователей { -brand-name-firefox } по всему миру блокируется более { $trackers } трекеров
