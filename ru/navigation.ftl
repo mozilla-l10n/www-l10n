@@ -5,7 +5,7 @@
 navigation-download-firefox = Загрузить { -brand-name-firefox }
 navigation-get-a-firefox-account = Создать { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(case: "nominative_uppercase") } для компьютеров
-navigation-get-the-browser-that-respects = Загрузите браузер, который уважает вашу приватность из коробки. На { -brand-name-windows }, { -brand-name-mac } или { -brand-name-linux }.
+navigation-get-the-browser-that-respects = Загрузите браузер, который уважает вашу приватность «из коробки». На { -brand-name-windows }, { -brand-name-mac } или { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(case: "nominative_uppercase") } для мобильных
 navigation-take-speed-privacy-and = Возьмите скорость, приватность и душевное спокойствие с собой. На { -brand-name-android } и { -brand-name-ios }.
 navigation-download-for-ios = Загрузить для { -brand-name-ios }

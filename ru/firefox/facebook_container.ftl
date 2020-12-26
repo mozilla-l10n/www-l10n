@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } для { -brand-name-firefox } | Запретите { -brand-name-facebook(case: "dative") } смотреть, какие сайты вы посещаете.
-facebook-container-millions-of-people-around = Миллионы людей по всему миру доверяют веб-браузерам { -brand-name-firefox } на { -brand-name-android }, { -brand-name-ios } и настольных компьютерах. Быстрые. Приватные. Загрузите их прямо сейчас!
+facebook-container-millions-of-people-around = Миллионы людей по всему миру доверяют веб-браузерам { -brand-name-firefox } на { -brand-name-android }, { -brand-name-ios } и компьютерах. Быстрые. Приватные. Загрузите их прямо сейчас!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Надёжно изолирован. Держите свою жизнь при себе.
 facebook-container-get-the-facebook-container = Загрузить расширение { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Загрузите { -brand-name-firefox } и установите расширение { -brand-name-facebook-container }
@@ -32,5 +32,5 @@ facebook-container-installing-the-extension-is = Установите <a href="{
 facebook-container-about-firefox-and-mozilla = О { -brand-name-firefox } и { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = За нами стоит <a href="{ $mozilla }">{ -brand-name-mozilla }</a> - некоммерческая организация, которая ставит права людей выше прибыли и борется за обеспечение равных прав в Интернете для всех и каждого. Мы создали это расширение, потому что убеждены в том, что вы должны иметь простые инструменты, которые помогут вам управлять своей приватностью и безопасностью.
+facebook-container-were-backed-by-mozilla-the = За нами стоит <a href="{ $mozilla }">{ -brand-name-mozilla }</a> — некоммерческая организация, которая ставит права людей выше прибыли и борется за обеспечение равных прав в Интернете для всех и каждого. Мы создали это расширение, потому что убеждены в том, что вы должны иметь простые инструменты, которые помогут вам управлять своей приватностью и безопасностью.
 facebook-container-browse-freely-with-firefox = Сёрфите сегодня свободно с { -brand-name-firefox }.

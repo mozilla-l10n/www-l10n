@@ -45,11 +45,11 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Более 2000 трекеров блокируются — автоматически
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-tracking-has-become-an = Отслеживание превратилось в онлайн-эпидемию: компании следят за каждым шагом, щелчком и покупкой, собирая данные, чтобы предсказать и повлиять на то, что вы будете делать дальше. Мы считаем, что это грубое вторжение в вашу личную жизнь. Вот почему в мобильных и настольных браузерах { -brand-name-firefox } по умолчанию включена Улучшенная защита от отслеживания.
+firefox-privacy-hub-tracking-has-become-an = Отслеживание превратилось в онлайн-эпидемию: компании следят за каждым шагом, щелчком и покупкой, собирая данные, чтобы предсказать и повлиять на то, что вы будете делать дальше. Мы считаем, что это грубое вторжение в вашу личную жизнь. Вот почему в мобильных и компьютерных браузерах { -brand-name-firefox } по умолчанию включена Улучшенная защита от отслеживания.
 firefox-privacy-hub-if-you-want-to-see-what = Если вы хотите узнать, что { -brand-name-firefox } блокирует для вас, посетите эту страницу в своем браузере { -brand-name-firefox }.
 firefox-privacy-hub-see-what-firefox-has-blocked = Узнайте, что { -brand-name-firefox } для вас заблокировал
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-get-enhanced-tracking-protection = Получите улучшенную защиту от отслеживания
+firefox-privacy-hub-get-enhanced-tracking-protection = Получите доступ к Улучшенной защите от отслеживания
 firefox-privacy-hub-download-the-firefox-browser = Загрузить браузер { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Обновить свой браузер { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Невидимый для топовых трекеров
@@ -72,7 +72,7 @@ firefox-privacy-hub-we-cant-see-the-names-or = Мы не можем видеть
 firefox-privacy-hub-send-a-file = Отправить файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } рекомендует высококачественные, выбранные людьми статьи, не собирая данные из вашей истории просмотра и не делясь вашей личной информацией с рекламодателями.
-firefox-privacy-hub-get-pocket = Получить { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Загрузить { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
 firefox-privacy-hub-all-the-information-synced = Вся информация, синхронизируемая через ваш { -brand-name-firefox-account } — от истории браузера до паролей — зашифрована. И пароль вашего аккаунта — единственный ключ.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Сохраняйте приватность и закладки везде с помощью { -brand-name-firefox-account(case: "genitive") }.

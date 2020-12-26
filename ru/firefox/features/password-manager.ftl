@@ -8,7 +8,7 @@
 # HTML page title
 password-manager-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }: Быстрый и лёгкий менеджер паролей
 # HTML page description
-password-manager-firefox-password = Менеджер паролей { -brand-name-firefox } сохраняет все ваши пароли в одном месте, так что вы можете автоматически входить на сайты или увидеть сохранённые пароли.
+password-manager-firefox-password = Менеджер паролей { -brand-name-firefox } сохраняет все ваши пароли в одном месте, так что вы сможете автоматически входить на сайты или видеть сохранённые пароли.
 # Hero title
 password-manager-password-manager = Достижение «Менеджер Паролей» разблокировано
 password-manager-give-up-the-memory = Сдайтесь в игре на память с менеджером паролей { -brand-name-firefox }.
