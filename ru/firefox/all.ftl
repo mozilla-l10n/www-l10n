@@ -23,10 +23,10 @@ firefox-all-64-bit-installers = 64-битные установщики
 firefox-all-choose-a-64-bit-installer = Выберите 64-битный установщик для компьютеров с 64-разрядными процессорами, которые позволяют им выделять больше оперативной памяти отдельным программам, что особенно важно для игр и других требовательных приложений.
 firefox-all-32-bit-installers = 32-битные установщики
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Загрузите { -brand-name-firefox-browser(case: "nominative") } на русском и более чем на 90 других языках
+firefox-all-download-the-firefox = Загрузите { -brand-name-firefox-browser } на русском и более чем на 90 других языках
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Любой человек имеет право на доступ в Интернет — язык никогда не должен становиться барьером. Вот почему — с помощью преданных волонтёров по всему миру — мы делаем { -brand-name-firefox-browser(case: "nominative") } доступным на более чем 90 языках.
-firefox-all-choose-which-firefox = Выберите, какой { -brand-name-firefox-browser(case: "nominative") } загрузить на вашем языке
+firefox-all-everyone-deserves-access = Любой человек имеет право на доступ в Интернет — язык никогда не должен становиться барьером. Вот почему — с помощью преданных волонтёров по всему миру — мы делаем { -brand-name-firefox-browser } доступным на более чем 90 языках.
+firefox-all-choose-which-firefox = Выберите, какой { -brand-name-firefox-browser } загрузить на вашем языке
 firefox-all-firefox-privacy-notice = Уведомление о конфиденциальности { -brand-name-firefox }
 firefox-all-learn-about-firefox = Узнайте о браузерах { -brand-name-firefox }
 firefox-all-the-standard-firefox = Стандартный браузер { -brand-name-firefox } — быстрый и приватный. Если вы не уверены, какой { -brand-name-firefox } выбрать, выберите этот.
@@ -55,7 +55,7 @@ firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
 firefox-all-product-firefox-nightly = { -brand-name-firefox-nightly }
 firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release }
-firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
-firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
-firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-android = { -brand-name-firefox } для { -brand-name-android }
+firefox-all-product-firefox-android-beta = { -brand-name-firefox } для { -brand-name-android } { -brand-name-beta }
+firefox-all-product-firefox-android-nightly = { -brand-name-firefox } для { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

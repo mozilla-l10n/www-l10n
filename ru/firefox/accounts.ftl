@@ -8,18 +8,18 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Существует способ защитить вашу приватность. Присоединяйтесь к { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Создайте { -brand-name-firefox-account(case: "nominative_uppercase") } – Храните свои личные данные в безопасности и синхронизируйте их
+firefox-accounts-get-a-firefox-account = Создайте { -brand-name-firefox-account(case: "nominative") } – Храните свои личные данные в безопасности и синхронизируйте их
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Выступите против отрасли, которая продаёт ваши данные сторонним лицам. Будьте умны и оставайтесь в безопасности в Интернете с технологиями, которые борются за ваши права.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Безопасно синхронизируйте свои пароли, закладки и вкладки между всеми своими устройствами. Создайте { -brand-name-firefox-account(case: "nominative_uppercase") } сейчас – Один аккаунт – Мощь и приватность повсюду.
+firefox-accounts-securely-sync-your = Безопасно синхронизируйте свои пароли, закладки и вкладки между всеми своими устройствами. Создайте { -brand-name-firefox-account } сейчас – Один аккаунт – Мощь и приватность повсюду.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Существует способ защитить вашу приватность. <span>Присоединяйтесь к { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Выступите против отрасли, которая делает вас товаром.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = Вы вошли <br>в Аккаунт { -brand-name-firefox }. <br><span>Теперь попробуйте { -brand-name-firefox-monitor }.</span>
-firefox-accounts-see-if-youve-been = Узнайте, не стали ли вы жертвой компрометации данных.
+firefox-accounts-youre-signed-in-to = Вы вошли <br>в Аккаунт { -brand-name-firefox }. <br><span>Теперь вы можете испытать { -brand-name-firefox-monitor }.</span>
+firefox-accounts-see-if-youve-been = Узнайте, не стали ли вы жертвой утечки данных.
 firefox-accounts-sign-in-to-monitor = Войти в { -brand-name-monitor }
 firefox-accounts-join-firefox = Присоединитесь к { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Введите адрес электронной почты, чтобы начать.

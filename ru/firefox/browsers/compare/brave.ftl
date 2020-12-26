@@ -8,9 +8,9 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } против { -brand-name-brave }: Какой браузер лучше всего вам подходит
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Сравним { -brand-name-brave } с { -brand-name-firefox-browser }, чтобы узнать, какой браузер лучше всего для вас подходит с точки зрения приватности, удобства и переносимости.
+compare-brave-compare-brave-to-the-firefox = Сравним { -brand-name-brave } с { -brand-name-firefox-browser(case: "instrumental") }, чтобы узнать, какой браузер лучше всего для вас подходит с точки зрения приватности, удобства и переносимости.
 # Main title
-compare-brave-comparing-firefox-browser = Сравнение { -brand-name-firefox-browser } с { -brand-name-brave }
+compare-brave-comparing-firefox-browser = Сравнение { -brand-name-firefox-browser(case: "genitive") } с { -brand-name-brave }
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Как и браузер { -brand-name-firefox }, браузер { -brand-name-brave } является бесплатным, с открытым исходным кодом и ориентирован на защиту приватности пользователей. { -brand-name-brave } является относительным новичком в мире браузеров: его производитель { -brand-name-brave } Software впервые представил браузер в январе 2016 года. В этой статье мы сравним наш браузер { -brand-name-firefox } с браузером { -brand-name-brave } в трёх категориях: приватность, полезность и переносимость.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
@@ -45,7 +45,7 @@ compare-brave-the-ability-to-sync-your-passwords = Возможность син
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
-compare-brave-the-firefox-browser-also-gives = Браузер { -brand-name-firefox } также даёт пользователя возможность подписаться на бесплатный <a { $accounts }>{ -brand-name-firefox-account }</a>. Наличие Аккаунта { -brand-name-firefox } является ключом для настройки синхронизации между устройствами, плюс вы получаете дополнительное преимущество таких продуктов, как  <a { $monitor }>{ -brand-name-firefox-monitor }</a>, который отслеживает ваши адреса электронной почты и предупреждает вас, если какая-либо ваша информация была замешана в известных <a { $breaches }>утечках данных</a>.
+compare-brave-the-firefox-browser-also-gives = Браузер { -brand-name-firefox } также даёт пользователя возможность создать бесплатный <a { $accounts }>{ -brand-name-firefox-account }</a>. Наличие Аккаунта { -brand-name-firefox } является ключом для настройки синхронизации между устройствами, плюс вы получаете дополнительное преимущество таких продуктов, как <a { $monitor }>{ -brand-name-firefox-monitor }</a>, который отслеживает ваши адреса электронной почты и предупреждает вас, если какая-либо ваша информация была замешана в известных <a { $breaches }>утечках данных</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } также недавно получил возможность синхронизировать данные в большинстве популярных операционных систем и устройств, а также добавил возможность синхронизации токенов базового внимания.
 compare-brave-when-comparing-the-two-browsers = Если сравнивать оба браузера, то и { -brand-name-firefox }, и { -brand-name-brave } предлагают высокий уровень приватности и безопасности по умолчанию, доступный автоматически с самого первого их запуска.

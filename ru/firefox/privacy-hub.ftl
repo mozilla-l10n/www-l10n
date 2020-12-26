@@ -73,9 +73,9 @@ firefox-privacy-hub-send-a-file = Отправить файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } рекомендует высококачественные, выбранные людьми статьи, не собирая данные из вашей истории просмотра и не делясь вашей личной информацией с рекламодателями.
 firefox-privacy-hub-get-pocket = Получить { -brand-name-pocket }
-firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account(case: "nominative") }
-firefox-privacy-hub-all-the-information-synced = Вся информация, синхронизируемая через ваш { -brand-name-firefox-account(case: "nominative_uppercase") } — от истории браузера до паролей — зашифрована. И пароль вашего аккаунта — единственный ключ.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Сохраняйте приватность и закладки везде с помощью { -brand-name-firefox-account(case: "genitive_uppercase") }.
+firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Вся информация, синхронизируемая через ваш { -brand-name-firefox-account } — от истории браузера до паролей — зашифрована. И пароль вашего аккаунта — единственный ключ.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Сохраняйте приватность и закладки везде с помощью { -brand-name-firefox-account(case: "genitive") }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

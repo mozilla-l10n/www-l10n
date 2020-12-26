@@ -20,7 +20,7 @@ password-manager-password-magician = Магистр паролей
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ниндзя паролей
-password-manager-no-more-try-again = Никаких "попробовать снова", когда вы пытаетесь куда-то попасть. Войдите в свой { -brand-name-firefox-account(case: "nominative_uppercase") } на вашем телефоне и ваши пароли пойдут вместе с вами. Ваши учётные данные просто появятся, вот так.
+password-manager-no-more-try-again = Никаких "попробовать снова", когда вы пытаетесь куда-то попасть. Войдите в свой { -brand-name-firefox-account } на вашем телефоне и ваши пароли будут всегда с вами. Ваши учётные данные просто появятся, вот так.
 password-manager-password-champion = Чемпион паролей
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/

@@ -137,8 +137,11 @@
 -brand-name-devtools =
     { $case ->
        *[nominative] Инструменты разработчика
-        [prepositional] Инструментах разработчика
+        [genitive] Инструментов разработчика
+        [dative] Инструментам разработчика
+        [accusative] Инструменты разработчика
         [instrumental] Инструментами разработчика
+        [prepositional] Инструментах разработчика
     }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
@@ -160,12 +163,20 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-developer-network = Сеть разработчиков Mozilla
 -brand-name-mozilla-festival = Фестиваль Mozilla
 -brand-name-mozilla-hubs = Клубы Mozilla
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mdn-web-docs =
+    { $case ->
+       *[nominative] Веб-документация MDN
+        [genitive] Веб-документации MDN
+        [dative] Веб-документации MDN
+        [accusative] Веб-документацию MDN
+        [instrumental] Веб-документацией MDN
+        [prepositional] Веб-документации MDN
+    }
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -221,7 +232,15 @@
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
--brand-name-instagram = Instagram
+-brand-name-instagram =
+    { $case ->
+       *[nominative] Инстаграм
+        [genitive] Инстаграма
+        [dative] Инстаграму
+        [accusative] Инстаграм
+        [instrumental] Инстаграмом
+        [prepositional] Инстаграме
+    }
 -brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
