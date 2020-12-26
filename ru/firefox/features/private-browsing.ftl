@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Приватный браузер с расширенной защитой от отслеживания
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } защищает вашу приватность в Интернете и блокирует трекеры, следующие за вами по сети.
+features-private-browsing-download-firefox = Загрузить { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Больше защиты. Меньше волнения.
 features-private-browsing-were-obsessed-with = Мы одержимы защитой вашей приватности. Вот почему, мы сделали Приватный Просмотр в { -brand-name-firefox } более мощным, чем в других браузерах.
 features-private-browsing-browse-without = Сёрфите, не оставляя следа
