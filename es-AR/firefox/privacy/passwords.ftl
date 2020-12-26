@@ -41,3 +41,9 @@ privacy-passwords-the-secret-to = El secreto para evitar qu te adivinen, roben o
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Cuando un atacante roba la base de datos de contraseñas para un sitio que usas (como <a { $url_linkedin }>LinkedIn</a> o <a { $url_yahoo }>Yahoo</a>), no hay nada que puedas hacer excepto cambiar tu contraseña para ese sitio. Eso es malo, pero el daño puede ser mucho peor si has reusado esa contraseña con otros sitios web — entonces el atacante puede acceder a tus cuentas en esos sitios también. Para mantener el daño contenido, <strong>siempre usa diferentes contraseñas para diferentes sitios web.</strong>
+privacy-passwords-security-questions-my = Preguntas de seguridad: el apellido de soltera de mi madre es "Ff926AKa9j6Q"
+privacy-passwords-get-help-from = Obtener ayuda de un administrador de contraseñas
+privacy-passwords-twofactor-authentication-2fa = Autenticación con dos factores (2FA)
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = Tu cuenta de { -brand-name-firefox }, por ejemplo, puede protegerse con 2FA, <a { $url_sumo_2fa }>de la que podés conocer más aquí</a>.
+privacy-passwords-strong-diverse-and = Fuerte, diverso y multifactorial
