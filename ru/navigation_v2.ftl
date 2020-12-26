@@ -8,7 +8,7 @@ navigation-v2-menu = Меню
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(case: "nominative_uppercase") }
 navigation-v2-close-firefox-browsers-menu = Закрыть меню { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } для компьютера
 navigation-v2-firefox-for-android = { -brand-name-firefox } для { -brand-name-android }
