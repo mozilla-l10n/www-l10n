@@ -31,6 +31,7 @@ what-is-a-browser-cookies-not-the = Cookie（不是那种好吃的饼干）
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = 网站将有关您的信息保存在名为 <a href="{ $cookies }">Cookie</a> 的文件中。它们会保存在您的计算机上，供您下次访问该站点时使用。再次访问，网站代码将会读取该文件，以确定是您。例如，当您访问网站时，网页会记住您的用户名和密码——这通常是用 Cookie 实现的。
+what-is-a-browser-there-are-also = 还有一些 Cookie 记录了更多关于您的信息，包括但不限于您的兴趣、Web 浏览模式等等。这意味着一个网站可以向您提供更具针对性的内容——通常是以广告的形式。有几种 Cookie 被称为<em>第三方 Cookie</em>，来自于此前您从未访问过的网站，可以做到跨网站跟踪并收集您的信息，这些信息多半会出售给其他公司。有时您可以选择拦截这类 Cookie，但并非所有浏览器都允许您这么做。
 what-is-a-browser-when-you-go-to = 当您访问网站时，网页会记住您的用户名和密码。这通常是用 Cookie 实现的。
 what-is-a-browser-understanding = 了解隐私
 what-is-a-browser-firefox-helps = { -brand-name-firefox } 可以阻止跟踪器在网上跟踪您，从而保护您的隐私。
