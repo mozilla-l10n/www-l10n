@@ -11,6 +11,8 @@ firefox-new-download-the-fastest-firefox = Telechargia il pli svelt { -brand-nam
 firefox-new-faster-page-loading-less-memory = Paginas che chargian pli spert, in consum da memoria reducì e novas funcziuns: Il nov { -brand-name-firefox } è qua.
 firefox-new-automatic-privacy-is-here = La protecziun automatica da la sfera privata è qua. Telechargia { -brand-name-firefox } per bloccar passa 2000 fastizaders.
 firefox-new-get-the-latest-firefox = Va per il pli nov navigatur da { -brand-name-firefox }.
+firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } ta mussa quants fastizaders che rimnan datas che vegnan bloccads cun la <strong>protecziun avanzada cunter il fastizar</strong>.
+firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> renda ils pleds-clav che ti memoriseschas en { -brand-name-firefox } segirs e disponibels sin tut tes apparats.
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
