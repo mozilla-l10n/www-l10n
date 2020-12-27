@@ -8,6 +8,8 @@
 
 ## Page heading
 
+contribute-page-title = Tazmert n uttekki deg { -brand-name-mozilla }
+contribute-page-heading = Neḥwaǧ timussniwin-inek·inem i internet igerrzen
 contribute-how-heading = Amek i tzemreḍ ad tettekkiḍ…
 
 ## Contribution tasks
@@ -17,6 +19,7 @@ contribute-tag-technical = Tatiknikt
 contribute-tag-individual = Yiwen n umdan
 contribute-tag-support = Tallalt
 contribute-task-translate-heading = Suqel agbur
+contribute-task-mozilla-codebase-heading = Ttekki deg taffa n tengalt n { -brand-name-mozilla }
 contribute-task-join-heading = Rnu ɣer temɣiwent
 
 ## Mission
