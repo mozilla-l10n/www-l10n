@@ -13,7 +13,7 @@ what-is-a-browser-the-web-is-a-vast = Web 是一个强大的工具。几十年�
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = 对于任何人来说，能够上网都是很重要的，但是对于我们来说，<a href="{ $tools }">认识上网所用的工具</a>同样重要。我们每天都在使用浏览器，例如 { -brand-name-mozilla } { -brand-name-firefox }、{ -brand-name-google } { -brand-name-chrome }、{ -brand-name-microsoft } { -brand-name-edge } 或 { -brand-name-apple } { -brand-name-safari }，但是，我们真的了解这些浏览器吗？它们到底是如何工作的？
-what-is-a-browser-in-a-short-period-long = 渐渐地，我们从能够向世界上任何人发送电子邮件的惊喜中褪去，转而思考我们应该如何认知信息。关于浏览器或应用程序，不在于您了解多少，而是在于什么样的才能让您更快地获取信息。
+what-is-a-browser-in-a-short-period-long = 渐渐地，我们从能够向世界上任何人发送电子邮件的惊喜中褪去，转而思考我们应该如何认知信息。其实，关于浏览器或应用程序，并不在于您了解多少，而是在于选择哪个才能让您更快地获取信息。
 what-is-a-browser-in-a-short-period = 渐渐地，我们从能够向世界上任何人发送电子邮件的惊喜中褪去，转而思考我们应该如何认知信息。
 what-is-a-browser-how-does-a-web = Web 浏览器如何工作？
 what-is-a-browser-a-web-browser-long = Web 浏览器可以将您带到互联网的任何角落。它从 Web 上的其他区块检索信息并将其显示在您的桌面或移动设备上。信息通过超文本传输协议进行传输，而该协议定义了文本、图像和视频在网上的传输方式。这些信息需要以一致的格式共享和显示，让世界上任何地方使用任何浏览器的人都能看到。
@@ -36,3 +36,4 @@ what-is-a-browser-when-you-go-to = 当您访问网站时，网页会记住您的
 what-is-a-browser-understanding = 了解隐私
 what-is-a-browser-nearly-all-major = 几乎所有的主流浏览器都有隐私设置，它们的存在是为了向同一计算机上的其他用户隐藏浏览历史。许多人认为，隐私浏览或隐身模式可以对电信运营商、政府和广告商隐藏他们的身份。其 实 并 不 会。这些设置只是清除系统上的历史记录，若您要在共用或公用计算机上处理个人敏感信息，还是有点用的。但 { -brand-name-firefox } 可不止如此。
 what-is-a-browser-firefox-helps = { -brand-name-firefox } 可以阻止跟踪器在网上跟踪您，从而保护您的隐私。
+what-is-a-browser-most-major-web = 绝大多数主流 Web 浏览器都允许用户通过扩展或附加组件来改善使用体验。扩展是一类为浏览器添加功能或进行其他定制的“软件”。扩展可以做到很多有趣又实用的事情，例如启用新功能、查询外语词典、更换视觉外观或主题。
