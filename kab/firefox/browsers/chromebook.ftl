@@ -25,3 +25,4 @@ browsers-chromebook-install-firefox-from = Sebded { -brand-name-firefox } seg { 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Sebded { -brand-name-firefox } d asnas n { -brand-name-linux }: tiddin deg ubrid-a yeḥwaǧ kra n yiḥriwen-nniḍen, maca ilaq wayen-nni. Mi ara tesbeddeḍ iminig { -brand-name-firefox } { -brand-name-firefox }d asnas n { -brand-name-linux }, ad tawiḍ iminig n tnarit { -brand-name-firefox } akked meṛṛa ibaɣuren yeddan yid-s, ula d ammesten mgal aḍfar yettwasǧehden, amsefrak n wawalen uffiren usliɣ, anekcum ɣer yimelyan n yizegrar (ulad amsewḥel n udellel UBlock Origin), akked yisental i usagen n wudem n yiming-inek·inem. <a { $url }>Issin ugar ɣef usebded { -brand-name-firefox } iminig n tnarit i { -brand-name-chromebook }.</a>
