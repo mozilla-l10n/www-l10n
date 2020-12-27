@@ -18,12 +18,12 @@ features-translate-to-google-translate = To { -brand-name-google } Translate
 features-translate-google-translate-with = { -brand-name-google } Translate, med över 100 språk*, används av miljontals människor runt om i världen. Men att flytta fram och tillbaka mellan translate.google.com och sidan du försöker läsa är inte en perfekt upplevelse. Med tillägget <a { $attrs }>To { -brand-name-google } Translate</a> kan du översätta sidan du är på lättare än någonsin.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Hämta tillägget
-features-translate-once-installed-simply = När du är installerad markerar du bara texten du vill översätta och högerklickar för att öppna en meny med två alternativ: 1) Tar dig till translate.google.com med din markerade text automatiskt angiven i översättningsfältet eller 2) Lyssna på ljuduttalande av frasen (drivs av { -brand-name-google } Text-to-Speech), vilket är användbart om du försöker lära dig ett nytt språk.
+features-translate-once-installed-simply = När du har installerat, markerar du bara texten du vill översätta och högerklickar för att öppna en meny med två alternativ: 1) Ta dig till translate.google.com med din markerade text automatiskt angiven i översättningsfältet eller 2) Lyssna på ljuduttalande av frasen (drivs av { -brand-name-google } Text-to-Speech), vilket är användbart om du försöker lära dig ett nytt språk.
 features-translate-switch-languages-in = Byt språk i { -brand-name-firefox }
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Om du redan använder { -brand-name-firefox } kan du ändra webbläsarens språk eller lägga till språk i { -brand-name-firefox } gränssnitt. <a { $attrs }>Läs mer här.</a>
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-with-the-to = *Med To { -brand-name-google } Translate-tillägget kan du för närvarande översätta <a { $attrs }>dessa språk</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a{ $attrs }> och mer!</a>
+features-translate-and-more = <a{ $attrs }> och fler!</a>
 features-translate-for-everyone = Firefox är för alla
