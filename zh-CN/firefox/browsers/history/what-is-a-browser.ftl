@@ -16,6 +16,7 @@ what-is-a-browser-its-important = 对于任何人来说，能够上网都是很�
 what-is-a-browser-in-a-short-period-long = 渐渐地，我们从能够向世界上任何人发送电子邮件的惊喜中褪去，转而思考我们应该如何认知信息。关于浏览器或应用程序，不在于您了解多少，而是在于什么样的才能让您更快地获取信息。
 what-is-a-browser-in-a-short-period = 渐渐地，我们从能够向世界上任何人发送电子邮件的惊喜中褪去，转而思考我们应该如何认知信息。
 what-is-a-browser-how-does-a-web = Web 浏览器如何工作？
+what-is-a-browser-a-web-browser-long = Web 浏览器可以将您带到互联网的任何角落。它从 Web 上的其他区块检索信息并将其显示在您的桌面或移动设备上。信息通过超文本传输协议进行传输，而该协议定义了文本、图像和视频在网上的传输方式。这些信息需要以一致的格式共享和显示，让世界上任何地方使用任何浏览器的人都能看到。
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = 遗憾的是，并非所有浏览器厂商都选择以相同的方式解释格式。对于用户而言，这意味着看到的网站的外观和功能可能会存在差异。建立浏览器之间的一致性，让所有用户皆可畅享互联网，而不论他们选择的是哪款浏览器，此即为 <a href="{ $standards }">Web 标准</a>。
