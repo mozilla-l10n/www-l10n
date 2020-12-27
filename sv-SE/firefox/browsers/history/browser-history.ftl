@@ -8,6 +8,7 @@
 browser-history-browser-history = Webbläsarhistorik: Episka maktkamper som gav oss moderna webbläsare
 browser-history-the-browser-wars-underdogs-giants = Webbläsarkrig, underdogs mot jättar och stunder som förändrade världen. Läs om webbläsarens historia.
 browser-history-the-history-of-web = Webbläsarens historia
+browser-history-world-history-is = Världshistorien är full av episka maktkamper, världserövrande tyranner och heroiska underdogs. Webbläsarens historia skiljer sig inte särskilt mycket. Universitetspionjärer skrev enkla program som utlöste en informationsrevolution och kamp för webbläsarens överlägsenhet och internetanvändare.
 browser-history-before-web-era = Innan webb-eran
 browser-history-in-1950-computers = 1950 tog datorer upp hela rum och var dummare än dagens fickräknare. Men framstegen var snabba och 1960 kunde de köra komplexa program. Regeringar och universitet över hela världen tyckte att det skulle vara fantastiskt om maskinerna kunde prata, vilket gynnade samarbete och vetenskapliga genombrott.
 # Variables:
