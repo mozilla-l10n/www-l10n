@@ -10,6 +10,11 @@ what-is-a-browser-what-is-a-web = Web 浏览器是什么？
 # HTML page description
 what-is-a-browser-a-web-browser = Web 浏览器能将您带到互联网上的任何地方，随时随地浏览文本、图像和视频内容。
 what-is-a-browser-the-web-is-a-vast = Web 是一个强大的工具。几十年来，互联网深刻地改变了我们的工作、娱乐和彼此交流的方式。它架起了国家间的桥梁，促进了贸易繁荣，推动了关系发展，驱动了未来的创新引擎，以及更多我们意想不到的影响。它，无处不在。
+# Variables:
+#   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
+what-is-a-browser-its-important = 对于任何人来说，能够上网都是很重要的，但是对于我们来说，<a href="{ $tools }">认识上网所用的工具</a>同样重要。我们每天都在使用浏览器，例如 { -brand-name-mozilla } { -brand-name-firefox }、{ -brand-name-google } { -brand-name-chrome }、{ -brand-name-microsoft } { -brand-name-edge } 或 { -brand-name-apple } { -brand-name-safari }，但是，我们真的了解这些浏览器吗？它们到底是如何工作的？
+what-is-a-browser-in-a-short-period-long = 渐渐地，我们从能够向世界上任何人发送电子邮件的惊喜中褪去，转而思考我们应该如何认知信息。关于浏览器或应用程序，不在于您了解多少，而是在于什么样的才能让您更快地获取信息。
+what-is-a-browser-in-a-short-period = 渐渐地，我们从能够向世界上任何人发送电子邮件的惊喜中褪去，转而思考我们应该如何认知信息。
 what-is-a-browser-how-does-a-web = Web 浏览器如何工作？
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
