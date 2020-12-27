@@ -9,3 +9,5 @@
 privacy-passwords-security-guide-to = Amnir n tɣellist i uḥraz n yinekcam d wawalen uffiren
 # page content
 privacy-passwords-a-security-guide = Amnir n tɣellist i uḥraz n yinekcam d wawalen uffiren
+privacy-passwords-protecting-your-accounts = Ammesten n yimiḍanen-inek·inem ur ilaq ara ad yiwɛir — yerna { -brand-name-firefox } yezmer ad ak·akem-iɛawen.
+privacy-passwords-use-random-passwords = Seqdec awalen uffiren igacuranen, rnu seqdec i yal asmel awal uffir yemgaraden ɣef wayeḍ
