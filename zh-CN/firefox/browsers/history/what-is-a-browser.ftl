@@ -34,4 +34,5 @@ what-is-a-browser-websites-save = 网站将有关您的信息保存在名为 <a 
 what-is-a-browser-there-are-also = 还有一些 Cookie 记录了更多关于您的信息，包括但不限于您的兴趣、Web 浏览模式等等。这意味着一个网站可以向您提供更具针对性的内容——通常是以广告的形式。有几种 Cookie 被称为<em>第三方 Cookie</em>，来自于此前您从未访问过的网站，可以做到跨网站跟踪并收集您的信息，这些信息多半会出售给其他公司。有时您可以选择拦截这类 Cookie，但并非所有浏览器都允许您这么做。
 what-is-a-browser-when-you-go-to = 当您访问网站时，网页会记住您的用户名和密码。这通常是用 Cookie 实现的。
 what-is-a-browser-understanding = 了解隐私
+what-is-a-browser-nearly-all-major = 几乎所有的主流浏览器都有隐私设置，它们的存在是为了向同一计算机上的其他用户隐藏浏览历史。许多人认为，隐私浏览或隐身模式可以对电信运营商、政府和广告商隐藏他们的身份。其 实 并 不 会。这些设置只是清除系统上的历史记录，若您要在共用或公用计算机上处理个人敏感信息，还是有点用的。但 { -brand-name-firefox } 可不止如此。
 what-is-a-browser-firefox-helps = { -brand-name-firefox } 可以阻止跟踪器在网上跟踪您，从而保护您的隐私。
