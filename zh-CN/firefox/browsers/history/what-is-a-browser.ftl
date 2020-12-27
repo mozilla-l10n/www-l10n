@@ -38,3 +38,4 @@ what-is-a-browser-nearly-all-major = 几乎所有的主流浏览器都有隐私�
 what-is-a-browser-firefox-helps = { -brand-name-firefox } 可以阻止跟踪器在网上跟踪您，从而保护您的隐私。
 what-is-a-browser-making-your-web = 选择适合自己的 Web 浏览器。
 what-is-a-browser-most-major-web = 绝大多数主流 Web 浏览器都允许用户通过扩展或附加组件来改善使用体验。扩展是一类为浏览器添加功能或进行其他定制的“软件”。扩展可以做到很多有趣又实用的事情，例如启用新功能、查询外语词典、更换视觉外观或主题。
+what-is-a-browser-all-browser-makers = 所有浏览器厂商都致力于让自己开发的产品，更快速、流畅地显示图像和视频，提升您的上网体验。他们的努力使得用户面前的浏览器足够快速、强大又易用。但它们之间又各有差异，选择适合您的浏览器相当重要。{ -brand-name-mozilla } 打造了 { -brand-name-firefox }，让用户可以掌控自己的在线生活，确保互联网作为全球公共资源，开放且人人可用。
