@@ -12,6 +12,7 @@ browsers-chromebook-get-firefox-browser = Sader { -brand-name-firefox-browser } 
 browsers-chromebook-so-youve-got = Dayen tesɛiḍ { -brand-name-chromebook } — tura d lawan ad tawiḍ { -brand-name-firefox-browser } ilelli, uslig s wudem awurman i ummesten n yisefka-inek·inem udmawanen.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Sader { -brand-name-firefox } i { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Awi tanarit { -brand-name-firefox } i { -brand-name-chromebook }
+browsers-chromebook-x86-based-chromebook = *x86 yebnan ɣef { -brand-name-chromebook } iselkam { -brand-name-chromeos } 80 neɣ lqem i d-iteddun
 browsers-chromebook-dropdown-copy = Sader { -brand-name-firefox } i { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = I wacu asader n <span>{ -brand-name-firefox }</span> i { -brand-name-chromebook }?
