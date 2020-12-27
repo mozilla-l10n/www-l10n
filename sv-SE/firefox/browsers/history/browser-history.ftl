@@ -18,7 +18,7 @@ browser-history-that-sparked-a-revolution = Det utlöste en revolution inom data
 browser-history-web-era = Webb-eran
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
-browser-history-british-computer = Den brittiska datavetenskapsmannen Tim Berners-Lee skapade den första webbservern och den grafiska webbläsaren 1990 medan han <a href="{ $cern }">arbetade på CERN</a>, European Organization for Nuclear Research, i Schweiz. Han kallade sitt nya fönster till internet "WorldWideWeb." Det var ett lättanvänt grafiskt gränssnitt skapat för NeXT-datorn. För första gången länkades textdokument över ett offentligt nätverk—nätet som vi känner till.
+browser-history-british-computer = Den brittiska datavetenskapsmannen Tim Berners-Lee skapade den första webbservern och den grafiska webbläsaren 1990 medan han <a href="{ $cern }">arbetade på CERN</a>, Europeiska organisationen för kärnforskning, i Schweiz. Han kallade sitt nya fönster till internet "WorldWideWeb." Det var ett lättanvänt grafiskt gränssnitt skapat för NeXT-datorn. För första gången länkades textdokument över ett offentligt nätverk—webben som vi känner till.
 browser-history-a-year-later-berners = Ett år senare bad Berners-Lee matematikstudenten Nicola Pellow att skriva Line Mode Browser, ett program för grundläggande datorterminaler.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
@@ -32,7 +32,7 @@ browser-history-the-browser-wars = Webbläsarkrigen
 browser-history-by-1995-netscape = 1995 var { -brand-name-netscape } Navigator inte det enda sättet att komma åt internet. Datorprogramjätten { -brand-name-microsoft } licensierade den gamla Mosaic-koden och byggde sitt eget fönster mot webben, <a href="{ $ie }">{ -brand-name-ie }</a>. Introduktionen utlöste ett krig. { -brand-name-netscape } och { -brand-name-microsoft } arbetade febrilt för att skapa nya versioner av sina program, var och en försökte överträffa den andra med snabbare, bättre produkter.
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
-browser-history-netscape-created = { -brand-name-netscape } skapade och släppte JavaScript, vilket gav webbplatser kraftfulla datorfunktioner som de aldrig hade tidigare. (De gjorde också den ökända <a href="{ $blink }">&lt;blink&gt;-taggen</a>.) { -brand-name-microsoft } kontrade med Cascading Style Sheets (CSS), som blev standarden för webbsidesdesign.
+browser-history-netscape-created = { -brand-name-netscape } skapade och släppte JavaScript, vilket gav webbplatser kraftfulla datorfunktioner som de aldrig hade tidigare. (De gjorde också den ökända <a href="{ $blink }">&lt;blink&gt;-taggen</a>.) { -brand-name-microsoft } kontrade med Cascading Style Sheets (CSS), som blev standarden för webbdesign.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = Saker gick lite ur hand 1997 när { -brand-name-microsoft } släppte { -brand-name-ie } 4.0. Teamet byggde en jättebokstav "e" och smög med den till gräsmattan  vid { -brand-name-netscape } huvudkontor. Teamet { -brand-name-netscape } slog omedelbart omkull bokstaven "e" och <a href="{ $dino }">lade sin egen { -brand-name-mozilla } dinosaurmaskot ovanpå den</a>.
