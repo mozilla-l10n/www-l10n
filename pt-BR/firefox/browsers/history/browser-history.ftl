@@ -5,8 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = História dos navegadores: lutas épicas por poder que nos trouxeram navegadores modernos
+browser-history-the-browser-wars-underdogs-giants = As guerras dos navegadores, desfavorecidos contra gigantes e momentos que mudaram o mundo. Leia sobre a história dos navegadores web.
+browser-history-the-history-of-web = A história dos navegadores web
 browser-history-before-web-era = Antes da era da web
 browser-history-web-era = Era da web
 browser-history-the-browser-wars = A guerra dos navegadores
+browser-history-browsing-the-web = Navegando na web hoje
 browser-history-resources = Recursos
 browser-history-take-control-of = Assuma o controle do seu navegador.
