@@ -49,4 +49,5 @@ features-index-download-latest = Ześěgniśo nejnowšy { -brand-name-firefox }
 features-index-fingerprinter-blocking = Blokěrowanje palcowych wótśišćow
 features-index-block-fingerprinters = Palcowe wótśišće blokěrowaś
 features-index-translate-the-web = Web pśełožyś
+features-index-translate-more-than = Pśełožujśo z wěcej ako 100 rěcow do swójeje rěcy direktnje w swójom { -brand-name-firefox-browser } - lažčej ako do togo.
 features-index-translate-to-your = Pśełožujśo do swójeje rěcy
