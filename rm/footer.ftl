@@ -70,3 +70,5 @@ footer-donate = Far ina donaziun
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Suandar @{ -brand-name-mozilla }
+footer-follow-firefox = Suandar @{ -brand-name-firefox }

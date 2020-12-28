@@ -42,10 +42,13 @@ navigation-learn-how-to-customize = Vegnir a savair co persunalisar il funcziuna
 navigation-explore-the-immersive = Explorescha il web immersiv cun tia chapellina per la realitad virtuala.
 # Outdated string
 navigation-experience-augmented = Emprova la realitad augmentada e virtuala cun { -brand-name-firefox }.
+navigation-get-together = T'inscuntra cun autras persunas en la realitad virtuala cun quest spazi social online.
 # Outdated string
 navigation-meet-people-in-experimental = Inscuntra persunas en ils locals da discussiun experimentals da realitad maschadada cun { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } porta la realitad virtuala ed augmentada en il web avert.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } porta { -brand-name-firefox } en la realitad augmentada e virtuala.
 navigation-firefox-built-just-for = { -brand-name-firefox }, creà aposta per sviluppaders.
@@ -56,10 +59,20 @@ navigation-mozilla-manifesto = Il manifest da { -brand-name-mozilla }
 navigation-menu = Menu
 navigation-check-out-the-benefits = Scuvrir ils avantatgs
 navigation-browsers = Navigaturs
+navigation-close-browsers-menu = Serrar il menu dal navigatur
 navigation-download = Telechargiar
 navigation-extensions = Extensiuns
 navigation-support = Agid
 navigation-privacy = Protecziun da datas
+navigation-get-unmatched-data-protection = Profitescha da la protecziun da datas extraordinaria cun la cadenza da novas versiuns che correspunda als basegns da tia organisaziun.
+navigation-made-with-respect = Creà cun respect
+navigation-close-products-menu = Serrar il menu «Products»
+navigation-see-if-your-personal = Controlla sche tias datas persunalas èn pertutgadas dad ina sperdita da datas en l'internet e ta registrescha per retschaiver en il futur in avertiment en cas dad ina sperdita da datas.
+navigation-check-for-breaches = Controllar sperditas da datas
+navigation-see-breaches = Vesair las sperditas da datas
+navigation-security-tips = Tips areguard la segirezza
+navigation-share-large-files-safely = Cundivida grondas datotecas a moda segira cun colliaziuns che «destrueschan sasezzas».
+navigation-save-quality-content = Memorisescha cuntegn da qualitad da l'entir web. Pavla tes tscharvè nua ch'i saja.
 navigation-about = Davart
 navigation-close-about-menu = Serrar il menu «Davart»
 navigation-meet-the-technology-company = Emprenda d'enconuscher l'interpresa che serva a las persunas e betg al profit.
