@@ -20,3 +20,5 @@ privacy-passwords-make-your-answers = Crie respostas às perguntas de segurança
 privacy-passwords-use-a-password = Use um gerenciador de senhas para facilitar criar e lembrar senhas
 privacy-passwords-use-twofactor-authentication = Use "autenticação em duas etapas" sempre que puder
 privacy-passwords-look-for-the = Procure o cadeado em seu navegador
+privacy-passwords-its-easy-to = É fácil prevenir que invasores roubem sua senha quando você acessa um site não criptografado: Pense duas vezes antes de digitar sua senha se não aparecer um ícone de cadeado na barra de endereços do navegador, como este:
+privacy-passwords-a-closed-lock = Um cadeado fechado aparece à esquerda do endereço do site na barra de endereços em todos os principais navegadores.
