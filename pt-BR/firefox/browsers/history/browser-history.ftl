@@ -8,3 +8,5 @@
 browser-history-before-web-era = Antes da era da web
 browser-history-web-era = Era da web
 browser-history-the-browser-wars = A guerra dos navegadores
+browser-history-resources = Recursos
+browser-history-take-control-of = Assuma o controle do seu navegador.
