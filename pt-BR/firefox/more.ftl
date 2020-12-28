@@ -63,3 +63,7 @@ incognito-browser-what = Navegação anônima: o que realmente significa
 firefox-calls-it = O { -brand-name-firefox } chama de navegação privativa, o { -brand-name-chrome } chama de modo anônimo. Ambos permitem que você navegue na web sem salvar o histórico de navegação.
 take-the-stress = Acabe com o estresse de encontrar um navegador seguro.
 building-a-safe = Construir um navegador seguro é uma arte e uma ciência, porque não existem regras definidas.
+firefox-more-fingerprinter-blocking = Bloqueio de rastreador de identidade digital
+firefox-more-translate-the-web = Traduza a web
+firefox-more-a-guide-to = Um guia para contas e senhas mais seguras
+firefox-more-more-and-more = Cada vez mais coisas valiosas e sensíveis em nossas vidas são protegidas por senhas.
