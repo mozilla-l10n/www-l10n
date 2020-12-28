@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Protecziun da datas per sauna raschun
 new-platform-live-your-life = Viva tia vita, { -brand-name-firefox } na t'observa betg. Ti decidas tge e cura cundivider.
 new-platform-seamless-setup = Configuraziun senza schaschins
 new-platform-easy-migration = La migraziun da preferenzas e segnapaginas è simpla sche ti telechargias { -brand-name-firefox } per { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Telechargiar { -brand-name-firefox } <br>per { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Telechargiar { -brand-name-firefox } <br>per { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Telechargiar { -brand-name-firefox } <br>per { -brand-name-linux }
