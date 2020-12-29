@@ -22,11 +22,17 @@ browser-history-british-computer = O cientista de computação britânico Tim Be
 browser-history-a-year-later-berners = Um ano depois, Berners-Lee pediu ao estudante de matemática do CERN Nicola Pellow que escrevesse o Navegador em Modo de Linha, um programa para terminais básicos de computadores.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
-browser-history-by-1993-the-web = Em 1993, a web explodiu. Universidades, governos e empresas privadas, todos viram oportunidades na internet aberta. Todos precisavam de novos programas de computador para acessá-la. Naquele ano, foi criado o Mosaic no Centro Nacional de Aplicações de Supercomputação (NCSA) na Universidade de Illinois em Urbana-Champaign pelo cientista de computação Marc Andreessen. Foi o primeiro navegador web popular e o ancestral inicial do <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+browser-history-by-1993-the-web = Em 1993, a web explodiu. Universidades, governos e empresas privadas, todos viram oportunidades na internet aberta. Todos precisavam de novos programas de computador para acessá-la. Naquele ano, o Mosaic foi criado no Centro Nacional de Aplicações de Supercomputação (NCSA), na Universidade de Illinois em Urbana-Champaign, pelo cientista de computação Marc Andreessen. Foi o primeiro navegador web popular e o ancestral inicial do <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
 # Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = O Mosaic da NCSA rodava em computadores { -brand-name-windows }, era fácil de usar e dava a qualquer um que tinha um PC (computador portátil) acesso às primeiras páginas web, salas de conversa e bibliotecas de imagens. No ano seguinte (1994), Andreessen fundou a <a href="{ $netscape }">{ -brand-name-netscape }</a> e lançou ao público o Navegador { -brand-name-netscape }. Foi um grande sucesso e o primeiro navegador para o povo. Também foi o primeiro movimento num novo tipo de guerra por usuários da internet.
 browser-history-the-browser-wars = A guerra dos navegadores
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = Em 1995, o Navegador { -brand-name-netscape } não era a única maneira de ficar online. A gigante de software para computadores { -brand-name-microsoft } licenciou o código do antigo Mosaic e criou sua própria janela para a web, o <a href="{ $ie }">{ -brand-name-ie }</a>. O lançamento iniciou uma guerra. A { -brand-name-netscape } e a { -brand-name-microsoft } trabalharam freneticamente para fazer novas versões de seus programas, cada um tentando superar o concorrente com produtos melhores e mais rápidos.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = A { -brand-name-netscape } criou e lançou o JavaScript, que deu aos sites capacidades de computação poderosas que nunca tiveram antes (também criaram a infame <a href="{ $blink }">tag &lt;blink&gt;</a>). A { -brand-name-microsoft } contra-atacou com o Cascading Style Sheets (CSS), que se tornou o padrão para design de páginas web.
 browser-history-browsing-the-web = Navegando na web hoje
 browser-history-resources = Recursos
 browser-history-take-control-of = Assuma o controle do seu navegador.
