@@ -16,6 +16,10 @@ browser-history-in-1950-computers = Em 1950, computadores ocupavam salas inteira
 browser-history-arpanet-was-the = A <a href="{ $arpanet }">ARPANET</a> foi o primeiro projeto de rede bem-sucedido. Em 1969 foi enviada a primeira mensagem do laboratório de ciência da computação na Universidade da Califórnia, em Los Angeles, para o Instituto de Pesquisa de Stanford, também na Califórnia.
 browser-history-that-sparked-a-revolution = Isso desencadeou uma revolução nas redes de computadores. Novas redes se formaram, conectando universidades e centros de pesquisa no mundo todo. Mas, nos 20 anos seguintes, a internet não estava acessível ao público. Era restrita a pesquisadores de universidades e governos, estudantes e corporações privadas. Havia dezenas de programas que podiam trocar informações através de linhas telefônicas, mas nenhum deles era fácil de usar. A verdadeira internet aberta e o primeiro navegador web não foram criados até 1990.
 browser-history-web-era = Era da web
+# Variables:
+#   $cern (url) - https://home.cern/topics/birth-web
+browser-history-british-computer = O cientista de computação britânico Tim Berners-Lee criou o primeiro servidor web e o primeiro navegador web gráfico em 1990, enquanto <a href="{ $cern }">trabalhava no CERN</a>, Organização Europeia de Pesquisa Nuclear, na Suíça. Ele batizou sua nova janela para a internet de "WorldWideWeb". Era uma interface gráfica fácil de usar, criada para o computador NeXT. Pela primeira vez, documentos de texto foram conectados através de uma rede pública — a internet como a conhecemos.
+browser-history-a-year-later-berners = Um ano depois, Berners-Lee pediu ao estudante de matemática do CERN Nicola Pellow que escrevesse o Navegador em Modo de Linha, um programa para terminais básicos de computadores.
 browser-history-the-browser-wars = A guerra dos navegadores
 browser-history-browsing-the-web = Navegando na web hoje
 browser-history-resources = Recursos
