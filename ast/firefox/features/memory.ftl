@@ -8,7 +8,7 @@
 # HTML page title
 features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Usa menos memoria, consigui más velocidá
 # HTML page description
-features-memory-is-your-computer-slow-your = ¿El to ordenador ye lentu? Quiciabes el restolador use muncha memoria. Usa { -brand-name-firefox } güei pa tener más velocidá.
+features-memory-is-your-computer-slow-your = ¿El to ordenador ye lentu? Quiciabes el restolador use muncha memoria. Cambia güei a { -brand-name-firefox } pa tener más velocidá.
 features-memory-less-memory-usage-than-chrome = Menos usu de memoria que { -brand-name-chrome }
 features-memory-if-your-web-browser-uses = Si'l to restolador web usa permuncha memoria, usa { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Acelera'l to ordenador
