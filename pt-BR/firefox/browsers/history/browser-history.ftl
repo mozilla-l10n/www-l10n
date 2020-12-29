@@ -8,6 +8,7 @@
 browser-history-browser-history = História dos navegadores: lutas épicas por poder que nos trouxeram navegadores modernos
 browser-history-the-browser-wars-underdogs-giants = As guerras dos navegadores, desfavorecidos contra gigantes e momentos que mudaram o mundo. Leia sobre a história dos navegadores web.
 browser-history-the-history-of-web = A história dos navegadores web
+browser-history-world-history-is = A história mundial está repleta de lutas épicas pelo poder, tiranos conquistadores e heroicos desfavorecidos. A história dos navegadores web não é muito diferente. Pioneiros de universidades escreveram softwares simples que desencadearam uma revolução da informação e uma batalha por superioridade de navegadores e usuários da internet.
 browser-history-before-web-era = Antes da era da web
 browser-history-web-era = Era da web
 browser-history-the-browser-wars = A guerra dos navegadores
