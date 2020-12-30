@@ -33,6 +33,9 @@ browser-history-by-1995-netscape = Em 1995, o Navegador { -brand-name-netscape }
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = A { -brand-name-netscape } criou e lançou o JavaScript, que deu aos sites capacidades de computação poderosas que nunca tiveram antes (também criaram a infame <a href="{ $blink }">tag &lt;blink&gt;</a>). A { -brand-name-microsoft } contra-atacou com o Cascading Style Sheets (CSS), que se tornou o padrão para design de páginas web.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = As coisas saíram um pouco do controle em 1997, quando a { -brand-name-microsoft } lançou o { -brand-name-ie } 4.0. A equipe construiu uma letra "e" gigante e colocou sorrateiramente no gramado da sede da { -brand-name-netscape }. A equipe da { -brand-name-netscape } prontamente derrubou o "e" gigante e <a href="{ $dino }">colocou seu próprio mascote dinossauro { -brand-name-mozilla } por cima</a>.
 browser-history-browsing-the-web = Navegando na web hoje
 browser-history-resources = Recursos
 browser-history-take-control-of = Assuma o controle do seu navegador.
