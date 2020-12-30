@@ -73,6 +73,15 @@ navigation-see-breaches = Vesair las sperditas da datas
 navigation-security-tips = Tips areguard la segirezza
 navigation-share-large-files-safely = Cundivida grondas datotecas a moda segira cun colliaziuns che «destrueschan sasezzas».
 navigation-save-quality-content = Memorisescha cuntegn da qualitad da l'entir web. Pavla tes tscharvè nua ch'i saja.
+navigation-sign-up = Sa registrar
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Svelt. Simpel. Privat.
+navigation-protect-your-entire-device = Protegia tes entir apparat e tut las applicaziuns. Zuppenta tia posiziun reala e connectescha enfin 5 apparats. Abunescha ussa!
+# Outdated string
+navigation-connected-and-protected = Connectà e protegì
+navigation-join = Participar
+navigation-close-join-menu = Serrar il punct da menu
+navigation-sign-in = S'annunziar
+navigation-benefits = Avantatgs
 navigation-about = Davart
 navigation-close-about-menu = Serrar il menu «Davart»
 navigation-meet-the-technology-company = Emprenda d'enconuscher l'interpresa che serva a las persunas e betg al profit.
