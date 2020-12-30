@@ -36,6 +36,11 @@ browser-history-netscape-created = A { -brand-name-netscape } criou e lançou o 
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = As coisas saíram um pouco do controle em 1997, quando a { -brand-name-microsoft } lançou o { -brand-name-ie } 4.0. A equipe construiu uma letra "e" gigante e colocou sorrateiramente no gramado da sede da { -brand-name-netscape }. A equipe da { -brand-name-netscape } prontamente derrubou o "e" gigante e <a href="{ $dino }">colocou seu próprio mascote dinossauro { -brand-name-mozilla } em cima</a>.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = A { -brand-name-microsoft } começou então a distribuir o { -brand-name-ie } com seu sistema operacional { -brand-name-windows }. Em 4 anos já tinha 75% do mercado e em 1999 tinha 99% do mercado. A empresa enfrentou litígios antitruste por causa desta jogada, e a { -brand-name-netscape } decidiu tornar seu código aberto e criou a organização sem fins lucrativos <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, que criou e lançou o { -brand-name-firefox } em 2002. Sabendo que a existência de um monopólio de navegador não era do interesse dos usuários e da web aberta, o { -brand-name-firefox } foi criado para fornecer escolha aos usuários da web. Em 2010, o { -brand-name-mozilla } { -brand-name-firefox } e outros tinham <a href="{ $marketshare }">reduzido a fatia de mercado do { -brand-name-ie } para 50%</a>.
+browser-history-other-competitors = Outros competidores surgiram durante o final dos anos 90 e início dos anos 2000, incluindo { -brand-name-opera }, { -brand-name-safari } e { -brand-name-google } { -brand-name-chrome }. O { -brand-name-microsoft } { -brand-name-edge } substituiu o { -brand-name-ie } com o lançamento do { -brand-name-windows } 10 em 2015.
 browser-history-browsing-the-web = Navegando na web hoje
 browser-history-resources = Recursos
 browser-history-take-control-of = Assuma o controle do seu navegador.
