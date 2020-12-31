@@ -27,5 +27,14 @@ browser-history-by-1993-the-web = Tsjin 1993 eksplodearre it ynternet. Universit
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic draaide op { -brand-name-windows }-kompjûters , wie maklik te brûken en joech elkenien mei in pc tagong ta iere websiden, petearkeamers en ôfbyldingsbiblioteken. It oare jier (1994) rjochte Andreessen <a href="{ $netscape }">{ -brand-name-netscape }</a> op en joech { -brand-name-netscape } Navigator út oan it publyk. It wie hiel suksesfol, en de earste browser foar de minsken. It wie ek de earste stap yn in nij soarte oarloch foar ynternetbrûkers.
 browser-history-the-browser-wars = De browseroarlogen
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = Tsjin 1995 wie { -brand-name-netscape } Navigator net de iennige manier om online te gean. Kompjûtersoftwaregigant { -brand-name-microsoft } lisinsjearre de âlde Mosaic-koade en boude syn eigen finster nei it ynternet, <a href="{ $ie }">{ -brand-name-ie }</a>. De útjefte laad ta in oarloch. { -brand-name-netscape } en { -brand-name-microsoft } wurken koartsich om nije ferzjes fan harren programma’s te meitsjen en probearren elk de oaer te oertreffen mei fluggere, bettere produkten.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = { -brand-name-netscape } hat JavaScript makke en útbrocht, wêrtroch websites krêftige rekkenmooglikheden krigen dy't se nea earder hiene. (Se makken ek de ferneamde <a href="{ $blink }">&lt;blink&gt;-tag.) { -brand-name-microsoft } reagearre mei Cascading Style Sheets (CSS), dat de standert waard foar it ûntwerp fan websiden.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = It rûn in bytsje út de hân yn 1997 doe't { -brand-name-microsoft } { -brand-name-ie } 4.0 útbrocht. It team boude in gigantyske letter ‘e’ en pleatste dizze stikem yn de foartún fan it haadkantoar fan { -brand-name-netscape }. It { -brand-name-netscape }-team hat de gigantyske ‘e’ daliks omsmiten en <a href="{ $dino }">pleatste harren eigen { -brand-name-mozilla }-dinosaurusmaskotte dêrop</a>.
 browser-history-resources = Boarnen
 browser-history-take-control-of = Nim de kontrôle oer jo browser.
