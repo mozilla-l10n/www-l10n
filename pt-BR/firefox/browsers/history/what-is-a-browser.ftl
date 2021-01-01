@@ -20,6 +20,9 @@ what-is-a-browser-a-web-browser-long = Um navegador web te leva para qualquer lu
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = Infelizmente, nem todos os produtores de navegadores optam por interpretar o formato da mesma forma. Para os usuários, isso significa que um site pode aparentar e funcionar de modo diferente. A criação de consistência entre navegadores, para que qualquer usuário possa desfrutar da internet, independente do navegador que escolher, é chamada de <a href="{ $standards }">normas da web</a>.
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Quando o navegador web pega dados de um servidor conectado á internet,  ele usa um tipo de software chamado mecanismo de renderização para traduzir tais dados em texto e imagens. Esses dados estão escritos em <a href="{ $html }">Hypertext Markup Language</a> (HTML). Os navegadores web leem esse código para criar o que vemos, ouvimos e experienciamos na internet.
 what-is-a-browser-cookies-not-the = Cookies (não os do tipo biscoito)
 what-is-a-browser-understanding = Entendendo a privacidade
 what-is-a-browser-firefox-helps = O { -brand-name-firefox } ajuda você a ter mais privacidade online, permitindo bloquear rastreadores que tentam te seguir pela web.
