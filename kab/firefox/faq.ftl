@@ -46,8 +46,11 @@ what-is-firefox = D acu-t { -brand-name-firefox }?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+who-owns-firefox = Anwa i bab n { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } texdem-it { -brand-name-mozilla-corporation }, d ayla meṛṛa n <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ur nettnadi ara tadrimt, daɣen iteddu s wansayen n umeskan n { -brand-name-mozilla }. Issin ugar ɣef win i ixedmen{ -brand-name-firefox } <a href="{ $url2 }">dagi.</a>
+related-questions-who = Isteqsiyen-nniḍen: d anwa i d bab n { -brand-name-firefox }, d anwa i d bab n { -brand-name-firefox-browser }, d { -brand-name-firefox } bab-is d { -brand-name-google }, d { -brand-name-mozilla } { -brand-name-firefox } bab-is d { -brand-name-google }

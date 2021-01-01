@@ -10,4 +10,6 @@ privacy-passwords-security-guide-to = Amnir n tɣellist i uḥraz n yinekcam d w
 # page content
 privacy-passwords-a-security-guide = Amnir n tɣellist i uḥraz n yinekcam d wawalen uffiren
 privacy-passwords-protecting-your-accounts = Ammesten n yimiḍanen-inek·inem ur ilaq ara ad yiwɛir — yerna { -brand-name-firefox } yezmer ad ak·akem-iɛawen.
+# tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
+privacy-passwords-tldr = tl;dr:
 privacy-passwords-use-random-passwords = Seqdec awalen uffiren igacuranen, rnu seqdec i yal asmel awal uffir yemgaraden ɣef wayeḍ

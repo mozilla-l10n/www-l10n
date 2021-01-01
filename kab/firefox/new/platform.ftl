@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Aqadeṛ n tudert tsligt talla
 new-platform-live-your-life = Idir tudert-ik, { -brand-name-firefox } ur k-yettɛassa ara. Fren ayen tebɣiḍ ad tebḍuḍ melmi tebɣid.
 new-platform-seamless-setup = Asbeddi fessusen
 new-platform-easy-migration = Tuɣalin fessusen n yismenyifen ticki tessadreḍ-d { -brand-name-firefox } i { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Sader { -brand-name-firefox } <br>i { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Sader { -brand-name-firefox } <br> i { -brand-name-mac }i
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Sader { -brand-name-firefox } <br> i { -brand-name-linux }

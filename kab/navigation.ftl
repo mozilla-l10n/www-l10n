@@ -39,6 +39,7 @@ navigation-your-firefox-account = { -brand-name-firefox-account } inek
 navigation-make-the-most-of-your = Faṛes tagnit seg termit { -brand-name-firefox }, ɣef yibenkan-ik meṛṛa.
 # Outdated string
 navigation-learn-how-to-customize = Issin amek ara terreḍ { -brand-name-firefox } i teddu s wudem udmawan.
+navigation-explore-the-immersive = Snirem web udhim s ukask-ik n tilawt tuhlist.
 # Outdated string
 navigation-experience-augmented = Ɛreḍ tilawt yennernan akked tuhlist s { -brand-name-firefox }.
 navigation-get-together = Mlalet akk deg tilawt tuhlist s tallunt-a tanmettit deg uẓeṭṭa.
