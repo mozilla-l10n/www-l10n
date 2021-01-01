@@ -48,15 +48,18 @@ navigation-v2-view-all-products = Sken akk ifarisen
 
 ## Who We Are menu
 
-navigation-v2-who-we-are = Who We Are
-navigation-v2-close-who-we-are-menu = Mdel umuɣ n Who We Are
+navigation-v2-who-we-are = Anwi-aɣ
+navigation-v2-close-who-we-are-menu = Mdel umuɣ n Anwi-aɣ
 navigation-v2-mozilla-manifesto = Ameskan { -brand-name-mozilla }
 navigation-v2-learn-about-the-values = Issin azalen d yimenzayen iɣef tebna tuɣdaḍt-nneɣ.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Wali tuddsa ur nettnadi ara tadrimt { -brand-name-firefox } i yesseḥbibiren ɣef Web ufrin.
 navigation-v2-get-involved = Ttekki
 navigation-v2-join-the-fight-for-a = Ddu-d ad tennaɣeḍ ɣef Internet n tezmert yelhan.
 navigation-v2-leadership = Tanedbelt
+navigation-v2-meet-the-team-thats-building = Wali tarbaɛt i yesneflayen titiknulujiyin i Internet ufrin
 navigation-v2-careers = Imahilen
+navigation-v2-work-for-a-mission-driven-updated = Xdem ɣef tuddsa yesɛan tuɣdaḍt i izewwiren imdanen uqbel ifarisen.
 navigation-v2-mozilla-blog = Ablug n { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Issin ɣef { -brand-name-mozilla }d wuguren i aɣ-yeɛnan.
 navigation-v2-more-about-mozilla = Ugar ɣef { -brand-name-mozilla }
