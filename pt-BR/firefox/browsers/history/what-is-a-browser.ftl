@@ -9,6 +9,7 @@
 what-is-a-browser-what-is-a-web = O que é um navegador web?
 # HTML page description
 what-is-a-browser-a-web-browser = Um navegador web leva você a qualquer lugar na internet, permitindo ver textos, imagens e vídeos de qualquer lugar do mundo.
+what-is-a-browser-the-web-is-a-vast = A web é uma ferramente vasta e poderosa. Ao longo de poucas décadas, a internet mudou a maneira como trabalhamos, jogamos e interagimos uns com os outros. Dependendo de como é usada, ela conecta nações, impulsiona o comércio, nutre relacionamentos, impulsiona o mecanismo de inovação do futuro e é responsável pela criação de mais memes do que sabemos o que fazer com eles.
 what-is-a-browser-how-does-a-web = Como funciona um navegador web?
 what-is-a-browser-cookies-not-the = Cookies (não os do tipo biscoito)
 what-is-a-browser-understanding = Entendendo a privacidade
