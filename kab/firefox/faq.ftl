@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } FAQ
 what-is-firefox = D acu-t { -brand-name-firefox }?
 
 # Variables:
