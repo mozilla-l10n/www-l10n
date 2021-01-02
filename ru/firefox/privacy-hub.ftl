@@ -30,11 +30,11 @@ firefox-privacy-hub-youll-always-know-where-you = Вы всегда будете
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Здесь нет никаких скрытых планов. Наш бизнес не зависит от тайного злоупотребления вашим доверием. Наше <a href="{ $privacy }">Уведомление о конфиденциальности</a> действительно доступно для чтения. Любой человек в мире может посещать наши <a href="{ $meetings }">еженедельные собрания компании</a>. Если вы хотите изучить каждую точку данных, которую мы собираем, наш код открыт. И мы тоже.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Здесь нет никаких скрытых планов. Наш бизнес не зависит от тайного злоупотребления вашим доверием. Наше <a href="{ $privacy }">Уведомление о конфиденциальности</a> действительно доступно для чтения. Любой человек в мире может посещать наши <a href="{ $meetings }">еженедельные собрания компании</a>. Если вы хотите узнать о каждом бите информации, который мы собираем, наш исходный код открыт. И мы тоже.
 firefox-privacy-hub-why-trust-firefox = Почему { -brand-name-firefox } можно доверять?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-firefox-privacy-hub-because-we-put-people-first = Потому что мы ставим людей на первое место. Фактически, нас поддерживает <a href="{ $foundation }">некоммерческая организация</a>. С первого дня нашей задачей было защитить Интернет и всех, кто в нём есть.
+firefox-privacy-hub-because-we-put-people-first = Потому что мы ставим людей на первое место. Фактически, нас поддерживает <a href="{ $foundation }">некоммерческая организация</a>. С первого дня нашей задачей было защищать Интернет, а также всех и каждого в отдельности.
 firefox-privacy-hub-learn-more-about-our-mission = Узнайте больше о нашей миссии
 firefox-privacy-hub-your-privacy-by-the-product = Обеспечение приватности в наших продуктах
 firefox-privacy-hub-firefox-products-work-differently = Продукты { -brand-name-firefox } работают по-другому, потому что они в первую очередь разработаны для защиты вашей приватности.
@@ -46,13 +46,13 @@ firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Более 2000 трекеров блокируются — автоматически
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Отслеживание превратилось в онлайн-эпидемию: компании следят за каждым шагом, щелчком и покупкой, собирая данные, чтобы предсказать и повлиять на то, что вы будете делать дальше. Мы считаем, что это грубое вторжение в вашу личную жизнь. Вот почему в мобильных и компьютерных браузерах { -brand-name-firefox } по умолчанию включена Улучшенная защита от отслеживания.
-firefox-privacy-hub-if-you-want-to-see-what = Если вы хотите узнать, что { -brand-name-firefox } блокирует для вас, посетите эту страницу в своем браузере { -brand-name-firefox }.
-firefox-privacy-hub-see-what-firefox-has-blocked = Узнайте, что { -brand-name-firefox } для вас заблокировал
+firefox-privacy-hub-if-you-want-to-see-what = Если вы хотите узнать, что { -brand-name-firefox } блокирует, посетите эту страницу в своём браузере { -brand-name-firefox }.
+firefox-privacy-hub-see-what-firefox-has-blocked = Узнайте, что заблокировал { -brand-name-firefox }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Получите доступ к Улучшенной защите от отслеживания
 firefox-privacy-hub-download-the-firefox-browser = Загрузить браузер { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Обновить свой браузер { -brand-name-firefox }
-firefox-privacy-hub-invisible-to-the-top-trackers = Невидимый для топовых трекеров
+firefox-privacy-hub-invisible-to-the-top-trackers = Невидимый для самых хитрых трекеров
 firefox-privacy-hub-meet-four-of-the-most-common = Познакомьтесь с четырьмя наиболее распространенными категориями трекеров — с которыми вы не встретитесь.
 firefox-privacy-hub-always-in-your-control = Всегда под вашим контролем
 firefox-privacy-hub-want-to-customize-what = Хотите настроить, что блокируется? Ваши настройки находятся на расстоянии одного щелчка.
@@ -65,7 +65,7 @@ firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Когда вы вводите свой адрес электронной почты в { -brand-name-firefox-monitor }, мы забываем его сразу же после того, как проверим его наличие в известных утечках данных — если только вы не разрешите нам продолжать отслеживать появление вашей личной информации в новых утечках данных.
 firefox-privacy-hub-check-for-breaches = Проверить на утечки
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
-firefox-privacy-hub-the-passwords-and-credentials = Пароли и учётные данные, которые вы сохраняете в { -brand-name-firefox-lockwise }, зашифрованы на всех ваших устройствах, поэтому даже мы не можем их увидеть.
+firefox-privacy-hub-the-passwords-and-credentials = Пароли и учётные данные, которые вы сохраняете в { -brand-name-firefox-lockwise }, шифруются на всех ваших устройствах, поэтому даже мы не сможем их увидеть.
 firefox-privacy-hub-learn-more-about-lockwise = Узнайте больше о { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Мы не можем видеть имена или содержимое больших файлов, которыми вы делитесь через { -brand-name-firefox-send }, потому что они зашифрованы сквозным шифрованием — вы решаете, кто видит, что вы отправляете, и вы даже можете установить срок действия и пароль.

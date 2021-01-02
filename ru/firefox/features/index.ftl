@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 # HTML page title
-features-index-protect-your-privacy-and-browse = Защищайте вашу приватность и сёрфите быстрее с богатыми возможностями { -brand-name-firefox }
+features-index-protect-your-privacy-and-browse = Защищайте свою приватность и сёрфите быстрее с богатыми возможностями { -brand-name-firefox }
 # HTML page description
-features-index-youre-in-control-with-firefoxs = Вы управляете возможностями { -brand-name-firefox }, которые защищают вашу приватность и ускоряют сёрфинг.
+features-index-youre-in-control-with-firefoxs = Вы управляете простыми возможностями { -brand-name-firefox }, которые защищают вашу приватность и ускоряют сёрфинг.
 # Hero title
 features-index-firefox-features = Возможности { -brand-name-firefox }
 # Hero description
@@ -18,14 +18,14 @@ features-index-see-all = Посмотреть все расширения
 features-index-give-your-browser = Придайте своему браузеру желаемый вид с помощью тысяч различных тем.
 features-index-important-stuff = Убедитесь, что все ваши важные данные — поиск в Интернете, пароли, открытые вкладки — отображаются там, где они вам нужны, на каждом устройстве.
 features-index-get-an-account = Создать { -brand-name-firefox-account }
-features-index-use-the-bookmark = Используйте значок закладки в виде звездочки, чтобы оставаться организованным и быстро добавлять собственные имена и папки.
+features-index-use-the-bookmark = Используйте значок создания закладки в виде звёздочки, чтобы оставаться организованными и быстро добавлять собственные имена и папки.
 features-index-from-the-company = От компании, которая ставит людей выше прибыли
-features-index-private-browsing-mode = В режиме приватного просмотра данные кук и история просмотров удаляются каждый раз, когда вы его закрываете.
+features-index-private-browsing-mode = В режиме приватного просмотра данные кук и история просмотров удаляются каждый раз, как вы его закрываете.
 features-index-firefox-automatically = { -brand-name-firefox } автоматически блокирует более 2000 рекламных трекеров следящих за вами в Интернете.
-features-index-access-all-passwords = { -brand-name-firefox-lockwise } позволяет получить доступ ко всем паролям, которые вы сохранили в { -brand-name-firefox }, и это бесплатно.
-features-index-just-enough = { -brand-name-firefox } использует лишь столько памяти, сколько нужно для бесперебойной работы, так что ваш компьютер остаётся отзывчивым для других задач.
-features-index-use-less-memory = { -brand-name-firefox } использует меньше памяти, чем { -brand-name-chrome }, поэтому другие ваши программы могут работать с максимальной скоростью.
-features-index-open-source-minds = Свободное программное обеспечение. Свободный разум.
+features-index-access-all-passwords = { -brand-name-firefox-lockwise } позволяет получать доступ ко всем паролям, которые вы сохранили в { -brand-name-firefox } — и это бесплатно.
+features-index-just-enough = { -brand-name-firefox } использует лишь столько памяти, сколько нужно для стабильной работы, чтобы ваш компьютер оставался отзывчивым для других задач.
+features-index-use-less-memory = { -brand-name-firefox } использует меньше памяти, чем { -brand-name-chrome }, поэтому другие ваши программы будут работать с максимальной скоростью.
+features-index-open-source-minds = Открытый исходный код. Открытый разум.
 features-index-mozilla-creates = { -brand-name-mozilla } создает мощные веб-технологии для всех и каждого.
 features-index-see-what-makes-us-different = Посмотрите, что делает нас другими
 features-index-by-non-profit-mozilla = От некоммерческой организации { -brand-name-mozilla }
@@ -45,8 +45,9 @@ features-index-firefox-vs = { -brand-name-firefox } против других б
 features-index-stack-up = Посмотрите, чем отличается { -brand-name-firefox } от других популярных браузеров.
 features-index-compare-browsers = Сравнение браузеров
 features-index-see-themes = Посмотрите популярные темы
-features-index-download-latest = Загрузите последнюю версию { -brand-name-firefox }
+features-index-download-latest = Загрузить последнюю версию { -brand-name-firefox }
 features-index-fingerprinter-blocking = Блокировка сборщиков цифровых отпечатков
+features-index-fingerprinting-is-a = Сбор цифровых отпечатков — это вид онлайн-отслеживания, который более агрессивен, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser } блокирует его.
 features-index-block-fingerprinters = Блокирование сборщиков цифровых отпечатков
 features-index-translate-the-web = Перевод веб-страниц
 features-index-translate-more-than = Переводите с более 100 языков на свой язык прямо в { -brand-name-firefox-browser(case: "prepositional") } — проще, чем когда-либо раньше.

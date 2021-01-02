@@ -10,9 +10,9 @@ newsletters-newsletter-subscriptions = Подписки на новостные 
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Новостная рассылка { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
-newsletters-read-all-about-it-in-our-newsletter = Узнайте все новости из <span>нашей подписки</span>
+newsletters-read-all-about-it-in-our-newsletter = Узнайте все новости из нашей <span>новостной рассылки</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
-newsletters-subscribe-to-updates-and-keep = Подпишитесь на обновления и оставайтесь в курсе новостей { -brand-name-mozilla }. Это отличный способ для вас быть на связи с нами!
+newsletters-subscribe-to-updates-and-keep = Подпишитесь на обновления и оставайтесь в курсе новостей { -brand-name-mozilla }. Это отличный способ быть с нами на связи!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Подтверждение новостной рассылки
 newsletters-thanks-for-subscribing = Спасибо за подписку!
@@ -29,22 +29,22 @@ newsletters-manage-your-email-preferences = Управление настрой�
 newsletters-this-page-is-in-maintenance = Эта страница находится в режиме обслуживания и временно недоступна.
 newsletters-to-update-your-email-preferences = Чтобы обновить параметры электронной почты, зайдите на сайт чуть позже. Спасибо!
 newsletters-we-love-sharing-updates = Нам нравится делиться новостями об удивительных вещах, происходящих в { -brand-name-mozilla }.
-newsletters-set-your-preferences-below = Установите настройки так, как показано ниже, чтобы всегда получать нужные новости.
+newsletters-set-your-preferences-below = Измените настройки ниже, чтобы всегда получать нужные новости.
 # Form field label
-newsletters-your-email-address = Ваш адрес эл. почты:
+newsletters-your-email-address = Ваш адрес электронной почты:
 # Form field label
 newsletters-country-or-region = Страна или регион:
 # Form field label
 newsletters-country = Страна:
 # Form field label
 newsletters-language = Язык:
-newsletters-not-all-subscriptions-are = Не все подписки поддерживаются на всех перечисленных здесь языках. Почти все предлагаются на английском, немецком и французском языках.
+newsletters-not-all-subscriptions-are = Не все подписки поддерживаются на всех перечисленных здесь языках. Почти все доступны на английском, немецком и французском языках.
 # Form field label
 newsletters-format = Формат:
 newsletters-text-subscribers-will-receive = Подписчики на текстовые подписки будут получать по электронной почте два раза в год письма для подтверждения продолжения подписки. Эти письма могут включать в себя HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-newsletters-many-of-our-communications = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-firefox-accounts(case: "dative") }, профилю на сайте { -brand-name-mdn-web-docs(case: "genitive") } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
+newsletters-many-of-our-communications = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-firefox-accounts(case: "dative") }, профилю на сайте { -brand-name-mdn-web-docs(case: "genitive") } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка всех ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Чтобы получить доступ к целому миру продуктов, знаний и сервисов { -brand-name-firefox } с помощью одного аккаунта, присоединитесь к нам! Узнайте больше о преимуществах <a href="{ $url }">здесь</a>.
@@ -58,11 +58,11 @@ newsletters-subscribe = Подписаться
 newsletters-remove-me-from-all-the = Удалить меня из всех подписок на этой странице
 newsletters-save-preferences = Сохранить настройки
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-newsletter-email-recovery = Восстановление рассылки
+newsletters-newsletter-email-recovery = Восстановление подписки
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Управление <span>подписками</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-enter-your-email-address = Введите адрес электронной почты, и мы вышлем вам ссылку на страницу настроек электронной почты.
+newsletters-enter-your-email-address = Введите адрес электронной почты, и мы вышлем вам ссылку на страницу управления подписками по электронной почте.
 newsletters-send-me-a-link = Отправить мне ссылку
 newsletters-youve-been-unsubscribed = Вы отписались от рассылки.
 newsletters-were-sorry-to-see-you-go = Нам жаль, что вы уходите.
@@ -91,14 +91,14 @@ newsletters-put-more-fox-in-your-inbox = Ещё больше новостей о
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Достигайте большего с ежемесячными советами, хитростями и новинками от { -brand-name-firefox }.
 newsletters-we-are-sorry-but-there = Извините, в системе возникла проблема. Пожалуйста, повторите попытку позже!
-newsletters-thanks-for-updating-your = Спасибо, что обновили ваши почтовые настройки.
+newsletters-thanks-for-updating-your = Спасибо, что обновили настройки своих подписок.
 newsletters-the-supplied-link-has-expired-long = Cрок действия ссылки истёк или она недействительна. Вы получите новую ссылку в следующем письме, также вы можете запросить письмо со ссылкой сами.
-newsletters-success-an-email-has-been-sent = Успех! Вам отправлено письмо со ссылкой на страницу настроек. Спасибо!
+newsletters-success-an-email-has-been-sent = Готово! Вам отправлено письмо со ссылкой на страницу настроек. Спасибо!
 newsletters-this-is-not-a-valid-email = Это некорректный адрес электронной почты. Пожалуйста, проверьте написание.
-newsletters-you-send-too-many-emails = Я получал слишком много писем.
-newsletters-your-content-wasnt-relevant = Содержимое писем было для меня не интересно.
+newsletters-you-send-too-many-emails = Вы присылали слишком много писем.
+newsletters-your-content-wasnt-relevant = Содержимое писем было для меня не интересным.
 newsletters-your-email-design = Стиль изложения ваших писем слишком трудный для чтения.
-newsletters-i-didnt-sign-up = Я на это не подписывался.
+newsletters-i-didnt-sign-up = Я на это не подписывался(лась).
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = В базе данных нет этого адреса. Пожалуйста, проверьте свой адрес или <a href="{ $url }">подпишитесь на наши рассылки.</a>
@@ -111,17 +111,18 @@ newsletters-sign-up-read-up-make-a-difference = Подпишитесь. Чита
 newsletters-get-smart-on-the-issues = Будьте в курсе событий, затрагивающих вашу жизнь в Интернете.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Получайте новостную рассылку { -brand-name-mozilla }, чтобы быть в курсе проблем, затрагивающих здоровье Интернета, и узнавайте, как вы можете принять участие.
-newsletters-your-email-preferences = Ваши настройки электронной почты были успешно обновлены.
+newsletters-your-email-preferences = Ваши настройки подписок по электронной почте были успешно обновлены.
 newsletters-consider-it-done = Считайте что это сделано
-newsletters-back-to-email-preferences = Вернуться к настройкам электронной почты
+newsletters-back-to-email-preferences = Вернуться к настройкам подписок
 newsletters-here-are-a-few-things = Вот несколько вещей, на которые стоит обратить внимание, пока вы ждёте следующего письма.
 newsletters-take-your-privacy = Возьмите свою приватность с собой
 newsletters-travel-the-internet = Путешествуйте по Интернету с защитой на всех ваших устройствах.
 newsletters-download-the-app = Загрузить приложение
-newsletters-check-for-data-breaches = Проверить на утечки данных
+newsletters-check-for-data-breaches = Проверьтесь на утечки данных
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } — это бесплатная служба, которая позволяет вам узнать, не были ли вы затронуты утечками данных в Интернете.
 newsletters-sign-in-to-monitor = Войти в { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Познакомьтесь с нашим родительским брендом
-newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, некоммерческая организация, стоящая за { -brand-name-firefox }, ставит людей выше прибыли во всём, что мы говорим, строим и делаем.
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, некоммерческая организация, стоящая за { -brand-name-firefox }, ставит людей выше прибыли во всём, что мы говорим, создаём и делаем.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = О стандартах
 # Name for the newsletter in Newsletter subscription page
@@ -135,15 +136,17 @@ newsletters-drumbeat-newsgroup = Группа новостей Drumbeat
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } для компьютера
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-newsletters-dont-miss-the-latest = Не пропустите последние объявления о нашем браузере.
+newsletters-dont-miss-the-latest = Не пропустите последние новости о своём браузере.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Примите участие
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Аналитика
 # Obsolete string
 newsletters-internet-health-report = Доклад о здоровье Интернета
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } публикует статьи и глубоко погружается в вопросы, касающиеся здоровья Интернета и надёжного ИИ, включая наш ежегодный отчёт о здоровье Интернета.
 # Obsolete string
-newsletters-keep-up-with-our-annual = Следите за нашей ежегодной подборкой исследований и материалов по вопросам конфиденциальности и безопасности, открытости, цифровой вовлечённости, децентрализации и веб-грамотности.
+newsletters-keep-up-with-our-annual = Следите за нашей ежегодной подборкой исследований и материалов по вопросам приватности и безопасности, открытости, цифровой вовлечённости, децентрализации и веб-грамотности.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Знание — сила
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
@@ -207,7 +210,7 @@ newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
 newsletters-periodic-email-updates = Периодические обновления о нашем ежегодном международном конкурсе фильмов.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+newsletters-firefox-ios = { -brand-name-firefox } для { -brand-name-ios }
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
 newsletters-be-the-first-to-know = Станьте первым, кто узнает о появлении { -brand-name-firefox } для устройств { -brand-name-ios }.
 # Name for the newsletter in Newsletter subscription page
