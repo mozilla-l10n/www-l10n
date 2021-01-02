@@ -45,7 +45,7 @@ compare-shared-overall-assessment = Общая оценка
 compare-shared-the-comparisons-made-here-updated = Приведённые здесь сравнения были выполнены с настройками по умолчанию в следующих версиях браузеров:
 # Obsolete string
 compare-shared-the-comparisons-made-here = Приведённые здесь сравнения были выполнены в следующих версиях браузеров:
-compare-shared-this-page-updated-semi-quarterly = Эта страница обновляется два раза в квартал, чтобы отразить последние версии и не всегда может отражать последние обновления.
+compare-shared-this-page-updated-semi-quarterly = Эта страница обновляется два раза в квартал, чтобы учитывать последние версии и не всегда может отражать последние обновления.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
