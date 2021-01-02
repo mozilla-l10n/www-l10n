@@ -39,7 +39,7 @@ navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Получите максимальную отдачу от { -brand-name-firefox } на любом устройстве.
 # Outdated string
 navigation-learn-how-to-customize = Узнайте, как настроить работу { -brand-name-firefox }.
-navigation-explore-the-immersive = Исследуйте захватывающий Интернет с помощью гарнитуры виртуальной реальности.
+navigation-explore-the-immersive = Исследуйте захватывающий Интернет с помощью очков виртуальной реальности.
 # Outdated string
 navigation-experience-augmented = Испытайте дополненную и виртуальную реальность с { -brand-name-firefox }.
 navigation-get-together = Соберитесь вместе в виртуальной реальности в этом социальном онлайн-пространстве.

@@ -146,7 +146,15 @@
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-send = Send
--brand-name-sync = Sync
+-brand-name-sync =
+    { $case ->
+       *[nominative] Синхронизация
+        [genitive] Синхронизации
+        [dative] Синхронизации
+        [accusative] Синхронизацию
+        [instrumental] Синхронизацией
+        [prepositional] Синхронизации
+    }
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
 
