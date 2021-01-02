@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Przeglądanie prywatne z dodatkową ochroną przed śledzeniem
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } chroni Twoją prywatność i blokuje próby śledzenia Cię w Internecie.
+features-private-browsing-download-firefox = Pobierz { -brand-name-firefox(case: "acc") }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: więcej ochrony, mniej zmartwień.
 features-private-browsing-were-obsessed-with = Mamy fioła na punkcie ochrony Twojej prywatności. Dlatego tryb prywatny { -brand-name-firefox(case: "gen") } jest potężniejszy niż inne, podobne opcje.
 features-private-browsing-browse-without = Przeglądaj Internet bez śladu

@@ -51,3 +51,4 @@ sub-navigation-privacy = Prywatność
 sub-navigation-our-promise = Nasza obietnica
 sub-navigation-our-products = Nasze produkty
 sub-navigation-little-book-of-privacy = Mała księga prywatności
+sub-navigation-safe-passwords = Bezpieczne hasła
