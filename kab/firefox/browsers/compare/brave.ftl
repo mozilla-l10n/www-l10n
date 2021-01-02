@@ -33,6 +33,7 @@ compare-brave-there-are-a-few-of-braves = Llant kra n tmahilin n tɣellist deg {
 # "Basic Attention Token" is a brand name.
 compare-brave-the-bottom-line-is-that-even = Deg taggara ad d-nini ɣas akken taneɣruft n usukkes n tedrimt n { -brand-name-brave } s yijiṭuten n uwelleh izaduren zemren ad ilin d uddisen aṭas i waṭas n yiseqdacen, ɣas akken i sin yiminigen { -brand-name-brave } d { -brand-name-firefox } ttmuddun s umata aṭas n yiberdan yemgarraden i ufaṛes seg termit n tunigin tusligt, taɣellsant.
 compare-brave-what-might-surprise-some-new = Ayen i izemren ad yesseqhem kra n yiseqdacen imaynuten n { -brand-name-brave } d zzerb deg usali n yisebtar deg yiminig. Taɣzint n wakuden-a n usali arurad d isebtar-a i d-yettalin s zzerb ugar mi ara tesweḥleḍ meṛṛa adellel i d-iteddun deg-sen. Ihi, drus ara yilin i usali, ɣef waya ad yeṭṭef drus n wakud.
+compare-brave-in-terms-of-actual-precious = S tewtilin n useqdec ilaw n RAM igerrzen, iminig { -brand-name-brave } d aẓayan ugar ɣef { -brand-name-firefox }{ -brand-name-firefox }. { -brand-name-brave } yettwasuli-d s waṭas n tmahilin yemgaraden akked “yizegrar” i izemren ad ttekkin deg useqdec-ines ɛlayen n RAM. { -brand-name-firefox }, seg tama-nniḍen, ad ak·akem-yeǧǧ ad tferneḍ anwi izegrar akked yisiɣzaf i tebɣiḍ ad ternuḍ.
 # Variables:
 #   $addons - link to addons.mozilla.org/firefox/ with additional attributes for analytics
 #   $screenshot - link to screenshots.firefox.com with additional attributes for analytics
