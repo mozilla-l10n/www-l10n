@@ -8,14 +8,14 @@
 # HTML page title
 whatsnew79-page-title = Что нового в { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = Храните ваши данные в тайне от всех — включая нас
+whatsnew79-main-title = Храните ваши данные в тайне ото всех — включая нас
 whatsnew79-main-intro = Интернет должен быть безопасным местом для всех и каждого. Вот почему { -brand-name-firefox } не отслеживает вас в Интернете и не даёт другим следить за вами.
 # Main CTA button
 whatsnew79-primary-cta = Сделайте { -brand-name-firefox } браузером по умолчанию
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Загрузить { -brand-name-firefox }
 whatsnew79-secure-your-connection = Защитите свое соединение
-whatsnew79-with-one-tap-mozilla-vpn = Одним касанием { -brand-name-mozilla-vpn } шифрует ваше соединение, чтобы ваша онлайн-активность была конфиденциальной в любой сети — в безопасности от хакеров и посторонних глаз.
+whatsnew79-with-one-tap-mozilla-vpn = Одним касанием { -brand-name-mozilla-vpn } зашифрует ваше соединение, чтобы ваша онлайн-активность была приватной в любой сети — в безопасности от хакеров и посторонних глаз.
 # CTA link
 whatsnew79-get-started = Начало работы
 whatsnew79-get-more-control-over = Получите больше контроля над трекерами
