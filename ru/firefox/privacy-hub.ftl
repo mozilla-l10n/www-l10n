@@ -8,7 +8,7 @@
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = Обещание по Приватности { -brand-name-firefox }
 # HTML page description
-firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } собирает меньше меньше данных, обеспечивает их безопасность и не имеет секретов.
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } собирает меньше данных, держит их в безопасности и не имеет секретов.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = Продукты { -brand-name-firefox } предназначены для защиты вашей <strong>приватности</strong>
 # Sub navigation title
@@ -17,14 +17,14 @@ firefox-privacy-privacy = Приватность
 firefox-privacy-our-promise = Наше обещание
 # Sub navigation link
 firefox-privacy-our-products = Наши продукты
-firefox-privacy-hub-you-should-be-able-to-decide = Вы должны иметь возможность решать, кто видит вашу личную информацию. Не только среди ваших друзей, но и среди всех рекламодателей и компаний в Интернете — включая нас.
-firefox-privacy-hub-thats-why-everything-we-make = Вот почему все, что мы создаём и делаем, соответствует нашему Обещанию по Личным Данным.
+firefox-privacy-hub-you-should-be-able-to-decide = Вы должны иметь возможность решать, кто будет видеть вашу личную информацию. Не только среди ваших друзей, но и среди всех рекламодателей и компаний в Интернете — включая нас.
+firefox-privacy-hub-thats-why-everything-we-make = Вот почему всё, что мы создаём и делаем, соответствует нашему Обещанию по Личным Данным.
 firefox-privacy-hub-take-less = Собираем меньше
 firefox-privacy-hub-we-make-a-point-of-knowing = Мы стараемся знать о вас меньше
 firefox-privacy-hub-all-tech-companies-collect = Все технологические компании собирают данные для улучшения своих продуктов. Но в них не обязательно включать много вашей личной информации. Единственные данные, которые нам нужны — это данные, которые в конечном итоге пригодятся вам. Мы спрашиваем себя: действительно ли нам это нужно? Зачем нам это нужно? И когда мы сможем это удалить?
 firefox-privacy-hub-keep-it-safe = Держим в безопасности
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Мы делаем всё возможное, чтобы защитить вашу личную информацию
-firefox-privacy-hub-data-security-is-complicated = Безопасность данных сложна — или, по крайней мере, должна быть. Вот почему мы предпринимаем дополнительные шаги для классификации имеющихся у нас данных, соблюдаем правила хранения и защиты для каждого типа данных и никогда не прекращаем повторять наши процессы. Мы уделяем приоритетное внимание вашей приватности. Мы в это инвестируем. Мы этому привержены. Мы даже обучаем этому другие компании.
+firefox-privacy-hub-data-security-is-complicated = Защита данных сложна — или, по крайней мере, должна быть. Вот почему мы предпринимаем дополнительные шаги для классификации имеющихся у нас данных, соблюдаем правила хранения и защиты для каждого типа данных и постоянно совершенствуем эти процессы. Мы уделяем приоритетное внимание вашей приватности. Мы в это инвестируем. Мы этому привержены. Мы даже обучаем этому другие компании.
 firefox-privacy-hub-no-secrets = Никаких секретов
 firefox-privacy-hub-youll-always-know-where-you = Вы всегда будете знать, где вы с нами
 # Variables:
