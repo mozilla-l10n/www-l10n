@@ -48,7 +48,7 @@ new-platform-faster-page-loading-mac = Ещё более быстрая загр
 # /firefox/mac/ main page title. Span is for visually formatting.
 new-platform-firefox-respects-your = { -brand-name-firefox } уважает <span>вашу приватность на { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = Приватность всегда на первом месте
-new-platform-firefox-doesnt-spy = { -brand-name-firefox } не шпионит за вашими поисками. Мы не даём сторонним кукам отслеживать вас и предоставляем вам полный контроль.
+new-platform-firefox-doesnt-spy = { -brand-name-firefox } не шпионит за вашими поисковыми запросами. Мы не даём сторонним кукам отслеживать вас и предоставляем вам полный контроль.
 new-platform-get-speed-and-security = Получите скорость и безопасность. { -brand-name-firefox } быстр на { -brand-name-mac-short }, потому что он не следит за вами.
 new-platform-block-trackers = Блокируйте трекеры
 new-platform-be-the-master-of-your = Будьте хозяином своего браузера со строгой блокировкой содержимого. Уберите все сторонние куки и трекеры.

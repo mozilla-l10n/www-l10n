@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Лучший опыт работы в Интернете
+features-shared-a-better-internet-experience = Самая удобная работа в Интернете
 features-shared-more-firefox-features = Дополнительные возможности браузера { -brand-name-firefox }
 features-shared-browse-faster = Ускорение веб-серфинга
 features-shared-your-favorite-extensions = Ваши любимые расширения
