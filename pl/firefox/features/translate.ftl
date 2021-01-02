@@ -10,3 +10,15 @@ features-translate-translate-the-web-title = Tłumacz Internet — bezpośrednio
 # page description
 features-translate-translate-more-than = Tłumacz z ponad 100 języków na swój język bezpośrednio w { -brand-name-firefox-browser(case: "dat", capitalization: "lower") } — łatwiej niż kiedykolwiek.
 features-translate-translate-the-web = Tłumacz Internet za pomocą { -brand-name-firefox(case: "gen") }
+features-translate-the-google-translate = Rozszerzenie To { -brand-name-google } Translate do { -brand-name-firefox(case: "gen") } sprawia, że Internet jest dostępny dla całego świata.
+features-translate-to-google-translate = To { -brand-name-google } Translate
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-the-extension = Pobierz rozszerzenie
+features-translate-switch-languages-in = Przełącz język w { -brand-name-firefox(case: "loc") }
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Jeśli już używasz { -brand-name-firefox(case: "gen") }, możesz zmienić język przeglądarki lub dodać języki do interfejsu { -brand-name-firefox(case: "gen") }. <a { $attrs }>Tutaj dowiesz się, jak to zrobić.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Za pomocą rozszerzenia To { -brand-name-google } Translate można obecnie tłumaczyć <a { $attrs }>te języki</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> i nie tylko!</a>
+features-translate-for-everyone = Firefox jest dla wszystkich
