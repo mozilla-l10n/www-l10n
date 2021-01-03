@@ -7,6 +7,8 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Amnir n tɣellist i uḥraz n yinekcam d wawalen uffiren
+# HTML page description
+privacy-passwords-more-and-more-desc = Ugar d wugar n umḥulfu, tiɣawsiwin s wazal-nsent deg tudert-nneɣ ttwaḥerzent s yimiḍanen srid, ttummestnent s wawal uffir. Amek i ilaq ad nemmesten inekcumen-nneɣ?
 # page content
 privacy-passwords-a-security-guide = Amnir n tɣellist i uḥraz n yinekcam d wawalen uffiren
 privacy-passwords-protecting-your-accounts = Ammesten n yimiḍanen-inek·inem ur ilaq ara ad yiwɛir — yerna { -brand-name-firefox } yezmer ad ak·akem-iɛawen.
