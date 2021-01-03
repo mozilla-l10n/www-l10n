@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 banner-firefox-daylight-promo-title = Dostupan je NOVI { -brand-name-firefox } za { -brand-name-android } i { -brand-name-ios }
-banner-firefox-daylight-promo-button = Preuzmi
+banner-firefox-daylight-promo-button = Preuzmi sada
