@@ -51,3 +51,4 @@ sub-navigation-privacy = Privatësi
 sub-navigation-our-promise = Premtimi Ynë
 sub-navigation-our-products = Produktet Tona
 sub-navigation-little-book-of-privacy = Broshura e Privatësisë
+sub-navigation-safe-passwords = Fjalëkalime të Parrezik
