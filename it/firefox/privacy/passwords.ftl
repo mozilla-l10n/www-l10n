@@ -7,13 +7,25 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Guida sulla sicurezza per credenziali di accesso più sicure
+# HTML page description
+privacy-passwords-more-and-more-desc = Dettagli sensibili e preziosi della nostra vita sono custoditi sempre più spesso in account online protetti da password. Come possiamo proteggere le nostre credenziali?
+# page content
+privacy-passwords-a-security-guide = Guida sulla sicurezza per credenziali di accesso più sicure
+privacy-passwords-protecting-your-accounts = Proteggere i tuoi account non dovrebbe essere complicato: { -brand-name-firefox } può darti una mano.
+privacy-passwords-more-and-more = Sempre più spesso, dettagli sensibili e preziosi della nostra vita quali lettere d’amore, referti medici, conti bancari, ecc., sono custoditi in account online protetti da password. I siti web utilizzano diversi sistemi di accesso per tutelarli. In generale, finché qualcuno non riesce ad accedere al tuo account, non potrà leggere le tue email o prelevare denaro dal tuo conto bancario. Come possiamo proteggere le nostre credenziali mentre viviamo le nostre vite online?
 privacy-passwords-use-random-passwords = Usa password casuali e diverse per ogni sito
+privacy-passwords-pay-attention-to = Presta attenzione a eventuali notifiche del browser in materia di sicurezza e non fidarti
 privacy-passwords-make-your-answers = Rendi le risposte alle domande di sicurezza efficaci quanto le tue password
 privacy-passwords-use-a-password = Usa uno strumento di gestione password per creare e ricordare le password più facilmente
+privacy-passwords-use-twofactor-authentication = Scegli l’autenticazione a due fattori ogni volta che puoi
 privacy-passwords-its-hard-out = La difficile vita di una password
+privacy-passwords-most-logins-today = Al giorno d’oggi l’accesso alla maggior parte dei servizi è protetto da una password: se un malintenzionato riesce a ottenerla, può accedere all’account e fare tutto ciò che tu fai normalmente con quel servizio. Per questo motivo, la sicurezza del tuo account dipende in larga parte dalla sicurezza della tua password. Per capire quanto sia sicura, puoi esaminare i diversi modi in cui qualcuno potrebbe appropriarsi della tua password:
+privacy-passwords-seeing-you-use = Osservando che la stai usando in un sito web con connessione non crittata
 privacy-passwords-guessing-it = Indovinandola
 privacy-passwords-stealing-a-file = Rubando un file in cui è contenuta la tua password
 privacy-passwords-using-password-recovery = Utilizzando il recupero password per ripristinarla
+privacy-passwords-tricking-you-into = Utilizzando stratagemmi per convincerti a fornirgliela direttamente
+privacy-passwords-to-keep-your = Per mantenere le tue credenziali al sicuro, devi assicurarti di evitare la maggior parte delle situazioni appena descritte. Per ognuna di esse esiste una diversa strategia di riduzione del rischio.
 privacy-passwords-look-for-the = Cerca l’icona del lucchetto nel tuo browser
 privacy-passwords-its-easy-to = È facile impedire il furto della tua password quando accedi a un sito web che utilizza una connessione non crittata: pensaci due volte prima di digitare la password se non vedi l’icona di un lucchetto nella barra degli indirizzi. Ecco alcuni esempi:
 privacy-passwords-a-closed-lock = In tutti i principali browser viene visualizzata l’icona di un lucchetto chiuso appena prima dell’indirizzo del sito web nella barra degli indirizzi.
