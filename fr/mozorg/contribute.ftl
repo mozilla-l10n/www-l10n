@@ -10,14 +10,17 @@
 
 contribute-page-title = Possibilités de bénévolat chez { -brand-name-mozilla }
 contribute-page-heading = Nous avons besoin de vos talents pour un Internet meilleur
+contribute-page-intro = { -brand-name-mozilla } est une organisation à but non lucratif qui veille à ce qu’Internet soit ouvert et accueillant pour toutes et tous. Et nous avons besoin de votre aide. En rejoignant notre communauté, vous pouvez contribuer à l’innovation, renforcer la responsabilité et la confiance et faire d’Internet un meilleur endroit pour tout le monde.
 contribute-how-heading = Comment participer…
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Non technique
 contribute-tag-technical = Technique
 contribute-tag-support = Assistance
 contribute-task-translate-heading = Traduire du contenu
 contribute-task-join-heading = Rejoignez la communauté
+contribute-task-join-desc = Vous souhaitez vous impliquer davantage dans la communauté { -brand-name-mozilla } ? Découvrez toutes les opportunités de bénévolat sur notre portail communautaire.
 
 ## Mission
 
@@ -34,6 +37,7 @@ contribute-opportunities = Informations et possibilités de bénévolat
 
 ## Made by
 
+contribute-made-by-desc = Lorsque vous contribuez à { -brand-name-mozilla }, vous faites partie d’une communauté mondiale de personnes qui croient que nous avons toutes et tous un rôle à jouer pour garantir qu’Internet reste une force de progrès.
 
 ## Newsletter
 
