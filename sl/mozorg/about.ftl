@@ -1,0 +1,58 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/about/
+
+# HTML Page title
+about-learn-about-mozilla = Spoznajte Mozillo
+# HTML page description
+about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } ustvarja brskalnike, aplikacije, kodo in orodja, ki uporabnike postavljajo pred dobiček. Naše poslanstvo je ohraniti internet odprt in dostopen vsakomur.
+# Main heading
+about-mozilla-makes-browsers-apps = { -brand-name-mozilla } ustvarja brskalnike, aplikacije, kodo in orodja, ki uporabnike postavljajo pred dobiček.
+# Main sub-heading
+about-our-mission-keep-the-internet = Naše poslanstvo: ohraniti internet odprt in dostopen vsem.
+# Main call to action
+about-read-our-mission = Preberite naše poslanstvo
+about-our-mission-in-action = Naše poslanstvo v praksi
+about-pioneers-of-the-open-web = Pionirji odprtega spleta
+about-our-leadership-has-been-at = Naše vodstvo je od prvega dne v ospredju izgradnje bolj zdravega interneta. Kar se je začelo kot alternativa prevladi korporacij, je postalo globalna sila za dobro na spletu.
+about-firefox-fast-for-good = { -brand-name-firefox }: Hiter za vedno
+about-when-you-use-the-new-firefox = Z uporabo novega { -brand-name-firefox }a prejmete neverjetno hitro izkušnjo, hkrati pa podpirate poslanstvo Mozille, da ohranimo internet zdrav, čuden in prijeten za vse.
+about-walking-our-privacy-talk = Uresničevanje naših načel zasebnosti
+about-when-the-facebook-breach-was = Ko so na dan prišle { -brand-name-facebook }ove kršitve, se je { -brand-name-mozilla } nemudoma odzvala – in izdala razširitev za { -brand-name-firefox } za zaščito zasebnosti uporabnikov.
+about-talking-internet-issues-irl = Poddaja IRL o težavah interneta
+about-in-mozillas-irl-podcast-host = V Mozillini poddaji IRL gostiteljica Manoush Zomorodi govori o resničnih zgodbah o življenju na spletu in njegovi prihodnosti.
+about-corporation-foundation-not = Podjetje. Organizacija. Neprofitna.
+about-learn-about-the-mozilla-foundation = Več o { -brand-name-mozilla-foundation }
+about-mozilla-puts-people-over-profit = Pri Mozilli postavljamo ljudi pred dobiček v vsem kar govorimo, gradimo in delamo. Pravzaprav je v središču našega podjetja neprofitna fundacija.
+about-the-mozilla-manifesto = Manifest Mozille
+about-the-principles-we-wrote-in = Načela, ki smo jih zapisali leta 1998, nas vodijo še danes. Leta 2018 smo jih dopolnili s poudarjanjem vključenosti, zasebnosti in varnosti na spletu za vsakogar.
+about-read-the-manifesto = Preberite manifest
+about-a-global-view = Globalni pogled
+about-with-offices-all-over-the = S <a href="{ $url }">pisarnami po vsem svetu</a> gledamo na internet z vidika več kultur in kontekstov.
+about-san-francisco = San Francisco
+# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
+about-2000-non-employee-guests-welcomed = Vsako leto gostimo <strong>2000</strong> zunanjih gostov
+about-berlin = Berlin
+# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
+about-500-annual-attendees-to-the = <strong>500</strong> vsakoletnih udeležencev serije govorov v Berlinu
+about-taipei = Tajpej
+# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
+about-400-collaborative-visits-with = <strong>400</strong> sodelovalnih obiskov zaposlenih v Mozilli vsako leto.
+about-toronto = Toronto
+# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
+about-800-bottles-of-cold-brew-coffee = Vsako leto zaužijemo <strong>800</strong> steklenic ledene kave.
+about-work-at-mozilla = Delajte za Mozillo
+about-join-a-mission-driven-organization = Pridružite se organizaciji, ki temelji na poslanstvu in ki gradi izdelke s ciljem.
+about-mozilla-careers = Kariera v Mozilli
+about-how-you-can-help = Kako lahko pomagate
+about-your-voice-your-code-your = Vaš glas. Vaša koda. Vaša podpora. Toliko načinov obstaja, da se pridružite boju za zdrav internet.
+about-get-involved = Pridružite se
+
+## Newsletter
+
+about-get-the-mozilla-newsletter = Naročite se na Mozilline novice
+about-stay-informed-about-the-issues = Ostanite na tekočem s težavami, s katerimi se sooča internet, in izvedite, kako lahko pripomorete k zaščiti najnovejšega svetovnega javnega vira.
+about-subscribe = Naroči se

@@ -165,6 +165,9 @@ locales = [
     reference = "en/mozorg/mission.ftl"
     l10n = "{locale}/mozorg/mission.ftl"
 [[paths]]
+    reference = "en/mozorg/about.ftl"
+    l10n = "{locale}/mozorg/about.ftl"
+[[paths]]
     reference = "en/mozorg/about/governance/policies/*.ftl"
     l10n = "{locale}/mozorg/about/governance/policies/*.ftl"
     locales = [
