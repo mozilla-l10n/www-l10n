@@ -20,5 +20,8 @@ browser-history-by-1995-netscape = 1995-re a { -brand-name-netscape } Navigator 
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = A { -brand-name-netscape } létrehozta és kiadta a JavaScriptet, amely a webhelyeknek példátlan számítási lehetőségeket adott. (Létrehozták a hírhedt <a href="{ $blink }">&lt;blink&gt; címkét</a> is.) A { -brand-name-microsoft } a Cascading Style Sheetsszel (CSS) válaszolt, amely a weboldaltervezés szabványa lett.
 browser-history-browsing-the-web = Webböngészés ma
+# Variables:
+#   $applications (url) - https://blog.mozilla.org/firefox/no-judgment-digital-definitions-app-vs-web-app/
+browser-history-today-there-are = Ma csak néhány lehetőség van az internet elérésére. A { -brand-name-firefox }, a { -brand-name-google } { -brand-name-chrome }, a { -brand-name-microsoft } { -brand-name-edge }, a { -brand-name-safari } és az { -brand-name-opera } a fő versenyzők. A mobileszközök az elmúlt évtizedben az internet elérésének fő módjaként jelentek meg. Ma a legtöbb internetfelhasználó csak mobilböngészőket és <a href="{ $applications }">alkalmazásokat</a> használ az internethez való csatlakozáshoz. A főbb böngészők mobilverziói elérhetők { -brand-name-ios }-re és { -brand-name-android }ra. Bár ezek az alkalmazások nagyon hasznosak speciális célokra, csak korlátozott hozzáférést biztosítanak az internethez.
 browser-history-resources = Források
 browser-history-take-control-of = Vegye át a böngészője irányítását.

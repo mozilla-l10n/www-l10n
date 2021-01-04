@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Privát böngészés további követésvédelemmel
 # HTML page description
 features-private-browsing-firefox-protects = A { -brand-name-firefox } vigyáz az online adatvédelmére és blokkolja a nyomkövetőket, melyek követik a weben.
+features-private-browsing-download-firefox = A { -brand-name-firefox } letöltése
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: több védelem. Kevesebb aggodalom.
 features-private-browsing-were-obsessed-with = Megszállottam védjük a magánszféráját. Ezért tettük a { -brand-name-firefox } privát böngészést még nagyobb tudásúvá, mint mások.
 features-private-browsing-browse-without = Böngésszen nyom nélkül
