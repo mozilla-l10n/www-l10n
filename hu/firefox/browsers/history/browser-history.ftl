@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Böngészőtörténelem: Epikus hatalmi harcok, amelyek elhozták a modern böngészőket
+browser-history-the-browser-wars-underdogs-giants = A böngészőháborúk, törpék az óriások ellen, és pillanatok, melyek megváltoztatták a világot. Olvasson a webböngésző történelméről.
 browser-history-the-history-of-web = A böngészők története
 browser-history-before-web-era = A webkorszak előtt
 browser-history-in-1950-computers = 1950-ben a számítógépek egész szobákat foglaltak el, és butábbak voltak, mint a mai zsebszámológépek. De a haladás gyors volt, és 1960-ra képesek voltak komplex programok futtatására. A világ kormányai és egyetemei arra gondoltak, hogy nagyszerű lenne, ha a gépek beszélni tudnának, elősegítve az együttműködést és a tudományos áttöréseket.
