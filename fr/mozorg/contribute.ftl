@@ -18,6 +18,7 @@ contribute-how-heading = Comment participer…
 contribute-tag-non-technical = Non technique
 contribute-tag-technical = Technique
 contribute-tag-technical-non-technical = Technique et non technique
+contribute-tag-individual = Individu
 contribute-tag-support = Assistance
 contribute-task-translate-heading = Traduire du contenu
 contribute-task-translate-desc = Internet n’est mondial que s’il est compris partout. Aidez-nous à traduire les produits et sites web de { -brand-name-mozilla } dans votre langue.
