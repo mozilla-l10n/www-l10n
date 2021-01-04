@@ -13,6 +13,8 @@ privacy-passwords-more-and-more-desc = Dettagli sensibili e preziosi della nostr
 privacy-passwords-a-security-guide = Guida sulla sicurezza per credenziali di accesso più sicure
 privacy-passwords-protecting-your-accounts = Proteggere i tuoi account non dovrebbe essere complicato: { -brand-name-firefox } può darti una mano.
 privacy-passwords-more-and-more = Sempre più spesso, dettagli sensibili e preziosi della nostra vita quali lettere d’amore, referti medici, conti bancari, ecc., sono custoditi in account online protetti da password. I siti web utilizzano diversi sistemi di accesso per tutelarli. In generale, finché qualcuno non riesce ad accedere al tuo account, non potrà leggere le tue email o prelevare denaro dal tuo conto bancario. Come possiamo proteggere le nostre credenziali mentre viviamo le nostre vite online?
+# tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
+privacy-passwords-tldr = In breve:
 privacy-passwords-use-random-passwords = Usa password casuali e diverse per ogni sito
 privacy-passwords-pay-attention-to = Presta attenzione a eventuali notifiche del browser in materia di sicurezza e non fidarti
 privacy-passwords-make-your-answers = Rendi le risposte alle domande di sicurezza efficaci quanto le tue password
