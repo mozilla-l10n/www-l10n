@@ -20,6 +20,7 @@ contribute-tag-technical = Technique
 contribute-tag-technical-non-technical = Technique et non technique
 contribute-tag-support = Assistance
 contribute-task-translate-heading = Traduire du contenu
+contribute-task-translate-desc = Internet n’est mondial que s’il est compris partout. Aidez-nous à traduire les produits et sites web de { -brand-name-mozilla } dans votre langue.
 contribute-task-join-heading = Rejoignez la communauté
 contribute-task-join-desc = Vous souhaitez vous impliquer davantage dans la communauté { -brand-name-mozilla } ? Découvrez toutes les opportunités de bénévolat sur notre portail communautaire.
 
@@ -43,6 +44,7 @@ contribute-made-by-desc = Lorsque vous contribuez à { -brand-name-mozilla }, vo
 ## Newsletter
 
 contribute-newsletter-heading = Pas encore décidé·e ?
+contribute-newsletter-desc = Abonnez-vous à notre lettre d’information, rejoignez des Mozilliens du monde entier et découvrez les possibilités de soutenir la mission de { -brand-name-mozilla }.
 
 ## Support
 
