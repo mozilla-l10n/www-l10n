@@ -56,6 +56,7 @@ contribute-newsletter-desc = Abonnez-vous à notre lettre d’information, rejoi
 ## Support
 
 contribute-support-heading = Obtenir de l’aide
+contribute-support-desc = { -brand-name-mozilla } dispose d’une équipe dédiée de bénévoles pour aider avec tous les problèmes que vous pourriez rencontrer.
 contribute-mozilla-support = Assistance de { -brand-name-mozilla }
 
 ## Web compat
