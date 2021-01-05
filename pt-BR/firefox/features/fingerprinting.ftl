@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = O que é rastreamento de 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Rastreamento de identidade digital é um tipo de rastreamento online que é mais invasivo do que o rastreamento comum baseado em cookies — é por isso que o { -brand-name-firefox-browser } bloqueia.
 features-fingerprinting-firefox-blocks-fingerprinting = O { -brand-name-firefox } bloqueia rastreadores de identidade digital
+features-fingerprinting-ditch-the-sticky = Livre-se dos anúncios pegajosos que te seguem por aí com os bloqueadores de rastreamento de identidade digital integrados no navegador { -brand-name-firefox }.
 # description for the header image
 features-fingerprinting-every-fingerprint = Cada identidade digital é única.
 features-fingerprinting-download-firefox = Baixe o { -brand-name-firefox }
