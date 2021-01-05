@@ -23,3 +23,10 @@ browser-history-a-year-later-berners = Një vit më vonë, Berners-Lee i kërkoi
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = Nga 1993, web-i plasi. Universitete, qeveri, dhe korporata private panë që të tërë mundësitë e një interneti të hapët. Gjithkush kish nevojë për programe të rinj kompjuteri për ta përdorur. Atë vit u krijua Mosaic-u, në Qendrën Kombëtare për Aplikacione Superkompjuterash (NCSA), në Universitetin e Ilinoisit Urbana-Champaign, nga informatikani Marc Andreessen. Qe shfletuesi i parë popullor dhe paraardhësi i hershëm i <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }-it</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic xhironte në kompjutera { -brand-name-windows }, qe i lehtë për t’u përdorur, dhe i dha gjithkujt me një PC mundësinë e përdorimit të faqeve të hershme web, dhomave të fjalosjes dhe librarive të figurave. Vitin pasues (1994), Andreessen themeloi <a href="{ $netscape }">{ -brand-name-netscape }</a> dhe hodhi në qarkullim { -brand-name-netscape } Navigator për publikun. Qe shumë i suksesshëm, dhe shfletuesi i parë për popullin. Qe gjithashtu lëvizja e parë drejt një lloji të ri lufte për përdoruesit e internetit.
+browser-history-the-browser-wars = Luftërat e Shfletuesve
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = Më 1995, { -brand-name-netscape } Navigator s’qe rruga e vetme për të përdorur internetin. Gjiganti i software-it kompjuterik { -brand-name-microsoft } licencoi kodin e vjetër të Mosaic-ut dhe krijoji dritaren e vet për në internet, <a href="{ $ie }">{ -brand-name-ie }</a>. Hedhja e tij në qarkullim nxitini një luftë. { -brand-name-netscape } dhe { -brand-name-microsoft } punuan në ethe për të krijuar versione të rinj të programeve të tyre, secili duke u përpjekur t’ia kalojë tjetrit me produkte më të shpejtë, më të mirë.
