@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = Tudjon meg többet a Mozilláról
+about-learn-about-mozilla = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = A { -brand-name-mozilla } olyan böngészőket, alkalmazásokat, kódot és eszközöket állít elő, melyek az embereket helyezik a haszon elé. Küldetésünk: Az internet nyílt és hozzáférhető voltának megőrzése mindenki számára.
 # Main heading
@@ -25,7 +25,7 @@ about-when-the-facebook-breach-was = Amikora { -brand-name-facebook } adatszegé
 about-talking-internet-issues-irl = Internetes problémák a való életben
 about-in-mozillas-irl-podcast-host = A { -brand-name-mozilla } IRL podcastjában a házigazda Manoush Zomorodi az online életből származó valós történeteket oszt meg, és a világháló jövőjéről beszélget.
 about-corporation-foundation-not = Vállalat. Alapítvány. Nonprofit.
-about-learn-about-the-mozilla-foundation = Ismerje meg a Mozilla Alapítványt
+about-learn-about-the-mozilla-foundation = Tudjon meg többet a { -brand-name-mozilla-foundation }ról
 about-mozilla-puts-people-over-profit = A { -brand-name-mozilla } minden nyilatkozatában, termékében és tettében az embereket helyezi a haszon elé. Valójában a nonprofit Alapítvány áll a vállalkozásunk középpontjában.
 about-the-mozilla-manifesto = A { -brand-name-mozilla } Kiáltvány
 about-the-principles-we-wrote-in = Ma is az 1998-ban leírt alapelveink vezérelnek minket. 2018-ban pedig létrehoztunk egy kiegészítést, amely a bevonást, az adatvédelmet és mindenki biztonságos online létét hangsúlyozza.
@@ -41,7 +41,7 @@ about-500-annual-attendees-to-the = <strong>500</strong> éves résztvevő a ber
 about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> üveg hidegen készült kávé elfogyasztása minden évben.
-about-work-at-mozilla = Dolgozzon a Mozillánál
+about-work-at-mozilla = Dolgozzon a { -brand-name-mozilla(ending: "accented") }nál
 about-join-a-mission-driven-organization = Csatlakozzon egy küldetésvezérelt szervezethez, amely célirányos termékeket készít.
 about-mozilla-careers = { -brand-name-mozilla } karrierek
 about-how-you-can-help = Hogyan segíthet
