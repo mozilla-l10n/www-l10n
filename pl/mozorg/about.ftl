@@ -21,13 +21,13 @@ about-our-leadership-has-been-at = Nasze kierownictwo przoduje w budowaniu zdro
 about-firefox-fast-for-good = { -brand-name-firefox }: szybki, już na dobre
 about-when-you-use-the-new-firefox = Kiedy używasz nowego { -brand-name-firefox(case: "gen") }, korzystasz z superszybkiej przeglądarki i jednocześnie wspierasz misję { -brand-name-mozilla(case: "gen") } na rzecz zdrowego, dziwnego i przyjaznego Internetu dla wszystkich.
 about-walking-our-privacy-talk = Bierzemy prywatność na serio
-about-when-the-facebook-breach-was = Kiedy ujawniono wyciek danych z { -brand-name-facebook }a, { -brand-name-mozilla } natychmiast miała odpowiedź — i Firefoksa wspierającego prywatność użytkowników.
+about-when-the-facebook-breach-was = Kiedy ujawniono wyciek danych z { -brand-name-facebook(case: "gen") }, { -brand-name-mozilla } natychmiast miała odpowiedź — i { -brand-name-firefox(case: "acc") } wspierającego prywatność użytkowników.
 about-talking-internet-issues-irl = Problemy Internetu także „w realu”
-about-in-mozillas-irl-podcast-host = W podcaście Mozilli, IRL, prowadząca Manoush Zomorodi dzieli się prawdziwymi historiami o życiu w sieci i prowadzi dyskusje o przyszłości Internetu.
+about-in-mozillas-irl-podcast-host = W podcaście { -brand-name-mozilla(case: "gen") }, IRL, prowadząca Manoush Zomorodi dzieli się prawdziwymi historiami o życiu w sieci i prowadzi dyskusje o przyszłości Internetu.
 about-corporation-foundation-not = Korporacja. Fundacja. Non-profit.
-about-learn-about-the-mozilla-foundation = Poznaj Fundację Mozilli
+about-learn-about-the-mozilla-foundation = Poznaj { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } stawia ludzi ponad zyskiem we wszystkim co mówimy, budujemy i robimy. Sercem naszego przedsięwzięcia jest fundacja non-profit.
-about-the-mozilla-manifesto = Manifest Mozilli
+about-the-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 about-the-principles-we-wrote-in = Te zasady zapisane w 1998 roku nadal wskazują nam drogę. A w 2018 roku dodaliśmy aneks, aby podkreślić integrację, prywatność i bezpieczeństwo każdego użytkownika Internetu.
 about-read-the-manifesto = Przeczytaj manifest
 about-a-global-view = Widzimy cały świat
@@ -41,15 +41,15 @@ about-500-annual-attendees-to-the = <strong>500</strong> uczestników corocznej 
 about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> butelek kawy mrożonej spożywanych rocznie
-about-work-at-mozilla = Pracuj w Mozilli
+about-work-at-mozilla = Pracuj w { -brand-name-mozilla(case: "loc") }
 about-join-a-mission-driven-organization = Dołącz do organizacji z misją, budującą produkty ukierunkowane na cel.
-about-mozilla-careers = Praca w Mozilli
+about-mozilla-careers = Praca w { -brand-name-mozilla(case: "loc") }
 about-how-you-can-help = Jak możesz pomóc
 about-your-voice-your-code-your = Twój głos. Twój kod. Twoje wsparcie. Są niezliczone sposoby dołączenia do walki o zdrowy Internet.
 about-get-involved = Dołącz do nas
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = Biuletyn Mozilli
+about-get-the-mozilla-newsletter = Biuletyn { -brand-name-mozilla(case: "gen") }
 about-stay-informed-about-the-issues = Bądź na bieżąco z problemami mającymi wpływ na Internet i dowiedz się, jak można pomóc chronić najnowszy zasób publiczny świata.
 about-subscribe = Subskrybuj
