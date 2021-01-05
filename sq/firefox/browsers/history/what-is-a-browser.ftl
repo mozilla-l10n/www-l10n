@@ -23,3 +23,7 @@ what-is-a-browser-sadly-not-all = Mjerisht, jo krejt krijuesit e shfletuesve zgj
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Kur shfletuesi sjell të dhëna nga një shërbyes i lidhur në internet, ai përdor një <em>software</em> të quajtur motor vizatimi, për të përkthyer ato të dhëna në tekst dhe figura. Këto të dhëna shkruhen në <a href="{ $html }">Hypertext Markup Language</a> (HTML) dhe shfletuesit e lexojnë këtë kod që të krijojnë atë çka shohim, dëgjojmë dhe përjetojmë në internet.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Tejlidhjet</a> u lejojnë përdoruesve të ndjekin një shteg për te faqe apo sajte të tjerë në internet. Çdo faqe web, figurë dhe video ka <a href="{ $url }">Uniform Resource Locator</a> (URL) e vet unike, që njihet edhe si adresë web. Kur një shfletues viziton një shërbyes për të dhëna, adresa web i tregon shfletuesit ku të shohë për çdo element që përshkruhet te html-ja, e cila mandej i tregon shfletuesit se ku e ka vendin te faqja web.
