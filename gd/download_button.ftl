@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-download-button-download-now = Luchdaidh a-nuas an-dràsta
+download-button-download-now = Luchdaich a-nuas an-dràsta
 download-button-free-download = Luchdadh a-nuas an-asgaidh
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -12,6 +12,9 @@ download-button-supported-devices = Uidheaman ris a bheil taic
 download-button-whats-new = Na tha ùr
 download-button-systems-languages = Siostaman ⁊ cànain
 download-button-recommended = Molta
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+download-button-mozilla-no-longer-provides = Cha sholair <a href="{ $url }">{ -brand-name-mozilla } ùrachaidhean tèarainteachd airson { -brand-name-firefox } air { -brand-name-windows } { -brand-name-xp } no { -brand-name-vista }</a> tuilleadh ach ’s urrainn dhut an tionndadh { -brand-name-windows } 32-biod mu dheireadh a luchdadh a-nuas gu h-ìosal fhathast.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Lean ris <a href="{ $url }">an stiùireadh seo</a> gus { -brand-name-firefox } a stàladh.
@@ -34,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> airson { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> airson { -brand-name-ios }
 download-button-firefox-privacy = Prìobhaideachd { -brand-name-firefox }
+download-button-firefox-privacy-notice = Aithris prìobhaideachd { -brand-name-firefox }
 download-button-download = Luchdaich a-nuas
