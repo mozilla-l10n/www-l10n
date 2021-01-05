@@ -14,7 +14,6 @@ about-pioneers-of-the-open-web = ਆਜ਼ਾਦ ਵੈੱਬ ਦੇ ਮੋਢ�
 about-firefox-fast-for-good = ਫਾਇਰਫਾਕਸ: ਚੰਗੇ ਲਈ ਤੇਜ਼ ਹੈ
 about-a-global-view = ਗਲੋਬਲ ਝਲਕ
 about-berlin = ਬਰਲਿਨ
-about-taipei = ਤਾਈਪੇ
 about-toronto = ਟੋਰਾਂਟੋ
 about-work-at-mozilla = ਮੋਜ਼ੀਲਾ ਵਿੱਚ ਕੰਮ ਕਰੋ
 about-mozilla-careers = ਮੌਜ਼ੀਲਾ ਕੈਰੀਅਰ

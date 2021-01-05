@@ -19,7 +19,6 @@ about-our-mission-in-action = 우리의 사명 활동
 about-pioneers-of-the-open-web = 열린 웹의 개척자
 about-san-francisco = 샌프란시스코
 about-berlin = 베를린
-about-taipei = 타이페이
 about-toronto = 토론토
 about-work-at-mozilla = { -brand-name-mozilla }에서 일하기
 about-mozilla-careers = { -brand-name-mozilla } 채용

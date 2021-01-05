@@ -38,9 +38,6 @@ about-2000-non-employee-guests-welcomed = <strong>2000</strong> гостей, я
 about-berlin = Берлін
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = <strong>500</strong> щорічних учасників серії виступів у Берліні
-about-taipei = Тайбей
-# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-400-collaborative-visits-with = Щороку <strong>400</strong> спільних відвідувань зі співробітниками { -brand-name-mozilla }.
 about-toronto = Торонто
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = Щороку споживається <strong>800</strong> пляшок холодної кави.

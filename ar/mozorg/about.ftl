@@ -15,7 +15,6 @@ about-the-mozilla-manifesto = بيان موزيلا
 about-read-the-manifesto = اقرأ البيان
 about-san-francisco = سان فرانسيسكو
 about-berlin = برلين
-about-taipei = تايبيه
 about-toronto = تورونتو
 about-work-at-mozilla = العمل في موزيلا
 about-mozilla-careers = الوظائف في { -brand-name-mozilla }

@@ -13,7 +13,6 @@ about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } �
 about-the-mozilla-manifesto = { -brand-name-mozilla } এর ঘোষণা
 about-san-francisco = সান ফ্রান্সিস্কো
 about-berlin = বার্লিন
-about-taipei = তাইপে
 about-toronto = টরন্টো
 about-work-at-mozilla = { -brand-name-mozilla } তে কাজ করুন
 about-mozilla-careers = { -brand-name-mozilla } ক্যারিয়ার

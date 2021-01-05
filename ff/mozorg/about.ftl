@@ -10,7 +10,6 @@ about-learn-about-mozilla = Ɓeydu humpito baɗte { -brand-name-mozilla }
 about-firefox-fast-for-good = { -brand-name-firefox }: Yaawii Haa Cay
 about-san-francisco = San Francisco
 about-berlin = Berlin
-about-taipei = Taipei
 about-toronto = Toronto
 about-work-at-mozilla = Gollo e { -brand-name-mozilla }
 about-how-you-can-help = No mbaawɗaa wallirde

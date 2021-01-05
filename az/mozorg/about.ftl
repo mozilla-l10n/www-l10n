@@ -14,7 +14,6 @@ about-the-mozilla-manifesto = { -brand-name-mozilla } Manifesti
 about-read-the-manifesto = Manifesti Oxu
 about-san-francisco = San Francisco
 about-berlin = Berlin
-about-taipei = Taypey
 about-toronto = Toronto
 about-work-at-mozilla = { -brand-name-mozilla }da İşlə
 about-mozilla-careers = { -brand-name-mozilla }da Karyera

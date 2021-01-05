@@ -16,7 +16,6 @@ about-read-the-manifesto = घोषणा पत्र पढ़ें
 about-a-global-view = एक वैश्विक दृश्य
 about-san-francisco = सैन फ़्रांसिस्को
 about-berlin = बर्लिन
-about-taipei = ताइपे
 about-toronto = टोरंटो
 about-work-at-mozilla = { -brand-name-mozilla } में काम करें
 about-mozilla-careers = { -brand-name-mozilla } करियर्स

@@ -24,7 +24,6 @@ about-san-francisco = San Francisco
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = wele <strong>2000</strong> ma pe lutic ma kijolo gi imwaka acelacel
 about-berlin = Berlin
-about-taipei = Taipei
 about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = cupa <strong>800</strong> me kawa ma ngic ma kimato mwaka weng.

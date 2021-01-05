@@ -31,9 +31,6 @@ about-2000-non-employee-guests-welcomed = <strong> 2000 </ strong> غیر ملا
 about-berlin = برلن
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = برلن اسپیکر سیریز کے سالانہ شرکاء </ strong>500 <strong>
-about-taipei = تائپی
-# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-400-collaborative-visits-with = موزیلہ کے ملازمین کے ساتھ ہر سال </ strong> 400<strong> تعاونی دورے۔
 about-toronto = ٹورنٹو
 about-work-at-mozilla = { -brand-name-mozilla }میں کام کریں
 about-join-a-mission-driven-organization = ایک مشن پر مبنی تنظیم میں شامل ہوں جو مقصد سے چلنے والی مصنوعات تیار کرتی ہے۔

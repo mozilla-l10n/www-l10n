@@ -38,9 +38,6 @@ about-2000-non-employee-guests-welcomed = Kasmet apsilanko <strong>2000</strong>
 about-berlin = Berlynas
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = „Speaker“ serijos renginiuose Berlyne kasmet apsilanko <strong>500</strong> klausytojų
-about-taipei = Taipėjus
-# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-400-collaborative-visits-with = Kasmet įvyksta <strong>400</strong> „Mozillos“ darbuotojų bendradarbiavimo vizitų.
 about-toronto = Torontas
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = Kasmet išgeriama <strong>800</strong> buteliukų šaltos kavos.

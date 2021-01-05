@@ -38,9 +38,6 @@ about-2000-non-employee-guests-welcomed = <strong>2000</strong> καλοδεχο
 about-berlin = Βερολίνο
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = <strong>500</strong> ετήσιοι συμμετέχοντες στη σειρά ομιλητών του Βερολίνου
-about-taipei = Ταϊπέι
-# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-400-collaborative-visits-with = <strong>400</strong> συνεργατικές επισκέψεις με υπαλλήλους της { -brand-name-mozilla } employees κάθε χρόνο.
 about-toronto = Τορόντο
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> μπουκάλια κρύου καφέ καταναλώνονται ετησίως.

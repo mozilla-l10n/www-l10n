@@ -23,7 +23,6 @@ about-read-the-manifesto = जाहीरनामा वाचा
 about-a-global-view = एक जागतिक दृश्य
 about-san-francisco = सॅन फ्रान्सिस्को
 about-berlin = बर्लिन
-about-taipei = ताइपे
 about-toronto = टोरंटो
 about-work-at-mozilla = मोझीला येथे काम करा
 about-mozilla-careers = मोझिला करिअर

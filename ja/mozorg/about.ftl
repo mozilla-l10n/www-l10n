@@ -7,7 +7,6 @@
 
 about-san-francisco = サンフランシスコ
 about-berlin = ベルリン
-about-taipei = 台北
 about-toronto = トロント
 about-get-involved = 参加する
 

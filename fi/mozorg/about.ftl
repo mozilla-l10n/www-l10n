@@ -21,7 +21,6 @@ about-learn-about-the-mozilla-foundation = Lue lisää Mozilla-säätiöstä
 about-a-global-view = Maailmanlaajuinen näkökulma
 about-san-francisco = San Francisco
 about-berlin = Berliini
-about-taipei = Taipei
 about-toronto = Toronto
 about-work-at-mozilla = Työ { -brand-name-mozilla }lla
 about-mozilla-careers = { -brand-name-mozilla }-urat

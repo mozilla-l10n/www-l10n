@@ -38,9 +38,6 @@ about-2000-non-employee-guests-welcomed = <strong>2000</strong> da huā ngè hio
 about-berlin = Berlîn
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = <strong>500</strong> dānaj guìi atûj da' hio'o riña mà nej sí a'min Berlîn
-about-taipei = Taipêi
-# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-400-collaborative-visits-with = <strong>400</strong> nej sa atûj rugûñu'ūnj nej duguî' 'iiaj sun ngà { -brand-name-mozilla } da' hio'o.
 about-toronto = Torônto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> nej nakāj kajuê nahuij da' huā ngè hio'o.

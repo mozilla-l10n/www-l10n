@@ -29,9 +29,6 @@ about-2000-non-employee-guests-welcomed = <strong> 2000 </strong> ၀န်ထ�
 about-berlin = ဘာလင်
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = <strong> 500 </strong> ဘာလင်စပီကာစီးရီးသို့တက်ရောက်သူများ
-about-taipei = တိုင်ပေ
-# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-400-collaborative-visits-with = <strong> 400 </strong> { -brand-name-mozilla } ၀န်ထမ်းများနှင့်နှစ်စဉ်ပူးပေါင်းဆောင်ရွက်ခြင်း
 about-toronto = တိုရွန်တို
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong> 800 </strong> နှစ်ပတ်လည်အအေးခံကော်ဖီပုလင်းများ။

@@ -28,7 +28,6 @@ about-read-the-manifesto = Pročitaj manifest
 about-a-global-view = Globalni pogled
 about-san-francisco = San Francisco
 about-berlin = Berlin
-about-taipei = Taipei
 about-toronto = Toronto
 about-work-at-mozilla = Radi za Mozillu
 about-mozilla-careers = { -brand-name-mozilla } karijere

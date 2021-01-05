@@ -21,9 +21,6 @@ about-2000-non-employee-guests-welcomed = દર વર્ષે <strong>2000</s
 about-berlin = બર્લિન
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = <strong>500</strong> બર્લિન પ્રવક્તા શ્રેણીમાં વાર્ષિક હાજરી આપનારાઓ
-about-taipei = તાઇપેઈ
-# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-400-collaborative-visits-with = દર વર્ષે { -brand-name-mozilla } કર્મચારીઓ સાથે <strong>400</strong> સહયોગી મુલાકાતો.
 about-toronto = ટોરોન્ટો
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = વાર્ષિક <strong>800</strong> ઠંડા બ્રુ કોફીની બોટલ્સનો વપરાશ થાય છે.

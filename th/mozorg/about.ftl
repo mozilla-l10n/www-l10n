@@ -29,7 +29,6 @@ about-read-the-manifesto = อ่านแถลงการณ์
 about-a-global-view = มุมมองทั่วโลก
 about-san-francisco = ซานฟรานซิสโก
 about-berlin = เบอร์ลิน
-about-taipei = ไทเป
 about-toronto = โทรอนโต
 about-work-at-mozilla = ทำงานที่ { -brand-name-mozilla }
 about-join-a-mission-driven-organization = เข้าร่วมองค์กรที่ขับเคลื่อนด้วยภารกิจในการสร้างผลิตภัณฑ์ตามเป้าหมาย
