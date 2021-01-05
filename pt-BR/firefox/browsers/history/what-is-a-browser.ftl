@@ -28,6 +28,11 @@ what-is-a-browser-when-the-web-browser = Quando o navegador web pega dados de um
 #   $url(url) - link to https://wikipedia.org/wiki/URL
 what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hiperlinks</a> permitem aos usuários seguir um caminho para outras páginas ou sites na web. Cada página, imagem e vídeo tem seu próprio <a href="{ $url }">Localizador Uniforme de Recursos</a> (URL) único, também conhecido como endereço web. Quando um navegador visita um servidor para obter dados, o endereço web informa ao navegador onde procurar cada item descrito no código html, que então indica ao navegador onde posicionar na página web.
 what-is-a-browser-cookies-not-the = Cookies (não os do tipo biscoito)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Muitos sites salvam informações sobre você em arquivos chamados <a href="{ $cookies }">cookies</a>. Eles são salvos no seu computador para ser usados na próxima vez que você visitar o site. Quando você retorna, o código do site lê esse arquivo para saber se é você. Por exemplo, ao acessar um site, a página memoriza seu nome de usuário e senha — isso é possível graças a um cookie.
+what-is-a-browser-there-are-also = Também existem cookies que memorizam informações mais detalhadas sobre você. Talvez seus interesses, seus hábitos de navegação na web, etc. Significa que um site pode te fornecer conteúdo mais direcionado — geralmente na forma de anúncios. Existem tipos de cookies, chamados cookies <em>de terceiros</em>, que vêm de sites que você nem está visitando no momento e podem te rastrear de site em site para coletar informações sobre você, que ocasionalmente são vendidas para outras empresas. Às vezes você pode bloquear esses tipos de cookies, embora nem todos os navegadores permitem que você o faça.
+what-is-a-browser-when-you-go-to = Quando você acessa um site e a página memoriza seu nome de usuário e senha — isso é possível graças a um cookie.
 what-is-a-browser-understanding = Entendendo a privacidade
 what-is-a-browser-firefox-helps = O { -brand-name-firefox } ajuda você a ter mais privacidade online, permitindo bloquear rastreadores que tentam te seguir pela web.
 what-is-a-browser-making-your-web = Fazendo seu navegador trabalhar para você
