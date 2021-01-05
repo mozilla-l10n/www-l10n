@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = Poznaj Mozillę
+about-learn-about-mozilla = Poznaj { -brand-name-mozilla(case: "acc") }
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } tworzy przeglądarki, aplikacje, kod i narzędzia, które stawiają ludzi ponad zysk. Nasza misja: Internet otwarty i dostępny dla wszystkich.
 # Main heading
@@ -19,7 +19,7 @@ about-our-mission-in-action = Nasza misja w działaniu
 about-pioneers-of-the-open-web = Pionierzy otwartego Internetu
 about-our-leadership-has-been-at = Nasze kierownictwo przoduje w budowaniu zdrowszego Internetu od samego początku. To, co zaczęło się jako alternatywa dla dominacji korporacji urosło w globalną siłę na rzecz dobra w sieci.
 about-firefox-fast-for-good = { -brand-name-firefox }: szybki, już na dobre
-about-when-you-use-the-new-firefox = Kiedy używasz nowego Firefoksa, korzystasz z superszybkiej przeglądarki i jednocześnie wspierasz misję Mozilli na rzecz zdrowego, dziwnego i przyjaznego Internetu dla wszystkich.
+about-when-you-use-the-new-firefox = Kiedy używasz nowego { -brand-name-firefox(case: "gen") }, korzystasz z superszybkiej przeglądarki i jednocześnie wspierasz misję { -brand-name-mozilla(case: "gen") } na rzecz zdrowego, dziwnego i przyjaznego Internetu dla wszystkich.
 about-walking-our-privacy-talk = Bierzemy prywatność na serio
 about-when-the-facebook-breach-was = Kiedy ujawniono wyciek danych z { -brand-name-facebook }a, { -brand-name-mozilla } natychmiast miała odpowiedź — i Firefoksa wspierającego prywatność użytkowników.
 about-talking-internet-issues-irl = Problemy Internetu także „w realu”
