@@ -15,5 +15,6 @@ features-fingerprinting-ditch-the-sticky = Livre-se dos anúncios pegajosos que 
 features-fingerprinting-every-fingerprint = Cada identidade digital é única.
 features-fingerprinting-download-firefox = Baixe o { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = O que é rastreamento de identidade digital?
+features-fingerprinting-fingerprinting-is-a = Fingerprinting é um tipo de rastreamento online mais invasivo do que o rastreamento comum baseado em cookies. Uma identidade digital é criada quando uma empresa traça um perfil único seu com base no hardware do seu computador, nos programas e extensões instalados, até em preferências. Suas configurações como o monitor que você usa, as fontes de caracteres instaladas em seu computador, até sua escolha de navegador web, tudo isso pode ser usado para criar uma identidade digital.
 features-fingerprinting-fingerprinting-is-bad = O rastreamento de identidade digital é ruim para a web
 features-fingerprinting-protect = Proteja sua privacidade
