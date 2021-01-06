@@ -47,6 +47,7 @@ features-index-compare-browsers = Comparar navegadores
 features-index-see-themes = Ver principais temas
 features-index-download-latest = Baixe o { -brand-name-firefox } mais recente
 features-index-fingerprinter-blocking = Bloqueio de rastreadores de identidade digital
+features-index-fingerprinting-is-a = <i>Fingerprinting</i> é um tipo de rastreamento online mais invasivo do que o rastreamento comum baseado em cookies — é por isso que o { -brand-name-firefox-browser } bloqueia.
 features-index-block-fingerprinters = Bloqueio de rastreadores de identidade digital
 features-index-translate-the-web = Traduza a web
 features-index-translate-more-than = Traduza de mais de 100 idiomas para o seu idioma diretamente no seu { -brand-name-firefox-browser } — mais fácil do que nunca.
