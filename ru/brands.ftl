@@ -48,16 +48,20 @@
        *[nominative] браузер Firefox
         [nominative_uppercase] Браузер Firefox
         [genitive] браузера Firefox
-        [prepositional] браузере Firefox
+        [dative] браузеру Firefox
+        [accusative] браузер Firefox
         [instrumental] браузером Firefox
+        [prepositional] браузере Firefox
     }
 -brand-name-firefox-browsers =
     { $case ->
        *[nominative] браузеры Firefox
         [nominative_uppercase] Браузеры Firefox
         [genitive] браузеров Firefox
-        [prepositional] браузерах Firefox
+        [dative] браузерам Firefox
+        [accusative] браузеры Firefox
         [instrumental] браузерами Firefox
+        [prepositional] браузерах Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise

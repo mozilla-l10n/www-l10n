@@ -72,6 +72,7 @@ does-firefox-have = Есть ли в { -brand-name-firefox } встроенны�
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = В { -brand-name-firefox } нет встроенной службы VPN (виртуальной частной сети), но существуют два продукта, созданные { -brand-name-mozilla }/{ -brand-name-firefox }, которыми вы можете воспользоваться в дополнение к приватному { -brand-name-firefox-browser(case: "dative") }, и которые могут защитить любой ваш браузер (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) или устройство (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>), подключенное к Wi-Fi, а также ваш IP-адрес.
 related-questions-ip = Связанные вопросы: скрывает ли { -brand-name-firefox } мой IP-адрес?
 who-owns-firefox = Кому принадлежит { -brand-name-firefox }?
 
