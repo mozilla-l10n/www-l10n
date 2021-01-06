@@ -48,18 +48,24 @@ is-firefox-safe = { -brand-name-firefox } безопасен?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } не только безопасен в использовании, но также помогает защитить ваши данные и личную информацию. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует известные сторонние трекеры, трекеры социальных сетей, криптомайнеры и сборщики цифровых отпечатков. <a href="{ $url }">Подробнее о приватности в наших продуктах</a>.
+related-questions-safe = Связанные вопросы: подходит ли { -brand-name-firefox } для защиты приватности?; безопасен ли { -brand-name-firefox }?; { -brand-name-firefox } лучше защищает мою приватность?
 does-firefox-sell = Продаёт ли { -brand-name-firefox } ваши личные данные?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Нет. Никогда не продавал и никогда не будет. И мы защищаем вас от многих рекламодателей, которые это делают. Продукты { -brand-name-firefox } предназначены для защиты вашей приватности. <a href="{ $url }">Наше Обещание</a>.
 why-is-firefox = Почему { -brand-name-firefox } такой медленный?
+firefox-isnt-slow = { -brand-name-firefox } не медленный… сейчас. В 2017 году мы полностью переписали наш браузерный движок (назвав его Quantum), чтобы { -brand-name-firefox } мог конкурировать с другими популярными браузерами. А наши блокировщики трекеров помогают страницам загружаться ещё быстрее. Поэтому { -brand-name-firefox } работает молниеносно быстро без ущерба для вашей приватности.
 is-firefox-chromium = { -brand-name-firefox } основан на { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } не основан на { -brand-name-chromium } (проект браузера с открытым исходным кодом, лежащим в основе { -brand-name-google } { -brand-name-chrome }). На самом деле мы являемся одним из последних популярных браузеров на собственном движке. { -brand-name-firefox } работает на собственном браузерном движке Quantum, разработанным специально для { -brand-name-firefox }, поэтому мы можем обеспечить должную обработку и приватность ваших данных.
 does-firefox-use = Использует ли { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } — поисковая система по умолчанию в { -brand-name-firefox }, что означает, что вы можете искать в Интернете прямо из адресной строки. <a href="{ $url }">Подробнее о настройке поисковой системы по умолчанию и её изменении</a>.
 does-firefox-have = Есть ли в { -brand-name-firefox } встроенный VPN?
 
 # Variables:
