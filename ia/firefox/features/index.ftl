@@ -45,3 +45,5 @@ features-index-stack-up = Vide como { -brand-name-firefox } sta supra le altere 
 features-index-compare-browsers = Comparar navigatores web
 features-index-see-themes = Vide le themas plus amate
 features-index-download-latest = Discarga le ultime { -brand-name-firefox }
+features-index-fingerprinter-blocking = Bloca dactylogrammatores
+features-index-translate-the-web = Traducer le web
