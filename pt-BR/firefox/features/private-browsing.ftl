@@ -6,14 +6,14 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
 
 # HTML page title
-features-private-browsing-private-browser = Navegação privativa com proteção contra rastreamento extra
+features-private-browsing-private-browser = Navegação privativa com proteção adicional contra rastreamento
 # HTML page description
-features-private-browsing-firefox-protects = O { -brand-name-firefox } protege a sua privacidade on-line e bloqueia rastreadores que seguem você pela web.
+features-private-browsing-firefox-protects = O { -brand-name-firefox } protege sua privacidade online e bloqueia rastreadores que tentam te seguir pela web.
 features-private-browsing-download-firefox = Baixe o { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Mais proteção. Menos preocupação.
-features-private-browsing-were-obsessed-with = Nós somos obcecados em proteger a sua privacidade. É por isso que fizemos a Navegação Privativa do { -brand-name-firefox } mais poderosa que os outros.
+features-private-browsing-were-obsessed-with = Somos obcecados em proteger sua privacidade. É por isso que fizemos a navegação privativa do { -brand-name-firefox } ser mais poderosa que a dos outros.
 features-private-browsing-browse-without = Navegue sem deixar rastro
-features-private-browsing-sharing-is-caring = Compartilhar é se importar, mas isso deve ser sua decisão. A Navegação Privativa do { -brand-name-firefox } apaga automaticamente suas informações on-line como senhas, cookies e histórico do seu computador. Assim, quando você fecha tudo, não deixa nenhum rastro.
+features-private-browsing-sharing-is-caring = Compartilhar é cuidar, mas deve ser decisão sua. A navegação privativa do { -brand-name-firefox } apaga automaticamente do seu computador suas informações online, como senhas, cookies e histórico. Assim, ao fechar, você não deixa nenhum rastro.
 features-private-browsing-catch-those-hidden = Pegue aqueles rastreadores ocultos
 features-private-browsing-some-websites-and = Algumas páginas da web e anúncios ocultam rastreadores que coletam suas informações de navegação até quando você já saiu. Apenas a Navegação Privativa do { -brand-name-firefox } tem proteção para bloqueá-los automaticamente.
 features-private-browsing-shake-off-tracking = Livre-se do peso dos rastreadores
