@@ -78,3 +78,6 @@ firefox-developer-welcome-to-the-all-new = Benvenite al novissime { -brand-name-
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
 firefox-developer-congrats-you-now-have-firefox = Felicitationes. Ora tu ha { -brand-name-firefox-quantum }: edition pro le disveloppator.
 firefox-developer-this-isnt-just-an-update = Isto non es justo un actualisation. Isto es { -brand-name-firefox-quantum }: un { -brand-name-firefox } nove de fabrica que ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
+firefox-developer-welcome-to-firefox-browser = Benvenite in { -brand-name-firefox-browser }{ -brand-name-developer-edition }
+firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
+firefox-developer-all-the-latest = Tote le ultime utensiles de disveloppator in version beta, plus <strong>functionalitates experimental</strong> como le Redactor de consola multilinea e le Inspector de WebSocket.
