@@ -52,6 +52,7 @@ firefox-more-protection = { -brand-name-firefox }: Больше защиты. М
 were-obsessed-with = Мы одержимы защитой вашей приватности. Вот почему, мы сделали Приватный Просмотр в { -brand-name-firefox } более мощным, чем в других браузерах.
 incognito-browser-what = Браузер в режиме инкогнито: Что на самом деле это означает
 firefox-more-fingerprinter-blocking = Блокировка сборщиков цифровых отпечатков
+firefox-more-fingerprinting-is-a = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser } блокирует его.
 firefox-more-translate-the-web = Переводите Интернет
 firefox-more-translate-more-than = Переводите с более 100 языков на свой язык прямо в { -brand-name-firefox-browser(case: "prepositional") } — проще, чем когда-либо раньше.
 firefox-more-a-guide-to = Руководство по более безопасным логинам и паролям
