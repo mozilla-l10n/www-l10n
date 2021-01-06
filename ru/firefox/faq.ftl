@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-faq = Часто задаваемые вопросы по { -brand-name-firefox }
+whether-you-searched-privacy = Если вы искали быстрый браузер, защищающий вашу приватность, этот раздел ответит на самые часто задаваемые вопросы о { -brand-name-firefox }.
+whether-you-searched-independant = Если вы искали быстрый браузер, или независимую корпорацию, защищающую вашу приватность, этот раздел ответит на самые часто задаваемые вопросы о { -brand-name-firefox }.
 what-is-firefox = Что такое { -brand-name-firefox }?
 
 # Variables:
