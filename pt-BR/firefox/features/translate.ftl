@@ -10,7 +10,7 @@ features-translate-translate-the-web-title = Traduza a web — diretamente no se
 # page description
 features-translate-translate-more-than = Traduza de mais de 100 idiomas para o seu idioma diretamente no seu { -brand-name-firefox-browser } — mais fácil do que nunca.
 features-translate-translate-the-web = Traduza a web com o { -brand-name-firefox }
-features-translate-the-google-translate = A extensão <i>Para o { -brand-name-google } Tradutor<i> para { -brand-name-firefox } torna a web acessível ao mundo.
+features-translate-the-google-translate = A extensão <i>Para o { -brand-name-google } Tradutor</i> para { -brand-name-firefox } torna a web acessível ao mundo.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Instale a extensão
 features-translate-switch-languages-in = Mude o idioma no { -brand-name-firefox }
