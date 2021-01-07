@@ -18,5 +18,12 @@ features-translate-to-google-translate = Para o { -brand-name-google } Tradutor
 features-translate-google-translate-with = O { -brand-name-google } Tradutor, com mais de 100 idiomas* disponíveis, é usado por milhões de pessoas no mundo todo. Mas ficar trocando entre o site translate.google.com e a página que você está tentando ler não é o uso ideal. A extensão <a { $attrs }>Para o { -brand-name-google } Tradutor</a> torna a tradução da página onde você está mais fácil do que nunca.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Instale a extensão
+features-translate-once-installed-simply = Uma vez instalado, basta destacar o texto que você quer traduzir e clicar com o botão direito para abrir um menu com duas opções:<br><ol><li>Levar você para o site translate.google.com, com seu texto selecionado inserido automaticamente no campo de tradução.</li><li>Ouvir a frase pronunciada em áudio (gerada pelo { -brand-name-google } Text-to-Speech), útil se você estiver tentando aprender um novo idioma.</li></ol>
 features-translate-switch-languages-in = Mude o idioma no { -brand-name-firefox }
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Se você já usa o { -brand-name-firefox }, pode mudar o idioma do navegador ou adicionar idiomas à interface do { -brand-name-firefox }. <a { $attrs }>Saiba como aqui.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Com a extensão <i>Para o { -brand-name-google } Tradutor</i>, atualmente você pode traduzir <a { $attrs }>esses idiomas</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }>e muito mais!</a>
 features-translate-for-everyone = O Firefox é para todos
