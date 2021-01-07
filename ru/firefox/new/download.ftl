@@ -66,4 +66,7 @@ firefox-new-please-follow = Пожалуйста, следуйте <a href="{ $u
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша система может не удовлетворять требованиям { -brand-name-firefox }, но вы можете попробовать одну из <a href="{ $url }">этих версий</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Если вы видите предупреждение утверждающее, что приложение, которое вы пытаетесь установить, не является проверенным { -brand-name-microsoft } приложением, щёлкните «Всё равно установить» или <a { $attrs }>измените настройки рекомендации приложений</a>.
 firefox-new-visit-support-for-more = Посетите сайт поддержки для получения дополнительных сведений

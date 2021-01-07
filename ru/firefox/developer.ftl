@@ -80,4 +80,7 @@ firefox-developer-congrats-you-now-have-firefox = Поздравляем. Теп
 firefox-developer-this-isnt-just-an-update = Это не просто обновление. Это { -brand-name-firefox-quantum }: Совершенно новый { -brand-name-firefox }, который был переписан с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
 firefox-developer-welcome-to-firefox-browser = Добро пожаловать в { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Браузер, созданный для разработчиков
+firefox-developer-all-the-latest = Бета-версия самых последних инструментов разработчика, а также такие <strong>экспериментальные функции</strong>, как Многострочный режим веб-консоли и Инспектор WebSocket'ов.
+firefox-developer-a-separate-profile = <strong>Отдельный профиль и путь</strong>, чтобы вы могли легко его запустить одновременно с релизом { -brand-name-firefox } или { -brand-name-firefox } { -brand-name-beta }.
+firefox-developer-preferences-tailored = Настроенный <strong>специально под веб-разработчиков</strong>: Браузерная и удалённая отладка, тёмная тема и кнопка инструментов разработчика на панели инструментов включены по умолчанию.
 firefox-developer-congrats-you-now-have = Поздравляем. Теперь у вас установлен { -brand-name-firefox-browser } { -brand-name-developer-edition }.

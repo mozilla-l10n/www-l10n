@@ -159,6 +159,9 @@ firefox-desktop-download-now-mac = Теперь <strong>откройте</strong
 firefox-desktop-download-get-help = Возникли проблемы? <a { $attrs }>Получите помощь по установке</a>.
 firefox-desktop-download-in-another-language = Загрузить на другом языке или для другой операционной системы.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Если вы видите предупреждение утверждающее, что приложение, которое вы пытаетесь установить, не является проверенным { -brand-name-microsoft } приложением, щёлкните «Всё равно установить» или <a { $attrs }>измените настройки рекомендации приложений</a>.
 firefox-desktop-download-visit-support-for-more = Посетите сайт поддержки для получения дополнительных сведений
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
