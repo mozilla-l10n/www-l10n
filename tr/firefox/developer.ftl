@@ -80,4 +80,7 @@ firefox-developer-congrats-you-now-have-firefox = Tebrikler. { -brand-name-firef
 firefox-developer-this-isnt-just-an-update = Bu sadece bir güncelleme değil. Bu, { -brand-name-firefox-quantum }: { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }’a hoş geldiniz
 firefox-developer-made-for-developers = Geliştiriciler için inşa edilmiş tarayıcı
+firefox-developer-all-the-latest = Betataki tüm geliştirici araçlarının yanı sıra çok satırlı konsol editörü ve WebSocket denetçisi gibi <strong>deneysel özellikler</strong>.
+firefox-developer-a-separate-profile = Final sürümü veya { -brand-name-beta } { -brand-name-firefox } ile aynı anda kullanabilmeniz için <strong>ayrı bir profil</strong>.
+firefox-developer-preferences-tailored = <strong>Web geliştiricilerine yönelik</strong> tercihler: Tarayıcıdan ve uzaktan hata ayıklama, koyu tema ve geliştirici araç çubuğu düğmesi gibi özellikler varsayılan olarak açık.
 firefox-developer-congrats-you-now-have = Tebrikler. { -brand-name-firefox-browser } { -brand-name-developer-edition } emrinize amade.
