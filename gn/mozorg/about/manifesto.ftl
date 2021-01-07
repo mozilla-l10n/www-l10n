@@ -1,0 +1,119 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/about/manifesto/
+
+# HTML page title
+manifesto-the-mozilla-manifesto = { -brand-name-mozilla } he’ipyre
+# HTML page description
+manifesto-these-are-the-principles = Ko’ãva ha’e tape ohechaukáva ore rembipota herakuã hag̃ua, mba’epyahu ha juruja ñandutípe.
+manifesto-the-internet-is-an-integral = Ñanduti ha'e tekotevẽpy tuicháva teko ko'ag̃aguápe — tekotevẽtereíva kuaapýpe g̃uarã, ñomongetarã, ñepytyvõrã, ñemũrã, ñembosarairã ha ava'aty opavavete oikehápe.
+manifesto-the-internet-is-a-global = Ñanduti ha'e peteĩ mba'e ava rembipuru arapyguápe g̃uarã ijurujáva ha jeikekuaaha.
+manifesto-the-internet-must-enrich = Ñanduti oipytyvõva'erã opavave yvypóra rekove.
+manifesto-individuals-security-and = Pe tekorosã ha ñemigua avakuéra ñanduti pegua tekotevẽterei ha ndojehecháivaerã ikatúronte.
+manifesto-individuals-must-have = Avakuéra oguerekova'erã omohendaha ñanduti ha avei imba'ekuaa pe ñandutípe.
+manifesto-the-effectiveness-of-the = Pe ñanduti jeikoporã tembipuru opárupi ha'e umi tembiapo tekotevẽpy (tembiapo katupy, mba'ekuaarã, hetepy), mba'epyahu, ñeĩha pehenguekuéra yvy arigua oparupiete.
+manifesto-free-and-open-source-software = Pe software reigua ha ijurujáva omongu’e ñanduti jekakuaa opavave mba’éramo.
+manifesto-transparent-community = Umi tembiapo hesakãva oikóva tapicha ndive ohechauka oñeĩha oñondive añetete ha opaichaite.
+manifesto-commercial-involvement = Pe ñemurã jeike ko ñanduti ñemboguatápe ogueru heta mba’e porã, hákatu tekotevẽ ijoja viru rehegua ha mba’eporã opavavépe g̃uarãva.
+manifesto-magnifying-the-public = Ñanduti jepuru opavavépe g̃uarãva ñemongakuaa ha’e hupytyrã tuicha mba’éva, oguerekova’erã ára, ma’ẽag̃ui ha jejapose.
+manifesto-principle-1 = Ñepyrũ 1
+manifesto-principle-2 = Ñepyrũ 2
+manifesto-principle-3 = Ñepyrũ 3
+manifesto-principle-4 = Ñepyrũ 4
+manifesto-principle-5 = Ñepyrũ 5
+manifesto-principle-6 = Ñepyrũ 6
+manifesto-principle-7 = Ñepyrũ 7
+manifesto-principle-8 = Ñepyrũ 8
+manifesto-principle-9 = Ñepyrũ 9
+manifesto-principle-10 = Ñepyrũ 10
+manifesto-01 = 01
+manifesto-02 = 02
+manifesto-03 = 03
+manifesto-04 = 04
+manifesto-05 = 05
+manifesto-06 = 06
+manifesto-07 = 07
+manifesto-08 = 08
+manifesto-09 = 09
+manifesto-10 = 10
+# Main page heading
+manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } je’epy juapypyre
+# Main page sub-heading
+manifesto-pledge-for-a-healthy-internet = Roñeha’ãta romoĩ peteĩ ñanduti hesãiva
+manifesto-the-open-global-internet = Ñandutiveve juruja ha opavavépe g̃uarã niko tembipuru porãite ñañomomarandu hag̃ua ha avei ñamba'apo hag̃ua oñondive. Upévare ore roipota ha roha'ãrõ yvypóra oñakãrapu'ãve ohóvo. Ñandtiveve rupive jaikuaa mba'epyahu, ñamboja'o opavave ndive jaikuaáva ha ñañandúva ikatuhag̃uáicha romyatyrõ taha'eha'e apañuãi oĩva ha ombohasa'asýva tapichakuérape ñande yvy ape árigua.
+manifesto-over-the-last-decade-we = Pe pa aryetápe jahecha oiko jaipotáva heta hendáicha. Avei jaiko moañetehárõ ñanduti jepurupy mba'eguasuete jave ñemboja'o térã ñorairõse, ñembyai jeikovai  jejaposéguinte jejapopy añetegua. Rohechakuaa tekotevẽ ojepuru ñanduti hendapeve. Rojapose ko'ág̃a.
+manifesto-we-are-committed-to-people = Roñeha’ãta rojapo peteĩ ñanduti oikepahápe opavavete tapicha arapy pegua, mba’evéichagua ava oñemboyke’ỹhápe ñanduti jeiképe, oĩhápe pa’ũ peteĩchaite opavavépe g̃uarã.
+manifesto-we-are-committed-to-discourse = Roñeha’ãta rojapo peteĩ ñanduti omongu’éva tapicha ñe’ẽ, ava rekoite ha peteĩteĩ he’iséva.
+manifesto-we-are-committed-to-thinking = Roñeha’ãta rojapo peteĩ ñanduti omongu’éva jepy’amongeta, ñe’ẽ poravopyre ha umi oikopyre ojehechakuaáva.
+manifesto-we-are-committed-to-diverse = Roñeha’ãta rojapo peteĩ ñanduti omokyre’ỹva ñepytyvõ opaite tekoha ndive, oñemba’apohápe oñondivepa opavavépe g̃uarã.
+manifesto-show-your-support = Ehechauka ne ñepytyvõ
+manifesto-an-internet-with-these = Peteĩ ñanduti ndoikomo'ãi ha'eño ijehegui. Avakuéra ha avei opavave omoĩva'erã tembipurupyahu ñandutípe ha jekuaapy ñandutípe . { -brand-name-mozilla } he'i ha oikuaauka orekoha jehechauka ikatu hag̃ua omoambue hembiapo tenonderã. Jaheka tembiapo oñondive ava ha tembiapoha oparupigua oĩ guive orendive ha ojapo ñandutígui peteĩ tenda iporãvéva.
+manifesto-i-support-the-vision-of = Che añeme'ẽ pe jehechapy iporãvéva ha oĩporãvéva ñanduti @mozilla-pe, ¿eñemoĩta che ykére?
+manifesto-share-on-twitter = Emoherakuã { -brand-name-twitter } rupi
+manifesto-our-10-principles = <strong>Ñanemba'e10</strong>Ñepyrũgua
+manifesto-use-open-badges-to-share = Eipuru Open Badges ha emoherakuã ejapokuaáva ha nemba’epota
+manifesto-explore-how-the-web-impacts = Ehecha mba'éichapa ñanduti oñeñanduka kuaatýpe.
+manifesto-learn-about-open-source = Ehechakuaa ayvu juruja ñe’ẽkuaahaihápe
+manifesto-read-about-open-internet = Emoñe’ẽ ñanduti ijurujáva purureko rehegua
+manifesto-explore-how-to-help-keep = Eikuaápa mba’éichapa ikatu eipytyvõ ñanduti ijuruja hag̃ua
+manifesto-see-how-the-web-can-connect = Ehechamína mba’éichapa ñanduti ikatu ombojuaju arapy tesãirã ndive
+manifesto-explore-how-the-web-works = Eikuaa mba’échapa omba’apo ñanduti
+manifesto-see-how-mozilla-works = Ehecha mba’éichapa omba’apo { -brand-name-mozilla } ne ñemigua ha’e hag̃ua mba’e guasuvéva
+manifesto-read-about-developments = Eñemomarandu umi tembiapo ñemigua ha tekorosã mba'ekuaakuéra
+manifesto-learn-more-about-how-to = Eikuaave mba'éichapa eñemo'ãta ñandutípe
+manifesto-use-these-free-tools-to = Eipuru tembipuru reigua embo’e hag̃ua ñanduti
+manifesto-learn-about-creating-and = Emoheñoikuaa ha eiporavo tetepy ñandutípe g̃uarã
+manifesto-add-new-voices-to-open = Emoĩve ñe’ẽ pyahu ayvu ijurujáva rembipurupyahúpe
+manifesto-set-your-do-not-track = Emboheko nde erohoryvéva ani avave nde rapykueho
+manifesto-understand-the-web-ecosystem = Eikuaáke ñanduti rekoha
+manifesto-explore-how-open-practices = Eikuaa mba’éichapa ijurujáva jepuru ohechauka ñandutípe jeikereiha
+manifesto-learn-how-to-remix-content = Eikuaa mba’éichapa embojehe’áta tetepy ha emoheñói ipyahúva
+manifesto-learn-how-to-maximize = Eikuaa mba’éichapa eipuruporãta ñandutípe jeike
+manifesto-participate-in-our-governance = Eiko ore atýpe oĩ hag̃ua jekupyty.
+manifesto-join-us-as-a-volunteer = Eju ore apytépe pytyvõhararã
+manifesto-learn-how-to-collaborate = Eikuaa mba’éichapa eipytyvõta ñandutípe eime jave
+manifesto-visualize-who-you-interact = Eikuaa máva ndive eime ñandutípe Lightbeam ndive
+manifesto-learn-about-creating-web = Eikuaa mba’éicha emoheñoikuaa tembiapo ñandutigua ha ambue
+manifesto-host-or-join-a-maker-party = Emomba'e térã eike peteĩ Maker Party-pe
+manifesto-learn-how-to-build-online = Eikuaa emongakuaa hag̃ua ne ñepytyvõ ñandutípe eime aja
+manifesto-read-the-entire-manifesto = Emoñe’ẽmbaite je’epyre opaite peve
+manifesto-love-the-web = ¿Ehayhúpa ñanduti?
+manifesto-get-the-mozilla-newsletter = Eguerekóke { -brand-name-mozilla } marandu’i ha orepytyvõ roguereko hag̃ua ñanduti sã’ỹre ha jurujápe.
+manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } he’ipyre
+manifesto-details-introduction = Moñepyrũ
+manifesto-details-the-internet-is-becoming = Ñandutígui oiko peteĩ mba’e tuicháva opavave rekovépe g̃uarã.
+manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } apopyrã ha’e ava rekoha arapygua mba'e ogueroviáva pe juruja, ñembopyahu ha pa’ũ iporãha Ñanduti resãirã. Pe 1998 guive ñamba’apo oñondivepa ñanduti ha’e hag̃ua opavavépe g̃uarã. Rojekuaave romoheñói haguére pe ñanduti kundaha { -brand-name-mozilla } { -brand-name-firefox }.
+manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } apopyrã oguereko mba’éichapa omboguatáta hembiapo ha’éva tekohakuéra ndive ikatuhápe omoheñói software ijurujáva, iporã añetéva ha omboguata tembiapo oñondiveguáva. Romoheñói ava rekoha oñeha’ãva ojapo ñanduti opavavépe g̃uarãva.
+manifesto-details-as-a-result-of = Ko’ã ñeha’ã rupive, rojapohína heta mba’e iporãmbajepéva ñanduti ikatu hag̃uáicha oiko opavavéva mba’éramo, péicha avei oma'ẽ ñemurã reheguáre. Ko’ápe rombopapappy ãva.
+manifesto-details-the-goals-for = Umi hupytyrã je’epyre rehegua ha’e:
+manifesto-details-articulate-a-vision = emboaje ñanduti rembiecha { -brand-name-mozilla } puruhára oipotáva ohapykuehóva { -brand-name-mozilla } Atyguasu;
+manifesto-details-speak-to-people = ñoñmongeta opavave ndive, oikuaa térã ndoikuaáiramo jepe aporeko;
+manifesto-details-make-mozilla-contributors = rohechase { -brand-name-mozilla } pytyvõharakuérape cherovúpe rojapóva rehe ha kóva tomokyre’ỹ jeku’erã; ha
+manifesto-details-provide-a-framework = eme’ẽ kyta ñepyrũha ambue tapicha omboha’eve hag̃ua Ñanduti rembiapo.
+manifesto-details-these-principles = Ko’ã ypygua ndoikomo’ãi ha’eñorei. Oñekotevẽ tapicháre oiko hag̃ua ñandutígui peteĩ pa’ũ ijuruja ha opaite oikekuaahápe, ava omba’apóva ha’eño ha heta ndive, ha tapicha omyakãva ambuépe. { -brand-name-mozilla } Atyguasu oñeha’ãta oku’e tenonde gotyo he’ihácha ije’epyrevoi. Ropepirũ opavave oikesévape guive orendive ha, péicha, jajapo ñandutígui peteĩ tenda iporãvéva tapichakuérape g̃uarã.
+manifesto-details-principles = Ñepyrũgua
+manifesto-details-the-internet-is-integral = Ñanduti ha'e tekotevẽpy tuicháva teko ko'ag̃aguápe — tekotevẽtereíva kuaapýpe g̃uarã, ñomongetarã, ñepytyvõrã, ñemũrã, ñembosarairã ha ava'aty opavavete oikehápe.
+manifesto-details-the-internet-is-global = Ñanduti ha'e peteĩ mba'e ava rembipuru arapyguápe g̃uarã ijurujáva ha jeikekuaaha.
+manifesto-details-the-internet-must = Ñanduti oipytyvõva'erã opavave yvypóra rekove.
+manifesto-details-individuals-security = Pe tekorosã ha ñemo'ã puruhára mba'ekuaarã ñanduti pegua ha'e tekotevẽtéva ha ndojehecháiva'erã peteĩ ikatúronte.
+manifesto-details-individuals-must = Puruharakuéra ojeheguiva’erã omboheko hag̃ua ñanduti ha ijehasakue pype.
+manifesto-details-the-effectiveness = Pe ñanduti ñemoañete ha'e peteĩ mba'e opavavépe g̃uarã oiko umi tembiapo (tembiapo katupy, mba'ekuaarã, hetepy) mba'epyahu, ñeĩha pehenguekuéra yvy arigua oparupiete.
+manifesto-details-free-and-open = Pe software reigua ha ayvu ijurujáva omongu’e ñanduti jekakuaa opavave mba’éramo.
+manifesto-details-transparent-community = Umi tembiapo hesakãva oikóva tapicha ndive ohechauka oñeĩha oñondive añetete ha opaichaite.
+manifesto-details-commercial-involvement = Ñanduti jepuru ñemurãva ogueru heta mba’e porã iñemboguatápe; tekotevẽnte ijoja viru rehegua ha mba’eporã opavavépe g̃uarãva.
+manifesto-details-magnifying-the = Embotuicha ñanduti mba’e porã opavépe g̃uarãva ha’e hupytyrã tuicha mba’éva, oguerekova’erã ára, ma’ẽag̃ui ha jejapose.
+manifesto-details-advancing-the = { -brand-name-mozilla } he’ipyre riregua
+manifesto-details-there-are-many = Heta hendáicha ikatu ñaipytyvõ okakuaa hag̃ua { -brand-name-mozilla } je’epyre. Romoakãraku heta tembiapo ikatu hag̃ua oñemongu’e ha roha’arõ rojuhúvo opavavégui katupyry añete { -brand-name-mozilla } pytyvõhára ohechauka haguéicha ambue tembiaporãme. Umi tapicha noĩriva tuichaháicha { -brand-name-mozilla } rembiaporã ndive, ko'ãva oiko hag̃ua eipur va'erã { -brand-name-mozilla } { -brand-name-firefox } térã ambue apopyrã ohechaukáva pe je’epyre.
+manifesto-details-mozilla-foundation = Fundación Mozilla ñe'ẽme'ẽ
+manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla } Atyguasu oipytyõta añetahápe ije’epy hembiapokue ndive. Ja’eporãvo, rojapóta ãva:
+manifesto-details-build-and-enable = Romoheñói ha rome’ẽta tembipurupyahu ijurujáva ha ava’aty oipytyvõva Mozilla je’epy;
+manifesto-details-build-and-deliver = emoheñói ha emyasãi tembiapokue iporãva omboajéva Mozilla je’epy;
+manifesto-details-use-the-mozilla = { -brand-name-mozilla } mba’e jepuru (imba’ete apopyre, copyright ha imárka teéva, imba’eguereko, iviru ha iñemohu’ãngue) ñanduti ijuruja hag̃ua rekávo;
+manifesto-details-promote-models = emongu’e tembiapo emoheñói hag̃ua virueta mba’e porãrã opavavépe g̃uarã; ha
+manifesto-details-promote-the-mozilla = emongu’e { -brand-name-mozilla } je’epy rehegua ñe’ẽjovái guasúpe ha ñanduti ryepýpe avei.
+manifesto-details-some-foundation = Heta tembiapo Atyguasu rehegua -ko’ág̃a, ñemoheñói, ñemyasãi ha mba’e ñemoherakuã- ojejapohína Corporación Mozilla rupive, ha’évahína tuichakue Mozilla Atyguasu mba’etee.
+manifesto-details-invitation = Peipurũ
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla } Atyguasu opepirũ opavave tapichápe oipytyvõvo { -brand-name-mozilla } je’epy jajuajúvo jajuhu hag̃ua jehecha pyahu ñanduti rehegua.

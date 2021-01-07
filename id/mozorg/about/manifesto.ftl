@@ -1,0 +1,119 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/about/manifesto/
+
+# HTML page title
+manifesto-the-mozilla-manifesto = { -brand-name-mozilla } Manifesto
+# HTML page description
+manifesto-these-are-the-principles = Ini adalah prinsip-prinsip yang memandu misi kami dalam mempromosikan keterbukaan, inovasi & kesempatan di web.
+manifesto-the-internet-is-an-integral = Internet sebagai bagian yang melengkapi kehidupan modern — komponen utama dalam pendidikan, komunikasi, kolaborasi, bisnis, hiburan dan masyarakat sebagai satu kesatuan.
+manifesto-the-internet-is-a-global = Internet merupakan sumber daya masyarakat global yang harus tetap terbuka dan dapat diakses dengan mudah.
+manifesto-the-internet-must-enrich = Internet harus memperkaya kehidupan setiap individu manusia.
+manifesto-individuals-security-and = Keamanan dan privasi individu di internet adalah bagian terpenting dan merupakan sebuah keharusan.
+manifesto-individuals-must-have = Setiap individu harus memiliki kemampuan untuk membentuk internet dan pengalaman mereka sendiri.
+manifesto-the-effectiveness-of-the = Efektivitas internet sebagai sumber daya publik bergantung pada inovasi dari interoperabilitas (protokol, format data, konten), dan partisipasi yang terdesentralisasi di seluruh dunia.
+manifesto-free-and-open-source-software = Perangkat lunak bebas dan sumber terbuka mengenalkan pengembangan internet sebagai sumber daya publik.
+manifesto-transparent-community = Proses transparan yang berbasis komunitas yang mempromosikan partisipasi, akuntabilitas, dan kepercayaan.
+manifesto-commercial-involvement = Keterlibatan komersil dalam pembangunan internet memberikan banyak keuntungan; keseimbangan antara keuntungan komersil dengan kebermanfaatan bagi publik menjadi sangat penting.
+manifesto-magnifying-the-public = Memperluas aspek keuntungan publik dari internet adalah tujuan penting, layak dari segi waktu, perhatian dan komitmen.
+manifesto-principle-1 = Prinsip 1
+manifesto-principle-2 = Prinsip 2
+manifesto-principle-3 = Prinsip 3
+manifesto-principle-4 = Prinsip 4
+manifesto-principle-5 = Prinsip 5
+manifesto-principle-6 = Prinsip 6
+manifesto-principle-7 = Prinsip 7
+manifesto-principle-8 = Prinsip 8
+manifesto-principle-9 = Prinsip 9
+manifesto-principle-10 = Prinsip 10
+manifesto-01 = 01
+manifesto-02 = 02
+manifesto-03 = 03
+manifesto-04 = 04
+manifesto-05 = 05
+manifesto-06 = 06
+manifesto-07 = 07
+manifesto-08 = 08
+manifesto-09 = 09
+manifesto-10 = 10
+# Main page heading
+manifesto-the-mozilla-manifesto-addendum = Adendum Manifesto { -brand-name-mozilla }
+# Main page sub-heading
+manifesto-pledge-for-a-healthy-internet = Ikrar untuk Internet Sehat
+manifesto-the-open-global-internet = Internet yang global dan terbuka adalah sumber daya komunikasi dan kolaborasi paling hebat yang pernah kita lihat. Internet mewujudkan beberapa harapan terdalam bagi penjalanan manusia, memungkinkan adanya peluang baru untuk belajar, membangun rasa kemanusiaan bersama dan memecahkan masalah mendesak yang dihadapi masyarakat di mana saja.
+manifesto-over-the-last-decade-we = Lebih dari satu dekade lalu kami telah melihat janji ini dipenuhi dengan banyak cara. Kami juga sudah melihat kekuatan Internet digunakan untuk memperbesar perpecahan, memicu kekerasan, mempromosikan kebencian dan secara sengaja memanipulasi fakta dan realita. Kami telah mempelajari bahwa kami perlu lebih eksplisit menyampaikan aspirasi kami untuk pengalaman manusia di Internet. Kami melakukannya sekarang.
+manifesto-we-are-committed-to-people = Kami berkomitmen kepada Internet yang melingkungi seluruh masyarakat Bumi — di mana karakteristik demografik seseorang tidak menentukan akses daring, peluang dan kualitas pengalaman mereka.
+manifesto-we-are-committed-to-discourse = Kami berkomitmen kepada Internet yang mempromosikan wacana sipil, martabat manusia dan ekspresi individual.
+manifesto-we-are-committed-to-thinking = Kami berkomitmen kepada Internet yang mengangkat pemikiran kritis, argumen beralasan, pengetahuan bersama dan fakta yang dapat diverifikasi.
+manifesto-we-are-committed-to-diverse = Kami berkomitmen kepada Internet yang mengkatalisasi kolaborasi antara komunitas yang beragam bekerja sama untuk kebaikan bersama.
+manifesto-show-your-support = Tunjukkan Dukungan Anda
+manifesto-an-internet-with-these = Sebuah Internet dengan kualitas seperti ini tidak akan hidup dengan sendirinya. Individu dan organisasi harus menanamkan aspirasi ini ke dalam teknologi Internet dan pengalaman manusia dengan Internet. { -brand-name-mozilla } Manifesto dan Addendum merepresentasikan komitmen { -brand-name-mozilla } untuk memajukan aspirasi tersebut. Kami bermaksud untuk bekerja sama dengan masyarakat dan organisasi di mana saja yang memiliki tujuan serupa untuk membuat Internet menjadi tempat yang lebih baik untuk setiap orang.
+manifesto-i-support-the-vision-of = Saya mendukung visi @mozilla untuk internet yang lebih baik dan lebih sehat, Anda ingin bergabung?
+manifesto-share-on-twitter = Bagikan di { -brand-name-twitter }
+manifesto-our-10-principles = <strong>10 Prinsip</strong> Kami
+manifesto-use-open-badges-to-share = Gunakan Lencana Terbuka untuk berbagi keterampilan dan minat Anda
+manifesto-explore-how-the-web-impacts = Ketahui bagaimana web berdampak pada sains
+manifesto-learn-about-open-source = Pelajari mengenai kode sumber terbuka dalam jurnalisme
+manifesto-read-about-open-internet = Baca mengenai inisiatif kebijakan internet terbuka dan pengembangannya
+manifesto-explore-how-to-help-keep = Jelajahi bagaimana cara menjaga web agar tetap terbuka
+manifesto-see-how-the-web-can-connect = Lihat bagaimana web dapat menghubungkan dunia pada bidang kesehatan
+manifesto-explore-how-the-web-works = Jelajahi bagaimana web bekerja
+manifesto-see-how-mozilla-works = Bagaimana { -brand-name-mozilla } bekerja untuk mengutamakan privasi
+manifesto-read-about-developments = Baca bagaimana pengembangan privasi dan data secara aman
+manifesto-learn-more-about-how-to = Pelajari bagaimana melindungi diri secara daring
+manifesto-use-these-free-tools-to = Gunakan alat gratis ini untuk mengajarkan web
+manifesto-learn-about-creating-and = Pelajari bagaimana cara menciptakan dan mengurasi konten untuk web
+manifesto-add-new-voices-to-open = Tambahkan suara baru untuk teknologi sumber terbuka
+manifesto-set-your-do-not-track = Tetapkan preferensi Do Not Track
+manifesto-understand-the-web-ecosystem = Pahami ekosistem web
+manifesto-explore-how-open-practices = Eksplorasi bagaimana praktik terbuka menjaga web dapat diakses
+manifesto-learn-how-to-remix-content = Pelajari bagaimana mencampuraduk konten untuk membuat sesuatu yang baru
+manifesto-learn-how-to-maximize = Pelajari bagaimana memaksimalkan potensi interaktif web
+manifesto-participate-in-our-governance = Berpartisipasi dalam forum pemerintahan
+manifesto-join-us-as-a-volunteer = Bergabunglah sebagai relawan kami
+manifesto-learn-how-to-collaborate = Pelajari bagaimana berkolaborasi daring
+manifesto-visualize-who-you-interact = Visualisasikan siapa yang berinteraksi dengan Anda di web menggunakan Lightbeam
+manifesto-learn-about-creating-web = Pelajari bagaimana membuat sumber daya web dengan orang lain
+manifesto-host-or-join-a-maker-party = Selenggarakan atau bergabunglah dengan sebuah Maker Party
+manifesto-learn-how-to-build-online = Pelajari bagaimana membangun keterampilan berkolaborasi daring
+manifesto-read-the-entire-manifesto = Baca manifesto secara keseluruhan
+manifesto-love-the-web = Mencintai web?
+manifesto-get-the-mozilla-newsletter = Dapatkan nawala { -brand-name-mozilla } dan bantu kami menjaganya tetap terbuka dan gratis.
+manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } Manifesto
+manifesto-details-introduction = Perkenalan
+manifesto-details-the-internet-is-becoming = Internet semakin menjadi bagian penting dari kehidupan kita sehari-hari.
+manifesto-details-the-mozilla-project-global = Proyek { -brand-name-mozilla } adalah sebuah komunitas global dari orang-orang yang percaya bahwa keterbukaan, inovasi, dan kesempatan adalah kunci keberlanjutan dari internet yang sehat. Kami telah bekerja bersama sejak 1998 untuk memastikan bahwa internet dikembangkan dalam cara yang menguntungkan semua orang. Kami dikenal dalam membuat peramban web { -brand-name-mozilla } { -brand-name-firefox }.
+manifesto-details-the-mozilla-project-community = Proyek { -brand-name-mozilla } menggunakan pendekatan berbasis komunitas untuk membuat perangkat lunak sumber terbuka kelas dunia dan untuk membangun tipe baru dari aktivitas kolaborasi. Kami menciptakan komunitas dari orang-orang yang ikut bergabung, untuk membuat pengalaman berinternet menjadi lebih baik bagi kita semua.
+manifesto-details-as-a-result-of = Sebagai hasil dari usaha tersebut, kami telah menyaring seperangkat prinsip yang kami percaya sangat penting bagi internet agar terus menguntungkan kepentingan publik serta aspek komersil dari kehidupan. Kami menetapkan prinsip-prinsip tersebut sebagai berikut.
+manifesto-details-the-goals-for = Tujuan akhir Manifesto adalah untuk :
+manifesto-details-articulate-a-vision = Mengalirkan visi untuk Internet yang ingin partisipan { -brand-name-mozilla } wujudkan dari { -brand-name-mozilla } Foundation;
+manifesto-details-speak-to-people = Menyatakan kepada orang-orang apakah mereka memiliki latar belakang teknis atau tidak;
+manifesto-details-make-mozilla-contributors = Membuat kontributor { -brand-name-mozilla } bangga atas apa yang kita lakukan dan memotivasi kami untuk melanjutkannya; dan
+manifesto-details-provide-a-framework = Menyediakan kerangka bagi semua orang untuk mengembangkan misi Internet ini.
+manifesto-details-these-principles = Prinsip-prinsip tersebut tidak akan terwujud dengan sendirinya. Banyak orang dibutuhkan untuk membuat Internet terbuka dan partisipatif - orang yang bekerja secara individu, bekerja sama dalam kelompok, dan memimpin yang lain. { -brand-name-mozilla } Foundation berkomitmen untuk memajukan seperangkat prinsip sebagaimana ditetapkan dalam { -brand-name-mozilla } Manifesto. Kami mengundang yang lain untuk bergabung bersama kami dan membuat Internet menjadi tempat yang lebih baik bagi semua orang.
+manifesto-details-principles = Prinsip
+manifesto-details-the-internet-is-integral = Internet sebagai bagian yang melengkapi kehidupan modern, yang merupakan komponen utama dalam pendidikan, komunikasi, kolaborasi, bisnis, hiburan dan sosial yang seutuhnya.
+manifesto-details-the-internet-is-global = Internet merupakan sumber daya masyarakat global yang harus tetap terbuka dan dapat diakses dengan mudah.
+manifesto-details-the-internet-must = Internet harus memperkaya kehidupan setiap individu.
+manifesto-details-individuals-security = Keamanan dan privasi individu di Internet adalah bagian terpenting dan merupakan keharusan.
+manifesto-details-individuals-must = Setiap individu harus memiliki kemampuan untuk membentuk Internet serta membentuk pengalaman mereka sendiri di Internet.
+manifesto-details-the-effectiveness = Keefektifan Internet sebagai sumber daya publik tergantung dari inovasi dari interoperabilitas (protokol, format data, konten), dan desentralisasi partisipan di seluruh dunia.
+manifesto-details-free-and-open = Perangkat lunak bebas dan sumber terbuka mengenalkan perkembangan Internet sebagai sumber daya publik.
+manifesto-details-transparent-community = Proses transparan yang berbasis komunitas yang mempromosikan partisipasi, akuntabilitas, dan kepercayaan.
+manifesto-details-commercial-involvement = Keterlibatan komersil dalam pembangunan Internet memberikan banyak keuntungan; keseimbangan yang sangat penting antara keuntungan secara komersil dan manfaat publik.
+manifesto-details-magnifying-the = Memperluas aspek keuntungan publik dari Internet sebagai tujuan penting, layak waktu, perhatian dan komitmen.
+manifesto-details-advancing-the = Mengembangkan { -brand-name-mozilla } Manifesto
+manifesto-details-there-are-many = Ada berbagai cara yang berbeda untuk mengembangkan prinsip dari { -brand-name-mozilla } Manifesto. Kami menyambut berbagai aktivitas, serta mengantisipasi kreativitas yang sama, yang pernah ditunjukan dalam wilayah lain dari proyek para partisipan { -brand-name-mozilla }. Untuk individu yang tidak tergabung dalam proyek { -brand-name-mozilla }, satu-satunya cara dasar dan sangat efektif untuk mendukung Manifesto adalah menggunakan produk { -brand-name-mozilla } { -brand-name-firefox } dan produk-produk lain yang mewujudkan prinsip-prinsip dari Manifesto.
+manifesto-details-mozilla-foundation = Ikrar { -brand-name-mozilla-foundation }
+manifesto-details-the-mozilla-foundation-pleges = Ikrar dari { -brand-name-mozilla } Foundation adalah untuk mendukung { -brand-name-mozilla } Manifesto dalam berbagai aktivitasnya. Secara spesifik, kami akan:
+manifesto-details-build-and-enable = membangun dan memungkinkan teknologi dan komunitas sumber terbuka yang mendukung prinsip Manifesto;
+manifesto-details-build-and-deliver = membangun dan memberikan konsumen produk yang baik yang mendukung prinsip Manifesto;
+manifesto-details-use-the-mozilla = menggunakan aset { -brand-name-mozilla } (kepemilikan intelektual seperti hak cipta dan merek dagang, infrastruktur, dana, dan reputasi) untuk menjaga Internet sebagai platform yang terbuka;
+manifesto-details-promote-models = mempromosikan model untuk menciptakan nilai ekonomi untuk kepentingan publik, dan
+manifesto-details-promote-the-mozilla = mempromosikan prinsip { -brand-name-mozilla } Manifesto dalam percakapan publik dan dalam industri Internet.
+manifesto-details-some-foundation = Beberapa kegiatan yang sedang dilakukan Foundation, meliputi penciptaan, pengiriman, dan promosi produk-produk dari konsumen, dilakukan terutama melalui { -brand-name-mozilla-foundation } yang memiliki { -brand-name-mozilla-corporation } secara penuh.
+manifesto-details-invitation = Undangan
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla } Foundation mengajak semua orang yang mendukung prinsip { -brand-name-mozilla } Manifesto untuk bergabung dengan kami, dan untuk menemukan cara-cara baru untuk mewujudkan visi dari Internet menjadi kenyataan.
