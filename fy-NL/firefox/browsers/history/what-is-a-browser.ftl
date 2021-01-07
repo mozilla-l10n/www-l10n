@@ -13,5 +13,7 @@ what-is-a-browser-the-web-is-a-vast = It ynternet is in enoarm en krêftich help
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = It is wichtich dat elkenien tagong hat ta it ynternet, mar it is ek essinsjeel dat wy allegearre <a href="{ $tools }">de helpmiddelen</a> begripe dy't wy brûke om tagong te krijen ta it ynternet. Wy brûke webbrowsers lykas { -brand-name-mozilla } { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge } en { -brand-name-apple } { -brand-name-safari } alle dagen, mar begripe wy wat se binne en hoe't se wurkje?
+what-is-a-browser-in-a-short-period-long = Yn in koarte perioade binne wy ferrast fan de mooglikheid om in e-mailberjocht te stjoeren nei ien oer de hiele wrâld, nei in feroaring yn hoe't wy tinke oan ynformaasje. It is gjin fraach hoefolle wy witte, mar gewoan in fraach hokker browser of app jo it rapst nei dy ynformaasje bringe kin.
+what-is-a-browser-in-a-short-period = Yn in koarte perioade binne wy ferrast fan de mooglikheid om in e-mailberjocht te stjoeren nei ien oer de hiele wrâld, nei in feroaring yn hoe't wy tinke oan ynformaasje.
 what-is-a-browser-how-does-a-web = Hoe wurket in webbrowser?
 what-is-a-browser-cookies-not-the = Koekjes (net de lekkere soarte)
