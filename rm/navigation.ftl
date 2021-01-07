@@ -82,6 +82,7 @@ navigation-join = Participar
 navigation-close-join-menu = Serrar il punct da menu
 navigation-sign-in = S'annunziar
 navigation-benefits = Avantatgs
+navigation-protect-your-life-online = Protegia tia vita online cun in'entira paletta da products che respectan la sfera privata.
 navigation-about = Davart
 navigation-close-about-menu = Serrar il menu «Davart»
 navigation-meet-the-technology-company = Emprenda d'enconuscher l'interpresa che serva a las persunas e betg al profit.
@@ -93,8 +94,10 @@ navigation-add-ons = Supplements
 navigation-projects = Projects
 navigation-close-projects-menu = Serrar il menu «Projects»
 navigation-donate-your-voice-to = Dà tia vusch per gidar a realisar la reconuschientscha vocala averta per mintgin.
+navigation-machine-learning = L'emprender maschinal
 # Outdated string
 navigation-web-of-things-iot = Internet da las chaussas (IoT)
+navigation-help-make-deep-learning = Gida da render disponibel algoritmus da deep learning al mund open source.
 # Outdated string
 navigation-make-devices-connected = Renda ils apparats connectads cun l'internet segirs, protegids e cumpatibels.
 navigation-developers = Sviluppaders

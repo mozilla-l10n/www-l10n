@@ -9,3 +9,7 @@ whatsnew-page-title = Tge è nov en { -brand-name-firefox }? Dapli protecziun da
 whatsnew-page-description = Ta defenda cunter ina industria che venda tias datas a terzas partidas. Fa diever da tecnologias che ta correspundan e ta protegian online.
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = Gratulaziun! Ti utiliseschas la pli nova versiun da { -brand-name-firefox-browser }.
+whatsnew-out-of-date-notification = In { -brand-name-firefox-browser } anc pli nov è disponibel. Reaviar per actualisar.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes = Legia las <a href="{ $url }">remartgas davart la versiun</a> per vegnir a savair dapli da las midadas en tes navigatur { -brand-name-firefox }.
