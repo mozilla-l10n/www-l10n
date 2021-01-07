@@ -17,4 +17,4 @@ features-private-browsing-sharing-is-caring = Compartilhar é cuidar, mas deve s
 features-private-browsing-catch-those-hidden = Apanhe aqueles rastreadores ocultos
 features-private-browsing-some-websites-and = Alguns sites e anúncios incluem rastreadores ocultos que coletam suas informações de navegação mesmo depois de você ter saído. Só a navegação privativa do { -brand-name-firefox } tem proteção contra rastreamento que os bloqueia automaticamente.
 features-private-browsing-shake-off-tracking = Livre-se do peso dos rastreadores
-features-private-browsing-not-only-do-trackers = Os rastreadores não apenas coletam suas informações, eles podem pesar na velocidade de navegação. Somente a navegação privativa do { -brand-name-firefox } bloqueia anúncios com rastreadores ocultos, assim você se livra da bagagem extra e navega livremente.
+features-private-browsing-not-only-do-trackers = Os rastreadores não apenas coletam suas informações, eles podem pesar na velocidade de navegação. Somente a navegação privativa do { -brand-name-firefox } bloqueia anúncios com rastreadores ocultos, assim você se livra da bagagem extra e navega com liberdade.

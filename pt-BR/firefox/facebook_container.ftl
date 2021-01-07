@@ -33,4 +33,4 @@ facebook-container-about-firefox-and-mozilla = Sobre o { -brand-name-firefox } e
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
 facebook-container-were-backed-by-mozilla-the = Temos o apoio da <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, a organização sem fins lucrativos que coloca as pessoas antes do lucro, para prover a todos o poder on-line. Criamos esta extensão porque acreditamos que você deve ter uma ferramenta fácil de usar e que ajuda você a gerenciar sua privacidade e segurança.
-facebook-container-browse-freely-with-firefox = Navegue livremente com o { -brand-name-firefox } hoje.
+facebook-container-browse-freely-with-firefox = Navegue com liberdade usando o { -brand-name-firefox } hoje mesmo.
