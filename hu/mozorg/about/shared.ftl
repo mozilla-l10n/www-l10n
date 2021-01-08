@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
 
-about-shared-about-mozilla = A Mozilláról
+about-shared-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
 about-shared-mission = Küldetés
 about-shared-history = Történelem
 about-shared-leadership = Vezetés
