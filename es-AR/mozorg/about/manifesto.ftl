@@ -116,4 +116,4 @@ manifesto-details-promote-models = promover modelos a fin de crear recursos econ
 manifesto-details-promote-the-mozilla = promover los principios del manifiesto de { -brand-name-mozilla } en el debate público y dentro de la industria de Internet.
 manifesto-details-some-foundation = Algunas actividades de la Fundación, en este momento, la creación, distribución y promoción de productos que se se realiza principalmente a través de la empresa subsidiaria { -brand-name-mozilla-corporation }, la cual es íntegramente propiedad de la { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Invitación
-manifesto-details-the-mozilla-foundation-invites = La Fundación { -brand-name-mozilla } invita a todas las personas que apoyen los principios del manifiesto de { -brand-name-mozilla } a unirse a nosotros para encontrar nuevas formas de hacer realidad esta visión de Internet.
+manifesto-details-the-mozilla-foundation-invites = La { -brand-name-mozilla-foundation } invita a todas las personas que apoyen los principios del manifiesto de { -brand-name-mozilla } a unirse a nosotros para encontrar nuevas formas de hacer realidad esta visión de Internet.
