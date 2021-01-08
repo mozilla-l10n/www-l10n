@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title = O futuro está sendo decidido online. Ajuda a { -brand-name-mozilla } a lutar por uma web para todos nós.
+banner-fundraising-body = Nossos dados pessoais são coletados toda vez que acessamos a web e não é fácil descobrir o que é feito com eles. A desinformação está nos dificultando encontrar a verdade. Dispositivos conectados à web são lançados no mercado sem atender a padrões mínimos de segurança. A organização sem fins lucrativos { -brand-name-mozilla-foundation } luta para tornar a internet segura, aberta e acessível a todos. <strong>Que tal ajudar com uma doação?</strong>
 banner-fundraising-monthly = Mensalmente
 banner-fundraising-one-time = Uma vez
 banner-fundraising-donate = Faça uma doação
