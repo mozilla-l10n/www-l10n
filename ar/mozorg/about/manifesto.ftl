@@ -1,0 +1,119 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/about/manifesto/
+
+# HTML page title
+manifesto-the-mozilla-manifesto = بيان موزيلا
+# HTML page description
+manifesto-these-are-the-principles = هذه هي المبادئ التي تُرشد مهمّتنا في تشجيع الانفتاح والابتكار والفرص على الوِب.
+manifesto-the-internet-is-an-integral = الإنترنت جزء لا يتجزأ من الحياة العصرية، أي أنه عنصر أساسي في مجالات التعليم والتواصل والتعاون والأعمال والترفيه والمجتمع ككل.
+manifesto-the-internet-is-a-global = إنّ الإنترنت مورد عالمي للعموم ويجب أن يبقى مفتوحا ومتاحا.
+manifesto-the-internet-must-enrich = لا بدّ أن يُثري الإنترنت حياة الأفراد كافة.
+manifesto-individuals-security-and = إنّ ضمان أمن الأفراد وخصوصيتهم على شبكة الإنترنت لهو أمر أساسي ويجب ألا يُعتبر ثانويا أبدا.
+manifesto-individuals-must-have = لا بدّ من أن يقدر الأفراد على صياغة الإنترنت كما وتجارب كل واحد منهم فيه.
+manifesto-the-effectiveness-of-the = تعتمد فعالية الإنترنت كمورد عمومي على التبادلية (في البروتوكولات وتنسيقات البيانات والمحتوى) والابتكار ومشاركة اللامركزية في جميع أنحاء العالم.
+manifesto-free-and-open-source-software = تُعزّز البرمجيات الحرة والمفتوحة المصدر على تطوير شبكة الإنترنت كمورد عمومي.
+manifesto-transparent-community = تُعزّز شفافية العمليات التي تتم في المُجتمع المشاركةَ والمسؤولية والثّقة.
+manifesto-commercial-involvement = للمشاركة التجارية في تطوير الإنترنت فوائد عديدة، والموازنة بين الربح التجاري والمنفعة العامة أمر بالغ الأهمية.
+manifesto-magnifying-the-public = إنّ تسليط الضوء على المنافع العامة للإنترنت لهو هدف مهم يستحق ما يُقدّم له من وقت واهتمام والتزام.
+manifesto-principle-1 = المبدأ ١
+manifesto-principle-2 = المبدأ ٢
+manifesto-principle-3 = المبدأ ٣
+manifesto-principle-4 = المبدأ ٤
+manifesto-principle-5 = المبدأ ٥
+manifesto-principle-6 = المبدأ ٦
+manifesto-principle-7 = المبدأ ٧
+manifesto-principle-8 = المبدأ ٨
+manifesto-principle-9 = المبدأ ٩
+manifesto-principle-10 = المبدأ ١٠
+manifesto-01 = 01
+manifesto-02 = 02
+manifesto-03 = 03
+manifesto-04 = 04
+manifesto-05 = 05
+manifesto-06 = 06
+manifesto-07 = 07
+manifesto-08 = 08
+manifesto-09 = 09
+manifesto-10 = 10
+# Main page heading
+manifesto-the-mozilla-manifesto-addendum = ملحق بيان موزيلا
+# Main page sub-heading
+manifesto-pledge-for-a-healthy-internet = تعهد من أجل إنترنت صحي
+manifesto-the-open-global-internet = إنّ الإنترنت العالمي والمفتوح هو أكثر الموارد قوّة في التواصل والتعاون والتي ما شهدت عين مثله. يُجسّد الإنترنت بعضا من آمالنا العميقة للتقدّم البشري. كما ويقدّم فرص جديدة للتعلم وصناعة حسّ بالإنسانية المشتركة، كما وحل المشاكل الملحّة التي تواجه الناس في كل مكان.
+manifesto-over-the-last-decade-we = على مدار العقد المنصرم، رأينا بأن هذا الوعد قد تحقّق بعدد من الطرق. رأينا أيضا بأن قوة الإنترنت عظّمت الانقسام وحثّت على العنف وشجّعت على الكراهية وتلاعبت بالواقع والحقيقة بشكل عمد. علمنا بأنه علينا أن نحدّد وبشكل صريح تطلّعاتنا لتجربة البشر للإنترنت. هذا ما نحن نفعله الآن.
+manifesto-we-are-committed-to-people = نحن ملتزمون بإنترنت يشمل جميع من في الأرض — بحيث أن الصفات الديموغرافية للأشخاص لا تحدّد فترة اتصالهم بالشبكة، أو الفرص المتاحة لهم، أو حتى مدى جودة تجربتهم الشبكية.
+manifesto-we-are-committed-to-discourse = نحن ملتزمون بإنترنت يشجّع على الحوار المدني وحفظ كرامة البشر وتعبير الأفراد.
+manifesto-we-are-committed-to-thinking = نحن ملتزمون بإنترنت يرتقي بالتفكير الناقد والبراهين المنطقية والمعرفة المشتركة والحقائق التي ممكن إثباتها.
+manifesto-we-are-committed-to-diverse = نحن ملتزمون بإنترنت يحفّز التعاون بين مختلف المجتمعات التي تعمل معا للمصلحة العامة.
+manifesto-show-your-support = أرِ الناس تأييدك
+manifesto-an-internet-with-these = إنترنت كهذا ومع هذه الصفات لن يتحقّق من تلقاء نفسه. على الأفراد والمجتمعات تضمين هذه التطلعات في تقنية الإنترنت وفي تجربة الناس في الإنترنت. إن بيان موزيلا وملحقه يمثّل التزام موزيلا بالأخذ بهذه التطلعات قدما. نأمل بأن نعمل معا مع الناس والمنظمات في كل مكان والذين يشتركون معنا في هذه الأهداف، لجعل الإنترنت مكانا أفضل للجميع أكثر مما هو عليه الآن.
+manifesto-i-support-the-vision-of = أدعم رؤية @mozilla لإنترنت أفضل وأكثر صحة، فهل ستأتي في صفّي؟
+manifesto-share-on-twitter = شارِك على تويتر
+manifesto-our-10-principles = مبادؤنا <strong>العشرة</strong>
+manifesto-use-open-badges-to-share = استخدم Open Badges لتشارك مهارات ومراكز اهتمامك
+manifesto-explore-how-the-web-impacts = اكتشف كيف يمكن للوِب التأثير على العلوم
+manifesto-learn-about-open-source = تعرّف على الدّور الذي تلعبه المصادر المفتوحة في مجال الصّحافة
+manifesto-read-about-open-internet = اقرأ عن مبادرات وتطويرات سياسة الإنترنت المفتوح
+manifesto-explore-how-to-help-keep = اكتشف الطريقة التي يمكنك المساعدة بها لإبقاء الوِب مفتوحا
+manifesto-see-how-the-web-can-connect = اطّلع على الطريقة التي يربط بها الوِب العالمَ بالعناية الصحية
+manifesto-explore-how-the-web-works = اكتشف طريقة عمل الوِب
+manifesto-see-how-mozilla-works = تعرّف على كيف تضع موزيلا خصوصيتك أوّلا وقبل كل شيء
+manifesto-read-about-developments = اقرأ حول التّطوّرات في مجالي الخصوصية وحماية البيانات
+manifesto-learn-more-about-how-to = اعرف المزيد حول كيفية حماية نفسك على الإنترنت
+manifesto-use-these-free-tools-to = استخدم هذه الأدوات المجانية لتعليم الوِب
+manifesto-learn-about-creating-and = تعلّم طريقة إنشاء المحتوى المقدّم للوِب والإشراف عليه
+manifesto-add-new-voices-to-open = ساهم في التكنولوجيات مفتوحة المصدر
+manifesto-set-your-do-not-track = فعّل خاصية عدم التّعقّب
+manifesto-understand-the-web-ecosystem = أدرِك النظام البيئي للوِب
+manifesto-explore-how-open-practices = اكتشف الآلية التي تُحافظ بها الممارسات المفتوحة على الوِب متاحا
+manifesto-learn-how-to-remix-content = تعرّف على طريقة استخدام المُحتويات الحالية لإنشاء أشياء جديدة.
+manifesto-learn-how-to-maximize = اطّلع عل كيفية تعزيز الإمكانيات التفاعلية للوِب
+manifesto-participate-in-our-governance = ساهم في مُنتدى الحوكمة
+manifesto-join-us-as-a-volunteer = انضم إلينا كمُتطوّع
+manifesto-learn-how-to-collaborate = اعرف كيف يُمكنك المُساهمة على الإنترنت
+manifesto-visualize-who-you-interact = شاهد الأطراف التي تتفاعل معها على الويب باستخدام { -brand-name-lightbeam }
+manifesto-learn-about-creating-web = اطّلع على كيفية صناعة الموارد على الوِب مع الغير
+manifesto-host-or-join-a-maker-party = نظّم أو انضم إلى { -brand-name-maker-party }
+manifesto-learn-how-to-build-online = تعلّم كيف تبني مهارات المُشاركة على الإنترنت
+manifesto-read-the-entire-manifesto = اقرأ البيان كاملًا
+manifesto-love-the-web = أوتحبّ الوِب؟
+manifesto-get-the-mozilla-newsletter = استلم النشرة البريدية لموزيلا وساعدنا بإبقائه مفتوحا ومجانيا.
+manifesto-details-the-mozilla-manifesto = بيان موزيلا
+manifesto-details-introduction = مُقدّمة
+manifesto-details-the-internet-is-becoming = تُصبح الإنترنت ضرورية أكثر في حياتنا يومًا بعد يوم
+manifesto-details-the-mozilla-project-global = مشروع موزيلا هو مجتمع عالمي من الناس الذين يعتقدون أن الانفتاح ، والابتكار ، والفرصة هم المفتاح الأساسي إلي إستمرارية قوية للإنترنت. لقد عملنا معا منذ عام 1998 للتأكد من أن شبكة الإنترنت تتطور علي نحو يفيد الجميع . ونحن معروفون بتطوير متصفح الويب موزيلا فايرفوكس.
+manifesto-details-the-mozilla-project-community = مشروع موزيلا يقوم علي نهج يعتمد علي مجتمع من المهتمين لخلق برمجيات مفتوحة المصدر علي مستوي عالمي ولتطوير أنواع جديدة من الأنشطة التعاونية. فنحن نصنع مجتمعات من الناس المساهمة في جعل تجربة الإنترنت أفضل لنا جميعا.
+manifesto-details-as-a-result-of = وكنتيجة لهذه الجهود، فقد تجمع لدينا مجموعة من المبادئ التي نعتقد بأنها مهمة لمواصلة إفادة المصلحة العامة، وكذلك الجوانب التجارية من حياتنا. ونذكر هذه المبادئ لاحقا.
+manifesto-details-the-goals-for = أهداف هذا البيان ما يلي:
+manifesto-details-articulate-a-vision = التعبير عن رؤية للإنترنت التي يرغب المشاركين بمشروع موزيلا من مؤسسة موزيلا السعي لها.
+manifesto-details-speak-to-people = التحدث الى الناس سواء كانت لديهم خلفية تقنية أو لا.
+manifesto-details-make-mozilla-contributors = جعل المساهمين بموزيلا يشعرون بالفخر لما نقوم به وتحفزنا على مواصلة الجهد.
+manifesto-details-provide-a-framework = توفبر إطار عمل لأي مجموعة أخري ترغب أن تطور رؤيتهم للإنترنت .
+manifesto-details-these-principles = هذه المبادئ لن تتحقق بمفردها . مطلوب مساهمة الناس لجعل شبكة الانترنت مفتوحة وقائمة على المشاركة -- الناس كأفراد ، يعملون معا في مجموعات ، ويقودون آخرين . مؤسسة موزيلا ملتزمة بالمضي قدما في  تنفيذ المبادئ الواردة في بيان موزيلا. ونحن ندعو الآخرين إلى الانضمام إلينا ، وجعل شبكة الإنترنت مكانا أفضل من أي وقت مضى للجميع.
+manifesto-details-principles = المبادئ
+manifesto-details-the-internet-is-integral = الإنترنت جزء لا يتجزأ من الحياة العصرية وعنصر أساسي في مجال التعليم، والاتصالات، والتعاون، والأعمال والترفيه والمجتمع ككل.
+manifesto-details-the-internet-is-global = شبكة الإنترنت مورد عام عالمي ويجب أن تبقي مفتوحة ومتاحة ويمكن الوصول إليها .
+manifesto-details-the-internet-must = يتوجب على شبكة الإنترنت إثراء حياة الأفراد.
+manifesto-details-individuals-security = ضمان أمن وخصوصية الأفراد على شبكة الإنترنت أمر أساسي وليس اختياريًا.
+manifesto-details-individuals-must = يجب أن يكون للأفراد القدرة على صياغة شكل الإنترنت وطريقة استخدامهم له.
+manifesto-details-the-effectiveness = فعالية الإنترنت كمورد عام يعتمد على القدرة على التّبادل (في البروتوكولات وصِيَغ البيانات والمضمون) ، والابتكار ، والمشاركة اللامركزية في جميع أنحاء العالم.
+manifesto-details-free-and-open = تُعزّز البرمجيات الحرة والمفتوحة المصدر تطوير شبكة الإنترنت كمورد عام مُتاح للجميع.
+manifesto-details-transparent-community = تُعزّز شفافية العمليات التي تتم في المُجتمع المشاركةَ والمسؤولية والثّقة.
+manifesto-details-commercial-involvement = للمشاركة التجارية في تطوير الإنترنت فوائد عديدة، والموازنة بين الربح التجاري والمنفعة العامة أمر بالغ الأهمية.
+manifesto-details-magnifying-the = تسليط الضّوء على المنافع العامة للإنترنت والعمل على توسيع دائرة تأثيرها هدف جدير بتخصيص الوقت والجهد لتحقيقه
+manifesto-details-advancing-the = الدفع ببيان موزيلا
+manifesto-details-there-are-many = هناك العديد من الطرق المختلفة لدفع المبادئ الواردة في بيان موزيلا.  نحن نرحب بمجموعة واسعة من الأنشطة ، ونتوقع نفس الإبداع الذي أظهره المشاركون في مناطق أخرى من المشروع . بالنسبة للأفراد الذين لا يشاركون بعمق في مشروع موزيلا ، وسيلة واحدة وفعالة لدعم البيان هو استخدام موزيلا فايرفوكس وغيرها من المنتجات التي تجسد المبادئ الواردة في البيان.
+manifesto-details-mozilla-foundation = مؤسسة موزيلا تتعهد
+manifesto-details-the-mozilla-foundation-pleges = مؤسسة موزيلا تتعهد بعدم بيان موزيلا في أنشطتها . على وجه التحديد ، سنقوم بما يلي :
+manifesto-details-build-and-enable = بناء وتمكين تقنيات المصدر المفتوح والمجتمعات المحلية التي تدعم بيان مبادئ البيان .
+manifesto-details-build-and-deliver = بناء وتسليم المنتجات التي تدعم مبادئ البيان .
+manifesto-details-use-the-mozilla = استخدام أصول موزيلا (الملكية الفكرية مثل حقوق الطبع والعلامات التجارية ، والبنية التحتية ، والأموال ، والسمعة) للحفاظ على الانترنت كمنصة مفتوحة .
+manifesto-details-promote-models = تشجيع نماذج لخلق قيمة إقتصادية للمنفعة العامة .
+manifesto-details-promote-the-mozilla = الدعوة لبيان موزيلا في الخطاب العام ، وداخل صناعة الانترنت.
+manifesto-details-some-foundation = بعض من أنشطة المؤسسة – حاليا إنشاء وإنجاز وترويج للمنتجات – تتم في المقام الأول من خلال مؤسسة موزيلا المملوكة بالكامل لشركة موزيلا.
+manifesto-details-invitation = دعوة
+manifesto-details-the-mozilla-foundation-invites = مؤسسة موزيلا تدعو جميع الذين يؤيدون المبادئ الواردة في بيان موزيلا على الانضمام إلينا ، ولإيجاد طرق جديدة لجعل هذه الرؤية حقيقة واقعة .

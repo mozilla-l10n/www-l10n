@@ -1,0 +1,119 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/about/manifesto/
+
+# HTML page title
+manifesto-the-mozilla-manifesto = { -brand-name-mozilla } का घोषणापत्र
+# HTML page description
+manifesto-these-are-the-principles = ये वो सिद्धांत हैं जो वेब पर खुलापन, नवीनीकरण और अवसर को बढ़ावा देने के हमारे विशेष कार्य के मार्गदर्शन करते हैं.
+manifesto-the-internet-is-an-integral = इन्टरनेट हमारे आधुनिक जीवन का एक अभिन्न भाग हैं— शिक्षा, संचार, सहयोग, व्यवसाय, मनोरंजन और पुरे समाज के लिए एक महत्वपूर्ण अंश हैं.
+manifesto-the-internet-is-a-global = इंटरनेट एक वैश्विक सार्वजनिक संसाधन है जिसे खुला और पहुँच योग्य रहना चाहिए.
+manifesto-the-internet-must-enrich = इंटरनेट को व्यक्तिगत मनुष्य के जीवन को ज़रूर समृद्ध करना होगा.
+manifesto-individuals-security-and = इंटरनेट पर व्यक्तियों की सुरक्षा और गोपनीयता मौलिक हैं और वैकल्पिक नहीं माना जाना चाहिए.
+manifesto-individuals-must-have = व्यक्तियों के पास इंटरनेट और अपने स्वयं के अनुभवों को आकार करने की क्षमता होनी चाहिए.
+manifesto-the-effectiveness-of-the = सार्वजनिक संसाधन के रूप में इंटरनेट की प्रभावकारिता पारस्परिकता (प्रोटोकॉल, डेटा फॉर्मेट, अंतर्वस्तु), कुछ नयी और विश्व भर में विकेन्द्रीकृत भागीदारी पर निर्भर करती हैं.
+manifesto-free-and-open-source-software = मुफ्त और ओपन सोर्स सॉफ्टवेयर एक सार्वजनिक संसाधन के रूप में इंटरनेट के विकास को बढ़ावा देता है.
+manifesto-transparent-community = पारदर्शी समुदाय आधारित प्रक्रियाए भागीदारी, जवाबदेही और विश्वास को बढ़ावा देती है
+manifesto-commercial-involvement = इंटरनेट के विकास में व्यावसायिक भागीदारी से बहुत लाभ होता है; व्यावसायिक लाभ और जनता के लाभ के बीच में संतुलन बहुत महत्वपूर्ण हैं.
+manifesto-magnifying-the-public = इंटरनेट के सार्वजनिक लाभ पहलू  की वृद्धि करना एक महत्वपूर्ण उद्देश्य है, यह समय, ध्यान और प्रतिबद्धता के लायक हैं.
+manifesto-principle-1 = सिद्धांत 1
+manifesto-principle-2 = सिद्धांत 2
+manifesto-principle-3 = सिद्धांत 3
+manifesto-principle-4 = सिद्धांत 4
+manifesto-principle-5 = सिद्धांत 5
+manifesto-principle-6 = सिद्धांत 6
+manifesto-principle-7 = सिद्धांत 7
+manifesto-principle-8 = सिद्धांत 8
+manifesto-principle-9 = सिद्धांत 9
+manifesto-principle-10 = सिद्धांत 10
+manifesto-01 = 01
+manifesto-02 = 02
+manifesto-03 = 03
+manifesto-04 = 04
+manifesto-05 = 05
+manifesto-06 = 06
+manifesto-07 = 07
+manifesto-08 = 08
+manifesto-09 = 09
+manifesto-10 = 10
+# Main page heading
+manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } का घोषणापत्र उपलेख
+# Main page sub-heading
+manifesto-pledge-for-a-healthy-internet = एक स्वस्थ इंटरनेट के लिए प्रतिज्ञा ले
+manifesto-the-open-global-internet = खुले, वैश्विक इंटरनेट सबसे शक्तिशाली संचार और सहयोग संसाधन हमने कभी देखा हैं. यह मानव प्रगति के लिए हमारी गहरी आशाओं में से कुछ का प्रतीक हैं. यह सीखने के लिए नए अवसरों को सक्षम बनाता है, साझा मानवता की भावना का निर्माण, और हर जगह लोगों की समस्याओं का सामना करके सुलझा रहे हैं.
+manifesto-over-the-last-decade-we = पिछले दशक में हमने इस वादे को कई मायनों में पूरा करते देखा हैं. हमने भी इंटरनेट की शक्ति को देखा है जो हिंसा उत्तेजित, घृणा को बढ़ावा, विभाजनकारीता बढ़ावे का इस्तेमाल और जानबूझकर तथ्य और वास्तविकता में हेरफेर किया करते थें. हमने सीखा है कि हम और अधिक स्पष्ट रूप से इंटरनेट के मानवीय अनुभव के लिए हमारी आकांक्षाओं को निर्धारित करना चाहिए. हम तो अब करते हैं.
+manifesto-we-are-committed-to-people = हम एक इंटरनेट के लिए प्रतिबद्ध हैं जो पृथ्वी के सारे लोगो को शामिल करता हैं — जहाँ एक व्यक्ति की जनसांख्यिकीय विशेषताओं का उनके ऑनलाइन एक्सेस, अवसर या अनुभव की गुणवत्ता का निर्धारण नहीं होता हैं.
+manifesto-we-are-committed-to-discourse = हम एक इंटरनेट के लिए प्रतिबद्ध हैं जो नागरिक बहस, मानव गरिमा, और व्यक्तिगत अभिव्यक्ति को बढ़ावा देता हैं.
+manifesto-we-are-committed-to-thinking = हम एक इंटरनेट के लिए प्रतिबद्ध हैं जो कि महत्वपूर्ण सोच, तर्क कारण, साझा ज्ञान, और निरीक्षण तथ्यों को बढ़ाता  हैं.
+manifesto-we-are-committed-to-diverse = हम एक इंटरनेट के लिए प्रतिबद्ध हैं जो सार्वजनिक अच्छाई के लिए एक साथ काम कर रहे विभिन्न समुदायों के बीच सहयोग उत्प्रेरित करते हैं.
+manifesto-show-your-support = अपना समर्थन दिखाएँ
+manifesto-an-internet-with-these = एक इंटरनेट अपने आप ही इन गुणों के साथ जीवन में नहीं आएगा. व्यक्तियों और संगठनों इंटरनेट प्रौद्योगिकी और इंटरनेट के साथ मानवीय अनुभव में इन आकांक्षाओं को लागु करना होगा. { -brand-name-mozilla } घोषणापत्र और परिशिष्ट इन आकांक्षाओं को आगे बढ़ाने के लिए { -brand-name-mozilla } की प्रतिबद्धता का प्रतिनिधित्व करते हैं. हम हर जगह लोगों और संगठनों के साथ जो इन लक्ष्यों को साझा करने के लिए इंटरनेट को सभी के लिए एक बेहतर जगह बनाने में साथ मिलकर काम करते हैं.
+manifesto-i-support-the-vision-of = हम @mozilla से एक बेहतर, स्वस्थ इन्टरनेट के उद्देश्य का समर्थन करते हैं, क्या आप हमसे जुड़ेंगे?
+manifesto-share-on-twitter = { -brand-name-twitter } पर साझा करें
+manifesto-our-10-principles = <strong>हमारे 10</strong> सिद्धांत
+manifesto-use-open-badges-to-share = अपने कौशल और हितों को साझा करने के लिए ओपन बैज का प्रयोग करें
+manifesto-explore-how-the-web-impacts = अन्वेषण करें कैसे वेब विज्ञान पर प्रभाव डालता है
+manifesto-learn-about-open-source = पत्रकारिता में ओपन सोर्स कोड के बारे में जानें
+manifesto-read-about-open-internet = खुले इंटरनेट के नीतिगत पहलों और घटनाओं के बारे में पढ़ें
+manifesto-explore-how-to-help-keep = अन्वेषण करें की वेब खुला रखने में कैसे मदद करे
+manifesto-see-how-the-web-can-connect = देखें की वेब दुनिया को स्वास्थ्य सेवा से कैसे कनेक्ट कर सकता है
+manifesto-explore-how-the-web-works = अन्वेषण करें की वेब कैसे काम करता है
+manifesto-see-how-mozilla-works = देखिये, मोज़िला आपकी गोपनीयता को पहले रखते हुए कैसे काम करता है
+manifesto-read-about-developments = गोपनीयता और डेटा सुरक्षा के विकास के बारे में पढ़ें
+manifesto-learn-more-about-how-to = अपने आप को ऑनलाइन सुरक्षित करने के बारे में अधिक जानें
+manifesto-use-these-free-tools-to = वेब सिखाने के लिए इन नि: शुल्क उपकरणों का प्रयोग करें
+manifesto-learn-about-creating-and = वेब के लिए सामग्री बनाने और मददगार सामग्री को छांटने के बारे में जानें
+manifesto-add-new-voices-to-open = नई आवाज जोड़ें ओपन सोर्स प्रौद्योगिकी के लिए
+manifesto-set-your-do-not-track = अपनी डू नॉट ट्रैक प्राथमिकता सेट कीजिए
+manifesto-understand-the-web-ecosystem = वेब इकोसिस्टम को समझें
+manifesto-explore-how-open-practices = वेब मे खुला प्रथाओं सुलभ करने का अन्वेषण करे
+manifesto-learn-how-to-remix-content = कुछ नया बनाने के लिए सामग्री रीमिक्स करना सीखें
+manifesto-learn-how-to-maximize = वेब के संवादात्मक क्षमता को अधिकतम करने के बारे में जानें
+manifesto-participate-in-our-governance = हमारे शासन मंच में भाग लीजिये
+manifesto-join-us-as-a-volunteer = एक स्वयंसेवक के रूप में हमसे जुड़ें
+manifesto-learn-how-to-collaborate = सीखे ऑनलाइन सहयोग कैसे दे
+manifesto-visualize-who-you-interact = { -brand-name-lightbeam } के माध्यम से देखिये की आप वेब पर किसके साथ बातचीत करते हैं
+manifesto-learn-about-creating-web = अन्य लोगों के साथ वेब संसाधनों बनाने के बारे में जानें
+manifesto-host-or-join-a-maker-party = { -brand-name-maker-party } की  मेजबानी करे या उससे जुड़ें
+manifesto-learn-how-to-build-online = ऑनलाइन साझेदारी कौशल बनाने के बारे में सीखे
+manifesto-read-the-entire-manifesto = पूरे घोषणापत्र को पढ़े
+manifesto-love-the-web = वेब से प्यार करते हैं?
+manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } सूचनापत्र प्राप्त करें और इसे खुले और मुक्त रखने में हमारी मदद करें.
+manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } का घोषणापत्र
+manifesto-details-introduction = परिचय
+manifesto-details-the-internet-is-becoming = इंटरनेट हमारे जीवन का एक अभिन्न अंग बनता जा रहा है
+manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } परियोजना एक वैश्विक समुदाय लोगो का है जो भरोसा करते है की खुला, नवीनता, और अवसर कुंजी है इंटरनेट की सेहत जारी रखने के लिए. हम सन 1998 से एक साथ काम कर रहे है ये सुनिश्चित करने के लिए इन्टरनेट इस तरह से विकसित करें की सबका फायदा हो. हमे { -brand-name-mozilla } { -brand-name-firefox } बनाने के लिए सबसे अच्छे से जाना जाता है.
+manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } परियोजना एक समुदाय वाला तरीका इस्तेमाल करती है एक विश्व-वर्ग ओपन सोर्स सॉफ्टवेयर बनाने के लिए और उसे विकसित करेंने के लिए नये प्रकार की सहयोगपूर्ण क्रियाएँ करती है. हम लोगो का समुदाय बनाते है जो हम सब के लिए इंटरनेट का अनुभव बेहतर बनाते है.
+manifesto-details-as-a-result-of = हमारी लगातार कोशिशो का ये परिणाम है की, हमने उन सिद्धांतों का एक सेट आसुत कर लिया है जो हम मानते है की बहुत महत्वपूर्ण है इंटरनेट के लिए ताकि वो लगातार सार्वजनिक रूप मे सबके लिए अच्छे हो साथ ही साथ जीवन के वाणिज्यिक पहलुओं का भी ख़याल रखे . वह सिद्धांत कुछ इस प्रकार है
+manifesto-details-the-goals-for = घोषणा पत्र के लक्ष्य है:
+manifesto-details-articulate-a-vision = इंटरनेट के लिए एक सुस्पष्ट नज़र रखे जो { -brand-name-mozilla } प्रतिभागी चाहेंगे की { -brand-name-mozilla } संस्थान अनुसरण करे;
+manifesto-details-speak-to-people = लोगो से बात करे चाहे उनकी पृष्ठभूमि टेक्निकल हो या ना हो;
+manifesto-details-make-mozilla-contributors = { -brand-name-mozilla } सहयोगीयों को गोरान्वित महसूस कराइये उन चीजों के लिए जो वो कर रहे है और उन्हें प्रेरित करे इसे करते रहने के लिए; और
+manifesto-details-provide-a-framework = दूसरो के लिए एक रूपरेखा प्रदान करें इंटरनेट के इस वर्श़न को आधुनिक बनाने के लिए.
+manifesto-details-these-principles = यह सिद्धांत अपने दम पर जीवन में नहीं आएंगे. लोगो की ज़रुरत है इंटरनेट को खुला और सहभागी बनाने के लिए - लोगों व्यक्तिय के रूप में कार्य करे, समूह में एक साथ काम करे, और दूसरो का नेतृत्व करना. { -brand-name-mozilla } संस्थान { -brand-name-mozilla } घोषणा पत्र में निर्धारित सिद्धांतों को आगे बढ़ाने के लिए प्रतिबद्ध है. हम दूसरो को आमंत्रित करते है हमसे जुड़ने के लिए और इंटरनेट को और भी अच्छी जगह सबके लिए बनाने के लिए.
+manifesto-details-principles = सिद्धांत
+manifesto-details-the-internet-is-integral = इंटरनेट आधुनिक जीवन का एक अभिन्न हिस्सा है - यह शिक्षा, संचार, सहयोग, व्यापार, मनोरंजन और पूरे समाज के लिए कुंजी अवयव है.
+manifesto-details-the-internet-is-global = इंटरनेट एक वैश्विक सार्वजनिक संसाधन है जिसे खुला और सुलभ रहना चाहिए.
+manifesto-details-the-internet-must = इंटरनेट को व्यक्तिगत मनुष्य के जीवन को ज़रूर समृद्ध करना होगा.
+manifesto-details-individuals-security = इंटरनेट पर व्यक्तियों की सुरक्षा और गोपनीयता मौलिक हैं और वैकल्पिक के रूप में नहीं माना जाना चाहिए.
+manifesto-details-individuals-must = व्यक्तियों के पास इंटरनेट को आकार देने और उससे अपने अनुभवों के अनुसार आकार देने की क्षमता होनी चाहिए.
+manifesto-details-the-effectiveness = पब्लिक संसाधन के रूप में इंटरनेट की प्रभावकारिता निर्भर करती है पारस्परिकता पर (प्रोटोकाल, डाटा फॉर्मेट, कॉन्टेंट), कुछ नयी खोज करना और डिसेन्ट्रलाइज़ भाग लेना विश्व भर में.
+manifesto-details-free-and-open = मुफ्त और ओपन सोर्स सॉफ्टवेयर एक सार्वजनिक संसाधन के रूप में इंटरनेट के विकास को बढ़ावा देता है.
+manifesto-details-transparent-community = पारदर्शी समुदाय आधारित प्रक्रियाए भागीदारी, जवाबदेही और विश्वास को बढ़ावा देती है
+manifesto-details-commercial-involvement = इंटरनेट के विकास में व्यावसायिक भागीदारी से बहुत लाभ होता है; व्यावसायिक लाभ और जनता के लाभ के बीच में संतुलन महत्वपूर्ण है.
+manifesto-details-magnifying-the = इंटरनेट के सार्वजनिक लाभ पहलू  की वृद्धि करना एक महत्वपूर्ण उद्देश है, यह समय, ध्यान और प्रतिबद्धता के लायक है.
+manifesto-details-advancing-the = { -brand-name-mozilla } घोषणापत्र को आगे बढाना
+manifesto-details-there-are-many = { -brand-name-mozilla } घोषणापत्र के सिद्धांतो को आगे बढानें के काफी अलग अलग तरीके होते है. हम स्वागत करते है विस्तृत प्रकार की क्रियाअो का, और आशा रखते है की यही रचनात्मकता मोज़िला प्रतिभागियों ने अन्य क्षेत्र के परियोजना में भी लगाए हो. वह व्यक्तियों जो { -brand-name-mozilla } परियोजना में गहराई से जुड़े नहीं है, एक बुनियादी और असरदार तरीका घोषणापत्र को मदद करने के लिए यह है की { -brand-name-mozilla } फायरफॉक्स और दुसरे उत्पाद जो घोषणापत्र के सिद्धांतो को सम्मलित करते है उनका इस्तेमाल करे.
+manifesto-details-mozilla-foundation = Mozilla संस्थापन प्रतिज्ञा
+manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla } संस्थान प्रतिज्ञा करता है मोज़िला घोषणापत्र की क्रियाअो को समर्थन करने का. खासकर, हम करेंगे:
+manifesto-details-build-and-enable = बनाएं और सक्रिय करें खुले स्त्रोत प्रोद्योगिकी और संगठन जो समर्थन करते है घोषणापत्र की सिद्धांतो का;
+manifesto-details-build-and-deliver = बनाए और प्रदान करे बढ़िया उपभोगता उत्पाद जो घोषणापत्र के सिद्धांतो को मदद करते है;
+manifesto-details-use-the-mozilla = { -brand-name-mozilla } संपत्ति का इस्तेमाल करे (बौधिक गुण जैसे की सर्वाधिकार और व्यापार-चिह्न, बुनियादी ढ़ाचा, पैसा, और इज्जत) इंटरनेट को एक खुला मंच रखने के लिए;
+manifesto-details-promote-models = नमूने का प्रचार करे आर्थिक मूल्य पैदा करने के लिए ताकी जनता का लाभ हो ; और
+manifesto-details-promote-the-mozilla = { -brand-name-mozilla } घोषणापत्र के सिद्धांतो का सार्वजनिक संसाद में प्रचार करे और इंटरनेट उद्योक के भीतर भी.
+manifesto-details-some-foundation = कुछ संस्थान की गतिविधिया-बिजली, मौजूदा रचना, पहुँचाना और उपभोक्ता उत्पादों के प्रचार-के माध्यम से मुख्य रूप से Mozilla संस्थान द्वारा आयोजित की जाती हैं जो की पूर्ण स्वामित्व वाली सहायक है, यह Mozilla संस्थान है.
+manifesto-details-invitation = आमंत्रण
+manifesto-details-the-mozilla-foundation-invites = मोज़िला संस्थान उन सबको आमंत्रित करता है हमसे जुड़ने के लिए, जो मोज़िला घोषणापत्र के सिद्धांत का साथ देते है, और नए तरीके ढूंढने के लिए ताकी हम इंटरनेट की इस दृष्टि को एक वास्तविकता बना सके.

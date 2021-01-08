@@ -187,6 +187,12 @@ locales = [
         "zh-TW",
     ]
 [[paths]]
+    reference = "en/mozorg/about/manifesto.ftl"
+    l10n = "{locale}/mozorg/about/manifesto.ftl"
+[[paths]]
+    reference = "en/mozorg/about/shared.ftl"
+    l10n = "{locale}/mozorg/about/shared.ftl"
+[[paths]]
     reference = "en/mozorg/newsletters.ftl"
     l10n = "{locale}/mozorg/newsletters.ftl"
     locales = [
