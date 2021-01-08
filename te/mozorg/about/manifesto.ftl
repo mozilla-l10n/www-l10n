@@ -30,14 +30,14 @@ manifesto-10 = 10
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = ఆరోగ్యకరమైన అంతర్జాలం కోసం ప్రతినబూనండి
 manifesto-show-your-support = మీ అభిమానాన్ని చూపించండి
-manifesto-share-on-twitter = ట్విట్టర్‌లో పంచుకోండి
+manifesto-share-on-twitter = { -brand-name-twitter }లో పంచుకోండి
 manifesto-our-10-principles = <strong>మా 10</strong> మూలసూత్రాలు
 manifesto-use-open-badges-to-share = మీ నైపుణ్యాలు మరియు ఆసక్తులను పంచుకునేందుకు ఓపెన్ బ్యాడ్జ్లను ఉపయోగించండి
 manifesto-explore-how-the-web-impacts = జాలము విజ్ఞానశాస్త్రాన్ని ఎలా ప్రభావితం చేస్తుందో అన్వేషించండి
 manifesto-learn-about-open-source = జర్నలిజంలో ఓపెన్ సోర్స్ కోడ్ గురించి తెలుసుకోండి
 manifesto-explore-how-to-help-keep = జాలాన్ని స్వేచ్ఛాయుతంగా ఉంచడానికి ఎలా తోడ్పడవచ్చో తెలుసుకోండి
 manifesto-explore-how-the-web-works = జాలం ఎలా పనిచేస్తుందో తెలుసుకోండి
-manifesto-see-how-mozilla-works = మీ గోప్యతను ముందుంచటానికి మొజిల్లా ఎలా పని చేస్తుందో చూడండి
+manifesto-see-how-mozilla-works = మీ గోప్యతను కాపాడటానికి { -brand-name-mozilla } ఎలా పని చేస్తుందో చూడండి
 manifesto-read-about-developments = గోప్యత మరియు డేటా భద్రతలో పరిణామాల గురించి చదవండి
 manifesto-learn-more-about-how-to = మిమ్మల్ని ఆన్లైన్లో ఎలా రక్షించుకోవాలో అనే దాని గురించి మరింత తెలుసుకోండి
 manifesto-use-these-free-tools-to = జాల గురించి బోధించడానికి ఈ ఉచిత పనిముట్లను వాడుకోండి

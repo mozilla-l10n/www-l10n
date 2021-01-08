@@ -8,8 +8,8 @@
 about-san-francisco = శాన్ ఫ్రాన్సిస్కొ
 about-berlin = బెర్లిన్
 about-toronto = టొరాంటో
-about-work-at-mozilla = మొజిల్లాలో పనిచేయండి
-about-mozilla-careers = మొజిల్లా ఉద్యోగాలు
+about-work-at-mozilla = { -brand-name-mozilla }లో పనిచేయండి
+about-mozilla-careers = { -brand-name-mozilla } ఉద్యోగాలు
 about-how-you-can-help = మీరు ఎలా సహాయపడగలరు
 
 ## Newsletter
