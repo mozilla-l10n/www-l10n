@@ -116,4 +116,4 @@ manifesto-details-promote-models = 提倡为公共利益创造经济价值的模
 manifesto-details-promote-the-mozilla = 并且在公共言论中和互联网业界推广 { -brand-name-mozilla } 宣言。
 manifesto-details-some-foundation = { -brand-name-mozilla-foundation }的部分活动，目前包括消费类产品的研发、传递和推广，主要通过基金会全资子公司 { -brand-name-mozilla-corporation } 进行。
 manifesto-details-invitation = 邀请
-manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla } 基金会邀请所有支持 { -brand-name-mozilla } 宣言准则的同仁一同探索新道路，将宣言里对互联网的构想变为现实。
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }邀请所有支持 { -brand-name-mozilla } 宣言准则的同仁一同探索新道路，将宣言里对互联网的构想变为现实。

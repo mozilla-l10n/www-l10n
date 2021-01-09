@@ -109,6 +109,7 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
 -brand-name-maker-party = 创客聚会
 -brand-name-webmaker = Webmaker
 
