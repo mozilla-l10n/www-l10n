@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = Manifest Mozille
+manifesto-the-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 # HTML page description
 manifesto-these-are-the-principles = Na teh načelih temelji naše poslanstvo - spodbujanje odprtosti, inovativnosti in priložnosti na spletu.
 manifesto-the-internet-is-an-integral = Internet je sestavni del sodobnega življenja, saj predstavlja ključni element v izobraževanju, sporazumevanju, sodelovanju, poslovanju, razvedrilu in pomeni eno osrednjih točk družbe kot celote.
