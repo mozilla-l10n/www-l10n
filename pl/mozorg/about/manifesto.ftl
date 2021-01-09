@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = Manifest Mozilli
+manifesto-the-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 # HTML page description
 manifesto-these-are-the-principles = To nasze pryncypia, które opisują naszą misję promowania otwartości, innowacji i nowych możliwości w sieci.
 manifesto-the-internet-is-an-integral = Internet jest integralną częścią współczesnego życia — kluczowym elementem w edukacji, komunikacji, współpracy, biznesie, rozrywce i społeczeństwie jako takim.
@@ -40,7 +40,7 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
-manifesto-the-mozilla-manifesto-addendum = Aneks Manifestu Mozilli
+manifesto-the-mozilla-manifesto-addendum = Aneks Manifestu { -brand-name-mozilla(case: "gen") }
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Deklaracja zdrowego Internetu
 manifesto-the-open-global-internet = Otwarty i ogólnoświatowy Internet jest najpotężniejszym zasobem komunikacji i współpracy w historii. Ucieleśnia on nasze najgłębsze nadzieje na rozwój ludzkości. Zapewnia nowe możliwości nauczania, budowania poczucia wspólnoty z całym światem i rozwiązywania ważnych problemów dotykających nas wszystkich.
@@ -50,9 +50,9 @@ manifesto-we-are-committed-to-discourse = Zobowiązujemy się budować Internet 
 manifesto-we-are-committed-to-thinking = Zobowiązujemy się budować Internet wzmacniający krytyczne myślenie, racjonalne argumenty, dzielenie się wiedzą i sprawdzalne fakty.
 manifesto-we-are-committed-to-diverse = Zobowiązujemy się budować Internet przyspieszający współpracę między zróżnicowanymi społecznościami, działającymi razem dla wspólnego dobra.
 manifesto-show-your-support = Okaż swoje wsparcie
-manifesto-an-internet-with-these = Internet o tych cechach nie powstanie sam z siebie. Poszczególne osoby i całe organizacje muszą sprawić, aby stały się one podstawą technologii internetowych i sposobu, w jaki z niego korzystamy. Manifest Mozilli i ten aneks reprezentują zobowiązanie Mozilli do ich rozwijania. Naszym celem jest współpraca z jednostkami i organizacjami podzielającymi nasze nadzieje z całego świata, aby Internet był jeszcze lepszym miejscem dla wszystkich.
+manifesto-an-internet-with-these = Internet o tych cechach nie powstanie sam z siebie. Poszczególne osoby i całe organizacje muszą sprawić, aby stały się one podstawą technologii internetowych i sposobu, w jaki z niego korzystamy. Manifest { -brand-name-mozilla(case: "gen") } i ten aneks reprezentują zobowiązanie { -brand-name-mozilla(case: "gen") } do ich rozwijania. Naszym celem jest współpraca z jednostkami i organizacjami podzielającymi nasze nadzieje z całego świata, aby Internet był jeszcze lepszym miejscem dla wszystkich.
 manifesto-i-support-the-vision-of = Wspieram wizję lepszego, zdrowszego Internetu z @mozilla, dołączysz do mnie?
-manifesto-share-on-twitter = Udostępnij na { -brand-name-twitter }ze
+manifesto-share-on-twitter = Udostępnij na { -brand-name-twitter(case: "loc") }
 manifesto-our-10-principles = <strong>10 naszych</strong> pryncypiów
 manifesto-use-open-badges-to-share = Dziel się swoimi umiejętnościami i zainteresowaniami dzięki programowi Open Badges
 manifesto-explore-how-the-web-impacts = Dowiedz się, jak sieć wpływa na naukę
@@ -67,12 +67,12 @@ manifesto-learn-more-about-how-to = Dowiedz się, jak chronić się w sieci
 manifesto-use-these-free-tools-to = Wykorzystaj nasze bezpłatne narzędzia, aby uczyć innych Internetu
 manifesto-learn-about-creating-and = Naucz się tworzyć i pielęgnować treści w sieci
 manifesto-add-new-voices-to-open = Dodaj nowy głos do technologii open source
-manifesto-set-your-do-not-track = Poinformuj witryny, że nie chcesz, by Ciebie śledzono
+manifesto-set-your-do-not-track = Poinformuj witryny, że nie chcesz, by Cię śledzono
 manifesto-understand-the-web-ecosystem = Zrozum ekosystem sieci
 manifesto-explore-how-open-practices = Sprawdź, jak praktyka otwartości zapewnia dostępność sieci dla wszystkich
 manifesto-learn-how-to-remix-content = Dowiedz się, jak zmieniać treści, aby stworzyć coś nowego
 manifesto-learn-how-to-maximize = Dowiedz się, jak zwiększyć interaktywny potencjał sieci
-manifesto-participate-in-our-governance = Zabierz głos w dyskusji o zarządzaniu Mozillą
+manifesto-participate-in-our-governance = Zabierz głos w dyskusji o zarządzaniu projektem
 manifesto-join-us-as-a-volunteer = Dołącz do nas jako wolontariusz
 manifesto-learn-how-to-collaborate = Dowiedz się, jak współpracować w sieci
 manifesto-visualize-who-you-interact = Zobacz, z kim łączysz się w sieci dzięki dodatkowi { -brand-name-lightbeam }
@@ -81,15 +81,15 @@ manifesto-host-or-join-a-maker-party = Zorganizuj lub znajdź { -brand-name-make
 manifesto-learn-how-to-build-online = Dowiedz się, jak budować swoje umiejętności współpracowania w Internecie
 manifesto-read-the-entire-manifesto = Przeczytaj cały manifest
 manifesto-love-the-web = Kochasz sieć?
-manifesto-get-the-mozilla-newsletter = Subskrybuj biuletyn Mozilli, aby pomóc nam bronić jej otwartości i wolności.
-manifesto-details-the-mozilla-manifesto = Manifest Mozilli
+manifesto-get-the-mozilla-newsletter = Subskrybuj biuletyn { -brand-name-mozilla(case: "gen") }, aby pomóc nam bronić jej otwartości i wolności.
+manifesto-details-the-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 manifesto-details-introduction = Wprowadzenie
 manifesto-details-the-internet-is-becoming = Internet staje się coraz ważniejszym elementem naszego życia.
 manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } to międzynarodowa społeczność ludzi, którzy wierzą, że otwartość, innowacyjność i możliwości są kluczowe dla utrzymania zdrowej równowagi w Internecie. Pracujemy razem od roku 1998 i staramy się zapewnić, aby na rozwoju Internetu zyskali wszyscy. Najbardziej znani jesteśmy ze stworzenia przeglądarki internetowej { -brand-name-mozilla } { -brand-name-firefox }.
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } wykorzystuje społecznościowe podejście do tworzenia światowej klasy aplikacji o otwartym kodzie oraz do budowania nowych typów współpracy. Tworzymy społeczności ludzi zaangażowanych w poprawianie jakości i wygody korzystania z Internetu dla nas wszystkich.
-manifesto-details-as-a-result-of = W wyniku tej pracy udało nam się wydestylować zestaw pryncypiów, które, jak wierzymy, są krytyczne do utrzymania pozytywnego wpływu Internetu na społeczeństwo oraz komercyjne aspekty życia. Zebraliśmy te wartości poniżej.
+manifesto-details-as-a-result-of = W wyniku tej pracy udało nam się wydestylować zestaw pryncypiów, które, jak wierzymy, są krytyczne do utrzymania pozytywnego wpływu Internetu na społeczeństwo oraz komercyjne aspekty życia. Zebraliśmy te wartości poniżej.
 manifesto-details-the-goals-for = Cele Manifestu:
-manifesto-details-articulate-a-vision = przedstawić wizję Internetu, której realizacji oczekują od Fundacji Mozilli uczestnicy projektu { -brand-name-mozilla };
+manifesto-details-articulate-a-vision = przedstawić wizję Internetu, której realizacji oczekują od { -brand-name-mozilla-foundation } uczestnicy projektu { -brand-name-mozilla };
 manifesto-details-speak-to-people = rozmawiać z ludźmi niezależnie od tego, czy posiadają wiedzę techniczną;
 manifesto-details-make-mozilla-contributors = sprawić, aby osoby pracujące nad Mozillą, mogły być dumne z tego, co nas motywuje; i
 manifesto-details-provide-a-framework = stworzyć ramy dla innych, aby mogli rozwijać naszą wizję Internetu.

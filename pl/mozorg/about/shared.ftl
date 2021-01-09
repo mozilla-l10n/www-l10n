@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
 
-about-shared-about-mozilla = O Mozilli
+about-shared-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 about-shared-mission = Misja
 about-shared-history = Historia
 about-shared-leadership = Kierownictwo

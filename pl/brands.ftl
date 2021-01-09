@@ -589,6 +589,8 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
