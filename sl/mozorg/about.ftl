@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = Spoznajte Mozillo
+about-learn-about-mozilla = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } ustvarja brskalnike, aplikacije, kodo in orodja, ki uporabnike postavljajo pred dobiček. Naše poslanstvo je ohraniti internet odprt in dostopen vsakomur.
 # Main heading
@@ -26,8 +26,8 @@ about-talking-internet-issues-irl = Poddaja IRL o težavah interneta
 about-in-mozillas-irl-podcast-host = V Mozillini poddaji IRL gostiteljica Manoush Zomorodi govori o resničnih zgodbah o življenju na spletu in njegovi prihodnosti.
 about-corporation-foundation-not = Podjetje. Organizacija. Neprofitna.
 about-learn-about-the-mozilla-foundation = Več o { -brand-name-mozilla-foundation }
-about-mozilla-puts-people-over-profit = Pri Mozilli postavljamo ljudi pred dobiček v vsem kar govorimo, gradimo in delamo. Pravzaprav je v središču našega podjetja neprofitna fundacija.
-about-the-mozilla-manifesto = Manifest Mozille
+about-mozilla-puts-people-over-profit = Pri { -brand-name-mozilla(sklon: "mestnik") } postavljamo ljudi pred dobiček v vsem, kar govorimo, gradimo in delamo. Pravzaprav je v središču našega podjetja neprofitna fundacija.
+about-the-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 about-the-principles-we-wrote-in = Načela, ki smo jih zapisali leta 1998, nas vodijo še danes. Leta 2018 smo jih dopolnili s poudarjanjem vključenosti, zasebnosti in varnosti na spletu za vsakogar.
 about-read-the-manifesto = Preberite manifest
 about-a-global-view = Globalni pogled
@@ -41,9 +41,9 @@ about-500-annual-attendees-to-the = <strong>500</strong> vsakoletnih udeležence
 about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = Vsako leto zaužijemo <strong>800</strong> steklenic ledene kave.
-about-work-at-mozilla = Delajte za Mozillo
+about-work-at-mozilla = Delajte za { -brand-name-mozilla(sklon: "tozilnik") }
 about-join-a-mission-driven-organization = Pridružite se organizaciji, ki temelji na poslanstvu in ki gradi izdelke s ciljem.
-about-mozilla-careers = Kariera v Mozilli
+about-mozilla-careers = Kariera v { -brand-name-mozilla(sklon: "mestnik") }
 about-how-you-can-help = Kako lahko pomagate
 about-your-voice-your-code-your = Vaš glas. Vaša koda. Vaša podpora. Toliko načinov obstaja, da se pridružite boju za zdrav internet.
 about-get-involved = Pridružite se

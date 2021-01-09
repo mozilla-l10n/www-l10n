@@ -40,7 +40,7 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
-manifesto-the-mozilla-manifesto-addendum = Dopolnilo Manifesta Mozille
+manifesto-the-mozilla-manifesto-addendum = Dopolnilo Manifesta { -brand-name-mozilla(sklon: "rodilnik") }
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Zaobljuba za zdrav internet
 manifesto-the-open-global-internet = Odprt, globalni internet je najmočnejši vir komunikacije in sodelovanja, kar smo jih videli. Uteleša nekatere naše največje želje za človeški napredek. Omogoča nove možnosti učenja, izgradnjo čuta do soljudi in reševanje nujnih težav, s katerimi se ljudje soočajo povsod.
@@ -82,7 +82,7 @@ manifesto-learn-how-to-build-online = Naučite se razvijati znanja za sodelovanj
 manifesto-read-the-entire-manifesto = Preberite celoten manifest
 manifesto-love-the-web = Imate radi splet?
 manifesto-get-the-mozilla-newsletter = Naročite se na Mozilline novice in nam ga pomagajte ohraniti odprtega in prostega.
-manifesto-details-the-mozilla-manifesto = Manifest Mozille
+manifesto-details-the-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 manifesto-details-introduction = Uvod
 manifesto-details-the-internet-is-becoming = Internet igra v naših življenjih iz dneva v dan pomembnejšo vlogo.
 manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } je globalna skupnost ljudi, ki verjamejo, da so odprtost, inovativnost in pripravljenost izkoristiti priložnosti, ki se nudijo, ključnega pomena za nadaljnje zdravje interneta. Od ustanovitve leta 1998 dalje je naš namen in cilj zagotoviti, da se internet razvija v smeri, ki koristi vsakomur med nami. Ljudje nas najbolj poznajo po tem, da smo razvili spletni brskalnik { -brand-name-mozilla } { -brand-name-firefox }.
