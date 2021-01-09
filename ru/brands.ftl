@@ -199,6 +199,16 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party =
+    { $case ->
+       *[nominative] Встреча Создателей
+        [genitive] Встречи Создателей
+        [dative] Встрече Создателей
+        [accusative] Встречу Создателей
+        [instrumental] Встречей Создателей
+        [prepositional] Встрече Создателей
+    }
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
