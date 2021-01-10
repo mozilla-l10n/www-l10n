@@ -9,7 +9,7 @@ mission-were-building-a-better-internet = Vytváříme lepší internet
 mission-our-mission-is-to-ensure-the-internet = Naší misí je zajistit, že internet bude globální veřejný zdroj, který zůstane otevřený a přístupný. Internet s lidmi skutečně na prvním místě, kde má každý kontrolu na svým prožitkem, je v bezpečí a nezávislý.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Naším posláním je podporovat otevřenost, inovace a příležitosti na webu.
-mission-at-mozilla-were-a-global-community = My v Mozille jsme globální komunita technicky založených lidí, myslitelů a stavitelů, kteří pracují, aby uchovali Internet volný a přístupný tak, aby lidé na celém světe mohli být informovaní přispěvatelé a tvůrci webu.
+mission-at-mozilla-were-a-global-community = My v Mozille jsme globální komunita technicky založených lidí, myslitelů a stavitelů, kteří pracují, aby uchovali internet volný a přístupný tak, aby lidé na celém světe mohli být informovaní přispěvatelé a tvůrci webu.
 mission-we-believe-this-act-of-human-collaboration = Věříme, že tento projev kolektivní spolupráce napříč otevřenou platformou je nezbytný pro osobní růst a naši společnou budoucnost.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
