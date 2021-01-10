@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Súkromné prehliadanie s extra ochranou pred sledovaním
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } chráni vaše súkromie na internete a blokuje sledovacie prvky, ktoré vás na internete sledujú.
+features-private-browsing-download-firefox = Prevziať { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox } - viac ochrany, menej starostí.
 features-private-browsing-were-obsessed-with = Ide nám o ochranu vášho súkromia. Preto je súkromné prehliadanie vo { -brand-name-firefox }e silnejšie ako konkurenčné riešenia.
 features-private-browsing-browse-without = Prehliadajte bez stopy
