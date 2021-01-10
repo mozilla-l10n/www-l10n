@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
+footer-privacy-hub = Centrum ochrany osobních údajů
 footer-privacy = Soukromí
 footer-press = Tiskové centrum
 footer-corporate-blog = Firemní blog
