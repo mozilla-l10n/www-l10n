@@ -50,7 +50,7 @@ newsletters-many-of-our-communications = Mnoho našich sdělení se týká účt
 newsletters-to-get-access-to-the-whole = Chcete-li získat přístup k celému světu produktů, znalostí a služeb { -brand-name-firefox(case: "gen") } v jednom účtu, připojte se k nám! O výhodách se více dozvíte <a href="{ $url }">zde</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/forums/
-newsletters-there-are-many-ways-to = Existuje mnoho způsobů, jak se zapojit. Pokud jste zde nenašli to, co jste hledali, podívejte se na naše <a href="{ $url }">komunitní stránky</a>.
+newsletters-there-are-many-ways-to = Existuje mnoho způsobů, jak se zapojit a podpořit { -brand-name-mozilla(case: "acc") } a { -brand-name-firefox(case: "acc") }. Pokud jste zde nenašli to, co jste hledali, podívejte se na naše <a href="{ $url }">komunitní stránky</a>.
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } není platný zpravodaj
