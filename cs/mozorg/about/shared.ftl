@@ -5,11 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
 
-about-shared-about-mozilla = O Mozille
+about-shared-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 about-shared-mission = Mise
 about-shared-history = Historie
 about-shared-leadership = Vedení
-about-shared-governance = Vláda
+about-shared-governance = Správa a řízení
 about-shared-forums = Fóra
 about-shared-patents = Patenty
 about-shared-our-products = Naše produkty

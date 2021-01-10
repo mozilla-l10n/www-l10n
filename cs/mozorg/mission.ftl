@@ -21,5 +21,5 @@ mission-history = Historie
 mission-where-we-come-from-and-how-we-got = Odkud jdeme a jak jsme dostali tam, kde jsme
 mission-forums = Diskuzní fóra
 mission-topics-include-support-products = Témata zahrnují podporu, produkty a technologie
-mission-governance = Vedení
+mission-governance = Správa a řízení
 mission-our-structure-organization-and-the = Naše struktura, organizace a široká komunita Mozilly
