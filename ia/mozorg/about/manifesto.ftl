@@ -114,6 +114,6 @@ manifesto-details-build-and-deliver = producer e delivrar grande productos de co
 manifesto-details-use-the-mozilla = usar le ressources de { -brand-name-mozilla } (proprietate intellectual tal como copyrights e trademarks, infrastructura, fundos, e fama) pro mantener Internet un tribuna aperte;
 manifesto-details-promote-models = promover modellos pro crear valor economic pro public beneficio; e
 manifesto-details-promote-the-mozilla = promover le principios del Manifesto de { -brand-name-mozilla } in public discursos e in le industria de Internet.
-manifesto-details-some-foundation = Alcun activitates del Fundation — actualmente le creation, delivrantia e promotion del productos de consumitor — es conducite primarimente per le { -brand-name-mozilla-corporation }, subsidiari in toto controlate per le Fundation Mozilla.
+manifesto-details-some-foundation = Alcun activitates del Fundation: actualmente le creation, delivrantia e promotion del productos de consummator, es conducite primarimente per le { -brand-name-mozilla-corporation }, subsidiari in toto controlate per le { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Invitation
 manifesto-details-the-mozilla-foundation-invites = Le Fundation { -brand-name-mozilla } invita tote le alteres qui supporta le principios del Manifesto de { -brand-name-mozilla } a se conjunger con nos e cercar nove manieras pro render iste vision de Internet un realitate.

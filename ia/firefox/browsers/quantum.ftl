@@ -10,6 +10,10 @@ the-latest-firefox = Le ultime motor de { -brand-name-firefox }: { -brand-name-f
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Saper plus re { -brand-name-firefox-quantum }
 privacy-first = Confidentialitate primo
+firefox-doesnt-spy = { -brand-name-firefox } non te spia online. Nos arresta plure note cookies de traciamento de tertie-partes e nos te da plen controlo.
 super-fast = Super veloce
 get-speed-and = Procura te velocitate e securitate. { -brand-name-firefox } es veloce perque nos non tracia tu movimentos.
 always-evolving = Sempre in evolution
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Discoperi le amusante <a href="{ $url }">functionalitates de { -brand-name-firefox }</a>.
