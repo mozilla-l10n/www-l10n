@@ -21,7 +21,7 @@ navigation-v2-privacy-promise = Promessa de privacidade
 navigation-v2-learn-how-firefox-treats = Saiba como o { -brand-name-firefox } trata seus dados com respeito.
 navigation-v2-firefox-blog = Blog do { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Leia sobre os novos recursos do { -brand-name-firefox } e maneiras de se manter seguro online.
-navigation-v2-release-notes = Notas da versão
+navigation-v2-release-notes = Notas de atualização
 navigation-v2-get-the-details-on-the = Obtenha os detalhes sobre as últimas atualizações do { -brand-name-firefox }.
 navigation-v2-view-all-firefox-browsers = Veja todos os { -brand-name-firefox-browsers }
 
