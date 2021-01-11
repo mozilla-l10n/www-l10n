@@ -41,7 +41,7 @@ firefox-accounts-youll-always-get-the = Tu recipera sempre le veritate ab nos. T
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Colliger minus.<br> Con securitate.<br> Sin secretos.
 firefox-accounts-get-the-knowledge = Acquire le cognoscentia pro mantener te secur.
-firefox-accounts-learn-everything-you = Apprende tote lo que tu debe saper sur mantener te astute e secur in linea ab alcunes del expertos principal del mundo.
+firefox-accounts-learn-everything-you = Apprende tote lo que tu debe saper sur mantener te astute e secur online per alcunes del expertos principal del mundo.
 firefox-accounts-and-be-part-of-protecting = E contribue al protection de internet, pro futur generationes.
 firefox-accounts-help-us-build-a-better = Adjuta nos a producer un { -brand-name-firefox } melior pro totes.
 firefox-accounts-get-into-the-open = Adopta le spirito open-source e proba le proxime productos.

@@ -6,5 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-the-history-of-web = Le historia de navigatores del Web
+browser-history-the-browser-wars = Le guerra del navigatores
+browser-history-browsing-the-web = Navigar sur le Web hodie
 browser-history-resources = Ressources
 browser-history-take-control-of = Prende controlo de tu navigator.

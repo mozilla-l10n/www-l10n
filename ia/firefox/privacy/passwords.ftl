@@ -38,3 +38,5 @@ privacy-passwords-firefox-will = Firefox monstrara un advertimento in vice del s
 privacy-passwords-in-general-the = In general, le melior defensa contra fraude es <strong>sia suspiciose de lo que tu recipe</strong>, sia que illo appare in un e-mail, como message de texto o sur le telephono. In vice del interprender action sur lo que qualcuno te inviava, visita le sito directemente. Per exemplo, si un e-mail dice tu debe reinitialisar tu contrasigno Paypal, non clicca le ligamine. Insere paypal.com tu mesme. Si le banca appella, appella les retro.
 privacy-passwords-strength-in-diversity = Fortia, in diversitate
 privacy-passwords-security-questions-my = Questiones de securitate: le nomine de senioretta de mi matre es “Ff926AKa9j6Q”
+privacy-passwords-get-help-from = Demanda le adjuta de un gestor de contrasignos
+privacy-passwords-twofactor-authentication-2fa = Authentication a duo factores (2FA)

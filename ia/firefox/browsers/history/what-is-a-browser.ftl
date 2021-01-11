@@ -9,3 +9,5 @@
 what-is-a-browser-what-is-a-web = Que es un navigator del Web?
 # HTML page description
 what-is-a-browser-a-web-browser = Un navigator del Web te porta ubique sur internet, te consenti vider texto, imagines e video non importa ubi tu es in le mundo.
+what-is-a-browser-how-does-a-web = Como functiona un navigator web?
+what-is-a-browser-understanding = Comprender le confidentialitate
