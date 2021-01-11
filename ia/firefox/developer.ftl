@@ -81,3 +81,4 @@ firefox-developer-this-isnt-just-an-update = Isto non es justo un actualisation.
 firefox-developer-welcome-to-firefox-browser = Benvenite in { -brand-name-firefox-browser }{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
 firefox-developer-all-the-latest = Tote le ultime utensiles de disveloppator in version beta, plus <strong>functionalitates experimental</strong> como le Redactor de consola multilinea e le Inspector de WebSocket.
+firefox-developer-congrats-you-now-have = Felicitationes. Ora tu ha { -brand-name-firefox-browser } { -brand-name-developer-edition }.
