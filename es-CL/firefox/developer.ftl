@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Ayuda a construir el último navegador i
 firefox-developer-start-now = Empieza ahora
 firefox-developer-design-code-test = Diseña. Programa. Prueba. Mejora.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Crea y perfecciona tus sitios con las<br> herramientas de desarrollo de Firefox
+firefox-developer-build-and-perfect = Crea y perfecciona tus sitios con las<br> { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = Inspecciona y refina el código para construir plantilla a nivel de pixeles.
 firefox-developer-learn-about-page-inspector = Aprende más sobre el inspector de página
@@ -54,7 +54,7 @@ firefox-developer-learn-more-about-style = Aprender más sobre el Editor de esti
 firefox-developer-new-tools = Nuevas herramientas
 firefox-developer-inactive-css = CSS inactivo
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } ahora atenúa las declaraciones CSS que no tienen efecto en la página. Cuando pasas el cursor sobre el ícono de información, verás un mensaje útil sobre por qué no se aplica el CSS, incluida una pista sobre cómo solucionar el problema.
-firefox-developer-firefox-devtools = Herramientas de desarrollo de Firefox
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Las nuevas herramientas de desarrollo de Firefox son potentes, flexibles, y lo mejor de todo, hackeables. Esto incluye el mejor de todos los depuradores JavaScript, apto para múltiples navegadores y que está integrado a React y Ember.
 firefox-developer-master-css-grid = Sé un experto en cuadrículas CSS
 firefox-developer-next-gen-css-engine = Motor CSS de última generación
