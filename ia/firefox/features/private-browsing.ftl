@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Navigation private con extra protection contra le traciamento
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } protege tu confidentialitate in rete e bloca le traciatores que te seque circum le web.
+features-private-browsing-download-firefox = Discarga { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: major protection. Minor preoccupationes.
 features-private-browsing-were-obsessed-with = Nos es maniac con le protection de tu confidentialitate. Pro isto nos ha facite le Navigation private de { -brand-name-firefox } plus potente que le alteres.
 features-private-browsing-browse-without = Naviga sin lassar un tracia

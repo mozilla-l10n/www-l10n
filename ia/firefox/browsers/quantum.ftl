@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Discargar { -brand-name-firefox-quantum }
+the-latest-firefox = Le ultime motor de { -brand-name-firefox }: { -brand-name-firefox-quantum }
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Saper plus re { -brand-name-firefox-quantum }
 privacy-first = Confidentialitate primo

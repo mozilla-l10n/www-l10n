@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# description for the header image
+features-fingerprinting-every-fingerprint = Cata dactilogramma es unic.
 features-fingerprinting-download-firefox = Discargar { -brand-name-firefox }
 features-fingerprinting-protect = Protege tu confidentialitate

@@ -47,3 +47,4 @@ features-index-see-themes = Vide le themas plus amate
 features-index-download-latest = Discarga le ultime { -brand-name-firefox }
 features-index-fingerprinter-blocking = Bloca dactylogrammatores
 features-index-translate-the-web = Traducer le web
+features-index-translate-to-your = Traduce in tu lingua

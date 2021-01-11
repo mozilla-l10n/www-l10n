@@ -59,4 +59,6 @@ incognito-browser-what = Navigator anonyme: que significa vermente?
 firefox-calls-it = { -brand-name-firefox } appella illo navigation anonyme, { -brand-name-chrome } lo appella modo in incognito. Ambe te consenti de foliettar le Web sin salvar tu chronologia de navigation.
 take-the-stress = Sparnia te le stress de cercar un navigator secur.
 building-a-safe = Producer un navigator secur es un arte e un scientia perque il non ha alcun regulas preconfigurate.
+firefox-more-fingerprinter-blocking = Blocada de dactylogrammatores
 firefox-more-translate-the-web = Traducer le web
+firefox-more-a-guide-to = Guida pro credentiales e contrasignos plus secur
