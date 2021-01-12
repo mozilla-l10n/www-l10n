@@ -14,10 +14,10 @@ firefox-sync-encrypt-your-data = Fshehtëzoni të dhënat tuaja
 firefox-sync-your-encryption-key = Kyçi juaj i fshehtëzimit mbetet i fshehtë, i ditur vetëm nga ju dhe pajisjet e autorizuara prej jush.
 firefox-sync-feel-safe = Ndjehuni i parrezik
 firefox-sync-we-store-your = Të dhënat tuaja të fshehtëzuara i depozitojmë në shërbyesit tanë, ndaj s’mund t’i lexojmë.
-start-syncing-in = Filloni të njëkohësoni gjëra me katër hapa të kollajtë:
+firefox-sync-start-syncing-in = Filloni njëkohësim në katër hapa të kollajtë:
 firefox-sync-open-the-menu = Hapni menunë në cepin e sipërm djathtas të { -brand-name-firefox }-it dhe përzgjidhni <strong>“Hyni në { -brand-name-sync }</strong>.”
 firefox-sync-click-get-started = Te skeda që hapet, klikoni mbi <strong>“Fillojani”</strong>.
-enter-an-email = Jepni një adresë email dhe një fjalëkalim te <strong>“Krijoni një { -brand-name-firefox-account }.”</strong>
+firefox-sync-enter-an-email = Jepni një adresë email dhe një fjalëkalim, që të <strong>“Krijohet një { -brand-name-firefox-account }.”</strong>
 firefox-sync-click-next-to = Klikoni mbi <strong>“Pasuesi”</strong> që të merrni një verifikim dërguar te email-i juaj.
 firefox-sync-after-you-check = Pasi të hapni email-in dhe të klikoni lidhjen e verifikimt, { -brand-name-firefox }-i do të fillojë të njëkohësohet automatikisht në prapaskenë.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data

@@ -6,8 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Produktet { -brand-name-firefox } janë konceptuar për të mbrojtur privatësinë tuaj
+learn-more-about-firefox = Mësoni më tepër mbi { -brand-name-firefox }-in, historinë e tij, veçoritë dhe misionin
 learn-more-about = Mësoni më tepër rreth shfletuesve dhe produkteve { -brand-name-firefox } që i trajtojnë me respekt të dhënat tuaja dhe janë krijuar për privatësi kudo ku shkoni në internet.
-learn-more = Mësoni më tepër
+learn-more-faq = PBR rreth { -brand-name-firefox }-it
 the-history-of = Historiku i shfletuesve
 firefox-has-been = { -brand-name-firefox }-i ka qenë i pranishëm thuajse që prej fillimit.
 firefox-rebel-with = { -brand-name-firefox }: Rebel me një kauzë
@@ -23,6 +24,9 @@ get-the-privacy = Merrni privatësinë që meritoni. Mbrojtja e Thelluar Nga Gju
 take-your-passwords = Merrini fjalëkalimet tuaja kudo
 securely-access-the = Hyni pa rrezik prej ngado te fjalëkalimet që keni ruajtur në { -brand-name-firefox } — madje edhe jashtë shfletuesit.
 choose-which-firefox = Zgjidhni cili { -brand-name-firefox-browser } të shkarkohet në gjuhën tuaj
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } për { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Ndërkohë që një { -brand-name-chromebook } ka tashmë të instaluar { -brand-name-chrome }, shkarkimi dhe përdorimi i { -brand-name-firefox }-it si shfletuesi të cilin përdorni ju jep ca përfitime
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 we-believe-everyone = Besojmë se gjithkush duhet të ketë mundësi të përdorë internetin — kjo është arsyeja pse e bëjmë { -brand-name-firefox-browser }-in të passhëm në më tepër se 90 gjuhë, me ndihmën e vullnetarëve të përkushtuar anembanë botës.
 firefox-fights-for = { -brand-name-firefox } lufton për ju në { -brand-name-windows }
 easy-migration-of = Migrim i lehtë i parapëlqimeve dhe faqerojtësve, kur shkarkoni { -brand-name-firefox }-in për { -brand-name-windows }.
