@@ -12,6 +12,7 @@ privacy-passwords-more-and-more-desc = Cada vez mais coisas valiosas e sensívei
 # page content
 privacy-passwords-a-security-guide = Um guia de segurança para contas e senhas mais seguras
 privacy-passwords-protecting-your-accounts = Proteger suas contas não precisa ser complicado — e o { -brand-name-firefox } pode ajudar.
+privacy-passwords-more-and-more = Cada vez mais coisas sensíveis e valiosas em nossa vida são guardadas em contas online protegidas por senhas — cartas de amor, registros médicos, contas bancárias e muito mais. Os sites usam procedimentos de autenticação para proteger essas coisas valiosas. Em geral, contanto que não consigam entrar na sua conta, ninguém consegue ler seus emails ou transferir dinheiro da sua conta bancária. Já que vivemos nossas vidas online, como devemos proteger nossas contas?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Em poucas palavras:
 privacy-passwords-use-random-passwords = Use senhas aleatórias e use uma senha diferente em cada site
