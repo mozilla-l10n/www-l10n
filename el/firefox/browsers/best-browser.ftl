@@ -13,4 +13,5 @@ best-browser-marshall-erwin-senior = Marshall Erwin, Γενικός διευθυ
 best-browser-if-youre-wondering = Αν αναρωτιέστε τι σημαίνει να έχετε ένα ιδιωτικό ή γρήγορο πρόγραμμα περιήγησης, ορίστε μια ανάλυση με τα τρία πράγματα που θα έπρεπε να έχει ένα πρόγραμμα περιήγησης.
 best-browser-a-browser-built-for = Ένα πρόγραμμα περιήγησης αναπτυγμένο για ταχύτητα.
 best-browser-a-browser-that-puts = Ένα πρόγραμμα περιήγησης με προτεραιότητα στην ασφάλεια.
+best-browser-a-browser-that-minds = Ένα πρόγραμμα περιήγησης που σέβεται το απόρρητό σας.
 best-browser-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησης σας.
