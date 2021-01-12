@@ -7,5 +7,6 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Τι ένα ένα πρόγραμμα περιήγησης ιστού;
+what-is-a-browser-how-does-a-web = Πώς λειτουργεί ένα πρόγραμμα περιήγησης;
 what-is-a-browser-cookies-not-the = Cookies (όχι το νόστιμο είδος)
 what-is-a-browser-understanding = Κατανοώντας το απόρρητο

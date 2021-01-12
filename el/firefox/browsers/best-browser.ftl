@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Γνωρίστε το καλύτερο πρόγραμμα περιήγησης για ταχύτητα, απόρρητο και ασφάλεια.
+best-browser-so-many-browser-options = Τόσες επιλογές σε προγράμματα περιήγησης, αλλά μόνο ένα καλύπτει καλύτερα τις ανάγκες σας. Το ιδανικό πρόγραμμα περιήγησης θα πρέπει να προσφέρει ταχύτητα και προστασία απορρήτου.
 best-browser-privacy-speed-and-security = Απόρρητο, ταχύτητα και ασφάλεια.
 best-browser-how-to-choose-the-best = Πώς να επιλέξετε το καλύτερο πρόγραμμα περιήγησης για εσάς.
 best-browser-marshall-erwin-senior = Marshall Erwin, Γενικός διευθυντής εμπιστοσύνης και ασφαλείας της { -brand-name-mozilla }
