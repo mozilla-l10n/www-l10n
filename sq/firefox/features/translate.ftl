@@ -19,3 +19,11 @@ features-translate-google-translate-with = { -brand-name-google } Translate, me 
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Merreni Zgjerimin
 features-translate-once-installed-simply = Pas instalimit, thjesht theksoni tekstin që doni të përkthehet dhe djathtasklikoni që të hapet një menu me dy mundësi: 1) Ju shpie te translate.google.com me tekstin e përzgjedhur prej jush të dhënë automatikisht te fusha e përkthimeve; ose 2) Dëgjoni shqiptimin zanor të frazës (bazuar në { -brand-name-google } Text-to-Speech), që është e dobishme nëse po përpiqeni të mësoni një gjuhë të huaj.
+features-translate-switch-languages-in = Këmbeni Gjuhë në { -brand-name-firefox }
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Nëse e përdorni tashmë { -brand-name-firefox }-in, mund të ndryshoni gjuhën e shfletuesit tuaj ose të shtoni gjuhë te ndërfaqja e { -brand-name-firefox }-it. <a { $attrs }>Mësojeni këtu se si.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Me zgjerimin To { -brand-name-google } Translate, mundeni aktualisht të përktheni <a { $attrs }>këto gjuhë</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> dhe më tepër!</a>
+features-translate-for-everyone = Firefox-i është për këdo

@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Shfletues Privat me mbrojtje shtesë nga gjurmimet
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox }-i mbron privatësinë tuaj në Internet dhe bllokon gjurmues që ju ndjekin nëpër web.
+features-private-browsing-download-firefox = Shkarkoni { -brand-name-firefox }-in
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Më tepër mbrojtje. Më pak kokëçarje.
 features-private-browsing-were-obsessed-with = Mbrojtjen e privatësisë e kemi fiksim. Ja pse e bëmë Shfletimin Privat nën { -brand-name-firefox } edhe më të fuqishëm se ai i të tjerëve.
 features-private-browsing-browse-without = Shfletoni pa lënë gjurmë
