@@ -79,3 +79,5 @@ firefox-developer-congrats-you-now-have-firefox = Συγχαρητήρια. Έχ
 firefox-developer-this-isnt-just-an-update = Αυτό δεν είναι μια απλή ενημέρωση. Αυτό είναι το { -brand-name-firefox-quantum }: ένα ολοκαίνουριο { -brand-name-firefox } που έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.
 firefox-developer-welcome-to-firefox-browser = Καλώς ορίσατε στο { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Το πρόγραμμα περιήγησης για προγραμματιστές
+firefox-developer-a-separate-profile = Ένα <strong>ξεχωριστό προφίλ και διαδρομή</strong> για εύκολη εκτέλεση μαζί με την κανονική ή την { -brand-name-beta } έκδοση του { -brand-name-firefox }.
+firefox-developer-congrats-you-now-have = Συγχαρητήρια. Έχετε πλέον το { -brand-name-firefox-browser } { -brand-name-developer-edition }.
