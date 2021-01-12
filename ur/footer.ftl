@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } کا منشور
+footer-privacy-hub = پرائیویسی حب
 footer-privacy = نجی نوعیت
 footer-press = صحافت
 footer-corporate-blog = کارپوریٹ بلاگ
@@ -69,3 +70,5 @@ footer-donate = عطیہ کریں
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = @{ -brand-name-mozilla } کو فالو کریں
+footer-follow-firefox = @{ -brand-name-firefox } کو فالو کریں

@@ -7,6 +7,8 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = ایک ویب براؤزر کیا ہے؟
+# HTML page description
+what-is-a-browser-a-web-browser = ایک ویب براؤزر آپ کو انٹرنیٹ پر کہیں بھی لے جاتا ہے ، آپ کو دنیا کے کہیں سے بھی ٹیکسٹ ، تصاویر اور ویڈیو دیکھنے دیتا ہے۔
 what-is-a-browser-how-does-a-web = ایک ویب براؤزر کیسے کام کرتا ہے؟
 what-is-a-browser-cookies-not-the = کوکیز (مزے دار قسم کی نہیں)
 what-is-a-browser-understanding = رازداری کو سمجھنا
