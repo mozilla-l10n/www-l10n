@@ -47,6 +47,7 @@ features-index-compare-browsers = Σύγκριση προγραμμάτων πε
 features-index-see-themes = Προβολή κορυφαίων θεμάτων
 features-index-download-latest = Λήψη του πιο πρόσφατου { -brand-name-firefox }
 features-index-fingerprinter-blocking = Αποκλεισμός fingerprinter
+features-index-fingerprinting-is-a = Το fingerprinting είναι ένας τύπος online καταγραφής και είναι πιο επεμβατικό από την καταγραφή βάσει cookie — γι' αυτό, αποκλείεται από το { -brand-name-firefox-browser }.
 features-index-block-fingerprinters = Φραγή fingerprinters
 features-index-translate-the-web = Μετάφραση του web
 features-index-translate-more-than = Μετάφραση από περισσότερες από 100 γλώσσες στη δική σας, απευθείας στο { -brand-name-firefox-browser } - πιο εύκολα από ποτέ.
