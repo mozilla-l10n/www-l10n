@@ -120,5 +120,6 @@ firefox-desktop-download-now-mac = ابھی وہ فائل <strong> کھولیں 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = پریشانی ہے؟ <a { $attrs }> اپنی انسٹالایشن میں مدد حاصلکریں</a>.
 firefox-desktop-download-in-another-language = کسی اور زبان میں یا کسی اور آپریٹنگ سسٹم کے لئے ڈاؤن لوڈ کریں۔
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
 firefox-desktop-download-interrupted = آپ کے ڈاؤن لوڈ میں خلل پڑا۔ لیکن سب ختم نہیں ہوا ہے۔

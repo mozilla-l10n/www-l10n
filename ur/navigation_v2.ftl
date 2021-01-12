@@ -11,6 +11,7 @@ navigation-v2-menu = مینیو
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } مینو بند کریں
+navigation-v2-firefox-for-desktop = ڈیسک ٹاپ کے لئے { -brand-name-firefox }
 navigation-v2-firefox-for-android = { -brand-name-android } کی لئے  { -brand-name-firefox }
 navigation-v2-firefox-for-ios = { -brand-name-ios } کے لیے { -brand-name-firefox }
 navigation-v2-privacy-promise = رازداری کا وعدہ
@@ -28,6 +29,7 @@ navigation-v2-save-and-discover-the-best = پورے ویب سے بہترین ک�
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }  (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-view-all-products = تمام مصنوعات دیکھیں
 

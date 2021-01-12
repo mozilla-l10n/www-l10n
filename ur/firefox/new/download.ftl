@@ -48,3 +48,4 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤز�
 firefox-new-its-privacy-and-peace-of = یہ بھی ، موبائل پر <strong> رازداری اور ذہنی سکون </ strong> ہے۔
 firefox-new-its-a-community-that-believes = یہ <strong> ایک کمیونٹی </ strong> ہے جو یقین رکھتی ہے کہ ٹیکنالوجی بہتر کرسکتی ہے۔
 firefox-new-download-interrupted = آپ کے ڈاؤن لوڈ میں خلل پڑا۔ لیکن سب ختم نہیں ہوا ہے۔
+firefox-new-windows-10 = { -brand-name-windows } 10
