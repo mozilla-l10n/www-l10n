@@ -67,3 +67,5 @@ firefox-more-fingerprinter-blocking = Bllokim Krijuesish Shenjash Gishtash
 firefox-more-fingerprinting-is-a = <em>Fingerprinting</em> është një lloj gjurmimi internetor që është më i rëndë se sa gjurmimi i zakonshëm i bazuar në cookie-t — kjo është arsyeja pse { -brand-name-firefox-browser }-i e bllokon.
 firefox-more-translate-the-web = Përktheni internetin
 firefox-more-translate-more-than = Përktheni nga më shumë se 100 gjuhë në gjuhën tuaj, drejt e në { -brand-name-firefox-browser }-in tuaj - më e lehtë se kurrë.
+firefox-more-a-guide-to = Një udhërrëfyes për kredenciale hyrjesh dhe fjalëkalime më të sigurt
+firefox-more-more-and-more = Gjithnjë e më shumë gjëra rezervat, të vyera, në jetën tuaj ruhen me fjalëkalime.
