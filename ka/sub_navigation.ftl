@@ -51,3 +51,4 @@ sub-navigation-privacy = პირადულობა
 sub-navigation-our-promise = ჩვენი პირობა
 sub-navigation-our-products = ჩვენი პროდუქტები
 sub-navigation-little-book-of-privacy = პირადულობის წიგნაკი
+sub-navigation-safe-passwords = დაცული პაროლები

@@ -39,6 +39,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = მიიღეთ უსაფრთხოება ბრაუზერის მიღმაც, ყველა თქვენს მოწყობილობაზე.
 navigation-v2-product-promise = პროდუქტებში პირადულობის პირობა
 navigation-v2-learn-how-each-firefox-product = იხილეთ, თითოეული { -brand-name-firefox }-პროდუქტი როგორ იცავს და პატივისცემით ეპყრობა თქვენს მონაცემებს.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (საცდელი)
 navigation-v2-sign-up-for-new-accounts = შექმენით ახალი ანგარიშები, თქვენი ელფოსტის გამჟღავნების გარეშე.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (საცდელი)
