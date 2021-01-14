@@ -12,3 +12,4 @@ features-fingerprinting-firefox-blocks-fingerprinting = Το { -brand-name-firef
 features-fingerprinting-every-fingerprint = Κάθε αποτύπωμα είναι μοναδικό.
 features-fingerprinting-download-firefox = Λήψη του { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Τι είναι το fingerprinting;
+features-fingerprinting-fingerprinting-is-bad = Το fingerprinting βλάπτει το διαδίκτυο

@@ -18,6 +18,7 @@ browsers-chromebook-dropdown-copy = Λήψη { -brand-name-firefox } για { -b
 browsers-chromebook-why-get-firefox = Γιατί να επιλέξω το <span>{ -brand-name-firefox }</span> για { -brand-name-chromebook };
 browsers-chromebook-while-a-chromebook = Αν και τα { -brand-name-chromebook } διαθέτουν ήδη το { -brand-name-chrome }, η λήψη και χρήση του { -brand-name-firefox } ως του κύριου φυλλομετρητή σας παρέχει ορισμένα οφέλη:
 browsers-chromebook-is-it-hard = Είναι δύσκολη η εγκατάσταση του { -brand-name-firefox } σε { -brand-name-chromebook };
+browsers-chromebook-install-firefox-from = Εγκατάσταση του { -brand-name-firefox } από το { -brand-name-google-play } Store: σε νεότερες εκδόσεις του { -brand-name-chromeos } ({ -brand-name-chromebook } x86 με { -brand-name-chromeos } 80 ή νεότερο), έχετε την επιλογή να εγκαταστήσετε το { -brand-name-firefox } για { -brand-name-android }, μια εφαρμογή για κινητές συσκευές.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
