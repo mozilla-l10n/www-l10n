@@ -18,8 +18,10 @@ browsers-chromebook-dropdown-copy = Λήψη { -brand-name-firefox } για { -b
 browsers-chromebook-why-get-firefox = Γιατί να επιλέξω το <span>{ -brand-name-firefox }</span> για { -brand-name-chromebook };
 browsers-chromebook-while-a-chromebook = Αν και τα { -brand-name-chromebook } διαθέτουν ήδη το { -brand-name-chrome }, η λήψη και χρήση του { -brand-name-firefox } ως του κύριου φυλλομετρητή σας παρέχει ορισμένα οφέλη:
 browsers-chromebook-is-it-hard = Είναι δύσκολη η εγκατάσταση του { -brand-name-firefox } σε { -brand-name-chromebook };
+browsers-chromebook-we-wish-it = Ευχόμαστε να ήταν όλα πιο απλά, άλλα το { -brand-name-chromebook } σας προτιμά να σάς κρατά μέσα στο οικοσύστημα του { -brand-name-google-play }. Ωστόσο, πιστεύουμε ότι αξίζει να εγκαταστήσετε το { -brand-name-firefox } στο { -brand-name-chromebook } σας – και διαθέτουμε βεβαίως τους πόρους για να σάς βοηθήσουμε. Υπάρχουν δύο τρόποι για να αποκτήσετε το { -brand-name-firefox } στη συσκευή σας.
 browsers-chromebook-install-firefox-from = Εγκατάσταση του { -brand-name-firefox } από το { -brand-name-google-play } Store: σε νεότερες εκδόσεις του { -brand-name-chromeos } ({ -brand-name-chromebook } x86 με { -brand-name-chromeos } 80 ή νεότερο), έχετε την επιλογή να εγκαταστήσετε το { -brand-name-firefox } για { -brand-name-android }, μια εφαρμογή για κινητές συσκευές.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Εγκατάσταση του { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }: αυτή η μέθοδος απαιτεί λίγο περισσότερα βήματα, αλλά αξίζει τον κόπο. Αν εγκαταστήσετε το { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }, θα λάβετε το { -brand-name-firefox } για υπολογιστές μαζί με όλες τις λειτουργίες του, όπως Ενισχυμένη προστασία από καταγραφή, ενσωματωμένη διαχείριση κωδικών πρόσβασης, πρόσβαση σε χιλιάδες πρόσθετα (όπως το UBlock Origin) και διάφορα θέματα για την προσαρμογή του προγράμματος περιήγησής σας. <a{ $url }>Μάθετε περισσότερα για την εγκατάσταση του { -brand-name-firefox } για υπολογιστές σε { -brand-name-chromebook }</a>.
