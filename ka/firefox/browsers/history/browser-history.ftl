@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = ბრაუზერის ისტორია: ლეგენდარული ბრძოლები, რომლებმაც თანამედროვე ბრაუზერებამდე მიგვიყვანა
+browser-history-the-browser-wars-underdogs-giants = ბრაუზერების ომები, განწირულები და გიგანტები, შემთხვევები, რომლებმაც სამყარო შეცვალა. იხილეთ, ვებბრაუზერის წარმოშობის შესახებ.
+browser-history-the-history-of-web = ბრაუზერების ისტორია
