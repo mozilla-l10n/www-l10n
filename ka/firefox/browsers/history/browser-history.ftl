@@ -33,5 +33,8 @@ browser-history-by-1995-netscape = 1995 წლისთვის, { -brand-name-
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape }-მა შექმნა და გამოუშვა JavaScript, რომელმაც ვებსაიტებს მძლავრი გამოთვლის, აქამდე არნახული შესაძლებლობები მისცა, როგორიც იქამდე არ გააჩნდა. (ასევე მათი ქმნილებაა მეტად არასასურველი <a href="{ $blink }">&lt;blink&gt; ჭდე</a>.) { -brand-name-microsoft } დაუპირისპირდა თანმიმდევრული სტილის ცხრილებით (CSS), რომელიც სტანდარტად იქცა, ვებგვერდის იერსახის შემუშავებისთვის.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = მართვის სადავეები ცოტა ხელიდან გაიქცა 1997 წელს, როცა { -brand-name-microsoft }-მა გამოუშვა { -brand-name-ie } 4.0. გუნდმა ააგო ვეებერთელა „e“ და ჩუმად დადგა { -brand-name-netscape }-ის სათაო ოფისთან გაზონზე. { -brand-name-netscape }-ის გუნდმა კი სასწრაფოდ წააქცია „e“ და ზემოდან <a href="{ $dino }">განათავსა საკუთარი თილისმა, დინოზავრი { -brand-name-mozilla }</a>.
 browser-history-resources = წყაროები
 browser-history-take-control-of = თავად მართეთ თქვენი ბრაუზერი.
