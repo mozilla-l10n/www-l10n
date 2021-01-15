@@ -11,3 +11,10 @@ features-translate-translate-the-web-title = თარგმნეთ საი�
 features-translate-translate-more-than = თარგმნეთ 100-ზე მეტი ენიდან თქვენს ენაზე პირდაპირ { -brand-name-firefox-browser }-ში – აქამდე არნახული სიმარტივით.
 features-translate-translate-the-web = თარგმნეთ საიტები { -brand-name-firefox }-ით
 features-translate-the-google-translate = To { -brand-name-google } Translate გაფართოება { -brand-name-firefox }-ისთვის ვებსივრცეს ხელმისაწვდომის ხდის მთელი მსოფლიოსთვის.
+# $attrs (string) - link to https://www.mozilla.org/firefox/all/
+features-translate-the-internet-is = ინტერნეტი სავსეა საოცრებებით, თუმცა ბევრი რამ ინგლისურისგან განსხვავებულ ენებზეა — შედეგად, მსოფლიოში მილიარდობით ხალხს ესაჭიროება მთარგმნელი, უბრალოდ ინტერნეტით სარგებლობისთვისაც კი. შეგიძლიათ <a { $attrs }>ჩამოტვირთოთ { -brand-name-firefox } 100-ზე მეტი ენისთვის</a> და ბრაუზერის მენიუები, შეტყობინებები ან ცნობები გამოჩნდება თქვენს სასურველ ენაზე, თუმცა ეს ვერ გადაწყვეტს ბრაუზერით ნანახი მასალების საკითხს.
+features-translate-to-google-translate = To { -brand-name-google } Translate
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-google-translate-with = { -brand-name-google } Translate, გამზადებული 100-ზე მეტი ენისთვის* გამოიყენება მილიონობით ადამიანის მიერ, მთელ მსოფლიოში. თუმცა ყოველ ჯერზე translate.google.com საიტზე შესვლა და გამოსვლა გვერდის წასაკითხად, მეტად მოუხერხებელია. <a { $attrs }>To { -brand-name-google } Translate</a> გაფართოებით კი გვერდის თარგმნა შესაძლებელია აქამდე არნახული სიმარტივით.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-the-extension = გადმოწერეთ გაფართოება
