@@ -27,5 +27,8 @@ browser-history-by-1993-the-web = 1993 წლისთვის, ვებსი
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic ეშვებოდა { -brand-name-windows }-კომპიუტერებზე, იყო მარტივად გამოსაყენებელი და ყველა კომპიუტერის მფლობელს აძლევდა იმ დროინდელ ვებგვერდებზე, სასაუბროებზე და სურათების ბიბლიოთეკებზე წვდომის საშუალებას. მომდევნო წელს (1994), ანდრისენმა დააარსა <a href="{ $netscape }">{ -brand-name-netscape }</a> და საჯაროდ გამოუშვა { -brand-name-netscape } Navigator. ეს იყო ფართოდ გავრცელებული, წარმატებული ბრაუზერი განკუთვნილი რიგითი ხალხისთვის. ეს იყო აგრეთვე, პირველი ნაბიჯი, გადადგმული ახალი სახეობის ომის დასაწყებად, მომხმარებლების მოზიდვის საქმეში.
 browser-history-the-browser-wars = ბრაუზერების ომები
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = 1995 წლისთვის, { -brand-name-netscape } Navigator არ იყო ერთადერთი საშუალება ინტერნეტში გასასვლელად. კომპიუტერული პროგრამების ვეება მწარმოებელმა { -brand-name-microsoft }-მა მოიპოვა ძველი Mosaic-ის კოდის ლიცენზია და შექმნა საკუთარი ფანჯარა ვებსივრცეში, <a href="{ $ie }">{ -brand-name-ie }</a>. მისი გამოშვების შემდეგ გაჩაღდა ომი. { -brand-name-netscape } და { -brand-name-microsoft } მუშაობდა მთელი ძალისხმევით, ახალი ვერსიების გამოსაშვებად და მეტოქის სწრაფად ჩამოსატოვებლად, უკეთესი პროდუქტის შექმნით.
 browser-history-resources = წყაროები
 browser-history-take-control-of = თავად მართეთ თქვენი ბრაუზერი.
