@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = 2002-aisiais <a href="{ $over90 }">virš 90% inte
 history-not-many-people-noticed = Nedaugelis pastebėjo, kad tais pačiais metais buvo išleista ir pirmoji „Phoenix“ naršyklės, vėliau pervardintos į „{ -brand-name-firefox }“, laida. „Mozillos“ bendruomenės nariai šią naršyklę išleido, siekdami sukurti <a href="{ $charter }">geriausią įmanomą naršymo patirtį</a> plačiausiam žmonių ratui.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 2003-iaisiais projekto nariai įkūrė „{ -brand-name-mozilla } Foundation“ fondą – <a href="{ $foundation }">nepriklausomą, ne pelno siekiančią organizaciją</a>, remiamą pavienių asmenų ir aibės kompanijų.
+history-in-2003-the-mozilla-project = 2003-iaisiais projekto nariai įkūrė „{ -brand-name-mozilla-foundation }“ fondą – <a href="{ $foundation }">nepriklausomą, ne pelno siekiančią organizaciją</a>, remiamą pavienių asmenų ir aibės kompanijų.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = „{ -brand-name-mozilla-foundation }“ perėmė „Mozillos“ projekto kasdienių veiklų valdymo naštą, o taip pat įsipareigojo skleisti ir skatinti <a href="{ $manifesto }">atvirumą, inovatyvumą ir lygias galimybes visiems</a> internete.

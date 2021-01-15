@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = Deri më 2002-in, <a href="{ $over90 }">më shum�
 history-not-many-people-noticed = Jo shumë vetë e vunë re në atë kohë, por versioni i parë i Phoenix-it (më vonë i riemërtuar si { -brand-name-firefox }) u hodh në qarkullim po nga anëtarë të bashkësisë { -brand-name-mozilla } atë vit, me synim të ofronte <a href="{ $charter }">punimin më të mirë të mundshëm në shfletim</a> për grupin më të madh të mundshëm të njerëzve.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = Më 2003-in, projekti { -brand-name-mozilla } krijoi { -brand-name-mozilla } Foundation, një <a href="{ $foundation }">organizëm jofitimprurës i pavarur</a>, me mbështetje nga dhurues individualë dhe një larmi kompanish.
+history-in-2003-the-mozilla-project = Më 2003-in, projekti { -brand-name-mozilla } krijoi { -brand-name-mozilla-foundation }, një <a href="{ $foundation }">organizëm jofitimprurës i pavarur</a>, me mbështetje nga dhurues individualë dhe një larmi kompanish.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Fondacioni i ri { -brand-name-mozilla-foundation } vazhdoi të përmbushë rolin e administrimit të veprimeve të përditshme të projektit dhe mori gjithashtu përsipër rolin e promovimit të <a href="{ $manifesto }">të qenët të hapur, risive dhe mundësive</a> në Internet.

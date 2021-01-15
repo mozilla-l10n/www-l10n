@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = 2002년 당시 전 세계 인터넷 인구의 <a 
 history-not-many-people-noticed = 이 때 많은 사람들에게 알려져 있지는 않았지만, 다양한 사람들에게 <a href="{ $charter }">최고의 브라우저 기능</a>을 제공한다는 목표를 가진 { -brand-name-mozilla } 커뮤니티 일부 개발자에 의해 Phoenix(이후, { -brand-name-firefox })의 첫 번째 버전이 공개되었습니다.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 2003년 { -brand-name-mozilla } 프로젝트는 개인 기부자와 다양한 기업 지원으로 <a href="{ $foundation }">비영리 공익 재단</a>인 { -brand-name-mozilla } Foundation을 설립했습니다.
+history-in-2003-the-mozilla-project = 2003년 { -brand-name-mozilla } 프로젝트는 개인 기부자와 다양한 기업 지원으로 <a href="{ $foundation }">비영리 공익 재단</a>인 { -brand-name-mozilla-foundation }을 설립했습니다.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = 새로 설립 된 { -brand-name-mozilla-foundation }은 프로젝트의 일상적인 운영을 관리하는 역할을 비롯하여, 인터넷에서 <a href="{ $manifesto }"> 개방성과 혁신, 기회</a>의 중요성를 홍보하는 역할을 담당하고 있습니다.

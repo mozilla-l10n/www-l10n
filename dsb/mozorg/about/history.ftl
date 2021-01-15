@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = Až do 2002 jo <a href="{ $over90 }">wěcej ako 9
 history-not-many-people-noticed = Nic wjele luźi jo to tegdy zawupytnuło, ale prědna wersija Phoenix (pózdźej do { -brand-name-firefox } pśemjenjony) jo se w tom lěśe wót cłonkow zgromaźeństwa { -brand-name-mozilla } pśepódała, ze zaměrom, <a href="{ $charter }">nejlěpše móžne pśeglědowańske dožywjenje</a> tak wjele ako móžno luźam póbitowaś.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = W lěśe 2003 jo projekt { -brand-name-mozilla } załožbu { -brand-name-mozilla } Foundation załožył, <a href="{ $foundation }">njewótwisnu za wše wužytnu organizaciju</a>, kótaraž pódpěra se wót jadnotliwych pósćiwarjow a wjele pśedewześow.
+history-in-2003-the-mozilla-project = W lěśe 2003 jo projekt { -brand-name-mozilla } załožbu { -brand-name-mozilla-foundation } załožył, <a href="{ $foundation }">njewótwisnu za wše wužytnu organizaciju</a>, kótaraž pódpěra se wót jadnotliwych pósćiwarjow a wjele pśedewześow.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Nowa załožba { -brand-name-mozilla-foundation } jo ze zastojanim aktiwitow projekta pókšacowała a teke oficielnje rolu pśewzeła, <a href="{ $manifesto }">wótwórjonosć, inowaciju a šanse</a> w interneśe spěchowaś.

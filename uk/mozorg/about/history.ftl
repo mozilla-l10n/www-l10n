@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = До 2002 року <a href="{ $over90 }">біль
 history-not-many-people-noticed = В той час небагато людей знали про це, але того ж року учасниками спільноти { -brand-name-mozilla } було випущено першу версію Phoenix (пізніше перейменований в { -brand-name-firefox }), з метою надати <a href="{ $charter }">найкращий можливий досвід перегляду Інтернету</a> якомога ширшому колу людей.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = У 2003 році проєкт { -brand-name-mozilla } створив { -brand-name-mozilla } Foundation, <a href="{ $foundation }">незалежну некомерційну організацію</a>, підтримувану індивідуальними інвесторами та різноманітними компаніями.
+history-in-2003-the-mozilla-project = У 2003 році проєкт { -brand-name-mozilla } створив { -brand-name-mozilla-foundation }, <a href="{ $foundation }">незалежну некомерційну організацію</a>, підтримувану індивідуальними інвесторами та різноманітними компаніями.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Нова { -brand-name-mozilla-foundation } продовжила роль управління щоденними операціями проєкту, а також офіційно взяла роль поширення <a href="{ $manifesto }">відкритості, інновації та нових можливостей</a> в Інтернеті.

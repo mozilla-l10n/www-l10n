@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = 2002-yilda, <a href="{ $over90 }">90% dan ortiq i
 history-not-many-people-noticed = Ko‘pgina odamlar e’tibor berishmadi, ammo Phoenix (keyinroq { -brand-name-firefox } deb nomi o‘zgartirildi)ning birinchi versiyasi { -brand-name-mozilla } jamoasi a’zolari tomonidan o‘sha yili <a href="{ $charter }">internetga kirishning eng zo‘r imkoniyatlari</a>ni keng ommaga namoyish qilish maqsadi bilan bila e’lon qilingandi.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 2003-yilda { -brand-name-mozilla } loyihasi alohida mablag‘ bilan ta’minlovchilar va turli kompaniyalar tomonidan qo‘llab-quvvatlanadigan "{ -brand-name-mozilla } Foundation"ni - <a href="{ $foundation }">mustaqil notijorat tashkilot</a>ni yaratdi.
+history-in-2003-the-mozilla-project = 2003-yilda { -brand-name-mozilla } loyihasi alohida mablag‘ bilan ta’minlovchilar va turli kompaniyalar tomonidan qo‘llab-quvvatlanadigan "{ -brand-name-mozilla-foundation }"ni - <a href="{ $foundation }">mustaqil notijorat tashkilot</a>ni yaratdi.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Yangi { -brand-name-mozilla-foundation } loyihaning joriy faoliyatini boshqarishdagi rolini davom ettirdi, shuningdek, <a href="{ $manifesto }">ochiqlik, innovatsiya va imkoniyat</a>ni rivojlantirishni rasmiy qo‘lga oldi.

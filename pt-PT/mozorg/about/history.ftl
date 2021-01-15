@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = Em 2002, <a href="{ $over90 }">mais de 90% dos ut
 history-not-many-people-noticed = Poucas pessoas repararam na altura, mas a primeira versão do Phoenix (mais tarde renomeado para { -brand-name-firefox }) foi também lançado nesse ano por membros da comunidade { -brand-name-mozilla }, com o objetivo de fornecer a <a href="{ $charter }">melhor experiência de navegação possível</a> para o maior número de pessoas.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = Em 2003, o projeto { -brand-name-mozilla } criou a { -brand-name-mozilla } Foundation, uma <a href="{ $foundation }">organização independente e sem fins lucrativos</a> apoiada por doadores individuais e várias empresas.
+history-in-2003-the-mozilla-project = Em 2003, o projeto { -brand-name-mozilla } criou a { -brand-name-mozilla-foundation }, uma <a href="{ $foundation }">organização independente e sem fins lucrativos</a> apoiada por doadores individuais e várias empresas.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = A nova { -brand-name-mozilla-foundation } continuou o papel de gestão das operações diárias do projeto e assumiu oficialmente o papel de promover a <a href="{ $manifesto }">abertura, inovação e oportunidade</a> na Internet.

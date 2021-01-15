@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = 2002 年当時、<a href="{ $over90 }">インタ�
 history-not-many-people-noticed = この時はまだ多くの人に知られていませんが、幅広い人々に <a href="{ $charter }">最高のブラウズ環境</a> を提供するという目標を長い間持ち続けてきた { -brand-name-mozilla } のコミュニティメンバーにより、Phoenix (後の { -brand-name-firefox }) の最初のバージョンが公開されました。
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 2003 年、{ -brand-name-mozilla } プロジェクトは、個人の寄贈者と様々な企業の支援により、<a href="{ $foundation }">非営利の公益組織</a> である { -brand-name-mozilla } Foundation を設立しました。
+history-in-2003-the-mozilla-project = 2003 年、{ -brand-name-mozilla } プロジェクトは、個人の寄贈者と様々な企業の支援により、<a href="{ $foundation }">非営利の公益組織</a> である { -brand-name-mozilla-foundation } を設立しました。
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = 新たに設立された { -brand-name-mozilla-foundation } は、プロジェクトの日々の運用を管理する役割を持ち続け、インターネット上の <a href="{ $manifesto }">オープン性と革新、機会</a> を宣伝する役割を担っています。

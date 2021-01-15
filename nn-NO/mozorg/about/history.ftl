@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = I 2002 <a href="{ $over90 }">brukte langt over 90
 history-not-many-people-noticed = Ikkje mange fekk det med seg då, men den første versjonen av Phoenix (seinare omdøypt til { -brand-name-firefox }) vart same året utgjeven av medlemmar av mozilla-fellesskapet, med mål om å tilby ei <a href="{ $charter }">best mulig surfeoppleving</a> til flest muleg.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = I 2003 oppretta { -brand-name-mozilla }-prosjektet { -brand-name-mozilla } Foundation, ein <a href="{ $foundation }">uavhengig ideell organisasjon</a> støtta av individuelle gjevarar og ei rad ulike selskap.
+history-in-2003-the-mozilla-project = I 2003 oppretta { -brand-name-mozilla }-prosjektet { -brand-name-mozilla-foundation }, ein <a href="{ $foundation }">uavhengig ideell organisasjon</a> støtta av individuelle gjevarar og ei rad ulike selskap.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Den nystifta { -brand-name-mozilla-foundation } tok over forvaltninga av den daglege verksemda innan prosjektet og tok også offisielt over rolla som forkjempar for <a href="{ $manifesto }">openheit, nyskaping og mulegheiter</a> på nettet.

@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = V roce 2002 totiž <a href="{ $over90 }">více n�
 history-not-many-people-noticed = Někteří lidé si ale všimli, že první verze Phoenixu (později přejmenovaného na { -brand-name-firefox }) byla členy komunity { -brand-name-mozilla } vydána téhož roku s cílem poskytnout <a href="{ $charter }">nejlepší možný prožitek z prohlížení</a> co nejširšímu spektru uživatelů.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = V roce 2003 byla díky projektu { -brand-name-mozilla } založena { -brand-name-mozilla } Foundation, <a href="{ $foundation }">nezávislá nezisková organizace</a> podporovaná jednotlivými dárci a některými společnostmi.
+history-in-2003-the-mozilla-project = V roce 2003 byla díky projektu { -brand-name-mozilla } založena { -brand-name-mozilla-foundation }, <a href="{ $foundation }">nezávislá nezisková organizace</a> podporovaná jednotlivými dárci a některými společnostmi.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } pokračovala ve spravování denních úkolů projektu a také oficiálně převzala důležitou roli při propagaci <a href="{ $manifesto }">otevřenosti, inovací a příležitostí</a> na internetu.
