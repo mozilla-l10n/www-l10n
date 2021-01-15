@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = 在 2002 年，<a href="{ $over90 }">超过 90% �
 history-not-many-people-noticed = 这时还没有多少人注意到，但 Phoenix（后改名为 { -brand-name-firefox }）的首个版本也被 { -brand-name-mozilla } 的社区成员发布了，那年的目标是为广泛的人提供<a href="{ $charter }">尽可能好的浏览体验</a>。
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 在 2003 年，{ -brand-name-mozilla } 项目创建了 { -brand-name-mozilla } 基金会，一个<a href="{ $foundation }">独立的非营利组织</a>，由各个个人和企业捐助支持。
+history-in-2003-the-mozilla-project = 在 2003 年，{ -brand-name-mozilla } 项目创建了 { -brand-name-mozilla-foundation }，一个 <a href="{ $foundation }">独立的非营利组织</a>，由各个个人和企业捐助支持。
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = 新的 Mozilla 基金会继续该项目的日常管理职责，也正式承担了促进互联网上的<a href="{ $manifesto }">开放、创新和机遇</a>的职责。
+history-the-new-mozilla-foundation = 新的 { -brand-name-mozilla-foundation }继续该项目的日常管理职责，也正式承担了促进互联网上的<a href="{ $manifesto }">开放、创新和机遇</a>的职责。
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = 它继续发布新的软件（例如 { -brand-name-firefox } 和 { -brand-name-thunderbird }）和扩展到新的领域（例如<a href="{ $grants }">资助</a>改进 Web 的无障碍访问）以支持这点。
