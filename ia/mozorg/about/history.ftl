@@ -34,6 +34,12 @@ history-by-2002-well-over-90 = Per le 2002, <a href="{ $over90 }">ben ultra le 9
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Non plure personas lo sapeva in ille tempore, ma le prime version de Phoenix (depois renominate a { -brand-name-firefox }) ha essite alsi publicate per le membros del communitates de { -brand-name-mozilla } ille anno, con le proposito de fornir le <a href="{ $charter }">experientia de navigation melior</a> al maxime numero de personas possibile.
 # Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = In le 2003, le projecto { -brand-name-mozilla } creava { -brand-name-mozilla-foundation }, un <a href="{ $foundation }">organisation non lucrative independente</a> supportate per donatores individual e per plure companias.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Le nove { -brand-name-mozilla-foundation } continuava le rolo del gestion del operationes quotidian del projecto, ma alsi officialmente assumeva le rolo de promotor del <a href="{ $manifesto }">aperturas, innovationes e opportunitates</a> in Internet.
+# Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Illo lo ha facite per le publication de software, como { -brand-name-firefox } e { -brand-name-thunderbird }, e le expansion in nove areas, como provider <a href="{ $grants }">grants</a> supporto al meliorationes de accessibilitate al Web.
 # Variables:
