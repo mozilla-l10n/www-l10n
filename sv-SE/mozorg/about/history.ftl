@@ -32,7 +32,7 @@ history-after-several-years-of-development = Efter flera års utveckling gavs de
 history-by-2002-well-over-90 = År 2002 <a href="{ $over90 }">använde långt över 90 % av alla internetanvändare</a> webbläsaren { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
-history-not-many-people-noticed = Obemärkt av de allra flesta gavs samma år även den första versionen av Phoenix (senare omdöpt till { -brand-name-firefox }) ut av medlemmar av mozillagemenskapen, med målet att erbjuda <a href="{ $charter }">bästa möjliga surfupplevelse</a> till största möjliga antalet människor.
+history-not-many-people-noticed = Det var inte många som märkte vid den tiden, men den första versionen av Phoenix (senare döpt om till { -brand-name-firefox }) släpptes också av { -brand-name-mozilla }:s communitymedlemmar det året med målet att tillhandahålla <a href="{ $charter }">bästa möjliga surfupplevelse</a> till så många människor som möjligt.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = 2003 skapade projektet { -brand-name-mozilla } stiftelsen { -brand-name-mozilla-foundation }, en <a href="{ $foundation }">oberoende, ideell organisation</a> med stöd från enskilda donatorer och en rad olika företag.
