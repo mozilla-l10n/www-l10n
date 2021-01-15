@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = პირადი თვალიერება თვალთვალის დამატებითი დაცვით
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } იცავს თქვენს პირად მონაცემებს ინტერნეტში მეთვალყურე ელემენტების შეზღუდვით საიტებზე.
+features-private-browsing-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: მეტი უსაფრთხოება, ნაკლები მღელვარება.
 features-private-browsing-were-obsessed-with = ჩვენ დაჟინებით ვცდილობთ თქვენი პირადი მონაცემების დაცვას. სწორედ ამიტომაა, რომ { -brand-name-firefox }-ის პირადი თვალიერების რეჟიმს გაცილებით მეტი შესაძლებლობები აქვს, ვიდრე სხვებისას.
 features-private-browsing-browse-without = ათვალიერეთ კვალის დატოვების გარეშე

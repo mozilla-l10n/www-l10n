@@ -63,3 +63,5 @@ incognito-browser-what = ფარული ბრაუზერი: რა ა
 firefox-calls-it = { -brand-name-firefox } უწოდებს პირად თვალიერებას, { -brand-name-chrome } უწოდებს ინკოგნიტო რეჟიმს. ორივე, გვერდების დამახსოვრების გარეშე მონახულების საშუალებას იძლევა.
 take-the-stress = მოიხსენით დაძაბულობა, უსაფრთხო ბრაუზერის მონახვით.
 building-a-safe = უსაფრთხო ბრაუზერის შექმნა ხელოვნება და მეცნიერებაა, ვინაიდან დადგენილი წესები არ არსებობს.
+firefox-more-fingerprinter-blocking = ამოცნობის შეზღუდვა
+firefox-more-translate-the-web = გვერდების თარგმნა
