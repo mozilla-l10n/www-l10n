@@ -71,7 +71,7 @@ history-the-mozilla-community-together = Bashkësia { -brand-name-mozilla }, tok
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Nëse doni të bashkoheni me ne, për misionin tonë, ju lutemi, <a href="{ $contribute }">përfshihuni te Mozilla</a>.
 history-for-more-information-about = Për më tepër të dhëna rreth historikut të { -brand-name-mozilla }-s, shihni sa vijon:
-history-mozilla-bookmarks = Dokumente Historike
+history-mozilla-bookmarks = Faqerojtës { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Rrjedha Kohore e Projektit { -brand-name-mozilla }
 history-mozilla-digital-memory-bank = Arkiva Dixhitale e Kujtimeve { -brand-name-mozilla }
 # Variables:
