@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Zaseben brskalnik z dodatno zaščito pred sledenjem
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } ščiti vašo zasebnost in zavrača sledilce, ki vas zasledujejo po spletu.
+features-private-browsing-download-firefox = Prenesite { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Več zaščite. Manj skrbi.
 features-private-browsing-were-obsessed-with = Varovanje vaše zasebnosti nam je zelo pomembno. Zato je { -brand-name-firefox }ovo zasebno brskanje zmogljivejše od kateregakoli drugega.
 features-private-browsing-browse-without = Brskajte brez sledu
