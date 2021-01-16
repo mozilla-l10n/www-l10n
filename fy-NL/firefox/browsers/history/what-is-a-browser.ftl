@@ -18,3 +18,4 @@ what-is-a-browser-in-a-short-period = Yn in koarte perioade binne wy ferrast fan
 what-is-a-browser-how-does-a-web = Hoe wurket in webbrowser?
 what-is-a-browser-a-web-browser-long = In webbrowser bringt jo oeral op it ynternet. It hellet ynformaasje op fan oare dielen fan it ynternet en toant it op jo buroblêd of mobile apparaat. De ynformaasje wurdt oerdroegen mei it Hypertext Transfer Protocol, dat bepaalt hoe't tekst, ôfbyldingen en fideo op it web ferstjoerd wurde. Dizze ynformaasje moat dield en werjûn wurde yn in konsistint formaat, sadat minsken mei elke browser, oeral yn de wrâld de ynformaasje sjen kinne.
 what-is-a-browser-cookies-not-the = Koekjes (net de lekkere soarte)
+what-is-a-browser-understanding = Ynsjoch yn privacy

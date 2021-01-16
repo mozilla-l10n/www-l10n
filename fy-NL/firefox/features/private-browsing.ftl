@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Priveebrowser mei ekstra beskerming tsjin folgjen
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } beskermet jo online privacy en blokkearret trackers dy't jo oeral op it web folgje.
+features-private-browsing-download-firefox = { -brand-name-firefox } downloade
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: mear beskerming. Minder soargen.
 features-private-browsing-were-obsessed-with = Wy binne obsedearre troch it beskermjen fan jo privacy. Dêrom hawwe wy Priveenavigaasje fan { -brand-name-firefox } krêftiger makke as de oare.
 features-private-browsing-browse-without = Surf sûnder spoaren efter te litten
