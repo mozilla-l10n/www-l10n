@@ -36,3 +36,21 @@ history-not-many-people-noticed = No mucha gente se dio cuenta en ese momento, p
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } creó la fundación { -brand-name-mozilla }, una <a href="{ $foundation }">organización independiente sin fines de lucro</a> apoyada por donantes individuales y una variedad de empresas.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = La nueva { -brand-name-mozilla-foundation } continuó con el rol de gestionar las operaciones diarias del proyecto y también asumió oficialmente el papel de promover <a href="{ $manifesto }"> la apertura, la innovación y la oportunidad</a> en Internet.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Lo hizo al continuar lanzando software, tal como { -brand-name-firefox } y { -brand-name-thunderbird }, y expandiéndose a nuevas áreas, como proveer <a href="{ $grants }">subvenciones</a> para apoyar las mejoras de accesibilidad en la web.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> se lanzó en 2004 y se convirtió en un gran éxito. En menos de un año fue descargado <a href="{ $millions }">más de 100 millones de veces</a>.
+history-new-versions-of-firefox = Desde entonces salieron nuevas versiones de { -brand-name-firefox } de manera regular y siguen estableciendo nuevos records. La popularidad de { -brand-name-firefox } ayudó a devolver la elección a los usuarios.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = La competencia renovada tiene <a href="{ $Innovation }">innovación acelerada</a> y mejoró Internet para todos.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = En 2013, lanzamos <a href="{ $firefoxos }"> { -brand-name-firefox-os } </a> para liberar todo el poder de la web en los teléfonos inteligentes y, una vez más, ofrecer control y opciones a una nueva generación de personas que se conectan.
+history-mozilla-also-celebrated = { -brand-name-mozilla } también celebró su 15º aniversario en 2013.
