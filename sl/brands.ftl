@@ -132,6 +132,7 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects

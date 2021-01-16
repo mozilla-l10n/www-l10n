@@ -11,6 +11,8 @@
 browsers-chromebook-get-firefox-browser = Prenesite { -brand-name-firefox-browser } za { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Prenesite { -brand-name-firefox } za { -brand-name-android }
 browsers-chromebook-dropdown-copy = Prenesite { -brand-name-firefox } za { -brand-name-chromebook }
+# The span here is to display an underline underneath "Firefox"
+browsers-chromebook-why-get-firefox = Zakaj prenesti <span>{ -brand-name-firefox }</span> za { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Čeprav ima { -brand-name-chromebook } že nameščen { -brand-name-chrome }, vam { -brand-name-firefox } ponuja nekatere prednosti:
 browsers-chromebook-is-it-hard = Je namestitev { -brand-name-firefox }a za { -brand-name-chromebook } zahtevna?
 
