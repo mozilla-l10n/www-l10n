@@ -7,6 +7,8 @@
 
 # page title
 features-translate-translate-the-web-title = Μετάφραση ιστού - απευθείας στο πρόγραμμα περιήγησης
+# page description
+features-translate-translate-more-than = Μετάφραση από περισσότερες από 100 γλώσσες στη δική σας, απευθείας στο { -brand-name-firefox-browser } - πιο εύκολα από ποτέ.
 features-translate-translate-the-web = Μετάφραση ιστού με το { -brand-name-firefox }
 features-translate-the-google-translate = Η επέκταση To { -brand-name-google } Translate για { -brand-name-firefox } κάνει το διαδίκτυο προσβάσιμο στον κόσμο.
 features-translate-to-google-translate = To { -brand-name-google } Translate
@@ -14,6 +16,7 @@ features-translate-to-google-translate = To { -brand-name-google } Translate
 features-translate-google-translate-with = Η Μετάφραση { -brand-name-google }, με πάνω από 100 διαθέσιμες γλώσσες*, χρησιμοποιείται από εκατομμύρια άτομα σε όλο τον κόσμο. Όμως η εναλλαγή μεταξύ του translate.google.com και της σελίδας που προσπαθείτε να διαβάσετε δεν αποτελεί την ιδανική εμπειρία. Η επέκταση <a { $attrs }>To { -brand-name-google } Translate</a> κάνει τη μετάφραση σελίδων πιο εύκολη από ποτέ.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Λήψη επέκτασης
+features-translate-once-installed-simply = Μετά την εγκατάσταση, επισημάνετε απλά το κείμενο που θέλετε να μεταφράσετε και κάντε δεξί κλικ για να δείτε ένα μενού με δύο επιλογές: 1) Μετάβαση στο translate.google.com με αυτόματη εισαγωγή του επιλεγμένου κειμένου στο πεδίο μετάφρασης· 2) Ακρόαση προφοράς φράσης (με την υποστήριξη της λειτουργίας Κείμενο σε ομιλία { -brand-name-google }), που είναι χρήσιμο αν μαθαίνετε μια νέα γλώσσα.
 features-translate-switch-languages-in = Αλλαγή γλωσσών στο { -brand-name-firefox }
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Αν χρησιμοποιείτε ήδη το { -brand-name-firefox }, μπορείτε να αλλάξετε τη γλώσσα του ή να προσθέσετε γλώσσες στη διεπαφή του { -brand-name-firefox }. <a { $attrs }>Μάθετε πώς, εδώ.</a>
