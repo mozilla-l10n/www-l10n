@@ -27,6 +27,17 @@ compare-safari-like-safari-firefox-encourages = Όπως και το { -brand-na
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Επίσης, με τη δημιουργία ενός λογαριασμού { -brand-name-firefox }, έχετε πρόσβαση σε μοναδικές υπηρεσίες, όπως το <a { $pocket }>{ -brand-name-pocket }</a>, που ενσωματώνονται στο πρόγραμμα περιήγησής μας. Το κουμπί του { -brand-name-pocket } στο { -brand-name-firefox } σάς επιτρέπει να αποθηκεύετε ιστοσελίδες και βίντεο στο { -brand-name-pocket } με ένα μόνο κλικ, ώστε να διαβάσετε μια "καθαρή" έκδοση όποτε και όπου θέλετε — ακόμα και χωρίς σύνδεση.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for = Επιπλέον, όταν δημιουργήσετε έναν λογαριασμό { -brand-name-firefox }, έχετε πρόσβαση σε μοναδικές υπηρεσίες, όπως το <a { $pocket }>{ -brand-name-pocket }</a> και το <a { $send }>{ -brand-name-send }</a>, που ενσωματώνονται στο πρόγραμμα περιήγησης. Το κουμπί του { -brand-name-pocket } για { -brand-name-firefox } σάς επιτρέπει να αποθηκεύετε ιστοσελίδες και βίντεο στο { -brand-name-pocket } με ένα κλικ, ώστε να διαβάσετε μια "καθαρή", χωρίς ενοχλητικά στοιχεία, έκδοση όπου κι όποτε θέλετε — ακόμα και offline. Με το { -brand-name-send }, μπορείτε να μοιραστείτε μεγάλα αρχεία με κρυπτογράφηση από άκρο σε άκρο και μια ποικιλία επιλογών ασφαλείας, όπως ορισμός ημερομηνίας λήξης για τον σύνδεσμο του αρχείου, ρύθμιση αριθμού λήψεων και προαιρετική προσθήκη κωδικού πρόσβασης για επιπρόσθετη ασφάλεια.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
+compare-safari-also-when-you-sign-up-for-fallback = Επιπλέον, όταν δημιουργήσετε έναν λογαριασμό { -brand-name-firefox }, έχετε πρόσβαση σε μοναδικές υπηρεσίες, όπως το Screenshots, το <a { $pocket }>{ -brand-name-pocket }</a> και το <a { $send }>{ -brand-name-send }</a>, που ενσωματώνονται στο πρόγραμμα περιήγησης. Το Screenshots σάς επιτρέπει να αντιγράψετε ή να κάνετε λήψη μιας σελίδας, ή μέρους αυτής. Κατά την αποθήκευση του στιγμιότυπου, μπορείτε να ορίσετε τον φάκελο αποθήκευσης για να διατηρήσετε τακτοποιημένη την επιφάνεια εργασίας σας. Το κουμπί του { -brand-name-pocket } για { -brand-name-firefox } σάς επιτρέπει να αποθηκεύετε ιστοσελίδες και βίντεο στο { -brand-name-pocket } με ένα κλικ, ώστε να διαβάσετε μια "καθαρή", χωρίς ενοχλητικά στοιχεία, έκδοση όπου κι όποτε θέλετε — ακόμα και offline. Με το { -brand-name-send }, μπορείτε να μοιραστείτε μεγάλα αρχεία με κρυπτογράφηση από άκρο σε άκρο και μια ποικιλία επιλογών ασφαλείας, όπως ορισμός ημερομηνίας λήξης για τον σύνδεσμο του αρχείου, ρύθμιση αριθμού λήψεων και προαιρετική προσθήκη κωδικού πρόσβασης για επιπρόσθετη ασφάλεια.
 compare-safari-firefox-is-also-great-for-video = Το { -brand-name-firefox } είναι επίσης ιδανικό για βίντεο και ήχο. Με ενσωματωμένη φραγή αυτόματης αναπαραγωγής που είναι ενεργή από προεπιλογή, δεν θα ακούσετε καμία ιστοσελίδα χωρίς να το θέλετε.
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
