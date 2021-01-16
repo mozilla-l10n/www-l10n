@@ -54,3 +54,21 @@ history-the-renewed-competition = La competencia renovada tiene <a href="{ $Inno
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = En 2013, lanzamos <a href="{ $firefoxos }"> { -brand-name-firefox-os } </a> para liberar todo el poder de la web en los teléfonos inteligentes y, una vez más, ofrecer control y opciones a una nueva generación de personas que se conectan.
 history-mozilla-also-celebrated = { -brand-name-mozilla } también celebró su 15º aniversario en 2013.
+history-the-community-has-shown = La comunidad demostró que las empresas comerciales pueden beneficiarse colaborando en proyectos de código abierto y que los grandes productos para usuarios finales pueden ser producidos como software de código abierto.
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = <Muchas más personas están usando Internet y lo están navegando <a href="{ $all }">en su propio idioma</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Se creó una organización sustentable que utiliza mecanismos de mercado para apoyar una misión de beneficio público y este modelo fue reutilizado por otros para crear organizaciones abiertas, transparentes y colaborativas en una <a href="{ $range }">amplia gama</a> <a href="{ $reas }" de áreas</a>.
+history-the-future-is-full-of-challenges = El futuro está lleno de desafíos y oportunidades iguales a las de nuestro pasado.
+history-theres-no-guarantee-that = No hay garantía de que Internet permanezca abierto, disfrutable o seguro.
+history-mozilla-will-continue-to = { -brand-name-mozilla } continuará brindando una oportunidad para que la gente haga oír su voz y moldee su propia vida en línea.
+history-of-course-were-not-alone = Por supuesto, no somos los únicos haciendo esto.
+history-the-mozilla-community-together = La comunidad de { -brand-name-mozilla }, junto con otros proyectos de código abierto y otras organizaciones de beneficio público, existe solo por las personas que se dedican a hacer de nuestros objetivos comunes una realidad.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Si querés unirte a nosotros en nuestra misión, <a href="{ $Contribute }">involucrate</a>.
+history-for-more-information-about = Para obtener más información sobre el historial de { -brand-name-mozilla }, consultá lo siguiente:
+history-mozilla-bookmarks = Marcadores de { -brand-name-mozilla }
