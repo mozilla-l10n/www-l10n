@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# page title
+features-translate-translate-the-web-title = Μετάφραση ιστού - απευθείας στο πρόγραμμα περιήγησης
+features-translate-translate-the-web = Μετάφραση ιστού με το { -brand-name-firefox }
 features-translate-the-google-translate = Η επέκταση { -brand-name-google } Translate για { -brand-name-firefox } κάνει το διαδίκτυο προσβάσιμο στον κόσμο.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Λήψη επέκτασης

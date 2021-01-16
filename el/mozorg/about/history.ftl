@@ -7,6 +7,17 @@
 
 history-history-of-the-mozilla-project = Ιστορία του έργου { -brand-name-mozilla }
 # Variables:
+#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
+history-the-mozilla-project-was = Το έργο { -brand-name-mozilla } <a href="{ $coderush }">δημιουργήθηκε το 1998</a> με την <a href="{ $sourcerelease }">κυκλοφορία του πηγαίου κώδικα του προγράμματος περιήγησης { -brand-name-netscape }</a>.
+history-it-was-intended-to-harness = Σκοπός ήταν η αξιοποίηση της δημιουργικότητας χιλιάδων προγραμματιστών στο διαδίκτυο και η τροφοδότηση μιας πρωτοφανούς καινοτομίας στην αγορά των προγραμμάτων περιήγησης.
+# Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = Μέσα στον <a href="{ $firstyear }">πρώτο χρόνο</a>, τα νέα μέλη της κοινότητας από όλο τον κόσμο πρόσθεσαν νέες λειτουργίες, βελτιώσαν τα υπάρχοντα χαρακτηριστικά και συμμετείχαν στη διαχείριση και τον σχεδιασμό του ίδιου του έργου.
+# Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = Δημιουργώντας μια ανοικτή κοινότητα, το έργο { -brand-name-mozilla } έχει γίνει <a href="{ $stevecase }">μεγαλύτερο από οποιαδήποτε εταιρεία</a>.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = Το <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> κυκλοφόρησε το 2004 και έγινε μεγάλη επιτυχία — σε λιγότερο από έναν χρόνο, έγινε λήψη του <a href="{ $millions }">περισσότερες από 100 εκατομμύρια φορές</a>.
