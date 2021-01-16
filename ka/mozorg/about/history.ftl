@@ -52,7 +52,7 @@ history-new-versions-of-firefox = ახალი ვერსიის { -brand
 history-the-renewed-competition = განახლებულმა მეტოქეობამ <a href="{ $innovation }">წაახალისა სიახლეების დანერგვა</a> და ინტერნეტის საყოველთაო განვითარება.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
-history-in-2013-we-launched-firefox = 2013 წელს, ჩვენ გამოვუშვით <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> ვებსამყაროს სრული ძალის წარმოსაჩენად სმარტფონებზე და კიდევ ერთხელ, მართვისა და არჩევანის შესაძლებლობის მიცემა, ინტერენეტის ახალი თაობისთვის.
+history-in-2013-we-launched-firefox = 2013 წელს, ჩვენ გამოვუშვით <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> ვებსამყაროს სრული ძალის წარმოსაჩენად სმარტფონებზე და კვლავაც, მართვისა და არჩევანის შესაძლებლობის მისაცემად, ინტერნეტის ახალი თაობისთვის.
 history-mozilla-also-celebrated = { -brand-name-mozilla } ასევე აღნიშნავდა მოღვაწეობის 15-ე წელს 2013-ში.
 history-the-community-has-shown = ამ ერთობამ აჩვენა, რომ მომგებიან ორგანიზაციებს შეუძლია სარგებლის მიღება ღია წყაროს პროექტებთან თანამშრომლობით, რასაც საბოლოოდ მივყავართ მაღალი ხარისხის პროდუქტების წარმოებისკენ, ღია წყაროს პროგრამული უზრუნველყოფის სახით.
 # Variables:
