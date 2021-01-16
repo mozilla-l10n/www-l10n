@@ -18,3 +18,5 @@ privacy-passwords-tldr = უფრო მოკლედ
 privacy-passwords-use-random-passwords = გამოიყენეთ შემთხვევითი პაროლები და სხვადასხვა პაროლი თითოეულ საიტზე
 privacy-passwords-pay-attention-to = ყურადღებით და ეჭვის თვალით შეხედეთ ბრაუზერის უსაფრთხოების მანიშნებლებს
 privacy-passwords-make-your-answers = საიდუმლო კითხვებზე პასუხებიც პაროლზე არანაკლებ რთული მიუთითეთ
+privacy-passwords-use-a-password = გამოიყენეთ პაროლების მმართველი, ადვილად შედგენისა და დახსომებისთვის
+privacy-passwords-use-twofactor-authentication = გამოიყენეთ „ორსაფეხურიანი“ დამოწმება შესვლისას
