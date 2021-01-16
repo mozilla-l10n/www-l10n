@@ -7,6 +7,8 @@
 
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Τι είναι το fingerprinting και γιατί να το αποκλείσετε
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Το fingerprinting είναι ένας τύπος online καταγραφής και είναι πιο επεμβατικό από την καταγραφή βάσει cookie — γι' αυτό, αποκλείεται από το { -brand-name-firefox-browser }.
 features-fingerprinting-firefox-blocks-fingerprinting = Το { -brand-name-firefox } αποκλείει το fingerprinting
 # description for the header image
 features-fingerprinting-every-fingerprint = Κάθε αποτύπωμα είναι μοναδικό.
