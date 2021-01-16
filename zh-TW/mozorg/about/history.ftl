@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = 2002 年時，<a href="{ $over90 }">有超過 90%
 history-not-many-people-noticed = 雖然當時沒有很多人注意到，但是第一個版本的 Phoenix（後來更名為 { -brand-name-firefox }）也在同年由 { -brand-name-mozilla } 社群成員釋出，目標是盡可能提供<a href="{ $charter }">最好的瀏覽體驗</a>給多數使用者。
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 2003 年，{ -brand-name-mozilla } 成立了 { -brand-name-mozilla } 基金會，這是一個由不同的捐款人與不同公司所支持的<a href="{ $foundation }">獨立非營利組織</a>。
+history-in-2003-the-mozilla-project = 2003 年，{ -brand-name-mozilla } 成立了 { -brand-name-mozilla-foundation }，這是一個由不同的捐款人與不同公司所支持的<a href="{ $foundation }">獨立非營利組織</a>。
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = 全新的 Mozilla 基金會接手管理專案的日常運作，並持續宣傳網際網路上的<a href="{ $manifesto }">開放、創新與機會</a>。
+history-the-new-mozilla-foundation = 全新的 { -brand-name-mozilla-foundation }接手管理專案的日常運作，並持續宣傳網際網路上的<a href="{ $manifesto }">開放、創新與機會</a>。
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = 基金會透過持續發行 { -brand-name-firefox } 與 { -brand-name-thunderbird } 等軟體來進行宣傳。同時也擴展至不同領域，例如提供<a href="{ $grants }">補助</a>給改進網頁無障礙環境的專案。
@@ -76,4 +76,4 @@ history-timeline-of-mozilla-project = { -brand-name-mozilla } 專案時間軸
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
-history-the-history-of-firefox-and = <a href="http://mozlinks-zh.blogspot.com/2014/04/poster.html">{ -brand-name-firefox } 與瀏覽器發展簡史海報</a>（<a href="{ $link }">英文版與日文版請點此處開啟</a>）
+history-the-history-of-firefox-and = <a href="http://mozlinks-zh.blogspot.com/2014/04/poster.html">{ -brand-name-firefox } 與 { -brand-name-mozilla } 瀏覽器發展簡史海報</a>（<a href="{ $link }">英文版與日文版請點此處開啟</a>）
