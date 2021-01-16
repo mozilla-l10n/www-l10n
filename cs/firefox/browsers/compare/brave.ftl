@@ -12,7 +12,7 @@ compare-brave-compare-brave-to-the-firefox = Porovnejte { -brand-name-brave(case
 # Main title
 compare-brave-comparing-firefox-browser = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-brave(case: "ins") }
 # "Brave Software" is a brand name.
-compare-brave-just-like-the-firefox-browser = Stejně jako { -brand-name-firefox } je i { -brand-name-brave } zdarma, s otevřeným zdrojovým kódem a zaměřuje se na ochranu soukromí uživatelů. { -brand-name-brave } je ve světě prohlížečů relativním nováčkem: jeho tvůrce, { -brand-name-brave } Software, prohlížeč poprvé představil v lednu roku 2016. V tomto článku porovnáme náš { -brand-name-firefox } s prohlížečem { -brand-name-brave } ve třech kategoriích: soukromí, funkcionalita a přenositelnost.
+compare-brave-just-like-the-firefox-browser = Stejně jako { -brand-name-firefox } je i { -brand-name-brave } svobodný, s otevřeným zdrojovým kódem a zaměřuje se na ochranu soukromí uživatelů. { -brand-name-brave } je ve světě prohlížečů relativním nováčkem: jeho tvůrce, { -brand-name-brave } Software, prohlížeč poprvé představil v lednu roku 2016. V tomto článku porovnáme náš { -brand-name-firefox } s prohlížečem { -brand-name-brave } ve třech kategoriích: soukromí, funkcionalita a přenositelnost.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
 # Variables:
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
