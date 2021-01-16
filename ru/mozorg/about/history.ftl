@@ -9,7 +9,7 @@ history-history-of-the-mozilla-project = История проекта { -brand-
 # Variables:
 #   $coderush (url) - link to https://air.mozilla.org/code-rush/
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
-history-the-mozilla-project-was = Проект { -brand-name-mozilla } был <a href="{ $coderush }">создан в 1998 году</a> вместе с <a href="{ $sourcerelease }">открытием исходного кода браузера { -brand-name-netscape }</a>.
+history-the-mozilla-project-was = Проект { -brand-name-mozilla } был <a href="{ $coderush }">создан в 1998 году</a> одновременно с <a href="{ $sourcerelease }">открытием исходного кода браузера { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Он был призван использовать творческую энергию тысяч программистов в Интернете и зажег беспрецедентный уровень инноваций на рынке браузеров.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
@@ -29,7 +29,7 @@ history-people-contributed-to-mozilla = Свой вклад в { -brand-name-moz
 history-after-several-years-of-development = После нескольких лет разработки в 2002 году была выпущена первая стабильная версия — <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>. Эта версия принесла много усовершенствований в браузер, почтовый клиент и другие программы, включенные в комплект, но немногие использовали её.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = К 2002 году <a href="{ $over90 }">более 90 % пользователей Интернета</a> использовали { -brand-name-ie }.
+history-by-2002-well-over-90 = До 2002 года <a href="{ $over90 }">более 90 % пользователей Интернета</a> использовали { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = В то время немного людей знало об этом, но в том же году участниками сообщества { -brand-name-mozilla } была выпущена первая версия Phoenix (позже переименованный в { -brand-name-firefox }), с целью предоставить <a href="{ $charter }">наилучшее из возможных средств для работы в Интернете</a> наиболее широкому кругу людей.
