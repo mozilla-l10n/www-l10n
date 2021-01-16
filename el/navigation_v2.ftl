@@ -20,6 +20,7 @@ navigation-v2-get-the-mobile-browser = Αποκτήστε το πρόγραμμ�
 navigation-v2-privacy-promise = Υπόσχεση απορρήτου
 navigation-v2-learn-how-firefox-treats = Μάθετε πώς το { -brand-name-firefox } χειρίζεται τα δεδομένα σας με σεβασμό.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
+navigation-v2-read-about-new-firefox-features = Διαβάστε για νέες λειτουργίες του { -brand-name-firefox } και τρόπους προστασίας στο διαδίκτυο.
 navigation-v2-release-notes = Σημειώσεις έκδοσης
 navigation-v2-get-the-details-on-the = Μάθετε λεπτομέρειες σχετικά με τις πιο πρόσφατες ενημερώσεις του { -brand-name-firefox }.
 navigation-v2-view-all-firefox-browsers = Προβολή όλων των { -brand-name-firefox-browsers }
@@ -31,7 +32,9 @@ navigation-v2-close-products-menu = Κλείσιμο μενού προϊόντω
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Δείτε αν το email σας έχει εμφανιστεί στην παραβίαση δεδομένων μιας εταιρείας.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Αποθηκεύστε και ανακαλύψτε τα καλύτερα άρθρα από όλο το διαδίκτυο.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Εμποδίστε το { -brand-name-facebook } από τη συλλογή των δεδομένων σας εκτός της ιστοσελίδας του.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Λάβετε προστασία πέρα από το πρόγραμμα περιήγησής σας, σε όλες τις συσκευές σας.
 navigation-v2-product-promise = Υπόσχεση προϊόντων
@@ -46,6 +49,7 @@ navigation-v2-view-all-products = Προβολή όλων των προϊόντ�
 ## Who We Are menu
 
 navigation-v2-who-we-are = Ποιοι είμαστε
+navigation-v2-close-who-we-are-menu = Κλείσιμο μενού "Ποιοι είμαστε"
 navigation-v2-mozilla-manifesto = Μανιφέστο της { -brand-name-mozilla }
 navigation-v2-learn-about-the-values = Μάθετε για τις αξίες και τις αρχές που διέπουν την αποστολή μας.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
