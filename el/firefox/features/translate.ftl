@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = Μετάφραση ιστού - α�
 features-translate-translate-more-than = Μετάφραση από περισσότερες από 100 γλώσσες στη δική σας, απευθείας στο { -brand-name-firefox-browser } - πιο εύκολα από ποτέ.
 features-translate-translate-the-web = Μετάφραση ιστού με το { -brand-name-firefox }
 features-translate-the-google-translate = Η επέκταση To { -brand-name-google } Translate για { -brand-name-firefox } κάνει το διαδίκτυο προσβάσιμο στον κόσμο.
+# $attrs (string) - link to https://www.mozilla.org/firefox/all/
+features-translate-the-internet-is = Το διαδίκτυο είναι γεμάτο με εκπληκτικά πράγματα, αλλά πολλά από αυτά δεν είναι διαθέσιμα στη γλώσσα σας — συνεπώς, δισεκατομμύρια χρήστες από όλο τον κόσμο χρειάζονται μεταφραστή για να χρησιμοποιούν το διαδίκτυο. Μπορείτε να <a { $attrs }>κάνετε λήψη του { -brand-name-firefox } σε πάνω από 100 γλώσσες</a>, ώστε τα μενού, οι ειδοποιήσεις και τα μηνύματά του να είναι στην προτιμώμενη γλώσσα σας, αλλά αυτό δεν λύνει το πρόβλημα για όλο το απίθανο περιεχόμενο που μπορείτε να βρείτε στο διαδίκτυο.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = Η Μετάφραση { -brand-name-google }, με πάνω από 100 διαθέσιμες γλώσσες*, χρησιμοποιείται από εκατομμύρια άτομα σε όλο τον κόσμο. Όμως η εναλλαγή μεταξύ του translate.google.com και της σελίδας που προσπαθείτε να διαβάσετε δεν αποτελεί την ιδανική εμπειρία. Η επέκταση <a { $attrs }>To { -brand-name-google } Translate</a> κάνει τη μετάφραση σελίδων πιο εύκολη από ποτέ.

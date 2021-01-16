@@ -14,4 +14,7 @@ best-browser-if-youre-wondering = Αν αναρωτιέστε τι σημαίν�
 best-browser-a-browser-built-for = Ένα πρόγραμμα περιήγησης αναπτυγμένο για ταχύτητα.
 best-browser-a-browser-that-puts = Ένα πρόγραμμα περιήγησης με προτεραιότητα στην ασφάλεια.
 best-browser-a-browser-that-minds = Ένα πρόγραμμα περιήγησης που σέβεται το απόρρητό σας.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/firefox/new/
+best-browser-at-firefox-weve-worked = Στο <a href="{ $firefox }">{ -brand-name-firefox }</a>, εργαζόμαστε σκληρά για να αναπτύξουμε ένα πρόγραμμα περιήγηση που είναι δύο φορές πιο γρήγορο από πριν και προσφέρει στους χρήστες περισσότερο έλεγχο για τη διαδικτυακή τους ζωή.
 best-browser-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησης σας.
