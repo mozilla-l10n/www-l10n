@@ -67,5 +67,5 @@ firefox-more-fingerprinter-blocking = Bloqueio de rastreamento de identidade dig
 firefox-more-fingerprinting-is-a = <i>Fingerprinting</i> (rastreamento de identidade digital) é um tipo de rastreamento online mais invasivo do que o rastreamento comum baseado em cookies — é por isso que o { -brand-name-firefox-browser } bloqueia.
 firefox-more-translate-the-web = Traduza a web
 firefox-more-translate-more-than = Traduza mais de 100 idiomas para o seu, diretamente no { -brand-name-firefox-browser } — mais fácil do que nunca.
-firefox-more-a-guide-to = Um guia para contas e senhas mais seguras
+firefox-more-a-guide-to = Um guia de contas e senhas mais protegidas
 firefox-more-more-and-more = Cada vez mais coisas valiosas e sensíveis em nossas vidas são protegidas por senhas.
