@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = Para 2002, <a href="{ $over90 }">más del 90% de 
 history-not-many-people-noticed = No mucha gente se dio cuenta en ese momento, pero la primera versión de Phoenix (posteriormente renombrada como { -brand-name-firefox }) también fue lanzada por miembros de la comunidad de { -brand-name-mozilla } ese año con el objetivo de proporcionar la <a href="{ $charter }">la mejor experiencia de navegación posible</a> al mayor número posible de personas.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } creó la fundación { -brand-name-mozilla }, una <a href="{ $foundation }">organización independiente sin fines de lucro</a> apoyada por donantes individuales y una variedad de empresas.
+history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } creó la { -brand-name-mozilla-foundation }, una <a href="{ $foundation }">organización independiente sin fines de lucro</a> apoyada por donantes individuales y una variedad de empresas.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = La nueva { -brand-name-mozilla-foundation } continuó con el rol de gestionar las operaciones diarias del proyecto y también asumió oficialmente el papel de promover <a href="{ $manifesto }"> la apertura, la innovación y la oportunidad</a> en Internet.
@@ -72,3 +72,8 @@ history-the-mozilla-community-together = La comunidad de { -brand-name-mozilla }
 history-if-you-want-to-join-us-in = Si querés unirte a nosotros en nuestra misión, <a href="{ $Contribute }">involucrate</a>.
 history-for-more-information-about = Para obtener más información sobre el historial de { -brand-name-mozilla }, consultá lo siguiente:
 history-mozilla-bookmarks = Marcadores de { -brand-name-mozilla }
+history-timeline-of-mozilla-project = Cronología del proyecto { -brand-name-mozilla }
+history-mozilla-digital-memory-bank = Banco de memoria digital de { -brand-name-mozilla }
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">La histroria de los afiches { -brand-name-firefox } y { -brand-name-mozilla }</a> (disponible en inglés y en japonés)
