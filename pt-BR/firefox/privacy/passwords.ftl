@@ -27,6 +27,7 @@ privacy-passwords-guessing-it = Adivinhando
 privacy-passwords-stealing-a-file = Roubando um arquivo que contém sua senha
 privacy-passwords-using-password-recovery = Usando recuperação de senha para redefinir
 privacy-passwords-tricking-you-into = Te enganando, fazendo com que a revele
+privacy-passwords-to-keep-your = Para manter sua conta protegida, você precisa evitar ao máximo deixar isso acontecer. Cada risco tem uma mitigação correspondente diferente.
 privacy-passwords-look-for-the = Procure o cadeado em seu navegador
 privacy-passwords-its-easy-to = É fácil evitar que invasores roubem sua senha ao acessar um site não criptografado: Pense duas vezes antes de digitar a senha caso não apareça um ícone de cadeado na barra de endereços do navegador, como este:
 privacy-passwords-a-closed-lock = Um cadeado fechado aparece à esquerda do endereço do site na barra de endereços em todos os principais navegadores.
