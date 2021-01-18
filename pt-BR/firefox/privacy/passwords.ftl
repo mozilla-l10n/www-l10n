@@ -37,6 +37,7 @@ privacy-passwords-your-browser-also = Seu navegador também mantém você inform
 privacy-passwords-firefox-will = O Firefox exibe um aviso em vez do site se este for conhecido por ser fraudulento.
 privacy-passwords-in-general-the = Em geral, a melhor defesa contra fraudes é <strong>suspeitar do que você recebe</strong>, seja por email, mensagem de texto ou telefone. Ao invés de agir seguindo a indicação de alguém, visite o site diretamente. Por exemplo, se um email diz que você precisa redefinir sua senha do PayPal, <strong>não clique</strong> no link. Digite <i>paypal.com</i> você mesmo na barra de endereços. Se telefonarem dizendo ser do banco, desligue e ligue de volta para o número de atendimento.
 privacy-passwords-strength-in-diversity = Força na diversidade
+privacy-passwords-the-secret-to = O segredo de evitar adivinhação, roubo ou redefinição de senha é usar bastante aleatoriedade. Quando invasores tentam adivinhar senhas, geralmente fazem duas coisas:<br>1) Usar “dicionários” — listas de senhas comuns que as pessoas usam o tempo todo.<br>2) Tentar alguns palpites aleatórios.<br>Quanto <strong>mais longa e aleatória for sua senha</strong>, menor a probabilidade de ser descoberta por qualquer dessas técnicas de adivinhação.
 privacy-passwords-security-questions-my = Perguntas de segurança: O nome de solteira da minha mãe é “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Tenha ajuda de um gerenciador de senhas
 privacy-passwords-twofactor-authentication-2fa = Autenticação em duas etapas
