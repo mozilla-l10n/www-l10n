@@ -33,6 +33,7 @@ privacy-passwords-its-easy-to = É fácil evitar que invasores roubem sua senha 
 privacy-passwords-a-closed-lock = Um cadeado fechado aparece à esquerda do endereço do site na barra de endereços em todos os principais navegadores.
 privacy-passwords-the-lock-means = O cadeado significa que o site é criptografado, Assim, mesmo que alguém esteja vigiando sua navegação (por exemplo, em uma rede Wi-Fi pública), ela não consegue ver sua senha. O { -brand-name-firefox } te avisa quando você está prestes a inserir uma senha num site não criptografado.
 privacy-passwords-a-padlock-with = Um cadeado cortado por uma linha indica que a conexão não é segura.
+privacy-passwords-your-browser-also = Seu navegador também te mantém informado sobre o quão confiáveis são os sites, ajudando a te manter protegido contra fraudes. Ao tentar acessar um site conhecido por ser fraudulento, o { -brand-name-firefox } (assim como qualquer outro grande navegador) exibe um aviso de página inteira — <strong>preste atenção e pense duas vezes antes de usar esse site!</strong>
 privacy-passwords-firefox-will = O Firefox exibe um aviso em vez do site se este for conhecido por ser fraudulento.
 privacy-passwords-strength-in-diversity = Força na diversidade
 privacy-passwords-security-questions-my = Perguntas de segurança: O nome de solteira da minha mãe é “Ff926AKa9j6Q”
