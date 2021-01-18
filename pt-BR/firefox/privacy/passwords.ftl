@@ -35,6 +35,7 @@ privacy-passwords-the-lock-means = O cadeado significa que o site é criptografa
 privacy-passwords-a-padlock-with = Um cadeado cortado por uma linha indica que a conexão não é segura.
 privacy-passwords-your-browser-also = Seu navegador também te mantém informado sobre o quão confiáveis são os sites, ajudando a te manter protegido contra fraudes. Ao tentar acessar um site conhecido por ser fraudulento, o { -brand-name-firefox } (assim como qualquer outro grande navegador) exibe um aviso de página inteira — <strong>preste atenção e pense duas vezes antes de usar esse site!</strong>
 privacy-passwords-firefox-will = O Firefox exibe um aviso em vez do site se este for conhecido por ser fraudulento.
+privacy-passwords-in-general-the = Em geral, a melhor defesa contra fraudes é <strong>suspeitar do que você recebe</strong>, seja por email, mensagem de texto ou telefone. Ao invés de agir seguindo a indicação de outra pessoa, visite o site diretamente. Por exemplo, se um email diz que você precisa redefinir sua senha do PayPal, <strong>não clique</strong> no link. Digite <i>paypal.com</i> você mesmo na barra de endereços. Se telefonarem do banco, desligue e ligue de volta.
 privacy-passwords-strength-in-diversity = Força na diversidade
 privacy-passwords-security-questions-my = Perguntas de segurança: O nome de solteira da minha mãe é “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Tenha ajuda de um gerenciador de senhas
