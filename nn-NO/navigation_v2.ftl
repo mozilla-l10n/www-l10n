@@ -13,6 +13,7 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Lat att { -brand-name-firefox-browsers }-menyen
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
 navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Få den tilpassbare mobilnettlesaren for { -brand-name-android }-smarttelefonar.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 
 ## Products menu
