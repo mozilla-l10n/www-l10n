@@ -118,6 +118,7 @@
     }
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-festival = Mozillin festival
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -133,6 +134,7 @@
 ## Mozilla projects (legacy)
 
 -brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
