@@ -44,6 +44,7 @@ privacy-passwords-when-an-attacker = Quando um invasor rouba o banco de dados de
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Use o <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> para ficar de olho nos endereços de email associados às suas contas. Se o seu endereço de email aparecer em um vazamento de dados conhecido de uma empresa, você será alertado e receberá instruções de como proteger a conta afetada.
 privacy-passwords-security-questions-my = Perguntas de segurança: O nome de solteira da minha mãe é “Ff926AKa9j6Q”
+privacy-passwords-finally-most-websites = Finalmente, a maioria dos sites permite recuperar sua senha caso a tenha esquecido. Normalmente, esses sistemas pedem para você responder algumas “perguntas de segurança” antes de poder redefinir a senha. <strong>As respostas a essas perguntas precisam ser tão protegidas quanto sua senha</strong>. Caso contrário, um invasor pode adivinhar as respostas e mudar a senha.
 privacy-passwords-get-help-from = Tenha ajuda de um gerenciador de senhas
 privacy-passwords-twofactor-authentication-2fa = Autenticação em duas etapas
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
