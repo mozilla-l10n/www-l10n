@@ -53,7 +53,7 @@ privacy-passwords-when-youre-logged = Quando você entra no { -brand-name-firefo
 privacy-passwords-twofactor-authentication-2fa = Autenticação em duas etapas
 privacy-passwords-2fa-is-a = Autenticação em duas etapas é uma ótima maneira de aumentar a segurança. Ao criar uma nova conta, alguns sites oferecem opção de adicionar um “segundo fator” ao acesso. Com frequência, significa vincular a conta ao número de seu celular, de modo que, após digitar a senha, é solicitado informar um código de segurança enviado diretamente a você. Dessa forma, se um hacker conseguir a senha, mesmo assim não consegue entrar em sua conta, uma vez que não está com seu celular.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
-privacy-passwords-your-firefox-account = Sua Conta { -brand-name-firefox }, por exemplo, pode ser protegida com autenticação em duas etapas, <a { $url_sumo_2fa }>sobre a qual você pode saber mais aqui</a>.
+privacy-passwords-your-firefox-account = Sua Conta { -brand-name-firefox }, por exemplo, pode ser protegida com autenticação em duas etapas. <a { $url_sumo_2fa }>Saiba mais</a>.
 #   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
 privacy-passwords-2fa-provides-much = A autenticação em duas etapas fornece muito mais segurança do que uma senha sozinha, mas nem todos os sites oferecem suporte a isso. Você pode encontrar uma lista de sites que oferecem suporte à autenticação em duas etapas em <a { $url_2fa }>https://twofactorauth.org</a>, assim como uma lista de sites que não oferecem suporte e maneiras de pedir que adicionem este recurso.
-privacy-passwords-strong-diverse-and = Forte, diversa e em múltiplas etapas
+privacy-passwords-strong-diverse-and = Forte, diversa e em várias etapas
