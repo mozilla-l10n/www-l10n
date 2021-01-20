@@ -67,6 +67,7 @@ navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Wobstarajće sej wobhladowak { -brand-name-firefox }, jenož za wuwiwarjow wutworjeny.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Wopytajće strony z resursami za webwuwiwarjow.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Wuslědźće web z wobhladowakom { -brand-name-firefox } za wirtuelnu realitu.
 navigation-v2-common-voice = { -brand-name-common-voice }
