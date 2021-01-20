@@ -14,6 +14,10 @@ password-manager-password-manager = Conquista de Gerenciador de Senha desbloquea
 password-manager-give-up-the-memory = Desista do jogo de memória com o Gerenciador de Senhas do { -brand-name-firefox }.
 password-manager-password-hero = Héroi das senhas
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Deixe de redefinir senhas. O gerenciador de senhas do { -brand-name-firefox } guarda todas as suas senhas, assim você pode entrar em contas automaticamente ou encontrar senhas salvas com facilidade. Para reforçar a segurança, defina no seu computador uma <a href="{ $url }">senha principal</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Deixe o "Esqueci a senha" para lá. O Gerenciador de Senhas do { -brand-name-firefox } mantém todas as suas senhas para que você possa entrar automaticamente ou encontrar suas senhas salvas mais fácil. Para uma super segurança, dê ao seu computador uma <a href="{ $url }">senha mestra</a>.
 password-manager-password-magician = Mágico de senhas
