@@ -11,10 +11,10 @@ not-found-page-were-all-about-a-healthy-internet = Jde nám o zdravý internet, 
 not-found-page-go-back = Zpátky
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zjistěte více</a> o Mozille, neziskové organizaci, která je autorem { -brand-name-firefox }u.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zjistěte více</a> o { -brand-name-mozilla(case: "loc") }, neziskové organizaci, která je autorem { -brand-name-firefox(case: "gen") }.
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Podívejte se</a> na celou rodinu produktů { -brand-name-firefox } navržených s ohledem na vaše soukromí.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Stáhněte si</a> prohlížeč { -brand-name-firefox } do svého mobilního zařízení nebo počítače
+not-found-page-download-the-firefox-browser = <a href={ $download }>Stáhněte si</a> { -brand-name-firefox(case: "acc") } do svého mobilního zařízení nebo počítače
