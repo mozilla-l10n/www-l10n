@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = Muhtemelen sadece sunucu hatasıd�
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = Bu sayfayı tazelemeyi deneyebilir veya <a href={ $firefox }>firefox.com</a> ya da <a href={ $mozilla }>mozilla.org</a>’a gidebilirsiniz
-# Outdated string
-error-page-an-error-occurred = Bir hata oluştu.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = Sitelerimizden birinde hata bulduysanız sorunu <a href="{ $bugzilla }">hata takip sistemimiz</a> { -brand-name-bugzilla } üzerinden bize bildirirseniz çok seviniriz. Böylece geliştiricilerimiz en kısa sürede sorunla ilgilenebilir.

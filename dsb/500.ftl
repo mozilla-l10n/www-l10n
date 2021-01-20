@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = Jo nejskerjej jano serwerowy probl
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = Móžośo teke wopytaś, toś ten bok aktualizěrowaś abo k <a href={ $firefox }>firefox.com</a> abo <a href={ $mozilla }>mozilla.org</a> pśejś
-# Outdated string
-error-page-an-error-occurred = Zmólka jo nastała.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = Jolic sćo na problem na jadnom z našych websedłow starcył, dajśo nam to pšosym k wěsći w { -brand-name-bugzilla }, našom <a href="{ $bugzilla }">systemje za slědowanje zmólkow</a>. Jaden z našych wuwijarjow se to tak skóro ako móžno woglědajo.

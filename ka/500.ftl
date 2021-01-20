@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = ეტყობა სერვე
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = შეგიძლიათ კვლავ სცადოთ გვერდის გახსნა ან მოინახულოთ <a href={ $firefox }>firefox.com</a> და <a href={ $mozilla }>mozilla.org</a>
-# Outdated string
-error-page-an-error-occurred = წარმოიქმნა შეცდომა.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = თუ აღმოაჩინეთ რამე ხარვეზი ჩვენს რომელიმე ვებსაიტზე, მოხარულნი ვიქნებით, თუ მოგვახსენებთ ამ ხარვეზის შესახებ { -brand-name-bugzilla }-ში, <a href="{ $bugzilla }">ჩვენს ხოჭოების აღმნუსხავში</a>. ჩვენი შემმუშავებლებიდან რომელიმე, შეძლებისდაგვარად, უმოკლეს დროში მიხედავს ამ საქმეს.

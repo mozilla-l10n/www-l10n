@@ -3,5 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 error-page-error-page-internal-server-error = 500: অভ্যন্তরীণ সার্ভার সমস্যা
-# Outdated string
-error-page-an-error-occurred = ত্রুটি ঘটেছে।

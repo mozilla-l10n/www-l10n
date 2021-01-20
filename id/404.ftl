@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Kenali</a> s
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Unduh</a> browser { -brand-name-firefox } untuk perangkat seluler atau desktop Anda
-# Outdated string
-not-found-page-whoops = Aduh!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Salah belok saat membuka URL terakhir? Tidak ada masalah. Berikut adalah beberapa kiat untuk kembali ke jalan yang benar:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Jika Anda mengetikkan alamat, periksa ejaannya. Bisa saja ada saalh ketik.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Jika Anda menemukan masalah pada salah satu situs web kami, kami akan sangat berterima kasih jika Anda melaporkannya ke { -brand-name-bugzilla }, <a href="{ $bugzilla }">pelacak bug</a> kami. Salah satu pengembang kami akan membaca laporannya segera.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Jika Anda mengikuti dari sebuah tautan, tautannya mungkin rusak.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Jika tidak yakin dengan apa yang Anda cari, silakan mulai di <a href="{ $url }">mozilla.org</a>.

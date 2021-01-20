@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Archwilio'r<
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Llwytho i lawr</a> y porwr { -brand-name-firefox } ar gyfer eich dyfais symudol neu'ch bwrdd gwaith
-# Outdated string
-not-found-page-whoops = Wps!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Aethoch chi i'r dde yn lle'r chwith wrth yr URL diwethaf? Dim problem. Dyma rhai awgrymiadau ar sut i gael yn ôl ar eich ffordd:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Os wnaethoch chi deipio cyfeiriad, gwiriwch eich sillafu. Bosib mai cam-deipio sydd ar fai.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Os ydych wedi gweld rhywbeth o’i le ar ein gwefan, byddwn yn falch petai modd i chi nodi'r mater yn { -brand-name-bugzilla }, ein trefn <a href="{ $bugzilla }">cofnodi gwallau</a>. Bydd un o'n datblygwyr yn cael golwg arno gynted ag y bo modd.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Os oeddech wedi dilyn dolen, o bosib mae wedi torri.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Os nad ydych yn siŵr am beth rydych yn edrych amdano, beth am gychwyn yn <a href="{ $url }">mozilla.org</a>.

@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = Det er sannsynligvis bare en serve
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = Du kan også prøve å laste inn denne siden på nytt eller gå til <a href={ $firefox }>firefox.com</a> eller <a href={ $mozilla }>mozilla.org</a>
-# Outdated string
-error-page-an-error-occurred = Det oppstod en feil.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = Om du har funnet et problem med noen av nettstedene våre, setter vi pris på om du kunne rapportere problemet i <a href="{ $bugzilla }">feilrapporteringssystemet</a> vårt, { -brand-name-bugzilla }. En av utviklerne våre vil se på det så snart som mulig.

@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = Вероватно је у пит�
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = Можете покушати освежити ову страницу или отићи на <a href={ $firefox }>firefox.com</a> или <a href={ $mozilla }>mozilla.org</a>
-# Outdated string
-error-page-an-error-occurred = Дошло је до грешке.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = Ако сте открили проблем са неком од наших веб страница, били би јако захвални ако бисте нас обавестили о томе на { -brand-name-bugzilla }-и, нашем <a href="{ $bugzilla }">трагачу грешака</a>. Један од наших програмера ће бацити поглед што је пре могуће.

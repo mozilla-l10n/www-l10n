@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = Het is waarschijnlijk slechts een 
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = U kunt ook proberen deze pagina te vernieuwen, of ga naar <a href={ $firefox }>firefox.com</a> of <a href={ $mozilla }>mozilla.org</a>
-# Outdated string
-error-page-an-error-occurred = Er is een fout opgetreden.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = Als u een probleem met een van onze websites hebt gevonden, zouden we het waarderen als u dit meldt in { -brand-name-bugzilla }, onze <a href="{ $bugzilla }">bugtracker</a>. Een van onze ontwikkelaars zal er dan zo snel mogelijk naar kijken.

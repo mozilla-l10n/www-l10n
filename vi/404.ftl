@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Khám phá</
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Tải xuống</a> trình duyệt { -brand-name-firefox } cho thiết bị di động hoặc máy tính để bàn của bạn
-# Outdated string
-not-found-page-whoops = Whoops!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Có phải bạn đã nhầm URL? Không sao. Đây là một số gợi ý giúp bạn:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Địa chỉ bạn điền có thể bị sai. Vui lòng kiểm tra lại.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Nếu bạn tìm thấy một vấn đề nào đó với một trong những trang web của chúng tôi, chúng tôi sẽ rất cảm kích nếu bạn thông báo vấn đề đó trên { -brand-name-bugzilla }, <a href="{ $bugzilla }">trang báo lỗi</a> của chúng tôi. Một trong những nhà phát triển của chúng tôi sẽ kiểm tra nó sớm nhất có thể.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Nếu bạn theo một liên kết, nó có thể bị hỏng.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Nếu bạn không chắc chắn những gì bạn đang tìm kiếm, hãy bắt đầu từ <a href="{ $url }">mozilla.org</a>.

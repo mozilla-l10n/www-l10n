@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Raziščite<
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Prenesite</a> brskalnik { -brand-name-firefox } za vašo mobilno napravo ali namizje
-# Outdated string
-not-found-page-whoops = Ups!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Ste na zadnji povezavi zavili levo namesto desno? Ni problema! Tukaj je nekaj nasvetov, kako se lahko vrnete na pravo pot:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Če ste sami vnesli naslov, preverite črkovanje. Morda ste se zatipkali.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Če ste odkrili napako na kateri izmed naših strani, vam bomo hvaležni, če jo prijavite v Bugzilli, našem <a href="{ $bugzilla }">sledilniku zahtev</a>. Razvijalci jo bodo vzeli pod drobnogled v najkrajšem možnem času.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Če ste sledili povezavi, je verjetno pokvarjena.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Če ne veste kod in kam, začnite znova na <a href="{ $url }">mozilla.org</a>.

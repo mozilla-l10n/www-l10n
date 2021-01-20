@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Pozrite sa</
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Prevezmite si</a> prehliadač { -brand-name-firefox } do svojho mobilného zariadenia alebo počítača
-# Outdated string
-not-found-page-whoops = Ejha!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Vydali ste sa na poslednej URL adrese zlým smerom? Nevadí. Máme pre vás pár tipov, ako všetko vrátiť na správnu cestu:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Ak ste zadávali adresu ručne, dôkladne ju skontrolujte. Je možné, že je v nej len obyčajný preklep.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = V prípade, že ste našli chybu na jednej z našich stránok, veľmi oceníme, ak nám ju nahlásite do Bugzilly, nášho <a href="{ $bugzilla }">bug trackera</a>. Naši vývojári sa na hlásenie pozrú hneď, ako to bude možné.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Ak ste sa sem dostali cez odkaz z nejakej stránky, bol pravdepodobne chybný.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Ak neviete, čo presne hľadáte, začnite na <a href="{ $url }">mozilla.org</a>.

@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Esplora</a> 
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Scarica</a> il browser { -brand-name-firefox } per il tuo dispositivo mobile o desktop.
-# Outdated string
-not-found-page-whoops = Oops!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Per caso hai svoltato a sinistra invece che a destra all’ultimo URL? Nessun problema, ecco alcuni consigli utili per ritrovare la strada:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = se hai digitato l’indirizzo verifica di averlo scritto correttamente, potrebbe trattarsi di un banale errore di battitura;
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = se si tratta di un errore in uno dei nostri siti sarebbe ideale segnalarlo in { -brand-name-bugzilla }, il nostro <a href="{ $bugzilla }">sistema di gestione dei bug</a>. Gli sviluppatori verificheranno la segnalazione il prima possibile;
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = se sei arrivato qui seguendo un link, probabilmente era sbagliato;
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = se non sai con certezza dove vuoi andare, <a href="{ $url }">mozilla.org</a> è sicuramente un buon punto di partenza.

@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = Ikatu mohendahavusu ojavy ha romba
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = Ikatu avei embohekopyahu ko kuatiarogue térã eho <a href={ $firefox }>firefox.com</a> térã <a href={ $mozilla }>mozilla.org-pe</a>
-# Outdated string
-error-page-an-error-occurred = Oiko jejavy.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = Ojejuhu peteĩ apañuãi peteĩva umi ñanduti rendápe, romboaguyjéta ikatúramo emombe’umi { -brand-name-bugzilla }-pe, ore <a href="{ $bugzilla }">jejave rekaha</a>. Peteĩva ore mboguatahára ojecháta ijáre chupe.

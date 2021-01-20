@@ -6,5 +6,3 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Pagina Pas Trobada
-# Outdated string
-not-found-page-whoops = Ops !

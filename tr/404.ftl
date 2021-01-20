@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = Gizliliğinize saygı gösteren {
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = Mobil cihazınız veya bilgisayarınız için { -brand-name-firefox } tarayıcısını <a href={ $download }>indirin</a>.
-# Outdated string
-not-found-page-whoops = Ouokl!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = O son URL’den sola döneceğinize sağa mı döndünüz? Sorun değil. Yolunuzu bulmanız için birkaç ipucu verelim:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Adresi elle yazdıysanız kontrol edin. Yazım hatası yapmış olabilirsiniz.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Web sitelerimizden birinde bir sorun bulduysanız onu <a href="{ $bugzilla }">hata takip sistemimiz</a> { -brand-name-bugzilla }’da rapor ederseniz seviniriz. Geliştiricilerimizden biri en kısa sürede raporunuzu inceleyecektir.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Bir bağlantıya tıkladıysanız muhtemelen bağlantı hatalıdır.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Ne aradığınızdan emin değilseniz <a href="{ $url }">mozilla.org</a> adresinden başlayın.

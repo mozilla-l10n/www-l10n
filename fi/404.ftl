@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = Tutustu kokonaiseen <a href={ $ex
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Lataa</a> { -brand-name-firefox } mobiililaitteellesi tai työpöydällesi
-# Outdated string
-not-found-page-whoops = Hupsista!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Käännyitkö vasempaan viimeisessä URL:ssä sen sijaan, että olisit kääntynyt oikeaan? Ei hätää. Tässä muutamia vinkkejä oikean suunnan löytämiseen:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Jos kirjoitit osoitteen käsin, tarkista oikeinkirjoitus. Kyseessä saattaa olla vain kirjoitusvirhe.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Jos olet löytänyt ongelman joltakin sivustoltamme, arvostaisimme jos ilmoittaisit siitä { -brand-name-bugzilla }ssa, meidän <a href="{ $bugzilla }">virheenjäljittimessämme</a>. Joku kehittäjistämme vilkaisee sitä niin pian kuin mahdollista.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Jos napsautit linkkiä, se on luultavasti poikki.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Jos et ole varma siitä mitä etsit, aloita osoitteesta <a href="{ $url }">mozilla.org</a>.

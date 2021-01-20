@@ -9,9 +9,3 @@ error-page-its-probably-just-a-server-error = It’s probably just a server erro
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
 error-page-you-can-also-try-refreshing = You can also try refreshing this page or go to <a href={ $firefox }>firefox.com</a> or <a href={ $mozilla }>mozilla.org</a>
-# Outdated string
-error-page-an-error-occurred = An error occurred.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-error-page-if-youve-found-an-issue-with = If you’ve found an issue with one of our web sites, we’d appreciate it if you could report the problem in { -brand-name-bugzilla }, our <a href="{ $bugzilla }">bug tracker</a>. One of our developers will take a look at it as soon as possible.

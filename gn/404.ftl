@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Ejeporeka</a
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Emboguejy</a> { -brand-name-firefox } kundahára ne mba’e’oka térã mohendaha mesa ariguápe
-# Outdated string
-not-found-page-whoops = ¡Rombyasyeterei!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = ¿Eguereko nde asu gotyo URL kundaharape paha akatúa pegua rãngue? Ndaipóri apañuãi. Ko'ãva ha'e ñemoñe'ẽ nepytyvõ hag̃ua ojevyjeývo hendaguépe:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Ehaíramo kundaharape, ehechajey nde jehai. Ikatuhína peteĩ jejavy jehaípe año.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Ejuhúramo peteĩ apañuãi peteĩva umi ñanduti rendápe, roaguyjeme'ẽta ikatúramo emombe'u apañuãi { -brand-name-bugzilla }-pe, ore <a href="{ $bugzilla }">jejavy reheguáva</a>. Peteĩva umi ore mboguatahára ikatu ohecha chupe pya'emivoi.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Ehapykuehóvo peteĩ juajuha, ikatuvahína oso.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Ndereikuaaporãiramo upe rehekavahína, oñepyrũta <a href="{ $url }">mozilla.org</a>.

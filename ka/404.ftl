@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>გამო
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ჩამოტვირთეთ</a> { -brand-name-firefox }-ბრაუზერი მობილურ მოწყობილობაზე ან კომპიუტერზე
-# Outdated string
-not-found-page-whoops = ვაჰ!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = ბოლო ბმულზე მარჯვნივ წასვლის ნაცვლად მარცხნივ შეუხვიეთ? არა უშავს. აი, რამდენიმე რჩევა, რომელიც სწორ გზაზე დაბრუნებაში დაგეხმარებათ:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = თუ მისამართი ხელით აკრიფეთ, შეამოწმეთ მისი სისწორე. შესაძლოა, უბრალოდ მცდარბეჭდილი იყოს.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = თუ ჩვენს ერთ-ერთ საიტზე რამე ხარვეზი აღმოაჩინეთ, მადლობელი დაგრჩებით, თუ ამის შესახებ მოგვახსენებთ { -brand-name-bugzilla }-ში, ჩვენს <a href="{ $bugzilla }">ხოჭოების აღმნუსხავში</a>. ჩვენი შემმუშავებლების გუნდის რომელიმე წევრი, შეეცდება შეძლებისდაგვარად სწრაფად მიხედოს ამ საკითხს.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = თუ თქვენ ბმულს მიჰყევით, შესაძლოა ის დაზიანებულია.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = თუ არ ხართ დარწმუნებული რას ეძებთ, დაიწყეთ <a href="{ $url }">mozilla.org</a> საწყისი გვერდიდან.

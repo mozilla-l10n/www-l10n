@@ -3,5 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 error-page-error-page-internal-server-error = 500: ဆာဗာအတွင်းမှားယွင်းမှု
-# Outdated string
-error-page-an-error-occurred = မှားယွင်းမှုတစ်ခုဖြစ်ပွားခဲ့သည်။

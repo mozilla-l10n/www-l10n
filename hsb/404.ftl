@@ -18,19 +18,3 @@ not-found-page-explore-the-entire-family-for = <a href={ $explore }>Wuslědźće
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Sćehńće</a> wobhladowak { -brand-name-firefox } za swój mobilny grat abo desktop
-# Outdated string
-not-found-page-whoops = Hopla!
-# Outdated string
-not-found-page-did-you-make-a-left-at-that = Sće pola poslednjeho URL dolěwa wotbočił město doprawa? Žadyn problem. Tu su někotre pokiwy, kak so wróćo na swój puć dóstanjeće:
-# Outdated string
-not-found-page-if-you-typed-in-the-address = Jeli sće swoju adresu zapodał, kontrolujće swój prawopis. To je snano jenož pisanski zmylk.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://bugzilla.mozilla.org/enter_bug.cgi?product=www.mozilla.org
-not-found-page-if-youve-found-an-issue-with = Jeli sće na problem z jednym z našich websydłow storčił, bychmy so wjeselili, jeli byšće w { -brand-name-bugzilla } wo tutym problemje rozprawjał, to je naš <a href="{ $bugzilla }">zrjadowak programowych zmylkow</a>. Jedyn z našich wuwiwarjow sej to tak bórze kaž móžno wobhlada.
-# Outdated string
-not-found-page-if-you-followed-a-link-its-probably = Jeli sće wotkazej slědował, je wón najskerje njepłaćiwy.
-# Outdated string
-# Variables:
-#   $bugzilla (url) - link to https://www.mozilla.org/
-not-found-page-if-youre-not-sure-what-youre = Jeli sej wěsty njejsće, za čimž pytaće, započńće na <a href="{ $url }">mozilla.org</a>.
