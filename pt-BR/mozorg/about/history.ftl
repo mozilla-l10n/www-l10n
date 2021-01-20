@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = Em 2002, <a href="{ $over90 }">bem mais de 90 % d
 history-not-many-people-noticed = Muitas pessoas não notaram na hora, mas a primeira versão do Phoenix (mais tarde renomeado para { -brand-name-firefox }) também foi lançada por membros da Comunidade { -brand-name-mozilla } naquele ano com o objetivo de proporcionar o <a href="{ $charter }">melhor possível a experiência de navegação</a> para o maior conjunto possível de pessoas.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = Em 2003, o projeto { -brand-name-mozilla } criou a Fundação { -brand-name-mozilla }, uma <a href="{ $foundation }">organização sem fins lucrativos independente</a>, apoiada por doadores individuais e uma variedade de empresas.
+history-in-2003-the-mozilla-project = Em 2003, o projeto { -brand-name-mozilla } criou a { -brand-name-mozilla-foundation }, uma <a href="{ $foundation }">organização independente sem fins lucrativos</a>, apoiada por doadores individuais e uma variedade de empresas.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = A nova Fundação Mozilla continuou no papel de gerenciar as operações diárias do projeto e também assumiu oficialmente o papel de promover a <a href="{ $manifesto }">abertura, inovação e oportunidade</a> na Internet.
+history-the-new-mozilla-foundation = A nova { -brand-name-mozilla-foundation } continuou no papel de gerenciar as operações diárias do projeto e também assumiu oficialmente o papel de promover <a href="{ $manifesto }">abertura, inovação e oportunidade</a> na internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Continuou a liberar o software, como o { -brand-name-firefox } e o { -brand-name-thunderbird }, alem de expandir para novas áreas, tais como o fornecimento de <a href="{ $grants }">subsídios</a> para apoiar a melhoria da acessibilidade na Web.
@@ -52,7 +52,7 @@ history-new-versions-of-firefox = Novas versões do { -brand-name-firefox } são
 history-the-renewed-competition = A competição renovada tem <a href="{ $innovation }">inovação acelerada</a> e melhora a Internet para todos.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
-history-in-2013-we-launched-firefox = Em 2013, lançamos <a href="{ $firefoxos }">OS Firefox</a> para liberar o poder total da Web em smartphones e mais uma vez oferecer controle e escolha de uma nova geração de pessoas on-line.
+history-in-2013-we-launched-firefox = Em 2013, lançamos o <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> para liberar todo o poder da web em smartphones e mais uma vez oferecer controle e escolha a uma nova geração de pessoas que estavam começando a acessar online.
 history-mozilla-also-celebrated = { -brand-name-mozilla } também celebrou o seu 15º aniversário em 2013.
 history-the-community-has-shown = A comunidade tem mostrado que as empresas comerciais podem se beneficiar colaborando em projetos de código aberto e que grande produtos para os usuários finais podem ser produzido como software de código aberto.
 # Variables:
