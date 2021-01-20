@@ -12,8 +12,11 @@ privacy-passwords-a-security-guide = 更安全的登入資訊與密碼指南
 privacy-passwords-protecting-your-accounts = 保護帳號沒有那麼難，讓 { -brand-name-firefox } 來幫忙。
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = 懶人包：
+privacy-passwords-use-random-passwords = 對不同的網站使用不同的隨機密碼
 privacy-passwords-use-twofactor-authentication = 盡可能開啟「兩階段身分驗證」
+privacy-passwords-tricking-you-into = 欺騙您主動交出
 privacy-passwords-look-for-the = 尋找瀏覽器中的鎖頭
+privacy-passwords-strength-in-diversity = 有差異，更安全
 privacy-passwords-security-questions-my = 安全性確認問題：我媽媽的娘家姓氏是「Ff926AKa9j6Q」
 privacy-passwords-get-help-from = 使用密碼管理員協助管理
 privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
