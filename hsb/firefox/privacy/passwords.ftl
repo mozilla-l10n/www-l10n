@@ -9,6 +9,7 @@
 privacy-passwords-security-guide-to = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
 # page content
 privacy-passwords-a-security-guide = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
+privacy-passwords-protecting-your-accounts = Škitanje wašich kontow nejtrjeba komplikowane być – a { -brand-name-firefox } móže pomhać.
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Zjeće:
 privacy-passwords-use-random-passwords = Wužiwajće připadne hesła, a wužiwajće druhe hesło za kóžde sydło
@@ -17,6 +18,10 @@ privacy-passwords-its-hard-out = Hesła so ćežko maja
 privacy-passwords-seeing-you-use = Widźi, zo jo z njezaklučowanym websydłom
 privacy-passwords-guessing-it = Zhóduje jo
 privacy-passwords-stealing-a-file = Kradnje dataju, kotraž waše hesło wobsahuje
+privacy-passwords-using-password-recovery = Wužiwa hesłowe wobnowjenje, zo by jo wróćo stajił
+privacy-passwords-tricking-you-into = Pohnuwa was k tomu, zo jo jemu dawaće.
+privacy-passwords-look-for-the = Pytajće zamk w swojim wobhladowaku
+privacy-passwords-a-padlock-with = Přešmórnjeny zamk podawa, zo zwisk wěsty njeje
 privacy-passwords-strength-in-diversity = Sylnosć we wšelakorosći
 privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeho maćerje je „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajće sej pomoc wot zrjadowaka hesłow
