@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Installar { -brand-name-firefox } des
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Installar { -brand-name-firefox } como application pro { -brand-name-linux }: isto require alcun passos, ma vale le pena. Quando tu installa le navigator { -brand-name-firefox } como application de { -brand-name-linux }, tu obtene le navigator { -brand-name-firefox } pro scriptorio con tote su beneficios, como le Protection antitraciamento reinfortiate, un gestor de contrasignos includite, accesso a milles de additivos (como le blocator de annuncios UBlock Origin), e themas pro personalisar le apparentia de tu navigator. <a { $url }>Apprende plus sur le installation del navigator { -brand-name-firefox } pro scriptorio sur { -brand-name-chromebook }.</a>
