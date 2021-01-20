@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = Richin ri juna' 2002, <a href="{ $over90 }"> jot�
 history-not-many-people-noticed = Man k'ïy ta winaqi' xkiya' retal chi ri mej ri', ri nab'ey ruwäch Phoenix (k'a ri xkib'ini'aj { -brand-name-firefox }) chuqa' xelesäx pe kuma ruwinaq ri { -brand-name-mozilla } tinamït ri juna' ri', akuchi' nirayb'ëx niya' ri <a href="{ $charter }">ütz etamab'äl pa ruwi' okem pa k'amaya'l</a> chi ke ri tikirel k'ïy chi winaqi'.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = Pa 2003, ri { -brand-name-mozilla } nimasamaj xunük' ri { -brand-name-mozilla } Moloj, jun <a href="{ $foundation }">jun jachon moloj ri man nrojqan ta ch'akoj</a> rik'in kito'ik juyonil taq to'onela' chuqa' nimaläj jalajöj taq ajk'aymoloj.
+history-in-2003-the-mozilla-project = Pa 2003, ri { -brand-name-mozilla } nimasamaj xunük' ri { -brand-name-mozilla-foundation }, jun <a href="{ $foundation }">jun jachon moloj ri man nrojqan ta ch'akoj</a> rik'in kito'ik juyonil taq to'onela' chuqa' nimaläj jalajöj taq ajk'aymoloj.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Ri k'ak'a' Mozilla Moloj xuk'wajb'ej kib'anikil q'ij q'ij rusamaj ri nimasamaj chuqa' xpa'e' chuwäch nusamajij nutaluj ri <a href="{ $manifesto }">rutikirib'al, tz'ukuj chuqa' samaj</a> pa K'amaya'l.
+history-the-new-mozilla-foundation = Ri k'ak'a' { -brand-name-mozilla-foundation } xuk'wajb'ej kib'anikil q'ij q'ij rusamaj ri nimasamaj chuqa' xpa'e' chuwäch nusamajij nutaluj ri <a href="{ $manifesto }">rutikirib'al, tz'ukuj chuqa' samaj</a> pa k'amaya'l.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Xub'än richin nojqäx rosq'opinik ri kema', achi'el ri { -brand-name-firefox } chuqa' { -brand-name-thunderbird }, chuqa' xapon pa k'ak'a' chik taq k'ojlib'äl, achi'el ri ruya'ik <a href="{ $grants }">taq to'ikil</a> richin nito' ri rutzijl okem pa Ajk'amaya'l.
