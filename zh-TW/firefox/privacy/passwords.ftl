@@ -13,7 +13,9 @@ privacy-passwords-protecting-your-accounts = 保護帳號沒有那麼難，讓 {
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = 懶人包：
 privacy-passwords-use-random-passwords = 對不同的網站使用不同的隨機密碼
+privacy-passwords-pay-attention-to = 注意瀏覽器中的安全信號，保持戒心
 privacy-passwords-use-twofactor-authentication = 盡可能開啟「兩階段身分驗證」
+privacy-passwords-guessing-it = 被猜中
 privacy-passwords-tricking-you-into = 欺騙您主動交出
 privacy-passwords-look-for-the = 尋找瀏覽器中的鎖頭
 privacy-passwords-strength-in-diversity = 有差異，更安全
