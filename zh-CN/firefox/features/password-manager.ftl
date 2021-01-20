@@ -14,6 +14,10 @@ password-manager-password-manager = 了解密码管理器
 password-manager-give-up-the-memory = 使用 { -brand-name-firefox } 密码管理器，不必再记忆许多密码。
 password-manager-password-hero = 密码英雄
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = 告别密码重置。使用 { -brand-name-firefox } 密码管理器保存您的所有密码、帮助您自动登录或轻松检索已保存的密码。为了您的安全，我们建议您为它设置<a href="{ $url }">主密码</a>。
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = 告别密码重置。使用 { -brand-name-firefox } 密码管理器保存您的所有密码、帮助您自动登录或轻松检索已保存的密码。为了您的安全，我们建议您为它设置<a href="{ $url }">主密码</a>。
 password-manager-password-magician = 密码魔术师
@@ -26,7 +30,7 @@ password-manager-password-champion = 密码达人
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = 在 { -brand-name-firefox } 中使用密码管理<a href="{ $addons }">附加组件</a>来管理您的众多密码，获得更佳安全性。探索现有的收藏集与用户评论、评分，找出您喜欢的附加组件。
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = 密码大师
 # Obsolete string
 # Variables:
