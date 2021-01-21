@@ -14,6 +14,10 @@ password-manager-password-manager = Gestionnaire de mots de passe : défi relev
 password-manager-give-up-the-memory = Libérez votre mémoire personnelle avec le gestionnaire de mots de passe de { -brand-name-firefox }.
 password-manager-password-hero = Héros des mots de passe
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Laissez tomber le « j’ai oublié mon mot de passe ». Le gestionnaire de mots de passe de { -brand-name-firefox } garde tout en mémoire pour vous permettre de vous identifier automatiquement ou retrouver facilement vos mots de passe. Pour davantage de sécurité encore, choisissez un <a href="{ $url }">mot de passe principal</a> pour les gouverner tous.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Laissez tomber le « j’ai oublié mon mot de passe ». Le gestionnaire de mots de passe de { -brand-name-firefox } garde tout en mémoire pour vous permettre de vous identifier automatiquement ou retrouver facilement vos mots de passe. Pour davantage de sécurité encore, choisissez un <a href="{ $url }">mot de passe principal</a> pour les gouverner tous.
 password-manager-password-magician = Grand gourou des mots de passe
