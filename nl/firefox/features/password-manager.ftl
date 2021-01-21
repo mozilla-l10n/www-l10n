@@ -14,6 +14,10 @@ password-manager-password-manager = Wachtwoorden&shy;beheerder-prestatie ontgren
 password-manager-give-up-the-memory = Vermijd het onthouden van wacht&shy;woorden met de wachtwoorden&shy;beheerder van { -brand-name-firefox }.
 password-manager-password-hero = Wachtwoordheld
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Vergeet opnieuw instellen. De wachtwoordenbeheerder van { -brand-name-firefox } bewaart al uw wachtwoorden, zodat u zich automatisch kunt aanmelden of eenvoudig opgeslagen wachtwoorden kunt vinden. Voor extreme beveiliging kunt u uw computer een <a href="{ $url }">hoofdwachtwoord</a> geven.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Vergeet opnieuw instellen. De wacht&shy;woorden&shy;beheerder van { -brand-name-firefox } bewaart al uw wachtwoorden, zodat u zich automatisch kunt aanmelden of eenvoudig opgeslagen wachtwoorden kunt vinden. Voor extreme beveiliging kunt u { -brand-name-firefox } een <a href="{ $url }">hoofdwachtwoord</a> geven.
 password-manager-password-magician = Wachtwoordtovenaar
@@ -26,7 +30,7 @@ password-manager-password-champion = Wachtwoordkampioen
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Verdien uw gouden medaille in beveiliging met { -brand-name-firefox }’ ruime aanbod aan <a href="{ $addons }">add-ons</a> voor wachtwoordbeheer. Kies een bestaande favoriete of vind een aankomende via waarderingen en beoordelingen van experts.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Wachtwoordkampioen
 # Obsolete string
 # Variables:
