@@ -14,6 +14,10 @@ password-manager-password-manager = Datgloi gallu'r Rheolwr Cyfrineiriau
 password-manager-give-up-the-memory = Rhoi gorau i'r gêm cofio cyfrineiriau gyda Rheolwr Cyfrineiriau { -brand-name-firefox }.
 password-manager-password-hero = Arwr cyfrineiriau
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Anghofiwch ailosod cyfrineiriau. Mae Rheolwr Cyfrineiriau { -brand-name-firefox } yn cadw'ch holl gyfrineiriau fel bod modd i chi fewngofnodi'n awtomatig neu ganfod cyfrineiriau wedi eu cadw'n hawdd. Am ddiogelwch uwch, rhowch <a href="{ $url }">brif gyfrinair</a> i'ch cyfrifiadur.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Anghofiwch ailosod cyfrineiriau. Mae Rheolwr Cyfrineiriau { -brand-name-firefox } yn cadw eich holl gyfrineiriau fel bod modd i chi fewngofnodi'n awtomatig neu ganfod cyfrineiriau wedi eu cadw'n hawdd. Am ddiogelwch uwch, rhowch <a href="{ $url }">brif gyfrinair</a> i'ch cyfrifiadur.
 password-manager-password-magician = Dewin cyfrineiriau
@@ -26,7 +30,7 @@ password-manager-password-champion = Pencampwr cyfrineiriau
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Gallwch ennill eich ail wobr diogelwch { -brand-name-firefox } gydag ystod eang o <a href="%(addons)s">ychwanegion</a> rheolwyr cyfrineiriau Firefox. Dewiswch ffefryn neu un gwell drwy adolygiadau a graddio gan arbenigwyr y gymuned.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Prif gyfrinair
 # Obsolete string
 # Variables:
