@@ -14,6 +14,10 @@ password-manager-password-manager = Nu er det slut med at glemme adgangskoder
 password-manager-give-up-the-memory = Med adgangskode-håndteringen i { -brand-name-firefox } behøver du ikke at lege gætteleg.
 password-manager-password-hero = Adgangskode-helt
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Glem alt om at nulstille. Adgangskode-håndteringen i { -brand-name-firefox } gemmer alle dine adgangskoder, så du kan logge ind automatisk eller nemt finde gemte adgangskoder. Og for at gøre det ekstra sikkert kan du give din computer en <a href="{ $url }">hovedadgangskode</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Glem alt om at nulstille. Adgangskode-håndteringen i { -brand-name-firefox } gemmer alle dine adgangskoder, så du kan logge ind automatisk eller nemt finde gemte adgangskoder. Og for at gøre det ekstra sikkert kan du give din computer en <a href="{ $url }">hovedadgangskode</a>.
 password-manager-password-magician = Adgangskode-magiker
@@ -26,7 +30,7 @@ password-manager-password-champion = Adgangskode-mester
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Få guldmedalje i sikkerhed med det store udvalg af adgangskode-<a href="{ $addons }">tilføjelser</a> til { -brand-name-firefox }. Vælg din yndlingsudvidelse - eller brug vurderinger og anmeldelser fra vores netværk af eksperter til at finde en endnu bedre.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Adgangskode-mester
 # Obsolete string
 # Variables:
