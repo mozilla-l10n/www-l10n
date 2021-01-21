@@ -11,7 +11,7 @@ not-found-page-were-all-about-a-healthy-internet = Mindannyian az egészséges i
 not-found-page-go-back = Ugrás vissza
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tudjon meg többet</a> a Mozilláról, a { -brand-name-firefox } mögötti nonprofit szervezetről.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tudjon meg többet</a> a { -brand-name-mozilla(ending: "accented") }ról, a { -brand-name-firefox } mögötti nonprofit szervezetről.
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Fedezze fel</a> az egész { -brand-name-firefox } termékcsaládot, amely úgy készült, hogy tiszteletben tartja az Ön adatvédelmét.
