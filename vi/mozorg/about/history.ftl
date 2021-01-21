@@ -5,7 +5,34 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
-history-history-of-the-mozilla-project = Lịch sử của Dự án { -brand-name-mozilla }
+history-history-of-the-mozilla-project = Lịch sử của dự án { -brand-name-mozilla }
+# Variables:
+#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
+history-the-mozilla-project-was = Dự án { -brand-name-mozilla } đã <a href="{ $coderush }">tạo trong năm 1998</a> với <a href="{ $sourcerelease }">phát hành mã nguồn bộ trình duyệt { -brand-name-netscape }</a>.
+history-it-was-intended-to-harness = Nó được thiết kế nhằm khai thác sức mạnh sáng tạo của hàng nghìn lập trình viên trên internet và thúc đẩy mức độ đổi mới chưa từng có trên thị trường trình duyệt.
+# Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = Trong <a href="{ $firstyear }">năm đầu tiên</a>, các thành viên cộng đồng mới từ khắp nơi trên thế giới đã đóng góp chức năng mới, nâng cao các tính năng hiện có và tham gia vào việc quản lý và lập kế hoạch của chính dự án.
+# Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = Bằng cách tạo ra một cộng đồng mở, dự án { -brand-name-mozilla } đã trở thành <a href="{ $stevecase }">lớn hơn bất kỳ công ty nào</a>.
+# Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Các thành viên trong cộng đồng đã tham gia và mở rộng phạm vi của dự án <a href="{ $mission }">nhiệm vụ ban đầu</a> — thay vì chỉ làm việc trên trình duyệt tiếp theo của { -brand-name-netscape }, mọi người bắt đầu tạo <a href="{ $browsers }">nhiều trình duyệt</a>, <a href="{ $bugzilla }">công cụ phát triển</a> và một loạt <a href="{ $projects }">các dự án</a> khác.
+history-people-contributed-to-mozilla = Mọi người đã đóng góp cho { -brand-name-mozilla } theo những cách khác nhau, nhưng tất cả mọi người đều say mê tạo ra phần mềm miễn phí cho phép mọi người lựa chọn cách họ trải nghiệm Internet.
+# Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Sau vài năm phát triển, <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, phiên bản chính thức đầu tiên, đã ra mắt năm 2002. Phiên bản này có nhiều cải tiến cho trình duyệt, ứng dụng email và các ứng dụng khác có trong bộ phần mềm, nhưng không nhiều người sử dụng nó.
+# Variables:
+#   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
+history-by-2002-well-over-90 = Bởi năm 2002, <a href="{ $over90 }>hơn 90% người dùng internet</a> đang duyệt web bằng { -brand-name-ie }.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Không nhiều người chú ý vào thời điểm đó, nhưng phiên bản đầu tiên của Phoenix (sau đó được đổi tên thành { -brand-name-firefox }) cũng được phát hành bởi các thành viên cộng đồng năm đó của { -brand-name-mozilla } với mục tiêu cung cấp <a href="{ $charter }">trải nghiệm duyệt web tốt nhất có thể</a> đến nhóm người rộng nhất có thể.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Năm 2003, dự án { -brand-name-mozilla } đã tạo ra { -brand-name-mozilla-foundation }, một <a href="{ $foundation }">tổ chức phi lợi nhuận độc lập</a> được hỗ trợ bởi các nhà tài trợ cá nhân và nhiều công ty.

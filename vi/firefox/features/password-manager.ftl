@@ -14,6 +14,10 @@ password-manager-password-manager = Đã mở khóa thành công trình quản l
 password-manager-give-up-the-memory = Hãy bỏ trò chơi phải dùng đến trí nhớ với trình quản lý mật khẩu { -brand-name-firefox }.
 password-manager-password-hero = Người hùng mật khẩu
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Quên việc đặt lại đi. Trình quản lý mật khẩu của { -brand-name-firefox } giữ tất cả mật khẩu của bạn để bạn có thể đăng nhập tự động hoặc dễ dàng tìm thấy mật khẩu đã lưu. Để siêu bảo mật, hãy cung cấp cho máy tính của bạn <a href="{ $url }">mật khẩu chính</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Quên đặt lại. Trình quản lý mật khẩu { -brand-name-firefox } giữ tất cả các mật khẩu của bạn do đó bạn có thể đăng nhập tự động, hoặc tìm thấy các mật khẩu đã lưu một cách dễ dàng. Để nâng cao bảo mật, hãy cấp cho máy tính của bạn một <a href="{ $url }">mật khẩu chính</a>.
 password-manager-password-magician = Trình quản lý mật khẩu
@@ -26,7 +30,7 @@ password-manager-password-champion = Làm chủ mật khẩu
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Bạn có thể có được lớp bảo vệ thứ hai với vô số <a href="{ $addons }">tiện ích</a> quản lý mật khẩu của { -brand-name-firefox }. Chọn một tiện ích theo sự yêu thích hoặc thông qua các đánh giá và bình luận của cộng đồng.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mật khẩu chính
 # Obsolete string
 # Variables:
