@@ -12,6 +12,9 @@ windows-64-bit-users-on-64-bit-windows = Οι χρήστες των { -brand-nam
 windows-64-bit-64-bit = 64-bit
 # Main title
 windows-64-bit-a-more-secure-firefox = Ένα πιο ασφαλές { -brand-name-firefox }.
+# Variables:
+# $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
+windows-64-bit-users-on-64-bit-windows-crashes = Οι χρήστες των { -brand-name-windows } 64-bit που κάνουν λήψη του { -brand-name-firefox }, θα λάβουν την έκδοση 64-bit από προεπιλογή. Αυτό σημαίνει ότι θα αποκτήσετε μια πιο ασφαλή έκδοση του { -brand-name-firefox }, η οποία <a href="{ $crashes }">καταρρέει πολύ λιγότερο</a>. Πόσο λιγότερο; Στις δοκιμές μας, το { -brand-name-firefox } 64-bit μείωσε τις καταρρεύσεις κατά 39% σε συστήματα με 4GB RAM ή περισσότερα.
 windows-64-bit-whats-the-difference = Ποια είναι η διαφορά μεταξύ 32-bit και 64-bit;
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
