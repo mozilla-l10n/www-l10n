@@ -14,6 +14,13 @@ browser-history-in-1950-computers = 1950-ben a számítógépek egész szobákat
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = Az <a href="{ $arpanet }">ARPANET</a> volt az első sikeres hálózati projekt, és 1969-ben küldték el az első üzenetet a Los Angeles-i Kaliforniai Egyetem (UCLA) informatikai laboratóriumától a szintén kaliforniai Stanford Research Institute-hoz (SRI).
 browser-history-web-era = Webkorszak
+# Variables:
+#   $cern (url) - https://home.cern/topics/birth-web
+browser-history-british-computer = Tim Berners-Lee brit informatikus 1990-ben hozta létre az első webkiszolgálót és grafikus webböngészőt, amikor Svájcban <a href="{ $cern }">a CERN-ben</a>, az Európai Nukleáris Kutatási Szervezetnél dolgozott. Új ablakát az internetre „WorldWideWeb”-nek nevezte el. Ez egy könnyen használható grafikus felület volt a NeXT számítógépre. Elsőként kapcsolták össze a szöveges dokumentumokat nyilvános hálózaton – a ma ismert világhálón.
+browser-history-a-year-later-berners = Egy évvel később Berners-Lee felkérte Nicola Pellowt, a CERN matematikus hallgatóját, hogy írja meg a Line Mode Browsert, amely az egyszerű számítógépes terminálokhoz készült.
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = 1993-ra a világháló berobbant. Az egyetemek, kormányzatok és magánvállalatok is lehetőséget láttak a nyílt internetben. Mindenkinek új számítógépes programokra volt szüksége, hogy elérje. Abban az évben hozta létre Marc Andreessen a Mozaicot, az Illionos-i Egyetem, Urbana-Champaign Szuperszámítógépi Alkalmazások Nemzeti Központjánál (NCSA). Ez volt a legelső webböngésző, és a <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> korai őse.
 browser-history-the-browser-wars = A böngészőháborúk
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
