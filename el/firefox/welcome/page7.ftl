@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Κάντε πιο δύσκολη την παρακολούθησή σας από το { -brand-name-facebook }
 page7-its-okay-to-like-facebook = Σας αρέσει το { -brand-name-facebook }; Κανένα πρόβλημα!
-page7-if-you-still-kinda-like-facebook = Αν σας αρέσει το { -brand-name-facebook } αλλά δεν το εμπιστεύεστε, δοκιμάστε την επέκταση { -brand-name-facebook-container } του { -brand-name-firefox }, ώστε να μην σας παρακολουθεί με την ίδια ευκολία.
+page7-if-you-still-kinda-like-facebook = Αν σάς αρέσει το { -brand-name-facebook } αλλά δεν το εμπιστεύεστε, δοκιμάστε την επέκταση { -brand-name-facebook-container } του { -brand-name-firefox }, ώστε να μην σάς παρακολουθεί με την ίδια ευκολία.
 page7-get-facebook-container = Λήψη του { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Λειτουργεί στο Instagram

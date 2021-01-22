@@ -9,7 +9,7 @@
 whatsnew79-page-title = Τι νέο υπάρχει στο { -brand-name-firefox }
 # Main title
 whatsnew79-main-title = Τα δεδομένα σας είναι απόρρητα, ακόμη κι από εμάς
-whatsnew79-main-intro = Το διαδίκτυο πρέπει να είναι ένα ασφαλές μέρος για όλους. Για το λόγο αυτό, το { -brand-name-firefox } δεν σας παρακολουθεί στο διαδίκτυο και δεν το επιτρέπει σε κανέναν άλλο.
+whatsnew79-main-intro = Το διαδίκτυο πρέπει να είναι ένα ασφαλές μέρος για όλους. Για το λόγο αυτό, το { -brand-name-firefox } δεν σάς παρακολουθεί στο διαδίκτυο και δεν το επιτρέπει σε κανέναν άλλο.
 # Main CTA button
 whatsnew79-primary-cta = Ορισμός του { -brand-name-firefox } ως προεπιλογή
 # Fallback CTA button, shown if Firefox is already a user's default browser

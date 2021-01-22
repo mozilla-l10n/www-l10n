@@ -30,7 +30,7 @@ features-adblocker-to-start-click-on-the = Για να ξεκινήσετε, κ�
 features-adblocker-go-easy-with-standard = Ήπια φραγή με την Τυπική λειτουργία
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = Αν οι διαφημίσεις δεν σας ενοχλούν και δεν σας πειράζει να παρακολουθείστε από ιχνηλάτες και cookies τρίτων, τότε η Τυπική ρύθμιση είναι κατάλληλη για εσάς. Για να ξεφορτωθείτε τους ιχνηλάτες, χρησιμοποιήστε ένα <a παράθυρο href="{ $url }">ιδιωτικής περιήγησης</a>.
+features-adblocker-if-ads-dont-bother-you = Αν οι διαφημίσεις δεν σάς ενοχλούν και δεν σάς πειράζει να παρακολουθείστε από ιχνηλάτες και cookies τρίτων, τότε η Τυπική ρύθμιση είναι κατάλληλη για εσάς. Για να ξεφορτωθείτε τους ιχνηλάτες, χρησιμοποιήστε ένα <a παράθυρο href="{ $url }">ιδιωτικής περιήγησης</a>.
 features-adblocker-get-tough-with-strict = Επιθετική φραγή με την Αυστηρή λειτουργία
 features-adblocker-if-seeing-too-many-ads = Αν οι πολλές διαφημίσεις σας χαλούν την ημέρα, η Αυστηρή λειτουργία είναι κατάλληλη. Αυτή η λειτουργία θα αποκλείσει γνωστούς ιχνηλάτες και cookies τρίτων σε όλα τα παράθυρα του { -brand-name-firefox }.
 features-adblocker-do-it-yourself-custom = Περισσότερες επιλογές με την Προσαρμοσμένη λειτουργία
