@@ -9,6 +9,7 @@
 what-is-a-browser-what-is-a-web = Mi az a webböngésző?
 # HTML page description
 what-is-a-browser-a-web-browser = Egy webböngészővel bárhová eljuthat az interneten, lehetővé téve, hogy szöveget, képeket és videókat tekintsen meg a világ bármely pontjáról.
+what-is-a-browser-the-web-is-a-vast = A web egy hatalmas és hatékony eszköz. Néhány évtized alatt, az internet megváltoztatta ahogyan dolgozunk, ahogy játszunk és ahogy másokkal kapcsolatba lépünk. A használatától függően összeköti a nemzeteket, élénkíti a kereskedelmet, kapcsolatokat épít, hajtja a jövőbeli innovációt, és sokkal több mémért felelős, mint amivel kezdeni tudnánk valamit.
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = Nemcsak az a fontos, hogy mindenki hozzáférjen az internethez, hanem az is, hogy mindannyian <a href="{ $tools }">megértsük azon eszközöket</a>, amelyeket az eléréséhez használunk. Mindennap olyan webböngészőket használunk, mint a { -brand-name-mozilla } { -brand-name-firefox }, a { -brand-name-google } { -brand-name-chrome }, a { -brand-name-microsoft } { -brand-name-edge } és az { -brand-name-apple } { -brand-name-safari }, de megértjük-e, hogy mik és hogyan működnek?
