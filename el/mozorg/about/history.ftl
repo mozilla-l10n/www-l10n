@@ -18,6 +18,9 @@ history-within-the-first-year-new = Μέσα στον <a href="{ $firstyear }">�
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Δημιουργώντας μια ανοικτή κοινότητα, το έργο { -brand-name-mozilla } έχει γίνει <a href="{ $stevecase }">μεγαλύτερο από οποιαδήποτε εταιρεία</a>.
 # Variables:
+#   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
+history-by-2002-well-over-90 = Μέχρι το 2002, <a href="{ $over90 }">πάνω από το 90% των χρηστών του διαδικτύου</a> χρησιμοποιούσε το { -brand-name-ie }.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = Το <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> κυκλοφόρησε το 2004 και έγινε μεγάλη επιτυχία — σε λιγότερο από έναν χρόνο, έγινε λήψη του <a href="{ $millions }">περισσότερες από 100 εκατομμύρια φορές</a>.

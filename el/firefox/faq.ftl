@@ -80,5 +80,5 @@ who-owns-firefox = Σε ποια εταιρεία ανήκει το { -brand-nam
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = Το { -brand-name-firefox } αναπτύσσεται από τη { -brand-name-mozilla-corporation }, μια θυγατρική του μη κερδοσκοπικού <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> και διέπεται από τις αρχές του Μανιφέστου της { -brand-name-mozilla }. Μάθετε περισσότερα σχετικά με το δημιουργό του { -brand-name-firefox } <a href="{ $url2 }">εδώ.</a>
+firefox-is-made = Το { -brand-name-firefox } αναπτύσσεται από τη { -brand-name-mozilla-corporation }, μια θυγατρική του μη κερδοσκοπικού <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> και διέπεται από τις αρχές της Διακήρυξης της { -brand-name-mozilla }. Μάθετε περισσότερα σχετικά με τον δημιουργό του { -brand-name-firefox } <a href="{ $url2 }">εδώ.</a>
 related-questions-who = Σχετικές ερωτήσεις: πού ανήκει το { -brand-name-firefox }, ποιος είναι ο κάτοχος του { -brand-name-firefox-browser }, ανήκει το { -brand-name-firefox } στην { -brand-name-google }, ανήκει το { -brand-name-mozilla } { -brand-name-firefox } στην { -brand-name-google }

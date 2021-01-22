@@ -27,9 +27,9 @@ about-in-mozillas-irl-podcast-host = Στο podcast IRL του { -brand-name-moz
 about-corporation-foundation-not = Εταιρεία. Ίδρυμα. Όχι για το κέρδος.
 about-learn-about-the-mozilla-foundation = Μάθετε για το { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = Η { -brand-name-mozilla } βάζει τους ανθρώπους πάνω από το κέρδος, σε όσα λέει, κάνει και δημιουργεί. Στην πραγματικότητα, υπάρχει ένα μη κερδοσκοπικό ίδρυμα στην καρδιά της επιχείρησής μας.
-about-the-mozilla-manifesto = Το Μανιφέστο της { -brand-name-mozilla }
+about-the-mozilla-manifesto = Η Διακήρυξη της { -brand-name-mozilla }
 about-the-principles-we-wrote-in = Οι αρχές που γράψαμε το 1998 μάς καθοδηγούν ακόμη και σήμερα. Και το 2018, δημιουργήσαμε ένα προσάρτημα με έμφαση στην ένταξη, το απόρρητο και την ασφάλεια όλων στο διαδίκτυο.
-about-read-the-manifesto = Διαβάστε το μανιφέστο
+about-read-the-manifesto = Διαβάστε τη διακήρυξη
 about-a-global-view = Μια παγκόσμια θέα
 about-with-offices-all-over-the = Με <a href="{ $url }">γραφεία σε όλο τον κόσμο</a>, παρατηρούμε το διαδίκτυο από πολλαπλούς πολιτισμούς και περιβάλλοντα.
 about-san-francisco = Σαν Φρανσίσκο
