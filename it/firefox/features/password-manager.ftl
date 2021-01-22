@@ -14,6 +14,10 @@ password-manager-password-manager = Memorizzare le password? Problema risolto
 password-manager-give-up-the-memory = Rinuncia a inutili sforzi di memoria affidandoti alla Gestione password di { -brand-name-firefox }.
 password-manager-password-hero = Un custode di fiducia
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Addio, ripristino della password! Lo strumento di gestione password di { -brand-name-firefox } memorizza tutte le tue password in modo da consentirti l’accesso automatico ai siti o di recuperare le credenziali salvate. Se desideri un’ulteriore misura di sicurezza, puoi anche impostare una <a href="{ $url }">password principale</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Scordati di dover ripristinare le password dei siti. La Gestione password di { -brand-name-firefox } memorizza tutte le password in modo da consentirti l’accesso automatico ai siti o di trovare le password salvate. Come ulteriore misura di sicurezza, ricordati di impostare la <a href="{ $url }">password principale</a>.
 password-manager-password-magician = Un mago per le password
