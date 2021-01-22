@@ -14,6 +14,10 @@ password-manager-password-manager = Password Manager achievement unlocked
 password-manager-give-up-the-memory = Give up the memory game with { -brand-name-firefox } Password Manager.
 password-manager-password-hero = Password hero
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Forget the reset. { -brand-name-firefox } Password Manager keeps all your passwords so you can log in automatically, or find saved passwords easily. For super security, give your computer a <a href="{ $url }">primary password</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Forget the reset. { -brand-name-firefox } Password Manager keeps all your passwords so you can log in automatically, or find saved passwords easily. For super security, give your computer a <a href="{ $url }">master password</a>.
 password-manager-password-magician = Password magician
@@ -26,7 +30,7 @@ password-manager-password-champion = Password champion
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Earn your security gold medal with { -brand-name-firefox }’s vast array of password manager <a href="{ $addons }">add-ons</a>. Choose an existing favourite or find a next-level one through expert community ratings and reviews.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Password master
 # Obsolete string
 # Variables:
