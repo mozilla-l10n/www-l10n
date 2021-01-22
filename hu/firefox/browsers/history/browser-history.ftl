@@ -21,6 +21,9 @@ browser-history-a-year-later-berners = Egy évvel később Berners-Lee felkérte
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = 1993-ra a világháló berobbant. Az egyetemek, kormányzatok és magánvállalatok is lehetőséget láttak a nyílt internetben. Mindenkinek új számítógépes programokra volt szüksége, hogy elérje. Abban az évben hozta létre Marc Andreessen a Mozaicot, az Illionos-i Egyetem, Urbana-Champaign Szuperszámítógépi Alkalmazások Nemzeti Központjánál (NCSA). Ez volt a legelső webböngésző, és a <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> korai őse.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = Az NCSA Mozaic { -brand-name-windows } rendszerű számítógépeken futott, könnyen használható volt, és bárki aki rendelkezett egy PC-vel, elérhette a korai weblapokat, csevegőszobákat és képtárakat. A következő évben (1994-ben), Adreessen megalapította a <a href="{ $netscape }">{ -brand-name-netscape }</a>-et, és közzétette a { -brand-name-netscape } Navigatort a nyilvánosság számára. Rendkívül sikeres volt, és az emberek első böngészője volt. Ez volt az internetfelhasználókért vívott újfajta háború első lépése.
 browser-history-the-browser-wars = A böngészőháborúk
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
@@ -28,6 +31,9 @@ browser-history-by-1995-netscape = 1995-re a { -brand-name-netscape } Navigator 
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = A { -brand-name-netscape } létrehozta és kiadta a JavaScriptet, amely a webhelyeknek példátlan számítási lehetőségeket adott. (Létrehozták a hírhedt <a href="{ $blink }">&lt;blink&gt; címkét</a> is.) A { -brand-name-microsoft } a Cascading Style Sheetsszel (CSS) válaszolt, amely a weboldaltervezés szabványa lett.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = 1997-ben a dolgok kissé elszabadultak, amikor a { -brand-name-microsoft } kiadta az { -brand-name-ie } 4.0-t. A csapat egy hatalmas „e” betűt épített, és leszúrta a { -brand-name-netscape } főhadiszállásának pázsitjára. A { -brand-name-netscape } csapat azonnal felborította a hatalmas „e” betűt, és a tetejére állította a <a href="{ $dino }">saját { -brand-name-mozilla } dinoszaurusz kabaláját</a>.
 browser-history-browsing-the-web = Webböngészés ma
 # Variables:
 #   $applications (url) - https://blog.mozilla.org/firefox/no-judgment-digital-definitions-app-vs-web-app/
