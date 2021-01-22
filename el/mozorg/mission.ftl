@@ -13,7 +13,7 @@ mission-at-mozilla-were-a-global-community = Όλοι εμείς στο έργο
 mission-we-believe-this-act-of-human-collaboration = Πιστεύουμε ότι αυτή η συνεργασία ανθρώπων πάνω σε μια ανοικτή πλατφόρμα είναι απαραίτητη τόσο για την ατομική ανάπτυξη όσο και για το κοινό μας μέλλον.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Διαβάστε τη <a href="{ $url }">διακήρυξη του Mozilla</a> για να μάθετε περισσότερα για τις αρχές και τις αξίες που μας καθοδηγούν στην αποστολή μας.
+mission-read-the-mozilla-manifesto-to-learn = Διαβάστε τη <a href="{ $url }">Διακήρυξη της Mozilla</a> για να μάθετε περισσότερα για τις αρχές και τις αξίες που διέπουν την αποστολή μας.
 mission-watch-the-video-above-to-learn-more = Δείτε το παραπάνω βίντεο για να μάθετε περισσότερα σχετικά με το ποιοι είμαστε, πώς ξεκινήσαμε και πώς κάνουμε το διαδίκτυο καλύτερο για εσάς.
 mission-get-involved = Συμμετοχή
 mission-volunteer-opportunities-in-a-number = Θέσεις για εθελοντές σε διάφορους τομείς

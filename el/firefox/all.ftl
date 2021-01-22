@@ -23,7 +23,7 @@ firefox-all-64-bit-installers = Προγράμματα εγκατάστασης 
 firefox-all-choose-a-64-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 64-bit για υπολογιστές με επεξεργαστές 64-bit, οι οποίοι επιτρέπουν την ανάθεση περισσότερης RAM σε κάθε πρόγραμμα - πολύ σημαντικό για παιχνίδια και άλλες απαιτητικές εφαρμογές.
 firefox-all-32-bit-installers = Προγράμματα εγκατάστασης 32-bit
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Αγγλικά (ΗΠΑ) και σε περισσότερες από 90 άλλες γλώσσες
+firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση στο διαδίκτυο — η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Γι' αυτό — με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο — διαθέτουμε το { -brand-name-firefox-browser } σε πάνω από 90 γλώσσες.
 firefox-all-choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε στη γλώσσα σας
