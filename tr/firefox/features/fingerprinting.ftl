@@ -10,5 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = Parmak izi toplama nedir 
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox }, parmak izi toplamayı engeller
 # description for the header image
 features-fingerprinting-every-fingerprint = Her parmak izi benzersizdir.
+features-fingerprinting-download-firefox = { -brand-name-firefox }’u indir
 features-fingerprinting-what-is-fingerprinting-body = Parmak izi toplama nedir?
+features-fingerprinting-fingerprinting-is-bad = Parmak izi toplama web için kötüdür
 features-fingerprinting-protect = Gizliliğinizi koruyun

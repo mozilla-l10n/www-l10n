@@ -11,4 +11,5 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } { -brand-nam
 compare-chrome-we-compare-mozilla-firefox = Gizlilik, kullanışlılık ve taşınabilirlik açısından { -brand-name-mozilla } { -brand-name-firefox }’u { -brand-name-google } { -brand-name-chrome } ile karşılaştırıyoruz
 # Main title.
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } ile { -brand-name-google } { -brand-name-chrome } karşılaştırması
+compare-chrome-and-so-here-we-are-the-browser = Ve günümüze gelindiğinde, tarayıcı savaşları bir kez daha kızışıyor. Şimdi { -brand-name-firefox-browser } ile { -brand-name-google } { -brand-name-chrome } arasında yeniden değerlendirme ve karşılaştırma yapma zamanı.
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox }, tüm cihazlarınızda açık ve son sekmelerinizi, gezinti geçmişinizi ve yer imlerinizi görmenizi sağlayan bir eşitleme özelliğine de sahiptir.

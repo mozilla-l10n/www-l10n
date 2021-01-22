@@ -16,7 +16,7 @@ firefox-home-keep-your-passwords = Parolalarınızı tüm cihazlarınızda güve
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Hak ettiğiniz <strong>saygıyı</strong> görme zamanı
-firefox-home-every-single-firefox = { -brand-name-firefox } ürünlerinin hepsinde Kişisel Veri Sözümüzü tutmaya ant içtik: <strong>Daha az veri topla. Güvenle sakla. Sır tutma.</strong>
+firefox-home-every-single-firefox = { -brand-name-firefox } ürünlerinin hepsinde Kişisel Veri Sözü’müzü tutmaya ant içtik: <strong>Daha az veri topla. Güvenle sakla. Sır tutma.</strong>
 firefox-home-share-large-files-without = Büyük dosyaları meraklı gözlere takılmadan paylaşın
 firefox-home-start-sending-files = Dosyaları güvenle göndermeye başlayın
 firefox-home-trade-clickbait-for = Clickbait’i bırakın, kaliteli içeriğe bakın

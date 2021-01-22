@@ -37,7 +37,7 @@ firefox-accounts-and-get-it-all-on = Tek bir işletim sistemine takılıp kalma.
 firefox-accounts-get-the-respect-you = Hak ettiğin saygıyı görme zamanı.
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = Sana hep doğruyu söyleyeceğiz. Yaptığımız her işte <a href="{ $promise }">Kişisel Veri Sözümüzü</a> tutmaya ant içtik:
+firefox-accounts-youll-always-get-the = Sana hep doğruyu söyleyeceğiz. Yaptığımız her işte <a href="{ $promise }">Kişisel Veri Sözü</a>’müzü tutmaya ant içtik:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Daha azını topla.<br> Güvenle sakla.<br> Sır tutma.
 firefox-accounts-get-the-knowledge = Güvenliğini sağlayacak bilgileri edin.

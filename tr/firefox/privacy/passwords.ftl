@@ -25,6 +25,7 @@ privacy-passwords-tricking-you-into = Parolanızı onlara vermeniz için sizi ka
 privacy-passwords-a-closed-lock = Tüm büyük tarayıcılarda adres çubuğundaki web sitesi adresinin hemen önünde kapalı bir asma kilit görünür.
 privacy-passwords-a-padlock-with = Kırmızı çapraz çizgili asma kilit, bağlantının güvenli olmadığını gösterir.
 privacy-passwords-firefox-will = Sitenin kimlik avı sitesi olduğu biliniyorsa Firefox web sitesi yerine bir uyarı görüntüleyecektir.
+privacy-passwords-strength-in-diversity = Farklılıktan gelen güç
 privacy-passwords-get-help-from = Parola yöneticisi kullanın
 privacy-passwords-twofactor-authentication-2fa = İki aşamalı kimlik doğrulama (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics

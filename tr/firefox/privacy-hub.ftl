@@ -18,7 +18,7 @@ firefox-privacy-our-promise = Sözümüz
 # Sub navigation link
 firefox-privacy-our-products = Ürünlerimiz
 firefox-privacy-hub-you-should-be-able-to-decide = Kişisel bilgilerinizi kimin göreceğine karar verebilmelisiniz. Sadece arkadaşlarınızdan değil, internetteki tüm reklam verenlerden ve şirketlerden bahsediyoruz. Biz de dahil…
-firefox-privacy-hub-thats-why-everything-we-make = Bu yüzden, yaptığımız ve oluşturduğumuz her şeyde Kişisel Veri Sözümüzü tutmaya ant içtik
+firefox-privacy-hub-thats-why-everything-we-make = Bu yüzden, yaptığımız ve oluşturduğumuz her şeyde Kişisel Veri Sözü’müzü tutmaya ant içtik
 firefox-privacy-hub-take-less = Daha az veri topla
 firefox-privacy-hub-we-make-a-point-of-knowing = Hakkınızda daha az şey bilmek istiyoruz
 firefox-privacy-hub-all-tech-companies-collect = Tüm teknoloji şirketleri ürünlerini geliştirmek için veri topluyor, ama bu verilerin çok fazla kişisel bilgi içermesine gerek yok. Bizim istediğimiz tek veri, sonunda size hizmet eden veri. Kendimize şunu soruyoruz: Bu veriye gerçekten ihtiyacımız var mı? Ne için ihtiyacımız var? Ve onu ne zaman silebiliriz?
