@@ -30,7 +30,7 @@ firefox-privacy-hub-youll-always-know-where-you = Θα ξέρετε πάντα �
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Δεν υπάρχει καμία κρυφή ατζέντα. Η επιχείρησή μας δεν βασίζεται στην κρυφή εκμετάλλευση της εμπιστοσύνης σας. Η <a href="{ $privacy }">σημείωση απορρήτου</a> μας είναι πραγματικά εύκολη στην κατανόηση. Όλοι μπορούν να παρακολουθήσουν τις <a href="{ $meetings }">εβδομαδιαίες εταιρικές συναντήσεις</a> μας. Αν θέλετε να εξετάσετε κάθε σημείο συλλογής δεδομένων, ο κώδικάς μας είναι ανοικτός. Αυτοί είμαστε.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Δεν υπάρχει καμία κρυφή ατζέντα. Η επιχείρησή μας δεν βασίζεται στην κρυφή εκμετάλλευση της εμπιστοσύνης σας. Η <a href="{ $privacy }">Σημείωση απορρήτου</a> μας είναι πραγματικά εύκολη στην κατανόηση. Όλοι μπορούν να παρακολουθήσουν τις <a href="{ $meetings }">εβδομαδιαίες εταιρικές συναντήσεις</a> μας. Αν θέλετε να εξετάσετε κάθε σημείο συλλογής δεδομένων, ο κώδικάς μας είναι ανοικτός. Αυτοί είμαστε.
 firefox-privacy-hub-why-trust-firefox = Γιατί να εμπιστευτώ το { -brand-name-firefox };
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -83,4 +83,4 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Πάρτε το απόρρ
 firefox-privacy-hub-already-have-an-account = Έχετε ήδη λογαριασμό; <a { $sign_in } class="{ $class_name }">Συνδεθείτε</a> ή <a href="{ $learn_more }">μάθετε περισσότερα</a> σχετικά με τη συμμετοχή στο { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-read-the-privacy-notice-for = Διαβάστε τη <a href="{ $url }">σημείωση απορρήτου</a> για τα προϊόντα μας
+firefox-privacy-hub-read-the-privacy-notice-for = Διαβάστε τη <a href="{ $url }">Σημείωση απορρήτου</a> των προϊόντων μας

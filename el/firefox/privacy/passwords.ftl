@@ -9,6 +9,7 @@
 privacy-passwords-security-guide-to = Οδηγός ασφαλείας για συνδέσεις και κωδικούς πρόσβασης
 # page content
 privacy-passwords-a-security-guide = Ένας οδηγός ασφαλείας για συνδέσεις και κωδικούς πρόσβασης
+privacy-passwords-protecting-your-accounts = Η προστασία των λογαριασμών σας δεν χρειάζεται να είναι περίπλοκη — και το { -brand-name-firefox } μπορεί να σάς βοηθήσει.
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Συνοπτικά:
 privacy-passwords-its-hard-out = Ο κόσμος είναι σκληρός για έναν κωδικό πρόσβασης
