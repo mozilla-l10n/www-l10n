@@ -14,5 +14,5 @@ about-shared-forums = Φόρουμ
 about-shared-patents = Πατέντες
 about-shared-our-products = Τα προϊόντα μας
 about-shared-software-innovations = Λογισμικό και άλλες καινοτομίες σχεδιασμένες για τη προώθηση της αποστολής μας.
-about-shared-get-involved = Συμμετέχετε
+about-shared-get-involved = Συμμετοχή
 about-shared-volunteer = Γίνετε εθελοντής και συμβάλλετε σε διάφορους τομείς.

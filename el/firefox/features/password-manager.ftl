@@ -14,6 +14,10 @@ password-manager-password-manager = Το επίτευγμα «Διαχείρισ
 password-manager-give-up-the-memory = Αναθέστε την εργασία απομνημόνευσης στην Διαχείριση Κωδικών του { -brand-name-firefox }.
 password-manager-password-hero = Ήρωας των κωδικών πρόσβασης
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Ξεχάστε τις επαναφορές. Η Διαχείριση κωδικών πρόσβασης του { -brand-name-firefox } διατηρεί τα στοιχεία σύνδεσής σας για αυτόματη σύνδεση, ή εύκολη εύρεση. Για μέγιστη προστασία, ορίστε έναν <a href="{ $url }">κύριο κωδικό πρόσβασης</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ξεχάστε την επαναφορά. Η Διαχείριση Κωδικών του { -brand-name-firefox } διατηρεί όλους σας τους κωδικούς ούτως ώστε να μπορείτε να συνδέεστε αυτόματα, ή να τους βρίσκετε εύκολα. Για μέγιστη προστασία, δημιουργήστε στον υπολογιστή σας ένα <a href="{ $url }">κύριο κωδικό πρόσβασης</a>.
 password-manager-password-magician = Μάγος των κωδικών πρόσβασης
@@ -26,7 +30,7 @@ password-manager-password-champion = Πρωταθλητής των κωδικώ�
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Κερδίστε το χρυσό μετάλλιο ασφαλείας σας με την τεράστια ποικιλία <a href="{ $addons }">προσθέτων</a> διαχείρισης κωδικών πρόσβασης του { -brand-name-firefox }. Επιλέξτε ένα αγαπημένο πρόσθετο ή βρείτε ακόμη πιο προηγμένες επιλογές μέσω των αξιολογήσεων και των βαθμολογιών της κοινότητας.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Αρχηγός των κωδικών πρόσβασης
 # Obsolete string
 # Variables:

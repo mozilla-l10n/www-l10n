@@ -33,8 +33,14 @@ history-more-people-than-ever-before = Περισσότεροι άνθρωποι
 history-the-future-is-full-of-challenges = Το μέλλον είναι γεμάτο προκλήσεις και ευκαιρίες ίσες με αυτές του παρελθόντος μας.
 history-theres-no-guarantee-that = Δεν υπάρχει εγγύηση ότι το διαδίκτυο θα παραμείνει ανοιχτό ή ευχάριστο ή ασφαλές.
 history-mozilla-will-continue-to = Η { -brand-name-mozilla } θα συνεχίσει να παρέχει την ευκαιρία στους ανθρώπους να ακουστούν και να ορίσουν τις δικές τους διαδικτυακές ζωές.
+history-of-course-were-not-alone = Φυσικά, δεν είμαστε μόνοι σε αυτό.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Αν θέλετε να συμμετάσχετε στην αποστολή μας, παρακαλούμε <a href="{ $contribute }">γίνετε μέλος</a>.
 history-for-more-information-about = Για περισσότερες πληροφορίες σχετικά με την ιστορία της { -brand-name-mozilla }, δείτε τα εξής:
 history-mozilla-bookmarks = Σελιδοδείκτες { -brand-name-mozilla }
+history-timeline-of-mozilla-project = Χρονοδιάγραμμα έργου { -brand-name-mozilla }
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">Αφίσες "Ιστορία του { -brand-name-firefox } και της { -brand-name-mozilla }"</a> (διαθέσιμο στα Αγγλικά και τα Ιαπωνικά)
