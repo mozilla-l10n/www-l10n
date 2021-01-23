@@ -9,7 +9,7 @@
 welcome-page1-more-than-a-browser-firefox = Bien plus qu’un navigateur – { -brand-name-firefox-monitor } vous met en garde contre les fuites de données
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Passez à l’action et protégez votre vie privée en ligne grâce à la gamme de produits { -brand-name-firefox }.
-welcome-page1-stay-ahead-of-hackers-check = Prenez une longueur d’avance sur les cybercriminels. Vérifiez si vos données sont concernées par une fuite avec { -brand-name-firefox-monitor }.
+welcome-page1-stay-ahead-of-hackers-check = Prenez une longueur d’avance sur les cybercriminels. Vérifiez avec { -brand-name-firefox-monitor } si vos données sont concernées par une fuite.
 welcome-page1-youre-on-track-to-stay-protected = Vous êtes sur la bonne voie pour une meilleure protection en ligne
 welcome-page1-youve-got-the-web-browser = Vous disposez déjà du navigateur qui respecte votre vie privée. Il est temps maintenant de vous défendre contre les cybercriminels.
 welcome-page1-check-your-breach-report = Consulter votre rapport de fuites de données
