@@ -14,6 +14,7 @@ privacy-passwords-protecting-your-accounts = Η προστασία των λογ
 privacy-passwords-tldr = Συνοπτικά:
 privacy-passwords-its-hard-out = Ο κόσμος είναι σκληρός για έναν κωδικό πρόσβασης
 privacy-passwords-a-padlock-with = Ένα λουκέτο με μια γραμμή υποδεικνύει ότι η σύνδεση δεν είναι ασφαλής.
+privacy-passwords-firefox-will = Το Firefox σάς προειδοποιεί αν μια ιστοσελίδα είναι γνωστή για ηλεκτρονικό ψάρεμα (phishing).
 privacy-passwords-security-questions-my = Ερωτήσεις ασφαλείας: Το πατρικό όνομα της μητέρας μου είναι “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Βοήθεια από τη διαχείριση κωδικών πρόσβασης
 privacy-passwords-twofactor-authentication-2fa = Ταυτοποίηση δύο παραγόντων (2FA)

@@ -46,6 +46,7 @@ be-bold-and = Δείξτε τόλμη και θάρρος κατά την επι
 comparing-firefox-edge = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-microsoft } { -brand-name-edge }
 youll-never-guess = Δεν θα μαντέψετε ποτέ ποιο πρόγραμμα περιήγησης υπερτερεί όσον αφορά την ταχύτητα και τις λειτουργίες.
 comparing-firefox-ie = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-microsoft } { -brand-name-ie }
+old-habits-that = Οι παλιές συνήθειες δύσκολα κόβονται, αλλά αξίζει τον κόπο.
 comparing-firefox-safari = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-apple } { -brand-name-safari }
 you-dont-have = Δεν χρειάζεται να μείνετε στο αρχικό σας πρόγραμμα περιήγησης.
 comparing-firefox-opera = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-opera }
