@@ -19,7 +19,7 @@ navigation-watch-videos-and-browse = Παρακολουθήστε βίντεο �
 navigation-firefox-browsers-put = Τα προϊόντα { -brand-name-firefox } δίνουν προτεραιότητα στο απόρρητό σας — όπως πάντα.
 navigation-take-the-passwords-youve = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασης που έχετε αποθηκεύσει στο { -brand-name-firefox } από οπουδήποτε.
 # Outdated string
-navigation-firefox-is-a-whole-family = Το { -brand-name-firefox } είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σας προστατεύουν στο διαδίκτυο.
+navigation-firefox-is-a-whole-family = Το { -brand-name-firefox } είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σάς προστατεύουν στο διαδίκτυο.
 navigation-join-firefox = Σύνδεση στο { -brand-name-firefox }
 navigation-access-all-of-firefox = Πρόσβαση σε όλα τα προϊόντα { -brand-name-firefox } με μία σύνδεση — αξιοποιήστε στο έπακρο κάθε προϊόν.
 navigation-meet-the-firefox-family = Γνωρίστε την οικογένεια { -brand-name-firefox }
