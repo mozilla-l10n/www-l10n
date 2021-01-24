@@ -48,3 +48,9 @@ new-platform-faster-page-loading-windows = तीव्र पृष्ठ ल�
 new-platform-firefox-fights = { -brand-name-firefox } आपके लिए लड़ता है <span>{ -brand-name-windows } पर.</span>
 new-platform-common-sense-privacy = सामान्यबोध गोपनीयता
 new-platform-seamless-setup = निर्बाध व्यवस्था
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = { -brand-name-windows } के लिए <br>{ -brand-name-firefox } डाउनलोड करें
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = { -brand-name-mac } के लिए <br>{ -brand-name-firefox } डाउनलोड करें
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = { -brand-name-linux } के लिए <br>{ -brand-name-firefox } डाउनलोड करें

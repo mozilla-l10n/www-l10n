@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page4-download-the-firefox-browser = { -brand-name-ios } और { -brand-name-android } के लिए अपने मोबाइल पर Firefox ब्राउज़र डाउनलोड करें
-welcome-page4-get-the-firefox-app = { -brand-name-firefox } ऐप प्राप्त करें
+welcome-page4-get-the-firefox-mobile = { -brand-name-firefox } मोबाइल पाएं
 welcome-page4-get-firefox-on-your-phone = अपने फोन पर { -brand-name-firefox } पाएं
 welcome-page4-send-the-download-link-right = डाउनलोड लिंक को सीधा अपने फोन पर भेजें या ईमेल करें।
 welcome-page4-download-firefox-for-your = अपने स्मार्टफोन और टैबलेट के लिए { -brand-name-firefox } डाउनलोड करें।

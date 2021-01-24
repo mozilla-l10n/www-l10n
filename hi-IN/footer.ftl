@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = { -brand-name-mozilla } घोषणा पत्र
 footer-privacy = गोपनीयता
 footer-press = प्रेस
 footer-brand-standards = ब्रांड मानक
