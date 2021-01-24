@@ -53,11 +53,14 @@ does-firefox-use = { -brand-name-firefox }는 { -brand-name-google }을 사용�
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = { -brand-name-firefox }에 내장 VPN이 있나요?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+related-questions-ip = 관련 질문: { -brand-name-firefox }가 IP 주소를 숨시나요?
+who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
