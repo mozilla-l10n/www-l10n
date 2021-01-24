@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } FAQ
 what-is-firefox = { -brand-name-firefox } क्या है?
 
 # Variables:
@@ -39,6 +41,8 @@ is-firefox-safe = क्या { -brand-name-firefox } सुरक्षित 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+is-firefox-chromium = क्या { -brand-name-firefox } { -brand-name-chromium } आधारित है?
+does-firefox-use = क्या { -brand-name-firefox } { -brand-name-google } का उपयोग करता है?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox

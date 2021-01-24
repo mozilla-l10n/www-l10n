@@ -18,7 +18,9 @@ compare-shared-spell-checking = वर्तनी जांच
 compare-shared-web-extensionsadd-ons = वेब एक्सटेंशन/ऐड-ऑन
 compare-shared-os-availability = OS उपलब्धता
 compare-shared-mobile-os-availability = मोबाइल OS उपलब्धता
+compare-shared-syncs-with-mobile = मोबाइल के साथ सिंक करता है
 compare-shared-password-management = पासवर्ड प्रबंधक
+# Obsolete string
 compare-shared-master-password = मास्टर पासवर्ड
 compare-shared-security-and-privacy = सुरक्षा और गोपनीयता
 compare-shared-utility = उपयोगिता

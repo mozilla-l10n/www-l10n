@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = अतिरिक्त ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } आपकी ऑनलाइन गोपनीयता की रक्षा करता है और ट्रैकर्स को ब्लॉक करता है जो हर वेब पर आपका पीछा करते हैं.
+features-private-browsing-download-firefox = { -brand-name-firefox } डाउनलोड करें
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: सुरक्षा अधिक चिंता कम.
 features-private-browsing-were-obsessed-with = हमें आपकी गोपनीयता की सुरक्षा का जुनून है. यही कारण है कि हमने { -brand-name-firefox } निजी ब्राउज़िंग को दूसरों की तुलना में अधिक शक्तिशाली बनाया है.
 features-private-browsing-browse-without = बिना कोई निशान छोड़े ब्राउज़ करें
