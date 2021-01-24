@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = 현재 선택한 버전:
 firefox-all-browser = 브라우저:
 firefox-all-platform = 플랫폼:
 firefox-all-language = 언어:
+firefox-all-lang-multi = 여러 언어
 firefox-all-sorry-we-couldnt-find = 죄송합니다. 찾으시는 다운로드 항목이 없습니다. 다시 시도하거나 아래 목록에서 다운로드 항목을 선택하십시오.
 firefox-all-the-pre-alpha-version = 고급 사용자를 위한 알파 버전은 신규 기능 테스트 및 문제점 발견을 위한 용도로 제공합니다.
 firefox-all-64-bit-installers = 64비트 설치 프로그램
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = 기업용으로 제공하는 { -brand-name-
 firefox-all-windows-installers-for = 기업 IT용 윈도 설치 관리자를 통해 { -brand-name-firefox-browser }의 구성, 배포 및 관리를 단순화할 수 있습니다.
 firefox-all-arm64-installers = ARM64 / AArch64 설치 프로그램
 firefox-all-arm64-installers-optimized = ARM64 및 AArch64 설치 프로그램은 Snapdragon 기반의 { -brand-name-windows } PC에 최적화되어 있습니다.
+firefox-all-product-send-link = 휴대 전화로 다운로드 링크 보내기
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 비트 프로세서가 있는 컴퓨터 또는 일반적인 성능을 가진 컴퓨터의 경우 32 비트 설치 관리자를 선택하십시오. 64 비트 또는 32 비트 설치 프로그램을 선택할지 <a href="{ $url }">확실하지 않으시면</a>, 32 비트를 사용하는 것이 좋습니다.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-ios }용 { -brand-name-firefox }
