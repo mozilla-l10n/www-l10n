@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = Tłumacz Internet — bezpośrednio
 features-translate-translate-more-than = Tłumacz z ponad 100 języków na swój język bezpośrednio w { -brand-name-firefox-browser(case: "dat", capitalization: "lower") } — łatwiej niż kiedykolwiek.
 features-translate-translate-the-web = Tłumacz Internet za pomocą { -brand-name-firefox(case: "gen") }
 features-translate-the-google-translate = Rozszerzenie To { -brand-name-google } Translate do { -brand-name-firefox(case: "gen") } sprawia, że Internet jest dostępny dla całego świata.
+# $attrs (string) - link to https://www.mozilla.org/firefox/all/
+features-translate-the-internet-is = Internet jest pełen niesamowitych rzeczy, ale wiele z nich nie jest napisanych po angielsku — co sprawia, że miliardy ludzi na całym świecie potrzebują tłumacza tylko po to, aby korzystać z Internetu. Możesz <a { $attrs }>pobrać { -brand-name-firefox(case: "acc") } w ponad 100 językach</a>, więc menu, powiadomienia i komunikaty będą w Twoim preferowanym języku, ale nie rozwiązuje to problemu tych wszystkich niesamowitych rzeczy, które znajdujesz za pomocą przeglądarki.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Pobierz rozszerzenie

@@ -11,7 +11,7 @@ not-found-page-were-all-about-a-healthy-internet = Dbamy o zdrowy Internet, ale
 not-found-page-go-back = Wróć do poprzedniej strony
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Więcej informacji</a> o Mozilli, organizacji non-profit stojącej za Firefoksem.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Więcej informacji</a> o { -brand-name-mozilla(case: "loc") }, organizacji non-profit stojącej za { -brand-name-firefox(case: "ins") }.
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Poznaj</a> całą rodzinę produktów { -brand-name-firefox } zaprojektowanych tak, aby szanować Twoją prywatność.

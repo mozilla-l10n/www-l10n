@@ -14,6 +14,10 @@ password-manager-password-manager = Osiągnięcie zaliczone: menedżer haseł
 password-manager-give-up-the-memory = Zapomnij o zapominaniu haseł dzięki menedżerowi haseł { -brand-name-firefox(case: "gen") }.
 password-manager-password-hero = Hasłowe superbohaterstwo
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Zapomnij o zapominaniu haseł. Menedżer haseł { -brand-name-firefox(case: "gen") } zachowuje wszystkie Twoje hasła, umożliwiając szybkie automatyczne logowanie lub odnajdowanie zachowanych haseł. Dodatkowe bezpieczeństwo Twoich danych zapewnia <a href="{ $url }">hasło główne</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Zapomnij o zapominaniu haseł. Menedżer haseł { -brand-name-firefox(case: "gen") } zachowuje wszystkie Twoje hasła, umożliwiając szybkie automatyczne logowanie lub odnajdowanie zachowanych haseł. Dodatkowe bezpieczeństwo Twoich danych zapewnia <a href="{ $url }">hasło główne</a>.
 password-manager-password-magician = Hasłowa magia
@@ -26,7 +30,7 @@ password-manager-password-champion = Hasłowe mistrzostwo
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Zdobądź złoty medal bezpieczeństwa dzięki szerokiej gamie <a href="{ $addons }">dodatków</a> do menedżera haseł { -brand-name-firefox(case: "gen") }. Wybierz znane i lubiane rozwiązania lub rozszerz horyzonty dzięki ocenom i recenzjom społeczności użytkowników.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Hasłowe mistrzostwo
 # Obsolete string
 # Variables:
