@@ -20,5 +20,5 @@ features-adblocker-create-a-tracker-free = สร้างพื้นที่�
 features-adblocker-choose-your-level-of-protection = เลือกระดับการป้องกันของคุณ
 features-adblocker-go-easy-with-standard = ใช้งานง่ายด้วยโหมดมาตรฐาน
 features-adblocker-cover-your-trail-block = ปกปิดร่องรอยของคุณ ปิดกั้นผู้ติดตาม
-features-adblocker-send-a-do-not-track-signal = ส่งสัญญาณอย่าตามรอย
+features-adblocker-send-a-do-not-track-signal = ส่งสัญญาณว่า อย่าตามรอย
 features-adblocker-take-control-of-your-browser = เข้าควบคุมเบราว์เซอร์ของคุณ

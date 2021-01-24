@@ -9,7 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = Firefox รุ่นนักพัฒนาเร็วมาก มาพร้อมกับเครื่องมือล่าสุดสำหรับนักพัฒนาและคุณสมบัติล่าสุด เช่น การรองรับ CSS Grid และการดีบั๊กเฟรมเวอร์ค
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } เร็วมาก มาพร้อมกับเครื่องมือล่าสุดสำหรับนักพัฒนาและคุณสมบัติล่าสุด เช่น การรองรับ CSS Grid และการดีบั๊กเฟรมเวิร์ค
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ยินดีต้อนรับสู่เบราว์เซอร์ตัวโปรด รับคุณสมบัติล่าสุด ความเร็ว และเครื่องมือพัฒนาที่คุณต้องการสำหรับเว็บเปิด
 firefox-developer-speak-up = แสดงออก
