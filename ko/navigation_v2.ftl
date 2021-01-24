@@ -67,3 +67,5 @@ navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = 새로운 로우 레벨, 어셈블리어와 유사한 언어에 대해 자세히 알아보세요.
+navigation-v2-more-mozilla-innovation = 더 많은 { -brand-name-mozilla }의 혁신

@@ -28,3 +28,6 @@ newsletter-form-select-country = 국가 선택
 newsletter-form-sign-me-up = 등록하기
 newsletter-form-sign-up-now = 지금 구독하기
 newsletter-form-thanks = 감사합니다!
+newsletter-form-leave-this-field-empty = 이 필드는 남겨 둡니다.
+newsletter-form-yes = 네
+newsletter-form-no = 아니오
