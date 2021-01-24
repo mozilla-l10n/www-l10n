@@ -12,3 +12,5 @@ what-is-a-browser-a-web-browser = 網頁瀏覽器能帶您暢遊網際網路，�
 what-is-a-browser-how-does-a-web = 網頁瀏覽器如何運作？
 what-is-a-browser-cookies-not-the = Cookie（不是好吃的那種餅乾）
 what-is-a-browser-understanding = 了解隱私權
+what-is-a-browser-firefox-helps = { -brand-name-firefox } 透過讓您封鎖在不同網站間記錄行為的追蹤器，幫助保護您的線上隱私。
+what-is-a-browser-making-your-web = 讓瀏覽器符合您的使用習慣
