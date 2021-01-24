@@ -14,6 +14,10 @@ password-manager-password-manager = Достижение «Менеджер Па
 password-manager-give-up-the-memory = Сдайтесь в игре на память с менеджером паролей { -brand-name-firefox }.
 password-manager-password-hero = Герой паролей
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Забудьте о сбросах паролей. Менеджер паролей { -brand-name-firefox } будет хранить все ваши пароли, так вы сможете входить автоматически или легко их находить. Для дополнительной безопасности, задайте своему компьютеру <a href="{ $url }">мастер-пароль</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Забудьте о сбросах паролей. Менеджер паролей { -brand-name-firefox } хранит все ваши пароли, так вы можете входить автоматически или легко их находить. Для дополнительной безопасности, задайте своему компьютеру <a href="{ $url }">мастер-пароль</a>.
 password-manager-password-magician = Магистр паролей
