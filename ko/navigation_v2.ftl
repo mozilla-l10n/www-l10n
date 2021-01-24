@@ -38,9 +38,32 @@ navigation-v2-help-prevent-facebook-from = { -brand-name-facebook }이 다른 �
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = 모든 기기에서 브라우저외에도 보호를 받으세요.
 navigation-v2-product-promise = 제품 약속
+navigation-v2-learn-how-each-firefox-product = 각 { -brand-name-firefox } 제품이 어떻게 사용자의 데이터를 보호하고 존중하는지 알아보세요.
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }(베타)
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }(베타)
+navigation-v2-view-all-products = 모든 제품보기
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = 만드는 사람들
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } 선언문
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = 참여하기
+navigation-v2-join-the-fight-for-a = 건강한 인터넷을 위한 싸움에 동참하세요.
+navigation-v2-leadership = 리더쉽
+navigation-v2-meet-the-team-thats-building = 더 나은 인터넷을 위한 기술을 만드는 팀을 만나보세요.
+navigation-v2-careers = 채용
+navigation-v2-mozilla-blog = { -brand-name-mozilla } 블로그
+navigation-v2-more-about-mozilla = { -brand-name-mozilla }에 대한 자세한 정보
 
 ## Innovation menu
 
+navigation-v2-innovation = 혁신
+navigation-v2-close-innovation-menu = 혁신 메뉴 닫기
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = 개발자 전용으로 제작 된 { -brand-name-firefox } 브라우저를 받으세요.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-webassembly = { -brand-name-webassembly }

@@ -33,6 +33,7 @@ contribute-follow-mozilla = { -brand-name-mozilla } 팔로우
 ## Newsletter
 
 contribute-newsletter-heading = 아직 확실하지 않습니까?
+contribute-newsletter-sub-heading = 커뮤니티 및 기여 뉴스 받기
 
 ## Support
 
