@@ -12,6 +12,7 @@ browsers-chromebook-get-firefox-browser = { -brand-name-chromebook } के ल�
 browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-android } के लिए { -brand-name-firefox } पाएं
 browsers-chromebook-get-firefox-desktop = { -brand-name-chromebook } के लिए { -brand-name-firefox } डेस्कटॉप पाएं
 browsers-chromebook-dropdown-copy = { -brand-name-chromebook } के लिए { -brand-name-firefox } पाएं
+browsers-chromebook-is-it-hard = क्या { -brand-name-chromebook } के लिए { -brand-name-firefox } इंस्टॉल करना मुश्किल है?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
