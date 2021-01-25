@@ -37,4 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> evit { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> evit { -brand-name-ios }
 download-button-firefox-privacy = Buhez prevez { -brand-name-firefox }
+download-button-firefox-privacy-notice = Politikerezh prevezded { -brand-name-firefox }
 download-button-download = Pellgargañ

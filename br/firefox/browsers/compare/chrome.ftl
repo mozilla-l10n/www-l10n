@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: pehini eo an hini gwellañ?
+# Main title.
+compare-chrome-comparing-firefox-browser = Keñveriañ { -brand-name-firefox-browser } gant { -brand-name-google } { -brand-name-chrome }

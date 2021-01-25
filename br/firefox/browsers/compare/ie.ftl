@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } pe { -brand-name-ie }: pehini eo ar gwellañ merdeer evidoc'h?
+# Main title
+compare-ie-comparing-firefox-browser-with = Keñveriañ { -brand-name-firefox-browser } gant { -brand-name-microsoft } { -brand-name-ie }
