@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Pellgargañ { -brand-name-firefox }
+navigation-get-a-firefox-account = Kaout ur { -brand-name-firefox-account }
 navigation-download-for-ios = Pellgargañ evit { -brand-name-ios }
 navigation-download-for-android = Pellgargañ evit { -brand-name-android }
 navigation-ios-support = Skor { -brand-name-ios }
@@ -11,7 +12,11 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } evit { -brand-name-fire
 navigation-join-firefox = Tremen da { -brand-name-firefox }
 navigation-get-firefox = Kaout { -brand-name-firefox }
 navigation-get-firefox-focus = Kaout { -brand-name-firefox-focus }
+# Outdated string
+navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-manifesto = Manifest { -brand-name-mozilla }
 navigation-menu = Lañser
+navigation-browsers = Merdeerioù
 navigation-download = Pellgargañ
 navigation-support = Skor
 navigation-privacy = Buhez prevez
@@ -20,13 +25,14 @@ navigation-sign-in = Kennaskañ
 navigation-benefits = Spletoù
 navigation-about = A-zivout
 navigation-new-features = Keweriusterioù nevez
+# Outdated string
 navigation-add-ons = Askouezhioù
 navigation-projects = Raktresoù
 navigation-developers = Diorroerien
 navigation-resources = Loazioù
 navigation-leadership = Renerezh
 navigation-mission = Kefridi
-navigation-press-center = Kreizenn ar Gwask
+navigation-press-center = Kreizenn ar Wask
 navigation-contact = Darempred
 navigation-careers = Remzadoù
 navigation-get-involved = Kemer perzh

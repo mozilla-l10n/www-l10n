@@ -26,16 +26,22 @@ contribute-mission-heading = Hon c'hefridi
 contribute-learn = Gouzout hiroc'h diwar-benn { -brand-name-mozilla }
 contribute-read-manifesto = Lenn hor manifesto
 contribute-find-event = Kavout un darvoud
+contribute-donate = Ober un donezon
+contribute-follow-mozilla = Heuliañ { -brand-name-mozilla }
 
 ## Made by
 
 
 ## Newsletter
 
+contribute-newsletter-heading = N’hoc’h ket sur c’hoazh?
 
 ## Support
 
+contribute-support-heading = Kaout Skoazell
+contribute-mozilla-support = Skor { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Kudennoù gant ur bajenn web?
 contribute-report-issue = Dadanevellañ ur gudenn
