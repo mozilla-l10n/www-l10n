@@ -18,5 +18,5 @@ firefox-developer-performance = Digonusted
 firefox-developer-memory = Memor
 firefox-developer-style-editor = Embanner a Stilioù
 firefox-developer-new-tools = Ostilhoù nevez
-firefox-developer-firefox-devtools = DevTools Firefox
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } a gas ent emgefreek evezhiadennoù da v{ -brand-name-mozilla }.
