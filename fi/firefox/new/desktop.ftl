@@ -27,6 +27,7 @@ firefox-desktop-download-blocks-social-trackers = Estää sosiaalisen median seu
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Saatavuus käyttöjärjestelmille
 firefox-desktop-download-in-browser-screenshot = Selaimen sisäinen kuvakaappaustyökalu
+# Obsolete string
 firefox-desktop-download-master-password = Pääsalasana
 firefox-desktop-download-for-everyone = { -brand-name-firefox } on kaikille
 firefox-desktop-download-review-system-req = Tarkista järjestelmävaatimukset
@@ -47,6 +48,7 @@ firefox-desktop-download-spell-check = Oikeinkirjoituksen tarkistus
 firefox-desktop-download-pinned-tabs = Kiinnitetyt välilehdet
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Kuva kuvassa
+firefox-desktop-download-protect-your-privacy = Suojaa yksityisyyttäsi
 firefox-desktop-download-private-browsing-mode = Yksityinen selaus
 firefox-desktop-download-secure-your-personal = Suojaa henkilökohtaiset tietosi
 firefox-desktop-download-built-in-password = Sisäänrakennettu salasanojen hallinta
@@ -56,6 +58,8 @@ firefox-desktop-download-automatic-updates = Automaattiset päivitykset
 firefox-desktop-download-customize-your-browser = Mukauta selaintasi
 firefox-desktop-download-themes = Teemat
 firefox-desktop-download-dark-mode = Tumma tila
+firefox-desktop-download-adjust-search-bar = Säädä hakupalkin asetuksia
+firefox-desktop-download-make-firefox-your = Muokkaa <strong>{ -brand-name-firefox }</strong> omaksesi
 firefox-desktop-download-extensions-for-every = Laajennukset joka lähtöön
 firefox-desktop-download-tweak-your-settings = Säädä asetuksia
 firefox-desktop-download-your-privacy-comes = Yksityisyytesi tulee ensin

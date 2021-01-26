@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = On olemassa tapa suojata yksityisyyttäsi. Liity { -brand-name-firefox }iin.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Luo Firefox-tili – Pidä tietosi yksityisenä, turvassa ja ajan tasalla
+firefox-accounts-get-a-firefox-account = Luo { -brand-name-firefox-account } – Pidä tietosi yksityisenä, turvassa ja ajan tasalla
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Nouse vastaan yrityksiä, jotka myyvät tietojasi kolmansille osapuolille. Pysy älykkäänä ja turvallisena verkossa hyödyntäen puolestasi taistelevaa teknologiaa.
 # Old HTML page description
