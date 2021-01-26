@@ -11,7 +11,7 @@ not-found-page-were-all-about-a-healthy-internet = Uvijek smo za zdrav Internet,
 not-found-page-go-back = Idi natrag
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Saznajte više</a> o Mozilli, neprofitnoj organizaciji koja stoji iza { -brand-name-firefox }a.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Saznaj više</a> o { -brand-name-mozilla }u, neprofitnoj organizaciji koja stoji iza { -brand-name-firefox }a.
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Istraži</a> cijelu obitelj { -brand-name-firefox } proizvoda dizajniranih da poštoju vašu privatnost.
