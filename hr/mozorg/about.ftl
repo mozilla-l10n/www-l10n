@@ -36,5 +36,5 @@ about-get-involved = Uključi se
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = Primaj Mozillin bilten
+about-get-the-mozilla-newsletter = Pretplati se na { -brand-name-mozilla } bilten
 about-subscribe = Preplati se
