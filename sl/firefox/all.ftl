@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Prenesli boste:
 firefox-all-browser = Brskalnik:
 firefox-all-platform = Platforma:
 firefox-all-language = Jezik:
+firefox-all-lang-multi = Več jezikov
 firefox-all-sorry-we-couldnt-find = Oprostite, ne najdemo datoteke, ki jo želite prenesti. Poskusite znova ali izberite prenos s spodnjega seznama.
 firefox-all-the-pre-alpha-version = Predizdaja za napredne uporabnike, ki radi preizkušajo stabilnost brskalnika in nove možnosti.
 firefox-all-64-bit-installers = 64-bitni namestitveni programi

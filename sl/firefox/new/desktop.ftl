@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Prenesite { -brand-name-firefox-browser } – hiter, zaseben in brezplačen – delo { -brand-name-mozilla(sklon: "rodilnik") }
 firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox } vseh časov
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }

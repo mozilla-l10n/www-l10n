@@ -34,8 +34,12 @@ history-in-2003-the-mozilla-project = Leta 2003 je projekt { -brand-name-mozilla
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> je bil izdan leta 2004 in postal velikanski uspeh – v manj kot enem letu je doživel <a href="{ $millions }">več kot 100 milijonov prenosov</a>.
 history-new-versions-of-firefox = Odtlej so nove različice { -brand-name-firefox }a redno izhajale in postavljale nove in nove rekorde. Priljubljenost { -brand-name-firefox }a je pomagala izbiro vrniti v roke uporabnikov.
 # Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = Nova konkurenca je <a href="{ $innovation }">pospešila inovacije</a> in izboljšala internet za vsakogar.
+# Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = Leta 2013 smo predstavili <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a>, da bi sprostili celotno moč spleta za pametne telefone in novi generaciji uporabnikov spleta omogočili nadzor in izbiro.
 history-mozilla-also-celebrated = Leta 2013 je { -brand-name-mozilla } tudi praznovala 15-letnico svojega obstoja.
+history-the-community-has-shown = Skupnost je dokazala, da imajo komercialna podjetja lahko korist od sodelovanja v odprtokodnih projektih in da se odlični uporabniški izdelki lahko razvijajo kot odprtokodni programi.
 history-theres-no-guarantee-that = Nobenega zagotovila ni, da bo internet ostal odprt in prijazen in varen.
 history-timeline-of-mozilla-project = Časovnica projekta { -brand-name-mozilla }

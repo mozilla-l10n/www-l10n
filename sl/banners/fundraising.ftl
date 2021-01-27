@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = O prihodnosti se odloča na spletu. Pomagajte { -brand-name-mozilla(sklon: "dajalnik") } v boju za splet, ki bo boljši za vse.
+banner-fundraising-body = Ob vsakem obisku spleta zbirajo naše osebne podatke, kaj se zgodi z njimi, pa ni lahko odkriti. Iskanje resnice nam otežujejo lažne informacije. Na tržišče se pošiljajo naprave, povezane na splet, ne da bi izpolnjevale minimalne varnostne standarde. Neprofitna organizacija { -brand-name-mozilla-foundation } se trudi narediti internet varen, odprt in dostopen vsem. <strong>Boste darovali danes?</strong>
 banner-fundraising-monthly = Mesečno
 banner-fundraising-one-time = Enkratno
 banner-fundraising-donate = Donirajte
