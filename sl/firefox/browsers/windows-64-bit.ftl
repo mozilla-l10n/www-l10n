@@ -26,7 +26,7 @@ windows-64-bit-how-do-you-get-64 = Kako dobiti 64-bitni { -brand-name-firefox }?
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = Če uporabljate 64-bitni { -brand-name-windows } (<a href="{ $version }">tu je opisano, kako to preverite</a>), je vaš { -brand-name-firefox } morda že 64-bitni. <a href="{ $check }">Preverite svojo različico { -brand-name-firefox }a</a> (v okencu »O { -brand-name-firefox }u«) in poglejte, ali za številko različice piše »(32-bitni)« ali »(64-bitni)«:
 windows-64-bit-if-you-see-32-bit-older = Če vidite »(32-bitni)« in uporabljate { -brand-name-firefox } 56.0 ali starejšega, bi vam posodobitev { -brand-name-firefox }a morala samodejno priskrbeti 64-bitno različico.
-windows-64-bit-if-you-see-32-bit-newer = Če vidite »(32-bitni)« in uporabljate { -brand-name-firefox } 56.0.1 ali novejšega, morda vaš računalnik ne izpolnjuje zahtev 64-bitne različice glede pomnilnika (najmanj 3 GB pomnilnika RAM). Če želite, lahko 64-bitni { -brand-name-firefox } vseeno namestite ročno.
+windows-64-bit-if-you-see-32-bit-newer = Če vidite »(32-bitni)« in uporabljate { -brand-name-firefox } 56.0.1 ali novejši, morda vaš računalnik ne izpolnjuje zahtev 64-bitne različice glede pomnilnika (najmanj 3 GB pomnilnika RAM). Če želite, lahko 64-bitni { -brand-name-firefox } vseeno namestite ročno.
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Če želite ročno namestiti 32-bitno ali 64-bitno različico { -brand-name-firefox }a, lahko preprosto prenesete in znova zaženete namestitveni program za { -brand-name-windows } (32-bitni ali 64-bitni) s <a href="{ $all }">strani za sisteme in jezike</a>.
