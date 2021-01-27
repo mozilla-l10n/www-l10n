@@ -4,7 +4,7 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } herunterladen
-navigation-v2-get-a-firefox-account = Holen Sie sich einen { -brand-name-firefox-account }
+navigation-v2-get-a-firefox-account = Hol dir einen { -brand-name-firefox-account }
 navigation-v2-menu = Menü
 
 ## Firefox menu
