@@ -7,3 +7,7 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = ¿Mba’e ñanduti kundahára?
+what-is-a-browser-how-does-a-web = ¿Mba’éicha omba’apo ñanduti kundahára?
+what-is-a-browser-cookies-not-the = Kookie (ndaha’éi oje’úva)
+what-is-a-browser-understanding = Ñemigua ñeikumby
+what-is-a-browser-making-your-web = Emomba’apo ñanduti kundahára ndéve g̃uarã
