@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Non se atopou a páxina
+not-found-page-sorry-we-cant-find-that-page = Desculpe, non podemos atopar esa páxina
+not-found-page-go-back = Retroceder

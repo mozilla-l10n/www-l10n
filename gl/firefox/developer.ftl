@@ -10,5 +10,14 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-get-involved = Participe
+firefox-developer-start-now = Comezar agora
+firefox-developer-design-code-test = Deseñar. Programar. Probar. Refinar.
+firefox-developer-inspector = Inspector
+firefox-developer-console = Consola
+firefox-developer-debugger = Depurador
+firefox-developer-learn-more-about-debugger = Máis información sobre o depurador de JavaScript
+firefox-developer-network = Rede
+firefox-developer-storage-panel = Panel de almacenamento
 firefox-developer-style-editor = Editor de estilos
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } envía automaticamente as opinións a { -brand-name-mozilla }.

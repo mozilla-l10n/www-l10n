@@ -27,3 +27,5 @@ browser-history-by-1993-the-web = En 1993, a web estoupou. Universidades, gobern
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic funcionaba en ordenadores { -brand-name-windows }, era fácil de usar e daba acceso a calquera persoa con PC a primeiras páxinas web, salas de chat e bibliotecas de imaxes. O ano seguinte (1994), Andreessen fundou <a href="{ $netscape }"> { -brand-name-netscape } </a> e lanzou o Navigator de { -brand-name-netscape } ao público. Tivo un enorme éxito e foi o primeiro navegador para a xente. Foi tamén o primeiro movemento nun novo tipo de guerra para os usuarios de internet.
 browser-history-the-browser-wars = As Guerras dos Navegadores
+browser-history-resources = Recursos
+browser-history-take-control-of = Asuma o control do seu navegador
