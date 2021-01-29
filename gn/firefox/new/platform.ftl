@@ -20,7 +20,7 @@ new-platform-advanced-install-options = Ñemboguejy poravorã oikopátamava ha a
 new-platform-download-in-another = Emboguejy ambue ñe’ẽme
 new-platform-fix-a-problem = Emoĩporã apañuãi
 new-platform-need-help = Reikotevẽpa pytyvõ
-new-platform-download-mozilla-firefox-title = Embojuehe { -brand-name-firefox }, peteĩ kundaha reiguáva ñandutípe. { -brand-name-firefox } omoheñói peteĩ atyguasu arapyguáva viru’ỹ rehegua oñeha’ãva opavave tapicha oikundaha hag̃ua ñanduti rupi ojaposeháicha. ¡Eguerekóke { -brand-name-firefox } { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ha { -brand-name-ios } ko arapete!
+new-platform-download-mozilla-firefox-title = Embojuehe { -brand-name-mozilla } { -brand-name-firefox }, peteĩ kundaha reigua ñandutípe. { -brand-name-firefox } omoheñói atyguasu arapygua viru’ỹ rehegua oñeha’ãva opavave tapicha oikundaha hag̃ua ñanduti rupi ojaposeháicha. ¡Erekóke { -brand-name-firefox }, { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ha { -brand-name-ios } ko árape!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } peg̃uarã
 # /firefox/linux/ HTML page description
