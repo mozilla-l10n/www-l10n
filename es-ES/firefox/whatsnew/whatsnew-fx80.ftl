@@ -11,9 +11,9 @@ whatsnew80-up-to-date-banner = ¡Felicidades! Estás usando la última versión 
 # Main title
 whatsnew80-main-title = Haz prácticamente todo, un poco más rápido
 whatsnew80-main-intro = Muévete del ordenador al teléfono sin perderte de nada. Obtén { -brand-name-firefox } para dispositivos móviles.
-whatsnew80-primary-cta-description = Ingresa tu correo electrónico o número telefónico para un enlace de descarga
+whatsnew80-primary-cta-description = Introduce tu correo electrónico o número de teléfono para un enlace de descarga
 # content buckets below hero
-whatsnew80-password-fatigue = La fatiga con la contraseña es real
+whatsnew80-password-fatigue = La fatiga con las contraseñas es real
 whatsnew80-the-average-person = Una persona promedio tiene 130 cuentas en línea. { -brand-name-firefox } para dispositivos móviles recuerda y almacena tus contraseñas de forma segura entre los dispositivos sincronizados, por lo que puedes conectarte con solo un clic a tus sitios.
 whatsnew80-privacy-you-never = Privacidad que nunca genera dudas
 whatsnew80-firefox-for-mobile = { -brand-name-firefox } para dispositivos móviles bloquea la mayoría de los rastreadores de anuncios en línea automáticamente, por lo que no es necesario profundizar en tus ajustes de seguridad.

@@ -14,6 +14,10 @@ password-manager-password-manager = Logro de administrador de contraseñas desbl
 password-manager-give-up-the-memory = Olvídate de los juegos mentales con el Administrador de contraseñas de { -brand-name-firefox }.
 password-manager-password-hero = Héroe de la contraseña
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Olvídate de restablecer contraseñas. El Administrador de contraseñas de { -brand-name-firefox } guarda todas tus contraseñas para que puedas iniciar sesión automáticamente o para encontrarlas fácilmente. Para mayor seguridad, activa una <a href="{ $url }">contraseña maestra</a> en tu equipo.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Olvídate de restablecer contraseñas. El Administrador de contraseñas de { -brand-name-firefox } guarda todas tus contraseñas para que puedas iniciar sesión automáticamente o para encontrarlas fácilmente. Para mayor seguridad, activa una <a href="{ $url }">contraseña maestra</a> en tu equipo.
 password-manager-password-magician = Mago de las contraseñas
