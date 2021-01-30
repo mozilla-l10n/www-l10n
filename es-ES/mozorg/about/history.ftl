@@ -64,3 +64,16 @@ history-more-people-than-ever-before = Más personas que nunca utilizan Internet
 history-a-sustainable-organization = Se creó una organización sostenible que utiliza mecanismos de mercado para apoyar una misión de beneficio público y este modelo ha sido reutilizado por otros para crear organizaciones abiertas, transparentes y colaborativas en un <a href="{ $range }">amplio rango</a> <a href="{ $areas }">de áreas</a>.
 history-the-future-is-full-of-challenges = El futuro está lleno de desafíos y oportunidades iguales a los de nuestro pasado.
 history-theres-no-guarantee-that = No hay garantías de que Internet permanezca abierto, divertido o seguro.
+history-mozilla-will-continue-to = { -brand-name-mozilla } continuará brindando una oportunidad para que las personas hagan oír su voz y den forma a sus vidas en línea.
+history-of-course-were-not-alone = Por supuesto, no estamos solos en esta tarea.
+history-the-mozilla-community-together = La comunidad { -brand-name-mozilla }, junto con otros proyectos de código abierto y otras organizaciones de beneficio público, existe solo por las personas que se dedican a hacer nuestros objetivos comunes realidad.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Si quieres unirte a nosotros en nuestra misión, por favor <a href="{ $Contribute }">involúcrate</a>.
+history-for-more-information-about = Para obtener más información sobre la historia de { -brand-name-mozilla }, lee lo siguiente:
+history-mozilla-bookmarks = Marcadores de { -brand-name-mozilla }
+history-timeline-of-mozilla-project = Cronología del proyecto { -brand-name-mozilla }
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">La historia de los pósteres de { -brand-name-firefox } y { -brand-name-mozilla }</a> (disponible en inglés y japonés)
