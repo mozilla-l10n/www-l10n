@@ -54,3 +54,13 @@ history-the-renewed-competition = La competencia renovada ha <a href="{ $innovat
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = En 2013, lanzamos <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> para liberar todo el poder de la web en los teléfonos inteligentes y una vez más ofrecer el control y capacidad de elección a una nueva generación de usuarios recién llegados a Internet
 history-mozilla-also-celebrated = { -brand-name-mozilla } también celebró su 15º aniversario en 2013.
+history-the-community-has-shown = La comunidad ha demostrado que las empresas comerciales pueden beneficiarse colaborando en proyectos de código abierto y que se pueden producir grandes productos para el usuario final como software de código abierto.
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = Más personas que nunca utilizan Internet y lo disfrutan <a href="{ $all }">en su propio idioma</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Se creó una organización sostenible que utiliza mecanismos de mercado para apoyar una misión de beneficio público y este modelo ha sido reutilizado por otros para crear organizaciones abiertas, transparentes y colaborativas en un <a href="{ $range }">amplio rango</a> <a href="{ $areas }">de áreas</a>.
+history-the-future-is-full-of-challenges = El futuro está lleno de desafíos y oportunidades iguales a los de nuestro pasado.
+history-theres-no-guarantee-that = No hay garantías de que Internet permanezca abierto, divertido o seguro.
