@@ -11,6 +11,7 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Aparelhs preses en carga
 download-button-whats-new = Qué de nòu
 download-button-systems-languages = Sistèmas e lengas
+download-button-recommended = Recomandat
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Seguissètz <a href="{ $url }">aquestas instruccions</a> per installar { -brand-name-firefox }.

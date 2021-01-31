@@ -2,8 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-### URL: https://www-dev.allizom.org/404/
-
-not-found-page-not-found-page-page-not-found = 404: Pagina Pas Trobada
-not-found-page-go-back = Tornar
+error-page-error-page-internal-server-error = 500 : error intèrna del servidor
+error-page-something-went-wrong = I a quicòm que truca

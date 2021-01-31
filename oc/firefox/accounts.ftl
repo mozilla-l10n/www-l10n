@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+firefox-accounts-sign-in-to-monitor = Se connectar a { -brand-name-monitor }
+firefox-accounts-enter-your-email-address = Picatz vòstra adreça electronica per començar.
+firefox-accounts-already-have-an-account = Avètz ja un compte ?
+firefox-accounts-sign-in = Se connectar
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
