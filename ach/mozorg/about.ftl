@@ -19,7 +19,7 @@ about-our-mission-in-action = Miti Wa i Tic
 about-pioneers-of-the-open-web = Jo ma ocako Kakube ma Ayaba
 about-firefox-fast-for-good = { -brand-name-firefox }: Dwir Matwal
 about-when-you-use-the-new-firefox = Ka itiyo ki { -brand-name-firefox } manyen ni, inongo dwiro madit me tic kun nongo iyilo rwom me miti pa { -brand-name-mozilla } me gwoko intanet ki yotkom, me tango dok ma jolo dano weng.
-about-learn-about-the-mozilla-foundation = Nong ngec ikom Guti me Mozilla
+about-learn-about-the-mozilla-foundation = Nong ngec ikom { -brand-name-mozilla-foundation }
 about-san-francisco = San Francisco
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = wele <strong>2000</strong> ma pe lutic ma kijolo gi imwaka acelacel

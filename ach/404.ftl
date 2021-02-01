@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Potbuk pe ononge
+not-found-page-sorry-we-cant-find-that-page = Timwa kica, pe watwero nongo potbuk meno
