@@ -5,3 +5,7 @@
 error-page-error-page-internal-server-error = 500: Ba ma iyie Lapok Tic
 error-page-something-went-wrong = Gin mo otime marac
 error-page-its-probably-just-a-server-error = Twero bedo bal mo iyie lapok tic ki watye katic me yubo ne.
+# Variables:
+#   $firefox (url) - link to https://firefox.com/
+#   $mozilla (url) - link to https://www.mozilla.org/
+error-page-you-can-also-try-refreshing = Itwero bene nwoyo cano potbuk man onnyo cit i <a href={ $firefox }>firefox.com</a> onyo <a href={ $mozilla }>mozilla.org</a>
