@@ -116,4 +116,4 @@ manifesto-details-promote-models = Onura publikorako balio ekonomikoa sortzeko m
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla } Manifestuko printzipioak diskurtso publikoan eta Interneteko industrian sustatu.
 manifesto-details-some-foundation = Fundazioaren zenbait jarduera (kontsumitzaileentzako produktuen sorkuntza, banaketa eta promozioa, gaur-gaurkoz), Mozilla Fundazioaren jabetzakoa eta menpekoa den Mozilla Korporazioak bideratzen ditu batez ere.
 manifesto-details-invitation = Gonbidapena
-manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla } Fundazioak harekin bat egin eta Interneten ikuspegi hau gauzatzeko bide berriak bilatzeko gonbidapena luzatzen dio Manifestuko printzipioekin bat datorren orori.
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }(e)k harekin bat egin eta Interneten ikuspegi hau gauzatzeko bide berriak bilatzeko gonbidapena luzatzen dio { -brand-name-mozilla } Manifestuko printzipioekin bat datorren orori.
