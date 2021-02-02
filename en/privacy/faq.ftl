@@ -50,7 +50,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Sort-of. In addition to the data d
 privacy-faq-we-may-also-collect-additional = We may also collect additional data in pre-release for one of our <a href="{ $link }">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve { -brand-name-firefox }, for example, how to better integrate popular websites in specific locales.
 privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla }’s pre-release versions of { -brand-name-firefox } are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
 privacy-faq-but-why-do-you-collect-any-data = But why do you collect any data at all?
-privacy-faq-if-we-dont-know-how-the-browser = If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+privacy-faq-if-we-dont-know-how-the-browser = If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people’s privacy.
 privacy-faq-data-collection-still-bugs-me = Data collection still bugs me. Can I turn it off?
 
 # Variables:
@@ -58,13 +58,13 @@ privacy-faq-data-collection-still-bugs-me = Data collection still bugs me. Can I
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 privacy-faq-yes-user-control-is-one-of-our = Yes. User control is one of our data privacy principles. We put that into practice in { -brand-name-firefox } on our <a href="{ $settings }">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in { -brand-name-firefox }. You can <a href="{ $data }">turn off data collection</a> there.
 privacy-faq-what-about-my-account-data = What about my account data?
-privacy-faq-we-are-big-believers-of-data = We are big believers of data minimization and not asking for things we don't need.
+privacy-faq-we-are-big-believers-of-data = We are big believers of data minimization and not asking for things we don’t need.
 
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
-privacy-faq-you-dont-need-an-account-to = You don't need an account to use { -brand-name-firefox }. <a href="{ $accounts }">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-privacy-faq-you-use-digital-advertising = You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-privacy-faq-no-we-do-not-buy-peoples-data = No, we do not buy people's data to target advertising.
+privacy-faq-you-dont-need-an-account-to = You don’t need an account to use { -brand-name-firefox }. <a href="{ $accounts }">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don’t want to know things like your name, address, birthday and phone number.
+privacy-faq-you-use-digital-advertising = You use digital advertising as part of your marketing mix. Do you buy people’s data to better target your online ads?
+privacy-faq-no-we-do-not-buy-peoples-data = No, we do not buy people’s data to target advertising.
 privacy-faq-we-do-ask-our-advertising-partners = We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
 privacy-faq-well-it-seems-like-you-really = Well, it seems like you really have my back on this privacy stuff.
 privacy-faq-yes-we-do = Yes, we do.
