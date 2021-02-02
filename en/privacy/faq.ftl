@@ -40,8 +40,12 @@ privacy-faq-okay-those-first-few-were-softballs = Okay, those first few were sof
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } does collect a limited set of data by default from { -brand-name-firefox } that helps us to understand how people use the browser. That data is tied to a random identifier rather than your name or email address. You can read more about that on our <a href="{ $privacy }">privacy notice</a> and you can read the <a href="{ $data }">full documentation for that data collection</a>.
 privacy-faq-we-make-our-documentation-public = We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+
+# "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = That documentation is gobbledygook to me! Can you give it to me in plain English?
 privacy-faq-there-are-two-categories-of = There are two categories of data that we collect by default in our release version of { -brand-name-firefox }.
+privacy-faq-the-first-is-what-we-call-technical = The first is what we call “technical data.” This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+privacy-faq-the-second-is-what-we-call-interaction = The second is what we call “interaction data.” This is data about an individual’s engagement with { -brand-name-firefox }, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
 privacy-faq-do-you-collect-more-data-in = Do you collect more data in pre-release versions of { -brand-name-firefox }?
 privacy-faq-sort-of-in-addition-to-the-data = Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of { -brand-name-firefox }.
 
