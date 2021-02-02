@@ -17,7 +17,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Instale o navegador que protege o que é importante
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem acesso escondido para anunciantes. Apenas um navegador extremamente rápido que não vende você como produto.
-firefox-desktop-download-download-options = Opções e outros idiomas de download
+firefox-desktop-download-download-options = Opções de tipo de navegador e outros idiomas
 firefox-desktop-download-browser-support = Suporte do { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = O que quer que você faça online.<br>O { -brand-name-firefox-browser } <strong>não</strong> está vigiando.
