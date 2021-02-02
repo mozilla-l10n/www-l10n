@@ -6,7 +6,7 @@
 
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla }’s Data Privacy FAQ
-privacy-faq-at-mozilla-we-respect-and-protect-desc = At { -brand-name-mozilla } we respect and protect your personal information.
+privacy-faq-at-mozilla-we-respect-and-protect-desc = At { -brand-name-mozilla }, we respect and protect your personal information.
 
 privacy-faq-we-stand-for-people-over-profit = We Stand for People Over Profit.
 privacy-faq-it-can-be-tricky-for-people = It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for { -brand-name-firefox }, where we find that people have many different ideas of what is happening under the hood in their browser.
@@ -19,26 +19,26 @@ privacy-faq-we-only-collect-the-data-we = We only collect the data we need to ma
 privacy-faq-we-put-people-in-control-of = We put people in control of their data and online experiences.
 privacy-faq-we-adhere-to-no-surprises-principle = We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of { -brand-name-firefox } matches reality.
 privacy-faq-the-following-questions-and = The following questions and answers should help you understand what to expect from { -brand-name-mozilla } and { -brand-name-firefox }:
-privacy-faq-i-use-firefox-for-almost-everything = I use { -brand-name-firefox } for almost everything on the Web. You folks at { -brand-name-mozilla } must know a ton of stuff about me, right?
+privacy-faq-i-use-firefox-for-almost-everything = I use { -brand-name-firefox } for almost everything on the web. You folks at { -brand-name-mozilla } must know a ton of stuff about me, right?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. { -brand-name-mozilla }, the company that makes { -brand-name-firefox }, doesn’t collect it (unless you ask us to).
 privacy-faq-really-you-dont-collect-my-browsing = Really, you don’t collect my browsing history?
 
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across { -brand-name-firefox } installations, we don’t know what that history is - because it’s encrypted by your device.
+privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across { -brand-name-firefox } installations, we don’t know what that history is — because it’s encrypted by your device.
 privacy-faq-it-seems-like-every-company = It seems like every company on the web is buying and selling my data. You’re probably no different.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } doesn’t sell data about you, and we don’t buy data about you.
 privacy-faq-wait-so-how-do-you-make-money = Wait, so how do you make money?
 
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } is not your average organization. Founded as a community open source project in 1998, { -brand-name-mozilla } is a mission-driven organization working towards a more healthy internet. The majority of { -brand-name-mozilla } Corporation’s revenue is from royalties earned through { -brand-name-firefox } web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="{ $link }">annual financial report</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } is not your average organization. Founded as a community open source project in 1998, { -brand-name-mozilla } is a mission-driven organization working towards a more healthy internet. The majority of { -brand-name-mozilla-corporation }’s revenue is from royalties earned through { -brand-name-firefox } web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="{ $link }">annual financial report</a>.
 privacy-faq-okay-those-first-few-were-softballs = Okay, those first few were softballs. What data do you collect?
 
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } does collect a limited set of data by default from { -brand-name-firefox } that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="{ $privacy }">privacy notice</a> and you can read the <a href="{ $data }">full documentation for that data collection</a>.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } does collect a limited set of data by default from { -brand-name-firefox } that helps us to understand how people use the browser. That data is tied to a random identifier rather than your name or email address. You can read more about that on our <a href="{ $privacy }">privacy notice</a> and you can read the <a href="{ $data }">full documentation for that data collection</a>.
 privacy-faq-we-make-our-documentation-public = We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
 privacy-faq-that-documentation-is-gobbledygook = That documentation is gobbledygook to me! Can you give it to me in plain English?
 privacy-faq-there-are-two-categories-of = There are two categories of data that we collect by default in our release version of { -brand-name-firefox }.
@@ -62,8 +62,7 @@ privacy-faq-we-are-big-believers-of-data = We are big believers of data minimiza
 
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
-privacy-faq-you-dont-need-an-account-to-updated = You don't need an account to use { -brand-name-firefox }. <a href="{ $accounts }">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-privacy-faq-you-dont-need-an-account-to = You don't need an account to use { -brand-name-firefox }. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+privacy-faq-you-dont-need-an-account-to = You don't need an account to use { -brand-name-firefox }. <a href="{ $accounts }">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
 privacy-faq-you-use-digital-advertising = You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
 privacy-faq-no-we-do-not-buy-peoples-data = No, we do not buy people's data to target advertising.
 privacy-faq-we-do-ask-our-advertising-partners = We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
