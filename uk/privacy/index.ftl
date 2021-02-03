@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Приватність { -brand-name-mozilla }
@@ -29,7 +29,7 @@ privacy-index-as-an-open-source-project = Відкритість і прозор
 privacy-index-to-review-and-comment-on-proposed = Щоб перевірити й залишити коментарі з пропозиціями про зміни для нашої політики приватності, <a href="{ $group }"> підпишіться на групу управління { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = Читайте більше про нашу поточну роботу над політикою приватності та безпеки в <a href="{ $blog }">Блозі про політику відкритості й захист</a>.
+privacy-index-read-more-about-our-ongoing = Читайте більше про нашу поточну роботу над політикою приватності та безпеки в <a href="{ $blog }">Блозі { -brand-name-mozilla } про політику відкритості й захист</a>.
 privacy-index-outdated-policies = Попередні версії
 privacy-index-mozilla-websites-communications = Вебсайти, комунікації та куки { -brand-name-mozilla }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
