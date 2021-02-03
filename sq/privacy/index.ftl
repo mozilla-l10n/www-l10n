@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Parime Privatësie të Dhënash
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla }'s <a href="{ $principles }">Parime Privatësie të Dhënash</a> nga { -brand-name-mozilla } frymëzon praktikat tona që respektojnë dhe mbrojnë njerëzit që përdorin Internetin. Mësoni te kjo <a href="{ $faq }">FAQ</a> se si këto parime i japin formë { -brand-name-firefox }-it dhe krejt produkteve tona.
 privacy-index-transparency-report = Raport Transparence
+privacy-index-get-involved = Përfshihuni
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Si një projekt me burim të hapur, transparenca dhe të qenët të hapur janë pjesë thelbësore e parimeve themeltare të { -brand-name-mozilla }-s. Kodet tona të programimit janë të hapur dhe të inspektueshëm. Puna jonë në programim është e hapur. <a href="{ $report }">Raporti ynë i Transparencës</a>, i botuar çdo dy vjet, dëshmon përkushtimin tonë ndaj këtyre parimeve.
@@ -32,4 +33,13 @@ privacy-index-to-review-and-comment-on-proposed = Që të shqyrtoni dhe komenton
 privacy-index-read-more-about-our-ongoing = Lexoni më tepër rreth punës së vazhdueshme për politika të privatësisë dhe sigurisë publike, te <a href="{ $blog }">{ -brand-name-mozilla }'s Open Policy and Advocacy Blog</a>.
 privacy-index-outdated-policies = Rregulla të Vjetruara
 privacy-index-mozilla-websites-communications = Sajte, Komunikime &amp; Cookies Mozilla
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } për { -brand-name-fire-tv }
