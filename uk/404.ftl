@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: сторінку не знайдено
-not-found-page-sorry-we-cant-find-that-page = Перепрошуємо, але ми не можемо знайти цю сторінку
+not-found-page-sorry-we-cant-find-that-page = Перепрошуємо, але нам не вдалося знайти цю сторінку
 not-found-page-were-all-about-a-healthy-internet = Ми за здоровий Інтернет, але несправні URL-адреси іноді трапляються.
-not-found-page-go-back = Повернутися назад
+not-found-page-go-back = Назад
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Дізнатися</a> про неприбуткову організацію { -brand-name-mozilla }, розробника { -brand-name-firefox }.
