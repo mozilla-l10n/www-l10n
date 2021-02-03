@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = A { -brand-name-mozilla } não vend
 privacy-faq-wait-so-how-do-you-make-money = Então, como vocês lucram?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = A { -brand-name-mozilla } não é uma organização tradicional. Fundada em 1998, como um projeto de código aberto comunitário, a { -brand-name-mozilla } é uma organização comprometida com a visão de trabalhar para uma Internet mais saudável. A maior parte da arrecadação da Corporação { -brand-name-mozilla } é obtida de pagamento de royalties pelos acordos de distribuição e parcerias de pesquisa pelo navegador { -brand-name-firefox } em todo o mundo. Saiba mais sobre como fazemos dinheiro em nosso <a href="{ $link }">relatório financeiro anual</a>.
+privacy-faq-mozilla-is-not-your-average = A { -brand-name-mozilla } não é uma organização tradicional. Fundada em 1998 como um projeto de código aberto da comunidade, a { -brand-name-mozilla } é uma organização guiada por uma missão e trabalha em prol de uma internet saudável. A maior parte da arrecadação da { -brand-name-mozilla-corporation } vem de pagamento de royalties pelas parcerias de pesquisa no navegador { -brand-name-firefox } e acordos de distribuição no mundo todo. Saiba mais sobre como recebemos dinheiro em nosso <a href="{ $link }">relatório financeiro anual</a>.
 privacy-faq-okay-those-first-few-were-softballs = Certo, as primeiras perguntas foram fáceis. Quais dados vocês coletam?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
