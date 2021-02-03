@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } za { -brand-name-fire-t
 navigation-watch-videos-and-browse = Gledaj videa i pregledaj internet na svom { -brand-name-amazon } { -brand-name-fire-tv }-u.
 navigation-firefox-browsers-put = { -brand-name-firefox } preglednici stavljaju tvoju privatnost na prvo mjesto – to je već uvijek bilo tako.
 navigation-take-the-passwords-youve = Ponesi lozinke koje spremaš u { -brand-name-firefox }u svugdje sa sobom.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } je cijela porodica proizvoda, dizajnirana za zaštićeno i sigurno pregledavanje interneta.
 navigation-join-firefox = Pridruži se { -brand-name-firefox }u
 navigation-access-all-of-firefox = Pristupi svim { -brand-name-firefox } uslugama s jednom prijavom – i koristi svaki proizvod još bolje.
@@ -27,7 +28,7 @@ navigation-read-about-new-firefox = Čitaj o novim { -brand-name-firefox } funkc
 navigation-the-non-profit-behind = Neprofitna organizacija koja se krije iza { -brand-name-firefox }a bori se za zdrav internet za sve.
 navigation-learn-how-firefox-treats = Saznaj kako { -brand-name-firefox } poštuje tvoje podatke.
 navigation-mozilla-careers = Karijere u { -brand-name-mozilla }
-navigation-approach-your-career = Pristupi svojoj karijeri s osjećajem svrhe. Pronađi posao u { -brand-name-mozilla }.
+navigation-approach-your-career = Započni karijeru s osjećajem svrhe. Pronađi posao pri { -brand-name-mozilla }.
 navigation-close-firefox-menu = Zatvori izbornik { -brand-name-firefox }
 navigation-get-the-browser-that-gives = Preuzmi preglednik koji ti daje veću moć na sustavima { -brand-name-windows }, { -brand-name-mac } ili { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Ponesi { -brand-name-firefox } i { -brand-name-firefox-focus } sa sobom. Za { -brand-name-android } i { -brand-name-ios }.
@@ -36,10 +37,15 @@ navigation-get-firefox-focus = Preuzmi { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } dodaci
 navigation-your-firefox-account = Tvoj { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Iskoristi maksimalno svoje { -brand-name-firefox } iskustvo, na svim svojim uređajima.
+# Outdated string
 navigation-learn-how-to-customize = Saznaj kako prilagoditi { -brand-name-firefox }.
+# Outdated string
 navigation-experience-augmented = Iskusi proširenu i virtualnu stvarnost s { -brand-name-firefox }om.
+# Outdated string
 navigation-meet-people-in-experimental = Upoznaj ljude u eksperimentalnim chat sobama mješovite stvarnosti s { -brand-name-firefox }om.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } uvodi { -brand-name-firefox } u proširenu i virtualnu stvarnost.
 navigation-firefox-built-just-for = { -brand-name-firefox }, izgrađen samo za programere.
 navigation-preview-the-latest-build = Pregledaj najnoviju { -brand-name-firefox } gradnju i pomozi nam učiniti ga najboljim.
@@ -64,6 +70,7 @@ navigation-security-tips = Savjeti za sigurnost
 navigation-share-large-files-safely = Dijeli velike datoteke na siguran način, s poveznicama koje se „samouništavaju”.
 navigation-save-quality-content = Spremi kvalitetan sadržaj od svugdje. Konzumiraj ga bilo gdje.
 navigation-sign-up = Registriraj se
+# Outdated string
 navigation-connected-and-protected = Spojeni i zaštićeni
 navigation-join = Pridruži se
 navigation-close-join-menu = Zatvori izbornik za pridruživanje
@@ -76,11 +83,14 @@ navigation-meet-the-technology-company = Upoznaj tehnološko poduzeće, koje lju
 navigation-new-features = Nove funkcije
 navigation-save-content-absorb-knowledge = Spremi sadržaj. Upijaj znanje.
 navigation-same-speed-and-safety = Ista brzina i sigurnost kojoj vjeruješ, dizajnirano samo za poslovanje.
+# Outdated string
 navigation-add-ons = Dodaci
 navigation-projects = Projekti
 navigation-close-projects-menu = Zatvori izbornik Projekti
 navigation-donate-your-voice-to = Doniraj svoj glas i pomozi svima omogućiti prepoznavanje glasa.
+# Outdated string
 navigation-web-of-things-iot = Internet stvari (IoT)
+# Outdated string
 navigation-make-devices-connected = Učini uređaje povezane na internet sigurnima i interoperabilnima.
 navigation-developers = Programeri
 navigation-close-developers-menu = Zatvori izbornik za programere
