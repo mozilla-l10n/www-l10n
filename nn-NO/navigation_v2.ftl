@@ -15,6 +15,7 @@ navigation-v2-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
 navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Få den tilpassbare mobilnettlesaren for { -brand-name-android }-smarttelefonar.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Få mobilnettlesaren for { -brand-name-iphone } eller { -brand-name-ipad }.
 
 ## Products menu
 
