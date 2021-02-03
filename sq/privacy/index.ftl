@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Privatësia te { -brand-name-mozilla }
@@ -31,5 +31,5 @@ privacy-index-to-review-and-comment-on-proposed = Që të shqyrtoni dhe komenton
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Lexoni më tepër rreth punës së vazhdueshme për politika të privatësisë dhe sigurisë publike, te <a href="{ $blog }">{ -brand-name-mozilla }'s Open Policy and Advocacy Blog</a>.
 privacy-index-outdated-policies = Rregulla të Vjetruara
-privacy-index-mozilla-websites-communications = Sajte, Komunikime &amp; Cookies te { -brand-name-mozilla }
+privacy-index-mozilla-websites-communications = Sajte, Komunikime &amp; Cookies Mozilla
 privacy-index-firefox-fire-tv = { -brand-name-firefox } për { -brand-name-fire-tv }
