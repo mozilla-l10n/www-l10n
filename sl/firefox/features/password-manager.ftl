@@ -14,6 +14,10 @@ password-manager-password-manager = Shranjevanje gesel? Rešen problem!
 password-manager-give-up-the-memory = Prepustite spominsko igro { -brand-name-firefox }ovemu upravitelju gesel.
 password-manager-password-hero = Junak gesel
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Pozabite ponastavitev. { -brand-name-firefox }ov upravitelj gesel shranjuje vsa vaša gesla, da se lahko prijavljate samodejno ali enostavno najdete shranjena gesla. Za dodatno varnost svojemu računalniku nastavite <a href="{ $url }">glavno geslo</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Pozabite ponastavitev. { -brand-name-firefox }ov upravitelj gesel shranjuje vsa vaša gesla, da se lahko prijavljate samodejno ali enostavno najdete shranjena gesla. Za dodatno varnost svojemu računalniku nastavite <a href="{ $url }">glavno geslo</a>.
 password-manager-password-magician = Čarodej gesel

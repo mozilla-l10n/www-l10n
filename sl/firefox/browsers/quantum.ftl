@@ -7,6 +7,7 @@
 
 page-title = Prenesite { -brand-name-firefox-quantum }
 page-description = { -brand-name-firefox-quantum } je bil revolucionaren. Leta 2017 smo ustvarili nov, bliskovito hiter brskalnik, ki se neprenehoma izboljšuje. { -brand-name-firefox-quantum } je postal { -brand-name-firefox-browser }.
+the-latest-firefox = Najnovejši { -brand-name-firefox }ov motor: { -brand-name-firefox-quantum }
 firefox-quantum-was = { -brand-name-firefox-quantum } je bil revolucija v razvoju { -brand-name-firefox }a. Leta 2017 smo ustvarili nov, bliskovito hiter brskalnik, ki se neprenehoma izboljšuje. { -brand-name-firefox-quantum } je postal { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Več o { -brand-name-firefox-quantum }u

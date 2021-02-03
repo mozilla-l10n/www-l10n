@@ -10,6 +10,8 @@ compare-shared-yes = Da
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ne
 compare-shared-private-browsing-mode = Način zasebnega brskanja
+compare-shared-blocks-third-party-tracking-default = Privzeto zavrača sledilne piškotke tretjih strani
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Zavračanje sledilnih piškotkov tretjih strani
 compare-shared-blocks-cryptomining-scripts = Zavračanje kriptorudarskih skriptov
 compare-shared-blocks-social-trackers = Zavračanje sledilcev družbenih omrežij
@@ -27,6 +29,8 @@ compare-shared-os-availability = Podpora operacijskim sistemom
 compare-shared-mobile-os-availability = Podpora mobilnim operacijskim sistemom
 compare-shared-syncs-with-mobile = Sinhronizacija z mobilno napravo
 compare-shared-password-management = Upravljanje gesel
+compare-shared-primary-password = Glavno geslo
+# Obsolete string
 compare-shared-master-password = Glavno geslo
 compare-shared-security-and-privacy = Varnost in zasebnost
 compare-shared-utility = Uporabnost
@@ -38,6 +42,8 @@ compare-shared-utility-strong = <strong>Uporabnost</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Prenosljivost:</strong>
 compare-shared-overall-assessment = Splošna ocena
+compare-shared-the-comparisons-made-here-updated = Primerjava med brskalniki je bila opravljena s privzetimi nastavitvami v sledečih različicah:
+# Obsolete string
 compare-shared-the-comparisons-made-here = Primerjava med brskalniki je bila opravljena v sledečih različicah:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
