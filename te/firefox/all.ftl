@@ -10,7 +10,7 @@ firefox-all-source-code = మూల కోడు
 firefox-all-need-help = సహాయం కావాలా?
 firefox-all-which-browser-would = మీరు ఏ విహారిణిని దించుకోవాలనుకుంటున్నారు?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = సంహాయం పొందండి
+firefox-all-get-help = సహాయం పొందండి
 firefox-all-you-are-about-to-download = మీరు దించుకోబోతున్నది ఇది:
 firefox-all-browser = విహారిణి:
 firefox-all-platform = ఫ్లాట్‌ఫారం:
