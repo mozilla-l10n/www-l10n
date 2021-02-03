@@ -26,4 +26,6 @@ privacy-passwords-strength-in-diversity = Sylnosć we wšelakorosći
 privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeho maćerje je „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajće sej pomoc wot zrjadowaka hesłow
 privacy-passwords-twofactor-authentication-2fa = Dwufaktorowa awtentifikacija (2FA)
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = Waše konto { -brand-name-firefox }, na přikład, da so z 2FA škitać, <a { $url_sumo_2fa }wo čimž móžeće tu wjace zhonić</a>.
 privacy-passwords-strong-diverse-and = Mócny, wšělakory a multifaktorielny
