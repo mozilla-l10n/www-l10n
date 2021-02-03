@@ -17,3 +17,5 @@ privacy-passwords-its-hard-out = Gronidła se śěžko maju
 privacy-passwords-security-questions-my = Wěstotne pšašanja: Źowcyne mě mójeje mamy jo „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajśo se pomoc wót zastojnika gronidłow
 privacy-passwords-twofactor-authentication-2fa = Dwójofaktorowa awtentifikacija (2FA)
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = Wašo konto { -brand-name-firefox }, na pśikład, dajo se z 2FA šćitaś, <a { $url_sumo_2fa }wó comž móžośo how wěcej zgóniś</a>.
