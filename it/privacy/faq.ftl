@@ -29,8 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } non vede le
 privacy-faq-wait-so-how-do-you-make-money = Un momento, allora come fate i soldi?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non è la solita organizzazione. Fondata come progetto di una comunità open source nel 1998, { -brand-name-mozilla } è un’organizzazione che si è data il compito di lavorare per migliorare la saluta di Internet. La maggior parte delle entrate di { -brand-name-mozilla } Corporation deriva dalle royalty dei motori di ricerca in { -brand-name-firefox } e dagli accordi di partnership e distribuzione stretti in tutto il mondo. Puoi saperne di più leggendo il nostro <a href="{ $link }">resoconto finanziario annuale</a>.
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non è la solita organizzazione. Fondata come progetto di una comunità open source nel 1998, { -brand-name-mozilla } è un’organizzazione che si è data il compito di lavorare per migliorare la saluta di Internet. La maggior parte delle entrate di { -brand-name-mozilla-corporation } deriva dalle royalty dei motori di ricerca in { -brand-name-firefox } e dagli accordi di partnership e distribuzione stretti in tutto il mondo. Puoi saperne di più leggendo il nostro <a href="{ $link }">resoconto finanziario annuale</a>.
 privacy-faq-okay-those-first-few-were-softballs = Va bene, ma in breve che dati raccogliete?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
