@@ -16,6 +16,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Få den tilpassbare mobilnettlesaren for { -brand-name-android }-smarttelefonar.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Få mobilnettlesaren for { -brand-name-iphone } eller { -brand-name-ipad }.
+navigation-v2-view-all-firefox-browsers = Vis alle { -brand-name-firefox-browsers }
 
 ## Products menu
 
@@ -26,6 +27,7 @@ navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-view-all-products = Vis alle produkta
 
 ## Who We Are menu
 
@@ -36,3 +38,4 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogg
 
 ## Innovation menu
 
+navigation-v2-more-mozilla-innovation = Fleire { -brand-name-mozilla }-innovasjonar

@@ -50,7 +50,7 @@ firefox-desktop-download-all-your-devices = Legg til { -brand-name-firefox } på
 firefox-desktop-download-take-your-privacy = Ta personvernet ditt med deg overalt. { -brand-name-firefox-browsers } for { -brand-name-ios } og { -brand-name-android } har dei same sterke personverninnstillingane for å hindre sporarar frå å spore aktivitetane dine på nettet, same kvar du er.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gjer <strong>alt</strong> med { -brand-name-firefox }
-firefox-desktop-download-search-smarter = Søk smartare, raskare
+firefox-desktop-download-search-smarter = Søk smartare og raskare
 firefox-desktop-download-search-from-address = Søk frå adresselinja
 firefox-desktop-download-search-engine-options = Innstillingar for søkjemotor
 firefox-desktop-download-smart-search-suggestions = Smarte søkjeforslag
