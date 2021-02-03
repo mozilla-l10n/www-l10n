@@ -14,6 +14,10 @@ password-manager-password-manager = Zbërthim i asaj çka arrihet me Përgjegjë
 password-manager-give-up-the-memory = Hiqni dorë nga sforcimet e të mbajturit mend, duke ia besuar Përgjegjësit të Fjalëkalimeve në { -brand-name-firefox }.
 password-manager-password-hero = Hero fjalëkalimesh
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Lerini ricaktimet. Përgjegjësi i Fjalëkalimeve në { -brand-name-firefox } mban krejt fjalëkalimet tuaj, që kështu të mund të bëni hyrje automatikisht, ose të gjeni kollaj fjalëkalime të ruajtur. Për supersiguri, jepini kompjuterit tuaj një <a href="{ $url }">fjalëkalim kryesor</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Harrojini ricaktimet e fjalëkalimeve. Përgjegjësi i Fjalëkalimeve në { -brand-name-firefox } ruan krejt fjalëkalimet tuaj, kështu që mund të bëni hyrje automatike, ose të gjeni lehtësisht fjalëkalime të ruajtur. Për siguri superiore, jepini kompjuterit tuaj një <a href="{ $url }">fjalëkalim të përgjithshëm</a>.
 password-manager-password-magician = Magjistar fjalëkalimesh
