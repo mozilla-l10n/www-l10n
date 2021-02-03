@@ -10,3 +10,4 @@ what-is-a-browser-what-is-a-web = Što je webwobhladowak?
 what-is-a-browser-how-does-a-web = Kak webwobhladowak funguje?
 what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
 what-is-a-browser-understanding = Priwatnosć rozumić
+what-is-a-browser-making-your-web = Dajće swój wobhladowak za sebje dźěłać
