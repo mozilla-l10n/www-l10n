@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Datenschutz bei { -brand-name-mozilla }
@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Prinzipien zum Schutz von Daten
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla }s <a href="{ $principles }">Prinzipien zum Schutz von Daten</a> inspirieren unser Vorgehen, das die Menschen im Internet respektiert und schützt. Erfahren Sie in diesen <a href="{ $faq }">FAQ</a>, wie diese Prinzipien auf { -brand-name-firefox } und unsere anderen Produkte Einfluss nehmen.
 privacy-index-transparency-report = Transparenzbericht
+privacy-index-get-involved = Mitmachen
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Als Open-Source-Projekt sind Transparenz und Offenheit ein essentieller Teil von { -brand-name-mozilla }s Grundprinzipien. Unser Quelltext ist offen und überprüfbar. Unsere Entwicklungsarbeit ist offen. Unser halbjährlicher <a href="{ $report }">Transparenzbericht</a> demonstriert ebenfalls unsere Verpflichtung gegenüber diesen Prinzipien.
@@ -31,5 +32,14 @@ privacy-index-to-review-and-comment-on-proposed = Um vorgeschlagene Änderungen 
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Lesen Sie mehr über die laufende Arbeit zu Datenschutz- und Sicherheitspolitik in <a href="{ $blog }">{ -brand-name-mozilla }s Blog über Open Policy und Advocacy</a>.
 privacy-index-outdated-policies = Nicht mehr gültige Regeln
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla }-Websites, Mitteilungen &amp; Cookies
+privacy-index-mozilla-websites-communications = Mozilla-Websites, Mitteilungen &amp; Cookies
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } für { -brand-name-fire-tv }

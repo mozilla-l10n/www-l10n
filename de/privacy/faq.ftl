@@ -29,8 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } verkauft un
 privacy-faq-wait-so-how-do-you-make-money = Moment, womit verdienen Sie dann Geld?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ist keine gewöhnliche Organisation. { -brand-name-mozilla } wurde 1998 als gemeinschaftliches Open-Source-Projekt gegründet und ist eine Organisation mit einer Mission, die an einem gesünderen Internet arbeitet. Die meisten Einnahmen erzielt die { -brand-name-mozilla } Corporation aus Vergütung durch Suchpartnerschaften des Internetbrowsers { -brand-name-firefox } und Verteilungsabkommen auf der ganzen Welt. In unserem <a href="{ $link }">jährlichen Finanzbericht</a> erfahren Sie mehr darüber, wie wir Geld verdienen.
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ist keine gewöhnliche Organisation. { -brand-name-mozilla } wurde 1998 als gemeinschaftliches Open-Source-Projekt gegründet und ist eine Organisation mit einer Mission, die an einem gesünderen Internet arbeitet. Die meisten Einnahmen erzielt die { -brand-name-mozilla-corporation } aus Vergütung durch Suchpartnerschaften des Internetbrowsers { -brand-name-firefox } und Verteilungsabkommen auf der ganzen Welt. In unserem <a href="{ $link }">jährlichen Finanzbericht</a> erfahren Sie mehr darüber, wie wir Geld verdienen.
 privacy-faq-okay-those-first-few-were-softballs = Ok, die Fragen waren noch einfach. Welche Daten sammeln Sie?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
@@ -43,7 +42,7 @@ privacy-faq-there-are-two-categories-of = Es gibt zwei Kategorien von Daten, die
 privacy-faq-the-first-is-what-we-call-technical = Die erste nennen wir „technische Daten“. Diese Daten betreffen den Browser selbst, beispielsweise das eingesetzte Betriebssystem und Informationen über Fehler oder Abstürze.
 privacy-faq-the-second-is-what-we-call-interaction = Die zweite nennen wir „Interaktionsdaten“. Diese Daten betreffen die Interaktion eines Nutzers mit { -brand-name-firefox }, wie die Anzahl der offenen Tabs, die Benutzereinstellungen oder wie oft bestimmte Browser-Funktionen genutzt wurden, wie Screenshots oder Container. Wir sammeln diese Daten beispielsweise über die Zurück-Schaltfläche, den Pfeil links oben im Browser, mit dem Sie eine vorherige Webseite aufrufen können, sodass wir sehen, ob jemand die Zurück-Schaltfläche verwendet hat, aber nicht, welche Webseite er besucht hat.
 privacy-faq-do-you-collect-more-data-in = Sammeln Sie in Vorabversionen von { -brand-name-firefox } mehr Daten?
-privacy-faq-sort-of-in-addition-to-the-data = In gewisser Hinsicht. Zusätzlich zu den oben beschriebenen Daten erhalten wir standardmäßig in Vorabversionen Meldungen zu Abstürzen und Fehlern.
+privacy-faq-sort-of-in-addition-to-the-data = In gewisser Hinsicht. Zusätzlich zu den oben beschriebenen Daten erhalten wir standardmäßig in Vorabversionen von { -brand-name-firefox } Meldungen zu Abstürzen und Fehlern.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Wir können in Vorabversionen auch zusätzliche Daten für eine unserer <a href="{ $link }">Studien</a> sammeln. Einige Studien benötigen zum Beispiel sogenannte „Web-Aktivitätsdaten“, zu denen URLs und andere Informationen über bestimmte Websites gehören können. Dadurch können wir genaue Fragen beantworten, um { -brand-name-firefox } zu verbessern, um beispielsweise beliebte Websites besser in bestimmte Sprachversionen zu integrieren.
