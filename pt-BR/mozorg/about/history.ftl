@@ -26,7 +26,7 @@ history-community-members-got-involved = Membros da Comunidade se envolveram e e
 history-people-contributed-to-mozilla = Pessoas contribuído com a { -brand-name-mozilla } de maneiras diferentes, mas todos apaixonados com a criação de software livre que permitem que as pessoas tenham uma escolha de como elas experimentam a Internet.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Após vários anos de desenvolvimento, o <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, a primeira grande versão, foi lançado em 2002. Esta versão apresentava muitas melhorias no navegador, cliente de e-mail e outras aplicações incluídas na suíte, mas muitas pessoas não estavam usando.
+history-after-several-years-of-development = Após vários anos de desenvolvimento, o <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, a primeira grande versão, foi lançado em 2002. Esta versão apresentava muitas melhorias no navegador, cliente de email e outras aplicações incluídas na suíte, mas não havia muitas pessoas usando.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Em 2002, <a href="{ $over90 }">bem mais de 90 % dos usuários de Internet </a> estava navegando com o { -brand-name-ie }.
