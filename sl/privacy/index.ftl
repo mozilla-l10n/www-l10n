@@ -33,4 +33,13 @@ privacy-index-to-review-and-comment-on-proposed = Če želite ostati na tekočem
 privacy-index-read-more-about-our-ongoing = Več o našem tekočem delu na področju politike varnosti in zasebnosti lahko preberete na <a href="{ $blog }">Mozillinem blogu Open Policy &amp; Advocacy</a>.
 privacy-index-outdated-policies = Zastareli pravilniki
 privacy-index-mozilla-websites-communications = Mozillina spletna mesta, komunikacije in piškotki
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
