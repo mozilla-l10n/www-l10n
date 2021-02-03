@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Uvodna stran razvojne izdaje Firefoxa
+nightly-firstrun-firefox-nightly = Uvodna stran { -brand-name-firefox-nightly }ja
 nightly-firstrun-thank-you-for-using = Hvala, ker uporabljate { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Izberite področje, na katerem želite sodelovati, in pomagajte izboljšati { -brand-name-firefox } za uporabnike po celem svetu
 nightly-firstrun-test = Preizkušajte
