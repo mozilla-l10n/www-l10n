@@ -197,5 +197,13 @@
 
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
--brand-name-youtube = YouTube
+-brand-name-youtube =
+    { $sklon ->
+       *[imenovalnik] YouTube
+        [rodilnik] YouTuba
+        [dajalnik] YouTubu
+        [tozilnik] YouTube
+        [mestnik] YouTubu
+        [orodnik] YouTubom
+    }
 -brand-name-chromebook = Chromebook

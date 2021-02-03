@@ -24,7 +24,7 @@ features-adblocker-theres-adblocker-ultimate = Na voljo je <a href="{ $url }">Ad
 features-adblocker-popup-ads-are-the-worst = Oglasi v pojavnih oknih so najhujši. Zavrnite jih s <a href="{ $url }">Popup Blocker</a> in se nikoli več ne ukvarjajte z njimi.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = <a href="{ $url }">AdBlock</a> je eno od najbolj priljubljenih orodij za zavračanje oglasov v Chromu, { -brand-name-safari }ju in { -brand-name-firefox }u. Uporabite ga za zavračanje oglasov na { -brand-name-facebook }u, Youtube in { -brand-name-hulu }.
+features-adblocker-one-of-the-most-popular = <a href="{ $url }">AdBlock</a> je eno od najbolj priljubljenih orodij za zavračanje oglasov v { -brand-name-chrome(sklon: "mestnik") }, { -brand-name-safari }ju in { -brand-name-firefox }u. Uporabite ga za zavračanje oglasov na { -brand-name-facebook }u, { -brand-name-youtube(sklon: "mestnik") } in { -brand-name-hulu }ju.
 features-adblocker-create-a-tracker-free = Ustvarite območje brez sledilcev z zavračanjem vsebine
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
