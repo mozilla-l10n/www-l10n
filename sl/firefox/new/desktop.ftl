@@ -49,6 +49,7 @@ firefox-desktop-download-search-smarter = Iščite pametneje in hitreje
 firefox-desktop-download-search-from-address = Iskanje v naslovni vrstici
 firefox-desktop-download-search-engine-options = Možnosti iskalnika
 firefox-desktop-download-smart-search-suggestions = Pametni predlogi iskanja
+firefox-desktop-download-works-with-google = Deluje z izdelki { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Vgrajeno orodje za posnetke zaslona
 firefox-desktop-download-bookmarks-manager = Upravitelj zaznamkov
 firefox-desktop-download-autosuggest-urls = Samodejno predlaganje spletnih naslovov
