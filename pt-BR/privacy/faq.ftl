@@ -13,7 +13,7 @@ privacy-faq-it-can-be-tricky-for-people = Pode ser complicado para as pessoas en
 privacy-faq-at-mozilla-we-respect-and-protect = Na { -brand-name-mozilla } suas informações pessoais são respeitadas e protegidas:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = Seguimos uma série de <a href="{ $link }">princípios de privacidade de dados</a> que moldam nossa abordagem quanto a privacidade nos navegadores de computadores e dispositivos móveis.
+privacy-faq-we-follow-a-set-of-data-privacy = Seguimos uma série de <a href="{ $link }">princípios de privacidade de dados</a> que moldam nossa abordagem de privacidade nos navegadores { -brand-name-firefox } de computador e dispositivos móveis.
 privacy-faq-we-only-collect-the-data-we = Coletamos somente os dados necessários para criar os melhores produtos.
 privacy-faq-we-put-people-in-control-of = Colocamos você no controle dos seus dados e experiências on-line.
 privacy-faq-we-adhere-to-no-surprises-principle = Aderimos ao princípio de “sem surpresas”, isto é, trabalhamos duro para assegurar que o entendimento que as pessoas têm sobre o { -brand-name-firefox } esteja alinhado com a realidade.
@@ -30,7 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = Então, como vocês lucram?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = A { -brand-name-mozilla } não é uma organização tradicional. Fundada em 1998, como um projeto de código aberto comunitário, a { -brand-name-mozilla } é uma organização comprometida com a visão de trabalhar para uma Internet mais saudável. A maior parte da arrecadação da Corporação { -brand-name-mozilla } é obtida de pagamento de royalties pelos acordos de distribuição e parcerias de pesquisa pelo navegador { -brand-name-firefox } em todo o mundo. Saiba mais sobre como fazemos dinheiro em nosso <a href="{ $link }">relatório financeiro anual</a>.
-# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Certo, as primeiras perguntas foram fáceis. Quais dados vocês coletam?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
