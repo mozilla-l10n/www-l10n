@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = Personvern med sunn fornuft
 new-platform-live-your-life = Lev livet ditt, { -brand-name-firefox } kikar ikkje. Vel kva du skal dele og når du skal dele det.
 new-platform-seamless-setup = Enkel konfigurasjon
 new-platform-easy-migration = Enkel migrering av innstillingar og bokmerke når du lastar ned { -brand-name-firefox } for { -brand-name-windows }.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = Last ned { -brand-name-firefox } <br>for { -brand-name-windows }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = Last ned { -brand-name-firefox } <br>for { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Last ned { -brand-name-firefox } <br>for { -brand-name-linux }
