@@ -29,8 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } non vende d
 privacy-faq-wait-so-how-do-you-make-money = Ma alora, como gania vos moneta?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non es un organisation ordinari. Fundate como un projecto de communitate open-source in 1998, { -brand-name-mozilla } es un organisation idealista que se effortia pro meliorar le sanitate de internet. Le majoritate del moneta de { -brand-name-mozilla } Corporation proveni de royalties ganiate per alliantias con interprisas de recerca web e per contractos de distribution del navigator { -brand-name-firefox } in tote le mundo. Tu pote apprender plus sur como nos gania moneta in nostre <a href="{ $link }">reporto financiari annual</a>.
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non es un organisation ordinari. Fundate como un projecto de communitate open-source in 1998, { -brand-name-mozilla } es un organisation idealista que se effortia pro meliorar le sanitate de internet. Le majoritate del moneta de { -brand-name-mozilla-corporation } proveni de royalties ganiate per alliantias con interprisas de recerca web e per contractos de distribution del navigator { -brand-name-firefox } in tote le mundo. Tu pote apprender plus sur como nos gania moneta in nostre <a href="{ $link }">reporto financiari annual</a>.
 privacy-faq-okay-those-first-few-were-softballs = Excellente. Ma que datos collige vos?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
