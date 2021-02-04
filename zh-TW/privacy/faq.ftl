@@ -29,13 +29,12 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } 不賣你�
 privacy-faq-wait-so-how-do-you-make-money = 等等，那你們這樣要如何賺錢？
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } 不是一個普通的非營利組織。自 1998 年，以開放原始碼社群專案奠基而來，{ -brand-name-mozilla } 是一個由使命而驅動的組織，致力於讓網際網路的環境變得更健康。{ -brand-name-mozilla } Corporation 的大部分收入來自 { -brand-name-firefox } 瀏覽器中搜尋功能的使用費，以及在世界各地的商業發行合約。您可以參考我們的<a href="{ $link }">年度財報</a>，更加了解我們如何賺取收入。
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } 不是一個普通的非營利組織。自 1998 年，以開放原始碼社群專案奠基而來，{ -brand-name-mozilla } 是一個由使命而驅動的組織，致力於讓網際網路的環境變得更健康。{ -brand-name-mozilla-corporation } 的大部分收入來自 { -brand-name-firefox } 瀏覽器中搜尋功能的使用費，以及在世界各地的商業發行合約。您可以參考我們的<a href="{ $link }">年度財報</a>，更加了解我們如何賺取收入。
 privacy-faq-okay-those-first-few-were-softballs = 好，前幾題比較簡單。你們收集哪些資料？
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = 預設情況下 { -brand-name-mozilla } 會收集部分資料，以幫助我們更加瞭解使用者如何使用瀏覽器。我們使用一組隨機資料，而不是您的姓名或 E-Mail 信箱來識別所收集到的資料。您可以在我們的<a href="{ $privacy }">隱私權公告</a>，或是閱讀<a href="{ $data }">資料收集的完整文件</a>來了解相關資訊。
+privacy-faq-mozilla-does-collect-a-limited = 預設情況下 { -brand-name-mozilla } 會在 { -brand-name-firefox } 收集部分資料，以幫助我們更加瞭解使用者如何使用瀏覽器。我們使用一組隨機資料，而不是您的姓名或 E-Mail 信箱來識別所收集到的資料。您可以在我們的<a href="{ $privacy }">隱私權公告</a>，或是閱讀<a href="{ $data }">資料收集的完整文件</a>來了解相關資訊。
 privacy-faq-we-make-our-documentation-public = 我們將文件都公開，讓任何人都可以檢查所宣稱的是否真實，也可以對我們提出改進建議，並可相信我們並不隱藏任何事情。
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = 這份文件讀起來是有字天書！有白話文可以給我嗎？
