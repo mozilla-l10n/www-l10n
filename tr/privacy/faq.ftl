@@ -29,8 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } sizin hakk�
 privacy-faq-wait-so-how-do-you-make-money = Peki nasıl para kazanıyorsunuz?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } öteki şirketlere benzemez. 1998 yılında topluluk temelli bir açık kaynak projesi olarak kurulan { -brand-name-mozilla }, daha sağlıklı bir internet için çalışan, misyon odaklı bir kuruluştur. { -brand-name-mozilla } Corporation’ın gelirinin büyük kısmını { -brand-name-firefox } web tarayıcısının arama ortaklıkları ve dünya çapındaki dağıtım anlaşmaları aracılığıyla kazanılan gelirler oluşturur. Nasıl para kazandığımıza dair daha fazla bilgiyi <a href="{ $link }">yıllık mali raporumuzda</a> bulabilirsiniz.
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } öteki şirketlere benzemez. 1998 yılında topluluk temelli bir açık kaynak projesi olarak kurulan { -brand-name-mozilla }, daha sağlıklı bir internet için çalışan, misyon odaklı bir kuruluştur. { -brand-name-mozilla-corporation }’ın gelirinin büyük kısmını { -brand-name-firefox } web tarayıcısının arama ortaklıkları ve dünya çapındaki dağıtım anlaşmaları aracılığıyla kazanılan gelirler oluşturur. Nasıl para kazandığımıza dair daha fazla bilgiyi <a href="{ $link }">yıllık mali raporumuzda</a> bulabilirsiniz.
 privacy-faq-okay-those-first-few-were-softballs = Tamam, ilk birkaç soru kolaydı. Hangi verileri topluyorsunuz?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/

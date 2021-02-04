@@ -14,6 +14,10 @@ password-manager-password-manager = Parola Yöneticisi
 password-manager-give-up-the-memory = { -brand-name-firefox } Parola Yöneticisi sayesinde hafızan seni hiç yanıltmayacak.
 password-manager-password-hero = Parola kahramanı
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Parola sıfırlamaya son. { -brand-name-firefox } Parola Yöneticisi, sitelere otomatik giriş yapman veya kayıtlı parolalarını kolayca bulman için tüm parolalarını hatırlar. Güvenliğin için bilgisayarına bir <a href="{ $url }">ana parola</a> da atayabilirsin.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Parola sıfırlamaya son. { -brand-name-firefox } Parola Yöneticisi, sitelere otomatik giriş yapman veya kayıtlı parolalarını kolayca bulman için tüm parolalarını hatırlar. Güvenliğin için bilgisayarına bir <a href="{ $url }">ana parola</a> da atayabilirsin.
 password-manager-password-magician = Parola büyücüsü
@@ -26,7 +30,7 @@ password-manager-password-champion = Parola şampiyonu
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = { -brand-name-firefox }’un desteklediği parola yöneticisi <a href="{ $addons }">eklentileri</a> ile güvenlikte altın madalya sahibi olabilirsin. İster sevdiğin bir ekentiyi kullan, ister puanlardan ve yorumlardan yola çıkarak kendi tercihini yap.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Parola ustası
 # Obsolete string
 # Variables:
