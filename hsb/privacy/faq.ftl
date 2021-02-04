@@ -34,7 +34,7 @@ privacy-faq-okay-those-first-few-were-softballs = W porjadku, tute prašenja su 
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } zběra po standardźe wobmjezowane mnóstwo datow z Firefrox, kotrež nam pomhaja, rozumić, kak ludźo wobhladowak wužiwaja. Tute daty su na připadnym identifikatorje zwjazane a nic z wašim mjenom abo e-mejlowej adresu. Móžeće na našej <a href="{ $privacy }">zdźělence priwatnosće</a> wjace wo tym čitać, a móžeće <a href="{ $data }">dospołnu dokumentaciju za zběranje datow</a> čitać.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } zběra po standardźe wobmjezowane mnóstwo datow z { -brand-name-firefox }, kotrež nam pomhaja, rozumić, kak ludźo wobhladowak wužiwaja. Tute daty su na připadnym identifikatorje zwjazane a nic z wašim mjenom abo e-mejlowej adresu. Móžeće na našej <a href="{ $privacy }">zdźělence priwatnosće</a> wjace wo tym čitać, a móžeće <a href="{ $data }">dospołnu dokumentaciju za zběranje datow</a> čitać.
 privacy-faq-we-make-our-documentation-public = Naša dokumentacija je zjawna, zo by kóždy móhł přepruwować, hač to, štož prajimy, je wěrne, nam zdźělić, štož dyrbimy polěpšić a na to spušćić, zo ničo njezatajamy.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Rěč dokumentacija so mi kaž santrapantra zda! Móžeće mi to hornjoserbsce rozjasnić?
