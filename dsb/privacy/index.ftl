@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Principy za šćit datow
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Principy za šćit datow</a> { -brand-name-mozilla } inspirěruju našo póstupowanje, kótarež luźi respektěrujo a šćita, kótarež internet wužywaju. Zgóńśo w našych <a href="{ $faq }">CEP</a>, kak toś te principy { -brand-name-firefox } a wšykne naše produkty wobwliwuju.
 privacy-index-transparency-report = Rozpšawa transparency
+privacy-index-get-involved = Cyńśo sobu
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Ako projekt wótwórjonego žrědła stej transparenca a wótwórjonosć wažny źěl załožeńskich principow { -brand-name-mozilla }. Naše žrědłowe teksty su wótwórjone a pśespytujobne. Našo wuwijańske źěło jo wótwórjone. Naša połlětna <a href="{ $report }">rozpšawa transparence</a> teke naš zawězk k toś tym principam demonstrěrujo.
@@ -31,5 +32,14 @@ privacy-index-to-review-and-comment-on-proposed = Aby se naraźone změny na na�
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Cytajśo wěcej wó našom běžnym źěle za zjawnu politiku priwatnosći a wěstoty na <a href="{ $blog }">blogu wó Open Policy a Advocacy { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Zestarjone pšawidła
-privacy-index-mozilla-websites-communications = Websedła { -brand-name-mozilla }, zdźělenja a cookieje
+privacy-index-mozilla-websites-communications = Websedła { -brand-name-mozilla } zdźělenja a cookieje
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
