@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Kusajće do plackow
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Placki</a> so wot websydłow sćelu, kotrež wopytujeće. Składuja so na wašim ličaku a dohladuja, štož na sydle činiće. Hdyž lětanske towarstwo płaćizny za was powyša, dokelž sće sej tutón dźeń lětanki wobhladał, je to dźěło placka.
 features-adblocker-in-firefox-you-can-block = Móžeće we { -brand-name-firefox } wšě placki třećich poskićowarjow blokować, abo jenož te, kotrež přesćěhowaki stajeja. Budźće sej wědomy, zo blokowanje wšěch plackow móže někotre sydła wobškodźić.
-features-adblocker-send-a-do-not-track-signal = Sćelće signal Njeslědować
+features-adblocker-send-a-do-not-track-signal = Sćelće signal „Njeslědować“
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Jeli nochceće, zo so waše zadźerženje za wabjenje wužiwa, móžeće nastajenje { -brand-name-firefox } <a href="{ $url }">Njeslědować</a> zmóžnić, zo byšće websydłam zdwórliwe „ně, dźakuju so“ pósłał. Wobdźělenje je dobrowólne, ale websydła, kotrež so wobdźěluja, hnydom slědowanje skónča.

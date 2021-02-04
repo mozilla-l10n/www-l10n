@@ -29,8 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } daty wo was
 privacy-faq-wait-so-how-do-you-make-money = Moment, z čim da pjenjezy zaslužiće?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } žana wšědna organizacija njeje. Jako projekt wotewrjeneho žórła zhromadźenstwa w lěće 1998 załoženy, je { -brand-name-mozilla } organizacija z misiju, kotraž za strowši internet dźěła. Wjetšina dochodow, kotrež předewzaće { -brand-name-mozilla } Corporation docpěwa, pochadźeja z płaćenjow přez partnerstwa webwobhladowaka { -brand-name-firefox } a rozdźělenskich dojednanjow z cyłeho swěta. Móžeće w našej <a href="{ $link }">lětnej financnej rozprawje </a> wjace wo tym zhonić, kak pjenjezy zasłužimy.
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } žana wšědna organizacija njeje. Jako projekt wotewrjeneho žórła zhromadźenstwa w lěće 1998 załoženy, je { -brand-name-mozilla } organizacija z misiju, kotraž za strowši internet dźěła. Wjetšina dochodow, kotrež předewzaće { -brand-name-mozilla-corporation } docpěwa, pochadźeja z płaćenjow přez partnerstwa webwobhladowaka { -brand-name-firefox } a rozdźělenskich dojednanjow z cyłeho swěta. Móžeće w našej <a href="{ $link }">lětnej financnej rozprawje </a> wjace wo tym zhonić, kak pjenjezy zasłužimy.
 privacy-faq-okay-those-first-few-were-softballs = W porjadku, tute prašenja su jednore byli. Kotre daty zběraće?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
