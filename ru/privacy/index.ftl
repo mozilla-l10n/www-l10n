@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Политика приватности { -brand-name-mozilla }
@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Принципы приватности
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Принципы приватности данных</a> { -brand-name-mozilla } вдохновляют нашу работу, которая направлена на уважение интересов и защиту людей, которые пользуются Интернетом. Узнайте, как эти принципы влияют на { -brand-name-firefox } и все наши продукты, просмотрев <a href="{ $faq }">ЧЗВ</a>.
 privacy-index-transparency-report = Отчёт о прозрачности
+privacy-index-get-involved = Примите участие
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Как для проекта с открытым исходным кодом, открытость и прозрачность являются важнейшей частью принципов работы проекта { -brand-name-mozilla }. Наша кодовая база является открытой и доступной для аудита. Наш процесс разработки является открытым. Наш полугодовой <a href="{ $report }">Отчёт о прозрачности</a> также отражает нашу приверженность этим принципам.
@@ -32,4 +33,13 @@ privacy-index-to-review-and-comment-on-proposed = Чтобы просмотре�
 privacy-index-read-more-about-our-ongoing = Прочитайте больше о нашей текущей работе над политикой приватности и безопасности в <a href="{ $blog }">Блоге о политике открытости и пропаганде { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Предыдущие версии
 privacy-index-mozilla-websites-communications = Веб-сайты, коммуникации и куки { -brand-name-mozilla }
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
