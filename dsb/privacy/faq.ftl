@@ -29,13 +29,12 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } daty wó wa
 privacy-faq-wait-so-how-do-you-make-money = Moment, z cyim ga pjenjeze zaslužyśo?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } njejo žedna wšedna organizacija. Ako projekt wótwórjoneho žrědła zgromaźeństwa w lěśe 1998 załožony, jo { -brand-name-mozilla } organizacija z misiju, kótaraž za strowšy internet źěła. Wětšyna zasłužbow, kótarež pśedewześe { -brand-name-mozilla } Corporation dojśpiwa, póchadaju z płaśenjow pśez partnarstwa webwobglědowaka { -brand-name-firefox } a rozdźěleńskich dogronow cełego swěta. Móžośo w našej <a href="{ $link }">lětnej financnej rozpšawje </a> wěcej wó tom zgóniś, kak pjenjeze zasłužymy.
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } njejo žedna wšedna organizacija. Ako projekt wótwórjoneho žrědła zgromaźeństwa w lěśe 1998 załožony, jo { -brand-name-mozilla } organizacija z misiju, kótaraž za strowšy internet źěła. Wětšyna zasłužbow, kótarež pśedewześe { -brand-name-mozilla-corporation } dojśpiwa, póchadaju z płaśenjow pśez partnarstwa webwobglědowaka { -brand-name-firefox } a rozdźěleńskich dogronow cełego swěta. Móžośo w našej <a href="{ $link }">lětnej financnej rozpšawje </a> wěcej wó tom zgóniś, kak pjenjeze zasłužymy.
 privacy-faq-okay-those-first-few-were-softballs = W pórěźe, toś te pšašanja su byli jadnore. Kótare daty zběraśo?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } zběra pó standarźe wobgranicowanu tšochu datow z Firefrox, kótarež nam pomagaju, rozměś, kak luźe wobglědowak wužywaju. Toś te daty su na pśipadnem identifikatorje zwězane a nic z wašym mjenim abo e-mailoweju adresu. Móžośo na našej <a href="{ $privacy }">powěźeńce priwatnosći</a> wěcej wó tom cytaś, a móžośo <a href="{ $data }">dopołnu dokumentaciju za zběranje datow</a> cytaś.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } zběra pó standarźe wobgranicowanu tšochu datow z { -brand-name-firefox }, kótarež nam pomagaju, rozměś, kak luźe wobglědowak wužywaju. Toś te daty su na pśipadnem identifikatorje zwězane a nic z wašym mjenim abo e-mailoweju adresu. Móžośo na našej <a href="{ $privacy }">powěźeńce priwatnosći</a> wěcej wó tom cytaś, a móžośo <a href="{ $data }">dopołnu dokumentaciju za zběranje datow</a> cytaś.
 privacy-faq-we-make-our-documentation-public = Naša dokumentacija jo zjawna, aby kuždy mógł pśeglědowaś, lěc to, což gronimy, jo wěrne, nam k wěsći daś, což musymy pólěpšyś a na to spušćiś, až nic njezatajamy.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Dokumentacija jo mě njerozumliwa! Móžośo mě to dolnoserbski rozjasniś?

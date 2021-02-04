@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Priwatnosć { -brand-name-mozilla }
@@ -29,7 +29,7 @@ privacy-index-as-an-open-source-project = Ako projekt wótwórjonego žrědła s
 privacy-index-to-review-and-comment-on-proposed = Aby se naraźone změny na našych pšawidłach priwatnosći woglědał a je komentěrował, <a href="{ $group }">aboněrujśo nawjedowańsku kupku { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = Cytajśo wěcej wó našom běžnym źěle za zjawnu politiku priwatnosći a wěstoty na <a href="{ $blog }">blogu wó Open Policy a Advocacy</a>.
+privacy-index-read-more-about-our-ongoing = Cytajśo wěcej wó našom běžnym źěle za zjawnu politiku priwatnosći a wěstoty na <a href="{ $blog }">blogu wó Open Policy a Advocacy { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Zestarjone pšawidła
 privacy-index-mozilla-websites-communications = Websedła { -brand-name-mozilla }, zdźělenja a cookieje
 privacy-index-firefox-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
