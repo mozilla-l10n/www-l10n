@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Preifatrwydd { -brand-name-mozilla }
@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Egwyddorion Preifatrwydd Data
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = Mae <a href="{ $principles }">Egwyddorion Preifatrwydd Data</a> { -brand-name-mozilla }'n gyrru ein harferion sy'n parchu ac yn diogelu'r bobl sy'n defnyddio'r rhyngrwyd. Dysgwch sut mae'r egwyddorion hyn yn ffurfio { -brand-name-firefox } a'n holl ein cynhyrchion drwy'r <a href="{ $faq }">Cwestiynau Cyffredin</a>.
 privacy-index-transparency-report = Adroddiad Tryloywder
+privacy-index-get-involved = Ymunwch
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Fel project cod agored, mae tryloywder a bod yn agored yn rhan hanfodol o egwyddorion sylfaenol { -brand-name-mozilla }. Ein cronfeydd cod yn agored ac archwiliadwy. Mae ein gwaith datblygu yn agored. Mae ein <a href="{ $report }">Adroddiad Tryloywder</a> chwe-misol hefyd yn dangos ein hymrwymiad i'r egwyddorion hyn.
@@ -32,4 +33,13 @@ privacy-index-to-review-and-comment-on-proposed = I adolygu a rhoi sylwadau ar y
 privacy-index-read-more-about-our-ongoing = Darllenwch ragor am ein gwaith polisi cyhoeddus ar breifatrwydd a diogelwch ar <a href="{ $blog }"> ar flog Open Policy and Advocacy { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Hen Bolisïau
 privacy-index-mozilla-websites-communications = Gwefannau { -brand-name-mozilla }, Cysylltiadau a Chwcis
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } ar gyfer { -brand-name-fire-tv }
