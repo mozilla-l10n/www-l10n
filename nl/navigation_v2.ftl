@@ -40,9 +40,9 @@ navigation-v2-get-protection-beyond-your-browser = Verkrijg bescherming buiten u
 navigation-v2-product-promise = Productbelofte
 navigation-v2-learn-how-each-firefox-product = Lees hoe elk { -brand-name-firefox }-product uw gegevens beschermt en respecteert.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
-navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (bèta)
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Schrijf u in voor nieuwe accounts zonder uw e-mailadres af te geven.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (bèta)
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Bescherm de verbinding van uw browser met het internet.
 navigation-v2-view-all-products = Alle producten bekijken
 
