@@ -192,49 +192,6 @@ locales = [
 [[paths]]
     reference = "en/mozorg/about/legal.ftl"
     l10n = "{locale}/mozorg/about/legal.ftl"
-    locales = [
-        "af",
-        "ar",
-        "bg",
-        "bn",
-        "ca",
-        "cs",
-        "de",
-        "el",
-        "es-AR",
-        "es-CL",
-        "es-ES",
-        "es-MX",
-        "et",
-        "fa",
-        "ff",
-        "fr",
-        "fy-NL",
-        "hi-IN",
-        "hr",
-        "hu",
-        "id",
-        "it",
-        "ja",
-        "ko",
-        "mk",
-        "my",
-        "nl",
-        "pl",
-        "pt-BR",
-        "ro",
-        "ru",
-        "son",
-        "sq",
-        "sr",
-        "sv-SE",
-        "ta",
-        "tl",
-        "xh",
-        "zh-CN",
-        "zh-TW",
-        "zu",
-    ]
 [[paths]]
     reference = "en/mozorg/about/manifesto.ftl"
     l10n = "{locale}/mozorg/about/manifesto.ftl"
@@ -271,6 +228,3 @@ locales = [
         "pt-BR",
         "ru"
     ]
-[[paths]]
-    reference = "en/privacy/*.ftl"
-    l10n = "{locale}/privacy/*.ftl"
