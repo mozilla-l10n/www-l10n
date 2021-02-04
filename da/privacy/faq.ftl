@@ -29,8 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } hverken kø
 privacy-faq-wait-so-how-do-you-make-money = Vent lige, hvordan tjener I så jeres penge?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } er ingen almindelig organisation. { -brand-name-mozilla } blev oprettet som open source-projekt i 1998, og vi er en mission-drevet organisation, der arbejder hårdt for et sundere internet. Størstedelen af { -brand-name-mozilla }s indtægt kommer fra royalties tjent på { -brand-name-firefox }' søgepartnerskaber og distributionsaftaler rundt omkring på kloden. Du kan læse mere om, hvordan vi tjener penge i vores <a href="{ $link }">årsrapport</a>.
-# A "softball" is a question that is really easy to answer.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } er ingen almindelig organisation. { -brand-name-mozilla } blev oprettet som open source-projekt i 1998, og vi er en mission-drevet organisation, der arbejder hårdt for et sundere internet. Størstedelen af { -brand-name-mozilla-corporation }s indtægt kommer fra royalties tjent på { -brand-name-firefox }' søgepartnerskaber og distributionsaftaler rundt omkring på kloden. Du kan læse mere om, hvordan vi tjener penge i vores <a href="{ $link }">årsrapport</a>.
 privacy-faq-okay-those-first-few-were-softballs = Ok, det var de nemme spørgsmål. Hvilke data indsamler I?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
