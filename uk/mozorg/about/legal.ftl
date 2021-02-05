@@ -13,3 +13,7 @@ legal-back-to-legal = До правових положень
 legal-special-thanks-to-all-of-you = Окрема подяка всім вам, хто допомагає повідомляти про зловживання торговельними марками { -brand-name-mozilla }, брати участь у форумах з питань управління, надавати відгуки про наші локалізації й правові положення та сприяти своїми навичками успіху проєкту { -brand-name-mozilla }.
 legal-terms = Умови
 legal-our-websites = Наші вебсайти
+legal-firefox-services = Служби { -brand-name-firefox }
+legal-webmaker = { -brand-name-webmaker }
+legal-privacy-trademarks = Приватність і торговельні марки
+legal-privacy-notices-and-policy = Повідомлення та політика приватності
