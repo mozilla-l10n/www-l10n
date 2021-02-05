@@ -7,3 +7,9 @@
 
 legal-legal = Pšawniske
 legal-get-involved = Cyńśo sobu
+legal-protect-the-fox = Šćitajśo Lišku
+legal-back-to-legal = Slědk k pšawniskemu
+legal-terms = Wuměnjenja
+legal-our-websites = Naše websedła
+legal-firefox-services = Słužby { -brand-name-firefox }
+legal-webmaker = { -brand-name-webmaker }
