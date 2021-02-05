@@ -30,3 +30,6 @@ legal-firefox-better-web-terms = Términos del servicio de { -brand-name-firefox
 legal-firefox-light-rights = { -brand-name-firefox-lite }: Acerca de tus derechos
 legal-firefox-private-network-terms = Términos del servicio de { -brand-name-firefox-private-network }
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Acerca de tus derechos
+legal-firefox-relay-terms = Términos del servicio de { -brand-name-firefox-relay }
+legal-mozilla-vpn-terms = Términos del servicio de { -brand-name-mozilla-vpn }
+legal-report-copyright = Informar sobre violación de derechos de autor o de marca registrada
