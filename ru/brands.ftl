@@ -210,7 +210,15 @@
         [instrumental] Встречей Создателей
         [prepositional] Встрече Создателей
     }
--brand-name-webmaker = Webmaker
+-brand-name-webmaker =
+    { $case ->
+       *[nominative] Вебмейкер
+        [genitive] Вебмейкера
+        [dative] Вебмейкеру
+        [accusative] Вебмейкера
+        [instrumental] Вебмейкером
+        [prepositional] Вебмейкере
+    }
 
 ## Open Source projects
 

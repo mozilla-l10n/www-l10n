@@ -8,13 +8,13 @@
 # HTML page title
 privacy-index-mozilla-privacy = Политика приватности { -brand-name-mozilla }
 privacy-index-contact-mozilla = Как связаться с { -brand-name-mozilla }
-privacy-index-if-you-want-to-make-a-correction = Если вы хотите внести изменения в свой аккаунт, или у вас есть вопросы о нашей политике приватности, пожалуйста, свяжитесь с:
+privacy-index-if-you-want-to-make-a-correction = Если вы хотите внести изменения в свою информацию, или у вас есть вопросы о нашей политике приватности, пожалуйста, свяжитесь с нами:
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Просмотрите здесь запросы на доступ к субъекту данных</a>
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
-privacy-index-for-product-support-requests = Чтобы получить поддержку по продукту, пожалуйста, <a href="{ $sumo }">посетите наши форумы</a>.
+privacy-index-for-product-support-requests = Чтобы получить поддержку по продуктам, пожалуйста, <a href="{ $sumo }">посетите наши форумы</a>.
 privacy-index-data-privacy-principles = Принципы приватности
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
@@ -33,7 +33,7 @@ privacy-index-to-review-and-comment-on-proposed = Чтобы просмотре�
 privacy-index-read-more-about-our-ongoing = Прочитайте больше о нашей текущей работе над политикой приватности и безопасности в <a href="{ $blog }">Блоге о политике открытости и пропаганде { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Предыдущие версии
 privacy-index-mozilla-websites-communications = Веб-сайты, коммуникации и куки { -brand-name-mozilla }
-privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
