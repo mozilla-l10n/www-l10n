@@ -11,7 +11,7 @@ privacy-principles-data-privacy-principles = Pryncypia prywatności danych
 privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } jest projektem open source z misją doskonalenia sposobu korzystania z Internetu. Widać to także w sposobie, w jaki podchodzimy do prywatności.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
-privacy-principles-the-following-five-principles = Następujące pryncypia wyrastają z <a href="{ $link }">Manifestu Mozilli</a> oraz informują w jaki sposób:
+privacy-principles-the-following-five-principles = Następujące pryncypia wyrastają z <a href="{ $link }">Manifestu { -brand-name-mozilla(case: "gen") }</a> oraz informują w jaki sposób:
 privacy-principles-develop-our-products = rozwijamy nasze produkty i usługi,
 privacy-principles-manage-user-data-we-collect = zarządzamy zbieranymi danymi użytkownika,
 privacy-principles-select-and-interact-with = dobieramy i współpracujemy z partnerami,

@@ -516,6 +516,7 @@
 
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox Better Web
 
 ## Pocket
 
