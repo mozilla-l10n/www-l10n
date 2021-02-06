@@ -54,6 +54,7 @@ navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Čińće sobu
 navigation-v2-join-the-fight-for-a = Wojujće z nami za strowy internet.
 navigation-v2-leadership = Nawodnistwo
+navigation-v2-meet-the-team-thats-building = Zeznajće so z teamom, kotryž technologiju za lěpši internet wuwiwa.
 navigation-v2-careers = Powołanja
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Zhońće wjace wo { -brand-name-mozilla } a problemach, kotrež su nam wažne.
