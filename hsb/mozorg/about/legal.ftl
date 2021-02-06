@@ -8,6 +8,7 @@
 legal-legal = Prawniske
 legal-get-involved = Čińće sobu
 legal-protect-the-fox = Škitajće Lišku
+legal-takedown-requests = Naprašowanja wo wotpinanju
 legal-back-to-legal = Wróćo k prawniskemu
 legal-terms = Wuměnjenja
 legal-our-websites = Naše websydła
@@ -30,3 +31,4 @@ legal-firefox-private-network-terms = Słužbne wuměnjenja { -brand-name-firefo
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Wo wašich prawach
 legal-firefox-relay-terms = Słužbne wuměnjenja { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Słužbne wuměnjenja { -brand-name-mozilla-vpn }
+legal-report-copyright = Zranjenje awtorskeho prawa abo wikowanskeho znamjenja zdźělić
