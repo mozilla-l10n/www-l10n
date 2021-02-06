@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = Najczęściej zadawane pytania o ochronę prywatności danych Mozilli
-privacy-faq-at-mozilla-we-respect-and-protect-desc = W Mozilli szanujemy i chronimy Twoje dane osobowe.
+privacy-faq-mozillas-data-privacy-faq = Najczęściej zadawane pytania o ochronę prywatności danych { -brand-name-mozilla(case: "gen") }
+privacy-faq-at-mozilla-we-respect-and-protect-desc = W { -brand-name-mozilla(case: "dat") } szanujemy i chronimy Twoje dane osobowe.
 privacy-faq-we-stand-for-people-over-profit = Stawiamy ludzi ponad zyskiem.
 privacy-faq-it-can-be-tricky-for-people = Czasami ciężko wiedzieć, czego się spodziewać po używanym oprogramowaniu lub usłudze. Technologia wspierająca nasze życie jest skomplikowana i nie każdy ma czas, aby zgłębiać się w szczegóły. To dotyczy także Firefoksa — okazuje się, że różni ludzie mają różne rozumienie tego, co dzieje się pod maską ich przeglądarki.
 privacy-faq-at-mozilla-we-respect-and-protect = W Mozilli szanujemy i chronimy Twoje dane osobowe:
@@ -30,7 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = No to w jaki sposób zarabiacie pie
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nie jest typową organizacją. Założona jako społeczny projekt open source w 1998 roku, { -brand-name-mozilla } jest organizacją z misją, działającą na rzecz zdrowszego Internetu. Większość przychodów { -brand-name-mozilla } Corporation pochodzi z należności uzyskanych przez partnerstwa z wyszukiwarkami w przeglądarce { -brand-name-firefox } i umowy dystrybucyjne na całym świecie. Więcej informacji o tym, jak zarabiamy pieniądze znajduje się w naszym <a href="{ $link }">corocznym sprawozdaniu finansowym</a>.
-# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = No dobra, pierwsze pytania były łatwizną. Jakie dane zbieracie?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
