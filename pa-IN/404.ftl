@@ -11,10 +11,10 @@ not-found-page-were-all-about-a-healthy-internet = ਅਸੀਂ ਮਜ਼ਬੂਤ 
 not-found-page-go-back = ਪਿੱਛੇ ਜਾਓ
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = ਮੌਜ਼ੀਲਾ, ਫਾਇਰਫਾਕਸ ਨੂੰ ਬਣਾਉਣ ਵਾਲੇ ਗ਼ੈਰਫਾਇਦਾ ਸੰਗਠਨ ਬਾਰੇ <a href="{ $about }">ਸਿੱਖੋ</a>।
+not-found-page-learn-about-mozilla-the-non = { -brand-name-mozilla }, { -brand-name-firefox } ਨੂੰ ਬਣਾਉਣ ਵਾਲੇ ਗ਼ੈਰਫਾਇਦਾ ਸੰਗਠਨ ਬਾਰੇ <a href="{ $about }">ਸਿੱਖੋ</a>।
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦਾ ਮਾਣ ਰੱਖਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤੇ ਫਾਇਰਫਾਕਸ ਉਤਪਾਦਾਂ ਦੇ ਪੂਰੇ ਸਮੂਹ ਬਾਰੇ <a href={ $explore }>ਜਾਣੋ</a>।
+not-found-page-explore-the-entire-family-for = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦਾ ਮਾਣ ਰੱਖਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤੇ { -brand-name-firefox } ਉਤਪਾਦਾਂ ਦੇ ਪੂਰੇ ਟੱਬਰ ਬਾਰੇ <a href={ $explore }>ਜਾਣੋ</a>।
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਡੈਸਕਟਾਪ ਲਈ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ <a href={ $download }>ਡਾਊਨਲੋਡ</a> ਕਰੋ
+not-found-page-download-the-firefox-browser = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ <a href={ $download }>ਡਾਊਨਲੋਡ</a> ਕਰੋ

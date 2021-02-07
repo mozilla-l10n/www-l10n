@@ -12,6 +12,9 @@ navigation-ios-support = { -brand-name-ios } ਸਹਿਯੋਗ
 navigation-android-support = { -brand-name-android } ਸਹਿਯੋਗ
 navigation-firefox-browser-for-enterprise = ਇੰਟਰਪਰਾਈਜ਼ ਲਈ { -brand-name-firefox-browser }
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } ਲਈ { -brand-name-firefox }
+navigation-watch-videos-and-browse = ਆਪਣੇ { -brand-name-amazon } { -brand-name-fire-tv } ਉੱਤੇ ਵੀਡਿਓ ਵੇਖੋ ਤੇ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ਰ ਕਰੋ।
+navigation-firefox-browsers-put = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ — ਅਤੇ ਹਮੇਸ਼ਾਂ ਹੈ।
+navigation-take-the-passwords-youve = { -brand-name-firefox } ਵਿੱਚ ਸੰਭਾਲੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਹਰ ਥਾਂ ਲੈ ਜਾਓ।
 navigation-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
 navigation-meet-the-firefox-family = { -brand-name-firefox } ਸਮੂਹ ਨੂੰ ਮਿਲੋ
 navigation-firefox-blog = { -brand-name-firefox } ਬਲੌਗ
@@ -21,6 +24,7 @@ navigation-get-firefox = { -brand-name-firefox } ਲਵੋ
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ਫੋਕਸ ਲਵੋ
 navigation-android-extensions = { -brand-name-android } ਇਕਸਟੈਨਸ਼ਨਾਂ
 navigation-your-firefox-account = ਤੁਹਾਡਾ { -brand-name-firefox-account }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }, ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ।
 navigation-firefox-playground = { -brand-name-firefox } ਮੈਦਾਨ
@@ -41,6 +45,7 @@ navigation-check-for-breaches = ਸੰਨ੍ਹ ਲੱਗਣ ਲਈ ਜਾਂਚ
 navigation-see-breaches = ਸੰਨ੍ਹਾਂ ਨੂੰ ਵੇਖੋ
 navigation-security-tips = ਸੁਰੱਖਿਆ ਸੁਝਾਅ
 navigation-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
+# Outdated string
 navigation-connected-and-protected = ਕਨੈਕਟ ਅਤੇ ਸੁਰੱਖਿਅਤ
 navigation-join = ਹਿੱਸਾ ਬਣੋ
 navigation-sign-in = ਸਾਇਨ ਇਨ
@@ -50,8 +55,10 @@ navigation-close-about-menu = ਇਸ ਬਾਰੇ ਮੇਨੂ ਬੰਦ ਕਰ�
 navigation-meet-the-technology-company = ਅਜਿਹੀ ਤਕਨੀਕੀ ਕੰਪਨੀ ਨੂੰ ਮਿਲੋ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਫਾਇਦੇ ਤੋਂ ਪਹਿਲ ਦਿੰਦੀ ਹੈ।
 navigation-new-features = ਨਵੇਂ ਫੀਚਰ
 navigation-save-content-absorb-knowledge = ਸਮੱਗਰੀ ਸੰਭਾਲੋ। ਗਿਆਨ ਲਵੋ।
+# Outdated string
 navigation-add-ons = ਐਡ-ਆਨ
 navigation-projects = ਪਰੋਜੈਕਟ
+# Outdated string
 navigation-web-of-things-iot = ਚੀਜ਼ਾਂ ਦਾ ਵੈੱਬ (IoT)
 navigation-developers = ਡਿਵੈਲਪਰ
 navigation-close-developers-menu = ਡਿਵੈਲਪਰ ਮੇਨੂ ਬੰਦ ਕਰੋ
