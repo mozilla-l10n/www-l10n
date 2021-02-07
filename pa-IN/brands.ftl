@@ -20,6 +20,7 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 
 ## Firefox browsers
@@ -107,6 +108,7 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers

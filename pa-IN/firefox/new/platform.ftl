@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/windows/
 
 new-platform-free-web-browser = ਮੁਫ਼ਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ
-new-platform-download-firefox = ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
+new-platform-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 new-platform-download-the-fastest = ਹੁਣ ਤੱਕ ਦੇ ਸਭ ਤੋਂ ਤੇਜ਼ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ
 new-platform-faster-page-loading = ਹੋਰ ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨਾ, ਘੱਟ ਮੈਮੋਰੀ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਪੂਰ, ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਆ ਗਿਆ ਹੈ।
 new-platform-the-new-firefox = ਨਵਾਂ <strong>ਫਾਇਰਫਾਕਸ</strong>
@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = ਆਮ ਸੂਝਬੂਝ ਪਰਦੇਦਾ
 new-platform-live-your-life = ਆਪਣਾ ਜੀਵਨ ਜੀਓ, { -brand-name-firefox } ਨਹੀਂ ਦੇਖ ਰਿਹਾ ਹੈ। ਕੀ ਸਾਂਝਾ ਕਰਨਾ ਹੈ ਅਤੇ ਕਦੋਂ ਸਾਂਝਾ ਕਰਨਾ ਹੈ ਇਹ ਚੁਣੋ।
 new-platform-seamless-setup = ਜੋੜ ਰਹਿਤ ਸੈਟਅੱਪ
 new-platform-easy-migration = ਜਦੋਂ ਤੁਸੀਂ { -brand-name-windows } ਲਈ { -brand-name-firefox } ਡਾਉਨਲੋਡ ਕਰਦੇ ਹੋ ਤਾਂ ਤਰਜੀਹਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕ ਦਾ ਆਸਾਨੀ ਨਾਲ ਮਾਈਗਰੇਸ਼ਨ ਕਰ ਸਕਦੇ ਹੋ।
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = { -brand-name-windows } ਲਈ <br> { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = { -brand-name-mac } ਲਈ <br> { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = { -brand-name-linux } ਲਈ <br> { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ

@@ -30,11 +30,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = ਹਾਂ
 firefox-desktop-download-no = ਨਹੀਂ
 firefox-desktop-download-blocks-third-party = ਤੀਜੀ ਧਿਰ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
+firefox-desktop-download-blocks-third-party-default = ਮੂਲ ਰੂਪ ਵਿੱਚ ਤੀਜੀ-ਧਿਰ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ
 firefox-desktop-download-autoplay-blocking = ਆਪਣੇ-ਆਪ ਚੱਲਣ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
 firefox-desktop-download-blocks-social-trackers = ਸਮਾਜਿਕ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
 firefox-desktop-download-in-browser-screenshot = ਬਰਾਊਜ਼ਰ ਵਿਚੇ ਸਕਰੀਨਸ਼ਾਟ ਟੂਲ
+firefox-desktop-download-primary-password = ਮੁੱਖ ਪਾਸਵਰਡ
+# Obsolete string
 firefox-desktop-download-master-password = ਪ੍ਰਾਇਮਰੀ ਪਾਸਵਰਡ
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
 firefox-desktop-download-see-your-report = ਆਪਣੀ ਸੁਰੱਖਿਆ ਰਿਪੋਰਟ ਵੇਖੋ
@@ -144,6 +147,9 @@ firefox-desktop-download-now-mac = ਹੁਣ ਡਾਊਨਲੋਡ ਕੀਤੀ 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ਸਮੱਸਿਆ ਹੈ? <a { $attrs }>ਆਪਣੀ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਮਦਦ ਲਵੋ</a>।
 firefox-desktop-download-in-another-language = ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਹੋਰ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ।
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਵੇਖੋ
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ, ਪੁਰਾਣਾ ਹੋਇਆ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ <a href="{ $url }">{ -brand-name-firefox } ਵਲੋਂ ਸਹਾਇਕ ਨਹੀਂ ਰਿਹਾ ਹੈ</a>।
@@ -152,3 +158,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = ਤੁਸੀਂ ਅ�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਆਪਣੇ-ਆਪ ਸ਼ੁਰੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਨਹੀਂ ਹੋਇਆ? <a id="{ $id }" href="{ $fallback_url }">ਮੁੜ ਡਾਊਨਲੋਡ ਕਰਕੇ ਵੇਖੋ।</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵਧਕੇ ਹੈ।
+firefox-desktop-download-interrupted = ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ ਹੈ। ਪਰ ਸਭ ਖ਼ਤਮ ਨਹੀਂ ਹੋਇਆ।
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = { -brand-name-firefox } ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ <a href="{ $url }">ਇਹਨਾਂ ਸੇਧਾਂ</a> ਦੀ ਪਾਲਣਾ ਕਰੋ।
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = { -brand-name-firefox } ਲਈ ਤੁਹਾਡਾ ਸਿਸਟਮ ਲੋੜਾਂ ਪੂਰੀਆਂ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ <a href="{ $url }">ਇਹਨਾਂ ਵਰਜ਼ਨਾਂ</a> ਵਿੱਚੋਂ ਇੱਕ ਵਰਤ ਕੇ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।

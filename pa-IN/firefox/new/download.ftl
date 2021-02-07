@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = ਬਰਾਊਜ਼ਰ ਹੁਣੇ ਡ�
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ਹੁਣ ਤੋਂ ਕੋਈ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ</a> on { -brand-name-windows } { -brand-name-xp } ਜਾਂ { -brand-name-vista } ਲਈ ਨਹੀਂ ਦਿੰਦਾ ਹੈ, ਪਰ ਤੁਸੀਂ ਹਾਲੇ ਵੀ { -brand-name-firefox } ਵਰਤ ਸਕਦੇ ਹੋ।
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ, ਪੁਰਾਣਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ <a href="{ $url }">{ -brand-name-firefox } ਹੁਣ ਇਸ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ</a>।
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,15 @@ firefox-new-its-privacy-and-peace-of = ਇਹ <strong>ਪਰਦੇਦਾਰੀ �
 firefox-new-its-a-family-of-products = ਇਹ <strong>ਉਤਪਾਦਾਂ ਦਾ ਸਮੂਹ ਹੈ</strong> ਜੋ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟਾ ਦਾ ਉਚੇਚਾ ਧਿਆਨ ਦਿੰਦਾ ਹੈ।
 firefox-new-its-everything-you-need-to = <strong>ਤੁਹਾਡੇ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਰਹਿਣ</strong> ਬਾਰੇ ਤੁਹਾਨੂੰ ਚਾਹੀਦੀ ਇਹ ਹਰ ਚੀਜ਼ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹੈ।
 firefox-new-its-a-community-that-believes = ਇਹ <strong>ਇਕ ਜਮਾਤ ਹੈ</strong> ਜੋ ਵਿਸ਼ਵਾਸ ਕਰਦੀ ਹੈ ਕਿ ਤਕਨਾਲੋਜੀ ਬਿਹਤਰ ਕਰ ਸਕਦੀ ਹੈ।
+firefox-new-download-interrupted = ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ ਹੈ। ਪਰ ਸਭ ਖ਼ਤਮ ਨਹੀਂ ਹੋਇਆ।
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = { -brand-name-firefox } ਇੰਸਟਾਲ ਕਰਨ ਲਈ <a href="{ $url }">ਇਹ ਹਦਾਇਤਾਂ</a> ਦੀ ਪਾਲਣਾ ਕਰੋ।
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = { -brand-name-firefox } ਲਈ ਤੁਹਾਡਾ ਸਿਸਟਮ ਲੋੜਾਂ ਪੂਰੀਆਂ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ <a href="{ $url }">ਇਹਨਾਂ ਵਰਜ਼ਨਾਂ</a> ਵਿੱਚੋਂ ਇੱਕ ਵਰਤ ਕੇ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = ਜੇ ਤੁਹਾਨੂੰ ਐਪ ਸ਼ੁਰੂ ਵੇਲੇ ਪੁੱਛਿਆ ਜਾਂਦਾ ਕਿ ਤੁਸੀਂ { -brand-name-microsoft }-ਜਾਂਚ ਕੀਤੀ ਐਪ ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਤਾਂ  “Install anyway” ਜਾਂ <a { $attrs }>change app recommendation settings</a> ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
+firefox-new-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਵੇਖੋ
