@@ -38,4 +38,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogg
 
 ## Innovation menu
 
+navigation-v2-innovation = innovasjon
+navigation-v2-close-innovation-menu = Lat att Innovasjon-menyen
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-more-mozilla-innovation = Fleire { -brand-name-mozilla }-innovasjonar
