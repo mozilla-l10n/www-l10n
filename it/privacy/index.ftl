@@ -24,7 +24,7 @@ privacy-index-transparency-report = Relazione di trasparenza
 privacy-index-get-involved = Partecipa
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
-privacy-index-as-an-open-source-project = In qualità di progetto Open Source, trasparenza e apertura sono una parte essenziale dei principi fondanti di { -brand-name-mozilla }. Il nostro codice è aperto e verificabile. Lo sviluppo avviene in modo trasparente. La nostra <a href="{ $report }">relazione di trasparenza</a>, pubblicata due volte all'anno, dimostra il nostro impegno nel rispettare questi principi.
+privacy-index-as-an-open-source-project = In qualità di progetto Open Source, trasparenza e apertura sono una parte essenziale dei principi fondanti di { -brand-name-mozilla }. Il nostro codice è aperto e verificabile. Lo sviluppo avviene in modo trasparente. La nostra <a href="{ $report }">relazione di trasparenza</a>, pubblicata due volte all’anno, dimostra il nostro impegno nel rispettare questi principi.
 # Variables:
 #   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
 privacy-index-to-review-and-comment-on-proposed = Per discutere e commentare proposte di modifica delle nostre politiche sulla privacy <a href="{ $group }">iscriviti al gruppo “{ -brand-name-mozilla } Governance”</a>.
