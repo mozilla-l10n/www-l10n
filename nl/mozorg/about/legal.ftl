@@ -23,3 +23,5 @@ legal-thunderbird = { -brand-name-thunderbird }
 legal-websites-and-communications = Gebruiksvoorwaarden voor websites en communicatie
 legal-acceptable-use-policy = Gebruiksregels
 legal-firefox-cloud-services = { -brand-name-firefox }-cloudservices: servicevoorwaarden
+legal-firefox-better-web = { -brand-name-firefox-better-web }
+legal-report-copyright = Inbreuk op auteursrecht of handelsmerk melden
