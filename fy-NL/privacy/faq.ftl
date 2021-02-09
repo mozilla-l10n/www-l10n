@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ferkeapet g
 privacy-faq-wait-so-how-do-you-make-money = Mar wacht, hoe fertsjinje jin dan jild?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } is gjin gemiddelde organisaasje. { -brand-name-mozilla } is yn 1998 oprjochte as in troch de mienskip ûnderhâlden iepenboarneprojekt en in troch in missy dreaune organisaasje dy't nei in sûner ynternet tawurket. De mearderheid fan de ynkomsten fan de { -brand-name-mozilla } Corporation is ôfkomstich fan royalty’s dy't fia partnerferbannen mei sykmasinen yn de { -brand-name-firefox }-browser en distribúsjeoerienkomsten oer de hiele wrâld krigen wurde. Mear ynformaasje oer hoe't wy jild fertsjinje kinne jo fine yn ús <a href="{ $link }">finansjeel jierferslach</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } is gjin gemiddelde organisaasje. { -brand-name-mozilla } is yn 1998 oprjochte as in troch de mienskip ûnderhâlden iepenboarneprojekt en in troch in missy dreaune organisaasje dy't nei in sûner ynternet tawurket. De mearderheid fan de ynkomsten fan de { -brand-name-mozilla-corporation } is ôfkomstich fan royalty’s dy't fia partnerferbannen mei sykmasinen yn de { -brand-name-firefox }-browser en distribúsjeoerienkomsten oer de hiele wrâld krigen wurde. Mear ynformaasje oer hoe't wy jild fertsjinje kinne jo fine yn ús <a href="{ $link }">finansjeel jierferslach</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Oké, de earste wiene maklike fragen. Hokker gegevens sammelje jimme?
 # Variables:
