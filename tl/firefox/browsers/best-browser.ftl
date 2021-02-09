@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
+best-browser-find-your-best-browser = Hanapin ang iyong pinakamabisang browser para sa bilis, pagkapribado at seguridad.
 best-browser-privacy-speed-and-security = Pagkapribado, bilis, at seguridad.
 best-browser-how-to-choose-the-best = Paano pumili ng pinaka magandang browser para sa iyo.
 best-browser-marshall-erwin-senior = Marshall Erwin, Senior Director of Trust and Security at { -brand-name-mozilla }
