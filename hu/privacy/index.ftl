@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } adatvédelem
-privacy-index-contact-mozilla = Kapcsolatfelvétel a Mozillával
+privacy-index-contact-mozilla = Kapcsolatfelvétel a { -brand-name-mozilla(ending: "accented") }val
 privacy-index-if-you-want-to-make-a-correction = Ha szeretné pontosítani adatait, vagy kérdése van adatvédelmi szabályzatainkkal kapcsolatban, akkor vegye fel a kapcsolatot ezzel a címmel (angolul):
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0

@@ -7,18 +7,18 @@
 
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } adatvédelmi GYIK
-privacy-faq-at-mozilla-we-respect-and-protect-desc = A Mozillánál tiszteletben tartjuk és védjük a személyes információit.
+privacy-faq-at-mozilla-we-respect-and-protect-desc = A { -brand-name-mozilla(ending: "accented") }nál tiszteletben tartjuk és védjük a személyes információit.
 privacy-faq-we-stand-for-people-over-profit = Az embereket a profit elé helyezzük.
 privacy-faq-it-can-be-tricky-for-people = Az emberek számára bonyolult megtudni, hogy mit is várhatnak egy ma használt szoftvertől vagy szolgáltatástól. A technológia, ami az életünket vezérli összetett, és az embereknek nincs idejük a részletekbe merülni. Ez a { -brand-name-firefox }ra is igaz, ahogy úgy találjuk, hogy az embereknek számos különböző ötletük van arra, hogy mi is történik a motorháztető alatt.
-privacy-faq-at-mozilla-we-respect-and-protect = A Mozillánál tiszteletben tartjuk és védjük a személyes információit:
+privacy-faq-at-mozilla-we-respect-and-protect = A { -brand-name-mozilla(ending: "accented") }nál tiszteletben tartjuk és védjük a személyes információit:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Az <a href="{ $link }">Adatvédelmi irányelveinket</a> követjük, melyek alakítják az adatvédelmi hozzáállásunk az asztali és mobil { -brand-name-firefox } böngészőkben.
 privacy-faq-we-only-collect-the-data-we = Csak a lehető legjobb termékek készítéséhez szükséges adatokat gyűjtjük.
 privacy-faq-we-put-people-in-control-of = Az emberek kezébe adjuk az irányítást az adataik és az online élményeik felett.
 privacy-faq-we-adhere-to-no-surprises-principle = A „nincsenek meglepetések” elvet követjük, ami azt jelenti, hogy keményen dolgozunk azon, hogy az emberek { -brand-name-firefox }ról alkotott képe megegyezzen a valósággal.
-privacy-faq-the-following-questions-and = A következő kérdések és válaszok segítenek megérteni, hogy mit várhat a Mozillától és a { -brand-name-firefox }tól:
-privacy-faq-i-use-firefox-for-almost-everything = Szinte mindenre a { -brand-name-firefox }ot használom a Weben. Ti ott a Mozillánál biztos sok mindent tudtok rólam, ugye?
+privacy-faq-the-following-questions-and = A következő kérdések és válaszok segítenek megérteni, hogy mit várhat a { -brand-name-mozilla(ending: "accented") }tól és a { -brand-name-firefox }tól:
+privacy-faq-i-use-firefox-for-almost-everything = Szinte mindenre a { -brand-name-firefox }ot használom a Weben. Ti ott a { -brand-name-mozilla(ending: "accented") }nál biztos sok mindent tudtok rólam, ugye?
 privacy-faq-firefox-the-web-browser-that = A { -brand-name-firefox }, a webböngésző, amely az eszközén vagy számítógépén fut, átjáró az internethez. A böngészője számos információt kezel a felkeresett weboldalakról, de ez az információ az Ön eszközén marad. A { -brand-name-mozilla }, a { -brand-name-firefox }ot készítő vállalat, nem gyűjti azokat (kivéve, ha Ön kéri).
 privacy-faq-really-you-dont-collect-my-browsing = Tényleg, nem gyűjtik az előzményeim?
 # Variables:
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = A { -brand-name-mozilla } nem adja 
 privacy-faq-wait-so-how-do-you-make-money = Várjunk, akkor hogyan csináltok pénzt?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = A { -brand-name-mozilla } nem egy átlagos szervezet. Közösségi nyílt forráskódú projektként finanszírozott 1998 óta, a { -brand-name-mozilla } egy küldetés-vezérelt szervezet, amely az egészségesebb internetért dolgozik. A { -brand-name-mozilla } Corporation bevételének túlnyomó része a { -brand-name-firefox } webböngésző keresési partnerségéből származó jogdíjakból, valamint disztribúciós üzletekből származik. Az <a href="{ $link }">éves pénzügyi jelentésünkből</a> többet tudhat meg arról, hogyan keresünk pénzt.
+privacy-faq-mozilla-is-not-your-average = A { -brand-name-mozilla } nem egy átlagos szervezet. Közösségi nyílt forráskódú projektként finanszírozott 1998 óta, a { -brand-name-mozilla } egy küldetés-vezérelt szervezet, amely az egészségesebb internetért dolgozik. A { -brand-name-mozilla-corporation } bevételének túlnyomó része a { -brand-name-firefox } webböngésző keresési partnerségéből származó jogdíjakból, valamint disztribúciós üzletekből származik. Az <a href="{ $link }">éves pénzügyi jelentésünkből</a> többet tudhat meg arról, hogyan keresünk pénzt.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Rendben, ezek voltak a könnyű esetek. Milyen adatokat gyűjtötök?
 # Variables:
