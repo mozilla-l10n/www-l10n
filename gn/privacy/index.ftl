@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } ñemiguáva
@@ -32,4 +32,13 @@ privacy-index-to-review-and-comment-on-proposed = Ehechajey ha emombe’u hag̃u
 privacy-index-read-more-about-our-ongoing = Emoñe’ẽve ore remiñemi purureko opavavegua ha tekorosã ag̃aguáva <a href="{ $blog }">Blog tekorosãrã ha { -brand-name-mozilla } purureko ijurujáva</a>.
 privacy-index-outdated-policies = Purureko oikove'ỹmava
 privacy-index-mozilla-websites-communications = Ñamduti renda, ñomongeta ha { -brand-name-mozilla } kookie
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv } peg̃uarã
