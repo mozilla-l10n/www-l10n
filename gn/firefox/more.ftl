@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Opa { -brand-name-firefox } apopyre ojejapo omo’ã hag̃ua ne ñemigua
+learn-more-about-firefox = Eikuaave { -brand-name-firefox } rehegua, hembiasakue, peteĩchagua ha hembipota
 learn-more-about = Eikuaave { -brand-name-firefox } kundahára rehegua ha apopyre omboguatáva ne mba’ekuaarã poyhúpe ha ojejapóva ne rekoñemi hag̃ua ñandutípe oimehápe.
 learn-more-faq = { -brand-name-firefox } FAQ
 the-history-of = Ñanduti kundahára rembiasakue

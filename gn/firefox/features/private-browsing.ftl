@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Kundaha ñemigua peteĩ ñemo’ã ani hag̃ua ejeheka reheve
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } omo’ã ne ñemigua ñandutípe ha ojoko umi hekaha nde rapykuehóva ñandutípe.
+features-private-browsing-download-firefox = Emboguejy { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Ñemo’ãve. Sa’ive jepy’apy.
 features-private-browsing-were-obsessed-with = Ore jepy’apy ha’e hína ne ñemigua ñemo’ãve. Upévare rojapo { -brand-name-firefox } kundaha ñemigua imbaretevévo opavavégui.
 features-private-browsing-browse-without = Eikundaha jehekaha’ỹre
