@@ -78,4 +78,6 @@ firefox-developer-welcome-to-the-all-new = Tereg̃uahẽporãite ipyahúva { -br
 firefox-developer-firefox-has-been-rebuilt = Ojejapojey { -brand-name-firefox } iñepyrũha guive ipya’eve, hekoporã ha imbareteve hag̃ua opa ára.
 firefox-developer-congrats-you-now-have-firefox = Vy’apavẽ. Ko’ág̃a eguerekóma { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Kóva ndaha’éi ñembohekopyahu año. Kóva ha’e { -brand-name-firefox-quantum }:  { -brand-name-firefox } ipyahúva heñóiva yvyetégui ipya’eve, ivevúi ha imbareteve hag̃ua.
+firefox-developer-welcome-to-firefox-browser = Eg̃uahẽporãite { -brand-name-firefox-browser } { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g̃uarã
+firefox-developer-congrats-you-now-have = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } { -brand-name-developer-edition }.
