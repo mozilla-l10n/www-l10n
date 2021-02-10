@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet i yimdanen, mačči i ubaɣur
 home-did-you-know-mozilla-the-maker = Teẓriḍ ? { -brand-name-mozilla }, win ifeṣlen { -brand-name-firefox }, yettnaɣ akken Internet, taɣbalut tazayezt tamaḍlant, ad teqqim teldi u tettwakcam i yal yiwen.

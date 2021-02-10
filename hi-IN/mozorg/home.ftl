@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = लोगों के लिए इंटरनेट, लाभ के लिए नहीं
 home-did-you-know-mozilla-the-maker = क्या आपको पता हैं? { -brand-name-mozilla } — { -brand-name-firefox } का निर्माता — इंटरनेट को एक वैश्विक सार्वजनिक संसाधन रखने के लिए संघर्ष करता है जो सभी के लिए खुला और उपलब्ध हैं.

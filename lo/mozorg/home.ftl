@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = ອິນເຕີເນັດສຳລັບທຸກຄົນ, ບໍ່ແມ່ນເພືອຫວັງຜົນກຳໄລ
 home-fast-for-good = ວ່ອງໄວທັນໃຈ.

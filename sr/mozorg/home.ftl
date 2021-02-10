@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Интернет за људе, не за профит
 home-did-you-know-mozilla-the-maker = Да ли сте знали? { -brand-name-mozilla } се бори за одржавање интернета слободним, отвореним и доступним свима.

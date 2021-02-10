@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet herriarentzat, irabazi-asmorik gabe
 home-did-you-know-mozilla-the-maker = Bazenekien? { -brand-name-mozilla }k — { -brand-name-firefox }en egileak — Internetek baliabide publiko globala, irekia eta guztiontzat erabilerraza izaten jarrai dezan borroka egiten du.

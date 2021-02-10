@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet za ljude, ne za profit
 home-did-you-know-mozilla-the-maker = Znaš li ovo? { -brand-name-mozilla } – proizvođač { -brand-name-firefox }a – se bori za zadržavanje interneta kao javnog globalnog resursa, otvorenog i dostupnog svima.

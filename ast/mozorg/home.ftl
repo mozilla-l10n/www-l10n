@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet pa la xente, non pal porgüeyu
 home-did-you-know-mozilla-the-maker = ¿Sabíes que { -brand-name-mozilla }, la creadora de { -brand-name-firefox }, llucha pa caltener la web como un recursu global, públicu, abiertu y accesible pa toos?

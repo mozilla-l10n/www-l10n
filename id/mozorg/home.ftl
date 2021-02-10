@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet untuk masyarakat, bukan profit
 home-did-you-know-mozilla-the-maker = Tahukah Anda? { -brand-name-mozilla } — pembuat { -brand-name-firefox } — berjuang untuk menjaga Internet sebagai sumber daya publik terbuka dan dapat diakses oleh semua.
