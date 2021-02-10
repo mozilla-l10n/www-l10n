@@ -8,7 +8,7 @@
 # HTML page title and main title
 privacy-principles-data-privacy-principles = Mba'ekuaarã ñemigua ñemoñepyrũ rehegua
 # HTML page description
-privacy-principles-mozilla-is-an-open-source = Firefox ha'e peteĩ apopyrã auvu ijurujáva ojapo porãsevéva hembiapo ñandutípe. Kóva ha'e peteĩ pokatu oñembohekóva tapiaite tembiapokue ñemigua rehegua.
+privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } ha’e apopyrã ayvu ijurujáva ojapo porãsevéva hembiapo ñandutípe. Kóva peteĩ pokatu oñembohekóva tapiaite tembiapokue ñemigua rehegua.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Ko'ã po ñepyrũguáva ouhína <a href="{ $link }">{ -brand-name-mozilla } He'ipyre</a> ha omomarandu mba'eichaitépa:

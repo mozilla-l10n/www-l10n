@@ -31,7 +31,7 @@ privacy-index-to-review-and-comment-on-proposed = Ehechajey ha emombe’u hag̃u
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Emoñe’ẽve ore remiñemi purureko opavavegua ha tekorosã ag̃aguáva <a href="{ $blog }">Blog tekorosãrã ha { -brand-name-mozilla } purureko ijurujáva</a>.
 privacy-index-outdated-policies = Purureko oikove'ỹmava
-privacy-index-mozilla-websites-communications = Ñamduti renda, ñomongeta ha { -brand-name-mozilla } kookie
+privacy-index-mozilla-websites-communications = Ñamduti renda, ñomongeta ha kookie { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
