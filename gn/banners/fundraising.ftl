@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = Pe tenondegua omboajéma ñandutípe. Eipytyvõ { -brand-name-mozilla }-pe oñorairõvo ñanduti opavavépe g̃uarãva.
 banner-fundraising-monthly = Jasyguáva
 banner-fundraising-one-time = Peteĩ jeýnte
 banner-fundraising-donate = Me’ẽ

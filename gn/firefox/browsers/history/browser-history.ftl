@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Kundahára rembiasakue: ñorairõ guasu pokatúre oguerúva kundahára pyahu
 browser-history-the-history-of-web = Ñanduti kundahára rembiasakue
 browser-history-before-web-era = Ñanduti mboyveguare
 browser-history-web-era = Ñanduti oĩ rire
