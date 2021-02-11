@@ -18,3 +18,6 @@ history-of-course-were-not-alone = Peichaite, ndaoreañói ko tembiapópe.
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Eikeséramo orendive ore rembipotápe, ikatúrõ <a href="{ $contribute }">eikékatu</a>.
 history-for-more-information-about = Eñemomaranduve hag̃ua { -brand-name-mozilla }’ rembiasakue rehegua, emoñe’ẽ ãva:
+history-mozilla-bookmarks = { -brand-name-mozilla } Rechaukaha
+history-timeline-of-mozilla-project = { -brand-name-mozilla } apopyrã rapykuere
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
