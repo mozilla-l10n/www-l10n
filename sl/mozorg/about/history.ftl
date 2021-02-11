@@ -41,6 +41,10 @@ history-the-renewed-competition = Nova konkurenca je <a href="{ $innovation }">p
 history-in-2013-we-launched-firefox = Leta 2013 smo predstavili <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a>, da bi sprostili celotno moč spleta za pametne telefone in novi generaciji uporabnikov spleta omogočili nadzor in izbiro.
 history-mozilla-also-celebrated = Leta 2013 je { -brand-name-mozilla } tudi praznovala 15-letnico svojega obstoja.
 history-the-community-has-shown = Skupnost je dokazala, da imajo komercialna podjetja lahko korist od sodelovanja v odprtokodnih projektih in da se odlični uporabniški izdelki lahko razvijajo kot odprtokodni programi.
+history-the-future-is-full-of-challenges = Prihodnost je polna izzivov in priložnosti, enakih tistim iz naše preteklosti.
 history-theres-no-guarantee-that = Nobenega zagotovila ni, da bo internet ostal odprt in prijazen in varen.
 history-of-course-were-not-alone = Seveda pri tem nismo sami.
 history-timeline-of-mozilla-project = Časovnica projekta { -brand-name-mozilla }
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">Zgodovina posterjev { -brand-name-firefox(sklon: "rodilnik") } in { -brand-name-mozilla(sklon: "rodilnik") }</a> (na voljo v angleščini in japonščini)
