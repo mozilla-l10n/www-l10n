@@ -8,3 +8,4 @@
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
 privacy-passwords-guessing-it = Ijurupyasy
+privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
