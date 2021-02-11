@@ -27,7 +27,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser = Navegador Firefox
 -brand-name-firefox-browsers = Navegadores Firefox
 -brand-name-firefox-developer-edition = Firefox Edición para Desarrolladores
 -brand-name-firefox-enterprise = Firefox Enterprise
