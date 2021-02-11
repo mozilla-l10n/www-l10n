@@ -29,9 +29,9 @@ firefox-desktop-download-no = Ne
 firefox-desktop-download-blocks-third-party = Zavračanje sledilnih piškotkov tretjih strani
 firefox-desktop-download-blocks-third-party-default = Privzeto zavrača sledilne piškotke tretjih strani
 firefox-desktop-download-autoplay-blocking = Zavračanje samodejnega predvajanja
-firefox-desktop-download-blocks-social-trackers = Zavračanje sledilcev družbenih omrežij
+firefox-desktop-download-blocks-social-trackers = Zavrača sledilce družbenih omrežij
 # OS is short for "Operating System"
-firefox-desktop-download-os-availability = Podpora operacijskim sistemom
+firefox-desktop-download-os-availability = Razpoložljiv za vse operacijske sisteme
 firefox-desktop-download-in-browser-screenshot = Orodje za zajemanje zaslonskih posnetkov
 firefox-desktop-download-primary-password = Glavno geslo
 # Obsolete string
