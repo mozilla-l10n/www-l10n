@@ -14,6 +14,7 @@ legal-terms = Ñe’ẽtegua
 legal-our-websites = Ore ñanduti renda
 legal-firefox-services = Mba’epytyvõrã { -brand-name-firefox }
 legal-webmaker = { -brand-name-webmaker }
+legal-privacy-trademarks = Ñemigua ha márka
 legal-firefox = { -brand-name-firefox }
 legal-thunderbird = { -brand-name-thunderbird }
 legal-firefox-better-web = { -brand-name-firefox-better-web }
