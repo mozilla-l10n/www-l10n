@@ -10,3 +10,4 @@ history-the-community-has-shown = Tekoha ohechauka umi ñemuha guasu ikatuha oip
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Hetaiteve yvypóra ko’ág̃a rupi oipuru Ñanduti ha ojapokuaa <a href="{ $all }">iñe’ẽtépe</a>.
+history-the-future-is-full-of-challenges = Tenondevépe oĩ heta mba’eaporã ha pa’ũ peteĩchagua opavavetépe g̃uarã.
