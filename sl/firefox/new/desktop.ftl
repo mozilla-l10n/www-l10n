@@ -113,6 +113,13 @@ firefox-desktop-download-now-mac = Zdaj <strong>odprite</strong> datoteko, ki st
 firefox-desktop-download-get-help = Imate težave? <a { $attrs }>Poiščite pomoč pri namestitvi</a>.
 firefox-desktop-download-in-another-language = Prenesite v drugem jeziku ali za drug operacijski sistem.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Če se prikaže obvestilo, da nameščate aplikacijo, ki je { -brand-name-microsoft } ni preveril, kliknite »Vseeno namesti« ali <a { $attrs }>spremenite nastavitve priporočil aplikacij</a>.
+firefox-desktop-download-visit-support-for-more = Za več podrobnosti obiščite podporo
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ne izdaja več varnostnih posodobitev</a> za { -brand-name-windows } { -brand-name-xp } in { -brand-name-vista }, vendar lahko { -brand-name-firefox } vseeno uporabljate.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -122,6 +129,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Uporabljate zastarel
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Prenos bi se moral začeti samodejno. Ne deluje? <a id="{ $id }" href="{ $fallback_url }">Poskusite znova začeti prenos.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je več kot le brskalnik.
+firefox-desktop-download-interrupted = Prenašanje se je prekinilo. Toda vse ni izgubljeno.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Za namestitev { -brand-name-firefox }a sledite <a href="{ $url }">navodilom</a>.
