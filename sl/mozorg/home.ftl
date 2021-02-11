@@ -8,11 +8,11 @@
 home-internet-for-people-not-profit = Internet za ljudi, ne za dobiček
 home-did-you-know-mozilla-the-maker = Ali ste vedeli? { -brand-name-mozilla } — razvijalec { -brand-name-firefox }a — se bori za ohranitev interneta kot globalnega javnega vira, odprtega in dostopnega vsem.
 home-fast-for-good = Hiter za vedno.
-home-with-2x-the-speed-built-in = Dvojna hitrost in vgrajena zaščita zasebnosti, pod okriljem Mozille – novi { -brand-name-firefox } je najboljša izbira za brskanje.
+home-with-2x-the-speed-built-in = Dvojna hitrost in vgrajena zaščita zasebnosti, pod okriljem { -brand-name-mozilla(sklon: "rodilnik") } – novi { -brand-name-firefox } je boljša izbira za brskanje.
 home-we-make-the-internet-safer = Internet delamo varnejši, hitrejši in boljši za vekomaj.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } je neprofitna organizacija, ki stoji za { -brand-name-firefox }om. Izdelke in politike razvijamo, da bi internet ostal storitev, namenjena ljudem in ne služenju denarja na njihov račun.
 home-our-impact = Naš vpliv
-home-when-you-use-firefox-you-help = Ko uporabljate { -brand-name-firefox }, Mozilli pomagate v boju proti lažnim novicam, poučevanju digitalnih veščin in prizadevanju za prijaznejše odseke s komentarji. Oglejte si, kaj pomaga ustvariti bolj zdrav internet.
+home-when-you-use-firefox-you-help = Ko uporabljate { -brand-name-firefox }, { -brand-name-mozilla(sklon: "dajalnik") } pomagate v boju proti lažnim novicam, poučevanju digitalnih veščin in prizadevanju za prijaznejše odseke s komentarji. Oglejte si, kaj pomaga ustvariti bolj zdrav internet.
 home-working-to-keep-the-internet = Da bi internet ohranili zdrav, odprt in dostopen vsem, učimo spletno pismenost, razvijamo orodja in zagovarjamo vsakega posameznika, ki ceni internet kot globalni javni vir.
 home-working-at-the-grassroots-and = Z delom pri temeljih in pravilnikih učimo spletno pismenost, dobavljamo orodja in se zavzemamo za vsakega posameznika, ki ceni internet zgrajen na poštenosti, vključevanju in spoštovanju.
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } Information Trust Initiative

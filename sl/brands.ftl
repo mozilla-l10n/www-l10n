@@ -41,7 +41,15 @@
 
 ## Firefox browsers
 
--brand-name-firefox = Firefox
+-brand-name-firefox =
+    { $sklon ->
+       *[imenovalnik] Firefox
+        [rodilnik] Firefoxa
+        [dajalnik] Firefoxu
+        [tozilnik] Firefox
+        [mestnik] Firefoxu
+        [orodnik] Firefoxom
+    }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Brskalnik Firefox
 -brand-name-firefox-browsers = Brskalniki Firefox

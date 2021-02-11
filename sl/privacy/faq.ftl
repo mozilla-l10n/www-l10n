@@ -6,19 +6,19 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = Pogosta vprašanja o Mozilli in zasebnosti
-privacy-faq-at-mozilla-we-respect-and-protect-desc = Pri Mozilli spoštujemo in ščitimo vaše osebne podatke.
+privacy-faq-mozillas-data-privacy-faq = Pogosta vprašanja o { -brand-name-mozilla(sklon: "mestnik") } in zasebnosti
+privacy-faq-at-mozilla-we-respect-and-protect-desc = Pri { -brand-name-mozilla(sklon: "mestnik") } spoštujemo in ščitimo vaše osebne podatke.
 privacy-faq-we-stand-for-people-over-profit = Za nas so ljudje pomembnejši od dobička.
 privacy-faq-it-can-be-tricky-for-people = Dandanes pogosto ni očitno, kaj lahko pričakujemo od programov ali storitev, ki jih uporabljamo. Tehnologija, ki poganja naša življenja, je zapletena, ljudje pa nimajo časa, da bi se poglobili v podrobnosti. To velja tudi za { -brand-name-firefox }, saj ugotavljamo, da imajo ljudje kopico različnih predstav o tem, kaj se dogaja pod pokrovom njihovega brskalnika.
-privacy-faq-at-mozilla-we-respect-and-protect = Pri Mozilli spoštujemo in ščitimo vaše osebne podatke:
+privacy-faq-at-mozilla-we-respect-and-protect = Pri { -brand-name-mozilla(sklon: "mestnik") } spoštujemo in ščitimo vaše osebne podatke:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Sledimo nizu <a href="{ $link }">načel zasebnosti podatkov</a>, ki oblikujejo naš pristop k zasebnosti v namiznem in mobilnih brskalnikih { -brand-name-firefox }.
 privacy-faq-we-only-collect-the-data-we = Zbiramo samo podatke, ki jih potrebujemo, da svoje izdelke napravimo najboljše.
 privacy-faq-we-put-people-in-control-of = Ljudem dajemo nadzor nad njihovimi podatki in izkušnjo na spletu.
 privacy-faq-we-adhere-to-no-surprises-principle = Držimo se načela "brez presenečenj" in se trudimo, da bi ljudje karseda točno razumeli delovanje { -brand-name-firefox }a.
-privacy-faq-the-following-questions-and = Naslednja vprašanja in odgovori vam bodo pomagali razumeti, kaj lahko pričakujete od Mozille in { -brand-name-firefox }a:
-privacy-faq-i-use-firefox-for-almost-everything = { -brand-name-firefox } uporabljam za skoraj vse, kar počnem na spletu. Pri Mozilli morate o meni vedeti cel kup stvari, kajne?
+privacy-faq-the-following-questions-and = Naslednja vprašanja in odgovori vam bodo pomagali razumeti, kaj lahko pričakujete od { -brand-name-mozilla(sklon: "rodilnik") } in { -brand-name-firefox(sklon: "rodilnik") }:
+privacy-faq-i-use-firefox-for-almost-everything = { -brand-name-firefox } uporabljam za skoraj vse, kar počnem na spletu. Pri { -brand-name-mozilla(sklon: "mestnik") } morate o meni vedeti cel kup stvari, kajne?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, spletni brskalnik, ki teče na vaši napravi ali računalniku, je vaša vstopna točka na internet. Vaš brskalnik bo obdelal ogromno podatkov o spletnih straneh, ki jih obiščete, vendar ti podatki ostanejo na vaši napravi. { -brand-name-mozilla }, podjetje, ki razvija { -brand-name-firefox }, jih ne zbira (razen če nas za to prosite).
 privacy-faq-really-you-dont-collect-my-browsing = Resno, ne zbirate moje zgodovine brskanja?
 # Variables:
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } vaših poda
 privacy-faq-wait-so-how-do-you-make-money = Čakajte malo, kako torej služite denar?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ni navadno podjetje. Ustanovljena je bila leta 1998 kot odprtokodni projekt skupnosti in je organizacija, ki jo vodi poslanstvo, ustvarjanje zdravega interneta. Večino dohodkov { -brand-name-mozilla } Corporation prejme od partnerstev za spletne iskalnike v brskalniku { -brand-name-firefox } in od pogodb za distribucijo širom sveta. Več o tem, kako služimo denar, lahko preberete v našem <a href="{ $link }">letnem finančnem poročilu</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ni navadno podjetje. Ustanovljena je bila leta 1998 kot odprtokodni projekt skupnosti in je organizacija, ki jo vodi poslanstvo, ustvarjanje zdravega interneta. Večino dohodkov { -brand-name-mozilla-corporation } prejme od partnerstev za spletne iskalnike v brskalniku { -brand-name-firefox } in od pogodb za distribucijo širom sveta. Več o tem, kako služimo denar, lahko preberete v našem <a href="{ $link }">letnem finančnem poročilu</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = V redu, ta vprašanja so bila še preprosta. Katere podatke zbirate?
 # Variables:
