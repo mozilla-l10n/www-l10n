@@ -9,7 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = Firefox 개발자 에디션은 최첨단 개발자 도구와 CSS 그리드 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 강력한 브라우저입니다.
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }은 최첨단 개발자 도구와 CSS Grid 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 초고속 브라우저입니다.
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = 새로운 웹 브라우저에 오신 것을 환영합니다. 최신 기능, 빠른 성능 및 열린 웹을 위해 구축해야하는 개발 도구를 살펴 보세요.
 firefox-developer-speak-up = 피드백
@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = 최신의 독립적 브라우저를 만�
 firefox-developer-start-now = 지금 시작하기
 firefox-developer-design-code-test = 디자인. 코드. 테스트. 수정
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Firefox 개발도구로<br>웹 사이트 구성하기
+firefox-developer-build-and-perfect = { -brand-name-firefox-devtools }로 <br> 사이트 구축 및 완성하기
 firefox-developer-inspector = 검사기
 firefox-developer-inspect-and-refine = 코드를 검사하고 수정하여 완벽한 레이아웃을 만드십시오.
 firefox-developer-learn-about-page-inspector = 페이지 검사기 자세히 보기
@@ -52,8 +52,9 @@ firefox-developer-style-editor = 스타일 편집기
 firefox-developer-edit-and-manage = 웹 브라우저에서 모든 CSS 스타일 시트를 편집하고 관리하십시오.
 firefox-developer-learn-more-about-style = 스타일 편집기 자세히 보기
 firefox-developer-new-tools = 신규 개발 도구
-firefox-developer-firefox-devtools = Firefox 개발  도구
-firefox-developer-the-new-firefox-devtools = 새로운 Firefox 개발 도구는 강력하고 유연하며 모든 것을 분석 가능합니다. 여러 브라우저를 지원하는 React 및 Redux로 작성된 동급 최고의 JavaScript 디버거를 포함합니다.
+firefox-developer-inactive-css = 비활성 CSS
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-the-new-firefox-devtools = 새로운 { -brand-name-firefox-devtools }는 강력하고 유연하며 모든 것을 분석 가능합니다. 여러 브라우저를 지원하고 React 및 Redux로 작성된 동급 최고의 JavaScript 디버거를 포함합니다.
 firefox-developer-master-css-grid = 마스터 CSS 그리드
 firefox-developer-next-gen-css-engine = 차세대 CSS 엔진
 firefox-developer-a-next-generation = 차세대 CSS 엔진
