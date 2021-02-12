@@ -56,4 +56,5 @@ contribute-mozilla-support = { -brand-name-mozilla } Ñepytyvõ
 ## Web compat
 
 contribute-web-compat-heading = ¿Apañuãi peteĩ ñanduti rendápe?
+contribute-web-compat-desc = Ne rembiapo ñanduti rendápe ojuavy kundaharakuéra pa’ũme, ikatu ehechahína apañuãi ñanduti jokupyty rehegua. ¡Rovy’ata roikuaárõ!
 contribute-report-issue = Emomarandu apañuãi
