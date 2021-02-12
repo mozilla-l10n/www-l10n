@@ -9,3 +9,5 @@
 privacy-passwords-tldr = tl;dr:
 privacy-passwords-guessing-it = Ijurupyasy
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
+privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
+privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
