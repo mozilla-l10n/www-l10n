@@ -38,6 +38,7 @@ navigation-v2-help-prevent-facebook-from = Eipytyvõ { -brand-name-facebook } om
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Erekóta ñemo’ã ne kundaháragui, opaite ne mba’e’okápe.
 navigation-v2-product-promise = Apopyre Ñe’ẽme’ẽ
+navigation-v2-learn-how-each-firefox-product = Eikuaa mba’éichapa peteĩteĩva { -brand-name-firefox } apopyre omo’ã ha omomba’e ne mba’ekuarã.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Eñemboheraguapy ereko hag̃ua mba’ete pyahu eme’ẽ’ỹre ne ñanduti veve.
