@@ -15,7 +15,9 @@ privacy-passwords-tldr = 懶人包：
 privacy-passwords-use-random-passwords = 對不同的網站使用不同的隨機密碼
 privacy-passwords-pay-attention-to = 注意瀏覽器中的安全信號，保持戒心
 privacy-passwords-use-twofactor-authentication = 盡可能開啟「兩階段身分驗證」
+privacy-passwords-seeing-you-use = 當您在未加密網站登入時竊聽
 privacy-passwords-guessing-it = 被猜中
+privacy-passwords-stealing-a-file = 偷走記載了您的密碼的檔案
 privacy-passwords-using-password-recovery = 使用密碼救援功能重設
 privacy-passwords-tricking-you-into = 欺騙您主動交出
 privacy-passwords-look-for-the = 尋找瀏覽器中的鎖頭
@@ -25,4 +27,6 @@ privacy-passwords-strength-in-diversity = 有差異，更安全
 privacy-passwords-security-questions-my = 安全性確認問題：我媽媽的娘家姓氏是「Ff926AKa9j6Q」
 privacy-passwords-get-help-from = 使用密碼管理員協助管理
 privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = 舉例來說，您的 { -brand-name-firefox } 帳號可透過 2FA 再加上一道保護（<a { $url_sumo_2fa }>可在此了解更多資訊</a>。）
 privacy-passwords-strong-diverse-and = 更強、更有差異、多因素驗證
