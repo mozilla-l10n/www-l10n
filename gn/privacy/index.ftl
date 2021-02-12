@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Mba’ekuaarã ñemiguáva rehegua
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = Umi <a href="{ $principles }">Mba’ekuaarã ñemigua ñepyrũha</a> { -brand-name-mozilla } mba’éva omoañete ore rembiapo ha omo’ã ñanduti puruhárape. Eikuaa mba’éichapa ko’ã ñepyrũha ome’ẽ ysaja { -brand-name-firefox }-pe ha opavave ore apopyrépe ko’ápe <a href="{ $faq }">FAQ</a>.
 privacy-index-transparency-report = Marandupy tesakã rehegua
+privacy-index-get-involved = Eike pype
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Apopyrã ayvu ijurujávaramo, tekoresakã ha juruja ha’e umi tuicha mba’éva { -brand-name-mozilla } peg̃uarã. Ore rekoha ayvu ijuruja ha oñeha’ãkuaa. Ore rembiapo ñemboguatagua ijuruja opavavépe. Ore marandu tekoresakã rehegua <a href="{ $report }">mokõi jey arýpe</a> ohechauka avei ore rojapoha ko’ã mba’e.
