@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = { -brand-name-google-play } 스토어
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = { -brand-name-firefox }를 { -brand-name-linux } 앱으로 설치: 이 방법은 몇 단계가 더 필요하지만 그만한 가치가 있습니다. { -brand-name-firefox } 브라우저를 { -brand-name-linux } 앱으로 설치하면 향상된 추적 보호 기능과 내장된 비밀번호 관라자, 수천개의 추가 기능(UBlock Origin 광고 차단기 포함), 브라우저의 모양을 개인화 하는 테마를 포함한 모든 기능이 탑재된 { -brand-name-firefox } 데스크톱 브라우저를 사용하게 됩니다. <a { $url }>{ -brand-name-chromebook } 용 { -brand-name-firefox } 데스크톱 브라우저 설치에 대해 자세히 알아보세요</a>.
