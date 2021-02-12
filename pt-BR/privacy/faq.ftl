@@ -15,7 +15,7 @@ privacy-faq-at-mozilla-we-respect-and-protect = Na { -brand-name-mozilla } suas 
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Seguimos uma série de <a href="{ $link }">princípios de privacidade de dados</a> que moldam nossa abordagem de privacidade nos navegadores { -brand-name-firefox } de computador e dispositivos móveis.
 privacy-faq-we-only-collect-the-data-we = Coletamos somente os dados necessários para criar os melhores produtos.
-privacy-faq-we-put-people-in-control-of = Colocamos você no controle dos seus dados e experiências on-line.
+privacy-faq-we-put-people-in-control-of = Colocamos as pessoas no controle de seus dados e experiências online.
 privacy-faq-we-adhere-to-no-surprises-principle = Aderimos ao princípio de “sem surpresas”, isto é, trabalhamos duro para assegurar que o entendimento que as pessoas têm sobre o { -brand-name-firefox } esteja alinhado com a realidade.
 privacy-faq-the-following-questions-and = As seguintes perguntas e respostas devem ajudá-lo a entender o que esperar da { -brand-name-mozilla } e do { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Uso o { -brand-name-firefox } para quase tudo na web. Vocês da { -brand-name-mozilla } devem ter uma tonelada de informações sobre mim, não é?
@@ -30,6 +30,7 @@ privacy-faq-wait-so-how-do-you-make-money = Então, como vocês lucram?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = A { -brand-name-mozilla } não é uma organização tradicional. Fundada em 1998 como um projeto de código aberto da comunidade, a { -brand-name-mozilla } é uma organização guiada por uma missão e trabalha em prol de uma internet saudável. A maior parte da arrecadação da { -brand-name-mozilla-corporation } vem de pagamento de royalties pelas parcerias de pesquisa no navegador { -brand-name-firefox } e acordos de distribuição no mundo todo. Saiba mais sobre como recebemos dinheiro em nosso <a href="{ $link }">relatório financeiro anual</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Certo, as primeiras perguntas foram fáceis. Quais dados vocês coletam?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
