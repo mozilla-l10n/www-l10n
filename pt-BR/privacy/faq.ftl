@@ -60,7 +60,7 @@ privacy-faq-we-are-big-believers-of-data = Realmente acreditamos na minimizaçã
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 privacy-faq-you-dont-need-an-account-to = Você não precisa de uma conta para usar o { -brand-name-firefox }. <a href="{ $accounts }">Contas</a> são necessárias para sincronizar dados entre dispositivos, mas só lhe pedimos um endereço de email. Não queremos saber coisas como seu nome, endereço, data de nascimento ou número de telefone.
-privacy-faq-you-use-digital-advertising = Vocês usam publicidade digital como parte de sua combinação de atividades de marketing. Vocês compram os dados das pessoas para melhor direcionar seus anúncios on-line?
+privacy-faq-you-use-digital-advertising = Vocês usam publicidade digital como parte de sua combinação de atividades de marketing. Vocês compram os dados das pessoas para melhor direcionar seus anúncios online?
 privacy-faq-no-we-do-not-buy-peoples-data = Não compramos os dados das pessoas visando a propaganda.
 privacy-faq-we-do-ask-our-advertising-partners = Pedimos aos nossos parceiros de publicidade para usarem somente dados próprios que sites e anunciantes coletam de todos os usuários, como o navegador e dispositivo que você usa.
 privacy-faq-well-it-seems-like-you-really = Parece que realmente protegem minha privacidade.
