@@ -7,12 +7,16 @@
 
 legal-legal = Legal
 legal-get-involved = Collabora
+legal-protect-the-fox = Proteger le vulpe
 legal-takedown-requests = Requestas de remotion
 legal-back-to-legal = Volver a Legal
 legal-terms = Terminos
 legal-our-websites = Nostre sitos web
 legal-firefox-services = Servicios de { -brand-name-firefox }
 legal-webmaker = { -brand-name-webmaker }
+legal-privacy-trademarks = Confidentialitate e marcas commercial
+legal-privacy-notices-and-policy = Avisos e politica de confidentialitate
+legal-downloadable-software-notices = Avisos de software discargabile
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: re tu derectos
 legal-thunderbird = { -brand-name-thunderbird }
