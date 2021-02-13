@@ -20,7 +20,7 @@ new-platform-advanced-install-options = Opções avançadas de instalação e ou
 new-platform-download-in-another = Baixar em outro idioma
 new-platform-fix-a-problem = Corrigir um problema
 new-platform-need-help = Precisa de ajuda?
-new-platform-download-mozilla-firefox-title = Baixe o { -brand-name-mozilla } { -brand-name-firefox }, um navegador Web gratuito. O { -brand-name-firefox } é criado por uma comunidade global sem fins lucrativos dedicada a colocar indivíduos no controle on-line. Obtenha o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios } hoje!
+new-platform-download-mozilla-firefox-title = Baixe o { -brand-name-mozilla } { -brand-name-firefox }, um navegador web gratuito. O { -brand-name-firefox } é criado por uma entidade global sem fins lucrativos, dedicada a colocar os indivíduos no controle online. Instale hoje o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Baixe o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ HTML page description
