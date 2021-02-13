@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Απόρρητο { -brand-name-mozilla }
@@ -12,12 +12,16 @@ privacy-index-if-you-want-to-make-a-correction = Αν θέλετε να υποβ
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Δείτε εδώ για αιτήματα πρόσβασης θέματος δεδομένων.</a>
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = Για αιτήματα υποστήριξης προϊόντων, παρακαλούμε <a href="{ $sumo }">επισκεφθείτε το φόρουμ μας</a>.
 privacy-index-data-privacy-principles = Αρχές Προστασίας Δεδομένων
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = Οι <a href="{ $principles }">αρχές απορρήτου δεδομένων</a> της { -brand-name-mozilla } εμπνέουν τις πρακτικές μας, που σέβονται και προστατεύουν τους χρήστες του διαδικτύου. Μάθετε πώς οι αρχές αυτές διαμορφώνουν το { -brand-name-firefox } και όλα τα προϊόντα μας στις <a href="{ $faq }">συχνές ερωτήσεις</a>.
 privacy-index-transparency-report = Αναφορά διαφάνειας
+privacy-index-get-involved = Συμμετοχή
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Ως έργο ανοικτού κώδικα, η διαφάνεια και η προσβασιμότητα είναι θεμελιώδεις αρχές της { -brand-name-mozilla }. Οι βάσεις κώδικά μας είναι ανοικτές και ελέγξιμες. Η προγραμματιστική μας εργασία είναι ανοικτή. Η εξαμηνιαία μας <a href="{ $report }">αναφορά διαφάνειας</a> προβάλει την αφοσίωσή μας σε αυτές τις αρχές.
@@ -28,5 +32,14 @@ privacy-index-to-review-and-comment-on-proposed = Για να αξιολογήσ
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Μάθετε περισσότερα σχετικά με την εξελισσόμενη εργασία μας στη δημόσια πολιτική απορρήτου και ασφάλειας στο <a href="{ $blog }">Open Policy and Advocacy Blog της { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Παρωχημένες Πολιτικές
-privacy-index-mozilla-websites-communications = Ιστοσελίδες { -brand-name-mozilla }, Επικοινωνίες &amp; Cookies
+privacy-index-mozilla-websites-communications = Ιστοσελίδες { -brand-name-mozilla }, επικοινωνίες & cookies
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } για { -brand-name-fire-tv }

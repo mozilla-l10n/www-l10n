@@ -28,4 +28,4 @@ home-personalize-firefox-with-your = Εξατομικεύστε το { -brand-na
 home-careers = Καριέρες
 home-learn-about-the-benefits-of = Μάθετε σχετικά με τα οφέλη της εργασίας στη { -brand-name-mozilla } και δείτε τις διαθέσιμες θέσεις σε όλο τον κόσμο.
 home-need-help = Χρειάζεστε βοήθεια;
-home-get-answers-to-your-questions = Η ομάδα υποστήριξής μας θα απαντήσει σε κάθε απορία σας σχετικά με όλα τα προϊόντα { -brand-name-mozilla }.
+home-get-answers-to-your-questions = Λάβετε απαντήσεις σχετικά με το { -brand-name-firefox } και όλα τα προϊόντα { -brand-name-mozilla } από την ομάδα υποστήριξής μας.
