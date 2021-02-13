@@ -5,6 +5,7 @@
 navigation-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 navigation-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ
 navigation-firefox-browser-for-desktop = ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox-browser }
+navigation-get-the-browser-that-respects = ਉਹ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦਾ ਮਾਣ ਰੱਖੇ। { -brand-name-windows }, { -brand-name-mac } ਜਾਂ { -brand-name-linux } ਲਈ।
 navigation-firefox-browser-for-mobile = ਮੋਬਾਈਲ ਲਈ { -brand-name-firefox-browser }
 navigation-take-speed-privacy-and = ਗਤੀ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਮਨ ਦੀ ਸਕੂਨ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। { -brand-name-android } ਅਤੇ { -brand-name-ios } ਨਾਲ।
 navigation-download-for-ios = { -brand-name-ios } ਲਈ ਡਾਉਨਲੋਡ ਕਰੋ
@@ -28,6 +29,7 @@ navigation-learn-how-firefox-treats = ਸਿੱਖੋ ਕਿ { -brand-name-firef
 navigation-mozilla-careers = { -brand-name-mozilla } ਕੈਰੀਅਰ
 navigation-approach-your-career = ਆਪਣੇ ਕੈਰੀਅਰ ਨੂੰ ਕਿਸੇ ਮਕਸਦ ਨਾਲ ਪਹੁੰਚ ਕਰੋ। { -brand-name-mozilla } ਵਿੱਚ ਵਧੀਆ ਕੰਮ ਬਾਰੇ ਜਾਣੋ।
 navigation-close-firefox-menu = { -brand-name-firefox } ਮੇਨੂ ਬੰਦ ਕਰੋ
+navigation-get-the-browser-that-gives = ਉਹ ਬਰਾਊਜ਼ੜ ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ { -brand-name-windows }, { -brand-name-mac } ਜਾਂ { -brand-name-linux } ਲਈ ਮਜ਼ਬੂਤ ਬਣਾਓ।
 navigation-take-firefox-and-firefox = { -brand-name-firefox } ਅਤੇ { -brand-name-firefox-focus } ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ।
 navigation-get-firefox = { -brand-name-firefox } ਲਵੋ
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ਫੋਕਸ ਲਵੋ
