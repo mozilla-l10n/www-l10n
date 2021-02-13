@@ -5,25 +5,25 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
-history-history-of-the-mozilla-project = ਮੋਜ਼ੀਲਾ ਪ੍ਰੋਜੈਕਟ ਦਾ ਇਤਿਹਾਸ
+history-history-of-the-mozilla-project = { -brand-name-mozilla } ਪਰੋਜੈਕਟ ਦਾ ਇਤਿਹਾਸ
 # Variables:
 #   $coderush (url) - link to https://air.mozilla.org/code-rush/
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
-history-the-mozilla-project-was = ਮੋਜ਼ੀਲਾ ਪ੍ਰੋਜੈਕਟ <a href="{ $coderush }"> 1998 ਵਿੱਚ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਸੀ </a> <a href="{ $sourcerelease }"> ਨੈੱਟਸਕੇਪ ਬਰਾਊਜ਼ਰ ਸੂਟ ਸੋਰਸ ਕੋਡ ਨੂੰ ਜਾਰੀ ਕਰਨ </a>।
+history-the-mozilla-project-was = { -brand-name-mozilla } ਪਰੋਜੈਕਟ <a href="{ $coderush }"> 1998 ਵਿੱਚ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਸੀ </a> <a href="{ $sourcerelease }"> { -brand-name-netscape } ਬਰਾਊਜ਼ਰ ਸੂਟ ਸੋਰਸ ਕੋਡ ਨੂੰ ਜਾਰੀ ਕਰਨ </a>।
 history-it-was-intended-to-harness = ਇਸ ਦਾ ਉਦੇਸ਼ ਇੰਟਰਨੈਟ ਤੇ ਹਜ਼ਾਰਾਂ ਪ੍ਰੋਗਰਾਮਰਸ ਦੀ ਰਚਨਾਤਮਕ ਸ਼ਕਤੀ ਨੂੰ ਵਰਤਣਾ ਅਤੇ ਬ੍ਰਾਉਜ਼ਰ ਮਾਰਕੀਟ ਵਿਚ ਬੇਮਿਸਾਲ ਪੱਧਰ ਦੇ ਨਵੀਨਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਸੀ।
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
 history-within-the-first-year-new = <a href="{ $firstyear }"> ਪਹਿਲੇ ਸਾਲ </a> ਦੇ ਅੰਦਰ, ਸੰਸਾਰ ਭਰ ਦੇ ਨਵੇਂ ਕਮਿਊਨਿਟੀ ਦੇ ਮੈਂਬਰਾਂ ਨੇ ਪਹਿਲਾਂ ਹੀ ਨਵੀਂ ਕਾਰਜਸ਼ੀਲਤਾ, ਵਧੀ ਹੋਈ ਮੌਜੂਦਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦਾ ਯੋਗਦਾਨ ਪਾਇਆ ਹੈ ਅਤੇ ਪ੍ਰੋਜੈਕਟ ਖੁਦ ਦੇ ਪ੍ਰਬੰਧਨ ਅਤੇ ਯੋਜਨਾਬੰਦੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਇਆ ਹੈ।
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
-history-by-creating-an-open-community = ਇੱਕ ਓਪਨ ਕਮਿਊਨਿਟੀ ਬਣਾ ਕੇ, ਮੋਜ਼ੀਲਾ ਪ੍ਰੋਜੈਕਟ <a href="{ $stevecase }"> ਕਿਸੇ ਇੱਕ ਕੰਪਨੀ ਤੋਂ ਵੱਡਾ </a> ਹੋ ਗਿਆ ਹੈ।
+history-by-creating-an-open-community = ਇੱਕ ਓਪਨ ਕਮਿਊਨਿਟੀ ਬਣਾ ਕੇ, { -brand-name-mozilla } ਪਰੋਜੈਕਟ <a href="{ $stevecase }"> ਕਿਸੇ ਇੱਕ ਕੰਪਨੀ ਤੋਂ ਵੱਡਾ </a> ਹੋ ਗਿਆ ਹੈ।
 # Variables:
 #   $mission (url) link to https://www-archive.mozilla.org/mission.html
 #   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
-history-community-members-got-involved = ਕਮਿਊਨਿਟੀ ਦੇ ਮੈਂਬਰਾਂ ਨੇ ਹਿੱਸਾ ਲਿਆ ਅਤੇ ਪ੍ਰੋਜੈਕਟ ਦੇ <a href="{ $mission }">ਮੂਲ ਮਿਸ਼ਨ</a> ਦੇ ਸਕੋਪ ਨੂੰ ਵਧਾ ਦਿੱਤਾ — ਕੇਵਲ ਨੈੱਟਸਕੇਪ ਦੇ ਅਗਲੇ ਬਰਾਉਜ਼ਰ ‘ਤੇ ਕੰਮ ਕਰਨ ਦੀ ਬਜਾਏ, ਲੋਕਾਂ ਨੇ <a href="{ $browsers }">ਬਰਾਉਜ਼ਰ ਦੀ ਇੱਕ ਕਿਸਮ ਦੇ </a>, <a href="{ $bugzilla }">ਵਿਕਾਸ ਸੰਦ</a> ਅਤੇ ਹੋਰ <a href="{ $projects }">ਪ੍ਰੋਜੈਕਟਾਂ</a>।
-history-people-contributed-to-mozilla = ਲੋਕਾਂ ਨੇ ਮੋਜ਼ੀਲਾ ਨੂੰ ਵੱਖ-ਵੱਖ ਤਰੀਕਿਆਂ ਨਾਲ ਯੋਗਦਾਨ ਦਿੱਤਾ, ਪਰ ਹਰ ਕੋਈ ਮੁਫਤ ਸਾਫਟਵੇਅਰ ਤਿਆਰ ਕਰਨ ਲਈ ਉਤਸੁਕ ਸੀ ਜੋ ਲੋਕਾਂ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦਾ ਅਨੁਭਵ ਕਰਨ ਵਿੱਚ ਇੱਕ ਚੋਣ ਕਰਨ ਵਿੱਚ ਯੋਗ ਬਣਾਉਂਦਾ ਸੀ।
+history-community-members-got-involved = ਕਮਿਊਨਿਟੀ ਦੇ ਮੈਂਬਰਾਂ ਨੇ ਹਿੱਸਾ ਲਿਆ ਅਤੇ ਪਰੋਜੈਕਟ ਦੇ <a href="{ $mission }">ਮੂਲ ਮਿਸ਼ਨ</a> ਦੇ ਸਕੋਪ ਨੂੰ ਵਧਾ ਦਿੱਤਾ — ਕੇਵਲ { -brand-name-netscape } ਦੇ ਅਗਲੇ ਬਰਾਉਜ਼ਰ ‘ਤੇ ਕੰਮ ਕਰਨ ਦੀ ਬਜਾਏ, ਲੋਕਾਂ ਨੇ <a href="{ $browsers }">ਬਰਾਉਜ਼ਰ ਦੀ ਇੱਕ ਕਿਸਮ ਦੇ </a>, <a href="{ $bugzilla }">ਵਿਕਾਸ ਸੰਦ</a> ਅਤੇ ਹੋਰ <a href="{ $projects }">ਪਰੋਜੈਕਟਾਂ</a>।
+history-people-contributed-to-mozilla = ਲੋਕਾਂ ਨੇ { -brand-name-mozilla } ਨੂੰ ਵੱਖ-ਵੱਖ ਤਰੀਕਿਆਂ ਨਾਲ ਯੋਗਦਾਨ ਦਿੱਤਾ, ਪਰ ਹਰ ਕੋਈ ਮੁਫਤ ਸਾਫਟਵੇਅਰ ਤਿਆਰ ਕਰਨ ਲਈ ਉਤਸੁਕ ਸੀ ਜੋ ਲੋਕਾਂ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦਾ ਅਨੁਭਵ ਕਰਨ ਵਿੱਚ ਇੱਕ ਚੋਣ ਕਰਨ ਵਿੱਚ ਯੋਗ ਬਣਾਉਂਦਾ ਸੀ।
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = ਕਈ ਸਾਲਾਂ ਦੇ ਵਿਕਾਸ ਤੋਂ ਬਾਅਦ, ਪਹਿਲੇ ਯਤਨਾਂ ਵਿੱਚ <a href="{ $mozilla1 }"> ਮੋਜ਼ੀਲਾ 1.0 </a>, 2002 ਵਿੱਚ ਰਿਲੀਜ਼ ਕੀਤਾ ਗਿਆ ਸੀ। ਇਸ ਸੰਸਕਰਣ ਵਿੱਚ ਬ੍ਰਾਉਜ਼ਰ, ਈਮੇਲ ਕਲਾਇੰਟ ਅਤੇ ਹੋਰ ਉਪਯੋਗਤਾਵਾਂ ਵਿੱਚ ਕਈ ਸੁਧਾਰ ਸ਼ਾਮਿਲ ਹਨ ਸੂਟ ਵਿੱਚ, ਪਰ ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਇਸਨੂੰ ਵਰਤ ਰਹੇ ਸਨ ਨਹੀਂ।
