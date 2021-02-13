@@ -57,12 +57,15 @@ does-firefox-sell = An { -brand-name-firefox } vende tu datos personal?
 
 nope-never-have = No. Nunquam facite, nunquam facera. E nos te protege de multes del annunciatores que lo face. Le productos de { -brand-name-firefox } es concipite pro proteger tu vita private. <a href="{ $url }"> Es un promissa.</a>
 why-is-firefox = Perque { -brand-name-firefox } es assi lente?
+firefox-isnt-slow = { -brand-name-firefox } non es lente… ora. In 2017, nos completemente reedificava nostre motor de navigator (appellate Quantum), pro que { -brand-name-firefox } poterea concurrer con altere major navigatores. E nostre blocatores de traciator adjuta paginas cargar mesmo plus velocemente. Assi { -brand-name-firefox } es ultra veloce sin sacrificar alco de tu confidentialitate.
 is-firefox-chromium = An { -brand-name-firefox } es basate sur{ -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } non basate super { -brand-name-chromium } (le projecto de navigator open-source al nucleo de { -brand-name-google } { -brand-name-chrome }). De facto, nos es un del ultime major navigatores que non lo es. { -brand-name-firefox } flue sur nostre motor de navigator Quantum construite specificamente pro { -brand-name-firefox }, assi nos pote assecura te que tu datos es tractate respectuosemente e retenite private.
 does-firefox-use = An { -brand-name-firefox } usa { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } es le motor de recerca predefinite in { -brand-name-firefox }, isto significa que tu pote cercar le Web directemente del barra de adresse. <a href="{ $url }">Saper plus re preferentias del motor de recerca e cambiar le valores predefinite.</a>
 does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
 
 # Variables:
@@ -77,3 +80,5 @@ who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } es producite per { -brand-name-mozilla-corporation }, un succursal integremente proprietari del organisation non lucrative <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> e es guidate per le principios del Manifesto de { -brand-name-mozilla }. Saper plus del productor de { -brand-name-firefox } <a href="{ $url2 }">hic.</a>
+related-questions-who = Questiones correlate: qui possede { -brand-name-firefox }, qui es proprietario de { -brand-name-firefox-browser }, es { -brand-name-firefox } proprietate de { -brand-name-google }, es { -brand-name-mozilla } { -brand-name-firefox } proprietate de { -brand-name-google }

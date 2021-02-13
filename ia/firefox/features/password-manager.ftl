@@ -14,6 +14,10 @@ password-manager-password-manager = Memorisar le contrasigno? Problema resolvite
 password-manager-give-up-the-memory = Libere del jocos de memoria con le Gestor de contrasignos de { -brand-name-firefox }.
 password-manager-password-hero = Le heroe del contrasignos
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Oblida le reinitialisar. { -brand-name-firefox } Gestor de contrasignos mantene tote tu contrasignos de sorta que tu pote aperir session automaticamente, o trovar contrasignos salvate facilemente. Pro super securitate, da a tu computator un <a href="{ $url }">contrasigno primari</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Oblida le restabilir. Le Gestor de contrasigno de { -brand-name-firefox } mantene tote tu contrasignos assi tu pote authenticar te automaticamente, o trovar facilemente le contrasignos salvate. Pro super securitate, da a tu computator un <a href="{ $url }">contrasigno maestro</a>.
 password-manager-password-magician = Contrasigno magic
@@ -26,7 +30,7 @@ password-manager-password-champion = Contrasigno defendente
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Gania tu medalia auree de securitate con le vaste serie de <a href="{ $additivos }">additivos</a> gestores de contrasignos de { -brand-name-firefox }. Elige un favorite existente o trova un de nivello proxime per le valutationes e revisiones de communitate experte.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Contrasigno maestro
 # Obsolete string
 # Variables:
