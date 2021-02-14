@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Спремате се да преузм�
 firefox-all-browser = Прегледач:
 firefox-all-platform = Платформа:
 firefox-all-language = Језик:
+firefox-all-lang-multi = Више језика
 firefox-all-sorry-we-couldnt-find = Нажалост, нисмо могли наћи преузимање које тражите. Покушајте поново или изаберите преузимање са листе испод.
 firefox-all-the-pre-alpha-version = Пре-алфа верзија за напредне кориснике који воле ловити грешке и тестирати нове функције током развоја.
 firefox-all-64-bit-installers = 64-битна инсталација
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Можете да рачунате на с�
 firefox-all-windows-installers-for = Windows инсталациони програми за корпоративна IT одељења који поједностављују конфигурацију, употребу и управљање { -brand-name-firefox-browser } прегледачем.
 firefox-all-arm64-installers = ARM64/AArch64 инсталације
 firefox-all-arm64-installers-optimized = ARM64/AArch64 инсталације су оптимизоване за Snapdragon { -brand-name-windows } рачунаре.
+firefox-all-product-send-link = Пошаљите везу за преузимање на телефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Изаберите 32-битни инсталациони програм за рачунаре с 32-битним процесорима — или за старије или слабије рачунаре. <a href="{ $url }">Ако нисте сигурни</a> да ли да изаберете 64-битну и 32-битну, препоручујемо да ипак преузмете 32-битну инсталацију.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

@@ -31,11 +31,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Да
 firefox-desktop-download-no = Не
 firefox-desktop-download-blocks-third-party = Блокира колачиће трећих страна
+firefox-desktop-download-blocks-third-party-default = Подразумевано блокира колачиће трећих страна
 firefox-desktop-download-autoplay-blocking = Блоирање аутоматксе репродукције
 firefox-desktop-download-blocks-social-trackers = Блокира праћење друштвених мрежа
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Доступност на оперативним системима
 firefox-desktop-download-in-browser-screenshot = Уграђени алат за снимање странице
+firefox-desktop-download-primary-password = Главна лозинка
+# Obsolete string
 firefox-desktop-download-master-password = Главна лозинка
 firefox-desktop-download-we-block-the-ad = Ми блокирамо огласе који вас прате. Ви брже прегледате интернет.
 firefox-desktop-download-ads-are-distracting = Огласи ометају и успоравају учитавање веб страница, док њихови пратиоци бележе сваки покрет који направите на интернету. { -brand-name-firefox-browser } блокира већину пратилаца аутоматски, тако да не морате да проучавате безбедносна подешавања.
@@ -155,6 +158,8 @@ firefox-desktop-download-now-mac = Сада <strong>отворите</strong> д
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Имате проблема? <a { $attrs }>Нађите помоћ за вашу инсталацију</a>.
 firefox-desktop-download-in-another-language = Преузмите на другом језику или за други оперативни систем.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Користите несигурни, застарели оперативни систем који <a href="{ $url }">више не подржава { -brand-name-firefox }</a>.
