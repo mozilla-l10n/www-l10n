@@ -9,6 +9,7 @@
 whatsnew81-page-title = Шта је ново у { -brand-name-firefox }-у
 # Main title
 whatsnew81-main-title = Нови { -brand-name-firefox } са сваки уређај
+whatsnew81-main-intro = Који год оперативни систем да користите, за њега постоји бољи мобилни прегледач, направљен од непрофитне организације.
 whatsnew81-send-form-label = Унесите вашу адресу е-поште за везу за преузимање
 whatsnew81-scan-this-qr-code = Скенирајте овај QR код да преузмете
 # content blocks below hero
