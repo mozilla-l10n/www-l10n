@@ -159,6 +159,10 @@ firefox-desktop-download-now-mac = Сада <strong>отворите</strong> д
 firefox-desktop-download-get-help = Имате проблема? <a { $attrs }>Нађите помоћ за вашу инсталацију</a>.
 firefox-desktop-download-in-another-language = Преузмите на другом језику или за други оперативни систем.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = Посетите подршку за више детаља
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">више не пружа безбедносне исправке</a> за { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }-у, али и даље можете да користите { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -168,3 +172,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Користите �
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ваше преузимање треба да почне аутоматски. Није успело? <a id="{ $id }" href="{ $fallback_url }">Покушајте поново преузети.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } је више од прегледача.
+firefox-desktop-download-interrupted = Ваше преузимање је прекинуто. Али није све изгубљено.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Пратите <a href="{ $url }">ова упутства</a> да инсталирате { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Ваш систем можда не испуњава захтеве за { -brand-name-firefox }, али можете испробати једну од <a href="{ $url }">ових верзија</a>.

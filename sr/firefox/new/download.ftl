@@ -44,6 +44,10 @@ firefox-new-just-download-the-browser = Само преузмите прегле
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">више не пружа безбедноснсе исправке</a> за { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }-у, али и даље можете да користите { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Користите несигуран, застарели оперативни систем <a href="{ $url }">који више не подржава { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -54,3 +58,11 @@ firefox-new-its-privacy-and-peace-of = То је <strong>приватност и
 firefox-new-its-a-family-of-products = То је <strong>породица производа</strong> која поштује ваше личне податке.
 firefox-new-its-everything-you-need-to = То је све што треба да знате да бисте <strong>остали безбедни на мрежи</strong>.
 firefox-new-its-a-community-that-believes = То је <strong>заједница</strong> која верује да технологија може боље.
+firefox-new-download-interrupted = Ваше преузимање је прекинуто. Али није све изгубљено.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Пратите <a href="{ $url }">ова упутства</a> да инсталирате { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Ваш систем можда не испуњава захтеве за { -brand-name-firefox }, али можете испробати једну од <a href="{ $url }">ових верзија</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10

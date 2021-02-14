@@ -6,6 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+firefox-sticky-promo-get-the-latest-firefox = Преузмите најновији { -brand-name-firefox } прегледач.
+# Products List
+firefox-sticky-promo-browsers = Прегледачи
 firefox-sticky-promo-monitor = { -brand-name-monitor }
 firefox-sticky-promo-lockwise = { -brand-name-lockwise }
 firefox-sticky-promo-pocket = { -brand-name-pocket }
