@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title = Будућност се одређује на мрежи. Помозите { -brand-name-mozilla }-и у борби за интернет за све нас.
+banner-fundraising-title = Будућност се одређује на мрежи. Помозите { -brand-name-mozilla }-и у борби за интернет за све.
