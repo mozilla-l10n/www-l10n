@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-accounts-there-is-a-way-to = Ekzistas maniero protekti vian privatecon. Aliĝu al { -brand-name-firefox }.
+# Old HTML page title
+firefox-accounts-get-a-firefox-account = Kreu { -brand-name-firefox-account } – Tenu viajn datumojn privataj, sekuraj kaj spegulitaj
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

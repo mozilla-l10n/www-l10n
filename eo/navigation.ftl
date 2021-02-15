@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navigation-projects = Projektoj
+navigation-close-projects-menu = Fermi la menuon Projektoj
+navigation-donate-your-voice-to = Donacu vian voĉon kaj helpu malfermi parolrekonon por ĉiuj.
+navigation-donate = Donaci
 navigation-release-notes = Notoj pri liverado
 navigation-features = Trajtoj
 navigation-products = Produktoj
