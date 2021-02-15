@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = Fremtiden besluttes online. Hjælp { -brand-name-mozilla } med at kæmpe for et internet, der kommer alle til gode.
+banner-fundraising-body = Dine personlige data bliver registreret, hver gang du går på nettet. Det er ikke nemt at finde ud af, hvad disse data bliver brugt til. Misinformation gør det sværere for os at se forskel på sandt og falsk. Internetopkoblede produkter sendes på markedet uden at opfylde minimumskravene til datasikkerhed. Non-profit organisationen { -brand-name-mozilla-foundation } arbejder med at skabe et åbent og sikkert internet, der er tilgængeligt for alle. <strong>Vil du støtte vores arbejde?</strong>
 banner-fundraising-monthly = Månedligt
 banner-fundraising-one-time = Én gang
 banner-fundraising-donate = Donér
