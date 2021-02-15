@@ -14,6 +14,8 @@ firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Izberite brskalnik, ki ščiti pomembne stvari
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Brez dvoumnih politik zasebnosti ali oglaševalcev za vašim hrbtom. Le bliskovito hiter brskalnik, ki ne kuje dobička na vaš račun.
 firefox-desktop-download-download-options = Možnosti prenosa in drugi jeziki
 firefox-desktop-download-browser-support = Podpora za { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -49,6 +51,8 @@ firefox-desktop-download-search-smarter = Iščite pametneje in hitreje
 firefox-desktop-download-search-from-address = Iskanje v naslovni vrstici
 firefox-desktop-download-search-engine-options = Možnosti iskalnika
 firefox-desktop-download-smart-search-suggestions = Pametni predlogi iskanja
+firefox-desktop-download-bookmark-history = Zadetki vključujejo zaznamke, zgodovino in odprte zavihke
+firefox-desktop-download-boost-your = Povečajte svojo storilnost
 firefox-desktop-download-works-with-google = Deluje z izdelki { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Vgrajeno orodje za posnetke zaslona
 firefox-desktop-download-bookmarks-manager = Upravitelj zaznamkov
@@ -57,6 +61,9 @@ firefox-desktop-download-sync-across-devices = Sinhronizacija med napravami
 firefox-desktop-download-reader-mode = Bralni način
 firefox-desktop-download-spell-check = Preverjanje črkovanja
 firefox-desktop-download-pinned-tabs = Pripeti zavihki
+firefox-desktop-download-stream-share-play = Pretakajte, delite, igrajte
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Onemogočeno samodejno predvajanje videa in zvoka
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Slika v sliki
 firefox-desktop-download-share-links = Deljenje povezav
@@ -69,6 +76,7 @@ firefox-desktop-download-individual-protections-report = Poročila posameznih za
 firefox-desktop-download-secure-your-personal = Zaščitite svoje osebne podatke
 firefox-desktop-download-breached-website-alerts = Opozorila o ogroženih spletnih straneh
 firefox-desktop-download-built-in-password = Vgrajen upravitelj gesel
+firefox-desktop-download-clear-history = Brisanje zgodovine
 firefox-desktop-download-form-autofill = Samodejno izpolnjevanje obrazcev
 firefox-desktop-download-automatic-updates = Samodejne posodobitve
 firefox-desktop-download-customize-your-browser = Prilagodite si brskalnik
@@ -76,9 +84,12 @@ firefox-desktop-download-themes = Teme
 firefox-desktop-download-dark-mode = Temni način
 firefox-desktop-download-library-of-extensions = Knjižnica razširitev
 firefox-desktop-download-change-new-tab = Spremeni postavitev na novem zavihku
-firefox-desktop-download-make-firefox-your = Prisvojite si <strong>{ -brand-name-firefox }</strong>
+firefox-desktop-download-make-firefox-your = Prikrojite si <strong>{ -brand-name-firefox }</strong> po svoji meri
 firefox-desktop-download-extensions-for-every = Razširitve za vsak okus
+firefox-desktop-download-change-up-your = Spremenite videz
 firefox-desktop-download-your-privacy-comes = Vaša zasebnost je na prvem mestu
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Vsa vaša priljubljena orodja { -brand-name-google }, kot so Gmail in Dokumenti, delujejo brezhibno v { -brand-name-firefox-browser(sklon: "mestnik") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -90,6 +101,10 @@ firefox-desktop-download-enhanced-tracking-protection = Izboljšana zaščita pr
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od varnosti do novic in iger – za vsakogar se najde <a { $attrs }>razširitev</a>. Dodajte jih, kolikor želite, dokler ni brskalnik ravno pravšnji.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Imate vprašanja? Obiščite <a { $attrs }>Podporo { -brand-name-mozilla }</a>.

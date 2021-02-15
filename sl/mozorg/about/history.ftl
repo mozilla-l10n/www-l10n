@@ -44,6 +44,10 @@ history-the-community-has-shown = Skupnost je dokazala, da imajo komercialna pod
 history-the-future-is-full-of-challenges = Prihodnost je polna izzivov in priložnosti, enakih tistim iz naše preteklosti.
 history-theres-no-guarantee-that = Nobenega zagotovila ni, da bo internet ostal odprt in prijazen in varen.
 history-of-course-were-not-alone = Seveda pri tem nismo sami.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Če se nam želite pridružiti pri našem poslanstvu, se <a href="{ $contribute }">vključite</a>.
+history-for-more-information-about = Več o zgodovini { -brand-name-mozilla(sklon: "rodilnik") } lahko preberete na naslednjih povezavah:
 history-timeline-of-mozilla-project = Časovnica projekta { -brand-name-mozilla }
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
