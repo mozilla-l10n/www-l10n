@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet pa la xente, non pal porgüeyu
-home-did-you-know-mozilla-the-maker = ¿Sabíes que { -brand-name-mozilla }, la creadora de { -brand-name-firefox }, llucha pa caltener la web como un recursu global, públicu, abiertu y accesible pa toos?
+home-did-you-know-mozilla-the-maker = ¿Sabíes que { -brand-name-mozilla }, la creadora de { -brand-name-firefox }, llucha pa caltener la web como un recursu global, públicu, abiertu y accesible pa tol mundu?
 home-fast-for-good = Rápidu pa bien.
 home-with-2x-the-speed-built-in = Con 2 vegaes más de velocidá, proteición integrada pa la privacidá y { -brand-name-mozilla } darrera d'ello, el { -brand-name-firefox } nuevu ye'l meyor mou pa restolar.
 home-we-make-the-internet-safer = Facemos internet más seguro, sano y rápido pa bien.
