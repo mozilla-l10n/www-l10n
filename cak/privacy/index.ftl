@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } Ichinanem
@@ -26,7 +26,7 @@ privacy-index-as-an-open-source-project = Achi'el ajjaqäl b'itz'ib' nimasamaj, 
 privacy-index-to-review-and-comment-on-proposed = Richin yenik'öx chuqa' nitzijöx kij ri taq jaloj nik'ut pa runa'ojil qichinanem, <a href="{ $group }"> tatz'ib'aj ab'i' pa ri Chanpomanel qamoloj richin { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = Tisik'ïx ch'aqa' chik chi rij ri ichinanem chuqa' jikomal aj winäq na'ojil pa <a href="{ $blog }">Jaqäl Na'ojil chuqa' To'ïk Ichinya'l</a>.
+privacy-index-read-more-about-our-ongoing = Tasik'ij ch'aqa' chik chi rij ri qichinanem chuqa' qajikomal pa <a href="{ $blog }">{ -brand-name-mozilla } Jaqäl Na'ojil chuqa' To'ïk Ichinya'l</a>.
 privacy-index-outdated-policies = Ojer taq Na'ojil
-privacy-index-mozilla-websites-communications = Ajk'amaya'l Ruxaq, Taq Rutzijob'al &amp; taq Rukaxlanway { -brand-name-mozilla }
+privacy-index-mozilla-websites-communications = Rajk'amaya'l, Rutzijob'al & Rucookies { -brand-name-mozilla }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } richin { -brand-name-fire-tv }
