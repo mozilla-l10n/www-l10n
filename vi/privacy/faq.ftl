@@ -27,6 +27,10 @@ privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } không biết 
 privacy-faq-it-seems-like-every-company = Tất cả các công ty trên web dường như mua và bán thông tin của tôi. Có lẽ bạn sẽ không khác biệt.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } không bán dữ liệu về bạn và chúng tôi không mua dữ liệu về bạn.
 privacy-faq-wait-so-how-do-you-make-money = Chờ đã, vậy làm thế nào để bạn kiếm tiền?
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } không phải là tổ chức trung bình của bạn. Được thành lập như một dự án nguồn mở cộng đồng vào năm 1998, { -brand-name-mozilla } là một tổ chức hoạt động theo sứ mệnh hướng tới một mạng internet lành mạnh hơn. Đa số doanh thu của { -brand-name-mozilla-corporation } là từ tiền bản quyền kiếm được thông qua quan hệ đối tác của công cụ tìm kiếm trình duyệt { -brand-name-firefox } và các giao dịch phân phối trên khắp thế giới. Bạn có thể tìm hiểu thêm về cách chúng tôi kiếm tiền trong <a href="{ $link }">báo cáo tài chính hàng năm</a> của chúng tôi.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Tôi hiểu. Một số câu hỏi cho đến nay là tầm thường, nhưng bạn đang thu thập loại dữ liệu nào?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
