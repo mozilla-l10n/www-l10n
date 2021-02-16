@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = Ri { -brand-name-mozilla } man yeru
 privacy-faq-wait-so-how-do-you-make-money = Tawoyob'ej, ¿Achike rub'eyal numöl rupwaq?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = Man relik ta chi moloj ri { -brand-name-mozilla }. Xtz'uk achi'el jun runimasamaj tinamital richin rutinamital jaqäl b'itz'ib' pa 1998, { -brand-name-mozilla } jun moloj b'inisan ruma jun taqel taqanem, ri nisamäj ruma jun raxinäq K'amaya'l. Ri rupwaq ri { -brand-name-mozilla } Nimamoloj petenäq chi kij ri taq kochinïk ch'akon pa tunuj samaj kik'in kanob'äl e'okisan ruma ri { -brand-name-firefox } chuqa' kijunamil talunem chi jun ri ruwach'ulew. Yatikïr nawetamaj ch'aqa' chik pa ruwi' rub'eyal niqak'ül pwäq pa ri <a href="{ $link }">Rutzijol Ajpwaq chijun Juna'</a>.
+privacy-faq-mozilla-is-not-your-average = Man xab'achike ta chi moloj ri { -brand-name-mozilla }. Xtz'uk achi'el jun runimasamaj tinamital richin rutinamital jaqäl b'itz'ib' pa 1998, { -brand-name-mozilla } jun moloj b'inisan ruma jun taqel taqanem, ri nusamajij jun raxinäq K'amaya'l. Ri rupwaq { -brand-name-mozilla-corporation }  petenäq chi kij ri taq kochinïk ch'akon pa tunuj samaj kik'in kanob'äl yerokisan ri { -brand-name-firefox } chuqa' kijunamil talunem chijun ruwach'ulew. Yatikïr nawetamaj pa ruwi' rub'eyal niqak'ül pwäq pa ri <a href="{ $link }">rutzijol ajpwaq chijun juna'</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ütz, ri taq k'utunïk ri' man e k'ayew ta. ¿Achikie taq tzij yerumöl?
 # Variables:
