@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = K'amaya'l kichin winaqi', man richin ta ch'akoj
 home-did-you-know-mozilla-the-maker = ¿La awetaman? { -brand-name-mozilla } — Ruq'inonela' { -brand-name-firefox } — tatija' aq'ij chi jantape' ri k'amaya'l tok jun ajwinäq tob'äl, okel chuqa' chi tapon pa kiq'a' konojel.
 home-fast-for-good = Junelïk aninäq.
-home-with-2x-the-speed-built-in = Rik'in 2mul aninäq, tz'aqatisan ichinan ruchajixik chuqa' ruto'ik mozilla, ri k'aka' { -brand-name-firefox } ja ri' ri janila ütz rub'eyal richin yatok pa k'amaya'l.
+home-with-2x-the-speed-built-in = Rik'in 2mul aninäq, tz'aqatisan ruchajinïk ichinanem chuqa' rik'in ruto'ik { -brand-name-mozilla }, ri k'aka' { -brand-name-firefox } ja ri' ri ütz rub'anikil richin yatok pa k'amaya'l.
 home-we-make-the-internet-safer = Niqab'än chi ri k'amaya'l jikïl, raxinäq chuqa' junelïk aninäq.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } jun moloj ri man rojqan ch'akoj ri pa'äl pa ruwi' ri { -brand-name-firefox }, ri cha'el okik'amaya'l pa qitzij. Yeqanük' taq tikojil chuqa' taq na'ojil richin nib'an chi tik'oje' pa kiq'a' ri winaqi' ri K'amaya'l, man richin ta ch'akoj.
 home-our-impact = Ri quchuq'a'
