@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = I adolygu a rhoi sylwadau ar y
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Darllenwch ragor am ein gwaith polisi cyhoeddus ar breifatrwydd a diogelwch ar <a href="{ $blog }"> ar flog Open Policy and Advocacy { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Hen Bolisïau
-privacy-index-mozilla-websites-communications = Gwefannau { -brand-name-mozilla }, Cysylltiadau a Chwcis
+privacy-index-mozilla-websites-communications = Gwefannau { -brand-name-mozilla },
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }

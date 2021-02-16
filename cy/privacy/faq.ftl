@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = Dyw { -brand-name-mozilla } ddim yn
 privacy-faq-wait-so-how-do-you-make-money = Ond, sut fyddwch chi'n gwneud eich arian?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = Nid { -brand-name-mozilla } yw yn eich sefydliad arferol. Cafodd ei sefydlu fel project cod agored cymunedol ym 1998, mae { -brand-name-mozilla } yn gorff sy'n cael ei yrru gan genhadaeth sy'n gweithio tuag at ryngrwyd mwy iach. Mae'r rhan fwyaf o refeniw'r { -brand-name-mozilla } Corporation yn dod o freindaliadau partneriaethau chwilio'r porwr gwe { -brand-name-firefox } a chytundebau dosbarthu ledled y byd. Mae gwybodaeth am sut rydym yn gwneud arian i'w gael yn ein <a href="{ $link }">adroddiad ariannol blynyddol</a>.
+privacy-faq-mozilla-is-not-your-average = Nid { -brand-name-mozilla } yw yn eich sefydliad arferol. Cafodd ei sefydlu fel project cod agored cymunedol ym 1998, mae { -brand-name-mozilla } yn gorff sy'n cael ei yrru gan genhadaeth sy'n gweithio tuag at ryngrwyd mwy iach. Mae'r rhan fwyaf o refeniw'r { -brand-name-mozilla-corporation } yn dod o freindaliadau partneriaethau chwilio'r porwr gwe { -brand-name-firefox } a chytundebau dosbarthu ledled y byd. Mae gwybodaeth am sut rydym yn gwneud arian i'w gael yn ein <a href="{ $link }">adroddiad ariannol blynyddol</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Iawn, dyna'r cwestiynau hawdd. Pa ddata ydych chi'n ei gaglu?
 # Variables:
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = O fath. Yn ogystal a'r data sy'n c
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Weithiau, fyddwn yn casglu data ychwanegol mewn fersiwn cyn ei ryddhau ar gyfer un o'n <a href="{ $link }">astudiaethau</a>. Er enghraifft, mae rhai astudiaethau'n gofyn ein bod yn galw am "ddata gweithgaredd gwe", sy'n gallu cynnwys URLau a mathau eraill o wybodaeth am wefannau penodol. Mae hyn yn ein cynorthwyo i ateb cwestiynau penodol er mwyn gwella { -brand-name-firefox }, er enghraifft, sut i wella integreiddio gwefannau poblogaidd mewn localau penodol.
-privacy-faq-mozillas-pre-release-versions = Mae fersiynau cyn rhyddhau { -brand-name-firefox } yn blatfformau datblygu, yn cael eu diweddaru'n aml gyda nodweddion arbrofol. Rydym yn casglu mwy o ddata yn y cyn rhyddhau nag ar ôl ryddhau er mwyn deall sut mae'r nodweddion arbrofol hyn yn gweithio. Gallwch hepgor y casglu data hwn yn y dewisiadau.
+privacy-faq-mozillas-pre-release-versions = Mae fersiynau cyn rhyddhau { -brand-name-firefox } { -brand-name-mozilla } yn blatfformau datblygu, yn cael eu diweddaru'n aml gyda nodweddion arbrofol. Rydym yn casglu mwy o ddata yn y cyn rhyddhau nag ar ôl ryddhau er mwyn deall sut mae'r nodweddion arbrofol hyn yn gweithio. Gallwch hepgor y casglu data hwn yn y dewisiadau.
 privacy-faq-but-why-do-you-collect-any-data = Pam ydych chi'n casglu unrhyw ddata o gwbl?
 privacy-faq-if-we-dont-know-how-the-browser = Os nad ydyn ni'n gwybod sut mae'r porwr yn perfformio neu pha nodweddion mae pobl yn eu defnyddio, does dim modd i ni ei wneud yn well a darparu'r cynnyrch gwych rydym am ei wneud. Rydym wedi buddsoddi mewn casglu data ac offer dadansoddi sy'n caniatáu i ni wneud penderfyniadau craff am ein cynnyrch tra'n parchu preifatrwydd pobl.
 privacy-faq-data-collection-still-bugs-me = Mae casglu data'n dal i fy mhoeni i. Ga i ei ddiffodd?
