@@ -11,9 +11,14 @@ firefox-sync-sync-your-firefox = Synchronisa { -brand-name-firefox } su tote tu 
 firefox-sync-privacy-made-easy = Confidentialitate rendite facile
 firefox-sync-all-you-need = Pro usar { -brand-name-firefox-sync } tu besonia solo de un { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Crypta tu datos
+firefox-sync-your-encryption-key = Tu clave de cryptographia resta un secreto, solo note a te e a tu apparatos autorisate.
 firefox-sync-feel-safe = Senti te secur
+firefox-sync-we-store-your = Nos immagazina tu datos cryptate sur nostre servitores assi nos mesme non pote leger lo.
 firefox-sync-start-syncing-in = Initia synchronisar in quatro facile passos:
 firefox-sync-open-the-menu = Aperi le menu in alto a dextera de { -brand-name-firefox } e elige <strong>“Acceder a { -brand-name-sync }”</strong>.
 firefox-sync-click-get-started = Clicca <strong>“Initiar”</strong> in le scheda que aperi.
 firefox-sync-enter-an-email = Insere un adresse e-mail e contrasigno pro <strong>“Crear un { -brand-name-firefox-account }.”</strong>
 firefox-sync-click-next-to = Clicca <strong>“Avantiar”</strong> pro obtener un e-posta de confirmation.
+firefox-sync-after-you-check = Post que tu verifica tu e-mail e clicca le ligamine de verification, { -brand-name-firefox } automaticamente comenciara synchronisar in le fundo.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Plus auxilio a gerer tu { -brand-name-firefox-account }
