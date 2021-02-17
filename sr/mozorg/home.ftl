@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Интернет за људе, не за профит
-home-did-you-know-mozilla-the-maker = Да ли сте знали? { -brand-name-mozilla } се бори за одржавање интернета слободним, отвореним и доступним свима.
+home-did-you-know-mozilla-the-maker = Да ли сте знали? { -brand-name-mozilla }, творац { -brand-name-firefox }-а, бори се да интернет остане глобални јавни ресурс, отворен и доступан свима.
 home-fast-for-good = Брз са разлогом.
 home-with-2x-the-speed-built-in = Са дупло већом брзином, уграђеном заштитом приватности и уз { -brand-name-mozilla }-у, нови { -brand-name-firefox } је бржи са разлогом.
 home-we-make-the-internet-safer = Ми чинимо интернет безбеднијим, здравијим и бржим.
