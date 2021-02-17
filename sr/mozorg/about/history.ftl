@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = Историја { -brand-name-mozilla } пројекта
+history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
