@@ -7,6 +7,7 @@
 
 not-found-page-not-found-page-page-not-found = 404: ไม่พบหน้า
 not-found-page-sorry-we-cant-find-that-page = ขออภัย เราไม่พบหน้าดังกล่าว
+not-found-page-were-all-about-a-healthy-internet = เราทุกคนทุ่มเทอย่างหนักเพื่อสร้างอินเทอร์เน็ตที่สมบูรณ์ แต่บางทีก็มี URL ที่ใช้ไม่ได้เกิดขึ้น
 not-found-page-go-back = ย้อนกลับ
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
@@ -14,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">เรีย�
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>สำรวจ</a>ผลิตภัณฑ์ทั้งตระกูลของ { -brand-name-firefox } ซึ่งออกแบบมาเพื่อเคารพความเป็นส่วนตัวของคุณ
+# Variables:
+#   $download (url) - link to https://www.mozilla.org/firefox/new/
+not-found-page-download-the-firefox-browser = <a href={ $download }>ดาวน์โหลด</a>เบราว์เซอร์ { -brand-name-firefox } สำหรับอุปกรณ์มือถือหรือเดสก์ท็อปของคุณ
