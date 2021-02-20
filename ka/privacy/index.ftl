@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } პირადი მონაცემების დაცვა
@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = პირად მონაცემთ
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla }-ს <a href="{ $principles }">პირადი მონაცემების დაცვის საფუძვლები</a> გამომდინარეობს ჩვენი მიდგომებიდან, რომ პატივი უნდა ვცეთ და დავიცვათ ინტერნეტის მომხმარებელთა უფლებები. თუ როგორ აისახება ეს დებულებები { -brand-name-firefox }-სა და სხვა ყველა ჩვენს პროდუქტზე, იხილეთ <a href="{ $faq }">ხ.დ.კ.</a> გვერდზე.
 privacy-index-transparency-report = გამჭვირვალობის ანგარიში
+privacy-index-get-involved = შემოგვიერთდით
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = როგორც ღია წყაროს პროექტისთვის, გამჭვირვალობა და გახსნილობა მთავარ ამოსავალ წერტილის წარმოადგენს, { -brand-name-mozilla }-ს ძირითადი დებულებების. ჩვენი კოდი ღიაა და თავისუფლად ექვემდებარება შემოწმებას. პროექტების შემუშავების მიმდინარეობაც სრულიად გახსნილია. ყოველ ნახევარ წელიწადში წარმოდგენილი <a href="{ $report }">გამჭვირვალობის ანგარიშიც</a> ნათლად აჩვენებს, ჩვენს პასუხისმგებლურ დამოკიდებულება ამ დებულებების მიმართ.
@@ -32,4 +33,13 @@ privacy-index-to-review-and-comment-on-proposed = პირადი მონ�
 privacy-index-read-more-about-our-ongoing = გაეცანით ჩვენს მიმდინარე საჯარო სამუშაოებს პირადი მონაცემების დაცვისა და უსაფრთხოების მიმართულებით, <a href="{ $blog }">{ -brand-name-mozilla }-ს გახსნილობის პოლიტიკისა და საზოგადოებრივი საქმიანობის სვეტზე</a>.
 privacy-index-outdated-policies = მოძველებული დებულებები
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } საიტები, ურთიერთკავშირები და ფუნთუშები
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }-ისთვის
