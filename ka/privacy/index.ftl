@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = პირადი მონ�
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = გაეცანით ჩვენს მიმდინარე საჯარო სამუშაოებს პირადი მონაცემების დაცვისა და უსაფრთხოების მიმართულებით, <a href="{ $blog }">{ -brand-name-mozilla }-ს გახსნილობის პოლიტიკისა და საზოგადოებრივი საქმიანობის სვეტზე</a>.
 privacy-index-outdated-policies = მოძველებული დებულებები
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla } საიტები, ურთიერთკავშირები და ფუნთუშები
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } საიტები, სასაუბროები და ფუნთუშები
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
