@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Le productos { -brand-name-firefox } es designate pro proteger tu confidentialitate
+learn-more-about-firefox = Saper plus re { -brand-name-firefox }, su historia, functionalitates e mission
 learn-more-about = Saper plus re navigatores e productos { -brand-name-firefox } que gere tu datos con respecto e es producite pro tu confidentialitate ubique tu va online.
 learn-more-faq = Demandas frequente re { -brand-name-firefox }
 the-history-of = Le historia de navigatores del Web
@@ -26,8 +27,11 @@ choose-which-firefox = Selige que { -brand-name-firefox-browser } discargar in t
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Ben que un { -brand-name-chromebook } jam ha { -brand-name-chrome } installate, discargar e usar { -brand-name-firefox } como tu navigator quotidian te da plure beneficios:
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } ha essite un revolution in le disveloppamento de { -brand-name-firefox }. In 2017, nos creava un nove, ultra veloce navigator que constantemente meliora. { -brand-name-firefox-quantum } es le { -brand-name-firefox-browser }.
 firefox-more-little-book = Libretto del confidentialitate
+firefox-more-you-can-reclaim = Tu pote revindicar tu confidentialitate e reganiar controlo sur tu specific experientia de Internet! Il es realmente surprendentemente facile. Totes pote facer lo.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Accede e synchronisa tu marcapaginas, contrasignos, schedas aperte e altero ancora: ubique tu usa { -brand-name-firefox }.
 we-believe-everyone = Nos crede que totes deberea haber accesso a Internet — pro isto nos rende le { -brand-name-firefox-browser } disponibile in plus de 90 linguas con le auxilio de devote voluntarios de tote le mundo.
 firefox-fights-for = { -brand-name-firefox } lucta pro te sur { -brand-name-windows }
 easy-migration-of = Facile migration de preferentias e marcapaginas quando tu discarga { -brand-name-firefox } pro { -brand-name-windows }.
@@ -60,5 +64,8 @@ firefox-calls-it = { -brand-name-firefox } appella illo navigation anonyme, { -b
 take-the-stress = Sparnia te le stress de cercar un navigator secur.
 building-a-safe = Producer un navigator secur es un arte e un scientia perque il non ha alcun regulas preconfigurate.
 firefox-more-fingerprinter-blocking = Blocada de dactylogrammatores
+firefox-more-fingerprinting-is-a = Dactylogrammatores es un typo de traciamento online plus invasive que ordinari traciamento basate sur cookie: pro isto { -brand-name-firefox-browser } lo bloca.
 firefox-more-translate-the-web = Traducer le web
+firefox-more-translate-more-than = Traduce plus de 100 linguas a tu lingua directemente in tu { -brand-name-firefox-browser }: plus facilemente que mais.
 firefox-more-a-guide-to = Guida pro credentiales e contrasignos plus secur
+firefox-more-more-and-more = Sempre plus del sensibile, preciose cosas in nostre vita es custodiate per contrasignos.
