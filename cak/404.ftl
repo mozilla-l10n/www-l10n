@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Man xilitäj ta ri ruxaq
+not-found-page-sorry-we-cant-find-that-page = Kojakuyu', man yojtikïr ta niqïl ri ruxaq
