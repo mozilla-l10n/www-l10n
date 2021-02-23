@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title = Pe tenondegua omboajéma ñandutípe. Eipytyvõ { -brand-name-mozilla }-pe oñorairõvo ñanduti opavavépe g̃uarãva.
+banner-fundraising-body = Ñane mba’ekuaarã oñembyaty jaikévo ñandutípe, ha ndahasýi eikuaávo mba’épa oiko chugui. Pe marandu’ỹ ombohasyeterei añetegua jejuhu. Umi mba’e’oka juajupyre ñanduti pegua osẽ ñemuhaguasúpe hekorosã’ỹre. Ko atyguasu viru’ỹ rehegua { -brand-name-mozilla-foundation } oñorairõ tapiaite ñanduti hekorosã, ijuruja ha opavave oikekuaa hag̃ua pype. <strong>¿Eme’ẽsépa jopói?</strong>
 banner-fundraising-monthly = Jasyguáva
 banner-fundraising-one-time = Peteĩ jeýnte
 banner-fundraising-donate = Me’ẽ
