@@ -21,6 +21,7 @@ browsers-chromebook-alwayson-tracking-protection = Ñemo’ã tapykuehoha rovake
 browsers-chromebook-supporting-independent-technology = Aykeko tembipurupyahu ijeheguíva: heta kundahára ko’ág̃a rupi omba’apóva { -brand-name-chromium } ndive, oĩ sa’ive poravorã oike’ỹva Tembipurupyahu Tuicháva Pa’ũme. { -brand-name-firefox }-pe oykeko atyguasu viru rehegua’ỹva, ha omba’apóva ñanduti oiko porãve hag̃ua. Eipurúvo { -brand-name-firefox } reiméma hendivekuéra.
 browsers-chromebook-is-it-hard = ¿Hasy { -brand-name-firefox } mboguejy { -brand-name-chromebook } peg̃uarã?
 browsers-chromebook-we-wish-it = Ikatúnga’u ndahasyive, hákatu nde { -brand-name-chromebook } oĩsẽvéta { -brand-name-google-play } mba’éramo. Upéicharamo jepe, roguerovia iporãiteveha emohenda pe kundahára { -brand-name-firefox } nde { -brand-name-chromebook }-pe – ha roipytyvõkuaa eikotevẽramo. Mokõi hendáicha eguerekokuaa { -brand-name-firefox } ne mba’e’okápe.
+browsers-chromebook-install-firefox-from = Emohenda { -brand-name-firefox } pe { -brand-name-google-play } ñemuha guive: umi { -brand-name-chromeos } ipyahuvéva (ha’éva x86 { -brand-name-chromebook } omba’apóva { -brand-name-chromeos } 80 térã upeigua), ikatu emohenda pe app { -brand-name-firefox } { -brand-name-android } peg̃uarã. Ko app ojejapo pumbyry popeguápe g̃uarã.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
