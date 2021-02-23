@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } apopyrã rembiasakue
+# Variables:
+#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
+history-the-mozilla-project-was = Ko apopyrã { -brand-name-mozilla } ha’ékuri <a href="{ $coderush }">heñóiva 1998 jave</a> <a href="{ $sourcerelease }">isãsóvo pe kundahára reñoihágui { -brand-name-netscape } ndive</a>.
 history-mozilla-also-celebrated = { -brand-name-mozilla } avei omomora 15 ary ñemboty 2013-pe.
 history-the-community-has-shown = Tekoha ohechauka umi ñemuha guasu ikatuha oipytyvõ apopyrã ayvu ijurujávape ojejapokuaahápe apopyre tuicháva puruhára pahápe g̃uara ha’éva software ijayvu jurujáva.
 # Variables:
