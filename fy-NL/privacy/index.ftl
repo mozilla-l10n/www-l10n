@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Prinsipen fan gegevensprivacy
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla }’s <a href="{ $principles }">Prinsipen fan gegevensprivacy</a> ynspirearje ús praktiken dy’t minsken dy’t it ynternet brûke respektearje en beskermje. Lês yn dizze <a href="{ $faq }">FAQ</a> hoe’t dizze prinsipen { -brand-name-firefox } en al ús oare produkten foarmjaan.
 privacy-index-transparency-report = Transparânsjerapport
+privacy-index-get-involved = Meiwurkje
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = As iepenboarneprojekt binne transparânsje en iepenheid in essinsjeel ûnderdiel fan { -brand-name-mozilla }’s basisprinsipen. Us koadebases binne iepen en kontrolearber. Us ûntwikkelwurk is iepen. Us healjierliks <a href="{ $report }">Transparânsjerapport</a> toant ús tawijing oan dizze prinsipen.
@@ -32,4 +33,13 @@ privacy-index-to-review-and-comment-on-proposed = <a href="{ $group }">Abonnearj
 privacy-index-read-more-about-our-ongoing = Lês mear oer ús trochgeande wurk oan iepenbier belied oangeande privacy en befeiliging op <a href="{ $blog }">{ -brand-name-mozilla }’s Open Policy and Advocacy-blog</a>.
 privacy-index-outdated-policies = Ferâldere beliedsregels
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla }-websites, kommunikaasje & cookies
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } foar { -brand-name-fire-tv }

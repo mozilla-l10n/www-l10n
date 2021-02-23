@@ -12,3 +12,4 @@ privacy-passwords-pay-attention-to = Let op de befeiligingssinjalen fan de brows
 privacy-passwords-make-your-answers = Meitsje jo antwurden op befeiligingsfragen krekt sa sterk as jo wachtwurden
 privacy-passwords-guessing-it = Riede
 privacy-passwords-stealing-a-file = In bestân stelle wêryn jo wachtwurd sit
+privacy-passwords-strong-diverse-and = Sterk, ferskaat, en multifaktor
