@@ -25,3 +25,4 @@ what-is-a-browser-sadly-not-all = Spitigernôch kieze net alle browsermakkers de
 what-is-a-browser-when-the-web-browser = Wannear de webbrowser gegevens ophellet fan in mei it ynternet ferbûne server, brûkt dizze in stikje software, in rendering engine neamd, om dy gegevens yn tekst en ôfbyldingen oer te setten. Dizze gegevens binne skreaun yn <a href="{ $html }">Hypertext Markup Language</a> (HTML) en webbrowsers lêze dizze koade om te kreëarjen wat wy op it ynternet sjogge, hearre en ûnderfine.
 what-is-a-browser-cookies-not-the = Koekjes (net de lekkere soarte)
 what-is-a-browser-understanding = Ynsjoch yn privacy
+what-is-a-browser-making-your-web = Lit jo webbrowser foar jo wurkje
