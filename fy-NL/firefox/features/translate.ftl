@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 features-translate-translate-the-web = Set it ynternet oer mei { -brand-name-firefox }
+features-translate-the-google-translate = De { -brand-name-google } Translate-útwreiding foar { -brand-name-firefox } makket it ynternet tagonklik foar de wrâld.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = De útwreiding downloade
