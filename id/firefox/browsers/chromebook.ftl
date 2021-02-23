@@ -12,6 +12,8 @@ browsers-chromebook-get-firefox-browser = Dapatkan { -brand-name-firefox-browser
 browsers-chromebook-so-youve-got = Jadi, Anda memiliki { -brand-name-chromebook } — sekarang saatnya untuk mendapatkan { -brand-name-firefox-browser } yang independen dan privasi terjaga otomatis untuk melindungi data pribadi Anda.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Dapatkan { -brand-name-firefox } untuk { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Dapatkan { -brand-name-firefox } Desktop untuk { -brand-name-chromebook }
+browsers-chromebook-dropdown-copy = Dapatkan { -brand-name-firefox } untuk { -brand-name-chromebook }
+browsers-chromebook-is-it-hard = Apakah sulit untuk memasang { -brand-name-firefox } untuk { -brand-name-chromebook }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
