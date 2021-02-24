@@ -20,4 +20,5 @@ firefox-developer-learn-more-about-debugger = Máis información sobre o depurad
 firefox-developer-network = Rede
 firefox-developer-storage-panel = Panel de almacenamento
 firefox-developer-style-editor = Editor de estilos
+firefox-developer-want-to-be-on-the-cutting-edge = Quere estar na vangarda?
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } envía automaticamente as opinións a { -brand-name-mozilla }.

@@ -7,4 +7,14 @@
 
 not-found-page-not-found-page-page-not-found = 404: Non se atopou a páxina
 not-found-page-sorry-we-cant-find-that-page = Desculpe, non podemos atopar esa páxina
+not-found-page-were-all-about-a-healthy-internet = O noso é unha internet sá, aínda que ás veces podan aparecer URL quebrados.
 not-found-page-go-back = Retroceder
+# Variables:
+#   $about (url) - link to https://www.mozilla.org/about/
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Saiba máis</a> sobre { -brand-name-mozilla }, a organización sen ánimo de grupo detrás do { -brand-name-firefox }.
+# Variables:
+#   $explore (url) - link to https://www.mozilla.org/firefox/
+not-found-page-explore-the-entire-family-for = <a href={ $explore }>Explore</a> a familia completa para ver produtos de { -brand-name-firefox } deseñados para respectaren a súa privacidade.
+# Variables:
+#   $download (url) - link to https://www.mozilla.org/firefox/new/
+not-found-page-download-the-firefox-browser = <a href={ $download }>Descargue</a> o navegador { -brand-name-firefox } para o seu dispositivo móbil ou computador
