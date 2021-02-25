@@ -7,8 +7,6 @@
 
 # HTML page title and main title
 privacy-principles-data-privacy-principles = کوائف کی رازداری کے اصول
-# HTML page description
-privacy-principles-mozilla-is-an-open-source = موزیلا آپ کے انٹرنیٹ کے تجربے کو بہتر کرنے کے لئے ایک مشن کے ساتھ ایک اوپن سورس منصوبہ ہے۔ یہ ہماری رازداری کے طرز عمل کے پیچھے اصل طاقت ہے۔
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = درج ذیل پانچ اصولوں تنا <a href='{ $link }'> { -brand-name-mozilla } کے منشور</a> سے اور مطلع کس طرح ہم:

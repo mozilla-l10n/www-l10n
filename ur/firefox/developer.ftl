@@ -55,6 +55,4 @@ firefox-developer-faster-performance = تیز کارکردگی
 firefox-developer-shapes-editor = شکلیں مدیر کرنے والا
 firefox-developer-faster-innovation = تیز تر معلومات
 firefox-developer-fonts-panel = فونٹس پینل
-firefox-developer-firefox-developer-edition-sends = Firefox ڈیولپر ایڈیشن خود بخود { -brand-name-mozilla } کو رائے ارسال کرتا ہے۔
 firefox-developer-download-the-firefox-browser = ڈویلپرز کے لئے بنایا ہوا { -brand-name-firefox } براؤزر ڈاؤن لوڈ کریں
-firefox-developer-congrats-you-now-have-firefox = مبارک ہو۔ اب آپ کے پاس Firefox کوانٹم: ڈویلپر ایڈیشن ہے۔

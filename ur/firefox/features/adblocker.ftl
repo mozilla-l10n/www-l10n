@@ -15,7 +15,6 @@ features-adblocker-go-easy-with-standard = معیاری موڈ  کے ساتھ آ
 features-adblocker-get-tough-with-strict = سخت موڈ کے ساتھ سختی ہوجائیں
 features-adblocker-do-it-yourself-custom = کسٹم موڈ خود سے کریں
 features-adblocker-cover-your-trail-block = اپنی پگڈنڈی ، بلاک ٹریکرز کو ڈھانپیں
-features-adblocker-send-a-do-not-track-signal = مجھے  ٹریک مت کریں کا  سگنل بھیجیں
 features-adblocker-speed-up-thanks-to-ad = اتیز رفتار ایڈ بلاکرز کا شکریہ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

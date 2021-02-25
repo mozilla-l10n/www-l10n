@@ -18,7 +18,6 @@ new-platform-advanced-install-options = اعلی درجے کی انسٹال کے
 new-platform-download-in-another = ایک اور زبان میں ڈائونلوڈ کریں
 new-platform-fix-a-problem = ایک مسئلہ حل کریں
 new-platform-need-help = مدد چاہیے؟
-new-platform-download-mozilla-firefox-title = { -brand-name-mozilla } { -brand-name-firefox } کو ڈاؤن لوڈ کریں، ایک مفت ویب پرائوزر۔ { -brand-name-firefox } ایک عالمی غیر منافع بخش بنایا گیا ہے جس کا مقصد آنلائن افراد کو کنٹرول دینا ہے۔ { -brand-name-firefox } برائے دریچہ ،  { -brand-name-mac }, { -brand-name-linux }{ -brand-name-android } اور { -brand-name-ios } آج جاصل کریں!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox }برائے { -brand-name-linux } ڈائونلوڈ کریں
 # /firefox/linux/ social sharing title

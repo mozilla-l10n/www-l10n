@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } رازداری
@@ -31,5 +31,4 @@ privacy-index-to-review-and-comment-on-proposed = ہماری رازداری کی
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = <a href="{ $blog }"> { -brand-name-mozilla } کی اوپن پالیسی اور ایڈووکیسی بلاگ</a> پر ہماری جاری رازداری اور سیکیورٹی عوامی پالیسی کے کام کے بارے میں مزید پڑھیں۔
 privacy-index-outdated-policies = پرانی پالیسیاں
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ویب سائٹس، مواصلات اور &amp; کوکیز
 privacy-index-firefox-fire-tv = { -brand-name-firefox } برائے { -brand-name-fire-tv }

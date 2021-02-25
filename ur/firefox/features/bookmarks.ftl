@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
-# HTML page title
-features-bookmarks-firefox-browser-better = Firefox براؤزر: ہر جگہ جہاں بہتر بک مارکس دستیاب ہیں
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = آسانی سے آپ کے بک مارک کو فولڈر میں منظم کریں اور آپ کے تمام آلات میں ڈیسک ٹاپ سے موبائل تک رسائی حاصل کریں۔
 features-bookmarks-better-bookmarks = بہتر بک مارکس

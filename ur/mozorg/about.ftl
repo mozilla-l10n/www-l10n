@@ -7,8 +7,6 @@
 
 # HTML Page title
 about-learn-about-mozilla = { -brand-name-mozilla }  کے بارے میں ،مزید سیکھیں
-# HTML page description
-about-mozilla-makes-browsers-apps-desc = موزیلا براؤزرز ، ایپس ، کوڈ اور ٹولز بناتا ہے جو لوگوں کو منافع پر ترحیح دیتے ہے۔ ہمارا مشن: انٹرنیٹ کھلا اور سب کے لئے قابل رسائی رکھیں۔
 # Main heading
 about-mozilla-makes-browsers-apps = { -brand-name-mozilla } براؤزرز ، ایپس ، کوڈ اور ٹولز بناتا ہے جو لوگوں کو منافع پر ترجیح دیتے ہیں۔
 # Main sub-heading
