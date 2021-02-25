@@ -81,7 +81,6 @@
 -brand-name-firefox-devtools = Firefox fejlesztői eszközök
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
@@ -91,7 +90,6 @@
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync = Sync
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
@@ -100,6 +98,9 @@
 
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 

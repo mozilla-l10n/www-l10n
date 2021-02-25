@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Adatvédelmi elvek
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = A { -brand-name-mozilla } <a href="{ $principles }">adatvédelmi irányelvei</a> inspirálják a gyakorlatunkat, miszerint tiszteletben tartjuk és védjük az internethasználókat. Ismerje meg a <a href="{ $faq }">GYIK-ből</a>, hogy ezek a gyakorlatok hogyan alakítják a { -brand-name-firefox }ot és az összes termékünket.
 privacy-index-transparency-report = Átláthatósági jelentés
+privacy-index-get-involved = Csatlakozzon
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Nyílt forráskódú projektként, az átláthatóság és nyíltság a { -brand-name-mozilla } alapelveinek elválaszthatatlan része. A kódbázisunk nyílt és auditálható. A fejlesztési munkánk nyílt. A kétéves <a href="{ $report }">átláthatósági jelentésünk</a> is bizonyítja az ezen elvek menti elkötelezettségünket.
@@ -32,4 +33,13 @@ privacy-index-to-review-and-comment-on-proposed = Adatvédelmi szabályzataink j
 privacy-index-read-more-about-our-ongoing = Olvasson a folyamatban lévő adatvédelmi és biztonsági közpolitikai munkánkról a <a href="{ $blog }">{ -brand-name-mozilla } nyílt politikai és érdekképviseleti blogját</a>.
 privacy-index-outdated-policies = Elavult szabályzatok
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } weboldalak, kommunikáció és sütik
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }-re
