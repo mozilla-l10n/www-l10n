@@ -15,7 +15,6 @@ firefox-channel-file-a-bug-now = ایک گڑبڑ کو ابھی مسل کریں
 firefox-channel-tips-for-filing-a-bug = ایک گڑبڑ کو بھرنے کے ٹوٹکے
 firefox-channel-try-new-features-in-a-pre = پری ریلیز { -brand-name-android } براؤزر میں نئی خصوصیات آزمائیں| { -brand-name-firefox }
 firefox-channel-download-and-test-future = ڈیسک ٹاپ ، { -brand-name-android } اور { -brand-name-ios } کیلئے { -brand-name-firefox } کے آئندہ ریلیزز کو ڈاؤن لوڈ اور آزمائیں۔
-firefox-channel-experience-cutting-edge-android-updated = اینڈروئیڈ کیلئے پری ریلیز والے براؤزر میں جدید خصوصیات کا تجربہ کریں: فائر فاکس بیٹا اور فائر فاکس نائٹلی۔ اب انسٹال!
 firefox-channel-experience-cutting-edge-android = { -brand-name-android }کیلئے پری ریلیز والے براؤزر میں جدید خصوصیات کا تجربہ کریں: { -brand-name-firefox-beta }، { -brand-name-firefox-aurora }اور { -brand-name-firefox-nightly }۔ ابھی انسٹال کریں!
 firefox-channel-download-and-test-the-latest-android = { -brand-name-firefox } برائے { -brand-name-android } بمع { -brand-name-aurora }, { -brand-name-beta } and { -brand-name-nightly } کو ڈائونلوڈ کریں اور تازہ ترین فیچر کو جانچیں۔
 firefox-channel-try-the-latest-android-features = تازہ تریں { -brand-name-android } کے فیفر آزمائیں، اس سے پہلے کہ باقی دنیا میں اجرا کریں۔
