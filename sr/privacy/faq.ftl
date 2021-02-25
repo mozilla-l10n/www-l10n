@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } не про
 privacy-faq-wait-so-how-do-you-make-money = Чекај, како онда зарађујете новац?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } није обична организација. Основана 1998. године као пројекат отвореног кода, { -brand-name-mozilla } је посвећена компанија која ради на обезбеђивању здравог интернета. Главни извор { -brand-name-mozilla-corporation } прихода потиче од ауторских хонорара на партнерствима са претраживачима или на споразумима о дистрибуцији широм света. Више о нашим приходима можете прочитати у нашем <a href="{ $link }">годишњем финансијском извештају</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } није обична организација. Основана 1998. године као пројекат отвореног кода, { -brand-name-mozilla } је посвећена компанија која ради на обезбеђивању здравог интернета. Главни извор { -brand-name-mozilla-corporation } прихода потиче од хонорара остварених путем { -brand-name-firefox } партнерстава за претраживање и уговора о дистрибуцији широм света. Више о нашим приходима можете прочитати у нашем <a href="{ $link }">годишњем финансијском извештају</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ок, ово пар питања је било једноставно. Које податке прикупљате?
 # Variables:
