@@ -36,7 +36,7 @@ firefox-desktop-download-autoplay-blocking = Блокує автовідтвор
 firefox-desktop-download-blocks-social-trackers = Блокує стеження соціальних мереж
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Доступність для різних ОС
-firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрану
+firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрана
 firefox-desktop-download-primary-password = Головний пароль
 # Obsolete string
 firefox-desktop-download-master-password = Головний пароль
