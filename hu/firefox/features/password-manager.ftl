@@ -14,6 +14,10 @@ password-manager-password-manager = Jelszókezelő teljesítmény elérve
 password-manager-give-up-the-memory = Adja fel a memóriajátékot a { -brand-name-firefox } jelszókezelővel.
 password-manager-password-hero = Jelszó hős
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Felejtse el a helyreállítást. A { -brand-name-firefox } jelszókezelő megjegyzi az összes jelszavát, így automatikusan beléphet, vagy könnyen megtalálhatja a mentett jelszavakat. A szuper biztonsághoz adjon egy <a href="{ $url }">elsődleges jelszót</a> a számítógépéhez.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Felejtse el a helyreállítást. A { -brand-name-firefox } jelszókezelő megjegyzi az összes jelszavát, így automatikusan beléphet, vagy könnyen megtalálhatja a mentett jelszavakat. A szuper biztonsághoz adjon egy <a href="{ $url }">mesterjelszót</a> a számítógépéhez.
 password-manager-password-magician = Jelszóbűvész
@@ -26,7 +30,7 @@ password-manager-password-champion = Jelszóbajnok
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Szerezze meg a biztonság aranyérmét a { -brand-name-firefox } rengeteg jelszókezelő <a href="{ $addons }">kiegészítőjével</a>. Válasszon egy meglévő kedvencet, vagy keressen egy magasabb szintűt a hozzáértő közösség értékelésével és ajánlásával.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Jelszó mester
 # Obsolete string
 # Variables:
