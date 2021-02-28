@@ -16,3 +16,12 @@ welcome-page1-check-your-breach-report = Consultescha tes rapport da sperditas d
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } ta mussa sche tias infurmaziuns persunalas èn stadas pertutgadas dad ina sperdita da datas enconuschenta e t'avertescha en cas che quai capita en l'avegnir.
 welcome-page1-stay-ahead-of-hackers = Lascha enavos ils hackers
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Chatta vias per proteger tias datas persunalas cun <a href="{ $security_tips }">{ -brand-name-monitor } tips da segirezza</a>.
+welcome-page1-stay-in-the-know = Ta tegna al current
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Es ti stà ina da 100'985'047 persunas envidadas a la <a href="{ $evite_breach }">«party» da sperditas da datas Evite</a>?
+welcome-page1-why-am-i-seeing-this = Pertge ves jau quai?
