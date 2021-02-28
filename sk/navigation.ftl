@@ -39,12 +39,16 @@ navigation-your-firefox-account = Váš { -brand-name-firefox-account(case: "gen
 navigation-make-the-most-of-your = Vyťažte zo svojho { -brand-name-firefox }u čo najviac - na každom zariadení.
 # Outdated string
 navigation-learn-how-to-customize = Upravte si svoj { -brand-name-firefox } podľa seba.
+navigation-explore-the-immersive = Preskúmajte web pomocou svojho headsetu.
 # Outdated string
 navigation-experience-augmented = Zažite rozšírenú a virtuálnu realitu s { -brand-name-firefox }om.
+navigation-get-together = Stretávajte sa vo svete vytvorenom vo virtuálnej realite.
 # Outdated string
 navigation-meet-people-in-experimental = Stretnite ľudí v experimentálnych chatovacích miestnostiach v zmiešanej realite pomocou { -brand-name-firefox }u.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } prináša na web virtuálnu a rozšírenú realitu.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } prináša { -brand-name-firefox } do rozšírenej a virtuálnej reality.
 navigation-firefox-built-just-for = { -brand-name-firefox }, vytvorený pre vývojárov.

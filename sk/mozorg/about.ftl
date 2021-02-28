@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = Zistite viac o Mozille
+about-learn-about-mozilla = Zistite viac o { -brand-name-mozilla(case: "loc") }
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } tvorí prehliadače, aplikácie, kód a nástroje, ktoré kladú na prvé miesto ľudí, nie zisk. Našou misiou je udržať internet otvorený a prístupný pre všetkých.
 # Main heading
@@ -19,15 +19,15 @@ about-our-mission-in-action = Naša misia v akcii
 about-pioneers-of-the-open-web = Bojovníci za otvorený web
 about-our-leadership-has-been-at = Naše vedenie bojuje od začiatku za zdravší internet. Čo začalo ako alternatíva voči nadvláde korporácií prerástlo v celosvetové hnutie za lepší internet.
 about-firefox-fast-for-good = { -brand-name-firefox } - vždy rýchly
-about-when-you-use-the-new-firefox = S novým { -brand-name-firefox }om dostávate do rúk skutočnú rýchlosť a zároveň podporujete misiu Mozilly - zdravý internet pre všetkých.
+about-when-you-use-the-new-firefox = S novým{ -brand-name-firefox(case: "ins") } dostávate do rúk skutočnú rýchlosť a zároveň podporujete misiu { -brand-name-mozilla(case: "gen") } - zdravý internet pre všetkých.
 about-walking-our-privacy-talk = Vedieme rozhovory o súkromí
-about-when-the-facebook-breach-was = Keď bol odhalený škandál { -brand-name-facebook }u, { -brand-name-mozilla } naň okamžite reagovala a vytvorila nástroj na ochranu súkromia používateľov.
+about-when-the-facebook-breach-was = Keď bol odhalený škandál { -brand-name-facebook(case: "gen") }, { -brand-name-mozilla } naň okamžite reagovala a vytvorila pre { -brand-name-firefox } nástroj na ochranu súkromia používateľov.
 about-talking-internet-issues-irl = IRL: podcasty o internete
-about-in-mozillas-irl-podcast-host = V podcaste od Mozilly hovorí Manoush Zomorodi o príbehoch zo života na internete a o jeho budúcnosti.
+about-in-mozillas-irl-podcast-host = V podcaste od { -brand-name-mozilla(case: "gen") } hovorí Manoush Zomorodi o príbehoch zo života na internete a o jeho budúcnosti.
 about-corporation-foundation-not = Firma. Nadácia. Neziskovka.
 about-learn-about-the-mozilla-foundation = Zistite viac o { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } kladie ľudí pred zisk vo všetkom, čo robí a buduje. V samotnom srdci jej podnikania stojí nadácia.
-about-the-mozilla-manifesto = Manifest Mozilly
+about-the-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 about-the-principles-we-wrote-in = Princípy, ktoré sme spísali v roku 1998 stále platia. V roku 2018 sme napísali dodatok, aby sme zdôraznili potrebu začlenenia, súkromia a bezpečnosti každého na internete.
 about-read-the-manifesto = Prečítajte si manifest
 about-a-global-view = Celosvetový pohľad
@@ -41,15 +41,15 @@ about-500-annual-attendees-to-the = Každoročné akcie navštívi v Berlíne <s
 about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = Každý rok vypijeme <strong>800</strong> balení ľadovej kávy.
-about-work-at-mozilla = Pracujte v Mozille
+about-work-at-mozilla = Pracujte v { -brand-name-mozilla(case: "loc") }
 about-join-a-mission-driven-organization = Pridajte sa k organizácii, ktorá tvorí produkty s určitým zmyslom.
-about-mozilla-careers = Práca v Mozille
+about-mozilla-careers = Práca v { -brand-name-mozilla(case: "loc") }
 about-how-you-can-help = Ako môžete pomôcť
 about-your-voice-your-code-your = Váš hlas, váš kód, vaša podpora. Pomôžte nám v boji za zdravý internet.
 about-get-involved = Zapojte sa
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = Odoberajte magazín od Mozilly
+about-get-the-mozilla-newsletter = Odoberajte magazín od { -brand-name-mozilla(case: "gen") }
 about-stay-informed-about-the-issues = Budeme vás informovať o výzvach, ktorým čelí internet a aj o tom, ako sa môžete zapojiť do ochrany tohto svetového verejného zdroja.
 about-subscribe = Odoberať

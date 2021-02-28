@@ -318,16 +318,6 @@
         [ins] Firefox Monitorom
     }
     .gender = masculine
--brand-name-firefox-send =
-    { $case ->
-       *[nom] Firefox Send
-        [gen] Firefoxu Send
-        [dat] Firefoxu Send
-        [acc] Firefox Send
-        [loc] Firefoxe Send
-        [ins] Firefoxom Send
-    }
-    .gender = masculine
 -brand-name-firefox-sync =
     { $case ->
        *[nom] Firefox Sync
@@ -371,7 +361,6 @@
         [ins] Monitorom
     }
     .gender = masculine
--brand-name-send = Send
 -brand-name-sync = Sync
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
@@ -380,6 +369,18 @@
 
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send =
+    { $case ->
+       *[nom] Firefox Send
+        [gen] Firefoxu Send
+        [dat] Firefoxu Send
+        [acc] Firefox Send
+        [loc] Firefoxe Send
+        [ins] Firefoxom Send
+    }
+    .gender = masculine
+-brand-name-send = Send
 
 ## Pocket
 
@@ -423,6 +424,8 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
 -brand-name-webmaker =
     { $case ->
        *[nom] Webmaker

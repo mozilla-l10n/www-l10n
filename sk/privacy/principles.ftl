@@ -11,7 +11,7 @@ privacy-principles-data-privacy-principles = Zásady ochrany súkromných údajo
 privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } je open source projekt s vlastnou misiou zlepšiť vaše možnosti na internete. To je hnacou silou za našimi postojmi k súkromiu.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
-privacy-principles-the-following-five-principles = Nasledovných päť princípov vychádza z <a href="{ $link }">Manifestu Mozilly</a> a hovoria ako:
+privacy-principles-the-following-five-principles = Nasledovných päť princípov vychádza z <a href="{ $link }">Manifestu { -brand-name-mozilla(case: "gen") }</a> a hovoria ako:
 privacy-principles-develop-our-products = vyvíjame naše produkty a služby
 privacy-principles-manage-user-data-we-collect = spravujeme nazbierané používateľské údaje
 privacy-principles-select-and-interact-with = si vyberáme a ako spolupracujeme s našimi partnermi

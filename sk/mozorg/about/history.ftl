@@ -23,7 +23,7 @@ history-by-creating-an-open-community = Vytvorením otvorenej komunity sa projek
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Členovia komunity sa zapojili a rozšírili rozsah <a href="{ $mission }">pôvodného poslania</a> projektu — namiesto toho, aby pracovali len na ďalšej verzii prehliadača { -brand-name-netscape }, začali ľudia vytvárať <a href="{ $browsers }">rôzne prehliadače</a>, <a href="{ $bugzilla }">vývojárske nástroje</a> a sadu ďalších <a href="{ $projects }">projektov</a>.
-history-people-contributed-to-mozilla = Ľudia prispievali do Mozilly rôznymi spôsobmi, ale každý bol nadšený z vytvárania voľného softvéru, ktorý by umožnil ľuďom mať možnosť voľby v tom, ako zažívajú internet.
+history-people-contributed-to-mozilla = Ľudia prispievali do { -brand-name-mozilla(case: "gen") } rôznymi spôsobmi, ale každý bol nadšený z vytvárania voľného softvéru, ktorý by umožnil ľuďom mať možnosť voľby v tom, ako zažívajú internet.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = Po niekoľkých rokoch vývoja bola v&nbsp;roku 2002 vydaná <a href="{ $mozilla1 }">{ -brand-name-mozilla }&nbsp;1.0</a>, prvá významná verzia. Táto verzia uviedla veľa vylepšení do prehliadača, e-mailového klienta a ďalších aplikácií zahrnutých v sade programov, ale nevyužívalo ich veľa ľudí.
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = V roku 2002 <a href="{ $over90 }">viac ako 90% in
 history-not-many-people-noticed = V tej dobe si to nevšimlo veľa ľudí, ale prvá verzia Phoenixu (neskoršie premenovaná na { -brand-name-firefox }) bola v tom roku tiež vydaná členmi komunity { -brand-name-mozilla } s cieľom poskytnutia <a href="{ $charter }">najlepšej možnej skúsenosti z prehliadania</a> pre čo najširšie množstvo ľudí.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = V roku 2003 vytvoril projekt { -brand-name-mozilla } nadáciu { -brand-name-mozilla }, <a href="{ $foundation }">nezávislú neziskovú organizáciu</a> podporovanú individuálnymi darcami a rozličnými organizáciami.
+history-in-2003-the-mozilla-project = V roku 2003 vytvoril projekt { -brand-name-mozilla } nadáciu { -brand-name-mozilla-foundation }, <a href="{ $foundation }">nezávislú neziskovú organizáciu</a> podporovanú individuálnymi darcami a rozličnými organizáciami.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Nová nadácia Mozilla pokračovala v úlohe riadenia každodennej prevádzky projektu a oficiálne tiež prevzala úlohu propagácie <a href="{ $manifesto }">otvorenosti, inovácie a príležitosti</a> na internete.
+history-the-new-mozilla-foundation = Nová { -brand-name-mozilla-foundation } pokračovala v úlohe riadenia každodennej prevádzky projektu a oficiálne tiež prevzala úlohu propagácie <a href="{ $manifesto }">otvorenosti, inovácie a príležitosti</a> na internete.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Toto pokračovalo vydávaním softvéru, ako je { -brand-name-firefox } a { -brand-name-thunderbird }, a expanziou do nových oblastí, ako je poskytovanie <a href="{ $grants }">grantov</a> na podporu vylepšení prístupnosti na webe.
@@ -66,11 +66,11 @@ history-the-future-is-full-of-challenges = Budúcnosť je plná výziev a príle
 history-theres-no-guarantee-that = Neexistuje žiada záruka, že internet zostane otvorený alebo príjemný alebo bezpečný.
 history-mozilla-will-continue-to = { -brand-name-mozilla } bude pokračovať v poskytovaní príležitosti pre ľudí, aby ich hlasy boli vypočuté a aby formovali ich vlastné online životy.
 history-of-course-were-not-alone = Samozrejme, v tomto snažení nie sme sami.
-history-the-mozilla-community-together = Komunita Mozilly spolu s ďalšími open source projektmi a inými všeobecne prospešnými organizáciami existujú len vďaka ľuďom, ktorí sú zaangažovaní v pretváraní našich spoločných cieľov na realitu.
+history-the-mozilla-community-together = Komunita { -brand-name-mozilla(case: "gen") } spolu s ďalšími open source projektmi a inými všeobecne prospešnými organizáciami existujú len vďaka ľuďom, ktorí sú zaangažovaní v pretváraní našich spoločných cieľov na realitu.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Ak sa k nám chcete pridať v našom poslaní, pozrite sa, ako sa <a href="{ $contribute }">môžete zapojiť</a>.
-history-for-more-information-about = Ďalšie informácie o histórii Mozilly:
+history-for-more-information-about = Ďalšie informácie o histórii { -brand-name-mozilla(case: "gen") }:
 history-mozilla-bookmarks = Záložky { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Časová os projektu { -brand-name-mozilla }
 history-mozilla-digital-memory-bank = Digitálna pamäťová banka { -brand-name-mozilla }
