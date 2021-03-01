@@ -14,6 +14,10 @@ password-manager-password-manager = Myto Zrjadowak hesłow dopušćene
 password-manager-give-up-the-memory = Njezabywajće hesła ze zrjadowakom hesłow { -brand-name-firefox }.
 password-manager-password-hero = Rjek hesłow
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Zabudźće wróćostajenje. Zrjadowak hesłow { -brand-name-firefox } waše hesła składuje, zo byšće so awtomatisce přizjewił abo składowane hesła lochko namakał. Zo byšće maksimalnu wěstotu dóstał, dajće swojemu ličakej <a href="{ $url }">hłowne hesło</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Zabudźće wróćostajenje. Zrjadowak hesłow { -brand-name-firefox } waše hesła składuje, zo byšće so awtomatisce přizjewił abo składowane hesła lochko namakał. Zo byšće maksimalnu wěstotu dóstał, dajće swojemu ličakej <a href="{ $url }">hłowne hesło</a>.
 password-manager-password-magician = Hesłowy kuzłar
@@ -26,7 +30,7 @@ password-manager-password-champion = Hesłowy mišter
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Zasłužće sej swoju złotu wěstotnu medalju z wjele <a href="{ $addons }">přidatkami</a> za zrjadowak hesłow { -brand-name-firefox }. Wubjerće swój najlubši abo pytajće nowy na zakładźe pohódnoćenjow a posudkow zhromadźenstwa.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mištr hesłow
 # Obsolete string
 # Variables:
