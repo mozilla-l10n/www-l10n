@@ -8,11 +8,13 @@
 browser-history-browser-history = Böngészőtörténelem: Epikus hatalmi harcok, amelyek elhozták a modern böngészőket
 browser-history-the-browser-wars-underdogs-giants = A böngészőháborúk, törpék az óriások ellen, és pillanatok, melyek megváltoztatták a világot. Olvasson a webböngésző történelméről.
 browser-history-the-history-of-web = A böngészők története
+browser-history-world-history-is = A világtörténelem tele van nagy hatalmi harcokkal, világhódító zsarnokokkal és hősies kicsikkel. A böngészők történelme nem sokban tér el ettől. Egyetemi úttörők írtak egyszerű szoftvert, ami információs forradalmat és harcot váltott ki a böngészők közt a fölényért és az internetezőkért.
 browser-history-before-web-era = A webkorszak előtt
 browser-history-in-1950-computers = 1950-ben a számítógépek egész szobákat foglaltak el, és butábbak voltak, mint a mai zsebszámológépek. De a haladás gyors volt, és 1960-ra képesek voltak komplex programok futtatására. A világ kormányai és egyetemei arra gondoltak, hogy nagyszerű lenne, ha a gépek beszélni tudnának, elősegítve az együttműködést és a tudományos áttöréseket.
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = Az <a href="{ $arpanet }">ARPANET</a> volt az első sikeres hálózati projekt, és 1969-ben küldték el az első üzenetet a Los Angeles-i Kaliforniai Egyetem (UCLA) informatikai laboratóriumától a szintén kaliforniai Stanford Research Institute-hoz (SRI).
+browser-history-that-sparked-a-revolution = Ez forradalmat váltott ki a számítógépes hálózatokban. Új, a világ egyetemeit és kutatóközpontjait összekötő hálózatok alakultak ki. De a következő 20 évben az internet nem volt hozzáférhető a nyilvánosság számára. Egyetemi és kormányzati kutatókra, hallgatókra és magánvállalatokra korlátozódott. Több tucat olyan program volt, amely telefonvonalakon tudott információkat cserélni, de egyikük sem volt könnyen használható. Az igazi nyílt internet és az első webböngésző csak 1990-ben jött létre.
 browser-history-web-era = Webkorszak
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
