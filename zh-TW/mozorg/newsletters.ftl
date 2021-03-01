@@ -12,6 +12,8 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } 電子報
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = 透過我們的電子報取得最新資訊
 # Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-here-to-keep-current = 在此訂閱電子報，搶先知道 { -brand-name-mozilla } 的大小事，並採取行動讓網路環境更健康，也讓您的線上生活更聰明。
+# Outdated string
 newsletters-subscribe-to-updates-and-keep = 訂閱最新消息，搶先取得在 { -brand-name-mozilla } 發生的大小事。這是您能與我們保持連絡的最佳方式！
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = 確認電子報
