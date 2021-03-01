@@ -7,7 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Cyrchwch a chydweddu eich nodau tudalen, cyfrineiriau, a mwy ym mhob man y byddwch yn defnyddio { -brand-name-firefox }.
-firefox-sync-sync-your-firefox = Cydweddwch eich{ -brand-name-firefox } ar eich holl ddyfeisiau
+firefox-sync-sync-your-firefox = Cydweddwch eich { -brand-name-firefox } ar eich holl ddyfeisiau
 firefox-sync-privacy-made-easy = Preifatrwydd wedi'i wneud yn hawdd
 firefox-sync-all-you-need = Y cyfan sydd ei angen arnoch ar gyfer { -brand-name-firefox-sync } yw cyfrif { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Amgryptiwch eich data
