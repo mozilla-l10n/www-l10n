@@ -12,6 +12,8 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } Newsletter
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Leia sobre isso em nosso <span>boletim informativo</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-here-to-keep-current = Inscreva-se aqui para ficar em dia com novidades da { -brand-name-mozilla }, tomar atitude em prol de uma internet mais saudável e ficar mais esperto em relação à sua vida online.
+# Outdated string
 newsletters-subscribe-to-updates-and-keep = Subscreva para receber atualizações e mantenha-se atualizado com as notícias da { -brand-name-mozilla }. É a maneira perfeita para nos mantermos em contato!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirmação do boletim informativo
