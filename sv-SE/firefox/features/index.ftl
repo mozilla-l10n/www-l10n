@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Blockera fingeravtrycksspårare
 features-index-translate-the-web = Översätt webben
 features-index-translate-more-than = Översätt från mer än 100 språk till ditt språk direkt i din { -brand-name-firefox-browser } - enklare än någonsin.
 features-index-translate-to-your = Översätt till ditt språk
+features-index-picture-in-picture = Bild-i-bild
+features-index-got-things-to-do = Har du saker att göra och saker att titta på? Gör båda med bild-i-bild i { -brand-name-firefox }.
