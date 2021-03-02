@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Блокування зчитувачів 
 features-index-translate-the-web = Перекладіть Мережу
 features-index-translate-more-than = Перекладайте з понад 100 мов вашою мовою безпосередньо у вашому { -brand-name-firefox-browser } — простіше, ніж будь-коли.
 features-index-translate-to-your = Перекладіть вашою мовою
+features-index-picture-in-picture = Зображення в зображенні
+features-index-got-things-to-do = Необхідно виконувати роботу і щось переглядати? Робіть це одночасно з функцією { -brand-name-firefox } Зображення в зображенні.
