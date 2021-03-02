@@ -52,3 +52,4 @@ features-index-block-fingerprinters = Bloqueio de rastreadores de identidade dig
 features-index-translate-the-web = Traduza a web
 features-index-translate-more-than = Traduza de mais de 100 idiomas para o seu idioma diretamente no seu { -brand-name-firefox-browser } — mais fácil do que nunca.
 features-index-translate-to-your = Traduza para seu idioma
+features-index-picture-in-picture = Picture-in-Picture
