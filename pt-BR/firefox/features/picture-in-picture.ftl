@@ -10,3 +10,6 @@ features-pip-firefox-picture-in-picture-get-more = Picture-in-Picture do { -bran
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Tem coisas a fazer e vídeos para assistir? Faça ambos ao mesmo tempo usando Picture-in-Picture no { -brand-name-firefox }.
 features-pip-cool-feature-picture-in-picture = Recurso legal: Picture-in-Picture
+features-pip-get-more-done-with-pop-out-videos = Faça mais com vídeos destacados da janela
+features-pip-got-things-to-do-do-both-with = Tem coisas a fazer e vídeos para assistir? Faça ambos ao mesmo tempo usando Picture-in-Picture no { -brand-name-firefox }. Ele permite destacar um vídeo de sua página web e fixar em algum lugar na tela para que você possa continuar assistindo enquanto usa outras páginas, abas e aplicativos.
+features-pip-play-the-video = Reproduzir o vídeo
