@@ -23,3 +23,6 @@ legal-thunderbird = { -brand-name-thunderbird }
 legal-websites-and-communications = Όροι Χρήσης Ιστοσελίδων και Επικοινωνιών
 legal-acceptable-use-policy = Προϋποθέσεις Χρήσης
 legal-firefox-cloud-services = Υπηρεσίες { -brand-name-firefox } Cloud: Όροι Υπηρεσίας
+legal-firefox-better-web = { -brand-name-firefox-better-web }
+legal-firefox-relay-terms = Όροι υπηρεσίας { -brand-name-firefox-relay }
+legal-mozilla-vpn-terms = Όροι υπηρεσίας { -brand-name-mozilla-vpn }
