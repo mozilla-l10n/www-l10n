@@ -14,6 +14,10 @@ password-manager-password-manager = Wachtwurdenbehearder-ûnderskieding ûntskoa
 password-manager-give-up-the-memory = Mij it ûnthâlden fan wachtwurden mei de wachtwurdenbehearder fan { -brand-name-firefox }.
 password-manager-password-hero = Wachtwurdheld
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Ferjit opnij ynstellen. De wachtwurdbehearder fan { -brand-name-firefox } bewarret al jo wachtwurden, sadat jo jo automatysk oanmelde kinne of ienfâldich bewarre wachtwurden fine kinne. Foar ekstreme befeiliging kinne jo jo kompjûter in <a href="{ $url }">haadwachtwurd</a> jaan.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ferjit opnij ynstellen. De wachtwurdenbehearder fan { -brand-name-firefox } bewarret al jo wachtwurden, sadat jo jo automatysk oanmelde kinne of ienfâldich bewarre wachtwurden fine kinne. Foar ekstreme befeiliging kinne jo jo kompjûter in <a href="{ $url }">haadwachtwurd</a> jaan.
 password-manager-password-magician = Wachtwurdtsjoender
@@ -26,7 +30,7 @@ password-manager-password-champion = Wachtwurdkampioen
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Fertsjinje jo gouden medalje yn befeiliging mei it romme oanbod oan <a href="{ $addons }">Add-ons</a> foar wachtwurdbehear fan { -brand-name-firefox }. Kies ien fan de favoriten of sykje in nijen ien troch de beoardielingen fan eksperts en de mienskip.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Wachtwurdkampioen
 # Obsolete string
 # Variables:
