@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Rhwystro bysbrintwyr
 features-index-translate-the-web = Cyfieithu'r we
 features-index-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith chi'n uniongyrchol yn eich { -brand-name-firefox-browser } - yn haws nag erioed.
 features-index-translate-to-your = Cyfieithu i'ch iaith
+features-index-picture-in-picture = Llun-mewn-Llun
+features-index-got-things-to-do = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gyda Llun-mewn-Llun yn { -brand-name-firefox }.
