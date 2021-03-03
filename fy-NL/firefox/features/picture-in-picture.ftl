@@ -15,3 +15,4 @@ features-pip-got-things-to-do-do-both-with = Hawwe jo dingen te dwaan en dingen 
 features-pip-play-the-video = De fideo ôfspylje
 features-pip-heres-how-it-works = Sa wurket it:
 features-pip-play-any-video-in-your = <strong>Spylje elke fideo af</strong> yn jo { -brand-name-firefox }-browser, lykas dizze mei reade pandawelpkes.
+features-pip-click-the-picture-in-picture-button = <strong>Klik op de knop Picture-in-Picture</strong> dy't boppe de fideo ferskynt, en dizze komt nei foaren.
