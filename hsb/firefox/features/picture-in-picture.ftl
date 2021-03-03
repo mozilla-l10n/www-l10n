@@ -13,6 +13,7 @@ features-pip-cool-feature-picture-in-picture = Wulkotna funkcija: Wobraz-we-wobr
 features-pip-get-more-done-with-pop-out-videos = Čińće wjace z přeměstnjenymi widejemi
 features-pip-play-the-video = Widejo wothrać
 features-pip-heres-how-it-works = Tak to funguje:
+features-pip-play-any-video-in-your = <strong>Wothrajće widejo</strong> w swojim wobhladowaku { -brand-name-firefox }, kaž tute z młodźatkami čerwjeneho pandy.
 features-pip-click-the-picture-in-picture-button = <strong>Klikńć na tłóčatko Wobraz-we-wobrazu</strong>, kotrež so nad widejom jewi, a widejo so přeměstni.
 features-pip-cruise-around-to-other = <strong>Křižujće po druhich rajtarkach</strong> abo samo zwonka { -brand-name-firefox }. Widejo na městnje wostanje!
 features-pip-3-ways-to-use-picture = Tři móžnosći, kak da so Wobraz-we-wobrazu wužiwać
