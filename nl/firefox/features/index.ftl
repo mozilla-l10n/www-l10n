@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Blokkeer fingerprinters
 features-index-translate-the-web = Het internet vertalen
 features-index-translate-more-than = Vertaal uit meer dan 100 talen rechtstreeks in uw { -brand-name-firefox-browser } naar uw eigen taal – eenvoudiger dan ooit.
 features-index-translate-to-your = Naar uw taal vertalen
+features-index-picture-in-picture = Picture-in-Picture
+features-index-got-things-to-do = Hebt u dingen te doen en dingen te bekijken? Doe het tegelijkertijd met Picture-in-Picture in { -brand-name-firefox }.
