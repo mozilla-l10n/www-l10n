@@ -14,6 +14,8 @@ features-translate-the-google-translate = De { -brand-name-google } Translate-ú
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = It ynternet is fol mei geweldige dingen, mar in protte derfan is net yn it Ingelsk skreaun – wêrtroch miljarden minsken op de wrâld in oersetter nedich hawwe om allinnich it ynternet te brûken. Jo kinne <a { $attrs }>{ -brand-name-firefox } downloade yn mear as 100 talen</a>, sadat jo browsermenu’s, notifikaasjes en berjochten yn jo foarkarstaal werjûn wurde, mar dat lost it probleem fan al dy geweldige ynhâld dy't jo mei jo browser opsykje net op.
 features-translate-to-google-translate = To { -brand-name-google } Translate
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-google-translate-with = { -brand-name-google } Translate wurdt, mei mear as 100 talen* beskikber, brûkt troch miljoenen minsken wrâldwiid. Mar hin en wer springe tusken translate.google.com en de side dy't jo probearje te lêzen is gjin ideale ûnderfining. De útwreiding <a { $attrs }>To { -brand-name-google } Translate</a> makket it oersetten fan de besochte side ienfâldiger as ea.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = De útwreiding downloade
 features-translate-switch-languages-in = Fan taal wikselje yn { -brand-name-firefox }
