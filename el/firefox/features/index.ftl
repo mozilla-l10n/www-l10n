@@ -53,3 +53,4 @@ features-index-translate-the-web = Μετάφραση του web
 features-index-translate-more-than = Μετάφραση από περισσότερες από 100 γλώσσες στη δική σας, απευθείας στο { -brand-name-firefox-browser } - πιο εύκολα από ποτέ.
 features-index-translate-to-your = Μετάφραση στη γλώσσα σας
 features-index-picture-in-picture = Εικόνα εντός εικόνας
+features-index-got-things-to-do = Έχετε δουλειές, αλλά θέλετε να δείτε βίντεο; Κάντε τα ταυτόχρονα με τη λειτουργία "Εικόνα εντός εικόνας" στο { -brand-name-firefox }.
