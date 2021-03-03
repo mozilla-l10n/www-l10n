@@ -53,3 +53,4 @@ features-index-translate-the-web = 翻译网页
 features-index-translate-more-than = 直接在 { -brand-name-firefox-browser }中将 100 多种语言翻译为您的语言 - 前所未有的容易。
 features-index-translate-to-your = 翻译为您的语言
 features-index-picture-in-picture = 画中画
+features-index-got-things-to-do = 想在做其他事的同时观看视频？请使用 { -brand-name-firefox } 的画中画。
