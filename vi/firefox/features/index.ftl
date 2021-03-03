@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Chặn dấu vết
 features-index-translate-the-web = Dịch trang web
 features-index-translate-more-than = Dịch từ hơn 100 ngôn ngữ sang ngôn ngữ của bạn trực tiếp trong { -brand-name-firefox-browser } của bạn - dễ dàng hơn bao giờ hết.
 features-index-translate-to-your = Dịch sang ngôn ngữ của bạn
+features-index-picture-in-picture = Hình trong hình
+features-index-got-things-to-do = Bạn có những việc cần làm và những việc cần xem? Thực hiện cả hai bằng cách sử dụng Hình trong hình trong { -brand-name-firefox }.
