@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
 # HTML page title
-features-pip-firefox-picture-in-picture-get-more = Llun-mewn-Llun { -brand-name-firefox }: Gwnewch fwy gyda fideos tynnu allan
+features-pip-firefox-picture-in-picture-get-more = Llun-mewn-Llun { -brand-name-firefox }: Gwnewch fwy gyda fideos sy'n popio allan
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }.
 features-pip-cool-feature-picture-in-picture = Nodwedd ddefnyddiol: Llun-mewn-Llun
-features-pip-get-more-done-with-pop-out-videos = Gwnewch ragor gyda fideos tynnu allan
+features-pip-get-more-done-with-pop-out-videos = Gwnewch ragor gyda fideos popio allan
 features-pip-got-things-to-do-do-both-with = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }. Mae'n caniatáu i chi roi dynnu fideo allan o'i dudalen we a'i binio i'ch sgrin fel y gallwch parhau i wylio tra'ch bod chi ar dudalennau, tabiau ac apiau eraill.
 features-pip-play-the-video = Chwarae'r fideo
 features-pip-heres-how-it-works = Dyma sut mae'n gweithio:
