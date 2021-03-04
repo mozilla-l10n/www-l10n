@@ -4,8 +4,10 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
+footer-privacy-hub = Središče za zasebnost
 footer-privacy = Zasebnost
 footer-press = Novinarsko središče
+footer-corporate-blog = Podjetniški blog
 footer-browser-comparison = Primerjava brskalnikov
 footer-brand-standards = Standardi blagovne znamke
 footer-browsers = Brskalniki

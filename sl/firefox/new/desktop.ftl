@@ -87,6 +87,7 @@ firefox-desktop-download-change-new-tab = Spremeni postavitev na novem zavihku
 firefox-desktop-download-make-firefox-your = Prikrojite si <strong>{ -brand-name-firefox }</strong> po svoji meri
 firefox-desktop-download-extensions-for-every = Razširitve za vsak okus
 firefox-desktop-download-change-up-your = Spremenite videz
+firefox-desktop-download-tweak-your-settings = Prilagodite si nastavitve
 firefox-desktop-download-your-privacy-comes = Vaša zasebnost je na prvem mestu
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Vsa vaša priljubljena orodja { -brand-name-google }, kot so Gmail in Dokumenti, delujejo brezhibno v { -brand-name-firefox-browser(sklon: "mestnik") }.
