@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
 
+# HTML page title
+privacy-passwords-security-guide-to = Tembiapo ñepyrũ rapépe g̃uarã ha ñe’ẽñemi hekosãvéva
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
 privacy-passwords-its-hard-out = Pe ñe’ẽñemi jeiko asy
@@ -19,3 +21,4 @@ privacy-passwords-strength-in-diversity = Mbarete oĩ tekoetápe
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
+privacy-passwords-strong-diverse-and = Imbarete, hekoeta ha multifactorial
