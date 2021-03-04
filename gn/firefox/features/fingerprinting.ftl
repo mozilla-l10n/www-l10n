@@ -11,5 +11,6 @@ features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } 
 # description for the header image
 features-fingerprinting-every-fingerprint = Peteĩteĩva kuãhũ ñandutigua ha’eño.
 features-fingerprinting-download-firefox = Emboguejy { -brand-name-firefox }
+features-fingerprinting-what-is-fingerprinting-body = ¿Mba’e pe kuãhũ rapykuere jeujhu?
 features-fingerprinting-fingerprinting-is-bad = Kuãhũ ñandutigua ñemoheñói ivai ñandutípe g̃uarã
 features-fingerprinting-protect = Emo’ã ne rekorosãrã
