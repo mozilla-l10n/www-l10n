@@ -10,3 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ¿Ereko ejapo ha ehecháva? Ejapo mokõivéva eipurúvo Picture-in-Picture { -brand-name-firefox } rupive.
 features-pip-cool-feature-picture-in-picture = Tembiapoite ha’evéva: Picture-in-Picture
+features-pip-play-the-video = Ehecha ta’ãngamýi
+features-pip-heres-how-it-works = Ehecha mba’éicha omba’apo:
+features-pip-play-any-video-in-your = <strong>Ehecha oimeraẽva ta’ãngamýi</strong> kundahára { -brand-name-firefox }-pe, ko’ã panda pytã ojapoháicha.
+features-pip-3-ways-to-use-picture = 3 hendáicha eipurukuaa Picture-in-Picture
+features-pip-watch-a-lecture-or-meeting = Ehecha peteĩ ikatupyýva ñe’ẽ térã aty ehai aja
