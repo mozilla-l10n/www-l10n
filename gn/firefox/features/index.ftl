@@ -50,3 +50,5 @@ features-index-fingerprinter-blocking = Ñemokuãhũ Jejoko
 features-index-block-fingerprinters = Ejoko ñemokuãhũ
 features-index-translate-the-web = Emoñe’ẽasa ñanduti
 features-index-translate-to-your = Emoñe’ẽasa ne ñe’ẽme
+features-index-picture-in-picture = Picture-in-Picture
+features-index-got-things-to-do = ¿Ereko ejapo ha ehecháva? Ejapo mokõivéva Picture-in-Picture ndive { -brand-name-firefox } rupive.
