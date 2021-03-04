@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Emohenda { -brand-name-firefox } pe {
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Emohenda { -brand-name-firefox } tembipuru’i { -brand-name-linux } mba’évarõ: ehapykuehórõ ko tape eikotevẽ hetave mba’e, hákatu iporã. Emohendávo { -brand-name-firefox } kundahára tembipuru’i { -brand-name-linux } mba’évarõ, erekóta kundahára mesa arigua { -brand-name-firefox } ha opa mba’eporã orekóva, tapykuehoha ñemo’ã iporãvévarõ, ñe’ẽñemi ñangarekohára ijehegua, heta moĩmbahápe jeike (oĩhápe UBlock Origin ñemuha jokoha), ha téma emboava hag̃ua ne kundahára jehecha. <a { $url }>Eikuaave mba’éichapa emohendáta { -brand-name-firefox } kundahára mesa arigua { -brand-name-chromebook } peg̃uarã.</a>
