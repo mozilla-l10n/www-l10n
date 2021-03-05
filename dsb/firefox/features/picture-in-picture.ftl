@@ -10,3 +10,12 @@ features-pip-firefox-picture-in-picture-get-more = Wobraz-we-wobrazu { -brand-na
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Musyśo něco cyniś a něco se woglědaś? Cyńśo woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.
 features-pip-cool-feature-picture-in-picture = Wjelicna funkcija: Wobraz-we-wobrazu
+features-pip-get-more-done-with-pop-out-videos = Cyńśo wěcej z wuměstnjonymi wideo
+features-pip-play-the-video = Wideo wótgraś
+features-pip-heres-how-it-works = Tak to funkcioněrujo:
+features-pip-play-any-video-in-your = <strong>Wótgrajśo wideo</strong> w swójom wobglědowaku { -brand-name-firefox }, ako toś te z młoźami cerwjenego panda.
+features-pip-click-the-picture-in-picture-button = <strong>Klikniśo na tłocašk Wobraz-we-wobrazu</strong>, kótarež se nad wideo pokazujo, a wideo se wuměstnijo.
+features-pip-cruise-around-to-other = <strong>Kśicujśo pó drugich rejtarikach</strong> abo samo zwenka { -brand-name-firefox }. Wideo na městnje wóstanjo!
+features-pip-3-ways-to-use-picture = Tśi móžnosći, kak dajo se Wobraz-we-wobrazu wužywaś
+features-pip-watch-a-lecture-or-meeting = Pśednosk abo zmakanje se woglědaś, mjaztym až něco notěrujośo
+features-pip-keep-a-tutorial-video-open = Widejo rozpokazanja z receptom wócynjone źaržaś, mjaztym až wariśo
