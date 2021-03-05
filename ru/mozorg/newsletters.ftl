@@ -12,6 +12,8 @@ newsletters-mozilla-newsletter = Новостная рассылка { -brand-na
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Узнайте все новости из нашей <span>новостной рассылки</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-here-to-keep-current = Подпишитесь здесь, чтобы быть в курсе новостей { -brand-name-mozilla }, принимать меры для оздоровления Интернета и узнать больше о своей жизни в Интернете.
+# Outdated string
 newsletters-subscribe-to-updates-and-keep = Подпишитесь на обновления и оставайтесь в курсе новостей { -brand-name-mozilla }. Это отличный способ быть с нами на связи!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Подтверждение новостной рассылки

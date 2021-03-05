@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Блокирование сборщико�
 features-index-translate-the-web = Перевод веб-страниц
 features-index-translate-more-than = Переводите с более 100 языков на свой язык прямо в { -brand-name-firefox-browser(case: "prepositional") } — проще, чем когда-либо раньше.
 features-index-translate-to-your = Переводите на свой язык
+features-index-picture-in-picture = Картинка в картинке
+features-index-got-things-to-do = Есть чем заняться и что посмотреть? Делайте это одновременно, используя функцию «Картинка в картинке» в { -brand-name-firefox }.
