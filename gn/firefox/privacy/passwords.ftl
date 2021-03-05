@@ -7,6 +7,8 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Tembiapo ñepyrũ rapépe g̃uarã ha ñe’ẽñemi hekosãvéva
+# page content
+privacy-passwords-a-security-guide = Tekorosã rape puruhárape g̃uarã ha ñe’ẽñemi hekosãva
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
 privacy-passwords-its-hard-out = Pe ñe’ẽñemi jeiko asy
