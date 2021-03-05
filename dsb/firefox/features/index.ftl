@@ -51,3 +51,5 @@ features-index-block-fingerprinters = Palcowe wótśišće blokěrowaś
 features-index-translate-the-web = Web pśełožyś
 features-index-translate-more-than = Pśełožujśo z wěcej ako 100 rěcow do swójeje rěcy direktnje w swójom { -brand-name-firefox-browser } - lažčej ako do togo.
 features-index-translate-to-your = Pśełožujśo do swójeje rěcy
+features-index-picture-in-picture = Wobraz-we-wobrazu
+features-index-got-things-to-do = Musyśo něco cyniś a něco se woglědaś? Cyńśo woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.

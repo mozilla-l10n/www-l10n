@@ -5,7 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje pśez palcowe wótśišće blokěrujo
 # description for the header image
 features-fingerprinting-every-fingerprint = Kuždy palcowy wótśišć jo jadnorazowy.
 features-fingerprinting-download-firefox = { -brand-name-firefox } ześěgnuś
+features-fingerprinting-what-is-fingerprinting-body = Co jo slědowanje pśez palcowe wótśišće?
+features-fingerprinting-fingerprinting-is-bad = Slědowanje pśez palcowe wótśišće jo špatne za web
 features-fingerprinting-protect = Šćitajśo swóju priwatnosć

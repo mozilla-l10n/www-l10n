@@ -14,6 +14,10 @@ password-manager-password-manager = Myto Zastojnik gronidłow pśizwólone
 password-manager-give-up-the-memory = Njezabywajśo gronidła ze zastojnikom gronidłow { -brand-name-firefox }.
 password-manager-password-hero = Ryśaŕ gronidłow
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Zabuźćo slědkstajenje. Zastojnik gronidłow { -brand-name-firefox } waše gronidła składujo, aby wy se awtomatiski pśizjawił abo skłaźone gronidła lažko namakał. Aby maksimalnu wěstotu dostał, dajśo swójomu licadłoju <a href="{ $url }">głowne gronidło</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Zabuźćo slědkstajenje. Zastojnik gronidłow { -brand-name-firefox } waše gronidła składujo, aby wy se awtomatiski pśizjawił abo skłaźone gronidła lažko namakał. Aby maksimalnu wěstotu dostał, dajśo swójomu licadłoju <a href="{ $url }">głowne gronidło</a>.
 password-manager-password-magician = Gronidłowy guslowaŕ
@@ -26,7 +30,7 @@ password-manager-password-champion = Gronidłowy mejstaŕ
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 password-manager-earn-your-security-gold-medal = Zasłužćo se swóju wěstotnu złotu medalju z wjele <a href="{ $addons }">dodankami</a> za zastojnik gronidłow { -brand-name-firefox }. Wubjeŕśo swój nejlubšy abo pytajśo nowy na zakłaźe pógódnośenjow a pósudkow zgromaźeństwa.
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mejstaŕ gronidłow
 # Obsolete string
 # Variables:
