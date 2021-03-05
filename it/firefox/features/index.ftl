@@ -52,3 +52,4 @@ features-index-block-fingerprinters = Blocco dei fingerprinter
 features-index-translate-the-web = Traduci il Web
 features-index-translate-more-than = Traduci da più di 100 lingue nella tua lingua direttamente nel { -brand-name-firefox-browser }. Non è mai stato così facile.
 features-index-translate-to-your = Traduci nella tua lingua
+features-index-picture-in-picture = Picture-in-Picture
