@@ -20,5 +20,8 @@ what-is-a-browser-a-web-browser-long = Egy webböngésző bárhová elviszi az i
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = Sajnos nem minden böngészőgyártó dönt úgy, hogy ugyanúgy értelmezi a formátumot. A felhasználók számára ez azt jelenti, hogy egy weboldal máshogy néz ki és működhet. A böngészők közti konzisztenciát a <a href="{ $standards }">webes szabványok</a> teszik lehetővé, így bármely felhasználó élvezheti az internetet, a választott böngészőjétől függetlenül.
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Ha a webböngésző adatokat kér le egy internetre csatlakozó kiszolgálóról, akkor egy ún. megjelenítőmotort használ az adatok szövegre és képekre fordításához. Az adatok HTML nyelvben (<a href="${ $html }">Hypertext Markup Language</a> – hiperszöveg-leírónyelv) vannak írva, és a webböngészők ezt a kódot olvassák be, hogy létrehozzák azt, amit látunk, hallunk vagy tapasztalunk az interneten.
 what-is-a-browser-cookies-not-the = Sütik (nem a finom fajta)
 what-is-a-browser-understanding = Az adatvédelem megértése
