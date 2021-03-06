@@ -23,5 +23,9 @@ what-is-a-browser-sadly-not-all = Sajnos nem minden böngészőgyártó dönt ú
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Ha a webböngésző adatokat kér le egy internetre csatlakozó kiszolgálóról, akkor egy ún. megjelenítőmotort használ az adatok szövegre és képekre fordításához. Az adatok HTML nyelvben (<a href="${ $html }">Hypertext Markup Language</a> – hiperszöveg-leírónyelv) vannak írva, és a webböngészők ezt a kódot olvassák be, hogy létrehozzák azt, amit látunk, hallunk vagy tapasztalunk az interneten.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = A <a href="{ $hyperlink }">hiperhivatkozások</a> lehetővé teszik, hogy a felhasználók más lapokra vagy webhelyekre jussanak a weben. Minden weboldal, kép és videó saját, egyedi URL-lel (<a href="{ $url }">Uniform Resource Locator</a> – egységes erőforrás-helymeghatározó) rendelkezik, ezt webcímként is ismert. Amikor egy webböngésző felkeres egy kiszolgálót az adatokért, akkor a webcím mondja meg a böngészőnek, hogy hol keresse az egyes, HTML-ben leírt elemeket, valamint, hogy azok hová kerüljenek a weboldalon.
 what-is-a-browser-cookies-not-the = Sütik (nem a finom fajta)
 what-is-a-browser-understanding = Az adatvédelem megértése
