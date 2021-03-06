@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } 개인정보 보호
@@ -31,5 +31,5 @@ privacy-index-to-review-and-comment-on-proposed = 개인정보 정책에 제안�
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = 우리의 개인정보와 보안 정책 업무를 <a href="{ $blog }">{ -brand-name-mozilla } 개방 정책 블로그</a>에서 읽어보세요.
 privacy-index-outdated-policies = 이전 정책 보기
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla } 웹 사이트, 커뮤니케이셤 및 쿠키
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } 웹 사이트, 커뮤니케이션과 쿠키
 privacy-index-firefox-fire-tv = { -brand-name-fire-tv }용 { -brand-name-firefox }

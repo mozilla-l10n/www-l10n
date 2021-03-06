@@ -18,7 +18,7 @@ privacy-faq-we-only-collect-the-data-we = 우리는 오직 최고의 제품을 �
 privacy-faq-we-put-people-in-control-of = 우리는 사람들이 자신의 데이터와 온라인 경험을 직접 결정하도록 합니다.
 privacy-faq-we-adhere-to-no-surprises-principle = 우리는 “놀래키지 않기” 원칙을 준수하며, 이는 사람들의 { -brand-name-firefox }에 대한 이해와 현실이 일치하도록 우리가 노력한다는 것을 의미합니다.
 privacy-faq-the-following-questions-and = 다음 질문들과 대답들은 여러분이 { -brand-name-mozilla }와 { -brand-name-firefox }로부터 어떤 것을 기대할지 이해하는데 도움이 될 것입니다:
-privacy-faq-i-use-firefox-for-almost-everything = 저는 웹에서 거의 모든 것을 위해 FireFox를 사용합니다. { -brand-name-mozilla } 여러분들은 저에 대해 수많은 것을 아시겠어요, 맞나요?
+privacy-faq-i-use-firefox-for-almost-everything = 저는 웹에서 거의 모든 것을 위해 { -brand-name-firefox }를 사용합니다. { -brand-name-mozilla } 여러분들은 저에 대해 많은 것을 알고 있겠지요, 맞나요?
 privacy-faq-firefox-the-web-browser-that = 여러분의 기기 혹은 컴퓨터에서 실행되는 웹 브라우저인 { -brand-name-firefox }는 인터넷으로 통하는 여러분의 관문입니다. 여러분의 브라우저는 여러분이 방문하는 웹사이트들에 대한 많은 정보를 관리하지만, 그 정보는 여러분의 기기에 남아있습니다. { -brand-name-firefox }를 만드는 회사인 { -brand-name-mozilla }는 그것들을 수집하지 않습니다(여러분이 저희에게 요청하지 않는 한).
 privacy-faq-really-you-dont-collect-my-browsing = 정말로, 여러분은 제 탐색 기록을 수집하지 않나요?
 # Variables:
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla }는 여러�
 privacy-faq-wait-so-how-do-you-make-money = 잠깐, 그러면 여러분은 어떻게 돈을 버나요?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla }는 평범한 조직이 아닙니다. 1998년에 커뮤니티 오픈 소스 프로젝트로 설립된 { -brand-name-mozilla }는 더 건강한 인터넷을 지향하는 사명 중심 조직입니다. { -brand-name-mozilla } 코퍼레이션의 수익 대부분은 FireFox 웹 브라우저 검색 파트너십과 전 세계 배포 거래를 통해 획득한 로열티에서 나옵니다. 우리가 어떻게 수익을 창출하는지에 대해서는 <a href="{ $link }">연간 재무 보고서</a>에서 자세히 알아볼 수 있습니다.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla }는 평범한 조직이 아닙니다. 1998년에 커뮤니티 오픈 소스 프로젝트로 설립된 { -brand-name-mozilla }는 더 건강한 인터넷을 지향하는 사명 중심 조직입니다. { -brand-name-mozilla-corporation }의 수익 대부분은 { -brand-name-firefox } 웹 브라우저 검색 파트너십과 전 세계 배포 거래를 통해 획득한 로열티에서 나옵니다. 우리가 어떻게 수익을 창출하는지에 대해서는 <a href="{ $link }">연간 재무 보고서</a>에서 자세히 알아볼 수 있습니다.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = 좋습니다, 이제 본격적으로 질문해 보도록하죠. 어떤 데이터를 수집합니까?
 # Variables:
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = 어느정도요. 위에 설명한 
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = 우리는 또한 <a href="{ $link }">연구</a>를 위해 사전 출시에서 추가 데이터를 수집할 수 있습니다. 예를 들어 일부 연구에서는 특정 웹 사이트에 대한 URL 및 기타 정보가 포함될 수 있는 “웹 활동 데이터”를 필요로합니다. 예를 들어 특정 지역의 인기있는 웹 사이트를 보다 잘 통합하는 방법 같이 { -brand-name-firefox } 개선을 위한 특정 질문에 대한 답을 얻도록 도움을 줍니다.
-privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } 시험판 버전은 개발 플랫폼이어서 실험용 기능이 자주 업데이트됩니다. 실험적 기능이 작동하는 방식을 이해하기 위해 출시 전보다 더 많은 데이터를 수집합니다. 환경 설정에서 이 데이터를 수집하지 않도록 선택할 수 있습니다.
+privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla }의 { -brand-name-firefox } 출시전 버전은 개발 플랫폼이어서 실험용 기능이 자주 업데이트됩니다. 실험적 기능이 작동하는 방식을 이해하기 위해 출시 전보다 더 많은 데이터를 수집합니다. 환경 설정에서 이 데이터를 수집하지 않도록 선택할 수 있습니다.
 privacy-faq-but-why-do-you-collect-any-data = 그런데 모든 데이터를 왜 수집합니까?
 privacy-faq-if-we-dont-know-how-the-browser = 브라우저의 작동 방식이나 사람들이 사용하는 기능을 알 수 없다면 더 나은 제품을 제공하고 원하는 제품을 제공 할 수 없습니다. 우리는 사람들의 프라이버시를 존중하면서 제품에 대한 현명한 결정을 내릴 수 있도록 데이터 수집 및 분석 도구를 구축하는 데 투자해왔습니다.
 privacy-faq-data-collection-still-bugs-me = 제게 데이터 수집은 여전히 버그입니다. 내가 끌 수 있을까요?

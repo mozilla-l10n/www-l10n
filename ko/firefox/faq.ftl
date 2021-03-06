@@ -29,7 +29,7 @@ is-chrome-better = { -brand-name-chrome }이 { -brand-name-firefox }보다 나�
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
-see-how-firefox = <a href="{ $url }">{ -brand-name-firefox }와 { brand-name-chrome }을 비교해 보세요</a>.
+see-how-firefox = <a href="{ $url }">{ -brand-name-firefox }와 { -brand-name-chrome }을 비교해 보세요</a>.
 is-firefox-safe-download = { -brand-name-firefox }는 다운로드해도 안전한가요?
 
 # Variables:
@@ -57,7 +57,7 @@ does-firefox-have = { -brand-name-firefox }에 내장 VPN이 있나요?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 related-questions-ip = 관련 질문: { -brand-name-firefox }가 IP 주소를 숨시나요?
 who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
