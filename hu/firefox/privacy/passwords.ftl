@@ -34,6 +34,10 @@ privacy-passwords-a-closed-lock = Egy zárt lakat jelenik meg a weboldal címe e
 privacy-passwords-the-lock-means = A zár azt jelenti, hogy a használt weboldal titkosított, így ha valaki figyeli is a böngészését a hálózaton (például egy másik személy egy nyilvános WiFi hálózaton), nem fogja látni a jelszavát. A { -brand-name-firefox } megpróbálja figyelmeztetni, hogy arra készül, hogy nem titkosított oldalon adja meg a jelszavát.
 privacy-passwords-a-padlock-with = Az áthúzott lakat azt jelzi, hogy a kapcsolat nem biztonságos.
 privacy-passwords-strength-in-diversity = Erő a sokszínűségben
+privacy-passwords-the-secret-to = A találgatás, lopás vagy jelszó-visszaállítás megakadályozásának titka a sok véletlenszerűség. Amikor a támadók megpróbálnak jelszavakat kitalálni, általában két dolgot tesznek: 1) „szótárakat” használnak - az emberek folyamatosan használt gyakori jelszavak listáit, és 2) véletlenszerűen találgatnak. <strong>Minél hosszabb és véletlenszerűbb a jelszava</strong>, annál kevésbé valószínű, hogy e találgatási technikák megtalálják.
+#   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
+#   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
+privacy-passwords-when-an-attacker = Amikor egy támadó ellopja egy Ön által használt webhely jelszó-adatbázisát (például a <a { $url_linkedin }>LinkedIn</a>ét vagy a <a { $url_yahoo }Yahoo</a>-ét), nem tehet mást, mint megváltoztatni a jelszavát az adott webhelyhez. Ez rossz, de a károk sokkal rosszabbak lehetnek, ha e jelszót újra felhasználta más webhelyeken – akkor a támadó e webhelyeken is hozzáférhet a fiókjához. A károk megelőzése érdekében <strong>mindig használjon különböző jelszavakat a különböző webhelyekhez.</strong>
 privacy-passwords-security-questions-my = Biztonsági kérdések: Anyám leánykori neve „Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Kérjen segítséget egy jelszókezelőtől
 privacy-passwords-twofactor-authentication-2fa = Kétlépcsős hitelesítés (2FA)
