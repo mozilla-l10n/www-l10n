@@ -1,0 +1,72 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+navigation-v2-mozilla = { -brand-name-mozilla }
+navigation-v2-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ
+navigation-v2-menu = ਮੇਨੂ
+
+## Firefox menu
+
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } ਮੇਨੂ ਬੰਦ ਕਰੋ
+navigation-v2-firefox-for-desktop = ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox }
+navigation-v2-get-the-not-for-profit-backed = { -brand-name-windows }, { -brand-name-mac-short } ਜਾਂ { -brand-name-linux } ਲਈ ਫਾਇਦੇ ਵਾਸਤੇ ਨਾ ਬਣਾਇਆ ਗਿਆ ਬਰਾਊਜ਼ਰ ਲਵੋ।
+navigation-v2-firefox-for-android = { -brand-name-android } ਲਈ { -brand-name-firefox }
+navigation-v2-get-the-customizable-mobile = { -brand-name-android } ਸਮਾਰਟ-ਫ਼ੋਨਾਂ ਲਈ ਲੋੜ ਮੁਤਾਬਕ ਢਲਣ ਵਾਲਾ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ।
+navigation-v2-firefox-for-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox }
+navigation-v2-get-the-mobile-browser = ਆਪਣੇ { -brand-name-iphone } ਜਾਂ { -brand-name-ipad } ਲਈ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ।
+navigation-v2-privacy-promise = ਪਰਦੇਦਾਰੀ ਦਾ ਇਕਰਾਰ
+navigation-v2-learn-how-firefox-treats = ਜਾਣੋ ਕਿ { -brand-name-firefox } ਤੁਹਾਡੇ ਡਾਟੇ ਦਾ ਮਾਣ ਕਿਵੇਂ ਰੱਖਦਾ ਹੈ।
+navigation-v2-firefox-blog = { -brand-name-firefox } ਬਲੌਗ
+navigation-v2-read-about-new-firefox-features = ਨਵੇਂ { -brand-name-firefox } ਫ਼ੀਚਰਾਂ ਤੇ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਦੇ ਢੰਗਾਂ ਬਾਰੇ ਪੜ੍ਹੋ।
+navigation-v2-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
+navigation-v2-get-the-details-on-the = ਨਵੇਂ ਨਕੋਰ { -brand-name-firefox } ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਵੇਰਵੇ ਲਵੋ।
+navigation-v2-view-all-firefox-browsers = ਸਾਰੇ { -brand-name-firefox-browsers } ਵੇਖੋ
+
+## Products menu
+
+navigation-v2-products = ਉਤਪਾਦ
+navigation-v2-close-products-menu = ਉਤਪਾਦ ਮੇਨੂ ਬੰਦ ਕਰੋ
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = ਵੇਖੋ ਕਿ ਕੀ ਤੁਹਾਡੀ ਈਮੇਲ ਕੰਪਨੀ ਦੇ ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਵਿੱਚ ਆਈ ਤਾਂ ਨਹੀ ਹੈ।
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } ਨੂੰ ਉਹਨਾਂ ਦੀ ਵੈੱਬਸਾਈਟ ਤੋਂ ਬਾਹਰ ਤੁਹਾਡਾ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਤੋਂ ਰੋਕਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਾਹਰ ਵੀ ਸੁਰੱਖਿਆ ਲਵੋ, ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ।
+navigation-v2-product-promise = ਉਤਪਾਦ ਦਾ ਇਕਰਾਰ
+navigation-v2-learn-how-each-firefox-product = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ ਹਰ { -brand-name-firefox } ਉਤਪਾਦ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਤੇ ਮਾਣ ਦਿੰਦਾ ਹੈ।
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ਬੀਟਾ)
+navigation-v2-sign-up-for-new-accounts = ਨਵੇਂ ਖਾਤਿਆਂ ਲਈ ਬਿਨਾਂ ਆਪਣਾ ਈਮੇਲ ਐਡਰੈਸ ਦਿੱਤੇ ਸਾਈਨ ਅੱਪ ਕਰੋ।
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (ਬੀਟਾ)
+navigation-v2-protect-your-browsers-connection = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੇ ਕਨੈਕਸ਼ਨ ਨੂੰ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ।
+navigation-v2-view-all-products = ਸਾਰੇ ਉਤਪਾਦ ਵੇਖੋ
+
+## Who We Are menu
+
+navigation-v2-who-we-are = ਅਸੀਂ ਕੌਣ ਹਨ
+navigation-v2-close-who-we-are-menu = ਅਸੀਂ ਕੌਣ ਹਾਂ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = ਹਿੱਸਾ ਲਵੋ
+navigation-v2-join-the-fight-for-a = ਚੰਗੇ ਇੰਟਰਨੈੱਟ ਲਈ ਜੰਗ ਵਿੱਚ ਹਿੱਸਾ ਪਾਓ।
+navigation-v2-leadership = ਅਗਵਾਈ
+navigation-v2-careers = ਕੈਰੀਅਰ
+navigation-v2-mozilla-blog = { -brand-name-mozilla } ਬਲੌਗ
+navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ਅਤੇ ਸਾਡੇ ਉੱਤੇ ਅਸਰ ਪਾਉਣ ਵਾਲੇ ਮਸਲਿਆਂ ਬਾਰੇ ਜਾਣੋ।
+navigation-v2-more-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ ਹੋਰ
+
+## Innovation menu
+
+navigation-v2-innovation = ਖੋਜਾਂ
+navigation-v2-close-innovation-menu = ਖੋਜ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-more-mozilla-innovation = ਹੋਰ { -brand-name-mozilla } ਖੋਜ
