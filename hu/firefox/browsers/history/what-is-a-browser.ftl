@@ -17,5 +17,8 @@ what-is-a-browser-in-a-short-period-long = Rövid idő alatt eljutottunk az azon
 what-is-a-browser-in-a-short-period = Rövid idő alatt eljutottunk onnan, hogy elámulunk attól, hogy az e-mailt küldünk valakinek a világ túlsó felére, addig, hogy teljesen máshogy gondolkozunk az információkról.
 what-is-a-browser-how-does-a-web = Hogy működik a webböngésző?
 what-is-a-browser-a-web-browser-long = Egy webböngésző bárhová elviszi az interneten. Információkat szerez be a web más részeiről, és megjeleníti az asztali vagy mobileszközén. Az információk HTTP (Hypertext Transfer Protocol – hiperszöveg-átviteli protokoll) segítségével kerülnek átadásra, amely meghatározza a szövegek, képek és videók átviteli módját a weben. Ezeket az információkat konzisztens formátumban kell megosztani és megjeleníteni, hogy az emberek bármilyen böngészővel megtekinthessék, bárhol is legyenek a világon.
+# Variables:
+#   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
+what-is-a-browser-sadly-not-all = Sajnos nem minden böngészőgyártó dönt úgy, hogy ugyanúgy értelmezi a formátumot. A felhasználók számára ez azt jelenti, hogy egy weboldal máshogy néz ki és működhet. A böngészők közti konzisztenciát a <a href="{ $standards }">webes szabványok</a> teszik lehetővé, így bármely felhasználó élvezheti az internetet, a választott böngészőjétől függetlenül.
 what-is-a-browser-cookies-not-the = Sütik (nem a finom fajta)
 what-is-a-browser-understanding = Az adatvédelem megértése
