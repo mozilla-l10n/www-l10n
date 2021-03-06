@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Ujjlenyomat-készítők blokkolása
 features-index-translate-the-web = A web lefordítása
 features-index-translate-more-than = Fordítson több mint 100 nyelvről magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
 features-index-translate-to-your = Fordítsa le magyarra
+features-index-picture-in-picture = Kép a képben
+features-index-got-things-to-do = Dolga van, de nézne valamit? Tegye mindkettőt a { -brand-name-firefox } kép a képben funkciójával.
