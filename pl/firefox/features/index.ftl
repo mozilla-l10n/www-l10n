@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Blokuj śledzenie przez zbieranie informac
 features-index-translate-the-web = Przetłumacz Internet
 features-index-translate-more-than = Tłumacz z ponad 100 języków na swój język bezpośrednio w { -brand-name-firefox-browser(case: "dat", capitalization: "lower") } — łatwiej niż kiedykolwiek.
 features-index-translate-to-your = Tłumacz na swój język
+features-index-picture-in-picture = Obraz w obrazie
+features-index-got-things-to-do = Masz coś do zrobienia i coś do obejrzenia? Skorzystaj z funkcji „Obraz w obrazie” w { -brand-name-firefox(case: "loc") }!

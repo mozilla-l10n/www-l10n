@@ -12,6 +12,8 @@ newsletters-mozilla-newsletter = Biuletyn { -brand-name-mozilla(case: "gen") }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Przeczytaj więcej na ten<br /> temat w naszym <span>biuletynie</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-here-to-keep-current = Subskrybuj, aby być na bieżąco z najnowszymi wieściami dotyczącymi { -brand-name-mozilla(case: "gen") }, podejmować działania na rzecz zdrowszego Internetu i mądrzej z niego korzystać.
+# Outdated string
 newsletters-subscribe-to-updates-and-keep = Subskrybuj comiesięczne aktualizacje, aby być na bieżąco z najnowszymi wieściami dotyczącymi { -brand-name-mozilla(case: "gen") }. To idealny sposób na utrzymanie z nami kontaktu!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potwierdzenie subskrypcji
