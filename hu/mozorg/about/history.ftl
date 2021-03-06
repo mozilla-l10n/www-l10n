@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = A { -brand-name-mozilla } projekt története
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = A <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a>-t 2004-ben adták ki, és nagy sikert aratott – kevesebb mint egy év alatt <a href="{ $millions }">több mint 100 milliószor</a> töltötték le.
 history-mozilla-also-celebrated = A { -brand-name-mozilla } 2013-ban ünnepelte a 15. évfordulóját.
 history-the-future-is-full-of-challenges = A jövő legalább annyira tele van kihívásokkal és lehetőségekkel, mint a múlt.
 history-theres-no-guarantee-that = Nincs garancia arra, hogy az internet továbbra is nyílt, élvezetes vagy biztonságos marad.
