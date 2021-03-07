@@ -7,6 +7,7 @@
 
 # html page title
 whatsnew81-page-title = { -brand-name-firefox } के साथ नया क्या है
+# Main title
+whatsnew81-main-title = हर डिवाइस के लिए एक नया { -brand-name-firefox }
 whatsnew81-send-form-label = डाउनलोड लिंक के लिए अपना ईमेल दर्ज करें
-whatsnew81-send-form-label-alt = डाउनलोड लिंक के लिए अपना ईमेल या फोन नंबर दर्ज करें
 whatsnew81-scan-this-qr-code = डाउनलोड करने के लिए इस QR कोड को स्कैन करें

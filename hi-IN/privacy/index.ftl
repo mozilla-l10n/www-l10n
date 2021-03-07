@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = मोज़िला गोपनीयता
@@ -29,4 +29,13 @@ privacy-index-to-review-and-comment-on-proposed = हमारी गोपन�
 privacy-index-read-more-about-our-ongoing = हमारी गोपनीयता और सार्वजनिक सुरक्षा नीति के लिए चल रहे कार्य के बारे में <a href="{ $blog }">{ -brand-name-mozilla } की मुक्त निति एवं अधिवक्तृता ब्लॉग</a> पर और अधिक पढ़ें।
 privacy-index-outdated-policies = अप्रचलित नीतियां
 privacy-index-mozilla-websites-communications = मोज़िला वेबसाइट्स, संचार &amp; कुकीज़
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = फायर टीवी के लिए { -brand-name-firefox }

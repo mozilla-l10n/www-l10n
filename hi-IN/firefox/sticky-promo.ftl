@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+# Products List
+firefox-sticky-promo-browsers = ब्राउज़र
 firefox-sticky-promo-monitor = { -brand-name-monitor }
 firefox-sticky-promo-lockwise = { -brand-name-lockwise }
 firefox-sticky-promo-pocket = { -brand-name-pocket }

@@ -14,6 +14,7 @@ navigation-v2-firefox-for-desktop = डेस्कटॉप के लिए { 
 navigation-v2-firefox-for-android = { -brand-name-android } के लिए { -brand-name-firefox }
 navigation-v2-firefox-for-ios = { -brand-name-ios } के लिए { -brand-name-firefox }
 navigation-v2-firefox-blog = { -brand-name-firefox } ब्लॉग
+navigation-v2-view-all-firefox-browsers = सभी { -brand-name-firefox-browsers } देखें
 
 ## Products menu
 
