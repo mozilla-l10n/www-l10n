@@ -7,12 +7,20 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Οδηγός ασφαλείας για συνδέσεις και κωδικούς πρόσβασης
+# HTML page description
+privacy-passwords-more-and-more-desc = Όλο και περισσότερα ευαίσθητα δεδομένα φυλλάσσονται σε διαδικτυακούς λογαριασμούς που προστατεύονται με κωδικούς πρόσβασης. Πώς θα τους προστατέψουμε;
 # page content
 privacy-passwords-a-security-guide = Ένας οδηγός ασφαλείας για συνδέσεις και κωδικούς πρόσβασης
 privacy-passwords-protecting-your-accounts = Η προστασία των λογαριασμών σας δεν χρειάζεται να είναι περίπλοκη — και το { -brand-name-firefox } μπορεί να σάς βοηθήσει.
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Συνοπτικά:
+privacy-passwords-use-random-passwords = Να επιλέγετε τυχαίους κωδικούς πρόσβασης, διαφορετικό για κάθε ιστοσελίδα
+privacy-passwords-pay-attention-to = Να παρατηρείτε τα σήματα ασφαλείας του προγράμματος περιήγησης και να είστε καχύποπτοι
+privacy-passwords-make-your-answers = Να κάνετε τις απαντήσεις σας σε ερωτήσεις ασφαλείας εξίσου ισχυρές με τους κωδικούς πρόσβασής σας
+privacy-passwords-use-a-password = Να χρησιμοποιείτε ένα πρόγραμμα διαχείρισης κωδικών πρόσβασης για εύκολη δημιουργία και απομνημόνευση κωδικών πρόσβασης
+privacy-passwords-use-twofactor-authentication = Να χρησιμοποιείτε “έλεγχο ταυτότητας δύο παραγόντων” όπου μπορείτε
 privacy-passwords-its-hard-out = Ο κόσμος είναι σκληρός για έναν κωδικό πρόσβασης
+privacy-passwords-look-for-the = Αναζητήστε το λουκέτο στο πρόγραμμα περιήγησής σας
 privacy-passwords-a-padlock-with = Ένα λουκέτο με μια γραμμή υποδεικνύει ότι η σύνδεση δεν είναι ασφαλής.
 privacy-passwords-firefox-will = Το Firefox σάς προειδοποιεί αν μια ιστοσελίδα είναι γνωστή για ηλεκτρονικό ψάρεμα (phishing).
 privacy-passwords-strength-in-diversity = Η δύναμη της πολυπολιτισμικότητας
