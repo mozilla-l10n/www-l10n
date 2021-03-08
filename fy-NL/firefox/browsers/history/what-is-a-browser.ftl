@@ -23,6 +23,13 @@ what-is-a-browser-sadly-not-all = Spitigernôch kieze net alle browsermakkers de
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Wannear de webbrowser gegevens ophellet fan in mei it ynternet ferbûne server, brûkt dizze in stikje software, in rendering engine neamd, om dy gegevens yn tekst en ôfbyldingen oer te setten. Dizze gegevens binne skreaun yn <a href="{ $html }">Hypertext Markup Language</a> (HTML) en webbrowsers lêze dizze koade om te kreëarjen wat wy op it ynternet sjogge, hearre en ûnderfine.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = Mei <a href="{ $hyperlink }">hyperlinks</a> kinne brûkers in paad folgje nei oare sidena of websites op ynternet. Elke webside, ôfbylding en fideo hat in eigen unike <a href="{ $url }">Uniform Resource Locator</a> (URL), ek wol bekend as in webadres. Wannear't in browser in server foar gegevens besiket, fertelt it webadres de browser wêr't hy sykje moat foar elk item dat beskreaun wurdt yn de html, dat ferfolgens de browser fertelt wêr't dizze op de webside nei ta giet.
 what-is-a-browser-cookies-not-the = Koekjes (net de lekkere soarte)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Websites bewarje ynformaasje oer jo yn bestannen dy't <a href="{ $cookies }">cookies</a> neamd wurde. Se wurde op jo kompjûter bewarre foar de folgjende kear dat jo dy website besykje. As jo werom komme lêst de websitekoade dat bestân om te sjen dat jo it binne. Wannear't jo bygelyks nei in website gean, ûnthâldt de side jo brûkersnamme en wachtwurd – dat wurdt mooglik makke troch in cookie.
 what-is-a-browser-understanding = Ynsjoch yn privacy
 what-is-a-browser-making-your-web = Lit jo webbrowser foar jo wurkje
