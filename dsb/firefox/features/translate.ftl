@@ -10,6 +10,7 @@ features-translate-translate-the-web-title = Pśełožujśo web - direktnje w sw
 # page description
 features-translate-translate-more-than = Pśełožujśo z wěcej ako 100 rěcow do swójeje rěcy direktnje w swójom { -brand-name-firefox-browser } - lažčej ako do togo.
 features-translate-translate-the-web = Pśełožujśo web z { -brand-name-firefox }
+features-translate-the-google-translate = Rozšyrjenje To { -brand-name-google } Translate za { -brand-name-firefox } swětoju web pśistupni.
 features-translate-to-google-translate = K { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Wobstarajśo se rozšyrjenje
