@@ -32,5 +32,5 @@ facebook-container-installing-the-extension-is = Mae gosod yr <a href="{ $fbcont
 facebook-container-about-firefox-and-mozilla = Ynghylch { -brand-name-firefox } a { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Rydym yn cael ein cefnogi gan <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, y corff ddim-er-elw sy'n rhoi pobl cyn elw er mwyn rhoi mwy o rym i bawb ar-lein. Rydym wedi creu'r estyniad yma gan ein bod yn credu y dylech gael offer hawdd eu defnyddio i'ch helpu i reoli eich preifatrwydd a'ch diogelwch.
+facebook-container-were-backed-by-mozilla-the = Rydym yn cael ein cefnogi gan <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, y corff nid-er-elw sy'n rhoi pobl cyn elw er mwyn rhoi mwy o rym i bawb ar-lein. Rydym wedi creu'r estyniad yma gan ein bod yn credu y dylech gael offer hawdd eu defnyddio i'ch helpu i reoli eich preifatrwydd a'ch diogelwch.
 facebook-container-browse-freely-with-firefox = Porwch yn rhydd gyda { -brand-name-firefox } heddiw.

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-new-download-firefox = Llwytho { -brand-name-firefox } i Lawr
-firefox-new-download-mozilla-firefox = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, dim-er-elw sydd a'i fryd ar roi grym i unigolion ar-lein. Defnyddiwch { -brand-name-firefox } ar { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ac { -brand-name-ios } heddiw!
+firefox-new-download-mozilla-firefox = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, nid-er-elw sydd a'i fryd ar roi grym i unigolion ar-lein. Defnyddiwch { -brand-name-firefox } ar { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ac { -brand-name-ios } heddiw!
 firefox-new-download-the-fastest-firefox = Llwythwch i lawr y { -brand-name-firefox } cyflymaf erioed
 firefox-new-faster-page-loading-less-memory = Llwytho tudalennau cynt, llai o ddefnydd o gof, ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd wedi cyrraedd.
 firefox-new-automatic-privacy-is-here = Mae preifatrwydd awtomatig yma. Llwythwch { -brand-name-firefox } i lawr i rwystro dros 2000 o dracwyr.

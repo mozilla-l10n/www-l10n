@@ -10,7 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Llwythwch { -brand-name-firefox-browser } - Cyflym, Preifat ac Am Ddim - gan { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Cael { -brand-name-firefox }, porwr gwe am ddim gan { -brand-name-mozilla }, corff dim-er-elw sy'n ymroddedig i iechyd a phreifatrwydd y rhyngrwyd. Ar gael nawr ar { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
+firefox-desktop-download-meta-desc = Cael { -brand-name-firefox }, porwr gwe am ddim gan { -brand-name-mozilla }, corff nid-er-elw sy'n ymroddedig i iechyd a phreifatrwydd y rhyngrwyd. Ar gael nawr ar { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 firefox-desktop-download-og-title = Llwythwch i lawr y { -brand-name-firefox } cyflymaf erioed
 firefox-desktop-download-og-desc = Llwytho tudalennau cynt, llai o ddefnydd o gof ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd yma.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -96,7 +96,7 @@ firefox-desktop-download-go-from-light = Mynd o'r modd golau i'r modd tywyll yn 
 firefox-desktop-download-tweak-your-settings = Addasu eich gosodiadau
 firefox-desktop-download-theres-no-need = Does dim angen bodloni. Gallwch newid y dudalen tab newydd, bar chwilio, nodau tudalen a mwy i grwydro'r rhyngrwyd yn y ffordd rydych chi ei eisiau.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Gyda chefnogaeth y corff <strong>dim-er-elw</strong> sy'n rhoi pobl yn gyntaf
+firefox-desktop-download-backed-by-the = Gyda chefnogaeth y corff <strong>nid-er-elw</strong> sy'n rhoi pobl yn gyntaf
 firefox-desktop-download-challenging-the-status = Yn herio'r sefydliad er 1998
 firefox-desktop-download-your-privacy-comes = Eich preifatrwydd yn flaenoriaeth
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

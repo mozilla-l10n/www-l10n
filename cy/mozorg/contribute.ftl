@@ -10,7 +10,7 @@
 
 contribute-page-title = Cyfleoedd i Wirfoddoli gyda { -brand-name-mozilla }
 contribute-page-heading = Mae angen eich doniau ar gyfer gwell rhyngrwyd
-contribute-page-intro = Mae { -brand-name-mozilla } yn sefydliad dim-er-elw sy'n gweithio i sicrhau bod y rhyngrwyd yn agored ac yn groesawgar i bawb. Mae angen eich help arnom ni. Trwy ymuno â'n cymuned, gallwch chi helpu i yrru arloesedd, gwella atebolrwydd ac ymddiriedaeth a gwneud y rhyngrwyd yn lle gwell i bawb.
+contribute-page-intro = Mae { -brand-name-mozilla } yn sefydliad nid-er-elw sy'n gweithio i sicrhau bod y rhyngrwyd yn agored ac yn groesawgar i bawb. Mae angen eich help arnom ni. Trwy ymuno â'n cymuned, gallwch chi helpu i yrru arloesedd, gwella atebolrwydd ac ymddiriedaeth a gwneud y rhyngrwyd yn lle gwell i bawb.
 contribute-how-heading = Sut y gallwch chi gyfrannu…
 
 ## Contribution tasks

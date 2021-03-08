@@ -15,7 +15,7 @@ what-is-firefox = Beth yw { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
-the-firefox-browser = Y porwr { -brand-name-firefox-browser } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw sydd ddim yn gwerthu eich data personol i hysbysebwyr tra'n eich helpu i diogelu eich manylion personol. Dysgu rhagor am y <a href="{ $url }"> { -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">chynnyrch eraill.</a>
+the-firefox-browser = Y porwr { -brand-name-firefox-browser } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff nid-er-elw sydd ddim yn gwerthu eich data personol i hysbysebwyr tra'n eich helpu i diogelu eich manylion personol. Dysgu rhagor am y <a href="{ $url }"> { -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">chynnyrch eraill.</a>
 how-do-i = Sut mae cael { -brand-name-firefox-browser }?
 
 # Variables:
@@ -70,7 +70,7 @@ does-firefox-have = A yw { -brand-name-firefox } yn cynnig VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = Nid oes gan { -brand-name-firefox } VPN (rhwydwaith preifat rhithwir) mewnol, ond mae yna ddau gynnyrch sy'n cael eu darparu gan { -brand-name-mozilla }/{ -brand-name-firefox } y gallwch eu defnyddio yn ychwanegol at y porwr preifat { -brand-name-firefox-browser } sy'n gallu diogelu naill ai'ch porwr (<a href="{ $url }">{ -brand-name-firefox-private-network } </a>) neu gysylltiad eich dyfais (<a href="{ $url2 }">{ -brand-name-mozilla-vpn } </a>) ar WiFi, yn ogystal â'ch cyfeiriad IP.
 related-questions-ip = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn cuddio'ch cyfeiriad IP

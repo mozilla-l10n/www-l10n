@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = Erbyn 2002, roedd <a href="{ $over90 }">dros 90% 
 history-not-many-people-noticed = Doedd dim llawer wedi sylwi ar y pryd ond ryddhawyd y fersiwn cyntaf o Phoenix ({ -brand-name-firefox } yn ddiweddarach) gan aelodau cymuned { -brand-name-mozilla } gyda, nod o ddarparu'r <a href="{ $charter }">profiad pori gorau posib</a> i'r nifer mwyaf o bobl.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = Yn 2003 creodd project { -brand-name-mozilla } y { -brand-name-mozilla-foundation }, <a href="{ $foundation }">corff dim-er-elw annibynnol</a> yn cael ei gynnal gan gyfranwyr unigol a nifer o gwmnïau.
+history-in-2003-the-mozilla-project = Yn 2003 creodd project { -brand-name-mozilla } y { -brand-name-mozilla-foundation }, <a href="{ $foundation }">corff nid-er-elw annibynnol</a> yn cael ei gynnal gan gyfranwyr unigol a nifer o gwmnïau.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Parhaodd y { -brand-name-mozilla-foundation } y gwaith o gynnal y gwaith o ddydd i ddydd a hefyd y gwaith o hyrwyddo <a href="{ $manifesto }">bod yn agored, dyfeisgar a chyfle</a> ar y we.

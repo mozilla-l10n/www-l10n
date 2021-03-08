@@ -9,9 +9,8 @@
 whatsnew81-page-title = Beth sy'n newydd gyda { -brand-name-firefox }
 # Main title
 whatsnew81-main-title = { -brand-name-firefox } newydd ar bob dyfais
-whatsnew81-main-intro = Pa bynnag system weithredu sydd gennych, mae porwr symudol gwell nag erioed, gan gorff dim-er-elw i'w roi arno.
+whatsnew81-main-intro = Pa bynnag system weithredu sydd gennych, mae porwr symudol gwell nag erioed, gan gorff nid-er-elw i'w roi arno.
 whatsnew81-send-form-label = Rhowch eich e-bost i gael dolen llwytho i lawr
-whatsnew81-send-form-label-alt = Rhowch eich e-bost neu'ch rhif ffôn i gael dolen llwytho i lawr
 whatsnew81-scan-this-qr-code = Sganiwch y cod QR hwn i'w lwytho i lawr
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Mae'r { -brand-name-firefox } NEWYDD ar gyfer { -brand-name-android } yma
