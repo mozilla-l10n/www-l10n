@@ -9,6 +9,9 @@ browser-history-browser-history = Kundahára rembiasakue: ñorairõ guasu pokat�
 browser-history-the-browser-wars-underdogs-giants = Umi kundahára ñorairõ, umi michĩvéva tuichavéva rovake ha omoambuéva arapy. Emoñe’ẽ ñanduti kundahára rembiasakue.
 browser-history-the-history-of-web = Ñanduti kundahára rembiasakue
 browser-history-before-web-era = Ñanduti mboyveguare
+# Variables:
+#   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
+browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> ha’e apopyrã ñandutigua peteĩha oikoitéva ha 1969 jave oñemondo pe ñe’ẽmondo peteĩha Universidad de California, Los Ángeles (UCLA) rembipurupyahu rekohatee guive Instituto de Investigación de Stanford (SRI)-pe, avei California-gua.
 browser-history-web-era = Ñanduti oĩ rire
 browser-history-a-year-later-berners = Peteĩ ary rire, Berners-Lee ojerure Nicola Pellow-pe, oñembokatupyrýva matemática CERN-pe, ohaíva Line Mode Browser, apopyrã mohendaha peguakuéra.
 browser-history-the-browser-wars = Kundaharakuéra ñeñorairõ
