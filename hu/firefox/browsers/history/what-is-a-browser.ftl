@@ -35,3 +35,4 @@ what-is-a-browser-there-are-also = Vannak olyan sütik is, amelyek részletesebb
 what-is-a-browser-when-you-go-to = Mikor meglátogat egy webhelyet, s az oldal megjegyzi a felhasználónevét és jelszavát – ezt egy süti teszi lehetővé.
 what-is-a-browser-understanding = Az adatvédelem megértése
 what-is-a-browser-making-your-web = Dolgozzon Önnek a webböngésző
+what-is-a-browser-most-major-web = A legtöbb nagy webböngésző lehetővé teszi a felhasználók számára, hogy kiegészítőkkel módosítsák az élményüket. A kiegészítők olyan szoftverdarabkák, melyekkel testreszabhatók a meglévő funkciók, vagy újak adhatók hozzá. A kiegészítők sokféle szórakoztató és gyakorlatias dolgokra képesek: új funkciók lehetővé tétele, idegen nyelvű szótárak vagy vizuális megjelenések és témák.
