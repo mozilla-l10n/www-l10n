@@ -34,3 +34,4 @@ what-is-a-browser-websites-save = A webhelyek <a href="{ $cookies }">sütiknek</
 what-is-a-browser-there-are-also = Vannak olyan sütik is, amelyek részletesebb információkat jegyeznek meg Önről. Ezek szólhatnak az érdeklődési köreiről, böngészési szokásairól stb. Ez azt jelenti, hogy az oldal célzott tartalommal láthatja el – gyakran reklámok formájában. Vannak más fajta sütik is, az ún. <em>harmadik féltől származó</em> sütik, melyek olyan oldalakról származnak, melyeket fel sem keresett abban a pillanatban, de követhetik az oldalak közt, és információkat gyűjthetnek Önről, melyet néha más cégeknek is eladnak.  Néha blokkolhatja ezeket a sütiket, de nem minden böngésző teszi ezt lehetővé.
 what-is-a-browser-when-you-go-to = Mikor meglátogat egy webhelyet, s az oldal megjegyzi a felhasználónevét és jelszavát – ezt egy süti teszi lehetővé.
 what-is-a-browser-understanding = Az adatvédelem megértése
+what-is-a-browser-making-your-web = Dolgozzon Önnek a webböngésző
