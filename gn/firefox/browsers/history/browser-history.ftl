@@ -15,6 +15,7 @@ browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> ha’e apop
 browser-history-web-era = Ñanduti oĩ rire
 browser-history-a-year-later-berners = Peteĩ ary rire, Berners-Lee ojerure Nicola Pellow-pe, oñembokatupyrýva matemática CERN-pe, ohaíva Line Mode Browser, apopyrã mohendaha peguakuéra.
 browser-history-the-browser-wars = Kundaharakuéra ñeñorairõ
+browser-history-other-competitors = Opakuévo arykuéra 90 pegua ha oñepyrũvo 2000 heñói ambuéva, oĩhápe { -brand-name-opera }, { -brand-name-safari }, ha { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } omyengovia { -brand-name-ie }-pe oguenohẽvo { -brand-name-windows } 10 ary 2015 jave.
 browser-history-browsing-the-web = Aikundaha ñandutípe ko árape
 browser-history-resources = Mba’eita
 browser-history-take-control-of = Ejapyhy ne kundaha jepuru.
