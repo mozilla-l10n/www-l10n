@@ -81,4 +81,5 @@ firefox-developer-this-isnt-just-an-update = Kóva ndaha’éi ñembohekopyahu a
 firefox-developer-welcome-to-firefox-browser = Eg̃uahẽporãite { -brand-name-firefox-browser } { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g̃uarã
 firefox-developer-all-the-latest = Opaite tembipuru mboguatahárape g̃uarã ipyahúva beta rehegua, avei <strong>tembiapoite ipyahúva</strong> mba’e’oka mbosako’iha itairendaetáva ha WebSocket mbohekoha.
+firefox-developer-a-separate-profile = Pe <strong>mba’ete ha tape ojeipyre</strong> ikatu hag̃ua emomba’apo hasy’ỹre oñondive ha’etéva ndide térã { -brand-name-beta } { -brand-name-firefox } mba’éva ndive.
 firefox-developer-congrats-you-now-have = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } { -brand-name-developer-edition }.
