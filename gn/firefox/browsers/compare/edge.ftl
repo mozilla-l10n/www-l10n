@@ -11,6 +11,7 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } térã { 
 compare-edge-compare-microsoft-edge-to-the = Romoñondive { -brand-name-microsoft } { -brand-name-edge } rehe { -brand-name-firefox-browser } roikuaa hag̃ua máva pe kundahára oikoporãvéva.
 # Main title.
 compare-edge-comparing-firefox-browser-with = Romoñondive { -brand-name-firefox-browser } { -brand-name-microsoft } { -brand-name-edge } ndive
+# Obsolete string
 compare-edge-with-windows-10-microsoft-introduced = { -brand-name-windows } 10 ndive, { -brand-name-microsoft } ohechauka ikundahára { -brand-name-edge } oñorairõtava { -brand-name-firefox } ha { -brand-name-chrome } ndive, ojapóvo chugui kundahára ijypykuéva oñemohendáva hetai mohendahápe. Péicharõ jepe, umi puruhára hasýpe oipuru ha { -brand-name-microsoft } ipahápe he’i mba’éichapa onohẽjeýta { -brand-name-edge } { -brand-name-chromium } kundaháraramo ({ -brand-name-chromium }, ha’e, apopyrã kundahára ijayvu jurujáva { -brand-name-google } mba’éva).
 compare-edge-here-well-compare-our-firefox = Ápe rombojovakéta ore { -brand-name-firefox-browser } ha { -brand-name-chromium } ndive { -brand-name-microsoft } { -brand-name-edge } he’iháicha ñemigua rupive, iporãngue ha ijeku’ekuaa, ne pytyvõkuaáva ehesa’ỹijo porãve hag̃ua mba’e kundahára ouporãve ndéve ha eguerohoryvéva.
 # "SmartScreen" and "Windows Hello" are brand names.
@@ -30,6 +31,7 @@ compare-edge-edge-has-some-nice-ui-features = { -brand-name-edge } oreko peteĩc
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 compare-edge-firefox-features-a-scrolling = { -brand-name-firefox } ohechauka mba’erechaha rendayke ñemongu’ekuaa ndive ohechaukáva tendayke marandu ha omongu’e yvate gotyo omomichĩrangue kuatiarogue ra’ãnga’ícha. Avei, embojurujajeývo tendayke pyahu, ore <a { $attrs }>{ -brand-name-pocket } rembiapoite</a> ome’ẽse ndéve moñe’ẽrã ha tetepy iporãva ndéve g̃uarã. Avei, { -brand-name-pocket } ndive, eñongatukuaa, peteĩ jekutu ndive, haipyre, ta’ãngamýi ha ambue tetepy, emoñe’ẽ hag̃ua ag̃ave.
+compare-edge-firefox-and-edge-both-offer = { -brand-name-firefox } ha { -brand-name-edge } ome’ẽ moñe’ẽrã oikóva. { -brand-name-firefox } ndive, epokóntema ta’ãnga’i jehekaha rendápe ha pe kundahára omboguépáta mba’epurukuéra tekoteve’ỹva ha ome’ẽta ndéve jehaipyre ipotĩva. { -brand-name-edge }-pe epokova’erã pe aranduka ra’ãnga’i michĩva eguereko hag̃ua puruhára mba’erechaha ipotĩva ha hasy’ỹva iñemoñe’ẽ.
 compare-edge-firefox-and-edge-both-offer-fallback = { -brand-name-firefox } ha { -brand-name-edge } ome’ẽ moñe’ẽrã oikóva. { -brand-name-firefox } ndive, epokóntema ta’ãnga’i jehekaha rendápe ha kundahára omboguéta mba’epurukuéra tekoteve’ỹva ha ome’ẽ ndéve jehaipyre ipotĩva. { -brand-name-edge }-pe epokova’erã pe aranduka ra’ãnga’i michĩva eguereko hag̃ua puruhára mba’erechaha ipotĩva ha hasy’ỹva iñemoñe’ẽ.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
