@@ -18,7 +18,7 @@ firefox-developer-help-build-the-last = Соңғы тәуелсіз браузе
 firefox-developer-start-now = Қазір бастау
 firefox-developer-design-code-test = Дизайн. Код. Сынау. Жетілдіру.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Сайттарыңызды Firefox әзірлеуші құралдары<br> көмегімен құрастырып, жетілдіріңіз
+firefox-developer-build-and-perfect = Сайттарыңызды { -brand-name-firefox-devtools }<br> көмегімен құрастырып, жетілдіріңіз
 firefox-developer-inspector = Бақылаушы
 firefox-developer-inspect-and-refine = Пиксельдік дәлдікті жайманы құрастыру үшін кодты бақылап, түзетіңіз.
 firefox-developer-console = Консоль
@@ -37,7 +37,7 @@ firefox-developer-performance = Өнімділік
 firefox-developer-memory = Жады
 firefox-developer-style-editor = Стильдер түзеткіші
 firefox-developer-new-tools = Жаңа құралдар
-firefox-developer-firefox-devtools = Firefox әзірлеуші құралдары
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-next-gen-css-engine = Келесі буынды CSS қозғалтқышы
 firefox-developer-a-next-generation = Келесі буынды CSS қозғалтқышы
 firefox-developer-master-innovative-features = Инновациялық мүмкіндіктер
