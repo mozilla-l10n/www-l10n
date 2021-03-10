@@ -18,3 +18,5 @@ features-pip-click-the-picture-in-picture-button = <strong>Eikutu pe votõ Pictu
 features-pip-cruise-around-to-other = <strong>Eikundaha ambue tendayke rupive</strong> térã { -brand-name-firefox } eipuru’ỹre. ¡Pe ta’ãngamýi oĩ ojehecha hag̃uáme!
 features-pip-3-ways-to-use-picture = 3 hendáicha eipurukuaa Picture-in-Picture
 features-pip-watch-a-lecture-or-meeting = Ehecha peteĩ ikatupyýva ñe’ẽ térã aty ehai aja
+features-pip-keep-a-tutorial-video-open = Ereko ta’ãngamýi mbokatupyryrã jurujápe etembi’uapo aja
+features-pip-entertain-cats-dogs-and-kids = Embovy’a mbarakaja, jagua ha mitãnguéra emba’apo aja
