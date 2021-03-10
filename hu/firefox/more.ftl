@@ -69,3 +69,5 @@ firefox-more-translate-the-web = A web lefordítása
 firefox-more-translate-more-than = Fordítson több mint 100 nyelvet magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
 firefox-more-a-guide-to = Útmutató a biztonságosabb bejelentkezésekhez és jelszavakhoz
 firefox-more-more-and-more = Egyre több érzékeny és értékes dolgot őriznek jelszavak az életünkben.
+firefox-more-avoid-misinformation-heading = Kerülje az online félretájékoztatást – a { -brand-name-firefox } segítségére van
+firefox-more-avoid-misinformation-desc = Nézzen meg tippeket, hogy kevesebb téves információt láthasson, és arra koncentrálhasson, ami fontos Önnek.
