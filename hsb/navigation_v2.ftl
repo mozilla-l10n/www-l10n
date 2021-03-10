@@ -12,6 +12,7 @@ navigation-v2-menu = Meni
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Meni { -brand-name-firefox-browsers } začinić
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za Desktop
+navigation-v2-get-the-not-for-profit-backed = Wobstarajće sej wobhladowak za powšitkownosći wužitneje organizacije do { -brand-name-windows }, { -brand-name-mac-short } abo { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Wobstarajće sej přiměrjomny mobilny wobhladowak za smartfony { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
