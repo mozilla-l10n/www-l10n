@@ -69,3 +69,5 @@ firefox-more-translate-the-web = Перекладіть Мережу
 firefox-more-translate-more-than = Перекладайте з понад 100 мов вашою мовою безпосередньо у вашому { -brand-name-firefox-browser } — простіше, ніж будь-коли.
 firefox-more-a-guide-to = Посібник із безпечніших паролів
 firefox-more-more-and-more = Все більше і більше вразливих, цінних речей нашого життя охороняються паролями.
+firefox-more-avoid-misinformation-heading = Уникайте дезінформації в Мережі – { -brand-name-firefox } тут, щоб допомогти
+firefox-more-avoid-misinformation-desc = Ознайомтеся з порадами щодо того, як бачити менше дезінформації та зосередитись на тому, що для вас важливо.
