@@ -24,3 +24,14 @@ misinformation-overly-sensational = Заголовок надмірно сенс
 misinformation-check-out-websites = Перевірте вебсайти та новинарні, яким ви довіряєте, щоб побачити, чи повідомляють вони та як саме вони повідомляють про одну і ту ж тему. Вміст, який призначений для маніпуляцій, часто користується крайнощами та перебільшеннями без доказів і його ви не знайдете в належно перевірених повідомленнях.
 misinformation-content-up-to-date = Чи не застарілий вміст?
 misinformation-outdated-information = Застарілі відомості не обов'язково призначені для дезінформації, але вони можуть бути фактично не правильними.
+misinformation-credible-publication = Чи публікував автор інші статті чи дописи, в ідеалі також у правдоподібних публікаціях?
+misinformation-authors-name = Якщо ви знайдете ім’я автора лише на сумнівних сайтах, не варто надавати великого значення його заявам.
+misinformation-images-captions = Чи збігаються зображення та підписи?
+misinformation-images-are-powerful = Зображення є дуже потужним засобом для цілеспрямованої дезінформації. Залежно від підпису сприйняття можна змінити на абсолютно протилежне. Якщо ви не впевнені, виконайте зворотний пошук зображень, щоб дізнатись, як зображення описується на інших сайтах.
+misinformation-how-firefox-helps-heading = Як { -brand-name-firefox } допомагає уникнути дезінформації
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } стримує елементи стеження:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Як зазначалося раніше, відстеження грає важливу роль у поширенні дезінформації. <a href="{ $firefox }">Користування { -brand-name-firefox }</a> з <a href="{ $protection }">Розширеним захистом від стеження</a> допомагає типово блокувати сторонні елементи стеження від багатьох рекламодавців та інших гравців під час перегляду вебсторінок, щоб ви могли повернути контроль над своїми онлайн-даними.
+misinformation-social-media-clean-heading = { -brand-name-firefox } допомагає підтримувати ваші стрічки суспільних мереж чистими:
