@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } kép 
 features-pip-got-things-to-do-and-things-to-watch = Dolga van, de nézne valamit? Tegye mindkettőt a { -brand-name-firefox } kép a képben funkciójával.
 features-pip-cool-feature-picture-in-picture = Remek funkció: Kép a képben
 features-pip-get-more-done-with-pop-out-videos = Végezzen el több mindent a kiugró videókkal
+features-pip-got-things-to-do-do-both-with = Dolga van, de közben megnézne valamit? Tegye meg mindkettőt, a { -brand-name-firefox } Kép a képben módjával. Ez lehetővé teszi, hogy kiemeljen egy videót a weboldalából, és kitűzze a képernyőjére, így továbbra is nézheti a videót, miközben más oldalakon, lapokon vagy alkalmazásokban van.
 features-pip-play-the-video = Játsszon le a videót
 features-pip-heres-how-it-works = Így működik:
 features-pip-play-any-video-in-your = <strong>Játsszon le bármilyen videót</strong> a { -brand-name-firefox } böngészőben, mint ezt itt, a vörös panda kölykökkel.
