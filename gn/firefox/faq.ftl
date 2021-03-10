@@ -59,7 +59,7 @@ does-firefox-have = ¿{ -brand-name-firefox } oguereko VPN ojuajúva?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 related-questions-ip = Porandu ojuehegua: ¿{ -brand-name-firefox } oñomi nde IP?
 who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
@@ -68,3 +68,4 @@ who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+related-questions-who = Porandu ojojoguáva: mávapa { -brand-name-firefox } jára, mávapa { -brand-name-firefox-browser } jára, ha’e { -brand-name-firefox } { -brand-name-google } mba’e, { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google } mba’e
