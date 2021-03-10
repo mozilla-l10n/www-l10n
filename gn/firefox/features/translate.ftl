@@ -10,6 +10,7 @@ features-translate-translate-the-web-title = Emoñe’ẽasa ñanduti ne mohenda
 # page description
 features-translate-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’épe nde { -brand-name-firefox-browser } guive - ndahasyive ko’ág̃a rupi ijapo.
 features-translate-translate-the-web = Emoñe’ẽasa ñanduti { -brand-name-firefox } ndive
+features-translate-the-google-translate = Jepysokue To { -brand-name-google } Translate { -brand-name-firefox } ombojuruja ñanduti ojepuru hag̃ua arapy tuichakue.
 features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-google }
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Erekóke Jepysokue
