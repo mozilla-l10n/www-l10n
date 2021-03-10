@@ -14,6 +14,10 @@ password-manager-password-manager = Embojurujáma, ñe’ẽñemi ñangarekoha
 password-manager-give-up-the-memory = { -brand-name-firefox } ñe’ẽñemi ñangarekohára ndive natekotevẽi nemandu’a ne ñe’ẽñemi rehe.
 password-manager-password-hero = Ñe’ẽñemi ñangarekohaite
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Pe { -brand-name-firefox } ñe’ẽñemi ñangarekohára oñongatu opaite ñe’ẽñemi emoñepyrũjey hag̃ua tembiapo ndejehegui térã ejuhu pya’e hag̃ua. Eipotáramo hekorosãve emyandy <a href="{ $url }">ñe’ẽñemi ha’etéva</a> ne mohendahápe.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ani nemandu’a ñepyrũjey rehe. Pe { -brand-name-firefox } ñe’ẽñemi ñangarekohára oñongatu opaite ñe’ẽñemi emoñepyrũ hag̃ua tembiapo ndejehegui térã ejuhu reiete hag̃ua ne ñe’ẽñemi ñongatupyre. Hekorosãve hag̃ua embojuaju <a href="{ $url }">ñe’ẽñemi ha’etéva</a> ne mohendahápe.
 password-manager-password-magician = Ñe’ẽñemi ikatupyrýva

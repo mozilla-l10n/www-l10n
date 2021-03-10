@@ -14,5 +14,6 @@ features-pip-get-more-done-with-pop-out-videos = Emba’apove ta’ãngamýi iñ
 features-pip-play-the-video = Ehecha ta’ãngamýi
 features-pip-heres-how-it-works = Ehecha mba’éicha omba’apo:
 features-pip-play-any-video-in-your = <strong>Ehecha oimeraẽva ta’ãngamýi</strong> kundahára { -brand-name-firefox }-pe, ko’ã panda pytã ojapoháicha.
+features-pip-click-the-picture-in-picture-button = <strong>Eikutu pe votõ Picture-in-Picture</strong> ojehecháva ta’ãngamýime ha ojekuaáta.
 features-pip-3-ways-to-use-picture = 3 hendáicha eipurukuaa Picture-in-Picture
 features-pip-watch-a-lecture-or-meeting = Ehecha peteĩ ikatupyýva ñe’ẽ térã aty ehai aja
