@@ -12,6 +12,12 @@ history-history-of-the-mozilla-project = A { -brand-name-mozilla } projekt tört
 history-the-mozilla-project-was = A { -brand-name-mozilla } projekt <a href="{ $coderush }">1998-ban jött létre</a>, a <a href="{ $sourcerelease }">{ -brand-name-netscape } böngészőcsomag forráskódjának kiadásával</a>.
 history-it-was-intended-to-harness = A cél az volt, hogy kiaknázza több ezer programozó programozó kreativitását az interneten, és példátlan innovációt indítson be a böngészőpiacon.
 # Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = Az <a href="{ $firstyear }">első évben</a> a világ minden tájáról érkező új közösségi tagok már közreműködtek új funkciókban, továbbfejlesztették a meglévő szolgáltatásokat, és maguk is részt vettek a projekt irányításában és tervezésében.
+# Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = A nyílt közösség létrehozásával, a { -brand-name-mozilla } projekt <a href="{ $stevecase }">nagyobb lett, mint bármelyik vállalat</a>.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = A <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a>-t 2004-ben adták ki, és nagy sikert aratott – kevesebb mint egy év alatt <a href="{ $millions }">több mint 100 milliószor</a> töltötték le.
