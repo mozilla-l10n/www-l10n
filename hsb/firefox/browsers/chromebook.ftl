@@ -16,6 +16,7 @@ browsers-chromebook-x86-based-chromebook = *x86 na bazy { -brand-name-chromebook
 browsers-chromebook-dropdown-copy = Wobstarajće sej { -brand-name-firefox } za { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Čehodla wobstarujće sej { -brand-name-firefox } za { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = W { -brand-name-chromebook } je { -brand-name-chrome } hižo předinstalowany, ale { -brand-name-firefox } jako waš standardny wobhladowak ma hišće někotre lěpšiny:
 browsers-chromebook-is-it-hard = Je ćežko { -brand-name-firefox } za { -brand-name-chromebook } instalować?
 
 # Variables:
