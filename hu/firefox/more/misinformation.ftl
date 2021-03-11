@@ -30,4 +30,8 @@ misinformation-images-captions = A képek és a feliratok egyeznek?
 misinformation-images-are-powerful = A képek a célzott dezinformáció nagyon hatékony eszközei. A felirattól függően az értelmezésük teljesen kifordítható. Ha nem biztos benne, végezzen fordított képkeresést, hogy megtudja, más webhelyek hogyan írják le a képet.
 misinformation-how-firefox-helps-heading = Hogyan segít a { -brand-name-firefox } a félrevezető információk elkerülésében
 misinformation-firefox-keeps-trackers-heading = A { -brand-name-firefox } kordában tartja a nyomkövetőket:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Mint korábban említettük, a követés nagy szerepet játszik a téves információk terjedésében. A <a href="{ $firefox }">{ -brand-name-firefox }</a> a <a href="{ $protection }">Továbbfejlesztett követés elleni védelem</a> segítségével alapértelmezés szerint megakadályozza a harmadik féltől származó nyomkövetőket amikor a világhálót böngészi, így visszanyeri az irányítást online adatai felett.
 misinformation-social-media-clean-heading = A { -brand-name-firefox } segít a közösségi médiában használt hírcsatornái tisztán tartásában:
