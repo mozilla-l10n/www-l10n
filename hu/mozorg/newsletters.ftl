@@ -12,6 +12,8 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } hírlevél
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Olvassa <span>hírlevelünket</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
+newsletters-subscribe-here-to-keep-current = Iratkozzon fel, hogy értesüljön a { -brand-name-mozilla } híreiről, tegyen az egészségesebb internetért, és okosabbá váljon az online életét tekintve.
+# Outdated string
 newsletters-subscribe-to-updates-and-keep = Iratkozzon fel a frissítésekre, és legyen naprakész a { -brand-name-mozilla } híreivel. Ez a tökéletes módja, hogy tartsuk a kapcsolatot!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Hírlevél jóváhagyása
