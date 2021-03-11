@@ -5,7 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-overly-sensational = 标题是否过分耸人听闻？
+misinformation-content-up-to-date = 内容是最新信息吗？
+misinformation-outdated-information = 过时的信息不一定是虚假的，但很可能不再正确。
 misinformation-credible-publication = 作者是否发表过其他文章或帖子（最好是在正规的出版物）？
+misinformation-authors-name = 若您只能在可疑的网站上找到作者名字，则不应过分看重他们的言论。
 misinformation-images-captions = 图片和说明文字是否相符？
 misinformation-images-are-powerful = 图片是用于辨别虚假信息的强有力工具。同一图片配上不同的说明文字，便可颠倒黑白。若不确定，请以图搜图看看其他网站如何描述该图片。
 misinformation-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
