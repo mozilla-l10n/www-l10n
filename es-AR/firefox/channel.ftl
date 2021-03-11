@@ -28,7 +28,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } envía
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Danos tu opinión</a> para ayudarnos a hacer los ajustes finales en rendimiento y funcionalidad para la versión estable.
-firefox-channel-check-out-new-android-features = Verificá nuevas características en { -brand-name-android } en sus etapas más tempranas. DIsfrutá bajo tu propio riesgo.
+firefox-channel-check-out-new-android-features = Revisá nuevas características en { -brand-name-android } en sus etapas más tempranas. Disfrutá bajo tu propio riesgo.
 firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
