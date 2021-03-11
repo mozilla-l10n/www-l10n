@@ -35,3 +35,17 @@ misinformation-firefox-keeps-trackers-heading = A { -brand-name-firefox } kordá
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Mint korábban említettük, a követés nagy szerepet játszik a téves információk terjedésében. A <a href="{ $firefox }">{ -brand-name-firefox }</a> a <a href="{ $protection }">Továbbfejlesztett követés elleni védelem</a> segítségével alapértelmezés szerint megakadályozza a harmadik féltől származó nyomkövetőket amikor a világhálót böngészi, így visszanyeri az irányítást online adatai felett.
 misinformation-social-media-clean-heading = A { -brand-name-firefox } segít a közösségi médiában használt hírcsatornái tisztán tartásában:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = A közösségi hálózatok sokat tudnak Önről. Ráadásul a Követés elleni védelem ellenére, a Megosztás és Tetszik gombjaikkal a platformjukon kívül is nyomon tudják Önt követni – még akkor is, ha nincs is fiókja. A { -brand-name-firefox }hoz elérhető <a href="{ $container }">{ -brand-name-facebook-container }</a> kiegészítő eléri azt, hogy a { -brand-name-facebook } és az { -brand-name-instagram } ne tudja ezt olyan könnyen megtenni, amely szintén csökkenti annak a valószínűségét, hogy félrevezető információt tartalmazó reklámokat és szponzorált tartalmakat lásson.
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = A { -brand-name-firefox } segít felszínre hozni az olyan tartalmakat, melyekre megéri időt szánni:
+misinformation-why-trust-firefox = Miért bízzon a { -brand-name-firefox }ban?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Mert az embereket helyezzük az első helyre. Valójában egy <a href="{ $foundation }">nonprofit szervezet</a> támogat minket. Az első naptól kezdve a küldetésünk az internet védelme, és mindazoké, akik azt használják.
+misinformation-learn-more-about-our-mission = Tudjon meg többet a küldetésünkről
+misinformation-your-privacy-by-the-product = Adatvédelem, termékenként
+misinformation-firefox-products-work-differently = A { -brand-name-firefox } termékek másképp működnek – mert úgy vannak tervezve, hogy elsősorban a magánszférát védjék.
+misinformation-learn-about-our-products = Ismerje meg termékeinket
+misinformation-designed-to-protect = Úgy terveztük, hogy megvédje a magánszféráját
