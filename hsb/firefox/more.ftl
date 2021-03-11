@@ -58,3 +58,4 @@ firefox-more-fingerprinter-blocking = Blokowanje porstowych wotćišćow
 firefox-more-translate-the-web = Web přełožować
 firefox-more-translate-more-than = Přełožujće wjace hač 100 rěčow direktnje do swojeje rěče w swojim { -brand-name-firefox-browser } - lóšo hač do toho.
 firefox-more-a-guide-to = Přewodnik za wěsćiše přizjewjenja a hesła
+firefox-more-avoid-misinformation-heading = Wobeńdźće wopačne informacije – { -brand-name-firefox } wam pomaha

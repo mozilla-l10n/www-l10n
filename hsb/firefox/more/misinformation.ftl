@@ -5,7 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-page-title = Wobeńdźće wopačne informacije – { -brand-name-firefox } wam pomaha
+misinformation-what-is-heading = Što su wopačne informacije? Što je desinformacija?
+misinformation-false-info-heading = Hdźe so wopačne informacije jewja?
+misinformation-spot-online-heading = Kak móžeće wopačne informacije onlne spóznawaće a jich rozšěrjenju zadźěwaće
+misinformation-look-at-url = Wobhladajće sej URL a/abo žórło.
+misinformation-overly-sensational = Je nadpismo přesensacionalne?
 misinformation-content-up-to-date = Je wobsah aktualny?
+misinformation-credible-publication = Je awtor druhe nastawki abo přinoški publikował, idealnje we wěryhódnych publikacijach?
 misinformation-images-captions = Kryja so wobrazy a popisy?
 misinformation-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
 # Variables:
