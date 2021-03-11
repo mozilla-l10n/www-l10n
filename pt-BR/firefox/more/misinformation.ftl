@@ -26,3 +26,6 @@ misinformation-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Porque colocamos as pessoas em primeiro lugar. De fato, somos respaldados por uma <a href="{ $foundation }">organização sem fins lucrativos</a>. Desde o primeiro dia, tem sido nossa missão proteger a internet e todos que estão nela.
 misinformation-learn-more-about-our-mission = Saiba mais sobre nossa missão
+misinformation-firefox-products-work-differently = Os produtos { -brand-name-firefox } funcionam diferente — porque foram projetados para primeiro proteger sua privacidade.
+misinformation-learn-about-our-products = Saiba mais sobre nossos produtos
+misinformation-designed-to-protect = Projetado para proteger sua privacidade
