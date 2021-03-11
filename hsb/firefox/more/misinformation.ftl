@@ -13,7 +13,9 @@ misinformation-look-at-url = Wobhladajće sej URL a/abo žórło.
 misinformation-overly-sensational = Je nadpismo přesensacionalne?
 misinformation-content-up-to-date = Je wobsah aktualny?
 misinformation-credible-publication = Je awtor druhe nastawki abo přinoški publikował, idealnje we wěryhódnych publikacijach?
+misinformation-authors-name = Jeli mjeno awtora jenož na dwělomnych sydłach namakaće, njemějće jeho wuprajenja za přewažne.
 misinformation-images-captions = Kryja so wobrazy a popisy?
+misinformation-how-firefox-helps-heading = Kak { -brand-name-firefox } wam pomha, zo byšće wopačne informacije wobešoł
 misinformation-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
