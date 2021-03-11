@@ -57,5 +57,5 @@ contribute-mozilla-support = Pomoc za { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Problemy z webbokom?
-contribute-web-compat-desc = Jeli so waše nazhonjenja z websydłom mjez wobhladowakami rozeznawa, sće snano na problem z webkompatibelnosću storčił. Bychmy rady wo tym zhonili!
+contribute-web-compat-desc = Jolic se waše nazgónjenja z websedłom mjazy wobglědowakami rozeznawa, sćo snaź starcył na problem z webkompatibelnosću. My by rady wó tom zgónili!
 contribute-report-issue = Problem k wěsći daś
