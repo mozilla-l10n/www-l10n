@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-page-title = Evite informações falsas online – o { -brand-name-firefox } está aqui para ajudar
+misinformation-page-desc = Informações falsas são irritantes, distrativas e custam caro. O { -brand-name-firefox } tem algumas dicas para evitar informações falsas – e ver menos delas ao navegar na web.
 misinformation-page-subheading = Confira nossas dicas de como ver menos informações falsas e se concentrar no que é importante para você.
 misinformation-what-is-heading = O que é informação falsa? O que é desinformação?
 misinformation-false-info-heading = Onde aparecem informações falsas?
@@ -20,3 +22,7 @@ misinformation-images-captions = As imagens combinam com as legendas?
 misinformation-how-firefox-helps-heading = Como o { -brand-name-firefox } te ajuda a evitar informações falsas
 misinformation-firefox-keeps-trackers-heading = O { -brand-name-firefox } mantém rastreadores sob controle:
 misinformation-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Porque colocamos as pessoas em primeiro lugar. De fato, somos respaldados por uma <a href="{ $foundation }">organização sem fins lucrativos</a>. Desde o primeiro dia, tem sido nossa missão proteger a internet e todos que estão nela.
+misinformation-learn-more-about-our-mission = Saiba mais sobre nossa missão

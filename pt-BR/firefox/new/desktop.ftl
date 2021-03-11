@@ -10,7 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Baixe o { -brand-name-firefox-browser } — rápido, privativo e gratuito — da { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Instale o { -brand-name-firefox }, um navegador gratuito criado pela { -brand-name-mozilla }, uma organização sem fins lucrativos dedicada à saúde e privacidade da internet. Disponível agora em { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
+firefox-desktop-download-meta-desc = Instale o { -brand-name-firefox }, um navegador gratuito respaldado pela { -brand-name-mozilla }, uma organização sem fins lucrativos dedicada à saúde e privacidade da internet. Disponível agora em { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 firefox-desktop-download-og-title = Baixe o { -brand-name-firefox }, rápido como nunca
 firefox-desktop-download-og-desc = Carregamento de páginas mais rápido, menos uso de memória e repleto de recursos, aqui está o novo { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -96,7 +96,7 @@ firefox-desktop-download-go-from-light = Mude do modo claro para escuro, depende
 firefox-desktop-download-tweak-your-settings = Ajuste suas configurações
 firefox-desktop-download-theres-no-need = Não precisa aceitar as coisas como estão. Altere a página de nova aba, a barra de pesquisa, favoritos e muito mais para explorar a internet do jeito que quiser.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Feito pela organização <strong>sem</strong> fins lucrativos que coloca as pessoas em primeiro lugar
+firefox-desktop-download-backed-by-the = Respaldado pela organização <strong>sem</strong> fins lucrativos que coloca as pessoas em primeiro lugar
 firefox-desktop-download-challenging-the-status = Desafiando o status quo desde 1998
 firefox-desktop-download-your-privacy-comes = Sua privacidade em primeiro lugar
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

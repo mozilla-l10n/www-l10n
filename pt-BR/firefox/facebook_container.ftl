@@ -32,5 +32,5 @@ facebook-container-installing-the-extension-is = Instalar a <a href="{ $fbcontai
 facebook-container-about-firefox-and-mozilla = Sobre o { -brand-name-firefox } e a { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Temos o apoio da <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, a organização sem fins lucrativos que coloca as pessoas acima do lucro, para dar a todos mais poder online. Criamos esta extensão porque acreditamos que você deve ter ferramentas fáceis de usar que te ajudam a gerenciar sua privacidade e segurança.
+facebook-container-were-backed-by-mozilla-the = Somos respaldados pela <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, a organização sem fins lucrativos que coloca as pessoas acima do lucro, para dar a todos mais poder online. Criamos esta extensão porque acreditamos que você deve ter ferramentas fáceis de usar que te ajudam a gerenciar sua privacidade e segurança.
 facebook-container-browse-freely-with-firefox = Navegue com liberdade usando o { -brand-name-firefox } hoje mesmo.
