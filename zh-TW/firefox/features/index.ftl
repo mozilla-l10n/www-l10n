@@ -52,3 +52,5 @@ features-index-block-fingerprinters = 封鎖數位指紋追蹤程式
 features-index-translate-the-web = 翻譯網頁內容
 features-index-translate-more-than = 直接在 { -brand-name-firefox-browser } 瀏覽器中翻譯超過 100 種語言的網頁，比以往更方便。
 features-index-translate-to-your = 翻譯為您的語言
+features-index-picture-in-picture = 子母畫面
+features-index-got-things-to-do = 想要一邊做事情又一邊看影片嗎？使用 { -brand-name-firefox } 的子母畫面功能同時做兩件事。
