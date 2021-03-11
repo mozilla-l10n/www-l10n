@@ -15,6 +15,7 @@ misinformation-false-info-heading = Hol jelennek meg hamis információk?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
 misinformation-widespread-online = Félrevezető információkkal és dezinformációval mindenhol találkozhat, de ezek online megosztása a legelterjedtebbek és leghatásosabbak. Az algoritmusok és a <a href="{ $tracking }">követés</a> megnövelte annak a lehetőségét, hogy a félrevezető információk és a dezinformáció nagyobb közönséget érjen el a webhelyeken, blogokon, fórumokon és közösségi hálózatokon.
+misinformation-tracking-advertising = Talán már hallott a követésről, elsősorban a reklámokkal összefüggésében. Ugyanakkor hatékony eszköz a hamis információk terjesztésében is. Miért van ez? Amikor a világhálón vagy a közösségi hálózatok hírcsatornájában böngészik, akkor különböző felek követik a viselkedését, érdeklődési körét, és egyes esetekben a kapcsolatait is, hogy rendkívül részletes profilt építsenek Önről, amelyet eladhatnak másoknak, anélkül hogy erről tudna vagy ebbe beleegyezve. Ezeket a profilokat személyre szabott hirdetésekhez használják, de bármilyen célzott információ eljuttatásához használhatók.
 misinformation-spot-online-heading = Hogyan vegye észre a téves információkat a világhálón, és hogyan akadályozza meg a terjedésüket
 misinformation-look-at-url = Nézze meg az URL-t és a forrást.
 misinformation-known-to-br-credible = Hitelesként ismert? Ha nem biztos benne, akkor tudjon meg többet a forrásról, és az internetes hírnevéről.
