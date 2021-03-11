@@ -18,6 +18,7 @@ features-pip-heres-how-it-works = 用法如下：
 features-pip-play-any-video-in-your = 在您的 { -brand-name-firefox } 浏览器中<strong>播放任何视频</strong>，例如这个小熊猫幼崽视频。
 features-pip-click-the-picture-in-picture-button = <strong>点击视频上的画中画按钮</strong>，视频将会弹出。
 features-pip-cruise-around-to-other = <strong>浏览其他标签页</strong>，甚至在 { -brand-name-firefox } 之外，您仍可正常观看视频！
+features-pip-repeat-steps-1-3-to-have = <strong>重复步骤 1-3</strong>，开启更多画中画视频。
 features-pip-3-ways-to-use-picture = 3 种使用画中画的场景
 features-pip-watch-a-lecture-or-meeting = 一边上课或开会，一边作笔记
 features-pip-keep-a-tutorial-video-open = 烹煮或烘焙时，播放教学视频的同时翻看食谱
