@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Wobstarajće sej { -brand-name-firefox-browser } za { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Maće nětko { -brand-name-chromebook } – nětko je čas, zo byšće sej njewotwisny awtomatisce priwatny { -brand-name-firefox-browser } wobstarał, zo byšće swoje wosobinske daty škitał.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Wobstarajće sej { -brand-name-firefox } za { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Wobstarajće sej { -brand-name-firefox } Desktop za { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = *x86 na bazy { -brand-name-chromebook } z { -brand-name-chromeos } 80 abo nowšim
