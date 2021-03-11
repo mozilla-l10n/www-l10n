@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-images-captions = 图片和说明文字是否相符？
+misinformation-images-are-powerful = 图片是用于辨别虚假信息的强有力工具。同一图片配上不同的说明文字，便可颠倒黑白。若不确定，请以图搜图看看其他网站如何描述该图片。
 misinformation-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 misinformation-learn-more-about-our-mission = 进一步了解我们的使命
 misinformation-your-privacy-by-the-product = 您的隐私，我们来守护
