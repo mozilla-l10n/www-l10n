@@ -14,6 +14,7 @@ firefox-has-been = { -brand-name-firefox } hižo nimale wot spočatka eksistuje.
 firefox-rebel-with = { -brand-name-firefox }: Rebel z winu
 firefox-is-independent = { -brand-name-firefox } je njewotwisny a spěchuje so wot powšitkownosći wužitneje organizacije { -brand-name-mozilla }, kotraž za waše prawa online wojuje, a čini internet wšudźe přistupny za kóždeho.
 what-is-a = Što je webwobhladowak?
+a-web-browser = Webwobhladowak was wšudźe w interneće wjedźe a zmóžnja wam, sej wobrazy a wideja z cyłeho swěta wobhladać.
 update-your-browser = Aktualizujće swój wobhladowak na spěšny a wěsty { -brand-name-firefox }.
 firefox-is-more = { -brand-name-firefox } je wjace hač wobhladowak
 its-a-lightning = Je błyskospěšne durje do najlěpšeho webdožiwjenja.
