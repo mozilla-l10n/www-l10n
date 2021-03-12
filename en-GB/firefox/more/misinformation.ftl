@@ -25,3 +25,33 @@ misinformation-check-out-websites = Check out web sites and news outlets that yo
 misinformation-content-up-to-date = Is the content up to date?
 misinformation-outdated-information = Outdated information is not necessarily meant to disinform, but it may not be factually correct any longer.
 misinformation-credible-publication = Did the author publish other articles or posts, ideally also in credible publications?
+misinformation-authors-name = If you only find the author’s name on questionable sites, you should not pay too much importance to their statements.
+misinformation-images-captions = Do images and captions match?
+misinformation-images-are-powerful = Images are a very powerful tool for targeted disinformation. Depending on the caption, the perception can be twisted into the absolute opposite. If you are unsure, perform a reverse image search to find out how the image is described on other sites.
+misinformation-how-firefox-helps-heading = How { -brand-name-firefox } helps you avoid misinformation
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } keeps trackers in check:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = As mentioned before, tracking plays a big role in the spread of misinformation. <a href="{ $firefox }">Using { -brand-name-firefox }</a> with <a href="{ $protection }">Enhanced Tracking Protection</a> helps by blocking third-party trackers from many advertisers and other players by default when you browse the web, so that you gain back control over your online data.
+misinformation-social-media-clean-heading = { -brand-name-firefox } helps to keep your social media feeds clean:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Social networks know a lot about you. Plus, they’re able to track you beyond their platforms with their Share and Like buttons despite Tracking Protection — even if you don’t have an account. The <a href="{ $container }">{ -brand-name-facebook-container }</a> for { -brand-name-firefox } makes sure that { -brand-name-facebook } and { -brand-name-instagram } can't do this so easily, which again reduces the probability of seeing misinformation via ads and promoted content significantly.
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } helps you surface content that’s worthy of your time:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = When you open a new tab in your { -brand-name-firefox } browser, you’ll see articles <a href="{ $recommended }">recommended by { -brand-name-pocket }</a>. { -brand-name-pocket } doesn’t use any of your personal data to make recommendations. Instead, the articles are curated by real people using the app. The ability to discover new stories, angles, and opinions is one way to battle the spread of misinformation. To get even more recommendations, subscribe to the <a href="{ $pocket_hits }">{ -brand-name-pocket } newsletter</a> and download the <a href="{ $pocket }">{ -brand-name-pocket } app</a>.
+misinformation-why-trust-firefox = Why trust { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Because we put people first. In fact, we’re backed by a <a href="{ $foundation }">non-profit</a>. From day one, it’s been our mission to protect the internet and everyone on it.
+misinformation-learn-more-about-our-mission = Learn more about our mission
+misinformation-your-privacy-by-the-product = Your privacy, by the product
+misinformation-firefox-products-work-differently = { -brand-name-firefox } products work differently — because they’re designed to protect your privacy first.
+misinformation-learn-about-our-products = Learn about our products
+misinformation-designed-to-protect = Designed to protect your privacy
