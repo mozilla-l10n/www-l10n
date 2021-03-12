@@ -9,7 +9,11 @@ misinformation-page-title = Evite informações falsas online – o { -brand-nam
 misinformation-page-desc = Informações falsas são irritantes, distrativas e custam caro. O { -brand-name-firefox } tem algumas dicas para evitar informações falsas – e ver menos delas ao navegar na web.
 misinformation-page-subheading = Confira nossas dicas de como ver menos informações falsas e se concentrar no que é importante para você.
 misinformation-what-is-heading = O que é informação falsa? O que é desinformação?
+misinformation-ultimately-harmful = Em última análise, tanto informações falsas como desinformação podem ser prejudiciais. Não se trata só de pessoas acreditarem em informações incorretas. Informações falsas custam muito dinheiro à economia global e podem ameaçar a democracia e a governança eficiente. E é difícil impedir, porque notícias falsas se espalham significativamente mais rápido, mais profundamente e mais amplamente do que notícias corretas.
 misinformation-false-info-heading = Onde aparecem informações falsas?
+# Variables:
+#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+misinformation-widespread-online = Você pode se deparar com informações falsas e desinformação em qualquer lugar, mas são mais difundidas e impactantes quando compartilhadas online. Algoritmos e <a href="{ $tracking }">rastreamento</a> têm aumentado a capacidade de informações falsas e desinformação alcançarem uma audiência maior em sites, blogs, fóruns e redes sociais.
 misinformation-spot-online-heading = Como detectar informações falsas online e ajudar a impedir sua propagação
 misinformation-look-at-url = Olhe o endereço e/ou a origem.
 misinformation-known-to-br-credible = É reconhecidamente confiável? Se você não tiver certeza, tente descobrir mais sobre a origem e sua reputação na internet.
