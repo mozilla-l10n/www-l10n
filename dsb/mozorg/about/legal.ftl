@@ -31,3 +31,4 @@ legal-firefox-private-network-terms = Słužbne wuměnjenja { -brand-name-firefo
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Wó wašych pšawach
 legal-firefox-relay-terms = Słužbne wuměnjenja { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Słužbne wuměnjenja { -brand-name-mozilla-vpn }
+legal-report-copyright = Pśekśiwjenje awtorskego pšawa abo wikoweje mark k wěsći daś
