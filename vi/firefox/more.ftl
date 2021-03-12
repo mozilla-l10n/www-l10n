@@ -69,3 +69,5 @@ firefox-more-translate-the-web = Dịch trang web
 firefox-more-translate-more-than = Dịch từ hơn 100 ngôn ngữ sang ngôn ngữ của bạn trực tiếp trong { -brand-name-firefox-browser } của bạn - dễ dàng hơn bao giờ hết.
 firefox-more-a-guide-to = Hướng dẫn đăng nhập và mật khẩu an toàn hơn
 firefox-more-more-and-more = Ngày càng có nhiều thứ nhạy cảm, có giá trị trong cuộc sống của chúng ta được bảo vệ bằng mật khẩu.
+firefox-more-avoid-misinformation-heading = Tránh thông tin sai lệch trực tuyến – { -brand-name-firefox } sẵn sàng trợ giúp
+firefox-more-avoid-misinformation-desc = Xem các mẹo để biết ít thông tin sai lệch hơn và tập trung vào những gì quan trọng đối với bạn.
