@@ -7,18 +7,18 @@
 
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = Často kladené otázky o súkromí údajov - { -brand-name-mozilla }
-privacy-faq-at-mozilla-we-respect-and-protect-desc = V Mozille rešpektujeme vaše osobné informácie.
+privacy-faq-at-mozilla-we-respect-and-protect-desc = V { -brand-name-mozilla(case: "loc") } rešpektujeme vaše osobné informácie.
 privacy-faq-we-stand-for-people-over-profit = Ide nám o ľudí, nie o zisk.
 privacy-faq-it-can-be-tricky-for-people = Ľudia často nevedia, čo majú od softvéru a služieb, ktoré v súčasnosti používajú, očakávať. Technológia, ktorá poháňa naše životy, je komplexná a ľudia nemajú čas vŕtať sa v podrobnostiach. Toto platí aj v prípade { -brand-name-firefox }u, kde sa stretávame s tým, že ľudia majú rozličné predstavy o tom, čo sa deje vo vnútri ich prehliadača.
-privacy-faq-at-mozilla-we-respect-and-protect = V Mozille rešpektujeme a chránime vaše osobné informácie:
+privacy-faq-at-mozilla-we-respect-and-protect = V { -brand-name-mozilla(case: "loc") } rešpektujeme a chránime vaše osobné informácie:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Riadime sa sériou <a href="{ $link }">Princípov ochrany údajov</a>, ktoré kreujú náš prístup k súkromiu vo { -brand-name-firefox }e pre počítače a mobily.
 privacy-faq-we-only-collect-the-data-we = Zbierame len údaje, ktoré potrebujeme na tvorbu lepších produktov.
 privacy-faq-we-put-people-in-control-of = Ľudia majú mať kontrolu nad svojim online zážitkom.
 privacy-faq-we-adhere-to-no-surprises-principle = Riadime sa princípom „žiadnych prekvapení“, čo znamená, že tvrdo pracujeme na tom, aby ľudia porozumeli tomu, aký je { -brand-name-firefox } v skutočnosti.
-privacy-faq-the-following-questions-and = Nasledujúce otázky a odpovede by vám mali pomôcť pochopiť, čo môžete od Mozilly a { -brand-name-firefox }u očakávať:
-privacy-faq-i-use-firefox-for-almost-everything = Používam { -brand-name-firefox } takmer neustále. Musíte o mne vedieť množstvo informácií, však?
+privacy-faq-the-following-questions-and = Nasledujúce otázky a odpovede by vám mali pomôcť pochopiť, čo môžete od { -brand-name-mozilla(case: "gen") } a { -brand-name-firefox(case: "gen") } očakávať:
+privacy-faq-i-use-firefox-for-almost-everything = Používam { -brand-name-firefox } takmer neustále. { -brand-name-mozilla } o mne musí vedieť množstvo informácií, však?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, webový prehliadač, ktorý máte na svojom zariadení je vašou vstupnou bránou k internetu. Váš prehliadač spravuje množstvo informácií o stránkach, ktoré navštevujete, ale tieto informácie ostávajú na vašom zariadení. { -brand-name-mozilla }, spoločnosť, ktorá vyvíja { -brand-name-firefox }, tieto údaje nezbiera (ak nás o to nepožiadate).
 privacy-faq-really-you-dont-collect-my-browsing = Naozaj nezbierate moju históriu prehliadania?
 # Variables:
