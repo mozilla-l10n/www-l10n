@@ -30,3 +30,8 @@ misinformation-images-captions = Ydy delweddau a chapsiynau'n cyfateb?
 misinformation-images-are-powerful = Mae delweddau'n offerynnau pwerus iawn ar gyfer twyllwybodaeth wedi'i dargedu. Yn dibynnu ar y pennawd, mae modd troi'r canfyddiad i'r gwrthwyneb yn llwyr. Os ydych chi'n ansicr, chwiliwch i weld sut mae'r ddelwedd yn cael ei disgrifio ar wefannau eraill.
 misinformation-how-firefox-helps-heading = Sut mae { -brand-name-firefox } yn eich helpu i osgoi camwybodaeth
 misinformation-firefox-keeps-trackers-heading = Mae { -brand-name-firefox } yn rhwystro tracwyr:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Fel y soniwyd o'r blaen, mae tracio'n chwarae rhan amlwg wrth ledu camwybodaeth. Mae <a href="{ $firefox }">defnyddio  { -brand-name-firefox }</a> gyda <a href="{ $protection }">Diogelwch Tracio Uwch</a> yn helpu drwy rwystro tracwyr trydydd partï, gan lawer o hysbysebwyr a chwaraewyr eraill, drwy'r amser wrth bori'r we ac yna adennill rheolaeth dros eich data ar-lein.
+misinformation-social-media-clean-heading = Mae { -brand-name-firefox } yn helpu i gadw'ch llif cyfryngau cymdeithasol yn lân:
