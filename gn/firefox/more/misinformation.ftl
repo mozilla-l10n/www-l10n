@@ -1,0 +1,11 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/more/misinformation/
+
+misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
+misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
+misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
