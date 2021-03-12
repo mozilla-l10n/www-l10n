@@ -7,6 +7,8 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Co jo webwobglědowak?
+# HTML page description
+what-is-a-browser-a-web-browser = Webwobglědowak was wšuźi w interneśe wjeźo a zmóžnja wam, se wobraze a wideo z cełego swěta woglědaś.
 what-is-a-browser-how-does-a-web = Kak funkcioněrujo webwobglědowak?
 what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
 what-is-a-browser-understanding = Priwatnosć rozměś
