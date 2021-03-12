@@ -8,6 +8,7 @@
 legal-legal = Pšawniske
 legal-get-involved = Cyńśo sobu
 legal-protect-the-fox = Šćitajśo Lišku
+legal-takedown-requests = Napšašowanja wó wótšaltowanju
 legal-back-to-legal = Slědk k pšawniskemu
 legal-terms = Wuměnjenja
 legal-our-websites = Naše websedła
