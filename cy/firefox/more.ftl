@@ -69,3 +69,5 @@ firefox-more-translate-the-web = Cyfieithu'r we
 firefox-more-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith chi'n uniongyrchol yn eich { -brand-name-firefox-browser } - yn haws nag erioed.
 firefox-more-a-guide-to = Canllaw i fewngofnodion a chyfrineiriau mwy diogel
 firefox-more-more-and-more = Mae mwy a mwy o'r pethau sensitif, gwerthfawr yn ein bywyd yn cael eu gwarchod gan gyfrineiriau.
+firefox-more-avoid-misinformation-heading = Osgowch gamwybodaeth ar-lein - mae { -brand-name-firefox } yma i'ch helpu
+firefox-more-avoid-misinformation-desc = Dyma awgrymiadau ar gyfer gweld llai o gamwybodaeth a chanolbwyntio ar yr hyn sy'n bwysig i chi.
