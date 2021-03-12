@@ -13,3 +13,4 @@ misinformation-spot-online-heading = Kak móžośo wopacne informacije online sp
 misinformation-look-at-url = Woglědajśo se URL a/abo žrědło.
 misinformation-known-to-br-credible = Jo to dowěry gódne? Jolic njejsćo se wěsty, wopytajśo wěcej wó žrědle a jogo mjenju w interneśe zgóniś.
 misinformation-overly-sensational = Jo nadpismo pśesensacionalne?
+misinformation-content-up-to-date = Jo wopśimjeśe aktualne?
