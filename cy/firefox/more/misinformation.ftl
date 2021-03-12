@@ -35,3 +35,8 @@ misinformation-firefox-keeps-trackers-heading = Mae { -brand-name-firefox } yn r
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Fel y soniwyd o'r blaen, mae tracio'n chwarae rhan amlwg wrth ledu camwybodaeth. Mae <a href="{ $firefox }">defnyddio  { -brand-name-firefox }</a> gyda <a href="{ $protection }">Diogelwch Tracio Uwch</a> yn helpu drwy rwystro tracwyr trydydd partï, gan lawer o hysbysebwyr a chwaraewyr eraill, drwy'r amser wrth bori'r we ac yna adennill rheolaeth dros eich data ar-lein.
 misinformation-social-media-clean-heading = Mae { -brand-name-firefox } yn helpu i gadw'ch llif cyfryngau cymdeithasol yn lân:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Mae rhwydweithiau cymdeithasol yn gwybod llawer amdanoch chi. Hefyd, maen nhw'n gallu eich tracio y tu hwnt i'w platfformau gyda'u botymau Rhannu a Hoffi er gwaethaf Diogelu Rhag Tracio - hyd yn oed os nad oes gennych chi gyfrif. Mae'r <a href="{ $container }"> { -brand-name-facebook-container } </a> ar gyfer { -brand-name-firefox } yn sicrhau nad yw { -brand-name-facebook } a { -brand-name-instagram } gallu gwneud mor hawdd, sydd eto'n lleihau'r tebygolrwydd o weld camwybodaeth trwy hysbysebion a hyrwyddo cynnwys, yn sylweddol.
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = Mae { -brand-name-firefox } yn eich helpu i weld cynnwys sy'n deilwng o'ch amser:
