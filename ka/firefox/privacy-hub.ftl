@@ -45,7 +45,7 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ მეთვალყურე იზღუდება — თავისთავად
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-tracking-has-become-an = თვალის დევნებამ სრულიად მოიცვა ინტერნეტი: კომპანიები აღრიცხავენ თითოეულ მოქმედებას, დაწკაპებასა და შესყიდვას, რომ გამოიცნონ და ზემოქმედება მოახდინონ თქვენს ყოველ მომდევნო ნაბიჯზე. ჩვენ კი მიგვაჩნია, რომ ეს უხეში ხელყოფაა თქვენი პირადი სივრცის. სწორედ ამიტომაცაა { -brand-name-firefox }-ბრაუზერები მობილურზე და კომპიუტერზეც აღჭურვილი თვალთვალისგან გაძლიერებული დაცვით.
+firefox-privacy-hub-tracking-has-become-an = თვალის დევნებამ სრულიად მოიცვა ინტერნეტი: კომპანიები აღრიცხავენ თითოეულ მოქმედებას, დაწკაპებასა და შესყიდვას, რომ გამოიცნონ და ზემოქმედება მოახდინონ თქვენს ყოველ მომდევნო ნაბიჯზე. ჩვენ კი მიგვაჩნია, რომ ეს უხეში ხელყოფაა თქვენი პირადი სივრცის. სწორედ ამიტომაცაა { -brand-name-firefox }-ბრაუზერები მობილურსა და კომპიუტერზეც აღჭურვილი თვალთვალისგან გაძლიერებული დაცვით.
 firefox-privacy-hub-if-you-want-to-see-what = თუ გსურთ ნახოთ რას ზღუდავს { -brand-name-firefox } თქვენთვის, ეწვიეთ ამ გვერდს თქვენს { -brand-name-firefox }-ბრაუზერში კომპიუტერზე.
 firefox-privacy-hub-see-what-firefox-has-blocked = იხილეთ რას ზღუდავს { -brand-name-firefox } თქვენთვის
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized

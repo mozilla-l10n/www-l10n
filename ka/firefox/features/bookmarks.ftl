@@ -8,7 +8,7 @@
 # HTML page title
 features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: გაუმჯობესებული სანიშნები, თან წასაღებად ყველგან
 # HTML page description
-features-bookmarks-easily-organize-your-bookmarks = მარტივად დაალაგეთ თქვენი სანიშნები საქაღალდეებში და გამოიყენეთ ყველა მოწყობილობიდან, კომპიუტერებზე და მობილურებზეც.
+features-bookmarks-easily-organize-your-bookmarks = მარტივად დაალაგეთ თქვენი სანიშნები საქაღალდეებში და გამოიყენეთ ყველა მოწყობილობიდან, კომპიუტერებსა და მობილურებზეც.
 features-bookmarks-better-bookmarks = საუკეთესო სანიშნები
 features-bookmarks-dont-agonize-lovers-of = ჩანიშვნის მოყვარულებო, დაალაგეთ სანიშნები { -brand-name-firefox }-ის დახმარებით.
 # File means to save (that bookmark).
