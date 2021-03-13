@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
-misinformation-page-title = აირიდეთ ყალბი ამბები ინტერნეტში – { -brand-name-firefox } მზადაა დასახმარებლად
+misinformation-page-title = აირიდეთ ყალბი ამბები ინტერნეტში – { -brand-name-firefox } მზადაა დაგეხმაროთ
 misinformation-page-desc = მცდარი ამბები მომაბაზრებელი, დამაბნეველი და ზარალის მომტანია. { -brand-name-firefox } გთავაზობთ რამდენიმე რჩევას, ცრუ ინფორმაციის ასარიდებლად – და მათ შესამცირებლად ვებსივრცით სარგებლობისას.
 misinformation-page-subheading = გაეცანით რჩევებს, როგორ იხილოთ ნაკლები ყალბი ამბავი და როგორ გაამახვილოთ ყურადღება, თქვენთვის მნიშვნელოვანზე
 misinformation-what-is-heading = რას არის მცდარი? რა არის ყალბი?
@@ -23,7 +23,7 @@ misinformation-known-to-br-credible = არის სარწმუნო? თ
 misinformation-overly-sensational = სათაური მეტად გაზვიადებულია?
 misinformation-check-out-websites = გადახედეთ ვებსაიტებსა და ახალი ამბების სააგენტოებს, რომელსაც ენდობით და ნახეთ, როგორ გადმოსცემენ მსგავს სიახლეებს. მასალა, რომელიც განკუთვნილია ზეგავლენის მოსახდენად, ხშირად უკიდურესი გადაჭარბებითაა წარმოდგენილი დაუსაბუთებლად და არ იძებნება, სიღრმისეული კვლევის მოხსენებებში.
 misinformation-content-up-to-date = მასალა განახლებულია?
-misinformation-outdated-information = მოძველებული ამბები არაა აუცილებლი მცდარი იყოს, მაგრამ შესაძლოა უკვე აღარ შეესაბამებოდეს სინამდვილეს.
+misinformation-outdated-information = მოძველებული ამბები არაა აუცილებელი მცდარი იყოს, მაგრამ შესაძლოა უკვე აღარ შეესაბამებოდეს სინამდვილეს.
 misinformation-credible-publication = ავტორს აქვს გამოქვეყნებული სხვა სტატიები და ჩანაწერები, განსაკუთრებით სარწმუნო გამოცემებში?
 misinformation-authors-name = თუ ამ ავტორის სახელი მხოლოდ საეჭვო საიტებზე იძებნება, სჯობს არ მიაქციოთ ყურადღება მის ნაწერს.
 misinformation-images-captions = ემთხვევა სურათები და წარწერები?
@@ -37,7 +37,7 @@ misinformation-firefox-keeps-trackers-desc = როგორც ზემოთ 
 misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმარებათ, სოც. ქსელით მოწოდებული მასალის გაწმენდაში:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთან, შეუძლია თვალი გადევნოთ სხვა საიტებზეც, გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არ ქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, { -brand-name-facebook } და { -brand-name-instagram } ამას მარტივად ვეღარ მოახერხებს, რაც თავისთავად მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
+misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთან, შეუძლია თვალი გადევნოთ სხვა საიტებზეც, გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არ ქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, უზრუნველყოფს, რომ { -brand-name-facebook } და { -brand-name-instagram } ამას მარტივად ვეღარ ახერხებდეს, რაც თავისმხრივ მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } დაგეხმარებათ წინ წამოსწიოთ მასალა, რომელიც იმსახურებს თქვენს ყურადღებას:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
