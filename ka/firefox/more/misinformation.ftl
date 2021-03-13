@@ -15,7 +15,7 @@ misinformation-spot-online-heading = როგორ აღმოვაჩინ
 misinformation-look-at-url = გადაამოწმეთ მისამართი და/ან წყარო.
 misinformation-known-to-br-credible = არის სარწმუნო? თუ ზუსტად არ იცით, სცადეთ წყაროსა და მისი სანდოობის შესახებ მოძიება ინტერნეტში.
 misinformation-overly-sensational = სათაური მეტად გაზვიადებულია?
-misinformation-check-out-websites = გადახედეთ ვებსაიტებსა და ახალი ამბების სააგენტოებს, რომელსაც ენდობით და ნახეთ, როგორ გადმოსცემენ მსგავსს სიახლეებს. მასალა, რომელიც განკუთვნილია ზეგავლენის მოსახდენად, ხშირად უკიდურესი გადაჭარბებითაა წარმოდგენილი დაუსაბუთებლად და არ იძებნება, სიღრმისეული კვლევის მოხსენებებში.
+misinformation-check-out-websites = გადახედეთ ვებსაიტებსა და ახალი ამბების სააგენტოებს, რომელსაც ენდობით და ნახეთ, როგორ გადმოსცემენ მსგავს სიახლეებს. მასალა, რომელიც განკუთვნილია ზეგავლენის მოსახდენად, ხშირად უკიდურესი გადაჭარბებითაა წარმოდგენილი დაუსაბუთებლად და არ იძებნება, სიღრმისეული კვლევის მოხსენებებში.
 misinformation-content-up-to-date = მასალა განახლებულია?
 misinformation-outdated-information = მოძველებული ამბები არაა აუცილებლი მცდარი იყოს, მაგრამ შესაძლოა უკვე აღარ შეესაბამებოდეს სინამდვილეს.
 misinformation-credible-publication = ავტორს აქვს გამოქვეყნებული სხვა სტატიები და ჩანაწერები, განსაკუთრებით სარწმუნო გამოცემებში?
@@ -28,3 +28,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } აჩ�
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = როგორც ზემოთ აღინიშნა, თვალთვალს დიდი ადგილი უკავია ყალბი ამბების გავრცელებაში. <a href="{ $firefox }">{ -brand-name-firefox } თავისი</a> <a href="{ $protection }">თვალთვალისგან გაძლიერებული დაცვით</a> გეხმარებათ შეზღუდოთ გარეშე მეთვალყურეები სარეკლამოებისა და სხვა კომპანიებისგან ნაგულისხმევად, ვებსივრცით სარგებლობისას, რაც თავისთავად გიბრუნებთ საკუთარი ინტერნეტმონაცემების განკარგვის სადავეებს.
+misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმარებათ, სოც. ქსელით მოწოდებული მასალის გაწმენდაში:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთან, შეუძლია თვალი გადევნოთ სხვა საიტებზეც, გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არ ქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, { -brand-name-facebook } და { -brand-name-instagram } ამას მარტივად ვეღარ მოახერხებს, რაც თავისთავად მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
