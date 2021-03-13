@@ -8,6 +8,7 @@
 misinformation-page-title = 远离网上的错误信息 – { -brand-name-firefox } 可为您提供帮助
 misinformation-page-subheading = 了解如何避免看到错误信息，专注于重要的事情
 misinformation-what-is-heading = 什么是错误信息？什么又是虚假信息？
+misinformation-disinformation = 错误信息、虚假信息 —— 您以前可能已经听说过这些术语，并且想知道它们在意义上是否有区别，以及如何区分。简而言之：错误信息是人们误信的任何种类的信息，确实是不正确的或有误导性，但并非出于欺骗他人的目的而制造或传播。而虚假信息则是为了有意误导并达到某个目的。
 misinformation-false-info-heading = 错误信息会出现在哪里？
 misinformation-overly-sensational = 标题是否过分耸人听闻？
 misinformation-content-up-to-date = 内容是最新信息吗？
@@ -17,6 +18,8 @@ misinformation-authors-name = 若您只能在可疑的网站上找到作者名�
 misinformation-images-captions = 图片和说明文字是否相符？
 misinformation-images-are-powerful = 图片是用于辨别虚假信息的强有力工具。同一图片配上不同的说明文字，便可颠倒黑白。若不确定，请以图搜图看看其他网站如何描述该图片。
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } 如何帮助您远离错误信息
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } 帮助您获取有价值的内容：
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 # Variables:
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
