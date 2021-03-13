@@ -10,6 +10,7 @@ misinformation-page-subheading = 了解如何更少看到错误信息，专注�
 misinformation-what-is-heading = 什么是错误信息？什么又是虚假信息？
 misinformation-disinformation = 错误信息、虚假信息 —— 您以前可能已经听说过这些术语，并且想知道它们在意义上是否有区别，以及如何区分。简而言之：错误信息是人们误信的任何种类的信息，确实是不正确的或有误导性，但并非出于欺骗他人的目的而制造或传播。而虚假信息则是为了有意误导并达到某个目的。
 misinformation-false-info-heading = 错误信息会出现在哪里？
+misinformation-look-at-url = 查看 URL 或来源。
 misinformation-overly-sensational = 标题是否过分耸人听闻？
 misinformation-content-up-to-date = 内容是最新信息吗？
 misinformation-outdated-information = 过时的信息不一定是错误的，但很可能不再正确。
