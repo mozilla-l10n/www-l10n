@@ -9,7 +9,7 @@
 privacy-passwords-security-guide-to = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
 # page content
 privacy-passwords-a-security-guide = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
-privacy-passwords-protecting-your-accounts = Škitanje wašich kontow nejtrjeba komplikowane być – a { -brand-name-firefox } móže pomhać.
+privacy-passwords-protecting-your-accounts = Škitanje wašich kontow njetrjeba komplikowane być – a { -brand-name-firefox } móže pomhać.
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Zjeće:
 privacy-passwords-use-random-passwords = Wužiwajće připadne hesła, a wužiwajće druhe hesło za kóžde sydło
