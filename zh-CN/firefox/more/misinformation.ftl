@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-title = 远离网上的虚假信息 – { -brand-name-firefox } 可为您提供帮助
-misinformation-what-is-heading = 什么是错误信息？什么又是虚假信息？
+misinformation-what-is-heading = 什么是不实信息？什么又是误导信息？
 misinformation-false-info-heading = 错误信息会出现在哪里？
 misinformation-overly-sensational = 标题是否过分耸人听闻？
 misinformation-content-up-to-date = 内容是最新信息吗？
