@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-title = აირიდეთ ყალბი ამბები ინტერნეტში – { -brand-name-firefox } მზადაა დასახმარებლად
+misinformation-page-desc = მცდარი ამბები მომაბაზრებელი, დამაბნეველი და ზარალის მომტანია. { -brand-name-firefox } გთავაზობთ რამდენიმე რჩევას, ყალბი ცნობების ასარიდებლად – და მათ შესამცირებლად ვებსივრცით სარგებლობისას.
 misinformation-page-subheading = გაეცანით რჩევებს, როგორ იხილოთ ნაკლები ყალბი ამბავი და როგორ გაამახვილოთ ყურადღება, თქვენთვის მნიშვნელოვანზე
 misinformation-what-is-heading = რას არის მცდარი? რა არის ყალბი?
 misinformation-disinformation = მცდარი, ყალბი, დეზინფორმაცია – ალბათ, აქამდეც ხშირად გსმენიათ ეს ტერმინები და გაინტერესებთ რა სხვაობაა მათ შორის. მათი ერთმანეთისგან გამორჩევა ხდება მიზნებით: მცდარი, არასწორი ცნობები ეწოდება ისეთ ამბებს, რომელთაც შეიძლება, ხალხი შეცდომაში შეიყვანოს. დადასტურებულია, რომ არაზუსტი და ტყუილია, თუმცა არაა განკუთვნილი ვინმეს განგებ შესაცდენად. მეორე მხრივ კი ყალბი ამბები, ანუ დეზინფორმაცია შექმნილი და გავრცელებულია, სწორედ ხალხის შეცდომაში შეყვანისთვის, გარკვეული მიზნის მისაღწევად.
@@ -32,3 +33,20 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმ
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთან, შეუძლია თვალი გადევნოთ სხვა საიტებზეც, გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არ ქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, { -brand-name-facebook } და { -brand-name-instagram } ამას მარტივად ვეღარ მოახერხებს, რაც თავისთავად მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } დაგეხმარებათ წინ წამოსწიოთ მასალა, რომელიც იმსახურებს თქვენს ყურადღებას:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = { -brand-name-firefox }-ბრაუზერის გახსნისას, იხილავთ სტატიებს, რომელთაც <a href="{ $recommended }">გთავაზობთ { -brand-name-pocket }</a>. { -brand-name-pocket } არ იყენებს თქვენს პირად მონაცემებს ამ შემოთავაზებებისთვის. სანაცვლოდ, ამ სტატიებს არჩევს ნამდვილი ხალხი, აპლიკაციით. ეს შესაძლებლობა, ახალი ამბების, თვალსაზრისების, შეხედულებების აღმოსაჩენად, ერთ-ერთი გზაა ყალბი ამბების გავრცელების წინააღმდეგ ბრძოლისთვის. მეტი შემოთავაზებისთვის, გამოიწერეთ <a href="{ $pocket_hits }">{ -brand-name-pocket } აპლიკაცია</a>.
+misinformation-why-trust-firefox = რატომაა სანდო { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = იმიტომ, რომ ჩვენ ხალხს ვაყენებთ ყველაფერზე წინ. ჩვენ ზურგს გვიმაგრებს <a href="{ $foundation }">არამომგებიანი დაწესებულება</a>. დაარსების დღიდან, ჩვენი მიზანი ინტერნეტის და მისი მომხმარებლების დაცვაა.
+misinformation-learn-more-about-our-mission = ვრცლად, ჩვენი მიზნების შესახებ
+misinformation-your-privacy-by-the-product = თქვენი პირადულობა, სხვადასხვა პროდუქტებით
+misinformation-firefox-products-work-differently = { -brand-name-firefox }-პროდუქტები მუშაობს განსხვავებულად — ვინაიდან, ისინი განკუთვნილია პირველ რიგში, თქვენი პირადულობის დაცვისთვის.
+misinformation-learn-about-our-products = ვრცლად, ჩვენს პროდუქტებზე
+misinformation-designed-to-protect = თქვენი პირადი მონაცემების დასაცავად შექმნილი
