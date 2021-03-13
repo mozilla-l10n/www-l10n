@@ -16,6 +16,12 @@ misinformation-authors-name = 若您只能在可疑的网站上找到作者名�
 misinformation-images-captions = 图片和说明文字是否相符？
 misinformation-images-are-powerful = 图片是用于辨别虚假信息的强有力工具。同一图片配上不同的说明文字，便可颠倒黑白。若不确定，请以图搜图看看其他网站如何描述该图片。
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } 如何帮助您远离虚假信息
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = 当您用 { -brand-name-firefox } 浏览器打开新标签页时，会看到由 <a href="{ $recommended }">{ -brand-name-pocket }</a> 推荐的文章。{ -brand-name-pocket } 的推荐完全由人工策划，不会使用您的任何个人数据。发现新故事、新角度和新观点的能力对于遏制错误信息传播至关重要。若想获取更多推荐，请订阅 <a href="{ $pocket_hits }"> 新闻通讯</a>，并下载 <a href="{ $pocket }">{ -brand-name-pocket } 应用程序</a>。
 misinformation-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
