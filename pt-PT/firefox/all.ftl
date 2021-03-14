@@ -36,6 +36,7 @@ firefox-all-count-on-stability-and = Conte com estabilidade e facilidade de util
 firefox-all-windows-installers-for = Instaladores do Windows para sistemas empresariais, que simplificam a configuração, distribuição e gestão do { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programas de instalação para ARM64/AArch64
 firefox-all-arm64-installers-optimized = Programas de instação ARM64/AArch64 otimizados para PC com { -brand-name-windows } suportados por Snapdragon.
+firefox-all-product-send-link = Envie uma ligação de transferência para o seu dispositivo móvel
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Escolha o instalador de 32 bits para computadores com processadores de 32 bits — ou para computadores mais antigos ou mais lentos. <a href="{ $url }">Se não tiver a certeza</a> se deve escolher um instalador de 64 bits ou de 32 bits, nós recomendamos a utilização de 32 bits.
