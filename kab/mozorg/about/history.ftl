@@ -38,7 +38,7 @@ history-not-many-people-noticed = Drus n yimdanen i t-iwalan deg tallit-nni, mac
 history-in-2003-the-mozilla-project = Deg 2003, asenfaṛ { -brand-name-mozilla } yerna tasbeddit { -brand-name-mozilla-foundation }, <a href="{ $foundation }">d tuddsa tamunant ur yettnadin ara ɣef tedrimt</a> i ttɛawanen yimdanen neɣ tikebbaniyin s umuddu n tewsa.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Tasbeddit Mozilla i d-yelulen melmi kan, tettkemmil asefrek n usenfaṛ imeṛṛa u teddem tikti akken ad tesnerni s wudem unṣib <a href="{ $manifesto }"> alday, asnulfu akked tegnatin</a> i d-yettmuddu Internet.
+history-the-new-mozilla-foundation = Tasbeddit Mozilla i d-yelulen melmi kan { -brand-name-mozilla-foundation }, tettkemmil asefrek n usenfar, terna teddem takti ad tesnerni s wudem unṣib <a href="{ $manifesto }"> alday, asnulfu akked tegnatin</a> i d-yettmuddu Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Akken ad taweḍ iswiyen agi, tasbeddit tkemmel asnulfu n iseɣẓanen am { -brand-name-firefox } akked thunderbird war am teǧǧa tiɣula nniḍen am <a href="{ $grants }">tsigras </a> akken ad tɛiwen leqdic icudden ɣer usnerni n unekcum ɣer Web.
