@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-title = 远离网上的错误信息 – { -brand-name-firefox } 可为您提供帮助
+misinformation-page-desc = 错误信息很讨人嫌，它们容易使人分心，有时甚至会令人们付出惨痛的代价。{ -brand-name-firefox } 可提供相关提示，避免您受到虚假信息的欺骗，还能让您在畅游网络时更少看到这类信息。
 misinformation-page-subheading = 了解如何更少看到错误信息，专注于重要的事情
 misinformation-what-is-heading = 什么是错误信息？什么又是虚假信息？
 misinformation-disinformation = 错误信息、虚假信息 —— 您以前可能已经听说过这些术语，并且想知道它们在意义上是否有区别，以及如何区分。简而言之：错误信息是人们误信的任何种类的信息，确实是不正确的或有误导性，但并非出于欺骗他人的目的而制造或传播。而虚假信息则是为了有意误导并达到某个目的。
