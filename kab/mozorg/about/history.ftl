@@ -32,10 +32,10 @@ history-after-several-years-of-development = Seld kra n yiseggassen n tneflit, <
 history-by-2002-well-over-90 = Deg 2002, <a href="{ $over90 }">ugar n 90% n yiseqdacen n Internet</a> ttinigen s { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
-history-not-many-people-noticed = Drus n yimdanen i yewwalan lqem amezwaru n Phoenix (yettusemman sakin { -brand-name-firefox }) i d-yeffɣen daɣen aseggass nni s yeswi n umuddu <a href="{ $charter }"> n termit tufrint di tunigin</a>, ayagi deqs ur t-yeẓrin ara.
+history-not-many-people-noticed = Drus n yimdanen i t-iwalan deg tallit-nni, maca lqem amezwaru n Phoenix (yettusemman sakin { -brand-name-firefox }) i d-suffɣen daɣen iεeggalen n temɣiwent { -brand-name-mozilla } deg useggass-nni s yiswi n umuddu n <a href="{ $charter }"> termit tufrint n tunigin</a> i umur ameqqran n yimdanen.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = Di 2003, asenfaṛ { -brand-name-mozilla } yessuli-d tasbeddit { -brand-name-mozilla }, <a href="{ $foundation }">d tuddsa tamunant ur yettnadin ara idrimen</a> i yettɛawanen yimdanen neɣ tikebbaniyin s umuddu n tewsa.
+history-in-2003-the-mozilla-project = Deg 2003, asenfaṛ { -brand-name-mozilla } yerna tasbeddit { -brand-name-mozilla-foundation }, <a href="{ $foundation }">d tuddsa tamunant ur yettnadin ara ɣef tedrimt</a> i ttɛawanen yimdanen neɣ tikebbaniyin s umuddu n tewsa.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Tasbeddit Mozilla i d-yelulen melmi kan, tettkemmil asefrek n usenfaṛ imeṛṛa u teddem tikti akken ad tesnerni s wudem unṣib <a href="{ $manifesto }"> alday, asnulfu akked tegnatin</a> i d-yettmuddu Internet.
