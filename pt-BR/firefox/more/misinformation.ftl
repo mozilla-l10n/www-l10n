@@ -9,6 +9,7 @@ misinformation-page-title = Evite informações falsas online – o { -brand-nam
 misinformation-page-desc = Informações falsas são irritantes, distrativas e custam caro. O { -brand-name-firefox } tem algumas dicas para evitar informações falsas – e ver menos delas ao navegar na web.
 misinformation-page-subheading = Confira nossas dicas de como ver menos informações falsas e se concentrar no que é importante para você.
 misinformation-what-is-heading = O que é informação falsa? O que é desinformação?
+misinformation-disinformation = Informações falsas, desinformação – você provavelmente já ouviu esses termos e se perguntou se são diferentes e qual o significado de cada um. É a intenção que os distingue. Informações falsas são as que podem fazer as pessoas se enganar. Pode-se verificar que sejam incorretas ou estar enganadas, mas não foram criadas ou compartilhadas com a intenção de enganar as pessoas. Desinformação, por outro lado, é criada e difundida com o objetivo de informar errado e atingir determinado objetivo.
 misinformation-ultimately-harmful = Em última análise, tanto informações falsas como desinformação podem ser prejudiciais. Não se trata só de pessoas acreditarem em informações incorretas. Informações falsas custam muito dinheiro à economia global e podem ameaçar a democracia e a governança eficiente. E é difícil impedir, porque notícias falsas se espalham significativamente mais rápido, mais profundamente e mais amplamente do que notícias corretas.
 misinformation-false-info-heading = Onde aparecem informações falsas?
 # Variables:
