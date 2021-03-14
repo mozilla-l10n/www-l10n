@@ -21,11 +21,13 @@ misinformation-spot-online-heading = Como detectar informações falsas online e
 misinformation-look-at-url = Olhe o endereço e/ou a origem.
 misinformation-known-to-br-credible = É reconhecidamente confiável? Se você não tiver certeza, tente descobrir mais sobre a origem e sua reputação na internet.
 misinformation-overly-sensational = O título é sensacionalista?
+misinformation-check-out-websites = Verifique sites e veículos de notícias em que você confia para ver se eles falam a respeito desse mesmo assunto e como o fazem. Conteúdo que tem a intenção de manipular geralmente usa extremos ou exageros para os quais não há evidências e não são encontrados em matérias com pesquisa bem feita.
 misinformation-content-up-to-date = O conteúdo está atualizado?
 misinformation-outdated-information = Informações desatualizadas não têm necessariamente o objetivo de desinformar, mas podem não ser mais realmente corretas.
 misinformation-credible-publication = O autor publicou outros artigos ou mensagens, de preferência em outros veículos confiáveis?
 misinformation-authors-name = Se você só encontrar o nome do autor em sites questionáveis, não dê muita importância às suas declarações.
 misinformation-images-captions = As imagens combinam com as legendas?
+misinformation-images-are-powerful = Imagens são ferramentas muito poderosas para desinformação direcionada. Dependendo da legenda, a percepção pode ser distorcida para o oposto absoluto. Se você não tiver certeza, faça uma pesquisa reversa de imagem para descobrir como a imagem é descrita em outros sites.
 misinformation-how-firefox-helps-heading = Como o { -brand-name-firefox } te ajuda a evitar informações falsas
 misinformation-firefox-keeps-trackers-heading = O { -brand-name-firefox } mantém rastreadores sob controle:
 misinformation-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
@@ -33,6 +35,7 @@ misinformation-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Porque colocamos as pessoas em primeiro lugar. De fato, somos respaldados por uma <a href="{ $foundation }">organização sem fins lucrativos</a>. Desde o primeiro dia, tem sido nossa missão proteger a internet e todos que estão nela.
 misinformation-learn-more-about-our-mission = Saiba mais sobre nossa missão
+misinformation-your-privacy-by-the-product = Respeito à sua privacidade em cada um de nossos produtos
 misinformation-firefox-products-work-differently = Os produtos { -brand-name-firefox } funcionam diferente — porque foram projetados para primeiro proteger sua privacidade.
 misinformation-learn-about-our-products = Saiba mais sobre nossos produtos
 misinformation-designed-to-protect = Projetado para proteger sua privacidade
