@@ -30,6 +30,11 @@ misinformation-images-captions = As imagens combinam com as legendas?
 misinformation-images-are-powerful = Imagens são ferramentas muito poderosas para desinformação direcionada. Dependendo da legenda, a percepção pode ser distorcida para o oposto absoluto. Se você não tiver certeza, faça uma pesquisa reversa de imagem para descobrir como a imagem é descrita em outros sites.
 misinformation-how-firefox-helps-heading = Como o { -brand-name-firefox } te ajuda a evitar informações falsas
 misinformation-firefox-keeps-trackers-heading = O { -brand-name-firefox } mantém rastreadores sob controle:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Como mencionado anteriormente, rastreamento tem papel importante na disseminação de informações falsas. <a href="{ $firefox }">Usar o { -brand-name-firefox }</a> com <a href="{ $protection }">proteção aprimorada contra rastreamento</a> ajuda a bloquear por padrão rastreadores de muitos anunciantes e outros terceiros quando você navega na web, para que você recupere o controle sobre seus dados online.
+misinformation-social-media-clean-heading = O { -brand-name-firefox } te ajuda a manter limpas suas redes sociais:
 misinformation-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
