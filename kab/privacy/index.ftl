@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Tabaḍnit { -brand-name-mozilla }
@@ -31,5 +31,5 @@ privacy-index-to-review-and-comment-on-proposed = Akken ad ternuḍ acegger neɣ
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Ɣeṛ ugar ɣef uxeddim n tsertit tazayezt n tabaḍnit akked taɣellist di <a href="{ $blog }">Tasertit yeldin akked ablug n uḥareb n { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Tisertiyin tiqbuṛin
-privacy-index-mozilla-websites-communications = Ismal Web n { -brand-name-mozilla }, tiywalin &amp; Inagan n tuqna
+privacy-index-mozilla-websites-communications = Ismal Web n { -brand-name-mozilla }, tiywalin & Inagan n tuqna
 privacy-index-firefox-fire-tv = { -brand-name-firefox } i { -brand-name-fire-tv }
