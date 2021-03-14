@@ -15,6 +15,7 @@ misinformation-false-info-heading = Onde aparecem informações falsas?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
 misinformation-widespread-online = Você pode se deparar com informações falsas e desinformação em qualquer lugar, mas são mais difundidas e impactantes quando compartilhadas online. Algoritmos e <a href="{ $tracking }">rastreamento</a> têm aumentado a capacidade de informações falsas e desinformação alcançarem uma audiência maior em sites, blogs, fóruns e redes sociais.
+misinformation-tracking-advertising = Você pode ter ouvido falar sobre rastreamento, principalmente no contexto de publicidade. No entanto, é também uma ferramenta poderosa quando se trata de espalhar informações falsas. Mas por quê? Quando você navega na internet ou em uma rede social, seu comportamento, interesses, contatos em alguns casos e muito mais são rastreados por diversos terceiros através de sites para traçar um perfil extremamente detalhado sobre você e vender para outros sem seu conhecimento ou consentimento. Esses perfis são usados para personalizar anúncios, mas também podem ser usados para apresentar a você qualquer tipo de informação direcionada.
 misinformation-spot-online-heading = Como detectar informações falsas online e ajudar a impedir sua propagação
 misinformation-look-at-url = Olhe o endereço e/ou a origem.
 misinformation-known-to-br-credible = É reconhecidamente confiável? Se você não tiver certeza, tente descobrir mais sobre a origem e sua reputação na internet.
