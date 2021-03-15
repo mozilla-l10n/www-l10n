@@ -48,6 +48,36 @@ navigation-v2-view-all-products = Ver todos os produtos
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Quem somos nós
+navigation-v2-close-who-we-are-menu = Fechar menu Quem somos nós
+navigation-v2-mozilla-manifesto = Manifesto da { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Conheça os valores e princípios que orientam a nossa missão.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Conheça a organização sem fins lucrativos que suporta o { -brand-name-firefox } e que representa uma melhor Internet.
+navigation-v2-get-involved = Participe
+navigation-v2-join-the-fight-for-a = Junte-se à luta por uma Internet saudável.
+navigation-v2-leadership = Liderança
+navigation-v2-meet-the-team-thats-building = Conheça a equipa que está a desenvolver tecnologia para uma Internet melhor.
+navigation-v2-careers = Carreiras
+navigation-v2-work-for-a-mission-driven-updated = Trabalhe para uma organização orientada por uma missão e que constrói produtos que colocam as pessoas em primeiro lugar.
+navigation-v2-mozilla-blog = Blogue da { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Saiba mais sobre a { -brand-name-mozilla } e os problemas que são importantes para nós.
+navigation-v2-more-about-mozilla = Mais sobre a { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Inovação
+navigation-v2-close-innovation-menu = Fechar menu Inovação
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Reúna-se neste espaço social interativo, online e multidimensional.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Obtenha o { -brand-name-firefox }, construído para programadores.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Visite a casa dos recursos para programadores da Internet.
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Explore a Internet com o navegador { -brand-name-firefox } para a realidade virtual.
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Faça um donativo da sua voz para que o futuro da Internet possa ouvir todos.
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Saiba mais sobre a nova linguagem de baixo nível semelhante ao assembly.
+navigation-v2-more-mozilla-innovation = Mais inovação { -brand-name-mozilla }
