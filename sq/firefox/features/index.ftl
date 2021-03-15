@@ -52,3 +52,5 @@ features-index-block-fingerprinters = Blloko krijues shenjash gishtash
 features-index-translate-the-web = Përktheni internetin
 features-index-translate-more-than = Përktheni nga më shumë se 100 gjuhë në gjuhën tuaj, drejt e në { -brand-name-firefox-browser }-in tuaj - më e lehtë se kurrë.
 features-index-translate-to-your = Përktheni në gjuhën tuaj
+features-index-picture-in-picture = Picture-in-Picture
+features-index-got-things-to-do = Keni punë për të bërë dhe gjëra për të parë? Bëjini që të dyja përmes funksionit “Picture-in-Picture” në { -brand-name-firefox }.
