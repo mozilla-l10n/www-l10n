@@ -15,6 +15,7 @@ misinformation-false-info-heading = 错误信息会出现在哪里？
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
 misinformation-widespread-online = 您可以在任何地方见到错误信息和虚假信息，但在互联网上更为普遍且影响最深。算法和<a href="{ $tracking }">跟踪</a>充当了错误信息和虚假信息的扩增器，从而可以在网站、博客、论坛和社交网络上吸引更多受众。
+misinformation-tracking-advertising = 您可能听说过跟踪主要是在广告方面。然而，在传播错误信息时，它也是不可忽视的工具。为什么？当您浏览互联网或社交网络内容时，您的行为、兴趣、某些情况下的联系人以及更多信息会被网站上的各方跟踪，然后在您不知情或未经您同意的情况下建立您的极为详细的个人资料并出售给其他人。这些资料可以用于个性化广告，当然也可以用于向您呈现任何类型的目标信息。
 misinformation-spot-online-heading = 如何在网上辨别错误信息，并帮助阻止其传播
 misinformation-look-at-url = 查看 URL 或来源。
 misinformation-known-to-br-credible = 它是可信的吗？若不确定，请尝试在互联网上查找信息源及其信誉度等更多信息。
