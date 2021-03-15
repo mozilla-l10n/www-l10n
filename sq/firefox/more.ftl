@@ -69,3 +69,5 @@ firefox-more-translate-the-web = Përktheni internetin
 firefox-more-translate-more-than = Përktheni nga më shumë se 100 gjuhë në gjuhën tuaj, drejt e në { -brand-name-firefox-browser }-in tuaj - më e lehtë se kurrë.
 firefox-more-a-guide-to = Një udhërrëfyes për kredenciale hyrjesh dhe fjalëkalime më të sigurt
 firefox-more-more-and-more = Gjithnjë e më shumë gjëra rezervat, të vyera, në jetën tuaj ruhen me fjalëkalime.
+firefox-more-avoid-misinformation-heading = Shmangni keqinformim në internet – { -brand-name-firefox }-i është këtu për t’ju ndihmuar
+firefox-more-avoid-misinformation-desc = Hidhuni një sy ndihmëzave se si të të shihni më pak keqinformim dhe të përqendroheni në atë çka është e rëndësishme për ju.
