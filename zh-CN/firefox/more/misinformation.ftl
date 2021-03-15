@@ -10,7 +10,11 @@ misinformation-page-desc = 错误信息很讨人嫌，它们容易使人分心�
 misinformation-page-subheading = 了解如何更少看到错误信息，专注于重要的事情
 misinformation-what-is-heading = 什么是错误信息？什么又是虚假信息？
 misinformation-disinformation = 错误信息、虚假信息 —— 您以前可能已经听说过这些术语，并且想知道它们在意义上是否有区别，以及如何区分。简而言之：错误信息是人们误信的任何种类的信息，确实是不正确的或有误导性，但并非出于欺骗他人的目的而制造或传播。而虚假信息则是为了有意误导并达到某个目的。
+misinformation-ultimately-harmful = 归根结底，错误信息和虚假信息都可能有害。错误息会误导人们，并给全球经济造成巨大损失，更可能威胁到民主和有效治理。而且，假新闻往往比正确的新闻传播得更快、更深、更广，基本上无法阻断。
 misinformation-false-info-heading = 错误信息会出现在哪里？
+# Variables:
+#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+misinformation-widespread-online = 您可以在任何地方见到错误信息和虚假信息，但在互联网上更为普遍且影响最深。算法和<a href="{ $tracking }">跟踪</a>充当了错误信息和虚假信息的扩增器，从而可以在网站、博客、论坛和社交网络上吸引更多受众。
 misinformation-spot-online-heading = 如何在网上辨别错误信息，并帮助阻止其传播
 misinformation-look-at-url = 查看 URL 或来源。
 misinformation-known-to-br-credible = 它是可信的吗？若不确定，请尝试在互联网上查找信息源及其信誉度等更多信息。
