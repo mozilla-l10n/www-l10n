@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
-misinformation-page-title = Osgowch gamwybodaeth ar-lein - mae { -brand-name-firefox } yma i'ch helpu
+misinformation-page-title = Osgoi camwybodaeth ar-lein - mae { -brand-name-firefox } yma i'ch helpu
 misinformation-page-desc = Mae camwybodaeth yn annifyr, yn drafferth ac yn ddrud. Mae gan { -brand-name-firefox } rai awgrymiadau ar gyfer osgoi camwybodaeth - a gweld llai ohono wrth bori ar y we.
 misinformation-page-subheading = Dyma awgrymiadau ar gyfer gweld llai o gamwybodaeth a chanolbwyntio ar yr hyn sy'n bwysig i chi.
 misinformation-what-is-heading = Beth yw camwybodaeth? Beth yw twyllwybodaeth?
