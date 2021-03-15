@@ -12,3 +12,6 @@ not-found-page-go-back = Titzolin
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tawetamaj</a> chi rij { -brand-name-mozilla }, ri moloj majun ch'akoj rojqan k'o pa ruwi' ri { -brand-name-firefox }.
+# Variables:
+#   $explore (url) - link to https://www.mozilla.org/firefox/
+not-found-page-explore-the-entire-family-for = <a href={ $explore }>Tanik'oj</a> ronojel ri ach'alal yekikanoj taq ruwachinäq { -brand-name-firefox } ewachib'en richin nikameläx ri awichinanem.
