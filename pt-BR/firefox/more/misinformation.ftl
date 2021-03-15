@@ -27,7 +27,7 @@ misinformation-outdated-information = Informações desatualizadas não têm nec
 misinformation-credible-publication = O autor publicou outros artigos ou mensagens, de preferência em outros veículos confiáveis?
 misinformation-authors-name = Se você só encontrar o nome do autor em sites questionáveis, não dê muita importância às suas declarações.
 misinformation-images-captions = As imagens combinam com as legendas?
-misinformation-images-are-powerful = Imagens são ferramentas muito poderosas para desinformação direcionada. Dependendo da legenda, a percepção pode ser distorcida para o oposto absoluto. Se você não tiver certeza, faça uma pesquisa reversa de imagem para descobrir como a imagem é descrita em outros sites.
+misinformation-images-are-powerful = Imagens são ferramentas muito poderosas para desinformação direcionada. Dependendo da legenda, a percepção pode ser distorcida para parecer absolutamente o oposto da verdade. Se você não tiver certeza, faça uma pesquisa reversa de imagem para descobrir como a imagem é descrita em outros sites.
 misinformation-how-firefox-helps-heading = Como o { -brand-name-firefox } te ajuda a evitar informações falsas
 misinformation-firefox-keeps-trackers-heading = O { -brand-name-firefox } mantém rastreadores sob controle:
 # Variables:
