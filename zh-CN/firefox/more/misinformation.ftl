@@ -28,6 +28,7 @@ misinformation-images-captions = 图片和说明文字是否相符？
 misinformation-images-are-powerful = 图片是用于辨别虚假信息的强有力工具。同一图片配上不同的说明文字，便可颠倒黑白。若不确定，请以图搜图看看其他网站如何描述该图片。
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } 如何帮助您远离错误信息
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } 可拦截跟踪器：
+misinformation-social-media-clean-heading = { -brand-name-firefox } 可帮助您使社交媒体的推送内容免受污染：
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } 帮助您获取有价值的内容：
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
