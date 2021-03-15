@@ -14,3 +14,5 @@ browser-history-in-1950-computers = Em 1950, os computadores ocupavam salas inte
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = A <a href="{ $arpanet }">ARPANET</a> foi o primeiro projeto de redes de sucesso e em 1969 foi enviada a a primeira mensagem do laboratório de ciências computacionais na University of California, Los Angeles (UCLA) para Stanford Research Institute (SRI), também na Califórnia.
+browser-history-that-sparked-a-revolution = Isto despoletou uma revolução nas redes de computadores. Novas redes foram formadas, ligando universidades e centros de pesquisa à volta do mundo. Mas durante os 20 anos seguintes, a Internet não esta acessível ao público. A sua utilização estava restrita a investigadores universitários e governamentais, estudantes e empresas privadas. Existiam dezenas de programas que podiam trocar informação através de linhas telefónicas, mas nenhum era simples de utilizar. A verdadeira Internet aberta e o primeiro navegador de Internet não foram criados até 1990.
+browser-history-web-era = A era da Internet
