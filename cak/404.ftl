@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tawetamaj</a> 
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Tanik'oj</a> ronojel ri ach'alal yekikanoj taq ruwachinäq { -brand-name-firefox } ewachib'en richin nikameläx ri awichinanem.
+# Variables:
+#   $download (url) - link to https://www.mozilla.org/firefox/new/
+not-found-page-download-the-firefox-browser = <a href={ $download }>Qasanïk</a> ri { -brand-name-firefox } okik'amaya'l richin ri awoyonib'al o akematz'ib'
