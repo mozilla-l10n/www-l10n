@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Chystáte sa prevziať:
 firefox-all-browser = Prehliadač:
 firefox-all-platform = Platforma:
 firefox-all-language = Jazyk:
+firefox-all-lang-multi = Viac jazykov
 firefox-all-sorry-we-couldnt-find = Ľutujeme, nepodarilo sa nám nájsť to, čo hľadáte. Prosím, skúste to znova alebo si vyberte nejakú možnosť zo zoznamu.
 firefox-all-the-pre-alpha-version = Predbežné alfa verzie pre pokročilých používateľov, ktorí radi testujú nové funkcie v priebehu ich vývoja.
 firefox-all-64-bit-installers = 64-bitové inštalátory
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Spoľahnite sa na stabilitu a jednoduché p
 firefox-all-windows-installers-for = Inštalátory systému Windows pre podnikové IT, ktoré zjednodušujú konfiguráciu, nasadenie a správu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
 firefox-all-arm64-installers = Inštalátory ARM64/AArch64
 firefox-all-arm64-installers-optimized = Inštalátory pre platformy ARM64/AArch64 optimalizované pre počítače s { -brand-name-windows(case: "ins") } bežiace na procesoroch Snapdragon.
+firefox-all-product-send-link = Odošlite si odkaz na prevzatie do svojho telefónu
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-bitový inštalátor vyberte pre počítače s 32-bitovými procesormi alebo pre staršie či menej výkonné počítače. <a href="{ $url }">Ak si nie ste istí</a>, či si máte vybrať 64-bitový alebo 32-bitový inštalátor, odporúčame vám vybrať si 32-bitový.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

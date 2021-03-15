@@ -14,6 +14,10 @@ password-manager-password-manager = Úspech odomknutý - Správca hesiel
 password-manager-give-up-the-memory = So správcom hesiel vo { -brand-name-firefox(case: "loc") } už nemusíte loviť heslá v pamäti.
 password-manager-password-hero = Hrdina hesiel
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Už žiadne obnovovanie hesiel. Správca hesiel vo { -brand-name-firefox }e si všetky vaše heslá zapamätá, takže sa môžete prihlasovať automaticky alebo jednoducho nájsť svoje uložené heslo. Pre extra zabezpečenie môžete na svojom počítači nastaviť <a href="{ $url }">hlavné heslo</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Už žiadne obnovovanie hesiel. Správca hesiel vo { -brand-name-firefox }e si všetky vaše heslá zapamätá, takže sa môžete prihlasovať automaticky alebo jednoducho nájsť svoje uložené heslo. Pre extra zabezpečenie môžete na svojom počítači nastaviť <a href="{ $url }">hlavné heslo</a>.
 password-manager-password-magician = Mág hesiel
