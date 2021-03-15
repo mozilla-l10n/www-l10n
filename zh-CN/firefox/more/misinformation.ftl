@@ -28,6 +28,10 @@ misinformation-images-captions = 图片和说明文字是否相符？
 misinformation-images-are-powerful = 图片是用于辨别虚假信息的强有力工具。同一图片配上不同的说明文字，便可颠倒黑白。若不确定，请以图搜图看看其他网站如何描述该图片。
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } 如何帮助您远离错误信息
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } 可拦截跟踪器：
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = 如上所述，跟踪是错误信息传播中的重要一环。 使用内置<a href="{ $protection }">增强型跟踪保护</a>的 <a href="{ $firefox }">{ -brand-name-firefox }</a>，便可在您浏览网页时，自动拦截来自广告商等的跟踪器，让您重新控制自己的在线数据。
 misinformation-social-media-clean-heading = { -brand-name-firefox } 可帮助您使社交媒体的推送内容免受污染：
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } 帮助您获取有价值的内容：
