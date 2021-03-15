@@ -8,6 +8,6 @@
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs. { -brand-name-opera }: Ktorý prehliadač je pre vás lepší?
 # HTML page description
-compare-opera-compare-opera-to-the-firefox = Porovnajte Operu a Firefox a zistite, ktorý prehliadač je pre vás lepší.
+compare-opera-compare-opera-to-the-firefox = Porovnajte { -brand-name-opera(case: "acc") } a { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } a zistite, ktorý prehliadač je pre vás lepší.
 # Main title
-compare-opera-comparing-firefox-browser = Porovnanie Firefoxu a Opery
+compare-opera-comparing-firefox-browser = Porovnanie { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } a { -brand-name-opera(case: "gen") }

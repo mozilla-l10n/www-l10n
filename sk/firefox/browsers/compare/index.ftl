@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = Priame porovnanie siedmych najlepších prehliadačov
 compare-index-six-of-the-best-browsers-fallback = Priame porovnanie šiestich najlepších prehliadačov
 # Sub-headline
 compare-index-privacy-utility-portability = Súkromie. Použiteľnosť. Prenosnosť.
@@ -17,8 +19,10 @@ compare-index-how-well-does-your-browser = Ako dobre funguje váš prehliadač n
 compare-index-almost-all-of-the-browsers = Takmer všetky tu porovnávané prehliadače umožňujú synchronizáciu medzi počítačom a smartfónom. Stačí vám účet, ktorý použijete na prihlásenie do zariadení, ktoré chcete synchronizovať a o stálu dostupnosť hesiel, histórie prehliadania, záložiek a nastavení je postarané.
 compare-index-conclusion = Záver:
 compare-index-and-the-winner-is = A víťazom sa stáva…
+compare-index-find-out-how-firefox-chrome = Ako sa { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie } líšia z pohľadu ochrany súkromia, použiteľnosti a prenosnosti.
 compare-index-find-out-how-firefox-fallback = Ako sa { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } a { -brand-name-ie } líšia z pohľadu ochrany súkromia, použiteľnosti a prenosnosti.
+compare-index-looking-for-a-better-browser = Hľadáte lepší prehliadač? Aby sme vám pomohli pri rozhodovaní, porovnávame { -brand-name-firefox } s prehliadačmi { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie }.
 compare-index-looking-for-a-better-fallback = Hľadáte lepší prehliadač? Aby sme vám pomohli pri rozhodovaní, porovnávame { -brand-name-firefox } s prehliadačmi { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } a { -brand-name-ie }.
-compare-index-browsers-have-come-a-long = Webové prehliadače sa od uvedenia Chromu a jeho ovládnutia trhu veľmi zmenili. Väčšina z nich dobehla jeho náskok v prenosnosti aj v ponúknutých funkciách a niektoré ho napríklad v rýchlosti a ochrane súkromia prekonávajú. Tak ako aj predtým, aj teraz platí, že pri výbere toho správneho prehliadača záleží hlavne na vašich vlastných potrebách a funkciách, ktoré si ceníte najviac.
+compare-index-browsers-have-come-a-long = Webové prehliadače sa od uvedenia { -brand-name-chrome(case: "gen") } a jeho ovládnutia trhu veľmi zmenili. Väčšina z nich dobehla jeho náskok v prenosnosti aj v ponúknutých funkciách a niektoré { -brand-name-chrome } napríklad v rýchlosti a ochrane súkromia prekonali. Tak ako aj predtým, aj teraz platí, že pri výbere toho správneho prehliadača záleží hlavne na vašich vlastných potrebách a funkciách, ktoré si ceníte najviac.
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } je podporovaný neziskovou organizáciou { -brand-name-mozilla }.
 compare-index-based-on-the-criteria-we-outlined = Na základe vybraných kritérií, teda ochrany súkromia, použiteľnosti a prenosnosti, považujeme za najvhodnejší prehliadač { -brand-name-firefox }. Hlavný rozdiel oproti ostatným je súkromie. { -brand-name-firefox } poskytuje najlepšiu ochranu vášho súkromia a nevťahuje vás do svojho vlastného ekosystému. Môžete ho používať na ktoromkoľvek operačnom systéme, počítači a mobilnom zariadení a budete pri tom v bezpečí.

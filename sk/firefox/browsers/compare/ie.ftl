@@ -8,6 +8,6 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie }: Ktorý prehliadač je pre vás lepší?
 # HTML page description
-compare-ie-compare-internet-explorer-to = Porovnajte { -brand-name-ie } a Firefox a zistite, ktorý prehliadač je pre vás lepší.
+compare-ie-compare-internet-explorer-to = Porovnajte { -brand-name-ie } a { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } a zistite, ktorý prehliadač je pre vás lepší.
 # Main title
-compare-ie-comparing-firefox-browser-with = Porovnanie Firefoxu s { -brand-name-microsoft } { -brand-name-ie }om
+compare-ie-comparing-firefox-browser-with = Porovnanie { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-microsoft } { -brand-name-ie(case: "ins") }
