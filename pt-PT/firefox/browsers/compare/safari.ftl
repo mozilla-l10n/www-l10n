@@ -34,6 +34,9 @@ compare-safari-in-addition-to-the-regular = Além do conjunto normal de recursos
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Tal como o { -brand-name-safari }, o { -brand-name-firefox } incentiva a sua comunidade entusiasta de programadores a criar <a { $attrs }>extras e extensões</a> para o navegador. E como a nossa plataforma é de código aberto, há uma vasta seleção que adiciona uma grande variedade de funcionalidades.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Quando se regista para uma conta { -brand-name-firefox }, obtém acesso a serviços únicos como o <a { $pocket }>{ -brand-name-pocket }</a> que integra diretamente no navegador. O botão { -brand-name-pocket } para o { -brand-name-firefox } permite-lhe guardar páginas e vídeos no { -brand-name-pocket } com apenas um clique, para que possa ler uma versão limpa e sem distrações, quando e onde quiser — até mesmo sem estar ligado à Internet.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
