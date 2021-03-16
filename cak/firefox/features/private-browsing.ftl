@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Ichinan Kanob'äl rik'in tz'aqatisan ri chajinïk chuwäch ojqanïk
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } nuchajij ri iwichinik pa k'amab'ey chuqa' yeruq'ät ri kanonela' yatkikanoj pan ajk'amaya'l.
+features-private-browsing-download-firefox = Taqasaj { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: K'ïy chajinïk. Jub'a' mayoj.
 features-private-browsing-were-obsessed-with = Niqa chi qawäch niqachajij ri awichinanem. Ruma ri' xqab'än chi nïm ruchuq'a' ri { -brand-name-firefox } Private Browsing chi kiwäch ri ch'aqa' chik.
 features-private-browsing-browse-without = Majun retal taya' kan toq yatok pa k'amaya'l
