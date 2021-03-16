@@ -116,4 +116,4 @@ manifesto-details-promote-models = ad nmeslay ɣer usnulfu n wazal adamsan i lfa
 manifesto-details-promote-the-mozilla = ad nmeslay ɣef insayen n umeskan { -brand-name-mozilla } deg beṛṛa neɣ di temguri n Internet.
 manifesto-details-some-foundation = Kra n yirmad n tesbeddit—akka tura: asnulfu, asiweḍ d ummeslay ɣef yifarisen—ttusnekkren s wudem agejdan deg tkebbanit tarnawt tameẓlut { -brand-name-mozilla-corporation }, n tesbeddit { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Tinubga
-manifesto-details-the-mozilla-foundation-invites = Tasbeddit { -brand-name-mozilla } tessawal akk i wid yebɣan insayen n umeskan n { -brand-name-mozilla } akken ad d-ddun ɣur-neɣ udiɣ ad d-naf allalen imaynuten akken tamuɣli agi ɣer Internet ad tuɣal d tilawt.
+manifesto-details-the-mozilla-foundation-invites = Tasbeddit { -brand-name-mozilla } tessawal akk i wid yebɣan insayen n Manifestu { -brand-name-mozilla } ad d-rnun ɣur-neɣ, ad d-naf allalen imaynuten i wakken tamuɣli-agi ɣer Internet ad tuɣal d tilawt.

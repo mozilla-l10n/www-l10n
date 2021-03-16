@@ -7,10 +7,10 @@
 
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = ISetqsiyen FAQ n tbaḍnit n yisefka n { -brand-name-mozilla }
-privacy-faq-at-mozilla-we-respect-and-protect-desc = Di mozilla nettqadeṛ daɣen nemmestan isefka-ik udmawanen.
+privacy-faq-at-mozilla-we-respect-and-protect-desc = Di { -brand-name-mozilla }, nettqadeṛ daɣen nemmestan isefka-ik·im udmawanen.
 privacy-faq-we-stand-for-people-over-profit = Ɣur-neɣ imdanen ifen idrimen
 privacy-faq-it-can-be-tricky-for-people = D ayen ẓẓayen i yemdanen akken ad issinen ayen zemren ad rǧun seg iseɣẓan neɣ tanfiwin seqdacen ass-a. Tatiknulujit d tukrist, imdanen ur sɛin ara akud akken ad selḍen talqayt. Aya d ameɣtu ula i { -brand-name-firefox }, anida nettaf d akken imdanen sɛan deqs n tiktiwin yemgaraden ɣef wamek itteddu uminig Web-nsen.
-privacy-faq-at-mozilla-we-respect-and-protect = Di mozilla nettqadeṛ, daɣen nemmestan isefka-ik udmawanen.
+privacy-faq-at-mozilla-we-respect-and-protect = Di { -brand-name-mozilla }, nettqadeṛ daɣen nemmestan isefka-ik·im udmawanen.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Neṭṭafaṛ azrir n <a href="{ $link }"> Insayen ɣef tbaḍnit n isefka</a> ara yemudden talɣa n tarrayt-nneɣ icudden ar tbaḍnit deg useqdec n yiminigen { -brand-name-firefox } i uselkim neɣ aziraz.
