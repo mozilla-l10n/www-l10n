@@ -22,7 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser }用户
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = 上网无拘束。<br>{ -brand-name-firefox-browser }<strong>不会</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 与其他浏览器比较
-firefox-desktop-download-get-all-the-speed = 不必牺牲隐私，即可获得最佳速度和实用工具。{ -brand-name-firefox-browser } 只会收集您非常少的数据，甚至不用输入邮箱地址就能下载。在网上跟踪您对我们来说没有任何好处 — 这是我们与其他浏览器最大的不同。
+firefox-desktop-download-get-all-the-speed = 不必牺牲隐私，即可获得最佳速度和实用工具。{ -brand-name-firefox-browser }只会收集您非常少的数据，甚至不用输入邮箱地址就能下载。在网上跟踪您对我们来说没有任何好处 — 这是我们与其他浏览器最大的不同。
 firefox-desktop-download-how-we-compare = 我们与其他浏览器的不同
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 与下列浏览器：
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
