@@ -43,7 +43,7 @@ manifesto-10 = 10
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } 宣言修正案
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = 宣誓捍卫<br>一个健康的互联网
-manifesto-the-open-global-internet = 开放而全球化的互联网是我们所见过的最强大的沟通和协作工具。它展现了人类发展过程中最深层的渴望，也为学习、蕴造共同人性，以及解決全球各地的人们面临的紧迫问题，带来全新的机遇。
+manifesto-the-open-global-internet = 开放而全球化的互联网是我们所见过的最强大的沟通和协作工具。它展现了人类发展过程中最深层的渴望，也为学习、蕴造共同人性，以及解决全球各地的人们面临的紧迫问题，带来全新的机遇。
 manifesto-over-the-last-decade-we = 过去十年来，我们看到这一承诺以各种方式达成；也目睹了互联网的力量被用来扩大分歧、煽动暴力、传播仇恨、操弄真相。我们认识到，应该更加明确地阐述出我们对于人类互联网体验的愿景。这就是我们现在要做的。
 manifesto-we-are-committed-to-people = 我们承诺，要让互联网能够包纳地球上每一个人——不分年龄、性别、种族、国籍、教育程度、财产状况等人口统计学特征，都平等享有使用网络的权利、机会，以及获得的体验与品质。
 manifesto-we-are-committed-to-discourse = 我们承诺，要让互联网促进民间话语、人格尊严和个体表达。
