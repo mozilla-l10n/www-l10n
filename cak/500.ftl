@@ -5,3 +5,7 @@
 error-page-error-page-internal-server-error = 500: Sachoj Chupam ri K'uxasamaj
 error-page-something-went-wrong = K'o itzel xub'än
 error-page-its-probably-just-a-server-error = Rik'in jub'a' xa jun rusachoj ri ruk'u'x samaj chuqa' yojsamäj richin niqab'än rutzil.
+# Variables:
+#   $firefox (url) - link to https://firefox.com/
+#   $mozilla (url) - link to https://www.mozilla.org/
+error-page-you-can-also-try-refreshing = Yatikïr natojtob'ej nak'ëx ri ruxaq o yab'e pa <a href={ $firefox }>firefox.com</a> o <a href={ $mozilla }>mozilla.org</a>
