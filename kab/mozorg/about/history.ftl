@@ -41,7 +41,7 @@ history-in-2003-the-mozilla-project = Deg 2003, asenfaṛ { -brand-name-mozilla 
 history-the-new-mozilla-foundation = Tasbeddit Mozilla i d-yelulen melmi kan { -brand-name-mozilla-foundation }, tettkemmil asefrek n usenfar, terna teddem takti ad tesnerni s wudem unṣib <a href="{ $manifesto }"> alday, asnulfu akked tegnatin</a> i d-yettmuddu Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
-history-it-did-this-by-continuing = Akken ad taweḍ iswiyen agi, tasbeddit tkemmel asnulfu n iseɣẓanen am { -brand-name-firefox } akked thunderbird war am teǧǧa tiɣula nniḍen am <a href="{ $grants }">tsigras </a> akken ad tɛiwen leqdic icudden ɣer usnerni n unekcum ɣer Web.
+history-it-did-this-by-continuing = Akken ad taweḍ ɣe yiswiyen-a, tasbeddit tettkemmil asnulfu n yiseɣẓanen am { -brand-name-firefox } d { -brand-name-thunderbird } war ma teǧǧa tiɣula-nniḍen, am <a href="{ $grants }">tsigras </a> i wakken ad tɛiwen leqdic icudden ɣer usnerni n unekcum ɣer Web.
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
