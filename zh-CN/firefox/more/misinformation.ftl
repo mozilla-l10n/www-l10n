@@ -21,6 +21,7 @@ misinformation-spot-online-heading = 如何在网上辨别错误信息，并帮�
 misinformation-look-at-url = 查看 URL 或来源。
 misinformation-known-to-br-credible = 它是可信的吗？若不确定，请尝试在互联网上查找信息源及其信誉度等更多信息。
 misinformation-overly-sensational = 标题是否过分耸人听闻？
+misinformation-check-out-websites = 翻阅您信任的网站和新闻媒体，看看它们是否以及如何就同一主题进行报道。有操纵意图的内容，通常言辞极端，用语夸张，且缺少证据，无法在专业报告中找到支撑材料。
 misinformation-content-up-to-date = 内容是最新信息吗？
 misinformation-outdated-information = 过时的信息不一定是错误的，但很可能不再正确。
 misinformation-credible-publication = 作者是否发表过其他文章或帖子（最好是在正规的出版物）？
