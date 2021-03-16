@@ -7,18 +7,30 @@ footer-privacy = Tudert tabaḍnit
 footer-press = Taɣamsa
 footer-brand-standards = Ilugan n tecreḍt
 footer-browsers = Iminigen
+# Outdated string
 footer-desktop = Aselkim
+# Outdated string
 footer-mobile = Aziraz
+# Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
 footer-products = Ifarisen
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
+# Outdated string
 footer-monitor = { -brand-name-monitor }
+# Outdated string
 footer-send = { -brand-name-send }
+# Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
 footer-join = Ddu-d
+# Outdated string
 footer-sign-up = Jerred
+# Outdated string
 footer-sign-in = Qqen
+# Outdated string
 footer-benefits = Abaɣur
 footer-developers = Ineflayen
 footer-developer-edition = { -brand-name-developer-edition }
@@ -30,10 +42,13 @@ footer-visit-mozilla-corporations = Rzu ɣer <a { $moco_link }>{ -brand-name-moz
 footer-portions-of-this-content = Kra n yeḥricen n ugbur-a d ©1998–{ $current_year } sɣur imttekkiyen n mozilla.org. Agbur yella ddaw n <a rel="license" href="{ $url }">turagt { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Takebbanit
+# Outdated string
 footer-about = Γef
 footer-press-center = Axxam n tɣamsa
 footer-careers = Axeddim
+# Outdated string
 footer-test-new-features = Sekyed timahilin timaynutin
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Ifecka
 footer-resources = Tiɣbula
@@ -47,6 +62,9 @@ footer-websites-cookies = Inagan n tuqqna
 footer-websites-legal = Usḍif
 footer-language = Tutlayt
 footer-go = Bdu
+footer-donate = Mudd tawsa
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Ḍfer @{ -brand-name-mozilla }
+footer-follow-firefox = Ḍfer @{ -brand-name-firefox }

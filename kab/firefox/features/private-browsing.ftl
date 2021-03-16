@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Tunigin tusligt s ummesten-nniḍen mgal aḍfaṛ.
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } yemmestan tudert-ik tusligt, yessewḥal ineḍfaṛen i k-yeṭṭafaṛen di web.
+features-private-browsing-download-firefox = Sader { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox } : ugar n ummesten. Drus n wuguren.
 features-private-browsing-were-obsessed-with = Ayen iɣ-yecceɣben d ammesten n tudert-ik tusligt. Hatan acuɣer i nerra tunigin tusligt s { -brand-name-firefox } teǧhedd ugar n iminigen-nniḍen.
 features-private-browsing-browse-without = Inig war ma teǧǧiḍ lǧeṛṛa

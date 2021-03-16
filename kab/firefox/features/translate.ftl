@@ -7,6 +7,8 @@
 
 # page title
 features-translate-translate-the-web-title = Suqel web - srid deg yiminig-ik·im
+# page description
+features-translate-translate-more-than = Suqqel seg ugar n 100 tutlayin ɣer tatlayt-ik·im srid deg { -brand-name-firefox-browser }-inek·inem - fessus ugar ɣef wayen yezrin.
 features-translate-translate-the-web = Suqel web s { -brand-name-firefox }
 features-translate-to-google-translate = I usuqel n { -brand-name-google }
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/

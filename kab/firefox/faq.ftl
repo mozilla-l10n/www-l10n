@@ -25,6 +25,7 @@ what-is-firefox = D acu-t { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = { -brand-name-firefox } d aɣellsan i usader?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -44,7 +45,7 @@ what-is-firefox = D acu-t { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 who-owns-firefox = Anwa i bab n { -brand-name-firefox }?
 
