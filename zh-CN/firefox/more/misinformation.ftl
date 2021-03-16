@@ -16,6 +16,7 @@ misinformation-false-info-heading = 错误信息会出现在哪里？
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
 misinformation-widespread-online = 您可以在任何地方见到错误信息和虚假信息，但在互联网上更为普遍且影响最深。算法和<a href="{ $tracking }">跟踪</a>充当了错误信息和虚假信息的扩增器，从而可以在网站、博客、论坛和社交网络上吸引更多受众。
 misinformation-tracking-advertising = 您可能听说过跟踪主要是在广告方面。然而，在传播错误信息时，它也是不可忽视的工具。为什么呢？当您浏览互联网或社交网络内容时，您的行为、兴趣、某些情况下的联系人以及更多信息会被网站上的各方跟踪，然后在您不知情或未经您同意的情况下建立您的极为详细的个人资料并出售给其他人。这些资料可以用于个性化广告，当然也可以用于向您呈现任何类型的目标信息。
+misinformation-social-newtorks = 您在任何网站或社交网络上收到的内容推荐，基本都是算法根据您的个人资料信息而显示的。不幸的是，尽管算法越来越聪明，但它们仍无法检查内容的准确性。这对于社交媒体而言，尤其成问题：它们每天都会为用户提供无数的信息，并且可以访问几乎无限的内容，包括用户帖子、新闻文章、广告和赞助内容。尽管帖子和文章可能会意外地传播错误信息，但广告和赞助内容却可以用于故意散播错误信息以操纵用户。因此，如何识别错误信息对您十分重要。
 misinformation-spot-online-heading = 如何在网上辨别错误信息，并帮助阻止其传播
 misinformation-look-at-url = 查看 URL 或来源。
 misinformation-known-to-br-credible = 它是可信的吗？若不确定，请尝试在互联网上查找信息源及其信誉度等更多信息。
@@ -33,6 +34,9 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } 可拦�
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = 如上所述，跟踪是错误信息传播中的重要一环。 使用内置<a href="{ $protection }">增强型跟踪保护</a>的 <a href="{ $firefox }">{ -brand-name-firefox }</a>，便可在您浏览网页时，自动拦截来自广告商等的跟踪器，让您重新掌控自己的在线数据。
 misinformation-social-media-clean-heading = { -brand-name-firefox } 可帮助您使社交媒体的推送内容免受污染：
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = 社交网络十分了解您。即使您没有账户，它们也可以通过其“分享”和“赞”按钮在平台之外跟踪您，即使启用了“跟踪保护”功能也是如此。而 { -brand-name-firefox } 的 <a href="{ $container }">{ -brand-name-facebook-container }</a> 可有效遏制 { -brand-name-facebook } 和 { -brand-name-instagram } 的跟踪活动，进一步降低通过广告和推广内容看到错误信息的可能性。
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } 帮助您获取有价值的内容：
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
