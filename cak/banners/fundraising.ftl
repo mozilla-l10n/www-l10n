@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = Ri k'aslem nitz'et ruwa pa k'amab'ey. Tato' ri { -brand-name-mozilla } richin nub'än jun ajk'amaya'l qichin qonojel.
 banner-fundraising-monthly = Ik' ik'
 banner-fundraising-one-time = Jumul
 banner-fundraising-donate = Kasipan
