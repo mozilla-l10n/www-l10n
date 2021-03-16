@@ -14,6 +14,10 @@ password-manager-password-manager = Xq'i' chi ri Password Manager man tiq'at chi
 password-manager-give-up-the-memory = Taya' kan ri retz'anem tzatzq'or rik'in ri { -brand-name-firefox } Password Manager.
 password-manager-password-hero = Rumama'al ewan tzij
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Timestäx ri koloj. { -brand-name-firefox } Password Manager yeruyäk konojel ri taq ewan atzij richin pa ruyonil tutikirisaj molojri'ïl chuqa' man k'ayew ta nawïl ri taq ewan tzij e'ayakon. Richin jun nïm jikomal, taya' chi re ri akematz'ib' jun <a href="{ $url }">nab'ey ewan tzij</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Timestäx ri koloj. { -brand-name-firefox } Password Manager yeruyäk konojel ri taq ewan atzij richin pa ruyonil tutikirisaj molojri'ïl chuqa' man k'ayew ta nawïl ri taq ewan tzij e'ayakon. Richin jun nïm jikomal, taya' chi re ri akematz'ib' jun <a href="{ $url }">rute' ewan tzij</a>.
 password-manager-password-magician = Rajitz ewan tzij
