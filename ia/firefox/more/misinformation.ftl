@@ -30,6 +30,10 @@ misinformation-images-captions = Concorda le imagines e le legendas?
 misinformation-images-are-powerful = Imagines es un multo potente instrumento pro le disinformation mirate. Secundo le legenda, le perception pote esser volvite in le absolute opposite. Si tu non es secur, exeque un recerca inverse per imagine pro discoperir como le imagine es describite sur altere sitos.
 misinformation-how-firefox-helps-heading = Como { -brand-name-firefox } te adjuta a evitar information errate
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantene traciatores sub controlo:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Como mentionate antea, le traciamento joca un grande rolo in le diffusion de information errate. <a href="{ $firefox }">Usar { -brand-name-firefox }</a> con le <a href="{ $protection }">Protection contra-traciamento reinfortiate</a> adjuta blocar le traciatores de tertie-parte de multe publicitarios e altere jocatores, de ordinario quando tu folietta le web, de maniera que tu regania controlo sur tu datos online.
 misinformation-social-media-clean-heading = { -brand-name-firefox } adjuta a mantener munde le avisos de tu retes social:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } adjuta a presentar contento digne de tu tempore:
