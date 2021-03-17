@@ -15,3 +15,7 @@ privacy-first = Privacidade em primeiro lugar
 firefox-doesnt-spy = O { -brand-name-firefox } não espia o que faz na Internet. Impedimos muitos cookies de rastreamento de terceiros conhecidos e damos, a si, o controlo absoluto.
 super-fast = Super rápido
 get-speed-and = Obtenha velocidade e segurança. O { -brand-name-firefox } é rápido porque não monitorizamos os seus movimentos.
+always-evolving = Sempre a evoluir
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Descubra mais sobre todas as <a href="{ $url }">funcionalidades incríveis do { -brand-name-firefox }</a>.
