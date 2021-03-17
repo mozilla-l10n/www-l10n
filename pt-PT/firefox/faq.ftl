@@ -57,10 +57,16 @@ does-firefox-sell = O { -brand-name-firefox } vende os seus dados pessoais?
 
 nope-never-have = Não! Nunca o fizemos e nunca o vamos fazer. E iremos protegê-lo de muitos dos anunciantes que o fazem. Os produtos { -brand-name-firefox } são desenhados para proteger a sua privacidade. <a href="{ $url }">Isto é uma promessa</a>.
 why-is-firefox = Porque é que o { -brand-name-firefox } é tão lento?
+firefox-isnt-slow = O { -brand-name-firefox } não é lento... agora. Em 2017, reconstruimos completamente o nosso motor do navegador (chamado de Quantum), para garantir que o { -brand-name-firefox } pudesse competir com os outros principais navegadores. E nossos bloqueadores de monitorização ajudam as páginas a carregar ainda mais rápido. Portanto, o { -brand-name-firefox } é extremamente rápido, sem sacrificar a sua privacidade.
+is-firefox-chromium = O { -brand-name-firefox } é baseado no { -brand-name-chromium }?
+firefox-is-not = O { -brand-name-firefox } não é baseado no { -brand-name-chromium } (o projeto de navegador de código aberto que é o núcleo do { -brand-name-google } { -brand-name-chrome }). Na verdade, somos um dos últimos principais navegadores que não é baseado no { -brand-name-chromium }. O { -brand-name-firefox } é baseado no motor de navegador Quantum, construído especificamente para o { -brand-name-firefox }, para que possamos garantir que os seus dados são tratados com respeito e mantidos em privado.
+does-firefox-use = O { -brand-name-firefox } utiliza o { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = O { -brand-name-google } é o motor de pesquisa predefinido do { -brand-name-firefox }, o que significa que pode pesquisar na Internet diretamente a partir da barra de endereço. <a href="{ $url }">Saiba mais sobre as preferências do motor de pesquisa e como alterar as predefinições</a>.
+does-firefox-have = O { -brand-name-firefox } tem uma VPN incorporada?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
