@@ -21,11 +21,23 @@ misinformation-spot-online-heading = Si të dallohet informacion i rremë në in
 misinformation-look-at-url = Shihni URL-në dhe/ose burimin.
 misinformation-known-to-br-credible = Njihet si i besueshëm? Nëse s’jeni i sigurt, provoni të mësoni më tepër rreth burimit dhe reputacionit të tij në internet.
 misinformation-overly-sensational = A është tejet i bujshëm titulli?
+misinformation-check-out-websites = Hidhuni një sy sajteve dhe agjencive të lajmeve që besoni, për të parë nëse dhe si e raportojnë të njëjtën temë. Lënda që është konceptuar për t’ju manipuluar, shpesh do të përdorë gjëra të skajshme dhe teprime për të cilat s’ka fakte dhe s’do të gjenden në reportazhe të bazuar në kërkim.
 misinformation-content-up-to-date = A është e përditësuar lënda?
+misinformation-outdated-information = Informacioni i vjetruar s’do të thotë domosdo dezinformim, por mund të mos jetë më i përpiktë.
+misinformation-credible-publication = A ka botuar autori artikuj të tjerë ose postime, mundësisht në botime të besueshme?
+misinformation-authors-name = Nëse emrin e autorit e gjeni vetëm në sajte të dyshimtë, s’duhet t’u jepni shumë rëndësi pohimeve të tyre.
 misinformation-images-captions = A përputhen figurat me titujt për to?
+misinformation-images-are-powerful = Figurat janë një mjet shumë i fuqishëm për dezinformim të fokusuar. Në varësi të titullit të figurës, perceptimi mund të shtrembërohet krejt në të kundërtën. Nëse s’jeni i sigurt, kryeni një kërkim së prapthi për figurën, për të parë se si përshkruhet figura në sajte të tjerë.
 misinformation-how-firefox-helps-heading = Si ju ndihmon { -brand-name-firefox }-i të shmangni keqinformimin
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } i mban nën kontrollon gjurmuesit:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Si u tha më parë, gjurmimi luan një rol të madh në përhapjen e keqinformimit. <a href="{ $firefox }">Përdorimi i { -brand-name-firefox }-it</a> me <a href="{ $protection }">Mbrojtje të Thelluar Nga Gjurmimi</a> ndihmon këtu përmes bllokimit të gjurmuesve nga palë të treta, të përdorur, si parazgjedhje,  nga mjaft reklamues dhe lojtarë të tjerë, kur shfletoni në internet, më mënyrë që të rifitoni kontrollin mbi të dhënat tuaja internetore.
 misinformation-social-media-clean-heading = { -brand-name-firefox }-i ju ndihmon të mbani të pastra prurjet tuaja nga media shoqërore:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Rrjetet shoqërore dinë shumë për ju. Plus, janë në gjendje t’ju ndjekin jashtë platformave të tyre, me butonat e tyre “Ndajeni me të tjerë”S dhe “Pëlqejeni”, pavarësisht Mbrojtjes Nga Gjurmimi — edhe kur s’keni një llogari në to. <a href="{ $container }">{ -brand-name-facebook-container }</a> për { -brand-name-firefox } siguron që { -brand-name-facebook } dhe { -brand-name-instagram } të mund të mos e bëjnë këtë kaq lehtë, çka edhe kjo ul goxha gjasat e parjes së keqinformimit përmes reklamash dhe lënde të sponsorizuar.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox }-i ju ndihmon të bini në kontakt me lëndë që e meriton kohën tuaj:
 misinformation-why-trust-firefox = Pse t’i zihet besë { -brand-name-firefox }-it?
