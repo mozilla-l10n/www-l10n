@@ -36,10 +36,14 @@ no-we-dont = Não, nós não achamos que o { -brand-name-chrome } seja melhor do
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Veja como o { -brand-name-firefox } se compara ao { -brand-name-chrome }.</a>
+related-questions-better = Questões relacionadas: o { -brand-name-firefox } é melhor do que o { -brand-name-chrome }, o { -brand-name-firefox } é melhor que o { -brand-name-google }, o { -brand-name-firefox } é mais seguro que o { -brand-name-chrome }, o { -brand-name-firefox } é mais privado que o { -brand-name-chrome }
+is-firefox-safe-download = É seguro transferir o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Proteger a sua privacidade é nossa prioridade número um e garantimos que a instalação do { -brand-name-firefox } nos seus dispositivos é totalmente segura - mas certifique-se  sempre que faz a transferência a partir de um site da { -brand-name-mozilla }/{ -brand-name-firefox }, como a <a href="{ $url }">nossa página de transferências</a>.
+is-firefox-safe = O { -brand-name-firefox } é seguro?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
