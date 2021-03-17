@@ -12,5 +12,6 @@ browser-history-world-history-is = Ri aj ruwach'ulew b'anob'äl nojinäq chi kij
 browser-history-before-web-era = Chuwäch ri Ruq'ijul Ajk'amaya'l
 browser-history-web-era = Ajk'amaya'l Q'ijul
 browser-history-the-browser-wars = Kilab'enïk Okik'amaya'l
+browser-history-browsing-the-web = Okem pa K'amaya'l Wakami
 browser-history-resources = Taq Tob'äl
 browser-history-take-control-of = Tak'waj rub'ey ri akanob'al.
