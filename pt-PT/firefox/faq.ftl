@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = FAQ do { -brand-name-firefox }
+whether-you-searched-privacy = Quer tenha procurado por um navegador rápido que protege a sua privacidade, esta FAQ está aqui para responder às perguntas mais prementes relacionadas com o { -brand-name-firefox }.
+whether-you-searched-independant = Quer tenha procurado por um navegador rápido ou se estiver à procura de tecnologia independente que protege a sua privacidade, esta FAQ está aqui para responder às perguntas mais prementes relacionadas com o { -brand-name-firefox }.
 what-is-firefox = O que é o { -brand-name-firefox }?
 
 # Variables:
@@ -42,7 +46,7 @@ what-is-firefox = O que é o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 
 # Variables:
