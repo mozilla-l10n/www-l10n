@@ -15,6 +15,7 @@ what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } ha’e kundahára ha’evéva oykekóva peteĩ atyguasu viru’ỹgua nohepyme’ẽiva ne mba’ekuaarã teéva umi maranduñemuguávape ha ne pytyvõ emo’ã hag̃ua ne marandu teéva. Eikuaave <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y <a href="{ $url2 }">ambue apopyre.</a> rehegua
 how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 
 # Variables:
@@ -25,6 +26,7 @@ how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
+yep-the-firefox = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Reietegua. Ndaipóri jehepyme’ẽ kañymby. Nerejehepyme’ẽi eipuru hag̃ua, ha norohepyme’ẽi ne mba’ekuaarã teéva.
 related-questions-free = Porandu ojuehegua: ¿{ -brand-name-firefox-browser } reigua, ¿{ -brand-name-firefox } hepýpa?
 is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-gui?
 
