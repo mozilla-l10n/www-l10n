@@ -48,10 +48,15 @@ is-firefox-safe = O { -brand-name-firefox } é seguro?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Não só é seguro utilizar o { -brand-name-firefox }, como este ajuda a manter os seus dados e informações privadas seguras. O { -brand-name-firefox-browser } bloqueia automaticamente rastreadores de terceiros conhecidos, rastreadores de redes sociais, cripto-mineradores e identificadores digitais de recolher os seus dados. <a href="{ $url }">Saiba mais sobre a privacidade dos nossos produtos</a>.
+related-questions-safe = Questões relacionadas: o { -brand-name-firefox } é bom para a privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é melhor para a privacidade
+does-firefox-sell = O { -brand-name-firefox } vende os seus dados pessoais?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Não! Nunca o fizemos e nunca o vamos fazer. E iremos protegê-lo de muitos dos anunciantes que o fazem. Os produtos { -brand-name-firefox } são desenhados para proteger a sua privacidade. <a href="{ $url }">Isto é uma promessa</a>.
+why-is-firefox = Porque é que o { -brand-name-firefox } é tão lento?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
