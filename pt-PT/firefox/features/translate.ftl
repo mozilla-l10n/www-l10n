@@ -20,3 +20,10 @@ features-translate-google-translate-with = O { -brand-name-google } Translate, c
 features-translate-get-the-extension = Obter a extensão
 features-translate-once-installed-simply = Depois de estar instalada, basta selecionar o texto que deseja traduzir e clicar com o botão direito para abrir um menu com duas opções: 1) Encaminhá-lo para o translate.google.com com o texto selecionado inserido automaticamente no campo de tradução; ou 2) Ouvir a pronunciação aúdio da frase (tecnologia de { -brand-name-google } Text-to-Speech), o que é útil se estiver a tentar aprender um novo idioma.
 features-translate-switch-languages-in = Mudar de idiomas no { -brand-name-firefox }
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Se já está a utilizar o { -brand-name-firefox }, pode alterar o idioma do seu navegador ou adicionar idiomas à interface do { -brand-name-firefox }. <a { $attrs }>Pode saber como, aqui.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Com a extensão To { -brand-name-google } Translate, pode atualmente traduzir <a { $attrs }>estes idiomas</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> e mais!</a>
+features-translate-for-everyone = O Firefox é para todos

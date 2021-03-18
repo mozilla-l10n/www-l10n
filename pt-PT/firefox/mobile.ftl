@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = A privacidade que merece. A velocid
 firefox-mobile-get-firefox-for-mobile = Obter { -brand-name-firefox } para dispositivos móveis
 firefox-mobile-send-a-download-link-to-your = Envie uma ligação de transferência para o seu dispositivo móvel.
 firefox-mobile-scan-the-qr-code-to-get-started = Digitalize o código QR para começar
+firefox-mobile-scan-alt-text = Digitalize o código QR para obter o { -brand-name-firefox } para dispositivos móveis
