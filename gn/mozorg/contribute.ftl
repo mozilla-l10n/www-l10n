@@ -27,6 +27,7 @@ contribute-task-mozilla-codebase-heading = Eipytyvõ { -brand-name-mozilla } ayv
 contribute-task-mozilla-codebase-desc = Emoporãve opaite { -brand-name-mozilla } apopyre eipytyvõvo heta pa’ũ mboguatapyre reheguáva.
 contribute-task-support-desc = Eipytyvõ oikóvo { -brand-name-mozilla } apopyrégui ijepurureíva. Embohovái porandu “ñepytyvõ” avakueragua ha’éva aty tekohagua pytyvõrã { -brand-name-mozilla } mba’e.
 contribute-task-join-heading = Ejuaju tekoháre
+contribute-task-join-desc = ¿Emba’aposevépa ore rekohápe { -brand-name-mozilla }? Eporandu opaite pa’ũ emba’apokuaa hag̃ua ore ñandutiroguépe.
 
 ## Mission
 
