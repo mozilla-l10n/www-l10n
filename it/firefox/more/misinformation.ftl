@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-subheading = Dai un’occhiata ai suggerimenti per vedere meno cattiva informazione e concentrarti su ciò che è importante per te
+misinformation-false-info-heading = Dove si possono trovare false informazioni?
+misinformation-spot-online-heading = Come riconoscere le false informazioni online e contribuire a fermarne la diffusione
+misinformation-overly-sensational = Il titolo è eccessivamente sensazionale?
