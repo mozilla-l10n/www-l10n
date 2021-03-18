@@ -25,6 +25,7 @@ contribute-task-translate-heading = Tetepy moñe’ẽasa
 contribute-task-translate-desc = Ñanduti heko mbaretéta oñeikumbýrõ opa hendápe. Orepytyvõna opopyre ñe’ẽasápe ha ñanduti renda { -brand-name-mozilla } rehe ne ñe’ẽme g̃uarã.
 contribute-task-mozilla-codebase-heading = Eipytyvõ { -brand-name-mozilla } ayvúpe
 contribute-task-mozilla-codebase-desc = Emoporãve opaite { -brand-name-mozilla } apopyre eipytyvõvo heta pa’ũ mboguatapyre reheguáva.
+contribute-task-support-desc = Eipytyvõ oikóvo { -brand-name-mozilla } apopyrégui ijepurureíva. Embohovái porandu “ñepytyvõ” avakueragua ha’éva aty tekohagua pytyvõrã { -brand-name-mozilla } mba’e.
 contribute-task-join-heading = Ejuaju tekoháre
 
 ## Mission
