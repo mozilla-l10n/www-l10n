@@ -32,6 +32,7 @@ contribute-task-join-desc = ¿Emba’aposevépa ore rekohápe { -brand-name-mozi
 ## Mission
 
 contribute-mission-heading = Ore rembipota
+contribute-mission-desc = Ore rembipota ha’e Ñanduti ha’eva’erãha avakuéra rembipuruete, ijuruja ha oikekuaahápe opavave. Peteĩ Ñanduti añetete omoĩva avakuérape tenondete, tapicha orekohápe pokatu, tekorasã ha sãso ohechauka hag̃ua hembiapo rapykuere.
 contribute-learn = Eikuaave { -brand-name-mozilla } rehegua
 contribute-read-manifesto = Emoñe’ẽ Mozilla he’ipyre
 contribute-find-event = Ejuhu tembiaporã
