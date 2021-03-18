@@ -22,3 +22,6 @@ features-pip-cruise-around-to-other = <strong>Navegue para outros separadores</s
 features-pip-repeat-steps-1-3-to-have = <strong>Repita os passos 1 a 3</strong> para ter quantos vídeos quiser em janelas flutuantes.
 features-pip-3-more-ways-to-use-picture = 3 outras formas de utilizar o vídeo em janelas flutuantes
 features-pip-3-ways-to-use-picture = 3 formas de utilizar o vídeo em janelas flutuantes
+features-pip-watch-a-lecture-or-meeting = Assistir a uma palestra ou reunião enquanto tira notas
+features-pip-keep-a-tutorial-video-open = Manter um tutorial vídeo aberto com uma receita enquanto cozinha
+features-pip-entertain-cats-dogs-and-kids = Entreter gatos, cães e crianças enquanto trabalha

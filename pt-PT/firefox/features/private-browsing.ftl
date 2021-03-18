@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Navegador privado com proteção contra monitorização extra
 # HTML page description
 features-private-browsing-firefox-protects = O { -brand-name-firefox } protege a sua privacidade online e bloqueia trackers que lhe seguem pela web.
+features-private-browsing-download-firefox = Transferir o { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Mais proteção. Menos preocupação.
 features-private-browsing-were-obsessed-with = Estamos obcecados com a proteção da sua privacidade. É por isso que nós tornamos a Navegação privada do { -brand-name-firefox } mais poderosa do que os outros.
 features-private-browsing-browse-without = Navegue sem um rasto
