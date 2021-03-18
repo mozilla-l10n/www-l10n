@@ -26,7 +26,7 @@ what-is-a-browser-when-the-web-browser = Quando o navegador web pega dados de um
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
-what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hiperlinks</a> permitem aos usuários seguir um caminho para outras páginas ou sites na web. Cada página, imagem e vídeo tem seu próprio <a href="{ $url }">Localizador Uniforme de Recursos</a> (URL) único, também conhecido como endereço web. Quando um navegador visita um servidor para obter dados, o endereço web informa ao navegador onde procurar cada item descrito no código html, que então indica ao navegador onde posicionar na página web.
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Links</a> permitem aos usuários seguir um caminho para outras páginas ou sites na web. Cada página, imagem e vídeo tem seu próprio <a href="{ $url }">Localizador Uniforme de Recursos</a> (URL) único, também conhecido como endereço web. Quando um navegador visita um servidor para obter dados, o endereço web informa ao navegador onde procurar cada item descrito no código html, que então indica ao navegador onde posicionar na página web.
 what-is-a-browser-cookies-not-the = Cookies (não os do tipo biscoito)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
