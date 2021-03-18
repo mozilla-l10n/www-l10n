@@ -45,6 +45,7 @@ contribute-opportunities = Marandu ha pa’ũ ñepytyvõrãva
 ## Made by
 
 contribute-made-by-heading = Ojapóva yvypóra ndeichaguánte avei
+contribute-made-by-desc = Emba’apóramo { -brand-name-mozilla } ndive, eikétama yvóra rekoha peguáramo oĩhápe tapichakuéra arapygua oguerovia añetéva opavavete jaguerekoha pokatu Ñandutígui oiko hag̃ua tapiaite mba’eapo porãrã añónte.
 
 ## Newsletter
 
