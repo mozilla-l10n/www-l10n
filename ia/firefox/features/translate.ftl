@@ -25,5 +25,5 @@ features-translate-if-you-are = Si tu usa jam { -brand-name-firefox }, tu pote c
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-with-the-to = *Con le extension To { -brand-name-google } Translate, tu pote actualmente traducer <a { $attrs }>iste linguas</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> e altero ancora!</a>
+features-translate-and-more = <a { $attrs }> e multo plus!</a>
 features-translate-for-everyone = Firefox es pro totes
