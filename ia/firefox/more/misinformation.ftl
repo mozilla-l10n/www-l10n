@@ -35,6 +35,9 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantene 
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Como mentionate antea, le traciamento joca un grande rolo in le diffusion de information errate. <a href="{ $firefox }">Usar { -brand-name-firefox }</a> con le <a href="{ $protection }">Protection contra-traciamento reinfortiate</a> adjuta blocar le traciatores de tertie-parte de multe publicitarios e altere jocatores, de ordinario quando tu folietta le web, de maniera que tu regania controlo sur tu datos online.
 misinformation-social-media-clean-heading = { -brand-name-firefox } adjuta a mantener munde le avisos de tu retes social:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Le retes social sape multo re te. In ultra, illos es capace de traciar te ultra lor platteformas con lor buttones Share e Like, malgrado le Protection de traciamento e mesmo si tu non ha un conto. <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox } rende secur que { -brand-name-facebook } e { -brand-name-instagram } non lo pote facer assi facilemente, isto reduce ancora le probabilitate de vider information errate via avisos publicitari e contento promovite notabilemente.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } adjuta a presentar contento digne de tu tempore:
 misinformation-why-trust-firefox = Perque fider in { -brand-name-firefox }?
