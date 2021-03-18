@@ -23,6 +23,14 @@ firefox-browsers-get-unmatched-data-protection = Profitescha da la protecziun da
 firefox-browsers-enterprise-packages = Pachets { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Surpassa las duas dimensiuns e scuvra il meglier cuntegn immersiv dal web.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-build-sites-and-refine-your = Creescha websites ed optimescha tes code cun { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
+firefox-browsers-learn-more-about-devtools = Ulteriuras infurmaziuns davart { -brand-name-devtools }
+firefox-browsers-join-firefox-and-get-the-most = Ve tar { -brand-name-firefox } e profitescha maximalmain da mintga product – sin mintga apparat.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign = Has ti gia in conto? <a { $fxa_attr }>T'annunzia</a> u <a { $accounts_attr }>ve a savair dapli</a> davart l'utilisaziun da Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

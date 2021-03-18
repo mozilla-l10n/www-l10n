@@ -16,3 +16,7 @@ welcome-page6-qr-code-to-scan-for-firefox = Code QR scannabel per { -brand-name-
 welcome-page6-choose-automatic-privacy = Tscherna la protecziun da datas automatica
 welcome-page6-companies-keep-finding-new = Firmas chattan adina novas vias per vegnir a tias datas persunalas. { -brand-name-firefox } è il navigatur che dat tut per chattar novas vias per ta proteger.
 welcome-page6-choose-freedom-on-every-device = Tscherna la libertad sin mintga apparat
+welcome-page6-firefox-is-fast-and-safe-on = { -brand-name-firefox } è svelt e segir sin { -brand-name-windows }, { -brand-name-ios }, { -brand-name-android }, { -brand-name-linux }… – dapertut. Ti meritas da pudair tscherner il navigatur e l'apparat empè ch'i vegn fatg decisiuns per tai.
+welcome-page6-choose-corporate-independence = Tscherna l'independenza dals concerns
+welcome-page6-firefox-is-the-only-major = { -brand-name-firefox } è l'unic navigatur independent pli grond. { -brand-name-chrome }, { -brand-name-edge } e { -brand-name-brave } sa basan tuts sin code da { -brand-name-google }. Quai munta che { -brand-name-google } po dominar anc pli fitg l'internet.
+welcome-page6-why-am-i-seeing-this = Pertge ves jau quai?
