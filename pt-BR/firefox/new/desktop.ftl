@@ -156,7 +156,7 @@ firefox-desktop-download-now-windows = Agora <strong>execute</strong> o instalad
 firefox-desktop-download-now-mac = Agora <strong>abra</strong> o arquivo que acabou de baixar.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Está com problemas? <a { $attrs }>Obtenha ajuda para sua instalação</a>.
+firefox-desktop-download-get-help = Está com problemas? <a { $attrs }>Peça ajuda para sua instalação</a>.
 firefox-desktop-download-in-another-language = Baixe em outro idioma ou para outro sistema operacional.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:

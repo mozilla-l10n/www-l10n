@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
 # HTML page title
-welcome-page3-get-the-free-account-that = Obtenha a conta gratuita que protege sua privacidade. Junte-se ao { -brand-name-firefox }.
+welcome-page3-get-the-free-account-that = Obtenha a conta gratuita que protege sua privacidade. Use o { -brand-name-firefox }.
 welcome-page3-no-account-required-but-you = Não é obrigatório ter uma conta. Mas você pode querer uma.
 welcome-page3-the-firefox-browser-collects = O navegador { -brand-name-firefox } coleta pouquíssimos dados sobre você, não precisamos nem do seu endereço de email. Mas quando você o usa para criar uma { -brand-name-firefox-account }, podemos proteger sua privacidade em mais áreas da sua vida online.
 welcome-page3-sign-in = Entrar
