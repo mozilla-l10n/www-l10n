@@ -52,6 +52,7 @@ contribute-made-by-desc-cont = Roguerovia tekoha ñepytyvõ ha’eha oikóva he�
 
 contribute-newsletter-heading = ¿Ndereikuaaporãi gueteripa?
 contribute-newsletter-sub-heading = Og̃uahẽta marandu tekohagua ha ñepytyvõ ñe’ẽmondo g̃uahẽhápe
+contribute-newsletter-desc = Eñemboheraguapy ore marandu’i jehaipyrépe, ejuaju Mozillians rehe arapy tuichakueguápe ha ehecha pa’ũguasu eykeko hag̃ua { -brand-name-mozilla } rembipota.
 
 ## Support
 
