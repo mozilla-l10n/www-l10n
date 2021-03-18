@@ -46,6 +46,7 @@ contribute-opportunities = Marandu ha pa’ũ ñepytyvõrãva
 
 contribute-made-by-heading = Ojapóva yvypóra ndeichaguánte avei
 contribute-made-by-desc = Emba’apóramo { -brand-name-mozilla } ndive, eikétama yvóra rekoha peguáramo oĩhápe tapichakuéra arapygua oguerovia añetéva opavavete jaguerekoha pokatu Ñandutígui oiko hag̃ua tapiaite mba’eapo porãrã añónte.
+contribute-made-by-desc-cont = Roguerovia tekoha ñepytyvõ ha’eha oikóva heñói hag̃ua Ñanduti hekoeta, hekoambue ha hekoporãva avakuéra oikotevẽ añetéva renondépe. Jepémo oikumbýva tembipurupyahu, tekoha ñemoheñói, térã mohendaha año rehegua ha nderekorei jave, ikatu ore pytyvõ rojapóvo Ñandutígui tenda iporãvéva.
 
 ## Newsletter
 
