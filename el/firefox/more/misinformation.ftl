@@ -8,3 +8,4 @@
 misinformation-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
 misinformation-your-privacy-by-the-product = Το απόρρητό σας, ανά προϊόν
 misinformation-learn-about-our-products = Μάθετε για τα προϊόντα μας
+misinformation-designed-to-protect = Σχεδιασμένο να προστατεύει το απόρρητό σας
