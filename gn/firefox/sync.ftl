@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-access-and-sync = Eike ha embojuehe techaukaha, ñe’ẽñemi, tendayke ijurujáva ha hetave — eipurúvo { -brand-name-firefox } oimehápe.
 firefox-sync-sync-your-firefox = Emoñondive nde { -brand-name-firefox } oimeraẽva mba’e’okápe
 firefox-sync-privacy-made-easy = Ñemigua momichĩmbyre
 firefox-sync-all-you-need = Opamba’e eikotevéva { -brand-name-firefox-sync } peg̃uarã ha’e { -brand-name-firefox-account }.
