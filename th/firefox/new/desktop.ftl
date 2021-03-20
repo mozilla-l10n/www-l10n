@@ -20,6 +20,24 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = ใช่
 firefox-desktop-download-no = ไม่
+firefox-desktop-download-blocks-third-party = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สาม
+firefox-desktop-download-blocks-third-party-default = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สามตามค่าเริ่มต้น
+firefox-desktop-download-autoplay-blocking = ปิดกั้นการเล่นอัตโนมัติ
+firefox-desktop-download-blocks-social-trackers = ปิดกั้นตัวติดตามทางสังคม
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการ
+firefox-desktop-download-in-browser-screenshot = เครื่องมือจับภาพหน้าจอในเบราว์เซอร์
+firefox-desktop-download-primary-password = รหัสผ่านหลัก
+# Obsolete string
+firefox-desktop-download-master-password = รหัสผ่านหลัก
+firefox-desktop-download-see-your-report = ดูรายงานการป้องกันของคุณ
+firefox-desktop-download-for-everyone = { -brand-name-firefox } สร้างขึ้นสำหรับทุกคน
+firefox-desktop-download-review-system-req = ตรวจสอบความต้องการของระบบ
+firefox-desktop-download-search-smarter = ค้นหาอย่างชาญฉลาดและเร็วขึ้น
+firefox-desktop-download-search-from-address = ค้นหาจากแถบที่อยู่
+firefox-desktop-download-search-engine-options = ตัวเลือกเครื่องมือค้นหา
+firefox-desktop-download-smart-search-suggestions = ข้อเสนอแนะการค้นหาอัจฉริยะ
+firefox-desktop-download-bookmark-history = ที่คั่นหน้า ประวัติ และแท็บที่เปิดอยู่ในผลลัพธ์
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
