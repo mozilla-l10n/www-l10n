@@ -19,5 +19,5 @@ features-adblocker-popup-ads-are-the-worst = ポップアップ広告は最悪�
 features-adblocker-one-of-the-most-popular = { -brand-name-chrome }、{ -brand-name-safari }、{ -brand-name-firefox } で最も人気のある広告ブロッカーの 1 つは、<a href="{ $url }">AdBlock</a> です。{ -brand-name-facebook }、{ -brand-name-youtube }、{ -brand-name-hulu } の広告をブロックするために使用します。
 features-adblocker-choose-your-level-of-protection = 保護レベルを選択してください
 features-adblocker-do-it-yourself-custom = あなた自身が設定するカスタムモード
-features-adblocker-send-a-do-not-track-signal = Do Not Track 信号を送信する
+features-adblocker-send-a-do-not-track-signal = DoNotTrack 信号を送信する
 features-adblocker-take-control-of-your-browser = 自分自身でブラウザーを管理。

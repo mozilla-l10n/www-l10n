@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: ページが見つかりませんでした
+not-found-page-go-back = 戻る
