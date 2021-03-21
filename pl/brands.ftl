@@ -76,6 +76,7 @@
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter =
     { $case ->
@@ -86,6 +87,7 @@
         [ins] Twitterem
         [loc] Twitterze
     }
+-brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
@@ -401,7 +403,6 @@
     }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync =
     { $case ->
        *[nom]
@@ -475,7 +476,6 @@
     }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync =
     { $case ->
        *[nom]
@@ -517,6 +517,8 @@
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -648,6 +650,7 @@
         [ins] Linuksem
         [loc] Linuksie
     }
+-brand-name-ubuntu = Ubuntu
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
 -brand-name-windows = Windows
