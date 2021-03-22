@@ -166,6 +166,7 @@
        *[upper] Linux
         [lower] linux
     }
+-brand-name-ubuntu = Ubuntu
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
 -brand-name-windows =
