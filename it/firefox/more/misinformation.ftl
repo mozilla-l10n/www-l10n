@@ -5,7 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-page-title = Evita la cattiva informazione online – { -brand-name-firefox } è qui per aiutarti
+misinformation-page-desc = La cattiva informazione (misinformation) è fastidiosa, distrae e ha un costo. { -brand-name-firefox } ha alcuni suggerimenti per evitare informazioni false e incontrarne di meno quando navighi il Web.
 misinformation-page-subheading = Dai un’occhiata ai suggerimenti per vedere meno cattiva informazione e concentrarti su ciò che è importante per te
+misinformation-what-is-heading = Che cos’è la cattiva informazione? E la disinformazione?
 misinformation-disinformation = Probabilmente hai già sentito parlare di cattiva informazione (<em>misinformation</em>) e disinformazione (<em>disinformation</em>)  in passato e ti sei chiesto se hanno un diverso significato. Ciò che li distingue è l’intenzione: la cattiva informazione è qualsiasi tipo di falsa informazione a cui le persone potrebbero credere. È facilmente verificabile come scorretta o fuorviante, ma non è stata creata o condivisa con l’intenzione di ingannare le persone. La disinformazione, invece, viene creata e diffusa per creare falsa informazione al fine di raggiungere un determinato obiettivo.
 misinformation-ultimately-harmful = Dopotutto, sia la cattiva informazione che la disinformazione possono essere dannose. Non solo perché le persone crederanno a informazioni errate, ma le false informazioni rappresentano un costo per l’economia globale e un potenziale rischio per la democrazia e un governo efficiente. Ed è difficile fermarle perché le notizie false si diffondono molto più velocemente, in profondità e in modo più ampio delle notizie vere.
 misinformation-false-info-heading = Dove si possono trovare false informazioni?
@@ -43,6 +46,7 @@ misinformation-surface-content-heading = { -brand-name-firefox } ti aiuta a mett
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
 misinformation-surface-content-desc = Quando apri una nuova scheda nel browser { -brand-name-firefox }, vedrai gli articoli <a href="{ $recommended }">consigliati da { -brand-name-pocket }</a>. { -brand-name-pocket } non utilizza nessuno dei tuoi dati personali per fornire consigli. Invece, gli articoli sono curati da persone reali che usano l’app. La capacità di scoprire nuove storie, punti di vista e opinioni, è un modo per combattere la diffusione della cattiva informazione. Per ricevere più consigli, iscriviti alla <a href="{ $pocket_hits }">newsletter { -brand-name-pocket }</a> e scarica <a href="{ $pocket }">{ -brand-name-pocket } l’app</a>.
+misinformation-why-trust-firefox = Perché fidarsi di { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Perché mettiamo al primo posto le persone. Infatti, siamo sostenuti da <a href="{ $foundation }">un’organizzazione senza fini di lucro</a>. Fin dal primo giorno, la nostra missione è stata quella di proteggere Internet e tutti coloro che lo utilizzano.
