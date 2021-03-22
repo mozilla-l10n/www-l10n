@@ -30,6 +30,7 @@ privacy-faq-wait-so-how-do-you-make-money = Ale jak potom vyděláváte?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } není běžná průměrná organizace. Vznikla jako komunitní open source projekt v roce 1998 a jejím hlavním cílem je její mise a snaha o zdravější internet. Zdrojem většiny zisku { -brand-name-mozilla-corporation(case: "gen") } je partnerství s webovými vyhledávači používanými ve { -brand-name-firefox(case: "gen") }. Více informací o tom, jak vyděláváme peníze, najdete v našem <a href="{ $link }">finančním reportu</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Teď něco složitějšího, jaká sbíráte data?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
@@ -46,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Kromě dat popsaných výše dost�
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = V nefinálních verzích { -brand-name-firefox(case: "gen") } občas sbíráme další data jako součást některé ze <a href="{ $link }">studií</a>. Některé studie například potřebují data o online aktivitě, která mohou obsahovat URL adresy a informace o některých webových stránkách. To nám pomáhá vylepšovat { -brand-name-firefox(case: "acc") } ve velmi konkrétních funkcích jako např. lepší integrace oblíbených stránek v konkrétních zemích.
-privacy-faq-mozillas-pre-release-versions = Nefinální verze { -brand-name-firefox }u nám slouží jako platforma pro vlastní vývojáře, často je aktualizujeme a obsahují i experimentální funkce. Před vydáním proto sbíráme více dat, abychom správně rozuměli jak a jestli tyto experimenty fungují. Samozřejmě můžete toto odesílání dat vypnout v nastavení.
+privacy-faq-mozillas-pre-release-versions = Nefinální verze { -brand-name-firefox(case: "gen") } nám slouží jako platforma pro vývojáře { -brand-name-mozilla(case: "gen") }, často je aktualizujeme a obsahují i experimentální funkce. Před vydáním proto sbíráme více dat, abychom správně rozuměli jak a jestli tyto experimenty fungují. Samozřejmě můžete toto odesílání dat vypnout v nastavení.
 privacy-faq-but-why-do-you-collect-any-data = Proč vlastně vůbec sbíráte jakákoliv data?
 privacy-faq-if-we-dont-know-how-the-browser = Pokud bychom nevěděli, jak a jestli prohlížeč u uživatelů funguje a jaké jeho funkce používají, nedokázali bychom snadno vylepšovat a vyvíjet v produkt, který chcete. Investovali jsme čas a úsilí do analytických nástrojů, které nám umožňují dělat informovaná rozhodnutí, ale zároveň plně respektují vaše soukromí.
 privacy-faq-data-collection-still-bugs-me = Nelíbí se mi jakýkoliv sběr dat. Mohu ho úplně vypnout?
