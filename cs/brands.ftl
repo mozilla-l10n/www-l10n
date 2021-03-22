@@ -493,17 +493,6 @@
         [ins] Firefox Monitorem
     }
     .gender = masculine
--brand-name-firefox-send =
-    { $case ->
-       *[nom] Firefox Send
-        [gen] Firefoxu Send
-        [dat] Firefoxu Send
-        [acc] Firefox Send
-        [voc] Firefoxe Send
-        [loc] Firefoxu Send
-        [ins] Firefoxem Send
-    }
-    .gender = masculine
 -brand-name-firefox-sync =
     { $case ->
        *[nom] Firefox Sync
@@ -563,7 +552,6 @@
         [ins] Monitorem
     }
     .gender = masculine
--brand-name-send = Send
 -brand-name-sync =
     { $case ->
        *[nom] Sync
@@ -601,6 +589,19 @@
         [ins] Firefoxem OS
     }
     .gender = masculine
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send =
+    { $case ->
+       *[nom] Firefox Send
+        [gen] Firefoxu Send
+        [dat] Firefoxu Send
+        [acc] Firefox Send
+        [voc] Firefoxe Send
+        [loc] Firefoxu Send
+        [ins] Firefoxem Send
+    }
+    .gender = masculine
+-brand-name-send = Send
 
 ## Pocket
 
