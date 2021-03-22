@@ -110,6 +110,17 @@
         [ins] Mozillou Foundation
     }
     .gender = feminine
+-brand-name-mullvad =
+    { $case ->
+       *[nom] Mullvad
+        [gen] Mullvadu
+        [dat] Mullvadu
+        [acc] Mullvad
+        [voc] Mullvade
+        [loc] Mullvadu
+        [ins] Mullvadem
+    }
+    .gender = masculine
 -brand-name-netscape =
     { $case ->
        *[nom] Netscape
@@ -130,6 +141,17 @@
         [voc] Twittere
         [loc] Twitteru
         [ins] Twitterem
+    }
+    .gender = masculine
+-brand-name-wireguard =
+    { $case ->
+       *[nom] WireGuard
+        [gen] WireGuardu
+        [dat] WireGuardu
+        [acc] WireGuard
+        [voc] WireGuarde
+        [loc] WireGuardu
+        [ins] WireGuardem
     }
     .gender = masculine
 
@@ -773,6 +795,8 @@
         [ins] Linuxem
     }
     .gender = masculine
+-brand-name-ubuntu = Ubuntu
+    .gender = neuter
 -brand-name-mac = macOS
 -brand-name-mac-short =
     { $case ->
