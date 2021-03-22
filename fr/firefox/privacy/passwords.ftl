@@ -14,6 +14,6 @@ privacy-passwords-guessing-it = En le devinant
 privacy-passwords-stealing-a-file = En volant un fichier contenant votre mot de passe
 privacy-passwords-using-password-recovery = En utilisant la récupération de mot de passe pour le réinitialiser
 privacy-passwords-tricking-you-into = En vous piégeant pour que vous lui donniez
-privacy-passwords-to-keep-your = Pour assurer la sécurité de votre connexion, vous devez vous prémunir d’autant de risques que possible. À chaque risque correspond une mesure de prévention différente.
+privacy-passwords-to-keep-your = Pour assurer la sécurité de votre identifiant, vous devez vous prémunir d’autant de risques que possible. À chaque risque correspond une mesure de prévention différente.
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
-privacy-passwords-use-firefox-monitor = Utilisez <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> pour garder un œil sur les adresses e-mail associées à vos comptes. Si votre adresse e-mail apparaît dans une fuite de données d’entreprise connue, vous serez alerté⋅e et informé⋅e des étapes à suivre pour protéger le compte concerné.
+privacy-passwords-use-firefox-monitor = Utilisez <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> pour garder un œil sur les adresses e-mail associées à vos comptes. Si votre adresse e-mail apparaît dans une fuite de données d’entreprise connue, vous serez alerté·e et informé·e des étapes à suivre pour protéger le compte concerné.
