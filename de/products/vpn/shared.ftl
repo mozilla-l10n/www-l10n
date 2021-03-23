@@ -51,7 +51,7 @@ vpn-shared-pricing-plan-12-month = 12 Monate
 vpn-shared-pricing-plan-monthly = 1 Monat
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
-vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-monthly = { $amount }<span>/Monat</span>
 vpn-shared-pricing-get-6-month = 6-Monats-Abo wählen
 vpn-shared-pricing-get-12-month = 12-Monats-Abo wählen
 vpn-shared-pricing-get-monthly = 1-Monats-Abo wählen
