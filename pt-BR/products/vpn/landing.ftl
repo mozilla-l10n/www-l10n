@@ -61,9 +61,32 @@ vpn-landing-faq-manage-subscription-question-heading = Como gerenciar minha assi
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Se você já tem uma assinatura do { -brand-name-mozilla-vpn }, pode alterar seu plano ou <a href="{ $url }">gerenciar sua assinatura</a> quando quiser.
+vpn-landing-faq-link = Veja mais perguntas frequentes
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Entre a lista de espera: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Seja notificado quando o { -brand-name-mozilla-vpn } estiver disponível para seu dispositivo e região.
+vpn-landing-invite-page-heading = Entrar na lista de espera da VPN
+vpn-landing-invite-email-label = Qual é seu endereço de email?
+vpn-landing-invite-required-label = Obrigatório
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = seunome@example.com
+vpn-landing-invite-country-label = Em que país você mora?
+vpn-landing-invite-language-label = Selecione um idioma.
+vpn-landing-invite-platform-label = Em quais plataformas você tem interesse?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Ao clicar em “Entrar na lista de espera”, você concorda com nossa <a href="{ $privacy }">política de privacidade</a>.
+vpn-landing-invite-your-information = Suas informações só serão usadas para te notificar sobre a disponibilidade da plataforma.
+vpn-landing-invite-thanks-heading = Obrigado! Você está na lista
+vpn-landing-invite-thanks-desc = Te enviaremos um email quando o { -brand-name-mozilla-vpn } estiver disponível na sua região.
 
 ##
 
