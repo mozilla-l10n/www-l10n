@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = L'any 2002, <a href="{ $over90 }">prop del 90% d'
 history-not-many-people-noticed = No se'n va adonar gaire gent, però la primera versió del Phoenix (posteriorment reanomenat a { -brand-name-firefox }) la va publicar aquell mateix any la comunitat de membres de { -brand-name-mozilla } amb l'objectiu de proporcionar la <a href="{ $charter }">millor experiència de navegació possible</a> a la major quantitat de gent possible.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = L'any 2003, el projecte { -brand-name-mozilla } va crear la Fundació { -brand-name-mozilla }, una <a href="{ $foundation }">organització independent sense ànim de lucre</a> amb el suports de donants individuals i diverses empreses.
+history-in-2003-the-mozilla-project = L'any 2003, el projecte { -brand-name-mozilla } va crear la { -brand-name-mozilla-foundation }, una <a href="{ $foundation }">organització independent sense ànim de lucre</a> amb el suport de donants individuals i diverses empreses.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = La nova Fundació Mozilla va continuar amb el rol de gestionar les operacions diàries del projecte i també va agafar de forma oficial el rol de promoure <a href="{ $manifesto }">els estàndards oberts, la innovació i la oportunitat</a> a l'Internet.
+history-the-new-mozilla-foundation = La nova { -brand-name-mozilla-foundation } va continuar amb el rol de gestionar les operacions diàries del projecte i també va agafar de forma oficial el rol de promoure <a href="{ $manifesto }">els estàndards oberts, la innovació i l'oportunitat</a> a l'Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = I ho va fer continuant la publicació de programari, com el { -brand-name-firefox } i el { -brand-name-thunderbird }, i expandint-se a noves àrees, com la de proporcionar<a href="{ $grants }">beques</a> per donar suport a millores en l'accessibilitat al Web.
