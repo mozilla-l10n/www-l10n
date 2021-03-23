@@ -51,3 +51,4 @@ sub-navigation-privacy = Ichinanem
 sub-navigation-our-promise = Sujun Qatzij
 sub-navigation-our-products = Taq Qatikojil
 sub-navigation-little-book-of-privacy = Ko'öl Ruwuj Ichinanem
+sub-navigation-safe-passwords = Jikïl Ewan taq Tzij
