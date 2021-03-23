@@ -13,6 +13,7 @@ vpn-landing-hero-desc = 由 { -brand-name-firefox } 製造者所推出的 VPN �
 vpn-landing-faq-heading = 常見問題
 vpn-langing-faq-uses-question-heading = VPN 是什麼，有什麼用途？
 vpn-landing-faq-protected-question-heading = 會如何保護我的隱私權？
+vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 相容於哪些裝置？
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 相容於:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（僅 64 位元）
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac }（10.15 或更新版本）
