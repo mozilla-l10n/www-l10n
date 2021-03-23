@@ -7,6 +7,14 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Proteja todo seu dispositivo
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Use o { -brand-name-mozilla-vpn } para proteção total do dispositivo em todos os aplicativos. Com servidores em mais de { $countries } países, você pode se conectar a qualquer lugar, de qualquer lugar.
+vpn-landing-hero-sub-heading = Segurança com que você pode contar. Um nome em que você pode confiar.
+vpn-landing-hero-desc = Uma Rede Privada Virtual dos criadores do { -brand-name-firefox }.
+vpn-landing-privacy-heading = Privacidade a um toque
+vpn-landing-privacy-desc = Navegue, assista vídeos, jogue e trabalhe enquanto mantém sua privacidade online. Esteja você viajando, usando um WiFi público, ou simplesmente procurando mais segurança online, sempre colocamos sua privacidade em primeiro lugar.
 vpn-landing-fast-secure-heading = Rede rápida e segura
 vpn-landing-brand-trust-heading = Uma VPN de uma empresa em que você pode confiar
 # Variables:
@@ -24,6 +32,10 @@ vpn-landing-faq-uses-question-desc = À medida que cada vez mais da vida cotidia
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Não gravamos registros, não rastreamos nem compartilhamos nenhuma atividade de rede. Aderimos rigorosamente aos <a href="{ $url }">princípios de privacidade de dados</a> da { -brand-name-mozilla } e coletamos somente os dados necessários para manter a VPN operacional e melhorar o produto ao longo do tempo.
 vpn-landing-faq-protected-question-heading = Como minha privacidade é protegida?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = O protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® criptografa o tráfego da rede, protegendo todas as suas informações privativas. Em comparação com os protocolos VPN existentes, o código leve do { -brand-name-wireguard } é mais fácil para os analistas de segurança revisar e auditar, tornando-o uma opção mais segura para a VPN. Além disso, sua atividade online permanece anônima porque nunca gravamos registros, não rastreamos nem compartilhamos seus dados de rede.
 vpn-landing-faq-competition-question-heading = Como o { -brand-name-mozilla-vpn } se compara à concorrência?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
