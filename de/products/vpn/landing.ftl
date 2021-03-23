@@ -24,7 +24,7 @@ vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } läuft über ein glob
 vpn-landing-brand-trust-heading = Ein Name, der Vertrauen schafft
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = { -brand-name-mozilla } Mozilla setzt sich seit über 20 Jahren für Online-Datenschutz ein und kämpft für ein besseres und gesünderes Internet für alle Menschen. Wir werden von einer gemeinnützigen Organisation unterstützt. Alles, was wir machen, ist Teil unserer Mission und folgt unseren <a href="{ $url }">Grundsätzen</a>.
+vpn-landing-brand-trust-desc = { -brand-name-mozilla } setzt sich seit über 20 Jahren für Online-Datenschutz ein und kämpft für ein besseres und gesünderes Internet für alle Menschen. Wir werden von einer gemeinnützigen Organisation unterstützt. Alles, was wir machen, ist Teil unserer Mission und folgt unseren <a href="{ $url }">Grundsätzen</a>.
 
 ## FAQ section
 
