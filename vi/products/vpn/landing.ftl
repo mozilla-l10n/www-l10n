@@ -14,6 +14,8 @@ vpn-landing-page-desc = Sử dụng { -brand-name-mozilla-vpn } để bảo vệ
 vpn-landing-hero-sub-heading = Một sự an toàn bạn có thể dựa vào. Một cái tên bạn có thể tin tưởng.
 vpn-landing-hero-desc = Một mạng riêng ảo từ nhà sản xuất { -brand-name-firefox }.
 vpn-landing-privacy-heading = Bảo mật chỉ bằng một lần nhấn
+vpn-landing-privacy-desc = Lướt web, phát trực tuyến, chơi trò chơi, và hoàn thành công việc trong khi vẫn duy trì quyền riêng tư của bạn khi trực tuyến. Cho dù bạn đang đi du lịch, sử dụng Wi-Fi công cộng hay chỉ đơn giản là tìm kiếm bảo mật trực tuyến, chúng tôi sẽ luôn đặt quyền riêng tư của bạn lên hàng đầu.
+vpn-landing-fast-secure-heading = Mạng nhanh và an toàn
 
 ## FAQ section
 
