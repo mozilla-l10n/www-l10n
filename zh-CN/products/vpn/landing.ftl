@@ -17,6 +17,7 @@ vpn-landing-brand-trust-heading = 值得信赖的品牌推出的 VPN
 vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
+vpn-landing-faq-protected-question-heading = 将如何保护我的隐私？
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 与竞品相比如何？
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 与哪些设备兼容？
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 兼容于下列平台：
@@ -50,6 +51,7 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
 vpn-landing-invite-privacy-policy = 点击“加入预约名单”，即表示您同意我们的 <a href="{ $privacy }">隐私政策</a>。
 vpn-landing-invite-your-information = 您的信息仅会用于向您通知平台可用性。
+vpn-landing-invite-thanks-heading = 感谢！您已成功加入
 vpn-landing-invite-thanks-desc = 当 { -brand-name-mozilla-vpn } 在您的区域可用时，我们将会发邮件通知您。
 
 ##
