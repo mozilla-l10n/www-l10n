@@ -6,13 +6,13 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
-vpn-landing-page-title = { -brand-name-mozilla-vpn }: Schützen Sie Ihr gesamtes Gerät
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Schütze dein gesamtes Gerät
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Verwenden Sie { -brand-name-mozilla-vpn } für den vollständigen Schutz Ihres Geräts für alle Apps. Mit Servern in mehr als { $countries } Ländern können Sie von überall und überallhin eine Verbindung herstellen.
-vpn-landing-hero-sub-heading = Sicherheit, auf die Sie sich verlassen können. Ein Name, dem Sie vertrauen können.
-vpn-landing-hero-desc = Ein virtuelles privates Netzwerk von den Entwicklern von { -brand-name-firefox }.
+vpn-landing-page-desc = Nutze { -brand-name-mozilla-vpn } für den vollständigen Schutz deines Geräts für alle Apps. Mit Servern in mehr als { $countries } Ländern kannst du von überall und überallhin eine Verbindung herstellen.
+vpn-landing-hero-sub-heading = Sicherheit, auf die du dich verlassen kannst. Ein Name, dem du vertrauen kannst.
+vpn-landing-hero-desc = Ein Virtuelles Privates Netzwerk von den Machern von { -brand-name-firefox }.
 vpn-landing-privacy-heading = Mit einmal Tippen zum Datenschutz
 vpn-landing-privacy-desc = Surfen, streamen, spielen und arbeiten Sie, während Sie Ihre Privatsphäre im Internet schützen. Egal, ob Sie reisen, öffentliche WLAN nutzen oder einfach nur nach mehr Online-Sicherheit suchen, wir stellen Ihre Privatsphäre immer an erster Stelle.
 vpn-landing-fast-secure-heading = Schnelles und sicheres Netzwerk
