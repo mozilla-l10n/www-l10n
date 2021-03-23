@@ -16,3 +16,5 @@ features-pip-got-things-to-do-do-both-with = ¿La k'o taq wachinäq k'o chi nab'
 features-pip-play-the-video = Titzij ri silowäch
 features-pip-heres-how-it-works = Tatz'eta' achike rub'eyal nisamäj:
 features-pip-play-any-video-in-your-updated = <strong>Titzij xab'achike silowäch</strong> pa ri { -brand-name-firefox } okik'amaya'l achi'el re'.
+features-pip-play-any-video-in-your = <strong>Titzij xab'achike silowäch</strong> pa ri { -brand-name-firefox } okik'amaya'l achi'el re', akuchi' yewachin aläj käq taq panda.
+features-pip-click-the-picture-in-picture-button = <strong>Tapitz'a' pa Picture-in-Picture pitz'ib'äl</strong> ri yeq'alajin pa ri silowäch chuqa' xtiq'alajin.
