@@ -21,8 +21,15 @@ vpn-landing-faq-link = Ehechave FAQs
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Ejuaju tysýi oha’ãrõvare: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } eipurukuaa vove ne mba’e’oka ha eikohápe.
+vpn-landing-invite-page-heading = Ejuaju VPN rysýi oha’ãrõvare
+vpn-landing-invite-email-label = ¿Máva ne ñanduti veve kundaharape?
+vpn-landing-invite-required-label = Tekotevẽva
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-country-label = ¿Mba’e tetãme reiko?
+vpn-landing-invite-language-label = Eiporavo ñe’ẽ eguerohoryvéva.
+vpn-landing-invite-platform-label = ¿Mba’e jehechaukahapa pe eipotavéva?
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
