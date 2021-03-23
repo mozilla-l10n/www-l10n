@@ -50,10 +50,46 @@ vpn-landing-faq-protected-question-desc = Le protocole <a href="{ $url }" { $att
 vpn-landing-faq-competition-question-heading = Quelles sont les grandes différences entre { -brand-name-mozilla-vpn } et la concurrence ?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
-vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que { -brand-name-mozilla-vpn } en matière de confidentialité, et peuvent vendre ou stocker vos données. D'autres VPN payants non pas la même  <a href="{ $url }">expérience</a>  que { -brand-name-mozilla } qui, depuis 1998, a créé des produits aidant en priorité les gens et leur vie privée.
+vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que { -brand-name-mozilla-vpn } en matière de confidentialité, et peuvent vendre ou stocker vos données. D'autres VPN payants non pas la même  <a href="{ $url }">expérience</a>  que { -brand-name-mozilla } qui, depuis 1998, a créé des produits qui mettent leurs utilisateurs et la confidentialité en ligne au premier plan.
+vpn-landing-faq-compatibility-question-heading = Avec quels appareils { -brand-name-mozilla-vpn } est-il compatible ?
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } est compatible avec :
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (uniquement 64 bits)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 et plus)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 et plus)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 et plus)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (uniquement { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Quelle est la politique de remboursement de { -brand-name-mozilla-vpn } ?
+vpn-landing-faq-refund-question-desc = Vous pouvez récupérer les frais d’inscription dans les 30 jours suivant l'achat de votre abonnement. Contactez-nous et soumettez la demande de remboursement en appuyant sur le bouton « Obtenir de l'aide » dans les paramètres de votre application de { -brand-name-mozilla-vpn }.
+vpn-landing-faq-manage-subscription-question-heading = Comment gérer mon abonnement et le changer ?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Si vous utilisez déjà { -brand-name-mozilla-vpn }, vous pouvez <a href="{ $url }">modifier votre forfait</a> ou gérer votre abonnement à tout moment.
+vpn-landing-faq-link = Découvrir plus de questions fréquentes
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Rejoindre la liste d'attente : { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Recevez une notification lorsque { -brand-name-mozilla-vpn } est disponible pour votre appareil et votre région.
+vpn-landing-invite-page-heading = Rejoindre la liste d'attente
+vpn-landing-invite-email-label = Quelle est ton adresse email?
+vpn-landing-invite-required-label = Obligatoire
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = votrenom@exemple.com
+vpn-landing-invite-country-label = Dans quel pays habitez-vous?
+vpn-landing-invite-language-label = Sélectionnez votre langue préférée.
+vpn-landing-invite-platform-label = Quelles plateformes vous intéressent?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = En cliquant sur "Rejoindre la liste d'attente", vous acceptez notre <a href="{ $privacy }"> Avis de confidentialité </a>.
+vpn-landing-invite-your-information = Vos informations ne seront utilisées que pour vous informer de la disponibilité du produit.
+vpn-landing-invite-thanks-heading = Merci! Vous êtes sur la liste
+vpn-landing-invite-thanks-desc = Une fois que { -brand-name-mozilla-vpn } sera disponible pour votre région, nous vous enverrons un e-mail.
 
 ##
 
