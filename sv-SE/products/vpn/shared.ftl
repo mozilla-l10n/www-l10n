@@ -7,7 +7,7 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Hämta { -brand-name-mozilla-vpn }
-vpn-shared-waitlist-link = Gå med i väntelistan
+vpn-shared-waitlist-link = Ställ dig i väntelistan
 vpn-shared-sign-in-link = Är du redan prenumerant?
 vpn-shared-available-countries = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Storbritannien, Kanada, Nya Zeeland, Singapore och Malaysia.
 vpn-shared-available-countries-v2 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Storbritannien, Tyskland, Frankrike, Kanada, Malaysia, Nya Zeeland och Singapore.
@@ -50,7 +50,9 @@ vpn-shared-pricing-plan-monthly = Månadsvis
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/månad</span>
-vpn-shared-pricing-get-monthly = Få en månadsplan
+vpn-shared-pricing-get-6-month = Välj en 6-månaders prenumeration
+vpn-shared-pricing-get-12-month = Välj en 12-månaders prenumeration
+vpn-shared-pricing-get-monthly = Välj en månadsprenumeration
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Spara { $percent }%
