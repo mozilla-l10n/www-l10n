@@ -23,9 +23,42 @@ vpn-shared-features-activity = Sem registro da sua atividade de rede
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Opção de conectar até { $devices } dispositivos
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Conecte-se a mais de { $servers } servidores em mais de { $countries } países
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Disponível em { $countries } países no momento. Mais regiões virão em breve
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Veja nossa lista completa de <a href="{ $url }" { $attrs }>servidores</a>.
+vpn-shared-refund-policy = Política de reembolso
+vpn-shared-privacy-notice = Aviso de privacidade
+vpn-shared-terms-conditions = Termos e condições
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } é uma marca registrada de Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading = Escolha um plano que funciona para você
+vpn-shared-pricing-variable-sub-heading = Todos os nossos planos incluem:
+vpn-shared-pricing-recommended-offer = Recomendado
+vpn-shared-pricing-plan-6-month = Semestral
+vpn-shared-pricing-plan-12-month = Anual
+vpn-shared-pricing-plan-monthly = Mensal
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>por mês</span>
+vpn-shared-pricing-get-6-month = Assinar plano semestral
+vpn-shared-pricing-get-12-month = Assinar plano anual
+vpn-shared-pricing-get-monthly = Assinar plano mensal
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Economize { $percent }%
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = Total: { $amount }
 
 ##
 
