@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = Wobraz-we-wobrazu { -brand-name-firefox }: Čińće wjace z přeměstnjenymi widejemi
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Dyrbiće něšto činić a něšto sej wobhladać? Čińće woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.
+features-pip-new-feature-firefox-multi-picture = Nowa funkcija: wjacory wobraz-we-wobrazu { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Wulkotna funkcija: Wobraz-we-wobrazu
 features-pip-get-more-done-with-pop-out-videos = Čińće wjace z přeměstnjenymi widejemi
 features-pip-play-the-video = Widejo wothrać

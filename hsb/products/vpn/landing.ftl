@@ -9,6 +9,8 @@
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Škitajće swój cyły grat
 vpn-landing-hero-sub-heading = Wěstota, na kotruž móžeće so spušćić. Mjeno, kotremuž móžeće dowěrić.
 vpn-landing-privacy-heading = Priwatnosć z jednym podótkom
+vpn-landing-fast-secure-heading = Spěšna a wěsta syć
+vpn-landing-brand-trust-heading = VPN wot marki, kotrejž móžeće dowěrić
 
 ## FAQ section
 
