@@ -48,6 +48,7 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
 vpn-landing-invite-privacy-policy = 点击“加入预约名单”，即表示您同意我们的 <a href="{ $privacy }">隐私政策</a>。
 vpn-landing-invite-your-information = 您的信息仅会用于向您通知平台可用性。
+vpn-landing-invite-thanks-desc = 当 { -brand-name-mozilla-vpn } 在您的区域可用时，我们将会发邮件通知您。
 
 ##
 
