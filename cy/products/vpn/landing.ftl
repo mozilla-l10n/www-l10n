@@ -43,6 +43,23 @@ vpn-landing-faq-info-question-heading = Pa wybodaeth mae'r { -brand-name-mozilla
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Nid ydym yn cofnodi, tracio, nac yn rhannu unrhyw ran o'ch gweithgaredd rhwydwaith. Rydym yn cadw'n gaeth at <a href="{ $url }">Egwyddorion Preifatrwydd Data</a> { -brand-name-mozilla } a dim ond yn casglu data sy'n ofynnol i gadw'r VPN yn weithredol ac i wella'r cynnyrch  dros amser.
 vpn-landing-faq-protected-question-heading = Sut mae fy mhreifatrwydd yn cael ei ddiogelu?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Mae protocol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® yn amgryptio traffig eich rhwydwaith, gan ddiogelu eich holl ddata preifat. O’i gymharu â phrotocolau VPN presennol, mae cod ysgafn { -brand-name-wireguard } yn haws i ddadansoddwyr diogelwch ei adolygu a’i archwilio - gan ei wneud yn opsiwn mwy diogel i’r VPN. Hefyd, mae eich gweithgareddau ar-lein yn aros yn anhysbys oherwydd fyddwn ni byth yn cofnodi, tracio, nac yn rhannu eich data rhwydwaith.
+vpn-landing-faq-competition-question-heading = Sut mae { -brand-name-mozilla-vpn } yn cymharu â'r gystadleuaeth?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Er bod VPNs rhad ac am ddim yn ymddangos yn ddeniadol, dydyn nhw ddim yn gwneud yr un ymrwymiadau i breifatrwydd â { -brand-name-mozilla-vpn } ac felly gallan nhw werthu neu storio eich data. Does gan yr un VPNs taledig arall <a href="{ $url }">enw da</a> { -brand-name-mozilla } ers dros 20 mlynedd o greu cynnyrch sy'n blaenoriaethu pobl a phreifatrwydd.
+vpn-landing-faq-compatibility-question-heading = Pa ddyfeisiau y mae { -brand-name-mozilla-vpn } yn gydnaws â nhw?
+vpn-landing-faq-compatibility-question-desc = Mae { -brand-name-mozilla-vpn } yn gydnaws â:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-did yn unig)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ac i fyny)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (fersiwn 6 ac i fyny)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ac i fyny)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (dim ond { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Beth yw polisi ad-dalu { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = Gallwch gael eich arian yn ôl cyn pen 30 diwrnod ar ôl prynu'ch tanysgrifiad. Cysylltwch â ni a chyflwyno'ch cais am ad-daliad trwy dapio'r botwm “Get Help” yng Ngosodiadau ar eich ap { -brand-name-mozilla-vpn }.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
