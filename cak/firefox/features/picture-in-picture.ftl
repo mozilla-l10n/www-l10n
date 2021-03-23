@@ -10,6 +10,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ¿La k'o wachinäq k'o chi nab'än chuqa' taq wachinäq k'o chi natz'ët? Nikib'än ronojel rik'in Picture-in-Picture pa { -brand-name-firefox }.
 features-pip-new-feature-firefox-multi-picture = K'ak'a' samaj: { -brand-name-firefox } jalajöj Picture-in-Picture
+features-pip-cool-feature-picture-in-picture = Utziläj samaj: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Tab'ana' ch'aqa' chik samaj kik'in ri nïm silowäch
 features-pip-play-the-video = Titzij ri silowäch
 features-pip-heres-how-it-works = Tatz'eta' achike rub'eyal nisamäj:
