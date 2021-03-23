@@ -56,6 +56,11 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (v
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 em diante)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (apenas { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Qual é a política de reembolso do { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = Você pode receber seu dinheiro de volta até 30 dias após adquirir sua assinatura. Entre em contato conosco e envie o pedido de reembolso tocando no botão “Pedir ajuda” nas configurações do seu aplicativo { -brand-name-mozilla-vpn }.
+vpn-landing-faq-manage-subscription-question-heading = Como gerenciar minha assinatura?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Se você já tem uma assinatura do { -brand-name-mozilla-vpn }, pode alterar seu plano ou <a href="{ $url }">gerenciar sua assinatura</a> quando quiser.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
