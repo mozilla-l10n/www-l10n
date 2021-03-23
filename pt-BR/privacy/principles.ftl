@@ -13,8 +13,8 @@ privacy-principles-mozilla-is-an-open-source = A { -brand-name-mozilla } é um p
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Os seguintes cinco princípios derivam do <a href="{ $link }">{ -brand-name-mozilla } Manifesto</a> e informam como nós:
 privacy-principles-develop-our-products = desenvolvemos nossos produtos e serviços
-privacy-principles-manage-user-data-we-collect = gerenciar dados que coletamos do usuário
-privacy-principles-select-and-interact-with = selecionar e interagir com parceiros
+privacy-principles-manage-user-data-we-collect = gerenciamos dados que coletamos do usuário
+privacy-principles-select-and-interact-with = selecionamos e interagimos com parceiros
 privacy-principles-shape-our-public-policy = moldar a nossa política pública e trabalho de advocacia
 privacy-principles-no-surprises = Sem surpresas
 privacy-principles-use-and-share-information = Usar e compartilhar informações de uma maneira que seja transparente e benéfica ao usuário.
