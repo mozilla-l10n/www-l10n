@@ -12,5 +12,7 @@ features-pip-got-things-to-do-and-things-to-watch = ¿La k'o wachinäq k'o chi n
 features-pip-new-feature-firefox-multi-picture = K'ak'a' samaj: { -brand-name-firefox } jalajöj Picture-in-Picture
 features-pip-cool-feature-picture-in-picture = Utziläj samaj: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Tab'ana' ch'aqa' chik samaj kik'in ri nïm silowäch
+features-pip-got-things-to-do-do-both-with = ¿La k'o taq wachinäq k'o chi nab'än chuqa' chi ye'atz'ët? Ke'ab'ana' rik'in ri Picture-in-Picture pa { -brand-name-firefox }. Nuya' q'ij chawe richin natz'ët silowäch chi rij ri ajk'amaya'l ruxaq chuqa' naya' xab'akuchi' chupam ri ruwa akematz'ib' richin yatikïr natz'ët toq at k'o pa jun chik ruxaq, ruwi' chuqa' taq chokoy.
 features-pip-play-the-video = Titzij ri silowäch
 features-pip-heres-how-it-works = Tatz'eta' achike rub'eyal nisamäj:
+features-pip-play-any-video-in-your-updated = <strong>Titzij xab'achike silowäch</strong> pa ri { -brand-name-firefox } okik'amaya'l achi'el re'.
