@@ -15,9 +15,23 @@ vpn-landing-fast-secure-heading = 快速且安全的网络
 
 vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
+vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
+vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 与竞品相比如何？
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 兼容于下列平台：
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（仅 64 位）
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac }（10.15 及更高版本）
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android }（6.0 及更高版本）
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios }（13.0 及更高版本）
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（仅 { -brand-name-ubuntu } 平台）
+vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策如何？
+vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = 加入预约名单：{ -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = 当 { -brand-name-mozilla-vpn } 可用于您的设备和区域时，将会收到通知。
+vpn-landing-invite-page-heading = 加入 VPN 预约名单
+vpn-landing-invite-email-label = 您的电子邮件地址是什么？
 vpn-landing-invite-required-label = 必填
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
@@ -30,6 +44,10 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = 点击“加入预约名单”，即表示您同意我们的 <a href="{ $privacy }">隐私政策</a>。
+vpn-landing-invite-your-information = 您的信息仅会用于向您通知平台可用性。
 
 ##
 

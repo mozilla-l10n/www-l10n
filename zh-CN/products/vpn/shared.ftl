@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-shared-sign-in-link = 已经是订阅者？
 vpn-shared-privacy-notice = 隐私声明
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
