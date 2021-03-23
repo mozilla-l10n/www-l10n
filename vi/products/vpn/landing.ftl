@@ -12,6 +12,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Bảo vệ toàn bộ thi�
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Sử dụng { -brand-name-mozilla-vpn } để bảo vệ toàn bộ thiết bị và các ứng dụng. Với máy chủ ở { $countries }+ các quốc gia, bạn có thể kết nối với mọi nơi, từ bất cứ đâu.
 vpn-landing-hero-sub-heading = Một sự an toàn bạn có thể dựa vào. Một cái tên bạn có thể tin tưởng.
+vpn-landing-hero-desc = Một mạng riêng ảo từ nhà sản xuất { -brand-name-firefox }.
+vpn-landing-privacy-heading = Bảo mật chỉ bằng một lần nhấn
 
 ## FAQ section
 
