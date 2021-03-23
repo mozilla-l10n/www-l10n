@@ -32,6 +32,21 @@ vpn-shared-terms-conditions = Wužiwanske wuměnjenja
 vpn-shared-pricing-variable-heading = Wubjerće plan, kotryž za was funguje
 vpn-shared-pricing-variable-sub-heading = Wšě naše plany wobsahuja:
 vpn-shared-pricing-recommended-offer = Doporučeny
+vpn-shared-pricing-plan-6-month = 6 měsacow
+vpn-shared-pricing-plan-12-month = 12 měsacow
+vpn-shared-pricing-plan-monthly = Kóždy měsac
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/měsac</span>
+vpn-shared-pricing-get-6-month = 6-měsačny plan wobstarać
+vpn-shared-pricing-get-12-month = 12-měsačny plan wobstarać
+vpn-shared-pricing-get-monthly = Měsačny plan wobstarać
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = { $percent } % zalutować
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } dohromady
 
 ##
 
