@@ -11,6 +11,7 @@
 vpn-landing-faq-compatibility-question-heading = ¿Máva mba’e’oka rehe ojokupyty { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = Máva ndive ojokupyty { -brand-name-mozilla-vpn }:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64 bits añoite)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ha hetave)
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
