@@ -41,6 +41,7 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+vpn-landing-invite-thanks-heading = ¡Aguyje! Eiméma tysýipe
 
 ##
 
