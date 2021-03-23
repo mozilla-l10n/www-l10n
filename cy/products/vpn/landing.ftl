@@ -20,11 +20,11 @@ vpn-landing-fast-secure-heading = Rhwydwaith cyflym a diogel
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan<a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Gan ddefnyddio'r protocol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> mwyaf datblygedig, rydym yn amgryptio eich gweithgaredd rhwydwaith ac yn cuddio'ch cyfeiriad IP. Fyddwn ni ddim yn cofnodi, tracio, na rhannu eich data rhwydwaith.
+vpn-landing-fast-secure-desc = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Gan ddefnyddio'r protocol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> mwyaf datblygedig, rydym yn amgryptio eich gweithgaredd rhwydwaith ac yn cuddio'ch cyfeiriad IP. Fyddwn ni ddim yn cofnodi, tracio, na rhannu eich data rhwydwaith.
 vpn-landing-brand-trust-heading = VPN gan frand y gallwch ymddiried ynddo
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = Am fwy nag 20 mlynedd, mae gan { -brand-name-mozilla } hanes o flaenoriaethu pobl ac ymladd dros breifatrwydd ar-lein. Gyda chefnogaeth corff nid-er-elw, rydym wedi ymrwymo i adeiladu rhyngrwyd gwell ac iachach i bawb. Mae popeth a wnawn yn rhan o'n cenhadaeth ac yn dilyn ein <a href="{ $url }">hegwyddorion</a>.
+vpn-landing-brand-trust-desc = Ers mwy nag 20 mlynedd, mae gan { -brand-name-mozilla } hanes o flaenoriaethu pobl a brwydro dros breifatrwydd ar-lein. Gyda chefnogaeth corff nid-er-elw, rydym wedi ymrwymo i adeiladu rhyngrwyd gwell ac iachach i bawb. Mae popeth rydym yn ei wneud yn rhan o'n cenhadaeth ac yn dilyn ein <a href="{ $url }">hegwyddorion</a>.
 
 ## FAQ section
 
@@ -32,12 +32,12 @@ vpn-landing-faq-heading = Cwestiynau Cyffredin
 vpn-langing-faq-uses-question-heading = Beth yw VPN a beth yw ei ddefnydd?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = Wrth i fwy o fywyd beunyddiol ddigwydd trwy'r rhyngrwyd, mae preifatrwydd a diogelwch ar-lein yn dod yn bwysicach fyth. Gall VPN, <a href="{ $url }">Rhwydwaith Preifat Rhithwir</a>, eich helpu i greu cysylltiad preifat, diogel â'r rhyngrwyd. Mae'n gweithio trwy greu “twnnel” rhwng eich dyfais a'r rhyngrwyd yn gyffredinol, ac mae'n eich diogelu mewn dwy ffordd bwysig:
+vpn-landing-faq-uses-question-desc = Wrth i fwy o fywyd bob bydd ddigwydd trwy'r rhyngrwyd, mae preifatrwydd a diogelwch ar-lein yn dod yn bwysicach fyth. Gall VPN, <a href="{ $url }">Rhwydwaith Preifat Rhithwir</a>, eich helpu i greu cysylltiad preifat, diogel â'r rhyngrwyd. Mae'n gweithio trwy greu “twnnel” rhwng eich dyfais a'r rhyngrwyd yn gyffredinol, ac mae'n eich diogelu mewn dwy ffordd bwysig:
 vpn-landing-faq-uses-conceal = Cuddio'ch gwir gyfeiriad IP. Mae hyn yn diogelu eich hunaniaeth ac yn cuddio'ch lleoliad.
 vpn-landing-faq-uses-encrypt = Amgryptio'r traffig rhyngoch chi a'ch darparwr VPN fel na all unrhyw un ar eich rhwydwaith lleol ei ddehongli na'i addasu.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
-vpn-landing-faq-uses-examples = Edrychwch ar <a href="{ $url }">bum enghraifft bywyd go iawn</a> lle fyddech chi eisiau VPN ar eich dyfais.
+vpn-landing-faq-uses-examples = Dyma <a href="{ $url }">bum enghraifft bywyd go iawn</a> lle fyddech chi eisiau VPN ar eich dyfais.
 vpn-landing-faq-info-question-heading = Pa wybodaeth mae'r { -brand-name-mozilla-vpn } yn ei chadw?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
@@ -50,7 +50,7 @@ vpn-landing-faq-protected-question-desc = Mae protocol <a href="{ $url }" { $att
 vpn-landing-faq-competition-question-heading = Sut mae { -brand-name-mozilla-vpn } yn cymharu â'r gystadleuaeth?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
-vpn-landing-faq-competition-question-desc = Er bod VPNs rhad ac am ddim yn ymddangos yn ddeniadol, dydyn nhw ddim yn gwneud yr un ymrwymiadau i breifatrwydd â { -brand-name-mozilla-vpn } ac felly gallan nhw werthu neu storio eich data. Does gan yr un VPNs taledig arall <a href="{ $url }">enw da</a> { -brand-name-mozilla } ers dros 20 mlynedd o greu cynnyrch sy'n blaenoriaethu pobl a phreifatrwydd.
+vpn-landing-faq-competition-question-desc = Er bod VPN rhad ac am ddim yn ymddangos yn ddeniadol, dydyn nhw ddim yn gwneud yr un ymrwymiadau i breifatrwydd â { -brand-name-mozilla-vpn } ac felly gallan nhw werthu neu storio eich data. Does gan yr un VPN taledig arall <a href="{ $url }">enw da</a> { -brand-name-mozilla } ers dros 20 mlynedd o greu cynnyrch sy'n blaenoriaethu pobl a phreifatrwydd.
 vpn-landing-faq-compatibility-question-heading = Pa ddyfeisiau y mae { -brand-name-mozilla-vpn } yn gydnaws â nhw?
 vpn-landing-faq-compatibility-question-desc = Mae { -brand-name-mozilla-vpn } yn gydnaws â:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-did yn unig)
