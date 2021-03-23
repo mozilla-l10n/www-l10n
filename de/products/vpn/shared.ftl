@@ -24,7 +24,7 @@ vpn-shared-features-bandwidth = Keine Bandbreitenbeschränkungen
 vpn-shared-features-activity = Keine Protokollierung deiner Netzwerkaktivität
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Anwendung auf bis zu { $devices }-Geräten
+vpn-shared-features-devices = Anwendung auf bis zu { $devices } Geräten
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
