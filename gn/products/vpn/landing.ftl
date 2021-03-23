@@ -13,9 +13,14 @@ vpn-landing-faq-compatibility-question-desc = Máva ndive ojokupyty { -brand-nam
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64 bits añoite)
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ha hetave)
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6 háva ha upeigua)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ha hetave)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
+vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
+vpn-landing-faq-link = Ehechave FAQs
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Ejuaju tysýi oha’ãrõvare: { -brand-name-mozilla-vpn }
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
