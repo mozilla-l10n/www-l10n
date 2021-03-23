@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
-vpn-shared-subscribe-link = Holen Sie sich { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = Hol dir { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Der Warteliste beitreten
-vpn-shared-sign-in-link = Sind Sie schon Abonnent?
+vpn-shared-sign-in-link = Bist du schon Abonnent?
 vpn-shared-available-countries = Derzeit bieten wir { -brand-name-mozilla-vpn } in den USA, Großbritannien, Kanada, Neuseeland, Singapur und Malaysia an.
 vpn-shared-available-countries-v2 = Derzeit bieten wir { -brand-name-mozilla-vpn } in den USA, Großbritannien, Deutschland, Frankreich, Kanada, Malaysia, Neuseeland und Singapur an.
 vpn-shared-availablity-long = Das VPN ist derzeit für Geräte mit { -brand-name-windows } 10, { -brand-name-android } und { -brand-name-ios } in den USA, Großbritannien, Kanada, Neuseeland, Singapur und Malaysia verfügbar.
