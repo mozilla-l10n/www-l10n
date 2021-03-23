@@ -16,7 +16,9 @@ vpn-landing-fast-secure-heading = 快速而安全的網路環境
 
 vpn-landing-faq-heading = 常見問題
 vpn-langing-faq-uses-question-heading = VPN 是什麼，有什麼用途？
+vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 會保存哪些資訊？
 vpn-landing-faq-protected-question-heading = 會如何保護我的隱私權？
+vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 與其他類似產品，有什麼不同？
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 相容於哪些裝置？
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 相容於:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（僅 64 位元）
