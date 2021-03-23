@@ -9,6 +9,7 @@
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: 保護您的整台裝置
 vpn-landing-hero-sub-heading = 您可以倚靠的安全性、您信任的品牌。
 vpn-landing-hero-desc = 由 { -brand-name-firefox } 製造者所推出的 VPN 虛擬私人網路。
+vpn-landing-privacy-heading = 隱私保護一點即開
 vpn-landing-fast-secure-heading = 快速而安全的網路環境
 
 ## FAQ section
