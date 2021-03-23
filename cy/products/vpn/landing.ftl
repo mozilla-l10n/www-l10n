@@ -60,9 +60,36 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ac i
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (dim ond { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Beth yw polisi ad-dalu { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Gallwch gael eich arian yn ôl cyn pen 30 diwrnod ar ôl prynu'ch tanysgrifiad. Cysylltwch â ni a chyflwyno'ch cais am ad-daliad trwy dapio'r botwm “Get Help” yng Ngosodiadau ar eich ap { -brand-name-mozilla-vpn }.
+vpn-landing-faq-manage-subscription-question-heading = Sut fydda i'n rheoli fy nhanysgrifiad?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Os ydych chi eisoes wedi tanysgrifio i { -brand-name-mozilla-vpn }, gallwch newid eich cynllun neu <a href="{ $url }">rheoli eich tanysgrifiad</a> ar unrhyw adeg.
+vpn-landing-faq-link = Gweld ragor o Gwestiynau Cyffredin
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Ymunwch â'r Rhestr Aros: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Derbyniwch hysbys pan fydd { -brand-name-mozilla-vpn } ar gael ar gyfer eich dyfais a'ch ardal.
+vpn-landing-invite-page-heading = Ymunwch â Rhestr Aros VPN
+vpn-landing-invite-email-label = Beth yw eich cyfeiriad e-bost?
+vpn-landing-invite-required-label = Angenrheidiol
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = eichenw@example.com
+vpn-landing-invite-country-label = Ym mha wlad ydych chi'n byw?
+vpn-landing-invite-language-label = Dewiswch eich dewis iaith.
+vpn-landing-invite-platform-label = Pa lwyfannau y mae gennych ddiddordeb ynddyn nhw?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Trwy glicio “Ymunwch â’r rhestr aros”, rydych yn cytuno i’n <a href="{ $privacy }">Polisi Preifatrwydd</a>.
+vpn-landing-invite-your-information = Dim ond i'ch hysbysu am argaeledd platfform y bydd eich manylion yn cael eu defnyddio.
+vpn-landing-invite-thanks-heading = Diolch! Rydych chi ar y rhestr
+vpn-landing-invite-thanks-desc = Unwaith y bydd { -brand-name-mozilla-vpn } ar gael ar gyfer eich ardal, byddwn yn anfon e-bost atoch.
 
 ##
 
