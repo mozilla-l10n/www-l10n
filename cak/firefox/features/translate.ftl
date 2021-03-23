@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# page title
+features-translate-translate-the-web-title = Tatzalq'omij ri ajk'amaya'l - pa ri awokik'amaya'l
 features-translate-translate-the-web = Tatzalq'omij ri ajk'amaya'l rik'in { -brand-name-firefox }
 features-translate-to-google-translate = Richin { -brand-name-google } Traslate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/

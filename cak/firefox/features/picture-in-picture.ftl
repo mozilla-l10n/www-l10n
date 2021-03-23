@@ -22,3 +22,6 @@ features-pip-cruise-around-to-other = <strong>Katok pa ch'aqa' chik taq ruwi'</s
 features-pip-repeat-steps-1-3-to-have = <strong>Kekamulüx ri taq xak 1-3</strong> richin e k'o k'ïy taq silowäch Picture-in-Picture achi'el nawajo'.
 features-pip-3-more-ways-to-use-picture = 3 rub'eyal richin nokisäx Picture-in-Picture
 features-pip-3-ways-to-use-picture = 3 rub'eyal richin nokisäx Picture-in-Picture
+features-pip-watch-a-lecture-or-meeting = Tatz'eta' jun rumoloj tzijonem o moloj toq ye'atz'ib'aj jujun taq ch'utitzijol
+features-pip-keep-a-tutorial-video-open = Tajaqa' jun k'utunel silowäch rik'in jun retal q'utun toq natzäk arikil
+features-pip-entertain-cats-dogs-and-kids = Ke'anaqa' sya'n, tz'i' chuqa' ak'wala' toq yasamäj
