@@ -16,6 +16,11 @@ vpn-landing-hero-desc = Uma Rede Privada Virtual dos criadores do { -brand-name-
 vpn-landing-privacy-heading = Privacidade a um toque
 vpn-landing-privacy-desc = Navegue, assista vídeos, jogue e trabalhe enquanto mantém sua privacidade online. Esteja você viajando, usando um WiFi público, ou simplesmente procurando mais segurança online, sempre colocamos sua privacidade em primeiro lugar.
 vpn-landing-fast-secure-heading = Rede rápida e segura
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = O { -brand-name-mozilla-vpn } funciona numa rede global de servidores mantida pelo <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Usando o mais avançado protocolo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, criptografamos sua atividade de rede e ocultamos seu endereço IP. Nunca gravamos registros, não rastreamos nem compartilhamos seus dados de rede.
 vpn-landing-brand-trust-heading = Uma VPN de uma empresa em que você pode confiar
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
