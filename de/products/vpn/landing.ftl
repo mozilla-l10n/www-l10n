@@ -59,7 +59,7 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (a
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (ab 13.0)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (nur { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Welche Richtlinien gelten für die Rückerstattung von { -brand-name-mozilla-vpn }?
-vpn-landing-faq-refund-question-desc = Du kannst eine Rückerstattung innerhalb von 30 Tagen nach dem Kauf deines Abonnements beantragen. Kontaktiere uns einfach, indem du in deinen App-Einstellungen auf die Schaltfläche “Unterstützung erhalten” tippst und reiche deinen Rückerstattungsantrag dort ein.
+vpn-landing-faq-refund-question-desc = Du kannst eine Rückerstattung innerhalb von 30 Tagen nach dem Kauf deines Abonnements beantragen. Kontaktiere uns einfach, indem du in deinen App-Einstellungen von { -brand-name-mozilla-vpn } auf die Schaltfläche “Unterstützung erhalten” tippst und reiche deinen Rückerstattungsantrag dort ein.
 vpn-landing-faq-manage-subscription-question-heading = Wie verwalte ich mein Abonnement?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
