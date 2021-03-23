@@ -25,6 +25,13 @@ vpn-shared-features-activity = Pas de journalisation de votre activité réseau
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Possibilité de se connecter jusqu’à 5 appareils
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Connectez-vous à plus de { $servers } serveurs dans plus de { $countries } pays
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Disponible dans { $countries } pays maintenant. Plus de régions à venir.
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
