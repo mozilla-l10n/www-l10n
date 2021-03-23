@@ -13,3 +13,4 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ip
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta ohechauka tetepy ojogueraháva nde aravo ndive:
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
+misinformation-learn-more-about-our-mission = Eikuaave ore rembipota

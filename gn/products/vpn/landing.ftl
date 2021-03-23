@@ -5,9 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-landing-privacy-heading = Ñemiguáre jepoko
+vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
 
 ## FAQ section
 
+vpn-landing-faq-heading = FAQs
+vpn-langing-faq-uses-question-heading = ¿Mba’épa VPN ha mba’éicha ijepuru?
+vpn-landing-faq-protected-question-heading = ¿Mba’éicha oñemo’ã che rekoñemi?
 vpn-landing-faq-compatibility-question-heading = ¿Máva mba’e’oka rehe ojokupyty { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = Máva ndive ojokupyty { -brand-name-mozilla-vpn }:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64 bits añoite)
