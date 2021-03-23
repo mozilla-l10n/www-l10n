@@ -13,10 +13,13 @@ vpn-shared-available-countries = 目前，我们在美国、英国、加拿大�
 vpn-shared-available-countries-v2 = 目前，我们在美国、英国、德国、法国、加拿大、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
 vpn-shared-availablity-long = 目前，该 VPN 可在美国、英国、加拿大、新西兰、新加坡和马来西亚的 { -brand-name-windows } 10、{ -brand-name-android } 和 { -brand-name-ios } 设备上使用。
 vpn-shared-money-back-guarantee = 30 天退款保证
+vpn-shared-features-encrypt = 设备级加密
 vpn-shared-features-bandwidth = 无带宽限制
+vpn-shared-features-activity = 不会记录您的网络活动
 vpn-shared-refund-policy = 退款政策
 vpn-shared-privacy-notice = 隐私声明
 vpn-shared-terms-conditions = 条款和规定
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } 是 Jason A. Donenfeld 的注册商标。
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
