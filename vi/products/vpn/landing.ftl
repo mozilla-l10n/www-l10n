@@ -16,6 +16,12 @@ vpn-landing-hero-desc = Một mạng riêng ảo từ nhà sản xuất { -brand
 vpn-landing-privacy-heading = Bảo mật chỉ bằng một lần nhấn
 vpn-landing-privacy-desc = Lướt web, phát trực tuyến, chơi trò chơi, và hoàn thành công việc trong khi vẫn duy trì quyền riêng tư của bạn khi trực tuyến. Cho dù bạn đang đi du lịch, sử dụng Wi-Fi công cộng hay chỉ đơn giản là tìm kiếm bảo mật trực tuyến, chúng tôi sẽ luôn đặt quyền riêng tư của bạn lên hàng đầu.
 vpn-landing-fast-secure-heading = Mạng nhanh và an toàn
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } chạy trên mạng toàn cầu gồm các máy chủ được cung cấp bởi <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Sử dụng giao thức  <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> tiên tiến nhất, chúng tôi mã hóa hoạt động mạng của bạn và ẩn địa chỉ IP của bạn. Chúng tôi không bao giờ ghi nhật ký, theo dõi, hoặc chia sẻ dữ liệu mạng của bạn.
+vpn-landing-brand-trust-heading = VPN từ một thương hiệu mà bạn có thể tin tưởng
 
 ## FAQ section
 
