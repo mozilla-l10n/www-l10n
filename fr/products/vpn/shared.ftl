@@ -32,9 +32,35 @@ vpn-shared-features-server-countries = Connectez-vous à plus de { $servers } se
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Disponible dans { $countries } pays maintenant. Plus de régions à venir.
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Voir la liste complète des <a href="{ $url }" { $attrs }>serveurs</a>.
+vpn-shared-refund-policy = Politique de remboursement
+vpn-shared-privacy-notice = Avis de confidentialité
+vpn-shared-terms-conditions = Termes et conditions
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } est une marque déposée de Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading = Optez pour l’abonnement qui vous convient
+vpn-shared-pricing-variable-sub-heading = Tous nos abonnements comprennent :
+vpn-shared-pricing-recommended-offer = Recommendation
+vpn-shared-pricing-plan-6-month = 6 Mois
+vpn-shared-pricing-plan-12-month = 12 mois
+vpn-shared-pricing-plan-monthly = 1 Mois
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-get-6-month = Optez pour un abonnement 6 mois
+vpn-shared-pricing-get-12-month = Optez pour un abonnement 12 mois
+vpn-shared-pricing-get-monthly = Optez pour un abonnement mensuel
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = { $percent }% d’économie
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = Total { $amount }
 
 ##
 
