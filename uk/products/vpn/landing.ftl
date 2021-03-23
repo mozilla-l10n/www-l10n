@@ -55,11 +55,11 @@ vpn-landing-faq-compatibility-question-heading = З якими пристроя�
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } сумісний з:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (лише 64-розрядна версія)
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 і новіші)
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (версії 6 та новіших)
-vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 і новіших)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (версії 6 та новіші)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 і новіші)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (лише { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Яка політика відшкодування { -brand-name-mozilla-vpn }?
-vpn-landing-faq-refund-question-desc = Ви можете повернути свої гроші впродовж 30 днів з моменту придбання передплати. Зв’яжіться з нами та надішліть запит на повернення коштів, натиснувши кнопку «Отримати допомогу» у Налаштуваннях у програмі { -brand-name-mozilla-vpn }.
+vpn-landing-faq-refund-question-desc = Ви можете повернути свої гроші впродовж 30 днів з моменту придбання передплати. Зв’яжіться з нами та надішліть запит на повернення коштів, натиснувши кнопку «Отримати допомогу» у Налаштуваннях своєї програми { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Як керувати передплатою?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
