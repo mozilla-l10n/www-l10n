@@ -8,6 +8,7 @@
 # page title
 features-translate-translate-the-web-title = Tatzalq'omij ri ajk'amaya'l - pa ri awokik'amaya'l
 features-translate-translate-the-web = Tatzalq'omij ri ajk'amaya'l rik'in { -brand-name-firefox }
+features-translate-the-google-translate = Ri To { -brand-name-google } Tranlate k'amal richin { -brand-name-firefox } nub'än chi ri ajk'amaya'l okel chijun ri ruwach'ulew.
 features-translate-to-google-translate = Richin { -brand-name-google } Traslate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Tik'ul ri K'amal
