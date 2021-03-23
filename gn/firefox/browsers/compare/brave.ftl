@@ -22,6 +22,7 @@ compare-brave-whether-this-sounds-complicated = Kóva hasýramo téra mba’e ip
 # "Basic Attention Token" is a brand name.
 compare-brave-the-bottom-line-is-that-even = Oñemohu’ã pe { -brand-name-brave } ñemoinge umi tokens ñema’ẽrã ñemoinge ikatuha hasýva ijepuru heta puruhápe g̃uarã, umi kundahárape { -brand-name-brave } avei { -brand-name-firefox } ome’ẽ hetáichagua eikundaha hag̃ua tekorosã ha tekoñemíme.
 compare-brave-brave-also-supports-the-huge = { -brand-name-brave } avei ojokupyty arandukarenda jepysokue ojepurukuaáva ñandutirenda ñemuhápe { -brand-name-google } { -brand-name-chrome } ha ome’ẽkuaa heta tembiapoite kundahárape pe oje’epyre { -brand-name-brave } Tembiaporape jopoiguáva ha pytyvõ emboguejy hag̃ua torrents kundahárape.
+compare-brave-the-ability-to-sync-your-passwords = Pe ñembojuehe jejapokuaa ñe’ẽñemi, jepysokue, myanyhẽha mba’ekuaarã, moĩmbaha ha ambue erohoryvéva opa mba’e’oka ha apopyvusu oku’éva ha’e peteĩchagua ojepurukuaáva heta ary { -brand-name-firefox } ndive. Umi mba’ekuaarã mbojuehepyre avei oñembopapapy, he’iséva ndaikatuiha avave oike pype oka guive.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } avei og̃uahẽramo pe mba’ekuaarã ñembojuehekuaápe umi opopyvusu oku’éva ojekuaavévape, avei ombojuehekuaa umi tokens ojepurukuaáva.
 compare-brave-when-comparing-the-two-browsers = Ñamoñondivévo mokõivéva kundahára, péicha { -brand-name-firefox } ha avei { -brand-name-brave } ome’ẽkuaa ambuéva ñemigua ha tekorosã ijypykue rupi, eipurukuaáva eike ñepyrũete guive.

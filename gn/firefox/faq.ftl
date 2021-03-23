@@ -59,6 +59,7 @@ does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } ha’e kundahára ijypykuéva { -brand-name-firefox } pegua, he’iséva ikatuha eheka ñandutípe pe kundaharape renda guive. <a href="{ $url }">Eikuaave jehekaha eguerohoryvéva ha emoambue pe ñemboheko ijypykuéva.</a>
 does-firefox-have = ¿{ -brand-name-firefox } oguereko VPN ojuajúva?
 
 # Variables:
