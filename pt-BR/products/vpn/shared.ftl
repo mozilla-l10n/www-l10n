@@ -13,6 +13,8 @@ vpn-shared-available-countries = Atualmente oferecemos o { -brand-name-mozilla-v
 vpn-shared-available-countries-v2 = Atualmente oferecemos o { -brand-name-mozilla-vpn } nos Estados Unidos, Reino Unido, Alemanha, França, Canadá, Malásia, Nova Zelândia e Singapura.
 vpn-shared-availablity-long = A VPN está atualmente disponível para dispositivos { -brand-name-windows }10, { -brand-name-android } e { -brand-name-ios } nos Estados Unidos, Reino Unido, Canadá, Nova Zelândia, Singapura e Malásia.
 vpn-shared-money-back-guarantee = Garantia de devolução do dinheiro até 30 dias
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Destaque em
 vpn-shared-features-encrypt = Criptografia a nível de dispositivo
 # Variables:
 #   $servers (number) - number of available servers
@@ -49,7 +51,7 @@ vpn-shared-pricing-plan-12-month = Anual
 vpn-shared-pricing-plan-monthly = Mensal
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
-vpn-shared-pricing-monthly = { $amount }<span>por mês</span>
+vpn-shared-pricing-monthly = { $amount }<span> por mês</span>
 vpn-shared-pricing-get-6-month = Assinar plano semestral
 vpn-shared-pricing-get-12-month = Assinar plano anual
 vpn-shared-pricing-get-monthly = Assinar plano mensal
