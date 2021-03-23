@@ -4,7 +4,7 @@
 
 error-page-error-page-internal-server-error = 500: Lỗi máy chủ
 error-page-something-went-wrong = Có gì đó không ổn
-error-page-its-probably-just-a-server-error = Nó có lẽ chỉ là một lỗi máy chủ và chúng tôi đang cố gắng khắc phục nó.
+error-page-its-probably-just-a-server-error = Nó có lẽ chỉ là lỗi máy chủ và chúng tôi đang cố gắng khắc phục nó.
 # Variables:
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
