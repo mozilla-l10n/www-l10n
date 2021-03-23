@@ -10,6 +10,14 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Skydda hela din enhet
 
 ## FAQ section
 
+vpn-landing-faq-heading = Vanliga frågor och svar
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } är kompatibel med:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (endast 64-bitars)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 och senare)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 och senare)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 och senare)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (endast { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Vad är { -brand-name-mozilla-vpn }:s återbetalningspolicy?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
