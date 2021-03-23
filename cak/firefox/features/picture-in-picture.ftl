@@ -18,3 +18,7 @@ features-pip-heres-how-it-works = Tatz'eta' achike rub'eyal nisamäj:
 features-pip-play-any-video-in-your-updated = <strong>Titzij xab'achike silowäch</strong> pa ri { -brand-name-firefox } okik'amaya'l achi'el re'.
 features-pip-play-any-video-in-your = <strong>Titzij xab'achike silowäch</strong> pa ri { -brand-name-firefox } okik'amaya'l achi'el re', akuchi' yewachin aläj käq taq panda.
 features-pip-click-the-picture-in-picture-button = <strong>Tapitz'a' pa Picture-in-Picture pitz'ib'äl</strong> ri yeq'alajin pa ri silowäch chuqa' xtiq'alajin.
+features-pip-cruise-around-to-other = <strong>Katok pa ch'aqa' chik taq ruwi'</strong> o man chupam ta ri { -brand-name-firefox }. ¡Xtik'oje' ri silowäch akuchi' xtaya' wi kan!
+features-pip-repeat-steps-1-3-to-have = <strong>Kekamulüx ri taq xak 1-3</strong> richin e k'o k'ïy taq silowäch Picture-in-Picture achi'el nawajo'.
+features-pip-3-more-ways-to-use-picture = 3 rub'eyal richin nokisäx Picture-in-Picture
+features-pip-3-ways-to-use-picture = 3 rub'eyal richin nokisäx Picture-in-Picture
