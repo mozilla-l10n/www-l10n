@@ -55,6 +55,7 @@ vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 em 
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versão 6 em diante)
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 em diante)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (apenas { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Qual é a política de reembolso do { -brand-name-mozilla-vpn }?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
