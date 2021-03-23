@@ -10,6 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }：保护您的整台设备
 vpn-landing-hero-sub-heading = 安全可依赖，品牌可信任。
 vpn-landing-privacy-heading = 隐私，一触即得
 vpn-landing-fast-secure-heading = 快速且安全的网络
+vpn-landing-brand-trust-heading = 值得信赖的品牌推出的 VPN
 
 ## FAQ section
 
@@ -17,6 +18,7 @@ vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 与竞品相比如何？
+vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 与哪些设备兼容？
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 兼容于下列平台：
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（仅 64 位）
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac }（10.15 及更高版本）
