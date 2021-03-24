@@ -38,7 +38,7 @@ vpn-shared-countries-coming-soon = 现已在 { $countries } 个国家/地区推�
 vpn-shared-features-full-list-servers = 浏览我们完整的<a href="{ $url }" { $attrs }>服务器列表</a>。
 vpn-shared-refund-policy = 退款政策
 vpn-shared-privacy-notice = 隐私声明
-vpn-shared-terms-conditions = 条款和规定
+vpn-shared-terms-conditions = 使用条款
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } 是 Jason A. Donenfeld 的注册商标。
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).

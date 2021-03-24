@@ -24,6 +24,7 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla } 拥有 20 多年的历史
 
 vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
+vpn-landing-faq-uses-conceal = 掩藏您的真实 IP 地址，以保护您的个人身份并隐匿所在位置。
 vpn-landing-faq-uses-encrypt = 加密您与 VPN 提供商之间的流量，杜绝本地网络上的任何人进行解密或修改。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
 vpn-landing-faq-protected-question-heading = 将如何保护我的隐私？
