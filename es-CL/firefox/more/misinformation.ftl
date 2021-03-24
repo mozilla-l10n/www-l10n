@@ -27,3 +27,6 @@ misinformation-outdated-information = La información desactualizada no tiene ne
 misinformation-credible-publication = ¿Publicó el autor otros artículos o publicaciones, idealmente también en publicaciones creíbles?
 misinformation-authors-name = Si solo encuentras el nombre del autor en sitios cuestionables, no deberías darle mucha importancia a sus declaraciones.
 misinformation-images-captions = ¿Las imágenes y subtítulos coinciden?
+misinformation-images-are-powerful = Las imágenes son una herramienta muy poderosa para desinformación dirigida. Dependiendo de los subtítulos, la percepción puede ser modificada a lo opuesto de lo sucedido. Si no tienes seguridad, realiza una búsqueda a partir de la imágen para saber cómo es descrita en otros sitios.
+misinformation-how-firefox-helps-heading = Cómo { -brand-name-firefox } te ayuda a evitar información errónea
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantiene los rastreadores bajo control:
