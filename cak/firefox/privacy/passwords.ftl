@@ -10,3 +10,5 @@ privacy-passwords-security-guide-to = Jun rub'eyal tzijol kichin ri tikirib'äl 
 # page content
 privacy-passwords-a-security-guide = Rub'eyal tzijol kichin ri tikirib'äl molojri'ïl chuqa' ewan taq tzij
 privacy-passwords-protecting-your-accounts = Richin nachajij ri rub'i' ataqoya'l k'o man k'ayew ta — chuqa' yaruto' ri { -brand-name-firefox }.
+# tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
+privacy-passwords-tldr = ch'utitzijol:
