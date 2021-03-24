@@ -21,12 +21,27 @@ vpn-landing-fast-secure-heading = Snabbt och säkert nätverk
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } körs på ett globalt nätverk av servrar som drivs av <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Med hjälp av det mest avancerade <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokollet krypterar vi din nätverksaktivitet och döljer din IP-adress. Vi loggar, spårar eller delar aldrig dina nätverksdata.
+vpn-landing-brand-trust-heading = En VPN från ett varumärke du kan lita på
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = I mer än 20 år har { -brand-name-mozilla } en historia av att sätta människor först och kämpa för integritet online. Med stöd av en ideell organisation är vi engagerade i att bygga ett bättre och hälsosammare internet för alla människor. Allt vi gör är en del av vårt uppdrag och följer våra <a href="{ $url }">principer</a>.
 
 ## FAQ section
 
 vpn-landing-faq-heading = Vanliga frågor och svar
 vpn-langing-faq-uses-question-heading = Vad är en VPN och vad använder den?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Eftersom mer av det dagliga livet sker via internet blir integritet och säkerhet online ännu viktigare. Ett VPN, <a href="{ $url }">virtuellt privat nätverk</a>, kan hjälpa dig att skapa en säker, privat anslutning till internet. Det fungerar genom att skapa en "tunnel" mellan din enhet och internet i stort och det skyddar dig på två viktiga sätt:
+vpn-landing-faq-uses-conceal = Döljer din sanna IP-adress. Detta skyddar din identitet och döljer din plats.
+vpn-landing-faq-uses-encrypt = Krypterar trafiken mellan dig och din VPN-leverantör så att ingen i ditt lokala nätverk kan dechiffrera eller ändra den.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Kolla in <a href="{ $url }">fem verkliga exempel</a> där du vill ha ett VPN på din enhet.
 vpn-landing-faq-info-question-heading = Vilken information behåller { -brand-name-mozilla-vpn }?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Vi loggar, spårar eller delar inte någon av dina nätverksaktiviteter. Vi följer strikt { -brand-name-mozilla }:s <a href="{ $url }">Dataskyddsprinciper</a> och vi samlar endast in de uppgifter som krävs för att hålla VPN-operativt och förbättra produkten över tid .
 vpn-landing-faq-protected-question-heading = Hur skyddas min integritet?
 vpn-landing-faq-compatibility-question-heading = Vilka enheter är kompatibla med { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } är kompatibel med:
