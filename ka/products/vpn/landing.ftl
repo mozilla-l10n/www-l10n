@@ -20,7 +20,7 @@ vpn-landing-fast-secure-heading = სწრაფი და დაცული �
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში, რომელთაც უზრუნველყოფს <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. უმაღლესი დონის <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ოქმის გამოყენებით, იშიფრება თქვენი მოქმედებები ქსელში და იფარება IP-მისამართი. არასდროს აღვრიცხავთ, არ მივადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში, რომელსაც უზრუნველყოფს <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. უმაღლესი დონის <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ოქმის გამოყენებით, იშიფრება თქვენი მოქმედებები ქსელში და იფარება IP-მისამართი. არასდროს აღვრიცხავთ, არ მივადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
 vpn-landing-brand-trust-heading = VPN კომპანიისგან, რომელსაც ენდობით
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -30,6 +30,19 @@ vpn-landing-brand-trust-desc = 20 წელზე მეტია, რაც { -
 
 vpn-landing-faq-heading = ᲮᲓᲙ
 vpn-langing-faq-uses-question-heading = რა არის VPN და რას იყენებს?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = ვინაიდან ყოველდღიურობის დიდი ნაწილი ინტერნეტში ინაცვლებს, ციფრული პირადულობა და უსაფრთხოება მეტ მნიშვნელობას იძენს. VPN, ანუ <a href="{ $url }">წარმოსახვითი კერძო ქსელი</a> ინტერნეტთან დაცული, პირადი კავშირის დამყარების საშუალებას იძლევა. იგი ქმნის ერთგვარ „გვირაბს“ თქვენს მოწყობილობასა და დანარჩენ ინტერნეტს შორის, რითიც გიცავთ ორი გზით:
+vpn-landing-faq-uses-conceal = ფარავს თქვენს ნამდვილ IP-მისამართს. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
+vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის, შედეგად ვერავინ ადგილობრივ ქსელში, ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = გაეცანით <a href="{ $url }">ხუთ მაგალითს ცხოვრებიდან</a> თუ რისთვისაა გამოსადეგი VPN თქვენს მოწყობილობაზე.
+vpn-landing-faq-info-question-heading = რა მონაცემებს ინახავს { -brand-name-mozilla-vpn }?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მოქმედებებს ქსელში. ჩვენ მკაცრად მივდევთ { -brand-name-mozilla }-ს <a href="{ $url }">მონაცემების პირადულობის პრინციპებს</a> და მხოლოდ იმ მონაცემებს ვაგროვებთ, რომელიც აუცილებელია VPN-ის მუშაობისა და დროდადრო გაუმჯობესებისთვის.
+vpn-landing-faq-protected-question-heading = როგორაა დაცული ჩემი პირადი მონაცემები?
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
