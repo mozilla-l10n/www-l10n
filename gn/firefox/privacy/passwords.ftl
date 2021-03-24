@@ -12,6 +12,7 @@ privacy-passwords-a-security-guide = Tekorosã rape puruhárape g̃uarã ha ñe�
 privacy-passwords-protecting-your-accounts = Ne mba’ete ñemo’ã natekotevẽi hasývo ijejapo — ha { -brand-name-firefox } ne pytyvõkuaa upevarã.
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
+privacy-passwords-use-random-passwords = Oipuru ñe’ẽñemi jereguáva ha iñambuéva peteĩteĩva tendápe g̃uarã
 privacy-passwords-use-twofactor-authentication = Eipuru “ñemoneĩ mokõi reheguáva” ikatúma guive
 privacy-passwords-its-hard-out = Pe ñe’ẽñemi jeiko asy
 privacy-passwords-seeing-you-use = Ehecha mba’éichapa oipuru tenda ipapapy’ỹva
