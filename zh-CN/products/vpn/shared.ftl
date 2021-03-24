@@ -19,7 +19,7 @@ vpn-shared-features-encrypt = 设备级加密
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-servers = 在超过 { $countries } 个国家/地区有超过 { $servers } 台服务器
+vpn-shared-features-servers = { $countries }+ 个国家/地区的 { $servers }+ 台服务器
 vpn-shared-features-bandwidth = 无带宽限制
 vpn-shared-features-activity = 不会记录您的网络活动
 # Variables:
@@ -28,7 +28,7 @@ vpn-shared-features-devices = 最多可在 { $devices } 台设备中使用
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-server-countries = 连接到我们在超过 { $countries } 个国家/地区，超过 { $servers } 台服务器的网络
+vpn-shared-features-server-countries = 连接到我们在 { $countries }+ 个国家/地区的 { $servers }+ 台服务器的网络
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = 现已在 { $countries } 个国家/地区推出，将在更多区域推出

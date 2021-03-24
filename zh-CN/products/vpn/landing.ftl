@@ -7,10 +7,18 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }：保护您的整台设备
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = 使用 { -brand-name-mozilla-vpn } 为所有应用程序提供设备级的保护。{ $countries }+ 个国家/地区的服务器，供您任意连接。
 vpn-landing-hero-sub-heading = 安全可依赖，品牌可信任。
 vpn-landing-privacy-heading = 隐私，一触即得
+vpn-landing-privacy-desc = 浏览、播放流媒体、完成工作，同时也要捍卫您的在线隐私。无论您是在旅行途中，或是正在使用公共 WiFi，还是只想寻求更强的在线安全感，我们都始终把您的隐私放在首位。
 vpn-landing-fast-secure-heading = 快速且安全的网络
 vpn-landing-brand-trust-heading = 值得信赖的品牌推出的 VPN
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = { -brand-name-mozilla } 拥有 20 多年的历史，一直秉持以人为本的原则，为网络隐私而战。在非营利组织的鼎力相助下，我们致力于为所有人建设更好、更健康的互联网。我们所做的一切都是我们使命的一部分，并遵循我们的<a href="{ $url }">准则</a>。
 
 ## FAQ section
 
