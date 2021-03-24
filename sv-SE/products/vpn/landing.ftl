@@ -7,6 +7,12 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Skydda hela din enhet
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Använd { -brand-name-mozilla-vpn } för fullständigt enhetsskydd för alla appar. Med servrar i över { $countries } länder kan du ansluta till var som helst, när som helst.
+vpn-landing-hero-sub-heading = Säkerhet du kan lita på. Ett namn du kan lita på.
+vpn-landing-hero-desc = Ett virtuellt privat nätverk från tillverkarna av { -brand-name-firefox }.
 vpn-landing-fast-secure-heading = Snabbt och säkert nätverk
 
 ## FAQ section
