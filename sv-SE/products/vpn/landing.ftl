@@ -13,7 +13,14 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Skydda hela din enhet
 vpn-landing-page-desc = Använd { -brand-name-mozilla-vpn } för fullständigt enhetsskydd för alla appar. Med servrar i över { $countries } länder kan du ansluta till var som helst, när som helst.
 vpn-landing-hero-sub-heading = Säkerhet du kan lita på. Ett namn du kan lita på.
 vpn-landing-hero-desc = Ett virtuellt privat nätverk från tillverkarna av { -brand-name-firefox }.
+vpn-landing-privacy-heading = Ett klick för integritet
+vpn-landing-privacy-desc = Surfa, strömma, spela och få jobbet gjort samtidigt som du behåller din integritet online. Oavsett om du reser, använder offentlig WiFi eller helt enkelt letar efter mer online-säkerhet, kommer vi alltid att lägga din integritet först.
 vpn-landing-fast-secure-heading = Snabbt och säkert nätverk
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } körs på ett globalt nätverk av servrar som drivs av <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Med hjälp av det mest avancerade <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokollet krypterar vi din nätverksaktivitet och döljer din IP-adress. Vi loggar, spårar eller delar aldrig dina nätverksdata.
 
 ## FAQ section
 
