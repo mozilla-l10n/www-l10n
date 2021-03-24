@@ -24,8 +24,10 @@
        *[translated] Fondation Mozilla
         [formal] Mozilla Foundation
     }
+-brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
@@ -168,14 +170,15 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 

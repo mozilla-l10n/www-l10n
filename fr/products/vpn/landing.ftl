@@ -86,7 +86,7 @@ vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-invite-privacy-policy = En cliquant sur « Rejoindre la liste d’attente », vous acceptez notre <a href="{ $privacy }">Avis de confidentialité </a>.
+vpn-landing-invite-privacy-policy = En cliquant sur « Rejoindre la liste d’attente », vous acceptez notre <a href="{ $privacy }">Politique de confidentialité</a>.
 vpn-landing-invite-your-information = Vos informations ne seront utilisées que pour vous informer de la disponibilité du produit.
 vpn-landing-invite-thanks-heading = Merci ! Vous êtes sur la liste
 vpn-landing-invite-thanks-desc = Une fois que { -brand-name-mozilla-vpn } sera disponible pour votre région, nous vous enverrons un e-mail.
