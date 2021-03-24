@@ -43,6 +43,11 @@ vpn-landing-faq-info-question-heading = რა მონაცემებს �
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მოქმედებებს ქსელში. ჩვენ მკაცრად მივდევთ { -brand-name-mozilla }-ს <a href="{ $url }">მონაცემების პირადულობის პრინციპებს</a> და მხოლოდ იმ მონაცემებს ვაგროვებთ, რომელიც აუცილებელია VPN-ის მუშაობისა და დროდადრო გაუმჯობესებისთვის.
 vpn-landing-faq-protected-question-heading = როგორაა დაცული ჩემი პირადი მონაცემები?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებთან შედარებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას—რაც მეტად დაცულს ხდის დანარჩენებისგან განსხვავებით. ამასთან, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
+vpn-landing-faq-competition-question-heading = რითი გამოირჩევა { -brand-name-mozilla-vpn } მეტოქეებისგან?
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
