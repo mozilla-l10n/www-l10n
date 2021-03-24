@@ -16,6 +16,11 @@ vpn-landing-hero-desc = Peteĩ ñanduti mba’eñimiguáva { -brand-name-firefox
 vpn-landing-privacy-heading = Ñemiguáre jepoko
 vpn-landing-privacy-desc = Eikundaha, emombe’u, eñembosarái ha emba’apo ñandutípe tekoñemíme. Esẽ jave, eipurúvo WiFi opavavegua téra ehekávo tekorosã ñandutípe, akóinte romotenondéta nde rekoñemi.
 vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } omba’apo apopyvusu yvoragua ñandutípe tembipurupyahu ndive <a href="{ $mullvad }" { $attrs }> { -brand-name-mullvad }</a>. Oipurúvo taperekoite <a href="{ $wireguard }" { $attrs }> { -brand-name-wireguard }®</a> pyahu, rombopapapy ne rembiapo ñandutigua ha romoñemi nde IP kundaharape. Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutigua.
 
 ## FAQ section
 
