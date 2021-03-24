@@ -28,9 +28,65 @@ vpn-landing-brand-trust-desc = Al meer dan 20 jaar staat { -brand-name-mozilla }
 
 ## FAQ section
 
+vpn-landing-faq-heading = FAQ’s
+vpn-langing-faq-uses-question-heading = Wat is een VPN en wat zijn de toepassingen ervan?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Naarmate meer van het dagelijkse leven via internet plaatsvindt, worden online privacy en beveiliging steeds belangrijker. Een VPN, <a href="{ $url }">Virtual Private Network</a>, kan u helpen een veilige privéverbinding met internet tot stand te brengen. Een VPN werkt door een ‘tunnel’ te creëren tussen uw apparaat en het algemene internet en beschermt u op twee belangrijke manieren:
+vpn-landing-faq-uses-conceal = Verbergen van uw werkelijke IP-adres. Dit beschermt uw identiteit en verhult uw locatie.
+vpn-landing-faq-uses-encrypt = Versleutelen van het verkeer tussen u en uw VPN-provider, zodat niemand op uw lokale netwerk het kan ontcijferen of aanpassen.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Bekijk <a href="{ $url }">vijf praktijkvoorbeelden</a> waarin u een VPN op uw apparaat zou willen hebben.
+vpn-landing-faq-info-question-heading = Welke informatie bewaart de { -brand-name-mozilla-vpn }?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = We loggen, volgen of delen niets van uw netwerkactiviteit. We houden ons strikt aan de <a href="{ $url }">gegevensprivacyprincipes</a> van { -brand-name-mozilla } en we verzamelen alleen de gegevens die nodig zijn om de VPN te laten werken en het product in de loop van de tijd te verbeteren.
+vpn-landing-faq-protected-question-heading = Hoe wordt mijn privacy beschermd?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Het <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protocol versleutelt uw netwerkverkeer, waardoor al uw privégegevens worden beschermd. In vergelijking met bestaande VPN-protocollen is de lichtgewicht code van { -brand-name-wireguard } eenvoudiger te beoordelen en auditen door beveiligingsanalysten – wat het een veiliger optie maakt voor de VPN. Daarnaast blijven uw online activiteiten anoniem, omdat we uw netwerkgegevens nooit loggen, volgen of delen.
+vpn-landing-faq-competition-question-heading = Hoe verhoudt { -brand-name-mozilla-vpn } zich tot de concurrentie?
+vpn-landing-faq-compatibility-question-heading = Met welke apparaten is { -brand-name-mozilla-vpn } compatibel?
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } is compatibel met:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (alleen 64-bits)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 en hoger)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versie 6 en hoger)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 en hoger)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (alleen { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Wat is het restitutiebeleid van { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = U kunt binnen 30 dagen nadat u uw abonnement hebt aangeschaft uw geld terugvragen. Neem contact met ons op en dien het restitutieverzoek in door in uw { -brand-name-mozilla-vpn }-app in Instellingen op de knop ‘Hulp verkrijgen’ te tikken.
+vpn-landing-faq-manage-subscription-question-heading = Hoe beheer ik mijn abonnement?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Als u al bent geabonneerd op { -brand-name-mozilla-vpn }, dan kunt u op elk gewenst moment uw abonnementsoort wijzigen of <a href="{ $url }">uw abonnement beheren</a>.
+vpn-landing-faq-link = Meer veelgestelde vragen lezen
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Plaats uzelf op de wachtlijst: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Ontvang een bericht wanneer { -brand-name-mozilla-vpn } beschikbaar is voor uw apparaat en regio.
+vpn-landing-invite-page-heading = Plaats uzelf op de VPN-wachtlijst
+vpn-landing-invite-email-label = Wat is uw e-mailadres?
+vpn-landing-invite-required-label = Vereist
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = uwnaam@example.com
+vpn-landing-invite-country-label = In welk land woont u?
+vpn-landing-invite-language-label = Selecteer uw voorkeurstaal.
+vpn-landing-invite-platform-label = In welke platforms bent u geïnteresseerd?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Door op ‘Op de wachtlijst plaatsen’ te klikken stemt u in met met ons <a href="{ $privacy }">privacybeleid</a>.
+vpn-landing-invite-your-information = Uw gegevens worden alleen gebruikt om u te berichten over platformbeschikbaarheid.
+vpn-landing-invite-thanks-heading = Bedankt! U staat op de lijst
+vpn-landing-invite-thanks-desc = Zodra { -brand-name-mozilla-vpn } beschikbaar komt voor uw regio, sturen we u een e-mailbericht.
 
 ##
 
