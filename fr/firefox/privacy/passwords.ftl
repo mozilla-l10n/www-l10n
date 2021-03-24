@@ -7,8 +7,12 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Guide de sécurité pour des identifiants et des mots de passe plus sûrs
+# HTML page description
+privacy-passwords-more-and-more-desc = De plus en plus de données sensibles et qui nous sont précieuses sont conservées par le biais de comptes protégés en ligne par des mots de passe. Comment devrions-nous protéger nos identifiants ?
 # page content
 privacy-passwords-a-security-guide = Un guide de sécurité pour des identifiants et des mots de passe plus sûrs
+privacy-passwords-protecting-your-accounts = Protéger vos comptes n’est pas forcément compliqué et { -brand-name-firefox } peut vous y aider
+privacy-passwords-more-and-more = De plus en plus de données sensibles et qui nous sont précieuses sont conservées par le biais de comptes protégés en ligne par des mots de passe : lettres d’amour, dossiers médicaux, comptes bancaires etc. Les sites web utilisent des procédures de connexion pour protéger ces biens précieux. En général, tant que personne ne peut se connecter à votre compte, on ne peut pas lire vos courriels ou virer de l’argent de votre compte bancaire. Comme nous vivons nos vies en ligne, comment devrions-nous protéger nos identifiants ?
 privacy-passwords-seeing-you-use = En vous voyant l’utiliser sur un site non chiffré
 privacy-passwords-guessing-it = En le devinant
 privacy-passwords-stealing-a-file = En volant un fichier contenant votre mot de passe
