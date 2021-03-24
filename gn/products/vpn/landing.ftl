@@ -12,6 +12,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: omo’ãta opaite ne mba�
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Eipuru { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembipuru’ípe g̃uarã. Apopyvusu ndive { $country }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
 vpn-landing-hero-sub-heading = Tekorosã nepytyvõkuaáva. Peteĩ téra ejeroviakuaaha.
+vpn-landing-hero-desc = Peteĩ ñanduti mba’eñimiguáva { -brand-name-firefox } apohare rehegua.
 vpn-landing-privacy-heading = Ñemiguáre jepoko
 vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
 
