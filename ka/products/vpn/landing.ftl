@@ -22,9 +22,14 @@ vpn-landing-fast-secure-heading = სწრაფი და დაცული �
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში, რომელთაც უზრუნველყოფს <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. უმაღლესი დონის <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ოქმის გამოყენებით, იშიფრება თქვენი მოქმედებები ქსელში და იფარება IP-მისამართი. არასდროს აღვრიცხავთ, არ მივადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
 vpn-landing-brand-trust-heading = VPN კომპანიისგან, რომელსაც ენდობით
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = 20 წელზე მეტია, რაც { -brand-name-mozilla } ხალხს აყენებს ყველაფერზე წინ და იბრძვის ინტერნეტში პირადულობისთვის. არამომგებიანი დაწესებულების უზრუნველყოფით, მზად ვართ შევქმნათ უკეთესი და ჯანსაღი საყოველთაო ინტერნეტი. ყველი ჩვენი მოქმედება, ექვემდებარება ჩვენს მისიასა და <a href="{ $url }">პრინციპებს</a>.
 
 ## FAQ section
 
+vpn-landing-faq-heading = ᲮᲓᲙ
+vpn-langing-faq-uses-question-heading = რა არის VPN და რას იყენებს?
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
