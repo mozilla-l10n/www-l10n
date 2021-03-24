@@ -13,6 +13,9 @@ privacy-passwords-protecting-your-accounts = Ne mba’ete ñemo’ã natekotev�
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
 privacy-passwords-use-random-passwords = Oipuru ñe’ẽñemi jereguáva ha iñambuéva peteĩteĩva tendápe g̃uarã
+privacy-passwords-pay-attention-to = Ema’ẽag̃ui kundahára tekorosãre ñesẽre ha aníke ejeroviaiterei
+privacy-passwords-make-your-answers = Ejapo ne porandu ñembohovái tekorosãgua oikoporãva ne ñe’ẽñemícha
+privacy-passwords-use-a-password = Eipuru ñe’ẽñemi ñangarekohára hasy’ỹ hag̃ua imoheñói ha ñe’ẽñemi ñemomandu’a
 privacy-passwords-use-twofactor-authentication = Eipuru “ñemoneĩ mokõi reheguáva” ikatúma guive
 privacy-passwords-its-hard-out = Pe ñe’ẽñemi jeiko asy
 privacy-passwords-seeing-you-use = Ehecha mba’éichapa oipuru tenda ipapapy’ỹva
