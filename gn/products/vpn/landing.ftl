@@ -21,11 +21,14 @@ vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } omba’apo apopyvusu yvoragua ñandutípe tembipurupyahu ndive <a href="{ $mullvad }" { $attrs }> { -brand-name-mullvad }</a>. Oipurúvo taperekoite <a href="{ $wireguard }" { $attrs }> { -brand-name-wireguard }®</a> pyahu, rombopapapy ne rembiapo ñandutigua ha romoñemi nde IP kundaharape. Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutigua.
+vpn-landing-brand-trust-heading = Peteĩ VPN márka ejeroviakuaaha
 
 ## FAQ section
 
 vpn-landing-faq-heading = FAQs
 vpn-langing-faq-uses-question-heading = ¿Mba’épa VPN ha mba’éicha ijepuru?
+vpn-landing-faq-uses-conceal = Emokañývo nde IP kundaharape ha’etéva. Kóva omo’ãta nde reratee ha oñomíta ne rendaite.
+vpn-landing-faq-uses-encrypt = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o téra omoambue ndehegui.
 vpn-landing-faq-protected-question-heading = ¿Mba’éicha oñemo’ã che rekoñemi?
 vpn-landing-faq-compatibility-question-heading = ¿Máva mba’e’oka rehe ojokupyty { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = Máva ndive ojokupyty { -brand-name-mozilla-vpn }:
