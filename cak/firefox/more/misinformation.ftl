@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-title = Man taya' q'ij chi re r tz'ukun tzij pa k'amab'ey – { -brand-name-firefox } k'o wawe'
+misinformation-page-subheading = Ke'anik'oj ri taq na'oj richin jub'a' itzel taq etamab'äl ye'atz'ët chuqa' richin naya' retal ri k'o rejqalem chawäch
 misinformation-false-info-heading = ¿Akuchi' k'o wi ri man qitzij ta chi etamab'äl?
 misinformation-spot-online-heading = Achike rub'eyal yetz'et man qitzij ta taq etamab'äl pa k'amab'ey chuqa' richin niq'at kitaluxik
 misinformation-look-at-url = Tatz'eta' ri URL chuqa'/o ri ruxe'el.
