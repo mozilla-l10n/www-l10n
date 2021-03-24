@@ -15,6 +15,11 @@ vpn-landing-hero-sub-heading = 安全可依赖，品牌可信任。
 vpn-landing-privacy-heading = 隐私，一触即得
 vpn-landing-privacy-desc = 浏览、播放流媒体、完成工作，同时也要捍卫您的在线隐私。无论您是在旅行途中，或是正在使用公共 WiFi，还是只想寻求更强的在线安全感，我们都始终把您的隐私放在首位。
 vpn-landing-fast-secure-heading = 快速且安全的网络
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } 运行于由 <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> 提供的全球服务器。使用最先进的 <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> 协议，来加密您的网络活动并隐藏您的 IP 地址。我们永远不会记录、跟踪或共享您的网络数据。
 vpn-landing-brand-trust-heading = 值得信赖的品牌推出的 VPN
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -31,7 +36,7 @@ vpn-landing-faq-protected-question-heading = 将如何保护我的隐私？
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 协议会加密您的网络流量，从而保护您的所有私人信息。与现有的 VPN 协议相比，{ -brand-name-wireguard } 的轻量级代码更易于安全分析人员进行检查和审计，从而使其成为 VPN 的更安全选择。此外，我们承诺不会记录、跟踪或共享您的网络数据，您的在线活动将因此保持匿名。
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 协议会加密您的网络流量，从而保护您的所有私人信息。与现有的 VPN 协议相比，{ -brand-name-wireguard } 的轻量级代码更易于安全分析人员进行检查和审计，从而使其成为 VPN 的更安全选择。此外，我们永远不会记录、跟踪或共享您的网络数据，您的在线活动将因此保持匿名。
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 与竞品相比如何？
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
