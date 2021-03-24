@@ -30,6 +30,9 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla } 拥有 20 多年的历史
 
 vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = 随着越来越多的日常生活在互联网上进行，在线隐私和安全变得愈加重要。VPN，即<a href="{ $url }">虚拟专用网络，可以帮助您建立到互联网的安全专用连接。它通过在您的设备和互联网之间建立一条“隧道”来工作，从两个重要方面保护您：
 vpn-landing-faq-uses-conceal = 掩藏您的真实 IP 地址，以保护您的个人身份并隐匿所在位置。
 vpn-landing-faq-uses-encrypt = 加密您与 VPN 提供商之间的流量，杜绝本地网络上的任何人进行解密或修改。
 # Variables:
