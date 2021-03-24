@@ -48,9 +48,45 @@ vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = El protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® cifra el tráfico de tu red, protegiendo toda tu información privada. Comparado con los protocolos VPN existentes, el código liviano de { -brand-name-wireguard } es más fácil de revisar y auditar para los analistas de seguridad de, lo que lo convierte en una opción más segura para la VPN. Además, tus actividades en línea permanecen anónimas porque nunca registramos, rastreamos ni compartimos tus datos de red.
 vpn-landing-faq-competition-question-heading = ¿Cómo se compara { -brand-name-mozilla-vpn } con la competencia?
+vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible la { -brand-name-mozilla-vpn }?
+vpn-landing-faq-compatibility-question-desc = La { -brand-name-mozilla-vpn } es compatible con:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo 64-bit)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 y superiores)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versión 6 y superiores)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 y superiores)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } solo ({ -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolsos de la { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = Podés recuperar tu dinero dentro de los 30 días siguientes a la compra de tu suscripción. Contactate con nosotros y enviá la solicitud de reembolso seleccionando el botón "Obtener ayuda" en Ajustes de tu aplicación { -brand-name-mozilla-vpn }.
+vpn-landing-faq-manage-subscription-question-heading = ¿Cómo administro mi suscripción?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Si ya estás suscrito a la { -brand-name-mozilla-vpn }, podés cambiar tu plan o <a href="{ $url }">administrar tu suscripción</a> en cualquier momento.
+vpn-landing-faq-link = Ver más preguntas frecuentes
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Unite a la lista de espera: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Recibí una notificación cuando la { -brand-name-mozilla-vpn } esté disponible para tu dispositivo y región.
+vpn-landing-invite-page-heading = Unite a la lista de vigilancia de la VPN
+vpn-landing-invite-email-label = ¿Cuál es tu dirección de correo electrónico?
+vpn-landing-invite-required-label = Necesario
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-country-label = ¿En qué país vivís?
+vpn-landing-invite-language-label = Elegí tu idioma preferido.
+vpn-landing-invite-platform-label = ¿Qué plataformas te interesan?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Al hacer clic en "Únete a la lista de espera", estás aceptando nuestra <a href="{ $privacy }">Política de privacidad</a>.
+vpn-landing-invite-your-information = Tu información solo se usará para notificarte sobre la disponibilidad de la plataforma.
+vpn-landing-invite-thanks-heading = ¡Gracias! Estás en la lista
+vpn-landing-invite-thanks-desc = Una vez que la { -brand-name-mozilla-vpn } esté disponible para tu región, te enviaremos un correo electrónico.
 
 ##
 
