@@ -14,6 +14,7 @@ vpn-landing-page-desc = Eipuru { -brand-name-mozilla-vpn } emo’ã hag̃ua mba�
 vpn-landing-hero-sub-heading = Tekorosã nepytyvõkuaáva. Peteĩ téra ejeroviakuaaha.
 vpn-landing-hero-desc = Peteĩ ñanduti mba’eñimiguáva { -brand-name-firefox } apohare rehegua.
 vpn-landing-privacy-heading = Ñemiguáre jepoko
+vpn-landing-privacy-desc = Eikundaha, emombe’u, eñembosarái ha emba’apo ñandutípe tekoñemíme. Esẽ jave, eipurúvo WiFi opavavegua téra ehekávo tekorosã ñandutípe, akóinte romotenondéta nde rekoñemi.
 vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
 
 ## FAQ section
