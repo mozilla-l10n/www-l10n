@@ -27,7 +27,12 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android }（
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios }（13.0 及更高版本）
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（仅 { -brand-name-ubuntu } 平台）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策如何？
+vpn-landing-faq-refund-question-desc = 您可以在购买订阅后 30 天内进行退款。请前往 { -brand-name-mozilla-vpn } 应用程序的“设置”页面，并点按“获取帮助”按钮，与我们联系并提交退款申请。
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = 若您已经订阅了 { -brand-name-mozilla-vpn }，则可以随时更改计划或<a href="{ $url }">管理您的订阅</a>。
+vpn-landing-faq-link = 参阅更多常见问题
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

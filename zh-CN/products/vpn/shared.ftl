@@ -26,6 +26,10 @@ vpn-shared-features-activity = 不会记录您的网络活动
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = 最多可在 { $devices } 台设备中使用
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = 连接到我们在超过 { $countries } 个国家/地区，超过 { $servers } 台服务器的网络
+# Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = 现已在 { $countries } 个国家/地区推出，将在更多区域推出
 # Variables:
