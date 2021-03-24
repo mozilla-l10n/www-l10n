@@ -43,6 +43,10 @@ vpn-landing-faq-info-question-heading = Vilken information behåller { -brand-na
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Vi loggar, spårar eller delar inte någon av dina nätverksaktiviteter. Vi följer strikt { -brand-name-mozilla }:s <a href="{ $url }">Dataskyddsprinciper</a> och vi samlar endast in de uppgifter som krävs för att hålla VPN-operativt och förbättra produkten över tid .
 vpn-landing-faq-protected-question-heading = Hur skyddas min integritet?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollet krypterar din nätverkstrafik och skyddar all din privata information. Jämfört med befintliga VPN-protokoll är { -brand-name-wireguard }:s lättviktskod lättare för säkerhetsanalytiker att granska—vilket gör det till ett säkrare alternativ för VPN. Dessutom förblir dina onlineaktiviteter anonyma eftersom vi aldrig loggar, spårar eller delar dina nätverksdata.
 vpn-landing-faq-compatibility-question-heading = Vilka enheter är kompatibla med { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } är kompatibel med:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (endast 64-bitars)
