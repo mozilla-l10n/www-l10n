@@ -8,7 +8,17 @@
 
 ## FAQ section
 
+vpn-landing-faq-info-question-heading = ¿Qué información guarda { -brand-name-mozilla-vpn }?
+vpn-landing-faq-protected-question-heading = ¿Cómo es protegida mi privacidad?
+vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible { -brand-name-mozilla-vpn }?
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } es compatible con:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo 64-bit)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 y superior)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versión 6 y superior)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 y superior)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo para { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolso de { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = Puedes recuperar tu dinero dentro de los 30 días siguientes a la compra de tu suscripción. Contáctanos y envía la solicitud de reembolso seleccionando el botón "Obtener ayuda" en Ajustes dentro de tu aplicación { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = ¿Cómo administro mi suscripción?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
