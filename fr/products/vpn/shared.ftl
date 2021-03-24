@@ -19,12 +19,12 @@ vpn-shared-features-encrypt = Chiffrement de l’appareil
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-servers = { $servers }+ serveurs en { $countries }+ pays
+vpn-shared-features-servers = Plus de { $servers } serveurs dans plus de { $countries } pays
 vpn-shared-features-bandwidth = Aucune restriction de bande passante
 vpn-shared-features-activity = Pas de journalisation de votre activité réseau
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Possibilité de se connecter jusqu’à 5 appareils
+vpn-shared-features-devices = Possibilité de se connecter jusqu’à 5 appareils
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -45,7 +45,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } est une marque dépos
 
 vpn-shared-pricing-variable-heading = Optez pour l’abonnement qui vous convient
 vpn-shared-pricing-variable-sub-heading = Tous nos abonnements comprennent :
-vpn-shared-pricing-recommended-offer = Recommendation
+vpn-shared-pricing-recommended-offer = Recommandation
 vpn-shared-pricing-plan-6-month = 6 mois
 vpn-shared-pricing-plan-12-month = 12 mois
 vpn-shared-pricing-plan-monthly = 1 mois
