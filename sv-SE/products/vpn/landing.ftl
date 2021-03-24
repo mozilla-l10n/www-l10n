@@ -47,6 +47,10 @@ vpn-landing-faq-protected-question-heading = Hur skyddas min integritet?
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollet krypterar din nätverkstrafik och skyddar all din privata information. Jämfört med befintliga VPN-protokoll är { -brand-name-wireguard }:s lättviktskod lättare för säkerhetsanalytiker att granska—vilket gör det till ett säkrare alternativ för VPN. Dessutom förblir dina onlineaktiviteter anonyma eftersom vi aldrig loggar, spårar eller delar dina nätverksdata.
+vpn-landing-faq-competition-question-heading = Hur är { -brand-name-mozilla-vpn } jämfört med konkurrenterna?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Även om gratis VPN verkar attraktiva, gör de inte samma åtaganden om integritet som { -brand-name-mozilla-vpn } och kan sälja eller lagra dina data. Andra betalda VPN har inte { -brand-name-mozilla }:s över 20-års <a href="{ $url }">erfarenhet</a> av att bygga produkter som sätter människor och integritet först.
 vpn-landing-faq-compatibility-question-heading = Vilka enheter är kompatibla med { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } är kompatibel med:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (endast 64-bitars)
@@ -55,7 +59,11 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (v
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 och senare)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (endast { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Vad är { -brand-name-mozilla-vpn }:s återbetalningspolicy?
+vpn-landing-faq-refund-question-desc = Du kan få tillbaka dina pengar inom 30 dagar efter att du har köpt din prenumeration. Kontakta oss och skicka återbetalningsförfrågan genom att trycka på knappen "Få hjälp" i Inställningar på din { -brand-name-mozilla-vpn }-app.
 vpn-landing-faq-manage-subscription-question-heading = Hur hanterar jag min prenumeration?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Om du redan prenumererar på { -brand-name-mozilla-vpn } kan du ändra din plan eller <a href="{ $url }">hantera din prenumeration</a> när som helst.
 vpn-landing-faq-link = Se fler vanliga frågor
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
