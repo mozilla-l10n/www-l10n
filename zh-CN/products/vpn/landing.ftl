@@ -47,7 +47,7 @@ vpn-landing-faq-refund-question-desc = 您可以在购买订阅后 30 天内进�
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = 订阅 { -brand-name-mozilla-vpn } 后，可随时更改计划或<a href="{ $url }">管理您的订阅</a>。
+vpn-landing-faq-manage-subscription-question-desc = 订阅 { -brand-name-mozilla-vpn } 后，您可以随时更改计划或<a href="{ $url }">管理订阅</a>。
 vpn-landing-faq-link = 参阅更多常见问题
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
