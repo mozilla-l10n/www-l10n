@@ -11,11 +11,16 @@ vpn-landing-hero-sub-heading = 您可以倚靠的安全性、您信任的品牌�
 vpn-landing-hero-desc = 由 { -brand-name-firefox } 製造者所推出的 VPN 虛擬私人網路。
 vpn-landing-privacy-heading = 隱私保護一點即開
 vpn-landing-fast-secure-heading = 快速而安全的網路環境
+vpn-landing-brand-trust-heading = 由您可以信任的品牌所提供的 VPN
 
 ## FAQ section
 
 vpn-landing-faq-heading = 常見問題
 vpn-langing-faq-uses-question-heading = VPN 是什麼，有什麼用途？
+vpn-landing-faq-uses-conceal = 隱藏您實際的 IP 地址，保護您的個人身分並隱藏實際所在地點。
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = 看看五組會讓您想要在裝置上使用 VPN 的<a href="{ $url }">生活實際應用</a>。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 會保存哪些資訊？
 vpn-landing-faq-protected-question-heading = 會如何保護我的隱私權？
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 與其他類似產品，有什麼不同？
