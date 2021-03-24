@@ -48,6 +48,9 @@ vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = El protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® cifra el tráfico de tu red, protegiendo toda tu información privada. Comparado con los protocolos VPN existentes, el código liviano de { -brand-name-wireguard } es más fácil de revisar y auditar para los analistas de seguridad de, lo que lo convierte en una opción más segura para la VPN. Además, tus actividades en línea permanecen anónimas porque nunca registramos, rastreamos ni compartimos tus datos de red.
 vpn-landing-faq-competition-question-heading = ¿Cómo se compara { -brand-name-mozilla-vpn } con la competencia?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos con la privacidad que la { -brand-name-mozilla-vpn } y pueden vender o almacenar tus datos. Otras VPN pagas no tienen el registro { -brand-name-mozilla } de más de 20 años <a href="{ $url }">de desarrollo de productos que priorizan a las personas y la privacidad.
 vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible la { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = La { -brand-name-mozilla-vpn } es compatible con:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo 64-bit)
