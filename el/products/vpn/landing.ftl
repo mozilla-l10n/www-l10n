@@ -11,6 +11,9 @@
 vpn-landing-faq-compatibility-question-desc = Το { -brand-name-mozilla-vpn } είναι συμβατό με:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (μόνο 64-bit)
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 και νεότερα)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (έκδοση 6 και νεότερες)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 και νεότερα)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (Μόνο για { -brand-name-ubuntu })
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
