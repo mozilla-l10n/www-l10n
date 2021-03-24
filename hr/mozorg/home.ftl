@@ -28,4 +28,4 @@ home-personalize-firefox-with-your = Personaliziraj { -brand-name-firefox } s om
 home-careers = Karijera
 home-learn-about-the-benefits-of = Saznaj o prednostima kad radiš za Mozillu i pogledaj slobodna radna mjesta širom svijeta.
 home-need-help = Trebaš pomoć?
-home-get-answers-to-your-questions = Dobij odgovore na svoja pitanja o { -brand-name-firefox }u i svim Mozillinim proizvodima od našeg tima za podršku.
+home-get-answers-to-your-questions = Dobij odgovore na pitanja o { -brand-name-firefox }u i svim { -brand-name-mozilla } proizvodima od našeg tima za podršku.
