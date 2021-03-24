@@ -30,3 +30,15 @@ misinformation-images-captions = ¿Las imágenes y subtítulos coinciden?
 misinformation-images-are-powerful = Las imágenes son una herramienta muy poderosa para desinformación dirigida. Dependiendo de los subtítulos, la percepción puede ser modificada a lo opuesto de lo sucedido. Si no tienes seguridad, realiza una búsqueda a partir de la imágen para saber cómo es descrita en otros sitios.
 misinformation-how-firefox-helps-heading = Cómo { -brand-name-firefox } te ayuda a evitar información errónea
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantiene los rastreadores bajo control:
+misinformation-social-media-clean-heading = { -brand-name-firefox } te ayuda a mantener limpias tus redes sociales:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a ver contenido que sea digno de tu tiempo:
+misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Porque colocamos a las personas primero. De hecho, estamos respaldados por una <a href="{ $foundation }">fundación sin fines de lucro</a>. Desde el primer día, ha sido nuestra misión proteger a internet y a todos en el.
+misinformation-learn-more-about-our-mission = Aprender más sobre nuestra misión
+misinformation-your-privacy-by-the-product = Tu privacidad, producto a producto
+misinformation-firefox-products-work-differently = Los productos de { -brand-name-firefox } funcionan de forma distinta — porque están diseñados para proteger tu privacidad en primer lugar.
+misinformation-learn-about-our-products = Aprende sobre nuestros productos
+misinformation-designed-to-protect = Diseñado para proteger tu privacidad
