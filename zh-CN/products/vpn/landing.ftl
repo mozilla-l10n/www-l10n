@@ -24,8 +24,13 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla } 拥有 20 多年的历史
 
 vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
+vpn-landing-faq-uses-encrypt = 加密您与 VPN 提供商之间的流量，杜绝本地网络上的任何人进行解密或修改。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
 vpn-landing-faq-protected-question-heading = 将如何保护我的隐私？
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 协议会加密您的网络流量，从而保护您的所有私人信息。与现有的 VPN 协议相比，{ -brand-name-wireguard } 的轻量级代码更易于安全分析人员进行检查和审计，从而使其成为 VPN 的更安全选择。此外，我们承诺不会记录、跟踪或共享您的网络数据，您的在线活动将因此保持匿名。
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 与竞品相比如何？
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
@@ -42,7 +47,7 @@ vpn-landing-faq-refund-question-desc = 您可以在购买订阅后 30 天内进�
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = 若您已经订阅了 { -brand-name-mozilla-vpn }，则可以随时更改计划或<a href="{ $url }">管理您的订阅</a>。
+vpn-landing-faq-manage-subscription-question-desc = 订阅 { -brand-name-mozilla-vpn } 后，可随时更改计划或<a href="{ $url }">管理您的订阅</a>。
 vpn-landing-faq-link = 参阅更多常见问题
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
