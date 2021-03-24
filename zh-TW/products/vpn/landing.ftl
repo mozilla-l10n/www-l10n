@@ -56,7 +56,12 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = 點擊「加入排隊名單」，代表您同意我們的<a href="{ $privacy }">隱私權保護政策</a>。
+vpn-landing-invite-your-information = 我們只會使用您的資訊，用來向您通知產品推出資訊。
 vpn-landing-invite-thanks-heading = 感謝，已經登記完成！
+vpn-landing-invite-thanks-desc = 當 { -brand-name-mozilla-vpn } 於您所在的市場推出時，我們就會發信通知。
 
 ##
 
