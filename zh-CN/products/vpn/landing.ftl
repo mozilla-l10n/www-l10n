@@ -32,6 +32,9 @@ vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
 vpn-landing-faq-uses-conceal = 掩藏您的真实 IP 地址，以保护您的个人身份并隐匿所在位置。
 vpn-landing-faq-uses-encrypt = 加密您与 VPN 提供商之间的流量，杜绝本地网络上的任何人进行解密或修改。
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = 看看 5 个<a href="{ $url }">现实生活中的场景</a>，您可能想要在设备上使用 VPN。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
 vpn-landing-faq-protected-question-heading = 将如何保护我的隐私？
 # Variables:
