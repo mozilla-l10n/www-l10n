@@ -13,6 +13,8 @@ vpn-shared-available-countries = Vi erbjuder för närvarande { -brand-name-mozi
 vpn-shared-available-countries-v2 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Storbritannien, Tyskland, Frankrike, Kanada, Malaysia, Nya Zeeland och Singapore.
 vpn-shared-availablity-long = VPN är för närvarande tillgängligt för enheter med { -brand-name-windows } 10, { -brand-name-android } och { -brand-name-ios } i USA, Storbritannien, Kanada, Nya Zeeland, Singapore och Malaysia .
 vpn-shared-money-back-guarantee = 30-dagars pengarna tillbaka garanti
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Presenterad i
 vpn-shared-features-encrypt = Kryptering på enhetsnivå
 # Variables:
 #   $servers (number) - number of available servers
