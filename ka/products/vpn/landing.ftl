@@ -48,6 +48,22 @@ vpn-landing-faq-protected-question-heading = როგორაა დაცუ�
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებთან შედარებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას—რაც მეტად დაცულს ხდის დანარჩენებისგან განსხვავებით. ამასთან, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
 vpn-landing-faq-competition-question-heading = რითი გამოირჩევა { -brand-name-mozilla-vpn } მეტოქეებისგან?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა აღირიცხოს ან გაიყიდოს თქვენი მონაცემები. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
+vpn-landing-faq-compatibility-question-heading = რომელ მოწყობილობებთანაა { -brand-name-mozilla-vpn } თავსებადი?
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } თავსებადი სისტემებია:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-ბიტიანი მხოლოდ)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 და ზემოთ)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (მე-6 ვერსიიდან)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 და ზემოთ)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-მხოლოდ)
+vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
+vpn-landing-faq-refund-question-desc = თანხის დაბრუნება შეგეძლებათ 30 დღეში გამოწერის შეძენიდან. დაგვიკავშირდით ან მოითხოვეთ ანაზღაურება, „დახმარების“ ღილაკით პარამეტრებიდან, თქვენს { -brand-name-mozilla-vpn } პროგრამაში.
+vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დორს შეგიძლიათ.
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
