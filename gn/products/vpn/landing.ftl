@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: omo’ãta opaite ne mba’e’oka
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Eipuru { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembipuru’ípe g̃uarã. Apopyvusu ndive { $country }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
+vpn-landing-hero-sub-heading = Tekorosã nepytyvõkuaáva. Peteĩ téra ejeroviakuaaha.
 vpn-landing-privacy-heading = Ñemiguáre jepoko
 vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
 
