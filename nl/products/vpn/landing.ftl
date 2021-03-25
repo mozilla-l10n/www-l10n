@@ -48,6 +48,9 @@ vpn-landing-faq-protected-question-heading = Hoe wordt mijn privacy beschermd?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Het <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protocol versleutelt uw netwerkverkeer, waardoor al uw privégegevens worden beschermd. In vergelijking met bestaande VPN-protocollen is de lichtgewicht code van { -brand-name-wireguard } eenvoudiger te beoordelen en auditen door beveiligingsanalysten – wat het een veiliger optie maakt voor de VPN. Daarnaast blijven uw online activiteiten anoniem, omdat we uw netwerkgegevens nooit loggen, volgen of delen.
 vpn-landing-faq-competition-question-heading = Hoe verhoudt { -brand-name-mozilla-vpn } zich tot de concurrentie?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Hoewel gratis VPN’s aantrekkelijk lijken, gaan ze niet dezelfde verplichtingen met betrekking tot privacy aan als { -brand-name-mozilla-vpn } en kunnen ze uw gegevens verkopen of opslaan. Andere betaalde VPN’s kunnen niet bogen op de <a href="{ $url }">reputatie</a> van { -brand-name-mozilla } van meer dan 20 jaar van het bouwen van producten die mensen en privacy voorop stellen.
 vpn-landing-faq-compatibility-question-heading = Met welke apparaten is { -brand-name-mozilla-vpn } compatibel?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } is compatibel met:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (alleen 64-bits)
