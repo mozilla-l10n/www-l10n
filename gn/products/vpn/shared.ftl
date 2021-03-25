@@ -11,6 +11,17 @@ vpn-shared-waitlist-link = Ejuaju tysýi oha’ãrõvare
 vpn-shared-sign-in-link = ¿Eñemboheraguapýma?
 vpn-shared-available-countries = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur ha Malasia-pe.
 vpn-shared-available-countries-v2 = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda ha Singapur-pe.
+vpn-shared-availablity-long = Ko’ág̃a VPN eiprukuaa mba’e’okápe g̃uarã { -brand-name-windows } 10, { -brand-name-android } ha { -brand-name-ios } Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur ha Malasia-pe.
+vpn-shared-money-back-guarantee = 30 ára haguépe ome’ẽkuaajey viru
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Momba’epyre pe
+vpn-shared-features-encrypt = Ipapapýva mba’e’okápe
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = { $servers }+ apopyvusu { $countries }-pe+ tetãnguéra
+vpn-shared-features-bandwidth = Ancho de banda jejoko’ỹ
+vpn-shared-features-activity = Ndopytái nde rapykuere ne ñandutípe
 vpn-shared-refund-policy = Myengovia Purureko
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
 vpn-shared-terms-conditions = Ñe’ẽtegua ha Mba’éichapa
