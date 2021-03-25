@@ -22,6 +22,9 @@ vpn-shared-features-encrypt = Ipapapýva mba’e’okápe
 vpn-shared-features-servers = { $servers }+ apopyvusu { $countries }-pe+ tetãnguéra
 vpn-shared-features-bandwidth = Ancho de banda jejoko’ỹ
 vpn-shared-features-activity = Ndopytái nde rapykuere ne ñandutípe
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Eikekuaa { $devices } peve mba’e’okápe
 vpn-shared-refund-policy = Myengovia Purureko
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
 vpn-shared-terms-conditions = Ñe’ẽtegua ha Mba’éichapa
