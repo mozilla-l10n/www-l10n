@@ -67,7 +67,12 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Eikutúvo “Ejuaju tysýi oha’ãrõva”, emoneĩma ore   <a href="{ $privacy }">Ñemigua purureko</a>.
+vpn-landing-invite-your-information = Ne marandu ojepurúta ojeguerahauka hag̃ua marandu’i eikekuaamaha pype.
 vpn-landing-invite-thanks-heading = ¡Aguyje! Eiméma tysýipe
+vpn-landing-invite-thanks-desc = Ikatúvo { -brand-name-mozilla-vpn } ojepuru reikohápe, romondóta ndéve ñanduti veve.
 
 ##
 
