@@ -30,6 +30,10 @@ misinformation-images-captions = ¿Las imágenes y subtítulos coinciden?
 misinformation-images-are-powerful = Las imágenes son una herramienta muy poderosa para desinformación dirigida. Dependiendo de los subtítulos, la percepción puede ser modificada a lo opuesto de lo sucedido. Si no tienes seguridad, realiza una búsqueda a partir de la imágen para saber cómo es descrita en otros sitios.
 misinformation-how-firefox-helps-heading = Cómo { -brand-name-firefox } te ayuda a evitar información errónea
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantiene los rastreadores bajo control:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Como se mencionó anteriormente, el rastreo juega un papel importante en la difusión de información errónea. <a href="{ $firefox }">El uso de { -brand-name-firefox } </a> con la <a href="{ $protection }">Protección de seguimiento mejorada</a> ayuda a bloquear los rastreadores de terceros de muchos anunciantes y otras empresas de forma predeterminada cuando navegas por la web, de modo que recuperas el control sobre tus datos en línea.
 misinformation-social-media-clean-heading = { -brand-name-firefox } te ayuda a mantener limpias tus redes sociales:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a ver contenido que sea digno de tu tiempo:
