@@ -75,6 +75,7 @@ navigation-share-large-files-safely = Emoherakuã marandurenda guasu tekorosãme
 navigation-save-quality-content = Eñongatu tetepy porã oimeraẽva tenda guive. Emombarete ne akã opágotyo.
 navigation-sign-up = Eñemboheraguapy
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Ipya’e. Ndahasýi. Iñemi.
+navigation-protect-your-entire-device = Emo’ãmbaite ne mba’e’oka ha tembipuru’i. Eñomi ne rendaite ha embojuaju po mba’e’oka peve. Eñemboheraguapy ko’ág̃a.
 # Outdated string
 navigation-connected-and-protected = Eikepyre ha mo’ãmbyre
 navigation-join = Jejuaju

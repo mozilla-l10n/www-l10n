@@ -44,6 +44,9 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ha h
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
 vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
 vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarekóta che mboheraguapýre?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Eñemboheraguapýmarõ { -brand-name-mozilla-vpn }-pe, ikatu emoambue erekóva térã <a href="{ $url }">eñangareko ne ñemboheraguapýre</a> opa ára.
 vpn-landing-faq-link = Ehechave FAQs
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
