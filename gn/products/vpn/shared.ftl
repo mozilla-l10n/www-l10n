@@ -32,9 +32,14 @@ vpn-shared-features-server-countries = Eike hetave { $servers } mba’e’okaku�
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Eipurukuaa { $countries } tetãnguérape ko’ág̃a. Vokóinte hetave tendápe
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Eporandu ore rysýi tuichakue <a href="{ $url }" { $attrs }>mba’e’okakuéra</a>.
 vpn-shared-refund-policy = Myengovia Purureko
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
 vpn-shared-terms-conditions = Ñe’ẽtegua ha Mba’éichapa
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } ha’e marca registrada Jason A. Donenfeld mba’e
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
