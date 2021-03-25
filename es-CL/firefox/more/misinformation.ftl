@@ -35,8 +35,17 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantiene
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Como se mencionó anteriormente, el rastreo juega un papel importante en la difusión de información errónea. <a href="{ $firefox }">El uso de { -brand-name-firefox } </a> con la <a href="{ $protection }">Protección de seguimiento mejorada</a> ayuda a bloquear los rastreadores de terceros de muchos anunciantes y otras empresas de forma predeterminada cuando navegas por la web, de modo que recuperas el control sobre tus datos en línea.
 misinformation-social-media-clean-heading = { -brand-name-firefox } te ayuda a mantener limpias tus redes sociales:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Las redes sociales saben mucho de ti. Además, pueden rastrearte más allá de sus plataformas con sus botones Compartir y Me gusta a pesar de la Protección contra seguimiento, incluso si no tienes una cuenta en esas plataformas. <a href="{ $container }">{ -brand-name-facebook-container }</a> para { -brand-name-firefox } asegura que { -brand-name-facebook } e { -brand-name-instagram } no puedan hacer esto tan fácilmente, lo que nuevamente reduce, de manera significativa, la probabilidad de ver información errónea a través de anuncios y contenido promocionado.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a ver contenido que sea digno de tu tiempo:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = Cuando abres una nueva pestaña en tu navegador { -brand-name-firefox }, verás artículos <a href="{ $recommended }">recomendados por { -brand-name-pocket }</a>. { -brand-name-pocket } no utiliza ningún dato personal para hacer recomendaciones. En su lugar, los artículos son seleccionados por personas reales que utilizan la aplicación. La habilidad de descubrir nuevas historias, ángulos y opiniones es una forma de combatir la difusión de información errónea. Para obtener más recomendaciones, suscríbete al <a href="{ $pocket_hit }">boletín de { -brand-name-pocket }</a> y descarga <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
