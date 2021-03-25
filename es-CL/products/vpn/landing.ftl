@@ -16,6 +16,11 @@ vpn-landing-hero-desc = Una red privada virtual de los creadores de { -brand-nam
 vpn-landing-privacy-heading = Un toque a la privacidad
 vpn-landing-privacy-desc = Navega, transmite, juega y trabaja mientras mantienes tu privacidad en línea. Ya sea que viajes, utilices WiFi público o simplemente busques más seguridad en línea, siempre daremos prioridad a tu privacidad.
 vpn-landing-fast-secure-heading = Red rápida y segura
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } se ejecuta en una red global de servidores con tecnología de <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Utilizando el protocolo más avanzado de <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, ciframos tu actividad en la red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos tus datos de red.
 vpn-landing-brand-trust-heading = Un VPN de una marca en la que puedes confiar
 
 ## FAQ section
@@ -30,6 +35,9 @@ vpn-landing-faq-uses-examples = Revisa <a href="{ $url }">cinco ejemplos de la v
 vpn-landing-faq-info-question-heading = ¿Qué información guarda { -brand-name-mozilla-vpn }?
 vpn-landing-faq-protected-question-heading = ¿Cómo es protegida mi privacidad?
 vpn-landing-faq-competition-question-heading = ¿Cómo se compara { -brand-name-mozilla-vpn } con la competencia?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Si bien los VPN gratuitos parecen atractivos, no asumen los mismos compromisos de privacidad que { -brand-name-mozilla-vpn } y pueden vender o almacenar sus datos. Otros VPN de paga no tienen la <a href="{ $url }">historia</a> de más de 20 años de { -brand-name-mozilla } en creación de productos que ponen a las personas y la privacidad en primer lugar.
 vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } es compatible con:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo 64-bit)
