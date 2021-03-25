@@ -25,6 +25,13 @@ vpn-shared-features-activity = Ndopytái nde rapykuere ne ñandutípe
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Eikekuaa { $devices } peve mba’e’okápe
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Eike hetave { $servers } mba’e’okakuéra hetave { $countries } tetãnguérape
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Eipurukuaa { $countries } tetãnguérape ko’ág̃a. Vokóinte hetave tendápe
 vpn-shared-refund-policy = Myengovia Purureko
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
 vpn-shared-terms-conditions = Ñe’ẽtegua ha Mba’éichapa
