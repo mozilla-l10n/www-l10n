@@ -7,6 +7,8 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Proteggi il tuo dispositivo
+vpn-landing-hero-sub-heading = Sicurezza su cui puoi contare. Un nome di cui ti puoi fidare.
+vpn-landing-hero-desc = Una rete privata virtuale (VPN) dai creatori di { -brand-name-firefox }.
 
 ## FAQ section
 
