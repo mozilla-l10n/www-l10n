@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Proteggi il tuo dispositivo
 
 ## FAQ section
 
@@ -13,6 +15,8 @@
 
 vpn-landing-invite-email-label = Qual è il tuo indirizzo email?
 vpn-landing-invite-required-label = Obbligatorio
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = tuonome@example.com
 vpn-landing-invite-country-label = In quale paese vivi?
 vpn-landing-invite-language-label = Seleziona la lingua preferita.
 vpn-landing-invite-platform-label = Quali piattaforme ti interessano?
