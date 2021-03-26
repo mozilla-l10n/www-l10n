@@ -21,9 +21,36 @@ vpn-landing-brand-trust-heading = VPN attól a márkától, amelyben megbízik
 
 ## FAQ section
 
+vpn-landing-faq-heading = GYIK
+vpn-landing-faq-compatibility-question-heading = Milyen eszközökkel kompatibilis a { -brand-name-mozilla-vpn }?
+vpn-landing-faq-compatibility-question-desc = A { -brand-name-mozilla-vpn } a következőkkel kompatibilis:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (csak 64 bites)
+vpn-landing-faq-manage-subscription-question-heading = Hogyan kezelhetem az előfizetésemet?
+vpn-landing-faq-link = További GYIK bejegyzések megtekintése
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Csatlakozzon a várólistához: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Értesüljön, ha a { -brand-name-mozilla-vpn } elérhetővé válik az eszközére és a régiójában.
+vpn-landing-invite-page-heading = Csatlakozzon a VPN várólistához
+vpn-landing-invite-email-label = Mi az e-mail-címe?
+vpn-landing-invite-required-label = Kötelező
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = email@example.com
+vpn-landing-invite-country-label = Melyik országban él?
+vpn-landing-invite-language-label = Válassza ki az előnyben részesített nyelvét.
+vpn-landing-invite-platform-label = Mely platformok érdeklik?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = A „Csatlakozás a várólistához” gombra kattintva elfogadja az <a href="{ $privacy }">adatvédelmi irányelveinket</a>.
+vpn-landing-invite-thanks-heading = Köszönjük! Felkerült a listára
+vpn-landing-invite-thanks-desc = Amint a { -brand-name-mozilla-vpn } elérhetővé válik az Ön régiójában, e-mailt küldünk Önnek.
 
 ##
 
