@@ -9,9 +9,19 @@
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Proteggi il tuo dispositivo
 vpn-landing-hero-sub-heading = Sicurezza su cui puoi contare. Un nome di cui ti puoi fidare.
 vpn-landing-hero-desc = Una rete privata virtuale (VPN) dai creatori di { -brand-name-firefox }.
+vpn-landing-fast-secure-heading = Una rete sicura e veloce
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } viene eseguita su una rete mondiale di server sviluppata con tecnologia <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Crittografiamo la tua attività di rete e nascondiamo il tuo indirizzo IP attraverso il più avanzato protocollo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Non registriamo, monitoriamo o condividiamo mai i tuoi dati di rete.
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = { -brand-name-mozilla } mette le persone al primo posto e si batte per la privacy online da più di 20 anni. Sostenuti da un’organizzazione senza scopo di lucro, ci impegniamo a costruire un Internet migliore e più sano per tutti. Tutto ciò che realizziamo fa parte della nostra missione e segue i nostri <a href="{ $url }">principi</a>.
 
 ## FAQ section
 
+vpn-landing-faq-heading = FAQ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
