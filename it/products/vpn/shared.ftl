@@ -27,6 +27,18 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } è un marchio registr
 
 vpn-shared-pricing-variable-sub-heading = Tutti i nostri piani includono:
 vpn-shared-pricing-recommended-offer = Consigliato
+vpn-shared-pricing-plan-6-month = Semestrale
+vpn-shared-pricing-plan-12-month = Annuale
+vpn-shared-pricing-plan-monthly = Mensile
+vpn-shared-pricing-get-6-month = Acquista il piano semestrale
+vpn-shared-pricing-get-12-month = Acquista il piano annuale
+vpn-shared-pricing-get-monthly = Acquista il piano mensile
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Risparmia il { $percent }%
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } totali
 
 ##
 
