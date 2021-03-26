@@ -18,6 +18,9 @@ history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mo
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti puruhára </a> oikundaha { -brand-name-ie } ndive.
 # Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = Ary 2003 jave, { -brand-name-mozilla } apopyrã omoheñói { -brand-name-mozilla-foundation }, peteĩ <a href="{ $foundation }">atyguasu ijeheguíva viru’ỹgua</a> ombojopóiva tapicha peteĩteĩ ha avei heta mba’apohaguasu.
+# Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Pe ñeñani ipyahúva <a href="{ $innovation }">ombopya’eve mba’epyahu</a> ha omboha’eve Ñanduti opavavetépe g̃uarã.
 history-mozilla-also-celebrated = { -brand-name-mozilla } avei omomora 15 ary ñemboty 2013-pe.
