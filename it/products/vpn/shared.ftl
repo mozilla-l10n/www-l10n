@@ -10,6 +10,10 @@ vpn-shared-money-back-guarantee = Garanzia “soddisfatti o rimborsati” di 30 
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Nominata da
 vpn-shared-features-encrypt = Crittografia a livello di dispositivo
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Più di { $servers } server in più di { $countries } Paesi
 vpn-shared-features-bandwidth = Nessuna restrizione della larghezza di banda
 vpn-shared-features-activity = Nessuna registrazione della tua attività di rete
 # Variables:
