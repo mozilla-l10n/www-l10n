@@ -59,6 +59,7 @@ firefox-more-protection = { -brand-name-firefox }: Ñemo’ãve. Sa’ivéma jep
 were-obsessed-with = Ore jepy’apy ha’e hína ne ñemigua ñemo’ãve. Upévare rojapo { -brand-name-firefox } kundahára ñemigua imbaretevéva opavavégui.
 incognito-browser-what = Kundahára jekuaa’ỹva: mba’épa he’isetéva
 take-the-stress = Eñembyesarái kane’õgui ehekahápe kundahára hekorosãva.
+building-a-safe = Kundahára hekorosãva jejapo ha’e tekoporã ha avei mba’ekuaa ndorekóire mbojojaha.
 firefox-more-fingerprinter-blocking = Ñemokuãhũ Jejoko
 firefox-more-fingerprinting-is-a = Ñemokuãhũ (fingerprinting) ñemoheñói ha’e peteĩ tapykuehoha ñandutípe imbaretéva tapykuehoha oĩvagui kookie-pe; upévare { -brand-name-firefox-browser } ojokóma.
 firefox-more-translate-the-web = Emoñe’ẽasa ñanduti
