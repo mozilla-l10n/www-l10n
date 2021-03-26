@@ -39,6 +39,9 @@ vpn-shared-pricing-recommended-offer = Consigliato
 vpn-shared-pricing-plan-6-month = Semestrale
 vpn-shared-pricing-plan-12-month = Annuale
 vpn-shared-pricing-plan-monthly = Mensile
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount } <span>al mese</span>
 vpn-shared-pricing-get-6-month = Acquista il piano semestrale
 vpn-shared-pricing-get-12-month = Acquista il piano annuale
 vpn-shared-pricing-get-monthly = Acquista il piano mensile
