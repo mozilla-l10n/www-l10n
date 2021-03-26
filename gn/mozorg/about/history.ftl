@@ -13,6 +13,7 @@ history-the-mozilla-project-was = Ko apopyrã { -brand-name-mozilla } ha’ékur
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Oñemoheñói tekoha ijurujáva, { -brand-name-mozilla } apopyrãgui oiko <a href="{ $stevecase }">mba’apohaguasu tuichavéva opavavégui</a>.
+history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti puruhára </a> oikundaha { -brand-name-ie } ndive.
