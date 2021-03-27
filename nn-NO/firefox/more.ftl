@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+what-is-a = Kva er ein nettlesar?
 firefox-more-translate-the-web = Omset nettet

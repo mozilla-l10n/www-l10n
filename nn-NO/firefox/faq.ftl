@@ -21,6 +21,7 @@ how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Er { -brand-name-firefox } gratis?
+is-chrome-better = Er { -brand-name-chrome } betre enn { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -39,15 +40,18 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Kvifor er { -brand-name-firefox } så treg?
+is-firefox-chromium = Er { -brand-name-firefox } basert på { -brand-name-chromium }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Har { -brand-name-firefox } innebygd VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+who-owns-firefox = Kven eig { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

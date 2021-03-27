@@ -78,3 +78,4 @@ firefox-developer-welcome-to-the-all-new = Velkomen til den heilt nye { -brand-n
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er bygd oppatt frå grunnen til å vere raskare, penare og kraftigare enn nokon gong.
 firefox-developer-congrats-you-now-have-firefox = Gratulerer. Du har no { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Dette er ikkje berre ei oppdatering. Dette er { -brand-name-firefox-quantum }: ein heilt ny { -brand-name-firefox } som er bygd oppatt frå grunnen av for å vere raskare, meir elegant og kraftigare enn nokon gong.
+firefox-developer-made-for-developers = nettlesaren laga for utviklarar
