@@ -88,6 +88,7 @@ firefox-desktop-download-make-firefox-your = Prikrojite si <strong>{ -brand-name
 firefox-desktop-download-extensions-for-every = Razširitve za vsak okus
 firefox-desktop-download-change-up-your = Spremenite videz
 firefox-desktop-download-tweak-your-settings = Prilagodite si nastavitve
+firefox-desktop-download-challenging-the-status = Izzivamo status quo od leta 1998
 firefox-desktop-download-your-privacy-comes = Vaša zasebnost je na prvem mestu
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Vsa vaša priljubljena orodja { -brand-name-google }, kot so Gmail in Dokumenti, delujejo brezhibno v { -brand-name-firefox-browser(sklon: "mestnik") }.
@@ -102,6 +103,7 @@ firefox-desktop-download-enhanced-tracking-protection = Izboljšana zaščita pr
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Prenesite mobilni brskalnik { -brand-name-firefox } za samodejno zaščito na vseh svojih napravah.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
