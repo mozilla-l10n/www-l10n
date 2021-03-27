@@ -9,6 +9,7 @@ vpn-shared-subscribe-link = Installar { -brand-name-mozilla-vpn }
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-plan-6-month = 6 menses
 
 ##
 
