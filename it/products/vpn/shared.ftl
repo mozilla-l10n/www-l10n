@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
+vpn-shared-available-countries = Offriamo { -brand-name-mozilla-vpn } negli Stati Uniti, nel Rego Unito, in Canada,  in Nuova Zelanda, a Singapore ed in Malesia.
 vpn-shared-money-back-guarantee = Garanzia “soddisfatti o rimborsati” di 30 giorni
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Nominata da
