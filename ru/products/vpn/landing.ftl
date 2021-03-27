@@ -19,6 +19,7 @@ vpn-landing-faq-heading = ЧЗВ
 vpn-langing-faq-uses-question-heading = Что такое VPN и для чего он используется?
 vpn-landing-faq-info-question-heading = Какую информацию сохраняет { -brand-name-mozilla-vpn }?
 vpn-landing-faq-protected-question-heading = Как защищается моя приватность?
+vpn-landing-faq-competition-question-heading = Чем { -brand-name-mozilla-vpn } отличается от конкурентов?
 vpn-landing-faq-compatibility-question-heading = С какими устройствами совместим { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } совместим с:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (только 64-битная версия)
@@ -37,6 +38,27 @@ vpn-landing-faq-link = Посмотреть больше вопросов
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Присоединитесь к списку ожидания: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Получите уведомление, когда { -brand-name-mozilla-vpn } станет доступен для вашего устройства и региона.
+vpn-landing-invite-page-heading = Присоединиться к списку ожидания VPN
+vpn-landing-invite-email-label = Какой ваш адрес электронной почты?
+vpn-landing-invite-required-label = Обязательное поле
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = вы@example.com
+vpn-landing-invite-country-label = В какой стране вы живёте?
+vpn-landing-invite-language-label = Выберите предпочитаемый язык.
+vpn-landing-invite-platform-label = В каких платформах вы заинтересованы?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Нажимая «Присоединиться к списку ожидания», вы соглашаетесь с нашей  <a href="{ $privacy }">Политикой приватности</a>.
+vpn-landing-invite-your-information = Ваша информация будет использоваться только для уведомления вас о доступности платформы.
+vpn-landing-invite-thanks-heading = Спасибо! Теперь вы в списке
+vpn-landing-invite-thanks-desc = Как только { -brand-name-mozilla-vpn } станет доступным для вашей страны, мы свяжемся с вами по электронной почте.
 
 ##
 
