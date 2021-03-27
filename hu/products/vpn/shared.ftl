@@ -29,6 +29,13 @@ vpn-shared-features-devices = Lehetőség akár { $devices } eszköz csatlakozta
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-shared-features-server-countries = Csatlakozzon több mint { $server } kiszolgálóhoz, több mint { $countries } országban
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Jelenleg { $countries } országban érhető el. Hamarosan további régiók is várhatóak.
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Tekintse meg a <a href="{ $url }" { $attrs }>kiszolgálóink teljes listáját</a>.
 vpn-shared-refund-policy = Pénzvisszatérítési házirend
 vpn-shared-privacy-notice = Adatvédelmi nyilatkozat
 vpn-shared-terms-conditions = Használati feltételek

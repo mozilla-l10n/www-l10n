@@ -22,6 +22,9 @@ vpn-landing-fast-secure-heading = Gyors és biztonságos hálózat
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = A { -brand-name-mozilla-vpn } a <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> által biztosított globális kiszolgálóhálózaton fut. A legfejlettebb <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> protokollt használja a hálózati forgalma titkosításához és az IP-címe elrejtéséhez. Sosem naplózzuk, követjük vagy osztjuk meg a hálózati adatait.
 vpn-landing-brand-trust-heading = VPN attól a márkától, amelyben megbízik
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = A { -brand-name-mozilla } több mint 20 éves pályafutása alatt az embereket és az online adatvédelmet helyezte az első helyre. Egy nonprofit szervezet támogatásával, elkötelezettek vagyunk az iránt, hogy jobb és egészségesebb internetet építsünk mindenki számára. Minden amit teszünk, az a küldetésünk része, és az <a href="{ $url }">elveinket</a> követi.
 
 ## FAQ section
 
@@ -40,6 +43,14 @@ vpn-landing-faq-info-question-heading = Milyen információkat tárol a { -brand
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Nem naplózzuk, követjük és osztjuk meg a hálózati forgalmát. Szigorúan a { -brand-name-mozilla } <a href="{ $url }">Adatvédelmi elveihez</a> tartjuk magunkat, és csak a VPN működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük be.
 vpn-landing-faq-protected-question-heading = Hogyan védik a magánszférámat?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = A <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokoll titkosítja a hálózati forgalmát, megvédve a személyes információit. A meglévő VPN protokollokhoz képest, a { -brand-name-wireguard } relatíve egyszerű kódját könnyebben ellenőrizhetik és auditálhatják a biztonsági elemzők – így biztonságosabb lehetőséggé téve a VPN-t. Továbbá az online tevékenysége anonim marad, mert nem naplózzuk, követjük és osztjuk meg a hálózati adatait.
+vpn-landing-faq-competition-question-heading = Hogy áll a { -brand-name-mozilla-vpn } a versenytársakhoz képest?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Bár az ingyenes VPN-ek vonzónak tűnnek, nem vállalnak ugyanolyan kötelezettségeket az adatvédelem terén, mint a { -brand-name-mozilla-vpn }, és eladhatják vagy tárolhatják adatait. Más fizetős VPN-ek nem rendelkeznek a { -brand-name-mozilla } több mint 20 éves termékfejlesztési <a href="{ $url }">múltjával</a>, amely az embereket és az adatvédelmet helyezi az első helyre.
 vpn-landing-faq-compatibility-question-heading = Milyen eszközökkel kompatibilis a { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = A { -brand-name-mozilla-vpn } a következőkkel kompatibilis:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (csak 64 bites)
