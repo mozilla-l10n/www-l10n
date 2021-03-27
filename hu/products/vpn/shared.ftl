@@ -29,9 +29,31 @@ vpn-shared-features-devices = Lehetőség akár { $devices } eszköz csatlakozta
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-shared-features-server-countries = Csatlakozzon több mint { $server } kiszolgálóhoz, több mint { $countries } országban
+vpn-shared-refund-policy = Pénzvisszatérítési házirend
+vpn-shared-privacy-notice = Adatvédelmi nyilatkozat
+vpn-shared-terms-conditions = Használati feltételek
+vpn-shared-wireguard-copyright = A { -brand-name-wireguard } Jason A. Donenfeld bejegyzett védjegye
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading = Válasszon egy csomagot, amely megfelel az Ön számára
+vpn-shared-pricing-variable-sub-heading = Az összes csomagunk tartalmazza a következőket:
+vpn-shared-pricing-recommended-offer = Ajánlott
+vpn-shared-pricing-plan-6-month = 6 hónapos
+vpn-shared-pricing-plan-12-month = 12 hónapos
+vpn-shared-pricing-plan-monthly = Havi
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-get-6-month = 6 hónapos csomag beszerzése
+vpn-shared-pricing-get-12-month = 12 hónapos csomag beszerzése
+vpn-shared-pricing-get-monthly = Havi csomag beszerzése
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Spóroljon { $percent }%-ot
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = Összesen { $amount }
 
 ##
 

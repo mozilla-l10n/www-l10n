@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Védje meg a teljes eszközét
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Használja a { -brand-name-mozilla-vpn }-t a teljes eszközvédelemhez, minden alkalmazáshoz. Kiszolgálókkal { $countries }+ országban, bárhová és bárhonnan kapcsolódhat.
 vpn-landing-hero-sub-heading = A biztonság, amelyre támaszkodhat. A név, amelyben megbízhat.
 vpn-landing-hero-desc = Virtuális magánhálózat a { -brand-name-firefox } készítőitől.
 vpn-landing-privacy-heading = Egy koppintás az adatvédelemhez
@@ -43,7 +47,7 @@ vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 vag
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6-os verzió vagy újabb)
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 vagy újabb)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (csak { -brand-name-ubuntu })
-vpn-landing-faq-refund-question-heading = Mi a { -brand-name-mozilla-vpn } visszatérítési házirendje?
+vpn-landing-faq-refund-question-heading = Mi a { -brand-name-mozilla-vpn } pénzvisszatérítési házirendje?
 vpn-landing-faq-refund-question-desc = Az előfizetés megvásárlásától számított 30 napon belül visszakaphatja a pénzét. Vegye fel velünk a kapcsolatot, és küldje el a visszatérítési kérelmet a { -brand-name-mozilla-vpn } alkalmazás Beállítások menüjének „Segítség kérése” gombjára koppintva.
 vpn-landing-faq-manage-subscription-question-heading = Hogyan kezelhetem az előfizetésemet?
 # Variables:
