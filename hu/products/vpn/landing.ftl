@@ -22,6 +22,20 @@ vpn-landing-brand-trust-heading = VPN attól a márkától, amelyben megbízik
 ## FAQ section
 
 vpn-landing-faq-heading = GYIK
+vpn-langing-faq-uses-question-heading = Mi az a VPN, és mire használható?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Ahogy a mindennapi életünk egyre nagyobb része az interneten keresztül zajlik, az online adatvédelem és biztonság még fontosabbá vált. Egy VPN, egy <a href="{ $url }">virtuális magánhálózat</a>, segíthet, hogy biztonságosabb, privát kapcsolata legyen az internet felé. Úgy működik, hogy egy „alagutat” hoz létre az eszköze és az internet egésze között, és két fontos módon védi meg:
+vpn-landing-faq-uses-conceal = Elrejti a valódi IP-címét. Ez védi a személyazonosságát, és elfedi a tartózkodási helyét.
+vpn-landing-faq-uses-encrypt = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Nézzen meg <a href="{ $url }">öt való életből származó példát</a>, amikor VPN-t szeretne az eszközére.
+vpn-landing-faq-info-question-heading = Milyen információkat tárol a { -brand-name-mozilla-vpn }?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Nem naplózzuk, követjük és osztjuk meg a hálózati forgalmát. Szigorúan a { -brand-name-mozilla } <a href="{ $url }">Adatvédelmi elveihez</a> tartjuk magunkat, és csak a VPN működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük be.
+vpn-landing-faq-protected-question-heading = Hogyan védik a magánszférámat?
 vpn-landing-faq-compatibility-question-heading = Milyen eszközökkel kompatibilis a { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = A { -brand-name-mozilla-vpn } a következőkkel kompatibilis:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (csak 64 bites)
