@@ -6,4 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 what-is-a = Kva er ein nettlesar?
+firefox-is-more = { -brand-name-firefox } er meir enn ein nettlesar
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-name-chromebook }
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-translate-the-web = Omset nettet
