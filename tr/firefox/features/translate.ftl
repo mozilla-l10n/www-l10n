@@ -11,9 +11,14 @@ features-translate-translate-the-web-title = Web’i doğrudan tarayıcınızdan
 features-translate-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox-browser }ndan kendi dilinize çevirin.
 features-translate-translate-the-web = { -brand-name-firefox } ile web’i çevirin
 features-translate-the-google-translate = { -brand-name-firefox } için { -brand-name-google } Translate eklentisi, web’i tüm dünya için erişilebilir hale getiriyor.
+# $attrs (string) - link to https://www.mozilla.org/firefox/all/
+features-translate-the-internet-is = İnternet harika içeriklerle dolu ama çoğu Türkçe değil. Dünyanın her yanındaki milyarlarca interneti kullanmak için çevirmene ihtiyacı duyuyor. <a { $attrs }>{ -brand-name-firefox } tarayıcısını 100'den fazla dilde indirebilirsiniz</a>. Böylece tarayıcı menüleriniz, bildirimleriniz ve mesajlarınız anadilinizde olur ama bu, tarayıcınızı kullanarak eriştiğiniz içeriklerin dil problemini çözmez.
 features-translate-to-google-translate = To { -brand-name-google } Translate
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-google-translate-with = 100'den fazla dili destekleyen { -brand-name-google } Çeviri, dünya genelinde milyonlarca insan tarafından kullanılıyor. Ancak translate.google.com ile okumaya çalıştığınız sayfa arasında gidip gelmek ideal bir çözüm değil. <a { $attrs }>To { -brand-name-google } Translate</a> eklentisi, okumak istediğiniz sayfanın çevirisini çok daha kolay hale getiriyor.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Eklentiyi yükle
+features-translate-once-installed-simply = Eklentiği yükledikten sonra çevirisini yapmak istediğiniz metni seçip sağ tıkladığınızda karşınıza iki seçenek gelecek: 1) translate.google.com'u açıp seçtiğiniz metni çeviri alanına otomatik olarak yapıştırabilir veya 2) metnin sesli telaffuzunu dinleyebilirsiniz ({ -brand-name-google } Metni Sese Dönüştürme özelliği sayesinde). Bu seçenek, yeni bir dil öğrenirken işinize yarayabilir.
 features-translate-switch-languages-in = { -brand-name-firefox }’un dilini değiştirebilirsiniz
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Zaten { -brand-name-firefox } kullanıyorsanız tarayıcınızın dilini değiştirebilir veya { -brand-name-firefox } arayüzüne dil ekleyebilirsiniz. <a { $attrs }>Nasıl yapacağınızı öğrenin.</a>
