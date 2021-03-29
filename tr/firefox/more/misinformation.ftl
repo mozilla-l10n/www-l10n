@@ -13,3 +13,6 @@ misinformation-why-trust-firefox = { -brand-name-firefox }’a neden güvenmelis
 misinformation-because-we-put-people-first = Çünkü bizde önce insan gelir. Arkamızda <a href="{ $foundation }">kâr amacı gütmeyen bir vakıf</a> var. İlk günden beri misyonumuz, interneti ve internetteki herkesi korumak.
 misinformation-learn-more-about-our-mission = Misyonumuz hakkında bilgi alın
 misinformation-your-privacy-by-the-product = Her üründe gizlilik
+misinformation-firefox-products-work-differently = { -brand-name-firefox } ürünleri ötekilere benzemez. Biz ürünlerimizi gizliliğinizi koruyacak şekilde tasarladık.
+misinformation-learn-about-our-products = Ürünlerimiz hakkında bilgi alın
+misinformation-designed-to-protect = Gizliliğinizi korumak için tasarlandı
