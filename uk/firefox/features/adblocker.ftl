@@ -21,7 +21,7 @@ features-adblocker-find-the-right-ad-blocker = Знайдіть для себе 
 features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> прибирає кожне рекламне оголошення, але слід пам'ятати. Деякі з ваших улюблених вебсайтів покладаються на прибуток від реклами. Якщо надто багато користувачів блокуватимуть їхню рекламу, це може зашкодити їхньому бізнесу.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Виринаючі оголошення найгірші. Блокуйте їх за допомогою <a href="{ $url }">Popup Blocker</a> і ніколи більше не стикайтеся з ними.
+features-adblocker-popup-ads-are-the-worst = Спливні оголошення найгірші. Блокуйте їх за допомогою <a href="{ $url }">Popup Blocker</a> і ніколи більше не стикайтеся з ними.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Одним з найпопулярніших блокувальників реклами для { -brand-name-chrome }, { -brand-name-safari } і { -brand-name-firefox } є <a href="{ $url }">AdBlock</a>. Використовуйте його для блокування реклами на { -brand-name-facebook }, { -brand-name-youtube } та { -brand-name-hulu }.
