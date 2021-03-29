@@ -7,6 +7,7 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Ottieni { -brand-name-mozilla-vpn }
+vpn-shared-waitlist-link = Iscriviti alla lista d’attesa
 vpn-shared-sign-in-link = Sei già abbonato?
 vpn-shared-available-countries = Offriamo { -brand-name-mozilla-vpn } negli Stati Uniti, nel Regno Unito, in Canada, Nuova Zelanda, Singapore e Malesia.
 vpn-shared-available-countries-v2 = Per ora offriamo { -brand-name-mozilla-vpn } negli Stati Uniti, nel Regno Unito, in Germania, Francia, Canada, Malesia, Nuova Zelanda e Singapore.
