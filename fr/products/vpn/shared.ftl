@@ -24,7 +24,7 @@ vpn-shared-features-bandwidth = Aucune restriction de bande passante
 vpn-shared-features-activity = Pas de journalisation de votre activité réseau
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Possibilité de se connecter jusqu’à 5 appareils
+vpn-shared-features-devices = Possibilité de connecter jusqu’à 5 appareils
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -52,8 +52,8 @@ vpn-shared-pricing-plan-monthly = 1 mois
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mois</span>
-vpn-shared-pricing-get-6-month = Optez pour un abonnement 6 mois
-vpn-shared-pricing-get-12-month = Optez pour un abonnement 12 mois
+vpn-shared-pricing-get-6-month = Optez pour un abonnement 6 mois
+vpn-shared-pricing-get-12-month = Optez pour un abonnement 12 mois
 vpn-shared-pricing-get-monthly = Optez pour un abonnement mensuel
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
