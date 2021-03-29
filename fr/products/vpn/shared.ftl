@@ -37,8 +37,8 @@ vpn-shared-countries-coming-soon = Disponible dans { $countries } pays maintena
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Voir la liste complète des <a href="{ $url }" { $attrs }>serveurs</a>.
 vpn-shared-refund-policy = Politique de remboursement
-vpn-shared-privacy-notice = Avis de confidentialité
-vpn-shared-terms-conditions = Termes et conditions
+vpn-shared-privacy-notice = Politique de confidentialité
+vpn-shared-terms-conditions = Conditions d’utilisation
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } est une marque déposée de Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
