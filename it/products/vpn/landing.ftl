@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
-vpn-landing-page-title = { -brand-name-mozilla-vpn }: Proteggi il tuo dispositivo
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: proteggi il tuo dispositivo
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Utilizza { -brand-name-mozilla-vpn } per la protezione completa di tutte le applicazioni del dispositivo. Tramite i server in più di { $countries } Paesi, puoi connetterti ovunque, da qualsiasi luogo.
+vpn-landing-page-desc = Utilizza { -brand-name-mozilla-vpn } per la protezione completa di tutte le applicazioni del dispositivo. Grazie alla disponibilità di server in più di { $countries } Paesi, puoi connetterti ovunque, da qualsiasi luogo.
 vpn-landing-hero-sub-heading = Sicurezza su cui puoi contare. Un nome di cui ti puoi fidare.
 vpn-landing-hero-desc = Una rete privata virtuale (VPN) dai creatori di { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un tocco per proteggere la tua privacy
@@ -20,7 +20,7 @@ vpn-landing-fast-secure-heading = Una rete sicura e veloce
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } viene eseguita su una rete mondiale di server sviluppata con tecnologia <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Crittografiamo la tua attività di rete e nascondiamo il tuo indirizzo IP attraverso il più avanzato protocollo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Non registriamo, monitoriamo o condividiamo mai i tuoi dati di rete.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } viene eseguita su una rete mondiale di server sviluppata con tecnologia <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Crittiamo la tua attività di rete e nascondiamo il tuo indirizzo IP attraverso il più avanzato protocollo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Non registriamo, monitoriamo o condividiamo mai i tuoi dati di rete.
 vpn-landing-brand-trust-heading = Una VPN di un marchio del quale ti puoi fidare
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -29,12 +29,12 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla } mette le persone al primo
 ## FAQ section
 
 vpn-landing-faq-heading = FAQ
-vpn-langing-faq-uses-question-heading = Che cos’è una VPN e quali sono i suoi usi?
+vpn-langing-faq-uses-question-heading = Che cos’è una VPN e per cosa può essere utilizzata?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Dal momento che sempre di più la vita quotidiana si svolge attraverso Internet, la privacy e la sicurezza online diventano ancora più importanti. Una VPN, <a href="{ $url }">Virtual Private Network</a>, può aiutarti per una connessione sicura e privata attraverso la creazione un ”tunnel” tra il tuo dispositivo e Internet. Ti protegge in due modi importanti:
 vpn-landing-faq-uses-conceal = Nascondendo il tuo vero indirizzo IP. Questo protegge la tua identità e nasconde la tua posizione.
-vpn-landing-faq-uses-encrypt = Crittografando il traffico tra te e il tuo provider VPN in modo che nessuno sulla tua rete locale possa decifrarlo o modificarlo.
+vpn-landing-faq-uses-encrypt = Crittando il traffico tra te e il tuo provider VPN in modo che nessuno sulla tua rete locale possa decifrarlo o modificarlo.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Dai un’occhiata a <a href="{ $url }">cinque esempi di vita reale</a> in cui vorresti una VPN sul tuo dispositivo.
@@ -46,7 +46,7 @@ vpn-landing-faq-protected-question-heading = Come viene protetta la mia privacy?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = Il protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® critta il traffico di rete, proteggendo tutte le tue informazioni private. Rispetto ai protocolli VPN esistenti, il codice leggero di { -brand-name-wireguard } è più facile da esaminare e controllare da parte degli analisti della sicurezza, rendendolo un’opzione più sicura per la VPN. Inoltre, le tue attività online rimangono anonime perché non registriamo, monitoriamo o condividiamo mai i tuoi dati di rete.
+vpn-landing-faq-protected-question-desc = Il protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® critta il traffico di rete, proteggendo tutte le tue informazioni private. Rispetto ai protocolli VPN esistenti, il codice leggero di { -brand-name-wireguard } è più facile da esaminare e controllare da parte degli analisti della sicurezza, rendendolo un’opzione più sicura per la VPN. Inoltre, le tue attività online rimangono anonime perché non registriamo, monitoriamo o condividiamo mai i tuoi dati.
 vpn-landing-faq-competition-question-heading = Che differenza c’è tra { -brand-name-mozilla-vpn } e la concorrenza?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
@@ -58,7 +58,7 @@ vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e v
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versione 6 e successive)
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e versioni successive)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo { -brand-name-ubuntu })
-vpn-landing-faq-refund-question-heading = Qual è la politica sui rimborsi di { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-heading = Quali sono i criteri di rimborso di { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Puoi ricevere il rimborso entro 30 giorni dalla sottoscrizione dell’abbonamento. Contattaci e invia la tua richiesta di rimborso attraverso il pulsante ”Ottieni assistenza” nelle Impostazioni della tua applicazione { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Come faccio a gestire il mio abbonamento?
 # Variables:
@@ -75,7 +75,7 @@ vpn-landing-invite-email-label = Qual è il tuo indirizzo email?
 vpn-landing-invite-required-label = Obbligatorio
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = tuonome@example.com
-vpn-landing-invite-country-label = In quale paese vivi?
+vpn-landing-invite-country-label = In quale Paese vivi?
 vpn-landing-invite-language-label = Seleziona la lingua preferita.
 vpn-landing-invite-platform-label = Quali piattaforme ti interessano?
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
@@ -89,7 +89,7 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 vpn-landing-invite-privacy-policy = Facendo clic su “Iscriviti alla lista di attesa”, confermi di accettare la nostra · <a href="{ $privacy }">Informativa sulla privacy</a>.
 vpn-landing-invite-your-information = Le tue informazioni saranno utilizzate solo per notificarti la disponibilità della piattaforma.
 vpn-landing-invite-thanks-heading = Grazie! Sei sulla lista!
-vpn-landing-invite-thanks-desc = Non appena { -brand-name-mozilla-vpn } sarà disponibile per la tua regione, ti invieremo un’email.
+vpn-landing-invite-thanks-desc = Non appena { -brand-name-mozilla-vpn } sarà disponibile per il tuo Paese, ti invieremo un’email.
 
 ##
 
