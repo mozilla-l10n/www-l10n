@@ -65,6 +65,6 @@ manifesto-details-build-and-deliver = បង្កើត និង​ផ្ដ�
 manifesto-details-use-the-mozilla = ប្រើ​ទ្រព្យសកម្ម { -brand-name-mozilla } (ទ្រព្យសម្បត្តិ​ដូច​ជា​សិទ្ធិ មាក់, ហេដ្ឋារចនាសម្ព័ន្ធ, មូលនិធិ និង​កេរ្តិ៍ឈ្មោះ) ដើម្បី​រក្សាទុក​អ៊ីនធឺណិត​វេទិកា​បើក​ទូលាយ
 manifesto-details-promote-models = បង្កើន​ម៉ូដែល​សម្រាប់​ការ​បង្កើត​តម្លៃ​សេដ្ឋកិច្ច​សម្រាប់​ប្រយោជន៍​សាធារណៈ និង
 manifesto-details-promote-the-mozilla = ជំរុញ​ច្បាស់ { -brand-name-mozilla } Manifesto ជា​សាធារណៈ នៅ​ក្នុង​ឧស្សាហកម្ម​អ៊ីនធឺណិត។
-manifesto-details-some-foundation = សកម្មភាព​មូលនិធិ​មួយ​ចំនួន—ការ​បង្កើត​, ការ​ចែកចាយ និង​ការ​បង្កើន​នៃ​ផលិតផល​​សម្រាប់​អ្នក​ប្រើប្រាស់—ត្រូវ​បាន​រៀបចំ​តាម​រយៈ​មូលនិធិ Mozilla ជា​ផ្នែក​ទាំងមូល​នៃ​មូលនិធិ, ការ​សហការ Mozilla ។
+manifesto-details-some-foundation = សកម្មភាព​មូលនិធិ​មួយ​ចំនួន—ក្នុងបច្ចុប្បន្ននេះ ការបង្កើត ការចែកចាយ និងការផ្សព្វផ្សាយផលិតផលអតិថិជន—ត្រូវបានធ្វើឡើងជាចម្បងតាមរយៈ { -brand-name-mozilla-foundation } ក្រុមហ៊ុនបុត្រសម្ព័ន្ធដែលជាកម្មសិទ្ធិទាំងស្រុង, { -brand-name-mozilla-corporation }។
 manifesto-details-invitation = ការ​អញ្ជើញ
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } អញ្ជើញ​អ្នក​ដែល​គាំទ្រ​គោលការណ៍ { -brand-name-mozilla } Manifesto ដើម្បី​ឲ្យ​ចូលរួម​ជាមួយ​ពួក​យើង, ហើយ​ស្វែងរក​វិធី​ថ្មីៗ​ដើម្បី​បង្កើត​កំណែ​អ៊ីនធឺណិត​ពិត​ប្រាកដ​នេះ។
