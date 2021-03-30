@@ -30,6 +30,7 @@ privacy-faq-wait-so-how-do-you-make-money = Ma alora, como gania vos moneta?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non es un organisation ordinari. Fundate como un projecto de communitate open-source in 1998, { -brand-name-mozilla } es un organisation idealista que se effortia pro meliorar le sanitate de internet. Le majoritate del moneta de { -brand-name-mozilla-corporation } proveni de royalties ganiate per alliantias con interprisas de recerca web e per contractos de distribution del navigator { -brand-name-firefox } in tote le mundo. Tu pote apprender plus sur como nos gania moneta in nostre <a href="{ $link }">reporto financiari annual</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Excellente. Ma que datos collige vos?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
@@ -40,7 +41,7 @@ privacy-faq-we-make-our-documentation-public = Nos rende public nostre documenta
 privacy-faq-that-documentation-is-gobbledygook = Iste documentation es abracadabra pro me! Pote tu explicar me lo in interlingua simple?
 privacy-faq-there-are-two-categories-of = Il ha duo categorias de datos que nos normalmente collige in nostre version stabile de { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Le prime es le "datos technic": le datos sur le navigator mesme, como le systema de operation usate e informationes sur errores o collapsos.
-privacy-faq-the-second-is-what-we-call-interaction = Le secunde es le "datos de interaction": le datos de uso personal de { -brand-name-firefox }, como le numero de schedas aperte, le stato del preferentias del usator, o le numero de vices que certe functiones del navigator ha essite usate, p.ex. capturas de schermo o schedas contextual. Per exemplo, nos collige tal datos sur le uso del button Retro, le flecha in le angulo superior sinistre de tu navigator que te permitte retornar a un previe pagina web, de un maniera que nos informa que alcuno ha usate le button Retro, ma non qual paginas web specific ha essite visitate.
+privacy-faq-the-second-is-what-we-call-interaction = Le secunde es le "datos de interaction": le datos de uso personal de { -brand-name-firefox }, como le numero de schedas aperte, le stato del preferentias del usator, o le numero de vices que certe functiones del navigator ha essite usate, p.ex. capturas de schermo o schedas contentor. Per exemplo, nos collige tal datos sur le uso del button Retro, le flecha in le angulo superior sinistre de tu navigator que te permitte retornar a un previe pagina web, de un maniera que nos informa que alcuno ha usate le button Retro, ma non qual paginas web specific ha essite visitate.
 privacy-faq-do-you-collect-more-data-in = Collige vos plus datos in le versiones preliminar de { -brand-name-firefox }?
 privacy-faq-sort-of-in-addition-to-the-data = Plus o minus. In addition al datos describite supra, nos normalmente recipe reportos de collapso e errores del versiones preliminar de { -brand-name-firefox }.
 # Variables:
