@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Usa { -brand-name-mozilla-vpn } pro protection total del apparato pro tote le applicationes. Con servitores in plus de { $paises } paises, tu pote connecter te a ubique, non importa ubi tu es.
 
 ## FAQ section
 
