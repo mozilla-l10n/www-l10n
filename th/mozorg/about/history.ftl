@@ -33,3 +33,32 @@ history-by-2002-well-over-90 = ในปี 2002 <a href="{ $over90 }">ผู้
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = ซึ่งในขณะนั้น ยังไม่มีผู้คนให้ความสนใจมากนัก แต่ Phoenix รุ่นแรก (ซึ่งต่อมาเปลี่ยนชื่อเป็น { -brand-name-firefox }) ก็ได้ถูกเปิดตัวโดยสมาชิกชุมชน { -brand-name-mozilla } ในปีเดียวกัน ซึ่งมีเป้าหมายในการมอบ<a href="{ $charter }">ประสบการณ์การเรียกดูที่ดีที่สุด</a>ให้กับกลุ่มผู้คนที่หลากหลายยิ่งขึ้น
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = ในปี 2003 โครงการ { -brand-name-mozilla } ได้ก่อตั้ง { -brand-name-mozilla-foundation } <a href="{ $foundation }">องค์กรไม่แสวงหาผลกำไรอิสระ</a>ซึ่งได้รับการสนับสนุนโดยผู้บริจาคและบริษัทต่าง ๆ
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } ใหม่ได้สานต่อบทบาทในการจัดการการทำงานประจำวันของโครงการและยังมีบทบาทในการส่งเสริม<a href="{ $manifesto }">ความเปิดกว้าง นวัตกรรม และโอกาส</a>บนอินเทอร์เน็ตด้วย
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = โดยได้ทำการเปิดตัวซอฟต์แวร์ต่อไป เช่น { -brand-name-firefox } และ { -brand-name-thunderbird } และได้ขยายไปสู่พื้นที่ใหม่ ๆ เช่น การมอบ<a href="{ $grants }">สิทธิ์</a>ในการรองรับการปรับปรุงด้านการช่วยการเข้าถึงบนเว็บ
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> ถูกเปิดตัวในปี 2004 และได้ประสบความสำเร็จอย่างใหญ่หลวงภายในไม่ถึงหนึ่งปี โดยมียอดการดาวน์โหลด<a href="{ $millions }">กว่า 100 ล้านครั้ง</a>
+history-new-versions-of-firefox = { -brand-name-firefox } รุ่นใหม่ ๆ ได้ออกมาตามปกติตั้งแต่นั้นเป็นต้นมาและได้ตั้งเป้าหมายใหม่ไว้เสมอ ความนิยมของ { -brand-name-firefox } ได้ช่วยนำทางเลือกกลับมาให้ผู้ใช้
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = การแข่งขันที่สานต่อได้<a href="{ $innovation }">เร่งนวัตกรรม</a>และปรับปรุงอินเทอร์เน็ตสำหรับทุกคน
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = ในปี 2013 เราได้เปิดตัว <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> เพื่อปลดปล่อยพลังของเว็บบนสมาร์ตโฟนอย่างเต็มที่ และเสนอการควบคุมและทางเลือกให้กับคนรุ่นใหม่ ๆ ที่เข้ามาในโลกออนไลน์
+history-mozilla-also-celebrated = { -brand-name-mozilla } ยังฉลองวันครบรอบ 15 ปีในปี 2013 ด้วย
+history-the-community-has-shown = ชุมชนได้แสดงให้เห็นว่าบริษัทเชิงพาณิชย์สามารถได้ประโยชน์จากการมีส่วนร่วมในโครงการเปิดต้นฉบับ และผลิตภัณฑ์สำหรับผู้ใช้ปลายทางที่ยอดเยี่ยมสามารถนำมาผลิตเป็นซอฟต์แวร์เปิดต้นฉบับได้
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = ผู้คนมากมายกว่าแต่ก่อนกำลังใช้อินเทอร์เน็ตมากขึ้นและกำลังใช้ใน<a href="{ $all }">ภาษาของพวกเขาเอง</a>
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = องค์กรที่ยั่งยืนได้ถูกสร้างขึ้นโดยใช้กลไกตลาดในการสนับสนุนภารกิจที่เป็นประโยชน์ต่อสาธารณะ และแบบอย่างนี้ได้ถูกนำไปใช้โดยองค์กรอื่น ๆ เพื่อสร้างองค์กรที่เปิดกว้าง โปร่งใส และอาศัยการร่วมมือกัน<a href="{ $range }">อย่างกว้างขวาง</a>ใน<a href="{ $areas }">พื้นที่ต่าง ๆ</a>
