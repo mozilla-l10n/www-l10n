@@ -8,7 +8,7 @@
 firefox-products-are = Le productos { -brand-name-firefox } es designate pro proteger tu confidentialitate
 learn-more-about-firefox = Saper plus re { -brand-name-firefox }, su historia, functionalitates e mission
 learn-more-about = Saper plus re navigatores e productos { -brand-name-firefox } que gere tu datos con respecto e es producite pro tu confidentialitate ubique tu va online.
-learn-more-faq = Demandas frequente re { -brand-name-firefox }
+learn-more-faq = Folio a questiones re { -brand-name-firefox }
 the-history-of = Le historia de navigatores del Web
 firefox-has-been = { -brand-name-firefox } ha essite illac depost quasi le initio.
 firefox-rebel-with = { -brand-name-firefox }: rebelle con causa

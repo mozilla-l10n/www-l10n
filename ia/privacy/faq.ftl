@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = FAQ sur le confidentialitate del datos de { -brand-name-mozilla }
+privacy-faq-mozillas-data-privacy-faq = Folio a questiones re le confidentialitate del datos de { -brand-name-mozilla }
 privacy-faq-at-mozilla-we-respect-and-protect-desc = A { -brand-name-mozilla } nos respecta e protege tu informationes personal.
 privacy-faq-we-stand-for-people-over-profit = Nos travalia pro personas, non profito.
 privacy-faq-it-can-be-tricky-for-people = Il pote esser difficile pro le personas saper lo que expectar del software o servicios usate hodie. Le technologia que mantene nostre vitas es complexe e le personas non ha le tempore pro analysar lo in detalio. Isto es etiam le caso pro { -brand-name-firefox }, ubi nos trova que le personas ha multe differente ideas de lo que occurre in le interior de lor navigator.

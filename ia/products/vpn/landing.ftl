@@ -11,7 +11,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 ## FAQ section
 
 vpn-landing-faq-heading = Folio a questiones
-vpn-landing-faq-link = Vider altere utensiles FAQs
+vpn-landing-faq-link = Vider altere folios a questiones
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
