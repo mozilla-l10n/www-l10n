@@ -29,6 +29,7 @@ vpn-landing-brand-trust-desc = Desde plus que 20 annos, { -brand-name-mozilla } 
 ## FAQ section
 
 vpn-landing-faq-heading = Folio a questiones
+vpn-langing-faq-uses-question-heading = Que es un VPN e qual es su usos?
 vpn-landing-faq-link = Vider altere folios a questiones
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
