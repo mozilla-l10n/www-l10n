@@ -62,5 +62,17 @@ vpn-shared-pricing-save-percent = Заощаджуйте { $percent }%
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Усього { $amount }
 
+# Platform subpage shared strings
+
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Для комп'ютера
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Для мобільного
+vpn-subnav-platform-windows = { -brand-name-windows }
+
 ##
 

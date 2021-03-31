@@ -65,6 +65,8 @@ vpn-landing-faq-manage-subscription-question-heading = Як керувати п�
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Якщо ви вже передплатили { -brand-name-mozilla-vpn }, ви можете будь-коли змінити план або <a href="{ $url }">керувати передплатою</a>.
 vpn-landing-faq-link = Докладніше у ЧаП
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Йой! Схоже, ви ще не передплатили послугу.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
