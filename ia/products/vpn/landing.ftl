@@ -33,6 +33,12 @@ vpn-langing-faq-uses-question-heading = Que es un VPN e qual es su usos?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Quanto plus le vita quotidian ha loco per internet, mesmo plus importante deveni le confidentialitate e le securitate online. Illo functiona per le creation de un “tunnel” inter tu apparato e internet in general e illo te protege in duo importante manieras:
+vpn-landing-faq-uses-conceal = Occultante tu ver adresse IP. Isto protege tu identitate e obscura tu position.
+vpn-landing-faq-uses-encrypt = Cryptante le traffico inter te e tu fornitor de VPN assi que nemo sur tu rete local pote decifrar lo o modificar lo.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Discoperi <a href="{ $url }">cinque exemplos de vita real</a> in le qual tu desirarea un VPN sur tu apparato.
+vpn-landing-faq-info-question-heading = Que informationes retene le { -brand-name-mozilla-vpn }?
 vpn-landing-faq-link = Vider altere folios a questiones
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
