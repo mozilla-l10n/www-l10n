@@ -64,6 +64,7 @@ vpn-shared-pricing-total = Усього { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Розпочнімо
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
