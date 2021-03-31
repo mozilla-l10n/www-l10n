@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
-vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tu apparato integre
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 
 ## FAQ section
 
