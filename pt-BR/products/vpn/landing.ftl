@@ -65,6 +65,8 @@ vpn-landing-faq-manage-subscription-question-heading = Como gerenciar minha assi
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Se você já tem uma assinatura do { -brand-name-mozilla-vpn }, pode alterar seu plano ou <a href="{ $url }">gerenciar sua assinatura</a> quando quiser.
 vpn-landing-faq-link = Veja mais perguntas frequentes
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Ops, parece que você ainda não tem uma assinatura.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
