@@ -39,6 +39,9 @@ vpn-landing-faq-uses-encrypt = Cryptante le traffico inter te e tu fornitor de V
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Discoperi <a href="{ $url }">cinque exemplos de vita real</a> in le qual tu desirarea un VPN sur tu apparato.
 vpn-landing-faq-info-question-heading = Que informationes retene le { -brand-name-mozilla-vpn }?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Nos non registra, tracia o comparti ulle tu activitate de rete. Nos adhere strictemente al <a href="{ $url }">principios de confidentialitate del datos</a> de { -brand-name-mozilla } e nos solo collige le datos necessari pro mantener le VPN operative e meliorar le producto in le tempore.
 vpn-landing-faq-link = Vider altere folios a questiones
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
