@@ -67,3 +67,7 @@ take-the-stress = Man kamoxïr chik richin nawïl jun jikïl okik'amaya'l.
 building-a-safe = Ninuk' jun jikïl okik'amaya'l jun tz'aqob'äl chuqa' jun na'ojb'äl ruma majun ejikib'an ta ri taq rub'eyal.
 firefox-more-fingerprinter-blocking = Niq'at B'anöy Ruwi' Q'ab'aj
 firefox-more-translate-the-web = Titzalq'omïx ri ajk'amaya'l
+firefox-more-translate-more-than = Natzalq'omij mas 100 ch'ab'äl pan ach'ab'äl chupam ri { -brand-name-firefox-browser } - wakami man k'ayew ta.
+firefox-more-a-guide-to = Jun rub'eyal tzijol kichin ri jikïl tikirib'äl molojri'ïl chuqa' ewan taq tzij
+firefox-more-more-and-more = Wakami jutaqil ri ichinan chuqa' k'o ruq'ij pa k'aslem chajin rik'in ewan taq tzij.
+firefox-more-avoid-misinformation-heading = Man taya' q'ij chi re r tz'ukun tzij pa k'amab'ey – { -brand-name-firefox } k'o wawe'

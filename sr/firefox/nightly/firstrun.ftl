@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } прва почетна страница
+nightly-firstrun-firefox-nightly = Увод у { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Хвала вам што користите { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Изаберите неку област у коју желите да се упустите и помозите нам да учинимо { -brand-name-firefox } бољим за све
 nightly-firstrun-test = Тестирајте

@@ -10,6 +10,8 @@ compare-shared-yes = Gea
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Na
 compare-shared-private-browsing-mode = Modus da navigaziun privata
+compare-shared-blocks-third-party-tracking-default = Blochescha cookies da terzas partidas che fastizeschan gia en la configuraziun predefinida
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blochescha cookies da terzas partidas che fastizeschan
 compare-shared-blocks-cryptomining-scripts = Blochescha scripts criptominiers
 compare-shared-blocks-social-trackers = Blochescha fastizaders da social media
@@ -27,6 +29,8 @@ compare-shared-os-availability = Disponibel per blers sistems operativs
 compare-shared-mobile-os-availability = Disponibel era per sistems operativs mobils
 compare-shared-syncs-with-mobile = Sincronisaziun cun apparats mobils
 compare-shared-password-management = Administraziun da pleds-clav
+compare-shared-primary-password = Pled-clav universal
+# Obsolete string
 compare-shared-master-password = Pled-clav universal
 compare-shared-security-and-privacy = Segirezza e protecziun da datas
 compare-shared-utility = Funcziunalitad
@@ -37,6 +41,9 @@ compare-shared-security-and-privacy-strong = Segirezza e <strong>protecziun da d
 compare-shared-utility-strong = <strong>Funcziunalitad</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilitad</strong>
+compare-shared-overall-assessment = Evaluaziun cumplessiva
+compare-shared-the-comparisons-made-here-updated = La cumparegliaziun è vegnida fatga mintgamai cun la configuraziun da standard, a basa da las suandantas versiuns dals navigaturs examinads:
+# Obsolete string
 compare-shared-the-comparisons-made-here = La cumparegliaziun è succedida sco suonda a basa da differentas versiuns dals navigaturs examinads:
 compare-shared-this-page-updated-semi-quarterly = Questa pagina vegn actualisada duas giadas per quartal per evaluar las novas versiuns. Eventualmain na resguarda ella dentant betg las actualisaziuns las pli novas.
 compare-shared-brand-name-firefox = { -brand-name-firefox }

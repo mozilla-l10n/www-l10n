@@ -49,7 +49,7 @@ new-platform-faster-page-loading-mac = Carregamento de páginas mais rápido, me
 new-platform-firefox-respects-your = { -brand-name-firefox } respeita <span>sua privacidade no { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = Privacidade vem primeiro
 new-platform-firefox-doesnt-spy = O { -brand-name-firefox } não espiona as pesquisas. Impedimos cookies de rastreamento de terceiros e lhe damos total controle.
-new-platform-get-speed-and-security = Obtenha velocidade e segurança. O { -brand-name-firefox } é rápido no { -brand-name-mac-short } porque não rastreamos seus movimentos.
+new-platform-get-speed-and-security = Tenha velocidade e segurança. O { -brand-name-firefox } é rápido no { -brand-name-mac-short } porque não rastreamos seus movimentos.
 new-platform-block-trackers = Bloqueia rastreadores
 new-platform-be-the-master-of-your = Seja o mestre de seu domínio com bloqueio rigoroso de conteúdo. Remova todos os cookies e rastreadores.
 # /firefox/windows/ HTML page title

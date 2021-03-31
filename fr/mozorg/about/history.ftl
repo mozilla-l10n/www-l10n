@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = En 2002, <a href="{ $over90 }">plus de 90 % des 
 history-not-many-people-noticed = Peu de personnes l’ont remarqué mais la première version de Phoenix (ensuite renommé { -brand-name-firefox }) sortit également cette année avec pour but de fournir <a href="{ $charter }">la meilleure expérience de navigation possible</a> et ce pour le plus grand nombre.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = En 2003, le projet { -brand-name-mozilla } crée la Fondation { -brand-name-mozilla }, une <a href="{ $foundation }">organisation indépendante à but non lucratif</a> soutenue par des donateurs individuels et un ensemble d’entreprises.
+history-in-2003-the-mozilla-project = En 2003, le projet { -brand-name-mozilla } crée la { -brand-name-mozilla-foundation }, une <a href="{ $foundation }">organisation indépendante à but non lucratif</a> soutenue par des donateurs individuels et un ensemble d’entreprises.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = La Fondation Mozilla nouvellement créée continua à gérer l’ensemble du projet et prit position pour promouvoir officiellement <a href="{ $manifesto }">l’ouverture, l’innovation et les opportunités</a> offertes par Internet.
+history-the-new-mozilla-foundation = La { -brand-name-mozilla-foundation } nouvellement créée continua à gérer l’ensemble du projet et prit position pour promouvoir officiellement <a href="{ $manifesto }">l’ouverture, l’innovation et les opportunités</a> offertes par Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Pour atteindre ces objectifs, la fondation continua à réaliser des logiciels comme { -brand-name-firefox } et { -brand-name-thunderbird } tout en s’ouvrant à d’autres domaines comme <a href="{ $grants }">des bourses</a> pour soutenir les efforts d’amélioration de l’accessibilité sur le Web.

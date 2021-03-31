@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla }-manifestet
+footer-privacy-hub = Personvernhub
 footer-privacy = Personvern
 footer-press = Presse
 footer-corporate-blog = Bedriftsblogg
@@ -65,6 +66,9 @@ footer-websites-cookies = Infokapslar
 footer-websites-legal = Juridisk
 footer-language = Språk
 footer-go = Gå
+footer-donate = Doner
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Følg @{ -brand-name-mozilla }
+footer-follow-firefox = Følg @{ -brand-name-firefox }

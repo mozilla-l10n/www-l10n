@@ -110,6 +110,17 @@
         [ins] Mozillou Foundation
     }
     .gender = feminine
+-brand-name-mullvad =
+    { $case ->
+       *[nom] Mullvad
+        [gen] Mullvadu
+        [dat] Mullvadu
+        [acc] Mullvad
+        [voc] Mullvade
+        [loc] Mullvadu
+        [ins] Mullvadem
+    }
+    .gender = masculine
 -brand-name-netscape =
     { $case ->
        *[nom] Netscape
@@ -130,6 +141,17 @@
         [voc] Twittere
         [loc] Twitteru
         [ins] Twitterem
+    }
+    .gender = masculine
+-brand-name-wireguard =
+    { $case ->
+       *[nom] WireGuard
+        [gen] WireGuardu
+        [dat] WireGuardu
+        [acc] WireGuard
+        [voc] WireGuarde
+        [loc] WireGuardu
+        [ins] WireGuardem
     }
     .gender = masculine
 
@@ -493,17 +515,6 @@
         [ins] Firefox Monitorem
     }
     .gender = masculine
--brand-name-firefox-send =
-    { $case ->
-       *[nom] Firefox Send
-        [gen] Firefoxu Send
-        [dat] Firefoxu Send
-        [acc] Firefox Send
-        [voc] Firefoxe Send
-        [loc] Firefoxu Send
-        [ins] Firefoxem Send
-    }
-    .gender = masculine
 -brand-name-firefox-sync =
     { $case ->
        *[nom] Firefox Sync
@@ -563,7 +574,6 @@
         [ins] Monitorem
     }
     .gender = masculine
--brand-name-send = Send
 -brand-name-sync =
     { $case ->
        *[nom] Sync
@@ -601,6 +611,19 @@
         [ins] Firefoxem OS
     }
     .gender = masculine
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send =
+    { $case ->
+       *[nom] Firefox Send
+        [gen] Firefoxu Send
+        [dat] Firefoxu Send
+        [acc] Firefox Send
+        [voc] Firefoxe Send
+        [loc] Firefoxu Send
+        [ins] Firefoxem Send
+    }
+    .gender = masculine
+-brand-name-send = Send
 
 ## Pocket
 
@@ -772,6 +795,8 @@
         [ins] Linuxem
     }
     .gender = masculine
+-brand-name-ubuntu = Ubuntu
+    .gender = neuter
 -brand-name-mac = macOS
 -brand-name-mac-short =
     { $case ->

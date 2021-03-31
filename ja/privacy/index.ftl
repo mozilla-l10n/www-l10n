@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } とプライバシー
-privacy-index-contact-mozilla = お問い合わせ
+privacy-index-contact-mozilla = { -brand-name-mozilla } への問い合わせ
 privacy-index-if-you-want-to-make-a-correction = プライバシーポリシーに関する質問や、Mozilla が保持するユーザーの個人情報の修正については以下の住所宛てにお問い合わせください。
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0

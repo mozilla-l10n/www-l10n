@@ -20,7 +20,7 @@ opt-out-confirmation-prefer-to-get = Prefere obter informações de outra maneir
 # Link to https://blog.mozilla.org/
 opt-out-confirmation-check-out-our = Verifique nossos blogs
 # Link to https://support.mozilla.org/
-opt-out-confirmation-get-help = Obtenha ajuda
+opt-out-confirmation-get-help = Pedir ajuda
 opt-out-confirmation-subscribe-to = Inscreva-se para receber do { -brand-name-firefox } boletins ocasionais com novidades
 # Link to https://www.instagram.com/mozilla/
 opt-out-confirmation-instagram = { -brand-name-instagram }

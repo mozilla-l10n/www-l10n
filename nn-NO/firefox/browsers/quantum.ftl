@@ -9,3 +9,4 @@ page-title = Last ned { -brand-name-firefox-quantum }
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Les meir om { -brand-name-firefox-quantum }
 privacy-first = Personvern først
+super-fast = Superrask

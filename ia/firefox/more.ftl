@@ -8,7 +8,7 @@
 firefox-products-are = Le productos { -brand-name-firefox } es designate pro proteger tu confidentialitate
 learn-more-about-firefox = Saper plus re { -brand-name-firefox }, su historia, functionalitates e mission
 learn-more-about = Saper plus re navigatores e productos { -brand-name-firefox } que gere tu datos con respecto e es producite pro tu confidentialitate ubique tu va online.
-learn-more-faq = Demandas frequente re { -brand-name-firefox }
+learn-more-faq = Folio a questiones re { -brand-name-firefox }
 the-history-of = Le historia de navigatores del Web
 firefox-has-been = { -brand-name-firefox } ha essite illac depost quasi le initio.
 firefox-rebel-with = { -brand-name-firefox }: rebelle con causa
@@ -31,7 +31,7 @@ firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } ha essite 
 firefox-more-little-book = Libretto del confidentialitate
 firefox-more-you-can-reclaim = Tu pote revindicar tu confidentialitate e reganiar controlo sur tu specific experientia de Internet! Il es realmente surprendentemente facile. Totes pote facer lo.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = Accede e synchronisa tu marcapaginas, contrasignos, schedas aperte e altero ancora: ubique tu usa { -brand-name-firefox }.
+firefox-more-access-your-sync = Accede a e synchronisa tu marcapaginas, contrasignos, schedas aperte e multo plus, non importa ubi tu usa { -brand-name-firefox }.
 we-believe-everyone = Nos crede que totes deberea haber accesso a Internet — pro isto nos rende le { -brand-name-firefox-browser } disponibile in plus de 90 linguas con le auxilio de devote voluntarios de tote le mundo.
 firefox-fights-for = { -brand-name-firefox } lucta pro te sur { -brand-name-windows }
 easy-migration-of = Facile migration de preferentias e marcapaginas quando tu discarga { -brand-name-firefox } pro { -brand-name-windows }.

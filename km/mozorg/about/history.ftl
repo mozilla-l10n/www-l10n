@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = នៅ​ឆ្នាំ​២០០២, <a href=
 history-not-many-people-noticed = ពេល​នោះ មិន​មាន​មនុស្ស​ច្រើន​បាន​ដឹង​នោះ​ទេ​ថា កំណែ​ដំបូង​នៃ Phoenix (ក្រោយ​មក​ប្ដូរ​ឈ្មោះ​ជា { -brand-name-firefox }) ក៏​ត្រូវ​បាន​ចេញ​ផ្សាយ​ដោយ​សមាជិក​សហគមន៍ { -brand-name-mozilla } នៅ​ឆ្នាំ​នោះ​ដែរ ដោយ​មាន​គោល​បំណង​ផ្ដល់<a href="{ $charter }">បទ​ពិសោធន៍​រុករក​ដ៏​ប្រសើរ​មួយ</a> ទៅ​ដល់​មនុស្ស​ឲ្យ​បាន​ច្រើន​តាម​តែអាច​ធ្វើ​ទៅ​បាន។
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = ក្នុង​ឆ្នាំ​២០០៣ គម្រោង { -brand-name-mozilla } បាន​បង្កើត​មូលនិធិ { -brand-name-mozilla } ឡើង ដែល​ជា​<a href="{ $foundation }">ស្ថាប័ន​ឯករាជ្យ​មិន​រក​ប្រាក់​កម្រៃ</a> ហើយ​មាន​ការ​គាំទ្រ​ពី​អ្នក​បរិច្ចាក និង​ក្រុមហ៊ុន​ជាច្រើន​ទៀត។
+history-in-2003-the-mozilla-project = ក្នុង​ឆ្នាំ​2003 គម្រោង { -brand-name-mozilla } បាន​បង្កើត​មូលនិធិ { -brand-name-mozilla } ឡើង ដែល​ជា​<a href="{ $foundation }">ស្ថាប័ន​ឯករាជ្យ​មិន​រក​ប្រាក់​ចំណេញ</a> ហើយ​មាន​ការ​គាំទ្រ​ពី​អ្នក​បរិច្ចាគ និង​ក្រុមហ៊ុន​ជាច្រើន​។
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = មូលនិធិ Mozilla ថ្មី​បាន​បន្ត​ការ​គ្រប់គ្រង​ការ​ប្រតិបត្តិ​គម្រោង​ប្រចាំ​ថ្ងៃ និង​អនុវត្ត​ធ្វើ​ឲ្យ​ប្រសើរ​ជា​ផ្លូវ​ការ <a href="{ $manifesto }">ភាព​បើក​ទូលាយ, ការ​ច្នៃ​ប្រឌិត និង​ឱកាស</a> លើ​អ៊ីនធឺណិត។
@@ -71,7 +71,7 @@ history-the-mozilla-community-together = សហគមន៍ { -brand-name-mozill
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = ប្រសិនបើ​អ្នក​ចង់​ចូល​រួម​ជាមួយ​បេសកកម្ម​របស់​ពួក​យើង, សូម <a href="{ $contribute }">ចូលរួម</a> ។
 history-for-more-information-about = សម្រាប់​ព័ត៌មាន​បន្ថែម​អំពី​ប្រវត្តិ​របស់ { -brand-name-mozilla }, សូម​​មើល​នៅ​ខាង​ក្រោម៖
-history-mozilla-bookmarks = ចំណាំ​ចល័ត
+history-mozilla-bookmarks = ចំណាំ { -brand-name-mozilla }
 history-timeline-of-mozilla-project = ការ​កំណត់​គម្រោង​របស់ { -brand-name-mozilla }
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
 # Variables:

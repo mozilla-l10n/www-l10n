@@ -51,7 +51,7 @@ firefox-accounts-help-us-keep-big-tech = Aidez-nous à garder les géants de la 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-we-support-communities = Dans le monde entier, nous soutenons des communautés qui luttent pour un Internet plus sain. Rejoignez-nous.
-firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

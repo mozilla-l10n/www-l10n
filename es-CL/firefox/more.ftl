@@ -69,3 +69,5 @@ firefox-more-translate-the-web = Traducir la web
 firefox-more-translate-more-than = Traduce más de 100 idiomas al tuyo directamente en tu { -brand-name-firefox-browser } - más fácil que nunca.
 firefox-more-a-guide-to = Una guía para credenciales y contraseñas más seguras
 firefox-more-more-and-more = Cada vez más cosas sensibles y valiosas en nuestra vida están resguardadas por las contraseñas.
+firefox-more-avoid-misinformation-heading = Evita la desinformación en línea - { -brand-name-firefox } está aquí para ayudar
+firefox-more-avoid-misinformation-desc = Echa un vistazo a los consejos para ver menos información errónea y centrarte en lo que es importante para ti.

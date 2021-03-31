@@ -22,7 +22,7 @@ firefox-new-download-firefox-for-macos = Discarga { -brand-name-firefox } <br>pr
 firefox-new-download-firefox-for-linux = Discarga { -brand-name-firefox } <br>pro { -brand-name-linux }
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-new-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
-firefox-new-watch-for-hackers-with = Reguarda te del hackers con { -brand-name-firefox-monitor }, protege tu contrasignos con { -brand-name-firefox-lockwise } e altero ancora.
+firefox-new-watch-for-hackers-with = Survelia le hackers con { -brand-name-firefox-monitor }, protege tu contrasignos con { -brand-name-firefox-lockwise }, e multo plus.
 firefox-new-get-more-from-firefox = Recipe plus per { -brand-name-firefox }
 firefox-new-free-web-browser = Navigator web libere e gratuite
 firefox-new-and-start-getting-the-respect = E comencia a reciper le respecto que tu merita, con nostre familia de productos de maxime discretion.

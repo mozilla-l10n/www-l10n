@@ -21,6 +21,9 @@ history-by-creating-an-open-community = Δημιουργώντας μια ανο
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Μέχρι το 2002, <a href="{ $over90 }">πάνω από το 90% των χρηστών του διαδικτύου</a> χρησιμοποιούσε το { -brand-name-ie }.
 # Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Το νέο { -brand-name-mozilla-foundation } συνέχισε να διαχειρίζεται τις καθημερινές λειτουργίες του έργου και ανέλαβε επίσημα την προώθηση <a href="{ $manifesto }">της διαφάνειας, της καινοτομίας και των ευκαιριών</a> στο διαδίκτυο.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = Το <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> κυκλοφόρησε το 2004 και έγινε μεγάλη επιτυχία — σε λιγότερο από έναν χρόνο, έγινε λήψη του <a href="{ $millions }">περισσότερες από 100 εκατομμύρια φορές</a>.
@@ -28,6 +31,9 @@ history-new-versions-of-firefox = Νέες εκδόσεις του { -brand-name
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Ο νέος ανταγωνισμός έχει <a href="{ $innovation }">επιταχύνει την καινοτομία</a> και έχει βελτιώσει το διαδίκτυο για όλους.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = Το 2013, κυκλοφορήσαμε το <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> για να εξαπολύσουμε την πλήρη δύναμη του web στα smartphones και να προσφέρουμε για ακόμα μια φορά τον έλεγχο και την επιλογή σε μια νέα γενιά ανθρώπων που εισέρχονται στο διαδίκτυο.
 history-mozilla-also-celebrated = Η { -brand-name-mozilla } γιόρτασε επίσης τη 15η επέτειό της το 2013.
 history-the-community-has-shown = Η κοινότητα έχει δείξει ότι οι εμπορικές εταιρείες μπορούν να επωφεληθούν από τη συνεργασία τους σε έργα ανοικτού κώδικα και ότι μπορούν να παραχθούν εξαιρετικά προϊόντα ως λογισμικό ανοικτού κώδικα.
 # Variables:

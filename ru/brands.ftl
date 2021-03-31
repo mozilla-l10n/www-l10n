@@ -28,6 +28,7 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter =
     { $case ->
@@ -38,6 +39,7 @@
         [instrumental] Твиттером
         [prepositional] Твиттере
     }
+-brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
@@ -123,7 +125,6 @@
     }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync =
     { $case ->
        *[nominative] Синхронизация Firefox
@@ -149,7 +150,6 @@
     }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync =
     { $case ->
        *[nominative] Синхронизация
@@ -167,6 +167,8 @@
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -240,14 +242,15 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 

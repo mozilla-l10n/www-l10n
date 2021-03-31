@@ -270,6 +270,6 @@ newsletters-were-building-the-technology = Estamos construindo a tecnologia do f
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
-newsletters-special-announcements-helping-you = Anúncios especiais, ajudando você a obter o máximo do { -brand-name-webmaker }.
+newsletters-special-announcements-helping-you = Avisos especiais, para te ajudar a aproveitar a { -brand-name-webmaker } ao máximo.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }

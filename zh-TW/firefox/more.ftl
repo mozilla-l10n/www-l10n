@@ -69,3 +69,5 @@ firefox-more-translate-the-web = 翻譯網頁內容
 firefox-more-translate-more-than = 直接在 { -brand-name-firefox-browser } 瀏覽器中翻譯超過 100 種語言的網頁，比以往更方便。
 firefox-more-a-guide-to = 更安全的登入資訊與密碼指南
 firefox-more-more-and-more = 我們的生活中有更多敏感、有價值的東西需透過密碼來保護。
+firefox-more-avoid-misinformation-heading = 避免遇到網路上的假訊息 - { -brand-name-firefox } 在此協助
+firefox-more-avoid-misinformation-desc = 看看有哪些能夠看到更少假訊息，並且更加專注於對您來說最重要資訊的小秘訣。

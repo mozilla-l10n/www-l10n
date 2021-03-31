@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Protecziun da datas tar { -brand-name-mozilla }
@@ -12,12 +12,16 @@ privacy-index-if-you-want-to-make-a-correction = Sche ti vuls curreger tias infu
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Qua datti infurmaziuns per dumondas d'access a datas per persunas pertutgadas.</a>
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = Per dumandar agid cun in product, visita per plaschair <a href="{ $sumo }">noss forums</a>.
 privacy-index-data-privacy-principles = Princips da la protecziun da datas
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = Ils <a href="{ $principles }">princips da la protecziun da datas</a> da { -brand-name-mozilla } inspirescha nossa moda d'agir che respecta e protegia las persunas che utiliseschan l'internet. Ve a savair co che quests princips influenzeschan { -brand-name-firefox } e tut noss products en quest <a href="{ $faq }">FAQ</a>.
 privacy-index-transparency-report = Rapport da transparenza
+privacy-index-get-involved = Ta participescha
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Sco project open source èn transparenza ed avertadad princips fundamentals da { -brand-name-mozilla }. Il code da funtauna da { -brand-name-mozilla } è avert ed examinabel. Il svilup succeda a moda transparenta. Noss <a href="{ $report }">rapport da transparenza</a> semestril demussa noss engaschi per quests princips.
@@ -28,5 +32,14 @@ privacy-index-to-review-and-comment-on-proposed = Per consultar e commentar mida
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Legia dapli davart nossa lavur politica cuntinuanta concernent la protecziun da datas e la segirezza sin l'<a href="{ $blog }"> Open Policy and Advocacy Blog</a> da { -brand-name-mozilla }.
 privacy-index-outdated-policies = Directivas obsoletas
-privacy-index-mozilla-websites-communications = Websites da { -brand-name-mozilla }, communicaziuns &amp; cookies
+privacy-index-mozilla-websites-communications = Websites da { -brand-name-mozilla }, communicaziuns e cookies
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } per { -brand-name-fire-tv }

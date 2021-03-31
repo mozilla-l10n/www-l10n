@@ -8,12 +8,14 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox } FAQ
 whether-you-searched-privacy = Ehekávo kundahára ipya’e ha omo’ãva ne ñemigua, ko’ã porandu py’ỹigua oĩ ko’ápe ombohovái hag̃ua umi mba’e oikovéva ojokupytýva { -brand-name-firefox } ndive.
+whether-you-searched-independant = Ehekávo peteĩ kundahára ipya’e ha tembipurupyahu isãso omo’ãva ne ñemigua, ko’ã porandu py’ỹigua oĩ ko’ápe ombohovái hag̃ua umi mba’e oikovéva ha ojokupytýva { -brand-name-firefox } ndive.
 what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } ha’e kundahára ha’evéva oykekóva peteĩ atyguasu viru’ỹgua nohepyme’ẽiva ne mba’ekuaarã teéva umi maranduñemuguávape ha ne pytyvõ emo’ã hag̃ua ne marandu teéva. Eikuaave <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y <a href="{ $url2 }">ambue apopyre.</a> rehegua
 how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 
 # Variables:
@@ -24,6 +26,7 @@ how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
+yep-the-firefox = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Reietegua. Ndaipóri jehepyme’ẽ kañymby. Nerejehepyme’ẽi eipuru hag̃ua, ha norohepyme’ẽi ne mba’ekuaarã teéva.
 related-questions-free = Porandu ojuehegua: ¿{ -brand-name-firefox-browser } reigua, ¿{ -brand-name-firefox } hepýpa?
 is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-gui?
 
@@ -56,6 +59,7 @@ does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } ha’e kundahára ijypykuéva { -brand-name-firefox } pegua, he’iséva ikatuha eheka ñandutípe pe kundaharape renda guive. <a href="{ $url }">Eikuaave jehekaha eguerohoryvéva ha emoambue pe ñemboheko ijypykuéva.</a>
 does-firefox-have = ¿{ -brand-name-firefox } oguereko VPN ojuajúva?
 
 # Variables:

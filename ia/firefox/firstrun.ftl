@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/firstrun/
 
 firstrun-firefox-browser = { -brand-name-firefox-browser }
-firstrun-welcome-to-firefox = Benvenite in { -brand-name-firefox }
+firstrun-welcome-to-firefox = Benvenite a { -brand-name-firefox }
 firstrun-take-firefox-with-you = Porta { -brand-name-firefox } con te
 firstrun-already-using-firefox = Usa tu jam { -brand-name-firefox }?
 firstrun-get-your-bookmarks-history = Tene tu marcapaginas, chronologia, contrasignos e altere configurationes sur tote tu apparatos.

@@ -11,9 +11,10 @@ whatsnew80-up-to-date-banner = ¡Vy’apavẽ! Eipuruhína { -brand-name-firefox
 # Main title
 whatsnew80-main-title = Ejapopa nunga, pya’emieve
 whatsnew80-main-intro = Esẽ mohendahágui pumbyrýpe ogue’ỹre mba’eve. Ereko { -brand-name-firefox } pumbyry ha tablétape.
-whatsnew80-primary-cta-description = Ehai ñanduti veve térã pumbyry papapy ereko hag̃ua mboguejy juajuha
 # content buckets below hero
 whatsnew80-password-fatigue = Ñe’ẽñemi kane’õ añetete
+whatsnew80-the-average-person = Tapicha mbytegua oreko 130 mba’ete ñandutípe. { -brand-name-firefox } mba’e’oka oku’évape g̃uarã imandu’a ha ombyaty ñe’ẽñemi tekorosãme mba’e’oka mbojuehepyrépe, eikekuaahápe eikutúvo umi tenda.
 whatsnew80-privacy-you-never = Ñemigua araka’eve eñamindu’uva’erãha
 whatsnew80-firefox-for-mobile = { -brand-name-firefox } mba’e’oka oku’évape ojoko umi tapykuehoha ñemurãva ñandutípe ijehegui, péicha natekotevẽi ñemboheko hekorosãitereíva.
 whatsnew80-new-firefox-android = Ipyahúva { -brand-name-firefox } { -brand-name-android } peg̃uarã
+whatsnew80-our-latest-version = Ore rembiapokue ipyahuvéva { -brand-name-firefox } regehua ogueru kuatiarogue ñemyanyhẽha ipya’evéva ha jehecharã pyahu ipotĩva ejapokuaahápe heta mba’e, pya’eve.

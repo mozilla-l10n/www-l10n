@@ -51,3 +51,5 @@ features-index-block-fingerprinters = Porstowe wotćišće blokować
 features-index-translate-the-web = Web přełožować
 features-index-translate-more-than = Přełožujće z wjace hač 100 rěčow direktnje do swojeje rěče w swojim { -brand-name-firefox-browser } - lóšo hač do toho.
 features-index-translate-to-your = Přełožujće do swojeje rěče
+features-index-picture-in-picture = Wobraz-we-wobrazu
+features-index-got-things-to-do = Dyrbiće něšto činić a něšto sej wobhladać? Čińće woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.

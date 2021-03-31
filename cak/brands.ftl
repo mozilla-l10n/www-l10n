@@ -20,8 +20,10 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
@@ -136,6 +138,7 @@
 -brand-name-android = Android
 -brand-name-ios = iOS
 -brand-name-linux = Linux
+-brand-name-ubuntu = Ubuntu
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
 -brand-name-windows = Windows

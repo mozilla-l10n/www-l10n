@@ -11,7 +11,7 @@ firefox-all-source-code = Código fonte
 firefox-all-need-help = Precisa de ajuda?
 firefox-all-which-browser-would = Qual navegador você quer baixar?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = Obter ajuda
+firefox-all-get-help = Pedir ajuda
 firefox-all-you-are-about-to-download = Você vai baixar:
 firefox-all-browser = Navegador:
 firefox-all-platform = Plataforma:

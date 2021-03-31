@@ -11,7 +11,7 @@ newsletters-newsletter-subscriptions = Абонаменти
 newsletters-mozilla-newsletter = Бюлетин на { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Прочетете повече за всичко това в нашия <span>бюлетин</span>
-# Subtitle for https://www-dev.allizom.org/newsletter/
+# Outdated string
 newsletters-subscribe-to-updates-and-keep = Абонирайте се за новини и бъдете в крак с новите неща около { -brand-name-mozilla }. Това за нас е най-добрият начин да поддържаме връзка!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Потвърждение на абонамент
@@ -69,7 +69,7 @@ newsletters-were-glad-you-asked = Радваме се, че попитахте!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Обичате ли интернет? Ние също!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
-newsletters-unlock-the-world-of-web = Опознайте света разработката за уеб с нашия седмичен бюлетин на разработчиците на Мозила. Всяко издание ще ви донесе техники за програмиране, запознаване с добри практики, обновявания на { -brand-name-mdn }, информация за изгряващи технологии, съвети за развойни инструменти и още.
+newsletters-unlock-the-world-of-web = Опознайте света за разработка за уеб с нашия седмичен бюлетин на разработчиците на { -brand-name-mozilla }. Всяко издание ще ви донесе техники за програмиране, запознаване с добри практики, обновявания на { -brand-name-mdn }, информация за изгряващи технологии, съвети за развойни инструменти и още.
 # Obsolete string
 newsletters-join-thousands-of-developers = Присъединете се към хилядите разработчици като вас, които се учат на най-доброто от уеб програмирането.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
@@ -86,7 +86,7 @@ newsletters-your-content-wasnt-relevant = Съдържанието не пред
 newsletters-your-email-design = Дизайнът на съобщенията ги прави трудно четими.
 newsletters-i-didnt-sign-up = Аз не съм се абонирал за такова нещо.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/newsletter/
+#   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Този електронен адрес го няма в нашата система. Моля, отново го проверете или се <a href="{ $url }">абонирайте за нашите бюлетини.</a>
 newsletters-im-keeping-in-touch = Поддържам връзка с { -brand-name-mozilla } във { -brand-name-facebook } и { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -150,7 +150,7 @@ newsletters-download-firefox-for-ios = Изтегляне на { -brand-name-fir
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Изтегляне на { -brand-name-firefox } за мобилен телефон
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Съвети за Firefox Account
+newsletters-firefox-accounts-tips = Съвети за { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
 newsletters-get-the-most-firefox-account = Получете най-доброто от своя { -brand-name-firefox-account }.
 # Name for the newsletter in Newsletter subscription page
@@ -190,7 +190,7 @@ newsletters-firefox-for-android = { -brand-name-firefox } за { -brand-name-and
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
 newsletters-keep-up-with-releases = Новини и известия за версиите на { -brand-name-firefox } за { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-festival = Фестивалът на Mozilla
+newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla = Специални известия за годишния практически фестивал на { -brand-name-mozilla }, посветен на формирането на бъдещето на Мрежата.
 # Name for the newsletter in Newsletter subscription page

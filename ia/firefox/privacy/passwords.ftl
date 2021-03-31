@@ -12,7 +12,7 @@ privacy-passwords-more-and-more-desc = Sempre plus cosas sensibile e preciose de
 # page content
 privacy-passwords-a-security-guide = Un guida al securitate pro credentiales e contrasignos plus secur
 privacy-passwords-protecting-your-accounts = Proteger tu contos non debe esser complicate e { -brand-name-firefox } pote adjutar.
-privacy-passwords-more-and-more = Sempre plus cosas sensibile e preciose de nostre vita es custodiate per le contos online, protegite per contrasigno: litteras de amor, reportos medic, contos bancari e altero ancora. Sitos web usa proceduras de accesso pro proteger tal cosas preciose. Generalmente, fin que qualcuno non pote acceder a tu conto, on non pote leger tu e-mail o transferer moneta foras de tu conto bancari. Pois que nos vive nostre vitas online, como deberea nos proteger nostre credentiales?
+privacy-passwords-more-and-more = Sempre plus cosas sensibile e preciose de nostre vita es custodiate per le contos in linea, protegite per contrasigno: litteras de amor, reportos medic, contos bancari e multo plus. Sitos web usa proceduras de accesso pro proteger tal cosas preciose. Generalmente, tanto longe como alteres non pote acceder a tu conto, illes non pote leger tu e-mail o extraher moneta de de tu conto bancari. Viste que nos vive nostre vitas in linea, como deberea nos proteger nostre credentiales?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = In synthese:
 privacy-passwords-use-random-passwords = Usa contrasignos aleatori e usa un differente contrasigno pro cata sito

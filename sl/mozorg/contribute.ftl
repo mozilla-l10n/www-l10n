@@ -14,7 +14,9 @@ contribute-how-heading = Kako lahko prispevate …
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Netehnično
 contribute-tag-technical = Tehnično
+contribute-tag-technical-non-technical = Tehnično in netehnično
 contribute-tag-support = Podpora
 contribute-task-translate-heading = Prevedite vsebino
 contribute-task-join-heading = Pridružite se skupnosti

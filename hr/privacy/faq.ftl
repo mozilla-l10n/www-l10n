@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = Često postavljena pitanja o privatnosti podataka pri Mozilli
+privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } – često postavljena pitanja o privatnosti podataka
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } poštuje i štiti tvoje osobne informacije.
 privacy-faq-we-stand-for-people-over-profit = Za nas stoji ljudsko biće iznad profita.
 # Variables:

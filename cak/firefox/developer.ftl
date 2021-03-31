@@ -79,4 +79,6 @@ firefox-developer-firefox-has-been-rebuilt = Xnuk' chik ri { -brand-name-firefox
 firefox-developer-congrats-you-now-have-firefox = Kakikot. Wakami k'o chik awik'in ri { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Re re' man choj ta jun k'exoj. Re re' ja ri { -brand-name-firefox-quantum }: Jun k'ak'a' ruwäch chi { -brand-name-firefox }, ri xnuk' chik pa rutikirib'al richin chi aninäq, yalan jeb'ël chuqa' janila ruchuq'a'.
 firefox-developer-welcome-to-firefox-browser = Ütz apetik pa { -brand-name-firefox-browser }{ -brand-name-developer-edition }
+firefox-developer-made-for-developers = Ri okik'amaya'l b'anon kichin b'anonela'
+firefox-developer-all-the-latest = Ronojel ri taq rusamajib'al rub'anel beta, <strong>tojtob'enel taq samaj</strong>achi'el ri runuk'unel rumolaj k'ïy k'amab'ey chuqa' ri runik'onelWebSocket.
 firefox-developer-congrats-you-now-have = Kakikot. Wakami k'o chik awik'in ri { -brand-name-firefox-browser } { -brand-name-developer-edition }.

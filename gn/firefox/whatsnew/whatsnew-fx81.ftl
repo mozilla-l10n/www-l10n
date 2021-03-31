@@ -9,8 +9,8 @@
 whatsnew81-page-title = ¿Mba’e oĩ ipyahúva { -brand-name-firefox } ndive?
 # Main title
 whatsnew81-main-title = Ipyahúva { -brand-name-firefox } peteĩteĩva mba’e’okápe g̃uarã
+whatsnew81-main-intro = Eipurukuaa oimeraẽva apopyvusu oku’éva – oĩ peteĩ kundahára upevarã iporãvéva ha oykekóva mba’apohaguasu viru’ỹguáva.
 whatsnew81-send-form-label = Emoinge ñanduti veve ñemboguejy juajuhápe g̃uarã
-whatsnew81-send-form-label-alt = Emoinge ñanduti veve térã pumbyry papapy ñemboguejy juajuhápe g̃uarã
 whatsnew81-scan-this-qr-code = Emoha’ãnga ko QR ayvu emboguejy hag̃ua
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = IPYAHÚVA { -brand-name-firefox } { -brand-name-android } peg̃uarã oĩ ápe

@@ -14,6 +14,10 @@ password-manager-password-manager = Conquista de Gestor de palavras-passe desblo
 password-manager-give-up-the-memory = Desista do jogo de memória com o Gestor de palavras-passe do { -brand-name-firefox }.
 password-manager-password-hero = Herói de palavras-passe
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Esqueça a reposição. O gestor de palavras-passe do { -brand-name-firefox } mantém todas as suas palavras-passe para que possa iniciar sessão automaticamente, ou encontrar facilmente palavras-passe guardadas. Para mais segurança, defina uma <a href="{ $url }">palavra-passe primária</a> no seu computador.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Esqueça a reposição. O Gestor de palavras-passe do { -brand-name-firefox } mantém todas as suas palavras-passe para que possa iniciar sessão automaticamente, ou encontrar facilmente palavras-passe guardadas. Para super segurança, dê ao seu computador uma <a href="{ $url }">palavra-passe mestra</a>.
 password-manager-password-magician = Mágico de palavras-passe

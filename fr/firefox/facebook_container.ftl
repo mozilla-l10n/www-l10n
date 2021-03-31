@@ -24,7 +24,7 @@ facebook-container-try-firefox-focus-the-privacy = Essayez <strong>{ -brand-name
 facebook-container-opt-out-on-your-terms = Vous avez le droit de dire non
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } peut suivre presque toutes vos activités sur le Web et les relier à votre identité { -brand-name-facebook }. Si cela vous semble excessif, l’extension <a href="{ $fbcontainer }">{ -brand-name-facebook-container }</a> isole votre identité dans un onglet contextuel séparé, ce qui rend plus difficile pour { -brand-name-facebook } de vous pister sur le Web en dehors de { -brand-name-facebook }.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } peut suivre presque toutes vos activités sur le Web et les relier à votre identité { -brand-name-facebook }. Si cela vous semble excessif, l’extension <a href="{ $fbcontainer }">{ -brand-name-facebook-container }</a> isole votre identité dans un onglet conteneur séparé, ce qui rend plus difficile pour { -brand-name-facebook } de vous pister sur le Web en dehors de { -brand-name-facebook }.
 facebook-container-install-and-contain = Installez l’extension et reprenez le contrôle
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

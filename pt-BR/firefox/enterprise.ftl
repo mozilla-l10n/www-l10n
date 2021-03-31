@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Instale o { -brand-name-firefox } em sua organização com { -brand-name-esr } e Rapid Release
-firefox-enterprise-get-unmatched-data-protection = Obtenha proteção de dados incomparável na cadência de atualização adequada para você com o { -brand-name-firefox } para empresas. Baixe o { -brand-name-esr } e Rapid Release.
+firefox-enterprise-get-unmatched-data-protection = Tenha proteção de dados incomparável na cadência de atualização adequada para você com o { -brand-name-firefox } para empresas. Baixe o { -brand-name-esr } e Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Apresentação
 firefox-enterprise-downloads = Downloads
@@ -21,7 +21,7 @@ firefox-enterprise-your-data-stays-your-business = Seus dados são da sua conta
 firefox-enterprise-deploy-when-and-how-you-want = Implante quando e como quiser
 firefox-enterprise-with-install-packages-and = Com pacotes de instalação e uma ampla expansão de diretivas de grupo e recursos, a implantação é mais rápida e flexível do que nunca — e é tranquila em ambientes { -brand-name-windows } e { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Escolha sua cadência de atualização
-firefox-enterprise-get-rapid-releases-to-make = Obtenha atualizações rápidas para garantir que você tenha os recursos mais recentes com mais rapidez, ou estendidas para assegurar uma experiência de uso super estável.
+firefox-enterprise-get-rapid-releases-to-make = Tenha atualizações rápidas para garantir que você tenha os recursos mais recentes com mais rapidez, ou atualizações estendidas para assegurar uma experiência de uso super estável.
 firefox-enterprise-enterprise-downloads = Downloads do { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
