@@ -12,6 +12,19 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Usa { -brand-name-mozilla-vpn } pro protection total del apparato pro tote le applicationes. Con servitores in plus de { $paises } paises, tu pote connecter te a ubique, non importa ubi tu es.
 vpn-landing-hero-sub-heading = Securitate sur que tu pote contar. Un nomine digne de tu confidentia.
+vpn-landing-hero-desc = Un rete virtual private ex le productores de { -brand-name-firefox }.
+vpn-landing-privacy-heading = Un tocco pro le confidentialitate
+vpn-landing-privacy-desc = Naviga, diffunde, joca e conclude tu labores mantenente tu confidentialitate online. Si tu naviga per un rete wifi public o simplemente recerca plus de securitate online, nos sempre anteponera tu confidentialitate.
+vpn-landing-fast-secure-heading = Rete veloce e secur
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } flue sur un rete global rete de servitores supportate per <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Per le plus avantiate protocollo de <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, nos crypta tu activitate de rete e cela tu adresse IP. Nos jammais registra, tracia o comparti tu datos de rete.
+vpn-landing-brand-trust-heading = Un VPN de un marca de fabrica digne de tu confidentia
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Desde plus que 20 annos, { -brand-name-mozilla } ha un fama de anteponer le personas e luctar pro le confidentialitate online. Supportate per un organisation non-lucrative, nos es dedicate a producer un internet melior e plus san pro totes. Tote lo que nos face es parte de nostre mission e seque nostre <a href="{ $url }">principios</a>.
 
 ## FAQ section
 
