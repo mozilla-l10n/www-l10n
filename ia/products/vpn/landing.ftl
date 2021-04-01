@@ -71,6 +71,7 @@ vpn-landing-faq-link = Vider altere folios a questiones
 vpn-landing-invite-page-title = Junge te al lista de attender: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc = Recipe avisos quando { -brand-name-mozilla-vpn } es disponibile pro tu apparato e region.
 vpn-landing-invite-page-heading = Junge te al lista de attender de VPN
+vpn-landing-invite-email-label = Qual es tu adresse e-mail?
 vpn-landing-invite-required-label = Necessari
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
