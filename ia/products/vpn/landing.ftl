@@ -43,6 +43,11 @@ vpn-landing-faq-info-question-heading = Que informationes retene le { -brand-nam
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Nos non registra, tracia o comparti ulle tu activitate de rete. Nos adhere strictemente al <a href="{ $url }">principios de confidentialitate del datos</a> de { -brand-name-mozilla } e nos solo collige le datos necessari pro mantener le VPN operative e meliorar le producto in le tempore.
 vpn-landing-faq-protected-question-heading = Como es protegite mi confidentialitate?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Le protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® crypta tu traffico de rete, protegente tote tu informationes private. Al contrario del protocollos VPN existente, le codice legier de { -brand-name-wireguard } es plus facile pro le analystas de securitate a revider e verificar, rendente lo un option plus secur pro le VPN. In addition, tu activitates online resta anonyme perque nos jammais registra, tracia o comparti tu datos de rete.
+vpn-landing-faq-competition-question-heading = Como comparar { -brand-name-mozilla-vpn } al competition?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } es compatibile con:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-bit solo)
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e ultra)
