@@ -43,9 +43,55 @@ vpn-landing-faq-info-question-heading = What information does the { -brand-name-
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = We don’t log, track, or share any of your network activity. We adhere strictly to { -brand-name-mozilla }’s <a href="{ $url }">Data Privacy Principles</a> and we only collect the data required to keep the VPN operational and improve the product over time.
 vpn-landing-faq-protected-question-heading = How is my privacy protected?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protocol encrypts your network traffic, protecting all your private information. Compared to existing VPN protocols, { -brand-name-wireguard }’s lightweight code is easier for security analysts to review and audit—making it a more secure option for the VPN. In addition, your online activities stay anonymous because we never log, track, or share your network data.
+vpn-landing-faq-competition-question-heading = How does { -brand-name-mozilla-vpn } compare to the competition?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = While free VPNs seem attractive, they do not make the same commitments to privacy as { -brand-name-mozilla-vpn } and may sell or store your data. Other paid VPNs don’t have { -brand-name-mozilla }’s over 20-year <a href="{ $url }">track record</a> of building products that put people and privacy first.
+vpn-landing-faq-compatibility-question-heading = What devices is { -brand-name-mozilla-vpn } compatible with?
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } is compatible with:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-bit only)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 and up)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 and up)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 and up)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-only)
+vpn-landing-faq-refund-question-heading = What is { -brand-name-mozilla-vpn }’s refund policy?
+vpn-landing-faq-refund-question-desc = You can get your money back within 30 days of purchasing your subscription. Contact us and submit the refund request by tapping the “Get Help” button in Settings on your { -brand-name-mozilla-vpn } app.
+vpn-landing-faq-manage-subscription-question-heading = How do I manage my subscription?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = If you’re already subscribed to { -brand-name-mozilla-vpn }, you can change your plan or <a href="{ $url }">manage your subscription</a> anytime.
+vpn-landing-faq-link = See more FAQs
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Oops! It looks like you haven’t subscribed yet.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Join the Waitlist: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Get notified when { -brand-name-mozilla-vpn } is available for your device and region.
+vpn-landing-invite-page-heading = Join the VPN Waitlist
+vpn-landing-invite-email-label = What is your email address?
+vpn-landing-invite-required-label = Required
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-country-label = What country do you live in?
+vpn-landing-invite-language-label = Select your preferred language.
+vpn-landing-invite-platform-label = Which platforms are you interested in?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = By clicking “Join the waitlist”, you agree to our  <a href="{ $privacy }">Privacy Policy</a>.
+vpn-landing-invite-your-information = Your information will only be used to notify you about platform availability.
+vpn-landing-invite-thanks-heading = Thanks! You’re on the list
+vpn-landing-invite-thanks-desc = Once { -brand-name-mozilla-vpn } becomes available for your region, we’ll email you.
 
 ##
 
