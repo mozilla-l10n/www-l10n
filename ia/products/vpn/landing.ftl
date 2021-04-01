@@ -75,12 +75,18 @@ vpn-landing-invite-email-label = Qual es tu adresse e-mail?
 vpn-landing-invite-required-label = Necessari
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-country-label = In qual pais vive tu?
+vpn-landing-invite-language-label = Elige tu lingua preferite.
+vpn-landing-invite-platform-label = In qual platteformas es tu interessate?
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Cliccante “Junger al lista de attender”, tu concorda con nostre · <a href="{ $privacy }">Politica de confidentialitate</a>.
 
 ##
 
