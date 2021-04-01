@@ -48,12 +48,17 @@ vpn-landing-faq-protected-question-heading = Como es protegite mi confidentialit
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Le protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® crypta tu traffico de rete, protegente tote tu informationes private. Al contrario del protocollos VPN existente, le codice legier de { -brand-name-wireguard } es plus facile pro le analystas de securitate a revider e verificar, rendente lo un option plus secur pro le VPN. In addition, tu activitates online resta anonyme perque nos jammais registra, tracia o comparti tu datos de rete.
 vpn-landing-faq-competition-question-heading = Como comparar { -brand-name-mozilla-vpn } al competition?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Ben que le VPNs gratuite pare attractive, illos non es dedicate al confidentialitate como { -brand-name-mozilla-vpn } e pote vender o immagazinar tu datos. Altere VPNs pagate non ha le <a href="{ $url }">fama</a> ultra 20ennal de { -brand-name-mozilla } production que antepone le personas e le confidentialitate.
+vpn-landing-faq-compatibility-question-heading = Qual apparatos es compatibile con { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } es compatibile con:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-bit solo)
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e ultra)
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 e ultra)
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e ultra)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-solo)
+vpn-landing-faq-refund-question-heading = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
 vpn-landing-faq-link = Vider altere folios a questiones
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
