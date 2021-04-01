@@ -19,7 +19,7 @@ vpn-shared-features-encrypt = Cifrado a nivel del dispositivo
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-servers = { $servers }+ servidores en { $country }+ países
+vpn-shared-features-servers = Más de { $servers } servidores en más de { $countries } países
 vpn-shared-features-bandwidth = Sin restricciones de ancho de banda
 vpn-shared-features-activity = Sin registro de la actividad de tu red
 vpn-shared-features-activity-logs = No se guarda la actividad en línea no ahora ni nunca
@@ -28,17 +28,17 @@ vpn-shared-features-activity-logs = No se guarda la actividad en línea no ahora
 vpn-shared-features-access-countries = Acceso a servidores en más de { $countries } países
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Opción de conectar hasta { $device } dispositivos
+vpn-shared-features-devices = Opción de conectar hasta { $devices } dispositivos
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Protección para hasta { $devices } dispositivos
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Conectar a más de { $servidores } en más de { $country } países
+vpn-shared-features-server-countries = Conectar a más de { $servidores } en más de { $countries } países
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = Disponible en { $country } países ahora. Próximamente más regiones
+vpn-shared-countries-coming-soon = Disponible en { $countries } países ahora. Próximamente más regiones
 # Variables:
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
@@ -64,7 +64,7 @@ vpn-shared-pricing-plan-12-month = 12 meses
 vpn-shared-pricing-plan-monthly = Mensual
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
-vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-monthly = { $amount }<span>/mes</span>
 vpn-shared-pricing-get-6-month = Obtener el plan de 6 meses
 vpn-shared-pricing-get-12-month = Obtener el plan de 12 meses
 vpn-shared-pricing-get-monthly = Obtener el plan mensual
@@ -84,7 +84,7 @@ vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianz
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = La { -brand-name-mozilla-vpn } funciona sobre una red global de servidores provista por <a href="{ $policy }">{ -brand-name-mullvad }</a> usando el protocolo <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } pone primero a la privacidad y no guarda registros de ningún tipo.
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } funciona sobre una red global de servidores provista por <a href="{ $policy }">{ -brand-name-mullvad }</a> usando el protocolo <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } pone primero a la privacidad y no guarda registros de ningún tipo.
 vpn-shared-platform-what-youll-get = Qué conseguís con { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
