@@ -59,10 +59,18 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (v
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e ultra)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-solo)
 vpn-landing-faq-refund-question-heading = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = Tu pote haber reimbursate tu moneta intra 30 dies del compra de tu subscription. Continge nos e invia le requesta de reimbursamento pulsante le button “Demandar adjuta” in Parametros sur tu app { -brand-name-mozilla-vpn }.
+vpn-landing-faq-manage-subscription-question-heading = Como gere io mi subscription?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Si tu es jam subscribite a { -brand-name-mozilla-vpn }, tu pote cambiar tu plan o <a href="{ $url }">gerer tu subscription</a> quando tu lo vole.
 vpn-landing-faq-link = Vider altere folios a questiones
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Junge te al lista de attender: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Recipe avisos quando { -brand-name-mozilla-vpn } es disponibile pro tu apparato e region.
+vpn-landing-invite-page-heading = Junge te al lista de attender de VPN
 vpn-landing-invite-required-label = Necessari
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
