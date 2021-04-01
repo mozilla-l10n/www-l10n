@@ -11,3 +11,4 @@ vpn-android-privacy-headline = Σύνδεση με ένα πάτημα
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Μία συνδρομή για έως και { $devices } συσκευές
+vpn-android-speed-headline = Αστραπιαίες ταχύτητες. Απεριόριστα δεδομένα.
