@@ -9,7 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
-vpn-mac-page-description = На комп'ютері { -brand-name-mac-short }, ноутбуці, { -brand-name-ipad } або { -brand-name-iphone }, захистіть весь пристрій від хакерів і сторонніх очей за допомогою VPN від { -brand-name-mozilla }, новатора в галузі безпеки в Інтернеті з 1998 року.
+vpn-mac-page-description = На комп'ютері { -brand-name-mac-short }, ноутбуці, { -brand-name-ipad } або { -brand-name-iphone }, захистіть весь пристрій від хакерів і сторонніх очей за допомогою VPN від { -brand-name-mozilla } — новатора в галузі безпеки в Інтернеті з 1998 року.
 # Mac strings
 vpn-mac-hero-headline = Захистіть своє з’єднання в Інтернеті за допомогою { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
 vpn-mac-ability = І в бізнесі, й на відпочинку, ви повинні почуватись в безпеці в Інтернеті незалежно від того, що вас туди приведе. { -brand-name-mozilla-vpn } допомагає розумніше користуватися загальнодоступним Wi-Fi, захищаючи з’єднання з Інтернетом від хакерів та постачальників інтернету, які хочуть збирати ваші дані. Приватність одним натиском доступна для { -brand-name-mac-short } та { -brand-name-ios }, (а також для { -brand-name-windows } 10, { -brand-name-linux } та { -brand-name-android }) і не впливає на вашу швидкість. Оскільки це VPN від { -brand-name-mozilla } з протоколом { -brand-name-wireguard }®, ви можете бути впевнені, що ваша активність не реєструватиметься, а ваші дані залишатимуться вашими — завжди.
@@ -23,7 +23,7 @@ vpn-mac-servers-headline = Доступ до серверів по всьому 
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
-vpn-mac-servers-copy = Вкажіть місце розташування{ -brand-name-mac-short } на ваш вибір із більш ніж { $servers } серверів у gjyfl { $countries } країнах. Це дозволяє перевіряти новини, робити покупки, транслювати та переглядати вебсторінки з будь-якого місця.
+vpn-mac-servers-copy = Вкажіть місце розташування{ -brand-name-mac-short } на ваш вибір із більш ніж { $servers } серверів у понад { $countries } країнах. Це дозволяє перевіряти новини, робити покупки, транслювати та переглядати вебсторінки з будь-якого місця.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Захистіть { $devices } пристроїв за допомогою однієї передплати
