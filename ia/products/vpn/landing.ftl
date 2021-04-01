@@ -87,6 +87,8 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
 vpn-landing-invite-privacy-policy = Cliccante “Junger al lista de attender”, tu concorda con nostre · <a href="{ $privacy }">Politica de confidentialitate</a>.
+vpn-landing-invite-your-information = Tu informationes essera solo usate pro allertar te re le disponibilitate del platteforma.
+vpn-landing-invite-thanks-heading = Gratias! Tu es in le lista
 
 ##
 
