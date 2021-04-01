@@ -23,7 +23,7 @@ vpn-desktop-privacy-copy = Програма { -brand-name-mozilla-vpn } шифр
 vpn-desktop-servers-headline = Під'єднуйтеся до серверів у всьому світі
 # Variables:
 #   $servers (number) - number of available servers
-vpn-desktop-servers-copy = Переглядайте з Бразилії. Грайте з Японії. Транслюйте з Мексики. { -brand-name-mozilla-vpn } дозволяє змінити місцеперебування телефону чи комп’ютера на один із { $servers }.
+vpn-desktop-servers-copy = Переглядайте з Бразилії. Грайте з Японії. Транслюйте з Мексики. { -brand-name-mozilla-vpn } дозволяє змінити місцеперебування телефону чи комп’ютера на один із { $servers } серверів.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Захищає до { $devices } пристроїв

@@ -21,3 +21,16 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } надзвичайно про
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Під'єднайтеся до більше ніж { $servers } серверів у всьому світі
+# Variables:
+#   $countries (number) - number of available countries
+vpn-ios-servers-copy = Купуйте зі Швейцарії. Транслюйте з Канади. Переглядайте з Австралії. За допомогою { -brand-name-mozilla-vpn } ви можете призначити місцеперебуванням свого { -brand-name-iphone } або { -brand-name-ipad } одну з понад { $countries } країн, відкриваючи світ захопливого вмісту.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Отримайте доступ для { $devices } пристроїв
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = За однією передплатою ви можете отримати { -brand-name-mozilla-vpn } для { $devices } різних пристроїв, включно з { -brand-name-ios } для { -brand-name-iphone } та { -brand-name-ipad },{ -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } та { -brand-name-linux }.
+vpn-ios-speed-headline = Найвища швидкість. Необмежена кількість даних.
+vpn-ios-speed-copy = Грайте в онлайн-ігри, транслюйте свої улюблені шоу та мандруйте інтернетом на надвисокій швидкості. Не турбуйтеся про свою пропускну здатність у { -brand-name-mozilla-vpn } — вона необмежена.
+vpn-ios-log-headline = Ваші дані залишаються приватними. Крапка.
+vpn-ios-log-copy = Деякі постачальники VPN реєструють вашу активність на своїх серверах. { -brand-name-mozilla-vpn } не лише не відстежує вас в Інтернеті — ми рішуче проти цього. Це величезна частина того, за що ми виступаємо як компанія.
