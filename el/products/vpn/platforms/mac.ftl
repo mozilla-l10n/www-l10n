@@ -9,3 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } για { -brand-name-mac-short }
+vpn-mac-wifi-headline = Νιώστε ασφάλεια σε ύποπτα Wi-Fi
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Προστασία { $devices } συσκευών με μία συνδρομή
