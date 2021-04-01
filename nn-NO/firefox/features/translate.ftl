@@ -7,3 +7,7 @@
 
 # page title
 features-translate-translate-the-web-title = Omset nettet - direkte i nettlesaren din
+features-translate-translate-the-web = Omset nettet med { -brand-name-firefox }
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-the-extension = Last ned utvidinga
+features-translate-for-everyone = Firefox er for alle
