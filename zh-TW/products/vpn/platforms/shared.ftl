@@ -15,3 +15,8 @@ vpn-platforms-shared-feature-item-protection = 最多可保護 { $devices } 台�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-platforms-shared-feature-item-connect = 最多可有 { $devices } 台裝置連線
+vpn-platforms-shared-feature-item-encryption = 裝置層級加密
+vpn-platforms-shared-feature-item-bandwidth = 沒有頻寬限制
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
