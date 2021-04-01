@@ -30,3 +30,5 @@ vpn-desktop-devices-headline = Захищає до { $devices } пристрої
 vpn-desktop-devices-copy = Ваша передплата дає вам необмежений доступ до нашої безпечної служби VPN на вашому смартфоні, планшеті та комп'ютері для { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } та { -brand-name-linux }.
 vpn-desktop-speed-headline = Неймовірна швидкість, без обмежень
 vpn-desktop-speed-copy = Передавайте потокове відео, грайте в ігри, купуйте та переглядайте з блискавичною швидкістю. { -brand-name-mozilla-vpn } не обмежить пропускну здатність та не сповільнить ваш смартфон.
+vpn-desktop-log-headline = Ваша приватність понад усе
+vpn-desktop-log-copy = У { -brand-name-mozilla } ми не збираємо жодних даних про вас і не реєструємо вашу активність в Інтернеті — ні через наш VPN, ні через будь-який інший наш продукт. Захист вашої приватності є основним принципом нашої місії.
