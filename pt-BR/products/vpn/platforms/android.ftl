@@ -20,3 +20,5 @@ vpn-android-servers-headline = Mais de { $servers } servidores em mais de { $cou
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Uma única assinatura para até { $devices } dispositivos
+vpn-android-speed-headline = Velocidades extremamente rápidas. Dados ilimitados.
+vpn-android-log-headline = Sem registros. Sem rastreamento. Sem invasões de privacidade.
