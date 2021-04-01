@@ -7,7 +7,11 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Tüm Cihazlarınızı Koruyun
+vpn-landing-hero-sub-heading = Güvenilir bir markadan güvenilir bir hizmet.
+vpn-landing-hero-desc = { -brand-name-firefox }’un yapımcılarından sanal özel ağ (VPN).
+vpn-landing-privacy-heading = Tek dokunuşla gizlilik
 vpn-landing-fast-secure-heading = Hızlı ve güvenli ağ
+vpn-landing-brand-trust-heading = Güvenebileceğiniz bir markanın VPN’i
 
 ## FAQ section
 
@@ -21,6 +25,9 @@ vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ve 
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (sürüm 6 ve üzeri)
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ve üzeri)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (yalnızca { -brand-name-ubuntu })
+vpn-landing-faq-manage-subscription-question-heading = Aboneliğimi nasıl yönetebilirim?
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Henüz abone olmamışsınız.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
@@ -39,6 +46,7 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+vpn-landing-invite-thanks-heading = Teşekkürler! Listeye eklendiniz
 
 ##
 

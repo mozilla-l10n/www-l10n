@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-the-history-of-web = Web Tarayıcılarının Tarihi
+browser-history-before-web-era = Web Çağı’ndan önce
 browser-history-web-era = Web Çağı
 browser-history-the-browser-wars = Tarayıcı Savaşları
 browser-history-browsing-the-web = Günümüzde Web’de Gezinme
