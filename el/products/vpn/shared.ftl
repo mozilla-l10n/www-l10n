@@ -8,9 +8,18 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
+vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο συσκευής
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = { $servers }+ διακομιστές σε { $countries }+ χώρες
+vpn-shared-features-bandwidth = Χωρίς περιορισμούς εύρους ζώνης
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Επιλογή σύνδεσης έως και { $devices } συσκευών
+vpn-shared-refund-policy = Πολιτική επιστροφής
+vpn-shared-privacy-notice = Σημείωση απορρήτου
+vpn-shared-terms-conditions = Όροι και συνθήκες
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -26,6 +35,20 @@ vpn-shared-pricing-save-percent = Εξοικονομήστε { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } συνολικά
+
+# Platform subpage shared strings
+
+vpn-shared-platform-cta-headline = Ας ξεκινήσουμε
+vpn-shared-platform-what-youll-get = Το { -brand-name-mozilla-vpn } προσφέρει τα εξής:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Υπολογιστές
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Κινητές συσκευές
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 
