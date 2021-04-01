@@ -7,3 +7,4 @@
 
 vpn-desktop-about-headline = 关于 { -brand-name-mozilla }
 vpn-desktop-servers-headline = 连接世界各地的服务器
+vpn-desktop-log-headline = 将您的隐私放在首位
