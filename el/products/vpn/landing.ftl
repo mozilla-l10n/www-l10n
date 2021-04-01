@@ -5,11 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτυο
+vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία που μπορείτε να εμπιστευτείτε
 
 ## FAQ section
 
 vpn-landing-faq-heading = Συχνές ερωτήσεις
 vpn-langing-faq-uses-question-heading = Τι είναι το VPN και ποιες οι χρήσεις του;
+vpn-landing-faq-info-question-heading = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
+vpn-landing-faq-protected-question-heading = Πώς προστατεύεται το απόρρητό μου;
 vpn-landing-faq-compatibility-question-heading = Με ποιες συσκευές είναι συμβατό το { -brand-name-mozilla-vpn };
 vpn-landing-faq-compatibility-question-desc = Το { -brand-name-mozilla-vpn } είναι συμβατό με:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (μόνο 64-bit)

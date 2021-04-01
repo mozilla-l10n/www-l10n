@@ -8,6 +8,7 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
+vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο συσκευής
 # Variables:
 #   $servers (number) - number of available servers
