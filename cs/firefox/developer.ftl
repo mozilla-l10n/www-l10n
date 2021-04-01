@@ -82,4 +82,5 @@ firefox-developer-welcome-to-firefox-browser = Vítá vás { -brand-name-firefox
 firefox-developer-made-for-developers = Prohlížeč určený pro vývojáře
 firefox-developer-all-the-latest = Všechny nejnovější vývojářské nástroje obsažené ve verzi Beta a k tomu ještě <strong>experimentální funkce</strong>, jako jsou Multi-line Console Editor a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Samostatný profil a cesta</strong>, takže ho můžete snadno spustit zároveň se standardní verzí nebo { -brand-name-firefox(case: "ins") } { -brand-name-beta }.
+firefox-developer-preferences-tailored = Předvolby přímo <strong>pro webové vývojáře</strong>: Ve výchozím stavu je zapnuté ladění prohlížeče a vzdálené ladění, stejně jako tmavý vzhled a rychlý přístup k nástrojům pro vývojáře.
 firefox-developer-congrats-you-now-have = Gratulujeme. Nyní máte { -brand-name-firefox-browser(case: "acc") } { -brand-name-developer-edition }.
