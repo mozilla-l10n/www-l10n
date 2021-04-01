@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-android-page-title = 适用于 { -brand-name-android } 的 { -brand-name-mozilla-vpn }
+vpn-android-about-headline = { -brand-name-mozilla } 是值得您信赖的品牌
 vpn-android-privacy-headline = 一键连接
 # Variables:
 #   $servers (number) - number of available servers

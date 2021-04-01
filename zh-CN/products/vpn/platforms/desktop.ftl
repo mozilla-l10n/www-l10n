@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-about-headline = 关于 { -brand-name-mozilla }
+vpn-desktop-servers-headline = 连接世界各地的服务器
