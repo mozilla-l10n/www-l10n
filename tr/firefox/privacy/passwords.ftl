@@ -22,6 +22,7 @@ privacy-passwords-guessing-it = Parolanızı tahmin edebilirler
 privacy-passwords-stealing-a-file = İçinde parolanızın bulunduğu bir dosyayı çalabilirler
 privacy-passwords-using-password-recovery = Parolanızı sıfırlamak için parola kurtarmayı kullanabilirler
 privacy-passwords-tricking-you-into = Parolanızı onlara vermeniz için sizi kandırabilirler
+privacy-passwords-look-for-the = Tarayıcınızdaki asma kilide dikkat edin
 privacy-passwords-a-closed-lock = Tüm büyük tarayıcılarda adres çubuğundaki web sitesi adresinin hemen önünde kapalı bir asma kilit görünür.
 privacy-passwords-a-padlock-with = Kırmızı çapraz çizgili asma kilit, bağlantının güvenli olmadığını gösterir.
 privacy-passwords-firefox-will = Sitenin kimlik avı sitesi olduğu biliniyorsa Firefox web sitesi yerine bir uyarı görüntüleyecektir.

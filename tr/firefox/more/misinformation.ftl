@@ -7,6 +7,8 @@
 
 misinformation-look-at-url = URL’ye ve/veya kaynağa bakın.
 misinformation-content-up-to-date = İçerik güncel mi?
+misinformation-images-captions = Resimlerle açıklamaları eşleşiyor mu?
+misinformation-social-media-clean-heading = { -brand-name-firefox }, sosyal medya akışlarınızı temiz tutmanıza yardımcı olur:
 misinformation-why-trust-firefox = { -brand-name-firefox }’a neden güvenmelisiniz?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
