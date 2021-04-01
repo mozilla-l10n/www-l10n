@@ -7,4 +7,4 @@
 
 # Mobile strings
 vpn-ios-hero-headline = Proteja-se online com o { -brand-name-mozilla-vpn } para { -brand-name-ios }
-vpn-ios-wifi-headline = Fique seguro online quando estiver em trânsito
+vpn-ios-wifi-headline = Permaneça seguro online quando estiver em trânsito

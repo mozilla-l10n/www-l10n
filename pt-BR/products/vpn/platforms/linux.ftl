@@ -8,7 +8,7 @@
 
 # Meta strings
 
-vpn-linux-wifi-headline = Fique seguro online quando precisar usar uma rede pública de wifi
+vpn-linux-wifi-headline = Permaneça seguro online quando precisar usar uma rede pública de wifi
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
