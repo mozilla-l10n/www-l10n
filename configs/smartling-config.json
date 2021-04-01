@@ -1,0 +1,14 @@
+{
+    "locales": [{
+            "smartling": "ms-MS",
+            "application": "ms"
+        }
+    ],
+    "resourceSets": [{
+        "type": "FLUENT",
+        "authorizeContent": "false",
+        "pathRegex": "www-l10n\\/en\\/(?<path>.*)\\.ftl",
+        "translationPathExpression": "www-l10n/${locale}/${path}.${originalFile.extension}",
+        "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}"
+    }]
+}
