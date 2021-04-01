@@ -22,9 +22,16 @@ vpn-shared-features-encrypt = Cifrado a nivel del dispositivo
 vpn-shared-features-servers = { $servers }+ servidores en { $country }+ países
 vpn-shared-features-bandwidth = Sin restricciones de ancho de banda
 vpn-shared-features-activity = Sin registro de la actividad de tu red
+vpn-shared-features-activity-logs = No se guarda la actividad en línea no ahora ni nunca
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Acceso a servidores en más de { $countries } países
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Opción de conectar hasta { $device } dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Protección para hasta { $devices } dispositivos
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +43,9 @@ vpn-shared-countries-coming-soon = Disponible en { $country } países ahora. Pr�
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Consultá nuestra lista completa de <a href="{ $url }" { $attrs }>servidores</a>.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Conectar hasta { $devices } dispositivos
 vpn-shared-refund-policy = Política de reembolso
 vpn-shared-privacy-notice = Nota de privacidad
 vpn-shared-terms-conditions = Términos y condiciones
@@ -61,6 +71,13 @@ vpn-shared-pricing-save-percent = Ahorrá un { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } total
+
+# Platform subpage shared strings
+
+vpn-shared-platform-cta-headline = Comencemos
+vpn-shared-platform-cta-button = Ver precio y disponibilidad
+vpn-shared-platform-privacy-promise = Tu privacidad es nuestra promesa
+vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianza
 
 ##
 
