@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-platforms-shared-day-guarantee = 30 天退款保证
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
