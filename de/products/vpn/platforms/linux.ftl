@@ -30,3 +30,8 @@ vpn-linux-servers-copy = Mit { -brand-name-mozilla-vpn } können Sie den Standor
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Sie können bis zu { $devices } Geräte verbinden
+vpn-linux-devices-copy = Mit einem Abonnement erhalten Sie { -brand-name-mozilla-vpn } auf bis zu { $devices } verschiedenen Geräten auf mehreren Betriebssystemen, darunter { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } und { -brand-name-ios } für { -brand-name-iphone } und { -brand-name-ipad }.
+vpn-linux-speed-headline = Ultraschnell mit unbegrenzten Daten
+vpn-linux-speed-copy = Spielen Sie Spiele, streamen Sie Filme und Sendungen und surfen Sie mit ultraschneller Geschwindigkeit und ohne Bandbreitendrosselung im Internet – { -brand-name-mozilla-vpn } ist unbegrenzt.
+vpn-linux-log-headline = Ihre Daten gehören Ihnen
+vpn-linux-log-copy = Einige VPNs protokollieren Ihre Aktivität auf ihren Servern. { -brand-name-mozilla-vpn } verfolgt Sie nicht im Internet – das ist in der Tat ein großer Teil dessen, wofür wir als Unternehmen stehen.
