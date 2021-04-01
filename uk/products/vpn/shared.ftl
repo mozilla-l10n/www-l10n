@@ -22,9 +22,16 @@ vpn-shared-features-encrypt = Шифрування на рівні пристр�
 vpn-shared-features-servers = Понад { $servers } серверів у понад { $countries } країнах
 vpn-shared-features-bandwidth = Необмежена пропускна здатність
 vpn-shared-features-activity = Без журналювання ваших дій мережі
+vpn-shared-features-activity-logs = Журналів дій в Інтернеті немає й не буде
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Доступ до серверів у понад { $countries } країнах
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Можливість під'єднання до { $devices } пристроїв
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Захист до { $devices } пристроїв
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +43,12 @@ vpn-shared-countries-coming-soon = Зараз доступно в { $countries }
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Перегляньте наш повний список <a href="{ $url }" { $attrs }>серверів</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Надійні сервери у понад { $countries } країнах
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Під'єднайте до { $devices } пристроїв
 vpn-shared-refund-policy = Політика повернення коштів
 vpn-shared-privacy-notice = Повідомлення про приватність
 vpn-shared-terms-conditions = Правила та умови
@@ -65,6 +78,14 @@ vpn-shared-pricing-total = Усього { $amount }
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Розпочнімо
+vpn-shared-platform-cta-button = Переглянути ціни та доступність
+vpn-shared-platform-privacy-promise = Ваша приватність — це наша обіцянка
+vpn-shared-platform-trust-partner-headline = Про нашого надійного партнера
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } працює на всесвітній мережі серверів, що працює на <a href="{ $policy }">{ -brand-name-mullvad }</a> за допомогою протоколу <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } ставить вашу приватність на перше місце і не веде жодних журналів.
+vpn-shared-platform-what-youll-get = Що ви отримаєте за допомогою { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
