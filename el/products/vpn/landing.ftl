@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-landing-privacy-heading = Απόρρητο με ένα πάτημα
 vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτυο
 vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία που μπορείτε να εμπιστευτείτε
 
@@ -26,6 +27,7 @@ vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Εγγραφή στη λίστα αναμονής: { -brand-name-mozilla-vpn }
 vpn-landing-invite-email-label = Ποια είναι η διεύθυνση email σας;
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com

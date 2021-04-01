@@ -9,5 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } για { -brand-name-linux } ({ -brand-name-ubuntu })
+# Linux strings
+vpn-linux-hero-headline = { -brand-name-mozilla-vpn } για { -brand-name-ubuntu } { -brand-name-linux } — ένα απόλυτα ιδιωτικό ζευγάρι
 vpn-linux-about-headline = Μια αξιόπιστη επωνυμία από το 1998
 vpn-linux-log-headline = Τα δεδομένα σας ανήκουν σε εσάς

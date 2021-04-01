@@ -11,5 +11,8 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } για { -brand-name-ios } ({ -
 vpn-ios-hero-headline = Προστατευτείτε στο διαδίκτυο με το { -brand-name-mozilla-vpn } για { -brand-name-ios }
 vpn-ios-about-headline = Γιατί να μας εμπιστευτείτε;
 vpn-ios-privacy-headline = Σύνδεση με 1 πάτημα
+# Variables:
+#   $servers (number) - number of available servers
+vpn-ios-servers-headline = Συνδεθείτε σε { $servers }+ διακομιστές παγκοσμίως
 vpn-ios-speed-headline = Κορυφαίες ταχύτητες. Απεριόριστα δεδομένα.
 vpn-ios-log-headline = Τα δεδομένα σας παραμένουν ιδιωτικά. Τελεία και παύλα.
