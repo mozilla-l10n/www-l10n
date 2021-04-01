@@ -89,6 +89,7 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 vpn-landing-invite-privacy-policy = Cliccante “Junger al lista de attender”, tu concorda con nostre · <a href="{ $privacy }">Politica de confidentialitate</a>.
 vpn-landing-invite-your-information = Tu informationes essera solo usate pro allertar te re le disponibilitate del platteforma.
 vpn-landing-invite-thanks-heading = Gratias! Tu es in le lista
+vpn-landing-invite-thanks-desc = Un vice que { -brand-name-mozilla-vpn } deveni disponibile pro tu region, nos te inviara un e-mail.
 
 ##
 
