@@ -8,6 +8,7 @@
 
 # Meta strings
 
+vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({ -brand-name-ubuntu })
 vpn-linux-wifi-headline = Permaneça seguro online quando precisar usar uma rede pública de wifi
 # Variables:
 #   $countries (number) - number of available countries
