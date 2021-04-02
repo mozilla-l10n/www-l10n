@@ -8,7 +8,7 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Získejte { -brand-name-firefox-browser(case: "acc") } pro { -brand-name-chromebook(case: "acc") }
+browsers-chromebook-get-firefox-browser = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro { -brand-name-chromebook(case: "acc") }
 browsers-chromebook-so-youve-got = Pokud máte { -brand-name-chromebook(case: "acc") }, je na čase si do něj stáhnout ještě nezávislý { -brand-name-firefox-browser(capitalization: "lower") }, který ochrání vaše soukromí a vaše data.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") }
 browsers-chromebook-get-firefox-desktop = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-chromebook(case: "acc") }

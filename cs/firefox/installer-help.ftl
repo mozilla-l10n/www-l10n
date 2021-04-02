@@ -18,7 +18,7 @@ installer-help-action-choose = Vyberte si níže, co chcete stáhnout.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Aktualizujte. Automatické soukromí je tady. Stáhněte si { -brand-name-firefox-browser(case: "acc") }, který pro vás zablokuje více než { $trackers } sledovacích prvků.
+installer-help-firefox-release-desc = Aktualizujte. Automatické soukromí je tady. Stáhněte si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }, který pro vás zablokuje více než { $trackers } sledovacích prvků.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Zkoušejte připravované funkce před jejich vydáním ve finální verzi.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
