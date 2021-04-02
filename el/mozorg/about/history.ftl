@@ -18,6 +18,9 @@ history-within-the-first-year-new = Μέσα στον <a href="{ $firstyear }">�
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Δημιουργώντας μια ανοικτή κοινότητα, το έργο { -brand-name-mozilla } έχει γίνει <a href="{ $stevecase }">μεγαλύτερο από οποιαδήποτε εταιρεία</a>.
 # Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Μετά από μερικά χρόνια ανάπτυξης, το <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, η πρώτη κύρια έκδοση, κυκλοφόρησε το 2002. Αυτή η έκδοση περιλάμβανε πολλές βελτιώσεις στο πρόγραμμα περιήγησης, το πρόγραμμα email και τις άλλες εφαρμογές της σουίτας, αλλά δεν το χρησιμοποιούσαν πολλοί άνθρωποι.
+# Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Μέχρι το 2002, <a href="{ $over90 }">πάνω από το 90% των χρηστών του διαδικτύου</a> χρησιμοποιούσε το { -brand-name-ie }.
 # Variables:
