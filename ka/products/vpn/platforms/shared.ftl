@@ -17,10 +17,10 @@ vpn-platforms-shared-privacy-headline = თქვენი პირადულ
 vpn-platforms-shared-feature-item-protection = დაცვა { $devices } მოწყობილობამდე
 # Variables:
 #   $devices (number) - number of available devices
-vpn-platforms-shared-feature-item-connect = კავშირი { $count } მოწყობილობამდე
+vpn-platforms-shared-feature-item-connect = კავშირი { $devices } მოწყობილობამდე
 # Variables:
 #   $countries (number) - number of available countries
-vpn-platforms-shared-feature-item-access = წვდომა { $servers }+ სერვერთან { $countries }+ ქვეყანაში
+vpn-platforms-shared-feature-item-access = წვდომა სერვერებთან { $countries }+ ქვეყანაში
 # Variables:
 #   $countries (number) - number of available countries
 vpn-platforms-shared-feature-item-strong-servers = მძლავრი სერვერები { $countries }+ ქვეყანაში

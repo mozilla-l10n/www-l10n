@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } { -brand-name-android }-ისთვის
+vpn-android-page-description = უსაფრთხოდ იმოძრავეთ თქვენს { -brand-name-android }-ტელეფონზე ერთი შეხებით, ტექნოლოგიურ სივრცეში ერთ-ერთი ყველაზე სანდო სახელის მქონე კომპანიის, { -brand-name-mozilla }-ს მეშვეობით.
 # Mobile strings
 vpn-android-hero-headline = დარჩით კავშირზე უსაფრთხოდ, { -brand-name-mozilla-vpn }-ით { -brand-name-android }-სისტემაზე
 vpn-android-wifi-headline = იყავით უსაფრთხოდ, გადაადგილების დროსაც

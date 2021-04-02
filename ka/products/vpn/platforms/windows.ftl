@@ -17,7 +17,7 @@ vpn-windows-wifi-headline = შეინარჩუნეთ პირადუ
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } იცავს თქვენს ინტერნეტკავშირს თვალთვალისგან, ასე რომ თქვენი საქმე შეგიძლია აკეთოთ ყველგან — აეროპორტში, საერთო საცხოვრებელში, კაფეში — და თან არ იღელვოთ პირადულობაზე ინტერნეტში.
 vpn-windows-about-headline = ინტერნეტში პირადულობის მოწინავე დამცველისგან
 vpn-windows-about-copy = არამომგებიანი დაწესებულება, რომლის ქმნილებაცაა { -brand-name-firefox-browser }, { -brand-name-mozilla } წარმოადგენს ინტერნეტმაცხოვრებელთა ერთობას, მთელი მსოფლიოდან, რომლებიც ზრუნავენ ინტერნეტის თავისუფლებისა და საყოველთაო ხელმისაწვდომობის შენარჩუნებისთვის. { -brand-name-mozilla } მოგებაზე წინ ხალხს აყენებს იმ პირობით, რომ თითოეული მისი პროდუქტისთვის უწინარესი ხართ თქვენ.
-vpn-windows-privacy-headline = დაცვა ერთ ღილაკზე დაჭერით
+vpn-windows-privacy-headline = დაცვა ღილაკზე ერთი დაჭერით
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } შიფრავს თქვენს ინტერნეტკავშირს და ფარავს თქვენს IP-მისამართს მეთვალყურეებისგან თქვენს სამაგიდო და პორტატულ კომპიუტერებზე, მაღალი დონის { -brand-name-wireguard }® ოქმის გამოყენებით.
 vpn-windows-servers-headline = სერვერებთან წვდომა, მთელ მსოფლიოში
 # Variables:
@@ -30,5 +30,5 @@ vpn-windows-devices-headline = ერთი ხელშეკრულება
 vpn-windows-devices-copy = { -brand-name-mozilla-vpn } გამოწერა მოგცემთ შეუზღუდავ წვდომას ჩვენს VPN-მომსახურებაზე { $devices } მოწყობილობამდე { -brand-name-windows }-ზე (მათ შორისაა { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } და { -brand-name-ios } სისტემებზე.
 vpn-windows-speed-headline = შეუზღუდავი გამტარუნარიანობა
 vpn-windows-speed-copy = ეთერში გაშვება, თამაში, საყიდლები, ინტერნეტში მოგზაურობა უსწრაფესი სიჩქარით. შეუზღუდავი მოცულობით და გამტარუნარიანობის ზღვრების გარეშე, { -brand-name-mozilla-vpn } არ შეგაფერხებთ.
-vpn-windows-log-headline = თქვენი პირადულობა ჩვენთვის უმმთავრესია
+vpn-windows-log-headline = თქვენი პირადულობა ჩვენთვის უმთავრესია
 vpn-windows-log-copy = { -brand-name-mozilla } არ აჩერებს მუშაობას ინტერნეტის გაუმჯობესებისთვის, სადაც პირადი მონაცემების დაცვა, უმნიშვნელოვანესი უნდა იყოს. სწორედ ამიტომ, { -brand-name-mozilla-vpn } არ აგროვებს მონაცემებს თქვენზე ან თქვენს მოქმედებებზე ინტერნეტში — როგორც ჩვენი ყველა სხვა პროდუქტი.
