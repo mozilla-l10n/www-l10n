@@ -22,9 +22,16 @@ vpn-shared-features-encrypt = Kryptering på enhetsnivå
 vpn-shared-features-servers = Mer än { $servers } servrar i över { $countries } länder
 vpn-shared-features-bandwidth = Inga bandbreddsbegränsningar
 vpn-shared-features-activity = Ingen loggning av din nätverksaktivitet
+vpn-shared-features-activity-logs = Vi loggar aldrig dina onlineaktiviteter
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Tillgång till servrar i över { $countries } länder
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Möjlighet att ansluta upp till { $devices } enheter
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Skydd för upp till { $devices } enheter
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +43,12 @@ vpn-shared-countries-coming-soon = Tillgängligt i { $countries } länder nu. Fl
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Se vår fullständiga lista över <a href="{ $url }" { $attrs }>servrar</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Starka servrar i över { $countries } länder
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Anslut upp till { $devices } enheter
 vpn-shared-refund-policy = Återbetalningspolicy
 vpn-shared-privacy-notice = Sekretesspolicy
 vpn-shared-terms-conditions = Allmänna villkor
@@ -68,6 +81,11 @@ vpn-shared-platform-cta-headline = Låt oss börja
 vpn-shared-platform-cta-button = Se pris och tillgänglighet
 vpn-shared-platform-privacy-promise = Din integritet är vårt löfte
 vpn-shared-platform-trust-partner-headline = Om vår pålitliga partner
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } körs på ett globalt nätverk av servrar som drivs av <a href="{ $policy }">{ -brand-name-mullvad }</a> med <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®-protokollet. { -brand-name-mullvad } sätter din integritet först och loggar inga onlineaktiviteter.
+vpn-shared-platform-what-youll-get = Vad får du med { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
