@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } 桌面板（PC 與筆記型電腦）
 vpn-desktop-about-headline = 關於 { -brand-name-mozilla }
 vpn-desktop-log-headline = 將您的隱私擺在第一位

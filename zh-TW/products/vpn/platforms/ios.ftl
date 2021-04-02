@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } for { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 vpn-ios-about-headline = 為什麼可以相信我們？
 vpn-ios-privacy-headline = 一點即連
 # Variables:
