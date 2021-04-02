@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({ -brand-name-ubuntu })
+vpn-linux-page-description = Como fã do { -brand-name-ubuntu } { -brand-name-linux }, você já sabe a importância de privacidade e segurança online. Provavelmente também conhece a { -brand-name-mozilla } e o que defendemos, uma internet privativa, aberta e livre para todos. É hora de reunir os dois.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } para { -brand-name-ubuntu } { -brand-name-linux }, uma combinação perfeita de privacidade
 vpn-linux-wifi-headline = Permaneça seguro online quando precisar usar uma rede pública de wifi
