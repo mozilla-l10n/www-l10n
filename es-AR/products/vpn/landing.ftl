@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
-vpn-landing-page-title = { -brand-name-mozilla-vpn }: proteger todo tu dispositivo
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protegé todo tu dispositivo
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
