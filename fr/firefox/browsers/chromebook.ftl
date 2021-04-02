@@ -8,6 +8,8 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-browser = Télécharger le { -brand-name-firefox-browser } pour { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Vous disposez donc d’un { -brand-name-chromebook }. Il est temps à présent d’installer le { -brand-name-firefox-browser }, indépendant et privé par défaut, pour protéger vos données personnelles.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
