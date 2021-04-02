@@ -7,3 +7,12 @@
 
 # Shared
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
+vpn-platforms-shared-cta-headline = Iniziamo
+vpn-platforms-shared-cta = Visualizza prezzi e disponibilità
+vpn-platforms-shared-day-guarantee = Garanzia “soddisfatti o rimborsati” di 30 giorni
+# Variables:
+#   $devices (number) - number of available devices
+vpn-platforms-shared-feature-item-protection = Protezione per un massimo di { $devices } dispositivi
+# Variables:
+#   $devices (number) - number of available devices
+vpn-platforms-shared-feature-item-connect = Possibilità di connettere fino a { $devices } dispositivi
