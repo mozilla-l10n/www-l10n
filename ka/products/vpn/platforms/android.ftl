@@ -10,6 +10,8 @@ vpn-android-page-title = { -brand-name-mozilla-vpn } { -brand-name-android }-ი
 vpn-android-page-description = უსაფრთხოდ იმოძრავეთ თქვენს { -brand-name-android }-ტელეფონზე ერთი შეხებით, ტექნოლოგიურ სივრცეში ერთ-ერთი ყველაზე სანდო სახელის მქონე კომპანიის, { -brand-name-mozilla }-ს მეშვეობით.
 # Mobile strings
 vpn-android-hero-headline = დარჩით კავშირზე უსაფრთხოდ, { -brand-name-mozilla-vpn }-ით { -brand-name-android }-სისტემაზე
+vpn-android-ability = იყავით თავდაჯერებული საკუთარი მონაცემების დაცულობაში ჰაკერებისა და მეთვალყურეებისგან — სახლშიც და საჯარო WiFi-ქსელებშიც — { -brand-name-mozilla-vpn }-ის დახმარებით. ერთი ფინჯანი ყავის ფასად, თქვენი მონაცემები { -brand-name-android }-მოწყობილობებზე, დაიშიფრება მაღალი დონის { -brand-name-wireguard }® ოქმით. გამოიყენეთ { -brand-name-mozilla-vpn } გადაცემების ქსელში სანახავად, თამაშებისთვის, ფინანსების განკარგვისთვის, საყიდლებისთვის და ნებისმიერი საქმიანობისთვის ინტერნეტში, უსაფრთხო კავშირით.
+vpn-android-maker-of-firefox = როგორც { -brand-name-firefox }-ბრაუზერის შემქმნელი და ინტერნეტში პირადულობის დაცვისთვის მხურვალე მებრძოლი, { -brand-name-mozilla } დიდი პასუხისმგებლობით ეკიდება თქვენს პირადულობასა და უსაფრთხოებას, ინტერნეტში ყოველი გასვლისას.
 vpn-android-wifi-headline = იყავით უსაფრთხოდ, გადაადგილების დროსაც
 vpn-android-about-headline = { -brand-name-mozilla } არის სახელი, რომელსაც ენდობით
 vpn-android-privacy-headline = ერთი შეხებით დაკავშირება
