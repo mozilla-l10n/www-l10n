@@ -15,3 +15,4 @@ vpn-mobile-privacy-headline = Privacy in un clic
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Proteggi fino a { $devices } dispositivi
+vpn-mobile-speed-headline = Velocità incredibile, nessuna restrizione
