@@ -64,6 +64,10 @@ vpn-shared-pricing-total = Totalt { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Låt oss börja
+vpn-shared-platform-cta-button = Se pris och tillgänglighet
+vpn-shared-platform-privacy-promise = Din integritet är vårt löfte
+vpn-shared-platform-trust-partner-headline = Om vår pålitliga partner
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }

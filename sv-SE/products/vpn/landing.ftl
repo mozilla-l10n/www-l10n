@@ -66,7 +66,7 @@ vpn-landing-faq-manage-subscription-question-heading = Hur hanterar jag min pren
 vpn-landing-faq-manage-subscription-question-desc = Om du redan prenumererar på { -brand-name-mozilla-vpn } kan du ändra din plan eller <a href="{ $url }">hantera din prenumeration</a> när som helst.
 vpn-landing-faq-link = Se fler vanliga frågor
 # message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hoppsan! Det verkar som om du inte har prenumererat ännu.
+vpn-landing-sub-not-found = Hoppsan! Det verkar inte som du har en prenumeration.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
