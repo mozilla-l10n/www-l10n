@@ -16,3 +16,4 @@ vpn-windows-servers-headline = Acesse servidores no mundo todo
 vpn-windows-devices-headline = Uma única assinatura para todos os seus dispositivos
 vpn-windows-speed-headline = Sem restrições de largura de banda
 vpn-windows-log-headline = Sua privacidade é nossa prioridade
+vpn-windows-log-copy = A { -brand-name-mozilla } nunca deixará de trabalhar por uma internet melhor, que coloque sua privacidade em primeiro lugar. É por isso que o { -brand-name-mozilla-vpn } não coleta nenhum dado sobre você nem registra sua atividade online — nenhum dos nossos produtos o faz.
