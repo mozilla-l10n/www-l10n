@@ -19,3 +19,4 @@ vpn-mobile-servers-headline = Conecte-se a servidores no mundo todo
 vpn-mobile-devices-headline = Proteja até { $devices } dispositivos
 vpn-mobile-speed-headline = Velocidade incrível, sem restrições
 vpn-mobile-speed-copy = Assista vídeos, jogue, faça compras e navegue com velocidades extremamente rápidas. O { -brand-name-mozilla-vpn } não limita sua largura de banda nem deixa seu celular mais lento.
+vpn-mobile-log-headline = Sua privacidade em primeiro lugar

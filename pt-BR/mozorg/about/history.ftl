@@ -63,7 +63,7 @@ history-more-people-than-ever-before = Mais pessoas estão usando a Internet e e
 #   $areas (url) link to https://creativecommons.org/
 history-a-sustainable-organization = Uma organização sustentável foi criada usando mecanismos de mercado para apoiar uma missão de utilidade pública e este modelo foi reutilizado por outras pessoas para criar organizações abertas, transparentes e de colaboração em uma <a href="{ $range }">ampla gama</a> <a href="{ $areas }">de áreas</a>.
 history-the-future-is-full-of-challenges = O futuro está cheio de desafios e oportunidades iguais aos do nosso passado.
-history-theres-no-guarantee-that = Não há nenhuma garantia de que a Internet continuará a ser aberta, divertida ou segura.
+history-theres-no-guarantee-that = Não há garantia de que a internet permaneça aberta, agradável ou segura.
 history-mozilla-will-continue-to = A { -brand-name-mozilla } vai continuar a proporcionar oportunidades para que as pessoas se façam ouvir e moldem suas próprias vidas online.
 history-of-course-were-not-alone = É claro que não estamos fazendo isso sozinhos.
 history-the-mozilla-community-together = A comunidade { -brand-name-mozilla }, em conjunto com outros projetos de código aberto e outras organizações de utilidade pública, só existem por causa das pessoas que estão envolvidas em trnasforma nossos objetivos comuns em realidade.
