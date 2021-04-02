@@ -17,6 +17,9 @@ vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία πο
 vpn-landing-faq-heading = Συχνές ερωτήσεις
 vpn-langing-faq-uses-question-heading = Τι είναι το VPN και ποιες οι χρήσεις του;
 vpn-landing-faq-info-question-heading = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Δεν καταγράφουμε, παρακολουθούμε ή κοινοποιούμε καμία διαδικτυακή σας δραστηριότητα. Τηρούμε αυστηρά τις { -brand-name-mozilla }’s <a href="{ $url }">Αρχές απορρήτου δεδομένων</a> και συλλέγουμε μόνο τα δεδομένα που απαιτούνται για τη λειτουργία του VPN και τη βελτίωση του προϊόντος.
 vpn-landing-faq-protected-question-heading = Πώς προστατεύεται το απόρρητό μου;
 vpn-landing-faq-compatibility-question-heading = Με ποιες συσκευές είναι συμβατό το { -brand-name-mozilla-vpn };
 vpn-landing-faq-compatibility-question-desc = Το { -brand-name-mozilla-vpn } είναι συμβατό με:
@@ -27,12 +30,14 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 κα
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (Μόνο για { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
 vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζομαι τη συνδρομή μου;
+vpn-landing-faq-link = Δείτε περισσότερες συχνές ερωτήσεις
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = Ωχ! Φαίνεται ότι δεν έχετε εγγραφεί ακόμα.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Εγγραφή στη λίστα αναμονής: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Ενημερωθείτε όταν το { -brand-name-mozilla-vpn } γίνει διαθέσιμο για τη συσκευή και την περιοχή σας.
 vpn-landing-invite-page-heading = Εγγραφή στη λίστα αναμονής VPN
 vpn-landing-invite-email-label = Ποια είναι η διεύθυνση email σας;
 vpn-landing-invite-required-label = Απαιτείται
@@ -47,7 +52,12 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Κάνοντας κλικ στο “Εγγραφή στη λίστα αναμονής”, αποδέχεστε την <a href="{ $privacy }">Πολιτική απορρήτου</a> μας.
+vpn-landing-invite-your-information = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για την ενημέρωσή σας σχετικά με τη διαθεσιμότητα.
 vpn-landing-invite-thanks-heading = Ευχαριστούμε! Είστε στη λίστα
+vpn-landing-invite-thanks-desc = Μόλις το { -brand-name-mozilla-vpn } γίνει διαθέσιμο στην περιοχή σας, θα σας ειδοποιήσουμε μέσω email.
 
 ##
 
