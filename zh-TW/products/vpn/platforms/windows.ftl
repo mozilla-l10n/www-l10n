@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } for { -brand-name-windows } 10
+vpn-windows-privacy-headline = 只要按個按鈕即可開啟保護
+vpn-windows-servers-headline = 使用世界各地的伺服器
 vpn-windows-devices-headline = 一次訂閱，所有裝置都適用
 vpn-windows-speed-headline = 沒有頻寬限制
 vpn-windows-log-headline = 您的隱私權是我們的第一要務

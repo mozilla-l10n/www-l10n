@@ -11,3 +11,8 @@ vpn-mobile-wifi-headline = 使用公共 Wi-Fi 時也能高枕無憂
 vpn-mobile-about-headline = 關於 { -brand-name-mozilla }
 vpn-mobile-privacy-headline = 輕鬆一點就開啟隱私保護
 vpn-mobile-servers-headline = 連線到世界各地的伺服器
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = 同時保護最多 { $devices } 台裝置連線
+vpn-mobile-speed-headline = 高速連線不受限
+vpn-mobile-log-headline = 將您的隱私擺在第一位
