@@ -11,7 +11,9 @@ vpn-android-page-description = Säkerhet med ett tryck på din { -brand-name-and
 # Mobile strings
 vpn-android-hero-headline = Få skydd och integritet online med { -brand-name-mozilla-vpn } för { -brand-name-android }
 vpn-android-about-headline = { -brand-name-mozilla } är ett namn du kan lita på
+vpn-android-about-copy = Vi är mest kända för vår webbläsare, { -brand-name-firefox }, men { -brand-name-mozilla } som en större organisation har ett kärnuppdrag — att kämpa för dina rättigheter online. Det är vad vi har gjort hela tiden, sedan 1998. Vi är förespråkare för internet, åtagit oss att se till att det förblir öppet och gratis samtidigt som vi respekterar allas rätt till integritet och säkerhet.
 vpn-android-privacy-headline = Ett klick för att ansluta
+vpn-android-privacy-copy = Att använda { -brand-name-mozilla-vpn } för { -brand-name-android } är superenkelt. Tryck på en knapp och din anslutning krypteras automatiskt med det avancerade protokollet { -brand-name-wireguard }®. Det är allt!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -22,6 +24,9 @@ vpn-android-servers-copy = Med { -brand-name-mozilla-vpn } kan du ställa in din
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = En prenumeration för upp till { $devices } enheter
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } ger dig möjlighet att ansluta { $devices } olika enheter på { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } och { -brand-name-linux }. Använd den på din smartphone, stationära/bärbara dator, surfplatta och mer.
 vpn-android-speed-headline = Ultrasnabba hastigheter. Obegränsad data.
 vpn-android-speed-copy = Spela online, strömma filmer och surfa på nätet i extremt snabba hastigheter på din { -brand-name-android }-enhet — allt med obegränsad bandbredd.
 vpn-android-log-headline = Inga loggar. Ingen spårning. Inga intrång i privatlivet.
