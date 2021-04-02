@@ -12,9 +12,13 @@ vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({
 vpn-linux-page-description = Como fã do { -brand-name-ubuntu } { -brand-name-linux }, você já sabe a importância de privacidade e segurança online. Provavelmente também conhece a { -brand-name-mozilla } e o que defendemos, uma internet privativa, aberta e livre para todos. É hora de reunir os dois.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } para { -brand-name-ubuntu } { -brand-name-linux }, uma combinação perfeita de privacidade
+vpn-linux-ability = Tome uma medida extra de segurança quando estiver online, tanto dentro como fora de casa, usando o { -brand-name-mozilla-vpn }. Por uma pequena mensalidade, ele usa o avançado protocolo { -brand-name-wireguard }® para criptografar sua conexão de internet em seu computador { -brand-name-linux }, assim como em outros tipos de dispositivo, permitindo assistir filmes e séries, jogar, fazer compras e seguir sua rotina diária online sabendo que está protegido.
+vpn-linux-maker-of-firefox = Sendo um dos nomes mais confiáveis no setor de tecnologia, a { -brand-name-mozilla } tem o compromisso de assegurar que você se sinta seguro e protegido sempre que estiver online.
 vpn-linux-wifi-headline = Permaneça seguro online quando precisar usar uma rede pública de wifi
+vpn-linux-wifi-copy = Às vezes, uma rede pública wifi é sua melhor ou única opção. O { -brand-name-mozilla-vpn } permite que você se sinta livre para acessar seu email no aeroporto, editar suas senhas em uma cafeteria, tudo que você normalmente faz em casa com a mesma tranquilidade.
 vpn-linux-about-headline = Um nome confiável desde 1998
 vpn-linux-privacy-headline = Segurança a apenas 1 clique
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } is super fácil de usar. Toque em um botão e ele criptografa sua conexão e oculta o endereço IP em seu { -brand-name-iphone } ou { -brand-name-ipad } usando o avançado protocolo { -brand-name-wireguard }®.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
