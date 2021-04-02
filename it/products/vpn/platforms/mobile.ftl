@@ -16,3 +16,5 @@ vpn-mobile-privacy-headline = Privacy in un clic
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Proteggi fino a { $devices } dispositivi
 vpn-mobile-speed-headline = Velocità incredibile, nessuna restrizione
+vpn-mobile-log-headline = La tua privacy prima di tutto
+vpn-mobile-log-copy = Noi di { -brand-name-mozilla } non raccogliamo alcun dato su di te e non registriamo la tua attività online, né tramite la nostra VPN né tramite uno qualsiasi degli altri nostri prodotti. La protezione della tua privacy è un principio fondamentale della più importante missione di { -brand-name-mozilla }.
