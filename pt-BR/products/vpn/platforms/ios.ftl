@@ -23,4 +23,5 @@ vpn-ios-devices-headline = Tenha acesso em { $devices } dispositivos
 #   $devices (number) - number of available devices
 vpn-ios-devices-copy = Com uma única assinatura, você pode ter o { -brand-name-mozilla-vpn } em até { $devices } dispositivos diferentes, incluindo { -brand-name-ios } para { -brand-name-iphone } e { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
 vpn-ios-speed-headline = Velocidades máximas. Dados ilimitados.
+vpn-ios-speed-copy = Jogue online, assista suas séries favoritas e navegue pela internet em velocidades extremamente rápidas. Não se preocupe com sua largura de banda no { -brand-name-mozilla-vpn }, é ilimitada.
 vpn-ios-log-headline = Seus dados permanecem privativos. Ponto.
