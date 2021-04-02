@@ -22,16 +22,26 @@ vpn-landing-fast-secure-heading = 快速而安全的網路環境
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } 使用由 <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> 提供的全球網路節點與伺服器。透過使用最先進的 <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> 通訊協定，我們會加密您的上網流量並隱藏 IP 地址，我們永遠不會記錄、追蹤，或與別人分享您的上網資料。
 vpn-landing-brand-trust-heading = 由您可以信任的品牌所提供的 VPN
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = 超過 20 年來，{ -brand-name-mozilla } 有滿滿把人們放在第一位並為線上隱私而奮鬥的紀錄可以追溯。透過由非營利組織在背後全力相挺，我們承諾為世界上的所有人打造更好、更健康的網路環境。我們所做的每件事都依循著我們的<a href="{ $url }">信條</a>，也是使命的一部分。
 
 ## FAQ section
 
 vpn-landing-faq-heading = 常見問題
 vpn-langing-faq-uses-question-heading = VPN 是什麼，有什麼用途？
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = 隨著我們的日常生活更常發生在網際網路上，在網路上的隱私與安全性也越發重要。VPN（<a href="{ $url }">虛擬私人網路</a>）可幫助您建立安全、私密的網際網路連線。原理是透過在您的裝置與全球的網路世界之間建立一條「通道」，以達到下列兩道防護：
 vpn-landing-faq-uses-conceal = 隱藏您實際的 IP 地址，保護您的個人身分並隱藏實際所在地點。
+vpn-landing-faq-uses-encrypt = 您與 VPN 供應商之間的流量會被加密起來，讓本地區網當中的其他人或電信業者都無法解密或竄改傳輸資料。
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = 看看五組會讓您想要在裝置上使用 VPN 的<a href="{ $url }">生活實際應用</a>。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 會保存哪些資訊？
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = 我們不會記錄、追蹤或與他人分享您的任何網路活動。我們嚴格遵守 { -brand-name-mozilla } 的<a href="{ $url }">隱私資料處理原則</a>，也只會收集為了保持 VPN 運作或改善產品所必須的資料。
 vpn-landing-faq-protected-question-heading = 會如何保護我的隱私權？
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -49,8 +59,14 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android }（
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios }（13.0 或更新版本）
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（僅 { -brand-name-ubuntu } 平台）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策是什麼？
+vpn-landing-faq-refund-question-desc = 您可以在開始訂閱後 30 天內要求退費。若需退費，請點擊 { -brand-name-mozilla-vpn } 應用程式當中的「選項 -> 取得幫助」送出退費要求。
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理訂閱？
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = 若您已經訂閱了 { -brand-name-mozilla-vpn }，可以隨時更改方案或<a href="{ $url }">管理訂閱</a>。
 vpn-landing-faq-link = 看更多常見問題
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = 喔喔！看來您還沒有訂閱。
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
