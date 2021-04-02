@@ -46,6 +46,9 @@ vpn-shared-features-full-list-servers = 參考我們完整的<a href="{ $url }" 
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = 使用位於超過 { $countries } 個國家的強大伺服器
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = 最多可有 { $devices } 台裝置連線
 vpn-shared-refund-policy = 退款政策
 vpn-shared-privacy-notice = 隱私權保護政策
 vpn-shared-terms-conditions = 服務條款
