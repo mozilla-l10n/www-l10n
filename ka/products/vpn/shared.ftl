@@ -24,8 +24,14 @@ vpn-shared-features-bandwidth = შეუზღუდავი გამტა�
 vpn-shared-features-activity = ქსელში მოქმედებების აღურიცხავად
 vpn-shared-features-activity-logs = ინტერნეტში მოქმედებები არ აღირიცხება, არც ახლა და არც არასდროს
 # Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = წვდომა { $servers }+ სერვერთან { $countries }+ ქვეყანაში
+# Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = { $devices }-ზე მეტ მოწყობილობასთან მიერთების საშუალება
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = დაცვა { $devices } მოწყობილობამდე
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -37,6 +43,12 @@ vpn-shared-countries-coming-soon = ხელმისაწვდომი ჯ�
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = იხილეთ, სრული სია <a href="{ $url }" { $attrs }>სერვერების</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = მძლავრი სერვერები { $countries }+ ქვეყანაში
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = კავშირი { $count } მოწყობილობამდე
 vpn-shared-refund-policy = ანაზღაურების დებულება
 vpn-shared-privacy-notice = პირადულობის განაცხადი
 vpn-shared-terms-conditions = პირობები და ვადები
@@ -65,6 +77,24 @@ vpn-shared-pricing-total = { $amount } სულ
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = დავიწყოთ
+vpn-shared-platform-cta-button = იხილეთ ფასები და ხელმისაწვდომობა
+vpn-shared-platform-privacy-promise = თქვენი პირადულობა ჩვენი პირობაა
+vpn-shared-platform-trust-partner-headline = ჩვენი სანდო პარტნიორის შესახებ
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში, რომელთაც უზრუნველყოფს <a href="{ $policy }">{ -brand-name-mullvad }</a>. უმაღლესი დონის <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® ოქმის მეშვეობით. { -brand-name-mullvad } ყველაფერზე წინ თქვენს პირადულობას აყენებს, ასე რომ არანაირი მონაცემები არ აღირიცხება.
+vpn-shared-platform-what-youll-get = რას მოგცემთ { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = კომპიუტერი
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = მობილური
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 
