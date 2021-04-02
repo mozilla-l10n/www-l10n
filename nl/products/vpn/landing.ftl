@@ -65,6 +65,8 @@ vpn-landing-faq-manage-subscription-question-heading = Hoe beheer ik mijn abonne
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Als u al bent geabonneerd op { -brand-name-mozilla-vpn }, dan kunt u op elk gewenst moment uw abonnementsoort wijzigen of <a href="{ $url }">uw abonnement beheren</a>.
 vpn-landing-faq-link = Meer veelgestelde vragen lezen
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Oeps! Het lijkt erop dat u nog geen abonnement hebt.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
