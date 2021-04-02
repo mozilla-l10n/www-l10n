@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Ολική προστασία συσκευής
+vpn-landing-hero-desc = Ένα εικονικό ιδιωτικό δίκτυο (VPN) από τους δημιουργούς του { -brand-name-firefox }.
 vpn-landing-privacy-heading = Απόρρητο με ένα πάτημα
 vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτυο
 vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία που μπορείτε να εμπιστευτείτε

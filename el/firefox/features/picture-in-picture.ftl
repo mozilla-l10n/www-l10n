@@ -9,9 +9,14 @@
 features-pip-firefox-picture-in-picture-get-more = Εικόνας εντός εικόνας { -brand-name-firefox }: Κάντε περισσότερα με αναδυόμενα βίντεο
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Έχετε δουλειές, αλλά θέλετε να δείτε βίντεο; Κάντε τα ταυτόχρονα με τη λειτουργία "Εικόνα εντός εικόνας" στο { -brand-name-firefox }.
+features-pip-new-feature-firefox-multi-picture = Νέα λειτουργία: Πολλαπλά βίντεο σε Εικόνα εντός εικόνας στο { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Φοβερή λειτουργία: Εικόνα εντός εικόνας
 features-pip-get-more-done-with-pop-out-videos = Κάντε περισσότερα με τα αναδυόμενα βίντεο
 features-pip-play-the-video = Αναπαραγωγή βίντεο
 features-pip-heres-how-it-works = Δείτε πώς λειτουργεί:
+features-pip-play-any-video-in-your-updated = <strong>Ξεκινήστε οποιοδήποτε βίντεο</strong>, όπως αυτό, στο { -brand-name-firefox } σας.
+features-pip-play-any-video-in-your = <strong>Ξεκινήστε οποιοδήποτε βίντεο</strong>, όπως αυτό με τα κόκκινα πάντα, στο { -brand-name-firefox } σας.
+features-pip-click-the-picture-in-picture-button = <strong>Κάντε κλικ στο κουμπί</strong> που εμφανίζεται πάνω από το βίντεο, ώστε να ανοίξει σε αναδυόμενο παράθυρο.
+features-pip-cruise-around-to-other = <strong>Περιηγηθείτε σε άλλες καρτέλες</strong> ή ακόμα και εκτός του { -brand-name-firefox }. Το βίντεο παραμένει ορατό!
 features-pip-3-more-ways-to-use-picture = 3 ακόμη τρόποι χρήσης της Εικόνας εντός εικόνας
 features-pip-3-ways-to-use-picture = 3 τρόποι χρήσης της Εικόνας εντός εικόνας
