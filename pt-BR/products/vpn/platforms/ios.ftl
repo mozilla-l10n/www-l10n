@@ -25,3 +25,4 @@ vpn-ios-devices-copy = Com uma única assinatura, você pode ter o { -brand-name
 vpn-ios-speed-headline = Velocidades máximas. Dados ilimitados.
 vpn-ios-speed-copy = Jogue online, assista suas séries favoritas e navegue pela internet em velocidades extremamente rápidas. Não se preocupe com sua largura de banda no { -brand-name-mozilla-vpn }, é ilimitada.
 vpn-ios-log-headline = Seus dados permanecem privativos. Ponto.
+vpn-ios-log-copy = Alguns provedores de VPN registram sua atividade em seus servidores. O { -brand-name-mozilla-vpn } não apenas deixa de rastrear você online, nos opomos veementemente a isso. É enorme parte do que defendemos como empresa.

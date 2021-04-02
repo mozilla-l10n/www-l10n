@@ -10,7 +10,7 @@
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({ -brand-name-ubuntu })
 # Linux strings
-vpn-linux-hero-headline = { -brand-name-mozilla-vpn } para { -brand-name-ubuntu } { -brand-name-linux } — uma combinação de privacidade perfeita
+vpn-linux-hero-headline = { -brand-name-mozilla-vpn } para { -brand-name-ubuntu } { -brand-name-linux }, uma combinação perfeita de privacidade
 vpn-linux-wifi-headline = Permaneça seguro online quando precisar usar uma rede pública de wifi
 vpn-linux-about-headline = Um nome confiável desde 1998
 vpn-linux-privacy-headline = Segurança a apenas 1 clique

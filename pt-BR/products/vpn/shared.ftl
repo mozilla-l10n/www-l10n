@@ -22,7 +22,7 @@ vpn-shared-features-encrypt = Criptografia a nível de dispositivo
 vpn-shared-features-servers = Mais de { $servers } servidores em mais de { $countries } países
 vpn-shared-features-bandwidth = Sem restrições de largura de banda
 vpn-shared-features-activity = Sem registro da sua atividade de rede
-vpn-shared-features-activity-logs = Nenhum registro de atividade online, agora ou nunca
+vpn-shared-features-activity-logs = Nenhum registro de atividade online, nem agora nem nunca
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Acesso a servidores em mais de { $countries } países
@@ -31,7 +31,7 @@ vpn-shared-features-access-countries = Acesso a servidores em mais de { $countri
 vpn-shared-features-devices = Opção de conectar até { $devices } dispositivos
 # Variables:
 #   $devices (number) - number of available devices
-vpn-shared-features-protection = Proteção para até { $devices } dispositivos
+vpn-shared-features-protection = Proteção em até { $devices } dispositivos
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
