@@ -20,7 +20,7 @@ vpn-landing-fast-secure-heading = Red rápida y segura
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } funciona en una red global de servidores con tecnología de <a href="{ $mullvad }" { $attrs }> { -brand-name-mullvad } </a>. Utilizando el protocolo <a href="{ $wireguard }" { $attrs }> { -brand-name-wireguard } ® </a> más avanzado, ciframos tu actividad de red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos los datos de tu red.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } funciona en una red global de servidores con tecnología de <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Utilizando el protocolo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> más avanzado, ciframos tu actividad de red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos los datos de tu red.
 vpn-landing-brand-trust-heading = Una VPN de una marca en la que podés confiar
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
