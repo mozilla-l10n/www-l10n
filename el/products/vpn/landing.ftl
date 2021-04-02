@@ -30,6 +30,9 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 κα
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (Μόνο για { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
 vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζομαι τη συνδρομή μου;
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Αν έχετε ήδη εγγραφεί στο { -brand-name-mozilla-vpn }, μπορείτε να αλλάξετε το πρόγραμμά σας ή να <a href="{ $url }">διαχειριστείτε τη συνδρομή σας</a> ανά πάσα στιγμή.
 vpn-landing-faq-link = Δείτε περισσότερες συχνές ερωτήσεις
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = Ωχ! Φαίνεται ότι δεν έχετε εγγραφεί ακόμα.

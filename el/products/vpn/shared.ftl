@@ -16,6 +16,7 @@ vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο σ�
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers }+ διακομιστές σε { $countries }+ χώρες
 vpn-shared-features-bandwidth = Χωρίς περιορισμούς εύρους ζώνης
+vpn-shared-features-activity = Χωρίς καταγραφή δραστηριότητας δικτύου
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Πρόσβαση σε διακομιστές { $countries }+ χωρών
