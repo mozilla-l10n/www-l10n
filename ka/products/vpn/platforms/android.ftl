@@ -33,3 +33,5 @@ vpn-android-devices-copy = { -brand-name-mozilla-vpn } გაძლევთ შ
 vpn-android-speed-headline = უსწრაფესი სიჩქარეები. შეუზღუდავი კავშირი.
 vpn-android-speed-copy = ითამაშეთ ინტერნეტში, გაუშვით ფილმები ქსელით და იმოგზაურეთ ვებსივრცეში უსწრაფესი სიჩქარით თქვენს { -brand-name-android }-მოწყობილობაზე — შეუზღუდავი გამტარუნარიანობის მეშვეობით.
 vpn-android-log-headline = აღრიცხვების გარეშე. თვალთვალის გარეშე. პირადულობაში ჩარევის გარეშე.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = ბევრი VPN-მომწოდებელი აღრიცხავს თქვენს მოქმედებებს თავიანთ სერვერებზე. ჩვენ ასე არ ვიქცევით. { -brand-name-mozilla-vpn } არასდროს ადევნებს თვალს თქვენს საქმიანობას ინტერნეტში — ეს ეწინააღმდეგება იმ შეხედულებებს, რისთვისაც ჩვენი კომპანია იბრძვის. ჩვენთვის ყველაფერზე უწინარესი და უმაღლესი, თქვენი პირადულობა და უსაფრთხოებაა.
