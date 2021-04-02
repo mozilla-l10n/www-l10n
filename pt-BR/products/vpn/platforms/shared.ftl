@@ -21,3 +21,19 @@ vpn-platforms-shared-feature-item-connect = Conecte até { $devices } dispositiv
 # Variables:
 #   $countries (number) - number of available countries
 vpn-platforms-shared-feature-item-access = Acesso a servidores em mais de { $countries } países
+# Variables:
+#   $countries (number) - number of available countries
+vpn-platforms-shared-feature-item-strong-servers = Servidores poderosos em mais de { $countries } países
+vpn-platforms-shared-feature-item-encryption = Criptografia a nível de dispositivo
+vpn-platforms-shared-feature-item-bandwidth = Sem restrições de largura de banda
+vpn-platforms-shared-feature-item-logs = Nenhum registro de atividade online, nem agora nem nunca
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Computador
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Celular
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = Sobre nosso parceiro de confiança
