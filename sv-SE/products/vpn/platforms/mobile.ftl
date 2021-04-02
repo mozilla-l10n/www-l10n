@@ -32,3 +32,4 @@ vpn-mobile-devices-copy = Din prenumeration ger dig obegränsad tillgång till v
 vpn-mobile-speed-headline = Otrolig hastighet, inga begränsningar
 vpn-mobile-speed-copy = Strömma videor, spela spel, handla och surfa i blixtsnabba hastigheter. { -brand-name-mozilla-vpn } begränsar inte din bandbredd eller slöar ner din smartphone.
 vpn-mobile-log-headline = Din integritet kommer först
+vpn-mobile-log-copy = På { -brand-name-mozilla } samlar vi inte in någon information om vem du är eller loggar din aktivitet online — inte via vår VPN eller någon av våra andra produkter. Att skydda din integritet är en grundprincip för { -brand-name-mozilla }:s större uppdrag.
