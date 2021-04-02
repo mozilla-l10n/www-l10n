@@ -10,6 +10,10 @@ vpn-android-page-title = { -brand-name-mozilla-vpn } för { -brand-name-android 
 vpn-android-page-description = Säkerhet med ett tryck på din { -brand-name-android }-telefon tack vare { -brand-name-mozilla }, ett av de mest betrodda namnen inom teknik.
 # Mobile strings
 vpn-android-hero-headline = Få skydd och integritet online med { -brand-name-mozilla-vpn } för { -brand-name-android }
+vpn-android-ability = Känn dig säker på att dina data är säkra från hackare och nyfikna ögon — både hemma och på offentliga wifi — med { -brand-name-mozilla-vpn }. För priset av en kopp kaffe får dina personuppgifter på din { -brand-name-android }-enhet avancerad kryptering via { -brand-name-wireguard }®-protokollet. Använd { -brand-name-mozilla-vpn } för att strömma program, spela spel, hantera din ekonomi, handla och göra allt annat online med vetskap om att din anslutning är säker.
+vpn-android-maker-of-firefox = Som tillverkare av webbläsaren { -brand-name-firefox } och en av de hårdaste försvararna av integriteten på internet har { -brand-name-mozilla } ett djupt engagemang för din integritet och säkerhet varje gång du är online.
+vpn-android-wifi-headline = Håll dig säker online när du är på resande fot
+vpn-android-wifi-copy = Ibland finns inte trådlösa nätverk tillgängliga och offentliga wifi är ditt enda alternativ. Med { -brand-name-mozilla-vpn } på din { -brand-name-android }-enhet, oroa dig aldrig för att ange ett lösenord på flygplatsen eller göra ett köp online i hörnkaféet — anslut endast med ett klick och gör sedan din grej.
 vpn-android-about-headline = { -brand-name-mozilla } är ett namn du kan lita på
 vpn-android-about-copy = Vi är mest kända för vår webbläsare, { -brand-name-firefox }, men { -brand-name-mozilla } som en större organisation har ett kärnuppdrag — att kämpa för dina rättigheter online. Det är vad vi har gjort hela tiden, sedan 1998. Vi är förespråkare för internet, åtagit oss att se till att det förblir öppet och gratis samtidigt som vi respekterar allas rätt till integritet och säkerhet.
 vpn-android-privacy-headline = Ett klick för att ansluta
