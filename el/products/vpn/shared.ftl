@@ -7,6 +7,7 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
+vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο συσκευής
@@ -16,8 +17,20 @@ vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο σ�
 vpn-shared-features-servers = { $servers }+ διακομιστές σε { $countries }+ χώρες
 vpn-shared-features-bandwidth = Χωρίς περιορισμούς εύρους ζώνης
 # Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Πρόσβαση σε διακομιστές { $countries }+ χωρών
+# Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Επιλογή σύνδεσης έως και { $devices } συσκευών
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Προστασία για έως και { $devices } συσκευές
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Ισχυροί διακομιστές σε { $countries }+ χώρες
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Σύνδεση έως και { $devices } συσκευών
 vpn-shared-refund-policy = Πολιτική επιστροφής
 vpn-shared-privacy-notice = Σημείωση απορρήτου
 vpn-shared-terms-conditions = Όροι και συνθήκες

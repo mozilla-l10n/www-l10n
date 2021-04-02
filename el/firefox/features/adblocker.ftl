@@ -43,6 +43,7 @@ features-adblocker-cookies-are-sent-by-websites = Τα <a href="{ $url }">cookie
 features-adblocker-in-firefox-you-can-block = Στο { -brand-name-firefox }, μπορείτε να αποκλείσετε όλα τα cookies τρίτων ή μόνο τα cookies ιχνηλατών. Σημειώστε ότι η φραγή όλων των cookies μπορεί να προκαλέσει δυσλειτουργίες ιστοσελίδων.
 features-adblocker-send-a-do-not-track-signal = Αίτημα για αποτροπή καταγραφής
 features-adblocker-speed-up-thanks-to-ad = Επιτάχυνση μέσω φραγής διαφημίσεων
+features-adblocker-in-some-cases-an-ad-blocker = Μερικές φορές, η φραγή διαφημίσεων μπορεί να επιταχύνει την περιήγησή σας. Αυτό συμβαίνει επειδή, κατά τη φόρτωση μιας διαφήμισης, επιβραδύνεται η ιστοσελίδα. Ταυτόχρονα, χρειάζεστε περισσότερο χρόνο για να βρείτε αυτό που ψάχνετε όταν πρέπει να κλείνετε τη μία διαφήμιση μετά την άλλη.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more = Αν θέλετε να μάθετε περισσότερα σχετικά με τη φραγή διαφημίσεων, υπάρχουν εκατοντάδες επεκτάσεις φραγής διαφημίσεων για το { -brand-name-firefox } και άλλα προγράμματα περιήγησης. Αν θέλετε να δοκιμάσετε τα πρόσθετα φραγής διαφημίσεων που χρησιμοποιεί το { -brand-name-firefox }, <a href="{ $url }">κάντε κλικ εδώ για λήψη</a> του προγράμματος περιήγησης που δίνει προτεραιότητα στο απόρρητο.

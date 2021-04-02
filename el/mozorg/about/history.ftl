@@ -21,6 +21,9 @@ history-by-creating-an-open-community = Δημιουργώντας μια ανο
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Μέχρι το 2002, <a href="{ $over90 }">πάνω από το 90% των χρηστών του διαδικτύου</a> χρησιμοποιούσε το { -brand-name-ie }.
 # Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = Το 2003, το έργο { -brand-name-mozilla } δημιούργησε το { -brand-name-mozilla-foundation }, έναν <a href="{ $foundation }">ανεξάρτητο, μη κερδοσκοπικό οργανισμό</a> με την υποστήριξη μεμονωμένων δωρητών και διάφορων εταιρειών.
+# Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Το νέο { -brand-name-mozilla-foundation } συνέχισε να διαχειρίζεται τις καθημερινές λειτουργίες του έργου και ανέλαβε επίσημα την προώθηση <a href="{ $manifesto }">της διαφάνειας, της καινοτομίας και των ευκαιριών</a> στο διαδίκτυο.
 # Variables:

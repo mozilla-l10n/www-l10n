@@ -24,11 +24,15 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 κα
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (Μόνο για { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
 vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζομαι τη συνδρομή μου;
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Ωχ! Φαίνεται ότι δεν έχετε εγγραφεί ακόμα.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Εγγραφή στη λίστα αναμονής: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-heading = Εγγραφή στη λίστα αναμονής VPN
 vpn-landing-invite-email-label = Ποια είναι η διεύθυνση email σας;
+vpn-landing-invite-required-label = Απαιτείται
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = Σε ποια χώρα κατοικείτε;
