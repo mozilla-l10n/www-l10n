@@ -9,3 +9,4 @@
 vpn-android-page-title = { -brand-name-mozilla-vpn } per { -brand-name-android }
 # Mobile strings
 vpn-android-hero-headline = Ottieni protezione e privacy online con { -brand-name-mozilla-vpn } per { -brand-name-android }
+vpn-android-privacy-headline = Un tocco per connetterti
