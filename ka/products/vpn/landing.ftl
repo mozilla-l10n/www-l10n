@@ -65,6 +65,8 @@ vpn-landing-faq-manage-subscription-question-heading = როგორ ვმა
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დორს შეგიძლიათ.
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = უჰ! როგორც ჩანს, ჯერ არ გამოგიწერიათ.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

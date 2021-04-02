@@ -22,6 +22,7 @@ vpn-shared-features-encrypt = მოწყობილობის დონე�
 vpn-shared-features-servers = { $servers }+ სერვერი { $countries }+ ქვეყანაში
 vpn-shared-features-bandwidth = შეუზღუდავი გამტარუნარიანობა
 vpn-shared-features-activity = ქსელში მოქმედებების აღურიცხავად
+vpn-shared-features-activity-logs = ინტერნეტში მოქმედებები არ აღირიცხება, არც ახლა და არც არასდროს
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = { $devices }-ზე მეტ მოწყობილობასთან მიერთების საშუალება
@@ -61,6 +62,9 @@ vpn-shared-pricing-save-percent = დაზოგეთ { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } სულ
+
+# Platform subpage shared strings
+
 
 ##
 
