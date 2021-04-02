@@ -24,6 +24,9 @@ vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } is super fácil de usar. To
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = Conecte-se a mais de { $servers } servidores em { $countries } países diferentes
 # Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = O { -brand-name-mozilla-vpn } permite definir a localização de seu computador { -brand-name-linux } em mais de { $countries } países, abrindo a você novos conteúdos empolgantes do mundo todo.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Conecte até { $devices } dispositivos
 vpn-linux-devices-copy = Com uma única assinatura, você pode ter o { -brand-name-mozilla-vpn } em até { $devices } dispositivos em diferentes sistemas operacionais, incluindo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } para { -brand-name-iphone } e { -brand-name-ipad }.
