@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: სრულად და�
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = გამოიყენოთ { -brand-name-mozilla-vpn } მოწყობილობისა და პროგრამების სრულად დასაცავად. { $countries }+ ქვეყანაში არსებული სერვერებით, შეგიძლიათ დაუკავშირდეთ ნებისმიერ ადგილს, ნებისმიერი ადგილიდან.
+vpn-landing-hero-sub-heading-v2 = უსაფრთხოება, საიმედოობა და სიჩქარე — ყველა მოწყობილობაზე, სადაც არ უნდა წახვიდეთ.
+# Obsolete string
 vpn-landing-hero-sub-heading = უსაფრთხოება, რომელსაც შეგიძლიათ დაეყრდნოთ. სახელი, რომელსაც ენდობით.
 vpn-landing-hero-desc = წარმოსახვითი კერძო ქსელი, { -brand-name-firefox }-ის შემქმნელებისგან.
 vpn-landing-privacy-heading = პირადულობა ერთი წკაპით
