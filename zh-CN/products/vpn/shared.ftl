@@ -85,6 +85,7 @@ vpn-shared-platform-trust-partner-headline = 关于我们值得信赖的合作�
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } 运行于由 <a href="{ $policy }">{ -brand-name-mullvad }</a> 提供的全球服务器。使用最先进的 <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® 协议。{ -brand-name-mullvad } 将您的隐私放在首位，不会保留任何形式的日志信息。
+vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } 的特色：
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
