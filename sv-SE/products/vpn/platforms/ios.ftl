@@ -10,6 +10,8 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } för { -brand-name-ios } ({ -br
 vpn-ios-page-description = Få snabb och enkel säkerhet på din { -brand-name-iphone } eller { -brand-name-ipad } genom { -brand-name-mozilla }, ett av de mest betrodda namnen inom teknik.
 # Mobile strings
 vpn-ios-hero-headline = Skydda dig själv online med { -brand-name-mozilla-vpn } för { -brand-name-ios }
+vpn-ios-ability = Känn dig trygg från hackare och nyfikna ögon när du är online — både hemma och ute — med { -brand-name-mozilla-vpn }. För en låg månadsavgift använder det avancerade { -brand-name-wireguard }®-protokollet för att kryptera personuppgifter på din { -brand-name-iphone }, { -brand-name-ipad } och de flesta andra enheter, så att du kan strömma program, spela spel, handla och ha ditt dagliga liv online med vetskap om att du är säker.
+vpn-ios-maker-of-firefox = Som tillverkare av webbläsaren { -brand-name-firefox } och en av de mest betrodda kämparna för integritet på internet är { -brand-name-mozilla } engagerad i att se till att du känner dig trygg och respekterad varje gång du går online.
 vpn-ios-wifi-headline = Håll dig säker online när du är på språng
 vpn-ios-wifi-copy = Använder du offentliga wifi? Inga problem. Med { -brand-name-mozilla-vpn } kan du kolla ditt bankkonto från ett kafé, redigera dina lösenord på ett gathörn — i princip kan du göra allt du normalt gör hemma på din { -brand-name-iphone } eller { -brand-name-ipad } med lugn och ro.
 vpn-ios-about-headline = Varför lita på oss?
