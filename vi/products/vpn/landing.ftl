@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Bảo vệ toàn bộ thi�
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Sử dụng { -brand-name-mozilla-vpn } để bảo vệ toàn bộ thiết bị và các ứng dụng. Với máy chủ ở { $countries }+ các quốc gia, bạn có thể kết nối với mọi nơi, từ bất cứ đâu.
+vpn-landing-hero-sub-heading-v2 = Bảo mật, độ tin cậy và tốc độ — trên mọi thiết bị, mọi nơi bạn đến.
+# Obsolete string
 vpn-landing-hero-sub-heading = Một sự an toàn bạn có thể dựa vào. Một cái tên bạn có thể tin tưởng.
 vpn-landing-hero-desc = Một mạng riêng ảo từ nhà sản xuất { -brand-name-firefox }.
 vpn-landing-privacy-heading = Bảo mật chỉ bằng một lần nhấn
@@ -65,6 +67,8 @@ vpn-landing-faq-manage-subscription-question-heading = Làm cách nào để qu�
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Nếu bạn đã đăng ký { -brand-name-mozilla-vpn }, bạn có thể thay đổi gói hoặc <a href="{ $url }">quản lý thuê bao của mình</a> bất kỳ lúc nào.
 vpn-landing-faq-link = Xem thêm các câu hỏi thường gặp
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Oops! Có vẻ như bạn chưa đăng ký.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

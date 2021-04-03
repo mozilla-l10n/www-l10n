@@ -22,9 +22,16 @@ vpn-shared-features-encrypt = Mã hóa cấp độ thiết bị
 vpn-shared-features-servers = { $servers }+ máy chủ trong { $countries }+ quốc gia
 vpn-shared-features-bandwidth = Không hạn chế băng thông
 vpn-shared-features-activity = Không ghi nhật ký hoạt động mạng của bạn
+vpn-shared-features-activity-logs = Không có nhật ký hoạt động trực tuyến nào ngay bây giờ hoặc từ trước đến nay
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Truy cập vào máy chủ ở hơn { $countries } quốc gia
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Tùy chọn kết nối với { $devices } thiết bị
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Bảo vệ lên tới { $devices } thiết bị
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +43,12 @@ vpn-shared-countries-coming-soon = Hiện có sẵn ở { $countries } quốc gi
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Xem danh sách đầy đủ các <a href="{ $url }" { $attrs }>máy chủ</a> của chúng tôi.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Máy chủ mạnh ở hơn { $countries } quốc gia
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Kết nối lên đến { $devices } thiết bị
 vpn-shared-refund-policy = Chính sách hoàn lại tiền
 vpn-shared-privacy-notice = Thông báo bảo mật
 vpn-shared-terms-conditions = Điều khoản và điều kiện
@@ -61,6 +74,27 @@ vpn-shared-pricing-save-percent = Tiết kiệm { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Tổng cộng { $amount }
+
+# Platform subpage shared strings
+
+vpn-shared-platform-cta-headline = Hãy bắt đầu
+vpn-shared-platform-cta-button = Xem giá cả & tình trạng còn hàng
+vpn-shared-platform-privacy-promise = Sự riêng tư của bạn là sứ mệnh của chúng tôi
+vpn-shared-platform-trust-partner-headline = Về đối tác đáng tin cậy của chúng tôi
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } chạy trên mạng toàn cầu gồm các máy chủ được cung cấp bởi <a href="{ $policy }">{ -brand-name-mullvad }</a> bằng cách sử dụng giao thức <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } đặt quyền riêng tư của bạn lên hàng đầu và không lưu giữ nhật ký dưới bất kỳ hình thức nào.
+vpn-shared-platform-what-youll-get = Những gì bạn sẽ nhận được với { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Máy tính để bàn
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Di động
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 
