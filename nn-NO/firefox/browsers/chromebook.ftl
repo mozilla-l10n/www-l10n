@@ -8,6 +8,7 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-browser = Last ned { -brand-name-firefox-browser } for { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
 
 # Variables:
