@@ -19,13 +19,13 @@ vpn-platforms-shared-feature-item-protection = 保护多达 { $devices } 台设�
 vpn-platforms-shared-feature-item-connect = 连接多达 { $devices } 台设备
 # Variables:
 #   $countries (number) - number of available countries
-vpn-platforms-shared-feature-item-access = 可访问 { $countries }+ 个国家/地区的服务器
+vpn-platforms-shared-feature-item-access = 访问 { $countries }+ 个国家/地区的服务器
 # Variables:
 #   $countries (number) - number of available countries
 vpn-platforms-shared-feature-item-strong-servers = { $countries }+ 个国家/地区的高性能服务器
 vpn-platforms-shared-feature-item-encryption = 设备级加密
 vpn-platforms-shared-feature-item-bandwidth = 无带宽限制
-vpn-platforms-shared-feature-item-logs = 永远不会记录您的在线活动
+vpn-platforms-shared-feature-item-logs = 永不记录您的在线活动
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }

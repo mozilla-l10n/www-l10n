@@ -22,10 +22,10 @@ vpn-shared-features-encrypt = 设备级加密
 vpn-shared-features-servers = { $countries }+ 个国家/地区的 { $servers }+ 台服务器
 vpn-shared-features-bandwidth = 无带宽限制
 vpn-shared-features-activity = 不会记录您的网络活动
-vpn-shared-features-activity-logs = 永远不会记录您的在线活动
+vpn-shared-features-activity-logs = 永不记录您的在线活动
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-features-access-countries = 可访问 { $countries }+ 个国家/地区的服务器
+vpn-shared-features-access-countries = 访问 { $countries }+ 个国家/地区的服务器
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = 最多可在 { $devices } 台设备中使用
