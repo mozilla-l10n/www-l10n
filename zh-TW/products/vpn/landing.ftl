@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: 保護您的整台裝置
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = 使用 { -brand-name-mozilla-vpn }，完整保護您整台裝置上的所有軟體。您可以隨時隨地透過超過 { $countries } 個國家的伺服器，連線到任何地方。
+vpn-landing-hero-sub-heading-v2 = 隨時隨地，在每一台裝置上獲得安全性、可靠性與速度。
+# Obsolete string
 vpn-landing-hero-sub-heading = 您可以倚靠的安全性、您信任的品牌。
 vpn-landing-hero-desc = 由 { -brand-name-firefox } 製造者所推出的 VPN 虛擬私人網路。
 vpn-landing-privacy-heading = 隱私保護一點即開
