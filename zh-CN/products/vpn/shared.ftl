@@ -22,9 +22,16 @@ vpn-shared-features-encrypt = 设备级加密
 vpn-shared-features-servers = { $countries }+ 个国家/地区的 { $servers }+ 台服务器
 vpn-shared-features-bandwidth = 无带宽限制
 vpn-shared-features-activity = 不会记录您的网络活动
+vpn-shared-features-activity-logs = 永远不会记录您的在线活动
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = 可访问 { $countries }+ 个国家/地区的服务器
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = 最多可在 { $devices } 台设备中使用
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = 保护多达 { $devices } 台设备
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +43,12 @@ vpn-shared-countries-coming-soon = 现已在 { $countries } 个国家/地区推�
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = 浏览我们完整的<a href="{ $url }" { $attrs }>服务器列表</a>。
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = { $countries }+ 个国家/地区的高性能服务器
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = 连接多达 { $devices } 台设备
 vpn-shared-refund-policy = 退款政策
 vpn-shared-privacy-notice = 隐私声明
 vpn-shared-terms-conditions = 使用条款
@@ -64,6 +77,14 @@ vpn-shared-pricing-total = 总金额 { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = 开始使用
+vpn-shared-platform-cta-button = 看看价格与已推出区域
+vpn-shared-platform-privacy-promise = 您的隐私是我们的承诺
+vpn-shared-platform-trust-partner-headline = 关于我们值得信赖的合作伙伴
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } 运行于由 <a href="{ $policy }">{ -brand-name-mullvad }</a> 提供的全球服务器。使用最先进的 <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® 协议。{ -brand-name-mullvad } 将您的隐私放在首位，不会保留任何形式的日志信息。
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }

@@ -9,3 +9,4 @@
 # Meta strings
 
 vpn-windows-page-title = 适用于 { -brand-name-windows } 10 的 { -brand-name-mozilla-vpn }
+vpn-windows-log-headline = 您的隐私是我们的第一要务
