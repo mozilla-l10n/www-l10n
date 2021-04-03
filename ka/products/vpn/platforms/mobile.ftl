@@ -18,9 +18,17 @@ vpn-mobile-wifi-headline = იყავით დაცული საჯარ
 vpn-mobile-wifi-copy = ჩვენი VPN იცავს თქვენს ინტერნეტკავშირს ჰაკერებისა და მეთვალყურეებისგან, ასე რომ შეგიძლიათ შეიძინოთ საყიდლები ყავახანიდან, შეამოწმოთ თქვენი საბანკო ანგარიში მატარებლიდან და აკეთოთ საქმე ინტერნეტში იმის გაცნობიერებით, რომ თქვენი IP-მისამართი დაცული იქნება.
 vpn-mobile-about-headline = { -brand-name-mozilla }-ს შესახებ
 vpn-mobile-privacy-headline = პირადულობა ერთი წკაპით
+vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn }-აპლიკაცია შიფრავს თქვენს ინტერნეტკავშირს და ფარავს IP-მისამართს თქვენს მობილურზე ან პლანშეტზე მაღალი დონის { -brand-name-wireguard }® ოქმით.
 vpn-mobile-servers-headline = კავშირი სერვერებთან მთელ მსოფლიოში
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = მოინახულეთ გვერდები ბრაზილიიდან. ითამაშეთ იაპონიიდან. ეთერში გაუშვით ავსტრალიიდან. { -brand-name-mozilla-vpn } საშუალებას გაძლევთ ჩანააცვლოთ თქვენი ტელეფონის ან კომპიუტერის მდებარეობა { $servers }+ სერვერიდან რომელიმეთი, { $countries } ქვეყნიდან.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = დაცვა { $devices } მოწყობილობამდე
+vpn-mobile-devices-copy = თქვენი ხელშეკრულებით მიიღებთ შეუზღუდავ წვდომას ჩვენს დაცულ VPN-მომსახურებასთან თქვენს სმარტფონზე, პლანშეტსა და კომპიუტერზე { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } და { -brand-name-linux }-სისტემებისთვის.
 vpn-mobile-speed-headline = წარმოუდგენელი სიჩქარე, შეზღუდვების გარეშე
+vpn-mobile-speed-copy = გაუშვით ეთერში ვიდეოები, ითამაშეთ, შეიძინეთ საყიდლები და იმოგზაურეთ ინტერნეტში უსწრაფესი სიჩქარით. { -brand-name-mozilla-vpn } არ ზღუდავს გამტარუნარიანობას და არ ანელებს ტელეფონს.
 vpn-mobile-log-headline = თქვენი პირადულობა უწინარესია
+vpn-mobile-log-copy = { -brand-name-mozilla }-ში, ჩვენ არ ვაგროვებთ თქვენი ვინაობის შესახებ მონაცემებს და არ აღვრიცხავთ თქვენს მოქმედებებს ინტერნეტში — არც ჩვენი VPN-ით და არც სხვა პროდუქტებით. თქვენი პირადულობის დაცვა ძირითადი საფუძველია, { -brand-name-mozilla }-ს დიადი მიზნის.
