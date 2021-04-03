@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-android-page-title = 适用于 { -brand-name-android } 的 { -brand-name-mozilla-vpn }
+vpn-android-wifi-headline = 在旅途中保持在线安全
 vpn-android-about-headline = { -brand-name-mozilla } 是值得您信赖的品牌
 vpn-android-privacy-headline = 一键连接
 # Variables:
@@ -16,4 +17,5 @@ vpn-android-servers-headline = 超过 { $countries } 个国家/地区的 { $serv
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = 一次订阅，多达 { $devices } 设备可用
+vpn-android-speed-headline = 速度超快，不限流量。
 vpn-android-log-headline = 不记录、不跟踪、不侵犯隐私。

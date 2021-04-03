@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-ios-page-title = 适用于 { -brand-name-ios }（{ -brand-name-iphone } 和 { -brand-name-ipad }）的 { -brand-name-mozilla-vpn }
+# Mobile strings
+vpn-ios-hero-headline = 使用 { -brand-name-ios } 版 { -brand-name-mozilla-vpn } 保护您的在线安全
 vpn-ios-wifi-headline = 在旅途中保持在线安全
 vpn-ios-about-headline = 凭什么信任我们？
 vpn-ios-privacy-headline = 一键连接
