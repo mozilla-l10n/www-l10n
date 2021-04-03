@@ -9,3 +9,8 @@
 # Meta strings
 
 vpn-mac-page-title = 适用于 { -brand-name-mac-short } 的 { -brand-name-mozilla-vpn }
+vpn-mac-privacy-headline = 隐私，一触即得
+vpn-mac-servers-headline = 访问世界各地的服务器
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = 一次订阅即可保护 { $devices } 台设备
