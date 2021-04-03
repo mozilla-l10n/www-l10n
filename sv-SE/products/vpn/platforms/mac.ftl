@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } för { -brand-name-mac-short }
+vpn-mac-page-description = Oavsett om det är på en { -brand-name-mac-short }-stationär dator, -laptop, { -brand-name-ipad } eller { -brand-name-iphone }, skydda hela din enhet från hackare och nyfikna ögon med ett VPN från { -brand-name-mozilla }, en pionjär inom internetsäkerhet sedan 1998.
 # Mac strings
 vpn-mac-hero-headline = Skydda din anslutning online med { -brand-name-mozilla-vpn } för { -brand-name-mac-short }
 vpn-mac-wifi-headline = Känn dig säker på offentliga wifi
