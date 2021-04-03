@@ -14,5 +14,8 @@ vpn-ios-privacy-headline = Σύνδεση με 1 πάτημα
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Συνδεθείτε σε { $servers }+ διακομιστές παγκοσμίως
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Πρόσβαση για { $devices } συσκευές
 vpn-ios-speed-headline = Κορυφαίες ταχύτητες. Απεριόριστα δεδομένα.
 vpn-ios-log-headline = Τα δεδομένα σας παραμένουν ιδιωτικά. Τελεία και παύλα.
