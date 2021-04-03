@@ -20,4 +20,15 @@ vpn-mac-about-copy = Sedan 1998 har den ideella organisationen { -brand-name-moz
 vpn-mac-privacy-headline = Integritet inom räckhåll
 vpn-mac-privacy-copy = Med { -brand-name-mozilla-vpn } är din internetanslutning krypterad och din IP-adress skyddas från hackare och nyfikna internetleverantörer tack vare { -brand-name-wireguard }® avancerade protokoll.
 vpn-mac-servers-headline = Tillgång till servrar runt om i världen
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Ställ in platsen för din { -brand-name-mac-short } till mer än { $servers } servrar i över { $countries } länder. På det här sättet kan du kolla nyheter, shoppa, strömma och surfa på nätet från nästan var som helst.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Skydda { $devices } enheter med en prenumeration
+vpn-mac-devices-copy = Din dator, surfplatta och smartphone förtjänar alla att vara säkra. Använd { -brand-name-mozilla-vpn } för att skydda upp till { $devices } { -brand-name-mac-short }- och { -brand-name-ios }-enheter (samt { -brand-name-windows }, { -brand-name-linux } och { -brand-name-android }).
+vpn-mac-speed-headline = Ingen orsak att offra hastighet
+vpn-mac-speed-copy = Obegränsad data och inga bandbreddsbegränsningar gör att du kan utforska internet som du normalt gör — med en extra säkerhetsnivå.
 vpn-mac-log-headline = Vad du gör online är din ensak
+vpn-mac-log-copy = Njut av sinnesfrid när du använder { -brand-name-mozilla-vpn }. Dina uppgifter är krypterade, din aktivitet loggas aldrig och din integritet skyddas alltid. Det är vårt löfte till dig.
