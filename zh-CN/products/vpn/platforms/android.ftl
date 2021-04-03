@@ -13,4 +13,7 @@ vpn-android-privacy-headline = 一键连接
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = 超过 { $countries } 个国家/地区的 { $servers }+ 台服务器
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = 一次订阅，多达 { $devices } 设备可用
 vpn-android-log-headline = 不记录、不跟踪、不侵犯隐私。
