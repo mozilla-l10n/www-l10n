@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = 适用于桌面系统（PC 和笔记本电脑）的 { -brand-name-mozilla-vpn }
 vpn-desktop-wifi-headline = 放心使用公共 WI-FI
 vpn-desktop-wifi-copy = 我们的 VPN 可以保护您的互联网连接不受黑客和间谍的攻击，因此您可以在咖啡店购物，在火车上查看您的银行账户，并在任何地方开展您的在线业务，而无需担心安全问题。
 vpn-desktop-about-headline = 关于 { -brand-name-mozilla }
