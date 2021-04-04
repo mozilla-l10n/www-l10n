@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-linux-page-title = 适用于 { -brand-name-linux }（{ -brand-name-ubuntu }）的 { -brand-name-mozilla-vpn }
+# Linux strings
+vpn-linux-hero-headline = 适用于 { -brand-name-ubuntu } { -brand-name-linux } 的 { -brand-name-mozilla-vpn } — 隐私界的天作之合
 vpn-linux-wifi-headline = 放心使用公共 Wi-Fi
 vpn-linux-about-headline = 可信赖的品牌，始于 1998
 # Variables:
