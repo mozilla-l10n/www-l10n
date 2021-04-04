@@ -18,3 +18,7 @@ vpn-windows-about-headline = Dal leader della privacy su Internet
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } critta la tua connessione a Internet e protegge il tuo indirizzo IP da occhi indiscreti sul tuo PC o portatile tramite il protocollo avanzato { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Accedi ai server in tutto il mondo
 vpn-windows-devices-headline = Un abbonamento per tutti i tuoi dispositivi
+vpn-windows-speed-headline = Nessuna limitazione di banda
+vpn-windows-speed-copy = Guarda o trasmetti in streaming, gioca, acquista ed esplora il Web a velocità incredibili. Con dati illimitati e nessuna limitazione di banda, { -brand-name-mozilla-vpn } non ti rallenta.
+vpn-windows-log-headline = La tua privacy è la nostra priorità
+vpn-windows-log-copy = { -brand-name-mozilla } non smetterà mai di lavorare per un Internet migliore che mette la tua privacy al primo posto. Ecco perché { -brand-name-mozilla-vpn } non raccoglie dati su di te o traccia la tua attività online, nessuno dei nostri prodotti lo fa.
