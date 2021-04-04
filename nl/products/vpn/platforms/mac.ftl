@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } voor { -brand-name-mac-short }
+vpn-mac-wifi-headline = Voel u veilig op twijfelachtige wifi
 vpn-mac-about-headline = Van een vertrouwde technologiebouwer
 vpn-mac-privacy-headline = Privacy binnen handbereik
 vpn-mac-servers-headline = Toegang tot servers over de hele wereld

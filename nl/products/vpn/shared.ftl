@@ -22,9 +22,16 @@ vpn-shared-features-encrypt = Versleuteling op apparaatniveau
 vpn-shared-features-servers = Meer dan { $servers } servers in meer dan { $countries } landen
 vpn-shared-features-bandwidth = Geen bandbreedtebeperkingen
 vpn-shared-features-activity = Geen logging van uw netwerkactiviteit
+vpn-shared-features-activity-logs = Nooit logs van uw online activiteit
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Toegang tot servers in meer dan { $countries } landen
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Optie om maximaal { $devices } apparaten te verbinden
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Bescherming voor maximaal { $devices } apparaten
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +43,12 @@ vpn-shared-countries-coming-soon = Momenteel beschikbaar in { $countries } lande
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Bekijk onze volledige lijst met <a href="{ $url }" { $attrs }>servers</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Krachtige servers in meer dan { $countries } landen
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Verbind maximaal { $devices } apparaten
 vpn-shared-refund-policy = Restitutiebeleid
 vpn-shared-privacy-notice = Privacyverklaring
 vpn-shared-terms-conditions = Voorwaarden
@@ -61,6 +74,23 @@ vpn-shared-pricing-save-percent = Bespaar { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } in totaal
+
+# Platform subpage shared strings
+
+vpn-shared-platform-cta-headline = Laten we beginnen
+vpn-shared-platform-cta-button = Prijzen & beschikbaarheid
+vpn-shared-platform-privacy-promise = Uw privacy is onze belofte
+vpn-shared-platform-trust-partner-headline = Over onze vertrouwde partner
+vpn-shared-platform-what-youll-get = Wat u krijgt met { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Desktop
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Mobiel
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 

@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: bescherm uw gehele apparaa
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Gebruik de { -brand-name-mozilla-vpn } voor bescherming voor alle apps op uw gehele apparaat. Met servers in meer dan { $countries } landen kunt overal met elke locatie verbinding maken.
+vpn-landing-hero-sub-heading-v2 = Beveiliging, betrouwbaarheid en snelheid – op elk apparaat, waar u ook bent.
+# Obsolete string
 vpn-landing-hero-sub-heading = Beveiliging waarop u kunt vertrouwen. Een naam die u kunt vertrouwen.
 vpn-landing-hero-desc = Een Virtual Private Network van de makers van { -brand-name-firefox }.
 vpn-landing-privacy-heading = Eén tik naar privacy

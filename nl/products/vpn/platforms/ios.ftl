@@ -10,6 +10,7 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } voor { -brand-name-ios } ({ -br
 vpn-ios-page-description = Ontvang snelle, eenvoudige beveiliging op uw { -brand-name-iphone } of { -brand-name-ipad } via { -brand-name-mozilla }, een van de meest vertrouwde namen in technologie.
 # Mobile strings
 vpn-ios-hero-headline = Bescherm uzelf online met { -brand-name-mozilla-vpn } voor { -brand-name-ios }
+vpn-ios-wifi-headline = Blijf onderweg online veilig
 vpn-ios-about-headline = Waarom kunt u ons vertrouwen?
 # Variables:
 #   $servers (number) - number of available servers
