@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Védje meg a teljes eszkö
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Használja a { -brand-name-mozilla-vpn }-t a teljes eszközvédelemhez, minden alkalmazáshoz. Kiszolgálókkal { $countries }+ országban, bárhová és bárhonnan kapcsolódhat.
+vpn-landing-hero-sub-heading-v2 = Biztonság, megbízhatóság és sebesség – minden eszközön, bárhová is megy.
+# Obsolete string
 vpn-landing-hero-sub-heading = A biztonság, amelyre támaszkodhat. A név, amelyben megbízhat.
 vpn-landing-hero-desc = Virtuális magánhálózat a { -brand-name-firefox } készítőitől.
 vpn-landing-privacy-heading = Egy koppintás az adatvédelemhez
@@ -65,6 +67,8 @@ vpn-landing-faq-manage-subscription-question-heading = Hogyan kezelhetem az elő
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Ha már előfizetett a { -brand-name-mozilla-vpn } szolgáltatásra, akkor bármikor módosíthatja a csomagját vagy <a href="{ $url }">kezelheti az előfizetését</a>.
 vpn-landing-faq-link = További GYIK bejegyzések megtekintése
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Hoppá! Úgy tűnik, hogy még nem iratkozott fel.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
