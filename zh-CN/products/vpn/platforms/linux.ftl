@@ -13,6 +13,7 @@ vpn-linux-page-title = 适用于 { -brand-name-linux }（{ -brand-name-ubuntu }�
 vpn-linux-hero-headline = 适用于 { -brand-name-ubuntu } { -brand-name-linux } 的 { -brand-name-mozilla-vpn } — 隐私界的天作之合
 vpn-linux-wifi-headline = 放心使用公共 Wi-Fi
 vpn-linux-about-headline = 可信赖的品牌，始于 1998
+vpn-linux-privacy-headline = 隐私，一点即得
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
