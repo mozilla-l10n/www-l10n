@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-windows-page-title = 适用于 { -brand-name-windows } 10 的 { -brand-name-mozilla-vpn }
+vpn-windows-page-description = 通过虚拟专用网络（VPN）保护您的整台 PC，由自 1998 年起一直为您的数字隐私而战的互联网先驱 { -brand-name-mozilla } 出品。
 vpn-windows-wifi-headline = 在公共 WI-FI 下保护隐私
 vpn-windows-about-headline = 来自互联网隐私的领导者
 vpn-windows-about-copy = 作为 { -brand-name-firefox-browser }背后的非营利组织，{ -brand-name-mozilla } 是一个由来自世界各地的互联网公民组成的社区，致力于为所有人保持互联网的自由和资源开放。{ -brand-name-mozilla } 的使命是以人为本，先于利润，确保我们的每一件产品都以您为先。
