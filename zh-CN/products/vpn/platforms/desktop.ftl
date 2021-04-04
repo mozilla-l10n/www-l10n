@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-desktop-page-title = 适用于桌面系统（PC 和笔记本电脑）的 { -brand-name-mozilla-vpn }
+# Desktop strings
+vpn-desktop-hero-headline = 使用 { -brand-name-mozilla-vpn } 桌面版保护您的网络连接
 vpn-desktop-wifi-headline = 放心使用公共 WI-FI
 vpn-desktop-wifi-copy = 我们的 VPN 可以保护您的互联网连接不受黑客和间谍的攻击，因此您可以在咖啡店购物，在火车上查看您的银行账户，并在任何地方开展您的在线业务，而无需担心安全问题。
 vpn-desktop-about-headline = 关于 { -brand-name-mozilla }
@@ -15,6 +17,7 @@ vpn-desktop-servers-headline = 连接世界各地的服务器
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = 保护多达 { $devices } 台设备
+vpn-desktop-devices-copy = 完成订阅后，即可在 { -brand-name-ios }、{ -brand-name-android }、{ -brand-name-mac-short }、{ -brand-name-windows } 和 { -brand-name-linux } 的智能手机、平板电脑和台式机上无限制地访问我们的安全 VPN 服务。
 vpn-desktop-speed-headline = 超快速，不限速
 vpn-desktop-speed-copy = 看直播、玩游戏、电商购物，或是普通浏览，速度都超快。{ -brand-name-mozilla-vpn } 不会限制您的带宽或拖慢手机。
 vpn-desktop-log-headline = 将您的隐私放在首位

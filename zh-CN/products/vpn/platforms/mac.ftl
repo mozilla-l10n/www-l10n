@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-mac-page-title = 适用于 { -brand-name-mac-short } 的 { -brand-name-mozilla-vpn }
+# Mac strings
+vpn-mac-hero-headline = 使用 { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn } 保护您的网络连接
 vpn-mac-wifi-headline = 放心使用公共 Wi-Fi
 vpn-mac-privacy-headline = 隐私，一触即得
 vpn-mac-servers-headline = 访问世界各地的服务器
