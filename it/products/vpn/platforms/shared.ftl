@@ -10,12 +10,20 @@ vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = Iniziamo
 vpn-platforms-shared-cta = Visualizza prezzi e disponibilità
 vpn-platforms-shared-day-guarantee = Garanzia “soddisfatti o rimborsati” di 30 giorni
+vpn-platforms-shared-what-youll-get = Che cosa avrai con { -brand-name-mozilla-vpn }:
+vpn-platforms-shared-privacy-headline = Il nostro impegno è per la tua privacy
 # Variables:
 #   $devices (number) - number of available devices
 vpn-platforms-shared-feature-item-protection = Protezione per un massimo di { $devices } dispositivi
 # Variables:
 #   $devices (number) - number of available devices
 vpn-platforms-shared-feature-item-connect = Possibilità di connettere fino a { $devices } dispositivi
+# Variables:
+#   $countries (number) - number of available countries
+vpn-platforms-shared-feature-item-access = Accesso a server in più di { $countries } Paesi
+# Variables:
+#   $countries (number) - number of available countries
+vpn-platforms-shared-feature-item-strong-servers = Server potenti in più di { $countries } Paesi
 vpn-platforms-shared-feature-item-encryption = Crittografia a livello di dispositivo
 vpn-platforms-shared-feature-item-bandwidth = Nessuna limitazione alla larghezza di banda
 vpn-platforms-shared-feature-item-logs = Nessun registro delle attività online, né ora né mai
