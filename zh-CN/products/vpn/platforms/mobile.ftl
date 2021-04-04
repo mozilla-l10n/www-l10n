@@ -9,6 +9,7 @@
 vpn-mobile-page-title = 适用于移动设备（智能手机和平板电脑）的 { -brand-name-mozilla-vpn }
 vpn-mobile-wifi-headline = 放心使用公共 WI-FI
 vpn-mobile-about-headline = 关于 { -brand-name-mozilla }
+vpn-mobile-privacy-headline = 隐私，一点即得
 vpn-mobile-servers-headline = 连接世界各地的服务器
 # Variables:
 #   $devices (number) - number of available devices

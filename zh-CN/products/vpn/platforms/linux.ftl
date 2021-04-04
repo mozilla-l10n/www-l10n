@@ -10,6 +10,7 @@
 
 vpn-linux-page-title = 适用于 { -brand-name-linux }（{ -brand-name-ubuntu }）的 { -brand-name-mozilla-vpn }
 vpn-linux-wifi-headline = 放心使用公共 Wi-Fi
+vpn-linux-about-headline = 可信赖的品牌，始于 1998
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers

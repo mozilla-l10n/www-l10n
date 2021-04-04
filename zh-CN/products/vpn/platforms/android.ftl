@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-android-page-title = 适用于 { -brand-name-android } 的 { -brand-name-mozilla-vpn }
+# Mobile strings
+vpn-android-hero-headline = 获取 { -brand-name-android } 版 { -brand-name-mozilla-vpn }，保护您的在线隐私。
 vpn-android-wifi-headline = 在旅途中保持在线安全
 vpn-android-about-headline = { -brand-name-mozilla } 是值得您信赖的品牌
 vpn-android-privacy-headline = 一键连接

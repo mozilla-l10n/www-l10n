@@ -10,6 +10,7 @@ vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = 开始使用
 vpn-platforms-shared-cta = 看看价格与已推出区域
 vpn-platforms-shared-day-guarantee = 30 天退款保证
+vpn-platforms-shared-what-youll-get = { -brand-name-mozilla-vpn } 的特色：
 vpn-platforms-shared-privacy-headline = 您的隐私是我们的承诺
 # Variables:
 #   $devices (number) - number of available devices
