@@ -20,4 +20,5 @@ vpn-linux-servers-headline = 连接 { $countries } 个国家/地区的 { $server
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = 连接多达 { $devices } 台设备
+vpn-linux-speed-headline = 速度超快，不限流量
 vpn-linux-log-headline = 您的数据只属于您

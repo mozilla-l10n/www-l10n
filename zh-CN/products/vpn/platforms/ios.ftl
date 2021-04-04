@@ -11,7 +11,7 @@ vpn-ios-page-title = 适用于 { -brand-name-ios }（{ -brand-name-iphone } 和 
 vpn-ios-hero-headline = 使用 { -brand-name-ios } 版 { -brand-name-mozilla-vpn } 保护您的在线安全
 vpn-ios-wifi-headline = 在旅途中保持在线安全
 vpn-ios-about-headline = 凭什么信任我们？
-vpn-ios-privacy-headline = 一键连接
+vpn-ios-privacy-headline = 一点即连接
 vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } 十分易用。只需轻触按钮，即会使用 { -brand-name-wireguard }® 协议加密您的连接，掩藏您 { -brand-name-iphone } 或 { -brand-name-ipad } 的 IP 地址。
 # Variables:
 #   $servers (number) - number of available servers
