@@ -13,6 +13,7 @@ vpn-android-hero-headline = Tenha proteção e privacidade online com o { -brand
 vpn-android-wifi-headline = Permaneça seguro online quando estiver em movimento
 vpn-android-about-headline = A { -brand-name-mozilla } é um nome em que você pode confiar
 vpn-android-privacy-headline = Um toque para conectar
+vpn-android-privacy-copy = Usar o { -brand-name-mozilla-vpn } para { -brand-name-android } é super simples. Toque em um botão e sua conexão é automaticamente criptografada com o avançado protocolo { -brand-name-wireguard }®. Só isso!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
