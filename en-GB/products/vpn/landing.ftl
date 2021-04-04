@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protect Your Entire Device
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Use the { -brand-name-mozilla-vpn } for full-device protection for all apps. With servers in { $countries }+ countries, you can connect to anywhere, from anywhere.
+vpn-landing-hero-sub-heading-v2 = Security, reliability and speed — on every device, anywhere you go.
+# Obsolete string
 vpn-landing-hero-sub-heading = Security you can rely on. A name you can trust.
 vpn-landing-hero-desc = A Virtual Private Network from the makers of { -brand-name-firefox }.
 vpn-landing-privacy-heading = One tap to privacy
@@ -65,6 +67,8 @@ vpn-landing-faq-manage-subscription-question-heading = How do I manage my subscr
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = If you’re already subscribed to { -brand-name-mozilla-vpn }, you can change your plan or <a href="{ $url }">manage your subscription</a> anytime.
 vpn-landing-faq-link = See more FAQs
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Oops! It looks like you haven’t subscribed yet.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
