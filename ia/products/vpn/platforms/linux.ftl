@@ -23,7 +23,7 @@ vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es super facile a usar. Toc
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
-vpn-linux-servers-headline = Connecte te a ultra { $servitores } servitores in { $paises } paises differente
+vpn-linux-servers-headline = Connecte te a ultra { $servers } servitores in { $countries } paises differente
 # Variables:
 #   $countries (number) - number of available countries
-vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da le capacitate de definir le position de tu computator basate sur { -brand-name-linux } a un del ultra { $countries } paises, aperiente te a excitante nove contento de tote le mundo.
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da le capacitate de predefinir le position de tu computator basate sur { -brand-name-linux } a un del ultra { $countries } paises, aperiente te a excitante nove contento de tote le mundo.
