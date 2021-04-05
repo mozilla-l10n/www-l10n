@@ -7,7 +7,9 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Škitajće swój cyły grat
+# Obsolete string
 vpn-landing-hero-sub-heading = Wěstota, na kotruž móžeće so spušćić. Mjeno, kotremuž móžeće dowěrić.
+vpn-landing-hero-desc = Wirtualna priwatna syć wot wuwiwarjow { -brand-name-firefox }.
 vpn-landing-privacy-heading = Priwatnosć z jednym podótkom
 vpn-landing-fast-secure-heading = Spěšna a wěsta syć
 vpn-landing-brand-trust-heading = VPN wot marki, kotrejž móžeće dowěrić
