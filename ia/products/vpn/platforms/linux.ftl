@@ -27,3 +27,7 @@ vpn-linux-servers-headline = Connecte te a ultra { $servers } servitores in { $c
 # Variables:
 #   $countries (number) - number of available countries
 vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da le capacitate de predefinir le position de tu computator basate sur { -brand-name-linux } a un del ultra { $countries } paises, aperiente te a excitante nove contento de tote le mundo.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = Connecte te a maximo { $devices } apparatos
+vpn-linux-devices-copy = Con un subscription, tu pote installar { -brand-name-mozilla-vpn } sur maximo { $devices } apparatos differente inter systemas operative, includente { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } pro { -brand-name-iphone } e { -brand-name-ipad }.
