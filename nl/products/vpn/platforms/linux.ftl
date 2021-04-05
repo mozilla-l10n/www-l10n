@@ -19,12 +19,19 @@ vpn-linux-wifi-copy = Soms is openbare wifi uw beste en enige optie. Met { -bran
 vpn-linux-about-headline = Een vertrouwde naam sinds 1998
 vpn-linux-about-copy = Als makers van de webbrowser { -brand-name-firefox } strijdt { -brand-name-mozilla } al decennia lang voor uw online rechten – dat is wat we doen. Als het alternatief voor technologiebedrijven die big data verzamelen zijn we voortdurend op zoek naar nieuwe manieren om het internet open en vrij te houden en tegelijkertijd ieders recht op privacy te respecteren.
 vpn-linux-privacy-headline = Beveiliging slechts één klik verwijderd
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } is supergemakkelijk te gebruiken. Tik op een knop en het versleutelt uw verbinding en verhult het IP-adres op uw { -brand-name-iphone } of { -brand-name-ipad } met behulp van het geavanceerde { -brand-name-wireguard }®-protocol.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = Maak verbinding met meer dan { $servers } servers in meer dan { $countries } verschillende landen
 # Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } geeft u de mogelijkheid om de locatie van uw { -brand-name-linux }-gebaseerde computer in te stellen op een van de meer dan { $countries } landen, waardoor een wereld van opwindende nieuwe inhoud voor u opengaat.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Verbind maximaal { $devices } apparaten
+vpn-linux-devices-copy = Met één abonnement kunt u { -brand-name-mozilla-vpn } op maximaal { $devices } verschillende apparaten op verschillende besturingssystemen ontvangen, waaronder { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } en { -brand-name-ios } voor { -brand-name-iphone } en { -brand-name-ipad }.
 vpn-linux-speed-headline = Ultrasnel met onbeperkte data
+vpn-linux-speed-copy = Speel games, stream films en programma’s en surf op het web met ultrahoge snelheden en zonder beperking van de bandbreedte – { -brand-name-mozilla-vpn } is onbeperkt.
 vpn-linux-log-headline = Uw gegevens zijn van u
+vpn-linux-log-copy = Sommige VPN’s loggen uw activiteit op hun servers. { -brand-name-mozilla-vpn } volgt u niet online – dat is in feite een groot deel van waar we als bedrijf voor staan.
