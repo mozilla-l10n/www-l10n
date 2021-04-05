@@ -47,4 +47,11 @@ misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a most
 #   $pocket (url) - link to https://getpocket.com/
 misinformation-surface-content-desc = Cuando abres una nueva pestaña en tu navegador { -brand-name-firefox }, verás artículos <a href="{ $recommended }">recomendados por { -brand-name-pocket }</a>. { -brand-name-pocket } no utiliza ningún dato personal para hacer recomendaciones. En su lugar, los artículos son seleccionados por personas reales que utilizan la aplicación. La habilidad de descubrir nuevas historias, puntos de vista y opiniones es una forma de combatir la difusión de información errónea. Para obtener más recomendaciones, suscríbete al <a href="{ $pocket_hit }">boletín de { -brand-name-pocket }</a> y descarga <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Porque ponemos a las personas en primer lugar. De hecho, estamos respaldados por una <a href="{ $foundation }">fundación sin ánimo de lucro</a>. Desde el primer día, ha sido nuestra misión proteger Internet y a todos sus usuarios.
+misinformation-learn-more-about-our-mission = Saber más sobre nuestra misión
+misinformation-your-privacy-by-the-product = Tu privacidad, producto a producto
+misinformation-firefox-products-work-differently = Los productos de { -brand-name-firefox } funcionan de forma distinta, porque están diseñados para priorizar la protección de tu privacidad.
+misinformation-learn-about-our-products = Obtén más información sobre nuestros productos
 misinformation-designed-to-protect = Diseñado para proteger tu privacidad
