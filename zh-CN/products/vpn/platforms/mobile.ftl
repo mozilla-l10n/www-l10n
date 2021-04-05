@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-mobile-page-title = 适用于移动设备（智能手机和平板电脑）的 { -brand-name-mozilla-vpn }
+# Mobile strings
+vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } 可保护您在手机上的隐私
 vpn-mobile-wifi-headline = 放心使用公共 WI-FI
 vpn-mobile-about-headline = 关于 { -brand-name-mozilla }
 vpn-mobile-privacy-headline = 隐私，一点即得
