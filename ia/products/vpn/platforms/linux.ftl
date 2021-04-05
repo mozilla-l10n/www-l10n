@@ -17,3 +17,10 @@ vpn-linux-maker-of-firefox = Como un del nomines plus digne de fide in le indust
 vpn-linux-wifi-headline = Sta secur online quando tu debe usar retes wifi public
 vpn-linux-wifi-copy = Aliquando un rete wifi public es tu melior o sol option. { -brand-name-mozilla-vpn } te permitte de sentir te libere de connecter te a tu e-mail ab le aeroporto, rediger tu contrasignos a un caffe, facer compras, toto lo que tu normalmente face a casa con le mesme tranquillitate.
 vpn-linux-about-headline = Un nomine digne de fide desde le 1998
+vpn-linux-about-copy = Como productores del navigator del Web { -brand-name-firefox }, { -brand-name-mozilla } ha luctate pro tu derectos online pro decades,  es isto lo que nos face. Como alternativa al technica de collection de big-data, nos imagina constantemente nove manieras pro mantener internet aperte e gratuite respectante le derecto al confidentialitate de totes.
+vpn-linux-privacy-headline = Securitate a portata de un sol clic
+vpn-linux-privacy-copy = Tocca un button e isto cryptara tu connexion e confundera le adresse IP sur tu { -brand-name-iphone } o { -brand-name-ipad } per le protocollo avantiate { -brand-name-wireguard }®.
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Connecte te a ultra { $servitores } servitores in { $paises } paises differente
