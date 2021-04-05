@@ -24,3 +24,11 @@ vpn-windows-servers-headline = Access servers around the world
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
 vpn-windows-servers-copy = With { $servers }+ servers in over { $countries } countries, you can do whatever you need to get done online — browse, shop, check the news — by setting your device location to nearly anywhere in the world.
+vpn-windows-devices-headline = One subscription for all your devices
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = A { -brand-name-mozilla-vpn } subscription gets you unlimited access to our secure VPN service on up to { $devices } devices for { -brand-name-windows } (including { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } and { -brand-name-ios }.
+vpn-windows-speed-headline = No bandwidth restrictions
+vpn-windows-speed-copy = Stream, game, shop and explore the web at blazing-fast speeds. With unlimited data and no bandwidth-restrictions, { -brand-name-mozilla-vpn } doesn’t get in your way.
+vpn-windows-log-headline = Your privacy is our priority
+vpn-windows-log-copy = { -brand-name-mozilla } will never stop working towards a better internet that puts your privacy first. That’s why the { -brand-name-mozilla-vpn } doesn’t collect any data on you or log your online activity — none of our products do.
