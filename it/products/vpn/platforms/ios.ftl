@@ -19,3 +19,12 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } è molto facile da utilizzare
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Connettiti a più di { $servers } server in tutto il mondo
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Ottieni l’accesso per { $devices } dispositivi
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Con un abbonamento, puoi ottenere { -brand-name-mozilla-vpn } su un massimo di { $devices } dispositivi diversi, inclusi { -brand-name-ios } per { -brand-name-iphone } e { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
+vpn-ios-speed-headline = Massime velocità. Dati illimitati.
+vpn-ios-speed-copy = Gioca online, guarda e trasmetti in streaming i tuoi programmi preferiti e naviga sul Web a velocità ultraveloci. Non preoccuparti della tua larghezza di banda su { -brand-name-mozilla-vpn }: è illimitata.
+vpn-ios-log-headline = I tuoi dati rimangono privati. Punto.
