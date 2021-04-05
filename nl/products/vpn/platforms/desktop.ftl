@@ -17,6 +17,7 @@ vpn-desktop-maker-of-firefox = Als de maker van de { -brand-name-firefox }-webbr
 vpn-desktop-wifi-headline = Voel u veilig als u openbare wifi gebruikt
 vpn-desktop-wifi-copy = Onze VPN beschermt uw internetverbinding tegen hackers en spionnen, zodat u kunt winkelen vanuit het koffiehuis, uw bankrekening kunt controleren vanuit de trein en uw online zaken kunt doen zonder zorgen over de veiligheid.
 vpn-desktop-about-headline = Over { -brand-name-mozilla }
+vpn-desktop-about-copy = Het meest bekend om onze { -brand-name-firefox-browser } is { -brand-name-mozilla } een wereldwijde gemeenschap van gebruikers, medewerkers en ontwikkelaars die zich inzetten om de kracht van het internet in handen van mensen te houden. We zijn opgericht in 1998 en zijn een van de pioniers van het vrije en open internet – en het is onze missie om dat zo te houden.
 vpn-desktop-privacy-headline = Privacy in één klik
 vpn-desktop-privacy-copy = De { -brand-name-mozilla-vpn }-app versleutelt uw internetverbinding en verbergt het IP-adres op uw mobiele telefoon of tablet door gebruik te maken van het geavanceerde { -brand-name-wireguard }®-protocol.
 vpn-desktop-servers-headline = Maak verbinding met servers over de hele wereld
