@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } och { -brand-na
 sub-navigation-desktop-nightly = { -brand-name-nightly } för datorer
 sub-navigation-features = Funktioner
 sub-navigation-support = Hjälp
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Tillägg
+sub-navigation-add-ons = Tillägg
 sub-navigation-faq = FAQ
 sub-navigation-learn-more = Läs mer
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } för mobil
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Tillägg för { -brand-name-android }
+sub-navigation-android-add-ons = Tillägg för { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
