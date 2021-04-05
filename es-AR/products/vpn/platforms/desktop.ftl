@@ -17,8 +17,13 @@ vpn-desktop-maker-of-firefox = Como el fabricante del navegador web { -brand-nam
 vpn-desktop-wifi-headline = Sentite seguro usando wifi público
 vpn-desktop-wifi-copy = Nuestra VPN protege tu conexión a Internet de piratas informáticos y espías, para que puedas comprar en la cafetería, revisar tu cuenta bancaria del tren y hacer tus negocios en línea en cualquier lugar sin preocupaciones de seguridad.
 vpn-desktop-about-headline = Acerca de { -brand-name-mozilla }
+vpn-desktop-about-copy = Más conocido por nuestro { -brand-name-firefox-browser }, { -brand-name-mozilla } es una comunidad global de usuarios, colaboradores y desarrolladores dedicados a mantener el poder de Internet en manos de la gente. Fundados en 1998, somos uno de los pioneros de la web libre y abierta, y es nuestra misión mantenerla así.
 vpn-desktop-privacy-headline = Privacidad en un clic
+vpn-desktop-privacy-copy = La aplicación { -brand-name-mozilla-vpn } cifra tu conexión a internet y oculta la dirección IP en tu teléfono móvil o tableta usando el protocolo avanzado { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Conectate a servidores en todo el mundo
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy = Navegá desde Brasil. Jugá desde de Japón. Conectate desde México. La { -brand-name-mozilla-vpn } te permite cambiar la ubicación de tu teléfono o equipo a uno de { $servers }.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protegé hasta { $devices } dispositivos
