@@ -13,3 +13,5 @@ vpn-linux-page-description = Como fan de { -brand-name-ubuntu } { -brand-name-li
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } pro { -brand-name-ubuntu } { -brand-name-linux }, un accopulamento perfectemente private
 vpn-linux-ability = Prende un altere mesura de securitate quando tu es online, sia a casa que foras, con { -brand-name-mozilla-vpn }. Pro un micre tarifa mensual, illo usa le protocollo avantiate { -brand-name-wireguard }® pro cryptar tu connexion a internet sur tu computator e altere typos de apparatos basate sur { -brand-name-linux }, permittente te de diffunder spectaculos, jocar, facer compras e navigar circa tu vita quotidian online, sapiente que tu es secur.
+vpn-linux-maker-of-firefox = Como un del nomines plus digne de fide in le industria technologic, { -brand-name-mozilla } es dedicate a assecurar te de sentir te e esser secur cata vice que tu va online.
+vpn-linux-wifi-headline = Sta secur online quando tu debe usar retes wifi public
