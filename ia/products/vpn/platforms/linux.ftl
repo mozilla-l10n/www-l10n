@@ -19,7 +19,7 @@ vpn-linux-wifi-copy = Aliquando un rete wifi public es tu melior o sol option. {
 vpn-linux-about-headline = Un nomine digne de fide desde le 1998
 vpn-linux-about-copy = Como productores del navigator del Web { -brand-name-firefox }, { -brand-name-mozilla } ha luctate pro tu derectos online pro decades,  es isto lo que nos face. Como alternativa al technica de collection de big-data, nos imagina constantemente nove manieras pro mantener internet aperte e gratuite respectante le derecto al confidentialitate de totes.
 vpn-linux-privacy-headline = Securitate a portata de un sol clic
-vpn-linux-privacy-copy = Tocca un button e isto cryptara tu connexion e confundera le adresse IP sur tu { -brand-name-iphone } o { -brand-name-ipad } per le protocollo avantiate { -brand-name-wireguard }®.
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es super facile a usar. Tocca un button e isto cryptara tu connexion e confundera le adresse IP sur tu { -brand-name-iphone } o { -brand-name-ipad } per le protocollo avantiate { -brand-name-wireguard }®.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
