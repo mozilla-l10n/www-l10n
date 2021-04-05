@@ -16,4 +16,7 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } 十分易用。只需轻触�
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = 连接至世界范围内的 { $servers }+ 台服务器
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = 一次订阅，即可在最多 { $devices } 台设备上使用 { -brand-name-mozilla-vpn }，支持 { -brand-name-ios } 系统的 { -brand-name-iphone } 和 { -brand-name-ipad }、{ -brand-name-android }、{ -brand-name-mac-short }、{ -brand-name-windows } 及 { -brand-name-linux }。
 vpn-ios-speed-headline = 速度超快，不限流量。
