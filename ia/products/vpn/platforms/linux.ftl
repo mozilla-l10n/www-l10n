@@ -31,3 +31,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da le capacitate de pred
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Connecte te a maximo { $devices } apparatos
 vpn-linux-devices-copy = Con un subscription, tu pote installar { -brand-name-mozilla-vpn } sur maximo { $devices } apparatos differente inter systemas operative, includente { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } pro { -brand-name-iphone } e { -brand-name-ipad }.
+vpn-linux-speed-headline = Ultra-rapide con datos illimitate
+vpn-linux-speed-copy = Joca, diffunde films e spectaculos, e naviga le Web a velocitates ultra-rapide e nulle limitation de largessa de banda, { -brand-name-mozilla-vpn } es illimitate.
+vpn-linux-log-headline = Tu datos te pertine
+vpn-linux-log-copy = Alcun VPNs registra tu activitate sur lor servitores. { -brand-name-mozilla-vpn } non te tracia online, de facto, es isto un grande parte de illo que nos sustene como compania.
