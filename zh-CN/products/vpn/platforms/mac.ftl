@@ -19,3 +19,5 @@ vpn-mac-servers-headline = 访问世界各地的服务器
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = 一次订阅即可保护 { $devices } 台设备
 vpn-mac-speed-headline = 不用牺牲速度
+vpn-mac-speed-copy = 不限流量﹠无带宽限制。您可以像往常一样遨游互联网，且更多一层保护。
+vpn-mac-log-headline = 您的网络活动，他人无权知晓
