@@ -8,7 +8,7 @@
         "type": "FLUENT",
         "authorizeContent": "false",
         "pathRegex": "en\\/(?<path>.*)\\.ftl",
-        "translationPathExpression": "www-l10n/${locale}/${path}.${originalFile.extension}",
+        "translationPathExpression": "${locale}/${path}.${originalFile.extension}",
         "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}"
     }]
 }
