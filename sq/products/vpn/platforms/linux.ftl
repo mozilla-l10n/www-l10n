@@ -19,3 +19,19 @@ vpn-linux-wifi-copy = Ndonjëherë,  wifi publik është mundësia juaj më e mi
 vpn-linux-about-headline = Një emër i besuar që prej 1998-s
 vpn-linux-about-copy = Si krijuesit e shfletuesit { -brand-name-firefox }, { -brand-name-mozilla } ka luftuar për të drejtat tuaja internetore për dekada të tëra — me këtë merremi. Si alternativa ndaj shoqërive të mëdha që grumbullojnë të dhëna, gjejmë vazhdimisht rrugë të reja për ta mbajtur interneti të hapur dhe të lirë, teksa respektohet e drejta e gjithkujt për privatësi.
 vpn-linux-privacy-headline = Siguri vetëm 1klikim larg jush
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } është super i kollajtë për t’u përdorur. Prekni një buton dhe do të fshehtëzojë lidhjen tuaj dhe errësojë adresën tuaj IP në telefonin tuaj  { -brand-name-iphone } apo { -brand-name-ipad }, duke përdorur protokollin e përparuar { -brand-name-wireguard }®.
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Lidhuni me mbi { $servers } shërbyes nga { $countries } vende të ndryshme
+# Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } ju jep aftësinë të caktoni vendndodhjen e kompjuterit tuaj { -brand-name-linux } si një nga mbi { $countries } vende, duke ju shpalosur lëndë të re nga anembanë bota.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = Lidhni deri në { $devices } pajisje
+vpn-linux-devices-copy = Me një pajtim, përfitoni { -brand-name-mozilla-vpn } deri në { $devices } pajisje të ndryshme, nga sisteme të ndryshëm operativë, përfshi { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short }, dhe { -brand-name-ios } për { -brand-name-iphone } dhe { -brand-name-ipad }.
+vpn-linux-speed-headline = Ultra i shpejtë, pa kufizim sasie të dhënash
+vpn-linux-speed-copy = Luani lojëra, shihni filma dhe shfaqje, shfletoni në internet me shpejtësi ultra të mëdha dhe pa kufizim sasie trafiku — { -brand-name-mozilla-vpn } është pa kufizime.
+vpn-linux-log-headline = Të dhënat tuaja janë pronë e juaja
+vpn-linux-log-copy = Disa VPN e regjistrojnë veprimtarinë tuaj në shërbyesit e tyre. { -brand-name-mozilla-vpn } nuk ju gjurmon në internet — në fakt, kjo është një pjesë e rëndësishme e asaj çka përfaqësojmë si shoqëri.
