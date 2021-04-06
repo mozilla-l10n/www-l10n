@@ -100,7 +100,7 @@ firefox-desktop-download-backed-by-the = Støtta av den <strong>ideelle</strong>
 firefox-desktop-download-challenging-the-status = Utfordrar den uendra stoda sidan 1998
 firefox-desktop-download-your-privacy-comes = Personvernet ditt kjem først
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = Behald alle favorittfunksjonane dine i nettlesaren — og <strong>oppdag</strong> nye med.
+firefox-desktop-download-keep-all-your = Behald alle favorittfunksjonane dine i nettlesaren — og <strong>oppdag</strong> nye.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Alle favorittverktøya dine frå { -brand-name-google } (som Gmail og Docs) fungerer saumlaust i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
