@@ -18,7 +18,16 @@ vpn-mac-wifi-copy = Kaloni i lidhur me mendje të fjetur, kur përdorni wifi pub
 vpn-mac-about-headline = Nga një krijues i besuar teknologjish
 vpn-mac-about-copy = Prej 1998-s, enti jofitimprurës { -brand-name-mozilla } është drejtuar nga misioni i saj për të krijuar një internet më të mirë. Nga produkte të tillë si { -brand-name-firefox-browser } e deri veprimtari mbrojtjeje kudo në rruzull, puna e { -brand-name-mozilla }-s vazhdon të garantojë se interneti është i lirë dhe i hapur për këdo.
 vpn-mac-privacy-headline = Privatësi në majë të gishtave
+vpn-mac-privacy-copy = Me { -brand-name-mozilla-vpn }, lidhja juaj internet është e fshehtëzuar dhe adresa juaj IP është e mbrojtur nga hacker-a dhe shërbime internet që fusin hundët, falë protokollit të përparuar { -brand-name-wireguard }®.
 vpn-mac-servers-headline = Përdorni shërbyes nga anembanë bota
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Caktoni si vendndodhje të { -brand-name-mac-short } tuaj një nga mbi { $servers } shërbyes në mbi { $countries } vende. Kjo ju lejon të lexoni lajme, të blini, të shkarkoni dhe të shfletoni internetin praktikisht nga kudo.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Mbroni { $devices } pajisje me një pajtim
+vpn-mac-devices-copy = Kompjuteri, tableti dhe telefoni juaj i mençur ia vlen të jenë të sigurt. Përdorni { -brand-name-mozilla-vpn } për të mbrojtur deri në { $devices } pajisje { -brand-name-mac-short } dhe { -brand-name-ios } (apo { -brand-name-windows }, { -brand-name-linux } dhe { -brand-name-android }).
 vpn-mac-speed-headline = S’është nevoja të sakrifikohet shpejtësia
 vpn-mac-speed-copy = Të dhëna të pakufizuara dhe pa kufizime sasie trafiku do të thonë se mund të eksploroni internetin skaj më skaj, ashtu siç bëni normalisht — me një shtresë ekstra sigurie.
 vpn-mac-log-headline = Se ç’bëni në internet është puna juaj
