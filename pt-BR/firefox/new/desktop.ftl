@@ -47,13 +47,13 @@ firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
 firefox-desktop-download-available-in-over = Disponível em mais de 90 idiomas e compatível com { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, o { -brand-name-firefox } funciona, não importa o que você está usando nem onde está. Verifique se seu sistema operacional está atualizado para que você tenha a melhor experiência de uso.
 firefox-desktop-download-review-system-req = Confira os requisitos de sistema
 firefox-desktop-download-all-your-devices = Instale o { -brand-name-firefox } em todos os seus dispositivos
-firefox-desktop-download-take-your-privacy = Leve sua privacidade com você em todos os lugares. Os { -brand-name-firefox-browsers } para { -brand-name-ios } e { -brand-name-android } têm as mesmas configurações de privacidade forte para impedir que rastreadores sigam você pela web, não importa onde esteja.
+firefox-desktop-download-take-your-privacy = Leve sua privacidade com você em todo lugar. Os { -brand-name-firefox-browsers } para { -brand-name-ios } e { -brand-name-android } têm as mesmas configurações poderosas de privacidade para impedir que rastreadores sigam você pela web, não importa onde esteja.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Faça isso <strong>tudo</strong> com o { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Pesquise de forma mais inteligente e rápida
 firefox-desktop-download-search-from-address = Pesquisa na barra de endereços
 firefox-desktop-download-search-engine-options = Opções de mecanismos de pesquisa
-firefox-desktop-download-smart-search-suggestions = Sugestões de pesquisa inteligentes
+firefox-desktop-download-smart-search-suggestions = Sugestões de pesquisa inteligente
 firefox-desktop-download-bookmark-history = Favoritos, histórico e abas abertas nos resultados
 firefox-desktop-download-boost-your = Aumente sua produtividade
 firefox-desktop-download-works-with-google = Funciona com produtos { -brand-name-google }
@@ -120,7 +120,7 @@ firefox-desktop-download-learn-about-the = Saiba mais abaixo sobre o navegador {
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = De segurança a notícias e jogos, há <a { $attrs }>extensões para todos</a>. Adicione quantas quiser até seu navegador ficar do seu jeito.
+firefox-desktop-download-from-security-to = Desde segurança a notícias e jogos, há <a { $attrs }>extensões para todos</a>. Adicione quantas quiser até o navegador ficar do seu jeito.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi criado pela <a { $attrs }>{ -brand-name-mozilla }</a> como uma alternativa mais rápida e privativa a navegadores como o { -brand-name-ie } e atualmente o { -brand-name-chrome }. Hoje, nossa empresa e comunidade de voluntários, motivados por uma missão, continuamos a colocar sua privacidade acima de tudo.
