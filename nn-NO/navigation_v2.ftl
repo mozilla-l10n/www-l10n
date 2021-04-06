@@ -54,6 +54,8 @@ navigation-v2-leadership = Leiarskap
 navigation-v2-meet-the-team-thats-building = Møt teamet som byggjer teknologi for eit betre internett.
 navigation-v2-careers = Karriere
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogg
+navigation-v2-learn-about-mozilla-and = Les meir om { -brand-name-mozilla } og dei spørsmåla som er viktige for oss.
+navigation-v2-more-about-mozilla = Meir om { -brand-name-mozilla }
 
 ## Innovation menu
 
@@ -61,8 +63,10 @@ navigation-v2-innovation = innovasjon
 navigation-v2-close-innovation-menu = Lat att Innovasjon-menyen
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Få nettlesaren { -brand-name-firefox } som er bygd for utviklarar.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Bidra med stemma di slik at framtida på nettet kan høyre alle.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-more-mozilla-innovation = Fleire { -brand-name-mozilla }-innovasjonar
