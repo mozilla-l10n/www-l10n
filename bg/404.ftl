@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Страницата не е намерена
+not-found-page-sorry-we-cant-find-that-page = Съжаляваме, не успяхме да намерим тази страница.
+not-found-page-go-back = Назад
