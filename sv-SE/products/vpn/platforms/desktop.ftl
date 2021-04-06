@@ -23,6 +23,8 @@ vpn-desktop-privacy-copy = Appen { -brand-name-mozilla-vpn } krypterar din inter
 vpn-desktop-servers-headline = Anslut till servrar över hela världen
 # Variables:
 #   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Surfa från Brasilien. Spela från Japan. Strömma från Mexiko. { -brand-name-mozilla-vpn } låter dig ändra din telefons eller dators plats till en av { $servers } servrar.
+# Obsolete string
 vpn-desktop-servers-copy = Surfa från Brasilien. Spela från Japan. Strömma från Mexiko. { -brand-name-mozilla-vpn } låter dig ändra din telefons eller dators plats till över  { $servers } servrar.
 # Variables:
 #   $devices (number) - number of available devices
