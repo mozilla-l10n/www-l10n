@@ -23,6 +23,8 @@ vpn-desktop-privacy-copy = Die App { -brand-name-mozilla-vpn } verschlüsselt Ih
 vpn-desktop-servers-headline = Stellen Sie eine Verbindung zu Servern auf der ganzen Welt her
 # Variables:
 #   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Surfen Sie aus Brasilien. Spielen Sie aus Japan. Streamen Sie aus Mexiko. Mit { -brand-name-mozilla-vpn } können Sie den Standort Ihres Handys oder Computers auf einen von { $servers } Servern ändern.
+# Obsolete string
 vpn-desktop-servers-copy = Surfen Sie aus Brasilien. Spielen Sie aus Japan. Streamen Sie aus Mexiko. Mit { -brand-name-mozilla-vpn } können Sie den Standort Ihres Handys oder Computers auf einen von { $servers } ändern.
 # Variables:
 #   $devices (number) - number of available devices
