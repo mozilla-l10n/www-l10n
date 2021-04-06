@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } in { -brand-nam
 sub-navigation-desktop-nightly = { -brand-name-nightly } za namizja
 sub-navigation-features = Značilnosti
 sub-navigation-support = Podpora
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Dodatki
+sub-navigation-add-ons = Dodatki
 sub-navigation-faq = Pogosta vprašanja
 sub-navigation-learn-more = Več o tem
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } za mobilne naprave
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Dodatki za { -brand-name-android }
+sub-navigation-android-add-ons = Dodatki za { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
