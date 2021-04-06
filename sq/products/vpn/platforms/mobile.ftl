@@ -24,7 +24,7 @@ vpn-mobile-servers-headline = Lidhuni me shërbyes nga anembanë bota
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-mobile-servers-copy = Shfletoni nga Brazili. Luani lojëra nga Japoni. Shkarkoni nga Australia. { -brand-name-mozilla-vpn } ju lejon të ndryshoni vendndodhjen e telefonit apo kompjuterit tuaj me një nga mbi { $servers } shërbyesit tanë në mbi { $countries } vende.
+vpn-mobile-servers-copy = Shfletoni nga Brazili. Luani lojëra nga Japonia. Shkarkoni nga Australia. { -brand-name-mozilla-vpn } ju lejon të ndryshoni vendndodhjen e telefonit apo kompjuterit tuaj me një nga mbi { $servers } shërbyesit tanë në mbi { $countries } vende.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Mbroni deri në { $devices } pajisje
