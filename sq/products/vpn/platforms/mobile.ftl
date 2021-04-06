@@ -19,7 +19,16 @@ vpn-mobile-wifi-copy = VPN-ja jonë e fsheh lidhjen tuaj internet për hacker-a 
 vpn-mobile-about-headline = Rreth { -brand-name-mozilla }-s
 vpn-mobile-about-copy = E njohur për { -brand-name-firefox-browser } tonin, { -brand-name-mozilla } është një bashkësi globale përdoruesish, kontribuesish dhe zhvilluesish të përkushtuar mbajtjes së fuqisë së internetit në duart e njerëzve. Themeluar më 1998-n, është një nga pionierët e web-it të lirë dhe të hapur — dhe është misioni ynë ta mbajmë të tillë.
 vpn-mobile-privacy-headline = Privatësi me një klikim
+vpn-mobile-privacy-copy = Aplikacioni { -brand-name-mozilla-vpn } fshehtëzon lidhjen tuaj internet dhe e fsheh adresën tuaj IP në telefonin tuaj celular apo tabletin tuaj, duke përdorur protokollin e përparuar { -brand-name-wireguard }®.
+vpn-mobile-servers-headline = Lidhuni me shërbyes nga anembanë bota
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Shfletoni nga Brazili. Luani lojëra nga Japoni. Shkarkoni nga Australia. { -brand-name-mozilla-vpn } ju lejon të ndryshoni vendndodhjen e telefonit apo kompjuterit tuaj me një nga mbi { $servers } shërbyesit tanë në mbi { $countries } vende.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Mbroni deri në { $devices } pajisje
+vpn-mobile-devices-copy = Pajtimi juaj ju garanton përdorim të pakufizuar të shërbimit tonë të sigurt VPN në telefonin tuaj të mençur, tabletin dhe desktopin, për { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } dhe { -brand-name-linux }.
+vpn-mobile-speed-headline = Shpejtësi e pabesueshme, pa kufizime
+vpn-mobile-speed-copy = Shihni video, luani lojëra, blini dhe shfletoni me shpejtësi të rrufeshme. { -brand-name-mozilla-vpn } s’do të vërë tavan për sasinë e trafikut tuaj, apo të ngadalësojë telefonin tuaj të mençur.
 vpn-mobile-log-headline = E para është privatësia juaj
