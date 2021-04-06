@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Diogelu Eich Dyfais Gyfan
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Defnyddiwch { -brand-name-mozilla-vpn } ar gyfer diogelu pob ap ar eich dyfais. Gyda gweinyddion mewn { $countries }+ gwlad, gallwch gysylltu ag unrhyw le, o unrhyw le.
+vpn-landing-hero-sub-heading-v2 = Diogelwch, dibynadwyedd a chyflymder — ar bob dyfais, unrhyw le rydych chi'n mynd.
+# Obsolete string
 vpn-landing-hero-sub-heading = Diogelwch y gallwch ddibynnu arno. Enw y gallwch ymddiried ynddo.
 vpn-landing-hero-desc = Rhwydwaith Preifat Rhithwir gan wneuthurwyr { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un tap i breifatrwydd
@@ -65,6 +67,8 @@ vpn-landing-faq-manage-subscription-question-heading = Sut fydda i'n rheoli fy n
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Os ydych chi eisoes wedi tanysgrifio i { -brand-name-mozilla-vpn }, gallwch newid eich cynllun neu <a href="{ $url }">rheoli eich tanysgrifiad</a> ar unrhyw adeg.
 vpn-landing-faq-link = Gweld ragor o Gwestiynau Cyffredin
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Wps! Mae'n edrych fel nad ydych chi wedi tanysgrifio eto.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
