@@ -9,6 +9,9 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
+# Windows strings
+vpn-windows-hero-headline = Fique conectado e protegido com o { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
+vpn-windows-wifi-headline = Mantenha a privacidade em redes públicas de wifi
 vpn-windows-about-headline = Da líder em privacidade na internet
 vpn-windows-privacy-headline = Proteção com o apertar de um botão
 vpn-windows-privacy-copy = O { -brand-name-mozilla-vpn } criptografa sua conexão com a internet e protege seu endereço IP de olhares curiosos, no seu computador de mesa ou notebook, com o avançado protocolo { -brand-name-wireguard }®.
