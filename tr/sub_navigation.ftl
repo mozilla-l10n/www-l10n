@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = Masaüstü { -brand-name-beta } ve {
 sub-navigation-desktop-nightly = Masaüstü { -brand-name-nightly }
 sub-navigation-features = Özellikler
 sub-navigation-support = Destek
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Eklentiler
+sub-navigation-add-ons = Eklentiler
 sub-navigation-faq = SSS
 sub-navigation-learn-more = Daha Fazla Bilgi
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = Mobil Cihazlar için { -brand-name-firefox }
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = { -brand-name-android } Eklentileri
+sub-navigation-android-add-ons = { -brand-name-android } eklentileri
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
