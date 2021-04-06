@@ -47,7 +47,11 @@ navigation-v2-who-we-are = Kven vi er
 navigation-v2-close-who-we-are-menu = Lat att Kven vi er-menyen
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-manifestet
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Møt den ideelle organisasjonen bak { -brand-name-firefox } som står for eit betre nett.
+navigation-v2-get-involved = Ver med
+navigation-v2-join-the-fight-for-a = Ver med i kampen for eit helsesamt internett.
 navigation-v2-leadership = Leiarskap
+navigation-v2-meet-the-team-thats-building = Møt teamet som byggjer teknologi for eit betre internett.
 navigation-v2-careers = Karriere
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogg
 
