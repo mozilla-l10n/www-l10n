@@ -24,9 +24,43 @@ vpn-landing-fast-secure-heading = Rrjet i shpejtë dhe i sigurt
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } ngrihet mbi një rrjet global shërbyesish që funksionojnë me <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Duke përdorur protokollin më të përparuar <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, fshehtëzojmë veprimtarinë tuaj në rrjet dhe fshehin adresën tuaj IP. Të dhënat tuaja në rrjet nuk i regjistrojmë, gjurmojmë apo japin diku, kurrë.
 vpn-landing-brand-trust-heading = Një VPN prej një marke të cilës mund t’i besoni
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Për më shumë se 20 vjet, { -brand-name-mozilla } ka një histori të dëshmuar të vënies së njerëzve mbi gjithçka dhe për luftën për privatësi internetore. Me një ent jofitimprurës pas nesh, i jemi përkushtuar ndërtimit të një interneti më të mirë dhe më të shëndetshëm për gjithë njerëzit. Gjithçka që bëjmë është pjesë e misionit tonë dhe ndjek <a href="{ $url }">parimet</a> tona.
 
 ## FAQ section
 
+vpn-landing-faq-heading = PBR
+vpn-langing-faq-uses-question-heading = Ç’është një VPN dhe cilat janë përdorimet e tij?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Teksa një pjesë gjithnjë e më e madhe e jetës së përditshme zhvillohet përmes internetit, privatësia dhe siguria internetore bëhet gjithnjë e më e rëndësishme. Një VPN, <a href="{ $url }">Rrjet Privat Virtual</a>, mund të ndihmojë për të krijuar një lidhje të sigurt, private me internetin. Funksionon duke krijuar një “tunel” mes pajisjesh tuaj dhe internetit në përgjithësi, dhe ju mbron përmes dy rrugësh të rëndësishme:
+vpn-landing-faq-uses-conceal = Duke fshehur adresën tuaj të vërtetë IP. Kjo mbron identitetin tuaj dhe errëson të dhënat mbi vendndodhjen tuaj.
+vpn-landing-faq-uses-encrypt = Duke fshehtëzuar trafikun mes jush dhe shërbimit tuaj VPN, që kështu askush në rrjetin tuaj lokal të mund të mos e deshifrojë apo ndryshojë dot.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Hidhuni një sy <a href="{ $url }">pesë shembujve realë</a> për të cilët do të donit një VPN në pajisjen tuaj.
+vpn-landing-faq-info-question-heading = Çfarë informacioni mban { -brand-name-mozilla-vpn }?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = S’regjistrojmë, gjurmojmë apo japin ndonjë gjë nga veprimtaria juaj internetore. Zbatojmë në mënyrë strikte { -brand-name-mozilla }’s <a href="{ $url }">Parimet e Privatësisë së të Dhënave</a> dhe grumbullojmë vetëm të dhëna për ta pasur VPN në funksionim dhe për të përmirësuar produktin përgjatë kohës.
+vpn-landing-faq-protected-question-heading = Si mbrohet privatësia ime?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Protokolli <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®  fshehtëzon trafikun në rrjet, duke mbrojtur krejt të dhënat tuaja private. Krahasuar me protokolle ekzistuese VPN, kodi i pakët i { -brand-name-wireguard }-it e bën të lehtë për specialistë sigurie ta shqyrtojnë dhe kontrollojnë—duke e bërë një mundësi më të sigurt për VPN-ra.Veç kësaj, veprimtaritë tuaja internetore mbeten anonime, ngaqë ne s’regjistrojmë kurrë, gjurmojmë apo japin të dhëna tuajat nga rrjeti.
+vpn-landing-faq-competition-question-heading = Si del { -brand-name-mozilla-vpn } krahasuar me konkurrentët?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Teksa VPN-të falas duken tërheqëse, ato nuk i përkushtohen njësoj privatësisë si { -brand-name-mozilla-vpn } dhe mundë të shesin ose depozitojnë të dhëna tuajat. VPN të tjera me pagesë nuk kanë <a href="{ $url }">historikun</a> mbi 20 vjeçar të { -brand-name-mozilla }-s në krijim produktesh që vënë njerëzit dhe privatësinë mbi gjithçka.
+vpn-landing-faq-compatibility-question-heading = Me cilat pajisje është i përputhshëm { -brand-name-mozilla-vpn }?
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } është i përputhshëm me:
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (vetëm 64-bit)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e sipër)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 e sipër)
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e sipër)
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vetëm për { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Cilat janë rregullat e rimbursimit për { -brand-name-mozilla-vpn }?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
