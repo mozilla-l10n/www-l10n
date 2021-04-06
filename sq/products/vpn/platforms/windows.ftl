@@ -18,3 +18,16 @@ vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } e mbron lidhjen tuaj në int
 vpn-windows-about-headline = Prej udhëheqësit në privatësi internetore
 vpn-windows-about-copy = Enti jo fitimprurës pas { -brand-name-firefox-browser }-it, { -brand-name-mozilla } është një bashkësi qytetarësh interneti nga anembanë bota, përkushtuar mbajtjes së internetit një burim të lirë dhe të hapur për këdo. Misioni i { -brand-name-mozilla }-s, vënia e njerëzve përpara fitimeve, garanton që çdo produkt që krijojmë ju vë juve mbi gjithçka.
 vpn-windows-privacy-headline = Mbrojtje me një të shtypur butoni
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } e fshehtëzon lidhjen tuaj internet dhe e mbron adresën tuaj IP nga sy përgjues, në desktopin ose portativin tuaj, me protokollin e përparuar { -brand-name-wireguard }®.
+vpn-windows-servers-headline = Përdorni shërbyes nga anembanë bota
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Me mbi { $servers } shërbyes në mbir { $countries } vende, mund të bëni ç’të keni nevojë të bëni në internet — shfletoni, blini, lexoni lajme — duke e caktuar vendndodhjen e pajisjes tuaj kudo qoftë në botë.
+vpn-windows-devices-headline = Një pajtim për krejt pajisjet tuaja
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Një pajtim { -brand-name-mozilla-vpn } ju jep përdorim të pakufizuar të shërbimit tonë të sigurt VPN për deri në { $devices } pajisje për { -brand-name-windows } (përfshi { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } dhe { -brand-name-ios }.
+vpn-windows-speed-headline = Pa kufizime për sasi trafiku
+vpn-windows-speed-copy = Shkarkoni, luani, blini dhe eksploroni në internet me shpejtësi marramendëse. Me sasi të pakufizuar të dhënash dhe pa kufizime trafiku, { -brand-name-mozilla-vpn } nuk ju zë rrugën.
+vpn-windows-log-headline = Privatësia juaj është përparësia jonë
