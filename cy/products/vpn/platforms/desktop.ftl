@@ -31,3 +31,5 @@ vpn-desktop-servers-copy = Porwch o Frasil. Chwarae gêm o Japan. Ffrydio o Fecs
 vpn-desktop-devices-headline = Diogelwch hyd at { $devices } o ddyfeisiau
 vpn-desktop-devices-copy = Mae eich tanysgrifiad yn sicrhau mynediad diderfyn i'n gwasanaeth VPN diogel ar eich ffôn clyfar, llechen a'ch bwrdd gwaith ar gyfer { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
 vpn-desktop-speed-headline = Cyflymder anhygoel, dim cyfyngiadau
+vpn-desktop-speed-copy = Gallwch ffrydio fideos, chwarae gemau, siopa a phori ar gyflymder uchel iawn. Fydd { -brand-name-mozilla-vpn } ddim yn cyfyngu eich lled band nac yn arafu eich ffôn clyfar.
+vpn-desktop-log-headline = Mae eich preifatrwydd yn flaenoriaeth.
