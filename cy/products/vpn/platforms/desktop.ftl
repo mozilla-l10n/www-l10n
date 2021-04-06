@@ -33,3 +33,4 @@ vpn-desktop-devices-copy = Mae eich tanysgrifiad yn sicrhau mynediad diderfyn i'
 vpn-desktop-speed-headline = Cyflymder anhygoel, dim cyfyngiadau
 vpn-desktop-speed-copy = Gallwch ffrydio fideos, chwarae gemau, siopa a phori ar gyflymder uchel iawn. Fydd { -brand-name-mozilla-vpn } ddim yn cyfyngu eich lled band nac yn arafu eich ffôn clyfar.
 vpn-desktop-log-headline = Mae eich preifatrwydd yn flaenoriaeth.
+vpn-desktop-log-copy = Ym { -brand-name-mozilla }, dydy'n ni ddim yn casglu unrhyw ddata am bwy ydych chi nac yn cofnodi'ch gweithgaredd ar-lein - nid trwy ein VPN nac unrhyw un o'n cynnyrch eraill. Mae diogelu eich preifatrwydd yn egwyddor graidd o'n cenhadaeth.
