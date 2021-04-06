@@ -40,11 +40,11 @@ firefox-desktop-download-in-browser-screenshot = Ferramenta integrada de captura
 firefox-desktop-download-primary-password = Senha principal
 # Obsolete string
 firefox-desktop-download-master-password = Senha principal
-firefox-desktop-download-we-block-the-ad = Nós bloqueamos rastreadores de anúncios. Você explora a internet mais rápido.
-firefox-desktop-download-ads-are-distracting = Anúncios distraem a atenção e tornam mais lento carregar páginas web, enquanto seus rastreadores vigiam cada movimento que você faz online. O { -brand-name-firefox-browser } bloqueia a maioria dos rastreadores automaticamente, então não precisa se aprofundar nas suas configurações de segurança.
+firefox-desktop-download-we-block-the-ad = Nós bloqueamos publicidade com rastreamento. Você explora a internet mais rápido.
+firefox-desktop-download-ads-are-distracting = Anúncios distraem a atenção e tornam mais lento carregar páginas web, enquanto rastreadores tentam vigiar cada movimento que você faz online. O { -brand-name-firefox-browser } bloqueia a maioria dos rastreadores automaticamente para você não precisar se aprofundar nas configurações de segurança.
 firefox-desktop-download-see-your-report = Veja seu relatório de proteção
 firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
-firefox-desktop-download-available-in-over = Disponível em mais de 90 idiomas e compatível com máquinas { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, o { -brand-name-firefox } funciona, não importa o que esteja usando nem onde você está. Verifique se seu sistema operacional está atualizado para que você tenha a melhor experiência de uso.
+firefox-desktop-download-available-in-over = Disponível em mais de 90 idiomas e compatível com { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, o { -brand-name-firefox } funciona, não importa o que você está usando nem onde está. Verifique se seu sistema operacional está atualizado para que você tenha a melhor experiência de uso.
 firefox-desktop-download-review-system-req = Confira os requisitos de sistema
 firefox-desktop-download-all-your-devices = Instale o { -brand-name-firefox } em todos os seus dispositivos
 firefox-desktop-download-take-your-privacy = Leve sua privacidade com você em todos os lugares. Os { -brand-name-firefox-browsers } para { -brand-name-ios } e { -brand-name-android } têm as mesmas configurações de privacidade forte para impedir que rastreadores sigam você pela web, não importa onde esteja.
