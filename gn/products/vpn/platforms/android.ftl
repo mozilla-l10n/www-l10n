@@ -7,3 +7,15 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } { -brand-name-android } peg̃uarã
+# Mobile strings
+vpn-android-hero-headline = Ereko ñemo’ã ha tekoñemi ñandutípe { -brand-name-mozilla-vpn } ndive { -brand-name-android } peg̃uarã
+vpn-android-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
+vpn-android-about-headline = { -brand-name-mozilla } ha’e téra ejeroviakuaaha
+vpn-android-privacy-headline = Eikutu eikekuaa hag̃ua
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-android-servers-headline = Oĩve { $servers } mohendahavusu hetave { $countries } tetãme
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = Ñemboheraguapy { $devices } mba’e’okápe g̃uarã
