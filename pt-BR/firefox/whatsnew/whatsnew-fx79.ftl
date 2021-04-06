@@ -24,7 +24,7 @@ whatsnew79-firefox-blocks-more = O { -brand-name-firefox } bloqueia mais do que 
 whatsnew79-see-your-report = Veja seu relatório
 whatsnew79-update-your-firefox = Atualize seu navegador { -brand-name-firefox }
 whatsnew79-download-the-firefox = Baixe o navegador { -brand-name-firefox }
-whatsnew79-read-our-privacy-promise = Leia nossa promessa de privacidade
+whatsnew79-read-our-privacy-promise = Leia nosso compromisso de privacidade
 whatsnew79-take-less-keep-it-safe = Coletar menos. Manter seguro. Sem segredos. Nosso negócio não depende de abusar secretamente da sua confiança.
 # CTA link
 whatsnew79-read-more = Saiba mais
