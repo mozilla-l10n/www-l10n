@@ -61,7 +61,11 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (v
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e sipër)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vetëm për { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Cilat janë rregullat e rimbursimit për { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = Mund të merrni paratë mbrapsht brenda 30 ditësh nga blerja e pajtimit tuaj. Lidhuni me ne dhe parashtrojeni kërkesën për rimbursim duke prekur mbi butonin “Merrni Ndihmë” te Rregullimet e aplikacionit tuaj { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Si ta administroj pajtimin tim?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Nëse jeni pajtuar tashmë te { -brand-name-mozilla-vpn }, mund të ndryshoni planin ose të <a href="{ $url }">administroni pajtimin tuaj</a> në çfarëdo kohe.
 vpn-landing-faq-link = Shihni më tepër PBR
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = Hëm! Duket se s’jeni pajtuar ende.
@@ -84,6 +88,10 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Duke klikuar mbi “Shtohuni në Radhë”, pajtoheni me  <a href="{ $privacy }">Rregullat tona të Privatësisë</a>.
+vpn-landing-invite-your-information = Të dhënat tuaja do të përdoren vetëm për t’ju njoftuar mbi qenien gati të platformës.
 vpn-landing-invite-thanks-heading = Faleminderit! Jeni në radhë
 vpn-landing-invite-thanks-desc = Pasi { -brand-name-mozilla-vpn } të jetë gati për rajonin tuaj, do t’ju dërgojmë një email.
 
