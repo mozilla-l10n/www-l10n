@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } & { -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } pro scriptorio
 sub-navigation-features = Functionalitates
 sub-navigation-support = Supporto
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Additivos
+sub-navigation-add-ons = Additivos
 sub-navigation-faq = Folio a questiones
 sub-navigation-learn-more = Saper plus
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } pro apparato mobile
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Additivos pro { -brand-name-android }
+sub-navigation-android-add-ons = Additivos pro { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
