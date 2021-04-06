@@ -2,5 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-error-page-error-page-internal-server-error = 500: Грешка на сървъра
-error-page-something-went-wrong = Нещо се обърка.
+banner-firefox-daylight-launch-button = Вземете го сега
