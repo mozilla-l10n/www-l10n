@@ -23,6 +23,8 @@ vpn-desktop-privacy-copy = De { -brand-name-mozilla-vpn }-app versleutelt uw int
 vpn-desktop-servers-headline = Maak verbinding met servers over de hele wereld
 # Variables:
 #   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Surf vanuit Brazilië. Game vanuit Japan. Stream vanuit Mexico. Met { -brand-name-mozilla-vpn } kunt u de locatie van uw telefoon of computer wijzigen in een van de { $servers } servers.
+# Obsolete string
 vpn-desktop-servers-copy = Surf vanuit Brazilië. Game vanuit Japan. Stream vanuit Mexico. Met { -brand-name-mozilla-vpn } kunt u de locatie van uw telefoon of computer wijzigen in { $servers } verschillende locaties.
 # Variables:
 #   $devices (number) - number of available devices
