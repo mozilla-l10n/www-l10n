@@ -28,3 +28,11 @@ vpn-android-servers-copy = Gyda { -brand-name-mozilla-vpn }, gallwch osod lleoli
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Un tanysgrifiad ar gyfer hyd at { $devices } dyfais
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = Mae { -brand-name-mozilla-vpn } yn rhoi'r gallu i chi gysylltu { $devices } o wahanol ddyfeisiau gan gynnwys { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }. Defnyddiwch ef ar eich ffôn clyfar, bwrdd gwaith, gliniadur, llechen a mwy.
+vpn-android-speed-headline = Cyflymder uchel iawn. Data diderfyn.
+vpn-android-speed-copy = Gallwch chwarae gemau ar-lein, ffrydio ffilmiau a syrffio'r we ar gyflymder uchel iawn ar eich dyfais { -brand-name-android } - pob un â lled band diderfyn.
+vpn-android-log-headline = Dim cofnodi. Dim tracio. Dim ymyraeth a'ch preifatrwydd.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Mae llawer o ddarparwyr VPN yn cofnodi'ch gweithgaredd ar eu gweinyddwyr. Nid dyna sut rydyn ni'n ei gwneud hi. Nid yw { -brand-name-mozilla-vpn } byth yn tracio eich gweithgaredd ar-lein — mae hynny yn groes i bopeth rydym yn sefyll drosto fel cwmni. Rydyn ni'n rhoi eich preifatrwydd a'ch diogelwch yn gyntaf, uwchlaw popeth arall.
