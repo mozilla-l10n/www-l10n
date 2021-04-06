@@ -9,3 +9,4 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } për { -brand-name-linux } ({ -brand-name-ubuntu })
+vpn-linux-page-description = Si tifoz i { -brand-name-ubuntu } { -brand-name-linux }, e dini tashmë rëndësinë e privatësisë dhe sigurisë internetore. Ka mundësi që të dini edhe rreth { -brand-name-mozilla }-s dhe se me se merremi — një internet i lirë, privat dhe i hapur për të gjithë. Erdhi koha për t’i bërë tok këto të dyja.
