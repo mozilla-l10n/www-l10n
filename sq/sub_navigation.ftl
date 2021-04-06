@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = Desktop { -brand-name-beta } & { -br
 sub-navigation-desktop-nightly = Desktop { -brand-name-nightly }
 sub-navigation-features = Veçori
 sub-navigation-support = Asistencë
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Shtesa
+sub-navigation-add-ons = Shtesa
 sub-navigation-faq = PBR
 sub-navigation-learn-more = Mësoni Më Tepër
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } për Celular
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Shtesa për { -brand-name-android }
+sub-navigation-android-add-ons = Shtesa { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
