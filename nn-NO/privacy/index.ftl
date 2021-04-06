@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla }s personvernpraksis
@@ -31,5 +31,5 @@ privacy-index-to-review-and-comment-on-proposed = For å granske og kommentere f
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Les meir om det fortløpande arbeidet vårt med sikkerheit- og ivaretaking av personvern i <a href="{ $blog }">bloggen for { -brand-name-mozilla }'s Open Policy and Advocacy</a>.
 privacy-index-outdated-policies = Utdaterte praksisar
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla }s nettstadar, kommunikasjon og infokapslar
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } nettstadar, kommunikasjon og infokapslar
 privacy-index-firefox-fire-tv = { -brand-name-firefox } for Amazon «{ -brand-name-fire-tv }»
