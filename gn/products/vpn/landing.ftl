@@ -11,6 +11,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: omo’ãta opaite ne mba�
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Eipuru { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembipuru’ípe g̃uarã. Apopyvusu ndive { $country }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
+# Obsolete string
 vpn-landing-hero-sub-heading = Tekorosã nepytyvõkuaáva. Peteĩ téra ejeroviakuaaha.
 vpn-landing-hero-desc = Peteĩ ñanduti mba’eñimiguáva { -brand-name-firefox } apohare rehegua.
 vpn-landing-privacy-heading = Ñemiguáre jepoko
@@ -48,6 +49,8 @@ vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarek
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Eñemboheraguapýmarõ { -brand-name-mozilla-vpn }-pe, ikatu emoambue erekóva térã <a href="{ $url }">eñangareko ne ñemboheraguapýre</a> opa ára.
 vpn-landing-faq-link = Ehechave FAQs
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = ¡Ups! Nereñemboheraguapýi gueteri.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
