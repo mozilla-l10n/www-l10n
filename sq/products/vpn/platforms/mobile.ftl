@@ -32,3 +32,4 @@ vpn-mobile-devices-copy = Pajtimi juaj ju garanton përdorim të pakufizuar të 
 vpn-mobile-speed-headline = Shpejtësi e pabesueshme, pa kufizime
 vpn-mobile-speed-copy = Shihni video, luani lojëra, blini dhe shfletoni me shpejtësi të rrufeshme. { -brand-name-mozilla-vpn } s’do të vërë tavan për sasinë e trafikut tuaj, apo të ngadalësojë telefonin tuaj të mençur.
 vpn-mobile-log-headline = E para është privatësia juaj
+vpn-mobile-log-copy = Në { -brand-name-mozilla } nuk grumbullojmë çfarëdo të dhënash të tilla si cili jeni, apo të regjistrojmë veprimtarinë tuaj në internet — as përmes VPN-së tonë, apo cilitdo prej produkteve tona. Mbrojtja e privatësisë tuaj është një pikë kyçe e misionit më të gjerë të { -brand-name-mozilla }-s.
