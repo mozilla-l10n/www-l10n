@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } ha { -brand-nam
 sub-navigation-desktop-nightly = { -brand-name-nightly } mesa ariguáva
 sub-navigation-features = Tembiapoite
 sub-navigation-support = Ñepytyvõ
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Moĩmbaha
+sub-navigation-add-ons = Moĩmbaha
 sub-navigation-faq = FAQ
 sub-navigation-learn-more = Kuaave
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } pumbyrygua
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = { -brand-name-android } Moĩmbahagua
+sub-navigation-android-add-ons = { -brand-name-android } Moĩmbaha
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }

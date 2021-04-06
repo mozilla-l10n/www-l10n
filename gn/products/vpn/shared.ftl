@@ -62,5 +62,17 @@ vpn-shared-pricing-save-percent = Eñongatu { $percent }%
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } ohupytýva
 
+# Platform subpage shared strings
+
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Mesa arigua
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Pumbyry popegua
+vpn-subnav-platform-windows = { -brand-name-windows }
+
 ##
 

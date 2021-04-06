@@ -7,3 +7,12 @@
 
 # Shared
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Mesa arigua
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Pumbyry popegua
+vpn-subnav-platform-windows = { -brand-name-windows }
