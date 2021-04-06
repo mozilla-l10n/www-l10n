@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Škitajće swój cyły grat
+vpn-landing-hero-sub-heading-v2 = Wěstota, spušćomnosć a spěšnosć – na kóždym graće, wšudźe.
 # Obsolete string
 vpn-landing-hero-sub-heading = Wěstota, na kotruž móžeće so spušćić. Mjeno, kotremuž móžeće dowěrić.
 vpn-landing-hero-desc = Wirtualna priwatna syć wot wuwiwarjow { -brand-name-firefox }.
@@ -19,6 +20,9 @@ vpn-landing-brand-trust-heading = VPN wot marki, kotrejž móžeće dowěrić
 vpn-landing-faq-heading = Huste stajene prašenja
 vpn-langing-faq-uses-question-heading = Što je VPM a za čo so wužiwa?
 vpn-landing-faq-uses-conceal = Waša IP-adresa so schowa. Tak so waše identita škita a waše stejnišćo znjespóznajomni.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Tu je <a href="{ $url }">pjeć přikładow z woprawdźitoweho žiwjenja</a>, hdźež móžeće VPN na swojim graće trjebać.
 vpn-landing-faq-info-question-heading = Kotre informacije { -brand-name-mozilla-vpn } wobchowa?
 vpn-landing-faq-protected-question-heading = Kak so moja priwatnosć škita?
 vpn-landing-faq-competition-question-heading = Kak { -brand-name-mozilla-vpn } porno konkurency wotrězuje?
@@ -31,6 +35,9 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 a no
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (jenož { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Kotre prawidła za zarunanje { -brand-name-mozilla-vpn } płaća?
 vpn-landing-faq-manage-subscription-question-heading = Kak móžu swój abonement rjadować?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Jeli sće { -brand-name-mozilla-vpn } hižo abonował, móžeće koždy čas swój tarif změnić abo <a href="{ $url }">swój abonement rjadować</a>.
 vpn-landing-faq-link = Hlejće dalše husto stajene prašenja
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = Hopla! Po wšěm zdaću hišće njejsće abonement wotzamknył.
