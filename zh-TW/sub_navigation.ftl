@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = 桌面版 { -brand-name-beta } & { -
 sub-navigation-desktop-nightly = 桌面版 { -brand-name-nightly }
 sub-navigation-features = 功能
 sub-navigation-support = 技術支援
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = 附加元件
+sub-navigation-add-ons = 附加元件
 sub-navigation-faq = 常見問題集
 sub-navigation-learn-more = 了解更多
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } 行動版
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = { -brand-name-android } 附加元件
+sub-navigation-android-add-ons = { -brand-name-android } 附加元件
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
