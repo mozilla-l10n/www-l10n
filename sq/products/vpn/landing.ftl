@@ -61,9 +61,31 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (v
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e sipër)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vetëm për { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Cilat janë rregullat e rimbursimit për { -brand-name-mozilla-vpn }?
+vpn-landing-faq-manage-subscription-question-heading = Si ta administroj pajtimin tim?
+vpn-landing-faq-link = Shihni më tepër PBR
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Hëm! Duket se s’jeni pajtuar ende.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Shtohuni te Radha: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Merrni njoftim, kur { -brand-name-mozilla-vpn } të jetë gati për pajisjen dhe rajonin tuaj.
+vpn-landing-invite-page-heading = Bëhuni pjesë e Radhës për VPN
+vpn-landing-invite-email-label = Cila është adresa juaj email?
+vpn-landing-invite-required-label = E domosdoshme
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = emrijuaj@example.com
+vpn-landing-invite-country-label = Në cilin vend jetoni?
+vpn-landing-invite-language-label = Përzgjidhni gjuhën tuaj të parapëlqyer.
+vpn-landing-invite-platform-label = Cilat platforma ju interesojnë?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+vpn-landing-invite-thanks-heading = Faleminderit! Jeni në radhë
+vpn-landing-invite-thanks-desc = Pasi { -brand-name-mozilla-vpn } të jetë gati për rajonin tuaj, do t’ju dërgojmë një email.
 
 ##
 
