@@ -19,3 +19,4 @@ vpn-android-servers-headline = Oĩve { $servers } mohendahavusu hetave { $countr
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Ñemboheraguapy { $devices } mba’e’okápe g̃uarã
+vpn-android-speed-headline = Ipya’etereíva. Mba’ekuaarã hu’ã’ỹva.
