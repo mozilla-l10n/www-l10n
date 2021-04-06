@@ -31,3 +31,4 @@ vpn-windows-devices-copy = Një pajtim { -brand-name-mozilla-vpn } ju jep përdo
 vpn-windows-speed-headline = Pa kufizime për sasi trafiku
 vpn-windows-speed-copy = Shkarkoni, luani, blini dhe eksploroni në internet me shpejtësi marramendëse. Me sasi të pakufizuar të dhënash dhe pa kufizime trafiku, { -brand-name-mozilla-vpn } nuk ju zë rrugën.
 vpn-windows-log-headline = Privatësia juaj është përparësia jonë
+vpn-windows-log-copy = { -brand-name-mozilla } s’do të ndalet kurrë të punojë për një internet më të mirë, që vë privatësinë tuaj mbi të gjitha. Kjo është arsyeja pse { -brand-name-mozilla-vpn } s’grumbullon ndonjë të dhënë mbi ju, apo të regjistrojë veprimtarinë tuaj në internet — asnjë nga produktet tona nuk e bën.
