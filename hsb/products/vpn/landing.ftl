@@ -18,6 +18,7 @@ vpn-landing-brand-trust-heading = VPN wot marki, kotrejž móžeće dowěrić
 
 vpn-landing-faq-heading = Huste stajene prašenja
 vpn-langing-faq-uses-question-heading = Što je VPM a za čo so wužiwa?
+vpn-landing-faq-uses-conceal = Waša IP-adresa so schowa. Tak so waše identita škita a waše stejnišćo znjespóznajomni.
 vpn-landing-faq-info-question-heading = Kotre informacije { -brand-name-mozilla-vpn } wobchowa?
 vpn-landing-faq-protected-question-heading = Kak so moja priwatnosć škita?
 vpn-landing-faq-competition-question-heading = Kak { -brand-name-mozilla-vpn } porno konkurency wotrězuje?
@@ -36,7 +37,9 @@ vpn-landing-sub-not-found = Hopla! Po wšěm zdaću hišće njejsće abonement w
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
-vpn-landing-invite-page-title = Zastupće do čakanskeje lisćiny: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-title = Přistupće čakanskej lisćinje: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Dajće wam informować, hdyž { -brand-name-mozilla-vpn } je za waš grat a region k dispoziciji.
+vpn-landing-invite-page-heading = Přistupće čakanskej lisćinje VPN
 vpn-landing-invite-email-label = Kotra je waša e-mejlowa adresa?
 vpn-landing-invite-required-label = Trěbny
 # Only localize "yourname". Do not change "@example.com".
@@ -50,7 +53,12 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Z kliknjenjom na „Čakanskej lisćinje přistupić“ zwoliće do našich <a href="{ $privacy }">prawidłow priwatnosće</a>.
+vpn-landing-invite-your-information = Waše informacije so jenož wužiwaja, zo bychu was wo disponujomnosći platformy informowali.
 vpn-landing-invite-thanks-heading = Wulki dźak! Sće na lisćinje
+vpn-landing-invite-thanks-desc = Budźemy was z mejlku informować, hdyž { -brand-name-mozilla-vpn } je za waš region k dispoziciji.
 
 ##
 
