@@ -14,3 +14,4 @@ vpn-ios-ability = Teimlwch yn ddiogel rhag hacwyr a llygaid busneslyd pan fyddwc
 vpn-ios-maker-of-firefox = Fel gwneuthurwr y porwr gwe { -brand-name-firefox } ac un o amddiffynwyr mwyaf ffyrnig preifatrwydd ar y rhyngrwyd, mae gan { -brand-name-mozilla } ymrwymiad dwfn i'ch preifatrwydd a'ch diogelwch bob tro y byddwch chi'n mynd ar-lein.
 vpn-ios-wifi-headline = Cadwch yn ddiogel ar-lein pan fyddwch chi ar grwydr
 vpn-ios-wifi-copy = Yn defnyddio wifi cyhoeddus? Dim problem. Mae { -brand-name-mozilla-vpn } yn gadael i chi deimlo'n rhydd i wirio'ch cyfrif banc o gaffi, golygu'ch cyfrineiriau ar gornel stryd - yn y bôn, gallwch chi wneud popeth rydych chi'n ei wneud fel arfer ar eich { -brand-name-iphone } neu { -brand-name-ipad } gyda thawelwch meddwl.
+vpn-ios-about-headline = Pam ymddiried ynom ni?
