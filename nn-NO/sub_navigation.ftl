@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = Datamaskin { -brand-name-beta } og {
 sub-navigation-desktop-nightly = Datamaskin { -brand-name-nightly }
 sub-navigation-features = Funksjonar
 sub-navigation-support = Brukarstøtte
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Utvidingar
+sub-navigation-add-ons = Tillegg
 sub-navigation-faq = Vanlege spørsmål (FAQ)
 sub-navigation-learn-more = Les meir
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } for mobil
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = { -brand-name-android } tillegg
+sub-navigation-android-add-ons = Tillegg for { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
