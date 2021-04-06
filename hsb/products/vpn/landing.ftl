@@ -20,6 +20,7 @@ vpn-landing-faq-heading = Huste stajene prašenja
 vpn-langing-faq-uses-question-heading = Što je VPM a za čo so wužiwa?
 vpn-landing-faq-info-question-heading = Kotre informacije { -brand-name-mozilla-vpn } wobchowa?
 vpn-landing-faq-protected-question-heading = Kak so moja priwatnosć škita?
+vpn-landing-faq-competition-question-heading = Kak { -brand-name-mozilla-vpn } porno konkurency wotrězuje?
 vpn-landing-faq-compatibility-question-heading = Z kotrymi gratami je { -brand-name-mozilla-vpn } kompatibelny?
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibelny z:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } (jenož 64-bitowy)
@@ -27,11 +28,15 @@ vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 a n
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (Wersija 6 a nowše)
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 a nowše)
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (jenož { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Kotre prawidła za zarunanje { -brand-name-mozilla-vpn } płaća?
 vpn-landing-faq-manage-subscription-question-heading = Kak móžu swój abonement rjadować?
 vpn-landing-faq-link = Hlejće dalše husto stajene prašenja
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Hopla! Po wšěm zdaću hišće njejsće abonement wotzamknył.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Zastupće do čakanskeje lisćiny: { -brand-name-mozilla-vpn }
 vpn-landing-invite-email-label = Kotra je waša e-mejlowa adresa?
 vpn-landing-invite-required-label = Trěbny
 # Only localize "yourname". Do not change "@example.com".
