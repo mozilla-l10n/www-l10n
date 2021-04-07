@@ -17,6 +17,7 @@ vpn-windows-wifi-copy = { -brand-name-mozilla-vpn }保护您的互联网连接�
 vpn-windows-about-headline = 来自互联网隐私的领导者
 vpn-windows-about-copy = 作为 { -brand-name-firefox-browser }背后的非营利组织，{ -brand-name-mozilla } 是一个由来自世界各地的互联网公民组成的社区，致力于为所有人保持互联网的自由和资源开放。{ -brand-name-mozilla } 的使命是以人为本，先于利润，确保我们的每一件产品都以您为先。
 vpn-windows-privacy-headline = 只需按下按钮，即可提供保护
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } 使用 { -brand-name-wireguard }® 高级协议加密您的互联网连接，并隐藏您手机或平板电脑的 IP 地址，免遭他人窥视。
 vpn-windows-servers-headline = 访问世界各地的服务器
 # Variables:
 #   $countries (number) - number of available countries
