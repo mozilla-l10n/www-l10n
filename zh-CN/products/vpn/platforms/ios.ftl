@@ -24,3 +24,4 @@ vpn-ios-devices-headline = 保护多达 { $devices } 台设备
 vpn-ios-devices-copy = 一次订阅，即可在最多 { $devices } 台设备上使用 { -brand-name-mozilla-vpn }，支持 { -brand-name-ios } 系统的 { -brand-name-iphone } 和 { -brand-name-ipad }、{ -brand-name-android }、{ -brand-name-mac-short }、{ -brand-name-windows } 及 { -brand-name-linux }。
 vpn-ios-speed-headline = 速度超快，不限流量。
 vpn-ios-log-headline = 你的数据绝对保密。 👈
+vpn-ios-log-copy = 某些 VPN 服务商会记录您在其服务器上的活动。{ -brand-name-mozilla-vpn } 强烈反对此种行为，并承诺永不记录您的在线活动。这是 Mozilla 公司的重要行事原则之一。
