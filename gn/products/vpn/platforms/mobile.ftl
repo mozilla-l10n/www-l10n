@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+vpn-mobile-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
 vpn-mobile-about-headline = { -brand-name-mozilla } rehegua
+vpn-mobile-privacy-headline = Tekoñemi peteĩ jeikutúpe
