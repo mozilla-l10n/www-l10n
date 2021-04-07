@@ -14,6 +14,7 @@ vpn-linux-hero-headline = 适用于 { -brand-name-ubuntu } { -brand-name-linux }
 vpn-linux-wifi-headline = 放心使用公共 Wi-Fi
 vpn-linux-about-headline = 可信赖的品牌，始于 1998
 vpn-linux-privacy-headline = 隐私，一点即得
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } 十分易用。只需轻触按钮，即会使用 { -brand-name-wireguard }® 协议加密您的连接，掩藏您 { -brand-name-iphone } 或 { -brand-name-ipad } 的 IP 地址。
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
