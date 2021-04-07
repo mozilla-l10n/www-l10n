@@ -9,4 +9,5 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-linux } ({ -brand-name-ubuntu }) için { -brand-name-mozilla-vpn }
+vpn-linux-privacy-headline = Güvenlik sadece tek tık uzağınızda
 vpn-linux-log-headline = Verileriniz sizindir

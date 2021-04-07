@@ -6,8 +6,11 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = { -brand-name-mozilla-vpn }’i edinin
 vpn-shared-waitlist-link = Bekleme listesine katılın
 vpn-shared-sign-in-link = Zaten abone misiniz?
+vpn-shared-available-countries = { -brand-name-mozilla-vpn } servisini şu anda ABD, İngiltere, Kanada, Yeni Zelanda, Singapur ve Malezya’da sunuyoruz.
+vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } servisini şu anda ABD, İngiltere, Almanya, Fransa, Kanada, Malezya, Yeni Zelanda ve Singapur’da sunuyoruz.
 vpn-shared-money-back-guarantee = 30 gün para iade garantisi
 vpn-shared-features-encrypt = Cihaz düzeyinde şifreleme
 # Variables:
@@ -27,6 +30,7 @@ vpn-shared-features-full-list-servers = <a href="{ $url }" { $attrs }>Sunucular�
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading = Size uygun planı seçin
 vpn-shared-pricing-recommended-offer = Önerilen
 vpn-shared-pricing-plan-6-month = 6 ay
 vpn-shared-pricing-plan-12-month = 12 ay
@@ -43,6 +47,8 @@ vpn-shared-pricing-total = Toplam { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Başlayalım
+vpn-shared-platform-privacy-promise = Gizliliğiniz sözümüzdür
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }

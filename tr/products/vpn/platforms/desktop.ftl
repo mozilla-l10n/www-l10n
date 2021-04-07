@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = Bilgisayarlar için { -brand-name-mozilla-vpn }
 vpn-desktop-about-headline = { -brand-name-mozilla } hakkında
 vpn-desktop-privacy-headline = Tek tıkla gizlilik
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = { $devices } cihazda koruma
 vpn-desktop-speed-headline = Kısıtlamasız, inanılmaz hız
 vpn-desktop-log-headline = Önceliğimiz gizliliğiniz

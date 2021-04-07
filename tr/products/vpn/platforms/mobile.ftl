@@ -5,5 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+vpn-mobile-privacy-headline = Tek tıkla gizlilik
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = { $devices } cihazda koruma
 vpn-mobile-speed-headline = Kısıtlamasız, inanılmaz hız
 vpn-mobile-log-headline = Önceliğimiz gizliliğiniz

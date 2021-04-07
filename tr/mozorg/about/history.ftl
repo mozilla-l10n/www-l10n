@@ -25,3 +25,6 @@ history-for-more-information-about = { -brand-name-mozilla }’nın tarihiyle il
 history-mozilla-bookmarks = { -brand-name-mozilla } Yer İmleri
 history-timeline-of-mozilla-project = { -brand-name-mozilla } Projesi’nin zaman çizelgesi
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Dijital Anı Bankası
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = { -brand-name-firefox } ve { -brand-name-mozilla } tarihinin posterleri (İngilizce ve Japonca mevcuttur)

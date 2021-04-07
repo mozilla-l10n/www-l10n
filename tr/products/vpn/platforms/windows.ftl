@@ -15,3 +15,5 @@ vpn-windows-wifi-headline = Herkese açık kablosuz ağlarda gizli kalın
 vpn-windows-about-headline = İnternette gizliliğin öncüsünden
 vpn-windows-servers-headline = Dünyanın her yerindeki sunuculara erişin
 vpn-windows-devices-headline = Tüm cihazlarınız için tek abonelik
+vpn-windows-speed-headline = Bant genişliği kısıtlaması yok
+vpn-windows-log-headline = Gizliliğiniz önceliğimizdir
