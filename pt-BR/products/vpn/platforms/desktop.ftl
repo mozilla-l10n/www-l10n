@@ -10,6 +10,10 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } para computador (de mesa e 
 vpn-desktop-page-description = Tenha segurança fácil e rápida em seu computador ou notebook através da { -brand-name-mozilla }, um dos nomes mais confiáveis em tecnologia.
 # Desktop strings
 vpn-desktop-hero-headline = Proteja sua conexão de internet com o { -brand-name-mozilla-vpn } para computador
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-ability = O { -brand-name-mozilla-vpn } te permite conectar com segurança e manter suas informações protegidas de curiosos e ladrões de dados quando você estiver online. O { -brand-name-mozilla-vpn } usa o avançado protocolo { -brand-name-wireguard }® para criptografar dados pessoais em seu notebook ou computador de mesa, em até { $devices } dispositivos. Assista séries, jogue, faça compras e siga sua rotina diária online sabendo que está protegido.
+vpn-desktop-maker-of-firefox = Como desenvolvedora do navegador { -brand-name-firefox } e um dos defensores mais confiáveis da privacidade na internet, a { -brand-name-mozilla } tem o compromisso de assegurar que você se sinta seguro e respeitado sempre que estiver online.
 vpn-desktop-wifi-headline = Sinta-se seguro ao usar uma rede pública de wifi
 vpn-desktop-about-headline = Sobre a { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Privacidade em um clique
