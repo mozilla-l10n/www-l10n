@@ -11,6 +11,7 @@ vpn-android-page-description = Fique seguro com um toque no seu celular { -brand
 # Mobile strings
 vpn-android-hero-headline = Tenha proteção e privacidade online com o { -brand-name-mozilla-vpn } para { -brand-name-android }
 vpn-android-ability = Sinta-se seguro de ter seus dados protegidos de hackers e curiosos, tanto em casa quanto em redes públicas de wifi, com o { -brand-name-mozilla-vpn }. Pelo preço de uma xícara de café, seus dados pessoais no seu dispositivo { -brand-name-android } recebem criptografia avançada por meio do protocolo { -brand-name-wireguard }®. Use o { -brand-name-mozilla-vpn } para assistir séries, jogar, gerenciar suas finanças, fazer compras e qualquer outra coisa online, sabendo que sua conexão é segura.
+vpn-android-maker-of-firefox = Como desenvolvedora do navegador { -brand-name-firefox } e uma das protetoras mais ferrenhas da privacidade na internet, a { -brand-name-mozilla } tem profundo compromisso com sua privacidade e segurança, sempre que você estiver online.
 vpn-android-wifi-headline = Permaneça seguro online quando estiver em movimento
 vpn-android-about-headline = A { -brand-name-mozilla } é um nome em que você pode confiar
 vpn-android-privacy-headline = Um toque para conectar
