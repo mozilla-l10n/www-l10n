@@ -77,3 +77,6 @@ firefox-developer-welcome-to-the-all-new = Dobrodošli v povsem nov { -brand-nam
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je bil popolnoma prenovljen, da bo hitrejši, lepši in močnejši kot kdajkoli prej.
 firefox-developer-congrats-you-now-have-firefox = Čestitamo. Sedaj imate { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = To je več kot le posodobitev. To je { -brand-name-firefox-quantum }: popolnoma prenovljen { -brand-name-firefox }, ki je hitrejši, elegantnejši in zmogljivejši kot kdajkoli prej.
+firefox-developer-welcome-to-firefox-browser = Dobrodošli v { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Brskalnik, ustvarjen za razvijalce
+firefox-developer-congrats-you-now-have = Čestitamo. Sedaj imate { -brand-name-firefox-browser } { -brand-name-developer-edition }.
