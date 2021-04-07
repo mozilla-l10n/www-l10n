@@ -6,7 +6,7 @@
     ],
     "resourceSets": [{
         "type": "FLUENT",
-        "authorizeContent": "true",
+        "authorizeContent": "false",
         "pathRegex": "en\\/(?<path>.*)\\.ftl",
         "translationPathExpression": "${locale}/${path}.${originalFile.extension}",
         "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}"
