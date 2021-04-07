@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Ejuaju tysýi oha’ãrõvare
 vpn-shared-sign-in-link = ¿Eñemboheraguapýma?
 vpn-shared-available-countries = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur ha Malasia-pe.
 vpn-shared-available-countries-v2 = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda ha Singapur-pe.
-vpn-shared-availablity-long = Ko’ág̃a VPN eiprukuaa mba’e’okápe g̃uarã { -brand-name-windows } 10, { -brand-name-android } ha { -brand-name-ios } Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur ha Malasia-pe.
 vpn-shared-money-back-guarantee = 30 ára haguépe ome’ẽkuaajey viru
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Momba’epyre pe
@@ -64,6 +63,9 @@ vpn-shared-pricing-total = { $amount } ohupytýva
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Ñañepyrũkatu
+vpn-shared-platform-cta-button = Ehecha hepy ha joguakuaa
+vpn-shared-platform-privacy-promise = Ne ñemigua ha’e ore me’ẽmbyrã
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
