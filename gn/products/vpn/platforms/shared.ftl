@@ -7,6 +7,7 @@
 
 # Shared
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
+vpn-platforms-shared-cta-headline = Ñañepyrũkatu
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
