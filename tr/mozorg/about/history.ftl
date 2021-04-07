@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
+history-history-of-the-mozilla-project = { -brand-name-mozilla } Projesi'nin Tarihçesi
+# Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = { -brand-name-mozilla } projesi açık bir topluluk oluşturarak <a href="{ $stevecase }">tüm şirketlerden daha büyük</a> hale geldi.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = 2002 itibarıyla internet kullanıcılarının %90’ından fazlası { -brand-name-ie } kullanıyordu.
