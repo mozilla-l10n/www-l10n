@@ -22,7 +22,16 @@ vpn-android-privacy-copy = Usar o { -brand-name-mozilla-vpn } para { -brand-name
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = Mais de { $servers } servidores em mais de { $countries } países
 # Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = Com o { -brand-name-mozilla-vpn }, você pode definir a localização do seu celular { -brand-name-android } em mais de { $countries } países. Significa que você acessa a web como se estivesse no país em que está conectado. É uma forma interessante e divertida de experimentar a web a partir de uma nova perspectiva.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Uma única assinatura para até { $devices } dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = O { -brand-name-mozilla-vpn } permite conectar { $devices } dispositivos diferentes, incluindo { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }. Use em seu celular, computador, notebook, tablet e outros.
 vpn-android-speed-headline = Velocidades extremamente rápidas. Dados ilimitados.
+vpn-android-speed-copy = Jogue online, assista filmes e navegue na web em velocidades muito rápidas no seu dispositivo { -brand-name-android }, tudo com largura de banda ilimitada.
 vpn-android-log-headline = Sem registros. Sem rastreamento. Sem invasões de privacidade.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Muitos provedores de VPN registram sua atividade em seus servidores. Não é assim que fazemos as coisas. O { -brand-name-mozilla-vpn } nunca rastreia sua atividade online. Isso é contra tudo que defendemos como empresa. Nós colocamos sua privacidade e segurança em primeiro lugar, acima de tudo.
