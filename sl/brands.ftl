@@ -37,7 +37,15 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-mullvad = Mullvad
--brand-name-netscape = Netscape
+-brand-name-netscape =
+    { $sklon ->
+       *[imenovalnik] Netscape
+        [rodilnik] Netscapa
+        [dajalnik] Netscapu
+        [tozilnik] Netscape
+        [mestnik] Netscapu
+        [orodnik] Netscapom
+    }
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
 
@@ -54,7 +62,15 @@
     }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Brskalnik Firefox
--brand-name-firefox-browsers = Brskalniki Firefox
+-brand-name-firefox-browsers =
+    { $sklon ->
+       *[imenovalnik] Brskalniki Firefox
+        [rodilnik] Brskalnikov Firefox
+        [dajalnik] Brskalnikom Firefox
+        [tozilnik] Brskalnike Firefox
+        [mestnik] Brskalnikih Firefox
+        [orodnik] Brskalniki Firefox
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
