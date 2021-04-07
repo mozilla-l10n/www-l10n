@@ -14,9 +14,13 @@ vpn-ios-maker-of-firefox = Como desenvolvedora do navegador { -brand-name-firefo
 vpn-ios-wifi-headline = Permaneça seguro online quando estiver em trânsito
 vpn-ios-about-headline = Por que confiar em nós?
 vpn-ios-privacy-headline = Conexão em 1 clique
+vpn-ios-privacy-copy = O { -brand-name-mozilla-vpn } é muito fácil de usar. Toque em um botão e ele criptografa a conexão e oculta seu endereço IP no { -brand-name-iphone } ou { -brand-name-ipad } usando o avançado protocolo { -brand-name-wireguard }®.
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Conecte-se a mais de { $servers } no mundo todo
+# Variables:
+#   $countries (number) - number of available countries
+vpn-ios-servers-copy = Compre na Suíça. Assista vídeos no Canadá. Navegue da Austrália. Com o { -brand-name-mozilla-vpn }, você pode mudar a localização de seu { -brand-name-iphone } ou { -brand-name-ipad } para mais de { $countries } países, abrindo-se para um mundo de conteúdo empolgante.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Tenha acesso em { $devices } dispositivos
