@@ -7,3 +7,5 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Kaj je spletni brskalnik?
+what-is-a-browser-how-does-a-web = Kako spletni brskalnik deluje?
+what-is-a-browser-cookies-not-the = Piškotki (ne tisti okusni)
