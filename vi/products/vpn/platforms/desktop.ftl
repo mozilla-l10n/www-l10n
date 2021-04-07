@@ -23,6 +23,8 @@ vpn-desktop-privacy-copy = Ứng dụng { -brand-name-mozilla-vpn } mã hóa k�
 vpn-desktop-servers-headline = Kết nối với các máy chủ trên toàn thế giới
 # Variables:
 #   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Duyệt từ Brazil. Trò chơi đến từ Nhật Bản. Stream từ Mexico. { -brand-name-mozilla-vpn } cho phép bạn thay đổi vị trí điện thoại hoặc máy tính của mình thành một trong { $servers } máy chủ.
+# Obsolete string
 vpn-desktop-servers-copy = Duyệt từ Brazil. Trò chơi đến từ Nhật Bản. Stream từ Mexico. { -brand-name-mozilla-vpn } cho phép bạn thay đổi vị trí điện thoại hoặc máy tính của mình thành một trong { $servers } máy chủ.
 # Variables:
 #   $devices (number) - number of available devices

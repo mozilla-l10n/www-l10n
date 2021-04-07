@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } & { -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } dành cho máy tính để bàn
 sub-navigation-features = Tính năng
 sub-navigation-support = Hỗ trợ
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Tiện ích
+sub-navigation-add-ons = Tiện ích
 sub-navigation-faq = Câu hỏi thường gặp
 sub-navigation-learn-more = Tìm hiểu thêm
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } dành cho di động
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Tiện ích { -brand-name-android }
+sub-navigation-android-add-ons = Tiện ích { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
