@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = 适用于 { -brand-name-linux }（{ -brand-name-ubuntu }）的 { -brand-name-mozilla-vpn }
+vpn-linux-page-description = 作为 { -brand-name-ubuntu } { -brand-name-linux } 的粉丝，您可能会更明白网络隐私和安全的重要性。您或许已经听说过 { -brand-name-mozilla } 以及我们的愿景，即一个属于所有人的私密、开放和自由的互联网。那么现在，是时候“双剑合璧”了。
 # Linux strings
 vpn-linux-hero-headline = 适用于 { -brand-name-ubuntu } { -brand-name-linux } 的 { -brand-name-mozilla-vpn } — 隐私界的天作之合
 vpn-linux-wifi-headline = 放心使用公共 Wi-Fi
