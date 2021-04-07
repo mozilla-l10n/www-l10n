@@ -26,7 +26,7 @@ vpn-landing-fast-secure-desc = O { -brand-name-mozilla-vpn } funciona numa rede 
 vpn-landing-brand-trust-heading = Uma VPN de uma empresa em que você pode confiar
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = Por mais de 20 anos, a { -brand-name-mozilla } tem um histórico de colocar as pessoas em primeiro lugar e lutar pela privacidade online. Respaldada por uma organização sem fins lucrativos, temos o compromisso de construir uma internet melhor e mais saudável para todas as pessoas. Tudo o que fazemos faz parte de nossa missão e segue nossos <a href="{ $url }">princípios</a>.
+vpn-landing-brand-trust-desc = Por mais de 20 anos, a { -brand-name-mozilla } tem uma trajetória de colocar as pessoas em primeiro lugar e lutar pela privacidade online. Respaldada por uma organização sem fins lucrativos, temos o compromisso de construir uma internet melhor e mais saudável para todas as pessoas. Tudo o que fazemos faz parte de nossa missão e segue nossos <a href="{ $url }">princípios</a>.
 
 ## FAQ section
 

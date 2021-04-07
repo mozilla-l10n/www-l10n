@@ -20,6 +20,9 @@ vpn-desktop-about-headline = Sobre a { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Privacidade em um clique
 vpn-desktop-privacy-copy = O aplicativo { -brand-name-mozilla-vpn } criptografa a conexão com a internet e oculta seu endereço IP no celular ou tablet, usando o avançado protocolo { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Conecte-se a servidores no mundo todo
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Navegue no Brasil. Jogue do Japão. Assista vídeos no México. O { -brand-name-mozilla-vpn } permite mudar a localização de seu computador ou celular para um dos { $servers } servidores.
 # Obsolete string
 vpn-desktop-servers-copy = Navegue no Brasil. Jogue do Japão. Assista vídeos no México. O { -brand-name-mozilla-vpn } permite alterar a localização do seu computador ou celular para { $servers } lugares diferentes.
 # Variables:
