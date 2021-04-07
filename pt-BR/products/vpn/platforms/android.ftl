@@ -15,6 +15,7 @@ vpn-android-maker-of-firefox = Como desenvolvedora do navegador { -brand-name-fi
 vpn-android-wifi-headline = Permaneça seguro online quando estiver em movimento
 vpn-android-wifi-copy = Às vezes, os dados móveis não estão disponíveis e uma rede pública de wifi é sua única opção. Com o { -brand-name-mozilla-vpn } no seu dispositivo { -brand-name-android }, você não precisa se preocupar ao usar uma senha num aeroporto ou fazer uma compra online num restaurante, basta conectar com um toque e fazer suas coisas.
 vpn-android-about-headline = A { -brand-name-mozilla } é um nome em que você pode confiar
+vpn-android-about-copy = Somos mais conhecidos por nosso navegador, { -brand-name-firefox }, mas a { -brand-name-mozilla } como organização mais ampla tem uma missão central — lutar por seus direitos online. É o que sempre fizemos, desde 1998. Somos os defensores da internet, com compromisso em garantir que ela permaneça aberta e livre, respeitando o direito de todos a ter privacidade e segurança.
 vpn-android-privacy-headline = Um toque para conectar
 vpn-android-privacy-copy = Usar o { -brand-name-mozilla-vpn } para { -brand-name-android } é super simples. Toque em um botão e sua conexão é automaticamente criptografada com o avançado protocolo { -brand-name-wireguard }®. Só isso!
 # Variables:
