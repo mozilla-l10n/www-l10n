@@ -21,4 +21,4 @@ vpn-mac-servers-headline = Acesse servidores no mundo todo
 vpn-mac-devices-headline = Proteja { $devices } dispositivos com uma única assinatura
 vpn-mac-speed-headline = Sem necessidade de sacrificar a velocidade
 vpn-mac-log-headline = O que você faz online é da sua conta
-vpn-mac-log-copy = Desfrute de paz de espírito usando o { -brand-name-mozilla-vpn }. Seus dados são criptografados, sua atividade nunca é registrada e sua privacidade é sempre protegida. É nosso compromisso com você.
+vpn-mac-log-copy = Desfrute a tranquilidade de usar o { -brand-name-mozilla-vpn }. Seus dados são criptografados, sua atividade nunca é registrada e sua privacidade está sempre protegida. É nosso compromisso com você.
