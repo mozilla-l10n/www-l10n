@@ -8,6 +8,9 @@
 # Shared
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = Ñañepyrũkatu
+vpn-platforms-shared-cta = Ehecha hepy ha joguakuaa
+vpn-platforms-shared-day-guarantee = 30 ára haguépe ome’ẽkuaajey viru
+vpn-platforms-shared-what-youll-get = Mba’e erekokuaa { -brand-name-mozilla-vpn } ndive:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
