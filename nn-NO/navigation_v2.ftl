@@ -12,6 +12,7 @@ navigation-v2-menu = Meny
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Lat att { -brand-name-firefox-browsers }-menyen
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
+navigation-v2-get-the-not-for-profit-backed = Last ned den ideelle nettlesaren for { -brand-name-windows }, { -brand-name-mac-short } eller { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Få den tilpassbare mobilnettlesaren for { -brand-name-android }-smarttelefonar.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
@@ -36,9 +37,12 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Hjelp til med å hindre at { -brand-name-facebook } samlar inn data utanfor nettstaden deira.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Produktlovnad
+navigation-v2-learn-how-each-firefox-product = Lær deg korleis kvart { -brand-name-firefox }-produkt vernar og respekterer dina data.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Registrer deg for nye kontoar utan å gje frå deg e-postadressa di.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Beskytt nettlesartilkoplinga til internett.
 navigation-v2-view-all-products = Vis alle produkta
 
 ## Who We Are menu
