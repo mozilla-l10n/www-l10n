@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
+vpn-mac-page-description = Seja em um computador ou notebook { -brand-name-mac-short }, { -brand-name-ipad } ou { -brand-name-iphone }, proteja todo o seu dispositivo de hackers e curiosos com uma VPN da { -brand-name-mozilla }, pioneira em segurança na internet desde 1998.
 # Mac strings
 vpn-mac-hero-headline = Proteja sua conexão online com o { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
 vpn-mac-wifi-headline = Sinta-se seguro em redes wifi duvidosas

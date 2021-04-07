@@ -17,6 +17,7 @@ vpn-linux-maker-of-firefox = Sendo um dos nomes mais confiáveis no setor de tec
 vpn-linux-wifi-headline = Permaneça seguro online quando precisar usar uma rede pública de wifi
 vpn-linux-wifi-copy = Às vezes, uma rede pública wifi é sua melhor ou única opção. O { -brand-name-mozilla-vpn } permite que você se sinta livre para acessar seu email no aeroporto, editar suas senhas em uma cafeteria, tudo que você normalmente faz em casa com a mesma tranquilidade.
 vpn-linux-about-headline = Um nome confiável desde 1998
+vpn-linux-about-copy = Como criadora do navegador { -brand-name-firefox }, a { -brand-name-mozilla } tem lutado por seus direitos online há décadas. É o que fazemos. Como alternativa a empresas de tecnologia que coletam enorme quantidade de dados, estamos constantemente descobrindo novas maneiras de manter a internet aberta e livre, respeitando o direito de todos à privacidade.
 vpn-linux-privacy-headline = Segurança a apenas 1 clique
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } is super fácil de usar. Toque em um botão e ele criptografa sua conexão e oculta o endereço IP em seu { -brand-name-iphone } ou { -brand-name-ipad } usando o avançado protocolo { -brand-name-wireguard }®.
 # Variables:
