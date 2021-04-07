@@ -123,7 +123,7 @@ firefox-desktop-download-learn-about-the = Saiba mais abaixo sobre o navegador {
 firefox-desktop-download-from-security-to = Desde segurança a notícias e jogos, há <a { $attrs }>extensões para todos</a>. Adicione quantas quiser até o navegador ficar do seu jeito.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi criado pela <a { $attrs }>{ -brand-name-mozilla }</a> como uma alternativa mais rápida e privativa a navegadores como o { -brand-name-ie } e atualmente o { -brand-name-chrome }. Atualmente, nossa empresa e comunidade de voluntários, motivados por uma missão, continuam a colocar sua privacidade acima de tudo.
+firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi criado pela <a { $attrs }>{ -brand-name-mozilla }</a> como uma alternativa mais rápida e privativa a navegadores como o { -brand-name-ie } e atualmente o { -brand-name-chrome }. Nossa empresa e a comunidade de voluntários, motivados por uma missão, continuam a colocar sua privacidade acima de tudo.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = À medida que a internet cresce e muda, o { -brand-name-firefox } continua a se concentrar no seu direito à privacidade — chamamos isso de <a { $attrs }>Compromisso de como lidar com dados pessoais</a>: Coletar menos. Manter seguro. Sem segredos. Seus dados, sua atividade na web, sua vida online são protegidos pelo { -brand-name-firefox }.
