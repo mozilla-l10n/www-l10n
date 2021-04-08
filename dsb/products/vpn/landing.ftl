@@ -35,9 +35,34 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 a no
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (jano { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Kótare pšawidła za zarownanje { -brand-name-mozilla-vpn } płaśe?
 vpn-landing-faq-manage-subscription-question-heading = Kak mógu swój abonement zastojaś?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Jolic sćo južo aboněrował { -brand-name-mozilla-vpn }, móžośo kuždy cas swój tarif změniś abo <a href="{ $url }">swój abonement zastojaś</a>.
+vpn-landing-faq-link = Glejśo dalšne cesto stajone pšašanja
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Hopla! Zazdaśim hyšći njejsćo wótzamknuł abonement.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Pśistupśo cakanskej lisćinje: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Dajśo wam informěrowaś, gaž { -brand-name-mozilla-vpn } jo za waš rěd a region k dispoziciji.
+vpn-landing-invite-page-heading = Pśistupśo cakanskej lisćinje VPN
+vpn-landing-invite-email-label = Kótara jo waša e-mailowa adresa?
+vpn-landing-invite-required-label = Trjebny
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = wašomě@example.com
+vpn-landing-invite-country-label = W kótarem kraju sćo žywy?
+vpn-landing-invite-language-label = Wubjeŕśo swóju preferěrowanu rěc.
+vpn-landing-invite-platform-label = Na kótare platformy sćo zajmowany?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Z kliknjenim na „Cakańskej lisćinje pśistupiś“ zwólijośo do našych <a href="{ $privacy }">pšawidłow priwatnosći</a>.
 
 ##
 
