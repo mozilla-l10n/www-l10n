@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Iscriviti alla lista d’attesa
 vpn-shared-sign-in-link = Sei già abbonato?
 vpn-shared-available-countries = Offriamo { -brand-name-mozilla-vpn } negli Stati Uniti, nel Regno Unito, in Canada, Nuova Zelanda, Singapore e Malesia.
 vpn-shared-available-countries-v2 = Per ora offriamo { -brand-name-mozilla-vpn } negli Stati Uniti, nel Regno Unito, in Germania, Francia, Canada, Malesia, Nuova Zelanda e Singapore.
-vpn-shared-availablity-long = La VPN è disponibile per { -brand-name-windows } 10, { -brand-name-android } e { -brand-name-ios } negli Stati Uniti, nel Regno Unito, in Canada, Nuova Zelanda, Singapore e Malesia.
 vpn-shared-money-back-guarantee = Garanzia “soddisfatti o rimborsati” di 30 giorni
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Nominata da
@@ -22,10 +21,10 @@ vpn-shared-features-encrypt = Crittografia a livello di dispositivo
 vpn-shared-features-servers = Più di { $servers } server in più di { $countries } Paesi
 vpn-shared-features-bandwidth = Nessuna limitazione alla larghezza di banda
 vpn-shared-features-activity = Nessuna registrazione della tua attività di rete
-vpn-shared-features-activity-logs = Nessun tracciamento delle attività online né ora né mai
+vpn-shared-features-activity-logs = Nessun tracciamento delle attività online, né ora né mai
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Accesso ai server in più di { $countries } Paesi
+vpn-shared-features-access-countries = Accesso a server in più di { $countries } Paesi
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Possibilità di connettere fino a { $devices } dispositivi
@@ -45,7 +44,7 @@ vpn-shared-countries-coming-soon = Disponibile attualmente in { $countries } Pae
 vpn-shared-features-full-list-servers = Visualizza la lista completa dei <a href="{ $url }" { $attrs }>server</a>.
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Server potenti in più di { $countries } Paesi
+vpn-shared-features-strong-servers = Server affidabili in più di { $countries } Paesi
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Connetti fino a { $devices } dispositivi
@@ -79,7 +78,13 @@ vpn-shared-pricing-total = { $amount } totali
 
 vpn-shared-platform-cta-headline = Cominciamo
 vpn-shared-platform-cta-button = Vedi prezzi e disponibilità
+vpn-shared-platform-privacy-promise = Il nostro impegno è per la tua privacy
 vpn-shared-platform-trust-partner-headline = Informazioni sui nostri partner di fiducia
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } viene eseguita su una rete mondiale di server sviluppata da <a href="{ $policy }">{ -brand-name-mullvad }</a> utilizzando il protocollo <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } mette la tua privacy al primo posto e non conserva registri di alcun tipo.
+vpn-shared-platform-what-youll-get = Che cosa avrai con { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
