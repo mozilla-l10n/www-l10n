@@ -18,6 +18,13 @@ history-within-the-first-year-new = Μέσα στον <a href="{ $firstyear }">�
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Δημιουργώντας μια ανοικτή κοινότητα, το έργο { -brand-name-mozilla } έχει γίνει <a href="{ $stevecase }">μεγαλύτερο από οποιαδήποτε εταιρεία</a>.
 # Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Με τη συμβολή των μελών της κοινότητας, η <a href="{ $mission }">αρχική αποστολή</a> του έργου επεκτάθηκε — αντί να εργαστούν πάνω στο επόμενο { -brand-name-netscape }, άρχισαν να δημιουργούν <a href="{ $browsers }">διάφορα προγράμματα περιήγησης</a>, <a href="{ $bugzilla }">εργαλεία ανάπτυξης</a>, καθώς και μια σειρά άλλων <a href="{ $projects }">έργων</a>.
+history-people-contributed-to-mozilla = Ο κόσμος συνεισέφερε στη { -brand-name-mozilla } με διάφορους τρόπους, αλλά όλοι ήταν παθιασμένοι με τη δημιουργία ελεύθερου λογισμικού που θα τους επέτρεπε να επιλέξουν πώς θα χρησιμοποιήσουν το διαδίκτυο.
+# Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = Μετά από μερικά χρόνια ανάπτυξης, το <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, η πρώτη κύρια έκδοση, κυκλοφόρησε το 2002. Αυτή η έκδοση περιλάμβανε πολλές βελτιώσεις στο πρόγραμμα περιήγησης, το πρόγραμμα email και τις άλλες εφαρμογές της σουίτας, αλλά δεν το χρησιμοποιούσαν πολλοί άνθρωποι.
 # Variables:
@@ -49,6 +56,7 @@ history-the-future-is-full-of-challenges = Το μέλλον είναι γεμά
 history-theres-no-guarantee-that = Δεν υπάρχει εγγύηση ότι το διαδίκτυο θα παραμείνει ανοιχτό ή ευχάριστο ή ασφαλές.
 history-mozilla-will-continue-to = Η { -brand-name-mozilla } θα συνεχίσει να παρέχει την ευκαιρία στους ανθρώπους να ακουστούν και να ορίσουν τις δικές τους διαδικτυακές ζωές.
 history-of-course-were-not-alone = Φυσικά, δεν είμαστε μόνοι σε αυτό.
+history-the-mozilla-community-together = Η κοινότητα της { -brand-name-mozilla }, μαζί με άλλα έργα ανοικτού κώδικα και οργανισμούς κοινής ωφελείας, υπάρχει μόνο χάρη στους ανθρώπους που συμβάλουν στην πραγματοποίηση των κοινών μας στόχων.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Αν θέλετε να συμμετάσχετε στην αποστολή μας, παρακαλούμε <a href="{ $contribute }">γίνετε μέλος</a>.
