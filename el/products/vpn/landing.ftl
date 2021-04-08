@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Ολική προστασία συσκευής
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Χρησιμοποιήστε το { -brand-name-mozilla-vpn } για πλήρη προστασία όλων των εφαρμογών της συσκευής σας. Με διακομιστές σε { $countries }+ χώρες, μπορείτε να συνδεθείτε παντού, από παντού.
 vpn-landing-hero-sub-heading-v2 = Ασφάλεια, αξιοπιστία και ταχύτητα — σε κάθε συσκευή, όπου κι αν πάτε.
 vpn-landing-hero-desc = Ένα εικονικό ιδιωτικό δίκτυο (VPN) από τους δημιουργούς του { -brand-name-firefox }.
 vpn-landing-privacy-heading = Απόρρητο με ένα πάτημα

@@ -9,6 +9,8 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
+vpn-shared-available-countries = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, το Ηνωμένο Βασίλειο, τον Καναδά, τη Νέα Ζηλανδία, τη Σιγκαπούρη και τη Μαλαισία.
+vpn-shared-available-countries-v2 = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, το Ηνωμένο Βασίλειο, τη Γερμανία, τη Γαλλία, τον Καναδά, τη Μαλαισία, τη Νέα Ζηλανδία και τη Σιγκαπούρη.
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο συσκευής
 # Variables:
@@ -42,9 +44,11 @@ vpn-shared-features-connect = Σύνδεση έως και { $devices } συσκ
 vpn-shared-refund-policy = Πολιτική επιστροφής
 vpn-shared-privacy-notice = Σημείωση απορρήτου
 vpn-shared-terms-conditions = Όροι και συνθήκες
+vpn-shared-wireguard-copyright = Το { -brand-name-wireguard } αποτελεί κατοχυρωμένο εμπορικό σήμα του Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading = Επιλέξτε το πρόγραμμα που σας ταιριάζει
 vpn-shared-pricing-variable-sub-heading = Όλα μας τα πακέτα περιλαμβάνουν:
 vpn-shared-pricing-recommended-offer = Προτείνεται
 vpn-shared-pricing-plan-monthly = Μηνιαία
