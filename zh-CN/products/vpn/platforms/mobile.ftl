@@ -12,6 +12,7 @@ vpn-mobile-page-description = 通过 VPN 保护您的智能手机和平板电脑
 vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } 可保护您在手机上的隐私
 vpn-mobile-maker-of-firefox = 由 { -brand-name-firefox } 开发商打造的基本隐私工具，无论身处何地，{ -brand-name-mozilla-vpn } 都可让手机安全私密地接入互联网。
 vpn-mobile-wifi-headline = 放心使用公共 WI-FI
+vpn-mobile-wifi-copy = 我们的 VPN 可以保护您的互联网连接不受黑客和间谍的攻击，因此您可以在咖啡店购物，在火车上查看您的银行账户，并在 IP 受到保护的情况下开展您的在线业务。
 vpn-mobile-about-headline = 关于 { -brand-name-mozilla }
 vpn-mobile-privacy-headline = 隐私，一点即得
 vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } 应用程序使用 { -brand-name-wireguard }® 高级协议加密您的互联网连接，并隐藏您手机或平板电脑的 IP 地址。
