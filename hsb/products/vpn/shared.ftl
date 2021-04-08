@@ -7,7 +7,10 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstarać
+vpn-shared-waitlist-link = Přistupće čakanskej lisćinje
 vpn-shared-sign-in-link = Sće hižo abonent?
+vpn-shared-available-countries = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Zjednoćenym kralestwu, Kanadźe, Nowoseelandskej, Singapurje a Malajziji poskićamy.
+vpn-shared-available-countries-v2 = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Zjednoćenym kralestwu, Francoskej, Kanadźe, Malajziji, Nowoseelandskej a Singapurje poskićamy.
 vpn-shared-money-back-guarantee = 30-dnjowska garantija wróćenja pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Předstajeny w
@@ -47,6 +50,9 @@ vpn-shared-pricing-save-percent = { $percent } % zalutować
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } dohromady
+
+# Platform subpage shared strings
+
 
 ##
 
