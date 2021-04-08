@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Ολική προστασία συσκευής
+vpn-landing-hero-sub-heading-v2 = Ασφάλεια, αξιοπιστία και ταχύτητα — σε κάθε συσκευή, όπου κι αν πάτε.
 vpn-landing-hero-desc = Ένα εικονικό ιδιωτικό δίκτυο (VPN) από τους δημιουργούς του { -brand-name-firefox }.
 vpn-landing-privacy-heading = Απόρρητο με ένα πάτημα
 vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτυο
@@ -16,11 +17,15 @@ vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία πο
 
 vpn-landing-faq-heading = Συχνές ερωτήσεις
 vpn-langing-faq-uses-question-heading = Τι είναι το VPN και ποιες οι χρήσεις του;
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Δείτε <a href="{ $url }">πέντε πραγματικά παραδείγματα</a>, στα οποία θα χρειαστείτε VPN στη συσκευή σας.
 vpn-landing-faq-info-question-heading = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Δεν καταγράφουμε, παρακολουθούμε ή κοινοποιούμε καμία διαδικτυακή σας δραστηριότητα. Τηρούμε αυστηρά τις { -brand-name-mozilla }’s <a href="{ $url }">Αρχές απορρήτου δεδομένων</a> και συλλέγουμε μόνο τα δεδομένα που απαιτούνται για τη λειτουργία του VPN και τη βελτίωση του προϊόντος.
 vpn-landing-faq-protected-question-heading = Πώς προστατεύεται το απόρρητό μου;
+vpn-landing-faq-competition-question-heading = Πώς συγκρίνεται το { -brand-name-mozilla-vpn } με τον ανταγωνισμό;
 vpn-landing-faq-compatibility-question-heading = Με ποιες συσκευές είναι συμβατό το { -brand-name-mozilla-vpn };
 vpn-landing-faq-compatibility-question-desc = Το { -brand-name-mozilla-vpn } είναι συμβατό με:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (μόνο 64-bit)
