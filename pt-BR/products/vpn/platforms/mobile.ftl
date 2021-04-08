@@ -11,6 +11,9 @@ vpn-mobile-page-description = Proteja seu celular e tablet com uma VPN da { -bra
 # Mobile strings
 vpn-mobile-hero-headline = Proteja sua privacidade no celular com o { -brand-name-mozilla-vpn }
 vpn-mobile-maker-of-firefox = Garanta a privacidade da conexão de internet do seu celular, não importa onde você esteja, com o { -brand-name-mozilla-vpn }, uma ferramenta de privacidade essencial feita pelos criadores do { -brand-name-firefox }.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-ability = O { -brand-name-mozilla-vpn } impede que hackers e espiões vejam seu endereço IP e oculta sua localização online. Com criptografia avançada e sem restrições de largura de banda, ele faz navegar e assistir vídeos no seu celular ou tablet ficar muito rápido e com proteção confiável. Por uma pequena taxa mensal, você pode proteger até { $devices } dispositivos e se conectar a dezenas de servidores no mundo todo.
 vpn-mobile-wifi-headline = Sinta-se seguro ao usar uma rede pública de wifi
 vpn-mobile-about-headline = Sobre a { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Privacidade em um clique
