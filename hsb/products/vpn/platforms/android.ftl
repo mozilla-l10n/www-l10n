@@ -20,3 +20,4 @@ vpn-android-servers-headline = Přez { $servers } serwerow w přez { $countries 
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Jedyn abonement za hač { $devices } gratow
 vpn-android-speed-headline = Ultraspěšne spěšnosće. Njewobmjezowane daty.
+vpn-android-log-headline = Žane protokole. Žane slědowanje. Žane zasahi do priwatnosće.
