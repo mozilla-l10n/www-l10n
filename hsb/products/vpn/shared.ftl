@@ -80,6 +80,16 @@ vpn-shared-platform-cta-headline = Započńmy
 vpn-shared-platform-cta-button = Płaćizny a disponujomnosć sej wobhladać
 vpn-shared-platform-privacy-promise = Waša priwatnosć je naše slubjenje
 vpn-shared-platform-trust-partner-headline = Wo našim dowěryhódnym partnerje
+vpn-shared-platform-what-youll-get = Štož z { -brand-name-mozilla-vpn } dóstanjeće:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Desktop
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Mobilny telefon
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 
