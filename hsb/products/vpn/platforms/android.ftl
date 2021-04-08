@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
+# Meta strings
+vpn-android-page-title = { -brand-name-mozilla-vpn } za { -brand-name-android }
+# Mobile strings
+vpn-android-hero-headline = Dóstańće škit a priwatnosć online z { -brand-name-mozilla-vpn } za { -brand-name-android }
 vpn-android-wifi-headline = Škitajće so online, hdyž sće po puću
 vpn-android-about-headline = { -brand-name-mozilla } je mjeno, kotremuž móžeće dowěrić
 vpn-android-privacy-headline = Jedyn podótk, zo byšće zwjazował
@@ -15,3 +19,4 @@ vpn-android-servers-headline = Přez { $servers } serwerow w přez { $countries 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Jedyn abonement za hač { $devices } gratow
+vpn-android-speed-headline = Ultraspěšne spěšnosće. Njewobmjezowane daty.
