@@ -9,7 +9,7 @@
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } per desktop (PC e portatile)
 vpn-desktop-page-description = Ottieni una protezione rapida e semplice sui computer desktop e portatili con { -brand-name-mozilla }, uno dei nomi più affidabili nel panorama della tecnologia.
 # Desktop strings
-vpn-desktop-hero-headline = Proteggi la tua connessione Internet con { -brand-name-mozilla-vpn } per desktop
+vpn-desktop-hero-headline = Proteggi la tua connessione a Internet con { -brand-name-mozilla-vpn } per desktop
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-ability = { -brand-name-mozilla-vpn } ti dà la possibilità di connetterti in modo sicuro e mantenere le tue informazioni protette da occhi indiscreti e dai furti di dati quando sei online. { -brand-name-mozilla-vpn } utilizza il protocollo avanzato { -brand-name-wireguard }® per crittare i dati personali sul tuo computer portatile o desktop, per un massimo di { $devices } dispositivi. Riproduci contenuti in streaming, gioca, fai acquisti e occupati della tua attività online avendo la certezza di essere al sicuro.
@@ -21,8 +21,7 @@ vpn-desktop-about-copy = Maggiormente nota per il nostro { -brand-name-firefox-b
 vpn-desktop-privacy-headline = Privacy in un clic
 vpn-desktop-privacy-copy = L’app { -brand-name-mozilla-vpn } critta la tua connessione a Internet e nasconde l’indirizzo IP del tuo smartphone o tablet usando il protocollo avanzato { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Connettiti a server in tutto il mondo
-# Variables:
-#   $servers (number) - number of available servers
+# Obsolete string
 vpn-desktop-servers-copy = Naviga dal Brasile, gioca dal Giappone e riproduci in streaming dal Messico. { -brand-name-mozilla-vpn } ti permette di cambiare la posizione del tuo telefono o computer scegliendo tra { $servers } alternative.
 # Variables:
 #   $devices (number) - number of available devices
