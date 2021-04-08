@@ -10,6 +10,7 @@ vpn-mobile-page-title = 适用于移动设备（智能手机和平板电脑）�
 vpn-mobile-page-description = 通过 VPN 保护您的智能手机和平板电脑，互联网隐私先驱 { -brand-name-mozilla } 出品，值得信赖。
 # Mobile strings
 vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } 可保护您在手机上的隐私
+vpn-mobile-maker-of-firefox = 由 { -brand-name-firefox } 开发商打造的基本隐私工具，无论身处何地，{ -brand-name-mozilla-vpn } 都可让手机安全私密地接入互联网。
 vpn-mobile-wifi-headline = 放心使用公共 WI-FI
 vpn-mobile-about-headline = 关于 { -brand-name-mozilla }
 vpn-mobile-privacy-headline = 隐私，一点即得
