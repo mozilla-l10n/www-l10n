@@ -17,6 +17,7 @@ vpn-android-wifi-copy = A volte i dati mobili non sono disponibili e utilizzare 
 vpn-android-about-headline = { -brand-name-mozilla } è un nome di cui puoi fidarti
 vpn-android-about-copy = Siamo conosciuti in particolare per il nostro browser { -brand-name-firefox }, tuttavia { -brand-name-mozilla } ha più in generale una missione fondamentale: battersi per i tuoi diritti online. Lo facciamo dal 1998. Siamo i sostenitori di Internet, impegnati a garantire che rimanga aperto e libero nel rispetto del diritto di tutti a privacy e sicurezza.
 vpn-android-privacy-headline = Un tocco per connetterti
+vpn-android-privacy-copy = Utilizzare { -brand-name-mozilla-vpn } per { -brand-name-android } è semplicissimo. Tocca un pulsante e la tua connessione a Internet è automaticamente crittata con il protocollo avanzato { -brand-name-wireguard }®. Tutto qui.
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
