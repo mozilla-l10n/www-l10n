@@ -18,7 +18,7 @@ vpn-landing-brand-trust-heading = VPN wot marki, kotrejž móžeće dowěrić
 ## FAQ section
 
 vpn-landing-faq-heading = Huste stajene prašenja
-vpn-langing-faq-uses-question-heading = Što je VPM a za čo so wužiwa?
+vpn-langing-faq-uses-question-heading = Što je VPN a za čo so wužiwa?
 vpn-landing-faq-uses-conceal = Waša IP-adresa so schowa. Tak so waše identita škita a waše stejnišćo znjespóznajomni.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
