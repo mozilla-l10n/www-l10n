@@ -14,6 +14,7 @@ vpn-mac-hero-headline = { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn 
 vpn-mac-wifi-headline = 放心使用公共 Wi-Fi
 vpn-mac-about-headline = Mozilla 出品，值得信赖
 vpn-mac-privacy-headline = 隐私，一触即得
+vpn-mac-privacy-copy = 您的互联网连接将使用 { -brand-name-mozilla-vpn } 的 { -brand-name-wireguard }® 高级协议加密，保护 IP 地址不受黑客和运营商的恶意侵扰。
 vpn-mac-servers-headline = 访问世界各地的服务器
 # Variables:
 #   $devices (number) - number of available devices
