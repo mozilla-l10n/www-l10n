@@ -16,13 +16,13 @@ vpn-mac-ability = Em negócios ou lazer, você deve se sentir seguro online, nã
 vpn-mac-wifi-headline = Sinta-se seguro em redes wifi duvidosas
 vpn-mac-wifi-copy = Acesse online com tranquilidade ao usar uma rede pública de wifi, graças ao { -brand-name-mozilla-vpn }. Ele protege a conexão com a internet para que seus dados pessoais fiquem ocultos de hackers e curiosos.
 vpn-mac-about-headline = De uma desenvolvedora confiável de tecnologias
-vpn-mac-privacy-headline = Privacidade na ponta do seus dedos
+vpn-mac-privacy-headline = Privacidade na ponta do dedos
 vpn-mac-privacy-copy = Com o { -brand-name-mozilla-vpn }, sua conexão com a internet é criptografada e seu endereço IP é protegido de hackers e provedores de internet intrometidos, graças ao avançado protocolo { -brand-name-wireguard }®.
 vpn-mac-servers-headline = Acesse servidores no mundo todo
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
-vpn-mac-servers-copy = Mude a localização que quiser do seu { -brand-name-mac-short } para mais de { $servers } servidores em mais de { $countries } países. Isso permite que você leia notícias, faça compras, assista vídeos e navegue na internet a partir de praticamente qualquer lugar.
+vpn-mac-servers-copy = Mude a localização do seu { -brand-name-mac-short } para mais de { $servers } servidores em mais de { $countries } países. Isso permite que você leia notícias, faça compras, assista vídeos e navegue na internet a partir de praticamente qualquer lugar.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Proteja { $devices } dispositivos com uma única assinatura
