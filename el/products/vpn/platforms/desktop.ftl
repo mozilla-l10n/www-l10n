@@ -16,5 +16,6 @@ vpn-desktop-servers-headline = Συνδεθείτε σε διακομιστές 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Προστασία έως και { $devices } συσκευών
+vpn-desktop-devices-copy = Η συνδρομή σας περιλαμβάνει απεριόριστη πρόσβαση στην υπηρεσία ασφαλούς VPN μας από το smartphone, το tablet και τον υπολογιστή σας σε { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } και { -brand-name-linux }.
 vpn-desktop-speed-headline = Απίστευτη ταχύτητα, χωρίς περιορισμούς
 vpn-desktop-log-headline = Το απόρρητό σας έχει προτεραιότητα

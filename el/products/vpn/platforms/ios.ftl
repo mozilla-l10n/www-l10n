@@ -15,6 +15,9 @@ vpn-ios-privacy-headline = Σύνδεση με 1 πάτημα
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Συνδεθείτε σε { $servers }+ διακομιστές παγκοσμίως
 # Variables:
+#   $countries (number) - number of available countries
+vpn-ios-servers-copy = Αγοράστε από την Ελβετία. Δείτε σειρές από τον Καναδά. Σερφάρετε από την Αυστραλία. Με το { -brand-name-mozilla-vpn }, μπορείτε να ορίσετε την τοποθεσία του { -brand-name-iphone } ή του { -brand-name-ipad } σας σε μία από τις { $countries }+ χώρες, ανοίγοντας έναν κόσμο εκπληκτικού περιεχομένου.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Πρόσβαση για { $devices } συσκευές
 vpn-ios-speed-headline = Κορυφαίες ταχύτητες. Απεριόριστα δεδομένα.
