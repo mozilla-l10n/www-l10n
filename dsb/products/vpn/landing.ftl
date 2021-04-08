@@ -44,9 +44,9 @@ vpn-landing-sub-not-found = Hopla! Zazdaśim hyšći njejsćo wótzamknuł abone
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
-vpn-landing-invite-page-title = Pśistupśo cakanskej lisćinje: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-title = Pśistupśo cakańskej lisćinje: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc = Dajśo wam informěrowaś, gaž { -brand-name-mozilla-vpn } jo za waš rěd a region k dispoziciji.
-vpn-landing-invite-page-heading = Pśistupśo cakanskej lisćinje VPN
+vpn-landing-invite-page-heading = Pśistupśo cakańskej lisćinje VPN
 vpn-landing-invite-email-label = Kótara jo waša e-mailowa adresa?
 vpn-landing-invite-required-label = Trjebny
 # Only localize "yourname". Do not change "@example.com".
@@ -63,6 +63,9 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
 vpn-landing-invite-privacy-policy = Z kliknjenim na „Cakańskej lisćinje pśistupiś“ zwólijośo do našych <a href="{ $privacy }">pšawidłow priwatnosći</a>.
+vpn-landing-invite-your-information = Waše informacije se jano wužywaju, aby was informěrowali wó k-dispoziciji-měśu platformy.
+vpn-landing-invite-thanks-heading = Wjeliki źěk! Sćo na lisćinje
+vpn-landing-invite-thanks-desc = Buźomy was z mejlku informěrowaś, gaž { -brand-name-mozilla-vpn } jo za waš region k dispoziciji.
 
 ##
 
