@@ -8,3 +8,4 @@
 
 # Meta strings
 
+vpn-linux-page-title = { -brand-name-mozilla-vpn } per { -brand-name-linux } ({ -brand-name-ubuntu })
