@@ -31,11 +31,17 @@ history-after-several-years-of-development = Μετά από μερικά χρό
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Μέχρι το 2002, <a href="{ $over90 }">πάνω από το 90% των χρηστών του διαδικτύου</a> χρησιμοποιούσε το { -brand-name-ie }.
 # Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Κάτι που οι περισσότεροι δεν παρατήρησαν είναι ότι, εκείνο το έτος, κυκλοφόρησε η πρώτη έκδοση του Phoenix (που αργότερα μετονομάστηκε σε { -brand-name-firefox }) από τα μέλη της κοινότητας { -brand-name-mozilla }, με στόχο να προσφέρει την <a href="{ $charter }">καλύτερη δυνατή εμπειρία περιήγησης</a> σε όσο το δυνατόν περισσότερους ανθρώπους.
+# Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Το 2003, το έργο { -brand-name-mozilla } δημιούργησε το { -brand-name-mozilla-foundation }, έναν <a href="{ $foundation }">ανεξάρτητο, μη κερδοσκοπικό οργανισμό</a> με την υποστήριξη μεμονωμένων δωρητών και διάφορων εταιρειών.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Το νέο { -brand-name-mozilla-foundation } συνέχισε να διαχειρίζεται τις καθημερινές λειτουργίες του έργου και ανέλαβε επίσημα την προώθηση <a href="{ $manifesto }">της διαφάνειας, της καινοτομίας και των ευκαιριών</a> στο διαδίκτυο.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Αυτό το κατόρθωσε συνεχίζοντας την έκδοση λογισμικού, όπως το { -brand-name-firefox } και το { -brand-name-thunderbird }, ενώ παράλληλα επεκτάθηκε σε νέους τομείς, όπως η παροχή <a href="{ $grants }">επιχορηγήσεων</a> για τη βελτίωση της προσβασιμότητας στο διαδίκτυο.
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
@@ -52,6 +58,10 @@ history-the-community-has-shown = Η κοινότητα έχει δείξει ό
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Περισσότεροι άνθρωποι από ποτέ χρησιμοποιούν το διαδίκτυο <a href="{ $all }">στη γλώσσα τους</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Έχει δημιουργηθεί ένας βιώσιμος οργανισμός που χρησιμοποιεί τους μηχανισμούς της αγοράς για να υποστηρίξει μια αποστολή δημοσίου συμφέροντος και αυτό το μοντέλο έχει χρησιμοποιεί από άλλους για τη δημιουργία ανοικτών, διαφανών και συνεργατικών οργανισμών σε μια <a href="{ $range }">ευρεία γκάμα</a> <a href="{ $areas }">τομέων απασχόλησης</a>.
 history-the-future-is-full-of-challenges = Το μέλλον είναι γεμάτο προκλήσεις και ευκαιρίες ίσες με αυτές του παρελθόντος μας.
 history-theres-no-guarantee-that = Δεν υπάρχει εγγύηση ότι το διαδίκτυο θα παραμείνει ανοιχτό ή ευχάριστο ή ασφαλές.
 history-mozilla-will-continue-to = Η { -brand-name-mozilla } θα συνεχίσει να παρέχει την ευκαιρία στους ανθρώπους να ακουστούν και να ορίσουν τις δικές τους διαδικτυακές ζωές.
