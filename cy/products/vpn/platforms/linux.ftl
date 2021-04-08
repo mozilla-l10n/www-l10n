@@ -19,3 +19,16 @@ vpn-linux-wifi-copy = Weithiau wifi cyhoeddus yw eich unig ddewis a'r un gorau. 
 vpn-linux-about-headline = Enw dibynadwy ers 1998
 vpn-linux-about-copy = Fel gwneuthurwyr y porwr gwe { -brand-name-firefox }, mae { -brand-name-mozilla } wedi bod yn brwydro dros eich hawliau ar-lein ers degawdau — dyna yw'n cenhadaeth. Fel y dewis arall yn lle'r dechnoleg casglu data mawr, rydym bob amser yn chwilio am ffyrdd newydd o gadw'r rhyngrwyd yn agored ac am ddim a pharchu hawl pawb i breifatrwydd.
 vpn-linux-privacy-headline = Diogelwch gyda dim ond 1clic
+vpn-linux-privacy-copy = Mae { -brand-name-mozilla-vpn } yn hawdd iawn i'w ddefnyddio. Tapiwch fotwm a bydd yn amgryptio'ch cysylltiad ac yn cymylu'r cyfeiriad IP ar eich { -brand-name-iphone } neu { -brand-name-ipad } gan ddefnyddio protocol datblygedig { -brand-name-wireguard }®.
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Cysylltwch â mwy na { $servers } gweinydd mewn dros { $countries } o wledydd gwahanol
+# Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = Mae { -brand-name-mozilla-vpn } yn cynnig y gallu i chi osod lleoliad eich cyfrifiadur { -brand-name-linux } i un o { $countries }+ gwlad, gan agor chi i gynnwys newydd cyffrous o bob cwr o'r byd.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = Cysylltwch hyd at { $devices } dyfais
+vpn-linux-devices-copy = Gydag un tanysgrifiad, gallwch gael { -brand-name-mozilla-vpn } ar hyd at { $devices } dyfais wahanol, gan gynnwys { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short }, and { -brand-name-ios } ar gyfer { -brand-name-iphone } a { -brand-name-ipad }.
+vpn-linux-speed-headline = Cyflym iawn gyda data diderfyn
