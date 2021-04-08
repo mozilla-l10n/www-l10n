@@ -18,6 +18,7 @@ vpn-mac-servers-headline = 访问世界各地的服务器
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = 一次订阅即可保护 { $devices } 台设备
+vpn-mac-devices-copy = 您的计算机、平板电脑和智能手机都应受到保护。使用 { -brand-name-mozilla-vpn } 最多可同时保护 { $devices } 台 { -brand-name-mac-short } 或 { -brand-name-ios } 设备（也支持 { -brand-name-windows }、{ -brand-name-linux } 和 { -brand-name-android } 平台）。
 vpn-mac-speed-headline = 不用牺牲速度
 vpn-mac-speed-copy = 不限流量﹠无带宽限制。您可以像往常一样遨游互联网，且更多一层保护。
 vpn-mac-log-headline = 您的网络活动，他人无权知晓
