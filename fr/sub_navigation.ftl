@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } et { -brand-nam
 sub-navigation-desktop-nightly = { -brand-name-nightly } pour ordinateur
 sub-navigation-features = Fonctionnalités
 sub-navigation-support = Assistance
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Modules complémentaires
+sub-navigation-add-ons = Modules complémentaires
 sub-navigation-faq = FAQ
 sub-navigation-learn-more = En savoir plus
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } pour mobile
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Modules complémentaires pour { -brand-name-android }
+sub-navigation-android-add-ons = Modules complémentaires pour { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts(capitalization: "uppercase") }
 sub-navigation-sync = { -brand-name-sync }
@@ -51,3 +55,4 @@ sub-navigation-privacy = Confidentialité
 sub-navigation-our-promise = Notre engagement
 sub-navigation-our-products = Nos produits
 sub-navigation-little-book-of-privacy = Livret de la vie privée
+sub-navigation-safe-passwords = Mots de passe sécurisés
