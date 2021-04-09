@@ -20,6 +20,14 @@ vpn-windows-about-copy = La organización sin fines de lucro detrás de { -brand
 vpn-windows-privacy-headline = Protección con presionar un botón
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } cifra la conexión a internet y oculta la dirección IP de ojos  curiosos en tu PC de escritorio o laptop con el protocolo avanzado { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Accedé a servidores en todo el mundo
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Con más de { $servers } servidores en más de { $countries } países podés hacer lo que necesités en línea — navegar, comprar, mirar noticias — configurando la ubicación de tu dispositivo a casi cualquier lugar del mundo.
 vpn-windows-devices-headline = Una suscripción para todos tus dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Una suscripción de { -brand-name-mozilla-vpn } te da acceso ilimitado a nuestro servicio de VPN segura en hasta { $devices } dispositivos para { -brand-name-windows } (incluyendo { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
 vpn-windows-speed-headline = Sin restricciones de ancho de banda
 vpn-windows-log-headline = Tu privacidad es nuestra prioridad
+vpn-windows-log-copy = { -brand-name-mozilla } nunca dejará de trabajar para una mejor internet que ponga tu privacidad primero. Es por eso que { -brand-name-mozilla-vpn } no recolecta ningún dato ni registra la actividad en línea — ninguno de nuestros productos lo hace.
