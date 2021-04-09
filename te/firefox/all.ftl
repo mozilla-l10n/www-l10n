@@ -15,6 +15,7 @@ firefox-all-you-are-about-to-download = మీరు దించుకోబో
 firefox-all-browser = విహారిణి:
 firefox-all-platform = ఫ్లాట్‌ఫారం:
 firefox-all-language = భాష:
+firefox-all-lang-multi = పలు భాషలు
 firefox-all-64-bit-installers = 64-బిట్ ఇన్‌స్టాలర్లు
 firefox-all-32-bit-installers = 32-బిట్ ఇన్‌స్టాలర్లు
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } గోప్యతా నోటీసు
