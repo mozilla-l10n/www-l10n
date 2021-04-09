@@ -13,6 +13,7 @@ vpn-linux-page-description = 作为 { -brand-name-ubuntu } { -brand-name-linux }
 # Linux strings
 vpn-linux-hero-headline = 适用于 { -brand-name-ubuntu } { -brand-name-linux } 的 { -brand-name-mozilla-vpn } — 隐私界的天作之合
 vpn-linux-wifi-headline = 放心使用公共 Wi-Fi
+vpn-linux-wifi-copy = 有时，公共 WI-FI 是您最好的也是唯一的选择。{ -brand-name-mozilla-vpn } 让您可以放心地在机场登录邮箱，在咖啡厅编辑密码 —— 就和平时在家一样。
 vpn-linux-about-headline = 可信赖的品牌，始于 1998
 vpn-linux-privacy-headline = 隐私，一点即得
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } 十分易用。只需轻触按钮，即会使用 { -brand-name-wireguard }® 协议加密您的连接，掩藏您 { -brand-name-iphone } 或 { -brand-name-ipad } 的 IP 地址。
