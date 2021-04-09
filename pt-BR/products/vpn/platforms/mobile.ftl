@@ -15,7 +15,7 @@ vpn-mobile-maker-of-firefox = Garanta a privacidade da conexão de internet do s
 #   $devices (number) - number of available devices
 vpn-mobile-ability = O { -brand-name-mozilla-vpn } impede que hackers e espiões vejam seu endereço IP e oculta sua localização online. Com criptografia avançada e sem restrições de largura de banda, ele faz navegar e assistir vídeos no seu celular ou tablet ficar muito rápido e com proteção confiável. Por uma pequena taxa mensal, você pode proteger até { $devices } dispositivos e se conectar a dezenas de servidores no mundo todo.
 vpn-mobile-wifi-headline = Sinta-se seguro ao usar uma rede pública de wifi
-vpn-mobile-wifi-copy = Nossa VPN protege a sua conexão de internet contra hackers e espiões para que você possa fazer compras em um restaurante, verificar a sua conta bancária no ônibus e cuidar da sua vida online, sabendo que seu endereço IP está seguro.
+vpn-mobile-wifi-copy = Nossa VPN protege a sua conexão de internet contra hackers e espiões para que você possa fazer compras em um restaurante, verificar a sua conta bancária no ônibus e cuidar da vida online, sabendo que seu endereço IP está seguro.
 vpn-mobile-about-headline = Sobre a { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Privacidade em um clique
 vpn-mobile-privacy-copy = O aplicativo { -brand-name-mozilla-vpn } criptografa a conexão com a internet e oculta seu endereço IP no celular ou tablet, usando o avançado protocolo { -brand-name-wireguard }®.

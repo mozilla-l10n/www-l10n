@@ -14,11 +14,15 @@ vpn-windows-page-description = Proteja o seu computador inteiro com uma rede pri
 vpn-windows-hero-headline = Fique conectado e protegido com o { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
 vpn-windows-ability = Você merece se sentir seguro online onde quer que esteja. Com o { -brand-name-mozilla-vpn }, você pode usar uma rede pública de wifi sabendo que sua conexão está protegida de hackers e provedores de internet intrometidos. Nossa VPN é fácil de usar, está disponível para { -brand-name-windows } 10 (e outros dispositivos) e não deixa seu computador mais lento. O melhor de tudo é que é uma VPN da { -brand-name-mozilla } com protocolo { -brand-name-wireguard }®, então você sabe que seus dados são criptografados e sua atividade não é registrada. É simplesmente uma VPN elegante e poderosa que protege você.
 vpn-windows-wifi-headline = Mantenha a privacidade em redes públicas de wifi
-vpn-windows-wifi-copy = O { -brand-name-mozilla-vpn } protege a conexão com a internet de intrometidos para que você possa cuidar da sua vida em qualquer lugar, no aeroporto, pousada, shopping, sem precisar se preocupar com sua privacidade online.
+vpn-windows-wifi-copy = O { -brand-name-mozilla-vpn } protege a conexão com a internet de intrometidos para que você possa cuidar da vida em qualquer lugar, no aeroporto, pousada, shopping, sem precisar se preocupar com sua privacidade online.
 vpn-windows-about-headline = Da líder em privacidade na internet
 vpn-windows-privacy-headline = Proteção com o apertar de um botão
 vpn-windows-privacy-copy = O { -brand-name-mozilla-vpn } criptografa a conexão com a internet e protege seu endereço IP de intrometidos, no seu computador de mesa ou notebook, com o avançado protocolo { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Acesse servidores no mundo todo
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Com mais de { $servers } servidores em mais de { $countries } países, você pode fazer tudo o que precisar online, navegar, fazer compras, ler notícias, configurando a localização do seu dispositivo em praticamente qualquer lugar do mundo.
 vpn-windows-devices-headline = Uma única assinatura para todos os seus dispositivos
 # Variables:
 #   $devices (number) - number of available devices
