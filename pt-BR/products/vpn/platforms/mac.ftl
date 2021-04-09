@@ -9,12 +9,12 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
-vpn-mac-page-description = Seja em um computador ou notebook { -brand-name-mac-short }, { -brand-name-ipad } ou { -brand-name-iphone }, proteja todo o seu dispositivo de hackers e curiosos com uma VPN da { -brand-name-mozilla }, pioneira em segurança na internet desde 1998.
+vpn-mac-page-description = Seja em um computador ou notebook { -brand-name-mac-short }, { -brand-name-ipad } ou { -brand-name-iphone }, proteja todo o seu dispositivo de hackers e intrometidos com uma VPN da { -brand-name-mozilla }, pioneira em segurança na internet desde 1998.
 # Mac strings
 vpn-mac-hero-headline = Proteja sua conexão online com o { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
 vpn-mac-ability = Em negócios ou lazer, você deve se sentir seguro online, não importa o que esteja fazendo. O { -brand-name-mozilla-vpn } ajuda você a usar uma rede pública de wifi de forma mais esperta, protegendo a conexão de internet de hackers e provedores de internet que tentam coletar seus dados. Sua privacidade a apenas um clique está disponível para { -brand-name-mac-short } e { -brand-name-ios } (bem como para { -brand-name-windows } 10, { -brand-name-linux } e { -brand-name-android }) e não afeta a velocidade. Como é uma VPN da { -brand-name-mozilla } com protocolo { -brand-name-wireguard }®, você pode confiar que sua atividade não é registrada e seus dados permanecem seus, sempre.
 vpn-mac-wifi-headline = Sinta-se seguro em redes wifi duvidosas
-vpn-mac-wifi-copy = Acesse online com tranquilidade ao usar uma rede pública de wifi, graças ao { -brand-name-mozilla-vpn }. Ele protege a conexão com a internet para que seus dados pessoais fiquem ocultos de hackers e curiosos.
+vpn-mac-wifi-copy = Acesse online com tranquilidade ao usar uma rede pública de wifi, graças ao { -brand-name-mozilla-vpn }. Ele protege a conexão com a internet para que seus dados pessoais fiquem ocultos de hackers e intrometidos.
 vpn-mac-about-headline = De uma desenvolvedora confiável de tecnologias
 vpn-mac-privacy-headline = Privacidade na ponta do dedos
 vpn-mac-privacy-copy = Com o { -brand-name-mozilla-vpn }, sua conexão com a internet é criptografada e seu endereço IP é protegido de hackers e provedores de internet intrometidos, graças ao avançado protocolo { -brand-name-wireguard }®.
