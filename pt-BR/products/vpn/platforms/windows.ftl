@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
+vpn-windows-page-description = Proteja o seu computador inteiro com uma rede privada virtual (VPN) da { -brand-name-mozilla }, uma pioneira da internet que luta por sua privacidade digital desde 1998.
 # Windows strings
 vpn-windows-hero-headline = Fique conectado e protegido com o { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
 vpn-windows-wifi-headline = Mantenha a privacidade em redes públicas de wifi

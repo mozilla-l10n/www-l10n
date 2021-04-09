@@ -31,3 +31,4 @@ vpn-mobile-devices-copy = Sua assinatura oferece acesso ilimitado ao nosso servi
 vpn-mobile-speed-headline = Velocidade incrível, sem restrições
 vpn-mobile-speed-copy = Assista vídeos, jogue, faça compras e navegue com velocidades extremamente rápidas. O { -brand-name-mozilla-vpn } não limita sua largura de banda nem deixa seu celular mais lento.
 vpn-mobile-log-headline = Sua privacidade em primeiro lugar
+vpn-mobile-log-copy = Na { -brand-name-mozilla }, não coletamos dados sobre quem você é nem registramos sua atividade online, por meio da nossa VPN ou de qualquer outro de nossos produtos. Proteger sua privacidade é um princípio fundamental da missão maior da { -brand-name-mozilla }.
