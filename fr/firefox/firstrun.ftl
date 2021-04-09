@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/firstrun/
 
-firstrun-firefox-browser = { -brand-name-firefox-browser }
+firstrun-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firstrun-welcome-to-firefox = Bienvenue dans { -brand-name-firefox }
 firstrun-take-firefox-with-you = Emportez { -brand-name-firefox } avec vous
 firstrun-already-using-firefox = Vous utilisez déjà { -brand-name-firefox } ?
