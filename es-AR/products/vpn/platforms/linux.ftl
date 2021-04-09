@@ -12,9 +12,12 @@ vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({
 vpn-linux-page-description = Como fan de { -brand-name-ubuntu } { -brand-name-linux }, ya sabés la importancia de la privacidad y la seguridad en línea. Probablemente también sepás sobre { -brand-name-mozilla } y lo que representamos — internet privada, abierta y libre para todos. Es hora de tener ambas cosas juntas.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } para { -brand-name-ubuntu } { -brand-name-linux } — un par perfectamente privado
+vpn-linux-ability = Tené una medida extra de seguridad cuando estés en línea, tanto en casa como fuera, con la { -brand-name-mozilla-vpn }. Por una pequeña tarifa mensual, usa un protocolo avanzado de { -brand-name-wireguard }® para cifrar tu conexión a Internet en tu computadora basado en { -brand-name-linux }, así como en otros tipos de dispositivos, permitiéndote transmitir programas, jugar, comprar y continuar tu vida diaria en línea sabiendo que estás seguro.
+vpn-linux-maker-of-firefox = Como uno de los nombres más confiables en la industria tecnológica, { -brand-name-mozilla } está comprometido a asegurar que te sienta seguro cada vez que se conectás.
 vpn-linux-wifi-headline = Mantenete seguro cuando necesitás usar wifi público
 vpn-linux-wifi-copy = A veces el wifi público es tu mejor y única opción. { -brand-name-mozilla-vpn } te permite sentir libre para ingresar a tu correo electrónico desde el aeropuerto o editar tus contraseñas en una cafetería — todo lo que normalmente hacés en casa con la misma tranquilidad.
 vpn-linux-about-headline = Un nombre confiable desde 1998
+vpn-linux-about-copy = Como los creadores del navegador web { -brand-name-firefox }, { -brand-name-mozilla } estuvo luchando por tus derechos en línea durante décadas. Es lo que hacemos. Como alternativa a la tecnología de recopilación de grandes datos, constantemente estamos buscando nuevas formas de mantener Internet abierta y libre, respetando el derecho de todos a la privacidad.
 vpn-linux-privacy-headline = Seguridad a solo un clic de distancia
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es súper fácil de usar. Tocá un botón y cifrará la conexión y ocultará la dirección IP en tu { -brand-name-iphone } o { -brand-name-ipad } usando el protocolo avanzado { -brand-name-wireguard }®.
 # Variables:
