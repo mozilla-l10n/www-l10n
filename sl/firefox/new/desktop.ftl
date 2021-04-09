@@ -83,13 +83,17 @@ firefox-desktop-download-customize-your-browser = Prilagodite si brskalnik
 firefox-desktop-download-themes = Teme
 firefox-desktop-download-dark-mode = Temni način
 firefox-desktop-download-library-of-extensions = Knjižnica razširitev
+firefox-desktop-download-adjust-search-bar = Prilagodite nastavitve iskalne vrstice
 firefox-desktop-download-change-new-tab = Spremeni postavitev na novem zavihku
 firefox-desktop-download-make-firefox-your = Prikrojite si <strong>{ -brand-name-firefox }</strong> po svoji meri
 firefox-desktop-download-extensions-for-every = Razširitve za vsak okus
 firefox-desktop-download-change-up-your = Spremenite videz
+firefox-desktop-download-go-from-light = Preklopite s svetlega na temni način, odvisno od razpoloženja ali želje, ali pa si poživite brskalnik s poljubno temo (morda mavričnim samorogom?).
 firefox-desktop-download-tweak-your-settings = Prilagodite si nastavitve
 firefox-desktop-download-challenging-the-status = Izzivamo status quo od leta 1998
 firefox-desktop-download-your-privacy-comes = Vaša zasebnost je na prvem mestu
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Obdržite vse svoje priljubljene funkcije brskalnika – in <strong>odkrijte</strong> nove.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Vsa vaša priljubljena orodja { -brand-name-google }, kot so Gmail in Dokumenti, delujejo brezhibno v { -brand-name-firefox-browser(sklon: "mestnik") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
@@ -104,10 +108,14 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Prenesite mobilni brskalnik { -brand-name-firefox } za samodejno zaščito na vseh svojih napravah.
+firefox-desktop-download-learn-about-the = Preberite več o brskalniku { -brand-name-firefox } za namizja
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Od varnosti do novic in iger – za vsakogar se najde <a { $attrs }>razširitev</a>. Dodajte jih, kolikor želite, dokler ni brskalnik ravno pravšnji.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je ustvarila <a { $attrs }>{ -brand-name-mozilla }</a> kot hitrejšo in zasebnejšo alternativo brskalnikom, kot je bil { -brand-name-ie } in kot je { -brand-name-chrome }. Naše podjetje s poslanstvom in skupnost prostovoljcev vse do danes postavljata vašo zasebnost nad vse ostalo.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Imate vprašanja? Obiščite <a { $attrs }>Podporo { -brand-name-mozilla }</a>.

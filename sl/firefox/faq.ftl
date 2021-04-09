@@ -13,6 +13,7 @@ what-is-firefox = Kaj je { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } je edini večji brskalnik, za katerim stoji neprofitna organizacija, ki vaših osebnih podatkov ne prodaja oglaševalcem in vam pomaga ščititi svoje podatke. Preberite več o <a href="{ $url }">{ -brand-name-firefox-browsers(sklon: "mestnik") }</a> in o <a href="{ $url2 }">ostalih izdelkih</a>.
 how-do-i = Kako dobim { -brand-name-firefox-browser }?
 
 # Variables:
@@ -60,7 +61,7 @@ does-firefox-have = Ali ima { -brand-name-firefox } vgrajen VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = { -brand-name-firefox } nima vgrajenega VPN (navideznega zasebnega omrežja), vendar { -brand-name-mozilla } in { -brand-name-firefox } ponujata dva dodatka zasebnemu { -brand-name-firefox-browser(sklon: "dajalnik") }, ki lahko zaščitita povezavo vašega brskalnika (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ali naprave (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) na WiFi, kot tudi vaš naslov IP.
 related-questions-ip = Povezana vprašanja: ali { -brand-name-firefox } skrije vaš naslov IP
