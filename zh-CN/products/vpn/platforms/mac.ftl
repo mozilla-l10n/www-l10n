@@ -17,6 +17,10 @@ vpn-mac-privacy-headline = 隐私，一触即得
 vpn-mac-privacy-copy = 您的互联网连接将使用 { -brand-name-mozilla-vpn } 的 { -brand-name-wireguard }® 高级协议加密，保护 IP 地址不受黑客和运营商的恶意侵扰。
 vpn-mac-servers-headline = 访问世界各地的服务器
 # Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = 将您 { -brand-name-mac-short } 的“位置”在 { $countries }+ 个国家/地区的 { $servers }+ 台服务器间随意切换。如此，您便可以在任何“地方”阅览新闻、购物、直播和上网冲浪。
+# Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = 一次订阅即可保护 { $devices } 台设备
 vpn-mac-devices-copy = 您的计算机、平板电脑和智能手机都应受到保护。使用 { -brand-name-mozilla-vpn } 最多可同时保护 { $devices } 台 { -brand-name-mac-short } 或 { -brand-name-ios } 设备（也支持 { -brand-name-windows }、{ -brand-name-linux } 和 { -brand-name-android } 平台）。
