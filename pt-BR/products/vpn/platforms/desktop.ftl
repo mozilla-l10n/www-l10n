@@ -22,9 +22,9 @@ vpn-desktop-privacy-copy = O aplicativo { -brand-name-mozilla-vpn } criptografa 
 vpn-desktop-servers-headline = Conecte-se a servidores no mundo todo
 # Variables:
 #   $servers (number) - number of available servers
-vpn-desktop-servers-copy-updated = Navegue no Brasil. Jogue do Japão. Assista vídeos no México. O { -brand-name-mozilla-vpn } permite mudar a localização de seu computador ou celular para um dos { $servers } servidores.
+vpn-desktop-servers-copy-updated = Navegue no Brasil. Jogue no Japão. Assista vídeos no México. O { -brand-name-mozilla-vpn } permite mudar a localização de seu computador ou celular para um dos { $servers } servidores.
 # Obsolete string
-vpn-desktop-servers-copy = Navegue no Brasil. Jogue do Japão. Assista vídeos no México. O { -brand-name-mozilla-vpn } permite alterar a localização do seu computador ou celular para { $servers } lugares diferentes.
+vpn-desktop-servers-copy = Navegue no Brasil. Jogue no Japão. Assista vídeos no México. O { -brand-name-mozilla-vpn } permite alterar a localização do seu computador ou celular para { $servers } lugares diferentes.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Proteja até { $devices } dispositivos
