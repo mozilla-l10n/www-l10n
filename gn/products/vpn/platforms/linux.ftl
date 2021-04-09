@@ -9,3 +9,5 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } { -brand-name-linux } ({ -brand-name-ubuntu }) peg̃uarã
+vpn-linux-about-headline = Téra jeroviaha 1998 guive
+vpn-linux-privacy-headline = Tekorosã 1 jekutúpe añoite
