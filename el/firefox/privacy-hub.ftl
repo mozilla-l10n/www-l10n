@@ -74,8 +74,8 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = Το { -brand-name-pocket } προτείνει υψηλής ποιότητας άρθρα χωρίς να συλλέγει το ιστορικό περιήγησής σας ή να κοινοποιεί τις προσωπικές σας πληροφορίες σε διαφημιστές.
 firefox-privacy-hub-get-pocket = Λήψη { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ο { -brand-name-firefox-account(case: "nom", capitalization: "lower") } σας
-firefox-privacy-hub-all-the-information-synced = Όλες οι πληροφορίες σας συγχρονίζονται μέσω του { -brand-name-firefox-account } — από ιστορικό μέχρι κωδικούς πρόσβασης — είναι κρυπτογραφημένες. Και ο κωδικός πρόσβασης του λογαριασμού σας είναι το μόνο κλειδί.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Πάρτε το απόρρητο και τους σελιδοδείκτες σας παντού με ένα { -brand-name-firefox-account }.
+firefox-privacy-hub-all-the-information-synced = Όλες οι πληροφορίες που συγχρονίζονται μέσω του { -brand-name-firefox-account(case: "gen", capitalization: "lower") } σας — από το ιστορικό μέχρι τους κωδικούς πρόσβασης — είναι κρυπτογραφημένες. Και ο κωδικός πρόσβασης του λογαριασμού σας είναι το μόνο κλειδί.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Πάρτε το απόρρητο και τους σελιδοδείκτες σας παντού με έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
