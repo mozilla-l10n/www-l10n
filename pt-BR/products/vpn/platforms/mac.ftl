@@ -16,6 +16,7 @@ vpn-mac-ability = Em negócios ou lazer, você deve se sentir seguro online, nã
 vpn-mac-wifi-headline = Sinta-se seguro em redes wifi duvidosas
 vpn-mac-wifi-copy = Acesse online com tranquilidade ao usar uma rede pública de wifi, graças ao { -brand-name-mozilla-vpn }. Ele protege a conexão com a internet para que seus dados pessoais fiquem ocultos de hackers e intrometidos.
 vpn-mac-about-headline = De uma desenvolvedora confiável de tecnologias
+vpn-mac-about-copy = Desde 1998, a organização sem fins lucrativos { -brand-name-mozilla } tem sido guiada por sua missão de construir uma internet melhor. Desde produtos como o { -brand-name-firefox-browser } até ativismo em várias partes do mundo, o trabalho da { -brand-name-mozilla } continua garantindo que a internet seja livre e aberta para todos.
 vpn-mac-privacy-headline = Privacidade na ponta do dedos
 vpn-mac-privacy-copy = Com o { -brand-name-mozilla-vpn }, sua conexão com a internet é criptografada e seu endereço IP é protegido de hackers e provedores de internet intrometidos, graças ao avançado protocolo { -brand-name-wireguard }®.
 vpn-mac-servers-headline = Acesse servidores no mundo todo

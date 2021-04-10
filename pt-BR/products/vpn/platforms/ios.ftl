@@ -15,6 +15,7 @@ vpn-ios-maker-of-firefox = Como desenvolvedora do navegador { -brand-name-firefo
 vpn-ios-wifi-headline = Permaneça seguro online quando estiver em trânsito
 vpn-ios-wifi-copy = Usando uma rede pública de wifi? Sem problema. O { -brand-name-mozilla-vpn } permite que você se sinta livre para conferir sua conta bancária em um restaurante e editar suas senhas em um shopping. Basicamente, você pode fazer no seu { -brand-name-iphone } ou { -brand-name-ipad } tudo o que faz normalmente, com tranquilidade.
 vpn-ios-about-headline = Por que confiar em nós?
+vpn-ios-about-copy = Talvez você nos conheça pelo nosso navegador, { -brand-name-firefox }. Mas, além disso, a { -brand-name-mozilla } tem lutado por seus direitos online desde 1998. É nossa principal missão. Somos obcecados em garantir que a internet continue aberta e livre, respeitando os direitos de todos à privacidade e segurança.
 vpn-ios-privacy-headline = Conexão em 1 clique
 vpn-ios-privacy-copy = O { -brand-name-mozilla-vpn } é muito fácil de usar. Toque em um botão e ele criptografa a conexão e oculta seu endereço IP no { -brand-name-iphone } ou { -brand-name-ipad } usando o avançado protocolo { -brand-name-wireguard }®.
 # Variables:

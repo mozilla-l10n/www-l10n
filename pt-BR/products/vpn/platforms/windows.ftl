@@ -16,6 +16,7 @@ vpn-windows-ability = Você merece se sentir seguro online onde quer que esteja.
 vpn-windows-wifi-headline = Mantenha a privacidade em redes públicas de wifi
 vpn-windows-wifi-copy = O { -brand-name-mozilla-vpn } protege a conexão com a internet de intrometidos para que você possa cuidar da vida em qualquer lugar, no aeroporto, pousada, shopping, sem precisar se preocupar com sua privacidade online.
 vpn-windows-about-headline = Da líder em privacidade na internet
+vpn-windows-about-copy = A { -brand-name-mozilla }, organização sem fins lucrativos por trás do { -brand-name-firefox-browser }, é uma comunidade de cidadãos da internet do mundo todo, dedicada a manter a internet um recurso livre e aberto a todos. A missão da { -brand-name-mozilla }, colocar as pessoas à frente dos lucros, garante que cada produto que fazemos coloque você em primeiro lugar.
 vpn-windows-privacy-headline = Proteção com o apertar de um botão
 vpn-windows-privacy-copy = O { -brand-name-mozilla-vpn } criptografa a conexão com a internet e protege seu endereço IP de intrometidos, no seu computador de mesa ou notebook, com o avançado protocolo { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Acesse servidores no mundo todo
