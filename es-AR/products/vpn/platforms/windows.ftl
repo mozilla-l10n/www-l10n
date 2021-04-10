@@ -29,5 +29,6 @@ vpn-windows-devices-headline = Una suscripción para todos tus dispositivos
 #   $devices (number) - number of available devices
 vpn-windows-devices-copy = Una suscripción de { -brand-name-mozilla-vpn } te da acceso ilimitado a nuestro servicio de VPN segura en hasta { $devices } dispositivos para { -brand-name-windows } (incluyendo { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
 vpn-windows-speed-headline = Sin restricciones de ancho de banda
+vpn-windows-speed-copy = Transmití, jugá, comprá y explorá la web a velocidades ultrarrápidas. Con datos ilimitados y sin restricciones de ancho de banda, la { -brand-name-mozilla-vpn } no se interpone en su camino.
 vpn-windows-log-headline = Tu privacidad es nuestra prioridad
 vpn-windows-log-copy = { -brand-name-mozilla } nunca dejará de trabajar para una mejor internet que ponga tu privacidad primero. Es por eso que { -brand-name-mozilla-vpn } no recolecta ningún dato ni registra la actividad en línea — ninguno de nuestros productos lo hace.
