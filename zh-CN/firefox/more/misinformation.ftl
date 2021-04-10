@@ -9,7 +9,7 @@ misinformation-page-title = 远离网上的错误信息 – { -brand-name-firefo
 misinformation-page-desc = 错误信息很讨人嫌，它们容易使人分心，有时甚至会令人们付出惨痛的代价。{ -brand-name-firefox } 可提供相关提示，避免您受到虚假信息的欺骗，还能让您在畅游网络时更少看到这类信息。
 misinformation-page-subheading = 了解如何更少看到错误信息，专注于重要的事情
 misinformation-what-is-heading = 什么是错误信息？什么又是虚假信息？
-misinformation-disinformation = 错误信息、虚假信息 —— 您以前可能已经听说过这些术语，并且想知道它们在意义上是否有区别，以及如何区分。简而言之：错误信息是人们误信的任何种类的信息，确实是不正确的或有误导性，但并非出于欺骗他人的目的而制造或传播。而虚假信息则是为了有意误导并达到某个目的。
+misinformation-disinformation = 错误信息、虚假信息——您以前可能已经听说过这些术语，并且想知道它们在意义上是否有区别，以及如何区分。简而言之：错误信息是人们误信的任何种类的信息，确实是不正确的或有误导性，但并非出于欺骗他人的目的而制造或传播。而虚假信息则是为了有意误导并达到某个目的。
 misinformation-ultimately-harmful = 归根结底，错误信息和虚假信息都可能有害。错误信息会误导人们，并给全球经济造成巨大损失，更可能威胁到民主和有效治理。而且，假新闻往往比正确的新闻传播得更快、更深、更广，基本上无法阻断。
 misinformation-false-info-heading = 错误信息会出现在哪里？
 # Variables:
@@ -52,6 +52,6 @@ misinformation-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 misinformation-because-we-put-people-first = 因为我们以人为本。实际上，我们一直由<a href="{ $foundation }">非营利组织</a>鼎力相挺。自成立第一天起，我们的使命就是守护互联网及其上的每个人。
 misinformation-learn-more-about-our-mission = 进一步了解我们的使命
 misinformation-your-privacy-by-the-product = 您的隐私，我们来守护
-misinformation-firefox-products-work-differently = { -brand-name-firefox } 的产品不一般 —— 保护您的隐私是其首先设计宗旨。
+misinformation-firefox-products-work-differently = { -brand-name-firefox } 的产品不一般——保护您的隐私是其首先设计宗旨。
 misinformation-learn-about-our-products = 了解我们的产品
 misinformation-designed-to-protect = 旨在保护您的隐私
