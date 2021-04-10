@@ -62,7 +62,24 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
+-brand-name-firefox-account =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Λογαριασμός Firefox
+                [lower] λογαριασμός Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Λογαριασμού Firefox
+                [lower] λογαριασμού Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Λογαριασμό Firefox
+                [lower] λογαριασμό Firefox
+            }
+    }
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
