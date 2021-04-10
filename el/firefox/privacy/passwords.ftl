@@ -11,7 +11,7 @@ privacy-passwords-security-guide-to = Οδηγός ασφαλείας για σ�
 privacy-passwords-more-and-more-desc = Όλο και περισσότερα ευαίσθητα δεδομένα φυλλάσσονται σε διαδικτυακούς λογαριασμούς που προστατεύονται με κωδικούς πρόσβασης. Πώς θα τους προστατέψουμε;
 # page content
 privacy-passwords-a-security-guide = Ένας οδηγός ασφαλείας για συνδέσεις και κωδικούς πρόσβασης
-privacy-passwords-protecting-your-accounts = Η προστασία των λογαριασμών σας δεν χρειάζεται να είναι περίπλοκη — και το { -brand-name-firefox } μπορεί να σάς βοηθήσει.
+privacy-passwords-protecting-your-accounts = Η προστασία των λογαριασμών σας δεν χρειάζεται να είναι περίπλοκη — και το { -brand-name-firefox } μπορεί να σας βοηθήσει.
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Συνοπτικά:
 privacy-passwords-use-random-passwords = Να επιλέγετε τυχαίους κωδικούς πρόσβασης, διαφορετικό για κάθε ιστοσελίδα
