@@ -24,7 +24,7 @@ password-manager-password-magician = Μάγος των κωδικών πρόσβ
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Νίντζα των κωδικών πρόσβασης
-password-manager-no-more-try-again = Δεν θα δείτε ποτέ ξανά κανένα “δοκιμάστε ξανά” κατά τη σύνδεσή σας. Συνδεθείτε στο { -brand-name-firefox-account } σας στο τηλέφωνό σας και οι κωδικοί πρόσβασής θα εμφανιστούν κι εκεί, έτσι απλά.
+password-manager-no-more-try-again = Δεν θα αποτύχει ποτέ ξανά καμία σύνδεσή σας. Συνδεθείτε στον { -brand-name-firefox-account(case: "acc", capitalization: "lower") } σας από το τηλέφωνό σας και οι κωδικοί πρόσβασής σας θα εμφανιστούν κι εκεί, έτσι απλά.
 password-manager-password-champion = Πρωταθλητής των κωδικών πρόσβασης
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/

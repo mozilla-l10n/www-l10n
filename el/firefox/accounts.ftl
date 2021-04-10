@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Υπάρχει τρόπος να προστατέψετε το απόρρητό σας. Συνδεθείτε στο { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account } – Προστασία και συγχρονισμός δεδομένων
+firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") } — Προστασία και συγχρονισμός δεδομένων
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Αντισταθείτε σε μια βιομηχανία που πουλά τα δεδομένα σας σε τρίτους. Παραμείνετε ασφαλείς στο διαδίκτυο με την τεχνολογία που μάχεται για εσάς.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε ένα { -brand-name-firefox-account } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
+firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Υπάρχει τρόπος να προστατέψετε το απόρρητό σας. <span>Συνδεθείτε στο { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

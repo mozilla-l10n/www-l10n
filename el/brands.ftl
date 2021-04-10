@@ -80,7 +80,24 @@
                 [lower] λογαριασμό Firefox
             }
     }
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Λογαριασμοί Firefox
+                [lower] λογαριασμοί Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Λογαριασμών Firefox
+                [lower] λογαριασμών Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Λογαριασμούς Firefox
+                [lower] λογαριασμούς Firefox
+            }
+    }
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
