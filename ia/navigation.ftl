@@ -75,7 +75,7 @@ navigation-share-large-files-safely = Comparti grande files con securitate, con 
 navigation-save-quality-content = Salva contento de qualitate ex ubique. Alimenta tu mente ubique.
 navigation-sign-up = Inscriber se
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Veloce. Simple. Private.
-navigation-protect-your-entire-device = Protege completemente tu apparato e tote le applicationes. Masca tu position real e connecte usque a 5 apparatos. Inscribe te ora.
+navigation-protect-your-entire-device = Protege completemente tu apparato e tote le applicationes. Masca tu position real e connecte maximo 5 apparatos. Inscribe te ora.
 # Outdated string
 navigation-connected-and-protected = Connexe e protegite
 navigation-join = Junge te a nos
