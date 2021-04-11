@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = 适用于 { -brand-name-mac-short } 的 { -brand-name-mozilla-vpn }
+vpn-mac-page-description = 无论是 { -brand-name-mac-short } 台式机、笔记本电脑、{ -brand-name-ipad } 还是 { -brand-name-iphone }，这款由 1998 年以来互联网安全领域的先驱 { -brand-name-mozilla } 出品的 VPN 可以保护您的所有设备免遭黑客和间谍的窥探。
 # Mac strings
 vpn-mac-hero-headline = { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn } 可保护您的网络连接
 vpn-mac-wifi-headline = 放心使用公共 Wi-Fi
