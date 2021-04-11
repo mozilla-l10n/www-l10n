@@ -10,6 +10,7 @@ vpn-android-page-title = 适用于 { -brand-name-android } 的 { -brand-name-moz
 vpn-android-page-description = 只需在您的 { -brand-name-android } 手机上轻轻一触，科技界大名鼎鼎的 { -brand-name-mozilla } 就可为您的在线安全保驾护航
 # Mobile strings
 vpn-android-hero-headline = 获取 { -brand-name-android } 版 { -brand-name-mozilla-vpn }，保护您的在线隐私。
+vpn-android-maker-of-firefox = 作为 Web 浏览器 { -brand-name-firefox } 的开发商、最严格的互联网隐私保护者之一，{ -brand-name-mozilla } 对您每次上网的隐私和安全作出深切承诺。
 vpn-android-wifi-headline = 在旅途中保持在线安全
 vpn-android-about-headline = { -brand-name-mozilla } 是值得您信赖的品牌
 vpn-android-privacy-headline = 一触即连
