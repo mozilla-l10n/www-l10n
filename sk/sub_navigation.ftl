@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } a { -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } pre počítače
 sub-navigation-features = Funkcie
 sub-navigation-support = Podpora
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Doplnky
+sub-navigation-add-ons = Doplnky
 sub-navigation-faq = Často kladené otázky
 sub-navigation-learn-more = Ďalšie informácie
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } pre mobily
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Doplnky pre { -brand-name-android }
+sub-navigation-android-add-ons = Doplnky pre { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }

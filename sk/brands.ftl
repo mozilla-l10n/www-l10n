@@ -38,6 +38,7 @@
     .gender = feminine
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = Mullvad
 -brand-name-netscape =
     { $case ->
        *[nom] Netscape
@@ -48,6 +49,7 @@
         [ins] Netscapom
     }
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
@@ -475,6 +477,7 @@
         [ins] Androidom
     }
     .gender = masculine
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $case ->
@@ -497,6 +500,8 @@
         [ins] Macom
     }
     .gender = masculine
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows =
     { $case ->
        *[nom] Windows
@@ -508,8 +513,6 @@
     }
     .gender = masculine
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 
