@@ -7,3 +7,4 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Kva er ein nettlesar?
+what-is-a-browser-how-does-a-web = Korleis fungerer ein nettlesar?

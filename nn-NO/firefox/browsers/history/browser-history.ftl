@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-the-history-of-web = Historia om nettlesarane
+browser-history-before-web-era = Før nett-æraen
+browser-history-web-era = Nett-æraen
 browser-history-the-browser-wars = Nettlesarkrigen
+browser-history-browsing-the-web = Surfing på nettet i dag
 browser-history-resources = Ressursar
 browser-history-take-control-of = Ta kontroll over nettlesaren din.
