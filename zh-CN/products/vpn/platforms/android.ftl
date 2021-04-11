@@ -27,7 +27,11 @@ vpn-android-servers-copy = { -brand-name-mozilla-vpn } 可以将您的 { -brand-
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = 一次订阅，多达 { $devices } 设备可用
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } 最多可以连接 { $devices } 台不同的设备，支持 { -brand-name-android }、{ -brand-name-ios }、{ -brand-name-mac-short }、{ -brand-name-windows } 以及 { -brand-name-linux } 平台。您可以在智能手机、台式电脑、笔记本电脑、平板电脑上使用。
 vpn-android-speed-headline = 速度超快，不限流量。
+vpn-android-speed-copy = 在 { -brand-name-android } 设备上以超快的网速玩在线游戏、播放电影和在网上冲浪，带宽无限！
 vpn-android-log-headline = 不记录、不跟踪、不侵犯隐私。
 # "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
 vpn-android-log-copy = 许多 VPN 服务商会记录您在其服务器上的网络活动。但我们不是这样的，{ -brand-name-mozilla-vpn } 永不跟踪您的在线活动。我们将您的隐私和安全放在首位，不会做与之背道而驰的事情。

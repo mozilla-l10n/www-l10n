@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-ios-page-title = 适用于 { -brand-name-ios }（{ -brand-name-iphone } 和 { -brand-name-ipad }）的 { -brand-name-mozilla-vpn }
+vpn-ios-page-description = 通过科技界值得信赖的品牌 { -brand-name-mozilla } 在您的 { -brand-name-iphone } 或 { -brand-name-ipad } 上获得快速、便捷的安全保护
 # Mobile strings
 vpn-ios-hero-headline = 使用 { -brand-name-ios } 版 { -brand-name-mozilla-vpn } 保护您的在线安全
 vpn-ios-maker-of-firefox = 作为 Web 浏览器 { -brand-name-firefox } 的开发商、最受信赖的互联网隐私保护者之一，{ -brand-name-mozilla } 致力于让您每次上网时都感到安全、受到尊重。

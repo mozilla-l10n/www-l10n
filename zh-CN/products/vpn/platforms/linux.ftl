@@ -24,6 +24,9 @@ vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } 十分易用。只需轻触
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = 连接 { $countries } 个国家/地区的 { $servers }+ 台服务器
 # Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } 可以将 { -brand-name-linux } 系统的计算机的“位置”在 { $countries }+ 个国家/地区间随心切换，世界各地的精彩内容向您扑面而来。
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = 连接多达 { $devices } 台设备
 vpn-linux-devices-copy = 一次订阅，即可在最多 { $devices } 台设备上使用 { -brand-name-mozilla-vpn }，支持 { -brand-name-linux }、{ -brand-name-windows }、{ -brand-name-android }、{ -brand-name-mac-short }，以及 { -brand-name-ios } 系统的 { -brand-name-iphone } 和 { -brand-name-ipad }。
