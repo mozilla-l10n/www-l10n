@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
 vpn-ios-privacy-headline = 1 kattintásos kapcsolat
+# Variables:
+#   $servers (number) - number of available servers
+vpn-ios-servers-headline = Kapcsolódjon { $servers }+ kiszolgálóhoz világszerte
