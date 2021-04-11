@@ -26,7 +26,7 @@ firefox-new-watch-for-hackers-with = Παρακολουθήστε τους χά�
 firefox-new-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-new-free-web-browser = Δωρεάν πρόγραμμα περιήγησης ιστού
 firefox-new-and-start-getting-the-respect = Και ξεκινήστε να λαμβάνετε το σεβασμό που αξίζετε με την οικογένεια των προϊόντων μας.
-firefox-new-advanced-install-options = Προηγμένες επιλογές εγκατάστασης & άλλες πλατφόρμες
+firefox-new-advanced-install-options = Σύνθετες επιλογές εγκατάστασης & άλλες πλατφόρμες
 firefox-new-download-in-another-language = Λήψη σε άλλη γλώσσα
 firefox-new-fix-a-problem = Διόρθωση προβλήματος
 firefox-new-need-help = Χρειάζεστε βοήθεια;
@@ -37,7 +37,7 @@ firefox-new-connect-to-a-whole-family = Συνδεθείτε σε μια ολό�
 firefox-new-passwords-made-portable = Οι κωδικοί πρόσβασης έγιναν φορητοί
 firefox-new-protect-your-privacy = Προστασία απορρήτου
 firefox-new-private-browsing-clears = Η <strong>ιδιωτική περιήγηση</strong> διαγράφει το ιστορικό σας για να παραμείνει κρυφό από τους άλλους χρήστες του υπολογιστή σας.
-firefox-new-advanced-install-options-heading = Προηγμένες επιλογές εγκατάστασης & άλλες πλατφόρμες
+firefox-new-advanced-install-options-heading = Σύνθετες επιλογές εγκατάστασης & άλλες πλατφόρμες
 firefox-new-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
