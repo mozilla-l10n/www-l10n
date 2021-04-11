@@ -15,3 +15,4 @@ what-is-a-browser-its-important = Είναι σημαντικό να έχουμ�
 what-is-a-browser-how-does-a-web = Πώς λειτουργεί ένα πρόγραμμα περιήγησης;
 what-is-a-browser-cookies-not-the = Cookies (όχι το νόστιμο είδος)
 what-is-a-browser-understanding = Κατανοώντας το απόρρητο
+what-is-a-browser-firefox-helps = Το { -brand-name-firefox } σάς βοηθά να προστατεύετε το απόρρητό σας αποκλείοντας ιχνηλάτες στο διαδίκτυο.
