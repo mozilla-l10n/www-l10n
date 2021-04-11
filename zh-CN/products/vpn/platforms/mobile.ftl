@@ -14,6 +14,7 @@ vpn-mobile-maker-of-firefox = 由 { -brand-name-firefox } 开发商打造的基�
 vpn-mobile-wifi-headline = 放心使用公共 WI-FI
 vpn-mobile-wifi-copy = 我们的 VPN 可以保护您的互联网连接不受黑客和间谍的攻击，因此您可以在咖啡店购物，在火车上查看您的银行账户，并在 IP 受到保护的情况下开展您的在线业务。
 vpn-mobile-about-headline = 关于 { -brand-name-mozilla }
+vpn-mobile-about-copy = { -brand-name-mozilla } 是一个成立于 1998 年，由用户、贡献者和开发者组成的全球社区，致力于将互联网的力量掌握在人民之手，以我们的 { -brand-name-firefox-browser }最为知名。我们的使命即是保持 Web 的自由开放。
 vpn-mobile-privacy-headline = 隐私，一点即得
 vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } 应用程序使用 { -brand-name-wireguard }® 高级协议加密您的互联网连接，并隐藏您手机或平板电脑的 IP 地址。
 vpn-mobile-servers-headline = 连接世界各地的服务器
