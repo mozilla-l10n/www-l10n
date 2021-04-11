@@ -12,7 +12,9 @@ vpn-android-page-description = 只需在您的 { -brand-name-android } 手机上
 vpn-android-hero-headline = 获取 { -brand-name-android } 版 { -brand-name-mozilla-vpn }，保护您的在线隐私。
 vpn-android-maker-of-firefox = 作为 Web 浏览器 { -brand-name-firefox } 的开发商、最严格的互联网隐私保护者之一，{ -brand-name-mozilla } 对您每次上网的隐私和安全作出深切承诺。
 vpn-android-wifi-headline = 在旅途中保持在线安全
+vpn-android-wifi-copy = 有时数据流量不可用，而公共 WI-FI 是您的唯一选择。若您的 { -brand-name-android } 设备上有 { -brand-name-mozilla-vpn }，则可放心在机场输入密码或在街角咖啡厅在线支付——只需轻轻一按，即可高枕无忧。
 vpn-android-about-headline = { -brand-name-mozilla } 是值得您信赖的品牌
+vpn-android-about-copy = 我们因 Web 浏览器 { -brand-name-firefox } 最广为人知，但是，{ -brand-name-mozilla } 作为一个大型组织，其核心使命是为您的在线权利而战。我们是互联网的倡导者，致力于确保互联网保持开放与自由，同时尊重每个人的隐私权和安全权。
 vpn-android-privacy-headline = 一触即连
 vpn-android-privacy-copy = { -brand-name-android } 版 { -brand-name-mozilla-vpn } 十分易用。只需轻触按钮，您的网络连接就会自动使用高级 { -brand-name-wireguard }® 协议加密。就是这样！
 # Variables:

@@ -13,7 +13,7 @@ vpn-ios-maker-of-firefox = 作为 Web 浏览器 { -brand-name-firefox } 的开�
 vpn-ios-wifi-headline = 在旅途中保持在线安全
 vpn-ios-wifi-copy = 使用公共 WI-FI？同样没问题。{ -brand-name-mozilla-vpn } 让您可以放心地在咖啡厅检查银行账户，或者在街角编辑密码——您可以在 { -brand-name-iphone } 或 { -brand-name-ipad } 上做平时做的一切，而不必担心。
 vpn-ios-about-headline = 凭什么信任我们？
-vpn-ios-about-copy = 您可能是因我们的 Web 浏览器 { -brand-name-firefox } 而了解到我们——但除此之外，{ -brand-name-mozilla } 自 1998 年以来便一直在为您的权利而战——这是我们的核心使命。我们致力于确保互联网的开放与自由，同时尊重每个人的隐私权和安全权。
+vpn-ios-about-copy = 您可能是因我们的 Web 浏览器 { -brand-name-firefox } 而了解到我们——但除此之外，{ -brand-name-mozilla } 自 1998 年以来便一直在为您的权利而战——这是我们的核心使命。我们致力于确保互联网保持开放与自由，同时尊重每个人的隐私权和安全权。
 vpn-ios-privacy-headline = 一触即连
 vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } 十分易用。只需轻触按钮，即会使用高级 { -brand-name-wireguard }® 协议加密您的连接，掩藏您 { -brand-name-iphone } 或 { -brand-name-ipad } 的 IP 地址。
 # Variables:
