@@ -9,9 +9,11 @@
 vpn-desktop-page-title = 适用于桌面系统（PC 和笔记本电脑）的 { -brand-name-mozilla-vpn }
 # Desktop strings
 vpn-desktop-hero-headline = { -brand-name-mozilla-vpn } 桌面版可保护您的网络连接
+vpn-desktop-maker-of-firefox = 作为 { -brand-name-firefox } 网络浏览器的开发商、最受信赖的互联网隐私保护者之一，{ -brand-name-mozilla } 致力于让您每次上网时都感到安全、受到尊重。
 vpn-desktop-wifi-headline = 放心使用公共 WI-FI
 vpn-desktop-wifi-copy = 我们的 VPN 可以保护您的互联网连接不受黑客和间谍的攻击，因此您可以在咖啡店购物，在火车上查看您的银行账户，并在任何地方开展您的在线业务，而无需担心安全问题。
 vpn-desktop-about-headline = 关于 { -brand-name-mozilla }
+vpn-desktop-about-copy = { -brand-name-mozilla } 是一个成立于 1998 年，由用户、贡献者和开发者组成的全球社区，致力于将互联网的力量掌握在人民之手，以我们的 { -brand-name-firefox-browser }最为知名。我们的使命即是保持 Web 的自由开放。
 vpn-desktop-privacy-headline = 隐私，一点即得
 vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } 应用程序使用 { -brand-name-wireguard }® 高级协议加密您的互联网连接，并隐藏您手机或平板电脑的 IP 地址。
 vpn-desktop-servers-headline = 连接世界各地的服务器
