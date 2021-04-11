@@ -35,6 +35,7 @@ firefox-all-count-on-stability-and = Luota vakauteen ja helppokäyttöisyyteen t
 firefox-all-windows-installers-for = Yritystietokoneiden Windows-asennukset, jotka yksinkertaistavat { -brand-name-firefox-browser(case: "genitive") } määritystä, käyttöönottoa ja hallintaa.
 firefox-all-arm64-installers = ARM64/AArch64-asennusohjelmat
 firefox-all-arm64-installers-optimized = ARM64/AArch64-asennusohjelmat optimoituna Snapdragoniin pohjautuville { -brand-name-windows }-tietokoneille.
+firefox-all-product-send-link = Lähetä latauslinkki puhelimeesi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Valitse 32-bittinen asennusohjelma tietokoneelle, jossa on 32-bittinen prosessori – tai vanhemmalle tai vähemmän tehokkaalle tietokoneelle. <a href="{ $url }">Jos et ole varma</a>, pitäisikö valita 64- vai 32-bittinen asennusohjelma, suosittelemme valitsemaan 32-bittisen.
