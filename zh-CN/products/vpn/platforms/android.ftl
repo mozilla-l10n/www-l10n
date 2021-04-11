@@ -22,6 +22,9 @@ vpn-android-privacy-copy = { -brand-name-android } 版 { -brand-name-mozilla-vpn
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = 超过 { $countries } 个国家/地区的 { $servers }+ 台服务器
 # Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = { -brand-name-mozilla-vpn } 可以将您的 { -brand-name-android } 手机“位置”在 { $countries }+ 个国家/地区间随心切换。您将能看到与所连接国家/地区的当地人相同的网页。这是一个从全新视角体验 Web 的有趣方式。
+# Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = 一次订阅，多达 { $devices } 设备可用
 vpn-android-speed-headline = 速度超快，不限流量。
