@@ -18,3 +18,8 @@ vpn-mac-servers-headline = Érjen el kiszolgálókat szerte a világon
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Védjen meg { $devices } eszközt egyetlen előfizetéssel
+vpn-mac-devices-copy = A számítógépe, táblagépe és okostelefonja megérdemli a biztonságot. Használja a { -brand-name-mozilla-vpn }-t, hogy megvédjen akár { $devices } { -brand-name-mac-short(cap: "lower") }es és { -brand-name-ios }-es eszközt (a { -brand-name-windows(cap: "lower") }os, { -brand-name-linux(cap: "lower") }os és { -brand-name-android(cap: "lower") }os eszközök mellett).
+vpn-mac-speed-headline = Nem kell feláldoznia a sebességet
+vpn-mac-speed-copy = A korlátlan adatforgalom és a sávszélesség-korlátozás hiánya azt jelenti, hogy a szokott módon fedezheti fel az internet sarkait – extra biztonsági szint mellett.
+vpn-mac-log-headline = Amit online tesz, az az Ön dolga
+vpn-mac-log-copy = Élvezze a nyugalmat a { -brand-name-mozilla-vpn } használatakor. Az adatait titkosítjuk, a tevékenységét soha nem naplózzuk, és a magánszféráját mindig megvédjük. Ez az ígéretünk Önnek.
