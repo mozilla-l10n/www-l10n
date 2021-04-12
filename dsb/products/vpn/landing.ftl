@@ -27,11 +27,36 @@ vpn-landing-faq-info-question-heading = Kótare informacije { -brand-name-mozill
 vpn-landing-faq-protected-question-heading = Kak se mója priwatnosć šćita?
 vpn-landing-faq-competition-question-heading = Kak { -brand-name-mozilla-vpn } w pśirownanju ku konkurency wótrěznjo?
 vpn-landing-faq-compatibility-question-heading = Z kótarymi rědami jo { -brand-name-mozilla-vpn } kompatibelny?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } jo kompatibelny z <a href="{ $mobile }">mobilnym telefonom</a>, tabletom a <a href="{ $desktop }">desktopon</a> na:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } jo kompatibelny z:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a>10 (jano 64-bitowy)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } (jano 64-bitowy)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 a nowšy)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 a nowše)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (wersija 6 a nowšy)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (Wersija 6 a nowše)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 a nowšy)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 a nowše)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (jano { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (jano { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Kótare pšawidła za zarownanje { -brand-name-mozilla-vpn } płaśe?
 vpn-landing-faq-manage-subscription-question-heading = Kak mógu swój abonement zastojaś?
