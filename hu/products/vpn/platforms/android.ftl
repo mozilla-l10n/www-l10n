@@ -32,3 +32,4 @@ vpn-android-devices-headline = Egy előfizetés akár { $devices } eszközhöz
 #   $devices (number) - number of available devices
 vpn-android-devices-copy = A { -brand-name-mozilla-vpn } lehetővé teszi, hogy { $devices } különböző eszközt csatlakoztasson, köztük { -brand-name-android(cap: "lower") }os, { -brand-name-ios }-es, { -brand-name-mac-short }es, { -brand-name-windows(cap: "lower") }os és { -brand-name-linux(cap: "lower") }os eszközöket.
 vpn-android-speed-headline = Rendkívül gyors sebesség. Korlátlan adatforgalom.
+vpn-android-speed-copy = Játsszon online, közvetítsen filmeket és böngésszen az interneten rendkívül gyors sebességgel az { -brand-name-android(cap: "lower") }os eszközén – mindezt korlátlan sávszélességgel.
