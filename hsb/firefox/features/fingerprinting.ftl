@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 # page title
-features-fingerprinting-what-is-fingerprinting-title = Štož je slědowanje přez porstowe wotćišće a čehodla wy měł jo blokować
+features-fingerprinting-what-is-fingerprinting-title = Što je slědowanje přez porstowe wotćišće a čehodla wy měł jo blokować
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje přez porstowe wotćišće blokuje
 # description for the header image
 features-fingerprinting-every-fingerprint = Kóždy porstowy wotćišć je jónkróćny.
