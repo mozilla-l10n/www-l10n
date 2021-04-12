@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } { -brand-name-linux } ({ -brand-name-ubuntu }) peg̃uarã
+# Linux strings
+vpn-linux-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-ubuntu } peg̃uarã { -brand-name-linux } — mokõi mba’e teetéva
 vpn-linux-wifi-headline = Eiko tekorosãme eipuruse vove wifi
 vpn-linux-about-headline = Téra jeroviaha 1998 guive
 vpn-linux-privacy-headline = Tekorosã 1 jekutúpe añoite

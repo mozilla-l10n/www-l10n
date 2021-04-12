@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+vpn-ios-privacy-headline = Jeike 1 jekutúpe
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Eikekuaa { $devices } mba’e’oka peg̃uarã
