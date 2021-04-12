@@ -12,7 +12,7 @@ vpn-mac-page-title = 适用于 { -brand-name-mac-short } 的 { -brand-name-mozil
 vpn-mac-page-description = 无论是 { -brand-name-mac-short } 台式机、笔记本电脑、{ -brand-name-ipad } 还是 { -brand-name-iphone }。这款由 1998 年以来互联网安全领域的先驱 { -brand-name-mozilla } 出品的 VPN 可以保护您的所有设备免遭黑客和间谍的窥探。
 # Mac strings
 vpn-mac-hero-headline = { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn } 可保护您的网络连接
-vpn-mac-ability = 从工作到生活，无论何处何事，您在上网时都应感到安全。{ -brand-name-mozilla-vpn } 可帮助您更明智地使用公共 WI-FI，保护您的数据不受到黑客和互联网公司的侵害。它的一键式隐私保护适用于 { -brand-name-mac-short } 和 { -brand-name-ios }，（也支持 { -brand-name-windows } 10、{ -brand-name-linux } 和 { -brand-name-android }），且不会影响浏览速度。此外，由于它是由 { -brand-name-mozilla } 推出的使用 { -brand-name-wireguard }® 协议的 VPN。因此可以放心，您的活动不会被记录，您的数据始终只属于您 。
+vpn-mac-ability = 从工作到生活，无论何处何事，您在上网时都应感到安全。{ -brand-name-mozilla-vpn } 可帮助您更明智地使用公共 WI-FI，保护您的数据不受到黑客和互联网公司的侵害。它的一键式隐私保护适用于 { -brand-name-mac-short } 和 { -brand-name-ios }，（也支持 { -brand-name-windows } 10、{ -brand-name-linux } 和 { -brand-name-android }），且不会影响浏览速度。此外，这款使用 { -brand-name-wireguard }® 协议的 VPN 是由 { -brand-name-mozilla } 推出的。因此可以放心，您的活动不会被记录，您的数据始终只属于您 。
 vpn-mac-wifi-headline = 放心使用公共 Wi-Fi
 vpn-mac-wifi-copy = 有了 { -brand-name-mozilla-vpn }，您可以安心在公共 WI-FI 下上网。它可以保护您的互联网连接，隐藏个人数据不被黑客和窥探的眼睛发现。
 vpn-mac-about-headline = Mozilla 出品，值得信赖
