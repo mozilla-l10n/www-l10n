@@ -36,3 +36,8 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Symudol
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = Ynglŷn â'n partner dibynadwy
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-platforms-shared-trust-partner = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan <a href="{ $policy }">{ -brand-name-mullvad }</a> gan ddefnyddio'r protocol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Mae { -brand-name-mullvad } yn gosod eich preifatrwydd yn flaeniaeth ac nid yw'n cadw cofnodion o unrhyw fath.
