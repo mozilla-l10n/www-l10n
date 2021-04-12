@@ -65,7 +65,6 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-relay = Firefox Relay
 
@@ -74,7 +73,6 @@
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync = Sync
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
@@ -82,6 +80,8 @@
 ## Firefox products (legacy)
 
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -129,14 +129,14 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 
