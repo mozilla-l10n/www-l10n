@@ -10,6 +10,7 @@ vpn-ios-page-title = 适用于 { -brand-name-ios }（{ -brand-name-iphone } 和 
 vpn-ios-page-description = 通过科技界值得信赖的品牌 { -brand-name-mozilla } 在您的 { -brand-name-iphone } 或 { -brand-name-ipad } 上获得快速、便捷的安全保护
 # Mobile strings
 vpn-ios-hero-headline = 使用 { -brand-name-ios } 版 { -brand-name-mozilla-vpn } 保护您的在线安全
+vpn-ios-ability = 无论是在家还是在公共 WI-FI 下，{ -brand-name-mozilla-vpn } 都可以保护您的数据不受黑客和窥视者的侵扰。只需较低的月费，就可以通过 { -brand-name-wireguard }® 高级协议加密您在 { -brand-name-iphone }、{ -brand-name-ipad } 和其他大多数设备上的个人数据，让您可以安心地看直播、玩游戏、管理财务、购物及其他日常网上操作。
 vpn-ios-maker-of-firefox = 作为 Web 浏览器 { -brand-name-firefox } 的开发商、最受信赖的互联网隐私保护者之一，{ -brand-name-mozilla } 致力于让您每次上网时都感到安全、受到尊重。
 vpn-ios-wifi-headline = 在旅途中保持在线安全
 vpn-ios-wifi-copy = 使用公共 WI-FI？同样没问题。{ -brand-name-mozilla-vpn } 让您可以放心地在咖啡厅检查银行账户，或者在街角编辑密码——您可以在 { -brand-name-iphone } 或 { -brand-name-ipad } 上做平时做的一切，而不必担心。
