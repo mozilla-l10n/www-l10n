@@ -9,7 +9,7 @@
 vpn-android-page-title = { -brand-name-mozilla-vpn } { -brand-name-android }ra
 vpn-android-page-description = Kerüljön biztonságba egy koppintással az { -brand-name-android(cap: "lower") }os telefonján a { -brand-name-mozilla(ending: "accented") }val, a technológiai ipar egyik legmegbízhatóbb nevével.
 # Mobile strings
-vpn-android-hero-headline = Szerezzen online biztonságot és adatvédelmet  az { -brand-name-android(cap: "lower") }os { -brand-name-mozilla-vpn }-nel
+vpn-android-hero-headline = Szerezzen online biztonságot és adatvédelmet  az { -brand-name-android(capitalizion: "lower") }os { -brand-name-mozilla-vpn } segítségével
 vpn-android-ability = A { -brand-name-mozilla-vpn }-nel bízhat abban, hogy az adatai biztonságban vannak a hackerek és a kíváncsi szemek elől – otthon és a nyilvános Wi-Fi-hálózatokon. Egy csésze kávé áráért, az { -brand-name-android(cap: "lower") } eszközén található személyes adatai speciális titkosítást kapnak a { -brand-name-wireguard }® protokoll segítségével. Használja a { -brand-name-mozilla-vpn }-t, hogy sorozatokat nézzen, játsszon, kezelje a pénzügyeit, vásároljon és bármi mást tegyen az interneten, annak a tudatában, hogy a kapcsolata biztonságos.
 vpn-android-maker-of-firefox = A { -brand-name-firefox } böngésző készítőjeként és az internetes adatvédelem egyik leghevesebb védelmezőjeként, a { -brand-name-mozilla } mélyen elkötelezett az Ön adatvédelme és biztonsága iránt, minden egyes alkalommal, amikor fellép az internetre.
 vpn-android-wifi-headline = Legyen biztonságban az interneten, ha éppen mozgásban van
@@ -33,3 +33,4 @@ vpn-android-devices-headline = Egy előfizetés akár { $devices } eszközhöz
 vpn-android-devices-copy = A { -brand-name-mozilla-vpn } lehetővé teszi, hogy { $devices } különböző eszközt csatlakoztasson, köztük { -brand-name-android(cap: "lower") }os, { -brand-name-ios }-es, { -brand-name-mac-short }es, { -brand-name-windows(cap: "lower") }os és { -brand-name-linux(cap: "lower") }os eszközöket.
 vpn-android-speed-headline = Rendkívül gyors sebesség. Korlátlan adatforgalom.
 vpn-android-speed-copy = Játsszon online, közvetítsen filmeket és böngésszen az interneten rendkívül gyors sebességgel az { -brand-name-android(cap: "lower") }os eszközén – mindezt korlátlan sávszélességgel.
+vpn-android-log-headline = Nincs naplózás. Nincs nyomkövetés. Nem sértjük meg a magánszféráját.
