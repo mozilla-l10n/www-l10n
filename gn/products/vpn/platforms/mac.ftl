@@ -10,4 +10,7 @@
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } { -brand-name-mac-short } peg̃uarã
 vpn-mac-servers-headline = Eike mohendahavusu arapyguávape
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Emo’ã { $devices } mba’e’oka ñemboheraguapy ndive
 vpn-mac-speed-headline = Natekotevẽi ehekojopy pya’ekue
