@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title = El futuru decídese en llinia. Ayuda a { -brand-name-mozilla } a lluchar por una web pa toos.
-banner-fundraising-body = Caldía se recueyen datos personales al acceder a la web y nun ye fácil saber qué pasa con ellos, la desinformación fainos difícil atopar la verdá. Los preseos conectaos a la web lláncense al mercáu ensin cumplir unos estándares de seguranza mínimos. La organización ensin ánimu de llucru { -brand-name-mozilla-foundation } llucha pa qu'internet seya seguro, abierto y accesible pa toos. <strong>¿Quies donar?</strong>
+banner-fundraising-body = Caldía se recueyen datos personales al acceder a la web y nun ye fácil aldovinar qué pasa con ellos, la desinformación fainos difícil descubrir la verdá. Los preseos conectaos a la web lláncense al mercáu ensin cumplir unos estándares de seguranza mínimos. La organización ensin ánimu de llucru { -brand-name-mozilla-foundation } llucha pa qu'internet seya seguro, abierto y accesible pa toos. <strong>¿Quies donar?</strong>
 banner-fundraising-monthly = Mensualmente
 banner-fundraising-one-time = Una vegada
 banner-fundraising-donate = Donar

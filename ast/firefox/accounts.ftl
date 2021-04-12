@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-accounts-there-is-a-way-to = Hai un mou de protexer la to privacidá. Xúnite a { -brand-name-firefox }.
+# The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
+firefox-accounts-there-is-a-way-to-protect = Hai un mou de protexer la to privacidá. <span>Xúnite a { -brand-name-firefox }.</span>
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Aniciesti sesión <br>en { -brand-name-firefox }. <br><span>Agora prueba { -brand-name-firefox-monitor }.</span>
 firefox-accounts-already-have-an-account = ¿Yá tienes una cuenta?
