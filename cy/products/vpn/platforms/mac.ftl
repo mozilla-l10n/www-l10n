@@ -20,3 +20,15 @@ vpn-mac-about-copy = Er 1998, mae ei genhadaeth i adeiladu rhyngrwyd gwell wedi 
 vpn-mac-privacy-headline = Preifatrwydd ar flaenau eich bysedd
 vpn-mac-privacy-copy = Gyda { -brand-name-mozilla-vpn }, mae eich cysylltiad rhyngrwyd wedi'i amgryptio ac mae eich cyfeiriad IP wedi'i amddiffyn rhag hacwyr a darparwyr rhyngrwyd busneslyd diolch i brotocol datblygedig { -brand-name-wireguard }®.
 vpn-mac-servers-headline = Mynediad i weinyddion ledled y byd
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Gosodwch eich lleoliad eich { -brand-name-mac-short } i'ch dewis o fwy na { $servers }+ gweinydd mewn { $countries }+ gwlad. Mae hyn yn caniatáu i chi ddarllen y newyddion, siopa, ffrydio a syrffio'r we o bron i unrhyw le.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Diogelwch { $devices } dyfais gydag un tanysgrifiad
+vpn-mac-devices-copy = Mae eich cyfrifiadur, tabled a'ch ffôn clyfar i gyd yn haeddu bod yn ddiogel. Defnyddiwch { -brand-name-mozilla-vpn } i ddiogelu hyd at { $devices } dyfais { -brand-name-mac-short } a { -brand-name-ios } (yn ychwanegol at { -brand-name-windows }, { -brand-name-linux } a { -brand-name-android }).
+vpn-mac-speed-headline = Does dim angen aberthu cyflymder
+vpn-mac-speed-copy = Mae data diderfyn a dim cyfyngiadau lled band yn golygu y gallwch archwilio corneli’r rhyngrwyd fel y gwnewch chi fel arfer — gyda lefel ychwanegol o ddiogelwch.
+vpn-mac-log-headline = Eich busnes chi yw beth wnewch chi ar -lein
+vpn-mac-log-copy = Mwynhewch dawelwch meddwl pan fyddwch yn defnyddio { -brand-name-mozilla-vpn }. Mae eich data wedi'i amgryptio, nid yw'ch gweithgaredd byth yn cael ei gofnodi, ac mae eich preifatrwydd bob amser yn cael ei ddiogelu. Dyna ein haddewid i chi.
