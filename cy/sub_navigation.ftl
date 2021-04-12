@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } Bwrdd Gwaith a 
 sub-navigation-desktop-nightly = { -brand-name-nightly } Bwrdd Gwaith
 sub-navigation-features = Nodweddion
 sub-navigation-support = Cymorth
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Ychwanegion
+sub-navigation-add-ons = Ychwanegion
 sub-navigation-faq = Cwestiynau Cyffredin
 sub-navigation-learn-more = Dysgu Rhagor
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } Symudol
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Ychwanegion { -brand-name-android }
+sub-navigation-android-add-ons = Ychwanegion { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }

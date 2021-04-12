@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Ymunwch â'r Rhestr Aros
 vpn-shared-sign-in-link = Eisoes yn danysgrifiwr?
 vpn-shared-available-countries = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia.
 vpn-shared-available-countries-v2 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia.
-vpn-shared-availablity-long = Mae'r VPN ar gael ar hyn o bryd ar gyfer dyfeisiau { -brand-name-windows } 10, { -brand-name-android } a { -brand-name-ios } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia .
 vpn-shared-money-back-guarantee = Gwarant arian-yn-ôl 30 diwrnod
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Sylw yn
@@ -22,9 +21,16 @@ vpn-shared-features-encrypt = Amgryptio ar lefel dyfais
 vpn-shared-features-servers = { $servers }+ gweinydd mewn { $countries }+ gwlad
 vpn-shared-features-bandwidth = Dim cyfyngiadau lled band
 vpn-shared-features-activity = Dim cofnodi'ch gweithgaredd rhwydwaith
+vpn-shared-features-activity-logs = Dim cofnodi gweithgaredd ar-lein nawr na byth
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Mynediad i weinyddion mewn { $countries }+ gwlad
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Y gallu i gysylltu hyd at { $devices } dyfais
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Diogelwch hyd at { $devices } o ddyfeisiau
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +42,12 @@ vpn-shared-countries-coming-soon = Ar gael mewn { $countries } gwlad ar hyn o br
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Dyma'n rhestr lawn o <a href="{ $url }" { $attrs }>weinyddion</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Gweinyddion cryf mewn { $countries }+ gwlad
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Cysylltwch hyd at { $devices } dyfais
 vpn-shared-refund-policy = Polisi Ad-dalu
 vpn-shared-privacy-notice = Hysbysiad Preifatrwydd
 vpn-shared-terms-conditions = Telerau ac Amodau
@@ -61,6 +73,27 @@ vpn-shared-pricing-save-percent = Arbedwch { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Cyfanswm o { $amount }
+
+# Platform subpage shared strings
+
+vpn-shared-platform-cta-headline = Cychwyn arni
+vpn-shared-platform-cta-button = Gweld y prisio a'r argaeledd
+vpn-shared-platform-privacy-promise = Eich preifatrwydd yw ein haddewid
+vpn-shared-platform-trust-partner-headline = Ynglŷn â'n partner dibynadwy
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan <a href="{ $policy }">{ -brand-name-mullvad }</a> gan ddefnyddio'r protocol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Mae { -brand-name-mullvad } yn gosod eich preifatrwydd yn flaeniaeth ac nid yw'n cadw cofnodion o unrhyw fath.
+vpn-shared-platform-what-youll-get = Beth gewch chi gyda { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Bwrdd Gwaith
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Symudol
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 

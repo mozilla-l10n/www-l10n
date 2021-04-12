@@ -24,3 +24,11 @@ vpn-windows-servers-headline = Mynediad i weinyddion ledled y byd
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
 vpn-windows-servers-copy = Gyda { $servers }+ gweinydd mewn dros { $countries } gwlad, gallwch wneud beth bynnag sydd angen i chi ei wneud ar-lein - pori, siopa, darllen y newyddion - trwy osod lleoliad eich dyfais i bron unrhyw le yn y byd.
+vpn-windows-devices-headline = Un tanysgrifiad ar gyfer eich holl ddyfeisiau
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Mae tanysgrifiad { -brand-name-mozilla-vpn } yn sicrhau mynediad diderfyn i'n gwasanaeth VPN diogel ar hyd at { $devices } dyfais ar gyfer { -brand-name-windows } (gan gynnwys { -brand-name-windows } 10) , { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
+vpn-windows-speed-headline = Dim cyfyngiadau lled band
+vpn-windows-speed-copy = Ffrydio, chwarae gemau, siopa a chrwydro'r we ar gyflymder cyflym iawn. Gyda data diderfyn a dim cyfyngiadau lled band, dyw { -brand-name-mozilla-vpn } ddim yn rhwystr.
+vpn-windows-log-headline = Eich preifatrwydd yw ein blaenoriaeth
+vpn-windows-log-copy = Bydd { -brand-name-mozilla } byth yn stopio gweithio tuag at well rhyngrwyd sy'n rhoi eich preifatrwydd yn gyntaf. Dyna pam nad yw'r { -brand-name-mozilla-vpn } yn casglu unrhyw ddata arnoch chi nac yn cofnodi'ch gweithgaredd ar-lein - dyw r'un o'n cynnyrch yn gwneud.
