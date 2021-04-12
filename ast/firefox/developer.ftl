@@ -9,9 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ye perrápidu qu'ufre les carauterístiques caberes pa desendolcadores como'l sofitu pa CSS Grid y el framework
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = Afáyate nel to restolador favoritu y nuevu. Consigui les carauterístiques caberes, un rindimientu meyor y les ferramientes de desendolcu que precises pa construyir la web abierta.
 firefox-developer-speak-up = Fala alto
 firefox-developer-feedback-makes-us = Les crítiques faennos ameyorar. Cúntamos cómo podemos ameyorar el restolador y les ferramientes de desendolcu.
 firefox-developer-join-the-convo = Xúnite a la conversación

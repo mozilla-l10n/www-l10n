@@ -32,8 +32,8 @@ firefox-all-product-send-link = Unviar un enllaz de descarga al teléfonu
 firefox-all-choose-a-32-bit-installer = Escueyi l'instalador de 32 bits pa ordenadores con procesadores de 32 bits, o pa ordenadores vieyos o poco potentes. <a href="{ $url }">Si nun sabes qué escoyer</a>, si l'instalador de 64 bits o 32 bits, aconseyámoste baxar el de 32 bits.
 firefox-all-msi-installers = Instalador de MSI
 firefox-all-which-version = ¿Qué versión quies baxarr?
-firefox-all-select-your-preferred-installer = Esbilla l'instalador que prefieras
-firefox-all-select-your-preferred-language = Esbilla la llingua que prefieras
+firefox-all-select-your-preferred-installer = Esbilla l'instalador que prefieres
+firefox-all-select-your-preferred-language = Esbilla la llingua que prefieres
 firefox-all-learn-about-installers = Lleer tocante a los instaladores
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
