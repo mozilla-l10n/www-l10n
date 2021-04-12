@@ -168,7 +168,11 @@
         [lower] linux
     }
 -brand-name-mac = macOS
--brand-name-mac-short = Mac
+-brand-name-mac-short =
+    { $cap ->
+       *[upper] Mac
+        [lower] mac
+    }
 -brand-name-ubuntu = Ubuntu
 -brand-name-vista = Vista
 -brand-name-windows =

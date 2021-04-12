@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Mobile strings
+vpn-ios-hero-headline = Védje meg magát online az { -brand-name-ios }-es { -brand-name-mozilla-vpn }-nel
+vpn-ios-wifi-headline = Legyen biztonságban az interneten, ha útközben van
+vpn-ios-about-headline = Miért bízzon bennünk?
 vpn-ios-privacy-headline = 1 kattintásos kapcsolat
 # Variables:
 #   $servers (number) - number of available servers
@@ -15,3 +19,5 @@ vpn-ios-servers-copy = Vásároljon Svájcból. Nézzen közvetítést Kanadáb�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Szerezzen hozzáférést { $devices } eszközhöz
+vpn-ios-speed-headline = Maximális sebesség. Korlátlan adatforgalom.
+vpn-ios-log-headline = Az adatai titkosak maradnak. Pont.
