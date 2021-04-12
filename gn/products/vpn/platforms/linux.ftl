@@ -22,3 +22,4 @@ vpn-linux-servers-headline = Eike { $servers }-pe+ mba’e’oka { $countries } 
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Eike { $devices } mba’e’okuéra peve
 vpn-linux-speed-headline = Ipya’eterei mba’ekuaarã hu’ã’ỹva ndive
+vpn-linux-log-headline = Ne mba’ekuaarã nemba’ete

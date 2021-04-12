@@ -6,3 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
+vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Emo’ã { $devices } mba’e’oka peve
+vpn-desktop-speed-headline = Pya’ekue eimo’ã’ỹva, jejoko’ỹre
+vpn-desktop-log-headline = Ne ñemigua oĩ tenonderã

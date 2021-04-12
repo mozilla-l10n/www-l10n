@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã ({ -brand-name-iphone } ha { -brand-name-ipad })
 vpn-ios-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
 vpn-ios-about-headline = ¿Mba’ére ejeroviáta orerehe?
 vpn-ios-privacy-headline = Jeike 1 jekutúpe
