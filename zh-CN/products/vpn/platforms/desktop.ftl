@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-desktop-page-title = 适用于桌面系统（PC 和笔记本电脑）的 { -brand-name-mozilla-vpn }
+vpn-desktop-page-description = 科技界值得信赖的品牌之一，{ -brand-name-mozilla } 助您在台式机或笔记本电脑上获得快速、便捷的安全保护。
 # Desktop strings
 vpn-desktop-hero-headline = { -brand-name-mozilla-vpn } 桌面版可保护您的网络连接
 vpn-desktop-maker-of-firefox = 作为 Web 浏览器 { -brand-name-firefox } 的开发商、最受信赖的互联网隐私保护者之一，{ -brand-name-mozilla } 致力于让您每次上网时都感到安全、受到尊重。
