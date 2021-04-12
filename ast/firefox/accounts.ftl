@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+firefox-accounts-there-is-a-way-to = Hai un mou de protexer la to privacidá. Xúnite a { -brand-name-firefox }.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Aniciesti sesión <br>en { -brand-name-firefox }. <br><span>Agora prueba { -brand-name-firefox-monitor }.</span>
 firefox-accounts-already-have-an-account = ¿Yá tienes una cuenta?
@@ -12,7 +14,8 @@ firefox-accounts-meet-our-family-of = Conoz la nuesa familia de productos que pr
 firefox-accounts-travel-the-internet = Viaxa per internet con proteición, en tolos preseos.
 firefox-accounts-keep-your-passwords = Protexi y lleva contigo les tos contraseñes.
 firefox-accounts-share-large-files = Comparti ficheros grandes que nun van tar tola vida n'internet
-firefox-accounts-help-us-build-a-better = Ayúdanos a ameyorar { -brand-name-firefox } pa toos.
+firefox-accounts-get-the-respect-you = Consigui'l respetu que mereces.
+firefox-accounts-help-us-build-a-better = Ayúdanos a ameyorar { -brand-name-firefox }.
 firefox-accounts-get-into-the-open = Adiéntrate nel espíritu del códigu abiertu probando productos futuros.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
