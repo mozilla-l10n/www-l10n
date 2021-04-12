@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = 加入预约名单
 vpn-shared-sign-in-link = 已经是订阅者？
 vpn-shared-available-countries = 目前，我们在美国、英国、加拿大、新西兰、新加坡和马来西亚提供 { -brand-name-mozilla-vpn } 服务。
 vpn-shared-available-countries-v2 = 目前，我们在美国、英国、德国、法国、加拿大、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
-vpn-shared-availablity-long = 目前，该 VPN 可在美国、英国、加拿大、新西兰、新加坡和马来西亚的 { -brand-name-windows } 10、{ -brand-name-android } 和 { -brand-name-ios } 设备上使用。
 vpn-shared-money-back-guarantee = 30 天退款保证
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = 媒体报道
@@ -88,6 +87,9 @@ vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } 运行于�
 vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } 的特色：
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = VPN 是什么？
+vpn-subnav-faqs = 常见问题
+vpn-subnav-get-help = 获取帮助
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = 桌面版
 vpn-subnav-platform-ios = { -brand-name-ios }
