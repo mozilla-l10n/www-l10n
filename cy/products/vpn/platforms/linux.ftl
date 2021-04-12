@@ -9,9 +9,9 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } ar gyfer { -brand-name-linux } ({ -brand-name-ubuntu })
-vpn-linux-page-description = Fel cefnogwr { -brand-name-ubuntu } { -brand-name-linux }, rydych eisoes yn gwybod am bwysigrwydd preifatrwydd a diogelwch ar-lein. Mae'n debyg eich bod hefyd yn gwybod am { -brand-name-mozilla } a'r hyn yr ydym yn sefyll drosto —- rhyngrwyd preifat, agored a rhad ac am ddim i bawb. Mae'n bryd dod â'r ddau at ei gilydd.
+vpn-linux-page-description = Fel cefnogwr { -brand-name-ubuntu } { -brand-name-linux }, rydych eisoes yn gwybod am bwysigrwydd preifatrwydd a diogelwch ar-lein. Mae'n debyg eich bod hefyd yn gwybod am { -brand-name-mozilla } a'r hyn yr ydym yn sefyll drosto — rhyngrwyd preifat, agored a rhad ac am ddim i bawb. Mae'n bryd dod â'r ddau at ei gilydd.
 # Linux strings
-vpn-linux-hero-headline = { -brand-name-mozilla-vpn } ar gyfer { -brand-name-linux } { -brand-name-ubuntu } — cyfuniad perffaith
+vpn-linux-hero-headline = { -brand-name-mozilla-vpn } ar gyfer { -brand-name-linux } { -brand-name-ubuntu } — y cyfuniad perffaith
 vpn-linux-ability = Cymerwch fesur ychwanegol o ddiogelwch pan fyddwch ar-lein — gartref ac allan o gwmpas — gyda { -brand-name-mozilla-vpn }. Am ffi fisol fechan, mae'n defnyddio protocol datblygedig { -brand-name-wireguard }® i amgryptio'ch cysylltiad rhyngrwyd ar eich cyfrifiadur { -brand-name-linux } yn ogystal â mathau eraill o ddyfeisiau, gan adael i chi ffrydio sioeau, chwarae gemau, siopa, a mynd ymlaen â'ch bywyd bob dydd ar-lein gan wybod eich bod chi'n ddiogel.
 vpn-linux-maker-of-firefox = Fel un o'r enwau mwyaf dibynadwy yn y diwydiant technoleg, mae { -brand-name-mozilla } yn ymrwymedig i sicrhau eich bod chi'n teimlo'n ddiogel bob tro rydych chi'n mynd ar-lein.
 vpn-linux-wifi-headline = Cadwch yn ddiogel ar-lein pan fydd angen i chi ddefnyddio wifi cyhoeddus

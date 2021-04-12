@@ -22,7 +22,7 @@ vpn-landing-fast-secure-heading = Rhwydwaith cyflym a diogel
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Gan ddefnyddio'r protocol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> mwyaf datblygedig, rydym yn amgryptio eich gweithgaredd rhwydwaith ac yn cuddio'ch cyfeiriad IP. Fyddwn ni ddim yn cofnodi, tracio, na rhannu eich data rhwydwaith.
+vpn-landing-fast-secure-desc = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Gan ddefnyddio protocol uwch <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, rydym yn amgryptio eich gweithgaredd rhwydwaith ac yn cuddio'ch cyfeiriad IP. Fyddwn ni ddim yn cofnodi, tracio, na rhannu eich data rhwydwaith.
 vpn-landing-brand-trust-heading = VPN gan frand y gallwch ymddiried ynddo
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
