@@ -156,27 +156,27 @@
 ## Platforms
 
 -brand-name-android =
-    { $capitalization ->
+    { $cap ->
        *[upper] Android
         [lower] android
     }
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $cap ->
        *[upper] Linux
         [lower] linux
     }
--brand-name-ubuntu = Ubuntu
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows =
     { $cap ->
        *[upper] Windows
         [lower] windows
     }
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 
