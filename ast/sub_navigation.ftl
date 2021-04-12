@@ -16,6 +16,7 @@ sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-features = Carauterístiques
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Complementos
 sub-navigation-faq = FAQ
 sub-navigation-developer-edition = { -brand-name-developer-edition }
@@ -37,7 +38,7 @@ sub-navigation-ad-tracker-blocking = Bloquéu de rastrexadores d'anuncios
 sub-navigation-private-browsing = Restolar en privao
 sub-navigation-what-is-a-browser = ¿Qué ye un restolador?
 sub-navigation-browsing-history = Historial de restolar
-sub-navigation-browser-history = Historial de restolador
+sub-navigation-browser-history = Historial del restolador
 sub-navigation-privacy = Privacidá
 sub-navigation-our-promise = La nuesa promesa
 sub-navigation-our-products = Los nuesos productos
