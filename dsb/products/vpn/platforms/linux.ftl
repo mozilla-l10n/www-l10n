@@ -14,3 +14,7 @@ vpn-linux-hero-headline = { -brand-name-mozilla-vpn } za { -brand-name-ubuntu } 
 vpn-linux-wifi-headline = Šćitajśo se online, teke w zjawnem WLAN
 vpn-linux-about-headline = Dowěrygódne mě wót 1998
 vpn-linux-privacy-headline = Wěstota jano 1 kliknjenje zdalona
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Zwězajśo z wěcej ako { $servers } serwerami we wěcej ako { $countries } drugich krajach
