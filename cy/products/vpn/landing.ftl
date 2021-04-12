@@ -16,7 +16,7 @@ vpn-landing-hero-sub-heading-v2 = Diogelwch, dibynadwyedd a chyflymder — ar bo
 vpn-landing-hero-sub-heading = Diogelwch y gallwch ddibynnu arno. Enw y gallwch ymddiried ynddo.
 vpn-landing-hero-desc = Rhwydwaith Preifat Rhithwir gan wneuthurwyr { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un tap i breifatrwydd
-vpn-landing-privacy-desc = Syrffio, ffrydio, gemau, a gweithio, tra'n cynnal eich preifatrwydd ar-lein. P'un ai ydych chi'n teithio, yn defnyddio diwifr cyhoeddus neu'n chwilio am fwy o ddiogelwch ar-lein yn unig, byddwn bob tro'n rhoi eich preifatrwydd yn gyntaf.
+vpn-landing-privacy-desc = Syrffio, ffrydio, gemau, a gweithio, tra'n cynnal eich preifatrwydd ar-lein. P'un ai rydych chi'n teithio, yn defnyddio diwifr cyhoeddus neu'n chwilio am fwy o ddiogelwch ar-lein yn unig, byddwn bob tro'n rhoi eich preifatrwydd yn gyntaf.
 vpn-landing-fast-secure-heading = Rhwydwaith cyflym a diogel
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
