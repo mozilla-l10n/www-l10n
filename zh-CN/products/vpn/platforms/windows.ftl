@@ -12,6 +12,7 @@ vpn-windows-page-title = 适用于 { -brand-name-windows } 10 的 { -brand-name-
 vpn-windows-page-description = 通过虚拟专用网络（VPN）保护您的整台 PC，由自 1998 年起一直为您的数字隐私而战的互联网先驱 { -brand-name-mozilla } 出品。
 # Windows strings
 vpn-windows-hero-headline = 适用于 { -brand-name-windows } 10 的 { -brand-name-mozilla-vpn }，助您保持安全连接。
+vpn-windows-ability = 无论身在何处，您在上网时都应感到安全。{ -brand-name-mozilla-vpn } 可以保护您在公共 WI-FI 下时，数据不受到黑客和互联网公司的侵害。我们的 VPN 十分易用，支持 { -brand-name-windows } 10（以及您的任何其他设备），且不会拖慢设备速度。最棒的是，这款使用 { -brand-name-wireguard }® 协议的 VPN 是由 { -brand-name-mozilla } 推出的。它会加密您的数据，但不记录您的在线活动。纯粹是为保护您而生的强大又不失优雅的 VPN。
 vpn-windows-wifi-headline = 在公共 WI-FI 下保护隐私
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } 保护您的互联网连接免遭窥视，因此您可以在任何地方（机场、宿舍和咖啡店）开展业务，而不必担心您的在线隐私。
 vpn-windows-about-headline = 来自互联网隐私的领导者
