@@ -18,7 +18,15 @@ vpn-platforms-shared-feature-item-protection = Emo’ã { $devices } mba’e’o
 # Variables:
 #   $devices (number) - number of available devices
 vpn-platforms-shared-feature-item-connect = Eike { $devices } mba’e’okuérape peve
+# Variables:
+#   $countries (number) - number of available countries
+vpn-platforms-shared-feature-item-access = Eikekuaa mohendahavusu heta { $countries } tetãnguérape
+# Variables:
+#   $countries (number) - number of available countries
+vpn-platforms-shared-feature-item-strong-servers = Mohendahavusu mbarete { $countries }+ tetãnguérape
 vpn-platforms-shared-feature-item-encryption = Ipapapýva mba’e’oka peve
+vpn-platforms-shared-feature-item-bandwidth = Ancho de banda jejoko’ỹ
+vpn-platforms-shared-feature-item-logs = Ndaipóri tembiapo rapykuere ñandutípe ko’ága ni araka’eve
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
@@ -28,3 +36,4 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Pumbyry popegua
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = Ore irũ jeroviaha rehegua

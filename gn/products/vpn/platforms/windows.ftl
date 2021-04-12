@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10 peg̃uarã
+# Windows strings
+vpn-windows-hero-headline = Eiko jeikememe ha ñemo’ãme { -brand-name-mozilla-vpn } ndive { -brand-name-windows } 10 peg̃uarã
 vpn-windows-wifi-headline = Eiko tekorosãme wifi ndive
 vpn-windows-about-headline = Omyakãva tekoñemi ñandutípe
 vpn-windows-privacy-headline = Ñemo’ã peteĩ votõ jekutúpe

@@ -9,3 +9,5 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } { -brand-name-mac-short } peg̃uarã
+vpn-mac-servers-headline = Eike mohendahavusu arapyguávape
+vpn-mac-speed-headline = Natekotevẽi ehekojopy pya’ekue
