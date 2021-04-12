@@ -19,3 +19,17 @@ vpn-mobile-wifi-copy = Mae ein VPN yn diogelu'ch cysylltiad rhyngrwyd rhag hacwy
 vpn-mobile-about-headline = Ynghylch { -brand-name-mozilla }
 vpn-mobile-about-copy = Yn fwyaf adnabyddus am ein { -brand-name-firefox-browser }, mae { -brand-name-mozilla } yn gymuned fyd-eang o ddefnyddwyr, cyfranwyr a datblygwyr sy'n ymroddedig i gadw pŵer y rhyngrwyd yn nwylo pobl. Fe'i sefydlwyd ym 1998, ac rydym yn un o arloeswyr y we agored ac am ddim — a'n cenhadaeth yw ei chadw felly.
 vpn-mobile-privacy-headline = Preifatrwydd mewn un clic
+vpn-mobile-privacy-copy = Mae'r ap { -brand-name-mozilla-vpn } yn amgryptio'ch cysylltiad rhyngrwyd ac yn cuddio'r cyfeiriad IP ar eich ffôn symudol neu dabled gan ddefnyddio protocol datblygedig { -brand-name-wireguard }®.
+vpn-mobile-servers-headline = Cysylltwch â gweinyddion ledled y byd
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Porwch o Frasil. Chwarae gêm o Japan. Ffrydio o Fecsico. Mae { -brand-name-mozilla-vpn } yn gadael i chi newid lleoliad eich ffôn neu'ch cyfrifiadur i un o { $servers } o weinyddion.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Diogelwch hyd at { $devices } o ddyfeisiau
+vpn-mobile-devices-copy = Mae eich tanysgrifiad yn sicrhau mynediad diderfyn i'n gwasanaeth VPN diogel ar eich ffôn clyfar, llechen a'ch bwrdd gwaith ar gyfer { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
+vpn-mobile-speed-headline = Cyflymder anhygoel, dim cyfyngiadau
+vpn-mobile-speed-copy = Gallwch ffrydio fideos, chwarae gemau, siopa a phori ar gyflymder uchel iawn. Fydd { -brand-name-mozilla-vpn } ddim yn cyfyngu eich lled band nac yn arafu eich ffôn clyfar.
+vpn-mobile-log-headline = Mae eich preifatrwydd yn flaenoriaeth.
+vpn-mobile-log-copy = Ym { -brand-name-mozilla }, dydy'n ni ddim yn casglu unrhyw ddata am bwy ydych chi nac yn cofnodi'ch gweithgaredd ar-lein — nid trwy ein VPN nac unrhyw un o'n cynnyrch eraill. Mae diogelu eich preifatrwydd yn egwyddor graidd o'n cenhadaeth.
