@@ -54,11 +54,36 @@ vpn-landing-faq-competition-question-heading = Hoe verhoudt { -brand-name-mozill
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Hoewel gratis VPN’s aantrekkelijk lijken, gaan ze niet dezelfde verplichtingen met betrekking tot privacy aan als { -brand-name-mozilla-vpn } en kunnen ze uw gegevens verkopen of opslaan. Andere betaalde VPN’s kunnen niet bogen op de <a href="{ $url }">reputatie</a> van { -brand-name-mozilla } van meer dan 20 jaar van het bouwen van producten die mensen en privacy voorop stellen.
 vpn-landing-faq-compatibility-question-heading = Met welke apparaten is { -brand-name-mozilla-vpn } compatibel?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } is compatibel met <a href="{ $mobile }">mobiel</a>, tablet en <a href="{ $desktop }">desktop</a> op:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } is compatibel met:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (alleen 64-bits)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (alleen 64-bits)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 en hoger)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 en hoger)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versie 6 en hoger)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versie 6 en hoger)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 en hoger)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 en hoger)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (alleen { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (alleen { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Wat is het restitutiebeleid van { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = U kunt binnen 30 dagen nadat u uw abonnement hebt aangeschaft uw geld terugvragen. Neem contact met ons op en dien het restitutieverzoek in door in uw { -brand-name-mozilla-vpn }-app in Instellingen op de knop ‘Hulp verkrijgen’ te tikken.
