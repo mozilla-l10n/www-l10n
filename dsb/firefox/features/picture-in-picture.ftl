@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = Wobraz-we-wobrazu { -brand-name-firefox }: Cyńśo wěcej z wuměstnjonymi wideo
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Musyśo něco cyniś a něco se woglědaś? Cyńśo woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.
+features-pip-new-feature-firefox-multi-picture = Nowa funkcija: někotary wobraz-we-wobrazu { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Wjelicna funkcija: Wobraz-we-wobrazu
 features-pip-get-more-done-with-pop-out-videos = Cyńśo wěcej z wuměstnjonymi wideo
 features-pip-play-the-video = Wideo wótgraś

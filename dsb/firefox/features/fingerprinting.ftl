@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# page title
+features-fingerprinting-what-is-fingerprinting-title = Co jo slědowanje pśez palcowe wótśišće a cogodla wy měł jo blokěrowaś
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje pśez palcowe wótśišće blokěrujo
 # description for the header image
 features-fingerprinting-every-fingerprint = Kuždy palcowy wótśišć jo jadnorazowy.
