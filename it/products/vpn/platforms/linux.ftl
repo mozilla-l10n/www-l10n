@@ -9,7 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } per { -brand-name-linux } ({ -brand-name-ubuntu })
-vpn-linux-page-description = Come appassionato di { -brand-name-ubuntu } { -brand-name-linux }, sei già consapevole dell’importanza della privacy e della sicurezza online. Probabilmente conosci anche { -brand-name-mozilla } e per cosa ci battiamo: un Internet riservato, aperto e libero per tutti. È giunta l'ora di riunire le due cose.
+vpn-linux-page-description = Come appassionato di { -brand-name-ubuntu } { -brand-name-linux }, sei già consapevole dell’importanza della privacy e della sicurezza online. Probabilmente conosci anche { -brand-name-mozilla } e per cosa ci battiamo: un Internet riservato, aperto e libero per tutti. È giunta l’ora di riunire le due cose.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } per { -brand-name-ubuntu } { -brand-name-linux }, un abbinamento assolutamente riservato
 vpn-linux-ability = Prendi ulteriori misure di sicurezza quando sei online, sia a casa che fuori, con { -brand-name-mozilla-vpn }. Per un limitato costo mensile, utilizza il protocollo avanzato { -brand-name-wireguard }® per crittare la connessione a Internet sul tuo computer e su altri dispositivi basati su { -brand-name-linux }, permettendoti di guardare programmi in streaming, giocare, fare acquisti e vivere la tua vita quotidiana online sapendo che sei al sicuro.
