@@ -8,3 +8,5 @@
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Eikekuaa { $devices } mba’e’oka peg̃uarã
+vpn-ios-speed-headline = Ipya’etereíva. Mba’ekuaarã hu’ã’ỹva.
+vpn-ios-log-headline = Ne mba’ekuaarã oiko tekoñemíme. Kyta.
