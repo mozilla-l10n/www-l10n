@@ -11,3 +11,5 @@
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10 peg̃uarã
 vpn-windows-about-headline = Omyakãva tekoñemi ñandutípe
 vpn-windows-privacy-headline = Ñemo’ã peteĩ votõ jekutúpe
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } ombopapapy ñandutípe jeike ha oñomi pe IP kundaharape oikuaaséva nde PC mesa ariguágui terã laptop pe taperekoite oikóva ndive { -brand-name-wireguard }®.
+vpn-windows-servers-headline = Eike mohendahavusu arapyguávape
