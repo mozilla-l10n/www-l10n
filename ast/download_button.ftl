@@ -14,7 +14,7 @@ download-button-systems-languages = Sistemes y llingües
 download-button-recommended = Aconséyase
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } yá nun forne anovamientos de seguranza pa { -brand-name-firefox } en { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }</a> pero entá pues baxar la versión final de 32 bits.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } yá nun forne anovamientos de seguranza pa { -brand-name-firefox } en { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }</a> mas entá pues baxar la versión final de 32 bits.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Sigui <a href="{ $url }">estes instrucciones</a> pa instalar { -brand-name-firefox }, por favor.
@@ -30,11 +30,12 @@ download-button-free-google-play = Báxalu de baldre en { -brand-name-google-pla
 download-button-app-store = Báxalu de baldre n'{ -brand-name-app-store }
 download-button-download-app-store = Baxar na { -brand-name-app-store }
 download-button-download-firefox = Baxar { -brand-name-firefox }
-download-button-your-system-may = El to sistema quiciabes nun cumpla colos requirimientos de { -brand-name-firefox } pero pues probar una d'estes versiones:
+download-button-your-system-may = El to sistema nun cumple colos requirimientos de { -brand-name-firefox } mas pues probar una d'estes versiones:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> p'{ -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> p'{ -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> p'{ -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> p'{ -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pa { -brand-name-ios }
 download-button-firefox-privacy = Privacidá de { -brand-name-firefox }
+download-button-firefox-privacy-notice = Avisu de privacidá de { -brand-name-firefox }
 download-button-download = Baxar
