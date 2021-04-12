@@ -7,7 +7,7 @@
 
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } ar gyfer { -brand-name-ios } ({ -brand-name-iphone } a { -brand-name-ipad })
-vpn-ios-page-description = Sicrhewch ddiogelwch cyflym, hawdd ar eich cyfrifiadur bwrdd gwaith a gliniadur trwy { -brand-name-mozilla }, un o'r enwau mwyaf dibynadwy mewn technoleg.
+vpn-ios-page-description = Sicrhewch ddiogelwch cyflym, hawdd ar eich { -brand-name-iphone } neu { -brand-name-ipad } drwy { -brand-name-mozilla }, un o'r enwau mwyaf dibynadwy mewn technoleg.
 # Mobile strings
 vpn-ios-hero-headline = Diogelwch eich hun ar-lein gyda { -brand-name-mozilla-vpn } ar gyfer { -brand-name-ios }
 vpn-ios-ability = Teimlwch yn ddiogel rhag hacwyr a llygaid busneslyd pan fyddwch ar-lein — gartref ac allan o gwmpas — gyda { -brand-name-mozilla-vpn }. Am ffi fisol isel, mae'n defnyddio protocol uwch { -brand-name-wireguard }® i amgryptio data personol ar eich { -brand-name-iphone }, { -brand-name-ipad } a'r mwyafrif o ddyfeisiau eraill, gan adael i chi ffrydio sioeau, chwarae gemau, siopa, a mynd ymlaen â'ch bywyd bob dydd ar-lein gan wybod eich bod yn ddiogel.
