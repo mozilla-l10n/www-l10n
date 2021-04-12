@@ -80,6 +80,7 @@ vpn-shared-platform-cta-headline = Ñañepyrũkatu
 vpn-shared-platform-cta-button = Ehecha hepy ha joguakuaa
 vpn-shared-platform-privacy-promise = Ne ñemigua ha’e ore me’ẽmbyrã
 vpn-shared-platform-trust-partner-headline = Ore irũ jeroviaha rehegua
+vpn-shared-platform-what-youll-get = Mba’e erekokuaa { -brand-name-mozilla-vpn } ndive:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
