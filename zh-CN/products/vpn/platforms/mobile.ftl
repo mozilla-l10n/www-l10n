@@ -11,6 +11,9 @@ vpn-mobile-page-description = 通过 VPN 保护您的智能手机和平板电脑
 # Mobile strings
 vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } 可保护您在手机上的隐私
 vpn-mobile-maker-of-firefox = 由 { -brand-name-firefox } 开发商打造的基本隐私工具，无论身处何地，{ -brand-name-mozilla-vpn } 都可让手机安全私密地接入互联网。
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-ability = { -brand-name-mozilla-vpn } 可以避免黑客和间谍获知您的 IP 地址并掩藏您的网络位置。使用它在智能手机或平板电脑上观看流媒体和日常浏览，速度超快、安全可靠且无带宽限制，更包含高级加密功能。您只需支付少量月费，就可以保护多达 { $devices } 台设备，连接全球数百台服务器。
 vpn-mobile-wifi-headline = 放心使用公共 WI-FI
 vpn-mobile-wifi-copy = 我们的 VPN 可以保护您的互联网连接不受黑客和间谍的攻击，因此您可以在咖啡店购物，在火车上查看您的银行账户，并在 IP 受到保护的情况下开展您的在线业务。
 vpn-mobile-about-headline = 关于 { -brand-name-mozilla }
