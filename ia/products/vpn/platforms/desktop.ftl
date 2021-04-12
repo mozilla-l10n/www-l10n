@@ -6,3 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-about-headline = A proposito de { -brand-name-mozilla }
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Protege usque { $devices } apparatos
+vpn-desktop-log-headline = Primo tu confidentialitate.

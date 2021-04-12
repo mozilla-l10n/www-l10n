@@ -7,3 +7,4 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } pro { -brand-name-android }
+vpn-android-speed-headline = Ultra-rapide con datos illimitate
