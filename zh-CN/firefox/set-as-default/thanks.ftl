@@ -30,4 +30,4 @@ set-as-default-thanks-having-trouble = 遇到问题？
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 #   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
-set-as-default-thanks-heres-everything-you-need-android-desktop = 要设为 Android 设备的默认浏览器请参见 <a href="{ $android }">此处</a>；台式电脑则见 <a href="{ $desktop }">此处</a>。
+set-as-default-thanks-heres-everything-you-need-android-desktop = 要设为 Android 设备的默认浏览器请参见 <a href="{ $android }">此处</a>；台式机则见 <a href="{ $desktop }">此处</a>。

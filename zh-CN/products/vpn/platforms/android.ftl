@@ -30,7 +30,7 @@ vpn-android-servers-copy = { -brand-name-mozilla-vpn } 可以将您的 { -brand-
 vpn-android-devices-headline = 一次订阅，多达 { $devices } 设备可用
 # Variables:
 #   $devices (number) - number of available devices
-vpn-android-devices-copy = { -brand-name-mozilla-vpn } 最多可以连接 { $devices } 台不同的设备，支持 { -brand-name-android }、{ -brand-name-ios }、{ -brand-name-mac-short }、{ -brand-name-windows } 以及 { -brand-name-linux } 平台。您可以在智能手机、台式电脑、笔记本电脑、平板电脑上使用。
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } 最多可以连接 { $devices } 台不同的设备，支持 { -brand-name-android }、{ -brand-name-ios }、{ -brand-name-mac-short }、{ -brand-name-windows } 以及 { -brand-name-linux } 平台。您可以在智能手机、台式机、笔记本电脑、平板电脑上使用。
 vpn-android-speed-headline = 速度超快，不限流量。
 vpn-android-speed-copy = 在 { -brand-name-android } 设备上以超快的网速玩在线游戏、播放电影和在网上冲浪，带宽无限！
 vpn-android-log-headline = 不记录、不跟踪、不侵犯隐私。
