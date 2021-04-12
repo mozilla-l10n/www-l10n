@@ -9,6 +9,7 @@
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } za desktop (PC a laptop)
 # Desktop strings
 vpn-desktop-hero-headline = Zawěsćće swój internetny zwisk z { -brand-name-mozilla-vpn } za desktop
+vpn-desktop-wifi-headline = Čujće so wěsty – tež w zjawnym WLAN
 vpn-desktop-about-headline = Wo { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Priwatnosć z jednym kliknjenjom
 vpn-desktop-servers-headline = Zwjazajće so ze serwerami w cyłym swěće

@@ -19,3 +19,4 @@ vpn-ios-servers-headline = Zwjazajće z přez { $servers } serwerami na cyłym s
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Mějće přistup za { $devices } gratow
 vpn-ios-speed-headline = Najwyše spěšnosće. Njewobmjezowane daty.
+vpn-ios-log-headline = Waše daty priwatne wostanu. Kónc.

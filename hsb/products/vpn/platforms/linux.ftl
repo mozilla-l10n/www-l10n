@@ -11,6 +11,7 @@
 vpn-linux-page-title = { -brand-name-mozilla-vpn } za { -brand-name-linux } ({ -brand-name-ubuntu })
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } za { -brand-name-ubuntu } { -brand-name-linux } — perfektny priwatny por
+vpn-linux-wifi-headline = Škitajće so online, tež w zjawnym WLAN
 vpn-linux-about-headline = Dowěryhódne mjeno wot 1998
 vpn-linux-privacy-headline = Wěstota jenož 1 kliknjenje zdalena
 # Variables:
