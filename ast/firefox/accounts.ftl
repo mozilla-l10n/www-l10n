@@ -19,10 +19,10 @@ firefox-accounts-already-have-an-account = ¿Yá tienes una cuenta?
 firefox-accounts-meet-our-family-of = Conoz la nuesa familia de productos que prioricen la privacidá.
 firefox-accounts-travel-the-internet = Viaxa per internet con proteición, en tolos preseos.
 firefox-accounts-keep-your-passwords = Protexi y lleva contigo les tos contraseñes.
-firefox-accounts-share-large-files = Comparti ficheros grandes que nun van tar tola vida n'internet
+firefox-accounts-share-large-files = Comparti ficheros grandes ensin miraes indiscretes.
 firefox-accounts-get-the-respect-you = Consigui'l respetu que mereces.
 firefox-accounts-help-us-build-a-better = Ayúdanos a ameyorar { -brand-name-firefox }.
-firefox-accounts-get-into-the-open = Adiéntrate nel espíritu del códigu abiertu probando productos futuros.
+firefox-accounts-get-into-the-open = Adiéntrate nel espíritu del códigu abiertu probando productos en desendolcu.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
