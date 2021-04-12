@@ -16,3 +16,7 @@ vpn-mac-ability = O fusnes i hamdden, dylech deimlo'n ddiogel ar-lein beth bynna
 vpn-mac-wifi-headline = Teimlo'n ddiogel ar wifi bregus
 vpn-mac-wifi-copy = Ewch ar-lein gyda thawelwch meddwl pan rydych chi'n defnyddio wifi cyhoeddus diolch i { -brand-name-mozilla-vpn }. Mae'n diogelu eich cysylltiad rhyngrwyd fel bod eich data personol wedi'i guddio rhag hacwyr a llygaid busneslyd.
 vpn-mac-about-headline = Gan wneuthurwr technoleg dibynadwy
+vpn-mac-about-copy = Er 1998, mae ei genhadaeth i adeiladu rhyngrwyd gwell wedi arwain { -brand-name-mozilla } dim-er-elw. O gynnyrch fel y { -brand-name-firefox-browser } i waith eirioli ledled y byd, mae gwaith { -brand-name-mozilla } yn parhau i sicrhau bod y rhyngrwyd yn rhad ac am ddim ac yn agored i bawb.
+vpn-mac-privacy-headline = Preifatrwydd ar flaenau eich bysedd
+vpn-mac-privacy-copy = Gyda { -brand-name-mozilla-vpn }, mae eich cysylltiad rhyngrwyd wedi'i amgryptio ac mae eich cyfeiriad IP wedi'i amddiffyn rhag hacwyr a darparwyr rhyngrwyd busneslyd diolch i brotocol datblygedig { -brand-name-wireguard }®.
+vpn-mac-servers-headline = Mynediad i weinyddion ledled y byd
