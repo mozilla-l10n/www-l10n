@@ -12,3 +12,4 @@ what-is-a-browser-a-web-browser = Webwobglědowak was wšuźi w interneśe wjeź
 what-is-a-browser-how-does-a-web = Kak funkcioněrujo webwobglědowak?
 what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
 what-is-a-browser-understanding = Priwatnosć rozměś
+what-is-a-browser-making-your-web = Dajśo swój wobglědowak za sebje źěłaś
