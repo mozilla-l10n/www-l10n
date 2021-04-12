@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Csatlakozzon a várólistához
 vpn-shared-sign-in-link = Már előfizető?
 vpn-shared-available-countries = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, az Egyesült Királyságban, Kanadában, Új-Zélandon, Szingapúrban és Malajziában kínáljuk.
 vpn-shared-available-countries-v2 = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, az Egyesült Királyságban, Németországban, Franciaországban, Kanadában, Malajziában, Új-Zélandon és Szingapúrban kínáljuk.
-vpn-shared-availablity-long = A VPN jelenleg { -brand-name-windows } 10-es, { -brand-name-android(capitalization: "lower") }os és { -brand-name-ios }-es eszközökre érhető el az Amerikai Egyesült Államokban, az Egyesült Királyságban, Kanadában, Új-Zélandon, Szingapúrban és Malajziában.
 vpn-shared-money-back-guarantee = 30 napos pénzvisszafizetési garancia
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Sajtó
@@ -22,9 +21,16 @@ vpn-shared-features-encrypt = Eszközszintű titkosítás
 vpn-shared-features-servers = { $servers }+ kiszolgáló { $countries }+ országban
 vpn-shared-features-bandwidth = Nincs sávszélesség-korlátozás
 vpn-shared-features-activity = Nincs hálózati forgalom naplózás
+vpn-shared-features-activity-logs = Nincs online tevékenységnapló, sem most, sem később
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Kapcsolódás kiszolgálókhoz { $countries }+ országban
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Lehetőség akár { $devices } eszköz csatlakoztatására
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Védelem akár { $devices } eszköznek
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -36,6 +42,12 @@ vpn-shared-countries-coming-soon = Jelenleg { $countries } országban érhető e
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Tekintse meg a <a href="{ $url }" { $attrs }>kiszolgálóink teljes listáját</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Erős kiszolgálók { $countries }+ országban
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Csatlakoztasson akár { $devices } eszközt
 vpn-shared-refund-policy = Pénzvisszatérítési házirend
 vpn-shared-privacy-notice = Adatvédelmi nyilatkozat
 vpn-shared-terms-conditions = Használati feltételek
@@ -61,6 +73,27 @@ vpn-shared-pricing-save-percent = Spóroljon { $percent }%-ot
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Összesen { $amount }
+
+# Platform subpage shared strings
+
+vpn-shared-platform-cta-headline = Kezdjen neki
+vpn-shared-platform-cta-button = Árak és elérhetőség megtekintése
+vpn-shared-platform-privacy-promise = Az adatvédelem az ígéretünk
+vpn-shared-platform-trust-partner-headline = A megbízható partnerünkről
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = A { -brand-name-mozilla-vpn } a <a href="{ $policy }">{ -brand-name-mullvad }</a> által üzemeltetett globális kiszolgálóhálózaton fut, és a <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® protokollt használja. A { -brand-name-mullvad } az adatvédelmet helyezi az első helyre, és semmilyen naplót nem tárol.
+vpn-shared-platform-what-youll-get = Mit kap a { -brand-name-mozilla-vpn }-től:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Asztali
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Mobil
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 

@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = Asztali { -brand-name-beta } és { -
 sub-navigation-desktop-nightly = Asztali { -brand-name-nightly }
 sub-navigation-features = Funkciók
 sub-navigation-support = Támogatás
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Kiegészítők
+sub-navigation-add-ons = Kiegészítők
 sub-navigation-faq = GYIK
 sub-navigation-learn-more = Tudjon meg többet
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } mobilra
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = { -brand-name-android }os kiegészítők
+sub-navigation-android-add-ons = { -brand-name-android }os kiegészítők
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
