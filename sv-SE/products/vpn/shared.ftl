@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Ställ dig i väntelistan
 vpn-shared-sign-in-link = Är du redan prenumerant?
 vpn-shared-available-countries = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Storbritannien, Kanada, Nya Zeeland, Singapore och Malaysia.
 vpn-shared-available-countries-v2 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Storbritannien, Tyskland, Frankrike, Kanada, Malaysia, Nya Zeeland och Singapore.
-vpn-shared-availablity-long = VPN är för närvarande tillgängligt för enheter med { -brand-name-windows } 10, { -brand-name-android } och { -brand-name-ios } i USA, Storbritannien, Kanada, Nya Zeeland, Singapore och Malaysia .
 vpn-shared-money-back-guarantee = 30-dagars pengarna tillbaka garanti
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Presenterad i
@@ -88,6 +87,9 @@ vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } körs på e
 vpn-shared-platform-what-youll-get = Vad får du med { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Vad är ett VPN?
+vpn-subnav-faqs = Vanliga frågor
+vpn-subnav-get-help = Få hjälp
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Dator
 vpn-subnav-platform-ios = { -brand-name-ios }

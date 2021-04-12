@@ -23,7 +23,7 @@ vpn-landing-fast-secure-heading = Snabbt och säkert nätverk
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } körs på ett globalt nätverk av servrar som drivs av <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Med hjälp av det mest avancerade <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokollet krypterar vi din nätverksaktivitet och döljer din IP-adress. Vi loggar, spårar eller delar aldrig dina nätverksdata.
-vpn-landing-brand-trust-heading = En VPN från ett varumärke du kan lita på
+vpn-landing-brand-trust-heading = Ett VPN från ett varumärke du kan lita på
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
 vpn-landing-brand-trust-desc = I mer än 20 år har { -brand-name-mozilla } en historia av att sätta människor först och kämpa för integritet online. Med stöd av en ideell organisation är vi engagerade i att bygga ett bättre och hälsosammare internet för alla människor. Allt vi gör är en del av vårt uppdrag och följer våra <a href="{ $url }">principer</a>.
@@ -31,7 +31,7 @@ vpn-landing-brand-trust-desc = I mer än 20 år har { -brand-name-mozilla } en h
 ## FAQ section
 
 vpn-landing-faq-heading = Vanliga frågor och svar
-vpn-langing-faq-uses-question-heading = Vad är en VPN och vad använder den?
+vpn-langing-faq-uses-question-heading = Vad är ett VPN och vad använder det?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Eftersom mer av det dagliga livet sker via internet blir integritet och säkerhet online ännu viktigare. Ett VPN, <a href="{ $url }">virtuellt privat nätverk</a>, kan hjälpa dig att skapa en säker, privat anslutning till internet. Det fungerar genom att skapa en "tunnel" mellan din enhet och internet i stort och det skyddar dig på två viktiga sätt:
@@ -54,11 +54,36 @@ vpn-landing-faq-competition-question-heading = Hur är { -brand-name-mozilla-vpn
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Även om gratis VPN verkar attraktiva, gör de inte samma åtaganden om integritet som { -brand-name-mozilla-vpn } och kan sälja eller lagra dina data. Andra betalda VPN har inte { -brand-name-mozilla }:s över 20-års <a href="{ $url }">erfarenhet</a> av att bygga produkter som sätter människor och integritet först.
 vpn-landing-faq-compatibility-question-heading = Vilka enheter är kompatibla med { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } är kompatibel med <a href="{ $mobile }">mobil</a>, surfplatta och <a href="{ $desktop }">dator</a> på:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } är kompatibel med:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (endast 64-bitars)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (endast 64-bitars)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a>(10.15 och senare)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 och senare)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a>(version 6 och senare)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 och senare)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a>(13.0 och senare)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 och senare)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = { -brand-name-linux }<a href="{ $url }">{ -brand-name-linux }</a>(endast { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (endast { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Vad är { -brand-name-mozilla-vpn }:s återbetalningspolicy?
 vpn-landing-faq-refund-question-desc = Du kan få tillbaka dina pengar inom 30 dagar efter att du har köpt din prenumeration. Kontakta oss och skicka återbetalningsförfrågan genom att trycka på knappen "Få hjälp" i Inställningar på din { -brand-name-mozilla-vpn }-app.
