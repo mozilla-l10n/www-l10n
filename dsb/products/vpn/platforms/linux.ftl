@@ -18,3 +18,8 @@ vpn-linux-privacy-headline = Wěstota jano 1 kliknjenje zdalona
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = Zwězajśo z wěcej ako { $servers } serwerami we wěcej ako { $countries } drugich krajach
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = Zwěžćo až k { $devices } rědam
+vpn-linux-speed-headline = Ultramalsny z njewobgranicowanymi datami
+vpn-linux-log-headline = Waše daty wam słušaju
