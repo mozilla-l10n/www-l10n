@@ -15,4 +15,13 @@ vpn-android-maker-of-firefox = A { -brand-name-firefox } böngésző készítőj
 vpn-android-wifi-headline = Legyen biztonságban az interneten, ha éppen mozgásban van
 vpn-android-wifi-copy = Néha a mobil-adatkapcsolat nem érhető el, és a nyilvános Wi-Fi az egyetlen lehetőség. Az { -brand-name-android(capitalization: "lower") }os telefonjára telepített { -brand-name-mozilla-vpn } segítségével sosem kell aggódnia amiatt, hogy be kell írnia a jelszavát egy repülőtéren vagy online kell vásárolnia egy kávéházban – csak kapcsolódjon egy koppintással, és tegye a dolgát.
 vpn-android-about-headline = { -brand-name-mozilla }, a név amelyben megbízhat
+vpn-android-about-copy = Leginkább a böngészőnkről, a { -brand-name-firefox }ról vagyunk ismertek, de a { -brand-name-mozilla } egy nagyobb szervezet, amelynek alapvető küldetése van – küzdeni az online jogaiért. Ezt tettük mindvégig, 1998-tól kezdve. Az internet szószólói vagyunk, elkötelezettek vagyunk aziránt, hogy nyitott és szabad maradjon, miközben tiszteletben tartja mindenki adatvédelemhez és biztonsághoz való jogát.
 vpn-android-privacy-headline = Egy koppintás a kapcsolódáshoz
+vpn-android-privacy-copy = Az { -brand-name-android(capitalization: "lower") }os { -brand-name-mozilla-vpn } rendkívül egyszerű. Koppintson egy gombra, és a kapcsolata automatikusan titkosításra került a fejlett { -brand-name-wireguard }® protokoll segítségével. Ennyi az egész!
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-android-servers-headline = { $servers }+ kiszolgáló több mint { $countries } országban
+# Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = A { -brand-name-mozilla-vpn } használatával az { -brand-name-android(capitalization: "lower") }os telefonja tartózkodási helyét { $countries }+ országból választhatja ki. Ez azt jelenti, hogy a webet úgy fogja látni, mint a helyiek az adott országban, ahová kapcsolódik. Szórakoztató és érdekes módja a web új nézőpontból történő megtapasztalásához.
