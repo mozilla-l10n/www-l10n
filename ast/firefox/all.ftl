@@ -16,6 +16,7 @@ firefox-all-platform = Plataforma:
 firefox-all-language = Llingua:
 firefox-all-sorry-we-couldnt-find = Sentímoslo, nun pudimos atopar la descarga que busques. Volvi tentalo o esbilla una descarga de la llista d'embaxo, por favor.
 firefox-all-64-bit-installers = Instaladores de 64 bits
+firefox-all-choose-a-64-bit-installer = Escueyi l'instalador de 64 bits pa ordenadores con procesadores de 64 bits, que-yos permite asignar más RAM a los programes. Eso ye especialmente importante pa xuegos y otres aplicaciones esixentes.
 firefox-all-32-bit-installers = Instaladores de 32 bits
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Tol mundu merez acceder a internet y la to llingua enxamás ha ser una torga. Poro, per duana de collaboradores dedicaos, facemos que { -brand-name-firefox-browser } tea disponible en más 90 llingües.
@@ -23,6 +24,7 @@ firefox-all-firefox-privacy-notice = Avisu de privacidá de { -brand-name-firefo
 firefox-all-the-standard-firefox = El restolador { -brand-name-firefox } estándar: rápidu y priváu. Si nun sabes qué { -brand-name-firefox } escoyer, escueyi esti.
 firefox-all-get-a-sneak-peek-at = Écha-y un güeyu a les últimes carauterístiques de { -brand-name-firefox } enantes de llanzales.
 firefox-all-arm64-installers = Instaladores d'ARM64/AArch64
+firefox-all-arm64-installers-optimized = Los instaladores d'ARM64/AArch64 tán optimizaos pa ordenadores con { -brand-name-windows } qu'inclúin procesadores Snapdragon.
 firefox-all-product-send-link = Unviar un enllaz de descarga al teléfonu
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -31,6 +33,7 @@ firefox-all-msi-installers = Instalador de MSI
 firefox-all-which-version = ¿Qué versión quies baxarr?
 firefox-all-select-your-preferred-installer = Esbilla l'instalador que prefieras
 firefox-all-select-your-preferred-language = Esbilla la llingua que prefieras
+firefox-all-learn-about-installers = Lleer tocante a los instaladores
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
