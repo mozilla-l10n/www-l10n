@@ -7,8 +7,12 @@
 
 # HTML page title
 firefox-accounts-there-is-a-way-to = Hai un mou de protexer la to privacidá. Xúnite a { -brand-name-firefox }.
+# HTML page description
+firefox-accounts-take-your-stand-stay-smart = Opónte a una industria que viende los tos datos a terceros. Fórmate y protéxite cola teunoloxía que llucha por ti.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Hai un mou de protexer la to privacidá. <span>Xúnite a { -brand-name-firefox }.</span>
+# This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
+firefox-accounts-take-your-stand-against = Opónte una industria que te convierte nel productu.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Aniciesti sesión <br>en { -brand-name-firefox }. <br><span>Agora prueba { -brand-name-firefox-monitor }.</span>
 firefox-accounts-already-have-an-account = ¿Yá tienes una cuenta?
