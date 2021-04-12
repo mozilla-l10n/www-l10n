@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Entrar na lista de espera
 vpn-shared-sign-in-link = Já tem uma assinatura?
 vpn-shared-available-countries = Atualmente oferecemos o { -brand-name-mozilla-vpn } nos Estados Unidos, Reino Unido, Canadá, Nova Zelândia, Singapura e Malásia.
 vpn-shared-available-countries-v2 = Atualmente oferecemos o { -brand-name-mozilla-vpn } nos Estados Unidos, Reino Unido, Alemanha, França, Canadá, Malásia, Nova Zelândia e Singapura.
-vpn-shared-availablity-long = A VPN está atualmente disponível para dispositivos { -brand-name-windows }10, { -brand-name-android } e { -brand-name-ios } nos Estados Unidos, Reino Unido, Canadá, Nova Zelândia, Singapura e Malásia.
 vpn-shared-money-back-guarantee = Garantia de devolução do dinheiro por 30 dias
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Destaque em
@@ -88,6 +87,9 @@ vpn-shared-platform-trust-partner-copy = O { -brand-name-mozilla-vpn } funciona 
 vpn-shared-platform-what-youll-get = O que você recebe com o { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = O que é uma VPN?
+vpn-subnav-faqs = Perguntas frequentes
+vpn-subnav-get-help = Pedir ajuda
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-ios = { -brand-name-ios }
