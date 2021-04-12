@@ -13,3 +13,8 @@ vpn-windows-about-headline = Omyakãva tekoñemi ñandutípe
 vpn-windows-privacy-headline = Ñemo’ã peteĩ votõ jekutúpe
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } ombopapapy ñandutípe jeike ha oñomi pe IP kundaharape oikuaaséva nde PC mesa ariguágui terã laptop pe taperekoite oikóva ndive { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Eike mohendahavusu arapyguávape
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Hetave { $servers } mohendahavusu heta { $countries } tetãnguérape ejapokuaa eikotevẽva ñandutípe — eikundaha, ejogua, ehecha marandu — embohekóvo tendaite ne mba’e’okápe arapy tuichakue jave nunga.
+vpn-windows-devices-headline = Ñemboheraguapy opaite ne mba’e’okápe
