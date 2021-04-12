@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Долучитись до списку очікува
 vpn-shared-sign-in-link = Уже підписалися?
 vpn-shared-available-countries = На сьогодні ми пропонуємо { -brand-name-mozilla-vpn } у США, Великобританії, Канаді, Новій Зеландії, Сингапурі та Малайзії.
 vpn-shared-available-countries-v2 = В цей час ми пропонуємо { -brand-name-mozilla-vpn } у США, Великобританії, Німеччині, Франції, Канаді, Малайзії, Новій Зеландії та Сингапурі.
-vpn-shared-availablity-long = На цю мить VPN доступний для пристроїв { -brand-name-windows } 10, { -brand-name-android } та { -brand-name-ios } у США, Великобританії, Канаді, Новій Зеландії, Сингапурі та Малайзії.
 vpn-shared-money-back-guarantee = Гарантоване повернення коштів упродовж 30 днів
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Рекомендовано в
@@ -88,6 +87,9 @@ vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } працю�
 vpn-shared-platform-what-youll-get = Що ви отримаєте за допомогою { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Що таке VPN?
+vpn-subnav-faqs = ЧаПи
+vpn-subnav-get-help = Отримати допомогу
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Для комп'ютера
 vpn-subnav-platform-ios = { -brand-name-ios }

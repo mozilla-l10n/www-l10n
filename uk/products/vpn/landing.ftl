@@ -54,11 +54,36 @@ vpn-landing-faq-competition-question-heading = Як { -brand-name-mozilla-vpn } 
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Хоча безплатні VPN здаються привабливими, вони не беруть на себе таких же зобов’язань щодо приватності як { -brand-name-mozilla-vpn } і можуть продавати або зберігати ваші дані. Інші платні VPN, на відміну від { -brand-name-mozilla }, не мають понад 20-річного <a href="{ $url }">послужного списку</a> побудови продуктів, які ставлять людей та приватність понад усе.
 vpn-landing-faq-compatibility-question-heading = З якими пристроями сумісний { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } сумісний із <a href="{ $mobile }">мобільними</a>, планшетами та <a href="{ $desktop }">комп'ютерами</a> на:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } сумісний з:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (лише для 64-розрядних)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (лише 64-розрядна версія)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 та новіші)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 і новіші)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (версії 6 та новіші)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (версії 6 та новіші)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 та новіші)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 і новіші)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (лише { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (лише { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Яка політика відшкодування { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Ви можете повернути свої гроші впродовж 30 днів з моменту придбання передплати. Зв’яжіться з нами та надішліть запит на повернення коштів, натиснувши кнопку «Отримати допомогу» у Налаштуваннях своєї програми { -brand-name-mozilla-vpn }.
