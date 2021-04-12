@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = ਡੈਸਕਟਾਪ { -brand-name-
 sub-navigation-desktop-nightly = ਡੈਸਕਟਾਪ { -brand-name-nightly }
 sub-navigation-features = ਫੀਚਰ
 sub-navigation-support = ਸਹਿਯੋਗ
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = ਐਡਆਨ
+sub-navigation-add-ons = ਐਡ-ਆਨ
 sub-navigation-faq = ਸਵਾਲ-ਜਵਾਬ
 sub-navigation-learn-more = ਹੋਰ ਜਾਣੋ
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = ਮੋਬਾਈਲ ਲਈ { -brand-name-firefox }
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = { -brand-name-android } ਐਡਆਨ
+sub-navigation-android-add-ons = { -brand-name-android } ਐਡ-ਆਨ
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
