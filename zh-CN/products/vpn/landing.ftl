@@ -54,6 +54,10 @@ vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 与�
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = 免费 VPN 看似很有吸引力，但它们无法作出与 { -brand-name-mozilla-vpn } 相同的承诺：{ -brand-name-mozilla } 不会存储或出售您的数据。其他的付费 VPN 品牌均缺少 { -brand-name-mozilla } 超过 20 年来以人为本及将隐私放在首位的<a href="{ $url }">履行记录</a>。
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 与哪些设备兼容？
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } 兼容于以下平台的<a href="{ $mobile }">手机</a>、平板电脑和<a href="{ $desktop }">台式机</a>：
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 兼容于下列平台：
 # Variables:
@@ -61,8 +65,14 @@ vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 兼容
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10（仅限 64 位）
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（仅 64 位）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a>（10.15 及更高版本）
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac }（10.15 及更高版本）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a>（6 及更高版本）
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android }（6.0 及更高版本）
 # Variables:
