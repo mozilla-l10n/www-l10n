@@ -18,7 +18,7 @@
         {
             "smartling": "ja-JP",
             "application": "ja"
-        },                
+        }                
     ],
     "resourceSets": [{
         "type": "FLUENT",
