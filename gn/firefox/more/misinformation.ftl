@@ -5,8 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-page-subheading = Ema’ẽ ko’ã ñemoñe’ẽre ehecha hag̃ua sa’ive maranduvai ha ehechakuaa mba’épa erohoryvéva
+misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa maranduvai?
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
+misinformation-spot-online-heading = Mba’éichapa eikuaáta marandu japugua ñandutípe ha eipytyvõta ejoko hag̃ua iñemyasãi
 misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
+misinformation-overly-sensational = ¿Pe maranduguasu ombotuichaiterei?
 misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
