@@ -26,7 +26,7 @@ vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } funciona en una red g
 vpn-landing-brand-trust-heading = Una VPN de una marca en la que podés confiar
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = Durante más de 20 años, { -brand-name-mozilla } tiene un historial priorizar a las personas en y luchar por la privacidad en línea. Con el respaldo de una organización sin fines de lucro, estamos comprometidos a construir una Internet mejor y más saludable para todas las personas. Todo lo que hacemos es parte de nuestra misión y sigue nuestros <a href="{ $url }"> principios </a>.
+vpn-landing-brand-trust-desc = Durante más de 20 años, { -brand-name-mozilla } tiene un historial de priorizar a las personas y luchar por la privacidad en línea. Con el respaldo de una organización sin fines de lucro, estamos comprometidos a construir una Internet mejor y más saludable para todas las personas. Todo lo que hacemos es parte de nuestra misión y sigue nuestros <a href="{ $url }"> principios </a>.
 
 ## FAQ section
 
@@ -40,10 +40,10 @@ vpn-landing-faq-uses-encrypt = Cifrando el tráfico entre vos y tu proveedor de 
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Mirá <a href="{ $url }">cinco ejemplos de vida real</a> en los que querrías una VPN en tu dispositivo.
-vpn-landing-faq-info-question-heading = ¿Qué información guarda la { -brand-name-mozilla-vpn }?
+vpn-landing-faq-info-question-heading = ¿Qué información guarda { -brand-name-mozilla-vpn }?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = No registramos, rastreamos ni compartimos ninguna de tus actividades en la red. Nos adherimos estrictamente a los <a href="{ $url }" de { -brand-name-mozilla }>Principios de privacidad de datos</a> y solo recopilamos los datos necesarios para mantener la VPN operativa y mejorar el producto con el tiempo.
+vpn-landing-faq-info-question-desc = No registramos, rastreamos ni compartimos ninguna de tus actividades en la red. Nos adherimos estrictamente a los <a href="{ $url }">principios de privacidad de datos</a> de { -brand-name-mozilla } y solo recopilamos los datos necesarios para mantener la VPN operativa y mejorar el producto con el tiempo.
 vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -54,11 +54,17 @@ vpn-landing-faq-competition-question-heading = ¿Cómo se compara { -brand-name-
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos con la privacidad que la { -brand-name-mozilla-vpn } y pueden vender o almacenar tus datos. Otras VPN pagas no tienen el registro { -brand-name-mozilla } de más de 20 años <a href="{ $url }">de desarrollo de productos que priorizan a las personas y la privacidad.
 vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible la { -brand-name-mozilla-vpn }?
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = La { -brand-name-mozilla-vpn } es compatible con:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo 64-bit)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 y superiores)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versión 6 y superiores)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 y superiores)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } solo ({ -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolsos de la { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Podés recuperar tu dinero dentro de los 30 días siguientes a la compra de tu suscripción. Contactate con nosotros y enviá la solicitud de reembolso seleccionando el botón "Obtener ayuda" en Ajustes de tu aplicación { -brand-name-mozilla-vpn }.
