@@ -17,6 +17,7 @@ firefox-all-browser = Браузер:
 firefox-all-platform = Платформа:
 firefox-all-language = Забон:
 firefox-all-lang-multi = Забонҳои гуногун
+firefox-all-sorry-we-couldnt-find = Мутаасифона, мо версияи браузери шуморо наёфтем. Лутфан, аз нав кӯшиш кунед ё ин ки версияи дигареро аз рӯйхати зерин интихоб намоед.
 firefox-all-64-bit-installers = Насбкунандаи 64-бит
 firefox-all-32-bit-installers = Насбкунандаи 32-бит
 # HTML page title. Replace "English (US)" with your local language.
@@ -26,8 +27,14 @@ firefox-all-everyone-deserves-access = Ҳар як кас барои пайдо 
 firefox-all-choose-which-firefox = Интихоб кунед, ки кадом { -brand-name-firefox-browser }-ро бо забони модарии худ боргирӣ мекунед
 firefox-all-firefox-privacy-notice = Огоҳинома дар бораи махфияти { -brand-name-firefox }
 firefox-all-learn-about-firefox = Маълумот дар бораи браузерҳои { -brand-name-firefox }
+firefox-all-the-standard-firefox = Браузери стандартии { -brand-name-firefox } — тез кор мекунад ва махфияти шуморо ҳафз менамояд. Агар шумо мутмаин набошед, ки кадом версияи { -brand-name-firefox }-ро интихоб кардан мехоҳед, ҳамин версияро интихоб кунед.
 firefox-all-arm64-installers = Насбкунандаи ARM64/AArch64
 firefox-all-product-send-link = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Боргирӣ кардани { $product_label } барои { $platform } бо забони { $locale }
 firefox-all-msi-installers = Насбкунандаи MSI
 firefox-all-which-version = Ба шумо кадом версия лозим аст?
 firefox-all-select-your-preferred-installer = Насбкунандаи дилхоҳи худро интихоб намоед
