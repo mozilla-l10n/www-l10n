@@ -37,11 +37,36 @@ vpn-landing-faq-info-question-heading = ¿Mba’eichagua marandu oñongatu { -br
 vpn-landing-faq-protected-question-heading = ¿Mba’éicha oñemo’ã che rekoñemi?
 vpn-landing-faq-competition-question-heading = ¿Mba’éicha oñemoñondive { -brand-name-mozilla-vpn } ijoguaha ndive?
 vpn-landing-faq-compatibility-question-heading = ¿Máva mba’e’oka rehe ojokupyty { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } ojokupyty <a href="{ $mobile }">pumbyry</a>, tableta ha <a href="{ $desktop }">mohendaha</a> ndive amo:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = Máva ndive ojokupyty { -brand-name-mozilla-vpn }:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit añoite)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64 bits añoite)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ha yvate)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ha hetave)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (6 ichagua ha yvateve)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6 háva ha upeigua)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 ha yvateve)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ha hetave)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
 vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
 vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarekóta che mboheraguapýre?

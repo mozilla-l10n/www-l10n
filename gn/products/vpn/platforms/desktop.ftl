@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } mesa arigua (PC ha laptop)
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
 # Variables:
