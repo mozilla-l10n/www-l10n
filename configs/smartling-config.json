@@ -1,5 +1,10 @@
 {
     "locales": [{
+            "smartling": "ar",
+            "application": "ar"
+        },
+                
+    "locales": [{
             "smartling": "ms-MS",
             "application": "ms"
         }
