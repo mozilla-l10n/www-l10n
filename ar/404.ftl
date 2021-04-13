@@ -2,7 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/404/
 
-not-found-page-not-found-page-page-not-found = 404: لم نتمكّن من إيجاد الصّفحة
+not-found-page-not-found-page-page-not-found = 404: تعذّر إيجاد الصفحة
+not-found-page-sorry-we-cant-find-that-page = عفوًا، لم نتمكّن من العثور على هذه الصفحة
+not-found-page-were-all-about-a-healthy-internet = ما يَهمنا جميعًا هو توفير إنترنت صحي وآمن ولكن يحدث أن نجد روابط URL مُعطلة في بعض الأحيان.
+not-found-page-go-back = عُد للخلف
+
+# Variables:
+#   $about (url) - link to https://www.mozilla.org/about/
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">تعرّف</a> على { -brand-name-mozilla }، الشركة غير الربحية التي ترعى { -brand-name-firefox }.
+
+# Variables:
+#   $explore (url) - link to https://www.mozilla.org/firefox/
+not-found-page-explore-the-entire-family-for = <a href={ $explore }>استكشف</a> العائلة الكاملة لمنتجات { -brand-name-firefox } التي تم تطويرها لتحترم خصوصيتك.
+
+# Variables:
+#   $download (url) - link to https://www.mozilla.org/firefox/new/
+not-found-page-download-the-firefox-browser = <a href={ $download }>نزّل</a> مُتصفّح { -brand-name-firefox } لجهازك المحمول أو الكمبيوتر المكتبي.
