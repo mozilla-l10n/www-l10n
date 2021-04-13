@@ -24,13 +24,13 @@ vpn-android-privacy-copy = Usar la { -brand-name-mozilla-vpn } para { -brand-nam
 vpn-android-servers-headline = Más de { $servers } servidores en más de { $countries } países
 # Variables:
 #   $countries (number) - number of available countries
-vpn-android-servers-copy = Con la { -brand-name-mozilla-vpn }, podés establecer la ubicación de tu teléfono { -brand-name-android } en uno de los países { $country }+. Eso significa que ves la web como un local del país con el que estás conectado. Es una forma divertida e interesante de experimentar la web desde una nueva perspectiva.
+vpn-android-servers-copy = Con { -brand-name-mozilla-vpn } podés establecer la ubicación de tu teléfono { -brand-name-android } en uno de más de { $countries } países. Eso significa que ves la web como un alguien del país con el que estás conectado. Es una forma divertida e interesante de experimentar la web desde una nueva perspectiva.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Una suscripción para hasta { $devices } dispositivos
 # Variables:
 #   $devices (number) - number of available devices
-vpn-android-devices-copy = LA { -brand-name-mozilla-vpn } te da la capacidad de conectar { $devices } diferentes dispositivos incluyendo { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }. Usala en tu teléfono, escritorio, portátil, tablet y mucho más.
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } te da la capacidad de conectar { $devices } diferentes dispositivos incluyendo { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }. Usala en tu teléfono, escritorio, portátil, tablet y mucho más.
 vpn-android-speed-headline = Velocidades ultra rápidas. Datos ilimitados.
 vpn-android-speed-copy = Juegos en línea, transmisión de películas y surfeá la web a velocidad ultra rápida en tu dispositivo { -brand-name-android }, todo con ancho de banda ilimitado.
 vpn-android-log-headline = Sin registros. Sin rastreos. Sin invasiones de privacidad.
