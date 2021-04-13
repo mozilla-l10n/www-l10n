@@ -2,20 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
-
 
 ## Required
 
-whatsnew-account-main-headline = لا نطلب أيّ حساب، ولكن قد ترغب أنت بصنع واحدًا.
-whatsnew-account-main-lead-in = لا يجمع متصفّح { -brand-name-firefox } إلّا القلة القليلة من البيانات عنك. يا رجل نحن حتّى لا نطلب عنوان بريدك الإلكتروني. ولكن يتغير هذا فتستعمله حين تُنشئ حساب { -brand-name-firefox } إذ سنقدر على حماية خصوصية حياتك على الشبكة أكثر فأكثر.
-whatsnew-account-main-button = لِج
+whatsnew-account-main-headline = لا يُشترط وجود حساب. ولكنك قد تُريد حسابًا.
+whatsnew-account-main-lead-in = لا يَجمع مُتصفح { -brand-name-firefox } إلّا القدر القليل من بياناتك، لدرجة أننا لا نطلُب عنوان بريدك الإلكتروني. ولكن عندما تستخدمه لإنشاء حساب { -brand-name-firefox }، فإننا نستطيع حماية خصوصيتك على الإنترنت بشكل أفضل.
+whatsnew-account-main-button = تسجيل الدخول
 
 ##
+whatsnew-account-signed-in-headline = أنجز أكثر. استخدم { -brand-name-firefox } للهاتف المحمول.
+whatsnew-account-signed-in-lead-in = أرسِل رابط تنزيل إلى هاتفك.
+whatsnew-account-signed-in-qr-title = نزِّل { -brand-name-firefox } على هاتفك الذّكي أو على جهازك اللوحي.
 
-whatsnew-account-signed-in-headline = أنجِز أكثر. نزّل { -brand-name-firefox } للمحمول.
-whatsnew-account-signed-in-lead-in = أرسِل رابط تنزيل إلى هاتفي.
-whatsnew-account-signed-in-qr-title = نزّل { -brand-name-firefox } لهاتفك الذكي أو جهازك اللوحي.
 # An accessible label for a QR code image
-whatsnew-account-qr-code-alt = امسح رمز QR ضوئيًا
+whatsnew-account-qr-code-alt = امسح رمز الاستجابة السريعة (QR) ضوئيًا
