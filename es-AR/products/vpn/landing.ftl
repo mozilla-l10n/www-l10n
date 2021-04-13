@@ -48,22 +48,41 @@ vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = El protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® cifra el tráfico de tu red, protegiendo toda tu información privada. Comparado con los protocolos VPN existentes, el código liviano de { -brand-name-wireguard } es más fácil de revisar y auditar para los analistas de seguridad de, lo que lo convierte en una opción más segura para la VPN. Además, tus actividades en línea permanecen anónimas porque nunca registramos, rastreamos ni compartimos tus datos de red.
+vpn-landing-faq-protected-question-desc = El protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® cifra el tráfico de tu red, protegiendo toda tu información privada. Comparado con los protocolos VPN existentes, el código liviano de { -brand-name-wireguard } es más fácil de revisar y auditar para los analistas de seguridad, lo que lo convierte en una opción más segura para la VPN. Además, tus actividades en línea permanecen anónimas porque nunca registramos, rastreamos ni compartimos tus datos de red.
 vpn-landing-faq-competition-question-heading = ¿Cómo se compara { -brand-name-mozilla-vpn } con la competencia?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
-vpn-landing-faq-competition-question-desc = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos con la privacidad que la { -brand-name-mozilla-vpn } y pueden vender o almacenar tus datos. Otras VPN pagas no tienen el registro { -brand-name-mozilla } de más de 20 años <a href="{ $url }">de desarrollo de productos que priorizan a las personas y la privacidad.
-vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible la { -brand-name-mozilla-vpn }?
+vpn-landing-faq-competition-question-desc = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos con la privacidad que { -brand-name-mozilla-vpn } y pueden vender o almacenar tus datos. Otras VPN pagas no tienen el <a href="{ $url }">registro</a> de { -brand-name-mozilla } de más de 20 años de desarrollo de productos que priorizan a las personas y la privacidad.
+vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } es compatible con <a href="{ $mobile }">móvil</a>, tablet y <a href="{ $desktop }">escritorio</a> en:
 # Outdated string
-vpn-landing-faq-compatibility-question-desc = La { -brand-name-mozilla-vpn } es compatible con:
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } es compatible con:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (solo 64-bits)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo 64-bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 y superiores)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 y superiores)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versión 6 y superiores)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versión 6 y superiores)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 y superiores)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 y superiores)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (solo { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } solo ({ -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolsos de la { -brand-name-mozilla-vpn }?
@@ -71,7 +90,7 @@ vpn-landing-faq-refund-question-desc = Podés recuperar tu dinero dentro de los 
 vpn-landing-faq-manage-subscription-question-heading = ¿Cómo administro mi suscripción?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = Si ya estás suscrito a la { -brand-name-mozilla-vpn }, podés cambiar tu plan o <a href="{ $url }">administrar tu suscripción</a> en cualquier momento.
+vpn-landing-faq-manage-subscription-question-desc = Si ya estás suscrito a { -brand-name-mozilla-vpn }, podés cambiar tu plan o <a href="{ $url }">administrar tu suscripción</a> en cualquier momento.
 vpn-landing-faq-link = Ver más preguntas frecuentes
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = ¡Ups! Parece que aún no te suscribiste.
@@ -80,7 +99,7 @@ vpn-landing-sub-not-found = ¡Ups! Parece que aún no te suscribiste.
 
 vpn-landing-invite-page-title = Unite a la lista de espera: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc = Recibí una notificación cuando la { -brand-name-mozilla-vpn } esté disponible para tu dispositivo y región.
-vpn-landing-invite-page-heading = Unite a la lista de vigilancia de la VPN
+vpn-landing-invite-page-heading = Unite a la lista de espera de la VPN
 vpn-landing-invite-email-label = ¿Cuál es tu dirección de correo electrónico?
 vpn-landing-invite-required-label = Necesario
 # Only localize "yourname". Do not change "@example.com".
