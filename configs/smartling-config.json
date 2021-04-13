@@ -2,23 +2,19 @@
     "locales": [{
             "smartling": "ar",
             "application": "ar"
-        },
-                
+        },      
         {
             "smartling": "ms-MS",
             "application": "ms"
         },
-                
         {
             "smartling": "hi-IN",
             "application": "hi-IN"
         },
-                
         {
             "smartling": "id-ID",
             "application": "id"
         },
-                
         {
             "smartling": "ja-JP",
             "application": "ja"
