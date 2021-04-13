@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } pumbyry mba’e’okápe g̃uarã (pumbyry ha’evéva ha tableta)
+# Mobile strings
+vpn-mobile-hero-headline = Emo’ã ne rekoñemi pumbyry mba’e’okápe { -brand-name-mozilla-vpn } ndive
 vpn-mobile-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
 vpn-mobile-about-headline = { -brand-name-mozilla } rehegua
 vpn-mobile-privacy-headline = Tekoñemi peteĩ jeikutúpe

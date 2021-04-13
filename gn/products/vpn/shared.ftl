@@ -83,6 +83,7 @@ vpn-shared-platform-trust-partner-headline = Ore irũ jeroviaha rehegua
 vpn-shared-platform-what-youll-get = Mba’e erekokuaa { -brand-name-mozilla-vpn } ndive:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-faqs = FAQs
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Mesa arigua
 vpn-subnav-platform-ios = { -brand-name-ios }

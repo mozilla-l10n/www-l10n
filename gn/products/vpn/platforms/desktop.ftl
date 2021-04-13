@@ -7,8 +7,10 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } mesa arigua (PC ha laptop)
+vpn-desktop-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
+vpn-desktop-servers-headline = Eike a mohendahavusu arapyguávape
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Emo’ã { $devices } mba’e’oka peve

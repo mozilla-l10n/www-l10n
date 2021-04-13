@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã ({ -brand-name-iphone } ha { -brand-name-ipad })
+# Mobile strings
+vpn-ios-hero-headline = Ereko ñemo’ã ha tekoñemi ñandutípe { -brand-name-mozilla-vpn } ndive { -brand-name-ios } peg̃uarã
 vpn-ios-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
 vpn-ios-about-headline = ¿Mba’ére ejeroviáta orerehe?
 vpn-ios-privacy-headline = Jeike 1 jekutúpe

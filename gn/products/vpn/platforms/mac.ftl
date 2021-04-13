@@ -17,3 +17,4 @@ vpn-mac-servers-headline = Eike mohendahavusu arapyguávape
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Emo’ã { $devices } mba’e’oka ñemboheraguapy ndive
 vpn-mac-speed-headline = Natekotevẽi ehekojopy pya’ekue
+vpn-mac-log-headline = Ejapóva ñandutípe ha’e nemba’ete
