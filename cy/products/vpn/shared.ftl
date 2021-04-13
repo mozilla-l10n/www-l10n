@@ -87,6 +87,9 @@ vpn-shared-platform-trust-partner-copy = Mae { -brand-name-mozilla-vpn } yn rhed
 vpn-shared-platform-what-youll-get = Beth gewch chi gyda { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Beth yw VPN?
+vpn-subnav-faqs = Cwestiynau Cyffredin
+vpn-subnav-get-help = Derbyn Cymorth
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Bwrdd Gwaith
 vpn-subnav-platform-ios = { -brand-name-ios }

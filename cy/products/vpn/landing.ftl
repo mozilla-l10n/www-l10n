@@ -54,11 +54,36 @@ vpn-landing-faq-competition-question-heading = Sut mae { -brand-name-mozilla-vpn
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Er bod VPN rhad ac am ddim yn ymddangos yn ddeniadol, dydyn nhw ddim yn gwneud yr un ymrwymiadau i breifatrwydd â { -brand-name-mozilla-vpn } ac felly gallan nhw werthu neu storio eich data. Does gan yr un VPN taledig arall <a href="{ $url }">enw da</a> { -brand-name-mozilla } ers dros 20 mlynedd o greu cynnyrch sy'n blaenoriaethu pobl a phreifatrwydd.
 vpn-landing-faq-compatibility-question-heading = Pa ddyfeisiau y mae { -brand-name-mozilla-vpn } yn gydnaws â nhw?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = Mae { -brand-name-mozilla-vpn } yn gydnaws â <a href="{ $mobile }">symudol</a>, tabled, a <a href="{ $desktop }">bwrdd gwaith</a> ar :
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = Mae { -brand-name-mozilla-vpn } yn gydnaws â:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-did yn unig)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-did yn unig)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ac uwch)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ac i fyny)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (fersiwn 6 ac uwch)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (fersiwn 6 ac i fyny)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 ac uwch)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ac i fyny)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-yn unig)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (dim ond { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Beth yw polisi ad-dalu { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Gallwch gael eich arian yn ôl cyn pen 30 diwrnod ar ôl prynu'ch tanysgrifiad. Cysylltwch â ni a chyflwyno'ch cais am ad-daliad trwy dapio'r botwm “Get Help” yng Ngosodiadau ar eich ap { -brand-name-mozilla-vpn }.
