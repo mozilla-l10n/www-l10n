@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Šćitajśo swój ceły rěd
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Wužywajśo { -brand-name-mozilla-vpn } za dopołny šćit swójogo grata za wšě nałoženja. Ze serwerami we wěcej ako { $countries } krajach, móžośo do něźi a wót něźi zwězaś.
 vpn-landing-hero-sub-heading-v2 = Wěstota, spušćobnosć a malsnosć – na kuždem rěźe, wšuźi.
 # Obsolete string
 vpn-landing-hero-sub-heading = Wěstota, na kótaruž móžośo se spušćiś. Mě, kótaremuž móžośo dowěriś.
