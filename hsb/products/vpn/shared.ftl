@@ -18,9 +18,9 @@ vpn-shared-features-encrypt = Zaklučowanje na gratowej runinje
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-servers = Přez { $servers } serwerow w přez { $countries } krajow
+vpn-shared-features-servers = Přez { $servers } serwerow w přez { $countries } krajach
 vpn-shared-features-bandwidth = Žane wobmjezowanja šěrokosće pasma
-vpn-shared-features-activity = Žane protokolowanje wašeje seśoweje aktiwity
+vpn-shared-features-activity = Žane protokolowanje wašeje syćoweje aktiwity
 vpn-shared-features-activity-logs = Wašu aktiwitu online ženje njeprotokolujemy
 # Variables:
 #   $countries (number) - number of available countries
