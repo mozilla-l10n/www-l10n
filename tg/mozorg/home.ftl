@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
+home-internet-for-people-not-profit = Интернет барои мардум, на барои даромад
 home-our-innovations = Навигариҳои мо
+home-extensions = Васеъшавиҳо
 home-need-help = Кумак лозим аст?
