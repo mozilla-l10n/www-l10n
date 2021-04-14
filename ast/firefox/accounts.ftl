@@ -17,6 +17,7 @@ firefox-accounts-take-your-stand-against = Opónte una industria que te conviert
 firefox-accounts-youre-signed-in-to = Aniciesti sesión <br>en { -brand-name-firefox }. <br><span>Agora prueba { -brand-name-firefox-monitor }.</span>
 firefox-accounts-already-have-an-account = ¿Yá tienes una cuenta?
 firefox-accounts-meet-our-family-of = Conoz la nuesa familia de productos que prioricen la privacidá.
+firefox-accounts-firefox-is-technology = { -brand-name-firefox } ye teunoloxía que llucha por ti.
 firefox-accounts-travel-the-internet = Viaxa per internet con proteición, en tolos preseos.
 firefox-accounts-keep-your-passwords = Protexi y lleva contigo les tos contraseñes.
 firefox-accounts-share-large-files = Comparti ficheros grandes ensin miraes indiscretes.

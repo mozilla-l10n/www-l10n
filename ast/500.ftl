@@ -8,4 +8,4 @@ error-page-its-probably-just-a-server-error = Quiciabes seya namás un fallu del
 # Variables:
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
-error-page-you-can-also-try-refreshing = Tamién pues tentar de refrescar esta páxina o dir a <a href={ $firefox }>firefox.com</a> o <a href={ $mozilla }>mozilla.org</a>
+error-page-you-can-also-try-refreshing = Tamién pues tentar de refrescar esta páxina o dir pa <a href={ $firefox }>firefox.com</a> o <a href={ $mozilla }>mozilla.org</a>
