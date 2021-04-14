@@ -54,11 +54,36 @@ vpn-landing-faq-competition-question-heading = Hogy áll a { -brand-name-mozilla
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Bár az ingyenes VPN-ek vonzónak tűnnek, nem vállalnak ugyanolyan kötelezettségeket az adatvédelem terén, mint a { -brand-name-mozilla-vpn }, és eladhatják vagy tárolhatják adatait. Más fizetős VPN-ek nem rendelkeznek a { -brand-name-mozilla } több mint 20 éves termékfejlesztési <a href="{ $url }">múltjával</a>, amely az embereket és az adatvédelmet helyezi az első helyre.
 vpn-landing-faq-compatibility-question-heading = Milyen eszközökkel kompatibilis a { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = A { -brand-name-mozilla-vpn } az alábbi <a href="{ $mobile }">mobiltelefonokkal</a>, táblagépekkel és <a href="{ $desktop }">asztali számítógépekkel</a> kompatibilis:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = A { -brand-name-mozilla-vpn } a következőkkel kompatibilis:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (csak 64 bites)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (csak 64 bites)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 és újab)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 vagy újabb)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (6-os verzió és újabb)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6-os verzió vagy újabb)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 és újabb)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 vagy újabb)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (csak { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (csak { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Mi a { -brand-name-mozilla-vpn } pénzvisszatérítési házirendje?
 vpn-landing-faq-refund-question-desc = Az előfizetés megvásárlásától számított 30 napon belül visszakaphatja a pénzét. Vegye fel velünk a kapcsolatot, és küldje el a visszatérítési kérelmet a { -brand-name-mozilla-vpn } alkalmazás Beállítások menüjének „Segítség kérése” gombjára koppintva.
