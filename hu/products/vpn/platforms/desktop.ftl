@@ -12,8 +12,10 @@ vpn-desktop-page-description = Szerezzen gyors és könnyen használható védel
 vpn-desktop-hero-headline = Védje meg az internetkapcsolatát az asztali { -brand-name-mozilla-vpn }-nel
 vpn-desktop-maker-of-firefox = A { -brand-name-firefox } böngésző készítőjeként és az internetes adatvédelem egyik leghevesebb harcosaként, a { -brand-name-mozilla } elkötelezett aziránt, hogy biztonságban érezze magát minden egyes alkalommal, amikor fellép az internetre.
 vpn-desktop-wifi-headline = Érezze magát biztonságban, ha nyilvános Wi-Fit használ
+vpn-desktop-wifi-copy = A VPN-ünk megvédi az internetkapcsolatát a hackerektől és kémektől, így vásárolhat egy kávézóból, ellenőrizheti a bankszámláját a vonatról, és bárhol biztonsági aggályok nélkül folytathatja az online ügyeit.
 vpn-desktop-about-headline = A { -brand-name-mozilla(ending: "accented") }ról
 vpn-desktop-privacy-headline = Adatvédelem egyetlen kattintással
+vpn-desktop-servers-headline = Kapcsolódjon kiszolgálókhoz szerte a világon
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Védjen meg akár { $devices } eszközt

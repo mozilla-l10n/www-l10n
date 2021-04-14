@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios }-re ({ -brand-name-iphone }-ra és { -brand-name-ipad }ra)
 # Mobile strings
 vpn-ios-hero-headline = Védje meg magát online az { -brand-name-ios }-es { -brand-name-mozilla-vpn }-nel
 vpn-ios-wifi-headline = Legyen biztonságban az interneten, ha útközben van

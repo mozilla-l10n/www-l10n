@@ -87,6 +87,9 @@ vpn-shared-platform-trust-partner-copy = A { -brand-name-mozilla-vpn } a <a href
 vpn-shared-platform-what-youll-get = Mit kap a { -brand-name-mozilla-vpn }-től:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Mi a VPN?
+vpn-subnav-faqs = GYIK
+vpn-subnav-get-help = Segítség kérése
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Asztali
 vpn-subnav-platform-ios = { -brand-name-ios }

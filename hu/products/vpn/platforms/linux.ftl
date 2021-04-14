@@ -11,6 +11,7 @@
 vpn-linux-page-title = { -brand-name-mozilla-vpn } { -brand-name-linux }ra ({ -brand-name-ubuntu }ra)
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-ubuntu } { -brand-name-linux }ra – tökéletesen privát párosítás
+vpn-linux-wifi-headline = Legyen biztonságban az interneten, ha nyilvános Wi-Fi-t kell használnia
 vpn-linux-about-headline = Megbízható név 1998 óta
 vpn-linux-privacy-headline = Biztonság egyetlen kattintásnyira
 # Variables:
