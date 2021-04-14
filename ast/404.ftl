@@ -11,7 +11,7 @@ not-found-page-were-all-about-a-healthy-internet = Curiamos qu'internet seya sal
 not-found-page-go-back = Dir p'atrás
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Sabi más</a> tocante a { -brand-name-mozilla }, la organización ensin ánimu de llucru darrera de { -brand-name-firefox }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Llei más</a> tocante a { -brand-name-mozilla }, la organización ensin ánimu de llucru darrera de { -brand-name-firefox }.
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Esplora</a> tola familia de productos { -brand-name-firefox } diseñaos pa respetar la to privacidá.
