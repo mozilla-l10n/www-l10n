@@ -7,3 +7,6 @@
 
 nightly-firstrun-firefox-nightly = Саҳифаи оғози кор бо { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Ташаккур барои истифодаи { -brand-name-firefox-nightly }
+nightly-firstrun-choose-an-area = Барои иштирок кардан дар лоиҳаҳои мо манфиати худро дар зер интихоб намоед ва барои ҳамаи корбарони ҷаҳон { -brand-name-firefox }-ро беҳтар кунед
+nightly-firstrun-test = Санҷиш
+nightly-firstrun-find-and-file-bugs = Хатоҳоро пайдо карда, ба мо гузориш диҳед ва мутмаин шавед, ки браузер ҳаматарафа дуруст кор мекунад.
