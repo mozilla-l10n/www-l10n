@@ -7,6 +7,9 @@
 
 # Meta strings
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } za mobilne graty (smartfony a tablety)
+# Mobile strings
+vpn-mobile-hero-headline = Škitajće swoju priwatnosć na mobilnym graće z { -brand-name-mozilla-vpn }
+vpn-mobile-wifi-headline = Čujće so wěsty – tež w zjawnym WLAN
 vpn-mobile-about-headline = Wo { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Priwatnosć z jednym kliknjenjom
 vpn-mobile-servers-headline = Zwjazajće so ze serwerami w cyłym swěće

@@ -9,3 +9,9 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
+# Mac strings
+vpn-mac-hero-headline = Škitajće swój zwisk online z { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
+vpn-mac-servers-headline = Přistup k serweram na cyłym swěće
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Škitajće { $devices } gratow z jednym abonementom

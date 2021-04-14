@@ -83,6 +83,9 @@ vpn-shared-platform-trust-partner-headline = Wo našim dowěryhódnym partnerje
 vpn-shared-platform-what-youll-get = Štož z { -brand-name-mozilla-vpn } dóstanjeće:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Što je VPN?
+vpn-subnav-faqs = Huste stajene prašenja
+vpn-subnav-get-help = Pomoc sej wobstarać
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-ios = { -brand-name-ios }
