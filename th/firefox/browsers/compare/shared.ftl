@@ -10,6 +10,7 @@ compare-shared-yes = ใช่
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = ไม่
 compare-shared-private-browsing-mode = โหมดการเรียกดูแบบส่วนตัว
+compare-shared-blocks-third-party-tracking-default = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สามตามค่าเริ่มต้น
 # Obsolete string
 compare-shared-blocks-third-party-tracking = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สาม
 compare-shared-blocks-cryptomining-scripts = ปิดกั้นสคริปต์การขุดเหรียญดิจิทัล
