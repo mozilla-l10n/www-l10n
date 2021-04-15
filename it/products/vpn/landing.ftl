@@ -54,11 +54,33 @@ vpn-landing-faq-competition-question-heading = Che differenza c’è tra { -bran
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Sebbene le VPN gratuite sembrino allettanti, non si assumono gli stessi impegni in materia di privacy come { -brand-name-mozilla-vpn } e potrebbero archiviare e vendere i tuoi dati. Altre VPN a pagamento non hanno la stessa <a href="{ $url }">esperienza</a> di oltre 20 anni di { -brand-name-mozilla } nella creazione di prodotti che mettono al primo posto le persone e la privacy.
 vpn-landing-faq-compatibility-question-heading = Con quali dispositivi è compatibile { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } è compatibile con <a href="{ $mobile }">dispositivi mobili</a>, tablet e <a href="{ $desktop }">pc desktop</a> con:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } è compatibile con:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (solo 64 bit)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo a 64 bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e versioni successive)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e versioni successive)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versione 6 e successive)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e versioni successive)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e versioni successive)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (solo { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Quali sono i criteri di rimborso di { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Puoi ricevere il rimborso entro 30 giorni dalla sottoscrizione dell’abbonamento. Contattaci e invia la tua richiesta di rimborso attraverso il pulsante ”Ottieni assistenza” nelle Impostazioni della tua applicazione { -brand-name-mozilla-vpn }.
