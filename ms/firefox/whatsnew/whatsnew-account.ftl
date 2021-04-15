@@ -6,6 +6,14 @@
 
 ## Required
 
-whatsnew-account-main-headline = Akaun tidak diperlukan. Namun anda mungkin memerlukannya.
-whatsnew-account-main-lead-in = Pelayar { -brand-name-firefox } mengumpulkan amat sedikit sekali data tentang anda, kami tidak memerlukan alamat e-mel. Tetapi apabila anda menggunanya untuk mendaftar akaun { -brand-name-firefox }, kami mampu memberi lebih perlindungan untuk privasi anda dalam talian.
+whatsnew-account-main-headline = Akaun tidak diperlukan. Tapi anda mungkin mahukannya.
+whatsnew-account-main-lead-in = Data yang dikumpulkan oleh { -brand-name-firefox } terlalu sedikit sehinggakan kami tidak memerlukan e-mel anda untuk dimuat turun. Tetapi apabila anda menggunakannya untuk membuka akaun { -brand-name-firefox }, kami dapat melindungi privasi anda di seluruh hayat atas talian anda.
 whatsnew-account-main-button = Daftar Masuk
+
+##
+whatsnew-account-signed-in-headline = Selesaikan lebih banyak perkara. Gunakan { -brand-name-firefox } untuk mudah alih.
+whatsnew-account-signed-in-lead-in = Hantar pautan muat turun ke telefon anda.
+whatsnew-account-signed-in-qr-title = Muat turun { -brand-name-firefox } untuk telefon pintar dan tablet anda.
+
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Imbas kod QR ini
