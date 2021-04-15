@@ -29,6 +29,7 @@ compare-shared-os-availability = ความพร้อมใช้งาน�
 compare-shared-mobile-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการมือถือ
 compare-shared-syncs-with-mobile = ซิงค์กับมือถือ
 compare-shared-password-management = การจัดการรหัสผ่าน
+compare-shared-primary-password = รหัสผ่านหลัก
 # Obsolete string
 compare-shared-master-password = รหัสผ่านหลัก
 compare-shared-security-and-privacy = ความปลอดภัยและความเป็นส่วนตัว
@@ -41,6 +42,7 @@ compare-shared-utility-strong = <strong>อรรถประโยชน์</st
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>ความสามารถในการพกพา</strong>
 compare-shared-overall-assessment = การประเมินโดยภาพรวม
+compare-shared-the-comparisons-made-here-updated = การเปรียบเทียบที่ทำที่นี่ได้ทำด้วยค่าเริ่มต้นและในรุ่นของเบราว์เซอร์ดังนี้:
 # Obsolete string
 compare-shared-the-comparisons-made-here = การเปรียบเทียบที่ทำที่นี่ได้ทำในเบราว์เซอร์รุ่นดังนี้:
 compare-shared-this-page-updated-semi-quarterly = หน้านี้อัปเดตทุกครึ่งไตรมาสเพื่อแสดงรุ่นล่าสุดและอาจไม่แสดงการอัปเดตล่าสุดเสมอไป
