@@ -2,10 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
-
 
 ## Company names
 
@@ -13,66 +11,80 @@
 -brand-name-apple = Apple
 -brand-name-creative-commons = المَشاع الإبداعي
 -brand-name-facebook = فيسبوك
--brand-name-github = غِت‌هَب
+-brand-name-github = GitHub
 -brand-name-google = جوجل
 -brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
--brand-name-mozilla = Mozilla
--brand-name-mozilla-corporation = شركة Mozilla
--brand-name-mozilla-foundation = مؤسّسة Mozilla
+-brand-name-mozilla = موزيلا
+-brand-name-mozilla-corporation = شركة موزيلا
+-brand-name-mozilla-foundation = مؤسّسة موزيلا
+-brand-name-mullvad = Mullvad
+-brand-name-netscape = Netscape
 -brand-name-twitter = تويتر
+-brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
--brand-name-firefox = Firefox
--brand-name-firefox-beta = ‏Firefox بيتا
--brand-name-firefox-browser = متصفّح Firefox
--brand-name-firefox-browsers = متصفّحات Firefox
--brand-name-firefox-developer-edition = إصدارة Firefox للمطوّرين
--brand-name-firefox-enterprise = ‏Firefox للمؤسّسات
+-brand-name-firefox = فيَرفُكس
+-brand-name-firefox-beta = فَيَرفُكس التجريبي
+-brand-name-firefox-browser = متصفّح فَيَرفُكس
+-brand-name-firefox-browsers = مُتصفّحات فيَرفُكس
+-brand-name-firefox-developer-edition = إصدار فَيَرفُكس للمطوّرين
+-brand-name-firefox-enterprise = فَيَرفُكس للشركات
 -brand-name-firefox-esr = Firefox ESR
--brand-name-firefox-extended-support-release = Firefox Extended Support Release
--brand-name-firefox-focus = Firefox Focus
--brand-name-firefox-lite = Firefox Lite
--brand-name-firefox-nightly = Firefox Nightly
--brand-name-firefox-reality = Firefox Reality
--brand-name-firefox-daylight = Firefox Daylight
+-brand-name-firefox-extended-support-release = إصدار الدعم المُمتد من فَيرفوكس
+-brand-name-firefox-focus = فَيَرفُكس فوكَس
+-brand-name-firefox-lite = فَيَرفُكس لايت
+-brand-name-firefox-nightly = فَيَرفُكس الليلي
+-brand-name-firefox-reality = فَيَرفُكس Reality
+-brand-name-firefox-daylight = فَيَرفُكس النهاري
 
 ## Firefox browsers (short names)
 
--brand-name-beta = Beta
--brand-name-developer-edition = Developer Edition
--brand-name-enterprise = Enterprise
+-brand-name-beta = إصدار تجريبي
+-brand-name-developer-edition = إصدار المُطوّرين
+-brand-name-enterprise = الشركات
 -brand-name-esr = ESR
--brand-name-focus = Focus
--brand-name-lite = Lite
--brand-name-nightly = Nightly
+-brand-name-focus = فوكس
+-brand-name-lite = لايت
+-brand-name-nightly = الإصدار الليلي
 -brand-name-reality = Reality
--brand-name-daylight = Daylight
+-brand-name-daylight = النهار
 
 ## Firefox browsers (legacy)
 
--brand-name-firefox-aurora = Firefox Aurora
+-brand-name-firefox-aurora = فَيَرفُكس Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum = فَيَرفُكس Quantum
 
 ## Firefox products
 
 -brand-name-facebook-container = حاوية فيسبوك
--brand-name-firefox-account = حساب Firefox
--brand-name-firefox-accounts = حسابات Firefox
--brand-name-firefox-devtools = أدوات Firefox للمطوّرين
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
--brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-account = حساب فَيَرفُكس
+-brand-name-firefox-accounts = حسابات فَيَرفُكس
+-brand-name-firefox-devtools = أدوات فَيَرفُكس للمطوّرين
+-brand-name-firefox-lockwise = فَيَرفُكس Lockwise
+-brand-name-firefox-monitor = فَيَرفُكس Monitor
+-brand-name-firefox-sync = فَيَرفُكس Sync
+-brand-name-firefox-relay = فَيَرفُكس Relay
+-brand-name-firefox-private-network = شبكة فَيَرفُكس الخاصة
 
 ## Firefox products (short names)
 
 -brand-name-devtools = أدوات المطوّرين
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync = Sync
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
+
+## Firefox products (legacy)
+
+-brand-name-firefox-marketplace = متجر فَيَرفُكس
+-brand-name-firefox-os = نظام تشغيل فَيَرفُكس
+-brand-name-firefox-better-web = فَيَرفُكس Better Web
+-brand-name-firefox-send = فَيَرفُكس Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -83,8 +95,10 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = شبكة Mozilla للتطوير
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-festival = مهرجان موزيلا
+-brand-name-mozilla-hubs = مراكز موزيلا
+-brand-name-mozilla-labs = موزيلا لابز
+-brand-name-mozilla-vpn = موزيلا VPN
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-thunderbird = Thunderbird
 
@@ -94,9 +108,18 @@
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
+## Mozilla projects (legacy)
+
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
+-brand-name-webmaker = Webmaker
+
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
+
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
@@ -107,23 +130,26 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
 
 ## Apple products
 
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
--brand-name-iphone = iPhone
+-brand-name-iphone = آيفون
 -brand-name-test-flight = TestFlight
 
 ## Amazon products
@@ -133,7 +159,7 @@
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
--brand-name-instagram = Instagram
+-brand-name-instagram = إنستغرام
 -brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
@@ -142,3 +168,4 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = يوتيوب
+-brand-name-chromebook = Chromebook
