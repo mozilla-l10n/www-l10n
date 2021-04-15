@@ -87,6 +87,7 @@ vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } viene esegu
 vpn-shared-platform-what-youll-get = Che cosa avrai con { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Che cos’è una VPN?
 vpn-subnav-faqs = FAQ
 vpn-subnav-get-help = Richiedi assistenza
 vpn-subnav-platform-android = { -brand-name-android }

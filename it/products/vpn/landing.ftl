@@ -64,14 +64,17 @@ vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } è com
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (solo 64 bit)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo a 64 bit)
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (solo 64 bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e versioni successive)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e versioni successive)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (6 e versioni successive)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versione 6 e successive)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6 e versioni successive)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e versioni successive)
