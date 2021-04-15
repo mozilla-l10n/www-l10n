@@ -2,13 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/all/
 
-whatsnew-s2d-download-firefox-for-android = حمّل فَيَرفُكس على أندرويد وعلى آي أو إس
-whatsnew-s2d-want-privacy-on-every-device = هل تريد الخصوصية على كل الأجهزة؟
+whatsnew-s2d-download-firefox-for-android = نزّل { -brand-name-firefox } لنظام تشغيل { -brand-name-android } ونظام تشغيل { -brand-name-ios }
+whatsnew-s2d-want-privacy-on-every-device = هل تريد التمتع بالخصوصية على كل الأجهزة؟
+
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
-whatsnew-s2d-you-got-it-get-firefox-for = لك ذلك. نزّل على { -brand-name-firefox } للمحمول.
+whatsnew-s2d-you-got-it-get-firefox-for = حسنًا. احصل على { -brand-name-firefox } للهاتف الجوال.
+
 # Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = حمّل فَيَرفُكس على هاتفك<br> وتمتّع بحرّيتك على الإنترنت.
-whatsnew-s2d-download-firefox-for-your = حمّل فَيَرفُكس على هاتفك الذّكي أو على جهازك اللوّحي.
+whatsnew-s2d-send-firefox-to-your-phone = نزِّل { -brand-name-firefox } على هاتفك <br> وأطلق العنان للإنترنت.
+
+whatsnew-s2d-download-firefox-for-your = نزِّل { -brand-name-firefox } على هاتفك الذّكي أو على جهازك اللوحي.
