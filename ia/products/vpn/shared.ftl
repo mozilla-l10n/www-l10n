@@ -55,6 +55,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } es un marca de fabric
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading = Elige un plan que functiona pro te
+vpn-shared-pricing-variable-sub-heading = Tote nostre planos include:
 vpn-shared-pricing-recommended-offer = Recommendate
 vpn-shared-pricing-plan-6-month = 6 menses
 vpn-shared-pricing-plan-12-month = 12 menses
@@ -62,10 +64,22 @@ vpn-shared-pricing-plan-monthly = Mensual
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-get-6-month = Compra un plan de 6 menses
+vpn-shared-pricing-get-12-month = Compra un plan de 12 menses
+vpn-shared-pricing-get-monthly = Compra un plan mensual
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Sparnia le { $percent }%
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = Total { $amount }
 
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Que nos comencia
+vpn-shared-platform-cta-button = Vider precio e disponibilitate
+vpn-shared-platform-privacy-promise = Tu confidentialitate es nostre promissa
+vpn-shared-platform-trust-partner-headline = Re nostre digne partner de fide
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-faqs = Questiones frequente
