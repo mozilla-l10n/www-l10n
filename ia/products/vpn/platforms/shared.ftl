@@ -5,6 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# Shared
+vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
+vpn-platforms-shared-cta-headline = Que nos comencia
+vpn-platforms-shared-day-guarantee = Reimbursamento garantite pro 30-dies
+# Variables:
+#   $devices (number) - number of available devices
+vpn-platforms-shared-feature-item-protection = Protection pro maximo { $devices } apparatos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-platforms-shared-feature-item-connect = Connecte te a maximo { $devices } apparatos
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
