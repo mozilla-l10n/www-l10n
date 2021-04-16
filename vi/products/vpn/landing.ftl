@@ -54,11 +54,36 @@ vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } so v�
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Mặc dù VPN miễn phí có vẻ hấp dẫn nhưng chúng không thực hiện các cam kết về quyền riêng tư giống như { -brand-name-mozilla-vpn } và có thể bán hoặc lưu trữ dữ liệu của bạn. Các VPN trả phí khác không có <a href="{ $url }">hồ sơ theo dõi</a> hơn 20 năm của { -brand-name-mozilla } về việc xây dựng các sản phẩm đặt con người và quyền riêng tư lên hàng đầu.
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } tương thích với những thiết bị nào?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } tương thích với <a href="{ $mobile }">di động</a>, máy tính bảng và <a href="{ $desktop }">máy tính để bàn</a> trên :
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } tương thích với:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (chỉ 64-bit)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (chỉ phiên bản 64-bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 trở lên)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 trở lên)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (phiên bản 6 trở lên)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (phiên bản 6 trở lên)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 trở lên)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 trở lên)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (chỉ { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (chỉ phiên bản { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Chính sách hoàn lại tiền của { -brand-name-mozilla-vpn } là gì?
 vpn-landing-faq-refund-question-desc = Bạn có thể nhận lại tiền trong vòng 30 ngày kể từ ngày mua đăng ký của mình. Liên hệ với chúng tôi và gửi yêu cầu hoàn lại tiền bằng cách nhấn vào nút “Nhận trợ giúp” trong Cài đặt trên ứng dụng { -brand-name-mozilla-vpn } của bạn.

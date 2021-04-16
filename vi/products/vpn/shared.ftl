@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Tham gia danh sách chờ
 vpn-shared-sign-in-link = Đã là một người đăng ký?
 vpn-shared-available-countries = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Hoa Kỳ, Vương quốc Anh, Canada, New Zealand, Singapore và Malaysia.
 vpn-shared-available-countries-v2 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Hoa Kỳ, Vương quốc Anh, Đức, Pháp, Canada, Malaysia, New Zealand và Singapore.
-vpn-shared-availablity-long = VPN hiện khả dụng cho các thiết bị { -brand-name-windows } 10, { -brand-name-android } và { -brand-name-ios } ở Hoa Kỳ, Vương quốc Anh, Canada, New Zealand, Singapore và Malaysia .
 vpn-shared-money-back-guarantee = Đảm bảo hoàn tiền trong 30 ngày
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Tính năng nổi bật như
@@ -88,6 +87,9 @@ vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } chạy trê
 vpn-shared-platform-what-youll-get = Những gì bạn sẽ nhận được với { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = VPN là gì?
+vpn-subnav-faqs = Câu hỏi thường gặp
+vpn-subnav-get-help = Nhận trợ giúp
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Máy tính để bàn
 vpn-subnav-platform-ios = { -brand-name-ios }
