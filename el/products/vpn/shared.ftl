@@ -12,6 +12,8 @@ vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
 vpn-shared-available-countries = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, το Ηνωμένο Βασίλειο, τον Καναδά, τη Νέα Ζηλανδία, τη Σιγκαπούρη και τη Μαλαισία.
 vpn-shared-available-countries-v2 = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, το Ηνωμένο Βασίλειο, τη Γερμανία, τη Γαλλία, τον Καναδά, τη Μαλαισία, τη Νέα Ζηλανδία και τη Σιγκαπούρη.
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Προτείνεται από
 vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο συσκευής
 # Variables:
 #   $servers (number) - number of available servers
@@ -36,6 +38,10 @@ vpn-shared-features-server-countries = Συνδεθείτε σε περισσό�
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Διαθέσιμο σε { $countries } χώρες. Σύντομα σε περισσότερες περιοχές
 # Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Προβολή πλήρους λίστας <a href="{ $url }" { $attrs }>διακομιστών</a>.
+# Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Ισχυροί διακομιστές σε { $countries }+ χώρες
 # Variables:
@@ -55,6 +61,8 @@ vpn-shared-pricing-plan-monthly = Μηνιαία
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/μήνα</span>
+vpn-shared-pricing-get-6-month = Απόκτηση 6-μηνιαίου προγράμματος
+vpn-shared-pricing-get-12-month = Απόκτηση 12-μηνιαίου προγράμματος
 vpn-shared-pricing-get-monthly = Απόκτηση μηνιαίου προγράμματος
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'

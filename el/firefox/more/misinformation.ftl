@@ -7,6 +7,7 @@
 
 misinformation-false-info-heading = Πού εμφανίζονται οι ψευδείς πληροφορίες;
 misinformation-look-at-url = Παρατηρήστε το URL και/ή την πηγή.
+misinformation-images-captions = Ταιριάζουν οι εικόνες και οι λεζάντες;
 misinformation-firefox-keeps-trackers-heading = Το { -brand-name-firefox } περιορίζει τους ιχνηλάτες:
 misinformation-why-trust-firefox = Γιατί να εμπιστευτείτε το { -brand-name-firefox };
 misinformation-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
