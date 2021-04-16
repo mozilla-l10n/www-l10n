@@ -9,14 +9,49 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Installar { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Junge te al lista de attender
 vpn-shared-sign-in-link = Jam abonate?
+vpn-shared-available-countries = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Canada, Nove Zelanda, Singapore, e Malaysia.
+vpn-shared-available-countries-v2 = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Germania, Francia, Canada, Malaysia, Nove Zelanda e Singapore.
 vpn-shared-money-back-guarantee = Reimbursamento garantite pro 30-dies
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Consiliate in
 vpn-shared-features-encrypt = Cryptation a nivello de apparato
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = ultra { $servers } servitores in plus de { $countries } paises
 vpn-shared-features-bandwidth = Nulle limitationes de largessa de banda
+vpn-shared-features-activity = Nulle registration de tu activitate de rete
+vpn-shared-features-activity-logs = Nulle registros de activitate online ora o sempre
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Accede a servitores in plus de { $countries } paises
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Option pro connecte maximo { $devices } apparatos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Protection pro maximo { $devices } apparatos
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Connecte te a plus que { $servers } servitores in ultra { $countries } paises
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Disponibile jam in { $countries } paises. Altere regiones a veni tosto
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Vide nostre lista complete de <a href="{ $url }" { $attrs }>servitores</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Forte servitores in ultra { $countries } paises
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Connecte te a maximo { $devices } apparatos
+vpn-shared-refund-policy = Regulamento de reimbursamento
 vpn-shared-privacy-notice = Aviso de confidentialitate
 vpn-shared-terms-conditions = Terminos e conditiones
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } es un marca de fabrica registrate de Jason Un. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
