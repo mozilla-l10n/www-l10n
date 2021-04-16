@@ -7,3 +7,22 @@
 
 # Shared
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
+vpn-platforms-shared-cta-headline = Litte wy begjinne
+vpn-platforms-shared-cta = Prizen en beskikberheid
+vpn-platforms-shared-day-guarantee = 30-dagen-jildweromgarânsje
+vpn-platforms-shared-what-youll-get = Wat krije jo mei { -brand-name-mozilla-vpn }:
+vpn-platforms-shared-privacy-headline = Jo privacy is ús belofte
+# Variables:
+#   $devices (number) - number of available devices
+vpn-platforms-shared-feature-item-protection = Beskerming foar maksimaal { $devices } apparaten
+# Variables:
+#   $devices (number) - number of available devices
+vpn-platforms-shared-feature-item-connect = Ferbyn oant { $devices } apparaten
+# Variables:
+#   $countries (number) - number of available countries
+vpn-platforms-shared-feature-item-access = Tagong ta servers yn mear as { $countries } lannen
+# Variables:
+#   $countries (number) - number of available countries
+vpn-platforms-shared-feature-item-strong-servers = Krêftige servers yn mear as { $countries } lannen
+vpn-platforms-shared-feature-item-encryption = Fersifering op apparaatnivo
+vpn-platforms-shared-feature-item-bandwidth = Gjin bânbreedtebeheiningen
