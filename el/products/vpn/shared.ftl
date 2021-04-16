@@ -21,6 +21,7 @@ vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο σ�
 vpn-shared-features-servers = { $servers }+ διακομιστές σε { $countries }+ χώρες
 vpn-shared-features-bandwidth = Χωρίς περιορισμούς εύρους ζώνης
 vpn-shared-features-activity = Χωρίς καταγραφή δραστηριότητας δικτύου
+vpn-shared-features-activity-logs = Χωρίς αρχεία δραστηριότητας, ούτε τώρα ούτε ποτέ
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Πρόσβαση σε διακομιστές { $countries }+ χωρών
@@ -57,6 +58,8 @@ vpn-shared-wireguard-copyright = Το { -brand-name-wireguard } αποτελεί
 vpn-shared-pricing-variable-heading = Επιλέξτε το πρόγραμμα που σας ταιριάζει
 vpn-shared-pricing-variable-sub-heading = Όλα μας τα πακέτα περιλαμβάνουν:
 vpn-shared-pricing-recommended-offer = Προτείνεται
+vpn-shared-pricing-plan-6-month = 6 μηνών
+vpn-shared-pricing-plan-12-month = 12 μηνών
 vpn-shared-pricing-plan-monthly = Μηνιαία
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,6 +80,10 @@ vpn-shared-platform-cta-headline = Ας ξεκινήσουμε
 vpn-shared-platform-cta-button = Προβολή τιμών & διαθεσιμότητας
 vpn-shared-platform-privacy-promise = Το απόρρητό σας είναι η υπόσχεσή μας
 vpn-shared-platform-trust-partner-headline = Σχετικά με τον έμπιστο συνεργάτη μας
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = Το { -brand-name-mozilla-vpn } λειτουργεί σε ένα παγκόσμιο δίκτυο διακομιστών με την υποστήριξη του <a href="{ $policy }">{ -brand-name-mullvad }</a> βάσει του πρωτοκόλλου <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. Το { -brand-name-mullvad } έχει ως προτεραιότητα το απόρρητό σας και δεν καταγράφει τη δραστηριότητά σας.
 vpn-shared-platform-what-youll-get = Το { -brand-name-mozilla-vpn } προσφέρει τα εξής:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }

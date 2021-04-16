@@ -17,3 +17,4 @@ vpn-mac-servers-headline = Πρόσβαση σε διακομιστές από �
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Προστασία { $devices } συσκευών με μία συνδρομή
+vpn-mac-log-headline = Η διαδικτυακή σας δραστηριότητα αφορά μόνο εσάς
