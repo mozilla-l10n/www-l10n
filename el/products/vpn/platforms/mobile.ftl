@@ -9,8 +9,10 @@
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } για κινητές συσκευές (smartphone & tablet)
 # Mobile strings
 vpn-mobile-hero-headline = Προστατέψτε το απόρρητο της κινητής σας συσκευής με το { -brand-name-mozilla-vpn }
+vpn-mobile-wifi-headline = Νιώστε ασφάλεια σε δημόσια Wi-Fi
 vpn-mobile-about-headline = Σχετικά με τη { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Απόρρητο με ένα πάτημα
+vpn-mobile-servers-headline = Συνδεθείτε σε διακομιστές από όλο τον κόσμο
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Προστασία έως και { $devices } συσκευών

@@ -66,6 +66,7 @@ vpn-shared-pricing-total = { $amount } συνολικά
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Ας ξεκινήσουμε
+vpn-shared-platform-cta-button = Προβολή τιμών & διαθεσιμότητας
 vpn-shared-platform-privacy-promise = Το απόρρητό σας είναι η υπόσχεσή μας
 vpn-shared-platform-trust-partner-headline = Σχετικά με τον έμπιστο συνεργάτη μας
 vpn-shared-platform-what-youll-get = Το { -brand-name-mozilla-vpn } προσφέρει τα εξής:
