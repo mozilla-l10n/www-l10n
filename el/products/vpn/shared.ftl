@@ -55,6 +55,7 @@ vpn-shared-pricing-plan-monthly = Μηνιαία
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/μήνα</span>
+vpn-shared-pricing-get-monthly = Απόκτηση μηνιαίου προγράμματος
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Εξοικονομήστε { $percent }%
@@ -70,6 +71,9 @@ vpn-shared-platform-trust-partner-headline = Σχετικά με τον έμπι
 vpn-shared-platform-what-youll-get = Το { -brand-name-mozilla-vpn } προσφέρει τα εξής:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Τι είναι ένα VPN;
+vpn-subnav-faqs = Συχνές ερωτήσεις
+vpn-subnav-get-help = Λήψη βοήθειας
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Υπολογιστές
 vpn-subnav-platform-ios = { -brand-name-ios }
