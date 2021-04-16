@@ -12,6 +12,7 @@ vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10-
 # Windows strings
 vpn-windows-hero-headline = Legyen kapcsolatban és védelem alatt a { -brand-name-windows } 10-es { -brand-name-mozilla-vpn }-nel
 vpn-windows-wifi-headline = Tartsa meg a magánszféráját nyilvános Wi-Fi-n is
+vpn-windows-wifi-copy = A { -brand-name-mozilla-vpn } megvédi az internetkapcsolatát a kíváncsi tekintetek elől, így bárhol folytathatja a dolgát – a repülőtéren, egy kollégiumban vagy egy kávézóban – anélkül, hogy aggódnia kellene az online adatvédelme miatt.
 vpn-windows-about-headline = Az internetes adatvédelem vezetőjétől
 vpn-windows-privacy-headline = Védelem egy gombnyomással
 vpn-windows-servers-headline = Érjen el kiszolgálókat szerte a világon
