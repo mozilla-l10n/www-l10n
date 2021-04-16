@@ -82,5 +82,5 @@ firefox-developer-welcome-to-firefox-browser = Καλώς ορίσατε στο 
 firefox-developer-made-for-developers = Το πρόγραμμα περιήγησης για προγραμματιστές
 firefox-developer-all-the-latest = Όλα τα νέα εργαλεία προγραμματισμού σε beta, καθώς και <strong>πειραματικές λειτουργίες</strong>, όπως το πρόγραμμα επεξεργασίας κονσόλας πολλαπλών γραμμών και η Επιθεώρηση WebSocket.
 firefox-developer-a-separate-profile = Ένα <strong>ξεχωριστό προφίλ και διαδρομή</strong> για εύκολη εκτέλεση μαζί με την κανονική ή την { -brand-name-beta } έκδοση του { -brand-name-firefox }.
-firefox-developer-preferences-tailored = Προτιμήσεις <strong>προσαρμοσμένες για web developers</strong>: Ο εντοπισμός σφαλμάτων προγράμματος περιήγησης και ο απομακρυσμένος εντοπισμός σφαλμάτων είναι ενεργοί από προεπιλογή, όπως και το σκούρο θέμα και το κουμπί γραμμής προγραμματισμού.
+firefox-developer-preferences-tailored = Προτιμήσεις <strong>προσαρμοσμένες για web developers</strong>: Ο έλεγχος σφαλμάτων προγράμματος περιήγησης και ο απομακρυσμένος έλεγχος σφαλμάτων είναι ενεργοί από προεπιλογή, όπως και το σκούρο θέμα και το κουμπί γραμμής προγραμματισμού.
 firefox-developer-congrats-you-now-have = Συγχαρητήρια. Έχετε πλέον το { -brand-name-firefox-browser } { -brand-name-developer-edition }.
