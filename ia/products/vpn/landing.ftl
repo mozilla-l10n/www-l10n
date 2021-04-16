@@ -11,6 +11,8 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Usa { -brand-name-mozilla-vpn } pro protection total del apparato pro tote le applicationes. Con servitores in plus de { $paises } paises, tu pote connecter te a ubique, non importa ubi tu es.
+vpn-landing-hero-sub-heading-v2 = Securitate, fidelitate e velocitate, sur cata apparato, ubique tu va.
+# Obsolete string
 vpn-landing-hero-sub-heading = Securitate sur que tu pote contar. Un nomine digne de tu confidentia.
 vpn-landing-hero-desc = Un rete virtual private ex le productores de { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un tocco pro le confidentialitate
@@ -52,11 +54,36 @@ vpn-landing-faq-competition-question-heading = Como comparar { -brand-name-mozil
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Ben que le VPNs gratuite pare attractive, illos non es dedicate al confidentialitate como { -brand-name-mozilla-vpn } e pote vender o immagazinar tu datos. Altere VPNs pagate non ha le <a href="{ $url }">fama</a> ultra 20ennal de { -brand-name-mozilla } production que antepone le personas e le confidentialitate.
 vpn-landing-faq-compatibility-question-heading = Qual apparatos es compatibile con { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } es compatibile con<a href="{ $mobile }">mobile</a>, tablettas e <a href="{ $desktop }">scriptorio</a> sur:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } es compatibile con:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (solo 64 bit)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-bit solo)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e ultra)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e ultra)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (version 6 e ultra)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 e ultra)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e ultra)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e ultra)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (solo { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-solo)
 vpn-landing-faq-refund-question-heading = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Tu pote haber reimbursate tu moneta intra 30 dies del compra de tu subscription. Continge nos e invia le requesta de reimbursamento pulsante le button “Demandar adjuta” in Parametros sur tu app { -brand-name-mozilla-vpn }.
