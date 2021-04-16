@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } foar { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 vpn-ios-privacy-headline = Ienklikferbining

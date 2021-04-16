@@ -32,3 +32,4 @@ legal-firefox-private-network-terms = Tsjinstbetingsten { -brand-name-firefox-pr
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: oer jo rjochten
 legal-firefox-relay-terms = Tsjinstbetingsten { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Tsjinstbetingsten { -brand-name-mozilla-vpn }
+legal-report-copyright = Ynbreuk op auteursrjocht as hannelsmerk rapportearje

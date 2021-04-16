@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-about-headline = Oer { -brand-name-mozilla }
+vpn-desktop-privacy-headline = Privacy yn ien klik
+vpn-desktop-log-headline = Jo privacy stiet foarop
