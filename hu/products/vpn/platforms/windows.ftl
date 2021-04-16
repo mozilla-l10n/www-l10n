@@ -11,6 +11,7 @@
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10-re
 # Windows strings
 vpn-windows-hero-headline = Legyen kapcsolatban és védelem alatt a { -brand-name-windows } 10-es { -brand-name-mozilla-vpn }-nel
+vpn-windows-wifi-headline = Tartsa meg a magánszféráját nyilvános Wi-Fi-n is
 vpn-windows-about-headline = Az internetes adatvédelem vezetőjétől
 vpn-windows-privacy-headline = Védelem egy gombnyomással
 vpn-windows-servers-headline = Érjen el kiszolgálókat szerte a világon
