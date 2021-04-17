@@ -21,6 +21,15 @@ vpn-mobile-about-copy = Melio note pro nostre { -brand-name-firefox-browser }, {
 vpn-mobile-privacy-headline = Confidentialitate in un sol clic
 vpn-mobile-privacy-copy = Le app { -brand-name-mozilla-vpn } crypta tu connexion a internet e cela le adresse IP sur tu telephono o tabletta mobile per le protocollo avantiate { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Connecte te a servitores in tote le mundo
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Naviga ab Brasil. Joca ab Japon. Reproduce diffusion ab Australia. { -brand-name-mozilla-vpn } te permitte de cambiar le ubication de tu telephono o computator a un del ultra { $servers } servitores in plus de { $countries } paises.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Protege fin a { $devices } apparatos
+vpn-mobile-devices-copy = Tu subscription te forni accesso illimitate a nostre secur servicio VPN sur tu smartphono, tabletta e scriptorio pro { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
 vpn-mobile-speed-headline = Incredibile velocitate, nulle limitationes
 vpn-mobile-speed-copy = Diffunde videos, joca, face compras e naviga a velocitates ultra rapide. { -brand-name-mozilla-vpn } non limita tu largessa de banda e non relenta tu smartphono.
 vpn-mobile-log-headline = Primo tu confidentialitate.
+vpn-mobile-log-copy = A { -brand-name-mozilla }, nos non collige ulle datos re qui tu es e non registra tu activitate online, non per nostre VPN,  ni per ulle nostre altere productos. Proteger tu confidentialitate es un principio fundamental del mission principal de { -brand-name-mozilla }.
