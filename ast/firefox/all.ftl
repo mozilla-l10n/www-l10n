@@ -25,6 +25,7 @@ firefox-all-32-bit-installers = Instaladores de 32 bits
 firefox-all-download-the-firefox = Descarga de { -brand-name-firefox-browser } n'inglés (EE.XX.) y en más de 90 llingües
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Tol mundu merez acceder a internet y la to llingua enxamás ha ser una torga. Poro, per duana de collaboradores dedicaos, facemos que { -brand-name-firefox-browser } tea disponible en más de 90 llingües.
+firefox-all-choose-which-firefox = Escueyi que { -brand-name-firefox-browser } baxar na to llingua
 firefox-all-firefox-privacy-notice = Avisu de privacidá de { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lleer tocante a los restoladores { -brand-name-firefox }
 firefox-all-the-standard-firefox = El restolador { -brand-name-firefox } estándar: rápidu y priváu. Si nun sabes qué { -brand-name-firefox } escoyer, escueyi esti.
