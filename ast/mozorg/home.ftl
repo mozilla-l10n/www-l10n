@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
+home-fast-for-good = Definitivamente rápidu.
 home-common-voice = { -brand-name-common-voice }
 home-extensions = Estensiones
 home-careers = Trabayu

@@ -14,6 +14,8 @@ sub-navigation-firefox-for-desktop = { -brand-name-firefox } pa escritoriu
 sub-navigation-desktop = Escritoriu
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
+sub-navigation-ios-support = Sofitu pa { -brand-name-ios }
+sub-navigation-android-support = Sofitu p'{ -brand-name-android }
 sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-features = Carauterístiques
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :

@@ -7,3 +7,4 @@
 
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-find-it-fast-with-a-smart = Atópalo rápido con una barra de busca intelixente
