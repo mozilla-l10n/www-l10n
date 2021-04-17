@@ -17,6 +17,8 @@ vpn-desktop-maker-of-firefox = Como productor del navigator del Web { -brand-nam
 vpn-desktop-wifi-headline = Senti te secur per le rete wi-fi public
 vpn-desktop-wifi-copy = Nostre VPN protege tu connexion a internet contra piratas informatic e spias, de sorta que tu pote facer compras ab le bar, verificar tu conto bancari in traino e navigar circum tu negotios online ubique sin anxietates re le securitate.
 vpn-desktop-about-headline = A proposito de { -brand-name-mozilla }
+vpn-desktop-about-copy = Melio note pro nostre { -brand-name-firefox-browser }, { -brand-name-mozilla } es un communitate global de usatores, collaboratores e disveloppatores devote a mantener le potentia de Internet in manos del personas. Fundate in 1998, nos es un del pioneros del Web gratis e aperte e il es nostre mission mantener lo in iste condition.
+vpn-desktop-privacy-headline = Confidentialitate in un sol clic
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protege usque { $devices } apparatos
