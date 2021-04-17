@@ -13,3 +13,6 @@ vpn-mac-page-description = Sia sur un scriptorio { -brand-name-mac-short }, port
 # Mac strings
 vpn-mac-hero-headline = Protege tu connexion online con { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
 vpn-mac-ability = Del negotios al tempore libere, tu debe sentir te secur online non importa lo que tu apporta illac. { -brand-name-mozilla-vpn } te adjuta a usar rete wi-fi public plus intelligentemente protegente tu connexion a internet contra piratas informatic e fornitores internet qui pare colliger tu datos. Su confidentialitate per un sol clic es disponibile pro { -brand-name-mac-short } e { -brand-name-ios }, (e { -brand-name-windows } 10, { -brand-name-linux } e { -brand-name-android }), e non ha impacto sur tu velocitate. E, pois que illo es un VPN de { -brand-name-mozilla } con protocollo { -brand-name-wireguard }®, digne de tu confidentia, tu activitate non essera registrate e tu datos remanera tue, sempre.
+vpn-mac-wifi-headline = Senti te secur sur retes wifi incerte
+vpn-mac-wifi-copy = Vade online con tranquillitate quando tu usa rete wifi public gratias a { -brand-name-mozilla-vpn }. Illo protege tu connexion a internet, assi tu datos personal es celate contra piratas informatic e oculos indiscrete.
+vpn-mac-about-headline = De un productor technologic digne de fide
