@@ -9,7 +9,7 @@ navigation-v2-menu = Menú
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pa escritoriu
-navigation-v2-firefox-for-android = { -brand-name-firefox } pa { -brand-name-android }
+navigation-v2-firefox-for-android = { -brand-name-firefox } p'{ -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pa { -brand-name-ios }
 navigation-v2-firefox-blog = Blogue de { -brand-name-firefox }
 
@@ -34,7 +34,7 @@ navigation-v2-more-about-mozilla = Más tocante a { -brand-name-mozilla }
 
 ## Innovation menu
 
-navigation-v2-innovation = innovación
+navigation-v2-innovation = Innovación
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }

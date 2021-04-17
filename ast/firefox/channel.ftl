@@ -18,7 +18,7 @@ firefox-channel-download-and-test-future = Baxa y prueba les versiones en desend
 firefox-channel-experience-cutting-edge-android-updated = Esperimenta les útlimes novedaes nuna versión de prellanzamientu del restolador p'{ -brand-name-android }: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Instálalos agora!
 firefox-channel-experience-cutting-edge-android = Esperimenta les últimes novedaes nuna versión prellanzamientu del restolador p'{ -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } y { -brand-name-firefox-nightly }. ¡Instálalos agora!
 firefox-channel-download-and-test-the-latest-android = Baxa y prueba lo último de { -brand-name-firefox } p'{ -brand-name-android } coles versiones { -brand-name-aurora }, { -brand-name-beta } y { -brand-name-nightly }.
-firefox-channel-try-the-latest-android-features = Prueba lo último de { -brand-name-android } enantes de llanzalo al restu del mundu.
+firefox-channel-try-the-latest-android-features = Prueba lo último d'{ -brand-name-android } enantes de llanzalo al restu del mundu.
 firefox-channel-all-languages-and-platforms = Toles llingües y plataformes
 firefox-channel-all-languages-and-builds = Toles llingües y versiones
 # Variables:
