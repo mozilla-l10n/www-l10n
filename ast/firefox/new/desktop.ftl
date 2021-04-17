@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-works-with-google = Funciona colos productos de { -brand-name-google }
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Imaxe sobre Imaxe
+firefox-desktop-download-screenshots = Captures de pantalla
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
