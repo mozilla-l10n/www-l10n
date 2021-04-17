@@ -24,5 +24,8 @@ vpn-ios-servers-headline = Connecte te a ultra { $servers } servitores de tote l
 # Variables:
 #   $countries (number) - number of available countries
 vpn-ios-servers-copy = Compra ab Suissa. Reproduce diffusion ab Canada. Naviga ab Australia. Con { -brand-name-mozilla-vpn }, tu pote configurar le ubication de { -brand-name-iphone } o { -brand-name-ipad } a un del ultra { $countries } paises, aperiente te a un mundo de excitante contento.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Obtene accesso pro { $devices } apparatos
 vpn-ios-log-headline = Tu datos remane private!
 vpn-ios-log-copy = Alcun fornitores VPN registra tu activitate sur lor servitores. Non solo { -brand-name-mozilla-vpn } non te tracia online, ma nos es vehementemente opponite a illo.
