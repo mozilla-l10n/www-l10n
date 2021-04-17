@@ -26,7 +26,7 @@ firefox-all-download-the-firefox = Descarga de { -brand-name-firefox-browser } n
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Tol mundu merez acceder a internet y la to llingua enxamás ha ser una torga. Poro, per duana de collaboradores dedicaos, facemos que { -brand-name-firefox-browser } tea disponible en más 90 llingües.
 firefox-all-firefox-privacy-notice = Avisu de privacidá de { -brand-name-firefox }
-firefox-all-learn-about-firefox = Lleer tocante a los restoladores de { -brand-name-firefox }
+firefox-all-learn-about-firefox = Lleer tocante a los restoladores { -brand-name-firefox }
 firefox-all-the-standard-firefox = El restolador { -brand-name-firefox } estándar: rápidu y priváu. Si nun sabes qué { -brand-name-firefox } escoyer, escueyi esti.
 firefox-all-get-a-sneak-peek-at = Écha-y un güeyu a les últimes carauterístiques de { -brand-name-firefox } enantes de llanzales.
 firefox-all-arm64-installers = Instaladores d'ARM64/AArch64

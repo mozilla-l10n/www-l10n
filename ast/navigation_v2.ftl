@@ -8,7 +8,10 @@ navigation-v2-menu = Menú
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } pa escritoriu
+navigation-v2-firefox-for-android = { -brand-name-firefox } pa { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pa { -brand-name-ios }
+navigation-v2-firefox-blog = Blogue de { -brand-name-firefox }
 
 ## Products menu
 

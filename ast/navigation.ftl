@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Outdated string
+navigation-firefox-is-a-whole-family = { -brand-name-firefox } ye una familia de productos diseñaos pa curiate en llinia y formate.
 navigation-features = Carauterístiques
 navigation-products = Productos
 navigation-mozilla = { -brand-name-mozilla }
