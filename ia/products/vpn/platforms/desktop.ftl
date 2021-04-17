@@ -33,4 +33,4 @@ vpn-desktop-devices-copy = Tu subscription te forni accesso illimitate a nostre 
 vpn-desktop-speed-headline = Incredibile velocitate, nulle limitationes
 vpn-desktop-speed-copy = Diffunde videos, joca, face compras e naviga a velocitates ultra rapide. { -brand-name-mozilla-vpn } non limita tu largessa de banda e non relenta tu smartphono.
 vpn-desktop-log-headline = Primo tu confidentialitate.
-vpn-desktop-log-copy = A { -brand-name-mozilla }, nos non collige ulle datos re qui tu es e non registra tu activitate online, non per nostre VPN,  ni per tote nostre altere productos.
+vpn-desktop-log-copy = A { -brand-name-mozilla }, nos non collige ulle datos re qui tu es e non registra tu activitate online, non per nostre VPN,  ni per tote nostre altere productos. Proteger tu confidentialitate es un principio fundamental de nostre mission.
