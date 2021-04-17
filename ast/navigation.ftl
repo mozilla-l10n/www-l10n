@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-release-notes = Notes de llazamientu
 navigation-features = Carauterístiques
 navigation-products = Productos
 navigation-mozilla = { -brand-name-mozilla }
