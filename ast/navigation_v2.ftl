@@ -10,7 +10,9 @@ navigation-v2-menu = Menú
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pa escritoriu
 navigation-v2-firefox-for-android = { -brand-name-firefox } p'{ -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Consigui'l restolador personalizable pa preseos con { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pa { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Consigui'l restolador móvil pa { -brand-name-iphone } o { -brand-name-ipad }.
 navigation-v2-firefox-blog = Blogue de { -brand-name-firefox }
 
 ## Products menu

@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } pa { -brand-name-firefox } | Evita que { -brand-name-facebook } escluque los sitios que visites.
+facebook-container-install-and-contain = Instala y aislla
 facebook-container-about-firefox-and-mozilla = Tocante a { -brand-name-firefox } y { -brand-name-mozilla }
