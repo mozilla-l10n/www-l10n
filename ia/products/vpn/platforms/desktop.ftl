@@ -19,6 +19,11 @@ vpn-desktop-wifi-copy = Nostre VPN protege tu connexion a internet contra pirata
 vpn-desktop-about-headline = A proposito de { -brand-name-mozilla }
 vpn-desktop-about-copy = Melio note pro nostre { -brand-name-firefox-browser }, { -brand-name-mozilla } es un communitate global de usatores, collaboratores e disveloppatores devote a mantener le potentia de Internet in manos del personas. Fundate in 1998, nos es un del pioneros del Web gratis e aperte e il es nostre mission mantener lo in iste condition.
 vpn-desktop-privacy-headline = Confidentialitate in un sol clic
+vpn-desktop-privacy-copy = Le app { -brand-name-mozilla-vpn } crypta tu connexion a internet e cela le adresse IP sur tu telephono o tabletta mobile per le protocollo avantiate { -brand-name-wireguard }®.
+vpn-desktop-servers-headline = Connecte te a servitores in tote le mundo
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Naviga ab Brasil. Joca ab Japon. Diffunde del Mexico. { -brand-name-mozilla-vpn } te permitte de cambiar le ubication de tu telephono o computator a un del { $servers } servitores.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protege usque { $devices } apparatos
