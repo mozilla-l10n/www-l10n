@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Manifiestu de { -brand-name-mozilla }
+footer-privacy-hub = Privacy Hub
 footer-privacy = Privacidá
 footer-press = Prensa
 footer-corporate-blog = Blogue corporativu
@@ -59,9 +61,12 @@ footer-product-help = Ayuda colos productos
 footer-support = Sofitu
 footer-file-a-bug = Informar d'un fallu
 footer-community-participation-guidelines = Pautes pa participar
+footer-websites-privacy-notice = Avisu de privacidá del sitiu web
 footer-websites-cookies = Cookies
 footer-websites-legal = Llegal
 footer-language = Llingua
+footer-go = Dir
+footer-donate = Donar
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

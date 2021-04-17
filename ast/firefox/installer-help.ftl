@@ -8,7 +8,11 @@
 
 ## Required
 
+installer-help-page-title = Torgóse la descarga
 
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-need-help = ¿Precises ayuda cola instalación?
