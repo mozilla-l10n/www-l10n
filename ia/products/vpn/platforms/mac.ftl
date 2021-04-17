@@ -16,3 +16,6 @@ vpn-mac-ability = Del negotios al tempore libere, tu debe sentir te secur online
 vpn-mac-wifi-headline = Senti te secur sur retes wifi incerte
 vpn-mac-wifi-copy = Vade online con tranquillitate quando tu usa rete wifi public gratias a { -brand-name-mozilla-vpn }. Illo protege tu connexion a internet, assi tu datos personal es celate contra piratas informatic e oculos indiscrete.
 vpn-mac-about-headline = De un productor technologic digne de fide
+vpn-mac-about-copy = Desde le 1998, le organisation non-lucrative { -brand-name-mozilla } ha essite ducite per su mission a producer un Internet melior. De productos como { -brand-name-firefox-browser } al activitate de propugnation global, le labor de { -brand-name-mozilla } continua a assecurar que Internet es gratuite e aperte a totes.
+vpn-mac-privacy-headline = Confidentialitate a tu punctas de digitos
+vpn-mac-privacy-copy = Con { -brand-name-mozilla-vpn }, tu connexion a internet es cryptate e tu adresse IP es protegite contra piratas informatic e fornitores mitte-naso de internet, gratias al protocollo avantiate { -brand-name-wireguard }®.
