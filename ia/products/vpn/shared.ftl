@@ -79,7 +79,7 @@ vpn-shared-pricing-total = Total { $amount }
 vpn-shared-platform-cta-headline = Que nos comencia
 vpn-shared-platform-cta-button = Vider precio e disponibilitate
 vpn-shared-platform-privacy-promise = Tu confidentialitate es nostre promissa
-vpn-shared-platform-trust-partner-headline = Re nostre digne partner de fide
+vpn-shared-platform-trust-partner-headline = Re nostre partner digne de fide
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/

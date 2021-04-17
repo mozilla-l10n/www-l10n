@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } pro scriptorio (PC & portabile)
 vpn-desktop-about-headline = A proposito de { -brand-name-mozilla }
 # Variables:
 #   $devices (number) - number of available devices
