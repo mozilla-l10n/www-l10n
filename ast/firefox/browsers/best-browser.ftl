@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-a-browser-built-for = Un restolador fechu pa la seguranza.
+best-browser-take-control-of-your = Toma'l control del restolador.
