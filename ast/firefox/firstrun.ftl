@@ -9,4 +9,6 @@ firstrun-firefox-browser = { -brand-name-firefox-browser }
 firstrun-welcome-to-firefox = Afáyate en { -brand-name-firefox }
 firstrun-take-firefox-with-you = Lleva { -brand-name-firefox } contigo
 firstrun-already-using-firefox = ¿Yá uses { -brand-name-firefox }?
-firstrun-sign-in-to-your-account = Anicia sesión na to cuenta y sincronizarémoste los marcadores, contraseñes y otres coses xeniales que guardares nel { -brand-name-firefox } d'otros preseos.
+firstrun-sign-in-to-your-account = Anicia sesión na to cuenta y sincronizámoste los marcadores, les contraseñes y otres coses xeniales que guardares nel { -brand-name-firefox } d'otros preseos.
+firstrun-already-have-an-account = ¿Yá tienes una cuenta?
+firstrun-sign-in = Anicia sesión

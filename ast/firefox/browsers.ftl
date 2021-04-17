@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-enterprise-packages = Paquetes d'{ -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

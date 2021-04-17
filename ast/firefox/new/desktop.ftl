@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-firefox-desktop-download-get-the-browser = Consigui'l restolador que protexe lo que ye importante
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
