@@ -22,4 +22,17 @@ vpn-android-privacy-copy = Usar { -brand-name-mozilla-vpn } pro { -brand-name-an
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = Ultra { $servers } servitores in plus de { $countries } paises
+# Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = Con { -brand-name-mozilla-vpn }, tu pote configurar le ubication de tu telephono { -brand-name-android } a un del ultra { $countries } paises. Il es un amusante e interessante maniera de viver le Web de un nove perspectiva.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = Un subscription pro fin a { $devices } apparatos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy =
+    { -brand-name-mozilla-vpn } te da le possibilitate de connecter { $devices } apparatos differente includite { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }. 
+    Usa lo sur tu smartphono, scriptorio, portabile, tabletta e altero ancora.
 vpn-android-speed-headline = Ultra-rapide con datos illimitate
+vpn-android-speed-copy = Joca online, reproduce in diffusion films e naviga le Web a velocitates ultra-rapide sur tu apparato { -brand-name-android }, toto con largessa de banda. illimitate
+vpn-android-log-headline = Nulle registros. Nulle traciamentos. Nulle invasiones de confidentialitate.
