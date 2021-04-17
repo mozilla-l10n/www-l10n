@@ -10,6 +10,9 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } pro scriptorio (PC & portab
 vpn-desktop-page-description = Velocitate e securitate facile sur tu computator de scriptorio o portabile per { -brand-name-mozilla }, un del nomines plus digne de fide in technologia.
 # Desktop strings
 vpn-desktop-hero-headline = Protege tu connexion a internet con { -brand-name-mozilla-vpn } pro scriptorio
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-ability = { -brand-name-mozilla-vpn } te da le possibilitate de connecter te con confidentialitate e mantener tu informationes secur contra oculos indiscrete e fures de datos quando tu es online. { -brand-name-mozilla-vpn } usa le protocollo avantiate { -brand-name-wireguard }® pro cryptar datos personal sur tu portabile o tu computator de scriptorio, pro maximo { $devices } apparatos. Diffunde spectaculos, joca, compra e naviga in tu vita quotidian online sentiente te secur.
 vpn-desktop-about-headline = A proposito de { -brand-name-mozilla }
 # Variables:
 #   $devices (number) - number of available devices
