@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } pro scriptorio (PC & portabile)
+vpn-desktop-page-description = Velocitate e securitate rapide sur tu computator de scriptorio o portabile, per { -brand-name-mozilla }, un del nomines plus digne de fide in technologia.
 vpn-desktop-about-headline = A proposito de { -brand-name-mozilla }
 # Variables:
 #   $devices (number) - number of available devices
