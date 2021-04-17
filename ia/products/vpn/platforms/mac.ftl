@@ -19,3 +19,12 @@ vpn-mac-about-headline = De un productor technologic digne de fide
 vpn-mac-about-copy = Desde le 1998, le organisation non-lucrative { -brand-name-mozilla } ha essite ducite per su mission a producer un Internet melior. De productos como { -brand-name-firefox-browser } al activitate de propugnation global, le labor de { -brand-name-mozilla } continua a assecurar que Internet es gratuite e aperte a totes.
 vpn-mac-privacy-headline = Confidentialitate a tu punctas de digitos
 vpn-mac-privacy-copy = Con { -brand-name-mozilla-vpn }, tu connexion a internet es cryptate e tu adresse IP es protegite contra piratas informatic e fornitores mitte-naso de internet, gratias al protocollo avantiate { -brand-name-wireguard }®.
+vpn-mac-servers-headline = Accede servitores de tote le mundo
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Stabili le ubication de  tu { -brand-name-mac-short } a tu selection de plus que { $servers } servitores in ultra { $countries } paises. Isto te permitte de vider le novas, facer compras, diffunder e navigar le Web de ubique.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Protege { $devices } apparatos con un subscription
+vpn-mac-devices-copy = Tote tu computatores, tablettas e smartphonos merita esser secur.
