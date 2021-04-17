@@ -13,6 +13,7 @@ what-is-firefox = ¿Qué ye { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = El { -brand-name-firefox-browser } ye l'únicu restolador de los grandes que ta fechu por una organización ensin ánimu de llucru que nun viende los datos personales a empreses publicitaries al empar que t'ayuda a protexer la to información. Llei más tocante a los <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y a <a href="{ $url2 }">otros productos</a>.
 how-do-i = ¿Cómo consigo'l { -brand-name-firefox-browser }?
 
 # Variables:
