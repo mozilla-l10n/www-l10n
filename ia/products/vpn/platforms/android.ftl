@@ -15,4 +15,11 @@ vpn-android-maker-of-firefox = Como productor del navigator del Web { -brand-nam
 vpn-android-wifi-headline = Sta secur online quando tu es in movimento
 vpn-android-wifi-copy = Aliquando un rete wifi public es tu sol option. Con { -brand-name-mozilla-vpn } sur tu apparato { -brand-name-android }, jammais te preoccupa de inserer un contrasigno al aeroporto o de facer un compra online al bar del angulo, justo connecte te con un tocco, pois face tu cosas.
 vpn-android-about-headline = { -brand-name-mozilla } es un nomine digne de tu confidentia
+vpn-android-about-copy = Nos es melio note pro nostre navigator del Web, { -brand-name-firefox }, ma { -brand-name-mozilla } como plus grande organisation, ha un mission fundamental: luctar pro tu derectos online. Isto nos face desde le 1998. Nos es le propugnatores de Internet, dedicate a render secur que illo remane aperte e gratuite respectante le derecto al confidentialitate e le securitate de totes.
+vpn-android-privacy-headline = Un tocca pro connecter se
+vpn-android-privacy-copy = Usar { -brand-name-mozilla-vpn } pro { -brand-name-android } es super simple. Tocca un button e tu connexion es automaticamente cryptate con le protocollo avantiate { -brand-name-wireguard }®. Il es toto!
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-android-servers-headline = Ultra { $servers } servitores in plus de { $countries } paises
 vpn-android-speed-headline = Ultra-rapide con datos illimitate
