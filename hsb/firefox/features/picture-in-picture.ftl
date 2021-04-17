@@ -18,6 +18,7 @@ features-pip-play-any-video-in-your-updated = <strong>Wothrajće widejo</strong>
 features-pip-play-any-video-in-your = <strong>Wothrajće widejo</strong> w swojim wobhladowaku { -brand-name-firefox }, kaž tute z młodźatkami čerwjeneho pandy.
 features-pip-click-the-picture-in-picture-button = <strong>Klikńće na tłóčatko Wobraz-we-wobrazu</strong>, kotrež so nad widejom jewi, a widejo so přeměstni.
 features-pip-cruise-around-to-other = <strong>Křižujće po druhich rajtarkach</strong> abo samo zwonka { -brand-name-firefox }. Widejo na městnje wostanje!
+features-pip-repeat-steps-1-3-to-have = <strong>Wospjetujće kroki 1-3</strong>, zo byšće tak wjele widejow wobraz-we-wobrazu měł kaž chceće.
 features-pip-3-more-ways-to-use-picture = Tři dalše móžnosće, kak da so Wobraz-we-wobrazu wužiwać
 features-pip-3-ways-to-use-picture = Tři móžnosće, kak da so Wobraz-we-wobrazu wužiwać
 features-pip-watch-a-lecture-or-meeting = Přednošk abo zetkanje wobhladać, mjeztym zo něšto notěrujeće
