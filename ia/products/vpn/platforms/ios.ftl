@@ -27,5 +27,10 @@ vpn-ios-servers-copy = Compra ab Suissa. Reproduce diffusion ab Canada. Naviga a
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Obtene accesso pro { $devices } apparatos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Con un subscription, tu pote installar { -brand-name-mozilla-vpn } sur maximo { $devices } apparatos differente, includente { -brand-name-ios } pro { -brand-name-iphone } e { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
+vpn-ios-speed-headline = Velocitates maxime. Datos illimitate.
+vpn-ios-speed-copy = Joca online, reproduce in diffusion tu spectaculos favorite e naviga circum le Web a velocitates ultra-rapide. Nulle anxietate re tu largessa de banda sur { -brand-name-mozilla-vpn }, illo es illimitate.
 vpn-ios-log-headline = Tu datos remane private!
 vpn-ios-log-copy = Alcun fornitores VPN registra tu activitate sur lor servitores. Non solo { -brand-name-mozilla-vpn } non te tracia online, ma nos es vehementemente opponite a illo.
