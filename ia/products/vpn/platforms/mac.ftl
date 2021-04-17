@@ -27,4 +27,8 @@ vpn-mac-servers-copy = Stabili le ubication de  tu { -brand-name-mac-short } a t
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Protege { $devices } apparatos con un subscription
-vpn-mac-devices-copy = Tote tu computatores, tablettas e smartphonos merita esser secur.
+vpn-mac-devices-copy = Tote tu computatores, tablettas e smartphonos merita esser secur. Usa { -brand-name-mozilla-vpn } pro proteger fin a { $devices } apparatos { -brand-name-mac-short } e { -brand-name-ios } (in addition a { -brand-name-windows }, { -brand-name-linux } e { -brand-name-android }).
+vpn-mac-speed-headline = Nulle besonio de sacrificar velocitate
+vpn-mac-speed-copy = Datos illimitate e nulle limitationes de largessa de banda significa que tu pote discoperir le angulos del internet como tu normalmente face, con un extra nivello de securitate.
+vpn-mac-log-headline = Lo que tu face online es negotios tue
+vpn-mac-log-copy = Apprecia le tranquillitate quando tu usa { -brand-name-mozilla-vpn }. Tu datos es cryptate, tu activitate jammais es registrate e tu confidentialitate es sempre protegite. Isto es nostre promissa a te.

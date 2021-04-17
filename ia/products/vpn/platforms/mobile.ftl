@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } pro apparatos mobile (smartphonos e tablettas)
 vpn-mobile-wifi-headline = Senti te secur per le rete wi-fi public
 vpn-mobile-about-headline = A proposito de { -brand-name-mozilla }
 vpn-mobile-about-copy = Melio note pro nostre { -brand-name-firefox-browser }, { -brand-name-mozilla } es un communitate global de usatores, collaboratores e disveloppatores devote a mantener le potentia de Internet in manos del personas. Fundate in 1998, nos es un del pioneros del Web gratis e aperte e il es nostre mission mantener lo in iste condition.
