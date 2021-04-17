@@ -44,6 +44,7 @@ does-firefox-sell = ¿{ -brand-name-firefox } viende los datos personales?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Non, nun lo ficimos y enxamás vamos facelo. Con esto tamién te protexemos de milenta anunciantes que lo faen. Los productos de { -brand-name-firefox } tán diseñaps pa protexer la privacidá. <a href="{ $url }">Eso ye una promesa</a>.
 why-is-firefox = ¿Por qué { -brand-name-firefox } ye tán lentu?
 is-firefox-chromium = ¿{ -brand-name-firefox } básase en { -brand-name-chromium }?
 does-firefox-use = ¿{ -brand-name-firefox } usa { -brand-name-google }?
@@ -57,7 +58,7 @@ does-firefox-have = ¿{ -brand-name-firefox } tien una VPN integrada?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
-who-owns-firefox = ¿Quién ye propietariu de { -brand-name-firefox }?
+who-owns-firefox = ¿Quién ye'l propietariu de { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
