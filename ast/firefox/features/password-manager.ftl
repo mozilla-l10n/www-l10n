@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
-password-manager-no-more-try-again = Acabóse'l «volvi tentalo» mentanto tentes d'acceder dayures. Anicia sesión na to cuenta de { -brand-name-firefox-account } nel teléfonu y les contraseñes van dir contigo. Los tos detalles d'aniciu de sesión van apaecer nun abrir y zarrar de güeyos.

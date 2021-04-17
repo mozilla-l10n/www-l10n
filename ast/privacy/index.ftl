@@ -7,8 +7,6 @@
 
 # HTML page title
 privacy-index-mozilla-privacy = Privacidá de { -brand-name-mozilla }
-privacy-index-contact-mozilla = Contauta con { -brand-name-mozilla }
-privacy-index-if-you-want-to-make-a-correction = Si quies facer correiciones a la to información o tienes dalguna entruga tocante a les nueses polítiques de privacidá, contauta con:
 privacy-index-transparency-report = Informe de tresparencia
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }

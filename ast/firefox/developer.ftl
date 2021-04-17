@@ -22,4 +22,4 @@ firefox-developer-new-tools = Ferramientes nueves
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-innovative-features = Carauterístiques innovadores
 firefox-developer-want-to-be-on-the-cutting-edge = ¿Quies tener lo más nuevo?
-firefox-developer-welcome-to-the-all-new = Afáyate nel { -brand-name-firefox-quantum }: { -brand-name-developer-edition } nuevu
+firefox-developer-welcome-to-the-all-new = Afáyate en { -brand-name-firefox-quantum }: La versión { -brand-name-developer-edition } nueva
