@@ -14,6 +14,7 @@ firefox-privacy-our-products = Los nuesos productos
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Trabayamos duro pa protexer la información personal
 firefox-privacy-hub-no-secrets = Ensin secretos
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protexe la privacidá en cada productu.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox }<strong>protexe</strong> la privacidá en cada productu
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = +2000 rastrexadores bloquiaos automáticamente
 firefox-privacy-hub-protection-beyond-tracking = Proteición acullá del rastrexu
