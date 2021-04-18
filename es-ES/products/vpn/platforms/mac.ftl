@@ -27,3 +27,8 @@ vpn-mac-servers-copy = Cambia la ubicación de tu { -brand-name-mac-short } a m�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Protege { $devices } dispositivos con una suscripción
+vpn-mac-devices-copy = Tu ordenador, tableta y móvil merecen estar seguros. Usa la { -brand-name-mozilla-vpn } para proteger hasta { $devices } dispositivos { -brand-name-mac-short } y { -brand-name-ios } (además de { -brand-name-windows }, { -brand-name-linux } y { -brand-name-android }).
+vpn-mac-speed-headline = No hace falta sacrificar velocidad
+vpn-mac-speed-copy = Datos ilimitados y ninguna restricción de ancho de banda significa que puedes explorar todos los rincones de internet como haces normalmente — con un nivel extra de seguridad.
+vpn-mac-log-headline = Lo que haces en línea es asunto tuyo
+vpn-mac-log-copy = Disfruta de la tranquilidad de usar { -brand-name-mozilla-vpn }. Los datos están cifrados, la actividad nunca se registra y la privacidad siempre está protegida. Ésa es nuestra promesa.
