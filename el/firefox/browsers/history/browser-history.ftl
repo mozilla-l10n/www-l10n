@@ -16,4 +16,4 @@ browser-history-the-browser-wars = Ο πόλεμος των προγραμμάτ
 browser-history-other-competitors = Νέοι ανταγωνιστές εμφανίστηκαν στα τέλη του ‘90 και στις αρχές της δεκαετίας του 2000, όπως το { -brand-name-opera }, το { -brand-name-safari } και το { -brand-name-google } { -brand-name-chrome }. Το { -brand-name-microsoft } { -brand-name-edge } αντικατέστησε το { -brand-name-ie } με την κυκλοφορία των { -brand-name-windows } 10 το 2015.
 browser-history-browsing-the-web = Η περιήγηση στο Web σήμερα
 browser-history-resources = Πόροι
-browser-history-take-control-of = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.
+browser-history-take-control-of = Πάρτε τον έλεγχο του φυλλομετρητή σας.

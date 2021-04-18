@@ -10,6 +10,7 @@ features-adblocker-how-to-stop-seeing-too = Μάθετε πώς να εμποδ�
 features-adblocker-the-ad-blocker-a-secret = Πρόσθετα φραγής – ένα μυστικό όπλο κατά των διαφημίσεων.
 features-adblocker-so-many-ads-so-little = Πολλές διαφημίσεις, λίγη υπομονή… Καιρός να σταματήσει αυτή η τρέλα.
 features-adblocker-the-average-person-sees = Ο μέσος χρήστης βλέπει κατά μέσο όρο 4.000 διαφημίσεις την ημέρα. Εάν πιστεύετε ότι είναι πάρα πολλές, ένα πρόσθετο φραγής διαφημίσεων θα γίνει ο νέος καλύτερος φίλος σας.
+features-adblocker-an-ad-blocker-is-a-piece = Τα πρόσθετα φραγής είναι μέρη λογισμικού που αποκλείουν διαφημίσεις και λειτουργούν με δύο τρόπους. Με τον πρώτο τρόπο, το πρόσθετο φραγής αποκλείει το σήμα από τον διακομιστή του διαφημιστή, με αποτέλεσμα η διαφήμιση να μην εμφανίζεται ποτέ στη σελίδα σας. Με τον δεύτερο τρόπο, αποκλείονται τα μέρη της ιστοσελίδας όπου θα εμφανίζονταν οι διαφημίσεις.
 features-adblocker-find-the-right-ad-blocker = Βρείτε το κατάλληλο πρόσθετο για εσάς
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
@@ -51,4 +52,4 @@ features-adblocker-in-some-cases-an-ad-blocker = Μερικές φορές, η �
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more = Αν θέλετε να μάθετε περισσότερα σχετικά με τη φραγή διαφημίσεων, υπάρχουν εκατοντάδες επεκτάσεις φραγής διαφημίσεων για το { -brand-name-firefox } και άλλα προγράμματα περιήγησης. Αν θέλετε να δοκιμάσετε τα πρόσθετα φραγής διαφημίσεων που χρησιμοποιεί το { -brand-name-firefox }, <a href="{ $url }">κάντε κλικ εδώ για λήψη</a> του προγράμματος περιήγησης που δίνει προτεραιότητα στο απόρρητο.
-features-adblocker-take-control-of-your-browser = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.
+features-adblocker-take-control-of-your-browser = Πάρτε τον έλεγχο του φυλλομετρητή σας.
