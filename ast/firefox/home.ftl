@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = El restolador ye namás el comienzu
+firefox-home-meet-our-family-of = Conoz la nuesa familia de productos
+firefox-home-download-the-browser = Baxar el restolador
+firefox-home-download-the-app = Baxar l'aplicación
 firefox-home-browsers = Restoladores
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }

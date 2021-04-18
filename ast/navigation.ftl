@@ -10,9 +10,13 @@ navigation-android-support = Sofitu p'{ -brand-name-android }
 navigation-firefox-for-fire-tv = { -brand-name-firefox } pa { -brand-name-fire-tv }
 # Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } ye una familia de productos diseñaos pa curiate en llinia y formate.
+navigation-access-all-of-firefox = Accedi a tolo de { -brand-name-firefox } con un aniciu de sesión y aprovecha al maximu cada productu.
 navigation-firefox-blog = Blogue de { -brand-name-firefox }
 navigation-get-the-browser-that-gives = Consigui'l restolador que te da más poder en { -brand-name-linux }, { -brand-name-mac } o { -brand-name-windows }.
+navigation-take-firefox-and-firefox = Lleva { -brand-name-firefox } y { -brand-name-firefox-focus } contigo. P'{ -brand-name-android } ya { -brand-name-ios }.
 navigation-android-extensions = Estensiones p'{ -brand-name-android }
+# Outdated string
+navigation-experience-augmented = Esperimenta la realidá virtual y aumentada con { -brand-name-firefox }.
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } lleva la realidá virtual y aumentada a la web abierta.
