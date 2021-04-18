@@ -7,8 +7,10 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } για { -brand-name-android }
+vpn-android-page-description = Λάβετε προστασία στο { -brand-name-android } τηλέφωνό σας από τη { -brand-name-mozilla }, μία από τις πιο αξιόπιστες επωνυμίες στον χώρο της τεχνολογίας.
 # Mobile strings
 vpn-android-hero-headline = Προστατευτείτε στο διαδίκτυο με το { -brand-name-mozilla-vpn } για { -brand-name-android }
+vpn-android-wifi-headline = Μείνετε ασφαλείς, ακόμα κι όταν βρίσκεστε εν κινήσει
 vpn-android-privacy-headline = Σύνδεση με ένα πάτημα
 vpn-android-privacy-copy = Η χρήση του { -brand-name-mozilla-vpn } για { -brand-name-android } είναι πολύ απλή. Με το πάτημα ενός κουμπιού, η σύνδεσή σας κρυπτογραφείται αυτόματα με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®. Αυτό ήταν!
 # Variables:
@@ -22,4 +24,5 @@ vpn-android-devices-headline = Μία συνδρομή για έως και { $d
 #   $devices (number) - number of available devices
 vpn-android-devices-copy = Το { -brand-name-mozilla-vpn } σάς επιτρέπει να συνδέσετε { $devices } διαφορετικές συσκευές με { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } και { -brand-name-linux }. Χρησιμοποιήστε το στο smartphone, τον υπολογιστή, το tablet σας και όχι μόνο.
 vpn-android-speed-headline = Αστραπιαίες ταχύτητες. Απεριόριστα δεδομένα.
+vpn-android-speed-copy = Παίξτε παιχνίδια, δείτε ταινίες και περιηγηθείτε στο διαδίκτυο με αστραπιαία ταχύτητα στην { -brand-name-android } συσκευή σας — και όλα αυτά, με απεριόριστο εύρος ζώνης.
 vpn-android-log-headline = Χωρίς καταγραφή. Χωρίς παραβίαση του απορρήτου σας.

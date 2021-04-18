@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } για κινητές συσκευές (smartphone & tablet)
+vpn-mobile-page-description = Προστατέψτε το smartphone και το tablet σας με ένα VPN από τη { -brand-name-mozilla }, τον αξιόπιστο πρωτοπόρο του διαδικτυακού απορρήτου.
 # Mobile strings
 vpn-mobile-hero-headline = Προστατέψτε το απόρρητο της κινητής σας συσκευής με το { -brand-name-mozilla-vpn }
 vpn-mobile-wifi-headline = Νιώστε ασφάλεια σε δημόσια Wi-Fi
