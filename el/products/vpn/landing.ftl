@@ -16,6 +16,7 @@ vpn-landing-hero-sub-heading-v2 = Ασφάλεια, αξιοπιστία και 
 vpn-landing-hero-sub-heading = Λάβετε προστασία από μια αξιόπιστη επωνυμία.
 vpn-landing-hero-desc = Ένα εικονικό ιδιωτικό δίκτυο (VPN) από τους δημιουργούς του { -brand-name-firefox }.
 vpn-landing-privacy-heading = Απόρρητο με ένα πάτημα
+vpn-landing-privacy-desc = Περιηγηθείτε, δείτε βίντεο, παίξτε και εργαστείτε, προστατεύοντας το απόρρητό σας. Είτε ταξιδεύετε, είτε χρησιμοποιείτε δημόσια WiFi, είτε θέλετε απλά περισσότερη ασφάλεια, το απόρρητό σας θα είναι πάντα προτεραιότητά μας.
 vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτυο
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
@@ -23,6 +24,9 @@ vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτ�
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = Το { -brand-name-mozilla-vpn } λειτουργεί σε ένα παγκόσμιο δίκτυο διακομιστών με την υποστήριξη του <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Χάρη στο πιο προηγμένο πρωτόκολλο <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, κρυπτογραφούμε τη δραστηριότητα του δικτύου σας και κρύβουμε τη διεύθυνση IP σας. Δεν καταγράφουμε και δεν κοινοποιούμε τα δεδομένα του δικτύου σας.
 vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία που μπορείτε να εμπιστευτείτε
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Για πάνω από 20 έτη, η { -brand-name-mozilla } θέτει πάντα σε προτεραιότητα τον άνθρωπο και μάχεται για το διαδικτυακό απόρρητο. Με την υποστήριξη ενός μη κερδοσκοπικού οργανισμού, δεσμευόμαστε να χτίσουμε ένα καλύτερο και υγιέστερο διαδίκτυο για όλους. Όλα μας τα προϊόντα αποτελούν μέρος της αποστολής μας και ακολουθούν τις <a href="{ $url }">αρχές</a> μας.
 
 ## FAQ section
 
@@ -31,6 +35,8 @@ vpn-langing-faq-uses-question-heading = Τι είναι το VPN και ποιε
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Καθώς οι περισσότερες καθημερινές εργασίες σας πραγματοποιούνται μέσω του διαδικτύου, το απόρρητο και η ασφάλεια έχουν γίνει ακόμα πιο σημαντικά. Ένα VPN (<a href="{ $url }">εικονικό ιδιωτικό δίκτυο</a>) σας βοηθά να δημιουργήσετε μια ασφαλή, ιδιωτική σύνδεση στο διαδίκτυο. Δημιουργεί ένα “τούνελ” μεταξύ της συσκευής σας και του διαδικτύου και σας προστατεύει με δύο τρόπους:
+vpn-landing-faq-uses-conceal = Κρύβοντας την πραγματική διεύθυνση IP σας. Αυτό προστατεύει την ταυτότητά σας και αποκρύπτει την τοποθεσία σας.
+vpn-landing-faq-uses-encrypt = Κρυπτογραφώντας την κίνηση μεταξύ της συσκευής σας και του παρόχου VPN σας, ώστε να μην μπορεί κανένας στο τοπικό σας δίκτυο να την αποκρυπτογραφήσει ή να την τροποποιήσει.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Δείτε <a href="{ $url }">πέντε πραγματικά παραδείγματα</a>, στα οποία θα χρειαστείτε VPN στη συσκευή σας.
