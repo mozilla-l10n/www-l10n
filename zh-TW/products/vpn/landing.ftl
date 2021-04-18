@@ -54,6 +54,10 @@ vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 與�
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = 免費 VPN 看似很吸引人，但他們無法在隱私作出與 { -brand-name-mozilla-vpn } 相同的承諾: { -brand-name-mozilla } 並不會儲存或賣出您的資料。其他的付費 VPN 品牌都沒有 { -brand-name-mozilla } 超過 20 年來把人們與隱私權放在最優先的<a href="{ $url }">實績紀錄</a>。
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 相容於哪些裝置？
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } 已針對<a href="{ $mobile }">行動裝置</a>、平板電腦以及<a href="{ $desktop }">桌上型電腦</a>的各系統推出相容版本：
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 相容於:
 # Variables:

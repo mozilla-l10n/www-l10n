@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-title = 避免遇到網路上的錯誤資訊 - { -brand-name-firefox } 在此協助
+misinformation-page-subheading = 看看有哪些能夠看到更少假訊息，並且更加專注於對您來說最重要資訊的小秘訣
 misinformation-what-is-heading = 錯誤資訊是什麼？假訊息又是什麼？
 misinformation-false-info-heading = 假資訊會出現在哪裡？
 misinformation-spot-online-heading = 要如何確認訊息真假，並且幫助停止傳播？
