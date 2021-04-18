@@ -7,6 +7,12 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Защитите всё своё устройство
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Используйте { -brand-name-mozilla-vpn } для полной защиты устройства и всех приложений. Благодаря серверам в более чем в { $countries } странах вы можете подключаться к Интернету из любого места и к любому месту.
+vpn-landing-hero-sub-heading-v2 = Безопасность, надёжность и скорость — на любом устройстве, куда бы вы не отправились.
+# Obsolete string
 vpn-landing-hero-sub-heading = Безопасность, на которую можно положиться. Имя, которому можно доверять.
 vpn-landing-hero-desc = Виртуальная частная сеть от создателей { -brand-name-firefox }.
 vpn-landing-privacy-heading = Приватность на расстоянии одного нажатия
@@ -21,11 +27,17 @@ vpn-landing-faq-info-question-heading = Какую информацию сохр
 vpn-landing-faq-protected-question-heading = Как защищается моя приватность?
 vpn-landing-faq-competition-question-heading = Чем { -brand-name-mozilla-vpn } отличается от конкурентов?
 vpn-landing-faq-compatibility-question-heading = С какими устройствами совместим { -brand-name-mozilla-vpn }?
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } совместим с:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (только 64-битная версия)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 и выше)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (версия 6 и выше)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 и выше)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (только { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Какова политика возврата средств { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Вы можете вернуть свои деньги в течение 30 дней с момента оплаты подписки. Свяжитесь с нами и отправьте запрос на возврат, нажав кнопку «Получить помощь» в настройках приложения { -brand-name-mozilla-vpn }.
