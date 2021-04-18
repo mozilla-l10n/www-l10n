@@ -75,8 +75,14 @@ vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 y s
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versión 6 y superior)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versión 6 y superior)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 y superior)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 y superior)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (solo { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo para { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolso de { -brand-name-mozilla-vpn }?
