@@ -9,6 +9,7 @@
 vpn-ios-page-title = { -brand-name-mozilla-vpn } για { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 # Mobile strings
 vpn-ios-hero-headline = Προστατευτείτε στο διαδίκτυο με το { -brand-name-mozilla-vpn } για { -brand-name-ios }
+vpn-ios-wifi-headline = Μείνετε ασφαλείς, ακόμα κι όταν βρίσκεστε εν κινήσει
 vpn-ios-about-headline = Γιατί να μας εμπιστευτείτε;
 vpn-ios-privacy-headline = Σύνδεση με 1 πάτημα
 vpn-ios-privacy-copy = Το { -brand-name-mozilla-vpn } είναι πολύ εύκολο στη χρήση. Με το πάτημα ενός κουμπιού, η σύνδεσή σας κρυπτογραφείται και η διεύθυνση IP σας αποκρύπτεται στο { -brand-name-iphone } ή το { -brand-name-ipad } σας, με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®.
@@ -21,6 +22,9 @@ vpn-ios-servers-copy = Αγοράστε από την Ελβετία. Δείτε
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Πρόσβαση για { $devices } συσκευές
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Με μία συνδρομή, μπορείτε να έχετε το { -brand-name-mozilla-vpn } σε έως και { $devices } διαφορετικές συσκευές, όπως συσκευές με { -brand-name-ios } ({ -brand-name-iphone } και { -brand-name-ipad }), { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } και { -brand-name-linux }.
 vpn-ios-speed-headline = Κορυφαίες ταχύτητες. Απεριόριστα δεδομένα.
 vpn-ios-speed-copy = Παίξτε παιχνίδια, δείτε τις αγαπημένες σας σειρές και περιηγηθείτε στο διαδίκτυο με αστραπιαία ταχύτητα. Μην ανησυχείτε για το εύρος ζώνης στο { -brand-name-mozilla-vpn } — είναι απεριόριστο.
 vpn-ios-log-headline = Τα δεδομένα σας παραμένουν ιδιωτικά. Τελεία και παύλα.
