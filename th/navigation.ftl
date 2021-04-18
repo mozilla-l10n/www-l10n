@@ -52,6 +52,7 @@ navigation-download = ดาวน์โหลด
 navigation-extensions = ส่วนขยาย
 navigation-support = การสนับสนุน
 navigation-privacy = ความเป็นส่วนตัว
+navigation-made-with-respect = ทำด้วยความเคารพ
 navigation-close-products-menu = ปิดเมนู “ผลิตภัณฑ์”
 navigation-check-for-breaches = ตรวจสอบการรั่วไหล
 navigation-see-breaches = ดูการรั่วไหล
@@ -60,6 +61,8 @@ navigation-share-large-files-safely = แชร์ไฟล์ขนาดให
 navigation-save-quality-content = บันทึกเนื้อหาคุณภาพและเติมพลังให้ใจของคุณได้ทุกที่
 navigation-sign-up = ลงทะเบียน
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: รวดเร็ว ง่าย และเป็นส่วนตัว
+# Outdated string
+navigation-connected-and-protected = เชื่อมต่อและป้องกัน
 navigation-join = เข้าร่วม
 navigation-close-join-menu = ปิดเมนู “เข้าร่วม”
 navigation-sign-in = ลงชื่อเข้า
@@ -75,6 +78,7 @@ navigation-add-ons = ส่วนเสริม
 navigation-projects = โครงการ
 navigation-close-projects-menu = ปิดเมนูโครงการ
 navigation-donate-your-voice-to = บริจาคเสียงของคุณเพื่อช่วยให้การจดจำเสียงสามารถเข้าถึงได้สำหรับทุกคน
+navigation-machine-learning = เครื่องเรียนรู้
 # Outdated string
 navigation-web-of-things-iot = เว็บของทุกสรรพสิ่ง (IoT)
 # Outdated string
