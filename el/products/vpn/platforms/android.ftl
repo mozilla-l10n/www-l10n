@@ -11,6 +11,7 @@ vpn-android-page-description = Λάβετε προστασία στο { -brand-n
 # Mobile strings
 vpn-android-hero-headline = Προστατευτείτε στο διαδίκτυο με το { -brand-name-mozilla-vpn } για { -brand-name-android }
 vpn-android-wifi-headline = Μείνετε ασφαλείς, ακόμα κι όταν βρίσκεστε εν κινήσει
+vpn-android-about-headline = { -brand-name-mozilla }, μια επωνυμία που μπορείτε να εμπιστευτείτε
 vpn-android-privacy-headline = Σύνδεση με ένα πάτημα
 vpn-android-privacy-copy = Η χρήση του { -brand-name-mozilla-vpn } για { -brand-name-android } είναι πολύ απλή. Με το πάτημα ενός κουμπιού, η σύνδεσή σας κρυπτογραφείται αυτόματα με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®. Αυτό ήταν!
 # Variables:
@@ -26,3 +27,5 @@ vpn-android-devices-copy = Το { -brand-name-mozilla-vpn } σάς επιτρέ�
 vpn-android-speed-headline = Αστραπιαίες ταχύτητες. Απεριόριστα δεδομένα.
 vpn-android-speed-copy = Παίξτε παιχνίδια, δείτε ταινίες και περιηγηθείτε στο διαδίκτυο με αστραπιαία ταχύτητα στην { -brand-name-android } συσκευή σας — και όλα αυτά, με απεριόριστο εύρος ζώνης.
 vpn-android-log-headline = Χωρίς καταγραφή. Χωρίς παραβίαση του απορρήτου σας.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Πολλοί πάροχοι VPN καταγράφουν τη δραστηριότητά σας στους διακομιστές τους. Αυτό δεν ισχύει για εμάς. Το { -brand-name-mozilla-vpn } δεν καταγράφει ποτέ τη δραστηριότητά σας — αυτό έρχεται σε αντίθεση με όσα υποστηρίζει η εταιρεία μας. Το απόρρητο και η ασφάλειά σας είναι πάνω από όλα.
