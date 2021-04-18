@@ -8,6 +8,7 @@
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = Paquetes d'{ -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-join-firefox-and-get-the-most = Xúnite a { -brand-name-firefox } y aprovecha cada productu al máximu, en tolos preseos.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
