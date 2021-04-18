@@ -9,6 +9,9 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } για { -brand-name-windows } 10
+vpn-windows-page-description = Προστατέψτε ολόκληρο το PC σας με ένα εικονικό ιδιωτικό δίκτυο (VPN) από τη { -brand-name-mozilla }, έναν πρωτοπόρο του διαδικτύου που μάχεται για το ψηφιακό σας απόρρητο από το 1998.
+# Windows strings
+vpn-windows-hero-headline = Συνδεθείτε και προστατευθείτε με το { -brand-name-mozilla-vpn } για { -brand-name-windows } 10
 vpn-windows-about-headline = Από τον ηγέτη του διαδικτυακού απορρήτου
 vpn-windows-privacy-headline = Προστασία με το πάτημα ενός κουμπιού
 vpn-windows-privacy-copy = Το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεση σας στο διαδίκτυο και θωρακίζει τη διεύθυνση IP σας από αδιάκριτα βλέμματα στον επιτραπέζιο ή τον φορητό υπολογιστή σας με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®.
