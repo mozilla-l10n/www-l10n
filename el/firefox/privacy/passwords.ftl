@@ -19,14 +19,21 @@ privacy-passwords-use-random-passwords = Να επιλέγετε τυχαίου�
 privacy-passwords-pay-attention-to = Να παρατηρείτε τα σήματα ασφαλείας του προγράμματος περιήγησης και να είστε καχύποπτοι
 privacy-passwords-make-your-answers = Να κάνετε τις απαντήσεις σας σε ερωτήσεις ασφαλείας εξίσου ισχυρές με τους κωδικούς πρόσβασής σας
 privacy-passwords-use-a-password = Να χρησιμοποιείτε ένα πρόγραμμα διαχείρισης κωδικών πρόσβασης για εύκολη δημιουργία και απομνημόνευση κωδικών πρόσβασης
-privacy-passwords-use-twofactor-authentication = Να χρησιμοποιείτε “έλεγχο ταυτότητας δύο παραγόντων” όπου μπορείτε
+privacy-passwords-use-twofactor-authentication = Να χρησιμοποιείτε τον “έλεγχο ταυτότητας δύο παραγόντων” όπου μπορείτε
 privacy-passwords-its-hard-out = Ο κόσμος είναι σκληρός για έναν κωδικό πρόσβασης
 privacy-passwords-look-for-the = Αναζητήστε το λουκέτο στο πρόγραμμα περιήγησής σας
+privacy-passwords-a-closed-lock = Ένα κλειδωμένο λουκέτο εμφανίζεται πριν το URL της ιστοσελίδας στη γραμμή διευθύνσεων όλων των γνωστών προγραμμάτων περιήγησης.
 privacy-passwords-a-padlock-with = Ένα λουκέτο με μια γραμμή υποδεικνύει ότι η σύνδεση δεν είναι ασφαλής.
 privacy-passwords-firefox-will = Το Firefox σάς προειδοποιεί αν μια ιστοσελίδα είναι γνωστή για ηλεκτρονικό ψάρεμα (phishing).
-privacy-passwords-strength-in-diversity = Η δύναμη της πολυπολιτισμικότητας
+privacy-passwords-strength-in-diversity = Η δύναμη της διαφορετικότητας
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-firefox-monitor = Χρησιμοποιήστε το <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> για να παρακολουθείτε τις διευθύνσεις email των λογαριασμών σας. Αν το email σας εμφανιστεί σε μια γνωστή παραβίαση δεδομένων, θα λάβετε μια ειδοποίηση και οδηγίες για την προστασία του επηρεασμένου λογαριασμού.
 privacy-passwords-security-questions-my = Ερωτήσεις ασφαλείας: Το πατρικό όνομα της μητέρας μου είναι “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Βοήθεια από τη διαχείριση κωδικών πρόσβασης
+#   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged = Όταν συνδέεστε στο { -brand-name-firefox } με τον λογαριασμό { -brand-name-firefox } σας, μπορείτε να κάνετε συγχρονισμό με όλες τις συσκευές σας και να προσπελάσετε τους κωδικούς πρόσβασής σας από το { -brand-name-firefox } για κινητές συσκευές. Μάθετε περισσότερα σχετικά με τη <a { $url_sumo-manager }>χρήση της ενσωματωμένης διαχείρισης κωδικών πρόσβασης</a>.
 privacy-passwords-twofactor-authentication-2fa = Ταυτοποίηση δύο παραγόντων (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ο λογαριασμός { -brand-name-firefox } σας, για παράδειγμα, μπορεί να προστατευθεί με 2FA, <a { $url_sumo_2fa }>για το οποίο μπορείτε να ενημερωθείτε εδώ</a>.
+#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+privacy-passwords-2fa-provides-much = Το 2FA παρέχει πολύ καλύτερη ασφάλεια από τους απλούς κωδικούς πρόσβασης, αλλά δεν υποστηρίζεται από όλες τις ιστοσελίδες. Μπορείτε να βρείτε μια λίστα με ιστοσελίδες που υποστηρίζουν το 2FA στο <a { $url_2fa }>https://twofactorauth.org</a>, καθώς και μια λίστα με ιστοσελίδες που δεν το υποστηρίζουν και τρόπους με τους οποίους μπορείτε να ζητήσετε να προσθέσουν αυτή τη λειτουργία.
