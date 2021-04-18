@@ -10,11 +10,16 @@ navigation-android-support = Sofitu p'{ -brand-name-android }
 navigation-firefox-for-fire-tv = { -brand-name-firefox } pa { -brand-name-fire-tv }
 # Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } ye una familia de productos diseñaos pa curiate en llinia y formate.
+navigation-firefox-blog = Blogue de { -brand-name-firefox }
 navigation-get-the-browser-that-gives = Consigui'l restolador que te da más poder en { -brand-name-linux }, { -brand-name-mac } o { -brand-name-windows }.
 navigation-android-extensions = Estensiones p'{ -brand-name-android }
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } lleva la realidá virtual y aumentada a la web abierta.
+# Outdated string
+navigation-mozilla-brings-firefox = { -brand-name-mozilla } lleva { -brand-name-firefox } a la realidá virtual y aumentada.
 navigation-firefox-built-just-for = { -brand-name-firefox } fechu pa desendolcadores.
+navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-menu = Menú
 navigation-browsers = Restoladores
 navigation-extensions = Estensiones
@@ -32,6 +37,7 @@ navigation-leadership = Lideralgu
 navigation-mission = Misión
 navigation-press-center = Centru de prensa
 navigation-contact = Contautu
+navigation-get-involved = Andechar
 navigation-events = Eventos
 navigation-your-right-to-security = El derechu a la seguranza y privacidá n'internet ye fundamental, enxamás opcional.
 navigation-features = Carauterístiques
