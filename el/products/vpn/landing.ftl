@@ -36,7 +36,14 @@ vpn-landing-faq-info-question-heading = Ποιες πληροφορίες δια
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Δεν καταγράφουμε, παρακολουθούμε ή κοινοποιούμε καμία διαδικτυακή σας δραστηριότητα. Τηρούμε αυστηρά τις { -brand-name-mozilla }’s <a href="{ $url }">Αρχές απορρήτου δεδομένων</a> και συλλέγουμε μόνο τα δεδομένα που απαιτούνται για τη λειτουργία του VPN και τη βελτίωση του προϊόντος.
 vpn-landing-faq-protected-question-heading = Πώς προστατεύεται το απόρρητό μου;
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Το πρωτόκολλο <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® κρυπτογραφεί την κίνηση του δικτύου σας, προστατεύοντας όλα τα ιδιωτικά σας δεδομένα. Σε σύγκριση με τα υπάρχοντα πρωτόκολλα VPN, ο κώδικας του { -brand-name-wireguard } ελέγχεται ευκολότερα από τους αναλυτές ασφαλείας—καθιστώντας το την πιο ασφαλή επιλογή για VPN. Επιπλέον, η διαδικτυακή σας δραστηριότητα παραμένει ανώνυμη επειδή δεν καταγράφουμε ποτέ, ούτε κοινοποιούμε τα δεδομένα του δικτύου σας.
 vpn-landing-faq-competition-question-heading = Πώς συγκρίνεται το { -brand-name-mozilla-vpn } με τον ανταγωνισμό;
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Αν και τα δωρεάν VPN φαίνονται ελκυστικά, δεν αναλαμβάνουν τις ίδιες δεσμεύσεις απορρήτου με το { -brand-name-mozilla-vpn } και ίσως πουλήσουν ή αποθηκεύσουν τα δεδομένα σας. Τα άλλα επί πληρωμή VPN δεν έχουν την <a href="{ $url }">ιστορία</a> 20+ ετών της { -brand-name-mozilla } στην ανάπτυξη προϊόντων που θέτουν σε προτεραιότητα τον άνθρωπο και το απόρρητο.
 vpn-landing-faq-compatibility-question-heading = Με ποιες συσκευές είναι συμβατό το { -brand-name-mozilla-vpn };
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -70,6 +77,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (Μόνο για { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
+vpn-landing-faq-refund-question-desc = Μπορείτε να πάρετε τα χρήματά σας πίσω εντός 30 ημερών από την αγορά της συνδρομής σας. Επικοινωνήστε μαζί μας και υποβάλλετε ένα αίτημα επιστροφής χρημάτων πατώντας το κουμπί “Λήψη βοήθειας” στις Ρυθμίσεις της εφαρμογής { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζομαι τη συνδρομή μου;
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
