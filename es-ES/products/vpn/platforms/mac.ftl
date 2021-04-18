@@ -14,3 +14,16 @@ vpn-mac-page-description = Ya sea en un ordenador de sobremesa con { -brand-name
 vpn-mac-hero-headline = Protege tu conexión en línea con { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
 vpn-mac-ability = Deberías sentirte seguro en línea sin importar lo que te lleve allí, sea ocio o trabajo. La { -brand-name-mozilla-vpn } te ayuda a usar el Wi-Fi público de forma más inteligente protegiendo tu conexión a Internet de los hackers y proveedores de Internet que buscan recopilar tus datos. Su privacidad con un solo clic está disponible para { -brand-name-mac-short } y { -brand-name-ios }, (así como { -brand-name-windows } 10, { -brand-name-linux } y { -brand-name-android }), y no afecta a tu velocidad. Y, como es una VPN de { -brand-name-mozilla } con el protocolo { -brand-name-wireguard }®, puedes confiar en que tu actividad no se registrará y tus datos seguirán siendo tuyos, siempre.
 vpn-mac-wifi-headline = Siéntete seguro en redes wifi poco fiables
+vpn-mac-wifi-copy = Conéctate con tranquilidad cuando estás en wifi público gracias a { -brand-name-mozilla-vpn } que protege tu conexión a internet para que tus datos personales estén ocultos de hackers y ojos indiscretos.
+vpn-mac-about-headline = De un fabricante de tecnología de confianza
+vpn-mac-about-copy = Desde 1998 { -brand-name-mozilla }, sin ánimo de lucro, ha sido guiada por su misión de construir una mejor internet. Desde productos como { -brand-name-firefox-browser } hasta activismo en todo el mundo, el trabajo de { -brand-name-mozilla } continúa asegurando que internet sea libre y abierta para todos.
+vpn-mac-privacy-headline = Privacidad en la punta de tus dedos
+vpn-mac-privacy-copy = Con { -brand-name-mozilla-vpn }, tu conexión a internet estará cifrada y la dirección IP estará protegida de hackers y proveedores de internet entrometidos gracias al protocolo avanzado { -brand-name-wireguard }®.
+vpn-mac-servers-headline = Accede a servidores en todo el mundo
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Cambia la ubicación de tu { -brand-name-mac-short } a más de { $servers } servidores en más de { $countries } países. Esto permite leer noticias, comprar, ver vídeos y navegar por la web desde cualquier lugar.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Protege { $devices } dispositivos con una suscripción
