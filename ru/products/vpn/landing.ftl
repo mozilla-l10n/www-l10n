@@ -16,8 +16,17 @@ vpn-landing-hero-sub-heading-v2 = Безопасность, надёжность
 vpn-landing-hero-sub-heading = Безопасность, на которую можно положиться. Имя, которому можно доверять.
 vpn-landing-hero-desc = Виртуальная частная сеть от создателей { -brand-name-firefox }.
 vpn-landing-privacy-heading = Приватность на расстоянии одного нажатия
+vpn-landing-privacy-desc = Просматривайте страницы, транслируйте, играйте и работайте, сохраняя при этом свою приватность в Интернете. Независимо от того, путешествуете ли вы, пользуетесь ли вы общедоступным Wi-Fi или просто ищете дополнительную безопасность в Интернете, мы всегда будем ставить вашу приватность на первое место.
 vpn-landing-fast-secure-heading = Быстрый и безопасный Интернет
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } работает в глобальной сети серверов на базе <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Используя самый продвинутый протокол <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, мы шифруем вашу сетевую активность и скрываем ваш IP-адрес. Мы никогда не записываем, не отслеживаем и не передаем ваши сетевые данные.
 vpn-landing-brand-trust-heading = VPN от бренда, которому можно доверять
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = За более чем 20 лет работы { -brand-name-mozilla } всегда ставила людей на первое место и боролась за приватность в Интернете. При поддержке некоммерческой организации мы стремимся создать лучший и здоровый Интернет для всех и каждого. Всё, что мы делаем, является частью нашей миссии и следует нашим <a href="{ $url }">принципам</a>.
 
 ## FAQ section
 
