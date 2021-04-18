@@ -29,6 +29,9 @@ vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία πο
 vpn-landing-faq-heading = Συχνές ερωτήσεις
 vpn-langing-faq-uses-question-heading = Τι είναι το VPN και ποιες οι χρήσεις του;
 # Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Καθώς οι περισσότερες καθημερινές εργασίες σας πραγματοποιούνται μέσω του διαδικτύου, το απόρρητο και η ασφάλεια έχουν γίνει ακόμα πιο σημαντικά. Ένα VPN (<a href="{ $url }">εικονικό ιδιωτικό δίκτυο</a>) σας βοηθά να δημιουργήσετε μια ασφαλή, ιδιωτική σύνδεση στο διαδίκτυο. Δημιουργεί ένα “τούνελ” μεταξύ της συσκευής σας και του διαδικτύου και σας προστατεύει με δύο τρόπους:
+# Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Δείτε <a href="{ $url }">πέντε πραγματικά παραδείγματα</a>, στα οποία θα χρειαστείτε VPN στη συσκευή σας.
 vpn-landing-faq-info-question-heading = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
