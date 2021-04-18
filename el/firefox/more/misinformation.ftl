@@ -10,9 +10,16 @@ misinformation-page-desc = Η παραπληροφόρηση είναι ενοχ
 misinformation-page-subheading = Δείτε τις συμβουλές μας για λιγότερη παραπληροφόρηση και εστίαση σε ό,τι είναι σημαντικό για εσάς
 misinformation-what-is-heading = Τι είναι οι ψευδείς και παραπλανητικές πληροφορίες;
 misinformation-false-info-heading = Πού εμφανίζονται οι ψευδείς πληροφορίες;
+misinformation-spot-online-heading = Μάθετε πώς να εντοπίζετε ψευδείς πληροφορίες και να διακόψετε τη διάδοσή τους
 misinformation-look-at-url = Παρατηρήστε το URL και/ή την πηγή.
+misinformation-known-to-br-credible = Είναι γνωστά για την αξιοπιστία τους; Αν δεν είστε σίγουροι, προσπαθήστε να μάθετε περισσότερα σχετικά με την πηγή και τη φήμη της στο διαδίκτυο.
 misinformation-overly-sensational = Είναι ο τίτλος υπερβολικά εντυπωσιακός;
+misinformation-content-up-to-date = Είναι ενημερωμένο το περιεχόμενο;
+misinformation-outdated-information = Οι παλαιές πληροφορίες δεν σκοπεύουν απαραίτητα να παραπληροφορήσουν, αλλά ενδέχεται να μην είναι έγκυρες πλέον.
+misinformation-credible-publication = Συνέταξε ο δημιουργός άλλα άρθρα ή αναρτήσεις, ιδανικά σε αξιόπιστες δημοσιεύσεις;
+misinformation-authors-name = Αν βρίσκετε το όνομα του συγγραφέα μόνο σε αμφισβητήσιμες ιστοσελίδες, δεν θα πρέπει να δώσετε ιδιαίτερη σημασία στα λεγόμενά του.
 misinformation-images-captions = Ταιριάζουν οι εικόνες και οι λεζάντες;
+misinformation-how-firefox-helps-heading = Πώς το { -brand-name-firefox } σάς βοηθά να αποφύγετε την παραπληροφόρηση
 misinformation-firefox-keeps-trackers-heading = Το { -brand-name-firefox } περιορίζει τους ιχνηλάτες:
 misinformation-social-media-clean-heading = Το { -brand-name-firefox } διατηρεί καθαρές τις ροές κοινωνικών δικτύων σας:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
