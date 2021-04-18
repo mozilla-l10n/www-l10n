@@ -32,20 +32,57 @@ vpn-landing-brand-trust-desc = За более чем 20 лет работы { -
 
 vpn-landing-faq-heading = ЧЗВ
 vpn-langing-faq-uses-question-heading = Что такое VPN и для чего он используется?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Поскольку все большая часть повседневной жизни происходит в Интернете, приватность и безопасность в нём становятся всё более важными. VPN, <a href="{ $url }">Виртуальная частная сеть</a>, может помочь вам создать безопасное, приватное подключение к Интернету. Он работает, создавая «туннель» между вашим устройством и Интернетом в целом, и защищает вас двумя важными способами:
+vpn-landing-faq-uses-conceal = Скрывая ваш настоящий IP-адрес. Это защищает вашу личность и скрывает ваше местоположение.
+vpn-landing-faq-uses-encrypt = Шифруя трафик между вами и вашим провайдером VPN, чтобы никто в вашей локальной сети не мог его расшифровать или изменить.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Ознакомьтесь с <a href="{ $url }">пятью примерами из реальной жизни</a>, в которых вы захотите использовать VPN на своём устройстве.
 vpn-landing-faq-info-question-heading = Какую информацию сохраняет { -brand-name-mozilla-vpn }?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Мы не записываем, не отслеживаем и не передаем информацию о вашей сетевой активности. Мы строго соблюдаем <a href="{ $url }">Принципы конфиденциальности данных</a> { -brand-name-mozilla }, и собираем только те данные, которые необходимы для обеспечения работоспособности VPN и улучшения продукта с течением времени.
 vpn-landing-faq-protected-question-heading = Как защищается моя приватность?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Протокол <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® шифрует ваш сетевой трафик, защищая всю вашу личную информацию. По сравнению с существующими протоколами VPN, облегченный код { -brand-name-wireguard } легче анализировать и проверять аналитикам по безопасности, что делает его более безопасным вариантом для VPN. Кроме того, ваши действия в Интернете остаются анонимными, потому что мы никогда не записываем, не отслеживаем и не передаем ваши сетевые данные.
 vpn-landing-faq-competition-question-heading = Чем { -brand-name-mozilla-vpn } отличается от конкурентов?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Хотя бесплатные VPN кажутся привлекательными, они не принимают на себя таких же обязательств по обеспечению приватности, как { -brand-name-mozilla-vpn }, и могут продавать или хранить ваши данные. Другие платные VPN-сервисы не имеют более чем 20-летнего <a href="{ $url }">опыта</a> { -brand-name-mozilla } по созданию продуктов, которые ставят людей и приватность на первое место.
 vpn-landing-faq-compatibility-question-heading = С какими устройствами совместим { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } совместим с <a href="{ $mobile }">мобильными устройствами</a>, планшетами и <a href="{ $desktop }">настольными компьютерами</a> на:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } совместим с:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (только 64-битная версия)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (только 64-битная версия)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 и выше)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 и выше)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (версия 6 и выше)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (версия 6 и выше)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 и выше)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 и выше)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (только { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (только { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Какова политика возврата средств { -brand-name-mozilla-vpn }?
@@ -55,6 +92,8 @@ vpn-landing-faq-manage-subscription-question-heading = Как я могу упр
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Если вы уже подписаны на { -brand-name-mozilla-vpn }, вы можете сменить свой тариф или <a href="{ $url }">управлять подпиской</a> в любое время.
 vpn-landing-faq-link = Посмотреть больше вопросов
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Ой! Похоже, вы ещё не подписались.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
