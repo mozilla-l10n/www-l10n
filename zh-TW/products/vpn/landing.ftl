@@ -54,11 +54,32 @@ vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 與�
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = 免費 VPN 看似很吸引人，但他們無法在隱私作出與 { -brand-name-mozilla-vpn } 相同的承諾: { -brand-name-mozilla } 並不會儲存或賣出您的資料。其他的付費 VPN 品牌都沒有 { -brand-name-mozilla } 超過 20 年來把人們與隱私權放在最優先的<a href="{ $url }">實績紀錄</a>。
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 相容於哪些裝置？
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 相容於:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10（僅 64 位元版本）
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（僅 64 位元）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a>（10.15 或更新版）
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac }（10.15 或更新版本）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a>（第 6 版或更新版本）
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android }（第 6 版或更新）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a>（13.0 或更新版本）
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios }（13.0 或更新版本）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a>（僅 { -brand-name-ubuntu }）
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（僅 { -brand-name-ubuntu } 平台）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策是什麼？
 vpn-landing-faq-refund-question-desc = 您可以在開始訂閱後 30 天內要求退費。若需退費，請點擊 { -brand-name-mozilla-vpn } 應用程式當中的「選項 -> 取得幫助」送出退費要求。
