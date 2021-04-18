@@ -12,9 +12,16 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Ολική προστασ�
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Χρησιμοποιήστε το { -brand-name-mozilla-vpn } για πλήρη προστασία όλων των εφαρμογών της συσκευής σας. Με διακομιστές σε { $countries }+ χώρες, μπορείτε να συνδεθείτε παντού, από παντού.
 vpn-landing-hero-sub-heading-v2 = Ασφάλεια, αξιοπιστία και ταχύτητα — σε κάθε συσκευή, όπου κι αν πάτε.
+# Obsolete string
+vpn-landing-hero-sub-heading = Λάβετε προστασία από μια αξιόπιστη επωνυμία.
 vpn-landing-hero-desc = Ένα εικονικό ιδιωτικό δίκτυο (VPN) από τους δημιουργούς του { -brand-name-firefox }.
 vpn-landing-privacy-heading = Απόρρητο με ένα πάτημα
 vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτυο
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = Το { -brand-name-mozilla-vpn } λειτουργεί σε ένα παγκόσμιο δίκτυο διακομιστών με την υποστήριξη του <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Χάρη στο πιο προηγμένο πρωτόκολλο <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, κρυπτογραφούμε τη δραστηριότητα του δικτύου σας και κρύβουμε τη διεύθυνση IP σας. Δεν καταγράφουμε και δεν κοινοποιούμε τα δεδομένα του δικτύου σας.
 vpn-landing-brand-trust-heading = Ένα VPN από μια επωνυμία που μπορείτε να εμπιστευτείτε
 
 ## FAQ section
