@@ -25,6 +25,7 @@ compare-opera-we-make-firefox-for-people = Αναπτύσσουμε το { -bran
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-opera-theres-no-debate-that-opera = Δεν υπάρχει αμφιβολία ότι το { -brand-name-opera } είναι ένα πρόγραμμα περιήγησης με πολλά χαρακτηριστικά, ένα απλό περιβάλλον εργασίας και ισχυρές επιλογές προσαρμογής. Επειδή το { -brand-name-opera } βασίζεται στο { -brand-name-chromium }, μπορεί να εκμεταλλευτεί την τεράστια βιβλιοθήκη επεκτάσεων του { -brand-name-google } { -brand-name-chrome }. Το { -brand-name-firefox } διαθέτει επίσης μια μεγάλη <a { $attrs }>βιβλιοθήκη επεκτάσεων</a>, αν και δεν είναι τόσο μεγάλη όσο του { -brand-name-chrome }.
+compare-opera-like-firefox-opera-delivers = Όπως και το { -brand-name-firefox }, το { -brand-name-opera } χρησιμοποιεί κυλιόμενες καρτέλες, που σημαίνει ότι όταν ανοίγετε περισσότερες καρτέλες από όσες χωρούν στην οθόνη, αυτές μεταφέρονται εκτός της οθόνης αντί να συρρικνώνονται συνεχώς. Επίσης, τόσο το { -brand-name-firefox } όσο και το { -brand-name-opera } διαθέτουν ένα εργαλείο στιγμιότυπων για να καταγράφετε την οθόνη σας ή μέρος της σελίδας. Ωστόσο, το εργαλείο του { -brand-name-opera } δεν προσφέρει τη δυνατότητα δημιουργίας στιγμιότυπου για ολόκληρη την ιστοσελίδα, παρά μόνο για το ορατό μέρος της.
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 # "Facebook Messenger" is a brand name.

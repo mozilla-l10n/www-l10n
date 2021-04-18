@@ -8,7 +8,7 @@
 # Shared
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = Ας ξεκινήσουμε
-vpn-platforms-shared-day-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
+vpn-platforms-shared-day-guarantee = Εγγύηση επιστροφής χρημάτων εντός 30 ημερών
 vpn-platforms-shared-what-youll-get = Το { -brand-name-mozilla-vpn } προσφέρει τα εξής:
 # Variables:
 #   $devices (number) - number of available devices
