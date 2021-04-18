@@ -14,6 +14,7 @@ navigation-get-the-browser-that-gives = Consigui'l restolador que te da más pod
 navigation-android-extensions = Estensiones p'{ -brand-name-android }
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-firefox-built-just-for = { -brand-name-firefox } fechu pa desendolcadores.
 navigation-menu = Menú
 navigation-browsers = Restoladores
 navigation-extensions = Estensiones
