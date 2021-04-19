@@ -2,23 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = متصفّح فَيَرفُكس: استهلاك أقل للذّاكرة، تصفّح أسرع
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: استخدم ذاكرة أقل، احصل على سرعة أكبر
+
 # HTML page description
-features-memory-is-your-computer-slow-your = هل حاسوبك بطيء؟ قد يكون السّبب هو استهلاك مُتصفّحك للكثير من الذّاكرة. انتقل إلى فَيَرفُكس اليوم لتحصل على سرعة أكبر.
-features-memory-less-memory-usage-than-chrome = استخدام أقل للذّاكرة مُقارنة مع كروم
-features-memory-if-your-web-browser-uses = هل يستهلك مُتصفّحك الكثير من الذّاكرة؟ انتقل إلى فَيَرفُكس.
-features-memory-speed-up-your-computer = اجعل حاسوبك أسرع
-features-memory-every-computer-program-you = كل برنامج تُشغّله على حاسوبك سيشغل حيّزًا من الذّاكرة. لما تُستهلك نسبة كبيرة من الذّاكرة يُصبح حاسوبك بطيـــــــــــــئًا جدًااااا. يهدف فَيَرفُكس إلى تحقيق التّوازن، حيث يستهلك ما يكفي من الذّاكرة ليضمن لك تصفّحًا سلِسًا، مما يوفّر ما يكفي من الذّاكرة ليبقى حاسبوك سريعًا.
-features-memory-stop-running-out-of-memory = لا مشاكل مع استهلاك الذّاكرة بعد اليوم
+features-memory-is-your-computer-slow-your = هل سئمت من بطء جهاز الكمبيوتر؟ ربما يكون سبب ذلك أن متصفحك يستخدم مساحة كبيرة من الذاكرة. استخدم { -brand-name-firefox } الآن لتحصل على سرعة أعلى.
+features-memory-less-memory-usage-than-chrome = استخدام ذاكرة أقل من متصفح { -brand-name-chrome }
+features-memory-if-your-web-browser-uses = إذا كان متصفحك يستخدم ذاكرة كبيرة، استخدم متصفح { -brand-name-firefox }.
+features-memory-speed-up-your-computer = اجعل الكمبيوتر أسرع
+features-memory-every-computer-program-you = إن كل برنامج تُشغّله على الكمبيوتر يَشغل مساحة من الذاكرة. وكلما شُغِلت مساحة كبيرة من الذّاكرة، يُصبح الكمبيوتر بطيئًا جدًا. ولذلك يهدف مُتصفح { -brand-name-firefox } إلى تحقيق التوازن بين هاتين المعادلتين — عن طريق استخدام مساحة ذاكرة تضمن لك التصفح بسلاسة وترك مساحة ذاكرة كبيرة تضمن الحفاظ على سرعة استجابة الكمبيوتر.
+features-memory-stop-running-out-of-memory = لا نفاد للذاكرة بعد اليوم
+
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
-features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">يستهلك كروم 1.77 مرة ما يستهلكه فَيَرفُكس من الذّاكرة</a>. إن كان جهازك يحتوي على ذاكرة محدودة فإن ذلك من شأنه أن يجعله أبطأ من ذي قبل. استخدام أحدث نسخة من فَيَرفُكس مُتعدّد العمليات سيسمح لك بتحرير ذاكرة إضافية لتستخدمها مع باقي برامجك المُفضّلة.
-features-memory-browse-faster-privately = تصفّح بشكل أسرع، وبكل خصوصيّة
+features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">يستخدم متصفح { -brand-name-chrome } مساحة ذاكرة تزيد عن المساحة التي يستخدمها متصفح { -brand-name-firefox } بما يصل إلى 1.77.</a> وإذا كانت ذاكرة الكمبيوتر منخفضة بالفعل، قد يتسبب ذلك في حدوث بطء كبير. ولذلك قد يُؤدي استخدام الإصدار الأخير من متصفح { -brand-name-firefox } متعدد الميزات إلى توفير المزيد من الذاكرة لتشغيل برامجك المفضلة.
+features-memory-browse-faster-privately = تصفَّح الإنترنت بشكل أسرع، وأكثر خصوصيّة
+
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
 # "Decluttering" means reducing clutter
-features-memory-explore-the-web-faster-with = تصفّح الإنترنت بشكل أسرع مع <a href="{ $url }">وضع التّصفّح الخاص</a>. نظام التّصفح الخاص على فَيَرفُكس هو الوحيد الذي يتضمّن حماية من الإعلانات التي تتعقّبك ويمنعها من التّحميل على الصّفحات التي تزورها، مما يعني بأنّه سيتم استعراض صفحاتك بشكل أسرع.
+features-memory-explore-the-web-faster-with = تصفَّحْ الإنترنت بشكل أسرع من خلال استخدام ميزة <a href="{ $url }">التصفح الخاص في متصفح { -brand-name-firefox }</a>. واعلم أن الوضع الخاص فقط في متصفح { -brand-name-firefox } يشتمل على ميزة تحميك من التعقب عن طريق منع تحميل الإعلانات التي تحتوي على مُتعقِّبات على الصفحات. وهذا يعني أنه يمكن تحميل صفحات الويب بشكل أسرع.
