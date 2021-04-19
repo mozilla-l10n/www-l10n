@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = 수익이 아닌 사람을 위한 인터넷
 home-did-you-know-mozilla-the-maker = 알고 계십니까? { -brand-name-firefox }를 만들고있는 { -brand-name-mozilla }는 세계적인 공공 자원이며, 개방적이고 누구나 참여할 수 있는 인터넷을 지키기 위해 일하고 있습니다.
 home-fast-for-good = 매우 빠릅니다.
-home-with-2x-the-speed-built-in = 2배 빠른 속도, 내장형 개인 정보 보호 기능과 { -brand-name-mozilla }의 지원아래 새로운 { -brand-name-firefox }는 탐색하는 보다 나은 방법입니다.
+home-with-2x-the-speed-built-in = 2배 빠른 속도, 내장형 개인 정보 보호 기능과 { -brand-name-mozilla }의 지원으로 제작된 새로운 { -brand-name-firefox }는 탐색하는 보다 나은 방법입니다.
 home-we-make-the-internet-safer = 인터넷을 더 안전하고, 풍요롭고 좋은 사회로 만듭니다.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla }는 대안 웹 브라우저인 { -brand-name-firefox }를 만들고 있는 비영리 조직입니다. 우리는 이익이 아닌 사람들을 위해 인터넷 서비스를 제공하는 제품과 정책을 개발합니다.
 home-our-impact = 영향력
