@@ -14,6 +14,7 @@ navigation-v2-get-the-customizable-mobile = Consigui'l restolador personalizable
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pa { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Consigui'l restolador móvil pa { -brand-name-iphone } o { -brand-name-ipad }.
 navigation-v2-firefox-blog = Blogue de { -brand-name-firefox }
+navigation-v2-view-all-firefox-browsers = Ver tolos { -brand-name-firefox-browsers }
 
 ## Products menu
 
@@ -39,7 +40,11 @@ navigation-v2-more-about-mozilla = Más tocante a { -brand-name-mozilla }
 
 navigation-v2-innovation = Innovación
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Dona la to voz pa que'l futuru de la web pueda oyer a tol mundu.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Llei más tocante al llinguaxe nuevu de nivel baxu que s'asemeya a Ensamblador.
+navigation-v2-more-mozilla-innovation = Más innovaciones de { -brand-name-mozilla }
