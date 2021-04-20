@@ -41,17 +41,23 @@ firefox-desktop-download-primary-password = Галоўны пароль
 # Obsolete string
 firefox-desktop-download-master-password = Галоўны пароль
 firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
+firefox-desktop-download-ads-are-distracting = Рэклама адцягвае ўвагу і прымушае веб-старонкі загружацца павольней, а іх трэкеры сочаць за кожным вашым крокам у Інтэрнэце. { -brand-name-firefox-browser } аўтаматычна блакуе большасць трэкераў, таму няма патрэбы рыцца у наладах бяспекі.
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
 firefox-desktop-download-for-everyone = { -brand-name-firefox } — для ўсіх
+firefox-desktop-download-available-in-over = Даступны на больш чым 90 мовах і сумяшчальны з { -brand-name-windows }, { -brand-name-mac-short } і { -brand-name-linux }, { -brand-name-firefox } працуе незалежна ад таго, чым вы карыстаецеся і дзе вы знаходзіцеся. Пераканайцеся, што ваша аперацыйная сістэма абноўлена для найлепшай работы.
 firefox-desktop-download-review-system-req = Паглядзіце сістэмныя патрабаванні
 firefox-desktop-download-all-your-devices = Пастаўце { -brand-name-firefox } на ўсе свае прылады
+firefox-desktop-download-take-your-privacy = Вазьміце сваю прыватнасць з сабой усюды. { -brand-name-firefox-browsers } для { -brand-name-ios } і { -brand-name-android } маюць аднолькава моцныя налады прыватнасці, каб блакаваць трэкеры, каб яны не сачылі за вамі ў Інтэрнэце, дзе бы вы не знаходзіліся.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Рабіце <strong>ўсё</strong> гэта з дапамогай { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Шукайце разумней, хутчэй
 firefox-desktop-download-search-from-address = Пошук у адрасным радку
 firefox-desktop-download-search-engine-options = Налады пошукавых сістэм
+firefox-desktop-download-smart-search-suggestions = Разумныя пошукавыя прапановы
 firefox-desktop-download-bookmark-history = Закладкі, гісторыя і адкрытыя карткі ў выніках
 firefox-desktop-download-boost-your = Павысьце сваю прадукцыйнасць
+firefox-desktop-download-works-with-google = Працуе з прадуктамі { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Убудаваны інструмент для здымкаў экрана
 firefox-desktop-download-bookmarks-manager = Менеджар закладак
 firefox-desktop-download-sync-across-devices = Сінхранізацыя паміж прыладамі
 firefox-desktop-download-reader-mode = Рэжым чытання

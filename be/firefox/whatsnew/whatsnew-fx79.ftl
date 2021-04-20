@@ -28,6 +28,8 @@ whatsnew79-read-our-privacy-promise = Прачытайце наша абяцан
 whatsnew79-take-less-keep-it-safe = Бяром менш. Захоўваем бяспечна. Ніякіх сакрэтаў. Наш бізнес не залежыць ад таемнага злоўжывання вашым даверам.
 # CTA link
 whatsnew79-read-more = Чытаць далей
+whatsnew79-keep-facebook-contained = Ізалюйце { -brand-name-facebook }
+whatsnew79-get-the-power-to-prevent = Атрымайце магчымасць забараніць { -brand-name-facebook } і { -brand-name-instagram } асочваць вас у Інтэрнэце.
 # CTA link
 whatsnew79-add-facebook-container = Дадаць { -brand-name-facebook-container }
 # Modal title
