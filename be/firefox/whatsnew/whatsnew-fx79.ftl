@@ -7,6 +7,8 @@
 
 # HTML page title
 whatsnew79-page-title = Што новага ў { -brand-name-firefox }
+# Main title
+whatsnew79-main-title = Трымайце свае звесткі асобна ад усіх – у тым ліку ад нас
 whatsnew79-main-intro = Інтэрнэт павінен быць бяспечным месцам для ўсіх. Вось чаму { -brand-name-firefox } не ідзе за вамі па сеціве, а таксама не дае іншым сачыць за вамі.
 # Main CTA button
 whatsnew79-primary-cta = Зрабіце { -brand-name-firefox } прадвызначаным
@@ -17,10 +19,12 @@ whatsnew79-with-one-tap-mozilla-vpn = Адным націскам { -brand-name-
 # CTA link
 whatsnew79-get-started = Пачаць
 whatsnew79-get-more-control-over = Атрымайце больш кантролю над трэкерамі
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } блакуе больш рэкламадаўцаў і трэкераў, што сочаць за вамі, чым калі-небудзь раней.
 # CTA link
 whatsnew79-see-your-report = Паглядзіце сваю справаздачу
 whatsnew79-update-your-firefox = Абнавіць свой браўзер { -brand-name-firefox }
 whatsnew79-download-the-firefox = Сцягнуць браўзер { -brand-name-firefox }
+whatsnew79-read-our-privacy-promise = Прачытайце наша абяцанне прыватнасці
 whatsnew79-take-less-keep-it-safe = Бяром менш. Захоўваем бяспечна. Ніякіх сакрэтаў. Наш бізнес не залежыць ад таемнага злоўжывання вашым даверам.
 # CTA link
 whatsnew79-read-more = Чытаць далей
