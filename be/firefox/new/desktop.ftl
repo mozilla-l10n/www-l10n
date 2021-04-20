@@ -59,12 +59,18 @@ firefox-desktop-download-boost-your = Павысьце сваю прадукцы
 firefox-desktop-download-works-with-google = Працуе з прадуктамі { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Убудаваны інструмент для здымкаў экрана
 firefox-desktop-download-bookmarks-manager = Менеджар закладак
+firefox-desktop-download-autosuggest-urls = Аўтаматычныя прапановы URL-адрасоў
 firefox-desktop-download-sync-across-devices = Сінхранізацыя паміж прыладамі
 firefox-desktop-download-reader-mode = Рэжым чытання
 firefox-desktop-download-spell-check = Праверка арфаграфіі
 firefox-desktop-download-pinned-tabs = Прышпіленыя карткі
+firefox-desktop-download-stream-share-play = Транслюйце, дзяліцеця і гуляйце
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Блакіроўка аўтапрайгравання відэа і гуку
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Выява ў выяве
+firefox-desktop-download-curated-content-on = Выбраны змест на новай картцы
+firefox-desktop-download-share-links = Дзяліцеся спасылкамі
 firefox-desktop-download-protect-your-privacy = Абараніце сваю прыватнасць
 firefox-desktop-download-private-browsing-mode = Рэжым прыватнага аглядання
 firefox-desktop-download-built-in-password = Убудаваны менеджар пароляў
@@ -83,6 +89,9 @@ firefox-desktop-download-enhanced-tracking-protection = Узмоцненая а�
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Атрымаць { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Атрымаць { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = У вас ужо ёсць браўзер. Цяпер атрымайце яшчэ больш ад { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Сачыце за хакерамі з дапамогай { -brand-name-firefox-monitor }, абараніце паролі з { -brand-name-firefox-lockwise } і многае іншае.
