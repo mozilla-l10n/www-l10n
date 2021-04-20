@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } para escritorio (PC y laptop)
 vpn-desktop-log-headline = Tu privacidad es lo primero
