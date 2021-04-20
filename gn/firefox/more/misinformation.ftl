@@ -10,6 +10,7 @@ misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa mara
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
 misinformation-spot-online-heading = Mba’éichapa eikuaáta marandu japugua ñandutípe ha eipytyvõta ejoko hag̃ua iñemyasãi
 misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
+misinformation-known-to-br-credible = ¿Ojeguerovia chupe? Nderegueroviáiramo, eñeha’ã eheka marandu teñoiha rehegua ha rerakuãporã ñandutípe.
 misinformation-overly-sensational = ¿Pe maranduguasu ombotuichaiterei?
 misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
 misinformation-images-captions = ¿Umi ta’ãnga ha avara’ãnga reratee’i ojuehegua?
