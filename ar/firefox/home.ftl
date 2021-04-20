@@ -2,27 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-home-firefox-protect-your = ‏{ -brand-name-firefox }: احمِ حياتك على الإنترنت باستعمال منتجات تضع الخصوصية، أولوية
-firefox-home-the-browser-is-just = ما المتصفّح إلا البداية
-firefox-home-get-trackers-off = امنع ما يزيد على ٢٠٠٠ متعقّب من تعقّبك، ومنها { -brand-name-facebook }
-firefox-home-know-when-hackers-strike = اعرف بضربات المخترقين،<br>وتقدّم عليهم بخطوة
-firefox-home-start-getting-breach = ابدأ باستلام التقارير عن التسريبات
-firefox-home-keep-your-passwords = حافظ على كلمات سرك آمنة على كل الأجهزة
-firefox-home-learn-more-about-lockwise = اعرف المزيد عن { -brand-name-lockwise }
+firefox-home-firefox-protect-your = { -brand-name-firefox } - احمِ حياتك على الإنترنت باستخدام منتجات تضع الخصوصية على رأس أولوياتها
+firefox-home-firefox-is-more-than = { -brand-name-firefox } أكثر من مُجرد مُتصفح. تعرَّف على المزيد من المعلومات حول منتجات { -brand-name-firefox } التي تتعامل مع بياناتك باحترام والمُصممة لحماية خصوصيك في أي مكان تتصل فيه بالإنترنت.
+firefox-home-the-browser-is-just = ما المتصفّح إلا مُجرد بداية
+firefox-home-meet-our-family-of = تعرّف على عائلة منتجاتنا
+firefox-home-get-trackers-off = تخلَّصْ من أكثر من 2000 متعقب — بما في ذلك { -brand-name-facebook }
+firefox-home-know-when-hackers-strike = اعرف أوقات ضربات المخترقين — وتقدّم عليهم بخطوة
+firefox-home-start-getting-breach = ابدأ بتلقي تقارير الخروقات
+firefox-home-keep-your-passwords = احمِ كلمات مرورك على كل الأجهزة
+firefox-home-learn-more-about-lockwise = اطَّلِع على المزيد حول { -brand-name-lockwise }
+
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
-firefox-home-get-the-respect-you = احظَ <strong>بالاحترام</strong> الذي تستحقّ
+firefox-home-get-the-respect-you = احظ <strong>بالاحترام</strong> الذي تستحقه
+
+firefox-home-every-single-firefox = يفي كل منتج من منتجات { -brand-name-firefox } بوعد البيانات الشخصية: <strong>نجمع بيانات شخصية أقل. نُحافظ على البيانات الشخصية. لا نُخفي عنك أسرارًا.</strong>
 firefox-home-share-large-files-without = شارِك الملفات الكبيرة بعيدًا عن أعين المتطفلين
 firefox-home-start-sending-files = ابدأ مشاركة الملفات بأمان
-firefox-home-learn-more-about-pocket = اعرف المزيد عن { -brand-name-pocket }
+firefox-home-trade-clickbait-for = بدِّل الروابط الخادعة بمحتوى عالي القيمة
+firefox-home-learn-more-about-pocket = اطَّلِع على المزيد حول { -brand-name-pocket }
+
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
-firefox-home-one-login-all-your = ولوج واحد، على كلّ أجهزتك. هذه عائلة من المنتجات تحترم وتقدّر <strong>خصوصيتك</strong>.
+firefox-home-one-login-all-your = تسجيل دخول واحد، لجميع أجهزتك. مجموعة منتجات تحترم <strong>خصوصيتك</strong> وتقدِّرها.
+
+firefox-home-join-firefox = انضم إلى { -brand-name-firefox }
+firefox-home-learn-more-about-joining = اطَّلع على المزيد حول الانضمام إلى { -brand-name-firefox }
+firefox-home-get-the-browser-extension = احصل على ملحق المتصفح
+firefox-home-get-the-facebook-container = احصل على ملحق { -brand-name-facebook-container }
 firefox-home-download-the-browser = نزّل المتصفح
 firefox-home-download-the-app = نزّل التطبيق
-firefox-home-desktop = سطح المكتب
-firefox-home-browsers = المتصفحات
+firefox-home-desktop = أجهزة الكمبيوتر
+firefox-home-browsers = المُتصفحات
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
