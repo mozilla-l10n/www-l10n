@@ -11,3 +11,4 @@ history-history-of-the-mozilla-project = L'istorgia dal project { -brand-name-mo
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Il project { -brand-name-mozilla } è vegnì <a href="{ $coderush }">lantschà l'onn 1998</a> cun la <a href="{ $sourcerelease }">publicaziun dal code da funtauna dal navigatur { -brand-name-netscape }</a>.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
+history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
