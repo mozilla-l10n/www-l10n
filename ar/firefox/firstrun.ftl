@@ -2,14 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/firstrun/
 
 firstrun-firefox-browser = { -brand-name-firefox-browser }
-firstrun-welcome-to-firefox = أهلا بك على فَيَرفُكس
-firstrun-take-firefox-with-you = خذ معك فَيَرفُكس أينما ذهبت
-firstrun-already-using-firefox = هل تستخدم فَيَرفُكس؟
-firstrun-get-your-bookmarks-history = تشارك العلامات، تاريخ التّصفّح، كلمات السّر وباقي الإعدادات على جميع أجهزتك.
-firstrun-sign-in-to-your-account = سجّل دخولك إلى حسابك وسنقوم بمُزامنة علاماتك وكلمات السّر المحفوظة وأمور أخرى عديدة سبق لك حفظها على فَيَرفُكس على أجهزة أخرى.
-firstrun-already-have-an-account = ألديك حساب؟
-firstrun-sign-in = لِج
+firstrun-welcome-to-firefox = مرحبًا بك في { -brand-name-firefox }
+firstrun-take-firefox-with-you = خُذ { -brand-name-firefox } معك
+firstrun-already-using-firefox = هل تستخدم بالفعل متصفّح { -brand-name-firefox }؟
+firstrun-get-your-bookmarks-history = انقل الإشارات المرجعية والسِجل وكلمات السر والإعدادات الأخرى إلى جميع أجهزتك.
+firstrun-sign-in-to-your-account = سَجّل الدخول إلى حسابك وسنقوم بمزامنة الإشارات المرجعية وكلمات السر والأشياء الرائعة الأخرى التي حفظتها فيها { -brand-name-firefox } مع الأجهزة الأخرى.
+firstrun-already-have-an-account = ألديك حساب بالفعل؟
+firstrun-sign-in = تسجيل الدخول
