@@ -7,3 +7,6 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } para { -brand-name-android }
+vpn-android-page-description = Mantente seguro con un toque en tu teléfono { -brand-name-android } a través de { -brand-name-mozilla }, uno de los nombres más confiados en tecnología.
+# Mobile strings
+vpn-android-hero-headline = Obtén protección y privacidad en línea con { -brand-name-mozilla-vpn } para { -brand-name-android }
