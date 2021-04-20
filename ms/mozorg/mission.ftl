@@ -4,35 +4,35 @@
 
 ### URL: https://www-dev.allizom.org/mission/
 
-mission-were-building-a-better-internet = Kami dalam proses membina Internet yang lebih baik
+mission-were-building-a-better-internet = Kami membangunkan internet yang lebih baik
 
-mission-our-mission-is-to-ensure-the-internet = Misi kami adalah memastikan Internat menjadi sumber awam yang global, terbuka dan boleh diakses oleh semua. Internet yang mementingkan hak pengguna, di mana setiap individu boleh menyuarakan pendapat mereka dan diperkasakan, selamat dan kekal bebas.
+mission-our-mission-is-to-ensure-the-internet = Misi kami ialah memastikan Internet ialah satu sumber awam global, terbuka dan boleh diakses oleh semua. Internet yang mengutamakan penggunanya, di mana setiap individu mampu membentuk pengalaman peribadi mereka dan diperkasakan, selamat dan kekal bebas.
 
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
-mission-our-mission-is-to-promote-openness = Misi kami ialah mempromosi keterbukaan, inovasi & peluang di Internet.
+mission-our-mission-is-to-promote-openness = Misi kami adalah untuk menggalakkan keterbukaan, inovasi & peluang di Internet.
 
-mission-at-mozilla-were-a-global-community = Di Mozilla, kami terdiri daripada ahli teknologi, pemikir dan pembangun global yang bekerjasama mengekalkan kelangsungan hayat dan akses Internet agar penduduk di seluruh dunia mampu menjadi penyumbang dan pencipta yang berilmu di Internet.
+mission-at-mozilla-were-a-global-community = Di Mozilla, kami merupakan satu komuniti global ahli teknologi, pemikir dan pembangun yang bekerjasama menjadikan Internet hidup dan mudah diakses, agar semua orang di dunia dapat menjadi penyumbang yang bermaklumat dan pencipta di Internet.
 
-mission-we-believe-this-act-of-human-collaboration = Kami percaya kerjasama sesama insan merentasi sebuah platform terbuka amat penting kepada pertumbuhan individu serta masa depan bersama.
+mission-we-believe-this-act-of-human-collaboration = Kami percaya tindakan kerjasama manusia melalui platform terbuka adalah penting demi pertumbuhan individu dan masa depan kita bersama.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Bacalah Manifesto Mozilla <a href="{ $url }"> </a> dan ketahui dengan lebih lanjut mengenai nilai-nilai dan prinsip yang menjadi panduan kepada misi kami.
+mission-read-the-mozilla-manifesto-to-learn = Bacalah <a href="{ $url }">Manifesto Mozilla</a> dan ketahui lebih banyak tentang nilai-nilai dan prinsip-prinsip yang memandu kami mengejar misi.
 
-mission-watch-the-video-above-to-learn-more = Tonton video di atas untuk mengetahui dengan lebih lanjut siapa kami sebenarnya, dari mana asalnya kami dan bagaimana kami menjadikan Internet lebih baik untuk anda.
+mission-watch-the-video-above-to-learn-more = Tonton video di atas dan ketahui lebih lanjut siapa kami, dari mana asalnya kami dan bagaimana kami menjadikan Internet lebih baik untuk anda.
 
-mission-get-involved = Sertai kami
+mission-get-involved = Libatkan diri
 
-mission-volunteer-opportunities-in-a-number = Tawarkan peluang dalam pelbagai jenis bidang yang berbeza
+mission-volunteer-opportunities-in-a-number = Peluang menjadi sukarelawan di beberapa bidang yang berbeza
 
 mission-history = Sejarah
 
-mission-where-we-come-from-and-how-we-got = Dari mana asalnya kami dan bagaimana kami berada di tahap ini
+mission-where-we-come-from-and-how-we-got = Dari mana asalnya kami dan bagaimana kami sampai ke tahap kami sekarang
 
-mission-forums = Forum
+mission-forums = Forum-forum
 
-mission-topics-include-support-products = Topik-topik termasuklah bantuan, produk dan teknologi
+mission-topics-include-support-products = Topik-topik termasuklah sokongan, produk dan teknologi
 
 mission-governance = Tadbir Urus
 
-mission-our-structure-organization-and-the = Struktur dan organisasi kami serta komuniti Mozilla secara keseluruhannya
+mission-our-structure-organization-and-the = Struktur, organisasi, dan komuniti Mozilla yang lebih luas
