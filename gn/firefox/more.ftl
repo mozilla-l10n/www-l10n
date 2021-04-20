@@ -65,4 +65,5 @@ firefox-more-fingerprinting-is-a = Ñemokuãhũ (fingerprinting) ñemoheñói ha
 firefox-more-translate-the-web = Emoñe’ẽasa ñanduti
 firefox-more-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’épe nde { -brand-name-firefox-browser } guive - ndahasyive ko’ág̃a rupi ijapo.
 firefox-more-a-guide-to = Tape tembiapo ñepyrũme g̃uarã ha ñe’ẽñemi hekosãva
+firefox-more-more-and-more = Ára ha ára hetave mba’e ñande rekovépe omo’ã mo’ãve ñe’ẽñemi.
 firefox-more-avoid-misinformation-heading = Emboyke marandu’ỹ ñandutípe – { -brand-name-firefox } ápe ne pytyvõkuaa

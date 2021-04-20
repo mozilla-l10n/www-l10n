@@ -13,6 +13,7 @@ misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
 misinformation-known-to-br-credible = ¿Ojeguerovia chupe? Nderegueroviáiramo, eñeha’ã eheka marandu teñoiha rehegua ha rerakuãporã ñandutípe.
 misinformation-overly-sensational = ¿Pe maranduguasu ombotuichaiterei?
 misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
+misinformation-outdated-information = Pe marandu ndahekopyahúi ndaha’éi katuete noporomaranduséiva, hákatu ikatu hína noĩporãmbái.
 misinformation-images-captions = ¿Umi ta’ãnga ha avara’ãnga reratee’i ojuehegua?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
