@@ -80,16 +80,20 @@ vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } متو
 vpn-landing-faq-compatibility-question-desc-windows = نظام تشغيل 10 { -brand-name-windows } (64 بت فقط)
 
 
+
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = نظام تشغيل { -brand-name-mac } (الإصدار 10.15 والأحدث منه)
+
 
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -brand-name-android } (الإصدار 6 والأحدث منه)
 
 
+
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = نظام تشغيل { -brand-name-ios } (الإصدار 13.0 والأحدث منه)
+
 
 
 # Outdated string

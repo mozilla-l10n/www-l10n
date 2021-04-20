@@ -86,6 +86,8 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-bit sahaja)
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ke atas)
@@ -93,6 +95,8 @@ vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ke atas)
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versi 6 ke atas)
@@ -100,6 +104,8 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versi 6 ke atas)
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 ke atas)
@@ -107,6 +113,8 @@ vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ke atas)
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (hanya-{ -brand-name-ubuntu })
