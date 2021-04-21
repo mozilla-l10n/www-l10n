@@ -10,7 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protegé todo tu dispositi
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Usar { -brand-name-mozilla-vpn } para proteger el dispositivo completo para todas las apps. Con servidores en { $country }+ países, podés conectarte a cualquier lugar, desde cualquier parte.
+vpn-landing-page-desc = Usá { -brand-name-mozilla-vpn } para proteger el dispositivo completo para todas las apps. Con servidores en más de { $country } países, podés conectarte a cualquier lugar, desde cualquier parte.
 vpn-landing-hero-sub-heading-v2 = Seguridad, fiabilidad y velocidad en cada dispositivo, donde quiera que vayas.
 # Obsolete string
 vpn-landing-hero-sub-heading = Seguridad con la que podés contar. Un nombre en el que podés confiar.
