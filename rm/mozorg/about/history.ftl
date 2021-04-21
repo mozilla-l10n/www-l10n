@@ -17,5 +17,11 @@ history-within-the-first-year-new = Gia entaifer <a href="{ $firstyear }">l'empr
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Creond ina cuminanza averta è il project { -brand-name-mozilla } daventà pli grond <a href="{ $stevecase }">che mintga autra singula firma</a>.
+# Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Commembers da la cuminanza èn sa participads ed han extendì la finamira da lur <a href="{ $mission }">missiun oriunda</a> – empè da cuntinuar simplamain cun il svilup dad ina proxima versiun dal navigatur { -brand-name-netscape }, han els creà <a href="{ $browsers }">plirs navigaturs</a>, <a href="{ $bugzilla }">utensils per sviluppaders</a> e divers auters <a href="{ $projects }">projects</a>.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
