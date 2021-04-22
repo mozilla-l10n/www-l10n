@@ -24,5 +24,8 @@ history-by-creating-an-open-community = Creond ina cuminanza averta è il projec
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Commembers da la cuminanza èn sa participads ed han extendì la finamira da lur <a href="{ $mission }">missiun oriunda</a> – empè da cuntinuar simplamain cun il svilup dad ina proxima versiun dal navigatur { -brand-name-netscape }, han els creà <a href="{ $browsers }">plirs navigaturs</a>, <a href="{ $bugzilla }">utensils per sviluppaders</a> e divers auters <a href="{ $projects }">projects</a>.
 history-people-contributed-to-mozilla = Bleras persunas han contribuì – mintgin en sia moda – a { -brand-name-mozilla }, ma tuts eran passiunads per la creaziun da software libra che pussibilitescha a la glieud ina tscherna libra en connex cun l'internet.
+# Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Suenter divers onns da svilup è <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, l'emprima versiun principala, cumparida l'onn 2002. Cun questa versiun èn vegnids divers meglieraments dal navigatur, dal program dad e-mail e dad autras applicaziuns da la suite. Malgrà quai han mo paucs la duvrà.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
