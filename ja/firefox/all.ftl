@@ -2,54 +2,61 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = システム要件を確認する
+firefox-all-check-the-system-requirements = システム要件を確認
 firefox-all-release-notes = リリースノート
 firefox-all-source-code = ソースコード
-firefox-all-need-help = サポートが必要ですか？
+firefox-all-need-help = お困りの場合
 firefox-all-which-browser-would = どのブラウザーをダウンロードしますか？
+
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = サポート
-firefox-all-you-are-about-to-download = 次の製品をダウンロードしようとしています:
+
+firefox-all-you-are-about-to-download = こちらをダウンロードしようとしています:
 firefox-all-browser = ブラウザー:
-firefox-all-platform = OS:
+firefox-all-platform = プラットフォーム:
 firefox-all-language = 言語:
 firefox-all-lang-multi = 多言語
-firefox-all-sorry-we-couldnt-find = お探しのダウンロードが見つかりませんでした。もう一度試すか、下のリストからダウンロードを選択してください。
-firefox-all-the-pre-alpha-version = 実装されたばかりの新機能をテストし、クラッシュバグを見つけたいパワーユーザー向けのプレアルファ版です。
+firefox-all-sorry-we-couldnt-find = 申し訳ありません。お探しのものが見つかりませんでした。もう一度お試しになるか、下のリストからダウンロードする製品を選択してください。
+firefox-all-the-pre-alpha-version = コードができてからいち早くバグを見つけ、新機能をテストしたいパワーユーザー向けのプレアルファ版です。
 firefox-all-64-bit-installers = 64 ビットインストーラー
-firefox-all-choose-a-64-bit-installer = 64 ビット CPU を搭載したコンピューターには、プログラムに多くのメモリーを割り当てられる 64 ビット版のインストーラーを選んでください。これは、ゲームや他の要求の厳しいアプリケーションにとって特に重要です。
+firefox-all-choose-a-64-bit-installer = 64 ビットプロセッサーを搭載したコンピューターには 64 ビットインストーラーを選択してください。個々のプログラムにより多くの RAM を割り当てることができます。ゲームなどの負荷の高いアプリケーションでは特に重要です。
 firefox-all-32-bit-installers = 32 ビットインストーラー
+
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } を日本語および他の 90 以上の言語でダウンロードする
+firefox-all-download-the-firefox = 日本語ほか 90 か国語以上に対応した { -brand-name-firefox-browser } をダウンロード
+
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = 誰にでもインターネットにアクセスする資格があります。あなたの言語が障害になってはいけません。そのため、世界中のボランティアの協力を得て、90 以上の言語で { -brand-name-firefox-browser } を利用できるようにしています。
-firefox-all-choose-which-firefox = あなたの言語の { -brand-name-firefox-browser } を選んでダウンロードしてください
-firefox-all-firefox-privacy-notice = { -brand-name-firefox } のプライバシー通知
-firefox-all-learn-about-firefox = { -brand-name-firefox } ブラウザーの詳細はこちら
-firefox-all-the-standard-firefox = 高速でプライベートな標準の { -brand-name-firefox } ブラウザーです。どの { -brand-name-firefox } を選択すればよいか分からない場合は、これを選択してください。
-firefox-all-get-a-sneak-peek-at = 正式リリースされる前に、最新の { -brand-name-firefox } ブラウザーの機能を確認できます。
-firefox-all-test-your-sites-against = 間もなくリリースされる { -brand-name-firefox } ブラウザーの機能であなたのサイトをテストしましょう。既定でオンになっている強力で柔軟な開発ツールが使用できます。
-firefox-all-count-on-stability-and = 法人向けに構築されたこの { -brand-name-firefox } ブラウザーの安定性と使いやすさにご期待ください。
-firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成、配備、管理を簡素化する、企業の IT 管理者向けの Windows 版インストーラーです。
+firefox-all-everyone-deserves-access = インターネットは、あらゆる人がアクセスできるものであるべきで、言語が障壁となることはあってはなりません。そのため、世界中のボランティアたちの手を借りて、{ -brand-name-firefox-browser } を 90 か国語以上で公開しています。
+
+firefox-all-choose-which-firefox = ご利用の言語でダウンロードする { -brand-name-firefox-browser } を選択してください
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } プライバシーに関する通知
+firefox-all-learn-about-firefox = { -brand-name-firefox } ブラウザーについて
+firefox-all-the-standard-firefox = { -brand-name-firefox } 標準ブラウザー — 高速、プライベート。どちらの { -brand-name-firefox } にしたらいいか分からない場合は、こちらをご選択してください。
+firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } ブラウザーの公開予定の最新機能を少しご覧ください。
+firefox-all-test-your-sites-against = 強力かつ柔軟な DevTools (既定でオン) を使って、まもなくリリースされる { -brand-name-firefox } ブラウザー機能であなたのサイトをテストしてください。
+firefox-all-count-on-stability-and = エンタープライズ用 { -brand-name-firefox } ブラウザーは、安定性と使いやすさを保証します。
+firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成、展開、管理を簡略化する IT 部署向けの Windows インストーラーです。
 firefox-all-arm64-installers = ARM64/AArch64 インストーラー
-firefox-all-arm64-installers-optimized = Snapdragon 搭載の { -brand-name-windows } PC 用に最適化された ARM64/AArch64 インストーラー。
-firefox-all-product-send-link = ダウンロードリンクを端末に送信する
+firefox-all-arm64-installers-optimized = Snapdragon 搭載 { -brand-name-windows } PC 用に最適化された ARM64/AArch64 用インストーラーです。
+firefox-all-product-send-link = スマートフォンにダウンロードリンクを送信
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = 32 ビット CPU を搭載したコンピューター、または古いものや性能の低いコンピューターには、32 ビット版のインストーラーを選んでください。64 ビット版と 32 ビット版の<a href="{ $url }">どちらを選ぶべきか分からない</a>ときは、どちらでも動作する 32 ビット版の使用をお勧めします。
+firefox-all-choose-a-32-bit-installer = 32 ビットプロセッサーを搭載したコンピューター、古いコンピューター、低スペックのコンピューターをお使いの場合は、32 ビットインストーラーをご選択ください。64 ビットと 32 ビットのどちらのインストーラーを選択したらいいか<a href="{ $url }">分からない場合</a>は、32 ビットをお勧めします。
+
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale } の { $platform } 版 { $product_label } をダウンロードします
+firefox-all-download-product-for = { $locale }で { $platform } 用 { $product_label } をダウンロード
+
 firefox-all-msi-installers = MSI インストーラー
-firefox-all-which-version = どのバージョンが必要ですか？
-firefox-all-select-your-preferred-installer = ご希望のインストーラーを選択してください
-firefox-all-select-your-preferred-language = ご希望の言語を選択してください
-firefox-all-learn-about-installers = インストーラーについて学ぶ
+firefox-all-which-version = どのバージョンをダウンロードしますか？
+firefox-all-select-your-preferred-installer = ご希望のインストーラーをご選択ください
+firefox-all-select-your-preferred-language = ご希望の言語をご選択ください
+firefox-all-learn-about-installers = インストーラーについて
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
@@ -58,4 +65,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
-firefox-all-product-firefox-ios = { -brand-name-ios } 版 { -brand-name-firefox }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
