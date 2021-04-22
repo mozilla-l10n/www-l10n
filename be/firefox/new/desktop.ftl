@@ -104,6 +104,9 @@ firefox-desktop-download-keep-all-your = Захавайце ўсе свае лю
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Усе вашы любімыя інструменты { -brand-name-google } (напрыклад, Gmail і Docs) працуюць у { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Сцягніце гэта пашырэнне для браўзера</a>, каб { -brand-name-facebook } (і { -brand-name-instagram }) не асочваў вас у Інтэрнэце.
 firefox-desktop-download-sync-your-devices = Сінхранізуйце вашы прылады
 firefox-desktop-download-screenshots = Здымкі экрана
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -111,6 +114,8 @@ firefox-desktop-download-enhanced-tracking-protection = Узмоцненая а�
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Атрымаць { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Атрымаць { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Сцягніце мабільны браўзер { -brand-name-firefox } для аўтаматычнай аховы на ўсіх вашых прыладах.
+firefox-desktop-download-learn-about-the = Даведайцеся больш пра браўзер { -brand-name-firefox } для камп'ютара ніжэй
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
