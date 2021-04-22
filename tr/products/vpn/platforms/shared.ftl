@@ -21,6 +21,7 @@ vpn-platforms-shared-feature-item-connect = { $devices } cihaz bağlayabilme imk
 vpn-platforms-shared-feature-item-access = { $countries }+ ülkedeki sunuculara erişim
 vpn-platforms-shared-feature-item-encryption = Cihaz düzeyinde şifreleme
 vpn-platforms-shared-feature-item-bandwidth = Bant genişliği kısıtlaması yok
+vpn-platforms-shared-feature-item-logs = Hiçbir zaman çevrimiçi etkinliğinizin kaydını tutmayız
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }

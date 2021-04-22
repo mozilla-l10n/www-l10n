@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Tüm Cihazlarınızı Koruyun
+vpn-landing-hero-sub-heading-v2 = Güvenlik, güvenilirlik ve hız: Her yerde, her cihazda.
 # Obsolete string
 vpn-landing-hero-sub-heading = Güvenilir bir markadan güvenilir bir hizmet.
 vpn-landing-hero-desc = { -brand-name-firefox }’un yapımcılarından sanal özel ağ (VPN).
@@ -22,11 +23,48 @@ vpn-landing-faq-uses-conceal = Gerçek IP adresinizi gizler. Böylece hem kimli�
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
 vpn-landing-faq-protected-question-heading = Gizliliğim nasıl korunuyor?
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } hangi cihazlarla uyumlu?
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } aşağıdaki cihazlarla uyumludur:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (yalnızca 64 bit)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (yalnızca 64 bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ve üstü)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ve üstü)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ve üzeri)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (sürüm 8 ve üstü)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (sürüm 6 ve üstü)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (sürüm 6 ve üzeri)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ve üstü)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 ve üstü)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ve üzeri)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ve üstü)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (yalnızca { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (yalnızca { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
 vpn-landing-faq-manage-subscription-question-heading = Aboneliğimi nasıl yönetebilirim?

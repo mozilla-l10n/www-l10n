@@ -13,6 +13,7 @@ vpn-windows-page-title = { -brand-name-windows } 10 için { -brand-name-mozilla-
 vpn-windows-hero-headline = { -brand-name-windows } 10 için { -brand-name-mozilla-vpn } ile bağlı ve güvende kalın
 vpn-windows-wifi-headline = Herkese açık kablosuz ağlarda gizli kalın
 vpn-windows-about-headline = İnternette gizliliğin öncüsünden
+vpn-windows-privacy-headline = Tek tuşla koruma
 vpn-windows-servers-headline = Dünyanın her yerindeki sunuculara erişin
 vpn-windows-devices-headline = Tüm cihazlarınız için tek abonelik
 vpn-windows-speed-headline = Bant genişliği kısıtlaması yok
