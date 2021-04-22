@@ -117,6 +117,9 @@ firefox-desktop-download-get-firefox-ios = Атрымаць { -brand-name-firefo
 firefox-desktop-download-download-the-mobile = Сцягніце мабільны браўзер { -brand-name-firefox } для аўтаматычнай аховы на ўсіх вашых прыладах.
 firefox-desktop-download-learn-about-the = Даведайцеся больш пра браўзер { -brand-name-firefox } для камп'ютара ніжэй
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } быў створаны <a { $attrs }>{ -brand-name-mozilla }</a> як больш хуткая, прыватная альтэрнатыва такім браўзерам, як { -brand-name-ie }, а цяпер { -brand-name-chrome }. Сёння наша скіраваная місіяй кампанія і добраахвотная супольнасць працягваюць ставіць вашу прыватнасць вышэй за ўсё.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
