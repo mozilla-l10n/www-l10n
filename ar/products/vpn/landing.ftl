@@ -79,21 +79,33 @@ vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } متو
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = نظام تشغيل 10 { -brand-name-windows } (64 بت فقط)
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 وأعلى)
 
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = نظام تشغيل { -brand-name-mac } (الإصدار 10.15 والأحدث منه)
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (إصدار 8 وأعلى)
 
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -brand-name-android } (الإصدار 6 والأحدث منه)
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 وأعلى)
 
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = نظام تشغيل { -brand-name-ios } (الإصدار 13.0 والأحدث منه)
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 وأعلى)
 
 
 # Outdated string
