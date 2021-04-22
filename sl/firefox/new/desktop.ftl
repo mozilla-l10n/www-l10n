@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Prenesite { -brand-name-firefox-browser } – hiter, zaseben in brezplačen – delo { -brand-name-mozilla(sklon: "rodilnik") }
+firefox-desktop-download-meta-desc = Prenesite { -brand-name-firefox }, brezplačen spletni brskalnik izpod okrilja { -brand-name-mozilla(sklon: "rodilnik") }, neprofitne organizacije, zavezane zdravemu spletu in zasebnosti. Zdaj na voljo za { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } in { -brand-name-ios }.
 firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox } vseh časov
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -21,6 +22,7 @@ firefox-desktop-download-browser-support = Podpora za { -brand-name-firefox-brow
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vas <strong>ne</strong> opazuje.
 firefox-desktop-download-how-firefox-compares = Kako se { -brand-name-firefox } primerja z drugimi brskalniki
+firefox-desktop-download-get-all-the-speed = Opremite se za hitrost in za delo, ne da bi žrtvovali svojo zasebnost. { -brand-name-firefox-browser } o vas zbira tako malo podatkov, da ne zahtevamo niti vašega e-poštnega naslova za prenos. To si lahko privoščimo, ker za razliko od ostalih brskalnikov ne ustvarjamo dobička s sledenjem vaši spletni dejavnosti.
 firefox-desktop-download-how-we-compare = Kako se primerjamo z drugimi brskalniki
 firefox-desktop-download-compare-firefox-to = Primerjajte { -brand-name-firefox } z:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -90,6 +92,8 @@ firefox-desktop-download-extensions-for-every = Razširitve za vsak okus
 firefox-desktop-download-change-up-your = Spremenite videz
 firefox-desktop-download-go-from-light = Preklopite s svetlega na temni način, odvisno od razpoloženja ali želje, ali pa si poživite brskalnik s poljubno temo (morda mavričnim samorogom?).
 firefox-desktop-download-tweak-your-settings = Prilagodite si nastavitve
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Pod okriljem <strong>neprofitne</strong> organizacije, ki na prvo mesto postavlja ljudi
 firefox-desktop-download-challenging-the-status = Izzivamo status quo od leta 1998
 firefox-desktop-download-your-privacy-comes = Vaša zasebnost je na prvem mestu
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -116,6 +120,12 @@ firefox-desktop-download-from-security-to = Od varnosti do novic in iger – za 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je ustvarila <a { $attrs }>{ -brand-name-mozilla }</a> kot hitrejšo in zasebnejšo alternativo brskalnikom, kot je bil { -brand-name-ie } in kot je { -brand-name-chrome }. Naše podjetje s poslanstvom in skupnost prostovoljcev vse do danes postavljata vašo zasebnost nad vse ostalo.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na voljo za vse vaše naprave. Vzemite zavihke, zgodovino in zaznamke s seboj – vse, kar potrebujete, je <a { $attrs }>{ -brand-name-firefox } account</a>.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } samodejno <a { $attrs }>preprečuje množici spletnih sledilcev</a>, da bi zbirali in prodajali podatke o vaši spletni dejavnosti.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Imate vprašanja? Obiščite <a { $attrs }>Podporo { -brand-name-mozilla }</a>.
