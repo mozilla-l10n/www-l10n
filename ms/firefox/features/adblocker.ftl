@@ -7,7 +7,7 @@
 features-adblocker-how-to-block-annoying = Cara menyekat iklan yang menjengkelkan menggunakan penyekat iklan
 features-adblocker-how-to-stop-seeing-too = Cara mengelak daripada melihat terlalu banyak iklan dan menjauhkan syarikat daripada mengekori anda di dalam talian. Panduan penyekat iklan daripada pelayar web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Penyekat iklan – senjata rahsia dalam memerangi iklan menjengkelkan.
-features-adblocker-so-many-ads-so-little = Semakin banyak iklan, semakin kurang kesabaran...Tiba masanya untuk kita hentikan kegilaan ini.
+features-adblocker-so-many-ads-so-little = Semakin banyak iklan, semakin kurang kesabaran… Tiba masanya untuk kita hentikan kegilaan ini.
 features-adblocker-the-average-person-sees = Secara purata, orang biasa melihat 4,000 iklan sehari. Jika anda rasa itu terlalu banyak, jadikan penyekat iklan kawan baik anda yang baru.
 features-adblocker-an-ad-blocker-is-a-piece = Penyekat iklan ialah sejenis perisian yang boleh digunakan untuk menyekat iklan dan ia berfungsi dengan dua cara. Cara pertama ialah, penyekat iklan akan menyekat isyarat daripada pelayar pengiklan supaya iklan tidak akan ditunjukkan pada halaman anda. Cara lain penyekat iklan berfungsi adalah dengan menyekat bahagian pada laman web yang boleh jadi iklan.
 
