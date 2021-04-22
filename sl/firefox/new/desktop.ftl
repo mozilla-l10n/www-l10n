@@ -22,7 +22,7 @@ firefox-desktop-download-browser-support = Podpora za { -brand-name-firefox-brow
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vas <strong>ne</strong> opazuje.
 firefox-desktop-download-how-firefox-compares = Kako se { -brand-name-firefox } primerja z drugimi brskalniki
-firefox-desktop-download-get-all-the-speed = Opremite se za hitrost in za delo, ne da bi žrtvovali svojo zasebnost. { -brand-name-firefox-browser } o vas zbira tako malo podatkov, da ne zahtevamo niti vašega e-poštnega naslova za prenos. To si lahko privoščimo, ker za razliko od ostalih brskalnikov ne ustvarjamo dobička s sledenjem vaši spletni dejavnosti.
+firefox-desktop-download-get-all-the-speed = Opremite se za hitrost in za delo, ne da bi žrtvovali svojo zasebnost. { -brand-name-firefox-browser } zbira tako malo vaših podatkov, da ne zahteva niti vašega e-poštnega naslova za prenos. To si lahko privoščimo, ker za razliko od ostalih brskalnikov ne ustvarjamo dobička s sledenjem vaši spletni dejavnosti.
 firefox-desktop-download-how-we-compare = Kako se primerjamo z drugimi brskalniki
 firefox-desktop-download-compare-firefox-to = Primerjajte { -brand-name-firefox } z:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
