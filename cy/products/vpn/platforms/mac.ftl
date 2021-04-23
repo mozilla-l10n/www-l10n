@@ -18,7 +18,7 @@ vpn-mac-wifi-copy = Ewch ar-lein gyda thawelwch meddwl pan rydych chi'n defnyddi
 vpn-mac-about-headline = Gan wneuthurwr technoleg dibynadwy
 vpn-mac-about-copy = Er 1998, mae ei genhadaeth i adeiladu rhyngrwyd gwell wedi arwain { -brand-name-mozilla } dim-er-elw. O gynnyrch fel y { -brand-name-firefox-browser } i waith eirioli ledled y byd, mae gwaith { -brand-name-mozilla } yn parhau i sicrhau bod y rhyngrwyd yn rhad ac am ddim ac yn agored i bawb.
 vpn-mac-privacy-headline = Preifatrwydd ar flaenau eich bysedd
-vpn-mac-privacy-copy = Gyda { -brand-name-mozilla-vpn }, mae eich cysylltiad rhyngrwyd wedi'i amgryptio ac mae eich cyfeiriad IP wedi'i amddiffyn rhag hacwyr a darparwyr rhyngrwyd busneslyd diolch i brotocol uwch { -brand-name-wireguard }®.
+vpn-mac-privacy-copy = Gyda { -brand-name-mozilla-vpn }, mae eich cysylltiad rhyngrwyd wedi'i amgryptio ac mae eich cyfeiriad IP wedi'i ddiogelu rhag hacwyr a darparwyr rhyngrwyd busneslyd diolch i brotocol uwch { -brand-name-wireguard }®.
 vpn-mac-servers-headline = Mynediad i weinyddion ledled y byd
 # Variables:
 #   $countries (number) - number of available countries
