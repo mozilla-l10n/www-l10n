@@ -20,7 +20,7 @@ firefox-home-get-the-respect-you = Dapatkan <strong>penghormatan</strong> yang l
 firefox-home-every-single-firefox = Setiap satu produk { -brand-name-firefox } menunaikan Janji Data Peribadi kami: <strong>Dapatkan sedikit. Pastikan selamat. Tiada rahsia.</strong>
 firefox-home-share-large-files-without = Kongsi fail besar tanpa diperhatikan mata jahat
 firefox-home-start-sending-files = Mulakan menghantar fail besar dengan selamat
-firefox-home-trade-clickbait-for = Jual umpan klik untuk kandungan berkualiti
+firefox-home-trade-clickbait-for = Tukar umpan klik dengan kandungan yang berkualiti
 firefox-home-learn-more-about-pocket = Ketahui lebih lanjut tentang { -brand-name-pocket }
 
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
