@@ -27,5 +27,11 @@ history-people-contributed-to-mozilla = Bleras persunas han contribuì – mintg
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = Suenter divers onns da svilup è <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, l'emprima versiun principala, cumparida l'onn 2002. Cun questa versiun èn vegnids divers meglieraments dal navigatur, dal program dad e-mail e dad autras applicaziuns da la suite. Malgrà quai han mo paucs la duvrà.
+# Variables:
+#   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
+history-by-2002-well-over-90 = Dal 2002 <a href="{ $over90 }">navigavan dapli che 90% dals utilisaders da l'internet </a> cun { -brand-name-ie }.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Mo pauca glieud ha badà quai da quel temp, ma l'emprima versiun da Phoenix (pli tard renumnà en { -brand-name-firefox }) è vegnida publitgada er da quel onn da commembers da la cuminanza da { -brand-name-mozilla } cun la finamira da porscher <a href="{ $charter }">la meglra experientscha en l'internet</a> al pli grond dumber d'utilisaders pussaivel.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
