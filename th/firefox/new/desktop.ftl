@@ -13,6 +13,7 @@ firefox-desktop-download-meta-title = ดาวน์โหลด { -brand-name-
 firefox-desktop-download-og-title = ดาวน์โหลด { -brand-name-firefox } ที่เร็วที่สุดกว่าที่เคย
 firefox-desktop-download-og-desc = โหลดหน้าได้เร็วขึ้น ใช้หน่วยความจำน้อยลง และยังเต็มไปด้วยคุณลักษณะต่าง ๆ { -brand-name-firefox } ใหม่อยู่ที่นี่แล้ว
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = รับเบราว์เซอร์ที่ปกป้องสิ่งที่สำคัญ
 firefox-desktop-download-download-options = ตัวเลือกการดาวน์โหลดและภาษาอื่น ๆ
 firefox-desktop-download-browser-support = การสนับสนุน { -brand-name-firefox-browser }
 firefox-desktop-download-how-firefox-compares = เปรียบเทียบ { -brand-name-firefox } กับเบราว์เซอร์อื่น ๆ
