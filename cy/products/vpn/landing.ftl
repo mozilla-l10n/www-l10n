@@ -11,7 +11,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Diogelu Eich Dyfais Gyfan
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Defnyddiwch { -brand-name-mozilla-vpn } ar gyfer diogelu pob ap ar eich dyfais. Gyda gweinyddion mewn { $countries }+ gwlad, gallwch gysylltu ag unrhyw le, o unrhyw le.
-vpn-landing-hero-sub-heading-v2 = Diogelwch, dibynadwyedd a chyflymder — ar bob dyfais, unrhyw le rydych chi'n mynd.
+vpn-landing-hero-sub-heading-v2 = Diogelwch, dibynadwyedd a chyflymder — ar bob dyfais, lle bynnach yr ewch chi.
 # Obsolete string
 vpn-landing-hero-sub-heading = Diogelwch y gallwch ddibynnu arno. Enw y gallwch ymddiried ynddo.
 vpn-landing-hero-desc = Rhwydwaith Preifat Rhithwir gan wneuthurwyr { -brand-name-firefox }.
