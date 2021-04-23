@@ -16,6 +16,8 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = รับเบราว์เซอร์ที่ปกป้องสิ่งที่สำคัญ
 firefox-desktop-download-download-options = ตัวเลือกการดาวน์โหลดและภาษาอื่น ๆ
 firefox-desktop-download-browser-support = การสนับสนุน { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = ให้คุณทำสิ่งที่คุณต้องการออนไลน์<br> { -brand-name-firefox-browser } จะ<strong>ไม่</strong>แอบดูคุณ
 firefox-desktop-download-how-firefox-compares = เปรียบเทียบ { -brand-name-firefox } กับเบราว์เซอร์อื่น ๆ
 firefox-desktop-download-how-we-compare = เปรียบเทียบกับเบราว์เซอร์อื่น ๆ
 firefox-desktop-download-compare-firefox-to = เปรียบเทียบ { -brand-name-firefox } กับ:
@@ -34,6 +36,7 @@ firefox-desktop-download-in-browser-screenshot = เครื่องมือ�
 firefox-desktop-download-primary-password = รหัสผ่านหลัก
 # Obsolete string
 firefox-desktop-download-master-password = รหัสผ่านหลัก
+firefox-desktop-download-we-block-the-ad = เราจะปิดกั้นตัวติดตามเว็บเพื่อให้คุณสำรวจอินเทอร์เน็ตได้เร็วขึ้น
 firefox-desktop-download-see-your-report = ดูรายงานการป้องกันของคุณ
 firefox-desktop-download-for-everyone = { -brand-name-firefox } สร้างขึ้นสำหรับทุกคน
 firefox-desktop-download-review-system-req = ตรวจสอบความต้องการของระบบ
@@ -45,6 +48,7 @@ firefox-desktop-download-search-from-address = ค้นหาจากแถบ
 firefox-desktop-download-search-engine-options = ตัวเลือกเครื่องมือค้นหา
 firefox-desktop-download-smart-search-suggestions = ข้อเสนอแนะการค้นหาอัจฉริยะ
 firefox-desktop-download-bookmark-history = ที่คั่นหน้า ประวัติ และแท็บที่เปิดอยู่ในผลลัพธ์
+firefox-desktop-download-boost-your = เพิ่มประสิทธิภาพในการทำงานของคุณ
 firefox-desktop-download-works-with-google = ทำงานร่วมกับผลิตภัณฑ์ของ { -brand-name-google } ได้
 firefox-desktop-download-built-in-screenshot = เครื่องมือจับภาพหน้าจอในตัว
 firefox-desktop-download-bookmarks-manager = ตัวจัดการที่คั่นหน้า
@@ -58,13 +62,16 @@ firefox-desktop-download-stream-share-play = สตรีม แบ่งปั�
 firefox-desktop-download-block-autoplay-of = ปิดกั้นการเล่นวิดีโอและเสียงอัตโนมัติ
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = ภาพที่เล่นควบคู่
+firefox-desktop-download-curated-content-on = เนื้อหาที่คัดสรรบนแท็บใหม่
 firefox-desktop-download-share-links = แบ่งปันลิงก์
 firefox-desktop-download-protect-your-privacy = ปกป้องความเป็นส่วนตัวของคุณ
 firefox-desktop-download-third-party-cookie = ปิดกั้นคุกกี้จากบุคคลที่สาม
 firefox-desktop-download-fingerprinter-blocking = ปิดกั้นลายนิ้วมือดิจิทัล
 firefox-desktop-download-cryptominer-blocking = ปิดกั้นตัวขุดเหรียญดิจิทัล
 firefox-desktop-download-private-browsing-mode = โหมดการเรียกดูแบบส่วนตัว
+firefox-desktop-download-individual-protections-report = รายงานการป้องกันรายบุคคล
 firefox-desktop-download-secure-your-personal = รักษาความปลอดภัยให้กับข้อมูลส่วนตัวของคุณ
+firefox-desktop-download-breached-website-alerts = การแจ้งเตือนเกี่ยวกับเว็บไซต์ที่มีการรั่วไหลของข้อมูล
 firefox-desktop-download-built-in-password = ตัวจัดการรหัสผ่านในตัว
 firefox-desktop-download-clear-history = ล้างประวัติ
 firefox-desktop-download-form-autofill = กรอกแบบฟอร์มอัตโนมัติ
@@ -72,11 +79,13 @@ firefox-desktop-download-automatic-updates = การอัปเดตอั�
 firefox-desktop-download-customize-your-browser = ปรับแต่งเบราว์เซอร์ของคุณ
 firefox-desktop-download-themes = ชุดตกแต่ง
 firefox-desktop-download-dark-mode = โหมดมืด
+firefox-desktop-download-library-of-extensions = คลังส่วนขยาย
 firefox-desktop-download-adjust-search-bar = ปรับการตั้งค่าแถบค้นหา
 firefox-desktop-download-change-new-tab = เปลี่ยนเค้าโครงแท็บใหม่
 firefox-desktop-download-make-firefox-your = ทำให้ <strong>{ -brand-name-firefox }</strong> เป็นของคุณเอง
 firefox-desktop-download-extensions-for-every = ส่วนขยายสำหรับทุกความสนใจ
 firefox-desktop-download-change-up-your = เปลี่ยนรูปลักษณ์ของคุณ
+firefox-desktop-download-your-privacy-comes = ความเป็นส่วนตัวของคุณต้องมาก่อน
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
