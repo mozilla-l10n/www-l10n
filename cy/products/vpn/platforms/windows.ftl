@@ -18,7 +18,7 @@ vpn-windows-wifi-copy = Mae { -brand-name-mozilla-vpn } yn diogelu eich cysyllti
 vpn-windows-about-headline = Gan yr arweinydd ym maes preifatrwydd y rhyngrwyd
 vpn-windows-about-copy = Mae'r dim-er-elw y tu ôl i { -brand-name-firefox-browser }, { -brand-name-mozilla } yn gymuned o ddinasyddion rhyngrwyd o bob cwr o'r byd sy'n ymroddedig i gadw'r rhyngrwyd yn adnodd agored ac am ddim i bawb. Mae cenhadaeth { -brand-name-mozilla }, i roi pobl o flaen elw, yn sicrhau bod pob cynnyrch a wnawn yn eich rhoi chi gyntaf.
 vpn-windows-privacy-headline = Diogelwch drwy bwyso botwm
-vpn-windows-privacy-copy = Mae { -brand-name-mozilla-vpn } yn amgryptio'ch cysylltiad rhyngrwyd ac yn diogelu'ch cyfeiriad IP rhag llygaid busneslyd ar eich bwrdd gwaith neu'ch gliniadur gyda phrotocol uwch { -brand-name-wireguard }®.
+vpn-windows-privacy-copy = Mae { -brand-name-mozilla-vpn } yn amgryptio'ch cysylltiad rhyngrwyd ac yn cuddio'ch cyfeiriad IP rhag llygaid busneslyd ar eich bwrdd gwaith neu'ch gliniadur gyda phrotocol uwch { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Mynediad i weinyddion ledled y byd
 # Variables:
 #   $countries (number) - number of available countries
