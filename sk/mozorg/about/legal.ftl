@@ -14,6 +14,7 @@ legal-terms = Podmienky používania
 legal-our-websites = Naše webové stránky
 legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Súkromie a ochranné známky
+legal-privacy-notices-and-policy = Zásady ochrany súkromia
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: O vašich právach
 legal-thunderbird = { -brand-name-thunderbird }

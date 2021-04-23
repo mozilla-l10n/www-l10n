@@ -29,13 +29,13 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nepredáva 
 privacy-faq-wait-so-how-do-you-make-money = Počkať, ako teda zarábate peniaze?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nie je len taká obyčajná organizácia. Bola založená ako komunitný open source projekt v roku 1998 a jej cieľom je zdravý internet. Väčšina príjmov { -brand-name-mozilla } Corporation pochádza z partnerstiev s webovými vyhľadávačmi. Viac sa o tom, ako zarábame peniaze dozviete v našej <a href="{ $link }">výročnej správe</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nie je len taká obyčajná organizácia. Bola založená ako komunitný open source projekt v roku 1998 a jej cieľom je zdravý internet. Väčšina príjmov { -brand-name-mozilla-corporation } pochádza z partnerstiev s webovými vyhľadávačmi vo { -brand-name-firefox(case: "loc") }. Viac sa o tom, ako zarábame peniaze dozviete v našej <a href="{ $link }">výročnej správe</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ok, teraz niečo zložitejšie. Aké údaje zbierate?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } v predvolenom nastavení zbiera obmedzené množstvo údajov, ktoré nám pomáhajú pochopiť, ako ľudia používajú náš prehliadač. Údaje sú označené anonymným identifikátorom a nie vašim menom či e-mailovou adresou. Viac si môžete prečítať v našich <a href="{ $privacy }">zásadách ochrany súkromia</a> a taktiež si môžete prečítať <a href="{ $data }">kompletnú dokumentáciu o zbere údajov</a>.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } v predvolenom nastavení zbiera obmedzené množstvo údajov, ktoré nám pomáhajú pochopiť, ako ľudia používajú { -brand-name-firefox }. Údaje sú označené anonymným identifikátorom a nie vašim menom či e-mailovou adresou. Viac si môžete prečítať v našich <a href="{ $privacy }">zásadách ochrany súkromia</a> a taktiež si môžete prečítať <a href="{ $data }">kompletnú dokumentáciu o zbere údajov</a>.
 privacy-faq-we-make-our-documentation-public = Našu dokumentáciu zverejňujeme, takže ktokoľvek si môže overiť, či hovoríme pravdu. Ľudia nám tak môžu veriť, že nič neskrývame.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Tie dokumenty sú pre mňa španielska dedina. Môžete mi to vysvetliť jednoduchšou formou?
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Dá sa to tak povedať. Vo vývojo
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Ak robíme <a href="{ $link }">štúdiu</a>, môžeme zbierať dodatočné údaje. Niektoré štúdie napríklad vyžadujú tzv. „údaje o webovej aktivite“, ktoré môžu obsahovať URL adresy a ďalšie informácie o určitých webových stránkach. Vďaka tomu si môžeme odpovedať na určité otázky o { -brand-name-firefox }e a naďalej ho vylepšovať.
-privacy-faq-mozillas-pre-release-versions = Vývojové verzie { -brand-name-firefox }u sú často aktualizované experimentálnymi funkciami. Pred vydaním určitej verzie zbierame väčšie množstvo údajov ako po jej vydaní. Chceme sa totiž dozvedieť, ako tieto experimentálne funkcie pracujú. Zo zberu týchto údajov sa môžete odhlásiť v možnostiach.
+privacy-faq-mozillas-pre-release-versions = Vývojové verzie { -brand-name-firefox(case: "gen") } sú často aktualizované experimentálnymi funkciami. Pred vydaním určitej verzie zbiera { -brand-name-mozilla } väčšie množstvo údajov ako po jej vydaní. Chceme sa totiž dozvedieť, ako tieto experimentálne funkcie pracujú. Zo zberu týchto údajov sa môžete odhlásiť v možnostiach.
 privacy-faq-but-why-do-you-collect-any-data = Ale prečo nejaké údaje vôbec zbierate?
 privacy-faq-if-we-dont-know-how-the-browser = Ak nevieme, ako sa prehliadač správa v ostrej prevádzke a aké funkcie ľudia používajú, nemôžeme ho vylepšovať. Investovali sme do analytických nástrojov a do nástrojov na zber údajov, ktoré rešpektujú súkromie ľudí.
 privacy-faq-data-collection-still-bugs-me = Zber údajov sa mi prieči. Môžem ho vypnúť?
