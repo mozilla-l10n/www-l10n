@@ -86,7 +86,26 @@ firefox-desktop-download-make-firefox-your = ทำให้ <strong>{ -brand-na
 firefox-desktop-download-extensions-for-every = ส่วนขยายสำหรับทุกความสนใจ
 firefox-desktop-download-change-up-your = เปลี่ยนรูปลักษณ์ของคุณ
 firefox-desktop-download-your-privacy-comes = ความเป็นส่วนตัวของคุณต้องมาก่อน
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = ซิงค์อุปกรณ์ของคุณ
+firefox-desktop-download-screenshots = ภาพหน้าจอ
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = การป้องกันการติดตามที่มากขึ้น (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = รับ{ -brand-name-firefox-browser } สำหรับ <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = รับ{ -brand-name-firefox-browser } สำหรับ <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = ดาวน์โหลดเบราว์เซอร์มือถือ { -brand-name-firefox } สำหรับการป้องกันแบบอัตโนมัติบนอุปกรณ์ทุกเครื่องของคุณ
+firefox-desktop-download-learn-about-the = เรียนรู้เกี่ยวกับเบราว์เซอร์เดสก์ท็อป { -brand-name-firefox } ด้านล่าง
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = คุณได้ติดตั้งเบราว์เซอร์แล้ว ตอนนี้มาใช้คุณลักษณะเพิ่มเติมจาก { -brand-name-firefox } กันดีกว่า
+firefox-desktop-download-watch-for-hackers-with = เฝ้าดูแฮกเกอร์ด้วย { -brand-name-firefox-monitor }, ปกป้องรหัสผ่านด้วย { -brand-name-firefox-lockwise } และอื่น ๆ
+firefox-desktop-download-get-more-from-firefox = รับคุณลักษณะเพิ่มเติมจาก { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = ดาวน์โหลดเบราว์เซอร์เพียงอย่างเดียว
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = เกือบเสร็จแล้ว!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = มา<strong>ติดตั้ง</strong> { -brand-name-firefox } ให้เสร็จกันเลย
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>เรียกใช้</strong>ตัวติดตั้งที่เพิ่งดาวน์โหลดไปเลย
