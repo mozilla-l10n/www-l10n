@@ -109,3 +109,27 @@ firefox-desktop-download-almost-there = เกือบเสร็จแล้�
 firefox-desktop-download-now-else = มา<strong>ติดตั้ง</strong> { -brand-name-firefox } ให้เสร็จกันเลย
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = <strong>เรียกใช้</strong>ตัวติดตั้งที่เพิ่งดาวน์โหลดไปเลย
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>เปิด</strong>ไฟล์ที่เพิ่งดาวน์โหลดไปเลย
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = มีปัญหาใช่หรือไม่ <a { $attrs }>รับความช่วยเหลือเกี่ยวกับการติดตั้งของคุณ</a>
+firefox-desktop-download-in-another-language = ดาวน์โหลดในภาษาอื่นหรือสำหรับระบบปฏิบัติการอื่น
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = เยี่ยมชมฝ่ายสนับสนุนสำหรับรายละเอียดเพิ่มเติม
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">จะไม่มีการอัปเดตด้านความปลอดภัย</a> บน { -brand-name-windows } { -brand-name-xp } หรือ { -brand-name-vista } อีกแล้ว แต่คุณยังสามารถใช้ { -brand-name-firefox } ได้
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = คุณกำลังใช้ระบบปฏิบัติการที่ไม่ปลอดภัยและล้าสมัยซึ่ง <a href="{ $url }">{ -brand-name-firefox } ไม่สนับสนุนอีกต่อไป</a>
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = การดาวน์โหลดของคุณควรเริ่มโดยอัตโนมัติ ยังไม่เริ่มใช่หรือไม่ <a id="{ $id }" href="{ $fallback_url }">ลองดาวน์โหลดอีกครั้ง</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } เป็นมากกว่าเบราว์เซอร์
+firefox-desktop-download-interrupted = การดาวน์โหลดของคุณถูกขัดจังหวะ แต่ส่วนที่ดาวน์โหลดไปแล้วไม่ได้หายไปไหน
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = โปรดทำตาม<a href="{ $url }">คำแนะนำนี้</a>เพื่อติดตั้ง { -brand-name-firefox }
