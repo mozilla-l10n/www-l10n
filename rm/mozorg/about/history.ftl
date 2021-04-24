@@ -33,5 +33,11 @@ history-by-2002-well-over-90 = Dal 2002 <a href="{ $over90 }">navigavan dapli ch
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Mo pauca glieud ha badà quai da quel temp, ma l'emprima versiun da Phoenix (pli tard renumnà en { -brand-name-firefox }) è vegnida publitgada er da quel onn da commembers da la cuminanza da { -brand-name-mozilla } cun la finamira da porscher <a href="{ $charter }">la meglra experientscha en l'internet</a> al pli grond dumber d'utilisaders pussaivel.
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = L'onn 2003 ha il project { -brand-name-mozilla } fundà la { -brand-name-mozilla-foundation }, <a href="{ $foundation }">in'organisaziun independenta d'util public</a>, sustegnida da singuls donaturs e da diversas firmas.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = La nova { -brand-name-mozilla-foundation } ha cuntinuà cun la lavur quotidiana dad administrar il project ed ha surpiglià uffizialmain la responsabladad per promover <a href="{ $manifesto }">l'avertezza, l'innovaziun e las schanzas</a> en l'internet.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
