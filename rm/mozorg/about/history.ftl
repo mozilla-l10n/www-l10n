@@ -42,5 +42,13 @@ history-the-new-mozilla-foundation = La nova { -brand-name-mozilla-foundation } 
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Ella ha fatg quai cuntinuond a sviluppar software sco { -brand-name-firefox } e { -brand-name-thunderbird } e s'extendend en novas domenas, offrind servetschs sco il <a href="{ $grants }">sustegn</a> da meglieraments en connex cun l'accessibilitad dal web senza barrieras.
+history-new-versions-of-firefox = Dapi alura èn cumparidas regularmain novas versiuns da { -brand-name-firefox } che battan adina puspè novs records. Grazia a la popularitad da { -brand-name-firefox } han utilisaders puspè la pussaivladad da tscherner.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = La concurrenza reanimada ha <a href="{ $innovation }">accelerà l'innovaziun</a> e meglierà l'internet per ina e mintgin.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = Il 2013 avain nus lantschà <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> per purtar tut il potenzial dal web sin telefonins e dar la schelta e la controlla ad ina nova generaziun che scuvra l'internet.
+history-mozilla-also-celebrated = Il 2013 ha { -brand-name-mozilla } era festivà ses 15avel anniversari.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
