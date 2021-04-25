@@ -50,5 +50,13 @@ history-the-renewed-competition = La concurrenza reanimada ha <a href="{ $innova
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = Il 2013 avain nus lantschà <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> per purtar tut il potenzial dal web sin telefonins e dar la schelta e la controlla ad ina nova generaziun che scuvra l'internet.
 history-mozilla-also-celebrated = Il 2013 ha { -brand-name-mozilla } era festivà ses 15avel anniversari.
+history-the-community-has-shown = La cuminanza ha mussà che interpresas commerzialas pon profitar da la collavuraziun cun projects open source e ch'i gartegia da sviluppar products da fitg buna qualitad per il consument final sco software open source.
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = Dapli glieud che mai fa diever da l'internet e l'utilisescha <a href="{ $all }">mintgamai en l'atgna lingua</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Igl è vegnida creada in'organisaziun perdurabla che tira a niz ils mecanissems dal martgà per sustegnair ina idea d'util public. Quest model è vegnì surpiglià dad auters per crear organisaziuns avertas, transparentas e cooperativas en in <a href="{ $range }">champ vast</a> da <a href="{ $areas }">projects</a>.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
