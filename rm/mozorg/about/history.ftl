@@ -58,5 +58,9 @@ history-more-people-than-ever-before = Dapli glieud che mai fa diever da l'inter
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
 history-a-sustainable-organization = Igl è vegnida creada in'organisaziun perdurabla che tira a niz ils mecanissems dal martgà per sustegnair ina idea d'util public. Quest model è vegnì surpiglià dad auters per crear organisaziuns avertas, transparentas e cooperativas en in <a href="{ $range }">champ vast</a> da <a href="{ $areas }">projects</a>.
+history-the-future-is-full-of-challenges = Il futur è plain da sfidas e schanzas – sco gia il passà.
+history-theres-no-guarantee-that = I na dat nagina garanzia che l'internet restia avert, empernaivel per l'utilisar e segir er en il futur.
+history-mozilla-will-continue-to = { -brand-name-mozilla } vegn a dar ina vusch als umans er en il futur ed als pussibilitar da viver la vita online tenor lur agen gust e basegn.
+history-of-course-were-not-alone = Cun questa finamira n'essan nus natiralmain betg sulets.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
