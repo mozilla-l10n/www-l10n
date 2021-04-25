@@ -42,6 +42,10 @@ history-the-new-mozilla-foundation = La nova { -brand-name-mozilla-foundation } 
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Ella ha fatg quai cuntinuond a sviluppar software sco { -brand-name-firefox } e { -brand-name-thunderbird } e s'extendend en novas domenas, offrind servetschs sco il <a href="{ $grants }">sustegn</a> da meglieraments en connex cun l'accessibilitad dal web senza barrieras.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> è cumparì il 2004 ed è daventà in grond success – en stgars in onn è el vegnì telechargià <a href="{ $millions }">dapli che 100 milliuns giadas</a>.
 history-new-versions-of-firefox = Dapi alura èn cumparidas regularmain novas versiuns da { -brand-name-firefox } che battan adina puspè novs records. Grazia a la popularitad da { -brand-name-firefox } han utilisaders puspè la pussaivladad da tscherner.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
@@ -63,5 +67,13 @@ history-theres-no-guarantee-that = I na dat nagina garanzia che l'internet resti
 history-mozilla-will-continue-to = { -brand-name-mozilla } vegn a dar ina vusch als umans er en il futur ed als pussibilitar da viver la vita online tenor lur agen gust e basegn.
 history-of-course-were-not-alone = Cun questa finamira n'essan nus natiralmain betg sulets.
 history-the-mozilla-community-together = La cuminanza da { -brand-name-mozilla } exista – sco er auters projects open source ed autras organisaziuns d'util public – mo grazia a glieud engaschada ch'è pronta da realisar nossas finamiras cuminaivlas.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Sche ti vuls t'associar a nossa idea <a href="{ $contribute }">ta participescha</a>.
+history-for-more-information-about = Ulteriuras infurmaziuns davart l'istorgia da { -brand-name-mozilla } chattas ti en las suandantas paginas:
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">L'istorgia da { -brand-name-firefox } e placats da{ -brand-name-mozilla }</a> (disponibel en englais e giapunais)
