@@ -39,5 +39,8 @@ history-in-2003-the-mozilla-project = L'onn 2003 ha il project { -brand-name-moz
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = La nova { -brand-name-mozilla-foundation } ha cuntinuà cun la lavur quotidiana dad administrar il project ed ha surpiglià uffizialmain la responsabladad per promover <a href="{ $manifesto }">l'avertezza, l'innovaziun e las schanzas</a> en l'internet.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Ella ha fatg quai cuntinuond a sviluppar software sco { -brand-name-firefox } e { -brand-name-thunderbird } e s'extendend en novas domenas, offrind servetschs sco il <a href="{ $grants }">sustegn</a> da meglieraments en connex cun l'accessibilitad dal web senza barrieras.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
