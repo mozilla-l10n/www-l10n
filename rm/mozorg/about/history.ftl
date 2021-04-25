@@ -62,5 +62,6 @@ history-the-future-is-full-of-challenges = Il futur è plain da sfidas e schanza
 history-theres-no-guarantee-that = I na dat nagina garanzia che l'internet restia avert, empernaivel per l'utilisar e segir er en il futur.
 history-mozilla-will-continue-to = { -brand-name-mozilla } vegn a dar ina vusch als umans er en il futur ed als pussibilitar da viver la vita online tenor lur agen gust e basegn.
 history-of-course-were-not-alone = Cun questa finamira n'essan nus natiralmain betg sulets.
+history-the-mozilla-community-together = La cuminanza da { -brand-name-mozilla } exista – sco er auters projects open source ed autras organisaziuns d'util public – mo grazia a glieud engaschada ch'è pronta da realisar nossas finamiras cuminaivlas.
 history-mozilla-bookmarks = Segnapaginas da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronologia dal project { -brand-name-mozilla }
