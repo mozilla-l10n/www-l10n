@@ -18,3 +18,6 @@ features-pip-click-the-picture-in-picture-button = Videonun üzerinde beliren <s
 features-pip-repeat-steps-1-3-to-have = Görüntü içinde görüntü modunda istediğiniz kadar video açmak için <strong>yukarıdaki adımları tekrarlayabilirsiniz</strong>.
 features-pip-3-more-ways-to-use-picture = Görüntü içinde görüntü özelliğini kullanabileceğiniz 3 yol daha
 features-pip-3-ways-to-use-picture = Görüntü içinde görüntü özelliğini kullanabileceğiniz 3 yol
+features-pip-watch-a-lecture-or-meeting = Ders veya toplantı izlerken not alabilirsiniz
+features-pip-keep-a-tutorial-video-open = Yemek yaparken hem öğretici videoyu hem de yazılı tarifi açık tutabilirsiniz
+features-pip-entertain-cats-dogs-and-kids = Bir yandan çalışırken bir yandan da çocuklarınızı eğlendirebilirsiniz

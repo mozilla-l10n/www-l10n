@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Mobile strings
+vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } ile mobil cihazlarda gizliliğinizi koruyun
+vpn-mobile-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın
+vpn-mobile-about-headline = { -brand-name-mozilla } hakkında
 vpn-mobile-privacy-headline = Tek tıkla gizlilik
 # Variables:
 #   $devices (number) - number of available devices

@@ -7,6 +7,10 @@
 
 # Meta strings
 vpn-desktop-page-title = Bilgisayarlar için { -brand-name-mozilla-vpn }
+vpn-desktop-page-description = Teknoloji dünyasının en güvenilir isimlerinden { -brand-name-mozilla } ile bilgisayarınızda hızlı ve kolay güvenliğe kavuşun.
+# Desktop strings
+vpn-desktop-hero-headline = İnternet bağlantınızı bilgisayarlar için { -brand-name-mozilla-vpn } ile güvence altına alın
+vpn-desktop-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın
 vpn-desktop-about-headline = { -brand-name-mozilla } hakkında
 vpn-desktop-privacy-headline = Tek tıkla gizlilik
 # Variables:

@@ -9,5 +9,13 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-linux } ({ -brand-name-ubuntu }) için { -brand-name-mozilla-vpn }
+vpn-linux-about-headline = 1998’den beri güvenilen bir isim
 vpn-linux-privacy-headline = Güvenlik sadece tek tık uzağınızda
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = { $countries } farklı ülkede { $servers }+ sunucuya bağlanabilme imkânı
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = { $devices } cihaz bağlayabilme imkânı
 vpn-linux-log-headline = Verileriniz sizindir

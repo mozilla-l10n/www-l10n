@@ -84,7 +84,7 @@ vpn-shared-platform-trust-partner-headline = Güvenilir iş ortağımız hakkın
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn }, dünyanın farklı yerlerindeki <a href="{ $policy }">{ -brand-name-mullvad }</a> sunucuları üzerinde, <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® protokolüyle çalışır. { -brand-name-mullvad } gizliliğinize önem verir ve herhangi bir log tutmaz.
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } ile sahip olağınız özellikler:
+vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } ile sahip olacağınız özellikler:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = VPN nedir?
