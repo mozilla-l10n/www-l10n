@@ -23,7 +23,13 @@ vpn-android-privacy-copy = Usar { -brand-name-mozilla-vpn } para { -brand-name-a
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = Más de { $servers } servidores en más de { $countries } países
 # Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = Con { -brand-name-mozilla-vpn }, puede establecer la ubicación de tu teléfono { -brand-name-android } en uno de los más de { $countries } países. Eso significa que verás la Web como un usuario autóctono del país a través del cual estés conectado. Es una forma divertida e interesante de experimentar la Web desde una nueva perspectiva.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Una suscripción para hasta { $devices } dispositivos
 vpn-android-speed-headline = Velocidades ultra rápidas. Datos ilimitados.
+vpn-android-speed-copy = Juega en línea, transmite películas y navega por la web a velocidades ultrarrápidas en tu dispositivo { -brand-name-android } — todo con ancho de banda ilimitado.
 vpn-android-log-headline = Sin registros. Sin rastreos. Sin invasiones a la privacidad.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Muchos proveedores de VPN registran tu actividad en sus servidores. No es así como nos movemos. { -brand-name-mozilla-vpn } nunca rastrea tu actividad en línea— eso va en contra de todo lo que defendemos como compañía. Ponemos tu privacidad y seguridad primero, por encima de cualquier otra cosa.

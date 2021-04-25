@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } para escritorio (PC y laptop)
+vpn-desktop-page-description = Obtén seguridad rápida y sencilla en tu computador de escritorio y portátil a través de { -brand-name-mozilla }, uno de los nombres más confiados en tecnología.
 # Desktop strings
 vpn-desktop-hero-headline = Asegura tu conexión a internet con { -brand-name-mozilla-vpn } para escritorio
 vpn-desktop-wifi-headline = Siéntete seguro usando wifi público
