@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Internet para pessoas, sem fins lucrativos
 home-did-you-know-mozilla-the-maker = Você sabia? A { -brand-name-mozilla } — criadora do { -brand-name-firefox } — luta para manter a Internet como um recurso público global, aberto e acessível a todos.
 home-fast-for-good = Rápido de verdade.
-home-with-2x-the-speed-built-in = Com 2x mais velocidade, proteção integrada de privacidade e a { -brand-name-mozilla } o mantendo, o novo { -brand-name-firefox } é a melhor maneira de navegar.
+home-with-2x-the-speed-built-in = Com muito mais velocidade, proteção de privacidade integrada e respaldado pela { -brand-name-mozilla }, o novo { -brand-name-firefox } é a melhor maneira de navegar.
 home-we-make-the-internet-safer = Nós tornamos a internet mais segura, saudável e rápida de verdade.
 home-mozilla-is-the-not-for-profit = A { -brand-name-mozilla } é a organização sem fins lucrativos por trás do { -brand-name-firefox }, o navegador alternativo original. Nós criamos produtos e políticas para manter a internet a serviço das pessoas, não dos lucros.
 home-our-impact = Nosso impacto
