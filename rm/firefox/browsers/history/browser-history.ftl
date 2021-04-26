@@ -14,3 +14,5 @@ browser-history-in-1950-computers = L'onn 1950 emplenivan computers entiras stan
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> è stà l'emprim project da rait che ha gì success. Il 1969 è per l'emprima giada vegnì tramess in messadi dad in computer dal labor scientific da l'Universitad da California, Los Angeles (UCLA) al Stanford Research Institute (SRI), er en la California.
+browser-history-that-sparked-a-revolution = Quai ha causà ina revoluziun en connex cun la colliaziun da computers. Novas raits èn sa furmadas ed han collià universitads e centers da perscrutaziun en tut il mund. Ils suandants 20 onns n'era l'internet dentant betg anc accessibel per il public. L'access era resalvà a perscrutaders dad universitads ed autoritads, a students ed a firmas privatas. I deva dunsainas da programs ch'eran abels da barattar infurmaziuns via lingias da telefon, ma lur applicaziun era cumplitgada. L'internet avert en il vair senn dal pled e l'emprim navigatur-web èn vegnids creads pir ils onns 1990.
+browser-history-web-era = L'èra dal web
