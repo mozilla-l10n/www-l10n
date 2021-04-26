@@ -20,4 +20,5 @@ vpn-desktop-servers-copy-updated = Navega desde Brasil. Juega desde Japón. Tran
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protege hasta { $devices } dispositivos
+vpn-desktop-speed-headline = Velocidad increíble, sin restricciones
 vpn-desktop-log-headline = Tu privacidad es lo primero
