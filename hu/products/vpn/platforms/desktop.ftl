@@ -17,6 +17,9 @@ vpn-desktop-about-headline = A { -brand-name-mozilla(ending: "accented") }ról
 vpn-desktop-privacy-headline = Adatvédelem egyetlen kattintással
 vpn-desktop-servers-headline = Kapcsolódjon kiszolgálókhoz szerte a világon
 # Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Böngésszen Brazíliából. Játsszon Japánból. Nézzen közvetítést Mexikóból. A { -brand-name-mozilla-vpn } lehetővé teszi, hogy megváltoztassa a telefonja vagy számítógépe helyét a(z) { $servers } kiszolgáló egyikére.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Védjen meg akár { $devices } eszközt
 vpn-desktop-speed-headline = Hihetetlen sebesség, korlátozások nélkül

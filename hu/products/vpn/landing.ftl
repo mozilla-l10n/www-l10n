@@ -67,9 +67,17 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (csak 64 bites)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 vagy újabb)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 és újab)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 vagy újabb)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (8-as verzió vagy újabb)
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (6-os verzió és újabb)
@@ -77,9 +85,17 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6-os verzió vagy újabb)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 vagy újabb)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 és újabb)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 vagy újabb)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 vagy újabb)
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (csak { -brand-name-ubuntu })
