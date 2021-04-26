@@ -19,6 +19,8 @@ vpn-desktop-servers-headline = Kapcsolódjon kiszolgálókhoz szerte a világon
 # Variables:
 #   $servers (number) - number of available servers
 vpn-desktop-servers-copy-updated = Böngésszen Brazíliából. Játsszon Japánból. Nézzen közvetítést Mexikóból. A { -brand-name-mozilla-vpn } lehetővé teszi, hogy megváltoztassa a telefonja vagy számítógépe helyét a(z) { $servers } kiszolgáló egyikére.
+# Obsolete string
+vpn-desktop-servers-copy = Böngésszen Brazíliából. Játsszon Japánból. Nézzen közvetítést Mexikóból. A { -brand-name-mozilla-vpn } lehetővé teszi, hogy megváltoztassa a telefonja vagy számítógépe helyét a(z) { $servers } lehetőség egyikére.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Védjen meg akár { $devices } eszközt
