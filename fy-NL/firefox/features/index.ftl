@@ -49,6 +49,7 @@ features-index-download-latest = Download de nijste { -brand-name-firefox }
 features-index-fingerprinter-blocking = Blokkearjen fan fingerprinters
 features-index-block-fingerprinters = Blokkearje fingerprinters
 features-index-translate-the-web = It ynternet oersette
+features-index-translate-more-than = Set út mear as 100 talen streekrjocht yn jo { -brand-name-firefox-browser } oer nei jo eigen taal – ienfâldiger as ea.
 features-index-translate-to-your = Nei jo taal oersette
 features-index-picture-in-picture = Picture-in-Picture
 features-index-got-things-to-do = Hawwe jo dingen te dwaan en dingen om te besjen? Doch it tagelyk mei Picture-in-Picture yn { -brand-name-firefox }.

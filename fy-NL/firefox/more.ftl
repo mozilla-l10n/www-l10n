@@ -69,3 +69,5 @@ firefox-more-translate-the-web = It ynternet oersette
 firefox-more-translate-more-than = Set út mear as 100 talen streekrjocht yn jo { -brand-name-firefox-browser } oer nei jo eigen taal – ienfâldiger as ea.
 firefox-more-a-guide-to = In gids foar feiligere oanmeldingen en wachtwurden
 firefox-more-more-and-more = Hieltyd mear fan de gefoelige, weardefolle dingen yn ús libben wurde beskerme troch wachtwurden.
+firefox-more-avoid-misinformation-heading = Mij online misynformaasje – { -brand-name-firefox } is hjir om te helpen
+firefox-more-avoid-misinformation-desc = Besjoch tips om minder misynformaasje te sjen en te rjochtsjen op wat wichtich foar jo is.

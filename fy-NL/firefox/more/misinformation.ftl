@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-page-title = Mij online misynformaasje – { -brand-name-firefox } is hjir om te helpen
 misinformation-learn-more-about-our-mission = Mear ynfo oer ús missy
 misinformation-your-privacy-by-the-product = Jo privacy, troch it produkt
 misinformation-firefox-products-work-differently = { -brand-name-firefox }-produkten wurkje oars – omdat se ûntwurpen binne om foarearst jo privacy te beskermjen.
