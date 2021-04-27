@@ -109,7 +109,7 @@ vpn-landing-faq-manage-subscription-question-heading = Wie verwalte ich mein Abo
 vpn-landing-faq-manage-subscription-question-desc = Wenn du { -brand-name-mozilla-vpn } bereits nutzt, kannst du dein <a href="{ $url }">Abonnement hier verwalten</a> und zum Beispiel deinen Tarif ändern.
 vpn-landing-faq-link = Weitere Fragen zum Thema
 # message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hoppla! Sie haben anscheinend noch kein Abonnement abgeschlossen.
+vpn-landing-sub-not-found = Hoppla! Du hast anscheinend noch kein Abonnement abgeschlossen.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
