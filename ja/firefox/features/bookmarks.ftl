@@ -2,34 +2,42 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: どこへ行くときもより便利なブックマークを
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: どこに行っても、もっと改良したブックマーク
+
 # HTML page description
-features-bookmarks-easily-organize-your-bookmarks = ブックマークをフォルダーごとに簡単に整理したり、パソコンからスマホまで、手持ちのあらゆる端末からアクセスしたりできます。
-features-bookmarks-better-bookmarks = より便利なブックマーク
-features-bookmarks-dont-agonize-lovers-of = ブックマーク好きの皆さん、もう悩まないでください。{ -brand-name-firefox } なら自由に整理できます。
+features-bookmarks-easily-organize-your-bookmarks = ブックマークをフォルダーに簡単に整理し、デスクトップでもスマートフォンでも、すべてのデバイスからブックマークにアクセスできます。
+features-bookmarks-better-bookmarks = より高機能なブックマーク
+features-bookmarks-dont-agonize-lovers-of = ブックマークが好きな方、{ -brand-name-firefox } で整理しましょう。
+
 # File means to save (that bookmark).
-features-bookmarks-file-that-bookmark = ブックマークを保存する
+features-bookmarks-file-that-bookmark = ブックマークをファイリング
+
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = 任意の名前やフォルダーを素早く指定できるブックマークスターアイコンで、お気に入りのページをすべて整理しましょう。そしてブックマークツールバーを活用すれば、気に入ったリンクも見失うことはありません。
+features-bookmarks-get-your-faves-all-sorted = お気に入りはブックマークの星アイコンで整理整頓。カスタム名とフォルダーを迅速に追加できます。ブックマークツールバーを見れば、お気に入りのリンクがいつでもそこに。
+
 # Fly here means to have your bookmark go wherever you go.
-features-bookmarks-fly-with-that-bookmark = ブックマークを持ち歩く
+features-bookmarks-fly-with-that-bookmark = ブックマークも一緒に
+
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = お気に入りのサイトを外出先へ持ち出しましょう。{ -brand-name-firefox-sync } を使えば、パソコンからスマホまで、手持ちのすべての端末から自分のブックマークへアクセスできます。あるいは、あらゆるオンラインの記事やページを保存して、インターネットへ接続されていなくても後から戻ってこられる <a href="{ $url }">{ -brand-name-pocket }</a> を試してみてください。
+features-bookmarks-take-your-favorites-on = お気に入りを持ち運びましょう。{ -brand-name-firefox-sync } を使うと、デスクトップからスマートフォンへ、すべてのデバイスでブックマークにアクセスできます。また、<a href="{ $url }">{ -brand-name-pocket }</a> なら、オンライン記事やページを保存して、後でオフラインでも戻って見ることができます。
+
 features-bookmarks-customize-that-bookmark = ブックマークをカスタマイズ
+
 # Obsolete string
 # Futz with means to spend a lot of time on something.
-features-bookmarks-futz-with-that-bookmark = ブックマークを整理する
+features-bookmarks-futz-with-that-bookmark = ブックマークで楽しく
+
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = ページ全体のスクリーンショットから、素早く切り替えられるサイドバー、よく整理された個人的ブックマークまで、考えられるあらゆるブックマーク管理 <a href="{ $url }">アドオン</a> であなたの几帳面さを発揮しましょう。
+features-bookmarks-practice-your-precision = フルページのスナップショットや迅速に切り替えできるサイドバー、セキュリティ万全なプライベートブックマークまで、さまざまなブックマークマネージャー<a href="{ $url }">アドオン</a>で精密な操作ができます。
+
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = ページ全体のスクリーンショットから、素早く切り替えられるサイドバー、よく整理された個人的ブックマークまで、考えられるあらゆるブックマーク管理 <a href="{ $url }">アドオン</a> であなたの几帳面さを発揮しましょう。
+features-bookmarks-practice-your-exactitude = フルページのスナップショットや迅速に切り替えできるサイドバー、セキュリティ万全なプライベートブックマークまで、さまざまなブックマークマネージャー<a href="{ $url }">アドオン</a>で自在な操作ができます。
