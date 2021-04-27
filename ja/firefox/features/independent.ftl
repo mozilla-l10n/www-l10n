@@ -2,20 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
 
 # HTML page title
-features-independent-firefox-a-different = { -brand-name-firefox } は、様々な場面で使える、他とは違ったブラウザー。さぁ、自由にブラウジングを。
+features-independent-firefox-a-different = { -brand-name-firefox }、変化する時代のための他とは違ったブラウザー。自由にブラウズ。
+
 # HTML page description
-features-independent-browse-the-internet = 自由で安全で誰もが参加可能といった、本来あるべき姿のインターネットをブラウジングしましょう。今こそあなたのオンラインでの独立性を宣言する時です。
-features-independent-firefox-rebel-with-a = { -brand-name-firefox }: 大義を持った<br>反乱軍
-features-independent-firefox-is-independent = { -brand-name-firefox } は独立性を保ち、個人のオンラインでの権利のために闘い、大企業の力を抑え、インターネットをどこでも誰でもアクセス可能にしようと活動している、{ -brand-name-mozilla } という非営利法人の一部です。
+features-independent-browse-the-internet = 自由、安全で、すべての人がアクセスできる、本来のインターネットをブラウズ。オンラインの独立を宣言してください。
+features-independent-firefox-rebel-with-a = { -brand-name-firefox }: 正しいもののために立ち上がる
+features-independent-firefox-is-independent = { -brand-name-firefox } は独立した団体で、非営利法人 { -brand-name-mozilla } の傘下です。ユーザーのオンライン権のために闘い、大企業の力からユーザーを守り、インターネットをあらゆる人がどこからでもアクセスできる場にしています。
+
 # This phrase means without conditions or restrictions, expecting nothing in return
-features-independent-no-strings-attached = 誰にも縛られずに
-features-independent-what-you-see-is-what = 見た通りのものが得られるもの
-features-independent-we-believe-the-internet = 私たちはインターネットが利益ではなく人々のためにあると信じています。他の企業と違って、私たちは第三者へあなたのデータへのアクセスを売り渡したりしません。検索やブラウジングの履歴を誰が見られるかはあなた自身が管理できます。選択肢 — それこそ健全なインターネットに求められているものです。
-features-independent-a-browser-on-a-mission = 使命を帯びたブラウザー
-features-independent-in-addition-to-fighting = 私たちは、皆さんのオンラインでの権利のために闘いながら、大企業の力を抑えたり、世界中の協力者とともに健全なインターネット習慣を育む取り組みを進めたりしています。ですから、あなたが { -brand-name-firefox } を選ぶとき、私たちがあなたを選ぶことにもなるのです。
+features-independent-no-strings-attached = 余計なものはありません
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } は、非営利法人が提供しています。そのため、隠れた意図なく新製品や新機能を開発するなど、他の企業にはできないことができます。トラッキング保護機能付きプライベートブラウジングなどのツールで、ユーザーのプライバシー権を守ります。
+
 # Obsolete string
-features-independent-firefox-is-a-browser = { -brand-name-firefox } は良心を持ったブラウザーです。技術界の非営利法人である { -brand-name-mozilla } の一部として、私たちは個人のオンラインでの権利のために闘い、大企業の力を抑え、発展途上国における健全なインターネット習慣の教育に協力しています。ですから、あなたが { -brand-name-firefox } を選ぶとき、私たちがあなたを選ぶことにもなるのです。
+features-independent-firefox-is-built-by = { -brand-name-firefox } は、非営利法人が提供しています。そのため、隠れた意図なく新製品や新機能を開発するなど、他の企業にはできないことができます。{ -brand-name-google } { -brand-name-chrome } や { -brand-name-microsoft } { -brand-name-edge } などにはないトラッキング保護機能付きプライベートブラウジングなどのツールで、ユーザーのプライバシー権を守ります。
+features-independent-what-you-see-is-what = あなたが見えるものは、あなたが手に入れるもの
+features-independent-we-believe-the-internet = 私たちは、インターネットは利益ではなく人のためにあるべきものと考えています。他の企業とは違い、ユーザーのデータを売り渡すことはしません。検索・閲覧履歴を閲覧できる人を決めるのは、<em>ユーザー本人</em>です。選択権、それこそが健全なインターネットの形です。
+features-independent-a-browser-on-a-mission = ミッションを掲げたブラウザー
+features-independent-in-addition-to-fighting = 私たちは、ユーザーのオンライン権のために闘うだけでなく、大企業の力からユーザーを守りつつ、世界中のパートナーと協力して健全なインターネットの慣行を育てています。つまり、あなたが { -brand-name-firefox } を選ぶとき、あなたもまた選ばれた存在となるのです。
+
+# Obsolete string
+features-independent-firefox-is-a-browser = { -brand-name-firefox } は、良心から生まれたブラウザーです。テクノロジー系の非営利法人 { -brand-name-mozilla } の傘下で、ユーザーのオンライン権のために闘い、ユーザーを大企業の力から守り、発展途上国のために健全なインターネット慣行の教育を支援しています。つまり、あなたが { -brand-name-firefox } を選ぶとき、あなたもまた選ばれた存在となるのです。
