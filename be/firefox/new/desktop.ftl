@@ -111,11 +111,16 @@ firefox-desktop-download-sync-your-devices = Сінхранізуйце вашы
 firefox-desktop-download-screenshots = Здымкі экрана
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Узмоцненая ахова ад сачэння (ETP)
+firefox-desktop-download-from-watching-a = Ад прагляду навучальных матэрыялаў да гульні ўлюбёнай каманды, ваша відэа ідзе за вамі ў час шматзадачнасці.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Атрымаць { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Атрымаць { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Сцягніце мабільны браўзер { -brand-name-firefox } для аўтаматычнай аховы на ўсіх вашых прыладах.
 firefox-desktop-download-learn-about-the = Даведайцеся больш пра браўзер { -brand-name-firefox } для камп'ютара ніжэй
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Ад бяспекі да навін і гульняў, знойдзецца <a { $attrs }>пашырэнне для кожнага</a>. Дадавайце столькі, колькі трэба, пакуль браўзер не стане ідэальным для вас.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } быў створаны <a { $attrs }>{ -brand-name-mozilla }</a> як больш хуткая, прыватная альтэрнатыва такім браўзерам, як { -brand-name-ie }, а цяпер { -brand-name-chrome }. Сёння наша скіраваная місіяй кампанія і добраахвотная супольнасць працягваюць ставіць вашу прыватнасць вышэй за ўсё.
