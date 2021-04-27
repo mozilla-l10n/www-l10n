@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox }-პროდუქტები განკუთვნილია თქვენი პირადულობის დასაცავად
-learn-more-about-firefox = გაიცანით უკეთ { -brand-name-firefox }, მისი ისტორია, შესაძლებლობები და მიზნებ
+learn-more-about-firefox = გაიცანით უკეთ { -brand-name-firefox }, მისი ისტორია, შესაძლებლობები და მიზნები
 learn-more-about = უკეთ გაეცანით { -brand-name-firefox }-ბრაუზერებს და პროდუქტებს, რომლებიც პატივისცემით ეპყრობა თქვენს მონაცემებს და შექმნილია პირადი მონაცემების სრულად დასაცავად მთელ ინტერნეტში.
 learn-more-faq = { -brand-name-firefox } ხ.დ.კ.
 the-history-of = ბრაუზერების ისტორია

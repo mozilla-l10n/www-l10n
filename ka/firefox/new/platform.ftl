@@ -50,7 +50,7 @@ new-platform-firefox-respects-your = { -brand-name-firefox } პატივს 
 new-platform-privacy-comes-first = პირადულობა უპირველეს ყოვლისა
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } არ გადევნებთ თვალს ძიებისას. ჩვენ ვზღუდავთ თვალთვალს ფუნთუშების მეშვეობით და სრულად გიბრუნებთ მართვის სადავეებს.
 new-platform-get-speed-and-security = მიიღეთ სისწრაფე და უსაფრთხოება. { -brand-name-firefox } სწრაფად მუშაობს { -brand-name-mac-short }-ზე, ვინაიდან ჩვენ არ ვადევნებთ თვალს თქვენს მოქმედებებს.
-new-platform-block-trackers = მეთვალყურეების შეზღუდვა
+new-platform-block-trackers = მეთვალყურეების შეზღუდვით
 new-platform-be-the-master-of-your = განაგეთ საკუთარი პირადი სივრცე, შიგთავსის მკაცრი შეზღუდვით. შეაჩერეთ თვალყურისმდევნებლები.
 # /firefox/windows/ HTML page title
 new-platform-download-mozilla-windows = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows }-ზე
