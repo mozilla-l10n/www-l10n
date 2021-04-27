@@ -131,6 +131,12 @@ firefox-desktop-download-as-the-internet = Разам з ростам і змя�
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } даступны для ўсіх вашых прылад; вазьміце з сабой карткі, гісторыю і закладкі. Усё, што вам трэба, гэта <a { $attrs }>ўліковы запіс { -brand-name-firefox }</a>.
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Зрабіце відарыс з высокай разрознасцю з чаго заўгодна ў сеціве з дапамогай нашага інструмента для <a { $attrs }>здымкаў экрана</a>, убудаванага прама ў браўзер
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аўтаматычна <a { $attrs }>блакуе мноства трэцебаковых трэкераў</a> ад збору і продажу звестак аб вашай дзейнасці ў Інтэрнэце.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
@@ -144,6 +150,10 @@ firefox-desktop-download-just-download-the-browser = Проста сцягніц
 firefox-desktop-download-almost-there = Амаль гатова!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Цяпер скончыце <strong>ўсталяванне</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Цяпер <strong>запусціце</strong> праграму ўсталявання, якая толькі што сцягнулася.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Цяпер <strong>адкрыйце</strong> файл, які толькі што сцягнуўся.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Узніклі праблемы? <a { $attrs }>Атрымайце дапамогу па ўсталяванні</a>.
