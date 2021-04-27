@@ -21,7 +21,7 @@ vpn-shared-features-encrypt = Verschlüsselung auf Geräteebene
 vpn-shared-features-servers = Mehr als { $servers } Server in über { $countries } Ländern
 vpn-shared-features-bandwidth = Keine Bandbreitenbeschränkungen
 vpn-shared-features-activity = Keine Protokollierung deiner Netzwerkaktivität
-vpn-shared-features-activity-logs = Wir protokollieren niemals Ihre Online-Aktivitäten
+vpn-shared-features-activity-logs = Wir protokollieren niemals deine Online-Aktivitäten
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Zugriff auf Server in über { $countries } Ländern
@@ -47,7 +47,7 @@ vpn-shared-features-full-list-servers = Hier findest du die vollständige <a hre
 vpn-shared-features-strong-servers = Starke Server in über { $countries } Ländern
 # Variables:
 #   $devices (number) - number of available devices
-vpn-shared-features-connect = Sie können bis zu { $devices } Geräte verbinden
+vpn-shared-features-connect = Du kannst bis zu { $devices } Geräte verbinden
 vpn-shared-refund-policy = Rückgaberichtlinien
 vpn-shared-privacy-notice = Datenschutzhinweis
 vpn-shared-terms-conditions = Bedingungen und Hinweise
@@ -78,13 +78,13 @@ vpn-shared-pricing-total = { $amount } insgesamt
 
 vpn-shared-platform-cta-headline = Einführung
 vpn-shared-platform-cta-button = Preise & Verfügbarkeit ansehen
-vpn-shared-platform-privacy-promise = Ihre Privatsphäre ist unser Versprechen
+vpn-shared-platform-privacy-promise = Deine Privatsphäre ist unser Versprechen
 vpn-shared-platform-trust-partner-headline = Über unseren vertrauenswürdigen Partner
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = Das { -brand-name-mozilla-vpn } betreibt ein globales Netzwerk von Servern, die <a href="{ $policy }">{ -brand-name-mullvad }</a> mit dem <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®-Protokoll nutzen. Für { -brand-name-mullvad } hat Ihre Privatsphäre oberste Priorität, daher werden Ihre Aktivitäten nicht aufgezeichnet.
-vpn-shared-platform-what-youll-get = Was Sie mit { -brand-name-mozilla-vpn } erhalten:
+vpn-shared-platform-trust-partner-copy = Das { -brand-name-mozilla-vpn } betreibt ein globales Netzwerk von Servern, die <a href="{ $policy }">{ -brand-name-mullvad }</a> mit dem <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®-Protokoll nutzen. Für { -brand-name-mullvad } hat deine Privatsphäre oberste Priorität, daher werden deine Aktivitäten nicht aufgezeichnet.
+vpn-shared-platform-what-youll-get = Was du mit { -brand-name-mozilla-vpn } erhältst:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Was ist ein VPN?
