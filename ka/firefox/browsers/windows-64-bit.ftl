@@ -14,7 +14,7 @@ windows-64-bit-64-bit = 64-ბიტიანი
 windows-64-bit-a-more-secure-firefox = მეტად დაცული { -brand-name-firefox }.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = მომხმარებლები, რომელთაც 64-ბიტიანი { -brand-name-windows } უყენიათ და ჩამოტვირთავენ { -brand-name-firefox }-ს, მიიღებენ ნაგულისხმევად 64-ბიტიან ვერსიას. ეს ნიშნავს, რომ გექნებათ მეტად დაცული { -brand-name-firefox }, რომელიც <a href="{ $crashes }">უფრო იშვიათად გაითიშება ხოლმე უეცრად</a>. რამდენად იშვიათად? ჩვენი კვლევებით, 64-ბიტიანი { -brand-name-firefox } უეცარ გათიშვებს ამცირებს 39%-ით 4გბაიტიანი ან მეტი ოპერატიულის მქონე კომპიუტერებზე.
+windows-64-bit-users-on-64-bit-windows-crashes = მომხმარებლები, რომელთაც 64-ბიტიანი { -brand-name-windows } უყენიათ და ჩამოტვირთავენ { -brand-name-firefox }-ს, ნაგულისხმევად 64-ბიტიან ვერსიას მიიღებენ. ეს ნიშნავს, რომ გექნებათ უკეთ დაცული { -brand-name-firefox }, რომელიც <a href="{ $crashes }">უეცრად, მეტად იშვიათად გაითიშება ხოლმე.</a>. რამდენად იშვიათად? ჩვენი კვლევებით, 64-ბიტიანი { -brand-name-firefox } უეცარ გათიშვებს ამცირებს 39%-ით 4გბაიტიანი ან მეტი ოპერატიულის მქონე კომპიუტერებზე.
 windows-64-bit-whats-the-difference = რა განსხვავებაა 32-ბიტიანსა და 64-ბიტიანს შორის?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
