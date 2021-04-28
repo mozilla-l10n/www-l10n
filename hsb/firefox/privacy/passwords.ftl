@@ -37,7 +37,7 @@ privacy-passwords-your-browser-also = Waš wobhladowak was tež wo tym informuje
 privacy-passwords-firefox-will = Firefox warnowanje město websydła pokaza, jeli wo sydło dźe, kotrež daty kradnje.
 privacy-passwords-in-general-the = W cyłku je najlěpše zakitowanje přećiwo kradnjenju datow, zo <strong>tomu njedowěrjeće, štož dóstawaće</strong>, hač so w mejlce, tekstowej powěsći abo na telefonje jewi. Wopytajće sydło direktnje, město toho zo byšće so na to spušćił, štož je wam něchtó pósłał. Jeli wam na přikład mejlka zdźěla, zo maće swoje hesło za PayPal wróćo stajić, njeklikńće na wotkaz. Zapodajće město toho paypal.com. Jeli banka zazwoni, zazwońće wróćo.
 privacy-passwords-strength-in-diversity = Sylnosć we wšelakorosći
-privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeho maćerje je „Ff926AKa9j6Q“
+privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeje maćerje je „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajće sej pomoc wot zrjadowaka hesłow
 privacy-passwords-twofactor-authentication-2fa = Dwufaktorowa awtentifikacija (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
