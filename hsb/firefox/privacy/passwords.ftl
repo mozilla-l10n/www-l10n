@@ -23,6 +23,7 @@ privacy-passwords-guessing-it = Zhóduje jo
 privacy-passwords-stealing-a-file = Kradnje dataju, kotraž waše hesło wobsahuje
 privacy-passwords-using-password-recovery = Wužiwa hesłowe wobnowjenje, zo by jo wróćo stajił
 privacy-passwords-tricking-you-into = Pohnuwa was k tomu, zo jo jemu dawaće.
+privacy-passwords-to-keep-your = Zo byšće swoje přizjewjenje škitał, dyrbiće tak wjele z tych rizikow zadźěwać, jeli móžno. Kóžde riziko da so hinak redukować.
 privacy-passwords-look-for-the = Pytajće zamk w swojim wobhladowaku
 privacy-passwords-a-closed-lock = Začinjeny zamk so direktnje před websydłowej adresu w adresowym polu we wšěch hłownych wobhladowakach pokazuje.
 privacy-passwords-a-padlock-with = Přešmórnjeny zamk podawa, zo zwisk wěsty njeje
