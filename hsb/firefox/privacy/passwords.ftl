@@ -27,6 +27,7 @@ privacy-passwords-to-keep-your = Zo byšće swoje přizjewjenje škitał, dyrbi�
 privacy-passwords-look-for-the = Pytajće zamk w swojim wobhladowaku
 privacy-passwords-a-closed-lock = Začinjeny zamk so direktnje před websydłowej adresu w adresowym polu we wšěch hłownych wobhladowakach pokazuje.
 privacy-passwords-a-padlock-with = Přešmórnjeny zamk podawa, zo zwisk wěsty njeje
+privacy-passwords-firefox-will = Firefox warnowanje město websydła pokaza, jeli wo sydło dźe, kotrež daty kradnje.
 privacy-passwords-strength-in-diversity = Sylnosć we wšelakorosći
 privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeho maćerje je „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajće sej pomoc wot zrjadowaka hesłow
