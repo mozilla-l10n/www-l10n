@@ -7,10 +7,10 @@
 
 features-adblocker-how-to-block-annoying = วิธีปิดกั้นโฆษณาที่น่ารำคาญโดยใช้ตัวปิดกั้นโฆษณา
 features-adblocker-how-to-stop-seeing-too = วิธีหยุดเห็นโฆษณามากเกินไปและป้องกันไม่ให้บริษัทต่าง ๆ ติดตามคุณในโลกออนไลน์ คำแนะนำตัวปิดกั้นโฆษณาจากเว็บเบราว์เซอร์ { -brand-name-firefox }
-features-adblocker-the-ad-blocker-a-secret = ตัวบล็อคโฆษณา อาวุธลับป้องกันโฆษณาที่น่ารำคาญ
-features-adblocker-so-many-ads-so-little = ยิ่งมีโฆษณาเยอะ ก็ยิ่งมีความอดทนน้อย… ถึงเวลาแล้วที่จะหยุดความบ้าคลั่ง
+features-adblocker-the-ad-blocker-a-secret = ตัวปิดกั้นโฆษณา อาวุธลับป้องกันโฆษณาที่น่ารำคาญ
+features-adblocker-so-many-ads-so-little = ยิ่งมีโฆษณาเยอะ ก็ยิ่งมีความอดทนน้อยลง… ถึงเวลาแล้วที่จะหยุดความบ้าคลั่ง
 features-adblocker-the-average-person-sees = โดยเฉลี่ยแล้ว แต่ละคนเห็นโฆษณา 4,000 รายการต่อวัน หากคุณคิดว่ามันมากเกินไป ตัวปิดกั้นโฆษณาคือเพื่อนที่ดีที่สุดคนใหม่ของคุณ
-features-adblocker-find-the-right-ad-blocker = ค้นหาตัวบล็อคโฆษณาสำหรับคุณ
+features-adblocker-find-the-right-ad-blocker = ค้นหาตัวปิดกั้นโฆษณาที่เหมาะสำหรับคุณ
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = นี่คือ <a href="{ $url }">AdBlocker Ultimate</a> ที่จะกำจัดโฆษณาทุกอันออกไป แต่ผู้ซื้อควรระมัดระวัง หนังสือพิมพ์และนิตยสารที่คุณโปรดปรานบางเล่มพึ่งพาการโฆษณา การที่คนปิดกั้นโฆษณาของพวกเขามากเกินไปจะทำให้เขาเจ๊งได้
