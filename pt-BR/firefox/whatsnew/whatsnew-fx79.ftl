@@ -8,7 +8,7 @@
 # HTML page title
 whatsnew79-page-title = Novidades no { -brand-name-firefox }
 # Main title
-whatsnew79-main-title = Mantenha seus dados privativos de todos – inclusive nós
+whatsnew79-main-title = Mantenha seus dados privativos de todos – inclusive de nós
 whatsnew79-main-intro = A internet deve ser um lugar seguro para todos. É por isso que o { -brand-name-firefox } não segue você pela internet e também impede que outros sigam.
 # Main CTA button
 whatsnew79-primary-cta = Torne o { -brand-name-firefox } padrão
