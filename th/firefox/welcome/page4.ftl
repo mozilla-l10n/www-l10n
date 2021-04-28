@@ -15,3 +15,14 @@ welcome-page4-download-firefox-for-your = ดาวน์โหลด { -brand-n
 welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: เบราว์เซอร์ที่เป็นส่วนตัวและปลอดภัย” บน { -brand-name-ios } หรือ { -brand-name-android }
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = ไล่ตัวติดตามข้อมูลให้พ้นไปจากตัวคุณ
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+welcome-page4-enhanced-tracking-protection = การป้องกันการติดตามที่มากขึ้น<a href="{ $privacy }">จะปิดกั้นตัวติดตาม 2000+ ตัว</a>ไม่ให้ตามรอยคุณระหว่างท่องเว็บ
+# "Leave no trace" is an expression for leaving nothing behind.
+welcome-page4-leave-no-trace = ไม่ทิ้งร่องรอยใด ๆ ไว้
+welcome-page4-automatically-clear-your-history = ล้างประวัติและคุกกี้ของคุณโดยอัตโนมัติด้วยโหมดการเรียกดูแบบส่วนตัว
+welcome-page4-go-faster-do-more = ทำสิ่งต่าง ๆ ได้เร็วและมากขึ้น
+welcome-page4-take-it-all-with-you = นำทุกอย่างไปกับคุณ
+welcome-page4-more-done-fast-smart = ทำสิ่งต่าง ๆ ในแต่ละวันของคุณได้มากขึ้นด้วยการโหลดหน้าที่เร็วสุด ๆ และข้อเสนอแนะการค้นหาแบบอัจฉริยะ
+welcome-page4-dont-walk-out-the-door-without = อย่าเพิ่งเปิดประตูเดินออกไปโดยที่ไม่มีที่คั่นหน้า แท็บ บันทึก และรหัสผ่านของคุณ
+welcome-page4-why-am-i-seeing-this = ทำไมฉันจึงเห็นสิ่งนี้
