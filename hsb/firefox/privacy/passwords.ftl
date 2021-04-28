@@ -8,10 +8,11 @@
 # HTML page title
 privacy-passwords-security-guide-to = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
 # HTML page description
-privacy-passwords-more-and-more-desc = Přeco wjace sensibelnych, hódnotnych wěcow w našim žiwjenju so přez hesło škitane konta online škita. Kak mamy waše přizjewjenja škitać?
+privacy-passwords-more-and-more-desc = Přeco wjace sensibelnych, hódnotnych wěcow w našim žiwjenju so z přez hesło škitanymi kontami online škita. Kak mamy waše přizjewjenja škitać?
 # page content
 privacy-passwords-a-security-guide = Wěstotny přewodnik za wěsćiše přizjewjenja a hesła
 privacy-passwords-protecting-your-accounts = Škitanje wašich kontow njetrjeba komplikowane być – a { -brand-name-firefox } móže pomhać.
+privacy-passwords-more-and-more = Přeco wjace sensibelnych, hódnotnych wěcow w našim žiwjenju so z přez hesło škitanymi kontami online škita – lubosćinske listy, akty pacientow, bankowe konta a wjace. Websydła přizjewjenske metody wužiwaja, zo bychu te hódnotny wěcy škitali. Hdyž nichtó njemóže so pola wašeho konta přizjewić, njemóže waše mejlki čitać abo pjenjeze z wašeho bankoweho konta přepokazać. Kak měli my naše přizjewjenja škitać, hdyž smy naše žiwjenja online žiwi?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Zjeće:
 privacy-passwords-use-random-passwords = Wužiwajće připadne hesła, a wužiwajće druhe hesło za kóžde sydło
