@@ -13,6 +13,9 @@ privacy-passwords-protecting-your-accounts = Škitanje wašich kontow njetrjeba 
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Zjeće:
 privacy-passwords-use-random-passwords = Wužiwajće připadne hesła, a wužiwajće druhe hesło za kóžde sydło
+privacy-passwords-pay-attention-to = Kedźbujće na wěstotne signale wobhladowaka a budźće njedowěrliwy
+privacy-passwords-make-your-answers = Čińće swoje wotmołwy na wěstotne prašenja tak mócne kaž swoje hesła
+privacy-passwords-use-a-password = Wužiwajće zrjadowak hesłow, zo byšće wutworjenje a składowanje hesłow wosnadnił
 privacy-passwords-use-twofactor-authentication = Wužiwajće „dwufaktorowu awtentifikaciju“, hdźežkuli móžeće
 privacy-passwords-its-hard-out = Hesła so ćežko maja
 privacy-passwords-seeing-you-use = Widźi, zo jo z njezaklučowanym websydłom wužiwaće
