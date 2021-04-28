@@ -37,6 +37,7 @@ privacy-passwords-your-browser-also = Waš wobhladowak was tež wo tym informuje
 privacy-passwords-firefox-will = Firefox warnowanje město websydła pokaza, jeli wo sydło dźe, kotrež daty kradnje.
 privacy-passwords-in-general-the = W cyłku je najlěpše zakitowanje přećiwo kradnjenju datow, zo <strong>tomu njedowěrjeće, štož dóstawaće</strong>, hač so w mejlce, tekstowej powěsći abo na telefonje jewi. Wopytajće sydło direktnje, město toho zo byšće so na to spušćił, štož je wam něchtó pósłał. Jeli wam na přikład mejlka zdźěla, zo maće swoje hesło za PayPal wróćo stajić, njeklikńće na wotkaz. Zapodajće město toho paypal.com. Jeli banka zazwoni, zazwońće wróćo.
 privacy-passwords-strength-in-diversity = Sylnosć we wšelakorosći
+privacy-passwords-the-secret-to = Potajnstwo, zo by wuhódanju, kradnjenju abo wróćostajenju hesła zadźěwało, je wjele připadnosće. Hdyž nadpadnicy pospytuja hesła wuhódać, činja zwjetša dwě wěcy: 1) Wužiwaja „słowniki“ – lisćiny hustych hesłow, kotrež ludźo kóždy čas wužiwaja a 2) wuhódaja je přez připad. Čim <strong>dlějše a připadniše waše hesło je</strong> ćim mjenje prawdźepodobnje je, zo jedna z tuteju hódanskeju technikow je namaka.
 privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeje maćerje je „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajće sej pomoc wot zrjadowaka hesłow
 privacy-passwords-twofactor-authentication-2fa = Dwufaktorowa awtentifikacija (2FA)
