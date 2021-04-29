@@ -7,6 +7,8 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Wěstotny pśewódnik za wěsćejše pśizjawjenja a gronidła
+# HTML page description
+privacy-passwords-more-and-more-desc = Stawnje wěcej sensibelnych, gódnotnych wěcow w našom žywjenju se z pśez gronidko šćitanymi kontami online šćita. Kak mamy waše pśizjawjenja šćitaś?
 # page content
 privacy-passwords-a-security-guide = Wěstotny pśewódnik za wěsćejše pśizjawjenja a gronidła
 privacy-passwords-protecting-your-accounts = Šćitanje wašych kontow njetrjeba komplicěrowane byś – a { -brand-name-firefox } móžo pomagaś.
