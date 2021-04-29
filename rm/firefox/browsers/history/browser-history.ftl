@@ -30,3 +30,9 @@ browser-history-the-browser-wars = La lutga dals navigaturs-web
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Il 1995 n'era il { -brand-name-netscape } Navigator betg l'unica via per navigar online. Il gigant da software per software da computers { -brand-name-microsoft } ha obtegnì la licenza dal vegl code da Mosaic ed ha sviluppà cun <a href="{ $ie }">{ -brand-name-ie }</a> ses agen access al web. Questa nova ediziun ha provocà ina guerra. { -brand-name-netscape } e { -brand-name-microsoft } han lavurà sco nars per sviluppar novas versiuns da lur programs. Mintgin ha empruvà da superar l'auter cun products ch'eran mintgamai megliers e pli svelts.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = { -brand-name-netscape } ha creà e publitgà JavaScript. Quai ha dà a las paginas-web pussaivladads da calculaziun sin in nivel anc mai vesì. ({ -brand-name-netscape } ha era sviluppà il <a href="{ $blink }">&lt;blink&gt; tag</a> da renum dubius.) { -brand-name-microsoft } ha reagì cun ils Cascading Style Sheets (CSS) ch'èn daventads da qua envi il standard per la creaziun da paginas-web.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Il 1997 è l'entira chaussa escalada in pau cura che { -brand-name-microsoft } ha lantschà { -brand-name-ie } 4.0. Il team ha construì in «e» gigantic e l'ha tschentà si dascusamain sin il tschispet dal sez principal da { -brand-name-netscape }. Ils emploiads da { -brand-name-netscape } han reagì immediatamain ed han cupitgà l'«e» gigantic e <a href="{ $dino }">l'han remplazzà cun lur agen simbol da { -brand-name-mozilla }, il dinosaur mascottin, ch'els han plazzà sisur</a>.
