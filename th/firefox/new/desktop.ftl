@@ -10,10 +10,13 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = ดาวน์โหลด { -brand-name-firefox-browser } — เร็ว เป็นส่วนตัว และฟรี — จาก { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = รับ { -brand-name-firefox } เว็บเบราว์เซอร์ฟรีที่พัฒนาโดย { -brand-name-mozilla } มูลนิธิไม่แสวงหาผลกำไรที่อุทิศตนในเรื่องสุขภาพอินเทอร์เน็ตและความเป็นส่วนตัว พร้อมให้ใช้แล้วบน { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } และ { -brand-name-ios }
 firefox-desktop-download-og-title = ดาวน์โหลด { -brand-name-firefox } ที่เร็วที่สุดกว่าที่เคย
 firefox-desktop-download-og-desc = โหลดหน้าได้เร็วขึ้น ใช้หน่วยความจำน้อยลง และยังเต็มไปด้วยคุณลักษณะต่าง ๆ { -brand-name-firefox } ใหม่อยู่ที่นี่แล้ว
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = รับเบราว์เซอร์ที่ปกป้องสิ่งที่สำคัญ
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = ไม่มีนโยบายความเป็นส่วนตัวที่คลุมเครือหรือประตูหลังสำหรับผู้โฆษณา มีเพียงเบบราว์เซอร์ที่เร็วสุด ๆ ที่ไม่เอาข้อมูลของคุณไปขาย
 firefox-desktop-download-download-options = ตัวเลือกการดาวน์โหลดและภาษาอื่น ๆ
 firefox-desktop-download-browser-support = การสนับสนุน { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
