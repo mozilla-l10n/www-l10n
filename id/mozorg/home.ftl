@@ -2,19 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
-home-internet-for-people-not-profit = Internet untuk masyarakat, bukan profit
-home-did-you-know-mozilla-the-maker = Tahukah Anda? { -brand-name-mozilla } — pembuat { -brand-name-firefox } — berjuang untuk menjaga Internet sebagai sumber daya publik terbuka dan dapat diakses oleh semua.
+home-internet-for-people-not-profit = Internet untuk semua orang, bukan untuk mendapatkan keuntungan
+home-did-you-know-mozilla-the-maker = Tahukah Anda? { -brand-name-mozilla } — sebagai pembuat { -brand-name-firefox } — berjuang agar internet tetap menjadi sumber daya publik global, terbuka, dan dapat diakses oleh semua.
 home-fast-for-good = Cepat untuk kebaikan.
 home-with-2x-the-speed-built-in = Dengan kecepatan 2x lipat, perlindungan privasi bawaan, dan { -brand-name-mozilla } di belakangnya, { -brand-name-firefox } baru adalah cara yang lebih baik untuk menjelajah.
 home-we-make-the-internet-safer = Kami membuat internet menjadi lebih aman, lebih sehat, dan lebih cepat untuk kebaikan.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } adalah organisasi nirlaba di balik { -brand-name-firefox }, peramban alternatif orisinal. Kami menciptakan produk dan kebijakan untuk menjaga internet sebagai layanan masyarakat, bukan untuk laba.
 home-our-impact = Pengaruh kami
 home-when-you-use-firefox-you-help = Ketika Anda menggunakan { -brand-name-firefox }, Anda membantu { -brand-name-mozilla } melawan informasi daring yang salah, mengajarkan keterampilan digital, dan membuat bagian komentar lebih manusiawi. Lihat apa yang membantu menciptakan internet yang lebih sehat.
-home-working-to-keep-the-internet = Bekerja untuk menjaga Internet yang sehat, terbuka, dan bisa diakses semua orang, kami mengajarkan literasi web, menyediakan perangkat dan beradvokasi mewakili individu yang menghargai Internet sebagai sumber daya publik global.
-home-working-at-the-grassroots-and = Bekerja pada akar dan level kebijakan, kami mengajarkan literasi web, menyediakan perangkat dan beradvokasi mewakili individu yang menghargai internet yang dibuat di atas keadilan, inklusi, dan rasa hormat.
+home-working-to-keep-the-internet = Bekerja agar internet tetap sehat, terbuka, dan dapat diakses oleh semua orang, kami mengajarkan literasi web, menyediakan alat, dan mendukung setiap individu yang menghargai internet sebagai sumber daya publik global.
+home-working-at-the-grassroots-and = Bekerja di tingkat akar rumput dan kebijakan, kami mengajarkan literasi web, menyediakan alat, dan mendukung setiap individu yang menetapkan internet dibangun di atas keadilan, inklusi, dan rasa hormat.
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } Information Trust Initiative
 home-empowering-women-online = Memberdayakan Wanita Secara Daring
 home-the-coral-project = The Coral Project
