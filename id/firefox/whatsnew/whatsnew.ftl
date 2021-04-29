@@ -4,11 +4,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
 
-whatsnew-page-title = Yang baru dari { -brand-name-firefox } - Lebih privat, lebih banyak perlindungan.
-whatsnew-page-description = Ambil sikap terhadap industri yang menjual data Anda ke pihak ketiga. Tetap bijak dan aman saat online dengan teknologi yang berjuang untuk Anda.
-whatsnew-up-to-date-notification = Selamat! Anda telah menggunakan { -brand-name-firefox-browser } versi terbaru.
-whatsnew-out-of-date-notification = { -brand-name-firefox-browser } yang lebih baru juga tersedia. Mulai ulang untuk memperbarui.
+whatsnew-page-title = Apa yang baru di { -brand-name-firefox } - Lebih banyak privasi, lebih banyak perlindungan.
+whatsnew-page-description = Tentukan sikap Anda terhadap industri yang menjual data pengguna ke pihak ketiga. Tetap cerdas dan aman saat daring dengan teknologi yang berjuang untuk Anda.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification = Selamat! Anda menggunakan { -brand-name-firefox-browser } versi terbaru.
+whatsnew-out-of-date-notification = { -brand-name-firefox-browser } yang lebih baru bahkan sudah tersedia. Restart untuk memperbarui.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Baca <a href="{ $url }">Catatan Rilis</a> untuk mengetahui lebih lanjut tentang apa yang baru di browser { -brand-name-firefox } Anda.
+whatsnew-release-notes = Baca <a href="{ $url }">Catatan Rilis</a> untuk mengetahui selengkapnya tentang informasi terbaru peramban { -brand-name-firefox }.
