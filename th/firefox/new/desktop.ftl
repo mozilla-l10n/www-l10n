@@ -94,17 +94,36 @@ firefox-desktop-download-extensions-for-every = ส่วนขยายสำ�
 firefox-desktop-download-change-up-your = เปลี่ยนรูปลักษณ์ของคุณ
 firefox-desktop-download-go-from-light = เลือกใช้ชุดตกแต่งได้ตามอารมณ์หรือความชอบของคุณ ตั้งแต่โหมดสว่างไปจนถึงโหมดมืด หรือใช้ชุดตกแต่งที่กำหนดเองก็ได้ (เช่น ยูนิคอร์นสีรุ้ง)
 firefox-desktop-download-tweak-your-settings = ปรับแต่งการตั้งค่าของคุณ
+firefox-desktop-download-theres-no-need = ไม่ต้องเรียนรู้วิธีอะไรเพิ่มเติม เปลี่ยนหน้าแท็บใหม่ แถบค้นหา ที่คั่นหน้า และอื่น ๆ เพื่อสำรวจอินเทอร์เน็ตในแบบที่คุณต้องการ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = พัฒนาโดยมูลนิธิ<strong>ไม่แสวงหาผลกำไร</strong>ที่ให้ความสำคัญกับผู้คนก่อน
+firefox-desktop-download-challenging-the-status = อยู่ในสถานะต่อสู้มาตลอดตั้งแต่ปี 1998
 firefox-desktop-download-your-privacy-comes = ความเป็นส่วนตัวของคุณต้องมาก่อน
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = เก็บคุณลักษณะเบราว์เซอร์โปรดของคุณไว้ และ<strong>ค้นพบ</strong>คุณลักษณะใหม่ ๆ
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = เครื่องมือของ { -brand-name-google } โปรดของคุณ (เช่น Gmail และเอกสาร) จะทำงานใน{ -brand-name-firefox-browser } ได้อย่างไร้รอยต่อ
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >ดาวน์โหลดส่วนขยายเบราว์เซอร์นี้</a>เพื่อหยุด { -brand-name-facebook } (และ { -brand-name-instagram }) ไม่ให้ติดตามคุณขณะท่องเว็บ
 firefox-desktop-download-sync-your-devices = ซิงค์อุปกรณ์ของคุณ
 firefox-desktop-download-screenshots = ภาพหน้าจอ
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = การป้องกันการติดตามที่มากขึ้น (ETP)
+firefox-desktop-download-from-watching-a = ไม่ว่าจะดูบทช่วยสอนเว็บ หรือติดตามทีมโปรดของคุณ วิดีโอของคุณจะตามคุณไปขณะที่คุณทำงานหลายงานพร้อมกัน
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = รับ{ -brand-name-firefox-browser } สำหรับ <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = รับ{ -brand-name-firefox-browser } สำหรับ <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = ดาวน์โหลดเบราว์เซอร์มือถือ { -brand-name-firefox } สำหรับการป้องกันแบบอัตโนมัติบนอุปกรณ์ทุกเครื่องของคุณ
 firefox-desktop-download-learn-about-the = เรียนรู้เกี่ยวกับเบราว์เซอร์เดสก์ท็อป { -brand-name-firefox } ด้านล่าง
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = มี<a { $attrs }>ส่วนขยายสำหรับทุกคน</a>ไม่ว่าจะเป็นความปลอดภัย ข่าว หรือเกม เพิ่มส่วนขยายเท่าที่คุณต้องการจนกว่าคุณจะพอใจ
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ถูกสร้างขึ้นโดย <a { $attrs }>{ -brand-name-mozilla }</a> ในฐานะเบราว์เซอร์ทางเลือกที่เร็วและเป็นส่วนตัวกว่า { -brand-name-ie } และ { -brand-name-chrome } วันนี้ บริษัทที่ขับเคลื่อนโดยภารกิจและชุมชนอาสาสมัครของเรายังคงให้ความสำคัญกับความเป็นส่วนตัวของคุณก่อนทุกอย่างเสมอ
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = คุณได้ติดตั้งเบราว์เซอร์แล้ว ตอนนี้มาใช้คุณลักษณะเพิ่มเติมจาก { -brand-name-firefox } กันดีกว่า
 firefox-desktop-download-watch-for-hackers-with = เฝ้าดูแฮกเกอร์ด้วย { -brand-name-firefox-monitor }, ปกป้องรหัสผ่านด้วย { -brand-name-firefox-lockwise } และอื่น ๆ
