@@ -33,8 +33,8 @@ vpn-landing-faq-heading = Questions fréquentes
 vpn-langing-faq-uses-question-heading = Qu’est-ce qu’un VPN et ses utilisations ?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = Alors qu’Internet prend une place de plus en plus importante dans notre quotidien, la confidentialité et la sécurité en ligne deviennent encore plus primordiales. Un VPN ou <a href="{ $url }">réseau privé virtuel</a> peut vous aider à créer une connexion sécurisée et privée à Internet. Il fonctionne en créant un « tunnel » sécurisé entre votre appareil et Internet en général, et il vous protège de deux manières importantes :
-vpn-landing-faq-uses-conceal = En masquant votre véritable adresse IP. Cela protège votre identité et obscurcit votre emplacement.
+vpn-landing-faq-uses-question-desc = Alors qu’Internet prend une place de plus en plus importante dans notre quotidien, la confidentialité et la sécurité en ligne deviennent encore plus primordiales. Un VPN ou un <a href="{ $url }">Virtual Private Network</a> peut vous aider à créer une connexion sécurisée et privée à Internet. Il fonctionne en créant un « tunnel » sécurisé entre votre appareil et Internet, et il vous protège de deux manières importantes :
+vpn-landing-faq-uses-conceal = En masquant votre véritable adresse IP. Cela protège votre identité et cache votre localisation.
 vpn-landing-faq-uses-encrypt = En chiffrant le trafic entre vous et votre fournisseur VPN afin que personne sur votre réseau local ne puisse le déchiffrer ou le modifier.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
@@ -42,16 +42,16 @@ vpn-landing-faq-uses-examples = Découvrez <a href="{ $url }"> cinq exemples con
 vpn-landing-faq-info-question-heading = Quelles informations { -brand-name-mozilla-vpn } conserve-t-il ?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Avec nous, vos activités sur le réseau ne sont jamais enregistrées, pistées ou partagées. Nous adhérons strictement aux <a href="{ $url }">principes de confidentialité des données</a> de { -brand-name-mozilla } en collectant uniquement les données les plus vitales pour maintenir le VPN opérationnel et améliorer le produit au fil du temps.
+vpn-landing-faq-info-question-desc = Avec nous, vos activités sur le réseau ne sont jamais enregistrées, pistées ou partagées. Nous adhérons strictement aux <a href="{ $url }">principes de confidentialité des données</a> de { -brand-name-mozilla } en collectant uniquement les données nécessaires pour faire fonctionner le VPN et améliorer le produit au fil du temps.
 vpn-landing-faq-protected-question-heading = Comment ma confidentialité en ligne est-elle protégée ?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = Le protocole <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® chiffre le trafic de votre réseau en protégeant toutes vos données privées. Par rapport aux protocoles VPN existants, le code léger de { -brand-name-wireguard } est plus facile à examiner et à auditer pour les analystes de sécurité, ce qui crée une option plus sécurisée pour le VPN. De plus, vos activités en ligne peuvent rester anonymes, car avec nous les données de votre réseau ne sont jamais enregistrées, pistées ou partagées.
+vpn-landing-faq-protected-question-desc = Le protocole <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® chiffre le trafic de votre réseau en protégeant toutes vos données privées. Par rapport aux protocoles VPN existants, le code léger de { -brand-name-wireguard } est plus facile à examiner et à auditer pour les experts de sécurité, ce qui rend le VPN plus sécurisée. De plus, vos activités en ligne peuvent rester anonymes car avec nous les données personnelles ne sont jamais enregistrées, pistées ou partagées.
 vpn-landing-faq-competition-question-heading = Quelles sont les grandes différences entre { -brand-name-mozilla-vpn } et la concurrence ?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
-vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que { -brand-name-mozilla-vpn } en matière de confidentialité, et peuvent vendre ou stocker vos données. D’autres VPN payants n’ont pas la même  <a href="{ $url }">expérience</a>  que { -brand-name-mozilla } qui, depuis 1998, a créé des produits qui mettent leurs utilisateurs et la confidentialité en ligne au premier plan.
+vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que celui de { -brand-name-mozilla-vpn } en matière de confidentialité, et peuvent vendre ou stocker vos données. D’autres VPN payants n’ont pas la même  <a href="{ $url }">expérience</a>  que { -brand-name-mozilla } qui, depuis 1998, a créé des produits qui mettent leurs utilisateurs et la confidentialité en ligne au premier plan.
 vpn-landing-faq-compatibility-question-heading = Avec quels appareils { -brand-name-mozilla-vpn } est-il compatible ?
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } est compatible avec :
