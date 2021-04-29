@@ -44,6 +44,7 @@ privacy-passwords-when-an-attacker = Hdyž nadpadnik datowu banku hesłow za syd
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Wužiwajće <a { $url_monitor }>{ -brand-name-firefox-monitor }</a>, zo byšće e-mejlowe adresy we wóčku wobchował, kotrež su z wašimi kontami zwjazane. Jeli so waša e-mejlowa adresa w znatej předewzaćelskej datowej dźěrje jewi, dóstanjeće warnowanje a kroki, kotrež wy měł přewjesć, zo byšće potrjechene konto škitał.
 privacy-passwords-security-questions-my = Wěstotne prašenja: Holče mjeno mojeje maćerje je „Ff926AKa9j6Q“
+privacy-passwords-finally-most-websites = Skónčnje wam najwjace websydłow zmóžnja, waše hesło wobnowić, jeli sće jo zabył. Zwjetša sej systema žadaja, zo na někotre „wěstotne prašenja“ wotmołwjeće, prjedy hač móžeće swoje hesło wróćo stajić. <strong>Wotmołwy na tute prašenja dyrbja runje tak tajne kaž waše hesło być.</strong> Hewak móže nadpadnik wotmołwy wuhódać a hesło na něšto stajić, kotrež wón znaje.
 privacy-passwords-get-help-from = Wobstarajće sej pomoc wot zrjadowaka hesłow
 privacy-passwords-twofactor-authentication-2fa = Dwufaktorowa awtentifikacija (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
