@@ -39,7 +39,7 @@ privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } tleqqeḍ-d
 privacy-faq-we-make-our-documentation-public = Tasemlit-nneɣ d tazayezt akken yal yiwen ad yizmir ad isenqed dakken ayen id-neqqar d tidet, ini-aɣ-id ayen ilaq ad nesnerni, tzemreḍ ad twaliḍ ur neffir kra.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Tasemlit-a d timseɛreqt i nekk. Ɣur-wen lqem s teqbaylit yettwafhamen kra?
-privacy-faq-there-are-two-categories-of = Llant snat n taggayin n isefka i nleqqeḍ s wudem amezwer di lqem uzwir n Firefow.
+privacy-faq-there-are-two-categories-of = Llant snat n taggayin n yisefka i nleqqeḍ s wudem amezwer deg lqem uzwir n { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Tamenzut d ayen i wumi qqaren " Isefka itiknikayen."D isefka-agi ɣef iminig, am unagraw n wammud iteddun akked d talɣut ɣef tuccḍiwin neɣ iɣelluyen.
 privacy-faq-the-second-is-what-we-call-interaction = Tis snta tcudd ɣer "yisefka n temyigawt". D isefka icudden ɣer ɣer wamek yettili useqdec n  { -brand-name-firefox } am umḍan n yiccaren yeldin, addad n yismenyifenn useqdac neɣ acḥal n tikwal i tettwaseqdec tmahilt (tuṭṭfa n ugdil neɣ iccaren n usatal, s umedya kan). Akken ad neṭṭef amedya yesɛan azal, ad tsendeḍ ɣef tqeffalt "aseter yezrin, Tignit s talɣa n uneccab deg tama n ufella azelmaḍ. Ad nsekles ma yella yiwen iseqdec tamahilt-a maca ur nẓeṛ ara anwa isebtar i yettwarzan.
 privacy-faq-do-you-collect-more-data-in = Tleqqḍem daɣen isefka-nniḍen deg ileqman uzwiren n { -brand-name-firefox }?
