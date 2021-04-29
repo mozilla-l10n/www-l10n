@@ -53,6 +53,10 @@ vpn-landing-faq-competition-question-heading = Quelles sont les grandes différe
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que celui de { -brand-name-mozilla-vpn } en matière de confidentialité, et peuvent vendre ou stocker vos données. D’autres VPN payants n’ont pas la même  <a href="{ $url }">expérience</a>  que { -brand-name-mozilla } qui, depuis 1998, a créé des produits qui mettent leurs utilisateurs et la confidentialité en ligne au premier plan.
 vpn-landing-faq-compatibility-question-heading = Avec quels appareils { -brand-name-mozilla-vpn } est-il compatible ?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } est compatible avec vos <a href="{ $mobile }">téléphones</a>, tablettes et <a href="{ $desktop }">ordinateurs de bureau</a> utilisant :
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } est compatible avec :
 # Outdated string
@@ -66,12 +70,12 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 et p
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (uniquement { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Quelle est la politique de remboursement de { -brand-name-mozilla-vpn } ?
-vpn-landing-faq-refund-question-desc = Vous pouvez récupérer les frais d’inscription dans les 30 jours suivant l’achat de votre abonnement. Contactez-nous et soumettez la demande de remboursement en appuyant sur le bouton « Obtenir de l’aide » dans les paramètres de votre application { -brand-name-mozilla-vpn }.
+vpn-landing-faq-refund-question-desc = Vous pouvez vous faire rembourser l'abonnement dans les 30 jours suivant l’achat. Contactez-nous et envoyez la demande de remboursement en appuyant sur le bouton « Obtenir de l’aide » dans les paramètres de votre application { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Comment gérer mon abonnement et le changer ?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Si vous utilisez déjà { -brand-name-mozilla-vpn }, vous pouvez <a href="{ $url }">modifier votre forfait</a> ou gérer votre abonnement à tout moment.
-vpn-landing-faq-link = Découvrir plus de questions fréquentes
+vpn-landing-faq-link = Consulter plus de questions fréquentes
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
