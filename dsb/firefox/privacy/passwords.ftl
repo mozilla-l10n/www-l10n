@@ -12,9 +12,13 @@ privacy-passwords-more-and-more-desc = Stawnje wěcej sensibelnych, gódnotnych 
 # page content
 privacy-passwords-a-security-guide = Wěstotny pśewódnik za wěsćejše pśizjawjenja a gronidła
 privacy-passwords-protecting-your-accounts = Šćitanje wašych kontow njetrjeba komplicěrowane byś – a { -brand-name-firefox } móžo pomagaś.
+privacy-passwords-more-and-more = Stawnje wěcej sensibelnych, gódnotnych wěcow w našom žywjenju se z pśez gronidło šćitanymi kontami online šćita – lubosćinske listy, akty pacientow, bankowe konta a wěcej. Websedła pśizjawjeńske metody wužywaju, aby te gódnotne wěcy šćitali. Gaž nichten njamóžo se pla wašogo konta pśizjawiś, njamóžo waše mejlki cytaś abo pjenjeze z wašogo bankowego konta pśepokazaś. Kak měli my naše pśizjawjenja šćitaś, gaž smy naše žywjenja online žywe?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Zespominanje
 privacy-passwords-use-random-passwords = Wužywajśo pśipadne gronidła, a wužywajśo druge gronidło za kužde sedło
+privacy-passwords-pay-attention-to = Źiwajśo na wěstotne signale wobglědowaka a buźćo njedowěriwy
+privacy-passwords-make-your-answers = Cyńśo swóje wótegrona na wěstotne pšašanja tak mócne ako swóje gronidła
+privacy-passwords-use-a-password = Wužywajśo zastojnik gronidłow, aby napóranje a składowanje gronidłow wólažcył
 privacy-passwords-use-twofactor-authentication = Wužywajśo „dwójofaktorowu awtentifikaciju“, źožkuli móžośo
 privacy-passwords-its-hard-out = Gronidła se śěžko maju
 privacy-passwords-seeing-you-use = Wiźi, až jo z njeskoděrowanym websedłom wužywaśo
@@ -22,9 +26,11 @@ privacy-passwords-guessing-it = Wugódajo jo
 privacy-passwords-stealing-a-file = Kšadnjo dataju, kótaraž wašo gronidło wopśimujo
 privacy-passwords-using-password-recovery = Wužywa gronidłowe wótnowjenje, aby jo slědk stajił
 privacy-passwords-tricking-you-into = Zawjedujo was, až jomu jo dawaśo
+privacy-passwords-to-keep-your = Aby swójo pśizjawjenje šćitał, musyśo tak wjele z tych rizikow zajźowaś, jolic móžno. Kužde riziko dajo se hynac reducěrowaś.
 privacy-passwords-look-for-the = Pytajśo pytko w swójom wobglědowaku
 privacy-passwords-a-closed-lock = Zacynjone pytko se direktnje pśed websedłoweju adresu w adresowem pólu we wšych głownych wobglědowakach pokazujo.
 privacy-passwords-a-padlock-with = Pśešmarnjone pytko pódawa, až zwisk njejo wěsty
+privacy-passwords-firefox-will = Firefox warnowanje město websedła pokažo, jolic wó sedło źo, kótarež daty kšadnjo.
 privacy-passwords-strength-in-diversity = Mócnosć we wjelerakosći
 privacy-passwords-security-questions-my = Wěstotne pšašanja: Źowcyne mě mójeje mamy jo „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajśo se pomoc wót zastojnika gronidłow
