@@ -19,11 +19,15 @@ newsletters-subscribe-to-updates-and-keep = 訂閱最新消息，搶先取得在
 newsletters-newsletter-confirm = 確認電子報
 newsletters-thanks-for-subscribing = 感謝您的訂閱！
 newsletters-your-newsletter-subscription = 已確認訂閱電子報。
+newsletters-please-be-sure-to-add-our-v2 = 請務必將我們的寄件信箱: mozilla@email.mozilla.org 加到通訊錄，確保每封信都能直達您的收件匣。
+# Obsolete string
 newsletters-please-be-sure-to-add-our = 請務必將我們的寄件地址 mozilla@e.mozilla.org 加到通訊錄，確保信件可以直接掉進您的收件匣。
 newsletters-the-supplied-link-has-expired = 提供的鏈結已過期，您會在下一封電子報中收到新的鏈結。
 newsletters-something-is-amiss-with = 抱歉！我們的系統有點怪怪的，請稍候再試。
 newsletters-youre-awesome = 您真是超棒的！
 newsletters-and-were-not-just-saying = 不只是因為您相信我們，而提供了您的電子信箱地址。
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = 請務必將 mozilla@email.mozilla.org 加到通訊錄，確保每封信都能直達您的收件匣。
+# Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = 請將 mozilla@e.mozilla.org 加到通訊錄中，確保我們寄出的每一封信都會進到您的收件匣。
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } 關注不同的重大議題。
 newsletters-open-your-inbox-and-your = 打開您的收件匣（與您的心）更多一點，看看我們還關注哪些議題。
@@ -104,6 +108,8 @@ newsletters-i-didnt-sign-up = 我沒訂閱過這封信。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
+newsletters-im-keeping-in-touch-v2 = 我想改到 { -brand-name-twitter } 接收 { -brand-name-mozilla } 的相關訊息。
+# Obsolete string
 newsletters-im-keeping-in-touch = 我要改用 { -brand-name-facebook } 或 { -brand-name-twitter } 跟 { -brand-name-mozilla } 保持聯繫。
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = 訂報、閱讀、<br>取得最新消息。
@@ -250,10 +256,14 @@ newsletters-get-how-tos = 訂閱能讓 { -brand-name-firefox } 為您發揮最�
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = 有關我們致力於打造 Open Web 的未來的年度活動的相關特殊公告。
+# Obsolete string
 newsletters-special-announcements-about-mozilla = 關於致力於塑造 open Web 的未來的 { -brand-name-mozilla } 年度嘉年華的特別公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } 新聞
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = 幫助您讓線上生活更有智慧，並參與我們打造出一個更好的網路環境的定期新訊電子報
+# Obsolete string
 newsletters-regular-updates-to-keep = 讓您了解並參與我們，一起讓網際網路變得更好的定期電子報。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
