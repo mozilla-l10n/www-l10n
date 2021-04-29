@@ -39,13 +39,16 @@ navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Атрымайце максімум ад выкарыстання { -brand-name-firefox }, на кожнай прыладзе.
 # Outdated string
 navigation-learn-how-to-customize = Даведайцеся, як уладкаваць працу { -brand-name-firefox }.
+navigation-explore-the-immersive = Даследуйце захапляльны Інтэрнэт на гарнітуры віртуальнай рэальнасці.
 # Outdated string
 navigation-experience-augmented = Даследуйце пашыраную і віртуальную рэальнасць з дапамогай { -brand-name-firefox }.
+navigation-get-together = Збірайцеся разам у віртуальнай рэальнасці ў гэтай сацыяльнай прасторы ў сеціве.
 # Outdated string
 navigation-meet-people-in-experimental = Знаёмцеся з людзьмі ў эксперыментальных пакоях змешанай рэальнасці з дапамогай { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Змешаная рэальнасць
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } прыносіць віртуальную і дапоўненую рэальнасць у адкрыты інтэрнэт.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } дадае { -brand-name-firefox } у пашыраную і віртуальную рэальнасць.
 navigation-firefox-built-just-for = { -brand-name-firefox }, пабудаваны спецыяльна для распрацоўшчыкаў.
@@ -71,6 +74,8 @@ navigation-security-tips = Парады па бяспецы
 navigation-share-large-files-safely = Бяспечна дзяліцеся вялікімі файламі з дапамогай спасылак, якія «самазнішчаюцца».
 navigation-save-quality-content = Захоўвайце якасны змест з любой кропкі свету. Падсілкоўвайце розум усюды.
 navigation-sign-up = Зарэгістравацца
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Хуткі. Просты. Прыватны.
+navigation-protect-your-entire-device = Абараніце ўсю сваю прыладу і ўсе праграмы. Замаскіруйце сваё рэальнае месцазнаходжанне і падключыце да 5 прылад. Падпішыцеся зараз.
 # Outdated string
 navigation-connected-and-protected = Падключаны і абаронены
 navigation-join = Далучыцца
@@ -92,6 +97,7 @@ navigation-donate-your-voice-to = Запішыце свой голас, каб �
 navigation-machine-learning = Машыннае навучанне
 # Outdated string
 navigation-web-of-things-iot = Інтэрнэт рэчаў (IoT)
+navigation-help-make-deep-learning = Дапамажыце зрабіць алгарытмы глыбокага навучання даступнымі для свету з адкрытым зыходным кодам.
 # Outdated string
 navigation-make-devices-connected = Зрабіце прылады, падключаныя к інтэрнэту, бяспечнымі і сумяшчальнымі.
 navigation-developers = Распрацоўшчыкам
