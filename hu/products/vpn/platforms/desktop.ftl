@@ -10,6 +10,9 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } asztali számítógépre (P
 vpn-desktop-page-description = Szerezzen gyors és könnyen használható védelmet az asztali és hordozható számítógépe számára a { -brand-name-mozilla }, a technológiai ipar egyik legmegbízhatóbb neve segítségével.
 # Desktop strings
 vpn-desktop-hero-headline = Védje meg az internetkapcsolatát az asztali { -brand-name-mozilla-vpn }-nel
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-ability = A { -brand-name-mozilla-vpn } lehetőséget nyújt arra, hogy magabiztosan csatlakozzon és biztonságban tartsa adatait a kíváncsi tekintetek és az adattolvajok ellen, amikor online van. A { -brand-name-mozilla-vpn } fejlett { -brand-name-wireguard }® protokollt használ a személyes adatok titkosításához laptopján vagy asztali számítógépén – akár { $devices } eszközhöz. Streameljen műsorokat, játsszon, vásároljon és folytassa a mindennapjait online, tudva, hogy biztonságban van.
 vpn-desktop-maker-of-firefox = A { -brand-name-firefox } böngésző készítőjeként és az internetes adatvédelem egyik leghevesebb harcosaként, a { -brand-name-mozilla } elkötelezett aziránt, hogy biztonságban érezze magát minden egyes alkalommal, amikor fellép az internetre.
 vpn-desktop-wifi-headline = Érezze magát biztonságban, ha nyilvános Wi-Fit használ
 vpn-desktop-wifi-copy = A VPN-ünk megvédi az internetkapcsolatát a hackerektől és kémektől, így vásárolhat egy kávézóból, ellenőrizheti a bankszámláját a vonatról, és bárhol biztonsági aggályok nélkül folytathatja az online ügyeit.
