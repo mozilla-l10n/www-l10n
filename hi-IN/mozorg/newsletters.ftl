@@ -24,11 +24,15 @@ newsletters-newsletter-confirm = न्यूज़लेटर की पुष्
 
 newsletters-thanks-for-subscribing = सदस्यता के लिए धन्यवाद!
 newsletters-your-newsletter-subscription = आपके न्यूज़लेटर सदस्यता की पुष्टि कर दी गयी है.
+
+# Obsolete string
 newsletters-please-be-sure-to-add-our = कृपया हमारा भेजने वाला पता: mozilla@e.mozilla.org अपनी पता पुस्तिका मे जोड़ कर निश्चित हो जाएँ और सुनिश्चित करें कि हम हमेशा आपके इनबॉक्स में पहुँचे।
 newsletters-the-supplied-link-has-expired = भेजे गए लिंक की समय सीमा समाप्त हो गई है। आपको अगले न्यूज़लेटर में एक नया लिंक मिलेगा।
 newsletters-something-is-amiss-with = हमारे सिस्टम के साथ कुछ गड़बड़ है, क्षमा करें! कृपया बाद में पुनः प्रयास करें।
 newsletters-youre-awesome = आप कमाल हैं!
 newsletters-and-were-not-just-saying = और हम ऐसा सिर्फ इसलिए नहीं कह रहे हैं क्योंकि आपने हमें अपना ईमेल पता देकर भरोसा जताया है।
+
+# Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = कृपया अपनी पता पुस्तिका में mozilla@e.mozilla.org जोड़ना सुनिश्चित करें ताकि हम हमेशा आपके इनबॉक्स तक पहुँच सकें।
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } विभिन्न महत्वपूर्ण मुद्दों को उठाता है।
 newsletters-open-your-inbox-and-your = अपने इनबॉक्स (और अपने दिल) को और भी खोलें — हमारे द्वारा कवर किए गए अन्य विषयों पर एक नज़र डालें।
@@ -133,6 +137,8 @@ newsletters-i-didnt-sign-up = मैंने इस के लिए साइ�
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = यह ईमेल पता हमारे सिस्टम में नहीं है। कृपया अपना पता जाँचें या <a href="{ $url }">हमारे न्यूज़लेटर की सदस्यता लें।</a>
 
+
+# Obsolete string
 newsletters-im-keeping-in-touch = मैं { -brand-name-mozilla } के साथ { -brand-name-facebook } और { -brand-name-twitter } में संपर्क में हूँ।
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -346,13 +352,15 @@ newsletters-get-how-tos = { -brand-name-firefox } के अनुभव को 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 
-# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+
+# Obsolete string
 newsletters-special-announcements-about-mozilla = वेब को स्वतंत्र और मुक्त रखने लिए समर्पित { -brand-name-mozilla } के वार्षिक उत्सव के बारे में विशेष घोषणाएँ।
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } खबर
 
-# Description for the newsletter in Newsletter subscription page (Mozilla News)
+
+# Obsolete string
 newsletters-regular-updates-to-keep = बेहतर इंटरनेट के लिए हमारी लड़ाई में आपको सूचित और सक्रिय रखने के लिए नियमित अपडेट।
 
 # Name for the newsletter in Newsletter subscription page
