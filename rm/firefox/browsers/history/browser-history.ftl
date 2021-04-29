@@ -23,3 +23,7 @@ browser-history-a-year-later-berners = In onn pli tard ha Berners-Lee dumandà l
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = Gia l'onn 1993 aveva l'internet cuntanschì ina gronda popularitad. Universitads, regenzas ed interpresas privatas han scuvert il potenzial da l'internet avert. Per acceder a l'internet duvrava mintgin novs programs da computer. Lez onn ha l'informaticher Marc Andreessen dal National Center for Supercomputing Applications (NCSA) a l'Universitad dad Illinois Urbana-Champaign sviluppà Mosaic. I sa tracta da l'emprim navigatur-web popular e dal precursur tempriv da <a href="{ $firefox }">{ -brand-name-mozilla }{ -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic funcziunava sin computers da { -brand-name-windows }, era simpel d'utilisar e permetteva a mintgin cun in PC l'access a las emprimas paginas d'internet da quella giada, a locals da chat ed a bibliotecas da maletgs. L'onn suandant (1994) ha Andreessen fundà <a href="{ $netscape }">{ -brand-name-netscape }</a> ed ha publitgà il navigatur-web { -brand-name-netscape }. Il success è stà enorm ed ultra da quai eri l'emprim navigatur-web che steva a disposiziun a tut la glieud. Igl è era stà l'emprim pass en ina lutga dad ina nova dimensiun per ils utilisaders da l'internet.
+browser-history-the-browser-wars = La lutga dals navigaturs-web
