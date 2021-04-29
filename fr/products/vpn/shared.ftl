@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Rejoindre la liste d’attente
 vpn-shared-sign-in-link = Déjà abonné·e ?
 vpn-shared-available-countries = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
 vpn-shared-available-countries-v2 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, en Allemagne, en France, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
-vpn-shared-availablity-long = Le VPN est actuellement disponible pour les appareils { -brand-name-windows } 10, { -brand-name-android } et { -brand-name-ios } aux États-Unis, au Royaume-Uni, au Canada, en Nouvelle-Zélande, à Singapour et en Malaisie.
 vpn-shared-money-back-guarantee = Garantie de remboursement de 30 jours
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Ce qu’on dit de nous
@@ -52,8 +51,8 @@ vpn-shared-pricing-plan-monthly = 1 mois
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mois</span>
-vpn-shared-pricing-get-6-month = Optez pour un abonnement 6 mois
-vpn-shared-pricing-get-12-month = Optez pour un abonnement 12 mois
+vpn-shared-pricing-get-6-month = Optez pour un abonnement de 6 mois
+vpn-shared-pricing-get-12-month = Optez pour un abonnement de 12 mois
 vpn-shared-pricing-get-monthly = Optez pour un abonnement mensuel
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
@@ -61,6 +60,9 @@ vpn-shared-pricing-save-percent = { $percent } % d’économie
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Total { $amount }
+
+# Platform subpage shared strings
+
 
 ##
 

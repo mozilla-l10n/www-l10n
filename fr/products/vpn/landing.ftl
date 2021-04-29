@@ -11,10 +11,11 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn } : Protégez tout votre app
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Utilisez { -brand-name-mozilla-vpn } pour une protection complète pour tous vos appareils. Avec des serveurs dans plus de { $countries } pays, vous pouvez vous connecter à n'importe où, de n'importe où.
+# Obsolete string
 vpn-landing-hero-sub-heading = Une sécurité infaillible. Un partenaire de confiance.
-vpn-landing-hero-desc = Le nouveau Virtual Private Network conçu par les équipes de { -brand-name-firefox }.
+vpn-landing-hero-desc = Le nouveau réseau privé virtuel conçu par les équipes de { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un clic, plus de confidentialité
-vpn-landing-privacy-desc = Surfez, jouez, travaillez et streamez tout en préservant votre confidentialité sur Internet. Pour tous vos déplacements, lorsque vous utilisez le Wi-Fi public, ou quand vous avez tout simplement besoin de plus de sécurité en ligne, votre confidentialité sera toujours notre priorité.
+vpn-landing-privacy-desc = Surfez, jouez, travaillez et streamez tout en préservant votre confidentialité sur Internet. Pour tous vos déplacements, lorsque vous utilisez le WiFi public, ou quand vous avez tout simplement besoin de plus de sécurité en ligne, votre confidentialité sera toujours notre priorité.
 vpn-landing-fast-secure-heading = Réseau rapide et sécurisé
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
@@ -24,7 +25,7 @@ vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } fonctionne via un ré
 vpn-landing-brand-trust-heading = Un VPN, un partenaire de confiance
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = Depuis plus de 20 ans, { -brand-name-mozilla } aide les gens en luttant en faveur de la confidentialité en ligne. Soutenu par une organisation à but non lucratif, nous faisons tout notre possible pour créer un Internet meilleur et plus sain pour tout le monde. Tout ce que nous créons fait partie de notre mission et suit nos <a href="{ $url }">principes</a>.
+vpn-landing-brand-trust-desc = Depuis plus de 20 ans, { -brand-name-mozilla } aide les gens en luttant en faveur de la confidentialité en ligne. Soutenu par une organisation à but non lucratif, nous faisons tout notre possible pour créer un Internet meilleur et plus sain pour tout le monde. Tout ce que nous faisons et créons fait partie de notre mission et suit nos <a href="{ $url }">principes</a>.
 
 ## FAQ section
 
@@ -32,7 +33,7 @@ vpn-landing-faq-heading = Questions fréquentes
 vpn-langing-faq-uses-question-heading = Qu’est-ce qu’un VPN et ses utilisations ?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = Alors qu’Internet prend une place de plus en plus importante dans notre quotidien, la confidentialité et la sécurité en ligne deviennent encore plus primordiales. Un VPN ou <a href="{ $url }">Virtual Private Network</a> peut vous aider à créer une connexion sécurisée et privée à Internet. Il fonctionne en créant un « tunnel » sécurisé entre votre appareil et Internet en général, et il vous protège de deux manières importantes :
+vpn-landing-faq-uses-question-desc = Alors qu’Internet prend une place de plus en plus importante dans notre quotidien, la confidentialité et la sécurité en ligne deviennent encore plus primordiales. Un VPN ou <a href="{ $url }">réseau privé virtuel</a> peut vous aider à créer une connexion sécurisée et privée à Internet. Il fonctionne en créant un « tunnel » sécurisé entre votre appareil et Internet en général, et il vous protège de deux manières importantes :
 vpn-landing-faq-uses-conceal = En masquant votre véritable adresse IP. Cela protège votre identité et obscurcit votre emplacement.
 vpn-landing-faq-uses-encrypt = En chiffrant le trafic entre vous et votre fournisseur VPN afin que personne sur votre réseau local ne puisse le déchiffrer ou le modifier.
 # Variables:
@@ -52,11 +53,17 @@ vpn-landing-faq-competition-question-heading = Quelles sont les grandes différe
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que { -brand-name-mozilla-vpn } en matière de confidentialité, et peuvent vendre ou stocker vos données. D’autres VPN payants n’ont pas la même  <a href="{ $url }">expérience</a>  que { -brand-name-mozilla } qui, depuis 1998, a créé des produits qui mettent leurs utilisateurs et la confidentialité en ligne au premier plan.
 vpn-landing-faq-compatibility-question-heading = Avec quels appareils { -brand-name-mozilla-vpn } est-il compatible ?
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } est compatible avec :
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (uniquement 64 bits)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 et plus)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 et plus)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 et plus)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (uniquement { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Quelle est la politique de remboursement de { -brand-name-mozilla-vpn } ?
 vpn-landing-faq-refund-question-desc = Vous pouvez récupérer les frais d’inscription dans les 30 jours suivant l’achat de votre abonnement. Contactez-nous et soumettez la demande de remboursement en appuyant sur le bouton « Obtenir de l’aide » dans les paramètres de votre application { -brand-name-mozilla-vpn }.
