@@ -3,19 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 send-to-device-send-firefox = Kirim { -brand-name-firefox } ke ponsel cerdas atau tablet Anda
-send-to-device-your-download-link = Tautan unduh Anda terkirim.
-send-to-device-sorry-we-cant-send = Maaf, kami tidak dapat mengirim pesan SMS ke nomor telepon ini.
-send-to-device-sorry-this-number = Maaf. Nomor ini tidak valid. Silakan masukkan nomor telepon U.S.
-send-to-device-please-enter-an-email = Silakan masukkan alamat surel.
-send-to-device-an-error-occured = Kesalahan terjadi pada sistem kami. Silakan ulangi kembali nanti.
-send-to-device-enter-your-email = Masukkan surel Anda
-send-to-device-enter-your-email-or-phone = Masukkan surel atau nomor telepon Anda
-send-to-device-enter-your-email-or-phone-10-digit = Masukkan surel Anda atau 10 digit nomor telepon
+send-to-device-your-download-link = Tautan unduhan Anda telah dikirim.
+send-to-device-please-enter-an-email = Silakan masukkan alamat email.
+send-to-device-an-error-occured = Terjadi kesalahan dalam sistem kami. Silakan coba lagi nanti.
+send-to-device-enter-your-email = Masukkan email Anda
 send-to-device-send = Kirim
-send-to-device-sms-service-available-in-select = Layanan SMS tersedia hanya di negara-negara tertentu saja. Anda mungkin akan dikenakan biaya SMS &amp; data.
-send-to-device-sms-service-available-to-us = Layanan SMS tersedia hanya untuk nomor telepon U.S. Tarif SMS &amp; data akan dikenakan.
-send-to-device-intended-recipient-email-sms = Penerima surel atau SMS yang dituju harus menyetujui.
-send-to-device-intended-recipient-email = Penerima surel harus menyetujui.
-send-to-device-check-your-device-email-sms = Periksa perangkat Anda untuk surel atau pesan teks!
-send-to-device-check-your-device-email = Periksa peranti Anda untuk surel!
+send-to-device-intended-recipient-email = Penerima email yang dituju harus telah menyetujui.
+send-to-device-check-your-device-email = Periksa perangkat Anda untuk mencari email!
 send-to-device-send-to-another = Kirim ke perangkat lain
