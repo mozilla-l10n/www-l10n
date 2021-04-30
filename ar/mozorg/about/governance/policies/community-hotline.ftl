@@ -2,13 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/community-hotline/
 
+community-hotline-community-participation = الخط الساخن الخاص بالمبادئ التوجيهية للمشاركة المجتمعية
 
-## Page title
+community-hotline-community-participation-report = مبادئ المشاركة المجتمعية — تقرير
 
-community-hotline-community-participation = المبادئ التوجيهية للمشاركة المجتمعية - سبل الإبلاغ
-community-hotline-the-heart-of-mozilla = يتصدر الناس أولويات موزيلا. إننا نضع الناس في صدارة أولوياتنا، ونبذل قصارى جهدنا للاعتراف بتنوع مساهمينا على الصعيد العالمي، وتقديره واحترامه. ويرحب مشروع موزيلا بالمساهمات التي يقدمها كل من يشارك أهدافنا ويرغب في المساهمة بطريقة صحية وبنّاءة داخل مجتمعنا.
-community-hotline-to-report-violations = للإبلاغ عن انتهاكات المبادئ التوجيهية للمشاركة المجتمعية <strong>في مجتمعات موزيلا</strong>، يرجى النقر فوق الزر "Report" (إبلاغ) أدناه. لمزيد من المعلومات حول كيفية استلام تقرير وتقديمه، يُرجى قراءة "<a href="{ $howto }">كيفية الإبلاغ</a>".
-community-hotline-report = إبلاغ
+community-hotline-the-heart-of-mozilla = قلب { -brand-name-mozilla } ينبض بالمُستخدمين. نضع المُستخدمين في المقام الأول ونبذل قصارى جُهدنا للتعرّف على تنوع مساهمينا على مستوى العالم ونُقدر ونحترم هذا التنوع يُرحب مشروع { -brand-name-mozilla } بمُساهمات كل من يُشاركنا أهدافنا ويريد المساهمة بطريقة صحية وبناءة داخل مُجتمعنا.
+
+community-hotline-to-report-violations = للإبلاغ عن انتهاكات المبادئ التوجيهية للمشاركة المجتمعية <strong>في منتديات { -brand-name-mozilla }</strong>، يُرجى النقر على زر &quot;الإبلاغ&quot; أدناه. لمزيد من المعلومات حول كيفية تلقّي وتقديم بلاغ، يُرجى قراءة &quot;<a href="{ $howto }">كيفية الإبلاغ</a>&quot;.
+
+community-hotline-to-report-violations-email = للإبلاغ عن انتهاكات إرشادات المُشاركة المُجتمعية <strong>في منتديات { -brand-name-mozilla }،</strong>يُرجى التواصل عبر <a href="{ $mailto_report }">cpg-report@mozilla.com</a>. لمزيد من المعلومات حول كيفية تلقّي وتقديم بلاغ، يُرجى قراءة &quot;<a href="{ $howto }">كيفية الإبلاغ</a>&quot;.
