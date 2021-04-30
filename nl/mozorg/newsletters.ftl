@@ -19,11 +19,15 @@ newsletters-subscribe-to-updates-and-keep = Abonneer u op updates en blijf op de
 newsletters-newsletter-confirm = Nieuwsbriefbevestiging
 newsletters-thanks-for-subscribing = Bedankt voor het inschrijven!
 newsletters-your-newsletter-subscription = Uw nieuwsbriefinschrijving is bevestigd.
+newsletters-please-be-sure-to-add-our-v2 = Voeg ons verzendadres mozilla@email.mozilla.org toe aan uw adresboek, zodat we uw postvak altijd bereiken.
+# Obsolete string
 newsletters-please-be-sure-to-add-our = Zorg ervoor dat u ons afzenderadres mozilla@e.mozilla.org aan uw adresboek toevoegt, zodat we altijd uw postvak IN kunnen bereiken.
 newsletters-the-supplied-link-has-expired = De verstrekte koppeling is verouderd. U ontvangt een nieuwe in de volgende nieuwsbrief.
 newsletters-something-is-amiss-with = Er is iets mis met ons systeem, sorry! Probeer het later nog eens.
 newsletters-youre-awesome = U bent geweldig!
 newsletters-and-were-not-just-saying = En dat zeggen we niet alleen omdat u uw e-mailadres aan ons hebt toevertrouwd.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Voeg mozilla@email.mozilla.org toe aan uw adresboek, zodat we uw postvak altijd bereiken.
+# Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Zorg ervoor dat u mozilla@e.mozilla.org aan uw adresboek toevoegt, zodat we altijd uw postvak IN kunnen bereiken.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } stipt een diversiteit aan belangrijke zaken aan.
 newsletters-open-your-inbox-and-your = Open uw postvak IN (en uw hart) nog meer – bekijk de andere beschikbare onderwepen.
@@ -104,6 +108,8 @@ newsletters-i-didnt-sign-up = Ik heb me hier niet voor ingeschreven.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Dit e-mailadres bevindt zich niet in ons systeem. Controleer uw adres of <a href="{ $url }">schrijf u in voor onze nieuwsbrieven.</a>
+newsletters-im-keeping-in-touch-v2 = Ik houd contact met { -brand-name-mozilla } op { -brand-name-twitter }.
+# Obsolete string
 newsletters-im-keeping-in-touch = Ik houd in plaats hiervan contact met { -brand-name-mozilla } via { -brand-name-facebook } en { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Schrijf in, lees na,<br> blijf op de hoogte.
@@ -250,10 +256,14 @@ newsletters-get-how-tos = Ontvang handleidingen, advies en nieuws om uw { -brand
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Speciale aankondigingen over ons jaarlijkse festival, dat is gewijd aan het vormgeven van de toekomst van het open web.
+# Obsolete string
 newsletters-special-announcements-about-mozilla = Speciale aankondigingen over { -brand-name-mozilla }’s jaarlijkse praktijkfestival dat is toegewijd aan het vormen van de toekomst van het open web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } Nieuws
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Regelmatige updates om u te helpen uw onlineleven slimmer te leven en actief te worden in ons gevecht voor een beter internet.
+# Obsolete string
 newsletters-regular-updates-to-keep = Regelmatige updates om u op de hoogte en actief te houden in ons gevecht voor een beter internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
