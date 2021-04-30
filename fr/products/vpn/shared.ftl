@@ -11,7 +11,7 @@ vpn-shared-waitlist-link = Rejoindre la liste d’attente
 vpn-shared-sign-in-link = Déjà abonné·e ?
 vpn-shared-available-countries = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
 vpn-shared-available-countries-v2 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, en Allemagne, en France, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
-vpn-shared-money-back-guarantee = Garantie de remboursement de 30 jours
+vpn-shared-money-back-guarantee = Garantie de remboursement jusqu’à 30 jours
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Ce qu’on dit de nous
 vpn-shared-features-encrypt = Chiffrement de l’appareil
@@ -20,7 +20,7 @@ vpn-shared-features-encrypt = Chiffrement de l’appareil
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = Plus de { $servers } serveurs dans plus de { $countries } pays
 vpn-shared-features-bandwidth = Aucune restriction de bande passante
-vpn-shared-features-activity = Aucune trace gardé de votre activité réseau
+vpn-shared-features-activity = Aucune trace de votre activité réseau n'est conservée
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Possibilité de connecter jusqu’à 5 appareils
