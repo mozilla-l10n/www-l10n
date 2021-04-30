@@ -2,29 +2,36 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-newsletter-form-please-enter-a-valid = 正しいメールアドレスを入力してください
-newsletter-form-you-must-agree-to = プライバシー通知に同意してください。
+newsletter-form-please-enter-a-valid = 有効なメールアドレスを入力してください
+newsletter-form-you-must-agree-to = プライバシーに関する通知に同意する必要があります
 newsletter-form-your-email-address = メールアドレス
+
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
+
 newsletter-form-select-country-or-region = 国または地域を選択してください
-newsletter-form-your-email-here = メールアドレスを入力
-newsletter-form-format = 形式
+newsletter-form-your-email-here = メールアドレスを入力してください
+newsletter-form-format = フォーマット
 newsletter-form-html = HTML
-newsletter-form-text = プレーンテキスト
-newsletter-form-get-firefox-news = { -brand-name-firefox } ニュースレター
+newsletter-form-text = テキスト
+newsletter-form-get-firefox-news = { -brand-name-firefox } ニュースを受け取る
+
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = { -brand-name-mozilla } が <a href="{ $url }">このプライバシー通知</a> に従って私の個人情報を扱うことに同意します。
-newsletter-form-we-will-only-send = { -brand-name-mozilla } に関連する情報のみお届けします。
-newsletter-form-we-will-only-send-firefox = { -brand-name-firefox } に関連する情報だけをお届けします。
-newsletter-form-if-you-havent-previously = あなたがこれまでに { -brand-name-mozilla } 関連ニュースレターの購読を確認したことがない場合、確認を求められます。受信トレイあるいは迷惑メールフィルターを確認して、{ -brand-name-mozilla } からのメールを見つけてください。
-newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + あなた
-newsletter-form-get-firefox-tips = { -brand-name-firefox } に関する使い方のコツや最新情報を手に入れよう
-newsletter-form-keep-up-with = { -brand-name-firefox } に関する様々な<br>最新情報をお届けします。
-newsletter-form-get-mozilla-updates = { -brand-name-mozilla } の最新情報を手に入れよう
-newsletter-form-available-languages = 言語を選択
-newsletter-form-select-country = 国を選択
-newsletter-form-sign-me-up = 購読申し込み
-newsletter-form-sign-up-now = 購読開始
-newsletter-form-thanks = ありがとうございます！
+newsletter-form-im-okay-with-mozilla = <a href="{ $url }">このプライバシーに関する通知</a>で説明されているとおり { -brand-name-mozilla } が自分の情報を取り扱うことに同意する
+
+newsletter-form-we-will-only-send = 送付されるのは { -brand-name-mozilla } 関連情報のみです
+newsletter-form-we-will-only-send-firefox = 送付されるのは { -brand-name-firefox } 関連情報のみです
+newsletter-form-if-you-havent-previously = 以前に { -brand-name-mozilla } に関するニュースレターの定期購読を確定していない場合は、確定する必要があります。受信箱かスパムフィルターで Mozilla から送付されたメールを確認してください。
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + You
+newsletter-form-get-firefox-tips = { -brand-name-firefox } のヒントやコツ、ニュースなどをお届けします
+newsletter-form-keep-up-with = { -brand-name-firefox } の最新情報をお見逃しなく。
+newsletter-form-get-mozilla-updates = { -brand-name-mozilla } の最新情報をお届けします。
+newsletter-form-available-languages = 使用可能な言語
+newsletter-form-select-country = 国または地域を選択してください
+newsletter-form-sign-me-up = 新規登録
+newsletter-form-sign-up-now = 今すぐサインアップ
+newsletter-form-thanks = ありがとうございました。
+newsletter-form-leave-this-field-empty = このフィールドは空欄のままにしてください。
+newsletter-form-yes = あり
+newsletter-form-no = なし
