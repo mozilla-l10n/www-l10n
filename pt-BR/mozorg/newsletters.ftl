@@ -255,10 +255,14 @@ newsletters-firefox-news = Notícias do { -brand-name-firefox }
 newsletters-get-how-tos = Receba guias, conselhos e novidades para fazer sua experiência no { -brand-name-firefox } funcionar melhor para você.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Anúncios especiais sobre nosso festival anual dedicado a moldar o futuro da web aberta.
 # Obsolete string
 newsletters-special-announcements-about-mozilla = Comunicados importantes sobre o anuário da { -brand-name-mozilla }, festival dedicado a forjar o futuro da web aberta.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Notícias da { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Atualizações regulares para ajudar você a ficar mais esperto em sua vida online e ativo em nossa luta por uma internet melhor.
 # Obsolete string
 newsletters-regular-updates-to-keep = Boletins regulares para manter você informado e ativo em nossa luta por uma internet melhor.
 # Name for the newsletter in Newsletter subscription page
