@@ -35,6 +35,7 @@ privacy-passwords-the-lock-means = Pytko wóznamjenijo, až websedło, kótarež
 privacy-passwords-a-padlock-with = Pśešmarnjone pytko pódawa, až zwisk njejo wěsty
 privacy-passwords-your-browser-also = Waš wobglědowak was teke wó tom informěrujo, kak dowěrygódne sedła su, aby was pśed kšadnjenim datow šćitał. Z drugego boka, gaž wopytujośo se k websedłoju woglědaś, kótarež jo ako sedło znate, kótarež daty kšadnu, { -brand-name-firefox } (a kuždy wětšy wobglědowak) warnowanje na połnej wobrazowce pokažo – <strong>Źiwajśo na to a pśemysliśo se dwójcy, lěc to sedło wužywaśo!</strong>
 privacy-passwords-firefox-will = Firefox warnowanje město websedła pokažo, jolic wó sedło źo, kótarež daty kšadnjo.
+privacy-passwords-in-general-the = Generelnje jo nejlěpše zašćitowanje pśeśiwo kšadnjenjeju datow, až <strong>tomu njedowěrijośo, což dostawaśo</strong>, lěc se w mejlce, tekstowej powěsći abo na telefonje zjewijo. Woglědajśo se k sedłoju direktnje, město togo aby wy se na to spušćił, což jo wam něchten pósłał. Jolic wam na pśikład mejlka k wěsć dajo, až maśo swójo gronidło za PayPal slědk stajiś, njeklikniśo na wótkaz. Zapódajśo město togo paypal.com. Jolic banka zazwónijo, zazwóńśo slědk.
 privacy-passwords-strength-in-diversity = Mócnosć we wjelerakosći
 privacy-passwords-security-questions-my = Wěstotne pšašanja: Źowcyne mě mójeje mamy jo „Ff926AKa9j6Q“
 privacy-passwords-get-help-from = Wobstarajśo se pomoc wót zastojnika gronidłow
