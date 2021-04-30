@@ -2,52 +2,55 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/
 
-reporting-community-participation = المبادئ التوجيهية للمشاركة المجتمعية - سبل الإبلاغ
-reporting-how-to-report-violations = كيفية الإبلاغ عن انتهاكات المبادئ التوجيهية للمشاركة المجتمعية
-reporting-this-document-provides = تقدم هذه الوثيقة معلومات رفيعة المستوى لفهم انتهاكات المبادئ التوجيهية للمشاركة المجتمعية الخاصة بموزيلا، والإبلاغ عنها.
-reporting-from-the-community-participation = من <a href="{ $cpg }">المبادئ التوجيهية للمشاركة المجتمعية</a>:
-reporting-the-heart-of-mozilla-is = يتصدر الناس أولويات موزيلا. إننا نضع الناس في صدارة أولوياتنا، ونبذل قصارى جهدنا للاعتراف بتنوع مساهمينا على الصعيد العالمي، وتقديره واحترامه. ويرحب مشروع موزيلا بالمساهمات التي يقدمها كل من يشارك أهدافنا ويرغب في المساهمة بطريقة صحية وبنّاءة داخل مجتمعنا. ومن هذا المنطلق، اعتمدنا مدونة قواعد السلوك هذه ونطلب من جميع المشاركين الموافقة على هذه المبادئ التوجيهية للمشاركة المجتمعية والالتزام بها بغية مساعدتنا على خلق تجربة مجتمعية آمنة وإيجابية للجميع.
-reporting-this-document-is-intended = يتمثل الغرض من هذا المستند في أن يكون بمثابة واجهة للمستندات والعمليات والأشخاص الحاليين المسؤولين عن ضمان صحة مجتمعات موزيلا وشموليتها للجميع.
+reporting-community-participation = المبادئ التوجيهية للمشاركة المجتمعية - كيفية الإبلاغ
+reporting-how-to-report-violations = كيفية الإبلاغ عن انتهاكات التعليمات التوجيهية للمُشاركة المُجتمعية
+reporting-this-document-provides =
+    تُوفر هذه الوثيقة معلومات عالية المُستوى لفهم انتهاكات
+    التعليمات التوجيهية للمُشاركة في مجتمع { -brand-name-mozilla } والإبلاغ عنها.
+reporting-from-the-community-participation = من <a href="{ $cpg }">التعليمات التوجيهية للمُشاركة في المجتمع</a>:
+reporting-the-heart-of-mozilla-is = قلب { -brand-name-mozilla } ينبض بالمُستخدمين. نضع المُستخدمين في المقام الأول ونبذل قُصارى جُهدنا للتعرّف على تنوع مساهمينا على مستوى العالم ونُقدر ونحترم هذا التنوع يُرحب مشروع { -brand-name-mozilla } بمُساهمات كل من يُشاركنا أهدافنا ويريد المساهمة بطريقة صحية وبناءة داخل مُجتمعنا. وعلى هذا النحو، اعتمدنا مُدونة قواعد السلوك هذه ونطلب من جميع المشاركين الموافقة والالتزام بالتعليمات التوجيهية المُتعلقة بالمشاركة في المجتمع لمساعدتنا في خلق تجربة مُجتمعية آمنة وإيجابية للجميع.
+reporting-this-document-is-intended = تم إعداد هذا المُستند كواجهة للمُستندات الموجودة والعمليات والأشخاص المسؤولين عن ضمان صحة مُجتمعات { -brand-name-mozilla } وشموليتها للجميع.
 reporting-when-to-report = وقت الإبلاغ
-reporting-please-report-all-incidents = يُرجى الإبلاغ عن جميع الحوادث التي تنطوي على تورط شخص ما في سلوك قد يكون غير قانوني أو يتسبب في شعورك أو شعور أي شخص آخر بعدم الأمان أو عدم الترحيب أو عدم الراحة <a href="{ $cpg }">على النحو الموضح في المبادئ التوجيهية للمشاركة المجتمعية.</a>
+reporting-please-report-all-incidents = يُرجى الإبلاغ عن جميع الحوادث التي ينخرط فيها شخص ما في سلوك من المُحتمل أن يكون غير قانوني أو يجعلك أنت أو أي شخص آخر تشعُر بعدم الأمان أو عدم الترحيب أو عدم الراحة <a href="{ $cpg }">على الوجه المُوضح في المبادئ التوجيهية للمشاركة المجتمعية</a>.
 reporting-how-to-give-a-report = كيفية الإبلاغ
-reporting-if-you-believe-someone = إذا كنت تعتقد أن هناك شخص ما معرض لخطر جسدي، فاتصل برقم الطوارئ المحلي.
-reporting-if-you-have-a-report-by = إذا كان لديك <strong>بلاغ <em>بواسطة</em> أحد</strong> المساهمين عن مساهم آخر (على سبيل المثال، يقدم البلاغ <strong>أحد</strong> المساهمين <strong>عن</strong> مساهم آخر)، فيجب عليك تقديم بلاغك على <a href="{ $community_hotline }">الخط الساخن للمبادئ التوجيهية للمشاركة المجتمعية</a>.
-reporting-if-you-have-a-report-involving = إذا كان لديك بلاغ <strong>بخصوص موظف أو متعاقد أو مورّد</strong> (على سبيل المثال، يتم تقديم البلاغ <strong>بواسطة</strong> موظف أو <strong>عن</strong> موظف)، فيجب عليك الإبلاغ عبر <a href="{ $employee_hotline }">الخط الساخن لموظفي موزيلا</a>.
+reporting-if-you-believe-someone = إذا كُنت تعتقد أن هناك شخص ما مُعرض لخطر جسدي، فاتصل برقم الطوارئ المحلي.
+reporting-if-you-have-a-report-by = إذا كان لديك بلاغ <strong>من قِبل <em>و</em> عن</strong> مساهم (على سبيل المثال، تم رفع البلاغ <strong>بواسطة</strong> أحد المساهمين <strong>عن</strong> مساهم آخر)، فحينها ينبغي رفع البلاغ الخاص بك عبر <a href="{ $community_hotline }">الخط الساخن للتعليمات التوجيهية للمشاركة المجتمعية</a>.
+reporting-if-you-have-a-report-by-email = إذا كان لديك بلاغ <strong>من قِبل <em>و</em> عن</strong> مُساهم (على سبيل المثال، يتم عمل التقرير <strong>بواسطة</strong> أحد المساهمين <strong>عن</strong> مساهم آخر)، حينها يجب عليك تقديم البلاغ الخاص بك عبر <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
+reporting-if-you-have-a-report-involving = إذا كان لديك بلاغ <strong>ينخرط فيه مُوظف أو مقاول أو بائع</strong> (على سبيل المثال، تم رفع البلاغ <strong>من قِبل</strong> مُوظف أو هو <strong>عن</strong> موظف)، فحينها ينبغي رفع البلاغ من خلال الخط الساخن لمُوظفي <a href="{ $employee_hotline }">{ -brand-name-mozilla }</a>.
 reporting-put-another-way = قدّم طريقة أخرى…
-reporting-by = بواسطة
+reporting-by = من قِبل
 reporting-employee = موظف
 reporting-contributor = مساهم
-reporting-about = عن
-reporting-employee-hotline = الخط الساخن للموظفين
-reporting-community-hotline = الخط الساخن للمجتمع
-reporting-contractor = متعاقد
-reporting-vendor = مورّد
+reporting-about = نبذة عنا
+reporting-employee-hotline = الخط الساخن للمُوظفين
+reporting-contractor = مقاول
+reporting-vendor = بائع
 reporting-if-someone-reports-to = إذا قام شخص ما برفع بلاغ إليك…
-reporting-do-not-question-or-judge = لا تشكك أو تحكم على تجربتهم.
-reporting-do-not-invite-them-to = لا تدعوهم لسحب تقرير الحادث.
-reporting-do-not-promise-any-particular = لا تعد بأي استجابة معينة.
-reporting-do-let-them-know-that = <strong>أخبرهم</strong> بأنه لكي تكون سياسة موزيلا مؤثرة، ينبغي الإبلاغ عبر الخط الساخن. إذا لم يشعروا بالارتياح إزاء رفع البلاغات بأنفسهم، فيمكنك القيام بذلك.
-reporting-no-matter-who-files-the = وبصرف النظر عمن يقدم البلاغ، فمن الضروري الحصول على المعلومات الواردة أدناه مهمة.
-reporting-names-of-the-people-involved = أسماء الأشخاص المعنيين (أو إذا كانت الأسماء غير معروفة، استخدم أوصافًا وأي معلومات لتعريف الشخصية مثل المظهر والدور واسم المستعمل والانتماء المجتمعي/المشاريعي).
+reporting-do-not-question-or-judge = لا تُشكك أو تحكُم على تجربتهم.
+reporting-do-not-invite-them-to = لا تدعوهم لسحب البلاغ عن الحادث.
+reporting-do-not-promise-any-particular = لا تَعِد بأي استجابة مُعينة.
+reporting-do-let-them-know-that = <strong>أعلمهم أنه بغرض جعل سياسة</strong> { -brand-name-mozilla } فعّالة، يجب أن تمرير التقارير عبر الخط الساخن. إذا لم يشعروا بالراحة عند تقديم البلاغ بأنفسهم، فيمكنك القيام بذلك.
+reporting-do-let-them-know-that-email = <strong>أعلمهم</strong> أنه لكي تكون سياسة { -brand-name-mozilla } مؤثرة، يجب تقديم البلاغات من خلال الخط الساخن/البريد الإلكتروني. إذا لم يشعروا بالراحة عند تقديم البلاغ بأنفسهم، فيُمكنك القيام بذلك.
+reporting-no-matter-who-files-the = وبغض النظر عمّن يُقدم البلاغ، من المُهم الحصول على المعلومات الواردة أدناه.
+reporting-names-of-the-people-involved = أسماء الأشخاص المَعنيين (أو إذا كانت الأسماء غير معروفة، فاستخدم الأوصاف وأي معلومات يُمكن تحديدها، مثل المظهر، والدور، والمعالجة، والانتماء إلى المشروع / المجتمع).
 reporting-description-of-incident = وصف الحادث، بما في ذلك التواريخ (أو الأحداث) والمواقع التي لا تُنسى.
-reporting-if-the-reporter-wants = إذا أراد المبلغ تقديم بلاغ مجهول المصدر، فيُرجى إعلامه بأننا قد لا نتمكن من تزويد المبلغ الأصلي بمعلومات جهة الاتصال هذه حسب الاقتضاء. تحظر بعض القوانين الإبلاغ مجهول المصدر وقد يطلب منك إدخال اسمه إذا كنت مديرًا أو قائد مجتمعي في موزيلا.
-reporting-relationship-of-reportervictim = علاقة المبلغ/الضحية.
-reporting-mozilla-managers-and-community = مديرو موزيلا والقادة المجتمعيين
-reporting-if-a-mozilla-manager-or = إذا تم إبلاغ مدير موزيلا أو القادة المجتمعيين بانتهاكات محتملة <a href="{ $cpg }">للمبادئ التوجيهية للمشاركة المجتمعية</a> ‏(CPG)، فمن المتوقع أن يبلغوا عن الحادث على الفور من خلال الخط الساخن المُستخدم، حتى لو كان المبلغ الأصلي سيقدم بلاغاً أيضاً. ولا يسمح لمديري موزيلا والقادة المجتمعيين بالتحقيق في الشكاوى بمفردهم.
-reporting-do-not-impose-your-own = لا تفرض حكمك على كيفية رد فعل المبلغ. ركز على الاستماع.
-reporting-what-happens-after-the = ما الذي يحدث بعد تقديم البلاغ
+reporting-if-the-reporter-wants = إذا أراد المُبلّغ تقديم بلاغ مجهول الهوية، يُرجى إبلاغه أنه بدون معلومات الاتصال قد لا نتمكن من تحديث المُبلغ الأولي عند الاقتضاء. تحظر بعض القوانين الإبلاغ المجهول وقد يُطلب منك تقديم أسمائهم إذا كنت مدير أو قائد مُجتمعي في { -brand-name-mozilla }.
+reporting-relationship-of-reportervictim = علاقة المُبلّغ/الضحية.
+reporting-mozilla-managers-and-community = مُدراء وقادة مجتمع { -brand-name-mozilla }
+reporting-if-a-mozilla-manager-or = إذا تم إعلام مُدير أو قائد مجتمع { -brand-name-mozilla } بشأن انتهاكات <a href="{ $cpg }">المبادئ التوجيهية للمشاركة المجتمعية</a> المحتملة، فمن المتوقع أن يبلغ عن الحادث على الفور من خلال البريد الإلكتروني/الخط الساخن المناسب، حتى لو كان المُبلغ الأول سيُقدم أيضًا بلاغًا. لا يُسمح لمُدراء أو قادة { -brand-name-mozilla } بالتحقيق في الشكاوى من تلقاء أنفسهم.
+reporting-if-a-mozilla-manager-or-email = إذا تم إعلام مدير أو قائد مجتمع { -brand-name-mozilla } بشأن انتهاكات <a href="{ $cpg }">المبادئ التوجيهية للمشاركة المجتمعية</a> المحتملة، فمن المتوقع أن يبلغ عن الحادث على الفور من خلال البريد الإلكتروني/الخط الساخن المناسب، حتى لو كان المبلغ الأول سيقدم أيضًا بلاغًا. لا يُسمح لمدراء أو قادة { -brand-name-mozilla } بالتحقيق في الشكاوى من تلقاء أنفسهم.
+reporting-do-not-impose-your-own = لا تُصدر حكمًا بشأن كيفية رد فعل المُبلغ. ركز على الاستماع.
+reporting-what-happens-after-the = ما الذي يحدث بعد رفع البلاغ
 reporting-investigation = التحقيق
-reporting-reports-are-handled-discretely = يتم التعامل مع البلاغات على نحو من التحفظ والسرية، ولن يتم تبادلها إلا مع الأشخاص الذين يمكنهم التحقيق فيها والاستجابة وتقديم المشورة. وكجزء من هذا التحقيق، قد يكون من الضروري الكشف عن بعض المعلومات للآخرين، على سبيل المثال لأصحاب المصلحة الرئيسيين الذين يديرون المجتمعات أو الأحداث، والشهود، والمخالفين.
+reporting-reports-are-handled-discretely = يتم التعامل مع البلاغات بسرية وخصوصية، ولن تتم مُشاركتها إلا مع الأشخاص الذين يُمكنهم التحقيق والرد وتقديم المشورة. وكجزء من هذا التحقيق، قد يكون من الضروري الكشف عن بعض المعلومات للآخرين، على سبيل المثال، لأصحاب المصلحة الرئيسيين الذين يديرون المُجتمعات أو الأحداث، وللشهود، ومُرتكبي الأخطاء.
 reporting-correspondence = المراسلة
-reporting-all-reports-are-reviewed = يجري استعراض جميع البلاغات والرد عليها استنادا إلى طبيعة البلاغ، ونحاول تقديم تحديثات محددة بإطار زمني معقول كجزء من التحقيقات المفتوحة.
+reporting-all-reports-are-reviewed = تتم مراجعة جميع التقارير والرد عليها بناءً على طبيعة التقرير كما نُحاول تقديم تحديثات في توقيت معقول كجُزء من التحقيقات المفتوحة.
 reporting-redress = التصحيح
-reporting-when-an-investigation = عند اكتمال التحقيق، وبقدر ما يخضع مرتكب الفعل غير المشروع لرقابة موزيلا، ستتخذ التدابير المناسبة لمعالجة الحالة.
+reporting-when-an-investigation = عند اكتمال التحقيق إلى الحد الذي يخضع له المُخطئ لمراقبة { -brand-name-mozilla }، سيتم اتخاذ التدابير المناسبة لمعالجة الوضع.
 reporting-no-retaliation = الانتقام ممنوع
-reporting-mozilla-does-not-tolerate = لا تتسامح موزيلا مع الانتقام من أفراد موزيلا الذين يبلغون عن شواغلهم بشأن المبادئ التوجيهية للمشاركة المجتمعية بحسن نية. وينبغي الإبلاغ عن أعمال الانتقام باتباع العملية ذاتها الموضحة أعلاه.
+reporting-mozilla-does-not-tolerate = لا تتهاون { -brand-name-mozilla } مع الانتقام من أفراد الموزيلا الذين يُبلغون عن مخاوفهم بموجب المبادئ التوجيهية للمُشاركة المُجتمعية بحسن نية. يجب الإبلاغ عن أعمال الانتقام في نفس العملية كما هو موضح أعلاه.
 reporting-license = الترخيص
-reporting-this-document-includes = يشتمل هذا المستند على محتوى مستخرج من <a href="{ $pycon }">مراجعة مدونة قواعد السلوك PyCon 2f4d980‏</a> المرخصة بموجب رخصة المشاع الإبداعي غير المتنقلة 3.0 ({ -brand-name-creative-commons } Attribution 3.0 Unported)‏.
-reporting-this-document-is-licensed = هذا المستند مرخص بموجب <a href="{ $license }">رخصة المشاع الإبداعي غير المتنقلة 3.0 ({ -brand-name-creative-commons } Attribution 3.0 Unported)‏</a>.
+reporting-this-document-includes = يتضمن هذا المُستند محتوى متشعب من <a href="{ $pycon }">مراجعة مدونة سلوك PyCon رقم 2f4d980</a> والمرخصة بموجب { -brand-name-creative-commons } Attribution 3.0 Unported License.
+reporting-this-document-is-licensed = هذا المستند مرخص بموجب <a href="{ $license }">{ -brand-name-creative-commons } Attribution 3.0 Unported License</a>.
