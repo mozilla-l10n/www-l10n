@@ -2,24 +2,33 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/about/legal/
 
-legal-legal = الإشعار القانوني
-legal-get-involved = ساهم
-legal-protect-the-fox = احم الثّعلب
+legal-legal = الشؤون القانونية
+legal-get-involved = اشترك
+legal-protect-the-fox = حماية Fox
 legal-takedown-requests = طلبات الإزالة
-legal-back-to-legal = ارجع إلى الإشعار القانوني
-legal-special-thanks-to-all-of-you = شكر خاص لكلّ من يُبلّغ عن إساءة استخدام العلامات التّجارية الخاصّة بموزيلا، لكل من يُساهم في مُنتدى الحوكمة، لكل من يُساهم في جهود التّوطين والإشعارات القانونيّة، ولكل من يُساهم بمهاراته لإنجاح مشروع موزيلا.
-legal-terms = شروط
+legal-back-to-legal = رجوع إلى القسم القانوني
+legal-special-thanks-to-all-of-you = نَتقدم بشكر خاص لكم جميعًا من ساعدتُم في الإبلاغ عن إساءات استخدام علامات { -brand-name-mozilla }، وشاركتم في منتديات الحوكمة، وإبداء الرأي حول عمليات التعريب وشروطنا القانونية، وساهمتم بمهاراتكم في نجاح مشروع { -brand-name-mozilla }.
+legal-terms = الشروط
 legal-our-websites = مواقعنا
-legal-firefox-services = خدمات فيَرفُكس
-legal-webmaker = وبْمَيكر
+legal-firefox-services = خدمات { -brand-name-firefox }
+legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = الخصوصيّة والعلامات التّجاريّة
-legal-privacy-notices-and-policy = سياسات الخصوصيّة
+legal-privacy-notices-and-policy = سياسة وإشعارات الخصوصية
 legal-downloadable-software-notices = إشعارات البرامج القابلة للتّنزيل
-legal-firefox = فيَرفُكس
-legal-thunderbird = ثندربرد
-legal-websites-and-communications = شروط استخدام المواقع والتّواصل
-legal-acceptable-use-policy = شروط استخدام مقبولة
-legal-firefox-cloud-services = خدمات { -brand-name-firefox } السحابية: شروط الاستخدام
+legal-firefox = { -brand-name-firefox }
+legal-firefox-rights = { -brand-name-firefox }: حول حقوقك
+legal-thunderbird = { -brand-name-thunderbird }
+legal-thunderbird-rights = { -brand-name-thunderbird }: حول حقوقك
+legal-websites-and-communications = شروط استخدام المواقع والاتصالات
+legal-acceptable-use-policy = سياسة الاستخدام المقبولة
+legal-firefox-cloud-services = { -brand-name-firefox } الخدمات السحابية: شروط الاستخدام
+legal-firefox-better-web = { -brand-name-firefox-better-web }
+legal-firefox-better-web-terms = شروط استخدام { -brand-name-firefox-better-web }
+legal-firefox-light-rights = { -brand-name-firefox-lite }: حول حقوقك
+legal-firefox-private-network-terms = شروط استخدام { -brand-name-firefox-private-network }
+legal-firefox-reality-rights = { -brand-name-firefox-reality }: حول حقوقك
+legal-firefox-relay-terms = شروط استخدام { -brand-name-firefox-relay }
+legal-mozilla-vpn-terms = شروط استخدام { -brand-name-mozilla-vpn }
+legal-report-copyright = الإبلاغ عن انتهاك حقوق النشر أو العلامة التجارية
