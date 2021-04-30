@@ -2,34 +2,49 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Privasi { -brand-name-mozilla }
 privacy-index-contact-mozilla = Kontak { -brand-name-mozilla }
-privacy-index-if-you-want-to-make-a-correction = Jika ingin memperbaiki informasi Anda, atau memiliki pertanyaan mengenai kebijakan privasi kami, silakan hubungi:
+privacy-index-if-you-want-to-make-a-correction = Jika Anda ingin memperbaiki informasi Anda atau memiliki pertanyaan mengenai kebijakan privasi kami, silakan hubungi:
+
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
-privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Lihat di sini untuk Permintaan Akses Subyek Data.</a>
+privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Lihat di sini untuk Permintaan Akses Subjek Data.</a> Jika Anda berusia di bawah 13 tahun, kami tidak menginginkan informasi pribadi Anda dan Anda tidak perlu memberikannya kepada kami. Jika Anda adalah orang tua dan yakin bahwa anak Anda yang berusia di bawah 13 tahun telah memberi kami informasi pribadi, harap hubungi kami agar informasi anak Anda dihapus.
+
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
-privacy-index-for-product-support-requests = Untuk permintaan dukungan produk, silakan <a href="{ $sumo }"> kunjungi forum kami </a>.
+privacy-index-for-product-support-requests = Untuk permintaan dukungan produk, silakan <a href="{ $sumo }">kunjungi forum kami</a>.
 privacy-index-data-privacy-principles = Prinsip Privasi Data
+
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
-privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Prinsip Privasi Data</a> { -brand-name-mozilla } menginspirasi praktik kami yang menghargai dan melindungi masyarakat yang menggunakan Internet. Pelajari bagaimana prinsip-prinsip tersebut membentuk { -brand-name-firefox } dan semua produk kami pada <a href="{ $faq }">FAQ</a> berikut.
+privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Prinsip Privasi Data</a> { -brand-name-mozilla } menginspirasi praktik kami yang menghormati dan melindungi orang-orang yang menggunakan internet. Pelajari bagaimana prinsip-prinsip ini membentuk { -brand-name-firefox } dan semua produk kami di <a href="{ $faq }">Pertanyaan Umum</a>
 privacy-index-transparency-report = Laporan Transparansi
+privacy-index-get-involved = Mari Terlibat
+
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
-privacy-index-as-an-open-source-project = Sebagai proyek sumber terbuka, transparansi dan keterbukaan adalah bagian yang mendasar dari prinsip berdirinya { -brand-name-mozilla }. Basis kode kami terbuka dan dapat diaudit. Hasil kerja pengembangan kami terbuka. <a href="{ $report }">Laporan Transparansi</a> per 6 bulan pun mendemostrasikan komitmen kami pada prinsip-prinsip tersebut.
+privacy-index-as-an-open-source-project = Sebagai proyek sumber terbuka, transparansi, dan keterbukaan adalah bagian penting dari prinsip dasar { -brand-name-mozilla }. Basis kode kami terbuka dan dapat diaudit. Pekerjaan pengembangan kami terbuka. <a href="{ $report }">Laporan Transparansi</a> dua tahunan kami juga menunjukkan komitmen kami terhadap prinsip-prinsip ini.
+
 # Variables:
 #   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
-privacy-index-to-review-and-comment-on-proposed = Untuk mengulas dan memberi komentar pada perubahan yang diajukan pada kebijakan privasi kami, <a href="{ $group }">silakan berlangganan ke grup tata kelola { -brand-name-mozilla }</a>.
+privacy-index-to-review-and-comment-on-proposed = Untuk meninjau dan mengomentari perubahan yang diusulkan pada kebijakan privasi kami, <a href="{ $group }"> berlanggananlah ke grup tata kelola { -brand-name-mozilla }</a>.
+
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = Baca lebih lanjut tentang pekerjaan kami tentang kebijakan privasi dan keamanan publik yang sedang berlangsung di <a href="{ $blog }">Blog Kebijakan dan Advokasi Terbuka { -brand-name-mozilla }</a>.
-privacy-index-outdated-policies = Kebijakan Usang
-privacy-index-mozilla-websites-communications = Situs { -brand-name-mozilla }, Komunikasi &amp; Kuki
+privacy-index-read-more-about-our-ongoing = Baca lebih lanjut mengenai kebijakan privasi dan keamanan publik kami yang sedang berjalan di <a href="{ $blog }">Blog Kebijakan Terbuka dan Advokasi { -brand-name-mozilla }</a>.
+privacy-index-outdated-policies = Kebijakan Lama
+privacy-index-mozilla-websites-communications = Situs web { -brand-name-mozilla }, Komunikasi & Kuki
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } untuk { -brand-name-fire-tv }
