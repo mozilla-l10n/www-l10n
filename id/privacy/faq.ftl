@@ -2,67 +2,76 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = FAQ Privasi Data { -brand-name-mozilla }
-privacy-faq-at-mozilla-we-respect-and-protect-desc = Di { -brand-name-mozilla } kami menghormati dan melindungi informasi pribadi Anda.
-privacy-faq-we-stand-for-people-over-profit = Kami Berdiri Untuk Masyarakat Di Atas Laba
-privacy-faq-it-can-be-tricky-for-people = Terkadang bisa menjadi rumit bagi orang untuk mengetahui apa yang diharapkan dari peranti lunak atau layanan yang mereka gunakan hari ini. Teknologi yang menggerakkan kehidupan kita sangat kompleks dan orang tidak memiliki waktu untuk menggalinya hingga rinci. Itu masih benar bagi { -brand-name-firefox }, di mana kami menemukan bahwa masyarakat memiliki pemikiran yang berbeda-beda tentang apa yang terjadi di balik layar peramban mereka.
+privacy-faq-mozillas-data-privacy-faq = Pertanyaan Umum Terkait Privasi Data { -brand-name-mozilla }
+privacy-faq-at-mozilla-we-respect-and-protect-desc = Di { -brand-name-mozilla }, kami menghormati dan melindungi informasi pribadi Anda:
+
+privacy-faq-we-stand-for-people-over-profit = Kami Mendahulukan Kepentingan Pengguna Daripada Keuntungan.
+privacy-faq-it-can-be-tricky-for-people = Mungkin sulit bagi orang untuk mengetahui apa yang diharapkan dari perangkat lunak atau layanan apa pun yang mereka gunakan saat ini. Teknologi yang menggerakkan hidup kita rumit dan orang-orang tidak memiliki waktu untuk menggali lebih dalam. Hal tersebut masih berlaku untuk { -brand-name-firefox }, di mana kami menemukan bahwa orang-orang memiliki banyak gagasan yang berbeda mengenai apa yang terjadi di balik layar dalam peramban mereka.
 privacy-faq-at-mozilla-we-respect-and-protect = Di { -brand-name-mozilla }, kami menghormati dan melindungi informasi pribadi Anda:
+
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = Kami mengikuti satu set <a href="{ $link }">Prinsip Privasi Data</a> yang membentuk pendekatan kami untuk privasi pada peramban { -brand-name-firefox } desktop dan seluler.
-privacy-faq-we-only-collect-the-data-we = Kami hanya mengumpulkan data yang kami perlukan untuk membuat produk terbaik.
-privacy-faq-we-put-people-in-control-of = Kami memberikan masyarakat kendali atas data dan pengalaman daring mereka.
-privacy-faq-we-adhere-to-no-surprises-principle = Kami mengikuti prinsip “tidak ada kejutan”, berarti kami bekerja keras memastikan pemahaman { -brand-name-firefox } masyarakat tepat sesuai kenyataan.
-privacy-faq-the-following-questions-and = Pertanyaan dan jawaban berikut dapat membantu Anda memahami apa yang diharapkan dari { -brand-name-mozilla } dan { -brand-name-firefox }:
-privacy-faq-i-use-firefox-for-almost-everything = Saya menggunakan { -brand-name-firefox } untuk hampir semua hal di Web. Kalian di { -brand-name-mozilla } pasti tahu banyak hal tentang saya, kan?
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, peramban web yang berjalan pada peranti atau komputer Anda adalah gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi tentang situs web yang Anda kunjungi, tapi informasi tersebut tetap berada pada peranti Anda. { -brand-name-mozilla }, perusahaan yang membuat { -brand-name-firefox }, tidak mengumpulkannya (kecuali Anda meminta kami melakukannya).
-privacy-faq-really-you-dont-collect-my-browsing = Mozilla sungguh tidak mengumpulkan riwayat penjelajahan saya?
+privacy-faq-we-follow-a-set-of-data-privacy = Kami mengikuti sekumpulan <a href="{ $link }">Prinsip Privasi Data</a> yang membentuk pendekatan kami terhadap privasi di peramban desktop dan seluler { -brand-name-firefox }.
+privacy-faq-we-only-collect-the-data-we = Kami hanya mengumpulkan data yang kami butuhkan untuk membuat produk terbaik.
+privacy-faq-we-put-people-in-control-of = Kami menempatkan orang-orang dalam kendali akan data dan pengalaman daring mereka.
+privacy-faq-we-adhere-to-no-surprises-principle = Kami menganut prinsip "tidak ada kejutan", yang berarti kami bekerja keras untuk memastikan pemahaman orang mengenai { -brand-name-firefox } sesuai dengan kenyataan.
+privacy-faq-the-following-questions-and = Pertanyaan dan jawaban berikut akan membantu Anda memahami apa yang diharapkan dari { -brand-name-mozilla } dan { -brand-name-firefox }:
+privacy-faq-i-use-firefox-for-almost-everything = Saya menggunakan { -brand-name-firefox } untuk hampir semua hal di web. Kalian di { -brand-name-mozilla } pasti tahu banyak mengenai saya, bukan?
+privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, peramban web yang bekerja di perangkat atau komputer Anda, merupakan gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi mengenai situs web yang Anda kunjungi, tetapi informasi tersebut tetap berada di perangkat Anda. { -brand-name-mozilla }, perusahaan yang membuat { -brand-name-firefox }, tidak mengambilnya (kecuali jika Anda memintanya).
+privacy-faq-really-you-dont-collect-my-browsing = Sungguh, Anda tidak mengambil riwayat penjelajahan saya?
+
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } tidak tahu seberapa besar ekspektasi Anda tentang bagaimana orang menjelajah Web. Sebagai pembuat peramban, hal tersebut adalah tantangan besar bagi kami. Itulah mengapa kami membangun alat yang dapat dipilih, seperti <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, membolehkan pengguna yang tertarik memberikan wawasan tentang penjelajahan Web-nya kepada kami. Jika Anda menyinkronkan riwayat penjelajahan sepanjang pemasangan { -brand-name-firefox }, kami tidak tahu apa di dalamnya - karena itu dienkripsi oleh perangkat Anda.
-privacy-faq-it-seems-like-every-company = Sepertinya setiap perusahaan di web membeli dan menjual data saya. Mozilla mungkin tidak berbeda.
-privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } tidak menjual data tentang Anda, dan kami tidak membeli data tentang Anda.
-privacy-faq-wait-so-how-do-you-make-money = Jadi bagaimana Mozilla menghasilkan uang?
+privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. Sebagai pembuat peramban, itu sebenarnya tantangan besar bagi kami. Itulah alasannya kami membuat alat pilihan, seperti <a href="{ $link }">Pioneer { -brand-name-firefox }</a>, yang memungkinkan pengguna yang tertarik untuk memberikan kami wawasan mengenai penjelajahan web mereka. Jika Anda menyinkronkan riwayat penjelajahan Anda di seluruh pemasangan { -brand-name-firefox }, kami tidak mengetahui apa riwayat itu — karena itu dienkripsikan oleh perangkat Anda.
+privacy-faq-it-seems-like-every-company = Sepertinya setiap perusahaan di web membeli dan menjual data saya. Anda mungkin juga sama.
+privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } tidak menjual data mengenai Anda dan kami tidak membeli data mengenai Anda.
+privacy-faq-wait-so-how-do-you-make-money = Tunggu, jadi bagaimana Anda menghasilkan uang?
+
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } bukan organisasi biasa. Didirikan sebagai proyek komunitas sumber terbuka pada 1998, { -brand-name-mozilla } adalah sebuah organisasi yang didorong oleh misi, bekerja menuju internet yang lebih sehat. Mayoritas pendapatan { -brand-name-mozilla } Corporation berasal dari royalti yang dihasilkan melalui kemitraan pencarian di peramban web { -brand-name-firefox } dan kesepakatan distribusi di seluruh dunia. Anda dapat mengetahui lebih lanjut tentang bagaimana kami menghasilkan uang dalam <a href="{ $link }">laporan keuangan tahunan</a> kami.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } bukanlah organisasi pada umumnya. Didirikan sebagai proyek komunitas sumber terbuka pada tahun 1998, { -brand-name-mozilla } adalah organisasi yang digerakkan oleh misi yang bekerja menuju internet yang lebih sehat. Mayoritas pendapatan { -brand-name-mozilla-corporation } berasal dari royalti yang diperoleh melalui kemitraan penelusuran peramban web { -brand-name-firefox } dan kesepakatan distribusi di seluruh dunia. Anda dapat mempelajari lebih lanjut mengenai bagaimana kami menghasilkan uang dalam <a href="{ $link }">laporan keuangan tahunan</a> kami.
+
 # A "softball" is a question that is really easy to answer.
-privacy-faq-okay-those-first-few-were-softballs = Oke, pertanyaan tadi terlalu mudah. Data apa yang Mozilla kumpulkan?
+privacy-faq-okay-those-first-few-were-softballs = Oke, yang pertama itu mudah. Data apa yang Anda kumpulkan?
+
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } mengumpulkan data dalam jumlah terbatas secara otomatis melalui { -brand-name-firefox }, yang dapat membantu kami memahami bagaimana pengguna memakai peramban ini. Data tersebut terkait pada pengenal acak, dan bukan nama atau alamat surel Anda. Anda bisa membaca lebih lanjut mengenai hal ini dalam <a href="{ $privacy }">pemberitahuan privasi</a> dan Anda dapat membaca <a href="{ $data }">dokumentasi utuh pengumpulan data tersebut</a>.
-privacy-faq-we-make-our-documentation-public = Kami menyediakan dokumentasi data secara publik agar siapa pun dapat mengecek bahwa kami menyatakan yang sebenarnya; sampaikan pada kami jika kami perlu meningkatkan hal ini, dan yakinlah bahwa kami tidak menyembunyikan apapun.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } memang mengumpulkan satu set data terbatas secara bawaan dari { -brand-name-firefox } yang membantu kami memahami bagaimana orang menggunakan peramban. Data tersebut terikat dengan pengenal acak, bukan nama atau alamat email Anda. Anda dapat membaca lebih lanjut mengenai hal tersebut di <a href="{ $privacy }">pemberitahuan privasi</a> dan Anda dapat membaca <a href="{ $data }">dokumentasi lengkap untuk pengumpulan data itu</a>.
+privacy-faq-we-make-our-documentation-public = Kami menjadikan dokumentasi kami publik sehingga siapa pun dapat memverifikasi apa yang kami katakan adalah benar, beri tahu kami jika kami perlu meningkatkan diri, dan memiliki keyakinan bahwa kami tidak menyembunyikan apa pun.
+
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
-privacy-faq-that-documentation-is-gobbledygook = Dokumentasinya terlalu rumit! Bisakah Anda menyediakannya dalam bahasa Inggris sederhana?
-privacy-faq-there-are-two-categories-of = Ada dua kategori data yang kami kumpulkan secara baku di dalam versi rilis { -brand-name-firefox } kami.
-privacy-faq-the-first-is-what-we-call-technical = Yang pertama adalah apa yang kami sebut "data teknis." Ini merupakan data tentang peramban itu sendiri, misalnya sistem operasi yang digunakannya dan informasi mengenai galat atau masalah.
-privacy-faq-the-second-is-what-we-call-interaction = Yang kedua adalah apa yang kami sebut "data interaksi." Ini merupakan data mengenai keterlibatan seseorang dengan { -brand-name-firefox }, misalnya jumlah tab yang dibuka, status pilihan pengguna, atau berapa kali fitur peramban tertentu digunakan, antara lain cuplikan layar atau kontainer. Sebagai contoh, kami mengumpulkan data dari tombol balik, tanda panah di bagian pojok kiri atas peramban yang memungkinkan Anda kembali ke laman sebelumnya dengan cara menunjukkan pada kami saat seseorang menggunakan tombol itu, tapi tidak menunjukkan secara spesifik laman apa yang diakses.
-privacy-faq-do-you-collect-more-data-in = Apakah Mozilla mengumpulkan lebih banyak data di versi prarilis dari { -brand-name-firefox }?
-privacy-faq-sort-of-in-addition-to-the-data = Semacam itulah. Sebagai tambahan atas data yang dipaparkan di atas, kami menerima laporan galat dan masalah secara otomatis dalam versi pra-rilis { -brand-name-firefox }.
+privacy-faq-that-documentation-is-gobbledygook = Dokumentasi tersebut terlalu omong kosong buat saya! Dapatkah Anda menjelaskannya kepada saya dalam bahasa Inggris yang sederhana?
+privacy-faq-there-are-two-categories-of = Terdapat dua kategori data yang kami kumpulkan secara bawaan dalam versi rilis { -brand-name-firefox } kami.
+privacy-faq-the-first-is-what-we-call-technical = Pertama adalah apa yang kami sebut dengan "data teknis". Data ini mengenai peramban itu sendiri, seperti sistem operasi yang menjalankannya dan informasi mengenai kesalahan atau kerusakan.
+privacy-faq-the-second-is-what-we-call-interaction = Kedua adalah apa yang kami sebut dengan "data interaksi". Data ini adalah mengenai keterlibatan seseorang dengan { -brand-name-firefox }, seperti jumlah tab yang terbuka, status preferensi pengguna, atau frekuensi penggunaan fitur peramban tertentu, seperti tangkapan layar atau penampung. Misalnya, kami mengumpulkan data ini dari aktivitas tombol kembali, panah di sudut kiri atas peramban Anda yang memungkinkan Anda untuk menavigasi kembali ke laman web sebelumnya dengan cara yang menunjukkan kepada kami seseorang menggunakan tombol kembali tersebut, tetapi tidak memberi tahu laman web apa yang diakses.
+privacy-faq-do-you-collect-more-data-in = Apakah Anda mengumpulkan lebih banyak data dalam pra-rilis { -brand-name-firefox }?
+privacy-faq-sort-of-in-addition-to-the-data = Kurang lebih. Selain data yang dijelaskan di atas, kami menerima laporan kerusakan dan kesalahan secara bawaan dalam versi pra-rilis { -brand-name-firefox }.
+
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Kami juga mungkin mengumpulkan data tambahan dalam pra-rilis untuk salah satu <a href="{ $link }">studi</a> kami. Misalnya, sejumlah studi memerlukan apa yang disebut "data aktivitas web" yang dapat menyertakan URL dan informasi lain mengenai situs tertentu. Hal ini membantu kami menjawab pertanyaan spesifik untuk, misalnya, meningkatkan { -brand-name-firefox }, bagaimana agar dapat mengintegrasikan situs populer dengan lebih baik di sejumlah bahasa tertentu.
-privacy-faq-mozillas-pre-release-versions = Versi pra-rilis { -brand-name-mozilla } adalah platform pengembangan, yang kerap diperbarui dengan fitur eksperimental. Kami lebih banyak mengumpulkan data pada saat pra-rilis daripada setelah rilis agar dapat memahami bagaimana fitur eksperimental tersebut bekerja. Anda dapat memilih untuk tidak disertakan dalam pengumpulan data ini melalui preferensi.
-privacy-faq-but-why-do-you-collect-any-data = Tapi mengapa harus mengumpulkan data?
-privacy-faq-if-we-dont-know-how-the-browser = Jika kami tidak mengetahui bagaimana peramban bekerja atau fitur apa yang dipakai pengguna, kami tidak dapat membuatnya lebih baik dan menghantarkan produk unggul yang Anda inginkan. Kami berinvestasi dalam membangun pengumpulan data dan alat analisis yang memungkinkan kami membuat keputusan cerdas tentang produk kami sembari tetap menghormati privasi pengguna.
-privacy-faq-data-collection-still-bugs-me = Pengumpulan data masih mengganggu saya. Bisakah saya menonaktifkannya?
+privacy-faq-we-may-also-collect-additional = Kami juga mengumpulkan data tambahan dalam pra-rilis untuk salah satu <a href="{ $link }">penelitian</a> kami. Misalnya, beberapa penelitian membutuhkan apa yang kami sebut dengan &quot;data aktivitas web&quot;, yang mungkin mencakup URL dan informasi lainnya mengenai situs web tertentu. Ini membantu kami menjawab pertanyaan tertentu untuk meningkatkan { -brand-name-firefox }, misalnya, bagaimana cara yang lebih baik untuk mengintegrasikan situs web populer di daerah tertentu.
+privacy-faq-mozillas-pre-release-versions = Versi pra-rilis { -brand-name-mozilla } dari { -brand-name-firefox } merupakan platform pengembangan yang sering diperbarui dengan fitur eksperimental. Kami mengumpulkan lebih banyak data dalam pra-rilis daripada yang kami lakukan setelah rilis untuk memahami cara kerja fitur eksperimental ini. Anda dapat memilih menolak pengumpulan data ini di preferensi.
+privacy-faq-but-why-do-you-collect-any-data = Tetapi mengapa Anda mengumpulkan data itu?
+privacy-faq-if-we-dont-know-how-the-browser = Jika kami tidak mengetahui bagaimana kinerja peramban atau fitur apa yang digunakan orang, kami tidak dapat membuatnya lebih baik dan memberikan produk hebat yang Anda inginkan. Kami telah berinvestasi dalam membangun alat pengumpulan dan penganalisis data yang memungkinkan kami membuat keputusan cerdas mengenai produk kami dengan tetap menghormati privasi orang lain.
+privacy-faq-data-collection-still-bugs-me = Pengumpulan data masih mengganggu saya. Apakah saya bisa mematikannya?
+
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = Ya. Kendali pengguna adalah salah satu prinsip privasi data kami. Kami menerapkannya dalam { -brand-name-firefox } di <a href="{ $settings }">laman penyetelan privasi</a>, yang dimaksudkan sebagai titik temu bagi siapa pun yang ingin mengendalikan privasi mereka di { -brand-name-firefox }. Anda dapat <a href="{ $data }">mematikan pengumpulan data </a> di sana.
+privacy-faq-yes-user-control-is-one-of-our = Ya. Kontrol pengguna adalah salah satu prinsip privasi data kami. Kami mempraktikkannya di { -brand-name-firefox } dalam <a href="{ $settings }">laman pengaturan privasi</a> kami yang berfungsi sebagai toko serba ada bagi siapa pun yang ingin mengontrol privasi mereka di { -brand-name-firefox }. Anda dapat <a href="{ $data }">mematikan pengumpulan data</a> di sana.
 privacy-faq-what-about-my-account-data = Bagaimana dengan data akun saya?
-privacy-faq-we-are-big-believers-of-data = Kami sangat percaya pentingnya meminimalkan data dan tidak meminta hal-hal yang tak kami perlukan.
+privacy-faq-we-are-big-believers-of-data = Kami sangat percaya pada minimisasi data dan tidak meminta hal-hal yang tidak kami butuhkan.
+
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
-privacy-faq-you-dont-need-an-account-to = Anda tidak memerlukan akun untuk menggunakan { -brand-name-firefox }. <a href="{ $accounts }">Akun</a> diperlukan untuk menyelaraskan data antar gawai, namun kami hanya meminta alamat surel Anda. Kami tidak perlu tahu hal-hal seperti nama, alamat, tanggal lahir dan nomor telepon.
-privacy-faq-you-use-digital-advertising = Anda menggunakan iklan digital sebagai bagian dari cara pemasaran. Apakah Anda membeli data pengguna untuk bisa menarget iklan daring dengan lebih baik?
-privacy-faq-no-we-do-not-buy-peoples-data = Tidak, kami tidak membeli data seseorang untuk penargetan iklan.
-privacy-faq-we-do-ask-our-advertising-partners = Kami meminta mitra periklanan Anda hanya menggunakan data pihak pertama yang diketahui situs dan penerbit mengenai para penggunanya, misalnya peramban dan gawai yang Anda gunakan.
-privacy-faq-well-it-seems-like-you-really = Hmm, tampaknya Anda benar-benar siap sedia dalam hal privasi ini.
-privacy-faq-yes-we-do = Ya, tentu saja.
-privacy-faq-find-out-more-about-how-mozilla = Cari tahu lebih banyak tentang bagaimana { -brand-name-mozilla } melindungi internet.
+privacy-faq-you-dont-need-an-account-to = Anda tidak memerlukan akun untuk menggunakan { -brand-name-firefox }. <a href="{ $accounts }">Akun</a> diperlukan untuk menyinkronkan data di seluruh perangkat, tetapi kami hanya meminta alamat email Anda. Kami tidak ingin mengetahui hal-hal seperti nama, alamat, tanggal lahir, dan nomor ponsel Anda.
+privacy-faq-you-use-digital-advertising = Anda menggunakan iklan digital sebagai bagian dari paduan pemasaran Anda. Apakah Anda membeli data seseorang untuk menargetkan iklan daring Anda secara lebih baik?
+privacy-faq-no-we-do-not-buy-peoples-data = Tidak, kami tidak membeli data seseorang untuk menargetkan iklan.
+privacy-faq-we-do-ask-our-advertising-partners = Kami memang meminta mitra periklanan kami hanya menggunakan data pihak pertama yang diketahui situs web dan penerbit tentang semua pengguna, seperti peramban dan perangkat yang Anda gunakan.
+privacy-faq-well-it-seems-like-you-really = Sepertinya Anda benar-benar mendukung masalah privasi ini.
+privacy-faq-yes-we-do = Ya, itu benar.
+privacy-faq-find-out-more-about-how-mozilla = Cari tahu lebih lanjut mengenai cara { -brand-name-mozilla } melindungi internet.
