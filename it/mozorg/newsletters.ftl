@@ -19,6 +19,7 @@ newsletters-subscribe-to-updates-and-keep = Iscriviti alla newsletter e tieniti 
 newsletters-newsletter-confirm = Messaggio di conferma alla newsletter
 newsletters-thanks-for-subscribing = Ti ringraziamo per la tua iscrizione.
 newsletters-your-newsletter-subscription = La tua iscrizione alla newsletter è stata confermata.
+newsletters-please-be-sure-to-add-our-v2 = Aggiungi alla rubrica l’indirizzo mozilla@email.mozilla.org con cui inviamo la newsletter per evitare che le nostre email finiscano nella posta indesiderata.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Per avere la certezza di ricevere sempre i nostri messaggi, aggiungi alla rubrica l’indirizzo utilizzato per inviare la newsletter (mozilla@e.mozilla.org).
 newsletters-the-supplied-link-has-expired = Il link fornito è scaduto. Ne riceverai un altro nella prossima newsletter.
