@@ -13,6 +13,8 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Закрыць меню { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } для камп'ютара
 navigation-v2-firefox-for-android = { -brand-name-firefox } для { -brand-name-android }
+navigation-v2-firefox-for-ios = { -brand-name-firefox } для { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Атрымайце мабільны браўзер для свайго { -brand-name-iphone } або { -brand-name-ipad }.
 navigation-v2-privacy-promise = Абяцанне прыватнасці
 navigation-v2-learn-how-firefox-treats = Даведайцеся, як { -brand-name-firefox } ставіцца з павагай да вашых звестак.
 navigation-v2-firefox-blog = Блог { -brand-name-firefox }
@@ -51,6 +53,23 @@ navigation-v2-join-the-fight-for-a = Далучайцеся да барацьб�
 navigation-v2-leadership = Кіраўніцтва
 navigation-v2-meet-the-team-thats-building = Пазнаёмцеся з камандай, якая стварае тэхналогіі для лепшага Інтэрнэту.
 navigation-v2-careers = Вакансіі
+navigation-v2-work-for-a-mission-driven-updated = Працуйце для арганізацыі, якая кіруецца місіяй, якая стварае прадукты перш за ўсё для людзей.
+navigation-v2-mozilla-blog = Блог { -brand-name-mozilla }
+navigation-v2-learn-about-mozilla-and = Даведайцеся пра { -brand-name-mozilla } і важныя для нас праблемы.
+navigation-v2-more-about-mozilla = Падрабязней пра { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Інавацыі
+navigation-v2-close-innovation-menu = Закрыць меню «Інавацыі»
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Збірайцеся ў гэтай інтэрактыўнай, шматмернай сацыяльнай прасторы ў Інтэрнэце.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Атрымайце браўзер { -brand-name-firefox }, створаны спецыяльна для распрацоўшчыкаў.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Даследуйце Інтэрнэт з дапамогай браўзера { -brand-name-firefox } для віртуальнай рэальнасці.
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Даведайцеся больш пра новую нізкаўзроўневую мову, падобную на асемблер.
+navigation-v2-more-mozilla-innovation = Усе інавацыі { -brand-name-mozilla }
