@@ -19,11 +19,14 @@ newsletters-subscribe-to-updates-and-keep = Iscriviti alla newsletter e tieniti 
 newsletters-newsletter-confirm = Messaggio di conferma alla newsletter
 newsletters-thanks-for-subscribing = Ti ringraziamo per la tua iscrizione.
 newsletters-your-newsletter-subscription = La tua iscrizione alla newsletter è stata confermata.
+# Obsolete string
 newsletters-please-be-sure-to-add-our = Per avere la certezza di ricevere sempre i nostri messaggi, aggiungi alla rubrica l’indirizzo utilizzato per inviare la newsletter (mozilla@e.mozilla.org).
 newsletters-the-supplied-link-has-expired = Il link fornito è scaduto. Ne riceverai un altro nella prossima newsletter.
 newsletters-something-is-amiss-with = Spiacenti, c’è qualche problema col nostro sistema. Riprova più tardi.
 newsletters-youre-awesome = Sei un grande!
 newsletters-and-were-not-just-saying = E non lo diciamo solo perché ti sei fidato di noi al punto da condividere il tuo indirizzo email.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Aggiungi alla rubrica l’indirizzo mozilla@email.mozilla.org per evitare che le nostre email finiscano nella posta indesiderata.
+# Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Assicurati di aggiungere mozilla@e.mozilla.org ai contatti della rubrica in modo da ricevere sempre i nostri messaggi email.
 newsletters-mozilla-touches-on-a-variety = Nelle newsletter { -brand-name-mozilla } vengono trattati diversi argomenti importanti.
 newsletters-open-your-inbox-and-your = Apri la tua casella di posta elettronica (e la tua mente) e, soprattutto, dai un’occhiata anche agli altri argomenti che trattiamo.
@@ -104,6 +107,8 @@ newsletters-i-didnt-sign-up = Non ho mai chiesto di ricevere queste email.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Questo indirizzo email non è presente nel nostro database. Controlla di averlo digitato correttamente o utilizzalo per <a href="{ $url }">iscriverti alle nostre newsletter</a>.
+newsletters-im-keeping-in-touch-v2 = Preferisco seguire { -brand-name-mozilla } su { -brand-name-twitter }.
+# Obsolete string
 newsletters-im-keeping-in-touch = Preferisco seguire { -brand-name-mozilla } su { -brand-name-facebook } e { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Iscriviti, leggi,<br>rimani informato.
@@ -250,10 +255,14 @@ newsletters-get-how-tos = Ricevi le guide, i consigli e le novità per adattare 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Avvisi speciali relativi al nostro festival annuale dedicato a plasmare il futuro dell'Open Web.
+# Obsolete string
 newsletters-special-announcements-about-mozilla = Annunci esclusivi sull’annuale festival partecipativo { -brand-name-mozilla }, dedicato a tracciare il futuro dell’open Web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Le novità di { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Aggiornamenti periodici con suggerimenti per vivere in maniera più consapevole la propria esperienza online e partecipare attivamente alla lotta per un Internet migliore.
+# Obsolete string
 newsletters-regular-updates-to-keep = Aggiornamenti regolari per tenerti informato e attivo nella nostra lotta per un Internet migliore.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
