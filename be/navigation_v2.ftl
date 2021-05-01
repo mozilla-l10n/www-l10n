@@ -31,9 +31,26 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Атрымайце абарону за межамі вашага браўзера на ўсіх сваіх прыладах.
 navigation-v2-product-promise = Абяцанне па прадуктах
+navigation-v2-learn-how-each-firefox-product = Даведайцеся, як кожны прадукт { -brand-name-firefox } ахоўвае і шануе вашы дадзеныя.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бэта)
+navigation-v2-sign-up-for-new-accounts = Стварайце новыя ўліковыя запісы, не перадаючы свой адрас электроннай пошты.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (бэта)
+navigation-v2-protect-your-browsers-connection = Абараніце падключэнне браўзера да Інтэрнэту.
+navigation-v2-view-all-products = Паглядзець усе прадукты
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Хто мы
+navigation-v2-close-who-we-are-menu = Закрыць меню «Хто мы»
+navigation-v2-mozilla-manifesto = Маніфест { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Даведайцеся пра каштоўнасці і прынцыпы, якімі кіруецца наша місія.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = Далучайцеся
+navigation-v2-join-the-fight-for-a = Далучайцеся да барацьбы за здаровы інтэрнэт.
+navigation-v2-leadership = Кіраўніцтва
+navigation-v2-meet-the-team-thats-building = Пазнаёмцеся з камандай, якая стварае тэхналогіі для лепшага Інтэрнэту.
+navigation-v2-careers = Вакансіі
 
 ## Innovation menu
 
