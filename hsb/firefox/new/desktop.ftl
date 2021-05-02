@@ -115,6 +115,9 @@ firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhlad
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na wšěch wašich gratach k dispoziciji; bjerće swoje rajtarki, swoju historiju a swoje zapołožki sobu. Wšitko, štož trjebaće, je <a { $attrs }>konto { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele přesćěhowakow třećich awtomatisce při tym haći</a> waše webaktiwity hromadźeć a předawać.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maće prašenja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> budźe wam pomhać.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
