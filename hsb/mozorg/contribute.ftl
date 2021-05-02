@@ -45,11 +45,13 @@ contribute-opportunities = Nowinki a móžnosće za dobrowólnikow
 ## Made by
 
 contribute-made-by-heading = Wutworjeny wot zahoritych ludźi kaž wy sće
+contribute-made-by-desc = Hdyž k { -brand-name-mozilla } přinošujeće, budźeće dźěl swětadalokeho zhromadźenstwa, ke kotremuž ludźo z cyłeho swěta słušeja, kotřiž wěrja, zo my wšitcy rólu hrajemy, zo bychmy zawěsćili, zo internet móc za dobre wostawa.
 
 ## Newsletter
 
 contribute-newsletter-heading = Hišće njewěsty?
 contribute-newsletter-sub-heading = Dóstańće nowinki wo zhromadźenstwje a sobudźěle do swojeho póstoweho dochada
+contribute-newsletter-desc = Abonujće naš powěsćowy list, přidružće so Mozillačanam z cyłeho swěta a zhońće wjace wo skutkownych móžnosćach, misiju { -brand-name-mozilla } podpěrać.
 
 ## Support
 
