@@ -46,6 +46,7 @@ contribute-opportunities = Nowinki a móžnosće za dobrowólnikow
 
 contribute-made-by-heading = Wutworjeny wot zahoritych ludźi kaž wy sće
 contribute-made-by-desc = Hdyž k { -brand-name-mozilla } přinošujeće, budźeće dźěl swětadalokeho zhromadźenstwa, ke kotremuž ludźo z cyłeho swěta słušeja, kotřiž wěrja, zo my wšitcy rólu hrajemy, zo bychmy zawěsćili, zo internet móc za dobre wostawa.
+contribute-made-by-desc-cont = Wěrimy, zo zhromadne dźěło zhromadźenstwa je rozsudne za wutworjenje wšlakoreho, inowatniwneho a ludźom k rozprawnistwu winowateho interneta, kotřiž jón nuznje trjebaja. Wšojedne hač maće techniski pozadk, něšto w zhromadźenstwje organizujeće abo prosće ličak a trochu wólneho časa maće, móžeće nam pomhać, internet k lěpšemu městnu činić.
 
 ## Newsletter
 
