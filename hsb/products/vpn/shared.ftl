@@ -80,6 +80,10 @@ vpn-shared-platform-cta-headline = Započńmy
 vpn-shared-platform-cta-button = Płaćizny a disponujomnosć sej wobhladać
 vpn-shared-platform-privacy-promise = Waša priwatnosć je naše slubjenje
 vpn-shared-platform-trust-partner-headline = Wo našim dowěryhódnym partnerje
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } w globalnej syći serwerow běži, kotraž so wot <a href="{ $policy }">{ -brand-name-mullvad }</a> z pomocu protokola <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® wobhospodarja. Za { -brand-name-mullvad } waša priwatnosć na prěnim městnje steji a tohodla so waše aktiwity njeprotokoluja.
 vpn-shared-platform-what-youll-get = Štož z { -brand-name-mozilla-vpn } dóstanjeće:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
