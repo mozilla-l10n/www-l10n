@@ -55,6 +55,7 @@ history-more-people-than-ever-before = Internet uporablja več ljudi kot kdajkol
 history-the-future-is-full-of-challenges = Prihodnost je polna izzivov in priložnosti, enakih tistim iz naše preteklosti.
 history-theres-no-guarantee-that = Nobenega zagotovila ni, da bo internet ostal odprt in prijazen in varen.
 history-of-course-were-not-alone = Seveda pri tem nismo sami.
+history-the-mozilla-community-together = Skupnost { -brand-name-mozilla } tako kot ostali odprtokodni projekti in organizacije v javnem interesu obstaja le po zaslugi ljudi, predanih uresničevanju naših skupnih ciljev.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Če se nam želite pridružiti pri našem poslanstvu, se <a href="{ $contribute }">vključite</a>.
