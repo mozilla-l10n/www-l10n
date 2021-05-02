@@ -10,6 +10,7 @@
 
 contribute-page-title = Móžnosće za dobrowólnikow pola { -brand-name-mozilla }
 contribute-page-heading = Waše talenty su trěbne za lěpši internet.
+contribute-page-intro = { -brand-name-mozilla } je powšitkownosći słužaca organizacija, kotraž so za to zasadźuje, zo internet wotewrjeny a wabjacy wostawa. A trjebamy wašu pomoc. Hdyž so našemu zhromadźenstwu přizamkujeće, móžeće pomhać, inowaciju doprědka ćěrić, zamołwitosć a dowěru zesylnić a internet k lěpšemu městnu za kóždeho činić.
 contribute-how-heading = Kak móžeće sobu pomhać…
 
 ## Contribution tasks
@@ -24,7 +25,9 @@ contribute-task-translate-heading = Wobsah přełožić
 contribute-task-translate-desc = Internet je jenož globalny, hdyž so wšudźe rozumi. Pomhajće nam produkty a websydła { -brand-name-mozilla } do swojeje rěče přełožować.
 contribute-task-mozilla-codebase-heading = Ke kodowej bazy { -brand-name-mozilla } přinošować
 contribute-task-mozilla-codebase-desc = Přinošujće k wjele wuwiwanskim móžnosćam, zo byšće produkty { -brand-name-mozilla } aktiwnje polěpšił.
+contribute-task-support-desc = Pomhajće, wužiwanje produktow { -brand-name-mozilla } wosnadnić. Wotmołwće na prašenja ludźi jako dźěl forumow pomocy { -brand-name-mozilla } zhromadźenstwa.
 contribute-task-join-heading = Přidružće so zhromadźenstwu
+contribute-task-join-desc = Chceće w zhromadźenstwje { -brand-name-mozilla } wjace sobu dźěłać? Informujće so wo móžnosćach za dobronwólnikow w  portalu našeho zhromadźenstwa.
 
 ## Mission
 
