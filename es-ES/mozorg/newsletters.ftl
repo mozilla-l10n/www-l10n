@@ -26,6 +26,7 @@ newsletters-the-supplied-link-has-expired = Ha caducado el enlace provisto. Reci
 newsletters-something-is-amiss-with = Algo no va bien en nuestro sistema, discúlpanos. Inténtalo de nuevo pasados unos minutos.
 newsletters-youre-awesome = ¡Eres genial!
 newsletters-and-were-not-just-saying = Y no lo decimos solo porque nos hayas confiado tu dirección de correo.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Por favor, asegúrate de añadir nuestra dirección de envío mozilla@email.mozilla.org a tu libreta de direcciones para asegurarte de que siempre lleguemos a tu bandeja de entrada.
 # Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Añade mozilla@e.mozilla.org a tu libreta de direcciones para asegurarte de que siempre lleguemos a tu bandeja de entrada.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } aborda una amplia variedad de temas importantes.
@@ -107,6 +108,7 @@ newsletters-i-didnt-sign-up = No me di de alta en esta suscripción.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Esta dirección de email no está en nuestro sistema. Comprueba tu dirección o <a href="{ $url }">suscríbete a nuestros boletines.</a>
+newsletters-im-keeping-in-touch-v2 = Prefiero seguir en contacto con { -brand-name-mozilla } en { -brand-name-twitter }.
 # Obsolete string
 newsletters-im-keeping-in-touch = Prefiero seguir en contacto con { -brand-name-mozilla } en { -brand-name-facebook } y { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -253,10 +255,14 @@ newsletters-firefox-news = Noticias de { -brand-name-firefox }
 newsletters-get-how-tos = Obtén consejos, instrucciones y noticias que mejorarán tu experiencia con { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Anuncios especiales sobre nuestro festival anual dedicado a forjar el futuro de la web abierta.
 # Obsolete string
 newsletters-special-announcements-about-mozilla = Anuncios especiales sobre el festival anual de { -brand-name-mozilla } con actividades prácticas enfocadas a forjar el futuro de la Web abierta.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Noticias de { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Actualizaciones periódicas para ayudarte a se más consciente de tu vida en línea y a participar activamente en nuestra lucha por un Internet mejor.
 # Obsolete string
 newsletters-regular-updates-to-keep = Actualizaciones periódicas que te mantienen informado y activo en la lucha por un Internet mejor.
 # Name for the newsletter in Newsletter subscription page
