@@ -5,10 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = รับ { -brand-name-firefox } สำหรับองค์กรของคุณด้วย { -brand-name-esr } และ Rapid Release
+firefox-enterprise-get-unmatched-data-protection = ปกป้องข้อมูลชนิดต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับคุณด้วย { -brand-name-firefox } สำหรับองค์กร ดาวน์โหลด { -brand-name-esr } และ Rapid Release
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = ภาพรวม
 firefox-enterprise-downloads = ดาวน์โหลด
 firefox-enterprise-get-firefox-for-your-enterprise = รับ { -brand-name-firefox } สำหรับองค์กรของคุณ
+# Variables:
+#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = รับเบราว์เซอร์<a href="{ $url }">{ -brand-name-firefox-extended-support-release } หรือ Rapid Release</a> สำหรับการรักษาความปลอดภัยของข้อมูลและการปกป้องข้อมูลแบบครอบคลุม
+firefox-enterprise-unmatched-data-protection = ปกป้องข้อมูลชนิดต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับคุณ
 firefox-enterprise-enterprise-downloads = การดาวน์โหลด { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 บิต
 firefox-enterprise-macos = { -brand-name-mac }
