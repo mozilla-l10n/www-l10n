@@ -80,4 +80,5 @@ firefox-developer-congrats-you-now-have-firefox = Zbožopřeće. Maće nětko { 
 firefox-developer-this-isnt-just-an-update = To je nic jenož aktualizacija. { -brand-name-firefox-quantum } to je: Čisće nowy { -brand-name-firefox }, kotryž bu dospołnje nowo wuwity a je nětko spěšniši, elegantniši a mócniši hač hdy prjedy.
 firefox-developer-welcome-to-firefox-browser = Witajće k { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Wobhladowak za wuwiwarjow
+firefox-developer-all-the-latest = Wšě najnowše wuwiwarske nastroje w betawersiji kaž tež <strong>eksperimentelne funkcije</strong> kaž wjacelinkowy konsolowy editor a WebSocket Inspector.
 firefox-developer-congrats-you-now-have = Zbožopřeće. Maće nětko { -brand-name-firefox-browser } { -brand-name-developer-edition }.
