@@ -7,12 +7,15 @@
 
 # HTML page title
 firefox-faq = Husto stajene prašenja { -brand-name-firefox }
+whether-you-searched-privacy = Njedźiwajo na to, hač sće spěšny wobhladowak pytał, kotryž wašu priwatnosć škita, namakaće tu mjez tutymi husto stajenymi prašenjemi wotmołwy na prašenja nastupajo { -brand-name-firefox }.
+whether-you-searched-independant = Njedźiwajo na to, hač sće spěšny wobhladowak pytał abo za njewotwisnej technologiju pytaće, kotryž wašu priwatnosć škita, namakaće tu mjez tutymi husto stajenymi prašenjemi wotmołwy na prašenja nastupajo { -brand-name-firefox }.
 what-is-firefox = Što je { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } je jenički wulki wobhladowak, kotryž so přez powšitkownosći wužitnu organizaciju podpěruje, kotraž wabjerjam waše wosobinske daty njepředawa, a wam pomha, waše wosobinske informacije škitać. Zhońće wjace wo <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">druhich produktach.</a>
 how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 
 # Variables:
@@ -60,7 +63,7 @@ does-firefox-have = Ma { -brand-name-firefox } zatwarjeny VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 related-questions-ip = Podobne prašenja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
