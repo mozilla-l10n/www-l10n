@@ -81,4 +81,5 @@ firefox-developer-this-isnt-just-an-update = To je nic jenož aktualizacija. { -
 firefox-developer-welcome-to-firefox-browser = Witajće k { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Wobhladowak za wuwiwarjow
 firefox-developer-all-the-latest = Wšě najnowše wuwiwarske nastroje w betawersiji kaž tež <strong>eksperimentelne funkcije</strong> kaž wjacelinkowy konsolowy editor a WebSocket Inspector.
+firefox-developer-a-separate-profile = <strong>Separatny profil a separatna šćežka</strong>, tak móžeće jón z kónčnej wersiju abo { -brand-name-beta } { -brand-name-firefox } wuwjesć.
 firefox-developer-congrats-you-now-have = Zbožopřeće. Maće nětko { -brand-name-firefox-browser } { -brand-name-developer-edition }.
