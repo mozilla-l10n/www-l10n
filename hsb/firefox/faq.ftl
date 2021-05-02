@@ -54,6 +54,7 @@ does-firefox-sell = Předawa { -brand-name-firefox } waše wosobinske daty?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Ně. Njeje to ženje činił a njebudźe to ženje činić. A my škitamy waš před wjele wabjerjemi, kotřiž to činja. Produkty { -brand-name-firefox } wašu priwatnosć škitaja. <a href="{ $url }">To je slub.</a>
 why-is-firefox = Čehodla je { -brand-name-firefox } tak pomały?
 is-firefox-chromium = Bazuje { -brand-name-firefox } na { -brand-name-chromium }?
 does-firefox-use = Wužiwa { -brand-name-firefox } { -brand-name-google }?
@@ -61,6 +62,7 @@ does-firefox-use = Wužiwa { -brand-name-firefox } { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } je standardna pytawa w { -brand-name-firefox }, štož rěka, zo móžeće web direktnje z adresoweho pola přepytać. <a href="{ $url }">Zhońće wjace wo nastajenjach pytawy a měnjenju standardnych nastajenjow.
 does-firefox-have = Ma { -brand-name-firefox } zatwarjeny VPN?
 
 # Variables:
