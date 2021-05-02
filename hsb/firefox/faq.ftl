@@ -30,6 +30,7 @@ is-firefox-free = Je { -brand-name-firefox } darmotny?
 yep-the-firefox = Haj! { -brand-name-firefox-browser } je darmotny. Samo wjace hač darmotny. Žane schowane košty abo tak. Njetrjebaće ničo płaćić, zo byšće jón wužiwał a my waše wosobinske daty njepředawamy.
 related-questions-free = Podobne prašenja: Je { -brand-name-firefox-browser } darmotny, płaći { -brand-name-firefox } pjenjezy
 is-chrome-better = Je { -brand-name-chrome } lěpši hač { -brand-name-firefox }?
+no-we-dont = Ně, njemyslimy sej, zo { -brand-name-chrome } je lěpši hač { -brand-name-firefox } a tole je přičina: Hdyž ludźo so prašeja, kotry wobhladowak je lěpši, prašeja so poprawom, kotry wobhladowak je spěšniši a wěsćiši. { -brand-name-firefox } so kóždy měsac aktualizuje, zo byšće zawěsćił, zo maće najspěšniši wobhladowak, kotryž wašu priwatnosć awtomatisce respektuje.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -41,6 +42,7 @@ is-firefox-safe-download = Da so { -brand-name-firefox } wěsće sćahnyć?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Škit wašeje priwatnosće ma najwyšu prioritu za nas, a zawěsćamy, zo instalowanje { -brand-name-firefox } na wašich gratach je cyle wěste – ale zawěsćće přeco, zo z dowěryhódneho sydła { -brand-name-mozilla }/{ -brand-name-firefox } sćahujeće, kaž na přikład <a href="{ $url }">z našeje sćehnjenskeje strony</a>.
 is-firefox-safe = Je { -brand-name-firefox } wěsty?
 
 # Variables:
