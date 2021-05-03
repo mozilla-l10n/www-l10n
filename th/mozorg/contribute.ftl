@@ -44,6 +44,7 @@ contribute-newsletter-sub-heading = รับข่าวสารจากช�
 ## Support
 
 contribute-support-heading = รับความช่วยเหลือ
+contribute-mozilla-support = สนับสนุน { -brand-name-mozilla }
 
 ## Web compat
 
