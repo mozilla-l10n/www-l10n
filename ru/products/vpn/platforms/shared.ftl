@@ -33,3 +33,11 @@ vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Для компьютера
 vpn-subnav-platform-ios = { -brand-name-ios }
 vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Для мобильного
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = О нашем надёжном партнере
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-platforms-shared-trust-partner = { -brand-name-mozilla-vpn } работает в глобальной сети серверов на базе <a href="{ $policy }">{ -brand-name-mullvad }</a>, использующих протокол <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } ставит вашу приватность на первое место и не сохраняет вашу активность в каком-либо виде.
