@@ -24,6 +24,7 @@ newsletters-newsletter-confirm = Konfirmasi buletin
 
 newsletters-thanks-for-subscribing = Terima kasih telah Berlangganan!
 newsletters-your-newsletter-subscription = Langganan buletin Anda telah dikonfirmasi.
+newsletters-please-be-sure-to-add-our-v2 = Jangan lupa menambahkan alamat: mozilla@email.mozilla.org ke buku alamat agar pesan kami dapat mencapai kotak masuk Anda.
 
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Harap pastikan untuk menambahkan alamat pengiriman kami: mozilla@e.mozilla.org ke buku alamat untuk memastikan pesan kami dapat mencapai kotak masuk Anda.
@@ -31,6 +32,7 @@ newsletters-the-supplied-link-has-expired = Tautan yang diberikan telah kedaluwa
 newsletters-something-is-amiss-with = Ada yang salah di sistem kami, maaf! Silakan coba lagi nanti.
 newsletters-youre-awesome = Anda luar biasa!
 newsletters-and-were-not-just-saying = Dan kami tidak mengatakan itu hanya karena Anda memercayai kami dengan alamat email Anda.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Jangan lupa menambahkan mozilla@email.mozilla.org ke buku alamat agar pesan kami dapat mencapai kotak masuk Anda.
 
 # Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Harap pastikan untuk menambahkan mozilla@e.mozilla.org ke buku alamat untuk memastikan pesan kami dapat mencapai kotak masuk Anda.
@@ -137,6 +139,7 @@ newsletters-i-didnt-sign-up = Saya tidak mendaftar untuk ini.
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Alamat email ini tidak ada di sistem kami. Silakan periksa kembali alamat Anda atau <a href="{ $url }">berlangganan ke buletin kami.</a>
 
+newsletters-im-keeping-in-touch-v2 = Namun, saya tetap berhubungan dengan { -brand-name-mozilla } di { -brand-name-twitter }.
 
 # Obsolete string
 newsletters-im-keeping-in-touch = Saya tetap terhubung dengan { -brand-name-mozilla } di { -brand-name-facebook } dan { -brand-name-twitter }.
@@ -352,6 +355,8 @@ newsletters-get-how-tos = Dapatkan petunjuk, saran, dan berita untuk pengalaman 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Pengumuman khusus mengenai festival tahunan yang didedikasikan untuk menentukan masa depan web terbuka.
 
 # Obsolete string
 newsletters-special-announcements-about-mozilla = Pengumuman khusus mengenai acara { -brand-name-mozilla } tahunan, festival terbuka yang didedikasikan untuk menempa masa depan Web terbuka.
@@ -359,6 +364,8 @@ newsletters-special-announcements-about-mozilla = Pengumuman khusus mengenai aca
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Berita { -brand-name-mozilla }
 
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Pembaruan rutin agar Anda lebih memahami kehidupan daring dan ikut berjuang bersama kami demi internet yang lebih baik.
 
 # Obsolete string
 newsletters-regular-updates-to-keep = Pembaruan rutin untuk terus memberi Anda informasi dan aktif dalam perjuangan kami demi internet yang lebih baik.
