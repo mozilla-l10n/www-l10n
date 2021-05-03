@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } и { -brand-nam
 sub-navigation-desktop-nightly = { -brand-name-nightly } для компьютера
 sub-navigation-features = Возможности
 sub-navigation-support = Поддержка
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Дополнения
+sub-navigation-add-ons = Дополнения
 sub-navigation-faq = ЧЗВ
 sub-navigation-learn-more = Подробнее
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } для мобильных устройств
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Дополнения для { -brand-name-android }
+sub-navigation-android-add-ons = Дополнения для { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
