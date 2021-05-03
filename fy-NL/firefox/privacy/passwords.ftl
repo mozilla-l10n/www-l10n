@@ -23,6 +23,7 @@ privacy-passwords-use-twofactor-authentication = Brûk wêr mooglik ‘twafaktor
 privacy-passwords-its-hard-out = It is dreech foar in wachtwurd
 privacy-passwords-guessing-it = Riede
 privacy-passwords-stealing-a-file = In bestân stelle wêryn jo wachtwurd sit
+privacy-passwords-strength-in-diversity = Krêft yn ferskaat
 privacy-passwords-get-help-from = Krij help fan in wachtwurdbehearder
 privacy-passwords-twofactor-authentication-2fa = Twafaktorautentikaasje (2FA)
 privacy-passwords-strong-diverse-and = Sterk, ferskaat, en multifaktor
