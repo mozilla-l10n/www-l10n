@@ -11,6 +11,7 @@
 vpn-mac-page-title = { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
 # Mac strings
 vpn-mac-hero-headline = Защитите своё подключение к Интернету с помощью { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
+vpn-mac-about-headline = От проверенного создателя технологий
 vpn-mac-privacy-headline = Приватность на кончиках ваших пальцев
 vpn-mac-servers-headline = Подключайтесь к серверам по всему миру
 # Variables:
