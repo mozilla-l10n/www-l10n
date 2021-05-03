@@ -15,5 +15,6 @@ features-fingerprinting-ditch-the-sticky = Fuort mei de plakkerige advertinsjes 
 features-fingerprinting-every-fingerprint = Elke fingerôfdruk is unyk.
 features-fingerprinting-download-firefox = { -brand-name-firefox } downloade
 features-fingerprinting-what-is-fingerprinting-body = Wat is fingerprinting?
+features-fingerprinting-fingerprinting-is-a = Fingerprinting is in soarte fan online folgjen dy't ynvasiver is as it gewoane op cookies basearre folgjen. In digitale fingerôfdruk wurdt makke as in bedriuw in unyk profyl fan jo makket, op basis fan jo kompjûterhardware, software, add-ons en sels foarkarren. Jo ynstellingen, lykas it skerm dat jo brûke, de op jo kompjûter ynstallearre lettertypen en sels de webbrowser fan jo foarkar, kinne allegearre brûkt wurde om in fingerôfdruk te meitsjen.
 features-fingerprinting-fingerprinting-is-bad = Fingerprinting is min foar it ynternet
 features-fingerprinting-protect = Beskermje jo privacy

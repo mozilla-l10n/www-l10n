@@ -80,4 +80,7 @@ firefox-developer-congrats-you-now-have-firefox = Lokwinske. Jo beskikke no oer 
 firefox-developer-this-isnt-just-an-update = Dit is net samar in fernijing. Dit is { -brand-name-firefox-quantum }: in hagelnije { -brand-name-firefox } dy't folslein opnij opboud is om flugger, slanker en krêftiger te wêzen as ea.
 firefox-developer-welcome-to-firefox-browser = Wolkom by { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = De browser makke foar ûntwikkelers
+firefox-developer-all-the-latest = Alle nijste ûntwikkelersark yn beta, plus <strong>eksperimintele funksjes</strong> lykas de Multi-line Console Editor en WebSocket Inspector.
+firefox-developer-a-separate-profile = In <strong>apart profyl en paad</strong>, sadat jo it maklik neist { -brand-name-firefox } Release of { -brand-name-beta } brûke kinne.
+firefox-developer-preferences-tailored = Foarkarren dy't <strong>op maat makke binne foar webûntwikkelers</strong>: flateropspoaring yn de browser en op ôfstân debugge binne standert ynskeakele, krekt as it donkere tema en de knop foar de ûntwikkelersarkbalke.
 firefox-developer-congrats-you-now-have = Lokwinske. Jo beskikke no oer { -brand-name-firefox-browser } { -brand-name-developer-edition }.
