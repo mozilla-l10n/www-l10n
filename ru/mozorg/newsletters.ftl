@@ -19,12 +19,16 @@ newsletters-subscribe-to-updates-and-keep = Подпишитесь на обно
 newsletters-newsletter-confirm = Подтверждение новостной рассылки
 newsletters-thanks-for-subscribing = Спасибо за подписку!
 newsletters-your-newsletter-subscription = Подписка на новостную рассылку подтверждена.
-newsletters-please-be-sure-to-add-our = Не забудьте добавить наш адрес: mozilla@e.mozilla.org в адресную книгу, чтобы почта всегда доходила до вас.
+newsletters-please-be-sure-to-add-our-v2 = Не забудьте добавить наш адрес: mozilla@email.mozilla.org в свою адресную книгу, чтобы почта всегда доходила до вас.
+# Obsolete string
+newsletters-please-be-sure-to-add-our = Не забудьте добавить наш адрес: mozilla@e.mozilla.org в свою адресную книгу, чтобы почта всегда доходила до вас.
 newsletters-the-supplied-link-has-expired = Время действия ссылки истекло. Вы получите новую ссылку в следующем письме.
 newsletters-something-is-amiss-with = Извините, в нашей системе что-то пошло не так! Пожалуйста, повторите попытку позже.
 newsletters-youre-awesome = Вы удивительны!
 newsletters-and-were-not-just-saying = И мы говорим это не только потому, что вы доверили нам адрес электронной почты.
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Убедитесь, что вы добавили адрес mozilla@e.mozilla.org в вашу адресную книгу, чтобы мы всегда могли с вами связаться.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Не забудьте добавить наш адрес mozilla@email.mozilla.org в свою адресную книгу, чтобы почта всегда доходила до вас.
+# Obsolete string
+newsletters-please-be-sure-to-add-mozillaemozillaorg = Не забудьте добавить наш адрес mozilla@e.mozilla.org в свою адресную книгу, чтобы почта всегда доходила до вас.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } занимается множеством важным проблем.
 newsletters-open-your-inbox-and-your = Откройте папку «Входящиe» (и своё сердце) — посмотрите на вопросы, которыми мы занимаемся.
 newsletters-manage-your-email-preferences = Управление настройками электронной почты
@@ -104,7 +108,9 @@ newsletters-i-didnt-sign-up = Я на это не подписывался(ла�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = В базе данных нет этого адреса. Пожалуйста, проверьте свой адрес или <a href="{ $url }">подпишитесь на наши рассылки.</a>
-newsletters-im-keeping-in-touch = Я на связи с { -brand-name-mozilla } через { -brand-name-facebook } и { -brand-name-twitter }.
+newsletters-im-keeping-in-touch-v2 = Я буду на связи с { -brand-name-mozilla } через { -brand-name-twitter }.
+# Obsolete string
+newsletters-im-keeping-in-touch = Я буду на связи с { -brand-name-mozilla } через { -brand-name-facebook } и { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Подпишитесь, читайте,<br> будьте в курсе.
 # Obsolete string
@@ -250,10 +256,14 @@ newsletters-get-how-tos = Получайте руководства, новос�
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Особый анонс нашего ежегодного фестиваля, посвящённого формированию будущего открытого Интернета.
+# Obsolete string
 newsletters-special-announcements-about-mozilla = Анонс ежегодного интерактивного фестиваля { -brand-name-mozilla }, который посвящен формированию будущего открытого Интернета.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Новости { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Регулярные обновления помогут вам знать больше о своей жизни в Интернете и не прекращать борьбу за лучший Интернет.
+# Obsolete string
 newsletters-regular-updates-to-keep = Регулярные обновления помогут вам быть в курсе и не прекращать борьбу за лучший Интернет.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }

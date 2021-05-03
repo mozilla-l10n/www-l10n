@@ -10,7 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Защитите всё с
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Используйте { -brand-name-mozilla-vpn } для полной защиты устройства и всех приложений. Благодаря серверам в более чем в { $countries } странах вы можете подключаться к Интернету из любого места и к любому месту.
+vpn-landing-page-desc = Используйте { -brand-name-mozilla-vpn } для полной защиты устройства и всех приложений. Благодаря серверам более чем в { $countries } странах вы можете подключаться к любой точке Интернета из любого места.
 vpn-landing-hero-sub-heading-v2 = Безопасность, надёжность и скорость — на любом устройстве, куда бы вы не отправились.
 # Obsolete string
 vpn-landing-hero-sub-heading = Безопасность, на которую можно положиться. Имя, которому можно доверять.
@@ -67,9 +67,17 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (только 64-битная версия)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 и выше)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 и выше)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 и выше)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (версия 8 и выше)
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (версия 6 и выше)
@@ -77,9 +85,17 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (версия 6 и выше)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 и выше)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 и выше)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 и выше)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 и выше)
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (только { -brand-name-ubuntu })
