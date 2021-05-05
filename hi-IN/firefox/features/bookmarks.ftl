@@ -2,30 +2,42 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: बेहतर बुकमार्क जहां भी आप जाएं
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: जहाँ भी हों, बेहतर बुकमार्क सुविधा पाएँ
+
 # HTML page description
-features-bookmarks-easily-organize-your-bookmarks = आसानी से अपने पुस्तचिह्न को फोल्डर में संगठित करें और अपने सभी युक्तियों पर उन्हें ऐक्सेस करें, डेस्कटॉप से मोबाइल तक.
-features-bookmarks-better-bookmarks = बेहतर पुस्तचिह्न
-features-bookmarks-dont-agonize-lovers-of = चिंतित ना होयें, पुस्तचिह्न के चाहने वालों. { -brand-name-firefox } के साथ संगठित करें.
+features-bookmarks-easily-organize-your-bookmarks = अपने बुकमार्क को फ़ोल्डर में रखकर आसानी से व्यवस्थित करें और डेस्कटॉप से लेकर मोबाइल तक, अपने सभी डिवाइसों में उन्हें एक्सेस करें।
+features-bookmarks-better-bookmarks = बेहतर बुकमार्क
+features-bookmarks-dont-agonize-lovers-of = बुकमार्क करना पसंद है, तो बिल्कुल परेशान न हों। { -brand-name-firefox } के साथ इन्हें सुव्यवस्थित करें।
+
 # File means to save (that bookmark).
-features-bookmarks-file-that-bookmark = फ़ाइल को पुस्तचिह्न करें
+features-bookmarks-file-that-bookmark = बुकमार्क सेव करें
+
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = पुस्तचिह्न के तारेदार आइकॉन के साथ अपने सभी पसंदीदा चीजों को क्रमबद्ध पायें, जो आपको तुरंत मनपसंद नामों और फोल्डरों को जोड़ने देता है. फिर अपने बुकमार्क टूलबार में डायल करें यह सुनिश्चित करने के लिए कि आप कभी भी अपने पसंदीदा लिंक को नहीं खो देते हैं.
+features-bookmarks-get-your-faves-all-sorted = बुकमार्क स्टार वाले आइकन से अपनी पसंदीदा वेबसाइटें व्यवस्थित रखें। इसमें आप खुद नाम रख सकते हैं और तुरंत फ़ोल्डर बना सकते हैं। फिर बुकमार्क वाले अपने टूलबार को सेट करें ताकि आपके पसंदीदा लिंक हमेशा आपके सामने रहें।
+
 # Fly here means to have your bookmark go wherever you go.
-features-bookmarks-fly-with-that-bookmark = पुस्तचिह्न के साथ उड़ान भरें
+features-bookmarks-fly-with-that-bookmark = बुकमार्क पाएँ जहाँ कहीं जाएँ
+
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = अपने पसंद किये हुए को उड़ान पर ले जाएँ. Firefox सिंक का उपयोग करें अपने सभी उपकरणों पर पुस्तचिन्हों को एक्सेस करने के लिये, डेस्कटॉप से लेकर मोबाइल तक. अथवा जाँचें <a href="{ $url }">{ -brand-name-pocket }</a> किसी भी ऑनलाइन लेख, या पृष्ठ को सहेजने के लिये और फिर पुनः पीछे वापस आ जाएँ – यहाँ तक कि बिना इंटरनेट के.
+features-bookmarks-take-your-favorites-on = कहीं भी आते-जाते अपने पसंदीदा अपने साथ बनाए रखें। { -brand-name-firefox-sync } के ज़रिए, डेस्कटॉप से लेकर मोबाइल तक, अपने सभी डिवाइसों में अपने बुकमार्क एक्सेस करें। या फिर <a href="{ $url }">{ -brand-name-pocket }</a> इस्तेमाल करके कोई ऑनलाइन लेख या पेज सेव करें और इंटरनेट के बगैर भी उसे बाद में आकर पढ़ें।
+
+features-bookmarks-customize-that-bookmark = बुकमार्क को अपने अनुरूप करें
+
 # Obsolete string
 # Futz with means to spend a lot of time on something.
-features-bookmarks-futz-with-that-bookmark = पुस्तचिह्न के साथ उड़ान भरें
+features-bookmarks-futz-with-that-bookmark = बुकमार्क से बहुत कुछ करें
+
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = किसी भी बुकमार्क मैनेजर <a href="{ $url }">ऐड-ऑन</a> की मदद से चीज़ें अपने हिसाब से सटीक ढंग से रखें - पूरे पेज वाली तस्वीरों, तुरंत स्विच होने वाले साइड बार से लेकर प्राइवेट बुकमार्क तक, सभी चीज़ें।
+
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = पूरे पेज के स्नैपशॉट और त्वरित-स्विच साइडबार से लेकर, कड़ी सुरक्षा वाले निजी बुकमार्क तक, जैसी भी बुकमार्क प्रबंधक <a href="{ $url }">ऐड-ऑन</a> की आप कल्पना करते हैं, उन सभी के उपयोग द्वारा अपनी सटीकता का अभ्यास करें.
+features-bookmarks-practice-your-exactitude = किसी भी बुकमार्क मैनेजर <a href="{ $url }">ऐड-ऑन</a> की मदद से चीज़ें अपने हिसाब से रखें - पूरे पेज वाली तस्वीरों, तुरंत स्विच होने वाले साइड बार से लेकर प्राइवेट बुकमार्क तक, सभी चीज़ें।
