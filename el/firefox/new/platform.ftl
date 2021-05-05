@@ -48,7 +48,7 @@ new-platform-faster-page-loading-mac = Ταχύτερη φόρτωση σελί�
 # /firefox/mac/ main page title. Span is for visually formatting.
 new-platform-firefox-respects-your = Το { -brand-name-firefox } σέβεται <span>το απόρρητό σας σε { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = Το απόρρητο πάντα σε πρώτη μοίρα
-new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις. Σταματάμε τα cookies καταγραφής τρίτων και σάς δίνουμε τον πλήρη έλεγχο.
+new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις. Σταματάμε τα cookies καταγραφής τρίτων και σας δίνουμε τον πλήρη έλεγχο.
 new-platform-get-speed-and-security = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο σε { -brand-name-mac-short }, επειδή δεν παρακολουθεί τις κινήσεις σας.
 new-platform-block-trackers = Φραγή ιχνηλατών
 new-platform-be-the-master-of-your = Γίνετε ο άρχοντας του τομέα σας με αυστηρή φραγή περιεχομένου. Αποκλείστε όλα τα cookies και τους ιχνηλάτες.
@@ -64,7 +64,7 @@ new-platform-faster-page-loading-windows = Ταχύτερη φόρτωση σε�
 new-platform-firefox-fights = Το { -brand-name-firefox } μάχεται για εσάς <span>στα { -brand-name-windows }.</span>
 new-platform-firefox-moves-fast = Το { -brand-name-firefox } κινείται γρήγορα και χειρίζεται προσεκτικά τα δεδομένα σας - χωρίς παρακολούθηση διαφημίσεων και χωρίς επιβράδυνση.
 new-platform-common-sense-privacy = Απόρρητο κοινής λογικής
-new-platform-live-your-life = Ζήστε τη ζωή σας, το { -brand-name-firefox } δεν σάς παρακολουθεί. Επιλέξτε τι και πότε κοινοποιείτε κάτι.
+new-platform-live-your-life = Ζήστε τη ζωή σας, το { -brand-name-firefox } δεν σας παρακολουθεί. Επιλέξτε τι και πότε κοινοποιείτε κάτι.
 new-platform-seamless-setup = Απροβλημάτιστη εγκατάσταση
 new-platform-easy-migration = Εύκολη μεταφορά προτιμήσεων και σελιδοδεικτών όταν κάνετε λήψη του { -brand-name-firefox } για { -brand-name-windows }.
 # span is for visual formatting and line break

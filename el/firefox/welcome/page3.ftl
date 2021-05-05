@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page3-get-the-free-account-that = Αποκτήστε ένα δωρεάν λογαριασμό που προστατεύει το απόρρητό σας. Συνδεθείτε στο { -brand-name-firefox }.
-welcome-page3-no-account-required-but-you = Δεν απαιτείται λογαριασμός. Αλλά ίσως σάς χρειαστεί.
+welcome-page3-no-account-required-but-you = Δεν απαιτείται λογαριασμός. Αλλά ίσως σας χρειαστεί.
 welcome-page3-the-firefox-browser-collects = Το { -brand-name-firefox } συλλέγει τόσο λίγα δεδομένα για εσάς, που δεν απαιτείται καν το email σας. Αλλά όταν το χρησιμοποιείτε για τη δημιουργία ενός { -brand-name-firefox-account(case: "gen", capitalization: "lower") }, μπορούμε να προστατεύσουμε το απόρρητό σας στο διαδίκτυο.
 welcome-page3-sign-in = Σύνδεση
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
