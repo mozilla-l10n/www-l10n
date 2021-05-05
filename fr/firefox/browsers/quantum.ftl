@@ -11,3 +11,8 @@ the-latest-firefox = Le dernier moteur { -brand-name-firefox } : { -brand-name-
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = En savoir plus sur { -brand-name-firefox-quantum }
 privacy-first = La confidentialité avant tout
+super-fast = Ultra rapide
+always-evolving = Évolue constamment
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Découvrez toutes les incroyables <a href="{ $url }">fonctionnalités de { -brand-name-firefox }</a>.
