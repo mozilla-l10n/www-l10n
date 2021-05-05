@@ -2,31 +2,47 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox ब्राउज़र: तेज, आसान पासवर्ड प्रबंधक
+password-manager-firefox-browser = { -brand-name-firefox-browser }: तेज़ और उपयोग में आसान पासवर्ड मैनेजर
+
 # HTML page description
-password-manager-firefox-password = { -brand-name-firefox } पासवर्ड प्रबंधक आपके सभी पासवर्डों को एक ही स्थान पर सहेजता है ताकि आप अपने आप साइट पर लॉग इन कर सकें, या सहेजे गए पासवर्डों को पुनः प्राप्त कर सकें.
+password-manager-firefox-password = { -brand-name-firefox } पासवर्ड मैनेजर आपके सभी पासवर्ड एक जगह पर सेव करके रखता है, ताकि आप साइटों पर अपने आप लॉग इन कर सकें या सेव किए गए पासवर्ड को फिर से हासिल कर सकें।
+
 # Hero title
-password-manager-password-manager = पासवर्ड प्रबंधक की उपलब्धि अनलॉक किया
-password-manager-give-up-the-memory = { -brand-name-firefox } पासवर्ड प्रबंधक के साथ मेमोरी गेम को छोड़ दें.
-password-manager-password-hero = पासवर्ड नायक
+password-manager-password-manager = पासवर्ड मैनेजर की उपलब्धि अनलॉक हुई
+password-manager-give-up-the-memory = { -brand-name-firefox } के पासवर्ड मैनेजर के साथ मेमोरी को बेहतर प्रबंधित करें।
+password-manager-password-hero = पासवर्ड हीरो
+
+# Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = रीसेट करना ज़रूरी नहीं। { -brand-name-firefox } पासवर्ड मैनेजर आपके सभी पासवर्ड सेव करके रखता है, ताकि आप अपने-आप लॉग इन कर सकें या सेव किए गए पासवर्ड आसानी से ढूँढ सकें। दमदार सुरक्षा के लए, अपने कंप्यूटर का एक <a href="{ $url }">प्रमुख पासवर्ड</a> रखें।
+
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
-password-manager-forget-the-reset = रीसेट को भूल जाएँ. { -brand-name-firefox } पासवर्ड प्रबंधक आपके सभी पासवर्डों को रखता है ताकि आप अपने आप लॉग इन कर सकें, या सहेजे गए पासवर्डों को आसानी से पा सकें. सुपर सुरक्षा के लिए, अपने कंप्यूटर को एक <a href="{ $url }">मास्टर पासवर्ड</a>दें.
-password-manager-password-magician = पासवर्ड जादूगर
+password-manager-forget-the-reset = रीसेट करना ज़रूरी नहीं। { -brand-name-firefox } पासवर्ड मैनेजर आपके सभी पासवर्ड सेव करके रखता है, ताकि आप अपने-आप लॉग इन कर सकें या सेव किए गए पासवर्ड आसानी से ढूँढ सकें। दमदार सुरक्षा के लिए, अपने कंप्यूटर का एक <a href="{ $url }">मास्टर पासवर्ड</a> रखें।
+
+password-manager-password-magician = पासवर्ड मैजिक
+
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = पासवर्ड निंजा
-password-manager-no-more-try-again = जब आप कहीं न कहीं पाने की कोशिश कर रहे हैं, तब "पुनः प्रयास करें" और नहीं. अपने फोन पर अपने Firefox खाते में लॉग इन करें, और आपके पासवर्ड आपके साथ आते हैं. आपका लॉगिन विवरण बस वैसे ही प्रकट होगा.
+
+password-manager-no-more-try-again = किसी साइट पर जाते समय “फिर से कोशिश करें” का झंझट अब और नहीं। अपने फ़ोन से { -brand-name-firefox-account } में लॉग इन करें और आपके पासवर्ड अपने-आप उसमें पहुँच जाएँगे। आपकी लॉग इन जानकारी उसमें दिखाई देने लगेगी, कुछ ज़्यादा किए बगैर।
 password-manager-password-champion = पासवर्ड चैंपियन
+
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = { -brand-name-firefox } में पासवर्ड मैनेजर वाले <a href="{ $addons }">ऐड-ऑन</a> की एक बड़ी रेंज के साथ, अपना सुरक्षा गोल्ड मेडल पाएँ। अपना पसंदीदा ऐड-ऑन चुनें या कम्युनिटी रेटिंग और रिव्यू देखकर कोई दूसरा बेहतर ऐड-ऑन पाएँ।
+
 # Obsolete string
-# A way of saying this password manager is really good at what is does master here = mastery of subject
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = पासवर्ड मास्टर
+
 # Obsolete string
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = { -brand-name-firefox } के पासवर्ड प्रबंधक <a href="{ $addons }">एड-ऑन</a> के विशाल सरणी के साथ अपनी दूसरी सुरक्षा ब्लैक बेल्ट प्राप्त करें. किसी वर्तमान पसंद को चुनें, या विशेषज्ञ सामुदायिक रेटिंग और समीक्षाओं के माध्यम से अगले स्तर के पासवर्ड प्रबंधक को ढूँढ निकालें.
+password-manager-earn-your-second = { -brand-name-firefox } में पासवर्ड मैनेजर वाले ढेरों <a href="{ $addons }">ऐड-ऑन</a> के ज़रिए अपनी सुरक्षा में एक और परत जोड़ें। अपना पसंदीदा ऐड-ऑन चुनें या कम्युनिटी रेटिंग और रिव्यू देखकर कोई दूसरा बेहतर ऐड-ऑन पाएँ।
