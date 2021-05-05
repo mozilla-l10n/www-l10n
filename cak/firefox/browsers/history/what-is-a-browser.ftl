@@ -12,4 +12,5 @@ what-is-a-browser-a-web-browser = Jun ajk'amaya'l okik'amaya'l yaruk'waj pa xab'
 what-is-a-browser-how-does-a-web = ¿Achike rub'anikil nisamäj jun ajk'amaya'l okik'amaya'l?
 what-is-a-browser-cookies-not-the = Cookies ( ri man e tijel ta)
 what-is-a-browser-understanding = Retamaxik ichinanem
+what-is-a-browser-firefox-helps = { -brand-name-firefox } yaruto' richin nik'oje' awichinanem pa k'amab'ey, akuchi' yatikïr ye'aq'ät ri ojqanela' richin man yatkojqaj ta pan ajk'amaya'l.
 what-is-a-browser-making-your-web = Nib'an chi ri awokik'amaya'l tisamäj chawäch
