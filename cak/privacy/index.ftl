@@ -29,4 +29,13 @@ privacy-index-to-review-and-comment-on-proposed = Richin yenik'öx chuqa' nitzij
 privacy-index-read-more-about-our-ongoing = Tasik'ij ch'aqa' chik chi rij ri qichinanem chuqa' qajikomal pa <a href="{ $blog }">{ -brand-name-mozilla } Jaqäl Na'ojil chuqa' To'ïk Ichinya'l</a>.
 privacy-index-outdated-policies = Ojer taq Na'ojil
 privacy-index-mozilla-websites-communications = Rajk'amaya'l, Rutzijob'al & Rucookies { -brand-name-mozilla }
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } richin { -brand-name-fire-tv }
