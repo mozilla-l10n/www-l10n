@@ -54,16 +54,51 @@ vpn-landing-faq-competition-question-heading = რითი გამოირ�
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა აღირიცხოს ან გაიყიდოს თქვენი მონაცემები. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
 vpn-landing-faq-compatibility-question-heading = რომელ მოწყობილობებთანაა { -brand-name-mozilla-vpn } თავსებადი?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა და <a href="{ $desktop }">კომპიუტერთან</a> სისტემებზე:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } თავსებადი სისტემებია:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-ბიტიანი მხოლოდ)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-ბიტიანი მხოლოდ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 და ზემოთ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 და ზემოთ)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 და ზემოთ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (ვერსია 8 და ზემოთ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (ვერსია 6 და ზემოთ)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (მე-6 ვერსიიდან)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 და ზემოთ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 და ზემოთ)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 და ზემოთ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 და ზემოთ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (მხოლოდ { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-მხოლოდ)
 vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
