@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = Mobil cihazlar (akıllı telefonlar ve tabletler) için { -brand-name-mozilla-vpn }
 # Mobile strings
 vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } ile mobil cihazlarda gizliliğinizi koruyun
 vpn-mobile-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın

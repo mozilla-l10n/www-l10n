@@ -14,3 +14,4 @@ vpn-mac-hero-headline = { -brand-name-mac-short } için { -brand-name-mozilla-vp
 vpn-mac-about-headline = Güvenilir bir teknoloji üreticisinden
 vpn-mac-privacy-headline = Gizlilik parmaklarınızın ucunda
 vpn-mac-servers-headline = Dünyanın her yerindeki sunuculara erişin
+vpn-mac-speed-headline = Hızdan ödün vermeyin

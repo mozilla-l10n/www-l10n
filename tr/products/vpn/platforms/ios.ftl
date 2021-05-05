@@ -9,6 +9,7 @@
 vpn-ios-page-title = { -brand-name-ios } ({ -brand-name-iphone } ve { -brand-name-ipad }) için { -brand-name-mozilla-vpn }
 # Mobile strings
 vpn-ios-hero-headline = { -brand-name-ios } için { -brand-name-mozilla-vpn } ile internette kendinizi koruyun
+vpn-ios-about-headline = Bize neden güvenmelisiniz?
 vpn-ios-privacy-headline = Tek tıkla bağlantı
 # Variables:
 #   $servers (number) - number of available servers
