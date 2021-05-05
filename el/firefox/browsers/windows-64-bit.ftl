@@ -19,7 +19,7 @@ windows-64-bit-whats-the-difference = Ποια είναι η διαφορά με
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
-windows-64-bit-heres-the-key-thing = Κάτι που πρέπει να γνωρίζετε: οι εφαρμογές 64-bit έχουν πρόσβαση σε περισσότερη μνήμη και είναι λιγότερο πιθανό να καταρρεύσουν σε σχέση με τις εφαρμογές 32-bit. Επίσης, με τη μετάβαση από τα 32 στα 64 bit, λειτουργεί καλύτερα η λειτουργία ασφαλείας <a href="{ $ASLR }">Τυχαιοποίηση διαμόρφωσης χώρου διευθύνσεων (ASLR)</a>, που σάς προστατεύει από κακόβουλους τρίτους. Οι χρήστες { -brand-name-linux } και { -brand-name-mac } δεν χρειάζεται να ανησυχούν, καθώς απολαμβάνουν ήδη μια βελτιστοποιημένη έκδοση του { -brand-name-firefox } για 64-bit.
+windows-64-bit-heres-the-key-thing = Κάτι που πρέπει να γνωρίζετε: οι εφαρμογές 64-bit έχουν πρόσβαση σε περισσότερη μνήμη και είναι λιγότερο πιθανό να καταρρεύσουν σε σχέση με τις εφαρμογές 32-bit. Επίσης, με τη μετάβαση από τα 32 στα 64 bit, λειτουργεί καλύτερα η λειτουργία ασφαλείας <a href="{ $ASLR }">Τυχαιοποίηση διαμόρφωσης χώρου διευθύνσεων (ASLR)</a>, που σας προστατεύει από κακόβουλους τρίτους. Οι χρήστες { -brand-name-linux } και { -brand-name-mac } δεν χρειάζεται να ανησυχούν, καθώς απολαμβάνουν ήδη μια βελτιστοποιημένη έκδοση του { -brand-name-firefox } για 64-bit.
 windows-64-bit-how-do-you-get-64 = Πώς θα αποκτήσετε το { -brand-name-firefox } 64-bit;
 # Variables:
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system
