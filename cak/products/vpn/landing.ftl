@@ -12,6 +12,7 @@ vpn-landing-faq-heading = Junelïk taq k'utunïk
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-required-label = Ajowan
 
 ##
 
