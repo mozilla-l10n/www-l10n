@@ -2,20 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 # HTML page title
-features-fast-get-more-done-browse-faster = अधिक कार्य सम्पन पायें.ब्राउज़ करैं अधिक टैब्स के साथ तेजी से और आसानी से.
+features-fast-get-more-done-browse-faster = और ज़्यादा काम करें। कई टैब के साथ और तेज़ ब्राउजिंग करें
+
 # HTML description
-features-fast-our-new-powerful-multi-process = हमारा नया, शक्तिशाली बहु-प्रक्रिया प्लेटफॉर्म आपके कंप्यूटर को धीमा किए बिना आपके सभी टैब को संभालता है.
-features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } अब अधिक तेज और लाभप्रद है
-features-fast-weve-been-working-out-so-you = हम काम कर रहे हैं, ताकि आप को अधिक किया हुआ मिले.
-features-fast-use-less-memory = कम मेमोरी का उप्योग करैं
+features-fast-our-new-powerful-multi-process = हमारा नया, दमदार मल्टी-प्रोसेस प्लेटफ़ॉर्म कंप्यूटर की स्पीड कम किए बिना आपकी सभी टैब को अच्छी तरह संभालता है।
+
+features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } अब पहले से ज़्यादा तेज़ और लाइटवेट है
+features-fast-weve-been-working-out-so-you = हमने काफ़ी मेहनत करके गैर-ज़रूरी चीज़ें हटाई हैं, ताकि आप और ज़्यादा काम कर पाएँ।
+features-fast-use-less-memory = कम मेमोरी इस्तेमाल करें
+
 # A "computer hog" here means software that consumes a lot of memory and resources
-features-fast-no-one-likes-a-computer-hog = कोई भी कंप्यूटर पर कब्ज़ा जमाने वाले को पसंद नहीं करता है! { -brand-name-firefox } एक लाभप्रद, चुस्त (वास्तव में हम बहुत अच्छे हैं) ब्राउज़िंग मशीन है. चूंकि हम { -brand-name-chrome } की तुलना में कम RAM का उपयोग करते हैं, इसलिए आपके अन्य प्रोग्राम शीर्ष गति पर चलते रहेंगे.
-features-fast-get-all-the-tabs-without-lags = विलंभ के बिना सभी टैब प्राप्त करें
-features-fast-multi-tasking-with-multiple = एकाधिक टैब के साथ मल्टी-टास्किंग अब हो गया आसान. { -brand-name-firefox } अब एक मल्टी-प्रोसेस ब्राउज़र है, जिसका अर्थ है कि आपके टैब ताजा रहते हैं और उन्हें रीलोड करने में देर नहीं होती. 86% कम रुकने के समय के साथ, टैब से टैब के बीच में तेजी से स्विच करें चाहे आप साथ साथ और ज्यादा खोलते हैं.
-features-fast-level-up-browser-gameplay = ब्राउज़र गेमप्ले का स्तर बढ़ाएँ
+features-fast-no-one-likes-a-computer-hog = भारी-भरकम सॉफ़्टवेयर किसी को पसंद नहीं! { -brand-name-firefox } एक हल्की और दमदार ब्राउज़िंग मशीन है। हम { -brand-name-chrome } के मुकाबले कम RAM इस्तेमाल करते हैं, इसलिए आपके दूसरे प्रोग्राम अपनी फ़ुल स्पीड पर चल सकते हैं।
+features-fast-get-all-the-tabs-without-lags = कहीं भी अटके बिना सभी टैब खोलें
+features-fast-multi-tasking-with-multiple = कई टैब के ज़रिए अब एक साथ कई काम करना और आसान हो गया है। { -brand-name-firefox } अब एक मल्टी-प्रोसेस ब्राउज़र है। यानी आपकी टैब्स हमेशा फ्रेश बनी रहती हैं और रीलोड करने में बहुत समय नहीं लेतीं। हैंग होने वाले समय में 86% कमी के साथ, आप और ज़्यादा टैब खोलने के दौरान भी अलग-अलग टैब में स्विच कर सकते हैं।
+features-fast-level-up-browser-gameplay = ब्राउज़र का गेम-प्ले बेहतर करें
+
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
-features-fast-we-led-the-tech-to-run-3d-games = हमने निकट-मूल गतियों में 3 डी गेम चलाने के लिए तकनीक का नेतृत्व किया है, और अब { -brand-name-firefox } ऑनलाइन गेमिंग में बेहतर प्रदर्शन ला रहा है. हमारा शक्तिशाली ब्राउज़र अंतरालों को कम करता है, पिंग टाइम्स को गति देता है और तेज, पतले ब्राउज़िंग के माध्यम से समग्र गेमप्ले का अनुकूलन करता है.
+features-fast-we-led-the-tech-to-run-3d-games = हमने तकनीकी विशेषज्ञों के साथ मिलकर 3डी गेम्स को असली स्पीड के आस-पास चलाने की कोशिश की और { -brand-name-firefox } अब ऑनलाइन गेमिंग में बेहतर प्रदर्शन कर रहा है। हमारा दमदार ब्राउज़र लैग को कम करता है, पिंग टाइम को बढ़ाता है और पहले से ज़्यादा तेज़ ब्राउज़िंग के साथ गेमप्ले को बेहतर बनाता है।
