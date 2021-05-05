@@ -256,7 +256,7 @@ newsletters-get-how-tos = Ricevi le guide, i consigli e le novità per adattare 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
-newsletters-special-announcements-about-mozilla-v2 = Avvisi speciali relativi al nostro festival annuale dedicato a plasmare il futuro dell'Open Web.
+newsletters-special-announcements-about-mozilla-v2 = Avvisi speciali relativi al nostro festival annuale dedicato a plasmare il futuro dell’Open Web.
 # Obsolete string
 newsletters-special-announcements-about-mozilla = Annunci esclusivi sull’annuale festival partecipativo { -brand-name-mozilla }, dedicato a tracciare il futuro dell’open Web.
 # Name for the newsletter in Newsletter subscription page
