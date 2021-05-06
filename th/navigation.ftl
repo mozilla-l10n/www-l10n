@@ -59,6 +59,7 @@ navigation-download = ดาวน์โหลด
 navigation-extensions = ส่วนขยาย
 navigation-support = การสนับสนุน
 navigation-privacy = ความเป็นส่วนตัว
+navigation-get-unmatched-data-protection = รับการปกป้องข้อมูลต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับองค์กรของคุณ
 navigation-made-with-respect = ทำด้วยความเคารพ
 navigation-close-products-menu = ปิดเมนู “ผลิตภัณฑ์”
 navigation-see-if-your-personal = ดูว่าข้อมูลส่วนตัวของคุณถูกรั่วไหลบนโลกออนไลน์หรือไม่ และลงทะเบียนรับการแจ้งเตือนการรั่วไหลในอนาคต

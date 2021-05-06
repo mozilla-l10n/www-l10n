@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = เป็นมากกว่าเบราว์เซอร์ - { -brand-name-firefox-monitor } คือผู้ช่วยเฝ้าระวังแฮกเกอร์ของคุณ
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = ทำขั้นตอนต่อไปเพื่อปกป้องตัวคุณเองในโลกออนไลน์ด้วยตระกูลผลิตภัณฑ์ของ { -brand-name-firefox }
+welcome-page1-stay-ahead-of-hackers-check = ปลอดภัยจากแฮกเกอร์อยู่เสมอ ตรวจสอบการรั่วไหลของข้อมูลด้วย { -brand-name-firefox-monitor }
 welcome-page1-check-your-breach-report = ตรวจสอบรายงานการรั่วไหลของคุณ
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = ป้องกันแฮกเกอร์
