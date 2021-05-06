@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ur teznuzu,
 privacy-faq-wait-so-how-do-you-make-money = Rǧu, amek ihi i d-ssekcam tadrimt?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } mačči d tuddsa am tiyaḍ. Tennulfa-d seg usenfaṛ n terbaɛt n useɣzan ilelli deg 1998. { -brand-name-mozilla } yellan d tasbeddit i yettwalin iman-is ɣur-s tuɣdaḍt n useḥbiber ɣef Internet uzmir. Tuget n ubaɣur n { -brand-name-mozilla } Corporation yekka-d seg lexlaṣ n yimendiden s yiimseddayen n unadi neɣ amtawa n akked wiyaḍ deg umaḍal. Tzemreḍ ad teẓreḍ ugar ɣef wamek i d-ngemmer tadrimt deg <a href="{ $link }">uneqqis s useggas n tedrimt</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } mačči d tuddsa am tiyaḍ. Tennulfa-d seg usenfaṛ n terbaɛt n useɣzan ilelli deg 1998. { -brand-name-mozilla } yellan d tasbeddit i yettwalin iman-is ɣur-s tuɣdaḍt n useḥbiber ɣef Internet uzmir. Tuget n ubaɣur n { -brand-name-mozilla-corporation } yekka-d seg lexlaṣ n yimendiden s yiimseddayen n unadi neɣ amtawa n akked wiyaḍ deg umaḍal. Tzemreḍ ad teẓreḍ ugar ɣef wamek i d-ngemmer tadrimt deg <a href="{ $link }">uneqqis s useggas n tedrimt</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ih, ar tura ishel. Aniwi isefka i tleqḍem?
 # Variables:
