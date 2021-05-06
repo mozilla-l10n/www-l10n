@@ -7,3 +7,5 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Tge è in navigatur-web?
+# HTML page description
+what-is-a-browser-a-web-browser = In navigatur-web ta maina dapertut per l'internet enturn e ta pussibilitescha da vesair texts, maletgs e videos da tut il mund.
