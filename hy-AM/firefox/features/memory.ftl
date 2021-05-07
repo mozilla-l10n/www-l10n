@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox դիտարկիչ: օգտագործում է ավելի քիչ հիշողություն և ավելի արագ է
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }. օգտագործում է ավելի քիչ հիշողություն և ավելի արագ է
 # HTML page description
 features-memory-is-your-computer-slow-your = Ձեր համակարգիչը դանդա՞ղ է: Հնաավոր է՝ ձեր դիտարկիչը շատ հիշողություն է օգտագործում: Հենց այսօր անցեք { -brand-name-firefox }-ին՝ արագություն ապահովելու համար:
 features-memory-less-memory-usage-than-chrome = Ավելի քիչ հիշողութուն է օգտագործում, քան { -brand-name-chrome }-ը

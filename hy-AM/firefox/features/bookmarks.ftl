@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox դիտարկիչ. Ավելի լավ էջանիշեր, որտեղ էլ որ գնաք
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }. Ավելի լավ էջանիշեր, որտեղ էլ որ գնաք
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Հեշտությամբ կազմակերպեք ձեր էջանիշերը թղթապանակում և մատչեք դրանց ձեր ունեցած բոլոր սարքերից՝ դեսքթոփ և բջջային՛
 features-bookmarks-better-bookmarks = Ավելի լավ էջանիշեր
@@ -20,7 +20,7 @@ features-bookmarks-fly-with-that-bookmark = Ձեռքի տակ ունեցեք ձ�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Միշտ ձեռքի տակ պահեք ձեր էջանիծերը: Օգտագործեք Firefox Սինքը՝ մատչելու դրանքձեր բոլոր սարքերից՝ դեսքթոփից բջջային: Փորձեք <a href="{ $url }">{ -brand-name-pocket }</a>-ը՝ պահպանելու համար ցանկացած առցանց հոդված կամ էջ և հետո այն կարդալու համար, եթե անգամ անցանց եք:
+features-bookmarks-take-your-favorites-on = Միշտ ձեռքի տակ պահեք ձեր էջանիշերը: Օգտագործեք { -brand-name-firefox-sync }՝ մատչելու դրանք ձեր բոլոր սարքերից՝ դեսքթոփից մինչև բջջային: Փորձեք <a href="{ $url }">{ -brand-name-pocket }</a>-ը՝ պահպանելու համար ցանկացած առցանց հոդված կամ էջ և հետո այն կարդալու համար, եթե անգամ անցանց եք:
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Տանջվել էջանիշերի հետ

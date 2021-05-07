@@ -5,12 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } Extension | Կանխեք { -brand-name-facebook }-ին տեսնել, թե որ կայքերն եք այցելում:
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container }՝ { -brand-name-firefox }-ի համար | Կանխեք { -brand-name-facebook }-ին տեսնելու, թե որ կայքերն եք այցելում:
 facebook-container-millions-of-people-around = Միլիոնավոր օգտատերեր ամբողջ աշխարհում վստահում են { -brand-name-firefox } վեբ դիտարկիչներին ({ -brand-name-android }, { -brand-name-ios } և դեսքթոփ): Արագ է: ԳԱղտնի է: Ներբեռնեք հիմա:
-facebook-container-facebook-well-contained-keep = Ֆեյսբուք: Լավ պարունակված: Ձեր կյանքի մնացած մասը պահեք ինքներդ ձեզ համար:
+facebook-container-facebook-well-contained-keep = { -brand-name-facebook }: Ձեր կյանքի մնացած մասը պահեք ինքներդ ձեզ համար:
 facebook-container-get-the-facebook-container = Ստացեք { -brand-name-facebook-container } ընդլայնումը
 facebook-container-download-firefox-and-get-the = Ներբեռնեք { -brand-name-firefox }-ը և ստացեք { -brand-name-facebook-container } ընդլայնումը
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ընդլայնումը մատչելի չէ բջջային սարքերի համար:
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Փորձեք <strong>{ -brand-name-firefox-focus }</strong>-ը, գաղտնի դիտարկիչ { -brand-name-android }-ի և { -brand-name-ios }-ի համար:
 facebook-container-opt-out-on-your-terms = Հրաժարվեք ձեր պայմաններից
