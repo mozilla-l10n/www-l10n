@@ -20,3 +20,11 @@ what-is-a-browser-a-web-browser-long = In navigatur-web ta maina per l'entir int
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = Deplorablamain n'interpreteschan betg tut ils sviluppaders da navigaturs il format en la medema moda e maniera. Quai ha per consequenza per ils utilisaders ch'ina website po funcziunar e vegnir visualisada differentamain ch'in autra. L'intent da cuntanscher in'unifurmitad da tut ils navigaturs cun la finamira che mintga utilisader possia giudair l'internet independentamain da ses navigatur, sa numna <a href="{ $standards }">standards dal web</a> .
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Cura ch'il navigatur-web retschaiva datas dad in server ch'è collià cun l'internet, dovra el ina software numnada rendering engine. Quella translatescha las datas en text e maletgs. Questas datas vegnan scrittas en furma da <a href="{ $html }">Hypertext Markup Language</a> (HTML). Ils navigaturs-web san leger quest code per crear la fin finala quai che nus vesain ed udin en l'internet.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Colliaziuns ipertextualas</a> pussibiliteschan ad utilisaders da suandar in percurs ad autras paginas u websites en il web. Mintga pagina-web, maletg e video ha ses agen <a href="{ $url }">Uniform Resource Locator</a> (URL) ch'è unic. Quel vegn era numnà adressa(-web). Cura ch'in navigatur retschaiva datas dad in server, infurmescha l'adressa-web il navigatur-web nua ch'el chatta mintga element descrit en il HTML. Sin quai vegn il navigatur infurmà nua che quel sto vegnir plazzà sin la pagina-web.
+what-is-a-browser-cookies-not-the = Cookies (betg quels ch'ins giauda cun il café)
