@@ -28,3 +28,6 @@ what-is-a-browser-when-the-web-browser = Cura ch'il navigatur-web retschaiva dat
 #   $url(url) - link to https://wikipedia.org/wiki/URL
 what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Colliaziuns ipertextualas</a> pussibiliteschan ad utilisaders da suandar in percurs ad autras paginas u websites en il web. Mintga pagina-web, maletg e video ha ses agen <a href="{ $url }">Uniform Resource Locator</a> (URL) ch'è unic. Quel vegn era numnà adressa(-web). Cura ch'in navigatur retschaiva datas dad in server, infurmescha l'adressa-web il navigatur-web nua ch'el chatta mintga element descrit en il HTML. Sin quai vegn il navigatur infurmà nua che quel sto vegnir plazzà sin la pagina-web.
 what-is-a-browser-cookies-not-the = Cookies (betg quels ch'ins giauda cun il café)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Paginas-web memoriseschan infurmaziuns da tai en datotecas, numnadas <a href="{ $cookies }"> cookies </a>. Quels cookies vegnan memorisads sin tes computer per la proxima giada che ti visiteschas la medema pagina-web. Cura che ti turnas enavos legia il code da la pagina-web questa datoteca per esser segir ch'i sa tractia propi da tai. Sche ti visiteschas n'emporta betg tge pagina-web è quai pussaivel tras in cookie che sa regorda da tes num d'utilisader e dal pled-clav.
