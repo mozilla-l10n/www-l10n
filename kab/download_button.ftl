@@ -14,7 +14,7 @@ download-button-systems-languages = Inagrawen d tutlayin
 download-button-recommended = Ihul
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } dayen ur d-yettak ara ileqman n tɣellist i { -brand-name-firefox } ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }</a>, maca tzemreḍ ad tkemleḍ asider n leqqem aneggaru n { -brand-name-windows } 32-ibiten ddaw-agi.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } dayen ur d-yettak ara ileqman n tɣellist i { -brand-name-firefox } ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }</a>, maca tzemreḍ ad tkemleḍ asader n leqqem aneggaru n { -brand-name-windows } 32-ibiten ddaw-agi.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Ma ulac aɣilif ḍfer <a href="{ $url }">tinaḍin-agi</a> akken ad tesbeddeḍ { -brand-name-firefox }.
@@ -38,4 +38,4 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> i { -bran
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> i { -brand-name-ios }
 download-button-firefox-privacy = Tasertit n tbaḍnit n { -brand-name-firefox }
 download-button-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
-download-button-download = Sider
+download-button-download = Sader
