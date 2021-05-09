@@ -25,12 +25,78 @@ vpn-shared-features-activity-logs = Ningún registro de actividad en línea ahor
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Acceso a servidores en más de { $countries } países
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Opción de conectar hasta { $devices } dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Protección para hasta { $devices } dispositivos
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Conexión a más de { $servers } en más de { $countries } países
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Ya disponible en { $countries } países. Próximamente en más regiones
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Consulta nuestra lista completa de <a href="{ $url }" { $attrs }>servidores</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Potentes servidores en más de { $countries } países
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Conecta hasta { $devices } dispositivos
+vpn-shared-refund-policy = Política de reembolso
+vpn-shared-privacy-notice = Aviso de privacidad
+vpn-shared-terms-conditions = Términos y condiciones
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } es una marca registrada de Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading = Elige el plan que mejor se adapte a ti
+vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
+vpn-shared-pricing-recommended-offer = Recomendado
+vpn-shared-pricing-plan-6-month = 6 meses
+vpn-shared-pricing-plan-12-month = 12 meses
+vpn-shared-pricing-plan-monthly = Al mes
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-get-6-month = Obtener el plan de 6 meses
+vpn-shared-pricing-get-12-month = Obtener el plan de 12 meses
+vpn-shared-pricing-get-monthly = Obtener el plan mensual
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Ahorra un { $percent }%
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } en total
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Comencemos
+vpn-shared-platform-cta-button = Ver precios y disponibilidad
+vpn-shared-platform-privacy-promise = Tu privacidad es nuestro compromiso
+vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianza
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } funciona sobre una red global de servidores proporcionada por <a href="{ $policy }">{ -brand-name-mullvad }</a> usando el protocolo <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } prioriza tu privacidad y no guarda registros de ningún tipo.
+vpn-shared-platform-what-youll-get = Qué obtendrás con { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = ¿Qué es una VPN?
+vpn-subnav-faqs = Preguntas frecuentes
+vpn-subnav-get-help = Obtener ayuda
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Escritorio
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Móvil
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 
