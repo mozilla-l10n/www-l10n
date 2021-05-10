@@ -69,6 +69,7 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -83,6 +84,7 @@
 
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 
@@ -110,6 +112,8 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
@@ -137,6 +141,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
 -brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
