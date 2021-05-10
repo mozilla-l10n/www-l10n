@@ -12,6 +12,18 @@ misinformation-what-is-heading = Wat is misynformaasje? Wat is desynformaasje?
 misinformation-disinformation = Misynformaasje, desynformaasje – jo hawwe dizze termen wierskynlik al ris hearre en jo ôffrege wat it ferskil dertusken is. It ûnderskied sit him yn it doel: misynformaasje is elke soarte fan falske ynformaasje wêr't minsken yn trappe kinne soene. Dizze is ferifiearber net krekt of misliedend, mar is net makke of dield mei de yntinsje om oaren te mislieden. Desynformaasje dêrtsjinoer wurdt makke en ferspraad om ferkeard te ynformearjen en in bepaald doel te beriken.
 misinformation-ultimately-harmful = Uteinlik kinne sawol misynformaasje as desynformaasje skeadlik wêze. It is net allinnich dat minsken net krekte ynformaasje leauwe, falske ynformaasje kostet de wrâldekonomy in protte jild en kinne demokrasy en effisjint bestjoer bedriigje. Dêrneist is falske ynformaasje swier te stopjen, omdat nepnijs signifikant flugger, djipper en breder ferspraat as krekt nijs.
 misinformation-false-info-heading = Wêr is falske ynformaasje te finen?
+misinformation-overly-sensational = Is de kop oerdreaun sensasjoneel?
+misinformation-content-up-to-date = Is de ynhâld aktueel?
+misinformation-images-captions = Komme ôfbyldingen en byskriften oerien?
+misinformation-how-firefox-helps-heading = Hoe { -brand-name-firefox } jo helpt misynformaasje te mijen
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } hâldt trackers ûnder kontrôle:
+misinformation-social-media-clean-heading = { -brand-name-firefox } helpt jo de tiidlinen op jo sosjale media skjin te hâlden:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } helpt jo ynhâld te ûntdekken dy't jo tiid wurdich is:
+misinformation-why-trust-firefox = Wêrom kinne jo { -brand-name-firefox } fertrouwe?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Omdat wy minsken foarop stelle. Sterker noch, wy wurde stipe troch in <a href="{ $foundation }">non-profit</a>. Fan it begjin ôf is it ús misje west om it ynternet en al har brûkers te beskermjen.
 misinformation-learn-more-about-our-mission = Mear ynfo oer ús missy
 misinformation-your-privacy-by-the-product = Jo privacy, troch it produkt
 misinformation-firefox-products-work-differently = { -brand-name-firefox }-produkten wurkje oars – omdat se ûntwurpen binne om foarearst jo privacy te beskermjen.
