@@ -63,6 +63,7 @@ vpn-shared-pricing-total = Total { $amount }
 
 # Platform subpage shared strings
 
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 
