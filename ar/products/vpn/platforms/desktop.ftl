@@ -28,6 +28,9 @@ vpn-desktop-privacy-copy = يُشفِّر تطبيق { -brand-name-mozilla-vpn }
 
 vpn-desktop-servers-headline = اتصل بخوادم في جميع أنحاء العالم
 
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = تصفَّح من البرازيل. العب من اليابان. بُث فيديوهات من المكسيك. يُتيح لك { -brand-name-mozilla-vpn } تغيير هاتفك أو موقع الكمبيوتر إلى أحد خوادم { $servers }.
 
 # Obsolete string
 vpn-desktop-servers-copy = تصفَّح من البرازيل. العب من اليابان. بُث فيديوهات من المكسيك. إذ يُتيح لك { -brand-name-mozilla-vpn } تغيير موقع هاتفك أو جهاز الكمبيوتر الخاص بك إلى واحد من { $servers } خادم.
