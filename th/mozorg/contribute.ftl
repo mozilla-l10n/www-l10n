@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-how-heading = วิธีการที่คุณสามารถมีส่วนร่วม…
 
 ## Contribution tasks
 
@@ -49,4 +50,5 @@ contribute-mozilla-support = สนับสนุน { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = ปัญหาเกี่ยวกับหน้าเว็บ?
+contribute-web-compat-desc = หากประสบการณ์การใช้งานเว็บไซต์ของคุณแตกต่างกันระหว่างเบราว์เซอร์คุณอาจพบปัญหาความเข้ากันได้ของเว็บ เราชอบที่จะรู้เกี่ยวกับเรื่องนี้!
 contribute-report-issue = รายงานปัญหา
