@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title = Ki tye ka moko anyim iwiyamo. Kony { -brand-name-mozilla } me lweny pi kakube ma tye pi wan weng
+banner-fundraising-body = Kicoko data wa kare weng ma walimo kakube, ki pe yot me niang ngo ma kitimo kwede. Ngec ma pe tye atir tye ka weko tek tutwal bot wa me nongo lok ada. Ki tye ka cwalo nyonyo ma okube i kakube i cuk labongo rwatte ki lubo cik mo me ber bedo. Dul ma pe tye me nongo magoba { -brand-name-mozilla-foundation } lwenyo me weko intanet bedo maber, ayaba dok nonge bot dano weng. <strong>Ibimiyo kony tin?</strong>
 banner-fundraising-monthly = Dwe ki dwe
 banner-fundraising-one-time = Kicel
 banner-fundraising-donate = Mii kony
