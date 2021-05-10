@@ -71,10 +71,17 @@ vpn-landing-faq-competition-question-desc = على الرغم من أن شبكا
 
 vpn-landing-faq-compatibility-question-heading = ما هي الأجهزة المُتوافقة مع تطبيق { -brand-name-mozilla-vpn }؟
 
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } مُتوافق مع <a href="{ $mobile }">الجوال</a>، والجهاز اللوحي، و<a href="{ $desktop }">جهاز كمبيوتر سطح المكتب</a> على:
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } متوافق مع:
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-بت فقط)
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = نظام تشغيل 10 { -brand-name-windows } (64 بت فقط)
@@ -83,6 +90,10 @@ vpn-landing-faq-compatibility-question-desc-windows = نظام تشغيل 10 { -
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 وأعلى)
 
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 وأعلى)
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = نظام تشغيل { -brand-name-mac } (الإصدار 10.15 والأحدث منه)
@@ -91,6 +102,10 @@ vpn-landing-faq-compatibility-question-desc-mac = نظام تشغيل { -brand-n
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (إصدار 8 وأعلى)
 
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (إصدار 8 وأعلى)
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -brand-name-android } (الإصدار 6 والأحدث منه)
@@ -99,6 +114,10 @@ vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -bra
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 وأعلى)
 
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 وأعلى)
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = نظام تشغيل { -brand-name-ios } (الإصدار 13.0 والأحدث منه)
@@ -107,6 +126,10 @@ vpn-landing-faq-compatibility-question-desc-ios = نظام تشغيل { -brand-n
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 وأعلى)
 
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-فقط)
 
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-فقط)
