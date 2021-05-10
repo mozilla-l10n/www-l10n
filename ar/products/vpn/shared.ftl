@@ -93,6 +93,7 @@ vpn-shared-pricing-total = { $amount } إجمالًا
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = لنبدأ
 vpn-shared-platform-cta-button = تعرَّف على الأسعار والتوافر
 
 vpn-shared-platform-privacy-promise = خصوصيتك وَعدٌ منّا
@@ -107,6 +108,9 @@ vpn-shared-platform-what-youll-get = المزايا التي سَتحصُل عل
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = ما هو VPN؟
+vpn-subnav-faqs = الأسئلة الشائعة
+vpn-subnav-get-help = الحصول على مساعدة
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = أجهزة الكمبيوتر
 vpn-subnav-platform-ios = { -brand-name-ios }
