@@ -18,5 +18,8 @@ vpn-ios-servers-headline = Eike hetave { $servers } mba’e’okápe arapy tuich
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Eikekuaa { $devices } mba’e’oka peg̃uarã
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Ñemboheraguapy ndive, eguereko { -brand-name-mozilla-vpn } { $devices } peve mba’e’oka iñambuéva, oĩhápe { -brand-name-ios } { -brand-name-iphone } peg̃uarã ha { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } ha { -brand-name-linux }.
 vpn-ios-speed-headline = Ipya’etereíva. Mba’ekuaarã hu’ã’ỹva.
 vpn-ios-log-headline = Ne mba’ekuaarã oiko tekoñemíme. Kyta.

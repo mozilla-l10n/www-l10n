@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } mesa arigua (PC ha laptop)
+# Desktop strings
+vpn-desktop-hero-headline = Eike ñandutípe tekorosãme { -brand-name-mozilla-vpn } mesa arigua ndive
 vpn-desktop-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
