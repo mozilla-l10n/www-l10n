@@ -47,6 +47,7 @@ features-index-compare-browsers = Browsers fergelykje
 features-index-see-themes = Toptema’s besjen
 features-index-download-latest = Download de nijste { -brand-name-firefox }
 features-index-fingerprinter-blocking = Blokkearjen fan fingerprinters
+features-index-fingerprinting-is-a = Fingerprinting is in soarte fan online folgjen dy't ynvasiver is as it gewoane op cookies basearre folgjen. Dêrom blokkearret { -brand-name-firefox-browser } it.
 features-index-block-fingerprinters = Blokkearje fingerprinters
 features-index-translate-the-web = It ynternet oersette
 features-index-translate-more-than = Set út mear as 100 talen streekrjocht yn jo { -brand-name-firefox-browser } oer nei jo eigen taal – ienfâldiger as ea.
