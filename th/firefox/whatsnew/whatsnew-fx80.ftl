@@ -9,3 +9,4 @@
 whatsnew80-page-title = มีอะไรใหม่ใน { -brand-name-firefox }
 # Main title
 whatsnew80-main-title = ทำทุกอย่างเร็วขึ้นเล็กน้อย
+whatsnew80-privacy-you-never = ความเป็นส่วนตัวที่คุณไม่ต้องไตร่ตรอง
