@@ -27,6 +27,7 @@ choose-which-firefox = Eiporavo mba’e { -brand-name-firefox-browser } emboguej
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook } peg̃uarã
 firefox-more-while-on-chromebook = Orekomarojepe { -brand-name-chromebook } mohendapyre { -brand-name-chrome }, omboguejy ha oipurúvo { -brand-name-firefox } ne kundahára iporãvévarõ, erekóta hetaiterei mba’eporã:
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } oporomongu’epaite { -brand-name-firefox } ñemboguatápe. Ary 2017 jave, romoheñói kundahára pyahu ipya’étereíva ha iporãvéva ko’ẽreíre. { -brand-name-firefox-quantum } ha’e { -brand-name-firefox-browser }.
 firefox-more-little-book = Aranduka’i Ñemiguáva
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = Eike ha embojuehe techaukaha, ñe’ẽñemi, tendayke ijurujáva ha hetave, eipurúvo { -brand-name-firefox } oimehápe.
