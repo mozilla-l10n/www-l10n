@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-page-title = Emboykeve marandu’ỹ ñandutípe { -brand-name-firefox } ñepytyvõ rupive
 misinformation-page-subheading = Ema’ẽ ko’ã ñemoñe’ẽre ehecha hag̃ua sa’ive maranduvai ha ehechakuaa mba’épa erohoryvéva
 misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa maranduvai?
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
