@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-title = Emboykeve marandu’ỹ ñandutípe { -brand-name-firefox } ñepytyvõ rupive
+misinformation-page-desc = Pe marandu’ỹ neko’õ, nemboyke ha avei hepy. { -brand-name-firefox } oguereko ñemoñe’ẽ omboyke hag̃ua marandu japugua ha ehecha sa’ive ekundahakuévo ñandutípe.
 misinformation-page-subheading = Ema’ẽ ko’ã ñemoñe’ẽre ehecha hag̃ua sa’ive maranduvai ha ehechakuaa mba’épa erohoryvéva
 misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa maranduvai?
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
@@ -15,6 +16,7 @@ misinformation-known-to-br-credible = ¿Ojeguerovia chupe? Nderegueroviáiramo, 
 misinformation-overly-sensational = ¿Pe maranduguasu ombotuichaiterei?
 misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
 misinformation-outdated-information = Pe marandu ndahekopyahúi ndaha’éi katuete noporomaranduséiva, hákatu ikatu hína noĩporãmbái.
+misinformation-credible-publication = ¿Ohechauka apohára ambue jehaipyre térã guenohẽmbyre, ikatu haguéicha tenda ojekuaávape?
 misinformation-images-captions = ¿Umi ta’ãnga ha avara’ãnga reratee’i ojuehegua?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
