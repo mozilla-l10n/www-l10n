@@ -60,6 +60,7 @@ so-many-ads = Heta maranduñemurã, sa’íma pya’aguapy... Ejokómake kóva.
 firefox-more-protection = { -brand-name-firefox }: Ñemo’ãve. Sa’ivéma jepy’apy.
 were-obsessed-with = Ore jepy’apy ha’e hína ne ñemigua ñemo’ãve. Upévare rojapo { -brand-name-firefox } kundahára ñemigua imbaretevéva opavavégui.
 incognito-browser-what = Kundahára jekuaa’ỹva: mba’épa he’isetéva
+firefox-calls-it = { -brand-name-firefox } ombohéra kundaha ñemigua, { -brand-name-chrome } ohenói ñemimby ayvu. Mokõivéva omoneĩ eikundahávo ñandutípe oñongatu’ỹre ne kundahára rembiasakue.
 take-the-stress = Eñembyesarái kane’õgui ehekahápe kundahára hekorosãva.
 building-a-safe = Kundahára hekorosãva jejapo ha’e tekoporã ha avei mba’ekuaa ndorekóire mbojojaha.
 firefox-more-fingerprinter-blocking = Ñemokuãhũ Jejoko
