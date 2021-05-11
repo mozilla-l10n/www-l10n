@@ -17,7 +17,9 @@ misinformation-overly-sensational = ¿Pe maranduguasu ombotuichaiterei?
 misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
 misinformation-outdated-information = Pe marandu ndahekopyahúi ndaha’éi katuete noporomaranduséiva, hákatu ikatu hína noĩporãmbái.
 misinformation-credible-publication = ¿Ohechauka apohára ambue jehaipyre térã guenohẽmbyre, ikatu haguéicha tenda ojekuaávape?
+misinformation-authors-name = Ejuhumba’éramo pe apohára réra añónte tenda naiporãmbáivape, anínte emomba’eterei umi he’iva’ekue.
 misinformation-images-captions = ¿Umi ta’ãnga ha avara’ãnga reratee’i ojuehegua?
+misinformation-how-firefox-helps-heading = Mba’éicha nepytyvõta { -brand-name-firefox } emboyke hag̃ua marandu’ỹ
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
@@ -25,5 +27,6 @@ misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta oh
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 misinformation-learn-more-about-our-mission = Eikuaave ore rembipota
 misinformation-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
+misinformation-firefox-products-work-differently = { -brand-name-firefox } apopyrekuéra omba’apo ambueháicha — ojejapo rupi omotenonde hag̃ua ne ñemigua ñemo’ã.
 misinformation-learn-about-our-products = Eñemomaranduve ore apopyrére
 misinformation-designed-to-protect = Ojejapóva omo’ã hag̃ua ne ñemigua
