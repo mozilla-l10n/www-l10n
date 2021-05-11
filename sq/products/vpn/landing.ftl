@@ -54,11 +54,52 @@ vpn-landing-faq-competition-question-heading = Si del { -brand-name-mozilla-vpn 
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Teksa VPN-të falas duken tërheqëse, ato nuk i përkushtohen njësoj privatësisë si { -brand-name-mozilla-vpn } dhe mundë të shesin ose depozitojnë të dhëna tuajat. VPN të tjera me pagesë nuk kanë <a href="{ $url }">historikun</a> mbi 20 vjeçar të { -brand-name-mozilla }-s në krijim produktesh që vënë njerëzit dhe privatësinë mbi gjithçka.
 vpn-landing-faq-compatibility-question-heading = Me cilat pajisje është i përputhshëm { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } është i përputhshëm me <a href="{ $mobile }">celular</a>, tablet, dhe <a href="{ $desktop }">desktop</a> në:
+# Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } është i përputhshëm me:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (vetëm 64-bit)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (vetëm 64-bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e sipër)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e sipër)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e sipër)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (version 8 e sipër)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (version 6 e sipër)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 e sipër)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e sipër)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e sipër)
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e sipër)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e sipër)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (vetëm { -brand-name-ubuntu })
+# Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vetëm për { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Cilat janë rregullat e rimbursimit për { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Mund të merrni paratë mbrapsht brenda 30 ditësh nga blerja e pajtimit tuaj. Lidhuni me ne dhe parashtrojeni kërkesën për rimbursim duke prekur mbi butonin “Merrni Ndihmë” te Rregullimet e aplikacionit tuaj { -brand-name-mozilla-vpn }.
