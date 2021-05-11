@@ -26,5 +26,9 @@ vpn-mac-servers-headline = სერვერებთან წვდომა,
 vpn-mac-servers-copy = მიუთითეთ თქვენი { -brand-name-mac-short }-ის მდებარეობად { $servers }+ სერვერიდან რომელიმე, { $countries }+ ქვეყანაში. შედეგად, შეძლებთ იხილოთ ახალი ამბები, შესაძენი ნივთები და გადაცემები, მსოფლიოს თითქმის ნებისმიერი კუთხიდან.
 # Variables:
 #   $devices (number) - number of available devices
-vpn-mac-devices-headline = დაიცავით { $devices } მოწყობილობა ერთი გამოწერით
-vpn-mac-devices-copy = თქვენი კომპიუტერი, პლანშეტი და სმარტფონი იმსახურებს უსარფრთხოებას. გამოიყენეთ { -brand-name-mozilla-vpn } რომ დაიცვათ { $devices } { -brand-name-mac-short } და { -brand-name-ios }-მოწყობილობები (გარდა ამისა { -brand-name-windows }, { -brand-name-linux } და { -brand-name-android }).
+vpn-mac-devices-headline = დაიცავით { $devices } მოწყობილობა ერთი ხელშეკრულებით
+vpn-mac-devices-copy = თქვენი კომპიუტერი, პლანშეტი და სმარტფონი იმსახურებს უსარფრთხოებას. გამოიყენეთ { -brand-name-mozilla-vpn } რომ დაიცვათ { -brand-name-mac-short } და { -brand-name-ios }-მოწყობილობები (გარდა ამისა { -brand-name-windows }, { -brand-name-linux } და { -brand-name-android }).
+vpn-mac-speed-headline = სიჩქარის შეწირვის გარეშე
+vpn-mac-speed-copy = შეუზღუდავი მონაცემები და გამტარუნარიანობა გულისხმობს, რომ შეგიძლიათ ჩვეულებრივ იმოგზაუროთ ინტერნეტის ნებისმიერ წერტილში — მაღალი დონის დაცვით.
+vpn-mac-log-headline = ინტერნეტით რასაც აკეთებთ, თქვენი საქმეა
+vpn-mac-log-copy = მშვიდად იყავით { -brand-name-mozilla-vpn }-ით სარგებლობისას. თქვენი ინფორმაცია იშიფრება, თქვენი მოქმედებები არასდროს აღირიცხება და თქვენი პირადი მონაცემები მუდამ დაცული იქნება. ეს ჩვენი პირობაა.
