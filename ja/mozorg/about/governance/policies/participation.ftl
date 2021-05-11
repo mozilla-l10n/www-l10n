@@ -80,7 +80,7 @@ participation-otherwise-influencing = その他群衆の行動によりセッシ
 participation-influencing-unacceptable = 禁止行為を挑発する行為
 participation-we-will-treat-influencing = Mozilla では、禁止行為を挑発する行為も、その禁止行為に準じて対処します。したがって、挑発する行為にも禁止行為と同じ処分が適用されます。
 participation-consequences-of-unacceptable = 禁止行為の処分
-participation-bad-behavior-from = 意志決定権限を付与された者も含めた Mozillian による悪質な行為は、容認されません。{ -brand-name-mozilla } から意図的に他者を排斥しようとする行為 (ガイドラインに関する処分の一環である場合やその他の正式な処置の場合を除きます) は認められず、そうした行為は適宜対処されます。
+participation-bad-behavior-from = 意志決定権限を付与された者も含め、Mozilla のボランティアおよび職員による悪質な行為は容認されません。{ -brand-name-mozilla } から意図的に他者を排斥しようとする行為 (ガイドラインに関する処分の一環である場合やその他の正式な処置の場合を除きます) は認められず、そうした行為は適宜対処されます。
 participation-reports-of-harassmentdiscrimination = 嫌がらせ・差別に関する報告は、スペースやイベント、活動の安全担当者により迅速かつ徹底的に調査されます。そうした問題に対処するために、適切な処置をが講じられます。
 participation-anyone-asked-to-stop = 許されない行為を止めるよう指示された者は、その指示に直ちに従う必要があります。本ガイドラインに違反した者は、イベントやオンラインスペースからの一時的またはイベント期間を通して退出するよう命じられたり、スペースへの参加が禁止されたり、あるいはその後のイベントや活動への参加が永続的に禁止されたりする場合があります。
 participation-mozilla-staff-are = { -brand-name-mozilla } のスタッフは、本ガイドラインに加え、{ -brand-name-mozilla } のスタッフの嫌がらせ・差別禁止に関する方針 <a href="{ $note1 }"> [1] </a> に関する責任を負います。本ガイドラインに違反した { -brand-name-mozilla } のスタッフは、懲戒処分や、最も重い処分として解雇など、追加の処分対象となる場合があります。請負業者またはベンダーが本ガイドラインの違反した場合、契約の継続・更新に影響を与える可能性があります。
