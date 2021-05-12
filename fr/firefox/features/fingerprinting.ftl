@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# description for the header image
+features-fingerprinting-every-fingerprint = Chaque empreinte numérique est unique.
 features-fingerprinting-download-firefox = Télécharger { -brand-name-firefox }
+features-fingerprinting-protect = Protégez votre vie privée
