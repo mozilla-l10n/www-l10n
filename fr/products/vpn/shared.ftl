@@ -20,7 +20,7 @@ vpn-shared-features-encrypt = Chiffrement de l’appareil
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = Plus de { $servers } serveurs dans plus de { $countries } pays
 vpn-shared-features-bandwidth = Aucune restriction de bande passante
-vpn-shared-features-activity = Aucune trace de votre activité réseau n'est conservée
+vpn-shared-features-activity = Aucune trace de votre activité réseau n’est conservée
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Possibilité de connecter jusqu’à 5 appareils
