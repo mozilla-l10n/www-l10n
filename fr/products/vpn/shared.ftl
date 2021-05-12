@@ -22,6 +22,9 @@ vpn-shared-features-servers = Plus de { $servers } serveurs dans plus de { $cou
 vpn-shared-features-bandwidth = Aucune restriction de bande passante
 vpn-shared-features-activity = Aucune trace de votre activité réseau n’est conservée
 # Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Accès aux serveurs de plus de { $countries } pays
+# Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Possibilité de connecter jusqu’à 5 appareils
 # Variables:
@@ -35,6 +38,12 @@ vpn-shared-countries-coming-soon = Disponible dans { $countries } pays maintena
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Voir la liste complète des <a href="{ $url }" { $attrs }>serveurs</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Serveurs rapides dans plus de { $countries } pays
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Connecter jusqu’à { $devices } appareils
 vpn-shared-refund-policy = Politique de remboursement
 vpn-shared-privacy-notice = Politique de confidentialité
 vpn-shared-terms-conditions = Conditions d’utilisation
@@ -63,8 +72,14 @@ vpn-shared-pricing-total = Total { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = C’est parti
+vpn-shared-platform-privacy-promise = Le respect de votre vie privée est notre promesse
+vpn-shared-platform-what-youll-get = Ce que vous obtiendrez avec { -brand-name-mozilla-vpn } :
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Qu’est-ce qu’un réseau privé virtuel ?
+vpn-subnav-faqs = Questions fréquentes
+vpn-subnav-get-help = Obtenir de l’aide
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Ordinateur
 vpn-subnav-platform-ios = { -brand-name-ios }
