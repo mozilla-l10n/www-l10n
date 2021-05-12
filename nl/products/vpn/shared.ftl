@@ -55,6 +55,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } is een geregistreerd 
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Kies een abonnement dat bij u past
+# Outdated string
 vpn-shared-pricing-variable-heading = Kies een abonnement dat bij u past
 vpn-shared-pricing-variable-sub-heading = Al onze abonnementen omvatten:
 vpn-shared-pricing-recommended-offer = Aanbevolen
