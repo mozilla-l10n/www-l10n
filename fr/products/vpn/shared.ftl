@@ -21,12 +21,16 @@ vpn-shared-features-encrypt = Chiffrement de l’appareil
 vpn-shared-features-servers = Plus de { $servers } serveurs dans plus de { $countries } pays
 vpn-shared-features-bandwidth = Aucune restriction de bande passante
 vpn-shared-features-activity = Aucune trace de votre activité réseau n’est conservée
+vpn-shared-features-activity-logs = Aucun journal d’activité en ligne, ni maintenant ni jamais
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Accès aux serveurs de plus de { $countries } pays
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Possibilité de connecter jusqu’à 5 appareils
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Protection pour un maximum de { $devices } appareils
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -73,7 +77,13 @@ vpn-shared-pricing-total = Total { $amount }
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = C’est parti
+vpn-shared-platform-cta-button = Voir les prix et la disponibilité
 vpn-shared-platform-privacy-promise = Le respect de votre vie privée est notre promesse
+vpn-shared-platform-trust-partner-headline = À propos de notre partenaire de confiance
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = Le { -brand-name-mozilla-vpn } fonctionne sur un réseau mondial de serveurs alimentés par <a href="{ $policy }">{ -brand-name-mullvad }</a> en utilisant le protocole <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } a comme priorité de protéger votre vie privée et ne conserve pas de journaux d’aucune sorte.
 vpn-shared-platform-what-youll-get = Ce que vous obtiendrez avec { -brand-name-mozilla-vpn } :
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
