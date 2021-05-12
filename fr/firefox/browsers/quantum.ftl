@@ -8,9 +8,11 @@
 page-title = Télécharger { -brand-name-firefox-quantum }
 page-description = { -brand-name-firefox-quantum } a été une révolution. En 2017, nous avons créé un nouveau navigateur ultra-rapide qui s’améliore constamment. { -brand-name-firefox-quantum } est le { -brand-name-firefox-browser }.
 the-latest-firefox = Le dernier moteur { -brand-name-firefox } : { -brand-name-firefox-quantum }
+firefox-quantum-was = { -brand-name-firefox-quantum } a été une révolution dans le développement de { -brand-name-firefox }. En 2017, nous avons créé un nouveau navigateur ultra-rapide qui s’améliore constamment. { -brand-name-firefox-quantum } est le { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = En savoir plus sur { -brand-name-firefox-quantum }
 privacy-first = La confidentialité avant tout
+firefox-doesnt-spy = { -brand-name-firefox } ne vous espionne pas en ligne. Nous arrêtons de nombreux cookies de suivi tiers connus et vous donnons un contrôle total.
 super-fast = Ultra rapide
 always-evolving = Évolue constamment
 # Variables:
