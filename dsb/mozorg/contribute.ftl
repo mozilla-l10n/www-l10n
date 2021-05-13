@@ -46,11 +46,13 @@ contribute-opportunities = Nowosći a móžnosći za dobrowólniki
 
 contribute-made-by-heading = Napórany wót zagórjonych luźi ako wy sćo
 contribute-made-by-desc = Gaž k { -brand-name-mozilla } pśinosujośo, buźośo źěl zgromaźeństwa na cełem swěśe, ku kótaremuž luźe z cełego swěta słušaju, kótarež wěrje, až my wšykne rolu grajomy, aby zawěsćili, až internet móc za dobre wóstawa.
+contribute-made-by-desc-cont = Wěrimy, až zgromadne źěło zgromaźeństwa jo rozsudne za napóranje wjelerakego, inowatniwnego a luźam rozpšawjenju winowatego interneta, kótarež jen nuznje trjebaju. Wšojadno lěc maśo technisku slězynu, něco w zgromaźeństwje organizěrujośo abo jadnorje licadło a tšochu wólnego casa maśo, móžośo nam pomagaś, internet k lěpšemu městnoju cyniś.
 
 ## Newsletter
 
 contribute-newsletter-heading = Hyšći njewěsty?
 contribute-newsletter-sub-heading = Dostańśo nowosći wó zgromaźeństwje a sobuźěle do swójogo postowego dochada
+contribute-newsletter-desc = Aboněrujśo naš powěsćowy list, pśizamkniśo se Mozillanarjam z cełego swěta a zgóńśo wěcej wó statkownych móžnosćach, misiju { -brand-name-mozilla } pódpěraś.
 
 ## Support
 
