@@ -45,6 +45,7 @@ contribute-opportunities = Nowosći a móžnosći za dobrowólniki
 ## Made by
 
 contribute-made-by-heading = Napórany wót zagórjonych luźi ako wy sćo
+contribute-made-by-desc = Gaž k { -brand-name-mozilla } pśinosujośo, buźośo źěl zgromaźeństwa na cełem swěśe, ku kótaremuž luźe z cełego swěta słušaju, kótarež wěrje, až my wšykne rolu grajomy, aby zawěsćili, až internet móc za dobre wóstawa.
 
 ## Newsletter
 
