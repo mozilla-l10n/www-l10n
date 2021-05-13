@@ -10,6 +10,7 @@ legal-get-involved = Cyńśo sobu
 legal-protect-the-fox = Šćitajśo Lišku
 legal-takedown-requests = Napšašowanja wó wótšaltowanju
 legal-back-to-legal = Slědk k pšawniskemu
+legal-special-thanks-to-all-of-you = Wósebny źěk wšym, kótarež pomagaju, znjewužywanja wikowych markow { -brand-name-mozilla } k wěsći daś, se na našych nawjedowańskich forumach wobźěluju, swóje měnjenja wó našych pśełožkach a pšawniskich wuměnjenjach sćelu a k projektoju { -brand-name-mozilla } ze swójimi zamóžnosćami pśinosuju.
 legal-terms = Wuměnjenja
 legal-our-websites = Naše websedła
 legal-firefox-services = Słužby { -brand-name-firefox }
