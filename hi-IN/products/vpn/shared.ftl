@@ -68,7 +68,10 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } Jason A. Donenfeld �
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+
+# Outdated string
 vpn-shared-pricing-variable-heading = अपने हिसाब से कोई प्लान चुनें
+
 vpn-shared-pricing-variable-sub-heading = हमारे सभी प्लानों में ये शामिल हैं:
 vpn-shared-pricing-recommended-offer = सुझाव
 vpn-shared-pricing-plan-6-month = 6 माह

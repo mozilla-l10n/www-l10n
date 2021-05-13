@@ -68,7 +68,10 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } は Jason A. Donenfel
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+
+# Outdated string
 vpn-shared-pricing-variable-heading = 自分に合ったプランを選択
+
 vpn-shared-pricing-variable-sub-heading = すべてのプランに以下が含まれます。
 vpn-shared-pricing-recommended-offer = おすすめ
 vpn-shared-pricing-plan-6-month = 6 か月

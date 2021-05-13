@@ -68,7 +68,10 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } adalah merek dagang t
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+
+# Outdated string
 vpn-shared-pricing-variable-heading = Pilih paket yang sesuai untuk Anda
+
 vpn-shared-pricing-variable-sub-heading = Semua paket kami meliputi:
 vpn-shared-pricing-recommended-offer = Direkomendasikan
 vpn-shared-pricing-plan-6-month = 6 Bulan

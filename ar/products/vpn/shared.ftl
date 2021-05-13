@@ -68,7 +68,10 @@ vpn-shared-wireguard-copyright = يُعتبر { -brand-name-wireguard } علام
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+
+# Outdated string
 vpn-shared-pricing-variable-heading = اختر خُطة تناسبك
+
 vpn-shared-pricing-variable-sub-heading = جميع خُططنا تتضمن ما يلي:
 vpn-shared-pricing-recommended-offer = يُنصح به
 vpn-shared-pricing-plan-6-month = 6 أشهر
