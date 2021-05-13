@@ -21,7 +21,7 @@ vpn-shared-features-encrypt = Chiffrement de l’appareil
 vpn-shared-features-servers = Plus de { $servers } serveurs dans plus de { $countries } pays
 vpn-shared-features-bandwidth = Aucune restriction de bande passante
 vpn-shared-features-activity = Aucune trace de votre activité réseau n’est conservée
-vpn-shared-features-activity-logs = Aucun journal d’activité en ligne, ni maintenant ni jamais
+vpn-shared-features-activity-logs = Aucune trace de vos activités en ligne n’est conservée
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Accès aux serveurs de plus de { $countries } pays
@@ -55,6 +55,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } est une marque dépos
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+# Outdated string
 vpn-shared-pricing-variable-heading = Optez pour l’abonnement qui vous convient
 vpn-shared-pricing-variable-sub-heading = Tous nos abonnements comprennent :
 vpn-shared-pricing-recommended-offer = Recommandation
@@ -83,7 +84,7 @@ vpn-shared-platform-trust-partner-headline = À propos de notre partenaire de co
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = Le { -brand-name-mozilla-vpn } fonctionne sur un réseau mondial de serveurs alimentés par <a href="{ $policy }">{ -brand-name-mullvad }</a> en utilisant le protocole <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } a comme priorité de protéger votre vie privée et ne conserve pas de journaux d’aucune sorte.
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } fonctionne sur un réseau mondial de serveurs de <a href="{ $policy }">{ -brand-name-mullvad }</a> en utilisant le protocole <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } a comme priorité de protéger votre vie privée et ne conserve aucune trace de vos activés.
 vpn-shared-platform-what-youll-get = Ce que vous obtiendrez avec { -brand-name-mozilla-vpn } :
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
