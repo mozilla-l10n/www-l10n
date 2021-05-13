@@ -47,7 +47,7 @@ vpn-landing-faq-protected-question-heading = Comment ma confidentialité en lign
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = Le protocole <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® chiffre le trafic de votre réseau en protégeant toutes vos données privées. Par rapport aux protocoles VPN existants, le code léger de { -brand-name-wireguard } est plus facile à examiner et à auditer pour les experts de sécurité, ce qui rend le VPN plus sécurisée. De plus, vos activités en ligne peuvent rester anonymes car avec nous les données personnelles ne sont jamais enregistrées, pistées ou partagées.
+vpn-landing-faq-protected-question-desc = Le protocole <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® chiffre le trafic de votre réseau en protégeant toutes vos données privées. Par rapport aux protocoles VPN existants, le code léger de { -brand-name-wireguard } est plus facile à examiner et à auditer pour les experts de sécurité, ce qui rend le VPN plus sécurisé. De plus, vos activités en ligne peuvent rester anonymes car avec nous les données personnelles ne sont jamais enregistrées, pistées ou partagées.
 vpn-landing-faq-competition-question-heading = Quelles sont les grandes différences entre { -brand-name-mozilla-vpn } et la concurrence ?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
@@ -56,7 +56,7 @@ vpn-landing-faq-compatibility-question-heading = Avec quels appareils { -brand-n
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } est compatible avec vos <a href="{ $mobile }">téléphones</a>, tablettes et <a href="{ $desktop }">ordinateurs de bureau</a> utilisant :
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } est compatible avec vos <a href="{ $mobile }">téléphones</a>, tablettes et <a href="{ $desktop }">ordinateurs de bureau</a> utilisant :
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } est compatible avec :
 # Outdated string
@@ -70,7 +70,7 @@ vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 et p
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (uniquement { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Quelle est la politique de remboursement de { -brand-name-mozilla-vpn } ?
-vpn-landing-faq-refund-question-desc = Vous pouvez vous faire rembourser l'abonnement dans les 30 jours suivant l’achat. Contactez-nous et envoyez la demande de remboursement en appuyant sur le bouton « Obtenir de l’aide » dans les paramètres de votre application { -brand-name-mozilla-vpn }.
+vpn-landing-faq-refund-question-desc = Vous pouvez vous faire rembourser l’abonnement dans les 30 jours suivant l’achat. Contactez-nous et envoyez la demande de remboursement en appuyant sur le bouton « Obtenir de l’aide » dans les paramètres de votre application { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Comment gérer mon abonnement et le changer ?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
