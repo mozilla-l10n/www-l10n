@@ -27,7 +27,7 @@ contribute-task-mozilla-codebase-heading = Ke kodowej bazy { -brand-name-mozilla
 contribute-task-mozilla-codebase-desc = Přinošujće k wjele wuwiwanskim móžnosćam, zo byšće produkty { -brand-name-mozilla } aktiwnje polěpšił.
 contribute-task-support-desc = Pomhajće, wužiwanje produktow { -brand-name-mozilla } wosnadnić. Wotmołwće na prašenja ludźi jako dźěl forumow pomocy { -brand-name-mozilla } zhromadźenstwa.
 contribute-task-join-heading = Přidružće so zhromadźenstwu
-contribute-task-join-desc = Chceće w zhromadźenstwje { -brand-name-mozilla } wjace sobu dźěłać? Informujće so wo móžnosćach za dobronwólnikow w  portalu našeho zhromadźenstwa.
+contribute-task-join-desc = Chceće w zhromadźenstwje { -brand-name-mozilla } wjace sobu dźěłać? Informujće so wo móžnosćach za dobrowólnikow w  portalu našeho zhromadźenstwa.
 
 ## Mission
 
