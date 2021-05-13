@@ -51,7 +51,7 @@ vpn-landing-faq-protected-question-desc = Le protocole <a href="{ $url }" { $att
 vpn-landing-faq-competition-question-heading = Quelles sont les grandes différences entre { -brand-name-mozilla-vpn } et la concurrence ?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
-vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que celui de { -brand-name-mozilla-vpn } en matière de confidentialité, et peuvent vendre ou stocker vos données. D’autres VPN payants n’ont pas la même  <a href="{ $url }">expérience</a>  que { -brand-name-mozilla } qui, depuis 1998, a créé des produits qui mettent leurs utilisateurs et la confidentialité en ligne au premier plan.
+vpn-landing-faq-competition-question-desc = Bien que les VPN gratuits soient attractifs, ils ne sont pas autant engagés que celui de { -brand-name-mozilla } en matière de confidentialité, et peuvent vendre ou stocker vos données. D’autres VPN payants n’ont pas la même <a href="{ $url }">expérience</a> que { -brand-name-mozilla } qui, depuis 1998, a créé des produits qui mettent leurs utilisateurs et la confidentialité en ligne au premier plan.
 vpn-landing-faq-compatibility-question-heading = Avec quels appareils { -brand-name-mozilla-vpn } est-il compatible ?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
