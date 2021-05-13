@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } e { -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } per computers (desktop)
 sub-navigation-features = Funcziunalitads
 sub-navigation-support = Agid
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Supplements
+sub-navigation-add-ons = Supplements
 sub-navigation-faq = Dumondas frequentas
 sub-navigation-learn-more = Ulteriuras infurmaziuns
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } per apparats mobils
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Supplements per { -brand-name-android }
+sub-navigation-android-add-ons = Supplements per { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
