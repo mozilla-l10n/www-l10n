@@ -7,12 +7,15 @@
 
 # HTML page title
 firefox-faq = Cesto stajone pšašanja { -brand-name-firefox }
+whether-you-searched-privacy = Njeźiwajucy na to, lěc sćo pytał malsny wobglědowak, kótaryž wašu priwatnosć šćita, namakajośo how mjazy toś  tymi cesto stajonymi pšašanjami wótegrona na pšašanja nastupajucy { -brand-name-firefox }.
+whether-you-searched-independant = Njeźiwajucy na to, lěc sćo pytał malsny wobglědowak abo za njewótwisneju technologiju pytaśo, kótaryž wašu priwatnosć šćita, namakajośo how mjazy toś tymi cesto stajonymi pšašanjami wótegrona na pšašanja nastupajucy { -brand-name-firefox }.
 what-is-firefox = Co jo { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } jo jadnučki wjeliki wobglědowak, kótaryž se pśez za wše wužytnu organizaciju pódpěra, kótaraž wabjarjam waše wósobinske daty njepśedawa, a wam pomaga, waše wósobinske informacije šćitaś. Zgóńśo wěcej wó <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">drugich produktach.</a>
 how-do-i = Kak mógu se { -brand-name-firefox-browser } wobstaraś?
 
 # Variables:
@@ -27,6 +30,7 @@ is-firefox-free = Jo { -brand-name-firefox } dermotny?
 yep-the-firefox = Jo! { -brand-name-firefox-browser } jo dermotny. Samo wěcej ako dermotny. Žedne schowane kosty abo tak. Njetrjebaśo nic płaśiś, aby jen wužywał a my waše wósobinske daty njepśedawamy.
 related-questions-free = Pódobne pšašanja: Jo { -brand-name-firefox-browser } dermotny, płaśi { -brand-name-firefox } pjenjeze
 is-chrome-better = Jo { -brand-name-chrome } lěpšy ako { -brand-name-firefox }?
+no-we-dont = Ně, njemyslimy se, až { -brand-name-chrome } jo lěpšy ako { -brand-name-firefox } a to jo pśicyna: Gaž luźe se pšašaju, kótary wobglědowak jo lěpšy, pšašaju se pópšawem, kótary wobglědowak jo malsnjejšy a wěsćejšy. { -brand-name-firefox } se kuždy mjasec aktualizěrujo, aby zawěsćił, až maśo nejmalsnjejšyi wobglědowak, kótaryž wašu priwatnosć awtomatiski respektěrujo.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -38,6 +42,7 @@ is-firefox-safe-download = Dajo se { -brand-name-firefox } wěsće ześěgnuś?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Šćit wašeje priwatnosći ma nejwušu prioritu za nas, a zawěsćamy, až instalěrowanje { -brand-name-firefox } na wašych rědach jo cele wěste – ale zawěsććo pśecej, až z dowěry gódnego sedła { -brand-name-mozilla }/{ -brand-name-firefox } ześěgujośo, ako na pśikład <a href="{ $url }">z našogo ześěgnjeńskego boka</a>.
 is-firefox-safe = Jo { -brand-name-firefox } wěsty?
 
 # Variables:
@@ -60,7 +65,7 @@ does-firefox-have = Ma { -brand-name-firefox } zatwarjony VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 related-questions-ip = Pódobne pšašanja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?

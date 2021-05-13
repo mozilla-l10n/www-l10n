@@ -80,4 +80,7 @@ firefox-developer-congrats-you-now-have-firefox = Gratulacija. Maśo něnto { -b
 firefox-developer-this-isnt-just-an-update = To jo nic jano aktualizacija. { -brand-name-firefox-quantum } to jo: Nowučki { -brand-name-firefox }, kótaryž jo se dopołnje nowo wuwił a jo něnto malsnjejšy, elegantnjejšy a mócnjejšy ako do togo.
 firefox-developer-welcome-to-firefox-browser = Witajśo k { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Wobglědowak za wuwijarje
+firefox-developer-all-the-latest = Wšykne nejnowše wuwijaŕske rědy w betawersiji ako teke <strong>eksperimentelne funkcije</strong> ako wěcejsmužkowy konsolowy editor a WebSocket Inspector.
+firefox-developer-a-separate-profile = <strong>Separatny profil a separatna sćažka</strong>, tak móžośo jen z kóńcneju wersiju abo { -brand-name-beta } { -brand-name-firefox } wuwjasć.
+firefox-developer-preferences-tailored = Nastajenja, kotrež su <strong>na webwuwiwarjow wusměrjone</strong>: Pytanje zmólkow wobglědowaka a znazdala stej pó standarźe zmóžnjonej, rowno tak kaž śamna drastwa a tłocašk za wuwijaŕsku symbolowu rědku.
 firefox-developer-congrats-you-now-have = Gratulacija. Maśo něnto { -brand-name-firefox-browser } { -brand-name-developer-edition }.
