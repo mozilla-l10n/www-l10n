@@ -88,7 +88,9 @@ firefox-desktop-download-change-new-tab = Wugótowanje nowego rejtarika změniś
 firefox-desktop-download-make-firefox-your = Pśiměŕśo <strong>{ -brand-name-firefox }</strong> swójim žycenjam
 firefox-desktop-download-extensions-for-every = Rozšyrjenja za kuždy zajm
 firefox-desktop-download-change-up-your = Změńśo naglěd
+firefox-desktop-download-go-from-light = Wuměńśo swětły modus ze śamnym modusom wótwisujucy wót swójeje mysli abo wósebnej lubosći abo wózjawśo wobrazowku ze swójskeju drastwu (snaź tycaty jadnorogac).
 firefox-desktop-download-tweak-your-settings = Pśiměŕśo swóje nastajenja
+firefox-desktop-download-theres-no-need = Njetrjebaśo se ze standardom spokojś. Změńśo bok nowego rejtarika, pytańske pólo, cytańske znamjenja a wěcej, aby internet pó swójom dobrozdaśu wuslěźił.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Pódpěra se pśez <strong>za wše wužytnu</strong> organizaciju
 firefox-desktop-download-challenging-the-status = Cwiblujomy na status quo wót lěta 1998
@@ -113,6 +115,9 @@ firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobg
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jo na wšych wašych rědach k dispoziciji; bjeŕśo swóje rejtariki, swóju historiju a swójecytańske znamjenja sobu. Wšykno, což trjebaśo, jo <a { $attrs }>konto { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele pśeslědowakam tśeśich awtomatiski </a> zawoborujo, waše webaktiwity gromaźiś a pśedawaś.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maśo pšašanja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> buźo wam pomagaś.
