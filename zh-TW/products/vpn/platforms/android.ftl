@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } for { -brand-name-android }
+# Mobile strings
+vpn-android-hero-headline = 使用 { -brand-name-mozilla-vpn } for { -brand-name-android }，保護您的上網隱私
 vpn-android-about-headline = 您可以信任 { -brand-name-mozilla }
 vpn-android-privacy-headline = 只要輕鬆一點即可連線
 # Variables:

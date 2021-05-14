@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
+# Mac strings
+vpn-mac-hero-headline = 使用 { -brand-name-mozilla-vpn } for { -brand-name-mac-short } 保護您的網路連線
 vpn-mac-wifi-headline = 使用公共 Wi-Fi 時也能高枕無憂
 vpn-mac-about-headline = 由您可信任的業者開發
 vpn-mac-privacy-headline = 手指輕鬆一點就開啟隱私保護

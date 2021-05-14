@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } for { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
+# Mobile strings
+vpn-ios-hero-headline = 使用 { -brand-name-mozilla-vpn } for { -brand-name-ios } 保護您的線上生活
 vpn-ios-about-headline = 為什麼可以相信我們？
 vpn-ios-privacy-headline = 一點即連
 # Variables:
