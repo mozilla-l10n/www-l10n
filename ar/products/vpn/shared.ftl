@@ -68,6 +68,7 @@ vpn-shared-wireguard-copyright = يُعتبر { -brand-name-wireguard } علام
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = اختر خطة اشتراك تُناسبك
 
 # Outdated string
 vpn-shared-pricing-variable-heading = اختر خُطة تناسبك
