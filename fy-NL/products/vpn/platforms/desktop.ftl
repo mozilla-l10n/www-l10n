@@ -5,6 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } foar desktop (pc en laptop)
+# Desktop strings
+vpn-desktop-hero-headline = Befeiligje jo ynternetferbining mei { -brand-name-mozilla-vpn } foar desktop
+vpn-desktop-wifi-headline = Fiel jo feilich as jo iepenbiere wifi brûke
 vpn-desktop-about-headline = Oer { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Privacy yn ien klik
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Beskermje maksimaal { $devices } apparaten
 vpn-desktop-log-headline = Jo privacy stiet foarop

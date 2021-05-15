@@ -7,4 +7,10 @@
 
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } foar { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
+vpn-ios-about-headline = Wêrom kinne jo ús fertrouwe?
 vpn-ios-privacy-headline = Ienklikferbining
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Untfang tagong foar { $devices } apparaten
+vpn-ios-speed-headline = Topsnelheden. Unbeheinde data.
+vpn-ios-log-headline = Jo gegevens bliuwe privee. Punt út.
