@@ -15,7 +15,9 @@ vpn-android-maker-of-firefox = Как создатель веб-браузера
 vpn-android-wifi-headline = Оставайтесь в безопасности в Интернете, когда вы в дороге
 vpn-android-wifi-copy = Иногда мобильный трафик недоступен и публичный WiFi — это единственный вариант. С { -brand-name-mozilla-vpn } на вашем устройстве { -brand-name-android } вам никогда не придется беспокоиться о вводимых паролях в аэропорту или об онлайн-покупках в кофейне за углом. Просто подключитесь одним касанием и делайте всё, что хотели.
 vpn-android-about-headline = { -brand-name-mozilla } — имя, которому вы можете доверять
+vpn-android-about-copy = Мы больше всего известны за свой веб-браузер { -brand-name-firefox }, но у { -brand-name-mozilla }, как у крупной организации есть ключевая миссия — бороться за права в Интернете. Мы делаем это с 1998 года. Мы — защитники Интернета и работает над тем, что он был открытым и свободным, и в то же время уважаем права людей на приватность и безопасность.
 vpn-android-privacy-headline = Подключайтесь в одно касание
+vpn-android-privacy-copy = Использовать { -brand-name-mozilla-vpn } на { -brand-name-android } максимально просто. Нажмите кнопку, и ваше соединение автоматически станет зашифрованным при помощи продвинутого протокола { -brand-name-wireguard }®. Всё!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries

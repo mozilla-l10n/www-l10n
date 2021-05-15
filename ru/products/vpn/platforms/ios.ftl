@@ -19,5 +19,8 @@ vpn-ios-servers-headline = Подключайтесь к более чем { $se
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Получите доступ для { $devices } устройств
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = С одной подпиской, вы можете получить доступ к { -brand-name-mozilla-vpn } на { $devices } различных устройствах, включая { -brand-name-ios } для { -brand-name-iphone } и { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } и { -brand-name-linux }.
 vpn-ios-speed-headline = Максимальная скорость. Безлимитный трафик.
 vpn-ios-log-headline = Ваши данные остаются приватными. Точка.
