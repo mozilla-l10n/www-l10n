@@ -29,4 +29,6 @@ vpn-mac-servers-copy = Stel de lokaasje fan jo { -brand-name-mac-short } yn op i
 vpn-mac-devices-headline = Beskermje { $devices } apparaten mei ien abonnemint
 vpn-mac-devices-copy = Jo kompjûter, tablet en snoadfoan fertsjinje allegearre feilich te wêzen. Brûk { -brand-name-mozilla-vpn } om maksimaal { $devices } { -brand-name-mac-short }- en { -brand-name-ios }-apparaten (neist { -brand-name-windows }, { -brand-name-linux } en { -brand-name-android }) te beskermjen.
 vpn-mac-speed-headline = Jo hoege gjin snelheid op te offerjen
+vpn-mac-speed-copy = Unbeheinde data en gjin bânbreedtebeheiningen betstjutte dat jo de úthoeken fan it ynternet ferkenne kinne lykas jo normaal dogge – mei in ekstra befeiligingsnivo.
 vpn-mac-log-headline = Wat jo online dogge is jo saak
+vpn-mac-log-copy = Genietsje fan gemoedsrêst wannear't jo de { -brand-name-mozilla-vpn } brûke. Jo gegevens wurde fersifere, jo aktiviteit wurdt nea logd en jo privacy is altyd beskerme. Dat is ús belofte oan jo.

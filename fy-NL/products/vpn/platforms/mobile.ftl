@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } foar mobyl (snoadfoans en tablets)
+vpn-mobile-page-description = Beskermje jo snoadfoan en tablet mei in VPN fan { -brand-name-mozilla }, de fertroude pionier op it mêd fan ynternetprivacy.
 # Mobile strings
 vpn-mobile-hero-headline = Befeiligje jo privacy op mobyl mei { -brand-name-mozilla-vpn }
 vpn-mobile-wifi-headline = Fiel jo feilich as jo iepenbiere wifi brûke
