@@ -26,3 +26,14 @@ vpn-platforms-shared-feature-item-access = Tagong ta servers yn mear as { $count
 vpn-platforms-shared-feature-item-strong-servers = Krêftige servers yn mear as { $countries } lannen
 vpn-platforms-shared-feature-item-encryption = Fersifering op apparaatnivo
 vpn-platforms-shared-feature-item-bandwidth = Gjin bânbreedtebeheiningen
+vpn-platforms-shared-feature-item-logs = Nea logs fan online aktiviteiten
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Desktop
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Mobyl
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = Oer ús fertroude partner

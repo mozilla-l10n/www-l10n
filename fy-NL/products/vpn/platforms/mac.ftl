@@ -14,3 +14,6 @@ vpn-mac-hero-headline = Beskermje jo online ferbining mei { -brand-name-mozilla-
 vpn-mac-wifi-headline = Foel jo feilich op twiveleftige wifi
 vpn-mac-about-headline = Fan in fertroude technologybouwer
 vpn-mac-privacy-headline = Privacy binnen hânberik
+vpn-mac-servers-headline = Tagong ta servers oer de hiele wrâld
+vpn-mac-speed-headline = Jo hoege gjin snelheid op te offerjen
+vpn-mac-log-headline = Wat jo online dogge is jo saak

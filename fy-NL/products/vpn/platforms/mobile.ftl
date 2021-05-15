@@ -5,5 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } foar mobyl (snoadfoans en tablets)
+# Mobile strings
+vpn-mobile-hero-headline = Befeiligje jo privacy op mobyl mei { -brand-name-mozilla-vpn }
+vpn-mobile-wifi-headline = Fiel jo feilich as jo iepenbiere wifi brûke
+vpn-mobile-about-headline = Oer { -brand-name-mozilla }
+vpn-mobile-privacy-headline = Privacy yn ien klik
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Beskermje maksimaal { $devices } apparaten
+vpn-mobile-speed-headline = Bjusterbaarlike snelheid, gjin beheiningen
 vpn-mobile-log-headline = Jo privacy stiet foarop
 vpn-mobile-log-copy = By { -brand-name-mozilla } sammelje wy gjin gegevens oer wa't jo binne en logge wy jo online aktiviteit net – net fia ús VPN of ien fan ús oare produkten. It beskermjen fan jo privacy is in kearnprinsipe fan de gruttere missy fan { -brand-name-mozilla }.
