@@ -15,6 +15,10 @@ vpn-linux-wifi-headline = Bliuw feilich online as jo iepenbiere wifi brûke moat
 vpn-linux-about-headline = In fertroude namme sûnt 1998
 vpn-linux-privacy-headline = Befeiliging mar ien klik fuort
 # Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Meitsje ferbining mei mear as { $servers } servers yn mear as { $countries } ferskillende lannen
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Ferbyn oant { $devices } apparaten
 vpn-linux-speed-headline = Ultrafluch mei ûnbeheinde data

@@ -15,5 +15,8 @@ vpn-mac-wifi-headline = Foel jo feilich op twiveleftige wifi
 vpn-mac-about-headline = Fan in fertroude technologybouwer
 vpn-mac-privacy-headline = Privacy binnen hânberik
 vpn-mac-servers-headline = Tagong ta servers oer de hiele wrâld
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Beskermje { $devices } apparaten mei ien abonnemint
 vpn-mac-speed-headline = Jo hoege gjin snelheid op te offerjen
 vpn-mac-log-headline = Wat jo online dogge is jo saak

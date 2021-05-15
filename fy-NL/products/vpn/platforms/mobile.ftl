@@ -12,6 +12,7 @@ vpn-mobile-hero-headline = Befeiligje jo privacy op mobyl mei { -brand-name-mozi
 vpn-mobile-wifi-headline = Fiel jo feilich as jo iepenbiere wifi brûke
 vpn-mobile-about-headline = Oer { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Privacy yn ien klik
+vpn-mobile-servers-headline = Meitsje ferbining mei servers fan oer de hiele wrâld
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Beskermje maksimaal { $devices } apparaten

@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } foar { -brand-name-android }
+vpn-android-wifi-headline = Bliuw ûnderweis online feilich
 vpn-android-about-headline = { -brand-name-mozilla } is in namme dy't jo fertrouwe kinne
 vpn-android-privacy-headline = Ien tik om ferbining te meitsjen
 # Variables:

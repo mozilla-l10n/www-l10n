@@ -12,7 +12,9 @@ vpn-desktop-hero-headline = Befeiligje jo ynternetferbining mei { -brand-name-mo
 vpn-desktop-wifi-headline = Fiel jo feilich as jo iepenbiere wifi brûke
 vpn-desktop-about-headline = Oer { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Privacy yn ien klik
+vpn-desktop-servers-headline = Meitsje ferbining mei servers fan oer de hiele wrâld
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Beskermje maksimaal { $devices } apparaten
+vpn-desktop-speed-headline = Bjusterbaarlike snelheid, gjin beheiningen
 vpn-desktop-log-headline = Jo privacy stiet foarop

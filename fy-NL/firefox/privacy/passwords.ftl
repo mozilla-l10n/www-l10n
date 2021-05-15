@@ -27,6 +27,7 @@ privacy-passwords-stealing-a-file = In bestân stelle wêryn jo wachtwurd sit
 privacy-passwords-using-password-recovery = Gebrûk meitsje fan wachtwurdwerstel om it opnij te inisjalisearjen
 privacy-passwords-tricking-you-into = Jo misliede it oan se te jaan
 privacy-passwords-to-keep-your = Om jo oanmelding feilich te hâlden, moatte jo sa folle mooglik hjirfan foarkomme. Elk risiko wurdt op in oare manier oanpakt.
+privacy-passwords-look-for-the = Sjoch nei it slotsje yn jo browser
 privacy-passwords-strength-in-diversity = Krêft yn ferskaat
 privacy-passwords-get-help-from = Krij help fan in wachtwurdbehearder
 privacy-passwords-twofactor-authentication-2fa = Twafaktorautentikaasje (2FA)

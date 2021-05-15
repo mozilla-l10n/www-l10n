@@ -15,3 +15,6 @@ vpn-windows-wifi-headline = Bliuw privee op iepenbiere wifi
 vpn-windows-about-headline = Fan de lieder yn ynternetprivacy
 vpn-windows-privacy-headline = Beskerming mei ien druk op de knop
 vpn-windows-servers-headline = Tagong ta servers oer de hiele wrâld
+vpn-windows-devices-headline = Ien abonnemint foar al jo apparaten
+vpn-windows-speed-headline = Gjin bânbreedtebeheiningen
+vpn-windows-log-headline = Jo privacy is ús prioriteit
