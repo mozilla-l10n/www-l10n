@@ -20,7 +20,12 @@ vpn-linux-privacy-headline = Один щелчок до безопасности
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = Подключайтесь к более чем { $servers } серверам в { $countries } разных странах
 # Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } даёт вам возможность изменить для веб-сайтов местоположение вашего { -brand-name-linux }-компьютера на одну из более чем { $countries } стран, открывая вам доступ к новому, восхитительному контенту со всего мира.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Подключите до { $devices } устройств
+vpn-linux-devices-copy = С одной подпиской, вы можете получить доступ к { -brand-name-mozilla-vpn } на { $devices } различных устройствах с различными операционными системами, включая { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } и { -brand-name-ios } для { -brand-name-iphone } и { -brand-name-ipad }.
 vpn-linux-speed-headline = Сверхбыстрый с неограниченным трафиком
+vpn-linux-speed-copy = Играйте в игры, смотрите фильмы и передачи, и перемещайтесь по Интернету на ультра-высоких скоростях без сужения ширины канала — { -brand-name-mozilla-vpn } не имеет границ.
 vpn-linux-log-headline = Ваши данные принадлежат вам
