@@ -22,4 +22,6 @@ vpn-linux-servers-headline = Meitsje ferbining mei mear as { $servers } servers 
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Ferbyn oant { $devices } apparaten
 vpn-linux-speed-headline = Ultrafluch mei ûnbeheinde data
+vpn-linux-speed-copy = Spylje games, stream films en programma’s en sneup op it web mei ultrahege snelheden en sûnder beheining fan de bânbreedte – { -brand-name-mozilla-vpn } is ûnbeheind.
 vpn-linux-log-headline = Jo gegevens binne fan jo
+vpn-linux-log-copy = Guon VPN’s logge jo aktiviteit op harren servers. { -brand-name-mozilla-vpn } folget jo net online – dat is feitlik in grut part fan wêr't wy as bedriuw foar stean.
