@@ -29,6 +29,7 @@ privacy-passwords-tricking-you-into = Jo misliede it oan se te jaan
 privacy-passwords-to-keep-your = Om jo oanmelding feilich te hâlden, moatte jo sa folle mooglik hjirfan foarkomme. Elk risiko wurdt op in oare manier oanpakt.
 privacy-passwords-look-for-the = Sjoch nei it slotsje yn jo browser
 privacy-passwords-strength-in-diversity = Krêft yn ferskaat
+privacy-passwords-security-questions-my = Befeiligingsfragen: de famkesnamme fan myn mem is ‘Ff926AKa9j6Q’
 privacy-passwords-get-help-from = Krij help fan in wachtwurdbehearder
 privacy-passwords-twofactor-authentication-2fa = Twafaktorautentikaasje (2FA)
 privacy-passwords-strong-diverse-and = Sterk, ferskaat, en multifaktor

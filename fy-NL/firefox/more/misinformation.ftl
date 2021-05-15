@@ -27,8 +27,13 @@ misinformation-outdated-information = Ferâldere ynformaasje hoecht net bedoeld 
 misinformation-credible-publication = Hat de auteur oare artikels of berjochten publisearre, ideaal ek yn betroubere publikaasjes?
 misinformation-authors-name = As jo de namme fan de auteur allinnich fine op twiveleftige websites, moatte jo net te folle wearde hechtsje oan har útspraken.
 misinformation-images-captions = Komme ôfbyldingen en byskriften oerien?
+misinformation-images-are-powerful = Ofbyldingen binne in hiel krêftich helpmiddel foar rjochte desynformaasje. Ofhinklik fan it byskrift kin de persepsje ferdraaid wurde oant it absolute tsjinoerstelde. As jo net wis binne, fier dan in omkearde sykopdracht út nei de ôfbylding, om derefter te kommen hoe't de ôfbylding op oare websites beskreaun wurdt.
 misinformation-how-firefox-helps-heading = Hoe { -brand-name-firefox } jo helpt misynformaasje te mijen
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } hâldt trackers ûnder kontrôle:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Lykas hjirfoar neamd spilet folgjen in grutte rol yn de fersprieding fan misynformaasje. <a href="{ $firefox }">Gebrûk fan { -brand-name-firefox } mei</a> <a href="{ $protection }">Ferbettere beskerming tsjin folgjen</a> helpt troch eksterne trackers fan in protte advertearders en oaren standert te blokkearjen as jo op it ynternet sneupe, sadat jo wer kontrôle krije oer jo onlinegegevens.
 misinformation-social-media-clean-heading = { -brand-name-firefox } helpt jo de tiidlinen op jo sosjale media skjin te hâlden:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } helpt jo ynhâld te ûntdekken dy't jo tiid wurdich is:
