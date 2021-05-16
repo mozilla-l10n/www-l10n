@@ -14,6 +14,9 @@ history-it-was-intended-to-harness = It wie bedoeld om de kreative krêft fan t�
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
 history-within-the-first-year-new = Binnen it <a href="{ $firstyear }">earste jier</a> hiene nije mienskipsleden fan oer de hiele wrâld al nije funksjes ûntwikkele en besteande funksjes ferbettere, en reitsjen se belutsen by it behear en de planning fan it projekt sels.
+# Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = Troch in iepen mienskip te foarmjen, wie it { -brand-name-mozilla }-projekt <a href="{ $stevecase }">grutter wurden as hokker bedriuw ek</a>.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fierde ek har 15e jierdei yn 2013.
 history-the-community-has-shown = De mienskip hat oantoand dat kommersjele bedriuwen baat hawwe kinne by gearwurking yn iepenboarneprojekten, en dat geweldige produkten foar einbrûkers as iepeboarnesoftware makke wurde kinne.
 # Variables:
