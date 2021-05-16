@@ -33,8 +33,11 @@ privacy-passwords-its-easy-to = It is maklik foar te kommen dat oanfallers jo wa
 privacy-passwords-a-closed-lock = In sluten hingslot ferskynt yn alle grutte browsers deun foar it website-adres yn de adresbalke.
 privacy-passwords-the-lock-means = It slot betsjut dat de besochte website fersifere is, sadat sels as ien mei sjocht mei jo sneupaktiviteit op it netwurk (lykas in oar op in iepenbiere wifi-hotspot), dizze jo wachtwurd net sjen kinne. { -brand-name-firefox } probearret jo te warskôgjen as jo op it punt stean in wachtwurd yn te typen op in net-fersifere website.
 privacy-passwords-a-padlock-with = In hingslot mei in streep dertroch jout oan dat de ferbining net feilich is.
+privacy-passwords-firefox-will = Firefox toant in warskôging yn stee fan de website as it in bekende phishingwebsite is.
 privacy-passwords-strength-in-diversity = Krêft yn ferskaat
 privacy-passwords-security-questions-my = Befeiligingsfragen: de famkesnamme fan myn mem is ‘Ff926AKa9j6Q’
 privacy-passwords-get-help-from = Krij help fan in wachtwurdbehearder
 privacy-passwords-twofactor-authentication-2fa = Twafaktorautentikaasje (2FA)
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = Jo { -brand-name-firefox }-account kin bygelyks beskerme wurde mei 2FA, <a { $url_sumo_2fa }>wêroer jo hjir mear ynfo fine</a>.
 privacy-passwords-strong-diverse-and = Sterk, ferskaat, en multifaktor
