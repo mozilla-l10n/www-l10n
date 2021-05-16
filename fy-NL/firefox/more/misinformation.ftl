@@ -35,6 +35,9 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } hâldt t
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Lykas hjirfoar neamd spilet folgjen in grutte rol yn de fersprieding fan misynformaasje. <a href="{ $firefox }">Gebrûk fan { -brand-name-firefox } mei</a> <a href="{ $protection }">Ferbettere beskerming tsjin folgjen</a> helpt troch eksterne trackers fan in protte advertearders en oaren standert te blokkearjen as jo op it ynternet sneupe, sadat jo wer kontrôle krije oer jo onlinegegevens.
 misinformation-social-media-clean-heading = { -brand-name-firefox } helpt jo de tiidlinen op jo sosjale media skjin te hâlden:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Sosjale netwurken witte in protte oer jo. Dêrneist kinne se jo bûten harren platfoarm folgje mei harren ‘Diele’- en ‘Mei-ik-wol-oer’-knoppen, nettsjinsteande Beskerming tsjin folgjen – sels as jo gjin account hawwe. De <a href="{ $container }">{ -brand-name-facebook-container }</a> foar { -brand-name-firefox } soarget derfoar dat { -brand-name-facebook } en { -brand-name-instagram } dit net sa ienfâldich dwaan kinne, wat de kâns op it sjen fan misynformaasje fia advertinsjes en promoate ynhâld sichtber lytser makket.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } helpt jo ynhâld te ûntdekken dy't jo tiid wurdich is:
 misinformation-why-trust-firefox = Wêrom kinne jo { -brand-name-firefox } fertrouwe?
