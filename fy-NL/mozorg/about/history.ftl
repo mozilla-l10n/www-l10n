@@ -11,6 +11,9 @@ history-history-of-the-mozilla-project = Skiednis fan it { -brand-name-mozilla }
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = It { -brand-name-mozilla }-projekt is <a href="{ $coderush }">yn 1998 start</a> mei de <a href="{ $sourcerelease }">frijjefte fan de boarnekoade fan it { -brand-name-netscape }-browserpakket</a>.
 history-it-was-intended-to-harness = It wie bedoeld om de kreative krêft fan tûzenen programmeurs op it ynternet te bondeljen en in ferskuorrend ynnovaasjenivo yn de browsermerke te stimulearjen.
+# Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = Binnen it <a href="{ $firstyear }">earste jier</a> hiene nije mienskipsleden fan oer de hiele wrâld al nije funksjes ûntwikkele en besteande funksjes ferbettere, en reitsjen se belutsen by it behear en de planning fan it projekt sels.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fierde ek har 15e jierdei yn 2013.
 history-the-community-has-shown = De mienskip hat oantoand dat kommersjele bedriuwen baat hawwe kinne by gearwurking yn iepenboarneprojekten, en dat geweldige produkten foar einbrûkers as iepeboarnesoftware makke wurde kinne.
 # Variables:
