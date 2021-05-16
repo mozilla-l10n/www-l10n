@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-page-title = โอกาสในการเป็นอาสาสมัครที่ { -brand-name-mozilla }
 contribute-how-heading = วิธีการที่คุณสามารถมีส่วนร่วม…
 
 ## Contribution tasks
