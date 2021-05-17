@@ -37,6 +37,7 @@ privacy-passwords-your-browser-also = Jo browser helpt jo ek op de hichte te bli
 privacy-passwords-firefox-will = Firefox toant in warskôging yn stee fan de website as it in bekende phishingwebsite is.
 privacy-passwords-in-general-the = Oer it algemien is de bêste ferdigening tsjin phishing <strong>wantrouwend te wêzen foar wat jo ûntfange</strong>, of dat no yn in e-mailberjocht, in sms of telefonysk is. Besykje yn stee fan te hanneljen op basis fan wat ien jo stjoerd hat de website streekrjocht. As der bygelyks yn in e-mailberjocht stiet dat jo jo PayPal-wachtwurd opnij ynstelle moatte, klik dan net op de keppeling. Typ sels paypal.com yn. As de bank bellet, bel se dan werom.
 privacy-passwords-strength-in-diversity = Krêft yn ferskaat
+privacy-passwords-the-secret-to = It geheim om rieden, dieverij of it opnij ynstellen fan wachtwurden foar te kommen, is in protte eigenwille. Wannear't oanfallers wachtwurden probearje te rieden, dogge se meastentiids twa dingen: 1) se brûke ‘wurdboeken’ – listen mei faaks brûkte wachtwurden, en 2) se riede eigenwillich. Hoe <strong>langer en eigenwilliger jo wachtwurd is</strong>, hoe lytser de kâns dat ien fan dizze riedtechniken it fine sille.
 privacy-passwords-security-questions-my = Befeiligingsfragen: de famkesnamme fan myn mem is ‘Ff926AKa9j6Q’
 privacy-passwords-get-help-from = Krij help fan in wachtwurdbehearder
 privacy-passwords-twofactor-authentication-2fa = Twafaktorautentikaasje (2FA)
