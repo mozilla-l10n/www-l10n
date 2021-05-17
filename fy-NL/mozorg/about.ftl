@@ -8,18 +8,18 @@
 # HTML Page title
 about-learn-about-mozilla = Ynfo oer { -brand-name-mozilla }
 # HTML page description
-about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } makket browsers, apps, koade en helpmiddelen dy't minsken foar winst stelle. Us misje: it ynternet foar elkenien iepen en tagonklik hâlde.
+about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } makket browsers, apps, koade en helpmiddelen dy't minsken foar winst stelle. Us missy: it ynternet foar elkenien iepen en tagonklik hâlde.
 # Main heading
 about-mozilla-makes-browsers-apps = { -brand-name-mozilla } makket browsers, apps, koade en helpmiddelen dy't minsken foar winst stelle.
 # Main sub-heading
-about-our-mission-keep-the-internet = Us misje: it ynternet foar elkenien iepen en tagonklik hâlde.
+about-our-mission-keep-the-internet = Us missy: it ynternet foar elkenien iepen en tagonklik hâlde.
 # Main call to action
-about-read-our-mission = Lês ús misje
-about-our-mission-in-action = Us misje yn aksje
+about-read-our-mission = Lês ús missy
+about-our-mission-in-action = Us missy yn aksje
 about-pioneers-of-the-open-web = Pioniers fan it Iepen Web
 about-our-leadership-has-been-at = Us liederskip hat sûnt dei 1 it inisjatyf nommen by de bou fan in sûner ynternet. Wat as alternatyf foar saaklike oerhearsking begûn, is útgroeid ta in wrâldwide foarbyldfunksje online.
 about-firefox-fast-for-good = { -brand-name-firefox }: fluch foar it goede
-about-when-you-use-the-new-firefox = As jo de nije { -brand-name-firefox } brûke, krije jo in razendflugge ûnderfining en stypje jo { -brand-name-mozilla }’s misje om it ynternet foar elkenien sûn, bysûnder en gastfrij te hâlden.
+about-when-you-use-the-new-firefox = As jo de nije { -brand-name-firefox } brûke, krije jo in razendflugge ûnderfining en stypje jo { -brand-name-mozilla }’s missy om it ynternet foar elkenien sûn, bysûnder en gastfrij te hâlden.
 about-walking-our-privacy-talk = Praatsje oer ús privacy
 about-when-the-facebook-breach-was = Doe it { -brand-name-facebook }-datalek bekend waard, hie { -brand-name-mozilla } daliks in antwurd – en in { -brand-name-firefox }-produkt om brûkersprivacy te stypjen.
 about-talking-internet-issues-irl = Ynternetproblemen yn it echte libben
@@ -42,7 +42,7 @@ about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> jierliks konsumearre flessen kâld sette kofje.
 about-work-at-mozilla = Wurkje by { -brand-name-mozilla }
-about-join-a-mission-driven-organization = Slút jo oan by in troch in misje dreaun organisaasje dy't doelfêste produkten makket.
+about-join-a-mission-driven-organization = Slút jo oan by in troch in missy dreaun organisaasje dy't doelfêste produkten makket.
 about-mozilla-careers = Karriêren by { -brand-name-mozilla }
 about-how-you-can-help = Hoe't jo helpe kinne
 about-your-voice-your-code-your = Jo stim. Jo koade. Jo stipe. Der binne sa folle manieren om mei te fjochtsjen foar in sûn ynternet.

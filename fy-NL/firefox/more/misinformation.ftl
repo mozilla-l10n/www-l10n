@@ -49,7 +49,7 @@ misinformation-surface-content-desc = As jo in nij ljepblêd yn jo { -brand-name
 misinformation-why-trust-firefox = Wêrom kinne jo { -brand-name-firefox } fertrouwe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-misinformation-because-we-put-people-first = Omdat wy minsken foarop stelle. Sterker noch, wy wurde stipe troch in <a href="{ $foundation }">non-profit</a>. Fan it begjin ôf is it ús misje west om it ynternet en al har brûkers te beskermjen.
+misinformation-because-we-put-people-first = Omdat wy minsken foarop stelle. Sterker noch, wy wurde stipe troch in <a href="{ $foundation }">non-profit</a>. Fan it begjin ôf is it ús missy west om it ynternet en al har brûkers te beskermjen.
 misinformation-learn-more-about-our-mission = Mear ynfo oer ús missy
 misinformation-your-privacy-by-the-product = Jo privacy, troch it produkt
 misinformation-firefox-products-work-differently = { -brand-name-firefox }-produkten wurkje oars – omdat se ûntwurpen binne om foarearst jo privacy te beskermjen.

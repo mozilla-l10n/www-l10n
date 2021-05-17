@@ -80,6 +80,23 @@ vpn-shared-platform-cta-headline = Litte wy begjinne
 vpn-shared-platform-cta-button = Prizen en beskikberheid
 vpn-shared-platform-privacy-promise = Jo privacy is ús belofte
 vpn-shared-platform-trust-partner-headline = Oer ús fertroude partner
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = De { -brand-name-mozilla-vpn } draait op in wrâldwiid netwurk fan servers dy't oandreaun wurde troch <a href="{ $policy }">{ -brand-name-mullvad }</a> en brûkt it <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®-protokol. { -brand-name-mullvad } set jo privacy foarop en hâldt gjin inkelde log by.
+vpn-shared-platform-what-youll-get = Wat krije jo mei { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Wat is in VPN?
+vpn-subnav-faqs = FAQ’s
+vpn-subnav-get-help = Help krije
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Desktop
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Mobyl
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 

@@ -34,7 +34,7 @@ firefox-privacy-hub-theres-no-hidden-agenda-here = Wy hawwe gjin ferburgen agind
 firefox-privacy-hub-why-trust-firefox = Wêrom kinne jo { -brand-name-firefox } fertrouwe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-firefox-privacy-hub-because-we-put-people-first = Omdat wy minsken foarop stelle. Sterker noch, wy wurde stipe troch in <a href="{ $foundation }">non-profit</a>. Fan it begjin ôf is it ús misje west om it ynternet en al har brûkers te beskermjen.
+firefox-privacy-hub-because-we-put-people-first = Omdat wy minsken foarop stelle. Sterker noch, wy wurde stipe troch in <a href="{ $foundation }">non-profit</a>. Fan it begjin ôf is it ús missy west om it ynternet en al har brûkers te beskermjen.
 firefox-privacy-hub-learn-more-about-our-mission = Mear ynfo oer ús missy
 firefox-privacy-hub-your-privacy-by-the-product = Jo privacy, troch it produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-produkten wurkje oars – omdat se ûntwurpen binne om foarearst jo privacy te beskermjen.
