@@ -45,7 +45,14 @@ vpn-landing-faq-info-question-heading = Hokker ynformaasje bewarret de { -brand-
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Wy logge, folgje of diele neat fan jo netwurkaktiviteit. Wy hâlde ús strikt oan de <a href="{ $url }">gegevensprivacyprinsipen</a> fan { -brand-name-mozilla } en wy sammelje allinnich de gegevens dy't nedich binne om de VPN wurkje te litten en it produkt yn de rin fan de tiid te ferbetterjen.
 vpn-landing-faq-protected-question-heading = Hoe wurdt myn privacy beskerme?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = It <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokol fersiferet jo netwurkferkear, wêrtroch al jo priveegegevens beskerme wurde. Yn fergeliking mei besteande VPN-protokollen is de ljochtgewicht koade fan { -brand-name-wireguard } ienfâldiger te beoardielen en auditen troch befeiligingsanalisten – wat it in feiliger opsje makket foar de VPN. Dêrneist bliuwe jo online aktiviteiten anonym, omdat wy jo netwurkgegevens nea logge, folgje of diele.
 vpn-landing-faq-competition-question-heading = Hoe ferhâldt { -brand-name-mozilla-vpn } harren ta de konkurrinsje?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Hoewol fergeze VPN’s oantreklik lykje, gean se net deselde ferplichtingen mei betrekking ta privacy oan as { -brand-name-mozilla-vpn } en kinne se jo gegevens ferkeapje of bewarje. Oare betelle VPN’s kinne net bôgje op de <a href="{ $url }">reputaasje</a> fan { -brand-name-mozilla } fan mear as 20 jier fan it bouwen fan produkten dy't minsken en privacy foarop stelle.
 vpn-landing-faq-compatibility-question-heading = Mei hokker apparaten is { -brand-name-mozilla-vpn } kompatibel?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
