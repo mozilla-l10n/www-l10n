@@ -30,6 +30,29 @@ history-after-several-years-of-development = Nei in oantal jierren ûntwikkeling
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Tsjin 2002 sneupe <a href="{ $over90 }">mear as 90% fan de ynternetbrûkers</a> mei { -brand-name-ie }.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = It waard doetiids net troch in protte minsken opmerke, mar yn dat jier waard ek de earste ferzje fan Phoenix (letter omneamd nei { -brand-name-firefox }) troch { -brand-name-mozilla }-mienskipsleden útbrocht, mei as doel de <a href="{ $charter }">bêst mooglike sneupûnderfining</a> foar in sa grut mooglik publyk te bieden.
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = Yn 2003 stichte it { -brand-name-mozilla }-projekt de { -brand-name-mozilla-foundation }, in <a href="{ $foundation }">ûnôfhinklike non-profitorganisaasje</a>, stipe troch partikuliere donateurs en ferskate bedriuwen.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = De nije { -brand-name-mozilla-foundation } naam de rol fan it deistich behear fan it projekt oer, en naam ek offisjeel de rol fan it befoarderjen fan <a href="{ $manifesto }">iepenheid, ynnovaasje en mooglikheden</a> op it ynternet op har.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Dit die se troch nije ferzjes fan software lykas { -brand-name-firefox } en { -brand-name-thunderbird } útbringe te bliuwen, en troch aktiviteiten út te wreidzjen nei nije gebieden, lykas it takennen fan <a href="{ $grants }">beurzen</a> om tagonklikheidsferbetteringen op it web te stypjen.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> waard útbrocht yn 2004 en waard in grut sukses – yn minder as in jier waard it <a href="{ $millions }">mear as 100 miljoen kear</a> download.
+history-new-versions-of-firefox = Sûnt doe binne regelmjittich nije ferzjes fan { -brand-name-firefox } ferskynd en waarden hieltyd nije rekôrs fêstige. De populariteit fan { -brand-name-firefox } hat holpen de kar werom te bringen by brûkers.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = De fernijde konkurrinsje hat <a href="{ $innovation }">ynnovaasje fersneld</a> en it ynternet foar elkenien ferbettere.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = Yn 2013 lansearren wy <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> om de folsleine krêft fan it web op snoadfoans los te litten en opnij kontrôle en kar te bieden oan in nije online kommende generaasje.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fierde ek har 15e jierdei yn 2013.
 history-the-community-has-shown = De mienskip hat oantoand dat kommersjele bedriuwen baat hawwe kinne by gearwurking yn iepenboarneprojekten, en dat geweldige produkten foar einbrûkers as iepeboarnesoftware makke wurde kinne.
 # Variables:
