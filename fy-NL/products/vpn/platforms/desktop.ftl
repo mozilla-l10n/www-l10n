@@ -22,7 +22,14 @@ vpn-desktop-privacy-headline = Privacy yn ien klik
 vpn-desktop-privacy-copy = De { -brand-name-mozilla-vpn }-app fersiferet jo ynternetferbining en ferstoppet it IP-adres op jo mobile telefoan of tablet troch gebrûk te meitsjen fan it avansearre { -brand-name-wireguard }®-protokol.
 vpn-desktop-servers-headline = Meitsje ferbining mei servers fan oer de hiele wrâld
 # Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Sneup fan Brazilië út. Spylje fan Japan út. Stream fan Meksiko út. Mei { -brand-name-mozilla-vpn } kinne jo de lokaasje fan jo telefoan of kompjûter wizigje yn ien fan de { $servers } servers.
+# Obsolete string
+vpn-desktop-servers-copy = Sneup fan Brazilië út. Spylje fan Japan út. Stream fan Meksiko út. Mei { -brand-name-mozilla-vpn } kinne jo de lokaasje fan jo telefoan of kompjûter wizigje yn ien fan de { $servers } ferskillende lokaasjes.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Beskermje maksimaal { $devices } apparaten
+vpn-desktop-devices-copy = Mei jo abonnemint krije jo ûnbeheinde tagong ta ús befeilige VPN-tsjinst op jo snoadfoan, tablet en desktop foar { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } en { -brand-name-linux }.
 vpn-desktop-speed-headline = Bjusterbaarlike snelheid, gjin beheiningen
+vpn-desktop-speed-copy = Stream fideo’s, spylje spultsjes, winkelje en sneup bjusterbaarlik fluch. { -brand-name-mozilla-vpn } beheint jo bânbreedte net en fertraget jo snoadfoan net.
 vpn-desktop-log-headline = Jo privacy stiet foarop
