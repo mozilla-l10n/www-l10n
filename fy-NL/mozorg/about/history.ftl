@@ -17,6 +17,19 @@ history-within-the-first-year-new = Binnen it <a href="{ $firstyear }">earste ji
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Troch in iepen mienskip te foarmjen, wie it { -brand-name-mozilla }-projekt <a href="{ $stevecase }">grutter wurden as hokker bedriuw ek</a>.
+# Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Mienskipsleden giene meidwaan en fergrutten it berik fan de <a href="{ $mission }">oarspronklike missy</a> fan it projekt – yn stee fan allinnich mar oan de folgjende browser fan { -brand-name-netscape } te wurkjen, begûnen minsken <a href="{ $browsers }">útienrinnende browsers</a>, <a href="{ $bugzilla }">ûntwikkelhelpmiddelen</a> en in rige oare <a href="{ $projects }">projekten</a> te meitsjen.
+history-people-contributed-to-mozilla = Minsken levere op ferskate wizen bydragen oan { -brand-name-mozilla }, mar elkenien hie in passy foar it meitsjen fan fegeze software dy't derfoar soargje soe dat minsken in kar hawwe yn hoe't se it ynternet belibje.
+# Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Nei in oantal jierren ûntwikkeling waard yn 2002 <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, de earste grutte ferzje, útbrocht. Yn dizze ferzje sieten in protte ferbetteringen yn de browser, e-mailclient en oare tapassingen yn it pakket, mar it waard net troch in protte minsken brûkt.
+# Variables:
+#   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
+history-by-2002-well-over-90 = Tsjin 2002 sneupe <a href="{ $over90 }">mear as 90% fan de ynternetbrûkers</a> mei { -brand-name-ie }.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fierde ek har 15e jierdei yn 2013.
 history-the-community-has-shown = De mienskip hat oantoand dat kommersjele bedriuwen baat hawwe kinne by gearwurking yn iepenboarneprojekten, en dat geweldige produkten foar einbrûkers as iepeboarnesoftware makke wurde kinne.
 # Variables:
