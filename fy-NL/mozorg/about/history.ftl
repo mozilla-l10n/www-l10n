@@ -58,6 +58,10 @@ history-the-community-has-shown = De mienskip hat oantoand dat kommersjele bedri
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Mear minsken as ea tefoaren brûke it ynternet en ûnderfine it <a href="{ $all }">yn harren eigen taal</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Der is in duorsume organisaasje opset dy't merkemechanismen brûkt om in missy foar it grutte publyk te stypjen, en dit model is troch oaren opnij brûkt om iepen, transparante en gearwurkjende organisaasjes yn in <a href="{ $range }">breed skala</a> <a href="{ $areas }">fan gebieden</a> op te setten.
 history-the-future-is-full-of-challenges = De takomst sit fol útdagingen en mooglikheden lykas dy yn ús ferline.
 history-theres-no-guarantee-that = Der is gjin garânsje dat it ynternet iepen, plezierich of feilich bliuwe sil.
 history-mozilla-will-continue-to = { -brand-name-mozilla } sil trochgean mei it bieden fan mooglikheden foar minsken om harren stim hearre te litten en harren eigen onlinelibben foarm te jaan.
