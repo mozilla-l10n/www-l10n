@@ -18,6 +18,7 @@ vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } beskermet jo ynternetferbini
 vpn-windows-about-headline = Fan de lieder yn ynternetprivacy
 vpn-windows-about-copy = As de non-profitorganisaasje efter de { -brand-name-firefox-browser } is { -brand-name-mozilla } in mienskip fan ynternetboargers fan oer de hiele wrâld dy't harren ynsette om it ynternet in frije en iepen boarne foar elkenien te hâlden. De missy fan { -brand-name-mozilla }, om minsken boppe winst te stellen, soarget derfoar dat jo by elk produkt dat wy meitsje op it earste plak komt.
 vpn-windows-privacy-headline = Beskerming mei ien druk op de knop
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } fersiferet jo ynternetferbining en beskermet jo IP-adres tsjin nijsgjirrige blikken op jo desktop of tablet mei it avansearre { -brand-name-wireguard }®-protokol.
 vpn-windows-servers-headline = Tagong ta servers oer de hiele wrâld
 vpn-windows-devices-headline = Ien abonnemint foar al jo apparaten
 vpn-windows-speed-headline = Gjin bânbreedtebeheiningen
