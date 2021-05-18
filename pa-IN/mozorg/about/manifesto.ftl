@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = ਮੌਜ਼ੀਲਾ ਘੋਸ਼ਣਾ-ਪੱਤਰ
+manifesto-the-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 # HTML page description
 manifesto-these-are-the-principles = ਇਹ ਉਹ ਸਿਧਾਂਤ ਹਨ ਜੋ ਵੈੱਬ 'ਤੇ ਖੁੱਲੇਪਣ, ਨਵੀਨਤਾ ਅਤੇ ਮੌਕੇ ਨੂੰ ਉਤਸ਼ਾਹਤ ਕਰਨ ਲਈ ਸਾਡੇ ਮਿਸ਼ਨ ਨੂੰ ਸੇਧ ਦਿੰਦੇ ਹਨ।
 manifesto-the-internet-is-an-integral = ਇੰਟਰਨੈਟ ਇੱਕ ਆਧੁਨਿਕ ਜੀਵਨ ਦਾ ਇੱਕ ਅਨਿੱਖੜਵਾਂ ਅੰਗ ਹੈ- ਸਿੱਖਿਆ, ਸੰਚਾਰ, ਸਹਿਯੋਗ, ਵਪਾਰ, ਮਨੋਰੰਜਨ ਅਤੇ ਸਮੁਦਾਏ ਵਿੱਚ ਇੱਕ ਮੁੱਖ ਭਾਗ ਹੈ।
@@ -40,7 +40,7 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
-manifesto-the-mozilla-manifesto-addendum = ਮੋਜ਼ੀਲਾ ਘੋਸ਼ਣਾ ਪੱਤਰ 'ਚ ਵਾਧਾ
+manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ ਸੋਧਾਂ
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = ਨਰੋਏ ਇੰਟਰਨੈੱਟ ਲਈ ਆਓ ਵਚਨਵੱਧ ਹੋਈਏ
 manifesto-the-open-global-internet = ਖੁੱਲ੍ਹਾ, ਗਲੋਬਲ ਇੰਟਰਨੈਟ ਸਭ ਤੋਂ ਸ਼ਕਤੀਸ਼ਾਲੀ ਸੰਚਾਰ ਅਤੇ ਸਹਿਯੋਗ ਸਰੋਤ ਹੈ ਜੋ ਅਸੀਂ ਕਦੇ ਦੇਖਿਆ ਹੈ। ਇਹ ਮਨੁੱਖੀ ਵਿਕਾਸ ਲਈ ਸਾਡੀਆਂ ਡੂੰਘੀਆਂ ਉਮੀਦਾਂ ਦਾ ਸਾਹਮਣਾ ਕਰਦਾ ਹੈ। ਇਹ ਸਿਖਲਾਈ ਲਈ ਨਵੇਂ ਮੌਕੇ ਯੋਗ ਬਣਾਉਂਦਾ ਹੈ, ਸਾਂਝੀ ਮਨੁੱਖਤਾ ਦਾ ਅਹਿਸਾਸ ਬਣਾਉਂਦਾ ਹੈ, ਅਤੇ ਹਰ ਜਗ੍ਹਾ ਲੋਕਾਂ ਨੂੰ ਦਰਪੇਸ਼ ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਹੱਲ ਕਰਦਾ ਹੈ।

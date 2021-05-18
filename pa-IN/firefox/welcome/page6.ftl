@@ -9,10 +9,10 @@
 welcome-page6-make-firefox-your-default = ਫਾਇਰਫਾਕਸ ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 welcome-page6-make-sure-youre-protected = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਆਨਲਾਈਨ ਜਾਓ ਤਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ
 welcome-page6-when-you-choose-firefox-you = ਜਦੋਂ ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਚੁਣਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਪਣੇ ਲਈ ਅਤੇ ਹਰੇਕ ਲਈ ਬਿਹਤਰ ਵੈੱਬ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹੋ। ਹੁਣ ਖੁਦ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਅਗਲਾ ਕਦਮ ਚੁੱਕੋ।
-welcome-page6-get-the-firefox-app = ਫਾਇਰਫਾਕਸ ਐਪ ਲਵੋ
+welcome-page6-get-the-firefox-app = { -brand-name-firefox } ਐਪ ਲਵੋ
 welcome-page6-get-firefox-on-your-phone = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਫਾਇਰਫਾਕਸ ਲਵੋ
 welcome-page6-scan-the-qr-code-to-get-started = ਸ਼਼ੁਰੂ ਵਾਸਤੇ QR ਕੋਡ ਸਕੈਨ ਕਰੋ
-welcome-page6-qr-code-to-scan-for-firefox = ਫਾਇਰਫਾਕਸ ਲਈ ਸਕੈਨ ਕਰਨ ਲਈ QR ਕੋਡ
+welcome-page6-qr-code-to-scan-for-firefox = { -brand-name-firefox } ਲਈ ਸਕੈਨ ਕਰਨ ਲਈ QR ਕੋਡ
 welcome-page6-choose-automatic-privacy = ਆਪਣੇ-ਆਪ ਪਰਦੇਦਾਰੀ ਚੁਣੋ
 welcome-page6-companies-keep-finding-new = ਕੰਪਨੀਆਂ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਲਈ ਨਾਜਾਇਜ਼ ਸੰਨ੍ਹ ਲਾਉਣ ਲਈ ਨਵੇਂ ਢੰਗ ਲੱਭਦੀਆਂ ਹਨ। ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਨਵੇਂ ਢੰਗ ਲੱਭਣ ਦੇ ਮਕਸਦ ਲਈ ਡਟਿਆ ਰਹਿਣ ਵਾਲਾ ਇੱਕਲਾ ਬਰਾਊਜ਼ਰ ਫਾਇਰਫਾਕਸ ਹੀ ਹੈ।
 welcome-page6-choose-freedom-on-every-device = ਹਰ ਡਿਵਾਈਸ ਲਈ ਆਜ਼ਾਦੀ ਚੁਣੋ

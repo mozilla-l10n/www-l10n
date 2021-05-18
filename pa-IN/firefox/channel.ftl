@@ -13,23 +13,23 @@ firefox-channel-be-among-the-first-to-explore = ਡੈਸਕਟਾਪ, { -brand-
 firefox-channel-see-something-that-isnt-working = ਕੁਝ ਲੱਭਿਆ, ਜੋ ਕਿ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ? ਸਾਨੂੰ ਦੱਸੋ।
 firefox-channel-file-a-bug-now = ਹੁਣੇ ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
 firefox-channel-tips-for-filing-a-bug = ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਵਾਸਤੇ ਗੁਰ
-firefox-channel-try-new-features-in-a-pre = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਐਂਡਰਾਈਡ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤੋਂ | ਫਾਇਰਫਾਕਸ
-firefox-channel-download-and-test-future = ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਡੈਸਕਟਾਪ, ਐਂਡਰਾਈਡ ਅਤੇ { -brand-name-ios } ਲਈ ਫਾਇਰਫਾਕਸ ਦੇ ਰੀਲਿਜ਼ ਹੋਏ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
-firefox-channel-experience-cutting-edge-android-updated = ਐਂਡਰਾਈਡ ਲਈ ਜਾਰੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖਣ ਲਈ: ਫਾਇਰਫਾਕਸ ਬੀਟਾ ਅਤੇ ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
-firefox-channel-experience-cutting-edge-android = ਐਂਡਰਾਈਡ ਲਈ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: ਫਾਇਰਫਾਕਸ ਬੀਟਾ, ਫਾਇਰਫਾਕਸ ਅਰੋਰਾ ਅਤੇ ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
-firefox-channel-download-and-test-the-latest-android = ਅਰੋਰਾ, ਬੀਟਾ ਅਤੇ ਨਾਈਟਲੀ ਬਿਲਡ ਨਾਲ ਐਂਡਰਾਈਡ ਲਈ ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਤੇ ਟੈਸਟ ਕਰੋ।
-firefox-channel-try-the-latest-android-features = ਬਾਕੀ ਸੰਸਾਰ ਨੂੰ ਮਿਲਣ ਤੋਂ ਪਹਿਲਾਂ ਐਂਡਰਾਈਡ ਦੇ ਨਵੇਂ ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ।
+firefox-channel-try-new-features-in-a-pre = ਪ੍ਰੀ-ਰੀਲਿਜ਼ { -brand-name-android } ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤੋਂ | { -brand-name-firefox }
+firefox-channel-download-and-test-future = ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਡੈਸਕਟਾਪ, { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ { -brand-name-firefox } ਦੇ ਰੀਲਿਜ਼ ਹੋਏ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
+firefox-channel-experience-cutting-edge-android-updated = { -brand-name-android } ਲਈ ਜਾਰੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖਣ ਲਈ: { -brand-name-firefox-beta } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
+firefox-channel-experience-cutting-edge-android = { -brand-name-android } ਲਈ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
+firefox-channel-download-and-test-the-latest-android = { -brand-name-aurora }, { -brand-name-beta } ਅਤੇ { -brand-name-nightly } ਬਿਲਡ ਨਾਲ { -brand-name-android } ਲਈ { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਤੇ ਟੈਸਟ ਕਰੋ।
+firefox-channel-try-the-latest-android-features = ਬਾਕੀ ਸੰਸਾਰ ਨੂੰ ਮਿਲਣ ਤੋਂ ਪਹਿਲਾਂ { -brand-name-android } ਦੇ ਨਵੇਂ ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ।
 firefox-channel-all-languages-and-platforms = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਪਲੇਟਫਾਰਮ
 firefox-channel-all-languages-and-builds = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਬਿਲਡ
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-beta-is-an-unstable-testing = ਬੀਟਾ ਅਸਥਿਰ ਪ੍ਰੀਖਿਆ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਡਿਫੌਲਟ ਰੂਪ ਵਿੱਚ, ਬੀਟਾ ਮੋਜ਼ੀਲਾ ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ – ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਭਾਈਵਾਲਾਂ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਦਾ ਯਤਨ ਕਰਨ ਲਈ ਸਾਡੀ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
-firefox-channel-firefox-beta-automatically = ਫਾਇਰਫਾਕਸ ਬੀਟਾ ਆਪਣੇ-ਆਪ ਹੀ ਫੀਡਬੈਕ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦਾ ਹੈ।
+firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ਆਪਣੇ-ਆਪ ਹੀ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = ਸਥਿਰ ਮਾਹੌਲ ਵਿੱਚ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਕਿਰਿਆਵਾਂ ਉੱਤੇ ਅੰਤਮ ਸੁਧਾਰ ਕਰਨ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ <a rel="external" href="{ $feedback }">ਸਾਨੂੰ ਫੀਡਬੈਕ ਦਿਓ</a>।
-firefox-channel-check-out-new-android-features = ਨਵੇਂ ਐਂਡਰਾਈਡ ਫੀਚਰਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਮੁੱਢਲੇ ਪੜਾਅ ਉੱਤੇ ਹੀ ਜਾਂਚੋ। ਆਪਣੀ ਖੁਦ ਦੀ ਜ਼ਿੰਮੇਵਾਰ 'ਤੇ ਮਾਣੋ।
-firefox-channel-nightly-blog = ਨਾਈਟਲੀ ਬਲੌਗ
+firefox-channel-check-out-new-android-features = ਨਵੇਂ { -brand-name-android } ਫੀਚਰਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਮੁੱਢਲੇ ਪੜਾਅ ਉੱਤੇ ਹੀ ਜਾਂਚੋ। ਆਪਣੀ ਖੁਦ ਦੀ ਜ਼ਿੰਮੇਵਾਰ 'ਤੇ ਮਾਣੋ।
+firefox-channel-nightly-blog = { -brand-name-nightly } ਬਲੌਗ
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = ਰਾਤ ਇੱਕ ਅਸਥਿਰ ਜਾਂਚ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਡਿਫੌਲਟ ਰੂਪ ਵਿੱਚ, ਰਾਤ ਵੇਲੇ ਮੋਜ਼ੀਲਾ ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ - ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਈਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।

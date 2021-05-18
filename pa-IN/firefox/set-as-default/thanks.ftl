@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
 
 # HTML page title
-set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = ਫਾਇਰਫਾਕਸ ਚੁਣਨ ਲਈ ਧੰਨਵਾਦ
+set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = { -brand-name-firefox } ਚੁਣਨ ਲਈ ਧੰਨਵਾਦ
 set-as-default-thanks-success-your-default-browser = ਕਾਮਯਾਬ! ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਫਾਇਰਫਾਕਸ ਬਣਾਇਆ ਗਿਆ।
 set-as-default-thanks-looks-like-youre-using-a = ਜਾਪਦਾ ਹੈ ਕਿ ਇਸ ਵੇਲੇ ਤੁਸੀਂ ਵੱਖਰਾ ਬਰਾਊਜ਼ਰ ਵਰਤ ਰਹੇ ਹੋ। ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਡਿਵਾਈਸ ਉੱਤੇ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰ ਲਿਆ ਹੈ।
 # When a visitor sees this message a system dialog will also open on screen.
@@ -19,10 +19,10 @@ set-as-default-thanks-heres-everything-you-need-android = <a href="{ $android }"
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = <a href="{ $ios }">iOS ਡਿਵਾਈਸਾਂ</a> ਉੱਤੇ ਆਪਣੇ ਮੂਲ ਬਰਾਊਜ਼ਰ ਸੈੱਟ ਕਰਨ ਬਾਰੇ ਜਾਣ ਲਈ ਤੁਹਾਡੇ ਜਾਣਨ ਲਈ ਹਰ ਚੀਜ਼ ਇਹ ਹੈ।
 set-as-default-thanks-youre-all-set = ਤੁਸੀਂ ਤਿਆਰ ਹੋ!
-set-as-default-thanks-get-firefox-for-mobile = ਮੋਬਾਇਲ ਲਈ ਫਾਇਰਫਾਕਸ ਲਵੋ
+set-as-default-thanks-get-firefox-for-mobile = ਮੋਬਾਇਲ ਲਈ { -brand-name-firefox } ਲਵੋ
 set-as-default-thanks-travel-the-internet-with = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਨਾਲ ਇੰਟਰਨੈੱਟ ਨਾਲ ਯਾਤਰਾ ਕਰੋ।
 set-as-default-thanks-download-the-app = ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ
-set-as-default-thanks-join-firefox = ਫਾਇਰਫਾਕਸ ਦਾ ਹਿੱਸਾ ਬਣੋ
+set-as-default-thanks-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
 set-as-default-thanks-sign-up-for-a-free-account = ਮੁਫ਼ਤ ਖਾਤੇ ਲਈ ਸਾਇਨ ਅੱਪ ਕਰੋ ਅਤੇ ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਸਾਰੇ ਪਾਸਵਰਡਾਂ, ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = ਖਾਤਾ ਲਵੋ

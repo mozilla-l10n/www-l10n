@@ -6,17 +6,17 @@
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = ਮੋਜ਼ੀਲਾ ਬਾਰੇ ਜਾਣੋ
+about-learn-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ ਜਾਣੋ
 # Main call to action
 about-read-our-mission = ਸਾਡਾ ਮਕਸਦ ਪੜ੍ਹੋ
 about-our-mission-in-action = ਸਾਡਾ ਮਕਸਦ ਜਾਰੀ ਹੈ
 about-pioneers-of-the-open-web = ਆਜ਼ਾਦ ਵੈੱਬ ਦੇ ਮੋਢੀ
-about-firefox-fast-for-good = ਫਾਇਰਫਾਕਸ: ਚੰਗੇ ਲਈ ਤੇਜ਼ ਹੈ
+about-firefox-fast-for-good = { -brand-name-firefox }: ਚੰਗੇ ਲਈ ਤੇਜ਼ ਹੈ
 about-a-global-view = ਗਲੋਬਲ ਝਲਕ
 about-berlin = ਬਰਲਿਨ
 about-toronto = ਟੋਰਾਂਟੋ
-about-work-at-mozilla = ਮੋਜ਼ੀਲਾ ਵਿੱਚ ਕੰਮ ਕਰੋ
-about-mozilla-careers = ਮੌਜ਼ੀਲਾ ਕੈਰੀਅਰ
+about-work-at-mozilla = { -brand-name-mozilla } ਵਿੱਚ ਕੰਮ ਕਰੋ
+about-mozilla-careers = { -brand-name-mozilla } ਕੈਰੀਅਰ
 about-how-you-can-help = ਤੁਸੀਂ ਕਿਵੇਂ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ
 about-get-involved = ਹਿੱਸਾ ਬਣੋ
 

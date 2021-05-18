@@ -7,7 +7,7 @@
 
 # HTML page title
 page7-make-it-harder-for-facebook = ਫੇਸਬੁੱਕ ਲਈ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨਾ ਔਖਾ ਕਰੋ
-page7-its-okay-to-like-facebook = ਫੇਸਬੁੱਕ ਨੂੰ ਪਸੰਦ ਕਰਨਾ ਠੀਕ ਹੈ
+page7-its-okay-to-like-facebook = { -brand-name-facebook } ਨੂੰ ਪਸੰਦ ਕਰਨਾ ਠੀਕ ਹੈ
 page7-get-facebook-container = { -brand-name-facebook-container } ਲਵੋ
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = ਇਹ ’Gram ਲਈ ਕਰੋ

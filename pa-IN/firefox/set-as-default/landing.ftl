@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
-set-as-default-landing-make-firefox-your-default = ਫਾਇਰਫਾਕਸ ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 set-as-default-landing-make-sure-youre-protected = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਆਨਲਾਈਨ ਜਾਓ ਤਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ
 set-as-default-landing-thanks-for-using-the = ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਵਰਤਣ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਚੁਣਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਪਣੇ ਤੇ ਹਰੇਕ ਲਈ ਜ਼ਿਆਦਾ ਵਧੀਆ ਵੈੱਬ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹੋ। ਹੁਣ ਖੁਦ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਅਗਲਾ ਕਦਮ ਲਵੋ।
 set-as-default-landing-choose-automatic-privacy = ਆਪਣੇ-ਆਪ ਪਰਦੇਦਾਰੀ ਚੁਣੋ
