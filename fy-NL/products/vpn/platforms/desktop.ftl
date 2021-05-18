@@ -33,3 +33,4 @@ vpn-desktop-devices-copy = Mei jo abonnemint krije jo ûnbeheinde tagong ta ús 
 vpn-desktop-speed-headline = Bjusterbaarlike snelheid, gjin beheiningen
 vpn-desktop-speed-copy = Stream fideo’s, spylje spultsjes, winkelje en sneup bjusterbaarlik fluch. { -brand-name-mozilla-vpn } beheint jo bânbreedte net en fertraget jo snoadfoan net.
 vpn-desktop-log-headline = Jo privacy stiet foarop
+vpn-desktop-log-copy = By { -brand-name-mozilla } sammelje wy gjin gegevens oer wa't jo binne en logge wy jo online aktiviteit net – net fia ús VPN of ien fan ús oare produkten. It beskermjen fan jo privacy is in kearnprinsipe fan ús missy.
