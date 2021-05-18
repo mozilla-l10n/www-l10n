@@ -20,6 +20,15 @@ vpn-windows-about-copy = As de non-profitorganisaasje efter de { -brand-name-fir
 vpn-windows-privacy-headline = Beskerming mei ien druk op de knop
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } fersiferet jo ynternetferbining en beskermet jo IP-adres tsjin nijsgjirrige blikken op jo desktop of tablet mei it avansearre { -brand-name-wireguard }®-protokol.
 vpn-windows-servers-headline = Tagong ta servers oer de hiele wrâld
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Mei mear as { $servers } servers yn mear as { $countries } lannen kinne jo alles dwaan wat jo online dwaan moatte – blêdzje, winkelje, it nijs lêze – troch de lokaasje fan jo apparaat yn te stellen op hast oeral yn 'e wrâld.
 vpn-windows-devices-headline = Ien abonnemint foar al jo apparaten
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Mei in { -brand-name-mozilla-vpn }-abonnemint krije jo ûnbeheinde tagong ta ús befeilige VPN-tsjinst op maksimaal { $devices } apparaten foar { -brand-name-windows } (ynklusyf { -brand-name-windows } 10) , { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } en { -brand-name-ios }.
 vpn-windows-speed-headline = Gjin bânbreedtebeheiningen
+vpn-windows-speed-copy = Stream, game, winkelje en ferken it ynternet mei bliksemsnelheid. Mei ûnbeheinde data en sûnder bânbreedtebeheiningen stiet { -brand-name-mozilla-vpn } jo net yn it paad.
 vpn-windows-log-headline = Jo privacy is ús prioriteit
+vpn-windows-log-copy = { -brand-name-mozilla } sil nea stopje mei wurkjen oan in better ynternet dat jo privacy foarop stelt. Dêrom sammelet de { -brand-name-mozilla-vpn } gjin gegevens oer jo en logt hy jo online aktiviteiten net – gjin fan ús produkten docht dat.
