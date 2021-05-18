@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
 firefox-channel-desktop = ਡੈਸਕਟਾਪ
-firefox-channel-android = ਐਂਡਰਾਈਡ
+firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = ਖੁੱਲ੍ਹੇ ਰੂਪ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰੋ।
-firefox-channel-be-among-the-first-to-explore = ਡੈਸਕਟਾਪ, ਐਂਡਰਾਈਡ ਅਤੇ { -brand-name-ios } ਲਈ ਫਾਇਰਫਾਕਸ ਦੇ ਆਉਣ ਵਾਲੇ ਰੀਲਿਜ਼ ਦਾ ਪਤਾ ਲਗਾਉਣ ਵਾਲਿਆਂ ਵਿੱਚ ਪਹਿਲੇ ਬਣੋ।
+firefox-channel-be-among-the-first-to-explore = ਡੈਸਕਟਾਪ, { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ { -brand-name-firefox } ਦੇ ਆਉਣ ਵਾਲੇ ਰੀਲਿਜ਼ ਦਾ ਪਤਾ ਲਗਾਉਣ ਵਾਲਿਆਂ ਵਿੱਚ ਪਹਿਲੇ ਬਣੋ।
 firefox-channel-see-something-that-isnt-working = ਕੁਝ ਲੱਭਿਆ, ਜੋ ਕਿ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ? ਸਾਨੂੰ ਦੱਸੋ।
 firefox-channel-file-a-bug-now = ਹੁਣੇ ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
 firefox-channel-tips-for-filing-a-bug = ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਵਾਸਤੇ ਗੁਰ
