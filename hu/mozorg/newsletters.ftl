@@ -19,11 +19,15 @@ newsletters-subscribe-to-updates-and-keep = Iratkozzon fel a frissítésekre, é
 newsletters-newsletter-confirm = Hírlevél jóváhagyása
 newsletters-thanks-for-subscribing = Köszönjük, hogy feliratkozott!
 newsletters-your-newsletter-subscription = A hírlevél-előfizetés jóváhagyása megtörtént.
+newsletters-please-be-sure-to-add-our-v2 = Győződjön meg arról, hogy a levél küldője, a mozilla@email.mozilla.org szerepeljen a címjegyzékében. Így biztosan megkapja hírlevelünket.
+# Obsolete string
 newsletters-please-be-sure-to-add-our = Győződjön meg arról, hogy a levél küldője, a mozilla@e.mozilla.org szerepeljen a címjegyzékében. Így biztosan megkapja hírlevelünket.
 newsletters-the-supplied-link-has-expired = A megadott hivatkozás lejárt. A következő hírlevéllel egy újat küldünk.
 newsletters-something-is-amiss-with = Sajnos valami nincs rendben a rendszerünkkel. Próbálja meg később.
 newsletters-youre-awesome = Ön fantasztikus!
 newsletters-and-were-not-just-saying = És ezt nem csak azért mondjuk, mert ránk bízta az e-mail címét.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Adja hozzá a mozilla@email.mozilla.org címet a címjegyzékéhez, hogy mindig elérjük a fiókját.
+# Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Adja hozzá a mozilla@e.mozilla.org címet a címjegyzékéhez, hogy mindig elérjük a fiókját.
 newsletters-mozilla-touches-on-a-variety = A { -brand-name-mozilla } különféle fontos ügyeket érint.
 newsletters-open-your-inbox-and-your = Nyissa meg még jobban a fiókját (és a szívét) – tegyen egy pillantást a többi témára, amit lefedünk.
@@ -104,6 +108,8 @@ newsletters-i-didnt-sign-up = Nem iratkoztam fel.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ez az e-mail cím nem szerepel rendszerünkben. Kérjük, ellenőrizze a címet vagy <a href="{ $url }">iratkozzon fel hírleveleinkre.</a>
+newsletters-im-keeping-in-touch-v2 = Inkább a { -brand-name-twitter }en tartom a kapcsolatot a { -brand-name-mozilla(ending: "accented") }val.
+# Obsolete string
 newsletters-im-keeping-in-touch = Inkább a { -brand-name-facebook }on és a { -brand-name-twitter }en tartom a kapcsolatot a { -brand-name-mozilla(ending: "accented") }val.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Iratkozzon fel, olvassa el,<br> legyen tájékozott.
@@ -250,10 +256,12 @@ newsletters-get-how-tos = Kapjon leírásokat, tanácsokat és híreket, hogy a 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Különleges bejelentések az éves fesztiválunkról, ahol kézzelfoghatóan alakítható a nyílt web jövője.
+# Obsolete string
 newsletters-special-announcements-about-mozilla = Különleges bejelentések a { -brand-name-mozilla } éves fesztiváljáról, ahol kézzelfoghatóan alakítható a Web jövője.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } hírek
-# Description for the newsletter in Newsletter subscription page (Mozilla News)
+# Obsolete string
 newsletters-regular-updates-to-keep = Rendszeres hírek, hogy tájékoztassuk és aktivizáljuk a jobb internetért vívott harcban.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
