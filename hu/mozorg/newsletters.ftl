@@ -261,6 +261,8 @@ newsletters-special-announcements-about-mozilla-v2 = Különleges bejelentések 
 newsletters-special-announcements-about-mozilla = Különleges bejelentések a { -brand-name-mozilla } éves fesztiváljáról, ahol kézzelfoghatóan alakítható a Web jövője.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } hírek
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Rendszeres hírek, hogy jobban képben legyen az online életről, és aktívabb legyen a jobb internetért vívott harcban.
 # Obsolete string
 newsletters-regular-updates-to-keep = Rendszeres hírek, hogy tájékoztassuk és aktivizáljuk a jobb internetért vívott harcban.
 # Name for the newsletter in Newsletter subscription page
