@@ -55,6 +55,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } დარეგის
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = აირჩიეთ ხელშეკრულების სასურველი გეგმა
+# Outdated string
 vpn-shared-pricing-variable-heading = აირჩიეთ სასურველი გეგმა
 vpn-shared-pricing-variable-sub-heading = ყველა ჩვენი გეგმა მოიცავს:
 vpn-shared-pricing-recommended-offer = სასურველია
