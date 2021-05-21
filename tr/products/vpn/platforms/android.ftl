@@ -10,6 +10,7 @@ vpn-android-page-title = { -brand-name-android } için { -brand-name-mozilla-vpn
 vpn-android-page-description = Teknoloji dünyasının en güvenilir isimlerinden { -brand-name-mozilla } ile { -brand-name-android } telefonunuzda tek dokunuşla güvenliğe kavuşun.
 # Mobile strings
 vpn-android-hero-headline = { -brand-name-android } için { -brand-name-mozilla-vpn } ile çevrimiçi korumaya ve gizliliğe kavuşun
+vpn-android-about-headline = { -brand-name-mozilla }, güvenebileceğiniz bir marka
 vpn-android-privacy-headline = Tek dokunuşla bağlantı
 # Variables:
 #   $servers (number) - number of available servers

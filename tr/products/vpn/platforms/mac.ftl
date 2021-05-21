@@ -11,6 +11,7 @@
 vpn-mac-page-title = { -brand-name-mac-short } için { -brand-name-mozilla-vpn }
 # Mac strings
 vpn-mac-hero-headline = { -brand-name-mac-short } için { -brand-name-mozilla-vpn } ile bağlantınızı koruyun
+vpn-mac-wifi-headline = Tanımadığınız WiFi ağlarında bile güvende kalın
 vpn-mac-about-headline = Güvenilir bir teknoloji üreticisinden
 vpn-mac-privacy-headline = Gizlilik parmaklarınızın ucunda
 vpn-mac-servers-headline = Dünyanın her yerindeki sunuculara erişin

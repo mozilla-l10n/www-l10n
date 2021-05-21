@@ -12,6 +12,7 @@ vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } ile mobil cihazlarda gizl
 vpn-mobile-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın
 vpn-mobile-about-headline = { -brand-name-mozilla } hakkında
 vpn-mobile-privacy-headline = Tek tıkla gizlilik
+vpn-mobile-servers-headline = Dünyanın dört bir yanındaki sunuculara bağlanın
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = { $devices } cihazda koruma
