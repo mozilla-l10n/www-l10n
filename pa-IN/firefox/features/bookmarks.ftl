@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ: ਹਰੇਕ ਜਗ੍ਹਾ ਤੁਸੀਂ ਬਿਹਤਰ ਬੁੱਕਮਾਰਕ ਪਾਓ
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: ਹਰੇਕ ਜਗ੍ਹਾ ਤੁਸੀਂ ਬਿਹਤਰ ਬੁੱਕਮਾਰਕ ਪਾਓ
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਫੋਲਡਰ ਵਿੱਚ ਆਸਾਨੀ ਨਾਲ ਸੰਗਠਿਤ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਯੰਤਰ ਡੈਸਕਟੌਪ ਤੋਂ ਮੋਬਾਈਲ ਤੱਕ ਪਹੁੰਚ ਕਰੋ।
 features-bookmarks-better-bookmarks = ਬਿਹਤਰ ਬੁੱਕਮਾਰਕ
-features-bookmarks-dont-agonize-lovers-of = ਬੁੱਕਮਾਰਕ ਕਰਨ ਨੂੰ ਪਿਆਰ ਕਰਨ ਵਾਲਿਆਂ ਨੂੰ,ਤੰਗ ਨਾ ਕਰੋ। ਫਾਇਰਫਾਕਸ ਨਾਲ ਸੰਗਠਿਤ ਕਰੋ।
+features-bookmarks-dont-agonize-lovers-of = ਬੁੱਕਮਾਰਕ ਕਰਨ ਨੂੰ ਪਿਆਰ ਕਰਨ ਵਾਲਿਆਂ ਨੂੰ,ਤੰਗ ਨਾ ਕਰੋ। { -brand-name-firefox } ਨਾਲ ਸੰਗਠਿਤ ਕਰੋ।
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = ਫਾਈਲ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 # Dial in means to access/use (the bookmarks).

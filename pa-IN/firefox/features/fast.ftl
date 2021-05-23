@@ -9,7 +9,7 @@
 features-fast-get-more-done-browse-faster = ਹੋਰ ਕੰਮ ਕਰੋ। ਕਈ ਟੈਬਾਂ ਨਾਲ ਹੋਰ ਵੀ ਵੱਧ ਤੇਜ਼ ਅਤੇ ਹੋਰ ਵੱਧ ਹਲਕਾ
 # HTML description
 features-fast-our-new-powerful-multi-process = ਸਾਡਾ ਨਵਾਂ, ਸ਼ਕਤੀਸ਼ਾਲੀ ਮਲਟੀ-ਪਰੋਸੈਸ ਪਲੇਟਫਾਰਮ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹੌਲੀ ਕੀਤੇ ਬਿਨਾਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸੰਭਾਲਦਾ ਹੈ।
-features-fast-firefox-is-now-faster-and-leaner = ਫਾਇਰਫਾਕਸ ਹੁਣ ਹੋਰ ਤੇਜ਼ ਅਤੇ ਹੋਰ ਵੀ ਹਿਮਾਇਤ ਹੈ
+features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } ਹੁਣ ਹੋਰ ਤੇਜ਼ ਅਤੇ ਹੋਰ ਵੀ ਹਿਮਾਇਤ ਹੈ
 features-fast-weve-been-working-out-so-you = ਅਸੀਂ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ, ਇਸ ਲਈ ਤੁਸੀਂ ਵਧੇਰੇ ਕੰਮ ਪੂਰਾ ਕਰ ਸਕਦੇ ਹੋ।
 features-fast-use-less-memory = ਘੱਟ ਮੈਮੋਰੀ ਵਰਤੋਂ
 # A "computer hog" here means software that consumes a lot of memory and resources
