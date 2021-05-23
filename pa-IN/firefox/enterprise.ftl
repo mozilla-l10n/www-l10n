@@ -5,19 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-enterprise = ਇੰਟਰਪ੍ਰਾਈਜ਼
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = ਸੰਖੇਪ
 firefox-enterprise-downloads = ਡਾਊਨਲੋਡ
 firefox-enterprise-your-data-stays-your-business = ਤੁਹਾਡਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਾਰੋਬਾਰ ਨਾਲ ਰਹਿੰਦਾ ਹੈ
 firefox-enterprise-deploy-when-and-how-you-want = ਜਦੋਂ ਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ ਸਥਾਪਤ ਕਰੋ
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ਡਾਊਨਲੋਡ
-firefox-enterprise-windows-64-bit = ਵਿੰਡੋਜ਼ 64-ਬਿੱਟ
+firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-ਬਿੱਟ
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = ਆਪਣਾ ਡਾਊਨਲੋਡ ਚੁਣੋ
-firefox-enterprise-firefox-browser = ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ
-firefox-enterprise-firefox-browser-msi-installer = ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ - MSI ਇੰਸਟਾਲਰ
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI ਇੰਸਟਾਲਰ
 firefox-enterprise-support = ਸਹਿਯੋਗ
 firefox-enterprise-msi-installers = MSI ਇੰਸਟਾਲਰ
 firefox-enterprise-policy-documentation = ਪਾਲਸੀ ਦਸਤਾਵੇਜ਼
 firefox-enterprise-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
-firefox-enterprise-windows-32-bit = ਵਿੰਡੋਜ਼ 64-ਬਿੱਟ
+firefox-enterprise-windows-32-bit = { -brand-name-windows } 64-ਬਿੱਟ

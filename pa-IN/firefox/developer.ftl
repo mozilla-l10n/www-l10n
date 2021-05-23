@@ -75,4 +75,4 @@ firefox-developer-download-the-firefox-browser = ਡਿਵੈਲਪਰਾਂ ਲ
 firefox-developer-welcome-to-the-all-new = ਬਿਲਕੁਲ ਨਵੇਂ { -brand-name-firefox-quantum }: { -brand-name-developer-edition } ਵਿੱਚ ਤੁਹਾਨੂੰ ਜੀ ਆਇਆਂ ਨੂੰ
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ਨੂੰ ਮੁੱਢਲੇ ਪੱਧਰ ਤੋਂ ਮੁੜ ਬਣਾਇਆ ਗਿਆ ਹੈ ਤਾਂ ਜੋ ਪਹਿਲਾਂ ਨਾਲੋਂ ਤੇਜ਼, ਸੋਹਣਾ ਅਤੇ ਮਜ਼ਬੂਤ ਹੋ ਸਕੇ।
 firefox-developer-congrats-you-now-have-firefox = ਵਧਾਈਆਂ। ਹੁਣ ਤੁਹਾਡੇ ਕੋਲ { -brand-name-firefox-quantum } ਹੈ: { -brand-name-developer-edition }।
-firefox-developer-this-isnt-just-an-update = ਇਹ ਕੇਵਲ ਇੱਕ ਅਪਡੇਟ ਨਹੀਂ ਹੈ। ਇਹ ਫਾਇਰਫਾਕਸ ਕੁਆਟਮ ਹੈ: ਇਕ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਜੋ ਪਹਿਲਾਂ ਤੋਂ ਕਿਤੇ ਤੇਜ਼, ਸੁੰਦਰ ਅਤੇ ਸ਼ਕਤੀਸ਼ਾਲੀ ਬਣਾਉਣ ਲਈ ਜ਼ਮੀਨੀ ਪੱਧਰ ਤੋਂ ਮੁੜ ਬਣਾਇਆ ਗਿਆ ਹੈ।
+firefox-developer-this-isnt-just-an-update = ਇਹ ਕੇਵਲ ਇੱਕ ਅਪਡੇਟ ਨਹੀਂ ਹੈ। ਇਹ { -brand-name-firefox-quantum }ਹੈ: ਨਵਾਂ { -brand-name-firefox } ਜੋ ਪਹਿਲਾਂ ਤੋਂ ਕਿਤੇ ਤੇਜ਼, ਸੁੰਦਰ ਅਤੇ ਸ਼ਕਤੀਸ਼ਾਲੀ ਬਣਾਉਣ ਲਈ ਮੁੱਢ ਤੋਂ ਮੁੜ ਬਣਾਇਆ ਗਿਆ ਹੈ।
