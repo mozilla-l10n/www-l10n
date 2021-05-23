@@ -9,7 +9,7 @@
 ## Required
 
 installer-help-page-title = Nedlastinga vart avbroten
-installer-help-main-tagline = Dettw skjer nokre gongar. La oss prøve noko anna.
+installer-help-main-tagline = Dette skjer nokre gongar. La oss prøve noko anna.
 installer-help-action-channel = Denne nedlastinga skal fungere betre for deg.
 installer-help-action-choose = Vel nedlasting nedanfor.
 
