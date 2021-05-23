@@ -45,14 +45,14 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ਕੇਵਲ ਡਿਵੈਲਪਰਾਂ ਲਈ ਹੀ ਬਣਾਏ ਗਏ ਬਰਾਊਜ਼ਰ ਨਾਲ ਬਿਲਡ, ਟੈਸਟ, ਸਕੇਲ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = ਐਡੀਸ਼ਨ ਇੱਕ ਅਸਥਿਰ ਜਾਂਚ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਡਿਫੌਲਟ ਰੂਪ ਵਿੱਚ, ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ ਮੋਜ਼ੀਲਾ ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ - ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਇਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
-firefox-channel-firefox-developer-edition = ਫਾਇਰਫਾਕਸ ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦਾ ਹੈ।
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ਅਸਥਿਰ ਜਾਂਚ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਮੂਲ ਰੂਪ ਵਿੱਚ, ਡਿਵੈਲਪਰ { -brand-name-developer-edition } { -brand-name-mozilla } ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ - ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਇਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = ਸਾਡੀ ਅਗਲੀ ਪੀੜ੍ਹੀ ਦੇ ਵੈੱਬਰ ਬਰਾਊਜ਼ਰ 'ਤੇ ਨਿਗ੍ਹਾ ਮਾਰੋ ਅਤੇ ਇਸ ਨੂੰ ਸਭ ਤੋਂ ਵਧੀਆ ਬਰਾਊਜ਼ਰ ਬਣਾਉਣ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰੋ: ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ ਵਰਤ ਕੇ ਵੇਖੋ।
+firefox-channel-get-a-sneak-peek-at-our = ਸਾਡੀ ਅਗਲੀ ਪੀੜ੍ਹੀ ਦੇ ਵੈੱਬਰ ਬਰਾਊਜ਼ਰ 'ਤੇ ਨਿਗ੍ਹਾ ਮਾਰੋ ਅਤੇ ਇਸ ਨੂੰ ਸਭ ਤੋਂ ਵਧੀਆ ਬਰਾਊਜ਼ਰ ਬਣਾਉਣ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰੋ: { -brand-name-firefox-nightly } ਵਰਤ ਕੇ ਵੇਖੋ।
 firefox-channel-test-brand-new-features = ਪੂਰੀ ਤਰ੍ਹਾਂ ਨਵੇਂ ਫ਼ੀਚਰਾਂ ਨੂੰ ਰੋਜ਼ਾਨਾ (ਜਾਂ ਰਾਤਰੀ …) ਟੈਸਟ ਕਰੋ। ਆਪਣੀ ਖੁਦ ਦੀ ਜ਼ਿੰਮੇਵਾਰ 'ਤੇ ਮਾਣੋ।
-firefox-channel-try-new-features-in-a-pre-release = ਪ੍ਰੀ-ਰੀਲਿਜ਼ { -brand-name-ios } ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ | ਫਾਇਰਫਾਕਸ
+firefox-channel-try-new-features-in-a-pre-release = ਪ੍ਰੀ-ਰੀਲਿਜ਼ { -brand-name-ios } ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = { -brand-name-apple } ਦੇ { -brand-name-test-flight } ਪ੍ਰੋਗਰਾਮ ਰਾਹੀਂ { -brand-name-ios } ਲਈ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
-firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-ios } ਲਈ ਫਾਇਰਫਾਕਸ ਦੇ ਨਵੇਂ ਬੀਟਾ ਵਰਜ਼ਨ ਨੂੰ { -brand-name-apple } ਦੇ { -brand-name-test-flight } ਪ੍ਰੋਗਰਾਮ ਰਾਹੀਂ ਟੈਸਟ ਕਰੋ ਅਤੇ { -brand-name-iphone }, { -brand-name-ipad } ਅਤੇ iPod ਟੱਚ ਲਈ ਸਾਡੇ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਨੂ ਹੋਰ ਵੀ ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ।
+firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-ios } ਲਈ { -brand-name-firefox } ਦੇ ਨਵੇਂ ਬੀਟਾ ਵਰਜ਼ਨ ਨੂੰ { -brand-name-apple } ਦੇ { -brand-name-test-flight } ਪ੍ਰੋਗਰਾਮ ਰਾਹੀਂ ਟੈਸਟ ਕਰੋ ਅਤੇ { -brand-name-iphone }, { -brand-name-ipad } ਅਤੇ iPod ਟੱਚ ਲਈ ਸਾਡੇ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਨੂੰ ਹੋਰ ਵੀ ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ।
 firefox-channel-test-flight = { -brand-name-test-flight }
-firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-ios } ਲਈ ਫਾਇਰਫਾਕਸ ਦੇ ਨਵੇਂ ਬੀਟਾ ਵਰਜ਼ਨ ਨੂੰ { -brand-name-apple } ਦੇ { -brand-name-test-flight } ਪ੍ਰੋਗਰਾਮ ਰਾਹੀਂ ਟੈਸਟ ਕਰੋ।
+firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox } ਦੇ ਨਵੇਂ ਬੀਟਾ ਵਰਜ਼ਨ ਨੂੰ { -brand-name-apple } ਦੇ { -brand-name-test-flight } ਪ੍ਰੋਗਰਾਮ ਰਾਹੀਂ ਟੈਸਟ ਕਰੋ।
 firefox-channel-sign-up-now = ਹੁਣੇ ਸਾਈਨ ਅੱਪ ਕਰੋ
