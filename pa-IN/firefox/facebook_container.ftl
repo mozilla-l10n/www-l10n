@@ -10,8 +10,14 @@ facebook-container-millions-of-people-around = ਦੁਨਿਆਂ ਭਰ ਵਿ�
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }। ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਾੜ ਕਰਕੇ ਰੱਖੋ। ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਦੇ ਹਿੱਸਿਆਂ ਨੂੰ ਆਪਣੇ ਤੱਕ ਹੀ ਰੱਖੋ।
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ਡਾਊਨਲ੍ਹੋਡ ਕਰੋ ਅਤੇ { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਇਸ ਵੇਲੇ ਸਿਰਫ਼ ਡੈਸਕਟਾਪ ਦੇ { -brand-name-firefox } ਲਈ ਹੀ ਉਪਲੱਬਧ ਹੈ।
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = ਡੈਸਕਟਾਪ ਦੇ { -brand-name-firefox } ਲਈ <a href="{ $url }">{ $link_copy }</a> ਲਵੋ।
 # Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਮੋਬਾਇਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।
+facebook-container-get-firefox-android-ios = { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ { -brand-name-firefox } ਲਵੋ।
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox-focus }</strong>, { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ ਪਰਦੇਦਾਰੀ ਨਾਲ ਲੈੱਸ ਬਰਾਊਜ਼ਰ ਵਰਤ ਕੇ ਵੇਖੋ।
