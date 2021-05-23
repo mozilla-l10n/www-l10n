@@ -34,9 +34,9 @@ firefox-channel-nightly-blog = { -brand-name-nightly } ਬਲੌਗ
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = ਰਾਤ ਇੱਕ ਅਸਥਿਰ ਜਾਂਚ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਡਿਫੌਲਟ ਰੂਪ ਵਿੱਚ, ਰਾਤ ਵੇਲੇ ਮੋਜ਼ੀਲਾ ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ - ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਈਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
 firefox-channel-firefox-nightly-automatically = ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦਾ ਹੈ।
-firefox-channel-try-new-browser-features = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ | ਫਾਇਰਫਾਕਸ
-firefox-channel-experience-cutting-edge-desktop = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ, ਫਾਇਰਫਾਕਸ ਬੀਟਾ ਅਤੇ ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
-firefox-channel-download-and-test-the-latest-desktop = ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ, ਬੀਟਾ ਅਤੇ ਨਾਈਟਲੀ ਬਿਲਡ ਵਾਲੇ ਨਵੇਂ ਨਕੋਰ ਡੈਸਕਟਾਪ ਲਈ ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਟੈਸਟ ਕਰੋ।
+firefox-channel-try-new-browser-features = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ | { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-desktop = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
+firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } ਅਤੇ { -brand-name-nightly } ਵਾਲੇ ਨਵੇਂ ਨਕੋਰ ਡੈਸਕਟਾਪ ਲਈ ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਟੈਸਟ ਕਰੋ।
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = ਸਭ ਤੋਂ ਸਥਿਰ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਿਲਡ ਵਿੱਚ ਰੀਲਿਜ਼ ਲਈ ਤਿਆਰ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
 firefox-channel-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
