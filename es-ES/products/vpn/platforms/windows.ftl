@@ -14,3 +14,19 @@ vpn-windows-page-description = Protege todo tu PC con una red privada virtual (V
 vpn-windows-hero-headline = Mantente conectado y protegido con { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
 vpn-windows-ability = Te mereces sentirte seguro en línea dondequiera que estés o adondequiera que vayas. Con { -brand-name-mozilla-vpn }, puedes usar un wifi público y saber que tu conexión está protegida de hackers y proveedores de Internet entrometidos . Nuestra VPN es fácil de usar, disponible para { -brand-name-windows } 10 (y cualquiera de tus otros dispositivos), y no te ralentiza. Lo mejor de todo es que es una VPN de { -brand-name-mozilla } con el protocolo { -brand-name-wireguard }®, para que sepas que tus datos están cifrados y que tu actividad no se registra. Es solo una VPN elegante y potente que te protege.
 vpn-windows-wifi-headline = Mantén tu privacidad en wifis públicos
+vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } protege tu conexión de internet de ojos indiscretos, para que te ocupes de tu actividad en cualquier lugar — el aeropuerto, una habitación de hotel, una cafetería — sin preocuparte por tu privacidad en línea.
+vpn-windows-about-headline = Del líder en privacidad en Internet
+vpn-windows-about-copy = La organización sin ánimo de lucro detrás de { -brand-name-firefox-browser }, { -brand-name-mozilla }, es una comunidad de ciudadanos de Internet de todo el mundo dedicados a mantener Internet como un recurso libre y abierto para todos. La misión de { -brand-name-mozilla }, poner a las personas antes que a las ganancias, asegura que cada producto que hacemos te pone en primer lugar.
+vpn-windows-privacy-headline = Protección con solo presionar un botón
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } cifra tu conexión a internet y protege tu dirección IP de miradas indiscretas en tu ordenador de escritorio o portátil con el protocolo avanzado { -brand-name-wireguard }®.
+vpn-windows-servers-headline = Accede a servidores en todo el mundo
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Con más de { $server } servidores en más de { $country } países, puedes hacer lo que necesites en línea (navegar, comprar, leer las noticias) configurando la ubicación de tu dispositivo a casi cualquier lugar del mundo.
+vpn-windows-devices-headline = Una suscripción para todos tus dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Una suscripción de { -brand-name-mozilla-vpn } te da acceso ilimitado a nuestro servicio seguro de VPN en hasta { $device } dispositivos para { -brand-name-windows } (incluyendo { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
+vpn-windows-speed-headline = Sin restricciones de ancho de banda
+vpn-windows-speed-copy = Transmite, juega, compra y explora la web a alta velocidad. Con datos ilimitados y sin restricciones de ancho de banda, { -brand-name-mozilla-vpn } no se interpone en su camino.
