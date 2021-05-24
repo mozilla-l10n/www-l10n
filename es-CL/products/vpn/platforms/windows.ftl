@@ -9,3 +9,4 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
+vpn-windows-log-headline = Tu privacidad es nuestra prioridad

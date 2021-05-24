@@ -9,6 +9,9 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({ -brand-name-ubuntu })
+vpn-linux-page-description = Como fanático de { -brand-name-linux } { -brand-name-ubuntu }, ya conoces la importancia de la privacidad y la seguridad en línea. Probablemente también conozcas { -brand-name-mozilla } y lo que representamos: un Internet con privacidad, abierto y gratuito para todos. Es hora de unir los dos.
+# Linux strings
+vpn-linux-hero-headline = { -brand-name-mozilla-vpn } para { -brand-name-linux } { -brand-name-ubuntu } — una pareja de privacidad perfecta
 vpn-linux-privacy-headline = Seguridad a un solo clic
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es muy fácil de usar. Toca un botón y cifrará tu conexión además de ocultar la dirección IP en tu { -brand-name-iphone } o { -brand-name-ipad } usando el protocolo avanzado de { -brand-name-wireguard }®.
 # Variables:

@@ -21,9 +21,16 @@ vpn-shared-features-encrypt = Cifrado a nivel del dispositivo
 vpn-shared-features-servers = Más de { $servers } servidores en más de { $countries } países
 vpn-shared-features-bandwidth = Sin restricciones de ancho de banda
 vpn-shared-features-activity = Sin registrar tu actividad en la red
+vpn-shared-features-activity-logs = Sin registros de actividad en línea ahora y nunca
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Accede a servidores en más de { $countries } países
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Opción de conectar hasta { $device } dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Protección para hasta { $devices } dispositivos
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -35,6 +42,12 @@ vpn-shared-countries-coming-soon = Ya disponible en { $country } países. Con m�
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Consulta nuestra lista completa de <a href="{ $url }" { $attrs }>servidores</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Servidores robustos en más de { $countries } países
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Conecta hasta { $devices } dispositivos
 vpn-shared-refund-policy = Política de reembolso
 vpn-shared-privacy-notice = Aviso de privacidad
 vpn-shared-terms-conditions = Términos y condiciones
@@ -42,6 +55,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } es una marca registra
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Elige un plan de suscripción que funcione para ti
 # Outdated string
 vpn-shared-pricing-variable-heading = Elige un plan que funcione para ti
 vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
@@ -64,6 +78,7 @@ vpn-shared-pricing-total = { $amount } en total
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Empecemos
 vpn-shared-platform-cta-button = Ver precios y disponibilidad
 vpn-shared-platform-privacy-promise = Tu privacidad es nuestra promesa
 vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianza
