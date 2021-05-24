@@ -8,6 +8,7 @@
 
 # Meta strings
 
+vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({ -brand-name-ubuntu })
 vpn-linux-privacy-headline = Seguridad a un solo clic
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es muy fácil de usar. Toca un botón y cifrará tu conexión además de ocultar la dirección IP en tu { -brand-name-iphone } o { -brand-name-ipad } usando el protocolo avanzado de { -brand-name-wireguard }®.
 # Variables:
