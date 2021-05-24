@@ -15,3 +15,4 @@ vpn-mac-servers-headline = Přistup k serweram na cełem swěśe
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Šćitajśo { $devices } rědow z jadnym abonementom
+vpn-mac-speed-headline = Žedna nutnosć, spěšnosć woprowaś
