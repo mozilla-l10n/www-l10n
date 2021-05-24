@@ -11,7 +11,6 @@ vpn-shared-waitlist-link = Únete a la lista de espera de VPN
 vpn-shared-sign-in-link = ¿Ya eres suscriptor?
 vpn-shared-available-countries = Actualmente ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur y Malasia.
 vpn-shared-available-countries-v2 = Actualmente ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda y Singapur.
-vpn-shared-availablity-long = Actualmente, la VPN está disponible para dispositivos { -brand-name-windows } 10, { -brand-name-android } e { -brand-name-ios } en EE. UU., Reino Unido, Canadá, Nueva Zelanda, Singapur y Malasia.
 vpn-shared-money-back-guarantee = 30 días de garantía de devolución de dinero
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Destacada en
@@ -43,6 +42,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } es una marca registra
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+# Outdated string
 vpn-shared-pricing-variable-heading = Elige un plan que funcione para ti
 vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
 vpn-shared-pricing-recommended-offer = Recomendado
@@ -61,6 +61,12 @@ vpn-shared-pricing-save-percent = Ahorra un { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } en total
+
+# Platform subpage shared strings
+
+vpn-shared-platform-cta-button = Ver precios y disponibilidad
+vpn-shared-platform-privacy-promise = Tu privacidad es nuestra promesa
+vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianza
 
 ##
 
