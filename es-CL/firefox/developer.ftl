@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Todas las herramientas para desarrolladores m
 firefox-developer-a-separate-profile = Un <strong>perfil y ruta separados</strong> para que puedas ejecutarlo fácilmente en paralelo a la versión oficial o { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferencias <strong>personalizadas para desarrolladores web</strong>: el navegador y la depuración remota están habilitados de forma predeterminada, al igual que el tema oscuro y el botón de la barra de herramientas para desarrolladores.
 firefox-developer-congrats-you-now-have = Felicitaciones. Ahora tienes { -brand-name-firefox-browser }: { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Felicitaciones. Ahora tienes la última versión de { -brand-name-firefox-browser }: { -brand-name-developer-edition }.

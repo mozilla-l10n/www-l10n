@@ -28,6 +28,9 @@ vpn-android-servers-copy = Con { -brand-name-mozilla-vpn }, puede establecer la 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Una suscripción para hasta { $devices } dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } te brinda la posibilidad de conectar { $devices } dispositivos diferentes, incluyendo { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }. Úsalo en su teléfono inteligente, computador de escritorio, notebook, tablet y más.
 vpn-android-speed-headline = Velocidades ultra rápidas. Datos ilimitados.
 vpn-android-speed-copy = Juega en línea, transmite películas y navega por la web a velocidades ultrarrápidas en tu dispositivo { -brand-name-android } — todo con ancho de banda ilimitado.
 vpn-android-log-headline = Sin registros. Sin rastreos. Sin invasiones a la privacidad.
