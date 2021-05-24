@@ -55,6 +55,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je zregistrowane twor
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Wubjerće abonementowy plan, kotryž za was funguje
+# Outdated string
 vpn-shared-pricing-variable-heading = Wubjerće plan, kotryž za was funguje
 vpn-shared-pricing-variable-sub-heading = Wšě naše plany wobsahuja:
 vpn-shared-pricing-recommended-offer = Doporučeny
