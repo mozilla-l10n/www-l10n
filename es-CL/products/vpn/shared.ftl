@@ -82,6 +82,10 @@ vpn-shared-platform-cta-headline = Empecemos
 vpn-shared-platform-cta-button = Ver precios y disponibilidad
 vpn-shared-platform-privacy-promise = Tu privacidad es nuestra promesa
 vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianza
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = El { -brand-name-mozilla-vpn } se ejecuta en una red mundial de servidores con tecnología de <a href="{ $policy }">{ -brand-name-mullvad }</a> utilizando el protocolo de <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } coloca tu privacidad primero y no mantiene registros de ningún tipo.
 
 ##
 

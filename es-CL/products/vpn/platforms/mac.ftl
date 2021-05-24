@@ -9,8 +9,10 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
+vpn-mac-page-description = Ya sea en un computador de escritorio { -brand-name-mac-short }, un notebook, { -brand-name-ipad } o { -brand-name-iphone }, protege todo tu dispositivo de hackers y ojos intrusos con una VPN de { -brand-name-mozilla }, un pionero en la seguridad de Internet desde 1998.
 # Mac strings
 vpn-mac-hero-headline = Protege tu información en línea con { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
+vpn-mac-ability = De negocios a ocio, debes sentir la seguridad en línea sin importar lo que te traiga allí. { -brand-name-mozilla-vpn } te ayuda a usar el Wi-Fi público de forma más inteligente protegiendo tu conexión a Internet de los hackers y proveedores de Internet que buscan recopilar tus datos. Tu privacidad con un solo clic está disponible para { -brand-name-mac-short } e { -brand-name-ios }, (así como { -brand-name-windows } 10, { -brand-name-linux } y { -brand-name-android }), y no impacta en tu velocidad. Y, como es un VPN de { -brand-name-mozilla } con el protocolo { -brand-name-wireguard }®, puedes confiar en que tu actividad no será registrada y tus datos seguirán siendo tuyos — siempre.
 vpn-mac-wifi-headline = Siéntete seguro en un wifi poco confiable
 vpn-mac-wifi-copy = Conéctate con tranquilidad cuando estés usando Wi-Fi público gracias a { -brand-name-mozilla-vpn }. Protege tu conexión a Internet para que tus datos personales queden ocultos ante hackers y de miradas intrusas.
 vpn-mac-about-headline = De un fabricante de tecnología de confianza
