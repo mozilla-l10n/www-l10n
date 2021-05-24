@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Alle de nyeste udviklerværktøj i beta samt 
 firefox-developer-a-separate-profile = En <strong>separat profil og sti</strong>, så du nemt kan køre den samtidig med den officielle udgivelse eller { -brand-name-beta }-versionen af { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Indstillinger <strong>skræddersyet til webudviklere</strong>: Browser- og remote debugging er aktiveret som standard sammen med et mørkt tema og knappen Webudvikler på værktøjslinjen.
 firefox-developer-congrats-you-now-have = Tillykke! Du har nu { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Tillykke! Du har nu den nyeste version af { -brand-name-firefox-browser } { -brand-name-developer-edition }.
