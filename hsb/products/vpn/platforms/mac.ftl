@@ -16,5 +16,5 @@ vpn-mac-servers-headline = Přistup k serweram na cyłym swěće
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Škitajće { $devices } gratow z jednym abonementom
-vpn-mac-speed-headline = Žana nuznosć, spěšnosć woporać
+vpn-mac-speed-headline = Žana nuznosć, spěšnosć woprować
 vpn-mac-log-headline = Štož wy online činiće, je waša wěc
