@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Alla de senaste utvecklarverktygen i beta, pl
 firefox-developer-a-separate-profile = En <strong>separat profil och sökväg</strong> så att du enkelt kan köra den tillsammans med Release eller { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Inställningar <strong>skräddarsydda för webbutvecklare</strong>: Webbläsar- och fjärrfelsökning är aktiverade som standard, liksom det mörka temat och knappen för verktygsfält för utvecklare.
 firefox-developer-congrats-you-now-have = Grattis. Du har nu { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Grattis. Du har nu den senaste versionen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
