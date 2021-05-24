@@ -12,6 +12,7 @@ vpn-linux-page-title = { -brand-name-mozilla-vpn } para { -brand-name-linux } ({
 vpn-linux-page-description = Como fanático de { -brand-name-linux } { -brand-name-ubuntu }, ya conoces la importancia de la privacidad y la seguridad en línea. Probablemente también conozcas { -brand-name-mozilla } y lo que representamos: un Internet con privacidad, abierto y gratuito para todos. Es hora de unir los dos.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } para { -brand-name-linux } { -brand-name-ubuntu } — una pareja de privacidad perfecta
+vpn-linux-ability = Toma una medida extra de seguridad cuando estés en línea — tanto en casa como afuera — con { -brand-name-mozilla-vpn }. Por una tarifa mensual baja, usa un protocolo avanzado de { -brand-name-wireguard }® para cifrar tu conexión a internet en tu computador basado en { -brand-name-linux } así como otros tipos de dispositivos, permitiéndote reproducir videos, jugar, comprar y continuar tu vida diaria en línea sabiendo que tienes la mejor seguridad.
 vpn-linux-maker-of-firefox = Como uno de los nombres más confiables en la industria tecnológica, { -brand-name-mozilla } está comprometido a asegurar que sientas seguridad cada vez que te conectas.
 vpn-linux-wifi-headline = Mantente seguro en línea cuando necesites usar wifi público
 vpn-linux-wifi-copy = A veces, el wifi público es tu mejor y única opción. { -brand-name-mozilla-vpn } te permite conectarte a tu correo electrónico desde el aeropuerto, editar tus contraseñas en una cafetería — todo lo que sueles hacer en casa con la misma tranquilidad mental.
@@ -29,6 +30,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da la capacidad de estab
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Conecta hasta { $devices } dispositivos
+vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $device } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } para { -brand-name-iphone } e{ -brand-name-ipad }.
 vpn-linux-speed-headline = Ultrarrápido con datos ilimitados
 vpn-linux-speed-copy = Juega, reproduce películas y programas, y navega por la web a velocidades ultrarrápidas y sin limitaciones de ancho de banda — { -brand-name-mozilla-vpn } es ilimitado.
 vpn-linux-log-headline = Tus datos te pertenecen

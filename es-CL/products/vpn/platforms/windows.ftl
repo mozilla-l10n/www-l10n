@@ -12,6 +12,7 @@ vpn-windows-page-title = { -brand-name-mozilla-vpn } para { -brand-name-windows 
 vpn-windows-page-description = Protege tu PC completo con una red privada virtual (VPN) de { -brand-name-mozilla }, un pionero de Internet que ha estado luchando por tu privacidad digital desde 1998.
 # Windows strings
 vpn-windows-hero-headline = Mantente conectado y protegido con{ -brand-name-mozilla-vpn } para { -brand-name-windows } 10
+vpn-windows-ability = Te mereces sentir seguridad en línea dondequiera que estés o adondequiera que vayas. Con { -brand-name-mozilla-vpn }, puedes usar wifi público y saber que tu conexión está protegida de hackers y proveedores de Internet metiches. Nuestro VPN es fácil de usar, está disponible para { -brand-name-windows } 10 (y cualquiera de tus otros dispositivos), y no te ralentiza. Lo mejor de todo es que es un VPN de { -brand-name-mozilla } con el protocolo { -brand-name-wireguard }®, por lo que sabes que tus datos están cifrados y que tu actividad no será registrada. Es solo un VPN elegante y poderoso que te protege.
 vpn-windows-wifi-headline = Mantén tu privacidad en redes wifi públicas
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } protege tu conexión a internet de miradas furtivas, para que puedas trabajar en cualquier lugar — el aeropuerto, un dormitorio compartido, una cafetería — sin preocuparte por tu privacidad en línea.
 vpn-windows-about-headline = Del líder en privacidad en Internet

@@ -86,6 +86,19 @@ vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianz
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-shared-platform-trust-partner-copy = El { -brand-name-mozilla-vpn } se ejecuta en una red mundial de servidores con tecnología de <a href="{ $policy }">{ -brand-name-mullvad }</a> utilizando el protocolo de <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } coloca tu privacidad primero y no mantiene registros de ningún tipo.
+vpn-shared-platform-what-youll-get = Lo que obtendrás con { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = ¿Qué es un VPN?
+vpn-subnav-faqs = Preguntas frecuentes
+vpn-subnav-get-help = Obtener ayuda
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Escritorio
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Móvil
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ##
 

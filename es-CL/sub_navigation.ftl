@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = Escritorio { -brand-name-beta } y { 
 sub-navigation-desktop-nightly = Escritorio { -brand-name-nightly }
 sub-navigation-features = Características
 sub-navigation-support = Soporte
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Complementos
+sub-navigation-add-ons = Complementos
 sub-navigation-faq = Preguntas frecuentes
 sub-navigation-learn-more = Aprender más
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } para móviles
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Complementos para { -brand-name-android }
+sub-navigation-android-add-ons = Complementos para { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
