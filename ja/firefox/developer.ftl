@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = すべての最新ベータ版デベロッパ
 firefox-developer-a-separate-profile = <strong>個別のプロフィールとパス</strong>で、リリースや { -brand-name-beta } { -brand-name-firefox } との同時実行が容易にできます。
 firefox-developer-preferences-tailored = <strong>ウェブデベロッパーに合わせてカスタマイズされた</strong>設定: ブラウザーとリモートデバッグのほか、ダークテーマやデベロッパーツールバーボタンが既定で有効になっています。
 firefox-developer-congrats-you-now-have = あなたは{ -brand-name-firefox-browser } { -brand-name-developer-edition }を手に入れました。
+firefox-developer-congrats-you-now-have-latest = これで{ -brand-name-firefox-browser } { -brand-name-developer-edition } の最新バージョンがインストールされました。
