@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Tất cả các công cụ mới nhất dành
 firefox-developer-a-separate-profile = Một <strong>hồ sơ và đường dẫn riêng biệt</strong> để bạn có thể dễ dàng chạy nó cùng với { -brand-name-firefox } bản phát hành chính thức hoặc { -brand-name-beta }.
 firefox-developer-preferences-tailored = Tùy chọn <strong>phù hợp với nhà phát triển web</strong>: Trình duyệt và gỡ lỗi từ xa được bật theo mặc định, cũng như nút thanh công cụ dành cho nhà phát triển và chủ đề tối.
 firefox-developer-congrats-you-now-have = Chúc mừng. Bạn đã có { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Chúc mừng. Bạn hiện có phiên bản mới nhất của { -brand-name-firefox-browser } { -brand-name-developer-edition }.
