@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = 所有仍在 Beta 測試中的最新開發者
 firefox-developer-a-separate-profile = 使用<strong>獨立設定擋</strong>，讓您可以與 { -brand-name-firefox } 正式版或 { -brand-name-beta } 版同時使用。
 firefox-developer-preferences-tailored = <strong>為網頁開發者量身打造的偏好設定</strong>：預設開啟瀏覽器與遠端除錯功能，以及暗色佈景主題，還有開發者工具列按鈕。
 firefox-developer-congrats-you-now-have = 恭喜您，{ -brand-name-firefox-browser } { -brand-name-developer-edition } 安裝完成。
+firefox-developer-congrats-you-now-have-latest = 恭喜您，{ -brand-name-firefox-browser } { -brand-name-developer-edition } 更新完成。
