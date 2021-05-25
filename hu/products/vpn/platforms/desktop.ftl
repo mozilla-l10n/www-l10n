@@ -31,4 +31,6 @@ vpn-desktop-servers-copy = Böngésszen Brazíliából. Játsszon Japánból. N�
 vpn-desktop-devices-headline = Védjen meg akár { $devices } eszközt
 vpn-desktop-devices-copy = Az előfizetése korlátlan hozzáférést biztosít a biztonságos VPN-szolgáltatásunkhoz az okostelefonján, táblagépén és asztali számítógépén, { -brand-name-ios }-en, { -brand-name-android }on, { -brand-name-mac-short }en, { -brand-name-windows }on és { -brand-name-linux }on.
 vpn-desktop-speed-headline = Hihetetlen sebesség, korlátozások nélkül
+vpn-desktop-speed-copy = Nézzen videókat, játsszon, vásároljon és böngésszen villámgyors sebességgel. A { -brand-name-mozilla-vpn } nem korlátozza a sávszélességét vagy lassítja le az okostelefonját.
 vpn-desktop-log-headline = Adatvédelem mindenek előtt
+vpn-desktop-log-copy = A { -brand-name-mozilla(ending: "accented") }nál nem gyűjtünk adatokat Önről, és nem naplózzuk az online tevékenységét – sem a VPN-ünkön, sem más termékünkön keresztül. Az adatvédelmének biztosítása a küldetésünk egyik alapelve.

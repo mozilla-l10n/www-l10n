@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios }-re ({ -brand-name-iphone }-ra és { -brand-name-ipad }ra)
+vpn-ios-page-description = Szerezzen gyors és könnyen használható védelmet az { -brand-name-iphone }-ja és { -brand-name-ipad }je számára a { -brand-name-mozilla }, a technológiai ipar egyik legmegbízhatóbb neve segítségével.
 # Mobile strings
 vpn-ios-hero-headline = Védje meg magát online az { -brand-name-ios }-es { -brand-name-mozilla-vpn }-nel
 vpn-ios-wifi-headline = Legyen biztonságban az interneten, ha útközben van
