@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = جميع أدوات المُطورين الأ
 firefox-developer-a-separate-profile = مسار <strong>وملف تعريف مُنفصلين</strong> حتى يتسنى لك بسهولة تشغيله بجانب الإصدار أو { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = تفضيلات <strong>صُممت لمُطوري الويب</strong>: يتم تمكين المُتصفح وتصحيح الأخطاء عن بُعد افتراضيًا، وكذلك السِمة الداكنة وزر شريط أدوات المُطور.
 firefox-developer-congrats-you-now-have = تهانينا! لديك الآن { -brand-name-firefox-browser }: { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = تهانينا! لديك الآن أحدث إصدار من { -brand-name-firefox-browser } { -brand-name-developer-edition }.
