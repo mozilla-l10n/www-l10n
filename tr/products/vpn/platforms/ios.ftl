@@ -16,3 +16,4 @@ vpn-ios-privacy-headline = Tek tıkla bağlantı
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Dünya genelindeki { $servers }+ sunucuya bağlanın
+vpn-ios-log-headline = Verileriniz gizli kalır. Nokta.

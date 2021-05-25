@@ -55,6 +55,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard }, Jason A. Donenfeld'i
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Size uygun abonelik planını seçin
+# Outdated string
 vpn-shared-pricing-variable-heading = Size uygun planı seçin
 vpn-shared-pricing-variable-sub-heading = Tüm planlarımızın ortak özellikleri:
 vpn-shared-pricing-recommended-offer = Önerilen

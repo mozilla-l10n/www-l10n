@@ -15,4 +15,8 @@ vpn-mac-wifi-headline = Tanımadığınız WiFi ağlarında bile güvende kalın
 vpn-mac-about-headline = Güvenilir bir teknoloji üreticisinden
 vpn-mac-privacy-headline = Gizlilik parmaklarınızın ucunda
 vpn-mac-servers-headline = Dünyanın her yerindeki sunuculara erişin
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Tek abonelikle { $devices } cihazda koruma
 vpn-mac-speed-headline = Hızdan ödün vermeyin
+vpn-mac-log-headline = İnternette ne yaptığınız sadece sizi ilgilendirir
