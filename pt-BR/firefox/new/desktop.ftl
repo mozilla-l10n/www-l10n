@@ -115,7 +115,7 @@ firefox-desktop-download-from-watching-a = Desde assistir a um tutorial na web a
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
-firefox-desktop-download-download-the-mobile = Baixe o navegador móvel { -brand-name-firefox } para ter proteção automática em todos os seus dispositivos.
+firefox-desktop-download-download-the-mobile = Baixe o navegador { -brand-name-firefox } para dispositivos móveis para ter proteção automática em todos os seus dispositivos.
 firefox-desktop-download-learn-about-the = Saiba mais abaixo sobre o navegador { -brand-name-firefox } de computador
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
