@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Kesemua alatan pembangun terkini dalam beta, 
 firefox-developer-a-separate-profile = <strong>Profil dan laluan berasingan</strong> agar anda boleh menjalankannya bersama Release atau { -brand-name-beta } { -brand-name-firefox } dengan mudah.
 firefox-developer-preferences-tailored = Keutamaan <strong>disesuaikan untuk pembangun web</strong>: Pelayar dan nyahpepijat jauh didayakan secara lalai, begitu juga dengan tema gelap dan butang bar alatan pembangun.
 firefox-developer-congrats-you-now-have = Tahniah. Anda kini memiliki { -brand-name-firefox-browser }: { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Tahniah. Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-browser } { -brand-name-developer-edition }.
