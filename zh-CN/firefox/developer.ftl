@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Beta 版中所有最新的开发者工具，�
 firefox-developer-a-separate-profile = <strong>单独的配置文件和路径</strong>，因此可以轻松与 { -brand-name-firefox } 稳定版或 { -brand-name-beta } 版共存。
 firefox-developer-preferences-tailored = <strong>为 Web 开发者量身定制的首选项</strong>：默认启用浏览器的远程调试、深色主题和开发者工具栏按钮。
 firefox-developer-congrats-you-now-have = 欢迎。您现在使用的是 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }。
+firefox-developer-congrats-you-now-have-latest = 恭喜。您现在使用的是最新版 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }。
