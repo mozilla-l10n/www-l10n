@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-promo-title-soraya = Započinamy wottud
+home-promo-title-ryan = Započinamy wottud
