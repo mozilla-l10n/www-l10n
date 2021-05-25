@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Tutti gli strumenti di sviluppo più recenti 
 firefox-developer-a-separate-profile = <strong>Percorso e profilo separati</strong> così da poter essere eseguito facilmente in parallelo alla versione ufficiale o { -brand-name-beta } di { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Impostazioni <strong>a misura di sviluppatori</strong>: browser e debugger remoto sono attivati per impostazione predefinita, così come il tema scuro e il pulsante degli strumenti di sviluppo web.
 firefox-developer-congrats-you-now-have = Congratulazioni: stai usando il { -brand-name-firefox-browser }{ -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Congratulazioni: stai utilizzando la versione più recente del { -brand-name-firefox-browser } { -brand-name-developer-edition }.
