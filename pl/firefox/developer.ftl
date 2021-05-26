@@ -83,4 +83,5 @@ firefox-developer-made-for-developers = Przeglądarka tworzona z myślą o tw�
 firefox-developer-all-the-latest = Wszystkie najnowsze narzędzia dla programistów z bety, plus <strong>eksperymentalne funkcje</strong>, takie jak wielowierszowy edytor konsoli i inspektor WebSocket.
 firefox-developer-a-separate-profile = <strong>Oddzielny profil i ścieżka</strong> sprawiają, że można ją łatwo uruchamiać obok stabilnego wydania lub { -brand-name-firefox(case: "gen") } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Preferencje <strong>dopasowane pod programistów</strong>: debugowanie przeglądarki i debugowanie zdalne są domyślnie włączone, podobnie jak ciemny motyw i przycisk paska narzędzi dla programistów.
-firefox-developer-congrats-you-now-have = Gratulacje. Używasz teraz { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }: { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have = Gratulacje. Używasz teraz { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Gratulacje. Używasz teraz najnowszej wersji { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
