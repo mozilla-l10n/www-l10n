@@ -19,4 +19,4 @@ ui-show-more = Zobrazit více
 ui-show-less = Zobrazit méně
 ui-show-all = Zobrazit vše
 ui-hide-all = Skrýt vše
-ui-learn-more = Dozvědět se více
+ui-learn-more = Zjistěte více
