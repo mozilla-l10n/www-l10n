@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Усі найновіші бета-версі
 firefox-developer-a-separate-profile = <strong>Окремий профіль та шлях</strong>, щоб ви могли легко запустити його разом з основним випуском або { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Налаштування <strong>з урахуванням веброзробників</strong>: Браузер та віддалене зневадження типово ввімкнено, як і темну тему та кнопку панелі інструментів розробника.
 firefox-developer-congrats-you-now-have = Вітаємо! Ви встановили { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Вітаємо! Ви встановили найновішу версію { -brand-name-firefox-browser } { -brand-name-developer-edition }.
