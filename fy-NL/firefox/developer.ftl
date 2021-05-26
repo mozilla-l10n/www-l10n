@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Alle nijste ûntwikkelersark yn beta, plus <s
 firefox-developer-a-separate-profile = In <strong>apart profyl en paad</strong>, sadat jo it maklik neist { -brand-name-firefox } Release of { -brand-name-beta } brûke kinne.
 firefox-developer-preferences-tailored = Foarkarren dy't <strong>op maat makke binne foar webûntwikkelers</strong>: flateropspoaring yn de browser en op ôfstân debugge binne standert ynskeakele, krekt as it donkere tema en de knop foar de ûntwikkelersarkbalke.
 firefox-developer-congrats-you-now-have = Lokwinske. Jo beskikke no oer { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Lokwinske. Jo beskikke no oer de nijste ferzje fan { -brand-name-firefox-browser } { -brand-name-developer-edition }.
