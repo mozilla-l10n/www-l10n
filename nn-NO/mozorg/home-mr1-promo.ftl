@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-promo-title-lalo = Opne opp for nye idear
+home-promo-title-gary = Vala du gjer spelar ei rolle
+home-promo-desc-soraya = Møbeldesignar, Firefox-fan
+home-promo-desc-ryan = Artist, skodespelarinne, atlet og aktivist, Firefox fan
