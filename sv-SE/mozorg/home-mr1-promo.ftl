@@ -5,7 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
+home-promo-title-lalo = Öppen för nya idéer
+home-promo-title-soraya = Det börjar här
 home-promo-title-gary = De val du gör spelar roll
 home-promo-title-ryan = Det börjar här
 home-promo-desc-lalo = Restauratör, Firefox-fan
 home-promo-desc-soraya = Möbeldesigner, Firefox-fan
+home-promo-desc-gary = Formar surfbrädor, Firefox-fan
+home-promo-desc-ryan = Konstnär, skådespelerska, idrottskvinna & aktivist, Firefox-fan
