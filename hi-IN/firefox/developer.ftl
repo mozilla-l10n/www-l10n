@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = बीटा में सभी नवीन
 firefox-developer-a-separate-profile = एक <strong>अलग प्रोफ़ाइल और पाथ</strong> जिससे आप रिलीज़ या { -brand-name-beta } { -brand-name-firefox } के साथ इसे आसानी से चला सकें।
 firefox-developer-preferences-tailored = वरीयता <strong>विशेष रूप से वेब Devलपर्स के लिए</strong> : ब्राउज़र और रिमोट डिबगिंग तयशुदा रूप से सक्षम होते हैं, साथ ही, डार्क थीम और डेवलपर टूलबार बटन भी।
 firefox-developer-congrats-you-now-have = बधाई हो। अब आपके पास { -brand-name-firefox-browser } { -brand-name-developer-edition }।
+firefox-developer-congrats-you-now-have-latest = बधाई हो। अब आपके पास है { -brand-name-firefox-browser } { -brand-name-developer-edition } का नवीनतम संस्करण।
