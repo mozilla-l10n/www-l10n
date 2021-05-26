@@ -9,6 +9,8 @@ home-promo-title-soraya = Fire starts here
 home-promo-title-gary = The choices you make matter
 home-promo-title-ryan = Fire starts here
 
+home-promo-explore-firefox = Explore { -brand-name-firefox }
+
 home-promo-desc-lalo-updated = Restaurateur, { -brand-name-firefox } fan
 home-promo-desc-soraya-updated = Furniture designer, { -brand-name-firefox } fan
 home-promo-desc-gary-updated = Surfboard shaper, { -brand-name-firefox } fan
