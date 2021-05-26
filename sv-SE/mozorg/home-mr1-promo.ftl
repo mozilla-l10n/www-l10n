@@ -7,4 +7,5 @@
 
 home-promo-title-gary = De val du gör spelar roll
 home-promo-title-ryan = Det börjar här
+home-promo-desc-lalo = Restauratör, Firefox-fan
 home-promo-desc-soraya = Möbeldesigner, Firefox-fan
