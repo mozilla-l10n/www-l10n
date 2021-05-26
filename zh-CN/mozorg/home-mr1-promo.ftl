@@ -8,3 +8,4 @@
 home-promo-title-lalo = 开辟新思路
 home-promo-desc-lalo = 餐馆老板、Firefox 迷
 home-promo-desc-soraya = 家具设计师、Firefox 迷
+home-promo-desc-gary = 冲浪板设计师、Firefox 迷
