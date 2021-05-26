@@ -11,6 +11,9 @@ home-promo-title-gary = Suas escolhas são importantes
 home-promo-title-ryan = O fogo começa aqui
 home-promo-explore-firefox = Conheça melhor o { -brand-name-firefox }
 home-promo-desc-lalo-updated = Restaurateur, fã do { -brand-name-firefox }
+home-promo-desc-soraya-updated = Designer de móveis, fã do { -brand-name-firefox }
+home-promo-desc-gary-updated = Shaper de pranchas, fã do { -brand-name-firefox }
+home-promo-desc-ryan-updated = Artista, atriz, atleta e ativista, fã do { -brand-name-firefox }
 # Obsolete string
 home-promo-desc-lalo = Restaurateur, fã do Firefox
 # Obsolete string
