@@ -36,6 +36,7 @@ manifesto-we-are-committed-to-discourse = Posvećeni smo internetu, koji promič
 manifesto-show-your-support = Iskaži tvoju podršku
 manifesto-share-on-twitter = Podijeli na { -brand-name-twitter }u
 manifesto-our-10-principles = <strong>Naših 10</strong> načela
+manifesto-explore-how-the-web-impacts = Istraži kako web utječe na znanost
 manifesto-add-new-voices-to-open = Dodaj nove glasove tehnologiji otvorenog izvora
 manifesto-join-us-as-a-volunteer = Pridruži nam se kao volonter
 manifesto-read-the-entire-manifesto = Pročitaj cijeli manifest
