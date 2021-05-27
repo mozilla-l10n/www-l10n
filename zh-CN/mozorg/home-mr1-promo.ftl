@@ -6,9 +6,14 @@
 ### URL: https://www-dev.allizom.org/
 
 home-promo-title-lalo = 开辟新思路
+home-promo-title-soraya = 星星之火，正将燎原
 home-promo-title-gary = 你的选择很关键
+home-promo-title-ryan = 星星之火，正将燎原
 home-promo-explore-firefox = 探索 { -brand-name-firefox }
 home-promo-desc-lalo-updated = 餐馆老板、{ -brand-name-firefox } 迷
+home-promo-desc-soraya-updated = 家具设计师、{ -brand-name-firefox } 迷
+home-promo-desc-gary-updated = 冲浪板设计师、{ -brand-name-firefox } 迷
+home-promo-desc-ryan-updated = 艺术家、演员、运动员、社会活动人士、{ -brand-name-firefox } 迷
 # Obsolete string
 home-promo-desc-lalo = 餐馆老板、Firefox 迷
 # Obsolete string
