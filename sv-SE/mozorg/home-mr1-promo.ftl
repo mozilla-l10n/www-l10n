@@ -8,8 +8,12 @@
 home-promo-title-lalo = Öppen för nya idéer
 home-promo-title-soraya = Det börjar här
 home-promo-title-gary = De val du gör spelar roll
-home-promo-title-ryan = Det börjar här
+home-promo-title-ryan = En gnista tänds
 home-promo-explore-firefox = Utforska { -brand-name-firefox }
+home-promo-desc-lalo-updated = Restauratör, { -brand-name-firefox }-fan
+home-promo-desc-soraya-updated = Möbeldesigner, { -brand-name-firefox }-fan
+home-promo-desc-gary-updated = Formar surfbrädor, { -brand-name-firefox }-fan
+home-promo-desc-ryan-updated = Konstnär, skådespelerska, idrottskvinna & aktivist, { -brand-name-firefox }-fan
 # Obsolete string
 home-promo-desc-lalo = Restauratör, Firefox-fan
 # Obsolete string
