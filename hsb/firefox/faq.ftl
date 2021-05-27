@@ -57,6 +57,7 @@ does-firefox-sell = Předawa { -brand-name-firefox } waše wosobinske daty?
 
 nope-never-have = Ně. Njeje to ženje činił a njebudźe to ženje činić. A my škitamy waš před wjele wabjerjemi, kotřiž to činja. Produkty { -brand-name-firefox } wašu priwatnosć škitaja. <a href="{ $url }">To je slub.</a>
 why-is-firefox = Čehodla je { -brand-name-firefox } tak pomały?
+firefox-isnt-slow = { -brand-name-firefox } pomały njeje … hižo nic. W lěće 2017 smy našu wobhlowakowu mašinu (z mjenom qunatum) dospołnje přetwarili, zo bychmy zawěsćili, zo { -brand-name-firefox } móže z druhimi wulimi wobhladowakami konkurować. A, naše blokowaki přesćěhowakow pomhaja, strony hišće spěšnišo začitać. { -brand-name-firefox } je tuž spěšny kaž błysk, bjez toho, zo by so waša priwatnosć wobškodźiła.
 is-firefox-chromium = Bazuje { -brand-name-firefox } na { -brand-name-chromium }?
 does-firefox-use = Wužiwa { -brand-name-firefox } { -brand-name-google }?
 
