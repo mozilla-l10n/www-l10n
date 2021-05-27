@@ -8,11 +8,11 @@
 home-internet-for-people-not-profit = Internet za ljude, ne za profit
 home-did-you-know-mozilla-the-maker = Znaš li ovo? { -brand-name-mozilla } – proizvođač { -brand-name-firefox }a – se bori za zadržavanje interneta kao javnog globalnog resursa, otvorenog i dostupnog svima.
 home-fast-for-good = Zauvijek brz.
-home-with-2x-the-speed-built-in = Dvostruko brži, s ugrađenom zaštitom privatnosti i s Mozillom na svojoj strani, novi { -brand-name-firefox } je bolji način za pregledavanje.
+home-with-2x-the-speed-built-in = Dvostruko brži, s ugrađenom zaštitom privatnosti i s { -brand-name-mozilla } na svojoj strani, novi { -brand-name-firefox } je bolji način za pregledavanje.
 home-we-make-the-internet-safer = Internet činimo sigurnijim, zdravijim i bržim.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } je neprofitna matična organizacija { -brand-name-firefox }a, stvarnog alternativnog preglednika. Stvaramo proizvode koji služe ljudima, a ne profitu.
 home-our-impact = Naš utjecaj
-home-when-you-use-firefox-you-help = Kad koristiš { -brand-name-firefox }, pomažeš Mozilli u borbi protiv dezinformacija na internetu i u podučavanju digitalnih vještina. Provjeri što pomaže u stvaranju zdravijeg interneta.
+home-when-you-use-firefox-you-help = Kad koristiš { -brand-name-firefox }, pomažeš { -brand-name-mozilla } u borbi protiv dezinformacija na internetu i u podučavanju digitalnih vještina. Pogledaj što pomaže u stvaranju zdravijeg interneta.
 home-working-to-keep-the-internet = Radeći na tome da održimo Internet zdravim, otvorenim i dostupnim svima, podučavamo web pismenost, pružamo alate i predstavljamo svakog pojedinca koji cijeni Internet kao globalni javni resurs.
 home-working-at-the-grassroots-and = Radeći na osnovnim i političkim razinama, podučavamo pismenost na Internetu, pružamo alate i predstavljamo svakog pojedinca koji cijeni Internet izgrađen na poštenju, uključivanju i poštovanju.
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } inicijativa za točnost informacija

@@ -63,4 +63,4 @@ manifesto-details-promote-models = promovirati modele za stvaranje ekonomskih vr
 manifesto-details-promote-the-mozilla = promovirati načela { -brand-name-mozilla } Manifesta u javnim raspravama i u kontekstu internetske industrije.
 manifesto-details-some-foundation = Neke djelatnosti zaklade – u ovom trenutku stvaranje, isporuka i promocija proizvoda – vrše se primarno kroz { -brand-name-mozilla-foundation }, koja je u potpunom vlasništvu od { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Poziv
-manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla } zaklada poziva sve koji podržavaju načela iznesena u { -brand-name-mozilla } Manifestu da nam se pridruže, te nam pomognu u pronalasku novih načina pretakanja ove vizije interneta u stvarnost.
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }poziva sve koji podržavaju načela iznesena u { -brand-name-mozilla } Manifestu da nam se pridruže, te da nam pomognu pronaći nove načine ostvarivanja ove vizije interneta.
