@@ -9,6 +9,7 @@ home-promo-title-lalo = Concipe nove ideas
 home-promo-title-soraya = Que nos comencia hic
 home-promo-title-gary = Tu selectiones es importante
 home-promo-title-ryan = Que nos comencia hic
+home-promo-explore-firefox = Explora { -brand-name-firefox }
 home-promo-desc-lalo-updated = Restaurator, fan de { -brand-name-firefox }
 home-promo-desc-soraya-updated = Designator de mobiles, fan de { -brand-name-firefox }
 home-promo-desc-gary-updated = Modellator de plancas de surf, fan de { -brand-name-firefox }
