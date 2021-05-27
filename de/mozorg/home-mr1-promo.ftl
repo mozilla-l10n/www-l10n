@@ -10,13 +10,13 @@ home-promo-title-soraya = Wenn der Funke zündet
 home-promo-title-gary = Ihre Entscheidung zählt
 home-promo-title-ryan = Wenn der Funke zündet
 home-promo-desc-lalo-updated = Restaurator, { -brand-name-firefox }-Fan
-home-promo-desc-soraya-updated = Möbeldesigner, { -brand-name-firefox }-Fan
+home-promo-desc-soraya-updated = Möbeldesignerin, { -brand-name-firefox }-Fan
 home-promo-desc-gary-updated = Surfbrett-Bauer, { -brand-name-firefox }-Fan
 home-promo-desc-ryan-updated = Künstlerin, Schauspielerin, Athletin & Aktivistin, { -brand-name-firefox }-Fan
 # Obsolete string
 home-promo-desc-lalo = Restaurator, Firefox-Fan
 # Obsolete string
-home-promo-desc-soraya = Möbeldesigner, Firefox-Fan
+home-promo-desc-soraya = Möbeldesignerin, Firefox-Fan
 # Obsolete string
 home-promo-desc-gary = Surfbrett-Bauer, Firefox-Fan
 # Obsolete string
