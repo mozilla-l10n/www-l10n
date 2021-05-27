@@ -9,6 +9,7 @@ home-promo-title-lalo = Відкрийте свіжі ідеї
 home-promo-title-soraya = Вогонь лине звідси
 home-promo-title-gary = Ваш вибір має значення
 home-promo-title-ryan = Вогонь лине звідси
+home-promo-explore-firefox = Познайомтеся з { -brand-name-firefox }
 home-promo-desc-lalo-updated = Ресторатор, шанувальник { -brand-name-firefox }
 home-promo-desc-soraya-updated = Дизайнерка меблів, шанувальниця { -brand-name-firefox }
 home-promo-desc-gary-updated = Формувальник дощок для серфінгу, шанувальник { -brand-name-firefox }
