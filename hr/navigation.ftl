@@ -48,7 +48,7 @@ navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } uvodi { -brand-name-firefox } u proširenu i virtualnu stvarnost.
 navigation-firefox-built-just-for = { -brand-name-firefox }, izgrađen samo za programere.
-navigation-preview-the-latest-build = Pregledaj najnoviju { -brand-name-firefox } gradnju i pomozi nam učiniti ga najboljim.
+navigation-preview-the-latest-build = Pregledaj najnoviju { -brand-name-firefox } gradnju i pomogni nam učiniti ga najboljim.
 navigation-firefox-playground = { -brand-name-firefox } igralište
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
 navigation-mozilla-manifesto = { -brand-name-mozilla } manifest
@@ -87,7 +87,7 @@ navigation-same-speed-and-safety = Ista brzina i sigurnost kojoj vjeruješ, diza
 navigation-add-ons = Dodaci
 navigation-projects = Projekti
 navigation-close-projects-menu = Zatvori izbornik Projekti
-navigation-donate-your-voice-to = Doniraj svoj glas i pomozi svima omogućiti prepoznavanje glasa.
+navigation-donate-your-voice-to = Doniraj svoj glas i pomogni svima omogućiti prepoznavanje glasa.
 # Outdated string
 navigation-web-of-things-iot = Internet stvari (IoT)
 # Outdated string

@@ -47,11 +47,11 @@ firefox-channel-build-test-scale-and-more = Izgradi, testiraj, povećaj itd. s j
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je nestabilna platforma za testiranje i razvoj. { -brand-name-developer-edition } standardno šalje podatke organizaciji { -brand-name-mozilla } – i ponekad našim partnerima – kako bi nam pomogli brže riješiti probleme i isprobati ideje. <a href="{ $link }">Saznaj koji se podaci dijele</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automatski šalje povratne informacije organizaciji { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = Zaviri u naš web preglednik sljedeće generacije i pomozi nam da postane još bolji: isprobaj { -brand-name-firefox-nightly }.
+firefox-channel-get-a-sneak-peek-at-our = Zaviri u naš web preglednik sljedeće generacije i pomogni nam da postane još bolji: isprobaj { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Testiraj potpuno nove funkcije dnevno (ili … noćno). Uživaj na vlastitu odgovornost.
 firefox-channel-try-new-features-in-a-pre-release = Isprobaj nove funkcije u predizdanju preglednika za { -brand-name-ios } | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Doživi najmodernije funkcije u predizdanju preglednika za { -brand-name-ios } putem { -brand-name-apple }ovog { -brand-name-test-flight } programa. Instaliraj sada!
-firefox-channel-test-beta-versions-of-firefox-ios-long = Testiraj beta verzije { -brand-name-firefox }a za { -brand-name-ios } putem { -brand-name-test-flight } programa od { -brand-name-apple }a i pomozi nam pobaljšati nešeg preglednika za { -brand-name-iphone }, { -brand-name-ipad } i iPod touch.
+firefox-channel-test-beta-versions-of-firefox-ios-long = Testiraj beta verzije { -brand-name-firefox }a za { -brand-name-ios } putem { -brand-name-test-flight } programa od { -brand-name-apple }a i pomogni nam pobaljšati nešeg preglednika za { -brand-name-iphone }, { -brand-name-ipad } i iPod touch.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Testiraj beta verzije { -brand-name-firefox }a za { -brand-name-ios } putem { -brand-name-test-flight } programa od { -brand-name-apple }a.
 firefox-channel-sign-up-now = Registriraj se

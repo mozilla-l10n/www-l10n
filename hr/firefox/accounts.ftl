@@ -43,10 +43,10 @@ firefox-accounts-take-less-keep-it = Uzmi manje.<br> Čuvaj sigurno.<br> Bez taj
 firefox-accounts-get-the-knowledge = Skupi znanje koje će te štititi.
 firefox-accounts-learn-everything-you = Saznaj od najvećih stručnjaka sve što trebaš znati (a još ne znaš) o tome, kako mudro i sigurno koristiti internet.
 firefox-accounts-and-be-part-of-protecting = I budi dio zaštite interneta za buduće generacije.
-firefox-accounts-help-us-build-a-better = Pomozi nam izgraditi bolji { -brand-name-firefox } za sve.
+firefox-accounts-help-us-build-a-better = Pomogni nam izgraditi bolji { -brand-name-firefox } za sve.
 firefox-accounts-get-into-the-open = Preuzmi duh otvorenog koda, testirajući buduće proizvode.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
-firefox-accounts-help-us-keep-big-tech = Pomozi nam kontrolirati velike tehnološke tvrtke.
+firefox-accounts-help-us-keep-big-tech = Pomogni nam kontrolirati velike tehnološke tvrtke.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
