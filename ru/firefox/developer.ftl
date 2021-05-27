@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Бета-версия самых послед
 firefox-developer-a-separate-profile = <strong>Отдельный профиль и путь</strong>, чтобы вы могли легко его запустить одновременно с релизом { -brand-name-firefox } или { -brand-name-firefox } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Настроенный <strong>специально под веб-разработчиков</strong>: Браузерная и удалённая отладка, тёмная тема и кнопка инструментов разработчика на панели инструментов включены по умолчанию.
 firefox-developer-congrats-you-now-have = Поздравляем. Теперь у вас установлен { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Поздравляем. Теперь вы используете последнюю версию { -brand-name-firefox-browser } { -brand-name-developer-edition }.
