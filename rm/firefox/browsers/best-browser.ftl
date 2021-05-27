@@ -10,3 +10,4 @@ best-browser-so-many-browser-options = I dat plunas da navigaturs. Tranter quels
 best-browser-privacy-speed-and-security = Sfera privata, sveltezza e segirezza.
 best-browser-how-to-choose-the-best = Uschia chattas ti il meglier navigatur per tai.
 best-browser-the-internet-has-become = L'internet è daventà indispensabel, cumparegliabel cun electricitad ed aua currenta. Perquai èsi pli impurtant che mai da chattar il meglier navigatur per tai. L'internet è in segund biro, scolast e mintgatant era medi. Perfin sche tes medi real ta scussegliass da consultar il web en cas da sintoms.
+best-browser-in-the-mid-nineties = Vers mez dals onns 1990 han { -brand-name-netscape }, { -brand-name-ie } ed AOL dominà l'internet. Bler era pli simpel cura che la melodia sonora dal modem ans fascheva spetgar cun pazienza fin ch'ina pagina web era finalmain chargiada. Decisiva era da quel temp sulettamain la sveltezza dal navigatur.
