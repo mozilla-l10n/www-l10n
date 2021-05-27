@@ -9,6 +9,7 @@ home-promo-title-lalo = Eröffnen Sie neue Ideen
 home-promo-title-soraya = Wenn der Funke zündet
 home-promo-title-gary = Ihre Entscheidung zählt
 home-promo-title-ryan = Wenn der Funke zündet
+home-promo-explore-firefox = Entdecken Sie { -brand-name-firefox }
 home-promo-desc-lalo-updated = Restaurator, { -brand-name-firefox }-Fan
 home-promo-desc-soraya-updated = Möbeldesignerin, { -brand-name-firefox }-Fan
 home-promo-desc-gary-updated = Surfbrett-Bauer, { -brand-name-firefox }-Fan
