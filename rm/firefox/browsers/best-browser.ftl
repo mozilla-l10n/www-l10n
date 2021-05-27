@@ -9,3 +9,4 @@ best-browser-find-your-best-browser = Scuvra il meglier navigatur per tai: cun s
 best-browser-so-many-browser-options = I dat plunas da navigaturs. Tranter quels s'adatta dentant mo in optimalmain a tes basegns. Il meglier navigatur per tai duess ta garantir tant sveltezza sco era proteger tia sfera privata.
 best-browser-privacy-speed-and-security = Sfera privata, sveltezza e segirezza.
 best-browser-how-to-choose-the-best = Uschia chattas ti il meglier navigatur per tai.
+best-browser-the-internet-has-become = L'internet è daventà indispensabel, cumparegliabel cun electricitad ed aua currenta. Perquai èsi pli impurtant che mai da chattar il meglier navigatur per tai. L'internet è in segund biro, scolast e mintgatant era medi. Perfin sche tes medi real ta scussegliass da consultar il web en cas da sintoms.
