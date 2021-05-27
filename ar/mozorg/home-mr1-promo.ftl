@@ -9,6 +9,12 @@ home-promo-title-soraya = الشرارة تبدأ من هنا
 home-promo-title-gary = الخيارات التي تُقدّمها تصنع الفارق
 home-promo-title-ryan = الشرارة تبدأ من هنا
 
+home-promo-explore-firefox = استكشف { -brand-name-firefox }
+
+home-promo-desc-lalo-updated = صاحب مطعم، أحد عُشّاق { -brand-name-firefox }
+home-promo-desc-soraya-updated = مُصمّم أثاث، أحد عُشّاق { -brand-name-firefox }
+home-promo-desc-gary-updated = مُصمّم ألواح تزلّج، أحد عُشّاق { -brand-name-firefox }
+home-promo-desc-ryan-updated = فنّانة وممثّلة ولاعبة رياضة وناشطة، إحدى عُشّاق { -brand-name-firefox }
 
 # Obsolete string
 home-promo-desc-lalo = صاحب مَطعم، أحد عُشّاق Firefox
