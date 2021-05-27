@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+home-promo-title-lalo = Aperta a nuove idee
 home-promo-title-soraya = Cominciamo da qui
 home-promo-title-gary = Le scelte che fai sono importanti
 home-promo-title-ryan = Cominciamo da qui
