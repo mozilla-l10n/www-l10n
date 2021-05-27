@@ -13,7 +13,7 @@ mission-at-mozilla-were-a-global-community = Mozilla je globalna zajednica tehno
 mission-we-believe-this-act-of-human-collaboration = Vjerujemo da je ovaj čin suradnje putem otvorene platforme esencijalan za individualan rast i našu zajedničku budućnost.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Pročitajte <a href="{ $url }">Mozilla manifest</a> i saznajte više informacija o našim vrijednostima i principima koji vode našu misiju.
+mission-read-the-mozilla-manifesto-to-learn = Pročitaj <a href="{ $url }">Mozilla manifest</a> i saznaj više o našim vrijednostima i principima koji vode našu misiju.
 mission-watch-the-video-above-to-learn-more = Pogledajte iznad prikazani video i saznajte tko smo, otkuda smo i kako Web činimo boljim za vas.
 mission-get-involved = Uključi se
 mission-volunteer-opportunities-in-a-number = Volonterske prilike u raznim područjima
