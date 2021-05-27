@@ -59,6 +59,7 @@ nope-never-have = Ně. Njeje to ženje činił a njebudźe to ženje činić. A 
 why-is-firefox = Čehodla je { -brand-name-firefox } tak pomały?
 firefox-isnt-slow = { -brand-name-firefox } pomały njeje … hižo nic. W lěće 2017 smy našu wobhlowakowu mašinu (z mjenom qunatum) dospołnje přetwarili, zo bychmy zawěsćili, zo { -brand-name-firefox } móže z druhimi wulimi wobhladowakami konkurować. A, naše blokowaki přesćěhowakow pomhaja, strony hišće spěšnišo začitać. { -brand-name-firefox } je tuž spěšny kaž błysk, bjez toho, zo by so waša priwatnosć wobškodźiła.
 is-firefox-chromium = Bazuje { -brand-name-firefox } na { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } na { -brand-name-chromium } njebazuje (projekt wobhladowaka wotewrjeneho žórła w jadrje { -brand-name-google } { -brand-name-chrome }). We woprawdźitosće smy jedyn z poslednich wulkich wobhladowakow, kotrež na tym njebazuja. { -brand-name-firefox } na našej wobhladowakej mašinje Quantum běži, kotruž smy specielnje za { -brand-name-firefox } wuwili, zo bychmy móhli zawěsćić, zo z wašim datami z respektom wobchadźeja a daty priwatne wostawaja.
 does-firefox-use = Wužiwa { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
