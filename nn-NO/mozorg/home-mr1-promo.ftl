@@ -3,9 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/
 
 home-promo-title-lalo = Opne opp for nye idear
+home-promo-title-soraya = Det byrjar her
 home-promo-title-gary = Vala du gjer spelar ei rolle
+home-promo-title-ryan = Det byrjar her
+home-promo-explore-firefox = Utforsk { -brand-name-firefox }
+home-promo-desc-soraya-updated = Møbeldesignar, { -brand-name-firefox }-fan
+# Obsolete string
 home-promo-desc-soraya = Møbeldesignar, Firefox-fan
+# Obsolete string
 home-promo-desc-ryan = Artist, skodespelarinne, atlet og aktivist, Firefox fan
