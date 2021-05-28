@@ -37,7 +37,7 @@ misinformation-firefox-keeps-trackers-desc = Como mencionado anteriormente, rast
 misinformation-social-media-clean-heading = O { -brand-name-firefox } te ajuda a manter limpas suas redes sociais:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = Redes sociais sabem muito sobre você. Além disso, são capazes de te rastrear além das próprias plataformas com seus botões de Compartilhar e Curtir, apesar da proteção contra rastreamento — mesmo que você não tenha uma conta. O <a href="{ $container }">{ -brand-name-facebook-container }</a> do { -brand-name-firefox } garante que o { -brand-name-facebook } e o { -brand-name-instagram } não consigam fazer isso com tanta facilidade, o que reduz significativamente a probabilidade de aparecer informações falsas através de anúncios e conteúdo patrocinado.
+misinformation-social-media-clean-desc = Redes sociais sabem muito sobre você. Além disso, são capazes de te rastrear além das próprias plataformas com seus botões de Compartilhar e Curtir, apesar da proteção contra rastreamento, mesmo que você não tenha uma conta. O <a href="{ $container }">{ -brand-name-facebook-container }</a> do { -brand-name-firefox } garante que o { -brand-name-facebook } e o { -brand-name-instagram } não consigam fazer isso com tanta facilidade, o que reduz significativamente a probabilidade de aparecer informações falsas através de anúncios e conteúdo patrocinado.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = O { -brand-name-firefox } te ajuda a fazer aparecer conteúdo que é digno de seu tempo:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
@@ -52,6 +52,6 @@ misinformation-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
 misinformation-because-we-put-people-first = Porque colocamos as pessoas em primeiro lugar. De fato, somos respaldados por uma <a href="{ $foundation }">organização sem fins lucrativos</a>. Desde o primeiro dia, tem sido nossa missão proteger a internet e todos que estão nela.
 misinformation-learn-more-about-our-mission = Saiba mais sobre nossa missão
 misinformation-your-privacy-by-the-product = Respeito à sua privacidade em cada um de nossos produtos
-misinformation-firefox-products-work-differently = Os produtos { -brand-name-firefox } funcionam diferente — porque foram projetados para primeiro proteger sua privacidade.
+misinformation-firefox-products-work-differently = Os produtos { -brand-name-firefox } funcionam diferente, porque foram projetados para primeiro proteger sua privacidade.
 misinformation-learn-about-our-products = Saiba mais sobre nossos produtos
 misinformation-designed-to-protect = Projetado para proteger sua privacidade
