@@ -19,7 +19,10 @@ navigation-v2-get-the-mobile-browser = Prevezmite si prehliadač pre svoj { -bra
 navigation-v2-privacy-promise = Prísľub ohľadom súkromia
 navigation-v2-learn-how-firefox-treats = Pozrite sa, ako { -brand-name-firefox } zaobchádza s vašimi údajmi.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
+navigation-v2-read-about-new-firefox-features = Prečítajte si o nových funkciách { -brand-name-firefox(case: "gen") }. Nájdete tu taktiež tipy pre bezpečnejšie používanie internetu.
 navigation-v2-release-notes = Poznámky k vydaniu
+navigation-v2-get-the-details-on-the = Podrobnosti o najnovších aktualizáciách { -brand-name-firefox(case: "gen") }
+navigation-v2-view-all-firefox-browsers = Zobraziť všetky { -brand-name-firefox-browsers(case: "acc", capitalization: "lower") }
 
 ## Products menu
 
@@ -32,11 +35,13 @@ navigation-v2-save-and-discover-the-best = Ukladajte si a objavujte najlepšie �
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Zabráňte { -brand-name-facebook(case: "dat") } v tom, aby vás sledoval mimo svojej stránky.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Ochrana aj mimo prehliadača - na všetkých zariadeniach
 navigation-v2-product-promise = Prísľub ohľadom produktov
 navigation-v2-learn-how-each-firefox-product = Zistite, ako produkty s označením { -brand-name-firefox } chránia a rešpektujú vaše dáta.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Zabezpečte spojenie svojho počítača s internetom
 navigation-v2-view-all-products = Zobraziť všetky produkty
 
 ## Who We Are menu
@@ -45,6 +50,7 @@ navigation-v2-who-we-are = Kto sme
 navigation-v2-close-who-we-are-menu = Zavrieť
 navigation-v2-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Spoznajte neziskovú organizáciu, ktorá stojí za { -brand-name-firefox(case: "ins") } a bojuje za lepší web.
 navigation-v2-get-involved = Zapojte sa
 navigation-v2-join-the-fight-for-a = Zapojte sa do boja o zdravý internet.
 navigation-v2-leadership = Vedenie
@@ -60,6 +66,7 @@ navigation-v2-innovation = Inovácie
 navigation-v2-close-innovation-menu = Zavrieť
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Získajte { -brand-name-firefox } vytvorený priamo pre vývojárov.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Preskúmajte web pomocou prehliadača { -brand-name-firefox } pre virtuálnu realitu.
