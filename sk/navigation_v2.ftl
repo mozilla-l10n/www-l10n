@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Prevziať { -brand-name-firefox }
+navigation-v2-download-firefox = Stiahnuť { -brand-name-firefox }
 navigation-v2-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
 navigation-v2-menu = Ponuka
 

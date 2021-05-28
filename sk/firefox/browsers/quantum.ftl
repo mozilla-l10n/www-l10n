@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
-page-title = Prevziať { -brand-name-firefox-quantum }
+page-title = Stiahnuť { -brand-name-firefox-quantum }
 page-description = { -brand-name-firefox-quantum } bol revolúciou. V roku 2017 sme vytvorili nový, rýchlejší prehliadač, ktorý neustále vylepšujeme. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser(capitalization: "lower") }.
 the-latest-firefox = Najnovší { -brand-name-firefox }: { -brand-name-firefox-quantum }
 firefox-quantum-was = { -brand-name-firefox-quantum } bol revolúciou vo vývoji { -brand-name-firefox(case: "gen") }. V roku 2017 sme vytvorili nový, rýchlejší prehliadač, ktorý neustále vylepšujeme. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser(capitalization: "lower") }.

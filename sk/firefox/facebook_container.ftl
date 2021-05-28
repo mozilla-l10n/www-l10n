@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } pre { -brand-name-firefox } | Zabráňte { -brand-name-facebook }u sledovať, aké stránky navštevujete.
-facebook-container-millions-of-people-around = Milióny ľudí po celom svete veria { -brand-name-firefox }u ako svojmu webovému prehliadaču pre { -brand-name-android }, { -brand-name-ios } a počítače. Je rýchly a chráni vaše súkromie. Prevezmite si ho hneď teraz!
+facebook-container-millions-of-people-around = Milióny ľudí po celom svete veria { -brand-name-firefox }u ako svojmu webovému prehliadaču pre { -brand-name-android }, { -brand-name-ios } a počítače. Je rýchly a chráni vaše súkromie. Stiahnite si ho hneď teraz!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pod kontrolou. Nechajte si zvyšok svojho života pre seba.
 facebook-container-get-the-facebook-container = Získajte rozšírenie { -brand-name-facebook-container }
-facebook-container-download-firefox-and-get-the = Prevezmite si { -brand-name-firefox } a získajte rozšírenie { -brand-name-facebook-container }
+facebook-container-download-firefox-and-get-the = Stiahnite si { -brand-name-firefox } a získajte rozšírenie { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Doplnok { -brand-name-facebook-container } je v súčasnosti dostupný len vo { -brand-name-firefox(case: "loc") } pre počítače.
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/

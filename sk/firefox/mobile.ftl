@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Prevezmite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pre váš mobilný telefón s { -brand-name-ios(case: "ins") } a { -brand-name-android(case: "ins") }
+firefox-mobile-download-the-firefox-browser = Stiahnite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pre svoj mobilný telefón s { -brand-name-ios(case: "ins") } a { -brand-name-android(case: "ins") }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pre mobily blokuje v predvolenom nastavení viac ako 2 000 sledovacích prvkov, čím vám poskytuje súkromie, ktoré si zaslúžite a rýchlosť, ktorú potrebujete.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
@@ -33,6 +33,6 @@ firefox-mobile-find-it-fast-with-a-smart = Rýchle hľadanie pomocou vyhľadáva
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } predpokladá vaše potreby pomocou návrhov vyhľadávania a rýchleho prístupu k stránkam, ktoré najviac navštevujete.
 firefox-mobile-the-privacy-you-deserve-the = Súkromie, ktoré si zaslúžite. Rýchlosť, ktorú potrebujete.
 firefox-mobile-get-firefox-for-mobile = Získajte { -brand-name-firefox } pre mobilné zariadenia
-firefox-mobile-send-a-download-link-to-your = Odošlite si odkaz na prevzatie do svojho telefónu.
+firefox-mobile-send-a-download-link-to-your = Odošlite si odkaz na stiahnutie do svojho telefónu.
 firefox-mobile-scan-the-qr-code-to-get-started = Naskenujte QR kód a začnite
 firefox-mobile-scan-alt-text = Naskenujte QR kód a získajte { -brand-name-firefox } pre mobil

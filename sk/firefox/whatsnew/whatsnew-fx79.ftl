@@ -23,7 +23,7 @@ whatsnew79-firefox-blocks-more = { -brand-name-firefox } blokuje viac reklamnýc
 # CTA link
 whatsnew79-see-your-report = Zobraziť správu
 whatsnew79-update-your-firefox = Aktualizujte svoj prehliadač { -brand-name-firefox }
-whatsnew79-download-the-firefox = Prevziať prehliadač { -brand-name-firefox }
+whatsnew79-download-the-firefox = Stiahnuť prehliadač { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = Prečítajte si náš sľub ohľadom ochrany súkromia
 whatsnew79-take-less-keep-it-safe = Brať čo najmenej. Uchovávať to v bezpečí. Žiadne tajomstvá. Nezneužívame vašu dôveru na zarábanie peňazí.
 # CTA link

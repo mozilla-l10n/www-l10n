@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-firefox-desktop-download-og-title = Prevezmite si ten najrýchlejší { -brand-name-firefox } vôbec
+firefox-desktop-download-og-title = Stiahnite si ten najrýchlejší { -brand-name-firefox } vôbec
 firefox-desktop-download-og-desc = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -34,7 +34,7 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-youve-already-got-the-browser = Prehliadač { -brand-name-firefox } už máte. No to nie je jediná vec so značkou { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Sledujte hackerov pomocou { -brand-name-firefox-monitor }u, chráňte svoje heslá pomocou { -brand-name-firefox-lockwise } a omnoho viac.
 firefox-desktop-download-get-more-from-firefox = Využívajte { -brand-name-firefox } naplno
-firefox-desktop-download-just-download-the-browser = Prevezmite si prehliadač
+firefox-desktop-download-just-download-the-browser = Stiahnite si prehliadač
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -47,9 +47,9 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Používate nezabezp
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Preberanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>.
+firefox-desktop-download-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je viac ako prehliadač.
-firefox-desktop-download-interrupted = Vaše preberanie bolo prerušené. Nič však nie je stratené.
+firefox-desktop-download-interrupted = Vaše sťahovanie bolo prerušené. Nič však nie je stratené.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Pri inštalácií { -brand-name-firefox(case: "gen") } postupujte, prosím, podľa <a href="{ $url }">týchto inštrukcií</a>.

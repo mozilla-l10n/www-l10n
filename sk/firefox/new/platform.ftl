@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/windows/
 
 new-platform-free-web-browser = Voľne dostupný webový prehliadač
-new-platform-download-firefox = Prevziať { -brand-name-firefox }
-new-platform-download-the-fastest = Prevezmite si ten najrýchlejší { -brand-name-firefox } vôbec
+new-platform-download-firefox = Stiahnuť { -brand-name-firefox }
+new-platform-download-the-fastest = Stiahnite si ten najrýchlejší { -brand-name-firefox } vôbec
 new-platform-faster-page-loading = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } je tu.
 new-platform-the-new-firefox = Nový <strong>{ -brand-name-firefox }</strong>
 new-platform-2x-faster = 2x rýchlejší
@@ -17,16 +17,16 @@ new-platform-uses-30-less-memory = Používa o 30 % menej pamäte než { -brand-
 new-platform-powerfully-private = Zameraný na súkromie
 new-platform-truly-private-browsing = Skutočne súkromné prehliadanie s ochranou pred sledovaním
 new-platform-advanced-install-options = Pokročilé možnosti inštalácie a ďalšie platformy
-new-platform-download-in-another = Prevziať v inom jazyku
+new-platform-download-in-another = Stiahnuť v inom jazyku
 new-platform-fix-a-problem = Oprava problému
 new-platform-need-help = Potrebujete pomoc?
-new-platform-download-mozilla-firefox-title = Prevezmite si { -brand-name-mozilla } { -brand-name-firefox }, voľne dostupný webový prehliadač. { -brand-name-firefox } je vyvíjaný neziskovou organizáciou, ktorej cieľom je dať ľudom kontrolu nad internetom. Prevezmite si { -brand-name-firefox } pre { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }!
+new-platform-download-mozilla-firefox-title = Stiahnite si { -brand-name-mozilla } { -brand-name-firefox }, voľne dostupný webový prehliadač. { -brand-name-firefox } je vyvíjaný neziskovou organizáciou, ktorej cieľom je dať ľudom kontrolu nad internetom. Stiahnite si { -brand-name-firefox } pre { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }!
 # /firefox/linux/ HTML page title
-new-platform-download-mozilla-linux = Prevziať { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }
+new-platform-download-mozilla-linux = Stiahnuť { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Nainštalujte si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }, slobodný webový prehliadač. { -brand-name-firefox } je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte { -brand-name-firefox } pre { -brand-name-linux } ešte dnes!
 # /firefox/linux/ social sharing title
-new-platform-download-the-fastest-linux = Prevezmite si ten najrýchlejší { -brand-name-firefox } pre { -brand-name-linux } vôbec
+new-platform-download-the-fastest-linux = Stiahnite si ten najrýchlejší { -brand-name-firefox } pre { -brand-name-linux } vôbec
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } pre { -brand-name-linux } je tu.
 # /firefox/linux/ main page title
@@ -38,11 +38,11 @@ new-platform-speed-meet-security = Rýchlosť aj bezpečnosť. { -brand-name-fir
 new-platform-open-source = Otvorený zdrojový kód
 new-platform-look-under-the-hood = Pozrite sa pod kapotu. { -brand-name-firefox } je postavený na otvorenom zdrojovom kóde - tak, ako { -brand-name-linux }.
 # /firefox/mac/ HTML page title
-new-platform-download-mozilla-firefox-mac = Prevziať { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-mac-short }
+new-platform-download-mozilla-firefox-mac = Stiahnuť { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
 new-platform-download-mozilla-firefox-desc-mac = Nainštalujte si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-mac-short }, slobodný webový prehliadač. { -brand-name-firefox } je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte { -brand-name-firefox } pre { -brand-name-mac-short } ešte dnes!
 # /firefox/mac/ social sharing title
-new-platform-download-the-fastest-mac = Prevezmite si ten najrýchlejší { -brand-name-firefox } pre { -brand-name-mac-short } vôbec
+new-platform-download-the-fastest-mac = Stiahnite si ten najrýchlejší { -brand-name-firefox } pre { -brand-name-mac-short } vôbec
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } pre { -brand-name-mac-short } je tu.
 # /firefox/mac/ main page title. Span is for visually formatting.
@@ -53,11 +53,11 @@ new-platform-get-speed-and-security = Rýchlosť aj bezpečnosť. { -brand-name-
 new-platform-block-trackers = Blokuje sledovacie prvky
 new-platform-be-the-master-of-your = Pomocou prísneho blokovania obsahu môžete odstrihnúť všetky cookies a sledovacie prvky.
 # /firefox/windows/ HTML page title
-new-platform-download-mozilla-windows = Prevziať { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-windows }
+new-platform-download-mozilla-windows = Stiahnuť { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-windows }
 # /firefox/windows/ HTML page description
 new-platform-download-mozilla-desc-windows = Nainštalujte si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-windows }, slobodný webový prehliadač. { -brand-name-firefox } je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte { -brand-name-firefox } pre { -brand-name-windows } ešte dnes!
 # /firefox/windows/ social sharing title
-new-platform-download-the-fastest-windows = Prevezmite si ten najrýchlejší { -brand-name-firefox } pre { -brand-name-windows } vôbec
+new-platform-download-the-fastest-windows = Stiahnite si ten najrýchlejší { -brand-name-firefox } pre { -brand-name-windows } vôbec
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } pre { -brand-name-windows } je tu.
 # /firefox/windows/ main page title. Span is for visually formatting.
@@ -68,8 +68,8 @@ new-platform-live-your-life = Žite si svoj život. { -brand-name-firefox } vás
 new-platform-seamless-setup = Jednoduché nastavenie
 new-platform-easy-migration = Jednoduchý prenos nastavení a záložiek vo { -brand-name-firefox }e pre { -brand-name-windows }.
 # span is for visual formatting and line break
-new-platform-download-firefox-for-windows = Prevziať { -brand-name-firefox } <br>pre { -brand-name-windows }
+new-platform-download-firefox-for-windows = Stiahnuť { -brand-name-firefox } <br>pre { -brand-name-windows }
 # span is for visual formatting and line break
-new-platform-download-firefox-for-macos = Prevziať { -brand-name-firefox } <br>pre { -brand-name-mac }
+new-platform-download-firefox-for-macos = Stiahnuť { -brand-name-firefox } <br>pre { -brand-name-mac }
 # span is for visual formatting and line break
-new-platform-download-firefox-for-linux = Prevziať { -brand-name-firefox } <br>pre { -brand-name-linux }
+new-platform-download-firefox-for-linux = Stiahnuť { -brand-name-firefox } <br>pre { -brand-name-linux }

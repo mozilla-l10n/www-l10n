@@ -8,17 +8,17 @@
 
 ## Required
 
-installer-help-page-title = Vaše preberanie bolo prerušené
+installer-help-page-title = Vaše sťahovanie bolo prerušené
 installer-help-main-tagline = To sa niekedy stáva. Skúsme iný postup.
 installer-help-action-channel = Toto by vám malo fungovať lepšie.
-installer-help-action-choose = Vyberte si nižšie, čo chcete prevziať.
+installer-help-action-choose = Vyberte si nižšie, čo chcete stiahnuť.
 
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Získajte najnovšiu verziu. Prevezmite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }, ktorý pre vás zablokuje viac ako { $trackers } sledovacích prvkov.
+installer-help-firefox-release-desc = Získajte najnovšiu verziu. Stiahnite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }, ktorý pre vás zablokuje viac ako { $trackers } sledovacích prvkov.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testujte funkcie tesne pred ich vydaním v takmer finálnej verzii.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }

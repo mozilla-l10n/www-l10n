@@ -17,4 +17,4 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zistite viac</
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Pozrite sa</a> na celý rad produktov s názvom { -brand-name-firefox } navrhnutých s ohľadom na vaše súkromie.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Prevezmite si</a> prehliadač { -brand-name-firefox } do svojho mobilného zariadenia alebo počítača
+not-found-page-download-the-firefox-browser = <a href={ $download }>Stiahnite si</a> prehliadač { -brand-name-firefox } do svojho mobilného zariadenia alebo počítača

@@ -45,7 +45,7 @@ history-it-did-this-by-continuing = Toto pokračovalo vydávaním softvéru, ako
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
-history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox }&nbsp;1.0</a> bol vydaný v roku 2004 a získal veľký úspech — za menej ako rok bol prevzatý a nainštalovaný <a href="{ $millions }">viac ako 100 milión krát</a>.
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox }&nbsp;1.0</a> bol vydaný v roku 2004 a získal veľký úspech — za menej ako rok bol stiahnutý a nainštalovaný <a href="{ $millions }">viac ako 100 milión krát</a>.
 history-new-versions-of-firefox = Od tej doby vychádzajú pravidelne nové verzie { -brand-name-firefox }u, ktoré stanovujú nové a nové rekordy. Popularita { -brand-name-firefox }u pomohla používateľom opäť získať možnosť voľby.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/

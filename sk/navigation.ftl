@@ -2,14 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navigation-download-firefox = Prevziať { -brand-name-firefox }
+navigation-download-firefox = Stiahnuť { -brand-name-firefox }
 navigation-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(case: "nom", capitalization: "upper") } pre počítače
 navigation-get-the-browser-that-respects = Používajte prehliadač, ktorý rešpektuje vaše súkromie. Dostupný pre { -brand-name-windows }, { -brand-name-mac } či { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pre mobily
 navigation-take-speed-privacy-and = Vezmite si rýchlosť a súkromie so sebou. K dispozícii na zariadeniach s { -brand-name-android }om a { -brand-name-ios }.
-navigation-download-for-ios = Prevziať pre { -brand-name-ios }
-navigation-download-for-android = Prevziať pre { -brand-name-android }
+navigation-download-for-ios = Stiahnuť pre { -brand-name-ios }
+navigation-download-for-android = Stiahnuť pre { -brand-name-android }
 navigation-ios-support = Podpora { -brand-name-ios }
 navigation-android-support = Podpora { -brand-name-android }u
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(case: "gen", capitalization: "upper") } pre podniky
@@ -60,7 +60,7 @@ navigation-menu = Ponuka
 navigation-check-out-the-benefits = Pozrite si jeho výhody
 navigation-browsers = Prehliadače
 navigation-close-browsers-menu = Zavrieť
-navigation-download = Prevziať
+navigation-download = Stiahnuť
 navigation-extensions = Rozšírenia
 navigation-support = Podpora
 navigation-privacy = Súkromie
