@@ -9,6 +9,12 @@ home-promo-title-soraya = Fire が始まる場所
 home-promo-title-gary = あなたの選択には大きな意味があります
 home-promo-title-ryan = Fire が始まる場所
 
+home-promo-explore-firefox = { -brand-name-firefox } を知る
+
+home-promo-desc-lalo-updated = レストラン経営者、{ -brand-name-firefox } ファン
+home-promo-desc-soraya-updated = 家具デザイナー、{ -brand-name-firefox } ファン
+home-promo-desc-gary-updated = サーフボードシェイパー、{ -brand-name-firefox } ファン
+home-promo-desc-ryan-updated = アーティスト、女優、アスリート、活動家、{ -brand-name-firefox } ファン
 
 # Obsolete string
 home-promo-desc-lalo = レストラン経営者、Firefox ファン
