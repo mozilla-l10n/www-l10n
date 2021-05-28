@@ -42,7 +42,7 @@ is-firefox-safe-download = É seguro baixar o { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
-protecting-your-privacy = Proteger sua privacidade é nossa prioridade número um e garantimos que a instalação do { -brand-name-firefox } em seus dispositivos seja totalmente segura — mas sempre certifique-se de baixar de um site da { -brand-name-mozilla }/{ -brand-name-firefox }, como da <a href="{ $url }">nossa página de download</a>.
+protecting-your-privacy = Proteger sua privacidade é nossa prioridade número um e garantimos que a instalação do { -brand-name-firefox } em seus dispositivos seja totalmente segura. Mas sempre certifique-se de baixar de um site da { -brand-name-mozilla }/{ -brand-name-firefox }, como da <a href="{ $url }">nossa página de download</a>.
 is-firefox-safe = O { -brand-name-firefox } é seguro?
 
 # Variables:
