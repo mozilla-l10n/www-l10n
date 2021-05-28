@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 # page title
-features-translate-translate-the-web-title = Traduza a web — diretamente no seu navegador
+features-translate-translate-the-web-title = Traduza a web, diretamente no seu navegador
 # page description
-features-translate-translate-more-than = Traduza de mais de 100 idiomas para o seu idioma diretamente no seu { -brand-name-firefox-browser } — mais fácil do que nunca.
+features-translate-translate-more-than = Traduza de mais de 100 idiomas para o seu idioma diretamente no seu { -brand-name-firefox-browser }, mais fácil que nunca.
 features-translate-translate-the-web = Traduza a web com o { -brand-name-firefox }
 features-translate-the-google-translate = A extensão <i>Para o { -brand-name-google } Tradutor</i> para { -brand-name-firefox } torna a web acessível ao mundo.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
