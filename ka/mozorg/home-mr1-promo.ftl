@@ -20,3 +20,5 @@ home-promo-desc-lalo = რესტორატორი, Firefox-ის ქო�
 home-promo-desc-soraya = ავეჯის დიზაინერი, Firefox-ის ქომაგი
 # Obsolete string
 home-promo-desc-gary = სერფინგის დაფის მთლელი, Firefox-ის ქომაგი
+# Obsolete string
+home-promo-desc-ryan = ხელოვანი, მსახიობი, სპორტსმენი და აქტივისტი, Firefox-ის ქომაგი
