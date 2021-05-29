@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = ყველა უახლესი ხე�
 firefox-developer-a-separate-profile = <strong>განცალკევებული პროფილი და მდებარეობა</strong>, შედეგად მარტივად შეძლებთ გვერდიგვერდ გაუშვათ საბოლოო ვერსია და { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = პარამეტრები <strong>ზედგამოჭრილი ვებშემმუშავებლებისთვის</strong>: ბრაუზერიდან და დაშორებულად გამართვის შესაძლებლობა ამოქმედებულია ნაგულისხმევად, ასევე მოყვება მუქი იერსახე და შემმუშავებლის ღილაკი ხელსაწყოთა ზოლზე.
 firefox-developer-congrats-you-now-have = გილოცავთ. თქვენ უკვე გიყენიათ { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = გილოცავთ. თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-browser } { -brand-name-developer-edition }.
