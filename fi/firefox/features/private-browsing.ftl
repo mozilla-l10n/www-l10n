@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Yksityinen selain seurantasuojauksella
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } suojelee yksityisyyttäsi verkossa ja estää sinua verkossa seuraavat seurantaohjelmat.
+features-private-browsing-download-firefox = Lataa { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: enemmän suojaa, vähemmän huolia.
 features-private-browsing-were-obsessed-with = Yksityisyytesi suojaaminen on meille pakkomielle. Siksi olemme tehneet { -brand-name-firefox }in yksityisestä selauksesta muita vahvemman.
 features-private-browsing-browse-without = Selaa jättämättä jälkiä

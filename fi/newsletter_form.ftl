@@ -28,3 +28,6 @@ newsletter-form-select-country = Valitse maa
 newsletter-form-sign-me-up = Tilaa
 newsletter-form-sign-up-now = Tilaa nyt
 newsletter-form-thanks = Kiitos!
+newsletter-form-leave-this-field-empty = Jätä tämä kenttä tyhjäksi.
+newsletter-form-yes = Kyllä
+newsletter-form-no = Ei

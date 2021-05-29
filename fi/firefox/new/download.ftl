@@ -39,6 +39,7 @@ firefox-new-just-download-the-browser = Lataa vain selain
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja vanhentunut käyttöjärjestelmä, jota <a href="{ $url }">{ -brand-name-firefox } ei enää tue</a>.
@@ -47,3 +48,4 @@ firefox-new-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Latauksen tulisi pian käynnistyä automaattisesti. Ongelmia? <a id="{ $id }" href="{ $fallback_url }">Yritä ladata uudelleen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
+firefox-new-windows-10 = { -brand-name-windows } 10

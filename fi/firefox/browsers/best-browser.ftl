@@ -14,3 +14,5 @@ best-browser-when-you-use-a-browser = Kun käytät selainta kaikkeen, sen on olt
 best-browser-marshall-erwin-senior = Marshall Erwin, { -brand-name-mozilla }n Senior Director of Trust and Security
 best-browser-a-browser-built-for = Nopeaksi rakennettu selain.
 best-browser-a-browser-that-puts = Selain, joka asettaa turvallisuuden etusijalle.
+best-browser-a-browser-that-minds = Selain joka huolehtii omista asioistaan.
+best-browser-take-control-of-your = Ota ohjat selaimestasi.

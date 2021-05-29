@@ -15,5 +15,6 @@ whatsnew-account-main-button = Kirjaudu sisään
 ##
 
 whatsnew-account-signed-in-lead-in = Lähetä latauslinkki puhelimeesi.
+whatsnew-account-signed-in-qr-title = Lataa { -brand-name-firefox } älypuhelimeen ja tablettiin.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = Skannaa tämä QR-koodi
