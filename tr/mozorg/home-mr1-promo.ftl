@@ -7,3 +7,6 @@
 
 home-promo-title-soraya = Her şey burada başlıyor
 home-promo-title-ryan = Her şey burada başlıyor
+home-promo-desc-soraya-updated = Mobilya tasarımcısı, { -brand-name-firefox } hayranı
+# Obsolete string
+home-promo-desc-soraya = Mobilya tasarımcısı, Firefox hayranı

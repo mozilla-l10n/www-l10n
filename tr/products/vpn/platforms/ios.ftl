@@ -16,4 +16,8 @@ vpn-ios-privacy-headline = Tek tıkla bağlantı
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Dünya genelindeki { $servers }+ sunucuya bağlanın
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = { $devices } cihazdan erişim
+vpn-ios-speed-headline = Yüksek hız, sınırsız kota.
 vpn-ios-log-headline = Verileriniz gizli kalır. Nokta.
