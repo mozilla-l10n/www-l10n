@@ -71,4 +71,6 @@ firefox-desktop-download-just-download-the-browser = Lataa vain selain
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Melkein valmista!
+firefox-desktop-download-in-another-language = Lataa toisella kielellä tai muulle käyttöjärjestelmälle.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.

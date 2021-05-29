@@ -7,6 +7,7 @@
 
 firefox-home-the-browser-is-just = Selain on vasta alkua
 firefox-home-meet-our-family-of = Tutustu tuoteperheeseemme
+firefox-home-keep-your-passwords = Pidä salasanasi turvassa kaikilla laitteilla
 firefox-home-start-sending-files = Aloita tiedostojen lähettäminen turvallisesti
 firefox-home-get-the-browser-extension = Hanki selainlaajennus
 firefox-home-get-the-facebook-container = Hanki { -brand-name-facebook-container } -laajennus
