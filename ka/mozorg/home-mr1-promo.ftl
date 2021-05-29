@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
-home-promo-title-soraya = ცეცხლი აინთო, დაიწყო
+home-promo-title-soraya = დაიწყო ცეცხლი აინთო
 home-promo-title-gary = თქვენი არჩევანი, ღირებულია
-home-promo-title-ryan = ცეცხლი აინთო, დაიწყო
+home-promo-title-ryan = დაიწყო ცეცხლი აინთო
 home-promo-explore-firefox = უკეთ გაიცანით { -brand-name-firefox }
