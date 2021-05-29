@@ -21,6 +21,7 @@ what-is-firefox = D acu-t { -brand-name-firefox }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-chrome-better = { -brand-name-chrome } xiṛ n { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
