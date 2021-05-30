@@ -12,3 +12,13 @@ home-promo-title-ryan = Todo empieza aquí
 home-promo-explore-firefox = Explora { -brand-name-firefox }
 home-promo-desc-lalo-updated = Restaurador, fan de { -brand-name-firefox }
 home-promo-desc-soraya-updated = Diseñador de muebles, fan de { -brand-name-firefox }
+home-promo-desc-gary-updated = Artesano de tablas de surf, fan de { -brand-name-firefox }
+home-promo-desc-ryan-updated = Artista, actriz, atleta y activista, fan de { -brand-name-firefox }
+# Obsolete string
+home-promo-desc-lalo = Restaurador, fan de Firefox
+# Obsolete string
+home-promo-desc-soraya = Diseñador de muebles, fan de Firefox
+# Obsolete string
+home-promo-desc-gary = Artesano de tablas de surf, fan de Firefox
+# Obsolete string
+home-promo-desc-ryan = Artista, actriz, atleta y activista, fan de Firefox
