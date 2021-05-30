@@ -25,6 +25,7 @@ how-do-i = Amek ara xedmeɣ akken ad d-awiɣ { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 you-can-easily = Tzemreḍ ad d-tsadreḍ s tefses { -brand-name-firefox } iminig n tnarit <a href="{ $url }">dagi.</a> { -brand-name-firefox } iteddu ɣef <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> akked <a href="{ $url4 }">{ -brand-name-linux }</a> yibenkan, yella daɣen i <a href="{ $url5 }">{ -brand-name-android } d { -brand-name-ios }.</a> Ḍmen belli tsadareḍ-d iminig-nneɣ seg yiwen n yisebtar-nneɣ yettwattkalen { -brand-name-mozilla }/{ -brand-name-firefox }.
+is-firefox-free = { -brand-name-firefox } baṭel?
 is-chrome-better = { -brand-name-chrome } xiṛ n { -brand-name-firefox }?
 
 # Variables:
