@@ -23,12 +23,16 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } d { -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } i uselkim
 sub-navigation-features = Timahilin
 sub-navigation-support = Tallelt
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Izegrar
+sub-navigation-add-ons = Izegrar
 sub-navigation-faq = Isteqsiyen FAQ
 sub-navigation-learn-more = Issin ugar
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } i uziraz
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Izegrar { -brand-name-android }
+sub-navigation-android-add-ons = Izegrar i { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
