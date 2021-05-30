@@ -13,3 +13,6 @@ privacy-first = D tabaḍnit i d tamezwarut
 firefox-doesnt-spy = { -brand-name-firefox } ur yessikid ara tiliḍ srid. Nesseḥbas aṭas n yinagan n tuqqna n wis kraḍ yettwassnen i ak·akem-yeṭṭafaren, ad ak·am-imudd meṛṛa asenqed.
 get-speed-and = Awi arured d tɣellist. { -brand-name-firefox } d arurad acku ur neṭṭafaṛ ara tunigin-ik·im.
 always-evolving = Yezga yettnerni
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Af-d ayen akk izaden n { -brand-name-firefox }{ -brand-name-firefox }tmahilin</a>.

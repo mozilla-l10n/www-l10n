@@ -79,3 +79,5 @@ firefox-developer-congrats-you-now-have-firefox = Ayuz. Tzemreḍ tura ad tawi�
 firefox-developer-this-isnt-just-an-update = Aya mačči kan d lqem aḥerfi. Ha-t-a { -brand-name-firefox-quantum }: { -brand-name-firefox } amaynut i yettwafeṣṣlen akken-nniḍen i wakken ad yuɣal d arurad, d uzmir , yerna yeǧhed ugar ɣef wakken yella.
 firefox-developer-welcome-to-firefox-browser = Ansuf ɣer { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Iminig yettwag i yineflayen
+firefox-developer-congrats-you-now-have = Ayuz. Tzemreḍ tura ad tawiḍ { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Ayuz. Tesεiḍ tura lqem akk aneggaru n { -brand-name-firefox-browser } { -brand-name-developer-edition }.
