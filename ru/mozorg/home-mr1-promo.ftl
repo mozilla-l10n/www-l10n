@@ -12,10 +12,13 @@ home-promo-title-ryan = Firefox начинается здесь
 home-promo-explore-firefox = Исследуйте { -brand-name-firefox }
 home-promo-desc-lalo-updated = Ресторатор, поклонник { -brand-name-firefox }
 home-promo-desc-soraya-updated = Дизайнер мебели, поклонник { -brand-name-firefox }
+home-promo-desc-gary-updated = Формирователь досок для серфинга, поклонник { -brand-name-firefox }
 home-promo-desc-ryan-updated = Художник, актриса, спортсменка и активистка, поклонница { -brand-name-firefox }
 # Obsolete string
 home-promo-desc-lalo = Ресторатор, поклонник Firefox
 # Obsolete string
 home-promo-desc-soraya = Дизайнер мебели, поклоник Firefox
+# Obsolete string
+home-promo-desc-gary = Формирователь досок для серфинга, поклонник Firefox
 # Obsolete string
 home-promo-desc-ryan = Художник, актриса, спортсменка и активистка, поклонница Firefox
