@@ -12,3 +12,9 @@ home-promo-explore-firefox = Raziščite { -brand-name-firefox }
 home-promo-desc-lalo-updated = Restavrator, ljubitelj { -brand-name-firefox(sklon: "rodilnik") }
 home-promo-desc-soraya-updated = Oblikovalka pohištva, ljubiteljica { -brand-name-firefox(sklon: "rodilnik") }
 home-promo-desc-ryan-updated = Umetnica, igralka, atletinja in aktivistka, ljubiteljica { -brand-name-firefox(sklon: "rodilnik") }
+# Obsolete string
+home-promo-desc-lalo = Restavrator, ljubitelj Firefoxa
+# Obsolete string
+home-promo-desc-soraya = Oblikovalka pohištva, ljubiteljica Firefoxa
+# Obsolete string
+home-promo-desc-ryan = Umetnica, igralka, atletinja in aktivistka, ljubiteljica Firefoxa
