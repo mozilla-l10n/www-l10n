@@ -45,6 +45,7 @@ we-compare-firefox = Nserwas gar { -brand-name-firefox } akked { -brand-name-chr
 comparing-firefox-chrome = Aserwes gar { -brand-name-firefox-browser } d { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Temɣer mačči yal tikkelt d ayen igerrzen. Fren axir tilelli.
 comparing-firefox-brave = Aserwes n { -brand-name-firefox-browser } ɣer { -brand-name-brave }
+be-bold-and = Ili-k d bu tissas, d bu tebɣest mi ara tferneḍ iminig i ak-ilaqen.
 comparing-firefox-edge = Aserwes { -brand-name-firefox-browser } wd { -brand-name-microsoft } { -brand-name-edge }
 comparing-firefox-ie = Aserwes gar { -brand-name-firefox-browser } akked { -brand-name-microsoft } { -brand-name-ie }
 comparing-firefox-safari = Aserwes gar { -brand-name-firefox-browser } d { -brand-name-apple } { -brand-name-safari }
