@@ -40,4 +40,4 @@ vpn-platforms-shared-trust-partner-headline = Γef umendid-nneɣ yettwattkalen
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-platforms-shared-trust-partner = { -brand-name-mozilla-vpn } iteddu s umata ɣef uzeṭṭa n yiqeddacen yellan ddaw leεnaya <a href="{ $policy }">{ -brand-name-mullvad }</a> s useqdec n uneggaf <a href="{ $wireguard }">®. { -brand-name-mullvad } yettakk i tbaḍnit-ik·im azal amezwaru, ur isseklas ara iɣmisen n wacu bɣun ilin.
+vpn-platforms-shared-trust-partner = { -brand-name-mozilla-vpn } iteddu s umata ɣef uzeṭṭa n yiqeddacen yellan ddaw leεnaya <a href="{ $policy }">{ -brand-name-mullvad }</a> s useqdec n uneggaf <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } yettakk i tbaḍnit-ik·im azal amezwaru, ur isseklas ara iɣmisen n wacu bɣun ilin.
