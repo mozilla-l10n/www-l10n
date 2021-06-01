@@ -11,6 +11,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } mot { -brand
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } er den førehandsinstallerte nettlesaren på { -brand-name-mac } og { -brand-name-iphone }. Samanlikn { -brand-name-safari } med { -brand-name-firefox-browser } for å finne ut kva for ein nettlesar som er best for deg.
 # Main title.
 compare-safari-comparing-firefox-browser = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-apple } { -brand-name-safari }
+# Obsolete string
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Dersom du brukar ein Mac eller har ein { -brand-name-iphone }, er du sannsynlegvis kjend med { -brand-name-safari }-nettlesaren. At han kjem førehandsinstallert som standard nettlesar for brukarar av { -brand-name-apple }-produkt gir definitivt ein tidleg fordel, men { -brand-name-firefox } har ei rekkje nyttige funksjonar som gjer han til eit attraktivt alternativ. Her vil vi undersøkje dei viktigste skilnadane mellom nettlesaren vår og { -brand-name-safari } når det gjeld personvern, nytte og portabilitet mellom einingar.
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
@@ -32,10 +33,12 @@ compare-safari-in-addition-to-the-regular = I tillegg til det vanlege settet med
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Som { -brand-name-safari }, oppfordrar { -brand-name-firefox } det entusiastiske utviklarmiljøet til å lage <a { $attrs }>tillegg og utvidingar</a> til nettlesaren. Og sidan plattforma vår er open kjeldekode, er det eit stort utval som tilbyr ei rekkje funksjonar.
+# Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for = Når du registrerer deg for ein { -brand-name-firefox }-konto, får du tilgang til unike tenester som <a { $pocket }>{ -brand-name-pocket }</a> og <a { $send }>{ -brand-name-send }</a> som vert integrert direkte i nettlesaren. { -brand-name-pocket }-knappen  for { -brand-name-firefox } lèt deg lagre nettsider og videoar på { -brand-name-pocket } med berre eitt klikk, slik at du kan lese ein rein, distraheringsfri versjon når og kvar du vil — også når du er fråkopla. Med { -brand-name-send } kan du dele store filer med ende-til-ende-kryptering med ei rekkje sikkerheitskontrollar, til dømes moglegheita til å spesifisere når ei fillenke skal gå ut, kor mange nedlastingar, og om du vil, leggje til eit valfritt passord for ekstra sikkerheit.
+# Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
@@ -49,14 +52,18 @@ compare-safari-screenshots-is-another-popular = <a >Screenshots</a> er ein annan
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } og { -brand-name-safari } gir begge ei saumlaus oppleving når du går frå datamaskin til mobilsurfing eller omvendt. For { -brand-name-safari } er ein av hovudstyrkane kontinuitetsfunksjonen. Han synkroniserer bokmerka, fanene, historikken og meir til iCloud slik at dei er tilgjengelege på alle einingane dine. Det betyr at du kan opne ei fane på { -brand-name-iphone } og få den også til å visast på { -brand-name-mac } berbare datamaskiner med berre eit klikk.
 compare-safari-both-browsers-have-a-lot = Begge nettlesarane har funksjonar til felles, i tillegg til nokre unike funksjonar. Det er verdt å nemne at dersom du tar mange skjermbilde, lurer du på korleis du har levd utan denne praktiske funksjonen som er bygd rett inn i { -brand-name-firefox }. Men dersom du berre ser etter ein rask, privat nettlesar for surfing og shopping, kan det vere lurt å prøve { -brand-name-firefox } — spesielt dersom du berre har brukt { -brand-name-safari } fordi den kom førehandsinnlasta som standard nettlesar på datamaskina di. Etter kvart vil du oppdage kva for ein som er best tilpassa dine behov.
 # Variables:
-#   $attrs (string) - link to TODO with additional attributes for analytics
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } tilbyr også ein liknande synkroniseringsfunksjon når du registrerer ein gratis <a { $attrs }>{ -brand-name-firefox-account }</a> som gjer det mogeleg for brukarar å enkelt synkronisere bokmerka sine , historikk, innstillingar, passord, utfylte skjema, tilleggsprogram og dei siste 25 opna fanene på fleire datamaskinar. Det som skiljer { -brand-name-firefox } fra { -brand-name-safari } er at det er tilgjengeleg på kva som helst datamaskin- eller mobilplattform, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } eller { -brand-name-mac }, noko som aukar portabiliteten på alle einingar.
+# Obsolete string
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar = { -brand-name-firefox } tilbyr også ein liknande synkroniseringsfunksjon når du registrerer ein gratis <a { $attrs }>{ -brand-name-firefox-account }</a> som gjer at brukarar enkelt kan synkronisere bokmerka sine , historikk, innstillingar, passord, utfylte skjema, tilleggsprogram og dei siste 25 opna fanene på fleire datamaskiner. Det som skiljer { -brand-name-firefox } frå { -brand-name-safari } er at han er tilgjengeleg på kva som helst datamaskin- eller mobilplattform, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } eller { -brand-name-macos }, noko som aukar portabiliteten på alle einingane du eig.
 # Variables:
-#   $ios (string) - link to TODO with additional attributes for analytics
-#   $android (string) - link to TODO with additional attributes for analytics
+#   $ios (string) - link to Apple store with additional attributes for analytics
+#   $android (string) - link to Google Play store with additional attributes for analytics
 compare-safari-the-firefox-app-for-ios-and = { -brand-name-firefox }-appen for <a { $ios }>{ -brand-name-ios }</a> og <a { $android }>{ -brand-name-android }</a> er ein av dei raskaste nettlesarane som er tilgjengeleg, og har også solid sikkerheits- og antisporingsfunksjonar - eit stort pluss dersom du stadig hoppar mellom ein berbar PC og mobile einingar.
 compare-safari-since-safari-is-apples-proprietary = Sidan { -brand-name-safari } er { -brand-name-apple } sin proprietære nettlesar, fungerer iCloud-synkroniseringa berre med { -brand-name-apple }-produkt. Dette kan vere noko avgrensande dersom du til dømes både er ein { -brand-name-android }-brukar og ein { -brand-name-iphone }-brukar, eller dersom du har ein { -brand-name-windows }-basert PC for arbeid, men brukar ein { -brand-name-iphone } som personleg eining.
 # Variables:
-#   $attrs (string) - link to TODO with additional attributes for analytics
+#   $attrs (string) - link to blog post with additional attributes for analytics
 compare-safari-safari-does-a-great-job-of = { -brand-name-safari } gjer ein god jobb med å gjere nettopplevinga enkel, rask og saumlaus dersom du er ein { -brand-name-apple }-brukar med fleire { -brand-name-apple }-produkt. Som { -brand-name-safari }, er { -brand-name-firefox } ein rask og nyttig nettlesar, men personvern og kompatibilitet på tvers av plattformer er våre definerande funksjonar. { -brand-name-firefox } vert oppdatert kvar månad med nye funksjonar og funksjonalitet. Til dømes har ei nyleg oppdatering slått på <a { $attrs }>utvida sporingsvern (ETP)</a> som standard for nye brukarar, som effektivt blokkerer infokapslar og sporing på tvers av nettstadar.
 compare-safari-in-the-end-it-just-boils = Til slutt kokar det berre ned til det du verdset i nettlesaren din. Dersom du er integrert med { -brand-name-apple }-økosystemet, er { -brand-name-safari } enno eit godt val. Men dersom du set pris på å ha dei nyaste og beste personvernsikringane og kunne jobbe på tvers av fleire operativsystem, synest vi at { -brand-name-firefox } er det beste alternativet. { -brand-name-firefox } er også eit solid alternativ som ein sekundær nettlesar for dei { -brand-name-apple }-eksklusive brukarane som kanskje vil byte til ein annan nettlesar for dei augneblinkane på nettet som krev ekstra lag med personvernsikring.
