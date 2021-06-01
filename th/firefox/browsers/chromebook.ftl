@@ -11,9 +11,11 @@
 browsers-chromebook-get-firefox-browser = ติดตั้ง { -brand-name-firefox-browser } สำหรับ { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = คุณได้ { -brand-name-chromebook } มาแล้ว ต่อไปนี้จะเป็นเวลาที่ต้องติดตั้ง { -brand-name-firefox-browser } ที่รักษาความปลอดภัยโดยอัตโนมัติเพื่อปกป้องข้อมูลส่วนตัวของคุณ
 browsers-chromebook-browsers-chromebook-get-firefox-for = รับ { -brand-name-firefox } สำหรับ { -brand-name-android }
+browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } ที่ใช้ x86 และเรียกใช้งาน{ -brand-name-chromeos } 80 หรือใหม่กว่า
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ทำไมต้องใช้ <span>{ -brand-name-firefox }</span> สำหรับ { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = แม้ { -brand-name-chromebook } จะติดตั้ง { -brand-name-chrome } ไว้แล้ว การโหลดและใช้ { -brand-name-firefox } เป็นเบราว์เซอร์ประจำตัวจะให้ประโยชน์กับคุณดังนี้:
+browsers-chromebook-is-it-hard = การติดตั้ง { -brand-name-firefox } ลง { -brand-name-chromebook } ทำได้ยากหรือไม่?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
