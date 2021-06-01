@@ -16,6 +16,7 @@ firefox-is-independent = { -brand-name-firefox } d ilelli, yettwaḥrez s tkebba
 what-is-a = D acu i d iminig web?
 a-web-browser = Iminig web yettawi-k·kem anda tebɣiḍ deg internet, yettaǧǧa-k·kem ad twaliḍ iḍrisen, tugniwin akked tvidyutin seg yal adeg deg umaḍal.
 update-your-browser = Leqqem iminig-inek·inem ɣer { -brand-name-firefox } arurad, yettwaḍmanen, aɣelsan.
+the-firefox-browser = Iminig { -brand-name-firefox } yettufeṣṣel i ummesten n tudert-ik·im tabaḍnit deg yal taswiεt — acku d wa i d abrid arurad ara ak·akem-islellin seg yisalayen ẓẓayen, seg yir adellel d yineḍfaren.
 firefox-is-more = { -brand-name-firefox } mačči d iminig kan.
 get-the-browsers = Awi Iminigen i izewwiren deg tabaḍnit-inek·inem — akka i nezga nella.
 take-your-passwords = Awi awalen uffiren anda ma teddiḍ
