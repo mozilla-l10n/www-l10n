@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
 features-pip-play-the-video = Wali tavidyut
+features-pip-heres-how-it-works = Ha-t-a wamek iteddu:
