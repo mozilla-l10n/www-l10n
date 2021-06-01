@@ -23,11 +23,14 @@ contribute-tag-support = สนับสนุน
 contribute-task-translate-heading = เนื้อหาการแปล
 contribute-task-translate-desc = อินเทอร์เน็ตเป็นสิ่งที่ใช้ได้ทั่วโลกก็ต่อเมื่อเข้าใจได้ทุกที่ ช่วยเราแปลผลิตภัณฑ์และเว็บไซต์ { -brand-name-mozilla } เป็นภาษาท้องถิ่นของคุณ
 contribute-task-mozilla-codebase-heading = ร่วมให้ข้อมูลกับ codebase ของ { -brand-name-mozilla }
+contribute-task-support-desc = ช่วยให้ผลิตภัณฑ์ { -brand-name-mozilla } ใช้งานง่าย ตอบคำถาม "ความช่วยเหลือ" ของผู้คนโดยเป็นส่วนหนึ่งของฟอรัมชุมชนการสนับสนุนของ { -brand-name-mozilla }
 contribute-task-join-heading = เข้าร่วมชุมชน
+contribute-task-join-desc = ต้องการมีส่วนร่วมมากขึ้นในชุมชน { -brand-name-mozilla } ไหม ดูโอกาสในการเป็นอาสาสมัครทั้งหมดในพอร์ทัลชุมชนของเรา
 
 ## Mission
 
 contribute-mission-heading = ภารกิจของเรา
+contribute-mission-desc = ภารกิจของเราคือเพื่อ ให้อินเทอร์เน็ตเป็นทรัพยากรสาธารณะทั่วโลก เปิด และทุกคนเข้าถึงได้ อินเทอร์เน็ตที่ให้ความสำคัญกับผู้คนเป็นลำดับแรกจริง ๆ ที่แต่ละคนสามารถกำหนดประสบการณ์ของคุณได้  กระจายอำนาจ ปลอดภัย และอิสระ
 contribute-learn = เรียนรู้เกี่ยวกับ { -brand-name-mozilla }
 contribute-read-manifesto = อ่านแถลงการณ์ของเรา
 contribute-find-event = ค้นหาเหตุการณ์
