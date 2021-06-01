@@ -67,3 +67,5 @@ firefox-more-translate-the-web = Suqel web
 firefox-more-translate-more-than = Suqqel ugar n 100 tutlayin ɣer tatlayt-ik·im srid deg { -brand-name-firefox-browser }-inek·inem - fessus ugar ɣef wayen yezrin.
 firefox-more-a-guide-to = Amnir i uḥraz n yinekcam d wawalen uffiren
 firefox-more-more-and-more = Ugar d wugar n tɣawsiwin timḥalfuyin, yesεan azal meqqren deg tudert-nneɣ ttummestnent s wawalen uffiren.
+firefox-more-avoid-misinformation-heading = Wexxeṛ i yir talɣut srid – { -brand-name-firefox } ha-t-a da i tallalt
+firefox-more-avoid-misinformation-desc = Senqed iwellihen i wakken ad twaliḍ drus n yir talɣut, tserseḍ ddehn-ik·im ɣef wayen twalaḍ yesεa azal ɣur-k·m.
