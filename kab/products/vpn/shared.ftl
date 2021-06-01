@@ -71,6 +71,10 @@ vpn-shared-pricing-total = { $amount } usemday
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Aha bdu
+vpn-shared-platform-privacy-promise = Aqader n tudert-ik·im tabaḍnit d lεehd-nneɣ
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = D acu-t VPN?
 vpn-subnav-faqs = FAQs
 vpn-subnav-get-help = Awi tallelt
 vpn-subnav-platform-android = { -brand-name-android }
