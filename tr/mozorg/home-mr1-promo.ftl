@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/
 
+home-promo-title-lalo = Ufkunu genişlet
 home-promo-title-soraya = Her şey burada başlıyor
+home-promo-title-gary = Senin tarayıcın, senin kararın
 home-promo-title-ryan = Her şey burada başlıyor
+home-promo-explore-firefox = { -brand-name-firefox }’u keşfet
 home-promo-desc-lalo-updated = Restöratör, { -brand-name-firefox } hayranı
 home-promo-desc-soraya-updated = Mobilya tasarımcısı, { -brand-name-firefox } hayranı
 home-promo-desc-gary-updated = Sörf tahtası yapımcısı, { -brand-name-firefox } hayranı
