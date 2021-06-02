@@ -13,3 +13,12 @@ home-promo-explore-firefox = { -brand-name-firefox } 살펴보기
 home-promo-desc-lalo-updated = 음식점 주인, { -brand-name-firefox } 팬
 home-promo-desc-soraya-updated = 가구 디자이너, { -brand-name-firefox } 팬
 home-promo-desc-gary-updated = 서핑보드 제작자, { -brand-name-firefox } 팬
+home-promo-desc-ryan-updated = 예술가, 배우, 운동선수, 활동가, { -brand-name-firefox } 팬
+# Obsolete string
+home-promo-desc-lalo = 음식점 주인, Firefox 팬
+# Obsolete string
+home-promo-desc-soraya = 가구 디자이너, Firefox 팬
+# Obsolete string
+home-promo-desc-gary = 서핑보드 제작자, Firefox 팬
+# Obsolete string
+home-promo-desc-ryan = 예술가, 배우, 운동선수, 활동가, Firefox 팬

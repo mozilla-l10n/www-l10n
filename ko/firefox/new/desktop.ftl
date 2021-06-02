@@ -159,6 +159,13 @@ firefox-desktop-download-now-mac = 이제 방금 다운로드 한 파일을 <str
 firefox-desktop-download-get-help = 문제가 있으신가요? <a { $attrs }> 설치에 대한 도움말 보기 </a>
 firefox-desktop-download-in-another-language = 다른 언어 또는 다른 운영 체제로 다운로드하세요.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = 실행할때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
+firefox-desktop-download-visit-support-for-more = 더 자세한 내용을 위해 지원 방문
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더이상 보안 업데이트를 제공하지 않습니다</a>, 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
