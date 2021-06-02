@@ -179,3 +179,6 @@ firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. �
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ $url }">설치 방법</a>을 확인하세요.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.

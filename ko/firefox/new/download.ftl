@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = 브라우저 다운로드
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더이상 보안 업데이트를 제공하지 않습니다</a>, 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -56,4 +59,14 @@ firefox-new-its-a-family-of-products = 귀하의 개인 데이터를 존중하�
 firefox-new-its-everything-you-need-to = <strong>안전한 온라인 상태 유지</strong>에 대해 알아야 할 모든 것입니다.
 firefox-new-its-a-community-that-believes = <strong>커뮤니티</strong>는 기술이 더 진보할 것이라 믿고 있습니다.
 firefox-new-download-interrupted = 다운로드가 중단되었습니다. 그러나 모두 손실되지는 않았습니다.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ $url }">설치 방법</a>을 확인하세요.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.
 firefox-new-windows-10 = { -brand-name-windows }10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = 실행할때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
+firefox-new-visit-support-for-more = 더 자세한 내용을 위해 지원 방문

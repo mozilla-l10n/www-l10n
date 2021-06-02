@@ -67,3 +67,9 @@ new-platform-common-sense-privacy = 사생활 상식
 new-platform-live-your-life = 삶을 만끽하세요. { -brand-name-firefox }는 감시하지 않습니다. 무엇을 언제 공유할지 선택하세요.
 new-platform-seamless-setup = 깔끔한 설정
 new-platform-easy-migration = { -brand-name-windows }용 { -brand-name-firefox }를 다운 받을 때 설정과 즐겨찾기를 쉽게 옮겨 오세요.
+# span is for visual formatting and line break
+new-platform-download-firefox-for-windows = { -brand-name-windows } { -brand-name-firefox }<br>다운로드
+# span is for visual formatting and line break
+new-platform-download-firefox-for-macos = { -brand-name-mac } { -brand-name-firefox }<br>다운로드
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = { -brand-name-linux } { -brand-name-firefox }<br>다운로드
