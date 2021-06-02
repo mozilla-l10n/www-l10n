@@ -176,3 +176,6 @@ firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{
 firefox-desktop-download-your-firefox-new-should-begin = 다운로드가 자동으로 시작됩니다. 그렇지 않다면, <a id="{ $id }" href="{ $fallback_url }">다시 시도 해보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 그 이상입니다.
 firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. 하지만 모두 손실되지는 않았습니다.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ $url }">설치 방법</a>을 확인하세요.
