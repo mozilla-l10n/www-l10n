@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
-privacy-index-mozilla-privacy = ความเป็นส่วนตัวของ { -brand-name-mozilla }
+privacy-index-mozilla-privacy = นโยบายความเป็นส่วนตัวของ { -brand-name-mozilla }
 privacy-index-contact-mozilla = ติดต่อ { -brand-name-mozilla }
 privacy-index-if-you-want-to-make-a-correction = หากคุณต้องการแก้ไขข้อมูลของคุณให้ถูกต้อง หรือมีข้อสงสัยเกี่ยวกับนโยบายความเป็นส่วนตัวของเรา โปรดติดต่อ:
 # Variables:

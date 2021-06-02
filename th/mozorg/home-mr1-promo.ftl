@@ -7,6 +7,7 @@
 
 home-promo-title-lalo = เปิดไอเดียสดใหม่
 home-promo-title-soraya = ทุกอย่างเริ่มจากที่นี่
+home-promo-title-gary = ทางเลือกที่คุณเลือกมีความสำคัญ
 home-promo-title-ryan = ทุกอย่างเริ่มจากที่นี่
 home-promo-explore-firefox = สำรวจ { -brand-name-firefox }
 home-promo-desc-soraya-updated = นักออกแบบเฟอร์นิเจอร์ แฟน { -brand-name-firefox }
