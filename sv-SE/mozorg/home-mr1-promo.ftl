@@ -13,7 +13,7 @@ home-promo-explore-firefox = Utforska { -brand-name-firefox }
 home-promo-desc-lalo-updated = Restauratör, { -brand-name-firefox }-fan
 home-promo-desc-soraya-updated = Möbeldesigner, { -brand-name-firefox }-fan
 home-promo-desc-gary-updated = Formar surfbrädor, { -brand-name-firefox }-fan
-home-promo-desc-ryan-updated = Konstnär, skådespelerska, idrottskvinna & aktivist, { -brand-name-firefox }-fan
+home-promo-desc-ryan-updated = Konstnär, skådespelerska, idrottskvinna och aktivist, { -brand-name-firefox }-fan
 # Obsolete string
 home-promo-desc-lalo = Restauratör, Firefox-fan
 # Obsolete string
@@ -21,4 +21,4 @@ home-promo-desc-soraya = Möbeldesigner, Firefox-fan
 # Obsolete string
 home-promo-desc-gary = Formar surfbrädor, Firefox-fan
 # Obsolete string
-home-promo-desc-ryan = Konstnär, skådespelerska, idrottskvinna & aktivist, Firefox-fan
+home-promo-desc-ryan = Konstnär, skådespelerska, idrottskvinna och aktivist, Firefox-fan
