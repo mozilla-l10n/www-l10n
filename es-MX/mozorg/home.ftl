@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Internet para la gente, no por el dinero
 home-did-you-know-mozilla-the-maker = ¿Sabías que { -brand-name-mozilla } —el creador de { -brand-name-firefox }— lucha para que el Internet se mantenga un recurso público a nivel mundial, abierto y accesible a todos?
 home-fast-for-good = Rápido y realmente bueno.
-home-with-2x-the-speed-built-in = Con el doble de velocidad, mejor protección de la privacidad, el nuevo { -brand-name-firefox } es la mejor manera de navegar.
+home-with-2x-the-speed-built-in = Con el doble de velocidad, protección de privacidad incorporada y { -brand-name-mozilla } detrás, el nuevo { -brand-name-firefox } es la mejor forma de navegar.
 home-we-make-the-internet-safer = Hacemos internet más seguro, sano y rápido para siempre.
 home-mozilla-is-the-not-for-profit = Como organización sin fines de lucro, { -brand-name-mozilla } participa activamente en procesos de formulación de políticas y desarrolla productos para las personas en lugar de ganancias.
 home-our-impact = Nuestra influencia
@@ -23,7 +23,7 @@ home-our-innovations = Nuestras innovaciones
 home-using-the-web-as-the-platform = Con la web como nuestra plataforma, creamos tecnologías abiertas e innovadoras que permiten a los desarrolladores trabajar sin ecosistemas corporativos cerrados y crear experiencias de web más rápidas y seguras para todos.
 home-virtual-reality-platform = Plataforma de realidad virtual
 home-common-voice = { -brand-name-common-voice }
-home-extensions = Complementos
+home-extensions = Extensiones
 home-personalize-firefox-with-your = Personaliza { -brand-name-firefox } con tus extras favoritos como administradores de contraseñas, bloqueadores de anuncios y mucho más.
 home-careers = Empleos
 home-learn-about-the-benefits-of = Conoce cuáles son los beneficios de trabajar para { -brand-name-mozilla }, y mira que vacantes hay disponibles alrededor del mundo.

@@ -31,11 +31,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Sí
 firefox-desktop-download-no = No
 firefox-desktop-download-blocks-third-party = Bloquea las cookies de rastreo de terceros
+firefox-desktop-download-blocks-third-party-default = Bloquea las cookies de rastreo de terceros de forma predeterminada
 firefox-desktop-download-autoplay-blocking = Bloquea la reproducción automática
 firefox-desktop-download-blocks-social-trackers = Bloquea los rastreadores sociales
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilidad para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla en el navegador
+firefox-desktop-download-primary-password = Contraseña primaria
+# Obsolete string
 firefox-desktop-download-master-password = Contraseña primaria
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por ello, exploras internet más rápido.
 firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente, mientras que sus rastreadores observan cada movimiento que realizas en línea. { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en los ajustes de seguridad.
@@ -155,6 +158,11 @@ firefox-desktop-download-now-mac = Ahora <strong>abre</strong> el archivo que ac
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ¿Tienes problemas? <a { $attrs }>Obtén ayuda con tu instalación</a>.
 firefox-desktop-download-in-another-language = Descargar en otro idioma o para otro sistema operativo.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Si ves un mensaje indicando que la aplicación que estás intentando instalar no es una aplicación verificada por { -brand-name-microsoft }, haz clic en “Instalar de todas formas” o en <a { $attrs }>cambiar los ajustes de recomendación de aplicaciones</a>.
+firefox-desktop-download-visit-support-for-more = Para más detalles visita la página de ayuda
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ya no proporciona actualizaciones de seguridad</a> para { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, pero aún puedes usar { -brand-name-firefox }.
