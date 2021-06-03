@@ -19,6 +19,11 @@ vpn-landing-privacy-heading = Privatsphäre mit einem Klick
 vpn-landing-privacy-desc = Surfen, streamen, zocken und arbeiten und dabei die Privatsphäre schützen. Egal, ob auf Reisen, bei der Nutzung öffentlicher WLAN-Netze oder einfach, um die eigene Online-Sicherheit hochzufahren, Mozilla VPN stellt deine Privatsphäre immer an erste Stelle.
 vpn-landing-fast-secure-heading = Schnelles und sicheres Netzwerk
 # Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } nutzt ein globales Servernetzwerk. Mit dem fortschrittlichsten Protokoll <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> verschlüsseln wir Ihre Netzwerkaktivitäten und verbergen Ihre IP-Adresse. Wir protokollieren, verfolgen oder teilen Ihre Netzwerkdaten niemals.
+# Obsolete string
+# Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
