@@ -19,6 +19,11 @@ vpn-landing-privacy-heading = Απόρρητο με ένα πάτημα
 vpn-landing-privacy-desc = Περιηγηθείτε, δείτε βίντεο, παίξτε και εργαστείτε, προστατεύοντας το απόρρητό σας. Είτε ταξιδεύετε, είτε χρησιμοποιείτε δημόσια WiFi, είτε θέλετε απλά περισσότερη ασφάλεια, το απόρρητό σας θα είναι πάντα προτεραιότητά μας.
 vpn-landing-fast-secure-heading = Γρήγορο και ασφαλές δίκτυο
 # Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = Το { -brand-name-mozilla-vpn } λειτουργεί σε ένα παγκόσμιο δίκτυο διακομιστών. Χρησιμοποιώντας το πιο προηγμένο πρωτόκολλο <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, κρυπτογραφούμε τη δραστηριότητα του δικτύου σας και κρύβουμε τη διεύθυνση IP σας. Δεν καταγράφουμε, δεν παρακολουθούμε και δεν κοινοποιούμε τα δεδομένα δικτύου σας.
+# Obsolete string
+# Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
