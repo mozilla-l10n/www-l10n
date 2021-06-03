@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Estás a punto de descargar:
 firefox-all-browser = Navegador:
 firefox-all-platform = Plataforma:
 firefox-all-language = Idioma:
+firefox-all-lang-multi = Varios idiomas
 firefox-all-sorry-we-couldnt-find = Lo sentimos; no pudimos encontrar la descarga que buscabas. Inténtalo otra vez o selecciona una descarga de la lista siguiente.
 firefox-all-the-pre-alpha-version = La versión prealfa está destinada a usuarios avanzados que desean informar de fallos y probar las últimas funciones tan pronto como se desarrollan.
 firefox-all-64-bit-installers = Instaladores de 64 bits
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Disfruta de la estabilidad y la facilidad d
 firefox-all-windows-installers-for = Instaladores de Windows para entornos corporativos que simplifican la configuración, la implantación y la gestión del navegador { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
 firefox-all-arm64-installers-optimized = Instaladores ARM64/AArch64 optimizados para PCs { -brand-name-windows } con Snapdragon.
+firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Elige un instalador de 32 bits para computadoras con procesadores de 32 bits o equipos viejos o menos potentes. <a href="{ $url }">Si no sabes</a> si elegir entre 32 o 64 bits, recomendamos optar por 32 bits.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
