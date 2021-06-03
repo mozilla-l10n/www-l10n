@@ -22,6 +22,8 @@ vpn-landing-privacy-heading = Satu ketik untuk privasi
 vpn-landing-privacy-desc = Layar, strim, permainan video dan bekerja sambil mengekalkan privasi anda dalam talian. Kami mengutamakan privasi anda sama ada anda makan angin, menggunakan WiFi awam atau mahukan keselamatan dalam talian.
 vpn-landing-fast-secure-heading = Rangkaian yang pantas dan selamat
 
+
+# Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/

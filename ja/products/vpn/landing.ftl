@@ -22,6 +22,8 @@ vpn-landing-privacy-heading = ワンタップでプライバシー
 vpn-landing-privacy-desc = オンラインでプライバシーを守りながら、ネットサーフィンやストリーミング、ゲーム、仕事ができます。旅行中も、パブリック Wi-Fi の利用中も、オンラインセキュリティを強化したいときも、Mozilla はいつでもユーザーのプライバシーを第一に考えています。
 vpn-landing-fast-secure-heading = 高速・安全なネットワーク
 
+
+# Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
