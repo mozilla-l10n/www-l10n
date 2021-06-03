@@ -40,10 +40,13 @@ is-firefox-safe-download = { -brand-name-firefox } d aɣellsan i usader?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = { -brand-name-firefox } isnuzuy isefka-inek·inem udmawanen?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Ayɣer { -brand-name-firefox } ẓẓay aṭas?
+firefox-isnt-slow = { -brand-name-firefox } ur ẓẓay ara… tura. Deg 2017, nules lebni n umsedday n yiminig-nneɣ seg tazwara (isem-is Quantum), i wakken ad neḍmen { -brand-name-firefox } yezmer ad yemḥezwer d tuget n yiminigen. Daɣen, imsewḥal-nneɣ n udellel ttεawanen deg urured n usali n yisebtar s zzerb. Ihi { -brand-name-firefox } d arurad am lebraq s war ma tsebbleḍ tudert-ik·im tabaḍnit.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
