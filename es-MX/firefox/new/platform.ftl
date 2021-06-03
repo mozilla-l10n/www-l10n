@@ -71,3 +71,5 @@ new-platform-easy-migration = Cuando descargues { -brand-name-firefox } para { -
 new-platform-download-firefox-for-windows = Descargar { -brand-name-firefox }<br>para { -brand-name-windows }
 # span is for visual formatting and line break
 new-platform-download-firefox-for-macos = Descargar { -brand-name-firefox }<br>para { -brand-name-mac }
+# span is for visual formatting and line break
+new-platform-download-firefox-for-linux = Descargar { -brand-name-firefox }<br>para { -brand-name-linux }
