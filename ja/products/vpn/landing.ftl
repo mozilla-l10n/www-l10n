@@ -22,6 +22,10 @@ vpn-landing-privacy-heading = ワンタップでプライバシー
 vpn-landing-privacy-desc = オンラインでプライバシーを守りながら、ネットサーフィンやストリーミング、ゲーム、仕事ができます。旅行中も、パブリック Wi-Fi の利用中も、オンラインセキュリティを強化したいときも、Mozilla はいつでもユーザーのプライバシーを第一に考えています。
 vpn-landing-fast-secure-heading = 高速・安全なネットワーク
 
+# Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } は、サーバーのグローバルネットワーク上で動作します。最先端の <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> プロトコルを使用して、ユーザーのネットワークアクティビティを暗号化し、IP アドレスを隠します。Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません。
 
 # Obsolete string
 # Variables:
