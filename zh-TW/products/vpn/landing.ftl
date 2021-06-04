@@ -19,6 +19,11 @@ vpn-landing-privacy-heading = 隱私保護一點即開
 vpn-landing-privacy-desc = 當您上網、看影音、完成工作的同時也能確保隱私。不論是在旅遊過程中、使用公開 Wi-Fi 網路，或是單純只是要加強上網時的安全保護，我們總是會將您的隱私放在第一位。
 vpn-landing-fast-secure-heading = 快速而安全的網路環境
 # Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } 提供全球各地的網路伺服器服務網，透過最先進的 <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> 通訊協定，我們將您的網路流量加密起來並且隱藏 IP 位置。我們永遠不會記錄、追蹤或分享您的網路資料。
+# Obsolete string
+# Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
