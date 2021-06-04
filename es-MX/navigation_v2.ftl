@@ -18,9 +18,26 @@ navigation-v2-get-the-customizable-mobile = Obtén el navegador móvil personali
 navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Obtén el navegador móvil para tu { -brand-name-iphone } o { -brand-name-ipad }.
 navigation-v2-privacy-promise = Promesa de privacidad
+navigation-v2-learn-how-firefox-treats = Aprende cómo { -brand-name-firefox } trata tus datos con respeto.
+navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
+navigation-v2-read-about-new-firefox-features = Descubre las nuevas características de { -brand-name-firefox } y maneras de mantenerte seguro en línea.
+navigation-v2-release-notes = Notas de la versión
+navigation-v2-get-the-details-on-the = Obtén los detalles de las últimas actualizaciones de { -brand-name-firefox }.
+navigation-v2-view-all-firefox-browsers = Ver todos los { -brand-name-firefox-browsers }
 
 ## Products menu
 
+navigation-v2-products = Productos
+navigation-v2-close-products-menu = Cerrar el menú de productos
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Comprueba si tu correo electrónico apareció en la filtración de datos de una empresa.
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Guarda y descubre las mejores historias de toda la web.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Ayuda a evitar que { -brand-name-facebook } recopile tus datos fuera de su sitio.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Obtén protección más allá de tu navegador, en todos tus dispositivos.
+navigation-v2-product-promise = Promesa del producto
 
 ## Who We Are menu
 
