@@ -14,8 +14,8 @@ nightly-firstrun-start-testing = Eñepyrũ eha’ã
 nightly-firstrun-code = Ayvu
 nightly-firstrun-file-bugs-and-work = Omomarandu apañuãi ha omba’apo { -brand-name-firefox } ryepyetépe.
 nightly-firstrun-start-coding = Eñepyrũ embopapapy
-nightly-firstrun-localize = Emoñe'ẽasa
+nightly-firstrun-localize = Emoñe’ẽasa
 nightly-firstrun-make-firefox-available = Ojapo { -brand-name-firefox } ojepurukuaa (ha porãve) hetave ñe’ẽme arapy tuichakue.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
 nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
-nightly-firstrun-start-localizing = Eñepyrũ emoñe'ẽasa
+nightly-firstrun-start-localizing = Eñepyrũ emoñe’ẽasa
