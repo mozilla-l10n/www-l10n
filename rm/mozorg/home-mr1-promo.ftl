@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/
 
 home-promo-title-soraya = Fieu e flomma per cumenzar
+home-promo-title-ryan = Fieu e flomma per cumenzar
