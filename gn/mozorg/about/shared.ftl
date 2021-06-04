@@ -13,6 +13,6 @@ about-shared-governance = Sãmbyhyrã
 about-shared-forums = Ñomongetajere
 about-shared-patents = Patente
 about-shared-our-products = Ñane rembiapopyre
-about-shared-software-innovations = Software ha ambue mba'epyahu ojejapóva oho hag̃ua tenonde gotyo ñane rembipota.
+about-shared-software-innovations = Software ha ambue mba’epyahu ojejapóva oho hag̃ua tenonde gotyo ñane rembipota.
 about-shared-get-involved = Eike pype
 about-shared-volunteer = Toiko ndehegui pytyvõhára reiguáva iñambuéva tendaitépe.

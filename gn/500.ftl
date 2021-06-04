@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-error-page-error-page-internal-server-error = 500: Mba'e'oka ryepýpe jejavy
+error-page-error-page-internal-server-error = 500: Mba’e’oka ryepýpe jejavy
 error-page-something-went-wrong = Oĩ osẽvaíva
 error-page-its-probably-just-a-server-error = Ikatu mohendahavusu ojavy ha romba’apohína romoĩporã hag̃ua.
 # Variables:

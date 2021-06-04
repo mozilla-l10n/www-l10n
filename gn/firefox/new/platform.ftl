@@ -55,7 +55,7 @@ new-platform-be-the-master-of-your = Eipurukuaáke ne rendatee tetepy jejoko oik
 # /firefox/windows/ HTML page title
 new-platform-download-mozilla-windows = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows } peg̃uarã
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows } peg̃uarã, peteĩ kundahára reiguáva omboguatáva peteĩ atyguasu arapygua ivirupota'ỹva oñeha'ãva omoĩ yvypórape oñangareko hag̃ua ñandutíre. ¡Eguerekóke { -brand-name-firefox } { -brand-name-windows } peg̃uarã!
+new-platform-download-mozilla-desc-windows = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows } peg̃uarã, peteĩ kundahára reiguáva omboguatáva peteĩ atyguasu arapygua ivirupota’ỹva oñeha’ãva omoĩ yvypórape oñangareko hag̃ua ñandutíre. ¡Eguerekóke { -brand-name-firefox } { -brand-name-windows } peg̃uarã!
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Emboguejy { -brand-name-firefox } { -brand-name-windows } peg̃uarã, ipya’evéva opavavégui
 # /firefox/windows/ social sharing description

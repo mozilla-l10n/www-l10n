@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Ñanduti avápe g̃uarã, ndaha’éi virurã añogua
 home-did-you-know-mozilla-the-maker = ¿Eikuaápa? { -brand-name-mozilla } — atyguasu { -brand-name-firefox } apoharé — oñorairõ peteĩ ñanduti opavavépe g̃uarãva rehe, ijuruja ha oipurukuaáva mayma tapicha.
 home-fast-for-good = Ipya’éta tapiaite.
-home-with-2x-the-speed-built-in = Ipya’eve, ñemigua mo’ãha reheve ha { -brand-name-mozilla } hapykuéri, { -brand-name-firefox } ipyahúva ha'e kundaha iporãvéva ñandutípe.
+home-with-2x-the-speed-built-in = Ipya’eve, ñemigua mo’ãha reheve ha { -brand-name-mozilla } hapykuéri, { -brand-name-firefox } ipyahúva ha’e kundaha iporãvéva ñandutípe.
 home-we-make-the-internet-safer = Rojapo ñanduti hekorosã, hesãi ha ipya'éva opa árape g̃uarã.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } niko nomba'apói viru rapykuéri ojapokuévo { -brand-name-firefox }, upévare jaipurukuaa ko tembipuru porã jaike hag̃ua ñandutivevépe. Rojapo mba'epyahu ha umíva rupive roipota ñandutiveve isãso ha opavavépe g̃uarã, ndoroipotái umi iviruhetáva ha viru piárinte oikóva ombohekovai ñandutiveve.
 home-our-impact = Ore mbaretekue

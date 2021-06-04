@@ -20,7 +20,7 @@ best-browser-a-browser-is-still = Peteĩ kundaha ha’e tembipuru, upéicharamo 
 best-browser-this-is-one-of-the = Kóva ha’e eiporavo hag̃ua { -brand-name-firefox } kundaha: { -brand-name-firefox } ojoko tapykuehoha mbohapyháva ijypykue rupi. Avei oĩve ambue mba’e ha jaháta upépe ag̃ave.
 best-browser-a-browser-that-puts = Kundaha omotenondéva tekorosã.
 best-browser-remember-the-last-massive = ¿Nemandu’ápa mba’ekuaarã ñembyai ramovegua? Peicha’ỹramo, ikatu oiko tapiágui. Umi mba’apohaguasu oñongatu puruhára mba’ekuaarã, imarandu tee térã virureko, ha umi mondaha ogueraha. Emotenondéramo tekorosã, upéicharamo kundaha hetekorosãva ha’e iporãvéva ndéve g̃uarã.
-best-browser-there-are-a-few-ways = Oĩ heta mba’e kundaha ikatuhápe oipytyvõ puruhárape hekorosã hag̃ua. Kundaha hekopyahúva tekorosãme ikatu oipytyvõ omo’ã hag̃ua ne mohendaha ha ñanduti renda oikéva eipota’ỹre, tembiaporape imarãva térã mba'echu'i tembipurupyahu rehegua.
+best-browser-there-are-a-few-ways = Oĩ heta mba’e kundaha ikatuhápe oipytyvõ puruhárape hekorosã hag̃ua. Kundaha hekopyahúva tekorosãme ikatu oipytyvõ omo’ã hag̃ua ne mohendaha ha ñanduti renda oikéva eipota’ỹre, tembiaporape imarãva térã mba’echu’i tembipurupyahu rehegua.
 # Variables:
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
