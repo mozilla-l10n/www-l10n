@@ -13,6 +13,16 @@ vpn-landing-hero-sub-heading = Güvenilir bir markadan güvenilir bir hizmet.
 vpn-landing-hero-desc = { -brand-name-firefox }’un yapımcılarından sanal özel ağ (VPN).
 vpn-landing-privacy-heading = Tek dokunuşla gizlilik
 vpn-landing-fast-secure-heading = Hızlı ve güvenli ağ
+# Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn }, dünyanın farklı yerlerindeki sunucular üzerinde çalışıyor. Gelişmiş <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> protokolüyle ağ etkinliğinizi şifreliyor ve IP adresinizi gizliyoruz. Ağ verilerinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz.
+# Obsolete string
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn }, dünyanın farklı yerlerindeki <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> sunucuları üzerinde çalışıyor. Gelişmiş <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> protokolüyle ağ etkinliğinizi şifreliyor ve IP adresinizi gizliyoruz. Ağ verilerinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz.
 vpn-landing-brand-trust-heading = Güvenebileceğiniz bir markanın VPN’i
 
 ## FAQ section
@@ -22,6 +32,7 @@ vpn-langing-faq-uses-question-heading = VPN nedir ve neden kullanılır?
 vpn-landing-faq-uses-conceal = Gerçek IP adresinizi gizler. Böylece hem kimliğiniz korunur hem de konumunuz gizlenir.
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
 vpn-landing-faq-protected-question-heading = Gizliliğim nasıl korunuyor?
+vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn }'in rakiplerinden ne farkı var?
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } hangi cihazlarla uyumlu?
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } aşağıdaki cihazlarla uyumludur:
@@ -90,6 +101,9 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = “Bekleme listesine katılın”ı tıklayarak <a href="{ $privacy }">Gizlilik Politikamızı</a> kabul etmiş olursunuz.
 vpn-landing-invite-your-information = Bilgileriniz yalnızca sizi platform kullanılabilirliği hakkında bilgilendirmek için kullanılacaktır.
 vpn-landing-invite-thanks-heading = Teşekkürler! Listeye eklendiniz
 vpn-landing-invite-thanks-desc = { -brand-name-mozilla-vpn } bölgenize açılınca sizi e-postayla bilgilendireceğiz.
