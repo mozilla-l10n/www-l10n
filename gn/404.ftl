@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/404/
 
-not-found-page-not-found-page-page-not-found = 404: Kuatiarogue ojejuhu'ỹva
+not-found-page-not-found-page-page-not-found = 404: Kuatiarogue ojejuhu’ỹva
 not-found-page-sorry-we-cant-find-that-page = Oreñyrõ, ndojuhúi pe kuatiarogue
 not-found-page-were-all-about-a-healthy-internet = Roipota peteĩ ñanduti hesãiva, hákatu oikokuaa URLs ojepurukuaa’ỹva.
 not-found-page-go-back = Guevijey
