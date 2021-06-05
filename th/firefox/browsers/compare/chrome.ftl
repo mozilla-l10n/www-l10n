@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # HTML page title
-compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } กับ { -brand-name-chrome } อันไหนดีกว่ากัน?
+compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } กับ { -brand-name-chrome }: เบราว์เซอร์ไหนดีกว่ากัน
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = เราเปรียบเทียบ { -brand-name-mozilla }{ -brand-name-firefox } กับ { -brand-name-google }{ -brand-name-chrome } ในแง่ความเป็นส่วนตัว ประโยชน์ใช้สอย และความสามารถในการโยกย้าย
+compare-chrome-we-compare-mozilla-firefox = เราจะเปรียบเทียบ { -brand-name-mozilla } { -brand-name-firefox } กับ { -brand-name-google } { -brand-name-chrome } ในเรื่องความเป็นส่วนตัว อรรถประโยชน์ และความสามารถในการพกพา
 # Main title.
-compare-chrome-comparing-firefox-browser = เปรียบเทียบ { -brand-name-firefox-browser } กับ { -brand-name-google }{ -brand-name-chrome }
+compare-chrome-comparing-firefox-browser = เปรียบเทียบ { -brand-name-firefox-browser } กับ { -brand-name-google } { -brand-name-chrome }
