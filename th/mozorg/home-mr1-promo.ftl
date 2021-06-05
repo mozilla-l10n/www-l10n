@@ -14,3 +14,11 @@ home-promo-desc-lalo-updated = เจ้าของร้านอาหาร 
 home-promo-desc-soraya-updated = นักออกแบบเฟอร์นิเจอร์ แฟน { -brand-name-firefox }
 home-promo-desc-gary-updated = นักกออกแบบกระดานโต้คลื่น แฟน { -brand-name-firefox }
 home-promo-desc-ryan-updated = ศิลปิน นักแสดง นักกีฬา และนักกิจกรรม แฟน { -brand-name-firefox }
+# Obsolete string
+home-promo-desc-lalo = เจ้าของร้านอาหาร แฟน Firefox
+# Obsolete string
+home-promo-desc-soraya = นักออกแบบเฟอร์นิเจอร์ แฟน Firefox
+# Obsolete string
+home-promo-desc-gary = นักออกแบบกระดานโต้คลื่น แฟน Firefox
+# Obsolete string
+home-promo-desc-ryan = ศิลปิน นักแสดง นักกีฬา และนักกิจกรรม แฟน Firefox
