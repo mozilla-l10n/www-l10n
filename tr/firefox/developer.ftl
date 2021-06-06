@@ -10,7 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }, CSS Grid desteği ve framework'lerde hata ayıklama gibi son teknoloji geliştirici araçları ve yepyeni özellikler sunan, son derece hızlı bir tarayıcı
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = En sevdiğin tarayıcının yeni haline hoş geldin. Açık web’i inşa etmen için gereken en yeni özellikler, daha yüksek performans ve geliştirici araçları bir arada.
 firefox-developer-speak-up = Derdini söyle
 firefox-developer-feedback-makes-us = Görüşlerin bizi daha iyi yapar. Tarayıcımızı ve geliştirici araçlarımızı nasıl geliştireceğimizi bize anlatabilirsin.
