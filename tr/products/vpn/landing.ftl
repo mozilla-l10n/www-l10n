@@ -34,6 +34,10 @@ vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } hangi bilgil
 vpn-landing-faq-protected-question-heading = Gizliliğim nasıl korunuyor?
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn }'in rakiplerinden ne farkı var?
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } hangi cihazlarla uyumlu?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } aşağıdaki işletim sistemlerini kullanan <a href="{ $mobile }">mobil cihazlar</a>, tabletler ve <a href="{ $desktop }">bilgisayarlarla</a> uyumludur:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } aşağıdaki cihazlarla uyumludur:
 # Variables:
@@ -78,6 +82,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (yalnızca { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
+vpn-landing-faq-refund-question-desc = Aboneliğinizi başlattıktan sonraki 30 gün içinde para iadesi alabilirsiniz. İade talebinde bulunmak için { -brand-name-mozilla-vpn } uygulamanızın Ayarlar kısmındaki “Yardım Al” düğmesine dokunarak bizimle iletişime geçebilirsiniz.
 vpn-landing-faq-manage-subscription-question-heading = Aboneliğimi nasıl yönetebilirim?
 vpn-landing-faq-link = Diğer SSS'ler
 # message shown to visitors who try to sign-in without an active subscription.
