@@ -34,3 +34,5 @@ vpn-android-devices-copy = { -brand-name-mozilla-vpn } te brinda la posibilidad 
 vpn-android-speed-headline = Velocidades ultrarrápidas. Datos ilimitados.
 vpn-android-speed-copy = Puedes jugar en línea, ver películas y navegar por la web a velocidades ultrarrápidas en tu dispositivo { -brand-name-android } — todo con ancho de banda ilimitado.
 vpn-android-log-headline = Sin registros. Sin rastreo. Sin invasiones de privacidad.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Muchos proveedores de VPN registran tu actividad en sus servidores. No es así como operamos. { -brand-name-mozilla-vpn } nunca rastrea tu actividad en línea— eso va en contra de todo lo que defendemos como compañía. Ponemos tu privacidad y seguridad en primer lugar, por delante de cualquier otra cosa.
