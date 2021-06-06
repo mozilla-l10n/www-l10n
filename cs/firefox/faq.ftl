@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = Otázky a odpovědi ohledně { -brand-name-firefox(case: "gen") }
 what-is-firefox = Co je { -brand-name-firefox }?
 
 # Variables:
@@ -25,6 +27,7 @@ is-chrome-better = Je { -brand-name-chrome } lepší než { -brand-name-firefox 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = Je bezpečné si { -brand-name-firefox(case: "acc") } stáhnout?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -40,6 +43,10 @@ does-firefox-sell = Prodává { -brand-name-firefox } vaše osobní data?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Proč je { -brand-name-firefox } tak pomalý?
+firefox-isnt-slow = { -brand-name-firefox } není pomalý… už. V roce 2017 jsme kompletně předělali jádro našeho prohlížeče (nazvané Quantum), abychom se ujistili, že { -brand-name-firefox } bude konkurenceschopný ve srovnání s ostatními prohlížeči. Zároveň naše blokování sledovacích prvků pomáhá rychlejšímu načítání stránek. Takže { -brand-name-firefox } je bleskurychlý bez jakéhokoliv narušení vašeho soukromí.
+is-firefox-chromium = Je { -brand-name-firefox } založený na { -brand-name-chromium(case: "loc") }?
+firefox-is-not = { -brand-name-firefox } není založený na { -brand-name-chromium(case: "loc") } (open-source jádro prohlížeče vytvořené pro { -brand-name-google(case: "acc") } { -brand-name-chrome }). Ve skutečnosti jsme jedním z posledních velkých prohlížečů, který ho nepoužívá. { -brand-name-firefox } běží na jádru Quantum, které jsme vytvořili speciálně pro { -brand-name-firefox(case: "acc") }. Díky tomu dokážeme zajistit, že je s vašimi daty zacházeno s respektem a důvěrně.
+does-firefox-use = Používá { -brand-name-firefox } vyhledávač { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -50,6 +57,7 @@ does-firefox-have = Má { -brand-name-firefox } vestavěnou VPN?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+who-owns-firefox = Kdo vlastní { -brand-name-firefox(case: "acc") }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
