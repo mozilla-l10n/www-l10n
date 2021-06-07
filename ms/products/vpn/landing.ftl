@@ -22,6 +22,10 @@ vpn-landing-privacy-heading = Satu ketik untuk privasi
 vpn-landing-privacy-desc = Layar, strim, permainan video dan bekerja sambil mengekalkan privasi anda dalam talian. Kami mengutamakan privasi anda sama ada anda makan angin, menggunakan WiFi awam atau mahukan keselamatan dalam talian.
 vpn-landing-fast-secure-heading = Rangkaian yang pantas dan selamat
 
+# Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } beroperasi di rangkaian pelayan global. Kami mengenkripsi aktiviti rangkaian anda dan menyembunyikan alamat IP menggunakan protokol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> termaju. Kami tidak merekod, menjejak atau berkongsi data rangkaian anda.
 
 # Obsolete string
 # Variables:
