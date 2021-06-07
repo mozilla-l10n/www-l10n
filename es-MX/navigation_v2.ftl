@@ -42,9 +42,19 @@ navigation-v2-learn-how-each-firefox-product = Descubre cómo los productos de {
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Regístrate para tener nuevas cuentas sin revelar tu correo electrónico.
+navigation-v2-protect-your-browsers-connection = Protege la conexión de tu navegador a Internet.
+navigation-v2-view-all-products = Todos los productos
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Quiénes somos
+navigation-v2-close-who-we-are-menu = Cerrar el menú Quiénes somos
+navigation-v2-mozilla-manifesto = Manifiesto de { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Conoce más acerca de los valores y principios que guían nuestra misión.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Conoce a la organización sin fines de lucro detrás de { -brand-name-firefox } que lucha por una web mejor.
+navigation-v2-get-involved = Involúcrate
+navigation-v2-join-the-fight-for-a = Únete a la lucha por un internet saludable.
 
 ## Innovation menu
 
