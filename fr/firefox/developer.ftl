@@ -78,3 +78,4 @@ firefox-developer-welcome-to-the-all-new = Bienvenue dans le tout nouveau { -bra
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } a été repensé de fond en comble pour être plus rapide et plus puissant qu’il ne l’a jamais été.
 firefox-developer-congrats-you-now-have-firefox = Félicitations, vous utilisez désormais { -brand-name-firefox-quantum } : { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Il ne s’agit pas d’une simple mise à jour. Voici { -brand-name-firefox-quantum } : un { -brand-name-firefox } tout neuf qui a été repensé de fond en comble pour être plus rapide et plus puissant qu’il ne l’a jamais été.
+firefox-developer-made-for-developers = Le navigateur conçu pour les développeurs
