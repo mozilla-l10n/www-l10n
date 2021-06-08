@@ -19,3 +19,4 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
