@@ -19,6 +19,11 @@ vpn-landing-privacy-heading = პირადულობა ერთი წკ
 vpn-landing-privacy-desc = მოინახულეთ, გაუშვით პირდაპირ ეთერში, ითამაშეთ და იმუშავეთ, პირადულობის დაცვით. არ აქვს მნიშვნელობა მგზავრობთ, საჯარო WiFi-ს იყენებთ თუ უბრალოდ მეტი უსაფრთხოება გსურთ, ჩვენთვის თქვენი პირადულობა, მუდამ უპირველესია.
 vpn-landing-fast-secure-heading = სწრაფი და დაცული ქსელი
 # Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში. უმაღლესი დონის <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ოქმის გამოყენებით, იშიფრება თქვენი მოქმედებები ქსელში და იფარება IP-მისამართი. არასდროს აღვრიცხავთ, არ მივადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
+# Obsolete string
+# Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
