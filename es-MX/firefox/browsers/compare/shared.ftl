@@ -10,6 +10,8 @@ compare-shared-yes = Sí
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = No
 compare-shared-private-browsing-mode = Modo Navegación Privada
+compare-shared-blocks-third-party-tracking-default = Bloquea las cookies de rastreo de terceros de forma predeterminada
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Bloquea las cookies de rastreo de terceros
 compare-shared-blocks-cryptomining-scripts = Bloquea los códigos de criptomineros
 compare-shared-blocks-social-trackers = Bloquea los rastreadores sociales
@@ -27,6 +29,8 @@ compare-shared-os-availability = Disponibilidad para sistemas operativos
 compare-shared-mobile-os-availability = Disponibilidad para sistemas operativos de móviles
 compare-shared-syncs-with-mobile = Sincronización con móviles
 compare-shared-password-management = Administrador de contraseñas
+compare-shared-primary-password = Contraseña primaria
+# Obsolete string
 compare-shared-master-password = Contraseña maestra
 compare-shared-security-and-privacy = Seguridad y Privacidad
 compare-shared-utility = Utilidad
@@ -38,6 +42,8 @@ compare-shared-utility-strong = <strong>Utilidad</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilidad</strong>
 compare-shared-overall-assessment = Evaluación general
+compare-shared-the-comparisons-made-here-updated = Las comparaciones realizadas aquí se realizaron con la configuración predeterminada y en las versiones de lanzamiento del navegador de la siguiente manera:
+# Obsolete string
 compare-shared-the-comparisons-made-here = Las comparaciones realizadas aquí se realizaron en las versiones finales disponibles para usuarios comunes de los navegadores de la siguiente forma:
 compare-shared-this-page-updated-semi-quarterly = Esta página se actualiza cada mes y medio para reflejar las últimas versiones y es posible que no siempre refleje las últimas actualizaciones.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
