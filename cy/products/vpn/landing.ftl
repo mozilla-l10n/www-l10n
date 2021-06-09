@@ -19,6 +19,11 @@ vpn-landing-privacy-heading = Un tap i breifatrwydd
 vpn-landing-privacy-desc = Syrffio, ffrydio, gemau, a gweithio, tra'n cynnal eich preifatrwydd ar-lein. P'un ai rydych chi'n teithio, yn defnyddio WiFi cyhoeddus neu'n chwilio am fwy o ddiogelwch ar-lein yn unig, byddwn bob tro'n rhoi eich preifatrwydd yn gyntaf.
 vpn-landing-fast-secure-heading = Rhwydwaith cyflym a diogel
 # Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion. Gan ddefnyddio'r protocol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> mwyaf datblygedig, rydym yn amgryptio eich gweithgaredd rhwydwaith ac yn cuddio'ch cyfeiriad IP. Nid ydym byth yn cofnodi, tracio, nac yn rhannu eich data rhwydwaith.
+# Obsolete string
+# Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
