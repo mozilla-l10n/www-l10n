@@ -77,6 +77,7 @@ navigation-v2-check-out-the-home-for-web = Завітайце на хатнюю 
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Даследуйце Інтэрнэт з дапамогай браўзера { -brand-name-firefox } для віртуальнай рэальнасці.
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Ахвяруйце свой голас, каб будучыня Інтэрнэту змагла пачуць усіх.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Даведайцеся больш пра новую нізкаўзроўневую мову, падобную на асемблер.
 navigation-v2-more-mozilla-innovation = Усе інавацыі { -brand-name-mozilla }
