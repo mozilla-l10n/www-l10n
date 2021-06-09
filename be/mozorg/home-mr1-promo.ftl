@@ -13,3 +13,12 @@ home-promo-explore-firefox = Даследуйце { -brand-name-firefox }
 home-promo-desc-lalo-updated = Рэстаратар, прыхільнік { -brand-name-firefox }
 home-promo-desc-soraya-updated = Дызайнер мэблі, прыхільнік { -brand-name-firefox }
 home-promo-desc-gary-updated = Фармавальнік дошак для сёрфінгу, прыхільнік { -brand-name-firefox }
+home-promo-desc-ryan-updated = Мастачка, актрыса, спартсменка і актывістка, прыхільніца { -brand-name-firefox }
+# Obsolete string
+home-promo-desc-lalo = Рэстаратар, прыхільнік Firefox
+# Obsolete string
+home-promo-desc-soraya = Дызайнер мэблі, прыхільнік Firefox
+# Obsolete string
+home-promo-desc-gary = Фармавальнік дошак для сёрфінгу, прыхільнік Firefox
+# Obsolete string
+home-promo-desc-ryan = Мастачка, актрыса, спартсменка і актывістка, прыхільніца Firefox
