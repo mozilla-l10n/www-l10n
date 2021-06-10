@@ -29,3 +29,11 @@ whatsnew79-take-less-keep-it-safe = Nus ramassain mo paucas datas. Nus las memor
 # CTA link
 whatsnew79-read-more = Ulteriuras infurmaziuns
 whatsnew79-keep-facebook-contained = Tegna { -brand-name-facebook } sin distanza
+whatsnew79-get-the-power-to-prevent = Impedescha che { -brand-name-facebook } e { -brand-name-instagram } ta suondian en il web.
+# CTA link
+whatsnew79-add-facebook-container = Agiuntescha { -brand-name-facebook-container }
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Installescha { -brand-name-firefox } sin tes telefonin
+whatsnew79-scan-the-qr-code = Scannescha il code QR per cumenzar
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = Il code QR per scannar per { -brand-name-firefox }
