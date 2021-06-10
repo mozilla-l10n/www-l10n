@@ -25,7 +25,48 @@ firefox-new-youve-already-got-the-browser = Ye’ve awready got the stravaiger. 
 firefox-new-watch-for-hackers-with = Watch oot fur hackers wi { -brand-name-firefox-monitor }, bield passwirds wi { -brand-name-firefox-lockwise }, and mair.
 firefox-new-get-more-from-firefox = Get Mair Fae { -brand-name-firefox }
 firefox-new-free-web-browser = Free Wab Stravaiger
+firefox-new-and-start-getting-the-respect = And stert gettin the respect ye deserve wi oor faimily o privacy-first products.
+firefox-new-advanced-install-options = Advanced instaw options & ither platforms
+firefox-new-download-in-another-language = Doonload in anither leid
+firefox-new-fix-a-problem = Sort a problem
+firefox-new-need-help = Needin hauners?
+firefox-new-see-whats-being-blocked = See whit's bein blockit
+firefox-new-make-your-passwords-portable = Mak yer passwirds portable
+firefox-new-watch-for-data-breaches = Watch oot fur data breaches
+firefox-new-connect-to-a-whole-family = Connect tae a hale faimily o respectfu products, forby aw the kennins ye need fur tae bield yersel online.
+firefox-new-passwords-made-portable = Passwirds makkit portable
+firefox-new-protect-your-privacy = Bield yer privacy
+firefox-new-private-browsing-clears = <strong>Private Stravaigin</strong> dichts yer historie tae keep it secret fae onybodie that yaises yer computer.
+firefox-new-advanced-install-options-heading = Advanced Instaw Options & ither Platforms
+firefox-new-just-download-the-browser = Doonload The Stravaiger, Jist
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nae langer provides siccarness updates</a> on { -brand-name-windows } { -brand-name-xp } or { -brand-name-vista }, but ye can still yaise { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-youre-using-an-insecure-outdated = Ye’re yaisin an ootdatit operatin system that's no siccar and <a href="{ $url }">nae langer supportit by { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-firefox-new-should-begin = Yer doonload should stert automatically. Didnae wirk? <a id="{ $id }" href="{ $fallback_url }">Gie doonloadin anither shot</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mair than a stravaiger.
+firefox-new-its-privacy-and-peace-of = It’s <strong>privacy and peace o mind</strong> on mobile, forby.
+firefox-new-its-a-family-of-products = It’s a <strong>faimily o products</strong> that treat yer personal data wi respect.
+firefox-new-its-everything-you-need-to = It’s awthin ye need tae ken aboot <strong>bidin sauf online</strong>.
+firefox-new-its-a-community-that-believes = It’s <strong>a commonweal</strong> that uphauds that tech can dae better.
+firefox-new-download-interrupted = Yer doonload wis interruptit. But it's no gemme's a bogey jist yet.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Gonnae follae <a href="{ $url }">these instructions</a> fur tae instaw { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Yer system micht no match the requirements fur { -brand-name-firefox }, but ye can try yin o <a href="{ $url }">these versions</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = If you see a prompt sayin that the app ye’re ettlin tae instaw isnae a { -brand-name-microsoft }-verified app, click “Instaw onywey” or <a { $attrs }>chynge app recommendation settins</a>.
+firefox-new-visit-support-for-more = Veesit Support fur Mair Details
