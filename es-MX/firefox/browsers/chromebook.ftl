@@ -9,6 +9,12 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Obtén { -brand-name-firefox-browser } para { -brand-name-chromebook }
+browsers-chromebook-browsers-chromebook-get-firefox-for = Obtener { -brand-name-firefox } para { -brand-name-android }
+browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } basado en x86 con { -brand-name-chromeos } 80 o posterior
+browsers-chromebook-dropdown-copy = Obtener { -brand-name-firefox } para { -brand-name-chromebook }
+# The span here is to display an underline underneath "Firefox"
+browsers-chromebook-why-get-firefox = ¿Por qué obtener <span>{ -brand-name-firefox }</span> para { -brand-name-chromebook }?
+browsers-chromebook-is-it-hard = ¿Es difícil instalar { -brand-name-firefox } para { -brand-name-chromebook }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
