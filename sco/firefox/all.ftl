@@ -23,7 +23,7 @@ firefox-all-64-bit-installers = 64-bit instawers
 firefox-all-choose-a-64-bit-installer = Wale a 64-bit instawer fur computers wi 64-bit processors, which alloo them tae allocate mair RAM tae parteecular programs — gey haundy fur gemmes and ither demandin applications.
 firefox-all-32-bit-installers = 32-bit instawers
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Doonload the { -brand-name-firefox-browser } in English (US) and mair than 90 ither leids.
+firefox-all-download-the-firefox = Doonload the { -brand-name-firefox-browser } in Scots and mair than 90 ither leids.
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Awbody deserves ingang tae the internet — yer leid should nivver be a baur. That's how — wi the help o dedicatit volunteers aroond the warld — we mak the { -brand-name-firefox-browser } available in mair than 90 leids.
 firefox-all-choose-which-firefox = Wale whit { -brand-name-firefox-browser } tae doonload in yer leid
