@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+firefox-sticky-promo-get-the-latest-firefox = Get the latest { -brand-name-firefox } stravaiger.
 # Products List
 firefox-sticky-promo-browsers = Stravaigers
 firefox-sticky-promo-monitor = { -brand-name-monitor }
