@@ -13,7 +13,7 @@ privacy-faq-it-can-be-tricky-for-people = Puede ser complicado para las personas
 privacy-faq-at-mozilla-we-respect-and-protect = En { -brand-name-mozilla } respetamos y protegemos tu información personal:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = Seguimos una serie de <a href="{ $link }">principios de privacidad de datos</a> que forman parte de nuestra estrategia sobre la privacidad de los navegadores de escritorio y móviles.
+privacy-faq-we-follow-a-set-of-data-privacy = Seguimos una serie de <a href="{ $link }">principios de privacidad de datos</a> que dan forma a cómo abordamos la privacidad de los navegadores { -brand-name-firefox } de escritorio y móviles.
 privacy-faq-we-only-collect-the-data-we = Recolectamos solo la información necesaria para crear los productos.
 privacy-faq-we-put-people-in-control-of = Con nuestros productos la gente tiene el control sobre sus datos y sus experiencias en línea.
 privacy-faq-we-adhere-to-no-surprises-principle = Seguimos el principio de “sin sorpresas”, lo cual significa que trabajamos duro para garantizar que la comprensión de los usuarios de { -brand-name-firefox } se acerque los más posible a la realidad.
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } no vende tu
 privacy-faq-wait-so-how-do-you-make-money = Un momento, ¿entonces cómo es que hacen dinero?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } no es una organización como cualquier otra. Se creó como un proyecto de comunidad de código abierto en 1998 y su principal misión es trabajar por un Internet más sano. Una gran parte de los ingresos de la Corporación { -brand-name-mozilla } proviene de los cánones que obtiene el navegador { -brand-name-firefox } con las colaboraciones de búsqueda y acuerdos de distribución en todo el mundo. Puedes descubrir más sobre cómo generamos ingresos en nuestro <a href="{ $link }">informe económico anual</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } no es una organización como cualquier otra. Se creó como un proyecto de comunidad de código abierto en 1998 y su principal misión es trabajar por un Internet más sano. Una gran parte de los ingresos de la { -brand-name-mozilla-corporation } proviene de los cánones que obtiene el navegador { -brand-name-firefox } con las colaboraciones de búsqueda y acuerdos de distribución en todo el mundo. Puedes descubrir más sobre cómo generamos ingresos en nuestro <a href="{ $link }">informe económico anual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = De acuerdo, esas preguntas eran fáciles. ¿Qué datos recolectan?
 # Variables:
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Algo así. Además de los datos de
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = También podemos recolectar datos adicionales en la versión preliminar para uno de nuestros <a href="{ $link }">estudios</a>. Por ejemplo, algunos estudios necesitan lo que llamamos “datos de actividad web”, que pueden incluir URLs y otra información sobre ciertos sitios web. Esto nos ayuda a responder preguntas concretas para mejorar { -brand-name-firefox }, por ejemplo, cómo integrar mejor sitios web populares en localizaciones específicas.
-privacy-faq-mozillas-pre-release-versions = Las versiones preliminares de { -brand-name-firefox } son plataformas de desarrollo, actualizadas frecuentemente con funciones experimentales. Recopilamos más datos en la versión preliminar que lo que hacemos después del lanzamiento para entender cómo operan estas funciones experimentales. Puedes deshabilitar la recogida de estos datos en las preferencias.
+privacy-faq-mozillas-pre-release-versions = Las versiones preliminares de { -brand-name-firefox } por { -brand-name-mozilla } son plataformas de desarrollo, actualizadas frecuentemente con funciones experimentales. Recopilamos más datos en la versión preliminar que lo que hacemos después del lanzamiento para entender cómo operan estas funciones experimentales. Puedes desactivar la recolección de estos datos en las preferencias.
 privacy-faq-but-why-do-you-collect-any-data = Pero, ¿por qué recolectan datos?
 privacy-faq-if-we-dont-know-how-the-browser = Si no sabemos cómo está funcionando el navegador o qué funciones utilizan los usuarios, no podemos mejorarlo ni ofrecerte mejores productos. Hemos incorporado herramientas de recopilación de datos que nos permiten tomar decisiones inteligentes sobre nuestros productos; eso sí, siempre respetando la privacidad de los usuarios.
 privacy-faq-data-collection-still-bugs-me = La recolección de datos igual me incomoda. ¿Puedo desactivarla?

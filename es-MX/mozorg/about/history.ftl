@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = Para el año 2002, <a href="{ $over90 }">más del
 history-not-many-people-noticed = No mucha gente se dio cuenta en ese momento, pero la primera versión de Phoenix (más tarde renombrado como { -brand-name-firefox }) también fue lanzada por miembros de la comunidad de { -brand-name-mozilla } ese año con el objetivo de proporcionar la <a href="{ $charter }">mejor experiencia de navegación posible</a> a la mayor cantidad posible de personas.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } crea la Fundación { -brand-name-mozilla }, una <a href="{ $foundation }">organización independiente sin fines de lucro</a> con el apoyo de donantes individuales y una gran variedad de empresas.
+history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } creó la { -brand-name-mozilla-foundation }, una <a href="{ $foundation }">organización independiente sin fines de lucro</a> apoyada por donantes individuales y una variedad de empresas.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = La nueva Fundación Mozilla siguió el papel de la gestión de las operaciones diarias del proyecto y también se hizo cargo oficialmente de la función de promover la <a href="{ $manifesto }">apertura, innovación y oportunidad</a> en Internet.
+history-the-new-mozilla-foundation = La nueva { -brand-name-mozilla-foundation } continuó con la función de administrar las operaciones diarias del proyecto y también asumió oficialmente la función de promover <a href="{ $manifesto }">transparencia, innovación y oportunidad</ a> en Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Lo hizo mediante la continuación para liberar el software, tales como { -brand-name-firefox } y { -brand-name-thunderbird }, y expandiéndose a nuevas áreas, tales como la concesión de <a href="{ $grants }">becas</a> para apoyar las mejoras de accesibilidad en la Web.
