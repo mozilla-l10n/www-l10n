@@ -25,3 +25,7 @@ whatsnew79-see-your-report = Visualisescha tes rapport
 whatsnew79-update-your-firefox = Actualisescha tes navigatur { -brand-name-firefox }
 whatsnew79-download-the-firefox = Telechargia il navigatur { -brand-name-firefox }
 whatsnew79-read-our-privacy-promise = Legia nossa empermischun davart la protecziun da datas
+whatsnew79-take-less-keep-it-safe = Nus ramassain mo paucas datas. Nus las memorisain a moda segira. Nus essan onests. Nossa fatschenta na sa basa betg sin l'abus da tia confidenza.
+# CTA link
+whatsnew79-read-more = Ulteriuras infurmaziuns
+whatsnew79-keep-facebook-contained = Tegna { -brand-name-facebook } sin distanza
