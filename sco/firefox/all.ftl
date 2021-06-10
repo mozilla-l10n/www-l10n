@@ -32,6 +32,24 @@ firefox-all-learn-about-firefox = Lairn aboot { -brand-name-firefox } stravaiger
 firefox-all-the-standard-firefox = The staunart { -brand-name-firefox } stravaiger — fast and private. If ye’re no shair whit { -brand-name-firefox } tae wale, wale this.
 firefox-all-get-a-sneak-peek-at = Get a wee deek at the latest { -brand-name-firefox } stravaiger featurs afore they're rolled-oot.
 firefox-all-test-your-sites-against = Test yer sites anent upcomin { -brand-name-firefox } stravaiger featurs wi pouerfu, flexible DevTools that are on as staunart.
+firefox-all-count-on-stability-and = Coont on stieveness and ease o yaise wi this { -brand-name-firefox } biggit fur enterpreese.
+firefox-all-windows-installers-for = Windows instawers fur corporate IT that mak seemple the confeeguration, deployment and management o the { -brand-name-firefox-browser }.
+firefox-all-arm64-installers = ARM64/AArch64 instawers
+firefox-all-arm64-installers-optimized = ARM64/AArch64 instawers makkit tae get the maist oot o Snapdragon-pouered { -brand-name-windows } PCs.
+firefox-all-product-send-link = Send a doonload link tae yer phone
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Wale a 32-bit instawer fur computers wi 32-bit processors — or fur aulder or no sae pouerfu computers. <a href="{ $url }">If ye arenae siccar</a> whether tae wale a 64-bit or 32-bit instawer, we recommend ye gang wi 32-bit.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Doonload { $product_label } fur { $platform } in { $locale }
+firefox-all-msi-installers = MSI instawers
+firefox-all-which-version = Whit version are ye wantin?
+firefox-all-select-your-preferred-installer = Wale yer preferred instawer
+firefox-all-select-your-preferred-language = Wale yer preferred leid
+firefox-all-learn-about-installers = Lairn aboot instawers
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
