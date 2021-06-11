@@ -19,6 +19,11 @@ vpn-landing-privacy-heading = Egy koppintás az adatvédelemhez
 vpn-landing-privacy-desc = Szörföljön, nézzen élő közvetítést, játsszon és végezze el a munkáját, miközben megtartja az online adatvédelmét. Akár utazik, akár nyilvános Wi-Fit használ, vagy egyszerűen csak nagyobb online biztonságot szeretne, mi mindig az Ön adatvédelmét helyezzük az első helyre.
 vpn-landing-fast-secure-heading = Gyors és biztonságos hálózat
 # Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = A { -brand-name-mozilla-vpn } kiszolgálók globális hálózatán fut. A legfejlettebb <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> protokollal titkosítjuk a hálózati tevékenységét és elrejtjük az IP-címét. Sosem naplózzuk, követjük és osztjuk meg a hálózati adatait.
+# Obsolete string
+# Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
