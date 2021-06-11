@@ -7,6 +7,8 @@
 
 browser-history-the-history-of-web = La historia de los navegadores web
 browser-history-before-web-era = Antes de la era Web
+browser-history-web-era = La era web
+browser-history-the-browser-wars = Las guerras de los navegadores
 browser-history-browsing-the-web = Navegando la Web hoy
 browser-history-resources = Recursos
 browser-history-take-control-of = Toma el control de tu navegador.
