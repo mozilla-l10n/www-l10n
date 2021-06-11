@@ -83,3 +83,4 @@ firefox-developer-all-the-latest = Vsa najnovejša razvojna orodja iz beta razli
 firefox-developer-a-separate-profile = Po zaslugi <strong>ločenega profila in programskega imenika</strong> lahko brez težav deluje sočasno z izdajno ali { -brand-name-beta } različico { -brand-name-firefox(sklon: "rodilnik") }.
 firefox-developer-preferences-tailored = Nastavitve, <strong>prikrojene spletnim razvijalcem</strong>: razhroščevanje brskalnika in oddaljeno razhroščevanje sta privzeto vključeni, kot tudi temna tema in gumb orodne vrstice za razvijalce.
 firefox-developer-congrats-you-now-have = Čestitamo. Sedaj imate { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Čestitamo. Sedaj imate najnovejšo različico brskalnika { -brand-name-firefox-browser } { -brand-name-developer-edition }.
