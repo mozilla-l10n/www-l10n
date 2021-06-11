@@ -20,3 +20,5 @@ firefox-sync-click-get-started = V zavihku, ki se odpre, kliknite <strong>"Začn
 firefox-sync-enter-an-email = Vnesite e-poštni naslov in geslo ter tako <strong>"Ustvarite { -brand-name-firefox-account }."</strong>
 firefox-sync-click-next-to = Kliknite <strong>"Naprej"</strong> za prejem potrdila po e-pošti.
 firefox-sync-after-you-check = Ko preverite e-pošto in kliknete potrditveno povezavo, bo { -brand-name-firefox } v ozadju začel samodejno sinhronizacijo.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Več pomoči za upravljanje { -brand-name-firefox-account(sklon: "rodilnik") }
