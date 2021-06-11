@@ -9,7 +9,9 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Obtén { -brand-name-firefox-browser } para { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Así que tienes { -brand-name-chromebook } — ahora es el momento de obtener { -brand-name-firefox-browser }, independiente y automáticamente privado para proteger tus datos personales.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Obtener { -brand-name-firefox } para { -brand-name-android }
+browsers-chromebook-get-firefox-desktop = Consigue { -brand-name-firefox } de escritorio para { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } basado en x86 con { -brand-name-chromeos } 80 o posterior
 browsers-chromebook-dropdown-copy = Obtener { -brand-name-firefox } para { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
