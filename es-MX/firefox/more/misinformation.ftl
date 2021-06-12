@@ -13,6 +13,14 @@ misinformation-false-info-heading = ¿Dónde aparece la información falsa?
 misinformation-spot-online-heading = Cómo reconocer información falsa en la red y ayudar a parar su propagación
 misinformation-look-at-url = Mira la URL y/o la fuente.
 misinformation-overly-sensational = ¿El titular es demasiado sensacionalista?
+misinformation-content-up-to-date = ¿El contenido está actualizado?
+misinformation-images-captions = ¿Las imágenes y los pies de foto coinciden?
+misinformation-how-firefox-helps-heading = Cómo te ayuda { -brand-name-firefox } a evitar la desinformación
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantiene los rastreadores bajo control:
+misinformation-social-media-clean-heading = { -brand-name-firefox } te ayuda a mantener tus redes sociales limpias:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a mostrar contenido importante para ti:
+misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
 misinformation-learn-more-about-our-mission = Más información sobre nuestra misión
 misinformation-your-privacy-by-the-product = Tu privacidad, producto a producto
 misinformation-firefox-products-work-differently = Los productos de { -brand-name-firefox } funcionan de manera distinta — porque están diseñados para proteger tu privacidad en primer lugar.
