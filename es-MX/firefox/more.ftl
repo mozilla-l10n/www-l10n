@@ -7,6 +7,7 @@
 
 firefox-products-are = Los productos de { -brand-name-firefox } están diseñados para proteger tu privacidad
 learn-more-about-firefox = Descubre más sobre { -brand-name-firefox }, su historia, características y misión
+learn-more-about = Aprende más sobre los navegadores y productos de { -brand-name-firefox } que manejan tus datos con respeto y están diseñados para tener privacidad en cualquier donde vayas en línea.
 learn-more-faq = Preguntas frecuentes de { -brand-name-firefox }
 the-history-of = La historia de los navegadores web
 firefox-has-been = { -brand-name-firefox } estaba ahí casi desde hace el principio.
