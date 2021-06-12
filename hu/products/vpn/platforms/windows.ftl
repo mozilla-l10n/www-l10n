@@ -9,8 +9,10 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10-re
+vpn-windows-page-description = Védje meg a teljes számítógépét egy virtuális magánhálózattal (VPN), amelyet a { -brand-name-mozilla } biztosít, az internet úttörője, amely 1998 óta harcol az Ön digitális adatvédelméért.
 # Windows strings
 vpn-windows-hero-headline = Legyen kapcsolatban és védelem alatt a { -brand-name-windows } 10-es { -brand-name-mozilla-vpn }-nel
+vpn-windows-ability = Megérdemli, hogy biztonságban érezze magát online, bárhol is legyen. A { -brand-name-mozilla-vpn }-nel úgy használhatja a nyilvános Wi-Fiket, hogy tudja, hogy a kapcsolata védett a hackerektől és a kíváncsi internetszolgáltatóktól. A VPN-ünk könnyen használható, elérhető { -brand-name-windows } 10-re (és az egyéb eszközeire), és nem lassítja le Önt. És ami a legjobb, a { -brand-name-mozilla } VPN a { -brand-name-wireguard }® protokollt használja, így biztos lehet benne, hogy az adatai titkosítva vannak, és hogy a tevékenységét nem naplózzák. Ez csak egy elegáns, hatékony VPN, amely Önt védi.
 vpn-windows-wifi-headline = Tartsa meg a magánszféráját nyilvános Wi-Fi-n is
 vpn-windows-wifi-copy = A { -brand-name-mozilla-vpn } megvédi az internetkapcsolatát a kíváncsi tekintetek elől, így bárhol folytathatja a dolgát – a repülőtéren, egy kollégiumban vagy egy kávézóban – anélkül, hogy aggódnia kellene az online adatvédelme miatt.
 vpn-windows-about-headline = Az internetes adatvédelem vezetőjétől

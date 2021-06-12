@@ -21,7 +21,7 @@ vpn-shared-features-encrypt = Eszközszintű titkosítás
 vpn-shared-features-servers = { $servers }+ kiszolgáló { $countries }+ országban
 vpn-shared-features-bandwidth = Nincs sávszélesség-korlátozás
 vpn-shared-features-activity = Nincs hálózati forgalom naplózás
-vpn-shared-features-activity-logs = Nincs online tevékenységnapló, sem most, sem később
+vpn-shared-features-activity-logs = Nem naplózzuk az online tevékenységet, sem most, sem később
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Kapcsolódás kiszolgálókhoz { $countries }+ országban

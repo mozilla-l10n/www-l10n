@@ -26,7 +26,7 @@ vpn-platforms-shared-feature-item-access = Kapcsolódás kiszolgálókhoz { $cou
 vpn-platforms-shared-feature-item-strong-servers = Erős kiszolgálók { $countries }+ országban
 vpn-platforms-shared-feature-item-encryption = Eszközszintű titkosítás
 vpn-platforms-shared-feature-item-bandwidth = Nincs sávszélesség-korlátozás
-vpn-platforms-shared-feature-item-logs = Nincs online tevékenységnapló, sem most, sem később
+vpn-platforms-shared-feature-item-logs = Nem naplózzuk az online tevékenységet, sem most, sem később
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-platform-android = { -brand-name-android }
