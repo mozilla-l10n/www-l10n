@@ -13,7 +13,9 @@ vpn-linux-page-description = Az { -brand-name-ubuntu } { -brand-name-linux } raj
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-ubuntu } { -brand-name-linux }ra – tökéletesen privát párosítás
 vpn-linux-ability = Tegyen további lépéseket az onine biztonsága érdekében – otthon és útközben egyaránt – a { -brand-name-mozilla-vpn }-nel. Az alacsony havidíjért cserébe a fejlett { -brand-name-wireguard }® protokoll titkosítja az internetkapcsolatát a { -brand-name-linux }-alapú számítógépén, valamint az egyéb eszközein, és lehetővé teszi, hogy sorozatközvetítéseket nézzen, játsszon, vásároljon, és úgy élhesse az életét, hogy biztonságban érezheti magát.
+vpn-linux-maker-of-firefox = A technológiai ipar egyik legmegbízhatóbb neveként, a { -brand-name-mozilla } elkötelezett aziránt, hogy biztonságban és biztonságban érezze magát minden egyes alkalommal, amikor az internetet használja.
 vpn-linux-wifi-headline = Legyen biztonságban az interneten, ha nyilvános Wi-Fi-t kell használnia
+vpn-linux-wifi-copy = Néha a nyilvános Wi-Fi a legjobb és egyetlen választás. A { -brand-name-mozilla-vpn } segítségével nyugodtan bejelentkezhet az e-mail-fiókjába a repülőtéren, szerkesztheti a jelszavait egy kávézóban – mindent megtehet, amit általában otthon csinálna, ugyanazzal a nyugalommal.
 vpn-linux-about-headline = Megbízható név 1998 óta
 vpn-linux-privacy-headline = Biztonság egyetlen kattintásnyira
 # Variables:
