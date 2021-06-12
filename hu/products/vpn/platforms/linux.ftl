@@ -25,6 +25,9 @@ vpn-linux-privacy-copy = A { -brand-name-mozilla-vpn } nagyon könnyen használh
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = Kapcsolódjon { $servers }+ kiszolgálóhoz { $countries }  különböző országban
 # Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = A { -brand-name-mozilla-vpn } lehetőséget ad arra, hogy a { -brand-name-linux }-alapú számítógépe tartózkodási helyét beállítsa { $countries }+ ország egyikére, így izgalmas, új tartalmakat megnyitva a világ minden tájáról.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Csatlakoztasson akár { $devices } eszközt
 vpn-linux-devices-copy = Egy előfizetéssel megszerezheti a { -brand-name-mozilla-vpn }-t akár { $devices } különböző eszközre, különböző operációs rendszerekre, köztük { -brand-name-linux }ra, { -brand-name-windows }ra, { -brand-name-android }ra, { -brand-name-mac-short }re és { -brand-name-ios }-re { -brand-name-iphone }-on és { -brand-name-ipad }en.

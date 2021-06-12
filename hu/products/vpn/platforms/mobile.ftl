@@ -10,6 +10,7 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } mobilra (okostelefonokra és
 vpn-mobile-page-description = Védje meg okostelefonját és táblagépét egy VPN-nel, a { -brand-name-mozilla(ending: "accented") }tól, az internetes adatvédelem megbízható úttörőjétől.
 # Mobile strings
 vpn-mobile-hero-headline = Védje meg a magánszféráját mobilon a { -brand-name-mozilla-vpn }-nel
+vpn-mobile-maker-of-firefox = Biztosítsa a { -brand-name-mozilla-vpn } segítségével, hogy telefonja internetkapcsolata továbbra is privát maradjon, függetlenül attól, hogy hová viszi a napja. Ez a { -brand-name-firefox } készítőinek alapvető adatvédelmi eszköze.
 vpn-mobile-wifi-headline = Érezze magát biztonságban, ha nyilvános Wi-Fit használ
 vpn-mobile-about-headline = A { -brand-name-mozilla(ending: "accented") }ról
 vpn-mobile-about-copy = A leginkább a { -brand-name-firefox-browser }ről ismert { -brand-name-mozilla } egy felhasználókból, közreműködőkből és fejlesztőkből álló közösség, amely elkötelezett aziránt, hogy az internet hatalmát az emberek kezében tartsa. Az alapításunk 1998-ban történt, és mi vagyunk a szabad és nyílt web úttörőinek egyike – és az a küldetésünk, hogy ezt meg is őrizzük.

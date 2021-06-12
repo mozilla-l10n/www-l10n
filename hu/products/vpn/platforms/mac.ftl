@@ -16,8 +16,14 @@ vpn-mac-ability = Üzlettől a szórakozásig, mindig érezze magát biztonságb
 vpn-mac-wifi-headline = Érezze magát biztonságban a zűrős Wi-Fiken
 vpn-mac-wifi-copy = Nyugodtan internetezhet a { -brand-name-mozilla-vpn } segítségével, amikor nyilvános Wi-Fit használ. Megvédi az internetkapcsolatát, így a személyes adatai rejtve maradnak a hackerek és a kíváncsi tekintetek elől.
 vpn-mac-about-headline = A megbízható technológiai vállalattól
+vpn-mac-about-copy = 1998 óta a nonprofit { -brand-name-mozilla(ending: "accented") }t a jobb internet építését célzó küldetése vezérelte. Az olyan termékektől kezdve, mint a { -brand-name-firefox-browser }, az egész világra szóló érdekképviseleti munkáig, a { -brand-name-mozilla } azon munkája, hogy az internet nyílt és szabad legyen, tovább folytatódik.
 vpn-mac-privacy-headline = Adatvédelem karnyújtásnyira
+vpn-mac-privacy-copy = A { -brand-name-mozilla-vpn } a fejlett { -brand-name-wireguard }® protokkolnak köszönhetőn titkosítja az internetkapcsolatát, és elrejti az IP-címét a hackerektől és a kíváncsi internetszolgáltatóktól.
 vpn-mac-servers-headline = Érjen el kiszolgálókat szerte a világon
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Állítsa be a { -brand-name-mac-short }je tartózkodási helyét { $servers }+ kiszolgáló egyikére, { $countries }+ országból. Így bárhonnan megnézheti a híreket, vásárolhat, közvetítéseket nézhet és böngészheti a világhálót.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Védjen meg { $devices } eszközt egyetlen előfizetéssel
