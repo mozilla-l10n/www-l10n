@@ -33,3 +33,4 @@ vpn-ios-devices-copy = Egy előfizetéssel megszerezheti a { -brand-name-mozilla
 vpn-ios-speed-headline = Maximális sebesség. Korlátlan adatforgalom.
 vpn-ios-speed-copy = Játsszon online játékokat, közvetítse kedvenc sorozatait, és járja körbe a világhálót villámgyorsasággal. Ne aggódjon a { -brand-name-mozilla-vpn } sávszélessége miatt – ez korlátlan.
 vpn-ios-log-headline = Az adatai titkosak maradnak. Pont.
+vpn-ios-log-copy = Egyes VPN szolgáltatók naplózzák a tevékenységét a kiszolgálóikon. A { -brand-name-mozilla-vpn } nem csak hogy nem követi Önt online: ezt hevesen ellenezzük is. Ez fontos része annak, amit cégként képviselünk.
