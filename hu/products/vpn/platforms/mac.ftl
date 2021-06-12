@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } { -brand-name-mac-short }re
+vpn-mac-page-description = Használjon asztali { -brand-name-mac-short }et, laptopot, { -brand-name-ipad }et vagy { -brand-name-iphone }-t, védje meg a teljes eszközét a hackerektől és a kíváncsi tekintetektől azzal a VPN-nel, amelyet az a { -brand-name-mozilla } szállít, amely az internetes biztonság úttörője 1998 óta.
 # Mac strings
 vpn-mac-hero-headline = Védje meg az online kapcsolatát a { -brand-name-mac-short(cap: "lower") }es { -brand-name-mozilla-vpn }-nel
 vpn-mac-wifi-headline = Érezze magát biztonságban a zűrős Wi-fiken
