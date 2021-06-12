@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-little-book = Livret de la vie privée
 firefox-for-windows = { -brand-name-firefox } pour { -brand-name-windows } 64 bits
