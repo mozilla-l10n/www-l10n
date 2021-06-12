@@ -21,6 +21,9 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } te ayuda a m
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a mostrar contenido importante para ti:
 misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Porque ponemos a las personas en primer lugar. De hecho, estamos respaldados por una <a href="{ $foundation }">fundación sin fines de lucro</a>. Desde el primer día, ha sido nuestra misión proteger a internet y a todos sus usuarios.
 misinformation-learn-more-about-our-mission = Más información sobre nuestra misión
 misinformation-your-privacy-by-the-product = Tu privacidad, producto a producto
 misinformation-firefox-products-work-differently = Los productos de { -brand-name-firefox } funcionan de manera distinta — porque están diseñados para proteger tu privacidad en primer lugar.

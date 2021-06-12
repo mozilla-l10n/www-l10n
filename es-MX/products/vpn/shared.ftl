@@ -15,11 +15,23 @@ vpn-shared-money-back-guarantee = 30 días de garantía de devolución de dinero
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Destacada en
 vpn-shared-features-encrypt = Cifrado en el dispositivo
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Más de { $servers } servidores en más de { $countries } países
 vpn-shared-features-bandwidth = Sin restricciones de ancho de banda
 vpn-shared-features-activity = Sin registrar tu actividad en la red
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Conecta hasta { $devices } dispositivos
+vpn-shared-refund-policy = Política de reembolso
+vpn-shared-privacy-notice = Aviso de privacidad
+vpn-shared-terms-conditions = Términos y condiciones
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } es una marca registrada de Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
 
 # Platform subpage shared strings
 
