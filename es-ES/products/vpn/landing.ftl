@@ -18,6 +18,7 @@ vpn-landing-hero-desc = Una red privada virtual de los creadores de { -brand-nam
 vpn-landing-privacy-heading = Privacidad con un toque
 vpn-landing-privacy-desc = Navega, transmite, juega y trabaja manteniendo tu privacidad online. Ya sea porque estás viajando, usando WiFi público, o simplemente buscando mayor privacidad online, siempre le daremos prioridad a tu privacidad.
 vpn-landing-fast-secure-heading = Una red rápida y segura
+# Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
@@ -102,9 +103,18 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolso de { -brand-name-mozilla-vpn }?
+vpn-landing-faq-link = Ver más preguntas frecuentes
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = ¡Ups! Parece que aún no te has suscrito.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-required-label = Requerido
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = tunombre@example.com
+vpn-landing-invite-country-label = ¿En qué país vives?
+vpn-landing-invite-language-label = Selecciona tu idioma preferido.
+vpn-landing-invite-platform-label = ¿Qué plataformas te interesan?
 
 ##
 
