@@ -24,7 +24,7 @@ facebook-container-try-firefox-focus-the-privacy = Prøv <strong>{ -brand-name-f
 facebook-container-opt-out-on-your-terms = Trekk deg ut på dine villkår
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } kan spore nesten all nettaktiviteten din og knyte han til { -brand-name-facebook }-identitet din. Om det vert litt for mykje for deg, isolerer <a href="{ $fbcontainer }">tillegget { -brand-name-facebook-container }</a> din egen identitet i ei separat innhaldsfane, som gjer det vanskelegare for { -brand-name-facebook } å spore deg på nettet utanfor { -brand-name-facebook }.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } kan spore nesten all nettaktiviteten din og knyte han til { -brand-name-facebook }-identitet din. Om det vert litt for mykje for deg, isolerer <a href="{ $fbcontainer }">tillegget { -brand-name-facebook-container }</a> din eigen identitet i ei separat innhaldsfane, som gjer det vanskelegare for { -brand-name-facebook } å spore deg på nettet utanfor { -brand-name-facebook }.
 facebook-container-install-and-contain = Installer og ta tilbake kontrollen
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
