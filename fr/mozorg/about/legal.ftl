@@ -23,3 +23,4 @@ legal-thunderbird = { -brand-name-thunderbird }
 legal-websites-and-communications = Conditions d’utilisation des sites Web et Communications
 legal-acceptable-use-policy = Politique d’utilisation acceptable
 legal-firefox-cloud-services = Services en ligne de { -brand-name-firefox } : Conditions d’utilisation
+legal-firefox-better-web = { -brand-name-firefox-better-web }

@@ -7,4 +7,5 @@
 
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-little-book = Livret de la vie privée
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-for-windows = { -brand-name-firefox } pour { -brand-name-windows } 64 bits
