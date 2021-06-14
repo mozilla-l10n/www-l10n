@@ -55,6 +55,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } është markë e regj
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Zgjidhni një plan pajtimi që ju bën punë
+# Outdated string
 vpn-shared-pricing-variable-heading = Zgjidhni një plan që ju bën punë
 vpn-shared-pricing-variable-sub-heading = Krejt planet tona përfshijnë:
 vpn-shared-pricing-recommended-offer = E këshilluar
