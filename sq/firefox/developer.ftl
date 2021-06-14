@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Krejt mjetet më të reja të zhvillimit në 
 firefox-developer-a-separate-profile = Një <strong>profil dhe shteg më vete</strong>, që të mund ta xhironi kollaj me version të hedhur në qarkullim ose { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Parapëlqime <strong>të qepura për zhvillues web</strong>: diagnostkim Shfletuesi dhe së largëti janë të aktivizuara si parazgjedhje, siç është edhe tema e errët dhe butoni i panelit të zhvilluesit.
 firefox-developer-congrats-you-now-have = Përgëzime. Tani keni { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Përgëzime. Tanimë keni versionin më të ri të { -brand-name-firefox-browser } { -brand-name-developer-edition }.
