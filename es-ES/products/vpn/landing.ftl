@@ -103,6 +103,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolso de { -brand-name-mozilla-vpn }?
+vpn-landing-faq-manage-subscription-question-heading = ¿Cómo gestiono mi suscripción?
 vpn-landing-faq-link = Ver más preguntas frecuentes
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = ¡Ups! Parece que aún no te has suscrito.
