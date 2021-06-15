@@ -15,7 +15,14 @@ vpn-windows-hero-headline = Mantente conectado y protegido con { -brand-name-moz
 vpn-windows-wifi-headline = Mantén tu privacidad en redes wifi públicas
 vpn-windows-about-headline = Del líder en privacidad en internet
 vpn-windows-privacy-headline = Protección con solo presionar un botón
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } cifra tu conexión a internet y protege tu dirección IP de miradas indiscretas en tu ordenador de escritorio o portátil con el protocolo avanzado { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Accede a servidores de todo el mundo
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Con más de { $servers } servidores en más de { $countries } países, puedes hacer lo que necesites en línea — navegar, comprar, leer las noticias — configurando la ubicación de tu dispositivo a casi cualquier lugar del mundo.
 vpn-windows-devices-headline = Una suscripción para todos tus dispositivos
 vpn-windows-speed-headline = Sin restricciones de ancho de banda
+vpn-windows-speed-copy = Transmite, juega, compra y explora la web a alta velocidad. Con datos ilimitados y sin restricciones de ancho de banda, { -brand-name-mozilla-vpn } no se interpone en tu camino.
 vpn-windows-log-headline = Tu privacidad es nuestra prioridad
+vpn-windows-log-copy = { -brand-name-mozilla } nunca dejará de trabajar por un mejor internet que ponga tu privacidad en primer lugar. Por eso { -brand-name-mozilla-vpn } no recolecta ningún dato sobre ti ni registra tu actividad en línea — ninguno de nuestros productos lo hace.

@@ -16,6 +16,7 @@ browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } basado en
 browsers-chromebook-dropdown-copy = Obtener { -brand-name-firefox } para { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ¿Por qué obtener <span>{ -brand-name-firefox }</span> para { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Mientras que un { -brand-name-chromebook } ya tiene { -brand-name-chrome } instalado, descargar y usar { -brand-name-firefox } como tu navegador de habitual te proporciona algunos beneficios:
 browsers-chromebook-is-it-hard = ¿Es difícil instalar { -brand-name-firefox } para { -brand-name-chromebook }?
 browsers-chromebook-install-firefox-from = Instalar { -brand-name-firefox } desde la tienda { -brand-name-google-play }: en las versiones más recientes de { -brand-name-chromeos } (basado en x86 { -brand-name-chromebook } ejecutando { -brand-name-chromeos } 80 o posterior), tienes la opción de instalar la aplicación { -brand-name-firefox } para { -brand-name-android }. Esta app está desarrollada para dispositivos móviles.
 
