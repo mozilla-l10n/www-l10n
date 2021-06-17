@@ -12,8 +12,11 @@ vpn-windows-page-title = { -brand-name-mozilla-vpn } para { -brand-name-windows 
 vpn-windows-page-description = Protege tu PC con una red privada virtual (VPN) de { -brand-name-mozilla }, un pionero de internet que ha estado luchando por tu privacidad digital desde 1998.
 # Windows strings
 vpn-windows-hero-headline = Mantente conectado y protegido con { -brand-name-mozilla-vpn } para { -brand-name-windows } 10
+vpn-windows-ability = Te mereces sentirte seguro en línea dondequiera que estés o adondequiera que vayas. Con { -brand-name-mozilla-vpn }, puedes usar cualquier red pública y saber que tu conexión está protegida de hackers y proveedores de Internet entrometidos . Nuestra VPN es fácil de usar, disponible para { -brand-name-windows } 10 (y cualquiera de tus otros dispositivos), y no te ralentiza. Lo mejor de todo es que es una VPN de { -brand-name-mozilla } con el protocolo { -brand-name-wireguard }®, para que sepas que tus datos están cifrados y que tu actividad no se registra. Es solo una VPN elegante y potente que te protege.
 vpn-windows-wifi-headline = Mantén tu privacidad en redes wifi públicas
+vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } protege tu conexión de internet de ojos indiscretos, para que te ocupes de tu actividad en cualquier lugar — el aeropuerto, una habitación de hotel, una cafetería — sin preocuparte por tu privacidad en línea.
 vpn-windows-about-headline = Del líder en privacidad en internet
+vpn-windows-about-copy = La organización sin fines de lucro detrás de { -brand-name-firefox-browser }, { -brand-name-mozilla }, es una comunidad de ciudadanos de Internet de todo el mundo dedicados a mantener Internet como un recurso libre y abierto para todos. La misión de { -brand-name-mozilla }, poner a las personas antes que a las ganancias, asegura que cada producto que hacemos te pone en primer lugar.
 vpn-windows-privacy-headline = Protección con solo presionar un botón
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } cifra tu conexión a internet y protege tu dirección IP de miradas indiscretas en tu ordenador de escritorio o portátil con el protocolo avanzado { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Accede a servidores de todo el mundo
