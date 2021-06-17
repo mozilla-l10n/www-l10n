@@ -11,12 +11,14 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: omo’ãta opaite ne mba�
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Eipuru { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembipuru’ípe g̃uarã. Apopyvusu ndive { $country }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
+vpn-landing-hero-sub-heading-v2 = Tekorosã, jeroviaha ha pya’ekue — peteĩteĩva mba’e’okápe, eho ehohápe.
 # Obsolete string
 vpn-landing-hero-sub-heading = Tekorosã nepytyvõkuaáva. Peteĩ téra ejeroviakuaaha.
 vpn-landing-hero-desc = Peteĩ ñanduti mba’eñimiguáva { -brand-name-firefox } apohare rehegua.
 vpn-landing-privacy-heading = Ñemiguáre jepoko
 vpn-landing-privacy-desc = Eikundaha, emombe’u, eñembosarái ha emba’apo ñandutípe tekoñemíme. Esẽ jave, eipurúvo WiFi opavavegua téra ehekávo tekorosã ñandutípe, akóinte romotenondéta nde rekoñemi.
 vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
+# Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
