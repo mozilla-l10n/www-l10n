@@ -22,6 +22,9 @@ vpn-windows-servers-headline = Accede a servidores de todo el mundo
 #   $servers (number) - number of available servers
 vpn-windows-servers-copy = Con más de { $servers } servidores en más de { $countries } países, puedes hacer lo que necesites en línea — navegar, comprar, leer las noticias — configurando la ubicación de tu dispositivo a casi cualquier lugar del mundo.
 vpn-windows-devices-headline = Una suscripción para todos tus dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Una suscripción de { -brand-name-mozilla-vpn } te da acceso ilimitado a nuestro servicio seguro de VPN en hasta { $devices } dispositivos para { -brand-name-windows } (incluido { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
 vpn-windows-speed-headline = Sin restricciones de ancho de banda
 vpn-windows-speed-copy = Transmite, juega, compra y explora la web a alta velocidad. Con datos ilimitados y sin restricciones de ancho de banda, { -brand-name-mozilla-vpn } no se interpone en tu camino.
 vpn-windows-log-headline = Tu privacidad es nuestra prioridad
