@@ -19,14 +19,33 @@ misinformation-tracking-advertising = Puede que hayas oído hablar del rastreo p
 misinformation-social-newtorks = Cuando recibes recomendaciones de contenido en cualquier sitio web o red social, suele deberse a que un algoritmo presenta información basada en la información de tu perfil. Desafortunadamente, aunque los algoritmos se están volviendo más y más inteligentes, no comprueban el contenido para confirmar su precisión. Esto es particularmente problemático con los medios sociales: estas redes presentan a sus usuarios innumerables piezas de información todos los días, y tienen acceso a contenido casi ilimitado, incluyendo publicaciones de usuarios, noticias, anuncios y contenido patrocinado. Mientras que las publicaciones y los artículos pueden difundir información errónea de manera accidental, la publicidad y el contenido patrocinado pueden usarse para entregarte deliberadamente desinformación para manipularte, haciendo que sea esencial saber cómo identificar información errónea.
 misinformation-spot-online-heading = Cómo reconocer información falsa en la red y ayudar a parar su propagación
 misinformation-look-at-url = Mira la URL y/o la fuente.
+misinformation-known-to-br-credible = ¿Tiene credibilidad reconocida? Si no estás seguro, intenta buscar información acerca de la fuente y su reputación en Internet.
 misinformation-overly-sensational = ¿El titular es demasiado sensacionalista?
+misinformation-check-out-websites = Revisa los sitios web y medios de noticias en los que confías para ver si informan del mismo tema y cómo lo hacen. El contenido que se pretende manipular a menudo se va a los extremos y utiliza exageraciones para las que no hay pruebas, y no se podrán verificar en reportajes bien documentados.
 misinformation-content-up-to-date = ¿El contenido está actualizado?
+misinformation-outdated-information = La información desactualizada no tiene necesariamente por objeto desinformar, pero puede que ya no sea correcta.
+misinformation-credible-publication = ¿Ha publicado el autor otros artículos o publicaciones, preferiblemente en medios reconocidos?
+misinformation-authors-name = Si solo encuentras el nombre del autor en sitios cuestionables, no deberías darle mucha importancia a sus declaraciones.
 misinformation-images-captions = ¿Las imágenes y los pies de foto coinciden?
+misinformation-images-are-powerful = Las imágenes son una herramienta muy poderosa para la desinformación dirigida. Dependiendo de los subtítulos, la percepción puede ser modificada a lo opuesto de lo sucedido. Si no tienes seguridad, realiza una búsqueda a partir de la imagen para saber cómo se describe en otros sitios.
 misinformation-how-firefox-helps-heading = Cómo te ayuda { -brand-name-firefox } a evitar la desinformación
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantiene los rastreadores bajo control:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Como se ha mencionado anteriormente, el rastreo juega un papel importante en la difusión de información errónea. <a href="{ $firefox }">El uso de { -brand-name-firefox } </a> con la <a href="{ $protection }">protección mejorada contra el rastreo</a> ayuda a bloquear los rastreadores de terceros de muchos anunciantes y otras empresas de forma predeterminada cuando navegas por la web, de modo que recuperas el control sobre tus datos en línea.
 misinformation-social-media-clean-heading = { -brand-name-firefox } te ayuda a mantener tus redes sociales limpias:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Las redes sociales saben mucho de ti. Además, pueden rastrearte más allá de sus plataformas con sus botones Compartir y Me gusta a pesar de la protección contra el rastreo, incluso si no tienes una cuenta en esas plataformas. <a href="{ $container }">{ -brand-name-facebook-container }</a> para { -brand-name-firefox } asegura que { -brand-name-facebook } e { -brand-name-instagram } no puedan hacer esto tan fácilmente, lo que nuevamente reduce, de manera significativa, la probabilidad de ver información errónea a través de anuncios y contenido promocionado.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a mostrar contenido importante para ti:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = Cuando abres una nueva pestaña en tu navegador { -brand-name-firefox }, verás artículos <a href="{ $recommended }">recomendados por { -brand-name-pocket }</a>. { -brand-name-pocket } no utiliza ningún dato personal para hacer recomendaciones. En su lugar, los artículos son seleccionados por personas reales que utilizan la aplicación. La habilidad de descubrir nuevas historias, puntos de vista y opiniones es una forma de combatir la difusión de información errónea. Para obtener más recomendaciones, suscríbete al <a href="{ $pocket_hit }">boletín de { -brand-name-pocket }</a> y descarga <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
