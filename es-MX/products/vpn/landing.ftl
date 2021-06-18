@@ -109,18 +109,37 @@ vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo 
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolso de { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc = Puedes recuperar tu dinero dentro de los 30 días siguientes a la compra de tu suscripción. Contáctanos y envía la solicitud de reembolso seleccionando el botón "Obtener ayuda" en Ajustes dentro de tu aplicación { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = ¿Cómo gestiono mi suscripción?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Si ya estás suscrito a { -brand-name-mozilla-vpn }, puedes cambiar tu plan o <a href="{ $url }">administrar tu suscripción</a> en cualquier momento.
+vpn-landing-faq-link = Ver más preguntas frecuentes
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = ¡Ups! Parece que aún no te has suscrito.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Únete a la lista de espera: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Recibe una notificación cuando { -brand-name-mozilla-vpn } esté disponible para tu dispositivo y región.
+vpn-landing-invite-page-heading = Únete a la lista de espera de la VPN
+vpn-landing-invite-email-label = ¿Cuál es tu dirección de correo?
 vpn-landing-invite-required-label = Requerido
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = tunombre@ejemplo.com
+vpn-landing-invite-country-label = ¿En qué país vives?
+vpn-landing-invite-language-label = Selecciona tu idioma preferido.
+vpn-landing-invite-platform-label = ¿Qué plataformas te interesan?
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Al hacer clic en "Unirse a la lista de espera", aceptas nuestra <a href="{ $privacy }">Política de privacidad</a>.
+vpn-landing-invite-your-information = Tu información será utilizada solamente para notificarte de la disponibilidad de la plataforma.
+vpn-landing-invite-thanks-heading = ¡Gracias! Estás en la lista
+vpn-landing-invite-thanks-desc = Una vez que { -brand-name-mozilla-vpn } esté disponible para tu región, te enviaremos un correo electrónico.
 
 ##
 
