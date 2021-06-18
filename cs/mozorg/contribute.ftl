@@ -45,6 +45,8 @@ contribute-opportunities = Novinky a příležitosti pro dobrovolníky
 ## Made by
 
 contribute-made-by-heading = Nadšení lidé jako vy sami
+contribute-made-by-desc = Když { -brand-name-mozilla(case: "dat") } pomůžete, stanete se součástí celosvětové komunity lidí, kteří věří, že by měl internet složit dobrým věcem.
+contribute-made-by-desc-cont = Věříme, že spolupráce je základem pro vytvoření inovativního internetu, který bude dostupný pro všechny, kdo ho potřebují. Ať už máte technické znalosti, organizační schopnosti, nebo jenom počítač a trochu volného času, můžete nám pomoci udělat z internetu ještě lepší místo.
 
 ## Newsletter
 
