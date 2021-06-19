@@ -21,3 +21,15 @@ vpn-mobile-about-copy = Mejor conocida por nuestro { -brand-name-firefox-browser
 vpn-mobile-privacy-headline = Privacidad en un solo clic
 vpn-mobile-privacy-copy = La aplicación { -brand-name-mozilla-vpn } encripta tu conexión a internet y oculta la dirección IP de tu teléfono móvil o tablet usando el protocolo avanzado de { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Conéctate a servidores de todo el mundo
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Navega desde Brasil. Juega desde Japón. Transmite desde Australia. { -brand-name-mozilla-vpn } te permite cambiar la ubicación de tu teléfono o equipo a uno de los más de { $servers } servidores en más de { $countries } países.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Protege hasta { $devices } dispositivos
+vpn-mobile-devices-copy = Tu suscripción te da acceso ilimitado a nuestro servicio seguro de VPN en tu teléfono, tablet y escritorio para { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }.
+vpn-mobile-speed-headline = Velocidad increíble, sin restricciones
+vpn-mobile-speed-copy = Reproduce videos, juega, compra y navega a alta velocidad. { -brand-name-mozilla-vpn } no limitará tu ancho de banda ni ralentizará tu smartphone.
+vpn-mobile-log-headline = Tu privacidad es primero
+vpn-mobile-log-copy = En { -brand-name-mozilla }, no recolectamos ningún dato sobre quién eres ni registramos tu actividad en línea — no a través de nuestra VPN ni cualquiera de nuestros otros productos. Proteger tu privacidad es un principio básico de la misión mayor de { -brand-name-mozilla }.

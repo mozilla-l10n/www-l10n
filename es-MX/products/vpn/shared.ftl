@@ -21,6 +21,30 @@ vpn-shared-features-encrypt = Cifrado en el dispositivo
 vpn-shared-features-servers = Más de { $servers } servidores en más de { $countries } países
 vpn-shared-features-bandwidth = Sin restricciones de ancho de banda
 vpn-shared-features-activity = Sin registrar tu actividad en la red
+vpn-shared-features-activity-logs = Ningún registro de actividad en línea ahora o nunca
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Accede a servidores en más de { $countries } países
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Opción de conectar hasta { $devices } dispositivos
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Protección para hasta { $devices } dispositivos
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Conexión a más de { $servers } en más de { $countries } países
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Ya disponible en { $country } países. Con más regiones próximamente
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Consulta nuestra lista completa de <a href="{ $url }" { $attrs }>servidores</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Servidores robustos en más de { $countries } países
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Conecta hasta { $devices } dispositivos
@@ -32,6 +56,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } es una marca registra
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Elige el plan de suscripción que funcione para ti
+# Outdated string
+vpn-shared-pricing-variable-heading = Selecciona el plan que mejor te convenga
 vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
 vpn-shared-pricing-recommended-offer = Recomendados
 vpn-shared-pricing-plan-6-month = 6 meses
@@ -56,6 +82,11 @@ vpn-shared-platform-cta-headline = Comencemos
 vpn-shared-platform-cta-button = Ver precios y disponibilidad
 vpn-shared-platform-privacy-promise = Tu privacidad en nuestra promesa
 vpn-shared-platform-trust-partner-headline = Acerca de nuestro socio de confianza
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } se ejecuta en una red mundial de servidores con tecnología de <a href="{ $policy }">{ -brand-name-mullvad }</a> utilizando el protocolo de <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } coloca tu privacidad primero y no mantiene registros de ningún tipo.
+vpn-shared-platform-what-youll-get = Lo que obtendrás con { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = ¿Qué es una VPN?
