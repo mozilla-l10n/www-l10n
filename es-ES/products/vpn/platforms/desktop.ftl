@@ -33,3 +33,4 @@ vpn-desktop-devices-copy = Tu suscripción te da acceso ilimitado a nuestro serv
 vpn-desktop-speed-headline = Velocidad increíble, sin restricciones
 vpn-desktop-speed-copy = Reproduce videos, juega, compra y navega a alta velocidad. { -brand-name-mozilla-vpn } no limitará tu ancho de banda ni ralentizará tu móvil.
 vpn-desktop-log-headline = Tu privacidad es lo primero
+vpn-desktop-log-copy = En { -brand-name-mozilla }, no recopilamos ningún dato sobre quién eres ni registramos tu actividad en línea — ni a través de nuestra VPN ni con cualquiera de nuestros otros productos. Proteger tu privacidad es un principio básico de nuestra misión.
