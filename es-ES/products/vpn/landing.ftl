@@ -18,6 +18,10 @@ vpn-landing-hero-desc = Una red privada virtual de los creadores de { -brand-nam
 vpn-landing-privacy-heading = Privacidad con un toque
 vpn-landing-privacy-desc = Navega, transmite, juega y trabaja manteniendo tu privacidad online. Ya sea porque estás viajando, usando WiFi público, o simplemente buscando mayor privacidad online, siempre le daremos prioridad a tu privacidad.
 vpn-landing-fast-secure-heading = Una red rápida y segura
+# Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } funciona sobre una red mundial de servidores. Usando el protocolo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®/a> más avanzado, ciframos tu actividad de red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos tus datos de red.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
@@ -103,19 +107,39 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolso de { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc = Puedes recuperar tu dinero dentro de los 30 días siguientes a la compra de tu suscripción. Ponte en contacto con nosotros y envía la solicitud de reembolso seleccionando el botón “Obtener ayuda” en Ajustes dentro de tu aplicación { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = ¿Cómo gestiono mi suscripción?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Si ya estás suscrito a { -brand-name-mozilla-vpn }, puedes cambiar tu plan o <a href="{ $url }">administrar tu suscripción</a> en cualquier momento.
 vpn-landing-faq-link = Ver más preguntas frecuentes
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = ¡Ups! Parece que aún no te has suscrito.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Únete a la lista de espera: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Recibe una notificación cuando { -brand-name-mozilla-vpn } esté disponible para tu dispositivo y región.
+vpn-landing-invite-page-heading = Únete a la lista de espera de VPN
+vpn-landing-invite-email-label = ¿Cuál es tu dirección de correo electrónico?
 vpn-landing-invite-required-label = Requerido
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = tunombre@example.com
 vpn-landing-invite-country-label = ¿En qué país vives?
 vpn-landing-invite-language-label = Selecciona tu idioma preferido.
 vpn-landing-invite-platform-label = ¿Qué plataformas te interesan?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Al hacer clic en “Unirse a la lista de espera”, aceptas nuestra <a href="{ $privacy }">Política de privacidad</a>.
+vpn-landing-invite-your-information = Tu información será utilizada solamente para avisarte de la disponibilidad de la plataforma.
+vpn-landing-invite-thanks-heading = ¡Gracias! Estás en la lista
+vpn-landing-invite-thanks-desc = Una vez que { -brand-name-mozilla-vpn } esté disponible para tu región, te enviaremos un correo electrónico.
 
 ##
 
