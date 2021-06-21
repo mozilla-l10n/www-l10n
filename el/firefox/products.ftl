@@ -21,11 +21,20 @@ firefox-products-desktop = Υπολογιστές
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Προβολή όλων των προγρσμμάτων περιήγησης
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Περιηγηθείτε, δείτε βίντεο και εργαστείτε σε διακομιστές περισσότερων από 30 χωρών για ασφαλή σύνδεση στο διαδίκτυο, με μια νέα προοπτική.
+firefox-products-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Προστατεύστε τους κωδικούς πρόσβασής σας και συγχρονίστε τους με όλες τις συσκευές σας.
+# Obsolete string
 firefox-products-download-lockwise = Λήψη του { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Άνοιγμα στο { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Κάντε αποστολή μεγάλων αρχείων και ευαίσθητων εγγράφων με ασφάλεια, έως 2,5G.
 firefox-products-send-a-file = Αποστολή αρχείου

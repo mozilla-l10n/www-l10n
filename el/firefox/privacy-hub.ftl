@@ -84,3 +84,6 @@ firefox-privacy-hub-already-have-an-account = Έχετε ήδη λογαριασ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Διαβάστε τη <a href="{ $url }">Σημείωση απορρήτου</a> των προϊόντων μας
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Περιηγηθείτε, δείτε βίντεο και εργαστείτε σε διακομιστές περισσότερων από 30 χωρών για ασφαλή σύνδεση στο διαδίκτυο, με μια νέα προοπτική.
+firefox-privacy-hub-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
