@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = Träffa vår familj av integritetsprodukte
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } är teknik som kämpar för dig.
 firefox-accounts-get-technology-that = Hämta teknik som kämpar för dig.
 firefox-accounts-travel-the-internet = Surfa på internet med skydd, på alla enheter.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Skydda dina lösenord och ta med dem överallt.
 firefox-accounts-get-a-lookout-for = Håll koll på dataintrång.
+# Obsolete string
 firefox-accounts-share-large-files = Dela stora filer utan övervakande ögon.
 firefox-accounts-get-it-all-on-every = Få allt på alla enheter, oavsett vilket operativsystem du använder.
 firefox-accounts-and-get-it-all-on = Och få allt på alla enheter, oavsett vilket operativsystem du använder.
 firefox-accounts-get-the-respect-you = Få respekten du förtjänar.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Du kommer alltid att få sanningen från oss. Allt vi gör och skapar hedrar vårt <a href="{ $promise }">löfte om personlig data</a>:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = Hjälp oss att bygga en bättre { -bra
 firefox-accounts-get-into-the-open = Komma in i andan av öppen källkod genom att test kommande produkter.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Hjälp oss att hålla stora teknikföretag under kontroll.
+firefox-accounts-we-support-communities = Vi stöder gemenskaper över hela världen och står upp för ett hälsosammare internet. Lägg till din röst i kampen.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Vi stöder gemenskaper över hela världen och står upp för ett hälsosammare internet. Lägg till din röst i kampen.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

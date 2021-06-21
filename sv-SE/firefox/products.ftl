@@ -21,11 +21,19 @@ firefox-products-desktop = Dator
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Se alla webbläsare
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = Hämta { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Håll dina lösenord säkra och kom åt dem på alla dina synkroniserade enheter.
+# Obsolete string
 firefox-products-download-lockwise = Hämta { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Öppna i { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Läs mer om { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Skicka dina stora filer och känsliga dokument säkert, upp till 2,5 GB.
 firefox-products-send-a-file = Skicka en fil
