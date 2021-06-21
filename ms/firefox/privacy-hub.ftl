@@ -101,3 +101,4 @@ firefox-privacy-hub-already-have-an-account = Sudah ada akaun? <a { $sign_in } c
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Baca <a href="{ $url }">Notis Privasi</a> untuk produk kami
+

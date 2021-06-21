@@ -101,3 +101,4 @@ firefox-privacy-hub-already-have-an-account = पहले से ही एक 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = हमारे उत्पादों के लिए <a href="{ $url }">निजता सूचना</a> को पढ़ें।
+

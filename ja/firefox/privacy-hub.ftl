@@ -101,3 +101,4 @@ firefox-privacy-hub-already-have-an-account = 既にアカウントをお持ち�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Mozilla の製品に関する<a href="{ $url }">プライバシー通知</a>をお読みください
+
