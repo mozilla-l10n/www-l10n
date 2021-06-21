@@ -12,12 +12,16 @@ firefox-home-meet-our-family-of = Zeznajće so z našej produktowej swójbu
 firefox-home-get-trackers-off = Blokujće wjace hač 2000 pčesćěhowakow - inkluziwnje { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Zhońće, hdy hackerojo nadpaduja - a budźće přeco kročel před nimi
 firefox-home-start-getting-breach = Dóstańće rozprawy wo datowych dźěrach
+# Obsolete string
 firefox-home-keep-your-passwords = Wobchowajće swoje hesła wěste na kóždym graće
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Dalše informacije wo { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Wobstarajće sej <strong>respekt</strong>, kotryž sej zasłužiće
 firefox-home-every-single-firefox = Kóždy jednotliwy produkt { -brand-name-firefox } naše slubjenje za wosobinske daty spjelnja: <strong>Mjenje zběrać. Wěsće sładować. Žane potajnstwa.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Dźělće wulke dataje bjez wćipnych wočow
+# Obsolete string
 firefox-home-start-sending-files = Sćelće dataje wěsće
 firefox-home-trade-clickbait-for = Wuměńće clickbait z wobsahom wysokeje kwality
 firefox-home-learn-more-about-pocket = Dalše informacije wo { -brand-name-pocket }
@@ -29,6 +33,7 @@ firefox-home-get-the-browser-extension = Wobstarajće sej rozšěrjenje wobhlado
 firefox-home-get-the-facebook-container = Wobstarajće sej rozšěrjenje { -brand-name-facebook-container }
 firefox-home-download-the-browser = Wobhladowak sćahnyć
 firefox-home-download-the-app = Nałoženje sćahnyć
+firefox-home-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 firefox-home-desktop = Desktop
 firefox-home-browsers = Wobhladowaki
 firefox-home-android = { -brand-name-android }
@@ -38,6 +43,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

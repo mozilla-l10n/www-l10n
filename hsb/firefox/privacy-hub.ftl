@@ -84,3 +84,5 @@ firefox-privacy-hub-already-have-an-account = Maće hižo konto? <a { $sign_in }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Čitajće <a href="{ $url }">rozłoženje wo škiće datow</a> za naše produkty
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać

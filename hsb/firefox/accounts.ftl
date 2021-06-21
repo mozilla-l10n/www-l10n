@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = Zeznajće so z našej swójbu produktow, z
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } je technologija, kotraž za was wojuje.
 firefox-accounts-get-technology-that = Wobstarajće sej technologiju, kotraž za was wojuje.
 firefox-accounts-travel-the-internet = Pohibujće so ze škitom na kóždym graće po interneće.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Škitajće swoje hesła a wzmiće je wšudźe sobu.
 firefox-accounts-get-a-lookout-for = Rozhladujće so za datowymi dźěrami.
+# Obsolete string
 firefox-accounts-share-large-files = Dźělće wulke dataje bjez wćipnych wočow.
 firefox-accounts-get-it-all-on-every = Přinjesće wšitko na kóždy grat - wšojedne kotry dźěłowy system wužiwaće.
 firefox-accounts-and-get-it-all-on = A přinjesće wšitko na kóždy grat - wšojedne kotry dźěłowy system wužiwaće.
 firefox-accounts-get-the-respect-you = Dóstańće respekt, kotryž zasłužiće.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Dóstawaće přeco wěrnosć wot nas. Za wšěm, štož činimy, naše <a href="{ $promise }">slubjenje za wosobinske daty</a> steji:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = Pomhajće nam, lěpši { -brand-name-f
 firefox-accounts-get-into-the-open = Zamyslujće so do wotewrjeneho žórła a testujće přichodne produkty.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Pomhajće nam wulke technologiske předewzaća w šachu dźeržeć.
+firefox-accounts-we-support-communities = Podpěrujemy zhromadźenstwa na cyłym swěće, kotrež so za strowši internet zasadźuja. Pozběhńće tež swój hłós za tutón bój.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Podpěrujemy zhromadźenstwa na cyłym swěće, kotrež so za strowši internet zasadźuja. Pozběhńće tež swój hłós za tutón bój.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
