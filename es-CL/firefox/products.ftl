@@ -21,11 +21,20 @@ firefox-products-desktop = Escritorio
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Ver todos los navegadores
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Navega, transmite y trabaja en servidores en más de 30 países para una conexión a Internet segura con una nueva perspectiva.
+firefox-products-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Mantén tus contraseñas seguras y accede a ellas en todos tus dispositivos sincronizados.
+# Obsolete string
 firefox-products-download-lockwise = Descargar { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Abrir en { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Aprender más sobre { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Envía tus grandes archivos y documentos sensibles de forma seguro, hasta 2,5GB.
 firefox-products-send-a-file = Enviar un archivo
