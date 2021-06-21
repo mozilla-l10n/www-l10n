@@ -3,11 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Doonload { -brand-name-firefox }
+navigation-ios-support = { -brand-name-ios } Hauners
+navigation-android-support = { -brand-name-android } Hauners
+navigation-get-firefox = Get { -brand-name-firefox }
+navigation-get-firefox-focus = Get { -brand-name-firefox-focus }
+navigation-android-extensions = { -brand-name-android } Extensions
+navigation-your-firefox-account = Yer { -brand-name-firefox-account }
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-browsers = Stravaigers
 navigation-download = Doonload
 navigation-extensions = Extensions
+navigation-support = Hauners
 navigation-privacy = Privacy
 navigation-sign-in = Sign In
 # Outdated string
