@@ -35,12 +35,17 @@ firefox-accounts-meet-our-family-of = Ketahui rangkaian produk kami yang menguta
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } ialah teknologi yang berjuang demi anda.
 firefox-accounts-get-technology-that = Dapatkan teknologi yang berjuang demi anda.
 firefox-accounts-travel-the-internet = Layari internet dengan perlindungan, pada setiap peranti.
+
+# Obsolete string
 firefox-accounts-keep-your-passwords = Pastikan kata laluan anda dilindungi dan mudah alih.
 firefox-accounts-get-a-lookout-for = Berhati-hati dengan kebocoran data.
+
+# Obsolete string
 firefox-accounts-share-large-files = Kongsi fail besar tanpa diperhatikan mata jahat.
 firefox-accounts-get-it-all-on-every = Dapatkan kesemuanya pada setiap peranti, tanpa berasa terperangkap dalam sistem operasi tunggal.
 firefox-accounts-and-get-it-all-on = Dan dapatkan kesemuanya pada setiap peranti, tanpa berasa terperangkap dalam sistem operasi tunggal.
 firefox-accounts-get-the-respect-you = Dapatkan penghormatan yang layak diterima.
+
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -57,11 +62,15 @@ firefox-accounts-get-into-the-open = Bakar semangat sumber terbuka dengan menguj
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Bantu kami mengawal Gergasi Teknologi.
+firefox-accounts-we-support-communities = Kami menyokong komuniti di seluruh dunia untuk mendapatkan internet yang lebih sihat. Sertai perjuangan ini.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Kami menyokong komuniti di seluruh dunia untuk mendapatkan internet yang lebih sihat. Sertai perjuangan ini.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

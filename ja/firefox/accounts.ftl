@@ -35,12 +35,17 @@ firefox-accounts-meet-our-family-of = プライバシーファースト製品の
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } は、あなたのために闘うテクノロジーです。
 firefox-accounts-get-technology-that = あなたのために闘うテクノロジーをご利用ください。
 firefox-accounts-travel-the-internet = あらゆるデバイスで、安全にインターネットを旅しましょう。
+
+# Obsolete string
 firefox-accounts-keep-your-passwords = パスワードを保護しながらポータブルに。
 firefox-accounts-get-a-lookout-for = データ侵害にご注意ください。
+
+# Obsolete string
 firefox-accounts-share-large-files = 侵入されずに大きなファイルを共有。
 firefox-accounts-get-it-all-on-every = 一つの OS に囚われず、すべてのデバイスでフル活用。
 firefox-accounts-and-get-it-all-on = 一つの OS に囚われず、すべてのデバイスでフル活用。
 firefox-accounts-get-the-respect-you = あなたのプライバシーを尊重します。
+
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -57,11 +62,15 @@ firefox-accounts-get-into-the-open = 発表予定の製品をテストして、�
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = ビッグテックに対抗しましょう
+firefox-accounts-we-support-communities = Mozilla は、より健全なインターネットのために立ち上がる世界中のコミュニティをサポートします。一緒に闘いましょう。
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Mozilla は、より健全なインターネットのために立ち上がる世界中のコミュニティをサポートします。一緒に闘いましょう。
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

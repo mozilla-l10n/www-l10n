@@ -35,12 +35,17 @@ firefox-accounts-meet-our-family-of = تعرَّف على منتجاتنا ال�
 firefox-accounts-firefox-is-technology = متصفح { -brand-name-firefox }، تكنولوجيا تتحرك من أجلك.
 firefox-accounts-get-technology-that = استخدم التكنولوجيا التي تتحرك من أجلك.
 firefox-accounts-travel-the-internet = أبحِر في غمار الإنترنت محميًا على كل جهاز.
+
+# Obsolete string
 firefox-accounts-keep-your-passwords = حافظ على حماية كلمات المرور واستمتع بإمكانية استخدامها في كل مكان
 firefox-accounts-get-a-lookout-for = تنبّه وتيقّظ إلى خروقات البيانات.
+
+# Obsolete string
 firefox-accounts-share-large-files = شارِك الملفات الكبيرة بعيدًا عن أعين المُتطفلين.
 firefox-accounts-get-it-all-on-every = استخدمها كلها على جميع الأجهزة، دون التقيد بنظام تشغيل واحد.
 firefox-accounts-and-get-it-all-on = واستخدمها كلها على جميع الأجهزة، دون التقيد بنظام تشغيل واحد.
 firefox-accounts-get-the-respect-you = احظَ بالاحترام الذي تستحقه.
+
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -57,11 +62,15 @@ firefox-accounts-get-into-the-open = ادخل عالم برامج المصدر �
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = ساعِدنا على مراقبة شركات التقنيات الكبيرة.
+firefox-accounts-we-support-communities = ندعم المجتمعات في جميع أنحاء العالم لتنهض دفاعًا عن إنترنت أكثر أمنًا. اشترك معنا في هذا الحراك.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = ندعم المجتمعات في جميع أنحاء العالم لتنهض دفاعًا عن إنترنت أكثر أمنًا. اشترك معنا في هذا الحراك.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
