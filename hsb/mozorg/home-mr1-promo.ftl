@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/
 
+home-promo-title-lalo = Zahajće nowe ideje
 home-promo-title-soraya = Započinamy wottud
 home-promo-title-ryan = Započinamy wottud
+home-promo-explore-firefox = Wuslědźće { -brand-name-firefox }

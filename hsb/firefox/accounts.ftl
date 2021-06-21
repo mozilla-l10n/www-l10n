@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = Přinjesće wšitko na kóždy grat - wš
 firefox-accounts-and-get-it-all-on = A přinjesće wšitko na kóždy grat - wšojedne kotry dźěłowy system wužiwaće.
 firefox-accounts-get-the-respect-you = Dóstańće respekt, kotryž zasłužiće.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Cyłogratowy škit na kóždym graće
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Dóstawaće přeco wěrnosć wot nas. Za wšěm, štož činimy, naše <a href="{ $promise }">slubjenje za wosobinske daty</a> steji:
