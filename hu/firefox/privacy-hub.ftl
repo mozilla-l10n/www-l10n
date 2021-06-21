@@ -84,3 +84,6 @@ firefox-privacy-hub-already-have-an-account = Már van fiókja? <a { $sign_in } 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Olvassa el a termékeink <a href="{ $url }">Adatvédelmi nyilatkozatát</a>
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Szörföljön, nézzen közvetítést és dolgozzon biztonságos internetkapcsolaton a több mint 30 országban található kiszolgálók segítségével.
+firefox-privacy-hub-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése

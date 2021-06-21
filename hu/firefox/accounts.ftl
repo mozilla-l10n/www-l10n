@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Ismerkedjen meg az adatvédelmet szem elő
 firefox-accounts-firefox-is-technology = A { -brand-name-firefox } olyan technológia, amely Önért harcol.
 firefox-accounts-get-technology-that = Szerezzen olyan technológiát, amely Önért harcol.
 firefox-accounts-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Tartsa védve a jelszavait, és vigye el azokat bárhova.
 firefox-accounts-get-a-lookout-for = Legyen résen az adatsértések miatt.
+# Obsolete string
 firefox-accounts-share-large-files = Osszon meg nagy fájlokat kíváncsi tekintetek nélkül.
 firefox-accounts-get-it-all-on-every = Kapja meg az összes eszközén, anélkül hogy egy operációs rendszeren ragadna.
 firefox-accounts-and-get-it-all-on = És kapja meg az összes eszközén, anélkül hogy egy operációs rendszeren ragadna.
 firefox-accounts-get-the-respect-you = Kapja meg az Önnek járó tiszteletet.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Teljes eszközvédelem minden eszközön
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Tőlünk mindig az igazat kapja. Minden amit teszünk betartja a <a href="{ $promise }">személyes adatokra vonatkozó ígéretünket</a>:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Segítsünk nekünk a { -brand-name-fi
 firefox-accounts-get-into-the-open = Vesse bele magát a nyílt forráskód szellemébe, és tesztelje az érkező termékeket.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Segítsen kordában tartani a nagy technológiai cégeket.
+firefox-accounts-we-support-communities = Az egész világon támogatjuk a közösségeket, hogy álljanak ki egy egészségesebb internetért. Adja Ön is a hangját a harchoz.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Az egész világon támogatjuk a közösségeket, hogy álljanak ki egy egészségesebb internetért. Adja Ön is a hangját a harchoz.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

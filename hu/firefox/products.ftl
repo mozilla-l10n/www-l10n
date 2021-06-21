@@ -21,11 +21,20 @@ firefox-products-desktop = Asztali
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Az összes böngésző megtekintése
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Szörföljön, nézzen közvetítést és dolgozzon biztonságos internetkapcsolaton a több mint 30 országban található kiszolgálók segítségével.
+firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Tartsa biztonságban jelszavait, és érje el azokat az összes szinkronizált eszközén.
+# Obsolete string
 firefox-products-download-lockwise = { -brand-name-lockwise } letöltése
+# Obsolete string
 firefox-products-open-in-firefox = Megnyitás a { -brand-name-firefox }ban
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Tudjon meg többet a { -brand-name-lockwise }-ról
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Küldje el biztonságosan a nagy fájljait és érzékeny dokumentumait, akár 2,5 GB-ig.
 firefox-products-send-a-file = Fájl küldése
