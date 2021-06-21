@@ -84,3 +84,6 @@ firefox-privacy-hub-already-have-an-account = Вже маєте облікови
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Прочитайте <a href="{ $url }">Повідомлення про приватність</a> для наших продуктів
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Перегляд, потокове відео та виконання роботи на серверах у понад 30 країнах для безпечного Інтернет-зв’язку з новою перспективою.
+firefox-privacy-hub-get-mozilla-vpn = Отримати { -brand-name-mozilla-vpn }
