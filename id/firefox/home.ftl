@@ -11,14 +11,22 @@ firefox-home-meet-our-family-of = Temui keluarga produk kami
 firefox-home-get-trackers-off = Blokir 2000+ pelacak — termasuk { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Ketahui kapan peretas menyerang — dan tetap selangkah di depan
 firefox-home-start-getting-breach = Mulai dapatkan laporan pembobolan
+
+# Obsolete string
 firefox-home-keep-your-passwords = Amankan kata sandi Anda di semua perangkat
+
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Pelajari lebih lanjut mengenai { -brand-name-lockwise }
 
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Dapatkan <strong>kehormatan</strong> yang pantas Anda dapatkan
 
 firefox-home-every-single-firefox = Setiap produk { -brand-name-firefox } menghormati Janji Data Pribadi kami: <strong>Ambil lebih sedikit. Jaga agar tetap aman. Tanpa rahasia.</strong>
+
+# Obsolete string
 firefox-home-share-large-files-without = Bagikan file berukuran besar tanpa risiko pelanggaran privasi.
+
+# Obsolete string
 firefox-home-start-sending-files = Mulailah mengirim file dengan aman
 firefox-home-trade-clickbait-for = Dapatkan kualitas, bukan clickbait
 firefox-home-learn-more-about-pocket = Pelajari lebih lanjut mengenai { -brand-name-pocket }
@@ -48,3 +56,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+

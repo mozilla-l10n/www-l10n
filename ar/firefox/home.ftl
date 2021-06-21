@@ -11,14 +11,22 @@ firefox-home-meet-our-family-of = تعرّف على عائلة منتجاتنا
 firefox-home-get-trackers-off = تخلَّصْ من أكثر من 2000 متعقب — بما في ذلك { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = اعرف أوقات ضربات المخترقين — وتقدّم عليهم بخطوة
 firefox-home-start-getting-breach = ابدأ بتلقي تقارير الخروقات
+
+# Obsolete string
 firefox-home-keep-your-passwords = احمِ كلمات مرورك على كل الأجهزة
+
+# Obsolete string
 firefox-home-learn-more-about-lockwise = اطَّلِع على المزيد حول { -brand-name-lockwise }
 
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = احظ <strong>بالاحترام</strong> الذي تستحقه
 
 firefox-home-every-single-firefox = يفي كل منتج من منتجات { -brand-name-firefox } بوعد البيانات الشخصية: <strong>نجمع بيانات شخصية أقل. نُحافظ على البيانات الشخصية. لا نُخفي عنك أسرارًا.</strong>
+
+# Obsolete string
 firefox-home-share-large-files-without = شارِك الملفات الكبيرة بعيدًا عن أعين المتطفلين
+
+# Obsolete string
 firefox-home-start-sending-files = ابدأ مشاركة الملفات بأمان
 firefox-home-trade-clickbait-for = بدِّل الروابط الخادعة بمحتوى عالي القيمة
 firefox-home-learn-more-about-pocket = اطَّلِع على المزيد حول { -brand-name-pocket }
@@ -48,3 +56,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+
