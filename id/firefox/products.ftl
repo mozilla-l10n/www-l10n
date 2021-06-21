@@ -23,11 +23,23 @@ firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Lihat semua peramban
+
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Amankan kata sandi Anda dan akses di semua perangkat Anda yang telah disinkronkan.
+
+# Obsolete string
 firefox-products-download-lockwise = Unduh { -brand-name-lockwise }
+
+# Obsolete string
 firefox-products-open-in-firefox = Buka di { -brand-name-firefox }
+
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Pelajari lebih lanjut mengenai { -brand-name-lockwise }
+
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Kirim file besar dan dokumen sensitif Anda dengan aman, hingga 2,5G.
 firefox-products-send-a-file = Kirim file

@@ -23,11 +23,23 @@ firefox-products-desktop = أجهزة كمبيوتر سطح المكتب
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = عرض كل المتصفّحات
+
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = حافظ على أمان كلمات السر الخاص بك وقم بالوصول إليها عبر كل أجهزتك المُتزامنة.
+
+# Obsolete string
 firefox-products-download-lockwise = تنزيل { -brand-name-lockwise }
+
+# Obsolete string
 firefox-products-open-in-firefox = فتح { -brand-name-firefox }
+
+# Obsolete string
 firefox-products-learn-more-about-lockwise = اطَّلِع على المزيد حول { -brand-name-lockwise }
+
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = أرسل ملفاتك الكبيرة والمستندات الحساسة بأمان، حتى 2.5 غيغا.
 firefox-products-send-a-file = أرسِل ملفًا

@@ -23,11 +23,23 @@ firefox-products-desktop = डेस्कटॉप
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = सारे ब्राउज़र देखें
+
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = अपने पासवर्ड सुरक्षित रखें और सिंक की हुई सभी डिवाइस पर उन्हें पाएँ।
+
+# Obsolete string
 firefox-products-download-lockwise = { -brand-name-lockwise } डाउनलोड करें
+
+# Obsolete string
 firefox-products-open-in-firefox = { -brand-name-firefox } में खोलें
+
+# Obsolete string
 firefox-products-learn-more-about-lockwise = { -brand-name-lockwise } के बारे में और अधिक जानें
+
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 2.5G तक अपनी बड़ी फ़ाइलों और संवेदनशील दस्तावेज़ों को सुरक्षित रूप से भेजें।
 firefox-products-send-a-file = एक फ़ाइल भेजें
