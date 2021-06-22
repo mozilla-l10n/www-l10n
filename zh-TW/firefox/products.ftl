@@ -21,11 +21,19 @@ firefox-products-desktop = 桌面版
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = 看全部的瀏覽器
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = 下載 { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = 安全地儲存密碼，再同步到您的所有裝置使用。
+# Obsolete string
 firefox-products-download-lockwise = 下載 { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = 於 { -brand-name-firefox } 開啟
+# Obsolete string
 firefox-products-learn-more-about-lockwise = 了解 { -brand-name-lockwise } 的更多資訊
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 安全地分享大檔案與敏感文件，最大 2.5G。
 firefox-products-send-a-file = 分享檔案
