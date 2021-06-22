@@ -19,6 +19,7 @@ vpn-shared-pricing-plan-monthly = ماہانہ
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = چلو شروع کریں
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-faqs = FAQs
