@@ -17,4 +17,5 @@ vpn-desktop-servers-headline = Eike a mohendahavusu arapyguávape
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Emo’ã { $devices } mba’e’oka peve
 vpn-desktop-speed-headline = Pya’ekue eimo’ã’ỹva, jejoko’ỹre
+vpn-desktop-speed-copy = Ehecha ta’ãngamýi, eñembosarái, ejogua ha eikundaha pya’eterei. { -brand-name-mozilla-vpn } nomomichĩmo’ãi pe ancho de banda ha nomombeguemo’ãi ne pumbyry.
 vpn-desktop-log-headline = Ne ñemigua oĩ tenonderã
