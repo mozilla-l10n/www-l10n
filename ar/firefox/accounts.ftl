@@ -46,6 +46,8 @@ firefox-accounts-get-it-all-on-every = استخدمها كلها على جميع
 firefox-accounts-and-get-it-all-on = واستخدمها كلها على جميع الأجهزة، دون التقيد بنظام تشغيل واحد.
 firefox-accounts-get-the-respect-you = احظَ بالاحترام الذي تستحقه.
 
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = حماية للجهاز بالكامل على كل جهاز
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
