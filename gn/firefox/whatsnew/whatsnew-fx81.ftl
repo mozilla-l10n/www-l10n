@@ -14,4 +14,5 @@ whatsnew81-send-form-label = Emoinge ñanduti veve ñemboguejy juajuhápe g̃uar
 whatsnew81-scan-this-qr-code = Emoha’ãnga ko QR ayvu emboguejy hag̃ua
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = IPYAHÚVA { -brand-name-firefox } { -brand-name-android } peg̃uarã oĩ ápe
+whatsnew81-our-latest-for-android-has = Ore { -brand-name-android } ipyahuvéva oreko heta tembiapoite hetia’e ha ikatupyrýva, peteĩ jehekaha renda oku’évape. Ha’e kundahára ijeheguíva ha rojepy’apy ne kuãre.
 whatsnew81-make-firefox-your-everyday = Ejajo { -brand-name-firefox }-gui kundahára eipuruvéva { -brand-name-ios }-pe
