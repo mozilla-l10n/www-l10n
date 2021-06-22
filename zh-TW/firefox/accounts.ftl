@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = 在所有裝置皆可下載，不會讓�
 firefox-accounts-and-get-it-all-on = 且在所有裝置皆可下載，不會讓您覺得被困在單一作業系統中。
 firefox-accounts-get-the-respect-you = 得回您應受到的尊重。
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = 在每一台裝置上都有完整保護
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = 我們說的都是真話。我們做的每件事、打造的每套產品，都遵守對<a href="{ $promise }">個人資料的承諾</a>：

@@ -22,6 +22,7 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = 看全部的瀏覽器
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = 以全新的視角，安全地透過超過 30 個國家的伺服器上網、觀看影片、完成工作。
 firefox-products-get-mozilla-vpn = 下載 { -brand-name-mozilla-vpn }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }

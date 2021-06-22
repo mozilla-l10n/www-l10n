@@ -25,6 +25,7 @@ firefox-home-share-large-files-without = 安全地分享大檔案
 firefox-home-start-sending-files = 開始安全地分享文件
 firefox-home-trade-clickbait-for = 把內容農場文換成有品質的內容
 firefox-home-learn-more-about-pocket = 了解 { -brand-name-pocket } 的更多資訊
+firefox-home-protection-for-your-whole = 在每一台裝置上都有完整保護。
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = 只要登入一次，所有裝置都可以使用。<br>我們有一系列尊重您<strong>隱私</strong>的產品。
 firefox-home-join-firefox = 加入 { -brand-name-firefox }
