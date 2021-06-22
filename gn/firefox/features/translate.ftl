@@ -15,6 +15,8 @@ features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-g
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Erekóke Jepysokue
 features-translate-switch-languages-in = Emoambue ñe’ẽ { -brand-name-firefox }-pe
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Eipurúmaramo { -brand-name-firefox }, emoambuekuaa ñe’ẽ ne mohendahápe térã embojuaju ñe’ẽnguéra { -brand-name-firefox } mba’erechahápe. <a { $attrs }>Eñemomaranduve ko’ápe.</a>
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-with-the-to = *Jepysokue To ndive { -brand-name-google } Translate, ikatu emoñe’ẽasa ko’ãg̃a rupi <a { $attrs }>ko’ã ñe’ẽ</a> pa’ũme:
 # $attrs (string) - link to https://translate.google.com/about/languages/

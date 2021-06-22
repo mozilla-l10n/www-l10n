@@ -12,15 +12,20 @@ firefox-home-meet-our-family-of = Eikuaa ore apopyre ñemigua aty.
 firefox-home-get-trackers-off = Hetave 2,000 tapykuehoha osẽ nde rapégui — { -brand-name-facebook } avei
 firefox-home-know-when-hackers-strike = Eikuaa mba’evaiapoha jeju — eime chugui tenondeve
 firefox-home-start-getting-breach = Og̃uahẽta ndéve marandu ñembyai rehegua
+# Obsolete string
 firefox-home-keep-your-passwords = Emohekorosã ne ñe’ẽñemi peteĩteĩva mba’e’okápe
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Eikuaave { -brand-name-lockwise } rehegua
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Eguereko <strong>poyhu</strong> eipotáva
 firefox-home-every-single-firefox = Opaite { -brand-name-firefox } apopyre omomba’e mba’ekuaarã nemba’etéva: <strong>Eikuaa’ive marandu. Omohekorosã. Ojehechapáva.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Emoherakuã marandurenda oñema’ẽvai’ỹre
+# Obsolete string
 firefox-home-start-sending-files = Emondo marandurenda tekorosãme
 firefox-home-trade-clickbait-for = Emoambue clickbait tetepy oikóva rehe
 firefox-home-learn-more-about-pocket = Eikuaave { -brand-name-pocket } rehegua
+firefox-home-protection-for-your-whole = Ñemo’ãmbaite opaite mba’e’okápe.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Tembiapo ñepyrũ. Opaite ne mba’e’oka. Apopyre aty omomba’éva nde <strong>rekorosã</strong>.
 firefox-home-join-firefox = Ejuaju { -brand-name-firefox } rehe
@@ -29,6 +34,7 @@ firefox-home-get-the-browser-extension = Eguereko kundaha jepysokue
 firefox-home-get-the-facebook-container = Eguereko { -brand-name-facebook-container } jepysokue
 firefox-home-download-the-browser = Emboguejy kundaha
 firefox-home-download-the-app = Emboguejy tembipuru’i
+firefox-home-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 firefox-home-desktop = Mesaguáva
 firefox-home-browsers = Kundahára
 firefox-home-android = { -brand-name-android }
@@ -38,6 +44,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

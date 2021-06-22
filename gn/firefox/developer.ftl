@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Opaite tembipuru mboguatahárape g̃uarã ipy
 firefox-developer-a-separate-profile = Pe <strong>mba’ete ha tape ojeipyre</strong> ikatu hag̃ua emomba’apo hasy’ỹre oñondive ha’etéva ndide térã { -brand-name-beta } { -brand-name-firefox } mba’éva ndive.
 firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ñanduti mboguatahárape g̃uara</strong>: kundahára ha ñemopotĩ okaygua hendýma ijehegui, avei téma ypytũ ha votõ tembipuru renda mboguatahárape g̃uara.
 firefox-developer-congrats-you-now-have = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } osẽramovéva { -brand-name-developer-edition }.
