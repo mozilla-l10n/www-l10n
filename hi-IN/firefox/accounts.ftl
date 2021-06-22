@@ -46,6 +46,8 @@ firefox-accounts-get-it-all-on-every = सभी डिवाइसों के
 firefox-accounts-and-get-it-all-on = इसे हर डिवाइस पर इंस्टॉल करें, ताकि एक ही ऑपरेटिंग सिस्टम में न फंसे रहना पड़े।
 firefox-accounts-get-the-respect-you = वह सम्मान पाएँ, जो आपको मिलना ही चाहिए।
 
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = हरेक डिवाइस पर संपूर्ण-डिवाइस सुरक्षा
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
