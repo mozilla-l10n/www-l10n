@@ -23,6 +23,9 @@ firefox-products-desktop = डेस्कटॉप
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = सारे ब्राउज़र देखें
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = सर्फ करें, स्ट्रीम करें और सर्वरों पर अपना काम करें - एक नए परिप्रेक्ष्य के साथ सुरक्षित इंटरनेट कनेक्शन के लिए 30 से अधिक देशों में।
+firefox-products-get-mozilla-vpn = पाएँ { -brand-name-mozilla-vpn }
 
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
