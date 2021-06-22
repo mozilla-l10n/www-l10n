@@ -26,6 +26,9 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Roñeha’ãmbaite romo’�
 firefox-privacy-hub-no-secrets = Kañymby’ỹre
 firefox-privacy-hub-youll-always-know-where-you = Ejerovia tapiáke ore reko resakãre
 firefox-privacy-hub-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Mba’ére, oréve g̃uarã, yvypóra romohenda tenondete. Upévare, oreykeko <a href="{ $foundation }">oku’éva ndaha’éi viru rapykuéri</a>. Ñepyrũha guive, rohupytyséva ha’e ñanduti ñemo’ã ha opavave puruhárape.
 firefox-privacy-hub-learn-more-about-our-mission = Eñemomaranduve ore rembipotáre
 firefox-privacy-hub-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
 firefox-privacy-hub-firefox-products-work-differently = Umi apopyre { -brand-name-firefox } omba’apo ambueháicha ojejapo rupi omo’ã hag̃ua ne ñemigua ñepyrũrã.
@@ -72,3 +75,6 @@ firefox-privacy-hub-already-have-an-account = ¿Erekóma mba’ete? <a { $sign_i
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Emoñe’ẽ <a href="{ $url }">Ñemigua marandu</a> ore apopyre rehegua
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Eikundaha, emombe’u ha emba’apo mohendahavusu hetave 30 tetãme eikekatu hag̃ua ñanduti hekorosãvape mba’epyahu reheve.
+firefox-privacy-hub-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
