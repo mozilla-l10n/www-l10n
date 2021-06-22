@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Maak kennis met onze familie van producten
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } is technologie die voor u vecht.
 firefox-accounts-get-technology-that = Download technologie die voor u vecht.
 firefox-accounts-travel-the-internet = Reis op het internet met bescherming, op elk apparaat.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Houd uw wachtwoorden beschermd en neem ze mee.
 firefox-accounts-get-a-lookout-for = Ontvang zicht op datalekken.
+# Obsolete string
 firefox-accounts-share-large-files = Deel grote bestanden zonder dat iemand meekijkt.
 firefox-accounts-get-it-all-on-every = Download alles op elk apparaat, zonder dat u zich gevangen voelt in een besturingssysteem.
 firefox-accounts-and-get-it-all-on = En download alles op elk apparaat, zonder dat u zich gevangen voelt in een besturingssysteem.
 firefox-accounts-get-the-respect-you = Ontvang het respect dat u verdient.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Volledige bescherming op elk apparaat
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Wij vertellen u altijd de waarheid. Alles wat we maken en doen voldoet aan onze <a href="{ $promise }">Belofte over persoonlijke gegevens</a>:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Help ons een betere { -brand-name-fire
 firefox-accounts-get-into-the-open = Maak kennis met de geest van open source door toekomstige producten te testen.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Help ons grote technologiebedrijven onder controle te houden.
+firefox-accounts-we-support-communities = We ondersteunen wereldwijd gemeenschappen die zich inzetten voor een gezonder internet. Voeg uw stem toe aan het gevecht.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = We ondersteunen wereldwijd gemeenschappen die zich inzetten voor een gezonder internet. Voeg uw stem toe aan het gevecht.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
