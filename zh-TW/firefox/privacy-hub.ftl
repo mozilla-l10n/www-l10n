@@ -84,3 +84,5 @@ firefox-privacy-hub-already-have-an-account = 已經有帳號了嗎？<a { $sign
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = 了解我們各項產品的<a href="{ $url }">隱私權公告</a>
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-get-mozilla-vpn = 下載 { -brand-name-mozilla-vpn }
