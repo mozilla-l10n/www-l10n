@@ -30,6 +30,7 @@ firefox-home-share-large-files-without = किसी निगरानी क�
 firefox-home-start-sending-files = सुरक्षित ढंग से फ़ाइलें भेजना शुरू करें
 firefox-home-trade-clickbait-for = गुणवत्ता सामग्री के लिए ट्रेड क्लिकबेट
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } के बारे में और अधिक जानें
+firefox-home-protection-for-your-whole = हरेक डिवाइस पर, आपके समूचे डिवाइस के लिए सुरक्षा।
 
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = एक लॉग इन। आपके सभी डिवाइसों के लिए। आपकी <strong>निजता</strong> का सम्मान करने वाले उत्पादों की शृंखला।
@@ -40,6 +41,7 @@ firefox-home-get-the-browser-extension = ब्राउज़र एक्स�
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } एक्सटेंशन पाएँ
 firefox-home-download-the-browser = ब्राउज़र डाउनलोड करें
 firefox-home-download-the-app = ऐप डाउनलोड करें
+firefox-home-get-mozilla-vpn = पाएँ { -brand-name-mozilla-vpn }
 firefox-home-desktop = डेस्कटॉप
 firefox-home-browsers = ब्राउज़र
 firefox-home-android = { -brand-name-android }
@@ -49,6 +51,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
