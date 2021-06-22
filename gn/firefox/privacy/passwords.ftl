@@ -7,6 +7,8 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Tembiapo ñepyrũ rapépe g̃uarã ha ñe’ẽñemi hekosãvéva
+# HTML page description
+privacy-passwords-more-and-more-desc = Ko’ẽreíre hetave mba’e ñande rekovépe omo’ã ñe’ẽñemi mba’etekuéra ñandutípe. ¿Mba’éichapa oñemo’ãkuaa ñande rérachaukaha?
 # page content
 privacy-passwords-a-security-guide = Tekorosã rape puruhárape g̃uarã ha ñe’ẽñemi hekosãva
 privacy-passwords-protecting-your-accounts = Ne mba’ete ñemo’ã natekotevẽi hasývo ijejapo — ha { -brand-name-firefox } ne pytyvõkuaa upevarã.
@@ -23,6 +25,7 @@ privacy-passwords-guessing-it = Ijurupyasy
 privacy-passwords-stealing-a-file = Amonda ne marandurenda orekóva ne ñe’ẽñemi
 privacy-passwords-using-password-recovery = Aipuru ñe’ẽñemi guerujeyrã oĩporãjey hag̃ua
 privacy-passwords-tricking-you-into = Rombotavy eme’ẽ hag̃ua
+privacy-passwords-to-keep-your = Ereko hag̃ua ne mba’ete tekorosãme, emboyke heta ombyaikuaáva ikatuháicha. Peteĩteĩva mba’evai oreko mba’éichapa emboykekuaa.
 privacy-passwords-look-for-the = Eheka pe mbotyha ne kundahárape
 privacy-passwords-a-closed-lock = Kundahára tuichavévape ojehecha mbotyha ijurja’ỹva ñanduti kundaharape renda kundaharape rupápe.
 privacy-passwords-a-padlock-with = Peteĩ mbotyha juasapyre tairenda ndive ohechauka nahekorosãiha jeike.
