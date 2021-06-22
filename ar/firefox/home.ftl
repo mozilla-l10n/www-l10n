@@ -30,6 +30,7 @@ firefox-home-share-large-files-without = شارِك الملفات الكبير�
 firefox-home-start-sending-files = ابدأ مشاركة الملفات بأمان
 firefox-home-trade-clickbait-for = بدِّل الروابط الخادعة بمحتوى عالي القيمة
 firefox-home-learn-more-about-pocket = اطَّلِع على المزيد حول { -brand-name-pocket }
+firefox-home-protection-for-your-whole = حِماية لِجهازك بالكامل، على كل جهاز.
 
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = تسجيل دخول واحد، لجميع أجهزتك. مجموعة منتجات تحترم <strong>خصوصيتك</strong> وتقدِّرها.
@@ -40,6 +41,7 @@ firefox-home-get-the-browser-extension = احصل على ملحق المتصفح
 firefox-home-get-the-facebook-container = احصل على ملحق { -brand-name-facebook-container }
 firefox-home-download-the-browser = نزّل المتصفح
 firefox-home-download-the-app = نزّل التطبيق
+firefox-home-get-mozilla-vpn = احصل على { -brand-name-mozilla-vpn }
 firefox-home-desktop = أجهزة الكمبيوتر
 firefox-home-browsers = المُتصفحات
 firefox-home-android = { -brand-name-android }
@@ -49,6 +51,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
