@@ -84,3 +84,6 @@ firefox-privacy-hub-already-have-an-account = Eisoes â chyfrif? <a { $sign_in }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Darllenwch <a href="{ $url }">Hysbysiad Preifatrwydd</a> ein cynnyrch
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Syrffio, ffrydio a gwneud gwaith ar weinyddion mewn dros 30 o wledydd a chael cysylltiad rhyngrwyd diogel â phersbectif newydd.
+firefox-privacy-hub-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }

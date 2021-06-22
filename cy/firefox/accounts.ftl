@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Dyma'n teulu o gynnyrch sy'n blaenoriaethu
 firefox-accounts-firefox-is-technology = Mae { -brand-name-firefox } yn dechnoleg sydd o'ch plaid.
 firefox-accounts-get-technology-that = Defnyddiwch dechnoleg sydd o'ch plaid.
 firefox-accounts-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar bob dyfais.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Cadwch eich cyfrineiriau wedi'u diogelu ac yn gludadwy.
 firefox-accounts-get-a-lookout-for = Cadw llygad allan am dor-data.
+# Obsolete string
 firefox-accounts-share-large-files = Rhannwch ffeiliau mawr heb lygaid busneslyd.
 firefox-accounts-get-it-all-on-every = Ar gael ar bob dyfais, heb deimlo'n gaeth i un system weithredu.
 firefox-accounts-and-get-it-all-on = Ar gael ar bob dyfais, heb deimlo'n gaeth i un system weithredu.
 firefox-accounts-get-the-respect-you = Cael y parch rydych yn ei haeddu.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Diogelwch dyfais gyfan ar bob dyfais
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Byddwch bob amser yn cael y gwir oddi wrthym ni. Mae popeth rydym yn ei greu a'i wneud yn cadw'n <a href="{ $promise }">Addewid Data Personol </a>:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Helpwch ni i greu { -brand-name-firefo
 firefox-accounts-get-into-the-open = Ymunwch â'r ysbryd cod agored drwy brofi cynnyrch sydd ar y gweill.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Helpwch ni i gadw golwg ar y cwmnïau technoleg mawr.
+firefox-accounts-we-support-communities = Rydym yn cefnogi cymunedau ledled y byd sy'n gwneud safiad dros rhyngrwyd iachach. Ychwanegwch eich llais i'r frwydr.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Rydym yn cefnogi cymunedau ledled y byd sy'n gwneud safiad dros rhyngrwyd iachach. Ychwanegwch eich llais i'r frwydr.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

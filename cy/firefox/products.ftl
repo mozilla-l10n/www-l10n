@@ -21,11 +21,20 @@ firefox-products-desktop = Bwrdd Gwaith
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Gweld pob porwr
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Syrffio, ffrydio a gwneud gwaith ar weinyddion mewn dros 30 o wledydd a chael cysylltiad rhyngrwyd diogel â phersbectif newydd.
+firefox-products-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Cadwch eich cyfrineiriau'n ddiogel, a chael atyn nhw ar draws pob dyfais sydd wedi'u cydweddu.
+# Obsolete string
 firefox-products-download-lockwise = Llwytho { -brand-name-lockwise } i Lawr
+# Obsolete string
 firefox-products-open-in-firefox = Agor yn { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Dysgu rhagor am { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Anfonwch eich ffeiliau mawr a'ch dogfennau sensitif yn ddiogel, hyd at 2.5G.
 firefox-products-send-a-file = Anfon ffeil

@@ -12,15 +12,20 @@ firefox-home-meet-our-family-of = Dyma'n teulu o gynnyrch
 firefox-home-get-trackers-off = Tynnwch 2,000+ o dracwyr oddi ar eich llwybr pori - gan gynnwys { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Cewch wybod pryd mae hacwyr yn taro - a chadw un cam o'u blaen
 firefox-home-start-getting-breach = Dechreuwch dderbyn adroddiadau tor-data
+# Obsolete string
 firefox-home-keep-your-passwords = Cadwch eich cyfrineiriau'n ddiogel ar bob dyfais
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Dysgu rhagor am { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Cael y <strong>parch</strong> rydych chi'n ei haeddu
 firefox-home-every-single-firefox = Mae pob un cynnyrch { -brand-name-firefox } yn anrhydeddu ein Addewid Data Personol: <strong>Cymryd llai. Cadw'n ddiogel. Dim cyfrinachau.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Rhannwch ffeiliau mawr heb lygaid busneslyd
+# Obsolete string
 firefox-home-start-sending-files = Dechreuwch anfon ffeiliau yn ddiogel
 firefox-home-trade-clickbait-for = Cyfnewidiwch benawdau brith am gynnwys o safon
 firefox-home-learn-more-about-pocket = Dysgu rhagor am { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Diogelwch ar gyfer eich dyfais gyfan, ar bob dyfais.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Un mewngofnod. Eich holl ddyfeisiau. Teulu o gynnyrch sy'n parchu eich <strong>preifatrwydd</strong>.
 firefox-home-join-firefox = Ymunwch â { -brand-name-firefox }
@@ -29,6 +34,7 @@ firefox-home-get-the-browser-extension = Cael estyniad y porwr
 firefox-home-get-the-facebook-container = Cael yr estyniad { -brand-name-facebook-container }
 firefox-home-download-the-browser = Llwytho'r porwr i lawr
 firefox-home-download-the-app = Llwytho'r ap i lawr
+firefox-home-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }
 firefox-home-desktop = Bwrdd Gwaith
 firefox-home-browsers = Porwyr
 firefox-home-android = { -brand-name-android }
@@ -38,6 +44,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
