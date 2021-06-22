@@ -21,11 +21,19 @@ firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Wšykne wobglědowaki pokazaś
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Źaržćo swóje gronidła wěste a mějśo na nje pśistup na wšych synchronizěrowanych rědach.
+# Obsolete string
 firefox-products-download-lockwise = { -brand-name-lockwise } ześěgnuś
+# Obsolete string
 firefox-products-open-in-firefox = W { -brand-name-firefox } wócyniś
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Dalšne informacije wó { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Sćelśo swóje wjelike dataje a sensibelne dokumenty wěsće, až k 2.5G.
 firefox-products-send-a-file = Dataju pósłaś

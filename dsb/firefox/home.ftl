@@ -12,15 +12,20 @@ firefox-home-meet-our-family-of = Póznajśo našu produktowu swójźbu
 firefox-home-get-trackers-off = Blokěrujśo wěcej ako 2000 pśeslědowakow - inkluziwnje { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Zgóńśo, gdy hackery napaduju - a buźćo pśecej kšac pśed nimi
 firefox-home-start-getting-breach = Dostańśo rozpšawy wó datowych źěrach
+# Obsolete string
 firefox-home-keep-your-passwords = Wobchowajśo swóje gronidła wěste na kuždem rěźe
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Dalšne informacije wó { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Wobstarajśo se <strong>respekt</strong>, kótaryž se zasłužyjośo
 firefox-home-every-single-firefox = Kuždy jadnotliwy produkt { -brand-name-firefox } našo zlubjenje za wósobinske daty spjelnja: <strong>Mjenjej zběraś. Wěsće sładowaś. Žedne pótajmstwa.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Źělśo wjelike dataje bźez narskich wócow
+# Obsolete string
 firefox-home-start-sending-files = Sćelśo dataje wěsće
 firefox-home-trade-clickbait-for = Wuměńśo clickbait z wopśimjeśim wusokeje kwality
 firefox-home-learn-more-about-pocket = Dalšne informacije wó { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Šćit za waš ceły rěd, na kuždem rěźe.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Jadno pśizjewjenje. Wšykne waše rědy. Produktowa swójźba, kótaraž <strong>priwatnosć</strong> respektěrujo.
 firefox-home-join-firefox = Pśizamkniśo se k { -brand-name-firefox }
@@ -29,6 +34,7 @@ firefox-home-get-the-browser-extension = Wobstarajśo se rozšyrjenje wobglědow
 firefox-home-get-the-facebook-container = Wobstarajśo se rozšyrjenje { -brand-name-facebook-container }
 firefox-home-download-the-browser = Wobglědowak ześěgnuś
 firefox-home-download-the-app = Nałoženje ześěgnuś
+firefox-home-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
 firefox-home-desktop = Desktop
 firefox-home-browsers = Wobglědowaki
 firefox-home-android = { -brand-name-android }
@@ -38,6 +44,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

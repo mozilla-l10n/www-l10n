@@ -84,3 +84,4 @@ firefox-developer-all-the-latest = Wšykne nejnowše wuwijaŕske rědy w betawer
 firefox-developer-a-separate-profile = <strong>Separatny profil a separatna sćažka</strong>, tak móžośo jen z kóńcneju wersiju abo { -brand-name-beta } { -brand-name-firefox } wuwjasć.
 firefox-developer-preferences-tailored = Nastajenja, kotrež su <strong>na webwuwiwarjow wusměrjone</strong>: Pytanje zmólkow wobglědowaka a znazdala stej pó standarźe zmóžnjonej, rowno tak kaž śamna drastwa a tłocašk za wuwijaŕsku symbolowu rědku.
 firefox-developer-congrats-you-now-have = Gratulacija. Maśo něnto { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Gratulacija. Maśo něnto nejnowšu wersiju { -brand-name-firefox-browser } { -brand-name-developer-edition }.

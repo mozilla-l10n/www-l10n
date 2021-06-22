@@ -11,6 +11,8 @@
 vpn-windows-page-title = { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
 # Windows strings
 vpn-windows-hero-headline = Wěsty zwisk z { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
+vpn-windows-wifi-headline = Wóstańśo priwatny w zjawnem WLAN
+vpn-windows-about-headline = Wót wjeducego w internetnej priwatnosći
 vpn-windows-privacy-headline = Šćit z tłocenim tłocaška
 vpn-windows-servers-headline = Pśistup k serweram na cełem swěśe
 vpn-windows-devices-headline = Jaden abonement za wše waše rědy

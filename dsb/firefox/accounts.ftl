@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Póznajśo našu swójźbu produktow, za k
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } jo technologija, kótaraž za was wójujo.
 firefox-accounts-get-technology-that = Wobstarajśo see technologiju, kótaraž za was wójujo.
 firefox-accounts-travel-the-internet = Gibniśo se ze šćitom na kuždem rěźe pó interneśe.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Šćitajśo swóje gronidła a wzejśo je wšuźi sobu.
 firefox-accounts-get-a-lookout-for = Rozglědujśo se za datowymi źěrami.
+# Obsolete string
 firefox-accounts-share-large-files = Źělśo wjelike dataje bźez narskich wócow.
 firefox-accounts-get-it-all-on-every = Pśinjasćo wykno na kuždy rěd - wšojadno kótary źěłowy system wužywaśo.
 firefox-accounts-and-get-it-all-on = A pśinjasćo wykno na kuždy rěd - wšojadno kótary źěłowy system wužywaśo.
 firefox-accounts-get-the-respect-you = Dostańśo respekt, kótaryž se zasłužijośo.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Cełorědowy šćit na kuždem rěźe
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Dostawaśo pśecej wěrnosć wót nas. Za wšym, což gótujomy, našo <a href="{ $promise }">zlubjenje za wósobinske daty</a> stoj:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Pomagajśo nam, lěpšy { -brand-name-
 firefox-accounts-get-into-the-open = Zacujśo se do wótwórjonego žrědła a testujśo pśichodne produkty.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Pomagajśo nam, wjelike technologiske pśedewześa w šachu źaržaś.
+firefox-accounts-we-support-communities = Pódpěramy zgromaźeństwa na cełem swěśe, kótarež se za strowšy internet zasajźuju. Pózwigniśo teke swój głos za toś to wójowanje.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Pódpěramy zgromaźeństwa na cełem swěśe, kótarež se za strowšy internet zasajźuju. Pózwigniśo teke swój głos za toś to wójowanje.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
