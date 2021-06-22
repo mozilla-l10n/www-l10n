@@ -85,4 +85,5 @@ firefox-privacy-hub-already-have-an-account = ¿Ya tenés una cuenta? <a { $sign
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Lee el <a href="{ $url }">Aviso de privacidad</a> de nuestros productos
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Navegá, transmití y trabajá en servidores en más de 30 países con una conexión a Internet segura y con una nueva perspectiva.
 firefox-privacy-hub-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
