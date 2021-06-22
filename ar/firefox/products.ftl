@@ -23,6 +23,9 @@ firefox-products-desktop = أجهزة كمبيوتر سطح المكتب
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = عرض كل المتصفّحات
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = تصفّح وشاهد مقاطع الفيديو وأنجز أعمالك على الخوادم في أكثر من 30 دولة لاتصال آمن بالإنترنت بمنظور جديد.
+firefox-products-get-mozilla-vpn = احصل على { -brand-name-mozilla-vpn }
 
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
