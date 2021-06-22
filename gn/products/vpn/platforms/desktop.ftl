@@ -14,6 +14,9 @@ vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
 vpn-desktop-servers-headline = Eike a mohendahavusu arapyguávape
 # Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Eikundaha Brasil guive. Eñembosarái Japón guive. Emyasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne pumbyry rendaite térã mohendaha peteĩva { $servers } mohendahavusúpe.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Emo’ã { $devices } mba’e’oka peve
 vpn-desktop-speed-headline = Pya’ekue eimo’ã’ỹva, jejoko’ỹre
