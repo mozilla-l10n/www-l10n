@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = رازداری کی پہلی مصنوعا�
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } وہ ٹکنالوجی ہے جو آپ کے لئے لڑتی ہے۔
 firefox-accounts-get-technology-that = ایسی ٹیکنالوجی حاصل کریں جو آپ کے لئے لڑے۔
 firefox-accounts-travel-the-internet = ہر آلہ پر ، تحفظ کے ساتھ انٹرنیٹ کا سفر کریں۔
+# Obsolete string
 firefox-accounts-keep-your-passwords = اپنے پاس ورڈز کو محفوظ اور پورٹیبل رکھیں۔
 firefox-accounts-get-a-lookout-for = ڈیٹا کی خلاف ورزیوں کو دیکھیں
+# Obsolete string
 firefox-accounts-share-large-files = بڑی فائلوں کو کھوجی آنکھوں کے دیکھے بغیر شیئر کریں۔
 firefox-accounts-get-it-all-on-every = اور یہ سب کچھ کسی ایک آپریٹنگ سسٹم میں پھنسے ہوئے محسوس کیے بغیر ، ہر آلہ پر حاصل کریں۔
 firefox-accounts-and-get-it-all-on = اور یہ سب کچھ کسی ایک آپریٹنگ سسٹم میں پھنسے ہوئے محسوس کیے بغیر ، ہر آلہ پر حاصل کریں۔
 firefox-accounts-get-the-respect-you = وہ عزت حاصل کریں جس کے آپ مستحق ہیں۔
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = آپ ہمیشہ ہم سے سچائی حاصل کریں گے۔ ہم جو کچھ بھی کرتے اور کرتے ہیں وہ ہمارے <a href="{ $promise } "> ذاتی ڈیٹا کا وعدہ </a>:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = سب کے لئے بہتر { -brand-nam
 firefox-accounts-get-into-the-open = آئندہ مصنوعات کی جانچ کرنے کے ذریعہ اوپن سورس روح میں شامل ہوں۔
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = بڑِی ٹیکنالوجی کی پڑتال کرنے میں ہماری مدد کریں۔
+firefox-accounts-we-support-communities = ہم ایک صحت مند انٹرنیٹ کے لئے کھڑی پوری دنیا کی برادری کی حمایت کرتے ہیں۔ اپنی آواز کو لڑائی میں شامل کریں۔
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = ہم ایک صحت مند انٹرنیٹ کے لئے کھڑی پوری دنیا کی برادری کی حمایت کرتے ہیں۔ اپنی آواز کو لڑائی میں شامل کریں۔
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = کوائف کی رازداری کے اص
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } کے <a href="{ $principles }">کوائف کی رازداری کے اصول</a> ہمارے ان طریقوں کی حوصلہ افزائی کرتے ہیں جو انٹرنیٹ کا استعمال کرنے والو کی حفاظت کرتے ہیں.<a href="{ $faq }">FAQ</a> میں جانیں کہ یہ اصول کس طرح { -brand-name-firefox } اور ہمارے سبھی مصنوعات کو شکل دیتی ہے۔
 privacy-index-transparency-report = شفافیت کی رپورٹ
+privacy-index-get-involved = شامل ہوں
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = ایک کھلی منبع پروجیکٹ کے طور پر، رواداری اور شفافیت { -brand-name-mozilla } کے بنیاد پرست اصولوں کا ایک لازمی حصہ ہے. ہماری کوڈ بیسز کھلی اور آڈٹ ہوتے ہیں. ہماری ڈیولپمنٹ  کا کام کھلا ہے. ہماری باہمی سالانہ <a href="{ $report }">شفافیت کی رپورٹ</a> بھی ان اصولوں سے ہمارا عزم ظاہر کرتی ہے۔
@@ -31,4 +32,12 @@ privacy-index-to-review-and-comment-on-proposed = ہماری رازداری کی
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = <a href="{ $blog }"> { -brand-name-mozilla } کی اوپن پالیسی اور ایڈووکیسی بلاگ</a> پر ہماری جاری رازداری اور سیکیورٹی عوامی پالیسی کے کام کے بارے میں مزید پڑھیں۔
 privacy-index-outdated-policies = پرانی پالیسیاں
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } برائے { -brand-name-fire-tv }
