@@ -24,6 +24,7 @@ history-in-2003-the-mozilla-project = Ary 2003 jave, { -brand-name-mozilla } apo
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> osẽ ñepyrũ ary 2004 jave ha ojepurueterei; peteĩ ary mboyve, oñemboguejy <a href="{ $millions }">hetaiteve 100 suágui </a>.
+history-new-versions-of-firefox = Upete guive, oñemyasãi memete { -brand-name-firefox } hekopyahúva ha ko’ẽreíre osẽ tenondete. Pe { -brand-name-firefox } ojekuaa rupive oipypytyvõ puruhárape oiporavojey hag̃ua.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Pe ñeñani ipyahúva <a href="{ $innovation }">ombopya’eve mba’epyahu</a> ha omboha’eve Ñanduti opavavetépe g̃uarã.
