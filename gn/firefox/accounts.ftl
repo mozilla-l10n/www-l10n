@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Eikuaa ore apopyre ñemigua aty.
 firefox-accounts-firefox-is-technology = { -brand-name-firefox }, tembipurupyahu nemomba’éva.
 firefox-accounts-get-technology-that = Eguerúke tembipurupyahu nemomba’éva.
 firefox-accounts-travel-the-internet = Eikundaha ñandutípe ñemo’ãme opaite mba’e’okápe.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Eguereko ne ñe’ẽñemi ñemo’ãme ha eraha nendive.
 firefox-accounts-get-a-lookout-for = Ehechakuaáke ára ha ára mba’ekuaarã ñemboguáre.
+# Obsolete string
 firefox-accounts-share-large-files = Emoherakuã marandurenda tuicháva oñema’ẽ’ỹre hese.
 firefox-accounts-get-it-all-on-every = Eguerekopa opaite mba’e’okápe, eñeñapytĩ’ỹre avave apopyvusu oku’évare.
 firefox-accounts-and-get-it-all-on = Eguerekopa peteĩteĩva mba’e’okágui, eñeñapytĩ’ỹre mavave apopyvusu oku’éva rehe.
 firefox-accounts-get-the-respect-you = Eguerekóta poyhu emereséva.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Ñemo’ãmbaite opaite mba’e’okápe
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Tapiaite eguerekóta añetegua orehegui. Opaite rojapóva omomba’e ore <a href="{ $promise }">Promesa de Datos Personales</a>:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Orepytyvõmína { -brand-name-firefox 
 firefox-accounts-get-into-the-open = Eike ko ayvu ijurujávape eipurúvo apopyre pyahu.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Orepytyvõmína tembipurupyahu hekotee hag̃ua.
+firefox-accounts-we-support-communities = Roykeko tekohakuérape arapy tuichakue jave omomba’éva ñanduti hesãiva. Eike nde avei pype.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Roykeko tekohakuérape arapy tuichakue jave omomba’éva ñanduti hesãiva. Eike nde avei pype.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
