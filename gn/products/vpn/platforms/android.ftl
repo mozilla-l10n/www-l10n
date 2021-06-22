@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } { -brand-name-android } peg̃uarã
+vpn-android-page-description = Eime tekorosãme peteĩ jekutu ne pumbyrýpe { -brand-name-android } { -brand-name-mozilla } rupive, téra ojejeroviaveha tembipurupyahúpe.
 # Mobile strings
 vpn-android-hero-headline = Ereko ñemo’ã ha tekoñemi ñandutípe { -brand-name-mozilla-vpn } ndive { -brand-name-android } peg̃uarã
 vpn-android-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
