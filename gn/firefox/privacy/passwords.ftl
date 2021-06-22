@@ -34,4 +34,6 @@ privacy-passwords-strength-in-diversity = Mbarete oĩ tekoetápe
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = Ne mba’ete { -brand-name-firefox } pegua, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
 privacy-passwords-strong-diverse-and = Imbarete, hekoeta ha multifactorial

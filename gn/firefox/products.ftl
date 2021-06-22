@@ -21,11 +21,20 @@ firefox-products-desktop = Mesa arigua
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Ehecha opaite kundahára
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Eikundaha, emombe’u ha emba’apo mohendahavusu hetave 30 tetãme eikekatu hag̃ua ñanduti hekorosãvape mba’epyahu reheve.
+firefox-products-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Ereko ne ñe’ẽñemi tekorosãme ha eike pype opaite ne mba’o’ka mbojuehepyrépe.
+# Obsolete string
 firefox-products-download-lockwise = Emboguejy { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Ijuruja { -brand-name-firefox }-pe
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Maranduve { -brand-name-lockwise } rehegua
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Emondo tekorosãme kuatiaite hekoñemíva ha marandurenda tuicháva, 2,5 GB peve.
 firefox-products-send-a-file = Emondo marandurenda
