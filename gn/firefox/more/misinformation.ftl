@@ -25,6 +25,9 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ip
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta ohechauka tetepy ojogueraháva nde aravo ndive:
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Ore yvypóra romohenda tenondete. Upévare, oreykeko <a href="{ $foundation }">oku’éva ndaha’éi viru rapykuéri</a>. Ñepyrũha guive, ore rembipota ha’e ñanduti ñemo’ã ha opavave puruhárape.
 misinformation-learn-more-about-our-mission = Eikuaave ore rembipota
 misinformation-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
 misinformation-firefox-products-work-differently = { -brand-name-firefox } apopyrekuéra omba’apo ambueháicha — ojejapo rupi omotenonde hag̃ua ne ñemigua ñemo’ã.
