@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = 认识我们一系列尊重隐私的产品
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } 用技术为您而战。
 firefox-accounts-get-technology-that = 获得为您而战的技术。
 firefox-accounts-travel-the-internet = 守护你的网上冲浪，随身相伴。
+# Obsolete string
 firefox-accounts-keep-your-passwords = 小巧便携、固若金汤的密码保险箱。
 firefox-accounts-get-a-lookout-for = 帮你关心数据泄漏事故。
+# Obsolete string
 firefox-accounts-share-large-files = 安全地分享大文件。
 firefox-accounts-get-it-all-on-every = 什么设备都能用，不再困在某个系统中。
 firefox-accounts-and-get-it-all-on = 什么设备都能用，不再困在某个系统中。
 firefox-accounts-get-the-respect-you = 尊重是天赋人权。
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = 全方位保护您的每台设备
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = 我们说到做到。我们做的每件事、打造的每套产品，都遵从我们对 <a href="{ $promise }">个人资料的承诺</a>：
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = 帮助我们，为所有人打造更�
 firefox-accounts-get-into-the-open = 测试即将推出的产品，参与体验开源精神。
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = 帮助我们，确保巨头仍受到民众的抗衡。
+firefox-accounts-we-support-communities = 对世界上所有让互联网变得更健康的社群，我们全力相挺。也欢迎您出力发声。
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = 对世界上所有让互联网变得更健康的社群，我们全力相挺。也欢迎您出力发声。
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
