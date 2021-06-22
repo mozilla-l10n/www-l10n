@@ -21,11 +21,20 @@ firefox-products-desktop = Scriptorio
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Vider tote le navigatores
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Naviga, specta films e labora sur servitores de ultra 30 paises per un connexion a Internet secur con una nove perspectiva.
+firefox-products-get-mozilla-vpn = Installar { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Mantene tu contrasignos secur, e accede a illos sur tote tu apparatos synchronisate.
+# Obsolete string
 firefox-products-download-lockwise = Discargar { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Aperir in { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Saper plus sur { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Inviar files grande e documentos confidential con securitate, usque a 2,5 GB.
 firefox-products-send-a-file = Inviar un file
