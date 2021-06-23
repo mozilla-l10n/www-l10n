@@ -137,7 +137,7 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
 vpn-landing-invite-privacy-policy = Al hacer clic en "Unirse a la lista de espera", aceptas nuestra <a href="{ $privacy }">Política de privacidad</a>.
-vpn-landing-invite-your-information = Su información será utilizada solo para notificarte de la disponibilidad de la plataforma.
+vpn-landing-invite-your-information = Tu información será utilizada solo para notificarte de la disponibilidad de la plataforma.
 vpn-landing-invite-thanks-heading = ¡Gracias! Estás en la lista
 vpn-landing-invite-thanks-desc = Una vez que { -brand-name-mozilla-vpn } esté disponible para tu región, te enviaremos un correo electrónico.
 

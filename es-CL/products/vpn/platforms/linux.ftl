@@ -30,7 +30,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da la capacidad de estab
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Conecta hasta { $devices } dispositivos
-vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $device } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } para { -brand-name-iphone } e{ -brand-name-ipad }.
+vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $device } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } para { -brand-name-iphone } e { -brand-name-ipad }.
 vpn-linux-speed-headline = Ultrarrápido con datos ilimitados
 vpn-linux-speed-copy = Juega, reproduce películas y programas, y navega por la web a velocidades ultrarrápidas y sin limitaciones de ancho de banda — { -brand-name-mozilla-vpn } es ilimitado.
 vpn-linux-log-headline = Tus datos te pertenecen
