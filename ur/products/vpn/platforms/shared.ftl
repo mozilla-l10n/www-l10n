@@ -5,4 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# Shared
+vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = چلو شروع کریں
+vpn-platforms-shared-cta = قیمتیں اور دستیابی دیکھیں
+vpn-platforms-shared-day-guarantee = 30 دن کی رقم واپس کرنے کی گارنٹی
+vpn-platforms-shared-privacy-headline = آپ کی رازداری ہمارا وعدہ ہے
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = ڈیسک ٹاپ
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = موبایل
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = ہمارے قابل اعتماد ساتھی کے بارے میں
