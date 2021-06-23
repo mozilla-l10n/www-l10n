@@ -46,6 +46,8 @@ firefox-accounts-get-it-all-on-every = Dapatkan semuanya di setiap perangkat, ta
 firefox-accounts-and-get-it-all-on = Dan dapatkan semuanya di setiap perangkat, tanpa merasa terjebak dalam satu sistem operasi.
 firefox-accounts-get-the-respect-you = Dapatkan kehormatan yang layak Anda dapatkan.
 
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Perlindungan sepenuhnya di setiap perangkat
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
