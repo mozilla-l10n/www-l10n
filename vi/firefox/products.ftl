@@ -21,11 +21,20 @@ firefox-products-desktop = Máy tính để bàn
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Xem tất cả các trình duyệt
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Lướt, phát trực tuyến và hoàn thành công việc trên các máy chủ ở hơn 30 quốc gia để có kết nối internet an toàn với một góc nhìn mới.
+firefox-products-get-mozilla-vpn = Nhận { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Giữ mật khẩu của bạn an toàn và truy cập chúng trên tất cả các thiết bị được đồng bộ hóa của bạn.
+# Obsolete string
 firefox-products-download-lockwise = Tải xuống { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Mở trong { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Tìm hiểu thêm về { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Gửi các tập tin lớn và tài liệu nhạy cảm của bạn một cách an toàn, lên đến 2.5GB.
 firefox-products-send-a-file = Gửi một tập tin
