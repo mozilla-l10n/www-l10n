@@ -21,11 +21,20 @@ firefox-products-desktop = კომპიუტერი
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = იხილეთ ყველა ბრაუზერი
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = მოინახულეთ, გაუშვით პირდაპირ ეთერში და აკეთეთ საქმე, 30 ქვეყანაში განთავსებული სერვერებიდან, ინტერნეტკავშირის უსაფრთხოებისთვის, ახლებური შესაძლებლობებით.
+firefox-products-get-mozilla-vpn = გამოიყენეთ { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = შეინახეთ თქვენი პაროლები უსაფრთხოდ და მიიღეთ მათზე წვდომა, ყველა დასინქრონებული მოწყობილობიდან.
+# Obsolete string
 firefox-products-download-lockwise = ჩამოტვირთეთ { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = { -brand-name-firefox }-ში გახსნა
+# Obsolete string
 firefox-products-learn-more-about-lockwise = უკეთ გაიცანით { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = გაგზავნეთ დიდი და მნიშვნელოვანი დოკუმენტები უსაფრთხოდ, 2.5გბ-მდე.
 firefox-products-send-a-file = ფაილის გაგზავნა
