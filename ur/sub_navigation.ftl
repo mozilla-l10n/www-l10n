@@ -19,9 +19,11 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = { -brand-name-ios } معاونت
 sub-navigation-android-support = { -brand-name-android } کا تعاون
 sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
+sub-navigation-desktop-beta-and-developer = ڈیسک ٹاپ  { -brand-name-beta } اور { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = { -brand-name-nightly } ڈیسک ٹاپ
 sub-navigation-features = فیچر
 sub-navigation-support = معاونت
+# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = اظافہ جات
 sub-navigation-faq = عمومی سوالات
 sub-navigation-learn-more = مزید سیکھیں
