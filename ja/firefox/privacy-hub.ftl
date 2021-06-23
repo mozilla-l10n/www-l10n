@@ -102,3 +102,6 @@ firefox-privacy-hub-already-have-an-account = 既にアカウントをお持ち�
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Mozilla の製品に関する<a href="{ $url }">プライバシー通知</a>をお読みください
 
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = 新しい視点を取り入れた安全なインターネット接続。30 か国以上に設置したサーバーでブラウズ、ストリーミング、作業。
+firefox-privacy-hub-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
