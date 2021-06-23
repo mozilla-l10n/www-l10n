@@ -30,6 +30,7 @@ firefox-home-share-large-files-without = Kongsi fail besar tanpa diperhatikan ma
 firefox-home-start-sending-files = Mulakan menghantar fail besar dengan selamat
 firefox-home-trade-clickbait-for = Tukar umpan klik dengan kandungan yang berkualiti
 firefox-home-learn-more-about-pocket = Ketahui lebih lanjut tentang { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Perlindungan menyeluruh untuk setiap peranti anda.
 
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Satu log masuk. Semua peranti. Serangkaian produk yang menghormati <strong>privasi</strong>.
@@ -40,6 +41,7 @@ firefox-home-get-the-browser-extension = Dapatkan sambungan pelayar
 firefox-home-get-the-facebook-container = Dapatkan sambungan { -brand-name-facebook-container }
 firefox-home-download-the-browser = Muat turun pelayar
 firefox-home-download-the-app = Muat turun aplikasi
+firefox-home-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 firefox-home-desktop = Desktop
 firefox-home-browsers = Pelayar
 firefox-home-android = { -brand-name-android }
@@ -49,6 +51,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
