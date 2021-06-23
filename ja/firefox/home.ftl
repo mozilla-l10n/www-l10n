@@ -30,6 +30,7 @@ firefox-home-share-large-files-without = 侵入されずに大きなファイル
 firefox-home-start-sending-files = ファイルを安全に送信する
 firefox-home-trade-clickbait-for = クリックベイトと質の高いコンテンツを交換
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } について詳しく知る
+firefox-home-protection-for-your-whole = すべてのデバイスで、デバイス全体を保護します。
 
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = 1 回のログインですべてのデバイスを保護。ユーザーの<strong>プライバシー</strong>を尊重する製品ファミリ。
@@ -40,6 +41,7 @@ firefox-home-get-the-browser-extension = ブラウザーの拡張機能を手に
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } 拡張機能を手に入れる
 firefox-home-download-the-browser = ブラウザーをダウンロード
 firefox-home-download-the-app = アプリをダウンロード
+firefox-home-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
 firefox-home-desktop = デスクトップ
 firefox-home-browsers = ブラウザー
 firefox-home-android = { -brand-name-android }
@@ -49,6 +51,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
