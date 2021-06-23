@@ -46,6 +46,8 @@ firefox-accounts-get-it-all-on-every = 一つの OS に囚われず、すべて�
 firefox-accounts-and-get-it-all-on = 一つの OS に囚われず、すべてのデバイスでフル活用。
 firefox-accounts-get-the-respect-you = あなたのプライバシーを尊重します。
 
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = あらゆるデバイスをまるごと保護
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
