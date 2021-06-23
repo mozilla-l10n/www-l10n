@@ -23,6 +23,9 @@ firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Lihat semua peramban
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Berselancar, streaming, dan menyelesaikan pekerjaan lewat server di lebih dari 30 negara untuk koneksi internet yang aman dengan perspektif baru.
+firefox-products-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
