@@ -22,6 +22,7 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Se alla webbläsare
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Surfa, strömma och utför arbete på servrar i över 30 länder för en säker internetanslutning med ett nytt perspektiv.
 firefox-products-get-mozilla-vpn = Hämta { -brand-name-mozilla-vpn }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
