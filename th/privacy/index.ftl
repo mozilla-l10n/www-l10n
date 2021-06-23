@@ -29,7 +29,7 @@ privacy-index-to-review-and-comment-on-proposed = หากต้องการ
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = อ่านเพิ่มเติมเกี่ยวกับนโยบายความเป็นส่วนตัวและความปลอดภัยสาธารณะอย่างต่อเนื่องของเราที่ทำงานใน <a href="{ $blog }">Open Policy and Advocacy Blog ของ { -brand-name-mozilla }</a>
 privacy-index-outdated-policies = นโยบายที่ล้าสมัยแล้ว
-privacy-index-mozilla-websites-communications = เว็บไซต์, การติดต่อสื่อสา และคุกกี้ของ { -brand-name-mozilla }
+privacy-index-mozilla-websites-communications = เว็บไซต์ การสื่อสาร และคุกกี้ของ { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
