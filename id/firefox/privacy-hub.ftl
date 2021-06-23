@@ -102,3 +102,6 @@ firefox-privacy-hub-already-have-an-account = Sudah memiliki akun? <a { $sign_in
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Baca <a href="{ $url }">Pemberitahuan Privasi</a> untuk produk kami
 
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Berselancar, streaming, dan menyelesaikan pekerjaan lewat server di lebih dari 30 negara untuk koneksi internet yang aman dengan perspektif baru.
+firefox-privacy-hub-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
