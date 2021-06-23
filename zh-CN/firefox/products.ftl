@@ -21,11 +21,20 @@ firefox-products-desktop = 桌面版
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = 查看所有浏览器
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = 以全新的视角，安全地通过超过 30 个国家/地区的服务器上网、观看视频、处理工作。
+firefox-products-get-mozilla-vpn = 获取 { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = 确保您的密码安全，并在所有已同步的设备上进行访问。
+# Obsolete string
 firefox-products-download-lockwise = 下载 { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = 在 { -brand-name-firefox } 中打开
+# Obsolete string
 firefox-products-learn-more-about-lockwise = 详细了解 { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 安全地发送大文件和敏感文档，最大可支持 2.5G 文件。
 firefox-products-send-a-file = 发送文件

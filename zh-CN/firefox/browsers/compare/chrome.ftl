@@ -20,7 +20,7 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = 有大量的 { -brand-name-f
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = 我们最近还在最新的<a { $attrs }>隐私声明</a>中重申了我们对用户数据保密和透明的承诺，其中指出：“在 Mozilla，我们认为隐私对于健康的互联网至关重要。”
-compare-chrome-google-chrome-is-by-all-accounts = 总体来说，{ -brand-name-google } { -brand-name-chrome } 是一款安全的浏览器。通过诸如 { -brand-name-google } Safe Browsing 等功能，若用户尝试前往危险站点或下载危险文件，则会显示无法忽视的警告来帮助保护用户。
+compare-chrome-google-chrome-is-by-all-accounts = 总体来说，{ -brand-name-google } { -brand-name-chrome } 是一款安全的浏览器。通过诸如 { -brand-name-google } Safe Browsing 等功能，若用户尝试前往危险站点或下载危险文件，则会显示醒目的警告来帮助保护用户。
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
 compare-chrome-ultimately-its-up-to-you = 归根结底，像搜索历史、购物记录等数据，是否分享，以及分享多少，决定权在您。但包括您的大多数人，可能都在网上搜索过一些希望保密的内容。
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.

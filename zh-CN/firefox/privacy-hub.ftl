@@ -85,3 +85,5 @@ firefox-privacy-hub-already-have-an-account = 已有账户？<a { $sign_in } cla
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = 请阅读我们产品的<a href="{ $url }">隐私声明</a>
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = 以全新的视角，安全地通过超过 30 个国家/地区的服务器上网、观看视频、处理工作。
+firefox-privacy-hub-get-mozilla-vpn = 获取 { -brand-name-mozilla-vpn }
