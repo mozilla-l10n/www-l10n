@@ -23,6 +23,9 @@ firefox-products-desktop = デスクトップ
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = ブラウザー全種を確認
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = 新しい視点を取り入れた安全なインターネット接続。30 か国以上に設置したサーバーでブラウズ、ストリーミング、作業。
+firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
 
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
