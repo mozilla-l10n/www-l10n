@@ -16,7 +16,11 @@ firefox-desktop-download-do-it-all = Failo <strong>too</strong> con { -brand-nam
 firefox-desktop-download-works-with-google = Funciona colos productos de { -brand-name-google }
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Imaxe sobre Imaxe
+firefox-desktop-download-cryptominer-blocking = Bloquéu de criptomineros
+firefox-desktop-download-automatic-updates = Anovamientos automáticos
 firefox-desktop-download-themes = Estilos
+firefox-desktop-download-dark-mode = Mou escuru
+firefox-desktop-download-library-of-extensions = Biblioteca d'estensiones
 firefox-desktop-download-screenshots = Captures de pantalla
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
