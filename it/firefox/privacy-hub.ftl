@@ -84,3 +84,5 @@ firefox-privacy-hub-already-have-an-account = Hai già un account? <a { $sign_in
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Leggi l’<a href="{ $url }">Informativa sulla privacy</a> per i nostri prodotti
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }

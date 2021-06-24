@@ -12,12 +12,16 @@ firefox-home-meet-our-family-of = Scopri la nostra famiglia di prodotti
 firefox-home-get-trackers-off = Scrollati di dosso più di 2000 elementi traccianti, { -brand-name-facebook } compreso
 firefox-home-know-when-hackers-strike = Scopri quando gli hacker colpiscono per essere sempre un passo avanti a loro
 firefox-home-start-getting-breach = Inizia a ricevere gli avvisi di violazione
+# Obsolete string
 firefox-home-keep-your-passwords = Mantieni le tue password al sicuro su ogni dispositivo
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Scopri di più su { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Conquista il <strong>rispetto</strong> che meriti
 firefox-home-every-single-firefox = Ogni prodotto { -brand-name-firefox } nasce nel rispetto della nostra Promessa sui dati personali: <strong>Chiedi il meno possibile. Conservalo al sicuro. Nessun segreto.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Condividi file di grandi dimensioni al riparo da occhi indiscreti
+# Obsolete string
 firefox-home-start-sending-files = Invia file in sicurezza
 firefox-home-trade-clickbait-for = Contenuti di qualità, non trappole acchiappaclic!
 firefox-home-learn-more-about-pocket = Scopri di più su { -brand-name-pocket }
@@ -29,6 +33,7 @@ firefox-home-get-the-browser-extension = Installa le estensioni del browser
 firefox-home-get-the-facebook-container = Installa l’estensione { -brand-name-facebook-container }
 firefox-home-download-the-browser = Scarica il browser
 firefox-home-download-the-app = Scarica l’app
+firefox-home-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
 firefox-home-desktop = Desktop
 firefox-home-browsers = Browser
 firefox-home-android = { -brand-name-android }
@@ -38,6 +43,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
