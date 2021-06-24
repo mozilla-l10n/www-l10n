@@ -25,6 +25,7 @@ firefox-home-share-large-files-without = Condividi file di grandi dimensioni al 
 firefox-home-start-sending-files = Invia file in sicurezza
 firefox-home-trade-clickbait-for = Contenuti di qualità, non trappole acchiappaclic!
 firefox-home-learn-more-about-pocket = Scopri di più su { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Protezione completa del dispositivo, per ogni dispositivo
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Un solo accesso da tutti i tuoi dispositivi. Un famiglia di prodotti che rispettano la tua <strong>privacy</strong>.
 firefox-home-join-firefox = Entra in { -brand-name-firefox }

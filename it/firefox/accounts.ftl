@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = Tutto ciò che ti serve sempre disponibil
 firefox-accounts-and-get-it-all-on = Tutto ciò che ti serve sempre disponibile su ogni dispositivo, senza rimanere incatenato a un solo sistema operativo.
 firefox-accounts-get-the-respect-you = Ti garantiamo il rispetto che meriti.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Protezione completa del dispositivo, per ogni dispositivo
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Da noi sentirai sempre e solo la verità. Tutte le azioni che compiamo sono coerenti con la nostra <a href="{ $promise }">Promessa sui dati personali</a>:

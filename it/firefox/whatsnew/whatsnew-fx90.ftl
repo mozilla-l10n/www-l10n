@@ -5,8 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/90.0/whatsnew/all/ ('de', 'fr', 'it', 'nl', 'es-ES')
 
+# Line break (<br>) is for visual formatting only.
+whatsnew90-main-heading = Online ovunque. <br>Sempre al sicuro.
+whatsnew90-main-body = Dal bar al campeggio, dalla stazione alla spiaggia: il Wi-Fi pubblico è comodo, ma non sempre sicuro. { -brand-name-mozilla-vpn } protegge la tua connessione internet e la tua identità ovunque ti trovi.
 whatsnew90-main-cta = Ottieni { -brand-name-mozilla-vpn }
 whatsnew90-block-1-heading = Sicuro e protetto
+whatsnew90-block-1-body = Il Wi-Fi pubblico è uno dei modi più facili per gli hacker di accedere alle tue informazioni personali. { -brand-name-mozilla-vpn } critta la tua attività di rete, nasconde la tua posizione e il tuo indirizzo IP.
 whatsnew90-block-2-heading = Casa è dove si trova la tua VPN
+whatsnew90-block-2-body = Porta il tuo intrattenimento in viaggio o viaggia verso il tuo intrattenimento. Connettiti a oltre 750 server in più di 30 Paesi: guarda contenuti in streaming, gioca e naviga in modo più sicuro con la massima flessibilità.
 whatsnew90-availability-heading = Ora disponibile in altri Paesi, tra cui:
 whatsnew90-availability-body = Germania, Francia, Italia, Spagna, Belgio, Austria e Svizzera.
+whatsnew90-press-logos-heading = Ne hanno parlato
