@@ -20,6 +20,7 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = مولواد
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
@@ -83,6 +84,7 @@
 
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox بہتر ویب
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 
