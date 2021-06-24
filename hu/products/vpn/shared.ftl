@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } beszerzése
 vpn-shared-waitlist-link = Csatlakozzon a várólistához
 vpn-shared-sign-in-link = Már előfizető?
+# Outdated string
 vpn-shared-available-countries = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, az Egyesült Királyságban, Kanadában, Új-Zélandon, Szingapúrban és Malajziában kínáljuk.
+# Outdated string
 vpn-shared-available-countries-v2 = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, az Egyesült Királyságban, Németországban, Franciaországban, Kanadában, Malajziában, Új-Zélandon és Szingapúrban kínáljuk.
+vpn-shared-available-countries-v3 = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, Kanadában, az Egyesült Királyságban, Németországban, Franciaországban, Olaszországban, Spanyolországban, Belgiumban, Ausztriában, Svájcban, Malajziában, Új-Zélandon és Szingapúrban kínáljuk.
 vpn-shared-money-back-guarantee = 30 napos pénzvisszafizetési garancia
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Sajtó
