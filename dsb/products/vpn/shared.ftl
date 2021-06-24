@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstaraś
 vpn-shared-waitlist-link = Pśistupśo cakańskej lisćinje
 vpn-shared-sign-in-link = Sćo južo abonent?
+# Outdated string
 vpn-shared-available-countries = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Zjadnośonem kralojstwu, Kanaźe, Nowoseelandskej, Singapurje a Malajziji póbitujomy.
+# Outdated string
 vpn-shared-available-countries-v2 = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Zjadnośonem kralojstwu, Francoskej, Kanaźe, Malajziji, Nowoseelandskej a Singapurje póbitujomy
+vpn-shared-available-countries-v3 = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Kanaźe, Zjadnośonem kralojstwu, Nimskej, Francoskej, Italskej, Špańskej, Belgiskej, Awstriskej, Šwicaŕskej, Malajziji, Nowoseelandskej a Singapurje póbitujomy.
 vpn-shared-money-back-guarantee = 30-dnjowna garantija slědkdaśa pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Pśedstajony w
@@ -82,6 +85,10 @@ vpn-shared-platform-cta-headline = Zachopmy
 vpn-shared-platform-cta-button = Płaśizny a k-dispoziciji-měśe se woglědaś
 vpn-shared-platform-privacy-promise = Waša priwatnosć jo našo zlubjenje
 vpn-shared-platform-trust-partner-headline = Wo našom dowěrygódnem partnarju
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } w globalnej seśi serwerow běžy, kótaraž se wót <a href="{ $policy }">{ -brand-name-mullvad }</a> z pomocu protokola <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® wobgóspodarjujo. Za { -brand-name-mullvad } waša priwatnosć na prědnem městnje stoj a togodla se waše aktiwity njeprotokolěruju.
 vpn-shared-platform-what-youll-get = Což z { -brand-name-mozilla-vpn } dostanjośo:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
