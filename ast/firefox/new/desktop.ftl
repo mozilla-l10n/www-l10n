@@ -22,9 +22,12 @@ firefox-desktop-download-themes = Estilos
 firefox-desktop-download-dark-mode = Mou escuru
 firefox-desktop-download-library-of-extensions = Biblioteca d'estensiones
 firefox-desktop-download-screenshots = Captures de pantalla
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Tienes entrugues? <a { $attrs }>Sofitu de { -brand-name-mozilla }</a> respuéndete.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye más qu'un restolador.
