@@ -7,5 +7,7 @@
 
 home-promo-title-lalo = Zahajće nowe ideje
 home-promo-title-soraya = Započinamy wottud
+home-promo-title-gary = Twoje wólby su wažne
 home-promo-title-ryan = Započinamy wottud
 home-promo-explore-firefox = Wuslědźće { -brand-name-firefox }
+home-promo-desc-ryan-updated = Wuměłča, hrajerka, atletka a aktiwistka, přiwisnica { -brand-name-firefox }
