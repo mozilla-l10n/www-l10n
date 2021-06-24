@@ -8,8 +8,13 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } をダウンロード
 vpn-shared-waitlist-link = ウェイトリストに登録
 vpn-shared-sign-in-link = 既にサブスクリプションをご契約の場合
+
+# Outdated string
 vpn-shared-available-countries = { -brand-name-mozilla-vpn } は現在、米国、英国、カナダ、ニュージーランド、シンガポール、マレーシアで提供しています。
+
+# Outdated string
 vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } は現在、米国、英国、ドイツ、フランス、カナダ、マレーシア、ニュージーランド、シンガポールで提供しています。
+
 vpn-shared-money-back-guarantee = 30 日間の返金保証
 
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.

@@ -8,8 +8,13 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Dapatkan { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Bergabunglah ke Daftar Tunggu
 vpn-shared-sign-in-link = Sudah menjadi pelanggan?
+
+# Outdated string
 vpn-shared-available-countries = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di AS, Inggris, Kanada, Selandia Baru, Singapura, dan Malaysia.
+
+# Outdated string
 vpn-shared-available-countries-v2 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di AS, Inggris, Jerman, Prancis, Kanada, Malaysia, Selandia Baru, dan Singapura.
+
 vpn-shared-money-back-guarantee = Jaminan uang kembali selama 30 hari
 
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
