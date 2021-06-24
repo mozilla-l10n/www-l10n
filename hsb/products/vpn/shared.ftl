@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstarać
 vpn-shared-waitlist-link = Přistupće čakanskej lisćinje
 vpn-shared-sign-in-link = Sće hižo abonent?
+# Outdated string
 vpn-shared-available-countries = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Zjednoćenym kralestwu, Kanadźe, Nowoseelandskej, Singapurje a Malajziji poskićamy.
+# Outdated string
 vpn-shared-available-countries-v2 = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Zjednoćenym kralestwu, Francoskej, Kanadźe, Malajziji, Nowoseelandskej a Singapurje poskićamy.
+vpn-shared-available-countries-v3 = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Kanadźe, Zjednoćenym kralestwu, Němskej, Francoskej, Italskej, Španiskej, Belgiskej, Awstriskej, Šwicarskej, Malajziji, Nowoseelandskej a Singapurje poskićamy.
 vpn-shared-money-back-guarantee = 30-dnjowska garantija wróćenja pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Předstajeny w
