@@ -657,7 +657,17 @@
     .gender = masculine
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
--brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-vpn =
+    { $case ->
+       *[nom] Mozilla VPN
+        [gen] Mozilly VPN
+        [dat] Mozille VPN
+        [acc] Mozillu VPN
+        [voc] Mozillo VPN
+        [loc] Mozille VPN
+        [ins] Mozillou VPN
+    }
+    .gender = feminine
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-thunderbird =
     { $case ->
@@ -783,6 +793,7 @@
         [ins] Androidem
     }
     .gender = masculine
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $case ->
@@ -795,8 +806,6 @@
         [ins] Linuxem
     }
     .gender = masculine
--brand-name-ubuntu = Ubuntu
-    .gender = neuter
 -brand-name-mac = macOS
 -brand-name-mac-short =
     { $case ->
@@ -809,6 +818,9 @@
         [ins] Macem
     }
     .gender = masculine
+-brand-name-ubuntu = Ubuntu
+    .gender = neuter
+-brand-name-vista = Vista
 -brand-name-windows =
     { $case ->
        *[nom] Windows
@@ -821,8 +833,6 @@
     }
     .gender = masculine
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 
