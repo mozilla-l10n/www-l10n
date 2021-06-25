@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Obtén { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Únete a la lista de espera
 vpn-shared-sign-in-link = ¿Ya te has suscrito?
+# Outdated string
 vpn-shared-available-countries = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur y Malasia.
+# Outdated string
 vpn-shared-available-countries-v2 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda y Singapur.
+vpn-shared-available-countries-v3 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda y Singapur.
 vpn-shared-money-back-guarantee = 30 días de garantía de devolución de dinero
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Destacada en
