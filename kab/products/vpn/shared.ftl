@@ -9,13 +9,16 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Awi { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rnu ɣer tebdart n uṛaǧu
 vpn-shared-sign-in-link = Tmuletɣeḍ yakan?
-vpn-shared-money-back-guarantee = Ṭṭmana n tiririt n yidrimen n 30 n wussan
+vpn-shared-money-back-guarantee = Ṭṭmana n tiririt n yidrimen deg 30 n wussan
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Ayen i d-qqaren fell-aɣ
 vpn-shared-features-encrypt = Awgelhen n uswir n yibenkan
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers }+ iqeddacen deg { $countries }+ timura
 vpn-shared-features-bandwidth = Ulac asemẓi n teɣzi
+vpn-shared-features-activity = Ulac akk lǧerra n uarmud-ik·im n uzeṭṭa yettuskelsen
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Kcem ɣer yiqeddacen deg { $countries }+ timura

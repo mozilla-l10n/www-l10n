@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = Faṛes tagnit seg twacult n yifarisen yes
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } d tatinulujit i yettennaɣen ɣef yizerfan-ik.
 firefox-accounts-get-technology-that = Awi tatinulujit i yettennaɣen ɣef yizerfan-ik.
 firefox-accounts-travel-the-internet = Tunigin taɣelsant i yibenkan-ik meṛṛa.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Awalen uffiren yettwaḍemnen ara yilin yid-k yal amakan.
 firefox-accounts-get-a-lookout-for = Awellihen ticki tella trewla n yisefka.
+# Obsolete string
 firefox-accounts-share-large-files = Afecku aɣelsan i beṭṭu n yifuyla meqqren.
 firefox-accounts-get-it-all-on-every = Ɣef yibenkan-ik meṛṛa, akken yebɣu yella unagraw-ik n wammud.
 firefox-accounts-and-get-it-all-on = Daɣen awi-t ɣef yibenkan-ik meṛṛa, war ma tḥulfeḍ tettwaṭṭfeḍ deg yiwen kan n unagraw n wammud.
 firefox-accounts-get-the-respect-you = Awi aqadeṛ i tuklaleḍ.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Ur ǧin ad awen-neskiddeb. Sekra n wayen i nxeddem, yekcem deg <a href="{ $promise }">insayen itezzin ɣef yisefka udmawanen</a>:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = Efk-aɣ-d afus akken ad nebnu { -brand
 firefox-accounts-get-into-the-open = Awi tikti n uɣbalu yeldin s usekyed n yifarisen yattwaneflayen.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Mudd-aɣ-d afus akken ad nizmir ad neṭṭef tatiknulujit gar yifassen-nneɣ.
+firefox-accounts-we-support-communities = Deg umaḍal meṛṛa, nettɛawan tirebbaɛ i yesseḥbibren ɣef Internet zeddigen. Ddu-d yid-neɣ.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Deg umaḍal meṛṛa, nettɛawan tirebbaɛ i yesseḥbibren ɣef Internet zeddigen. Ddu-d yid-neɣ.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
