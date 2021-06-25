@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = 下载 { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = 加入预约名单
 vpn-shared-sign-in-link = 已经是订阅者？
+# Outdated string
 vpn-shared-available-countries = 目前，我们在美国、英国、加拿大、新西兰、新加坡和马来西亚提供 { -brand-name-mozilla-vpn } 服务。
+# Outdated string
 vpn-shared-available-countries-v2 = 目前，我们在美国、英国、德国、法国、加拿大、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
+vpn-shared-available-countries-v3 = 我们目前在美国、加拿大、英国、德国、法国、意大利、西班牙、比利时、奥地利、瑞士、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
 vpn-shared-money-back-guarantee = 30 天退款保证
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = 媒体报道
