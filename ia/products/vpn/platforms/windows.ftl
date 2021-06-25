@@ -11,7 +11,7 @@
 vpn-windows-page-title = { -brand-name-mozilla-vpn } pro { -brand-name-windows } 10
 vpn-windows-page-description = Protege tote tu PC con un rete virtual private (VPN) de { -brand-name-mozilla }, un pionero de internet que ha luctate pro tu confidentialitate digital desde le 1998.
 # Windows strings
-vpn-windows-hero-headline = Sta connexe e protecte con { -brand-name-mozilla-vpn } pro { -brand-name-windows } 10
+vpn-windows-hero-headline = Resta connectite e protegite con { -brand-name-mozilla-vpn } pro { -brand-name-windows } 10
 vpn-windows-ability = Tu merita sentir te secur online ubi tu es o ubi tu va. Con { -brand-name-mozilla-vpn }, tu pote usar rete wi-fi public e saper que tu connexion es protegite contra piratas informatic e fornitores mitte-naso de internet. Nostre VPN es facile a usar, disponibile pro { -brand-name-windows } 10 (e ulle tu altere apparatos) e non te relenta. Super toto, illo es un VPN de { -brand-name-mozilla } con le protocollo { -brand-name-wireguard }®, assi tu sape que tu datos es cryptate e tu activitate non essera registrate. Illo es solo un elegante, potente VPN que te protege.
 vpn-windows-wifi-headline = Remane private sur rete wi-fi public
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } protege tu connexion a internet contra oculos furtive, de sorta que tu pote navigar circa tu negotios ubique, le aeroporto, un camera a dormir, un bar, sin preoccupar te re tu confidentialitate online.

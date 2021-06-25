@@ -77,7 +77,7 @@ navigation-sign-up = Inscriber se
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Veloce. Simple. Private.
 navigation-protect-your-entire-device = Protege completemente tu apparato e tote le applicationes. Masca tu position real e connecte maximo 5 apparatos. Inscribe te ora.
 # Outdated string
-navigation-connected-and-protected = Connexe e protegite
+navigation-connected-and-protected = Connectite e protegite
 navigation-join = Junge te a nos
 navigation-close-join-menu = Clauder le menu de junger se
 navigation-sign-in = Aperir session
