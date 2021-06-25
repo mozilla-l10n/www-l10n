@@ -9,6 +9,7 @@ misinformation-false-info-heading = غلط معلومات کہاں ظاہر ہو
 misinformation-look-at-url = یو آر ایل  اور / یا ماخذ دیکھیں۔
 misinformation-overly-sensational = کیا سرخی حد سے زیادہ سنسنی خیز ہے؟
 misinformation-content-up-to-date = کیا مواد جدید ہے؟
+misinformation-images-captions = کیا تصاویر اور سرخیاں میل کھاتی ہیں؟
 misinformation-why-trust-firefox = { -brand-name-firefox } پر کیوں اعتماد کریں؟
 misinformation-learn-more-about-our-mission = ہمارے مشن کے بارے میں مزید معلومات حاصل کریں
 misinformation-your-privacy-by-the-product = آپ کی رازداری ، مصنوع کے لحاظ سے

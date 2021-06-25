@@ -8,5 +8,6 @@
 
 # Meta strings
 
+vpn-windows-page-title = { -brand-name-windows } 10  کے لیے { -brand-name-mozilla-vpn }
 vpn-windows-wifi-headline = عوامی وائی فائی پر نجی رہیں
 vpn-windows-log-headline = آپ کی رازداری ہماری ترجیح ہے
