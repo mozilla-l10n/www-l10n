@@ -22,7 +22,7 @@ what-is-a-browser-a-web-browser-long = Un navigator del Web te porta ubique in i
 what-is-a-browser-sadly-not-all = Tristemente, non tote le productores de navigator opta pro interpretar le formato in le mesme maniera. Pro le usatores, isto significa que un sito web poter apparer e functionar differentemente. Le creation del consistentia inter navigatores, de maniera que omne usator pote fruer del internet, non importa le navigator que illes elige, se appella <a href="{ $standards }">standards web</a>.
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
-what-is-a-browser-when-the-web-browser = Quando le navigator del web reporta datos de un servitor connexe a internet, illo usa un pecia de software appellate motor de rendition pro traducer ille datos in texto e imagines. Iste datos es scribite in <a href="{ $html }">Hypertext Markup Language</a> (HTML) e le navigatores del web lege iste codice pro crear lo que nos vide, audi e experientia in internet.
+what-is-a-browser-when-the-web-browser = Quando le navigator del web obtene datos de un servitor connectite a internet, illo usa un pecia de software appellate motor de rendition pro traducer ille datos in texto e imagines. Iste datos es scribite in <a href="{ $html }">Hypertext Markup Language</a> (HTML) e le navigatores del web lege iste codice pro crear lo que nos vide, audi e experientia in internet.
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL

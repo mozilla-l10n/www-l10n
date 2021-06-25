@@ -22,6 +22,6 @@ welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Comparti grande files con le cryptographia end-to-end, con un ligamine que expira automaticamente.
 welcome-page8-try-send = Prova { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
-welcome-page8-stay-connected = Sta connexe a qui tu non pote star proxime in le  vita real, ma impediente { -brand-name-facebook } de sequer tu movimentos online.
+welcome-page8-stay-connected = Resta connectite al personas con qui tu non pote esser in le vita real, e impedi a { -brand-name-facebook } de sequer te in linea.
 welcome-page8-add-facebook-container = Adde { -brand-name-facebook-container }
 welcome-page8-why-am-i = Proque vide io isto?
