@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Cael { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ymunwch â'r Rhestr Aros
 vpn-shared-sign-in-link = Eisoes yn danysgrifiwr?
+# Outdated string
 vpn-shared-available-countries = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia.
+# Outdated string
 vpn-shared-available-countries-v2 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia.
+vpn-shared-available-countries-v3 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn y DU, yr Almaen, Ffrainc, Sbaen, Gwlad Belg, Awstria, y Swistir, yr UDA, Canada, Seland Newydd, Singapore, a Malaysia.
 vpn-shared-money-back-guarantee = Gwarant arian-yn-ôl 30 diwrnod
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Sylw yn
