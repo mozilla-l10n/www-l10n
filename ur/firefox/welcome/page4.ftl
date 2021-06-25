@@ -9,7 +9,7 @@
 welcome-page4-download-the-firefox-browser = { -brand-name-ios } اور { -brand-name-android } کے لئے اپنے موبائل پر { -brand-name-firefox-browser } براؤزر ڈاؤن لوڈ کریں
 welcome-page4-wallet-keys-phone-firefox = پرس چابیاں فون. <strong> { -brand-name-firefox }</ strong>
 welcome-page4-take-privacy-with-you-on-every = ہر آلہ پر اپنے ساتھ رازداری رکھیں - اور ڈیٹا ٹریکرز کو پیچھے چھوڑ دیں۔
-welcome-page4-get-the-firefox-app = { -brand-name-firefox } ایب حاصل کریں
+welcome-page4-get-the-firefox-mobile = { -brand-name-firefox } موبایل حاصل کریں
 welcome-page4-get-firefox-on-your-phone = اپنے فون پر { -brand-name-firefox } حاصل کریں
 welcome-page4-send-the-download-link-right = ڈاؤن لوڈ کا ربط سیدھے اپنے فون یا ای میل پر ارسال کریں۔
 welcome-page4-download-firefox-for-your = اپنے اسمارٹ فون یا ٹیبلٹ میں { -brand-name-firefox } ڈائونلوڈ کریں۔
