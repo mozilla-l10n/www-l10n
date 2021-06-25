@@ -19,6 +19,7 @@ vpn-shared-features-encrypt = Awgelhen n uswir n yibenkan
 vpn-shared-features-servers = { $servers }+ iqeddacen deg { $countries }+ timura
 vpn-shared-features-bandwidth = Ulac asemẓi n teɣzi
 vpn-shared-features-activity = Ulac akk lǧerra n uarmud-ik·im n uzeṭṭa yettuskelsen
+vpn-shared-features-activity-logs = Ulac iɣmisen n urmud yettukelsen srid ama tura, ama ɣer sdat
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Kcem ɣer yiqeddacen deg { $countries }+ timura
