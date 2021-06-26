@@ -12,15 +12,20 @@ firefox-home-meet-our-family-of = Познакомьтесь с нашим се�
 firefox-home-get-trackers-off = Сбейте более 2000 трекеров со своего следа — включая { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Узнавайте об атаках хакеров — и будьте на шаг впереди
 firefox-home-start-getting-breach = Начните получать уведомления об утечках
+# Obsolete string
 firefox-home-keep-your-passwords = Храните ваши пароли в безопасности на всех устройствах
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Узнайте больше о { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Получите <strong>уважение</strong>, которого вы заслуживаете
 firefox-home-every-single-firefox = Каждый продукт { -brand-name-firefox } следует нашему Обещанию по Личным Данным: <strong>Собирать меньше. Держать в безопасности. Никаких секретов.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Делитесь большими файлами, скрыв их от любопытных глаз
+# Obsolete string
 firefox-home-start-sending-files = Начните безопасно отправлять файлы
 firefox-home-trade-clickbait-for = Обменяйте кликбейты на качественный контент
 firefox-home-learn-more-about-pocket = Узнайте больше о { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Защита всего вашего устройства на любом устройстве.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Один аккаунт. Все ваши устройства. Семейство продуктов, которые уважают вашу <strong>приватность</strong>.
 firefox-home-join-firefox = Присоединитесь к сообществу { -brand-name-firefox }
@@ -29,6 +34,7 @@ firefox-home-get-the-browser-extension = Загрузить браузерные
 firefox-home-get-the-facebook-container = Загрузить расширение { -brand-name-facebook-container }
 firefox-home-download-the-browser = Загрузить браузер
 firefox-home-download-the-app = Загрузить приложение
+firefox-home-get-mozilla-vpn = Получить доступ к { -brand-name-mozilla-vpn }
 firefox-home-desktop = Компьютер
 firefox-home-browsers = Браузеры
 firefox-home-android = { -brand-name-android }
@@ -38,6 +44,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

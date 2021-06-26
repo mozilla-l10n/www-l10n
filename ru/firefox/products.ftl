@@ -21,11 +21,19 @@ firefox-products-desktop = Для компьютера
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Посмотреть все браузеры
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = Получить доступ к { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Храните свои пароли в безопасности и получайте к ним доступ на всех ваших синхронизируемых устройствах.
+# Obsolete string
 firefox-products-download-lockwise = Загрузить { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Открыть в { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Узнайте больше о { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Отправляйте ваши большие файлы и важные документы безопасно, до 2,5 ГБ.
 firefox-products-send-a-file = Отправить файл
