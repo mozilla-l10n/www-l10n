@@ -16,12 +16,21 @@ vpn-shared-pricing-recommended-offer = تجویز کردہ
 vpn-shared-pricing-plan-6-month = 6 ماہ
 vpn-shared-pricing-plan-12-month = 12 ماہ
 vpn-shared-pricing-plan-monthly = ماہانہ
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-get-6-month = 6 ماہ کا منصوبہ حاصل کریں
+vpn-shared-pricing-get-12-month = 12 ماہ کا منصوبہ حاصل کریں
+vpn-shared-pricing-get-monthly = ماہانہ منصوبہ حاصل کریں
 
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = چلو شروع کریں
+vpn-shared-platform-cta-button = قیمتیں اور دستیابی دیکھیں
+vpn-shared-platform-privacy-promise = آپ کی رازداری ہمارا وعدہ ہے
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = وی پی این کیا ہے؟
 vpn-subnav-faqs = FAQs
 vpn-subnav-get-help = مدد حاصل کریں
 vpn-subnav-platform-android = { -brand-name-android }
