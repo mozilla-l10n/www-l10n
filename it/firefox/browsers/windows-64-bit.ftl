@@ -29,5 +29,5 @@ windows-64-bit-if-you-see-32-bit-older = Se vedi “(32 bit)” e stai usando { 
 windows-64-bit-if-you-see-32-bit-newer = Se vedi “(32 bit)” e stai usando { -brand-name-firefox } 56.0.1 o una versione più recente, è probabile che il tuo computer non soddisfi i requisiti minimi di memoria per i 64 bit (3 GB di RAM o più). Puoi comunque scegliere di installare { -brand-name-firefox } a 64 bit manualmente.
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
-windows-64-bit-if-you-need-to-run = Sei vuoi scaricare { -brand-name-firefox } a 32 bit, o istallare manualmente { -brand-name-firefox } a 64 bit, scarica e avvia di nuovo il programma di installazione di { -brand-name-firefox } per { -brand-name-windows } (a 32 bit o a 64 bit) dalla <a href="{ $all }">pagina di download di { -brand-name-firefox } per piattaforme e lingue.</a>
+windows-64-bit-if-you-need-to-run = Sei vuoi scaricare { -brand-name-firefox } a 32 bit, o installare manualmente { -brand-name-firefox } a 64 bit, scarica e avvia di nuovo il programma di installazione di { -brand-name-firefox } per { -brand-name-windows } (a 32 bit o a 64 bit) dalla <a href="{ $all }">pagina di download di { -brand-name-firefox } per piattaforme e lingue.</a>
 windows-64-bit-take-control-of-your = Prendi il controllo del browser.
