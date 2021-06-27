@@ -33,3 +33,5 @@ vpn-linux-devices-headline = Conecta hasta { $devices } dispositivos
 vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $device } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } para { -brand-name-iphone } e { -brand-name-ipad }.
 vpn-linux-speed-headline = Ultrarrápido con datos ilimitados
 vpn-linux-speed-copy = Juega, reproduce películas y series, y navega por la web a velocidades ultrarrápidas y sin limitaciones de ancho de banda — { -brand-name-mozilla-vpn } es ilimitado.
+vpn-linux-log-headline = Tus datos te pertenecen
+vpn-linux-log-copy = Algunos VPN registran tu actividad en sus servidores. { -brand-name-mozilla-vpn } no te rastrea en línea — de hecho, eso es una gran parte de lo que defendemos como compañía.
