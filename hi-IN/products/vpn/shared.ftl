@@ -15,6 +15,7 @@ vpn-shared-available-countries = फ़िलहाल हम { -brand-name-mozi
 # Outdated string
 vpn-shared-available-countries-v2 = फ़िलहाल हम { -brand-name-mozilla-vpn } को अमेरिका, यूनाइटेड किंगडम, जर्मनी, फ्रांस, कनाडा, मलेशिया, न्यूज़ीलैंड और सिंगापुर में प्रदान करते हैं।
 
+vpn-shared-available-countries-v3 = फ़िलहाल में हम { -brand-name-mozilla-vpn } को यूएस, कनाडा, यूके, जर्मनी, फ्रांस, इटली, स्पेन, बेल्जियम, ऑस्ट्रिया, स्विट्ज़रलैंड, मलेशिया, न्यूज़ीलैंड और सिंगापुर में प्रदान कर रहे हैं।
 vpn-shared-money-back-guarantee = 30-दिन में धनवापसी की गारंटी
 
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
