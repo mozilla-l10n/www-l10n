@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } para { -brand-name-ios } ({ -brand-name-iphone } e { -brand-name-ipad })
+vpn-ios-page-description = Obtén seguridad rápida y sencilla en tu { -brand-name-iphone } o { -brand-name-ipad } gracias a { -brand-name-mozilla }, uno de los nombres de mayor confianza en tecnología.
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Conéctate a { $servers } + servidores en todo el mundo
