@@ -37,3 +37,7 @@ vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Móvil
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-platforms-shared-trust-partner-headline = Acerca de nuestro socio de confianza
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-platforms-shared-trust-partner = { -brand-name-mozilla-vpn } funciona sobre una red global de servidores proporcionada por <a href="{ $policy }">{ -brand-name-mullvad }</a> usando el protocolo <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } prioriza tu privacidad y no guarda registros de ningún tipo.
