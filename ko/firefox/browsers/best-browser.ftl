@@ -32,4 +32,13 @@ best-browser-firefox-is-offering = { -brand-name-firefox }는 사용자를 안�
 best-browser-we-visit-hundreds-or = 우리는 매일 수백 또는 수천 개의 웹 사이트를 방문하는데 사용자가 각 사이트에 대해 보안 및 개인 정보 보호 결정을 내리기를 기대할 수는 없습니다. 그렇기 때문에 브라우저가 더 많은 제어 기능을 제공하는 것이 매우 중요합니다. 실제로 의미있는 보호 기능을 제공하기 때문입니다.
 best-browser-a-browser-that-minds = 비즈니스를 생각하는 브라우저
 best-browser-privacy-on-the-web = 웹상의 개인 정보는 민감한 문제입니다. 개인 정보 보호가 최우선 순위라면 이를 진지하게 다루는 브라우저를 찾고 싶을 것입니다. 가장 적합한 개인 브라우저를 선택할 때 추적 정책과 브라우저가 데이터를 처리하는 방법을 살펴보십시오. 이는 기술적인 질문처럼 보이지만 어떤 브라우저가 다른 브라우저보다 더 개인 정보 보호가 강한 이유이기도 합니다.
+best-browser-trackers-are-all-those = 추적기는 항공사 사이트를 방문했을 때 볼 수 있는 “쿠키” 메시지같은 것입니다. 이러한 타사 추적기는 사용자가 클릭 한 위치를 알고서 사용자의 행동을 분석하는 데 사용할 수 있습니다. 사생활을 보호하는 브라우저는 사용자에게 타사 추적기를 끌 수있는 옵션을 제공해야 합니다. 이상적으로는 기본값으로 끈상태로 제공하는 것이 좋습니다.
+best-browser-another-way-to-stop = 트래커 추적을 중지하는 또 다른 방법은 개인 모드를 사용하여 탐색하는 것입니다. 개인 정보 보호를 주장하는 모든 브라우저는 비공개 모드 브라우징을 제공해야합니다.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-one-easy-way-to-check = 이를 확인하는 쉬운 방법 중 하나는 브라우저의 콘텐츠 설정 페이지와 개인 정보 취급 방침을 방문하는 것입니다. 개인 정보 페이지에는 데이터 공유 여부와 이유가 설명되어 있어야 합니다. 이것이 <a href="{ $privacy }">{ -brand-name-firefox } 개인 정보 보호 정책</a>이 읽기 쉽고 찾기 쉬운 이유입니다.
+best-browser-choosing-the-best-browser = 나에게 가장 적합한 브라우저를 선택하는 것은 집을 선택하는 것과 유사합니다. 사용자는 옵션을 탐색하고 조사하고 중요한 사항을 기반으로 결정을 내리고 싶어 합니다.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/firefox/new/
+best-browser-at-firefox-weve-worked = <a href="{ $firefox }">{ -brand-name-firefox }</a>에서는 이전보다 두 배 빠른 브라우저를 만들고 사용자가 온라인 생활을 더 잘 제어 할 수 있도록 열심히 노력했습니다.
 best-browser-take-control-of-your = 브라우저를 제어하세요.
