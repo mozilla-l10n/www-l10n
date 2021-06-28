@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # HTML page title
-compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: 어느것이 나을까요?
+compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: 어느 것이 나을까요?
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = { -brand-name-mozilla } { -brand-name-firefox }와 { -brand-name-google } { -brand-name-chrome }을 개인 정보 보호, 유용성, 휴대성 측면에서 비교해보겠습니다.
 # Main title.
@@ -24,6 +24,8 @@ compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -bran
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
 compare-chrome-ultimately-its-up-to-you = 궁극적으로 검색 및 쇼핑 기록과 같은 정보를 공유할 지 여부를 결정하는 것은 사용자에게 달려 있습니다. 하지만 대부분의 사람들과 같은 사람이라면 인터넷에서 비공개로 유지하면서 원하는 것을 검색했을 것입니다.
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.
+compare-chrome-fast-forward-to-today-the-updated = 최근에는 많은 사람들이 인터넷 사용 기록, 비밀번호 및 기타 민감한 정보와 같은 온라인 데이터에 무슨 일이 일어나고 있는지 의문을 갖기 시작하면서 웹 브라우저의 경쟁 환경이 바뀌고 있습니다. 2008 년 { -brand-name-chrome }이 등장한 이후 많은 변화가 있었습니다. { -brand-name-firefox }에서는 인터페이스를 재 설계하고 점점 많아지고 자동으로 기본값으로 설정되는 개인정보 보호와 성능 향상 기능을 편리한 브라우저 도구와 함께 제공하기 위해 노력하고 있습니다.
+# Obsolete string
 compare-chrome-fast-forward-to-today-the = 최근에는 많은 사람들이 인터넷 사용 기록, 비밀번호 및 기타 민감한 정보와 같은 온라인 데이터에 무슨 일이 일어나고 있는지 의문을 갖기 시작하면서 웹 브라우저의 경쟁 환경이 바뀌고 있습니다. 2008 년 { -brand-name-chrome }이 등장한 이후 많은 변화가 있었습니다. { -brand-name-firefox }에서는 인터페이스를 재 설계하고 사용자에게 점점 더 많은 개인 정보 보호 및 성능 향상과 편리한 브라우저 도구를 제공하기 위해 노력하고 있습니다.
 compare-chrome-and-so-here-we-are-the-browser = 이제 새로운 웹 브라우저 전쟁이 다시 한 번 확대되고 있으며, { -brand-name-firefox-browser } 대 { -brand-name-google } { -brand-name-chrome }을 재평가하고 비교해 볼 때입니다.
 compare-chrome-in-2008-google-introduced = 2008년에 { -brand-name-google }은 { -brand-name-chrome }을 도입했으며 웹 브라우저 기술의 혁신으로서의 그 영향은 즉각적이었습니다. 웹 사이트 로딩 속도가 빨랐고 화면 공간을 최소한으로 차지했으며, 부인할 수 없을 정도로 간단한 사용자 인터페이스를 제공했습니다.
@@ -37,6 +39,8 @@ compare-chrome-while-chrome-gets-the-nod = { -brand-name-chrome }이 부가 기�
 compare-chrome-although-not-as-extensive = { -brand-name-chrome }의 부가 기능 만큼 광범위하지는 않지만 { -brand-name-firefox }는 많은 수의 적극적인 공헌자들이 만들어내는 다수의 오픈 소스 기반 유용한 확장 기능을 제공합니다.
 compare-chrome-if-having-tons-of-open-tabs = 여러분이 탭을 많이 여는 분이라면, 편리함은 환경 설정을 어떻게 하느냐에 달려 있습니다. { -brand-name-firefox }는 열려있는 모든 탭에 가로 스크롤 기능이 있으며 새 탭마다 작게 축소되지 않습니다. { -brand-name-google } { -brand-name-chrome }은 파비콘 만 표시되도록 축소하는 것을 선호합니다. 하지만, 같은 웹 사이트에서 여러 개의 탭이 열려있는 경우, 탭 전체에 동일한 파비콘이 표시될 수도 있습니다.
 compare-chrome-almost-needless-to-say-versions = { -brand-name-firefox } 및 { -brand-name-chrome } 모두 가장 인기 있는 데스크톱 및 모바일 운영 체제인 ({ -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, { -brand-name-ios })에서 사용 가능합니다.
+compare-chrome-both-chrome-and-firefox-also-updated = { -brand-name-chrome }과 { -brand-name-firefox } 모두 모든 기기에서 비밀번호와 북마크, 열린 탭과 같은 항목을 동기화 할 수 있습니다. { -brand-name-firefox }는 추가적인 잠금장치와 키를 설정해서 모든 저장된 로그인과 비밀번호를 보호하는 기본 비밀번호의 추가 보안 장치를 가지고 있습니다. { -brand-name-firefox } 계정이 있는 경우, 데스크톱의 열린 탭을 수동으로 모바일 장치로 보내거나 그 반대로 할 수 있습니다. { -brand-name-chrome }을 사용하면, 환경 설정에서 해당 설정을 선택한 경우에 자동으로 기능을  수행합니다. 한 장치에서 다른 장치로 수동으로 탭을 보낼 필요가 없이 이전에 본 웹 페이지를 편하게 다시 볼 수 있습니다. 하지만 사용자가 { -brand-name-google } 계정에 로그인 한 상태에서 여러 사용자가 탐색을 하게 되는 경우 자동 동기화가 항상 좋지만은 않습니다.
+# Obsolete string
 compare-chrome-both-chrome-and-firefox-also = { -brand-name-chrome } 및 { -brand-name-firefox } 모두 모든 기기에서 비밀번호, 북마크 및 열린 탭과 같은 항목을 동기화 할 수 있습니다. { -brand-name-firefox } 계정이 있는 경우, 데스크톱의 열린 탭을 수동으로 모바일 장치로 보내거나 그 반대로 할 수 있습니다. { -brand-name-chrome }을 사용하면, 환경 설정에서 해당 설정을 선택한 경우에 자동으로 기능을  수행합니다. 한 장치에서 다른 장치로 탭을 수동으로 보낼 필요가 없는 것은 이전에 본 웹 페이지를 다시 봐야 하는 경우에 편리합니다. 하지만, 사용자가 { -brand-name-google } 계정에 로그인 한 상태에서 탐색 할 가능성이 있는 경우, 자동 동기화가 다 좋을 수는 없을 것입니다.
 # "Neck and neck" means they are evenly matched. Alternative: "evenly matched". "Baked-in" means it's included, not added in later. Alternatives: "built-in" or "included".
 compare-chrome-we-think-its-fair-to-say = { -brand-name-firefox }와 { -brand-name-chrome }이 휴대성 및 유용성 측면에서 대등하다고 생각합니다. { -brand-name-chrome }은 유용성에서 약간 우위를 가지고 있습니다. 확장 및 추가 기능의 방대한 라이브러리 때문입니다. 그러나, 개인 정보 보호 측면에서 { -brand-name-firefox }는 사용자의 온라인 데이터를 관리하고, 데이터 침해가 발생하는 경우에, 여러분의 접근 자격을 확인하기 위한 경고를 표시하는 기본 비밀번호 관리자와 같은 무료 기본 서비스를 제공하고 있습니다.
