@@ -31,4 +31,5 @@ best-browser-last-but-not-least = 마지막으로 안전한 브라우저는 계�
 best-browser-firefox-is-offering = { -brand-name-firefox }는 사용자를 안전하게 보호하기 위한 새로운 기능을 제공합니다. <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>는 계정에 공개 해킹이있는 경우 알림을 제공하고 계정이 과거에 해킹 당했는지 알려주는 무료 서비스입니다. 또 다른 깔끔한 기능으로 Green Lock이 있습니다. 브라우저 창의 왼쪽 상단에 작은 녹색 아이콘처럼 보입니다. { -brand-name-firefox }를 사용 중이고 녹색 자물쇠가 보이면 웹 사이트가 암호화되었고 안전하다는 의미입니다. 자물쇠가 회색이면 민감한 정보 입력에 대해 다시 생각할 수 있습니다.
 best-browser-we-visit-hundreds-or = 우리는 매일 수백 또는 수천 개의 웹 사이트를 방문하는데 사용자가 각 사이트에 대해 보안 및 개인 정보 보호 결정을 내리기를 기대할 수는 없습니다. 그렇기 때문에 브라우저가 더 많은 제어 기능을 제공하는 것이 매우 중요합니다. 실제로 의미있는 보호 기능을 제공하기 때문입니다.
 best-browser-a-browser-that-minds = 비즈니스를 생각하는 브라우저
+best-browser-privacy-on-the-web = 웹상의 개인 정보는 민감한 문제입니다. 개인 정보 보호가 최우선 순위라면 이를 진지하게 다루는 브라우저를 찾고 싶을 것입니다. 가장 적합한 개인 브라우저를 선택할 때 추적 정책과 브라우저가 데이터를 처리하는 방법을 살펴보십시오. 이는 기술적인 질문처럼 보이지만 어떤 브라우저가 다른 브라우저보다 더 개인 정보 보호가 강한 이유이기도 합니다.
 best-browser-take-control-of-your = 브라우저를 제어하세요.
