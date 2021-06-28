@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = แถลงการณ์ { -brand-name-mozilla }
+footer-privacy-hub = ศูนย์กลางความเป็นส่วนตัว
 footer-privacy = ความเป็นส่วนตัว
 footer-press = สื่อ
 footer-brand-standards = มาตรฐานแบรนด์
