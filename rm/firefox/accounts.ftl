@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = Scuvra nossa paletta da products per prote
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } è tecnologia che cumbatta per tai.
 firefox-accounts-get-technology-that = Tscherna tecnologia che batta per tai.
 firefox-accounts-travel-the-internet = Navighescha a moda segira en l'internet, cun mintga apparat.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Guarda che tes pleds-clav sajan segirs ed adina per mauns.
 firefox-accounts-get-a-lookout-for = Tegna en egl ils enguladitschs da datas.
+# Obsolete string
 firefox-accounts-share-large-files = Cundivida datotecas grondas senza mirs cun ureglias.
 firefox-accounts-get-it-all-on-every = Tut sin mintga apparat, senza esser piglià en in sistem operativ.
 firefox-accounts-and-get-it-all-on = E tut sin mintga apparat, senza esser piglià en in sistem operativ.
 firefox-accounts-get-the-respect-you = Ti survegns il respect che ti meritas.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Da nus vegns ti adina ad udir la vardad. Tut quai che nus faschain, faschain nus tenor l'<a href="{ $promise }">empermischun davart tias datas persunalas</a>:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = Ans gida da meglierar { -brand-name-fi
 firefox-accounts-get-into-the-open = Collavurescha tenor il spiert dad open source e testescha products futurs.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Ans gida da tegnair a mastrin ils gigants da l'industria tecnologica.
+firefox-accounts-we-support-communities = Nus gidain communitads sin tut il mund che s'engaschan per in meglier internet. Sustegna il cumbat cun tia vusch.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Nus gidain communitads sin tut il mund che s'engaschan per in meglier internet. Sustegna il cumbat cun tia vusch.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
