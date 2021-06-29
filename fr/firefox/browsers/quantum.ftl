@@ -14,6 +14,7 @@ learn-more-about = En savoir plus sur { -brand-name-firefox-quantum }
 privacy-first = La confidentialité avant tout
 firefox-doesnt-spy = { -brand-name-firefox } ne vous espionne pas en ligne. Nous arrêtons de nombreux cookies de suivi tiers connus et vous donnons un contrôle total.
 super-fast = Ultra rapide
+get-speed-and = Naviguez rapidement et en sécurité. { -brand-name-firefox } est rapide, car nous ne pistons pas votre navigation.
 always-evolving = Évolue constamment
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features

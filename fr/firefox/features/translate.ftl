@@ -5,3 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# page description
+features-translate-translate-more-than = Traduisez à partir de plus de 100 langues vers votre langue directement dans le { -brand-name-firefox-browser }, plus facilement que jamais.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-the-extension = Installer l’extension
