@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-a-better-internet-experience = A better internet experience
+features-shared-more-firefox-features = Mair { -brand-name-firefox } stravaiger featurs
+features-shared-browse-faster = Stravaig faster
 brand-name-firefox = { -brand-name-firefox }

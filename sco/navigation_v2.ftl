@@ -34,22 +34,50 @@ navigation-v2-see-if-your-email-has = Check if yer email has kythed itsel in a c
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Save and airt oot the best stories fae aw ower the wab.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Help hinder { -brand-name-facebook } fae gaitherin yer data ootside their site.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Get bieldin ayont yer stravaiger, on aw yer devices.
+navigation-v2-product-promise = Product Promise
+navigation-v2-learn-how-each-firefox-product = Lairn how ilka { -brand-name-firefox } product bields and taks tent o yer data.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Sign up fur new accoonts withoot haunin ower yer email address.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = Bield yer stravaiger’s connection tae the internet.
+navigation-v2-view-all-products = View aw Products
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Wha We Are
+navigation-v2-close-who-we-are-menu = Sneck Wha We Are menu
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Manifesto
+navigation-v2-learn-about-the-values = Lairn aboot the vailues and principles that guide oor mission.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Meet the no-fur-profit ahint { -brand-name-firefox } that stauns fur a better wab.
 navigation-v2-get-involved = Tak pairt
+navigation-v2-join-the-fight-for-a = Jyne the fecht for a soonder internet.
+navigation-v2-leadership = Leadership
+navigation-v2-meet-the-team-thats-building = Meet the team that’s biggin technology fur a better internet.
 navigation-v2-careers = Jobs
+navigation-v2-work-for-a-mission-driven-updated = Wirk fur a mission-driven organisation that maks fowk-first products.
+navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
+navigation-v2-learn-about-mozilla-and = Lairn aboot { -brand-name-mozilla } and the issues that maitter tae us.
+navigation-v2-more-about-mozilla = Mair Aboot { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = New-fanglin
+navigation-v2-close-innovation-menu = Sneck New-fanglin menu
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Gaither in this interactive, online, multi-dimensional social space.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Get the { -brand-name-firefox } stravaiger biggit jist fur forderers.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Check oot the hame fur wab forderer resoorces.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Stravaig the wab wi the { -brand-name-firefox } stravaiger fur virtual reality.
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Gie yer vyce sae that the future o the wab can hear awbodie.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Lairn mair aboot the new, low-level, assembly-like leid.
+navigation-v2-more-mozilla-innovation = Mair { -brand-name-mozilla } New-fanglin
