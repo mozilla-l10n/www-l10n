@@ -101,9 +101,44 @@ firefox-desktop-download-challenging-the-status = Challengin the status quo syne
 firefox-desktop-download-your-privacy-comes = Yer privacy comes first
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Keep aw yer favourite stravaiger featurs — and <strong>airt oot</strong> new yins.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Aw yer favourite { -brand-name-google } tools (like Gmail and Docs) wirk seamlessly in the { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Doonload this stravaiger extension</a> tae stap { -brand-name-facebook } (and { -brand-name-instagram }) fae trackin ye aroond the wab.
+firefox-desktop-download-sync-your-devices = Sync yer devices
 firefox-desktop-download-screenshots = Screenshots
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Augmentit Trackin Bieldin (ATB)
+firefox-desktop-download-from-watching-a = Fae watchin a wab tutorial tae keepin an ee on yer favourite team, yer video follaes ye while ye multitask.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Get { -brand-name-firefox-browser } fur <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Get { -brand-name-firefox-browser } fur <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Doonload the { -brand-name-firefox } mobile stravaiger fur automatic bieldin on aw yer devices.
+firefox-desktop-download-learn-about-the = Lairn aboot the { -brand-name-firefox } desktap stravaiger ablow
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Fae siccarness tae news tae gemmes, there’s an <a { $attrs }>extension fur awbodie</a>. Eik on as monie as ye want until yer stravaiger is jist richt.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wis makkit by <a { $attrs }>{ -brand-name-mozilla }</a> as a faster, mair private alternative tae stravaigers like { -brand-name-ie }, and noo { -brand-name-chrome }. The day, oor mission-driven company and volunteer community haud forrit wi pittin yer privacy abuin awthin else.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = As the internet growes and chynges, { -brand-name-firefox } continues tae focus on yer richt tae privacy  — we caw it the <a { $attrs }>Personal Data Promise</a>: Tak less. Keep it sauf. Nae secrets. Yer data, yer wab ongauns, yer life online is bieldit wi { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is available on aw yer devices; tak yer tabs, historie and buikmerks wi ye. Aw ye need is a <a { $attrs }>{ -brand-name-firefox } accoont</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Glaum a high-resolution image o oniethin online wi oor <a { $attrs }>screenshot</a> tool biggit richt intae the stravaiger
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automatically <a { $attrs }>blocks monie third pairty trackers</a> fae gaitherin and sellin yer wab ongauns.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Speirins? <a { $attrs }>{ -brand-name-mozilla } support</a> hiv got ye sortit.
 firefox-desktop-download-get-more-from-firefox = Get Mair Fae { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Doonload The Stravaiger, Jist
 
