@@ -27,13 +27,31 @@ navigation-read-about-new-firefox = Read aboot new { -brand-name-firefox } featu
 navigation-the-non-profit-behind = The non-profit ahint { -brand-name-firefox } is fechtin fur a soonder internet fur aw.
 navigation-learn-how-firefox-treats = Lairn how { -brand-name-firefox } treats yer data wi respect.
 navigation-mozilla-careers = { -brand-name-mozilla } Careers
+navigation-approach-your-career = Weir intae yer career wi a sense o purpose. Airt oot wark wirth the daein at { -brand-name-mozilla }.
 navigation-close-firefox-menu = Sneck { -brand-name-firefox } menu
+navigation-get-the-browser-that-gives = Get the stravaiger that gies mair pouer tae yersel on { -brand-name-windows }, { -brand-name-mac } or { -brand-name-linux }.
+navigation-take-firefox-and-firefox = Tak { -brand-name-firefox } and { -brand-name-firefox-focus } wi ye. Fur { -brand-name-android } and { -brand-name-ios }.
 navigation-get-firefox = Get { -brand-name-firefox }
 navigation-get-firefox-focus = Get { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } Extensions
 navigation-your-firefox-account = Yer { -brand-name-firefox-account }
+navigation-make-the-most-of-your = Mak the maist o yer { -brand-name-firefox } experience, across ilka device.
+# Outdated string
+navigation-learn-how-to-customize = Lairn how tae mak yer ain o the wey { -brand-name-firefox } wirks.
+navigation-explore-the-immersive = Stravaig the immersive wab on yer virtual reality heidset.
+# Outdated string
+navigation-experience-augmented = Experience augmentit and virtual reality wi { -brand-name-firefox }.
+navigation-get-together = Get thegither in virtual reality wi this online howff.
+# Outdated string
+navigation-meet-people-in-experimental = Meet fowk in experimental Mixed Reality chatrooms wi { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } brings virtual and augmentit reality tae the open web.
+# Outdated string
+navigation-mozilla-brings-firefox = { -brand-name-mozilla } brings { -brand-name-firefox } tae augmentit and virtual reality.
+navigation-firefox-built-just-for = { -brand-name-firefox }, biggit jist fur forderers.
+navigation-preview-the-latest-build = Preview the latest build o { -brand-name-firefox } and gie us hauners in makkin it the best.
 navigation-firefox-playground = { -brand-name-firefox } Playgrund
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
 navigation-mozilla-manifesto = { -brand-name-mozilla } Manifesto
@@ -45,7 +63,20 @@ navigation-download = Doonload
 navigation-extensions = Extensions
 navigation-support = Hauners
 navigation-privacy = Privacy
+navigation-get-unmatched-data-protection = Get maikless data bieldin on the roll-oot cadence that suits yer organisation.
+navigation-made-with-respect = Makkit wi respect
+navigation-close-products-menu = Sneck Products menu
+navigation-see-if-your-personal = See if yer personal info has been leaked online, and sign up fur future breach alerts.
+navigation-check-for-breaches = Check fur Breaches
+navigation-see-breaches = See Breaches
+navigation-security-tips = Siccarness Tips
+navigation-share-large-files-safely = Share muckle files siccarly, wi links that ‘sel-destruct’.
+navigation-save-quality-content = Save smashin content fae oniewhaur. Forder yer mind everywhaur.
 navigation-sign-up = Sign Up
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Swith. Seemple. Private.
+navigation-protect-your-entire-device = Bield yer hale device and aw applications. Mask yer real airtin and connect up tae 5 devices. Subscribe noo.
+# Outdated string
+navigation-connected-and-protected = Connectit and bieldit
 navigation-join = Jyne
 navigation-close-join-menu = Sneck jyne menu
 navigation-sign-in = Sign In
