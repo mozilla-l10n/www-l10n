@@ -39,3 +39,11 @@ firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Send yer muckle files and sensitive documents siccarly, up tae 2.5G.
 firefox-products-send-a-file = Send a file
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content = Airt oot the best content on the wab — and get fired intae it oniewhaur and ony time ye want.
+firefox-products-get-pocket = Get { -brand-name-pocket }
+firefox-products-learn-more-about-pocket = Lairn mair aboot { -brand-name-pocket }
+firefox-products-join-firefox-and-get-the-most = Jyne { -brand-name-firefox } and get the maist oot o ilka product — across ilka device.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = Awready got an accoont? <a { $fxa_attr }>Sign In</a> or <a { $accounts_attr }>lairn mair</a> aboot jynin { -brand-name-firefox }.
