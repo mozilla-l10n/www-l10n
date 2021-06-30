@@ -25,5 +25,6 @@ vpn-windows-devices-headline = Ñemboheraguapy opaite ne mba’e’okápe
 #   $devices (number) - number of available devices
 vpn-windows-devices-copy = Ñemboheraguapy { -brand-name-mozilla-vpn } ndice nemingéta ekesehápe ore VPN mba’epuru hekorosãvape { $devices } mba’e’okápe { -brand-name-windows } peg̃uarã (oĩhápe { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ha { -brand-name-ios }.
 vpn-windows-speed-headline = Ancho de banda jejoko’ỹ
+vpn-windows-speed-copy = Omombe’u, oñembosarái, ojogua ha oike ñandutípe pya’eterei. Mba’ekuaarã opa’ỹva ndive ha ancho de banda joko’ỹvareve, { -brand-name-mozilla-vpn } ndojuasái hape rupi.
 vpn-windows-log-headline = Ne ñemigua ha’e ore me’ẽmbyrã
 vpn-windows-log-copy = { -brand-name-mozilla } opa ára omba’apóta ñanduti iporãve hag̃ua omotenondéva nde rekoñemi. Upévare { -brand-name-mozilla-vpn } nombyatýi mba’ekuaarã nderehegua ha noñongatúi ne rembiapokue ñandutípe — mavave ore rembiapokue ndojapói.
