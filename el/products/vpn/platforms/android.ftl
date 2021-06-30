@@ -11,6 +11,7 @@ vpn-android-page-description = Λάβετε προστασία στο { -brand-n
 # Mobile strings
 vpn-android-hero-headline = Προστατευτείτε στο διαδίκτυο με το { -brand-name-mozilla-vpn } για { -brand-name-android }
 vpn-android-wifi-headline = Μείνετε ασφαλείς, ακόμα κι όταν βρίσκεστε εν κινήσει
+vpn-android-wifi-copy = Μερικές φορές τα ασύρματα δεδομένα δεν είναι διαθέσιμα και το δημόσιο Wi-Fi είναι η μόνη σας επιλογή. Με το { -brand-name-mozilla-vpn } στην { -brand-name-android } συσκευή σας, δεν θα χρειαστεί ποτέ να ανησυχήσετε για την εισαγωγή κωδικών πρόσβασης στο αεροδρόμιο ή τις αγορές στο διαδίκτυο από το γωνιακό καφέ — συνδεθείτε με ένα μόνο πάτημα και κάντε τη δουλειά σας.
 vpn-android-about-headline = { -brand-name-mozilla }, μια επωνυμία που μπορείτε να εμπιστευτείτε
 vpn-android-privacy-headline = Σύνδεση με ένα πάτημα
 vpn-android-privacy-copy = Η χρήση του { -brand-name-mozilla-vpn } για { -brand-name-android } είναι πολύ απλή. Με το πάτημα ενός κουμπιού, η σύνδεσή σας κρυπτογραφείται αυτόματα με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®. Αυτό ήταν!

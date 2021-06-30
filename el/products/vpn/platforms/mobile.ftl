@@ -24,5 +24,6 @@ vpn-mobile-servers-copy = Περιηγηθείτε από τη Βραζιλία.
 vpn-mobile-devices-headline = Προστασία έως και { $devices } συσκευών
 vpn-mobile-devices-copy = Η συνδρομή σας περιλαμβάνει απεριόριστη πρόσβαση στην υπηρεσία ασφαλούς VPN μας από το smartphone, το tablet και τον υπολογιστή σας σε { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } και { -brand-name-linux }.
 vpn-mobile-speed-headline = Απίστευτη ταχύτητα, χωρίς περιορισμούς
+vpn-mobile-speed-copy = Δείτε βίντεο, παίξτε παιχνίδια, κάντε αγορές και περιηγηθείτε σε αστραπιαίες ταχύτητες. Το { -brand-name-mozilla-vpn } δεν θα περιορίσει το εύρος ζώνης σας, ούτε θα επιβραδύνει το smartphone σας.
 vpn-mobile-log-headline = Το απόρρητό σας έχει προτεραιότητα
 vpn-mobile-log-copy = Στη { -brand-name-mozilla }, δεν συλλέγουμε δεδομένα για εσάς ούτε καταγράφουμε τη δραστηριότητά σας — ούτε στο VPN ούτε στα υπόλοιπα προϊόντα μας. Η προστασία του απορρήτου σας αποτελεί τον πυρήνα της αποστολής της { -brand-name-mozilla }.

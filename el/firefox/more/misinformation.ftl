@@ -22,6 +22,9 @@ misinformation-images-captions = Ταιριάζουν οι εικόνες και
 misinformation-how-firefox-helps-heading = Πώς το { -brand-name-firefox } σάς βοηθά να αποφύγετε την παραπληροφόρηση
 misinformation-firefox-keeps-trackers-heading = Το { -brand-name-firefox } περιορίζει τους ιχνηλάτες:
 misinformation-social-media-clean-heading = Το { -brand-name-firefox } διατηρεί καθαρές τις ροές κοινωνικών δικτύων σας:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Τα κοινωνικά δίκτυα γνωρίζουν πολλά για εσάς. Επιπλέον, είναι σε θέση να σας καταγράφουν πέρα από τις πλατφόρμες τους με τα κουμπιά "Κοινοποίηση" και "Μου αρέσει" κατά τη χρήση της Προστασίας από καταγραφή — ακόμη κι αν δεν έχετε λογαριασμό. Το <a href="{ $container }">{ -brand-name-facebook-container }</a> για { -brand-name-firefox } εξασφαλίζει ότι το { -brand-name-facebook } και το { -brand-name-instagram } δεν θα μπορούν εύκολα να σας καταγράψουν, γεγονός που μειώνει σημαντικά την πιθανότητα εμφάνισης παραπληροφόρησης μέσω διαφημίσεων και προωθητικών ενεργειών.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = Το { -brand-name-firefox } σάς βοηθά να ανακαλύψετε περιεχόμενο που αξίζει τον χρόνο σας:
 misinformation-why-trust-firefox = Γιατί να εμπιστευτείτε το { -brand-name-firefox };
