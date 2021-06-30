@@ -10,3 +10,6 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } i uziraz (smartphones & tfel
 vpn-mobile-page-description = Mmesten smartphone d tfelwit n uselken inek·inem s VPN seg { -brand-name-mozilla }, tigejdit n laman deg wayen yerzan tabaḍnit deg internet.
 # Mobile strings
 vpn-mobile-hero-headline = Sɣelles tudert-ik·im tabaḍnit ɣef uziraz s { -brand-name-mozilla-vpn }
+vpn-mobile-wifi-headline = Ḥalfu s laman mi ara tseqdaceḍ wifi azayaz
+vpn-mobile-about-headline = Γef { -brand-name-mozilla }
+vpn-mobile-privacy-headline = Tudert tabaḍnit s yiwen usiti
