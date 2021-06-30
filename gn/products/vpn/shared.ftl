@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Ereko { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ejuaju tysýi oha’ãrõvare
 vpn-shared-sign-in-link = ¿Eñemboheraguapýma?
+# Outdated string
 vpn-shared-available-countries = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur ha Malasia-pe.
+# Outdated string
 vpn-shared-available-countries-v2 = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda ha Singapur-pe.
+vpn-shared-available-countries-v3 = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda ha Singapur-pe.
 vpn-shared-money-back-guarantee = 30 ára haguépe ome’ẽkuaajey viru
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Momba’epyre pe
