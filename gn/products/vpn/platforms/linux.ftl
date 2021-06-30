@@ -21,5 +21,7 @@ vpn-linux-servers-headline = Eike { $servers }-pe+ mba’e’oka { $countries } 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Eike { $devices } mba’e’okuéra peve
+vpn-linux-devices-copy = Ñemboheraguapy ndive, eguerekokuaa { -brand-name-mozilla-vpn } { $devices } peve mba’e’oka iñambuéva opaite apopyvusugua, oĩhápe { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-ios }, ko’ã { -brand-name-iphone } ha { -brand-name-ipad } peg̃uarã.
 vpn-linux-speed-headline = Ipya’eterei mba’ekuaarã hu’ã’ỹva ndive
+vpn-linux-speed-copy = Eñembosarái, ehecha ta’ãngamýi, ha eikundaha pya’etereirasa ñandutípe ha hu’ã’ỹva ancho de banda — { -brand-name-mozilla-vpn } nahu’ãi.
 vpn-linux-log-headline = Ne mba’ekuaarã nemba’ete
