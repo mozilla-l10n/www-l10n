@@ -11,6 +11,23 @@ firefox-home-the-browser-is-just = The stravaiger is jist the stairt
 firefox-home-meet-our-family-of = Meet oor faimily o products
 firefox-home-get-trackers-off = Get 2,000+ trackers aff yer trail — includin { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Ken when hackers set tae — and stey yin step aheid
+firefox-home-start-getting-breach = Stairt gettin breach reports
+# Obsolete string
+firefox-home-keep-your-passwords = Keep yer passwirds siccar on ilka device
+# Obsolete string
+firefox-home-learn-more-about-lockwise = Lairn mair aboot { -brand-name-lockwise }
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = Get the <strong>respect</strong> ye deserve
+firefox-home-every-single-firefox = Every single { -brand-name-firefox } product taks tent o oor Personal Data Promise: <strong>Tak less. Keep it sauf. Nae secrets.</strong>
+# Obsolete string
+firefox-home-share-large-files-without = Share muckle files withoot keekin een
+# Obsolete string
+firefox-home-start-sending-files = Stairt sendin files siccarly
+firefox-home-trade-clickbait-for = Swap clickbait fur smashin content
+firefox-home-learn-more-about-pocket = Lairn mair aboot { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Bieldin fur yer hale device, on ilka device.
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = Yin login. Aw yer devices. A faimily o products that tak tent o yer <strong>privacy</strong>.
 firefox-home-join-firefox = Jyne { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Lairn mair aboot jynin { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Get the stravaiger extension
