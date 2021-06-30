@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Doonload { -brand-name-firefox }
+navigation-get-a-firefox-account = Get a { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } fur Desktap
+navigation-get-the-browser-that-respects = Get the stravaiger that taks tent o yer privacy as staunart. On { -brand-name-windows }, { -brand-name-mac } or { -brand-name-linux }.
 navigation-ios-support = { -brand-name-ios } Hauners
 navigation-android-support = { -brand-name-android } Hauners
 navigation-get-firefox = Get { -brand-name-firefox }
