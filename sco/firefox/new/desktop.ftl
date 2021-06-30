@@ -21,12 +21,38 @@ firefox-desktop-download-download-options = Doonload options and ither leids
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Dae whit ye dae online.<br> { -brand-name-firefox-browser } <strong>isnae</strong> watchin.
+firefox-desktop-download-how-firefox-compares = How { -brand-name-firefox } compares tae ither stravaigers
+firefox-desktop-download-get-all-the-speed = Get aw the speed and tools wi nane o the invasions o privacy. { -brand-name-firefox-browser } gaithers sic little data aboot ye, we dinnae even need yer email address tae doonload. That’s cause unlike ither stravaigers, we hivnae onie financial stake in follaein ye aroond the wab.
+firefox-desktop-download-how-we-compare = How we compare tae ither stravaigers
+firefox-desktop-download-compare-firefox-to = Compare { -brand-name-firefox } tae:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Aye
 firefox-desktop-download-no = Naw
+firefox-desktop-download-blocks-third-party = Blocks third-pairty trackin cookies
+firefox-desktop-download-blocks-third-party-default = Blocks third-pairty trackin cookies as staunart
+firefox-desktop-download-autoplay-blocking = Autopley blockin
+firefox-desktop-download-blocks-social-trackers = Blocks social trackers
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = OS availability
+firefox-desktop-download-in-browser-screenshot = In-stravaiger screenshot tool
 firefox-desktop-download-primary-password = Primary passwird
+# Obsolete string
+firefox-desktop-download-master-password = Maister passwird
+firefox-desktop-download-we-block-the-ad = We block the ad trackers. You stravaig the internet faster.
+firefox-desktop-download-ads-are-distracting = Ads are distractin and mak wab pages load slower while their trackers tak tent o ilka muive ye mak online. The { -brand-name-firefox-browser } blocks maist trackers automatically, sae there’s nae need tae gang howkin intae yer siccarness settins.
+firefox-desktop-download-see-your-report = Hae a deek at yer bieldin report
+firefox-desktop-download-for-everyone = { -brand-name-firefox } is fur awbodie
+firefox-desktop-download-available-in-over = Available in ower 90 leids, and compatible wi { -brand-name-windows }, { -brand-name-mac-short } and { -brand-name-linux } machines, { -brand-name-firefox } wirks nae maitter whit ye’re yaisin or whaur ye are. Mak siccar yer operatin system is up tae date fur the best experience.
+firefox-desktop-download-review-system-req = Review system requirements
+firefox-desktop-download-all-your-devices = Pit { -brand-name-firefox } on aw yer devices
+firefox-desktop-download-take-your-privacy = Tak yer privacy wi ye everywhaur. { -brand-name-firefox-browsers } fur { -brand-name-ios } and { -brand-name-android } hae the same strang privacy settins tae block trackers fae follaein ye aroond the wab, nae maitter whaur ye are.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Dae it <strong>aw</strong> wi { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Sairch smairter, mair swith
+firefox-desktop-download-search-from-address = Sairch fae address baur
+firefox-desktop-download-search-engine-options = Sairch engine options
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Pictur-in-Pictur
 firefox-desktop-download-protect-your-privacy = Bield yer privacy
