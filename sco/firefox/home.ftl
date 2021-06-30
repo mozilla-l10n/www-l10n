@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = { -brand-name-firefox } - Bield yer life online wi privacy-first products
+firefox-home-firefox-is-more-than = { -brand-name-firefox } is mair than a stravaiger. Lairn mair aboot { -brand-name-firefox } products that haunle yer data wi tent and are biggit fur privacy oniewhaur ye gang online.
+firefox-home-the-browser-is-just = The stravaiger is jist the stairt
+firefox-home-meet-our-family-of = Meet oor faimily o products
+firefox-home-get-trackers-off = Get 2,000+ trackers aff yer trail — includin { -brand-name-facebook }
+firefox-home-know-when-hackers-strike = Ken when hackers set tae — and stey yin step aheid
 firefox-home-join-firefox = Jyne { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Lairn mair aboot jynin { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Get the stravaiger extension
