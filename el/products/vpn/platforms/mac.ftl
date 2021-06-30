@@ -26,4 +26,5 @@ vpn-mac-servers-copy = Ορίστε την τοποθεσία του { -brand-na
 vpn-mac-devices-headline = Προστασία { $devices } συσκευών με μία συνδρομή
 vpn-mac-devices-copy = Όλες σας οι συσκευές αξίζουν να είναι ασφαλείς. Χρησιμοποιήστε το { -brand-name-mozilla-vpn } για να προστατεύσετε έως και { $devices } συσκευές με { -brand-name-mac-short } και { -brand-name-ios } (καθώς και { -brand-name-windows }, { -brand-name-linux } και { -brand-name-android }).
 vpn-mac-speed-headline = Χωρίς θυσίες στην ταχύτητα
+vpn-mac-speed-copy = Τα απεριόριστα δεδομένα και η απουσία περιορισμού εύρους ζώνης σημαίνουν ότι μπορείτε να εξερευνήσετε κάθε γωνιά του διαδικτύου όπως συνήθως — με ένα επιπλέον επίπεδο ασφαλείας.
 vpn-mac-log-headline = Η διαδικτυακή σας δραστηριότητα αφορά μόνο εσάς

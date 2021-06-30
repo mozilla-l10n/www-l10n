@@ -20,6 +20,9 @@ vpn-android-privacy-copy = Η χρήση του { -brand-name-mozilla-vpn } γι
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = { $servers }+ διακομιστές σε πάνω από { $countries } χώρες
 # Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = Με το { -brand-name-mozilla-vpn }, μπορείτε να ορίσετε την τοποθεσία του { -brand-name-android } τηλεφώνου σας σε μία από { $countries }+ χώρες. Αυτό σημαίνει ότι μπορείτε να δείτε το διαδίκτυο ως κάτοικος της χώρας που επιλέξατε. Είναι ένας διασκεδαστικός και ενδιαφέρων τρόπος για να δείτε το διαδίκτυο από μια νέα προοπτική.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Μία συνδρομή για έως και { $devices } συσκευές
 # Variables:
