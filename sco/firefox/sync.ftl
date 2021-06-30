@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-access-and-sync = Hae ingang tae and sync yer buikmerks, passwirds, open tabs and mair — everywhaur ye yaise { -brand-name-firefox }.
+firefox-sync-privacy-made-easy = Privacy makkit easy
