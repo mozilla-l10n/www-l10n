@@ -139,11 +139,25 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Speirins? <a { $attrs }>{ -brand-name-mozilla } support</a> hiv got ye sortit.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Ye’ve awready got the stravaiger. Noo get even mair fae { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Watch oot fur hackers wi { -brand-name-firefox-monitor }, bield passwirds wi { -brand-name-firefox-lockwise }, and mair.
 firefox-desktop-download-get-more-from-firefox = Get Mair Fae { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Doonload The Stravaiger, Jist
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Jist aboot there!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Noo feenish <strong>instawin</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Noo <strong>rin</strong> the instawer that jist doonloadit.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Noo <strong>open</strong> the file that jist doonloadit.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Haein problems? <a { $attrs }>Get hauners wi yer instawment</a>.
+firefox-desktop-download-in-another-language = Doonload in anither leid or fur anither operatin system.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

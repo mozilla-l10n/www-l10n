@@ -12,17 +12,27 @@ navigation-v2-menu = Menu
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Sneck { -brand-name-firefox-browsers } menu
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } fur Desktap
+navigation-v2-get-the-not-for-profit-backed = Get the no-fur-profit-supportit stravaiger on { -brand-name-windows }, { -brand-name-mac-short } or { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } fur { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Get the mobile stravaiger ye can mak yer ain fur { -brand-name-android } smairtphones.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } fur { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Get the mobile stravaiger fur yer { -brand-name-iphone } or { -brand-name-ipad }.
+navigation-v2-privacy-promise = Privacy Promise
+navigation-v2-learn-how-firefox-treats = Lairn how { -brand-name-firefox } treats yer data wi respect.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
+navigation-v2-read-about-new-firefox-features = Read aboot new { -brand-name-firefox } featurs and weys tae stey sauf online.
 navigation-v2-release-notes = Roll-oot Notes
+navigation-v2-get-the-details-on-the = Get aw the details on the latest { -brand-name-firefox } updates.
+navigation-v2-view-all-firefox-browsers = View aw { -brand-name-firefox-browsers }
 
 ## Products menu
 
 navigation-v2-products = Products
 navigation-v2-close-products-menu = Sneck Products menu
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Check if yer email has kythed itsel in a company’s data breach.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Save and airt oot the best stories fae aw ower the wab.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
