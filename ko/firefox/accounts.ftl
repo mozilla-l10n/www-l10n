@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = 사생활 보호를 최우선으로 하는
 firefox-accounts-firefox-is-technology = { -brand-name-firefox }는 여러분을 위해 대항하는 기술입니다.
 firefox-accounts-get-technology-that = 여러분을 위해 대항하는 기술을 얻으세요.
 firefox-accounts-travel-the-internet = 모든 기기에서 보호 기능과 함께 인터넷을 활용하세요.
+# Obsolete string
 firefox-accounts-keep-your-passwords = 비밀번호를 보호하고 항상 가지고 다니세요.
 firefox-accounts-get-a-lookout-for = 데이터 유출에 대비하세요.
+# Obsolete string
 firefox-accounts-share-large-files = 안전하게 대용량 파일을 공유하세요.
 firefox-accounts-get-it-all-on-every = 한 운영체제에 갇히지 않고 모든 기기에서 사용하세요.
 firefox-accounts-and-get-it-all-on = 그리고 한 운영체제에 갇히지 않고 모든 기기에서 사용하세요.
 firefox-accounts-get-the-respect-you = 여러분은 존중 받아야 합니다.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = 모든 기기에서 전체 기기 보호
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = 저희는 항상 진실만을 전달할 것입니다. 우리가 만들고 행동하는 모든 것들은 <a href="{ $promise }">개인 데이터 약속</a>을 따릅니다:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = 모두를 위해 더 나은 { -brand-n
 firefox-accounts-get-into-the-open = 저희가 만드는 출시 예정 제품을 테스트함으로서 오픈소스 정신을 실천해 주세요.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = 대형 인터넷 기업을 견제하는데 도움을 주세요.
+firefox-accounts-we-support-communities = 우리는 더 건강한 인터넷을 위해 노력하는 전 세계의 커뮤니티를 지원합니다. 여러분도 함께 동참해 주세요.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = 우리는 더 건강한 인터넷을 위해 노력하는 전 세계의 커뮤니티를 지원합니다. 여러분도 함께 동참해 주세요.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

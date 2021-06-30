@@ -21,11 +21,20 @@ firefox-products-desktop = 데스크톱
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = 모든 브라우저보기
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = 30개가 넘는 국가에서 새로운 관점의 안전하게 인터넷과 연결된 서버에서 서핑과 스트리밍, 작업을 하세요.
+firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = 비밀번호를 안전하게 유지하고 동기화 된 모든 장치에서 접근할 수 있습니다.
+# Obsolete string
 firefox-products-download-lockwise = { -brand-name-lockwise } 다운로드
+# Obsolete string
 firefox-products-open-in-firefox = { -brand-name-firefox }에서 열기
+# Obsolete string
 firefox-products-learn-more-about-lockwise = { -brand-name-lockwise }에 대해 더 알아보기
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 대용량 파일과 민감한 문서를 최대 2.5GB까지 안전하게 전송하세요.
 firefox-products-send-a-file = 파일 보내기

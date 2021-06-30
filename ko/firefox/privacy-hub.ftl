@@ -84,3 +84,6 @@ firefox-privacy-hub-already-have-an-account = 이미 계정이 있습니까? { -
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = 제품 <a href="{ $url }"> 개인 정보 보호 정책 </a> 읽어 보기
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = 30개가 넘는 국가에서 새로운 관점의 안전하게 인터넷과 연결된 서버에서 서핑과 스트리밍, 작업을 하세요.
+firefox-privacy-hub-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
