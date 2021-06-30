@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-join-firefox = Jyne { -brand-name-firefox }
+firefox-home-learn-more-about-joining = Lairn mair aboot jynin { -brand-name-firefox }
+firefox-home-get-the-browser-extension = Get the stravaiger extension
+firefox-home-get-the-facebook-container = Get the { -brand-name-facebook-container } extension
+firefox-home-download-the-browser = Doonload the stravaiger
+firefox-home-download-the-app = Doonload the app
+firefox-home-get-mozilla-vpn = Get { -brand-name-mozilla-vpn }
 firefox-home-desktop = Desktap
 firefox-home-browsers = Stravaigers
 firefox-home-android = { -brand-name-android }
