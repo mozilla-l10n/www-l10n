@@ -7,3 +7,6 @@
 
 # Meta strings
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } i uziraz (smartphones & tfelwinyin n uselken)
+vpn-mobile-page-description = Mmesten smartphone d tfelwit n uselken inek·inem s VPN seg { -brand-name-mozilla }, tigejdit n laman deg wayen yerzan tabaḍnit deg internet.
+# Mobile strings
+vpn-mobile-hero-headline = Sɣelles tudert-ik·im tabaḍnit ɣef uziraz s { -brand-name-mozilla-vpn }
