@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-monthly = Monthly
+banner-fundraising-one-time = Yin-time
+banner-fundraising-donate = Gie
 # Variables:
 #   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
 # Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty

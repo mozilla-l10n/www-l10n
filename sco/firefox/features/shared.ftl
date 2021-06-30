@@ -8,4 +8,12 @@
 features-shared-a-better-internet-experience = A better internet experience
 features-shared-more-firefox-features = Mair { -brand-name-firefox } stravaiger featurs
 features-shared-browse-faster = Stravaig faster
+features-shared-your-favorite-extensions = Yer favourite extensions
+features-shared-balanced-memory = Balanced memory
+features-shared-more-powerful-private-browsing = Mair pouerfu Private Stravaigin
+features-shared-ad-tracker-blocking = Ad tracker blockin
+features-shared-password-manager = Passwird manager
+features-shared-customize-your-browser = Mak yer stravaiger yer ain
+features-shared-sync-between-devices = Sync atween devices
+features-shared-better-bookmarks = Better buikmerks
 brand-name-firefox = { -brand-name-firefox }
