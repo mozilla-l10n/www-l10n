@@ -26,3 +26,14 @@ password-manager-password-magician = Passwird genie
 password-manager-password-ninja = Passwird ninja
 password-manager-no-more-try-again = Nae mair “try aince mair” while ye’re ettlin tae get somewhaur. Log in tae yer { -brand-name-firefox-account } on yer phone, and yer passwirds come wi ye. Yer login details will jist kythe theirsels, hey presto.
 password-manager-password-champion = Passwird champion
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Win yer siccarness gowd medal wi { -brand-name-firefox }’s muckle range o passwird manager <a href="{ $addons }">eik-ons</a>. Wale an existin favourite or airt oot a neist-level yin through expert community ratins and reviews.
+# Obsolete string
+# "Master" here means mastery of a subject, to be highly skilled at managing passwords.
+password-manager-password-master = Passwird maister
+# Obsolete string
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+# Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
+password-manager-earn-your-second = Win yer second siccarness black belt wi { -brand-name-firefox }’s muckle range o passwird manager <a href="{ $addons }">eik-ons</a>. Wale an existin favourite or airt oot a neist-level yin through expert community ratins and reviews.

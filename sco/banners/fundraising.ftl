@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title = The future is bein decidit online. Help { -brand-name-mozilla } fecht fur a wab fur aw o us.
+banner-fundraising-body = Oor personal data is gaithered ilka time we gang on the wab, and it's no easy tae find oot whit happens wi it. Online clashmaclaivers are makkin it haurder fur us tae airt oot the truth. Wab-connectit devices are hurrit tae merket withoot meetin basic siccarness staunarts. The non-profit { -brand-name-mozilla-foundation } fechts tae mak the internet siccar, open and wi ingang tae aw. <strong>Will ye gie tae us the day?</strong>
 banner-fundraising-monthly = Monthly
 banner-fundraising-one-time = Yin-time
 banner-fundraising-donate = Gie

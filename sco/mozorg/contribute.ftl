@@ -20,6 +20,7 @@
 
 ## Newsletter
 
+contribute-newsletter-heading = No shair yet?
 
 ## Support
 

@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# HTML page title
+firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } is mair than a stravaiger
+# HTML page description
+firefox-products-its-a-whole-family-of-products = It's a hale faimily o products shapit tae keep ye mair siccar and cannie online
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-desktop = Desktap
 firefox-products-android = { -brand-name-android }
