@@ -36,17 +36,32 @@ contribute-mission-desc = Oor mission is tae mak siccar the internet is a global
 contribute-learn = Lairn aboot { -brand-name-mozilla }
 contribute-read-manifesto = Read oor manifesto
 contribute-find-event = Airt oot an ongaun
+contribute-meet-volunteers = Meet oor ettlesome volunteers
+contribute-donate = Gie
+contribute-help-fund = Help oor mission wi fundin
+contribute-follow-mozilla = Follae { -brand-name-mozilla }
+contribute-opportunities = News and volunteer opporchancities
 
 ## Made by
 
+contribute-made-by-heading = Makkit by passionate fowk like yersel
+contribute-made-by-desc = When ye inpit tae { -brand-name-mozilla }, ye become pairt o a warldwide community makkit up o fowk fae aroond the globe wha uphaud that we aw hae a pairt tae pley in makkin siccar that the internet bides as a force fur guid.
+contribute-made-by-desc-cont = We uphaud that community collaboration is vital tae makkin an internet that is diverse, innovative, and accoontable tae the fowk that need it maist. Whether ye've a backgrund in tech, community organisin, or jist a computer and a bittie time on yer hauns, ye can help us mak the internet a better place.
 
 ## Newsletter
 
 contribute-newsletter-heading = No shair yet?
+contribute-newsletter-sub-heading = Get community and inpittin news tae yer inbox
+contribute-newsletter-desc = Sign up tae oor newsletter, jyne Mozillians aw roond the warld, and lairn aboot feckfu opporchancities tae support the { -brand-name-mozilla } mission.
 
 ## Support
 
 contribute-support-heading = Get Hauners
+contribute-support-desc = { -brand-name-mozilla } has a dedicatit curn o volunteers tae help wi whitever issues ye micht be haein.
+contribute-mozilla-support = { -brand-name-mozilla } Hauners
 
 ## Web compat
 
+contribute-web-compat-heading = Strauchlin wi a wab page?
+contribute-web-compat-desc = If yer experience o a wabsite is different fae yin stravaiger tae the neist, then ye micht hae airtit oot a wab compatibility issue. We'd luve tae ken aboot it!
+contribute-report-issue = Report an issue
