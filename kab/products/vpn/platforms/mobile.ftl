@@ -16,3 +16,4 @@ vpn-mobile-privacy-headline = Tudert tabaḍnit s yiwen usiti
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Mmesten alamma { $devices } yibenkan
+vpn-mobile-log-headline = Tudert-ik·m tabaḍnit i yezwaren
