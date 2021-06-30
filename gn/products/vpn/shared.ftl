@@ -85,6 +85,10 @@ vpn-shared-platform-cta-headline = Ñañepyrũkatu
 vpn-shared-platform-cta-button = Ehecha hepy ha joguakuaa
 vpn-shared-platform-privacy-promise = Ne ñemigua ha’e ore me’ẽmbyrã
 vpn-shared-platform-trust-partner-headline = Ore irũ jeroviaha rehegua
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = Pe { -brand-name-mozilla-vpn } omba’apo ñanduti apopyvusu yvoragua ome’ẽva <a href="{ $policy }">{ -brand-name-mullvad }</a> oipurúvo taperekoite <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } omotenonde nde rekoñemi ha noroñongatúi mba’eveichagua tapykuere.
 vpn-shared-platform-what-youll-get = Mba’e erekokuaa { -brand-name-mozilla-vpn } ndive:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }

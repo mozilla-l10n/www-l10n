@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10 peg̃uarã
+vpn-windows-page-description = Emo’ãmbaite nde PC red privada virtual (VPN) ndive { -brand-name-mozilla } mba’éva, omoñepyrũva ñanduti ha oñorairõva ne rekoñemi ñanduti pegua ary 1998 guive.
 # Windows strings
 vpn-windows-hero-headline = Eiko jeikememe ha ñemo’ãme { -brand-name-mozilla-vpn } ndive { -brand-name-windows } 10 peg̃uarã
 vpn-windows-wifi-headline = Eiko tekorosãme wifi ndive
