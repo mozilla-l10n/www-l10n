@@ -10,6 +10,7 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } για { -brand-name-ios } ({ -
 vpn-ios-page-description = Λάβετε προστασία στο { -brand-name-iphone } ή το { -brand-name-ipad } σας μέσω της { -brand-name-mozilla }, μίας από τις πιο αξιόπιστες επωνυμίες στον χώρο της τεχνολογίας.
 # Mobile strings
 vpn-ios-hero-headline = Προστατευτείτε στο διαδίκτυο με το { -brand-name-mozilla-vpn } για { -brand-name-ios }
+vpn-ios-maker-of-firefox = Ως δημιουργός του { -brand-name-firefox } και ένας από τους πιο αξιόπιστους υπερασπιστές του διαδικτυακού απορρήτου, η { -brand-name-mozilla } δεσμεύεται να διασφαλίσει ότι θα νιώθετε ασφαλείς και σεβαστοί κάθε φορά που συνδέεστε στο διαδίκτυο.
 vpn-ios-wifi-headline = Μείνετε ασφαλείς, ακόμα κι όταν βρίσκεστε εν κινήσει
 vpn-ios-about-headline = Γιατί να μας εμπιστευτείτε;
 vpn-ios-privacy-headline = Σύνδεση με 1 πάτημα

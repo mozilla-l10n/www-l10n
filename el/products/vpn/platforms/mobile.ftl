@@ -11,6 +11,7 @@ vpn-mobile-page-description = Προστατέψτε το smartphone και το
 # Mobile strings
 vpn-mobile-hero-headline = Προστατέψτε το απόρρητο της κινητής σας συσκευής με το { -brand-name-mozilla-vpn }
 vpn-mobile-wifi-headline = Νιώστε ασφάλεια σε δημόσια Wi-Fi
+vpn-mobile-wifi-copy = Το VPN μας προφυλάσσει τη σύνδεσή σας στο διαδίκτυο από hacker και κατασκόπους, ώστε να κάνετε αγορές από την καφετέρια, να ελέγχετε τον τραπεζικό σας λογαριασμό από το τρένο και να εργάζεστε στο διαδίκτυο, γνωρίζοντας ότι η διεύθυνση IP σας είναι προστατευμένη.
 vpn-mobile-about-headline = Σχετικά με τη { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Απόρρητο με ένα πάτημα
 vpn-mobile-privacy-copy = Το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεσή σας στο διαδίκτυο και κρύβει τη διεύθυνση IP σας στην κινητή σας συσκευή με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®.
