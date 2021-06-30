@@ -25,3 +25,4 @@ vpn-linux-devices-copy = Ñemboheraguapy ndive, eguerekokuaa { -brand-name-mozil
 vpn-linux-speed-headline = Ipya’eterei mba’ekuaarã hu’ã’ỹva ndive
 vpn-linux-speed-copy = Eñembosarái, ehecha ta’ãngamýi, ha eikundaha pya’etereirasa ñandutípe ha hu’ã’ỹva ancho de banda — { -brand-name-mozilla-vpn } nahu’ãi.
 vpn-linux-log-headline = Ne mba’ekuaarã nemba’ete
+vpn-linux-log-copy = Oĩ VPN oñongatúva ne rembiapokue ijapopyvusúpe. { -brand-name-mozilla-vpn } nanderapykuehói ñandutípe — upévare, umíva ha’e romo’ã añetéva mba’apohaguasuháicha.
