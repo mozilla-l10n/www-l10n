@@ -4,16 +4,23 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Doonload { -brand-name-firefox }
+navigation-v2-get-a-firefox-account = Get a { -brand-name-firefox-account }
+navigation-v2-menu = Menu
 
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Sneck { -brand-name-firefox-browsers } menu
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } fur Desktap
 navigation-v2-firefox-for-android = { -brand-name-firefox } fur { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } fur { -brand-name-ios }
+navigation-v2-firefox-blog = { -brand-name-firefox } Blog
 navigation-v2-release-notes = Roll-oot Notes
 
 ## Products menu
 
+navigation-v2-products = Products
+navigation-v2-close-products-menu = Sneck Products menu
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
