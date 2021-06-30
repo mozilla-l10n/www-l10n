@@ -81,11 +81,22 @@ navigation-join = Jyne
 navigation-close-join-menu = Sneck jyne menu
 navigation-sign-in = Sign In
 navigation-benefits = Benefits
+navigation-protect-your-life-online = Bield yer life online wi a hale faimily o privacy-first products.
 navigation-about = Aboot
 navigation-close-about-menu = Sneck Aboot menu
+navigation-meet-the-technology-company = Meet the technology firm that pits fowk afore fordel.
 navigation-new-features = New Featurs
+navigation-save-content-absorb-knowledge = Save content. Intak kennin.
+navigation-same-speed-and-safety = Same speed and siccarness ye trust, shapit jist fur business.
 # Outdated string
 navigation-add-ons = Eik-ons
+navigation-projects = Projects
+navigation-close-projects-menu = Sneck Projects menu
+navigation-donate-your-voice-to = Gie yer vyce tae help mak vyce recognition open tae awbodie.
+navigation-machine-learning = Machine Lairnin
+# Outdated string
+navigation-web-of-things-iot = Wab o Things (IoT)
+navigation-help-make-deep-learning = Help mak deep lairnin algorithms available tae the open source warld.
 navigation-developers = Forderers
 navigation-resources = Resoorces
 navigation-press-center = Media Centre
