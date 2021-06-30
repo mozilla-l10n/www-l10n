@@ -13,3 +13,6 @@ vpn-mobile-hero-headline = Sɣelles tudert-ik·im tabaḍnit ɣef uziraz s { -br
 vpn-mobile-wifi-headline = Ḥalfu s laman mi ara tseqdaceḍ wifi azayaz
 vpn-mobile-about-headline = Γef { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Tudert tabaḍnit s yiwen usiti
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Mmesten alamma { $devices } yibenkan
