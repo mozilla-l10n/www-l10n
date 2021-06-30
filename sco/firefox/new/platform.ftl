@@ -36,6 +36,7 @@ new-platform-privacy-more-than = Privacy - mair than jist a policy
 new-platform-your-life-your-business = Yer life is yer business. { -brand-name-firefox } blocks third-pairty trackin cookies on { -brand-name-linux }.
 new-platform-speed-meet-security = Speed, meet siccarness. { -brand-name-firefox } is twa times faster wi 30% less memory than { -brand-name-chrome }.
 new-platform-open-source = Open soorce
+new-platform-look-under-the-hood = See whit ye're gettin. Like { -brand-name-linux }, { -brand-name-firefox } featurs are open soorce.
 # /firefox/mac/ HTML page title
 new-platform-download-mozilla-firefox-mac = Doonload { -brand-name-mozilla } { -brand-name-firefox } fur { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
@@ -61,6 +62,11 @@ new-platform-download-the-fastest-windows = Doonload the fastest { -brand-name-f
 new-platform-faster-page-loading-windows = Faster page loadin, less memory yaise and hoachin wi featurs, the new { -brand-name-firefox } fur { -brand-name-windows } is here.
 # /firefox/windows/ main page title. Span is for visually formatting.
 new-platform-firefox-fights = { -brand-name-firefox } fechts fur ye <span>on { -brand-name-windows }.</span>
+new-platform-firefox-moves-fast = { -brand-name-firefox } flits fast and taks tent o yer data - nae ad trackin and nae slowdoon.
+new-platform-common-sense-privacy = Common sense privacy
+new-platform-live-your-life = Live yer life, { -brand-name-firefox } isnae watchin. Wale whit tae share and when tae share it.
+new-platform-seamless-setup = Seamless setup
+new-platform-easy-migration = Easy migration o preferences and buikmerks when ye doonload { -brand-name-firefox } fur { -brand-name-windows }.
 # span is for visual formatting and line break
 new-platform-download-firefox-for-windows = Doonload { -brand-name-firefox } <br>fur { -brand-name-windows }
 # span is for visual formatting and line break

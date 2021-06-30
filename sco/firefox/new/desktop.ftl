@@ -5,9 +5,22 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Doonload { -brand-name-firefox-browser } — Fast, Private & Free — fae { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Get { -brand-name-firefox }, a free wab stravaiger supportit by { -brand-name-mozilla }, a non-profit dedicatit tae internet soondness and privacy. Available noo on { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } and { -brand-name-ios }.
 firefox-desktop-download-og-title = Doonload the fastest { -brand-name-firefox } yet
 firefox-desktop-download-og-desc = Faster page loadin, less memory yaise and hoachin wi featurs, the new { -brand-name-firefox } is here.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = Get the stravaiger that bields whit maitters
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Nae sleekit privacy policies or back doors fur advertisers. Jist a lichtnin fast stravaiger that disnae sell ye oot.
+firefox-desktop-download-download-options = Doonload options and ither leids
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Dae whit ye dae online.<br> { -brand-name-firefox-browser } <strong>isnae</strong> watchin.
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
