@@ -66,8 +66,8 @@ navigation-v2-more-about-mozilla = Mair Aboot { -brand-name-mozilla }
 
 ## Innovation menu
 
-navigation-v2-innovation = New-fanglin
-navigation-v2-close-innovation-menu = Sneck New-fanglin menu
+navigation-v2-innovation = New-fangles
+navigation-v2-close-innovation-menu = Sneck New-fangles menu
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-gather-in-this-interactive-online = Gaither in this interactive, online, multi-dimensional social space.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
@@ -80,4 +80,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Gie yer vyce sae that the future o the wab can hear awbodie.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lairn mair aboot the new, low-level, assembly-like leid.
-navigation-v2-more-mozilla-innovation = Mair { -brand-name-mozilla } New-fanglin
+navigation-v2-more-mozilla-innovation = Mair { -brand-name-mozilla } New-fangles
