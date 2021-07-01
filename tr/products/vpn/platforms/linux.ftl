@@ -19,4 +19,5 @@ vpn-linux-servers-headline = { $countries } farklı ülkede { $servers }+ sunucu
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = { $devices } cihaz bağlayabilme imkânı
+vpn-linux-speed-headline = Sınırsız kotayla süper hız
 vpn-linux-log-headline = Verileriniz sizindir

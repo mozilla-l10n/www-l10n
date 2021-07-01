@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Gizliliğe öncelik veren ürünlerimizle 
 firefox-accounts-firefox-is-technology = { -brand-name-firefox }: Senin için savaşan teknoloji.
 firefox-accounts-get-technology-that = Senin için savaşan teknolojiyi kullan.
 firefox-accounts-travel-the-internet = İnternette gezinirken her cihazda üstün koruma.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Parolalarını güvenle yanında taşı.
 firefox-accounts-get-a-lookout-for = Veri hırsızlıklarından haberin olsun.
+# Obsolete string
 firefox-accounts-share-large-files = Büyük dosyaları meraklı gözlere takılmadan paylaş.
 firefox-accounts-get-it-all-on-every = Tek bir işletim sistemine takılıp kalma. Firefox’u tüm cihazlarında kullanabilirsin.
 firefox-accounts-and-get-it-all-on = Tek bir işletim sistemine takılıp kalma. Firefox’u tüm cihazlarında kullanabilirsin.
 firefox-accounts-get-the-respect-you = Hak ettiğin saygıyı görme zamanı.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Her cihazda tam koruma
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Sana hep doğruyu söyleyeceğiz. Yaptığımız her işte <a href="{ $promise }">Kişisel Veri Sözü</a>’müzü tutmaya ant içtik:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = { -brand-name-firefox }’u iyileştir
 firefox-accounts-get-into-the-open = Yakında çıkacak ürünlerimizi test ederek açık kaynak ruhunu harekete geçir.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Devleri kontrol altında tutmamıza yardım et.
+firefox-accounts-we-support-communities = Dünyanın her yanında daha sağlıklı bir internet için mücadele eden toplulukları destekliyoruz. Sen de mücadeleye katılabilirsin.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Dünyanın her yanında daha sağlıklı bir internet için mücadele eden toplulukları destekliyoruz. Sen de mücadeleye katılabilirsin.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

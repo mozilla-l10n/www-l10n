@@ -20,4 +20,5 @@ vpn-android-servers-headline = { $countries }+ ülkede { $servers }+ sunucu
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = { $devices } cihaz için tek abonelik
+vpn-android-speed-headline = Yüksek hız. Sınırsız kota.
 vpn-android-log-headline = Kayıt yok. İzleme yok. Gizlilik ihlali yok.

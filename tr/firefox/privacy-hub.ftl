@@ -84,3 +84,5 @@ firefox-privacy-hub-already-have-an-account = Zaten hesabınız var mı? <a { $s
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Ürünlerimizin <a href="{ $url }">Gizlilik Bildirimi</a>'ni okuyun
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin

@@ -21,11 +21,19 @@ firefox-products-desktop = Bilgisayar
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Tüm tarayıcılara bakın
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Parolalarınızı güvene saklayın ve tüm cihazlarınızla senkronize edin.
+# Obsolete string
 firefox-products-download-lockwise = { -brand-name-lockwise }’ı indirin
+# Obsolete string
 firefox-products-open-in-firefox = { -brand-name-firefox }’ta aç
+# Obsolete string
 firefox-products-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 2,5 GB’ye kadar dosyalarınızı ve hassas belgelerinizi kadar güvenle gönderin.
 firefox-products-send-a-file = Dosya gönderin
