@@ -7,3 +7,4 @@
 
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-firefox-mobile = Get { -brand-name-firefox } Mobile

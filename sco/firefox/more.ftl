@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+learn-more-faq = { -brand-name-firefox } FAQ
 choose-which-firefox = Wale whit { -brand-name-firefox-browser } tae doonload in yer leid
+firefox-more-firefox-chromebook = { -brand-name-firefox-browser } fur { -brand-name-chromebook }
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
