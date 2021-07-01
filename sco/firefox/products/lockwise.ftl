@@ -6,4 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
+lockwise-open-in-firefox = Open in { -brand-name-firefox }
+lockwise-support = Hauners
+lockwise-your-privacy = Yer Privacy
 lockwise-github = { -brand-name-github }
