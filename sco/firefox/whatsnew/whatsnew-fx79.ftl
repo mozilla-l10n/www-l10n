@@ -7,3 +7,5 @@
 
 # CTA link
 whatsnew79-get-started = Get Stertit
+whatsnew79-update-your-firefox = Update yer { -brand-name-firefox } stravaiger
+whatsnew79-download-the-firefox = Doonload the { -brand-name-firefox } stravaiger
