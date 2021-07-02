@@ -13,9 +13,15 @@ vpn-mobile-hero-headline = Emo’ã ne rekoñemi pumbyry mba’e’okápe { -bra
 vpn-mobile-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
 vpn-mobile-about-headline = { -brand-name-mozilla } rehegua
 vpn-mobile-privacy-headline = Tekoñemi peteĩ jeikutúpe
+vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } rembipuru’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Eike a mohendahavusu arapyguávape
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Eikundaha Brasil guive. Eñembosarái Japón guive. Emyasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne mohendadaha rendaite térã pumbyry peteĩva { $servers } mohendahavusúpe hetave { $countries } tetãme.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Emo’ã { $devices } mba’e’oka peve
 vpn-mobile-speed-headline = Pya’ekue eimo’ã’ỹva, jejoko’ỹre
+vpn-mobile-speed-copy = Ehecha ta’ãngamýi, eñembosarái, ejogua ha eikundaha pya’eterei. { -brand-name-mozilla-vpn } nomomichĩmo’ãi pe ancho de banda ha nomombeguemo’ãi ne pumbyry.
 vpn-mobile-log-headline = Ne ñemigua oĩ tenonderã

@@ -37,3 +37,7 @@ vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Pumbyry popegua
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-platforms-shared-trust-partner-headline = Ore irũ jeroviaha rehegua
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-platforms-shared-trust-partner = Pe { -brand-name-mozilla-vpn } omba’apo ñanduti apopyvusu yvoragua ári ome’ẽva <a href="{ $policy }">{ -brand-name-mullvad }</a> oipurúvo taperekoite <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } omotenonde nde rekoñemi ha noñongatúi tapykuerekue.
