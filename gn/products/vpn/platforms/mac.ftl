@@ -21,4 +21,5 @@ vpn-mac-servers-headline = Eike mohendahavusu arapyguávape
 vpn-mac-devices-headline = Emo’ã { $devices } mba’e’oka ñemboheraguapy ndive
 vpn-mac-devices-copy = Ne mohendaha, tabléta ha pumbyry hekorosãva’erã. Oipuru { -brand-name-mozilla-vpn } omo’ã hag̃ua { $devices } mba’e’okakuéra { -brand-name-mac-short } ha { -brand-name-ios } (avei { -brand-name-windows }, { -brand-name-linux } ha { -brand-name-android }).
 vpn-mac-speed-headline = Natekotevẽi ehekojopy pya’ekue
+vpn-mac-speed-copy = Mba’ekuaarã hu’ã’ỹva ha mba’evéichagua ancho de banda jejoko he’ise ikatuha ejeporeka ñanduti tuichakuépe ejapoháicha tapiaite — tekorosã jo’a reheve.
 vpn-mac-log-headline = Ejapóva ñandutípe ha’e nemba’ete
