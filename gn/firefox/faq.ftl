@@ -40,6 +40,7 @@ is-firefox-safe-download = ¿Hekorosãpa { -brand-name-firefox } mboguejy?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Ne ñemigua ñemo’ã ha’e ore roipotavéva, ha rojapo pe { -brand-name-firefox } ñemohenda ne mba’e’okápe hekorosã hag̃ua — hákatu tapiaite emboguejyva’erã peteĩ tendágui { -brand-name-mozilla }/{ -brand-name-firefox } hekorosãva, techapyrãramo <a href="{ $url }">ore mboguejyha kuatiarogue.</a>
 is-firefox-safe = ¿Hekorosãpa { -brand-name-firefox }?
 
 # Variables:
