@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = نجی براؤزنگ اظافی سراغ راہ حغاظت کاری کے ساتھ
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox }  آپ کی آن لائن رازداری کی حفاظت کرتا ہے اور ایسے ٹریکروں کو مسدود  کرتا  ہے جو آپ کی پوری ویب پر پیروی کرتے ہیں۔
+features-private-browsing-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: زیادہ تحفظ ہے ۔ کم فکر۔
 features-private-browsing-were-obsessed-with = ہمیں آپ کی رازداری کا تحفظ کرنے کا جنون ہے۔ اسی لئے ہم نے { -brand-name-firefox } نجی براؤزنگ کو دوسروں سے زیادہ طاقتور بنا دیا ہے۔
 features-private-browsing-browse-without = کھوج کے بغیر برائوز کریں

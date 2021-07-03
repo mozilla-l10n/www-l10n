@@ -11,6 +11,7 @@ vpn-landing-fast-secure-heading = تیز اور محفوظ نیٹ ورک
 
 vpn-landing-faq-heading = FAQs
 vpn-landing-faq-protected-question-heading = میری رازداری کو کیسے محفوظ کیا جاتا ہے؟
+vpn-landing-faq-manage-subscription-question-heading = میں اپنی رکنیت کیسے  منظم کرسکتا ہوں؟
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
