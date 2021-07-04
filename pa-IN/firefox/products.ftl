@@ -21,11 +21,20 @@ firefox-products-desktop = ਡੈਸਕਟਾਪ
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = ਸਾਰੇ ਬਰਾਊਜ਼ਰ ਵੇਖੋ
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = ਨਵੇਂ ਪੱਖ ਤੋਂ ਸੁਰੱਖਿਅਤ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਲਈ 30 ਦੇਸ਼ਾਂ ਤੋਂ ਵੱਧ ਵਿੱਚ ਮੌਜੂਦ ਸਰਵਰਾਂ ਰਾਹੀਂ ਇੰਟਰਨੈੱਟ ਸਰਫ਼ ਕਰੋ, ਸਟਰੀਮ ਕਰੋ ਤੇ ਕੰਮ ਮੁਕੰਮਲ ਕਰੋ।
+firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = ਆਪਣੇ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਰੱਖੋ ਅਤੇ ਆਪਣੇ ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
+# Obsolete string
 firefox-products-download-lockwise = { -brand-name-lockwise } ਡਾਊਨਲੋਡ ਕਰੋ
+# Obsolete string
 firefox-products-open-in-firefox = { -brand-name-firefox } 'ਚ ਖੋਲ੍ਹੋ
+# Obsolete string
 firefox-products-learn-more-about-lockwise = { -brand-name-lockwise } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 2.5G ਤੱਕ ਆਪਣੀਆਂ ਵੱਡੀਆਂ ਫਾਇਲਾਂ ਅਤੇ ਸੰਵੇਦਨਸ਼ੀਲ ਦਸਤਾਵੇਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਭੇਜੋ।
 firefox-products-send-a-file = ਫਾਇਲ ਭੇਜੋ
