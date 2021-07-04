@@ -36,6 +36,7 @@ firefox-desktop-download-blocks-social-trackers = Bloca els elements de seguimen
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilitat per a sistemes operatius
 firefox-desktop-download-in-browser-screenshot = Eina de captura de pantalla integrada
+# Obsolete string
 firefox-desktop-download-master-password = Contrasenya mestra
 firefox-desktop-download-we-block-the-ad = Bloquem els elements de seguiment de publicitat. Navegareu més ràpidament per Internet.
 firefox-desktop-download-ads-are-distracting = Els anuncis distreuen i fan que les pàgines web es carreguin més lentament i alhora els seus elements de seguiment vigilen tots els moviments que feu a la xarxa. El { -brand-name-firefox-browser } bloca la majoria dels elements de seguiment automàticament, així no cal que us endinseu en els paràmetres de seguretat.
@@ -123,7 +124,7 @@ firefox-desktop-download-from-security-to = De seguretat, de notícies o de jocs
 firefox-desktop-download-firefox-was-created = El { -brand-name-firefox } està creat per <a { $attrs }>{ -brand-name-mozilla }</a> com una alternativa més ràpida i privada a navegadors com el { -brand-name-ie }, i ara el { -brand-name-chrome }. Avui, la nostra empresa guiada per una missió i la comunitat de voluntaris continuen posant la vostra privadesa per sobre de tot.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = A mesura que Internet creix i canvia, el { -brand-name-firefox } continua centrant-se en el vostre dret a la privadesa (l'anomenem  <a { $attrs }>Promesa sobre les dades personals</a>): recollir menys dades, mantenir-les segures i sense secrets. Les vostres dades, la vostra activitat al Web i la vostra vida digital estan protegides amb el { -brand-name-firefox }.
+firefox-desktop-download-as-the-internet = A mesura que Internet creix i canvia, el { -brand-name-firefox } continua centrant-se en el vostre dret a la privadesa (l'anomenem  <a { $attrs }>Compromís sobre les dades personals</a>): recollir menys dades, mantenir-les segures i sense secrets. Les vostres dades, la vostra activitat al Web i la vostra vida digital estan protegides amb el { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = El { -brand-name-firefox } està disponible en tots els dispositius; accediu a les vostres pestanyes, a l'historial i a les adreces d'interès des de qualsevol lloc. Només necessiteu un <a { $attrs }>compte del { -brand-name-firefox }</a>.
@@ -155,6 +156,7 @@ firefox-desktop-download-now-mac = Ara <strong>obriu</strong> l'instal·lador qu
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Teniu problemes? <a { $attrs }>Obteniu ajuda per a la instal·lació</a>.
 firefox-desktop-download-in-another-language = Baixeu la versió per a una altra llengua o sistema operatiu.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = El sistema operatiu que utilitzeu és insegur, obsolet i <a href="{ $url }">ja no és compatible amb el { -brand-name-firefox }</a>.

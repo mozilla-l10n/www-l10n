@@ -41,7 +41,7 @@ firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = Protecció integral en tots els dispositius
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = Nosaltres sempre us direm la veritat. Tot allò que fem respecta la nostra <a href="{ $promise }">Promesa sobre les dades personals</a>:
+firefox-accounts-youll-always-get-the = Nosaltres sempre us direm la veritat. Tot allò que fem respecta el nostre <a href="{ $promise }">Compromís sobre les dades personals</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Recollim menys dades.<br>Les mantenim segures.<br>No tenim secrets.
 firefox-accounts-get-the-knowledge = Tots els coneixements necessaris per garantir la vostra seguretat.

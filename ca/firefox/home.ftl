@@ -18,7 +18,7 @@ firefox-home-keep-your-passwords = Manteniu les contrasenyes segures en tots els
 firefox-home-learn-more-about-lockwise = Més informació sobre el { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Obteniu el <strong>respecte</strong> que us mereixeu
-firefox-home-every-single-firefox = Tots els productes { -brand-name-firefox } respecten la nostra «Promesa sobre les dades personals»: <strong>recollir menys dades, mantenir-les segures i sense secrets</strong>.
+firefox-home-every-single-firefox = Tots els productes { -brand-name-firefox } respecten el nostre «Compromís sobre les dades personals»: <strong>recollir menys dades, mantenir-les segures i sense secrets</strong>.
 # Obsolete string
 firefox-home-share-large-files-without = Compartiu fitxers grans sense mirades indiscretes
 # Obsolete string

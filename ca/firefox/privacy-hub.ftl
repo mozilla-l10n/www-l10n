@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Compromís de privadesa del { -brand-name-firefox }
 # Sub navigation title
 firefox-privacy-privacy = Privadesa
 # Sub navigation link
-firefox-privacy-our-promise = La nostra promesa
+firefox-privacy-our-promise = El nostre compromís
 # Sub navigation link
 firefox-privacy-our-products = Els nostres productes
