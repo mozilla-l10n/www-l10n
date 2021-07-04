@@ -20,3 +20,8 @@ new-platform-advanced-install-options = Opcions avançades d'instal·lació i al
 new-platform-download-in-another = Baixeu-lo en una altra llengua
 new-platform-need-help = Necessiteu ajuda?
 new-platform-download-mozilla-firefox-title = Baixeu el { -brand-name-mozilla } { -brand-name-firefox }, un navegador web lliure i gratuït. El { -brand-name-firefox } està creat per una organització global sense ànim de lucre dedicada a donar el control als usuaris. Instal·leu ara el { -brand-name-firefox } per al { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }!
+new-platform-privacy-more-than = Privadesa: més que una política
+new-platform-open-source = Codi obert
+# /firefox/mac/ HTML page description
+new-platform-download-mozilla-firefox-desc-mac = Baixeu el { -brand-name-mozilla } { -brand-name-firefox } per al { -brand-name-mac-short }, un navegador web lliure i gratuït. El { -brand-name-firefox } està creat per una organització global sense ànim de lucre dedicada a donar el control als usuaris. Instal·leu ara el { -brand-name-firefox } per al { -brand-name-mac-short }!
+new-platform-privacy-comes-first = La privadesa està per sobre de tot

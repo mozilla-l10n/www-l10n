@@ -42,6 +42,7 @@ firefox-new-just-download-the-browser = Simplement, baixeu el navegador
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = El sistema operatiu que utilitzeu és insegur, obsolet i <a href="{ $url }">ja no és compatible amb el { -brand-name-firefox }</a>.
@@ -54,3 +55,11 @@ firefox-new-its-privacy-and-peace-of = També és <strong>privadesa i tranquil·
 firefox-new-its-a-family-of-products = És una <strong>família de productes</strong> que tracta amb respecte les vostres dades personals.
 firefox-new-its-everything-you-need-to = És tot allò que us cal saber per <strong>garantir la vostra seguretat a la xarxa</strong>.
 firefox-new-its-a-community-that-believes = És una <strong>comunitat</strong> convençuda que la tecnologia pot ser millor.
+firefox-new-download-interrupted = La baixada s'ha interromput. Però no està tot perdut.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Seguiu <a href="{ $url }">aquestes instruccions</a> per instal·lar el { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = El vostre sistema no compleix els requisits per al { -brand-name-firefox }, però podeu provar alguna d'<a href="{ $url }">aquestes versions</a>.
+firefox-new-windows-10 = { -brand-name-windows } 10

@@ -31,11 +31,13 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Sí
 firefox-desktop-download-no = No
 firefox-desktop-download-blocks-third-party = Bloca galetes de seguiment de tercers
+firefox-desktop-download-blocks-third-party-default = Bloca galetes de seguiment de tercers per defecte
 firefox-desktop-download-autoplay-blocking = Bloca la reproducció automàtica
 firefox-desktop-download-blocks-social-trackers = Bloca els elements de seguiment social
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilitat per a sistemes operatius
 firefox-desktop-download-in-browser-screenshot = Eina de captura de pantalla integrada
+firefox-desktop-download-primary-password = Contrasenya principal
 # Obsolete string
 firefox-desktop-download-master-password = Contrasenya mestra
 firefox-desktop-download-we-block-the-ad = Bloquem els elements de seguiment de publicitat. Navegareu més ràpidament per Internet.
@@ -156,6 +158,7 @@ firefox-desktop-download-now-mac = Ara <strong>obriu</strong> l'instal·lador qu
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Teniu problemes? <a { $attrs }>Obteniu ajuda per a la instal·lació</a>.
 firefox-desktop-download-in-another-language = Baixeu la versió per a una altra llengua o sistema operatiu.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -165,3 +168,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = El sistema operatiu 
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = La baixada s'iniciarà automàticament. No funciona? <a id="{ $id }" href="{ $fallback_url }">Proveu de baixar-lo de nou</a>.
 firefox-new-firefox-is-more-than-a-browser = El { -brand-name-firefox } és més que un navegador.
+firefox-desktop-download-interrupted = La baixada s'ha interromput. Però no està tot perdut.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Seguiu <a href="{ $url }">aquestes instruccions</a> per instal·lar el { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = El vostre sistema no compleix els requisits per al { -brand-name-firefox }, però podeu provar alguna d'<a href="{ $url }">aquestes versions</a>.
