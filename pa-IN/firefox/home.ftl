@@ -9,8 +9,15 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - ਪਰਦੇਦਾ
 firefox-home-the-browser-is-just = ਬਰਾਊਜ਼ਰ ਤਾਂ ਹਾਲੇ ਸ਼ੁਰੂਆਤ ਹੈ
 firefox-home-meet-our-family-of = ਸਾਡੇ ਉਤਪਾਦਾਂ ਦੇ ਸਮੂਹ ਬਾਰੇ ਜਾਣੋ
 firefox-home-know-when-hackers-strike = ਜਾਣੋ ਕਿ ਕਦੋਂ ਹੈਕਰਾਂ ਨੇ ਹਮਲਾ ਕਰਦੇ ਨੇ — ਤੇ ਇੱਕ ਕਦਮ ਅੱਗੇ ਰਹੋ
+firefox-home-start-getting-breach = ਉਲੰਘਣ ਦੀਆਂ ਰਿਪੋਰਟਾਂ ਲੈਣੀਆਂ ਸ਼ੁਰੂ ਕਰੋ
+# Obsolete string
 firefox-home-keep-your-passwords = ਹਰੇਕ ਡਿਵਾਇਸ ਉਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ
+# Obsolete string
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+# Obsolete string
+firefox-home-share-large-files-without = ਲੋਕਾਂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ ਆਏ ਬਿਨਾਂ ਵੱਡਿਆਂ ਫਾਈਲਾਂ ਸਾਂਝੀਆਂ ਕਰੋ
+# Obsolete string
+firefox-home-start-sending-files = ਫ਼ਾਇਲਾਂ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਭੇਜਣਾ ਸ਼ੁਰੂ ਕਰੋ
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 firefox-home-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
 firefox-home-learn-more-about-joining = { -brand-name-firefox } ਨਾਲ ਜੁੜਨ ਲਈ ਹੋਰ ਜਾਣੋ
@@ -18,6 +25,7 @@ firefox-home-get-the-browser-extension = ਬਰਾਊਜ਼ਰ ਇਕਸਟੈਨ�
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ਇਕਸਟੈਕਸ਼ਨ ਲਵੋ
 firefox-home-download-the-browser = ਬਰਾਊਂਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-home-download-the-app = ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ
+firefox-home-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
 firefox-home-desktop = ਡੈਸਕਟਾਪ
 firefox-home-browsers = ਬਰਾਊਜ਼ਰ
 firefox-home-android = { -brand-name-android }
@@ -27,6 +35,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹ�
 firefox-accounts-firefox-is-technology = ਤੁਹਾਡੇ ਲਈ ਲੜਨ ਵਾਲੀ ਤਕਨੀਕ ਹੈ { -brand-name-firefox }।
 firefox-accounts-get-technology-that = ਤਕਨੀਕ ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਲਈ ਸੰਘਰਸ਼ ਕਰਦੀ ਹੈ।
 firefox-accounts-travel-the-internet = ਹਰ ਡਿਵਾਈਸ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਰਹਿ ਕੇ ਇੰਟਰਨੈੱਟ ਵਰਤੋਂ।
+# Obsolete string
 firefox-accounts-keep-your-passwords = ਆਪਣੇ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹਰ ਥਾਂ ਤਿਆਰ ਲਵੋ।
 firefox-accounts-get-a-lookout-for = ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਲਈ ਭਾਲ ਕਰੋ।
+# Obsolete string
 firefox-accounts-share-large-files = ਲੋਕਾਂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ ਆਏ ਬਿਨਾਂ ਵੱਡਿਆਂ ਫਾਈਲਾਂ ਸਾਂਝੀਆਂ ਕਰੋ।
 firefox-accounts-get-it-all-on-every = ਇਕੱਲੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਿਚ ਕੈਦ ਹੋਣ ਦੇ ਅਹਿਸਾਸ ਤੋਂ ਮੁਕਤ ਹੋਕੇ ਇਸ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲਵੋ।
 firefox-accounts-and-get-it-all-on = ਅਤੇ ਇਕੱਲੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਿਚ ਕੈਦ ਹੋਣ ਦੇ ਅਹਿਸਾਸ ਤੋਂ ਮੁਕਤ ਹੋਕੇ ਇਸ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੇ ਲਵੋ।
 firefox-accounts-get-the-respect-you = ਉਹ ਮਾਣ ਲਵੋ, ਜਿਸ ਦੇ ਤੁਸੀਂ ਹੱਕਦਾਰ ਹੋ।
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = ਹਰ ਡਿਵਾਈਸ ਉੱਤੇ ਪੂਰੇ ਡਿਵਾਈਸ ਦੀ ਸੁਰੱਖਿਆ
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = ਤੁਸੀਂ ਹਮੇਸ਼ਾਂ ਸਾਡੇ ਤੋਂ ਸੱਚਾਈ ਪ੍ਰਾਪਤ ਕਰੋਗੇ। ਜੋ ਵੀ ਅਸੀਂ ਕਰਦੇ ਹਾਂ ਅਤੇ ਕਰਦੇ ਹਾਂ ਉਹ ਸਾਡੀ <a href="{ $promise }">ਨਿੱਜੀ ਡੇਟਾ ਦਾ ਵਾਅਦਾ</a>:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = ਸਾਰਿਆਂ ਲਈ { -brand-nam
 firefox-accounts-get-into-the-open = ਆਉਣ ਵਾਲੇ ਉਤਪਾਦਾਂ ਦੀ ਜਾਂਚ ਕਰਕੇ ਆਜ਼ਾਦ-ਸਰੋਤ ਖ਼ਿਆਲ ਦਾ ਹਿੱਸਾ ਬਣੋ।
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Big Tech ਨੂੰ ਕਾਬੂ ਵਿਚ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰੋ।
+firefox-accounts-we-support-communities = ਅਸੀਂ ਪੂਰੀ ਦੁਨੀਆ ‘ਚ ਸੁਰੱਖਿਅਤ ਇੰਟਰਨੈੱਟ ਲਈ ਡਟੇ ਸਾਰੇ ਭਾਈਚਾਰੇ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ। ਇਸ ਸੰਘਰਸ਼ ‘ਚ ਨਾਲ ਜੁੜੋ।
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = ਅਸੀਂ ਪੂਰੀ ਦੁਨੀਆ ‘ਚ ਸੁਰੱਖਿਅਤ ਇੰਟਰਨੈੱਟ ਲਈ ਡਟੇ ਸਾਰੇ ਭਾਈਚਾਰੇ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ। ਇਸ ਸੰਘਰਸ਼ ‘ਚ ਨਾਲ ਜੁੜੋ।
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
