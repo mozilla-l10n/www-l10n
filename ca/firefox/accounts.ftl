@@ -11,8 +11,12 @@ firefox-accounts-there-is-a-way-to = Hi ha una manera de protegir la vostra priv
 firefox-accounts-get-a-firefox-account = Obteniu un { -brand-name-firefox-account }: manteniu les vostres dades privades, segures i sincronitzades
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Defenseu-vos contra una indústria que ven les vostres dades a tercers. Navegueu de forma intel·ligent i segura amb una tecnologia que lluita pels vostres drets.
+# Old HTML page description
+firefox-accounts-securely-sync-your = Sincronitzeu de forma segura les vostres contrasenyes, adreces d'interès i pestanyes en tots els vostres dispositius. Obteniu un { -brand-name-firefox-account } ara mateix: amb un sol inici de sessió, tindreu control i privadesa a tot arreu.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Hi ha una manera de protegir la vostra privadesa. <span>Uniu-vos al { -brand-name-firefox }.</span>
+# This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
+firefox-accounts-take-your-stand-against = Defenseu-vos contra una indústria que considera l'usuari com un producte.
 firefox-accounts-sign-in-to-monitor = Inicieu la sessió al { -brand-name-monitor }
 firefox-accounts-join-firefox = Uniu-vos al { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Introduïu la vostra adreça electrònica per començar.
@@ -29,11 +33,17 @@ firefox-accounts-share-large-files = Compartiu fitxers grans sense mirades indis
 firefox-accounts-get-the-respect-you = Aconseguiu el respecte que us mereixeu.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = Protecció integral en tots els dispositius
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
+firefox-accounts-youll-always-get-the = Nosaltres sempre us direm la veritat. Tot allò que fem respecta la nostra <a href="{ $promise }">Promesa sobre les dades personals</a>:
+# Line breaks for visual formatting.
+firefox-accounts-take-less-keep-it = Recollim menys dades.<br>Les mantenim segures.<br>No tenim secrets.
 firefox-accounts-and-be-part-of-protecting = I contribuïu a protegir Internet per a les generacions futures.
 firefox-accounts-help-us-build-a-better = Ajudeu-nos a crear un { -brand-name-firefox } millor per a tothom.
 firefox-accounts-get-into-the-open = Endinseu-vos en l'esperit del codi obert provant les versions preliminars dels productes.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Ajudeu-nos a mantenir els gegants tecnològics, les «Big Tech», sota control.
+firefox-accounts-we-support-communities = Donem suport a comunitats d'arreu del món que lluiten per mantenir la bona salut d'Internet. Afegiu la vostra veu a la lluita.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
