@@ -16,6 +16,7 @@ firefox-products-see-if-your-personal-information = Comproveu si hi ha alguna fi
 firefox-products-check-for-breaches = Comproveu les filtracions de dades
 firefox-products-sign-up-for-breach-alerts = Subscriviu-vos per rebre alertes de filtracions
 firefox-products-firefox-browsers = Navegadors { -brand-name-firefox }
+firefox-products-get-the-browsers-that-block = Instal·leu els navegadors que bloquen automàticament més de 2000 elements de seguiment. La protecció contra el seguiment millorada s'inclou per defecte en tots els navegadors { -brand-name-firefox }.
 firefox-products-desktop = Escriptori
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
@@ -25,6 +26,8 @@ firefox-products-get-mozilla-vpn = Baixa el { -brand-name-mozilla-vpn }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
+firefox-products-keep-your-passwords-safe-and = Mantingueu les vostres contrasenyes segures i accediu-hi des de tots els dispositius sincronitzats.
+# Obsolete string
 firefox-products-download-lockwise = Baixa el { -brand-name-lockwise }
 # Obsolete string
 firefox-products-open-in-firefox = Obre en el { -brand-name-firefox }
@@ -32,5 +35,14 @@ firefox-products-open-in-firefox = Obre en el { -brand-name-firefox }
 firefox-products-learn-more-about-lockwise = Més informació sobre el { -brand-name-lockwise }
 # Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
+firefox-products-send-your-large-files-and = Envieu fitxers grans i documents confidencials de forma segura, fins a 2,5 GB.
+firefox-products-send-a-file = Envia un fitxer
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content = Descobriu el millor contingut del web i consulteu-lo on vulgueu i quan vulgueu.
 firefox-products-get-pocket = Baixa el { -brand-name-pocket }
+firefox-products-learn-more-about-pocket = Més informació sobre el { -brand-name-pocket }
+firefox-products-join-firefox-and-get-the-most = Uniu-vos a { -brand-name-firefox } i traieu el màxim profit de tots els productes, des de qualsevol dispositiu.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = Ja teniu un compte? <a { $fxa_attr }>Inicieu la sessió</a> o <a { $accounts_attr }>obteniu més informació</a> sobre com unir-vos al { -brand-name-firefox }.
