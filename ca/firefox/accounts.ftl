@@ -44,6 +44,8 @@ firefox-accounts-whole-device-protection = Protecció integral en tots els dispo
 firefox-accounts-youll-always-get-the = Nosaltres sempre us direm la veritat. Tot allò que fem respecta la nostra <a href="{ $promise }">Promesa sobre les dades personals</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Recollim menys dades.<br>Les mantenim segures.<br>No tenim secrets.
+firefox-accounts-get-the-knowledge = Tots els coneixements necessaris per garantir la vostra seguretat.
+firefox-accounts-learn-everything-you = Informeu-vos sobre tot allò que cal saber (però que encara no sabeu) sobre com navegar de forma intel·ligent i segura, explicat per alguns dels principals experts del món.
 firefox-accounts-and-be-part-of-protecting = I contribuïu a protegir Internet per a les generacions futures.
 firefox-accounts-help-us-build-a-better = Ajudeu-nos a crear un { -brand-name-firefox } millor per a tothom.
 firefox-accounts-get-into-the-open = Endinseu-vos en l'esperit del codi obert provant les versions preliminars dels productes.
