@@ -20,8 +20,9 @@ firefox-products-get-the-browsers-that-block = Instal·leu els navegadors que bl
 firefox-products-desktop = Escriptori
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Mostra tots els navegadors
+firefox-products-see-all-browsers = Vegeu tots els navegadors
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Navegueu, feu retransmissions i treballeu en servidors distribuïts per més de 30 països que ofereixen una connexió a Internet segura amb una nova perspectiva.
 firefox-products-get-mozilla-vpn = Baixa el { -brand-name-mozilla-vpn }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
