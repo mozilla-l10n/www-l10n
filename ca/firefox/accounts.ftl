@@ -17,12 +17,16 @@ firefox-accounts-securely-sync-your = Sincronitzeu de forma segura les vostres c
 firefox-accounts-there-is-a-way-to-protect = Hi ha una manera de protegir la vostra privadesa. <span>Uniu-vos al { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Defenseu-vos contra una indústria que considera l'usuari com un producte.
+# The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
+firefox-accounts-youre-signed-in-to = Heu iniciat la sessió <br>en el { -brand-name-firefox }.<span> Ara proveu el { -brand-name-firefox-monitor }.</span>
+firefox-accounts-see-if-youve-been = Comproveu si hi ha alguna filtració de dades que us hagi afectat.
 firefox-accounts-sign-in-to-monitor = Inicieu la sessió al { -brand-name-monitor }
 firefox-accounts-join-firefox = Uniu-vos al { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Introduïu la vostra adreça electrònica per començar.
 firefox-accounts-already-have-an-account = Ja teniu un compte?
 firefox-accounts-sign-in = Inicia la sessió
 firefox-accounts-meet-our-family-of = Descobriu la nostra família de productes que posen la privadesa per sobre de tot.
+firefox-accounts-firefox-is-technology = El { -brand-name-firefox } és una tecnologia que lluita pels vostres drets.
 firefox-accounts-get-technology-that = Obteniu la tecnologia que lluita pels vostres drets.
 firefox-accounts-travel-the-internet = Navegueu per Internet amb protecció, en qualsevol dispositiu.
 # Obsolete string
@@ -30,6 +34,8 @@ firefox-accounts-keep-your-passwords = Manteniu les vostres contrasenyes protegi
 firefox-accounts-get-a-lookout-for = Tingueu controlades les filtracions de dades.
 # Obsolete string
 firefox-accounts-share-large-files = Compartiu fitxers grans sense mirades indiscretes.
+firefox-accounts-get-it-all-on-every = Tot això en qualsevol dispositiu, sense sentir-vos atrapat en un únic sistema operatiu.
+firefox-accounts-and-get-it-all-on = I tot això en qualsevol dispositiu, sense sentir-vos atrapats en un únic sistema operatiu.
 firefox-accounts-get-the-respect-you = Aconseguiu el respecte que us mereixeu.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = Protecció integral en tots els dispositius
