@@ -54,4 +54,5 @@ sub-navigation-browser-history = Historial del navegador
 sub-navigation-privacy = Privadesa
 sub-navigation-our-promise = El nostre compromís
 sub-navigation-our-products = Els nostres productes
+sub-navigation-little-book-of-privacy = Manual de privadesa
 sub-navigation-safe-passwords = Contrasenyes segures
