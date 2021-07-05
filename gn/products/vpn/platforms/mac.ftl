@@ -13,6 +13,7 @@ vpn-mac-page-description = Taha’e mohendaha mesa arigua { -brand-name-mac-shor
 # Mac strings
 vpn-mac-hero-headline = Emo’ã nde jeike ñandutípe { -brand-name-mozilla-vpn } ndive { -brand-name-mac-short } peg̃uarã
 vpn-mac-wifi-headline = Eñeñandu tekorosãme wifi jerovia’ỹhápe
+vpn-mac-wifi-copy = Eike py’aguapýpe wifi mba’etee’ỹvape { -brand-name-mozilla-vpn } rupive omo’ã añetéva nde jeike ñandutípe ne mba’ekuaarã teéva oĩ hag̃ua kañyhápe mba’evaiapoha ha oma’ẽ ñañávagui.
 vpn-mac-about-headline = Peteĩ tembipurupyahu apohára jeroviaha
 vpn-mac-privacy-headline = Tekoñemi ne kuã rehe
 vpn-mac-servers-headline = Eike mohendahavusu arapyguávape
