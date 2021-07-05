@@ -9,6 +9,8 @@
 compare-shared-yes = Sí
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Non
+compare-shared-bookmark-manager = Xestor de marcadores
+compare-shared-text-to-speech = Testu a voz
 compare-shared-password-management = Xestión de contraseñes
 compare-shared-primary-password = Contraseña primaria
 compare-shared-security-and-privacy = Seguranza y privacidá
