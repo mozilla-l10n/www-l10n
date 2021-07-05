@@ -22,7 +22,7 @@ history-by-creating-an-open-community = Al crear una comunidad abierta, el proye
 #   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
-history-community-members-got-involved = Los miembros de la comunidad se involucraron y expandieron el alcance del proyecto <a href="{ $mission }">misión original</a> en lugar de simplemente trabajar en el siguiente navegador de { -brand-name-netscape }, la gente empezó a crear <a href="{ $browsers }">una variedad de navegadores</a>, <a href="{ $bugzilla }">herramientasde desarrollo</a> y una variedad de otros <a href="{ $project }">proyectos</a>.
+history-community-members-got-involved = Los miembros de la comunidad se involucraron y expandieron el alcance de la <a href="{ $mission }">misión original</a> del proyecto en lugar de simplemente trabajar en el siguiente navegador de { -brand-name-netscape }, la gente empezó a crear <a href="{ $browsers }">una variedad de navegadores</a>, <a href="{ $bugzilla }">herramientas de desarrollo</a> y una variedad de otros <a href="{ $projects }">proyectos</a>.
 history-people-contributed-to-mozilla = La gente colaboró con { -brand-name-mozilla } de diferentes maneras, pero todos estaban apasionados de crear software libre que permitiera a la gente tener la opción de elegir cómo experimentaban Internet.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
@@ -49,7 +49,7 @@ history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox 
 history-new-versions-of-firefox = Desde entonces salieron nuevas versiones de { -brand-name-firefox } de manera regular y siguen estableciendo nuevos records. La popularidad de { -brand-name-firefox } ayudó a devolver la elección a los usuarios.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
-history-the-renewed-competition = La competencia renovada tiene <a href="{ $Innovation }">innovación acelerada</a> y mejoró Internet para todos.
+history-the-renewed-competition = La competencia renovada tiene <a href="{ $innovation }">innovación acelerada</a> y mejoró Internet para todos.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = En 2013, lanzamos <a href="{ $firefoxos }"> { -brand-name-firefox-os } </a> para liberar todo el poder de la web en los teléfonos inteligentes y, una vez más, ofrecer control y opciones a una nueva generación de personas que se conectan.
@@ -61,7 +61,7 @@ history-more-people-than-ever-before = <Muchas más personas están usando Inter
 # Variables:
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
-history-a-sustainable-organization = Se creó una organización sustentable que utiliza mecanismos de mercado para apoyar una misión de beneficio público y este modelo fue reutilizado por otros para crear organizaciones abiertas, transparentes y colaborativas en una <a href="{ $range }">amplia gama</a> <a href="{ $reas }" de áreas</a>.
+history-a-sustainable-organization = Se creó una organización sustentable que utiliza mecanismos de mercado para apoyar una misión de beneficio público y este modelo fue reutilizado por otros para crear organizaciones abiertas, transparentes y colaborativas en una <a href="{ $range }">amplia gama</a> <a href="{ $areas }">de áreas</a>.
 history-the-future-is-full-of-challenges = El futuro está lleno de desafíos y oportunidades iguales a las de nuestro pasado.
 history-theres-no-guarantee-that = No hay garantía de que Internet permanezca abierto, disfrutable o seguro.
 history-mozilla-will-continue-to = { -brand-name-mozilla } continuará brindando una oportunidad para que la gente haga oír su voz y moldee su propia vida en línea.
@@ -69,7 +69,7 @@ history-of-course-were-not-alone = Por supuesto, no somos los únicos haciendo e
 history-the-mozilla-community-together = La comunidad de { -brand-name-mozilla }, junto con otros proyectos de código abierto y otras organizaciones de beneficio público, existe solo por las personas que se dedican a hacer de nuestros objetivos comunes una realidad.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
-history-if-you-want-to-join-us-in = Si querés unirte a nosotros en nuestra misión, <a href="{ $Contribute }">involucrate</a>.
+history-if-you-want-to-join-us-in = Si querés unirte a nosotros en nuestra misión, <a href="{ $contribute }">involucrate</a>.
 history-for-more-information-about = Para obtener más información sobre el historial de { -brand-name-mozilla }, consultá lo siguiente:
 history-mozilla-bookmarks = Marcadores de { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronología del proyecto { -brand-name-mozilla }

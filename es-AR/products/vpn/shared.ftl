@@ -37,7 +37,7 @@ vpn-shared-features-protection = Protección para hasta { $devices } dispositivo
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Conectar a más de { $servidores } en más de { $countries } países
+vpn-shared-features-server-countries = Conectar a más de { $servers } en más de { $countries } países
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Disponible en { $countries } países ahora. Próximamente más regiones
