@@ -12,6 +12,7 @@ vpn-desktop-hero-headline = Eike ñandutípe tekorosãme { -brand-name-mozilla-v
 vpn-desktop-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
+vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } rembipuru’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Eike a mohendahavusu arapyguávape
 # Variables:
 #   $servers (number) - number of available servers
@@ -21,6 +22,7 @@ vpn-desktop-servers-copy = Eikundaha Brasil guive. Eñembosarái Japón guive. E
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Emo’ã { $devices } mba’e’oka peve
+vpn-desktop-devices-copy = Ne ñemboheraguapy nemoinge ore VPN mba’epuru hekorosãva ne pumbyry, tabléta ha mohendahápe { -brand-name-ios } peg̃uarã, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } ha { -brand-name-linux }.
 vpn-desktop-speed-headline = Pya’ekue eimo’ã’ỹva, jejoko’ỹre
 vpn-desktop-speed-copy = Ehecha ta’ãngamýi, eñembosarái, ejogua ha eikundaha pya’eterei. { -brand-name-mozilla-vpn } nomomichĩmo’ãi pe ancho de banda ha nomombeguemo’ãi ne pumbyry.
 vpn-desktop-log-headline = Ne ñemigua oĩ tenonderã
