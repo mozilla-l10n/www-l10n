@@ -15,8 +15,14 @@ vpn-mac-hero-headline = Emo’ã nde jeike ñandutípe { -brand-name-mozilla-vpn
 vpn-mac-wifi-headline = Eñeñandu tekorosãme wifi jerovia’ỹhápe
 vpn-mac-wifi-copy = Eike py’aguapýpe wifi mba’etee’ỹvape { -brand-name-mozilla-vpn } rupive omo’ã añetéva nde jeike ñandutípe ne mba’ekuaarã teéva oĩ hag̃ua kañyhápe mba’evaiapoha ha oma’ẽ ñañávagui.
 vpn-mac-about-headline = Peteĩ tembipurupyahu apohára jeroviaha
+vpn-mac-about-copy = 1998 guive { -brand-name-mozilla }, oheka’ỹva viru, omboguata hembipota ñanduti iporãvéva rekávo. Ko apopyre { -brand-name-firefox-browser } guive tembiapo arapy tuichakue peve, pe { -brand-name-mozilla } rembiapo omombarete ñanduti hekosãso ha ijuruja hag̃ua opavavépe g̃uarã.
 vpn-mac-privacy-headline = Tekoñemi ne kuã rehe
+vpn-mac-privacy-copy = { -brand-name-mozilla-vpn } ndive, nde jeike ñandutípe ipapapýta ha nde IP kundaharape oñemo’ãta mba’evaiapoha ha ñanduti me’ẽhára oikereívagui pe { -brand-name-wireguard }® raperekoite rupive.
 vpn-mac-servers-headline = Eike mohendahavusu arapyguávape
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Emoambue ne { -brand-name-mac-short } rendaite hetave { $servers } mohendahavusu hetave { $countries } tetãme. Kóva omoneĩta emoñe’ẽ hag̃ua marandu, ejogua, ehecha ta’ãngamýi ha eikundaha hag̃ua ñandutípe eimehápe.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Emo’ã { $devices } mba’e’oka ñemboheraguapy ndive
