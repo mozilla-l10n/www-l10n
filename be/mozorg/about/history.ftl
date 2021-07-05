@@ -11,4 +11,12 @@ history-history-of-the-mozilla-project = Гісторыя праекта { -bran
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Праект { -brand-name-mozilla } быў <a href="{ $coderush }">створаны ў 1998 годзе</a> разам з <a href="{ $sourcerelease }">публікацыяй праграмнага коду браўзэра { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Ён быў закліканы выкарыстаць творчую сілу тысяч праграмістаў у Інтэрнэце і запаліў беспрэцэдэнтны ўзровень інавацый на рынку браўзераў.
+# Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = Цягам <a href="{ $firstyear }">першага года</a> новыя ўдзельнікі супольнасці з усяго свету ўжо ўнеслі новую функцыянальнасць, палепшылі наяўныя функцыі і пачалі браць удзел у кіраванні і планаванні самога праекта.
 history-mozilla-bookmarks = Закладкі { -brand-name-mozilla }
+history-timeline-of-mozilla-project = Храналогія праекта { -brand-name-mozilla }
+history-mozilla-digital-memory-bank = Лічбавы банк памяці { -brand-name-mozilla }
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">Гісторыя плакатаў { -brand-name-firefox } і { -brand-name-mozilla }</a> (даступна на англійскай і японскай мовах)
