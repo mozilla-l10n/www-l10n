@@ -26,3 +26,4 @@ vpn-desktop-devices-copy = Ne ñemboheraguapy nemoinge ore VPN mba’epuru hekor
 vpn-desktop-speed-headline = Pya’ekue eimo’ã’ỹva, jejoko’ỹre
 vpn-desktop-speed-copy = Ehecha ta’ãngamýi, eñembosarái, ejogua ha eikundaha pya’eterei. { -brand-name-mozilla-vpn } nomomichĩmo’ãi pe ancho de banda ha nomombeguemo’ãi ne pumbyry.
 vpn-desktop-log-headline = Ne ñemigua oĩ tenonderã
+vpn-desktop-log-copy = { -brand-name-mozilla }-pe, norombyatýi mba’ekuaarã mávapa nde térã ne rembiapokue ñandutípe — taha’e ore VPN rupive térã mba’evéichagua ore apopyre rupi. Ne ñemigua ñemo’ã ha’e pe ore rembipota tuichavéva.

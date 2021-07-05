@@ -10,6 +10,7 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã 
 vpn-ios-page-description = Ereko tekorosã ipya’e ha hasy’ỹva ne { -brand-name-iphone }-pe térã { -brand-name-ipad } { -brand-name-mozilla } rupive, téra ojejeroviaveha tembipurupyahúpe.
 # Mobile strings
 vpn-ios-hero-headline = Ereko ñemo’ã ha tekoñemi ñandutípe { -brand-name-mozilla-vpn } ndive { -brand-name-ios } peg̃uarã
+vpn-ios-maker-of-firefox = Ñanduti kundahára mboguataháraramo { -brand-name-firefox } ha peteĩva umi jeroviaha oñorairõvéva ne ñemigua ñandutípe rehe, { -brand-name-mozilla } oguereko ohupytysevévaramo ne ñemigua ha ne rekorosã eike vovénte.
 vpn-ios-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
 vpn-ios-about-headline = ¿Mba’ére ejeroviáta orerehe?
 vpn-ios-privacy-headline = Jeike 1 jekutúpe
