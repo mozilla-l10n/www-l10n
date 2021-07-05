@@ -22,6 +22,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ñepy
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
 firefox-desktop-download-how-firefox-compares = Mba’éicha emoñondivekuaa { -brand-name-firefox } ambue kundahára ndive
+firefox-desktop-download-get-all-the-speed = Embopya’eve ha tembipuru eguerekóta oike’ỹ rehe ne ñemiguápe. { -brand-name-firefox-browser } rombyaty sa’imi mba’ekuaarã nde rehegua ni ndorojeruréi ne ñanduti veve kundaharape romboguejy hag̃ua. Kóva oiko, ojuavýva ambue kundaháragui, ndoroguekóigui mba’érepa rohapykuehóta ñandutípe.
 firefox-desktop-download-how-we-compare = Mba’éicha ñañomoñondivekuaa ambue kundahára ndive
 firefox-desktop-download-compare-firefox-to = Emoñondive { -brand-name-firefox } ndive:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
