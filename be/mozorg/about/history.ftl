@@ -14,6 +14,7 @@ history-it-was-intended-to-harness = Ён быў закліканы выкары
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
 history-within-the-first-year-new = Цягам <a href="{ $firstyear }">першага года</a> новыя ўдзельнікі супольнасці з усяго свету ўжо ўнеслі новую функцыянальнасць, палепшылі наяўныя функцыі і пачалі браць удзел у кіраванні і планаванні самога праекта.
+history-the-mozilla-community-together = Супольнасць { -brand-name-mozilla }, разам з іншымі праектамі з адкрытым зыходным кодам і іншымі грамадскімі арганізацыямі, існуе толькі дзякуючы людзям, якія займаюцца рэалізацыяй нашых агульных мэтаў.
 history-mozilla-bookmarks = Закладкі { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Храналогія праекта { -brand-name-mozilla }
 history-mozilla-digital-memory-bank = Лічбавы банк памяці { -brand-name-mozilla }
