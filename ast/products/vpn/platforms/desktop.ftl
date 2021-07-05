@@ -7,3 +7,7 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } pa ordenadores
+vpn-desktop-servers-headline = Conéctate a sirvidores de tol mundu
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Proteición p'hasta { $devices } preseos
