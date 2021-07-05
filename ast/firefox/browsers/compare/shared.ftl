@@ -9,6 +9,8 @@
 compare-shared-yes = Sí
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Non
+compare-shared-password-management = Xestión de contraseñes
+compare-shared-primary-password = Contraseña primaria
 compare-shared-security-and-privacy = Seguranza y privacidá
 compare-shared-utility = Utilidá
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
