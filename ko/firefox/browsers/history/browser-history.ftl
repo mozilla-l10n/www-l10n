@@ -24,3 +24,5 @@ browser-history-by-1993-the-web = 1993년, 웹이 폭발했습니다. 대학, �
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA 모자익은 { -brand-name-windows } 컴퓨터에서 실행되었고 사용하기 쉬웠으며 PC를 사용하는 모든 사람에게 초기 웹 페이지, 채팅방 및 이미지 라이브러리에 대한 접근 권한을 부여했습니다. 다음 해(1994), 앤더센은 <a href="{ $netscape }">{ -brand-name-netscape }</a>를 설립하고 { -brand-name-netscape } Navigator를 대중에 공개했습니다. 그것은 매우 성공적이었고 사람들을 위한 최초의 브라우저였습니다. 또한 인터넷 사용자를 위한 새로운 종류의 전쟁의 첫 번째 움직임이었습니다.
 browser-history-the-browser-wars = 브라우저 전쟁
+browser-history-resources = 자원
+browser-history-take-control-of = 브라우저를 제어하세요.
