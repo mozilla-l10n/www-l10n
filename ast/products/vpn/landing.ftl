@@ -8,6 +8,7 @@
 # Obsolete string
 vpn-landing-hero-sub-heading = La seguranza na que s'encontar. Un nome nel que s'enfotar.
 vpn-landing-fast-secure-heading = Una rede rápida y segura
+vpn-landing-brand-trust-heading = La VPN d'una compaña na que s'enfotar
 
 ## FAQ section
 
