@@ -27,12 +27,15 @@ firefox-accounts-meet-our-family-of = Kavit hon dibab produoù buhez-prevez-da-g
 firefox-accounts-firefox-is-technology = Un deknologiezh a stourm evidoc'h-c'hwi eo { -brand-name-firefox }.
 firefox-accounts-get-technology-that = Implijit an teknologiezh a stourm evit ho kwirioù.
 firefox-accounts-travel-the-internet = Merdeit gwarezet war internet, war pep trevnad.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Dalc'hit ho kerioù-tremen gwarezet ha ganeoc'h bepred.
 firefox-accounts-get-a-lookout-for = Dizoleiñ ar fuadurioù roadennoù.
+# Obsolete string
 firefox-accounts-share-large-files = Rannit restroù pounner hep selloù diaviz.
 firefox-accounts-get-it-all-on-every = Kavit pep tra war pep trevnad hep bezañ stanket war ur reizhiad korvoiñ nemetken.
 firefox-accounts-and-get-it-all-on = Ha kavit pep tra war pep trevnad hep bezañ stanket war ur reizhiad korvoiñ nemetken.
 firefox-accounts-get-the-respect-you = Ho pezet an doujañs a zellezit.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-get-the-knowledge = Ho pezet an anaoudegezhioù ret evit chom e surentez.
 firefox-accounts-learn-everything-you = Deskit pep tra a rankit gouzout evit chom fin hag e surentez enlinenn a-drugarez d'an arbennigourien e-touez ar re barrekañ er bed.
 firefox-accounts-and-be-part-of-protecting = Ha kemerit perzh a-benn suraat an internet evit ar rummadoù da zont.
@@ -40,11 +43,13 @@ firefox-accounts-help-us-build-a-better = Sikourit ac'hanomp a-benn sevel ur { -
 firefox-accounts-get-into-the-open = Degemerit spered an tarzh digor en ur prouadiñ ar produoù da zont.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Sikourit ac'hanomp da zalc'h Big Tech dindan reolerezh.
+firefox-accounts-we-support-communities = Skoazellañ a reomp kumuniezhioù deus ar bed a-bezh evit un internet yac'husoc'h. Ouzhpennit ho mouezh er stourm.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Skoazellañ a reomp kumuniezhioù deus ar bed a-bezh evit un internet yac'husoc'h. Ouzhpennit ho mouezh er stourm.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
