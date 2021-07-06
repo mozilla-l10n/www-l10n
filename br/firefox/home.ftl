@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = { -brand-name-firefox } - Gwarezit ho puhez enlinenn gant produioù prevezded-da-gentañ
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
