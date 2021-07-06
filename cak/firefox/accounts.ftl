@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = Tawetamaj kiwäch ri taq qatikojil kach'al
 firefox-accounts-firefox-is-technology = Ri { -brand-name-firefox } jun na'ob'äl yatruchajij.
 firefox-accounts-get-technology-that = Tak'ulu' na'ob'äl yatruchajij.
 firefox-accounts-travel-the-internet = Tanik'oj ri k'amaya'l rik'in chajinem, pa xab'achike okib'äl.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Xab'akuchi' ke'ak'waj ri ewan taq atzij chuqa' ütz keyake'.
 firefox-accounts-get-a-lookout-for = Tak'ulu' kitzijol tz'ilan taq tzij.
+# Obsolete string
 firefox-accounts-share-large-files = Ke'akomonij nïm taq yakb'äl, akuchi' man yatkinachaj ta.
 firefox-accounts-get-it-all-on-every = Tawila' ronojel pa jun okisab'äl; man katruchäp jun samajel q'inoj.
 firefox-accounts-and-get-it-all-on = Chuqa' tawila' ronojel pa jun okisab'äl; man katruchäp jun samajel q'inoj.
 firefox-accounts-get-the-respect-you = Tak'ulu' ri kamelanïk.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Junelïk xtiqab'ij ri qitzij chawe. Ronojel ri niqab'än chuqa' ri niqatz'ük ruximon ri' rik'in <a href="{ $promise }">Qasujunik Chi Kij Ichin Etamab'äl</a>:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = Kojato' chunuk'ik jun jeb'ël { -brand
 firefox-accounts-get-into-the-open = Tak'ama' ri open source akuchi' ye'atojtob'ej ri taq tikomaj yepe chwa'q kab'ij.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Kojato' richin yeqachajij ri nima'q taq moloj pa ruwi' na'ob'äl.
+firefox-accounts-we-support-communities = Yeqato' taq molaj chijun ruwach'ulew yeto'on richin jun raxinäq k'amaya'l. Tatunu' ach'ab'äl rik'in ri qach'ab'äl.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Yeqato' taq molaj chijun ruwach'ulew yeto'on richin jun raxinäq k'amaya'l. Tatunu' ach'ab'äl rik'in ri qach'ab'äl.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
