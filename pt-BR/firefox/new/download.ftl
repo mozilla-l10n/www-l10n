@@ -19,7 +19,7 @@ firefox-new-download-firefox-for-macos = Baixe o { -brand-name-firefox } <br>par
 firefox-new-download-firefox-for-linux = Baixe o { -brand-name-firefox } <br>para { -brand-name-linux }
 firefox-new-free-web-browser = Navegador web livre
 firefox-new-advanced-install-options = Opções avançadas de instalação e outras plataformas
-firefox-new-download-in-another-language = Baixe em outro idioma
+firefox-new-download-in-another-language = Baixar de outro idioma
 firefox-new-need-help = Precisa de ajuda?
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
@@ -59,3 +59,5 @@ firefox-new-visit-support-for-more = Visite o suporte para obter mais detalhes
 firefox-new-download-browser = Baixe o { -brand-name-firefox-browser }
 firefox-new-fast = Rápido, privativo e gratuito
 firefox-new-from-mozilla = da { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } é um navegador gratuito com carregamento rápido de páginas, menos uso de memória e muitos recursos - um projeto da entidade sem fins lucrativos { -brand-name-mozilla }.
+firefox-new-download-a-different = Baixar de outra plataforma ou idioma
