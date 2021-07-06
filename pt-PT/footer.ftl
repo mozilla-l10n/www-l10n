@@ -3,8 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = Manifesto da { -brand-name-mozilla }
+footer-privacy-hub = Centro de privacidade
 footer-privacy = Privacidade
 footer-press = Imprensa
+footer-corporate-blog = Blogue empresarial
+footer-browser-comparison = Comparação de navegadores
 footer-brand-standards = Normas gráficas
 footer-browsers = Navegadores
 # Outdated string
@@ -62,6 +66,9 @@ footer-websites-cookies = Cookies
 footer-websites-legal = Informação legal
 footer-language = Idioma
 footer-go = Ir
+footer-donate = Fazer donativos
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Seguir @{ -brand-name-mozilla }
+footer-follow-firefox = Seguir @{ -brand-name-firefox }

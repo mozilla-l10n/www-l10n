@@ -7,6 +7,7 @@
 
 whatsnew-page-title = Novidades no { -brand-name-firefox } - Mais privacidade, mais proteções.
 whatsnew-page-description = Marque a sua posição contra uma industria que está a vender os seus dados a terceiros. Seja inteligente e esteja seguro na Internet com tecnologia que luta por si.
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = Parabéns! Você está a utilizar a versão mais recente do { -brand-name-firefox-browser }.
 whatsnew-out-of-date-notification = Está disponível um { -brand-name-firefox-browser } novo e ainda mais recente. Reinicie para atualizar.
 # Variables:

@@ -42,6 +42,9 @@ firefox-new-just-download-the-browser = Basta transferir o navegador
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">não disponibiliza mais atualizações de segurança</a> no { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }, mas pode continuar a utilizar o { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -55,5 +58,15 @@ firefox-new-its-privacy-and-peace-of = Também é <strong>privacidade e tranquil
 firefox-new-its-a-family-of-products = É uma <strong>família de produtos</strong> que trata os seus dados pessoais com respeito.
 firefox-new-its-everything-you-need-to = É tudo o que precisa de saber acerca de <strong>manter-se seguro(a) online</strong>.
 firefox-new-its-a-community-that-believes = É <strong>uma comunidade</strong> que acredita que a tecnologia pode fazer melhor.
+firefox-new-download-interrupted = A sua transferência foi interrompida, mas nem tudo está perdido.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Por favor, siga <a href="{ $url }">estas instruções</a> para instalar o { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = O seu sistema pode não cumprir os requisitos para o { -brand-name-firefox }, mas pode experimentar uma <a href="{ $url }">destas versões</a>.
 firefox-new-windows-10 = { -brand-name-windows }10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Se for apresentado um aviso a indicar que está a tentar instalar uma aplicação não validada pela { -brand-name-microsoft }, clique em “Instalar mesmo assim” ou <a { $attrs }>altere as configurações de recomendação de aplicações</ a >.
 firefox-new-visit-support-for-more = Visite o suporte para obter mais detalhes
