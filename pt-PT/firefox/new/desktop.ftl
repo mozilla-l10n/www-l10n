@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Sim
 firefox-desktop-download-no = Não
 firefox-desktop-download-blocks-third-party = Bloqueia cookies de monitorização de terceiros
+firefox-desktop-download-blocks-third-party-default = Bloqueia cookies de monitorização de terceiros por predefinição
 firefox-desktop-download-autoplay-blocking = Bloqueio de reprodução automática
 firefox-desktop-download-blocks-social-trackers = Bloqueia rastreadores de redes sociais
 # OS is short for "Operating System"
@@ -157,6 +158,7 @@ firefox-desktop-download-now-mac = Agora <strong>abra</strong> o ficheiro que ac
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Está a ter problemas? <a { $attrs }>Obtenha ajuda com a sua instalação</a>.
 firefox-desktop-download-in-another-language = Transferir noutro idioma ou para outro sistema operativo.
+firefox-desktop-download-windows-10 = { -brand-name-windows }10
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
