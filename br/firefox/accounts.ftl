@@ -11,6 +11,8 @@ firefox-accounts-there-is-a-way-to = Un doare a zo da wareziñ ho puhez prevez. 
 firefox-accounts-get-a-firefox-account = Krouit ho { -brand-name-firefox-account } – Ho roadennoù a chomo prevez, diarvar ha goubredet
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Bezit a-enep ur greanterezh a werzh ho roadennoù da dredeourien.  Chomit fin hag e surentez gant teknologiezhioù a stourm evidoc'h.
+# Old HTML page description
+firefox-accounts-securely-sync-your = Goubredit en surentez ho kerioù-tremen, sinedoù, ivinelloù hag all war ho holl trevnadoù. Krouit ho { -brand-name-firefox-account } bremañ – Ur gevreadenn – Galloud ha prevezded e pep lec'h.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Un doare a zo da wareziñ ho puhez prevez. <span>Tremenit da { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
@@ -36,6 +38,12 @@ firefox-accounts-get-it-all-on-every = Kavit pep tra war pep trevnad hep bezañ 
 firefox-accounts-and-get-it-all-on = Ha kavit pep tra war pep trevnad hep bezañ stanket war ur reizhiad korvoiñ nemetken.
 firefox-accounts-get-the-respect-you = Ho pezet an doujañs a zellezit.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Gwareziñ hollek evit pep trevnad
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
+firefox-accounts-youll-always-get-the = Biken ne livfemp gevier deoc'h.  Pep tra a reomp a zouj ouzh hor <a href="{ $promise }">reolennoù diwar-benn ar roadennoù personel</a> :
+# Line breaks for visual formatting.
+firefox-accounts-take-less-keep-it = Kemer nebeutoc'h.<br>E virout en surentez.<br>Tamm sekred ebet.
 firefox-accounts-get-the-knowledge = Ho pezet an anaoudegezhioù ret evit chom e surentez.
 firefox-accounts-learn-everything-you = Deskit pep tra a rankit gouzout evit chom fin hag e surentez enlinenn a-drugarez d'an arbennigourien e-touez ar re barrekañ er bed.
 firefox-accounts-and-be-part-of-protecting = Ha kemerit perzh a-benn suraat an internet evit ar rummadoù da zont.
