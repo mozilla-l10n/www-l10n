@@ -189,6 +189,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{
 firefox-desktop-download-your-firefox-new-should-begin = ダウンロードは自動的に開始します。開始しない場合は、<a id="{ $id }" href="{ $fallback_url }">もう一度ダウンロードしてみてください。</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } は、ただのブラウザーではありません
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ダウンロードが中断されましたが、すべてが失われたわけではありません。
 
 # Variables:

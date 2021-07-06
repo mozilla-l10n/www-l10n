@@ -189,6 +189,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = आप एक अस
 firefox-desktop-download-your-firefox-new-should-begin = आपका डाउनलोड अपने आप चालू हो जाना चाहिए। काम नहीं कर रहा है? <a id="{ $id }" href="{ $fallback_url }">फिर से डाउनलोड करने की कोशिश करें।</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } महज एक ब्राउज़र से कहीं अधिक है।
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = आपका डाउनलोड बाधित हो गया था। पर परेशान होने की ज़रूरत नहीं है।
 
 # Variables:

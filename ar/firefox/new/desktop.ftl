@@ -189,6 +189,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = إنك تستخدم 
 firefox-desktop-download-your-firefox-new-should-begin = التنزيل سيبدأ تلقائيًا. ألم ينجح ذلك؟ <a id="{ $id }" href="{ $fallback_url }">حاول التنزيل مرة أخرى.</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } أكثر من مُجرد مُتصفح
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = انقطعت عملية التنزيل. ولكن لم يُفقد كل شيء.
 
 # Variables:

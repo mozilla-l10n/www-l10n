@@ -189,6 +189,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Anda menggunakan sis
 firefox-desktop-download-your-firefox-new-should-begin = Muat turun anda akan bermula secara automatik. Tidak berjaya? <a id="{ $id }" href="{ $fallback_url }">Cuba muat turun semula.</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih daripada sekadar pelayar.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Muat turun anda terganggu. Tapi jangan bimbang.
 
 # Variables:

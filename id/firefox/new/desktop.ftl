@@ -189,6 +189,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Anda menggunakan sis
 firefox-desktop-download-your-firefox-new-should-begin = Unduhan Anda akan dimulai secara otomatis. Tidak berhasil? <a id="{ $id }" href="{ $fallback_url }">Coba unduh lagi.</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih dari sekadar peramban.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Unduhan Anda terhenti. Tapi semuanya tidak hilang.
 
 # Variables:
