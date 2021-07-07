@@ -8,6 +8,7 @@
 
 firefox-new-download-firefox = تنزيل { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = نزِّل أسرع { -brand-name-firefox } على الإطلاق
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = تحميل الصفحات بات أسرع، واستخدام الذاكرة أصبح أقل، كما أُضيفت مزايا كثيرة. لقد وصل { -brand-name-firefox } الجديد.
 firefox-new-get-the-latest-firefox = احصل على أحدث إصدار من مُتصفّح { -brand-name-firefox }.
 
@@ -59,4 +60,10 @@ firefox-new-visit-support-for-more = تفضل بزيارة الدعم للحصو
 
 ### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = تحميل { -brand-name-firefox-browser }
+firefox-new-fast = سريع وخاص ومجاني
+firefox-new-from-mozilla = من { -brand-name-mozilla }
 
+firefox-new-desc = { -brand-name-firefox-browser } مُتصفّح ويب مجاني بسرعة تحميل فائقة واستخدام أقل للذاكرة والكثير من المزايا - مشروع لا يَستهدف الربح { -brand-name-mozilla }.
+firefox-new-download-a-different = تحميل منصة أو لغة مُختلفة
