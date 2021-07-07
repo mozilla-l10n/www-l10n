@@ -35,3 +35,5 @@ be-free-to = Sinta-se à vontade para elogiar o { -brand-name-firefox } sempre q
 the-ad-blocker = O bloqueador de publicidade – a arma secreta contra anúncios irritantes.
 so-many-ads = Tantos anúncios, tão pouca paciência… É tempo de parar com a loucura.
 firefox-more-protection = { -brand-name-firefox }: Mais proteção. Menos preocupação.
+firefox-more-translate-the-web = Traduzir a Internet
+firefox-more-translate-more-than = Traduza mais de 100 idiomas para o seu idioma, diretamente no seu { -brand-name-firefox-browser } - mais simples que nunca.
