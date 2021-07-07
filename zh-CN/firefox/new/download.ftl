@@ -58,3 +58,4 @@ firefox-new-visit-support-for-more = 到用户支持站了解更多信息
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = 下载 { -brand-name-firefox-browser }
 firefox-new-from-mozilla = { -brand-name-mozilla } 出品
+firefox-new-download-a-different = 其他平台或语言下载
