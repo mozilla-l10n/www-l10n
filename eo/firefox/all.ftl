@@ -5,6 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-check-the-system-requirements = Kontrolu la postulojn de la sistemo
+firefox-all-release-notes = Notoj pri liverado
+firefox-all-source-code = Fonta kodo
+firefox-all-need-help = Ĉu vi bezonas helpon?
+firefox-all-which-browser-would = Kiun retumilon vi ŝatus elŝuti?
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Helpo
+firefox-all-you-are-about-to-download = Vi pretas elŝuti:
+firefox-all-browser = Retumilo:
+firefox-all-platform = Platformo:
+firefox-all-language = Lingvo:
+firefox-all-lang-multi = Pluraj lingvoj
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }

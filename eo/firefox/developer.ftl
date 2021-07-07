@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Helpu disvolvi la lastan sendependan ret
 firefox-developer-start-now = Komenci nun
 firefox-developer-design-code-test = Fasonu. Kodu. Testu. Rafinu.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Konstruu kaj perfektigu viajn retejojn per la<br> iloj por programistoj de Firefox
+firefox-developer-build-and-perfect = Konstruu kaj perfektigu viajn retejojn<br> per { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspektilo
 firefox-developer-inspect-and-refine = Inspekti kaj rafini kodon por krei aranĝojn precizegajn.
 firefox-developer-learn-about-page-inspector = Pli da informo pri la inspektilo de paĝoj
@@ -52,7 +52,7 @@ firefox-developer-style-editor = Redaktilo de stiloj
 firefox-developer-edit-and-manage = Redakti kaj administri ĉiujn viajn stilfolioj CSS en via retumilo.
 firefox-developer-learn-more-about-style = Pli da informo pri la redaktilo de stiloj
 firefox-developer-new-tools = Novaj iloj
-firefox-developer-firefox-devtools = Iloj de Firefox por programistoj
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = La novaj iloj de Firefox por programistoj estas povaj, fleksemaj kaj, ĉefe, modifeblaj. Ili enhavas la plej bonan sencimigilon de JavaScript, kiu povas adaptiĝi al pluraj retumiloj kaj estas enmetita en React kaj Redux.
 firefox-developer-master-css-grid = Mastru la kadrojn CSS
 firefox-developer-next-gen-css-engine = Novgeneracia motoro de CSS
