@@ -37,6 +37,33 @@ navigation-get-firefox-focus = Faigh { -brand-name-firefox-focus }
 navigation-android-extensions = Leudachain { -brand-name-android }
 navigation-your-firefox-account = An { -brand-name-firefox-account } agad
 navigation-make-the-most-of-your = Faigh làn-bhuannachd à { -brand-name-firefox } air gach uidheam.
+# Outdated string
+navigation-learn-how-to-customize = Faigh a-mach mar a ghnàthaicheas tu an dòigh san obair { -brand-name-firefox }.
+navigation-explore-the-immersive = Rùraich an lìon làn-tumaidh leis a’ headset fìorachd bhiortail agad.
+# Outdated string
+navigation-experience-augmented = Faigh fìorachd leasaichte ’s bhiortail le { -brand-name-firefox }.
+navigation-get-together = Thig cruinn còmhla san fhìorachd bhiortail leis an rùm sòisealta air loidhne seo.
+# Outdated string
+navigation-meet-people-in-experimental = Coinnich ri càch ann an seòmraichean-cabadaich fìorachd mheasgaichte deuchainneil le { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Fìorachd mheasgaichte { -brand-name-mozilla }
+# Outdated string
+navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = Bheir { -brand-name-mozilla } fìorachd bhiortail is leasaichte dhan lìon fhosgailte.
+# Outdated string
+navigation-mozilla-brings-firefox = Bheir { -brand-name-mozilla } { -brand-name-firefox } dhan fhìorachd bhiortail is leasaichte.
+navigation-firefox-built-just-for = { -brand-name-firefox } air a thogail dhan luchd-leasachaidh gu sònraichte.
+navigation-preview-the-latest-build = Faigh ro-shealladh air an togail as ùire dhe { -brand-name-firefox } is cuidich leinn gus piseach a thoirt air.
+navigation-firefox-playground = Raon-cluiche { -brand-name-firefox }
+navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
+navigation-mozilla-manifesto = Manifesto { -brand-name-mozilla }
+navigation-menu = Clàr-taice
+navigation-check-out-the-benefits = Thoir sùil air na buannachdan
+navigation-browsers = Brabhsairean
+navigation-close-browsers-menu = Dùin clàr-taice nam brabhsairean
+navigation-download = Luchdaich a-nuas
+navigation-extensions = Leudachain
+navigation-support = Taic
+navigation-privacy = Prìobhaideachd
 navigation-release-notes = Na notaichean sgaoilidh
 navigation-features = Feartan
 navigation-products = Bathar
