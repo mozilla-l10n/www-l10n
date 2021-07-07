@@ -12,15 +12,20 @@ firefox-home-meet-our-family-of = Conheça a nossa gama de produtos
 firefox-home-get-trackers-off = Despiste mais de 2000 rastreadores — incluindo o { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Saiba quando os piratas atacam — e mantenha-se um passo à frente
 firefox-home-start-getting-breach = Comece por receber os relatórios de falhas de segurança
+# Obsolete string
 firefox-home-keep-your-passwords = Mantenha as suas palavras-passe seguras em cada dispositivo
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Saber mais sobre o { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Obtenha o <strong>respeito</strong> que merece
 firefox-home-every-single-firefox = Cada produto { -brand-name-firefox } honra a nossa Promessa de dados pessoais: <strong>Recolher menos. Manter seguro. Sem segredos.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Partilhe ficheiros grandes sem olhares indiscretos
+# Obsolete string
 firefox-home-start-sending-files = Comece a enviar ficheiros com segurança
 firefox-home-trade-clickbait-for = Troque engodo para cliques por conteúdos de qualidade
 firefox-home-learn-more-about-pocket = Saber mais sobre o { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Proteção para todo o seu dispositivo, em todos os dispositivos.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Uma credencial. Todos os seus dispositivos. Uma família de produtos que respeitam a sua <strong>privacidade</strong>.
 firefox-home-join-firefox = Junte-se ao { -brand-name-firefox }
@@ -29,6 +34,7 @@ firefox-home-get-the-browser-extension = Obtenha a extensão do navegador
 firefox-home-get-the-facebook-container = Obtenha a extensão { -brand-name-facebook-container }
 firefox-home-download-the-browser = Transferir o navegador
 firefox-home-download-the-app = Transferir a aplicação
+firefox-home-get-mozilla-vpn = Obter a { -brand-name-mozilla-vpn }
 firefox-home-desktop = Computador
 firefox-home-browsers = Navegadores
 firefox-home-android = { -brand-name-android }
@@ -38,6 +44,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
