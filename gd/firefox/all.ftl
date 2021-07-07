@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-check-the-system-requirements = Thoir sùil air na riatanasan air an t-siostam
+firefox-all-release-notes = Nòtaichean sgaoilidh
+firefox-all-source-code = Bun-tùs
+firefox-all-need-help = Cobhair a dhìth?
+firefox-all-which-browser-would = Dè am brabhsair a bu mhiann leat luchdadh a-nuas?
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Faigh cobhair
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
