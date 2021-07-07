@@ -11,7 +11,7 @@
 
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
+-brand-name-creative-commons = Krea Komunaĵo
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
@@ -134,14 +134,14 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 
