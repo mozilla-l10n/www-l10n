@@ -8,6 +8,7 @@
 
 firefox-new-download-firefox = { -brand-name-firefox } डाउनलोड करें
 firefox-new-download-the-fastest-firefox = अब तक का सबसे तेज़ { -brand-name-firefox } डाउनलोड करें
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = अधिक तेज़ी से पेज लोडिंग, कम मेमोरी उपयोग और तमाम फ़ीचर्स से लैस, नया { -brand-name-firefox } हाजिर है।
 firefox-new-get-the-latest-firefox = एकदम नया { -brand-name-firefox } ब्राउज़र पाएँ।
 
@@ -59,4 +60,10 @@ firefox-new-visit-support-for-more = और जानकारी के लि�
 
 ### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = { -brand-name-firefox-browser } डाउनलोड करें
+firefox-new-fast = तेज़, निजी और मुफ़्त
+firefox-new-from-mozilla = { -brand-name-mozilla } की ओर से
 
+firefox-new-desc = { -brand-name-firefox-browser } - यह एक मुफ़्त वेब ब्राउज़र है जिसमें तेज़ी से पेज लोड होते हैं, मेमोरी कम इस्तेमाल होती है, साथ ही बहुत सारे फ़ीचर्स भी हैं - यह गैर-लाभकारी ऑर्गनाइज़ेशन { -brand-name-mozilla } का प्रोजेक्ट है।
+firefox-new-download-a-different = कोई अन्य प्लेटफ़ॉर्म या भाषा डाउनलोड करें
