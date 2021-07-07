@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = { -brand-name-firefox } – Dìon do bheatha air loidhne le batharan a chuireas am prìomhachas air do phrìobhaideachd
+firefox-home-firefox-is-more-than = Chan e brabhsair a-màin a th’ ann am { -brand-name-firefox }. Faigh barrachd fiosrachaidh air batharan { -brand-name-firefox } a làimhsicheas an dàta agad le suim agus a chaidh a thogail a chùm prìobhaideachd àite sam bith a thèid thu air loidhne.
+firefox-home-the-browser-is-just = Chan e ach toiseach-tòiseachaidh a tha sa bhrabhsair
+firefox-home-meet-our-family-of = Faigh eòlas air ar teaghlach de bhatharan
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
