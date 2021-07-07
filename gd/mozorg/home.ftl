@@ -7,6 +7,9 @@
 
 home-internet-for-people-not-profit = An t-eadar-lìon do dhaoine ’s chan ann airson prothaid
 home-did-you-know-mozilla-the-maker = An robh fhios aga? Tha { -brand-name-mozilla } – na daoine a rinn { -brand-name-firefox } – a’ dèanamh strì airson an t-eadar-lìon a chumail saor is fosgailte dhan a h-uile duine, goireas eadar-nàiseanta poblach.
+home-fast-for-good = Cho luath ’s a ghabhas.
+home-with-2x-the-speed-built-in = L2 2x air an astar, dìon prìobhaideachd ’na bhroinn agus { -brand-name-mozilla } air chùl, ’s e am { -brand-name-firefox } ùr an dòigh as fheàrr airson brabhsadh.
+home-we-make-the-internet-safer = Nì sinn an t-eadar-lìon nas sàbhailte fallainne luaithe.
 home-our-impact = Ar buaidh
 home-working-at-the-grassroots-and = Tha sinn ag obair gu h-àrd is gu h-ìosal, a’ teagasg litearrachd-lìn, a’ solar innealan agus ag agairt as leth gach neach a tha ag iarraidh eadar-lìon cothromach, saor is suimeil.
 home-our-innovations = Ar n-innleachdan
