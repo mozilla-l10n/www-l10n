@@ -59,3 +59,5 @@ firefox-new-visit-support-for-more = 到技術支援站了解更多資訊
 firefox-new-download-browser = 下載 { -brand-name-firefox-browser }
 firefox-new-fast = 快速、免費，又有隱私
 firefox-new-from-mozilla = 來自 { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } 是由非營利組織 { -brand-name-mozilla } 所推出，能夠快速載入網頁、記憶體用量更少，還有滿滿功能的免費瀏覽器。
+firefox-new-download-a-different = 下載其他平台與語言版本
