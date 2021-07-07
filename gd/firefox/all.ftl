@@ -32,6 +32,24 @@ firefox-all-learn-about-firefox = Barrachd fiosrachaidh mu bhrabhsairean { -bran
 firefox-all-the-standard-firefox = Am brabhsair { -brand-name-firefox } stannardach – luath ’s prìobhaideach. Mur eil thu cinnteach dè am { -brand-name-firefox } a thaghas tu, tagh am fear seo.
 firefox-all-get-a-sneak-peek-at = Faigh ro-shealladh air na gleusan as ùire dhen brabhsair { -brand-name-firefox } mus dèid an sgaoileadh.
 firefox-all-test-your-sites-against = Cuir na làraichean agad fo dheuchainn leis na gleusan aig { -brand-name-firefox } a thèid a sgaoileadh a dh’aithghearr le DevTools cumhachdach is sùbailte a bhios air o thùs.
+firefox-all-count-on-stability-and = Faigh seasmhachd is cleachdadh furasta leis a’ brabhsair { -brand-name-firefox } seo a chaidh a thogail do dh’enterprise.
+firefox-all-windows-installers-for = Stàlaichearan Windows dhan ICT corporra a nì rèiteachadh, deployment is stùireadh { -brand-name-firefox-browser } nas fhasa.
+firefox-all-arm64-installers = Stàlaichearan ARM64/AArch64
+firefox-all-arm64-installers-optimized = Stàlaichearan ARM64/AArch64 a chaidh a phiseachadh dha PCan { -brand-name-windows } le cumachd Snapdragon.
+firefox-all-product-send-link = Cuir ceangal luchdaidh a-nuas dhan fhòn agad
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Tagh stàlaichear 32.biod do choimpiutairean sa bheil pròiseasar 32-biod – no do choimpiutairean a tha sean no aig nach eil mòran cumhachd. <a href="{ $url }">Mur eil thu cinnteach</a> an tagh thu stàlaichear 64-biod no 32-biod, mholamaid gun tagh thu 32-biod.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Luchdaich { $product_label } dha { $platform } ann a cànan { $locale }
+firefox-all-msi-installers = Stàlaichearan MSI
+firefox-all-which-version = Dè an tionndadh a thogras tu?
+firefox-all-select-your-preferred-installer = Tagh an stàlaichear as fheàrr leat
+firefox-all-select-your-preferred-language = Tagh an cànan as fheàrr leat
+firefox-all-learn-about-installers = Barrachd fiosrachaidh mu na stàlaichearan
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
@@ -40,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
