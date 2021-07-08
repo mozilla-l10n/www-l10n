@@ -36,7 +36,7 @@ firefox-enterprise-legacy-browser-support = Suport browsere perimate
 firefox-enterprise-admx-templates = Șabloane ADMX
 firefox-enterprise-deployment-guide = Ghid de lansare
 firefox-enterprise-policy-documentation = Documentație politici
-firefox-enterprise-release-notes = Note de lansare
+firefox-enterprise-release-notes = Note privind versiunea
 firefox-enterprise-documentation-and-community = Documentație și asistență din partea comunității
 # Variables:
 #   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist

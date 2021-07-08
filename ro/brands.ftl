@@ -32,6 +32,7 @@
         [lower-definite-article] browserele Firefox
         [upper-indefinite-article] Browsere Firefox
         [upper-definite-article] Browserele Firefox
+        [lower-genitive-definite-article] browserelor Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
