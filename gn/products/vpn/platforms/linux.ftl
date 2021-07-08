@@ -21,6 +21,9 @@ vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es muy fácil de usar. Toca
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = Eike { $servers }-pe+ mba’e’oka { $countries } tetãnguéra iñambuévape
 # Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } ome’ẽ ndéve pa’ũ emoĩ hag̃ua ne mohendaha rendaite { -brand-name-linux } oipotaháicha peteĩva umi { $countries } tetãme, ijurujahápe peteĩ arapy pyahu hetepy porãva.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Eike { $devices } mba’e’okuéra peve
 vpn-linux-devices-copy = Ñemboheraguapy ndive, eguerekokuaa { -brand-name-mozilla-vpn } { $devices } peve mba’e’oka iñambuéva opaite apopyvusugua, oĩhápe { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-ios }, ko’ã { -brand-name-iphone } ha { -brand-name-ipad } peg̃uarã.
