@@ -59,3 +59,5 @@ firefox-new-visit-support-for-more = Para más detalles visita la página de ayu
 firefox-new-download-browser = Descargar { -brand-name-firefox-browser }
 firefox-new-fast = Rápido, privado y gratuito
 firefox-new-from-mozilla = de { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } es un navegador web gratuito con carga rápida de páginas, menor uso de memoria y muchas características - un proyecto de la organización sin fines de lucro { -brand-name-mozilla }.
+firefox-new-download-a-different = Descargar para una plataforma o idioma diferente
