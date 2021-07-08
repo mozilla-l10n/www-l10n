@@ -13,8 +13,11 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(capitalization: 
 navigation-v2-close-firefox-browsers-menu = Închide meniul { -brand-name-firefox-browsers(capitalization: "lower-genitive-definite-article") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pentru desktop
 navigation-v2-firefox-for-android = { -brand-name-firefox } pentru { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Obține browserul mobil personalizabil pentru smartphone-urile { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pentru { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Obține browserul mobil pentru { -brand-name-iphone } sau { -brand-name-ipad }.
 navigation-v2-firefox-blog = Blogul { -brand-name-firefox }
+navigation-v2-release-notes = Note privind versiunea
 navigation-v2-view-all-firefox-browsers = Vezi toate { -brand-name-firefox-browsers(capitalization: "lower-definite-article") }
 
 ## Products menu
@@ -30,6 +33,7 @@ navigation-v2-view-all-products = Vezi toate produsele
 
 ## Who We Are menu
 
+navigation-v2-join-the-fight-for-a = Alătură-te luptei pentru un internet sănătos.
 
 ## Innovation menu
 

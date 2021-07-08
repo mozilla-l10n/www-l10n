@@ -17,4 +17,4 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Află</a> desp
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Explorează</a> toată familia de produse { -brand-name-firefox } concepute să îți respecte viața privată.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Descarcă</a> browserul { -brand-name-firefox } pentru dispozitive mobile sau calculator
+not-found-page-download-the-firefox-browser = <a href={ $download }>Descarcă</a> browserul { -brand-name-firefox } pentru dispozitivul mobil sau desktop
