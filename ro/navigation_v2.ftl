@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navigation-v2-download-firefox = Descarcă { -brand-name-firefox }
+navigation-v2-menu = Meniu
 
 ## Firefox menu
 
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(capitalization: "upper-definite-article") }
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } pentru desktop
+navigation-v2-firefox-for-ios = { -brand-name-firefox } pentru { -brand-name-ios }
 
 ## Products menu
 
