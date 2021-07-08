@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
-firefox-channel-desktop = Calculator
+firefox-channel-desktop = Desktop
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Navighează orizonturi neîmblânzite.
