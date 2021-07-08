@@ -57,5 +57,7 @@ firefox-new-visit-support-for-more = Per ulteriori informazioni visita la pagina
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Scarica il { -brand-name-firefox-browser }
+firefox-new-fast = Veloce, riservato e gratuito
 firefox-new-from-mozilla = da { -brand-name-mozilla }
+firefox-new-desc = Il { -brand-name-firefox-browser } è un browser gratuito, realizzato dall’organizzazione senza fini di lucro { -brand-name-mozilla }, veloce nel caricare le pagine, con un consumo ridotto di memoria e con molte altre funzioni incluse.
 firefox-new-download-a-different = Scarica versione per altri sistemi operativi o lingue
