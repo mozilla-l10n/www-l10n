@@ -59,3 +59,5 @@ firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 firefox-new-download-browser = Emboguejy { -brand-name-firefox-browser }
 firefox-new-fast = Ipya’e, hekoñemi ha rei
 firefox-new-from-mozilla = { -brand-name-mozilla } mba’e
+firefox-new-desc = { -brand-name-firefox-browser } ha’e ñanduti kundahára reigua kuatiarogue henyhẽ pya’éva, mandu’arerenda puru’ive ha heta hembiapoite. Apopyrã { -brand-name-mozilla } mba’éva, atyguasu viru’ỹgua
+firefox-new-download-a-different = Emboguejy jehechaukaha térã ñe’ẽ ambuéva
