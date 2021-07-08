@@ -8,6 +8,7 @@
 
 firefox-new-download-firefox = Muat turun { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Muat turun { -brand-name-firefox } yang terpantas
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = { -brand-name-firefox } terkini telah tiba. Pemuatan laman lebih pantas, penggunaan memori yang sedikit dan padat dengan ciri-ciri baru.
 firefox-new-get-the-latest-firefox = Dapatkan pelayar { -brand-name-firefox } terkini.
 
@@ -59,4 +60,10 @@ firefox-new-visit-support-for-more = Layari Sokongan untuk Maklumat Lanjut
 
 ### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = Muat turun { -brand-name-firefox-browser }
+firefox-new-fast = Cepat, Peribadi & Percuma
+firefox-new-from-mozilla = daripada { -brand-name-mozilla }
 
+firefox-new-desc = { -brand-name-firefox-browser } adalah pelayar internet percuma dengan pemuatan laman yang pantas, kurang penggunaan memori dan pelbagai ciri-ciri berguna - sebuah projek daripada komuniti bukan berasaskan keuntungan { -brand-name-mozilla }.
+firefox-new-download-a-different = Muat turun platform atau bahasa yang berbeza

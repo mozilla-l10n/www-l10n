@@ -8,6 +8,7 @@
 
 firefox-new-download-firefox = { -brand-name-firefox } をダウンロード
 firefox-new-download-the-fastest-firefox = 史上最速の { -brand-name-firefox } をダウンロード
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = より高速なページ読み込み、メモリ使用量削減、機能満載の最新版 { -brand-name-firefox } が登場しました。
 firefox-new-get-the-latest-firefox = 最新版 { -brand-name-firefox } ブラウザーをダウンロードしてください。
 
@@ -59,4 +60,10 @@ firefox-new-visit-support-for-more = 詳しくはサポートをご覧くださ�
 
 ### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = { -brand-name-firefox-browser } をダウンロード
+firefox-new-fast = 高速、プライベート、無料
+firefox-new-from-mozilla = { -brand-name-mozilla } が開発
 
+firefox-new-desc = { -brand-name-firefox-browser } は、ページの読み込みが高速で、メモリ使用量が少なく、豊富な機能を備えた無料のウェブブラウザーです。非営利団体 { -brand-name-mozilla } のプロジェクトとして提供しています。
+firefox-new-download-a-different = 他のプラットフォームまたは言語でダウンロードする
