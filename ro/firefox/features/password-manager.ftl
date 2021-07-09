@@ -13,6 +13,7 @@ password-manager-firefox-password = Managerul de parole { -brand-name-firefox } 
 password-manager-password-manager = Ai câștigat opțiunea „manager de parole”
 password-manager-give-up-the-memory = Nu te mai chinui să ții minte parolele cu managerul de parole { -brand-name-firefox }.
 password-manager-password-hero = Eroul parolelor
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Uită de resetare. Managerul de parole { -brand-name-firefox } îți păstrează toate parolele ca să te poți autentifica automat sau să găsești ușor parolele salvate. Pentru supersecuritate, creează pe calculator o <a href="{ $url }">parolă generală</a>.
@@ -20,7 +21,7 @@ password-manager-password-magician = Magicianul parolelor
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja parolelor
-password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Autentifică-te pe telefon în { -brand-name-firefox-account } și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
+password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Autentifică-te pe telefon în { -brand-name-firefox-account(capitalization: "lower-definite-article") } și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
 password-manager-password-champion = Eroul parolelor
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
