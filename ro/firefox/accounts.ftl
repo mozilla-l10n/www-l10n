@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Fă cunoștință cu familia noastră de p
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } este tehnologia care luptă pentru tine.
 firefox-accounts-get-technology-that = Obține tehnologia care luptă pentru tine.
 firefox-accounts-travel-the-internet = Călătorește pe internet cu protecție pe fiecare dispozitiv.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Păstrează parolele protejate și portabile.
 firefox-accounts-get-a-lookout-for = Aruncă un ochi la încălcările securității datelor.
+# Obsolete string
 firefox-accounts-share-large-files = Partajează fișiere mari fără priviri indiscrete.
 firefox-accounts-get-it-all-on-every = Obține-le pe toate pe fiecare dispozitiv, fără să te simți captiv unui singur sistem de operare.
 firefox-accounts-and-get-it-all-on = Și instalează-le pe toate pe fiecare dispozitiv, fără să te simți captiv într-un singur sistem de operare.
 firefox-accounts-get-the-respect-you = Primește respectul cuvenit.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Protecție completă pe fiecare dispozitiv
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Întotdeauna îți vom spune adevărul. Ne ținem de <a href="{ $promise }">promisiunea noastră privind datele cu caracter personal</a> prin tot ceea ce clădim și facem:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Ajută-ne să clădim un { -brand-name
 firefox-accounts-get-into-the-open = Intră în spiritul programelor cu sursă deschisă testând produsele în dezvoltare.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Ajută-ne să ținem sub control giganții tehnologici.
+firefox-accounts-we-support-communities = Sprijinim comunitățile din întreaga lume să ia atitudine pentru un internet mai sănătos. Alătură-te luptei.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Sprijinim comunitățile din întreaga lume să ia atitudine pentru un internet mai sănătos. Alătură-te luptei.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

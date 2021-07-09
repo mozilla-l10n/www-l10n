@@ -23,8 +23,8 @@ download-button-please-follow-these = Te rugăm să urmezi <a href="{ $url }">ac
 download-button-your-system-does-not = Sistemul tău nu îndeplinește <a href="{ $url }">cerințele</a> pentru a rula { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } pentru alte platforme și limbi
 download-button-update-your-firefox = Actualizează { -brand-name-firefox }
-download-button-get-firefox-android = Descarcă { -brand-name-firefox } pentru { -brand-name-android }
-download-button-get-firefox-ios = Descarcă { -brand-name-firefox } pentru { -brand-name-ios }
+download-button-get-firefox-android = Obține { -brand-name-firefox } pentru { -brand-name-android }
+download-button-get-firefox-ios = Obține { -brand-name-firefox } pentru { -brand-name-ios }
 download-button-google-play = Acum pe { -brand-name-google-play }
 download-button-free-google-play = Gratuit pe { -brand-name-google-play }
 download-button-app-store = Descarcă gratuit din { -brand-name-app-store }

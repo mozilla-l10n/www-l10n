@@ -33,7 +33,7 @@ whatsnew79-get-the-power-to-prevent = Obține puterea de a împiedica { -brand-n
 # CTA link
 whatsnew79-add-facebook-container = Adaugă { -brand-name-facebook-container }
 # Modal title
-whatsnew79-get-firefox-on-your-phone = Descarcă { -brand-name-firefox } pentru telefon
+whatsnew79-get-firefox-on-your-phone = Obține { -brand-name-firefox } pe telefon
 whatsnew79-scan-the-qr-code = Scanează codul QR ca să începi
 # Accessible text replacement for a QR code image
 whatsnew79-qr-code-to-scan = Cod QR de scanat pentru { -brand-name-firefox }
