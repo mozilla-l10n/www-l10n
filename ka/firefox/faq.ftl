@@ -70,9 +70,9 @@ does-firefox-have = { -brand-name-firefox }-ს მოყვება VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
-firefox-does-not = { -brand-name-firefox }-ს არ მოყვება VPN (ვირტუალური კერძო ქსელი), თუმცა არის ორი პროდუქტი, რომელსაც ქმნის { -brand-name-mozilla }/{ -brand-name-firefox } და შეგიძლიათ დამატებით გამოიყენოთ პირად { -brand-name-firefox-browser(case: "add") } ერთად, რომ დაიცვათ ან თქვენი ბრაუზერის (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ან მოწყობილობის (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi-კავშირი, ისევე როგორც თქვენი IP-მისამართი.
+firefox-does-not = { -brand-name-firefox }-ს არ მოყვება VPN (წარმოსახვითი კერძო ქსელი), თუმცა არის ორი პროდუქტი, რომელსაც ქმნის { -brand-name-mozilla }/{ -brand-name-firefox } და შეგიძლიათ დამატებით გამოიყენოთ პირად { -brand-name-firefox-browser(case: "add") } ერთად, რომ დაიცვათ ან თქვენი ბრაუზერის (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ან მოწყობილობის (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi-კავშირი, ისევე როგორც თქვენი IP-მისამართი.
 related-questions-ip = მსგავსი კითხვები: ფარავს { -brand-name-firefox } თქვენს IP-მისამართს
 who-owns-firefox = ვის ეკუთვნის { -brand-name-firefox }?
 
