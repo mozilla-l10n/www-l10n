@@ -8,4 +8,4 @@
 firefox-sync-your-encryption-key = Cheia ta de criptare rămâne un secret, cunoscută doar de tine și de dispozitivele tale autorizate.
 firefox-sync-enter-an-email = Introdu o adresă de e-mail și parolă pentru <strong>„Creează un { -brand-name-firefox-account }”.</strong>
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
-firefox-sync-learn-more = lower-genitive-definite-article-you
+firefox-sync-learn-more = Mai mult ajutor în gestionarea { -brand-name-firefox-account(capitalization: "lower-genitive-definite-article-you") }

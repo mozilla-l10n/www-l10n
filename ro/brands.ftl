@@ -73,6 +73,7 @@
         [lower-genitive-definite-article-you] contului tău Firefox
         [upper-indefinite-article] Cont Firefox
         [upper-definite-article] Contul Firefox
+        [upper-definite-article-you] Contul tău Firefox
     }
 -brand-name-firefox-accounts =
     { $capitalization ->
