@@ -7,6 +7,7 @@
 
 whatsnew-page-title = มีอะไรใหม่ใน { -brand-name-firefox } - ความเป็นส่วนตัวและการป้องกันที่มากขึ้น
 whatsnew-page-description = ยืนหยัดต่อสู้กับอุตสาหกรรมที่ขายข้อมูลของคุณให้กับบุคคลภายนอก อยู่บนโลกออนไลน์อย่างชาญฉลาดและปลอดภัยด้วยเทคโนโลยีที่ต่อสู้เพื่อคุณ
+whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification = ยินดีด้วย! คุณกำลังใช้ { -brand-name-firefox-browser } รุ่นล่าสุด
 whatsnew-out-of-date-notification = มี { -brand-name-firefox-browser } รุ่นใหม่กว่าให้ใช้แล้ว เริ่มการทำงานใหม่เพื่ออัปเดต
 # Variables:
