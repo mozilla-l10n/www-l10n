@@ -87,6 +87,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
 vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
+vpn-landing-faq-refund-question-desc = Erekojeykuaa nde viru 30 ára oútava pa’ũme ejogua rire mboheraguapy. Eñe’ẽ ore ndive ha emondo mba’ejerure me’ẽjeyrã eiporavóvo votõ “Pytyvõ jeguereko” Ñemoĩporãme ne rembipuru’i { -brand-name-mozilla-vpn } ryepýpe.
 vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarekóta che mboheraguapýre?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
