@@ -23,7 +23,7 @@ navigation-firefox-is-a-whole-family = { -brand-name-firefox } reprezintă o fam
 navigation-join-firefox = Alătură-te { -brand-name-firefox }
 navigation-access-all-of-firefox = Accesează totul în { -brand-name-firefox } cu o singură autentificare — și obține mai multe de la fiecare produs atunci când faci acest lucru.
 navigation-meet-the-firefox-family = Descoperă familia { -brand-name-firefox }
-navigation-firefox-blog = Blog { -brand-name-firefox }
+navigation-firefox-blog = Blogul { -brand-name-firefox }
 navigation-read-about-new-firefox = Citește despre noile funcționalități { -brand-name-firefox } și obține sfaturi despre cum să fii mai în siguranță online.
 navigation-the-non-profit-behind = Organizația non-profit din spatele { -brand-name-firefox } luptă pentru un internet sănătos pentru toți.
 navigation-learn-how-firefox-treats = Află cum îți tratează cu respect { -brand-name-firefox } datele.
@@ -39,7 +39,7 @@ navigation-your-firefox-account = { -brand-name-firefox-account } al tău
 navigation-make-the-most-of-your = Du la maxim experiența { -brand-name-firefox } pe toate dispozitivele.
 # Outdated string
 navigation-learn-how-to-customize = Află cum să personalizezi modul în care funcționează { -brand-name-firefox }.
-navigation-explore-the-immersive = Explorează webul captivant pe căștile tale de realitate virtuală.
+navigation-explore-the-immersive = Explorează webul imersiv pe căștile de realitate virtuală.
 # Outdated string
 navigation-experience-augmented = Încearcă realitatea augmentată și virtuală cu { -brand-name-firefox }.
 navigation-get-together = Reuniți-vă în realitate virtuală cu acest spațiu social online.
