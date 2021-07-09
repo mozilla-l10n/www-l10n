@@ -10,6 +10,7 @@ history-history-of-the-mozilla-project = { -brand-name-mozilla } apopyrã rembia
 #   $coderush (url) - link to https://air.mozilla.org/code-rush/
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Ko apopyrã { -brand-name-mozilla } ha’ékuri <a href="{ $coderush }">heñóiva 1998 jave</a> <a href="{ $sourcerelease }">isãsóvo pe kundahára reñoihágui { -brand-name-netscape } ndive</a>.
+history-it-was-intended-to-harness = Pe roipotáva ha’e umi pokatu moheheñoigua hetaiterei ñanduti mboguatahára ha mba’epyahu moakãrapu’ã oiko’ỹva araka’eve kundaharakuéra apytépe.
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Oñemoheñói tekoha ijurujáva, { -brand-name-mozilla } apopyrãgui oiko <a href="{ $stevecase }">mba’apohaguasu tuichavéva opavavégui</a>.
