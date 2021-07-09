@@ -34,6 +34,9 @@ history-new-versions-of-firefox = Upete guive, oñemyasãi memete { -brand-name-
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Pe ñeñani ipyahúva <a href="{ $innovation }">ombopya’eve mba’epyahu</a> ha omboha’eve Ñanduti opavavetépe g̃uarã.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = Ary 2013 jave, rogueñohẽ <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> hekosasõ ñanduti pokatu pumbyry ha’evévape ha ome’ẽ hag̃ua ñangarekoha ha jeporavokuaa puruhára pyahu og̃uahẽramóva ñandutípe g̃uarã.
 history-mozilla-also-celebrated = { -brand-name-mozilla } avei omomora 15 ary ñemboty 2013-pe.
 history-the-community-has-shown = Tekoha ohechauka umi ñemuha guasu ikatuha oipytyvõ apopyrã ayvu ijurujávape ojejapokuaahápe apopyre tuicháva puruhára pahápe g̃uara ha’éva software ijayvu jurujáva.
 # Variables:
