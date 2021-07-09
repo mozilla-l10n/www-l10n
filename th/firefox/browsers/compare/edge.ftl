@@ -11,3 +11,4 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } กับ
 compare-edge-compare-microsoft-edge-to-the = เปรียบเทียบ { -brand-name-microsoft } { -brand-name-edge } กับ { -brand-name-firefox-browser } เพื่อค้นหาว่าเบราว์เซอร์ใดดีกว่าสำหรับคุณ
 # Main title.
 compare-edge-comparing-firefox-browser-with = เปรียบเทียบ { -brand-name-firefox-browser } กับ { -brand-name-microsoft }{ -brand-name-edge }
+compare-edge-both-browsers-are-relatively = เบราว์เซอร์ทั้งสองค่อนข้างใกล้เคียงกันในแง่ของการเข้ารหัสข้อมูล อย่างไรก็ตาม หากความเป็นส่วนตัวและความโปร่งใสทางออนไลน์มีความสำคัญต่อคุณ { -brand-name-firefox } ก็เป็นตัวเลือกที่ดีกว่าอย่างชัดเจน
