@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sub-navigation-learn-more = Află mai multe
+sub-navigation-firefox-accounts = { -brand-name-firefox-accounts(capitalization: "upper-indefinite-article") }
 sub-navigation-our-products = Produsele noastre
