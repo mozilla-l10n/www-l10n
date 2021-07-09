@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = გამოიყენეთ { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = შეუერთდით მსურველებს
 vpn-shared-sign-in-link = უკვე ხართ გამომწერი?
+# Outdated string
 vpn-shared-available-countries = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, გაერთიანებულ სამეფოში, კანადაში, ახალ ზელანდიაში, სინგაპურსა და მალაიზიაში.
+# Outdated string
 vpn-shared-available-countries-v2 = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, გაერთიანებულ სამეფოში, გერმანიაში, საფრანგეთში, კანადაში, მალაიზიაში, ახალ ზელანდიასა და სინგაპურში.
+vpn-shared-available-countries-v3 = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, კანადაში, გაერთიანებულ სამეფოში, გერმანიაში, საფრანგეთში, იტალიაში, ესპანეთში, ბელგიაში, ავსტრიაში, შვეიცარიაში, მალაიზიაში, ახალ ზელანდიასა და სინგაპურში.
 vpn-shared-money-back-guarantee = 30-დღიანი ვადა თანხის ანაზღაურებისთვის
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = შესაძლებლობები
