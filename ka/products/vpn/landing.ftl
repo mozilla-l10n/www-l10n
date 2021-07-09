@@ -48,21 +48,21 @@ vpn-landing-faq-uses-examples = გაეცანით <a href="{ $url }">ხ�
 vpn-landing-faq-info-question-heading = რა მონაცემებს ინახავს { -brand-name-mozilla-vpn }?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მოქმედებებს ქსელში. ჩვენ მკაცრად მივდევთ { -brand-name-mozilla }-ს <a href="{ $url }">მონაცემების პირადულობის პრინციპებს</a> და მხოლოდ იმ მონაცემებს ვაგროვებთ, რომელიც აუცილებელია VPN-ის მუშაობისა და დროდადრო გაუმჯობესებისთვის.
+vpn-landing-faq-info-question-desc = ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მოქმედებებს ქსელში. ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $url }">მონაცემების პირადულობის პრინციპებს</a> და მხოლოდ იმ მონაცემებს ვაგროვებთ, რომელიც აუცილებელია VPN-ის მუშაობისა და დროდადრო გაუმჯობესებისთვის.
 vpn-landing-faq-protected-question-heading = როგორაა დაცული ჩემი პირადი მონაცემები?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებთან შედარებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას—რაც მეტად დაცულს ხდის დანარჩენებისგან განსხვავებით. ამასთან, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებისგან განსხვავებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას — რაც მეტად დაცულს ხდის დანარჩენებთან შედარებით. ამასთან, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
 vpn-landing-faq-competition-question-heading = რითი გამოირჩევა { -brand-name-mozilla-vpn } მეტოქეებისგან?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
-vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა აღირიცხოს ან გაიყიდოს თქვენი მონაცემები. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
+vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ებიც არსებობს, რომლებიც მიმზიდველი ჩანს, თუმცა პირადულობაზე ისე ვერავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა თქვენი მონაცემები აღირიცხოს ან გაიყიდოს. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
 vpn-landing-faq-compatibility-question-heading = რომელ მოწყობილობებთანაა { -brand-name-mozilla-vpn } თავსებადი?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა და <a href="{ $desktop }">კომპიუტერთან</a> სისტემებზე:
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა თუ <a href="{ $desktop }">კომპიუტერთან</a>, სისტემებზე:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } თავსებადი სისტემებია:
 # Variables:
@@ -111,7 +111,7 @@ vpn-landing-faq-refund-question-desc = თანხის დაბრუნე�
 vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დორს შეგიძლიათ.
+vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დროს შეგიძლიათ.
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
 # message shown to visitors who try to sign-in without an active subscription.
 vpn-landing-sub-not-found = უჰ! როგორც ჩანს, ჯერ არ გამოგიწერიათ.
