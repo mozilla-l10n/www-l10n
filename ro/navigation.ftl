@@ -35,7 +35,7 @@ navigation-take-firefox-and-firefox = Ia { -brand-name-firefox } și { -brand-na
 navigation-get-firefox = Instalează { -brand-name-firefox }
 navigation-get-firefox-focus = Instalează { -brand-name-firefox-focus }
 navigation-android-extensions = Extensii pentru { -brand-name-android }
-navigation-your-firefox-account = { -brand-name-firefox-account(capitalization: "lower-definite-article-you") }
+navigation-your-firefox-account = { -brand-name-firefox-account(capitalization: "upper-definite-article-you") }
 navigation-make-the-most-of-your = Du la maxim experiența { -brand-name-firefox } pe toate dispozitivele.
 # Outdated string
 navigation-learn-how-to-customize = Află cum să personalizezi modul în care funcționează { -brand-name-firefox }.

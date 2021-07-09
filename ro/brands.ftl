@@ -31,9 +31,9 @@
     { $capitalization ->
        *[lower-indefinite-article] browsere Firefox
         [lower-definite-article] browserele Firefox
+        [lower-genitive-definite-article] browserelor Firefox
         [upper-indefinite-article] Browsere Firefox
         [upper-definite-article] Browserele Firefox
-        [lower-genitive-definite-article] browserelor Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -70,9 +70,9 @@
     { $capitalization ->
        *[lower-indefinite-article] cont Firefox
         [lower-definite-article] contul Firefox
+        [lower-genitive-definite-article-you] contului tău Firefox
         [upper-indefinite-article] Cont Firefox
         [upper-definite-article] Contul Firefox
-        [lower-definite-article-you] Contul tău Firefox
     }
 -brand-name-firefox-accounts =
     { $capitalization ->
