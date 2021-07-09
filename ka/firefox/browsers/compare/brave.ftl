@@ -12,7 +12,7 @@ compare-brave-compare-brave-to-the-firefox = შევადაროთ { -bran
 # Main title
 compare-brave-comparing-firefox-browser = { -brand-name-firefox-browser(case: "gen") } შედარება { -brand-name-brave }-თან
 # "Brave Software" is a brand name.
-compare-brave-just-like-the-firefox-browser = როგორც { -brand-name-firefox }-ბრაუზერი, ასევე { -brand-name-brave }-ბრაუზერი არის თავისუფალი, ღია წყაროსი და მიმართული მომხმარებლების პირადულობის დაცვაზე. { -brand-name-brave } ახლად გამოჩენილია ბრაუზერების სამყაროში: მისი შემქმნელი, { -brand-name-brave } Software, პირველად წარდგა ბრაუზერით 2016 წლის იანვარში. ამ სტატიაში ჩვენ შევადარებთ { -brand-name-firefox }-ბრაუზერს { -brand-name-brave }-ბრაუზერთან სამი კუთხით: პირადულობის, სარგებლიანობისა და მოქნილობის.
+compare-brave-just-like-the-firefox-browser = როგორც { -brand-name-firefox }-ბრაუზერი, ასევე { -brand-name-brave }-ბრაუზერი არის თავისუფალი, ღია წყაროსი და მიმართული მომხმარებლების პირადულობის დაცვაზე. { -brand-name-brave } ახლადგამოჩენილია ბრაუზერების სამყაროში: მისი შემქმნელი, { -brand-name-brave } Software, პირველად წარდგა ბრაუზერით 2016 წლის იანვარში. ამ სტატიაში ჩვენ შევადარებთ { -brand-name-firefox }-ბრაუზერს { -brand-name-brave }-ბრაუზერთან სამი კუთხით: პირადულობის, სარგებლიანობისა და მოქნილობის.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
 # Variables:
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
