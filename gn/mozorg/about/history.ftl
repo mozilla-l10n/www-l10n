@@ -21,6 +21,9 @@ history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñ
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Ary 2003 jave, { -brand-name-mozilla } apopyrã omoheñói { -brand-name-mozilla-foundation }, peteĩ <a href="{ $foundation }">atyguasu ijeheguíva viru’ỹgua</a> ombojopóiva tapicha peteĩteĩ ha avei heta mba’apohaguasu.
 # Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } ipyahúva oñangareko añetéta gueteri opaite apopyrãme ojejapóva ha avei omoherakuãta tuichaháicha <a href="{ $manifesto }">ñemyesakã, tekopyahu ha paũ</ a> ñandutípe.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> osẽ ñepyrũ ary 2004 jave ha ojepurueterei; peteĩ ary mboyve, oñemboguejy <a href="{ $millions }">hetaiteve 100 suágui </a>.
