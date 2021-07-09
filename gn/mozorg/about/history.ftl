@@ -24,6 +24,9 @@ history-in-2003-the-mozilla-project = Ary 2003 jave, { -brand-name-mozilla } apo
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } ipyahúva oñangareko añetéta gueteri opaite apopyrãme ojejapóva ha avei omoherakuãta tuichaháicha <a href="{ $manifesto }">ñemyesakã, tekopyahu ha paũ</ a> ñandutípe.
 # Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Ojapo omoherakuã memévo software, { -brand-name-firefox } ichagua ha { -brand-name-thunderbird }, ha avei oikévo tenda ipyahúvape, ha’éva dar<a href="{ $grants }">katupyryrã</a> oykeko ñandutípe jeike iporãve hag̃ua.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> osẽ ñepyrũ ary 2004 jave ha ojepurueterei; peteĩ ary mboyve, oñemboguejy <a href="{ $millions }">hetaiteve 100 suágui </a>.
