@@ -12,6 +12,9 @@ privacy-index-if-you-want-to-make-a-correction = หากคุณต้อง�
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">ดูที่นี่สำหรับ Data Subject Access Requests</a>
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = สำหรับคำขอการสนับสนุนผลิตภัณฑ์ โปรด<a href="{ $sumo }">ไปที่กระดานสนทนาของเรา</a>
 privacy-index-data-privacy-principles = หลักการความเป็นส่วนตัวของข้อมูล
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/

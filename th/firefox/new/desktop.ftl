@@ -159,6 +159,9 @@ firefox-desktop-download-now-mac = <strong>เปิด</strong>ไฟล์ท�
 firefox-desktop-download-get-help = มีปัญหาใช่หรือไม่ <a { $attrs }>รับความช่วยเหลือเกี่ยวกับการติดตั้งของคุณ</a>
 firefox-desktop-download-in-another-language = ดาวน์โหลดในภาษาอื่นหรือสำหรับระบบปฏิบัติการอื่น
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = ถ้าคุณเห็นข้อความแจ้งเตือนที่ระบุว่าแอปที่คุณกำลังพยายามติดตั้งไม่ใช้แอปที่ได้รับการตรวจสอบโดย { -brand-name-microsoft } ให้คลิก “ติดตั้งต่อไป” หรือ<a { $attrs }>เปลี่ยนการตั้งค่าการแนะนำแอป</a>
 firefox-desktop-download-visit-support-for-more = เยี่ยมชมฝ่ายสนับสนุนสำหรับรายละเอียดเพิ่มเติม
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -172,7 +175,11 @@ firefox-desktop-download-youre-using-an-insecure-outdated = คุณกำล�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = การดาวน์โหลดของคุณควรเริ่มโดยอัตโนมัติ ยังไม่เริ่มใช่หรือไม่ <a id="{ $id }" href="{ $fallback_url }">ลองดาวน์โหลดอีกครั้ง</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } เป็นมากกว่าเบราว์เซอร์
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = การดาวน์โหลดของคุณถูกขัดจังหวะ แต่ส่วนที่ดาวน์โหลดไปแล้วไม่ได้หายไปไหน
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = โปรดทำตาม<a href="{ $url }">คำแนะนำนี้</a>เพื่อติดตั้ง { -brand-name-firefox }
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = เครื่องของคุณไม่รองรับกับข้อกำหนดสำหรับ { -brand-name-firefox } แต่คุณยังสามารถลองกับ<a href="{ $url }">รุ่นเหล่านี้</a>ได้
