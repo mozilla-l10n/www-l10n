@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = Tut sin mintga apparat, senza esser pigli
 firefox-accounts-and-get-it-all-on = E tut sin mintga apparat, senza esser piglià en in sistem operativ.
 firefox-accounts-get-the-respect-you = Ti survegns il respect che ti meritas.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Protecziun cumpletta da l'apparat, per mintga apparat
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Da nus vegns ti adina ad udir la vardad. Tut quai che nus faschain, faschain nus tenor l'<a href="{ $promise }">empermischun davart tias datas persunalas</a>:
