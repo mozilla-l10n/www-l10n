@@ -60,3 +60,4 @@ firefox-new-download-browser = Pobierz { -brand-name-firefox-browser(case: "acc"
 firefox-new-fast = szybką, prywatną i darmową
 firefox-new-from-mozilla = od { -brand-name-mozilla(case: "gen") }
 firefox-new-desc = { -brand-name-firefox-browser } jest darmową przeglądarką internetową, która szybko wczytuje strony, używa mniej pamięci i ma wiele funkcji — i jest projektem organizacji non-profit { -brand-name-mozilla }.
+firefox-new-download-a-different = Pobierz w innych językach i na inne systemy
