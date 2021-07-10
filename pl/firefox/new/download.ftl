@@ -56,7 +56,7 @@ firefox-new-visit-support-for-more = Pomoc zawiera więcej informacji
 ### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
-firefox-new-download-browser = Pobierz { -brand-name-firefox-browser(case: "acc") }
+firefox-new-download-browser = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }
 firefox-new-fast = szybką, prywatną i darmową
 firefox-new-from-mozilla = od { -brand-name-mozilla(case: "gen") }
 firefox-new-desc = { -brand-name-firefox-browser } jest darmową przeglądarką internetową, która szybko wczytuje strony, używa mniej pamięci i ma wiele funkcji — i jest projektem organizacji non-profit { -brand-name-mozilla }.
