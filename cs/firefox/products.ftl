@@ -21,11 +21,20 @@ firefox-products-desktop = Počítač
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Zobrazit všechny prohlížeče
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Brouzdejte, streamujte nebo pracujte na internetu díky serverům, které vám zajistí bezpečné připojení k internetu, umístěných ve více než 30 zemích.
+firefox-products-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Uchovávejte svá hesla v bezpečí a mějte k nim přístup ze všech svých zařízení.
+# Obsolete string
 firefox-products-download-lockwise = Stáhnout { -brand-name-lockwise(case: "acc") }
+# Obsolete string
 firefox-products-open-in-firefox = Otevřít ve { -brand-name-firefox(case: "loc") }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: "loc") }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Posílejte velké soubory a citlivé dokumenty bezpečně, až do velikosti 2,5 GB.
 firefox-products-send-a-file = Poslat soubor
