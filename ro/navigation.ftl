@@ -121,6 +121,7 @@ navigation-join-the-fight-for-a = Alătură-te luptei pentru un internet sănăt
 navigation-events = Evenimente
 navigation-donate = Donează
 navigation-your-right-to-security = Dreptul tău la securitate și intimitate pe internet este fundamental – niciodată opțional.
+navigation-release-notes = Note privind versiunea
 navigation-features = Funcționalități
 navigation-products = Produse
 navigation-mozilla = { -brand-name-mozilla }
