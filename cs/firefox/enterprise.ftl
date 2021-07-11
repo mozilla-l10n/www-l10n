@@ -8,6 +8,7 @@
 firefox-enterprise-enterprise = Podniky
 firefox-enterprise-overview = Přehled
 firefox-enterprise-downloads = Stažení
+firefox-enterprise-get-firefox-for-your-enterprise = Získat { -brand-name-firefox(case: "acc") } pro vaši společnost
 firefox-enterprise-unmatched-data-protection = Bezkonkurenční ochrana dat při tempu vydávání verzí, které bude vám bude vyhovovat
 firefox-enterprise-your-data-stays-your-business = Vaše data zůstanou vaše
 firefox-enterprise-deploy-when-and-how-you-want = Nasaďte kde a jak chcete
@@ -22,6 +23,7 @@ firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-exte
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - instalátor MSI
 firefox-enterprise-support = Podpora
 firefox-enterprise-msi-installers = Instalátory MSI
+firefox-enterprise-legacy-browser-support = Podpora starších prohlížečů
 firefox-enterprise-admx-templates = Šablony ADMX
 firefox-enterprise-deployment-guide = Průvodce nasazením
 firefox-enterprise-policy-documentation = Dokumentace podnikových pravidel
