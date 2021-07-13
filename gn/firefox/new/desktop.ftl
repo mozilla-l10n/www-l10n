@@ -44,6 +44,7 @@ firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevar
 firefox-desktop-download-ads-are-distracting = Pe maranduñemurã nemyangekói ha omyanehẽ mbegueve ñanduti kuatiarogue, péicha umi tapykuehoha ohecha rejapóva ñandutíe. { -brand-name-firefox-browser } ojoko heta umi tapykuehoha ijehegui, péicha rupi natekotevẽi emoĩporã tekorosã.
 firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
 firefox-desktop-download-for-everyone = { -brand-name-firefox } opavavépe g̃uarã
+firefox-desktop-download-available-in-over = Ojepurukuaa hetave 90 ñe’ẽme, ha ojokupytýva mohendaha { -brand-name-windows }, { -brand-name-mac-short } ha { -brand-name-linux }, { -brand-name-firefox } oikóva oimeraẽva ndive térã mamópa reime. Ehecháke nde apopyvusu oku’éva hekopyahúpa emba’apo hag̃ua apañuãi’ỹre tapiaite.
 firefox-desktop-download-review-system-req = Ehechajey apopyvusu jerurepy
 firefox-desktop-download-all-your-devices = Emoĩ { -brand-name-firefox } opaite ne mba’e’okápe
 firefox-desktop-download-take-your-privacy = Egueraha nde rekoñemi oparupiete. { -brand-name-firefox-browsers } { -brand-name-ios } peg̃uarã ha { -brand-name-android } oreko ñemboheko ñemigua imbaretéva omboyke hag̃ua tapykuehoha nderapykuehóvo ñandutípe, mamo reimehápe.
