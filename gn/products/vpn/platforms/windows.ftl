@@ -16,6 +16,7 @@ vpn-windows-ability = Eñeñanduva’erã tekorosãme ñandutípe eimeha térã 
 vpn-windows-wifi-headline = Eiko tekorosãme wifi ndive
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } omo’ã nde jeike ñandutípe umi oma’ẽ reívagui, ejapo hag̃ua ne rembiapo eime eimehápe — pepoatãguejyha, pytaha koty, taperyva’uhápe — ejepy’apy’ỹre nde rekoñemi ñanduti pegua rehe.
 vpn-windows-about-headline = Omyakãva tekoñemi ñandutípe
+vpn-windows-about-copy = Ko atyguasu oiko’ỹva viru rapykuéri año { -brand-name-firefox-browser }, { -brand-name-mozilla }, ha’e tapichakuéra rekoha ñandutigua arapy tuichakue oñeha’ãva Ñanduti hekosãso ha ijurujávo opavavépe g̃uarã. { -brand-name-mozilla } rembipota, ha’e yvypóra ñemomba’e viru renondépe, opaite apopyre romoheñóiva nemoĩ tenondete.
 vpn-windows-privacy-headline = Ñemo’ã peteĩ votõ jekutúpe
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } ombopapapy ñandutípe jeike ha oñomi pe IP kundaharape oikuaaséva nde PC mesa ariguágui terã laptop pe taperekoite oikóva ndive { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Eike mohendahavusu arapyguávape
