@@ -12,6 +12,7 @@ vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10 
 vpn-windows-page-description = Emo’ãmbaite nde PC red privada virtual (VPN) ndive { -brand-name-mozilla } mba’éva, omoñepyrũva ñanduti ha oñorairõva ne rekoñemi ñanduti pegua ary 1998 guive.
 # Windows strings
 vpn-windows-hero-headline = Eiko jeikememe ha ñemo’ãme { -brand-name-mozilla-vpn } ndive { -brand-name-windows } 10 peg̃uarã
+vpn-windows-ability = Eñeñanduva’erã tekorosãme ñandutípe eimeha térã ehohápe. { -brand-name-mozilla-vpn } ndive, eipurukuaa wifi opavaveguáva ha eikuaa nde jeike hekorosãha mba’evaiapohágui ha ñanduti me’ẽhára oikereívagui. Ore VPN ndahasýi ijepuru, oĩva { -brand-name-windows } 10 peg̃uarã (ha oimeraẽva ne mba’e’okápe), ha nomombeguéi. Ha pe iporãvéva ha’e rupi ko VPN { -brand-name-mozilla } mba’éva { -brand-name-wireguard }® raperekoite ndive, eikuaa hag̃ua ne mba’ekuaarã ipapapy ha ne rembiapo noñeñongatuiha. Ha’e peteĩ VPN iporã ha imbaretéva ne mo’ã añetéva.
 vpn-windows-wifi-headline = Eiko tekorosãme wifi ndive
 vpn-windows-about-headline = Omyakãva tekoñemi ñandutípe
 vpn-windows-privacy-headline = Ñemo’ã peteĩ votõ jekutúpe
