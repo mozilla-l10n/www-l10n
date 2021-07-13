@@ -8,9 +8,9 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-name-brave }: Care este cel mai bun browser pentru tine?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Compară { -brand-name-brave } cu { -brand-name-firefox-browser(capitalization: "lower-definite-article") } și află care este cel mai bun browser pentru tine în ceea ce privește confidențialitatea, utilitatea și portabilitatea.
+compare-brave-compare-brave-to-the-firefox = Compară { -brand-name-brave } cu { -brand-name-firefox-browser } și află care este cel mai bun browser pentru tine în ceea ce privește confidențialitatea, utilitatea și portabilitatea.
 # Main title
-compare-brave-comparing-firefox-browser = Comparație între { -brand-name-firefox-browser(capitalization: "lower-definite-article") } și { -brand-name-brave }
+compare-brave-comparing-firefox-browser = Comparație între { -brand-name-firefox-browser } și { -brand-name-brave }
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
 # Variables:
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics

@@ -8,7 +8,7 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Obține { -brand-name-firefox-browser(capitalization: "lower-definite-article") } pentru { -brand-name-chromebook }
+browsers-chromebook-get-firefox-browser = Obține { -brand-name-firefox-browser } pentru { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Obține { -brand-name-firefox } pentru { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Obține { -brand-name-firefox } pentru { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = Obține { -brand-name-firefox } pentru { -brand-name-chromebook }

@@ -23,10 +23,10 @@ firefox-all-64-bit-installers = Programe de instalare pe 64 de biți
 firefox-all-choose-a-64-bit-installer = Alege un program de instalare pe 64 de biți pentru calculatoarele cu procesoare pe 64 de biți, care le permit să aloce mai mult RAM programelor individuale — un aspect important în special pentru jocuri și alte aplicații solicitante.
 firefox-all-32-bit-installers = Programe de instalare pe 32 de biți
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Descarcă { -brand-name-firefox-browser(capitalization: "lower-definite-article") } în limba engleză (SUA) și în peste alte 90 de limbi
+firefox-all-download-the-firefox = Descarcă { -brand-name-firefox-browser } în limba engleză (SUA) și în peste alte 90 de limbi
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Toți merită acces la internet — limba nu ar trebui să fie niciodată o barieră. De aceea — cu ajutorul voluntarilor dedicați din întreaga lume — facem { -brand-name-firefox-browser(capitalization: "lower-definite-article") } disponibil în peste 90 de limbi.
-firefox-all-choose-which-firefox = Alege ce { -brand-name-firefox-browser } să descarci în limba ta
+firefox-all-everyone-deserves-access = Toți merită acces la internet — limba nu ar trebui să fie niciodată o barieră. De aceea — cu ajutorul voluntarilor dedicați din întreaga lume — facem { -brand-name-firefox-browser } disponibil în peste 90 de limbi.
+firefox-all-choose-which-firefox = Alege ce { -brand-name-firefox-browser(capitalization: "lower-indefinite-article") } să descarci în limba ta
 firefox-all-firefox-privacy-notice = Notificare privind confidențialitatea { -brand-name-firefox }
 firefox-all-learn-about-firefox = Află despre browserele { -brand-name-firefox }
 firefox-all-the-standard-firefox = Browserul standard { -brand-name-firefox } — rapid și privat. Dacă nu ești sigur ce { -brand-name-firefox } să alegi, alege-l pe acesta.
