@@ -36,8 +36,8 @@
     }
 -brand-name-firefox-browsers =
     { $capitalization ->
-       *[lower-indefinite-article] browsere Firefox
-        [lower-definite-article] browserele Firefox
+        [lower-indefinite-article] browsere Firefox
+       *[lower-definite-article] browserele Firefox
         [lower-genitive-definite-article] browserelor Firefox
         [upper-indefinite-article] Browsere Firefox
         [upper-definite-article] Browserele Firefox

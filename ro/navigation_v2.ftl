@@ -18,7 +18,7 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } pentru { -brand-name-ios
 navigation-v2-get-the-mobile-browser = Obține browserul mobil pentru { -brand-name-iphone } sau { -brand-name-ipad }.
 navigation-v2-firefox-blog = Blogul { -brand-name-firefox }
 navigation-v2-release-notes = Note privind versiunea
-navigation-v2-view-all-firefox-browsers = Vezi toate { -brand-name-firefox-browsers(capitalization: "lower-definite-article") }
+navigation-v2-view-all-firefox-browsers = Vezi toate { -brand-name-firefox-browsers }
 
 ## Products menu
 
