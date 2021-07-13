@@ -41,6 +41,7 @@ firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
 # Obsolete string
 firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
 firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevarã eheka ñanduti ipya’éva.
+firefox-desktop-download-ads-are-distracting = Pe maranduñemurã nemyangekói ha omyanehẽ mbegueve ñanduti kuatiarogue, péicha umi tapykuehoha ohecha rejapóva ñandutíe. { -brand-name-firefox-browser } ojoko heta umi tapykuehoha ijehegui, péicha rupi natekotevẽi emoĩporã tekorosã.
 firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
 firefox-desktop-download-for-everyone = { -brand-name-firefox } opavavépe g̃uarã
 firefox-desktop-download-review-system-req = Ehechajey apopyvusu jerurepy
@@ -167,6 +168,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Eipupuru apopyvusu h
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndoikói? <a id="{ $id }" href="{ $fallback_url }">Eha’ãjey mboguejy pyahu.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
