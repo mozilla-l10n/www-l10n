@@ -10,7 +10,7 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = Facem o comparație între { -brand-name-mozilla } { -brand-name-firefox } și { -brand-name-google } { -brand-name-chrome } în ceea ce privește confidențialitatea, utilitatea și portabilitatea
 # Main title.
-compare-chrome-comparing-firefox-browser = Comparație între { -brand-name-firefox-browser } și { -brand-name-google } { -brand-name-chrome }
+compare-chrome-comparing-firefox-browser = Comparație între { -brand-name-firefox-browser(capitalization: "lower-definite-article") } și { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = La { -brand-name-firefox }, avem un număr mare de utilizatori dedicați care ne apreciază dedicația fermă pentru confidențialitatea online. De exemplu, cea mai recentă versiune { -brand-name-firefox } include o funcționalitate denumită Protecție Amplificată împotriva Urmăririi (PAU), care este activată implicit pentru toți utilizatorii din întreaga lume. PAU blochează peste 2.000 de elemente de urmărire, inclusiv elemente de urmărire de pe rețelele de socializare, de la companii precum { -brand-name-facebook }, { -brand-name-twitter } și LinkedIn. Are și o funcționalitate integrată denumită <a { $attrs }> { -brand-name-firefox-monitor } </a>, care te notifică automat dacă parola a fost spartă sau trebuie actualizată. Pe lângă aceste protecții, modul de navigare privată din { -brand-name-firefox } șterge automat informațiile de navigare, cum ar fi istoricul și cookie-urile, și nu lasă nicio urmă după ce închizi o sesiune.
