@@ -4,7 +4,7 @@
 
 navigation-download-firefox = Descarcă { -brand-name-firefox }
 navigation-get-a-firefox-account = Obține un { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pentru calculator
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pentru desktop
 navigation-get-the-browser-that-respects = Obține browserul care respectă confidențialitatea ta în mod automat. Pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pentru dispozitive mobile
 navigation-take-speed-privacy-and = Ia cu tine viteza, intimitatea și liniștea sufletească. Pe { -brand-name-android } și { -brand-name-ios }.

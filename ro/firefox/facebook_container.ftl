@@ -10,11 +10,11 @@ facebook-container-millions-of-people-around = Milioane de oameni din lumea înt
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } la cutie. Păstrează restul vieții tale private.
 facebook-container-get-the-facebook-container = Instalează extensia { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Descarcă { -brand-name-firefox } și instalează extensia { -brand-name-facebook-container }
-facebook-container-only-available-for-desktop = Extensia { -brand-name-facebook-container } este disponibilă momentan doar pentru { -brand-name-firefox } pentru calculator.
+facebook-container-only-available-for-desktop = Extensia { -brand-name-facebook-container } este disponibilă în prezent numai pentru { -brand-name-firefox } pentru desktop.
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Vizitează <a href="{ $url }">{ $link_copy }</a> pentru a obține { -brand-name-firefox } pentru calculator.
+facebook-container-visit-to-get-for-desktop = Vizitează <a href="{ $url }">{ $link_copy }</a> pentru a obține { -brand-name-firefox } pentru desktop.
 # Outdated string
 facebook-container-the-facebook-container-extension = Extensia { -brand-name-facebook-container } nu este disponibilă pentru dispozitive mobile.
 facebook-container-get-firefox-android-ios = Obține acum { -brand-name-firefox } pentru { -brand-name-android } și { -brand-name-ios }.
