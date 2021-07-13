@@ -17,6 +17,7 @@ firefox-desktop-download-no = Nu
 firefox-desktop-download-blocks-third-party = Blochează cookie-urile de urmărire de la terți
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilitate pentru sistemul de operare
+# Obsolete string
 firefox-desktop-download-master-password = Parolă principală
 firefox-desktop-download-see-your-report = Vezi raportul tău de protecție
 firefox-desktop-download-for-everyone = { -brand-name-firefox } este pentru toți
@@ -30,6 +31,8 @@ firefox-desktop-download-spell-check = Verificare ortografică
 firefox-desktop-download-pinned-tabs = File fixate
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Imagine în imagine
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capitalization: "upper-definite-article") }
+firefox-desktop-download-get-firefox-android = Obține { -brand-name-firefox-browser } pentru <strong>{ -brand-name-android }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

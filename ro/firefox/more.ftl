@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 learn-more-faq = Întrebări frecvente despre { -brand-name-firefox }
+choose-which-firefox = Alege ce { -brand-name-firefox-browser(capitalization: "lower-indefinite-article") } să descarci în limba ta

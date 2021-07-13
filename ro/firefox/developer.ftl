@@ -78,3 +78,4 @@ firefox-developer-welcome-to-the-all-new = Bine ai venit în noul { -brand-name-
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } a fost reconstruit de la zero pentru a fi mai rapid, mai lin și mai puternic ca oricând.
 firefox-developer-congrats-you-now-have-firefox = Felicitări! Acum ai { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Nu e doar o actualizare. E { -brand-name-firefox-quantum }: un { -brand-name-firefox } nou nouț reconstruit de la zero - mai rapid, mai atractiv și mai puternic ca niciodată.
+firefox-developer-welcome-to-firefox-browser = Bun venit în { -brand-name-firefox-browser } { -brand-name-developer-edition }

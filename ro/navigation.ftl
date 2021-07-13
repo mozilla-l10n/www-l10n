@@ -4,15 +4,15 @@
 
 navigation-download-firefox = Descarcă { -brand-name-firefox }
 navigation-get-a-firefox-account = Obține un { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pentru desktop
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(capitalization: "upper-definite-article") } pentru desktop
 navigation-get-the-browser-that-respects = Obține browserul care respectă confidențialitatea ta în mod automat. Pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pentru dispozitive mobile
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(capitalization: "upper-definite-article") } pentru dispozitive mobile
 navigation-take-speed-privacy-and = Ia cu tine viteza, intimitatea și liniștea sufletească. Pe { -brand-name-android } și { -brand-name-ios }.
 navigation-download-for-ios = Descarcă pentru { -brand-name-ios }
 navigation-download-for-android = Descarcă pentru { -brand-name-android }
 navigation-ios-support = Asistență pentru { -brand-name-ios }
 navigation-android-support = Asistență pentru { -brand-name-android }
-navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } pentru întreprinderi
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(capitalization: "upper-definite-article") } pentru întreprinderi
 navigation-strap-on-your-goggles = Pune-ți casca și pășește în webul imersiv cu { -brand-name-firefox-browser } pentru VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } pentru { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Vizionezi videoclipuri și navighezi pe internet de pe { -brand-name-amazon } { -brand-name-fire-tv }.

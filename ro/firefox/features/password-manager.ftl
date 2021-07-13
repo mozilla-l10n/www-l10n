@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = { -brand-name-firefox-browser }: Manager de parole rapid și ușor
+password-manager-firefox-browser = { -brand-name-firefox-browser(capitalization: "upper-definite-article") }: Manager de parole rapid și ușor
 # HTML page description
 password-manager-firefox-password = Managerul de parole { -brand-name-firefox } îți salvează toate parolele într-un singur loc ca să te poți autentifica automat pe site-uri sau ca să regăsești parole salvate.
 # Hero title

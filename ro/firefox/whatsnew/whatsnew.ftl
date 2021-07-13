@@ -7,8 +7,9 @@
 
 whatsnew-page-title = Ce este nou în { -brand-name-firefox } - Mai multă confidențialitate, mai multe protecții.
 whatsnew-page-description = Ia atitudine împotriva unei industrii care vinde datele tale către terți. Fii inteligent și în siguranță online cu ajutorul tehnologiei care luptă pentru tine.
-whatsnew-up-to-date-notification = Felicitări! Folosești cea mai recentă versiune pentru { -brand-name-firefox-browser }.
-whatsnew-out-of-date-notification = Este disponibilă o nouă versiune de { -brand-name-firefox-browser }. Repornește pentru a actualiza.
+whatsnew-firefox-browser = { -brand-name-firefox-browser(capitalization: "upper-definite-article") }
+whatsnew-up-to-date-notification = Felicitări! Folosești cea mai recentă versiune a { -brand-name-firefox-browser(capitalization: "lower-genitive-definite-article") }.
+whatsnew-out-of-date-notification = Este disponibilă o versiune și mai recentă a { -brand-name-firefox-browser(capitalization: "lower-genitive-definite-article") }. Repornește pentru a actualiza.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Citește <a href="{ $url }">notele privind versiunea</a> pentru a afla mai multe despre ce este nou în browserul { -brand-name-firefox }.
