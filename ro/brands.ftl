@@ -30,7 +30,7 @@
     { $capitalization ->
         [lower-indefinite-article] browser Firefox
        *[lower-definite-article] browserul Firefox
-        [lower-genitive-definite-article] browserului Firefox
+        [lower-genitiveordative-definite-article] browserului Firefox
         [upper-indefinite-article] Browser Firefox
         [upper-definite-article] Browserul Firefox
     }
