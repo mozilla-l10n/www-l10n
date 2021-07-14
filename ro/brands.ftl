@@ -27,12 +27,21 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
-    { $capitalization ->
-        [lower-indefinite-article] browser Firefox
-       *[lower-definite-article] browserul Firefox
-        [lower-genitiveordative-definite-article] browserului Firefox
-        [upper-indefinite-article] Browser Firefox
-        [upper-definite-article] Browserul Firefox
+    { $case ->
+       *[definite-article]
+            { $capitalization ->
+               *[lower] browserul Firefox
+                [upper] Browserul Firefox
+            }
+        [indefinite-article]
+            { $capitalization ->
+               *[lower] browser Firefox
+                [upper] Browser Firefox
+            }
+        [genitive-or-dative]
+            { $capitalization ->
+               *[lower] browserului Firefox
+            }
     }
 -brand-name-firefox-browsers =
     { $capitalization ->

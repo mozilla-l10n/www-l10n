@@ -55,7 +55,7 @@ firefox-accounts-we-support-communities = Sprijinim comunitățile din întreaga
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-firefox-browser = { -brand-name-firefox-browser(capitalization: "upper-definite-article") }
+firefox-accounts-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 # Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }

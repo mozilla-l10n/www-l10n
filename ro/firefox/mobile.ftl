@@ -8,7 +8,7 @@
 firefox-mobile-download-the-firefox-browser = Descarcă { -brand-name-firefox-browser } pe mobil pentru { -brand-name-ios } și { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pentru dispozitive mobile blochează implicit peste 2000 de elemente de urmărire, oferindu-ți confidențialitatea pe care o meriți și viteza de care ai nevoie într-un browser mobil privat.
 firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser(capitalization: "upper-definite-article") }
+firefox-mobile-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 firefox-mobile-get-the-mobile-browser-built = Obține browserul pentru dispozitive mobile creat pentru tine, nu pentru agențiile de publicitate
 firefox-mobile-check-out-firefox-again-its = Aruncă din nou o privire la { -brand-name-firefox }. Este rapid, privat și de partea ta. Pentru { -brand-name-ios } și { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Obține intimitatea automată pe dispozitivul mobil
