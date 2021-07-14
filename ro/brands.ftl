@@ -92,20 +92,40 @@
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-account =
-    { $capitalization ->
-       *[lower-indefinite-article] cont Firefox
-        [lower-definite-article] contul Firefox
-        [lower-genitive-definite-article-you] contului tău Firefox
-        [upper-indefinite-article] Cont Firefox
-        [upper-definite-article] Contul Firefox
-        [upper-definite-article-you] Contul tău Firefox
+    { $case ->
+       *[indefinite-article]
+            { $capitalization ->
+               *[lower] cont Firefox
+                [upper] Cont Firefox
+            }
+        [definite-article]
+            { $capitalization ->
+               *[lower] contul Firefox
+                [upper] Contul Firefox
+                [upper-and-you] Contul tău Firefox
+            }
+        [genitive-or-dative]
+            { $capitalization ->
+               *[lower] contului Firefox
+                [lower-and-you] contului tău Firefox
+            }
     }
 -brand-name-firefox-accounts =
-    { $capitalization ->
-       *[lower-indefinite-article] conturi Firefox
-        [lower-definite-article] conturile Firefox
-        [upper-indefinite-article] Conturi Firefox
-        [upper-definite-article] Conturile Firefox
+    { $case ->
+       *[indefinite-article]
+            { $capitalization ->
+               *[lower] conturi Firefox
+                [upper] Conturi Firefox
+            }
+        [definite-article]
+            { $capitalization ->
+               *[lower] conturile Firefox
+                [upper] Conturile Firefox
+            }
+        [genitive-or-dative]
+            { $capitalization ->
+               *[lower] conturilor Firefox
+            }
     }
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise

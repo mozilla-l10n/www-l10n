@@ -21,7 +21,7 @@ password-manager-password-magician = Magicianul parolelor
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninja parolelor
-password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Autentifică-te pe telefon în { -brand-name-firefox-account(capitalization: "lower-definite-article") } și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
+password-manager-no-more-try-again = Fără mesaje de tipul „încearcă din nou” când vrei să ajungi undeva. Autentifică-te pe telefon în { -brand-name-firefox-account(case: "definite-article") } și ai toate parolele cu tine. Detaliile tale de autentificare vor apărea pur și simplu, ca prin magie.
 password-manager-password-champion = Eroul parolelor
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/

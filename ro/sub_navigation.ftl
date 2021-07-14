@@ -4,5 +4,5 @@
 
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } pentru desktop
 sub-navigation-learn-more = Află mai multe
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts(capitalization: "upper-indefinite-article") }
+sub-navigation-firefox-accounts = { -brand-name-firefox-accounts(case: "indefinite-article", capitalization: "upper") }
 sub-navigation-our-products = Produsele noastre
