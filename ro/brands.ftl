@@ -28,15 +28,15 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[definite-article]
-            { $capitalization ->
-               *[lower] browserul Firefox
-                [upper] Browserul Firefox
-            }
-        [indefinite-article]
+       *[indefinite-article]
             { $capitalization ->
                *[lower] browser Firefox
                 [upper] Browser Firefox
+            }
+        [definite-article]
+            { $capitalization ->
+               *[lower] browserul Firefox
+                [upper] Browserul Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
@@ -44,12 +44,21 @@
             }
     }
 -brand-name-firefox-browsers =
-    { $capitalization ->
-        [lower-indefinite-article] browsere Firefox
-       *[lower-definite-article] browserele Firefox
-        [lower-genitive-definite-article] browserelor Firefox
-        [upper-indefinite-article] Browsere Firefox
-        [upper-definite-article] Browserele Firefox
+    { $case ->
+       *[indefinite-article]
+            { $capitalization ->
+               *[lower] browsere Firefox
+                [upper] Browsere Firefox
+            }
+        [definite-article]
+            { $capitalization ->
+               *[lower] browserele Firefox
+                [upper] Browserele Firefox
+            }
+        [genitive-or-dative]
+            { $capitalization ->
+               *[lower] browserelor Firefox
+            }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
