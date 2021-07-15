@@ -18,6 +18,7 @@ privacy-passwords-make-your-answers = Güvenlik sorularına en az parolalarını
 privacy-passwords-use-a-password = Parola oluşturmayı ve hatırlamayı kolaylaştırmak için bir parola yöneticisi kullanın
 privacy-passwords-use-twofactor-authentication = Kullanabildiğiniz her yerde “İki aşamalı kimlik doğrulamasını” kullanın
 privacy-passwords-its-hard-out = Parola olmak zor zanaat
+privacy-passwords-seeing-you-use = Şifrelenmemiş bir web sitesi kullandığınızı görebilirler
 privacy-passwords-guessing-it = Parolanızı tahmin edebilirler
 privacy-passwords-stealing-a-file = İçinde parolanızın bulunduğu bir dosyayı çalabilirler
 privacy-passwords-using-password-recovery = Parolanızı sıfırlamak için parola kurtarmayı kullanabilirler
