@@ -20,6 +20,9 @@ vpn-android-servers-headline = Oĩve { $servers } mohendahavusu hetave { $countr
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Ñemboheraguapy { $devices } mba’e’okápe g̃uarã
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } ome’ẽ ikatu hag̃uáicha eike { $devices } mba’e’okápe, oĩhápe { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } ha { -brand-name-linux }. Eipuru ne pumbyry ha’evévape, mohendaha, guerahakuaáva, tabléta ha hetave.
 vpn-android-speed-headline = Ipya’etereíva. Mba’ekuaarã hu’ã’ỹva.
 vpn-android-speed-copy = Ñembosarái ñandutípe, ta’ãngamýi jehechauka ha eikundaha ñandutípe pya’eterei ne mba’e’okápe { -brand-name-android }, opavave ancho de banda hu’ã’ỹva ndive.
 vpn-android-log-headline = Ñemboheraguapy’ỹre. Tapykueho’ỹre. Tekoñemi jeikepa’ỹre.
