@@ -12,6 +12,9 @@ history-history-of-the-mozilla-project = { -brand-name-mozilla } apopyrã rembia
 history-the-mozilla-project-was = Ko apopyrã { -brand-name-mozilla } ha’ékuri <a href="{ $coderush }">heñóiva 1998 jave</a> <a href="{ $sourcerelease }">isãsóvo pe kundahára reñoihágui { -brand-name-netscape } ndive</a>.
 history-it-was-intended-to-harness = Pe roipotáva ha’e umi pokatu moheheñoigua hetaiterei ñanduti mboguatahára ha mba’epyahu moakãrapu’ã oiko’ỹva araka’eve kundaharakuéra apytépe.
 # Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = Ipukukue <a href="{ $firstyear }">ary peteĩha</a>, tekoha arapy tuichakue pegua oikeramóva ome’ẽma tembiapoite hekove pyahúva, omoĩporãvéva umi oĩmavavoi ha ome’ẽ iñe’ẽ omba’apotaha kyre’ỹme pe apopyrã hekojera hag̃ua.
+# Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Oñemoheñói tekoha ijurujáva, { -brand-name-mozilla } apopyrãgui oiko <a href="{ $stevecase }">mba’apohaguasu tuichavéva opavavégui</a>.
 history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
