@@ -15,7 +15,7 @@ vpn-linux-maker-of-firefox = Peteĩva umi téra ojejeroviaveha tembipurupyahu re
 vpn-linux-wifi-headline = Eiko tekorosãme eipuruse vove wifi
 vpn-linux-about-headline = Téra jeroviaha 1998 guive
 vpn-linux-privacy-headline = Tekorosã 1 jekutúpe añoite
-vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es muy fácil de usar. Toca un botón y cifrará tu conexión además de ocultar la dirección IP en tu { -brand-name-iphone } o { -brand-name-ipad } usando el protocolo avanzado de { -brand-name-wireguard }®.
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } ndahasýi ijepuru. Eikutu peteĩ jey ha embopapapýta nde jeike omokañyháicha nde IP kundaharape { -brand-name-iphone } térã { -brand-name-ipad } oipurúvo pe taperekoite { -brand-name-wireguard }® mba’éva.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
