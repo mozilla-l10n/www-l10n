@@ -20,7 +20,7 @@ firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem
 firefox-desktop-download-download-options = Opções de tipo de navegador e outros idiomas
 firefox-desktop-download-browser-support = Suporte do { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = O que quer que você faça online.<br>O { -brand-name-firefox-browser } <strong>não</strong> está vigiando.
+firefox-desktop-download-do-what-you-do = Faça o que quiser online.<br>O { -brand-name-firefox-browser } <strong>não</strong> vigia.
 firefox-desktop-download-how-firefox-compares = Como o { -brand-name-firefox } se compara a outros navegadores
 firefox-desktop-download-get-all-the-speed = Tenha toda a velocidade e ferramentas sem invasão de privacidade. O { -brand-name-firefox-browser } coleta tão poucos dados sobre você, que não precisamos nem do seu endereço de email para baixar. Isso porque, diferente de outros navegadores, não temos interesse financeiro em te seguir pela web.
 firefox-desktop-download-how-we-compare = Comparação com outros navegadores
@@ -116,7 +116,7 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Instale o { -brand-name-firefox-browser } para <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Baixe o navegador { -brand-name-firefox } para dispositivos móveis para ter proteção automática em todos os seus dispositivos.
-firefox-desktop-download-learn-about-the = Saiba mais abaixo sobre o navegador { -brand-name-firefox } de computador
+firefox-desktop-download-learn-about-the = Saiba mais sobre o navegador { -brand-name-firefox } de computador
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
