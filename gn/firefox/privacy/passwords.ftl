@@ -27,10 +27,13 @@ privacy-passwords-using-password-recovery = Aipuru ñe’ẽñemi guerujeyrã o�
 privacy-passwords-tricking-you-into = Rombotavy eme’ẽ hag̃ua
 privacy-passwords-to-keep-your = Ereko hag̃ua ne mba’ete tekorosãme, emboyke heta ombyaikuaáva ikatuháicha. Peteĩteĩva mba’evai oreko mba’éichapa emboykekuaa.
 privacy-passwords-look-for-the = Eheka pe mbotyha ne kundahárape
+privacy-passwords-its-easy-to = Ndahasýi emboykévo mba’evaiapoha omondakuaáva ne ñe’ẽñemi eikévo peteĩ ñanduti renda ipapapy’ỹvape: Eñamindu’uvéke ehai mboyve ne ñe’ẽñemi nderehecháiramo mbotyha ra’ãnga’i pe URL rendápe, koichagua:
 privacy-passwords-a-closed-lock = Kundahára tuichavévape ojehecha mbotyha ijurja’ỹva ñanduti kundaharape renda kundaharape rupápe.
 privacy-passwords-a-padlock-with = Peteĩ mbotyha juasapyre tairenda ndive ohechauka nahekorosãiha jeike.
 privacy-passwords-firefox-will = Firefox ohechaukáta kyhyjerã pe ñanduti rendápe térã tenda phishing ojekuaávape.
 privacy-passwords-strength-in-diversity = Mbarete oĩ tekoetápe
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-firefox-monitor = Oipuru <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> oma’ẽ ñanduti veve kundaharape ojuajúva ne mba’etére. Ne ñanduti veve kundaharape ojekuaárõ mba’ekuaarã mboguaha atyguasu herakuãva, eñeñatõita ha oje’éta mba’épa ejapóta emo’ã hag̃ua ne mba’ete iñapañuãiva.
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
