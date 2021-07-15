@@ -26,3 +26,5 @@ vpn-android-devices-copy = { -brand-name-mozilla-vpn } ome’ẽ ikatu hag̃uái
 vpn-android-speed-headline = Ipya’etereíva. Mba’ekuaarã hu’ã’ỹva.
 vpn-android-speed-copy = Ñembosarái ñandutípe, ta’ãngamýi jehechauka ha eikundaha ñandutípe pya’eterei ne mba’e’okápe { -brand-name-android }, opavave ancho de banda hu’ã’ỹva ndive.
 vpn-android-log-headline = Ñemboheraguapy’ỹre. Tapykueho’ỹre. Tekoñemi jeikepa’ỹre.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Heta VPN me’ẽhára oñongatu nde rapykuere imohendahavusúpe. Ore noromba’apói péicha. { -brand-name-mozilla-vpn } ndohapykuehói nde jeike ñandutípe—upéva ndohói ore rembipota atyguasuháicha rohekáva. Romoĩ tekoñemi ha tekorosã tenonde, tenondete opa mba’égui.
