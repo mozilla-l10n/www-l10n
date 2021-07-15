@@ -16,7 +16,7 @@ firefox-desktop-download-og-desc = Carregamento de páginas mais rápido, menos 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Instale o navegador que protege o que é importante
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem acesso escondido para anunciantes. Apenas um navegador extremamente rápido que não vende você como produto.
+firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem acesso escondido para anunciantes. Apenas um navegador extremamente rápido, que não vende você como produto.
 firefox-desktop-download-download-options = Opções de tipo de navegador e outros idiomas
 firefox-desktop-download-browser-support = Suporte do { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -142,8 +142,8 @@ firefox-desktop-download-questions = Dúvidas? O <a { $attrs }>suporte da { -bra
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Você já tem o navegador. Agora obtenha ainda mais do { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Fique atento a hackers com o { -brand-name-firefox-monitor }, proteja senhas com o { -brand-name-firefox-lockwise } e muito mais.
-firefox-desktop-download-get-more-from-firefox = Obtenha mais do { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Apenas baixe o navegador
+firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Apenas baixar o navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
