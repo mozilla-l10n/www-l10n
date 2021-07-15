@@ -70,7 +70,7 @@ history-the-mozilla-community-together = Спільнота { -brand-name-mozill
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Якщо ви хочете приєднатися до нас в нашій місії, будь ласка <a href="{ $contribute }">долучайтеся</a>.
-history-for-more-information-about = Для докладної інформації про історію { -brand-name-mozilla }, перегляньте наступне:
+history-for-more-information-about = Докладніше про історію { -brand-name-mozilla }:
 history-mozilla-bookmarks = Закладки { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Часова шкала проєкту { -brand-name-mozilla }
 history-mozilla-digital-memory-bank = Цифровий банк пам'яті { -brand-name-mozilla }
