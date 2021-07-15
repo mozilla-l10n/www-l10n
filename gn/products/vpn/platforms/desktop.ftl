@@ -12,6 +12,7 @@ vpn-desktop-page-description = Eguereko tekorosã ipya’e ha hasy’ỹva ne mo
 vpn-desktop-hero-headline = Eike ñandutípe tekorosãme { -brand-name-mozilla-vpn } mesa arigua ndive
 vpn-desktop-maker-of-firefox = Ñanduti kundahára mboguataháraramo { -brand-name-firefox } ha peteĩva umi jeroviaha oñorairõvéva ne ñemigua ñandutípe rehe, { -brand-name-mozilla } oguereko ohupytysevévaramo ne ñemigua ha ne rekorosã eike vovénte.
 vpn-desktop-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
+vpn-desktop-wifi-copy = Ore VPN omo’ã nde jeike ñandutípe mba’evaiapoha ha oma’ẽñemívagui, ejoguakuaáva taperyva’uhágui, eporandúvo nde viru ñongatupy mba’yrumýi guive ha emba’ejoguávo ñandutí guive oimehápe ejepy’apy’ỹre tekorosãre.
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
 vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } rembipuru’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
