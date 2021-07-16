@@ -13,6 +13,7 @@ vpn-android-hero-headline = Ereko ñemo’ã ha tekoñemi ñandutípe { -brand-n
 vpn-android-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
 vpn-android-about-headline = { -brand-name-mozilla } ha’e téra ejeroviakuaaha
 vpn-android-privacy-headline = Eikutu eikekuaa hag̃ua
+vpn-android-privacy-copy = Eipuru { -brand-name-mozilla-vpn } { -brand-name-android } peg̃uarã ndahasýi. Epoko pe votõ ha nde jeike ipapapýta ijehegui taperekoite oikóv ndive { -brand-name-wireguard }®. ¡Peichaite!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
