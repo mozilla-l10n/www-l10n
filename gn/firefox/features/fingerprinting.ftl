@@ -16,4 +16,6 @@ features-fingerprinting-every-fingerprint = Peteĩteĩva kuãhũ ñandutigua ha�
 features-fingerprinting-download-firefox = Emboguejy { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ¿Mba’e pe kuãhũ rapykuere jeujhu?
 features-fingerprinting-fingerprinting-is-bad = Kuãhũ ñandutigua ñemoheñói ivai ñandutípe g̃uarã
+# $url_download (string) - link to firefox/new
+features-fingerprinting-you-probably-wouldnt = Neremoneĩmo’ãi peteĩva nde rapykuehóvo nde rekovépe. Ndaipóri mba’érepa emoneĩta ñandutípe. Ndereguerekóiramo gueteri { -brand-name-firefox }, <a { $url_download }>emboguejy ha eñemo’ã</a> umi kuãhũ rapykuerégui (fingerprinting).
 features-fingerprinting-protect = Emo’ã ne rekorosãrã
