@@ -11,9 +11,9 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } este browserul incredibil de rapid care îți oferă unelte de dezvoltare de ultimă generație și cele mai noi funcționalități, precum suport pentru CSS Grid și depanare pentru framework-uri
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = Bine ai venit la bordul noului tău browser preferat. Bucură-te de cele mai noi funcționalități, cea mai mare performanță și uneltele de dezvoltare de care ai nevoie pentru a construi webul deschis.
+firefox-developer-welcome-to-your-new-favorite = Bine ai venit la bordul noului tău browser preferat. Bucură-te de cele mai noi funcționalități, cea mai mare performanță și instrumentele pentru dezvoltatori de care ai nevoie pentru a construi webul deschis.
 firefox-developer-speak-up = Dă de veste
-firefox-developer-feedback-makes-us = Feedbackul ne face mai buni. Spune-ne cum putem îmbunătăți browserul și uneltele de dezvoltare.
+firefox-developer-feedback-makes-us = Feedbackul ne face mai buni. Spune-ne cum putem îmbunătăți browserul și instrumentele pentru dezvoltatori.
 firefox-developer-join-the-convo = Alătură-te conversației
 firefox-developer-get-involved = Implică-te
 firefox-developer-help-build-the-last = Ajută-ne să construim ultimul browser independent. Scrie cod, repară defecte, creează suplimente și nu numai.
