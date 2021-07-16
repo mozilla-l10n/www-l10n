@@ -14,6 +14,7 @@ misinformation-spot-online-heading = Mba’éichapa eikuaáta marandu japugua ñ
 misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
 misinformation-known-to-br-credible = ¿Ojeguerovia chupe? Nderegueroviáiramo, eñeha’ã eheka marandu teñoiha rehegua ha rerakuãporã ñandutípe.
 misinformation-overly-sensational = ¿Pe maranduguasu ombotuichaiterei?
+misinformation-check-out-websites = Ehecha umi ñanduti renda ha marandu me’ẽha ejeroviaha ehecha hag̃ua mba’éicha omomarandu pe téma ha mba’éichapa ojapo. Pe tetepy oñemoambuéva py’ỹinte oho ijapýrape ha oipuru ñembotuicha noĩrihápe mba’etépa oiko, ha ndaikatúi ojehechajey ñomongetakue ikutiaporãva.
 misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
 misinformation-outdated-information = Pe marandu ndahekopyahúi ndaha’éi katuete noporomaranduséiva, hákatu ikatu hína noĩporãmbái.
 misinformation-credible-publication = ¿Ohechauka apohára ambue jehaipyre térã guenohẽmbyre, ikatu haguéicha tenda ojekuaávape?
