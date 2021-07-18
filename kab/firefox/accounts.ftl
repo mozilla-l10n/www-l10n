@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = Ɣef yibenkan-ik meṛṛa, akken yebɣu 
 firefox-accounts-and-get-it-all-on = Daɣen awi-t ɣef yibenkan-ik meṛṛa, war ma tḥulfeḍ tettwaṭṭfeḍ deg yiwen kan n unagraw n wammud.
 firefox-accounts-get-the-respect-you = Awi aqadeṛ i tuklaleḍ.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Ammesten ummid n meṛṛa ibenkan
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Ur ǧin ad awen-neskiddeb. Sekra n wayen i nxeddem, yekcem deg <a href="{ $promise }">insayen itezzin ɣef yisefka udmawanen</a>:
