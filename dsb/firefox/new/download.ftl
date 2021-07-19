@@ -59,3 +59,4 @@ firefox-new-visit-support-for-more = Woglědajśo se k bokam pomocy za dalšne d
 firefox-new-download-browser = { -brand-name-firefox-browser } ześěgnuś
 firefox-new-fast = Malsny, priwatny a lichy
 firefox-new-from-mozilla = wot { -brand-name-mozilla }
+firefox-new-download-a-different = Firefox za druge platformy abo rěcy ześěgnuś
