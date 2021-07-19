@@ -12,15 +12,20 @@ firefox-home-meet-our-family-of = Mød alle vores produkter
 firefox-home-get-trackers-off = Slip for mere end 2000 sporingstjenester - inklusive { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Få besked når hackerne slår til - og vær et skridt foran dem
 firefox-home-start-getting-breach = Få advarsler om datalæk
+# Obsolete string
 firefox-home-keep-your-passwords = Beskyt dine adgangskoder på alle dine enheder
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Læs mere om { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Få den <strong>respekt</strong> du fortjener
 firefox-home-every-single-firefox = Alle { -brand-name-firefox }-produkter overholder vores løfte om private data: <strong>Gem mindre. Beskyt alt. Ingen hemmeligheder.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Del store filer uden at blive overvåget
+# Obsolete string
 firefox-home-start-sending-files = Kom i gang med at sende filer på en sikker måde
 firefox-home-trade-clickbait-for = Udskift ligegyldigt clickbait med indhold af høj kvalitet
 firefox-home-learn-more-about-pocket = Læs mere om { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Fuld beskyttelse af alle dine enheder.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Ét login. På alle dine enheder. En familie af produkter, der respekterer din <strong>ret til privatliv</strong>.
 firefox-home-join-firefox = Slut dig til { -brand-name-firefox }
@@ -29,6 +34,7 @@ firefox-home-get-the-browser-extension = Hent udvidelsen til din browser
 firefox-home-get-the-facebook-container = Hent udvidelsen { -brand-name-facebook-container }
 firefox-home-download-the-browser = Hent browseren
 firefox-home-download-the-app = Hent appen
+firefox-home-get-mozilla-vpn = Få { -brand-name-mozilla-vpn }
 firefox-home-desktop = Computer
 firefox-home-browsers = Browsere
 firefox-home-android = { -brand-name-android }
@@ -38,6 +44,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
