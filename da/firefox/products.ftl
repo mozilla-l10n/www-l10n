@@ -21,11 +21,18 @@ firefox-products-desktop = Computer
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Se alle browsere
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Beskyt dine adgangskoder, og få adgang til dem på alle dine synkroniserede enheder.
+# Obsolete string
 firefox-products-download-lockwise = Hent { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Åbn i { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Læs mere om { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Send dine store filer og følsomme dokumenter på op til 2,5G sikkert.
 firefox-products-send-a-file = Send en fil
