@@ -59,4 +59,5 @@ firefox-new-visit-support-for-more = Visitar le supporto pro altere detalios
 firefox-new-download-browser = Discargar { -brand-name-firefox-browser }
 firefox-new-fast = Rapide, private e gratuite
 firefox-new-from-mozilla = ab { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } es un navigator del Web gratuite con cargamento paginas veloce, minor uso de memoria e plure functionalitates, un projecto del organisation non lucrative { -brand-name-mozilla }.
 firefox-new-download-a-different = Discarga un altere platteforma o lingua
