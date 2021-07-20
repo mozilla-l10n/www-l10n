@@ -48,6 +48,7 @@ is-firefox-safe = ¿Hekorosãpa { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } nahekorosã’añói, nepytyvõ ereko hag̃ua mba’ekuaarã tekorosãme, avei ne marandu ñemiguáva. { -brand-name-firefox-browser } ojoko ijehegui tapykuehoha mbohapyháva ojekuaáva, ava ñandutieta rapykuehoha, criptominero ha kuãhũ kuaaukaha moheñoihára (fingerprinters) ani hag̃ua ombyaty ne mba’ekuaarã. <a href="{ $url }">Eikuaave ore apopyre rekoñemi.</a>
 related-questions-safe = Porandu ojokupytýva: { -brand-name-firefox } iporãve tekoñemíme, hekorosã, ha iporãve ñemiguápe
 does-firefox-sell = ¿{ -brand-name-firefox } ohepyme’ẽ ne mba’ekuaarã teéva?
 
