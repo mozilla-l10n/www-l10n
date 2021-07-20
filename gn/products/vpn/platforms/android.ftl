@@ -10,6 +10,7 @@ vpn-android-page-title = { -brand-name-mozilla-vpn } { -brand-name-android } peg
 vpn-android-page-description = Eime tekorosãme peteĩ jekutu ne pumbyrýpe { -brand-name-android } { -brand-name-mozilla } rupive, téra ojejeroviaveha tembipurupyahúpe.
 # Mobile strings
 vpn-android-hero-headline = Ereko ñemo’ã ha tekoñemi ñandutípe { -brand-name-mozilla-vpn } ndive { -brand-name-android } peg̃uarã
+vpn-android-ability = Eikuaaporãke ne mba’ekuaarã oĩha kañyhápe mba’evaiapoha ha oma’ẽvaívagui — ógape térã wifi rupive — { -brand-name-mozilla-vpn } ndive. Peteĩ taperyva kagua repýre, ne mba’ekuaarã ne mba’e’okápe { -brand-name-android } omog̃uahẽ papapy oikóva pe { -brand-name-wireguard }® raperekoha rupi. Oipuru { -brand-name-mozilla-vpn } ohecha hag̃ua tembiaporape, ñembosarái, virúre ñeñangareko, jogua ha ejapo oimeraẽva mba’e ñandutípe eikuaávo nde jeike hekorosãha.
 vpn-android-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
 vpn-android-about-headline = { -brand-name-mozilla } ha’e téra ejeroviakuaaha
 vpn-android-privacy-headline = Eikutu eikekuaa hag̃ua
