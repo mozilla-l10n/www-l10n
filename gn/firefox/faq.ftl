@@ -72,6 +72,7 @@ does-firefox-have = ¿{ -brand-name-firefox } oguereko VPN ojuajúva?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+firefox-does-not = { -brand-name-firefox } ndoguerekói VPN (red privada virtual) ojuajupáva, hákatu oĩ mokõi apopyre { -brand-name-mozilla }/{ -brand-name-firefox } eipurukuaáva avei { -brand-name-firefox-browser } ndive omo’ãkuaáva (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) térã pe mba’e’okápe jeike (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi ndive, péicha avei nde IP kundaharape.
 related-questions-ip = Porandu ojuehegua: ¿{ -brand-name-firefox } oñomi nde IP?
 who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
 
