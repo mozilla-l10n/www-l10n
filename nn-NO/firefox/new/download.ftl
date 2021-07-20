@@ -10,6 +10,7 @@
 
 firefox-new-download-firefox = Last ned { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Last ned raskaste { -brand-name-firefox } til no
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Raskare sidelasting, mindre minnebruk og fullpakka med funksjonar - Nye { -brand-name-firefox } er her.
 firefox-new-get-the-latest-firefox = Last ned siste versjon av nettlesaren { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
