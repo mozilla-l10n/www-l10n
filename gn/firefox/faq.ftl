@@ -30,6 +30,7 @@ is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
 yep-the-firefox = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Reietegua. Ndaipóri jehepyme’ẽ kañymby. Nerejehepyme’ẽi eipuru hag̃ua, ha norohepyme’ẽi ne mba’ekuaarã teéva.
 related-questions-free = Porandu ojuehegua: ¿{ -brand-name-firefox-browser } reigua, ¿{ -brand-name-firefox } hepýpa?
 is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-gui?
+no-we-dont = Nahániri, ndoro’éi { -brand-name-chrome } iporãveha { -brand-name-firefox }-gui, ha kóva rupive: tapichakuéra oporandu vove mba’e kundahárapa iporãve, avei oñeporandu mba’e kundahárapa ipya’e ha hekorosãve. { -brand-name-firefox } hekopyahu ñavõ jasýpe eikuaa hag̃ua erekoha kundahára ipya’evéva ha omomba’éva ne rekoñemi ijehegui.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
