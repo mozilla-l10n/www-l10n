@@ -10,6 +10,7 @@ vpn-android-page-title = { -brand-name-mozilla-vpn } για { -brand-name-androi
 vpn-android-page-description = Λάβετε προστασία στο { -brand-name-android } τηλέφωνό σας από τη { -brand-name-mozilla }, μία από τις πιο αξιόπιστες επωνυμίες στον χώρο της τεχνολογίας.
 # Mobile strings
 vpn-android-hero-headline = Προστατευτείτε στο διαδίκτυο με το { -brand-name-mozilla-vpn } για { -brand-name-android }
+vpn-android-maker-of-firefox = Ως δημιουργός του { -brand-name-firefox } και ένας από τους πιο αξιόπιστους υπερασπιστές του διαδικτυακού απορρήτου, η { -brand-name-mozilla } δεσμεύεται να διασφαλίσει το απόρρητο και την ασφάλειά σας κάθε φορά που συνδέεστε στο διαδίκτυο.
 vpn-android-wifi-headline = Μείνετε ασφαλείς, ακόμα κι όταν βρίσκεστε εν κινήσει
 vpn-android-wifi-copy = Μερικές φορές τα ασύρματα δεδομένα δεν είναι διαθέσιμα και το δημόσιο Wi-Fi είναι η μόνη σας επιλογή. Με το { -brand-name-mozilla-vpn } στην { -brand-name-android } συσκευή σας, δεν θα χρειαστεί ποτέ να ανησυχήσετε για την εισαγωγή κωδικών πρόσβασης στο αεροδρόμιο ή τις αγορές στο διαδίκτυο από το γωνιακό καφέ — συνδεθείτε με ένα μόνο πάτημα και κάντε τη δουλειά σας.
 vpn-android-about-headline = { -brand-name-mozilla }, μια επωνυμία που μπορείτε να εμπιστευτείτε

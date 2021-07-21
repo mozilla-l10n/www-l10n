@@ -10,7 +10,9 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } για υπολογιστέ
 vpn-desktop-page-description = Λάβετε προστασία στον υπολογιστή σας από τη { -brand-name-mozilla }, μία από τις πιο αξιόπιστες επωνυμίες στον χώρο της τεχνολογίας.
 # Desktop strings
 vpn-desktop-hero-headline = Προφυλάξτε τη σύνδεσή σας στο διαδίκτυο με το { -brand-name-mozilla-vpn } για υπολογιστές
+vpn-desktop-maker-of-firefox = Ως δημιουργός του { -brand-name-firefox } και ένας από τους πιο αξιόπιστους υπερασπιστές του διαδικτυακού απορρήτου, η { -brand-name-mozilla } δεσμεύεται να διασφαλίσει ότι θα νιώθετε ασφαλείς και σεβαστοί κάθε φορά που συνδέεστε στο διαδίκτυο.
 vpn-desktop-wifi-headline = Νιώστε ασφάλεια σε δημόσια Wi-Fi
+vpn-desktop-wifi-copy = Το VPN μας προφυλάσσει τη σύνδεσή σας στο διαδίκτυο από hacker και κατασκόπους, ώστε να κάνετε αγορές από την καφετέρια, να ελέγχετε τον τραπεζικό σας λογαριασμό από το τρένο και να εργάζεστε στο διαδίκτυο, οπουδήποτε και χωρίς καμία ανησυχία.
 vpn-desktop-about-headline = Σχετικά με τη { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Ιδιωτικότητα με ένα κλικ
 vpn-desktop-privacy-copy = Το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεσή σας στο διαδίκτυο και κρύβει τη διεύθυνση IP σας στην κινητή σας συσκευή με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®.
