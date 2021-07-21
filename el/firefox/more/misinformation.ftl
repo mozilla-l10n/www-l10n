@@ -19,6 +19,7 @@ misinformation-outdated-information = Οι παλαιές πληροφορίες
 misinformation-credible-publication = Συνέταξε ο δημιουργός άλλα άρθρα ή αναρτήσεις, ιδανικά σε αξιόπιστες δημοσιεύσεις;
 misinformation-authors-name = Αν βρίσκετε το όνομα του συγγραφέα μόνο σε αμφισβητήσιμες ιστοσελίδες, δεν θα πρέπει να δώσετε ιδιαίτερη σημασία στα λεγόμενά του.
 misinformation-images-captions = Ταιριάζουν οι εικόνες και οι λεζάντες;
+misinformation-images-are-powerful = Οι εικόνες είναι ένα πανίσχυρο εργαλείο για τη στοχευμένη παραπληροφόρηση. Ανάλογα με τη λεζάντα, η αντίληψη μπορεί να διαστρεβλωθεί εντελώς. Αν δεν είστε σίγουροι, εκτελέστε μια αντίστροφη αναζήτηση εικόνας για να μάθετε πώς περιγράφεται η εικόνα σε άλλες ιστοσελίδες.
 misinformation-how-firefox-helps-heading = Πώς το { -brand-name-firefox } σάς βοηθά να αποφύγετε την παραπληροφόρηση
 misinformation-firefox-keeps-trackers-heading = Το { -brand-name-firefox } περιορίζει τους ιχνηλάτες:
 misinformation-social-media-clean-heading = Το { -brand-name-firefox } διατηρεί καθαρές τις ροές κοινωνικών δικτύων σας:
