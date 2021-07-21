@@ -10,6 +10,7 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } για κινητές συσ
 vpn-mobile-page-description = Προστατέψτε το smartphone και το tablet σας με ένα VPN από τη { -brand-name-mozilla }, τον αξιόπιστο πρωτοπόρο του διαδικτυακού απορρήτου.
 # Mobile strings
 vpn-mobile-hero-headline = Προστατέψτε το απόρρητο της κινητής σας συσκευής με το { -brand-name-mozilla-vpn }
+vpn-mobile-maker-of-firefox = Εξασφαλίστε ότι η σύνδεση του τηλεφώνου σας στο διαδίκτυο παραμένει ιδιωτική, όπου κι αν βρεθείτε, με το { -brand-name-mozilla-vpn }, ένα απαραίτητο εργαλείο απορρήτου από τους δημιουργούς του { -brand-name-firefox }.
 vpn-mobile-wifi-headline = Νιώστε ασφάλεια σε δημόσια Wi-Fi
 vpn-mobile-wifi-copy = Το VPN μας προφυλάσσει τη σύνδεσή σας στο διαδίκτυο από hacker και κατασκόπους, ώστε να κάνετε αγορές από την καφετέρια, να ελέγχετε τον τραπεζικό σας λογαριασμό από το τρένο και να εργάζεστε στο διαδίκτυο, γνωρίζοντας ότι η διεύθυνση IP σας είναι προστατευμένη.
 vpn-mobile-about-headline = Σχετικά με τη { -brand-name-mozilla }

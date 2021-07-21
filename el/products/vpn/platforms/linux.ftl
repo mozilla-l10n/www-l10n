@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } για { -brand-name-linux } ({ -brand-name-ubuntu })
+vpn-linux-page-description = Ως υποστηρικτής του { -brand-name-ubuntu } { -brand-name-linux }, γνωρίζετε ήδη τη σημασία του απορρήτου και της ασφάλειας στο διαδίκτυο. Γνωρίζετε ίσως επίσης τη { -brand-name-mozilla } και την αποστολή της — ένα ιδιωτικό, ανοικτό και ελεύθερο διαδίκτυο για όλους. Ήρθε η ώρα να συνδυάσουμε αυτά τα δύο.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } για { -brand-name-ubuntu } { -brand-name-linux } — ένα απόλυτα ιδιωτικό ζευγάρι
 vpn-linux-ability = Λάβετε ένα επιπλέον μέτρο ασφαλείας — εντός και εκτός σπιτιού — με το { -brand-name-mozilla-vpn }. Με ένα μικρό μηνιαίο κόστος, αξιοποιήστε το προηγμένο πρωτόκολλο { -brand-name-wireguard }® για να κρυπτογραφήσετε τη σύνδεσή σας στο διαδίκτυο από τον υπολογιστή σας με { -brand-name-linux } και τις άλλες σας συσκευές, για να δείτε σειρές, να παίξετε παιχνίδια, να κάνετε αγορές και να κάνετε οποιαδήποτε άλλη εργασία με σιγουριά.
