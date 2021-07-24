@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Nu este nevoie de niciun cont. Dar s-ar putea să vrei unul.
-whatsnew-account-main-lead-in = Browserul { -brand-name-firefox } colectează atât de puține date despre tine încât nu avem nevoie nicii măcar de o adresă de email. Dar atunci când îți creezi un cont { -brand-name-firefox } noi îți putem proteja mai bine confidențialitatea online.
+whatsnew-account-main-lead-in = Browserul { -brand-name-firefox } colectează atât de puține date despre tine, nici măcar nu avem nevoie de adresa ta de e-mail. Dar când o folosești pentru a crea un cont { -brand-name-firefox }, îți putem proteja confidențialitatea pe parcursul vieții tale online.
 whatsnew-account-main-button = Autentifică-te
 
 ##
