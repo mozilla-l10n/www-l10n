@@ -27,7 +27,7 @@ footer-pocket = { -brand-name-pocket }
 # Outdated string
 footer-join = Alătură-te
 # Outdated string
-footer-sign-up = Înregistrează-te
+footer-sign-up = Înscrie-te
 # Outdated string
 footer-sign-in = Autentifică-te
 # Outdated string

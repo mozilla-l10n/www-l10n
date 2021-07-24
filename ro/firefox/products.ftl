@@ -12,20 +12,26 @@ firefox-products-its-a-whole-family-of-products = Este o întreagă familie de p
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } este <strong>mai mult</strong> decât un browser
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-products-see-if-your-personal-information = Vezi dacă datele tale cu caracter personal au fost compromise într-o încălcare a securității datelor corporative și înregistrează-te pentru alerte viitoare.
+firefox-products-see-if-your-personal-information = Vezi dacă datele tale cu caracter personal au fost compromise într-o încălcare a securității datelor corporative și înscrie-te pentru alerte viitoare.
 firefox-products-check-for-breaches = Caută încălcări ale securității datelor
-firefox-products-sign-up-for-breach-alerts = Înregistrează-te pentru alerte privind încălcările securității datelor
+firefox-products-sign-up-for-breach-alerts = Înscrie-te pentru alerte privind încălcările securității datelor
 firefox-products-firefox-browsers = Browsere { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Obține browsere care blochează automat peste 2.000 de elemente de urmărire de date. Protecția îmbunătățită împotriva urmăririi este inclusă standard în fiecare browser { -brand-name-firefox }.
 firefox-products-desktop = Calculator
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Vezi toate browserele
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Păstrează-ți parolele în siguranță și accesează-le de pe toate dispozitivele sincronizate.
+# Obsolete string
 firefox-products-download-lockwise = Descarcă { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Deschide în { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Află mai multe despre { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Trimite fișiere mari, de până la 2,5 G, și documente sensibile în siguranță.
 firefox-products-send-a-file = Trimite un fișier
