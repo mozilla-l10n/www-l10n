@@ -67,13 +67,13 @@ navigation-privacy = Confidențialitate
 navigation-get-unmatched-data-protection = Obține o protecție de neegalat a datelor în ritmul lansărilor care se potrivește organizației tale.
 navigation-made-with-respect = Realizat cu respect
 navigation-close-products-menu = Închide meniul de produse
-navigation-see-if-your-personal = Vezi dacă informațiile tale cu caracter personal au fost divulgate online și înregistrează-te pentru alerte viitoare.
+navigation-see-if-your-personal = Vezi dacă informațiile tale cu caracter personal au fost divulgate online și înscrie-te pentru alerte viitoare.
 navigation-check-for-breaches = Caută încălcări ale securității datelor
 navigation-see-breaches = Vezi încălcările securității datelor
 navigation-security-tips = Ponturi de securitate
 navigation-share-large-files-safely = Partajează fișiere mari în siguranță, cu linkuri care se „autodistrug”.
 navigation-save-quality-content = Salvează conținut de calitate de oriunde. Hrănește-ți mintea peste tot.
-navigation-sign-up = Înregistrează-te
+navigation-sign-up = Înscrie-te
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Rapid. Simplu. Privat.
 navigation-protect-your-entire-device = Protejează-ți întregul dispozitiv și toate aplicațiile. Maschează locația ta reală și conectează până la 5 dispozitive. Abonează-te acum.
 # Outdated string

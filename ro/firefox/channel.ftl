@@ -55,4 +55,4 @@ firefox-channel-experience-cutting-edge-features-ios = Experimentează funcțion
 firefox-channel-test-beta-versions-of-firefox-ios-long = Testează versiunile beta de { -brand-name-firefox } pentru { -brand-name-ios } prin programul { -brand-name-test-flight } de la { -brand-name-apple } și ajută-ne să facem și mai bun browserul nostru pentru { -brand-name-iphone }, { -brand-name-ipad } și iPod.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Testează versiunile beta de { -brand-name-firefox } pentru { -brand-name-ios } prin programul { -brand-name-test-flight } de la { -brand-name-apple }.
-firefox-channel-sign-up-now = Înregistrează-te acum
+firefox-channel-sign-up-now = Înscrie-te acum
