@@ -22,6 +22,7 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Tüm tarayıcılara bakın
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Güvenli bir internet bağlantısı için 30’dan fazla ülkedeki sunucularla internette gezinin, video izleyin ve işlerinizi halledin.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
