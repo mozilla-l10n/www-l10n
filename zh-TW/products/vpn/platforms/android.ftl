@@ -11,6 +11,7 @@ vpn-android-page-title = { -brand-name-mozilla-vpn } for { -brand-name-android }
 vpn-android-hero-headline = 使用 { -brand-name-mozilla-vpn } for { -brand-name-android }，保護您的上網隱私
 vpn-android-about-headline = 您可以信任 { -brand-name-mozilla }
 vpn-android-privacy-headline = 只要輕鬆一點即可連線
+vpn-android-privacy-copy = 在 { -brand-name-android } 使用 { -brand-name-mozilla-vpn } 易如反掌。只要點個按鈕，您與網際網路的連結就會自動使用專業級的 { -brand-name-wireguard }® 協定加密。不難吧！
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries

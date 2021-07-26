@@ -15,4 +15,5 @@ vpn-desktop-servers-headline = 連線到世界各地的伺服器
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = 同時保護最多 { $devices } 台裝置連線
 vpn-desktop-speed-headline = 高速連線不受限
+vpn-desktop-speed-copy = 以閃電般的速度播放影片、玩遊戲、購物和瀏覽。 { -brand-name-mozilla-vpn } 不會限制您的頻寬或減慢您的智慧型手機的速度。
 vpn-desktop-log-headline = 將您的隱私擺在第一位
