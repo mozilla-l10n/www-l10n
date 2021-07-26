@@ -19,6 +19,7 @@
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } est-il gratuit ?
+yep-the-firefox = Oui ! Le { -brand-name-firefox-browser } est gratuit. Vraiment gratuit. Il n’y a aucun coût caché. Vous n’avez pas besoin de payer quoi que ce soit pour l’utiliser, et nous ne revendons pas vos données personnelles.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
