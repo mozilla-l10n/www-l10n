@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/all/
 
+whatsnew-s2d-download-firefox-for-android = Doonload { -brand-name-firefox } fur { -brand-name-android } and { -brand-name-ios }
 whatsnew-s2d-download-firefox-for-your = Doonload { -brand-name-firefox } fur yer smairtphone and tablet.

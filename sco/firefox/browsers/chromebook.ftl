@@ -10,6 +10,7 @@
 
 browsers-chromebook-get-firefox-browser = Get { -brand-name-firefox-browser } fur { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Get { -brand-name-firefox } fur { -brand-name-android }
+browsers-chromebook-get-firefox-desktop = Get { -brand-name-firefox } Desktap fur { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = Get { -brand-name-firefox } fur { -brand-name-chromebook }
 
 # Variables:

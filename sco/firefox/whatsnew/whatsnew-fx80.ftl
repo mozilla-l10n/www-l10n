@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0/whatsnew/all/
 
+# html page title
+whatsnew80-page-title = Whit’s new wi { -brand-name-firefox }
 whatsnew80-up-to-date-banner = Gaun yersel! Ye're yaisin the latest version o { -brand-name-firefox }.
