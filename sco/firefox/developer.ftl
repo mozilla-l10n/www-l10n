@@ -11,6 +11,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-get-involved = Tak pairt
+firefox-developer-start-now = Stert noo
 firefox-developer-inspector = Inspector
 firefox-developer-console = Console
 firefox-developer-debugger = Bugdichter
@@ -25,3 +26,5 @@ firefox-developer-performance = Performance
 firefox-developer-learn-more-about-performance = Lairn mair aboot Performance Tools
 firefox-developer-memory = Memory
 firefox-developer-learn-more-about-memory = Lairn mair aboot Memory Tools
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-welcome-to-firefox-browser = Walcome tae { -brand-name-firefox-browser } { -brand-name-developer-edition }

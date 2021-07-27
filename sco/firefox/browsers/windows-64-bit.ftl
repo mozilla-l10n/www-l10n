@@ -8,3 +8,5 @@
 # HTML page title
 windows-64-bit-firefox-for-windows = { -brand-name-firefox } fur { -brand-name-windows } 64-bit
 windows-64-bit-64-bit = 64-bit
+# Main title
+windows-64-bit-a-more-secure-firefox = A mair siccar { -brand-name-firefox }.

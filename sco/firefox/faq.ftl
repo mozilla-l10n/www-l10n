@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } FAQ
+what-is-firefox = Whit is { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/

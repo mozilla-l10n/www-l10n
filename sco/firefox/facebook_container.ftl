@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-get-the-facebook-container = Get the { -brand-name-facebook-container } Extension
+facebook-container-about-firefox-and-mozilla = Aboot { -brand-name-firefox } and { -brand-name-mozilla }

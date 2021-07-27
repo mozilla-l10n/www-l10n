@@ -15,3 +15,4 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Build, test, scale and mair wi the anely stravaiger biggit jist fur forderers.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-test-flight = { -brand-name-test-flight }
+firefox-channel-sign-up-now = Sign up noo
