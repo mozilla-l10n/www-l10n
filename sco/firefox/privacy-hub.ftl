@@ -11,6 +11,12 @@ firefox-privacy-privacy = Privacy
 firefox-privacy-our-promise = Oor Promise
 # Sub navigation link
 firefox-privacy-our-products = Oor Products
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Get Augmentit Trackin Bieldin
+firefox-privacy-hub-download-the-firefox-browser = Doonload the { -brand-name-firefox } stravaiger
+firefox-privacy-hub-update-your-firefox-browser = Update yer { -brand-name-firefox } stravaiger
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Lairn mair aboot { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Send a file

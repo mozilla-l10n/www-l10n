@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 features-bookmarks-better-bookmarks = Better buikmerks
+# Obsolete string
+# Futz with means to spend a lot of time on something.
+features-bookmarks-futz-with-that-bookmark = Fuiter wi thon buikmerk

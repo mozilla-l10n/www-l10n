@@ -8,3 +8,5 @@
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-firefox-mobile = Get { -brand-name-firefox } Mobile
+firefox-mobile-android-only = { -brand-name-android } anely
+firefox-mobile-make-android-your-own = Mak { -brand-name-android } yer ain

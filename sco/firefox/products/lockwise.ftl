@@ -6,7 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
+lockwise-take-your-passwords-everywhere = Tak yer passwirds awwhaur
+lockwise-install-for-firefox = Instaw fur { -brand-name-firefox }
 lockwise-open-in-firefox = Open in { -brand-name-firefox }
+lockwise-only-in-the-firefox-browser = Anely in the { -brand-name-firefox-browser }
 lockwise-support = Hauners
 lockwise-your-privacy = Yer Privacy
 lockwise-github = { -brand-name-github }
