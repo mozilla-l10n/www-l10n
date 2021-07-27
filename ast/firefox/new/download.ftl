@@ -3,9 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+## Required
 
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/
+### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+
+firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-advanced-install-options = Opciones avanzaes d'instalación y otres plataformes
+firefox-new-download-in-another-language = Baxar n'otra llingua
+firefox-new-need-help = ¿Precises ayuda?
+
+### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye más qu'un restolador.
+firefox-new-windows-10 = { -brand-name-windows } 10
+
+## Not-Required
+
+
+### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+
+firefox-new-download-a-different = Baxar pa otra plataforma y llingua

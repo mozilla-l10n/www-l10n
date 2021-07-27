@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/5/
 
 welcome-page5-firefox-lockwise = { -brand-term-firefox-lockwise }
+welcome-page5-lockwise-will-recommend-new = { -brand-name-lockwise } aconséyate contraseñes nueves y segures siempres que configures una cuenta nueva.
