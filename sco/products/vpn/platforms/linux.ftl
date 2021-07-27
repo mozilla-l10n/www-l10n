@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/welcome/4/
+### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
-welcome-page4-get-the-firefox-mobile = Get { -brand-name-firefox } Mobile
-welcome-page4-take-it-all-with-you = Tak it aw wi ye
+
+# Meta strings
+
+vpn-linux-page-title = { -brand-name-mozilla-vpn } fur { -brand-name-linux } ({ -brand-name-ubuntu })

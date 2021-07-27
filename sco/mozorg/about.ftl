@@ -7,6 +7,11 @@
 
 # HTML Page title
 about-learn-about-mozilla = Lairn aboot { -brand-name-mozilla }
+about-learn-about-the-mozilla-foundation = Lairn aboot the { -brand-name-mozilla-foundation }
+about-san-francisco = San Francisco
+about-berlin = Berlin
+about-toronto = Toronto
+about-work-at-mozilla = Wirk at { -brand-name-mozilla }
 about-mozilla-careers = { -brand-name-mozilla } Careers
 about-get-involved = Tak Pairt
 

@@ -8,6 +8,19 @@
 
 ## FAQ section
 
+vpn-landing-faq-heading = FAQs
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit anely)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-bit anely)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-anely)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-anely)
+vpn-landing-faq-link = See mair FAQs
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

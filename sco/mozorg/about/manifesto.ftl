@@ -15,3 +15,4 @@ manifesto-07 = 07
 manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
+manifesto-love-the-web = Luve the wab?

@@ -7,6 +7,7 @@
 
 legal-legal = Legal
 legal-get-involved = Tak pairt
+legal-our-websites = Oor Wabsites
 legal-webmaker = { -brand-name-webmaker }
 legal-firefox = { -brand-name-firefox }
 legal-thunderbird = { -brand-name-thunderbird }

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/welcome/4/
+### URL: https://www-dev.allizom.org/privacy/faq
 
-welcome-page4-get-the-firefox-mobile = Get { -brand-name-firefox } Mobile
-welcome-page4-take-it-all-with-you = Tak it aw wi ye
+privacy-faq-we-stand-for-people-over-profit = We Staun fur Fowk Ower Fordel
+privacy-faq-yes-we-do = Aye, we dae that.
