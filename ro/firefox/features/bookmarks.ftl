@@ -32,4 +32,4 @@ features-bookmarks-practice-your-precision = Exersează-ți precizia cu fiecare 
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Exersează-ți capacitatea de organizare cu orice <a href="{ $url }">supliment</a> dedicat gestionării marcajelor la care te poți gândi, de la instantanee complete ale paginilor până la bare laterale cu comutare rapidă și marcaje private securizate.
+features-bookmarks-practice-your-exactitude = Exersează-ți capacitatea de organizare cu fiecare <a href="{ $url }">supliment</a> dedicat gestionării marcajelor la care te poți gândi, de la instantanee complete ale paginilor până la bare laterale cu comutare rapidă și marcaje private securizate.
