@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Získajte { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Pridať sa na zoznam čakateľov
 vpn-shared-sign-in-link = Už máte predplatné?
+# Outdated string
 vpn-shared-available-countries = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Spojenom kráľovstve, Kanade, Singapure, Malajzii a na Novom Zélande.
+# Outdated string
 vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Spojenom kráľovstve, Nemecku, Francúzsku, Kanade, Singapure, Malajzii a na Novom Zélande.
+vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Kanade, Spojenom kráľovstve, Nemecku, Francúzsku, Taliansku, Španielsku, Belgicku, Rakúsku, Švajčiarsku, Malajzii, Singapure a na Novom Zélande.
 vpn-shared-money-back-guarantee = 30 dňová záruka vrátenia peňazí
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Písali o nás
@@ -55,9 +58,12 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registrovaná ochr
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Vyberte si plán predplatného, ktorý vám vyhovuje
+# Outdated string
 vpn-shared-pricing-variable-heading = Vyberte si plán, ktorý vám vyhovuje
 vpn-shared-pricing-variable-sub-heading = Všetky naše plány zahŕňajú:
 vpn-shared-pricing-recommended-offer = Odporúčané
+vpn-shared-pricing-plan-monthly = Mesačne
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span> mesačne</span>
