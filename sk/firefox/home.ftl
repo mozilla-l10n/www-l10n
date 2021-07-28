@@ -12,12 +12,16 @@ firefox-home-meet-our-family-of = Spoznajte náš rad produktov
 firefox-home-get-trackers-off = Zablokujte viac ako 2 000 sledovacích prvkov - vrátane { -brand-name-facebook }u
 firefox-home-know-when-hackers-strike = Zostaňte o krok vpred pred hackermi
 firefox-home-start-getting-breach = Nechajte si posielať upozornenia na úniky dát
+# Obsolete string
 firefox-home-keep-your-passwords = Majte svoje heslá v bezpečí na každom zariadení
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Ďalšie informácie o { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Získajte <strong>rešpekt</strong>, ktorý si zaslúžite
 firefox-home-every-single-firefox = Zaväzujeme sa, že nezneužijeme vaše údaje. <strong>Menej dát je niekedy viac. Udržiavame ich v bezpečí a nemáme pred vami žiadne tajomstvá.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Zdieľajte súbory bez toho, aby vás niekto sledoval
+# Obsolete string
 firefox-home-start-sending-files = Odosielajte súbory bezpečne
 firefox-home-trade-clickbait-for = Vymeňte clickbait za kvalitný obsah
 firefox-home-learn-more-about-pocket = Ďalšie informácie o { -brand-name-pocket }e
@@ -29,6 +33,7 @@ firefox-home-get-the-browser-extension = Prevziať rozšírenie
 firefox-home-get-the-facebook-container = Prevziať rozšírenie { -brand-name-facebook-container }
 firefox-home-download-the-browser = Stiahnuť prehliadač
 firefox-home-download-the-app = Stiahnuť aplikáciu
+firefox-home-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
 firefox-home-desktop = Počítač
 firefox-home-browsers = Prehliadače
 firefox-home-android = { -brand-name-android }
@@ -38,6 +43,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

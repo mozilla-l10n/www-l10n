@@ -21,11 +21,19 @@ firefox-products-desktop = Počítač
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Zobraziť všetky prehliadače
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Udržiavajte svoje heslá v bezpečí a vždy po ruke na všetkých svojich zariadeniach.
+# Obsolete string
 firefox-products-download-lockwise = Stiahnuť { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Otvoriť vo { -brand-name-firefox }e
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Ďalšie informácie o { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Posielajte svoje veľké súbory a citlivé dokumenty bezpečne - až do veľkosti 2,5 GB.
 firefox-products-send-a-file = Odoslať súbor
