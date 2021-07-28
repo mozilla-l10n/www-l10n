@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Spoznajte náš rad produktov zameraných 
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } je technológia, ktorá bojuje za vás.
 firefox-accounts-get-technology-that = Prevezmite si technológiu, ktorá bojuje za vás.
 firefox-accounts-travel-the-internet = Surfujte na internete bezpečne - na každom zariadení.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Majte svoje heslá chránené a vždy so sebou.
 firefox-accounts-get-a-lookout-for = Buďte informovaní o únikoch dát.
+# Obsolete string
 firefox-accounts-share-large-files = Zdieľajte súbory bez toho, aby vás niekto sledoval.
 firefox-accounts-get-it-all-on-every = Používajte naše produkty na všetkých svojich zariadeniach. Nenechajte sa obmedzovať operačným systémom.
 firefox-accounts-and-get-it-all-on = Používajte naše produkty na všetkých svojich zariadeniach. Nenechajte sa obmedzovať operačným systémom.
 firefox-accounts-get-the-respect-you = Získajte rešpekt, ktorý si zaslúžite.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Celková ochrana na každom zariadení
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = My vám vždy povieme pravdu. Všetko čo robíme je v súlade s naším <a href="{ $promise }">sľubom o osobných údajoch</a>:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Pomôžte nám vytvoriť lepší { -br
 firefox-accounts-get-into-the-open = Podporte otvorený softvér testovaním vývojových verzií.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Pomôžte nám kontrolovať veľké technologické spoločnosti.
+firefox-accounts-we-support-communities = Podporujeme komunity po celom svete, ktoré sa postavili za zdravší internet. Pridajte svoj hlas.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Podporujeme komunity po celom svete, ktoré sa postavili za zdravší internet. Pridajte svoj hlas.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
