@@ -27,9 +27,9 @@ features-bookmarks-customize-that-bookmark = Particularizează acel marcaj
 features-bookmarks-futz-with-that-bookmark = Experimentează cu marcajele
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Exersează-ți precizia cu fiecare add-on ce administrează marcaje la care te poți gândi, de la capturi complete de ecran ale unei pagini, bare laterale cu comutare rapidă, până la marcaje private securizate.
+features-bookmarks-practice-your-precision = Exersează-ți precizia cu fiecare <a href="{ $url }">supliment</a> dedicat gestionării marcajelor la care te poți gândi, de la instantanee complete ale paginilor până la bare laterale cu comutare rapidă și marcaje private securizate.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Exersează capacitatea de organizare cu orice <a href="{ $url }">extensie</a> pentru gestiunea marcajelor, de la capturi cu pagini complete până la bare laterale cu comutare rapidă și marcaje private securizate.
+features-bookmarks-practice-your-exactitude = Exersează-ți capacitatea de organizare cu orice <a href="{ $url }">supliment</a> dedicat gestionării marcajelor la care te poți gândi, de la instantanee complete ale paginilor până la bare laterale cu comutare rapidă și marcaje private securizate.
