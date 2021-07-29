@@ -9,8 +9,11 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Installer { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rejoindre la liste d’attente
 vpn-shared-sign-in-link = Déjà abonné·e ?
+# Outdated string
 vpn-shared-available-countries = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
+# Outdated string
 vpn-shared-available-countries-v2 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, en Allemagne, en France, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
+vpn-shared-available-countries-v3 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Canada, au Royaume-Uni, en Allemagne, en France, en Italie, en Espagne, en Belgique, en Autriche, en Suisse, en Malaisie, en Nouvelle-Zélande et à Singapour.
 vpn-shared-money-back-guarantee = Garantie de remboursement jusqu’à 30 jours
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Ce qu’on dit de nous
@@ -55,6 +58,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } est une marque dépos
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Optez pour l’abonnement qui vous convient
 # Outdated string
 vpn-shared-pricing-variable-heading = Optez pour l’abonnement qui vous convient
 vpn-shared-pricing-variable-sub-heading = Tous nos abonnements comprennent :
