@@ -12,7 +12,12 @@ whatsnew90-main-cta = Hol dir { -brand-name-mozilla-vpn }
 whatsnew90-block-1-heading = Sicher ist sicher
 whatsnew90-block-1-body = Öffentliches WLAN ist eine der einfachsten Möglichkeiten für Hacker, um an deine persönlichen Daten zu kommen. { -brand-name-mozilla-vpn } verschlüsselt deine Netzwerkaktivitäten und verbirgt deinen Standort und deine IP-Adresse.
 whatsnew90-block-2-heading = Zuhause ist, wo dein VPN ist
+# Obsolete string
 whatsnew90-block-2-body = Nimm dein Entertainment mit auf Reisen oder reise zu deinem Entertainment. Verbinde dich mit über 400 Servern in mehr als 30 Ländern und streame, spiele und surfe sicherer und flexibler.
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+whatsnew90-block-2-body-v2 = Nimm dein Entertainment mit auf Reisen oder reise zu deinem Entertainment. Verbinde dich mit über { $servers } Servern in mehr als { $countries } Ländern und streame, spiele und surfe sicherer und flexibler.
 whatsnew90-availability-heading = Jetzt in weiteren Ländern verfügbar:
 whatsnew90-availability-body = Deutschland, Frankreich, Italien, Spanien, Belgien, Österreich, Schweiz.
 whatsnew90-press-logos-heading = Vorgestellt in
