@@ -14,7 +14,10 @@ whatsnew90-block-1-heading = セーフ & セキュア
 whatsnew90-block-1-body = パブリック Wi-Fi は、ハッカーの手に掛かれば簡単に個人情報を盗まれてしまう場所です。{ -brand-name-mozilla-vpn } なら、ネットワークアクティビティを暗号化し、位置情報と IP アドレスを隠します。
 
 whatsnew90-block-2-heading = VPN があればどこでもホーム
+
+# Obsolete string
 whatsnew90-block-2-body = 外出先にエンターテイメントを持っていく、エンターテイメントに旅をするといった楽しみ方ができます。30 か国以上 750 台以上のサーバーに接続し、柔軟で、より安全にストリーミング、再生、ブラウズができます。
+
 
 whatsnew90-availability-heading = 対応国を追加しました。次の国でも利用可能になりました。
 whatsnew90-availability-body = ドイツ、フランス、イタリア、スペイン、ベルギー、オーストリア、スイス。

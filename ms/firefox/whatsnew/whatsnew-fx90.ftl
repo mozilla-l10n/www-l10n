@@ -14,7 +14,10 @@ whatsnew90-block-1-heading = Selamat & Dilindungi
 whatsnew90-block-1-body = Wifi awam adalah salah satu kaedah termudah bagi penggodam untuk mendapatkan maklumat peribadi anda. { -brand-name-mozilla-vpn } mengenkripsi aktiviti rangkaian anda dan menyembunyikan lokasi serta alamat IP anda.
 
 whatsnew90-block-2-heading = Pangkalan anda adalah di mana VPN berada
+
+# Obsolete string
 whatsnew90-block-2-body = Bawa hiburan anda menjelajah atau pergi di mana hiburan anda berada. Sambungkan ke 750+ pelayan di lebih 30 negara dan strim, main, dan layari dengan lebih selamat dan kekal fleksibel.
+
 
 whatsnew90-availability-heading = Kini boleh didapati di negara tambahan termasuklah:
 whatsnew90-availability-body = Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland.
