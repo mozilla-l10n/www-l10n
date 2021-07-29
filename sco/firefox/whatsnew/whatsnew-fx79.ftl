@@ -15,3 +15,5 @@ whatsnew79-update-your-firefox = Update yer { -brand-name-firefox } stravaiger
 whatsnew79-download-the-firefox = Doonload the { -brand-name-firefox } stravaiger
 # CTA link
 whatsnew79-read-more = Read Mair
+# Modal title
+whatsnew79-get-firefox-on-your-phone = Get { -brand-name-firefox } on yer Phone
