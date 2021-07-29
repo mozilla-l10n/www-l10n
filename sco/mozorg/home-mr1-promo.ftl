@@ -7,3 +7,4 @@
 
 home-promo-title-soraya = Fire sterts here
 home-promo-title-ryan = Fire sterts here
+home-promo-explore-firefox = Hae a deek at { -brand-name-firefox }

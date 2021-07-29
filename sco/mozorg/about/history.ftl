@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
+history-history-of-the-mozilla-project = Historie o the { -brand-name-mozilla } Project
 history-mozilla-bookmarks = { -brand-name-mozilla } Buikmerks

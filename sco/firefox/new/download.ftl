@@ -57,3 +57,4 @@ firefox-new-visit-support-for-more = Veesit Support fur Mair Details
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Doonload { -brand-name-firefox-browser }
+firefox-new-from-mozilla = fae { -brand-name-mozilla }

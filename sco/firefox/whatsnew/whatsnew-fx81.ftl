@@ -7,3 +7,6 @@
 
 # html page title
 whatsnew81-page-title = Whit’s new wi { -brand-name-firefox }
+whatsnew81-send-form-label = Inpit yer email fur a doonload link
+# content blocks below hero
+whatsnew81-the-new-firefox-for-android = The NEW { -brand-name-firefox } fur { -brand-name-android } is here
