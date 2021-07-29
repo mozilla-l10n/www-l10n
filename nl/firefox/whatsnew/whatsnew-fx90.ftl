@@ -12,7 +12,12 @@ whatsnew90-main-cta = { -brand-name-mozilla-vpn } downloaden
 whatsnew90-block-1-heading = Veilig
 whatsnew90-block-1-body = Openbare wifi is een van de eenvoudigste manieren voor hackers om uw persoonlijke gegevens te bemachtigen. { -brand-name-mozilla-vpn } versleutelt uw netwerkactiviteit en verbergt uw locatie en IP-adres.
 whatsnew90-block-2-heading = Thuis bij uw VPN
+# Obsolete string
 whatsnew90-block-2-body = Neem uw entertainment mee op reis of reis naar uw entertainment. Maak verbinding met meer dan 750 servers in meer dan 30 landen en stream, speel en surf veiliger, terwijl u flexibel blijft.
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+whatsnew90-block-2-body-v2 = Neem uw entertainment mee op reis of reis naar uw entertainment. Maak verbinding met meer dan { $servers } servers in meer dan { $countries } landen en stream, speel en surf veiliger, terwijl u flexibel blijft.
 whatsnew90-availability-heading = Nu in nog meer landen beschikbaar, waaronder:
 whatsnew90-availability-body = Duitsland, Frankrijk, Italië, Spanje, België, Oostenrijk, Zwitserland.
 whatsnew90-press-logos-heading = Aanbevolen in
