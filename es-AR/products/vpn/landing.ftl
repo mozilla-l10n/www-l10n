@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = ¿Qué es una VPN y cuáles son sus usos
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = A medida que de la vida cotidiana se desarrolla más a través de Internet, la privacidad y seguridad en línea se vuelven aún más importantes. Una VPN, <a href="{ $url }">Red privada virtual</a>, puede ayudarte a crear una conexión privada y segura a Internet. Funciona creando un "túnel" entre tu dispositivo e Internet en general, y te protege de dos formas importantes:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Ocultar tu verdadera <a href="{ $url }"> dirección IP </a>. Esto protege tu identidad y oculta tu ubicación.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Ocultando tu verdadera dirección IP. Esto protege tu identidad y oculta tu ubicación.
 vpn-landing-faq-uses-encrypt = Cifrando el tráfico entre vos y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
 # Variables:
