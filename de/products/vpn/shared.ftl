@@ -102,6 +102,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobile
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Was ist eine IP-Adresse?
+vpn-subnav-when-to-use-a-vpn = Wann Sie ein VPN verwenden sollten
+vpn-subnav-vpn-vs-proxy = VPN vs. Proxy
 
 ##
 
