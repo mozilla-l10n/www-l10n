@@ -16,4 +16,7 @@ features-shared-password-manager = Passwort-Manager
 features-shared-customize-your-browser = Ihre Themes
 features-shared-sync-between-devices = Synchron auf allen Geräten
 features-shared-better-bookmarks = Macht Lesezeichen-Liebhaber glücklich
+features-shared-fingerprinter-blocking = Blockierung von Identifizierern (Fingerprintern)
+features-shared-translate-the-web = Das Web übersetzen
+features-shared-picture-in-picture = Bild-im-Bild (PiP)
 brand-name-firefox = { -brand-name-firefox }
