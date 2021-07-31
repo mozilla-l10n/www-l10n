@@ -16,4 +16,7 @@ features-shared-password-manager = Quản lý mật khẩu
 features-shared-customize-your-browser = Tùy biến trình duyệt của bạn
 features-shared-sync-between-devices = Đồng bộ giữa các thiết bị
 features-shared-better-bookmarks = Đánh dấu trang tốt hơn
+features-shared-fingerprinter-blocking = Chặn dấu vết (Fingerprinter)
+features-shared-translate-the-web = Dịch trang web
+features-shared-picture-in-picture = Hình trong hình
 brand-name-firefox = { -brand-name-firefox }

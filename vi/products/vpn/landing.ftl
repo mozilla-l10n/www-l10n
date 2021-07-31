@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = VPN là gì và công dụng của nó?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Khi cuộc sống hàng ngày diễn ra nhiều hơn thông qua internet, quyền riêng tư và bảo mật trực tuyến càng trở nên quan trọng hơn. VPN, <a href="{ $url }">mạng riêng ảo</a>, có thể giúp bạn tạo kết nối Internet an toàn, riêng tư. Nó hoạt động bằng cách tạo một "đường hầm" giữa thiết bị của bạn và Internet nói chung và nó bảo vệ bạn theo hai cách quan trọng:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Che giấu <a href="{ $url }">địa chỉ IP</a> thực của bạn. Điều này bảo vệ danh tính của bạn và che khuất vị trí của bạn.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Che giấu địa chỉ IP thực của bạn. Điều này bảo vệ danh tính của bạn và che khuất vị trí của bạn.
 vpn-landing-faq-uses-encrypt = Mã hóa lưu lượng giữa bạn và nhà cung cấp VPN để không ai trong mạng cục bộ của bạn có thể giải mã hoặc sửa đổi nó.
 # Variables:
