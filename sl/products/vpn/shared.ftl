@@ -14,6 +14,11 @@ vpn-shared-available-countries = { -brand-name-mozilla-vpn } trenutno ponujamo v
 vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } trenutno ponujamo v Združenem kraljestvu, Nemčiji, Franciji, ZDA, Kanadi, Maleziji, na Novi Zelandiji in v Singapurju.
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } trenutno ponujamo v Avstriji, Nemčiji, Švici, Italiji, Belgiji, Španiji, Franciji, Združenem kraljestvu, ZDA, Kanadi, Maleziji, na Novi Zelandiji in v Singapurju.
 vpn-shared-money-back-guarantee = 30-dnevno vračilo denarja
+vpn-shared-features-encrypt = Šifriranje na ravni naprave
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Preko { $servers } strežnikov v več kot { $countries } državah
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Dostop do strežnikov v več kot { $countries } državah
@@ -47,6 +52,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registrirana blago
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Izberite naročnino, ki vam ustreza
+vpn-shared-pricing-recommended-offer = Priporočamo
 vpn-shared-pricing-plan-6-month = 6 mesecev
 vpn-shared-pricing-plan-12-month = 12 mesecev
 vpn-shared-pricing-plan-monthly = Mesečno
