@@ -9,3 +9,4 @@
 vpn-ip-address-what-is-an-ip-address = ¿Qué es una dirección IP?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } responde todas tus preguntas sobre direcciones IP desde lo que es una dirección IP, hasta cómo funciona y si debería ocultarla.
+vpn-ip-address-does-your-ip = ¿La dirección IP cambia?

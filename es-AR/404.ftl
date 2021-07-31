@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: No se encontró la página
-not-found-page-sorry-we-cant-find-that-page = Disculpá, %1$s no encuentra esa página.
+not-found-page-sorry-we-cant-find-that-page = Disculpá, no podemos encontrar esa página.
 not-found-page-were-all-about-a-healthy-internet = Luchamos por una Internet saludable, pero a veces se producen URL rotas.
 not-found-page-go-back = Retroceder
 # Variables:
