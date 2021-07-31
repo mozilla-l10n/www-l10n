@@ -11,3 +11,4 @@ vpn-what-is-how-do-vpns = ¿Cómo trabajan las VPNs?
 vpn-what-is-concealing-your-ip = Ocultando tu dirección IP, protegiendo tu identidad y tu ubicación.
 vpn-what-is-encrypting-your-traffic = Cifrando el tráfico entre vos y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
 vpn-what-is-when-should-i = ¿Cuándo debería usar una VPN?
+vpn-what-is-wait-i-thought = Pará, pará, pará. Pensé que mi tráfico de internet ya estaba cifrado con HTTPS…
