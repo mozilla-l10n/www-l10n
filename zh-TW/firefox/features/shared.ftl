@@ -16,4 +16,7 @@ features-shared-password-manager = 密碼管理員
 features-shared-customize-your-browser = 自訂瀏覽器
 features-shared-sync-between-devices = 在不同裝置間同步
 features-shared-better-bookmarks = 更好的書籤
+features-shared-fingerprinter-blocking = 封鎖數位指紋追蹤程式
+features-shared-translate-the-web = 翻譯網頁內容
+features-shared-picture-in-picture = 子母畫面
 brand-name-firefox = { -brand-name-firefox }

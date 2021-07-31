@@ -102,6 +102,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = 行動版
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = IP 地址是什麼？
+vpn-subnav-when-to-use-a-vpn = 什麼時候該使用 VPN
+vpn-subnav-vpn-vs-proxy = VPN 跟 Proxy 有什麼不同
 
 ##
 
