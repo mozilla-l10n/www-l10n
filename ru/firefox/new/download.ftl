@@ -57,5 +57,6 @@ firefox-new-visit-support-for-more = Посетите сайт поддержк�
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Загрузить { -brand-name-firefox-browser }
+firefox-new-fast = Быстрый, Приватный и Бесплатный
 firefox-new-from-mozilla = от { -brand-name-mozilla }
 firefox-new-download-a-different = Загрузить для других платформ и языков

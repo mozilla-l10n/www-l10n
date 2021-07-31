@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = Что такое VPN и для чего
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Поскольку все большая часть повседневной жизни происходит в Интернете, приватность и безопасность в нём становятся всё более важными. VPN, <a href="{ $url }">Виртуальная частная сеть</a>, может помочь вам создать безопасное, приватное подключение к Интернету. Он работает, создавая «туннель» между вашим устройством и Интернетом в целом, и защищает вас двумя важными способами:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Скрывая ваш настоящий <a href="{ $url }">IP-адрес</a>. Это защищает вашу личность и скрывает ваше местоположение.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Скрывая ваш настоящий IP-адрес. Это защищает вашу личность и скрывает ваше местоположение.
 vpn-landing-faq-uses-encrypt = Шифруя трафик между вами и вашим провайдером VPN, чтобы никто в вашей локальной сети не мог его расшифровать или изменить.
 # Variables:
