@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
 
+vpn-when-to-use-encrypting-your-traffic = Criptografa o tráfego entre você e seu provedor de VPN para que ninguém em sua rede local possa decifrar ou modificar.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, um serviço de VPN confiável
