@@ -14,3 +14,4 @@ vpn-what-is-how-do-vpns = Como functiona le VPNs?
 vpn-what-is-a-vpn-is = Un VPN es un instrumento que te permitte de acceder a internet con securitate ubicunque tu es. Un VPN functiona per creation de un secur “tunnel” inter tu apparato e tu fornitor de VPN, e illo te protege in duo manieras clave:
 vpn-what-is-concealing-your-ip = Occultante tu adresse IP, protegente tu identitate e position.
 vpn-what-is-encrypting-your-traffic = Cryptante tu traffico inter te e tu fornitor de VPN assi que nemo sur tu rete local pote decifrar lo o modificar lo.
+vpn-what-is-in-the-past = In le passato, VPNs ha essite principalmente usate per corporationes pro permitter secur accesso remote a lor servicios interne e datos proprietari.
