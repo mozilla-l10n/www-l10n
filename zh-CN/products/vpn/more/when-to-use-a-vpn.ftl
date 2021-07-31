@@ -7,3 +7,4 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 您应该使用 VPN 的 5 个理由
+vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }，可信赖的 VPN 服务
