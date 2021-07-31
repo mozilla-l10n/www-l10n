@@ -17,5 +17,6 @@ vpn-ip-address-can-we-run = 我们能用完它们吗？
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = 在互联网最初设计时，使用的是“第四版”地址。它使用 32 位（4字节）地址，意味着我们最多可以有 <a href="{ $sr }">42 亿个地址</a>。这在当时似乎足够了，但在一个平均美国家庭拥有 <a href="{ $variety }">11 台联网设备</a>的世界里，显然是不够的。
+vpn-ip-address-we-now-have = 我们现在已经有了第六版 IP 地址，每个地址有 128 位。遗憾的是，第四版和第六版不能直接相互通信，所以人们仍将需要第四版地址很长一段时间。
 vpn-ip-address-should-you-hide = 有必要隐藏 IP 地址吗？
 vpn-ip-address-how-do-you = 如何隐藏它？
