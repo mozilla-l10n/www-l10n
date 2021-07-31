@@ -16,4 +16,7 @@ features-shared-password-manager = 密码管理器
 features-shared-customize-your-browser = 定制您的浏览器
 features-shared-sync-between-devices = 设备之间同步
 features-shared-better-bookmarks = 更好的书签
+features-shared-fingerprinter-blocking = 拦截数字指纹跟踪程序
+features-shared-translate-the-web = 翻译网页
+features-shared-picture-in-picture = 画中画
 brand-name-firefox = { -brand-name-firefox }
