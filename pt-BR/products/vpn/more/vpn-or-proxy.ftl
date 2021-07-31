@@ -5,6 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
-vpn-or-proxy-concealing-your-ip = Oculta seu endereço IP, protegendo sua identidade e dificultando encontrar sua localização.
+vpn-or-proxy-concealing-your-ip = Oculta seu endereço IP, protegendo sua identidade e dificultando descobrir sua localização.
 vpn-or-proxy-encrypting-your-traffic = Criptografa o tráfego entre você e seu provedor de VPN para que ninguém em sua rede local possa decifrar ou modificar.
 vpn-or-proxy-choose-a-trustworthy = Escolha um serviço confiável
