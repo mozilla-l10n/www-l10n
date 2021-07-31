@@ -102,6 +102,7 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = 移动版
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-vpn-vs-proxy = VPN VS 代理
 
 ##
 

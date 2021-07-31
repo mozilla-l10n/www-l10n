@@ -11,4 +11,6 @@ vpn-ip-address-what-is-an-ip-address = IP 地址是什么？
 vpn-ip-address-an-example-of-an-ip = IP 地址是由四组用小数点分隔的数字所构成的序列，如：123.45.67.89
 vpn-ip-address-if-you-look-up-your = 若您查看自己的 IP 地址，它看起来会像这样。
 vpn-ip-address-does-your-ip = 您的 IP 地址会变化吗？
+vpn-ip-address-can-more-than = 多台设备是否可以有相同的 IP 地址？
 vpn-ip-address-should-you-hide = 有必要隐藏 IP 地址吗？
+vpn-ip-address-how-do-you = 如何隐藏它？
