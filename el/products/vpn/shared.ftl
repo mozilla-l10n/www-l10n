@@ -102,6 +102,7 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Κινητές συσκευές
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Τι είναι μια διεύθυνση IP;
 
 ##
 

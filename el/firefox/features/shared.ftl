@@ -16,4 +16,7 @@ features-shared-password-manager = Διαχείριση κωδικών πρόσ�
 features-shared-customize-your-browser = Προσαρμογή του προγράμματος περιήγησής σας
 features-shared-sync-between-devices = Συγχρονισμός μεταξύ συσκευών
 features-shared-better-bookmarks = Καλύτεροι σελιδοδείκτες
+features-shared-fingerprinter-blocking = Αποκλεισμός fingerprinter
+features-shared-translate-the-web = Μετάφραση του web
+features-shared-picture-in-picture = Εικόνα εντός εικόνας
 brand-name-firefox = { -brand-name-firefox }
