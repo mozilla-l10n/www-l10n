@@ -7,3 +7,5 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Vad är en IP-adress?
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } svarar på alla dina frågor om IP-adresser, som från vad är en IP-adress, hur den fungerar och om du ska dölja den.
