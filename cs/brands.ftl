@@ -389,7 +389,17 @@
 
 ## Firefox browsers (legacy)
 
--brand-name-firefox-aurora = Firefox Aurora
+-brand-name-firefox-aurora =
+    { $case ->
+       *[nom] Firefox Aurora
+        [gen] Firefoxu Aurora
+        [dat] Firefoxu Aurora
+        [acc] Firefox Aurora
+        [voc] Firefoxe Aurora
+        [loc] Firefoxu Aurora
+        [ins] Firefoxem Aurora
+    }
+    .gender = masculine
 -brand-name-aurora = Aurora
 -brand-name-firefox-quantum =
     { $case ->
