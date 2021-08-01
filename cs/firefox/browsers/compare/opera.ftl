@@ -17,3 +17,4 @@ compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox-browser } a 
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Zásady ochrany osobních údajů { -brand-name-firefox(case: "gen") }</a> jsou velmi transparentní v popisu toho, jaké osobní údaje shromažďujeme, přičemž jediným konečným cílem je poskytnout vám větší kontrolu nad informacemi, které sdílíte na internetu.
+compare-opera-as-far-as-actual-privacy-protections = Co se týče skutečné ochrany soukromí v prohlížeči { -brand-name-opera }, nabízí solidní soukromý režim, který vám umožní surfovat po webu bez toho, aby prohlížeč sledoval vaši aktivitu. Kromě toho můžete i v běžném režimu prohlížení vypnout některé funkce sběru dat, a to tak, že zabrousíte do nastavení a povolíte blokování reklam a upravíte další bezpečnostní funkce.
