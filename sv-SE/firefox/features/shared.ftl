@@ -16,4 +16,7 @@ features-shared-password-manager = Lösenordshanterare
 features-shared-customize-your-browser = Anpassa din webbläsare
 features-shared-sync-between-devices = Synkronisera mellan enheter
 features-shared-better-bookmarks = Bättre bokmärken
+features-shared-fingerprinter-blocking = Blockering av fingeravtrycksspårare
+features-shared-translate-the-web = Översätt webben
+features-shared-picture-in-picture = Bild-i-bild
 brand-name-firefox = { -brand-name-firefox }

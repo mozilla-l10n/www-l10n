@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = Vad är ett VPN och vad använder det?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Eftersom mer av det dagliga livet sker via internet blir integritet och säkerhet online ännu viktigare. Ett VPN, <a href="{ $url }">virtuellt privat nätverk</a>, kan hjälpa dig att skapa en säker, privat anslutning till internet. Det fungerar genom att skapa en "tunnel" mellan din enhet och internet i stort och det skyddar dig på två viktiga sätt:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Döljer din sanna <a href="{ $url }">IP-adress</a>. Detta skyddar din identitet och döljer din plats.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Döljer din sanna IP-adress. Detta skyddar din identitet och döljer din plats.
 vpn-landing-faq-uses-encrypt = Krypterar trafiken mellan dig och din VPN-leverantör så att ingen i ditt lokala nätverk kan dechiffrera eller ändra den.
 # Variables:
