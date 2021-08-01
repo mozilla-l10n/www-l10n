@@ -651,7 +651,17 @@
 
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
+-brand-name-bugzilla =
+    { $case ->
+       *[nom] Bugzilla
+        [gen] Bugzilly
+        [dat] Bugzille
+        [acc] Bugzillu
+        [voc] Bugzillo
+        [loc] Bugzille
+        [ins] Bugzillou
+    }
+    .gender = feminine
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival =
@@ -834,14 +844,13 @@
 -brand-name-windows =
     { $case ->
        *[nom] Windows
-        [gen] Windowsu
-        [dat] Windowsu
+        [gen] Windows
+        [dat] Windows
         [acc] Windows
         [voc] Windows
-        [loc] Windowsu
-        [ins] Windowsem
+        [loc] Windows
+        [ins] Windows
     }
-    .gender = masculine
 -brand-name-xp = XP
 
 ## Apple products
