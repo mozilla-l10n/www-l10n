@@ -28,3 +28,17 @@ vpn-ip-address-can-we-run = Can we run out of them?
 vpn-ip-address-when-the-internet = When the Internet was first designed, it used “version 4” addresses. These are 32 bits, which means that we could have up to <a href="{ $sr }">4.2bn addresses</a>. This seemed like enough at the time, but is nowhere near enough in a world where the average U.S. household had <a href="{ $variety }">11 connected devices</a>.
 vpn-ip-address-we-now-have = We now have version 6 IP addresses, which have 128 bits per address. Unfortunately, version 4 and version 6 can’t talk to each other directly, so people are going to need version 4 addresses for a long time.
 vpn-ip-address-should-you-hide = Should you hide your IP address?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = You don’t need to hide your IP address, but there are some times where you may want to. The most common reason is privacy. In the U.S., <a href="{ $congress }">Congress overruled</a> privacy regulations designed to protect the privacy of broadband users. Internet service providers can see your browsing habits, what you are using the internet for, and how long you spend on each page. This communication is not encrypted, so third-parties can see what website you’re visiting. One way to combat this is <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). This encrypts your DNS (Domain Name System) traffic, making it harder for ISPs to see the websites you are trying to visit. For US <a href="{ $firefox }">{ -brand-name-firefox } users</a>, by default your DoH queries are directed to trusted DNS servers, making it harder to associate you with the websites you try to visit.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = There are also situational reasons to hide your IP address. You may want to hide it when traveling. A VPN will also give you <a href="{ $url }">more privacy</a> when connecting to WiFi to stream and shop while you explore the world.
+vpn-ip-address-how-do-you = How do you hide it?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is = A VPN is a way to hide your IP address. <a href="{ $vpn }">When you use a VPN</a>, your external IP address will be coming from the VPN server’s external IP, rather than your location’s external IP address. So if your connecting VPN server is located in California, your external IP will look like it’s connected from California, no matter where you actually are. Plus, your online activity is sent over an encrypted, secure connection to your VPN server, giving you additional security and privacy. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is one way to hide your IP address. We don’t keep activity logs or partner with third-party analytics platforms. We offer full-device protection for up to five devices with servers in { $countries }+ countries, you can connect to anywhere, from anywhere.
