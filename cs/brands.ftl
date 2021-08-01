@@ -855,7 +855,17 @@
 
 ## Apple products
 
--brand-name-app-store = App Store
+-brand-name-app-store =
+    { $case ->
+       *[nom] App Store
+        [gen] App Storu
+        [dat] App Storu
+        [acc] App Store
+        [voc] App Store
+        [loc] App Storu
+        [ins] App Storem
+    }
+    .gender = masculine
 -brand-name-ipad =
     { $case ->
        *[nom] iPad
