@@ -41,3 +41,6 @@ vpn-what-is-its-very-hard =
 vpn-what-is-mozilla-vpn-fast =
     { -brand-name-mozilla-vpn }: Fast, secure, trustworthy
     { -brand-name-mozilla-vpn }: Veloce, secur, digne de fide
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio digne de tu confidentia pro mantener tu connexion a internet secur sur tote tu apparatos. Nos non tene registrate datos del usator e nos non collabora con platteformas de analyse de tertie parte pro producer un profilo de lo que tu face online. In un mundo ubi le imprevidibilitate ha devenite le “nove normalitate”, nos sape que il es plus importante que mais pro sentir te secur e pro te saper que lo que tu face online es tu proprie negotios.
