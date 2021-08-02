@@ -23,6 +23,10 @@ vpn-landing-brand-trust-heading = VPN wot marki, kotrejž móžeće dowěrić
 
 vpn-landing-faq-heading = Huste stajene prašenja
 vpn-langing-faq-uses-question-heading = Što je VPN a za čo so wužiwa?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Waša <a href="{ $url }">IP-adresa</a> so schowa. Tak so waše identita škita a waše stejnišćo znjespóznajomni.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Waša IP-adresa so schowa. Tak so waše identita škita a waše stejnišćo znjespóznajomni.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
