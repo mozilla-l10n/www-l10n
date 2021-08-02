@@ -38,3 +38,6 @@ vpn-what-is-are-vpns-safe = Es le VPNs secur?
 vpn-what-is-its-very-hard =
     Il es multo difficile a trovar un VPN digne de fide.
     Le VPNs es studiate pro proteger le usatores durante que illes es online, ma non tote le VPNs es equal in le servicio que illos forni. Cercante compras de un servicio VPN, cura de comprender le terminos que tu accepta. Multe assere esser formidabile e concentrate sur le confidentialitate, ma un grande numero de illes rumpe lor promissa. Alcun VPNs registrara tu activitates online assi illes pote vender tu datos e informationes a lor proprie interprisas de marketing. Altere VPNs provara a convincer te installar malware sur tu apparatos.
+vpn-what-is-mozilla-vpn-fast =
+    { -brand-name-mozilla-vpn }: Fast, secure, trustworthy
+    { -brand-name-mozilla-vpn }: Veloce, secur, digne de fide
