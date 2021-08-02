@@ -38,6 +38,15 @@ vpn-what-is-are-vpns-safe = Es le VPNs secur?
 vpn-what-is-its-very-hard =
     Il es multo difficile a trovar un VPN digne de fide.
     Le VPNs es studiate pro proteger le usatores durante que illes es online, ma non tote le VPNs es equal in le servicio que illos forni. Cercante compras de un servicio VPN, cura de comprender le terminos que tu accepta. Multe assere esser formidabile e concentrate sur le confidentialitate, ma un grande numero de illes rumpe lor promissa. Alcun VPNs registrara tu activitates online assi illes pote vender tu datos e informationes a lor proprie interprisas de marketing. Altere VPNs provara a convincer te installar malware sur tu apparatos.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Nos ha facite le labor necessari pro permitter a <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> de realmente respectar tu confidentialitate e isto es qualcosa sur que nos es preste a mitter in joco nostre reputation. { -brand-name-mozilla } ha un reputation pro facer productos que te adjuta mantener tu informationes secur. Nos seque nostre <a href="{ $principles }">Principios de confidentialitate del datos</a> facile a leger, sin-nonsensos, que permitte nos de concentrar nos solo sur le informationes necessari pro fornir un servicio. Le technologia de { -brand-name-mozilla-vpn } es magre e moderne, pro offerer al usatores un veloce connexion con plen protection e securitate de VPN. E pois que le productores de iste VPN es supportate per un compania <a href="{ $mission }">ducite per mission</a>, tu pote te fider que le dollars que tu expende pro iste producto non solo te assecurara que tu ha un VPN de maxime grado, ma alsi rende internet melior pro totes.
+vpn-what-is-can-vpns-protect = Pote VPNs proteger me del cybercriminales?
+vpn-what-is-are-vpns-legal = Es VPNs legal?
+vpn-what-is-are-vpns-only = Es VPNs solo pro computatores?
 vpn-what-is-mozilla-vpn-fast =
     { -brand-name-mozilla-vpn }: Fast, secure, trustworthy
     { -brand-name-mozilla-vpn }: Veloce, secur, digne de fide
