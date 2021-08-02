@@ -15,3 +15,7 @@ vpn-ip-address-your-ip-address = Tu adresse IP es un identificator unic, sorta d
 vpn-ip-address-an-example-of-an-ip = Un exemplo de un adresse IP que es un sequentia de quatro numeros, separate per punctos: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Si tu cerca tu adresse IP, illo apparera qualcosa assi.
 vpn-ip-address-does-it-travel = Viagia illo con te?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip = No. Tu adresse IP es solo associate con un position a minus que tu <a href="{ $url }">usa un VPN</a> (nos te dicera plus re isto plus tarde). Quando tu es a tu casa, connexe a internet, tu paga pro, lo que tu usa. Totevia, si tu controla tu e-mail a casa al matino, pois scande le novas a un café local, compra durante que attendente tu caffe, e pois labora de un officio, tu habera usate altere adresses IP a cata position.
+vpn-ip-address-does-your-ip = Cambia tu adresse IP?
