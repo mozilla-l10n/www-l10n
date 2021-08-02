@@ -17,3 +17,4 @@ vpn-ip-address-does-your-ip = L’indirizzo IP può cambiare?
 vpn-ip-address-can-more-than = Possono più dispositivi avere lo stesso indirizzo IP?
 vpn-ip-address-we-now-have = Ora abbiamo gli indirizzi IP versione 6, che hanno 128 bit ciascuno. Purtroppo la versione 4 e la versione 6 non possono comunicare direttamente tra loro, quindi avremo bisogno degli indirizzi versione 4 ancora per molto tempo.
 vpn-ip-address-should-you-hide = È necessario nascondere il proprio indirizzo IP?
+vpn-ip-address-how-do-you = Come si può nascondere l’indirizzo IP?
