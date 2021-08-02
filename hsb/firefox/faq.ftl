@@ -72,6 +72,7 @@ does-firefox-have = Ma { -brand-name-firefox } zatwarjeny VPN?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+firefox-does-not = { -brand-name-firefox } zatwarjeny VPN (virtual private network „wirtuelna priwatna syć“) nima, ale stej dwaj produktaj zhotowjenej wot { -brand-name-mozilla }/{ -brand-name-firefox }, kotrejž móžeće přidatnje k priwatnemu { -brand-name-firefox-browser }, kotryž móže pak swój wobhladowak (</a><a href="{ $url }">{ -brand-name-firefox-private-network }</a>) abo gratowy (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) zwisk na WLAN kaž tež wašu IP-adresu škita.
 related-questions-ip = Podobne prašenja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
@@ -79,4 +80,5 @@ who-owns-firefox = Komu { -brand-name-firefox } słuša?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } so wot { -brand-name-mozilla-corporation } wuwiwa, stoprocentoweje wotnožki towarstwa powšitkownosći wužitneje załožby <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> a wjedźe so po zasadach manifesta { -brand-name-mozilla }. Zhońće <a href="{ $url2 }">tu</a> wjace wo wuwiwarju { -brand-name-firefox }.
 related-questions-who = Podobne prašenja: Komu { -brand-name-firefox } słuša, komu { -brand-name-firefox-browser } słuša, słuša { -brand-name-firefox } { -brand-name-google }, słuša { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google }
