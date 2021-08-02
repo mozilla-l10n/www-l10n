@@ -18,6 +18,10 @@ whatsnew90-block-2-heading = जहाँ का VPN, वही आपकी ल
 # Obsolete string
 whatsnew90-block-2-body = अब बेफिक्र ब्राउज़िंग करें, मनोरंजन करें, चाहे सड़क पर या यात्रा के दौरान। 30 से अधिक देशों में 750+ सर्वरों से कनेक्ट करें और कहीं आते-जाते भी अधिक सुरक्षित रूप से स्ट्रीम करें, खेलें और नेट सर्फ़िंग करें।
 
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+whatsnew90-block-2-body-v2 = अब बेफिक्र मनोरंजन करें, चाहे सड़क पर या यात्रा के दौरान। { $countries } से अधिक देशों में { $servers }+ सर्वरों से कनेक्ट करें और कहीं आते-जाते भी अधिक सुरक्षित रूप से स्ट्रीम करें, चलाएं और नेट सर्फ़िंग करें।
 
 whatsnew90-availability-heading = अब कई अन्य देशों में भी उपलब्ध, जिनमें शामिल हैं:
 whatsnew90-availability-body = जर्मनी, फ्रांस, इटली, स्पेन, बेल्जियम, ऑस्ट्रिया, स्विट्जरलैंड।
