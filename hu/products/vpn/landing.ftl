@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = Mi az a VPN, és mire használható?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Ahogy a mindennapi életünk egyre nagyobb része az interneten keresztül zajlik, az online adatvédelem és biztonság még fontosabbá vált. Egy VPN, egy <a href="{ $url }">virtuális magánhálózat</a>, segíthet, hogy biztonságosabb, privát kapcsolata legyen az internet felé. Úgy működik, hogy egy „alagutat” hoz létre az eszköze és az internet egésze között, és két fontos módon védi meg:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Elrejti a valódi <a href="{ $url }">IP-címét</a>. Ez védi a személyazonosságát, és elfedi a tartózkodási helyét.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Elrejti a valódi IP-címét. Ez védi a személyazonosságát, és elfedi a tartózkodási helyét.
 vpn-landing-faq-uses-encrypt = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
 # Variables:

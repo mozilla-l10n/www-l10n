@@ -16,4 +16,7 @@ features-shared-password-manager = Jelszókezelő
 features-shared-customize-your-browser = Szabja testre a böngészőjét
 features-shared-sync-between-devices = Szinkronizáljon az eszközök közt
 features-shared-better-bookmarks = Jobb könyvjelzők
+features-shared-fingerprinter-blocking = Ujjlenyomat-készítők blokkolása
+features-shared-translate-the-web = A web lefordítása
+features-shared-picture-in-picture = Kép a képben
 brand-name-firefox = { -brand-name-firefox }
