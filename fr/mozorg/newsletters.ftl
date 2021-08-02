@@ -141,6 +141,8 @@ newsletters-dont-miss-the-latest = Ne manquez aucune annonce concernant notre na
 newsletters-get-involved = Impliquez-vous
 # Obsolete string
 newsletters-internet-health-report = Bulletin de santé d’Internet
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publie des articles et des analyses approfondies sur des problématiques liées à la santé d’Internet et à des IA dignes de confiance, comme par exemple notre rapport annuel sur la santé d’Internet.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Informez-vous grâce à notre compilation annuelle de travaux de recherche et d’articles sur la vie privée et la sécurité, l’ouverture, l’inclusion numérique, la décentralisation et l’éducation au Web.
 # Name for the newsletter in Newsletter subscription page
