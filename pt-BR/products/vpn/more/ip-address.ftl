@@ -9,6 +9,7 @@
 vpn-ip-address-what-is-an-ip-address = O que é um endereço IP?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = A { -brand-name-mozilla } responde todas as suas dúvidas sobre endereços IP, desde o que é um endereço IP, como funciona e se você deve ocultar.
+vpn-ip-address-every-time-you = Sempre que estiver na internet, endereços IP desempenham um papel essencial na troca de informações para ajudar a ver os sites que você solicita. No entanto, há uma chance de você não saber qual é, então respondemos abaixo às perguntas mais comuns.
 vpn-ip-address-does-your-ip = Seu endereço IP muda?
 vpn-ip-address-can-more-than = Mais de um dispositivo pode ter o mesmo endereço IP?
 vpn-ip-address-should-you-hide = Você deve ocultar seu endereço IP?
