@@ -51,6 +51,9 @@ vpn-what-is-while-a-vpn = Ben que un VPN offere un connexion secur a internet, i
 vpn-what-is-are-vpns-legal = Es VPNs legal?
 vpn-what-is-installing-and-using = Installar e usar un VPN es actualmente legal in le major parte del paises, includite le Statos Unite, le UK, Canada e Nove Zealand, ma alcun paises pote regular lor usos. Si tu elige de usar un VPN, il es tu responsabilitate le verification del leges del pais pro definir si per illos es legal o non.
 vpn-what-is-are-vpns-only = Es VPNs solo pro computatores?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = VPNs pote esser usate pro proteger tote tu apparatos: computatores, portabiles, tablettas e smartphonos. Si tu accede a internet a transverso de apps autonome ultra le navigator, un VPN es un bon selection pro proteger tu confidentialitate e securitate sur ulle apparato. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> offere un illimitate connexion pro fin a cinque apparatos quando tu te connecte a internet de ulle app o navigator.
 vpn-what-is-mozilla-vpn-fast =
     { -brand-name-mozilla-vpn }: Fast, secure, trustworthy
     { -brand-name-mozilla-vpn }: Veloce, secur, digne de fide
