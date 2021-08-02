@@ -33,3 +33,8 @@ vpn-what-is-protecting-your-connection = Proteger tu connexion a un rete wi-fi p
 vpn-what-is-ensuring-the-confidentiality = Assecurar le confidentialitate e integritate de tu accesso a internet.
 vpn-what-is-make-it-more = Render plus difficile, pro le retes de avisos publicitari, usar tu IP pro crear profilos de avisos publicitari mirate que te tracia inter le web.
 vpn-what-is-what-are-the = Qual es le disavantages de usar un VPN?
+vpn-what-is-some-service-providers = Alcun fornitores de servicio bloca le visitas facite a transverso de VPNs, rendente lor contento inaccessibile quando un VPN es activate. Alcun VPNs pote relentar te o pote restringer tu largessa de banda. E alcun VPNs se classifica mal in terminos de respectar le confidentialitate e securitate del usator.
+vpn-what-is-are-vpns-safe = Es le VPNs secur?
+vpn-what-is-its-very-hard =
+    Il es multo difficile a trovar un VPN digne de fide.
+    Le VPNs es studiate pro proteger le usatores durante que illes es online, ma non tote le VPNs es equal in le servicio que illos forni. Cercante compras de un servicio VPN, cura de comprender le terminos que tu accepta. Multe assere esser formidabile e concentrate sur le confidentialitate, ma un grande numero de illes rumpe lor promissa. Alcun VPNs registrara tu activitates online assi illes pote vender tu datos e informationes a lor proprie interprisas de marketing. Altere VPNs provara a convincer te installar malware sur tu apparatos.
