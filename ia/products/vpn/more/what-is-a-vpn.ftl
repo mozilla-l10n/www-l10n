@@ -45,7 +45,11 @@ vpn-what-is-its-very-hard =
 # "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
 vpn-what-is-weve-done-the = Nos ha facite le labor necessari pro permitter a <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> de realmente respectar tu confidentialitate e isto es qualcosa sur que nos es preste a mitter in joco nostre reputation. { -brand-name-mozilla } ha un reputation pro facer productos que te adjuta mantener tu informationes secur. Nos seque nostre <a href="{ $principles }">Principios de confidentialitate del datos</a> facile a leger, sin-nonsensos, que permitte nos de concentrar nos solo sur le informationes necessari pro fornir un servicio. Le technologia de { -brand-name-mozilla-vpn } es magre e moderne, pro offerer al usatores un veloce connexion con plen protection e securitate de VPN. E pois que le productores de iste VPN es supportate per un compania <a href="{ $mission }">ducite per mission</a>, tu pote te fider que le dollars que tu expende pro iste producto non solo te assecurara que tu ha un VPN de maxime grado, ma alsi rende internet melior pro totes.
 vpn-what-is-can-vpns-protect = Pote VPNs proteger me del cybercriminales?
+# Variables
+#   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
+vpn-what-is-while-a-vpn = Ben que un VPN offere un connexion secur a internet, illo non te protege de tote le mal actores inundante foras. Cata vice que tu es online, con o sin VPN, tu debe esser caute de ligamines suspecte, campanias de information errate, attaccos fraudulente e altere menacias. <a href="{ $url }">Remaner secur online</a> es un mentalitate quotidian.
 vpn-what-is-are-vpns-legal = Es VPNs legal?
+vpn-what-is-installing-and-using = Installar e usar un VPN es actualmente legal in le major parte del paises, includite le Statos Unite, le UK, Canada e Nove Zealand, ma alcun paises pote regular lor usos. Si tu elige de usar un VPN, il es tu responsabilitate le verification del leges del pais pro definir si per illos es legal o non.
 vpn-what-is-are-vpns-only = Es VPNs solo pro computatores?
 vpn-what-is-mozilla-vpn-fast =
     { -brand-name-mozilla-vpn }: Fast, secure, trustworthy
