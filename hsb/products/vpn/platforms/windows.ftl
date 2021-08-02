@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
+vpn-windows-page-description = Škitajće swój cyły PC z wirtuelnej priwatnej syću (VPN) wot { -brand-name-mozilla }, internetneho pioněra, kotryž za was wot lěta 1998 za wašu priwatnosć wojuje.
 # Windows strings
 vpn-windows-hero-headline = Wěsty zwisk z { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
 vpn-windows-wifi-headline = Wostańće priwatny w zjawnym WLAN
