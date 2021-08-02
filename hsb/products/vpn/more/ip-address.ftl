@@ -8,3 +8,7 @@
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Što je IP-adresa?
 vpn-ip-address-does-your-ip = Měnja so waša IP-adresa?
+vpn-ip-address-can-more-than = Móže wjace hač jedyn grat samsnu IP-adresu měć?
+vpn-ip-address-can-we-run = Mamy hišće dosć z nich?
+vpn-ip-address-should-you-hide = Dyrbjał wy swoju IP-adresu schować?
+vpn-ip-address-how-do-you = Kak móžeće ju schować?
